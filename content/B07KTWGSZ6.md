@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Town - Inauguración de la Tien al 27.77 % de descuento'
-date: 2020-12-05 09:04:17
+date: 2020-12-06 15:27:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qIvQQWYgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qIvQQWYgL._SL200_.jpg' ]
 comments: true
