@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming Cascos PS4 y PS5 Auriculare al 42.41 % de descuento'
-date: 2020-12-05 19:29:57
+date: 2020-12-06 19:42:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CABTIY8sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CABTIY8sL._SL200_.jpg' ]
 comments: true
