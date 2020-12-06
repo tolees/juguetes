@@ -1,0 +1,13 @@
+baseURL = "https://juguetes.tole.es"
+languageCode = "es-es"
+title = "Los últimos descuentos detectados!"
+theme = "hugo-shopping-product-catalogue-simple"
+
+[Params]
+description = "Las últimas rebajas de"
+channel = "https://t.me/s/estodojuguetes"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
