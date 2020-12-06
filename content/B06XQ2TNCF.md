@@ -14,11 +14,11 @@ comparePrice: 28.11 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lisciani Giochi 59003 - Puzzle Soy un Genio Laboratorio de Tecnologia](https://www.amazon.es/dp/B06XQ2TNCF/?tag=tolees-21) a 10.64 EUR (original: 28.11 EUR) (62.15 %  de descuento) en el siguiente enlace!
+Está [Lisciani Giochi 59003 - Puzzle Soy un Genio Laboratorio de Tecnologia](https://www.amazon.es/dp/B06XQ2TNCF/?tag=tolees-21) con 62.15 de descuento por 10.64 EUR (original: 28.11 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51hMjuSjAhL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ2TNCF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XQ2TNCF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XQ2TNCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
