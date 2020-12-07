@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Patrulla Canina Subpatroller  BIZAK 6192 al 30.82 % de descuento'
-date: 2020-12-06 09:19:01
+date: 2020-12-07 16:09:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/61uU7ocD3iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61uU7ocD3iL._SL200_.jpg' ]
 comments: true
