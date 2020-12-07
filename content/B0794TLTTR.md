@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Final Fantasy XV  Royal Edition PS4 al 70.23 % de descuento'
-date: 2020-11-30 09:04:23
+date: 2020-12-07 19:46:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i2AkHKXQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i2AkHKXQL._SL200_.jpg' ]
 comments: true
