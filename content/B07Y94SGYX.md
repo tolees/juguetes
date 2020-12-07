@@ -14,11 +14,11 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Toy Story - Muñeco Buzz Lightyear 25 Aniversario  Mattel GJH49    color/modelo surtido](https://www.amazon.es/dp/B07Y94SGYX/?tag=tolees-21) a 16.99 EUR (original: 24.99 EUR) (32.01 %  de descuento) en el siguiente enlace!
+Está [Toy Story - Muñeco Buzz Lightyear 25 Aniversario  Mattel GJH49    color/modelo surtido](https://www.amazon.es/dp/B07Y94SGYX/?tag=tolees-21) con 32.01 de descuento por 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517CfzNoMEL._SL200_.jpg)](https://www.amazon.es/dp/B07Y94SGYX/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07Y94SGYX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07Y94SGYX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
