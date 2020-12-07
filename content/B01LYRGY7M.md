@@ -14,11 +14,11 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [PLAYMOBIL 9219 Ghostbusters  Cuartel Parque de Bomberos  a Partir de 6 Años](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21) con 48.56 de descuento por 36.0 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL 9219 Ghostbusters  Cuartel Parque de Bomberos  a Partir de 6 Años](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21) a 36.0 EUR (original: 69.99 EUR) (48.56 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/511UGFC5-RL._SL200_.jpg)](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01LYRGY7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
