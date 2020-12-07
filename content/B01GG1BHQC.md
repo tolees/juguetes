@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Juego de mesa Risk  Hasbro al 31.89 % de descuento'
-date: 2020-12-06 01:15:40
+date: 2020-12-07 01:27:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/519AzRJPoyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519AzRJPoyL._SL200_.jpg' ]
 comments: true
