@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Scalextric Advance Coche Audi R8 LMS GT3 Seinteloc Escala 1/32  Multicolor  E10285S300 ](https://www.amazon.es/dp/B07VJJBXZQ/?tag=tolees-21) a 35.48 EUR (original: 49.99 EUR) (29.03 %  de descuento) en el siguiente enlace!
+Está [Scalextric Advance Coche Audi R8 LMS GT3 Seinteloc Escala 1/32  Multicolor  E10285S300 ](https://www.amazon.es/dp/B07VJJBXZQ/?tag=tolees-21) con 29.03 de descuento por 35.48 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41WRp7YWSuL._SL200_.jpg)](https://www.amazon.es/dp/B07VJJBXZQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VJJBXZQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VJJBXZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
