@@ -14,11 +14,11 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75318 Star Wars: The Mandalorian El Niño  Figura de Baby Yoda  Idea de regalo](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21) a 64.99 EUR (original: 89.99 EUR) (27.78 %  de descuento) en el siguiente enlace!
+Está [LEGO 75318 Star Wars: The Mandalorian El Niño  Figura de Baby Yoda  Idea de regalo](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21) con 27.78 de descuento por 64.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/518BDEgmS2L._SL200_.jpg)](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B085WV2WGC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
