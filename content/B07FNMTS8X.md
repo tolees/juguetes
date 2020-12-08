@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Police - Policía Aérea: Base d al 41.46 % de descuento'
-date: 2020-12-07 05:36:23
+date: 2020-12-08 07:07:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R259qxA1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R259qxA1L._SL200_.jpg' ]
 comments: true
