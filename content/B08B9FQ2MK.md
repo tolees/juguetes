@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'STAR WARS: Squadrons  Xbox One al 27.06 % de descuento'
-date: 2020-11-22 17:57:56
+title: 'STAR WARS: Squadrons  Xbox One al 31.93 % de descuento'
+date: 2020-12-08 11:24:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kUaNugx9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kUaNugx9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B08B9FQ2MK
 description:
-actualPrice: 29.9 EUR
+actualPrice: 27.9 EUR
 comparePrice: 40.99 EUR
 inStock: true
 ---
 
-Está [STAR WARS: Squadrons  Xbox One](https://www.amazon.es/dp/B08B9FQ2MK/?tag=tolees-21) con 27.06 de descuento por 29.9 EUR (original: 40.99 EUR) en el siguiente enlace!
+Está [STAR WARS: Squadrons  Xbox One](https://www.amazon.es/dp/B08B9FQ2MK/?tag=tolees-21) con 31.93 de descuento por 27.9 EUR (original: 40.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51kUaNugx9L._SL200_.jpg)](https://www.amazon.es/dp/B08B9FQ2MK/?tag=tolees-21)
 
