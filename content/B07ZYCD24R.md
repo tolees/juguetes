@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.46 % en Disney Princess Comfy Food Truck  Hasbro'
-date: 2020-12-07 14:58:24
+date: 2020-12-08 17:46:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cLFHn1psL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cLFHn1psL._SL200_.jpg' ]
 comments: true
