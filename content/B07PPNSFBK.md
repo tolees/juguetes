@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Game Drive  2 TB  Unidad de disc al 26.66 % de descuento'
-date: 2020-12-06 13:39:33
+date: 2020-12-08 14:13:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg' ]
 comments: true
