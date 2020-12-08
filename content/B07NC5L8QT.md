@@ -16,10 +16,10 @@ inStock: true
 
 Está [Barbie - Chelsea Muñeca y Su Caravana  con Perrito y Accesorios  Mattel FXG90 ](https://www.amazon.es/dp/B07NC5L8QT/?tag=tolees-21) con 37.79 de descuento por 27.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Jmy8x1jVL._SL200_.jpg)](https://www.amazon.es/dp/B07NC5L8QT/?tag=tolees-21)
+[![Barbie - Chelsea Muñeca y Su Caravana  c](https://m.media-amazon.com/images/I/51Jmy8x1jVL._SL200_.jpg)](https://www.amazon.es/dp/B07NC5L8QT/?tag=tolees-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC5L8QT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

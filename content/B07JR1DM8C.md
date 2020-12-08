@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Youtubers Life  PS4](https://www.amazon.es/dp/B07JR1DM8C/?tag=tolees-21) a 18.89 EUR (original: 29.99 EUR) (37.01 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51pO0W%2BmiGL._SL200_.jpg)](https://www.amazon.es/dp/B07JR1DM8C/?tag=tolees-21)
+[![Youtubers Life  PS4](https://images-eu.ssl-images-amazon.com/images/I/51pO0W%2BmiGL._SL200_.jpg)](https://www.amazon.es/dp/B07JR1DM8C/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B07JR1DM8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

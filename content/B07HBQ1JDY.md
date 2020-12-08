@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [HORI - Battle Pad Luigi  Nintendo Switch ](https://www.amazon.es/dp/B07HBQ1JDY/?tag=tolees-21) con un 42.98 % de descuento con precio de oferta de 19.95 EUR (original: 34.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51G+DgN4pTL._SL200_.jpg)](https://www.amazon.es/dp/B07HBQ1JDY/?tag=tolees-21)
+[![HORI - Battle Pad Luigi  Nintendo Switch](https://m.media-amazon.com/images/I/51G+DgN4pTL._SL200_.jpg)](https://www.amazon.es/dp/B07HBQ1JDY/?tag=tolees-21)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HBQ1JDY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

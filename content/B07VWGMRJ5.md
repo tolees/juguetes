@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Dusk Diver - Day One Edition - Nintendo Switch](https://www.amazon.es/dp/B07VWGMRJ5/?tag=tolees-21) a 19.95 EUR (original: 49.99 EUR) (60.09 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51laSpNEvhL._SL200_.jpg)](https://www.amazon.es/dp/B07VWGMRJ5/?tag=tolees-21)
+[![Dusk Diver - Day One Edition - Nintendo ](https://m.media-amazon.com/images/I/51laSpNEvhL._SL200_.jpg)](https://www.amazon.es/dp/B07VWGMRJ5/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B07VWGMRJ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

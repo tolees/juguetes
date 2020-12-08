@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Ravensburger Monder Allergy  Monster Land  - 100 Piece Puzzle](https://www.amazon.es/dp/B000NLR0BS/?tag=tolees-21) a 10.61 EUR (original: 19.46 EUR) (45.48 %  de descuento) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51OwpQxNCoL._SL200_.jpg)](https://www.amazon.es/dp/B000NLR0BS/?tag=tolees-21)
+[![Ravensburger Monder Allergy  Monster Lan](https://images-eu.ssl-images-amazon.com/images/I/51OwpQxNCoL._SL200_.jpg)](https://www.amazon.es/dp/B000NLR0BS/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B000NLR0BS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [KabelDirekt 3m Cable HDMI 4K  compatible con  HDMI 2.0a/b  2.0  1.4a  4K Ultra HD  3D  Full HD 1080p  HDR  ARC High Speed con Ethernet  PS4  XBOX  HDTV   TOP Series](https://www.amazon.es/dp/B004BHZHIS/?tag=tolees-21) con un 48.39 % de descuento con precio de oferta de 4.64 EUR (original: 8.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41IbP0oEddL._SL200_.jpg)](https://www.amazon.es/dp/B004BHZHIS/?tag=tolees-21)
+[![KabelDirekt 3m Cable HDMI 4K  compatible](https://images-eu.ssl-images-amazon.com/images/I/41IbP0oEddL._SL200_.jpg)](https://www.amazon.es/dp/B004BHZHIS/?tag=tolees-21)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004BHZHIS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

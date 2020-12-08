@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Clementoni Ciencia y Juego- Invernadero Ecológico  55375 ](https://www.amazon.es/dp/B08BTWSSGY/?tag=tolees-21) a 17.48 EUR (original: 24.97 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51WSvvjuQML._SL200_.jpg)](https://www.amazon.es/dp/B08BTWSSGY/?tag=tolees-21)
+[![Clementoni Ciencia y Juego- Invernadero ](https://m.media-amazon.com/images/I/51WSvvjuQML._SL200_.jpg)](https://www.amazon.es/dp/B08BTWSSGY/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B08BTWSSGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

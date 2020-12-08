@@ -16,10 +16,10 @@ inStock: true
 
 Está [Hot Wheels Track Builder Caja de Acrobacias Premium  pista personalizable con accesorios  Mattel GNJ01 ](https://www.amazon.es/dp/B07Y94SBGX/?tag=tolees-21) con 39.74 de descuento por 59.99 EUR (original: 99.56 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/518xW+VwEXL._SL200_.jpg)](https://www.amazon.es/dp/B07Y94SBGX/?tag=tolees-21)
+[![Hot Wheels Track Builder Caja de Acrobac](https://m.media-amazon.com/images/I/518xW+VwEXL._SL200_.jpg)](https://www.amazon.es/dp/B07Y94SBGX/?tag=tolees-21)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Y94SBGX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

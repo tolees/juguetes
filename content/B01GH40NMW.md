@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Controlador de goma adhesiva conductora Timorn para Microsoft Xbox 360 sustitución de los contactos de ratones Botones Fix  Gray-10 juegos ](https://www.amazon.es/dp/B01GH40NMW/?tag=tolees-21) a 16.99 EUR (original: 30.99 EUR) (45.18 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41ASszukGUL._SL200_.jpg)](https://www.amazon.es/dp/B01GH40NMW/?tag=tolees-21)
+[![Controlador de goma adhesiva conductora ](https://m.media-amazon.com/images/I/41ASszukGUL._SL200_.jpg)](https://www.amazon.es/dp/B01GH40NMW/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B01GH40NMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
