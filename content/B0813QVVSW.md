@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars TM Caza Estelar del Gener al 27.88 % de descuento'
-date: 2020-12-07 07:38:16
+date: 2020-12-08 10:10:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NHEsLPugL._SL200_.jpg' ]
 comments: true
