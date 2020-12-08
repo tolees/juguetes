@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic - Helicóptero de Rescate  m al 25.68 % de descuento'
-date: 2020-12-07 07:58:57
+date: 2020-12-08 08:25:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg' ]
 comments: true
