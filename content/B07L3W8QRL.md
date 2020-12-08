@@ -14,12 +14,10 @@ comparePrice: 17.9 EUR
 inStock: true
 ---
 
-Está [Nintendo Iberica - amiibo King K. Rool](https://www.amazon.es/dp/B07L3W8QRL/?tag=tolees-21) con 27.93 de descuento por 12.9 EUR (original: 17.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nintendo Iberica - amiibo King K. Rool](https://www.amazon.es/dp/B07L3W8QRL/?tag=tolees-21) a 12.9 EUR (original: 17.9 EUR) (27.93 %  de descuento) en el siguiente enlace!
 
 [![Nintendo Iberica - amiibo King K. Rool](https://m.media-amazon.com/images/I/51s609d02vL._SL200_.jpg)](https://www.amazon.es/dp/B07L3W8QRL/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07L3W8QRL/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07L3W8QRL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

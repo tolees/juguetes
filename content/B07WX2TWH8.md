@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Princess - Paquete con Princesas  al 54.42 % de descuento'
-date: 2020-12-06 16:51:39
+date: 2020-12-08 15:06:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51or6Y6h4-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51or6Y6h4-L._SL200_.jpg' ]
 comments: true
