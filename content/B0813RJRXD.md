@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.11 % en LEGO City Oceans Océano Exploración Set '
-date: 2020-12-07 03:17:19
+date: 2020-12-08 09:03:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EhKdJl66L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EhKdJl66L._SL200_.jpg' ]
 comments: true
