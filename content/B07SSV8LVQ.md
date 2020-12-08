@@ -14,11 +14,11 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ori and the Will of the Wisps - Xbox One](https://www.amazon.es/dp/B07SSV8LVQ/?tag=tolees-21) a 12.99 EUR (original: 29.9 EUR) (56.56 %  de descuento) en el siguiente enlace!
+Está [Ori and the Will of the Wisps - Xbox One](https://www.amazon.es/dp/B07SSV8LVQ/?tag=tolees-21) con 56.56 de descuento por 12.99 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51jZ5hWUaYL._SL200_.jpg)](https://www.amazon.es/dp/B07SSV8LVQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07SSV8LVQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07SSV8LVQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
