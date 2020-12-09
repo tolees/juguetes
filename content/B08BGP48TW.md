@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 71.99 EUR
 inStock: true
-prodname: FIFA 21 Standard Edition - Xbox One
+prodname: 'FIFA 21 Standard Edition - Xbox One'
 ---
 
 Ahora mismo tienes [FIFA 21 Standard Edition - Xbox One](https://www.amazon.es/dp/B08BGP48TW/?tag=tolees-21) a 48.0 EUR (original: 71.99 EUR) (33.32 %  de descuento) en el siguiente enlace!

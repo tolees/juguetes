@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 12.0 EUR
 inStock: true
-prodname: MOJIPOPS - I like Movies con 2 exclusivas figuras Mojipops y variedad de accesorios   color/modelo surtido
+prodname: 'MOJIPOPS - I like Movies con 2 exclusivas figuras Mojipops y variedad de accesorios   color/modelo surtido'
 ---
 
 Está [MOJIPOPS - I like Movies con 2 exclusivas figuras Mojipops y variedad de accesorios   color/modelo surtido](https://www.amazon.es/dp/B07NSLTG9Z/?tag=tolees-21) con 50.08 de descuento por 5.99 EUR (original: 12.0 EUR) en el siguiente enlace!

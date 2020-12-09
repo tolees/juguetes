@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Barbie Collector  muñeca de colección de Cumpleaños Birthday Wishes  Mattel  GHT42 
+prodname: 'Barbie Collector  muñeca de colección de Cumpleaños Birthday Wishes  Mattel  GHT42 '
 ---
 
 Ahora mismo tienes [Barbie Collector  muñeca de colección de Cumpleaños Birthday Wishes  Mattel  GHT42 ](https://www.amazon.es/dp/B07XD6F2ZG/?tag=tolees-21) a 35.99 EUR (original: 49.99 EUR) (28.01 %  de descuento) en el siguiente enlace!

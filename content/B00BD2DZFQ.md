@@ -14,7 +14,7 @@ currency: EUR
 price: 34.8
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Hasbro Gaming - Juego de Estrategia Hundir la Flota  Juego electrónico  A3846105 
+prodname: 'Hasbro Gaming - Juego de Estrategia Hundir la Flota  Juego electrónico  A3846105 '
 ---
 
 Tienes [Hasbro Gaming - Juego de Estrategia Hundir la Flota  Juego electrónico  A3846105 ](https://www.amazon.es/dp/B00BD2DZFQ/?tag=tolees-21) con un 36.72 % de descuento con precio de oferta de 34.8 EUR (original: 54.99 EUR) en el siguiente enlace!

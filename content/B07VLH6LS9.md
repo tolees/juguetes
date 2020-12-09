@@ -14,7 +14,7 @@ currency: EUR
 price: 8.71
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Educa Borras - Genuine Puzzles  Puzzle 1.000 piezas  Catarata en el bosque  18461 
+prodname: 'Educa Borras - Genuine Puzzles  Puzzle 1.000 piezas  Catarata en el bosque  18461 '
 ---
 
 Ahora mismo tienes [Educa Borras - Genuine Puzzles  Puzzle 1.000 piezas  Catarata en el bosque  18461 ](https://www.amazon.es/dp/B07VLH6LS9/?tag=tolees-21) a 8.71 EUR (original: 11.99 EUR) (27.36 %  de descuento) en el siguiente enlace!

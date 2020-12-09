@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Fisher-Price Little People Guardería de Bebés  Mattel GWT76 
+prodname: 'Fisher-Price Little People Guardería de Bebés  Mattel GWT76 '
 ---
 
 Tienes [Fisher-Price Little People Guardería de Bebés  Mattel GWT76 ](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

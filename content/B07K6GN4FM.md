@@ -14,7 +14,7 @@ currency: EUR
 price: 8.69
 comparePrice: 11.99 EUR
 inStock: true
-prodname: SeeKool Puzzle Tetris de Madera  Tangram Jigsaw Rompecabezas Madera Juego Educativo Brain Teaser Toy  Colorido de Madera Geometría Bloque de Construcción Inteligencia Regalo para Niños  40 Pcs 
+prodname: 'SeeKool Puzzle Tetris de Madera  Tangram Jigsaw Rompecabezas Madera Juego Educativo Brain Teaser Toy  Colorido de Madera Geometría Bloque de Construcción Inteligencia Regalo para Niños  40 Pcs '
 ---
 
 Ahora mismo tienes [SeeKool Puzzle Tetris de Madera  Tangram Jigsaw Rompecabezas Madera Juego Educativo Brain Teaser Toy  Colorido de Madera Geometría Bloque de Construcción Inteligencia Regalo para Niños  40 Pcs ](https://www.amazon.es/dp/B07K6GN4FM/?tag=tolees-21) a 8.69 EUR (original: 11.99 EUR) (27.52 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Fisher-Price Erizo Linkimals  Juguete interactivo bebés +9 meses  Mattel  GJB06    color/modelo surtido
+prodname: 'Fisher-Price Erizo Linkimals  Juguete interactivo bebés +9 meses  Mattel  GJB06    color/modelo surtido'
 ---
 
 Tienes [Fisher-Price Erizo Linkimals  Juguete interactivo bebés +9 meses  Mattel  GJB06    color/modelo surtido](https://www.amazon.es/dp/B07PYXCFDM/?tag=tolees-21) con un 31.55 % de descuento con precio de oferta de 23.95 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Amarillo  M 
+prodname: 'LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Amarillo  M '
 ---
 
 Está [LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Amarillo  M ](https://www.amazon.es/dp/B07PRHNKLY/?tag=tolees-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

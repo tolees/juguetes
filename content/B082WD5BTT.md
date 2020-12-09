@@ -14,7 +14,7 @@ currency: EUR
 price: 14.0
 comparePrice: 19.99 EUR
 inStock: true
-prodname: LEGO- Super Mario Set de Expansión: Pokey del Desierto  Juguete de Construcción  Multicolor  71363 
+prodname: 'LEGO- Super Mario Set de Expansión: Pokey del Desierto  Juguete de Construcción  Multicolor  71363 '
 ---
 
 Está [LEGO- Super Mario Set de Expansión: Pokey del Desierto  Juguete de Construcción  Multicolor  71363 ](https://www.amazon.es/dp/B082WD5BTT/?tag=tolees-21) con 29.96 de descuento por 14.0 EUR (original: 19.99 EUR) en el siguiente enlace!

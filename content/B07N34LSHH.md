@@ -14,7 +14,7 @@ currency: EUR
 price: 6.7
 comparePrice: 13.49 EUR
 inStock: true
-prodname: Chicco Multicubo Encajable 2en1 - Juegos de puzzle encajables y contrucción para bebés  con formas  bolas y martillo
+prodname: 'Chicco Multicubo Encajable 2en1 - Juegos de puzzle encajables y contrucción para bebés  con formas  bolas y martillo'
 ---
 
 Ahora mismo tienes [Chicco Multicubo Encajable 2en1 - Juegos de puzzle encajables y contrucción para bebés  con formas  bolas y martillo](https://www.amazon.es/dp/B07N34LSHH/?tag=tolees-21) a 6.7 EUR (original: 13.49 EUR) (50.33 %  de descuento) en el siguiente enlace!

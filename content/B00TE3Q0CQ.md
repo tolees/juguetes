@@ -14,7 +14,7 @@ currency: EUR
 price: 2.31
 comparePrice: 4.41 EUR
 inStock: true
-prodname: Emoji Emoticono Cojín Almohada Redonda Emoticon Peluche Bordado Sonriente
+prodname: 'Emoji Emoticono Cojín Almohada Redonda Emoticon Peluche Bordado Sonriente'
 ---
 
 Tienes [Emoji Emoticono Cojín Almohada Redonda Emoticon Peluche Bordado Sonriente](https://www.amazon.es/dp/B00TE3Q0CQ/?tag=tolees-21) con un 47.62 % de descuento con precio de oferta de 2.31 EUR (original: 4.41 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 1.35
 comparePrice: 7.5 EUR
 inStock: true
-prodname: Sirena Playmobil
+prodname: 'Sirena Playmobil'
 ---
 
 Tienes [Sirena Playmobil](https://www.amazon.es/dp/B0767BJJZM/?tag=tolees-21) con un 82.00 % de descuento con precio de oferta de 1.35 EUR (original: 7.5 EUR) en el siguiente enlace!

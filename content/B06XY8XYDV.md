@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: smartect Protector de Pantalla para Nintendo Switch [2 Unidades] - 9H Cristal Templado - Diseño Ultrafino - Instalación Sin Burbujas - Anti-Huellas
+prodname: 'smartect Protector de Pantalla para Nintendo Switch [2 Unidades] - 9H Cristal Templado - Diseño Ultrafino - Instalación Sin Burbujas - Anti-Huellas'
 ---
 
 Tienes [smartect Protector de Pantalla para Nintendo Switch [2 Unidades] - 9H Cristal Templado - Diseño Ultrafino - Instalación Sin Burbujas - Anti-Huellas](https://www.amazon.es/dp/B06XY8XYDV/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

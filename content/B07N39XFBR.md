@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Cefa Toys- Funlocket  Multicolor  480    color/modelo surtido
+prodname: 'Cefa Toys- Funlocket  Multicolor  480    color/modelo surtido'
 ---
 
 Está [Cefa Toys- Funlocket  Multicolor  480    color/modelo surtido](https://www.amazon.es/dp/B07N39XFBR/?tag=tolees-21) con 60.04 de descuento por 5.99 EUR (original: 14.99 EUR) en el siguiente enlace!

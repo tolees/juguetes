@@ -14,7 +14,7 @@ currency: EUR
 price: 43.89
 comparePrice: 59.99 EUR
 inStock: true
-prodname: DUPLO Town DUPLO Construction Derribo con Bola de Demolición Set de Construcción con Camión  Grúa y Buldócer  Juguetes para Niños Pequeños 2+  multicolor  Lego ES 10932 
+prodname: 'DUPLO Town DUPLO Construction Derribo con Bola de Demolición Set de Construcción con Camión  Grúa y Buldócer  Juguetes para Niños Pequeños 2+  multicolor  Lego ES 10932 '
 ---
 
 Tienes [DUPLO Town DUPLO Construction Derribo con Bola de Demolición Set de Construcción con Camión  Grúa y Buldócer  Juguetes para Niños Pequeños 2+  multicolor  Lego ES 10932 ](https://www.amazon.es/dp/B0813RWMYQ/?tag=tolees-21) con un 26.84 % de descuento con precio de oferta de 43.89 EUR (original: 59.99 EUR) en el siguiente enlace!

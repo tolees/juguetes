@@ -14,7 +14,7 @@ currency: EUR
 price: 64.9
 comparePrice: 89.99 EUR
 inStock: true
-prodname: LEGO Star Wars TM Caza Estelar del General Grievous  Set de Juguete  Multicolor  75286 
+prodname: 'LEGO Star Wars TM Caza Estelar del General Grievous  Set de Juguete  Multicolor  75286 '
 ---
 
 Está [LEGO Star Wars TM Caza Estelar del General Grievous  Set de Juguete  Multicolor  75286 ](https://www.amazon.es/dp/B0813QVVSW/?tag=tolees-21) con 27.88 de descuento por 64.9 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Gioteck - LPX Wired Chat Headset  Xbox One 
+prodname: 'Gioteck - LPX Wired Chat Headset  Xbox One '
 ---
 
 Está [Gioteck - LPX Wired Chat Headset  Xbox One ](https://www.amazon.es/dp/B01IDCA8DU/?tag=tolees-21) con 33.37 de descuento por 5.99 EUR (original: 8.99 EUR) en el siguiente enlace!

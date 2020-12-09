@@ -14,7 +14,7 @@ currency: EUR
 price: 11.0
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Nene Toys - Puzzle Infantil de Madera 8 en 1 – Juguete Educativo para Niños Niñas de 2 3 4 años – Mosaicos 3D con 8 Coloridos Diseños de Rompecabezas – Juego Montessori de Desarrollo Cognitivo
+prodname: 'Nene Toys - Puzzle Infantil de Madera 8 en 1 – Juguete Educativo para Niños Niñas de 2 3 4 años – Mosaicos 3D con 8 Coloridos Diseños de Rompecabezas – Juego Montessori de Desarrollo Cognitivo'
 ---
 
 Está [Nene Toys - Puzzle Infantil de Madera 8 en 1 – Juguete Educativo para Niños Niñas de 2 3 4 años – Mosaicos 3D con 8 Coloridos Diseños de Rompecabezas – Juego Montessori de Desarrollo Cognitivo](https://www.amazon.es/dp/B07S5BXP1T/?tag=tolees-21) con 31.21 de descuento por 11.0 EUR (original: 15.99 EUR) en el siguiente enlace!

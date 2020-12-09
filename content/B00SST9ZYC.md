@@ -14,7 +14,7 @@ currency: EUR
 price: 6.13
 comparePrice: 15.38 EUR
 inStock: true
-prodname: Clementoni – 13489 – Lotería Frozen
+prodname: 'Clementoni – 13489 – Lotería Frozen'
 ---
 
 Ahora mismo tienes [Clementoni – 13489 – Lotería Frozen](https://www.amazon.es/dp/B00SST9ZYC/?tag=tolees-21) a 6.13 EUR (original: 15.38 EUR) (60.14 %  de descuento) en el siguiente enlace!

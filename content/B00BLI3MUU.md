@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.2 EUR
 inStock: true
-prodname: Fisher-Price Cojín Activity Léon para bebés  Mattel Y6593 
+prodname: 'Fisher-Price Cojín Activity Léon para bebés  Mattel Y6593 '
 ---
 
 Ahora mismo tienes [Fisher-Price Cojín Activity Léon para bebés  Mattel Y6593 ](https://www.amazon.es/dp/B00BLI3MUU/?tag=tolees-21) a 14.99 EUR (original: 24.2 EUR) (38.06 %  de descuento) en el siguiente enlace!

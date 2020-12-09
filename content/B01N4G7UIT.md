@@ -14,7 +14,7 @@ currency: EUR
 price: 51.6
 comparePrice: 159.99 EUR
 inStock: true
-prodname: Hot Wheels Circuito de Carreras Urbanas  Mattel Spain FDY09    Modelos/colores Surtidos  1 Unidad
+prodname: 'Hot Wheels Circuito de Carreras Urbanas  Mattel Spain FDY09    Modelos/colores Surtidos  1 Unidad'
 ---
 
 Ahora mismo tienes [Hot Wheels Circuito de Carreras Urbanas  Mattel Spain FDY09    Modelos/colores Surtidos  1 Unidad](https://www.amazon.es/dp/B01N4G7UIT/?tag=tolees-21) a 51.6 EUR (original: 159.99 EUR) (67.75 %  de descuento) en el siguiente enlace!

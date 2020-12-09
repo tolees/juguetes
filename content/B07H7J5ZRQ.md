@@ -14,7 +14,7 @@ currency: EUR
 price: 15.49
 comparePrice: 24.9 EUR
 inStock: true
-prodname: X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Tirantes Culotte Pantalones Cortos Culotes
+prodname: 'X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Tirantes Culotte Pantalones Cortos Culotes'
 ---
 
 Tienes [X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Tirantes Culotte Pantalones Cortos Culotes](https://www.amazon.es/dp/B07H7J5ZRQ/?tag=tolees-21) con un 37.79 % de descuento con precio de oferta de 15.49 EUR (original: 24.9 EUR) en el siguiente enlace!

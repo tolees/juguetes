@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Two Point Hospital - Nintendo Switch
+prodname: 'Two Point Hospital - Nintendo Switch'
 ---
 
 Está [Two Point Hospital - Nintendo Switch](https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21) con 32.51 de descuento por 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!

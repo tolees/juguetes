@@ -14,7 +14,7 @@ currency: EUR
 price: 50.45
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Barbie - Coche muñeca Fiat - coche muñeca  para niñas y niños de más de 3 años  Mattel FVR07 
+prodname: 'Barbie - Coche muñeca Fiat - coche muñeca  para niñas y niños de más de 3 años  Mattel FVR07 '
 ---
 
 Está [Barbie - Coche muñeca Fiat - coche muñeca  para niñas y niños de más de 3 años  Mattel FVR07 ](https://www.amazon.es/dp/B07BJSF9QL/?tag=tolees-21) con 36.93 de descuento por 50.45 EUR (original: 79.99 EUR) en el siguiente enlace!

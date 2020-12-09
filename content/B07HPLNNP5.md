@@ -14,7 +14,7 @@ currency: EUR
 price: 451.92
 comparePrice: 800 EUR
 inStock: true
-prodname: Bibóo Bikes Gekko Vintage Bicicleta Fixie  Unisex Adult  Negro  S
+prodname: 'Bibóo Bikes Gekko Vintage Bicicleta Fixie  Unisex Adult  Negro  S'
 ---
 
 Está [Bibóo Bikes Gekko Vintage Bicicleta Fixie  Unisex Adult  Negro  S](https://www.amazon.es/dp/B07HPLNNP5/?tag=tolees-21) con 43.51 de descuento por 451.92 EUR (original: 800 EUR) en el siguiente enlace!

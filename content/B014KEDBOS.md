@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 16.85 EUR
 inStock: true
-prodname: Infant - Elefantito  para juego y baño Fisher-Price  Mattel CMY23    color/modelo surtido
+prodname: 'Infant - Elefantito  para juego y baño Fisher-Price  Mattel CMY23    color/modelo surtido'
 ---
 
 Tienes [Infant - Elefantito  para juego y baño Fisher-Price  Mattel CMY23    color/modelo surtido](https://www.amazon.es/dp/B014KEDBOS/?tag=tolees-21) con un 40.95 % de descuento con precio de oferta de 9.95 EUR (original: 16.85 EUR) en el siguiente enlace!

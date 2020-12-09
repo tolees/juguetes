@@ -14,7 +14,7 @@ currency: EUR
 price: 6.5
 comparePrice: 8.95 EUR
 inStock: true
-prodname: Play-Doh Hasbro c3898eu4 6 Unidades  Colores primarios plastilina
+prodname: 'Play-Doh Hasbro c3898eu4 6 Unidades  Colores primarios plastilina'
 ---
 
 Está [Play-Doh Hasbro c3898eu4 6 Unidades  Colores primarios plastilina](https://www.amazon.es/dp/B075MD5MFP/?tag=tolees-21) con 27.37 de descuento por 6.5 EUR (original: 8.95 EUR) en el siguiente enlace!

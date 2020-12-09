@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Enkeeo - Bicicleta sin Pedal de 10 ″ con Timbre y Freno de Mano para Niños  Cuadro Acero al Carbono  Manillar y Asiento Ajustables  Capacidad de 50 kg  Blanco
+prodname: 'Enkeeo - Bicicleta sin Pedal de 10 ″ con Timbre y Freno de Mano para Niños  Cuadro Acero al Carbono  Manillar y Asiento Ajustables  Capacidad de 50 kg  Blanco'
 ---
 
 Tienes [Enkeeo - Bicicleta sin Pedal de 10 ″ con Timbre y Freno de Mano para Niños  Cuadro Acero al Carbono  Manillar y Asiento Ajustables  Capacidad de 50 kg  Blanco](https://www.amazon.es/dp/B07P4DNWLS/?tag=tolees-21) con un 37.15 % de descuento con precio de oferta de 43.99 EUR (original: 69.99 EUR) en el siguiente enlace!

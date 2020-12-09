@@ -14,7 +14,7 @@ currency: EUR
 price: 5.59
 comparePrice: 8.99 EUR
 inStock: true
-prodname: Educa Borras - Serie Citypuzzle  Puzzle 200 piezas  Berlín  18469 
+prodname: 'Educa Borras - Serie Citypuzzle  Puzzle 200 piezas  Berlín  18469 '
 ---
 
 Está [Educa Borras - Serie Citypuzzle  Puzzle 200 piezas  Berlín  18469 ](https://www.amazon.es/dp/B084HCMNS2/?tag=tolees-21) con 37.82 de descuento por 5.59 EUR (original: 8.99 EUR) en el siguiente enlace!

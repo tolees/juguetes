@@ -14,7 +14,7 @@ currency: EUR
 price: 71.53
 comparePrice: 128.25 EUR
 inStock: true
-prodname: Playmobil Crucero- Playset  Miscelanea  6978 
+prodname: 'Playmobil Crucero- Playset  Miscelanea  6978 '
 ---
 
 Tienes [Playmobil Crucero- Playset  Miscelanea  6978 ](https://www.amazon.es/dp/B01EKBCUAW/?tag=tolees-21) con un 44.23 % de descuento con precio de oferta de 71.53 EUR (original: 128.25 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.39
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Grefay Soporte Movil Bicicleta Metalizado Soporte Manillar Motocicleta Scooter para 4.5-7.0 Pulgada Smartphones con Rotación 360°
+prodname: 'Grefay Soporte Movil Bicicleta Metalizado Soporte Manillar Motocicleta Scooter para 4.5-7.0 Pulgada Smartphones con Rotación 360°'
 ---
 
 Tienes [Grefay Soporte Movil Bicicleta Metalizado Soporte Manillar Motocicleta Scooter para 4.5-7.0 Pulgada Smartphones con Rotación 360°](https://www.amazon.es/dp/B07GQLYPZZ/?tag=tolees-21) con un 48.02 % de descuento con precio de oferta de 10.39 EUR (original: 19.99 EUR) en el siguiente enlace!

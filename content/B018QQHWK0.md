@@ -14,7 +14,7 @@ currency: EUR
 price: 25.53
 comparePrice: 48.43 EUR
 inStock: true
-prodname: Limar - Casco de Bicicleta 360 Grados  Todo el año  Unisex  Color Negro  tamaño Medium
+prodname: 'Limar - Casco de Bicicleta 360 Grados  Todo el año  Unisex  Color Negro  tamaño Medium'
 ---
 
 Está [Limar - Casco de Bicicleta 360 Grados  Todo el año  Unisex  Color Negro  tamaño Medium](https://www.amazon.es/dp/B018QQHWK0/?tag=tolees-21) con 47.28 de descuento por 25.53 EUR (original: 48.43 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.85
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Play-Doh-La Barberia  Hasbro E2930EU6 
+prodname: 'Play-Doh-La Barberia  Hasbro E2930EU6 '
 ---
 
 Está [Play-Doh-La Barberia  Hasbro E2930EU6 ](https://www.amazon.es/dp/B07DVYCX39/?tag=tolees-21) con 26.71 de descuento por 16.85 EUR (original: 22.99 EUR) en el siguiente enlace!

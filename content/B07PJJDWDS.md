@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Cubos Bebe Apilables- Apila Colores Cubo Playa Juguetes de Baño Bloques Construccion Bebe Taza de Apilamiento Juguete con 10 Cubos de Colores y 1 Cascabel para Niños a Partir de 6 Meses
+prodname: 'Cubos Bebe Apilables- Apila Colores Cubo Playa Juguetes de Baño Bloques Construccion Bebe Taza de Apilamiento Juguete con 10 Cubos de Colores y 1 Cascabel para Niños a Partir de 6 Meses'
 ---
 
 Tienes [Cubos Bebe Apilables- Apila Colores Cubo Playa Juguetes de Baño Bloques Construccion Bebe Taza de Apilamiento Juguete con 10 Cubos de Colores y 1 Cascabel para Niños a Partir de 6 Meses](https://www.amazon.es/dp/B07PJJDWDS/?tag=tolees-21) con un 53.35 % de descuento con precio de oferta de 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

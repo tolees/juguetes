@@ -14,7 +14,7 @@ currency: EUR
 price: 9.9
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Play-Doh  color surtido  Pack 20 Botes  Hasbro A7924EUC 
+prodname: 'Play-Doh  color surtido  Pack 20 Botes  Hasbro A7924EUC '
 ---
 
 Está [Play-Doh  color surtido  Pack 20 Botes  Hasbro A7924EUC ](https://www.amazon.es/dp/B07MV3DYGJ/?tag=tolees-21) con 50.48 de descuento por 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!

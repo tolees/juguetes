@@ -14,7 +14,7 @@ currency: EUR
 price: 5
 comparePrice: 17.43 EUR
 inStock: true
-prodname: Star Wars abypel003 35 cm cojín de peluche
+prodname: 'Star Wars abypel003 35 cm cojín de peluche'
 ---
 
 Está [Star Wars abypel003 35 cm cojín de peluche](https://www.amazon.es/dp/B00WKQJIRI/?tag=tolees-21) con 71.31 de descuento por 5 EUR (original: 17.43 EUR) en el siguiente enlace!

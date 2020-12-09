@@ -14,7 +14,7 @@ currency: EUR
 price: 13.6
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Nerf Lanzador Elite Disruptor  Hasbro B9837EU4
+prodname: 'Nerf Lanzador Elite Disruptor  Hasbro B9837EU4'
 ---
 
 Ahora mismo tienes [Nerf Lanzador Elite Disruptor  Hasbro B9837EU4](https://www.amazon.es/dp/B01MXLMEAP/?tag=tolees-21) a 13.6 EUR (original: 20.0 EUR) (32.00 %  de descuento) en el siguiente enlace!

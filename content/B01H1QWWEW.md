@@ -14,7 +14,7 @@ currency: EUR
 price: 19.31
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO Dimensions: Mission Imposible
+prodname: 'LEGO Dimensions: Mission Imposible'
 ---
 
 Está [LEGO Dimensions: Mission Imposible](https://www.amazon.es/dp/B01H1QWWEW/?tag=tolees-21) con 35.61 de descuento por 19.31 EUR (original: 29.99 EUR) en el siguiente enlace!

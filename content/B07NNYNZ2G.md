@@ -14,7 +14,7 @@ currency: EUR
 price: 557.5
 comparePrice: 858.95 EUR
 inStock: true
-prodname: Sony Xperia XZ2  color verde + Marvel s Spider-Man  PS4 
+prodname: 'Sony Xperia XZ2  color verde + Marvel s Spider-Man  PS4 '
 ---
 
 Está [Sony Xperia XZ2  color verde + Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B07NNYNZ2G/?tag=tolees-21) con 35.10 de descuento por 557.5 EUR (original: 858.95 EUR) en el siguiente enlace!

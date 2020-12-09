@@ -14,7 +14,7 @@ currency: EUR
 price: 51.83
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Proyector  APEMAN Mini Proyector Portátil en Casa  Soporte HD 1080P  5000 Lúmenes  Pantalla Grande  Altavoces Duales  50000 Horas Vida  Compatible con TV Stick  PS4  Cable HDMI   RCA Incluido 
+prodname: 'Proyector  APEMAN Mini Proyector Portátil en Casa  Soporte HD 1080P  5000 Lúmenes  Pantalla Grande  Altavoces Duales  50000 Horas Vida  Compatible con TV Stick  PS4  Cable HDMI   RCA Incluido '
 ---
 
 Ahora mismo tienes [Proyector  APEMAN Mini Proyector Portátil en Casa  Soporte HD 1080P  5000 Lúmenes  Pantalla Grande  Altavoces Duales  50000 Horas Vida  Compatible con TV Stick  PS4  Cable HDMI   RCA Incluido ](https://www.amazon.es/dp/B07HRJJRZR/?tag=tolees-21) a 51.83 EUR (original: 69.99 EUR) (25.95 %  de descuento) en el siguiente enlace!

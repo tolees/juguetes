@@ -14,7 +14,7 @@ currency: EUR
 price: 7.44
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Zubita Rascadores para Gatos  Árbol para Gatos Arañazo Gatos Juguetes de Sisal Natural  Cat Toy Centro de Actividad para Gatitos  Color Beige  28 * 28 * 29 CM
+prodname: 'Zubita Rascadores para Gatos  Árbol para Gatos Arañazo Gatos Juguetes de Sisal Natural  Cat Toy Centro de Actividad para Gatitos  Color Beige  28 * 28 * 29 CM'
 ---
 
 Tienes [Zubita Rascadores para Gatos  Árbol para Gatos Arañazo Gatos Juguetes de Sisal Natural  Cat Toy Centro de Actividad para Gatitos  Color Beige  28 * 28 * 29 CM](https://www.amazon.es/dp/B076D8YTYG/?tag=tolees-21) con un 46.82 % de descuento con precio de oferta de 7.44 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.0
 comparePrice: 12.0 EUR
 inStock: true
-prodname: winfun - Peluche Jirafa para bebés que habla y luces de colores  Idioma: Español  85177    color/modelo surtido
+prodname: 'winfun - Peluche Jirafa para bebés que habla y luces de colores  Idioma: Español  85177    color/modelo surtido'
 ---
 
 Ahora mismo tienes [winfun - Peluche Jirafa para bebés que habla y luces de colores  Idioma: Español  85177    color/modelo surtido](https://www.amazon.es/dp/B075GVY2WB/?tag=tolees-21) a 9.0 EUR (original: 12.0 EUR) (25.00 %  de descuento) en el siguiente enlace!

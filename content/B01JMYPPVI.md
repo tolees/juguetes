@@ -14,7 +14,7 @@ currency: EUR
 price: 12
 comparePrice: 21.95 EUR
 inStock: true
-prodname: Barbie - Muñeca Video Game con vehículo
+prodname: 'Barbie - Muñeca Video Game con vehículo'
 ---
 
 Tienes [Barbie - Muñeca Video Game con vehículo](https://www.amazon.es/dp/B01JMYPPVI/?tag=tolees-21) con un 45.33 % de descuento con precio de oferta de 12 EUR (original: 21.95 EUR) en el siguiente enlace!

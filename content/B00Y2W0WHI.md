@@ -14,7 +14,7 @@ currency: EUR
 price: 10.56
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Warner Bros. Interactive Spain  VG  Lego Dimensions - DC Superman
+prodname: 'Warner Bros. Interactive Spain  VG  Lego Dimensions - DC Superman'
 ---
 
 Ahora mismo tienes [Warner Bros. Interactive Spain  VG  Lego Dimensions - DC Superman](https://www.amazon.es/dp/B00Y2W0WHI/?tag=tolees-21) a 10.56 EUR (original: 14.99 EUR) (29.55 %  de descuento) en el siguiente enlace!

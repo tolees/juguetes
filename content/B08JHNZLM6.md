@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Disco Duro Externo 1tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  1tb  Rojo 
+prodname: 'Disco Duro Externo 1tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  1tb  Rojo '
 ---
 
 Ahora mismo tienes [Disco Duro Externo 1tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  1tb  Rojo ](https://www.amazon.es/dp/B08JHNZLM6/?tag=tolees-21) a 47.99 EUR (original: 99.99 EUR) (52.01 %  de descuento) en el siguiente enlace!

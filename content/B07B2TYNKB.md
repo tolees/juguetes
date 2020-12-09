@@ -14,7 +14,7 @@ currency: EUR
 price: 18.62
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Reloj modificable infantil 8021261 de Jurassic World de LEGO con figurita de Owen
+prodname: 'Reloj modificable infantil 8021261 de Jurassic World de LEGO con figurita de Owen'
 ---
 
 Tienes [Reloj modificable infantil 8021261 de Jurassic World de LEGO con figurita de Owen](https://www.amazon.es/dp/B07B2TYNKB/?tag=tolees-21) con un 25.49 % de descuento con precio de oferta de 18.62 EUR (original: 24.99 EUR) en el siguiente enlace!

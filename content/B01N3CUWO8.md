@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 43.82 EUR
 inStock: true
-prodname: PS4 Auriculares Gaming  Sades SA807 Auriculares Estéreo con Micrófono Ajustable y Control de Volumen  diadema cerrados  Cascos Gamer Para PC/MAC/Laptop/PS4/XBOX ONE/Móvil  Negro &Azul 
+prodname: 'PS4 Auriculares Gaming  Sades SA807 Auriculares Estéreo con Micrófono Ajustable y Control de Volumen  diadema cerrados  Cascos Gamer Para PC/MAC/Laptop/PS4/XBOX ONE/Móvil  Negro &Azul '
 ---
 
 Tienes [PS4 Auriculares Gaming  Sades SA807 Auriculares Estéreo con Micrófono Ajustable y Control de Volumen  diadema cerrados  Cascos Gamer Para PC/MAC/Laptop/PS4/XBOX ONE/Móvil  Negro &Azul ](https://www.amazon.es/dp/B01N3CUWO8/?tag=tolees-21) con un 47.54 % de descuento con precio de oferta de 22.99 EUR (original: 43.82 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.49
 comparePrice: 28.99 EUR
 inStock: true
-prodname: eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico SFC SNES EU 
+prodname: 'eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico SFC SNES EU '
 ---
 
 Ahora mismo tienes [eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico SFC SNES EU ](https://www.amazon.es/dp/B08LCZ9HB5/?tag=tolees-21) a 18.49 EUR (original: 28.99 EUR) (36.22 %  de descuento) en el siguiente enlace!

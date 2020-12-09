@@ -14,7 +14,7 @@ currency: EUR
 price: 4
 comparePrice: 16.99 EUR
 inStock: true
-prodname: NACATIN Soporte de Bicicleta para Teléfono a Prueba de Golpes  Adecuado para los de 3.5-6.6 Pulgadas Rotativo de 360 Grados con Material de Aleación de Aluminio Ajustable
+prodname: 'NACATIN Soporte de Bicicleta para Teléfono a Prueba de Golpes  Adecuado para los de 3.5-6.6 Pulgadas Rotativo de 360 Grados con Material de Aleación de Aluminio Ajustable'
 ---
 
 Tienes [NACATIN Soporte de Bicicleta para Teléfono a Prueba de Golpes  Adecuado para los de 3.5-6.6 Pulgadas Rotativo de 360 Grados con Material de Aleación de Aluminio Ajustable](https://www.amazon.es/dp/B07CG68VHZ/?tag=tolees-21) con un 76.46 % de descuento con precio de oferta de 4 EUR (original: 16.99 EUR) en el siguiente enlace!

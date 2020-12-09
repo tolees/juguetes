@@ -14,7 +14,7 @@ currency: EUR
 price: 23.49
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Barbie y sus perritos sorpresa  muñeca con accesorios  regalo para niñas y niños 3-9 años  Mattel FDD43    color/modelo surtido
+prodname: 'Barbie y sus perritos sorpresa  muñeca con accesorios  regalo para niñas y niños 3-9 años  Mattel FDD43    color/modelo surtido'
 ---
 
 Está [Barbie y sus perritos sorpresa  muñeca con accesorios  regalo para niñas y niños 3-9 años  Mattel FDD43    color/modelo surtido](https://www.amazon.es/dp/B01MYXFQ6F/?tag=tolees-21) con 41.26 de descuento por 23.49 EUR (original: 39.99 EUR) en el siguiente enlace!

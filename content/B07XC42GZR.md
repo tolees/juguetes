@@ -14,7 +14,7 @@ currency: EUR
 price: 11.04
 comparePrice: 20.16 EUR
 inStock: true
-prodname: Convertidor de audio digital a analógico de 192 kHz  DAC Digital SPDIF coaxial óptico convertir a L/R RCA  Toslink óptico a 3 5 mm Jack adaptador de audio para PS4 HD DVD Home Cinema Systems
+prodname: 'Convertidor de audio digital a analógico de 192 kHz  DAC Digital SPDIF coaxial óptico convertir a L/R RCA  Toslink óptico a 3 5 mm Jack adaptador de audio para PS4 HD DVD Home Cinema Systems'
 ---
 
 Tienes [Convertidor de audio digital a analógico de 192 kHz  DAC Digital SPDIF coaxial óptico convertir a L/R RCA  Toslink óptico a 3 5 mm Jack adaptador de audio para PS4 HD DVD Home Cinema Systems](https://www.amazon.es/dp/B07XC42GZR/?tag=tolees-21) con un 45.24 % de descuento con precio de oferta de 11.04 EUR (original: 20.16 EUR) en el siguiente enlace!

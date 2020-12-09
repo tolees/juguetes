@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: MaxTronic Coche RC 1/20 Proporción 2.4GHz Coche Teledirigido 40km/h Vehículo eléctrico controlado por Radio 4WD Todo Terreno Batería de Iones de Litio  Verde  Red 
+prodname: 'MaxTronic Coche RC 1/20 Proporción 2.4GHz Coche Teledirigido 40km/h Vehículo eléctrico controlado por Radio 4WD Todo Terreno Batería de Iones de Litio  Verde  Red '
 ---
 
 Ahora mismo tienes [MaxTronic Coche RC 1/20 Proporción 2.4GHz Coche Teledirigido 40km/h Vehículo eléctrico controlado por Radio 4WD Todo Terreno Batería de Iones de Litio  Verde  Red ](https://www.amazon.es/dp/B07LGV2DJ3/?tag=tolees-21) a 59.99 EUR (original: 129.99 EUR) (53.85 %  de descuento) en el siguiente enlace!

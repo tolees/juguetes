@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Hasbro Game Night
+prodname: 'Hasbro Game Night'
 ---
 
 Está [Hasbro Game Night](https://www.amazon.es/dp/B07HYHN9R5/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

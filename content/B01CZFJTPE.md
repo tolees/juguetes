@@ -14,7 +14,7 @@ currency: EUR
 price: 2.78
 comparePrice: 5.28 EUR
 inStock: true
-prodname: Puzzle Scooby-Doo 60 Nurkowanie
+prodname: 'Puzzle Scooby-Doo 60 Nurkowanie'
 ---
 
 Ahora mismo tienes [Puzzle Scooby-Doo 60 Nurkowanie](https://www.amazon.es/dp/B01CZFJTPE/?tag=tolees-21) a 2.78 EUR (original: 5.28 EUR) (47.35 %  de descuento) en el siguiente enlace!

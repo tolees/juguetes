@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch 
+prodname: 'Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch '
 ---
 
 Está [Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch ](https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21) con 34.89 de descuento por 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: NextX Maletin Medicos Juguete  Doctora Juguetes Maletin Enfermera Juego de rol Cuadro Médico Maletín de Médico Juegos de médicos para Niño
+prodname: 'NextX Maletin Medicos Juguete  Doctora Juguetes Maletin Enfermera Juego de rol Cuadro Médico Maletín de Médico Juegos de médicos para Niño'
 ---
 
 Ahora mismo tienes [NextX Maletin Medicos Juguete  Doctora Juguetes Maletin Enfermera Juego de rol Cuadro Médico Maletín de Médico Juegos de médicos para Niño](https://www.amazon.es/dp/B07C7PYDB5/?tag=tolees-21) a 18.99 EUR (original: 28.99 EUR) (34.49 %  de descuento) en el siguiente enlace!

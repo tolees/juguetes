@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 120.25 EUR
 inStock: true
-prodname: Disco Duro Externo 2 TB Portátil Type C USB3.1 Disco Duro Externo para PC  Laptop  Xbox One   2TB Rojo 
+prodname: 'Disco Duro Externo 2 TB Portátil Type C USB3.1 Disco Duro Externo para PC  Laptop  Xbox One   2TB Rojo '
 ---
 
 Está [Disco Duro Externo 2 TB Portátil Type C USB3.1 Disco Duro Externo para PC  Laptop  Xbox One   2TB Rojo ](https://www.amazon.es/dp/B08MQC4YQJ/?tag=tolees-21) con 46.79 de descuento por 63.99 EUR (original: 120.25 EUR) en el siguiente enlace!

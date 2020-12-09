@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 44.9 EUR
 inStock: true
-prodname: Death Stranding - Edición Especial  PS4 
+prodname: 'Death Stranding - Edición Especial  PS4 '
 ---
 
 Está [Death Stranding - Edición Especial  PS4 ](https://www.amazon.es/dp/B07TJVXG3D/?tag=tolees-21) con 33.21 de descuento por 29.99 EUR (original: 44.9 EUR) en el siguiente enlace!

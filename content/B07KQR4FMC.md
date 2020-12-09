@@ -14,7 +14,7 @@ currency: EUR
 price: 70.99
 comparePrice: 124.99 EUR
 inStock: true
-prodname: Avengers Legends - Guantelete electrónico  Hasbro E6253EU4 
+prodname: 'Avengers Legends - Guantelete electrónico  Hasbro E6253EU4 '
 ---
 
 Tienes [Avengers Legends - Guantelete electrónico  Hasbro E6253EU4 ](https://www.amazon.es/dp/B07KQR4FMC/?tag=tolees-21) con un 43.20 % de descuento con precio de oferta de 70.99 EUR (original: 124.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Pizarra Infantil Magnética Juguetes de Madera Rompecabezas Caballete Tablero de Dibujo de Doble Cara con Juego de Pesca Juguete Magnético Montessori Regalos Juegos Educativos Niños 3 4 5 Años
+prodname: 'Pizarra Infantil Magnética Juguetes de Madera Rompecabezas Caballete Tablero de Dibujo de Doble Cara con Juego de Pesca Juguete Magnético Montessori Regalos Juegos Educativos Niños 3 4 5 Años'
 ---
 
 Ahora mismo tienes [Pizarra Infantil Magnética Juguetes de Madera Rompecabezas Caballete Tablero de Dibujo de Doble Cara con Juego de Pesca Juguete Magnético Montessori Regalos Juegos Educativos Niños 3 4 5 Años](https://www.amazon.es/dp/B08HCX7FVS/?tag=tolees-21) a 18.99 EUR (original: 28.99 EUR) (34.49 %  de descuento) en el siguiente enlace!

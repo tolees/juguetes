@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: DC Super Hero Girls Muñeca Supergirl  Mattel DLT63 
+prodname: 'DC Super Hero Girls Muñeca Supergirl  Mattel DLT63 '
 ---
 
 Tienes [DC Super Hero Girls Muñeca Supergirl  Mattel DLT63 ](https://www.amazon.es/dp/B01AWGZXJY/?tag=tolees-21) con un 59.12 % de descuento con precio de oferta de 8.99 EUR (original: 21.99 EUR) en el siguiente enlace!

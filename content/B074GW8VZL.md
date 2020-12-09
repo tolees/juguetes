@@ -14,7 +14,7 @@ currency: EUR
 price: 13.47
 comparePrice: 23.3 EUR
 inStock: true
-prodname: King Animal World 9in1 Puzzle Pack 12pieza s  - Rompecabezas  Jigsaw Puzzle  Fauna  Niños  Animal World  3 año s   Niño/niña 
+prodname: 'King Animal World 9in1 Puzzle Pack 12pieza s  - Rompecabezas  Jigsaw Puzzle  Fauna  Niños  Animal World  3 año s   Niño/niña '
 ---
 
 Está [King Animal World 9in1 Puzzle Pack 12pieza s  - Rompecabezas  Jigsaw Puzzle  Fauna  Niños  Animal World  3 año s   Niño/niña ](https://www.amazon.es/dp/B074GW8VZL/?tag=tolees-21) con 42.19 de descuento por 13.47 EUR (original: 23.3 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 74.99
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Fisher-Price Columpio- Hamaca Portátil Deluxe Plegable Con Sonidos Y Vibraciones Para Bebés 9Kg  Mattel Gpd12 
+prodname: 'Fisher-Price Columpio- Hamaca Portátil Deluxe Plegable Con Sonidos Y Vibraciones Para Bebés 9Kg  Mattel Gpd12 '
 ---
 
 Está [Fisher-Price Columpio- Hamaca Portátil Deluxe Plegable Con Sonidos Y Vibraciones Para Bebés 9Kg  Mattel Gpd12 ](https://www.amazon.es/dp/B089SQCCJD/?tag=tolees-21) con 25.01 de descuento por 74.99 EUR (original: 100.0 EUR) en el siguiente enlace!

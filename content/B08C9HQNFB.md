@@ -14,7 +14,7 @@ currency: EUR
 price: 13.29
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Mixtoys Tapete Guarda Puzzle Roll para Adultos Niños - Puzzles Infantiles Tablero Personalizado 100 200 300 500 1000 1500 2000 Piezas - Alfombra para Rompecabezas
+prodname: 'Mixtoys Tapete Guarda Puzzle Roll para Adultos Niños - Puzzles Infantiles Tablero Personalizado 100 200 300 500 1000 1500 2000 Piezas - Alfombra para Rompecabezas'
 ---
 
 Tienes [Mixtoys Tapete Guarda Puzzle Roll para Adultos Niños - Puzzles Infantiles Tablero Personalizado 100 200 300 500 1000 1500 2000 Piezas - Alfombra para Rompecabezas](https://www.amazon.es/dp/B08C9HQNFB/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.29 EUR (original: 18.99 EUR) en el siguiente enlace!

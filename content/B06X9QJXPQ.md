@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 63.0 EUR
 inStock: true
-prodname: Nerf Nitro - Motofurry  Hasbro C0787EU40 
+prodname: 'Nerf Nitro - Motofurry  Hasbro C0787EU40 '
 ---
 
 Tienes [Nerf Nitro - Motofurry  Hasbro C0787EU40 ](https://www.amazon.es/dp/B06X9QJXPQ/?tag=tolees-21) con un 68.33 % de descuento con precio de oferta de 19.95 EUR (original: 63.0 EUR) en el siguiente enlace!

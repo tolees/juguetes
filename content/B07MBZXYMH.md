@@ -14,7 +14,7 @@ currency: EUR
 price: 14.89
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Sylvanian Families - 5339 - Set de salón de hogar
+prodname: 'Sylvanian Families - 5339 - Set de salón de hogar'
 ---
 
 Ahora mismo tienes [Sylvanian Families - 5339 - Set de salón de hogar](https://www.amazon.es/dp/B07MBZXYMH/?tag=tolees-21) a 14.89 EUR (original: 19.99 EUR) (25.51 %  de descuento) en el siguiente enlace!

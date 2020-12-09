@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Sylvanian Families - 6011 - Set Concierto de Piano
+prodname: 'Sylvanian Families - 6011 - Set Concierto de Piano'
 ---
 
 Ahora mismo tienes [Sylvanian Families - 6011 - Set Concierto de Piano](https://www.amazon.es/dp/B018XNR9EU/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

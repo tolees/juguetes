@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: HANMUN Dinosaurio Teledirigido Juguete Eléctrico - RC Juguetes de Dinosaurio de Control Remoto Realistas con OjosBrillantes  Caminar  Rugir  Rociar  Regalo de Juguete Robot para Niños Niñas  Verde
+prodname: 'HANMUN Dinosaurio Teledirigido Juguete Eléctrico - RC Juguetes de Dinosaurio de Control Remoto Realistas con OjosBrillantes  Caminar  Rugir  Rociar  Regalo de Juguete Robot para Niños Niñas  Verde'
 ---
 
 Ahora mismo tienes [HANMUN Dinosaurio Teledirigido Juguete Eléctrico - RC Juguetes de Dinosaurio de Control Remoto Realistas con OjosBrillantes  Caminar  Rugir  Rociar  Regalo de Juguete Robot para Niños Niñas  Verde](https://www.amazon.es/dp/B08GLQ9VP6/?tag=tolees-21) a 31.99 EUR (original: 59.99 EUR) (46.67 %  de descuento) en el siguiente enlace!

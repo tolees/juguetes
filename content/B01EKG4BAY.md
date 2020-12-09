@@ -14,7 +14,7 @@ currency: EUR
 price: 6.95
 comparePrice: 9.9 EUR
 inStock: true
-prodname: Playmobil Romanos y Egipcios Playmobil Playset  Miscelanea  5394 
+prodname: 'Playmobil Romanos y Egipcios Playmobil Playset  Miscelanea  5394 '
 ---
 
 Está [Playmobil Romanos y Egipcios Playmobil Playset  Miscelanea  5394 ](https://www.amazon.es/dp/B01EKG4BAY/?tag=tolees-21) con 29.80 de descuento por 6.95 EUR (original: 9.9 EUR) en el siguiente enlace!

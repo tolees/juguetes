@@ -14,7 +14,7 @@ currency: EUR
 price: 29.69
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Harvest Moon: La luz de la esperanza Edición Coleccionista PS4
+prodname: 'Harvest Moon: La luz de la esperanza Edición Coleccionista PS4'
 ---
 
 Tienes [Harvest Moon: La luz de la esperanza Edición Coleccionista PS4](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21) con un 57.58 % de descuento con precio de oferta de 29.69 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.52
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Disney Princess Comfy Food Truck  Hasbro E96175L0 
+prodname: 'Disney Princess Comfy Food Truck  Hasbro E96175L0 '
 ---
 
 Ahora mismo tienes [Disney Princess Comfy Food Truck  Hasbro E96175L0 ](https://www.amazon.es/dp/B07ZYCD24R/?tag=tolees-21) a 37.52 EUR (original: 59.99 EUR) (37.46 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.95
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Nancy Día de Moto en Londres  Famosa 700013860 
+prodname: 'Nancy Día de Moto en Londres  Famosa 700013860 '
 ---
 
 Tienes [Nancy Día de Moto en Londres  Famosa 700013860 ](https://www.amazon.es/dp/B072C5XCVF/?tag=tolees-21) con un 36.40 % de descuento con precio de oferta de 34.95 EUR (original: 54.95 EUR) en el siguiente enlace!

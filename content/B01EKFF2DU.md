@@ -14,7 +14,7 @@ currency: EUR
 price: 52.45
 comparePrice: 71.91 EUR
 inStock: true
-prodname: PLAYMOBIL City Action Camión Bomberos Aeropuerto  a Partir de 4 Años  5337 
+prodname: 'PLAYMOBIL City Action Camión Bomberos Aeropuerto  a Partir de 4 Años  5337 '
 ---
 
 Ahora mismo tienes [PLAYMOBIL City Action Camión Bomberos Aeropuerto  a Partir de 4 Años  5337 ](https://www.amazon.es/dp/B01EKFF2DU/?tag=tolees-21) a 52.45 EUR (original: 71.91 EUR) (27.06 %  de descuento) en el siguiente enlace!

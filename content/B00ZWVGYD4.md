@@ -14,7 +14,7 @@ currency: EUR
 price: 15.81
 comparePrice: 21.4 EUR
 inStock: true
-prodname: LEGO Dimensions - The Simpsons  Homer
+prodname: 'LEGO Dimensions - The Simpsons  Homer'
 ---
 
 Está [LEGO Dimensions - The Simpsons  Homer](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21) con 26.12 de descuento por 15.81 EUR (original: 21.4 EUR) en el siguiente enlace!

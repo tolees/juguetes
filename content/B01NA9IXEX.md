@@ -14,7 +14,7 @@ currency: EUR
 price: 19.6
 comparePrice: 33 EUR
 inStock: true
-prodname: Nerf - Zombie outbreaker Bow  Hasbro B9093EU4 
+prodname: 'Nerf - Zombie outbreaker Bow  Hasbro B9093EU4 '
 ---
 
 Está [Nerf - Zombie outbreaker Bow  Hasbro B9093EU4 ](https://www.amazon.es/dp/B01NA9IXEX/?tag=tolees-21) con 40.61 de descuento por 19.6 EUR (original: 33 EUR) en el siguiente enlace!

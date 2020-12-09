@@ -14,7 +14,7 @@ currency: EUR
 price: 11.21
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Devir - Exit: El castillo prohibido  Ed. Español  BGEXIT4    color/modelo surtido
+prodname: 'Devir - Exit: El castillo prohibido  Ed. Español  BGEXIT4    color/modelo surtido'
 ---
 
 Está [Devir - Exit: El castillo prohibido  Ed. Español  BGEXIT4    color/modelo surtido](https://www.amazon.es/dp/B07CQ1HQJL/?tag=tolees-21) con 25.02 de descuento por 11.21 EUR (original: 14.95 EUR) en el siguiente enlace!

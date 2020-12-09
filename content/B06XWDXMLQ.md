@@ -14,7 +14,7 @@ currency: EUR
 price: 29.69
 comparePrice: 39.98 EUR
 inStock: true
-prodname: John Deere Construye el Tractor Johnny  BIZAK 30696655    color/modelo surtido
+prodname: 'John Deere Construye el Tractor Johnny  BIZAK 30696655    color/modelo surtido'
 ---
 
 Ahora mismo tienes [John Deere Construye el Tractor Johnny  BIZAK 30696655    color/modelo surtido](https://www.amazon.es/dp/B06XWDXMLQ/?tag=tolees-21) a 29.69 EUR (original: 39.98 EUR) (25.74 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 58.78 EUR
 inStock: true
-prodname: meiqicool 18 Pcs Alfombra Puzzle Infantiles 142x114 cm Blanco Rosa y Turquesa Goma Espuma Alfombrillas para Puzzles 010308
+prodname: 'meiqicool 18 Pcs Alfombra Puzzle Infantiles 142x114 cm Blanco Rosa y Turquesa Goma Espuma Alfombrillas para Puzzles 010308'
 ---
 
 Tienes [meiqicool 18 Pcs Alfombra Puzzle Infantiles 142x114 cm Blanco Rosa y Turquesa Goma Espuma Alfombrillas para Puzzles 010308](https://www.amazon.es/dp/B07TMVK3Q1/?tag=tolees-21) con un 47.28 % de descuento con precio de oferta de 30.99 EUR (original: 58.78 EUR) en el siguiente enlace!

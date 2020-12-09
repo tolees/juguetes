@@ -14,7 +14,7 @@ currency: EUR
 price: 23.49
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Toy Story Caballo Perdigón Suave 30 cm  BIZAK 61234066 
+prodname: 'Toy Story Caballo Perdigón Suave 30 cm  BIZAK 61234066 '
 ---
 
 Ahora mismo tienes [Toy Story Caballo Perdigón Suave 30 cm  BIZAK 61234066 ](https://www.amazon.es/dp/B07RNRRQJ6/?tag=tolees-21) a 23.49 EUR (original: 34.99 EUR) (32.87 %  de descuento) en el siguiente enlace!

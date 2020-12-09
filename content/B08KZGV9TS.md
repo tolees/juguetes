@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 111.66 EUR
 inStock: true
-prodname: Disco Duro Externo 2 TB Disco Duro Externo USB3.0 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Negro 
+prodname: 'Disco Duro Externo 2 TB Disco Duro Externo USB3.0 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Negro '
 ---
 
 Ahora mismo tienes [Disco Duro Externo 2 TB Disco Duro Externo USB3.0 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Negro ](https://www.amazon.es/dp/B08KZGV9TS/?tag=tolees-21) a 63.99 EUR (original: 111.66 EUR) (42.69 %  de descuento) en el siguiente enlace!

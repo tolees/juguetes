@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Fisher-Price - Tren de Robi y su amigos -  Mattel FXJ00 
+prodname: 'Fisher-Price - Tren de Robi y su amigos -  Mattel FXJ00 '
 ---
 
 Está [Fisher-Price - Tren de Robi y su amigos -  Mattel FXJ00 ](https://www.amazon.es/dp/B07DD5CYZH/?tag=tolees-21) con 44.45 de descuento por 24.99 EUR (original: 44.99 EUR) en el siguiente enlace!

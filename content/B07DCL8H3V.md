@@ -14,7 +14,7 @@ currency: EUR
 price: 8.49
 comparePrice: 12.99 EUR
 inStock: true
-prodname: DADYPET Juguetes para Perros  Mascotas Perros Accesorios Pelota Dispensadora de Comida Fácil de Limpiar  Naranja 
+prodname: 'DADYPET Juguetes para Perros  Mascotas Perros Accesorios Pelota Dispensadora de Comida Fácil de Limpiar  Naranja '
 ---
 
 Está [DADYPET Juguetes para Perros  Mascotas Perros Accesorios Pelota Dispensadora de Comida Fácil de Limpiar  Naranja ](https://www.amazon.es/dp/B07DCL8H3V/?tag=tolees-21) con 34.64 de descuento por 8.49 EUR (original: 12.99 EUR) en el siguiente enlace!

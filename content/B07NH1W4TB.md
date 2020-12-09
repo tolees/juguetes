@@ -14,7 +14,7 @@ currency: EUR
 price: 78.99
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Barbie Casa Malibu  casa de muñecas de dos pisos plegable con muebles y accesorios  Mattel FXG57 
+prodname: 'Barbie Casa Malibu  casa de muñecas de dos pisos plegable con muebles y accesorios  Mattel FXG57 '
 ---
 
 Ahora mismo tienes [Barbie Casa Malibu  casa de muñecas de dos pisos plegable con muebles y accesorios  Mattel FXG57 ](https://www.amazon.es/dp/B07NH1W4TB/?tag=tolees-21) a 78.99 EUR (original: 139.99 EUR) (43.57 %  de descuento) en el siguiente enlace!

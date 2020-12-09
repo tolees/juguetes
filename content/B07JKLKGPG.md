@@ -14,7 +14,7 @@ currency: EUR
 price: 33.9
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Barbie - Casa de muñecas con accesorios  Multicolor  Mattel FXG54   Embalaje estándar
+prodname: 'Barbie - Casa de muñecas con accesorios  Multicolor  Mattel FXG54   Embalaje estándar'
 ---
 
 Ahora mismo tienes [Barbie - Casa de muñecas con accesorios  Multicolor  Mattel FXG54   Embalaje estándar](https://www.amazon.es/dp/B07JKLKGPG/?tag=tolees-21) a 33.9 EUR (original: 49.99 EUR) (32.19 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 20.84 EUR
 inStock: true
-prodname: LEGO City - Great Vehicles Camión de La Basura  Juguete Creativo de Construcción para Niños y Niñas con Accesorios Y Detalles  60220 
+prodname: 'LEGO City - Great Vehicles Camión de La Basura  Juguete Creativo de Construcción para Niños y Niñas con Accesorios Y Detalles  60220 '
 ---
 
 Está [LEGO City - Great Vehicles Camión de La Basura  Juguete Creativo de Construcción para Niños y Niñas con Accesorios Y Detalles  60220 ](https://www.amazon.es/dp/B07FNW6WQ1/?tag=tolees-21) con 28.07 de descuento por 14.99 EUR (original: 20.84 EUR) en el siguiente enlace!

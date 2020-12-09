@@ -14,7 +14,7 @@ currency: EUR
 price: 11.25
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Red Faction Guerrilla Re-Mars-Tered - Xbox One
+prodname: 'Red Faction Guerrilla Re-Mars-Tered - Xbox One'
 ---
 
 Está [Red Faction Guerrilla Re-Mars-Tered - Xbox One](https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21) con 62.49 de descuento por 11.25 EUR (original: 29.99 EUR) en el siguiente enlace!

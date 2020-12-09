@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 23.29 EUR
 inStock: true
-prodname: PietyPet 10 Piezas Juguetes para Hámster Animales pequeños de Madera para Masticar Gnaw Throw Toss Juguetes hámster Ratones Chinchillas Conejo Gerbil Guinea Pig Juguetes
+prodname: 'PietyPet 10 Piezas Juguetes para Hámster Animales pequeños de Madera para Masticar Gnaw Throw Toss Juguetes hámster Ratones Chinchillas Conejo Gerbil Guinea Pig Juguetes'
 ---
 
 Ahora mismo tienes [PietyPet 10 Piezas Juguetes para Hámster Animales pequeños de Madera para Masticar Gnaw Throw Toss Juguetes hámster Ratones Chinchillas Conejo Gerbil Guinea Pig Juguetes](https://www.amazon.es/dp/B08B3TC2LX/?tag=tolees-21) a 15.99 EUR (original: 23.29 EUR) (31.34 %  de descuento) en el siguiente enlace!

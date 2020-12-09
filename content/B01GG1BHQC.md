@@ -14,7 +14,7 @@ currency: EUR
 price: 31.33
 comparePrice: 46.0 EUR
 inStock: true
-prodname: Hasbro Gaming Juego de mesa Risk  Hasbro B7404105
+prodname: 'Hasbro Gaming Juego de mesa Risk  Hasbro B7404105'
 ---
 
 Está [Hasbro Gaming Juego de mesa Risk  Hasbro B7404105](https://www.amazon.es/dp/B01GG1BHQC/?tag=tolees-21) con 31.89 de descuento por 31.33 EUR (original: 46.0 EUR) en el siguiente enlace!

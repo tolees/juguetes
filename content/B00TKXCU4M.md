@@ -14,7 +14,7 @@ currency: EUR
 price: 8.02
 comparePrice: 11.19 EUR
 inStock: true
-prodname: Theo Klein-2927 Coches Con Sonido  Juguete  color surtido  2927 
+prodname: 'Theo Klein-2927 Coches Con Sonido  Juguete  color surtido  2927 '
 ---
 
 Está [Theo Klein-2927 Coches Con Sonido  Juguete  color surtido  2927 ](https://www.amazon.es/dp/B00TKXCU4M/?tag=tolees-21) con 28.33 de descuento por 8.02 EUR (original: 11.19 EUR) en el siguiente enlace!

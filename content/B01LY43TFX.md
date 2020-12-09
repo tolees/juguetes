@@ -14,7 +14,7 @@ currency: EUR
 price: 19.13
 comparePrice: 26.21 EUR
 inStock: true
-prodname: PLAYMOBIL- Banquete de Bodas  9228 
+prodname: 'PLAYMOBIL- Banquete de Bodas  9228 '
 ---
 
 Tienes [PLAYMOBIL- Banquete de Bodas  9228 ](https://www.amazon.es/dp/B01LY43TFX/?tag=tolees-21) con un 27.01 % de descuento con precio de oferta de 19.13 EUR (original: 26.21 EUR) en el siguiente enlace!

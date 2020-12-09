@@ -14,7 +14,7 @@ currency: EUR
 price: 6.69
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Educa - Avengers  Puzzle infantil de 200 piezas  a partir de 6 años  15933 
+prodname: 'Educa - Avengers  Puzzle infantil de 200 piezas  a partir de 6 años  15933 '
 ---
 
 Tienes [Educa - Avengers  Puzzle infantil de 200 piezas  a partir de 6 años  15933 ](https://www.amazon.es/dp/B00IJBOKH6/?tag=tolees-21) con un 32.76 % de descuento con precio de oferta de 6.69 EUR (original: 9.95 EUR) en el siguiente enlace!

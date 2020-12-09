@@ -14,7 +14,7 @@ currency: EUR
 price: 15.3
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Hasbro Gaming - Juego de mesa Detector de mentiras  Hasbro E4641175 
+prodname: 'Hasbro Gaming - Juego de mesa Detector de mentiras  Hasbro E4641175 '
 ---
 
 Está [Hasbro Gaming - Juego de mesa Detector de mentiras  Hasbro E4641175 ](https://www.amazon.es/dp/B07QHZ3FZW/?tag=tolees-21) con 69.39 de descuento por 15.3 EUR (original: 49.99 EUR) en el siguiente enlace!

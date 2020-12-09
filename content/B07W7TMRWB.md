@@ -14,7 +14,7 @@ currency: EUR
 price: 11.13
 comparePrice: 14.99 EUR
 inStock: true
-prodname: LEGO Creator - Monster Truck  4x4 de Juguete  set 3 en 1  Construye un Dragster o un Coche  Juguete Recomendado a Partir de 7 Años  31101    color/modelo surtido
+prodname: 'LEGO Creator - Monster Truck  4x4 de Juguete  set 3 en 1  Construye un Dragster o un Coche  Juguete Recomendado a Partir de 7 Años  31101    color/modelo surtido'
 ---
 
 Ahora mismo tienes [LEGO Creator - Monster Truck  4x4 de Juguete  set 3 en 1  Construye un Dragster o un Coche  Juguete Recomendado a Partir de 7 Años  31101    color/modelo surtido](https://www.amazon.es/dp/B07W7TMRWB/?tag=tolees-21) a 11.13 EUR (original: 14.99 EUR) (25.75 %  de descuento) en el siguiente enlace!

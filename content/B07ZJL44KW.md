@@ -14,7 +14,7 @@ currency: EUR
 price: 94.6
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Spongebob SquarePants: Battle for Bikini Bottom Rehydrated - Edición Shiny  Nintendo Switch 
+prodname: 'Spongebob SquarePants: Battle for Bikini Bottom Rehydrated - Edición Shiny  Nintendo Switch '
 ---
 
 Tienes [Spongebob SquarePants: Battle for Bikini Bottom Rehydrated - Edición Shiny  Nintendo Switch ](https://www.amazon.es/dp/B07ZJL44KW/?tag=tolees-21) con un 36.93 % de descuento con precio de oferta de 94.6 EUR (original: 149.99 EUR) en el siguiente enlace!

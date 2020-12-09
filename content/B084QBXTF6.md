@@ -14,7 +14,7 @@ currency: EUR
 price: 49.69
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Hot Wheels - Pista y garaje para coches de juguetes  regalo para niños y niñas +5 años  Mattel GWT39   Embalaje sostenible
+prodname: 'Hot Wheels - Pista y garaje para coches de juguetes  regalo para niños y niñas +5 años  Mattel GWT39   Embalaje sostenible'
 ---
 
 Tienes [Hot Wheels - Pista y garaje para coches de juguetes  regalo para niños y niñas +5 años  Mattel GWT39   Embalaje sostenible](https://www.amazon.es/dp/B084QBXTF6/?tag=tolees-21) con un 29.00 % de descuento con precio de oferta de 49.69 EUR (original: 69.99 EUR) en el siguiente enlace!

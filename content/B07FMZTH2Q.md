@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 20.99 EUR
 inStock: true
-prodname: Gifort Automatic Maquina Burbujas máquina de soplado de Burbujas portátil  soplador de Burbujas Alimentado por batería  batería no incluida  para niños pequeños  Juguetes Ideales para niños
+prodname: 'Gifort Automatic Maquina Burbujas máquina de soplado de Burbujas portátil  soplador de Burbujas Alimentado por batería  batería no incluida  para niños pequeños  Juguetes Ideales para niños'
 ---
 
 Ahora mismo tienes [Gifort Automatic Maquina Burbujas máquina de soplado de Burbujas portátil  soplador de Burbujas Alimentado por batería  batería no incluida  para niños pequeños  Juguetes Ideales para niños](https://www.amazon.es/dp/B07FMZTH2Q/?tag=tolees-21) a 11.99 EUR (original: 20.99 EUR) (42.88 %  de descuento) en el siguiente enlace!

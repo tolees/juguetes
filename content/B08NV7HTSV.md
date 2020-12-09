@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 136.22 EUR
 inStock: true
-prodname: Disco Duro Externo 2tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Azul 
+prodname: 'Disco Duro Externo 2tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Azul '
 ---
 
 Tienes [Disco Duro Externo 2tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Azul ](https://www.amazon.es/dp/B08NV7HTSV/?tag=tolees-21) con un 53.02 % de descuento con precio de oferta de 63.99 EUR (original: 136.22 EUR) en el siguiente enlace!

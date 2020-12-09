@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: eXtremeRate ThumbsGear Joysticks Ajustable para Mando Playstation 4 PS4 Pro PS4 Slim Joystick Ergonómico con Grip Convexo Cóncavo de 3 Alturas Mate Thumbsticks para PS4 Pro PS4 Slim-Plata Cromo&Negro
+prodname: 'eXtremeRate ThumbsGear Joysticks Ajustable para Mando Playstation 4 PS4 Pro PS4 Slim Joystick Ergonómico con Grip Convexo Cóncavo de 3 Alturas Mate Thumbsticks para PS4 Pro PS4 Slim-Plata Cromo&Negro'
 ---
 
 Tienes [eXtremeRate ThumbsGear Joysticks Ajustable para Mando Playstation 4 PS4 Pro PS4 Slim Joystick Ergonómico con Grip Convexo Cóncavo de 3 Alturas Mate Thumbsticks para PS4 Pro PS4 Slim-Plata Cromo&Negro](https://www.amazon.es/dp/B08NPRC6PL/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

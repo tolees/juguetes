@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 7.5 EUR
 inStock: true
-prodname: PLAYMOBIL- Special Plus Especial Hada+Cervatillo  Color carbón  70059 
+prodname: 'PLAYMOBIL- Special Plus Especial Hada+Cervatillo  Color carbón  70059 '
 ---
 
 Está [PLAYMOBIL- Special Plus Especial Hada+Cervatillo  Color carbón  70059 ](https://www.amazon.es/dp/B07JMCBR5B/?tag=tolees-21) con 46.80 de descuento por 3.99 EUR (original: 7.5 EUR) en el siguiente enlace!

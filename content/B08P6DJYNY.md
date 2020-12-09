@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  1tb  Rojo 
+prodname: 'Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  1tb  Rojo '
 ---
 
 Está [Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  1tb  Rojo ](https://www.amazon.es/dp/B08P6DJYNY/?tag=tolees-21) con 52.01 de descuento por 47.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 48.0 EUR
 inStock: true
-prodname: LAMEDA Pantalon Ciclismo Largo Hombre Invierno con Badana De Gel Leggings Mallas Ciclismo Hombre  Pantalón de Compresión Secado Rápido Forro Polar Pantalones Deporte para Bicicleta M 
+prodname: 'LAMEDA Pantalon Ciclismo Largo Hombre Invierno con Badana De Gel Leggings Mallas Ciclismo Hombre  Pantalón de Compresión Secado Rápido Forro Polar Pantalones Deporte para Bicicleta M '
 ---
 
 Tienes [LAMEDA Pantalon Ciclismo Largo Hombre Invierno con Badana De Gel Leggings Mallas Ciclismo Hombre  Pantalón de Compresión Secado Rápido Forro Polar Pantalones Deporte para Bicicleta M ](https://www.amazon.es/dp/B08N6GZFQT/?tag=tolees-21) con un 27.10 % de descuento con precio de oferta de 34.99 EUR (original: 48.0 EUR) en el siguiente enlace!

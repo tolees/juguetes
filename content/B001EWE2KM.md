@@ -14,7 +14,7 @@ currency: EUR
 price: 7.4
 comparePrice: 9.95 EUR
 inStock: true
-prodname: Educa- Desfile Disney Puzzle infantil de 200 piezas  a partir de 6 años  13289 
+prodname: 'Educa- Desfile Disney Puzzle infantil de 200 piezas  a partir de 6 años  13289 '
 ---
 
 Tienes [Educa- Desfile Disney Puzzle infantil de 200 piezas  a partir de 6 años  13289 ](https://www.amazon.es/dp/B001EWE2KM/?tag=tolees-21) con un 25.63 % de descuento con precio de oferta de 7.4 EUR (original: 9.95 EUR) en el siguiente enlace!

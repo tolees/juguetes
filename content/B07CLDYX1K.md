@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Lunnis de Leyenda- Lupita Peluche con Voz   Bandai 80459 
+prodname: 'Lunnis de Leyenda- Lupita Peluche con Voz   Bandai 80459 '
 ---
 
 Está [Lunnis de Leyenda- Lupita Peluche con Voz   Bandai 80459 ](https://www.amazon.es/dp/B07CLDYX1K/?tag=tolees-21) con 66.69 de descuento por 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!

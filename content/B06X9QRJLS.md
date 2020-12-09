@@ -14,7 +14,7 @@ currency: EUR
 price: 16.48
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Play-Doh Horno Magico  Hasbro B9740EU4 
+prodname: 'Play-Doh Horno Magico  Hasbro B9740EU4 '
 ---
 
 Ahora mismo tienes [Play-Doh Horno Magico  Hasbro B9740EU4 ](https://www.amazon.es/dp/B06X9QRJLS/?tag=tolees-21) a 16.48 EUR (original: 32.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

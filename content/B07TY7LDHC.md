@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Razer Kraken X para Consolas Auriculares Gaming Ultraligero para PC  Mac  PS4  Xbox One & Switch con sonido Envolvente 7.1  Controles en los Auriculares  Negro
+prodname: 'Razer Kraken X para Consolas Auriculares Gaming Ultraligero para PC  Mac  PS4  Xbox One & Switch con sonido Envolvente 7.1  Controles en los Auriculares  Negro'
 ---
 
 Está [Razer Kraken X para Consolas Auriculares Gaming Ultraligero para PC  Mac  PS4  Xbox One & Switch con sonido Envolvente 7.1  Controles en los Auriculares  Negro](https://www.amazon.es/dp/B07TY7LDHC/?tag=tolees-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

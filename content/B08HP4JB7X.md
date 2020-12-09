@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Immortals Fenyx Rising Limited Edition Amazon PS4
+prodname: 'Immortals Fenyx Rising Limited Edition Amazon PS4'
 ---
 
 Tienes [Immortals Fenyx Rising Limited Edition Amazon PS4](https://www.amazon.es/dp/B08HP4JB7X/?tag=tolees-21) con un 25.12 % de descuento con precio de oferta de 59.9 EUR (original: 79.99 EUR) en el siguiente enlace!

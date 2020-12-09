@@ -14,7 +14,7 @@ currency: EUR
 price: 12.71
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Richgv 12 Pulgadas Tablet para Niños  Tablets de Escritura LCD  Portátil Tableta de Dibujo  Cuaderno de Notas Adecuada Juguetes de Niñas de 3-10 Años  1 Año de Garantía  12 Pulgadas  Rojo-A 
+prodname: 'Richgv 12 Pulgadas Tablet para Niños  Tablets de Escritura LCD  Portátil Tableta de Dibujo  Cuaderno de Notas Adecuada Juguetes de Niñas de 3-10 Años  1 Año de Garantía  12 Pulgadas  Rojo-A '
 ---
 
 Está [Richgv 12 Pulgadas Tablet para Niños  Tablets de Escritura LCD  Portátil Tableta de Dibujo  Cuaderno de Notas Adecuada Juguetes de Niñas de 3-10 Años  1 Año de Garantía  12 Pulgadas  Rojo-A ](https://www.amazon.es/dp/B081VCT8NT/?tag=tolees-21) con 25.19 de descuento por 12.71 EUR (original: 16.99 EUR) en el siguiente enlace!

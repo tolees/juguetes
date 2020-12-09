@@ -14,7 +14,7 @@ currency: EUR
 price: 20.96
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO City Oceans Océano Exploración Set Aguas Profundas  Juguetes de Aventuras Submarinas para Niño  Multicolor  60264 
+prodname: 'LEGO City Oceans Océano Exploración Set Aguas Profundas  Juguetes de Aventuras Submarinas para Niño  Multicolor  60264 '
 ---
 
 Tienes [LEGO City Oceans Océano Exploración Set Aguas Profundas  Juguetes de Aventuras Submarinas para Niño  Multicolor  60264 ](https://www.amazon.es/dp/B0813RJRXD/?tag=tolees-21) con un 30.11 % de descuento con precio de oferta de 20.96 EUR (original: 29.99 EUR) en el siguiente enlace!

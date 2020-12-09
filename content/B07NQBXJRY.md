@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Creatable World Figura Unisex  muñeco articulado  pelucas color rubio oscuro y accesorios  Mattel GGG53    color/modelo surtido
+prodname: 'Creatable World Figura Unisex  muñeco articulado  pelucas color rubio oscuro y accesorios  Mattel GGG53    color/modelo surtido'
 ---
 
 Ahora mismo tienes [Creatable World Figura Unisex  muñeco articulado  pelucas color rubio oscuro y accesorios  Mattel GGG53    color/modelo surtido](https://www.amazon.es/dp/B07NQBXJRY/?tag=tolees-21) a 15.99 EUR (original: 39.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.47
 comparePrice: 27.5 EUR
 inStock: true
-prodname: Mattel Games Bounce-Off  Juego de Mesa  Mattel CBJ83 
+prodname: 'Mattel Games Bounce-Off  Juego de Mesa  Mattel CBJ83 '
 ---
 
 Tienes [Mattel Games Bounce-Off  Juego de Mesa  Mattel CBJ83 ](https://www.amazon.es/dp/B00IQ8MVH8/?tag=tolees-21) con un 25.56 % de descuento con precio de oferta de 20.47 EUR (original: 27.5 EUR) en el siguiente enlace!

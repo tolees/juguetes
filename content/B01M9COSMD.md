@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Red Dead Redemption 2  PS4 
+prodname: 'Red Dead Redemption 2  PS4 '
 ---
 
 Está [Red Dead Redemption 2  PS4 ](https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21) con 64.29 de descuento por 24.99 EUR (original: 69.99 EUR) en el siguiente enlace!

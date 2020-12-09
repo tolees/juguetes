@@ -14,7 +14,7 @@ currency: EUR
 price: 11.46
 comparePrice: 16.71 EUR
 inStock: true
-prodname: Venom Xbox One Controller Phone Clip for Use with Microsoft Project Xcloud and Xbox Console Streaming  Xbox One/ PC   Xbox One/  [Importación inglesa]
+prodname: 'Venom Xbox One Controller Phone Clip for Use with Microsoft Project Xcloud and Xbox Console Streaming  Xbox One/ PC   Xbox One/  [Importación inglesa]'
 ---
 
 Ahora mismo tienes [Venom Xbox One Controller Phone Clip for Use with Microsoft Project Xcloud and Xbox Console Streaming  Xbox One/ PC   Xbox One/  [Importación inglesa]](https://www.amazon.es/dp/B07Z9QZT4Z/?tag=tolees-21) a 11.46 EUR (original: 16.71 EUR) (31.42 %  de descuento) en el siguiente enlace!

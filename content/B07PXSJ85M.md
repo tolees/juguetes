@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Fisher-price perezoso linkimals  juguete interactivo bebés +9 meses  mattel ghy88 .
+prodname: 'Fisher-price perezoso linkimals  juguete interactivo bebés +9 meses  mattel ghy88 .'
 ---
 
 Está [Fisher-price perezoso linkimals  juguete interactivo bebés +9 meses  mattel ghy88 .](https://www.amazon.es/dp/B07PXSJ85M/?tag=tolees-21) con 28.90 de descuento por 31.99 EUR (original: 44.99 EUR) en el siguiente enlace!

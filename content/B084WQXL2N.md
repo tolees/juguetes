@@ -14,7 +14,7 @@ currency: EUR
 price: 28.79
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Trust Gaming Cascos PS4 y PS5 Auriculares de Gaming GXT 488 Forze-G  Licencia Oficial para PlayStation  Micrófono Plegable  Altavoces Activos de 50 mm  Cable Trenzado de Nailon de 1.2 m  Gris
+prodname: 'Trust Gaming Cascos PS4 y PS5 Auriculares de Gaming GXT 488 Forze-G  Licencia Oficial para PlayStation  Micrófono Plegable  Altavoces Activos de 50 mm  Cable Trenzado de Nailon de 1.2 m  Gris'
 ---
 
 Tienes [Trust Gaming Cascos PS4 y PS5 Auriculares de Gaming GXT 488 Forze-G  Licencia Oficial para PlayStation  Micrófono Plegable  Altavoces Activos de 50 mm  Cable Trenzado de Nailon de 1.2 m  Gris](https://www.amazon.es/dp/B084WQXL2N/?tag=tolees-21) con un 42.41 % de descuento con precio de oferta de 28.79 EUR (original: 49.99 EUR) en el siguiente enlace!

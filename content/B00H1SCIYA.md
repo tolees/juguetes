@@ -14,7 +14,7 @@ currency: EUR
 price: 3.5
 comparePrice: 7.41 EUR
 inStock: true
-prodname: Mondo Toys- Peppa Pig Pelota  2517 U2517 
+prodname: 'Mondo Toys- Peppa Pig Pelota  2517 U2517 '
 ---
 
 Ahora mismo tienes [Mondo Toys- Peppa Pig Pelota  2517 U2517 ](https://www.amazon.es/dp/B00H1SCIYA/?tag=tolees-21) a 3.5 EUR (original: 7.41 EUR) (52.77 %  de descuento) en el siguiente enlace!

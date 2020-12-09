@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 34.99 EUR
 inStock: true
-prodname: PDP - Auricular Stereo Afterglow LVL 3  Xbox One 
+prodname: 'PDP - Auricular Stereo Afterglow LVL 3  Xbox One '
 ---
 
 Ahora mismo tienes [PDP - Auricular Stereo Afterglow LVL 3  Xbox One ](https://www.amazon.es/dp/B00ZJEOTYK/?tag=tolees-21) a 14.99 EUR (original: 34.99 EUR) (57.16 %  de descuento) en el siguiente enlace!

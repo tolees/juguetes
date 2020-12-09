@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 239 EUR
 inStock: true
-prodname: Fitfiu - BELI100  Bicicleta elíptica estática  unisex  gris
+prodname: 'Fitfiu - BELI100  Bicicleta elíptica estática  unisex  gris'
 ---
 
 Ahora mismo tienes [Fitfiu - BELI100  Bicicleta elíptica estática  unisex  gris](https://www.amazon.es/dp/B01C2VVK0S/?tag=tolees-21) a 99.99 EUR (original: 239 EUR) (58.16 %  de descuento) en el siguiente enlace!

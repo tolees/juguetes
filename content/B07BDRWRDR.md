@@ -14,7 +14,7 @@ currency: EUR
 price: 12.2
 comparePrice: 16.95 EUR
 inStock: true
-prodname: ThinkFun Letra a Letra  Juego de cartas  Edad recomendada 10+  Ravensburger 76038 
+prodname: 'ThinkFun Letra a Letra  Juego de cartas  Edad recomendada 10+  Ravensburger 76038 '
 ---
 
 Está [ThinkFun Letra a Letra  Juego de cartas  Edad recomendada 10+  Ravensburger 76038 ](https://www.amazon.es/dp/B07BDRWRDR/?tag=tolees-21) con 28.02 de descuento por 12.2 EUR (original: 16.95 EUR) en el siguiente enlace!

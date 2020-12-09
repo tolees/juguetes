@@ -14,7 +14,7 @@ currency: EUR
 price: 9.82
 comparePrice: 29.99 EUR
 inStock: true
-prodname: LEGO - Intercepción Infernal  Juego de construcción  70162 
+prodname: 'LEGO - Intercepción Infernal  Juego de construcción  70162 '
 ---
 
 Está [LEGO - Intercepción Infernal  Juego de construcción  70162 ](https://www.amazon.es/dp/B00I4IXKIY/?tag=tolees-21) con 67.26 de descuento por 9.82 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 7.08
 comparePrice: 24.95 EUR
 inStock: true
-prodname: LEGO Teo 625 Camiseta de Manga Larga  Gris  Grey Melange   Tamaño del Fabricante:152 para Niños
+prodname: 'LEGO Teo 625 Camiseta de Manga Larga  Gris  Grey Melange   Tamaño del Fabricante:152 para Niños'
 ---
 
 Ahora mismo tienes [LEGO Teo 625 Camiseta de Manga Larga  Gris  Grey Melange   Tamaño del Fabricante:152 para Niños](https://www.amazon.es/dp/B01MZFYYJQ/?tag=tolees-21) a 7.08 EUR (original: 24.95 EUR) (71.62 %  de descuento) en el siguiente enlace!

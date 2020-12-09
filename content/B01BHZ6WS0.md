@@ -14,7 +14,7 @@ currency: EUR
 price: 21.87
 comparePrice: 29.94 EUR
 inStock: true
-prodname: Kinetic Sand - Playset  Castillo  Bizak 61921402 
+prodname: 'Kinetic Sand - Playset  Castillo  Bizak 61921402 '
 ---
 
 Tienes [Kinetic Sand - Playset  Castillo  Bizak 61921402 ](https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21) con un 26.95 % de descuento con precio de oferta de 21.87 EUR (original: 29.94 EUR) en el siguiente enlace!

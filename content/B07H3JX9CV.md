@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: AGM Pedales Estaticos  Mini Bicicleta Estáticas  Ejercitador de Pedales  Máquinas de piernas para Entrenamiento de Brazos y Piernas Aparatos de Pedales  LCD Pantalla y Resistencia Ajustable  Negro 
+prodname: 'AGM Pedales Estaticos  Mini Bicicleta Estáticas  Ejercitador de Pedales  Máquinas de piernas para Entrenamiento de Brazos y Piernas Aparatos de Pedales  LCD Pantalla y Resistencia Ajustable  Negro '
 ---
 
 Ahora mismo tienes [AGM Pedales Estaticos  Mini Bicicleta Estáticas  Ejercitador de Pedales  Máquinas de piernas para Entrenamiento de Brazos y Piernas Aparatos de Pedales  LCD Pantalla y Resistencia Ajustable  Negro ](https://www.amazon.es/dp/B07H3JX9CV/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

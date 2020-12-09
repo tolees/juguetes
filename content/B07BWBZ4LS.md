@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: HONCENMAX Coche Asiento Trasero El Maletero Organizador Bolsa Colgante de Juguetes para Niños Bolsa de Almacenamiento Larga Accesorios de Carga Interiores Automotrices para SUV Vans Cars Trucks
+prodname: 'HONCENMAX Coche Asiento Trasero El Maletero Organizador Bolsa Colgante de Juguetes para Niños Bolsa de Almacenamiento Larga Accesorios de Carga Interiores Automotrices para SUV Vans Cars Trucks'
 ---
 
 Está [HONCENMAX Coche Asiento Trasero El Maletero Organizador Bolsa Colgante de Juguetes para Niños Bolsa de Almacenamiento Larga Accesorios de Carga Interiores Automotrices para SUV Vans Cars Trucks](https://www.amazon.es/dp/B07BWBZ4LS/?tag=tolees-21) con 56.01 de descuento por 21.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Fisher-Price - Bloques Activity Juguete Bebé  Multicolor  Mattel DHW15 
+prodname: 'Fisher-Price - Bloques Activity Juguete Bebé  Multicolor  Mattel DHW15 '
 ---
 
 Está [Fisher-Price - Bloques Activity Juguete Bebé  Multicolor  Mattel DHW15 ](https://www.amazon.es/dp/B01ASVCQPW/?tag=tolees-21) con 25.21 de descuento por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!

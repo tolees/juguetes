@@ -14,7 +14,7 @@ currency: EUR
 price: 46.9
 comparePrice: 64.99 EUR
 inStock: true
-prodname: LEGO Star Wars TM - Asaltador AT-ST  Set de Construcción Inspirado en el Mandalorian  Incluye Minifiguras con Armas de la Guerra de las Galaxias  Juguete a partir de 8 años  75254 
+prodname: 'LEGO Star Wars TM - Asaltador AT-ST  Set de Construcción Inspirado en el Mandalorian  Incluye Minifiguras con Armas de la Guerra de las Galaxias  Juguete a partir de 8 años  75254 '
 ---
 
 Ahora mismo tienes [LEGO Star Wars TM - Asaltador AT-ST  Set de Construcción Inspirado en el Mandalorian  Incluye Minifiguras con Armas de la Guerra de las Galaxias  Juguete a partir de 8 años  75254 ](https://www.amazon.es/dp/B07ND9SVPB/?tag=tolees-21) a 46.9 EUR (original: 64.99 EUR) (27.84 %  de descuento) en el siguiente enlace!

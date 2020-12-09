@@ -14,7 +14,7 @@ currency: EUR
 price: 11.02
 comparePrice: 22.31 EUR
 inStock: true
-prodname: Heinrich Bauer 14246 – blickfänger lashy Gato Peluche  Glitter  20 cm  Color Rosa y Multicolor
+prodname: 'Heinrich Bauer 14246 – blickfänger lashy Gato Peluche  Glitter  20 cm  Color Rosa y Multicolor'
 ---
 
 Tienes [Heinrich Bauer 14246 – blickfänger lashy Gato Peluche  Glitter  20 cm  Color Rosa y Multicolor](https://www.amazon.es/dp/B06XHHYDM4/?tag=tolees-21) con un 50.61 % de descuento con precio de oferta de 11.02 EUR (original: 22.31 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.9
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Yakuza Like a Dragon Day Ichi Edition - PS4
+prodname: 'Yakuza Like a Dragon Day Ichi Edition - PS4'
 ---
 
 Ahora mismo tienes [Yakuza Like a Dragon Day Ichi Edition - PS4](https://www.amazon.es/dp/B088ZFHDK9/?tag=tolees-21) a 39.9 EUR (original: 59.99 EUR) (33.49 %  de descuento) en el siguiente enlace!

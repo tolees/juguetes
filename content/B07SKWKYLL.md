@@ -14,7 +14,7 @@ currency: EUR
 price: 11.24
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Baby Shark - Peluche Musical Baby Shark  Bandai SS92510 
+prodname: 'Baby Shark - Peluche Musical Baby Shark  Bandai SS92510 '
 ---
 
 Está [Baby Shark - Peluche Musical Baby Shark  Bandai SS92510 ](https://www.amazon.es/dp/B07SKWKYLL/?tag=tolees-21) con 43.77 de descuento por 11.24 EUR (original: 19.99 EUR) en el siguiente enlace!

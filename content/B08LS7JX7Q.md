@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Funda de silicona para el controlador PS5  cubierta antideslizante del controlador PS5 con 4 empuñaduras para el pulgar  funda protectora a prueba de polvo para el controlador Playstation 5 - Negro
+prodname: 'Funda de silicona para el controlador PS5  cubierta antideslizante del controlador PS5 con 4 empuñaduras para el pulgar  funda protectora a prueba de polvo para el controlador Playstation 5 - Negro'
 ---
 
 Ahora mismo tienes [Funda de silicona para el controlador PS5  cubierta antideslizante del controlador PS5 con 4 empuñaduras para el pulgar  funda protectora a prueba de polvo para el controlador Playstation 5 - Negro](https://www.amazon.es/dp/B08LS7JX7Q/?tag=tolees-21) a 11.99 EUR (original: 18.99 EUR) (36.86 %  de descuento) en el siguiente enlace!

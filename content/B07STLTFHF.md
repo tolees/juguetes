@@ -14,7 +14,7 @@ currency: EUR
 price: 24.11
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Hot Wheels Pack de Mini coches  Mattel GJK03    color/modelo surtido
+prodname: 'Hot Wheels Pack de Mini coches  Mattel GJK03    color/modelo surtido'
 ---
 
 Está [Hot Wheels Pack de Mini coches  Mattel GJK03    color/modelo surtido](https://www.amazon.es/dp/B07STLTFHF/?tag=tolees-21) con 26.92 de descuento por 24.11 EUR (original: 32.99 EUR) en el siguiente enlace!

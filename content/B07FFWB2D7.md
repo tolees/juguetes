@@ -14,7 +14,7 @@ currency: EUR
 price: 14.79
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Barbie Vamos de Viaje  muñeco Ken con accesorios  regalo para niñas y niños 3-9 años  Mattel FWV15    color/modelo surtido
+prodname: 'Barbie Vamos de Viaje  muñeco Ken con accesorios  regalo para niñas y niños 3-9 años  Mattel FWV15    color/modelo surtido'
 ---
 
 Tienes [Barbie Vamos de Viaje  muñeco Ken con accesorios  regalo para niñas y niños 3-9 años  Mattel FWV15    color/modelo surtido](https://www.amazon.es/dp/B07FFWB2D7/?tag=tolees-21) con un 26.01 % de descuento con precio de oferta de 14.79 EUR (original: 19.99 EUR) en el siguiente enlace!

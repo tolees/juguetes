@@ -14,7 +14,7 @@ currency: EUR
 price: 18.82
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Dragon s Crown Pro - Battle Hardened Edition  PS4 
+prodname: 'Dragon s Crown Pro - Battle Hardened Edition  PS4 '
 ---
 
 Tienes [Dragon s Crown Pro - Battle Hardened Edition  PS4 ](https://www.amazon.es/dp/B077Y3GCPC/?tag=tolees-21) con un 62.35 % de descuento con precio de oferta de 18.82 EUR (original: 49.99 EUR) en el siguiente enlace!

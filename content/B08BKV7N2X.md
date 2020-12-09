@@ -14,7 +14,7 @@ currency: EUR
 price: 269.0
 comparePrice: 369.0 EUR
 inStock: true
-prodname: BH Fitness - EVO - B2600A VELBOS- Bicicleta estática con pulsómetro incorporado y pantalla LCD - Edición exclusiva
+prodname: 'BH Fitness - EVO - B2600A VELBOS- Bicicleta estática con pulsómetro incorporado y pantalla LCD - Edición exclusiva'
 ---
 
 Está [BH Fitness - EVO - B2600A VELBOS- Bicicleta estática con pulsómetro incorporado y pantalla LCD - Edición exclusiva](https://www.amazon.es/dp/B08BKV7N2X/?tag=tolees-21) con 27.10 de descuento por 269.0 EUR (original: 369.0 EUR) en el siguiente enlace!

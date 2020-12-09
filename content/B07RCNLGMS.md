@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Star Wars - Droide Electrónico con Control Remoto  Hasbro E6983EU4 
+prodname: 'Star Wars - Droide Electrónico con Control Remoto  Hasbro E6983EU4 '
 ---
 
 Tienes [Star Wars - Droide Electrónico con Control Remoto  Hasbro E6983EU4 ](https://www.amazon.es/dp/B07RCNLGMS/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 25.99 EUR (original: 64.99 EUR) en el siguiente enlace!

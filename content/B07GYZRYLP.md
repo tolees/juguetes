@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: KONVINIT Guantes de Ciclismo  Guantes Pantalla Táctil Acolchados en Gel Guantes Bicicleta para Hombres/Mujeres Azul M
+prodname: 'KONVINIT Guantes de Ciclismo  Guantes Pantalla Táctil Acolchados en Gel Guantes Bicicleta para Hombres/Mujeres Azul M'
 ---
 
 Tienes [KONVINIT Guantes de Ciclismo  Guantes Pantalla Táctil Acolchados en Gel Guantes Bicicleta para Hombres/Mujeres Azul M](https://www.amazon.es/dp/B07GYZRYLP/?tag=tolees-21) con un 52.66 % de descuento con precio de oferta de 8.99 EUR (original: 18.99 EUR) en el siguiente enlace!

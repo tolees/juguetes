@@ -14,7 +14,7 @@ currency: EUR
 price: 2.28
 comparePrice: 3.25 EUR
 inStock: true
-prodname: Hot Wheels Mattel FRN33  Vehículo Básico 50 Aniversario  Coche de Juguete  Modelos Surtidos
+prodname: 'Hot Wheels Mattel FRN33  Vehículo Básico 50 Aniversario  Coche de Juguete  Modelos Surtidos'
 ---
 
 Está [Hot Wheels Mattel FRN33  Vehículo Básico 50 Aniversario  Coche de Juguete  Modelos Surtidos](https://www.amazon.es/dp/B077NG3JJS/?tag=tolees-21) con 29.85 de descuento por 2.28 EUR (original: 3.25 EUR) en el siguiente enlace!

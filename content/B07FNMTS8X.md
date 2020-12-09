@@ -14,7 +14,7 @@ currency: EUR
 price: 55.8
 comparePrice: 79.99 EUR
 inStock: true
-prodname: LEGO City Police - Policía Aérea: Base de Operaciones  Juguete de Avión y Aventuras para Construcción  Incluye Paracaídas Eyectable  60210 
+prodname: 'LEGO City Police - Policía Aérea: Base de Operaciones  Juguete de Avión y Aventuras para Construcción  Incluye Paracaídas Eyectable  60210 '
 ---
 
 Ahora mismo tienes [LEGO City Police - Policía Aérea: Base de Operaciones  Juguete de Avión y Aventuras para Construcción  Incluye Paracaídas Eyectable  60210 ](https://www.amazon.es/dp/B07FNMTS8X/?tag=tolees-21) a 55.8 EUR (original: 79.99 EUR) (30.24 %  de descuento) en el siguiente enlace!

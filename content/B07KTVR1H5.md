@@ -14,7 +14,7 @@ currency: EUR
 price: 32.59
 comparePrice: 44.99 EUR
 inStock: true
-prodname: LEGO City Town - Centro Automovilístico Set de construcción con Coches de Juguete para Recrear Aventuras en la Ciudad  Novedad 2019  60232    color/modelo surtido
+prodname: 'LEGO City Town - Centro Automovilístico Set de construcción con Coches de Juguete para Recrear Aventuras en la Ciudad  Novedad 2019  60232    color/modelo surtido'
 ---
 
 Está [LEGO City Town - Centro Automovilístico Set de construcción con Coches de Juguete para Recrear Aventuras en la Ciudad  Novedad 2019  60232    color/modelo surtido](https://www.amazon.es/dp/B07KTVR1H5/?tag=tolees-21) con 27.56 de descuento por 32.59 EUR (original: 44.99 EUR) en el siguiente enlace!

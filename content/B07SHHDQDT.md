@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Juegos Bizak Benito Granitos  BIZAK 61924324 
+prodname: 'Juegos Bizak Benito Granitos  BIZAK 61924324 '
 ---
 
 Ahora mismo tienes [Juegos Bizak Benito Granitos  BIZAK 61924324 ](https://www.amazon.es/dp/B07SHHDQDT/?tag=tolees-21) a 15.0 EUR (original: 29.99 EUR) (49.98 %  de descuento) en el siguiente enlace!

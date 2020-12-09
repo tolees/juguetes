@@ -14,7 +14,7 @@ currency: EUR
 price: 43.02
 comparePrice: 99.99 EUR
 inStock: true
-prodname: LEGO Película 2 - Fiestabús Pop-Up  set divertido para construir autobús de juguete convertible en pista de baile  70828 
+prodname: 'LEGO Película 2 - Fiestabús Pop-Up  set divertido para construir autobús de juguete convertible en pista de baile  70828 '
 ---
 
 Ahora mismo tienes [LEGO Película 2 - Fiestabús Pop-Up  set divertido para construir autobús de juguete convertible en pista de baile  70828 ](https://www.amazon.es/dp/B07FNWJ12T/?tag=tolees-21) a 43.02 EUR (original: 99.99 EUR) (56.98 %  de descuento) en el siguiente enlace!

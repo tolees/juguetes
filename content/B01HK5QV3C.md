@@ -14,7 +14,7 @@ currency: EUR
 price: 10.89
 comparePrice: 25.95 EUR
 inStock: true
-prodname: Star Wars - Stormtrooper  Puzzle 3D Escultura  Educa Borrás 16969 
+prodname: 'Star Wars - Stormtrooper  Puzzle 3D Escultura  Educa Borrás 16969 '
 ---
 
 Ahora mismo tienes [Star Wars - Stormtrooper  Puzzle 3D Escultura  Educa Borrás 16969 ](https://www.amazon.es/dp/B01HK5QV3C/?tag=tolees-21) a 10.89 EUR (original: 25.95 EUR) (58.03 %  de descuento) en el siguiente enlace!

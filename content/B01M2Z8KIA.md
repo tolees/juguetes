@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 20.96 EUR
 inStock: true
-prodname: LEGO Batman equipaje  color rosso 14.4cm
+prodname: 'LEGO Batman equipaje  color rosso 14.4cm'
 ---
 
 Tienes [LEGO Batman equipaje  color rosso 14.4cm](https://www.amazon.es/dp/B01M2Z8KIA/?tag=tolees-21) con un 52.34 % de descuento con precio de oferta de 9.99 EUR (original: 20.96 EUR) en el siguiente enlace!

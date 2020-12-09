@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Turtle Beach Elite Atlas Auriculares Gaming de Rendimiento Profesional para PC  PS4  Nintendo Switch e Xbox One
+prodname: 'Turtle Beach Elite Atlas Auriculares Gaming de Rendimiento Profesional para PC  PS4  Nintendo Switch e Xbox One'
 ---
 
 Ahora mismo tienes [Turtle Beach Elite Atlas Auriculares Gaming de Rendimiento Profesional para PC  PS4  Nintendo Switch e Xbox One](https://www.amazon.es/dp/B07G7PMVR9/?tag=tolees-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

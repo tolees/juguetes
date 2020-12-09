@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Halo Wars 2 - Standard Edition  Xbox One 
+prodname: 'Halo Wars 2 - Standard Edition  Xbox One '
 ---
 
 Ahora mismo tienes [Halo Wars 2 - Standard Edition  Xbox One ](https://www.amazon.es/dp/B01H0QE3YA/?tag=tolees-21) a 15.99 EUR (original: 64.99 EUR) (75.40 %  de descuento) en el siguiente enlace!

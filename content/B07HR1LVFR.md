@@ -14,7 +14,7 @@ currency: EUR
 price: 9.48
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Enchantimals Vamos al lago  muñeca Hedda Hippo con mascota y accesorios  Mattel GFN56    color/modelo surtido
+prodname: 'Enchantimals Vamos al lago  muñeca Hedda Hippo con mascota y accesorios  Mattel GFN56    color/modelo surtido'
 ---
 
 Tienes [Enchantimals Vamos al lago  muñeca Hedda Hippo con mascota y accesorios  Mattel GFN56    color/modelo surtido](https://www.amazon.es/dp/B07HR1LVFR/?tag=tolees-21) con un 40.71 % de descuento con precio de oferta de 9.48 EUR (original: 15.99 EUR) en el siguiente enlace!
