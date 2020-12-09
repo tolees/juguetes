@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings - Serie 5 - Display de 50 Fig al 31.46 % de descuento'
-date: 2020-12-08 14:25:51
+date: 2020-12-09 14:51:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OBkQviMaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OBkQviMaL._SL200_.jpg' ]
 comments: true
