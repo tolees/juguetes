@@ -14,10 +14,12 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO City - Jungla: Helicóptero de Transporte  60158 ](https://www.amazon.es/dp/B06W55DZCK/?tag=tolees-21) a 13.5 EUR (original: 19.99 EUR) (32.47 %  de descuento) en el siguiente enlace!
+Está [LEGO City - Jungla: Helicóptero de Transporte  60158 ](https://www.amazon.es/dp/B06W55DZCK/?tag=tolees-21) con 32.47 de descuento por 13.5 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![LEGO City - Jungla: Helicóptero de Trans](https://images-eu.ssl-images-amazon.com/images/I/510Qw672-9L._SL200_.jpg)](https://www.amazon.es/dp/B06W55DZCK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06W55DZCK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06W55DZCK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
