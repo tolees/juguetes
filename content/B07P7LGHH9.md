@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings - Serie 4 - Display Mini Vehi al 52.10 % de descuento'
-date: 2020-12-08 08:25:26
+date: 2020-12-09 08:35:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg' ]
 comments: true

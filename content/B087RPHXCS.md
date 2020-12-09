@@ -14,12 +14,10 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [F1 2020 Seventy Edition PS4 ESP](https://www.amazon.es/dp/B087RPHXCS/?tag=tolees-21) con 42.99 de descuento por 39.9 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [F1 2020 Seventy Edition PS4 ESP](https://www.amazon.es/dp/B087RPHXCS/?tag=tolees-21) a 39.9 EUR (original: 69.99 EUR) (42.99 %  de descuento) en el siguiente enlace!
 
 [![F1 2020 Seventy Edition PS4 ESP](https://m.media-amazon.com/images/I/511-fJRjRNL._SL200_.jpg)](https://www.amazon.es/dp/B087RPHXCS/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B087RPHXCS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B087RPHXCS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
