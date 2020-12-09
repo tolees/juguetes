@@ -10,8 +10,11 @@ author: ring
 slug: B07QLVKS54
 description:
 actualPrice: 33.43 EUR
+currency: EUR
+price: 33.43
 comparePrice: 66.88 EUR
 inStock: true
+prodname: Hengxin Maillot Ciclismo Corto De Verano para Hombre  Ropa Culote Conjunto Traje Culotte Deportivo con 3D Almohadilla De Gel para Bicicleta MTB Ciclista Bici  Rosa roja  XL 
 ---
 
 Ahora mismo tienes [Hengxin Maillot Ciclismo Corto De Verano para Hombre  Ropa Culote Conjunto Traje Culotte Deportivo con 3D Almohadilla De Gel para Bicicleta MTB Ciclista Bici  Rosa roja  XL ](https://www.amazon.es/dp/B07QLVKS54/?tag=tolees-21) a 33.43 EUR (original: 66.88 EUR) (50.01 %  de descuento) en el siguiente enlace!

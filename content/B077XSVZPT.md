@@ -10,8 +10,11 @@ author: ring
 slug: B077XSVZPT
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Thrustmaster - Auriculares Y-300CPX Far Cry 5 Edition  PS4  PS3  Xbox One  Xbox360  PC  VR  Nintendo Switch 
 ---
 
 Tienes [Thrustmaster - Auriculares Y-300CPX Far Cry 5 Edition  PS4  PS3  Xbox One  Xbox360  PC  VR  Nintendo Switch ](https://www.amazon.es/dp/B077XSVZPT/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

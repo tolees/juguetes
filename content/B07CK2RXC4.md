@@ -10,8 +10,11 @@ author: ring
 slug: B07CK2RXC4
 description:
 actualPrice: 7.06 EUR
+currency: EUR
+price: 7.06
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Lunnis de Leyenda- Lucho Peluche con Voz   Bandai 80458 
 ---
 
 Ahora mismo tienes [Lunnis de Leyenda- Lucho Peluche con Voz   Bandai 80458 ](https://www.amazon.es/dp/B07CK2RXC4/?tag=tolees-21) a 7.06 EUR (original: 29.99 EUR) (76.46 %  de descuento) en el siguiente enlace!

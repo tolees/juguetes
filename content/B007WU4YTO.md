@@ -10,8 +10,11 @@ author: ring
 slug: B007WU4YTO
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.89 EUR
 inStock: true
+prodname: CatEye PB-1000 Wind-Bell Timbre para Bicicleta  Unisex Adulto  Plateado/Negro  Talla única
 ---
 
 Está [CatEye PB-1000 Wind-Bell Timbre para Bicicleta  Unisex Adulto  Plateado/Negro  Talla única](https://www.amazon.es/dp/B007WU4YTO/?tag=tolees-21) con 35.81 de descuento por 6.99 EUR (original: 10.89 EUR) en el siguiente enlace!

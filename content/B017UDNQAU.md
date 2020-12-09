@@ -10,8 +10,11 @@ author: ring
 slug: B017UDNQAU
 description:
 actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Sylvanian Families-5376 Mini muñecas y accesorios  multicolor  Epoch 5376    color/modelo surtido
 ---
 
 Tienes [Sylvanian Families-5376 Mini muñecas y accesorios  multicolor  Epoch 5376    color/modelo surtido](https://www.amazon.es/dp/B017UDNQAU/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 12.49 EUR (original: 19.99 EUR) en el siguiente enlace!

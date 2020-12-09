@@ -10,8 +10,11 @@ author: ring
 slug: B00STL70OG
 description:
 actualPrice: 7.59 EUR
+currency: EUR
+price: 7.59
 comparePrice: 17.33 EUR
 inStock: true
+prodname: Hasbro Gaming Monopoly Juego de Viaje  versión española  B1002105 
 ---
 
 Está [Hasbro Gaming Monopoly Juego de Viaje  versión española  B1002105 ](https://www.amazon.es/dp/B00STL70OG/?tag=tolees-21) con 56.20 de descuento por 7.59 EUR (original: 17.33 EUR) en el siguiente enlace!

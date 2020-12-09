@@ -10,8 +10,11 @@ author: ring
 slug: B07GLNM51W
 description:
 actualPrice: 21.07 EUR
+currency: EUR
+price: 21.07
 comparePrice: 39.49 EUR
 inStock: true
+prodname: Hot Wheels City Global Nemesis TV  Dinosaurio Triceratops y lanzador de coches de juguete  Mattel GBF97 
 ---
 
 Está [Hot Wheels City Global Nemesis TV  Dinosaurio Triceratops y lanzador de coches de juguete  Mattel GBF97 ](https://www.amazon.es/dp/B07GLNM51W/?tag=tolees-21) con 46.64 de descuento por 21.07 EUR (original: 39.49 EUR) en el siguiente enlace!

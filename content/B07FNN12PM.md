@@ -10,8 +10,11 @@ author: ring
 slug: B07FNN12PM
 description:
 actualPrice: 5.0 EUR
+currency: EUR
+price: 5.0
 comparePrice: 9.99 EUR
 inStock: true
+prodname: LEGO City Suplementario - Curvas y Cruce  juguete de pista de carretera complementario para tu ciudad LEGO  60237 
 ---
 
 Ahora mismo tienes [LEGO City Suplementario - Curvas y Cruce  juguete de pista de carretera complementario para tu ciudad LEGO  60237 ](https://www.amazon.es/dp/B07FNN12PM/?tag=tolees-21) a 5.0 EUR (original: 9.99 EUR) (49.95 %  de descuento) en el siguiente enlace!

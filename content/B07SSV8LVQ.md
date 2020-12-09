@@ -10,8 +10,11 @@ author: ring
 slug: B07SSV8LVQ
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Ori and the Will of the Wisps - Xbox One
 ---
 
 Tienes [Ori and the Will of the Wisps - Xbox One](https://www.amazon.es/dp/B07SSV8LVQ/?tag=tolees-21) con un 56.56 % de descuento con precio de oferta de 12.99 EUR (original: 29.9 EUR) en el siguiente enlace!

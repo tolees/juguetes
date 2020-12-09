@@ -10,8 +10,11 @@ author: ring
 slug: B01BFGBU56
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Fisher-Price Mando a distancia perrito  juguete electrónico bebé +6 meses  Mattel DLD35 
 ---
 
 Está [Fisher-Price Mando a distancia perrito  juguete electrónico bebé +6 meses  Mattel DLD35 ](https://www.amazon.es/dp/B01BFGBU56/?tag=tolees-21) con 35.31 de descuento por 10.99 EUR (original: 16.99 EUR) en el siguiente enlace!

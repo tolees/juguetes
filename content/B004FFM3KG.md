@@ -10,8 +10,11 @@ author: ring
 slug: B004FFM3KG
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Condis 78 Piezas Bloques de Construcción Magnéticos para niños  Juegos de Viaje Construcciones Magneticas imanes Regalos cumpleaños Juguetes Educativos para Niños Niñas de 3 4 5 6 7 8 Años ...
 ---
 
 Ahora mismo tienes [Condis 78 Piezas Bloques de Construcción Magnéticos para niños  Juegos de Viaje Construcciones Magneticas imanes Regalos cumpleaños Juguetes Educativos para Niños Niñas de 3 4 5 6 7 8 Años ...](https://www.amazon.es/dp/B004FFM3KG/?tag=tolees-21) a 32.99 EUR (original: 49.99 EUR) (34.01 %  de descuento) en el siguiente enlace!

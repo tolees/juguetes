@@ -10,8 +10,11 @@ author: ring
 slug: B07FNMTS87
 description:
 actualPrice: 37.19 EUR
+currency: EUR
+price: 37.19
 comparePrice: 54.99 EUR
 inStock: true
+prodname: LEGO Duplo Town - Parque de Bomberos  Juego de construcción de Aventuras en la Ciudad  10903 
 ---
 
 Está [LEGO Duplo Town - Parque de Bomberos  Juego de construcción de Aventuras en la Ciudad  10903 ](https://www.amazon.es/dp/B07FNMTS87/?tag=tolees-21) con 32.37 de descuento por 37.19 EUR (original: 54.99 EUR) en el siguiente enlace!

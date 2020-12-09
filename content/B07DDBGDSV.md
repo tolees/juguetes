@@ -10,8 +10,11 @@ author: ring
 slug: B07DDBGDSV
 description:
 actualPrice: 13.98 EUR
+currency: EUR
+price: 13.98
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Pinypon Action - Policía Vehículos de Acción  Famosa 700014495 
 ---
 
 Tienes [Pinypon Action - Policía Vehículos de Acción  Famosa 700014495 ](https://www.amazon.es/dp/B07DDBGDSV/?tag=tolees-21) con un 29.92 % de descuento con precio de oferta de 13.98 EUR (original: 19.95 EUR) en el siguiente enlace!

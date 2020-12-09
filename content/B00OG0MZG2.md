@@ -10,8 +10,11 @@ author: ring
 slug: B00OG0MZG2
 description:
 actualPrice: 4.95 EUR
+currency: EUR
+price: 4.95
 comparePrice: 7.25 EUR
 inStock: true
+prodname: Elite Paron Race - Portabidón para Bicicleta  Color Negro Mate/Blanco  Talla única
 ---
 
 Ahora mismo tienes [Elite Paron Race - Portabidón para Bicicleta  Color Negro Mate/Blanco  Talla única](https://www.amazon.es/dp/B00OG0MZG2/?tag=tolees-21) a 4.95 EUR (original: 7.25 EUR) (31.72 %  de descuento) en el siguiente enlace!

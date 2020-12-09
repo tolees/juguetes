@@ -10,8 +10,11 @@ author: ring
 slug: B079MGBKS2
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 24.45 EUR
 inStock: true
+prodname: Fisher-Price Perrito pequeño doctor  juguete para bebé +1 año   Mattel FPP99 
 ---
 
 Está [Fisher-Price Perrito pequeño doctor  juguete para bebé +1 año   Mattel FPP99 ](https://www.amazon.es/dp/B079MGBKS2/?tag=tolees-21) con 30.51 de descuento por 16.99 EUR (original: 24.45 EUR) en el siguiente enlace!

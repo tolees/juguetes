@@ -10,8 +10,11 @@ author: ring
 slug: B07VRPNR6G
 description:
 actualPrice: 7.79 EUR
+currency: EUR
+price: 7.79
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Educa Borras - Genuine Puzzles  Puzzle 500 piezas  Sistema solar  18449 
 ---
 
 Tienes [Educa Borras - Genuine Puzzles  Puzzle 500 piezas  Sistema solar  18449 ](https://www.amazon.es/dp/B07VRPNR6G/?tag=tolees-21) con un 35.03 % de descuento con precio de oferta de 7.79 EUR (original: 11.99 EUR) en el siguiente enlace!

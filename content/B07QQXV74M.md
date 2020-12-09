@@ -10,8 +10,11 @@ author: ring
 slug: B07QQXV74M
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Awroutdoor Bomba de Aire Eléctrica Bomba De Aire Portátil para Inflar/Desinflar Bote Inflable  Colchón de Aire  Juguetes Hinchable  con 3 Boquillas 230V AC / 12V DC
 ---
 
 Tienes [Awroutdoor Bomba de Aire Eléctrica Bomba De Aire Portátil para Inflar/Desinflar Bote Inflable  Colchón de Aire  Juguetes Hinchable  con 3 Boquillas 230V AC / 12V DC](https://www.amazon.es/dp/B07QQXV74M/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08NV72LWX
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 136.22 EUR
 inStock: true
+prodname: Disco Duro Externo 2tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Oro 
 ---
 
 Ahora mismo tienes [Disco Duro Externo 2tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Oro ](https://www.amazon.es/dp/B08NV72LWX/?tag=tolees-21) a 63.99 EUR (original: 136.22 EUR) (53.02 %  de descuento) en el siguiente enlace!

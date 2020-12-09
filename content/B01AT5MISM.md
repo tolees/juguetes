@@ -10,8 +10,11 @@ author: ring
 slug: B01AT5MISM
 description:
 actualPrice: 40.04 EUR
+currency: EUR
+price: 40.04
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Barbie Captain Kirk  0  Mattel DGW69 
 ---
 
 Está [Barbie Captain Kirk  0  Mattel DGW69 ](https://www.amazon.es/dp/B01AT5MISM/?tag=tolees-21) con 27.19 de descuento por 40.04 EUR (original: 54.99 EUR) en el siguiente enlace!

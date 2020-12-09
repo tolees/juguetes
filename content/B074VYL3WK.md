@@ -10,8 +10,11 @@ author: ring
 slug: B074VYL3WK
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Fazitrip Guantes para niños  Impermeable  para Esquiar  Montar en Bicicleta  Correr etc.  Rosa  M 
 ---
 
 Está [Fazitrip Guantes para niños  Impermeable  para Esquiar  Montar en Bicicleta  Correr etc.  Rosa  M ](https://www.amazon.es/dp/B074VYL3WK/?tag=tolees-21) con 60.62 de descuento por 12.99 EUR (original: 32.99 EUR) en el siguiente enlace!

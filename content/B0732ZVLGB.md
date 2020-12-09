@@ -10,8 +10,11 @@ author: ring
 slug: B0732ZVLGB
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: TONZE Construcciones Infantiles Rompecabezas de Mosaico Bloques Construcción 150pcs Tornillos Juguete Bricolaje para Niños Niñas 3 Años+
 ---
 
 Está [TONZE Construcciones Infantiles Rompecabezas de Mosaico Bloques Construcción 150pcs Tornillos Juguete Bricolaje para Niños Niñas 3 Años+](https://www.amazon.es/dp/B0732ZVLGB/?tag=tolees-21) con 53.87 de descuento por 11.99 EUR (original: 25.99 EUR) en el siguiente enlace!

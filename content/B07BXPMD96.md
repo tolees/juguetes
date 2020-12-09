@@ -10,8 +10,11 @@ author: ring
 slug: B07BXPMD96
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 35.43 EUR
 inStock: true
+prodname: Bloques Construccion Bebe Madera Alfabeto DIY 60pcs Bloques Logicos con Caja Preescolar Juguetes Educativos para Niños Niñas 18M +
 ---
 
 Tienes [Bloques Construccion Bebe Madera Alfabeto DIY 60pcs Bloques Logicos con Caja Preescolar Juguetes Educativos para Niños Niñas 18M +](https://www.amazon.es/dp/B07BXPMD96/?tag=tolees-21) con un 66.13 % de descuento con precio de oferta de 12 EUR (original: 35.43 EUR) en el siguiente enlace!

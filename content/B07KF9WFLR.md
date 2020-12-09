@@ -10,8 +10,11 @@ author: ring
 slug: B07KF9WFLR
 description:
 actualPrice: 16.88 EUR
+currency: EUR
+price: 16.88
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Coches de Madera Vehículos de Juguete Juegos 6 PCS para Niñas Niños Mini Juguetes Clásicos Niños 3 4 5 6 Años
 ---
 
 Está [Coches de Madera Vehículos de Juguete Juegos 6 PCS para Niñas Niños Mini Juguetes Clásicos Niños 3 4 5 6 Años](https://www.amazon.es/dp/B07KF9WFLR/?tag=tolees-21) con 48.83 de descuento por 16.88 EUR (original: 32.99 EUR) en el siguiente enlace!

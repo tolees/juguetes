@@ -10,8 +10,11 @@ author: ring
 slug: B07Z3Z4HNT
 description:
 actualPrice: 8.96 EUR
+currency: EUR
+price: 8.96
 comparePrice: 11.95 EUR
 inStock: true
+prodname: Disney - Plastilina infantil 4 Botes Plastilina Niños 3 años con moldes 2D y accesorios Plastilina no tóxica Juguetes educativos Manualidades niños Pack plastilina Mochila Disney
 ---
 
 Tienes [Disney - Plastilina infantil 4 Botes Plastilina Niños 3 años con moldes 2D y accesorios Plastilina no tóxica Juguetes educativos Manualidades niños Pack plastilina Mochila Disney](https://www.amazon.es/dp/B07Z3Z4HNT/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 8.96 EUR (original: 11.95 EUR) en el siguiente enlace!

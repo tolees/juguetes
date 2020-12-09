@@ -10,8 +10,11 @@ author: ring
 slug: B088MTGJNK
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Pinypon Carroza de Reinas con Unicornio  Famosa 700015805 
 ---
 
 Ahora mismo tienes [Pinypon Carroza de Reinas con Unicornio  Famosa 700015805 ](https://www.amazon.es/dp/B088MTGJNK/?tag=tolees-21) a 39.95 EUR (original: 54.95 EUR) (27.30 %  de descuento) en el siguiente enlace!

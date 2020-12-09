@@ -10,8 +10,11 @@ author: ring
 slug: B01NASY99Z
 description:
 actualPrice: 6.29 EUR
+currency: EUR
+price: 6.29
 comparePrice: 10.99 EUR
 inStock: true
+prodname: HORI - Estuche de juegos negro  Nintendo Switch 
 ---
 
 Está [HORI - Estuche de juegos negro  Nintendo Switch ](https://www.amazon.es/dp/B01NASY99Z/?tag=tolees-21) con 42.77 de descuento por 6.29 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AWGZXHQ
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 21.99 EUR
 inStock: true
+prodname: DC Super Hero Girls Muñeca superheroína Wonder Woman  Mattel DLT62 
 ---
 
 Está [DC Super Hero Girls Muñeca superheroína Wonder Woman  Mattel DLT62 ](https://www.amazon.es/dp/B01AWGZXHQ/?tag=tolees-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!

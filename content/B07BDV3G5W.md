@@ -10,8 +10,11 @@ author: ring
 slug: B07BDV3G5W
 description:
 actualPrice: 18.87 EUR
+currency: EUR
+price: 18.87
 comparePrice: 25.95 EUR
 inStock: true
+prodname: ThinkFun Roll & Play  Juego educativo para bebes  Edad recomendada a partir de 18 meses  Ravensburger 76322 
 ---
 
 Ahora mismo tienes [ThinkFun Roll & Play  Juego educativo para bebes  Edad recomendada a partir de 18 meses  Ravensburger 76322 ](https://www.amazon.es/dp/B07BDV3G5W/?tag=tolees-21) a 18.87 EUR (original: 25.95 EUR) (27.28 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GSTNZ8C
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Dioxide 71 en 1 Juego Destornilladores de Precision  Profesional Magnético Caja de Herramientas Completa para iphone iPad Laptop PC Teléfonos Móviles PS4 Xbox Cámara etc.
 ---
 
 Tienes [Dioxide 71 en 1 Juego Destornilladores de Precision  Profesional Magnético Caja de Herramientas Completa para iphone iPad Laptop PC Teléfonos Móviles PS4 Xbox Cámara etc.](https://www.amazon.es/dp/B07GSTNZ8C/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

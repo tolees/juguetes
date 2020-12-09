@@ -10,8 +10,11 @@ author: ring
 slug: B015OGN2JU
 description:
 actualPrice: 35.8 EUR
+currency: EUR
+price: 35.8
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Delta Children Frozen - Caja de juguetes  unisex
 ---
 
 Está [Delta Children Frozen - Caja de juguetes  unisex](https://www.amazon.es/dp/B015OGN2JU/?tag=tolees-21) con 40.32 de descuento por 35.8 EUR (original: 59.99 EUR) en el siguiente enlace!

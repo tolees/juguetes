@@ -10,8 +10,11 @@ author: ring
 slug: B08MW73VKH
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Orzly Accesorio PS5 Clip de Juego Compatible con Mandos Playstation 5 DualSense - Soporte para Teléfono Móvil Ajustable para Usar con PS5 Mandos de Juegos
 ---
 
 Está [Orzly Accesorio PS5 Clip de Juego Compatible con Mandos Playstation 5 DualSense - Soporte para Teléfono Móvil Ajustable para Usar con PS5 Mandos de Juegos](https://www.amazon.es/dp/B08MW73VKH/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

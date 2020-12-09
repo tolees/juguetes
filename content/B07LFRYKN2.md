@@ -10,8 +10,11 @@ author: ring
 slug: B07LFRYKN2
 description:
 actualPrice: 25.0 EUR
+currency: EUR
+price: 25.0
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Power Rangers BM Beast X Ultrazord  Hasbro E5894EU5 
 ---
 
 Está [Power Rangers BM Beast X Ultrazord  Hasbro E5894EU5 ](https://www.amazon.es/dp/B07LFRYKN2/?tag=tolees-21) con 49.99 de descuento por 25.0 EUR (original: 49.99 EUR) en el siguiente enlace!

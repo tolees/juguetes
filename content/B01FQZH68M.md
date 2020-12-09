@@ -10,8 +10,11 @@ author: ring
 slug: B01FQZH68M
 description:
 actualPrice: 18.14 EUR
+currency: EUR
+price: 18.14
 comparePrice: 39.98 EUR
 inStock: true
+prodname: Bizak Artist - Set Juego de Creatividad Cre-Art 3D 63152260
 ---
 
 Está [Bizak Artist - Set Juego de Creatividad Cre-Art 3D 63152260](https://www.amazon.es/dp/B01FQZH68M/?tag=tolees-21) con 54.63 de descuento por 18.14 EUR (original: 39.98 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0787XLHSF
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 7.98 EUR
 inStock: true
+prodname: OUNONA Espuma de Suelo de EVA Estera del Rompecabezas para Niños Protectores de Suelo Garaje Sala de Juegos  Blanco 
 ---
 
 Tienes [OUNONA Espuma de Suelo de EVA Estera del Rompecabezas para Niños Protectores de Suelo Garaje Sala de Juegos  Blanco ](https://www.amazon.es/dp/B0787XLHSF/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 3.99 EUR (original: 7.98 EUR) en el siguiente enlace!

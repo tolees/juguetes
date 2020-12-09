@@ -10,8 +10,11 @@ author: ring
 slug: B078NPMV6H
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 33.95 EUR
 inStock: true
+prodname: Regalos de cumpleaños para niñas Adolescentes  Top Juguete a Prueba de Golpes Prismáticos compactos para niños Juguetes educativos para niñas de 3-12 años de Edad Rosa TTUKTT10
 ---
 
 Está [Regalos de cumpleaños para niñas Adolescentes  Top Juguete a Prueba de Golpes Prismáticos compactos para niños Juguetes educativos para niñas de 3-12 años de Edad Rosa TTUKTT10](https://www.amazon.es/dp/B078NPMV6H/?tag=tolees-21) con 64.68 de descuento por 11.99 EUR (original: 33.95 EUR) en el siguiente enlace!

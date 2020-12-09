@@ -10,8 +10,11 @@ author: ring
 slug: B07L3VFNZ9
 description:
 actualPrice: 7.57 EUR
+currency: EUR
+price: 7.57
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Educa Borras - Genuine Puzzles  Puzzle 1.000 piezas  Zodiaco  17996 
 ---
 
 Tienes [Educa Borras - Genuine Puzzles  Puzzle 1.000 piezas  Zodiaco  17996 ](https://www.amazon.es/dp/B07L3VFNZ9/?tag=tolees-21) con un 36.86 % de descuento con precio de oferta de 7.57 EUR (original: 11.99 EUR) en el siguiente enlace!

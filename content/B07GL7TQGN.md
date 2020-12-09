@@ -10,8 +10,11 @@ author: ring
 slug: B07GL7TQGN
 description:
 actualPrice: 21.85 EUR
+currency: EUR
+price: 21.85
 comparePrice: 34.49 EUR
 inStock: true
+prodname: Barbie Muñeca Daisy vamos de viaje con accesorios  Mattel FVV26 
 ---
 
 Está [Barbie Muñeca Daisy vamos de viaje con accesorios  Mattel FVV26 ](https://www.amazon.es/dp/B07GL7TQGN/?tag=tolees-21) con 36.65 de descuento por 21.85 EUR (original: 34.49 EUR) en el siguiente enlace!

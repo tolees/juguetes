@@ -10,8 +10,11 @@ author: ring
 slug: B08HVHL7M3
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Goomp Juguete de Baño para Bebés 13 Piezas Piscina Juguete de Natación Bañera Animalitos Flotantes Red De Pesca Juguetes Flotantes para Bebés Niños
 ---
 
 Ahora mismo tienes [Goomp Juguete de Baño para Bebés 13 Piezas Piscina Juguete de Natación Bañera Animalitos Flotantes Red De Pesca Juguetes Flotantes para Bebés Niños](https://www.amazon.es/dp/B08HVHL7M3/?tag=tolees-21) a 11.99 EUR (original: 15.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

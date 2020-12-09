@@ -10,8 +10,11 @@ author: ring
 slug: B07CLVT1P7
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: McDou Palos magnéticos  Palos magnéticos y Bolas Set 140PCS  Palos de construcción magnéticos  Juguetes magnéticos de construcción  Juguetes magnéticos Palos Juguetes educativos para niños
 ---
 
 Tienes [McDou Palos magnéticos  Palos magnéticos y Bolas Set 140PCS  Palos de construcción magnéticos  Juguetes magnéticos de construcción  Juguetes magnéticos Palos Juguetes educativos para niños](https://www.amazon.es/dp/B07CLVT1P7/?tag=tolees-21) con un 54.36 % de descuento con precio de oferta de 20.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MYCN34B
 description:
 actualPrice: 30.45 EUR
+currency: EUR
+price: 30.45
 comparePrice: 45 EUR
 inStock: true
+prodname: Devir - Primera Clase  Juego de Tablero  BGPRIMERA 
 ---
 
 Está [Devir - Primera Clase  Juego de Tablero  BGPRIMERA ](https://www.amazon.es/dp/B01MYCN34B/?tag=tolees-21) con 32.33 de descuento por 30.45 EUR (original: 45 EUR) en el siguiente enlace!

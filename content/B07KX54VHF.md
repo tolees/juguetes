@@ -10,8 +10,11 @@ author: ring
 slug: B07KX54VHF
 description:
 actualPrice: 27.89 EUR
+currency: EUR
+price: 27.89
 comparePrice: 39.99 EUR
 inStock: true
+prodname: LEGO Harry Potter - Autobús Noctámbulo  Juguete de Construcción del Mágico Autobús de 3 Plantas  Incluye 3 Minifiguras  75957 
 ---
 
 Está [LEGO Harry Potter - Autobús Noctámbulo  Juguete de Construcción del Mágico Autobús de 3 Plantas  Incluye 3 Minifiguras  75957 ](https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21) con 30.26 de descuento por 27.89 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B086VYMK9W
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 48.99 EUR
 inStock: true
+prodname: Barbie - Casa amueblada pleglable con cocina  piscina  dormitorio y lavabo con muñeca rubia  Mattel GWY84   Embalaje sostenible
 ---
 
 Ahora mismo tienes [Barbie - Casa amueblada pleglable con cocina  piscina  dormitorio y lavabo con muñeca rubia  Mattel GWY84   Embalaje sostenible](https://www.amazon.es/dp/B086VYMK9W/?tag=tolees-21) a 34.99 EUR (original: 48.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

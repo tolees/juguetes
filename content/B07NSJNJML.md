@@ -10,8 +10,11 @@ author: ring
 slug: B07NSJNJML
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 12.0 EUR
 inStock: true
+prodname: MOJIPOPS - I like Ice Cream con 2 exclusivas figuras MojiPops y variedad de accesorios   color/modelo surtido
 ---
 
 Está [MOJIPOPS - I like Ice Cream con 2 exclusivas figuras MojiPops y variedad de accesorios   color/modelo surtido](https://www.amazon.es/dp/B07NSJNJML/?tag=tolees-21) con 50.08 de descuento por 5.99 EUR (original: 12.0 EUR) en el siguiente enlace!

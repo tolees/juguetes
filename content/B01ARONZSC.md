@@ -10,8 +10,11 @@ author: ring
 slug: B01ARONZSC
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Mattel - DLH57 Shimmer & Shine Muñeca Shine con accesorios   color/modelo surtido
 ---
 
 Está [Mattel - DLH57 Shimmer & Shine Muñeca Shine con accesorios   color/modelo surtido](https://www.amazon.es/dp/B01ARONZSC/?tag=tolees-21) con 50.03 de descuento por 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

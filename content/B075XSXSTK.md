@@ -10,8 +10,11 @@ author: ring
 slug: B075XSXSTK
 description:
 actualPrice: 7.78 EUR
+currency: EUR
+price: 7.78
 comparePrice: 25.15 EUR
 inStock: true
+prodname: Barbie Estuche de maquillaje infantil Markwins Beauty Brands 9709310
 ---
 
 Ahora mismo tienes [Barbie Estuche de maquillaje infantil Markwins Beauty Brands 9709310](https://www.amazon.es/dp/B075XSXSTK/?tag=tolees-21) a 7.78 EUR (original: 25.15 EUR) (69.07 %  de descuento) en el siguiente enlace!

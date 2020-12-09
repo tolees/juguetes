@@ -10,8 +10,11 @@ author: ring
 slug: B07BBBX4RF
 description:
 actualPrice: 28.41 EUR
+currency: EUR
+price: 28.41
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Shining Resonance Refrain - Draconic Launch Edition- Xbox One
 ---
 
 Está [Shining Resonance Refrain - Draconic Launch Edition- Xbox One](https://www.amazon.es/dp/B07BBBX4RF/?tag=tolees-21) con 43.17 de descuento por 28.41 EUR (original: 49.99 EUR) en el siguiente enlace!

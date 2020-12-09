@@ -10,8 +10,11 @@ author: ring
 slug: B07VGFNYW6
 description:
 actualPrice: 16.9 EUR
+currency: EUR
+price: 16.9
 comparePrice: 28.63 EUR
 inStock: true
+prodname: Super Monkey Ball: Banana Blitz HD - Nintendo Switch
 ---
 
 Tienes [Super Monkey Ball: Banana Blitz HD - Nintendo Switch](https://www.amazon.es/dp/B07VGFNYW6/?tag=tolees-21) con un 40.97 % de descuento con precio de oferta de 16.9 EUR (original: 28.63 EUR) en el siguiente enlace!

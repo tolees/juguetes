@@ -10,8 +10,11 @@ author: ring
 slug: B00CEWUU84
 description:
 actualPrice: 12.09 EUR
+currency: EUR
+price: 12.09
 comparePrice: 21.71 EUR
 inStock: true
+prodname: Peppa Pig Maletín de Peluqueria- Tavitoys VHTI 1680653   multicolor
 ---
 
 Ahora mismo tienes [Peppa Pig Maletín de Peluqueria- Tavitoys VHTI 1680653   multicolor](https://www.amazon.es/dp/B00CEWUU84/?tag=tolees-21) a 12.09 EUR (original: 21.71 EUR) (44.31 %  de descuento) en el siguiente enlace!

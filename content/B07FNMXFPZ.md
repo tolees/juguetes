@@ -10,8 +10,11 @@ author: ring
 slug: B07FNMXFPZ
 description:
 actualPrice: 21.15 EUR
+currency: EUR
+price: 21.15
 comparePrice: 29.99 EUR
 inStock: true
+prodname: LEGO City Fire - Rescate del Incendio en la Hamburguesería  Set de Construcción de Aventuras de Bomberos  Incluye Camión y Moto de Juguete  60214 
 ---
 
 Está [LEGO City Fire - Rescate del Incendio en la Hamburguesería  Set de Construcción de Aventuras de Bomberos  Incluye Camión y Moto de Juguete  60214 ](https://www.amazon.es/dp/B07FNMXFPZ/?tag=tolees-21) con 29.48 de descuento por 21.15 EUR (original: 29.99 EUR) en el siguiente enlace!

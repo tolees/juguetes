@@ -10,8 +10,11 @@ author: ring
 slug: B00VGQKK34
 description:
 actualPrice: 15.85 EUR
+currency: EUR
+price: 15.85
 comparePrice: 26.1 EUR
 inStock: true
+prodname: PLAYMOBIL- Cofre Tienda Surf  única  5641 
 ---
 
 Tienes [PLAYMOBIL- Cofre Tienda Surf  única  5641 ](https://www.amazon.es/dp/B00VGQKK34/?tag=tolees-21) con un 39.27 % de descuento con precio de oferta de 15.85 EUR (original: 26.1 EUR) en el siguiente enlace!

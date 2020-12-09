@@ -10,8 +10,11 @@ author: ring
 slug: B07P7LGHH9
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 48.0 EUR
 inStock: true
+prodname: SuperZings - Serie 4 - Display Mini Vehicle de 24 Vehículos Blasterjet  PSZ4D824IN01  con Figuras  Colección Completa
 ---
 
 Ahora mismo tienes [SuperZings - Serie 4 - Display Mini Vehicle de 24 Vehículos Blasterjet  PSZ4D824IN01  con Figuras  Colección Completa](https://www.amazon.es/dp/B07P7LGHH9/?tag=tolees-21) a 22.99 EUR (original: 48.0 EUR) (52.10 %  de descuento) en el siguiente enlace!

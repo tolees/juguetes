@@ -10,8 +10,11 @@ author: ring
 slug: B06W55DZCK
 description:
 actualPrice: 13.5 EUR
+currency: EUR
+price: 13.5
 comparePrice: 19.99 EUR
 inStock: true
+prodname: LEGO City - Jungla: Helicóptero de Transporte  60158 
 ---
 
 Está [LEGO City - Jungla: Helicóptero de Transporte  60158 ](https://www.amazon.es/dp/B06W55DZCK/?tag=tolees-21) con 32.47 de descuento por 13.5 EUR (original: 19.99 EUR) en el siguiente enlace!

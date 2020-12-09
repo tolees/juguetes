@@ -10,8 +10,11 @@ author: ring
 slug: B07YGQRPJ4
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: THE G-LAB Keyz Tellurium Teclado Gaming QWERTY Incluye Ñ - Teclado Gaming con Retroiluminación RGB Multicolor  Reposa Muñecas Magnético  6 Teclas Macro y Anti-Ghosting – PC  PS4  Xbox One  Negro 
 ---
 
 Tienes [THE G-LAB Keyz Tellurium Teclado Gaming QWERTY Incluye Ñ - Teclado Gaming con Retroiluminación RGB Multicolor  Reposa Muñecas Magnético  6 Teclas Macro y Anti-Ghosting – PC  PS4  Xbox One  Negro ](https://www.amazon.es/dp/B07YGQRPJ4/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

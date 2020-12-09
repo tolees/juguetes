@@ -10,8 +10,11 @@ author: ring
 slug: B083HXZB3M
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: NICEWIN Ropa Interior de Ciclismo para Hombre Pantalones Cortos de compresión Acolchados en 6D MTB Bicicleta Bicicleta Motocicleta
 ---
 
 Está [NICEWIN Ropa Interior de Ciclismo para Hombre Pantalones Cortos de compresión Acolchados en 6D MTB Bicicleta Bicicleta Motocicleta](https://www.amazon.es/dp/B083HXZB3M/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

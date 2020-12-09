@@ -10,8 +10,11 @@ author: ring
 slug: B06XDNLJNG
 description:
 actualPrice: 19.18 EUR
+currency: EUR
+price: 19.18
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Disney Girls - Muñeca Elena de Avalor cantarina  Hasbro B7912105 
 ---
 
 Ahora mismo tienes [Disney Girls - Muñeca Elena de Avalor cantarina  Hasbro B7912105 ](https://www.amazon.es/dp/B06XDNLJNG/?tag=tolees-21) a 19.18 EUR (original: 34.95 EUR) (45.12 %  de descuento) en el siguiente enlace!

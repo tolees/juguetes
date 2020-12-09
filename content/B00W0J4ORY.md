@@ -10,8 +10,11 @@ author: ring
 slug: B00W0J4ORY
 description:
 actualPrice: 10.83 EUR
+currency: EUR
+price: 10.83
 comparePrice: 23.31 EUR
 inStock: true
+prodname: Hot Wheels- Star Wars  Miscelanea  Mattel CGW90    color/modelo surtido
 ---
 
 Ahora mismo tienes [Hot Wheels- Star Wars  Miscelanea  Mattel CGW90    color/modelo surtido](https://www.amazon.es/dp/B00W0J4ORY/?tag=tolees-21) a 10.83 EUR (original: 23.31 EUR) (53.54 %  de descuento) en el siguiente enlace!

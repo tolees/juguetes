@@ -10,8 +10,11 @@ author: ring
 slug: B00BSQN8E0
 description:
 actualPrice: 12.91 EUR
+currency: EUR
+price: 12.91
 comparePrice: 23.86 EUR
 inStock: true
+prodname: Fehn - Burro de peluche  Fehn & Co. 81299 
 ---
 
 Ahora mismo tienes [Fehn - Burro de peluche  Fehn & Co. 81299 ](https://www.amazon.es/dp/B00BSQN8E0/?tag=tolees-21) a 12.91 EUR (original: 23.86 EUR) (45.89 %  de descuento) en el siguiente enlace!

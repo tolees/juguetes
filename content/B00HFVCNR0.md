@@ -10,8 +10,11 @@ author: ring
 slug: B00HFVCNR0
 description:
 actualPrice: 18.64 EUR
+currency: EUR
+price: 18.64
 comparePrice: 39.99 EUR
 inStock: true
+prodname: La LEGO Película: El Videojuego
 ---
 
 Está [La LEGO Película: El Videojuego](https://www.amazon.es/dp/B00HFVCNR0/?tag=tolees-21) con 53.39 de descuento por 18.64 EUR (original: 39.99 EUR) en el siguiente enlace!

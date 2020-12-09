@@ -10,8 +10,11 @@ author: ring
 slug: B01HRGX0N8
 description:
 actualPrice: 22.56 EUR
+currency: EUR
+price: 22.56
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Ravensburger Laberinto Magico Glow In The Dark  Juego de mesa  2-4 Jugadores  Edad recomendada 7+  26692 
 ---
 
 Ahora mismo tienes [Ravensburger Laberinto Magico Glow In The Dark  Juego de mesa  2-4 Jugadores  Edad recomendada 7+  26692 ](https://www.amazon.es/dp/B01HRGX0N8/?tag=tolees-21) a 22.56 EUR (original: 39.99 EUR) (43.59 %  de descuento) en el siguiente enlace!

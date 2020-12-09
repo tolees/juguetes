@@ -10,8 +10,11 @@ author: ring
 slug: B08KZM9TL4
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 111.32 EUR
 inStock: true
+prodname: Disco Duro Externo 2 TB  USB3.0 Ultra Slim HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Azul 
 ---
 
 Está [Disco Duro Externo 2 TB  USB3.0 Ultra Slim HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Azul ](https://www.amazon.es/dp/B08KZM9TL4/?tag=tolees-21) con 42.52 de descuento por 63.99 EUR (original: 111.32 EUR) en el siguiente enlace!

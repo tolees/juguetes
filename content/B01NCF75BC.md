@@ -10,8 +10,11 @@ author: ring
 slug: B01NCF75BC
 description:
 actualPrice: 16.91 EUR
+currency: EUR
+price: 16.91
 comparePrice: 24.97 EUR
 inStock: true
+prodname: ⭐️KLIM™ Chroma - Teclado gaming ESPAÑOL + Teclado USB ligero  duradero  resistente al agua  ergonómico  silencioso + Teclado gamer con cable para PC PS4 Xbox One Mac + NUEVA VERSIÓN 2020 + Negro
 ---
 
 Ahora mismo tienes [⭐️KLIM™ Chroma - Teclado gaming ESPAÑOL + Teclado USB ligero  duradero  resistente al agua  ergonómico  silencioso + Teclado gamer con cable para PC PS4 Xbox One Mac + NUEVA VERSIÓN 2020 + Negro](https://www.amazon.es/dp/B01NCF75BC/?tag=tolees-21) a 16.91 EUR (original: 24.97 EUR) (32.28 %  de descuento) en el siguiente enlace!

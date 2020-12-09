@@ -10,8 +10,11 @@ author: ring
 slug: B07GWKBJJV
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 16.58 EUR
 inStock: true
+prodname: Ravensburger - El observatorio  19956 
 ---
 
 Está [Ravensburger - El observatorio  19956 ](https://www.amazon.es/dp/B07GWKBJJV/?tag=tolees-21) con 27.93 de descuento por 11.95 EUR (original: 16.58 EUR) en el siguiente enlace!

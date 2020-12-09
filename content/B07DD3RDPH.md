@@ -10,8 +10,11 @@ author: ring
 slug: B07DD3RDPH
 description:
 actualPrice: 5.0 EUR
+currency: EUR
+price: 5.0
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Pikmi Pops Serie 2 - Piruleta 1 Peluche Perfumado Coleccionable con Sorpresas  Giochi Preziosi PKM18000    Modelos/colores Surtidos  1 Unidad
 ---
 
 Está [Pikmi Pops Serie 2 - Piruleta 1 Peluche Perfumado Coleccionable con Sorpresas  Giochi Preziosi PKM18000    Modelos/colores Surtidos  1 Unidad](https://www.amazon.es/dp/B07DD3RDPH/?tag=tolees-21) con 49.95 de descuento por 5.0 EUR (original: 9.99 EUR) en el siguiente enlace!

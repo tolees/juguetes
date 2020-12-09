@@ -10,8 +10,11 @@ author: ring
 slug: B06XWVRTBD
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Hori - Funda Rígida con cremallera Yo-Kai Watch Jibanyan  New Nintendo 3Ds 
 ---
 
 Está [Hori - Funda Rígida con cremallera Yo-Kai Watch Jibanyan  New Nintendo 3Ds ](https://www.amazon.es/dp/B06XWVRTBD/?tag=tolees-21) con 46.70 de descuento por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07G3SC5ZH
 description:
 actualPrice: 45.62 EUR
+currency: EUR
+price: 45.62
 comparePrice: 64.99 EUR
 inStock: true
+prodname: LEGO Harry Potter - Cabaña de Hagrid Rescate de Buckbeak  Juguete de Construcción con Hipogrifo  Incluye Minifiguras de Harry  Ron y Hermione  75947 
 ---
 
 Está [LEGO Harry Potter - Cabaña de Hagrid Rescate de Buckbeak  Juguete de Construcción con Hipogrifo  Incluye Minifiguras de Harry  Ron y Hermione  75947 ](https://www.amazon.es/dp/B07G3SC5ZH/?tag=tolees-21) con 29.80 de descuento por 45.62 EUR (original: 64.99 EUR) en el siguiente enlace!

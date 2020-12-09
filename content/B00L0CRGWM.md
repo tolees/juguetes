@@ -10,8 +10,11 @@ author: ring
 slug: B00L0CRGWM
 description:
 actualPrice: 6.88 EUR
+currency: EUR
+price: 6.88
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Trudi - Mini Pegaso de Peluche  Color Verde Agua  50175 
 ---
 
 Tienes [Trudi - Mini Pegaso de Peluche  Color Verde Agua  50175 ](https://www.amazon.es/dp/B00L0CRGWM/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 6.88 EUR (original: 14.99 EUR) en el siguiente enlace!

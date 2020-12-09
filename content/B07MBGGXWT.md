@@ -10,8 +10,11 @@ author: ring
 slug: B07MBGGXWT
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 26.28 EUR
 inStock: true
+prodname: Funda para Nintendo Switch  Lambony de Estuche de Transporte Para Consola Nintendo Switch  almacenamiento para 20 Juegos  oficial adaptador de AC y otros accesorios Nintendo Switch
 ---
 
 Ahora mismo tienes [Funda para Nintendo Switch  Lambony de Estuche de Transporte Para Consola Nintendo Switch  almacenamiento para 20 Juegos  oficial adaptador de AC y otros accesorios Nintendo Switch](https://www.amazon.es/dp/B07MBGGXWT/?tag=tolees-21) a 16.99 EUR (original: 26.28 EUR) (35.35 %  de descuento) en el siguiente enlace!

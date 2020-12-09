@@ -10,8 +10,11 @@ author: ring
 slug: B07DNFPNRS
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Forza Horizon 4 Standard Edition Xbox One
 ---
 
 Está [Forza Horizon 4 Standard Edition Xbox One](https://www.amazon.es/dp/B07DNFPNRS/?tag=tolees-21) con 42.86 de descuento por 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

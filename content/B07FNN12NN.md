@@ -10,8 +10,11 @@ author: ring
 slug: B07FNN12NN
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 19.99 EUR
 inStock: true
+prodname: LEGO Friends - Establo de los Potros de Mia  juguete divertido de construcción para aventuras con caballos y mascotas  41361 
 ---
 
 Está [LEGO Friends - Establo de los Potros de Mia  juguete divertido de construcción para aventuras con caballos y mascotas  41361 ](https://www.amazon.es/dp/B07FNN12NN/?tag=tolees-21) con 25.46 de descuento por 14.9 EUR (original: 19.99 EUR) en el siguiente enlace!

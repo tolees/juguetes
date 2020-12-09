@@ -10,8 +10,11 @@ author: ring
 slug: B07JMCC38B
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 28.67 EUR
 inStock: true
+prodname: PLAYMOBIL DreamWorks Dragons Aguijón Venenoso y Crimmel  a Partir de 4 Años  70039 
 ---
 
 Ahora mismo tienes [PLAYMOBIL DreamWorks Dragons Aguijón Venenoso y Crimmel  a Partir de 4 Años  70039 ](https://www.amazon.es/dp/B07JMCC38B/?tag=tolees-21) a 20.99 EUR (original: 28.67 EUR) (26.79 %  de descuento) en el siguiente enlace!

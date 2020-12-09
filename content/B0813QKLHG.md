@@ -10,8 +10,11 @@ author: ring
 slug: B0813QKLHG
 description:
 actualPrice: 74.99 EUR
+currency: EUR
+price: 74.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: LEGO- Art Póster de Coleccionistas Star Wars: Los Sith Decoración de Pared  Set de Construcción para Adultos  31200 
 ---
 
 Ahora mismo tienes [LEGO- Art Póster de Coleccionistas Star Wars: Los Sith Decoración de Pared  Set de Construcción para Adultos  31200 ](https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21) a 74.99 EUR (original: 119.99 EUR) (37.50 %  de descuento) en el siguiente enlace!

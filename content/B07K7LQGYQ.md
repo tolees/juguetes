@@ -10,8 +10,11 @@ author: ring
 slug: B07K7LQGYQ
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Nerf - Mega Bulldog  Hasbro E3057EU4 
 ---
 
 Ahora mismo tienes [Nerf - Mega Bulldog  Hasbro E3057EU4 ](https://www.amazon.es/dp/B07K7LQGYQ/?tag=tolees-21) a 19.95 EUR (original: 27.99 EUR) (28.72 %  de descuento) en el siguiente enlace!

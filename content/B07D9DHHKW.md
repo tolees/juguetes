@@ -10,8 +10,11 @@ author: ring
 slug: B07D9DHHKW
 description:
 actualPrice: 14.29 EUR
+currency: EUR
+price: 14.29
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Juegos E-Motion - Hula Bula  Bizak 35007557 
 ---
 
 Está [Juegos E-Motion - Hula Bula  Bizak 35007557 ](https://www.amazon.es/dp/B07D9DHHKW/?tag=tolees-21) con 42.82 de descuento por 14.29 EUR (original: 24.99 EUR) en el siguiente enlace!

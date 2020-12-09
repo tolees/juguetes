@@ -10,8 +10,11 @@ author: ring
 slug: B07HQDB9J1
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 168.99 EUR
 inStock: true
+prodname: YABER Mini Proyector 2600 Lumens Multimedia Vídeo Proyector Portátil Soporta 1080P VGA HDMI USB SD AV  Proyector Cine en Casa Compatible con Fire TV Stick  PS4  Xbox  iPad  iPhone  Android Phone
 ---
 
 Ahora mismo tienes [YABER Mini Proyector 2600 Lumens Multimedia Vídeo Proyector Portátil Soporta 1080P VGA HDMI USB SD AV  Proyector Cine en Casa Compatible con Fire TV Stick  PS4  Xbox  iPad  iPhone  Android Phone](https://www.amazon.es/dp/B07HQDB9J1/?tag=tolees-21) a 69.99 EUR (original: 168.99 EUR) (58.58 %  de descuento) en el siguiente enlace!

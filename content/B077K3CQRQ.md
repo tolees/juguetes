@@ -10,8 +10,11 @@ author: ring
 slug: B077K3CQRQ
 description:
 actualPrice: 16.45 EUR
+currency: EUR
+price: 16.45
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Nerf Modulus Ionfire  Hasbro B4618EU7 
 ---
 
 Está [Nerf Modulus Ionfire  Hasbro B4618EU7 ](https://www.amazon.es/dp/B077K3CQRQ/?tag=tolees-21) con 28.45 de descuento por 16.45 EUR (original: 22.99 EUR) en el siguiente enlace!

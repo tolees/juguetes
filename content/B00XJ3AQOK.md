@@ -10,8 +10,11 @@ author: ring
 slug: B00XJ3AQOK
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Trust Cascos Gaming GXT 322 Carus Auriculares Gamer con Micrófono Flexible y Diadema Ajustable  Cable de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Negro
 ---
 
 Ahora mismo tienes [Trust Cascos Gaming GXT 322 Carus Auriculares Gamer con Micrófono Flexible y Diadema Ajustable  Cable de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Negro](https://www.amazon.es/dp/B00XJ3AQOK/?tag=tolees-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B005OQB3WO
 description:
 actualPrice: 15.91 EUR
+currency: EUR
+price: 15.91
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Cefa Toys- Cesta Picnic  comparte y aprende con Voz  00716 
 ---
 
 Está [Cefa Toys- Cesta Picnic  comparte y aprende con Voz  00716 ](https://www.amazon.es/dp/B005OQB3WO/?tag=tolees-21) con 36.33 de descuento por 15.91 EUR (original: 24.99 EUR) en el siguiente enlace!

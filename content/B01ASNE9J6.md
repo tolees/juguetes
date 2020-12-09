@@ -10,8 +10,11 @@ author: ring
 slug: B01ASNE9J6
 description:
 actualPrice: 12.95 EUR
+currency: EUR
+price: 12.95
 comparePrice: 19.99 EUR
 inStock: true
+prodname: HORI - Funda rígida Link s Awakening  Nintendo Switch 
 ---
 
 Ahora mismo tienes [HORI - Funda rígida Link s Awakening  Nintendo Switch ](https://www.amazon.es/dp/B01ASNE9J6/?tag=tolees-21) a 12.95 EUR (original: 19.99 EUR) (35.22 %  de descuento) en el siguiente enlace!

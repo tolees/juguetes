@@ -10,8 +10,11 @@ author: ring
 slug: B07M8SDQJH
 description:
 actualPrice: 106.99 EUR
+currency: EUR
+price: 106.99
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Frozen 2 - Castillo de Arendelle   Hasbro E5495EU4 
 ---
 
 Está [Frozen 2 - Castillo de Arendelle   Hasbro E5495EU4 ](https://www.amazon.es/dp/B07M8SDQJH/?tag=tolees-21) con 46.50 de descuento por 106.99 EUR (original: 199.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08KZHJ9VQ
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 77.36 EUR
 inStock: true
+prodname: Disco Duro Externo 1 TB  USB3.0 Ultra Slim HDD para PC  Mac Xbox  MacBook  Chromebook 1TB Negro 
 ---
 
 Tienes [Disco Duro Externo 1 TB  USB3.0 Ultra Slim HDD para PC  Mac Xbox  MacBook  Chromebook 1TB Negro ](https://www.amazon.es/dp/B08KZHJ9VQ/?tag=tolees-21) con un 37.97 % de descuento con precio de oferta de 47.99 EUR (original: 77.36 EUR) en el siguiente enlace!

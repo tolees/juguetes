@@ -10,8 +10,11 @@ author: ring
 slug: B07PTW3J6C
 description:
 actualPrice: 20.67 EUR
+currency: EUR
+price: 20.67
 comparePrice: 29.4 EUR
 inStock: true
+prodname: Theo Klein- Pizzería  Juguete  Multicolor  7309    color/modelo surtido
 ---
 
 Está [Theo Klein- Pizzería  Juguete  Multicolor  7309    color/modelo surtido](https://www.amazon.es/dp/B07PTW3J6C/?tag=tolees-21) con 29.69 de descuento por 20.67 EUR (original: 29.4 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01D4GA4AM
 description:
 actualPrice: 32.42 EUR
+currency: EUR
+price: 32.42
 comparePrice: 48.18 EUR
 inStock: true
+prodname: Nerf Ner Elite Lanzador  Multicolor  única  Hasbro 98696EU4 
 ---
 
 Está [Nerf Ner Elite Lanzador  Multicolor  única  Hasbro 98696EU4 ](https://www.amazon.es/dp/B01D4GA4AM/?tag=tolees-21) con 32.71 de descuento por 32.42 EUR (original: 48.18 EUR) en el siguiente enlace!

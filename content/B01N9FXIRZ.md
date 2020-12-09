@@ -10,8 +10,11 @@ author: ring
 slug: B01N9FXIRZ
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 52.99 EUR
 inStock: true
+prodname: Justice League Batmóvil con lanzamisiles Mattel Spain FGG58
 ---
 
 Ahora mismo tienes [Justice League Batmóvil con lanzamisiles Mattel Spain FGG58](https://www.amazon.es/dp/B01N9FXIRZ/?tag=tolees-21) a 24.9 EUR (original: 52.99 EUR) (53.01 %  de descuento) en el siguiente enlace!

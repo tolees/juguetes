@@ -10,8 +10,11 @@ author: ring
 slug: B07MCLQDX6
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 15.0 EUR
 inStock: true
+prodname: SuperZings - Serie 2 - Blíster Pizza Mission  PSZSB216IN30  con 2 Figuras Exclusivas: el Superhéroe Supperoni y el Supervillano Circutlar
 ---
 
 Tienes [SuperZings - Serie 2 - Blíster Pizza Mission  PSZSB216IN30  con 2 Figuras Exclusivas: el Superhéroe Supperoni y el Supervillano Circutlar](https://www.amazon.es/dp/B07MCLQDX6/?tag=tolees-21) con un 26.73 % de descuento con precio de oferta de 10.99 EUR (original: 15.0 EUR) en el siguiente enlace!

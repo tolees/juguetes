@@ -10,8 +10,11 @@ author: ring
 slug: B07CTMS9VS
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Bleacher Creatures Europe Seleccion Sergio Ramos 2018 Peluche 25cm
 ---
 
 Está [Bleacher Creatures Europe Seleccion Sergio Ramos 2018 Peluche 25cm](https://www.amazon.es/dp/B07CTMS9VS/?tag=tolees-21) con 40.08 de descuento por 14.95 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07YNJ49SH
 description:
 actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: PlayStation Now - Suscripción 12 Meses | Código de descarga PS4 - Cuenta española
 ---
 
 Está [PlayStation Now - Suscripción 12 Meses | Código de descarga PS4 - Cuenta española](https://www.amazon.es/dp/B07YNJ49SH/?tag=tolees-21) con 25.00 de descuento por 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08KJF2G2K
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Mando a distancia PS5
 ---
 
 Ahora mismo tienes [Mando a distancia PS5](https://www.amazon.es/dp/B08KJF2G2K/?tag=tolees-21) a 29.9 EUR (original: 39.95 EUR) (25.16 %  de descuento) en el siguiente enlace!

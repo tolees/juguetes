@@ -10,8 +10,11 @@ author: ring
 slug: B087RPHXCS
 description:
 actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
 comparePrice: 69.99 EUR
 inStock: true
+prodname: F1 2020 Seventy Edition PS4 ESP
 ---
 
 Está [F1 2020 Seventy Edition PS4 ESP](https://www.amazon.es/dp/B087RPHXCS/?tag=tolees-21) con 42.99 de descuento por 39.9 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NJKSBFN
 description:
 actualPrice: 16.6 EUR
+currency: EUR
+price: 16.6
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Mattel- Disney Toy Story 4-Figura con Voces y Sonidos Buzz Lightyear  Juguetes niños +3 años GGT32  Multicolor
 ---
 
 Ahora mismo tienes [Mattel- Disney Toy Story 4-Figura con Voces y Sonidos Buzz Lightyear  Juguetes niños +3 años GGT32  Multicolor](https://www.amazon.es/dp/B07NJKSBFN/?tag=tolees-21) a 16.6 EUR (original: 24.99 EUR) (33.57 %  de descuento) en el siguiente enlace!

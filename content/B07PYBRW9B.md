@@ -10,8 +10,11 @@ author: ring
 slug: B07PYBRW9B
 description:
 actualPrice: 219.93 EUR
+currency: EUR
+price: 219.93
 comparePrice: 400 EUR
 inStock: true
+prodname: Moma Bikes Top Class 2 Bicicleta  Adultos Unisex  Blanco  Talla única
 ---
 
 Tienes [Moma Bikes Top Class 2 Bicicleta  Adultos Unisex  Blanco  Talla única](https://www.amazon.es/dp/B07PYBRW9B/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 219.93 EUR (original: 400 EUR) en el siguiente enlace!

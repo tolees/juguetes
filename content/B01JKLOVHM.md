@@ -10,8 +10,11 @@ author: ring
 slug: B01JKLOVHM
 description:
 actualPrice: 4.0 EUR
+currency: EUR
+price: 4.0
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Exlene® Nintendo 3DS USB cable cargador de la energía Juega mientras se carga para Nintendo 3DS  3DS XL  2DS  2DS XL LL  DSi  DSi XL -4ft / 1.2m  negro 
 ---
 
 Está [Exlene® Nintendo 3DS USB cable cargador de la energía Juega mientras se carga para Nintendo 3DS  3DS XL  2DS  2DS XL LL  DSi  DSi XL -4ft / 1.2m  negro ](https://www.amazon.es/dp/B01JKLOVHM/?tag=tolees-21) con 59.96 de descuento por 4.0 EUR (original: 9.99 EUR) en el siguiente enlace!

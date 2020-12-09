@@ -10,8 +10,11 @@ author: ring
 slug: B081HQ5NBV
 description:
 actualPrice: 26.79 EUR
+currency: EUR
+price: 26.79
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Playmobil - SCOOBY-DOO Aventura en el Salvaje Oeste Juguete  Color Multicolor  70364
 ---
 
 Tienes [Playmobil - SCOOBY-DOO Aventura en el Salvaje Oeste Juguete  Color Multicolor  70364](https://www.amazon.es/dp/B081HQ5NBV/?tag=tolees-21) con un 33.01 % de descuento con precio de oferta de 26.79 EUR (original: 39.99 EUR) en el siguiente enlace!

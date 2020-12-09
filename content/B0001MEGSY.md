@@ -10,8 +10,11 @@ author: ring
 slug: B0001MEGSY
 description:
 actualPrice: 14.84 EUR
+currency: EUR
+price: 14.84
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Sylvanian Families - 4254 - Muebles Habitación Niños
 ---
 
 Está [Sylvanian Families - 4254 - Muebles Habitación Niños](https://www.amazon.es/dp/B0001MEGSY/?tag=tolees-21) con 25.76 de descuento por 14.84 EUR (original: 19.99 EUR) en el siguiente enlace!

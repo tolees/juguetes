@@ -10,8 +10,11 @@ author: ring
 slug: B07SWCSQ8X
 description:
 actualPrice: 34.67 EUR
+currency: EUR
+price: 34.67
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Exost Hover Racer Hovercraft Radio Control Modelos Surtidos  BIZAK 62002014 
 ---
 
 Ahora mismo tienes [Exost Hover Racer Hovercraft Radio Control Modelos Surtidos  BIZAK 62002014 ](https://www.amazon.es/dp/B07SWCSQ8X/?tag=tolees-21) a 34.67 EUR (original: 59.99 EUR) (42.21 %  de descuento) en el siguiente enlace!

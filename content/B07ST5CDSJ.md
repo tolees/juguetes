@@ -10,8 +10,11 @@ author: ring
 slug: B07ST5CDSJ
 description:
 actualPrice: 34.28 EUR
+currency: EUR
+price: 34.28
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Cómo Entrenar a tu Dragón Dragón Lanzallamas Desdentado  BIZAK 61926568 
 ---
 
 Tienes [Cómo Entrenar a tu Dragón Dragón Lanzallamas Desdentado  BIZAK 61926568 ](https://www.amazon.es/dp/B07ST5CDSJ/?tag=tolees-21) con un 31.43 % de descuento con precio de oferta de 34.28 EUR (original: 49.99 EUR) en el siguiente enlace!

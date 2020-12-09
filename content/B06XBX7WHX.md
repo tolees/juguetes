@@ -10,8 +10,11 @@ author: ring
 slug: B06XBX7WHX
 description:
 actualPrice: 57.4 EUR
+currency: EUR
+price: 57.4
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Playgro 40191 Suave y cómodo coche de peluche para jugar a conducir  con controlador interactivo  Multicolor  2.4 x 5.7 x 49.5 cm
 ---
 
 Está [Playgro 40191 Suave y cómodo coche de peluche para jugar a conducir  con controlador interactivo  Multicolor  2.4 x 5.7 x 49.5 cm](https://www.amazon.es/dp/B06XBX7WHX/?tag=tolees-21) con 36.22 de descuento por 57.4 EUR (original: 89.99 EUR) en el siguiente enlace!

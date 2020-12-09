@@ -10,8 +10,11 @@ author: ring
 slug: B08CBW9HFL
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: NBA 2k21- Playstation 4  Edición Exclusiva Amazon 
 ---
 
 Está [NBA 2k21- Playstation 4  Edición Exclusiva Amazon ](https://www.amazon.es/dp/B08CBW9HFL/?tag=tolees-21) con 45.01 de descuento por 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!

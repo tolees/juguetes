@@ -10,8 +10,11 @@ author: ring
 slug: B07BYZF75M
 description:
 actualPrice: 11.2 EUR
+currency: EUR
+price: 11.2
 comparePrice: 22.9 EUR
 inStock: true
+prodname: Clementoni - Las Pulseras de las emociones  15239 
 ---
 
 Está [Clementoni - Las Pulseras de las emociones  15239 ](https://www.amazon.es/dp/B07BYZF75M/?tag=tolees-21) con 51.09 de descuento por 11.2 EUR (original: 22.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DFKMYCT
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 45.98 EUR
 inStock: true
+prodname: Porterias de Futbol para Niños Plegable Equipacion Futbol con Balon Futbol al Aire Libre y Interior Juguetes de Jardin Deporte para Niños Niñas 3 4 5 Años
 ---
 
 Está [Porterias de Futbol para Niños Plegable Equipacion Futbol con Balon Futbol al Aire Libre y Interior Juguetes de Jardin Deporte para Niños Niñas 3 4 5 Años](https://www.amazon.es/dp/B07DFKMYCT/?tag=tolees-21) con 56.52 de descuento por 19.99 EUR (original: 45.98 EUR) en el siguiente enlace!

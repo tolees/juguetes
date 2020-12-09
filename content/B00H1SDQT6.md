@@ -10,8 +10,11 @@ author: ring
 slug: B00H1SDQT6
 description:
 actualPrice: 2.0 EUR
+currency: EUR
+price: 2.0
 comparePrice: 2.99 EUR
 inStock: true
+prodname: Peppa Pig Peppa Pig-1317 Pelota de 15 cm  Color   Mondo 1317 
 ---
 
 Tienes [Peppa Pig Peppa Pig-1317 Pelota de 15 cm  Color   Mondo 1317 ](https://www.amazon.es/dp/B00H1SDQT6/?tag=tolees-21) con un 33.11 % de descuento con precio de oferta de 2.0 EUR (original: 2.99 EUR) en el siguiente enlace!

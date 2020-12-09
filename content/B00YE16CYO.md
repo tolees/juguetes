@@ -10,8 +10,11 @@ author: ring
 slug: B00YE16CYO
 description:
 actualPrice: 8.87 EUR
+currency: EUR
+price: 8.87
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Disney Infinity 3.0 - Figura Asco  Del Revés 
 ---
 
 Ahora mismo tienes [Disney Infinity 3.0 - Figura Asco  Del Revés ](https://www.amazon.es/dp/B00YE16CYO/?tag=tolees-21) a 8.87 EUR (original: 14.99 EUR) (40.83 %  de descuento) en el siguiente enlace!

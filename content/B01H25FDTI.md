@@ -10,8 +10,11 @@ author: ring
 slug: B01H25FDTI
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Marvel’s Spider-Man  PS4 
 ---
 
 Tienes [Marvel’s Spider-Man  PS4 ](https://www.amazon.es/dp/B01H25FDTI/?tag=tolees-21) con un 71.57 % de descuento con precio de oferta de 19.9 EUR (original: 69.99 EUR) en el siguiente enlace!

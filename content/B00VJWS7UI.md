@@ -10,8 +10,11 @@ author: ring
 slug: B00VJWS7UI
 description:
 actualPrice: 11.07 EUR
+currency: EUR
+price: 11.07
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Warner Bros Interactive Spain Lego Dimensions - Bad Cop
 ---
 
 Tienes [Warner Bros Interactive Spain Lego Dimensions - Bad Cop](https://www.amazon.es/dp/B00VJWS7UI/?tag=tolees-21) con un 25.95 % de descuento con precio de oferta de 11.07 EUR (original: 14.95 EUR) en el siguiente enlace!

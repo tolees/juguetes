@@ -10,8 +10,11 @@ author: ring
 slug: B07VWGMRJ5
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Dusk Diver - Day One Edition - Nintendo Switch
 ---
 
 Está [Dusk Diver - Day One Edition - Nintendo Switch](https://www.amazon.es/dp/B07VWGMRJ5/?tag=tolees-21) con 60.09 de descuento por 19.95 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W5PXDVR
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: LEGO Friends - Peluquería de Heartlake City  Set de Construcción de Juguete con Accesorios y Pelucas  Incluye Muñecas de Emma y Nina  a Partir de 6 Años  41391    color/modelo surtido
 ---
 
 Está [LEGO Friends - Peluquería de Heartlake City  Set de Construcción de Juguete con Accesorios y Pelucas  Incluye Muñecas de Emma y Nina  a Partir de 6 Años  41391    color/modelo surtido](https://www.amazon.es/dp/B07W5PXDVR/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

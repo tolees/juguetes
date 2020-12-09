@@ -10,8 +10,11 @@ author: ring
 slug: B07XB3JFYT
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Enchantimals Muñeca Haydie Horse y su caballo Trotter en la Granja  incluye accesorios y animalitos  Mattel GJX23 
 ---
 
 Tienes [Enchantimals Muñeca Haydie Horse y su caballo Trotter en la Granja  incluye accesorios y animalitos  Mattel GJX23 ](https://www.amazon.es/dp/B07XB3JFYT/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HGGDM4Q
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar
 ---
 
 Ahora mismo tienes [Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar](https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21) a 19.9 EUR (original: 32.99 EUR) (39.68 %  de descuento) en el siguiente enlace!

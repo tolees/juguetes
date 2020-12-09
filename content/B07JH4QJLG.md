@@ -10,8 +10,11 @@ author: ring
 slug: B07JH4QJLG
 description:
 actualPrice: 0.1 EUR
+currency: EUR
+price: 0.1
 comparePrice: 0.14 EUR
 inStock: true
+prodname: Universal MTB Ciclismo Bicicleta Bicicleta Línea de Cable de Freno Cable Interno Línea de Freno Núcleo 150 cm Accesorios de Bicicleta
 ---
 
 Tienes [Universal MTB Ciclismo Bicicleta Bicicleta Línea de Cable de Freno Cable Interno Línea de Freno Núcleo 150 cm Accesorios de Bicicleta](https://www.amazon.es/dp/B07JH4QJLG/?tag=tolees-21) con un 28.57 % de descuento con precio de oferta de 0.1 EUR (original: 0.14 EUR) en el siguiente enlace!

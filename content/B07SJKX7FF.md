@@ -10,8 +10,11 @@ author: ring
 slug: B07SJKX7FF
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Pinypon Action - Helicóptero de Rescate con 1 Figura con Accesorios  niñas de 4 a 8 años  Famosa 700015350 
 ---
 
 Está [Pinypon Action - Helicóptero de Rescate con 1 Figura con Accesorios  niñas de 4 a 8 años  Famosa 700015350 ](https://www.amazon.es/dp/B07SJKX7FF/?tag=tolees-21) con 33.39 de descuento por 19.95 EUR (original: 29.95 EUR) en el siguiente enlace!

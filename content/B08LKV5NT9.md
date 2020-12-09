@@ -10,8 +10,11 @@ author: ring
 slug: B08LKV5NT9
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 40.0 EUR
 inStock: true
+prodname: RuiDaXiang Carrito de Compras para niños  Canasta de Juguetes  Juego de Compras de 80 Piezas  Cocina  Juego de Roles de Comida  Juguete Educativo para niño/niña de 3 años o más  Azul 
 ---
 
 Tienes [RuiDaXiang Carrito de Compras para niños  Canasta de Juguetes  Juego de Compras de 80 Piezas  Cocina  Juego de Roles de Comida  Juguete Educativo para niño/niña de 3 años o más  Azul ](https://www.amazon.es/dp/B08LKV5NT9/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 19.98 EUR (original: 40.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RHNY8CJ
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Ravensburger Puzzle 3D Sneaker L.O.L  Color  11163 
 ---
 
 Ahora mismo tienes [Ravensburger Puzzle 3D Sneaker L.O.L  Color  11163 ](https://www.amazon.es/dp/B07RHNY8CJ/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

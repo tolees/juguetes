@@ -10,8 +10,11 @@ author: ring
 slug: B07FQDV2V3
 description:
 actualPrice: 12.95 EUR
+currency: EUR
+price: 12.95
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Nintendo Iberica - Figurina Amiibo Inkling Chica
 ---
 
 Tienes [Nintendo Iberica - Figurina Amiibo Inkling Chica](https://www.amazon.es/dp/B07FQDV2V3/?tag=tolees-21) con un 34.92 % de descuento con precio de oferta de 12.95 EUR (original: 19.9 EUR) en el siguiente enlace!

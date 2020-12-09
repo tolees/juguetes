@@ -10,8 +10,11 @@ author: ring
 slug: B085BLSVD7
 description:
 actualPrice: 34.43 EUR
+currency: EUR
+price: 34.43
 comparePrice: 51.99 EUR
 inStock: true
+prodname: YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo Goma EVA Puntos Verde Púrpura R08R11G301020
 ---
 
 Está [YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo Goma EVA Puntos Verde Púrpura R08R11G301020](https://www.amazon.es/dp/B085BLSVD7/?tag=tolees-21) con 33.78 de descuento por 34.43 EUR (original: 51.99 EUR) en el siguiente enlace!

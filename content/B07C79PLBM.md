@@ -10,8 +10,11 @@ author: ring
 slug: B07C79PLBM
 description:
 actualPrice: 10.86 EUR
+currency: EUR
+price: 10.86
 comparePrice: 34.68 EUR
 inStock: true
+prodname: Juego Magnético de Madera Pesca del Poste Tablero Magnético Rompecabezas con 9 Animales del Océano para Niños 3 4 5 6 Años
 ---
 
 Tienes [Juego Magnético de Madera Pesca del Poste Tablero Magnético Rompecabezas con 9 Animales del Océano para Niños 3 4 5 6 Años](https://www.amazon.es/dp/B07C79PLBM/?tag=tolees-21) con un 68.69 % de descuento con precio de oferta de 10.86 EUR (original: 34.68 EUR) en el siguiente enlace!

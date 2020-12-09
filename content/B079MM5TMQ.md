@@ -10,8 +10,11 @@ author: ring
 slug: B079MM5TMQ
 description:
 actualPrice: 32.96 EUR
+currency: EUR
+price: 32.96
 comparePrice: 49.0 EUR
 inStock: true
+prodname: PLAYMOBIL City Life Gimnasio  a Partir de 5 Años  9454 
 ---
 
 Ahora mismo tienes [PLAYMOBIL City Life Gimnasio  a Partir de 5 Años  9454 ](https://www.amazon.es/dp/B079MM5TMQ/?tag=tolees-21) a 32.96 EUR (original: 49.0 EUR) (32.73 %  de descuento) en el siguiente enlace!

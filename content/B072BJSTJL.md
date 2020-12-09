@@ -10,8 +10,11 @@ author: ring
 slug: B072BJSTJL
 description:
 actualPrice: 13.96 EUR
+currency: EUR
+price: 13.96
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Chicos Correpasillos con Cuatro Ruedas Mini Custom Rojo   Fábrica de Juguetes 36006   Color
 ---
 
 Tienes [Chicos Correpasillos con Cuatro Ruedas Mini Custom Rojo   Fábrica de Juguetes 36006   Color](https://www.amazon.es/dp/B072BJSTJL/?tag=tolees-21) con un 30.03 % de descuento con precio de oferta de 13.96 EUR (original: 19.95 EUR) en el siguiente enlace!

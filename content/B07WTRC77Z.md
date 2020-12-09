@@ -10,8 +10,11 @@ author: ring
 slug: B07WTRC77Z
 description:
 actualPrice: 29.39 EUR
+currency: EUR
+price: 29.39
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Marvel’s Spider-Man  PS4  Game of the Year Edition  GOTY 
 ---
 
 Ahora mismo tienes [Marvel’s Spider-Man  PS4  Game of the Year Edition  GOTY ](https://www.amazon.es/dp/B07WTRC77Z/?tag=tolees-21) a 29.39 EUR (original: 49.99 EUR) (41.21 %  de descuento) en el siguiente enlace!

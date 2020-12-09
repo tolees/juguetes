@@ -10,8 +10,11 @@ author: ring
 slug: B07MJHW9DS
 description:
 actualPrice: 11.2 EUR
+currency: EUR
+price: 11.2
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Paladone - Taza 3D Crash Bandicoot Uka Uka  PS4 
 ---
 
 Tienes [Paladone - Taza 3D Crash Bandicoot Uka Uka  PS4 ](https://www.amazon.es/dp/B07MJHW9DS/?tag=tolees-21) con un 29.96 % de descuento con precio de oferta de 11.2 EUR (original: 15.99 EUR) en el siguiente enlace!

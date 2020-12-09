@@ -10,8 +10,11 @@ author: ring
 slug: B08HCV9ZGG
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Shuliancable Cable HDMI  Compatible con Ethernet Retorno de Audio  Compatible con Fire TV  3D  vídeo 1080p y ARC  Playstation PS3 PC  2m  Black 
 ---
 
 Tienes [Shuliancable Cable HDMI  Compatible con Ethernet Retorno de Audio  Compatible con Fire TV  3D  vídeo 1080p y ARC  Playstation PS3 PC  2m  Black ](https://www.amazon.es/dp/B08HCV9ZGG/?tag=tolees-21) con un 36.40 % de descuento con precio de oferta de 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!

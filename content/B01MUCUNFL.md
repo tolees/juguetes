@@ -10,8 +10,11 @@ author: ring
 slug: B01MUCUNFL
 description:
 actualPrice: 11.14 EUR
+currency: EUR
+price: 11.14
 comparePrice: 16.9 EUR
 inStock: true
+prodname: Clementoni Disney Peluche con Sonidos Baby Minnie  Multicolor  Miscelanea  17164.4 
 ---
 
 Ahora mismo tienes [Clementoni Disney Peluche con Sonidos Baby Minnie  Multicolor  Miscelanea  17164.4 ](https://www.amazon.es/dp/B01MUCUNFL/?tag=tolees-21) a 11.14 EUR (original: 16.9 EUR) (34.08 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08MCB1MLW
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 45.91 EUR
 inStock: true
+prodname: REDSTORM Mando para Nintendo Switch  Switch Lite Gamepad Wireless Pro Controller para Switch  Sensor de Movimiento de 6 Ejes  Función Turbo  3 Niveles de Vibración  Batería Recargable
 ---
 
 Está [REDSTORM Mando para Nintendo Switch  Switch Lite Gamepad Wireless Pro Controller para Switch  Sensor de Movimiento de 6 Ejes  Función Turbo  3 Niveles de Vibración  Batería Recargable](https://www.amazon.es/dp/B08MCB1MLW/?tag=tolees-21) con 30.32 de descuento por 31.99 EUR (original: 45.91 EUR) en el siguiente enlace!

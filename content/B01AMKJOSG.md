@@ -10,8 +10,11 @@ author: ring
 slug: B01AMKJOSG
 description:
 actualPrice: 19.57 EUR
+currency: EUR
+price: 19.57
 comparePrice: 26.99 EUR
 inStock: true
+prodname: 4Gamers - Pro 4-40 Auricular Estéreo Licenciado  40Mm De Diámetro  Micrófono Flexible  Negro  PS4 
 ---
 
 Tienes [4Gamers - Pro 4-40 Auricular Estéreo Licenciado  40Mm De Diámetro  Micrófono Flexible  Negro  PS4 ](https://www.amazon.es/dp/B01AMKJOSG/?tag=tolees-21) con un 27.49 % de descuento con precio de oferta de 19.57 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QJXZYNR
 description:
 actualPrice: 33.37 EUR
+currency: EUR
+price: 33.37
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Nerf Fortnite Mega  Hasbro E7065EU4 
 ---
 
 Está [Nerf Fortnite Mega  Hasbro E7065EU4 ](https://www.amazon.es/dp/B07QJXZYNR/?tag=tolees-21) con 33.25 de descuento por 33.37 EUR (original: 49.99 EUR) en el siguiente enlace!

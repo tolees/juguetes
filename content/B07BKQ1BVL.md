@@ -10,8 +10,11 @@ author: ring
 slug: B07BKQ1BVL
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: AGM Mini Bicicleta Estáticas  Pedales Estaticos  Máquinas de piernas con Pantalla LCD para Entrenamiento de Brazos y Piernas Ajustable para Hacer Ejercicio en Casa para Mujer y Hombre  Negro 
 ---
 
 Tienes [AGM Mini Bicicleta Estáticas  Pedales Estaticos  Máquinas de piernas con Pantalla LCD para Entrenamiento de Brazos y Piernas Ajustable para Hacer Ejercicio en Casa para Mujer y Hombre  Negro ](https://www.amazon.es/dp/B07BKQ1BVL/?tag=tolees-21) con un 26.01 % de descuento con precio de oferta de 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!

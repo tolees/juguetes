@@ -10,8 +10,11 @@ author: ring
 slug: B07TKXG8LR
 description:
 actualPrice: 37.75 EUR
+currency: EUR
+price: 37.75
 comparePrice: 58.99 EUR
 inStock: true
+prodname: Spedal Pro Stream Webcam 1080P  Dos Micrófonos Estéreo  Tapa de Obturador  Enfoque Automático Streaming Cámara Web para Xbox OBS XSplit Skype Facebook  Compatible con Linux Mac OS Windows 10/8/7
 ---
 
 Está [Spedal Pro Stream Webcam 1080P  Dos Micrófonos Estéreo  Tapa de Obturador  Enfoque Automático Streaming Cámara Web para Xbox OBS XSplit Skype Facebook  Compatible con Linux Mac OS Windows 10/8/7](https://www.amazon.es/dp/B07TKXG8LR/?tag=tolees-21) con 36.01 de descuento por 37.75 EUR (original: 58.99 EUR) en el siguiente enlace!
