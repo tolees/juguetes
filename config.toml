@@ -4,7 +4,7 @@ title = "Los últimos descuentos detectados!"
 theme = "hugo-shopping-product-catalogue-simple"
 
 [Params]
-description = "Las últimas rebajas de"
+description = "Descuentos en juguetes"
 channel = "https://t.me/s/estodojuguetes"
 ga = "G-GFQQ3HZ9KL"
 yandex = "d953d3bd2561b908"
