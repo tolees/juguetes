@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Resident Evil 2 - Xbox One [Importación inglesa]'
 ---
 
-Ahora mismo tienes [Resident Evil 2 - Xbox One [Importación inglesa]](https://www.amazon.es/dp/B07K2RFX9Y/?tag=tolees-21) a 19.95 EUR (original: 27.14 EUR) (26.49 %  de descuento) en el siguiente enlace!
+Está [Resident Evil 2 - Xbox One [Importación inglesa]](https://www.amazon.es/dp/B07K2RFX9Y/?tag=tolees-21) con 26.49 de descuento por 19.95 EUR (original: 27.14 EUR) en el siguiente enlace!
 
 [![Resident Evil 2 - Xbox One [Importación ](https://m.media-amazon.com/images/I/41raPCn0tgL._SL200_.jpg)](https://www.amazon.es/dp/B07K2RFX9Y/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07K2RFX9Y/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K2RFX9Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
