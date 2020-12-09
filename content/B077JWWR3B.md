@@ -14,12 +14,10 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [FR·TEC -  Mando Pro Controller con cable - Nintendo Switch](https://www.amazon.es/dp/B077JWWR3B/?tag=tolees-21) con 48.02 de descuento por 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [FR·TEC -  Mando Pro Controller con cable - Nintendo Switch](https://www.amazon.es/dp/B077JWWR3B/?tag=tolees-21) a 12.99 EUR (original: 24.99 EUR) (48.02 %  de descuento) en el siguiente enlace!
 
 [![FR·TEC -  Mando Pro Controller con cable](https://images-eu.ssl-images-amazon.com/images/I/41vlerLlh4L._SL200_.jpg)](https://www.amazon.es/dp/B077JWWR3B/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077JWWR3B/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B077JWWR3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
