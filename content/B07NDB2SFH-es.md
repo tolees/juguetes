@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.17 % en LEGO Star Wars TM - Yoda  Set de constru'
-date: 2020-12-09 11:01:30
+date: 2020-12-10 15:18:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/5173mjtoTnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5173mjtoTnL._SL200_.jpg' ]
 comments: true
