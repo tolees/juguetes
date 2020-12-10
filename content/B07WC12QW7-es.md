@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 27.47 % en LEGO Classic - Base Blanca  Plancha de C'
+date: 2020-12-09 15:12:18
+thumbnailImage: 'https://m.media-amazon.com/images/I/51YrAtJ0pmL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51YrAtJ0pmL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07WC12QW7-es'
+description:
+actualPrice: 6.52 EUR
+currency: EUR
+price: 6.52
+comparePrice: 8.99 EUR
+inStock: true
+prodname: 'LEGO Classic - Base Blanca  Plancha de Color Blanco Compatible con las Piezas de LEGO  Base de 25 x 25 cm  Recomendado a Partir de 4 Años  11010 '
+country: 'es'
+---
+
+Tienes [LEGO Classic - Base Blanca  Plancha de Color Blanco Compatible con las Piezas de LEGO  Base de 25 x 25 cm  Recomendado a Partir de 4 Años  11010 ](https://www.amazon.es/dp/B07WC12QW7/?tag=tolees-21) con un 27.47 % de descuento con precio de oferta de 6.52 EUR (original: 8.99 EUR) en el siguiente enlace!
+
+[![LEGO Classic - Base Blanca  Plancha de C](https://m.media-amazon.com/images/I/51YrAtJ0pmL._SL200_.jpg)](https://www.amazon.es/dp/B07WC12QW7/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07WC12QW7/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

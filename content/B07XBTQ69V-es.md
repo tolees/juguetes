@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 48.05 % en LEGO- Minions y su Guarida para Construi'
+date: 2020-12-09 20:34:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/5149oPv0taL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/5149oPv0taL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07XBTQ69V-es'
+description:
+actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
+comparePrice: 105.85 EUR
+inStock: true
+prodname: 'LEGO- Minions y su Guarida para Construir Juego de construcción  Multicolor  75551 '
+country: 'es'
+---
+
+Tienes [LEGO- Minions y su Guarida para Construir Juego de construcción  Multicolor  75551 ](https://www.amazon.es/dp/B07XBTQ69V/?tag=tolees-21) con un 48.05 % de descuento con precio de oferta de 54.99 EUR (original: 105.85 EUR) en el siguiente enlace!
+
+[![LEGO- Minions y su Guarida para Construi](https://m.media-amazon.com/images/I/5149oPv0taL._SL200_.jpg)](https://www.amazon.es/dp/B07XBTQ69V/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07XBTQ69V/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

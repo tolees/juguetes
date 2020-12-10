@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Mega Construx- Gran Conjunto de Story Bu al 36.05 % de descuento'
+date: 2020-11-18 17:13:07
+thumbnailImage: 'https://m.media-amazon.com/images/I/61lQpSmFf2L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61lQpSmFf2L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0851HMW4D-es'
+description:
+actualPrice: 15.2 EUR
+currency: EUR
+price: 15.2
+comparePrice: 23.77 EUR
+inStock: true
+prodname: 'Mega Construx- Gran Conjunto de Story Builders definitivos  Mattel GRG42 '
+country: 'es'
+---
+
+Ahora mismo tienes [Mega Construx- Gran Conjunto de Story Builders definitivos  Mattel GRG42 ](https://www.amazon.es/dp/B0851HMW4D/?tag=tolees-21) a 15.2 EUR (original: 23.77 EUR) (36.05 %  de descuento) en el siguiente enlace!
+
+[![Mega Construx- Gran Conjunto de Story Bu](https://m.media-amazon.com/images/I/61lQpSmFf2L._SL200_.jpg)](https://www.amazon.es/dp/B0851HMW4D/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B0851HMW4D/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

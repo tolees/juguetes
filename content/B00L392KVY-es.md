@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 46.35 % en Ty - Peluche Perro San Bernardo  15 cm  '
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ycqm3Re9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ycqm3Re9L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00L392KVY-es'
+description:
+actualPrice: 3.75 EUR
+currency: EUR
+price: 3.75
+comparePrice: 6.99 EUR
+inStock: true
+prodname: 'Ty - Peluche Perro San Bernardo  15 cm  Color Blanco y marrón  United Labels 36125TY '
+country: 'es'
+---
+
+Tienes [Ty - Peluche Perro San Bernardo  15 cm  Color Blanco y marrón  United Labels 36125TY ](https://www.amazon.es/dp/B00L392KVY/?tag=tolees-21) con un 46.35 % de descuento con precio de oferta de 3.75 EUR (original: 6.99 EUR) en el siguiente enlace!
+
+[![Ty - Peluche Perro San Bernardo  15 cm  ](https://images-eu.ssl-images-amazon.com/images/I/51ycqm3Re9L._SL200_.jpg)](https://www.amazon.es/dp/B00L392KVY/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B00L392KVY/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
