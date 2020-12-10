@@ -18,10 +18,12 @@ prodname: 'LEGO- Super Mario Set de Expansión: Caza del Tesoro de Toad  Juguete
 country: 'es'
 ---
 
-Ahora mismo tienes [LEGO- Super Mario Set de Expansión: Caza del Tesoro de Toad  Juguete de Construcción  Multicolor  71368 ](https://www.amazon.es/dp/B082WDZM4T/?tag=tolees-21) a 49.9 EUR (original: 69.99 EUR) (28.70 %  de descuento) en el siguiente enlace!
+Está [LEGO- Super Mario Set de Expansión: Caza del Tesoro de Toad  Juguete de Construcción  Multicolor  71368 ](https://www.amazon.es/dp/B082WDZM4T/?tag=tolees-21) con 28.70 de descuento por 49.9 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![LEGO- Super Mario Set de Expansión: Caza](https://m.media-amazon.com/images/I/51HPnnxZkYL._SL200_.jpg)](https://www.amazon.es/dp/B082WDZM4T/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B082WDZM4T/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B082WDZM4T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

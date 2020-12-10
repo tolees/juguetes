@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO- Camión de Bomberos Fantasma 3000 H al 30.78 % de descuento'
-date: 2020-12-09 12:17:41
+date: 2020-12-10 14:01:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51W2UQMDnpL._SL200_.jpg' ]
 comments: true
