@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.39 % en LEGO Harry Potter Torre de Astronomía Ju'
-date: 2020-12-09 11:07:22
+date: 2020-12-10 15:54:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL200_.jpg' ]
 comments: true
