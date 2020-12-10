@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.33 % en LEGO City Turbo Wheels - Taller de Tuneo'
-date: 2020-12-09 16:48:49
+date: 2020-12-10 18:54:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P4HaxtYIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P4HaxtYIL._SL200_.jpg' ]
 comments: true

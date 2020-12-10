@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Fire - Intervención del Helicó al 31.01 % de descuento'
-date: 2020-12-09 16:29:55
+date: 2020-12-10 18:58:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg' ]
 comments: true
