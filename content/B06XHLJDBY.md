@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Barbie Caballo Súper Interactivo con muñeca  Mattel FRV36 '
 ---
 
-Está [Barbie Caballo Súper Interactivo con muñeca  Mattel FRV36 ](https://www.amazon.es/dp/B06XHLJDBY/?tag=tolees-21) con 70.31 de descuento por 33.55 EUR (original: 112.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Barbie Caballo Súper Interactivo con muñeca  Mattel FRV36 ](https://www.amazon.es/dp/B06XHLJDBY/?tag=tolees-21) a 33.55 EUR (original: 112.99 EUR) (70.31 %  de descuento) en el siguiente enlace!
 
 [![Barbie Caballo Súper Interactivo con muñ](https://images-eu.ssl-images-amazon.com/images/I/41VIl52oLbL._SL200_.jpg)](https://www.amazon.es/dp/B06XHLJDBY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XHLJDBY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XHLJDBY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
