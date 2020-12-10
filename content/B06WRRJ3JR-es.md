@@ -22,6 +22,9 @@ Tienes [LEGO DUPLO Cars - Cafetería de FLO  10846 ](https://www.amazon.es/dp/B0
 
 [![LEGO DUPLO Cars - Cafetería de FLO  1084](https://images-eu.ssl-images-amazon.com/images/I/51l%2BxNSTUaL._SL200_.jpg)](https://www.amazon.es/dp/B06WRRJ3JR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WRRJ3JR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

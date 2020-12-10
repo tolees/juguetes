@@ -22,6 +22,9 @@ Está [Toy Partner- Nerf Bolsa de dardos Elite  Color azul/negro/naranja  talla 
 
 [![Toy Partner- Nerf Bolsa de dardos Elite ](https://images-eu.ssl-images-amazon.com/images/I/51d7z5rqv5L._SL200_.jpg)](https://www.amazon.es/dp/B075RQTH4B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075RQTH4B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

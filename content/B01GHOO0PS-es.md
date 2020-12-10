@@ -22,6 +22,9 @@ Está [Clementoni - Maletin Educativo Finding Dory  55122.4 ](https://www.amazon
 
 [![Clementoni - Maletin Educativo Finding D](https://images-eu.ssl-images-amazon.com/images/I/513KzzcIVBL._SL200_.jpg)](https://www.amazon.es/dp/B01GHOO0PS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GHOO0PS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

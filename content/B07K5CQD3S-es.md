@@ -22,6 +22,9 @@ Tienes [1Pc Adaptador de Soporte de Montaje de Extensión para Computadora de Bi
 
 [![1Pc Adaptador de Soporte de Montaje de E](https://images-eu.ssl-images-amazon.com/images/I/41avfbFKPuL._SL200_.jpg)](https://www.amazon.es/dp/B07K5CQD3S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K5CQD3S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

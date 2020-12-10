@@ -22,6 +22,9 @@ Ahora mismo tienes [E-YOOSO Teclado y Mouse Inalámbricos con LAYOUT Español Si
 
 [![E-YOOSO Teclado y Mouse Inalámbricos con](https://images-eu.ssl-images-amazon.com/images/I/417FWJn-XHL._SL200_.jpg)](https://www.amazon.es/dp/B07HQDDVV1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HQDDVV1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

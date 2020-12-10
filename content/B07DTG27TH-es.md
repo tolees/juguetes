@@ -22,6 +22,9 @@ Está [Coches de Juguetes Metalicos 16pcs Modelismo Coches Miniatura Juguetes pa
 
 [![Coches de Juguetes Metalicos 16pcs Model](https://images-eu.ssl-images-amazon.com/images/I/51etjdxz51L._SL200_.jpg)](https://www.amazon.es/dp/B07DTG27TH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DTG27TH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

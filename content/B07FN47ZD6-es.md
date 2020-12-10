@@ -22,6 +22,9 @@ Tienes [Homcom Rodillo Magnético de Ciclismo Rodillo Entrenamiento Bicicleta Pl
 
 [![Homcom Rodillo Magnético de Ciclismo Rod](https://images-eu.ssl-images-amazon.com/images/I/41Bya0bQBJL._SL200_.jpg)](https://www.amazon.es/dp/B07FN47ZD6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FN47ZD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

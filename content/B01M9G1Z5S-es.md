@@ -22,6 +22,9 @@ Está [Bicicleta Sun Baja Cruz Mens Plata CB](https://www.amazon.es/dp/B01M9G1Z5
 
 [![Bicicleta Sun Baja Cruz Mens Plata CB](https://images-eu.ssl-images-amazon.com/images/I/51f7TXWX5sL._SL200_.jpg)](https://www.amazon.es/dp/B01M9G1Z5S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M9G1Z5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

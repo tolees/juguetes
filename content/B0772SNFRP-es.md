@@ -22,6 +22,9 @@ Está [Attack On Titan 2  XBOX ONE](https://www.amazon.es/dp/B0772SNFRP/?tag=tol
 
 [![Attack On Titan 2  XBOX ONE](https://images-eu.ssl-images-amazon.com/images/I/61QZ8BtmBsL._SL200_.jpg)](https://www.amazon.es/dp/B0772SNFRP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0772SNFRP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

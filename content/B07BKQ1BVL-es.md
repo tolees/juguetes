@@ -22,6 +22,9 @@ Ahora mismo tienes [AGM Mini Bicicleta Estáticas  Pedales Estaticos  Máquinas 
 
 [![AGM Mini Bicicleta Estáticas  Pedales Es](https://images-eu.ssl-images-amazon.com/images/I/41gFCc8srzL._SL200_.jpg)](https://www.amazon.es/dp/B07BKQ1BVL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BKQ1BVL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

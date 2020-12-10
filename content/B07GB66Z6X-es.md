@@ -22,6 +22,9 @@ Está [Enchantimals Muñeca con Accesorios y Mascota Felixity Fox Vamos A Pintar
 
 [![Enchantimals Muñeca con Accesorios y Mas](https://images-eu.ssl-images-amazon.com/images/I/41CQ4e8EvlL._SL200_.jpg)](https://www.amazon.es/dp/B07GB66Z6X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GB66Z6X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

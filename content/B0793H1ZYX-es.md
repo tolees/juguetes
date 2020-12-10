@@ -22,6 +22,14 @@ Ahora mismo tienes [Educa- Mapamundi-Sean Sims Aldeas SOS Puzzle Infantil de 200
 
 [![Educa- Mapamundi-Sean Sims Aldeas SOS Pu](https://m.media-amazon.com/images/I/61dKAI9y5QL._SL200_.jpg)](https://www.amazon.es/dp/B0793H1ZYX/?tag=tolees-21)
 
+Características:
+
+- Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños
+- Puzzles inspirados en Mapamundi - Sean Sims Aldeas Infantiles SOS
+- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
+- Puzzles de 200 piezas; con este puzzle educa borras colabora con Aldeas Infantiles SOS
+- Recomendado a partir de 6 años
+
 [Visítala!!!](https://www.amazon.es/dp/B0793H1ZYX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

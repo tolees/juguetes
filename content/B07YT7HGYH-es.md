@@ -22,6 +22,14 @@ Ahora mismo tienes [Disney Cars Pixar Gale Beaufort Camión para minicoches de C
 
 [![Disney Cars Pixar Gale Beaufort Camión p](https://m.media-amazon.com/images/I/410I8HdALfL._SL200_.jpg)](https://www.amazon.es/dp/B07YT7HGYH/?tag=tolees-21)
 
+Características:
+
+- Juguete dos en uno: un camión para empujar y un juego de hacer carreras.
+- Un regalo ideal para apasionados de Cars a partir de tres años.
+- El surtido incluye los camiones temáticos de los auténticos aficionados, Rayo McQueen y Jackson Storm (se venden por separado).
+- Cada camión de transporte de Cars tiene una rampa extensible para almacenar un minicoche metálico. En el camión caben 18 minicoches. Incluye un minicoche de carreras metálico.
+- Camiones temáticos de Cars de Disney y Pixar con diseños fieles a la película.
+
 [Visítala!!!](https://www.amazon.es/dp/B07YT7HGYH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

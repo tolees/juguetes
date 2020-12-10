@@ -22,6 +22,9 @@ Ahora mismo tienes [smartect Protector de Pantalla para Nintendo Switch [2 Unida
 
 [![smartect Protector de Pantalla para Nint](https://images-eu.ssl-images-amazon.com/images/I/41QEQe38S7L._SL200_.jpg)](https://www.amazon.es/dp/B06XY8XYDV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XY8XYDV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

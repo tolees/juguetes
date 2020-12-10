@@ -22,6 +22,9 @@ Ahora mismo tienes [Roswheel 3 in 1 Alforjas Bicicleta Sillín Impermeable 11L B
 
 [![Roswheel 3 in 1 Alforjas Bicicleta Sillí](https://images-eu.ssl-images-amazon.com/images/I/4127bW1R6RL._SL200_.jpg)](https://www.amazon.es/dp/B07G91MLWT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G91MLWT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

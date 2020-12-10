@@ -22,6 +22,9 @@ Está [NextX Maletin Medicos Juguete  Doctora Juguetes Maletin Enfermera Juego d
 
 [![NextX Maletin Medicos Juguete  Doctora J](https://images-eu.ssl-images-amazon.com/images/I/51J86NYB-ML._SL200_.jpg)](https://www.amazon.es/dp/B07C7PYDB5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C7PYDB5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

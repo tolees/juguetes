@@ -22,6 +22,9 @@ Está [Xbox One - Pack Consola S 1 TB Halo Wars 2](https://www.amazon.es/dp/B01M
 
 [![Xbox One - Pack Consola S 1 TB Halo Wars](https://images-eu.ssl-images-amazon.com/images/I/51wf6w10XcL._SL200_.jpg)](https://www.amazon.es/dp/B01MUCH4Q5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MUCH4Q5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

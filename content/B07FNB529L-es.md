@@ -22,6 +22,9 @@ Ahora mismo tienes [Mad Giga mando con Pantalla tácti Bluetooth 4.0 Wireless Ga
 
 [![Mad Giga mando con Pantalla tácti Blueto](https://images-eu.ssl-images-amazon.com/images/I/41QGgIChmCL._SL200_.jpg)](https://www.amazon.es/dp/B07FNB529L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FNB529L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

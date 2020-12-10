@@ -22,6 +22,9 @@ Tienes [Reloj modificable infantil con figurita de Kylo Ren de LEGO Star Wars 80
 
 [![Reloj modificable infantil con figurita ](https://images-eu.ssl-images-amazon.com/images/I/41kkpV1K9-L._SL200_.jpg)](https://www.amazon.es/dp/B071CL8X5H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071CL8X5H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

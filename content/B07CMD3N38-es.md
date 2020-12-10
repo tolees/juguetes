@@ -22,6 +22,9 @@ Tienes [Star Wars - Mighty Muggs Luke Skywalker X-Wing Pilot  Hasbro E2193ES0 ](
 
 [![Star Wars - Mighty Muggs Luke Skywalker ](https://images-eu.ssl-images-amazon.com/images/I/51haVNrHJGL._SL200_.jpg)](https://www.amazon.es/dp/B07CMD3N38/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CMD3N38/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [OUSPT Luces Bicicleta Delantera y Trasera  Linterna Bicicleta Recargable 
 
 [![OUSPT Luces Bicicleta Delantera y Traser](https://images-eu.ssl-images-amazon.com/images/I/412LFQKRn3L._SL200_.jpg)](https://www.amazon.es/dp/B07M9QX9YJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M9QX9YJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

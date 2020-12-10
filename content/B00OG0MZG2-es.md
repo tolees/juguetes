@@ -22,6 +22,9 @@ Ahora mismo tienes [Elite Paron Race - Portabidón para Bicicleta  Color Negro M
 
 [![Elite Paron Race - Portabidón para Bicic](https://images-eu.ssl-images-amazon.com/images/I/41gKpZCOXQL._SL200_.jpg)](https://www.amazon.es/dp/B00OG0MZG2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00OG0MZG2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

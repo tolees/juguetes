@@ -22,6 +22,9 @@ Está [Bleacher Creatures Europe Seleccion Sergio Ramos 2018 Peluche 25cm](https
 
 [![Bleacher Creatures Europe Seleccion Serg](https://images-eu.ssl-images-amazon.com/images/I/41wAR%2B3au2L._SL200_.jpg)](https://www.amazon.es/dp/B07CTMS9VS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTMS9VS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

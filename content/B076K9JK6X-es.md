@@ -22,6 +22,9 @@ Está [Auriculares PS4  SADES R5 Xbox One Mic Gaming Headset Auriculares para ju
 
 [![Auriculares PS4  SADES R5 Xbox One Mic G](https://images-eu.ssl-images-amazon.com/images/I/51lz8c0IjwL._SL200_.jpg)](https://www.amazon.es/dp/B076K9JK6X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076K9JK6X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

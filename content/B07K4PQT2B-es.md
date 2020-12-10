@@ -22,6 +22,9 @@ Está [Bovon Auriculares Gaming  Cascos PS4 con Microfono para Xbox One  Nintend
 
 [![Bovon Auriculares Gaming  Cascos PS4 con](https://images-eu.ssl-images-amazon.com/images/I/51j6g30FRZL._SL200_.jpg)](https://www.amazon.es/dp/B07K4PQT2B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K4PQT2B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

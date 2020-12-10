@@ -22,6 +22,9 @@ Tienes [Two Dots - Casco Storm  Color Rojo  PS4 ](https://www.amazon.es/dp/B01GD
 
 [![Two Dots - Casco Storm  Color Rojo  PS4 ](https://images-eu.ssl-images-amazon.com/images/I/416-zwMsR1L._SL200_.jpg)](https://www.amazon.es/dp/B01GD83GYE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GD83GYE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

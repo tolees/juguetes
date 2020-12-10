@@ -22,6 +22,9 @@ Tienes [Baoblaze MTB Bicicleta de Montaña 8 Velocidades de Rueda Libre 13-28t B
 
 [![Baoblaze MTB Bicicleta de Montaña 8 Velo](https://images-eu.ssl-images-amazon.com/images/I/517R3tYiH3L._SL200_.jpg)](https://www.amazon.es/dp/B07KB5LG6X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KB5LG6X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

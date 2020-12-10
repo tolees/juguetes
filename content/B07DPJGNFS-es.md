@@ -22,6 +22,9 @@ Está [Symiu Juguetes de Madera Bloques Figuras Geometricas Rompecabezas Niños 
 
 [![Symiu Juguetes de Madera Bloques Figuras](https://images-eu.ssl-images-amazon.com/images/I/41pWr0U%2Bm1L._SL200_.jpg)](https://www.amazon.es/dp/B07DPJGNFS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPJGNFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

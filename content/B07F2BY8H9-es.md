@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares Gaming PS4  [2019 Versión] EasySMX Cascos Gamin
 
 [![Auriculares Gaming PS4  [2019 Versión] E](https://images-eu.ssl-images-amazon.com/images/I/51qXwLLFSBL._SL200_.jpg)](https://www.amazon.es/dp/B07F2BY8H9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F2BY8H9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

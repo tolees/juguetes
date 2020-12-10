@@ -22,6 +22,9 @@ Está [Gioteck - HC-X1 Stereo Gaming Headset  Xbox One ](https://www.amazon.es/d
 
 [![Gioteck - HC-X1 Stereo Gaming Headset  X](https://images-eu.ssl-images-amazon.com/images/I/41LLWgaCL1L._SL200_.jpg)](https://www.amazon.es/dp/B07GDNX4M2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDNX4M2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

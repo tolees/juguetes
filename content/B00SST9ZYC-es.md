@@ -22,6 +22,9 @@ Tienes [Clementoni – 13489 – Lotería Frozen](https://www.amazon.es/dp/B
 
 [![Clementoni – 13489 – Lotería Frozen](https://images-eu.ssl-images-amazon.com/images/I/517TXa8GhoL._SL200_.jpg)](https://www.amazon.es/dp/B00SST9ZYC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SST9ZYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

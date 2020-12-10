@@ -22,6 +22,9 @@ Está [Justice League Batmóvil con lanzamisiles Mattel Spain FGG58](https://www
 
 [![Justice League Batmóvil con lanzamisiles](https://images-eu.ssl-images-amazon.com/images/I/41FKNnLOZSL._SL200_.jpg)](https://www.amazon.es/dp/B01N9FXIRZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9FXIRZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [QINUKER Dog Ball Toys para Mascotas  Juguetes para Masticar Juguetes dura
 
 [![QINUKER Dog Ball Toys para Mascotas  Jug](https://images-eu.ssl-images-amazon.com/images/I/41MR6vzwU5L._SL200_.jpg)](https://www.amazon.es/dp/B07SKHKYKS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07SKHKYKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

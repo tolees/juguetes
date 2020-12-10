@@ -22,6 +22,9 @@ Está [Kinetic Sand - Playset  Castillo  Bizak 61921402 ](https://www.amazon.es/
 
 [![Kinetic Sand - Playset  Castillo  Bizak ](https://images-eu.ssl-images-amazon.com/images/I/41JoW4%2B3hdL._SL200_.jpg)](https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

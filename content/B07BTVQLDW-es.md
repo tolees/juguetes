@@ -22,6 +22,9 @@ Está [Nuheby Juguete Baño Bebe Juguetes Baño Juguetes de Animales Juego de Pe
 
 [![Nuheby Juguete Baño Bebe Juguetes Baño J](https://images-eu.ssl-images-amazon.com/images/I/418UZCe7i6L._SL200_.jpg)](https://www.amazon.es/dp/B07BTVQLDW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BTVQLDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

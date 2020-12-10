@@ -22,6 +22,9 @@ Está [KabelDirekt 3m Cable HDMI 4K  compatible con  HDMI 2.0a/b  2.0  1.4a  4K 
 
 [![KabelDirekt 3m Cable HDMI 4K  compatible](https://images-eu.ssl-images-amazon.com/images/I/41IbP0oEddL._SL200_.jpg)](https://www.amazon.es/dp/B004BHZHIS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004BHZHIS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

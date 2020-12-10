@@ -22,6 +22,9 @@ Tienes [Nerf - no Figura Rival Kronos Deadpool  e0861](https://www.amazon.es/d
 
 [![Nerf - no Figura Rival Kronos Deadpool  ](https://images-eu.ssl-images-amazon.com/images/I/51aekOTtKlL._SL200_.jpg)](https://www.amazon.es/dp/B078HNLBSW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078HNLBSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

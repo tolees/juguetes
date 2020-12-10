@@ -22,6 +22,9 @@ Ahora mismo tienes [PAW PATROL - Skye Pizarra  Color púrpura  Fábrica de Jugue
 
 [![PAW PATROL - Skye Pizarra  Color púrpura](https://images-eu.ssl-images-amazon.com/images/I/41H0p9YrhvL._SL200_.jpg)](https://www.amazon.es/dp/B01N9YO22D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N9YO22D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Devir Tragedy Looper: Regreso a la tragedia Miscelanea BGTRALO](https://
 
 [![Devir Tragedy Looper: Regreso a la trage](https://images-eu.ssl-images-amazon.com/images/I/61sFpr3hV4L._SL200_.jpg)](https://www.amazon.es/dp/B01M266UZP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M266UZP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

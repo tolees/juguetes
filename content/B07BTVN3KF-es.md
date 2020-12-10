@@ -22,6 +22,9 @@ Está [Rompecabezas Puzzles Infantiles Mosaicos Pinchos 420pcs Bloques Construcc
 
 [![Rompecabezas Puzzles Infantiles Mosaicos](https://images-eu.ssl-images-amazon.com/images/I/51Pwy0152uL._SL200_.jpg)](https://www.amazon.es/dp/B07BTVN3KF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BTVN3KF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

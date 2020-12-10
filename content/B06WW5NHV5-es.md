@@ -22,6 +22,9 @@ Está [Discovery DP071 - Bicicleta Montaña Mountainbike 26" B.T.T. con amortigu
 
 [![Discovery DP071 - Bicicleta Montaña Moun](https://images-eu.ssl-images-amazon.com/images/I/51jCxerNwLL._SL200_.jpg)](https://www.amazon.es/dp/B06WW5NHV5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06WW5NHV5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

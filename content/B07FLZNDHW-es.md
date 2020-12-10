@@ -22,6 +22,9 @@ Está [Luz Bicicleta  NACATIN Linterna Bicicleta Set 2 en 1 USB Recargable  Faro
 
 [![Luz Bicicleta  NACATIN Linterna Biciclet](https://images-eu.ssl-images-amazon.com/images/I/51glaBq6qkL._SL200_.jpg)](https://www.amazon.es/dp/B07FLZNDHW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FLZNDHW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

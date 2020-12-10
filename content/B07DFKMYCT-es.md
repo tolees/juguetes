@@ -22,6 +22,9 @@ Está [Porterias de Futbol para Niños Plegable Equipacion Futbol con Balon Futb
 
 [![Porterias de Futbol para Niños Plegable ](https://images-eu.ssl-images-amazon.com/images/I/51kF2Nf3R9L._SL200_.jpg)](https://www.amazon.es/dp/B07DFKMYCT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFKMYCT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

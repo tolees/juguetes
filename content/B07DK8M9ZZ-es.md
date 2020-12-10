@@ -22,6 +22,9 @@ Tienes [NBA 2K19 - Xbox One [Importación francesa]](https://www.amazon.es/dp/B0
 
 [![NBA 2K19 - Xbox One [Importación frances](https://images-eu.ssl-images-amazon.com/images/I/51tk00lw29L._SL200_.jpg)](https://www.amazon.es/dp/B07DK8M9ZZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DK8M9ZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

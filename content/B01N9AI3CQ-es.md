@@ -22,6 +22,9 @@ Está [CYCBT E - Batería para Bicicleta  36 V-10 4 AH  Ion de Litio  Compatible
 
 [![CYCBT E - Batería para Bicicleta  36 V-1](https://images-eu.ssl-images-amazon.com/images/I/41n6%2BjFu9nL._SL200_.jpg)](https://www.amazon.es/dp/B01N9AI3CQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9AI3CQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

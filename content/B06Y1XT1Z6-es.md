@@ -22,6 +22,9 @@ Ahora mismo tienes [Fisher-Price Gimnasio musical juega y gatea  manta de juego 
 
 [![Fisher-Price Gimnasio musical juega y ga](https://images-eu.ssl-images-amazon.com/images/I/41NRM743LSL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1XT1Z6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y1XT1Z6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

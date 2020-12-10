@@ -22,6 +22,9 @@ Está [Play-Doh - Cacas Divertidas  Hasbro E5810EU4 ](https://www.amazon.es/dp/B
 
 [![Play-Doh - Cacas Divertidas  Hasbro E581](https://images-eu.ssl-images-amazon.com/images/I/51uGTfQ5jwL._SL200_.jpg)](https://www.amazon.es/dp/B07DXXKM27/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXXKM27/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

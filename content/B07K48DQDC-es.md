@@ -22,6 +22,9 @@ Está [Extrbici G7 Mountain Bike 21 Speed Steel Frame 27.5 Pulgadas Ruedas Doble
 
 [![Extrbici G7 Mountain Bike 21 Speed Steel](https://images-eu.ssl-images-amazon.com/images/I/51o0CjLl0oL._SL200_.jpg)](https://www.amazon.es/dp/B07K48DQDC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K48DQDC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

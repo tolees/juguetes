@@ -22,6 +22,9 @@ Tienes [MaxTronic Coche RC 1/20 Proporción 2.4GHz Coche Teledirigido 40km/h Veh
 
 [![MaxTronic Coche RC 1/20 Proporción 2.4GH](https://images-eu.ssl-images-amazon.com/images/I/51TJPDNPfDL._SL200_.jpg)](https://www.amazon.es/dp/B07LGV2DJ3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LGV2DJ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

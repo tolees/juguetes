@@ -22,6 +22,9 @@ Tienes [NACATIN Soporte de Bicicleta para Teléfono a Prueba de Golpes  Adecuado
 
 [![NACATIN Soporte de Bicicleta para Teléfo](https://images-eu.ssl-images-amazon.com/images/I/41e2vMY%2BOlL._SL200_.jpg)](https://www.amazon.es/dp/B07CG68VHZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CG68VHZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

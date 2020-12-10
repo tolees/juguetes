@@ -22,6 +22,9 @@ Está [Harvest Moon: La luz de la esperanza Edición Coleccionista PS4](https://
 
 [![Harvest Moon: La luz de la esperanza Edi](https://images-eu.ssl-images-amazon.com/images/I/51ZvHNrsbkL._SL200_.jpg)](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

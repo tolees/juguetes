@@ -22,6 +22,9 @@ Tienes [LEGO - Bunny Batman  Llavero Linterna  LGL-KE103B ](https://www.amazon.e
 
 [![LEGO - Bunny Batman  Llavero Linterna  L](https://images-eu.ssl-images-amazon.com/images/I/41anJrWWLpL._SL200_.jpg)](https://www.amazon.es/dp/B01N2OSEZT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2OSEZT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

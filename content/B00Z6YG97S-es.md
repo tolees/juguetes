@@ -22,6 +22,9 @@ Está [Pinypon Famosa Villa  con Muñecos  58 x 40 cm  700012409 ](https://www.a
 
 [![Pinypon Famosa Villa  con Muñecos  58 x ](https://images-eu.ssl-images-amazon.com/images/I/513yaWQsHwL._SL200_.jpg)](https://www.amazon.es/dp/B00Z6YG97S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00Z6YG97S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

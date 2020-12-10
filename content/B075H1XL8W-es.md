@@ -22,6 +22,9 @@ Tienes [LEGO Juniors - Spider-Man vs. Escorpión: Batalla callejera  10754 ](htt
 
 [![LEGO Juniors - Spider-Man vs. Escorpión:](https://images-eu.ssl-images-amazon.com/images/I/61zHzofpRvL._SL200_.jpg)](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075H1XL8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

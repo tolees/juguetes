@@ -22,6 +22,9 @@ Ahora mismo tienes [Máquina de Burbujas  Maquina Pompas de Jabon Forma de Rana 
 
 [![Máquina de Burbujas  Maquina Pompas de J](https://images-eu.ssl-images-amazon.com/images/I/51hhwDq3FqL._SL200_.jpg)](https://www.amazon.es/dp/B07FCYTC28/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FCYTC28/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

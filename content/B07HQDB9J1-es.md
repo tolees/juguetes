@@ -22,6 +22,9 @@ Ahora mismo tienes [YABER Mini Proyector 2600 Lumens Multimedia Vídeo Proyector
 
 [![YABER Mini Proyector 2600 Lumens Multime](https://images-eu.ssl-images-amazon.com/images/I/41OOF1oXMfL._SL200_.jpg)](https://www.amazon.es/dp/B07HQDB9J1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HQDB9J1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

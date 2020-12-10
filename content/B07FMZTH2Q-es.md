@@ -22,6 +22,9 @@ Tienes [Gifort Automatic Maquina Burbujas máquina de soplado de Burbujas portá
 
 [![Gifort Automatic Maquina Burbujas máquin](https://images-eu.ssl-images-amazon.com/images/I/51XP5C3wHxL._SL200_.jpg)](https://www.amazon.es/dp/B07FMZTH2Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FMZTH2Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

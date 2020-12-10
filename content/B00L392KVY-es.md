@@ -22,6 +22,9 @@ Ahora mismo tienes [Ty - Peluche Perro San Bernardo  15 cm  Color Blanco y marr�
 
 [![Ty - Peluche Perro San Bernardo  15 cm  ](https://images-eu.ssl-images-amazon.com/images/I/51ycqm3Re9L._SL200_.jpg)](https://www.amazon.es/dp/B00L392KVY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00L392KVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

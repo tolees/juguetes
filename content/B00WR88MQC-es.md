@@ -22,6 +22,9 @@ Está [Trust GXT 247 - Base de Carga Doble para gamepads de Xbox One](https://ww
 
 [![Trust GXT 247 - Base de Carga Doble para](https://images-eu.ssl-images-amazon.com/images/I/41UaRWIu92L._SL200_.jpg)](https://www.amazon.es/dp/B00WR88MQC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00WR88MQC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

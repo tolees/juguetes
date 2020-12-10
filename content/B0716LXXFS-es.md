@@ -22,6 +22,9 @@ Ahora mismo tienes [Juegos de Laberintos Motricidad Fina Ábaco Infantil Laberin
 
 [![Juegos de Laberintos Motricidad Fina Ába](https://images-eu.ssl-images-amazon.com/images/I/51d7W4BK0XL._SL200_.jpg)](https://www.amazon.es/dp/B0716LXXFS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0716LXXFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

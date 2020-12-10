@@ -22,6 +22,9 @@ Tienes [Trudi - Mini Pegaso de Peluche  Color Verde Agua  50175 ](https://www.am
 
 [![Trudi - Mini Pegaso de Peluche  Color Ve](https://images-eu.ssl-images-amazon.com/images/I/51WolQK0d2L._SL200_.jpg)](https://www.amazon.es/dp/B00L0CRGWM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00L0CRGWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

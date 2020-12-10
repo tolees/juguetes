@@ -22,6 +22,9 @@ Tienes [Ultrasport F-Bike 250 bicicleta estática con ordenador y App  sensor de
 
 [![Ultrasport F-Bike 250 bicicleta estática](https://images-eu.ssl-images-amazon.com/images/I/413vSAfG01L._SL200_.jpg)](https://www.amazon.es/dp/B07KRS5M6X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KRS5M6X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

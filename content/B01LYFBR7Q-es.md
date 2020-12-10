@@ -22,6 +22,9 @@ Ahora mismo tienes [Life-Plus Roswheel 37L 3 en 1 Impermeable Bolsa de Bicicleta
 
 [![Life-Plus Roswheel 37L 3 en 1 Impermeabl](https://images-eu.ssl-images-amazon.com/images/I/51pK34LxQ1L._SL200_.jpg)](https://www.amazon.es/dp/B01LYFBR7Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LYFBR7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

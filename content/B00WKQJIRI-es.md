@@ -22,6 +22,9 @@ Tienes [Star Wars abypel003 35 cm cojín de peluche](https://www.amazon.es/dp/
 
 [![Star Wars abypel003 35 cm cojín de peluc]()](https://www.amazon.es/dp/B00WKQJIRI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WKQJIRI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

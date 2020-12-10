@@ -22,6 +22,9 @@ Está [bouncevi Lanzador automático de Pelotas Juguete para Perros Perro Juguet
 
 [![bouncevi Lanzador automático de Pelotas ](https://images-eu.ssl-images-amazon.com/images/I/31eviIdrUJL._SL200_.jpg)](https://www.amazon.es/dp/B07PHWYCPG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PHWYCPG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

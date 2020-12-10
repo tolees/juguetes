@@ -22,6 +22,9 @@ Ahora mismo tienes [ULTRICS Cable Micro USB  1 Metro [2 Pack] Plano Android Cabl
 
 [![ULTRICS Cable Micro USB  1 Metro [2 Pack](https://images-eu.ssl-images-amazon.com/images/I/31mdZOfzS8L._SL200_.jpg)](https://www.amazon.es/dp/B01A7IT4J2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01A7IT4J2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

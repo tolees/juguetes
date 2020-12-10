@@ -22,6 +22,9 @@ Tienes [RetroViejuno Funda para Nintendo Switch  Rojo ](https://www.amazon.es/dp
 
 [![RetroViejuno Funda para Nintendo Switch ](https://images-eu.ssl-images-amazon.com/images/I/310Vd8zaPRL._SL200_.jpg)](https://www.amazon.es/dp/B07R8WTXBK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07R8WTXBK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

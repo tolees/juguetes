@@ -22,6 +22,9 @@ Tienes [LEGO Friends - Estación de esquí: Telesillas  41324 ](https://www.amaz
 
 [![LEGO Friends - Estación de esquí: Telesi](https://images-eu.ssl-images-amazon.com/images/I/61s-M4AvfKL._SL200_.jpg)](https://www.amazon.es/dp/B06W2KC5R5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06W2KC5R5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

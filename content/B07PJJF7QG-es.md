@@ -22,6 +22,9 @@ Ahora mismo tienes [QULLOO Wireless Controller for Nintendo Switch  Controlador 
 
 [![QULLOO Wireless Controller for Nintendo ](https://images-eu.ssl-images-amazon.com/images/I/41-c7YQunJL._SL200_.jpg)](https://www.amazon.es/dp/B07PJJF7QG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PJJF7QG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

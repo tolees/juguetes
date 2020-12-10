@@ -22,6 +22,9 @@ Está [Charmast 【Power Delivery】 26800mAh Batería Externa QC 3.0 Carga Ráp
 
 [![Charmast 【Power Delivery】 26800mAh Bater](https://images-eu.ssl-images-amazon.com/images/I/31Af1e8tKmL._SL200_.jpg)](https://www.amazon.es/dp/B073FGQTF9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073FGQTF9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [FULARR Bandas Reflectantes de Alta Visibilidad  para Brazo  Muñeca  Tobi
 
 [![FULARR Bandas Reflectantes de Alta Visib](https://images-eu.ssl-images-amazon.com/images/I/41YJ-zAQfcL._SL200_.jpg)](https://www.amazon.es/dp/B07DFPHXMS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFPHXMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

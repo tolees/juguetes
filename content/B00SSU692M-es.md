@@ -22,6 +22,9 @@ Ahora mismo tienes [Nintendo - Figura Amiibo Smash: Charizard 33](https://www.am
 
 [![Nintendo - Figura Amiibo Smash: Charizar](https://images-eu.ssl-images-amazon.com/images/I/51D89j6tkqL._SL200_.jpg)](https://www.amazon.es/dp/B00SSU692M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00SSU692M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

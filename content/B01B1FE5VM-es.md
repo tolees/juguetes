@@ -22,6 +22,9 @@ Está [Philips Amigo en Forma de lámpara portátil SoftPal 717689016 Peluche Lu
 
 [![Philips Amigo en Forma de lámpara portát](https://images-eu.ssl-images-amazon.com/images/I/41fLIOfzFjL._SL200_.jpg)](https://www.amazon.es/dp/B01B1FE5VM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01B1FE5VM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

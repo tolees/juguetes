@@ -22,6 +22,9 @@ Ahora mismo tienes [Ultrasport F-Bike 300B - Bicicleta estática plegable con re
 
 [![Ultrasport F-Bike 300B - Bicicleta estát](https://images-eu.ssl-images-amazon.com/images/I/41HxhctA%2BBL._SL200_.jpg)](https://www.amazon.es/dp/B07KRJ8LN2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KRJ8LN2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

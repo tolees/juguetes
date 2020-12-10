@@ -22,6 +22,9 @@ Está [Indeca - Bolsa 3DS Coca - Cola  Nintendo 3Ds ](https://www.amazon.es/dp/B
 
 [![Indeca - Bolsa 3DS Coca - Cola  Nintendo](https://images-eu.ssl-images-amazon.com/images/I/31UJIVQxh3L._SL200_.jpg)](https://www.amazon.es/dp/B07BMY1Y41/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BMY1Y41/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

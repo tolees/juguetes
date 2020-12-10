@@ -22,6 +22,9 @@ Está [DC Aquaman™ Figura de acción Mera 30cm  Mattel FXF92 ](https://www.ama
 
 [![DC Aquaman™ Figura de acción Mera 30cm  ](https://images-eu.ssl-images-amazon.com/images/I/41kw1GXPpCL._SL200_.jpg)](https://www.amazon.es/dp/B079KCKM39/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079KCKM39/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

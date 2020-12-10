@@ -22,6 +22,9 @@ Ahora mismo tienes [LEGO Super Heroes - Mighty Micros: Supergirl vs. Brainiac  7
 
 [![LEGO Super Heroes - Mighty Micros: Super](https://images-eu.ssl-images-amazon.com/images/I/51zqidxykeL._SL200_.jpg)](https://www.amazon.es/dp/B075SVP2ZF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075SVP2ZF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

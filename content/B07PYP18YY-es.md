@@ -22,6 +22,9 @@ Está [INTEY- Alfombra Infantil Puzzle para Niños 101PCS 40 Mat  Espuma Letras 
 
 [![INTEY- Alfombra Infantil Puzzle para Niñ](https://images-eu.ssl-images-amazon.com/images/I/511gqvK0QCL._SL200_.jpg)](https://www.amazon.es/dp/B07PYP18YY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PYP18YY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [COFIT 3 en 1 Bolsa de Manillar para Bicicleta de Gran Capacidad Verde  F
 
 [![COFIT 3 en 1 Bolsa de Manillar para Bici](https://images-eu.ssl-images-amazon.com/images/I/51FhGAIJGNL._SL200_.jpg)](https://www.amazon.es/dp/B07DJB53TZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJB53TZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Luz Trasera para Bicicleta  OUTERDO 2 tipos （Corazón y Círculo）USB
 
 [![Luz Trasera para Bicicleta  OUTERDO 2 ti](https://images-eu.ssl-images-amazon.com/images/I/51xFN4NUZaL._SL200_.jpg)](https://www.amazon.es/dp/B076WX1T4F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076WX1T4F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

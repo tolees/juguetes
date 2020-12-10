@@ -22,6 +22,9 @@ Tienes [Sony Xperia XZ2  color verde + Marvel s Spider-Man  PS4 ](https://www.am
 
 [![Sony Xperia XZ2  color verde + Marvel s ](https://images-eu.ssl-images-amazon.com/images/I/41MiySMbDmL._SL200_.jpg)](https://www.amazon.es/dp/B07NNYNZ2G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NNYNZ2G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

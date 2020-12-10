@@ -22,6 +22,9 @@ Está [KidKraft 65079 Casa de muñecas de madera Annabelle para muñecas de 30 
 
 [![KidKraft 65079 Casa de muñecas de madera](https://images-eu.ssl-images-amazon.com/images/I/61qB4Lh30ML._SL200_.jpg)](https://www.amazon.es/dp/B002OED6I8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002OED6I8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

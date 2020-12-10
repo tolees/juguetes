@@ -22,6 +22,9 @@ Está [Puzzle Scooby-Doo 60 Nurkowanie](https://www.amazon.es/dp/B01CZFJTPE/?tag
 
 [![Puzzle Scooby-Doo 60 Nurkowanie](https://images-eu.ssl-images-amazon.com/images/I/51kpWbWg87L._SL200_.jpg)](https://www.amazon.es/dp/B01CZFJTPE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CZFJTPE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

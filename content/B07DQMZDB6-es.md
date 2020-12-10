@@ -22,6 +22,9 @@ Está [Bleacher Creatures Europe Seleccion De GEA 2018 Peluche 25cm](https://www
 
 [![Bleacher Creatures Europe Seleccion De G](https://images-eu.ssl-images-amazon.com/images/I/41lP76N7QRL._SL200_.jpg)](https://www.amazon.es/dp/B07DQMZDB6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQMZDB6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Bibóo Bikes Gekko Vintage Bicicleta Fixie  Unisex Adult  Ne
 
 [![Bibóo Bikes Gekko Vintage Bicicleta Fixi](https://images-eu.ssl-images-amazon.com/images/I/41DznIJAcFL._SL200_.jpg)](https://www.amazon.es/dp/B07HPQ7V6F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HPQ7V6F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

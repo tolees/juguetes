@@ -22,6 +22,9 @@ Tienes [yoptote Laberinto de Cuentas Juguetes de Madera Juego de Montaña Rusa d
 
 [![yoptote Laberinto de Cuentas Juguetes de](https://images-eu.ssl-images-amazon.com/images/I/41I44zvihLL._SL200_.jpg)](https://www.amazon.es/dp/B071VW34MB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071VW34MB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

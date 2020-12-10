@@ -22,6 +22,9 @@ Ahora mismo tienes [Pdp - Mando Con Cable Morado Licenciado  Xbox One ](https://
 
 [![Pdp - Mando Con Cable Morado Licenciado ](https://images-eu.ssl-images-amazon.com/images/I/41KpmurJTiL._SL200_.jpg)](https://www.amazon.es/dp/B07GDS46BB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GDS46BB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

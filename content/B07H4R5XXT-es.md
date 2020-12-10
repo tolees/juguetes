@@ -22,6 +22,9 @@ Está [X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Pantalones
 
 [![X-TIGER Hombres de Bicicleta con 5D Gel ](https://images-eu.ssl-images-amazon.com/images/I/41mMAJeR9WL._SL200_.jpg)](https://www.amazon.es/dp/B07H4R5XXT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H4R5XXT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

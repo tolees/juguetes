@@ -22,6 +22,9 @@ Ahora mismo tienes [Tekken 7 - PlayStation 4 [Importación italiana]](https://ww
 
 [![Tekken 7 - PlayStation 4 [Importación it](https://images-eu.ssl-images-amazon.com/images/I/51gmJNcKkgL._SL200_.jpg)](https://www.amazon.es/dp/B01H1ZINFK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01H1ZINFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

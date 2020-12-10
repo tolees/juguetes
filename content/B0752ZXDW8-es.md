@@ -22,6 +22,9 @@ Está [Power A - Joy-Con Comfort Grip  Zelda BOTW  Nintendo Switch ](https://www
 
 [![Power A - Joy-Con Comfort Grip  Zelda BO](https://images-eu.ssl-images-amazon.com/images/I/51Sskz4ejnL._SL200_.jpg)](https://www.amazon.es/dp/B0752ZXDW8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0752ZXDW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

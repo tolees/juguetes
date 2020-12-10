@@ -22,6 +22,9 @@ Está [King Animal World 9in1 Puzzle Pack 12pieza s  - Rompecabezas  Jigsaw Puzz
 
 [![King Animal World 9in1 Puzzle Pack 12pie](https://images-eu.ssl-images-amazon.com/images/I/51mIMhAtBkL._SL200_.jpg)](https://www.amazon.es/dp/B074GW8VZL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074GW8VZL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

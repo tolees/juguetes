@@ -22,6 +22,9 @@ Está [HoneyHolly Botella de Agua Deporte 400ml/500ml/700ml/1l  sin bpa tritan p
 
 [![HoneyHolly Botella de Agua Deporte 400ml](https://images-eu.ssl-images-amazon.com/images/I/511k-QnxpvL._SL200_.jpg)](https://www.amazon.es/dp/B07DXF3M9H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXF3M9H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

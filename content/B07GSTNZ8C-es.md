@@ -22,6 +22,9 @@ Tienes [Dioxide 71 en 1 Juego Destornilladores de Precision  Profesional Magnét
 
 [![Dioxide 71 en 1 Juego Destornilladores d](https://images-eu.ssl-images-amazon.com/images/I/51LCUN-gmDL._SL200_.jpg)](https://www.amazon.es/dp/B07GSTNZ8C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GSTNZ8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Tirantes C
 
 [![X-TIGER Hombres de Bicicleta con 5D Gel ](https://images-eu.ssl-images-amazon.com/images/I/41l9Ne9h5EL._SL200_.jpg)](https://www.amazon.es/dp/B07H7J5ZRQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H7J5ZRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

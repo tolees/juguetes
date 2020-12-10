@@ -22,6 +22,9 @@ Está [Sony Xperia XZ2  color plata + Marvel s Spider-Man  PS4 ](https://www.ama
 
 [![Sony Xperia XZ2  color plata + Marvel s ](https://images-eu.ssl-images-amazon.com/images/I/411i8PL6adL._SL200_.jpg)](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

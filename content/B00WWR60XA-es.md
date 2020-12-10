@@ -22,6 +22,9 @@ Tienes [Lego Jurassic World - Classics](https://www.amazon.es/dp/B00WWR60XA/?tag
 
 [![Lego Jurassic World - Classics](https://images-eu.ssl-images-amazon.com/images/I/51EKr8CjEhL._SL200_.jpg)](https://www.amazon.es/dp/B00WWR60XA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WWR60XA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

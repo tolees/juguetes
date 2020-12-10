@@ -22,6 +22,9 @@ Está [SADES SA807 3.5mm nueva versión Multi-Plataforma Gaming Headset juego au
 
 [![SADES SA807 3.5mm nueva versión Multi-Pl](https://images-eu.ssl-images-amazon.com/images/I/51ZABDHjLSL._SL200_.jpg)](https://www.amazon.es/dp/B01MS3VWFI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MS3VWFI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

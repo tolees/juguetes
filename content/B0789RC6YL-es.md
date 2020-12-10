@@ -22,6 +22,9 @@ Tienes [Sades R4 Juego de Auriculares para Xbox  PS4 Controlador  3 5 mm por Cab
 
 [![Sades R4 Juego de Auriculares para Xbox ](https://images-eu.ssl-images-amazon.com/images/I/5183rePWmNL._SL200_.jpg)](https://www.amazon.es/dp/B0789RC6YL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0789RC6YL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

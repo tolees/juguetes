@@ -22,6 +22,9 @@ Está [Edge Entertainment - 5 pepinos  Juego de Cartas  EDG2F05 ](https://www.am
 
 [![Edge Entertainment - 5 pepinos  Juego de](https://images-eu.ssl-images-amazon.com/images/I/51dFwy2eEoL._SL200_.jpg)](https://www.amazon.es/dp/B00H1M6GDU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00H1M6GDU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

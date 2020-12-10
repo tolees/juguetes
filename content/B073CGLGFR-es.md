@@ -22,6 +22,9 @@ Está [Juguetes de Madera Rompecabezas Magnéticos Juego de Pesca Magnética con
 
 [![Juguetes de Madera Rompecabezas Magnétic](https://images-eu.ssl-images-amazon.com/images/I/51FIEdcJ-2L._SL200_.jpg)](https://www.amazon.es/dp/B073CGLGFR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073CGLGFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Baoblaze 2pcs Bocina de Bicicleta Recta de Apretón de Goma para Biciclet
 
 [![Baoblaze 2pcs Bocina de Bicicleta Recta ](https://images-eu.ssl-images-amazon.com/images/I/31eji78H1KL._SL200_.jpg)](https://www.amazon.es/dp/B07LDBK6FK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LDBK6FK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

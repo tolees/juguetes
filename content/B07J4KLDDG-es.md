@@ -22,6 +22,9 @@ Ahora mismo tienes [RCA a HDMI PORTHOLIC AV a HDMI Convertidor de Video Adaptado
 
 [![RCA a HDMI PORTHOLIC AV a HDMI Convertid](https://images-eu.ssl-images-amazon.com/images/I/41MB-cnrARL._SL200_.jpg)](https://www.amazon.es/dp/B07J4KLDDG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07J4KLDDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

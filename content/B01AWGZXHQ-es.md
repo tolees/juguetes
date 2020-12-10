@@ -22,6 +22,9 @@ Está [DC Super Hero Girls Muñeca superheroína Wonder Woman  Mattel DLT62 ](ht
 
 [![DC Super Hero Girls Muñeca superheroína ](https://images-eu.ssl-images-amazon.com/images/I/41qNK356AKL._SL200_.jpg)](https://www.amazon.es/dp/B01AWGZXHQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AWGZXHQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [SUPSOO Cascos Gaming  G820 Súper Cómodo Bajo Profundo Professional Auri
 
 [![SUPSOO Cascos Gaming  G820 Súper Cómodo ](https://images-eu.ssl-images-amazon.com/images/I/51WwncvAxXL._SL200_.jpg)](https://www.amazon.es/dp/B0779XZ5MB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0779XZ5MB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

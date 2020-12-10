@@ -22,6 +22,9 @@ Tienes [Hasbro - Amiguitas My Little Pony surtido: modelos aleatorios](https://w
 
 [![Hasbro - Amiguitas My Little Pony surtid](https://images-eu.ssl-images-amazon.com/images/I/51lzm82XAeL._SL200_.jpg)](https://www.amazon.es/dp/B00VWDJY0Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VWDJY0Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Maxone Aluminio Ultra Delgado - Disco duro externo Portátil 2.5" USB 3.0
 
 [![Maxone Aluminio Ultra Delgado - Disco du](https://images-eu.ssl-images-amazon.com/images/I/31xvHYK3UML._SL200_.jpg)](https://www.amazon.es/dp/B01MTAEVJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTAEVJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

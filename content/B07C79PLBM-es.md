@@ -22,6 +22,9 @@ Ahora mismo tienes [Juego Magnético de Madera Pesca del Poste Tablero Magnétic
 
 [![Juego Magnético de Madera Pesca del Post](https://images-eu.ssl-images-amazon.com/images/I/51MXXKv7bqL._SL200_.jpg)](https://www.amazon.es/dp/B07C79PLBM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C79PLBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

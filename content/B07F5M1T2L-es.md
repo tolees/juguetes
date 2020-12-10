@@ -22,6 +22,9 @@ Tienes [Wrebbit 3D Puzzle Harry Potter Ollivander s Wand Shop 295](https://www.a
 
 [![Wrebbit 3D Puzzle Harry Potter Ollivande](https://images-eu.ssl-images-amazon.com/images/I/516qn11iwJL._SL200_.jpg)](https://www.amazon.es/dp/B07F5M1T2L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F5M1T2L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

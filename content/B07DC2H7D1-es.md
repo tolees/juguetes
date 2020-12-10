@@ -22,6 +22,9 @@ Ahora mismo tienes [LYCAON Bike Grips Puños de manillar de bicicleta con escomb
 
 [![LYCAON Bike Grips Puños de manillar de b](https://images-eu.ssl-images-amazon.com/images/I/51UHkBch36L._SL200_.jpg)](https://www.amazon.es/dp/B07DC2H7D1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC2H7D1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

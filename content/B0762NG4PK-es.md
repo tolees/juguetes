@@ -22,6 +22,9 @@ Está [X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel Acolchado MTB Cicli
 
 [![X-TIGER Hombres Ropa Interior de Bicicle](https://images-eu.ssl-images-amazon.com/images/I/41j7WhIilLL._SL200_.jpg)](https://www.amazon.es/dp/B0762NG4PK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0762NG4PK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

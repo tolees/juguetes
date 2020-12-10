@@ -22,6 +22,9 @@ Está [Bolsa Manillar Bici Impermeable Bolsa Tubo Bicicleta con Pantalla Táctil
 
 [![Bolsa Manillar Bici Impermeable Bolsa Tu](https://images-eu.ssl-images-amazon.com/images/I/5159%2BHGWOSL._SL200_.jpg)](https://www.amazon.es/dp/B07KH6YYRJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KH6YYRJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

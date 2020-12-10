@@ -22,6 +22,9 @@ Tienes [BOENFU Smartphone Bicicleta Soporte para Teléfono para Bicicleta y Moto
 
 [![BOENFU Smartphone Bicicleta Soporte para](https://images-eu.ssl-images-amazon.com/images/I/41CUkCj2KCL._SL200_.jpg)](https://www.amazon.es/dp/B07H8FYQMZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H8FYQMZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Disney Infinity 3.0 - Figura Asco  Del Revés ](https://www.amazon.es/dp/
 
 [![Disney Infinity 3.0 - Figura Asco  Del R](https://images-eu.ssl-images-amazon.com/images/I/51ej0odK9ZL._SL200_.jpg)](https://www.amazon.es/dp/B00YE16CYO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00YE16CYO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

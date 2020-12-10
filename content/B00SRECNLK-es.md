@@ -22,6 +22,9 @@ Tienes [Disney - Puzzle  96 Piezas  diseño Clock Buscando a Nemo  Clementoni 23
 
 [![Disney - Puzzle  96 Piezas  diseño Clock](https://images-eu.ssl-images-amazon.com/images/I/61-cxqGaEBL._SL200_.jpg)](https://www.amazon.es/dp/B00SRECNLK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SRECNLK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

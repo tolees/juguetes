@@ -22,6 +22,9 @@ Ahora mismo tienes [INTEY- Alfombra Infantil Puzzle para Niños 101PCS 40 Mat  E
 
 [![INTEY- Alfombra Infantil Puzzle para Niñ](https://images-eu.ssl-images-amazon.com/images/I/51oFxDh8ffL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ8LN8H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ8LN8H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
