@@ -24,10 +24,10 @@ Está [PLAYMOBIL- Starter Pack Starterpack Batalla Medieval  Color carbón  7003
 
 Principales características:
 
-- Con operativa ballesta
+- Contiene 39 piezas
 - Incluye dos figuras y varios accesorios
 - Desarrolla la imaginación y la creatividad
-- Contiene 39 piezas
+- Con operativa ballesta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JLS3T3Q/?tag=tolees-21)
 
