@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Polly Pocket Cofre flamenco flotante  muñeca con accesorios  Mattel FRY38    color/modelo surtido'
 ---
 
-Está [Polly Pocket Cofre flamenco flotante  muñeca con accesorios  Mattel FRY38    color/modelo surtido](https://www.amazon.es/dp/B079KDSWL9/?tag=tolees-21) con 43.43 de descuento por 8.48 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Polly Pocket Cofre flamenco flotante  muñeca con accesorios  Mattel FRY38    color/modelo surtido](https://www.amazon.es/dp/B079KDSWL9/?tag=tolees-21) a 8.48 EUR (original: 14.99 EUR) (43.43 %  de descuento) en el siguiente enlace!
 
 [![Polly Pocket Cofre flamenco flotante  mu](https://m.media-amazon.com/images/I/51UyeEK99oL._SL200_.jpg)](https://www.amazon.es/dp/B079KDSWL9/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079KDSWL9/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B079KDSWL9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
