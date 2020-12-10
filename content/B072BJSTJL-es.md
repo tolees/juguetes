@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.03 % en Chicos Correpasillos con Cuatro Ruedas M'
-date: 2020-12-09 08:16:45
+date: 2020-12-10 20:25:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rMzYSjbNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rMzYSjbNL._SL200_.jpg' ]
 comments: true

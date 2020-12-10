@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel- Disney Toy Story 4-Figura con Vo al 33.57 % de descuento'
-date: 2020-12-08 17:32:14
+date: 2020-12-10 20:06:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ND17OMqTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ND17OMqTL._SL200_.jpg' ]
 comments: true

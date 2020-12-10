@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.56 % en Star Wars E9 Figura Darth Vader  Hasbro '
-date: 2020-12-06 17:51:54
+date: 2020-12-10 20:55:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m1mUpF4eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m1mUpF4eL._SL200_.jpg' ]
 comments: true

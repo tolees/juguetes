@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.25 % en Star Wars - Figura de acción de Darth Va'
-date: 2020-12-08 19:16:48
+date: 2020-12-10 19:14:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xHgPTnpRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xHgPTnpRL._SL200_.jpg' ]
 comments: true

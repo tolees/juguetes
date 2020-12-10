@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.47 % en Mega Construx - Juego de Tronos Bloques '
-date: 2020-12-07 17:47:57
+date: 2020-12-10 20:59:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C7DbhmRcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C7DbhmRcL._SL200_.jpg' ]
 comments: true

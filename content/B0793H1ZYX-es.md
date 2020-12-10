@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Educa- Mapamundi-Sean Sims Aldeas SOS Pu al 39.80 % de descuento'
-date: 2020-12-09 17:24:42
-thumbnailImage: 'https://m.media-amazon.com/images/I/61bJxq7NN7L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61bJxq7NN7L._SL200_.jpg' ]
+date: 2020-12-10 20:24:11
+thumbnailImage: 'https://m.media-amazon.com/images/I/61dKAI9y5QL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/61dKAI9y5QL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -20,7 +20,7 @@ country: 'es'
 
 Ahora mismo tienes [Educa- Mapamundi-Sean Sims Aldeas SOS Puzzle Infantil de 200 Piezas  a Partir de 6 años  17727 ](https://www.amazon.es/dp/B0793H1ZYX/?tag=tolees-21) a 5.99 EUR (original: 9.95 EUR) (39.80 %  de descuento) en el siguiente enlace!
 
-[![Educa- Mapamundi-Sean Sims Aldeas SOS Pu](https://m.media-amazon.com/images/I/61bJxq7NN7L._SL200_.jpg)](https://www.amazon.es/dp/B0793H1ZYX/?tag=tolees-21)
+[![Educa- Mapamundi-Sean Sims Aldeas SOS Pu](https://m.media-amazon.com/images/I/61dKAI9y5QL._SL200_.jpg)](https://www.amazon.es/dp/B0793H1ZYX/?tag=tolees-21)
 
 [Visítala!!!](https://www.amazon.es/dp/B0793H1ZYX/?tag=tolees-21)
 
