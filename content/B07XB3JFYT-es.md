@@ -25,10 +25,10 @@ Está [Enchantimals Muñeca Haydie Horse y su caballo Trotter en la Granja  incl
 Principales características:
 
 - «mece» las figuras de animales para que se duerman en la cuna o la cesta con un móvil giratorio
-- Incluye un conjunto de establo (25,4 cm), una muñeca haydie horse (15,24 cm), 4 figuras de animales, una cuna, una cesta, un nido y más de 10 accesorios pequeños, ayuda a la muñeca haydie horse a cuidar de los animalitos de la granja con el conjunto cuidado del establo de enchantimals
-- Da de comer o cambia el pañal de los animalitos en la mesa, que sirve de cambiador y trona, ​
 - Regalo óptimo para niñas y niños a partir de 4 años
+- Incluye un conjunto de establo (25,4 cm), una muñeca haydie horse (15,24 cm), 4 figuras de animales, una cuna, una cesta, un nido y más de 10 accesorios pequeños, ayuda a la muñeca haydie horse a cuidar de los animalitos de la granja con el conjunto cuidado del establo de enchantimals
 - Las niñas disfrutarán cuidando de los animales con accesorios más pequeños, como un babero, un pañal o biberones, ​
+- Da de comer o cambia el pañal de los animalitos en la mesa, que sirve de cambiador y trona, ​
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XB3JFYT/?tag=tolees-21)
 
