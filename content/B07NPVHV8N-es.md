@@ -24,12 +24,12 @@ Tienes [Patrulla Canina Subpatroller  BIZAK 61926745 ](https://www.amazon.es/dp/
 
 Características principales:
 
-- Abre la cabina delantera de la patrulla submarina y pon a Ryder en el asiento del conductor
-- Incluye: 1 Sub Patroller, 1 figura de Ryder, 1 patinete marino y 2 salvavidas
+- Conviértelo en un buzo abriendo la trampilla, y sumergiéndolo directamente en la Bahía de la Aventura
 - Empuja el periscopio hacia abajo y los salvavidas saldrán lanzados para salvar a los cachorros
 - Para las operaciones de rescate los cachorros pueden viajar bien en la cabina o en el compartimento de carga
 - Acompaña a Ryder en emocionantes misiones en el increible Sub Patroller; con luces intermitentes y sonidos está listo para la aventura
-- Conviértelo en un buzo abriendo la trampilla, y sumergiéndolo directamente en la Bahía de la Aventura
+- Incluye: 1 Sub Patroller, 1 figura de Ryder, 1 patinete marino y 2 salvavidas
+- Abre la cabina delantera de la patrulla submarina y pon a Ryder en el asiento del conductor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NPVHV8N/?tag=tolees-21)
 
