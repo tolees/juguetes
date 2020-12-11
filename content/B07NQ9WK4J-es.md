@@ -24,11 +24,11 @@ Ahora mismo tienes [Hot Wheels Monster Trucks Carreras con cuesta abajo  pistas 
 
 Características:
 
-- Competición para ser el primero en hacerse con el trofeo y activar la segunda de las pistas hot wheels, en la que los coches más lentos volarán por los aires
 - Juego de pista hot wheels diseñado tanto para coches como para monster trucks de hot wheels
 - Regalo óptimo para niñas y niños de más de 4 años
 - En la pista carrera cuesta abajo se deberán óptimaar obstáculos y acabar con la competencia, y eso solo se consigue chocando con el resto de vehículos de juguete y destrozándolos
 - El conjunto también sirve como transporte para los vehículos de juguete monster trucks, se puede colocar un camión a escala 1:64 delante para que lleve al resto de coches de juguete para niños
+- Competición para ser el primero en hacerse con el trofeo y activar la segunda de las pistas hot wheels, en la que los coches más lentos volarán por los aires
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQ9WK4J/?tag=tolees-21)
 
