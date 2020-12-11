@@ -24,9 +24,9 @@ Está [Clementoni - La Excavadora habladora  55130.9 ](https://www.amazon.es/dp/
 
 Principales características:
 
+- La pala frontal se mueve mecánicamente de arriba hacia abajo
 - Canta dos canciones divertidas y 3 famosas rimas
 - Multifunción 2 en 1: una excavadora que habla con muchas actividades mecánicas y un centro electrónico de actividades
-- La pala frontal se mueve mecánicamente de arriba hacia abajo
 - La luz roja de arriba se enciende
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01G5OXVV4/?tag=tolees-21)
