@@ -24,10 +24,10 @@ Tienes [LEGO Star Wars TM - Caza Estelar Ala-A de la Resistencia  Set de Constru
 
 Características principales:
 
-- Este juguete para construir Star Wars cuenta con una cabina abatible para una minifigura, un tren de aterrizaje retráctil, cañones en los extremos de las alas y 2 cañones automáticos integrados
 - Armas incluidas en el set: pistola bláster de Snap Wexley y bláster de la Teniente Connix
-- Esta nave estelar LEGO Star Wars mide más de 7 cm de altura, 20 cm de longitud y 12 cm de ancho
 - Es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión que lo merezca
+- Este juguete para construir Star Wars cuenta con una cabina abatible para una minifigura, un tren de aterrizaje retráctil, cañones en los extremos de las alas y 2 cañones automáticos integrados
+- Esta nave estelar LEGO Star Wars mide más de 7 cm de altura, 20 cm de longitud y 12 cm de ancho
 - Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07ND6CHW2/?tag=tolees-21)

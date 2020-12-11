@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.82 % en Patrulla Canina Subpatroller  BIZAK 6192'
-date: 2020-12-08 22:11:24
+date: 2020-12-11 12:15:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/61uU7ocD3iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61uU7ocD3iL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,15 @@ country: 'es'
 Tienes [Patrulla Canina Subpatroller  BIZAK 61926745 ](https://www.amazon.es/dp/B07NPVHV8N/?tag=tolees-21) con un 30.82 % de descuento con precio de oferta de 38.04 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![Patrulla Canina Subpatroller  BIZAK 6192](https://m.media-amazon.com/images/I/61uU7ocD3iL._SL200_.jpg)](https://www.amazon.es/dp/B07NPVHV8N/?tag=tolees-21)
+
+Características principales:
+
+- Para las operaciones de rescate los cachorros pueden viajar bien en la cabina o en el compartimento de carga
+- Acompaña a Ryder en emocionantes misiones en el increible Sub Patroller; con luces intermitentes y sonidos está listo para la aventura
+- Abre la cabina delantera de la patrulla submarina y pon a Ryder en el asiento del conductor
+- Incluye: 1 Sub Patroller, 1 figura de Ryder, 1 patinete marino y 2 salvavidas
+- Empuja el periscopio hacia abajo y los salvavidas saldrán lanzados para salvar a los cachorros
+- Conviértelo en un buzo abriendo la trampilla, y sumergiéndolo directamente en la Bahía de la Aventura
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NPVHV8N/?tag=tolees-21)
 
