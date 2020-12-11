@@ -24,10 +24,10 @@ Ahora mismo tienes [Clementoni- Puzzle 1000 Piezas Anne Stokes Kindred Spirits  
 
 Características:
 
-- Puzzle adulto 1000 piezas, con imágenes diseñadas por Anne Stokes, de alta calidad de impresión, y troquelado preciso
-- Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
-- Favorece la concentración y las habilidades manuales
 - Hecho en Italia
+- Puzzle adulto 1000 piezas, con imágenes diseñadas por Anne Stokes, de alta calidad de impresión, y troquelado preciso
+- Favorece la concentración y las habilidades manuales
+- Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
 
 [Visítala!!!](https://www.amazon.es/dp/B079PX4LRT/?tag=tolees-21)
 
