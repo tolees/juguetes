@@ -24,13 +24,13 @@ Ahora mismo tienes [Razer Kraken X - Auriculares para juegos  auriculares ultral
 
 Características:
 
-- COMODIDAD LIGERA: Auriculares ligeros de 250 g para una inmersión total con un sonido envolvente 7.1; relájate y juega durante horas: tus maratones de juegos serán un paseo
-- CONTROLES DE AUDIO PRÁCTICOS: Para un control del audio más cómodo, los botones de silenciar y de control de volumen se encuentran accesibles bajo el auricular izquierdo
 - AUDIO POSICIONAL, PRECISO Y CLARO: Los auriculares están equipados con un software de sonido envolvente 7.1 para que disfrutes de un audio posicional preciso mientras juegaz; podrás elegir la dirección por la que suena la acción y así estarás listo para un tiroteo inminente y gracias a los controladores optimizados de 40 mm, Razer Kraken X emite un sonido claro y equilibrado, tanto para las enormes explosiones en combate abierto como para las sigilosas pisadas de operaciones secretas; solo disponible para Windows 10 de 64 bits
-- Es posible que se necesite un adaptador de audio estéreo para Xbox One (se vende por separado)
-- COMUNÍCATE CON GRAN NITIDEZ: El micrófono, flexible y plegable, cuenta con un diagrama cardioide que captura solo el sonido de la zona de la boca; de esta manera, graba tu voz de forma clara y elimina los ruidos de fondo que se produzcan detrás de ti y a los laterales
-- El sonido envolvente 7.1 solo está disponible para Windows 10 de 64 bits
 - COMPATIBILIDAD MULTIPLATAFORMA : Los Razer Kraken X son compatibles con PC, Mac, Xbox One, PS4, Nintendo Switch y dispositivos móviles con conector minijack de audio de 3.5 mm
+- CONTROLES DE AUDIO PRÁCTICOS: Para un control del audio más cómodo, los botones de silenciar y de control de volumen se encuentran accesibles bajo el auricular izquierdo
+- COMODIDAD LIGERA: Auriculares ligeros de 250 g para una inmersión total con un sonido envolvente 7.1; relájate y juega durante horas: tus maratones de juegos serán un paseo
+- Es posible que se necesite un adaptador de audio estéreo para Xbox One (se vende por separado)
+- El sonido envolvente 7.1 solo está disponible para Windows 10 de 64 bits
+- COMUNÍCATE CON GRAN NITIDEZ: El micrófono, flexible y plegable, cuenta con un diagrama cardioide que captura solo el sonido de la zona de la boca; de esta manera, graba tu voz de forma clara y elimina los ruidos de fondo que se produzcan detrás de ti y a los laterales
 
 [Visítala!!!](https://www.amazon.es/dp/B07RMBB4HM/?tag=tolees-21)
 
