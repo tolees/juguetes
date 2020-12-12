@@ -29,10 +29,10 @@ Está [Mattel- Disney Toy Story 4-Figura con Voces y Sonidos Buzz Lightyear  Jug
 Principales características:
 
 - Cada figura viene en una caja con opción "Pruébame", se venden por separado y están sujetas a disponibilidad
-- Figura de Buzz Lightyear parlanchín de Toy Story 4 de Disney Pixar
-- Elige a Buzz Lightyear y a Woody y juega con los héroes de la película
-- Más de 15 frases de la película que harán que el personaje cobre vida
 - Completamente articulado con diseños emblemáticos y expresiones únicas al hablar
+- Elige a Buzz Lightyear y a Woody y juega con los héroes de la película
+- Figura de Buzz Lightyear parlanchín de Toy Story 4 de Disney Pixar
+- Más de 15 frases de la película que harán que el personaje cobre vida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NJKSBFN/?tag=tolees-21)
 

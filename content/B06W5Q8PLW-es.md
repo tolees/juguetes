@@ -28,11 +28,11 @@ Está [PLAYMOBIL Agentes Secretos- Agentes Secretos-Centro de Mando del Dr.Drone
 
 Principales características:
 
-- El centro de mando se abre y cierra
 - Los drones disponen de brazos móviles y con herramientas intercambiables. Además, disparan.
-- Incluye dos figuras.
-- Dimensiones aprox. 27x20x16 cm (LxPxA).
+- El centro de mando se abre y cierra
 - Con doble plataforma de aterrizaje para los dos drones.
+- Dimensiones aprox. 27x20x16 cm (LxPxA).
+- Incluye dos figuras.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06W5Q8PLW/?tag=tolees-21)
 

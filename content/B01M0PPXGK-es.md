@@ -30,8 +30,8 @@ Principales características:
 
 - Desarrolla la imaginación y la creatividad
 - Incluye tres figuras
-- Incluye varios animales y accesorios
 - Es maletín y en ella se pueden guardar todos los accesorios
+- Incluye varios animales y accesorios
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01M0PPXGK/?tag=tolees-21)
 

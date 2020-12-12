@@ -28,9 +28,9 @@ Está [Devir - Exit: El tesoro hundido  Ed. Español  BGEXIT7 ](https://www.amaz
 
 Principales características:
 
-- Exit el tesoro
 - Producto de calidad
 - Devir iberia, 227123
+- Exit el tesoro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HZXPHBG/?tag=tolees-21)
 

@@ -28,14 +28,14 @@ Tienes [LEGO La LEGO Película 2 - Triciclo de Emmet  set creativo de construcci
 
 Características principales:
 
-- El triciclo de emmet cuenta con asiento para una minifigura, 3 ruedas de caucho, estabilizadores desplegables y un modelo para construir de planty, el mejor amigo de emmet
-- La gasolinera, de fácil construcción, cuenta con un surtidor de gasolina de juguete provisto de manguera, función de catapulta de llantas y una plaza de aparcamiento para el triciclo
-- Recrea las escenas de la LEGO PELÍCULA 2 con este creativo juguete rebosante de diversión
-- Lanza la llanta al extraterrestre con la catapulta de juguete
 - Incluye una minifigura de Emmet (novedad en enero de 2019) y un invasor extraterrestre para construir con boca que muerde y ojo giratorio
+- La gasolinera, de fácil construcción, cuenta con un surtidor de gasolina de juguete provisto de manguera, función de catapulta de llantas y una plaza de aparcamiento para el triciclo
+- La gasolinera mide más de 7 cm de altura, 11 cm de ancho y 9 cm de profundidad
+- El triciclo de emmet cuenta con asiento para una minifigura, 3 ruedas de caucho, estabilizadores desplegables y un modelo para construir de planty, el mejor amigo de emmet
+- Lanza la llanta al extraterrestre con la catapulta de juguete
 - El triciclo de emmet (vehículo de juguete para construir) mide más de 16 cm de altura, 7 cm de longitud y 3 cm de ancho
 - Despliega los estabilizadores del Triciclo para que pueda tenerse en pie
-- La gasolinera mide más de 7 cm de altura, 11 cm de ancho y 9 cm de profundidad
+- Recrea las escenas de la LEGO PELÍCULA 2 con este creativo juguete rebosante de diversión
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FNS6J8H/?tag=tolees-21)
 
