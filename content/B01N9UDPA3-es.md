@@ -28,11 +28,11 @@ Está [eXtremeRate Soporte Vertical Armazón Perpendicular Antideslizante para l
 
 Principales características:
 
+- Haz su PS4 Pro un nuevo aspecto con el soporte vertical.
 - Nota: solo funciona con la consola PS4 Pro
+- Fácil de usar, simplemente póngalo en un área limpia y seca, coloque su PS4 Pro en posición vertical.
 - Diseñado para encajar de manera segura en la consola, posiciona verticalmente la consola para optimizar el espacio.
 - Tiene rejillas de ventilación, así que tiene espacio para que circule el aire y mantiene el sistema más fresco.
-- Haz su PS4 Pro un nuevo aspecto con el soporte vertical.
-- Fácil de usar, simplemente póngalo en un área limpia y seca, coloque su PS4 Pro en posición vertical.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9UDPA3/?tag=tolees-21)
 

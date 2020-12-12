@@ -28,11 +28,11 @@ Tienes [LEGO City Turbo Wheels - Taller de Tuneo  Juguete de Construcción con V
 
 Características principales:
 
+- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
 - Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
-- Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
 - Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
 - Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more
-- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
+- Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07W6QBNM5/?tag=tolees-21)
 

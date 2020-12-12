@@ -28,11 +28,11 @@ Ahora mismo tienes [Trust Gaming Cascos PS4 y PS5 Auriculares de Gaming GXT 488 
 
 Características:
 
-- Cable trenzado de nailon de 1,2 m; la longitud ideal para conectar al mando de juegos
-- Mando a distancia integrado para control de volumen y silenciamiento del micrófono
 - Solo hay que conectar los auriculares en el DualShock 4/DualSense controller(entrada de 3,5 mm)
 - Auriculares de Gaming para PS4 y PS5 con licencia oficial para PlayStation; potentes unidades de altavoces activos de 50 mm con suaves y cómodas almohadillas circumaurales
 - Cascos PS4 y PS5 con Micrófono flexible plegable y diadema ajustable reforzada
+- Mando a distancia integrado para control de volumen y silenciamiento del micrófono
+- Cable trenzado de nailon de 1,2 m; la longitud ideal para conectar al mando de juegos
 
 [Visítala!!!](https://www.amazon.es/dp/B084WQXL2N/?tag=tolees-21)
 

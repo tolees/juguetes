@@ -28,10 +28,10 @@ Tienes [DC Justice League Batman  Vehículo Batmóvil con doble lanzamisil  coch
 
 Características principales:
 
-- Nuevo Batmóvil doble lanzamisil de 30 cm con nuevos colores y diseño de Justice League Action
 - Los lanzamisiles también se pueden encajar en las manos de las figuras para entrar en combate
-- Los lanzamisiles dobles disparan proyectiles desde el capó y se pueden encajar en las puertas laterales para seguir disparando
 - Compatible con todas las figuras de acción de 30 cm del surtido que se venden por separado
+- Los lanzamisiles dobles disparan proyectiles desde el capó y se pueden encajar en las puertas laterales para seguir disparando
+- Nuevo Batmóvil doble lanzamisil de 30 cm con nuevos colores y diseño de Justice League Action
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IWX5BTQ/?tag=tolees-21)
 

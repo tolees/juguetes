@@ -28,11 +28,11 @@ Ahora mismo tienes [Pinypon - Purpurinizador De Estrellas  Famosa 700014264 ](ht
 
 Características:
 
-- Incluye un perchero con faldas para decorar y cambiar a tus figuras de modelito y un espejo tocador que podrás colocar en el mirador del playset y purpurina
 - Decora tu playset con los accesorios conectables que vienen incluidos, hay más de 10! Sus medidas son 41 cm de alto, 18 cm de ancho y 7 cm de profundidad
-- Juega con la figura Mix is Max Star que viene incluida para decorar y crear infinidad de historias en el mundo mágico
 - Purpurinizador para decorar de purpurina tus figuras y accesorios Pinypon
+- Incluye un perchero con faldas para decorar y cambiar a tus figuras de modelito y un espejo tocador que podrás colocar en el mirador del playset y purpurina
 - Introduce una parte de figura o accesorio tras aplicar el pegamento, aprieta el botón repetidamente, y WOW, salen purpurinizadas
+- Juega con la figura Mix is Max Star que viene incluida para decorar y crear infinidad de historias en el mundo mágico
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD76Z3M/?tag=tolees-21)
 
