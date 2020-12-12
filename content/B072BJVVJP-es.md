@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.03 % en Chicos - Correpasillos con Cuatro Ruedas'
-date: 2020-12-09 08:02:46
+date: 2020-12-12 21:56:31
 image: 'https://m.media-amazon.com/images/I/41nBcFUcwkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [Chicos - Correpasillos con Cuatro Ruedas Mini Custom Fucsia  La Fábrica
 
 ℹ️:
 
+- Diseño moderno inspirado en una moto Custom clásica
+- Color violeta
+- Correpasillos Mini Custom de gran resistencia y durabilidad
+- Para niños y niñas de entre 10 y 36 meses
+- Corre pasillos muy ligero, práctico y seguro con 4 ruedas para dar mayor estabilidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B072BJVVJP/?tag=tolees-21)
