@@ -24,11 +24,11 @@ Ahora mismo tienes [Nerf - Modulus Recon Mk11  Hasbro B4616EU4 ](https://www.ama
 
 🔎:
 
-- Lanzador 4 en 1
-- Lanza dardos hasta 27 metros
-- Incluye cargador para 6 dardos y 6 dardos Elite
 - El precio más bajo de los últimos 30 días ha sido: 27.99 euros
-- Compatible con todos los accesorios Modulus de Nerf
+- Incluye cargador para 6 dardos y 6 dardos Elite
+- Lanzador 4 en 1
 - Customizable con cañón de proximidad y culata
+- Compatible con todos los accesorios Modulus de Nerf
+- Lanza dardos hasta 27 metros
 
 [Visítala!!!](https://www.amazon.es/dp/B017TUBWAU/?tag=tolees-21)
