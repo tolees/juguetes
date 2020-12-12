@@ -28,13 +28,13 @@ Tienes [LEGO Película 2 - Nave Systar de Dulce Caos  set divertido de construcc
 
 Características principales:
 
+- Incluye 5 personajes de la lego película 2: minifiguras lego de emmet y lucy, un minipersonaje de dulce caos y figuras para construir de estrella y corazón.
 - Las minifiguras de emmet y lucy, así como el minipersonaje de dulce caos, son novedades en enero de 2019
+- Armas incluidas: ballesta de lucy y arma de dulce caos
 - Accesorios incluidos: carcaj de lucy y alas ajustables, casco, 2 corazones y propulsores translúcidos de color azul de dulce caos.
 - Mide más de 14 cm de altura, 16 cm de longitud y 28 cm de ancho
-- Incluye 5 personajes de la lego película 2: minifiguras lego de emmet y lucy, un minipersonaje de dulce caos y figuras para construir de estrella y corazón.
-- Armas incluidas: ballesta de lucy y arma de dulce caos
-- Recrea las escenas más divertidas de la lego película 2 con este increíble juguete para construir
 - La nave systar de dulce caos cuenta con cabina abatible para un minipersonaje o una minifigura, tren de aterrizaje retráctil, un rollo de pegatinas, lanzador de discos y una celda que se abre con un panel de control desmontable y un arma
+- Recrea las escenas más divertidas de la lego película 2 con este increíble juguete para construir
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FNN146M/?tag=tolees-21)
 
