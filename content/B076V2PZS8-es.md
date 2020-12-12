@@ -3,6 +3,7 @@ layout: post
 title: 'Lumo Stars Bear Camo Animales de Juguete al 53.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wA3epO7fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wA3epO7fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wA3epO7fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.47 EUR
 inStock: true
 prodname: 'Lumo Stars Bear Camo Animales de Juguete Felpa Juguetes de Peluche  Animales de Juguete   Felpa  3 año s   Oso  Niño/niña '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076V2PZS8/?tag=tolees-21'
+descuento: '53.86'
+titulo: 'Lumo Stars Bear Camo Animales de Juguete'
 ---
 
 Ahora mismo tienes [Lumo Stars Bear Camo Animales de Juguete Felpa Juguetes de Peluche  Animales de Juguete   Felpa  3 año s   Oso  Niño/niña ](https://www.amazon.es/dp/B076V2PZS8/?tag=tolees-21) a 8.06 EUR (original: 17.47 EUR) (53.86 %  de descuento) en el siguiente enlace!

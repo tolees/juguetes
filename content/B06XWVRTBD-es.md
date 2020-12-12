@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.70 % en Hori - Funda Rígida con cremallera Yo-Ka'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mSvAKGLxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mSvAKGLxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mSvAKGLxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Hori - Funda Rígida con cremallera Yo-Kai Watch Jibanyan  New Nintendo 3Ds '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XWVRTBD/?tag=tolees-21'
+descuento: '46.70'
+titulo: 'Hori - Funda Rígida con cremallera Yo-Ka'
 ---
 
 Tienes [Hori - Funda Rígida con cremallera Yo-Kai Watch Jibanyan  New Nintendo 3Ds ](https://www.amazon.es/dp/B06XWVRTBD/?tag=tolees-21) con un 46.70 % de descuento con precio de oferta de 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

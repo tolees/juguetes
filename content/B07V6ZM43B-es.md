@@ -3,6 +3,7 @@ layout: post
 title: 'Goldyqin Ciclismo Bicicleta Cadena de Ca al 33.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mEq2hSMOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mEq2hSMOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mEq2hSMOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 0.6 EUR
 inStock: true
 prodname: 'Goldyqin Ciclismo Bicicleta Cadena de Cadena Cadena Protector Protector Cubierta de protección Fuerte de plástico - Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07V6ZM43B/?tag=tolees-21'
+descuento: '33.33'
+titulo: 'Goldyqin Ciclismo Bicicleta Cadena de Ca'
 ---
 
 Ahora mismo tienes [Goldyqin Ciclismo Bicicleta Cadena de Cadena Cadena Protector Protector Cubierta de protección Fuerte de plástico - Rojo](https://www.amazon.es/dp/B07V6ZM43B/?tag=tolees-21) a 0.4 EUR (original: 0.6 EUR) (33.33 %  de descuento) en el siguiente enlace!

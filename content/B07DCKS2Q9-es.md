@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.68 % en Silicone Skins for PS4 controller - Anti'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-fnsAdyBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-fnsAdyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-fnsAdyBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Silicone Skins for PS4 controller - Anti-slip Silicone Cover Skin for Sony Playstation 4/Slim/Pro Controller - 2 x PS4 Controller Cover Skin with 8 x Joystick Thumb Stick Caps - Camo Green&Camo Red'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCKS2Q9/?tag=tolees-21'
+descuento: '50.68'
+titulo: 'Silicone Skins for PS4 controller - Anti'
 ---
 
 Tienes [Silicone Skins for PS4 controller - Anti-slip Silicone Cover Skin for Sony Playstation 4/Slim/Pro Controller - 2 x PS4 Controller Cover Skin with 8 x Joystick Thumb Stick Caps - Camo Green&Camo Red](https://www.amazon.es/dp/B07DCKS2Q9/?tag=tolees-21) con un 50.68 % de descuento con precio de oferta de 9.86 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Star Wars - Mighty Muggs Obi Wan  Hasbro al 61.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Srrf3Dt%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Srrf3Dt%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Srrf3Dt%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Star Wars - Mighty Muggs Obi Wan  Hasbro E2191ES0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CMB1MWC/?tag=tolees-21'
+descuento: '61.51'
+titulo: 'Star Wars - Mighty Muggs Obi Wan  Hasbro'
 ---
 
 Ahora mismo tienes [Star Wars - Mighty Muggs Obi Wan  Hasbro E2191ES0 ](https://www.amazon.es/dp/B07CMB1MWC/?tag=tolees-21) a 5 EUR (original: 12.99 EUR) (61.51 %  de descuento) en el siguiente enlace!

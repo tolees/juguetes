@@ -3,6 +3,7 @@ layout: post
 title: 'Tribe - Juguete Educativos de madera y p al 36.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a0fkdda-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a0fkdda-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a0fkdda-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.18 EUR
 inStock: true
 prodname: 'Tribe - Juguete Educativos de madera y pizarra Blanca con tablero magnéticos  puzzle para Niños Infantil de 3 4 5 Años '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CVG90WE/?tag=tolees-21'
+descuento: '36.66'
+titulo: 'Tribe - Juguete Educativos de madera y p'
 ---
 
 Está [Tribe - Juguete Educativos de madera y pizarra Blanca con tablero magnéticos  puzzle para Niños Infantil de 3 4 5 Años ](https://www.amazon.es/dp/B01CVG90WE/?tag=tolees-21) con 36.66 de descuento por 15.95 EUR (original: 25.18 EUR) en el siguiente enlace!

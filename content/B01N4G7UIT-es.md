@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.75 % en Hot Wheels Circuito de Carreras Urbanas '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u9KaGlYtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u9KaGlYtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u9KaGlYtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Hot Wheels Circuito de Carreras Urbanas  Mattel Spain FDY09    Modelos/colores Surtidos  1 Unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4G7UIT/?tag=tolees-21'
+descuento: '67.75'
+titulo: 'Hot Wheels Circuito de Carreras Urbanas '
 ---
 
 Tienes [Hot Wheels Circuito de Carreras Urbanas  Mattel Spain FDY09    Modelos/colores Surtidos  1 Unidad](https://www.amazon.es/dp/B01N4G7UIT/?tag=tolees-21) con un 67.75 % de descuento con precio de oferta de 51.6 EUR (original: 159.99 EUR) en el siguiente enlace!

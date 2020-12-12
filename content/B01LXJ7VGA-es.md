@@ -3,6 +3,7 @@ layout: post
 title: 'Cefa Toys Clan Smartwatch Color Azul Tal al 45.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q%2Bi-cqO6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q%2Bi-cqO6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q%2Bi-cqO6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 83.99 EUR
 inStock: true
 prodname: 'Cefa Toys Clan Smartwatch Color Azul Talla única 109'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXJ7VGA/?tag=tolees-21'
+descuento: '45.36'
+titulo: 'Cefa Toys Clan Smartwatch Color Azul Tal'
 ---
 
 Ahora mismo tienes [Cefa Toys Clan Smartwatch Color Azul Talla única 109](https://www.amazon.es/dp/B01LXJ7VGA/?tag=tolees-21) a 45.89 EUR (original: 83.99 EUR) (45.36 %  de descuento) en el siguiente enlace!

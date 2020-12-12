@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.10 % en Sony Xperia XZ2  color verde + Marvel s '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MiySMbDmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MiySMbDmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MiySMbDmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 858.95 EUR
 inStock: true
 prodname: 'Sony Xperia XZ2  color verde + Marvel s Spider-Man  PS4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NNYNZ2G/?tag=tolees-21'
+descuento: '35.10'
+titulo: 'Sony Xperia XZ2  color verde + Marvel s '
 ---
 
 Tienes [Sony Xperia XZ2  color verde + Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B07NNYNZ2G/?tag=tolees-21) con un 35.10 % de descuento con precio de oferta de 557.5 EUR (original: 858.95 EUR) en el siguiente enlace!

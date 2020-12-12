@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.10 % en Trudi - Mini Pegaso de Peluche  Color Ve'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WolQK0d2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WolQK0d2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WolQK0d2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Trudi - Mini Pegaso de Peluche  Color Verde Agua  50175 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00L0CRGWM/?tag=tolees-21'
+descuento: '54.10'
+titulo: 'Trudi - Mini Pegaso de Peluche  Color Ve'
 ---
 
 Tienes [Trudi - Mini Pegaso de Peluche  Color Verde Agua  50175 ](https://www.amazon.es/dp/B00L0CRGWM/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 6.88 EUR (original: 14.99 EUR) en el siguiente enlace!

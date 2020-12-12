@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Gaming PS4  [2019 Versión] E al 78.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qXwLLFSBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qXwLLFSBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qXwLLFSBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 46.47 EUR
 inStock: true
 prodname: 'Auriculares Gaming PS4  [2019 Versión] EasySMX Cascos Gaming  Auriculares Estéreo con Micrófono y Control de Volumen con Cable 2 en 1 para PC  Mac  Xbox One  PS4  Smartphone  Nintendo Switch y Móvil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2BY8H9/?tag=tolees-21'
+descuento: '78.50'
+titulo: 'Auriculares Gaming PS4  [2019 Versión] E'
 ---
 
 Ahora mismo tienes [Auriculares Gaming PS4  [2019 Versión] EasySMX Cascos Gaming  Auriculares Estéreo con Micrófono y Control de Volumen con Cable 2 en 1 para PC  Mac  Xbox One  PS4  Smartphone  Nintendo Switch y Móvil](https://www.amazon.es/dp/B07F2BY8H9/?tag=tolees-21) a 9.99 EUR (original: 46.47 EUR) (78.50 %  de descuento) en el siguiente enlace!

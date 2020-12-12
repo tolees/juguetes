@@ -3,6 +3,7 @@ layout: post
 title: 'Puzzle Scooby-Doo 60 Nurkowanie al 47.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kpWbWg87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kpWbWg87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kpWbWg87L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 5.28 EUR
 inStock: true
 prodname: 'Puzzle Scooby-Doo 60 Nurkowanie'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CZFJTPE/?tag=tolees-21'
+descuento: '47.35'
+titulo: 'Puzzle Scooby-Doo 60 Nurkowanie'
 ---
 
 Está [Puzzle Scooby-Doo 60 Nurkowanie](https://www.amazon.es/dp/B01CZFJTPE/?tag=tolees-21) con 47.35 de descuento por 2.78 EUR (original: 5.28 EUR) en el siguiente enlace!

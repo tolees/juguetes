@@ -3,6 +3,7 @@ layout: post
 title: 'INTEY Bicicleta Bomba de Aire Pie  Bomba al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jeDVt4F7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jeDVt4F7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jeDVt4F7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'INTEY Bicicleta Bomba de Aire Pie  Bomba de Bicicleta de Aluminio  Bomba de Piso para Bicicleta  Bomba de Neumático de Bicicleta Compatible con la Válvula Presta y Schrader  máxima 160 PSI/11 Bar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KD1KW9C/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'INTEY Bicicleta Bomba de Aire Pie  Bomba'
 ---
 
 Ahora mismo tienes [INTEY Bicicleta Bomba de Aire Pie  Bomba de Bicicleta de Aluminio  Bomba de Piso para Bicicleta  Bomba de Neumático de Bicicleta Compatible con la Válvula Presta y Schrader  máxima 160 PSI/11 Bar](https://www.amazon.es/dp/B07KD1KW9C/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

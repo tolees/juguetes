@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.58 % en Nintendo - Figura amiibo Animal Crossing'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FhmyBg2PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FhmyBg2PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FhmyBg2PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Nintendo - Figura amiibo Animal Crossing Betunio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018IGNC84/?tag=tolees-21'
+descuento: '54.58'
+titulo: 'Nintendo - Figura amiibo Animal Crossing'
 ---
 
 Tienes [Nintendo - Figura amiibo Animal Crossing Betunio](https://www.amazon.es/dp/B018IGNC84/?tag=tolees-21) con un 54.58 % de descuento con precio de oferta de 5.9 EUR (original: 12.99 EUR) en el siguiente enlace!

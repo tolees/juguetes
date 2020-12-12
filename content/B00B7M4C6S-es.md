@@ -3,6 +3,7 @@ layout: post
 title: 'Educa Borrás- Dibujos Animados y cómic P al 54.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/613r3SeozlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/613r3SeozlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/613r3SeozlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Educa Borrás- Dibujos Animados y cómic Puzzle  1000 Piezas  15517 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00B7M4C6S/?tag=tolees-21'
+descuento: '54.44'
+titulo: 'Educa Borrás- Dibujos Animados y cómic P'
 ---
 
 Ahora mismo tienes [Educa Borrás- Dibujos Animados y cómic Puzzle  1000 Piezas  15517 ](https://www.amazon.es/dp/B00B7M4C6S/?tag=tolees-21) a 5.9 EUR (original: 12.95 EUR) (54.44 %  de descuento) en el siguiente enlace!

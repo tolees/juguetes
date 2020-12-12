@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.50 % en Soporte de coche  Younik soporte ajustab'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TbFsH060L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TbFsH060L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TbFsH060L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Soporte de coche  Younik soporte ajustable de tabletas en el coche para Nintendo Switch/iPhone/iPad y otros dispositivos  5"-8.3" '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RDG1BD4/?tag=tolees-21'
+descuento: '43.50'
+titulo: 'Soporte de coche  Younik soporte ajustab'
 ---
 
 Tienes [Soporte de coche  Younik soporte ajustable de tabletas en el coche para Nintendo Switch/iPhone/iPad y otros dispositivos  5"-8.3" ](https://www.amazon.es/dp/B07RDG1BD4/?tag=tolees-21) con un 43.50 % de descuento con precio de oferta de 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!

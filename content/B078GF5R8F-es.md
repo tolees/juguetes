@@ -3,6 +3,7 @@ layout: post
 title: 'Eleven Force Monopoly F.C. Barcelona 40x al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QuZk1doIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QuZk1doIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QuZk1doIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Eleven Force Monopoly F.C. Barcelona 40x26 - +8 años  Ninguna 63331'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GF5R8F/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Eleven Force Monopoly F.C. Barcelona 40x'
 ---
 
 Está [Eleven Force Monopoly F.C. Barcelona 40x26 - +8 años  Ninguna 63331](https://www.amazon.es/dp/B078GF5R8F/?tag=tolees-21) con 50.06 de descuento por 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!

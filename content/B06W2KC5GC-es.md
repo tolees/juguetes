@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Star Wars - Chewbacca  75530  al 34.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61WV3MwvJ7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61WV3MwvJ7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61WV3MwvJ7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'LEGO Star Wars - Chewbacca  75530 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W2KC5GC/?tag=tolees-21'
+descuento: '34.30'
+titulo: 'LEGO Star Wars - Chewbacca  75530 '
 ---
 
 Está [LEGO Star Wars - Chewbacca  75530 ](https://www.amazon.es/dp/B06W2KC5GC/?tag=tolees-21) con 34.30 de descuento por 22.99 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.38 % en Wrebbit 3D Puzzle Harry Potter Ollivande'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516qn11iwJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516qn11iwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516qn11iwJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 43.9 EUR
 inStock: true
 prodname: 'Wrebbit 3D Puzzle Harry Potter Ollivander s Wand Shop 295'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F5M1T2L/?tag=tolees-21'
+descuento: '38.38'
+titulo: 'Wrebbit 3D Puzzle Harry Potter Ollivande'
 ---
 
 Tienes [Wrebbit 3D Puzzle Harry Potter Ollivander s Wand Shop 295](https://www.amazon.es/dp/B07F5M1T2L/?tag=tolees-21) con un 38.38 % de descuento con precio de oferta de 27.05 EUR (original: 43.9 EUR) en el siguiente enlace!

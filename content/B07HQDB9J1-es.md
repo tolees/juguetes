@@ -3,6 +3,7 @@ layout: post
 title: 'YABER Mini Proyector 2600 Lumens Multime al 58.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OOF1oXMfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OOF1oXMfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OOF1oXMfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 168.99 EUR
 inStock: true
 prodname: 'YABER Mini Proyector 2600 Lumens Multimedia Vídeo Proyector Portátil Soporta 1080P VGA HDMI USB SD AV  Proyector Cine en Casa Compatible con Fire TV Stick  PS4  Xbox  iPad  iPhone  Android Phone'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HQDB9J1/?tag=tolees-21'
+descuento: '58.58'
+titulo: 'YABER Mini Proyector 2600 Lumens Multime'
 ---
 
 Ahora mismo tienes [YABER Mini Proyector 2600 Lumens Multimedia Vídeo Proyector Portátil Soporta 1080P VGA HDMI USB SD AV  Proyector Cine en Casa Compatible con Fire TV Stick  PS4  Xbox  iPad  iPhone  Android Phone](https://www.amazon.es/dp/B07HQDB9J1/?tag=tolees-21) a 69.99 EUR (original: 168.99 EUR) (58.58 %  de descuento) en el siguiente enlace!

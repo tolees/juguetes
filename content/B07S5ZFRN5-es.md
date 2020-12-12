@@ -3,6 +3,7 @@ layout: post
 title: 'DIAOCARE Pata de Cabra Bicicleta  Aleaci al 37.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KjGzVr8hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KjGzVr8hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KjGzVr8hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.96 EUR
 inStock: true
 prodname: 'DIAOCARE Pata de Cabra Bicicleta  Aleación Ajustable Lateral de Bicicleta con pie de Goma Antideslizante Caballete Lateral Caballete para Montaña Bicicleta Carretera Bicicleta para 24-29 Pulgadas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S5ZFRN5/?tag=tolees-21'
+descuento: '37.47'
+titulo: 'DIAOCARE Pata de Cabra Bicicleta  Aleaci'
 ---
 
 Ahora mismo tienes [DIAOCARE Pata de Cabra Bicicleta  Aleación Ajustable Lateral de Bicicleta con pie de Goma Antideslizante Caballete Lateral Caballete para Montaña Bicicleta Carretera Bicicleta para 24-29 Pulgadas](https://www.amazon.es/dp/B07S5ZFRN5/?tag=tolees-21) a 9.98 EUR (original: 15.96 EUR) (37.47 %  de descuento) en el siguiente enlace!

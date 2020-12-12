@@ -3,6 +3,7 @@ layout: post
 title: 'Kinetic Sand - Playset  Castillo  Bizak  al 26.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JoW4%2B3hdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JoW4%2B3hdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JoW4%2B3hdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.94 EUR
 inStock: true
 prodname: 'Kinetic Sand - Playset  Castillo  Bizak 61921402 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21'
+descuento: '26.95'
+titulo: 'Kinetic Sand - Playset  Castillo  Bizak '
 ---
 
 Está [Kinetic Sand - Playset  Castillo  Bizak 61921402 ](https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21) con 26.95 de descuento por 21.87 EUR (original: 29.94 EUR) en el siguiente enlace!

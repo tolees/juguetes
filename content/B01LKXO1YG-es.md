@@ -3,6 +3,7 @@ layout: post
 title: 'Giro Switchblade Mips – Casco para bicic al 39.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YGuvoYOiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YGuvoYOiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YGuvoYOiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'Giro Switchblade Mips – Casco para bicicleta  Negro  Matte Black/Gloss Black   L  59-63 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LKXO1YG/?tag=tolees-21'
+descuento: '39.13'
+titulo: 'Giro Switchblade Mips – Casco para bicic'
 ---
 
 Ahora mismo tienes [Giro Switchblade Mips – Casco para bicicleta  Negro  Matte Black/Gloss Black   L  59-63 cm ](https://www.amazon.es/dp/B01LKXO1YG/?tag=tolees-21) a 139.99 EUR (original: 229.99 EUR) (39.13 %  de descuento) en el siguiente enlace!

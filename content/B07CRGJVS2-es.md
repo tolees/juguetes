@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en ONIKUMA Auriculares Gaming  Cascos Gamin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GOlLesgFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GOlLesgFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GOlLesgFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ONIKUMA Auriculares Gaming  Cascos Gaming con Micrófono Reducción de Ruido para PS4  Xbox One  Nintendo Switch  Sonido 7.1 Surround + Aislamiento  Auriculares Gamer para Videojuego  Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRGJVS2/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'ONIKUMA Auriculares Gaming  Cascos Gamin'
 ---
 
 Tienes [ONIKUMA Auriculares Gaming  Cascos Gaming con Micrófono Reducción de Ruido para PS4  Xbox One  Nintendo Switch  Sonido 7.1 Surround + Aislamiento  Auriculares Gamer para Videojuego  Negro ](https://www.amazon.es/dp/B07CRGJVS2/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Educa Borrás - Puzzle Amsterdam  3000 pi al 28.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61t0gcM6T8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61t0gcM6T8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61t0gcM6T8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.95 EUR
 inStock: true
 prodname: 'Educa Borrás - Puzzle Amsterdam  3000 piezas  16018 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00I03R7UA/?tag=tolees-21'
+descuento: '28.92'
+titulo: 'Educa Borrás - Puzzle Amsterdam  3000 pi'
 ---
 
 Está [Educa Borrás - Puzzle Amsterdam  3000 piezas  16018 ](https://www.amazon.es/dp/B00I03R7UA/?tag=tolees-21) con 28.92 de descuento por 24.13 EUR (original: 33.95 EUR) en el siguiente enlace!

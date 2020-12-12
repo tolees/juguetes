@@ -3,6 +3,7 @@ layout: post
 title: 'Universal MTB Ciclismo Bicicleta Bicicle al 28.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ujy0SAM3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ujy0SAM3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ujy0SAM3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 0.14 EUR
 inStock: true
 prodname: 'Universal MTB Ciclismo Bicicleta Bicicleta Línea de Cable de Freno Cable Interno Línea de Freno Núcleo 150 cm Accesorios de Bicicleta'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JH4QJLG/?tag=tolees-21'
+descuento: '28.57'
+titulo: 'Universal MTB Ciclismo Bicicleta Bicicle'
 ---
 
 Ahora mismo tienes [Universal MTB Ciclismo Bicicleta Bicicleta Línea de Cable de Freno Cable Interno Línea de Freno Núcleo 150 cm Accesorios de Bicicleta](https://www.amazon.es/dp/B07JH4QJLG/?tag=tolees-21) a 0.1 EUR (original: 0.14 EUR) (28.57 %  de descuento) en el siguiente enlace!

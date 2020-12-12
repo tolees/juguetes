@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.51 % en Bibóo Bikes Gekko Vintage Bicicleta Fixi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DznIJAcFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DznIJAcFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DznIJAcFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 800 EUR
 inStock: true
 prodname: 'Bibóo Bikes Gekko Vintage Bicicleta Fixie  Unisex Adult  Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HPLNNP5/?tag=tolees-21'
+descuento: '43.51'
+titulo: 'Bibóo Bikes Gekko Vintage Bicicleta Fixi'
 ---
 
 Tienes [Bibóo Bikes Gekko Vintage Bicicleta Fixie  Unisex Adult  Negro  S](https://www.amazon.es/dp/B07HPLNNP5/?tag=tolees-21) con un 43.51 % de descuento con precio de oferta de 451.92 EUR (original: 800 EUR) en el siguiente enlace!

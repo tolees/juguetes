@@ -3,6 +3,7 @@ layout: post
 title: 'KOOPAN Casco de Esquí Casco de Snowboard al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wsu1WEFjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wsu1WEFjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wsu1WEFjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.98 EUR
 inStock: true
 prodname: 'KOOPAN Casco de Esquí Casco de Snowboard Casco de Skate para Adulto Hombre Mujer Casco de Bicicleta de Esquí S: 48-54CM  Apto para Niños  Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FP86Y4W/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'KOOPAN Casco de Esquí Casco de Snowboard'
 ---
 
 Está [KOOPAN Casco de Esquí Casco de Snowboard Casco de Skate para Adulto Hombre Mujer Casco de Bicicleta de Esquí S: 48-54CM  Apto para Niños  Verde](https://www.amazon.es/dp/B07FP86Y4W/?tag=tolees-21) con 50.00 de descuento por 8.99 EUR (original: 17.98 EUR) en el siguiente enlace!

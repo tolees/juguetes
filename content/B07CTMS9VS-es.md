@@ -3,6 +3,7 @@ layout: post
 title: 'Bleacher Creatures Europe Seleccion Serg al 40.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wAR%2B3au2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wAR%2B3au2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wAR%2B3au2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Bleacher Creatures Europe Seleccion Sergio Ramos 2018 Peluche 25cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTMS9VS/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Bleacher Creatures Europe Seleccion Serg'
 ---
 
 Está [Bleacher Creatures Europe Seleccion Sergio Ramos 2018 Peluche 25cm](https://www.amazon.es/dp/B07CTMS9VS/?tag=tolees-21) con 40.08 de descuento por 14.95 EUR (original: 24.95 EUR) en el siguiente enlace!

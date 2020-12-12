@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.68 % en Skins for PS3 PlayStation 3 Controller D'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WC3oeVsHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WC3oeVsHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WC3oeVsHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Skins for PS3 PlayStation 3 Controller Decals Sony Play Station 3 Wireless Controllers Modded Stickers Game Protective Skin Decal - Blue Daemon [ Controller Not Included ] by GameXcel ?'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O6RJY6O/?tag=tolees-21'
+descuento: '65.68'
+titulo: 'Skins for PS3 PlayStation 3 Controller D'
 ---
 
 Tienes [Skins for PS3 PlayStation 3 Controller Decals Sony Play Station 3 Wireless Controllers Modded Stickers Game Protective Skin Decal - Blue Daemon [ Controller Not Included ] by GameXcel ?](https://www.amazon.es/dp/B00O6RJY6O/?tag=tolees-21) con un 65.68 % de descuento con precio de oferta de 6.86 EUR (original: 19.99 EUR) en el siguiente enlace!

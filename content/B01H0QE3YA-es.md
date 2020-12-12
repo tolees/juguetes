@@ -3,6 +3,7 @@ layout: post
 title: 'Halo Wars 2 - Standard Edition  Xbox One al 75.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xZlBky2QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xZlBky2QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xZlBky2QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Halo Wars 2 - Standard Edition  Xbox One '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H0QE3YA/?tag=tolees-21'
+descuento: '75.40'
+titulo: 'Halo Wars 2 - Standard Edition  Xbox One'
 ---
 
 Está [Halo Wars 2 - Standard Edition  Xbox One ](https://www.amazon.es/dp/B01H0QE3YA/?tag=tolees-21) con 75.40 de descuento por 15.99 EUR (original: 64.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.35 % en Lego Jurassic World - Classics'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EKr8CjEhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EKr8CjEhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EKr8CjEhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Lego Jurassic World - Classics'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WWR60XA/?tag=tolees-21'
+descuento: '43.35'
+titulo: 'Lego Jurassic World - Classics'
 ---
 
 Tienes [Lego Jurassic World - Classics](https://www.amazon.es/dp/B00WWR60XA/?tag=tolees-21) con un 43.35 % de descuento con precio de oferta de 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

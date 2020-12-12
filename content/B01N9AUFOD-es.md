@@ -3,6 +3,7 @@ layout: post
 title: 'Revell Lamborghini Police Juguetes a Con al 34.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cNky7v3iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cNky7v3iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cNky7v3iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.02 EUR
 inStock: true
 prodname: 'Revell Lamborghini Police Juguetes a Control Remoto 24656'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9AUFOD/?tag=tolees-21'
+descuento: '34.53'
+titulo: 'Revell Lamborghini Police Juguetes a Con'
 ---
 
 Está [Revell Lamborghini Police Juguetes a Control Remoto 24656](https://www.amazon.es/dp/B01N9AUFOD/?tag=tolees-21) con 34.53 de descuento por 20.31 EUR (original: 31.02 EUR) en el siguiente enlace!

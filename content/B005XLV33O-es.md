@@ -3,6 +3,7 @@ layout: post
 title: 'Nerf - Elite Dual Strike  Hasbro B4620EU al 54.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jyYfhJ2bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jyYfhJ2bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jyYfhJ2bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.12 EUR
 inStock: true
 prodname: 'Nerf - Elite Dual Strike  Hasbro B4620EU4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005XLV33O/?tag=tolees-21'
+descuento: '54.77'
+titulo: 'Nerf - Elite Dual Strike  Hasbro B4620EU'
 ---
 
 Ahora mismo tienes [Nerf - Elite Dual Strike  Hasbro B4620EU4 ](https://www.amazon.es/dp/B005XLV33O/?tag=tolees-21) a 12.72 EUR (original: 28.12 EUR) (54.77 %  de descuento) en el siguiente enlace!

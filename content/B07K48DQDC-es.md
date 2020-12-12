@@ -3,6 +3,7 @@ layout: post
 title: 'Extrbici G7 Mountain Bike 21 Speed Steel al 38.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o0CjLl0oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o0CjLl0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o0CjLl0oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 779 EUR
 inStock: true
 prodname: 'Extrbici G7 Mountain Bike 21 Speed Steel Frame 27.5 Pulgadas Ruedas Doble Suspensión Bicicleta Plegable  Naranja   Naranja '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K48DQDC/?tag=tolees-21'
+descuento: '38.51'
+titulo: 'Extrbici G7 Mountain Bike 21 Speed Steel'
 ---
 
 Está [Extrbici G7 Mountain Bike 21 Speed Steel Frame 27.5 Pulgadas Ruedas Doble Suspensión Bicicleta Plegable  Naranja   Naranja ](https://www.amazon.es/dp/B07K48DQDC/?tag=tolees-21) con 38.51 de descuento por 479 EUR (original: 779 EUR) en el siguiente enlace!

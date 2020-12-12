@@ -3,6 +3,7 @@ layout: post
 title: 'Geekper 1:16 4WD Coche RC Eléctrico Todo al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jjj9xPFGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jjj9xPFGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jjj9xPFGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Geekper 1:16 4WD Coche RC Eléctrico Todoterreno Control Remoto RTR Buggy Monster Truck 2.4 GHz de Alta Velocidad con 1 batería Recargable. Color  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HG4KR99/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Geekper 1:16 4WD Coche RC Eléctrico Todo'
 ---
 
 Ahora mismo tienes [Geekper 1:16 4WD Coche RC Eléctrico Todoterreno Control Remoto RTR Buggy Monster Truck 2.4 GHz de Alta Velocidad con 1 batería Recargable. Color  Rojo ](https://www.amazon.es/dp/B07HG4KR99/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

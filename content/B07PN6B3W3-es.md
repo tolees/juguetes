@@ -3,6 +3,7 @@ layout: post
 title: 'Educa Borrás- Toy Story Puzzle  Color Va al 53.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nk1i005OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nk1i005OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nk1i005OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.01 EUR
 inStock: true
 prodname: 'Educa Borrás- Toy Story Puzzle  Color Variado  18108 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PN6B3W3/?tag=tolees-21'
+descuento: '53.03'
+titulo: 'Educa Borrás- Toy Story Puzzle  Color Va'
 ---
 
 Está [Educa Borrás- Toy Story Puzzle  Color Variado  18108 ](https://www.amazon.es/dp/B07PN6B3W3/?tag=tolees-21) con 53.03 de descuento por 7.99 EUR (original: 17.01 EUR) en el siguiente enlace!

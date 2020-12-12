@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.74 % en Two Dots - Casco Storm  Color Rojo  PS4 '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416-zwMsR1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416-zwMsR1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416-zwMsR1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19 EUR
 inStock: true
 prodname: 'Two Dots - Casco Storm  Color Rojo  PS4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GD83GYE/?tag=tolees-21'
+descuento: '36.74'
+titulo: 'Two Dots - Casco Storm  Color Rojo  PS4 '
 ---
 
 Tienes [Two Dots - Casco Storm  Color Rojo  PS4 ](https://www.amazon.es/dp/B01GD83GYE/?tag=tolees-21) con un 36.74 % de descuento con precio de oferta de 12.02 EUR (original: 19 EUR) en el siguiente enlace!

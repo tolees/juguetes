@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.76 % en Lego City: Undercover - The Chase Begins'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61osYoqoTWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61osYoqoTWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61osYoqoTWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.36 EUR
 inStock: true
 prodname: 'Lego City: Undercover - The Chase Begins [Importación Francesa]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C72JSWA/?tag=tolees-21'
+descuento: '76.76'
+titulo: 'Lego City: Undercover - The Chase Begins'
 ---
 
 Tienes [Lego City: Undercover - The Chase Begins [Importación Francesa]](https://www.amazon.es/dp/B00C72JSWA/?tag=tolees-21) con un 76.76 % de descuento con precio de oferta de 10.54 EUR (original: 45.36 EUR) en el siguiente enlace!

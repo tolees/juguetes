@@ -3,6 +3,7 @@ layout: post
 title: 'DC Aquaman™ Figura de acción Mera 30cm   al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kw1GXPpCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kw1GXPpCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kw1GXPpCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'DC Aquaman™ Figura de acción Mera 30cm  Mattel FXF92 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079KCKM39/?tag=tolees-21'
+descuento: '37.52'
+titulo: 'DC Aquaman™ Figura de acción Mera 30cm  '
 ---
 
 Está [DC Aquaman™ Figura de acción Mera 30cm  Mattel FXF92 ](https://www.amazon.es/dp/B079KCKM39/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

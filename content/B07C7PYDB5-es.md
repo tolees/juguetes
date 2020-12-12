@@ -3,6 +3,7 @@ layout: post
 title: 'NextX Maletin Medicos Juguete  Doctora J al 34.49 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J86NYB-ML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J86NYB-ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J86NYB-ML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'NextX Maletin Medicos Juguete  Doctora Juguetes Maletin Enfermera Juego de rol Cuadro Médico Maletín de Médico Juegos de médicos para Niño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C7PYDB5/?tag=tolees-21'
+descuento: '34.49'
+titulo: 'NextX Maletin Medicos Juguete  Doctora J'
 ---
 
 Está [NextX Maletin Medicos Juguete  Doctora Juguetes Maletin Enfermera Juego de rol Cuadro Médico Maletín de Médico Juegos de médicos para Niño](https://www.amazon.es/dp/B07C7PYDB5/?tag=tolees-21) con 34.49 de descuento por 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!

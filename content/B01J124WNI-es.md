@@ -3,6 +3,7 @@ layout: post
 title: 'DC Super Hero Girls- Cars Batgirl y su b al 56.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-wMMUtbqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wMMUtbqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-wMMUtbqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.49 EUR
 inStock: true
 prodname: 'DC Super Hero Girls- Cars Batgirl y su batlanzador  Mattel DWH91 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J124WNI/?tag=tolees-21'
+descuento: '56.36'
+titulo: 'DC Super Hero Girls- Cars Batgirl y su b'
 ---
 
 Ahora mismo tienes [DC Super Hero Girls- Cars Batgirl y su batlanzador  Mattel DWH91 ](https://www.amazon.es/dp/B01J124WNI/?tag=tolees-21) a 12.87 EUR (original: 29.49 EUR) (56.36 %  de descuento) en el siguiente enlace!

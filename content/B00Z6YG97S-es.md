@@ -3,6 +3,7 @@ layout: post
 title: 'Pinypon Famosa Villa  con Muñecos  58 x  al 32.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513yaWQsHwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513yaWQsHwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513yaWQsHwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 51.95 EUR
 inStock: true
 prodname: 'Pinypon Famosa Villa  con Muñecos  58 x 40 cm  700012409 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Z6YG97S/?tag=tolees-21'
+descuento: '32.63'
+titulo: 'Pinypon Famosa Villa  con Muñecos  58 x '
 ---
 
 Está [Pinypon Famosa Villa  con Muñecos  58 x 40 cm  700012409 ](https://www.amazon.es/dp/B00Z6YG97S/?tag=tolees-21) con 32.63 de descuento por 35 EUR (original: 51.95 EUR) en el siguiente enlace!

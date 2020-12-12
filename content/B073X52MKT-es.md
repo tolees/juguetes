@@ -3,6 +3,7 @@ layout: post
 title: 'PDP - Mando Blanco Licenciado Nueva  Xbo al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41npEE1g3oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41npEE1g3oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41npEE1g3oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'PDP - Mando Blanco Licenciado Nueva  Xbox One '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073X52MKT/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'PDP - Mando Blanco Licenciado Nueva  Xbo'
 ---
 
 Ahora mismo tienes [PDP - Mando Blanco Licenciado Nueva  Xbox One ](https://www.amazon.es/dp/B073X52MKT/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

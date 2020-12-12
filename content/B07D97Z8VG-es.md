@@ -3,6 +3,7 @@ layout: post
 title: 'Partypooteenies - Caja Sorpresa  Bizak   al 75.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61yUpOVDEGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61yUpOVDEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61yUpOVDEGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Partypooteenies - Caja Sorpresa  Bizak  61924682 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D97Z8VG/?tag=tolees-21'
+descuento: '75.19'
+titulo: 'Partypooteenies - Caja Sorpresa  Bizak  '
 ---
 
 Está [Partypooteenies - Caja Sorpresa  Bizak  61924682 ](https://www.amazon.es/dp/B07D97Z8VG/?tag=tolees-21) con 75.19 de descuento por 6.2 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Clementoni - Maletin Educativo Finding D al 42.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513KzzcIVBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513KzzcIVBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513KzzcIVBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Clementoni - Maletin Educativo Finding Dory  55122.4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GHOO0PS/?tag=tolees-21'
+descuento: '42.02'
+titulo: 'Clementoni - Maletin Educativo Finding D'
 ---
 
 Está [Clementoni - Maletin Educativo Finding Dory  55122.4 ](https://www.amazon.es/dp/B01GHOO0PS/?tag=tolees-21) con 42.02 de descuento por 9.85 EUR (original: 16.99 EUR) en el siguiente enlace!
