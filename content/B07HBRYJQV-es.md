@@ -24,10 +24,10 @@ Está [HORI - Battle Pad Peach  Nintendo Switch ](https://www.amazon.es/dp/B07HB
 
 ℹ️:
 
-- Réplica del mando original para GameCube
-- Licencia oficial de Nintendo
-- Integración perfecta con Super Smash Bros.
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Botones L y R de corto recorrido
+- Integración perfecta con Super Smash Bros.
+- Licencia oficial de Nintendo
+- Réplica del mando original para GameCube
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HBRYJQV/?tag=tolees-21)
