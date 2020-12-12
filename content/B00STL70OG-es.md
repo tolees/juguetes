@@ -28,8 +28,8 @@ Está [Hasbro Gaming Monopoly Juego de Viaje  versión española  B1002105 ](htt
 
 Principales características:
 
-- Incluye un espacio para guardar las piezas
 - Incluye las propiedades clásicas, las cartas de comunidad y cartas de suerte
+- Incluye un espacio para guardar las piezas
 - Juego de viaje
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00STL70OG/?tag=tolees-21)

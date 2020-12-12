@@ -28,11 +28,11 @@ Está [LEGO Star Wars TM - Asaltador AT-ST  Set de Construcción Inspirado en el
 
 Principales características:
 
-- El vehículo LEGO Star Wars AT-ST posee patas articuladas móviles, una torreta giratoria que se activa mediante una rueda, una cubierta abatible que da acceso a una detallada cabina con espacio para una minifigura en su interior y elementos decorativos especiales que le dan su fiero aspecto tribal
-- Es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
 - Recrea las alucinantes aventuras de la popular serie para televisión Star Wars: The Mandalorian
-- Armas incluidas: 3 fusiles bláster y un bláster
 - El juguete para construir LEGO Star Wars basado en un caminante AT-ST mide más de 25 cm de altura, 15 cm de longitud y 13 cm de ancho
+- Armas incluidas: 3 fusiles bláster y un bláster
+- Es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
+- El vehículo LEGO Star Wars AT-ST posee patas articuladas móviles, una torreta giratoria que se activa mediante una rueda, una cubierta abatible que da acceso a una detallada cabina con espacio para una minifigura en su interior y elementos decorativos especiales que le dan su fiero aspecto tribal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ND9SVPB/?tag=tolees-21)
 

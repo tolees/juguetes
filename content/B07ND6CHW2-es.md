@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.68 % en LEGO Star Wars TM - Caza Estelar Ala-A d'
-date: 2020-12-11 10:36:32
+date: 2020-12-12 11:02:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xj5yaiEVL._SL200_.jpg' ]
@@ -28,11 +28,11 @@ Tienes [LEGO Star Wars TM - Caza Estelar Ala-A de la Resistencia  Set de Constru
 
 Características principales:
 
-- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker
-- Esta nave estelar LEGO Star Wars mide más de 7 cm de altura, 20 cm de longitud y 12 cm de ancho
-- Armas incluidas en el set: pistola bláster de Snap Wexley y bláster de la Teniente Connix
 - Es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión que lo merezca
+- Armas incluidas en el set: pistola bláster de Snap Wexley y bláster de la Teniente Connix
 - Este juguete para construir Star Wars cuenta con una cabina abatible para una minifigura, un tren de aterrizaje retráctil, cañones en los extremos de las alas y 2 cañones automáticos integrados
+- Esta nave estelar LEGO Star Wars mide más de 7 cm de altura, 20 cm de longitud y 12 cm de ancho
+- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07ND6CHW2/?tag=tolees-21)
 

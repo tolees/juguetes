@@ -28,11 +28,11 @@ Está [LEGO Harry Potter - Autobús Noctámbulo  Juguete de Construcción del M�
 
 Principales características:
 
-- Includes three (for-June-2019) LEGO Harry Potter minifigures: Harry Potter, Stan Shunpike and Ernie Prang
-- Includes the cheeky shrunken head and Harry Potter’s chest containing a wand, letter, chocolate bar and a potion bottle
-- Build the three-level LEGO night Bus toy with hinged opening side panel, removable roof and a movable sliding bed and swinging chandelier
-- Stan shunpike is issuing tickets and Ernie Prang still hasn’t mastered his steering skills, it is going to be a bumpy ride
 - The LEGO knight bus 75957 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Includes the cheeky shrunken head and Harry Potter’s chest containing a wand, letter, chocolate bar and a potion bottle
+- Stan shunpike is issuing tickets and Ernie Prang still hasn’t mastered his steering skills, it is going to be a bumpy ride
+- Build the three-level LEGO night Bus toy with hinged opening side panel, removable roof and a movable sliding bed and swinging chandelier
+- Includes three (for-June-2019) LEGO Harry Potter minifigures: Harry Potter, Stan Shunpike and Ernie Prang
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KX54VHF/?tag=tolees-21)
 

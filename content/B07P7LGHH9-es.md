@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings - Serie 4 - Display Mini Vehi al 52.10 % de descuento'
-date: 2020-12-11 10:38:47
+date: 2020-12-12 10:57:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg' ]
@@ -28,9 +28,9 @@ Ahora mismo tienes [SuperZings - Serie 4 - Display Mini Vehicle de 24 Vehículos
 
 Características:
 
-- Dispara los discos voladores con los blasterjet y conéctalos a los megajet para luego ser lanzados
 - Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos; estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 - Pack de 24 sobres individuales de vehículos blasterjet; puedes encontrar la colección completa
+- Dispara los discos voladores con los blasterjet y conéctalos a los megajet para luego ser lanzados
 - La Serie 4 incluye 8 blasterjets: 4 diseños cada uno en dos colores diferentes, hay 2 blasterjets de héroe y 2 de villano
 - Los blasterjets son vehículos voladores que protegen (o atacan) Kaboom City lanzando súperdiscos con precisión
 

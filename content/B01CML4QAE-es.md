@@ -28,11 +28,11 @@ Ahora mismo tienes [Theo Klein 8394 Maletín Ixolino de Bosch  Con martillo  lla
 
 Características:
 
-- El equipo incluye un martillo, un destornillador, una llave inglesa y dos clavos de juguete, listones, tornillos y tuercas
-- Los pequeños obreros y obreras encontrarán todo lo que necesitan en el robusto y transparente maletín de herramientas con diseño de Bosch
 - Medidas: 26.6 cm x 32 cm x 8.8 cm, apto para niños a partir de tres años, Pilas necesarias: 2 x R03-AAA, No incluidas en la entrega
-- La característica destacada más popular: el destornillador eléctrico Ixolino de Bosch que funciona con pilas y cuenta con luz, sonido, rotación a derecha e izquierda y elementos intercambiables
 - Con este set de alta calidad Bosch, los niños ejercitan sus habilidades motoras y aprenden a manejar las herramientas de forma segura
+- La característica destacada más popular: el destornillador eléctrico Ixolino de Bosch que funciona con pilas y cuenta con luz, sonido, rotación a derecha e izquierda y elementos intercambiables
+- Los pequeños obreros y obreras encontrarán todo lo que necesitan en el robusto y transparente maletín de herramientas con diseño de Bosch
+- El equipo incluye un martillo, un destornillador, una llave inglesa y dos clavos de juguete, listones, tornillos y tuercas
 
 [Visítala!!!](https://www.amazon.es/dp/B01CML4QAE/?tag=tolees-21)
 
