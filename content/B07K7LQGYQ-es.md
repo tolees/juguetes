@@ -22,7 +22,7 @@ Ahora mismo tienes [Nerf - Mega Bulldog  Hasbro E3057EU4 ](https://www.amazon.es
 
 [![Nerf - Mega Bulldog  Hasbro E3057EU4 ](https://images-eu.ssl-images-amazon.com/images/I/41q9oa7IXUL._SL200_.jpg)](https://www.amazon.es/dp/B07K7LQGYQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K7LQGYQ/?tag=tolees-21)

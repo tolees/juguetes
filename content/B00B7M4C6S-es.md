@@ -22,7 +22,7 @@ Ahora mismo tienes [Educa Borrás- Dibujos Animados y cómic Puzzle  1000 Piezas
 
 [![Educa Borrás- Dibujos Animados y cómic P](https://images-eu.ssl-images-amazon.com/images/I/613r3SeozlL._SL200_.jpg)](https://www.amazon.es/dp/B00B7M4C6S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00B7M4C6S/?tag=tolees-21)

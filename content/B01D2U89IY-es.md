@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO Star Wars - Botella con diseño C3-Po  #30300003 ](http
 
 [![LEGO Star Wars - Botella con diseño C3-P](https://images-eu.ssl-images-amazon.com/images/I/31oslhUHRkL._SL200_.jpg)](https://www.amazon.es/dp/B01D2U89IY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01D2U89IY/?tag=tolees-21)

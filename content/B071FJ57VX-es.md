@@ -22,7 +22,7 @@ Ahora mismo tienes [VTech- Simulador de conducción  Puesta a Punto Rayo Mcqueen
 
 [![VTech- Simulador de conducción  Puesta a](https://images-eu.ssl-images-amazon.com/images/I/51gmpeANFHL._SL200_.jpg)](https://www.amazon.es/dp/B071FJ57VX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FJ57VX/?tag=tolees-21)

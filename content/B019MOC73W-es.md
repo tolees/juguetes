@@ -22,7 +22,7 @@ Ahora mismo tienes [Nintendo - Amiibo Smash Roy](https://www.amazon.es/dp/B019MO
 
 [![Nintendo - Amiibo Smash Roy](https://images-eu.ssl-images-amazon.com/images/I/518KGAkvg0L._SL200_.jpg)](https://www.amazon.es/dp/B019MOC73W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B019MOC73W/?tag=tolees-21)

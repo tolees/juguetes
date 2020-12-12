@@ -22,7 +22,7 @@ Ahora mismo tienes [PDP - Mando Blanco Licenciado Nueva  Xbox One ](https://www.
 
 [![PDP - Mando Blanco Licenciado Nueva  Xbo](https://images-eu.ssl-images-amazon.com/images/I/41npEE1g3oL._SL200_.jpg)](https://www.amazon.es/dp/B073X52MKT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073X52MKT/?tag=tolees-21)

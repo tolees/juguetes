@@ -22,7 +22,7 @@ Ahora mismo tienes [Shining Resonance Refrain - Draconic Launch Edition- Xbox On
 
 [![Shining Resonance Refrain - Draconic Lau](https://images-eu.ssl-images-amazon.com/images/I/617brWZBuVL._SL200_.jpg)](https://www.amazon.es/dp/B07BBBX4RF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BBBX4RF/?tag=tolees-21)

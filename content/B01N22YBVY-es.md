@@ -22,7 +22,7 @@ Ahora mismo tienes [Power A - Hybrid Cover  Nintendo Switch ](https://www.amazon
 
 [![Power A - Hybrid Cover  Nintendo Switch ](https://images-eu.ssl-images-amazon.com/images/I/41qM-%2BESBAL._SL200_.jpg)](https://www.amazon.es/dp/B01N22YBVY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N22YBVY/?tag=tolees-21)

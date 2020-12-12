@@ -22,7 +22,7 @@ Ahora mismo tienes [Medieval Castle 3D Puzzle](https://www.amazon.es/dp/B01B1TIQ
 
 [![Medieval Castle 3D Puzzle](https://images-eu.ssl-images-amazon.com/images/I/51pAiEhWZsL._SL200_.jpg)](https://www.amazon.es/dp/B01B1TIQN6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01B1TIQN6/?tag=tolees-21)

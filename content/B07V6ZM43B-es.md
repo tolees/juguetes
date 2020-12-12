@@ -22,7 +22,7 @@ Ahora mismo tienes [Goldyqin Ciclismo Bicicleta Cadena de Cadena Cadena Protecto
 
 [![Goldyqin Ciclismo Bicicleta Cadena de Ca](https://images-eu.ssl-images-amazon.com/images/I/31mEq2hSMOL._SL200_.jpg)](https://www.amazon.es/dp/B07V6ZM43B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07V6ZM43B/?tag=tolees-21)

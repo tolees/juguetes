@@ -22,7 +22,7 @@ Ahora mismo tienes [Yizhet 2uds neopreno manguito protector para vaina inferior 
 
 [![Yizhet 2uds neopreno manguito protector ](https://images-eu.ssl-images-amazon.com/images/I/41LNmVz4R-L._SL200_.jpg)](https://www.amazon.es/dp/B01LO70UXO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LO70UXO/?tag=tolees-21)

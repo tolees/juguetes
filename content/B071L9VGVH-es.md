@@ -22,7 +22,7 @@ Ahora mismo tienes [yoptote Laberinto de Cuentas Juguetes de Madera Juego de Mon
 
 [![yoptote Laberinto de Cuentas Juguetes de](https://images-eu.ssl-images-amazon.com/images/I/51lGQLQr-HL._SL200_.jpg)](https://www.amazon.es/dp/B071L9VGVH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071L9VGVH/?tag=tolees-21)

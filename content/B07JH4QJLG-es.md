@@ -22,7 +22,7 @@ Ahora mismo tienes [Universal MTB Ciclismo Bicicleta Bicicleta Línea de Cable d
 
 [![Universal MTB Ciclismo Bicicleta Bicicle](https://images-eu.ssl-images-amazon.com/images/I/41ujy0SAM3L._SL200_.jpg)](https://www.amazon.es/dp/B07JH4QJLG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JH4QJLG/?tag=tolees-21)

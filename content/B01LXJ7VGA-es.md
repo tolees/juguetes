@@ -22,7 +22,7 @@ Ahora mismo tienes [Cefa Toys Clan Smartwatch Color Azul Talla única 109](https
 
 [![Cefa Toys Clan Smartwatch Color Azul Tal](https://images-eu.ssl-images-amazon.com/images/I/51Q%2Bi-cqO6L._SL200_.jpg)](https://www.amazon.es/dp/B01LXJ7VGA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LXJ7VGA/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Enkeeo - Bicicleta sin Pedal de 10 ″ con Timbre y Freno de
 
 [![Enkeeo - Bicicleta sin Pedal de 10 ″ con](https://images-eu.ssl-images-amazon.com/images/I/41DYDmJvHNL._SL200_.jpg)](https://www.amazon.es/dp/B07P4DNWLS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07P4DNWLS/?tag=tolees-21)

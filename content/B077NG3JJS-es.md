@@ -22,7 +22,7 @@ Ahora mismo tienes [Hot Wheels Mattel FRN33  Vehículo Básico 50 Aniversario  C
 
 [![Hot Wheels Mattel FRN33  Vehículo Básico](https://images-eu.ssl-images-amazon.com/images/I/410f5F9uS5L._SL200_.jpg)](https://www.amazon.es/dp/B077NG3JJS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NG3JJS/?tag=tolees-21)

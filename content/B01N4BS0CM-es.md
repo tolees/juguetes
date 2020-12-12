@@ -22,7 +22,7 @@ Ahora mismo tienes [Monopoly Valencia CF](https://www.amazon.es/dp/B01N4BS0CM/?t
 
 [![Monopoly Valencia CF](https://images-eu.ssl-images-amazon.com/images/I/513%2BioXJQ8L._SL200_.jpg)](https://www.amazon.es/dp/B01N4BS0CM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4BS0CM/?tag=tolees-21)

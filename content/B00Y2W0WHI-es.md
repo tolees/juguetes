@@ -22,7 +22,7 @@ Ahora mismo tienes [Warner Bros. Interactive Spain  VG  Lego Dimensions - DC Sup
 
 [![Warner Bros. Interactive Spain  VG  Lego](https://images-eu.ssl-images-amazon.com/images/I/51WumDbytfL._SL200_.jpg)](https://www.amazon.es/dp/B00Y2W0WHI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00Y2W0WHI/?tag=tolees-21)

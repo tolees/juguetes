@@ -22,7 +22,7 @@ Ahora mismo tienes [Wireless Mandos para Nintendo Switch  Anpreme Nintendo Switc
 
 [![Wireless Mandos para Nintendo Switch  An](https://images-eu.ssl-images-amazon.com/images/I/41m6PrA8RqL._SL200_.jpg)](https://www.amazon.es/dp/B07GPNQC1M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GPNQC1M/?tag=tolees-21)

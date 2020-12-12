@@ -22,7 +22,7 @@ Ahora mismo tienes [DoreenBow - Juego de 3 herramientas de extracción de destor
 
 [![DoreenBow - Juego de 3 herramientas de e](https://images-eu.ssl-images-amazon.com/images/I/31XEHi9ByBL._SL200_.jpg)](https://www.amazon.es/dp/B07P55ZTXW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07P55ZTXW/?tag=tolees-21)

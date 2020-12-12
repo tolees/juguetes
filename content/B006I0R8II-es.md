@@ -22,7 +22,7 @@ Ahora mismo tienes [LAMAZE - Espiral de actividades  TOMY 30697142 ](https://www
 
 [![LAMAZE - Espiral de actividades  TOMY 30](https://images-eu.ssl-images-amazon.com/images/I/51jpAkPzxWL._SL200_.jpg)](https://www.amazon.es/dp/B006I0R8II/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B006I0R8II/?tag=tolees-21)

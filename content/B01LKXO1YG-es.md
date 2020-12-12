@@ -22,7 +22,7 @@ Ahora mismo tienes [Giro Switchblade Mips – Casco para bicicleta  Negro  Mat
 
 [![Giro Switchblade Mips – Casco para bicic](https://images-eu.ssl-images-amazon.com/images/I/51YGuvoYOiL._SL200_.jpg)](https://www.amazon.es/dp/B01LKXO1YG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LKXO1YG/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO Batman equipaje  color rosso 14.4cm](https://www.amazon
 
 [![LEGO Batman equipaje  color rosso 14.4cm](https://images-eu.ssl-images-amazon.com/images/I/41Qosb9w8NL._SL200_.jpg)](https://www.amazon.es/dp/B01M2Z8KIA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M2Z8KIA/?tag=tolees-21)

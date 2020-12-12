@@ -22,7 +22,7 @@ Ahora mismo tienes [Bomba de Bicicleta  ID MAX Portátil Mini Bicicleta Bomba pi
 
 [![Bomba de Bicicleta  ID MAX Portátil Mini](https://images-eu.ssl-images-amazon.com/images/I/416CroHPHGL._SL200_.jpg)](https://www.amazon.es/dp/B07KFY1TTP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KFY1TTP/?tag=tolees-21)

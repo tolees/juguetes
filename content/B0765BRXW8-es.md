@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO BrickHeadz - Owen And Blue  41614 ](https://www.amazon.
 
 [![LEGO BrickHeadz - Owen And Blue  41614 ](https://images-eu.ssl-images-amazon.com/images/I/5114xRh1T6L._SL200_.jpg)](https://www.amazon.es/dp/B0765BRXW8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0765BRXW8/?tag=tolees-21)

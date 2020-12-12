@@ -22,7 +22,7 @@ Ahora mismo tienes [Mando controller para Nintendo Switch  con cable  Atlético 
 
 [![Mando controller para Nintendo Switch  c](https://images-eu.ssl-images-amazon.com/images/I/41tbKMHIt1L._SL200_.jpg)](https://www.amazon.es/dp/B07G9XC1NJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G9XC1NJ/?tag=tolees-21)

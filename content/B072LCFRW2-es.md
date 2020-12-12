@@ -22,7 +22,7 @@ Ahora mismo tienes [Tadeo Jones - Walkie Talkie  Cefa Toys 04610 ](https://www.a
 
 [![Tadeo Jones - Walkie Talkie  Cefa Toys 0](https://images-eu.ssl-images-amazon.com/images/I/413Y44kt-tL._SL200_.jpg)](https://www.amazon.es/dp/B072LCFRW2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072LCFRW2/?tag=tolees-21)

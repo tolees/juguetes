@@ -22,7 +22,7 @@ Ahora mismo tienes [Educa Borrás - Star Wars Kylo Ren Puzzle 3D  17333 ](https:
 
 [![Educa Borrás - Star Wars Kylo Ren Puzzle](https://images-eu.ssl-images-amazon.com/images/I/61fE%2B1gJhYL._SL200_.jpg)](https://www.amazon.es/dp/B072C2CMD6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072C2CMD6/?tag=tolees-21)
