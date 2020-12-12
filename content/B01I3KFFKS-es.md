@@ -25,9 +25,9 @@ Está [Ravensburger 12528 Porsche 911 - Puzzle 3D](https://www.amazon.es/dp/B01I
 ℹ️:
 
 - Puzzle de plástico de 108 piezas de alta calidad.
-- El puzzle acabado mide 25,1 x 10,3 x 7,3 cm cuando está completo.
 - A partir de 10 años.
 - Cualquier persona que tenga un lugar suave para el buscado Porsche 911 R no podrá resistir este modelo élite.
+- El puzzle acabado mide 25,1 x 10,3 x 7,3 cm cuando está completo.
 - Este rompecabezas utiliza piezas de plástico únicas, que se unen para construir este modelo robusto y fuerte.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01I3KFFKS/?tag=tolees-21)
