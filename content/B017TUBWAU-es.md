@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf - Modulus Recon Mk11  Hasbro B4616E al 34.78 % de descuento'
-date: 2020-12-04 15:47:33
+date: 2020-12-12 19:54:32
 image: 'https://m.media-amazon.com/images/I/41VTLIC28EL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,13 @@ Ahora mismo tienes [Nerf - Modulus Recon Mk11  Hasbro B4616EU4 ](https://www.ama
 
 [![Nerf - Modulus Recon Mk11  Hasbro B4616E](https://m.media-amazon.com/images/I/41VTLIC28EL._SL200_.jpg)](https://www.amazon.es/dp/B017TUBWAU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Lanzador 4 en 1
+- Lanza dardos hasta 27 metros
+- Incluye cargador para 6 dardos y 6 dardos Elite
+- El precio más bajo de los últimos 30 días ha sido: 27.99 euros
+- Compatible con todos los accesorios Modulus de Nerf
+- Customizable con cañón de proximidad y culata
 
 [Visítala!!!](https://www.amazon.es/dp/B017TUBWAU/?tag=tolees-21)

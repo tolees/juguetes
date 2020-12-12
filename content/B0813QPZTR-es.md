@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.34 % en LEGO- City Carrera Aérea Airport Aeropue'
-date: 2020-12-11 17:39:03
+date: 2020-12-12 19:12:12
 image: 'https://m.media-amazon.com/images/I/51tIVM6DFSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,15 +24,15 @@ Tienes [LEGO- City Carrera Aérea Airport Aeropuerto  Set Helicópteros Incorpor
 
 ℹ️:
 
-- Los sets LEGO City Aeropuerto incluyen edificios con numerosos detalles de gran realismo, impresionantes vehículos y divertidos personajes que estimulan el juego de interpretación imaginativo.
+- Escanea el código QR que aparece en las instrucciones de construcción para ver la guía en video.
+- El set LEGO City Carrera Aérea incluye 2 helicópteros de juguete con cable de lanzamiento, un avión acrobático, 2 pilones que marcan el inicio del recorrido y 3 minifiguras: Rivera, el personaje de la serie para televisión LEGO City Adventures, y los pilotos de Xtreme y Vitarush de LEGO City.
+- El set de construcción inspirado en una carrera aérea no necesita pilas: se alimenta de la imaginación de los niños. ¿Necesitas ayuda para lanzar los helicópteros
+- Tu peque puede lanzar al aire los helicópteros con el cable. El avión acrobático y los helicópteros de juguete están equipados con cabinas abatibles con espacio para 1 de las 3 minifiguras de pilotos incluidas en este set de construcción inspirado en un aeropuerto.
 - Este set inspirado en una carrera aérea viene con una sencilla guía de construcción y la experiencia Instructions PLUS: una guía de construcción interactiva que ayuda a los peques a convertirse en verdaderos maestros constructores. Forma parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes.
 - El avión acrobático de juguete mide aproximadamente 8 cm de altura, 20 cm de longitud y 20 cm de anchura; cada helicóptero con cable de lanzamiento mide aproximadamente 7 cm de altura, 18 cm de longitud y 12 cm de anchura.
-- El set LEGO City Carrera Aérea incluye 2 helicópteros de juguete con cable de lanzamiento, un avión acrobático, 2 pilones que marcan el inicio del recorrido y 3 minifiguras: Rivera, el personaje de la serie para televisión LEGO City Adventures, y los pilotos de Xtreme y Vitarush de LEGO City.
 - ¿Qué contiene la caja
-- Escanea el código QR que aparece en las instrucciones de construcción para ver la guía en video.
-- Tu peque puede lanzar al aire los helicópteros con el cable. El avión acrobático y los helicópteros de juguete están equipados con cabinas abatibles con espacio para 1 de las 3 minifiguras de pilotos incluidas en este set de construcción inspirado en un aeropuerto.
-- El set de construcción inspirado en una carrera aérea no necesita pilas: se alimenta de la imaginación de los niños. ¿Necesitas ayuda para lanzar los helicópteros
-- El set de juego LEGO City Carrera Aérea (60260) es fantástico para regalárselo por Navidad, por su cumpleaños o en cualquier otra ocasión a peques a partir de 5 años y a niños y niñas que adoran los vehículos de juguete. Solo se requieren habilidades de construcción muy básicas.
+- Los sets LEGO City Aeropuerto incluyen edificios con numerosos detalles de gran realismo, impresionantes vehículos y divertidos personajes que estimulan el juego de interpretación imaginativo.
 - Da alas a la imaginación de tu peque con el set de juego LEGO City Carrera Aérea, compuesto por varios vehículos (como 2 helicópteros de juguete con cable de lanzamiento que vuelan), 3 minifiguras (entre ellas Rivera, el personaje de la serie para televisión LEGO City Adventures), ¡y mucho más!
+- El set de juego LEGO City Carrera Aérea (60260) es fantástico para regalárselo por Navidad, por su cumpleaños o en cualquier otra ocasión a peques a partir de 5 años y a niños y niñas que adoran los vehículos de juguete. Solo se requieren habilidades de construcción muy básicas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0813QPZTR/?tag=tolees-21)
