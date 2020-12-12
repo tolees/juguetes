@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.67 % en Disco Duro Externo 2tb Portátil 2.5"  US'
 date: 2020-10-30 04:39:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Disco Duro Externo 2tb Portátil 2.5"  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  2tb  Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08L7BLBPF/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'Disco Duro Externo 2tb Portátil 2.5"  US'
 ---
 
 Tienes [Disco Duro Externo 2tb Portátil 2.5"  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  2tb  Azul ](https://www.amazon.es/dp/B08L7BLBPF/?tag=tolees-21) con un 46.67 % de descuento con precio de oferta de 63.99 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![Disco Duro Externo 2tb Portátil 2.5"  US](https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg)](https://www.amazon.es/dp/B08L7BLBPF/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08L7BLBPF/?tag=tolees-21)
 

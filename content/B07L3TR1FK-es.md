@@ -3,6 +3,7 @@ layout: post
 title: 'Educa Borras - Serie World Heritage  Puz al 45.16 % de descuento'
 date: 2020-12-02 12:54:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/517KesiV4rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517KesiV4rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517KesiV4rL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Educa Borras - Serie World Heritage  Puzzle 1.000 piezas  Catedral de San Basilio  Moscú  17998 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3TR1FK/?tag=tolees-21'
+descuento: '45.16'
+titulo: 'Educa Borras - Serie World Heritage  Puz'
 ---
 
 Ahora mismo tienes [Educa Borras - Serie World Heritage  Puzzle 1.000 piezas  Catedral de San Basilio  Moscú  17998 ](https://www.amazon.es/dp/B07L3TR1FK/?tag=tolees-21) a 7.65 EUR (original: 13.95 EUR) (45.16 %  de descuento) en el siguiente enlace!
 
 [![Educa Borras - Serie World Heritage  Puz](https://m.media-amazon.com/images/I/517KesiV4rL._SL200_.jpg)](https://www.amazon.es/dp/B07L3TR1FK/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07L3TR1FK/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Devir- Ratzzia  el Juego de Mesa  Multic al 36.19 % de descuento'
 date: 2020-12-02 17:59:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Bk7amOd8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Bk7amOd8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Bk7amOd8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 23.49 EUR
 inStock: true
 prodname: 'Devir- Ratzzia  el Juego de Mesa  Multicolor  1 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B082MQKDT3/?tag=tolees-21'
+descuento: '36.19'
+titulo: 'Devir- Ratzzia  el Juego de Mesa  Multic'
 ---
 
 Está [Devir- Ratzzia  el Juego de Mesa  Multicolor  1 ](https://www.amazon.es/dp/B082MQKDT3/?tag=tolees-21) con 36.19 de descuento por 14.99 EUR (original: 23.49 EUR) en el siguiente enlace!
 
 [![Devir- Ratzzia  el Juego de Mesa  Multic](https://m.media-amazon.com/images/I/41Bk7amOd8L._SL200_.jpg)](https://www.amazon.es/dp/B082MQKDT3/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082MQKDT3/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Devir - Exit: La estación polar  Ed. Esp al 25.27 % de descuento'
 date: 2020-10-26 21:08:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Gd+NZu8bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Gd+NZu8bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Gd+NZu8bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.0 EUR
 inStock: true
 prodname: 'Devir - Exit: La estación polar  Ed. Español  BGEXIT6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPYL7MR/?tag=tolees-21'
+descuento: '25.27'
+titulo: 'Devir - Exit: La estación polar  Ed. Esp'
 ---
 
 Ahora mismo tienes [Devir - Exit: La estación polar  Ed. Español  BGEXIT6 ](https://www.amazon.es/dp/B07CPYL7MR/?tag=tolees-21) a 11.21 EUR (original: 15.0 EUR) (25.27 %  de descuento) en el siguiente enlace!
 
 [![Devir - Exit: La estación polar  Ed. Esp](https://m.media-amazon.com/images/I/51Gd+NZu8bL._SL200_.jpg)](https://www.amazon.es/dp/B07CPYL7MR/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07CPYL7MR/?tag=tolees-21)
 

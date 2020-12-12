@@ -3,6 +3,7 @@ layout: post
 title: 'Hasbro Gaming Monopoly Juego de Viaje  v al 56.20 % de descuento'
 date: 2020-12-11 08:47:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZE3RURucL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZE3RURucL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZE3RURucL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.33 EUR
 inStock: true
 prodname: 'Hasbro Gaming Monopoly Juego de Viaje  versión española  B1002105 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00STL70OG/?tag=tolees-21'
+descuento: '56.20'
+titulo: 'Hasbro Gaming Monopoly Juego de Viaje  v'
 ---
 
 Está [Hasbro Gaming Monopoly Juego de Viaje  versión española  B1002105 ](https://www.amazon.es/dp/B00STL70OG/?tag=tolees-21) con 56.20 de descuento por 7.59 EUR (original: 17.33 EUR) en el siguiente enlace!

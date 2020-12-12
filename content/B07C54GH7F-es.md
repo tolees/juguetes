@@ -3,6 +3,7 @@ layout: post
 title: 'Trust Gaming GXT 242 Lance - Micrófono c al 35.72 % de descuento'
 date: 2020-11-20 15:10:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RJIXQ25fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RJIXQ25fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RJIXQ25fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Trust Gaming GXT 242 Lance - Micrófono con trípode para streaming  PC  PS4  PS5 - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C54GH7F/?tag=tolees-21'
+descuento: '35.72'
+titulo: 'Trust Gaming GXT 242 Lance - Micrófono c'
 ---
 
 Ahora mismo tienes [Trust Gaming GXT 242 Lance - Micrófono con trípode para streaming  PC  PS4  PS5 - Negro](https://www.amazon.es/dp/B07C54GH7F/?tag=tolees-21) a 44.99 EUR (original: 69.99 EUR) (35.72 %  de descuento) en el siguiente enlace!
 
 [![Trust Gaming GXT 242 Lance - Micrófono c](https://m.media-amazon.com/images/I/41RJIXQ25fL._SL200_.jpg)](https://www.amazon.es/dp/B07C54GH7F/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07C54GH7F/?tag=tolees-21)
 

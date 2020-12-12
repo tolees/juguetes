@@ -3,6 +3,7 @@ layout: post
 title: 'Ardistel - Game Traveler Deluxe Travel C al 34.89 % de descuento'
 date: 2020-10-25 16:26:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fia7fuWZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fia7fuWZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fia7fuWZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21'
+descuento: '34.89'
+titulo: 'Ardistel - Game Traveler Deluxe Travel C'
 ---
 
 Está [Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch ](https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21) con 34.89 de descuento por 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![Ardistel - Game Traveler Deluxe Travel C](https://m.media-amazon.com/images/I/51fia7fuWZL._SL200_.jpg)](https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21)
 

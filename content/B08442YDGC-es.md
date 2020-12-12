@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.01 % en Barbie Princess Adventure Princesa Delux'
 date: 2020-12-09 17:23:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mRwqogULL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mRwqogULL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mRwqogULL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Barbie Princess Adventure Princesa Deluxe  muñeca rubia con accesorios  Mattel GML76 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08442YDGC/?tag=tolees-21'
+descuento: '36.01'
+titulo: 'Barbie Princess Adventure Princesa Delux'
 ---
 
 Tienes [Barbie Princess Adventure Princesa Deluxe  muñeca rubia con accesorios  Mattel GML76 ](https://www.amazon.es/dp/B08442YDGC/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![Barbie Princess Adventure Princesa Delux](https://m.media-amazon.com/images/I/41mRwqogULL._SL200_.jpg)](https://www.amazon.es/dp/B08442YDGC/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08442YDGC/?tag=tolees-21)
 

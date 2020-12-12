@@ -3,6 +3,7 @@ layout: post
 title: 'eXtremeRate Carcasa para JoyCons de Nint al 36.22 % de descuento'
 date: 2020-10-27 22:15:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rcfMoKslL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rcfMoKslL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rcfMoKslL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico SFC SNES EU '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08LCZ9HB5/?tag=tolees-21'
+descuento: '36.22'
+titulo: 'eXtremeRate Carcasa para JoyCons de Nint'
 ---
 
 Está [eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Clásico SFC SNES EU ](https://www.amazon.es/dp/B08LCZ9HB5/?tag=tolees-21) con 36.22 de descuento por 18.49 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![eXtremeRate Carcasa para JoyCons de Nint](https://m.media-amazon.com/images/I/41rcfMoKslL._SL200_.jpg)](https://www.amazon.es/dp/B08LCZ9HB5/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08LCZ9HB5/?tag=tolees-21)
 

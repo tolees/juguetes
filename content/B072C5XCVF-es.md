@@ -3,6 +3,7 @@ layout: post
 title: 'Nancy Día de Moto en Londres  Famosa 700 al 36.40 % de descuento'
 date: 2020-11-27 12:07:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51n8OtnUo-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51n8OtnUo-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51n8OtnUo-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Nancy Día de Moto en Londres  Famosa 700013860 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072C5XCVF/?tag=tolees-21'
+descuento: '36.40'
+titulo: 'Nancy Día de Moto en Londres  Famosa 700'
 ---
 
 Ahora mismo tienes [Nancy Día de Moto en Londres  Famosa 700013860 ](https://www.amazon.es/dp/B072C5XCVF/?tag=tolees-21) a 34.95 EUR (original: 54.95 EUR) (36.40 %  de descuento) en el siguiente enlace!
 
 [![Nancy Día de Moto en Londres  Famosa 700](https://m.media-amazon.com/images/I/51n8OtnUo-L._SL200_.jpg)](https://www.amazon.es/dp/B072C5XCVF/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B072C5XCVF/?tag=tolees-21)
 

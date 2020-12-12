@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.92 % en Nintendo Iberica - Figurina Amiibo Inkli'
 date: 2020-11-22 23:42:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CZjaUE3hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CZjaUE3hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CZjaUE3hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Nintendo Iberica - Figurina Amiibo Inkling Chica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQDV2V3/?tag=tolees-21'
+descuento: '34.92'
+titulo: 'Nintendo Iberica - Figurina Amiibo Inkli'
 ---
 
 Tienes [Nintendo Iberica - Figurina Amiibo Inkling Chica](https://www.amazon.es/dp/B07FQDV2V3/?tag=tolees-21) con un 34.92 % de descuento con precio de oferta de 12.95 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![Nintendo Iberica - Figurina Amiibo Inkli](https://m.media-amazon.com/images/I/51CZjaUE3hL._SL200_.jpg)](https://www.amazon.es/dp/B07FQDV2V3/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FQDV2V3/?tag=tolees-21)
 

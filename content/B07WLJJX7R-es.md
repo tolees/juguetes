@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO City Police - Policía: Unidad Canin al 25.03 % de descuento'
 date: 2020-11-28 19:01:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AMX91V2iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AMX91V2iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AMX91V2iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'LEGO City Police - Policía: Unidad Canina  Set de Construcción  Incluye Coche de Policía de Juguete  Agente de Policía y Perro Policía  un Escenario de Joyería  y un Ladrón  60241 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07WLJJX7R/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'LEGO City Police - Policía: Unidad Canin'
 ---
 
 Ahora mismo tienes [LEGO City Police - Policía: Unidad Canina  Set de Construcción  Incluye Coche de Policía de Juguete  Agente de Policía y Perro Policía  un Escenario de Joyería  y un Ladrón  60241 ](https://www.amazon.es/dp/B07WLJJX7R/?tag=tolees-21) a 7.49 EUR (original: 9.99 EUR) (25.03 %  de descuento) en el siguiente enlace!
 
 [![LEGO City Police - Policía: Unidad Canin](https://m.media-amazon.com/images/I/51AMX91V2iL._SL200_.jpg)](https://www.amazon.es/dp/B07WLJJX7R/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07WLJJX7R/?tag=tolees-21)
 

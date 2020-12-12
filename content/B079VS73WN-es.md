@@ -3,6 +3,7 @@ layout: post
 title: 'Hasbro Gaming - Juego infantil Cara Spla al 57.81 % de descuento'
 date: 2020-12-08 13:56:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RV04NRtLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RV04NRtLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RV04NRtLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 32.0 EUR
 inStock: true
 prodname: 'Hasbro Gaming - Juego infantil Cara Splash Boom  Hasbro E1972175    color/modelo surtido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079VS73WN/?tag=tolees-21'
+descuento: '57.81'
+titulo: 'Hasbro Gaming - Juego infantil Cara Spla'
 ---
 
 Ahora mismo tienes [Hasbro Gaming - Juego infantil Cara Splash Boom  Hasbro E1972175    color/modelo surtido](https://www.amazon.es/dp/B079VS73WN/?tag=tolees-21) a 13.5 EUR (original: 32.0 EUR) (57.81 %  de descuento) en el siguiente enlace!
 
 [![Hasbro Gaming - Juego infantil Cara Spla](https://m.media-amazon.com/images/I/51RV04NRtLL._SL200_.jpg)](https://www.amazon.es/dp/B079VS73WN/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B079VS73WN/?tag=tolees-21)
 

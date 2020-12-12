@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.28 % en Furreal Friends Hasbro E0384175 - Ricky '
 date: 2020-11-21 21:34:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YTzrj1jmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YTzrj1jmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YTzrj1jmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Furreal Friends Hasbro E0384175 - Ricky Mi Perrito Listo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DD578PW/?tag=tolees-21'
+descuento: '64.28'
+titulo: 'Furreal Friends Hasbro E0384175 - Ricky '
 ---
 
 Tienes [Furreal Friends Hasbro E0384175 - Ricky Mi Perrito Listo](https://www.amazon.es/dp/B07DD578PW/?tag=tolees-21) con un 64.28 % de descuento con precio de oferta de 49.99 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![Furreal Friends Hasbro E0384175 - Ricky ](https://m.media-amazon.com/images/I/41YTzrj1jmL._SL200_.jpg)](https://www.amazon.es/dp/B07DD578PW/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DD578PW/?tag=tolees-21)
 

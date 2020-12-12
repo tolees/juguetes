@@ -3,6 +3,7 @@ layout: post
 title: 'Melissa & Doug- Pets Juego Puzzle con 8  al 41.70 % de descuento'
 date: 2020-12-01 08:50:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gThmZJT8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gThmZJT8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gThmZJT8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Melissa & Doug- Pets Juego Puzzle con 8 Piezas  Multicolor  Melissa&Doug 13724    color/modelo surtido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0015XYV2E/?tag=tolees-21'
+descuento: '41.70'
+titulo: 'Melissa & Doug- Pets Juego Puzzle con 8 '
 ---
 
 Ahora mismo tienes [Melissa & Doug- Pets Juego Puzzle con 8 Piezas  Multicolor  Melissa&Doug 13724    color/modelo surtido](https://www.amazon.es/dp/B0015XYV2E/?tag=tolees-21) a 6.99 EUR (original: 11.99 EUR) (41.70 %  de descuento) en el siguiente enlace!
 
 [![Melissa & Doug- Pets Juego Puzzle con 8 ](https://m.media-amazon.com/images/I/51gThmZJT8L._SL200_.jpg)](https://www.amazon.es/dp/B0015XYV2E/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0015XYV2E/?tag=tolees-21)
 

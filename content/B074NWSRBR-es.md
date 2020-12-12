@@ -3,6 +3,7 @@ layout: post
 title: 'CubicFun Puzzle 3D Londres Tower Bridge  al 36.02 % de descuento'
 date: 2020-11-10 13:45:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i0PiEhOEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51i0PiEhOEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i0PiEhOEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'CubicFun Puzzle 3D Londres Tower Bridge  con National Geographic Folleto de Fotografía  120 Piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074NWSRBR/?tag=tolees-21'
+descuento: '36.02'
+titulo: 'CubicFun Puzzle 3D Londres Tower Bridge '
 ---
 
 Ahora mismo tienes [CubicFun Puzzle 3D Londres Tower Bridge  con National Geographic Folleto de Fotografía  120 Piezas](https://www.amazon.es/dp/B074NWSRBR/?tag=tolees-21) a 12.79 EUR (original: 19.99 EUR) (36.02 %  de descuento) en el siguiente enlace!
 
 [![CubicFun Puzzle 3D Londres Tower Bridge ](https://m.media-amazon.com/images/I/51i0PiEhOEL._SL200_.jpg)](https://www.amazon.es/dp/B074NWSRBR/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B074NWSRBR/?tag=tolees-21)
 

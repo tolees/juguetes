@@ -3,6 +3,7 @@ layout: post
 title: 'Barbie - Muñeca y Moto Scooter de juguet al 33.48 % de descuento'
 date: 2020-10-16 14:01:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZoQsjRzKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZoQsjRzKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZoQsjRzKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Barbie - Muñeca y Moto Scooter de juguete con accesorios  Mattel GBK85 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NGYK4B8/?tag=tolees-21'
+descuento: '33.48'
+titulo: 'Barbie - Muñeca y Moto Scooter de juguet'
 ---
 
 Está [Barbie - Muñeca y Moto Scooter de juguete con accesorios  Mattel GBK85 ](https://www.amazon.es/dp/B07NGYK4B8/?tag=tolees-21) con 33.48 de descuento por 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Barbie - Muñeca y Moto Scooter de juguet](https://m.media-amazon.com/images/I/41ZoQsjRzKL._SL200_.jpg)](https://www.amazon.es/dp/B07NGYK4B8/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NGYK4B8/?tag=tolees-21)
 

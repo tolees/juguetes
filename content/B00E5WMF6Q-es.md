@@ -3,6 +3,7 @@ layout: post
 title: 'Mattel Games Scrabble junior  juegos de  al 30.01 % de descuento'
 date: 2020-12-07 22:30:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/510+0cORHcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510+0cORHcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510+0cORHcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Mattel Games Scrabble junior  juegos de mesa para niños  Mattel Y9669 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00E5WMF6Q/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Mattel Games Scrabble junior  juegos de '
 ---
 
 Ahora mismo tienes [Mattel Games Scrabble junior  juegos de mesa para niños  Mattel Y9669 ](https://www.amazon.es/dp/B00E5WMF6Q/?tag=tolees-21) a 17.49 EUR (original: 24.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![Mattel Games Scrabble junior  juegos de ](https://m.media-amazon.com/images/I/510+0cORHcL._SL200_.jpg)](https://www.amazon.es/dp/B00E5WMF6Q/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00E5WMF6Q/?tag=tolees-21)
 

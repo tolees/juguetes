@@ -3,6 +3,7 @@ layout: post
 title: 'Baztoy Coche Teledirigido  Coche Radioco al 33.93 % de descuento'
 date: 2020-12-04 18:56:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zKC4L--mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zKC4L--mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zKC4L--mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Baztoy Coche Teledirigido  Coche Radiocontrol para Coche de Acrobacias en la Pared Modos duales Rotación de 360 ° RC Cars Coches de Juguetes para niños Regalos Divertidos Gadgets Geniales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085VSY4KH/?tag=tolees-21'
+descuento: '33.93'
+titulo: 'Baztoy Coche Teledirigido  Coche Radioco'
 ---
 
 Ahora mismo tienes [Baztoy Coche Teledirigido  Coche Radiocontrol para Coche de Acrobacias en la Pared Modos duales Rotación de 360 ° RC Cars Coches de Juguetes para niños Regalos Divertidos Gadgets Geniales](https://www.amazon.es/dp/B085VSY4KH/?tag=tolees-21) a 15.19 EUR (original: 22.99 EUR) (33.93 %  de descuento) en el siguiente enlace!
 
 [![Baztoy Coche Teledirigido  Coche Radioco](https://m.media-amazon.com/images/I/51zKC4L--mL._SL200_.jpg)](https://www.amazon.es/dp/B085VSY4KH/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B085VSY4KH/?tag=tolees-21)
 

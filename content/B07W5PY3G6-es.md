@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.03 % en LEGO City Fire - Incendio en el Bosque  '
 date: 2020-12-01 07:19:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51B58HzPvTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51B58HzPvTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51B58HzPvTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'LEGO City Fire - Incendio en el Bosque  Set de Construcción  Incluye un Buggy con Cañón de Agua de Juguete  una Minifigura de Bombero y un Búho  a Partir de 5 Años  60247 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W5PY3G6/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'LEGO City Fire - Incendio en el Bosque  '
 ---
 
 Tienes [LEGO City Fire - Incendio en el Bosque  Set de Construcción  Incluye un Buggy con Cañón de Agua de Juguete  una Minifigura de Bombero y un Búho  a Partir de 5 Años  60247 ](https://www.amazon.es/dp/B07W5PY3G6/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 7.49 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![LEGO City Fire - Incendio en el Bosque  ](https://m.media-amazon.com/images/I/51B58HzPvTL._SL200_.jpg)](https://www.amazon.es/dp/B07W5PY3G6/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07W5PY3G6/?tag=tolees-21)
 

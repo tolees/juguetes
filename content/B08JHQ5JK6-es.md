@@ -3,6 +3,7 @@ layout: post
 title: 'Disco Duro Externo 2tb Type C USB 3.1 pa al 46.67 % de descuento'
 date: 2020-11-01 17:17:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/414vi2D8VdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414vi2D8VdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414vi2D8VdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Disco Duro Externo 2tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Rojo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08JHQ5JK6/?tag=tolees-21'
+descuento: '46.67'
+titulo: 'Disco Duro Externo 2tb Type C USB 3.1 pa'
 ---
 
 Está [Disco Duro Externo 2tb Type C USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Rojo ](https://www.amazon.es/dp/B08JHQ5JK6/?tag=tolees-21) con 46.67 de descuento por 63.99 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![Disco Duro Externo 2tb Type C USB 3.1 pa](https://m.media-amazon.com/images/I/414vi2D8VdL._SL200_.jpg)](https://www.amazon.es/dp/B08JHQ5JK6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08JHQ5JK6/?tag=tolees-21)
 

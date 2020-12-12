@@ -3,6 +3,7 @@ layout: post
 title: 'Asmodee- Juego de Cartas Contrast.  ADEP al 46.10 % de descuento'
 date: 2020-12-05 08:20:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/519mZ9cwaTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519mZ9cwaTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519mZ9cwaTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Asmodee- Juego de Cartas Contrast.  ADEPMCT0001 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076P1XN2M/?tag=tolees-21'
+descuento: '46.10'
+titulo: 'Asmodee- Juego de Cartas Contrast.  ADEP'
 ---
 
 Está [Asmodee- Juego de Cartas Contrast.  ADEPMCT0001 ](https://www.amazon.es/dp/B076P1XN2M/?tag=tolees-21) con 46.10 de descuento por 8.08 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Asmodee- Juego de Cartas Contrast.  ADEP](https://m.media-amazon.com/images/I/519mZ9cwaTL._SL200_.jpg)](https://www.amazon.es/dp/B076P1XN2M/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076P1XN2M/?tag=tolees-21)
 

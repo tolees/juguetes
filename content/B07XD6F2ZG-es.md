@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.01 % en Barbie Collector  muñeca de colección de'
 date: 2020-10-19 13:19:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Z4YaU36HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Z4YaU36HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Z4YaU36HL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Barbie Collector  muñeca de colección de Cumpleaños Birthday Wishes  Mattel  GHT42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XD6F2ZG/?tag=tolees-21'
+descuento: '28.01'
+titulo: 'Barbie Collector  muñeca de colección de'
 ---
 
 Tienes [Barbie Collector  muñeca de colección de Cumpleaños Birthday Wishes  Mattel  GHT42 ](https://www.amazon.es/dp/B07XD6F2ZG/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Barbie Collector  muñeca de colección de](https://m.media-amazon.com/images/I/31Z4YaU36HL._SL200_.jpg)](https://www.amazon.es/dp/B07XD6F2ZG/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XD6F2ZG/?tag=tolees-21)
 

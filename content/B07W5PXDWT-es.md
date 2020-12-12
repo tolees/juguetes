@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.03 % en LEGO City Great Vehicles - Barredora Urb'
 date: 2020-12-01 07:09:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51L2foy5UDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51L2foy5UDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51L2foy5UDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'LEGO City Great Vehicles - Barredora Urbana  Juguete de Construcción desde 5 Años  con una Minifigura de Conductor para el Camión  Juguete Ciudad de Lego  60249 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W5PXDWT/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'LEGO City Great Vehicles - Barredora Urb'
 ---
 
 Tienes [LEGO City Great Vehicles - Barredora Urbana  Juguete de Construcción desde 5 Años  con una Minifigura de Conductor para el Camión  Juguete Ciudad de Lego  60249 ](https://www.amazon.es/dp/B07W5PXDWT/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 7.49 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![LEGO City Great Vehicles - Barredora Urb](https://m.media-amazon.com/images/I/51L2foy5UDL._SL200_.jpg)](https://www.amazon.es/dp/B07W5PXDWT/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07W5PXDWT/?tag=tolees-21)
 

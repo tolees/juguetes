@@ -3,6 +3,7 @@ layout: post
 title: 'HORI - Estuche de juegos negro  Nintendo al 42.77 % de descuento'
 date: 2020-12-06 12:16:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gUnbt9OVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gUnbt9OVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gUnbt9OVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'HORI - Estuche de juegos negro  Nintendo Switch '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NASY99Z/?tag=tolees-21'
+descuento: '42.77'
+titulo: 'HORI - Estuche de juegos negro  Nintendo'
 ---
 
 Está [HORI - Estuche de juegos negro  Nintendo Switch ](https://www.amazon.es/dp/B01NASY99Z/?tag=tolees-21) con 42.77 de descuento por 6.29 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![HORI - Estuche de juegos negro  Nintendo](https://m.media-amazon.com/images/I/41gUnbt9OVL._SL200_.jpg)](https://www.amazon.es/dp/B01NASY99Z/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NASY99Z/?tag=tolees-21)
 

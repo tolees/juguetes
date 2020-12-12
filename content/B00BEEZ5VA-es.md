@@ -3,6 +3,7 @@ layout: post
 title: 'VTech - Juego para Tablet Educativo  Sto al 56.50 % de descuento'
 date: 2020-12-09 19:31:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/61G65uJzj8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61G65uJzj8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61G65uJzj8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'VTech - Juego para Tablet Educativo  Storio  Jake y los Piratas  3480-231622 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BEEZ5VA/?tag=tolees-21'
+descuento: '56.50'
+titulo: 'VTech - Juego para Tablet Educativo  Sto'
 ---
 
 Ahora mismo tienes [VTech - Juego para Tablet Educativo  Storio  Jake y los Piratas  3480-231622 ](https://www.amazon.es/dp/B00BEEZ5VA/?tag=tolees-21) a 10.87 EUR (original: 24.99 EUR) (56.50 %  de descuento) en el siguiente enlace!
 
 [![VTech - Juego para Tablet Educativo  Sto](https://m.media-amazon.com/images/I/61G65uJzj8L._SL200_.jpg)](https://www.amazon.es/dp/B00BEEZ5VA/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00BEEZ5VA/?tag=tolees-21)
 

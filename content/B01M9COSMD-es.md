@@ -3,6 +3,7 @@ layout: post
 title: 'Red Dead Redemption 2  PS4  al 64.29 % de descuento'
 date: 2020-12-02 20:39:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HXRsezm8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HXRsezm8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HXRsezm8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Red Dead Redemption 2  PS4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21'
+descuento: '64.29'
+titulo: 'Red Dead Redemption 2  PS4 '
 ---
 
 Está [Red Dead Redemption 2  PS4 ](https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21) con 64.29 de descuento por 24.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Red Dead Redemption 2  PS4 ](https://m.media-amazon.com/images/I/51HXRsezm8L._SL200_.jpg)](https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21)
 

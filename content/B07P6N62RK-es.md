@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.62 % en Mega Bloks Caja de 100 bloques de constr'
 date: 2020-11-01 18:10:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DIx0mfxFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DIx0mfxFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DIx0mfxFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Mega Bloks Caja de 100 bloques de construcción  juguetes niños +2 años  Mattel GJD21 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P6N62RK/?tag=tolees-21'
+descuento: '30.62'
+titulo: 'Mega Bloks Caja de 100 bloques de constr'
 ---
 
 Tienes [Mega Bloks Caja de 100 bloques de construcción  juguetes niños +2 años  Mattel GJD21 ](https://www.amazon.es/dp/B07P6N62RK/?tag=tolees-21) con un 30.62 % de descuento con precio de oferta de 15.95 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![Mega Bloks Caja de 100 bloques de constr](https://m.media-amazon.com/images/I/51DIx0mfxFL._SL200_.jpg)](https://www.amazon.es/dp/B07P6N62RK/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P6N62RK/?tag=tolees-21)
 

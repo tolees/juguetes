@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.06 % en Disney Princess Alad Singing Fd  Hasbro '
 date: 2020-12-04 09:30:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51d8IYzi85L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51d8IYzi85L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51d8IYzi85L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Disney Princess Alad Singing Fd  Hasbro E5442EU4 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8HWJRK/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Disney Princess Alad Singing Fd  Hasbro '
 ---
 
 Tienes [Disney Princess Alad Singing Fd  Hasbro E5442EU4 ](https://www.amazon.es/dp/B07M8HWJRK/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 12.48 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![Disney Princess Alad Singing Fd  Hasbro ](https://m.media-amazon.com/images/I/51d8IYzi85L._SL200_.jpg)](https://www.amazon.es/dp/B07M8HWJRK/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M8HWJRK/?tag=tolees-21)
 

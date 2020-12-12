@@ -3,6 +3,7 @@ layout: post
 title: 'Air Hogs Flight Rider Radio Control  BIZ al 49.99 % de descuento'
 date: 2020-11-17 18:30:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+9MKGjMnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+9MKGjMnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+9MKGjMnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Air Hogs Flight Rider Radio Control  BIZAK 61924646 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SPL1MCN/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'Air Hogs Flight Rider Radio Control  BIZ'
 ---
 
 Ahora mismo tienes [Air Hogs Flight Rider Radio Control  BIZAK 61924646 ](https://www.amazon.es/dp/B07SPL1MCN/?tag=tolees-21) a 27.5 EUR (original: 54.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
 [![Air Hogs Flight Rider Radio Control  BIZ](https://m.media-amazon.com/images/I/51+9MKGjMnL._SL200_.jpg)](https://www.amazon.es/dp/B07SPL1MCN/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07SPL1MCN/?tag=tolees-21)
 

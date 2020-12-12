@@ -3,6 +3,7 @@ layout: post
 title: 'KLIMTM Impact V2 Cascos Gaming USB - Son al 56.27 % de descuento'
 date: 2020-11-21 22:32:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I6agF6uML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I6agF6uML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I6agF6uML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.97 EUR
 inStock: true
 prodname: 'KLIMTM Impact V2 Cascos Gaming USB - Sonido Envolvente 7.1 + Aislante de Ruidos - Audio de Alta Definición + Potentes Bajos - Auriculares de Diadema con Micrófono para Videojuegos PC PS4 Versión 2020'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DX1H6TD/?tag=tolees-21'
+descuento: '56.27'
+titulo: 'KLIMTM Impact V2 Cascos Gaming USB - Son'
 ---
 
 Ahora mismo tienes [KLIMTM Impact V2 Cascos Gaming USB - Sonido Envolvente 7.1 + Aislante de Ruidos - Audio de Alta Definición + Potentes Bajos - Auriculares de Diadema con Micrófono para Videojuegos PC PS4 Versión 2020](https://www.amazon.es/dp/B07DX1H6TD/?tag=tolees-21) a 34.97 EUR (original: 79.97 EUR) (56.27 %  de descuento) en el siguiente enlace!
 
 [![KLIMTM Impact V2 Cascos Gaming USB - Son](https://m.media-amazon.com/images/I/41I6agF6uML._SL200_.jpg)](https://www.amazon.es/dp/B07DX1H6TD/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07DX1H6TD/?tag=tolees-21)
 

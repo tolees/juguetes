@@ -3,6 +3,7 @@ layout: post
 title: 'eXtremeRate Carcasa para Mando Xbox Seri al 34.49 % de descuento'
 date: 2020-11-29 11:21:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uxKpMK2OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uxKpMK2OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uxKpMK2OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'eXtremeRate Carcasa para Mando Xbox Series X S Carcasa Delantera+Carcasa de Grip Protector Tacto Suave Empuñadura Agarre Cubierta Shell para Control de Xbox Series S X-No Incluye Mando Rojo Escarlata '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08MVNWGLX/?tag=tolees-21'
+descuento: '34.49'
+titulo: 'eXtremeRate Carcasa para Mando Xbox Seri'
 ---
 
 Ahora mismo tienes [eXtremeRate Carcasa para Mando Xbox Series X S Carcasa Delantera+Carcasa de Grip Protector Tacto Suave Empuñadura Agarre Cubierta Shell para Control de Xbox Series S X-No Incluye Mando Rojo Escarlata ](https://www.amazon.es/dp/B08MVNWGLX/?tag=tolees-21) a 18.99 EUR (original: 28.99 EUR) (34.49 %  de descuento) en el siguiente enlace!
 
 [![eXtremeRate Carcasa para Mando Xbox Seri](https://m.media-amazon.com/images/I/41uxKpMK2OL._SL200_.jpg)](https://www.amazon.es/dp/B08MVNWGLX/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08MVNWGLX/?tag=tolees-21)
 

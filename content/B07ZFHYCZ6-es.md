@@ -3,6 +3,7 @@ layout: post
 title: 'Medievil PS4 al 33.48 % de descuento'
 date: 2020-12-11 18:12:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51M2I5ldH4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M2I5ldH4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51M2I5ldH4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Medievil PS4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZFHYCZ6/?tag=tolees-21'
+descuento: '33.48'
+titulo: 'Medievil PS4'
 ---
 
 Está [Medievil PS4](https://www.amazon.es/dp/B07ZFHYCZ6/?tag=tolees-21) con 33.48 de descuento por 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

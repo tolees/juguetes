@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.51 % en Trust Cascos Gaming GXT 322 Carus Auricu'
 date: 2020-11-19 11:30:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41o9hARzPKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o9hARzPKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41o9hARzPKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Trust Cascos Gaming GXT 322 Carus Auriculares Gamer con Micrófono Flexible y Diadema Ajustable  Cable de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XJ3AQOK/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'Trust Cascos Gaming GXT 322 Carus Auricu'
 ---
 
 Tienes [Trust Cascos Gaming GXT 322 Carus Auriculares Gamer con Micrófono Flexible y Diadema Ajustable  Cable de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Negro](https://www.amazon.es/dp/B00XJ3AQOK/?tag=tolees-21) con un 37.51 % de descuento con precio de oferta de 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Trust Cascos Gaming GXT 322 Carus Auricu](https://m.media-amazon.com/images/I/41o9hARzPKL._SL200_.jpg)](https://www.amazon.es/dp/B00XJ3AQOK/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XJ3AQOK/?tag=tolees-21)
 

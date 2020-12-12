@@ -3,6 +3,7 @@ layout: post
 title: 'REDSTORM Mando para Nintendo Switch  Gam al 32.50 % de descuento'
 date: 2020-12-04 06:17:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ui0uSC7NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ui0uSC7NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ui0uSC7NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.91 EUR
 inStock: true
 prodname: 'REDSTORM Mando para Nintendo Switch  Gamepad inalámbrico Bluetooth Pro Controller para Switch  Sensor de Movimiento de 6 Ejes  Función Turbo  3 Niveles de Vibración  Batería Recargable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08MCCJ8B4/?tag=tolees-21'
+descuento: '32.50'
+titulo: 'REDSTORM Mando para Nintendo Switch  Gam'
 ---
 
 Ahora mismo tienes [REDSTORM Mando para Nintendo Switch  Gamepad inalámbrico Bluetooth Pro Controller para Switch  Sensor de Movimiento de 6 Ejes  Función Turbo  3 Niveles de Vibración  Batería Recargable](https://www.amazon.es/dp/B08MCCJ8B4/?tag=tolees-21) a 30.99 EUR (original: 45.91 EUR) (32.50 %  de descuento) en el siguiente enlace!
 
 [![REDSTORM Mando para Nintendo Switch  Gam](https://m.media-amazon.com/images/I/51Ui0uSC7NL._SL200_.jpg)](https://www.amazon.es/dp/B08MCCJ8B4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08MCCJ8B4/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Friends - Establo de los Potros de  al 25.46 % de descuento'
 date: 2020-11-26 14:39:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'LEGO Friends - Establo de los Potros de Mia  juguete divertido de construcción para aventuras con caballos y mascotas  41361 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNN12NN/?tag=tolees-21'
+descuento: '25.46'
+titulo: 'LEGO Friends - Establo de los Potros de '
 ---
 
 Está [LEGO Friends - Establo de los Potros de Mia  juguete divertido de construcción para aventuras con caballos y mascotas  41361 ](https://www.amazon.es/dp/B07FNN12NN/?tag=tolees-21) con 25.46 de descuento por 14.9 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![LEGO Friends - Establo de los Potros de ](https://m.media-amazon.com/images/I/51eQpfH4QNL._SL200_.jpg)](https://www.amazon.es/dp/B07FNN12NN/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNN12NN/?tag=tolees-21)
 

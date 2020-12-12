@@ -3,6 +3,7 @@ layout: post
 title: 'Lego Marvel Super Heroes 2 - Edición Exc al 30.02 % de descuento'
 date: 2020-11-26 16:40:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gUI6aXNOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gUI6aXNOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gUI6aXNOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lego Marvel Super Heroes 2 - Edición Exclusiva Amazon - Nintendo Switch'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B081T6C8VR/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Lego Marvel Super Heroes 2 - Edición Exc'
 ---
 
 Ahora mismo tienes [Lego Marvel Super Heroes 2 - Edición Exclusiva Amazon - Nintendo Switch](https://www.amazon.es/dp/B081T6C8VR/?tag=tolees-21) a 20.96 EUR (original: 29.95 EUR) (30.02 %  de descuento) en el siguiente enlace!
 
 [![Lego Marvel Super Heroes 2 - Edición Exc](https://m.media-amazon.com/images/I/51gUI6aXNOL._SL200_.jpg)](https://www.amazon.es/dp/B081T6C8VR/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B081T6C8VR/?tag=tolees-21)
 

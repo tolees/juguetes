@@ -3,6 +3,7 @@ layout: post
 title: 'eXtremeRate ThumbsGear Joysticks Ajustab al 40.02 % de descuento'
 date: 2020-12-02 05:56:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DPtahghwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DPtahghwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DPtahghwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'eXtremeRate ThumbsGear Joysticks Ajustable para Mando Playstation 4 PS4 Pro PS4 Slim Joystick Ergonómico con Grip Convexo Cóncavo de 3 Alturas Mate Thumbsticks para PS4 Pro PS4 Slim-Plata Cromo&Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08NPRC6PL/?tag=tolees-21'
+descuento: '40.02'
+titulo: 'eXtremeRate ThumbsGear Joysticks Ajustab'
 ---
 
 Ahora mismo tienes [eXtremeRate ThumbsGear Joysticks Ajustable para Mando Playstation 4 PS4 Pro PS4 Slim Joystick Ergonómico con Grip Convexo Cóncavo de 3 Alturas Mate Thumbsticks para PS4 Pro PS4 Slim-Plata Cromo&Negro](https://www.amazon.es/dp/B08NPRC6PL/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
 
 [![eXtremeRate ThumbsGear Joysticks Ajustab](https://m.media-amazon.com/images/I/41DPtahghwL._SL200_.jpg)](https://www.amazon.es/dp/B08NPRC6PL/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08NPRC6PL/?tag=tolees-21)
 

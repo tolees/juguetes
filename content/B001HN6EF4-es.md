@@ -3,6 +3,7 @@ layout: post
 title: 'Mattel Games UNO H20 To Go  juego de car al 25.89 % de descuento'
 date: 2020-11-27 10:03:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/518k7Jyyw6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518k7Jyyw6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518k7Jyyw6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Mattel Games UNO H20 To Go  juego de cartas  Mattel P1703 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001HN6EF4/?tag=tolees-21'
+descuento: '25.89'
+titulo: 'Mattel Games UNO H20 To Go  juego de car'
 ---
 
 Ahora mismo tienes [Mattel Games UNO H20 To Go  juego de cartas  Mattel P1703 ](https://www.amazon.es/dp/B001HN6EF4/?tag=tolees-21) a 11.85 EUR (original: 15.99 EUR) (25.89 %  de descuento) en el siguiente enlace!
 
 [![Mattel Games UNO H20 To Go  juego de car](https://m.media-amazon.com/images/I/518k7Jyyw6L._SL200_.jpg)](https://www.amazon.es/dp/B001HN6EF4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B001HN6EF4/?tag=tolees-21)
 

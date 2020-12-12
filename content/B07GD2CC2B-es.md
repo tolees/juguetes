@@ -3,6 +3,7 @@ layout: post
 title: 'Estuche Discreto Powera Para Nintendo Sw al 46.88 % de descuento'
 date: 2020-12-01 12:51:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mafu6ioPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mafu6ioPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mafu6ioPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Estuche Discreto Powera Para Nintendo Switch. Super Mario En Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GD2CC2B/?tag=tolees-21'
+descuento: '46.88'
+titulo: 'Estuche Discreto Powera Para Nintendo Sw'
 ---
 
 Ahora mismo tienes [Estuche Discreto Powera Para Nintendo Switch. Super Mario En Rojo](https://www.amazon.es/dp/B07GD2CC2B/?tag=tolees-21) a 6.9 EUR (original: 12.99 EUR) (46.88 %  de descuento) en el siguiente enlace!
 
 [![Estuche Discreto Powera Para Nintendo Sw](https://m.media-amazon.com/images/I/41Mafu6ioPL._SL200_.jpg)](https://www.amazon.es/dp/B07GD2CC2B/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07GD2CC2B/?tag=tolees-21)
 

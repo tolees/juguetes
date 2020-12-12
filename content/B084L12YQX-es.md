@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Barbie Color Reveal  Mattel GPD56 '
 date: 2020-11-28 14:38:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ravk0tsXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ravk0tsXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ravk0tsXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Barbie Color Reveal  Mattel GPD56 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B084L12YQX/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Barbie Color Reveal  Mattel GPD56 '
 ---
 
 Tienes [Barbie Color Reveal  Mattel GPD56 ](https://www.amazon.es/dp/B084L12YQX/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 29.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![Barbie Color Reveal  Mattel GPD56 ](https://m.media-amazon.com/images/I/51ravk0tsXL._SL200_.jpg)](https://www.amazon.es/dp/B084L12YQX/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084L12YQX/?tag=tolees-21)
 

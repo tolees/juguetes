@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.87 % en Edge Entertainment Card Wars - Juego de '
 date: 2020-12-11 18:28:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MpANJ12PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MpANJ12PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MpANJ12PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Edge Entertainment Card Wars - Juego de cartas Rey Hielo vs Marceline'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L1Z1XQ3/?tag=tolees-21'
+descuento: '29.87'
+titulo: 'Edge Entertainment Card Wars - Juego de '
 ---
 
 Tienes [Edge Entertainment Card Wars - Juego de cartas Rey Hielo vs Marceline](https://www.amazon.es/dp/B07L1Z1XQ3/?tag=tolees-21) con un 29.87 % de descuento con precio de oferta de 13.99 EUR (original: 19.95 EUR) en el siguiente enlace!
@@ -25,8 +29,8 @@ Tienes [Edge Entertainment Card Wars - Juego de cartas Rey Hielo vs Marceline](h
 Características principales:
 
 - Ahora te toca a ti librar batallas como Finn y Jake para decidir quién será el tío guay y quién un cacho merluzo
-- Acción y combate en cada turno
 - El mazo de eriales glaciales del Rey Hielo y el mazo de pantanos inanes y prados sosegados de Marceline están listos para jugar
+- Acción y combate en cada turno
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L1Z1XQ3/?tag=tolees-21)
 

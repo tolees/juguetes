@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.68 % en OVERPASS Day One Edition para PS4 [Versi'
 date: 2020-11-22 19:16:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/519VQzsdn4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519VQzsdn4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519VQzsdn4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.02 EUR
 inStock: true
 prodname: 'OVERPASS Day One Edition para PS4 [Versión Española]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RZM2LXN/?tag=tolees-21'
+descuento: '54.68'
+titulo: 'OVERPASS Day One Edition para PS4 [Versi'
 ---
 
 Tienes [OVERPASS Day One Edition para PS4 [Versión Española]](https://www.amazon.es/dp/B07RZM2LXN/?tag=tolees-21) con un 54.68 % de descuento con precio de oferta de 19.95 EUR (original: 44.02 EUR) en el siguiente enlace!
 
 [![OVERPASS Day One Edition para PS4 [Versi](https://m.media-amazon.com/images/I/519VQzsdn4L._SL200_.jpg)](https://www.amazon.es/dp/B07RZM2LXN/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RZM2LXN/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Mattel Games DOS  juego de cartas de UNO al 35.04 % de descuento'
 date: 2020-12-08 11:05:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DLhZlFNqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DLhZlFNqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DLhZlFNqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Mattel Games DOS  juego de cartas de UNO  edad recomandada 7 - 10 años  Mattel FRM36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21'
+descuento: '35.04'
+titulo: 'Mattel Games DOS  juego de cartas de UNO'
 ---
 
 Está [Mattel Games DOS  juego de cartas de UNO  edad recomandada 7 - 10 años  Mattel FRM36 ](https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21) con 35.04 de descuento por 6.49 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Mattel Games DOS  juego de cartas de UNO](https://m.media-amazon.com/images/I/51DLhZlFNqL._SL200_.jpg)](https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21)
 

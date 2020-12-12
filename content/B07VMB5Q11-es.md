@@ -3,6 +3,7 @@ layout: post
 title: 'PowerA - Estuche protector para Pokémon  al 50.48 % de descuento'
 date: 2020-12-01 10:37:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PBQ2uVWOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PBQ2uVWOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PBQ2uVWOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'PowerA - Estuche protector para Pokémon Mewtwo  Nintendo Switch '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VMB5Q11/?tag=tolees-21'
+descuento: '50.48'
+titulo: 'PowerA - Estuche protector para Pokémon '
 ---
 
 Ahora mismo tienes [PowerA - Estuche protector para Pokémon Mewtwo  Nintendo Switch ](https://www.amazon.es/dp/B07VMB5Q11/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
 
 [![PowerA - Estuche protector para Pokémon ](https://m.media-amazon.com/images/I/41PBQ2uVWOL._SL200_.jpg)](https://www.amazon.es/dp/B07VMB5Q11/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07VMB5Q11/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Princesas Disney - Barco Real de Ce al 29.19 % de descuento'
 date: 2020-11-20 11:23:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bYld2hK8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bYld2hK8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bYld2hK8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.3 EUR
 inStock: true
 prodname: 'LEGO Princesas Disney - Barco Real de Ceremonias de Ariel  41153 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SVV19R/?tag=tolees-21'
+descuento: '29.19'
+titulo: 'LEGO Princesas Disney - Barco Real de Ce'
 ---
 
 Está [LEGO Princesas Disney - Barco Real de Ceremonias de Ariel  41153 ](https://www.amazon.es/dp/B075SVV19R/?tag=tolees-21) con 29.19 de descuento por 41.99 EUR (original: 59.3 EUR) en el siguiente enlace!
 
 [![LEGO Princesas Disney - Barco Real de Ce](https://m.media-amazon.com/images/I/51bYld2hK8L._SL200_.jpg)](https://www.amazon.es/dp/B075SVV19R/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075SVV19R/?tag=tolees-21)
 
