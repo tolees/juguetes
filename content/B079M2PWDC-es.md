@@ -24,10 +24,10 @@ Tienes [Pinypon - Pack de 3 Princesas  Famosa 700014094 ](https://www.amazon.es/
 
 ℹ️:
 
-- Edad recomendada: a partir de 4 años
+- Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: ¡Mix is Max
+- Cada figura mide unos 7 cm aprox y está decorada con purpurina
 - Estas figuritas son el complemente ideal para otros juguetes de Pinypon como el Palacio de Princesas o la Casa de Los Cuentos
 - Pack de 3 mágicas Princesas Pinypon con pequeños accesorios
-- Cada figura mide unos 7 cm aprox y está decorada con purpurina
-- Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: ¡Mix is Max
+- Edad recomendada: a partir de 4 años
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079M2PWDC/?tag=tolees-21)
