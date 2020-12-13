@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.08 % en Tarjeta SanDisk microSDXC UHS-I para Nin'
-date: 2020-12-10 10:34:12
+date: 2020-12-13 11:34:09
 image: 'https://m.media-amazon.com/images/I/41WY5dPF6EL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Tienes [Tarjeta SanDisk microSDXC UHS-I para Nintendo Switch 64GB  Producto con 
 
 ℹ️:
 
+- Tarjeta de memoria con licencia nintendo para el sistema nintendo switch
+- Velocidades de transferencia de hasta 100 mb/s para cargar los juegos rápidamente
+- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
+- Añade hasta 64 gb de espacio adicional al instante
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KXRGM8X/?tag=tolees-21)

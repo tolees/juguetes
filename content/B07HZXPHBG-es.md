@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: El tesoro hundido  Ed. Esp al 37.33 % de descuento'
-date: 2020-12-11 14:39:45
+date: 2020-12-13 11:19:02
 image: 'https://m.media-amazon.com/images/I/51I+Dv1ZmDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Está [Devir - Exit: El tesoro hundido  Ed. Español  BGEXIT7 ](https://www.amaz
 
 ℹ️:
 
-- Exit el tesoro
 - Producto de calidad
 - Devir iberia, 227123
+- Exit el tesoro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HZXPHBG/?tag=tolees-21)
