@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.47 % en Mega Construx - Juego de Tronos Bloques '
-date: 2020-12-12 14:46:09
+date: 2020-12-13 16:19:15
 image: 'https://m.media-amazon.com/images/I/41C7DbhmRcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Tienes [Mega Construx - Juego de Tronos Bloques de Construcción Trono de Hierro
 
 ℹ️:
 
-- Trono de hierro para montarlo con emblemas intercambiables donde se puede colocar una microfigura de acción
 - 4 microfiguras de acción totalmente articuladas de Daenerys Targaryen, Jon Nieve, Cercei Lannister y el Rey de la Noche, con un diseño realista tal y como aparecen en la famosa serie de televisión de HBO, Juego de tronos
+- Trono de hierro para montarlo con emblemas intercambiables donde se puede colocar una microfigura de acción
 - Entre los accesorios se incluyen 15 espadas que se pueden retirar del trono, la hoz del Rey de la Noche y los 4 emblemas correspondientes que representan las casas de cada personaje
 - Óptimo a partir de 16 años, este conjunto de construcción está diseñado específicamente para coleccionistas mayores, constructores experimentados y fans, y ofrece una experiencia de construcción verdaderamente fiel
 

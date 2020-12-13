@@ -24,10 +24,10 @@ Está [Lil’ Gleemerz Adorbrite  juguete interactivo rosa con luces y sonidos p
 
 ℹ️:
 
-- Esta figura interactiva responde al tacto y al sonido con más de 100 reacciones (ronronea, gruñe, se tira pedos, dice frases divertidas, realiza impresionantes espectáculos de luces y hasta juega)
-- Los Lil Gleemerz son juguetes interactivos que iluminan la diversión y la amistad con sus brillantes colas, ojos de color arcoíris y sus adorables sonidos y frases
 - Adorbrite es de color rosa brillante con una cola brillante, flexible y peludita que se ilumina
 - Las pequeñas patitas de la figura interactiva de Adorbrite permiten colgarla con posturas adorables de la pantalla del portátil, cajas y más
+- Esta figura interactiva responde al tacto y al sonido con más de 100 reacciones (ronronea, gruñe, se tira pedos, dice frases divertidas, realiza impresionantes espectáculos de luces y hasta juega)
 - Solo hay que presionar la nariz de las criaturas mágicas para elegir entre 3 opciones de juego: fiesta, espectáculo de luces o juegos
+- Los Lil Gleemerz son juguetes interactivos que iluminan la diversión y la amistad con sus brillantes colas, ojos de color arcoíris y sus adorables sonidos y frases
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SKBZC3J/?tag=tolees-21)
