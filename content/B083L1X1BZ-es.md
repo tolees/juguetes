@@ -24,9 +24,9 @@ Está [Sylvanian Families - 5454 - Autocaravana](https://www.amazon.es/dp/B083L1
 
 ℹ️:
 
-- Vehículo con capacidad para 7 figuras
 - Recomendado para mayores de 3 años
-- El salpicadero del coche se extrae para descubrir una cocinita secreta
+- Vehículo con capacidad para 7 figuras
 - Incluye 15 accesorios para jugar
+- El salpicadero del coche se extrae para descubrir una cocinita secreta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083L1X1BZ/?tag=tolees-21)
