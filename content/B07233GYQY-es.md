@@ -24,10 +24,10 @@ Tienes [Set Dropmix Starter  Hasbro C3410EU4 ](https://www.amazon.es/dp/B07233GY
 
 ℹ️:
 
-- Incluye 60 cartas DropMix que vienen con una selección de música y canciones de éxito de los mejores artistas
-- Crea unas mezclas increíbles
 - 3 modos de juego; con los modos estilo libre, duelo, o fiesta, podrás retar a tus amigos o unirte a ellos
 - Todo el mundo puede hacer música con este trepidante juego de mezclas musicales
 - La app para móviles de DropMix controla el juego y convierte tus mezclas en canciones increíbles
+- Incluye 60 cartas DropMix que vienen con una selección de música y canciones de éxito de los mejores artistas
+- Crea unas mezclas increíbles
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07233GYQY/?tag=tolees-21)
