@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL- Starter Pack Starterpack Bata al 57.79 % de descuento'
-date: 2020-12-10 20:34:26
+date: 2020-12-12 22:11:13
 image: 'https://m.media-amazon.com/images/I/61sb4F0M1CL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Está [PLAYMOBIL- Starter Pack Starterpack Batalla Medieval  Color carbón  7003
 
 ℹ️:
 
-- Contiene 39 piezas
-- Con operativa ballesta
 - Desarrolla la imaginación y la creatividad
 - Incluye dos figuras y varios accesorios
+- Contiene 39 piezas
+- Con operativa ballesta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JLS3T3Q/?tag=tolees-21)
