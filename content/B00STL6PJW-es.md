@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.40 % en Hasbro Gaming Gaming Clasico Pictureka  '
-date: 2020-12-06 10:26:44
+date: 2020-12-13 20:34:27
 image: 'https://m.media-amazon.com/images/I/51jrQFowofL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Tienes [Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 ](
 
 ℹ️:
 
+- Juego de habilidad visual para 2 o más personas
+- Te desafía a detectar cosas rápido
+- Deberás encontrar los objetos que la carta elegida te señale
+- 55 tarjetas de misión para un juego desafiante y divertido
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00STL6PJW/?tag=tolees-21)
