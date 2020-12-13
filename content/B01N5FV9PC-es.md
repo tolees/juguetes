@@ -24,11 +24,11 @@ Tienes [Creative Sound BlasterX Katana - Barra de sonido para juegos multicanal 
 
 ℹ️:
 
-- Funciona con PS4
 - 5-driver design & tri-amplification sistema - 2 up-firing midbass driver, 2 tweeters de excursión, 1 long-throw subwoofer en una unidad de Subwoofer externo - cada uno individualmente impulsado por dsps. salida total de 75rms/150 W de potencia máxima.
 - Under-monitor sistema de audio - perfecto para su configuración de juegos de PC, la visualización Katana encaja en su amplio espacio, con el sistema de iluminación Aurora reactiva programable con 16,8 millones de colores.
-- Mando a distancia - Control a distancia por infrarrojos incluido para acceso a todos los controles.
 - Potente multicanal y 24 bits DAC USB de alta resolución, Dolby Digital 5.1 decodificador - cuando se conecta a través de USB, también sirve como un DAC que ofrece totalmente personalizable virtual 7.1 canales de audio (con certificación de Windows PC) y una excepcional reproducción de 24-bit/96kHz audio sin pérdidas de alta definición de PC y Mac. Dolby Digital 5.1 Decoder cuando se conecta al optical-in.
+- Funciona con PS4
+- Mando a distancia - Control a distancia por infrarrojos incluido para acceso a todos los controles.
 - Opciones de conectividad - USB para PS4, optical-in, Bluetooth audio USB, entrada auxiliar, disco flash USB, auriculares,/headset-out, Mic-IN. 24 bits de reproducción de audio sin pérdidas de unidades flash USB.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5FV9PC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.07 % en Devir - Exit: La tumba del faraón  Ed. E'
-date: 2020-12-08 17:45:19
+date: 2020-12-13 14:24:22
 image: 'https://m.media-amazon.com/images/I/51cuHZYNhoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Tienes [Devir - Exit: La tumba del faraón  Ed. Español  BGEXIT2 ](https://www.
 
 ℹ️:
 
+- A partir de los 12 años
+- Duración 45-90 minutos
+- De 1 a 6 jugadores
+- Edición en español
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B074H8GD2J/?tag=tolees-21)
