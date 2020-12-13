@@ -25,12 +25,12 @@ Está [LEGO Technic - Cazador Policial  coche de juguete para construir e imagin
 ℹ️:
 
 - Acciona el motor de carga manual para experimentar la asombrosa potencia del Cazador Policial.
-- El modelo combinado Gran 4x4 mide más de 10 cm de altura, 23 cm de longitud y 10 cm de ancho.
 - El modelo del Cazador Policial mide más de 6 cm de altura, 20 cm de longitud y 10 cm de ancho.
-- Este vehículo para jugar es ideal para nuevos constructores LEGO Technic, pues mejora la coordinación oculomanual y fomenta el juego con imaginación.
-- Cuenta con un potente motor de carga manual, balizas de advertencia roja y azul, parachoques delantero aerodinámico, un gran alerón trasero y llantas negras de gran anchura con neumáticos de perfil bajo.
-- ¡Combínalo con el Camión de Huida (42090) para crear el impresionante modelo combinado Gran 4x4!
 - Contempla la fantástica combinación de colores en azul, blanco y negro con fabulosos adhesivos policiales.
+- El modelo combinado Gran 4x4 mide más de 10 cm de altura, 23 cm de longitud y 10 cm de ancho.
+- Cuenta con un potente motor de carga manual, balizas de advertencia roja y azul, parachoques delantero aerodinámico, un gran alerón trasero y llantas negras de gran anchura con neumáticos de perfil bajo.
+- Este vehículo para jugar es ideal para nuevos constructores LEGO Technic, pues mejora la coordinación oculomanual y fomenta el juego con imaginación.
+- ¡Combínalo con el Camión de Huida (42090) para crear el impresionante modelo combinado Gran 4x4!
 - Hazte con el Camión de Huida (42090), también equipado con motor de carga manual, ¡e interpreta emocionantes persecuciones!
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FP6ZWN3/?tag=tolees-21)

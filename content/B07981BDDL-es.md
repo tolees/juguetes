@@ -24,8 +24,8 @@ Está [Sylvanian Families - 6001 - Set Freya y Teri Chocolate](https://www.amazo
 
 ℹ️:
 
-- Con bolso de mano
 - Para niños mayores de tres años
+- Con bolso de mano
 - Juego de seis piezas
 - En elegantes vestidos de satén
 
