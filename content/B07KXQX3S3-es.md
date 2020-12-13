@@ -24,8 +24,8 @@ Está [Tarjeta SanDisk microSDXC UHS-I para Nintendo Switch 128GB  Producto con 
 
 ℹ️:
 
-- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Velocidades de transferencia de hasta 100 MB/s para cargar los juegos rápidamente
+- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Tarjeta de memoria con licencia Nintendo para el sistema Nintendo Switch
 - Añade hasta 128 GB de espacio adicional al instante
 
