@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC2H7D1/?tag=tolees-21'
 descuento: '42.67'
+average: '8.49'
 ---
 
 Ahora mismo tienes [LYCAON Bike Grips Puños de manillar de bicicleta con escombros sólidos y extra gruesos  5 opciones de color  Azul ](https://www.amazon.es/dp/B07DC2H7D1/?tag=tolees-21) a 8.49 EUR (original: 14.81 EUR) (42.67 %  de descuento) en el siguiente enlace!

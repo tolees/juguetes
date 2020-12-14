@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075H1Q3ZH/?tag=tolees-21'
 descuento: '31.48'
+average: '20.55'
 ---
 
 Está [LEGO Star Wars - Boba Fett  75533 ](https://www.amazon.es/dp/B075H1Q3ZH/?tag=tolees-21) con 31.48 de descuento por 20.55 EUR (original: 29.99 EUR) en el siguiente enlace!

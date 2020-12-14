@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KK5TZF8/?tag=tolees-21'
 descuento: '75.02'
+average: '9.99'
 ---
 
 Ahora mismo tienes [ONIKUMA Auriculares Gaming con Microfono para PS4 Xbox One PC  3D Sonido Envolvente  Reducción de Ruido  Diadema Ajustable Headset para PS4 con Jack Stereo da 3 5 mm Cascos Gaming](https://www.amazon.es/dp/B07KK5TZF8/?tag=tolees-21) a 9.99 EUR (original: 39.99 EUR) (75.02 %  de descuento) en el siguiente enlace!

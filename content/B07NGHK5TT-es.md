@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NGHK5TT/?tag=tolees-21'
 descuento: '29.74'
+average: '5.08'
 ---
 
 Tienes [Hasbro- Nerf Elite Microshots Pistola lanzadardos   E0489EU41 ](https://www.amazon.es/dp/B07NGHK5TT/?tag=tolees-21) con un 29.74 % de descuento con precio de oferta de 5.08 EUR (original: 7.23 EUR) en el siguiente enlace!

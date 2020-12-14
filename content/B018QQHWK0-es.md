@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018QQHWK0/?tag=tolees-21'
 descuento: '47.28'
+average: '25.53'
 ---
 
 Tienes [Limar - Casco de Bicicleta 360 Grados  Todo el año  Unisex  Color Negro  tamaño Medium](https://www.amazon.es/dp/B018QQHWK0/?tag=tolees-21) con un 47.28 % de descuento con precio de oferta de 25.53 EUR (original: 48.43 EUR) en el siguiente enlace!

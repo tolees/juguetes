@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JB6P7HR/?tag=tolees-21'
 descuento: '37.04'
+average: '119'
 ---
 
 Ahora mismo tienes [SmartGyro X1s Raptor - Patinete Eléctrico Hoverboard  6 5 Antipinchazos  LEDS  Batería de Litio Potente  Velocidad 10-12 Km/h  Self Balancing  Camuflaje](https://www.amazon.es/dp/B07JB6P7HR/?tag=tolees-21) a 119 EUR (original: 189 EUR) (37.04 %  de descuento) en el siguiente enlace!

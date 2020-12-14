@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGV2DJ3/?tag=tolees-21'
 descuento: '53.85'
+average: '59.99'
 ---
 
 Tienes [MaxTronic Coche RC 1/20 Proporción 2.4GHz Coche Teledirigido 40km/h Vehículo eléctrico controlado por Radio 4WD Todo Terreno Batería de Iones de Litio  Verde  Red ](https://www.amazon.es/dp/B07LGV2DJ3/?tag=tolees-21) con un 53.85 % de descuento con precio de oferta de 59.99 EUR (original: 129.99 EUR) en el siguiente enlace!

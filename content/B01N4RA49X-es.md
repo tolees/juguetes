@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4RA49X/?tag=tolees-21'
 descuento: '52.97'
+average: '6.09'
 ---
 
 Tienes [Educa Borrás- Dibujos Animados y cómic Puzzle 1000  17097 ](https://www.amazon.es/dp/B01N4RA49X/?tag=tolees-21) con un 52.97 % de descuento con precio de oferta de 6.09 EUR (original: 12.95 EUR) en el siguiente enlace!

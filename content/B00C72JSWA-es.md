@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C72JSWA/?tag=tolees-21'
 descuento: '76.76'
+average: '10.54'
 ---
 
 Tienes [Lego City: Undercover - The Chase Begins [Importación Francesa]](https://www.amazon.es/dp/B00C72JSWA/?tag=tolees-21) con un 76.76 % de descuento con precio de oferta de 10.54 EUR (original: 45.36 EUR) en el siguiente enlace!

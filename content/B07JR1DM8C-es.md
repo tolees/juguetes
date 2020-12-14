@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JR1DM8C/?tag=tolees-21'
 descuento: '37.01'
+average: '18.89'
 ---
 
 Está [Youtubers Life  PS4](https://www.amazon.es/dp/B07JR1DM8C/?tag=tolees-21) con 37.01 de descuento por 18.89 EUR (original: 29.99 EUR) en el siguiente enlace!

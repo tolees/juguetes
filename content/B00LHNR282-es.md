@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LHNR282/?tag=tolees-21'
 descuento: '65.25'
+average: '7.99'
 ---
 
 Tienes [Vehículos de Construcción Mini Coches Juguetes Niños Set de Camiones Niña 3 4 5 Años  9 Pedazos ](https://www.amazon.es/dp/B00LHNR282/?tag=tolees-21) con un 65.25 % de descuento con precio de oferta de 7.99 EUR (original: 22.99 EUR) en el siguiente enlace!

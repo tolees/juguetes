@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PYBRW9B/?tag=tolees-21'
 descuento: '45.02'
+average: '219.93'
 ---
 
 Está [Moma Bikes Top Class 2 Bicicleta  Adultos Unisex  Blanco  Talla única](https://www.amazon.es/dp/B07PYBRW9B/?tag=tolees-21) con 45.02 de descuento por 219.93 EUR (original: 400 EUR) en el siguiente enlace!

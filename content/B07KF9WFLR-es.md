@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KF9WFLR/?tag=tolees-21'
 descuento: '48.83'
+average: '16.88'
 ---
 
 Está [Coches de Madera Vehículos de Juguete Juegos 6 PCS para Niñas Niños Mini Juguetes Clásicos Niños 3 4 5 6 Años](https://www.amazon.es/dp/B07KF9WFLR/?tag=tolees-21) con 48.83 de descuento por 16.88 EUR (original: 32.99 EUR) en el siguiente enlace!

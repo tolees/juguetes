@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP86Y4W/?tag=tolees-21'
 descuento: '50.00'
+average: '8.99'
 ---
 
 Está [KOOPAN Casco de Esquí Casco de Snowboard Casco de Skate para Adulto Hombre Mujer Casco de Bicicleta de Esquí S: 48-54CM  Apto para Niños  Verde](https://www.amazon.es/dp/B07FP86Y4W/?tag=tolees-21) con 50.00 de descuento por 8.99 EUR (original: 17.98 EUR) en el siguiente enlace!

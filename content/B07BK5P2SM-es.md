@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BK5P2SM/?tag=tolees-21'
 descuento: '26.10'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Ubitree Varita de Burbujas Gigante Pompas de jabón Palos Pompas Gigantes Barras Extensibles Metálicas Grandes Pompas Maquina Burbujas Juguetes para niños Verano al Aire Libre Parque Entretenimiento](https://www.amazon.es/dp/B07BK5P2SM/?tag=tolees-21) a 16.99 EUR (original: 22.99 EUR) (26.10 %  de descuento) en el siguiente enlace!

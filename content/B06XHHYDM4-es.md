@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHHYDM4/?tag=tolees-21'
 descuento: '50.61'
+average: '11.02'
 ---
 
 Está [Heinrich Bauer 14246 – blickfänger lashy Gato Peluche  Glitter  20 cm  Color Rosa y Multicolor](https://www.amazon.es/dp/B06XHHYDM4/?tag=tolees-21) con 50.61 de descuento por 11.02 EUR (original: 22.31 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Y2W0WHI/?tag=tolees-21'
 descuento: '29.55'
+average: '10.56'
 ---
 
 Ahora mismo tienes [Warner Bros. Interactive Spain  VG  Lego Dimensions - DC Superman](https://www.amazon.es/dp/B00Y2W0WHI/?tag=tolees-21) a 10.56 EUR (original: 14.99 EUR) (29.55 %  de descuento) en el siguiente enlace!

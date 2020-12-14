@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21'
 descuento: '26.95'
+average: '21.87'
 ---
 
 Está [Kinetic Sand - Playset  Castillo  Bizak 61921402 ](https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21) con 26.95 de descuento por 21.87 EUR (original: 29.94 EUR) en el siguiente enlace!

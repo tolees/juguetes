@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H4H3YC/?tag=tolees-21'
 descuento: '25.01'
+average: '14.99'
 ---
 
 Está [Feisty Pets-32334 Peluche Oso   Goliath Games 32321](https://www.amazon.es/dp/B078H4H3YC/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

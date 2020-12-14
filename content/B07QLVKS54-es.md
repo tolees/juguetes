@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QLVKS54/?tag=tolees-21'
 descuento: '50.01'
+average: '33.43'
 ---
 
 Está [Hengxin Maillot Ciclismo Corto De Verano para Hombre  Ropa Culote Conjunto Traje Culotte Deportivo con 3D Almohadilla De Gel para Bicicleta MTB Ciclista Bici  Rosa roja  XL ](https://www.amazon.es/dp/B07QLVKS54/?tag=tolees-21) con 50.01 de descuento por 33.43 EUR (original: 66.88 EUR) en el siguiente enlace!

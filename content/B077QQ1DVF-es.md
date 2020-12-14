@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077QQ1DVF/?tag=tolees-21'
 descuento: '56.61'
+average: '5.78'
 ---
 
 Tienes [CASTORLAND B-27453-1 Puzzle - Rompecabezas](https://www.amazon.es/dp/B077QQ1DVF/?tag=tolees-21) con un 56.61 % de descuento con precio de oferta de 5.78 EUR (original: 13.32 EUR) en el siguiente enlace!

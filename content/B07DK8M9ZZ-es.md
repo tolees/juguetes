@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK8M9ZZ/?tag=tolees-21'
 descuento: '44.75'
+average: '35.76'
 ---
 
 Tienes [NBA 2K19 - Xbox One [Importación francesa]](https://www.amazon.es/dp/B07DK8M9ZZ/?tag=tolees-21) con un 44.75 % de descuento con precio de oferta de 35.76 EUR (original: 64.72 EUR) en el siguiente enlace!

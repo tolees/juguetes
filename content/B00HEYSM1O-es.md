@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HEYSM1O/?tag=tolees-21'
 descuento: '45.63'
+average: '129.43'
 ---
 
 Está [Ultrasport Bicicleta elíptica XT-Trainer 700M con sensores de Pulso de Mano  bidón Incluido](https://www.amazon.es/dp/B00HEYSM1O/?tag=tolees-21) con 45.63 de descuento por 129.43 EUR (original: 238.07 EUR) en el siguiente enlace!

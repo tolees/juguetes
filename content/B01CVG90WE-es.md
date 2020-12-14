@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CVG90WE/?tag=tolees-21'
 descuento: '36.66'
+average: '15.95'
 ---
 
 Está [Tribe - Juguete Educativos de madera y pizarra Blanca con tablero magnéticos  puzzle para Niños Infantil de 3 4 5 Años ](https://www.amazon.es/dp/B01CVG90WE/?tag=tolees-21) con 36.66 de descuento por 15.95 EUR (original: 25.18 EUR) en el siguiente enlace!

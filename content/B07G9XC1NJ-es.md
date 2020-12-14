@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9XC1NJ/?tag=tolees-21'
 descuento: '52.02'
+average: '12.95'
 ---
 
 Ahora mismo tienes [Mando controller para Nintendo Switch  con cable  Atlético De Madrid](https://www.amazon.es/dp/B07G9XC1NJ/?tag=tolees-21) a 12.95 EUR (original: 26.99 EUR) (52.02 %  de descuento) en el siguiente enlace!

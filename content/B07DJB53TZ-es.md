@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJB53TZ/?tag=tolees-21'
 descuento: '48.59'
+average: '17.99'
 ---
 
 Tienes [COFIT 3 en 1 Bolsa de Manillar para Bicicleta de Gran Capacidad Verde  Funda para Bicicleta-Rojo y Negro](https://www.amazon.es/dp/B07DJB53TZ/?tag=tolees-21) con un 48.59 % de descuento con precio de oferta de 17.99 EUR (original: 34.99 EUR) en el siguiente enlace!

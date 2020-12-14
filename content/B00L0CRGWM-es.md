@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L0CRGWM/?tag=tolees-21'
 descuento: '54.10'
+average: '6.88'
 ---
 
 Tienes [Trudi - Mini Pegaso de Peluche  Color Verde Agua  50175 ](https://www.amazon.es/dp/B00L0CRGWM/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 6.88 EUR (original: 14.99 EUR) en el siguiente enlace!

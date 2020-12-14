@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9AUFOD/?tag=tolees-21'
 descuento: '34.53'
+average: '20.31'
 ---
 
 Está [Revell Lamborghini Police Juguetes a Control Remoto 24656](https://www.amazon.es/dp/B01N9AUFOD/?tag=tolees-21) con 34.53 de descuento por 20.31 EUR (original: 31.02 EUR) en el siguiente enlace!

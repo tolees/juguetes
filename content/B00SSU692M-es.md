@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SSU692M/?tag=tolees-21'
 descuento: '28.02'
+average: '12.95'
 ---
 
 Ahora mismo tienes [Nintendo - Figura Amiibo Smash: Charizard 33](https://www.amazon.es/dp/B00SSU692M/?tag=tolees-21) a 12.95 EUR (original: 17.99 EUR) (28.02 %  de descuento) en el siguiente enlace!

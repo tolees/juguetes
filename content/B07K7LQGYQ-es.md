@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7LQGYQ/?tag=tolees-21'
 descuento: '28.72'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Nerf - Mega Bulldog  Hasbro E3057EU4 ](https://www.amazon.es/dp/B07K7LQGYQ/?tag=tolees-21) a 19.95 EUR (original: 27.99 EUR) (28.72 %  de descuento) en el siguiente enlace!

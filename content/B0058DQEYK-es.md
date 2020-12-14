@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0058DQEYK/?tag=tolees-21'
 descuento: '58.76'
+average: '14.43'
 ---
 
 Está [Koch Media - Carcasa Vault Gears Of War 3  Xbox 360 ](https://www.amazon.es/dp/B0058DQEYK/?tag=tolees-21) con 58.76 de descuento por 14.43 EUR (original: 34.99 EUR) en el siguiente enlace!

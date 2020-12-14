@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZJEOTYK/?tag=tolees-21'
 descuento: '57.16'
+average: '14.99'
 ---
 
 Tienes [PDP - Auricular Stereo Afterglow LVL 3  Xbox One ](https://www.amazon.es/dp/B00ZJEOTYK/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!

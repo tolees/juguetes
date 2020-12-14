@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C2VVK0S/?tag=tolees-21'
 descuento: '58.16'
+average: '99.99'
 ---
 
 Tienes [Fitfiu - BELI100  Bicicleta elíptica estática  unisex  gris](https://www.amazon.es/dp/B01C2VVK0S/?tag=tolees-21) con un 58.16 % de descuento con precio de oferta de 99.99 EUR (original: 239 EUR) en el siguiente enlace!

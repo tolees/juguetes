@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J124WNI/?tag=tolees-21'
 descuento: '56.36'
+average: '12.87'
 ---
 
 Ahora mismo tienes [DC Super Hero Girls- Cars Batgirl y su batlanzador  Mattel DWH91 ](https://www.amazon.es/dp/B01J124WNI/?tag=tolees-21) a 12.87 EUR (original: 29.49 EUR) (56.36 %  de descuento) en el siguiente enlace!

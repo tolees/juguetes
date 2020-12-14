@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JOTIRLQ/?tag=tolees-21'
 descuento: '71.42'
+average: '10'
 ---
 
 Está [Doctora Juguetes - Toy Hospital  maletín de Doctora  Giochi Preziosi DMH06000 ](https://www.amazon.es/dp/B01JOTIRLQ/?tag=tolees-21) con 71.42 de descuento por 10 EUR (original: 34.99 EUR) en el siguiente enlace!

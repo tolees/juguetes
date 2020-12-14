@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GJDWWQG/?tag=tolees-21'
 descuento: '28.88'
+average: '26.99'
 ---
 
 Está [Teletubbies - Peluche  Duerme contigo Musica y luz - Laa Laa](https://www.amazon.es/dp/B01GJDWWQG/?tag=tolees-21) con 28.88 de descuento por 26.99 EUR (original: 37.95 EUR) en el siguiente enlace!

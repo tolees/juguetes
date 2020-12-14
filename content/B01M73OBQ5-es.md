@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M73OBQ5/?tag=tolees-21'
 descuento: '47.87'
+average: '9.9'
 ---
 
 Está [Tuc Tuc People - Peluche suave para niña](https://www.amazon.es/dp/B01M73OBQ5/?tag=tolees-21) con 47.87 de descuento por 9.9 EUR (original: 18.99 EUR) en el siguiente enlace!

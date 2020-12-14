@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SST9ZYC/?tag=tolees-21'
 descuento: '60.14'
+average: '6.13'
 ---
 
 Tienes [Clementoni – 13489 – Lotería Frozen](https://www.amazon.es/dp/B00SST9ZYC/?tag=tolees-21) con un 60.14 % de descuento con precio de oferta de 6.13 EUR (original: 15.38 EUR) en el siguiente enlace!

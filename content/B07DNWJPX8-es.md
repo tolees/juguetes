@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNWJPX8/?tag=tolees-21'
 descuento: '67.87'
+average: '10.99'
 ---
 
 Tienes [Mini 3D Magia Laberinto Puzzle Ball Cube Juego Earth Ball Laberinto Juguete Cerebro Foreplay Juego Aprendizaje Educación Juguetes Educativos Niño Regalo Niño Chica Adulto Vacaciones Cumpleaños Regalo](https://www.amazon.es/dp/B07DNWJPX8/?tag=tolees-21) con un 67.87 % de descuento con precio de oferta de 10.99 EUR (original: 34.2 EUR) en el siguiente enlace!

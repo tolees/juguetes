@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HPLNNP5/?tag=tolees-21'
 descuento: '43.51'
+average: '451.92'
 ---
 
 Tienes [Bibóo Bikes Gekko Vintage Bicicleta Fixie  Unisex Adult  Negro  S](https://www.amazon.es/dp/B07HPLNNP5/?tag=tolees-21) con un 43.51 % de descuento con precio de oferta de 451.92 EUR (original: 800 EUR) en el siguiente enlace!

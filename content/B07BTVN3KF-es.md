@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BTVN3KF/?tag=tolees-21'
 descuento: '47.83'
+average: '12.99'
 ---
 
 Está [Rompecabezas Puzzles Infantiles Mosaicos Pinchos 420pcs Bloques Construccion con Clavijas Caja de DIY Conjunto Juguetes Educativos para Niños Niña de 3 4 5 Años](https://www.amazon.es/dp/B07BTVN3KF/?tag=tolees-21) con 47.83 de descuento por 12.99 EUR (original: 24.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XSVZPT/?tag=tolees-21'
 descuento: '40.01'
+average: '35.99'
 ---
 
 Ahora mismo tienes [Thrustmaster - Auriculares Y-300CPX Far Cry 5 Edition  PS4  PS3  Xbox One  Xbox360  PC  VR  Nintendo Switch ](https://www.amazon.es/dp/B077XSVZPT/?tag=tolees-21) a 35.99 EUR (original: 59.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

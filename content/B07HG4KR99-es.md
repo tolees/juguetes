@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HG4KR99/?tag=tolees-21'
 descuento: '60.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Geekper 1:16 4WD Coche RC Eléctrico Todoterreno Control Remoto RTR Buggy Monster Truck 2.4 GHz de Alta Velocidad con 1 batería Recargable. Color  Rojo ](https://www.amazon.es/dp/B07HG4KR99/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

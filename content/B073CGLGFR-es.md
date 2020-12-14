@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073CGLGFR/?tag=tolees-21'
 descuento: '72.20'
+average: '9.49'
 ---
 
 Está [Juguetes de Madera Rompecabezas Magnéticos Juego de Pesca Magnética con Caña de Pesca Vestir a los Amigos para Niños 3 4 5 6](https://www.amazon.es/dp/B073CGLGFR/?tag=tolees-21) con 72.20 de descuento por 9.49 EUR (original: 34.14 EUR) en el siguiente enlace!

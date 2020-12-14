@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WD3SHWC/?tag=tolees-21'
 descuento: '27.53'
+average: '18.11'
 ---
 
 Tienes [LEGO Duplo Town - Puesto de Tiro al Blanco  10839 ](https://www.amazon.es/dp/B06WD3SHWC/?tag=tolees-21) con un 27.53 % de descuento con precio de oferta de 18.11 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNB529L/?tag=tolees-21'
 descuento: '41.29'
+average: '46.96'
 ---
 
 Ahora mismo tienes [Mad Giga mando con Pantalla tácti Bluetooth 4.0 Wireless Gamepad Alámbrico/Inalámbrico Playstation 4 compatible con PS3 PS4 Y PC](https://www.amazon.es/dp/B07FNB529L/?tag=tolees-21) a 46.96 EUR (original: 79.99 EUR) (41.29 %  de descuento) en el siguiente enlace!

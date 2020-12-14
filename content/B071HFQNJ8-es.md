@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HFQNJ8/?tag=tolees-21'
 descuento: '28.66'
+average: '107'
 ---
 
 Está [New Nintendo 2DS XL  Bianco/Arancione [Importación italiana]](https://www.amazon.es/dp/B071HFQNJ8/?tag=tolees-21) con 28.66 de descuento por 107 EUR (original: 149.99 EUR) en el siguiente enlace!

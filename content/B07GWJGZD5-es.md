@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWJGZD5/?tag=tolees-21'
 descuento: '50.32'
+average: '14.9'
 ---
 
 Tienes [4Gamers - Pro 4-40 Auricular Estéreo Licenciado  40Mm De Diámetro  Micrófono Flexible  Blanco  PS4 ](https://www.amazon.es/dp/B07GWJGZD5/?tag=tolees-21) con un 50.32 % de descuento con precio de oferta de 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!

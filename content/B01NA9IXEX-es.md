@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NA9IXEX/?tag=tolees-21'
 descuento: '40.61'
+average: '19.6'
 ---
 
 Está [Nerf - Zombie outbreaker Bow  Hasbro B9093EU4 ](https://www.amazon.es/dp/B01NA9IXEX/?tag=tolees-21) con 40.61 de descuento por 19.6 EUR (original: 33 EUR) en el siguiente enlace!

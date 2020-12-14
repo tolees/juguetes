@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N005UJQ/?tag=tolees-21'
 descuento: '26.17'
+average: '11'
 ---
 
 Tienes [LEGO - Glam Roker Batman  Llavero Linterna  LGL-KE103G ](https://www.amazon.es/dp/B01N005UJQ/?tag=tolees-21) con un 26.17 % de descuento con precio de oferta de 11 EUR (original: 14.9 EUR) en el siguiente enlace!

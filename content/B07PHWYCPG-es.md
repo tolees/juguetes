@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PHWYCPG/?tag=tolees-21'
 descuento: '30.00'
+average: '22.49'
 ---
 
 Está [bouncevi Lanzador automático de Pelotas Juguete para Perros Perro Juguete Interactivo para Tratar lanzadores Pelota de Tenis interactiva Máquina de lanzar Diversión Tirador de Juguetes](https://www.amazon.es/dp/B07PHWYCPG/?tag=tolees-21) con 30.00 de descuento por 22.49 EUR (original: 32.13 EUR) en el siguiente enlace!

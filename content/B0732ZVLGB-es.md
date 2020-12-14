@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0732ZVLGB/?tag=tolees-21'
 descuento: '53.87'
+average: '11.99'
 ---
 
 Tienes [TONZE Construcciones Infantiles Rompecabezas de Mosaico Bloques Construcción 150pcs Tornillos Juguete Bricolaje para Niños Niñas 3 Años+](https://www.amazon.es/dp/B0732ZVLGB/?tag=tolees-21) con un 53.87 % de descuento con precio de oferta de 11.99 EUR (original: 25.99 EUR) en el siguiente enlace!

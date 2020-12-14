@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076WX1T4F/?tag=tolees-21'
 descuento: '82.90'
+average: '4.45'
 ---
 
 Tienes [Luz Trasera para Bicicleta  OUTERDO 2 tipos （Corazón y Círculo）USB Carga Impermeable Mini Personalidad Luces Traseras Fácil de Instalar 3 Modos Círculo](https://www.amazon.es/dp/B076WX1T4F/?tag=tolees-21) con un 82.90 % de descuento con precio de oferta de 4.45 EUR (original: 26.03 EUR) en el siguiente enlace!

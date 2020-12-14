@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRS5M6X/?tag=tolees-21'
 descuento: '25.00'
+average: '119.24'
 ---
 
 Tienes [Ultrasport F-Bike 250 bicicleta estática con ordenador y App  sensor de pulsaciones  plegable  Mate Negro](https://www.amazon.es/dp/B07KRS5M6X/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 119.24 EUR (original: 158.99 EUR) en el siguiente enlace!

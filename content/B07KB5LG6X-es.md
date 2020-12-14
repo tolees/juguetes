@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KB5LG6X/?tag=tolees-21'
 descuento: '44.44'
+average: '9.4'
 ---
 
 Tienes [Baoblaze MTB Bicicleta de Montaña 8 Velocidades de Rueda Libre 13-28t Bicicleta Casetes de Acero Piñones](https://www.amazon.es/dp/B07KB5LG6X/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 9.4 EUR (original: 16.92 EUR) en el siguiente enlace!

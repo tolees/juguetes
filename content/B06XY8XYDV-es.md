@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XY8XYDV/?tag=tolees-21'
 descuento: '33.36'
+average: '9.99'
 ---
 
 Ahora mismo tienes [smartect Protector de Pantalla para Nintendo Switch [2 Unidades] - 9H Cristal Templado - Diseño Ultrafino - Instalación Sin Burbujas - Anti-Huellas](https://www.amazon.es/dp/B06XY8XYDV/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

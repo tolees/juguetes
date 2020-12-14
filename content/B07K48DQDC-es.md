@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K48DQDC/?tag=tolees-21'
 descuento: '38.51'
+average: '479'
 ---
 
 Está [Extrbici G7 Mountain Bike 21 Speed Steel Frame 27.5 Pulgadas Ruedas Doble Suspensión Bicicleta Plegable  Naranja   Naranja ](https://www.amazon.es/dp/B07K48DQDC/?tag=tolees-21) con 38.51 de descuento por 479 EUR (original: 779 EUR) en el siguiente enlace!

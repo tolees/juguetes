@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUCH4Q5/?tag=tolees-21'
 descuento: '34.30'
+average: '229.95'
 ---
 
 Está [Xbox One - Pack Consola S 1 TB Halo Wars 2](https://www.amazon.es/dp/B01MUCH4Q5/?tag=tolees-21) con 34.30 de descuento por 229.95 EUR (original: 349.99 EUR) en el siguiente enlace!

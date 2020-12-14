@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWVRTBD/?tag=tolees-21'
 descuento: '46.70'
+average: '7.99'
 ---
 
 Tienes [Hori - Funda Rígida con cremallera Yo-Kai Watch Jibanyan  New Nintendo 3Ds ](https://www.amazon.es/dp/B06XWVRTBD/?tag=tolees-21) con un 46.70 % de descuento con precio de oferta de 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

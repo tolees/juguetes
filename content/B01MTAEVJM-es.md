@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTAEVJM/?tag=tolees-21'
 descuento: '29.15'
+average: '24.79'
 ---
 
 Está [Maxone Aluminio Ultra Delgado - Disco duro externo Portátil 2.5" USB 3.0 HDD para ordenador portátil  PC  Laptop  Mac  Xbox one  PS4  TV  Windows 160GB  Gold ](https://www.amazon.es/dp/B01MTAEVJM/?tag=tolees-21) con 29.15 de descuento por 24.79 EUR (original: 34.99 EUR) en el siguiente enlace!

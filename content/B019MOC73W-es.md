@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019MOC73W/?tag=tolees-21'
 descuento: '60.40'
+average: '5.9'
 ---
 
 Ahora mismo tienes [Nintendo - Amiibo Smash Roy](https://www.amazon.es/dp/B019MOC73W/?tag=tolees-21) a 5.9 EUR (original: 14.9 EUR) (60.40 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IDCAEIO/?tag=tolees-21'
 descuento: '74.97'
+average: '1.99'
 ---
 
 Está [Gioteck - Cable De Carga Dual Para Mandos  PS4  Xbox One ](https://www.amazon.es/dp/B01IDCAEIO/?tag=tolees-21) con 74.97 de descuento por 1.99 EUR (original: 7.95 EUR) en el siguiente enlace!

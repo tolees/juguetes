@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WWR60XA/?tag=tolees-21'
 descuento: '43.35'
+average: '16.99'
 ---
 
 Tienes [Lego Jurassic World - Classics](https://www.amazon.es/dp/B00WWR60XA/?tag=tolees-21) con un 43.35 % de descuento con precio de oferta de 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

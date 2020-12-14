@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R8WTXBK/?tag=tolees-21'
 descuento: '44.94'
+average: '5.5'
 ---
 
 Tienes [RetroViejuno Funda para Nintendo Switch  Rojo ](https://www.amazon.es/dp/B07R8WTXBK/?tag=tolees-21) con un 44.94 % de descuento con precio de oferta de 5.5 EUR (original: 9.99 EUR) en el siguiente enlace!

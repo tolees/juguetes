@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WCSHS7/?tag=tolees-21'
 descuento: '45.00'
+average: '6.99'
 ---
 
 Ahora mismo tienes [TOYMYTOY Juguetes para dormir del bebé Los juguetes del edredón con los delantales ambientales pueden morder para la niña recién nacida Niños del bebé Niños  becerro ](https://www.amazon.es/dp/B073WCSHS7/?tag=tolees-21) a 6.99 EUR (original: 12.71 EUR) (45.00 %  de descuento) en el siguiente enlace!

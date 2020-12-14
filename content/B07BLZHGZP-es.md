@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BLZHGZP/?tag=tolees-21'
 descuento: '37.39'
+average: '49.97'
 ---
 
 Está [Full Montaña Redonda de metal  5 de peluche Esmalte de Uñas Organizador Aromaterapia y Aceites Etéreos Estantería Lippenstift Soporte display rack Almacenamiento Almacenamiento  Negro](https://www.amazon.es/dp/B07BLZHGZP/?tag=tolees-21) con 37.39 de descuento por 49.97 EUR (original: 79.81 EUR) en el siguiente enlace!

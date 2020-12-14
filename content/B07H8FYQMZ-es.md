@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H8FYQMZ/?tag=tolees-21'
 descuento: '42.13'
+average: '10.99'
 ---
 
 Tienes [BOENFU Smartphone Bicicleta Soporte para Teléfono para Bicicleta y Motocicleta Cuna Manillar Soporte para Teléfono para 4 - 6.2 Pulgadas Smartphone](https://www.amazon.es/dp/B07H8FYQMZ/?tag=tolees-21) con un 42.13 % de descuento con precio de oferta de 10.99 EUR (original: 18.99 EUR) en el siguiente enlace!

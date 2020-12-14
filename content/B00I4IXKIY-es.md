@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I4IXKIY/?tag=tolees-21'
 descuento: '67.26'
+average: '9.82'
 ---
 
 Está [LEGO - Intercepción Infernal  Juego de construcción  70162 ](https://www.amazon.es/dp/B00I4IXKIY/?tag=tolees-21) con 67.26 de descuento por 9.82 EUR (original: 29.99 EUR) en el siguiente enlace!

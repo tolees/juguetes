@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OG0MZG2/?tag=tolees-21'
 descuento: '31.72'
+average: '4.95'
 ---
 
 Ahora mismo tienes [Elite Paron Race - Portabidón para Bicicleta  Color Negro Mate/Blanco  Talla única](https://www.amazon.es/dp/B00OG0MZG2/?tag=tolees-21) a 4.95 EUR (original: 7.25 EUR) (31.72 %  de descuento) en el siguiente enlace!

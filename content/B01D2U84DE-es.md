@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D2U84DE/?tag=tolees-21'
 descuento: '53.30'
+average: '7'
 ---
 
 Tienes [LEGO Star Wars - Fiambrera con diseño Darth Vader  #30200001 ](https://www.amazon.es/dp/B01D2U84DE/?tag=tolees-21) con un 53.30 % de descuento con precio de oferta de 7 EUR (original: 14.99 EUR) en el siguiente enlace!

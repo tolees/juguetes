@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NG3JJS/?tag=tolees-21'
 descuento: '29.85'
+average: '2.28'
 ---
 
 Ahora mismo tienes [Hot Wheels Mattel FRN33  Vehículo Básico 50 Aniversario  Coche de Juguete  Modelos Surtidos](https://www.amazon.es/dp/B077NG3JJS/?tag=tolees-21) a 2.28 EUR (original: 3.25 EUR) (29.85 %  de descuento) en el siguiente enlace!

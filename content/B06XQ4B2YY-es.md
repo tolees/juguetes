@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ4B2YY/?tag=tolees-21'
 descuento: '77.17'
+average: '6.99'
 ---
 
 Tienes [LYCAON Campana de bicicleta Campanas de la bici](https://www.amazon.es/dp/B06XQ4B2YY/?tag=tolees-21) con un 77.17 % de descuento con precio de oferta de 6.99 EUR (original: 30.62 EUR) en el siguiente enlace!

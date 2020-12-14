@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HQDB9J1/?tag=tolees-21'
 descuento: '58.58'
+average: '69.99'
 ---
 
 Ahora mismo tienes [YABER Mini Proyector 2600 Lumens Multimedia Vídeo Proyector Portátil Soporta 1080P VGA HDMI USB SD AV  Proyector Cine en Casa Compatible con Fire TV Stick  PS4  Xbox  iPad  iPhone  Android Phone](https://www.amazon.es/dp/B07HQDB9J1/?tag=tolees-21) a 69.99 EUR (original: 168.99 EUR) (58.58 %  de descuento) en el siguiente enlace!

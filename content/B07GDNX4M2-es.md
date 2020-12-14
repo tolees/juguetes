@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDNX4M2/?tag=tolees-21'
 descuento: '53.29'
+average: '13.99'
 ---
 
 Está [Gioteck - HC-X1 Stereo Gaming Headset  Xbox One ](https://www.amazon.es/dp/B07GDNX4M2/?tag=tolees-21) con 53.29 de descuento por 13.99 EUR (original: 29.95 EUR) en el siguiente enlace!

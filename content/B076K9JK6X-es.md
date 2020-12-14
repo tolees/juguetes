@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076K9JK6X/?tag=tolees-21'
 descuento: '74.38'
+average: '17.99'
 ---
 
 Está [Auriculares PS4  SADES R5 Xbox One Mic Gaming Headset Auriculares para juegos con micrófono para Nueva Xbox one PS4 Laptop Mac Tablet iPhone iPad iPod  Negro ](https://www.amazon.es/dp/B076K9JK6X/?tag=tolees-21) con 74.38 de descuento por 17.99 EUR (original: 70.21 EUR) en el siguiente enlace!

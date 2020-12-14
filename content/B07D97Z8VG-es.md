@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D97Z8VG/?tag=tolees-21'
 descuento: '75.19'
+average: '6.2'
 ---
 
 Está [Partypooteenies - Caja Sorpresa  Bizak  61924682 ](https://www.amazon.es/dp/B07D97Z8VG/?tag=tolees-21) con 75.19 de descuento por 6.2 EUR (original: 24.99 EUR) en el siguiente enlace!

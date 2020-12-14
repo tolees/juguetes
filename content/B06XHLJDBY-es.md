@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHLJDBY/?tag=tolees-21'
 descuento: '70.31'
+average: '33.55'
 ---
 
 Tienes [Barbie Caballo Súper Interactivo con muñeca  Mattel FRV36 ](https://www.amazon.es/dp/B06XHLJDBY/?tag=tolees-21) con un 70.31 % de descuento con precio de oferta de 33.55 EUR (original: 112.99 EUR) en el siguiente enlace!

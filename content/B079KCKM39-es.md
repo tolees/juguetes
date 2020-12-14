@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KCKM39/?tag=tolees-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Está [DC Aquaman™ Figura de acción Mera 30cm  Mattel FXF92 ](https://www.amazon.es/dp/B079KCKM39/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

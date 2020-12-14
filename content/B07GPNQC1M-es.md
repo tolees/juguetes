@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPNQC1M/?tag=tolees-21'
 descuento: '68.94'
+average: '21.74'
 ---
 
 Ahora mismo tienes [Wireless Mandos para Nintendo Switch  Anpreme Nintendo Switch Controller con Gyro Axis Dual Shock Vibration Mandos Gamepad Joystick para Nintendo Switch](https://www.amazon.es/dp/B07GPNQC1M/?tag=tolees-21) a 21.74 EUR (original: 69.99 EUR) (68.94 %  de descuento) en el siguiente enlace!

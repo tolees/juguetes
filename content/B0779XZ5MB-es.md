@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779XZ5MB/?tag=tolees-21'
 descuento: '72.58'
+average: '19.19'
 ---
 
 Está [SUPSOO Cascos Gaming  G820 Súper Cómodo Bajo Profundo Professional Auriculares para PC con Cancelación de Ruido de Mic Compatible PS4 Xbox One Laptop Mac Negro y Verde ](https://www.amazon.es/dp/B0779XZ5MB/?tag=tolees-21) con 72.58 de descuento por 19.19 EUR (original: 69.99 EUR) en el siguiente enlace!

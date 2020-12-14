@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IDCA8DU/?tag=tolees-21'
 descuento: '33.37'
+average: '5.99'
 ---
 
 Tienes [Gioteck - LPX Wired Chat Headset  Xbox One ](https://www.amazon.es/dp/B01IDCA8DU/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 5.99 EUR (original: 8.99 EUR) en el siguiente enlace!

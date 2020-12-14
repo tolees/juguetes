@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HX31YF/?tag=tolees-21'
 descuento: '69.99'
+average: '9'
 ---
 
 Tienes [Nintendo Switch - Set Accesorios  Funda + Protector LCD  Edición Splatoon 2 ](https://www.amazon.es/dp/B071HX31YF/?tag=tolees-21) con un 69.99 % de descuento con precio de oferta de 9 EUR (original: 29.99 EUR) en el siguiente enlace!

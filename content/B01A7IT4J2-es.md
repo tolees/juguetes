@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A7IT4J2/?tag=tolees-21'
 descuento: '56.70'
+average: '6.49'
 ---
 
 Ahora mismo tienes [ULTRICS Cable Micro USB  1 Metro [2 Pack] Plano Android Cable USB de Datos de Carga Rápida Compatible con Samsung Galaxy S6/ S7 Edge  Sony Xperia  Nexus  LG  Nokia Smartphones  PS4  Xbox y Más](https://www.amazon.es/dp/B01A7IT4J2/?tag=tolees-21) a 6.49 EUR (original: 14.99 EUR) (56.70 %  de descuento) en el siguiente enlace!

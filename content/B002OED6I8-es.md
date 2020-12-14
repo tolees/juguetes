@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002OED6I8/?tag=tolees-21'
 descuento: '30.84'
+average: '158.38'
 ---
 
 Está [KidKraft 65079 Casa de muñecas de madera Annabelle para muñecas de 30 cm con 17 accesorios incluidos y 3 niveles de juego](https://www.amazon.es/dp/B002OED6I8/?tag=tolees-21) con 30.84 de descuento por 158.38 EUR (original: 229 EUR) en el siguiente enlace!

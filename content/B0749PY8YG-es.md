@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0749PY8YG/?tag=tolees-21'
 descuento: '37.97'
+average: '4.9'
 ---
 
 Está [VAVA Soporte Móvil Bicicleta Moto  Brazos Triangulares  Recubrimiento TPE para Mantener los Teléfonos Seguros  Operación de una Sola Mano  Ancho/Longitud Ajustable  Rotación de 360 Grados](https://www.amazon.es/dp/B0749PY8YG/?tag=tolees-21) con 37.97 de descuento por 4.9 EUR (original: 7.9 EUR) en el siguiente enlace!

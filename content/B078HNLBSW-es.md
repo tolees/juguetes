@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HNLBSW/?tag=tolees-21'
 descuento: '29.35'
+average: '54.5'
 ---
 
 Tienes [Nerf - no Figura Rival Kronos Deadpool  e0861](https://www.amazon.es/dp/B078HNLBSW/?tag=tolees-21) con un 29.35 % de descuento con precio de oferta de 54.5 EUR (original: 77.14 EUR) en el siguiente enlace!

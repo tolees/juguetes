@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LCFRW2/?tag=tolees-21'
 descuento: '55.18'
+average: '8.96'
 ---
 
 Ahora mismo tienes [Tadeo Jones - Walkie Talkie  Cefa Toys 04610 ](https://www.amazon.es/dp/B072LCFRW2/?tag=tolees-21) a 8.96 EUR (original: 19.99 EUR) (55.18 %  de descuento) en el siguiente enlace!

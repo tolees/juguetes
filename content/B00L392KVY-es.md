@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L392KVY/?tag=tolees-21'
 descuento: '46.35'
+average: '3.75'
 ---
 
 Ahora mismo tienes [Ty - Peluche Perro San Bernardo  15 cm  Color Blanco y marrón  United Labels 36125TY ](https://www.amazon.es/dp/B00L392KVY/?tag=tolees-21) a 3.75 EUR (original: 6.99 EUR) (46.35 %  de descuento) en el siguiente enlace!

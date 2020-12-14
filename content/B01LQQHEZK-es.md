@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LQQHEZK/?tag=tolees-21'
 descuento: '46.20'
+average: '69.93'
 ---
 
 Está [Western Digital My Passport - Disco Duro portátil y Software de Copia de Seguridad automática para PC  Xbox One y Playstation 4  Acabado estandar  Naranja](https://www.amazon.es/dp/B01LQQHEZK/?tag=tolees-21) con 46.20 de descuento por 69.93 EUR (original: 129.99 EUR) en el siguiente enlace!

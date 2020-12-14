@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LCQB3G0/?tag=tolees-21'
 descuento: '43.85'
+average: '16.79'
 ---
 
 Está [Star Wars - Vehículo Medio Episodio 7  Modelos Surtidos  Hasbro B3675 ](https://www.amazon.es/dp/B01LCQB3G0/?tag=tolees-21) con 43.85 de descuento por 16.79 EUR (original: 29.9 EUR) en el siguiente enlace!

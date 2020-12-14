@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFPHXMS/?tag=tolees-21'
 descuento: '41.26'
+average: '9.98'
 ---
 
 Está [FULARR Bandas Reflectantes de Alta Visibilidad  para Brazo  Muñeca  Tobillo y Bicicleta  Banda Advertencia de Seguridad  Equipo Reflectante en Nocturno para Ciclismo  Correr  Caminar – 40X3CM – 20Pcs](https://www.amazon.es/dp/B07DFPHXMS/?tag=tolees-21) con 41.26 de descuento por 9.98 EUR (original: 16.99 EUR) en el siguiente enlace!

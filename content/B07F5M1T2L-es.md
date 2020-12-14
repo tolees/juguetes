@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F5M1T2L/?tag=tolees-21'
 descuento: '38.38'
+average: '27.05'
 ---
 
 Tienes [Wrebbit 3D Puzzle Harry Potter Ollivander s Wand Shop 295](https://www.amazon.es/dp/B07F5M1T2L/?tag=tolees-21) con un 38.38 % de descuento con precio de oferta de 27.05 EUR (original: 43.9 EUR) en el siguiente enlace!

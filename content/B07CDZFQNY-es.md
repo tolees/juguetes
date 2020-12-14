@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21'
 descuento: '57.58'
+average: '29.69'
 ---
 
 Está [Harvest Moon: La luz de la esperanza Edición Coleccionista PS4](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21) con 57.58 de descuento por 29.69 EUR (original: 69.99 EUR) en el siguiente enlace!

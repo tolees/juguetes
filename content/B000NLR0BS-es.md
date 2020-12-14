@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NLR0BS/?tag=tolees-21'
 descuento: '45.48'
+average: '10.61'
 ---
 
 Tienes [Ravensburger Monder Allergy  Monster Land  - 100 Piece Puzzle](https://www.amazon.es/dp/B000NLR0BS/?tag=tolees-21) con un 45.48 % de descuento con precio de oferta de 10.61 EUR (original: 19.46 EUR) en el siguiente enlace!

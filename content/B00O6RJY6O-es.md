@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O6RJY6O/?tag=tolees-21'
 descuento: '65.68'
+average: '6.86'
 ---
 
 Tienes [Skins for PS3 PlayStation 3 Controller Decals Sony Play Station 3 Wireless Controllers Modded Stickers Game Protective Skin Decal - Blue Daemon [ Controller Not Included ] by GameXcel ?](https://www.amazon.es/dp/B00O6RJY6O/?tag=tolees-21) con un 65.68 % de descuento con precio de oferta de 6.86 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BTVQLDW/?tag=tolees-21'
 descuento: '53.79'
+average: '10.98'
 ---
 
 Está [Nuheby Juguete Baño Bebe Juguetes Baño Juguetes de Animales Juego de Pesca Juguetes de Agua Flotantes Juguetes para Agua Piscina Baño](https://www.amazon.es/dp/B07BTVQLDW/?tag=tolees-21) con 53.79 de descuento por 10.98 EUR (original: 23.76 EUR) en el siguiente enlace!

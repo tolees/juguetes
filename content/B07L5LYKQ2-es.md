@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L5LYKQ2/?tag=tolees-21'
 descuento: '81.17'
+average: '8.59'
 ---
 
 Ahora mismo tienes [ZEMOJ DSFSD - Herramienta 18 en 1 para abrir botellas  acero inoxidable  herramienta multifunción para bicicleta  viaje  camping  color negro](https://www.amazon.es/dp/B07L5LYKQ2/?tag=tolees-21) a 8.59 EUR (original: 45.62 EUR) (81.17 %  de descuento) en el siguiente enlace!

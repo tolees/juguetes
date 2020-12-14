@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0158WB5VM/?tag=tolees-21'
 descuento: '54.58'
+average: '5.9'
 ---
 
 Está [Nintendo - Figura Amiibo Totakeke  K.K. Slider ](https://www.amazon.es/dp/B0158WB5VM/?tag=tolees-21) con 54.58 de descuento por 5.9 EUR (original: 12.99 EUR) en el siguiente enlace!

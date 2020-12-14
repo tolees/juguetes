@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HFVCNR0/?tag=tolees-21'
 descuento: '53.39'
+average: '18.64'
 ---
 
 Tienes [La LEGO Película: El Videojuego](https://www.amazon.es/dp/B00HFVCNR0/?tag=tolees-21) con un 53.39 % de descuento con precio de oferta de 18.64 EUR (original: 39.99 EUR) en el siguiente enlace!

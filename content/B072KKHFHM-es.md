@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072KKHFHM/?tag=tolees-21'
 descuento: '44.25'
+average: '34'
 ---
 
 Tienes [Mario + Rabbids Kingdom Battle - Nintendo Switch [Importación italiana]](https://www.amazon.es/dp/B072KKHFHM/?tag=tolees-21) con un 44.25 % de descuento con precio de oferta de 34 EUR (original: 60.99 EUR) en el siguiente enlace!

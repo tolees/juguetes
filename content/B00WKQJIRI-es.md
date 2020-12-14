@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WKQJIRI/?tag=tolees-21'
 descuento: '71.31'
+average: '5'
 ---
 
 Tienes [Star Wars abypel003 35 cm cojín de peluche](https://www.amazon.es/dp/B00WKQJIRI/?tag=tolees-21) con un 71.31 % de descuento con precio de oferta de 5 EUR (original: 17.43 EUR) en el siguiente enlace!

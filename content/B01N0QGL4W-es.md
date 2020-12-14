@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0QGL4W/?tag=tolees-21'
 descuento: '50.00'
+average: '55'
 ---
 
 Ahora mismo tienes [Toim - Bicicleta 12 superwings](https://www.amazon.es/dp/B01N0QGL4W/?tag=tolees-21) a 55 EUR (original: 110 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VWDJY0Q/?tag=tolees-21'
 descuento: '60.12'
+average: '5.95'
 ---
 
 Tienes [Hasbro - Amiguitas My Little Pony surtido: modelos aleatorios](https://www.amazon.es/dp/B00VWDJY0Q/?tag=tolees-21) con un 60.12 % de descuento con precio de oferta de 5.95 EUR (original: 14.92 EUR) en el siguiente enlace!

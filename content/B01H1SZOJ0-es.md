@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H1SZOJ0/?tag=tolees-21'
 descuento: '68.02'
+average: '9.59'
 ---
 
 Ahora mismo tienes [Doctora Juguetes - Pretender Maletín de Médico Juguetes Juegos de rol Regalos de Cumpleaños Caja de Juguete Kits para Niños Mayores de 3 Años](https://www.amazon.es/dp/B01H1SZOJ0/?tag=tolees-21) a 9.59 EUR (original: 29.99 EUR) (68.02 %  de descuento) en el siguiente enlace!

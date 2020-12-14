@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PFGHPCY/?tag=tolees-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Está [NextX Máquina de Burbujas  Máquina Automática para Hacer Burbujas para Niños 1500 Burbujas por Minuto  Juguetes de los Niños para el Baño del Bebé  Fiesta de Cumpleaños  Interior  Boda](https://www.amazon.es/dp/B07PFGHPCY/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

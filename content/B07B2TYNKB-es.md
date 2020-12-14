@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B2TYNKB/?tag=tolees-21'
 descuento: '25.49'
+average: '18.62'
 ---
 
 Tienes [Reloj modificable infantil 8021261 de Jurassic World de LEGO con figurita de Owen](https://www.amazon.es/dp/B07B2TYNKB/?tag=tolees-21) con un 25.49 % de descuento con precio de oferta de 18.62 EUR (original: 24.99 EUR) en el siguiente enlace!

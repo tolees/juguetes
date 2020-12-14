@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MQ8X97C/?tag=tolees-21'
 descuento: '49.97'
+average: '19.99'
 ---
 
 Está [8Bitdo Adaptador Inalámbrica Bluetooth para Nintendo Switch  PS1 Classic Edition  PS4  PS3  PC  Mac  Xbox One S  Wii Mote  Wii U Pro  Joycones y Controlador de 8Bitdo](https://www.amazon.es/dp/B07MQ8X97C/?tag=tolees-21) con 49.97 de descuento por 19.99 EUR (original: 39.96 EUR) en el siguiente enlace!

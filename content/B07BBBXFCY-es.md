@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BBBXFCY/?tag=tolees-21'
 descuento: '40.15'
+average: '29.92'
 ---
 
 Está [Shining Resonance Refrain - Draconic Launch Edition- Playstation 4](https://www.amazon.es/dp/B07BBBXFCY/?tag=tolees-21) con 40.15 de descuento por 29.92 EUR (original: 49.99 EUR) en el siguiente enlace!

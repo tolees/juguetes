@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BSQN8E0/?tag=tolees-21'
 descuento: '45.89'
+average: '12.91'
 ---
 
 Ahora mismo tienes [Fehn - Burro de peluche  Fehn & Co. 81299 ](https://www.amazon.es/dp/B00BSQN8E0/?tag=tolees-21) a 12.91 EUR (original: 23.86 EUR) (45.89 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SRECNLK/?tag=tolees-21'
 descuento: '52.28'
+average: '9.52'
 ---
 
 Tienes [Disney - Puzzle  96 Piezas  diseño Clock Buscando a Nemo  Clementoni 230228 ](https://www.amazon.es/dp/B00SRECNLK/?tag=tolees-21) con un 52.28 % de descuento con precio de oferta de 9.52 EUR (original: 19.95 EUR) en el siguiente enlace!

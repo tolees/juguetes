@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNLDV62/?tag=tolees-21'
 descuento: '49.38'
+average: '39.99'
 ---
 
 Tienes [X-TIGER Culote Bicicleta Hombre Invierno Vellón Térmico Ropa MTB Ciclismo Mangas Largas Maillot y Largos Culote Mangas Pantalones  Verde L ](https://www.amazon.es/dp/B07MNLDV62/?tag=tolees-21) con un 49.38 % de descuento con precio de oferta de 39.99 EUR (original: 79 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0772SNFRP/?tag=tolees-21'
 descuento: '65.65'
+average: '24.04'
 ---
 
 Está [Attack On Titan 2  XBOX ONE](https://www.amazon.es/dp/B0772SNFRP/?tag=tolees-21) con 65.65 de descuento por 24.04 EUR (original: 69.99 EUR) en el siguiente enlace!

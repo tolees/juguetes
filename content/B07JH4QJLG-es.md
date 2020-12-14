@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH4QJLG/?tag=tolees-21'
 descuento: '28.57'
+average: '0.1'
 ---
 
 Ahora mismo tienes [Universal MTB Ciclismo Bicicleta Bicicleta Línea de Cable de Freno Cable Interno Línea de Freno Núcleo 150 cm Accesorios de Bicicleta](https://www.amazon.es/dp/B07JH4QJLG/?tag=tolees-21) a 0.1 EUR (original: 0.14 EUR) (28.57 %  de descuento) en el siguiente enlace!

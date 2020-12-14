@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078NPMV6H/?tag=tolees-21'
 descuento: '64.68'
+average: '11.99'
 ---
 
 Tienes [Regalos de cumpleaños para niñas Adolescentes  Top Juguete a Prueba de Golpes Prismáticos compactos para niños Juguetes educativos para niñas de 3-12 años de Edad Rosa TTUKTT10](https://www.amazon.es/dp/B078NPMV6H/?tag=tolees-21) con un 64.68 % de descuento con precio de oferta de 11.99 EUR (original: 33.95 EUR) en el siguiente enlace!

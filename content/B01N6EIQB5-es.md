@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6EIQB5/?tag=tolees-21'
 descuento: '50.05'
+average: '37.46'
 ---
 
 Tienes [Barbie Clínica de Mascotas  94 x 40 cm Mattel Spain FBR36](https://www.amazon.es/dp/B01N6EIQB5/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 37.46 EUR (original: 74.99 EUR) en el siguiente enlace!

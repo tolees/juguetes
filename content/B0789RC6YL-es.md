@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0789RC6YL/?tag=tolees-21'
 descuento: '62.87'
+average: '25.99'
 ---
 
 Tienes [Sades R4 Juego de Auriculares para Xbox  PS4 Controlador  3 5 mm por Cable Sobre la Oreja cancelación de Ruido de micrófono Control de Volumen para Mac/PC/Laptop/PS4/Xbox One  Negro ](https://www.amazon.es/dp/B0789RC6YL/?tag=tolees-21) con un 62.87 % de descuento con precio de oferta de 25.99 EUR (original: 69.99 EUR) en el siguiente enlace!

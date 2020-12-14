@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H1M6GDU/?tag=tolees-21'
 descuento: '59.90'
+average: '3.99'
 ---
 
 Está [Edge Entertainment - 5 pepinos  Juego de Cartas  EDG2F05 ](https://www.amazon.es/dp/B00H1M6GDU/?tag=tolees-21) con 59.90 de descuento por 3.99 EUR (original: 9.95 EUR) en el siguiente enlace!

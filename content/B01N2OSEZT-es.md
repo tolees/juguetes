@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2OSEZT/?tag=tolees-21'
 descuento: '28.32'
+average: '10.68'
 ---
 
 Tienes [LEGO - Bunny Batman  Llavero Linterna  LGL-KE103B ](https://www.amazon.es/dp/B01N2OSEZT/?tag=tolees-21) con un 28.32 % de descuento con precio de oferta de 10.68 EUR (original: 14.9 EUR) en el siguiente enlace!

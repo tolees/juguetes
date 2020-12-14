@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P55ZTXW/?tag=tolees-21'
 descuento: '99.96'
+average: '0.01'
 ---
 
 Ahora mismo tienes [DoreenBow - Juego de 3 herramientas de extracción de destornilladores con mango de máquina de juego  herramienta de desmontaje de consola de juego Xbox 360 T6 T8](https://www.amazon.es/dp/B07P55ZTXW/?tag=tolees-21) a 0.01 EUR (original: 22.84 EUR) (99.96 %  de descuento) en el siguiente enlace!

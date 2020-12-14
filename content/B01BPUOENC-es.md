@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BPUOENC/?tag=tolees-21'
 descuento: '41.96'
+average: '6.5'
 ---
 
 Está [Ty 41166 Animales de Juguete Juguete de Peluche - Juguetes de Peluche  Animales de Juguete   Beanie Babies  Perro  Duke  215 9 mm ](https://www.amazon.es/dp/B01BPUOENC/?tag=tolees-21) con 41.96 de descuento por 6.5 EUR (original: 11.2 EUR) en el siguiente enlace!

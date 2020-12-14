@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W2KC5GC/?tag=tolees-21'
 descuento: '34.30'
+average: '22.99'
 ---
 
 Está [LEGO Star Wars - Chewbacca  75530 ](https://www.amazon.es/dp/B06W2KC5GC/?tag=tolees-21) con 34.30 de descuento por 22.99 EUR (original: 34.99 EUR) en el siguiente enlace!

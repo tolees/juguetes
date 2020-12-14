@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0765BRXW8/?tag=tolees-21'
 descuento: '29.96'
+average: '14'
 ---
 
 Ahora mismo tienes [LEGO BrickHeadz - Owen And Blue  41614 ](https://www.amazon.es/dp/B0765BRXW8/?tag=tolees-21) a 14 EUR (original: 19.99 EUR) (29.96 %  de descuento) en el siguiente enlace!

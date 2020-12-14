@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JMYPPVI/?tag=tolees-21'
 descuento: '45.33'
+average: '12'
 ---
 
 Está [Barbie - Muñeca Video Game con vehículo](https://www.amazon.es/dp/B01JMYPPVI/?tag=tolees-21) con 45.33 de descuento por 12 EUR (original: 21.95 EUR) en el siguiente enlace!

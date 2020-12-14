@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQLV5R2/?tag=tolees-21'
 descuento: '64.29'
+average: '24.99'
 ---
 
 Está [Vickea Flotador de Unicornio Gigante Inflable para divertirse en la Piscina Gran Flotador de Juguete  para Adultos y Niños  para Piscina al Aire Libre o Lounge](https://www.amazon.es/dp/B06XQLV5R2/?tag=tolees-21) con 64.29 de descuento por 24.99 EUR (original: 69.99 EUR) en el siguiente enlace!

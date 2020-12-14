@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C7PYDB5/?tag=tolees-21'
 descuento: '34.49'
+average: '18.99'
 ---
 
 Está [NextX Maletin Medicos Juguete  Doctora Juguetes Maletin Enfermera Juego de rol Cuadro Médico Maletín de Médico Juegos de médicos para Niño](https://www.amazon.es/dp/B07C7PYDB5/?tag=tolees-21) con 34.49 de descuento por 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!

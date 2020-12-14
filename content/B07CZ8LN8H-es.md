@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ8LN8H/?tag=tolees-21'
 descuento: '30.36'
+average: '38.99'
 ---
 
 Ahora mismo tienes [INTEY- Alfombra Infantil Puzzle para Niños 101PCS 40 Mat  Espuma Letras Y Números Infantil Juego Alfombrillas 32cmx32cm Alfombra Puzle Protección para El Piso  Protección Pequeños Mat  con 7 Colores ](https://www.amazon.es/dp/B07CZ8LN8H/?tag=tolees-21) a 38.99 EUR (original: 55.99 EUR) (30.36 %  de descuento) en el siguiente enlace!

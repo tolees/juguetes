@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015OGN2JU/?tag=tolees-21'
 descuento: '40.32'
+average: '35.8'
 ---
 
 Ahora mismo tienes [Delta Children Frozen - Caja de juguetes  unisex](https://www.amazon.es/dp/B015OGN2JU/?tag=tolees-21) a 35.8 EUR (original: 59.99 EUR) (40.32 %  de descuento) en el siguiente enlace!

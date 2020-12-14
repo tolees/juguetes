@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMB1MWC/?tag=tolees-21'
 descuento: '61.51'
+average: '5'
 ---
 
 Ahora mismo tienes [Star Wars - Mighty Muggs Obi Wan  Hasbro E2191ES0 ](https://www.amazon.es/dp/B07CMB1MWC/?tag=tolees-21) a 5 EUR (original: 12.99 EUR) (61.51 %  de descuento) en el siguiente enlace!

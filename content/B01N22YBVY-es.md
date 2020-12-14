@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N22YBVY/?tag=tolees-21'
 descuento: '60.12'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Power A - Hybrid Cover  Nintendo Switch ](https://www.amazon.es/dp/B01N22YBVY/?tag=tolees-21) a 9.95 EUR (original: 24.95 EUR) (60.12 %  de descuento) en el siguiente enlace!

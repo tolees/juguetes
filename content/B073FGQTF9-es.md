@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073FGQTF9/?tag=tolees-21'
 descuento: '57.01'
+average: '42.99'
 ---
 
 Está [Charmast 【Power Delivery】 26800mAh Batería Externa QC 3.0 Carga Rápida Powerbank con 3 Entradas Y 4 Salidas para MacBook Nintendo Switch Nexus iPhone Samsung Huawei BQ Android Móvil  Blanco ](https://www.amazon.es/dp/B073FGQTF9/?tag=tolees-21) con 57.01 de descuento por 42.99 EUR (original: 99.99 EUR) en el siguiente enlace!

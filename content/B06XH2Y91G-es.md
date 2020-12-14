@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XH2Y91G/?tag=tolees-21'
 descuento: '54.00'
+average: '11.5'
 ---
 
 Tienes [Devir Cartagena Juego de Mesa BGENA](https://www.amazon.es/dp/B06XH2Y91G/?tag=tolees-21) con un 54.00 % de descuento con precio de oferta de 11.5 EUR (original: 25 EUR) en el siguiente enlace!

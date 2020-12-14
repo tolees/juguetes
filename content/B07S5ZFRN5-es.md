@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S5ZFRN5/?tag=tolees-21'
 descuento: '37.47'
+average: '9.98'
 ---
 
 Ahora mismo tienes [DIAOCARE Pata de Cabra Bicicleta  Aleación Ajustable Lateral de Bicicleta con pie de Goma Antideslizante Caballete Lateral Caballete para Montaña Bicicleta Carretera Bicicleta para 24-29 Pulgadas](https://www.amazon.es/dp/B07S5ZFRN5/?tag=tolees-21) a 9.98 EUR (original: 15.96 EUR) (37.47 %  de descuento) en el siguiente enlace!

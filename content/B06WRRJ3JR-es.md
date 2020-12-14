@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WRRJ3JR/?tag=tolees-21'
 descuento: '29.10'
+average: '38.99'
 ---
 
 Tienes [LEGO DUPLO Cars - Cafetería de FLO  10846 ](https://www.amazon.es/dp/B06WRRJ3JR/?tag=tolees-21) con un 29.10 % de descuento con precio de oferta de 38.99 EUR (original: 54.99 EUR) en el siguiente enlace!

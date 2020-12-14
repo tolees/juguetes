@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG7MQL9/?tag=tolees-21'
 descuento: '25.01'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Conthfut 20 Piezas Squishys Juguetes Stress Relief Bolsa de Transporte de Monos Kawaii Panda  Cerdos  Conejos Silicona Animales Squishy.](https://www.amazon.es/dp/B07JG7MQL9/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

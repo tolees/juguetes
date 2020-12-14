@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YE16CYO/?tag=tolees-21'
 descuento: '40.83'
+average: '8.87'
 ---
 
 Está [Disney Infinity 3.0 - Figura Asco  Del Revés ](https://www.amazon.es/dp/B00YE16CYO/?tag=tolees-21) con 40.83 de descuento por 8.87 EUR (original: 14.99 EUR) en el siguiente enlace!

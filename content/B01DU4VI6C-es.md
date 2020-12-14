@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DU4VI6C/?tag=tolees-21'
 descuento: '64.34'
+average: '8.32'
 ---
 
 Ahora mismo tienes [NICOTOY 5858220 Juguete de Peluche - Juguetes de Peluche  Toy Character  Panda  Bear  Monkey  Elephant  Multi ](https://www.amazon.es/dp/B01DU4VI6C/?tag=tolees-21) a 8.32 EUR (original: 23.33 EUR) (64.34 %  de descuento) en el siguiente enlace!

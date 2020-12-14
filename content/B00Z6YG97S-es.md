@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Z6YG97S/?tag=tolees-21'
 descuento: '32.63'
+average: '35'
 ---
 
 Está [Pinypon Famosa Villa  con Muñecos  58 x 40 cm  700012409 ](https://www.amazon.es/dp/B00Z6YG97S/?tag=tolees-21) con 32.63 de descuento por 35 EUR (original: 51.95 EUR) en el siguiente enlace!

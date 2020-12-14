@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N8XK4MF/?tag=tolees-21'
 descuento: '33.33'
+average: '7.9'
 ---
 
 Está [Juguetes sexuales Parejas coqueteo Suministros Glamour Cool Men Fun Eye Mask](https://www.amazon.es/dp/B07N8XK4MF/?tag=tolees-21) con 33.33 de descuento por 7.9 EUR (original: 11.85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CZFJTPE/?tag=tolees-21'
 descuento: '47.35'
+average: '2.78'
 ---
 
 Está [Puzzle Scooby-Doo 60 Nurkowanie](https://www.amazon.es/dp/B01CZFJTPE/?tag=tolees-21) con 47.35 de descuento por 2.78 EUR (original: 5.28 EUR) en el siguiente enlace!

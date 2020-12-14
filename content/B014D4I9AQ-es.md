@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014D4I9AQ/?tag=tolees-21'
 descuento: '49.52'
+average: '32.99'
 ---
 
 Tienes [Infant - Gimnasio musical Fisher-Price  Mattel DFP69 ](https://www.amazon.es/dp/B014D4I9AQ/?tag=tolees-21) con un 49.52 % de descuento con precio de oferta de 32.99 EUR (original: 65.35 EUR) en el siguiente enlace!

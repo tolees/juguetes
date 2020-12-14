@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRJ8LN2/?tag=tolees-21'
 descuento: '25.00'
+average: '125.24'
 ---
 
 Ahora mismo tienes [Ultrasport F-Bike 300B - Bicicleta estática plegable con respaldo  ordenador y app  Gris Oscuro/Negro  74 x 41 x 111 cm](https://www.amazon.es/dp/B07KRJ8LN2/?tag=tolees-21) a 125.24 EUR (original: 166.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

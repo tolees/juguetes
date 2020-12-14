@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NNYNZ2G/?tag=tolees-21'
 descuento: '35.10'
+average: '557.5'
 ---
 
 Tienes [Sony Xperia XZ2  color verde + Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B07NNYNZ2G/?tag=tolees-21) con un 35.10 % de descuento con precio de oferta de 557.5 EUR (original: 858.95 EUR) en el siguiente enlace!
