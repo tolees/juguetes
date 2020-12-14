@@ -24,11 +24,11 @@ Tienes [VTech- Teléfono Interactivo Infantil con luz y Voz  3480-068422 ](https
 
 ℹ️:
 
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alto rendimiento específicas para productos tecnológicos
 - Incluye 2 canciones y 9 melodías que favorecen el desarrollo del lenguaje
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alto rendimiento específicas para productos tecnológicos
 - Botones con luz y números del 0 al 9 que enseñan números y animales; el auricular de mueve de lado a lado
+- El cordón de arrastre y las ruedas favorecen la motricidad del niño y lo animan a gatear
 - Enseña números, animales y vocabulario a través de sus educativas funciones
 - Teléfono interactivo con 3 modos de juego: números, animales y música
-- El cordón de arrastre y las ruedas favorecen la motricidad del niño y lo animan a gatear
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009GFHCYM/?tag=tolees-21)
