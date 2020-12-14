@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.85 % en LEGO Star Wars - Casco de Boba Fett  Set'
-date: 2020-12-12 19:10:10
+date: 2020-12-13 23:40:52
 image: 'https://m.media-amazon.com/images/I/51RRxz9+ksL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,13 @@ Tienes [LEGO Star Wars - Casco de Boba Fett  Set de Construcción Coleccionable 
 
 ℹ️:
 
-- Green and red helmet with macrobinocular viewplate and antenna tipped with a rangefinder is an iconic addition to any Star Wars collection
-- This awesome Boba Fett Helmet memorabilia model for display pays homage to one of the most fearsome bounty hunters in the Star Wars universe
-- It doesn’t take up lot of space displayed on its base with nameplate, this model makes great gift idea for Star Wars fans
-- The authentic details of the Boba Fett Helmet are beautifully reproduced with LEGO bricks in striking details
-- Part of a collectible LEGO Star Wars series for adults and teenagers - check out LEGO Star Wars Stormtrooper Helmet (75276) set
+- El Casco de Boba Fett forma parte de una gama de modelos coleccionables LEGO Star Wars para construir y exponer, integrada también por el Casco de Soldado de Asalto (75276): no te lo pierdas
+- El Casco de Boba Fett, una versión de 625 piezas del que aparece en Star Wars, plantea un desafiante proyecto de construcción
+- Expuesta sobre su base con placa de datos, esta maqueta traerá recuerdos de las trepidantes escenas de la saga Star Wars
+- No ocupa mucho espacio, pero sus detalles entusiasmarán a cualquier fan de Star Wars
+- Rinde homenaje a uno de los cazarrecompensas más aterradores del universo Star Wars y pon a prueba tus habilidades de construcción con LEGO para crear este modelo: el Casco de Boba Fett (75277)
+- Los genuinos detalles del Casco de Boba Fett se han reproducido con ladrillos LEGO
+- El juguete de construcción LEGO Star Wars Casco de Boba Fett mide aproximadamente 18 cm de altura, 11 cm de anchura y 11 cm de profundidad
+- El óptimo regalo de cumpleaños, de Navidad o sorpresa para fans de Star Wars a partir de 18 años y para constructores LEGO con experiencia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21)
