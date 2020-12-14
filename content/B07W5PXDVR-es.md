@@ -25,15 +25,15 @@ Tienes [LEGO Friends - Peluquería de Heartlake City  Set de Construcción de Ju
 
 ℹ️:
 
-- Los sets LEGO cumplen las normas más estrictas del sector, además de los criterios de calidad propios de The LEGO Group. Ofrecen siempre las mismas cualidades, son compatibles entre sí, y se arman y desarman fácilmente una y otra vez.
+- La Peluquería de Heartlake City no necesita pilas para su puesta en marcha. La diversión creativa está garantizada con una serie de instrucciones sencillas, alguna experiencia de construcción y la imaginación activa de las peques.
 - Descarga la app LEGO Life y ayúdala a usar Instructions PLUS para que pueda ver su peluquería con los modos de acercamiento, giro y “fantasma”.
-- El set contiene detalles para hacer volar la imaginación. Incluye 2 minipersonajes, 2 sillones de peluquería, un lavabo para el lavado del cabello y montones de accesorios, como cepillos y pelucas de juguete.
-- Inicia a tu joven constructora en el mundo de Heartlake City, donde las chicas de LEGO Friends la acompañarán por las aventuras más emocionantes que pueda imaginar.
+- Ofrece horas de juego creativo a tu joven estilista con el set LEGO Friends Peluquería de Heartlake City. ¡Pueden simular que cortan el cabello y diseñan peinados a sus amigas o imaginarse en el papel del cliente que visita la peluquería!
 - ¿Está tu pequeña constructora preparada para una experiencia de juego fabulosa
 - Con 235 piezas, la Peluquería de Heartlake City (41391) es ideal como regalo para peques con poca experiencia de construcción y mucha imaginación. Fantástico regalo para cumpleaños, fiestas o una ocasión especial para peques a partir de 6 años.
-- Ofrece horas de juego creativo a tu joven estilista con el set LEGO Friends Peluquería de Heartlake City. ¡Pueden simular que cortan el cabello y diseñan peinados a sus amigas o imaginarse en el papel del cliente que visita la peluquería!
-- Gracias a su reducido tamaño de aproximadamente 11 cm de altura y 17 cm de longitud, este juego de peluquería es lo suficientemente compacto para mantenerlo expuesto y jugar con él a todas horas.
-- La Peluquería de Heartlake City no necesita pilas para su puesta en marcha. La diversión creativa está garantizada con una serie de instrucciones sencillas, alguna experiencia de construcción y la imaginación activa de las peques.
+- Inicia a tu joven constructora en el mundo de Heartlake City, donde las chicas de LEGO Friends la acompañarán por las aventuras más emocionantes que pueda imaginar.
 - Las niñas se lo pasarán en grande viendo la transformación del minipersonaje a su paso por las distintas estaciones de la peluquería. Y, por si fuera poco, ¡pueden aumentar la diversión experimentando con minifiguras de cualquier otro set LEGO!
+- Los sets LEGO cumplen las normas más estrictas del sector, además de los criterios de calidad propios de The LEGO Group. Ofrecen siempre las mismas cualidades, son compatibles entre sí, y se arman y desarman fácilmente una y otra vez.
+- Gracias a su reducido tamaño de aproximadamente 11 cm de altura y 17 cm de longitud, este juego de peluquería es lo suficientemente compacto para mantenerlo expuesto y jugar con él a todas horas.
+- El set contiene detalles para hacer volar la imaginación. Incluye 2 minipersonajes, 2 sillones de peluquería, un lavabo para el lavado del cabello y montones de accesorios, como cepillos y pelucas de juguete.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07W5PXDVR/?tag=tolees-21)
