@@ -25,9 +25,9 @@ Ahora mismo tienes [Yo-kai Watch Kai Reloj Temporada 2  Miscelanea  Hasbro B7496
 
 🔎:
 
-- Incluye 2 medallas exclusivas
-- Proyecta animaciones cortas de los personajes en superficies próximas
 - Reproduce canciones de la tribu, sonidos de invocación y nombres de personajes Yo-kai
+- Proyecta animaciones cortas de los personajes en superficies próximas
 - Reconoce más de 100 medallas (se venden por separado y están sujetas a disponibilidad)
+- Incluye 2 medallas exclusivas
 
 [Visítala!!!](https://www.amazon.es/dp/B01NCYYJZ7/?tag=tolees-21)
