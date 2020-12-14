@@ -24,9 +24,9 @@ Está [Hasbro Gaming travel Quien es quien Juego de viaje  Versión español  B1
 
 ℹ️:
 
-- Recomendado para 2 jugadores
 - Se pueden sacar las fotos, van insertadas, no pegadas
 - Juego de adivinar el personaje misterioso
 - No es conveniente para niños menores de 6 años
+- Recomendado para 2 jugadores
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00STL6L4G/?tag=tolees-21)
