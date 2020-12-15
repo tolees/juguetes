@@ -26,9 +26,9 @@ Está [Hasbro Gaming Juego de mesa Operación  Hasbro B2176B09](https://www.amaz
 ℹ️:
 
 - Incluye 13 piezas del cuerpo divertidas
-- Los niños pueden jugar solos o con amigos
 - El jugador que quite más piezas del cuerpo gana
 - La nariz se ilumina cuando las pinzas tocan los laterales
 - El juego clásico de Operación desafía a los niños a quitar las piezas sin hacer sonar la alarma
+- Los niños pueden jugar solos o con amigos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00STL6W40/?tag=tolees-21)
