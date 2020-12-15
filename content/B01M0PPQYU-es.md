@@ -26,7 +26,7 @@ Está [Playmobil Duo Pack Ranger y Cazador Furtivo 9217](https://www.amazon.es/d
 ℹ️:
 
 - Para completar tus mundos PLAYMOBIL
-- Dos figuras
 - Con accesorios
+- Dos figuras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01M0PPQYU/?tag=tolees-21)
