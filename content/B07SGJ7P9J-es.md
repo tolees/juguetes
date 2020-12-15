@@ -27,8 +27,8 @@ Ahora mismo tienes [Pinypon Action- Emergencia en el avión con Dos Figuras y de
 
 - Las figuras y los escenarios de pinypon action; además de ser muy divertidas; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendadas a partir de 4 años
 - Incluye 2 figuras; el piloto y el mecánico; todas las piezas de las figuras son combinables mix y match- con unas pocas figuras se puede hacer un montón de diferentes mezclas y personajes
+- El avión mide 48 x 48 x 23cm y la figura mide 8cm
 - Avión completo con muchos accesorios y 2 figuras de pinypon action; el piloto y el mecánico
 - Tiene una cabina para el piloto, cabina para albergar 3 pasajeros, espacio para equipajes, chalecos salvavidas y máscaras de oxígeno, escaleras que se convierten en rampa de emergencia y todos accesorios necesarios para revisar el avión antes del despegue
-- El avión mide 48 x 48 x 23cm y la figura mide 8cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07SGJ7P9J/?tag=tolees-21)
