@@ -25,10 +25,10 @@ Ahora mismo tienes [Mattel Disney Toy Story 4 Minifigura Buzz con Nave Espacial 
 
 🔎:
 
-- Cada minifigura y su vehículo se venden por separado y están sujetos a disponibilidad
 - Personajes y vehículos de Toy Story 4 de Disney Pixar en miniatura con diseños y expresiones emblemáticos
+- Cada minifigura y su vehículo se venden por separado y están sujetos a disponibilidad
+- Colecciónalos todos para divertirte en casa y donde quieras
 - Los vehículos tienen ruedas que giran de verdad
 - A partir de 3 años
-- Colecciónalos todos para divertirte en casa y donde quieras
 
 [Visítala!!!](https://www.amazon.es/dp/B07GSNCQ55/?tag=tolees-21)
