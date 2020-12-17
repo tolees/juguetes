@@ -26,11 +26,11 @@ Tienes [LEGO 10713 Classic Maletín Creativo  Divertidos ladrillos de colores vi
 ℹ️:
 
 - Este set de ladrillos para construir es apto para edades de 4 a 99 años.
-- El maletín mide más de 26 cm de altura, 28 cm de ancho y 6 cm de profundidad.
 - Este set de construcción LEGO Classic fomenta la creatividad sin límites y desarrolla la imaginación.
-- Más instrucciones de construcción, divertidos vídeos, ideas e inspiración en LEGO.com/classic. Pide permiso a tus papás antes de conectarte a Internet.
+- El maletín mide más de 26 cm de altura, 28 cm de ancho y 6 cm de profundidad.
 - Contiene un resistente maletín amarillo con útiles compartimentos y un surtido de elementos de colores compuesto por ladrillos, formas, ruedas y ojos.
 - ¡La creatividad está asegurada con los sets LEGO Classic!
 - Un punto de partida perfecto para jóvenes constructores LEGO.
+- Más instrucciones de construcción, divertidos vídeos, ideas e inspiración en LEGO.com/classic. Pide permiso a tus papás antes de conectarte a Internet.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075GQ87PV/?tag=tolees-21)
