@@ -25,15 +25,15 @@ Tienes [LEGO Friends - Taller de Tuneo Creativo  Juguete con Mini Muñecas y Kar
 
 ℹ️:
 
-- Accesorios incluidos: botellas de cera para coche, pintura en espray, un trofeo, una taza y una galleta
-- Eleva la plataforma de reparación para poner los karts a punto para la gran carrera
-- Cada kart mide más de 3 cm de altura, 7 cm de longitud y 3 cm de ancho
-- Usa la función de lanzamiento para enviar a Emma a toda velocidad a reunirse con sus amigas
-- Construye unos asombrosos karts para emma y dean y personalízalos usando todas las piezas
 - Cuenta con una sala de exposición con plataforma giratoria y función de puerta corredera, y una oficina en la planta superior con escritorios y un ordenador; incluye además una plataforma de reparación que se eleva, 2 karts con piezas adicionales para personalizarlos y un lanzador de karts
+- Eleva la plataforma de reparación para poner los karts a punto para la gran carrera
 - Combínalo con el camión de asistencia y mantenimiento (41348), la cafetería de pilotos (41349) y el día de la gran carrera (41352) para disfrutar de infinita diversión con los karts al estilo lego friends
-- El taller de tuneo creativo mide más de 16 cm de altura, 25 cm de ancho y 6 cm de profundidad
-- Exhibe tu último diseño de kart en la plataforma giratoria de la sala de exposición
+- Construye unos asombrosos karts para emma y dean y personalízalos usando todas las piezas
+- Accesorios incluidos: botellas de cera para coche, pintura en espray, un trofeo, una taza y una galleta
 - Incluye 2 minipersonajes: emma y dean, con ropa de competición y casco de seguridad; incluye también una figura de chico, el gato
+- Exhibe tu último diseño de kart en la plataforma giratoria de la sala de exposición
+- Cada kart mide más de 3 cm de altura, 7 cm de longitud y 3 cm de ancho
+- El taller de tuneo creativo mide más de 16 cm de altura, 25 cm de ancho y 6 cm de profundidad
+- Usa la función de lanzamiento para enviar a Emma a toda velocidad a reunirse con sus amigas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0765C6XTK/?tag=tolees-21)

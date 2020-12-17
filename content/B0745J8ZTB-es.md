@@ -25,8 +25,8 @@ Tienes [Peluche E.T. 38cm](https://www.amazon.es/dp/B0745J8ZTB/?tag=tolees-21) c
 
 ℹ️:
 
+- Licencias, Futbol,Equipos
 - Figuras, Personajes,Funko
 - Regalos,Papeleria,Infantil
-- Licencias, Futbol,Equipos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0745J8ZTB/?tag=tolees-21)
