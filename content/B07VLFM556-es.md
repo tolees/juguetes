@@ -25,9 +25,9 @@ Ahora mismo tienes [Darksiders Genesis - Collector s Edition - PS4](https://www.
 
 🔎:
 
-- Standard Edition Game
-- Libro de arte; banda sonora oficial
 - Caja Premium; figura de 23 cm
+- Standard Edition Game
 - Steelbook de alta calidad; stickers
+- Libro de arte; banda sonora oficial
 
 [Visítala!!!](https://www.amazon.es/dp/B07VLFM556/?tag=tolees-21)
