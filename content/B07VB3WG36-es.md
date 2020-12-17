@@ -25,10 +25,10 @@ Está [PDP - Funda De Viajero  Edición Elite  Nintendo Switch ](https://www.ama
 
 ℹ️:
 
-- Bolsillos de almacenamiento independientes y correas de fijación de velcro para mantener los accesorios en su sitio.
-- Carcasa semirrígida con asa de transporte.
-- Almacena hasta catorce tarjetas de juegos con un compartimento frontal con cremallera que amplía su capacidad.
-- Compatible con Nintendo Switch y Nintendo Switch Lite.
 - Con licencia oficial de Nintendo.
+- Compatible con Nintendo Switch y Nintendo Switch Lite.
+- Bolsillos de almacenamiento independientes y correas de fijación de velcro para mantener los accesorios en su sitio.
+- Almacena hasta catorce tarjetas de juegos con un compartimento frontal con cremallera que amplía su capacidad.
+- Carcasa semirrígida con asa de transporte.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VB3WG36/?tag=tolees-21)

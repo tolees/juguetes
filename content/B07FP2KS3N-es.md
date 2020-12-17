@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en LEGO Friends - Casa de Mia  casa de muñe'
-date: 2020-12-09 15:56:37
+date: 2020-12-17 22:36:08
 image: 'https://m.media-amazon.com/images/I/510iVwDtyQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21'
 descuento: '30.00'
+average: '61.495588235294115'
 ---
 
 Tienes [LEGO Friends - Casa de Mia  casa de muñecas divertida para construcción  incluye mascotas  41369 ](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 52.49 EUR (original: 74.99 EUR) en el siguiente enlace!
@@ -24,5 +25,15 @@ Tienes [LEGO Friends - Casa de Mia  casa de muñecas divertida para construcció
 
 ℹ️:
 
+- Ayuda a Mia a practicar su afición por la fotografía de la flora y fauna con la cámara.
+- Cuida de la yegua Metzie y da de comer al conejo en el área de acicalado exterior.
+- La cocina cuenta con un horno, una placa con quemadores y una zona de comedor.
+- Trepa por el rocódromo hasta la habitación de Mia cuando llegue la hora de irse a dormir.
+- Incluye 3 minipersonajes: LEGO Friends Mia, su mamá, Ann, y su papá, Angus; incluye también 2 figuras de animales: un conejo y un caballo.
+- Accesorios incluidos: batidora, espátula, recipiente, barra de pan, sartén, huevo frito, plato, cubiertos, 3 tazas, 3 cápsulas para magdalenas y una bandeja de hornear, montura, brida, casco, patines, colmena, teléfono móvil y cámara.
+- Quita el suelo de la habitación de Mia para acceder fácilmente a toda la cocina y ayuda a mamá y papá a preparar el almuerzo.
+- La habitación de Mia cuenta con una litera, una lámpara, un escritorio y una silla.
+- Cuenta con una casa estilo cabaña rural de 2 plantas que incluye la habitación de Mia, la sala de estar, el baño con lavabo e inodoro, y una cocina. También tiene un rocódromo con una entrada oculta a la habitación de Mia y un pozo en el exterior con un cubo.
+- Interpreta la vida en familia con mamá y papá en esta casa rural de juguete.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21)
