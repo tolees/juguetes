@@ -25,15 +25,15 @@ Tienes [LEGO City Police - Comisaría de policía  juego de construcción  inclu
 
 ℹ️:
 
-- El juego incluye tanto una guía impresa como instrucciones para la construcción digital
-- Juego LEGO City Comisaría de Policía con múltiples maquetas
 - Incorpora pila de botón (1 x CR 1216) para el ladrillo con luz y para el ladrillo con sonido
-- La comisaría mide aproximadamente 24 cm de altura, 48 cm de anchura y 15 cm de profundidad
-- Un marco rodeado de personajes de la serie para televisión de LEGO City estimula el juego
-- Sets de construcción LEGO City que han pasado por las pruebas de seguridad más rigurosas
-- Los sets de construcción LEGO City ayudan a los niños a desarrollar sus habilidades físicas
-- Comisaría de policía de juguete para niños y niñas a partir de 6 años
-- Los juguetes de construcción LEGO satisfacen los requisitos de las normas de calidad
 - A los niños les encantará este juguete de comisaría de policía
+- La comisaría mide aproximadamente 24 cm de altura, 48 cm de anchura y 15 cm de profundidad
+- Comisaría de policía de juguete para niños y niñas a partir de 6 años
+- Juego LEGO City Comisaría de Policía con múltiples maquetas
+- Los juguetes de construcción LEGO satisfacen los requisitos de las normas de calidad
+- Los sets de construcción LEGO City ayudan a los niños a desarrollar sus habilidades físicas
+- Sets de construcción LEGO City que han pasado por las pruebas de seguridad más rigurosas
+- Un marco rodeado de personajes de la serie para televisión de LEGO City estimula el juego
+- El juego incluye tanto una guía impresa como instrucciones para la construcción digital
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21)
