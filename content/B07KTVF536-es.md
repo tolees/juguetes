@@ -25,15 +25,15 @@ Tienes [LEGO City Town - Camión de Intervención de la Jefa de Bomberos Vehícu
 
 ℹ️:
 
-- El cuadro eléctrico con la baldosa del suelo mide más de 3 cm de lado.
+- Con este camión de bomberos de juguete, tu peque puede reimaginar las emocionantes escenas de la serie animada para televisión LEGO City.
+- Este set de construcción infantil cuenta con un camión de bomberos con escalera desmontable, techo abatible y pantalla en la cabina, así como con un taque de agua con cañón de agua y función de disparo.
+- El camión de bomberos mide más de 6 cm de altura, 16 cm de longitud y 7 cm de ancho.
+- Incluye 2 minifiguras LEGO City: Freya McCloud y un bombero.
+- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a los constructores más pequeños a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
 - Activa el disparador del cañón de agua para lanzar los elementos que representan agua hacia las llamas del cuadro eléctrico.
 - El divertido set de construcción de juguetes incluye también un cuadro eléctrico con puertas que se abren.
+- El cuadro eléctrico con la baldosa del suelo mide más de 3 cm de lado.
 - Accesorios incluidos: hacha de bombero, walkie-talkie, megáfono, extintor, taza decorada con el logotipo de una nube de azúcar, 2 conos de color blanco y azul y 4 elementos que representan agua; incluye también un elemento para construir que representa las llamas.
-- Incluye 2 minifiguras LEGO City: Freya McCloud y un bombero.
-- Este set de construcción infantil cuenta con un camión de bomberos con escalera desmontable, techo abatible y pantalla en la cabina, así como con un taque de agua con cañón de agua y función de disparo.
 - Descarga la app LEGO Life en las respectivas tiendas de apps de los dispositivos iOS o Android. Pide permiso a tus padres antes de conectarte a Internet.
-- Con este camión de bomberos de juguete, tu peque puede reimaginar las emocionantes escenas de la serie animada para televisión LEGO City.
-- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a los constructores más pequeños a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
-- El camión de bomberos mide más de 6 cm de altura, 16 cm de longitud y 7 cm de ancho.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KTVF536/?tag=tolees-21)
