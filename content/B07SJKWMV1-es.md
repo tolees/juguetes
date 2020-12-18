@@ -25,10 +25,10 @@ Ahora mismo tienes [FEBER My Lovely Llama - Mascota eléctrónica de juguete  Pa
 
 🔎:
 
-- Feber my lovely llama, es la primera llama adorable para niños con batería 12v en el que pueden montar y personalizarla hasta convertirla en la llama más chula con los pompones de colores y corazones incluidos
+- Los niños pueden conducirla en 4 direcciones: hacia adelante/atrás/giro derecho/izquierdo: adecuado para interior o exterior y hasta una velocidad máxima de 3 km/h
 - Medidas producto: 47,5 x 72,5 x 97 cm; peso producto: 15,7 kg
 - Fácil transporte y montaje en 10 minutos; solo hay que ensamblar la cabeza, conectar la batería y a jugar. ; incluye batería 12v y cargador
-- Los niños pueden conducirla en 4 direcciones: hacia adelante/atrás/giro derecho/izquierdo: adecuado para interior o exterior y hasta una velocidad máxima de 3 km/h
+- Feber my lovely llama, es la primera llama adorable para niños con batería 12v en el que pueden montar y personalizarla hasta convertirla en la llama más chula con los pompones de colores y corazones incluidos
 - Para niño o niña desde los 3 años y hasta un peso máximo de 30 kg
 
 [Visítala!!!](https://www.amazon.es/dp/B07SJKWMV1/?tag=tolees-21)
