@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Venom - Twin Rechargeable Battery Packs  al 36.12 % de descuento'
-date: 2020-12-16 23:56:09
+date: 2020-12-18 00:06:49
 image: 'https://m.media-amazon.com/images/I/41NYO8pwYSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Está [Venom - Twin Rechargeable Battery Packs Con Cubiertas  Color Negro  Xbox 
 ℹ️:
 
 - Long 2 metre USB charge cable with a 1 metre split
-- LED charge indicator
-- Play your Xbox One whilst charging
 - 2x 700mah Battery Packs
+- Play your Xbox One whilst charging
 - 2.5 hour charge = 18 hours of gameplay
+- LED charge indicator
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00G4UCNIM/?tag=tolees-21)
