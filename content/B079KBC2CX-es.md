@@ -26,8 +26,8 @@ Tienes [Cars 3 - Circuito Florida 500 para Coches de Juguete  Mattel FWL70 ](htt
 ℹ️:
 
 - Incluye un vehículo de Rayo McQueen a escala 1:55 para comenzar a jugar nada más abrir la caja
-- Incluye un ascensor que funciona de verdad
 - Se puede conectar a otros conjuntos de juego para ampliar la diversión ambientada en la película. Los conjuntos de juego adicionales se venden por separado y están sujetos a disponibilidad.​​​
+- Incluye un ascensor que funciona de verdad
 - Conjunto de juego fiel a la película con dos niveles llenos de acción y varias zonas de juego temáticas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079KBC2CX/?tag=tolees-21)
