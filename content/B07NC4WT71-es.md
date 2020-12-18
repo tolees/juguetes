@@ -25,9 +25,9 @@ Está [Disney Cars Pista de coches Radiator Springs  juguetes niños 4 años  Ma
 
 ℹ️:
 
-- Añade otros coches metálicos y compite mientras te diviertes; Se venden por separado y están sujetos a disponibilidad
-- El propulsor y los desvíos aumentan la acción durante la carrera
 - Incluye un vehículo Rayo McQueen de plástico a escala 1:55
+- El propulsor y los desvíos aumentan la acción durante la carrera
+- Añade otros coches metálicos y compite mientras te diviertes; Se venden por separado y están sujetos a disponibilidad
 - Conjunto temático Carreras en Radiador Springs de Cars de Disney Pixar
 - Localizaciones originales de la película y accesorios de carrera
 
