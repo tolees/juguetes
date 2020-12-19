@@ -25,8 +25,8 @@ Ahora mismo tienes [Clementoni- Puzzle 1000 Piezas Strange Things  39543.9 ](htt
 
 🔎:
 
-- Favorece la concentración y las habilidades manuales
 - Hecho en Italia
+- Favorece la concentración y las habilidades manuales
 - Puzzle adulto 1000 piezas, con láminas de alta calidad de impresión, y troquelado preciso; con los personajes de Stranger Things
 - Un Puzzle de vívidos colores, y alta calidad con imágenes de Stranger Things, para poderlo montar y desmontar cuantas veces se desee
 
