@@ -25,13 +25,13 @@ Está [LEGO City - Police Policía Aérea: Robo del Diamante  juguete divertido 
 
 ℹ️:
 
-- Incluye 4 minifiguras LEGO City: 2 agentes de la Policía Aérea y 2 ladrones
-- Presiona el ladrillo con luz y sonido del vehículo de transporte de la policía para despejar el tráfico
-- Contiene el vehículo de transporte de la policía con techo abatible, ladrillo con luz y sonido que funciona de verdad (novedad en enero de 2019), celda y caja fuerte para joyas desmontable; el helicóptero del ladrón con 2 rotores giratorios, cabina abatible y cuerda de escalada de plástico para robar la caja fuerte; y la mochila propulsora con alas de la policía aérea
 - Accesorios incluidos: una joya, 3 cascos con viseras abatibles, una gorra, una sierra circular y un juego de esposas de juguete
+- Presiona el ladrillo con luz y sonido del vehículo de transporte de la policía para despejar el tráfico
 - El helicóptero de los ladrones mide más de 10 cm de altura, 21 cm de longitud y 20 cm de ancho
-- Gira los rotores del helicóptero para imaginar que sobrevuelas el vehículo de la policía
-- La mochila propulsora con alas mide más de 9 cm de longitud y 4 cm de ancho
 - El vehículo de transporte de la policía mide más de 8 cm de altura, 17 cm de longitud y 8 cm de ancho
+- La mochila propulsora con alas mide más de 9 cm de longitud y 4 cm de ancho
+- Incluye 4 minifiguras LEGO City: 2 agentes de la Policía Aérea y 2 ladrones
+- Contiene el vehículo de transporte de la policía con techo abatible, ladrillo con luz y sonido que funciona de verdad (novedad en enero de 2019), celda y caja fuerte para joyas desmontable; el helicóptero del ladrón con 2 rotores giratorios, cabina abatible y cuerda de escalada de plástico para robar la caja fuerte; y la mochila propulsora con alas de la policía aérea
+- Gira los rotores del helicóptero para imaginar que sobrevuelas el vehículo de la policía
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FP6QRDL/?tag=tolees-21)
