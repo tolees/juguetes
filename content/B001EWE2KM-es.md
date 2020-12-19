@@ -26,12 +26,12 @@ Tienes [Educa- Cabalgata Disney Puzzle  200 Piezas  Multicolor  13289 ](https://
 ℹ️:
 
 - Puzzle de 200 piezas, horas de diversión y entretenimiento; dimensión aproximado del puzzle montado: 40 x 28 cm
-- Puzzles inspirados en Desfile Disney
-- Puzzle de 200 piezas
-- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
-- Recomendado a partir de 6 años
-- Las piezas son de cartón
 - Están perfectamente acabadas para que sea segura y sencilla su manipulación
+- Puzzle de 200 piezas
+- Las piezas son de cartón
+- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
+- Puzzles inspirados en Desfile Disney
+- Recomendado a partir de 6 años
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001EWE2KM/?tag=tolees-21)
