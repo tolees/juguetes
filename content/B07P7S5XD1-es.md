@@ -25,10 +25,10 @@ Ahora mismo tienes [Mega Construx Caja PRO de 790 piezas y bloques de construcci
 
 🔎:
 
-- Ideal a partir de 8 años, este juguete de construcción estimula las habilidades de creatividad y razonamiento
-- Incluye un cubo con tapa para guardar los bloques con facilidad
-- Compatible con las principales marcas
 - Combínalo con otros conjuntos de construcción de Mega Construx
 - 790 bloques de construcción en colores de camuflaje con bloques transparentes y de mármol, y piezas especiales que incluyen vigas, barandillas, rejillas, placas sin puntas mini, rampas mini y placas base mini
+- Compatible con las principales marcas
+- Incluye un cubo con tapa para guardar los bloques con facilidad
+- Ideal a partir de 8 años, este juguete de construcción estimula las habilidades de creatividad y razonamiento
 
 [Visítala!!!](https://www.amazon.es/dp/B07P7S5XD1/?tag=tolees-21)

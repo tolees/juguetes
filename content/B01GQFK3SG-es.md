@@ -25,10 +25,10 @@ Está [Fisher-Price Mesa multiaprendizaje bilingüe  mesa actividades bebé +6 m
 
 ℹ️:
 
-- Esta mesa multiaprendizaje bilingüe ayuda a aprender los contrarios, el abecedario, los números, las formas, los colores y palabras sencillas en español e inglés
-- Esta mesa de juegos incluye 9 luces y más de 120 canciones, melodías y frases
-- Al apretar el botón interactivo del teléfono de la mesa de aprendizaje, se activan frases divertidas que invitan al niño a hacer juegos de imitación
 - Las patas se pueden montar cuando el niño está listo para dejar de jugar sentado y ya puede comenzar a jugar de pie moviéndose alrededor de la mesa infantil
+- Esta mesa de juegos incluye 9 luces y más de 120 canciones, melodías y frases
 - Regalo original para bebes de 6 a 36 meses
+- Esta mesa multiaprendizaje bilingüe ayuda a aprender los contrarios, el abecedario, los números, las formas, los colores y palabras sencillas en español e inglés
+- Al apretar el botón interactivo del teléfono de la mesa de aprendizaje, se activan frases divertidas que invitan al niño a hacer juegos de imitación
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GQFK3SG/?tag=tolees-21)
