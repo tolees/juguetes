@@ -25,10 +25,10 @@ Tienes [Hasbro Gaming- Taboo Familia Juego de Mesa  Multicolor  E4941105 ](https
 
 ℹ️:
 
-- Incluye una bocina: ¡oh no! si dices una de las palabras prohibidas en la tarjeta, los adversarios harán sonar la bocina y se quedarán con el punto
 - Juego divertido y ágil: corre contra el reloj incluido en este juego ágil y divertido para toda la familia
-- Dos tipos de tarjetas distintos: este gracioso juego de niños contra padres es un divertido giro del clásico juego taboo; incluye tarjetas para niños y para adultos; las tarjetas de niños incluyen palabras clave conocidas y solamente 2 palabras prohibidas
+- Incluye una bocina: ¡oh no! si dices una de las palabras prohibidas en la tarjeta, los adversarios harán sonar la bocina y se quedarán con el punto
 - Tabu familia - hasbro gaming (hasbro e4941105)
+- Dos tipos de tarjetas distintos: este gracioso juego de niños contra padres es un divertido giro del clásico juego taboo; incluye tarjetas para niños y para adultos; las tarjetas de niños incluyen palabras clave conocidas y solamente 2 palabras prohibidas
 - El juego de palabras prohibidas: incluye 260 tarjetas con más de 1.000 palabras clave; haz adivinar a tu equipo la palabra clave en la tarjeta sin decir las palabras prohibidas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MV1VP4Q/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Educa Borras - Genuine Puzzles  Puzzle 2.000 piezas  Monte Fuji  Japón 
 
 ℹ️:
 
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
-- Serie Genuine
 - Edad recomendada: a partir de 12 años
+- Serie Genuine
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AI7C94E/?tag=tolees-21)
