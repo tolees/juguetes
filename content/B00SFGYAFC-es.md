@@ -25,9 +25,9 @@ Tienes [Educa - Conector Junior Peppa Pig: aprende sobre formas  colores  númer
 
 ℹ️:
 
-- Adecuado para jugar y aprender solo o en compañía de padres y amigos
 - Las respuestas varían de posición en cada lámina de manera que el niño utilice sus conocimientos y no la rutina
-- El original y auténtico juego de preguntas y respuestas
+- Adecuado para jugar y aprender solo o en compañía de padres y amigos
 - Juego con un diseño moderno y atractivo
+- El original y auténtico juego de preguntas y respuestas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SFGYAFC/?tag=tolees-21)
