@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.23 % en Educa - Conector Junior Peppa Pig: apren'
-date: 2020-12-19 11:15:45
+date: 2020-12-20 16:20:00
 image: 'https://m.media-amazon.com/images/I/51JArIe2y8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SFGYAFC/?tag=tolees-21'
 descuento: '34.23'
-average: '12.323333333333334'
+average: '11.59'
 ---
 
 Tienes [Educa - Conector Junior Peppa Pig: aprende sobre formas  colores  números  lógica y asociaciones  juego educativo para niños  a partir de 3 años  16230 ](https://www.amazon.es/dp/B00SFGYAFC/?tag=tolees-21) con un 34.23 % de descuento con precio de oferta de 10.49 EUR (original: 15.95 EUR) en el siguiente enlace!

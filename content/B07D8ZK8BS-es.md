@@ -26,8 +26,8 @@ Ahora mismo tienes [Perplexus Electrónico Juego Habilidad  BIZAK 61924608 ](htt
 🔎:
 
 - 3 modos de juego
-- Acepas el desafio
 - Primer perplexus centrado en la velocidad
 - Con luces y sonidos
+- Acepas el desafio
 
 [Visítala!!!](https://www.amazon.es/dp/B07D8ZK8BS/?tag=tolees-21)

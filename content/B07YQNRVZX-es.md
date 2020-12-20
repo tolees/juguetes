@@ -25,10 +25,10 @@ Está [Mega Construx- Halo Coche de Bloques de construcción  Mattel GNB21 ](htt
 
 ℹ️:
 
-- Conjunto de construcción del vehículo Skiff de los Desterrados inspirado en Halo Infinite con cabina trasera, lanzamisiles y torreta de 360 grados que da vueltas al girar el tubo de escape
-- Ideal a partir de 8 años, este juguete de construcción estimula las habilidades de creatividad y razonamiento
-- 452 bloques y piezas que se combinan con otros conjuntos de construcción de Mega Construx y son compatibles con las principales marcas
 - Juguete de construcción 2 en 1: Elige entre construir el Skiff o una muralla fortificada y vehículo andador
+- 452 bloques y piezas que se combinan con otros conjuntos de construcción de Mega Construx y son compatibles con las principales marcas
+- Ideal a partir de 8 años, este juguete de construcción estimula las habilidades de creatividad y razonamiento
 - 4 microfiguras de acción perfectas para coleccionar ( Spartan MK VII, 2 guerreros Brute y un recluta Grunt) con detalles auténticos, 2 puntos de articulación, soportes de exhibición y accesorios de armas intercambiables
+- Conjunto de construcción del vehículo Skiff de los Desterrados inspirado en Halo Infinite con cabina trasera, lanzamisiles y torreta de 360 grados que da vueltas al girar el tubo de escape
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YQNRVZX/?tag=tolees-21)
