@@ -25,9 +25,9 @@ Tienes [VTech Mamá Canguro Saltarina  SPB  color  80-522667    color/modelo sur
 
 ℹ️:
 
+- El juguete detecta cuándo está el bebé de canguro en la bolsa, activando contenidos especiales en cada caso; 3 canciones, 10 melodías, 10 efectos de sonido
 - Suave cuerpo de peluche con diferentes estampados y texturas para estimular el tacto y la curiosidad de los peques; cuatro actividades diferentes para cantar, cuidar al bebé, darle besos y saltar
 - Un corazón led que se ilumina y parpadea al ritmo de la música, los sonidos y las canciones
-- El juguete detecta cuándo está el bebé de canguro en la bolsa, activando contenidos especiales en cada caso; 3 canciones, 10 melodías, 10 efectos de sonido
 - Una adorable mamá canguro con su bebé para cuidar y aprender con ellos; el animal salta y avanza al ritmo de música y frases
 - Control de volumen (dos posiciones); desconexión automática para ahorrar energía
 
