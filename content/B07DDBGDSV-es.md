@@ -26,9 +26,9 @@ Está [Pinypon Action - Policía Vehículos de Acción  Famosa 700014495 ](https
 ℹ️:
 
 - El coche policía de pinypon action es un vehículo de muchos componentes mix is max
-- Sus medidas son 10 cm de alto, 11,5 cm de ancho y 5 cm de profundidad
-- Con muchos pequeños accesorios
 - El coche policía incluye su moto y la figura de policía mix is max
 - Puedes combinar con otros vehículos mezclando las diferentes piezas
+- Sus medidas son 10 cm de alto, 11,5 cm de ancho y 5 cm de profundidad
+- Con muchos pequeños accesorios
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDBGDSV/?tag=tolees-21)

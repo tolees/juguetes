@@ -27,10 +27,10 @@ Ahora mismo tienes [Mega Bloks Camión de carreras y construcción  juguete cons
 
 - Un juguete optimo para manos pequeñas
 - Un juego manual que estimula el desarrollo desde la primera infancia
-- El práctico camión permite guardar en su interior todos los bloques de construcción y el coche de carreras
-- Viene con ocho bloques de construcción y tres tramos de pista que se pueden montar de diferentes maneras
+- Camión de competición construible con ruedas que giran de verdad
 - El camión se puede reconfigurar en forma de pista de carreras acrobática
 - Incluye un coche de carreras fácil de construir que emite cinco sonidos de competición
-- Camión de competición construible con ruedas que giran de verdad
+- Viene con ocho bloques de construcción y tres tramos de pista que se pueden montar de diferentes maneras
+- El práctico camión permite guardar en su interior todos los bloques de construcción y el coche de carreras
 
 [Visítala!!!](https://www.amazon.es/dp/B079KFCF25/?tag=tolees-21)
