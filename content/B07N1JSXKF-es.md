@@ -25,10 +25,10 @@ Ahora mismo tienes [Fisher-Price - Proyector Animalitos  Juguete y Luz de Cuna p
 
 🔎:
 
-- Se ajusta a la mayoría de cunas y, gracias a un botón que puede pulsar el niño, puede usarse sobre una mesita para que tu pequeño se relaje
-- 9 descubrimientos sensoriales para incentivar los sentidos de la vista y el oído del bebé
+- La lista de reproducción por 3 etapas ready, set, sleep se ha diseñado especialmente para ayudar a que tu bebé se duerma y siga soñando
 - Personalizable mediante los 30 minutos de música y sonidos, control de volumen, proyección de estrellas, movimientos y luces coloridas
 - Proyector de música y luces para bebés a partir del nacimiento
-- La lista de reproducción por 3 etapas ready, set, sleep se ha diseñado especialmente para ayudar a que tu bebé se duerma y siga soñando
+- 9 descubrimientos sensoriales para incentivar los sentidos de la vista y el oído del bebé
+- Se ajusta a la mayoría de cunas y, gracias a un botón que puede pulsar el niño, puede usarse sobre una mesita para que tu pequeño se relaje
 
 [Visítala!!!](https://www.amazon.es/dp/B07N1JSXKF/?tag=tolees-21)
