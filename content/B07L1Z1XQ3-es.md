@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.87 % en Edge Entertainment Card Wars - Juego de '
-date: 2020-12-17 14:21:53
+date: 2020-12-19 23:29:11
 image: 'https://m.media-amazon.com/images/I/41MpANJ12PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,8 @@ Tienes [Edge Entertainment Card Wars - Juego de cartas Rey Hielo vs Marceline](h
 
 ℹ️:
 
-- Item package quantity: 1.0
-- Package Dimensions: 4.0 L x 19.5 H x 10.6 W (centimeters)
-- King Ice vs Marceline
-- Age range description: de 10 a 99
+- Acción y combate en cada turno
+- El mazo de eriales glaciales del Rey Hielo y el mazo de pantanos inanes y prados sosegados de Marceline están listos para jugar
+- Ahora te toca a ti librar batallas como Finn y Jake para decidir quién será el tío guay y quién un cacho merluzo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L1Z1XQ3/?tag=tolees-21)
