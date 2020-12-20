@@ -25,10 +25,10 @@ Está [Pinypon Cool Caravan - Set de Juguete y Accesorios Divertidos con 1 Figur
 
 ℹ️:
 
-- La autocaravana más cool de Pinypon viene super equipada, con todos los detalles de una caravana de verdad.
-- Todas las figuritas y complementos de Pinypon, además de su claro fin lúdico, sirven a los niños y niñas para desarrollar su sociabilidad e imaginación. Recomendado desde 4 hasta 7 años
-- ¿Calor? El techo de la caravana se transforma en una piscina súper cool. También puedes hacer una barbacoa en el exterior o bailar bajo la bola de discoteca. ¡El límite lo pones tú!
-- El playset incluye caravana (vehículo y casa portátil), piscina, armario, 2 camas, barbacoa, mesita, guirnalda, bola de discoteca con luz real, figura y más de 50 accesorios. Los complementos vienen en bolsitas para impulsar la experiencia de unboxing y el efecto sorpresa
 - Con Pinypon podrás intercambiar todos los accesorios y piezas. ¡Porque Pinypon es Mix!
+- La autocaravana más cool de Pinypon viene super equipada, con todos los detalles de una caravana de verdad.
+- El playset incluye caravana (vehículo y casa portátil), piscina, armario, 2 camas, barbacoa, mesita, guirnalda, bola de discoteca con luz real, figura y más de 50 accesorios. Los complementos vienen en bolsitas para impulsar la experiencia de unboxing y el efecto sorpresa
+- ¿Calor? El techo de la caravana se transforma en una piscina súper cool. También puedes hacer una barbacoa en el exterior o bailar bajo la bola de discoteca. ¡El límite lo pones tú!
+- Todas las figuritas y complementos de Pinypon, además de su claro fin lúdico, sirven a los niños y niñas para desarrollar su sociabilidad e imaginación. Recomendado desde 4 hasta 7 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QCDDBWC/?tag=tolees-21)
