@@ -25,10 +25,10 @@ Tienes [Mattel Games Pedorretas  juegos de mesa para niños  Mattel DRY35 ](http
 
 ℹ️:
 
-- Juego de mesa que incluye un lanzapedorretas y una baraja de cartas
 - si el lanzapedorretas se tira un pedo cuando lo estás apretando,,, estás eliminado
-- por turnos, los jugadores juegan las cartas y aprietan el lanzapedorretas tantas veces como la carta indique
+- Juego de mesa que incluye un lanzapedorretas y una baraja de cartas
 - las cartas especiales, como "pierde el turno" y "cambio de sentido", le dan más emoción al juego
 - consigue ser el último jugador en tirarse una pedorreta y gana la partida
+- por turnos, los jugadores juegan las cartas y aprietan el lanzapedorretas tantas veces como la carta indique
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BKBWKI2/?tag=tolees-21)
