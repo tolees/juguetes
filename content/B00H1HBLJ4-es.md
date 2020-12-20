@@ -25,11 +25,11 @@ Ahora mismo tienes [Clementoni - Educación infantil 1º  2º  3º  65557    col
 
 🔎:
 
-- Con actividades específicas para los distintos cursos infantiles
-- Kit de juegos educativos para niños en educación infantil
-- Estimula el desarrollo cognitivo, la capacidad de concentración y el razonamiento lógico
-- Muchos juegos creativos, que ayudarán al crecimiento infantil
-- Para niños de 3 a 6 años
 - Juguete en español
+- Estimula el desarrollo cognitivo, la capacidad de concentración y el razonamiento lógico
+- Para niños de 3 a 6 años
+- Kit de juegos educativos para niños en educación infantil
+- Con actividades específicas para los distintos cursos infantiles
+- Muchos juegos creativos, que ayudarán al crecimiento infantil
 
 [Visítala!!!](https://www.amazon.es/dp/B00H1HBLJ4/?tag=tolees-21)
