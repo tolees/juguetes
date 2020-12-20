@@ -25,10 +25,10 @@ Está [Mattel Games - Baño Boom  Atrapa la Caca  Juego de mesa infantil  FWW30 
 
 ℹ️:
 
-- Diversión y risas aseguradas, es clave tener reacciones rápidas
+- Juego de mesa que incluye un retrete de juguete, el desatascador, el dado y caca
 - Se debe desatascar el retrete tantas veces como diga el dado
 - Cuando la caca sale volando, se debe coger cuanto antes, si la atrapas al vuelo te llevas dos fichas
-- Juego de mesa que incluye un retrete de juguete, el desatascador, el dado y caca
+- Diversión y risas aseguradas, es clave tener reacciones rápidas
 - Juego de mesa de 2 a 4 jugadores, a partir de 5 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079KDNLQZ/?tag=tolees-21)

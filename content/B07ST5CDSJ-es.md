@@ -25,10 +25,10 @@ Tienes [Cómo Entrenar a tu Dragón Dragón Lanzallamas Desdentado  BIZAK 619265
 
 ℹ️:
 
-- Con un efecto de respiracion de fuego su boca para un ataque sorpresa, rellena con agua el depósito de su espalda y presionar la oreja izquierda para ver el efecto fuego
-- Inserta el proyectil en su boca y presiona hacia atrás su oreja derecha para disparar, recarga y lanzao otra vez
-- Tiene un tamaño de 56 cm con las alas extendidas e impresionante color bioluminiscente por todo su cuerpo
-- Reproducción del dragón Desdentado (Toothless) uno de los heróes de la película Dragones 3, El Mundo Oscuro
 - Incluye: 1 Dragón Desdentado lanzallamas, 2 proyectiles, 1 cuentagotas y 1 cartucho con espuma de repuesto
+- Reproducción del dragón Desdentado (Toothless) uno de los heróes de la película Dragones 3, El Mundo Oscuro
+- Con un efecto de respiracion de fuego su boca para un ataque sorpresa, rellena con agua el depósito de su espalda y presionar la oreja izquierda para ver el efecto fuego
+- Tiene un tamaño de 56 cm con las alas extendidas e impresionante color bioluminiscente por todo su cuerpo
+- Inserta el proyectil en su boca y presiona hacia atrás su oreja derecha para disparar, recarga y lanzao otra vez
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07ST5CDSJ/?tag=tolees-21)
