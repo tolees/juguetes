@@ -25,9 +25,9 @@ Ahora mismo tienes [Nerf Laser Ops Pro - Pack 2 Lanzadores  Hasbro E2281EU4    c
 
 🔎:
 
+- Edad: A partir de 8 años
+- Lanzamiento único
 - Incluye 2 lanzadores, 2 brazaletes e instrucciones.
 - Personaliza los lanzadores, realiza un seguimiento del rendimiento y detecta a tus adversarios con la app
-- Lanzamiento único
-- Edad: A partir de 8 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07BZPMX4V/?tag=tolees-21)

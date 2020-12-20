@@ -26,9 +26,9 @@ Está [Star Wars Mission Fleet Han Solo Millennium Falcon Figura y vehículo de 
 ℹ️:
 
 - Juguetes coleccionables: busca otras figuras y vehículos de la flota de misión de Star Wars para coleccionar, intercambiar con amigos o dar como regalos (cada uno se vende por separado). Sujeto a disponibilidad.)
-- Han SOLO MILLENNIUM FALCON: Como capitán del Halcón Milenario, Han Solo y su copiloto Chewbacca se lanzaron de Mos Eisley en una misión para escoltar a Luke Skywalker y Obi-Wan Kenobi a Alderaan
-- Mini tanque desmontable: los niños pueden pretender llevar la batalla al suelo con el accesorio desmontable de mini tanque que incluye la figura de Han Solo puede estar de pie
 - La carrera de MOS EISLEY SMUGGLER: A los niños y niñas de 4 años en adelante les encantará imaginar misiones de contrabando atrevidas, persecuciones emocionantes y escapadas audaces con la figura y el vehículo Han Solo Millennium Falcon con con un lanzador de proyectiles reposicionable
+- Han SOLO MILLENNIUM FALCON: Como capitán del Halcón Milenario, Han Solo y su copiloto Chewbacca se lanzaron de Mos Eisley en una misión para escoltar a Luke Skywalker y Obi-Wan Kenobi a Alderaan
 - Carácter icónico de Star Wars: esta figura de Han Solo de 2.5 pulgadas cuenta con múltiples puntos de articulación y diseño y detalle inspirados en Star Wars: A New Hope
+- Mini tanque desmontable: los niños pueden pretender llevar la batalla al suelo con el accesorio desmontable de mini tanque que incluye la figura de Han Solo puede estar de pie
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZYBW78X/?tag=tolees-21)
