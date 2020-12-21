@@ -19,11 +19,11 @@ descuento: '20.63'
 average: '100'
 ---
 
-Está [Fisher-Price - Centro de actividades Bota-Bot  para bebé +1 año  Mattel CHN38 ](https://www.amazon.es/dp/B00R6CIK7A/?tag=tolees-21) con 20.63 de descuento por 100 EUR (original: 125.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fisher-Price - Centro de actividades Bota-Bot  para bebé +1 año  Mattel CHN38 ](https://www.amazon.es/dp/B00R6CIK7A/?tag=tolees-21) a 100 EUR (original: 125.99 EUR) (20.63 %  de descuento) en el siguiente enlace!
 
 [![Fisher-Price - Centro de actividades Bot](https://images-eu.ssl-images-amazon.com/images/I/41jPlq3XtKL._SL200_.jpg)](https://www.amazon.es/dp/B00R6CIK7A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00R6CIK7A/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00R6CIK7A/?tag=tolees-21)

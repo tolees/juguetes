@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars - Botella con diseño C3-P al 64.11 % de descuento'
+title: 'LEGO Star Wars - Botella con diseño C3-P al 64.11 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31oslhUHRkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '64.11'
 average: '5.38'
 ---
 
-Ahora mismo tienes [LEGO Star Wars - Botella con diseño C3-Po  #30300003 ](https://www.amazon.es/dp/B01D2U89IY/?tag=tolees-21) a 5.38 EUR (original: 14.99 EUR) (64.11 %  de descuento) en el siguiente enlace!
+Tienes [LEGO Star Wars - Botella con diseño C3-Po  #30300003 ](https://www.amazon.es/dp/B01D2U89IY/?tag=tolees-21) con precio final de  5.38 EUR (original: 14.99 EUR) (64.11 %  de rebaja) aqui!
 
 [![LEGO Star Wars - Botella con diseño C3-P](https://images-eu.ssl-images-amazon.com/images/I/31oslhUHRkL._SL200_.jpg)](https://www.amazon.es/dp/B01D2U89IY/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01D2U89IY/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01D2U89IY/?tag=tolees-21)

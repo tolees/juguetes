@@ -19,11 +19,11 @@ descuento: '15.39'
 average: '21.99'
 ---
 
-Ahora mismo tienes [CR123A 3V Pilas Actualizadas  morpilot 16PCS CR123 1500mAh Pilas Metal de Litio No Recargables  Potencia Ultra y Rendimiento Alto  Uso para Cámaras Digitales Linternas Juguetes](https://www.amazon.es/dp/B07KM1VRQG/?tag=tolees-21) a 21.99 EUR (original: 25.99 EUR) (15.39 %  de descuento) en el siguiente enlace!
+Está [CR123A 3V Pilas Actualizadas  morpilot 16PCS CR123 1500mAh Pilas Metal de Litio No Recargables  Potencia Ultra y Rendimiento Alto  Uso para Cámaras Digitales Linternas Juguetes](https://www.amazon.es/dp/B07KM1VRQG/?tag=tolees-21) con 15.39 de descuento por 21.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![CR123A 3V Pilas Actualizadas  morpilot 1](https://images-eu.ssl-images-amazon.com/images/I/51ZEp4ViV3L._SL200_.jpg)](https://www.amazon.es/dp/B07KM1VRQG/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07KM1VRQG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KM1VRQG/?tag=tolees-21)
