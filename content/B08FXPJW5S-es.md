@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperThings PST6S112UK00 Secret Spies-St al 72.09 % de descuento'
-date: 2020-12-20 07:09:26
+date: 2020-12-21 07:42:32
 image: 'https://m.media-amazon.com/images/I/51qJEcYgzSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08FXPJW5S/?tag=tolees-21'
 descuento: '72.09'
-average: '14.143404255319151'
+average: '13.965000000000002'
 ---
 
 Está [SuperThings PST6S112UK00 Secret Spies-Starter Pack](https://www.amazon.es/dp/B08FXPJW5S/?tag=tolees-21) con 72.09 de descuento por 5.58 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [SuperThings PST6S112UK00 Secret Spies-Starter Pack](https://www.amazon.es
 
 ℹ️:
 
-- Incluye un par de gafas espía.
-- Guía temática de cómics
 - Número de modelo: PST6S112UK00
+- Guía temática de cómics
 - Exclusivo detector de espías con efecto metálico.
+- Incluye un par de gafas espía.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FXPJW5S/?tag=tolees-21)
