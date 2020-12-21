@@ -25,10 +25,10 @@ En este momento está [Avengers- Bend and Flex Figura Dualpack  Hasbro E91975L0 
 
 🔎:
 
-- Diviértete exhibiendo y retorciendo estas figuras de iron patriot y thanos en poses de acción creativas y nuevas; las figuras bend and flex indudablemente rompen el molde cuando se trata de poses de acción flexibles
 - Imagina unirte a batallas épicas con estas figuras, de iron patriot y thanos con diseño clásico inspirado en el universo marvel
-- Mantén esa poderosa postura; además cada figura flexible incluye un accesorio blast para mejorar la figura en la postura perfecta
 - Diversión épica con giros y vueltas; estas figuras de 15.cm bend and flex de iron patriot y thanos tienen brazos y piernas flexibles que pueden retorcerse y doblarse en muchas poses creativas
+- Diviértete exhibiendo y retorciendo estas figuras de iron patriot y thanos en poses de acción creativas y nuevas; las figuras bend and flex indudablemente rompen el molde cuando se trata de poses de acción flexibles
+- Mantén esa poderosa postura; además cada figura flexible incluye un accesorio blast para mejorar la figura en la postura perfecta
 - Colecciona otras figuras de avengers bend and flex, incluidos iron man, captain america y black panther para una diversión "flextástica"; las figuras adicionales se venden por separado; sujetas a disponibilidad
 
 [Aquí!!!](https://www.amazon.es/dp/B083PJJWMN/?tag=tolees-21)
