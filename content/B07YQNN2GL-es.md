@@ -25,9 +25,9 @@ Ahora mismo tienes [Mega Bloks- Perrito Paseos  juguete de construcción para be
 
 🔎:
 
-- El juego de construcción incluye 1 cachorro con una base de rueda rodante y 15 bloques de construcción grandes, diseñados para ser duraderos, para construir directamente en la cabeza, la espalda y la nariz del cachorro
-- Los bloques caben dentro del cachorro; coloque los bloques en la boca del cachorro para alimentarlo, luego tire de su correa para llevarlo a caminar a los bloques de caca
 - Los bloques son compatibles con todos los juguetes de construcción Mega Bloks para una diversión de aprendizaje sin fin
+- El juego de construcción incluye 1 cachorro con una base de rueda rodante y 15 bloques de construcción grandes, diseñados para ser duraderos, para construir directamente en la cabeza, la espalda y la nariz del cachorro
 - Adecuados para mayores de 1 años, y respaldados por Fisher-Price, los bloques First Builders son el ajuste óptimo para manos pequeñas, diseñados para desarrollar la imaginación y las habilidades motoras gruesas
+- Los bloques caben dentro del cachorro; coloque los bloques en la boca del cachorro para alimentarlo, luego tire de su correa para llevarlo a caminar a los bloques de caca
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQNN2GL/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Educa-Mis Primeras Actividades Peppa Pig Juego Educativo par
 
 🔎:
 
-- Perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
-- Contenido: colorear, asociación y lógica, cadena de colores, abecedario y números
 - Recomendado a partir de 3 años
+- Perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
 - Aprenderán el alfabeto, números, colores, animales, asociaciones y mucho más
+- Contenido: colorear, asociación y lógica, cadena de colores, abecedario y números
 - Un kit de actividades divertidas concebido para reforzar el aprendizaje preescolar en compañía de Peppa Pig
 
 [Visítala!!!](https://www.amazon.es/dp/B072J7R2BH/?tag=tolees-21)
