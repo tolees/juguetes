@@ -25,10 +25,10 @@ Ahora mismo tienes [Base de Carga para Nintendo Switch- innoAura Base de Carga P
 
 🔎:
 
-- CARGA MIENTRAS SE JUEGA: Con esta base especial, puede jugar con el Switch en modo de mesa mientras carga. Esto es conveniente para quienes desean jugar y cargar al mismo tiempo su consola.
-- DISEÑO CON ESTRUCTURA DE ENFRIAMIENTO: Tiene entradas de aire para el flujo de aire en el lateral, no bloqueará las rejillas de ventilación y prolongará la vida útil de la consola Switch. Cambio de pantalla con un solo toque, cambie libremente entre la consola y la pantalla de TV.
-- DISEÑO HUMANIZADO: Después de conectar el adaptador de base al televisor/proyector con el cable HDMI y su cargador, el televisor reconocerá el Switch inmediatamente. Tiene un LED para mostrar cuando está en el modo de visualización de TV en su botón.
-- DISEÑO ESPECIAL: Base especialmente diseñada para reemplazar su base original del Nintendo Switch.
 - PORTÁTIL Y LIGERO: Tiene un tamaño pequeño para que quepa en el bolsillo y en la bolsa de viaje, plug and play, para que pueda usarlo en el lugar y momento que desee. Aunque sea pequeño, funciona tan bien como el original de Nintendo Switch.
+- DISEÑO HUMANIZADO: Después de conectar el adaptador de base al televisor/proyector con el cable HDMI y su cargador, el televisor reconocerá el Switch inmediatamente. Tiene un LED para mostrar cuando está en el modo de visualización de TV en su botón.
+- CARGA MIENTRAS SE JUEGA: Con esta base especial, puede jugar con el Switch en modo de mesa mientras carga. Esto es conveniente para quienes desean jugar y cargar al mismo tiempo su consola.
+- DISEÑO ESPECIAL: Base especialmente diseñada para reemplazar su base original del Nintendo Switch.
+- DISEÑO CON ESTRUCTURA DE ENFRIAMIENTO: Tiene entradas de aire para el flujo de aire en el lateral, no bloqueará las rejillas de ventilación y prolongará la vida útil de la consola Switch. Cambio de pantalla con un solo toque, cambie libremente entre la consola y la pantalla de TV.
 
 [Visítala!!!](https://www.amazon.es/dp/B07QXPMYWY/?tag=tolees-21)
