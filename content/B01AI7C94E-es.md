@@ -25,11 +25,11 @@ Tienes [Educa Borras - Genuine Puzzles  Puzzle 2.000 piezas  Monte Fuji  Japón 
 
 🔎:
 
-- Ideal for children from 12 years
-- Puzzle consisting of 2000 puzzle pieces
 - Dimension of the finished puzzle: 96 x 68 cm
-- Puzzle consisting of 2000 puzzle pieces
+- Ideal for children from 12 years
 - Ideal for children from 12 years
 - Dimension of the finished puzzle: 96 x 68 cm
+- Puzzle consisting of 2000 puzzle pieces
+- Puzzle consisting of 2000 puzzle pieces
 
 [Comprar!!!](https://www.amazon.es/dp/B01AI7C94E/?tag=tolees-21)
