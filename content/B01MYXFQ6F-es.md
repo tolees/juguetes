@@ -25,10 +25,10 @@ Está [Barbie y sus perritos sorpresa  muñeca con accesorios  regalo para niña
 
 ℹ️:
 
-- Sorpresa la perrita de barbie está embarazada de cachorros y tú puedes ayudarla a tenerlos
 - La bañera de partos de mamá perro también se puede usar como cuna para los cachorritos, mientras que la bandeja en forma de pata es perfecta para la hora del baño, además, la botella de agua incluida sirve para limpiar a los perritos
-- Al apretar la cabeza de mamá perro dará a luz a un perrito, luego, al volver a apretarla dos veces dará a luz a otros dos perritos
-- Lava los cachorros recién nacidos con la toalla y agua fría para ver cómo abren sus ojos y cómo aparece un colorido corazón
 - Regalo óptimo para niñas y niños de más de 5 años
+- Lava los cachorros recién nacidos con la toalla y agua fría para ver cómo abren sus ojos y cómo aparece un colorido corazón
+- Sorpresa la perrita de barbie está embarazada de cachorros y tú puedes ayudarla a tenerlos
+- Al apretar la cabeza de mamá perro dará a luz a un perrito, luego, al volver a apretarla dos veces dará a luz a otros dos perritos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYXFQ6F/?tag=tolees-21)
