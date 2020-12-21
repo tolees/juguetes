@@ -25,10 +25,10 @@ Está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Rojo  Magma Red   PS4 ](h
 
 ℹ️:
 
-- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 - Comunicación inalámbrica: Bluetooth Ver2.1+EDR
-- Controlador inalámbrico Dualshock 4
-- Puertos: USB (micro B), puerto de ampliación, toma de auricular estéreo
 - Es de la marca Sony
+- Puertos: USB (micro B), puerto de ampliación, toma de auricular estéreo
+- Controlador inalámbrico Dualshock 4
+- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N3THRBU/?tag=tolees-21)
