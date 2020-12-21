@@ -25,10 +25,10 @@ En este momento está [Pinypon Action - Pack de 5 Figuras  Famosa 700014490 ](ht
 
 🔎:
 
-- Policía, superhéroe, científico, ladrón y aventurero
-- Incluye muchos pequeños accesorios para cada personaje
 - Al ser figuras combinables mix is max podrán convertirse en lo que tú quieras
+- Incluye muchos pequeños accesorios para cada personaje
 - Pack de 5 figuritas pinypon action con los personajes favoritos de los niños
 - Sus medidas son 7 cm de alto, 4,5 cm de ancho y 4 cm de profundidad
+- Policía, superhéroe, científico, ladrón y aventurero
 
 [Aquí!!!](https://www.amazon.es/dp/B07DD3RDWT/?tag=tolees-21)

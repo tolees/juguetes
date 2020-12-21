@@ -25,10 +25,10 @@ Ahora mismo tienes [Jurassic World Control N´Conquer Carnotaurus Toro  dinosaur
 
 🔎:
 
-- ​Larger-sized figure features "Primal Attack" total control action by tilting the tail up to move the head, waist and to twist sideways.  Lift the tail up to make the Carnotaurus ROAR or push the button on tail back to make it ROAR, too!
 - ​The Control N Conquer Carnotaurus Toro dinosaur figure is inspired by the Jurassic World animated series, Camp Cretaceous!
-- ​Use the button to make the jaws open and close to pick up figures and accessories!
 - ​Its the perfect gift for ages 4 years and up especially Jurassic World fans and those who love dinosaurs and action play!
 - ​Control N Conquer Carnotaurus Toro also features movie-inspired sculpting, movable joints, authentic color, realistic texture and includes a map and scene booklet with reusable dinosaur stickers.
+- ​Use the button to make the jaws open and close to pick up figures and accessories!
+- ​Larger-sized figure features "Primal Attack" total control action by tilting the tail up to move the head, waist and to twist sideways.  Lift the tail up to make the Carnotaurus ROAR or push the button on tail back to make it ROAR, too!
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y62RPGJ/?tag=tolees-21)

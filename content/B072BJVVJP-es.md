@@ -25,10 +25,10 @@ Ahora mismo tienes [Chicos - Correpasillos con Cuatro Ruedas Mini Custom Fucsia 
 
 🔎:
 
-- Correpasillos Mini Custom de gran resistencia y durabilidad
-- Corre pasillos muy ligero, práctico y seguro con 4 ruedas para dar mayor estabilidad
 - Color violeta
-- Para niños y niñas de entre 10 y 36 meses
+- Correpasillos Mini Custom de gran resistencia y durabilidad
 - Diseño moderno inspirado en una moto Custom clásica
+- Corre pasillos muy ligero, práctico y seguro con 4 ruedas para dar mayor estabilidad
+- Para niños y niñas de entre 10 y 36 meses
 
 [Visítala!!!](https://www.amazon.es/dp/B072BJVVJP/?tag=tolees-21)

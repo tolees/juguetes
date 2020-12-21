@@ -25,10 +25,10 @@ En este momento está [FEBER My Real Car - Coche eléctrico a bateria Interactiv
 
 🔎:
 
-- Feber my real car es el primer coche a batería que incluye diferentes funciones de role play para que los niños, a partir de los 3 años, puedan jugar a arreglar su propio coche; el peso máximo recomendado es de 25 kg
-- El panel del coche nos alertará si hay algo que no está funcionando correctamente
-- Muchos accesorios incluidos: destornillador, tuercas, tornillos, tapacubos y manguera para echar gasolina, batería de 6v y cargador
-- Los niños podrán conducir su coche de 1 plaza hasta una velocidad máxima de 2 km/h
 - Dimensiones del producto: 94 x 56 x 45 cm (fondo x ancho x altura); peso del producto: 9,5 kg
+- El panel del coche nos alertará si hay algo que no está funcionando correctamente
+- Los niños podrán conducir su coche de 1 plaza hasta una velocidad máxima de 2 km/h
+- Feber my real car es el primer coche a batería que incluye diferentes funciones de role play para que los niños, a partir de los 3 años, puedan jugar a arreglar su propio coche; el peso máximo recomendado es de 25 kg
+- Muchos accesorios incluidos: destornillador, tuercas, tornillos, tapacubos y manguera para echar gasolina, batería de 6v y cargador
 
 [Aquí!!!](https://www.amazon.es/dp/B07SGJ8MKH/?tag=tolees-21)
