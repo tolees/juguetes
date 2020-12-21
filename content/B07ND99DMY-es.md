@@ -25,14 +25,14 @@ Está [LEGO - Hidden Side Autobús de Intercepción Juguete de construcción con
 
 ℹ️:
 
+- Ambientados en Newbury, una ciudad imaginaria donde los fantasmas rondan los edificios y atormentan a los vecinos, los sets LEGO Hidden Side permiten a tu peque representar emocionantes aventuras de cazadores de fantasmas que combinan modelos LEGO físicos con tecnología de realidad aumentada completamente interactiva.
 - Este juguete con funciones de realidad aumentada incluye 6 figuras: Jack Davids (con un smartphone), Parker L. Jackson (con un smartphone), la genio de la tecnología J. B., los trabajadores Nanna y Bill, y una figura del perro fantasma de Davids, Spencer.
 - Este juguete de construcción LEGO Hidden Side combina el juego creativo libre de los sets LEGO con una app y ofrece una asombrosa experiencia de juego en realidad aumentada (AR) para uno o varios jugadores. Ideal para niños a partir de 8 años.
-- Este autobús escolar de juguete cuenta con un centro de control extraíble y cañones desplegables desembrujadores, escáneres en el techo y espacio dentro para 4 minifiguras. El baño portátil se puede convertir en un monstruo fantasma encantado que escupe baldosas de color marrón para interpretar divertidos juegos de lo más alocado.
-- Para disfrutar completamente de la experiencia en realidad aumentada, se necesita una tableta o un teléfono móvil (no incluido). Compatible con determinados dispositivos iOS y Android. Pide permiso a tus padres antes de conectarte a Internet.
-- El Autobús de Intercepción mide más de 15 cm de altura, 10 cm de ancho y 29 cm de longitud.
-- Ambientados en Newbury, una ciudad imaginaria donde los fantasmas rondan los edificios y atormentan a los vecinos, los sets LEGO Hidden Side permiten a tu peque representar emocionantes aventuras de cazadores de fantasmas que combinan modelos LEGO físicos con tecnología de realidad aumentada completamente interactiva.
-- Descarga la app LEGO Hidden Side y apunta con tu teléfono al modelo Autobús de Intercepción para que este set para niños basado en un autobús escolar cobre vida. Recorre el espacio con el teléfono para descubrir un entorno que cambia continuamente, oculto alrededor del modelo.
-- Usar la app LEGO Hidden Side es como mirar por una ventana a un divertido y escalofriante lado oculto que está repleto de desafiantes misterios por resolver, fantasmas por derrotar y fantasmas jefe por dominar, como Spewer, diferentes en cada set.
 - Construye el set físico, juega con él y luego haz que cobre vida al interactuar con el modelo mientras lo ves por la app de AR.
+- Descarga la app LEGO Hidden Side y apunta con tu teléfono al modelo Autobús de Intercepción para que este set para niños basado en un autobús escolar cobre vida. Recorre el espacio con el teléfono para descubrir un entorno que cambia continuamente, oculto alrededor del modelo.
+- Para disfrutar completamente de la experiencia en realidad aumentada, se necesita una tableta o un teléfono móvil (no incluido). Compatible con determinados dispositivos iOS y Android. Pide permiso a tus padres antes de conectarte a Internet.
+- Usar la app LEGO Hidden Side es como mirar por una ventana a un divertido y escalofriante lado oculto que está repleto de desafiantes misterios por resolver, fantasmas por derrotar y fantasmas jefe por dominar, como Spewer, diferentes en cada set.
+- El Autobús de Intercepción mide más de 15 cm de altura, 10 cm de ancho y 29 cm de longitud.
+- Este autobús escolar de juguete cuenta con un centro de control extraíble y cañones desplegables desembrujadores, escáneres en el techo y espacio dentro para 4 minifiguras. El baño portátil se puede convertir en un monstruo fantasma encantado que escupe baldosas de color marrón para interpretar divertidos juegos de lo más alocado.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ND99DMY/?tag=tolees-21)
