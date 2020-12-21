@@ -25,8 +25,8 @@ Ahora mismo tienes [Sony - Mando Inalámbrico DualShock 4  Color Azul Oscuro  PS
 
 🔎:
 
-- Es de la marca Sony
-- Se puede utilizar con las aplicaciones disponibles en Windows PC y Mac
 - Controlador inalámbrico Dualshock 4
+- Se puede utilizar con las aplicaciones disponibles en Windows PC y Mac
+- Es de la marca Sony
 
 [Visítala!!!](https://www.amazon.es/dp/B079M94HSL/?tag=tolees-21)

@@ -27,8 +27,8 @@ Está [Toy Story Caballo Perdigón Suave 30 cm  BIZAK 61234066 ](https://www.ama
 
 - Es tan suave que es el compañero perfecto para la hora de dormir
 - Mide 30 cm y es perfecto para montar a woody y jessie
+- Acabado de tela y piernas suaves
 - Perdigón está listo para trotar y salir a disfrutar de grandes aventuras con los amigos de toy story 4
 - Compañero perfecto de woody y jessie
-- Acabado de tela y piernas suaves
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RNRRQJ6/?tag=tolees-21)
