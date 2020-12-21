@@ -25,9 +25,9 @@ En este momento está [LEGO Classic - Caja de ladrillos creativos grande  Set de
 
 🔎:
 
+- Incluye un separador de ladrillo y viene en una caja de almacenamiento
+- Cuenta con una amplia gama de ladrillos, ventanas, puertas, marcos, además tiene dos placas de base de diferentes tamaños
 - Edad mínima: 4 años
 - Incluye una amplia gama de piezas de LEGO en 33 colores diferentes
-- Cuenta con una amplia gama de ladrillos, ventanas, puertas, marcos, además tiene dos placas de base de diferentes tamaños
-- Incluye un separador de ladrillo y viene en una caja de almacenamiento
 
 [Aquí!!!](https://www.amazon.es/dp/B00PY3EYQO/?tag=tolees-21)

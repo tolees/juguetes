@@ -25,10 +25,10 @@ Tienes [Educa Borras - Genuine Puzzles  Puzzle 1.500 piezas  Old garage  18005 ]
 
 🔎:
 
-- Serie Genuine
-- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Edad recomendada: a partir de 12 años
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
+- Serie Genuine
+- Edad recomendada: a partir de 12 años
 
 [Comprar!!!](https://www.amazon.es/dp/B07L3VG4WZ/?tag=tolees-21)

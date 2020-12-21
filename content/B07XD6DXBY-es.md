@@ -25,10 +25,10 @@ Está [Barbie Teresa gimnasta muñeca con accesorios  Mattel GHK24 ](https://www
 
 ℹ️:
 
-- Teresa gimnasta viene todos los accesorios necesarios para realizar gimnasia rítmica como trampolín, lazos, pelota, mazas, botella de agua e incluso medalla de oro
 - Ajusta el anillo azul de ejercicios en la cintura de teresa para ayudarla a hacer piruetas o volteretas, también puedes poner el aro en su muñeca para que lo gire
-- Coloca a la perrita de teresa en el trampolín y ayúdala a moverse o aprieta su cabeza para ver cómo mueve los lazos
+- Teresa gimnasta viene todos los accesorios necesarios para realizar gimnasia rítmica como trampolín, lazos, pelota, mazas, botella de agua e incluso medalla de oro
 - Regalo óptimo para niñas y niños de más de 3 años
 - Teresa gimnasta es el regalo óptimo para niñas y niños amantes de la gimnasia rítmica
+- Coloca a la perrita de teresa en el trampolín y ayúdala a moverse o aprieta su cabeza para ver cómo mueve los lazos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XD6DXBY/?tag=tolees-21)
