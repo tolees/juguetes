@@ -25,13 +25,13 @@ Ahora mismo tienes [LEGO Star Wars - Casco de Boba Fett  Set de Construcción Co
 
 🔎:
 
-- Los genuinos detalles del Casco de Boba Fett se han reproducido con ladrillos LEGO
-- Rinde homenaje a uno de los cazarrecompensas más aterradores del universo Star Wars y pon a prueba tus habilidades de construcción con LEGO para crear este modelo: el Casco de Boba Fett (75277)
-- El juguete de construcción LEGO Star Wars Casco de Boba Fett mide aproximadamente 18 cm de altura, 11 cm de anchura y 11 cm de profundidad
 - Expuesta sobre su base con placa de datos, esta maqueta traerá recuerdos de las trepidantes escenas de la saga Star Wars
-- El Casco de Boba Fett, una versión de 625 piezas del que aparece en Star Wars, plantea un desafiante proyecto de construcción
+- El juguete de construcción LEGO Star Wars Casco de Boba Fett mide aproximadamente 18 cm de altura, 11 cm de anchura y 11 cm de profundidad
 - El óptimo regalo de cumpleaños, de Navidad o sorpresa para fans de Star Wars a partir de 18 años y para constructores LEGO con experiencia
 - El Casco de Boba Fett forma parte de una gama de modelos coleccionables LEGO Star Wars para construir y exponer, integrada también por el Casco de Soldado de Asalto (75276): no te lo pierdas
+- Los genuinos detalles del Casco de Boba Fett se han reproducido con ladrillos LEGO
+- Rinde homenaje a uno de los cazarrecompensas más aterradores del universo Star Wars y pon a prueba tus habilidades de construcción con LEGO para crear este modelo: el Casco de Boba Fett (75277)
 - No ocupa mucho espacio, pero sus detalles entusiasmarán a cualquier fan de Star Wars
+- El Casco de Boba Fett, una versión de 625 piezas del que aparece en Star Wars, plantea un desafiante proyecto de construcción
 
 [Visítala!!!](https://www.amazon.es/dp/B07XFXZ4B7/?tag=tolees-21)
