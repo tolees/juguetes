@@ -25,9 +25,9 @@ Ahora mismo tienes [Star Wars- Sable Scream  Hasbro E75575L6    color/modelo sur
 
 🔎:
 
-- La primera espada que graba sonidos y los reproduce cuando estás luchando
 - Valor educativo de Star Wars: imaginar historias
-- Sabre láser electrónico de la saga Star Wars
 - Se necesitan 3 pilas AA, pilas de demostración incluidas
+- La primera espada que graba sonidos y los reproduce cuando estás luchando
+- Sabre láser electrónico de la saga Star Wars
 
 [Visítala!!!](https://www.amazon.es/dp/B07R922TTG/?tag=tolees-21)

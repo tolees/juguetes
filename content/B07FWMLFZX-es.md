@@ -27,8 +27,8 @@ Ahora mismo tienes [Mattel Disney Toy Story 4 Juguete aventuras En La Feria de B
 
 - Pliégalo y conviértelo en un maletín con asa para guardar hasta 20 figuras
 - Diseño de Mando Estelar por fuera, parque de atracciones Star Adventures con atracciones por dentro
-- Incluye una minifigura exclusiva de Buzz Lightyear; el resto de figuras se venden por separado y están sujetas a disponibilidad
-- Exhibe, juega y guarda las figuras con Buzz Lightyear de Toy Story 4 de Disney Pixar
 - Espacios de exhibición para un máximo de 15 minifiguras
+- Exhibe, juega y guarda las figuras con Buzz Lightyear de Toy Story 4 de Disney Pixar
+- Incluye una minifigura exclusiva de Buzz Lightyear; el resto de figuras se venden por separado y están sujetas a disponibilidad
 
 [Visítala!!!](https://www.amazon.es/dp/B07FWMLFZX/?tag=tolees-21)

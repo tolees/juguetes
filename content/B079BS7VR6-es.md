@@ -26,11 +26,11 @@ Está [VTech PJ Masks Gatuno  Reloj Digital Educativo Que estimula el Aprendizaj
 ℹ️:
 
 - 5 minijuegos para reforzar el aprendizaje de diferentes contenidos
-- Enseña números, a contar, sumas y las formas geométricas
 - Muestra la hora e incluye alarma, cronometro y función de cueta atrás
-- Versión española
+- Enseña números, a contar, sumas y las formas geométricas
 - 5 minijuegos para reforzar el aprendizaje de diferentes contenidos
-- Enseña números, a contar, sumas y las formas geométricas
+- Versión española
 - Muestra la hora e incluye alarma, cronometro y función de cueta atrás
+- Enseña números, a contar, sumas y las formas geométricas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079BS7VR6/?tag=tolees-21)

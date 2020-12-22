@@ -27,8 +27,8 @@ Está [Fisher-Price Little People Guardería de Bebés  Mattel GWT76 ](https://w
 
 - Para niños pequeños y de preescolar de entre 1,5 y 5 años
 - El conjunto de juego incluye 3 figuras de bebés, un caballito balancín, una mesa para comer y piezas de juego, como una cuchara
-- Los niños podrán cuidar de los bebés con acciones familiares como la hora de comer, la hora de la siesta y la hora de jugar (¡dentro y fuera!)
-- Conjunto de juego móvil infantil de Little People con 2 lados de juego, luces, música y contenido de aprendizaje de Tecnología inteligente
 - Pulsa o gira para activar luces, sonidos, música y acciones divertidas.
+- Conjunto de juego móvil infantil de Little People con 2 lados de juego, luces, música y contenido de aprendizaje de Tecnología inteligente
+- Los niños podrán cuidar de los bebés con acciones familiares como la hora de comer, la hora de la siesta y la hora de jugar (¡dentro y fuera!)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21)

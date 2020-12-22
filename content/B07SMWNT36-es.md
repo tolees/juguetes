@@ -26,9 +26,9 @@ Está [Nancy - Sweet Home  Casa para Muñecas Nancy con Accesorios  para Niños 
 ℹ️:
 
 - Nancy Sweet Home es la casa de Nancy de tus sueños che dispone de dos plantas preciosas con estancias decoradas al estilo Nancy y muchos accesorios
-- Preciosa casa de madera, de materiales premium con accesorios para crear mil historias y aventuras
-- Regalo óptimo para niñas que adoran las Casa de Muñecas; recomendado a partir de 3 años
 - Funciona sin pilas, casa de madera de materiales premium, no incluye muñeca; medidas casa: 97 largo, 74 cm ancho, 72 cm alto
+- Regalo óptimo para niñas que adoran las Casa de Muñecas; recomendado a partir de 3 años
 - En la planta ior se encuentra la habitación decorada con cama, en la planta baja está la cocina y el baño con un armario y la cocina accesorios como mesa y frigorífico,; además de tazas cubiertos y todo tipo de cajas de comida; para jugar; además hay un jardín con hamaca, rodeado por una bonita valla de madera blanca
+- Preciosa casa de madera, de materiales premium con accesorios para crear mil historias y aventuras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SMWNT36/?tag=tolees-21)
