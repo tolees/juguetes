@@ -25,8 +25,8 @@ Tienes [Nerf Nitro - Motofurry  Hasbro C0787EU40 ](https://www.amazon.es/dp/B06X
 
 🔎:
 
-- Disfruta aventuras a fondo y multiplica las acrobacias más locas.
-- La potencia de Nerf se descarga en el estante del coche.
 - Un blaste motorizado que propulsa los coches más alto que nunca para figuras espectaculares.
+- La potencia de Nerf se descarga en el estante del coche.
+- Disfruta aventuras a fondo y multiplica las acrobacias más locas.
 
 [Comprar!!!](https://www.amazon.es/dp/B06X9QJXPQ/?tag=tolees-21)
