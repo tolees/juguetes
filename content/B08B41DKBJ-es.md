@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Fisher-Price Little People Guardería de  al 33.34 % de descuento'
-date: 2020-12-07 14:02:27
+title: 'Fisher-Price Little People Guardería de  al 18.40 % de descuento'
+date: 2020-12-22 18:45:45
 image: 'https://m.media-amazon.com/images/I/413Zx+sRtWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08B41DKBJ-es'
-actualPrice: 39.99 EUR
+actualPrice: 48.95 EUR
 currency: EUR
-price: 39.99
+price: 48.95
 comparePrice: 59.99 EUR
 prodname: 'Fisher-Price Little People Guardería de Bebés  Mattel GWT76 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21'
-descuento: '33.34'
+descuento: '18.40'
+average: '45.96333333333334'
 ---
 
-Está [Fisher-Price Little People Guardería de Bebés  Mattel GWT76 ](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Fisher-Price Little People Guardería de Bebés  Mattel GWT76 ](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21) con 18.40 de descuento por 48.95 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Fisher-Price Little People Guardería de ](https://m.media-amazon.com/images/I/413Zx+sRtWL._SL200_.jpg)](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21)
 
 ℹ️:
 
+- Para niños pequeños y de preescolar de entre 1,5 y 5 años
+- El conjunto de juego incluye 3 figuras de bebés, un caballito balancín, una mesa para comer y piezas de juego, como una cuchara
+- Los niños podrán cuidar de los bebés con acciones familiares como la hora de comer, la hora de la siesta y la hora de jugar (¡dentro y fuera!)
+- Conjunto de juego móvil infantil de Little People con 2 lados de juego, luces, música y contenido de aprendizaje de Tecnología inteligente
+- Pulsa o gira para activar luces, sonidos, música y acciones divertidas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21)
