@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Polly Pocket Casa de muñecas de juguete  al 50.06 % de descuento'
-date: 2020-11-25 21:30:32
+title: 'Polly Pocket Casa de muñecas de juguete  con un 50.06 % de descuento'
+date: 2020-12-22 10:01:30
 image: 'https://m.media-amazon.com/images/I/510JQqd6iLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQD63PP/?tag=tolees-21'
 descuento: '50.06'
+average: '12.48'
 ---
 
-Está [Polly Pocket Casa de muñecas de juguete con accesorios  Mattel GFP42 ](https://www.amazon.es/dp/B07NQD63PP/?tag=tolees-21) con 50.06 de descuento por 12.48 EUR (original: 24.99 EUR) en el siguiente enlace!
+En este momento está [Polly Pocket Casa de muñecas de juguete con accesorios  Mattel GFP42 ](https://www.amazon.es/dp/B07NQD63PP/?tag=tolees-21) a 12.48 EUR (original: 24.99 EUR) (50.06 %  de descuento) en el siguiente enlace!
 
 [![Polly Pocket Casa de muñecas de juguete ](https://m.media-amazon.com/images/I/510JQqd6iLL._SL200_.jpg)](https://www.amazon.es/dp/B07NQD63PP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Los pisos y las actividades de la casa de muñecas incluyen: cuarto de polly; cuarto de paxton con cuna y caballito-mecedora; y cuarto de baño con una divertida bañera
+- Regalo el juego perfercto para niñas y niños a partir de 4 años
+- La casa de polly en pollyville incluye 5 habitaciones, 4 descubrimientos, 11 accesorios y mini muñecas de paxton pocket y peaches
+- La hoja de pegatinas con tecnología polly stick permite que los niños coloquen las pegatinas en cualquier lugar y las mini muñecas de polly y sus amigos se peguen a la zona adhesiva
+- Este juego de muñecas incluye muchos elementos: un caballito-mecedora, la trona del pequeño paxton pocket, una mesa con 2 sillas, un sillón, la casa de perro de peaches, un trampolín y una bicicleta
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07NQD63PP/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07NQD63PP/?tag=tolees-21)
