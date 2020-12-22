@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO City Fire - Rescate del Incendio en la Hamburguesería 
 
 🔎:
 
+- Accessory elements include a fire axe, 2 helmets, oxygen tank, trash can, motorbike helmet, small fire extinguisher and 5 buildable fire elements
 - Build a fire truck toy with rotating back end, 2 storage compartments and new directional pump with ‘water jet’ function
 - Features a fire truck toy with a minifigure cab, rotating back end, new directional pump with ‘water jet’ function and 2 storage compartments, plus a toy motorbike
-- Accessory elements include a fire axe, 2 helmets, oxygen tank, trash can, motorbike helmet, small fire extinguisher and 5 buildable fire elements
-- Includes 3 LEGO City minifigures : 2 firefighters and a grill chef
 - LEGO City Fire sets set can be built together with all other original LEGO building toy sets and LEGO bricks for creative building
+- Includes 3 LEGO City minifigures : 2 firefighters and a grill chef
 
 [Visítala!!!](https://www.amazon.es/dp/B07FNMXFPZ/?tag=tolees-21)
