@@ -25,10 +25,10 @@ Tienes [Nancy - Un Día como Youtuber  Famosa 700014272 ](https://www.amazon.es/
 
 ℹ️:
 
-- Incluye una app 100% segura y que no requiere la conexión a internet, con la que los niños y niñas podrán crear su propio canal de youtube, editar sus vídeos y compartirlos de forma ficticia
 - Muñeca youtuber de 42 cm
+- Incluye una app 100% segura y que no requiere la conexión a internet, con la que los niños y niñas podrán crear su propio canal de youtube, editar sus vídeos y compartirlos de forma ficticia
+- Muñeca, con pelo largo de color rubio y ojos azules, con falda de tul rosa con purpurina
 - Nancy youtuber, una muñeca con la que los niños y niñas podrán jugar a ser auténticos youtubers; con sus distintos accesorios y su app, esta muñeca hará que puedan cumplir su sueño de ser youtubers con su propio canal
 - Incluye distintos accesorios para poder hacer unboxings y un trípode para poder colocar tu smartphone y grabar tus propios vídeos
-- Muñeca, con pelo largo de color rubio y ojos azules, con falda de tul rosa con purpurina
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BFPT7P5/?tag=tolees-21)
