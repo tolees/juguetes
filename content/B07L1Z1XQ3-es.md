@@ -26,7 +26,7 @@ En este momento está [Edge Entertainment Card Wars - Juego de cartas Rey Hielo 
 🔎:
 
 - Acción y combate en cada turno
-- El mazo de eriales glaciales del Rey Hielo y el mazo de pantanos inanes y prados sosegados de Marceline están listos para jugar
 - Ahora te toca a ti librar batallas como Finn y Jake para decidir quién será el tío guay y quién un cacho merluzo
+- El mazo de eriales glaciales del Rey Hielo y el mazo de pantanos inanes y prados sosegados de Marceline están listos para jugar
 
 [Aquí!!!](https://www.amazon.es/dp/B07L1Z1XQ3/?tag=tolees-21)
