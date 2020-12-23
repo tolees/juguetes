@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games- Pictionary Air Juegos de M con un 28.01 % de descuento'
-date: 2020-12-21 14:33:58
+date: 2020-12-23 02:19:50
 image: 'https://m.media-amazon.com/images/I/51UCDD96fnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084GNQXX8/?tag=tolees-21'
 descuento: '28.01'
-average: '19.012500000000003'
+average: '18.898888888888894'
 ---
 
 En este momento está [Mattel Games- Pictionary Air Juegos de Mesa  Multicolor  GPL50 ](https://www.amazon.es/dp/B084GNQXX8/?tag=tolees-21) a 17.99 EUR (original: 24.99 EUR) (28.01 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Princess Elsa y Anna  Hasbro E741 con un 26.21 % de descuento'
-date: 2020-12-21 19:47:07
+date: 2020-12-23 02:17:45
 image: 'https://m.media-amazon.com/images/I/51tBOG-rIEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SQXCB28/?tag=tolees-21'
 descuento: '26.21'
-average: '25.18888888888889'
+average: '25.252000000000002'
 ---
 
 En este momento está [Disney Princess Elsa y Anna  Hasbro E7417ES0 ](https://www.amazon.es/dp/B07SQXCB28/?tag=tolees-21) a 25.82 EUR (original: 34.99 EUR) (26.21 %  de descuento) en el siguiente enlace!
