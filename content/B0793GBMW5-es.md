@@ -25,10 +25,10 @@ Tienes [Educa - Minnie Happy Helpers  Puzzles Progresivos  Puzzle Infantil de 12
 
 ℹ️:
 
-- Puzzles inspirados en Minnie Happy Helpers
-- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
 - Recomendado a partir de 3 años
+- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
 - Set de 4 puzzles progresivos de 12, 16, 20 y 25 piezas; para que niños y niñas se atrevan con distintos niveles de dificultad a medida que crecen y ganan práctica en el montaje
+- Puzzles inspirados en Minnie Happy Helpers
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0793GBMW5/?tag=tolees-21)
