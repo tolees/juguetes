@@ -25,10 +25,10 @@ Ahora mismo tienes [Creatable World Figura Unisex  muñeco articulado  pelucas c
 
 🔎:
 
-- El muñeco de 29,94 cm tiene el pelo corto y rubio con los laterales más cortos, y lleva una camiseta de tirantes y un pantalón corto; es todo un lienzo en blanco para que creen el personaje que prefieran
-- El kit deluxe incluye un muñeco, una peluca, ropa y accesorios que pueden combinar al gusto para crear más de 100 personajes y conjuntos
-- La peluca rubia de melena larga ondulada es fácil de poner y quitar para crear personajes en un abrir y cerrar de ojos
-- Regalo óptimo para niñas y niños de más de 6 años
 - Fuente de inspiración para brindar la libertad que se necesita para jugar como se prefiera
+- La peluca rubia de melena larga ondulada es fácil de poner y quitar para crear personajes en un abrir y cerrar de ojos
+- El kit deluxe incluye un muñeco, una peluca, ropa y accesorios que pueden combinar al gusto para crear más de 100 personajes y conjuntos
+- Regalo óptimo para niñas y niños de más de 6 años
+- El muñeco de 29,94 cm tiene el pelo corto y rubio con los laterales más cortos, y lleva una camiseta de tirantes y un pantalón corto; es todo un lienzo en blanco para que creen el personaje que prefieran
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQBXJRY/?tag=tolees-21)
