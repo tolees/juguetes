@@ -25,7 +25,7 @@ En este momento está [Disney Princess Elsa y Anna  Hasbro E7417ES0 ](https://ww
 
 🔎:
 
-- Descubre a elsa y anna inspiradas en la película wifi ralph, vestidas con ropa casual y accesorios modernos y divertidos
 - Disney princess - elsa y anna (hasbro e7417es0)
+- Descubre a elsa y anna inspiradas en la película wifi ralph, vestidas con ropa casual y accesorios modernos y divertidos
 
 [Aquí!!!](https://www.amazon.es/dp/B07SQXCB28/?tag=tolees-21)
