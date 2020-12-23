@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 33.18 % en Star Wars Jedi Fallen Order - PS4'
-date: 2020-12-06 18:28:41
+title: 'Star Wars Jedi Fallen Order - PS4 con un 65.41 % de descuento'
+date: 2020-12-23 11:48:36
 image: 'https://m.media-amazon.com/images/I/51Mt7XwMY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QPPRT8J-es'
-actualPrice: 29.9 EUR
+actualPrice: 24.9 EUR
 currency: EUR
-price: 29.9
-comparePrice: 44.75 EUR
+price: 24.9
+comparePrice: 71.99 EUR
 prodname: 'Star Wars Jedi Fallen Order - PS4'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QPPRT8J/?tag=tolees-21'
-descuento: '33.18'
+descuento: '65.41'
+average: '39.64600000000002'
 ---
 
-Tienes [Star Wars Jedi Fallen Order - PS4](https://www.amazon.es/dp/B07QPPRT8J/?tag=tolees-21) con un 33.18 % de descuento con precio de oferta de 29.9 EUR (original: 44.75 EUR) en el siguiente enlace!
+En este momento está [Star Wars Jedi Fallen Order - PS4](https://www.amazon.es/dp/B07QPPRT8J/?tag=tolees-21) a 24.9 EUR (original: 71.99 EUR) (65.41 %  de descuento) en el siguiente enlace!
 
 [![Star Wars Jedi Fallen Order - PS4](https://m.media-amazon.com/images/I/51Mt7XwMY5L._SL200_.jpg)](https://www.amazon.es/dp/B07QPPRT8J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Combate cinemático e inmersivo, Jedi: Fallen Order te permitirá convertirte en un Jedi a través de su innovador sistema de combate con el sable de luz unido a un abanico de habilidades de la Fuerza
+- Con la ayuda de un miembro de los caballeros Jedi, un piloto gruñón y un intrépido droide, deberás escapar las malvadas maquinaciones del Imperio en esta aventura centrada en la narrativa
+- La galaxia espera; bosques antiguos, acantilados surcados por el viento y junglas encantadas son biomas únicos que podrás explorar con la libertad de decidir cuándo y dónde irás a tu siguiente destino
+- Una nueva historia Jedi comienza, como un Padawan a la huida del Imperio, deberás completar tu entrenamiento antes de que los Inquisidores Imperiales descubran tu plan para resucitar la Orden Jedi
+- Al desbloquear nuevos poderes y habilidades, se abrirán oportunidades para revisitar mapas en nuevas formas; poniendo en uso la Fuerza para expandir la manera en la que exploras
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07QPPRT8J/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07QPPRT8J/?tag=tolees-21)

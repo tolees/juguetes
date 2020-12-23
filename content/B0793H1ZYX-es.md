@@ -25,10 +25,10 @@ Está [Educa- Mapamundi-Sean Sims Aldeas SOS Puzzle Infantil de 200 Piezas  a Pa
 
 ℹ️:
 
-- En Educa donamos el 6% de las ventas de este producto a Aldeas Infantiles SOS para participar en diversos proyectos que permiten ayudar a niños y adolescentes en situación vulnerable.
 - Compuesto por grandes piezas, perfectamente acabadas
-- Los puzzles estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños
 - Puzzle infantil de 200 piezas con bonito diseño del planeta
+- En Educa donamos el 6% de las ventas de este producto a Aldeas Infantiles SOS para participar en diversos proyectos que permiten ayudar a niños y adolescentes en situación vulnerable.
 - Recomendado a partir de 6 años
+- Los puzzles estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0793H1ZYX/?tag=tolees-21)

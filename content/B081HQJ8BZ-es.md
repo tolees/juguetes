@@ -26,8 +26,8 @@ En este momento está [PLAYMOBIL EverDreamerz Comic World - Rosalee  A Partir de
 🔎:
 
 - Figura Rosalee estilo Comic World con ocho sorpresas dentro
+- Contiene 30 piezas
 - Incluye mascota mágica, carta coleccionable, pegatina, amuleto, accesorios, pulsera y bolígrafo de agua
 - Desarrolla la imaginación y la creatividad
-- Contiene 30 piezas
 
 [Aquí!!!](https://www.amazon.es/dp/B081HQJ8BZ/?tag=tolees-21)
