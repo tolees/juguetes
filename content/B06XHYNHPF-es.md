@@ -25,10 +25,10 @@ Está [Silverlit Primer  Juguetes para niños  pequeños  Drone para Interior  F
 
 ℹ️:
 
-- Este dron niños tiene emisora infrarrojos y alcanza más de 15 metros de rango
-- Mi primer dron es un dron para niños fácil de volar con sistema de estabilidad y botón de aterrizaje y despegue
-- Es uno de los mejores drones para niños gracias a su fácil vuelo y su vuelo interior. Además cuenta con una pista de aterrizaje incluida
 - Es para niños mayores de 4 años y cuenta con efectos de sonidos y luces led
+- Mi primer dron es un dron para niños fácil de volar con sistema de estabilidad y botón de aterrizaje y despegue
+- Este dron niños tiene emisora infrarrojos y alcanza más de 15 metros de rango
 - Juguetes para niños muy seguro con protección de hélices y sistema de paro de emergencia
+- Es uno de los mejores drones para niños gracias a su fácil vuelo y su vuelo interior. Además cuenta con una pista de aterrizaje incluida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XHYNHPF/?tag=tolees-21)
