@@ -25,10 +25,10 @@ En este momento está [Pinypon - Super Centro Comercial  Famosa 700014261 ](http
 
 🔎:
 
-- Las puertas del centro comercial se abrirán solas al girar la figura pinypon; en la primera planta encontrarás una fashion shop con falditas y espejo mágico
-- El super centro comercial es el playset más grande y completo de pinypon, con tres plantas llenas de establecimientos y diversión; incluye 4 figuritas pinypon: 1 pinypon, 2 niños y una mascota
-- Sistema de megafonía real para poder dar avisos generales y un soporte para poder poner tu smartphone y que sirva de pantalla publicitaria
 - En la tercera planta encontrarás una zona de juego (con casita y tobogán) además del cine con su máquina de helados y palomitas
 - En la segunda planta se encuentra la peluquería; una zona de ocio para mascotas y escaparate de tienda de juguetes que se ilumina con luces de colores
+- Las puertas del centro comercial se abrirán solas al girar la figura pinypon; en la primera planta encontrarás una fashion shop con falditas y espejo mágico
+- Sistema de megafonía real para poder dar avisos generales y un soporte para poder poner tu smartphone y que sirva de pantalla publicitaria
+- El super centro comercial es el playset más grande y completo de pinypon, con tres plantas llenas de establecimientos y diversión; incluye 4 figuritas pinypon: 1 pinypon, 2 niños y una mascota
 
 [Aquí!!!](https://www.amazon.es/dp/B07DD8TTKD/?tag=tolees-21)
