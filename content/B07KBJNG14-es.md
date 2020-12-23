@@ -25,11 +25,11 @@ Tienes [Sony Playstation 4 Pro  PS4  Consola de 1TB + 20 euros Tarjeta Prepago  
 
 🔎:
 
-- Incluye tarjeta prepago de PlayStation para recargar tu monedero virtual con 20 €
-- Capacidad: 1TB
-- Este producto está disponible exclusivamente en Amazon
 - Tiene GPU con el doble de potencia que la PS4 estándar
 - Juegos en 4 K dinámico
+- Este producto está disponible exclusivamente en Amazon
+- Incluye tarjeta prepago de PlayStation para recargar tu monedero virtual con 20 €
+- Capacidad: 1TB
 - Podrás utilizar los 20 euros de tu monedero virtual también con el juego Fortnite
 - Tipo de producto: consola PS4 Pro
 
