@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO- Caza ala-X de PoE Dameron Episode  al 18.18 % de descuento'
-date: 2020-12-22 20:58:53
+date: 2020-12-24 08:45:23
 image: 'https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07W7TMLFY/?tag=tolees-21'
 descuento: '18.18'
-average: '93.97411764705883'
+average: '94.11944444444445'
 ---
 
 Ahora mismo tienes [LEGO- Caza ala-X de PoE Dameron Episode IX Juego de construcción  Multicolor  75273 ](https://www.amazon.es/dp/B07W7TMLFY/?tag=tolees-21) a 89.99 EUR (original: 109.99 EUR) (18.18 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,15 @@ Ahora mismo tienes [LEGO- Caza ala-X de PoE Dameron Episode IX Juego de construc
 
 🔎:
 
-- Includes three minifigures – Poe Dameron, Knight of Ren and Jannah with new-for-January-2020 features and weapons, plus an R2-D2 LEGO droid
-- This set combines brilliantly with The Rise of Skywalker: Sith TIE Fighter (75272) for epic First Order vs. Resistance battles
-- The X-wing fighter adjustable wings go up or down for cruise and attack modes and it fires stud shooters and spring-loaded missiles
-- Features an opening minifigure cockpit, space for R2-D2, adjustable wings, stud and spring-loaded shooters plus retractable landing gear
-- Kids can battle First Order with Poe Dameron in this starship or fight on the ground against the Knight of Ren with Jannah’s cool weapons
+- Este juguete de construcción con un caza Ala-X mide aproximadamente 8 cm de altura, 37 cm de longitud y 32 cm de anchura, ¡así que también puede convertirse en una impactante pieza de exposición que enseñar a los amigos cuando no esté en pleno!
+- Los peques podrán interpretar el papel del héroe de la Resistencia Poe Dameron y volar directos a la batalla con esta versión LEGO Star Wars del clásico caza estelar Ala-X (75273) que aparece en Star Wars: El Ascenso de Skywalker.
+- Está equipado con montones de detalles que invitan a jugar, como una cabina abatible para una minifigura, espacio para R2-D2, alas ajustables que pueden adoptar los modos de ataque y vuelo, cañones que disparan y automáticos, y tren de aterrizaje.
+- Incluye un droide R2-D2 LEGO y 3 minifiguras de juguete de personajes de Star Wars (Poe Dameron, un Caballero de Ren y Jannah) con geniales detalles (novedad en enero de 2020), así como pistolas bláster, una ballesta y otras armas para combatir.
+- Los ladrillos LEGO llevan cumpliendo escrupulosamente las normas más estrictas del sector desde 1958, una garantía de que ofrecen siempre las mismas cualidades y, cada vez que se usan, se conectan y separan fácilmente.
+- ¿Tu peque no ha construido ningún set LEGO todavía
+- Este set LEGO coleccionable con un Ala-X se alimenta exclusivamente de las ideas de los niños (no requiere pilas): ¡las aventuras de acción no tendrán fin!
+- Los juguetes de construcción LEGO Star Wars son fantásticos para que los niños (y los fans adultos) construyan y expongan su modelo, recreen las escenas de la memorable saga Star Wars y creen sus propias historias extraordinarias.
+- No te preocupes. Este juguete de construcción inspirado en un Ala-X trae instrucciones impresas fáciles de seguir para que pueda abrir la caja, ponerse a construir directamente.
+- Este set LEGO Star Wars de 761 piezas es una fantástica idea de regalo y ofrece un divertido desafío de construcción a niños y niñas. Añade el Caza TIE Sith (75273) para desencadenar épicas batallas entre la Primera Orden y la Resistencia.
 
 [Visítala!!!](https://www.amazon.es/dp/B07W7TMLFY/?tag=tolees-21)
