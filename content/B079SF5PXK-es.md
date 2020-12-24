@@ -25,10 +25,10 @@ Tienes [Pinypon - Tienda De Chuches  Famosa 700014076 ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Incluye 1 figura de la dependienta Pinypon y una niña: as figuras miden 7 cm y 4,3 cm
 - La tienda mide 24 cm x 12 cm x 12 cm
-- Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: ¡Mix is Max
+- Incluye 1 figura de la dependienta Pinypon y una niña: as figuras miden 7 cm y 4,3 cm
 - Edad recomendada: a partir de 4 años
 - Divertido escenario de una tienda de chuches Pinypon con una máquina para hacer helados, batidos y muchos dulces como piruletas y gominolas
+- Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: ¡Mix is Max
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079SF5PXK/?tag=tolees-21)
