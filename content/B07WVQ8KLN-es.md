@@ -27,8 +27,8 @@ En este momento está [jerryvon Juguetes Montessori de Madera - Puzzle Juego Log
 
 - 🙌 Juguetes Montessori 3 Años: Este es un juego madera de clasificación lógico con 16 bloques de madera y 18 cartas modelo, los niños pueden movimiento los bloques correspondientes en la misma posición que la tarjeta.
 - 🙆 Juguetes de Madera: Un lado está compuesto de colores mientras que el otro lado está en forma con animales. Los niños pueden clasificar la combinación de colores o animales según sus preferencias.
-- 👀 Regalos Navidad: Para niños, este es un gran rompecabezas de juguete de madera que te permite pensar y mantener tu cerebro activo. Es muy útil para la educación preescolar y la rehabilitación del cerebro.
-- 🙅 Juegos Montessori: Está hecho de madera natural no tóxica, todos los bordes son lisos y sin rebabas en la superficie. Realmente un seguro juguetes de madera.
 - 🙋 Juegos Educativos: Los bloques maderas de 4 colores consisten en 4 animales, que pueden ayudar a los niños a reconocer animales y colores, mejora la percepción temprana del mundo.
+- 🙅 Juegos Montessori: Está hecho de madera natural no tóxica, todos los bordes son lisos y sin rebabas en la superficie. Realmente un seguro juguetes de madera.
+- 👀 Regalos Navidad: Para niños, este es un gran rompecabezas de juguete de madera que te permite pensar y mantener tu cerebro activo. Es muy útil para la educación preescolar y la rehabilitación del cerebro.
 
 [Aquí!!!](https://www.amazon.es/dp/B07WVQ8KLN/?tag=tolees-21)
