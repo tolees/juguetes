@@ -25,10 +25,10 @@ Está [LEGO Trolls - Concierto en Volcano Rock City  Juguete de Construcción co
 
 ℹ️:
 
-- Kids will love to make new looks for the Trolls, styling their hair with stars, hearts, flowers and energy ray before the big competition
-- Introduce youngsters to the thrill of competitive music duels with this feature-packed LEGO set inspired by the DreamWorks Trolls World Tour movie
 - Check out the movable felt wings, the spinning platforms and backstage snacks at Trolls concert stage
-- Kids can recreate the pop and rock battle with evil rock troll Queen Barb; there are also two collectible musical strings to store in the lyre
+- Kids will love to make new looks for the Trolls, styling their hair with stars, hearts, flowers and energy ray before the big competition
 - Includes three Trolls minifigures: Poppy and Branch with exclusive rock outfits and Queen Barb with punk mohawk and energy ray
+- Kids can recreate the pop and rock battle with evil rock troll Queen Barb; there are also two collectible musical strings to store in the lyre
+- Introduce youngsters to the thrill of competitive music duels with this feature-packed LEGO set inspired by the DreamWorks Trolls World Tour movie
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WC1RBCM/?tag=tolees-21)
