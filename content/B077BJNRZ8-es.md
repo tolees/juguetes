@@ -25,10 +25,10 @@ En este momento está [Nerf Elite Surgefire  Hasbro E0011EU4 ](https://www.amazo
 
 🔎:
 
-- Lanza dardos rápidamente en ráfaga
-- El lanzador lanza dardos Elite de Nerf a una distancia de hasta 27 metros
-- Lanza los dardos Elite de Nerf desde el tambor rotatorio de 15 dardos
 - El lanzador SurgeFire viene con 15 dardos Elite
+- Lanza los dardos Elite de Nerf desde el tambor rotatorio de 15 dardos
+- El lanzador lanza dardos Elite de Nerf a una distancia de hasta 27 metros
+- Lanza dardos rápidamente en ráfaga
 - El lanzador incluye lanzamientos con acción de bombeo
 
 [Aquí!!!](https://www.amazon.es/dp/B077BJNRZ8/?tag=tolees-21)
