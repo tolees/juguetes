@@ -25,10 +25,10 @@ En este momento está [Suscripción Xbox Game Pass para PC - 3 Meses | Windows 1
 
 🔎:
 
-- Usa la aplicación Xbox en PC para descargar y jugar juegos el mismo día que se lanzan como Halo Infinite, además de los favoritos de PC, incluido Age of Empires 4 (próximamente) y Microsoft Flight Simulator
-- Experimenta juegos de todos los géneros, como acción/aventura, de familia, shooters y deportes
-- Juegos seleccionados y complementos de juegos en el Biblioteca de Xbox Game Pass para PC
 - Con una gran variedad de juegos para PC de todos los géneros y títulos agregados todo el tiempo, hay algo para todos
+- Experimenta juegos de todos los géneros, como acción/aventura, de familia, shooters y deportes
+- Usa la aplicación Xbox en PC para descargar y jugar juegos el mismo día que se lanzan como Halo Infinite, además de los favoritos de PC, incluido Age of Empires 4 (próximamente) y Microsoft Flight Simulator
+- Juegos seleccionados y complementos de juegos en el Biblioteca de Xbox Game Pass para PC
 - Juega más de 100 juegos de PC de calidad en Windows 10 con Xbox Game Pass para PC
 - Compra 3 meses de Game Pass para PC ahora y obtén un 30% de descuento (hasta el 26/12).
 
