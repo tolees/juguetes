@@ -26,9 +26,9 @@ Tienes [Juegos Bizak Logo Game  BIZAK 63261150 ](https://www.amazon.es/dp/B06Y34
 ℹ️:
 
 - No sólo se trata logotipos sino también de productos, envases, sabores, personajes, la publicidad y el mundo que te rodea
-- El primer jugador que responda correctamente en la zona final gana
-- Logo game es un divertido juego sobre productos que conoces y te gustan, con los que has crecido, cosas de tu infancia y cosas de hoy
-- Es fácil de jugar y es perfecto para toda la familia
 - Sólo tienes que contestar correctamente para ir avanzando por el tablero
+- Logo game es un divertido juego sobre productos que conoces y te gustan, con los que has crecido, cosas de tu infancia y cosas de hoy
+- El primer jugador que responda correctamente en la zona final gana
+- Es fácil de jugar y es perfecto para toda la familia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y34HQK5/?tag=tolees-21)
