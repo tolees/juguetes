@@ -27,8 +27,8 @@ Tienes [Fisher-Price Móvil ositos voladores  juguete de cuna proyector para beb
 
 - Regalo original para recién nacido
 - La tranquilidad es más fácil de conseguir de lo que parece con este móvil musical de cuna para recién nacidos, bebés y niños
-- El mando de control remoto de este fisher- price para bebé activa los movimientos del móvil, la proyección de estrellas luminosas y hasta 30 minutos de sonidos
-- Qué le gusta más? elige entre 3 opciones de sonido que emiten hasta 30 minutos de nanas, susurros o relajantes sonidos de la naturaleza con este juguete para dormir al bebé
 - Mira hacia arriba este móvil de cuna proyecta luces nocturnas de estrellas en el techo y las paredes
+- Qué le gusta más? elige entre 3 opciones de sonido que emiten hasta 30 minutos de nanas, susurros o relajantes sonidos de la naturaleza con este juguete para dormir al bebé
+- El mando de control remoto de este fisher- price para bebé activa los movimientos del móvil, la proyección de estrellas luminosas y hasta 30 minutos de sonidos
 
 [Comprar!!!](https://www.amazon.es/dp/B00PI0J4CM/?tag=tolees-21)
