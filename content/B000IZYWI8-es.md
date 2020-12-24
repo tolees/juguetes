@@ -26,9 +26,9 @@ En este momento está [Educa Borras - Serie Panorama  Puzzle 3.000 piezas Guerni
 🔎:
 
 - Edad recomendada: a partir de 12 años
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Serie Panorama Imágenes en formato panorámico
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Número de piezas: 3.000, medida aproximada una vez montado: 144 x 68
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 
 [Aquí!!!](https://www.amazon.es/dp/B000IZYWI8/?tag=tolees-21)

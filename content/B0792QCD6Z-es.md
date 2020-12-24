@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars - Imperial AT-Hauler  Jug al 23.56 % de descuento'
-date: 2020-12-23 16:45:53
+date: 2020-12-24 17:07:05
 image: 'https://m.media-amazon.com/images/I/51qnRkoh0kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21'
 descuento: '23.56'
-average: '83.14920792079204'
+average: '83.24145631067958'
 ---
 
 Está [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Galaxias con Nave Espacial Basado en la Película de Han Solo  Incluye 5 Minifiguras  75219 ](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) con 23.56 de descuento por 87.9 EUR (original: 114.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Galaxias
 
 ℹ️:
 
-- Incluye 5 minifiguras lego: qi’ra, val, rio durant y 2 guardias de dryden
 - Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
+- Incluye 5 minifiguras lego: qi’ra, val, rio durant y 2 guardias de dryden
 - Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), ¡y organiza el asalto ferroviario definitivo a toda velocidad!
-- Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
 - Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
+- Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
