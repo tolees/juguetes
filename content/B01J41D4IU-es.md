@@ -25,10 +25,10 @@ Tienes [LEGO DUPLO - Mi Primer Tren de los Números  Juguete Preescolar Educativ
 
 🔎:
 
-- Usa los ladrillos decorados para enseñar a tu hijo los números y a contar
-- Incluye dos figuras Lego Duplo de niños y una figura de un gato
-- Este set fomenta las habilidades de construcción e interpretación
 - Cuenta con una locomotora para construir y tres vagones
+- Incluye dos figuras Lego Duplo de niños y una figura de un gato
 - Incluye ladrillos decorados con los números del 0 al 9
+- Este set fomenta las habilidades de construcción e interpretación
+- Usa los ladrillos decorados para enseñar a tu hijo los números y a contar
 
 [Comprar!!!](https://www.amazon.es/dp/B01J41D4IU/?tag=tolees-21)
