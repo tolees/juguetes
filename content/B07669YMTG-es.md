@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Policía- Mega Set  única  9372 al 33.65 % de rebaja'
-date: 2020-12-24 02:00:46
+date: 2020-12-25 02:44:18
 image: 'https://m.media-amazon.com/images/I/51tocuDACmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07669YMTG/?tag=tolees-21'
 descuento: '33.65'
-average: '47.56565789473683'
+average: '47.471410256410245'
 ---
 
 Tienes [PLAYMOBIL Policía- Mega Set  única  9372 ](https://www.amazon.es/dp/B07669YMTG/?tag=tolees-21) con precio final de  43.89 EUR (original: 66.15 EUR) (33.65 %  de rebaja) aqui!
@@ -25,9 +25,9 @@ Tienes [PLAYMOBIL Policía- Mega Set  única  9372 ](https://www.amazon.es/dp/B0
 
 🔎:
 
+- El coche tiene luces y sonido
 - Incluye cuatro figuras
 - Incluye quad, helicóptero y coche
 - Desarrolla la imaginación y la creatividad
-- El coche tiene luces y sonido
 
 [Comprar!!!](https://www.amazon.es/dp/B07669YMTG/?tag=tolees-21)
