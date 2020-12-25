@@ -28,7 +28,7 @@ Ahora mismo tienes [Hasbro Gaming Juego The Game Of Life  Juego De Mesa Para La 
 - Empieza a tomar tus propias decisiones mientras recorres las diferentes etapas de la vida
 - Elige el camino para una vida de acción, aventura y sorpresas inesperadas
 - El juego Game of Life está lleno de sorpresas
-- Juega con la familia y amigos
 - Puedes adoptar mascotas en esta edición
+- Juega con la familia y amigos
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD3QJ7H/?tag=tolees-21)
