@@ -25,10 +25,10 @@ En este momento está [Imaginext - Playset de acción Batman  Mattel W9642 ](htt
 
 🔎:
 
-- Cárcel Gotham City cuenta con cinco celdas con imágenes de los villanos más famosos de Gotham
-- Los niños pueden jugar a sus momentos de superhéroes favoritos con Jail Imaginext Batman Gotham
 - Incluye Bane que pueden salir de su celda
+- Cárcel Gotham City cuenta con cinco celdas con imágenes de los villanos más famosos de Gotham
 - Bane tiene características light-up
+- Los niños pueden jugar a sus momentos de superhéroes favoritos con Jail Imaginext Batman Gotham
 - Utilice la señal de murciélago para llamar a Batman
 
 [Aquí!!!](https://www.amazon.es/dp/B007J3FA8I/?tag=tolees-21)
