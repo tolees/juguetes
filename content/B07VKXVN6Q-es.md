@@ -26,8 +26,8 @@ Está [Avengers- Figura Titan Hero Deluxe Thanos  Hasbro E73815L0 ](https://www.
 ℹ️:
 
 - Colecciona otras figuras y accesorios de avengers para imaginar a los valientes héroes defender al mundo del malvado thanos; los productos adicionales se venden por separado; sujetos a disponibilidad
-- Los fans pueden imaginar al furioso titán thanos luchando con los héroes por el destino del mundo con esta figura de thanos inspirada en el personaje de los cómics de marvel
-- Imagina al terrible caudillo thanos que amenaza a la tierra con esta figura de thanos de 30.cm, inspirada en el diseño clásico del personaje de los cómics de marvel
 - Conecta el lanzador blast gear (se vende por separado) al puerto posterior o al puerto del brazo de las figuras titan hero series y titan hero blast gear para lanzar proyectiles con tan solo pulsar un botón
+- Imagina al terrible caudillo thanos que amenaza a la tierra con esta figura de thanos de 30.cm, inspirada en el diseño clásico del personaje de los cómics de marvel
+- Los fans pueden imaginar al furioso titán thanos luchando con los héroes por el destino del mundo con esta figura de thanos inspirada en el personaje de los cómics de marvel
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VKXVN6Q/?tag=tolees-21)
