@@ -26,9 +26,9 @@ Ahora mismo tienes [Educa - Puzzles Progresivos  puzzle infantil Cars 2 de 12 16
 🔎:
 
 - Set de 4 puzzles progresivos de 12, 16, 20 y 25 piezas; para que niños y niñas se atrevan con distintos niveles de dificultad a medida que crecen y ganan práctica en el montaje
-- Puzzles inspirados en Cars 2
 - Recomendado a partir de 3 años
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
+- Puzzles inspirados en Cars 2
 - Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
 
 [Visítala!!!](https://www.amazon.es/dp/B004EPXNJ2/?tag=tolees-21)

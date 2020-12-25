@@ -25,11 +25,11 @@ Tienes [Monopoly Pizza  multicolor  versión italiana](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Peine de pizza
+- Versión italiana
+- Un juego de pizza para niños
+- Juego de mesa Monopoly con temática de pizza
 - Recoge el mayor número de rodajas de pizza para ganar
 - Comparte el amor queso
-- Juego de mesa Monopoly con temática de pizza
-- Un juego de pizza para niños
-- Versión italiana
-- Peine de pizza
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KLRS95B/?tag=tolees-21)
