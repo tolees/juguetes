@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'jerryvon Juguetes Montessori de Madera - con un 27.17 % de descuento'
-date: 2020-12-24 14:13:04
+date: 2020-12-25 21:03:55
 image: 'https://m.media-amazon.com/images/I/51RG6Re52IL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07WVQ8KLN/?tag=tolees-21'
 descuento: '27.17'
-average: '13.0975'
+average: '12.725000000000001'
 ---
 
 En este momento está [jerryvon Juguetes Montessori de Madera - Puzzle Juego Logica Juegos Educativos Bebé Bloques Clasificación de Animales y Colores Madera Juguete con 36 Juegos Rompecabezas para 3 4 5 Años](https://www.amazon.es/dp/B07WVQ8KLN/?tag=tolees-21) a 11.98 EUR (original: 16.45 EUR) (27.17 %  de descuento) en el siguiente enlace!
