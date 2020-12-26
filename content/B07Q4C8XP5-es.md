@@ -25,8 +25,8 @@ Tienes [Nerf Fortnite Rl  Hasbro E7511EU5 ](https://www.amazon.es/dp/B07Q4C8XP5/
 
 ℹ️:
 
-- INCLUYE 2 COHETES: Incluye 2 cohetes Nerf oficiales hechos de espuma con puntas flexibles y huecas: Son dardos de gran calidad diseñados para alcanzar grandes distancias y dar un alto rendimiento
 - LLEVA LA ACCIÓN A LA VIDA REAL: Recrea la acción de Fortnite en la vida real con este lanzador que puedes cargar, preparar y lanzar cohetes en 3 rápidos pasos (no requiere pilas)
+- INCLUYE 2 COHETES: Incluye 2 cohetes Nerf oficiales hechos de espuma con puntas flexibles y huecas: Son dardos de gran calidad diseñados para alcanzar grandes distancias y dar un alto rendimiento
 - RÉPLICA DEL LANZACOHETES DE FORTNITE: Este lanzador RL de Nerf Fortnite está inspirado en el popular videojuego de Fortnite y lanza cohetes de espuma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Q4C8XP5/?tag=tolees-21)

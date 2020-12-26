@@ -25,10 +25,10 @@ Está [Mega Construx Caja PRO de 480 piezas y bloques de construcción para niñ
 
 ℹ️:
 
-- Incluye un cubo con tapa para guardar los bloques de construcción con facilidad
-- Juego de construcción de mega que incluye 480 bloques de construcción de temática militar y colores de camuflaje
-- Uego de construcción que estimula las habilidades de creatividad y el razonamiento
 - Compatible con las principales marcas
+- Juego de construcción de mega que incluye 480 bloques de construcción de temática militar y colores de camuflaje
 - Bloques de construcción para niños a partir de 8 años
+- Incluye un cubo con tapa para guardar los bloques de construcción con facilidad
+- Uego de construcción que estimula las habilidades de creatividad y el razonamiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PC366LZ/?tag=tolees-21)
