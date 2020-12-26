@@ -25,10 +25,10 @@ Ahora mismo tienes [FEBER Cross Alpha 6 V  Famosa 800007932 ](https://www.amazon
 
 🔎:
 
-- Incorpora 2 ruedines para una mejor estabilidad
-- Para niños y niñas a partir de 3 años
-- Funciona con motor y batería de 6V; batería y cargador incluidos
 - Acelerador de pie y freno eléctrico
+- Incorpora 2 ruedines para una mejor estabilidad
+- Funciona con motor y batería de 6V; batería y cargador incluidos
+- Para niños y niñas a partir de 3 años
 - Moto de cross
 
 [Visítala!!!](https://www.amazon.es/dp/B006WNCFK2/?tag=tolees-21)
