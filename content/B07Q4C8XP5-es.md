@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.68 % en Nerf Fortnite Rl  Hasbro E7511EU5 '
-date: 2020-12-23 17:08:52
+date: 2020-12-26 12:40:21
 image: 'https://m.media-amazon.com/images/I/41CM+1x4b+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q4C8XP5/?tag=tolees-21'
 descuento: '35.68'
-average: '29.765'
+average: '29.315555555555555'
 ---
 
 Tienes [Nerf Fortnite Rl  Hasbro E7511EU5 ](https://www.amazon.es/dp/B07Q4C8XP5/?tag=tolees-21) con un 35.68 % de descuento con precio de oferta de 25.72 EUR (original: 39.99 EUR) en el siguiente enlace!
