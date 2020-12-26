@@ -25,14 +25,14 @@ Está [LEGO - Hidden Side Laboratorio de Fantasmas de J. B. Juguete de construcc
 
 ℹ️:
 
-- Construye el set físico, juega con él y luego haz que cobre vida al interactuar con el modelo mientras lo ves por la app de AR.
-- Este juguete de construcción LEGO Hidden Side combina el juego creativo libre de los sets LEGO con una app y ofrece una asombrosa experiencia de juego en realidad aumentada (AR) para uno o varios jugadores. Ideal para niños a partir de 7 años.
-- El Laboratorio de Fantasmas de J. B. mide más de 13 cm de altura, 18 cm de ancho y 9 cm de profundidad.
 - Para disfrutar completamente de la experiencia en realidad aumentada, se necesita una tableta o un teléfono móvil. Compatible con determinados dispositivos iOS y Android. Pide permiso a tus padres antes de conectarte a Internet.
-- Usar la app LEGO Hidden Side es como mirar por una ventana a un divertido y escalofriante lado oculto que está repleto de desafiantes misterios por resolver, fantasmas por derrotar y fantasmas jefe por dominar.
-- Ambientados en Newbury, una ciudad imaginaria donde los fantasmas rondan los edificios y atormentan a los vecinos, los sets LEGO Hidden Side permiten a tu peque representar emocionantes aventuras de cazadores de fantasmas que combinan modelos LEGO físicos con una experiencia de juego en realidad aumentada completamente interactiva.
-- Descarga la app LEGO Hidden Side y apunta con tu teléfono al Laboratorio de Fantasmas de J. B. para escanearlo y hacer que este modelo LEGO cobre vida y revele su faceta Hidden Side. Recorre el espacio con el teléfono para explorar un entorno que cambia continuamente alrededor del modelo.
 - Este juguete con funciones de realidad aumentada para niños incluye 3 minifiguras: Jack Davids, J. B. y Douglas Elton, así como el perro fantasma de David, Spencer, para interpretar la acción en la historia y en la app LEGO Hidden Side digital.
+- Ambientados en Newbury, una ciudad imaginaria donde los fantasmas rondan los edificios y atormentan a los vecinos, los sets LEGO Hidden Side permiten a tu peque representar emocionantes aventuras de cazadores de fantasmas que combinan modelos LEGO físicos con una experiencia de juego en realidad aumentada completamente interactiva.
+- Este juguete de construcción LEGO Hidden Side combina el juego creativo libre de los sets LEGO con una app y ofrece una asombrosa experiencia de juego en realidad aumentada (AR) para uno o varios jugadores. Ideal para niños a partir de 7 años.
+- Usar la app LEGO Hidden Side es como mirar por una ventana a un divertido y escalofriante lado oculto que está repleto de desafiantes misterios por resolver, fantasmas por derrotar y fantasmas jefe por dominar.
+- Construye el set físico, juega con él y luego haz que cobre vida al interactuar con el modelo mientras lo ves por la app de AR.
 - El set Laboratorio de Fantasmas de J. B. se compone de un ingenioso laboratorio inspirado en el de un científico loco que cuenta con una cámara con energía Tesla para expulsar fantasmas y un montón de detalles tecnológicos que fomentan el juego creativo.
+- El Laboratorio de Fantasmas de J. B. mide más de 13 cm de altura, 18 cm de ancho y 9 cm de profundidad.
+- Descarga la app LEGO Hidden Side y apunta con tu teléfono al Laboratorio de Fantasmas de J. B. para escanearlo y hacer que este modelo LEGO cobre vida y revele su faceta Hidden Side. Recorre el espacio con el teléfono para explorar un entorno que cambia continuamente alrededor del modelo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ND6CGGP/?tag=tolees-21)
