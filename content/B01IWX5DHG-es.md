@@ -25,11 +25,11 @@ Tienes [Cars 2 Mack camión 1-2-3  camión de juguete  Mattel DVF39 ](https://ww
 
 ℹ️:
 
+- Regalo óptimo para niñas y niños de más de 3 años
+- Realiza acrobacias activadas por la gorra de mack
+- Ofrece varias opciones de juego: transformaciones, entrenamientos, acrobacias y carreras
 - Un juguete inspirado en el popular camión mack de cars de disney pixar
 - Número de jugadores: 1 o más
-- Realiza acrobacias activadas por la gorra de mack
 - Vuela por los aires hasta alcanzar la diana
-- Regalo óptimo para niñas y niños de más de 3 años
-- Ofrece varias opciones de juego: transformaciones, entrenamientos, acrobacias y carreras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IWX5DHG/?tag=tolees-21)
