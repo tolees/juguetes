@@ -26,9 +26,9 @@ En este momento está [Pinypon - Pack de 6 Figuras bebés  Famosa 700014086 ](ht
 🔎:
 
 - Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: ¡Mix is Max
-- Pack de 6 figuras: 2 papis Pinypon, 1 niño, 2 bebés y la mascota de la familia: también incluye pequeños accesorios
 - La figura de Pinypon mide 7 cm; los niños miden 4,3 cm y el bebé mide 3,5 cm
-- Edad recomendada: a partir de 4 años
 - Set de la familia Pinypon al completo
+- Edad recomendada: a partir de 4 años
+- Pack de 6 figuras: 2 papis Pinypon, 1 niño, 2 bebés y la mascota de la familia: también incluye pequeños accesorios
 
 [Aquí!!!](https://www.amazon.es/dp/B079SR8CRR/?tag=tolees-21)
