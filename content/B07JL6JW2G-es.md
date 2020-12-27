@@ -26,10 +26,10 @@ Ahora mismo tienes [Avengers - Figura deluxe Thanos  Hasbro E4018EU4 ](https://w
 🔎:
 
 - La mochila Titan Hero Power FX viene con las figuras Titan Hero Power FX; se venden por separado; sujeto a disponibilidad
-- Inspirada en la película
-- Figura deluxe de avengers
-- Escala de la figura: 30 cm
-- Figura del súper héroe Thanos
 - Diseño atractivo
+- Escala de la figura: 30 cm
+- Inspirada en la película
+- Figura del súper héroe Thanos
+- Figura deluxe de avengers
 
 [Visítala!!!](https://www.amazon.es/dp/B07JL6JW2G/?tag=tolees-21)
