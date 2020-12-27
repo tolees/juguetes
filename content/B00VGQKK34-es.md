@@ -25,9 +25,9 @@ Tienes [PLAYMOBIL- Cofre Tienda Surf  única  5641 ](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
-- Con un bar de playa ideal para surfistas
-- Incluye dos figuras y varios accesorios
 - Maletín en el que podrás guardar todos los accesorios
+- Con un bar de playa ideal para surfistas
+- Desarrolla la imaginación y la creatividad
+- Incluye dos figuras y varios accesorios
 
 [Comprar!!!](https://www.amazon.es/dp/B00VGQKK34/?tag=tolees-21)
