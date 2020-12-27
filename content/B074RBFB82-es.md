@@ -25,12 +25,12 @@ Ahora mismo tienes [Hot Wheels City Cobra Infernal  pista de coches de juguete  
 
 🔎:
 
-- Para vencer a la cobra, los niños deberán lanzarle un coche por encima de la cabeza hasta el extremo de la cola
-- Edad: 3+
+- Conjunto de grandes dimensiones con una enorme cobra que puede atrapar coches entre las mandíbulas
 - Es muy fácil de configurar; para volver a jugar, solo hay que subir el banderín
 - Conecta los distintos conjuntos y crea la ciudad de Hot Wheels. Cuantos más conectes, más horas de diversión y juego imaginativo
-- El desafío de salvar la ciudad de Hot Wheels estimulará la imaginación de los niños y dará pie a muchas historias
+- Edad: 3+
 - Las pistas se pueden acoplar directamente entre ellas gracias al nuevo sistema de conexión
-- Conjunto de grandes dimensiones con una enorme cobra que puede atrapar coches entre las mandíbulas
+- El desafío de salvar la ciudad de Hot Wheels estimulará la imaginación de los niños y dará pie a muchas historias
+- Para vencer a la cobra, los niños deberán lanzarle un coche por encima de la cabeza hasta el extremo de la cola
 
 [Visítala!!!](https://www.amazon.es/dp/B074RBFB82/?tag=tolees-21)
