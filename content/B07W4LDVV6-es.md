@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Trolls - Aventura en Globo de Poppy al 20.03 % de descuento'
-date: 2020-12-23 22:37:36
+date: 2020-12-27 11:43:44
 image: 'https://m.media-amazon.com/images/I/51RQtyDszmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,15 @@ Está [LEGO Trolls - Aventura en Globo de Poppy  Juguete de Construcción de glo
 
 ℹ️:
 
-- With a map and binoculars to navigate, plus flapping hearts to change position kids will love steering a pink hot air balloon
-- Features three Trolls minifigures: Poppy, Branch, plus exclusive character Biggie (and Mr. Dinkles) and a stack of Trolls-inspired extras
-- Troll fans will enjoy making new looks for the minifigures, styling their hair with binoculars, cupcake, heart or flowers before adventures
-- With The LEGO Trolls World Tour Poppy’s Hot Air Balloon Adventure toy, Trolls fans can recreate exciting scenes from the movie
-- Lots for kids to discover; find the collectible musical string hidden in the metronome
+- Un globo aerostático rosa de juguete, perfecto para cualquier fan de Trolls. Repleto de funciones, permite a las peques recrear sus escenas favoritas de la película Trolls World Tour y protagonizar montones de aventuras.
+- Un regalo creativo que fomenta el juego para fans de Trolls a partir de 6 años. Este set LEGO (novedad en enero de 2020) es un regalo fantástico para cualquier peque que sienta fascinación por los juegos con vehículos y los personajes de Trolls.
+- ¡No lleva pilas! Este juguete basado en la película Trolls se alimenta exclusivamente de la imaginación de las niñas, así que no necesita pilas.
+- La seguridad es importante cuando se trata de elegir un nuevo regalo LEGO; en The LEGO Group, sometemos a numerosas pruebas todos los ladrillos y elementos para asegurarnos de que cada set satisface los requisitos de las normas de seguridad.
+- Con la guía digital Instructions PLUS, disponible en la app gratuita LEGO Life, las peques pueden disfrutar de una experiencia de construcción nueva que les ofrece increíbles herramientas de visualización interactivas.
+- ¡Cuántas cosas por descubrir! Las niñas pueden usar los timones móviles con forma de corazón para cambiar el rumbo del globo, jugar con las minifiguras (¡y con el pelo de los Trolls!) y después encontrar la cuerda musical coleccionable escondida.
+- En The LEGO Group nos tomamos la calidad muy en serio, por eso cada kit de construcción LEGO para niños cumple las normas de calidad más estrictas del sector. Así ha sido desde 1958.
+- Los sets de juguetes LEGO Trolls World Tour inspirados en el éxito cinematográfico Trolls World Tour invitan a las peques a dar vida a sus escenas favoritas. ¡La manera perfecta de estimular el juego creativo!
+- Este gracioso regalo para niñas y niños inspirado en Trolls (41252) tiene un tamaño fantástico para divertirse jugando a interpretar. El globo mide aproximadamente 22 cm de altura, 17 cm de longitud y 13 cm de anchura.
+- Con las 3 minifiguras de Trolls de este set, (Poppy, Branch, el singular personaje Grandullón y su querido Señor Dinkles), el juego comienza al instante.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W4LDVV6/?tag=tolees-21)
