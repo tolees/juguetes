@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Little People Guardería de  al 18.40 % de descuento'
-date: 2020-12-22 18:45:45
+date: 2020-12-27 08:09:36
 image: 'https://m.media-amazon.com/images/I/413Zx+sRtWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21'
 descuento: '18.40'
-average: '45.96333333333334'
+average: '46.71000000000001'
 ---
 
 Está [Fisher-Price Little People Guardería de Bebés  Mattel GWT76 ](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21) con 18.40 de descuento por 48.95 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Fisher-Price Little People Guardería de Bebés  Mattel GWT76 ](https://w
 
 ℹ️:
 
-- El conjunto de juego incluye 3 figuras de bebés, un caballito balancín, una mesa para comer y piezas de juego, como una cuchara
+- Pulsa o gira para activar luces, sonidos, música y acciones divertidas.
 - Los niños podrán cuidar de los bebés con acciones familiares como la hora de comer, la hora de la siesta y la hora de jugar (¡dentro y fuera!)
 - Conjunto de juego móvil infantil de Little People con 2 lados de juego, luces, música y contenido de aprendizaje de Tecnología inteligente
 - Para niños pequeños y de preescolar de entre 1,5 y 5 años
-- Pulsa o gira para activar luces, sonidos, música y acciones divertidas.
+- El conjunto de juego incluye 3 figuras de bebés, un caballito balancín, una mesa para comer y piezas de juego, como una cuchara
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08B41DKBJ/?tag=tolees-21)

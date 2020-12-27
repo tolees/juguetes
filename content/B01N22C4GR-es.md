@@ -25,10 +25,10 @@ Tienes [Geomag- MagiCube Robots Juego de Construcción  38 Piezas  Multicolor  1
 
 🔎:
 
-- Figuras accesorias decorativas
-- Sets compatibles entre sí
 - Magicube desarrolla la creatividad y habilidades motoras
-- Sistema de construcción magnético
+- Sets compatibles entre sí
 - El set contiene 11 cubos magnéticos y 27 magic clips
+- Sistema de construcción magnético
+- Figuras accesorias decorativas
 
 [Comprar!!!](https://www.amazon.es/dp/B01N22C4GR/?tag=tolees-21)
