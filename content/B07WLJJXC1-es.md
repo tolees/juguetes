@@ -26,9 +26,9 @@ Está [LEGO City Turbo Wheels - Equipo de Especialistas  Set de Construcción  I
 ℹ️:
 
 - Kids can thrill onlookers with daring high-speed wheelies on the ATV, then power up the motorbike and hit the flaming ramp at full speed
-- This LEGO City set gives young builders the opportunity to experience the joy of constructing their own LEGO toys with simple instructions
-- Includes 2 driver minifigures with helmets and 6 flame accessory elements, the Stunt Team set is perfect for kids who love action toys
 - Features a stunt ATV quad bike and motorcycle toy, both with spinning wheels and cool decorations, and a take-off stunt ramp with flames
+- Includes 2 driver minifigures with helmets and 6 flame accessory elements, the Stunt Team set is perfect for kids who love action toys
+- This LEGO City set gives young builders the opportunity to experience the joy of constructing their own LEGO toys with simple instructions
 - Using Digital Instructions PLUS via the LEGO Life app for smart devices, kids aged 5+ can zoom, rotate and visualise the model as they build
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WLJJXC1/?tag=tolees-21)
