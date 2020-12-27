@@ -25,10 +25,10 @@ En este momento está [Clementoni Ciencia y Juego- Exploración Antártica  5537
 
 🔎:
 
-- El manual ilustrado guía los más pequeños para construir los modelos, introduciéndole en los conceptos básicos de la física, la ingeniería y la mecánica
-- La increíble app del Laboratorio de Mecánica, con sus instrucciones interactivas 3D, hace la construcción de los modelos fácil y divertida
 - El camión tiene un tractor y un tráiler con eje, una torre con una grúa orientable, una dirección con mecanismo de cremallera y una cuchilla frontal ajustable para increíbles aventuras sobre el hielo
 - Con 350 componentes, los más pequeños pueden construir 20 modelos de vehículos para explorar la Antártida, incluyendo el camión, la máquina quitanieves, el tractor, el aerodeslizador y muchos más
+- La increíble app del Laboratorio de Mecánica, con sus instrucciones interactivas 3D, hace la construcción de los modelos fácil y divertida
 - Un increíble kit científico para embarcarse en un viaje de descubrimiento de la Antártida y romper el hielo con mecánica e ingeniería
+- El manual ilustrado guía los más pequeños para construir los modelos, introduciéndole en los conceptos básicos de la física, la ingeniería y la mecánica
 
 [Aquí!!!](https://www.amazon.es/dp/B08BTWTDSK/?tag=tolees-21)

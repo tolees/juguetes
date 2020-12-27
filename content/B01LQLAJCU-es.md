@@ -25,10 +25,10 @@ Está [Plastoy Playmobil Figura Vintage Collection Soldado Americano  Multicolor
 
 ℹ️:
 
-- Figura vintage collection
-- Material resistente
 - Figura de coleccionista
+- Material resistente
 - Playmobil
 - Licencia oficial
+- Figura vintage collection
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LQLAJCU/?tag=tolees-21)
