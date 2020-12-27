@@ -25,10 +25,10 @@ En este momento está [Creatable World Figura Unisex  muñeco articulado  peluca
 
 🔎:
 
+- El kit deluxe incluye un muñeco, una peluca, ropa y accesorios que pueden combinar al gusto para crear más de 100 personajes y conjuntos
+- Regalo óptimo para niñas y niños de más de 6 años
+- Regalo óptimo a partir de 6 años
 - La peluca negra de melena larga lisa es fácil de poner y quitar para crear personajes
 - El muñeco de 29,94 cm tiene un el pelo corto y negro, y lleva una camiseta de tirantes y un pantalón corto
-- Regalo óptimo a partir de 6 años
-- Regalo óptimo para niñas y niños de más de 6 años
-- El kit deluxe incluye un muñeco, una peluca, ropa y accesorios que pueden combinar al gusto para crear más de 100 personajes y conjuntos
 
 [Aquí!!!](https://www.amazon.es/dp/B07NQJZF83/?tag=tolees-21)
