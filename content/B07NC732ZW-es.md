@@ -25,10 +25,10 @@ Ahora mismo tienes [Disney Toy Story 4 Pack de aventuras de Woody y Perdigón  j
 
 🔎:
 
-- figuras de acción de toy story con graciosos detalles para parecerse aún más a los personajes de disney, como el sombrero de woody
-- Los muñecos de woody y perdigón están articulados para poder ayudarte a recrear tus escenas favoritas de toy story
-- figura de acción de toy story para niños a partir de 3 años
-- Muñeco óptimo para los fans de toy story
 - el pack de aventuras incluye a woody y a su caballo perdigón, los queridos personajes de las películas de disney toy story
+- Los muñecos de woody y perdigón están articulados para poder ayudarte a recrear tus escenas favoritas de toy story
+- figuras de acción de toy story con graciosos detalles para parecerse aún más a los personajes de disney, como el sombrero de woody
+- Muñeco óptimo para los fans de toy story
+- figura de acción de toy story para niños a partir de 3 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07NC732ZW/?tag=tolees-21)

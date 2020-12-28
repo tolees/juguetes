@@ -27,8 +27,8 @@ Está [Uncharted Monopoly Board Game](https://www.amazon.es/dp/B06XMRCBNB/?tag=t
 
 - Elija su token personalizado a medida, las ubicaciones de los tours que aparecen en todos los juegos de Uncharted, pero tenga cuidado con los íconos caros, la cárcel y la bancarrota.
 - El juego de mesa familiar favorito del mundo te trae otra emocionante edición de MONOPOLY - Uncharted
+- The Fast-Dealing Comercio Propiedades Juego Diversión para The Whole Familia
 - Avance a Averys Ship, Cartagena, Rub alKhali. ¿Deberá alquilar o cosechar las recompensas?
 - Construye Casas y Hoteles y Trade Your Way To Success
-- The Fast-Dealing Comercio Propiedades Juego Diversión para The Whole Familia
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XMRCBNB/?tag=tolees-21)
