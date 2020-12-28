@@ -26,9 +26,9 @@ En este momento está [MOJIPOPS - Treehouse con 2 exclusivas figuras MojiPops y 
 🔎:
 
 - Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
-- Con este divertido juguete tus MojiPops pueden hacer un picnic, ver una película mientras comen palomitas o pizza, columpiarse, mirar las estrellas con el telescopio…
-- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
 - Contiene 2 MojiPops exclusivos y variedad de accesorios.
 - Y cuando estén muy cansados de todas sus aventuras ¡a dormir en sus literas!
+- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
+- Con este divertido juguete tus MojiPops pueden hacer un picnic, ver una película mientras comen palomitas o pizza, columpiarse, mirar las estrellas con el telescopio…
 
 [Aquí!!!](https://www.amazon.es/dp/B07P7LGKS8/?tag=tolees-21)
