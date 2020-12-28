@@ -25,10 +25,10 @@ Tienes [Barbie - Coche muñeca Fiat - coche muñeca  para niñas y niños de má
 
 🔎:
 
-- El exterior blanco, el interior rosa y las matrículas de barbie presentan el estilo emblemático de la muñeca
-- El vehículo de cuatro plazas tiene puertas que se abren y ruedas que giran para darle más realismo al juego
-- Barbie luce un conjunto azul con un estampado de colores y tirantes, zapatillas blancas, un collar de borlas y unas gafas de sol negras
 - Regalo óptimo para niñas y niños de más de 3 años
+- El vehículo de cuatro plazas tiene puertas que se abren y ruedas que giran para darle más realismo al juego
+- El exterior blanco, el interior rosa y las matrículas de barbie presentan el estilo emblemático de la muñeca
+- Barbie luce un conjunto azul con un estampado de colores y tirantes, zapatillas blancas, un collar de borlas y unas gafas de sol negras
 - Que divertido es descubrir el mundo con barbie y su elegante fiat 500
 
 [Comprar!!!](https://www.amazon.es/dp/B07BJSF9QL/?tag=tolees-21)
