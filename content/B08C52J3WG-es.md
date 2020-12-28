@@ -25,10 +25,10 @@ En este momento está [Peppa Pig - Peluche Fiesta de Pijamas con saco](https://w
 
 🔎:
 
-- Presiona su corazón para activar una luz tenue y una dulce canción de cuna
-- Su saco tiene un compartimento secreto
-- Lleva a Peppa a cualquier parte en su saco de dormir con asa
-- La compañera perfecta irse a la cama
 - Suave y blandito peluche de Peppa Pig con luz
+- Su saco tiene un compartimento secreto
+- La compañera perfecta irse a la cama
+- Presiona su corazón para activar una luz tenue y una dulce canción de cuna
+- Lleva a Peppa a cualquier parte en su saco de dormir con asa
 
 [Aquí!!!](https://www.amazon.es/dp/B08C52J3WG/?tag=tolees-21)
