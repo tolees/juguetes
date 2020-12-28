@@ -25,10 +25,10 @@ Está [Sylvanian Families- Country Tree School Mini muñecas y Accesorios  Multi
 
 ℹ️:
 
-- Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
-- Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
-- Desarrolla el juego imaginativo y cotidiano de los niños
-- Conectables y coleccionables
 - Figuras de 6 a 10 cm
+- Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
+- Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
+- Conectables y coleccionables
+- Desarrolla el juego imaginativo y cotidiano de los niños
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00MHRT16I/?tag=tolees-21)
