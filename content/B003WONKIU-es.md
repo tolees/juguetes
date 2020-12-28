@@ -25,10 +25,10 @@ En este momento está [Playgro Mi Primera Pelota de Peluche  Juguete de Activida
 
 🔎:
 
-- Contenido: 1x Playgro Mi Primera Pelota de Peluche Loopy Loops, Dimensiones: 12 x 13 x 13 cm, Material: 100% Poliéster, Color: Multicolor, Art. Nr.: 40079
-- Pelotita suave con etiquetas, Espejo y cascabel en el interior, Para abrazar y jugar, Estimulación de la motricidad, la vista, el tacto y el oído, Apto desde los 3 meses
 - Para una gran variedad de juegos: superficies de diferentes tejidos suaves por descubrir, Muchas etiquetas de tela multicolores por agarrar, Espejos para maravillarse y aprender a conocerse
 - Hecho de poliéster resistente de alta calidad, No lavar a máquina, No sumergir en agua, Lavable con un paño húmedo
+- Contenido: 1x Playgro Mi Primera Pelota de Peluche Loopy Loops, Dimensiones: 12 x 13 x 13 cm, Material: 100% Poliéster, Color: Multicolor, Art. Nr.: 40079
+- Pelotita suave con etiquetas, Espejo y cascabel en el interior, Para abrazar y jugar, Estimulación de la motricidad, la vista, el tacto y el oído, Apto desde los 3 meses
 - Cascabel al jugar con la pelota, Posibilidad de suspensión o fijación con las 2 cintas
 
 [Aquí!!!](https://www.amazon.es/dp/B003WONKIU/?tag=tolees-21)

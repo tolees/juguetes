@@ -25,10 +25,10 @@ En este momento está [Pinypon - Super Centro Comercial  Famosa 700014261 ](http
 
 🔎:
 
-- On the third floor you will find a play area (with casita and slide) in addition to the cinema with its ice cream and popcorn machine
-- On the second floor is the hairdresser; a pet entertainment area and a toy shop showcase that lights up with colorful lights
 - Real public address system to give general notices and a stand to put your smartphone and serve as an advertising screen
 - The super shopping center is the largest and most complete playset of pinypon, with three floors full of establishments and fun; includes 4 pinypon figurines: 1 pinypon, 2 children and a pet
 - The doors of the mall will open by turning the pinypon figure; on the first floor you will find a fashion shop with skirts and magic mirror
+- On the second floor is the hairdresser; a pet entertainment area and a toy shop showcase that lights up with colorful lights
+- On the third floor you will find a play area (with casita and slide) in addition to the cinema with its ice cream and popcorn machine
 
 [Aquí!!!](https://www.amazon.es/dp/B07DD8TTKD/?tag=tolees-21)
