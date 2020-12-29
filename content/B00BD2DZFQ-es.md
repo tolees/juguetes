@@ -27,8 +27,8 @@ Ahora mismo tienes [Hasbro Gaming - Juego de Estrategia Hundir la Flota  Juego e
 
 - Personaliza el despliegue o elige hasta 30 despliegues preestablecidos
 - Utiliza misiles, ataques aéreos y radares de combate para destruir la flota de tu enemigo
-- El despliegue de flota automático te permite empezar a jugar más rápido
 - El juego Battleship Electrónico es la versión de alta tecnología del clásico juego Battleship
+- El despliegue de flota automático te permite empezar a jugar más rápido
 - Luces y sonidos electrónicos dan vida a la batalla
 
 [Visítala!!!](https://www.amazon.es/dp/B00BD2DZFQ/?tag=tolees-21)
