@@ -25,10 +25,10 @@ Tienes [Kinetic Sand Playset Castillo Arena Kinética  BIZAK 61921402    color/m
 
 ℹ️:
 
-- Construye con los moldes un castillo, un cangrejo o una tortuga
-- Kinetic sand es un juego de arena para niños hecha de arena natural
-- Al tacto, la arena cinética es blanda y se pega a sí misma y no a ti
-- Incluye 454 gr de arena (azul, verde o morada), 1 base, 3 moldes y 1 pala
 - No se seca, moldeable una y otra vez observa como se mueve
+- Kinetic sand es un juego de arena para niños hecha de arena natural
+- Incluye 454 gr de arena (azul, verde o morada), 1 base, 3 moldes y 1 pala
+- Al tacto, la arena cinética es blanda y se pega a sí misma y no a ti
+- Construye con los moldes un castillo, un cangrejo o una tortuga
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BHZ6WS0/?tag=tolees-21)
