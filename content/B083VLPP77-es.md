@@ -25,10 +25,10 @@ Ahora mismo tienes [VTech agua animalitos Pequeño Patito  pato para bañera  ju
 
 🔎:
 
-- Incluye un pequeño accesorio para el agua
-- Aprende las rutinas de higiene mientras favorece el desarrollo del lenguaje y la motricidad
-- Colección de animales acuaticos para la bañera, unicornio, pato y flamenco
 - Pato para bañera, animal acuático electrónico e interactivo que puede utilizar y sumergir en la bañera con total seguridad
+- Colección de animales acuaticos para la bañera, unicornio, pato y flamenco
 - Las canciones, melodías, voces y frases entretienen al bebe en a la hora del baño
+- Aprende las rutinas de higiene mientras favorece el desarrollo del lenguaje y la motricidad
+- Incluye un pequeño accesorio para el agua
 
 [Visítala!!!](https://www.amazon.es/dp/B083VLPP77/?tag=tolees-21)
