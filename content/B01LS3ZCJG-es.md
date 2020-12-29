@@ -25,10 +25,10 @@ En este momento está [Venom - Twin Docking Station & Battery Packs Con Cubierta
 
 🔎:
 
+- Rapid recharge cradle for 2 Xbox One wireless controllers
+- Charges whilst on standby
 - Keep controllers fully charged and ready to use
 - Dock, store and charge
-- Charges whilst on standby
 - Supplied with 2 x 700 Nimh rechargeable battery packs
-- Rapid recharge cradle for 2 Xbox One wireless controllers
 
 [Aquí!!!](https://www.amazon.es/dp/B01LS3ZCJG/?tag=tolees-21)

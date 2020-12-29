@@ -25,15 +25,15 @@ Está [LEGO Star Wars - Duelo en Mustafar  Set de Construcción de la Película 
 
 ℹ️:
 
-- ¿Eternos rivales de Star Wars
 - Ambas minifiguras (novedad en enero de 2020) llevan trajes decorados como si estuvieran ajados, con las quemaduras propias de la batalla; además, se incluyen montones de ladrillos LEGO que animarán a los jóvenes fans a usar su creatividad.
+- Hay muchas maneras de jugar con este set LEGO de 208 piezas; por eso es un divertido regalo de cumpleaños o Navidad para niños y niñas a partir de 7 años que les descubrirá los juguetes de construcción LEGO Star Wars.
 - La mina de Mustafar mide aproximadamente 14 cm de altura, 12 cm de anchura y 12 cm de profundidad (un tamaño compacto que facilita su transporte) y se despliega (con una anchura aproximada de 23 cm) para ofrecer experiencias de juego alternativas.
+- Instructions PLUS, disponible en la app gratuita LEGO Life, es una guía muy fácil de seguir incluso para los constructores más jóvenes, que podrán visualizar esta maqueta desde cualquier ángulo mientras la construyen.
 - ¡Incluidos! ¿Espadas láser
+- ¿Eternos rivales de Star Wars
+- Tu peque podrá construir una mina de Mustafar y colocar las minifiguras LEGO de Anakin Skywalker y Obi-Wan Kenobi blandiendo sus espadas láser en plataformas giratorias deslizantes para recrear el legendario duelo que protagonizan en Mustafar.
 - Pon en marcha la imaginación de tu peque con este juego de juguetes de construcción, ambientado en el planeta Mustafar, que les invita a desarrollar su creatividad mientras escenifican aventuras inspiradas en Star Wars: La Venganza de los Sith.
 - ¡Incluidas! ¿Función de explosión de lava líquida
-- Tu peque podrá construir una mina de Mustafar y colocar las minifiguras LEGO de Anakin Skywalker y Obi-Wan Kenobi blandiendo sus espadas láser en plataformas giratorias deslizantes para recrear el legendario duelo que protagonizan en Mustafar.
 - ¡Incluida! Este set LEGO desplegable (75269) tiene todo lo que los niños necesitan para interpretar batallas entre Anakin y Obi-Wan.
-- Hay muchas maneras de jugar con este set LEGO de 208 piezas; por eso es un divertido regalo de cumpleaños o Navidad para niños y niñas a partir de 7 años que les descubrirá los juguetes de construcción LEGO Star Wars.
-- Instructions PLUS, disponible en la app gratuita LEGO Life, es una guía muy fácil de seguir incluso para los constructores más jóvenes, que podrán visualizar esta maqueta desde cualquier ángulo mientras la construyen.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W7TN6HQ/?tag=tolees-21)
