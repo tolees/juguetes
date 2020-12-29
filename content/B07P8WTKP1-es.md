@@ -25,10 +25,10 @@ Está [Minecraft Boost Pack de 2 Minifiguras Evoker y Rabbit  Mattel GKT44 ](htt
 
 ℹ️:
 
-- Diseñado en exclusiva para el juego de realidad aumentada minecraft earth para dispositivos móviles
 - Escanea la minifigura con tu dispositivo móvil y el chinfc del interior te proporcionará un boost en minecraft earth
-- Pack de 2 minifiguras boost de minecraft earth con detalles de diseño auténticos del juego
-- Juega, colecciona e intercambia con la comunidad de minecraft
 - Cada pack de 2 incluye los personajes favoritos de los fans con posturas dinámicas totalmente nuevas
+- Diseñado en exclusiva para el juego de realidad aumentada minecraft earth para dispositivos móviles
+- Juega, colecciona e intercambia con la comunidad de minecraft
+- Pack de 2 minifiguras boost de minecraft earth con detalles de diseño auténticos del juego
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P8WTKP1/?tag=tolees-21)
