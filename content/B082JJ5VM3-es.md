@@ -25,10 +25,10 @@ En este momento está [Star Wars Black Series The Child Figura de acción  Hasbr
 
 🔎:
 
-- BUSCA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Busca figuras de Star Wars The Black Series inspiradas en las películas y las series de TV, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 - THE CHILD: Los fans adoran al personaje que ellos llaman "Bebé Yoda", y ahora pueden añadirlo a sus colecciones de Star Wars The Black Series
+- ACCESORIOS INSPIRADOS EN LA SERIE: Incluye accesorios inspirados en la serie que permiten que los fans y coleccionistas imaginen escenas de la galaxia de Star Wars
 - ARTICULACIÓN Y DETALLES PREMIUM: Los múltiples puntos de articulación permiten que los fans coloquen a la adorable figura de bebé espacial en distintas poses para exhibirla en sus colecciones
 - APARIENCIA AUTÉNTICA INSPIRADA EN LA SERIE DE DISNEY PLUS: La apariencia de la figura de acción The Child de Star Wars es fiel a la del personaje favorito de la serie de Disney Plus The Mandalorian
-- ACCESORIOS INSPIRADOS EN LA SERIE: Incluye accesorios inspirados en la serie que permiten que los fans y coleccionistas imaginen escenas de la galaxia de Star Wars
+- BUSCA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Busca figuras de Star Wars The Black Series inspiradas en las películas y las series de TV, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 
 [Aquí!!!](https://www.amazon.es/dp/B082JJ5VM3/?tag=tolees-21)
