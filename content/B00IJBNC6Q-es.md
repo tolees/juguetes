@@ -26,12 +26,12 @@ Está [Educa - Foto de Clase  Puzzle infantil de 300 piezas  a partir de 8 años
 ℹ️:
 
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños
-- Puzzles de 300 piezas , horas de diversión y entretenimiento; dimensiones aproximadas del puzzle montado: 40 x 28 cm
-- Puzzle de 300 piezas
-- Las piezas son de cartón
-- Puzzles inspirados en Foto de Clase
-- Recomendado a partir de 8 años
 - Compuesto por grandes piezas
+- Puzzles de 300 piezas , horas de diversión y entretenimiento; dimensiones aproximadas del puzzle montado: 40 x 28 cm
+- Las piezas son de cartón
+- Puzzle de 300 piezas
+- Recomendado a partir de 8 años
+- Puzzles inspirados en Foto de Clase
 - Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00IJBNC6Q/?tag=tolees-21)
