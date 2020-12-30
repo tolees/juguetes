@@ -26,9 +26,9 @@ Ahora mismo tienes [LEGO Ideas 21312 - Mujeres de la NASA](https://www.amazon.e
 🔎:
 
 - La construcción de Sally Ride y Mae Jemison presenta un launchpad y el Space Shuttle Challenger
-- Incluye cuatro minifiguras: Nancy Grace Roman, Margaret Hamilton, Sally Ride y Mae Jemison
 - La construcción de Nancy Grace Roman presenta un telescopio espacial Hubble con detalles auténticos
 - La compilación de Margaret Hamilton presenta una pila de elementos de libro
+- Incluye cuatro minifiguras: Nancy Grace Roman, Margaret Hamilton, Sally Ride y Mae Jemison
 - Tres construcciones de Lego que ilustran las áreas de experiencia de las 4 mujeres destacadas de la NASA
 
 [Visítala!!!](https://www.amazon.es/dp/B071W77MBJ/?tag=tolees-21)
