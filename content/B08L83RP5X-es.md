@@ -25,10 +25,10 @@ Tienes [FAMILY BOOM - El juego de mesa para Toda la Familia - 300 cartas variada
 
 ℹ️:
 
-- 300 CARTAS PARA UNOS INCREÍBLES MOMENTOS EN FAMILIA… O NO: gente con mal perder, ¡pasad de largo! Con Family Boom, todos los golpes bajos valen… ¡dentro de un límite de una disputa familiar! En este juego de mesa infantil se castiga a los tramposos... ¡salvo aquellos a los que no les pillen!
-- FACILÍSIMO, TANTO PARA LOS MÁS PEQUES… COMO PARA LA YAYA - Las reglas de este juego de mesa familiar son muy sencillas: ¡MEZCLA, saca una carta, léela y ejecuta las órdenes del Líder del pueblo! Desafíos, Acciones, Adivinanzas, Mimos... ¡incluso los abuelos pueden jugar a estos juegos de cartas con los niños!
+- DESDE 15 MIN… ¡HASTA EL AÑO QUE VIENE! FAMILY BOOM es un juego de mesa para adultos y niños diseñado para que todo el mundo pueda divertirse y pasar unos momentos distendidos con los ninos, antes de merendar… ¡o durante toda la noche!
 - EN FAMILIA O ENTRE AMIGOS: Tanto si estáis en una boda, durante una cena familiar o un domingo por la tarde con los tíos, ¡no hay nada mejor que los juegos mesa como Family Boom para reunir a las tropas para pasar unos momentos increíbles!
 - 300 CARTAS VARIADAS Y SIEMPRE DIVERTIDAS: Family Boom, un nuevo clásico en los juegos de mesa para niños y adultos, ¡diseñado para familias alocadas! Jamás os volveréis a aburrir gracias a las múltiples mecánicas y juegos utilizados… Y bien, ¿quién será el próximo Líder del Pueblo?
-- DESDE 15 MIN… ¡HASTA EL AÑO QUE VIENE! FAMILY BOOM es un juego de mesa para adultos y niños diseñado para que todo el mundo pueda divertirse y pasar unos momentos distendidos con los ninos, antes de merendar… ¡o durante toda la noche!
+- FACILÍSIMO, TANTO PARA LOS MÁS PEQUES… COMO PARA LA YAYA - Las reglas de este juego de mesa familiar son muy sencillas: ¡MEZCLA, saca una carta, léela y ejecuta las órdenes del Líder del pueblo! Desafíos, Acciones, Adivinanzas, Mimos... ¡incluso los abuelos pueden jugar a estos juegos de cartas con los niños!
+- 300 CARTAS PARA UNOS INCREÍBLES MOMENTOS EN FAMILIA… O NO: gente con mal perder, ¡pasad de largo! Con Family Boom, todos los golpes bajos valen… ¡dentro de un límite de una disputa familiar! En este juego de mesa infantil se castiga a los tramposos... ¡salvo aquellos a los que no les pillen!
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08L83RP5X/?tag=tolees-21)
