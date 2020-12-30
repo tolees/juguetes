@@ -26,8 +26,8 @@ Tienes [PLAYMOBIL Policía- Mega Set  única  9372 ](https://www.amazon.es/dp/B0
 🔎:
 
 - Incluye cuatro figuras
-- Desarrolla la imaginación y la creatividad
 - El coche tiene luces y sonido
+- Desarrolla la imaginación y la creatividad
 - Incluye quad, helicóptero y coche
 
 [Comprar!!!](https://www.amazon.es/dp/B07669YMTG/?tag=tolees-21)
