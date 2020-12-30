@@ -25,9 +25,9 @@ Tienes [Patrulla Canina Camión de Bomberos Ultimate Rescue  BIZAK 61926752 ](ht
 
 🔎:
 
-- Utiliza el lanzador de proyectiles de la cabina o el situado en la trasera del camión para lanzar los proyectiles y apagar cualquier fuego
-- Recrea aventuras con el camión de bomberos de Marshall
 - Equipado con una escalera extensible de 60 cm, un mini vehículo y luz y sonidos, este camión de bomberos está listo para misiones llenas de acción
 - Si Marshall necesita ayuda, hay espacio suficiente para llevar hasta 6 cachorros en su interior
+- Utiliza el lanzador de proyectiles de la cabina o el situado en la trasera del camión para lanzar los proyectiles y apagar cualquier fuego
+- Recrea aventuras con el camión de bomberos de Marshall
 
 [Comprar!!!](https://www.amazon.es/dp/B07SQ1K4DZ/?tag=tolees-21)
