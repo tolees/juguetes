@@ -25,9 +25,9 @@ Tienes [Ravensburger - Puzzle 3D  diseño Torre Eiffel  12556 2 ](https://www.am
 
 🔎:
 
-- Contiene 216 piezas con la tema de Tour Eiffel
 - Versión 3D
-- Edad mínima recomendada: 12 años
 - Piezas de plástico que se encajan perfectamente sin uso de pegamento
+- Contiene 216 piezas con la tema de Tour Eiffel
+- Edad mínima recomendada: 12 años
 
 [Comprar!!!](https://www.amazon.es/dp/B004O0TOK4/?tag=tolees-21)
