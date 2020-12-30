@@ -25,10 +25,10 @@ Tienes [Tomy - Tortuga que nada y canta  T2712 ](https://www.amazon.es/dp/B000YW
 
 ℹ️:
 
+- MANUFACTURED TO THE HIGHEST STANDARDS - This collection bath for kid continues to be a family favorite, building on the heritage and core values, which parents associate with TOMY
+- DEVELOP MOBILITY OF BABY - This toddler toy is designed to develop children’s motor skills while playing and having loads of fun during bath time
 - THE TURTLE THAT SWIMS AND SINGS: Wind him up and hell flap his flippers, then press the button on his head to hear him sing and gurgle - bath time will never be boring again!
 - IDEAL GIFT FOR LITTLE SWIMMERS: Make bath time the funnest time of the day with Swim & Sing Turtle. It makes a great Christmas or Birthday present for babies from as early as 1 year of age!
-- DEVELOP MOBILITY OF BABY - This toddler toy is designed to develop children’s motor skills while playing and having loads of fun during bath time
-- MANUFACTURED TO THE HIGHEST STANDARDS - This collection bath for kid continues to be a family favorite, building on the heritage and core values, which parents associate with TOMY
 - IDEAL BABY BATH TIME ACCESSORY - This toddler toy is excellent for babies and toddlers to make bath time fun. It helps build water confidence and develop their imagination
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000YW5RNE/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.24 % en Hasbro Game Night'
-date: 2020-12-28 07:14:48
+date: 2020-12-30 09:10:36
 image: 'https://m.media-amazon.com/images/I/51NoyapMEkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYHN9R5/?tag=tolees-21'
 descuento: '50.24'
-average: '24.631086956521738'
+average: '24.433958333333333'
 ---
 
 Tienes [Hasbro Game Night](https://www.amazon.es/dp/B07HYHN9R5/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!

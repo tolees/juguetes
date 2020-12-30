@@ -25,9 +25,9 @@ En este momento está [Hasbro Gaming - Juego infantil Caca Chaf!  Hasbro E248917
 
 🔎:
 
-- Moldea la plastilina incluida para crear montones de caca
-- Juega con tus amigos o juega a evitar pisar las cacas tú solo
-- Pásalo en grande evitando pisar cacas con los ojos vendados
 - El jugador que pise menos cacas, gana
+- Moldea la plastilina incluida para crear montones de caca
+- Pásalo en grande evitando pisar cacas con los ojos vendados
+- Juega con tus amigos o juega a evitar pisar las cacas tú solo
 
 [Aquí!!!](https://www.amazon.es/dp/B079M8YWFM/?tag=tolees-21)

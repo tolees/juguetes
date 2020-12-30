@@ -25,12 +25,12 @@ Ahora mismo tienes [Mattel Torta Della Festa Polly Pocket-Cofre Tarta de Cumple 
 
 🔎:
 
-- La tecnología Polly Stick permite pegar las mini muñecas a cualquier parte del conjunto; solo hay que colocar la pegatina de la hoja incluida y las muñecas se pegarán a la zona adhesiva
-- Maletín de muñecas para niños a partir de 4 años
 - El juego de muñecas es lo suficientemente pequeño como para llevárselo a todos lados; incluye un estuche de tarta del mundo de bolsillo, muñecas de Polly y Lila en miniatura, accesorios y pegatinas
-- Los secretos adicionales de este maletín de muñecas incluyen: regalo para Polly que se abre y se convierte en un anillo que los niños pueden ponerse; y Polly saliendo del accesorio en forma de tarta
-- Con tantas actividades y accesorios divertidos, Polly y Lila están preparadas para la fiesta de cumpleaños definitiva de Polly Pocket
+- La tecnología Polly Stick permite pegar las mini muñecas a cualquier parte del conjunto; solo hay que colocar la pegatina de la hoja incluida y las muñecas se pegarán a la zona adhesiva
 - Este estuche con la forma de un trozo de tarta se abre para descubrir una fiesta de cumpleaños con mini muñecas de Polly y Lila
 - El estuche de las muñecas de colección oculta estos secretos: una pista de baile giratoria, una piñata y un tiovivo móviles, una cafetería y más
+- Los secretos adicionales de este maletín de muñecas incluyen: regalo para Polly que se abre y se convierte en un anillo que los niños pueden ponerse; y Polly saliendo del accesorio en forma de tarta
+- Con tantas actividades y accesorios divertidos, Polly y Lila están preparadas para la fiesta de cumpleaños definitiva de Polly Pocket
+- Maletín de muñecas para niños a partir de 4 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZDZZWG/?tag=tolees-21)
