@@ -25,10 +25,10 @@ Tienes [Top Wing - Top Wing Helicóptero Rescate  Hasbro E5278EU4 ](https://www.
 
 ℹ️:
 
-- Incluye el Flash Wing deluxe, figuras de Swift y de Timmy Tortuga, y una lancha de rescate, todos con un tamaño perfecto para las manitas pequeñas
-- La garra se despliega a mano para enganchar la lancha de rescate
-- Los más pequeños podrán recrear las misiones de Top Wing con Swift y su vehículo deluxe, el Flash Wing, incluye detección lateral y luces y sonidos, para disfrutar aventuras apasionantes en la Isla Gran Torbellino
 - El vehículo tiene 2 modos: modo rescate (garra plegada) y modo turbo (garra desplegada), cada uno con diferentes sonidos
+- La garra se despliega a mano para enganchar la lancha de rescate
+- Incluye el Flash Wing deluxe, figuras de Swift y de Timmy Tortuga, y una lancha de rescate, todos con un tamaño perfecto para las manitas pequeñas
 - Únete a Swift en sus misiones de rescate aéreas para ganarte las alas con su vehículo deluxe, el Flash Wing, inspirado en Top Wing de Nickelodeon
+- Los más pequeños podrán recrear las misiones de Top Wing con Swift y su vehículo deluxe, el Flash Wing, incluye detección lateral y luces y sonidos, para disfrutar aventuras apasionantes en la Isla Gran Torbellino
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KMLN795/?tag=tolees-21)
