@@ -25,13 +25,13 @@ Tienes [Ravensburger Tiburón  Juego de mesa  Versión Española  2-4 Jugadores 
 
 ℹ️:
 
-- Calidad que perdura: Ravensburger lleva más de 130 años haciendo productos para la cabeza, el corazón y las manos
-- También contiene: 3 ficha de reaparición, 3 fichas de blanco, 5 fichas de barril, 16 fichas de bañista e instrucciones
-- Este juego de 60 minutos de duración para 2-4 jugadores os mantendrá pegados a la mesa recreando el épico final del filme clásico una y otra vez
-- Instrucciones claras: Las instrucciones y fáciles de entender permiten empezar a jugar enseguida sencillamente
 - En qué consiste: 1 tablero de doble cara, 3 peones de tripulación, 1 peón de tiburón, 2 peones de barco, 5 dados, 1 bloc, 4 paneles de personaje, 8 losetas de barco, 1 ficha de playa cerrada
-- En este juego puedes asumir el rol del Tiburón o jugar desempeñando el papel de un miembro de la tripulación; cada partida será diferente, ya que los resultados del Acto 1 influyen en el Acto 2
+- También contiene: 3 ficha de reaparición, 3 fichas de blanco, 5 fichas de barril, 16 fichas de bañista e instrucciones
+- Instrucciones claras: Las instrucciones y fáciles de entender permiten empezar a jugar enseguida sencillamente
+- Calidad que perdura: Ravensburger lleva más de 130 años haciendo productos para la cabeza, el corazón y las manos
 - Óptimo para familias y entusiastas de la película «Tiburón»
 - Tanto si juegas con un grupo de fanáticos de «Tiburón» como con amantes de los juegos de estrategia clásicos o con tu familia, este juego es óptimo para una tarde de juegos
+- En este juego puedes asumir el rol del Tiburón o jugar desempeñando el papel de un miembro de la tripulación; cada partida será diferente, ya que los resultados del Acto 1 influyen en el Acto 2
+- Este juego de 60 minutos de duración para 2-4 jugadores os mantendrá pegados a la mesa recreando el épico final del filme clásico una y otra vez
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085GWZVLC/?tag=tolees-21)

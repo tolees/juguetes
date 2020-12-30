@@ -25,10 +25,10 @@ Ahora mismo tienes [Imaginext - Disney Toy Story 4 Pack Aventuras Figuras Woody 
 
 🔎:
 
-- Añade estas figuras a otros conjuntos de Imaginext para empezar una aventura (Los conjuntos se venden por separado y están sujetos a disponibilidad)
-- Recrea la acción de la película Toy Story 4 de Disney Pixar
-- Mueve los brazos y las piernas de las figuras para jugar de forma realista
-- Para niños de 3 a 8 años
 - Incluye 2 figuras y un accesorio
+- Para niños de 3 a 8 años
+- Mueve los brazos y las piernas de las figuras para jugar de forma realista
+- Recrea la acción de la película Toy Story 4 de Disney Pixar
+- Añade estas figuras a otros conjuntos de Imaginext para empezar una aventura (Los conjuntos se venden por separado y están sujetos a disponibilidad)
 
 [Visítala!!!](https://www.amazon.es/dp/B07MPLDQCP/?tag=tolees-21)
