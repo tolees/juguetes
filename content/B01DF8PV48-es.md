@@ -26,9 +26,9 @@ En este momento está [Devir- Fantasma Blitz Menudo sust Juego  Multicolor  BGBL
 🔎:
 
 - Duración: 15 min
-- De 2 a 8 jugadores
-- A partir de los 8 años
-- Juego en español, catalán y portugués
 - Número de modelo: BGBLITZ4
+- De 2 a 8 jugadores
+- Juego en español, catalán y portugués
+- A partir de los 8 años
 
 [Aquí!!!](https://www.amazon.es/dp/B01DF8PV48/?tag=tolees-21)
