@@ -25,10 +25,10 @@ Tienes [Cool Maker Kumi Kreator Respuesto  colores surtidos  BIZAK 61927508 ](ht
 
 🔎:
 
-- Para usar con la máquina de pulseras Kumi kreator
 - 52 carretes, 6 cierres, 12 extremos, 1 etiqueta de pompón, 1 base de pompón, 2 hojas de adhesivos para el cierre y 2 folletos de creación
-- El fabricante nos proporciona este producto en modelos y/o colores aleatorios, nos resulta imposible proporcionarte el producto en un modelo y/o color en particular; al confirmar tu compra, recibirás uno de los modelos que se muestran en la imagen o en el título, en función de la disponibilidad; muchas gracias por tu comprensión
-- Crea hasta 6 pulseras
 - Las pulseras no necesitan nudos
+- El fabricante nos proporciona este producto en modelos y/o colores aleatorios, nos resulta imposible proporcionarte el producto en un modelo y/o color en particular; al confirmar tu compra, recibirás uno de los modelos que se muestran en la imagen o en el título, en función de la disponibilidad; muchas gracias por tu comprensión
+- Para usar con la máquina de pulseras Kumi kreator
+- Crea hasta 6 pulseras
 
 [Comprar!!!](https://www.amazon.es/dp/B07NQ14YPD/?tag=tolees-21)

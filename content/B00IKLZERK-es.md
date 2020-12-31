@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.32 % en LEGO: El Hobbit'
-date: 2020-12-17 11:35:01
+date: 2020-12-31 14:41:55
 image: 'https://m.media-amazon.com/images/I/61p2bmxL-cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IKLZERK/?tag=tolees-21'
 descuento: '50.32'
-average: '16.671874999999996'
+average: '16.567647058823525'
 ---
 
 Tienes [LEGO: El Hobbit](https://www.amazon.es/dp/B00IKLZERK/?tag=tolees-21) con un 50.32 % de descuento con precio de oferta de 14.9 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Tienes [LEGO: El Hobbit](https://www.amazon.es/dp/B00IKLZERK/?tag=tolees-21) con
 
 ℹ️:
 
-- Tipo de producto: videojuego de acción y aventura
 - El juego viene con una una función donde el usuario debe localizar materiales específicos para construir un objeto de Lego grande
-- Plataforma del juego: PlayStation 4
+- Tipo de producto: videojuego de acción y aventura
 - El juego está compuesto por un gran mapa, en lugar de un único centro
 - El jugador puede mover a lo largo de diferentes eventos en los diferentes personajes
+- Plataforma del juego: PlayStation 4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IKLZERK/?tag=tolees-21)
