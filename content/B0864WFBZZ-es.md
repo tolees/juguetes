@@ -25,10 +25,10 @@ Tienes [SuperThings Rivals of Kaboom - Secret Spies - Display de 50 Figuras Cole
 
 🔎:
 
-- Para conocer si los espías secretos son héroes o villanos, introduce en agua caliente a tus nuevas figuras y sus ojos ¡cambiarán de color!: amarillo para villanos y blanco para héroes
-- Los SuperThings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperThings tienen su rival, busca las parejas rivales y forma tus Superequipos. Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
-- Pack de 50 bolsas individuales de Secret Spies ¡Puedes encontrar más de 80 nuevos SuperThings! Además tienes que estar súper atento ya que para detectar si tu figura es un héroe o villano, deberás meter a tu SuperThing en agua caliente para descubrir cómo son sus ojos detrás de sus gafas
 - En la nueva Secret Spies podrás encontrar al nuevo ultra-raro: Oculus Max que cambia de color cuando lo sumerges en agua caliente ¿Preparado para revelar el misterio?
+- Los SuperThings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperThings tienen su rival, busca las parejas rivales y forma tus Superequipos. Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
+- Para conocer si los espías secretos son héroes o villanos, introduce en agua caliente a tus nuevas figuras y sus ojos ¡cambiarán de color!: amarillo para villanos y blanco para héroes
 - Descubre los nuevos equipos junto a sus capitanes plateados y dorados, y a los 12 espías secretos en dos colores diferentes. Cada bolsa individual incluye un SuperThing de Secret Spies y un folleto con la lista de los personajes
+- Pack de 50 bolsas individuales de Secret Spies ¡Puedes encontrar más de 80 nuevos SuperThings! Además tienes que estar súper atento ya que para detectar si tu figura es un héroe o villano, deberás meter a tu SuperThing en agua caliente para descubrir cómo son sus ojos detrás de sus gafas
 
 [Comprar!!!](https://www.amazon.es/dp/B0864WFBZZ/?tag=tolees-21)

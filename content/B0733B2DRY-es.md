@@ -25,10 +25,10 @@ Ahora mismo tienes [Chicco Super Torre Aplilable - Puzzle verticalde de 62 cm de
 
 🔎:
 
-- Encajable y aplilable
-- Las bolas bajan rodando por la torre
-- Torre aplilable de más de 61 cm
-- 6 cubos de colores y letras + 4 bolas
 - Con letras del abecedario
+- 6 cubos de colores y letras + 4 bolas
+- Torre aplilable de más de 61 cm
+- Las bolas bajan rodando por la torre
+- Encajable y aplilable
 
 [Visítala!!!](https://www.amazon.es/dp/B0733B2DRY/?tag=tolees-21)

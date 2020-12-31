@@ -27,10 +27,10 @@ En este momento está [FIFA 21 Standard Edition - Xbox One](https://www.amazon.e
 
 - Modo CARRERA: Gestiona cada momento. Disfruta de una experiencia completa en partidos, traspasos y entrenamientos
 - La nueva Personalidad de Posición aumenta la relevancia del conocimiento posicional
-- Deja atrás a los defensas con el nuevo sistema de Regate Ágil. El juegocmás rápido de pies te dará un mayor control y respuesta en situaciones de uno contra uno
-- En FIFA 21 darás rienda suelta a tu creatividad y controlarás cada faceta de tu juego en todo el campo
 - La configuración del modo Competidor imita el estilo de juego de los jugadores de FIFA del mundo y proporciona a tus rivales un manejo de las filigranas, tipos de regates y tácitcas
-- Las Carreras Creativas te ofrecen nuevas opciones para influir en el movimiento del equipo sin balón
+- Deja atrás a los defensas con el nuevo sistema de Regate Ágil. El juegocmás rápido de pies te dará un mayor control y respuesta en situaciones de uno contra uno
 - VOLTA Football: Disfruta del alma de las calles junto a tus colegas y demuestra tu estilo en jaulas y canchas de todo el mundo
+- Las Carreras Creativas te ofrecen nuevas opciones para influir en el movimiento del equipo sin balón
+- En FIFA 21 darás rienda suelta a tu creatividad y controlarás cada faceta de tu juego en todo el campo
 
 [Aquí!!!](https://www.amazon.es/dp/B08BGP48TW/?tag=tolees-21)
