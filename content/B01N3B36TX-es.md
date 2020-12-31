@@ -25,7 +25,7 @@ Está [Warner Bros Interactive Spain Lego City  Fun Pack ](https://www.amazon.es
 
 ℹ️:
 
-- Aiuta a fermare il crimine nel Multiverso di Lego Dimensions con il Pacchetto Divertimento LEGO City
 - Rendi ancora più ricca la tua avventura in Lego Dimensions grazie al pacchetto divertimento LEGO City che include Chase McCain
+- Aiuta a fermare il crimine nel Multiverso di Lego Dimensions con il Pacchetto Divertimento LEGO City
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N3B36TX/?tag=tolees-21)
