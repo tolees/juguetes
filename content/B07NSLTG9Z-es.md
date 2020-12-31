@@ -26,9 +26,9 @@ Tienes [MOJIPOPS - I like Movies con 2 exclusivas figuras Mojipops y variedad de
 🔎:
 
 - Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
-- Juguete para a partir de los 3 años de edad
 - Ideal para desarrollar la imaginación y habilidad emocional de los niños
 - Disfruta con los MojiPops viendo una peli y comiendo palomitas.
+- Juguete para a partir de los 3 años de edad
 - Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 
 [Comprar!!!](https://www.amazon.es/dp/B07NSLTG9Z/?tag=tolees-21)

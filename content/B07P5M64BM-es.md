@@ -26,9 +26,9 @@ Tienes [MOJIPOPS - I Like Photography con 2 exclusivas figuras MojiPops y varied
 🔎:
 
 - Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
+- Ideal para desarrollar la imaginación y habilidad emocional de los niños
 - Convierte a tus MojiPops en modelos profesionales en este estudio de fotografía
 - Contiene 2 MojiPops exclusivos y variedad de accesorios
-- Ideal para desarrollar la imaginación y habilidad emocional de los niños
 - Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus propias sesiones de fotos.
 
 [Comprar!!!](https://www.amazon.es/dp/B07P5M64BM/?tag=tolees-21)

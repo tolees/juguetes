@@ -25,8 +25,8 @@ Tienes [MOJIPOPS - I like Party con 2 exclusivas figuras MojiPops y variedad de 
 
 🔎:
 
-- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 - Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
+- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 - Ideal para desarrollar la imaginación y habilidad emocional de los niños
 - Juguete para a partir de los 3 años de edad
 - ¿Preparado para pasártelo genial en la fiesta que han montado? Hay un tobogán, pastel… ¡Y música para bailar!
