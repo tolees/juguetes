@@ -25,10 +25,10 @@ Está [Sylvanian Families - 4254 - Muebles Habitación Niños](https://www.amazo
 
 ℹ️:
 
-- Figuras de 6 a 10 cm
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
-- Desarrolla el juego imaginativo y cotidiano de los niños
-- Conectables y coleccionables
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
+- Conectables y coleccionables
+- Figuras de 6 a 10 cm
+- Desarrolla el juego imaginativo y cotidiano de los niños
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0001MEGSY/?tag=tolees-21)
