@@ -26,7 +26,7 @@ Está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Negro V2  PS4 ](https://w
 ℹ️:
 
 - Para PS4
-- Es de la marca Sony
 - Controlador inalámbrico Dualshock 4
+- Es de la marca Sony
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYWPQUN/?tag=tolees-21)
