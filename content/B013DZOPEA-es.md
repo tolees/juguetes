@@ -25,9 +25,9 @@ En este momento está [Fisher-Price Imaginext Batman  Bat-Robot transformable  j
 
 🔎:
 
-- Juguete para niños de 3 a 8 años
-- Regalo óptimo para niños que incluye una figura de batman, el bat-robot transformable, un mando de control remoto y cuatro discos para lanzar a los villanos de la ciudad de gotham
 - los brazos de este robot de juguete giran 90 grados
+- Regalo óptimo para niños que incluye una figura de batman, el bat-robot transformable, un mando de control remoto y cuatro discos para lanzar a los villanos de la ciudad de gotham
+- Juguete para niños de 3 a 8 años
 - juguete para niños con luces y efectos de sonido
 - Robot de juguete de batman que se convierte en tanque
 
