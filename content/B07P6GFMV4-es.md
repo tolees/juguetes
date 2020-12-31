@@ -27,8 +27,8 @@ Tienes [MOJIPOPS - Ferrys Wheel con 2 exclusivas figuras MojiPops y variedad de 
 
 - Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 - Ideal para desarrollar la imaginación y habilidad emocional de los niños
-- Sube a tus MojiPops a la noria y disfruta haciéndola girar. O tal vez te apetezca más montar en patinete, comer algodón de azúcar o un helado
-- Contiene 2 MojiPops exclusivos y variedad de accesorios.
 - Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
+- Contiene 2 MojiPops exclusivos y variedad de accesorios.
+- Sube a tus MojiPops a la noria y disfruta haciéndola girar. O tal vez te apetezca más montar en patinete, comer algodón de azúcar o un helado
 
 [Comprar!!!](https://www.amazon.es/dp/B07P6GFMV4/?tag=tolees-21)
