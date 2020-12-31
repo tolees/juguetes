@@ -25,10 +25,10 @@ Ahora mismo tienes [Disney Princess - Disney Princess Brillo Real Mulan  Hasbro 
 
 🔎:
 
-- Diadema y sus zapatos inspirados en la película
-- Adecuada para empezar una colección de muñecas
-- Regalo óptimo de cumpleaños o celebraciones
 - Falda y corpiño brillantes
 - Características fieles al personaje
+- Diadema y sus zapatos inspirados en la película
+- Regalo óptimo de cumpleaños o celebraciones
+- Adecuada para empezar una colección de muñecas
 
 [Visítala!!!](https://www.amazon.es/dp/B07FM85C2S/?tag=tolees-21)
