@@ -25,8 +25,8 @@ En este momento está [Nerf - Zombie Strike Flipfury  Hasbro A9603EU4 ](https://
 
 🔎:
 
-- Lanza hasta 12 dardos Zombi sin tener que recargar
-- Lanzador zombi con doble tambor rotatorio
 - Cada tambor rotatorio tiene capacidad de 6 dardos
+- Lanzador zombi con doble tambor rotatorio
+- Lanza hasta 12 dardos Zombi sin tener que recargar
 
 [Aquí!!!](https://www.amazon.es/dp/B00P0K8FZW/?tag=tolees-21)
