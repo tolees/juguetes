@@ -26,7 +26,7 @@ Tienes [Avengers Avengers-07076 Rompecabezas 4 x 100 Piezas  Ravensburger 7076 ]
 🔎:
 
 - Material de alta calidad
-- Edad mínima recomendada: 2 años
 - Producto para niñas y niños
+- Edad mínima recomendada: 2 años
 
 [Comprar!!!](https://www.amazon.es/dp/B0006NM9CS/?tag=tolees-21)
