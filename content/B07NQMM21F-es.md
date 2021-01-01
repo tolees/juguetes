@@ -25,9 +25,9 @@ Está [Mattel BTS - Muñeco Jin  figura de colección  miembro banda coreana de 
 
 ℹ️:
 
-- Tienen el pelo largo y son articuladas y adaptables: ¡puedes mover sus brazos, piernas y cabezas
-- Esta figura de Jin está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
 - También están disponibles (se venden por separado) las figuras de moda inspiradas en los otros seis miembros de BTS: RM, SUGA, J-hope, Jimin, V y Jung Kook. ¡Colecciónalos todos
+- Esta figura de Jin está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
+- Tienen el pelo largo y son articuladas y adaptables: ¡puedes mover sus brazos, piernas y cabezas
 - ¡Muestra tu amor por BTS con la colección oficial de los muñecos de moda que representan a los siete artistas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NQMM21F/?tag=tolees-21)
