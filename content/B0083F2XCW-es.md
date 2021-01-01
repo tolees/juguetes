@@ -25,10 +25,10 @@ Ahora mismo tienes [Mega Bloks Bolsa clásica con 60 bloques de construcción  j
 
 🔎:
 
-- Juguete para niños de 1 a 5 años
 - Juguete para niños que permite realizar juegos manuales, que estimulan el desarrollo desde la primera infancia
-- Se puede combinar con otros conjuntos de juego mega bloks para bebés y niños pequeños
+- Juguete para niños de 1 a 5 años
 - Regalo óptimo para que los niños se diviertan mientras construyen
+- Se puede combinar con otros conjuntos de juego mega bloks para bebés y niños pequeños
 - Juego de construcción para niños pequeños que incluye 60 bloques de colores con piezas especiales y una bolsa para guardarlo todo fácilmente
 
 [Visítala!!!](https://www.amazon.es/dp/B0083F2XCW/?tag=tolees-21)
