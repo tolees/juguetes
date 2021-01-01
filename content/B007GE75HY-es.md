@@ -27,8 +27,8 @@ Tienes [Mega Bloks Bolsa clásica con 80 bloques de construcción  juguete para 
 
 - óptimo para desarrollar motricidad y coordinación
 - compatible con todos los juegos de mega bloks first builders para aún más posibilidades de construcción
-- regalo óptimo de mega bloks para aprender mientras construyen
 - Bloques de construcción para bebés a partir de 12 meses y niños hasta 5 años
 - set de construcción para bebés y niños pequeños que incluye 80 mega bloks maxi y una bolsa ecológica con cierre de cremallera
+- regalo óptimo de mega bloks para aprender mientras construyen
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B007GE75HY/?tag=tolees-21)
