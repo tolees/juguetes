@@ -25,9 +25,9 @@ Tienes [Educa- Tienda de Dulces Puzzle  1000 Piezas  Multicolor  1.000  17104 ](
 
 🔎:
 
-- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
-- Serie Genuine
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Serie Genuine
+- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
 - Edad recomendada: a partir de 12 años
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 
