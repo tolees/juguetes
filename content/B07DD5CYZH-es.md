@@ -25,10 +25,10 @@ Tienes [Fisher-Price - Tren de Robi y su amigos -  Mattel FXJ00 ](https://www.am
 
 ℹ️:
 
-- Cuando se coloca a robi, robita o guau guau perrita en el asiento del maquinista del tren de juguete, hablan y hacen sonidos
 - Basta con apretar la chimenea luminosa de este tren de juguete para poner la diversión en marcha
+- Regalo original para bebes de 6 a 36 meses
+- Cuando se coloca a robi, robita o guau guau perrita en el asiento del maquinista del tren de juguete, hablan y hacen sonidos
 - Este trenecito para niños ofrece más de 90 canciones, sonidos, melodías y frases que enseñan los colores, las formas, los contrarios y muchas más cosas
 - El tren con luces y sonido está diseñado con tecnología interesante con 3 niveles de aprendizaje que se adaptan al crecimiento del niño
-- Regalo original para bebes de 6 a 36 meses
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DD5CYZH/?tag=tolees-21)

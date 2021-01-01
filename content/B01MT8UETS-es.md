@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Dualshock 4 V2 Mando Inalámbrico  con un 27.45 % de descuento'
-date: 2020-12-31 14:49:32
+date: 2021-01-01 22:32:05
 image: 'https://m.media-amazon.com/images/I/51W9V4Ve3JL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MT8UETS/?tag=tolees-21'
 descuento: '27.45'
-average: '60.41541666666667'
+average: '59.594800000000006'
 ---
 
 En este momento está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Verde Camuflaje  PS4 ](https://www.amazon.es/dp/B01MT8UETS/?tag=tolees-21) a 39.9 EUR (original: 55.0 EUR) (27.45 %  de descuento) en el siguiente enlace!
@@ -26,7 +26,7 @@ En este momento está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Verde Cam
 🔎:
 
 - Es de la marca Sony
-- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 - Controlador inalámbrico Dualshock 4
+- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 
 [Aquí!!!](https://www.amazon.es/dp/B01MT8UETS/?tag=tolees-21)
