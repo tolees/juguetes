@@ -26,7 +26,7 @@ En este momento está [sakami sak77008 Personalizada One Punch Man Saitama Angr
 🔎:
 
 - Angry versión
-- Licencia oficial.
 - Perfecto para One de Punch Man amantes.
+- Licencia oficial.
 
 [Aquí!!!](https://www.amazon.es/dp/B06XKK3GCF/?tag=tolees-21)

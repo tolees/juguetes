@@ -25,10 +25,10 @@ Ahora mismo tienes [Toy Story - Muñeco Dinosaurio Rex 25 Aniversario  Mattel GJ
 
 🔎:
 
-- Muy articuladas, para adoptar poses icónicas y exponer
 - Viene a escala adaptada inspirada en la película para vivir auténticas aventuras
-- El icónico casco vikingo de fiesta, los brazos de papel de aluminio y la gorra Gamer Dome aumentan las opciones de juego
 - Figura de Rex 25º aniversario de Toy Story de Disney Pixar
 - A partir de 3 años
+- El icónico casco vikingo de fiesta, los brazos de papel de aluminio y la gorra Gamer Dome aumentan las opciones de juego
+- Muy articuladas, para adoptar poses icónicas y exponer
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y942XLX/?tag=tolees-21)
