@@ -27,8 +27,8 @@ Está [Tarjeta De Sonido Externa USB  Adaptador Jack A USB  USB A 3 5mm Jacks Au
 
 - SOLUCIÓN PUERTO JACK: perfecto para tarjeta de sonido defectuosa, reemplazo de entrada 3.5mm rota.
 - COMPATIBILIDAD: Los AURICULARES utilizados DEBEN con el standard CTIA. NO COMPATIBLE CON ANDROID TV
+- NOTA IMPORTANTE: sólo es compatible con el micrófono mono TRRS, NO es compatible con TS, TRS.
 - PLUG & PLAY: NO Requiere instalación. Compatible USB Audio Class estándar Windows Linux Mac iOS.
 - Tarjeta de sonido externa: Conecte USB con sus auriculares 3.5mm, cascos, altavoces o micrófono.
-- NOTA IMPORTANTE: sólo es compatible con el micrófono mono TRRS, NO es compatible con TS, TRS.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YCKC1CF/?tag=tolees-21)
