@@ -25,10 +25,10 @@ Está [Ravensburger - The Castles of Burgundy Versión Española  Strategy Game 
 
 ℹ️:
 
-- El juego contiene: 1 tablero, 16 tableros de jugador, 9 planchas troqueladas (con más de 300 losetas), 9 dados, 8 peones, instrucciones
 - A lo largo de 5 fases, los jugadores ganan puntos de victoria mediante la agricultura, el comercio, la construcción y la investigación científica; el jugador que tenga más puntos de victoria al final de la partida gana
-- Este juego de mesa se recomienda para mayores de 12 años, la duración media de una partida es de 120 minutos y es un juego óptimo para los que quieran un desafío exigente y de estrategia con una óptima variedad de opciones de juego gracias a las 10 expansiones incluidas
 - Un juego de estrategia para 1-4 jugadores en el que tendrás muchas maneras de alcanzar tu objetivo: el progreso académico, el desarrollo de las ciudades, la agricultura, el comercio
+- El juego contiene: 1 tablero, 16 tableros de jugador, 9 planchas troqueladas (con más de 300 losetas), 9 dados, 8 peones, instrucciones
 - Descubre la línea completa de juegos de mesa Alea: Las Vegas, Puerto Rico y muchas otras aventuras os esperan
+- Este juego de mesa se recomienda para mayores de 12 años, la duración media de una partida es de 120 minutos y es un juego óptimo para los que quieran un desafío exigente y de estrategia con una óptima variedad de opciones de juego gracias a las 10 expansiones incluidas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R5ZH6FQ/?tag=tolees-21)

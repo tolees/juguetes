@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avengers- Titan Hero FX Figura Capitana  al 16.67 % de descuento'
-date: 2020-12-30 19:44:52
+date: 2021-01-02 15:16:37
 image: 'https://m.media-amazon.com/images/I/51xUQ-9L0fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Avengers- Titan Hero FX Figura Capitana Marvel  Multicolor  Hasbro E33071
 
 ℹ️:
 
-- Inspirado en la película Avengers: Endgame
-- Conecta el lanzador titan hero power FX para activar sonidos y frases y lanzar proyectiles
-- El lanzador Titan Hero Power FX se conecta a figuras Titan Hero Series (se venden por separado)
 - Figura de capitana marvel de 30 cm basada en la película
 - Busca las figuras Titan Hero Series y Titan Hero Power FX (se venden por separado)
+- El lanzador Titan Hero Power FX se conecta a figuras Titan Hero Series (se venden por separado)
+- Conecta el lanzador titan hero power FX para activar sonidos y frases y lanzar proyectiles
+- Inspirado en la película Avengers: Endgame
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q7R1WN6/?tag=tolees-21)
