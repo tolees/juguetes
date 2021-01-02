@@ -26,8 +26,8 @@ En este momento está [Clementoni- Puzzle 104 Piezas Maxi Hello Kitty  23742.5 ]
 🔎:
 
 - Un Puzzle de 104 piezas grandes, de distintos dibujos y personajes
-- Hecho en Italia
 - Favorece la concentración y las habilidades manuales
 - Gracias a las maxi piezas, es de fácil encaje, y dibujos sencillos, para conocer el apasionante mundo de los Puzzle s, con tus personajes favoritos
+- Hecho en Italia
 
 [Aquí!!!](https://www.amazon.es/dp/B083MNKC8P/?tag=tolees-21)
