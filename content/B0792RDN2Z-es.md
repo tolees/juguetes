@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO Technic - Grúa Todoterreno  Juguete de Construcción  
 
 🔎:
 
-- Build a heavy-duty rough terrain toy crane with motorized superstructure, stabilizer legs, 1 m extendable boom and working w Inch, plus an array of authentic details and functions
-- This 2-in-1 model rebuilds into a Mobile Pile Driver, both construction toys are powered up with LEGO Power Functions
+- Manual functions include 4-wheel steering,4-wheel drive, detailed V8 engine with moving pistons and fan, adjustable wing mirrors and an opening cab door
 - LEGO Technic building sets can be built together with all other original LEGO sets and LEGO building bricks for creative construction
 - Features LEGO Power Functions large motor for controlling the cranes upper and lower functions
-- Manual functions include 4-wheel steering,4-wheel drive, detailed V8 engine with moving pistons and fan, adjustable wing mirrors and an opening cab door
+- Build a heavy-duty rough terrain toy crane with motorized superstructure, stabilizer legs, 1 m extendable boom and working w Inch, plus an array of authentic details and functions
+- This 2-in-1 model rebuilds into a Mobile Pile Driver, both construction toys are powered up with LEGO Power Functions
 
 [Visítala!!!](https://www.amazon.es/dp/B0792RDN2Z/?tag=tolees-21)
