@@ -25,10 +25,10 @@ Tienes [Hasbro Gaming- Jenga Fornite  E9480175 ](https://www.amazon.es/dp/B084ZW
 
 ℹ️:
 
-- El primer jugador que inserte su ficha con el personaje de fortnite en uno de los orificios superiores de la torre gana
-- El juego jenga fortnite edition es un juego divertido y desafiante para los fans de fortnite
 - Los jugadores deben mover sus fichas hacia arriba y las de sus rivales hacia abajo a medida que quitan y apilan los bloques; pero, si a torre se cae al escalar o apilar, el juego se termina
-- Los jugadores hacen girar la ruleta y siguen las indicaciones el número y el tipo de bloques que deben apilar y cuántos niveles debe escalar su personaje de fortnite
+- El juego jenga fortnite edition es un juego divertido y desafiante para los fans de fortnite
 - Es un divertido juego jenga con arte gráfico, temas y personajes inspirados en el popular videojuego en línea fortnite
+- El primer jugador que inserte su ficha con el personaje de fortnite en uno de los orificios superiores de la torre gana
+- Los jugadores hacen girar la ruleta y siguen las indicaciones el número y el tipo de bloques que deben apilar y cuántos niveles debe escalar su personaje de fortnite
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084ZW5HBY/?tag=tolees-21)
