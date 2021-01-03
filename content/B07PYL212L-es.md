@@ -27,8 +27,8 @@ Ahora mismo tienes [Little People - Garaje Cochelandia  Parking Juguetes Coches 
 
 - Regalo original para niños que incluye 3 pistas diferentes con una altura de casi un metro
 - Este garaje de juguete para coches incluye una gasolinera, un taller mecánico y una flecha giratoria
-- Juguete para niños y bebés a partir de 1 año
-- Emite divertidos sonidos de carreras y frases para aprender a compartir, tener paciencia y jugar con los amigos
 - el lanzador del parking de juguete es óptimo para turnarse y lanza los coches de uno en uno
+- Emite divertidos sonidos de carreras y frases para aprender a compartir, tener paciencia y jugar con los amigos
+- Juguete para niños y bebés a partir de 1 año
 
 [Visítala!!!](https://www.amazon.es/dp/B07PYL212L/?tag=tolees-21)
