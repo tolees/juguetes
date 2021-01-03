@@ -25,9 +25,9 @@ En este momento está [Clementoni- Puzzle 1000 Piezas Panorama Strange Things  3
 
 🔎:
 
-- Hecho en Italia
 - Un Puzzle de vívidos colores, y alta calidad con ilustraciones de Stranger Things, para poderlo montar y desmontar cuantas veces se desee
-- Favorece la concentración y las habilidades manuales
 - Puzzle adulto 1000 piezas panorámico, con láminas de alta calidad de impresión, y troquelado preciso; con imágenes de Stranger Things
+- Favorece la concentración y las habilidades manuales
+- Hecho en Italia
 
 [Aquí!!!](https://www.amazon.es/dp/B084HG7F8W/?tag=tolees-21)

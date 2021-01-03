@@ -26,8 +26,8 @@ Ahora mismo tienes [PLAYMOBIL 1.2.3 Camión+garaje  color carbón  70184    colo
 🔎:
 
 - EL compartimento puede inclinarse
-- Una figura con un vehículo y accesorios
 - Tejado con función de calidades
 - Desarrolla la imaginación y la creatividad
+- Una figura con un vehículo y accesorios
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMCBCDQ/?tag=tolees-21)

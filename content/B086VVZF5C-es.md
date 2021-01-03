@@ -25,10 +25,10 @@ Tienes [Fisher-Price - Gimnasio Musical Animalitos De La Selva  Manta De Juego B
 
 ℹ️:
 
-- ¡El león portátil lo tiene todo! Música de duración corta o larga con sonidos divertidos.
 - Mantita de juego suave y lavable a máquina.
+- Gimnasio infantil musical de la selva para bebés a partir del nacimiento
+- ¡El león portátil lo tiene todo! Música de duración corta o larga con sonidos divertidos.
 - 5 Juguetes Que Pueden Colocarse En Varias Posiciones En Los Arcos O En La Mantita
 - Los dos arcos acolchados son plegables y portátiles.
-- Gimnasio infantil musical de la selva para bebés a partir del nacimiento
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086VVZF5C/?tag=tolees-21)
