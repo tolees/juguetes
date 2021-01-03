@@ -27,7 +27,7 @@ Ahora mismo tienes [One Piece - Chopper x Trafalgar Law - Peluche Figura  20cm  
 
 - muy buena calidad.
 - 20cm de altura.
-- regalo perfecto para cada fan de "One Piece" y "Chopper"
 - producto oficial.
+- regalo perfecto para cada fan de "One Piece" y "Chopper"
 
 [Visítala!!!](https://www.amazon.es/dp/B07TJZYJCH/?tag=tolees-21)

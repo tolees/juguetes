@@ -25,9 +25,9 @@ Ahora mismo tienes [Furreal Friends - Lolo  Mi Loro Molon  Hasbro E0388EU4 ](htt
 
 🔎:
 
-- 3 originales maneras de cantar y bailar organiza un espectáculo con este pájaro talentoso – ¡y hasta podrás copiar algunos de sus movimientos de baile!
-- A este pájaro talentoso le encanta interpretar canta, baila, cuenta chistes y hace imitaciones
 - 3 modos de juego canta y baila con él, graba frases y escucha como las repite con su voz (¡o con musicalidad!), y ríete con sus divertidos chistes
 - Responde con más de 50 combinaciones de sonido y movimiento mueve la cabeza, el cuerpo, las alas, la cresta y el pico
+- 3 originales maneras de cantar y bailar organiza un espectáculo con este pájaro talentoso – ¡y hasta podrás copiar algunos de sus movimientos de baile!
+- A este pájaro talentoso le encanta interpretar canta, baila, cuenta chistes y hace imitaciones
 
 [Visítala!!!](https://www.amazon.es/dp/B07G9B4K7F/?tag=tolees-21)
