@@ -26,7 +26,7 @@ Está [Disney Princess - Disney Princess Brillo Real Snow White  Hasbro E4161ES2
 ℹ️:
 
 - Diseño atractivo
-- Disney Princess - Disney Princess Brillo Real Snow White (Hasbro E4161ES2)
 - Gran calidad
+- Disney Princess - Disney Princess Brillo Real Snow White (Hasbro E4161ES2)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FK1KPKN/?tag=tolees-21)
