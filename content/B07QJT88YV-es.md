@@ -25,8 +25,8 @@ En este momento está [Nancy - Espejo 1001 Peinados  Muñeca con Armario  Espejo
 
 🔎:
 
-- Muñeca llena de color y diversión, es el regalo óptimo para las niñas que adoran las muñecas y las tendencias
 - Nancy espejo 1001 Peinados, es el set de espejo-armario de peinados más completo de Nancy, lleno de accesorios, para hacerle infinidad de looks especiales y diferentes en su pelo
+- Muñeca llena de color y diversión, es el regalo óptimo para las niñas que adoran las muñecas y las tendencias
 - Recomendado para niñas a partir de 3 años óptimo para desarrollar su creatividad e imaginación
 - Incluye un espejo-armario, blanco en el que podrás guardar los más de 30 accesorios para hacer los peinados más bonitos a Nancy
 - Nancy de pelo rubio largo con una trenza larga, lleva un bonito vestido con falda de colores Incluye zapatos rosas
