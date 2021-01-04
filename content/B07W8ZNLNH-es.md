@@ -25,8 +25,8 @@ En este momento está [Star Wars E9 Figura Darth Vader  Hasbro E3810ES0 ](https:
 
 🔎:
 
-- PERSONAJE SIMBÓLICO DE STAR WARS: Esta figura de 12,5 cm de Darth Vader presenta un movimiento de ataque de sablazo de la Fuerza, más de diez puntos de articulación y un diseño inspirado en las películas originales de Star Wars
 - CON MOVIMIENTO DE ATAQUE DE SABLAZO DE LA FUERZA: Gira el torso de la figura de Darth Vader para girar el sable de luz en un emocionante movimiento de ataque de sablazo de la Fuerza inspirado en la trilogía original de películas de Star Wars
 - STAR WARS GALAXY OF ADVENTURES: Los fans de Star Wars pueden coleccionar todas las figuras de Star Wars Galaxy of Adventures, cada una se vende por separado, sujeto a disponibilidad
+- PERSONAJE SIMBÓLICO DE STAR WARS: Esta figura de 12,5 cm de Darth Vader presenta un movimiento de ataque de sablazo de la Fuerza, más de diez puntos de articulación y un diseño inspirado en las películas originales de Star Wars
 
 [Aquí!!!](https://www.amazon.es/dp/B07W8ZNLNH/?tag=tolees-21)
