@@ -26,7 +26,7 @@ En este momento está [Clementoni - Baby aprende  mis Primeros Cubos  55115.6 ](
 🔎:
 
 - Incluye 12 cubos de colores para apilar y crear divertidos personajes que cada vez son diferentes
-- Ideal para tu niño
 - También incluye una práctica base para jugar
+- Ideal para tu niño
 
 [Aquí!!!](https://www.amazon.es/dp/B01E2UZK3K/?tag=tolees-21)

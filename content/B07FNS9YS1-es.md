@@ -25,14 +25,14 @@ Está [LEGO Friends - Concurso de Saltos de Stephanie  juguete creativo de torne
 
 ℹ️:
 
-- Relájate en la tribuna mientras contemplas el espectáculo ecuestre de la pista.
-- Cuenta con 2 caballerizas, un área de lavado y acicalado, tribuna, podio de la herradura y obstáculos.
-- Incluye 2 minipersonajes: Stephanie y Zack; incluye también 2 figuras de caballos.
-- Las caballerizas miden más de 17 cm de altura, 24 cm de ancho y 10 cm de profundidad.
 - Los sets LEGO Friends fomentan el juego creativo y convierten la construcción en una actividad imaginativa y divertida.
-- Usa el área de acicalado para lavar y cuidar a los caballos de juguete.
-- Accesorios incluidos: cámara de televisión, prismáticos, horquilla, zanahorias, heno, 2 monturas y 2 bridas.
-- Ayuda a LEGO Friends Stephanie y Zack a avanzar a medio galope por el recorrido a lomos de las figuras de caballos de juguete infantiles saltando los obstáculos.
 - Pack de accesorios de acicalado incluidos: cepillos, esponja, pulverizador, escarapela, lazos y un peine.
+- Ayuda a LEGO Friends Stephanie y Zack a avanzar a medio galope por el recorrido a lomos de las figuras de caballos de juguete infantiles saltando los obstáculos.
+- Usa el área de acicalado para lavar y cuidar a los caballos de juguete.
+- Las caballerizas miden más de 17 cm de altura, 24 cm de ancho y 10 cm de profundidad.
+- Accesorios incluidos: cámara de televisión, prismáticos, horquilla, zanahorias, heno, 2 monturas y 2 bridas.
+- Incluye 2 minipersonajes: Stephanie y Zack; incluye también 2 figuras de caballos.
+- Cuenta con 2 caballerizas, un área de lavado y acicalado, tribuna, podio de la herradura y obstáculos.
+- Relájate en la tribuna mientras contemplas el espectáculo ecuestre de la pista.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNS9YS1/?tag=tolees-21)
