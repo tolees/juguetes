@@ -25,10 +25,10 @@ Está [Hori - Real Arcade Pro 4 Kai  PS4  PS3  PC ](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Licencia oficial de Sony
 - Compatible con PS4/PS3/PC
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Licencia oficial de Sony
 - Sin lag: conexión con cable de 3 m
 - Joystick y botones exclusivos Hayabusa
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00RZ7T8N6/?tag=tolees-21)

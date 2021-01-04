@@ -26,9 +26,9 @@ Ahora mismo tienes [Hasbro Gaming Quién es quién Extra  B2226175 ](https://www
 🔎:
 
 - Tiene dos formas de juego
-- Las luces y los sonidos lo hacen más divertido
-- Quién es Quién Electrónico, adivina el personaje de tu contrincante
 - Con 6 divertidas láminas de personajes con monstruos y superhéroes
 - Cuando lo adivines sonará la melodía ganadora
+- Quién es Quién Electrónico, adivina el personaje de tu contrincante
+- Las luces y los sonidos lo hacen más divertido
 
 [Visítala!!!](https://www.amazon.es/dp/B00STL6KY2/?tag=tolees-21)
