@@ -25,8 +25,8 @@ Está [Juguetes Famosa- Frozen 2 Magic Ice Steps  Proyector con Luz y Sonidos  p
 
 ℹ️:
 
-- Además de todo esto emite sonidos de cristales tal y como hace su heroína en la película
 - Ahora las niñas van a poder recrear los poderes de Elsa con el Magic Ice Steps
+- Además de todo esto emite sonidos de cristales tal y como hace su heroína en la película
 - Las niñas se podrán poner en su zapatilla este proyector mágico permitiéndoles a cada paso recubrir el suelo de copos de nieve
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PL1JNGD/?tag=tolees-21)
