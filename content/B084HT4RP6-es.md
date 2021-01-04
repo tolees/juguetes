@@ -25,9 +25,9 @@ Está [Chicco Musical Ball - Primeros Juguetes](https://www.amazon.es/dp/B084HT4
 
 ℹ️:
 
-- Agítalo para activar melodías divertidas y efectos de sonido.
+- Pelota suave & musical
 - Ayuda a desarrollar habilidades táctiles,coordinación manual yrastreo.
 - Se puede lavar a máquina extrayendo previamente las pilas.
-- Pelota suave & musical
+- Agítalo para activar melodías divertidas y efectos de sonido.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084HT4RP6/?tag=tolees-21)
