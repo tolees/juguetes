@@ -26,9 +26,9 @@ Tienes [Markwins POP GIRL Color Tin Rainbow X12 - Mini Lata Arcoiris de Maquilla
 ℹ️:
 
 - La lata contiene 12 brillos de labios y 2 esmaltes de uñas todo nuestro esmalte de uñas es con base de agua y se quita fácilmente, no recomendable para niñas menores de 3 años
-- Deja que tu imaginación te lleve donde tu corazón desee Podras hacerte todos los looks que quieres cada vez que sales a divertirte
-- Hacemos productos sostenibles, estamos comprometidos con reducir los residuos, no testamos los productos en animales y valoramos las acciones eco-responsables
 - Descubre nuestra nueva y exclusiva colección de juguetes, productos de maquillaje, accesorios y mucho más Nunca olvidará este cumpleaños
+- Deja que tu imaginación te lleve donde tu corazón desee Podras hacerte todos los looks que quieres cada vez que sales a divertirte
 - Puedes llevar esta lata en cualquier mochila o bolso con colores llamativos y un estilo muy fashion, dispone de múltiples tonalidades para los labios y esmaltes de uñas
+- Hacemos productos sostenibles, estamos comprometidos con reducir los residuos, no testamos los productos en animales y valoramos las acciones eco-responsables
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08KJX45QL/?tag=tolees-21)
