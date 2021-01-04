@@ -25,9 +25,9 @@ En este momento está [Monster Jam Die Cast 1:64 con figura modelos aleatorios  
 
 🔎:
 
-- Edad mínima recomendada: 3 años
-- Figura articulada de 12 cm
 - Conjunto que incluye un vehículo y una criatura monstruosa
+- Edad mínima recomendada: 3 años
 - Vehículo a la escala 1:64 inspirado en la película Monster Jam
+- Figura articulada de 12 cm
 
 [Aquí!!!](https://www.amazon.es/dp/B084ZLW4D3/?tag=tolees-21)
