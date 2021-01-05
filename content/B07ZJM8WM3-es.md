@@ -26,7 +26,7 @@ En este momento está [Spongebob SquarePants: Battle for Bikini Bottom Rehydrate
 🔎:
 
 - Juego base
-- Set de llaveros Tiki; pegatinas; 6 litografías; calcetines de Bob Esponja
 - Figura de Bob Esponja de 20 cm; figura de Patricio de 18 cm; figura de Sandy de 20 cm
+- Set de llaveros Tiki; pegatinas; 6 litografías; calcetines de Bob Esponja
 
 [Aquí!!!](https://www.amazon.es/dp/B07ZJM8WM3/?tag=tolees-21)
