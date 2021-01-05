@@ -26,8 +26,8 @@ Está [Sylvanian Families - 5448 - Coche Familiar](https://www.amazon.es/dp/B082
 ℹ️:
 
 - Recomendado para mayores de 3 años
-- Coche familiar con 5 plazas
 - Los asientos se pueden hacer camita o quitar y convertir en autocaravana el coche con el mobiliario de la casa de campo (se venden por separado)
 - Incluye carrito de bebé cuyo asiento puede convertirse en sillita del coche
+- Coche familiar con 5 plazas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082QW6NRC/?tag=tolees-21)
