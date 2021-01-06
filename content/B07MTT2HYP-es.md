@@ -25,11 +25,11 @@ Ahora mismo tienes [Monopoly - Juego de Tronos  versión Española  Hasbro E3278
 
 🔎:
 
-- Tema principal de Juego de tronos incluye un tarjetero del Trono de Hierro con un soporte musical que reproduce el tema principal de Juego de Tronos; pulsa el botón del soporte para reproducirlo
-- Diviértete con tu juego preferido monopoly con tus personajes favoritos de juegos de tronos
-- Peones de juego de las grandes casas; los 6 peones del juego de monopoly se inspiran en los escudos de armas de las grandes casas; ¿a quién vas a prometer lealtad?
-- Basado en la serie de televisión de éxito de hbo; los fans de juego de tronos podrán viajar a las legendarias tierras de westeros mientras compran, venden e intercambian lugares de los siete reinos en esta edición del juego de monopoly
 - Fortalezas y castillos; esta versión del juego de Monopoly incluye 32 fortalezas y 12 castillos en lugar de casas y hoteles, y las propiedades son lugares de la serie de TV
+- Diviértete con tu juego preferido monopoly con tus personajes favoritos de juegos de tronos
 - Dinero y dibujos de Juego de Tronos; incluye 42 dragones de oro y 53 ciervos de plata de monedas de cartón, y los dibujos del tablero de juego y de la caja se inspiran en la serie de TV de HBO, Juego de Tronos
+- Basado en la serie de televisión de éxito de hbo; los fans de juego de tronos podrán viajar a las legendarias tierras de westeros mientras compran, venden e intercambian lugares de los siete reinos en esta edición del juego de monopoly
+- Peones de juego de las grandes casas; los 6 peones del juego de monopoly se inspiran en los escudos de armas de las grandes casas; ¿a quién vas a prometer lealtad?
+- Tema principal de Juego de tronos incluye un tarjetero del Trono de Hierro con un soporte musical que reproduce el tema principal de Juego de Tronos; pulsa el botón del soporte para reproducirlo
 
 [Visítala!!!](https://www.amazon.es/dp/B07MTT2HYP/?tag=tolees-21)
