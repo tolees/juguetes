@@ -25,10 +25,10 @@ En este momento está [Pinypon- Pack 4 Queens  muñeca Figuras Reinas  Juguete  
 
 🔎:
 
-- Cada figura de reina tiene un fantástico peinado intercambiable con otras reinas y una falda mágica que rota 360º
-- Cada reina tiene su súper capa y su cetro mágico
 - Este juguete es ideal para niños entre 4-8 años; para el desarrollo de su imaginación y la motricidad fina y también favoreciendo el aprendizaje de vocabulario
 - Pack de 4 diferentes figuras de Queens de Pinypon para completar la colección de reinas
 - El pack incluye las 4 figuras Queens y muchos pequeños accesorios
+- Cada reina tiene su súper capa y su cetro mágico
+- Cada figura de reina tiene un fantástico peinado intercambiable con otras reinas y una falda mágica que rota 360º
 
 [Aquí!!!](https://www.amazon.es/dp/B088MS8CKJ/?tag=tolees-21)
