@@ -25,10 +25,10 @@ En este momento está [Hasbro - Mrs Mph  Hasbro  27658EZ3 ](https://www.amazon.e
 
 🔎:
 
-- Mezcla y combina las diferentes piezas para ponerle caras divertidas
 - La mayoría de las piezas son compatibles con otros Mr. Potato y Mrs. Potato (se venden por separado)
-- Personaliza tu propio potato
 - Crea looks divertidos
 - Piezas para mezclar y combinar
+- Mezcla y combina las diferentes piezas para ponerle caras divertidas
+- Personaliza tu propio potato
 
 [Aquí!!!](https://www.amazon.es/dp/B01MQRG4C8/?tag=tolees-21)
