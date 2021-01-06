@@ -25,9 +25,9 @@ Ahora mismo tienes [Monopoly - The Walking Dead [Importado de Inglaterra]](https
 
 🔎:
 
-- Lucille (Bat)
 - Katana
 - R.V.
+- Lucille (Bat)
 - Ricks Hat
 - Telephone
 
