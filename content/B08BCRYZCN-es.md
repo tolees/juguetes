@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monopoly The Child  Hasbro Gaming F20131 con un 24.31 % de descuento'
-date: 2021-01-05 18:46:57
+date: 2021-01-06 18:59:57
 image: 'https://m.media-amazon.com/images/I/514LhK+dlnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08BCRYZCN/?tag=tolees-21'
 descuento: '24.31'
-average: '24.284285714285712'
+average: '24.08625'
 ---
 
 En este momento está [Monopoly The Child  Hasbro Gaming F2013105 ](https://www.amazon.es/dp/B08BCRYZCN/?tag=tolees-21) a 22.7 EUR (original: 29.99 EUR) (24.31 %  de descuento) en el siguiente enlace!
