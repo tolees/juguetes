@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Faction Guerrilla Re-Mars-Tered - Xb al 62.49 % de descuento'
-date: 2020-11-22 23:40:35
+date: 2021-01-06 23:25:34
 image: 'https://m.media-amazon.com/images/I/61qPYZ-SR-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,22 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21'
 descuento: '62.49'
+average: '11.25'
 ---
 
-Está [Red Faction Guerrilla Re-Mars-Tered - Xbox One](https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21) con 62.49 de descuento por 11.25 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Red Faction Guerrilla Re-Mars-Tered - Xbox One](https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21) a 11.25 EUR (original: 29.99 EUR) (62.49 %  de descuento) en el siguiente enlace!
 
 [![Red Faction Guerrilla Re-Mars-Tered - Xb](https://m.media-amazon.com/images/I/61qPYZ-SR-L._SL200_.jpg)](https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Leverage fully-dynamic physics-based destruction to improvise on the fly
+- Fully destructible open-world environments swarming with EDF forces
+- Use destruction to your tactical advantage, setting ambushes or chain reaction explosions
+- Carve your path through an ever changing landscape as you improvise your combat tactics
+- Nowhere to hide when you put your guerrilla warfare skills in multiplayer combat modes
+- Utilize guerrilla tactics, improvised weaponry, and modified vehicles to lead insurgent attacks on EDF targets
+- Launch attacks based on your own gameplay style
+- Epic Sci-Fi Setting - Explore the huge, unforgiving Martian landscape
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21)
