@@ -25,8 +25,8 @@ Tienes [NICI Glubschis Peluche  45566 ](https://www.amazon.es/dp/B07Z9RMJWW/?tag
 
 🔎:
 
-- El batido de mangoes delicioooso, podría nadaren él
 - Diseño moderno y funcional
 - De la marca NICI
+- El batido de mangoes delicioooso, podría nadaren él
 
 [Comprar!!!](https://www.amazon.es/dp/B07Z9RMJWW/?tag=tolees-21)
