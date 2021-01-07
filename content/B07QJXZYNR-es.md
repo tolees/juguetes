@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Fortnite Mega  Hasbro E7065EU4  al 28.01 % de descuento'
-date: 2021-01-05 08:34:35
+date: 2021-01-07 09:47:14
 image: 'https://m.media-amazon.com/images/I/41-bWgEnkLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QJXZYNR/?tag=tolees-21'
 descuento: '28.01'
-average: '38.104000000000006'
+average: '37.98972972972974'
 ---
 
 Ahora mismo tienes [Nerf Fortnite Mega  Hasbro E7065EU4 ](https://www.amazon.es/dp/B07QJXZYNR/?tag=tolees-21) a 35.99 EUR (original: 49.99 EUR) (28.01 %  de descuento) en el siguiente enlace!
