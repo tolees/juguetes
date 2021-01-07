@@ -25,10 +25,10 @@ Ahora mismo tienes [HOMCOM Estantería Infantil Librería de Madera para Niños 
 
 🔎:
 
-- ✅ESTANTERÍA MULTIFUNCIONAL Y DECORATIVA: perfecta para cualquier estancia de tu casa. Ordena los juguetes y libros en el dormitorio infantil o exhibe adornos en el salón. ¡Tú decides! Además, su bonito diseño resulta muy decorativo y no pasará desapercibido.
-- ✅CAJÓN INCORPORADO: ideal como zona de almacenaje extra para guardar las cosas que te resultan menos estéticas o que quieres proteger del polvo.
 - ✅FÁCIL DE LIMPIAR: para que tu estantería esté siempre perfecta solo tienes que pasarle un paño húmedo o seco.
 - ✅MEDIDAS: 50x30x142 cm (LxANxAL). Soporta un máximo total de peso de 30 kg.
+- ✅CAJÓN INCORPORADO: ideal como zona de almacenaje extra para guardar las cosas que te resultan menos estéticas o que quieres proteger del polvo.
 - ✅PATAS ELEVADAS: ideales para barrer y fregar fácilmente el suelo bajo la estantería.
+- ✅ESTANTERÍA MULTIFUNCIONAL Y DECORATIVA: perfecta para cualquier estancia de tu casa. Ordena los juguetes y libros en el dormitorio infantil o exhibe adornos en el salón. ¡Tú decides! Además, su bonito diseño resulta muy decorativo y no pasará desapercibido.
 
 [Visítala!!!](https://www.amazon.es/dp/B08DD6V92V/?tag=tolees-21)
