@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Elite Surgefire  Hasbro E0011EU4  con un 15.16 % de descuento'
-date: 2021-01-06 11:25:20
+date: 2021-01-08 19:59:22
 image: 'https://m.media-amazon.com/images/I/51MG1k9Cq7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ En este momento está [Nerf Elite Surgefire  Hasbro E0011EU4 ](https://www.amazo
 
 🔎:
 
-- El lanzador lanza dardos Elite de Nerf a una distancia de hasta 27 metros
-- Lanza dardos rápidamente en ráfaga
-- El lanzador SurgeFire viene con 15 dardos Elite
-- El lanzador incluye lanzamientos con acción de bombeo
-- Lanza los dardos Elite de Nerf desde el tambor rotatorio de 15 dardos
+- Includes 15 elite darts
+- Pump-action blasting
+- Slam-fire darts fast
+- Fires darts up to 90 ft (27 m)
+- 15 dart rotating drum
 
 [Aquí!!!](https://www.amazon.es/dp/B077BJNRZ8/?tag=tolees-21)
