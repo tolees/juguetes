@@ -25,10 +25,10 @@ En este momento está [Nerf Elite Surgefire  Hasbro E0011EU4 ](https://www.amazo
 
 🔎:
 
-- Slam-fire darts fast
-- Includes 15 elite darts
 - 15 dart rotating drum
 - Pump-action blasting
+- Slam-fire darts fast
+- Includes 15 elite darts
 - Fires darts up to 90 ft (27 m)
 
 [Aquí!!!](https://www.amazon.es/dp/B077BJNRZ8/?tag=tolees-21)
