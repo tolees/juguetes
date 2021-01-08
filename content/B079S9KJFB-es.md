@@ -27,8 +27,8 @@ Tienes [Pinypon - Princesa Y Bruja  Incluye 2 Figuras y Accesorios  para niños 
 
 - Pack de 2 figuritas Pinypon: Princesa y Bruja
 - Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: ¡Mix is Max
+- Edad recomendada: a partir de 4 años
 - Incluye pequeños accesorios
 - Cada figura mide unos 7 cm aprox
-- Edad recomendada: a partir de 4 años
 
 [Comprar!!!](https://www.amazon.es/dp/B079S9KJFB/?tag=tolees-21)
