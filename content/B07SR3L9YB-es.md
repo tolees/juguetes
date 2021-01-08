@@ -25,8 +25,8 @@ Tienes [Pokemon Pack de 6 Figuras Detective Pikachu  BIZAK 63227602    color/mod
 
 🔎:
 
-- Conjunto de seis figuras de los personajes de la película Pokémon Detective Pikachu
 - Edad mínima recomendada: 4 años
+- Conjunto de seis figuras de los personajes de la película Pokémon Detective Pikachu
 - El set incluye: dos detectives Pikachu diferentes, Ludicolo, Psyduck, Mewtwo y Bulbasaur
 - Recrea la batalla de Pokémon con estas figuras
 
