@@ -25,10 +25,10 @@ Tienes [Hasbro Gaming- Hundir La Flota Shots Juego de Estrategia  Multicolor  E8
 
 ℹ️:
 
-- Cada jugador tiene 3 naves con 2 hoyos cada una, y un bote salvavidas amarillo; acierta los 7 lanzamientos para ganar o hunde el bote salvavidas amarillo con la bola roja para obtener una victoria inmediata
-- El juego battleshishots viene con un estuche plegable para guardar el juego de forma fácil y práctica
 - En battleshishots, un juego de estrategia, habilidad y un poco de suerte, ambos jugadores pueden hacer botar bolas al mismo tiempo; hunde el bote salvavidas de tu enemigo con la bola roja para ganar automáticamente
-- Aparece un giro diferente para battleship, el juego clásico del combate naval; bota o lanza bolas por encima del divisor y acierta en los acorazados para hundir y ganar
+- El juego battleshishots viene con un estuche plegable para guardar el juego de forma fácil y práctica
 - Este juego battleshishots pone en movimiento a los jugadores y los pone a botar o lanzar sus bolas a las naves de su enemigo
+- Aparece un giro diferente para battleship, el juego clásico del combate naval; bota o lanza bolas por encima del divisor y acierta en los acorazados para hundir y ganar
+- Cada jugador tiene 3 naves con 2 hoyos cada una, y un bote salvavidas amarillo; acierta los 7 lanzamientos para ganar o hunde el bote salvavidas amarillo con la bola roja para obtener una victoria inmediata
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085LZJFSL/?tag=tolees-21)
