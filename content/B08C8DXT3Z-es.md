@@ -28,7 +28,7 @@ En este momento está [Cola Cao Original: con Cacao Natural-2 7kg  Despertador P
 - 192 raciones en su formato ahorro de 2,7kg (contiene 2 bolsas en su interior)
 - Gratis el despertador lámpara playstation haz que cada despertar se convierta en un juego con el nuevo despertador playstation; las medidas del despertador son: 20cm de ancho x 7 cm de alto; funciona con 3 pilas AAA (no incluidas)
 - El colacao de siempre, eso tan tuyo; con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos; sus grumitos se deben al cacao natural y porque no contiene aditivos
-- Con cacao certificado utz; colacao apoya el cultivo sostenible de cacao; los agricultores certificados implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 - Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
+- Con cacao certificado utz; colacao apoya el cultivo sostenible de cacao; los agricultores certificados implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 
 [Aquí!!!](https://www.amazon.es/dp/B08C8DXT3Z/?tag=tolees-21)
