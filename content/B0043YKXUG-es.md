@@ -26,9 +26,9 @@ En este momento está [Mattel Games Uno extreme  juego de cartas  Mattel V9364  
 🔎:
 
 - sé el primero en quedarse sin cartas en la mano, cuando te quede una sola carta, no olvides gritar uno
+- el lanzador aleatorio de cartas ofrece una manera emocionante, rápida e imprevisible de jugar a uno
 - juego de mesa a partir de 7 años
 - incluye una carta exclusiva "pulsa y ataca"
-- el lanzador aleatorio de cartas ofrece una manera emocionante, rápida e imprevisible de jugar a uno
 - Juego de mesa de 2 a 10 jugadores pensado para que los jugadores se desafíen entre ellos individualmente o por equipos
 
 [Aquí!!!](https://www.amazon.es/dp/B0043YKXUG/?tag=tolees-21)
