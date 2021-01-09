@@ -26,8 +26,8 @@ Tienes [Soundmoovz-41239 SoundMoovz Set de 2 pulseras Muzic By Mooving para crea
 ℹ️:
 
 - Pulsera regulable, con luces led, color azul.
-- Pulseras para crear y componer sonidos y música a través de los movimientos de tu cuerpo
 - Disponible para iOS y Android
+- Pulseras para crear y componer sonidos y música a través de los movimientos de tu cuerpo
 - Sincroniza las pulseras con un Smartphone o Tablet a través del dispositivo bluetooth y empieza a bailar
 - Incluye más de 400 efectos de sonido diferentes, hasta 8 soundmoovz conectados a la vez al mismo Smartphone o Tablet
 
