@@ -25,9 +25,9 @@ Tienes [smart games- Orden en la Granja  Juego Educativo  Juguetes para niños  
 
 ℹ️:
 
-- Estimula la percepción espacial de los niños al 100%
+- Juego para niños con cuadernos de retos y soluciones
 - Solución de problemas, concentración, planificación y pensamiento flexible
 - Consiste en separar los animales en el tablero con las vallas y los comederos
-- Juego para niños con cuadernos de retos y soluciones
+- Estimula la percepción espacial de los niños al 100%
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SS5PVWN/?tag=tolees-21)
