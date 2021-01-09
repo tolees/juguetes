@@ -25,10 +25,10 @@ Está [Polly Pocket Cofre Donut Sorpresa  Muñeca con Accesorios  Mattel GDK82 ]
 
 ℹ️:
 
+- Luego, comienzan a descubrir los secretos de este maletín de muñecas: el televisor cambia de canal, el sofá se convierte en literas, la nevera se abre y la pieza giratoria del juego se mueve
+- ​El cofre tiene un tamaño ideal para llevarse la fiesta de pijamas a todas partes; incluye un Cofre donut sorpresa de Polly Pocket, muñecas en miniatura de Polly y Shani, y una moto de pizzería
 - El Cofre donut sorpresa de Polly Pocket, que tiene forma de donut de colores, se abre para descubrir la casa de Polly con las mini muñecas de Polly y Shani
 - Las pegatinas Polly Stick permiten pegar las muñecas a cualquier parte del cofre de muñecas; solo hay que colocar la pegatina de la hoja incluida y las mini muñecas se pegarán a la zona adhesiva
-- ​El cofre tiene un tamaño ideal para llevarse la fiesta de pijamas a todas partes; incluye un Cofre donut sorpresa de Polly Pocket, muñecas en miniatura de Polly y Shani, y una moto de pizzería
 - ¡La moto especial es perfecta para que las muñecas de colección vayan a la pizzería y pidan una pizza para la fiesta!
-- Luego, comienzan a descubrir los secretos de este maletín de muñecas: el televisor cambia de canal, el sofá se convierte en literas, la nevera se abre y la pieza giratoria del juego se mueve
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDT1JDM/?tag=tolees-21)

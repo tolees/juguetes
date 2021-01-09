@@ -25,10 +25,10 @@ En este momento está [Sylvanian Families- Animales Set utensilios para cocina  
 
 🔎:
 
-- Conectables y coleccionables
-- Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 - Figuras de 6 a 10 cm
 - Desarrolla el juego imaginativo y cotidiano de los niños
+- Conectables y coleccionables
+- Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
 
 [Aquí!!!](https://www.amazon.es/dp/B00IOMS3LY/?tag=tolees-21)
