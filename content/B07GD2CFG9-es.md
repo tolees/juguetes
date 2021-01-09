@@ -25,10 +25,10 @@ Tienes [Estuche Discreto Para Legend Of Zelda  Verde  Nintendo Switch ](https://
 
 🔎:
 
-- Diseño exclusivo con la silueta de Legend of Zelda
-- Con licencia oficial para Nintendo Switch
 - Almacenamiento para 5 tarjetas de juego y bolsillo de malla
 - Carcasa exterior blanda con cremallera que se adapta perfectamente a la consola en modo portátil
+- Con licencia oficial para Nintendo Switch
 - Forro interior de felpa con soporte de juego integrado para modo sobremesa
+- Diseño exclusivo con la silueta de Legend of Zelda
 
 [Comprar!!!](https://www.amazon.es/dp/B07GD2CFG9/?tag=tolees-21)
