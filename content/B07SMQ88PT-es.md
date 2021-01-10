@@ -27,8 +27,8 @@ En este momento está [Super Hero Adventures - Spider Man Jetquarters  Hasbro E4
 
 - Gran vehículo de juguete; la figura de acción de 12.5 cm de Spider-Man viene con un avión de juguete de gran tamaño y puedes meter la figura en la cabina, para imaginar emocionantes aventuras de rescates audaces y escapes atrevidos
 - Personaje simbólico de Marvel; niños y niñas pueden imaginar sus propias superpoderosas aventuras de alto vuelo con este divertido kit de figura y vehículo con temática de Spider-Man, inspirado en el universo Marvel
-- Gran diversión heroica para los fans de Marvel; hemos logrado comprimir el poder del universo Marvel en estos juguetes de Super Hero Adventures en 12.5 cm, un tamaño perfecto para niños a partir de los 3 años
-- Guarda vehículos; el Aracnojet de Spider-Man puede transportar otros vehículos de Marvel Super Hero Adventures, como la Moto arácnida del Kid Arachnid o la Moto de la Victoria de Capitán America (se venden por separado; sujeto a disponibilidad)
 - Juguetes de colección; colecciona, intercambia con amigos o regala otras figuras y vehículos de Playskool Heroes Marvel Super Hero Adventures (se venden por separado; sujeto a disponibilidad)
+- Guarda vehículos; el Aracnojet de Spider-Man puede transportar otros vehículos de Marvel Super Hero Adventures, como la Moto arácnida del Kid Arachnid o la Moto de la Victoria de Capitán America (se venden por separado; sujeto a disponibilidad)
+- Gran diversión heroica para los fans de Marvel; hemos logrado comprimir el poder del universo Marvel en estos juguetes de Super Hero Adventures en 12.5 cm, un tamaño perfecto para niños a partir de los 3 años
 
 [Aquí!!!](https://www.amazon.es/dp/B07SMQ88PT/?tag=tolees-21)

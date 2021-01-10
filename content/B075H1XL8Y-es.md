@@ -25,10 +25,10 @@ En este momento está [LEGO Architecture - Shanghái  Set de Construcción de Sk
 
 🔎:
 
-- The included booklet contains information about the designer, architecture and history of each structure, as well as historical facts about Shanghai and its architectural heritage (English language only Other languages available for download at LEGOcom/architecture Ask your parents before going online)
-- Includes a 4x32 tiled base with decorative Shanghai nameplate
-- Features iconic attractions Chenghuang Miao Temple, Longhua Temple and Pagoda, Radisson Blu Hotel, Bund area, Oriental Pearl, World Financial Centre and the Shanghai Tower
 - LEGO Architecture interpretation of Shanghai, China
+- Includes a 4x32 tiled base with decorative Shanghai nameplate
 - The Huangpu River is represented in the tiled baseplate
+- Features iconic attractions Chenghuang Miao Temple, Longhua Temple and Pagoda, Radisson Blu Hotel, Bund area, Oriental Pearl, World Financial Centre and the Shanghai Tower
+- The included booklet contains information about the designer, architecture and history of each structure, as well as historical facts about Shanghai and its architectural heritage (English language only Other languages available for download at LEGOcom/architecture Ask your parents before going online)
 
 [Aquí!!!](https://www.amazon.es/dp/B075H1XL8Y/?tag=tolees-21)
