@@ -26,7 +26,7 @@ Tienes [Devir- Fanhunter: El Juego de rol  FHBASICO ](https://www.amazon.es/dp/B
 ℹ️:
 
 - La puerta de entrada al vicio, a la subcultura y a las cartas del rol
-- Solo el humor puede salvarnos
 - Cinco años y dos semanas para hacer un remake y tiene erratas
+- Solo el humor puede salvarnos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08B845LYT/?tag=tolees-21)
