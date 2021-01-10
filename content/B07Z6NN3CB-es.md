@@ -25,10 +25,10 @@ En este momento está [SuperZings - Exclusivo Juego de la Oca  OCASPZ  con los P
 
 🔎:
 
-- Consigue llegar a la casilla central y gana la partida en este divertido juego de la oca en kaboom city
 - Los superzings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! todas las figuras superzings tienen su rival, busca las parejas rivales y forma tus superequipos; estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
-- Incluye un tablero de 40 x 40 cm, dónde las casillas son personajes superzings
-- Este juego clásico trasformado te proporcionará horas de diversión, entreteniendo a los más pequeños de la casa
+- Consigue llegar a la casilla central y gana la partida en este divertido juego de la oca en kaboom city
 - Contiene cuatro personajes superzings dorado o plateado; puedes utilizar las figuras de tus superzings favoritos como fichas
+- Este juego clásico trasformado te proporcionará horas de diversión, entreteniendo a los más pequeños de la casa
+- Incluye un tablero de 40 x 40 cm, dónde las casillas son personajes superzings
 
 [Aquí!!!](https://www.amazon.es/dp/B07Z6NN3CB/?tag=tolees-21)
