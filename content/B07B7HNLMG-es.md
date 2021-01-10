@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger GraviTrax Starter Set  Jueg al 16.69 % de descuento'
-date: 2021-01-07 12:59:50
+date: 2021-01-10 02:22:38
 image: 'https://m.media-amazon.com/images/I/51cVMSTkQHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21'
 descuento: '16.69'
-average: '48.12756302521008'
+average: '48.15818181818181'
 ---
 
 Ahora mismo tienes [Ravensburger GraviTrax Starter Set  Juego construcciones STEM  +100 componentes  Edad recomendada 8+  27597 ](https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21) a 49.98 EUR (original: 59.99 EUR) (16.69 %  de descuento) en el siguiente enlace!
@@ -25,12 +25,12 @@ Ahora mismo tienes [Ravensburger GraviTrax Starter Set  Juego construcciones STE
 
 🔎:
 
+- GraviTrax es un juego innovador y educativo que permite a los niños aprender conceptos de la gravedad, la cinética y el magnetismo a la vez que se divierten montando sus propias pistas y circuitos
+- Con el GraviTrax Starter Set se puede construir un emocionante mundo de pistas, ensamblando sus más 100 componentes, entre accesorios, rieles, módulos de altura verticales y tableros de base
+- GraviTrax Starter Set es compatible con todos los accesorios y sets de expansión GraviTrax
 - Los niños pueden inventar pistas o pueden encontrar inspiración en el GraviTrax práctico manual de proyectos
 - GraviTrax es la pista de canicas del futuro de Ravensburger, pensada para niños y niñas a partir de 8 años
-- Con el GraviTrax Starter Set se puede construir un emocionante mundo de pistas, ensamblando sus más 100 componentes, entre accesorios, rieles, módulos de altura verticales y tableros de base
-- GraviTrax es un juego innovador y educativo que permite a los niños aprender conceptos de la gravedad, la cinética y el magnetismo a la vez que se divierten montando sus propias pistas y circuitos
 - En el interior de la caja se incluye el accesorio GraviTrax Cañón Magnético
-- GraviTrax Starter Set es compatible con todos los accesorios y sets de expansión GraviTrax
 - Es un juego STEM de construcción, que garantiza horas de pura diversión en solitario, con los amigos o con la familia
 
 [Visítala!!!](https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21)
