@@ -25,10 +25,10 @@ Ahora mismo tienes [Hasbro Gaming Juego The Game Of Life  Juego De Mesa Para La 
 
 🔎:
 
-- Game of Life is full of surprises
-- Play with family and friends
-- You can adopt pets in this edition
-- Choose the path to a life of action, adventure and unexpected surprises
 - Start making your own choices as you walk through the different stages of life
+- Game of Life is full of surprises
+- You can adopt pets in this edition
+- Play with family and friends
+- Choose the path to a life of action, adventure and unexpected surprises
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD3QJ7H/?tag=tolees-21)
