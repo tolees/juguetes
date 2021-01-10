@@ -25,10 +25,10 @@ Está [Barbie Quiero Ser Entrenadora de Fútbol con niña morena  muñeca con ac
 
 ℹ️:
 
-- Conjunto de juego de barbie entrenadora de fútbol con muñeca de entrenadora rubia, estudiante y accesorios: balón de fútbol, carpeta, portería, conos, banquillo y más para niñas a partir de 3 años
-- Las figuras no pueden tenerse en pie por sí solas
-- El conjunto barbie quiero ser entrenadora de fútbol incluye un escenario de entrenamiento, una muñeca barbie entrenadora de fútbol vestida con un uniforme azul y una adorable figura de estudiante con un uniforme rosa
-- A los pequeños les encantará dirigir los entrenamientos y jugar partidos con ambas muñecas y los accesorios de fútbol
 - El conjunto barbie quiero ser entrenadora de fútbol también incluye un balón de fútbol, una portería, dos conos, un banquillo, una manzana, una botella de agua y un trofeo
+- Las figuras no pueden tenerse en pie por sí solas
+- A los pequeños les encantará dirigir los entrenamientos y jugar partidos con ambas muñecas y los accesorios de fútbol
+- Conjunto de juego de barbie entrenadora de fútbol con muñeca de entrenadora rubia, estudiante y accesorios: balón de fútbol, carpeta, portería, conos, banquillo y más para niñas a partir de 3 años
+- El conjunto barbie quiero ser entrenadora de fútbol incluye un escenario de entrenamiento, una muñeca barbie entrenadora de fútbol vestida con un uniforme azul y una adorable figura de estudiante con un uniforme rosa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XD6DXBW/?tag=tolees-21)
