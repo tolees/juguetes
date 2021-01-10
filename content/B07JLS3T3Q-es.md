@@ -25,9 +25,9 @@ En este momento está [PLAYMOBIL- Starter Pack Starterpack Batalla Medieval  Col
 
 🔎:
 
-- Incluye dos figuras y varios accesorios
-- Desarrolla la imaginación y la creatividad
-- Contiene 39 piezas
 - Con operativa ballesta
+- Desarrolla la imaginación y la creatividad
+- Incluye dos figuras y varios accesorios
+- Contiene 39 piezas
 
 [Aquí!!!](https://www.amazon.es/dp/B07JLS3T3Q/?tag=tolees-21)
