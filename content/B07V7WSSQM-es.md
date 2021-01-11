@@ -25,10 +25,10 @@ Ahora mismo tienes [Bakugan Figura Dragonoid Maximus  BIZAK 61926443 ](https://w
 
 🔎:
 
-- También puedes presionar el botón del núcleo de energía en cualquier momento para activar sus luces y sonidos
-- Figura transformable de Dragonoid Maximus de 20 cm de altura
-- Cuando el Dragonoid Maximus se abre, ruge a la vida con un núcleo de poder iluminado y sonidos de batalla feroces
-- Incluye: 1 Dragonoid Maximus, 1 Bakugan Titán Dragonoid exclusivo, 1 Tarjeta de personaje, 1 Tarjeta de habilidad y 2 Bakucores
 - Deja caer el exclusivo Titan Dragonoid (incluido) sobre Maximus Dragonoid para activar su transformación
+- Figura transformable de Dragonoid Maximus de 20 cm de altura
+- Incluye: 1 Dragonoid Maximus, 1 Bakugan Titán Dragonoid exclusivo, 1 Tarjeta de personaje, 1 Tarjeta de habilidad y 2 Bakucores
+- También puedes presionar el botón del núcleo de energía en cualquier momento para activar sus luces y sonidos
+- Cuando el Dragonoid Maximus se abre, ruge a la vida con un núcleo de poder iluminado y sonidos de batalla feroces
 
 [Visítala!!!](https://www.amazon.es/dp/B07V7WSSQM/?tag=tolees-21)

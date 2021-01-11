@@ -26,8 +26,8 @@ Ahora mismo tienes [Rizmo Snow  Mascota Interactiva  BIZAK 30692311 ](https://ww
 🔎:
 
 - Crece, aprende, recuerda, y responde con humor
+- Edad mínima recomendada: 6 años
 - Interactúan emocional y físicamente con el niño de forma divertida a través de la música, las canciones y el baile
 - Rizmo es el amigo que evoluciona de forma independiente y mágica
-- Edad mínima recomendada: 6 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07SV8G27Q/?tag=tolees-21)

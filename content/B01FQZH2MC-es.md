@@ -25,9 +25,9 @@ Ahora mismo tienes [Cool Maker Estudio de Alfarería  BIZAK 61920700 ](https://w
 
 🔎:
 
-- Seguro y limpio
-- Puedes crear hasta 3 proyectos
 - Diseña, crea y decora
+- Puedes crear hasta 3 proyectos
+- Seguro y limpio
 - Con un motor fuerte para un modelado fácil
 - Arcilla de secado al aire
 
