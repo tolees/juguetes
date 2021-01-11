@@ -25,10 +25,10 @@ Ahora mismo tienes [UTTORA Stunt Coche Teledirigido Coche RC Radiocontrol Tornad
 
 🔎:
 
-- REMOTE CONTROL STUNT CAR：Remote Control Truck for kids with 360 degree spinning front axle and big wheels for flipping fantastic fun, on road and off road. Cool toys and gadgets for 5 year old boys and girls and up
+- NEWEST UPGRADE INCLUDE: 1) SHORTER CHARGING TIME: Our supplied USB charger requires only 100-120 minutes of charge time . 2) LONGER PLAY TIME: Our car’s battery provides up to 25-30 minutes of play time, while others provide only about 7-10 minutes of play time.
+- Firm Structure：Made of high-quality materials, strong collision resistant. Adopted new materials, durable and strong shockproof car body, can reduce the damage of falling by accident and prolong the service time. The Mini RC Car has a lightweight heavy duty body that wont break even if it falls from the ceiling or wall.
 - COLORFUL FLASH LIGHT:With bright, colorful and flashing LED lights, streamlined body work design, huge tires. Ready-to-run. Car comes with Ni-Cd battery (included). Controller requires 2 x 1.5V ‘AA’ size batteries (not included).
 - MUSIC ON/OFF SWITCH FOR QUIETER PLAY: Our RC stunt Truck comes with a peaceful music on/off switch, while others are only deafening!
-- Firm Structure：Made of high-quality materials, strong collision resistant. Adopted new materials, durable and strong shockproof car body, can reduce the damage of falling by accident and prolong the service time. The Mini RC Car has a lightweight heavy duty body that wont break even if it falls from the ceiling or wall.
-- NEWEST UPGRADE INCLUDE: 1) SHORTER CHARGING TIME: Our supplied USB charger requires only 100-120 minutes of charge time . 2) LONGER PLAY TIME: Our car’s battery provides up to 25-30 minutes of play time, while others provide only about 7-10 minutes of play time.
+- REMOTE CONTROL STUNT CAR：Remote Control Truck for kids with 360 degree spinning front axle and big wheels for flipping fantastic fun, on road and off road. Cool toys and gadgets for 5 year old boys and girls and up
 
 [Visítala!!!](https://www.amazon.es/dp/B07HTKQHRK/?tag=tolees-21)

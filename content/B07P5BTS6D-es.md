@@ -25,10 +25,10 @@ Está [Condis 95 Piezas Bloques de Construcción Magnéticos para Niños  Juegos
 
 ℹ️:
 
-- Construcción Creativa: CONDIS enciende la chispa de la imaginación diseñando patrones 2D y construyendo estructuras 3D con formas geométricas de colores brillantes. Desde la clásica bola magnética hasta un monstruo, fomentará y desarrollará mentes creativas y habilidades para resolver problemas.
 - Durable, seguro y con un fuerte magnetismo: Hecho con plástico resistente y sin BPA, los imanes de plástico ABS son conformes con CE, AS TM y EN71. Todas las piezas están libres de bordes afilados y son seguras de usar. Los imanes 4600 Gauss de alta calidad facilitan la unión y separación de las piezas.
 - Fácil de limpiar y almacenar: CONDIS viene con una bolsa de viaje extra para una fácil limpieza y almacenamiento. Es perfecto para el hogar, escuela y entretenimientos de oficina.
-- Set Completo para más Diversión: El juego de 95 piezas incluye:20 x Triángulos, 24 x cuadrados, 2 x Hexágonos, 2 x Rectángulos, 1 x Noria, 26 x Tarjetas de alfabeto (no magnéticas), 16 x Tarjetas de números (no magnéticas), 2 x Ruedas,1 x Bolsa de Transporte,1x Folleto,creativo para un inicio rápido y una construcción interminable.
+- Construcción Creativa: CONDIS enciende la chispa de la imaginación diseñando patrones 2D y construyendo estructuras 3D con formas geométricas de colores brillantes. Desde la clásica bola magnética hasta un monstruo, fomentará y desarrollará mentes creativas y habilidades para resolver problemas.
 - Juegos en familia: Construyendo estructuras en familias y disfrutando de momentos memorables, se le puede enseñar a los niños a reconocer colores y formas en actividades recreativas.
+- Set Completo para más Diversión: El juego de 95 piezas incluye:20 x Triángulos, 24 x cuadrados, 2 x Hexágonos, 2 x Rectángulos, 1 x Noria, 26 x Tarjetas de alfabeto (no magnéticas), 16 x Tarjetas de números (no magnéticas), 2 x Ruedas,1 x Bolsa de Transporte,1x Folleto,creativo para un inicio rápido y una construcción interminable.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P5BTS6D/?tag=tolees-21)
