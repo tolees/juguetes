@@ -26,9 +26,9 @@ Está [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Galaxias
 ℹ️:
 
 - Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), ¡y organiza el asalto ferroviario definitivo a toda velocidad!
-- Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
-- Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
-- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 - Incluye 5 minifiguras lego: qi’ra, val, rio durant y 2 guardias de dryden
+- Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
+- Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
+- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
