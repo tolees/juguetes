@@ -27,8 +27,8 @@ Tienes [Samsonite Dream Rider Barbie - Maleta Infantil  51 cm  28 L  Rosa  Barbi
 
 - Su optima capacidad de almacenamiento y las cintas cruzadas interiores garantizan que hacer la maleta resulte fácil
 - Dream Rider Barbie es el  equipaje infantil de cabina óptimo, el sistema de cierre con 2 puntos de anclaje y el suave ribete de goma mantienen la maleta bien cerrada y segura
-- Dream Rider Barbie , Viaje de dos días: 51 x 22 x 37 cm - 28 L - 1,90 kg
 - Ruedas duraderas e integradas
+- Dream Rider Barbie , Viaje de dos días: 51 x 22 x 37 cm - 28 L - 1,90 kg
 - La bandolera extraíble para el hombro se puede convertir en una correa para tirar,asas fáciles de agarrar
 
 [Comprar!!!](https://www.amazon.es/dp/B07YYF59SC/?tag=tolees-21)
