@@ -25,10 +25,10 @@ Ahora mismo tienes [Chicos - Friendanimals - Sleepezzz Oso Perezoso  Peluche Int
 
 🔎:
 
-- Sleepezz es un oso perezoso muy dormilón,al poco rato de abrazarlo empieza a roncar; cuando el niño se duerme, se desconecta con función auto power-off tras 3 minutos
-- Funciona con 3 pilas LR03 (AAA); pilas incluidas
 - Si quieres seguir jugando con sleepezzz debes despertarlo tocándole las dos manos
 - Dos modos de juego: "Buenas noches" e interactivo
+- Funciona con 3 pilas LR03 (AAA); pilas incluidas
+- Sleepezz es un oso perezoso muy dormilón,al poco rato de abrazarlo empieza a roncar; cuando el niño se duerme, se desconecta con función auto power-off tras 3 minutos
 - Apto para niños a partir de 18 meses
 
 [Visítala!!!](https://www.amazon.es/dp/B07RWDRJ2C/?tag=tolees-21)
