@@ -25,8 +25,8 @@ Está [PLAYMOBIL Mansión Moderna Playset Completo  5574 ](https://www.amazon.es
 
 ℹ️:
 
-- Juguete educativo que fomenta el juego simbólico
 - Fomenta creatividad e imaginación
 - Con figuras y accesorios
+- Juguete educativo que fomenta el juego simbólico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00IF1WB1C/?tag=tolees-21)
