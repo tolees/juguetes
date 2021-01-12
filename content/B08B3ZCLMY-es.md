@@ -25,8 +25,8 @@ En este momento está [Bizak - Juegos Morrocotudo  64068001 ](https://www.amazon
 
 🔎:
 
-- Gira la ruleta y a dibujar y completa uno de los tres desafíos de Pigcasso (Dibujo Pigcasso, Laberinto loco y Rastreo)
 - Portátil y fácil de jugar en cualquier lado, todas las piezas se guardan en el propio juego
+- Gira la ruleta y a dibujar y completa uno de los tres desafíos de Pigcasso (Dibujo Pigcasso, Laberinto loco y Rastreo)
 - El ganador es el primer equipo en llegar a la meta
 - Date prisa y se creativo que tu oponente para alcanzar la cima
 - Juega en equipo o a contrarreloj, diversión para toda la familia
