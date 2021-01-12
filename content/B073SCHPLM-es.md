@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Worlds con un 50.24 % de descuento'
-date: 2021-01-10 08:22:12
+date: 2021-01-12 07:11:13
 image: 'https://m.media-amazon.com/images/I/51qygTNsTcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21'
 descuento: '50.24'
-average: '22.682142857142857'
+average: '22.496666666666666'
 ---
 
 En este momento está [Lego Worlds](https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21) a 19.9 EUR (original: 39.99 EUR) (50.24 %  de descuento) en el siguiente enlace!
