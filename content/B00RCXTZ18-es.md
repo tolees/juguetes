@@ -25,10 +25,10 @@ En este momento está [Fisher Price - Caballito de mar dulces sueños  color ros
 
 🔎:
 
-- Regalo original para recién nacido
-- Sonidos relajantes del mar
-- Emite luz y música durante cinco minutos
-- Ocho nanas y canciones clásicas
 - El niño activa una luz tenue, así como sonidos y música relajante con un suave abrazo
+- Emite luz y música durante cinco minutos
+- Sonidos relajantes del mar
+- Ocho nanas y canciones clásicas
+- Regalo original para recién nacido
 
 [Aquí!!!](https://www.amazon.es/dp/B00RCXTZ18/?tag=tolees-21)
