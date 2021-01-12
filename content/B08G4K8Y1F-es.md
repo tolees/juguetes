@@ -25,13 +25,13 @@ Está [LEGO 42118 Technic Monster Jam Grave Digger  Modelo 2 en 1  Camión de Ju
 
 ℹ️:
 
-- El camión Monster Jam de juguete mide aproximadamente 11 cm de altura, 24 cm de longitud (con la bandera) y 11 cm de anchura
-- El universo LEGO Technic ofrece modelos para construir avanzados para jóvenes fans de LEGO dispuestos a afrontar su próximo desafío creativo
 - Doblemente divertido El camión monstruo de juguete se convierte en un buggy todoterreno para que los niños puedan disfrutar de 2 desafíos de construcción y toneladas de acción jugando a pilotar vehículos
-- Anima a tu fan de los camiones monstruo a recrear sus acrobacias favoritas con el kit de construcción LEGO Technic Monster Jam Grave Digger (42118) Descubrirá detalles de gran realismo, como enormes neumáticos, motivos gráficos y mucho más
+- Incluye instrucciones para construir la maqueta del Grave Digger También encontrarás la experiencia digital Instructions PLUS en la app gratuita Instrucciones de Montaje LEGO
 - Cuenta con s detalles, como una bandera que se dobla y se mueve hacia arriba y hacia abajo, así como con faros delanteros rojos, igual que el camión Grave Digger de verdad
 - Buscas los mejores regalos para peques que adoran los camiones monstruo de juguete? Este set es óptimo para niños a partir de 7 años con pasión por las competiciones de exhibición de Monster Jam o los vehículos de juguete más alucinantes
+- Anima a tu fan de los camiones monstruo a recrear sus acrobacias favoritas con el kit de construcción LEGO Technic Monster Jam Grave Digger (42118) Descubrirá detalles de gran realismo, como enormes neumáticos, motivos gráficos y mucho más
+- El universo LEGO Technic ofrece modelos para construir avanzados para jóvenes fans de LEGO dispuestos a afrontar su próximo desafío creativo
+- El camión Monster Jam de juguete mide aproximadamente 11 cm de altura, 24 cm de longitud (con la bandera) y 11 cm de anchura
 - Con el motor de carga manual, el camión monstruo y el buggy todoterreno alcanzan gran velocidad fácilmente, como los de verdad
-- Incluye instrucciones para construir la maqueta del Grave Digger También encontrarás la experiencia digital Instructions PLUS en la app gratuita Instrucciones de Montaje LEGO
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08G4K8Y1F/?tag=tolees-21)
