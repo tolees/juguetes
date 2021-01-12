@@ -25,9 +25,9 @@ Ahora mismo tienes [Disney Princess- Cinderella Disney Muñeca  Color azul celes
 
 🔎:
 
-- Edad mínima recomendada: 3 años
 - Cenicienta con su vestido de princesa
-- Puedes vestir y desvestir Cenicienta con su vestido de princesa
 - Cinco puntos de articulación
+- Puedes vestir y desvestir Cenicienta con su vestido de princesa
+- Edad mínima recomendada: 3 años
 
 [Visítala!!!](https://www.amazon.es/dp/B017HASHKK/?tag=tolees-21)
