@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.34 % en Hori - Multicargador Joy-Con  Nintendo S'
-date: 2021-01-11 17:47:20
+date: 2021-01-13 18:28:50
 image: 'https://m.media-amazon.com/images/I/41ffvUZyNuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Tienes [Hori - Multicargador Joy-Con  Nintendo Switch ](https://www.amazon.es/dp
 ℹ️:
 
 - Indicadores LED de estado de carga
+- Licencia oficial de Nintendo
 - Sistema de colocación sencillo tipo riel
 - Carga hasta 4 Joy-Con a la vez
 - Base ancha y estable con botones de goma
-- Licencia oficial de Nintendo
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01MZAUN5E/?tag=tolees-21)
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MZAUN5E/?tag=tolees-21)
