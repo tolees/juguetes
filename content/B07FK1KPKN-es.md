@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Princess - Disney Princess Brillo al 23.09 % de descuento'
-date: 2021-01-05 12:29:08
+date: 2021-01-13 16:03:00
 image: 'https://m.media-amazon.com/images/I/41KzYczXddL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FK1KPKN/?tag=tolees-21'
 descuento: '23.09'
-average: '11.235'
+average: '11.0275'
 ---
 
 Está [Disney Princess - Disney Princess Brillo Real Snow White  Hasbro E4161ES2    color/modelo surtido](https://www.amazon.es/dp/B07FK1KPKN/?tag=tolees-21) con 23.09 de descuento por 9.99 EUR (original: 12.99 EUR) en el siguiente enlace!
@@ -29,4 +29,4 @@ Está [Disney Princess - Disney Princess Brillo Real Snow White  Hasbro E4161ES2
 - Diseño atractivo
 - Disney Princess - Disney Princess Brillo Real Snow White (Hasbro E4161ES2)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FK1KPKN/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FK1KPKN/?tag=tolees-21)
