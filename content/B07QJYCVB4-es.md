@@ -26,9 +26,9 @@ Tienes [Monopoly - Voice Banking  Hasbro E4816SO0 ](https://www.amazon.es/dp/B07
 🔎:
 
 - Forget cash and cards; mrs electronic banking unit; monopoly manages finances, whether its buying property, paying or collecting rent, checking balances and much more
-- Voice recognition comes to monopoly; in this electronic board game, mr; monopoly is the banker and manages the money of players with his hat
 - Talk, that mr; monopoly listens to you; press the button and verbalize an order such as «pay marvin gardens»; mr; monopoly will answer and transfer the money to your opponents account
 - Have fun as a family; the game is for 2 to 4 players (over 8 years old) and offers a great plan for a night of family games
 - Play faster; players land on a must exchange box and tell mr; monopoly which properties they want to exchange; build faster and get houses and hotels before anyone else
+- Voice recognition comes to monopoly; in this electronic board game, mr; monopoly is the banker and manages the money of players with his hat
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QJYCVB4/?tag=tolees-21)

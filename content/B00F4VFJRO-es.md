@@ -25,9 +25,9 @@ Tienes [Peppa Pig 05033 - Set escuela](https://www.amazon.es/dp/B00F4VFJRO/?tag=
 
 🔎:
 
-- No necesita pilas
+- Juego con 5 figurinas
 - No es adecuado para niños menores de 3 años
 - También incluye 2 escritorios, 2 bancos y 1 pizarra
-- Juego con 5 figurinas
+- No necesita pilas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00F4VFJRO/?tag=tolees-21)
