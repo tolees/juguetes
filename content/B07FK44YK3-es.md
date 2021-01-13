@@ -25,10 +25,10 @@ En este momento está [Disney Princess - Disney Princess Brillo Real Bella  Hasb
 
 🔎:
 
-- Diadema y sus zapatos inspirados en la película
 - Muñeca con falda y corsé brillantes
-- Regalo óptimo de cumpleaños o celebraciones
-- Adecuada para empezar una colección de muñecas
 - Características fieles al personaje
+- Adecuada para empezar una colección de muñecas
+- Diadema y sus zapatos inspirados en la película
+- Regalo óptimo de cumpleaños o celebraciones
 
 [Aquí!!!](https://www.amazon.es/dp/B07FK44YK3/?tag=tolees-21)
