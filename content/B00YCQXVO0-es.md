@@ -25,13 +25,13 @@ Tienes [VTech - Maxi Tren 5 en 1  Juguete Evolutivo con Cinco Modos de Juego  Pa
 
 ℹ️:
 
-- Enseña los números del 0 al 9 y los animales a través de los botones de colores
-- Versión española
+- Los 14 bloques de letras son reconocidos por el tren cuando el bebé los introduce en el panel para encontrar las 27 letras y palabras asociadas
 - Incluye un libro interactivo de 5 páginas con elementos luminosos que reproduce canciones, melodías, sonidos e historias
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas o pilas recargables con carga completa de alta calidad para un mejor rendimiento
 - Enseña figuras, colores, letras, palabras, animales y números a través de sus 10 actividades educativas
 - Tren de juguete educativo 5 en 1: panel de actividades, apilar bloques, andador, correpasillos y carrito
-- Los 14 bloques de letras son reconocidos por el tren cuando el bebé los introduce en el panel para encontrar las 27 letras y palabras asociadas
 - Detector de movimiento que activa música y sonidos cuando el bebé está subido en el tren
+- Versión española
+- Enseña los números del 0 al 9 y los animales a través de los botones de colores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00YCQXVO0/?tag=tolees-21)
