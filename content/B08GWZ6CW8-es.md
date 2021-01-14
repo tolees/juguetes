@@ -25,10 +25,10 @@ En este momento está [StillCool Nerf N-Strike 100 pcs 7.2cm Espuma Suave Dardos
 
 🔎:
 
-- Los dardos compatibles para cualquier dispositivo de Blaster Nerf N-Strike Elite Stryfe Rapidstrike sacudida Rampage Retaliator Hyperfire Strongarm Tri-Strike Rough Cut Rhino Fuego Blaster CrossBolt ECS10 Módulo CS18 98 695 98 696 A8494 A0707 A0709 A0710 A0711 A3844 A0712 A0713 A0715 A0714 CS-35 H34069 A4492 B1539 B7661
+- Recarga de espuma Dardos Para Nerf N-Strike Elite Mega
 - Los dardos son compatibles para cualquier dispositivo N-Strike
+- Los dardos compatibles para cualquier dispositivo de Blaster Nerf N-Strike Elite Stryfe Rapidstrike sacudida Rampage Retaliator Hyperfire Strongarm Tri-Strike Rough Cut Rhino Fuego Blaster CrossBolt ECS10 Módulo CS18 98 695 98 696 A8494 A0707 A0709 A0710 A0711 A3844 A0712 A0713 A0715 A0714 CS-35 H34069 A4492 B1539 B7661
 - Tamaño: Dardos - 7.2x 1.2 cm. Color: azul
 - Paquete - 100 espuma PC dardos para Blaster Nerf N-strike Elite serie pistola de juguete de los niños están incluidos en el paquete.
-- Recarga de espuma Dardos Para Nerf N-Strike Elite Mega
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GWZ6CW8/?tag=tolees-21)

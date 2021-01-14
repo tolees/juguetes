@@ -25,9 +25,9 @@ En este momento está [Mattel Games 52562 - Juegos y Juguetes de Habilidad/Activ
 
 🔎:
 
-- Número de jugadores: 2 o más
 - Edad mínima: 5 años
-- Valores educativos: intercambiar y compartir.
+- Número de jugadores: 2 o más
 - Descripción del producto: Retire las tiras de color indicado por los dados, pero ten cuidado con los monos! Debido a que es el jugador que ha disminuido lo más mínimo, gana el juego. Entonces, ¿quién será el más capaz
+- Valores educativos: intercambiar y compartir.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000NJWLC8/?tag=tolees-21)
