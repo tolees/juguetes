@@ -25,8 +25,8 @@ Está [Paladone- Harry Potter Juego de Cartas  PP4258HP ](https://www.amazon.es/
 
 ℹ️:
 
-- Juego de cartas con temática de Harry Potter
 - Inspirado en las casas de Hogwarts
 - Producto oficial de Wizarding World
+- Juego de cartas con temática de Harry Potter
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078W7R6KK/?tag=tolees-21)
