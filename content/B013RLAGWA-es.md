@@ -25,10 +25,10 @@ En este momento está [Perplexus Beast Original Juego Habilidad  Bizak 61924175 
 
 🔎:
 
-- Trabaja con la gravedad, los cambios de dirección para completar el recorrido
 - Lleva la bola por la pista numerada, a través de obstáculos difíciles sin que la bola salga de la pista
+- Laberinto con 100 obstáculos; quién los superará, pon a prueba tus habilidades
+- Trabaja con la gravedad, los cambios de dirección para completar el recorrido
 - Fantástico para ejercitar las habilidades motoras, destreza y mejorar la coordinación ojo-mano
 - Si la bolas sale de la pitas, debes volves a la casilla de inicio e intentarlo de nuevo
-- Laberinto con 100 obstáculos; quién los superará, pon a prueba tus habilidades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013RLAGWA/?tag=tolees-21)
