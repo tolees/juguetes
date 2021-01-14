@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paladone- Harry Potter Juego de Cartas   al 28.23 % de descuento'
-date: 2021-01-12 13:20:10
+date: 2021-01-14 08:18:51
 image: 'https://m.media-amazon.com/images/I/41uigJNmG3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Paladone- Harry Potter Juego de Cartas  PP4258HP ](https://www.amazon.es/
 
 ℹ️:
 
-- Inspirado en las casas de Hogwarts
 - Juego de cartas con temática de Harry Potter
 - Producto oficial de Wizarding World
+- Inspirado en las casas de Hogwarts
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078W7R6KK/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B078W7R6KK/?tag=tolees-21)
