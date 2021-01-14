@@ -25,9 +25,9 @@ Está [Edge Entertainment Monstruo Final - Juego de Cartas EDGBOS01](https://www
 
 ℹ️:
 
-- Monstruo Final es un juego de cartas para 2-4 jugadores que te desafía a convertirte en un villano de videojuego y construir mortíferas mazmorras de desplazamiento horizontal
+- Monstruo Final es un juego de cartas inspirado en los videojuegos clásicos que te reta a convertirte en un villano, construir una mazmorra, atraer a los aventureros… ¡y destruirlos a todos!
 - Producto en castellano
 - Los jugadores compiten para ver quién puede atraer y destruir el mayor número de aventureros
-- Monstruo Final es un juego de cartas inspirado en los videojuegos clásicos que te reta a convertirte en un villano, construir una mazmorra, atraer a los aventureros… ¡y destruirlos a todos!
+- Monstruo Final es un juego de cartas para 2-4 jugadores que te desafía a convertirte en un villano de videojuego y construir mortíferas mazmorras de desplazamiento horizontal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IR7IE1Y/?tag=tolees-21)
