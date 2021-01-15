@@ -25,10 +25,10 @@ En este momento está [Superzings Quartett 4 en 1  ASS Altenburger 22510000    c
 
 🔎:
 
-- Fabricado en Alemania
-- Juego de quarteto con los héroes y villanos de SuperZings de Kaboom CIty
 - De 2 a 4 jugadores, a partir de 4 años
 - El juego de cartas definitivo en el que puedes entregarte duelo con tus amigos en cuatro juegos de cartas diferentes: QUARTET, MAU MAU, SCHNIPP SCHNAPP y MEMO
 - Contenido: 32 cartas, 4 cartas de reglas del juego
+- Fabricado en Alemania
+- Juego de quarteto con los héroes y villanos de SuperZings de Kaboom CIty
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084HD8CYY/?tag=tolees-21)
