@@ -27,7 +27,7 @@ En este momento está [Sylvanian Families - 5094 - Set Enfermería Country](http
 
 - Set included a nurse and accessories
 - Included are over 35 pieces
-- Stimulating imaginative role-play in children
 - Suitable for ages 3 years to 10 years
+- Stimulating imaginative role-play in children
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IWCP3IW/?tag=tolees-21)
