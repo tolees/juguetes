@@ -25,13 +25,13 @@ Ahora mismo tienes [LEGO La LEGO Película 2 - Se presenta la Reina Soyloque Qui
 
 🔎:
 
-- Banarnar mide más de 3 cm de altura
-- Accesorios incluidos: 2 juegos de cáliz y bandeja dorados de Susan y esposas para la minifigura la LEGO PELÍCULA 2 de Lucy
-- Recrea las escenas de la LEGO PELÍCULA 2 con este creativo set de construcción
-- El caballo con plataforma de la reina loque quiera mide más de 11 cm de altura, 9 cm de longitud y 6 cm de ancho
 - Incluye 5 personajes de la LEGO PELÍCULA 2: modelos para construir de la Reina loque Quiera en forma de caballo y Banarnar, minipersonajes de Dulce Caos y Susan (novedades en enero de 2019), y una minifigura de Lucy (novedad en enero de 2019)
+- El caballo con plataforma de la reina loque quiera mide más de 11 cm de altura, 9 cm de longitud y 6 cm de ancho
 - Reconstruye el caballo para transformar a la metamorfósica reina loque quiera en un montón de ladrillos con 4 expresiones faciales intercambiables
-- Incluye el arma de Dulce Caos
+- Recrea las escenas de la LEGO PELÍCULA 2 con este creativo set de construcción
+- Banarnar mide más de 3 cm de altura
 - Este divertido juguete para construir cuenta con una plataforma giratoria para la reina loque quiera en forma de caballo
+- Incluye el arma de Dulce Caos
+- Accesorios incluidos: 2 juegos de cáliz y bandeja dorados de Susan y esposas para la minifigura la LEGO PELÍCULA 2 de Lucy
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FNS6P77/?tag=tolees-21)
