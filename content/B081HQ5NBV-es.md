@@ -25,8 +25,8 @@ Tienes [Playmobil - SCOOBY-DOO Aventura en el Salvaje Oeste Juguete  Color Multi
 
 ℹ️:
 
-- Calidad garantizada por la marca Playmobil
 - Diligencia tirada por dos caballos, incluye a Scooby y a dos figuras
+- Calidad garantizada por la marca Playmobil
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 - Diseño funcional
 
