@@ -25,10 +25,10 @@ En este momento está [Barbie Muñeca vamos al supermercado  accesorios muñeca 
 
 🔎:
 
-- Regalo óptimo para niñas y niños de más de 3 años
 - Las niñas y los niños, podrán elegir lo que más les apetezca del mostrador triple, que tiene baldas para los alimentos en lata, un recipiente para las hortalizas y una balanza que se mueve para pesarlo todo
-- Barbie vamos al óptimamercado incluye veinte alimentos, como leche, huevos, manzanas, yogur, miel y flores
-- Las niñas podrán llevar a barbie a hacer la compra con este óptimamercado de juguete que incluye todos los ingredientes para divertirse: barbie dispone de caja registradora y cinta transportadora que funciona, un mostrador, un carrito con ruedas móviles y una serie de accesorios de alimentación en los estantes
 - Cuando la compra esté en la cinta transportadora de la caja, se puede deslizar la manivela para hacerla avanzar hasta que caiga directamente en la bolsa que cuelga de los ganchos del final
+- Las niñas podrán llevar a barbie a hacer la compra con este óptimamercado de juguete que incluye todos los ingredientes para divertirse: barbie dispone de caja registradora y cinta transportadora que funciona, un mostrador, un carrito con ruedas móviles y una serie de accesorios de alimentación en los estantes
+- Regalo óptimo para niñas y niños de más de 3 años
+- Barbie vamos al óptimamercado incluye veinte alimentos, como leche, huevos, manzanas, yogur, miel y flores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079KH8YD3/?tag=tolees-21)
