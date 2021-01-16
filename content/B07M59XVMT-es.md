@@ -25,9 +25,9 @@ Tienes [Disney Princess - Ariel Música  Hasbro E4638ES0 ](https://www.amazon.es
 
 🔎:
 
-- Preciosa muñeca con cola brillante
-- Canta "parte de tu mundo"
 - El corpiño se ilumina cuando canta
+- Preciosa muñeca con cola brillante
 - Imagínate un sinfín de aventuras musicales con esta esperanzada princesa de disney
+- Canta "parte de tu mundo"
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M59XVMT/?tag=tolees-21)
