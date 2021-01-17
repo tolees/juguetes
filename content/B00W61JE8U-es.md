@@ -25,10 +25,10 @@ En este momento está [KidKraft - Set de juguete de preparación de smoothie con
 
 🔎:
 
-- Haz que el juego sea divertido
 - Complemento delicioso para cualquier espacio de juego
 - Nunca es demasiado pronto para aprender sobre nutrición
 - No requiere montaje
+- Haz que el juego sea divertido
 - Fabricado en madera robusta y plástico moldeado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00W61JE8U/?tag=tolees-21)
