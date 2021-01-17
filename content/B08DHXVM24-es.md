@@ -26,8 +26,8 @@ Tienes [Auriculares gamer PS4 EKSA E900 Gaming Switch auriculares Gamer PC auric
 🔎:
 
 - Servicio después de la venta: Dado que el micrófono debe ser ajustado de forma diferente en diferentes dispositivos, si su micrófono no puede ser utilizado, por favor póngase en contacto con nosotros directamente a través del pedido de Amazon y le ayudaremos a resolver su problema tan pronto como recibamos su mensaje.
-- Compatibilidad fuerte: los auriculares gaming E900 son compatibles con PS4, Xbox One S/X, Switch, PC, ordenador portátil, smartphone, tablet y todos los dispositivos que tengan un conector jack de 3,5 mm. Atención: no es compatible con Xbox 360. Las versiones más antiguas de Xbox One requieren un adaptador de Microsoft adicional (no incluido).
 - Calidad sonora: los auriculares para juegos E900 están equipados con un altavoz de 50 mm, que puede ayudarte a escuchar claramente los bajos pasos del enemigo en el juego y disfrutar de una buena calidad de sonido mientras escuchas música.
+- Compatibilidad fuerte: los auriculares gaming E900 son compatibles con PS4, Xbox One S/X, Switch, PC, ordenador portátil, smartphone, tablet y todos los dispositivos que tengan un conector jack de 3,5 mm. Atención: no es compatible con Xbox 360. Las versiones más antiguas de Xbox One requieren un adaptador de Microsoft adicional (no incluido).
 - Micrófono antirruido: nuestros ingenieros han equipado estos auriculares de juego con un micrófono de alta sensibilidad de reducción del ruido, puede reducir eficazmente los molestos ruidos de fondo y captar mejor el sonido. Con el control puedes ajustar fácilmente el volumen y cortar el micrófono si es necesario.
 - Diseño cómodo: nuestros auriculares de juego adoptan la estructura de diseño más cómoda. Puedes ajustar la diadema de acuerdo a la forma de tu cabeza. El cojín suave es lo suficientemente cómodo para llevarlo todo el día sin sentirse cansado.
 
