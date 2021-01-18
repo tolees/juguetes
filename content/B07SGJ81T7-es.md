@@ -25,10 +25,10 @@ Ahora mismo tienes [Pinypon Action- Set de 5 Figuras Series 2 con Accesorios par
 
 🔎:
 
-- Cada figura de pinypon action mide unos 8cm aprox y se compone de 4 diferentes piezas; el pelo; la cabeza; el cuerpo y las piernas
-- Pack de 5 diferentes figuras de pinypon action: policía, socorrista, bombero de la ume, detective y preso
 - Las figuras de pinypon action; además de ser muy divertidas; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendadas a partir de 4 años
-- Todas las piezas de las figuras son combinables- con unas pocas figuras se puede hacer un montón de diferentes mezclas y personajes
 - El pack incluye 5 figuras y muchos pequeños accesorios
+- Pack de 5 diferentes figuras de pinypon action: policía, socorrista, bombero de la ume, detective y preso
+- Todas las piezas de las figuras son combinables- con unas pocas figuras se puede hacer un montón de diferentes mezclas y personajes
+- Cada figura de pinypon action mide unos 8cm aprox y se compone de 4 diferentes piezas; el pelo; la cabeza; el cuerpo y las piernas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SGJ81T7/?tag=tolees-21)

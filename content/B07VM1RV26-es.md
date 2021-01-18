@@ -25,10 +25,10 @@ Está [Star Wars- Black Series Hyperreal Luke Skywalker  Hasbro E6611EU4 ](https
 
 ℹ️:
 
-- Diseño inspirado en la película de Star Wars; inspirada en el Jedi en entrenamiento en Star Wars: El Imperio contraataca, esta figura de Luke Skywalker es adecuada para la exhibición en cualquier colección de Star Wars
-- Figura de 20 cm de Luke Skywalker; esta figura de Luke Skywalker tiene muchos detalles que reflejan las características físicas del imponente personaje que se inspira en la película Star Wars: El Imperio contraataca
 - Articulación y detalles realistas; los detalles realistas, la estructura interior de esqueleto, las articulaciones sin costuras y los 28 puntos de hiperarticulación permiten colocar a la figura en posturas casi realistas y crear escenas para exhibirla en las colecciones de los fans
-- Accesorios inspirados en la película de Star Wars; incluye varias manos, una base para la figura y varios accesorios para la exhibición en cualquier colección de Star Wars
 - Piezas de colección de Star Wars; inspiradas en las películas y la ficción de Star Wars, las figuras de acción y los vehículos de Star Wars The Black Series realzan cualquier colección o exhibición de Star Wars; se venden por separado, sujeto a disponibilidad
+- Accesorios inspirados en la película de Star Wars; incluye varias manos, una base para la figura y varios accesorios para la exhibición en cualquier colección de Star Wars
+- Figura de 20 cm de Luke Skywalker; esta figura de Luke Skywalker tiene muchos detalles que reflejan las características físicas del imponente personaje que se inspira en la película Star Wars: El Imperio contraataca
+- Diseño inspirado en la película de Star Wars; inspirada en el Jedi en entrenamiento en Star Wars: El Imperio contraataca, esta figura de Luke Skywalker es adecuada para la exhibición en cualquier colección de Star Wars
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VM1RV26/?tag=tolees-21)
