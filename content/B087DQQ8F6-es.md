@@ -25,11 +25,11 @@ Está [VTech- TTB Taller puesta a punto  3480-164867    color/modelo surtido](ht
 
 ℹ️:
 
-- VERSIÓN ESPAÑOLA
-- Los tramos de pistas que contiene se pueden unir a otros juguetes de la gama Tut Tut Bólidos,es compatible con toda la colección Tut Tut Bólidos.Dispone de 6 melodías y 3 canciones que contiene el vehículo además de sonidos y frases.
-- Agudiza nuevas habilidades, ingenio , creatividad y diversión, aprendiendo sin salir de casa.
 - Taller puesta a punto con vehículo exclusivo Diego Hot Rod. Incluye 5 sensores mágicos que activan divertidas frases, sonidos y música al deslizar sobre ellos vehículos de la gama Tut Tut Bólidos.
-- Los coches de la colección se venden por separado y son compatibles con todos los sets de la colección. Favorecen y estimulan el desarrollo motor, del lenguaje enseñan la relación causa efecto y contribuyen al desarrollo Bebé.
 - Incluye un vehículo de la colección Tut Tut Bólidos y numerosos elementos para manipular dentro del escenario (ascensor, garaje, herramientas, difusor pintura, surtidor de combustible, tobogán y neumático)
+- Agudiza nuevas habilidades, ingenio , creatividad y diversión, aprendiendo sin salir de casa.
+- Los coches de la colección se venden por separado y son compatibles con todos los sets de la colección. Favorecen y estimulan el desarrollo motor, del lenguaje enseñan la relación causa efecto y contribuyen al desarrollo Bebé.
+- Los tramos de pistas que contiene se pueden unir a otros juguetes de la gama Tut Tut Bólidos,es compatible con toda la colección Tut Tut Bólidos.Dispone de 6 melodías y 3 canciones que contiene el vehículo además de sonidos y frases.
+- VERSIÓN ESPAÑOLA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087DQQ8F6/?tag=tolees-21)

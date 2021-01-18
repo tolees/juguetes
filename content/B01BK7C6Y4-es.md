@@ -26,8 +26,8 @@ Tienes [Peppa Pig - Set porcelana  color azul  Smoby 310531    color/modelo surt
 🔎:
 
 - Country of origin:- China
-- Model Number: 310531
 - Item Package Quantity: 1
+- Model Number: 310531
 - Package Dimensions : 25.1L x 20.8W x 5.8H (centimeters)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BK7C6Y4/?tag=tolees-21)
