@@ -25,8 +25,8 @@ Tienes [Polly Pocket Cofre flamenco flotante  muñeca con accesorios  Mattel FRY
 
 🔎:
 
-- Cada cofre mundo de bolsillo tiene un tamaño reducido óptimo para llevarse las aventuras de polly pocket a todas partes
-- Regalo óptimo a partir de 4 años
 - Se puede elegir entre el cofre cupcake sorpresa con detalles inesperados y micromuñecas de polly y shani con accesorios
+- Regalo óptimo a partir de 4 años
+- Cada cofre mundo de bolsillo tiene un tamaño reducido óptimo para llevarse las aventuras de polly pocket a todas partes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079KDSWL9/?tag=tolees-21)
