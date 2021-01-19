@@ -26,9 +26,9 @@ Tienes [Devir- Bienvenido de Nuevo a la mazmorra  BGMAZ2 ](https://www.amazon.es
 
 🔎:
 
-- Duración 30 minutos
-- De 2 a 4 jugadores
-- A partir de los 10 años
 - Edición en español
+- De 2 a 4 jugadores
+- Duración 30 minutos
+- A partir de los 10 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074K5VN4T/?tag=tolees-21)
