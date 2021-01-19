@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Slime- So Shaker X3 Boy Plastilina  Mult al 53.30 % de descuento'
-date: 2021-01-17 13:58:37
+date: 2021-01-19 11:30:35
 image: 'https://m.media-amazon.com/images/I/51yJeBLe6sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Slime- So Shaker X3 Boy Plastilina  Multicolor  Norme  Canal Toys SSC010 
 
 ℹ️:
 
+- La marca del producto es Slime
 - No necesita pegamento
-- Se prepara fácilmente con agua
 - Es adecuado para actividades creativas
 - La edad mínima recomendada es 6 años
-- La marca del producto es Slime
+- Se prepara fácilmente con agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B4QWFT6/?tag=tolees-21)
