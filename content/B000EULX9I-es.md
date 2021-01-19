@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EULX9I-es Fisher-Price Gira Gira - Cebra'
-tags: [ tole.es, fisher-price ]
+tags: [ 'tole.es','fisher-price', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

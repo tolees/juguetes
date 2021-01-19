@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF6GWZK-es Symiu Puzzle Madera Juego Ajedrez Cartas de Memoria...'
-tags: [ tole.es, juguetes, puzzle ]
+tags: [ 'tole.es','juguetes','puzzle', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

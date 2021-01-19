@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVBVS4R-es Molyflower Hipopótamo Hambriento Que traga mármoles...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

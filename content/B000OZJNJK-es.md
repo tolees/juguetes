@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OZJNJK-es FEBER - Woodland Cottage Casita infantil para el jardín...'
-tags: [ tole.es, famosa, feber ]
+tags: [ 'tole.es','famosa','feber', ]
 actualPrice: 138.33 EUR
 currency: EUR
 price: 138.33

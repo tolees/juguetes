@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RZPDVK-es amzdeal Soporte Caballete de reparación de Bicicletas...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

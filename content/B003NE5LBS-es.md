@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5LBS-es Lego 40031734 - Caja de almacenamiento para bloques de...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L952XPD-es SONARIN Lindo Príncipe Alfombras de juego Gimnasio de...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

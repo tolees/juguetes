@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753KYVFL-es Reloj modificable infantil con figurita de Darth Vader de...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

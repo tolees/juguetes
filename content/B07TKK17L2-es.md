@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKK17L2-es Bolsas de malla reutilizables TopBine 12 unidades lavables...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91

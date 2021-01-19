@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722YDZF5-es Tiny Love Dynamic Gymini Gimnasio musical de actividades...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

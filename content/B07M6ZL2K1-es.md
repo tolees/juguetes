@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6ZL2K1-es Disney 37277 Dumbo - Peluche de Elefante 35 cm Color Gris'
-tags: [ tole.es, peluche ]
+tags: [ 'tole.es','peluche', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

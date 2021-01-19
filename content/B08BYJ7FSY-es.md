@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYJ7FSY-es BelleStyle Puzzle Bebe Puzzles de Madera Educativos para...'
-tags: [ tole.es, juguetes, puzzle, rompecabezas ]
+tags: [ 'tole.es','juguetes','puzzle','rompecabezas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

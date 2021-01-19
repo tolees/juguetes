@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719SXQTC-es Barriguitas Clínica Loca Famosa 700013940'
-tags: [ tole.es, famosa ]
+tags: [ 'tole.es','famosa', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

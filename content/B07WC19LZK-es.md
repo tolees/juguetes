@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC19LZK-es LEGO DUPLO Town - Dormitorio Set con Ladrillos de Juguete...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

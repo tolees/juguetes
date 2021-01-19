@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897LBCBN-es Diseño práctico Dual USB Generador de Bicicleta Bicicleta...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

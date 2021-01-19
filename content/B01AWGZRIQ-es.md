@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AWGZRIQ-es DC Super Hero Girls Muñeca Harley Quinn Mattel DMM36'
-tags: [ tole.es, mattel ]
+tags: [ 'tole.es','mattel', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

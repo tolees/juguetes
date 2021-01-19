@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFQV3VX-es The Bellies - Belliekit Set de cuidados Famosa 700014343'
-tags: [ tole.es, famosa, the, bellies ]
+tags: [ 'tole.es','famosa','the','bellies', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

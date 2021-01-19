@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JAEF2M8-es Michelin AIRSTOP CARRETERA - Camara de bicicleta 700 x...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

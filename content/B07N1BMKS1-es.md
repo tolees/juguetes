@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BMKS1-es Avengers Martillo - De Combate Thor Hasbro B0445EUC'
-tags: [ tole.es, hasbro ]
+tags: [ 'tole.es','hasbro', ]
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

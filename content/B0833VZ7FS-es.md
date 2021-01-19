@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833VZ7FS-es Peradix Splash Pad 170CM Aspersor de Juegos de Agua para...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

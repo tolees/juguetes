@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077J2CWHS-es Fisher-Price Cebra activity juguete colgante para bebé...'
-tags: [ tole.es, fisher-price, mattel ]
+tags: [ 'tole.es','fisher-price','mattel', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

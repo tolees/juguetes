@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8Q60MQ-es Devir - Crucigramarius BGCRUCI'
-tags: [ tole.es, devir ]
+tags: [ 'tole.es','devir', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

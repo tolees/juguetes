@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088QXQ48N-es LEADSTAR Rompecabezas de Madera Bloques de Madera Tangram...'
-tags: [ tole.es, puzzle, rompecabezas ]
+tags: [ 'tole.es','puzzle','rompecabezas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

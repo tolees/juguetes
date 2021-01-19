@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Q7HGYF-es Clementoni- Puzzle 1000 Piezas Anne Stokes Inner Strenght...'
-tags: [ tole.es, puzzle ]
+tags: [ 'tole.es','puzzle', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVDNUIC-es LEGO Classic - Complementos Creativos de Nuevos Colores...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 10.02 EUR
 currency: EUR
 price: 10.02

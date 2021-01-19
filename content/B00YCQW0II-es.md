@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YCQW0II-es VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos Color...'
-tags: [ tole.es, vtech- ]
+tags: [ 'tole.es','vtech-', ]
 actualPrice: 54.08 EUR
 currency: EUR
 price: 54.08

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMC8K4Q-es LEADSTAR Montessori Activity Wooden Toy Cordón Madera...'
-tags: [ tole.es, juguetes, rompecabezas ]
+tags: [ 'tole.es','juguetes','rompecabezas', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

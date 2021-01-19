@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TIVHAVY-es Devir - Alquimistas Juego de Mesa 222531'
-tags: [ tole.es, devir ]
+tags: [ 'tole.es','devir', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

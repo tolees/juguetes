@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0885QXZX1-es Rolimate Alfabetos y números Juego de Tarjetas Flash - ABC...'
-tags: [ tole.es, juguetes, rompecabezas ]
+tags: [ 'tole.es','juguetes','rompecabezas', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

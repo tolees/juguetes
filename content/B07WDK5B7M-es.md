@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDK5B7M-es ANGELBLISS mordedor bebes refrigerante mordedores bebes...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

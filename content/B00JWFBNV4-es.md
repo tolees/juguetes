@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JWFBNV4-es VTech -Little App Tableta educativa Infantil Pantalla LCD...'
-tags: [ tole.es, vtech ]
+tags: [ 'tole.es','vtech', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

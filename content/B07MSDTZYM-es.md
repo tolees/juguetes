@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSDTZYM-es CCLIFE Esterilla Puzzle de Fitness 60x60x1cm 30x30x1cm...'
-tags: [ tole.es, puzzle ]
+tags: [ 'tole.es','puzzle', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

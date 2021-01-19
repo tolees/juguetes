@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQGSFY9-es Play-Doh Fábrica De Palomitas Hasbro E5110EU4 color/modelo...'
-tags: [ tole.es, hasbro, play-doh ]
+tags: [ 'tole.es','hasbro','play-doh', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

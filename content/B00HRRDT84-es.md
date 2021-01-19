@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDT84-es SYLVANIAN FAMILIES Venta de zumos Epoch para Imaginar 4478'
-tags: [ tole.es, sylvanian, families ]
+tags: [ 'tole.es','sylvanian','families', ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

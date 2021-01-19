@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086D5G4CS-es MaoXinTek Tangram Madera 36 Montessori Puzzle de Formas y...'
-tags: [ tole.es, juguetes, puzzle ]
+tags: [ 'tole.es','juguetes','puzzle', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

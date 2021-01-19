@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RXLB99-es Moliies Rompecabezas Niños Niños Niños Niñas Escritura...'
-tags: [ tole.es, rompecabezas ]
+tags: [ 'tole.es','rompecabezas', ]
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

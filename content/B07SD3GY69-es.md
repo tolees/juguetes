@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD3GY69-es Symiu Juguetes de Pesca Juego Infantil Piscina Juegos...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

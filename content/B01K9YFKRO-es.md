@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9YFKRO-es Cefa Toys- Equipo Profesional de Geólogo Stream Multicolor...'
-tags: [ tole.es, cefa ]
+tags: [ 'tole.es','cefa', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

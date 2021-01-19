@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006GF0SFA-es Elite Custom Race - Portabidón de Fibra para Bicicleta...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

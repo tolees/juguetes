@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3XWNP2-es Bloques Madera Juguete Puzzle Juego Construcción...'
-tags: [ tole.es, puzzle ]
+tags: [ 'tole.es','puzzle', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

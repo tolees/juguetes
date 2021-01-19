@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N11QDSC-es The Bellies - Willy Woof Muñeco interactivo para niños y...'
-tags: [ tole.es, famosa, the, bellies ]
+tags: [ 'tole.es','famosa','the','bellies', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

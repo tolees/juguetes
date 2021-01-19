@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWMFXTV-es AiRunTech Cintura Fanny Pack Riñoneras Deportivas Cinturón...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

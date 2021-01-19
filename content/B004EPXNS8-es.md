@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPXNS8-es Educa Borrás dibujos animados y cómic Puzzle 1.000 piezas...'
-tags: [ tole.es, puzzle ]
+tags: [ 'tole.es','puzzle', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

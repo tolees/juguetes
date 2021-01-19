@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8HGJY9-es Avengers Titan Hero Movie Ronin Hasbro E3922ES0'
-tags: [ tole.es, hasbro ]
+tags: [ 'tole.es','hasbro', ]
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

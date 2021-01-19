@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MNB3VP-es Monopoly- Junior Electronico Versión Española Hasbro E1842105'
-tags: [ tole.es, hasbro ]
+tags: [ 'tole.es','hasbro', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

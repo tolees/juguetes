@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D8WMNEI-es LEGO: Marvel Super Heroes'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego:', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

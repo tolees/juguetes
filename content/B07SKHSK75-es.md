@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKHSK75-es FEBER Pinypon. Las Trendy - Dana'
-tags: [ tole.es, feber ]
+tags: [ 'tole.es','feber', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

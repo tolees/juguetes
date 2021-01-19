@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NS33SF9-es Lego Jurassic World Pijamas de Manga Larga para niños Azul...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

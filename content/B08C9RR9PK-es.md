@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9RR9PK-es iNeego Maletin Medicos Juguete 37 Piezas - Doctora de...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

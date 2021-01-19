@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC4BGSS-es SKYSPER Ciclismo Maillot Hombres Pantalones Cortos Culote...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

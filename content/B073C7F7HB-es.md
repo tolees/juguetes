@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo juguete gateo bebé +3...'
-tags: [ tole.es, fisher-price, mattel ]
+tags: [ 'tole.es','fisher-price','mattel', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

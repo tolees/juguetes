@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRPZYNQ-es L.O.L. Surprise! 557067E7C Hairgoal Doll-Series 5-2A Multi'
-tags: [ tole.es, l.o.l. ]
+tags: [ 'tole.es','l.o.l.', ]
 actualPrice: 17.34 EUR
 currency: EUR
 price: 17.34

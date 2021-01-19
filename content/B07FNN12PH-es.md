@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNN12PH-es LEGO Minecraft - La Batalla en el End juguete divertido de...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

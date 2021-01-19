@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHR2LFW-es Chanos Chanos Peppa Pig Safety Runner PoE Transparent...'
-tags: [ tole.es, peppa, pig ]
+tags: [ 'tole.es','peppa','pig', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

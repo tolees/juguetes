@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8GC42K-es EVOLAND Bicicleta Estática Plegable Bicicleta Estática de...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

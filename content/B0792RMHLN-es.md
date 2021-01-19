@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792RMHLN-es LEGO Fantastic Beasts - Maleta de Criaturas Mágicas de...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 41.04 EUR
 currency: EUR
 price: 41.04

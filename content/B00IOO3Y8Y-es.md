@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IOO3Y8Y-es S&R Juego de 30 llaves Allen hexagonales en Pulgadas y...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

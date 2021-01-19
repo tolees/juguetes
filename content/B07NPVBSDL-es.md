@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPVBSDL-es Bizak Aire Libre Skip It 2 en 1 BIZAK 35007558'
-tags: [ tole.es, bizak ]
+tags: [ 'tole.es','bizak', ]
 actualPrice: 10.54 EUR
 currency: EUR
 price: 10.54

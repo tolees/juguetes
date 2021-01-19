@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016A3MUC6-es PATRULLA CANINA PAW PATROL - PELUCHE PERSONAJE RUBBLE...'
-tags: [ tole.es, peluche ]
+tags: [ 'tole.es','peluche', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

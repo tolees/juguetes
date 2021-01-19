@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSKP9JR-es DC Justice League Figura de Acción 30 cm Superman Juguetes...'
-tags: [ tole.es, juguetes, mattel ]
+tags: [ 'tole.es','juguetes','mattel', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

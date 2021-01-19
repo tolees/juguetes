@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFCN8GV-es The Bellies - Ropita divertida disfraz reversible Angelito...'
-tags: [ tole.es, famosa, the, bellies ]
+tags: [ 'tole.es','famosa','the','bellies', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

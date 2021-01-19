@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E5CZH4W-es INBIKE Conjunto Ropa Equipacion Traje Ciclismo Hombre para...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

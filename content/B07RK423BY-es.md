@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK423BY-es Toy Story Figura Buzz Lightyear Acción Karate 30 cm BIZAK...'
-tags: [ tole.es, bizak ]
+tags: [ 'tole.es','bizak', ]
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

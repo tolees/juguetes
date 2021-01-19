@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WMD76J-es BelleStyle Juguetes de Reloj Madera Juguete de Reloj de...'
-tags: [ tole.es, juguetes, rompecabezas ]
+tags: [ 'tole.es','juguetes','rompecabezas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

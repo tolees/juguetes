@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L7ZBD7-es Asmodee - Dobble Waterproof Juego de cartas impermeable...'
-tags: [ tole.es, juego, de, cartas ]
+tags: [ 'tole.es','juego','de','cartas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJJ8TBN-es Little People Granja cuida a los animalitos juguetes bebés...'
-tags: [ tole.es, juguetes, mattel ]
+tags: [ 'tole.es','juguetes','mattel', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

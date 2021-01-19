@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J321VHV-es LRG Nueva tija de sillín de Fibra de Carbono y Bicicleta...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

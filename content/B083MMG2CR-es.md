@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083MMG2CR-es Star Wars - Figura Han Solo Carbonite de Black Series...'
-tags: [ tole.es, hasbro ]
+tags: [ 'tole.es','hasbro', ]
 actualPrice: 20.85 EUR
 currency: EUR
 price: 20.85

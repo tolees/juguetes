@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A3CRAMQ-es Brazalete Deportivo para Correr y Andar en Bicicleta...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

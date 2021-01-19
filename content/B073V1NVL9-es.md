@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073V1NVL9-es RIXOW Cubierta de Asiento de Bicicleta Sillín de Bicicleta...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

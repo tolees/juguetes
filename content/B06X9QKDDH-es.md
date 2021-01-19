@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9QKDDH-es Hanazuki - Muñeca de Peluche con Luces de Colores Hasbro...'
-tags: [ tole.es, hasbro, peluche ]
+tags: [ 'tole.es','hasbro','peluche', ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

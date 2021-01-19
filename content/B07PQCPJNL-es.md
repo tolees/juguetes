@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQCPJNL-es LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8PRCH6-es MaxTronic Coche RC 4x4 Radiocontrol 1:18 Juguete de...'
-tags: [ tole.es, coche, rc ]
+tags: [ 'tole.es','coche','rc', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

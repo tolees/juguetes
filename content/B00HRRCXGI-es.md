@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRCXGI-es EPOCH Girl S Room Set Sylvanian Families Mini muñecas y...'
-tags: [ tole.es, sylvanian, families ]
+tags: [ 'tole.es','sylvanian','families', ]
 actualPrice: 22.24 EUR
 currency: EUR
 price: 22.24

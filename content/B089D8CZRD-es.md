@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089D8CZRD-es BeebeeRun Juguete de Cocina 30 Piezas Juego de Ollas y...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

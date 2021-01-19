@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0723GJQRP-es Transformers C2028EU50 - Peluche de evolución'
-tags: [ tole.es, peluche ]
+tags: [ 'tole.es','peluche', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

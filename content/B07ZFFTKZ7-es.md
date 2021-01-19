@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFFTKZ7-es SUPRBIRD Juguete de Paracaídas 10 Piezas Juguete...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

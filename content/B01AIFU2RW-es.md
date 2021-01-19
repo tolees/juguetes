@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIFU2RW-es los Barriguitas Playset casita Famosa 700012701'
-tags: [ tole.es, famosa ]
+tags: [ 'tole.es','famosa', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

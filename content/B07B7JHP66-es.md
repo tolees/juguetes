@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7JHP66-es SmartGyro Xtreme Seat - Asiento para patín eléctrico...'
-tags: [ tole.es, smartgyro ]
+tags: [ 'tole.es','smartgyro', ]
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

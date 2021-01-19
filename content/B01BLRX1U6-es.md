@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLRX1U6-es Clementoni-39334 Los Pingüinos De Madagascar Puzzle 1000...'
-tags: [ tole.es, puzzle ]
+tags: [ 'tole.es','puzzle', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

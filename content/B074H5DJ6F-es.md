@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074H5DJ6F-es Well Love Juguetes para perro juguetes para masticar...'
-tags: [ tole.es, juguetes, peluche ]
+tags: [ 'tole.es','juguetes','peluche', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

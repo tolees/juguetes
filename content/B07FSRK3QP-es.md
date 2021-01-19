@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSRK3QP-es Wafly Puños Bicicleta Ergonomicos con Máscara 2PCS Puños...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

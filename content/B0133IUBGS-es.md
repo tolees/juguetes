@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0133IUBGS-es Ravensburger Avengers - Multipack de 3 Rompecabezas con 1...'
-tags: [ tole.es, ravensburger, rompecabezas ]
+tags: [ 'tole.es','ravensburger','rompecabezas', ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

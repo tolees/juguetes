@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HYK7ZQ-es NICEWIN Ropa Interior de Ciclismo para Hombre Pantalones...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

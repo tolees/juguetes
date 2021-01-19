@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3MHQZN-es Puzzle 3D Estadio Rompecabezas Diy 3d Juego Puzzle Fútbol...'
-tags: [ tole.es, juguetes, puzzle, rompecabezas ]
+tags: [ 'tole.es','juguetes','puzzle','rompecabezas', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

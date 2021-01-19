@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4Y2LKW-es Diy Cuentas hechas a mano Juguetes con accesorios Set Kids...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

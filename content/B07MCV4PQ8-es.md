@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCV4PQ8-es VTech- BlaBla Block Juego de construcción electrónico...'
-tags: [ tole.es, vtech- ]
+tags: [ 'tole.es','vtech-', ]
 actualPrice: 12.26 EUR
 currency: EUR
 price: 12.26

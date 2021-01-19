@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000FRTVUS-es Theo Klein-8686 Bosch banco de trabajo en maletín con...'
-tags: [ tole.es, theo, klein ]
+tags: [ 'tole.es','theo','klein', ]
 actualPrice: 36.19 EUR
 currency: EUR
 price: 36.19

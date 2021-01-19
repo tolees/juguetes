@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTSDD6-es LEGO Duplo Town - Camión de Bomberos Juguete de...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

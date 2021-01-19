@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q81VDJW-es GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo...'
-tags: [ tole.es, flotador ]
+tags: [ 'tole.es','flotador', ]
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

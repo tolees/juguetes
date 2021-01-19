@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRD10A-es Sylvanian Families 5037 Deluxe Living Room - Set Mini para...'
-tags: [ tole.es, sylvanian, families ]
+tags: [ 'tole.es','sylvanian','families', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

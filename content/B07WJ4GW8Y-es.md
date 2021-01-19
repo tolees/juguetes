@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJ4GW8Y-es COOLJOY 118 Piezas Puzzles de Madera Magnético Pizarra...'
-tags: [ tole.es, rompecabezas ]
+tags: [ 'tole.es','rompecabezas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

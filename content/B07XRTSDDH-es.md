@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRTSDDH-es CAIDUD Juguetes para aliviar el estrés Fun Memory Toy...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

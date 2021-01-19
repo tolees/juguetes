@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PC2DSND-es Mega Blocks - Cuenta Conmigo 1 2 3 Bloques de Construcción...'
-tags: [ tole.es, mattel ]
+tags: [ 'tole.es','mattel', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

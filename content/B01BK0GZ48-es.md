@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BK0GZ48-es Lego Star Wars Minifigur C-3PO out of set 75136 sw700'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

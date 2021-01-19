@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089N3MV3K-es Toozey Juguetes Mordedor Perros Grandes Resistentes -...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDP88-es SYLVANIAN FAMILIES Sylvanian Families-4869 Set Barbacoa...'
-tags: [ tole.es, sylvanian, families ]
+tags: [ 'tole.es','sylvanian','families', ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

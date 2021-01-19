@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GRMBZ7-es Pulchram Splash Pad Almohadilla de Aspersión de 170 cm...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 22.55 EUR
 currency: EUR
 price: 22.55

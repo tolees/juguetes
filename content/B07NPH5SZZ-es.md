@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPH5SZZ-es yoptote Caja Registradora Juguetes Supermercado Infantil...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

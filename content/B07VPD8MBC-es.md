@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPD8MBC-es Aizhy Bomba de pie de Doble Barril Bomba de Bicicleta de...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

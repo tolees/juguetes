@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPQM797-es L.O.L. Surprise! 564119E7C Furniture Boutique con Abeja...'
-tags: [ tole.es, l.o.l. ]
+tags: [ 'tole.es','l.o.l.', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

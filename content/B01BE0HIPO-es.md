@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BE0HIPO-es Sylvanian Families-5227 Coche descapotable Color Rojo...'
-tags: [ tole.es, sylvanian, families ]
+tags: [ 'tole.es','sylvanian','families', ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

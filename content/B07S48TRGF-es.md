@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S48TRGF-es GLEADING Correa Retráctil para Usar Manos Libres para...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EC6VARA-es Disney Infinity - Toy Box Set: Frozen Anna Elsa + 2 Power...'
-tags: [ tole.es, disney, infinity ]
+tags: [ 'tole.es','disney','infinity', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

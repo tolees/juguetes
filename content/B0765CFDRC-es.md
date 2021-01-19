@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765CFDRC-es LEGO Friends - Cafetería de Pilotos Juguete con Mini...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

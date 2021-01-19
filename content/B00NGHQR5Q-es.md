@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NGHQR5Q-es GEMVIE Flotador de Bebé Piscina Inflable con Manija Anillo...'
-tags: [ tole.es, flotador ]
+tags: [ 'tole.es','flotador', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

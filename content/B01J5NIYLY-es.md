@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J5NIYLY-es Educa Borrás - Tower Bridge Puzzle 3D 16999'
-tags: [ tole.es, puzzle ]
+tags: [ 'tole.es','puzzle', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

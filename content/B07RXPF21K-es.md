@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXPF21K-es Gifort Flotador Bebé Piscina Barco Niños Flotador...'
-tags: [ tole.es, flotador ]
+tags: [ 'tole.es','flotador', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

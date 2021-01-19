@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2VM3QG-es SkullCap® Casco Bicicleta para Hombre o Mujer Casco para...'
-tags: [ tole.es, bicicleta ]
+tags: [ 'tole.es','bicicleta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

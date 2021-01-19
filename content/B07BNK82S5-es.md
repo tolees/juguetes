@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BNK82S5-es Color Smash - Juego de Cartas Goliath 70474'
-tags: [ tole.es, juego, de, cartas ]
+tags: [ 'tole.es','juego','de','cartas', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

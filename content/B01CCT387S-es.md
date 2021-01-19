@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CCT387S-es LEGO STAR WARS - Sargenta Jyn ERSO 75119'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

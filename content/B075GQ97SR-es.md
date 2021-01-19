@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GQ97SR-es LEGO City Great Vehicles - Tractor Forestal Juguete de...'
-tags: [ tole.es, lego ]
+tags: [ 'tole.es','lego', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

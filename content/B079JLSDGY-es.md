@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JLSDGY-es Barbie Muñeca Stacie y su desayuno accesorios muñeca...'
-tags: [ tole.es, barbie, mattel ]
+tags: [ 'tole.es','barbie','mattel', ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

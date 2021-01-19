@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073PC1WQY-es Hasbro - Mr Mph Hasbro 27657EZ3'
-tags: [ tole.es, hasbro ]
+tags: [ 'tole.es','hasbro', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

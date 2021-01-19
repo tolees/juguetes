@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXDVFXP-es TOPERSUN Regalo del de Niño 28Pcs Juguetes Musicales...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

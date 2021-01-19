@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1ZJCYB-es Pinypon Action- Lancha de Rescate de Policía con 1...'
-tags: [ tole.es, famosa, pinypon ]
+tags: [ 'tole.es','famosa','pinypon', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

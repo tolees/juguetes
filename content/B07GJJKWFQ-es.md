@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJJKWFQ-es Nerf- Microshots Firestrike SE1 Multicolor Hasbro E0721ES0...'
-tags: [ tole.es, hasbro ]
+tags: [ 'tole.es','hasbro', ]
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

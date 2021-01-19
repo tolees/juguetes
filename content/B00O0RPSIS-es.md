@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O0RPSIS-es Disney Frozen - Muñeco Olaf cantarín Mattel CJW68'
-tags: [ tole.es, mattel ]
+tags: [ 'tole.es','mattel', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

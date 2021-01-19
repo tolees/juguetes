@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLYBHM9-es Mordedor bebes Baby Teething Toys Juguetes de dentición...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

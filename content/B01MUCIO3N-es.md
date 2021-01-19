@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUCIO3N-es Aurora- Foca de Peluche colección Mini Flopsie Color Gris...'
-tags: [ tole.es, peluche ]
+tags: [ 'tole.es','peluche', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Z7KNNS-es Clementoni 39022 Puzzle Puzzle - Rompecabezas Puzzle...'
-tags: [ tole.es, clementoni, puzzle, rompecabezas ]
+tags: [ 'tole.es','clementoni','puzzle','rompecabezas', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

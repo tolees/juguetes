@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0196A4EWE-es SYLVANIAN FAMILIES- Cosmetic Counter Mini muñecas y...'
-tags: [ tole.es, sylvanian, families ]
+tags: [ 'tole.es','sylvanian','families', ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

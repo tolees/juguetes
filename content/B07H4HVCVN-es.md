@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4HVCVN-es Kupton Bolsas de Comida para Fruta Juguetes y Libros-...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

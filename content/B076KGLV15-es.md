@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KGLV15-es Thomas & Friends - Locomotora Nia y Elefante Juguetes...'
-tags: [ tole.es, juguetes, mattel ]
+tags: [ 'tole.es','juguetes','mattel', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

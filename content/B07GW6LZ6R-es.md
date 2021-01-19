@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GW6LZ6R-es Soporte de luz para cámara Web Live Stream Anillo Selfie...'
-tags: [ tole.es, brio ]
+tags: [ 'tole.es','brio', ]
 actualPrice: 21.07 EUR
 currency: EUR
 price: 21.07

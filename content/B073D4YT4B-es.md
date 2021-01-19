@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073D4YT4B-es 2 en 1 Juego de Ajedrez Chino Weiqi Go Juego de Damas...'
-tags: [ tole.es, juguetes ]
+tags: [ 'tole.es','juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

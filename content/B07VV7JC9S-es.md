@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV7JC9S-es Safe Maddy Mochila Peluche Dragón Para Bebes Y Niños...'
-tags: [ tole.es, peluche ]
+tags: [ 'tole.es','peluche', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
