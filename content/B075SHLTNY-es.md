@@ -28,7 +28,7 @@ Tienes [Ravensburger- Puzzle 3DTorre Eiffel Night Disney 216 Piezas  12520 ](htt
 - Tamaño del puzle: 44 x 17 x 17 cm.
 - Tamaño de la caja: 19 x 28 x 7 cm.
 - Puzzle 3D Special Edition Disney de 216 piezas
-- Alta calidad de Ravensburger.
 - Construcción sólida sin el uso de pegamento.
+- Alta calidad de Ravensburger.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075SHLTNY/?tag=tolees-21)
