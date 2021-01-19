@@ -25,10 +25,10 @@ En este momento está [Sylvanian Families - 5359 - Familia Nutria](https://www.a
 
 🔎:
 
+- Vater Glenn, madre Amanda, hija Nicola y hijo Jack
+- Fantásticas figuras para casas de muñecas
 - Sylvanian families es una linda colección de juguetes de animales con brazos y piernas móviles, edificios y casas detallados, así como muebles y accesorios; las figuras están pintadas a mano y los vestidos están hechos a mano
 - Figura de aprox; tamaño: 6-8 cm
-- Fantásticas figuras para casas de muñecas
-- Vater Glenn, madre Amanda, hija Nicola y hijo Jack
 - Apto para niños a partir de 3 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NHZTY3Z/?tag=tolees-21)
