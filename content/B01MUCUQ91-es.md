@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUCUQ91-es Clementoni - Puzzle 2000 Piezas Neuschwanstein 32559'
-tags: clementoni, puzzle
+tags: tole.es, clementoni, puzzle
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

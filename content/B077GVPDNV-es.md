@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GVPDNV-es Makeblock 125089936 Juguete programable - Juguetes...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 98.1 EUR
 currency: EUR
 price: 98.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BLT8T1-es Souke Sports - Pantalones Cortos De Ciclismo para Mujer 4D...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

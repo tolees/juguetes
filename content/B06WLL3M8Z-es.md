@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLL3M8Z-es LEGO Star Wars - Rey 75528'
-tags: lego
+tags: tole.es, lego
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

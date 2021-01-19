@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002NU6J1Y-es Garmin 010-11430-00 - Soporte de Bicicleta para GPS'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

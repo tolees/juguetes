@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK9DV1H-es CubicFun Puzzle 3D UK Colección de Kits de Modelos...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084KJ1JBT-es Panamami Nuevos Juguetes Inteligentes para Juegos Los...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

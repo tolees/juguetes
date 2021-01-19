@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894KS9JD-es jerryvon Dinosaurios Camion Juguetes Figura Dinosaurio...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

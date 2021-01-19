@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B47YM8Y-es Ravensburger- Puzzle 3D 324 pièces Notre-Dame de Paris...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

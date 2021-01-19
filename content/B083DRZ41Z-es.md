@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DRZ41Z-es Fajiabao Pizarra Infantil de Caballete con Pizarra Blanca...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

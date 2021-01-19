@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793HJ6KY-es Educa Borrás Puzzle 1.000 Piezas Billetes del Mundo 17659'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

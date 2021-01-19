@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894WKRFP-es Surplex Juego de Juguetes de baño para niños 6 Peces...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 9.28 EUR
 currency: EUR
 price: 9.28

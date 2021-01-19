@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088RCHV8R-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para...'
-tags: rompecabezas
+tags: tole.es, rompecabezas
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

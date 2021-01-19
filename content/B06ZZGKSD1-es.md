@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZGKSD1-es Juego de Tronos Puzzle 3D de Madera 56 Piezas Educa Borrás...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

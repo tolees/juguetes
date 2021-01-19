@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JWFA7PC-es Juegos Bizak - Hedbanz actuando 61924162'
-tags: bizak
+tags: tole.es, bizak
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

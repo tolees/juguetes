@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSB9H4-es LEGO Star Wars - Duelo en la Base Starkiller Juguete de...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

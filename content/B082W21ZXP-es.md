@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082W21ZXP-es Ucradle 2 Pack Pistolas de Agua Chorro de Agua Squirt Gun...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081V9KWDH-es Amy&Benton Juguete con la Herramienta Tornillo 224 Piezas...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

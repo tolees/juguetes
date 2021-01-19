@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD5D8V8-es Beados - Pack Temático S8 Kitty Cat Party Famosa 700014681'
-tags: famosa
+tags: tole.es, famosa
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

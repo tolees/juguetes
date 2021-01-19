@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PYCT88-es Clementoni- Disney Collection Puzzle 1000 Piezas Panorama...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

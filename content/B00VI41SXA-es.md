@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VI41SXA-es Play-Doh - Maletin Herramientas Hasbro B1169EU4'
-tags: hasbro, play-doh
+tags: tole.es, hasbro, play-doh
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BKDXXSR-es /N Cortina de Ducha Wizard Estación de Tren Famosa...'
-tags: famosa
+tags: tole.es, famosa
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

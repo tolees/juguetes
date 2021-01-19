@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753KCTRL-es Shimmer y Shine Zeta y su moto muñeca con accesorios...'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

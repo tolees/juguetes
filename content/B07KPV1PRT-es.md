@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas...'
-tags: juguetes, puzzle, rompecabezas
+tags: tole.es, juguetes, puzzle, rompecabezas
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

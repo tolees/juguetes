@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLZS31Y-es ZIYIUI Realista Niña Reborn Bebé Muñecas Niñita Silicona...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

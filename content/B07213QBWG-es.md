@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07213QBWG-es MYCARBON Cintura Fanny Pack Riñoneras Deportivas Cinturón...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

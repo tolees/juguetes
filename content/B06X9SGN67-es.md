@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9SGN67-es SYLVANIAN FAMILIES- Amigas patinadoras sobre Hielo Epoch...'
-tags: sylvanian, families
+tags: tole.es, sylvanian, families
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

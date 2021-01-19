@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085T3LQWC-es Joyjam Coche teledirigido Anfibio Stunt Car Impermeable...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

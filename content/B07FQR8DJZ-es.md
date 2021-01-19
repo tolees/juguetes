@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQR8DJZ-es Cottage im Herbst - Puzzle mit 500 Teilen'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

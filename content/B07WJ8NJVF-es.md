@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJ8NJVF-es lenbest 118 Piezas Puzzles de Madera Magnético Magnética...'
-tags: rompecabezas
+tags: tole.es, rompecabezas
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

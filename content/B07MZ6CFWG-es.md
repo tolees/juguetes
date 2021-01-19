@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ6CFWG-es Tablets de Escritura LCD a Color Tablero de Dibujo eWriter...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

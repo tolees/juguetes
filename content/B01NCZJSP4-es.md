@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCZJSP4-es Educa Borras - Genuine Puzzles Puzzle 2.000 piezas...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

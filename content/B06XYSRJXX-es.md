@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYSRJXX-es Hasbro B90701 Animales de Juguete Juguetes de Peluche...'
-tags: hasbro, juguetes, peluche
+tags: tole.es, hasbro, juguetes, peluche
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084NXPSTW-es LoveOlvido 13 Unids / Set Simulación Vajilla Roja...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

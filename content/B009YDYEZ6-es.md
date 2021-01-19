@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009YDYEZ6-es HUTCHINSON CV657171 Cámara de Bicicleta Unisex Adulto...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

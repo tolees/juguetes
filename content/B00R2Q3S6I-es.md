@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R2Q3S6I-es KONG - CuteSeas Octopus - Peluche de Pana para Perros -...'
-tags: peluche
+tags: tole.es, peluche
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

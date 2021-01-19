@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6KDQZT-es Candado de Disco De Alarma Disco De Bloqueo para Moto...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

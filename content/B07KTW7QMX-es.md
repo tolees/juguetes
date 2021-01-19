@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTW7QMX-es LEGO Ninjago - Spinjitzu Slam: Zane Set de construcción de...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

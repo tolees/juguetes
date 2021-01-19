@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018S6LWJK-es FEBER - See Saw Balancín Famosa 800010240'
-tags: famosa, feber
+tags: tole.es, famosa, feber
 actualPrice: 123.2 EUR
 currency: EUR
 price: 123.2

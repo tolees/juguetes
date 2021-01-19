@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5SZ3BQ-es La Lego Película 2: El Videojuego'
-tags: lego
+tags: tole.es, lego
 actualPrice: 29.32 EUR
 currency: EUR
 price: 29.32

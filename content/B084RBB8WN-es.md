@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RBB8WN-es Winning Moves Puzzle Harry Potter House Crest 500 Piezas...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

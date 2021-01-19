@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFXXTMY-es Barbie Muñeca con caballo de juguete + 3 años Mattel FXH13'
-tags: barbie, mattel
+tags: tole.es, barbie, mattel
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

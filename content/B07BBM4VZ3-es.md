@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBM4VZ3-es himaly Mini Bicicleta Estática con Pantalla LCD para...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTV5P8Q-es Nobleza – Pack de 5 Juguetes para Perro. Set Fabricado en...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

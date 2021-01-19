@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747Q5RMG-es SkullCap® Casco Niño Bicicleta diseñado por los niños...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

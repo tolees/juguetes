@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D39JCRJ-es Zerodis Linda CogniciónPuzzle Tarjetas En caja de...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGLBKQ4-es VTech - Tut Tut Bólidos Central de policía Playset...'
-tags: vtech
+tags: tole.es, vtech
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

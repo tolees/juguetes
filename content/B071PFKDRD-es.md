@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071PFKDRD-es Shimmer y Shine Alfombra mágica voladora accesorio muñecas...'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 24.42 EUR
 currency: EUR
 price: 24.42

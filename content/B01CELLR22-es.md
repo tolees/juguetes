@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CELLR22-es Hasbro Gaming Clasico Cluedo Versión Española 38712546'
-tags: hasbro
+tags: tole.es, hasbro
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

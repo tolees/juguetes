@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GYFKVW-es Feisty Pets Peluche Oso Polar única Goliath Games 32326'
-tags: peluche
+tags: tole.es, peluche
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

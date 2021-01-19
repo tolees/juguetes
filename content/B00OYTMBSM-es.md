@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OYTMBSM-es Devir- Erizos a la Carrera HLERIZOS'
-tags: devir-
+tags: tole.es, devir-
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

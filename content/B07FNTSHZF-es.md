@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTSHZF-es LEGO Friends - Cafetería Cupcake de Olivia Juguete...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

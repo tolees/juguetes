@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4K4XD3-es CubicFun Puzzle 3D Plaza de San Marcos con National...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

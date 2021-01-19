@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRKC7F2-es XOSS Cadencia/Velocidad Sensor para la computadora de la...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

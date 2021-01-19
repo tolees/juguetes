@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LG12WL-es Hasbro - Baby Alive Muñeca multicolor 38 cm C0963105'
-tags: hasbro
+tags: tole.es, hasbro
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

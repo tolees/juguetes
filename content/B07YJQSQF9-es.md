@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJQSQF9-es SeeKool MINI 3 en 1 RC Drone Quadcopter 2.4GHZ Modo sin...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

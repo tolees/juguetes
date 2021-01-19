@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KP8XD2Z-es Diseño Gracioso no tóxico Gritando Goma Pollo apretón...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

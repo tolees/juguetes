@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8H9BGQ-es Philips Avent Peluche con chupete SCF348/13 - Peluche de...'
-tags: peluche
+tags: tole.es, peluche
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

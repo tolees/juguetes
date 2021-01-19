@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5ZZQJ2-es Splash Play Mat Uiter Tapete de Aprendizaje para Salpicar...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

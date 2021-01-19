@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNN17DF-es LEGO DUPLO Disney - Mi Primer Modelo de Minnie Juguete...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

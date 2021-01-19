@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BKB6ITE-es Blaze y los Monster Machines - Fisher-Price Blaze...'
-tags: fisher-price, mattel
+tags: tole.es, fisher-price, mattel
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

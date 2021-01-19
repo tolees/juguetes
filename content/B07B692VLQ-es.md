@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B692VLQ-es Playdoh - La Barberia Hasbro E2930EU6'
-tags: hasbro
+tags: tole.es, hasbro
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

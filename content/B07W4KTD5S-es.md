@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4KTD5S-es LEGO Disney Princess - Cuentos e Historias: Mulán Juguete...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

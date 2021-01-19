@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV2CNPG-es Potato Head - Potato Train Hasbro E5853EU5'
-tags: hasbro
+tags: tole.es, hasbro
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

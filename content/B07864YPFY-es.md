@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07864YPFY-es Play-Doh Helados Deliciosos Hasbro E0042EU4 color/modelo...'
-tags: hasbro, play-doh
+tags: tole.es, hasbro, play-doh
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

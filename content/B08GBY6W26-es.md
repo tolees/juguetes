@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GBY6W26-es Bola de pulverización de Agua eléctrica Inducción...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

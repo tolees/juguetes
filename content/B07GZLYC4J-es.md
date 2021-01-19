@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZLYC4J-es SmartGyro Xtreme XD Patín eléctrico para niños y jóvenes...'
-tags: smartgyro
+tags: tole.es, smartgyro
 actualPrice: 149.4 EUR
 currency: EUR
 price: 149.4

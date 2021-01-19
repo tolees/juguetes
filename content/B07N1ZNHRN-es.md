@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1ZNHRN-es Educa Dragon Ball Puzzle Infantil de 200 Piezas a Partir...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073F6V5BT-es JIM S STORE Conjuntos de Patinaje Infantil Consta de...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

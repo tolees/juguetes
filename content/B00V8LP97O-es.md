@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V8LP97O-es Silverlit-Mi Primer World Brands teledirigidos Aviones...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

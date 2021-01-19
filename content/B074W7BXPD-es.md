@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074W7BXPD-es TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

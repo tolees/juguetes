@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BUKAC24-es Disney Infinity 3.0 - Disney Figura Baloo'
-tags: disney, infinity
+tags: tole.es, disney, infinity
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

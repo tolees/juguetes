@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW93V2M-es Nancy - Princesa de Otoño Famosa 700014110'
-tags: famosa, nancy
+tags: tole.es, famosa, nancy
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

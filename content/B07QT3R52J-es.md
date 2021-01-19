@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT3R52J-es Nerf Overwatch MicroShots: Torbjorn clásico bláster en...'
-tags: nerf
+tags: tole.es, nerf
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

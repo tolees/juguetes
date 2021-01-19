@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGW3X3Q-es Harry Potter-FYM55 Harry Potter Muñeca profesora...'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

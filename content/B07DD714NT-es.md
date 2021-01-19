@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD714NT-es Cleo & Cuquin - Muñeco Cuquín Vamos A La Cama Mattel GNB43'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 30.19 EUR
 currency: EUR
 price: 30.19

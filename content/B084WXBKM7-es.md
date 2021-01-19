@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WXBKM7-es YIMINYUER Alfombra Puzle Niños Colchoneta Suave Juego...'
-tags: rompecabezas
+tags: tole.es, rompecabezas
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

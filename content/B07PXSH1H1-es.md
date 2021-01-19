@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXSH1H1-es Jaques of London Juguete de Martillo Juguemos al Banco de...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 9.28 EUR
 currency: EUR
 price: 9.28

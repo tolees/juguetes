@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9TVZY5-es LEGO Friends - Cubo Tienda de Juegos de Olivia Caja de...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF4YCT9-es Wondertoys Juego de Croquet de Animales de Madera Juguetes...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2OJNQQ-es Aurora World - Peluche Cabra 73903'
-tags: peluche
+tags: tole.es, peluche
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

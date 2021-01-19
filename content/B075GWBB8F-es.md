@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GWBB8F-es LEGO DUPLO Town - Establo de los Ponis Juguete de...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

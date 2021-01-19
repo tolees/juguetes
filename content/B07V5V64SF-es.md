@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5V64SF-es YOUTHINK Juguete para Loros 7 Piezas de Juguetes para...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

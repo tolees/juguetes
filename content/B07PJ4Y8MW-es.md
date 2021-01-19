@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ4Y8MW-es Ravensburger - Puzzle 3D Autobùs noctàmbulo Harry Potter...'
-tags: puzzle, ravensburger
+tags: tole.es, puzzle, ravensburger
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

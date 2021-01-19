@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074CWSG2C-es TONZE Coches de Juguetes Vehiculos Mini Excavadora...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

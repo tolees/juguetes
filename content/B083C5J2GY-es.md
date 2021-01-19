@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083C5J2GY-es Dragon Ball Z - Peluche Freezer 15 cm'
-tags: peluche
+tags: tole.es, peluche
 actualPrice: 11.56 EUR
 currency: EUR
 price: 11.56

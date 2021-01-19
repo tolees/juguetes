@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016SFTSUS-es Mantel de fieltro rompecabezas colorido'
-tags: rompecabezas
+tags: tole.es, rompecabezas
 actualPrice: 8.74 EUR
 currency: EUR
 price: 8.74

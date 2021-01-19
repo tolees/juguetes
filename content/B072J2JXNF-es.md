@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J2JXNF-es Super Things 3 x Premium multifunción Bandana | Pañuelo...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

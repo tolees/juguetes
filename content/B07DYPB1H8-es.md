@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYPB1H8-es Pedales Bicicleta Pedals Impermeable 9/16 Pulgadas con...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

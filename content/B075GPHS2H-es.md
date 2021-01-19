@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GPHS2H-es LEGO DUPLO - Primer Puzzle de Mascotas Juguete Preescolar...'
-tags: lego, puzzle
+tags: tole.es, lego, puzzle
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

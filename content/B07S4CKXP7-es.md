@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4CKXP7-es Nene Toys - Puzzle Infantil de Madera + Coche de Juguete...'
-tags: puzzle, rompecabezas
+tags: tole.es, puzzle, rompecabezas
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

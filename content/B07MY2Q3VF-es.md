@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MY2Q3VF-es Clementoni- Puzzle 3000 Piezas San Francisco Multicolor...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

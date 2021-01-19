@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793FBGLJ-es Educa - Minnie Happy Helpers Maleta Progresivos puzzle...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

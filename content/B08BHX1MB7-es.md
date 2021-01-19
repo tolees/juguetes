@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHX1MB7-es Colmanda Juguetes de Buceo 32 Piezas Juguete de Natación...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

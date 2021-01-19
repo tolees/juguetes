@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPD6BXX-es HoneyHolly Botella de Agua Deportes 800ml Sin Bpa &...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

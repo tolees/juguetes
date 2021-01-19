@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K71WFMW-es Hot Wheels - HW Auto-Lift Expressway Track Set y 5 DCC...'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

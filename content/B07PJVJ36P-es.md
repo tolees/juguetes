@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJVJ36P-es Splash Toys The Bellies Pinky-Twink 30280 Rosa'
-tags: the, bellies
+tags: tole.es, the, bellies
 actualPrice: 30.1 EUR
 currency: EUR
 price: 30.1

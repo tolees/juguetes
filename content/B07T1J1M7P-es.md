@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1J1M7P-es Viccess 24 Piezas Juguetes de Rompecabezas de Serpiente...'
-tags: juguetes, rompecabezas
+tags: tole.es, juguetes, rompecabezas
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

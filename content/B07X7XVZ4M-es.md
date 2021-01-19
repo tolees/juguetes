@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7XVZ4M-es L.O.L. Surprise Paleta De Maquillaje Infantil Extensible...'
-tags: l.o.l.
+tags: tole.es, l.o.l.
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

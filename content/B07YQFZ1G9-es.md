@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQFZ1G9-es Denver - Bicicleta Infantil de 14 Pulgadas diseño de...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BV2W7JQ-es Juguetes de baño para bebés Juguetes para bebés Baby...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

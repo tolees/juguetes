@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDY23CH-es LoveOlvidoE 1: 6 Mujer Mujer Soldado Simulación Stiletto...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IKOYXWS-es Cars 3- Coche Crazy Deluxe Ambulance Mattel DYB22'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

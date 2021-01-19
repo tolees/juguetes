@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792QR5QF-es LEGO Technic - Carretilla Elevadora de Alto Rendimiento...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

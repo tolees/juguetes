@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JA5U6LS-es Fisher-Price Coche Monstruito verde juguete gateo bebé +9...'
-tags: fisher-price, mattel
+tags: tole.es, fisher-price, mattel
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

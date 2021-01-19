@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SF26KC-es Pinypon - Casa de Hansel y Gretel Famosa 700014084'
-tags: famosa, pinypon
+tags: tole.es, famosa, pinypon
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

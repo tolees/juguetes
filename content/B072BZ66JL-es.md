@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BZ66JL-es Nintendo - Set De Dos Mandos Joy-Con Color Verde Neón /...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

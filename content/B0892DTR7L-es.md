@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892DTR7L-es Molyflower Los niños juegan Water Mat Juegos Beach Pad...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 18.28 EUR
 currency: EUR
 price: 18.28

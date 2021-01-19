@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGJXLJM-es Ravensburger-19747 7 Puzzle Disney Classic El Rey Ón...'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

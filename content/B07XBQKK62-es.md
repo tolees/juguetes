@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBQKK62-es Candado De Bicicleta [Reforzar La VersióN] [1.5m...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

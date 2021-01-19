@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXQLYL8-es Hasbro Marvel Spider-Man Titan Hero Power FX con Lanzador...'
-tags: hasbro
+tags: tole.es, hasbro
 actualPrice: 14.51 EUR
 currency: EUR
 price: 14.51

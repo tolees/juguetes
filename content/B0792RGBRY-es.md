@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792RGBRY-es LEGO Animales Fantásticos - Huida de Grindelwald Juguete...'
-tags: lego
+tags: tole.es, lego
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

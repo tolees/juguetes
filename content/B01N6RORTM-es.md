@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6RORTM-es Thule TH100090 Portabultos de Bicicleta Unisex Adulto...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 69.09 EUR
 currency: EUR
 price: 69.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MF4WRY-es Pinypon-700014032 Niños y Bebés Pack C Multicolor Famosa...'
-tags: famosa
+tags: tole.es, famosa
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

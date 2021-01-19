@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQYQY8Q-es Imaginext - Batcueva Mattel X7677'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 40.77 EUR
 currency: EUR
 price: 40.77

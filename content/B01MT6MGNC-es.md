@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT6MGNC-es Mega Bloks Bloquefante divertido. Jugete de construcción...'
-tags: mattel, mega, bloks
+tags: tole.es, mattel, mega, bloks
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

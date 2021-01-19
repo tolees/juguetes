@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AROO06I-es Mattel - DLH56 Shimmer and Shine Muñeca Shimmer con...'
-tags: mattel
+tags: tole.es, mattel
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

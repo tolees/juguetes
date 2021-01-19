@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSZ35SL-es jerryvon Dinosaurios Juguetes con Luces y Sonido...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

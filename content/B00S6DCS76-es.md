@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S6DCS76-es Sylvanian Families- Chocolate Rabbit Grandparents Mini...'
-tags: sylvanian, families
+tags: tole.es, sylvanian, families
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

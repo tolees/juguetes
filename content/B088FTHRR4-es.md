@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FTHRR4-es Wuyee Regalos de Madera Juguete de diseño Kendama Copa...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 2.76 EUR
 currency: EUR
 price: 2.76

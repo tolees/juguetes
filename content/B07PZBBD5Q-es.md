@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZBBD5Q-es EXCEED Piscina Inflable para bebés Flotador para niños...'
-tags: flotador
+tags: tole.es, flotador
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

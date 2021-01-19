@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QH6ZT4-es Forfar Deportes al Aire Libre Que completan un Ciclo la...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

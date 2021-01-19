@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKXLXDP-es Hengxin Maillot Ciclismo Corto De Verano para Hombre Ropa...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 33.43 EUR
 currency: EUR
 price: 33.43

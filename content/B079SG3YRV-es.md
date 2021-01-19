@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SG3YRV-es Pinypon- Instituto PINY Multicolor Famosa 700014353'
-tags: famosa, pinypon-
+tags: tole.es, famosa, pinypon-
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

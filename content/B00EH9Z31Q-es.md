@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EH9Z31Q-es Mantona Premium Biker - Bolsa fotográfica para Bicicleta...'
-tags: bicicleta
+tags: tole.es, bicicleta
 actualPrice: 52.35 EUR
 currency: EUR
 price: 52.35

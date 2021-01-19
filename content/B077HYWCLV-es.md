@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HYWCLV-es Mattel Phase 10 Juego de Cartas'
-tags: mattel, juego, de, cartas
+tags: tole.es, mattel, juego, de, cartas
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

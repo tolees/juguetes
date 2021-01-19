@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N37RSYT-es Educa Borrás- Adhesivo para Puzzle 17193'
-tags: puzzle
+tags: tole.es, puzzle
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

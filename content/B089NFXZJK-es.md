@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NFXZJK-es Toozey Juguetes para Perros Pequeños Ciervos - 7 Piezas de...'
-tags: juguetes
+tags: tole.es, juguetes
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
