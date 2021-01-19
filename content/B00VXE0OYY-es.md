@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GMeFPWdhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXE0OYY-es Moma Bikes Bicicleta Montaña  HIT 26"  SHIMANO 21V  Doble Freno Disco  Full Suspension'
+slug: 'B00VXE0OYY-es Moma Bikes Bicicleta Montaña HIT 26" SHIMANO 21V Doble...'
+tags: bicicleta
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Lj1OLo5JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JWFBNV4-es VTech -Little App Tableta educativa Infantil  Pantalla LCD a Color  Juguete para aprender en casa Contenido Especial para niños  enseña destrezas matemáticas  lingüísticas  Creativas y cognitivas Rosa'
+slug: 'B00JWFBNV4-es VTech -Little App Tableta educativa Infantil Pantalla LCD...'
+tags: vtech
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

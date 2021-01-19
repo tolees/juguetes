@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51brvgMuKvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018EI6Q4I-es Imaginext Batman  Batcueva transformable  Juguete para niño +3 años  Mattel DNF93 '
+slug: 'B018EI6Q4I-es Imaginext Batman Batcueva transformable Juguete para niño...'
+tags: mattel
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

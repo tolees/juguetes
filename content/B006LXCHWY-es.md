@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XDmaSHclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006LXCHWY-es Nenuco - Pañales de Colores  Famosa 700009027 '
+slug: 'B006LXCHWY-es Nenuco - Pañales de Colores Famosa 700009027'
+tags: famosa
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

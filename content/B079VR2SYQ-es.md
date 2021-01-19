@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51GN7gtJQqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VR2SYQ-es Artist Fabrica Monstruosa Slime  BIZAK 63317005 '
+slug: 'B079VR2SYQ-es Artist Fabrica Monstruosa Slime BIZAK 63317005'
+tags: bizak
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

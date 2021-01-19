@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51orXrsN2jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BRT46QS-es Colmanda Juguetes Bañera Bebés  16 Piezas Juguetes de Baño Flotantes con Bolsa de Almacenamiento  Juguetes de Baño Flotantes para Bebés Juguete Baño Bebe para Niños'
+slug: 'B08BRT46QS-es Colmanda Juguetes Bañera Bebés 16 Piezas Juguetes de Baño...'
+tags: juguetes
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

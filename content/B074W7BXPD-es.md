@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514HpoOL34L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074W7BXPD-es TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes Piscina Bebé Pescado Juguete en Caucho Blando Juego de Pesca para Juguetes Niños 18 Meses'
+slug: 'B074W7BXPD-es TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes...'
+tags: juguetes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

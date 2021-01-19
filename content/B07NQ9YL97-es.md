@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YvK7miKoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ9YL97-es Barbie National Geographic Quiero Ser Fotógrafa  muñeca con accesorios  Mattel GDM46 '
+slug: 'B07NQ9YL97-es Barbie National Geographic Quiero Ser Fotógrafa muñeca con...'
+tags: barbie, mattel
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

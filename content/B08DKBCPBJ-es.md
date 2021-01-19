@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413jsbfaAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKBCPBJ-es Ocobudbxw Memory Match Stick Chess Niños Niños Puzzle Educativo Brain Train Toy'
+slug: 'B08DKBCPBJ-es Ocobudbxw Memory Match Stick Chess Niños Niños Puzzle...'
+tags: puzzle
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

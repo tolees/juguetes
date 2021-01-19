@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zoacowNeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L952XPD-es SONARIN Lindo Príncipe Alfombras de juego Gimnasio de Actividades Baby Play Mat & Activity Gym con música juguetes para Actividades cama pequeña Colorido e interactivo Ideal Regalo Azul '
+slug: 'B07L952XPD-es SONARIN Lindo Príncipe Alfombras de juego Gimnasio de...'
+tags: juguetes
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nDYDn7OdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSV8Z2Z-es LEADSTAR Tangram Puzzle  Tangram Madera Shape Puzzle Set Rompecabezas Tangram de Madera Kids Educativos Juegos y Juguetes con 155 Piezas de Formas Geométricas y 24 Diseños'
+slug: 'B07WSV8Z2Z-es LEADSTAR Tangram Puzzle Tangram Madera Shape Puzzle Set...'
+tags: juguetes, puzzle, rompecabezas
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W0D35TmHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TJPJQC-es Divgdovg Bicicleta Estática para El Hogar Bicicleta de Spinning. Bicicleta Estática Vertical conPantalla LCD  Pulsómetro  Resistencia Variable  Altura Ajustable  Indoor  Volante de Inercia A'
+slug: 'B088TJPJQC-es Divgdovg Bicicleta Estática para El Hogar Bicicleta de...'
+tags: bicicleta
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

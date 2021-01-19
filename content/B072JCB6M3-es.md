@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4110Tzb2-vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JCB6M3-es Nenuco Hermanitos a la Pelu  Famosa 700013674 '
+slug: 'B072JCB6M3-es Nenuco Hermanitos a la Pelu Famosa 700013674'
+tags: famosa
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

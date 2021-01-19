@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wq-1piZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRTSDDH-es CAIDUD Juguetes para aliviar el estrés  Fun Memory Toy Descompresión Juguete Decoración Material Seguro Música Cute Plastic Toys'
+slug: 'B07XRTSDDH-es CAIDUD Juguetes para aliviar el estrés Fun Memory Toy...'
+tags: juguetes
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

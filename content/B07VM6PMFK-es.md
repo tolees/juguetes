@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KuBheebLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM6PMFK-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica 500ml  Botella Sin Bpa & Eco Friendly  Mantiene Bebidas frías por 24h y Calientes por 12h  Adecuada para Viaje  Deporte  Bicicleta  Gimnasio'
+slug: 'B07VM6PMFK-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica...'
+tags: bicicleta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

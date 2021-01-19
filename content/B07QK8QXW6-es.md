@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511BSYaU4iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK8QXW6-es L.O.L. Surprise!- L.O.L Lils Winter Disco Series con 5 sorpresas  Color Modelos Surtidos  0  MGA Entertainment UK LTD 560319 '
+slug: 'B07QK8QXW6-es L.O.L. Surprise!- L.O.L Lils Winter Disco Series con 5...'
+tags: l.o.l.
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

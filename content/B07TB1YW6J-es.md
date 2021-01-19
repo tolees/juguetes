@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fv5VJyxXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB1YW6J-es Marvel Legends - Iron Man Mark 50 y Iron Spider  Hasbro E6341E48 '
+slug: 'B07TB1YW6J-es Marvel Legends - Iron Man Mark 50 y Iron Spider Hasbro...'
+tags: hasbro
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510LK5ZOUIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC358ZD-es SKYSPER Manguitos Ciclismo Manga de Compresión Manguito para Brazo 1 Par Respirable Sudar Absorbente Protección Solar UPF 50+ UV para Ciclismo  Golf  Tenis  Senderismo  Baloncesto  Bicicleta'
+slug: 'B07DC358ZD-es SKYSPER Manguitos Ciclismo Manga de Compresión Manguito...'
+tags: bicicleta
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

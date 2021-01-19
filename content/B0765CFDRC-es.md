@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61oHG7CgDlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CFDRC-es LEGO Friends - Cafetería de Pilotos  Juguete con Mini Muñecas y Kart para Crear y Construir Divertidas Carreras y Aventuras con Andrea y Pepper para Niñas y Niños de 6 a 12 Años  41349 '
+slug: 'B0765CFDRC-es LEGO Friends - Cafetería de Pilotos Juguete con Mini...'
+tags: lego
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

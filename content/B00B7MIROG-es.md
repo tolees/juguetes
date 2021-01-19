@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6141ss5cANL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B7MIROG-es Educa Borras - Serie Marvel  Puzzle 500 piezas Héroes Marvel  15560 '
+slug: 'B00B7MIROG-es Educa Borras - Serie Marvel Puzzle 500 piezas Héroes...'
+tags: puzzle
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

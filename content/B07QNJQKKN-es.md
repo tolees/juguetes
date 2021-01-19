@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3135UQvp6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNJQKKN-es Mejores Regalos para Niños de 5 a 15 Años de Edad  Top Toy Foam Pogo Jumper Stick para Niños de 5 a 15 Años de Edad en Adelante Adultos de hasta 250 LB Juguetes para Niños Adolescentes Rosa TTFPJ03'
+slug: 'B07QNJQKKN-es Mejores Regalos para Niños de 5 a 15 Años de Edad Top Toy...'
+tags: juguetes
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

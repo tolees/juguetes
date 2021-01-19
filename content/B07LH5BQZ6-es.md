@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/614YHIn8sEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH5BQZ6-es Transformers- Cyberverse Spark Armor Megatron  Multicolor  Hasbro E4327ES0 '
+slug: 'B07LH5BQZ6-es Transformers- Cyberverse Spark Armor Megatron Multicolor...'
+tags: hasbro
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

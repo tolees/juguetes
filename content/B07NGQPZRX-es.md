@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HylqZ40YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGQPZRX-es MUNDO PETIT -Chaleco Flotador de Ayuda a la flotabilidad Aprendizaje de la natación  Ideal para niños de 9 a 18 kg  Famencos '
+slug: 'B07NGQPZRX-es MUNDO PETIT -Chaleco Flotador de Ayuda a la flotabilidad...'
+tags: flotador
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

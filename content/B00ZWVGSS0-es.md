@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513buIO-5PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZWVGSS0-es Warner Bros Interactive Spain  VG  Lego Dimensions - The Simpsons - Bart Fun Pack [Importación Inglesa]'
+slug: 'B00ZWVGSS0-es Warner Bros Interactive Spain VG Lego Dimensions - The...'
+tags: lego
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

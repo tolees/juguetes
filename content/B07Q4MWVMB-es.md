@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZqKoMBwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4MWVMB-es Ubitree DIY Varita de Burbujas Gigante Pompas de jabón Palos Pompa Gigantes Barras Extensibles Metálicas Grandes Pompas Maquina Burbuja Juguetes para niños Verano al Aire Libre Parque Entretenimiento'
+slug: 'B07Q4MWVMB-es Ubitree DIY Varita de Burbujas Gigante Pompas de jabón...'
+tags: juguetes
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

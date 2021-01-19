@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61NSKMiyK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJTRZXZ-es PITAYA Juguetes de Halloween Suministros para Juguetes de Fiesta de Halloween  Bolsa de Regalo de Juguete de Halloween Trick or Treat'
+slug: 'B07XJTRZXZ-es PITAYA Juguetes de Halloween Suministros para Juguetes de...'
+tags: juguetes
 actualPrice: 5.36 EUR
 currency: EUR
 price: 5.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NOs+MMnbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DD9PX4W-es HOMCOM Alfombra Puzle 2.41㎡ Niños 26 Letras Goma Espuma Estera Juego Puzzle'
+slug: 'B01DD9PX4W-es HOMCOM Alfombra Puzle 2.41㎡ Niños 26 Letras Goma Espuma...'
+tags: puzzle
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

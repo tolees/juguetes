@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414C9tq6EDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KKK73G-es ROXENDA Velocidad Paquete  Cubo Mágico Puzzle Pack-2x2x2 3x3x3  Super-Durable Vivos  Fácil de Tornear y Liso Jugar  Color 2x2&3x3 Set Speed Cube 23'
+slug: 'B076KKK73G-es ROXENDA Velocidad Paquete Cubo Mágico Puzzle Pack-2x2x2...'
+tags: puzzle
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

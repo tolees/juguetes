@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+RLlgeSzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001RB1VQI-es Clementoni - Puzzle de 3000 Piezas  diseño Mapa Antiguo  33531.2 '
+slug: 'B001RB1VQI-es Clementoni - Puzzle de 3000 Piezas diseño Mapa Antiguo...'
+tags: clementoni, puzzle
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

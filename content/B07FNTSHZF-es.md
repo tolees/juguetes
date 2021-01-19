@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uL+r0aoQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTSHZF-es LEGO Friends - Cafetería Cupcake de Olivia Juguete Creativo de Construcción con Detalles para Crear tu Propia Pastelería  41366 '
+slug: 'B07FNTSHZF-es LEGO Friends - Cafetería Cupcake de Olivia Juguete...'
+tags: lego
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

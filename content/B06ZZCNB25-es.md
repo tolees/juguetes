@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IhXSBJ4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZCNB25-es Reloj modificable infantil con figurita de BB-8 de LEGO Star Wars 8020929'
+slug: 'B06ZZCNB25-es Reloj modificable infantil con figurita de BB-8 de LEGO...'
+tags: lego
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

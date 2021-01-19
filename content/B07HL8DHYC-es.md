@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lmKeZHnGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL8DHYC-es Promise Babe 3pc Colgante Mordedor de Silicona Juguetes para la Dentición del Bebé Accesorio de Dentición Helado Perro Hipopótamo Animal Coloridos Granos de Masticación'
+slug: 'B07HL8DHYC-es Promise Babe 3pc Colgante Mordedor de Silicona Juguetes...'
+tags: juguetes
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

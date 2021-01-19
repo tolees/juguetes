@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519UrWjvNJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711KXCJW-es Rolimate Puzzles de Madera 10 Números Preescolar Desarrollo Educativo Juguete  Regalo de Cumpleaños para 1 2 3+ Años Niño Niña  Montessori Habilidad Motora Fina Juego Juguetes para Niños'
+slug: 'B0711KXCJW-es Rolimate Puzzles de Madera 10 Números Preescolar...'
+tags: juguetes
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

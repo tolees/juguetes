@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51inCfO2HdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZYOFAY-es Nerf - Lanzadardos Mega Mastodon  Hasbro B8086EU4 '
+slug: 'B01CZYOFAY-es Nerf - Lanzadardos Mega Mastodon Hasbro B8086EU4'
+tags: hasbro, nerf
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

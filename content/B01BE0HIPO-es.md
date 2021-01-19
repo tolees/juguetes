@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410aufnNigL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BE0HIPO-es Sylvanian Families-5227 Coche descapotable  Color Rojo  Epoch para Imaginar 5227 '
+slug: 'B01BE0HIPO-es Sylvanian Families-5227 Coche descapotable Color Rojo...'
+tags: sylvanian, families
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

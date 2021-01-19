@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PAdM-2luL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV2CNPG-es Potato Head - Potato Train  Hasbro E5853EU5 '
+slug: 'B07MV2CNPG-es Potato Head - Potato Train Hasbro E5853EU5'
+tags: hasbro
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

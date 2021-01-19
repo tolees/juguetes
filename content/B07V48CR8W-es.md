@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GVZJ2BvTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V48CR8W-es Bluefin Fitness Bicicleta de Spinning Tour SPIN | Kinomap | Video Coaching y Entrenamiento | Bluetooth | App Smartphone/Negra y Plata'
+slug: 'B07V48CR8W-es Bluefin Fitness Bicicleta de Spinning Tour SPIN | Kinomap...'
+tags: bicicleta
 actualPrice: 363.69 EUR
 currency: EUR
 price: 363.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SmvQcsOdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075T1Q2WH-es LEGO Friends Heartlake - Casa de la Amistad  Juguete de Construcción de Casa de Muñecas con Olivia  Emma  Andrea para Juegos Creativos  41340 '
+slug: 'B075T1Q2WH-es LEGO Friends Heartlake - Casa de la Amistad Juguete de...'
+tags: lego
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

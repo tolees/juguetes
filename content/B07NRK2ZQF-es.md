@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fHzeN3OsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRK2ZQF-es Gifort Pompons  Pompones de Colores  Pompones de Pompon  Pelotas de Peluche mullidas para Divertidas Manualidades Creativas. 1200pcs- 1-1.5cm'
+slug: 'B07NRK2ZQF-es Gifort Pompons Pompones de Colores Pompones de Pompon...'
+tags: peluche
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zBbeIyMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D8CPQXC-es Shimano CN-HG701-11 - Cadena para bicicleta Estrecha 11 velocidades XT tegra 116  Gris'
+slug: 'B01D8CPQXC-es Shimano CN-HG701-11 - Cadena para bicicleta Estrecha 11...'
+tags: bicicleta
 actualPrice: 29.51 EUR
 currency: EUR
 price: 29.51

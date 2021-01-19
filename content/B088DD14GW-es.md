@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/611P-y4es+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088DD14GW-es Juguetes Regalos para Niños Niña Edad 3 4 5  Flores Juguetes Set para Niños de 3-7 Años Regalo de Cumpleaños para Niñas 4 5 6 7 8 Años Niños Manualidades Educativas Jardín de Construcción Juguetes'
+slug: 'B088DD14GW-es Juguetes Regalos para Niños Niña Edad 3 4 5 Flores...'
+tags: juguetes
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61fPNP6h9SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MCJQDM-es Hasbro Gaming- Disney Desafio Musical  E1872105 '
+slug: 'B079MCJQDM-es Hasbro Gaming- Disney Desafio Musical E1872105'
+tags: hasbro
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

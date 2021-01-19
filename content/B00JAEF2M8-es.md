@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dMFnUC6BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JAEF2M8-es Michelin AIRSTOP CARRETERA - Camara de bicicleta 700 x 18-25C  presta v.80mm'
+slug: 'B00JAEF2M8-es Michelin AIRSTOP CARRETERA - Camara de bicicleta 700 x...'
+tags: bicicleta
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

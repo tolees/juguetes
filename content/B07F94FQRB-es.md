@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414aNRE1FpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F94FQRB-es Peak Design Anchor Links Conectores Correa AL-4 - Anclaje para Bicicleta  Color Amarillo'
+slug: 'B07F94FQRB-es Peak Design Anchor Links Conectores Correa AL-4 - Anclaje...'
+tags: bicicleta
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

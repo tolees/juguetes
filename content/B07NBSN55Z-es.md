@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZTUdBQTNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBSN55Z-es Famosa- Pinypon Muñeca coleccionable Emoji  Multicolor  700014721    color/modelo surtido'
+slug: 'B07NBSN55Z-es Famosa- Pinypon Muñeca coleccionable Emoji Multicolor...'
+tags: pinypon
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

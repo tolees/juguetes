@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G7Bx7V6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087F9W3MG-es N/ A 1 Juego de Tablero de Dardos de Seguridad Juguetes Práctica Objetivo Bola Pegajosa Juguete Accesorios de Juego de Fiesta Interactivos  30 Cm 4 Piezas de Bola Adhesiva Y 4 Piezas de Dardos '
+slug: 'B087F9W3MG-es N/ A 1 Juego de Tablero de Dardos de Seguridad Juguetes...'
+tags: juguetes
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

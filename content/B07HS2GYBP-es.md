@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yU+K20hHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HS2GYBP-es Plastimyr Peppa Pig - Orinal  unisex  color gris claro'
+slug: 'B07HS2GYBP-es Plastimyr Peppa Pig - Orinal unisex color gris claro'
+tags: peppa, pig
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

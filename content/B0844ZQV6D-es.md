@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wzsPiS25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0844ZQV6D-es SuperZings Serie 5 – Fire Strike Mission 5 y Pack Sorpresa con 16 Sets | Contiene Blíster Fire Strike  10 Sobres One Pack  4 Aerowagons y 2 Skyracers | Juguetes y Regalos para Niños'
+slug: 'B0844ZQV6D-es SuperZings Serie 5 – Fire Strike Mission 5 y Pack Sorpresa...'
+tags: juguetes, superzings
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

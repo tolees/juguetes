@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515C2IIakkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5JGZTT-es Moma Bikes Bicicleta Infantil  Montaña  GTT24"  Alu  SHIMANO 21V. Doble Freno Disco  Susp. Delant.'
+slug: 'B01M5JGZTT-es Moma Bikes Bicicleta Infantil Montaña GTT24" Alu SHIMANO...'
+tags: bicicleta
 actualPrice: 238.9 EUR
 currency: EUR
 price: 238.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61FgG6nnrKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J41F4CE-es LEGO Super Heroes - Harley Quinn al Rescate  41231 '
+slug: 'B01J41F4CE-es LEGO Super Heroes - Harley Quinn al Rescate 41231'
+tags: lego
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zqWgirriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZWW74J2-es KollyKolla Botella de Agua Acero Inoxidable  Termo Sin BPA Ecológica  Botellas Termica Reutilizable Frascos Térmicos para Niños & Adultos  Deporte  Oficina   350ml Violeta Claro + Barbie Rosa '
+slug: 'B07ZWW74J2-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
+tags: barbie
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

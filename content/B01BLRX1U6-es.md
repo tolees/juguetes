@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nbXIfXvWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLRX1U6-es Clementoni-39334 Los Pingüinos De Madagascar Puzzle 1000 Piezas El Faro  39334.3 '
+slug: 'B01BLRX1U6-es Clementoni-39334 Los Pingüinos De Madagascar Puzzle 1000...'
+tags: puzzle
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

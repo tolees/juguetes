@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c7RGdS1xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GB5JWC4-es Hot Wheels Monster Trucks Vehículo Bone Shaker 1:24  coches de juguetes niños +3 años  Mattel GCX15 '
+slug: 'B07GB5JWC4-es Hot Wheels Monster Trucks Vehículo Bone Shaker 1:24 coches...'
+tags: juguetes, mattel
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

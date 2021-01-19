@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EagkTgLRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYSFQYV-es Star Wars Mascara electrónica Kylo REN  Multicolor  Hasbro C1428EU4 '
+slug: 'B06XYSFQYV-es Star Wars Mascara electrónica Kylo REN Multicolor Hasbro...'
+tags: hasbro
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

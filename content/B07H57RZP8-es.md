@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qyn1T92jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H57RZP8-es X-TIGER Hombres de Bicicleta Manga Corta Maillots con 5D Acolchado Gel MTB Ciclismo Pantalones Cortos  Rojo M '
+slug: 'B07H57RZP8-es X-TIGER Hombres de Bicicleta Manga Corta Maillots con 5D...'
+tags: bicicleta
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pmn-Psd6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCWMYQF-es Luz trasera impermeable para bicicleta  ajuste constante  potente'
+slug: 'B01NCWMYQF-es Luz trasera impermeable para bicicleta ajuste constante...'
+tags: bicicleta
 actualPrice: 1.14 EUR
 currency: EUR
 price: 1.14

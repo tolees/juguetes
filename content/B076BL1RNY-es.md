@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bv2T9IyOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para Pandora y pulseras – plata de ley 925 – Parte tamaño: 13 mm x 12 mm – caja de regalo libre – la rosa y plateado compañía – rs0600'
+slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para...'
+tags: peluche
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

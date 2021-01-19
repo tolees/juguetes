@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CiY8Zq21L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WNYGYG-es Playkin FASTER - Moto electrica niños bateria 6V recargable con luces y musica +3 años juguetes infantiles triciclo correpasillos'
+slug: 'B082WNYGYG-es Playkin FASTER - Moto electrica niños bateria 6V...'
+tags: juguetes
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

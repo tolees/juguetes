@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oYfftFzhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012WX0VTW-es LOMOS caja para juguetes con diferentes motivos colorido y mucho espacio para almacenar  37x 30x 26cm '
+slug: 'B012WX0VTW-es LOMOS caja para juguetes con diferentes motivos colorido y...'
+tags: juguetes
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

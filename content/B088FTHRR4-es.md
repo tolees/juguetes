@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OzDqFyp3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FTHRR4-es Wuyee Regalos de Madera Juguete de diseño Kendama Copa Juego para niños Juguetes Hechos a Mano de la Bola de Captura de Habilidad'
+slug: 'B088FTHRR4-es Wuyee Regalos de Madera Juguete de diseño Kendama Copa...'
+tags: juguetes
 actualPrice: 2.76 EUR
 currency: EUR
 price: 2.76

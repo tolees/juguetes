@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HaUMjI3QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX1W94X-es Ravensburger - Puzzle 3D Olaf Frozen 2   11157 '
+slug: 'B07RX1W94X-es Ravensburger - Puzzle 3D Olaf Frozen 2 11157'
+tags: puzzle, ravensburger
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

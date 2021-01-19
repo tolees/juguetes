@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMN4NJX-es L.O.L. Surprise! 561828 L.O.L. Sorpresa'
+tags: l.o.l.
 actualPrice: 49.46 EUR
 currency: EUR
 price: 49.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aZB1yPjhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019DAUVTW-es Star Wars- Rogue One Rebels BladeBuilders Kanan Jarrus-Sable láser Extensible  Multicolor  Talla única  Hasbro B7245AS0 '
+slug: 'B019DAUVTW-es Star Wars- Rogue One Rebels BladeBuilders Kanan Jarrus-...'
+tags: hasbro
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

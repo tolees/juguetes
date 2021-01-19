@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61I+SvM8clL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XK74BJD-es Longruner Abalorios Cuentas de Hierro fusibles 12000 PCS Beads 24 Colores 3 Pegboard+50 Imagine Fuse Beads para Niños Pared pixelado en Juguetes Educativos Cuentas de Artesanía LA26'
+slug: 'B07XK74BJD-es Longruner Abalorios Cuentas de Hierro fusibles 12000 PCS...'
+tags: juguetes
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

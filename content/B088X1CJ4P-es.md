@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PGDa16SAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088X1CJ4P-es Lixada Casco de Bicicleta de Montaña Casco de Motociclismo con Visera Magnética Desmontable Ligero Protector UV Unisexo'
+slug: 'B088X1CJ4P-es Lixada Casco de Bicicleta de Montaña Casco de Motociclismo...'
+tags: bicicleta
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

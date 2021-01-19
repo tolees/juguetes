@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pjj+qDYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0839RC3DC-es Pinypon Action - Segway vehículo de policía con 1 Figura  para niños y niñas a Partir de 4 a 8 años   Famosa 700015693 '
+slug: 'B0839RC3DC-es Pinypon Action - Segway vehículo de policía con 1 Figura...'
+tags: famosa, pinypon
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

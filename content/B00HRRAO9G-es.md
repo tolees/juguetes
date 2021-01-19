@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512azqT2ouL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRAO9G-es SYLVANIAN FAMILIES Familia Perros Chihuahua  Epoch para Imaginar 4387 '
+slug: 'B00HRRAO9G-es SYLVANIAN FAMILIES Familia Perros Chihuahua Epoch para...'
+tags: sylvanian, families
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

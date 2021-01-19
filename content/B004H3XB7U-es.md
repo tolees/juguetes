@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X2JayT2hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004H3XB7U-es Intex 56585EU - Flotador hinchable bebé 70 cm circular de 6 a 12 meses'
+slug: 'B004H3XB7U-es Intex 56585EU - Flotador hinchable bebé 70 cm circular de...'
+tags: flotador
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

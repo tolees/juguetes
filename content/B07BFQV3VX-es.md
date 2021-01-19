@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VCljpZWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFQV3VX-es The Bellies - Belliekit Set de cuidados  Famosa 700014343 '
+slug: 'B07BFQV3VX-es The Bellies - Belliekit Set de cuidados Famosa 700014343'
+tags: famosa, the, bellies
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

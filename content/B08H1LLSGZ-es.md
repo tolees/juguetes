@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TnuXDp+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H1LLSGZ-es Panamar Juguetes de baño Luz de Agua en Aerosol Girar con Ducha Piscina Juguetes para niños para niños Fiesta de natación Baño Luz Juguetes-Rojo'
+slug: 'B08H1LLSGZ-es Panamar Juguetes de baño Luz de Agua en Aerosol Girar con...'
+tags: juguetes
 actualPrice: 5.78 EUR
 currency: EUR
 price: 5.78

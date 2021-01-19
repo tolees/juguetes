@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oT9WqrcNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBBBMKY-es LEGO Overwatch - Batalla Final en Dorado  Juguete de Construcción Basado en el Videojuego  Incluye Minifiguras de  Soldado 76  Reaper y McCree  75972 '
+slug: 'B07JBBBMKY-es LEGO Overwatch - Batalla Final en Dorado Juguete de...'
+tags: lego
 actualPrice: 20.78 EUR
 currency: EUR
 price: 20.78

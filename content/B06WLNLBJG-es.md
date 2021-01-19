@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bhw042OAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WLNLBJG-es Star Wars 8 Deluxe Delta 1  Multicolor  Hasbro C1439EU4 '
+slug: 'B06WLNLBJG-es Star Wars 8 Deluxe Delta 1 Multicolor Hasbro C1439EU4'
+tags: hasbro
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

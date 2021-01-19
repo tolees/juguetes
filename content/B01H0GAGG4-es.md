@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519F1L1MICL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0GAGG4-es Warner Bros Interactive Spain Lego Dimensions: Nuevo Ghostbuster  Story Pack '
+slug: 'B01H0GAGG4-es Warner Bros Interactive Spain Lego Dimensions: Nuevo...'
+tags: lego
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

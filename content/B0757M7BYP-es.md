@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zEDXHWFZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757M7BYP-es Devir - Carcassonne: La Torre  juego de mesa  BGCARTO '
+slug: 'B0757M7BYP-es Devir - Carcassonne: La Torre juego de mesa BGCARTO'
+tags: devir
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51bFYL9QE7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Y3KWHX-es Lego Star Wars - Bañador para niño - Lego Star Wars - 8 - 9 Años'
+slug: 'B079Y3KWHX-es Lego Star Wars - Bañador para niño - Lego Star Wars - 8 -...'
+tags: lego
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

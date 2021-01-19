@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TtPF3spZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IFHV616-es Star Wars - Juego de Habilidad Operación  Hasbro '
+slug: 'B01IFHV616-es Star Wars - Juego de Habilidad Operación Hasbro'
+tags: hasbro
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

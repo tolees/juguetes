@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cP9TyejPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JSYGWD-es Mebber - Soporte para Tablet de Bicicleta  portátil  para Coche  Tablet  para Interior o Gimnasio  Spinning  Bicicleta de Ejercicio para iPad  Soporte Giratorio de 360° para tabletas de 7-12 Pulgadas'
+slug: 'B083JSYGWD-es Mebber - Soporte para Tablet de Bicicleta portátil para...'
+tags: bicicleta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

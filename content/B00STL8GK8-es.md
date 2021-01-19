@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sUGzk2VsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00STL8GK8-es Furreal Friends - Peluche interactivo JJ  Mi Perrito Saltarín  Hasbro B0449EU4 '
+slug: 'B00STL8GK8-es Furreal Friends - Peluche interactivo JJ Mi Perrito...'
+tags: hasbro, peluche
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

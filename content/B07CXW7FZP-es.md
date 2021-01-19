@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MaFnkK5jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXW7FZP-es Zerodis Juguetes de Aprendizaje Clasificación del Conocimiento Bloques de Cajas de Madera para Niños Educación Preescolar Matemáticas Educación Temprana'
+slug: 'B07CXW7FZP-es Zerodis Juguetes de Aprendizaje Clasificación del...'
+tags: juguetes
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

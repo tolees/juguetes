@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y-bPER2IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRB8GRG-es Soporte para Bicicleta  Soporte de extensión de vástago de Bicicleta Impermeable para Bicicleta Gub  velocímetro para computadora Rojo '
+slug: 'B07HRB8GRG-es Soporte para Bicicleta Soporte de extensión de vástago de...'
+tags: bicicleta
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HQehM0C-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036ZBPUK-es FEBER - Triciclo Ferrari  Famosa 800005840 '
+slug: 'B0036ZBPUK-es FEBER - Triciclo Ferrari Famosa 800005840'
+tags: famosa, feber
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ra+ZSXxrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWTWBFK-es Zerodis- Merry-Go-Round de Madera  Control de Voz Merry-Go-Round de Madera Rompecabezas 3D Puzzle de Madera Arquitectura Modelo Juguete Ciencia Experimento Juguete Educativo para niños'
+slug: 'B07QWTWBFK-es Zerodis- Merry-Go-Round de Madera Control de Voz Merry-Go-...'
+tags: puzzle, rompecabezas
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

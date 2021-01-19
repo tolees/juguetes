@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RGfCEYlfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3MHQZN-es Puzzle 3D Estadio Rompecabezas Diy 3d Juego Puzzle Fútbol Juguetes Wanda-Metropolitano 3D Puzzle JTIH® Multi Coloured'
+slug: 'B07Q3MHQZN-es Puzzle 3D Estadio Rompecabezas Diy 3d Juego Puzzle Fútbol...'
+tags: juguetes, puzzle, rompecabezas
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

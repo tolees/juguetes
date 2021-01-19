@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p8YY1jzoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRCXGI-es EPOCH Girl S Room Set Sylvanian Families Mini muñecas y Accesorios  Multicolor  2953    Modelos/colores Surtidos  1 Unidad'
+slug: 'B00HRRCXGI-es EPOCH Girl S Room Set Sylvanian Families Mini muñecas y...'
+tags: sylvanian, families
 actualPrice: 22.24 EUR
 currency: EUR
 price: 22.24

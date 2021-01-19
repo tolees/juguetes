@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51La2+ciVpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LN84OPA-es Ravensburger Disney Frozen Mini Memory Juego de emparejar Cartas - Juegos de Cartas  3 año s   Juego de emparejar Cartas  Niño/niña  150 mm  40 mm  150 mm '
+slug: 'B00LN84OPA-es Ravensburger Disney Frozen Mini Memory Juego de emparejar...'
+tags: ravensburger
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fbWBVbcUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SHB7G4-es Maquillaje Niñas Juguetes Niños con Contraseña Correa Maletin Juguetes Educativos Infantil Regalo para Niñas Niños3 4 5 6 7 8 Años'
+slug: 'B089SHB7G4-es Maquillaje Niñas Juguetes Niños con Contraseña Correa...'
+tags: juguetes
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

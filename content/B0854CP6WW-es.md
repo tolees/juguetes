@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p1i8CCmbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854CP6WW-es BBLIKE Juguetes para el Baño  2 Piezas Red de Baño Almacenamiento Bolsa de Juguete con 36 Piezas de Letras y números + 6 Piezas Ganchos Adhesivos + 8 Juguetes de Sonido'
+slug: 'B0854CP6WW-es BBLIKE Juguetes para el Baño 2 Piezas Red de Baño...'
+tags: juguetes
 actualPrice: 12.63 EUR
 currency: EUR
 price: 12.63

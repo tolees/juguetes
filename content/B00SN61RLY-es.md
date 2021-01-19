@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VimfnWR-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SN61RLY-es Barbie - Princess Power y la Varita mágica de Color  Markwins 9521310 '
+slug: 'B00SN61RLY-es Barbie - Princess Power y la Varita mágica de Color...'
+tags: barbie
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

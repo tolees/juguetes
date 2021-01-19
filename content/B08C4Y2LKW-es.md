@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ru0-NHOEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4Y2LKW-es Diy Cuentas hechas a mano Juguetes con accesorios Set Kids Creative 24 Grid Girl Jewelry Toy Juguete educativo Regalo para niños - Multicolor'
+slug: 'B08C4Y2LKW-es Diy Cuentas hechas a mano Juguetes con accesorios Set Kids...'
+tags: juguetes
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

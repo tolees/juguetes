@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6144fnFfF+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0861QHZVP-es Magicfun Flotado de Natación para Bebé con Asiento Anill  Inflable de Barca de Piscina para Niños   Flotador de Natación bebé Juguetes para Niños Pequeños 3-48 Meses（Talla Grande）'
+slug: 'B0861QHZVP-es Magicfun Flotado de Natación para Bebé con Asiento Anill...'
+tags: flotador, juguetes
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

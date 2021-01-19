@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61QcJBePePL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084MLVP73-es Educa Borras - Genuine Puzzles  Puzzle 4.000 piezas  Librería vintage  18582 '
+slug: 'B084MLVP73-es Educa Borras - Genuine Puzzles Puzzle 4.000 piezas...'
+tags: puzzle
 actualPrice: 37.4 EUR
 currency: EUR
 price: 37.4

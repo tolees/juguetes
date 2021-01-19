@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512WemsoNKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMC8K4Q-es LEADSTAR Montessori Activity Wooden Toy  Cordón Madera Juguetes Educativos  Aprendizaje Temprano Bloque Rompecabezas de Bebe  Juegos de Roscar Regalo para Niños Niñas  Relajantes Toys de Viaje - Piña'
+slug: 'B07XMC8K4Q-es LEADSTAR Montessori Activity Wooden Toy Cordón Madera...'
+tags: juguetes, rompecabezas
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

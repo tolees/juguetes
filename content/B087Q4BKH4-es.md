@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GeSnZ4d7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087Q4BKH4-es BeebeeRun Juguetes Maquillaje Niñas  Juguetes para Chicas  Juegos de Imitación  Juguetes de Belleza para Niños con Bolsa de cosméticos y Accesorios  Juguetes Educativos Regalo para niños 3 años+'
+slug: 'B087Q4BKH4-es BeebeeRun Juguetes Maquillaje Niñas Juguetes para Chicas...'
+tags: juguetes
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

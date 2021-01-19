@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lazgOWB3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084KJ1JBT-es Panamami Nuevos Juguetes Inteligentes para Juegos Los Juguetes educativos tridimensionales de Cuatro Juegos Cuatro ajedrez y Cinco Juegos de Mesa para niños - Azul'
+slug: 'B084KJ1JBT-es Panamami Nuevos Juguetes Inteligentes para Juegos Los...'
+tags: juguetes
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

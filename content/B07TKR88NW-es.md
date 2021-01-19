@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513dHOYjM8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKR88NW-es Cinta de la motocicleta Etiqueta de la decoración Rueda de la motocicleta Calcomanía reflectante Tela a rayas de alta temperatura y agua Resistan para 16-19 pulgadas Bicicleta de coche 蓝色 '
+slug: 'B07TKR88NW-es Cinta de la motocicleta Etiqueta de la decoración Rueda de...'
+tags: bicicleta
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

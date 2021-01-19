@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FKUPbd0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WMFNC2-es YIMINYUER Esterilla Puzzle de Fitness 30x30x1cm Suelo de Gimnasio de Goma Espuma EVA Azul R07G301020'
+slug: 'B084WMFNC2-es YIMINYUER Esterilla Puzzle de Fitness 30x30x1cm Suelo de...'
+tags: puzzle
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515R6vbgIkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8WC4BS-es Hot Wheels Supergaraje  Garaje para Coches de Juguete  multicolor Mattel GWT34   color/modelo surtido'
+slug: 'B07B8WC4BS-es Hot Wheels Supergaraje Garaje para Coches de Juguete...'
+tags: mattel
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

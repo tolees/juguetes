@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iTAxdXyiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B5NJU92-es Clementoni - Puzzle 1500 Piezas Caballos  31676 '
+slug: 'B01B5NJU92-es Clementoni - Puzzle 1500 Piezas Caballos 31676'
+tags: clementoni, puzzle
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

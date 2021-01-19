@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bE1lINDyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKY4F88-es Hasbro accion Marvel Figura con vehículo Deadpool  Multicolor  E4702CB0 '
+slug: 'B07NKY4F88-es Hasbro accion Marvel Figura con vehículo Deadpool...'
+tags: hasbro
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

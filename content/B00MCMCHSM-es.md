@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I4J2V1PqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MCMCHSM-es T.Y 37132 - Peluche  10.3 cm  TY37132  - Peluche Frizzy Azul  15 cm   Juguete Peluche A partir de 4 años A partir de 6 años'
+slug: 'B00MCMCHSM-es T.Y 37132 - Peluche 10.3 cm TY37132 - Peluche Frizzy Azul...'
+tags: peluche
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

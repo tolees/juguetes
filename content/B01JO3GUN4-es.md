@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517dmpI4zmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JO3GUN4-es Juguetes de Mesa Diversión Familiar Mini Baloncesto Disparar los Dedos Niños'
+slug: 'B01JO3GUN4-es Juguetes de Mesa Diversión Familiar Mini Baloncesto...'
+tags: juguetes
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

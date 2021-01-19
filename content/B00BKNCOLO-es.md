@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ScUV3tSWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKNCOLO-es Geomag- Classic Glitter Construcciones magnéticas y Juegos educativos  Multicolor  44 Piezas  532 '
+slug: 'B00BKNCOLO-es Geomag- Classic Glitter Construcciones magnéticas y Juegos...'
+tags: geomag-
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

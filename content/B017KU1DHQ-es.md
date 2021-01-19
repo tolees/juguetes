@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414es4m8I2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017KU1DHQ-es CO2 inflador por PRO – Herramienta de bicicleta rápido y fácil – Válvula presta y schrader Compatible – Bomba para neumáticos de bicicleta para carretera y bicicletas de montaña – Cartuchos de CO2 de metal recipiente de almacenamiento – No Incluido'
+slug: 'B017KU1DHQ-es CO2 inflador por PRO – Herramienta de bicicleta rápido y...'
+tags: bicicleta
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

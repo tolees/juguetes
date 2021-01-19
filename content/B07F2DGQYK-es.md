@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Mu5vuL59L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2DGQYK-es UGI Cámara de acción 480P Cámara Deportiva Impermeable 140 Grados Lente Ultra Gran Angular con Accesorios de Montaje Kits para Snorkel Motocicleta Bicicleta automóvil esquí y Deportes acuáticos'
+slug: 'B07F2DGQYK-es UGI Cámara de acción 480P Cámara Deportiva Impermeable 140...'
+tags: bicicleta
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-2lI4CzRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8HGJY9-es Avengers Titan Hero Movie Ronin  Hasbro E3922ES0 '
+slug: 'B07M8HGJY9-es Avengers Titan Hero Movie Ronin Hasbro E3922ES0'
+tags: hasbro
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

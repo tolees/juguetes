@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dxespVkZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YCQW0II-es VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos  Color Negro/Amarillo  28.7 x 20.1 x 8.1  3480-170722 '
+slug: 'B00YCQW0II-es VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos Color...'
+tags: vtech-
 actualPrice: 54.08 EUR
 currency: EUR
 price: 54.08

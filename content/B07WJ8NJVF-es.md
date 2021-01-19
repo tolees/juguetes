@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oxosKe7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJ8NJVF-es lenbest 118 Piezas Puzzles de Madera Magnético  Magnética Rompecabezas Madera para Niños 3 4 5 Años  Tablero de Dibujo Magnético de Doble Cara con 3 Fondo  Incluido un Rompecabeza de Escena Navideña'
+slug: 'B07WJ8NJVF-es lenbest 118 Piezas Puzzles de Madera Magnético Magnética...'
+tags: rompecabezas
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

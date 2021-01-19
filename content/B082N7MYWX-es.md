@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J9-8cWrgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082N7MYWX-es Mattel Games UNO: Rick and Morty - Juego de cartas  multicolor  GPN29 '
+slug: 'B082N7MYWX-es Mattel Games UNO: Rick and Morty - Juego de cartas...'
+tags: mattel, juego, de, cartas
 actualPrice: 9.02 EUR
 currency: EUR
 price: 9.02

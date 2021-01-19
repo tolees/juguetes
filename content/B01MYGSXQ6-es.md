@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VMg7p5fzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYGSXQ6-es Nancy - Un día de lluvia  Muñeca con chubasquero  paraguas y botas de agua  Famosa 700013517 '
+slug: 'B01MYGSXQ6-es Nancy - Un día de lluvia Muñeca con chubasquero paraguas y...'
+tags: famosa, nancy
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GrCESk7qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDL5PJK-es HoneyHolly Botella de Agua Deporte 400ml/500ml/700ml/1l  sin bpa tritan plastico  Reutilizables a Prueba de Fugas Botellas Potable con Filtro para niños  Colegio  Sport  Gimnasio  Trekking  Bicicleta'
+slug: 'B07RDL5PJK-es HoneyHolly Botella de Agua Deporte 400ml/500ml/700ml/1l...'
+tags: bicicleta
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

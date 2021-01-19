@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j6LzlAUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N37RSYT-es Educa Borrás- Adhesivo para Puzzle  17193 '
+slug: 'B01N37RSYT-es Educa Borrás- Adhesivo para Puzzle 17193'
+tags: puzzle
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

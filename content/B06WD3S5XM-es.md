@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QnkVRYFqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WD3S5XM-es LEGO Ninjago - Jet del Rayo  Juguete de Construcción Ninja  Incluye Nave y MiniFiguras  70614 '
+slug: 'B06WD3S5XM-es LEGO Ninjago - Jet del Rayo Juguete de Construcción Ninja...'
+tags: lego
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

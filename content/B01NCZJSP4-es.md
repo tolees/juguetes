@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/610P7UZaqyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCZJSP4-es Educa Borras - Genuine Puzzles  Puzzle 2.000 piezas  Ámsterdam  17127 '
+slug: 'B01NCZJSP4-es Educa Borras - Genuine Puzzles Puzzle 2.000 piezas...'
+tags: puzzle
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

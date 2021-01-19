@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hXFqrsZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z77QXQ-es Hasbro Gaming Chafa el Huevo  Multicolor  C2473175 '
+slug: 'B071Z77QXQ-es Hasbro Gaming Chafa el Huevo Multicolor C2473175'
+tags: hasbro
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

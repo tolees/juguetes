@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xoYJfTDDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CP2FKL1-es Liny Bebé Flotador Inflable Anillo de Natación Flamenco - Niños Boya de Natación Niñas Natación de Juguete Cisne Asiento de Natación La Seguridad Piscina Playa Dibujos Animados'
+slug: 'B07CP2FKL1-es Liny Bebé Flotador Inflable Anillo de Natación Flamenco -...'
+tags: flotador
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

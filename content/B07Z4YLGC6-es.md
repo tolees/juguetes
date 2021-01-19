@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dq+r+bngL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4YLGC6-es SKYSPER Pantalones Largos de Ciclismo para Hombre Pantalones de Ciclismo Culote Bicicleta Hombre Deportivos Ropa 3D Gel Silicona Acolchado Transpirable sin Tirante para Bicicleta Montaña MTB'
+slug: 'B07Z4YLGC6-es SKYSPER Pantalones Largos de Ciclismo para Hombre...'
+tags: bicicleta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pw+2m6hkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5PVP4Z-es Hot Wheels- Circuito Mario Kart  pistas de coches de juguete  Multicolor  Mattel GCP27 '
+slug: 'B07P5PVP4Z-es Hot Wheels- Circuito Mario Kart pistas de coches de...'
+tags: mattel
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51z6DS4m7cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W131BMK-es Kriogor Coche RC  Coche Controlado por Radio Stunt Coche Teledirigido Anfibio Coche de Control Remoto Doble Lado Rotación de 360 Grados de Alta Velocidad Controlremoto 2.4GHz para Niños/Adultos'
+slug: 'B07W131BMK-es Kriogor Coche RC Coche Controlado por Radio Stunt Coche...'
+tags: coche, rc
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SsTMTBHxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2TFLPX-es SkullCap® Casco Bicicleta montaña Hombre y Mujer  MTB Bicicleta Carretera  tamaño L  59-61 cm   Casco Color: Rojo Negro'
+slug: 'B07C2TFLPX-es SkullCap® Casco Bicicleta montaña Hombre y Mujer MTB...'
+tags: bicicleta
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yMd35sDQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RCDZTL-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para niños tapetes para niños foammats playmats estera del rompecabezas bebé niños tapete tapete tapete Azul Beige Frutaverde 107110115'
+slug: 'B088RCDZTL-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para...'
+tags: rompecabezas
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

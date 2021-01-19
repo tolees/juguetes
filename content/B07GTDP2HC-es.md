@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51i48t4V0vL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTDP2HC-es Doctora Juguetes - Maletin Medico Conjunto Enfermera Juguete con Latidos del Corazón y Luz Regalos Cumpleaños Niños 3+ Juego de rol Herramientas Juguetes 12 Piezas'
+slug: 'B07GTDP2HC-es Doctora Juguetes - Maletin Medico Conjunto Enfermera...'
+tags: juguetes
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

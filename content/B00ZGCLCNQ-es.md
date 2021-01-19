@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IyrMDfQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZGCLCNQ-es Michelin Pro4 Endurance A/F V2 Cubiertas  Deportes al Aire Libre  Ciclismo Ruedas de Bicicleta  Negro  700x25'
+slug: 'B00ZGCLCNQ-es Michelin Pro4 Endurance A/F V2 Cubiertas Deportes al Aire...'
+tags: bicicleta
 actualPrice: 34.1 EUR
 currency: EUR
 price: 34.1

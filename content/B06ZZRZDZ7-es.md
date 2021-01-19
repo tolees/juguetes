@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cthmKVe2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZRZDZ7-es Clementoni 39802 – Puzzle tríptico DM'
+slug: 'B06ZZRZDZ7-es Clementoni 39802 – Puzzle tríptico DM'
+tags: clementoni, puzzle
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o1dbSbidL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC8YDJR-es SYLVANIAN FAMILIES Mini muñecas y Accesorios  Multicolor  Epoch 5362 '
+slug: 'B07PC8YDJR-es SYLVANIAN FAMILIES Mini muñecas y Accesorios Multicolor...'
+tags: sylvanian, families
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

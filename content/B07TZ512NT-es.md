@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cf7mMpCzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ512NT-es EzLife Bolsas Reutilizables Compra  Bolsas Reutilizables Fruta de Algodon Ecológicas Lavable y Transpirable Bolsa de Malla para Fruta Verduras Juguetes -6 Pcs  1*Bolsas de Tela 1*S  2*M  2*L '
+slug: 'B07TZ512NT-es EzLife Bolsas Reutilizables Compra Bolsas Reutilizables...'
+tags: juguetes
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

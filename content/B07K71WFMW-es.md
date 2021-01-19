@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cZcVS9lmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K71WFMW-es Hot Wheels - HW Auto-Lift Expressway Track Set y 5 DCC  Mattel FXN21 '
+slug: 'B07K71WFMW-es Hot Wheels - HW Auto-Lift Expressway Track Set y 5 DCC...'
+tags: mattel
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

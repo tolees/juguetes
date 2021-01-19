@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UPVTd+1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXNBC6W-es Shimmer and Shine Muñeca Shimmer Sirena mágica  juguete +3 años  Mattel FHN41 '
+slug: 'B06XXNBC6W-es Shimmer and Shine Muñeca Shimmer Sirena mágica juguete +3...'
+tags: mattel
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

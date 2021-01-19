@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TzXRZ3c0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD3RYNH-es Hasbro Gaming- Trivial Pursuit  E1921190 '
+slug: 'B07DD3RYNH-es Hasbro Gaming- Trivial Pursuit E1921190'
+tags: hasbro
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rq8NuiTZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006GF0SFA-es Elite Custom Race - Portabidón de Fibra para Bicicleta  gomilla de elastómero  Color Negro Mate/Gris  Talla única'
+slug: 'B006GF0SFA-es Elite Custom Race - Portabidón de Fibra para Bicicleta...'
+tags: bicicleta
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rlK6U+zhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM33QV4-es Rolimate Juguetes para Apilar Y Encajar  Stack & Sort Board Tablero para Apilar y Clasificar  Juguetes Educativos Montessori Geométrico De Madera  Regalo del Festival de cumpleaños para 2 3 4+ años'
+slug: 'B07DM33QV4-es Rolimate Juguetes para Apilar Y Encajar Stack & Sort Board...'
+tags: juguetes
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

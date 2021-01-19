@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41piDmE70pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UACS55K-es Massi 700X18-20-23-25 Superlight V.Bici Cámara de Bicicleta  Unisex Adulto  Negro  700 x 18-20-23-25'
+slug: 'B00UACS55K-es Massi 700X18-20-23-25 Superlight V.Bici Cámara de...'
+tags: bicicleta
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

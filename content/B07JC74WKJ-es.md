@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jrhOLolDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC74WKJ-es LEGO 4+ Woody y RC  Juguete de Construcción para Recrear las Aventuras de la Película Toy Story 4  10766 '
+slug: 'B07JC74WKJ-es LEGO 4+ Woody y RC Juguete de Construcción para Recrear...'
+tags: lego
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

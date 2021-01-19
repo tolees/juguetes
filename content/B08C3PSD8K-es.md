@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w5OKGcpzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C3PSD8K-es Tiny Love Sunny Stroll  Arco de Actividades con Juguetes Sonajeros  a partir de 0 Meses  Clip Ajustable apto para Cualquier Cochecito o Silla de Bebé  Magical Tales'
+slug: 'B08C3PSD8K-es Tiny Love Sunny Stroll Arco de Actividades con Juguetes...'
+tags: juguetes
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

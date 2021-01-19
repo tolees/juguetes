@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xRV0ImnDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLF21QZ-es HUYIYI Puzzles de Madera de Animales  Puzzles Infantiles  Rompecabezas de Animales para Niños Niñas  Juguetes Montessori Educativos para Bebé de 1 2 3 años 4 Piezas '
+slug: 'B08GLF21QZ-es HUYIYI Puzzles de Madera de Animales Puzzles Infantiles...'
+tags: juguetes, rompecabezas
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61oOzAnZsDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GWBB8F-es LEGO DUPLO Town - Establo de los Ponis  Juguete de Preescolar Educativo con Caballos y Muñecos para Niñas y Niños de 2 a 5 Años  10868 '
+slug: 'B075GWBB8F-es LEGO DUPLO Town - Establo de los Ponis Juguete de...'
+tags: lego
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

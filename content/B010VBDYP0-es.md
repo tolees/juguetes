@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KfsZhWwHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010VBDYP0-es Clementoni- Romantic Promenade In Puzzle 500 pzas Collection Paris  35014.8 '
+slug: 'B010VBDYP0-es Clementoni- Romantic Promenade In Puzzle 500 pzas...'
+tags: puzzle
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

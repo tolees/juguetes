@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YxXdB5IrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRS7DXK-es Juguetes de baño para bebés Ducha de Elefante Ducha de Dibujos Animados Ducha Juguetes interactivos para Padres e Hijos - Rosa'
+slug: 'B08CRS7DXK-es Juguetes de baño para bebés Ducha de Elefante Ducha de...'
+tags: juguetes
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

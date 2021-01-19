@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518scvlgD4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVFQM3B-es Bomao - Juego de 7 Piezas Unicornio Cubo mágico 3 Llavero Unicornio Pegatina Bolsa Juego de Pedestal Juguete Rompecabezas Idea para Regalo Cumpleaños Niño Bebé'
+slug: 'B07GVFQM3B-es Bomao - Juego de 7 Piezas Unicornio Cubo mágico 3 Llavero...'
+tags: rompecabezas
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

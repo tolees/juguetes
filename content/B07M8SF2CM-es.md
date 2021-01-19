@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BpLrZKsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8SF2CM-es Supersoaker Fortnite Rl  multicolor  Box size: 68.3 x 28 x 8cm  Hasbro E6874EU5 '
+slug: 'B07M8SF2CM-es Supersoaker Fortnite Rl multicolor Box size: 68.3 x 28 x...'
+tags: hasbro
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

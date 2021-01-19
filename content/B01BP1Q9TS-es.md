@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TKD-rWCPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BP1Q9TS-es Trivial Pursuit Star Wars  Hasbro B8615105 '
+slug: 'B01BP1Q9TS-es Trivial Pursuit Star Wars Hasbro B8615105'
+tags: hasbro
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

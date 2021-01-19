@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51W1odllFoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQF565T-es Polly Pocket - Maletín del 30 aniversario Partytime Surprise  muñeca con accesorios  Mattel GJJ51 '
+slug: 'B07NQF565T-es Polly Pocket - Maletín del 30 aniversario Partytime...'
+tags: mattel, polly, pocket
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

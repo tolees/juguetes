@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-bR0fWsVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje  juguetes construcción niños + 3 años  Mattel GFJ12 '
+slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
+tags: fisher-price, juguetes, mattel
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

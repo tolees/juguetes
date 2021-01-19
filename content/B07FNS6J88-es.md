@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FI4qQCqHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS6J88-es LEGO Creator - Avión de Carreras  juguete creativo de construcción y aventuras en el aire  31094    color/modelo surtido'
+slug: 'B07FNS6J88-es LEGO Creator - Avión de Carreras juguete creativo de...'
+tags: lego
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

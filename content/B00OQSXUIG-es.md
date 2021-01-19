@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AmQXZm+7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OQSXUIG-es Feber - Tobogán Con Rampa De 107cm  Famosa 800009593 '
+slug: 'B00OQSXUIG-es Feber - Tobogán Con Rampa De 107cm Famosa 800009593'
+tags: famosa, feber
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

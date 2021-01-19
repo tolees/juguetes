@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n-kXP3OCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4K4XD3-es CubicFun Puzzle 3D Plaza de San Marcos  con National Geographic Folleto de Fotografía  107 Piezas'
+slug: 'B07H4K4XD3-es CubicFun Puzzle 3D Plaza de San Marcos con National...'
+tags: puzzle
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

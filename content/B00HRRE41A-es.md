@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6109K3AJxwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRE41A-es SYLVANIAN FAMILIES Sylvanian Families-8718637028176 Set Dentista Country  Epoch para Imaginar 5095 '
+slug: 'B00HRRE41A-es SYLVANIAN FAMILIES Sylvanian Families-8718637028176 Set...'
+tags: sylvanian, families
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

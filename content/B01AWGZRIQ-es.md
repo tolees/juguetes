@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410WlwbuFYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AWGZRIQ-es DC Super Hero Girls Muñeca Harley Quinn  Mattel DMM36 '
+slug: 'B01AWGZRIQ-es DC Super Hero Girls Muñeca Harley Quinn Mattel DMM36'
+tags: mattel
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

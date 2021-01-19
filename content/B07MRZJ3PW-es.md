@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t1KZYad9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRZJ3PW-es Youngshion - Organizador de Maquillaje portátil para Juguetes  Juguetes  Juguetes  Juguetes  Juguetes  Juguetes  Mantas de Actividades para niños y niñas  Cartoon Yellow  Small'
+slug: 'B07MRZJ3PW-es Youngshion - Organizador de Maquillaje portátil para...'
+tags: juguetes
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

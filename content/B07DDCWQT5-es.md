@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PVKsr4TgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDCWQT5-es Beados - Centro de Diseño  Famosa 700014683 '
+slug: 'B07DDCWQT5-es Beados - Centro de Diseño Famosa 700014683'
+tags: famosa
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

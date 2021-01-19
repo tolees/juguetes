@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mUllfhaJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BREAVE2-es SYLVANIAN FAMILIES- Cake Decorating Set Mini muñecas y Accesorios   Epoch para Imaginar 5264 '
+slug: 'B01BREAVE2-es SYLVANIAN FAMILIES- Cake Decorating Set Mini muñecas y...'
+tags: sylvanian, families
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

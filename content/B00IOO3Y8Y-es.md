@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Nm+i-ybyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IOO3Y8Y-es S&R Juego de 30 llaves Allen hexagonales en Pulgadas y millimetros. Llaves largas y pequeñas para Bicicleta'
+slug: 'B00IOO3Y8Y-es S&R Juego de 30 llaves Allen hexagonales en Pulgadas y...'
+tags: bicicleta
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

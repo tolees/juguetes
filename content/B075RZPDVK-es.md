@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O2wI7yLQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RZPDVK-es amzdeal Soporte Caballete de reparación de Bicicletas Soporte de Reparar Bici Altura Ajustable115cm-170cm  Soporte para Reparar Bicicleta Girando hasta 360 °，Nueva versión'
+slug: 'B075RZPDVK-es amzdeal Soporte Caballete de reparación de Bicicletas...'
+tags: bicicleta
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

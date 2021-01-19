@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51f8721sheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088GYHLBQ-es Dreamon Conjunto de Juguetes Playa Bebe Colores Moldes de Arena con Bolsa para Niños 3 Años  20 Piezas'
+slug: 'B088GYHLBQ-es Dreamon Conjunto de Juguetes Playa Bebe Colores Moldes de...'
+tags: juguetes
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

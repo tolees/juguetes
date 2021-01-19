@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+HG-tkprL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074LDVZF7-es CubicFun Puzzle 3D París Torre Eiffel Francia Rompecabezas 3D DIY Construye tu Propio Modelo  39 Piezas'
+slug: 'B074LDVZF7-es CubicFun Puzzle 3D París Torre Eiffel Francia Rompecabezas...'
+tags: puzzle, rompecabezas
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

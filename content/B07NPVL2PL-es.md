@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416xkHT+RoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPVL2PL-es Peluditos Peludito Mascota Interactiva Modelos Surtidos  BIZAK 62003690 '
+slug: 'B07NPVL2PL-es Peluditos Peludito Mascota Interactiva Modelos Surtidos...'
+tags: bizak
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

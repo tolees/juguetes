@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BRw-kaolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZFM4WT-es VATOS Juego de Bloques de Construcción para Niñas  Juguetes Castillo Princesa para Niña  Juguetes Palacio Rosa  Kits de Construcción STEM para Niños  Juguetes de Regalo para Niñas de 6  7  8 y 9 Años'
+slug: 'B085ZFM4WT-es VATOS Juego de Bloques de Construcción para Niñas Juguetes...'
+tags: juguetes
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FT9BNFuNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014SO4XJC-es Star Wars - Sable extensible  1 unidad  Hasbro B2912EU4   surtido: modelos aleatorios'
+slug: 'B014SO4XJC-es Star Wars - Sable extensible 1 unidad Hasbro B2912EU4...'
+tags: hasbro
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

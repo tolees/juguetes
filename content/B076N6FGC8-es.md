@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V6ga6OMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076N6FGC8-es Jurassic World Dinosaurio de juguete Indoraptor luces y sonidos  Mattel FLY53 '
+slug: 'B076N6FGC8-es Jurassic World Dinosaurio de juguete Indoraptor luces y...'
+tags: mattel
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

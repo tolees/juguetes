@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cn5W7LqxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YFGYHN-es SMARTGYRO Ebike Red - Bicicleta Eléctrica  Ruedas de 16"  Asistente al Pedaleo  Plegable  Batería extraíble de Litio de 4400 mAh  Freno V-Brake y Disco  Autonomía 30-50 Km  Color Rojo'
+slug: 'B079YFGYHN-es SMARTGYRO Ebike Red - Bicicleta Eléctrica Ruedas de 16"...'
+tags: bicicleta, smartgyro
 actualPrice: 365.26 EUR
 currency: EUR
 price: 365.26

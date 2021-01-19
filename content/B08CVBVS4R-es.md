@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51McTk7dgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVBVS4R-es Molyflower Hipopótamo Hambriento Que traga mármoles Juguetes educativos interactivos Educación temprana Juego competitivo Doble Juego de mármol para niños: Colorido'
+slug: 'B08CVBVS4R-es Molyflower Hipopótamo Hambriento Que traga mármoles...'
+tags: juguetes
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

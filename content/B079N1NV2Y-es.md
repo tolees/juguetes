@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x7oVqm65L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079N1NV2Y-es PLAYMOBIL City Life Colegio  a Partir de 5 Años  9453 '
+slug: 'B079N1NV2Y-es PLAYMOBIL City Life Colegio a Partir de 5 Años 9453'
+tags: playmobil
 actualPrice: 85.5 EUR
 currency: EUR
 price: 85.5

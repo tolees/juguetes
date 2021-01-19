@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s5-nPDQsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077J2CWHS-es Fisher-Price Cebra activity  juguete colgante para bebé recién nacido  Mattel FGJ11 '
+slug: 'B077J2CWHS-es Fisher-Price Cebra activity juguete colgante para bebé...'
+tags: fisher-price, mattel
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

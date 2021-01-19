@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519lvkYbzFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D39JCRJ-es Zerodis Linda CogniciónPuzzle Tarjetas En caja de almacenamiento de metal  Números/Letras/Formas/Animales Juguetes de aprendizaje temprano para niños pequeños 0-6 años de edad regalo #2 '
+slug: 'B07D39JCRJ-es Zerodis Linda CogniciónPuzzle Tarjetas En caja de...'
+tags: juguetes
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

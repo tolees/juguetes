@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WLN9PXT-es My Little Pony - Equestria Minis Caravana Sushi  Hasbro C1840EU4 '
+slug: 'B06WLN9PXT-es My Little Pony - Equestria Minis Caravana Sushi Hasbro...'
+tags: hasbro
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

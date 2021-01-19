@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+FpzAkpXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ITC3F5S-es Clementoni - Puzzle 1500 Piezas Paris  Montmartre  31999 '
+slug: 'B00ITC3F5S-es Clementoni - Puzzle 1500 Piezas Paris Montmartre 31999'
+tags: clementoni, puzzle
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

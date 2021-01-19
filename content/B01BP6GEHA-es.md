@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5123tcLM5cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BP6GEHA-es Avengers- Marvel Legends Figura Iron Man  Multicolor  Hasbro B7434EU4 '
+slug: 'B01BP6GEHA-es Avengers- Marvel Legends Figura Iron Man Multicolor Hasbro...'
+tags: hasbro
 actualPrice: 32.59 EUR
 currency: EUR
 price: 32.59

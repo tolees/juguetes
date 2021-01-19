@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lEyH3Ep5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009IR0OZM-es Puzzle Mates 17691 - Tapete para enrollar puzzles  hasta 3000 piezas '
+slug: 'B009IR0OZM-es Puzzle Mates 17691 - Tapete para enrollar puzzles hasta...'
+tags: puzzle
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

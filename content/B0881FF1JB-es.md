@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KwD4gOc0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881FF1JB-es Zaloife Pistolas de Agua  Super Pistola Water Gun para Niños Años Adultos para Batalla de Agua  Playa  Piscina Verano Juguetes de Agua Juego 3pcs'
+slug: 'B0881FF1JB-es Zaloife Pistolas de Agua Super Pistola Water Gun para...'
+tags: juguetes
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

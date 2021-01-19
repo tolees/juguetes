@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KhRQtHXML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGJXLJM-es Ravensburger-19747 7 Puzzle  Disney Classic  El Rey Ón  Multicolor  1000 Piezas  19747 '
+slug: 'B06XGJXLJM-es Ravensburger-19747 7 Puzzle Disney Classic El Rey Ón...'
+tags: puzzle
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

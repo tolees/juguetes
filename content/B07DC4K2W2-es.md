@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SKIG7cMaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC4K2W2-es SKYSPER Ciclismo Maillot Hombres Pantalones Cortos Culote de Ciclismo Ropa Maillot Transpirable para Deportes al Aire Libre Ciclo Bicicleta'
+slug: 'B07DC4K2W2-es SKYSPER Ciclismo Maillot Hombres Pantalones Cortos Culote...'
+tags: bicicleta
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

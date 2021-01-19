@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41etPA5-6XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NT5YH3X-es yyhappy Childhood Mini Telescopio De Juguetes De Exterior para Niños，Niño Niña 3-12 Regalo De Cumpleaños Rosa'
+slug: 'B07NT5YH3X-es yyhappy Childhood Mini Telescopio De Juguetes De Exterior...'
+tags: juguetes
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

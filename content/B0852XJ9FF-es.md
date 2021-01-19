@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317p3ZGVZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0852XJ9FF-es Panamami Tamaño portátil Niños Niños Bebé Estudio Cámara Forma Juguetes Plásticos Niños Juguetes encantadores Color Aleatorio  Verde '
+slug: 'B0852XJ9FF-es Panamami Tamaño portátil Niños Niños Bebé Estudio Cámara...'
+tags: juguetes
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

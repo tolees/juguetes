@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514z9Si0fQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFFTKZ7-es SUPRBIRD Juguete de Paracaídas  10 Piezas Juguete Paracaídas Set  Mano Que Lanza el Juguete del Paracaidista  Muy Buenos Juguetes al Aire Libre para niños  ¡Dale más Felicidad a tu Hijo'
+slug: 'B07ZFFTKZ7-es SUPRBIRD Juguete de Paracaídas 10 Piezas Juguete...'
+tags: juguetes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

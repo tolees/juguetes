@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61JH9eWEl6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EI7JDEY-es Clementoni - Jugando aprendo  descubre España  55119.4 '
+slug: 'B01EI7JDEY-es Clementoni - Jugando aprendo descubre España 55119.4'
+tags: clementoni
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

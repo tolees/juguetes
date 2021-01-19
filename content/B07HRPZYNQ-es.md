@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y6yY-XL-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRPZYNQ-es L.O.L. Surprise! 557067E7C Hairgoal Doll-Series 5-2A  Multi'
+slug: 'B07HRPZYNQ-es L.O.L. Surprise! 557067E7C Hairgoal Doll-Series 5-2A Multi'
+tags: l.o.l.
 actualPrice: 17.34 EUR
 currency: EUR
 price: 17.34

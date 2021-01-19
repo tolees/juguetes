@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PWLN5CnfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BWPM95K-es Disney Simba 6315874752 Frozen Peluche Muñeco de Nieve Olaf 35 cm'
+slug: 'B01BWPM95K-es Disney Simba 6315874752 Frozen Peluche Muñeco de Nieve...'
+tags: peluche
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

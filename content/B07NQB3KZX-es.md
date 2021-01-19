@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+SEw6TTZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQB3KZX-es Barbie Crea sus ondas  Muñeca rubia con accesorios para peinar  regalo para niñas y niños 3-9 años  Mattel GBK24 '
+slug: 'B07NQB3KZX-es Barbie Crea sus ondas Muñeca rubia con accesorios para...'
+tags: barbie, mattel
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

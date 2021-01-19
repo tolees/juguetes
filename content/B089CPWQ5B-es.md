@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GMusKbIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089CPWQ5B-es INBIKE Ropa Ciclismo Hombre Verano Trajes de Ciclismo Equipacion Bicicleta Maillot MTB+ Culote Bicicleta 3D Badana Gel L '
+slug: 'B089CPWQ5B-es INBIKE Ropa Ciclismo Hombre Verano Trajes de Ciclismo...'
+tags: bicicleta
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

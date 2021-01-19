@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511Mh583DQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4CKXP7-es Nene Toys - Puzzle Infantil de Madera + Coche de Juguete para Niños Niñas de 2 a 6 años - Juego Educativo de Rompecabezas 2 en 1 para Desarrollo Cognitivo en Niños de Edad Preescolar [Bombero]'
+slug: 'B07S4CKXP7-es Nene Toys - Puzzle Infantil de Madera + Coche de Juguete...'
+tags: puzzle, rompecabezas
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

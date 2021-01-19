@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GApuc-pwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KVR1ZXM-es Harry Potter - Muñeco Harry Quidditch  Juguetes Niños +6 Años  Mattel GDJ70 '
+slug: 'B07KVR1ZXM-es Harry Potter - Muñeco Harry Quidditch Juguetes Niños +6...'
+tags: juguetes, mattel
 actualPrice: 20.2 EUR
 currency: EUR
 price: 20.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tfEIYxIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJ4Y8MW-es Ravensburger - Puzzle 3D Autobùs noctàmbulo Harry Potter  11158 '
+slug: 'B07PJ4Y8MW-es Ravensburger - Puzzle 3D Autobùs noctàmbulo Harry Potter...'
+tags: puzzle, ravensburger
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

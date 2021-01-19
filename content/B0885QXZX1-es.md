@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511dd5P7t3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0885QXZX1-es Rolimate Alfabetos y números Juego de Tarjetas Flash - ABC Rompecabezas de Madera Tarjeta de Animales Juego de Rompecabezas a Juego Juguetes educativos Montessori Regalo para niños Niñas 3 4 5 años'
+slug: 'B0885QXZX1-es Rolimate Alfabetos y números Juego de Tarjetas Flash - ABC...'
+tags: juguetes, rompecabezas
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

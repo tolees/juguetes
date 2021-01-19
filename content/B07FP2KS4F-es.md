@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NB+ISoV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2KS4F-es LEGO Película 2 - Taller Construye y Arregla de Emmet y Benny  set de construcción divertido con nave y coche de juguete  70821    color/modelo surtido'
+slug: 'B07FP2KS4F-es LEGO Película 2 - Taller Construye y Arregla de Emmet y...'
+tags: lego
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

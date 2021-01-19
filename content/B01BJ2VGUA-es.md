@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sNZ-c2rLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BJ2VGUA-es Peppa Pig - Puzzle progresivo  12  20 y 25 piezas  Educa Borrás 16817    color/modelo surtido'
+slug: 'B01BJ2VGUA-es Peppa Pig - Puzzle progresivo 12 20 y 25 piezas Educa...'
+tags: puzzle, peppa, pig
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

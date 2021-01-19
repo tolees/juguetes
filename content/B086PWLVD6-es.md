@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LvmHAoKfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PWLVD6-es iMiMi Rainbow Stacker clásico juguete de desarrollo juguetes de artesanía superior 8 anillos lisos base de madera maciza'
+slug: 'B086PWLVD6-es iMiMi Rainbow Stacker clásico juguete de desarrollo...'
+tags: juguetes
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

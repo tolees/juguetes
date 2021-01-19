@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+A922rvFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P39LJDR-es SOONAN 48 en 1 destornilladores precisión profesionales magnético de reparación móvil de aluminio para iPhone  macbook pro xiaomi  iPad  PC  cámaras  juguetes electrónicos  relojes'
+slug: 'B07P39LJDR-es SOONAN 48 en 1 destornilladores precisión profesionales...'
+tags: juguetes
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

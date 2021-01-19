@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FxWBHIhoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNK82S5-es Color Smash - Juego de Cartas  Goliath 70474 '
+slug: 'B07BNK82S5-es Color Smash - Juego de Cartas Goliath 70474'
+tags: juego, de, cartas
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

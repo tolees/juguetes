@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q3wSf-5BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1ZJCYB-es Pinypon Action- Lancha de Rescate de Policía con 1 Figurita  para niños y niñas a Partir de 4 años  Multicolor  Famosa 700015050 '
+slug: 'B07N1ZJCYB-es Pinypon Action- Lancha de Rescate de Policía con 1...'
+tags: famosa, pinypon
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

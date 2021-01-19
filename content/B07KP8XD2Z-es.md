@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JPiEAmKtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP8XD2Z-es Diseño Gracioso  no tóxico  Gritando  Goma  Pollo  apretón  Juguetes  Sonido  Juguete  niños  Adulto  Stree  Alivio  chillar  Pollo  Juguetes  Amarillo  Rojo  s'
+slug: 'B07KP8XD2Z-es Diseño Gracioso no tóxico Gritando Goma Pollo apretón...'
+tags: juguetes
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

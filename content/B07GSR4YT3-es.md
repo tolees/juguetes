@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418k+mgW4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSR4YT3-es Hot Wheels - Monster Truck Pista de coches  Super Salto con vehiculo Loco Punk  Mattel GCG00    color/modelo surtido'
+slug: 'B07GSR4YT3-es Hot Wheels - Monster Truck Pista de coches Super Salto con...'
+tags: mattel
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

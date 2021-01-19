@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4132-ubl7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V29MTY1-es YuMe - Peluche Hermione 15 cm  Multicolor'
+slug: 'B07V29MTY1-es YuMe - Peluche Hermione 15 cm Multicolor'
+tags: peluche
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Oci7TQsdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V8LP97O-es Silverlit-Mi Primer  World Brands   teledirigidos  Aviones  helicoptero RC  Radio Control  Juguetes  Drones para niños  Color azul  84703 '
+slug: 'B00V8LP97O-es Silverlit-Mi Primer World Brands teledirigidos Aviones...'
+tags: juguetes
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

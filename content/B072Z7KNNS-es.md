@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51tveL%2BWGzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Z7KNNS-es Clementoni 39022 Puzzle Puzzle - Rompecabezas  Puzzle Rompecabezas  Ciudad  Niños y Adultos  58 mm  370 mm  281 mm '
+slug: 'B072Z7KNNS-es Clementoni 39022 Puzzle Puzzle - Rompecabezas Puzzle...'
+tags: clementoni, puzzle, rompecabezas
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

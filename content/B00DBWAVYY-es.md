@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61PTnJef-wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DBWAVYY-es Ravensburger - La Biblioteca extraña 2  Puzzle de 1000 Piezas  19314 1 '
+slug: 'B00DBWAVYY-es Ravensburger - La Biblioteca extraña 2 Puzzle de 1000...'
+tags: puzzle, ravensburger
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

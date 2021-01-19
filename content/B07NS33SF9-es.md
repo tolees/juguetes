@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RUxx1TbIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS33SF9-es Lego Jurassic World Pijamas de Manga Larga para niños Azul 9-10 Años'
+slug: 'B07NS33SF9-es Lego Jurassic World Pijamas de Manga Larga para niños Azul...'
+tags: lego
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

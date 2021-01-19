@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+DN4styDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK6BWCB-es Muñeco Dinosaurio Peluche Pequeño Juguetes de Dinosaurios Lindo Felpa Suave Juguetes Animales Regalo Cumpleaños para Niños/50cm'
+slug: 'B07QK6BWCB-es Muñeco Dinosaurio Peluche Pequeño Juguetes de Dinosaurios...'
+tags: juguetes, peluche
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

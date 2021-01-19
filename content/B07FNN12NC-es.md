@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nWZs9uggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNN12NC-es LEGO Friends - Aventura en el Bosque de Mia  juguete creativo de construcción de aventuras con patinete y animales  41363 '
+slug: 'B07FNN12NC-es LEGO Friends - Aventura en el Bosque de Mia juguete...'
+tags: lego
 actualPrice: 6.82 EUR
 currency: EUR
 price: 6.82

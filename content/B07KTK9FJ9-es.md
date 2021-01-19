@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTK9FJ9-es LEGO Friends - Pulpo Mecánico  Juguete Divertido de Construcción Giratorio para Niñas y Niños de más de 7 Años con Mini Muñeca de Andrea  41373 '
+slug: 'B07KTK9FJ9-es LEGO Friends - Pulpo Mecánico Juguete Divertido de...'
+tags: lego
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

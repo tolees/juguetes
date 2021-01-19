@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MrNzT5+PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK2NB78-es Hot Wheels - Monster Trucks Monster Mover  Camión Transportador de Coches de Juguete  Mattel FYK13 '
+slug: 'B07JK2NB78-es Hot Wheels - Monster Trucks Monster Mover Camión...'
+tags: mattel
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

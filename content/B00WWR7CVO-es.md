@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWR7CVO-es LEGO Movie: The Videogame - Classics'
+tags: lego
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

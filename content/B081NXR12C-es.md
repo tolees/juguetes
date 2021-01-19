@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SFDpECPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081NXR12C-es PEPPA PIG Botella cantimplora tritan hidro HOME Unisex Adulto  Compuesto  varios'
+slug: 'B081NXR12C-es PEPPA PIG Botella cantimplora tritan hidro HOME Unisex...'
+tags: peppa, pig
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

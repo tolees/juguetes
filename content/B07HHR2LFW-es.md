@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zbEuDuhFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHR2LFW-es Chanos Chanos Peppa Pig Safety Runner PoE Transparent Folding Umbrella  38 cm  Pink Paraguas Plegable  Rosa  Pink '
+slug: 'B07HHR2LFW-es Chanos Chanos Peppa Pig Safety Runner PoE Transparent...'
+tags: peppa, pig
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

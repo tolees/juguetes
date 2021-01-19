@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61xIMI5BH3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L42MGPW-es Educa Borras - Serie Coloured B&W  Puzzle 500 piezas Pájaros en la jungla  17984 '
+slug: 'B07L42MGPW-es Educa Borras - Serie Coloured B&W Puzzle 500 piezas...'
+tags: puzzle
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

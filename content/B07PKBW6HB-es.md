@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41joHR9tTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKBW6HB-es Cargador de bateria 48v Cargador de Patinete 48v Cargador de batería de Plomo 48V Bicicleta eléctrica 48V  Carrito de Golf  Cargador de Scooter eléctrico.'
+slug: 'B07PKBW6HB-es Cargador de bateria 48v Cargador de Patinete 48v Cargador...'
+tags: bicicleta
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

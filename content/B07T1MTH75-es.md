@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rsFzE01RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1MTH75-es AUNMAS Rompecabezas de Madera Modelo 3D Calendario perpetuo Kits de Modelos mecánicos para niños Adultos DIY Construcción Home Desk Decoration'
+slug: 'B07T1MTH75-es AUNMAS Rompecabezas de Madera Modelo 3D Calendario...'
+tags: rompecabezas
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

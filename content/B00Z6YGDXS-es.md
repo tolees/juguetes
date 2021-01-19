@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Uye-I0xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z6YGDXS-es Barriguitas Edificio loco loco  Famosa 700012396 '
+slug: 'B00Z6YGDXS-es Barriguitas Edificio loco loco Famosa 700012396'
+tags: famosa
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

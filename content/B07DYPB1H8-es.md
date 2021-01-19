@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dkfkobgnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYPB1H8-es Pedales Bicicleta  Pedals Impermeable 9/16 Pulgadas con Sellado Antideslizante Durable para Bicicleta de Montaña BMX Universal Bike Bike Trekking Bike  negro '
+slug: 'B07DYPB1H8-es Pedales Bicicleta Pedals Impermeable 9/16 Pulgadas con...'
+tags: bicicleta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

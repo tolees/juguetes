@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BrtaDJqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008LOCWVW-es Tecnovita by BH Open&GO YF90 Bicicleta estática Plegable. Sistema de Freno magnético. Volante de inercia Equivalente a 8kg. Monitor Easy Start'
+slug: 'B008LOCWVW-es Tecnovita by BH Open&GO YF90 Bicicleta estática Plegable....'
+tags: bicicleta
 actualPrice: 153.08 EUR
 currency: EUR
 price: 153.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GQX768NmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJZ5L7G-es Famosa- PinyPon Action Pack 2 Figuras 22x20 cm  Multicolor  22 x 20 cm  700014492 '
+slug: 'B07HJZ5L7G-es Famosa- PinyPon Action Pack 2 Figuras 22x20 cm Multicolor...'
+tags: pinypon
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

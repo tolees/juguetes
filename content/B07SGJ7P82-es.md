@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41axdUsbKFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGJ7P82-es FEBER - Palacio de Princesas Super Arandele de Disney Frozen 2  para niños y niñas de 3 a 10 años  Famosa 800012448    color/modelo surtido'
+slug: 'B07SGJ7P82-es FEBER - Palacio de Princesas Super Arandele de Disney...'
+tags: famosa, feber
 actualPrice: 187.44 EUR
 currency: EUR
 price: 187.44

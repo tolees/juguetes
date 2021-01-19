@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CFzqU0vsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0723DHFXF-es Pinypon Cubo Mix Is Max de 10 figuras  Famosa 700013811 '
+slug: 'B0723DHFXF-es Pinypon Cubo Mix Is Max de 10 figuras Famosa 700013811'
+tags: famosa, pinypon
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

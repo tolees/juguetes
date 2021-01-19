@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4VkZ4jsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVPCTS6-es Zequins- Muñeco Dazz  Famosa 700014680 '
+slug: 'B07BVPCTS6-es Zequins- Muñeco Dazz Famosa 700014680'
+tags: famosa
 actualPrice: 3.27 EUR
 currency: EUR
 price: 3.27

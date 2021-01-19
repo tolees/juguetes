@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jKrO3VqML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGZ4WXG-es Amazing Mall Almohada mágica para Juegos  cojín para Pareja  Juguetes  posición  Soporte  Almohada  cojín'
+slug: 'B07BGZ4WXG-es Amazing Mall Almohada mágica para Juegos cojín para Pareja...'
+tags: juguetes
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

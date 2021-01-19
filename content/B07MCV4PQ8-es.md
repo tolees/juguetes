@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i+M9iw3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCV4PQ8-es VTech- BlaBla Block Juego de construcción electrónico Elefante parlante  Color  3480-604722 '
+slug: 'B07MCV4PQ8-es VTech- BlaBla Block Juego de construcción electrónico...'
+tags: vtech-
 actualPrice: 12.26 EUR
 currency: EUR
 price: 12.26

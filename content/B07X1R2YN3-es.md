@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61W-6N1EgNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1R2YN3-es jerryvon 136 Piezas Puzzles Rompecabezas Magnéticos Alfabeto de Madera Juguetes Montessori Doble Cara Resistente a la Caída  Coloreado + Reforzado '
+slug: 'B07X1R2YN3-es jerryvon 136 Piezas Puzzles Rompecabezas Magnéticos...'
+tags: juguetes, rompecabezas
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

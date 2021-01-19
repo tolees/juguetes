@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HtMJAcF5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1JFK45-es Daxin Juguete de Robot de Control Remoto Interactivo  Juguetes de Robots de ni?os con m¨²Sica de Caminata Robot de Danza  Juego de f¨²tbol de Interior Regalos de Juguete para Paquete de 2 '
+slug: 'B07L1JFK45-es Daxin Juguete de Robot de Control Remoto Interactivo...'
+tags: juguetes
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

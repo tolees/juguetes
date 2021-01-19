@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A7PyH-p2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AOLRAVC-es Michelin Dynamic Sport  700X23 - Cubierta de bicicleta  color negro'
+slug: 'B00AOLRAVC-es Michelin Dynamic Sport 700X23 - Cubierta de bicicleta...'
+tags: bicicleta
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

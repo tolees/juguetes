@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eYhLJg2ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4Q5FLT-es Star Wars - Figura de acción de Jannah de Black Series  Hasbro E6055EL2 '
+slug: 'B07V4Q5FLT-es Star Wars - Figura de acción de Jannah de Black Series...'
+tags: hasbro
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

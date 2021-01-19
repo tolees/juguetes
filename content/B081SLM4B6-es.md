@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51r7jUdofxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SLM4B6-es Brazalete Deportivo para Correr  Brazalete Móvil Deportivo Ajustable para iPhone 11 Pro MAX XS MAX XR X Samsung Huawei Ideal para Correr Andar en Bicicleta Senderismo'
+slug: 'B081SLM4B6-es Brazalete Deportivo para Correr Brazalete Móvil Deportivo...'
+tags: bicicleta
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

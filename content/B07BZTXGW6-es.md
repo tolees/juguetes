@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61jPBTxI4tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZTXGW6-es Batería de litio CR2032 3V  botón electrónico de la célula de la moneda para los relojes de las calculadoras de los juguetes  20 Pilas '
+slug: 'B07BZTXGW6-es Batería de litio CR2032 3V botón electrónico de la célula...'
+tags: juguetes
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

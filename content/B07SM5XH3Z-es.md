@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s4uzlm5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SM5XH3Z-es mysunny Juguetes de Cocina de Madera para niños  Juguete magnéticos de Frutas y Verduras educativos de simulación y Juguete de percepción de Color para Bebe en Edad Preescolar niños niñas'
+slug: 'B07SM5XH3Z-es mysunny Juguetes de Cocina de Madera para niños Juguete...'
+tags: juguetes
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+HFofsrwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GWF9YP-es LEGO City Police - Montaña: Arresto  Set de Construcción de Juguete de Policía con Helicóptero  Coche  Minifiguras y Muñeco de Oso  60173 '
+slug: 'B075GWF9YP-es LEGO City Police - Montaña: Arresto Set de Construcción de...'
+tags: lego
 actualPrice: 37.53 EUR
 currency: EUR
 price: 37.53

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c7G0koV2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJL31N7-es Oonies Squeeze Center  para Niños y Niñas a Partir de 5 Años  Multicolor  Famosa 700015405 '
+slug: 'B07SJL31N7-es Oonies Squeeze Center para Niños y Niñas a Partir de 5...'
+tags: famosa
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mkXedGn6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF6GWZK-es Symiu Puzzle Madera Juego Ajedrez Cartas de Memoria Juguetes Aprendizaje Educativo Regalo para Niños Niñas 3 4 5 6 Años con Reloj Arena'
+slug: 'B07XF6GWZK-es Symiu Puzzle Madera Juego Ajedrez Cartas de Memoria...'
+tags: juguetes, puzzle
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

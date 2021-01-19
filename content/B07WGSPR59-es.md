@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EGl4SaxZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGSPR59-es YGJT Bicicletas sin Pedales para niños 1 Año 10-36 Meses  Triciclos Bebes Correpasillos Juguetes Regalos bebé Bici sin Pedales niño  Abeja Linda   Pequeña Abeja   Pequeña Abeja '
+slug: 'B07WGSPR59-es YGJT Bicicletas sin Pedales para niños 1 Año 10-36 Meses...'
+tags: juguetes
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

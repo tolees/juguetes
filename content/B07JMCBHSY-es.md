@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xR+2wdr5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCBHSY-es PLAYMOBIL- Patán Mocoso con Traje Volador Juguete  Multicolor  9.3 x 4.5 x 14.2 cm  geobra Brandstätter 70043 '
+slug: 'B07JMCBHSY-es PLAYMOBIL- Patán Mocoso con Traje Volador Juguete...'
+tags: playmobil-
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

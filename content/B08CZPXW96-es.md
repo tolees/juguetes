@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Tb8QBjLhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZPXW96-es Super Winner Juegos de Mesa Familiares Madera niños Air Hockey Regalos Divertidos Juguetes Originales Portátil Pack Sling para Dos rivales Fichas Agilidad Rapidez Casa Juego Tablero sobremesa'
+slug: 'B08CZPXW96-es Super Winner Juegos de Mesa Familiares Madera niños Air...'
+tags: juguetes
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cpvJ4i7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4CX18X-es Ravensburger - Puzzle Paw Patrol  pack de 3 x 49 piezas  05048 '
+slug: 'B07T4CX18X-es Ravensburger - Puzzle Paw Patrol pack de 3 x 49 piezas 05048'
+tags: puzzle, ravensburger
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

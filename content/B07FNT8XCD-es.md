@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510V2fWbCnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNT8XCD-es LEGO Friends - Espectáculo de Talentos de Andrea  set creativo e imaginativo con escenario de conciertos e instrumentos de juguete  41368 '
+slug: 'B07FNT8XCD-es LEGO Friends - Espectáculo de Talentos de Andrea set...'
+tags: lego
 actualPrice: 33.45 EUR
 currency: EUR
 price: 33.45

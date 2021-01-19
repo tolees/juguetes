@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aR4QpsfPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQLVLZ1-es iGPSPORT S60 Soporte Frontal para Manillar Bicicleta para GPS Compatible Garmin Edge 200/500/510/520/800/810/820 iGS10/20E/50E/618'
+slug: 'B07CQLVLZ1-es iGPSPORT S60 Soporte Frontal para Manillar Bicicleta para...'
+tags: bicicleta
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sn0yD7s1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QCW6GV-es Barbie Collector  muñeca Frida Khalo de "Grandes Mujeres"  Mattel FJH65    color/modelo surtido'
+slug: 'B076QCW6GV-es Barbie Collector muñeca Frida Khalo de "Grandes Mujeres"...'
+tags: barbie, mattel
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

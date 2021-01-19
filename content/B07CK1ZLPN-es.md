@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WYRivv4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CK1ZLPN-es Gen‚rico Adaptador Soporte de Extension Vastago Suministros de Repuesto de Bicicleta de Montaña Multiusos'
+slug: 'B07CK1ZLPN-es Gen‚rico Adaptador Soporte de Extension Vastago...'
+tags: bicicleta
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

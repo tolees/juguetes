@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gYB1Sj3+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9TVZY5-es LEGO Friends - Cubo Tienda de Juegos de Olivia Caja de Juguete  con Accesorios y Mini Muñeca  Juguete de muñecas recomendado a partir de 6 años  Multicolor'
+slug: 'B07X9TVZY5-es LEGO Friends - Cubo Tienda de Juegos de Olivia Caja de...'
+tags: lego
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

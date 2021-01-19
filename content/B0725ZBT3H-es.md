@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpD2YTmbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725ZBT3H-es FEBER - Mad Racer 12 V  Famosa 800011361 '
+slug: 'B0725ZBT3H-es FEBER - Mad Racer 12 V Famosa 800011361'
+tags: famosa, feber
 actualPrice: 172.35 EUR
 currency: EUR
 price: 172.35

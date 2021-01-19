@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kgcq2p-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo  juguete gateo  bebé +3 meses  Mattel FHF75 '
+slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo juguete gateo bebé +3...'
+tags: fisher-price, mattel
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

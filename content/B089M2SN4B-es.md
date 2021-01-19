@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YNf1L0LSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089M2SN4B-es Symiu Juguetes para Niños DIY Bloques de Construcción Juguetes de Madera Montar Montessori Juguetes Preescolar de Regalos Originales para Bebes 3 4 5 Años'
+slug: 'B089M2SN4B-es Symiu Juguetes para Niños DIY Bloques de Construcción...'
+tags: juguetes
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

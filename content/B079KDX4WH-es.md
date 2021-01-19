@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RFPQmyibL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KDX4WH-es Justice League Figura Orm  15 cm  Mattel FWX64 '
+slug: 'B079KDX4WH-es Justice League Figura Orm 15 cm Mattel FWX64'
+tags: mattel
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

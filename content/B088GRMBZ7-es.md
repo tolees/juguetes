@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iycIRNFDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088GRMBZ7-es Pulchram Splash Pad   Almohadilla de Aspersión de 170 cm Water Play Mat Party Sprinkler Splash Pad Summer Spray Juguetes para Niños y Mascotas Jardín al Aire Libre Actividades Familiares  Azul 1 '
+slug: 'B088GRMBZ7-es Pulchram Splash Pad Almohadilla de Aspersión de 170 cm...'
+tags: juguetes
 actualPrice: 22.55 EUR
 currency: EUR
 price: 22.55

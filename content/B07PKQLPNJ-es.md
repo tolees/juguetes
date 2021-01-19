@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+dYjITtvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKQLPNJ-es Clementoni - Juegos de lectura  55310 '
+slug: 'B07PKQLPNJ-es Clementoni - Juegos de lectura 55310'
+tags: clementoni
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

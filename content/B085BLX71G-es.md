@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UYQ6CdR+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BLX71G-es YIMINYUER es colchoneta Suelo de Camping EVA Puzzle Colchonetas 30cm x 30cm x1mm Naranja Verde Púrpura R02R08R11G301020'
+slug: 'B085BLX71G-es YIMINYUER es colchoneta Suelo de Camping EVA Puzzle...'
+tags: puzzle
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

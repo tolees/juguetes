@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c6GaZcMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS9YSJ-es LEGO DUPLO My First - Mis Primeros Animales Equilibristas  Juguete de Construcción Didáctico de 1 a 2 Años  10884    color/modelo surtido'
+slug: 'B07FNS9YSJ-es LEGO DUPLO My First - Mis Primeros Animales Equilibristas...'
+tags: lego
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

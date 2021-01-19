@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ey-m8XYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFCN8GV-es The Bellies - Ropita divertida  disfraz reversible Angelito y Demonio  Famosa 700015207 '
+slug: 'B07NFCN8GV-es The Bellies - Ropita divertida disfraz reversible Angelito...'
+tags: famosa, the, bellies
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

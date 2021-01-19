@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iE02VrQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GHYZ9G-es LEGO Star Wars- First Order AT-ST Lego Juego de Construcción  Multicolor  única  75201 '
+slug: 'B075GHYZ9G-es LEGO Star Wars- First Order AT-ST Lego Juego de...'
+tags: lego
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

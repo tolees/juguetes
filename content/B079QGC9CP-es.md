@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41N4s4lsOzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QGC9CP-es Mattel- Barbie y Sus Accesorios   FVJ42'
+slug: 'B079QGC9CP-es Mattel- Barbie y Sus Accesorios FVJ42'
+tags: barbie, mattel-
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

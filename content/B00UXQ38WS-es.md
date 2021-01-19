@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51R2RDG+4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UXQ38WS-es Twitfish® - Mini Canasta Interior de Baloncesto - Novedad Divertido Juego de Juguetes para el hogar de Escritorio de Office  Mini Board  Ball & Pump Set para Todos los Fanáticos del Baloncesto'
+slug: 'B00UXQ38WS-es Twitfish® - Mini Canasta Interior de Baloncesto - Novedad...'
+tags: juguetes
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

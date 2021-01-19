@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51vUKGJRhAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGV33XC-es Bolsa de Almacenamiento de Juguetes para niños  Alfombra de Juego BELLESTYLE Organizer para juegos de niños  Juguetes de Niños una Limpieza más Rápida  Azul Profundo  150 cm '
+slug: 'B07BGV33XC-es Bolsa de Almacenamiento de Juguetes para niños Alfombra de...'
+tags: juguetes
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

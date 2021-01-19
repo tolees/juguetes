@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ewAl54-7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073PC1WQY-es Hasbro - Mr Mph  Hasbro  27657EZ3 '
+slug: 'B073PC1WQY-es Hasbro - Mr Mph Hasbro 27657EZ3'
+tags: hasbro
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

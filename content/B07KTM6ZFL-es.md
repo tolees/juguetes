@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rdI5-NpQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTM6ZFL-es StillCool Nerf Dardos  100 Pezas 7 2cm Espuma Suave Dardos Recarga Bala Blasters para Nerf N-Strike Elite Serie Niños Juguete Pistola Bullet Munición   Azul Oscuro '
+slug: 'B07KTM6ZFL-es StillCool Nerf Dardos 100 Pezas 7 2cm Espuma Suave Dardos...'
+tags: nerf
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

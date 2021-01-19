@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PLVg+PLuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GMV7P2-es Gifort Pompones  Coloridos Pompones Balls  250pcs / 2.0-2.5cm Bolas de Peluche Mullidas para Bricolaje  Manualidades y Decoraciones'
+slug: 'B077GMV7P2-es Gifort Pompones Coloridos Pompones Balls 250pcs /...'
+tags: peluche
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N2KAnpiBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPQM797-es L.O.L. Surprise! 564119E7C Furniture Boutique con Abeja Reina y 10 sorpresas'
+slug: 'B07PPQM797-es L.O.L. Surprise! 564119E7C Furniture Boutique con Abeja...'
+tags: l.o.l.
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nbY1b8jXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2G2WPB-es TACKLIFE Llaves de vaso Torx Juego Profesional  14 Piezas  Aleado S2  Alta Precisión  Herramientas Manuales  Portátil  Para Reparar Motocicletas  Bicicleta  Muebles - TBS1A'
+slug: 'B07G2G2WPB-es TACKLIFE Llaves de vaso Torx Juego Profesional 14 Piezas...'
+tags: bicicleta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

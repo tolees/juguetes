@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ehOp6-N4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0841B9NZC-es Juguetes De Doble Experiencia Sin Manos Para Hombres Con Voz Femenina Inteligente'
+slug: 'B0841B9NZC-es Juguetes De Doble Experiencia Sin Manos Para Hombres Con...'
+tags: juguetes
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

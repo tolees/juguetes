@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Hwp9OhOpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6BFKC8-es LEGO - Overwatch Tracer vs. Widowmaker Set de construcción con Nave de Juguete inspirado en el Videojuego  Novedad 2019  75970 '
+slug: 'B07J6BFKC8-es LEGO - Overwatch Tracer vs. Widowmaker Set de construcción...'
+tags: lego
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

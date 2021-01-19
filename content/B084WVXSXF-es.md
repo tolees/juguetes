@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hi6xtc+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WVXSXF-es YIMINYUER Alfombrillas de Ejercicios Espumas EVA Esterillas Puzzle de Fitness Protectoras Deportivas 30 * 30 * 1cm  Rosado R03G301020'
+slug: 'B084WVXSXF-es YIMINYUER Alfombrillas de Ejercicios Espumas EVA...'
+tags: puzzle
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

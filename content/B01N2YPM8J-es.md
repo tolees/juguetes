@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MPUEMWaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2YPM8J-es Ganchos para cochecito Venoka multiusos 2 piezas  universal para colgar pañales  bolsas y juguetes  color negro'
+slug: 'B01N2YPM8J-es Ganchos para cochecito Venoka multiusos 2 piezas universal...'
+tags: juguetes
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

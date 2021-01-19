@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VTG6p15hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MX4YJ7F-es Fivejoy Juguetes de Construcción  Bloques de Construccion  Construcción Educativos - Aprendizaje Juegos Creativa  Aviones  Animales  Automóvil  Robot ect...   Juegos Regalo  Niños y Niñas'
+slug: 'B07MX4YJ7F-es Fivejoy Juguetes de Construcción Bloques de Construccion...'
+tags: juguetes
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

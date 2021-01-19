@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uGn4pdj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089N3MV3K-es Toozey Juguetes Mordedor Perros Grandes Resistentes - Juguetes para Dientes de Cachorro Pequeños  Medianos y Grandes Juguetes para Perros - Sabor de Carne de Res Natural no tóxico'
+slug: 'B089N3MV3K-es Toozey Juguetes Mordedor Perros Grandes Resistentes -...'
+tags: juguetes
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fCZe0RYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CPW4B9-es Ballery Puzzles de Madera  3 Piezas Colorido Alfabeto ABC Cartas Números Formas Madera Puzzles Rompecabezas niños Juguetes Montessori Aprendizaje Temprano Juguetes Educativos'
+slug: 'B087CPW4B9-es Ballery Puzzles de Madera 3 Piezas Colorido Alfabeto ABC...'
+tags: juguetes, rompecabezas
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

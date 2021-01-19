@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415jPlMZ2qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUCIO3N-es Aurora- Foca de Peluche  colección Mini Flopsie  Color Gris  21 cm  0060031720 '
+slug: 'B01MUCIO3N-es Aurora- Foca de Peluche colección Mini Flopsie Color Gris...'
+tags: peluche
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

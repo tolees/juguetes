@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sn4TlO50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V8KHK86-es Geomag- Mechanics Construcciones magnéticas y juegos educativos  Multicolor  33 Piezas  720    color/modelo surtido'
+slug: 'B00V8KHK86-es Geomag- Mechanics Construcciones magnéticas y juegos...'
+tags: geomag-
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413ECKtU0tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KYP8KVM-es Feber-800009570 Dareway  vehículo 12 V  Color Negro  Azul  Famosa 800009570 '
+slug: 'B00KYP8KVM-es Feber-800009570 Dareway vehículo 12 V Color Negro Azul...'
+tags: famosa
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

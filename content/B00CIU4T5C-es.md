@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CIU4T5C-es TAZA ENTRENAMIENTO 250 ML | PEPPA PIG'
+tags: peppa, pig
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31p78DpCLdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J321VHV-es LRG Nueva tija de sillín de Fibra de Carbono y Bicicleta de montaña 27.2/30.8/31.6mm tija de Bicicleta de Fibra de Carbono 300mm / 350mm / 400mm  31.6  350 '
+slug: 'B07J321VHV-es LRG Nueva tija de sillín de Fibra de Carbono y Bicicleta...'
+tags: bicicleta
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

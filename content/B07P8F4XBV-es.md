@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZyeIC7TgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8F4XBV-es Lego Movie Pijamas de Manga Corta para niños La Lego película Rojo 11-12 Años'
+slug: 'B07P8F4XBV-es Lego Movie Pijamas de Manga Corta para niños La Lego...'
+tags: lego
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

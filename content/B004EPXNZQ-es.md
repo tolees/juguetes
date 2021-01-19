@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61gCIdBFAkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPXNZQ-es Educa Borras - XXL Puzzles  Puzzle 9.000 piezas  El Jardin de las Delicias  14831 '
+slug: 'B004EPXNZQ-es Educa Borras - XXL Puzzles Puzzle 9.000 piezas El Jardin...'
+tags: puzzle
 actualPrice: 85.63 EUR
 currency: EUR
 price: 85.63

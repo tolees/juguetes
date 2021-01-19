@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IY9VUxpRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E5CZH4W-es INBIKE Conjunto Ropa Equipacion Traje Ciclismo Hombre para Verano  Maillot Ciclismo Hombre+Pantalones Cortos Ciclismo Bicicleta  M '
+slug: 'B01E5CZH4W-es INBIKE Conjunto Ropa Equipacion Traje Ciclismo Hombre para...'
+tags: bicicleta
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

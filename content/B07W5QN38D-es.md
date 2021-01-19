@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-XVDal+KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5QN38D-es Runts S19010 - Peluche de Funcionamiento  Color Gris y Blanco'
+slug: 'B07W5QN38D-es Runts S19010 - Peluche de Funcionamiento Color Gris y Blanco'
+tags: peluche
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

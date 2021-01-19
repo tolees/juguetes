@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51L1gG4-0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015Q2NJNG-es LEGO STAR WARS - Linterna Ledlite con diseño de Yoda  Color Verde  812749L '
+slug: 'B015Q2NJNG-es LEGO STAR WARS - Linterna Ledlite con diseño de Yoda Color...'
+tags: lego
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OuMaNuhfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGHHQLA-es GEMVIE Flotador de Bebidas para Bebé Fiesta Piscina Playa Flamenco 18×17cm Rosa'
+slug: 'B00NGHHQLA-es GEMVIE Flotador de Bebidas para Bebé Fiesta Piscina Playa...'
+tags: flotador
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

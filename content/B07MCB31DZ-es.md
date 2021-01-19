@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ItLxJqxnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCB31DZ-es Espejo de Juguete del Asiento Trasero de Fish Pattern para el recién Nacido bebé Educativo Educativo de Dibujos Animados de Peluche de Juguete en el Coche'
+slug: 'B07MCB31DZ-es Espejo de Juguete del Asiento Trasero de Fish Pattern para...'
+tags: peluche
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

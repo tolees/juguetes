@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5141zTAiHLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083MMG2CR-es Star Wars - Figura Han Solo Carbonite de Black Series  Hasbro E99265L0 '
+slug: 'B083MMG2CR-es Star Wars - Figura Han Solo Carbonite de Black Series...'
+tags: hasbro
 actualPrice: 20.85 EUR
 currency: EUR
 price: 20.85

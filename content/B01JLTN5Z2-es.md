@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UscrrDwUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JLTN5Z2-es Juguetes de Baño Flotante con Juegos de Pesca para Niños Más de 18 Meses  8 piezas '
+slug: 'B01JLTN5Z2-es Juguetes de Baño Flotante con Juegos de Pesca para Niños...'
+tags: juguetes
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

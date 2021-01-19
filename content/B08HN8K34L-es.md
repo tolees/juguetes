@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jHygcLT2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HN8K34L-es FancyWhoop Cubos de Cambio de Cara de Juguete Montessori Juguetes  Expression Puzzle Building Cubos  Educativos Bloques Pensamiento Entrenamiento Lógica Rompecabezas Educativos Regalo para Niños'
+slug: 'B08HN8K34L-es FancyWhoop Cubos de Cambio de Cara de Juguete Montessori...'
+tags: juguetes, puzzle, rompecabezas
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

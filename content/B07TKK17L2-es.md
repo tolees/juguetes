@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EaA7Cf+kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKK17L2-es Bolsas de malla reutilizables TopBine  12 unidades  lavables  transparentes  livianas  para frutas  verduras  juguetes  comestibles y supermercados  3 pequeñas  6 medianas y 3 grandes'
+slug: 'B07TKK17L2-es Bolsas de malla reutilizables TopBine 12 unidades lavables...'
+tags: juguetes
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91

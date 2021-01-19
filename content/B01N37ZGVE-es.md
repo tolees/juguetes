@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kSLA4Pi5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N37ZGVE-es Educa - Puzzles Progresivos  puzzle infantil De Mayor Quiero Ser de 12 16 20 y 25 piezas  a partir de 3 años  17146 '
+slug: 'B01N37ZGVE-es Educa - Puzzles Progresivos puzzle infantil De Mayor...'
+tags: puzzle
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

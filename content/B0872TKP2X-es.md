@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zpzTiPDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872TKP2X-es Rolimate Rompecabezas de Madera para niños Rompecabezas de Dinosaurios con Caja de Rompecabezas de Metal  Aprendizaje Educativo Montessori Toys Mejor Regalo 3 4 5+ años Niños y niñas [120 Piezas]'
+slug: 'B0872TKP2X-es Rolimate Rompecabezas de Madera para niños Rompecabezas de...'
+tags: rompecabezas
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

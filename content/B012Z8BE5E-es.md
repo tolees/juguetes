@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A1tZjh85L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012Z8BE5E-es Chicos-Bingo Lotería automática con 48 cartones y 90 bolas imborrables  23.5 x 31 x 17 cm  incluye fichas de juego  color azul   Fábrica de Juguetes 20805 '
+slug: 'B012Z8BE5E-es Chicos-Bingo Lotería automática con 48 cartones y 90 bolas...'
+tags: juguetes
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LSDtVa8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYRRR5G-es Mordedor bebes Baby Teething Toys Juguetes de dentición para bebés  conjunto de mordedores de silicona natural de silicona suave  JRBT-GD '
+slug: 'B07XYRRR5G-es Mordedor bebes Baby Teething Toys Juguetes de dentición...'
+tags: juguetes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AYxPduUiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793FBGLJ-es Educa - Minnie Happy Helpers  Maleta Progresivos  puzzle infantil de 12 16 20 y 25 piezas  a partir de 3 años  17638 '
+slug: 'B0793FBGLJ-es Educa - Minnie Happy Helpers Maleta Progresivos puzzle...'
+tags: puzzle
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

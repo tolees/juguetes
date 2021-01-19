@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517yfpPG9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BBM4VZ3-es himaly Mini Bicicleta Estática con Pantalla LCD para Entrenamiento de Brazos y Piernas Minibicicleta Ajustable para Hacer Ejercicio en Casa para Mujer y Hombre  Pedales estaticos'
+slug: 'B07BBM4VZ3-es himaly Mini Bicicleta Estática con Pantalla LCD para...'
+tags: bicicleta
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

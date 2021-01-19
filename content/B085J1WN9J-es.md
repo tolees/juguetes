@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FPPr3E+eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085J1WN9J-es NIMNIK Alimentos Juguetes de Madera Set de Alimentos de Corte Pretend Food Cutting Juegos de Madera Juego de Alimentos para niños'
+slug: 'B085J1WN9J-es NIMNIK Alimentos Juguetes de Madera Set de Alimentos de...'
+tags: juguetes
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

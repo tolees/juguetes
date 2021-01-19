@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VOxZfAlGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGZS32G-es Harry Potter Muñeco Harry de la colección de Harry Potter  Mattel FYM50 '
+slug: 'B07CGZS32G-es Harry Potter Muñeco Harry de la colección de Harry Potter...'
+tags: mattel
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61q5-OvV1YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCYMZTD-es VATOS Jigsaw Puzzle 1000 Piezas para Adultos Niños Rompecabezas de Globos Aerostáticos 29.5 "x 20" Gran Juego de Rompecabezas para Adultos Adolescentes Entretenimiento Juguetes Decoración del Hogar'
+slug: 'B08DCYMZTD-es VATOS Jigsaw Puzzle 1000 Piezas para Adultos Niños...'
+tags: juguetes, puzzle, rompecabezas
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

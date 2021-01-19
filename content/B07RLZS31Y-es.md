@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FWWAjDGFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLZS31Y-es ZIYIUI Realista Niña Reborn Bebé Muñecas Niñita Silicona Toddler Muñecos Reborn Babys Dolls Niños Juguetes Conjunto 22 Pulgadas Las muñecas Pueden parpadear'
+slug: 'B07RLZS31Y-es ZIYIUI Realista Niña Reborn Bebé Muñecas Niñita Silicona...'
+tags: juguetes
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

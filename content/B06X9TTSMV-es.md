@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61gAv33tuRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9TTSMV-es Letras Magneticas Niños Pizarra Magnética Infantil 90 Piezas Tablero Magnético de Dibujo de Madera de Doble Cara Rompecabezas Juguetes Educativos para Niños  Número y Letra '
+slug: 'B06X9TTSMV-es Letras Magneticas Niños Pizarra Magnética Infantil 90...'
+tags: juguetes, rompecabezas
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

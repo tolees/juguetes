@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-gDOqoebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC7ZJXV-es Frozen 2 - Muñeco Kristoff  Hasbro E6711ES0    color/modelo surtido'
+slug: 'B07RC7ZJXV-es Frozen 2 - Muñeco Kristoff Hasbro E6711ES0 color/modelo...'
+tags: hasbro
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

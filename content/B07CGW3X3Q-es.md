@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zIlAskd6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGW3X3Q-es Harry Potter-FYM55 Harry Potter Muñeca profesora McGonagall de la colección  multicolor  0  Mattel FYM55 '
+slug: 'B07CGW3X3Q-es Harry Potter-FYM55 Harry Potter Muñeca profesora...'
+tags: mattel
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

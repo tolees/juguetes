@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v6kIPkqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZLYC4J-es SmartGyro Xtreme XD Patín eléctrico para niños y jóvenes  ruedas 8"  3 velocidades  plegable  ligero  autonomía de 18 Km  batería de litio  freno eléctrico  Scooter  luces traseras  Azul'
+slug: 'B07GZLYC4J-es SmartGyro Xtreme XD Patín eléctrico para niños y jóvenes...'
+tags: smartgyro
 actualPrice: 149.4 EUR
 currency: EUR
 price: 149.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+GeB5VRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCWVFR3-es Gupamiga Tienda de Juguetes para niños Tienda de teepe Tienda de Rebote Juguetes para bebés maletines Interiores y Exteriores'
+slug: 'B07QCWVFR3-es Gupamiga Tienda de Juguetes para niños Tienda de teepe...'
+tags: juguetes
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

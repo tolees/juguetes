@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515N59HeyfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGBCF68-es Juguetes de Buceo Conjunto de Juguete para Piscina Juguete de Natación para Niños con Anillo de Buceo 4pcs  Delfines 4pcs  Bandidos de Torpedos 4pcs  Algas Marinas 3pcs  Piedra Preciosa 10pcs  25 Pcs'
+slug: 'B07QGBCF68-es Juguetes de Buceo Conjunto de Juguete para Piscina Juguete...'
+tags: juguetes
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

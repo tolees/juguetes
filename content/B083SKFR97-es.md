@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YM6YudQZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SKFR97-es DUS Soporte para Halcón Milenario  Display Stand para Lego Millennium Falcon  Modelo de Lego No Incluido '
+slug: 'B083SKFR97-es DUS Soporte para Halcón Milenario Display Stand para Lego...'
+tags: lego
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

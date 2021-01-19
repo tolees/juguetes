@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p3hR4uT2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S6DCS76-es Sylvanian Families- Chocolate Rabbit Grandparents Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5190 '
+slug: 'B00S6DCS76-es Sylvanian Families- Chocolate Rabbit Grandparents Mini...'
+tags: sylvanian, families
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

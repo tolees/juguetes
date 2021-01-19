@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FLKqjv0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X6ZXZD-es YIMINYUER Alfombra Puzzle de Colores de Goma EVA Suave  Resistente  Aislante  Lavable  Alfombra de Juegos para niños  tamaño del 30 x 30 cm Blanco Negro R01R04G301020'
+slug: 'B084X6ZXZD-es YIMINYUER Alfombra Puzzle de Colores de Goma EVA Suave...'
+tags: puzzle
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NqAxY-GEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGCP723-es Lixada Antideslizante Bicicleta Soporte de Teléfono Ajustable Soporte de Montaje para 3.6-6.2 Inch Teléfono Móvil Inteligente  Soporte+Banda Negra '
+slug: 'B07SGCP723-es Lixada Antideslizante Bicicleta Soporte de Teléfono...'
+tags: bicicleta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

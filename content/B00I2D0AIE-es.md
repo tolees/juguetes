@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rcz1wMQ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I2D0AIE-es Mousehouse Gifts Adorable muñecas de Trapo Hada de Peluche Rosa de 31 cm'
+slug: 'B00I2D0AIE-es Mousehouse Gifts Adorable muñecas de Trapo Hada de Peluche...'
+tags: peluche
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

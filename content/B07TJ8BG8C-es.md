@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51QFdgyBAzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ8BG8C-es LEGO Movie Pijamas de Manga Corta para niños Multicolor 11-12 Años'
+slug: 'B07TJ8BG8C-es LEGO Movie Pijamas de Manga Corta para niños Multicolor...'
+tags: lego
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

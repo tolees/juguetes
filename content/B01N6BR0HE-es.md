@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51paorBv07L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6BR0HE-es Hasbro - Mph Silly Suitcase Ast  Hasbro  36404EU7 '
+slug: 'B01N6BR0HE-es Hasbro - Mph Silly Suitcase Ast Hasbro 36404EU7'
+tags: hasbro
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ND6xL3D3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LF8DTZ8-es SMARTGYRO X1s Hoverboard eléctrico  Unisex Adulto  Negro  Talla única'
+slug: 'B01LF8DTZ8-es SMARTGYRO X1s Hoverboard eléctrico Unisex Adulto Negro...'
+tags: smartgyro
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

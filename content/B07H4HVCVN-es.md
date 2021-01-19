@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FHIzoaWYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4HVCVN-es Kupton Bolsas de Comida para Fruta Juguetes y Libros-Bolsas de Comestibles Hechas de Algodón Orgánico para una Compra sin Residuos-Ligeras con Cordón Puntada Doble y Etiqueta de Tara-10Bolsa'
+slug: 'B07H4HVCVN-es Kupton Bolsas de Comida para Fruta Juguetes y Libros-...'
+tags: juguetes
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

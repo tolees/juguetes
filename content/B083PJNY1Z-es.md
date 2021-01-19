@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MfRXQW3+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PJNY1Z-es Star Wars-40 Aniversario Figura Yoda  Hasbro E8077 '
+slug: 'B083PJNY1Z-es Star Wars-40 Aniversario Figura Yoda Hasbro E8077'
+tags: hasbro
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

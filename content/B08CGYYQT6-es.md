@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lBROO1iAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGYYQT6-es Molyflower Tableta de Dibujo LCD para niños Magic Pad Juguetes educativos Bloqueo de diseño Anti-borrado Pintura Tablero de Dibujo para niños - Azul'
+slug: 'B08CGYYQT6-es Molyflower Tableta de Dibujo LCD para niños Magic Pad...'
+tags: juguetes
 actualPrice: 20.62 EUR
 currency: EUR
 price: 20.62

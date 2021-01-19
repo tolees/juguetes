@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cSL5dKc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDBY3D8-es Pinypon Action - Pack de 2 Figuritas Superhéroe y Futbolista  Famosa 700014492 '
+slug: 'B07DDBY3D8-es Pinypon Action - Pack de 2 Figuritas Superhéroe y...'
+tags: famosa, pinypon
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

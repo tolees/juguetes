@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Y6SOLMKWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NE5LBS-es Lego 40031734  - Caja de almacenamiento para bloques de construcción color verde parchís'
+slug: 'B003NE5LBS-es Lego 40031734 - Caja de almacenamiento para bloques de...'
+tags: lego
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

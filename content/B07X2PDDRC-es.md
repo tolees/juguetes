@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511qXslyldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2PDDRC-es Pizarra Magnetica Infantil 135 Piezas Puzzle Rompecabezas Magnetico Madera Tablero de Dibujo de Doble Cara Juguetes Educativos para Niños 3 4 5 Años  Número y Letra '
+slug: 'B07X2PDDRC-es Pizarra Magnetica Infantil 135 Piezas Puzzle Rompecabezas...'
+tags: juguetes, puzzle, rompecabezas
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YaiJl7PZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP76GL4-es LEGO Ninjago Spinjitzu Lloyd vs. Garmadon - Peonzas de ninjas de juguete  color verde y morada  70664    color/modelo surtido'
+slug: 'B07FP76GL4-es LEGO Ninjago Spinjitzu Lloyd vs. Garmadon - Peonzas de...'
+tags: lego
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

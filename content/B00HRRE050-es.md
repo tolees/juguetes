@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pmXazaZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRE050-es SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y Accesorios  Color Assorted Colours  Epoch para Imaginar 5052 '
+slug: 'B00HRRE050-es SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y...'
+tags: sylvanian, families
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

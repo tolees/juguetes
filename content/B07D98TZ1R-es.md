@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510i1oAHQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D98TZ1R-es Hot Wheels- Cobra Speed Circuito Slot  Color único  Fábrica de Juguetes 91009 '
+slug: 'B07D98TZ1R-es Hot Wheels- Cobra Speed Circuito Slot Color único Fábrica...'
+tags: juguetes
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

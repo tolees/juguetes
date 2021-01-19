@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XI6YrQddL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765C2PMB-es LEGO City Ártico - Vehículo de Exploración  Juguete de Construcción de Aventuras en la Nieve  Incluye Todoterreno con Ruedas de Oruga  60194 '
+slug: 'B0765C2PMB-es LEGO City Ártico - Vehículo de Exploración Juguete de...'
+tags: lego
 actualPrice: 36.4 EUR
 currency: EUR
 price: 36.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JxHttM8LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BKDXXSR-es /N Cortina de Ducha Wizard Estación de Tren Famosa Imprimir para baño'
+slug: 'B08BKDXXSR-es /N Cortina de Ducha Wizard Estación de Tren Famosa...'
+tags: famosa
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

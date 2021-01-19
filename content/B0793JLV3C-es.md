@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61h5peJxaYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793JLV3C-es Educa Borras - Genuine Puzzles  Puzzle 500 piezas  Cachorros en el equipaje  17645 '
+slug: 'B0793JLV3C-es Educa Borras - Genuine Puzzles Puzzle 500 piezas Cachorros...'
+tags: puzzle
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

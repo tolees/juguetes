@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BFWqojM7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD6F2WT-es Barbie Dreamtopia set de modas y accesorios  juguete para niñas y niños +3 añis  Mattel GJK40    color/modelo surtido'
+slug: 'B07XD6F2WT-es Barbie Dreamtopia set de modas y accesorios juguete para...'
+tags: barbie, mattel
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q7sIsuzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0896WS3TH-es Wimypet 4 Piezas Juguetes de Cuerda para Perros  Juguetes Perro  Cuerda para Masticar Pelota para Limpiar los Dientes Regalos para Perrito Pequeños Medianos Dog Ball Toys para Mascotas No Tóxica'
+slug: 'B0896WS3TH-es Wimypet 4 Piezas Juguetes de Cuerda para Perros Juguetes...'
+tags: juguetes
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

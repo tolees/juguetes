@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zmEC4RPqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CTSJ2-es LEGO Creator - Pastelería Modular  Juguete de Construcción Educativo y Divertido para Niñas y Niños de 8 a 12 Años  Incluye Minifiguras  31077 '
+slug: 'B0765CTSJ2-es LEGO Creator - Pastelería Modular Juguete de Construcción...'
+tags: lego
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

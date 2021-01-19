@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41W01XK8URL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P9FK1ZU-es Mega Bloks Camión golpetones  juguete de construcción para bebé +1 año  Mattel CND68 '
+slug: 'B00P9FK1ZU-es Mega Bloks Camión golpetones juguete de construcción para...'
+tags: mattel, mega, bloks
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

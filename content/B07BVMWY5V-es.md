@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVMWY5V-es Zequins- Muñeco Emmy  Famosa 700014680 '
+slug: 'B07BVMWY5V-es Zequins- Muñeco Emmy Famosa 700014680'
+tags: famosa
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

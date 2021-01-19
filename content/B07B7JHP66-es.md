@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310BAFgWa0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7JHP66-es SmartGyro Xtreme Seat - Asiento para patín eléctrico  compatible con Xiaomi M365 y SmartGyro Xtreme City'
+slug: 'B07B7JHP66-es SmartGyro Xtreme Seat - Asiento para patín eléctrico...'
+tags: smartgyro
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61LMPWfGmyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088DCZ53H-es Regalos de Cumpleaños para Niñas de 3 a 7 Años  Flores Jardín Juguetes para Niñas de 4 a 6 Años Niños Regalo Educativo para Niños Ramo de Bricolaje Floral Craft Regalo para Niños de 4 a 9 Años'
+slug: 'B088DCZ53H-es Regalos de Cumpleaños para Niñas de 3 a 7 Años Flores...'
+tags: juguetes
 actualPrice: 23.86 EUR
 currency: EUR
 price: 23.86

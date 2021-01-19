@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518HVm9HiWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0199GJIYO-es Shopkins- Disney Puzzle  Color  única  Giochi Preziosi Spagna HPK02000 '
+slug: 'B0199GJIYO-es Shopkins- Disney Puzzle Color única Giochi Preziosi Spagna...'
+tags: puzzle
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

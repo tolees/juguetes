@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419tSFtXOYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKD72S1-es TCBIKE Altura de Asiento Ajustable Bicicleta de Equilibrio para niños  12 Pulgadas 3 a 5 años de Edad Robusto de Bici para niños Sin Pedal Juguete Bicicleta de Entrenamiento Deportivo-E'
+slug: 'B07PKD72S1-es TCBIKE Altura de Asiento Ajustable Bicicleta de Equilibrio...'
+tags: bicicleta
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

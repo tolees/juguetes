@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+SIkBMEoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD7WPKJ-es Bizak Artist - Estudio Aqua Crystals  63370001 '
+slug: 'B07DD7WPKJ-es Bizak Artist - Estudio Aqua Crystals 63370001'
+tags: bizak
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fedklKylL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813RB2BW-es DUPLO Town DUPLO Construction Buldócer Vehículo de Construcción de Juguete Set para Niños Pequeños de 2+ Años de Edad  multicolor  Lego ES 10930 '
+slug: 'B0813RB2BW-es DUPLO Town DUPLO Construction Buldócer Vehículo de...'
+tags: lego
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

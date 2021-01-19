@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w4yjX5FBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LSBTG4-es Puzzle de Madera Formas Geometricas 180 Piezas con bolsa almacenamiento Rompecabezas Tangram Juguetes Montessori Formacolor Juegos Educativos Juguete de Aprendizaje Regalos para Niños Niñas 3 4 5 Años'
+slug: 'B089LSBTG4-es Puzzle de Madera Formas Geometricas 180 Piezas con bolsa...'
+tags: juguetes, puzzle, rompecabezas
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

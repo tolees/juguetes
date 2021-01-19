@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yP7UdfSAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013KMVXAU-es Top Trumps Juego de cartas Marvel Avengers Infinity War para hombre Talla única'
+slug: 'B013KMVXAU-es Top Trumps Juego de cartas Marvel Avengers Infinity War...'
+tags: juego, de, cartas
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

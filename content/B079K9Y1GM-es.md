@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315PTlc3SaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K9Y1GM-es Barbie Fashionista Muñeca cuerpo Curvy  look  Future is bright   Mattel FJF58    color/modelo surtido'
+slug: 'B079K9Y1GM-es Barbie Fashionista Muñeca cuerpo Curvy look Future is...'
+tags: barbie, mattel
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

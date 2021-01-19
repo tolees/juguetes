@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xjVrRnN8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCMCX57-es Yosoo Matemáticas Manipuladores De Madera Barras de Contar Palos Tarjetas de Números Bloques de Construcción Juguetes Educativos'
+slug: 'B01NCMCX57-es Yosoo Matemáticas Manipuladores De Madera Barras de Contar...'
+tags: juguetes
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

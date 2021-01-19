@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513dM6+3yHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084WXBKM7-es YIMINYUER Alfombra Puzle Niños Colchoneta Suave Juego Rompecabezas para Niños Espuma EVA Naranja R02G301020'
+slug: 'B084WXBKM7-es YIMINYUER Alfombra Puzle Niños Colchoneta Suave Juego...'
+tags: rompecabezas
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

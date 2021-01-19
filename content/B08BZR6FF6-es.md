@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qBra3GTZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZR6FF6-es LoveOlvidoF Tableta de Dibujo LCD para niños Magic Pad Juguetes educativos Bloqueo de diseño Anti-borrado Pintura Tablero de Dibujo para niños - Azul'
+slug: 'B08BZR6FF6-es LoveOlvidoF Tableta de Dibujo LCD para niños Magic Pad...'
+tags: juguetes
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

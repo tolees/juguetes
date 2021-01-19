@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SrSzL0GCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002LIEEG-es Clementoni - Puzzle de 1000 Piezas Louvre  diseño Van Dael: Jarrón con Flores  314157 '
+slug: 'B0002LIEEG-es Clementoni - Puzzle de 1000 Piezas Louvre diseño Van Dael:...'
+tags: clementoni, puzzle
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

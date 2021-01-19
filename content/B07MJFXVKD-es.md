@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412kX7TGKDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJFXVKD-es Eono by Amazon Árboles para Gatos rasguña los Postes de sisal Natural con Bola de Juguetes para Dormir de Nido Gris'
+slug: 'B07MJFXVKD-es Eono by Amazon Árboles para Gatos rasguña los Postes de...'
+tags: juguetes
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

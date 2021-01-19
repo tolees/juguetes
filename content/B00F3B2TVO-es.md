@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51madyg7JjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F3B2TVO-es LEGO DUPLO - My First Caja de Diversión  Juguete de Preescolar de Construcción para Niños y Niñas de 1 Año y Medio a 5 Años Divertido y Educativo  10572 '
+slug: 'B00F3B2TVO-es LEGO DUPLO - My First Caja de Diversión Juguete de...'
+tags: lego
 actualPrice: 11.73 EUR
 currency: EUR
 price: 11.73

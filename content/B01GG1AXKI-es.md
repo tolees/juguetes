@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+TKV1MhgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GG1AXKI-es TROLLS Poppy Momento Abrazo  Multicolor.  Hasbro B6568105 '
+slug: 'B01GG1AXKI-es TROLLS Poppy Momento Abrazo Multicolor. Hasbro B6568105'
+tags: hasbro
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

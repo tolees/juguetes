@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XeVLbnvOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CFDQB-es LEGO Creator - Espectáculo acrobático ambulante  31085 '
+slug: 'B0765CFDQB-es LEGO Creator - Espectáculo acrobático ambulante 31085'
+tags: lego
 actualPrice: 40.4 EUR
 currency: EUR
 price: 40.4

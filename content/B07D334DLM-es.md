@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FATpvpj9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D334DLM-es Grupo K-2 Riscko - Bicicleta sin Pedales con sillín Y Manillar Regulables | Ultraligera | Correpasillos Minibike | Bicicleta para Niños de 2 a 5 años Baby Star Blanca'
+slug: 'B07D334DLM-es Grupo K-2 Riscko - Bicicleta sin Pedales con sillín Y...'
+tags: bicicleta
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

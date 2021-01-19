@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aB5V80gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXGRMDC-es Moxilyn Ropa de Ciclismo para Hombre Traje de Bicicleta Conjunto de Verano Top + Bib Shorts Acolchados  Almohadilla de Asiento de Gel 9D para Montar En Bicicleta Conjunto Cómodo y De Secado Rápido'
+slug: 'B07VXGRMDC-es Moxilyn Ropa de Ciclismo para Hombre Traje de Bicicleta...'
+tags: bicicleta
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

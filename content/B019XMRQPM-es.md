@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514-2fuqx7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019XMRQPM-es Fajiabao Puzzles de Madera Magnético Dibujo Placa Rompecabezas Pizarra con Caja para Niños de 3 Años'
+slug: 'B019XMRQPM-es Fajiabao Puzzles de Madera Magnético Dibujo Placa...'
+tags: rompecabezas
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

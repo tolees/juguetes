@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SIQlVpRkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JSLWZF3-es HANMUN Sonajeros de Bebe Juguetes de Mordedor Infante Sacudiendo la Campana Conjunto de Sonajero con Caja de Almacenamiento Juguetes de Regalo para 0  3  6  9  12 Meses de Edad y Recién Nacido Bebe'
+slug: 'B08JSLWZF3-es HANMUN Sonajeros de Bebe Juguetes de Mordedor Infante...'
+tags: juguetes
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/6122JL028PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793K7HKQ-es Educa Borrás- Serie Puzzle 500 Piezas  Princesas Disney  17723 '
+slug: 'B0793K7HKQ-es Educa Borrás- Serie Puzzle 500 Piezas Princesas Disney 17723'
+tags: puzzle
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

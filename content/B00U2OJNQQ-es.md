@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v6RLiJMEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2OJNQQ-es Aurora World - Peluche Cabra  73903 '
+slug: 'B00U2OJNQQ-es Aurora World - Peluche Cabra 73903'
+tags: peluche
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

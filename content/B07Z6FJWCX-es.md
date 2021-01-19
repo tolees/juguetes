@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41srexX4kiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6FJWCX-es Xpixel Mini Avenue Blocks - Tienda de Juguetes  Juguetería - Juguete de Construcción - Bloques Tamaño Mini - Construye tu Propia Mini Avenida'
+slug: 'B07Z6FJWCX-es Xpixel Mini Avenue Blocks - Tienda de Juguetes Juguetería...'
+tags: juguetes
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

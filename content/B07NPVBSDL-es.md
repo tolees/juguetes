@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KjB-T5fOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPVBSDL-es Bizak Aire Libre Skip It 2 en 1  BIZAK 35007558 '
+slug: 'B07NPVBSDL-es Bizak Aire Libre Skip It 2 en 1 BIZAK 35007558'
+tags: bizak
 actualPrice: 10.54 EUR
 currency: EUR
 price: 10.54

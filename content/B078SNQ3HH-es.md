@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TfNArbj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SNQ3HH-es Abree Juego de Pesca Magnética 26 Peces  - Juguete Educativo&Interactivo de Pesca con Caña - Juguetes de Piscina & Bañera para Niños - Juego Acción&Juguete Reflejo para Bebé/Niños  2 - 5 años '
+slug: 'B078SNQ3HH-es Abree Juego de Pesca Magnética 26 Peces - Juguete...'
+tags: juguetes
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

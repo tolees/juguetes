@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61jdJw2B6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JWFA7PC-es Juegos Bizak - Hedbanz actuando  61924162 '
+slug: 'B00JWFA7PC-es Juegos Bizak - Hedbanz actuando 61924162'
+tags: bizak
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

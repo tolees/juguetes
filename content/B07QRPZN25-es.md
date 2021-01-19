@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-1GscfP3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRPZN25-es ATOPDREAM 3-10 Años Juguetes Niño Juguetes para Chicos 3-10 Años Regalo Regalos para Niños de 3 a 10 Años Juguetes Niñas 5 6 7 8 Años Regalos Cumpleaños Niños Juguetes Chico'
+slug: 'B07QRPZN25-es ATOPDREAM 3-10 Años Juguetes Niño Juguetes para Chicos...'
+tags: juguetes
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

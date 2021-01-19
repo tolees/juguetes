@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p5xi84CkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085S6ZM6Y-es Juguete de Aparcamiento de Jaques de Londres con Dinosaurios - Juguetes de Coche niños y Juguetes para niñas - Juguetes y Juegos de Madera Desde 1795'
+slug: 'B085S6ZM6Y-es Juguete de Aparcamiento de Jaques de Londres con...'
+tags: juguetes
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

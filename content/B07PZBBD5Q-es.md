@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LcFL9saEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZBBD5Q-es EXCEED Piscina Inflable para bebés Flotador para niños Flotante para niños  Piscina Flotante para la Edad de 3-36 Meses  XL '
+slug: 'B07PZBBD5Q-es EXCEED Piscina Inflable para bebés Flotador para niños...'
+tags: flotador
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

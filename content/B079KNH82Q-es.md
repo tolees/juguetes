@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hn7wTu3oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KNH82Q-es Mega Construx - Pokemon Figuras Venesaur Versus Beedrill Duel  Juguetes Niños +8 Años  Mattel FVK76 '
+slug: 'B079KNH82Q-es Mega Construx - Pokemon Figuras Venesaur Versus Beedrill...'
+tags: juguetes, mattel, mega, construx
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dX-%2BuIEaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J5NIYLY-es Educa Borrás - Tower Bridge  Puzzle 3D  16999 '
+slug: 'B01J5NIYLY-es Educa Borrás - Tower Bridge Puzzle 3D 16999'
+tags: puzzle
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

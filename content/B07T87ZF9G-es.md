@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QMD0ebOIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T87ZF9G-es Supersoaker-Fortnite Pump Sg  Hasbro E76475L0 '
+slug: 'B07T87ZF9G-es Supersoaker-Fortnite Pump Sg Hasbro E76475L0'
+tags: hasbro
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HDlFAqoQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9SGN67-es SYLVANIAN FAMILIES- Amigas patinadoras sobre Hielo  Epoch para Imaginar 5258 '
+slug: 'B06X9SGN67-es SYLVANIAN FAMILIES- Amigas patinadoras sobre Hielo Epoch...'
+tags: sylvanian, families
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

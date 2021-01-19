@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JINf7L-zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBQKK62-es Candado De Bicicleta [Reforzar La VersióN] [1.5m x10mm]Diyife Cerradura De Cadena De Servicio Pesado  Bloqueo De Cable De CombinacióN De 4 DíGitos Que Se Puede Reiniciar Mejor Para Bicicletas'
+slug: 'B07XBQKK62-es Candado De Bicicleta [Reforzar La VersióN] [1.5m...'
+tags: bicicleta
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ig-oa+aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HD38FWP-es Mattel Disney Toy Story 4 Figura Básica Hamm  Juguetes Niños +3 Años  GHY68 '
+slug: 'B07HD38FWP-es Mattel Disney Toy Story 4 Figura Básica Hamm Juguetes...'
+tags: juguetes, mattel
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

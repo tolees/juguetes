@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XIR8khnEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MNB3VP-es Monopoly- Junior Electronico  Versión Española   Hasbro E1842105 '
+slug: 'B079MNB3VP-es Monopoly- Junior Electronico Versión Española Hasbro E1842105'
+tags: hasbro
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

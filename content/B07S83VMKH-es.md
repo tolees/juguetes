@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+qh1TokGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S83VMKH-es Selle Italia - Sillìn Bicicleta de Carretera SLR Boost TM Superflow  Rail Manganese Tubo Ø7  Sillìn Corto Road Perfomance Soft-tek  Comfort'
+slug: 'B07S83VMKH-es Selle Italia - Sillìn Bicicleta de Carretera SLR Boost TM...'
+tags: bicicleta
 actualPrice: 86.46 EUR
 currency: EUR
 price: 86.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ws0ONw5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BPUNWEE-es TY- Peluche  juguete  Color negro/blanco  15 cm  United Labels Ibérica 37191TY    color/modelo surtido'
+slug: 'B01BPUNWEE-es TY- Peluche juguete Color negro/blanco 15 cm United Labels...'
+tags: peluche
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

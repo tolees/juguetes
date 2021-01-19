@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tp3E+b3qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HX3NDH-es Fisher Price Andador Bolitas Saltarinas  Correpasillos Bebé  Mattel FGY72 '
+slug: 'B077HX3NDH-es Fisher Price Andador Bolitas Saltarinas Correpasillos Bebé...'
+tags: mattel
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

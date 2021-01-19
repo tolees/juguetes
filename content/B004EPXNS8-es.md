@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61oVlE3F6GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPXNS8-es Educa Borrás dibujos animados y cómic Puzzle 1.000 piezas  Tigres blancos de Bengala  37.1 x 27.2 x 5.6 14808'
+slug: 'B004EPXNS8-es Educa Borrás dibujos animados y cómic Puzzle 1.000 piezas...'
+tags: puzzle
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

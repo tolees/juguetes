@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XTFJulSYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NQ44SZ-es Coolle- Juego de Bolas múltiples texturizadas | Bola táctil para bebés | Juguetes de baño de Bolas | Bolas sensoriales para bebés de 6 Meses o más con Colores Brillantes y chirridos  Paquete de 8'
+slug: 'B087NQ44SZ-es Coolle- Juego de Bolas múltiples texturizadas | Bola...'
+tags: juguetes
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

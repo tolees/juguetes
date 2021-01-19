@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515t+JlRZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQGZ2ZB-es Creatable World Figura Unisex  muñeco articulado  pelucas con rizos y trenzas y accesorios  Mattel GGG55    color/modelo surtido'
+slug: 'B07NQGZ2ZB-es Creatable World Figura Unisex muñeco articulado pelucas...'
+tags: mattel
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

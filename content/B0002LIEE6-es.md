@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zUc0I2uUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002LIEE6-es Clementoni-Rompecabezas Puzzle 1000 Piezas Museos Leonardo: Mona Lisa  12+  31413 '
+slug: 'B0002LIEE6-es Clementoni-Rompecabezas Puzzle 1000 Piezas Museos...'
+tags: puzzle
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

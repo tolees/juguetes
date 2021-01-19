@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u1TQTHxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT6MGNC-es Mega Bloks Bloquefante divertido. Jugete de construcción para bebé + 1 año  Mattel FFG21 '
+slug: 'B01MT6MGNC-es Mega Bloks Bloquefante divertido. Jugete de construcción...'
+tags: mattel, mega, bloks
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

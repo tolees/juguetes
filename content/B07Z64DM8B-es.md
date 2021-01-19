@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qF5VnOllL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z64DM8B-es IMMEK Puzzles de Madera Juguetes para Bebes 1 Año 2 3 4 5 Años Montessori Educativos Rompecabezas Juegos Niñas y Niños Infantile Regalo Preescolar de Aprendizaje Temprano Animales y Vehículos 6 Piezas'
+slug: 'B07Z64DM8B-es IMMEK Puzzles de Madera Juguetes para Bebes 1 Año 2 3 4 5...'
+tags: juguetes, rompecabezas
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

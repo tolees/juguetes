@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uA1LzQbML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8Y1FSZ-es LEGO Hidden Side - Feria Encantada  Set de Construcción con Atracciones de Juguete y Minifiguras de Fantasmas  Funciona con App  a Partir de 8 Años  70432 '
+slug: 'B07W8Y1FSZ-es LEGO Hidden Side - Feria Encantada Set de Construcción con...'
+tags: lego
 actualPrice: 43.96 EUR
 currency: EUR
 price: 43.96

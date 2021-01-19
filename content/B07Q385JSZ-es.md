@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514U3txBWnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q385JSZ-es Ravensburger - Multipack Memory+ 3 puzzle Gormiti  20519 '
+slug: 'B07Q385JSZ-es Ravensburger - Multipack Memory+ 3 puzzle Gormiti 20519'
+tags: puzzle, ravensburger
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

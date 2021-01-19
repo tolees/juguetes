@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fji+m5hmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089D8CZRD-es BeebeeRun Juguete de Cocina  30 Piezas Juego de Ollas y Cacerolas Accesorios de Cocina Infantil  Juguete de Comida Imitando Juguetes  Regalos de Juguetes Educativos para Niños y Niñas 3 años +'
+slug: 'B089D8CZRD-es BeebeeRun Juguete de Cocina 30 Piezas Juego de Ollas y...'
+tags: juguetes
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

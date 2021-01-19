@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BKHDMB1rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CDY6DGV-es Moma Bikes Bicicleta Trekking / Paseo  HYBRID 28"  Alu  SHIMANO 18V  Susp. Delant.'
+slug: 'B07CDY6DGV-es Moma Bikes Bicicleta Trekking / Paseo HYBRID 28" Alu...'
+tags: bicicleta
 actualPrice: 243.93 EUR
 currency: EUR
 price: 243.93

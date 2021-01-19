@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QYETM+ibL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CKLZJ6Q-es PrimeMatik - Soporte de Pared con Gancho Plegable para Colgar Bicicleta'
+slug: 'B01CKLZJ6Q-es PrimeMatik - Soporte de Pared con Gancho Plegable para...'
+tags: bicicleta
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HboP8kQWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CRFR4-es LEGO City - Ártico: Transporte Aéreo  Juguete de Construcción con Helicóptero de Juguete  ATV  Figura de Tigre  Aventuras Invernales de Juguete  60193 '
+slug: 'B0765CRFR4-es LEGO City - Ártico: Transporte Aéreo Juguete de...'
+tags: lego
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

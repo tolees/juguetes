@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q36I2S0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C84T2FJ-es HOMCOM Alfombra Puzle Niños Colchoneta Suave Juego Rompecabezas para Niños 3.6㎡ Letras Abecedario y Números 0-9 Goma Espuma EVA Lavable Resistente a la Humedad'
+slug: 'B07C84T2FJ-es HOMCOM Alfombra Puzle Niños Colchoneta Suave Juego...'
+tags: rompecabezas
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

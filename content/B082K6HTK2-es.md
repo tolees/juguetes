@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TL9Nt7ogL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082K6HTK2-es Soft M Edical Expander Silicone Purple Set 6 Juguetes En Cualquier Lugar Que Desee Ḅùtt AṈḁl Plùg Vibrḁdôr Vibrḁdôr Pḁrḁ Mùjêrêṧ Pḁrêjḁ PriṈcipiḁṈtêṧ Hômbrêṧ Gḁy Vidriô IṈflḁblê SilicôṈḁ Côlḁ Jùgùêtê'
+slug: 'B082K6HTK2-es Soft M Edical Expander Silicone Purple Set 6 Juguetes En...'
+tags: juguetes
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

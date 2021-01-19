@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I6jv-wZuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TWFX51A-es GRU 2: Mi Villano Favorito - Peluche Interactivo Sing N Dance Bob  Mondo SPA 31009 '
+slug: 'B00TWFX51A-es GRU 2: Mi Villano Favorito - Peluche Interactivo Sing N...'
+tags: peluche
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

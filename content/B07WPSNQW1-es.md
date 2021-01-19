@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wzrlPoWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPSNQW1-es Playgro Set de Regalo para jugar de Jerry la Jirafa  Juguetes Para Bebé  17 piezas  Desde los 6 meses  Libre de BPA  Multicolor  40210'
+slug: 'B07WPSNQW1-es Playgro Set de Regalo para jugar de Jerry la Jirafa...'
+tags: juguetes
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

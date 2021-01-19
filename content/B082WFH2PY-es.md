@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NPNFDnmAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WFH2PY-es Flamingueo Peluche de Aguacate XL - Peluche Grande con Diseño de Aguacate  Almohada de Aguacate Suave Comfort  Cojin de Aguacate para Cama  Peluche de Aguacate para Niños y Adultos  60 x 45 cm  60 CM '
+slug: 'B082WFH2PY-es Flamingueo Peluche de Aguacate XL - Peluche Grande con...'
+tags: peluche
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

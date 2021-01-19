@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g0YK8ooVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HYK7ZQ-es NICEWIN Ropa Interior de Ciclismo para Hombre Pantalones Cortos de compresión Acolchados en 21D MTB Bicicleta Bicicleta Motocicleta'
+slug: 'B083HYK7ZQ-es NICEWIN Ropa Interior de Ciclismo para Hombre Pantalones...'
+tags: bicicleta
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

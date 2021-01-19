@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5173K6BZGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IJA4BNE-es cesto juguetes infantil KAKOO cesto juguetes almacenaje de cesto plegable ropa sucia del material impermeable para guardarlo juguetes en habitación o baño'
+slug: 'B01IJA4BNE-es cesto juguetes infantil KAKOO cesto juguetes almacenaje de...'
+tags: juguetes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

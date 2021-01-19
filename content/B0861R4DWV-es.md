@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BMSdJPszL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0861R4DWV-es BBLIKE - Juego de juguetes de baño para niños y niñas de 18 meses + niños y niñas para juego de pesca en bañera  piscina  playa  11 unidades de juguetes de ducha'
+slug: 'B0861R4DWV-es BBLIKE - Juego de juguetes de baño para niños y niñas de...'
+tags: juguetes
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

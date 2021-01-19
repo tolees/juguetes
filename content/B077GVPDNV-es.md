@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AO2S-R+rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GVPDNV-es Makeblock 125089936 Juguete programable - Juguetes programables  Set de construcción programable  Multicolor  De plástico  6 año s   Android iOS  Bluetooth '
+slug: 'B077GVPDNV-es Makeblock 125089936 Juguete programable - Juguetes...'
+tags: juguetes
 actualPrice: 98.1 EUR
 currency: EUR
 price: 98.1

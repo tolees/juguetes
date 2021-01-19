@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ao3vLfJPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005VPR87M-es Educa Borrás- Serie puzzle 1000 piezas  Los héroes de Marvel  Color  37.1 x 27.2 x 5.6  15193 '
+slug: 'B005VPR87M-es Educa Borrás- Serie puzzle 1000 piezas Los héroes de...'
+tags: puzzle
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

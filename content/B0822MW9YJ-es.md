@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uS87zLoCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822MW9YJ-es AFASOES 2 Pcs Valvula Tubeless MTB 40mm Valvula Bicicleta Fina Válvulas sin Cámara Valvula Tubeless Carretera Universal + 2 x Tapa 2 x Tórica 1x Llave para Llanta de Carreteras Bicicletas de Montaña'
+slug: 'B0822MW9YJ-es AFASOES 2 Pcs Valvula Tubeless MTB 40mm Valvula Bicicleta...'
+tags: bicicleta
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

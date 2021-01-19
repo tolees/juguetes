@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HNcu96mBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MY379NT-es Clementoni- Puzzle 60 Piezas Aladino  Multicolor  26053.9 '
+slug: 'B07MY379NT-es Clementoni- Puzzle 60 Piezas Aladino Multicolor 26053.9'
+tags: puzzle
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

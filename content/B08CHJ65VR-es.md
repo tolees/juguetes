@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p--JQngcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHJ65VR-es Harxin 26 Pcs Juguete Dinosaurio  Juguete Dinosaurio Educativo Dinosaurio Edificio Jurásico Mundo Juguetes Infantiles  Dinosaurios Juguetes '
+slug: 'B08CHJ65VR-es Harxin 26 Pcs Juguete Dinosaurio Juguete Dinosaurio...'
+tags: juguetes
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

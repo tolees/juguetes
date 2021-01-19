@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C8hdNAJ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFXDKFJ-es Disney Toy Story 4 - Casco de Ranger Espacial Buzz Lightyear  Juguetes Niños +4 Años  Mattel GFM39 '
+slug: 'B07PFXDKFJ-es Disney Toy Story 4 - Casco de Ranger Espacial Buzz...'
+tags: juguetes, mattel
 actualPrice: 54.52 EUR
 currency: EUR
 price: 54.52

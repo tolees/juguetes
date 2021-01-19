@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MTMi+5o8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894WKRFP-es Surplex Juego de Juguetes de baño para niños  6 Peces flotantes y 2 Barras Juguete de Pesca Juguetes Baño a Los Niños Niña Juguetes Educativos para Bañera o Piscina Gran Regalo'
+slug: 'B0894WKRFP-es Surplex Juego de Juguetes de baño para niños 6 Peces...'
+tags: juguetes
 actualPrice: 9.28 EUR
 currency: EUR
 price: 9.28

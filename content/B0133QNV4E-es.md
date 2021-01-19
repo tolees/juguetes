@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QihLWjxYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0133QNV4E-es Schmidt Spiele 59365 - Mark Gray  Río Canning - Australia Occidental  clásico Puzzle  136 Piezas'
+slug: 'B0133QNV4E-es Schmidt Spiele 59365 - Mark Gray Río Canning - Australia...'
+tags: puzzle
 actualPrice: 6.53 EUR
 currency: EUR
 price: 6.53

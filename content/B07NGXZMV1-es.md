@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b5oW4C+3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGXZMV1-es Barbie - Collector Felices Fiestas 2019  Muñeca Rubia con Ondas  Mattel FXF01 '
+slug: 'B07NGXZMV1-es Barbie - Collector Felices Fiestas 2019 Muñeca Rubia con...'
+tags: barbie, mattel
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

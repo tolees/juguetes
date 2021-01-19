@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61PYAavVo2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CTSDDT-es Batman La Lego Película Blu-Ray  Uhd [Blu-ray]'
+slug: 'B071CTSDDT-es Batman La Lego Película Blu-Ray Uhd [Blu-ray]'
+tags: lego
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

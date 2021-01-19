@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61-vi9omslL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793HJ6KY-es Educa Borrás Puzzle 1.000 Piezas  Billetes del Mundo 17659'
+slug: 'B0793HJ6KY-es Educa Borrás Puzzle 1.000 Piezas Billetes del Mundo 17659'
+tags: puzzle
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

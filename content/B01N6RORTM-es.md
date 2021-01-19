@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ajmc9T8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6RORTM-es Thule TH100090 Portabultos de Bicicleta  Unisex Adulto  Black  Talla Única'
+slug: 'B01N6RORTM-es Thule TH100090 Portabultos de Bicicleta Unisex Adulto...'
+tags: bicicleta
 actualPrice: 69.09 EUR
 currency: EUR
 price: 69.09

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518Sz3kv%2BVL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPD8MBC-es Aizhy Bomba de pie de Doble Barril  Bomba de Bicicleta de Doble Cilindro  Bomba de Piso de Bicicleta  Bomba de neumático de Bicicleta portátil con manómetro y Cabezal de válvula Inteligente'
+slug: 'B07VPD8MBC-es Aizhy Bomba de pie de Doble Barril Bomba de Bicicleta de...'
+tags: bicicleta
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

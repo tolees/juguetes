@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519mBEDe4aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TKDTTZ-es Jaques de Londres Juguemos a los Gatos Locos Apilables - Juguetes de Madera apilar y Juguetes de Animales de Madera - Juguetes de Madera Ideales para 1 2 3 4 5 años Desde 1795'
+slug: 'B085TKDTTZ-es Jaques de Londres Juguemos a los Gatos Locos Apilables -...'
+tags: juguetes
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

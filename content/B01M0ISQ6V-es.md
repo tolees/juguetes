@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0ISQ6V-es Manguitos Hinchables Bestway Barbie'
+tags: barbie
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

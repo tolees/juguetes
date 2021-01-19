@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51v2AOKZMbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYSRJXX-es Hasbro B90701 Animales de Juguete Juguetes de Peluche  Animales de Juguete   4 año s   FurReal Friends  Chica  1 5 V '
+slug: 'B06XYSRJXX-es Hasbro B90701 Animales de Juguete Juguetes de Peluche...'
+tags: hasbro, juguetes, peluche
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

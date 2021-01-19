@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51je-Wpp3nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GE1Z9PY-es Pinypon by PINY Set de Cuatro muñecas  Multicolor  Famosa 700012916 '
+slug: 'B01GE1Z9PY-es Pinypon by PINY Set de Cuatro muñecas Multicolor Famosa...'
+tags: famosa, pinypon
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

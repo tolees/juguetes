@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yn4w7qOUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892DTR7L-es Molyflower Los niños juegan Water Mat Juegos Beach Pad Niños Spray de Agua al Aire Libre Beach Mat Césped Aspersor Inflable Cojín de Juguetes Cojín - Azul - 100cm'
+slug: 'B0892DTR7L-es Molyflower Los niños juegan Water Mat Juegos Beach Pad...'
+tags: juguetes
 actualPrice: 18.28 EUR
 currency: EUR
 price: 18.28

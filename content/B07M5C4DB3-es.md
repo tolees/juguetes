@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d03dt5t0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5C4DB3-es Hasbro Gaming - Juego infantil Tiny Pong  Hasbro E3112EU4 '
+slug: 'B07M5C4DB3-es Hasbro Gaming - Juego infantil Tiny Pong Hasbro E3112EU4'
+tags: hasbro
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

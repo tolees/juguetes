@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IrkKXedAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DQL7L1-es Pikmi Pops- Mini Surprise Duo Peluche perfumado  Multicolor  Giochi Preziosi Spagna PKM02000    color/modelo surtido'
+slug: 'B076DQL7L1-es Pikmi Pops- Mini Surprise Duo Peluche perfumado Multicolor...'
+tags: peluche
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

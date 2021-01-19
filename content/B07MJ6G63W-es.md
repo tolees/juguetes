@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ORlNqiBUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ6G63W-es TOP BRIGHT Juguetes Magnéticos para Niños Pequeños  Juego de Captura y Alimentación  Juguetes de Habilidades Motoras Finas  Regalos de Aprendizaje Temprano para Niñas y Niños de 2 Años'
+slug: 'B07MJ6G63W-es TOP BRIGHT Juguetes Magnéticos para Niños Pequeños Juego...'
+tags: juguetes
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Q6oVnntxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OQB8CY-es Educa- Provincias España Puzzle infantil de 150 piezas  a partir de 6 años  14870 '
+slug: 'B005OQB8CY-es Educa- Provincias España Puzzle infantil de 150 piezas a...'
+tags: puzzle
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

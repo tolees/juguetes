@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XzU6OQZWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRDP88-es SYLVANIAN FAMILIES Sylvanian Families-4869 Set Barbacoa  Color Assorted Colours  Epoch para Imaginar 2239 '
+slug: 'B00HRRDP88-es SYLVANIAN FAMILIES Sylvanian Families-4869 Set Barbacoa...'
+tags: sylvanian, families
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

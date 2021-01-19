@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VbBJotSoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RQXSXX-es Pikmi Pops- Pushme Up Peluche perfumado  Giochi Preziosi Spagna PKM15000    color/modelo surtido'
+slug: 'B079RQXSXX-es Pikmi Pops- Pushme Up Peluche perfumado Giochi Preziosi...'
+tags: peluche
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

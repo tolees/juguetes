@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lWKoWqcUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CR4PQRC-es Revell- Mini RC Racing Car I Juguetes a Control Remoto  Multicolor  23560 '
+slug: 'B07CR4PQRC-es Revell- Mini RC Racing Car I Juguetes a Control Remoto...'
+tags: juguetes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

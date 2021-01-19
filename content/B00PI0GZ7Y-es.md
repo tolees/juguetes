@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fnBnamJ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PI0GZ7Y-es Fisher-Price - Duermebebés sueños Felices  Mattel CHG19 '
+slug: 'B00PI0GZ7Y-es Fisher-Price - Duermebebés sueños Felices Mattel CHG19'
+tags: fisher-price, mattel
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

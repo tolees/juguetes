@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516+7da22cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCJXV8M-es VTech Barco pirata  cazatesoros transformable en isla  incluye 3 figuras   VTech 80-177822 '
+slug: 'B07CCJXV8M-es VTech Barco pirata cazatesoros transformable en isla...'
+tags: vtech
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

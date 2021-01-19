@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GWNBcAfNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ6CFWG-es Tablets de Escritura LCD a Color Tablero de Dibujo eWriter 10 Pulgada Gráfica Pizarra Magica de Memo Pad Electrónico Escritura Digital Regalos para Niños Muchachos Chicas Juguetes 3-6 Años  Blanco '
+slug: 'B07MZ6CFWG-es Tablets de Escritura LCD a Color Tablero de Dibujo eWriter...'
+tags: juguetes
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RwM5aI9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WWXJXG-es Herize Puzzle 500 Piezas para Adultos Niños | Paisajes de Castillo del Jardín Puzzle Niños Regalos Hombre Intelectual Juguetes Educativos Puzzle Adultos Niños Decoración del Hogar 50X40 CM'
+slug: 'B086WWXJXG-es Herize Puzzle 500 Piezas para Adultos Niños | Paisajes de...'
+tags: juguetes, puzzle
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

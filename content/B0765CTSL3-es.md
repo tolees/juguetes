@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bvRuk2L+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CTSL3-es LEGO Juniors - Fuga del T Rex  Set de Construcción de Juguete de Dinosaurio con Muñeco del Tiranosaurio y Minifiguras para Niños y Niñas  10758 '
+slug: 'B0765CTSL3-es LEGO Juniors - Fuga del T Rex Set de Construcción de...'
+tags: lego
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

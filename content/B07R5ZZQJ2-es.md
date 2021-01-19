@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51REEex9mfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5ZZQJ2-es Splash Play Mat  Uiter Tapete de Aprendizaje para Salpicar con Rociadores para Actividades al Aire Libre  Juguetes Inflables de Agua para Bebés  Niños Pequeños y Niños  60” / 150 cm '
+slug: 'B07R5ZZQJ2-es Splash Play Mat Uiter Tapete de Aprendizaje para Salpicar...'
+tags: juguetes
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

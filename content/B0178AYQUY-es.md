@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61rU1pANtCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0178AYQUY-es ION fitness AXEL FI022 bicicleta estática plegable con respaldo'
+slug: 'B0178AYQUY-es ION fitness AXEL FI022 bicicleta estática plegable con...'
+tags: bicicleta
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

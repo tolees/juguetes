@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y2SoJqFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLSSKXM-es IMC Toys - Club Petz  Peluche Unicornio Puffy  91818 '
+slug: 'B07NLSSKXM-es IMC Toys - Club Petz Peluche Unicornio Puffy 91818'
+tags: peluche
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

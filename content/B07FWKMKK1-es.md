@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gG5vTe86L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWKMKK1-es Mattel Disney Toy Story 4 Figura Duke Caboom acrobacias y Carreras con Su Moto  Juguetes Niños +3 Años  GFB55    color/modelo surtido'
+slug: 'B07FWKMKK1-es Mattel Disney Toy Story 4 Figura Duke Caboom acrobacias y...'
+tags: juguetes, mattel
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

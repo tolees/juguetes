@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51f7DmW-JdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY6V6V8-es lenbest 7pcs Squishys Kawaii Juguetes  Juguetes Squishies  Juguete Estrés Alivio Suave  Alivia el Estrés  Aumenta la Circulación Sanguínea en Ambas Manos  no es Fácil de Romper  no Tóxico'
+slug: 'B07PY6V6V8-es lenbest 7pcs Squishys Kawaii Juguetes Juguetes Squishies...'
+tags: juguetes
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

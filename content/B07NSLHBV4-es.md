@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ffFULa8pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSLHBV4-es Clementoni 21604 Clementoni-21604-Supercolor - Puzzle-Der König Der Löwen-2 x 60 Piezas  Multicolor'
+slug: 'B07NSLHBV4-es Clementoni 21604 Clementoni-21604-Supercolor - Puzzle-Der...'
+tags: clementoni
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88
