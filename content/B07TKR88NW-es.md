@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKR88NW-es Cinta de la motocicleta Etiqueta de la decoración Rueda de...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

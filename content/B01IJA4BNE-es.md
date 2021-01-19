@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IJA4BNE-es cesto juguetes infantil KAKOO cesto juguetes almacenaje de...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

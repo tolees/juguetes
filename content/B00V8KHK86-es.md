@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V8KHK86-es Geomag- Mechanics Construcciones magnéticas y juegos...'
-tags: [ 'tole.es','geomag-', ]
+tags: [ 'geomag-', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

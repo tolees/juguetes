@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PTR7N-es LEGO Disney Princess - Aventura Oceánica de Vaiana Juguete...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGV33XC-es Bolsa de Almacenamiento de Juguetes para niños Alfombra de...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

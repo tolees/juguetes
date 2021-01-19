@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXE3J50-es Moma Bikes City Classic 26"- Bicicleta Paseo Aluminio...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

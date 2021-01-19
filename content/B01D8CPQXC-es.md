@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D8CPQXC-es Shimano CN-HG701-11 - Cadena para bicicleta Estrecha 11...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 29.51 EUR
 currency: EUR
 price: 29.51

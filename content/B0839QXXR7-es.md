@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0839QXXR7-es Pinypon Action- Bote pirata con 2 figuras para niños y...'
-tags: [ 'tole.es','famosa','pinypon', ]
+tags: [ 'famosa','pinypon', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

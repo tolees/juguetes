@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZ97GV-es Funda para Bicicleta Impermeable Massway Cubierta...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

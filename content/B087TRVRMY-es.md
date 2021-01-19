@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TRVRMY-es Rolimate Juguete Educativo Rompecabezas de Madera Juguete...'
-tags: [ 'tole.es','rompecabezas', ]
+tags: [ 'rompecabezas', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SVP2YT-es LEGO Friends - Autocaravana de Mia Set de Construcción...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 43.42 EUR
 currency: EUR
 price: 43.42

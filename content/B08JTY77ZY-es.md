@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JTY77ZY-es Dittzz Cabeza para Maquillar y Peinar 37 Piezas Juguetes...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

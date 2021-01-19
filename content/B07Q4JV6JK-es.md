@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4JV6JK-es VTech- KidiGear Walkie Talkies Multicolor Box Size: 25 x...'
-tags: [ 'tole.es','vtech-', ]
+tags: [ 'vtech-', ]
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

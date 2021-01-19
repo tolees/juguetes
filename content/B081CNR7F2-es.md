@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CNR7F2-es Rolimate Bebé Juguete de Dibujos Animados Animales...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

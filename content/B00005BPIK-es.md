@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005BPIK-es Intex- Flotador Rueda 97 CMS. con Asas Decorado Multicolor...'
-tags: [ 'tole.es','flotador', ]
+tags: [ 'flotador', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

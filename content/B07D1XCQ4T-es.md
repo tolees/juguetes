@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1XCQ4T-es YIMORE Conjunto de Juguetes Arena para la Playa en Bolsa...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

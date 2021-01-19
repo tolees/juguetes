@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXQ8TLX-es Bornfeel Bolsa de Juguetes Playa Bolsa de Malla para Niños...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

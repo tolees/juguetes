@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JS3L4M-es HASAGEI Soporte Movil Bici para 4.5" -7.2" Smartphones...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

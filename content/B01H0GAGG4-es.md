@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0GAGG4-es Warner Bros Interactive Spain Lego Dimensions: Nuevo...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

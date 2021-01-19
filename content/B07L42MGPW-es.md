@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L42MGPW-es Educa Borras - Serie Coloured B&W Puzzle 500 piezas...'
-tags: [ 'tole.es','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H57RZP8-es X-TIGER Hombres de Bicicleta Manga Corta Maillots con 5D...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

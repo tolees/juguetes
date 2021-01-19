@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LN84OPA-es Ravensburger Disney Frozen Mini Memory Juego de emparejar...'
-tags: [ 'tole.es','ravensburger', ]
+tags: [ 'ravensburger', ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

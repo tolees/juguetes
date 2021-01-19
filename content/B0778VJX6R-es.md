@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778VJX6R-es AEST Correpasillos Y Patinete 2 En 1 Bicicleta Sin Pedales...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

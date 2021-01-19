@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CPW4B9-es Ballery Puzzles de Madera 3 Piezas Colorido Alfabeto ABC...'
-tags: [ 'tole.es','juguetes','rompecabezas', ]
+tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VJ4QR9-es Bolsa de fiesta de para niñas relleno para piñatas 120...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

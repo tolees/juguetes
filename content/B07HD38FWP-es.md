@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HD38FWP-es Mattel Disney Toy Story 4 Figura Básica Hamm Juguetes...'
-tags: [ 'tole.es','juguetes','mattel', ]
+tags: [ 'juguetes','mattel', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

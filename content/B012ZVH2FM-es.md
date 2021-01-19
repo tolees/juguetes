@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012ZVH2FM-es ZJchao Bolsa de almacenamiento- Ideal para Lego Duplo y...'
-tags: [ 'tole.es','juguetes','lego', ]
+tags: [ 'juguetes','lego', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

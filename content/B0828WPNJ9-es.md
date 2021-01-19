@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828WPNJ9-es ROCKBROS Casco para Niños para Bicicleta Casco Integral...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

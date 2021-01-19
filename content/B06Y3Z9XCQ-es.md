@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3Z9XCQ-es Mega Bloks- Luau Dave Build-A-Minion Despicable Me Minions...'
-tags: [ 'tole.es','mattel','mega','bloks', ]
+tags: [ 'mattel','mega','bloks', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

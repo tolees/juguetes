@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVP4W52-es Fisher-Price Llama Linkimals Juguete interactivo bebés +9...'
-tags: [ 'tole.es','fisher-price','mattel', ]
+tags: [ 'fisher-price','mattel', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D98TZ1R-es Hot Wheels- Cobra Speed Circuito Slot Color único Fábrica...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

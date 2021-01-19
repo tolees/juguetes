@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJFXVKD-es Eono by Amazon Árboles para Gatos rasguña los Postes de...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

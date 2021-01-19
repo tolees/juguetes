@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXWL72R-es Playkin MERCEDES-BENZ SL400 ROJO - Coche bateria 12V niños...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

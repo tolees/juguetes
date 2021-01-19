@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2ZPQFK-es Bizak Hatchimals Draggle Brillo Magi Juguete electrónico...'
-tags: [ 'tole.es','bizak', ]
+tags: [ 'bizak', ]
 actualPrice: 48.4 EUR
 currency: EUR
 price: 48.4

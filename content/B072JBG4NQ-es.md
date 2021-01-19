@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JBG4NQ-es Lixada uperdyneema de los Hombres de Ciclismo Ropa...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

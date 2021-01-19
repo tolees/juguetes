@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N42NVG9-es BACKTURE Sillín Bicicleta Asiento de Bicicleta de Gel...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

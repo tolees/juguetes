@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824RFQSS-es Playskool Heroes- Mega Mighties Avengers Capitana Marvel...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

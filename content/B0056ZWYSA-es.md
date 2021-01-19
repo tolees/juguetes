@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0056ZWYSA-es LEGO 40 Pieza Technic Pin Largo con Tope en Negro.'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

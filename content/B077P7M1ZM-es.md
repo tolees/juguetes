@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
-tags: [ 'tole.es','fisher-price','mattel', ]
+tags: [ 'fisher-price','mattel', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V48CR8W-es Bluefin Fitness Bicicleta de Spinning Tour SPIN | Kinomap...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 363.69 EUR
 currency: EUR
 price: 363.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MCJQDM-es Hasbro Gaming- Disney Desafio Musical E1872105'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

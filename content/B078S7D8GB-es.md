@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078S7D8GB-es Blesiya Sistema de Pincel de Dibujo Herramientas de...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

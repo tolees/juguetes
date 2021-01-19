@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HC3MBJX-es Gresorth 3 trozo Criaturas del mar Falso Pez Artificial...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

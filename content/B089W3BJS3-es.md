@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089W3BJS3-es FitTrek Casco Bicicleta Niño - Casco Bici Niño - Cascos...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

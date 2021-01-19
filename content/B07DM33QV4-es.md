@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM33QV4-es Rolimate Juguetes para Apilar Y Encajar Stack & Sort Board...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

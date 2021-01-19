@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GNAP830-es VTech Baby 150503 - Cubo educativo para girar y aprender...'
-tags: [ 'tole.es','vtech', ]
+tags: [ 'vtech', ]
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

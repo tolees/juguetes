@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZGCLCNQ-es Michelin Pro4 Endurance A/F V2 Cubiertas Deportes al Aire...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 34.1 EUR
 currency: EUR
 price: 34.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3FF8HS-es Sylvanian Families - 5365 - La mansión de Stella'
-tags: [ 'tole.es','sylvanian','families', ]
+tags: [ 'sylvanian','families', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

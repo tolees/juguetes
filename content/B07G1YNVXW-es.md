@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1YNVXW-es Nerf- Microshots Strongarm SE1 Multicolor Hasbro E0719ES0...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

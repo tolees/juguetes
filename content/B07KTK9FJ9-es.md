@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTK9FJ9-es LEGO Friends - Pulpo Mecánico Juguete Divertido de...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

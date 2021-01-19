@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BP6GEHA-es Avengers- Marvel Legends Figura Iron Man Multicolor Hasbro...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 32.59 EUR
 currency: EUR
 price: 32.59

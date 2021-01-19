@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LXFKN4-es Queta 3pcs Pistolas de Agua para Niños Cañón de Agua en...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

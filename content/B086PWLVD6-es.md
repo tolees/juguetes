@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PWLVD6-es iMiMi Rainbow Stacker clásico juguete de desarrollo...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXR3VX8-es JUNSHEN Juguetes de baño 6PCS Juguetes para bebés Juguetes...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

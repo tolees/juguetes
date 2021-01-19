@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCYMZTD-es VATOS Jigsaw Puzzle 1000 Piezas para Adultos Niños...'
-tags: [ 'tole.es','juguetes','puzzle','rompecabezas', ]
+tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

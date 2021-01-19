@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EI7JDEY-es Clementoni - Jugando aprendo descubre España 55119.4'
-tags: [ 'tole.es','clementoni', ]
+tags: [ 'clementoni', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZFM4WT-es VATOS Juego de Bloques de Construcción para Niñas Juguetes...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

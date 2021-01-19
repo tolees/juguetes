@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VV98LNK-es Simba 6315878711pro Disney – Peluche de Minnie 61 cm'
-tags: [ 'tole.es','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 28.32 EUR
 currency: EUR
 price: 28.32

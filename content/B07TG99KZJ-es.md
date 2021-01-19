@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TG99KZJ-es Beito Luz De Radios De Bicicleta 1 Paquete De Bicicleta...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

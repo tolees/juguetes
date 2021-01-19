@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074K5VN4T-es Devir- Bienvenido de Nuevo a la mazmorra BGMAZ2'
-tags: [ 'tole.es','devir-', ]
+tags: [ 'devir-', ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

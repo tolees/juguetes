@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3UYCM7-es SYLVANIAN FAMILIES Set Cuarto de baño Multicolor Epoch...'
-tags: [ 'tole.es','sylvanian','families', ]
+tags: [ 'sylvanian','families', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

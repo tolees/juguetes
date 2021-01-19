@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XM7GPZF-es YGJT Bicicleta sin Pedales 1 Año Juguetes Bebes -...'
-tags: [ 'tole.es','bicicleta','juguetes', ]
+tags: [ 'bicicleta','juguetes', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

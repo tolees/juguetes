@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJDN5RL-es Grebarley Guantes de Ciclismo Bicicleta Montaña-Acolchados...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

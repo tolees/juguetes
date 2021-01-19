@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WD7X47W-es Despicable Me 9079 "DM3 Cárcel Minions Tom de Peluche...'
-tags: [ 'tole.es','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

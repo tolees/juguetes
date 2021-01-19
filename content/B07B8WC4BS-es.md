@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8WC4BS-es Hot Wheels Supergaraje Garaje para Coches de Juguete...'
-tags: [ 'tole.es','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

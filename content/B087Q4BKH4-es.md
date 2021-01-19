@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087Q4BKH4-es BeebeeRun Juguetes Maquillaje Niñas Juguetes para Chicas...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

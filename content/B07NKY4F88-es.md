@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKY4F88-es Hasbro accion Marvel Figura con vehículo Deadpool...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

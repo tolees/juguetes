@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6J88-es LEGO Creator - Avión de Carreras juguete creativo de...'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

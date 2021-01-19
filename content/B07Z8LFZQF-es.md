@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8LFZQF-es Dinfun Tangram de Madera - Montessori Shapes Puzzle de...'
-tags: [ 'tole.es','juguetes','puzzle', ]
+tags: [ 'juguetes','puzzle', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

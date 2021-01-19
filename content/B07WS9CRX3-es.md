@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS9CRX3-es Justdodo Doble Forma de Cereza PVC Posavasos Inflable Copa...'
-tags: [ 'tole.es','flotador', ]
+tags: [ 'flotador', ]
 actualPrice: 1.61 EUR
 currency: EUR
 price: 1.61

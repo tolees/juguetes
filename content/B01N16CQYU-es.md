@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N16CQYU-es Lego Worlds'
-tags: [ 'tole.es','lego', ]
+tags: [ 'lego', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

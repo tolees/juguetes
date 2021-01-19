@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRD11O-es SYLVANIAN FAMILIES- Baby Room Set Mini muñecas y...'
-tags: [ 'tole.es','sylvanian','families', ]
+tags: [ 'sylvanian','families', ]
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08

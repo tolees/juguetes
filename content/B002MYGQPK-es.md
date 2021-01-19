@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002MYGQPK-es Mona Lisa Puzzle'
-tags: [ 'tole.es','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDL2S64-es Hanazuki Pulsera de emociones interactiva Hasbro B8256EU4'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

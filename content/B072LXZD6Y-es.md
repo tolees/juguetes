@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LXZD6Y-es Nancy día de aventuras a caballo Famosa 700013890'
-tags: [ 'tole.es','famosa','nancy', ]
+tags: [ 'famosa','nancy', ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

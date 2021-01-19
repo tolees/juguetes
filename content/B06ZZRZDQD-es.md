@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZRZDQD-es Clementoni- Puzzle 500 Piezas Old Waterway Cottage...'
-tags: [ 'tole.es','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

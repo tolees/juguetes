@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVMLXGC-es Elbphilharmonie Hamburg. Puzzle 1008 Teile'
-tags: [ 'tole.es','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

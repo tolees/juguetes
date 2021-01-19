@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC3JGKX-es Polly Pocket Autocaravana transformable con accesorios...'
-tags: [ 'tole.es','mattel','polly','pocket', ]
+tags: [ 'mattel','polly','pocket', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

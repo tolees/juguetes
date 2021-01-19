@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C47BGUE-es Star Wars - Playset Rogue One Fuego Rápido Imperial Hasbro...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 280.0 EUR
 currency: EUR
 price: 280.0

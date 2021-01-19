@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2DBWYB-es Klarfit Orbifit Basic - Máquina de Correr elíptica...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

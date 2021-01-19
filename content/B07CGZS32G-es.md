@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGZS32G-es Harry Potter Muñeco Harry de la colección de Harry Potter...'
-tags: [ 'tole.es','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

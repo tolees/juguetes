@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JSLWZF3-es HANMUN Sonajeros de Bebe Juguetes de Mordedor Infante...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGXZMV1-es Barbie - Collector Felices Fiestas 2019 Muñeca Rubia con...'
-tags: [ 'tole.es','barbie','mattel', ]
+tags: [ 'barbie','mattel', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

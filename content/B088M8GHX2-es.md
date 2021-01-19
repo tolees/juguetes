@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M8GHX2-es jerryvon Fregadero de Juguete Menaje Cocina Utensilios de...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

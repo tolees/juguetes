@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W85QBHH-es Nerf Alpha Strike Wolf LR-1 Juguete Blaster con Alcance de...'
-tags: [ 'tole.es','hasbro','nerf', ]
+tags: [ 'hasbro','nerf', ]
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

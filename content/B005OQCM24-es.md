@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OQCM24-es Hasbro Gaming Gaming Clasico Games-Quien es quien Hasbro...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

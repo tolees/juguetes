@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088DCZ53H-es Regalos de Cumpleaños para Niñas de 3 a 7 Años Flores...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 23.86 EUR
 currency: EUR
 price: 23.86

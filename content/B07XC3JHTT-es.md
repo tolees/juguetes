@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC3JHTT-es Disney Cars 3 pista de coches Super Looping XRS Rocket...'
-tags: [ 'tole.es','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1R2YN3-es jerryvon 136 Piezas Puzzles Rompecabezas Magnéticos...'
-tags: [ 'tole.es','juguetes','rompecabezas', ]
+tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

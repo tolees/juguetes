@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYSFQYV-es Star Wars Mascara electrónica Kylo REN Multicolor Hasbro...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019DAUVTW-es Star Wars- Rogue One Rebels BladeBuilders Kanan Jarrus-...'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

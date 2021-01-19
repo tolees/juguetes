@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N39DLDR-es Pinypon Huevos Sorpresa Famosa 700012850'
-tags: [ 'tole.es','famosa','pinypon', ]
+tags: [ 'famosa','pinypon', ]
 actualPrice: 0.42 EUR
 currency: EUR
 price: 0.42

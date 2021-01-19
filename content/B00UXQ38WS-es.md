@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UXQ38WS-es Twitfish® - Mini Canasta Interior de Baloncesto - Novedad...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

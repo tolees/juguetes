@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0761PYZ2C-es Soradoo Ciclismo Maillot Hombres Jersey Culote Pantalones...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

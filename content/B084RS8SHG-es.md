@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RS8SHG-es Famosa Pin y Pon New Look Pelo Lila 700015560'
-tags: [ 'tole.es','famosa','pin','y','pon', ]
+tags: [ 'famosa','pin','y','pon', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTV2Y8R-es Top Wing - Brody Y Su Coche Hasbro E5316ES2'
-tags: [ 'tole.es','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

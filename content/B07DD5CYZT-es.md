@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD5CYZT-es Famogames - Sandía Splash Famosa 700014661'
-tags: [ 'tole.es','famosa', ]
+tags: [ 'famosa', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

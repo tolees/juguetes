@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGX7R1Z-es Hot Wheels HW Figure 8 Raceway Trackset incluye 1 DCC...'
-tags: [ 'tole.es','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

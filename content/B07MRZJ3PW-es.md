@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRZJ3PW-es Youngshion - Organizador de Maquillaje portátil para...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

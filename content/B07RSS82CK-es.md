@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSS82CK-es Linseray 4 Piezas Kits de Herramientas de reparación de...'
-tags: [ 'tole.es','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

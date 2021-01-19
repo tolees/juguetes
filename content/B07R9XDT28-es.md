@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9XDT28-es Eono by Amazon - Bolsas Compra Reutilizables Ecológicas...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

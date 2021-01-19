@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876MVB6F-es BeebeeRun Alimentos de Juguete para Niños Cortar Frutas y...'
-tags: [ 'tole.es','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

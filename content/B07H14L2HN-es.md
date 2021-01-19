@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'D DOLITY 1 Unidad de Interfaz de Adaptad al 33.37 % de descuento'
-date: 2021-01-18 12:09:46
+date: 2021-01-19 19:10:29
 image: 'https://m.media-amazon.com/images/I/41EA9La1u9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H14L2HN-es'
+slug: 'B07H14L2HN-es D DOLITY 1 Unidad de Interfaz de Adaptador HDMI de...'
+tags: [ 'ps4', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
@@ -26,9 +27,9 @@ Ahora mismo tienes [D DOLITY 1 Unidad de Interfaz de Adaptador HDMI de Videojueg
 🔎:
 
 - Se necesita habilidad profesional para instalar, por favor, considere si puede hacerlo.
-- Tipo: Conector de interfaz de socket de puerto HDMI.
 - Nuevo y de alta calidad.
-- El paquete incluye: Conector de interfaz de enchufe de puerto HDMI 1pcs.
 - Compatible con Sony Playstation 3 PS3 CECH 2000 2500.
+- Tipo: Conector de interfaz de socket de puerto HDMI.
+- El paquete incluye: Conector de interfaz de enchufe de puerto HDMI 1pcs.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H14L2HN/?tag=tolees-21)

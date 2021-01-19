@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSLHBV4-es Clementoni 21604 Clementoni-21604-Supercolor - Puzzle-Der...'
-tags: [ 'tole.es','clementoni', ]
+tags: [ 'clementoni', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88
