@@ -25,10 +25,10 @@ Ahora mismo tienes [Hunting Simulator Nintendo Switch - Juego de caza para Switc
 
 🔎:
 
-- Docenas de armas (rifl e, arco, ballesta…) y accesorios (señuelos, reclamos, polvo detector de viento…)
 - Misiones en modo multijugador cooperativo con tres amigos
-- 4 modos de juego: una campaña con más de 100 misiones, caza de aves acuáticas, caza libre para que avances a tu ritmo y un modo de tiro al plato para que mejores tu puntería
+- Docenas de armas (rifl e, arco, ballesta…) y accesorios (señuelos, reclamos, polvo detector de viento…)
 - 12 zonas de caza enormes basadas en regiones reales de todo el mundo
+- 4 modos de juego: una campaña con más de 100 misiones, caza de aves acuáticas, caza libre para que avances a tu ritmo y un modo de tiro al plato para que mejores tu puntería
 - Más de 35 especies animales que viven en sus ecosistemas naturales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJTWCFY/?tag=tolees-21)
