@@ -26,10 +26,10 @@ Ahora mismo tienes [Barbie y sus hermanas fubolistas muñecas con accesorios  re
 
 🔎:
 
-- La muñeca chelsea viste una llamativa camiseta con rayas deportivas, pantalón corto a juego, espinilleras y zapatillas, juguete para peques a partir de 3 años
 - Los peques podrán vivir grandes aventuras deportivas con la muñeca chelsea la hermana de barbie inspirada en barbie dreamhouse adventures
-- Incluye accesorios como una medalla de oro, una mochila, una botella de agua, snacks y una pelota, que te ayudarán a crear grandes historias
+- La muñeca chelsea viste una llamativa camiseta con rayas deportivas, pantalón corto a juego, espinilleras y zapatillas, juguete para peques a partir de 3 años
 - Regalo óptimo para niñas y niños de más de 3 años
 - El juguete se compone de dos porterías cada una con un marcador ajustable, para rematar y jugar con la muñeca chelsea en la zona de juego, aprieta sus hombros, los dos perritos, vestidos con un pañuelo deportivo, pueden unirse a la diversión, mientras que las gradas para colocar a todos y amigos de la muñeca chelsea (no incluidos)
+- Incluye accesorios como una medalla de oro, una mochila, una botella de agua, snacks y una pelota, que te ayudarán a crear grandes historias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XB3J7CF/?tag=tolees-21)
