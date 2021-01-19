@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516389h9GJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076FMBZPH-es'
+slug: 'B076FMBZPH-es Lepfun 1 x Rodilleras Compresión  Rodilleras Deportivas para crossfit  motocross  voleibol  bicicleta  Baloncesto  Large  PR918 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61bs3In5tpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075L6KYSZ-es'
+slug: 'B075L6KYSZ-es Xpassion 200 Unidades Pegatinas del PVC para Portátil  Dormitorio  Funda de Viaje  Equipaje de Coche  Bicicleta'
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

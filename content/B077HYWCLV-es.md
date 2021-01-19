@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vB62sZ8AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HYWCLV-es'
+slug: 'B077HYWCLV-es Mattel Phase 10  Juego de Cartas'
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

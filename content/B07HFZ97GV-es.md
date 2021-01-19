@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41y43TAj-pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFZ97GV-es'
+slug: 'B07HFZ97GV-es Funda para Bicicleta Impermeable  Massway Cubierta Bicicleta Exterior 190T Nylón Anti Polvo Resistente al Agua a Prueba de UV 200x 75x110cm  Negro '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

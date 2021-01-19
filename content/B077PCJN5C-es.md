@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kzp16ZCKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PCJN5C-es'
+slug: 'B077PCJN5C-es meiqicool - Alfombra puzzle infantil para bebés de Foam  EVA   suelo extra acolchado para niños Alfombras de Juegos Infantiles con Valla-Alfombra triangular Gris y blanco 050HUI'
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517lZ-b1cqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792QR5QF-es'
+slug: 'B0792QR5QF-es LEGO Technic - Carretilla Elevadora de Alto Rendimiento  Juguete de Construcción de Vehículo de Logística  42079 '
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

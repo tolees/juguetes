@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xhRWD023L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897LBCBN-es'
+slug: 'B0897LBCBN-es Diseño práctico Dual USB Generador de Bicicleta Bicicleta Impermeable Ciclismo Generador de Carga Cargador Batería Banco de energía'
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

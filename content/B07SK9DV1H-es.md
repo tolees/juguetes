@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pileg+sZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK9DV1H-es'
+slug: 'B07SK9DV1H-es CubicFun Puzzle 3D UK Colección de Kits de Modelos Arquitectónicos de Londres Juguete  Big Ben  Tower Bridge y Autobús de Dos Pisos Juego de Regalo de Recuerdo 3 en 1 para niños y Amigos'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

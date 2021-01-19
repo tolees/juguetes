@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414a0-nxrjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753MCC6B-es'
+slug: 'B0753MCC6B-es Reloj modificable infantil con figurita de la tropa de asalto de LEGO Star Wars 8021032'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

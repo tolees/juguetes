@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uxARy9dOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WD3SH32-es'
+slug: 'B06WD3SH32-es LEGO Super Heroes - Knightcrawler: Ataque subterráneo  76086 '
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

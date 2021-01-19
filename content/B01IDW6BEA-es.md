@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bQ8uqeU8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IDW6BEA-es'
+slug: 'B01IDW6BEA-es Cars 3 Coche Flash McQueen  Mattel DXV45    color/modelo surtido'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

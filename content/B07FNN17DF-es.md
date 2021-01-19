@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MGLHdNDJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNN17DF-es'
+slug: 'B07FNN17DF-es LEGO DUPLO Disney - Mi Primer Modelo de Minnie  Juguete Preescolar de Construcción de Minnie Mouse para Niños y Niñas a Partir de 1 Año y Medio  10897    color/modelo surtido'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

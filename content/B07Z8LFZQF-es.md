@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bFSGmSjNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8LFZQF-es'
+slug: 'B07Z8LFZQF-es Dinfun Tangram de Madera - Montessori Shapes Puzzle de Madera Juguetes Montessori Juegos Educativos Regalos para Niños 3 4 5 Años  60 Cartas de Patrones '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

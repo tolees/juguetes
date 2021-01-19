@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318okF0hOQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5NYRES-es'
+slug: 'B01N5NYRES-es Logitech Brio Ultra HD Pro Webcam  Streaming Fluido 1080p/60fps  Campo Visual Ajusable  Zoom X5  Compatible Avec Skype  WebEx  Cisco Jabber  Zoom  Windows Hello  PC/Mac/Portátil/Chrome  Color Negro'
 actualPrice: 176.82 EUR
 currency: EUR
 price: 176.82

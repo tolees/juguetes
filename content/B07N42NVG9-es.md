@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4151O3TjRlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N42NVG9-es'
+slug: 'B07N42NVG9-es BACKTURE Sillín Bicicleta  Asiento de Bicicleta de Gel Transpirable y Profesional con Dos Amortiguadores  para MTB/Bicicleta de Carretera/Bicicleta Urbana'
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

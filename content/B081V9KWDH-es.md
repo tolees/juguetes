@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o3fTGa9jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081V9KWDH-es'
+slug: 'B081V9KWDH-es Amy&Benton Juguete con la Herramienta Tornillo  224 Piezas Tablero de Mosaico Infantiles  Juguetes Montessori con Taladro Eléctrico Desmontable  3D Bricolaje Puzzles para Niños 3 4 5 6 Años'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

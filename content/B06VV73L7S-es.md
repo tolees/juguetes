@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D5PKt3RKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VV73L7S-es'
+slug: 'B06VV73L7S-es LEGO Star Wars - First Order Heavy Scout Walker  Juguete de Construcción de Vehículo de la Guerra de las Galaxias para Recrear las Aventuras de la Película  75177 '
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

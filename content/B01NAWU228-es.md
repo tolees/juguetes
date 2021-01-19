@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61avzBs9a8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAWU228-es'
+slug: 'B01NAWU228-es El Hombre Araña de Marvel minijuego de memoria de Ravensburger   color/modelo surtido'
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NdLen5P9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018EM10ZO-es'
+slug: 'B018EM10ZO-es TKM 10720 Cámara Bicicleta Antipinchazos 26X1.75  Adultos Unisex  Negro'
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lUJgSAy7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRYDLYT-es'
+slug: 'B07WRYDLYT-es Juguetes Educativos Niño 3 4 5 6 Años- Bloques de Construcción Puzzle Rompecabezas Juegos de Construccion DIY Coches de Juguetes Montessori 3D Creativo Educativo Regalos 234 PCS '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

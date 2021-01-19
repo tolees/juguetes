@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51OuWhuIvFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QT3R52J-es'
+slug: 'B07QT3R52J-es Nerf Overwatch MicroShots: Torbjorn  clásico bláster en microformato'
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

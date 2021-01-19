@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51i2xwUvJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC2DSND-es'
+slug: 'B07PC2DSND-es Mega Blocks - Cuenta Conmigo 1 2 3 Bloques de Construcción Bebé 1 año   Mattel GFG19 '
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

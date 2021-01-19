@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NxBtrPqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSRK3QP-es'
+slug: 'B07FSRK3QP-es Wafly Puños Bicicleta Ergonomicos con Máscara  2PCS Puños para Bicicleta de Montaña Antideslizante Aluminio Caucho Bike Agarre para Bicicleta Moto Montaña MTB BMX Plegable Bicicleta  22mm -Negro'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

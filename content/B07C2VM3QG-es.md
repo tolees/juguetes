@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gnMlAj8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2VM3QG-es'
+slug: 'B07C2VM3QG-es SkullCap® Casco Bicicleta para Hombre o Mujer  Casco para Bicicleta montaña MTB  Casco Bici Adulto  tamaño L  59-61 cm   Color: Casco en Blanco Negro Verde'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

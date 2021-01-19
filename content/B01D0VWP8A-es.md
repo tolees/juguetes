@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yPsmA6ueL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D0VWP8A-es'
+slug: 'B01D0VWP8A-es Peppa Pig 06059 vehículo'
 actualPrice: 18.18 EUR
 currency: EUR
 price: 18.18

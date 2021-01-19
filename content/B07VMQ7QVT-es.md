@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v-HT19hxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMQ7QVT-es'
+slug: 'B07VMQ7QVT-es HAISSKY Riñonera Deportiva Riñonera Running Impermeable Bolsillos con Cierre Cremallera Tiras Reflectantes y Tiras Ajustables para Correr  Ciclismo  Bicicleta  Camina el Perro Viaje al Aire Libre'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

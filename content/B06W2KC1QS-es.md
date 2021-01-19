@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515UTZ7G-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W2KC1QS-es'
+slug: 'B06W2KC1QS-es LEGO Star Wars - Tie Fighter de Kylo Ren  Nave Espacial de Juguete de la Saga La Guerra de las Galaxias  75179 '
 actualPrice: 74.76 EUR
 currency: EUR
 price: 74.76

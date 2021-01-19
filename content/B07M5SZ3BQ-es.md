@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51efkSzQNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5SZ3BQ-es'
+slug: 'B07M5SZ3BQ-es La Lego Película 2: El Videojuego'
 actualPrice: 29.32 EUR
 currency: EUR
 price: 29.32

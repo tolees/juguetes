@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510LSduwI1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPYMQH8-es'
+slug: 'B07NPYMQH8-es Robot Train Kay Radio Control Transformable  BIZAK 62000178 '
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Aufj9l-DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRLPCNX-es'
+slug: 'B07XRLPCNX-es Tnfeeon Juego de Entrenamiento de Memoria  Juego de Memoria electrónico para niños Interacción plástica Música Inteligente Luz Rompecabezas Juego de Memoria para niños Doble Mano '
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

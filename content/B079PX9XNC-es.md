@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Nn4JLEkEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PX9XNC-es'
+slug: 'B079PX9XNC-es Clementoni-39445 Orchestra Puzzle 1000 Piezas Panorama Disney Orquesta  Multicolor  pezzi  39445.6 '
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

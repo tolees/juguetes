@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+nWM6hgRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GP8NG1-es'
+slug: 'B086GP8NG1-es Juego de filtros antipolvo para máscara PM 2 5  antiniebla  filtro de carbón activado para bicicleta  motocicleta  esquí  equitación al aire libre  gris'
 actualPrice: 3.52 EUR
 currency: EUR
 price: 3.52

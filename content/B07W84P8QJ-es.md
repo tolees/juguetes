@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OpPYYOToL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W84P8QJ-es'
+slug: 'B07W84P8QJ-es CubicFun Puzzles 3D Londres St.Paul s Cathedral Rompecabezas 3D Arquitectura Iglesia Reino Unido Modelo de construcción Kits para Adultos Regalos  Catedral de San Pablo 643 Piezas'
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

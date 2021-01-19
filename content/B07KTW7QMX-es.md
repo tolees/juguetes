@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FegmFgdcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTW7QMX-es'
+slug: 'B07KTW7QMX-es LEGO Ninjago - Spinjitzu Slam: Zane Set de construcción de Peonza Ninja de Juguete  Novedad 2019  70683 '
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

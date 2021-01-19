@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fERGF-WmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747Q5RMG-es'
+slug: 'B0747Q5RMG-es SkullCap® Casco Niño Bicicleta diseñado por los niños  Casco Bici Carretera Chico y Chica  Casco Bicicleta montaña  Monstruo'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

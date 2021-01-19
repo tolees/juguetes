@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CBPnfsg5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STWHC69-es'
+slug: 'B07STWHC69-es Peppa Pig- Casa Gigante De Madera  Multicolor  Bandai CO07004 '
 actualPrice: 91.27 EUR
 currency: EUR
 price: 91.27

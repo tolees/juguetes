@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GVvXwpX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082W3TKK4-es'
+slug: 'B082W3TKK4-es Jacootoys Animal Laberintos de Abalorios Madera Cuentas Abaco Juegos Cubo Grande Educativos Juguetes Regalo Para Niños 3 4 5 Años'
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

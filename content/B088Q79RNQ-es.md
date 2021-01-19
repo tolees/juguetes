@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZY7i9x7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088Q79RNQ-es'
+slug: 'B088Q79RNQ-es Guizu Juguetes para bebés: Juguetes de baño  Pistolas de Agua  Pistolas de Agua  Juguetes para niños  utilizados en la Guerra del Agua  Playa  Piscina  Pistolas de Agua para Adultos y niños  Rojo '
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

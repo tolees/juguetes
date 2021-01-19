@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61M6K5gCVcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074H5DJ6F-es'
+slug: 'B074H5DJ6F-es Well Love Juguetes para perro juguetes para masticar cuerda de algodón100%natural juguetes para chirridos bolas de perro huesos de perro juguete de peluche cuerdas para perro 6unidades juego de regalo'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

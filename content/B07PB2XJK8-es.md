@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ka4lFkZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PB2XJK8-es'
+slug: 'B07PB2XJK8-es Toyvian Juego de niños con férula de Agua 2pcs Juguetes intelectuales para niños Juguete Divertido del Juego del Anillo del Lazo del Agua  Color al Azar '
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

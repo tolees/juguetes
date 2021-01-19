@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LFy1AcEjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4P2D3N-es'
+slug: 'B07Y4P2D3N-es Baomay Botella de Agua Frio : Termo de Acero Inoxidable - 350ml Termica Botellas Reutilizable  Sin BPA & Eco Friendly  Doble Pared Aislamiento al Vacío  para Niños  Bicicleta  Deporte  Rose '
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

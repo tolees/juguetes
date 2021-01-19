@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tSxKF5dGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R6CI61A-es'
+slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios bebe -  Mattel CHP85 '
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

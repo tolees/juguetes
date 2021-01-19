@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LzG3N93zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVDNUIC-es'
+slug: 'B00NVDNUIC-es LEGO Classic - Complementos Creativos de Nuevos Colores  Juguete de Construcción Creativo con Ladillos Coloridos  10694 '
 actualPrice: 10.02 EUR
 currency: EUR
 price: 10.02

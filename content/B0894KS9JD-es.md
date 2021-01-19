@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iw6rEutsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894KS9JD-es'
+slug: 'B0894KS9JD-es jerryvon Dinosaurios Camion Juguetes Figura Dinosaurio Juguete Camion Transportador de Coches Vehículo Deformación Juguetes Educativos Regalos para Niños Niñas 3 4 5 6 Años'
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

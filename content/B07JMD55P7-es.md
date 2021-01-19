@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZyOFBWMML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMD55P7-es'
+slug: 'B07JMD55P7-es PLAYMOBIL- HIPO y Astrid Juguete  Multicolor  Dimensions: 14.2 x 14.2 x 4.1 cm LXWXH   geobra Brandstätter 70045 '
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

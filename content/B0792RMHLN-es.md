@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QKeKclw1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792RMHLN-es'
+slug: 'B0792RMHLN-es LEGO Fantastic Beasts - Maleta de Criaturas Mágicas de Newt  Juguete de Construcción Inspirado en Animales Fantásticos  75952 '
 actualPrice: 41.04 EUR
 currency: EUR
 price: 41.04

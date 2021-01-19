@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PU9OlzjNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SYVRSC-es'
+slug: 'B086SYVRSC-es Bicicleta De Ejercicio Fitness Interior Ciclismo Bicicleta Estacionaria Ajustable Profesional Ejercicio Entrenamiento Deporte Bicicleta De 330 Lb De Capacidad De Monitor LCD  Negro 43.3*33.46*17.72in'
 actualPrice: 188.0 EUR
 currency: EUR
 price: 188.0

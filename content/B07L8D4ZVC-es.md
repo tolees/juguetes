@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wQ798V-iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8D4ZVC-es'
+slug: 'B07L8D4ZVC-es Dilwe RC Bounce Car  RH803 Control Remoto Jumping Car RC Bounce Veh¨ªculo Ruedas Flexibles Juguetes de Rotaci¨®n con Sonido Luz para Ni?os Negro '
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

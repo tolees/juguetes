@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pzPCCuuSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OZAZAP6-es'
+slug: 'B00OZAZAP6-es Nerf N-Strike Blaster Ner Elite Pistola Lanzador Sharpfire  Naranja  Color Blanco  56.6 x 21.3 x 4.8  Hasbro A9315EU4 '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

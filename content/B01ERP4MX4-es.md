@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41olHwoJ+vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERP4MX4-es'
+slug: 'B01ERP4MX4-es BH Fitness Atlantic Dual Bicicleta elíptica Unisex para Adulto  Color Blanco'
 actualPrice: 384.0 EUR
 currency: EUR
 price: 384.0

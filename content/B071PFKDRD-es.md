@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ticJtc9zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071PFKDRD-es'
+slug: 'B071PFKDRD-es Shimmer y Shine Alfombra mágica voladora  accesorio muñecas  Mattel FHN22 '
 actualPrice: 24.42 EUR
 currency: EUR
 price: 24.42

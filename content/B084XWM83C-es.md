@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TIevMQjpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084XWM83C-es'
+slug: 'B084XWM83C-es Star Wars- Vintage Nave Slave  Hasbro E96475L0 '
 actualPrice: 118.65 EUR
 currency: EUR
 price: 118.65

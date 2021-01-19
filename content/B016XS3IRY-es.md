@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ufEU2GhSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016XS3IRY-es'
+slug: 'B016XS3IRY-es Fisher-Price Manzanita Activity  juguete colgante para bebé  Mattel DFP88 '
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

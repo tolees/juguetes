@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415E3wTsvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PSC25L-es'
+slug: 'B077PSC25L-es Enchantimals Muñeca con mascota Winsley Wolf  Mattel FRH40    color/modelo surtido'
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

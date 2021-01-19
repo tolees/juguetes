@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ir0pKEq4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVQLVJP-es'
+slug: 'B06WVQLVJP-es PLAYMOBIL Country Set de Limpieza para Caballos con Bomba de Agua  A partir de 5 años  6929 '
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

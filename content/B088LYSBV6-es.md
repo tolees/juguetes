@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S4ynB+VBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LYSBV6-es'
+slug: 'B088LYSBV6-es Jacootoys Rampa de Carrera para Niños de 1 a 2 Años  Juegos Circuito Coches Pista de Madera Juguetes Incluye 4 Autitos'
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

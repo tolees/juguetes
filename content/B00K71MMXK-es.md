@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+WsG12VYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K71MMXK-es'
+slug: 'B00K71MMXK-es VTech 155403 - Peque ordenador educativo  multicolor  versión inglesa'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

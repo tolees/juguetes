@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51m99NREhEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076V9ZDH1-es'
+slug: 'B076V9ZDH1-es GOZAR Classic Fun Tetris Mano Held LCD Retro Juegos Juguetes Ladrillo'
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

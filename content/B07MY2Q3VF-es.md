@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FzTOCQfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MY2Q3VF-es'
+slug: 'B07MY2Q3VF-es Clementoni- Puzzle 3000 Piezas San Francisco  Multicolor  33547.3 '
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

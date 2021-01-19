@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W3wAGtSKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EH9Z31Q-es'
+slug: 'B00EH9Z31Q-es Mantona Premium Biker - Bolsa fotográfica para Bicicleta con Adaptor sillín y Conductor'
 actualPrice: 52.35 EUR
 currency: EUR
 price: 52.35

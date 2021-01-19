@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41daOkgvm0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0142MCE0K-es'
+slug: 'B0142MCE0K-es dc comics Mattel Wonder Woman 30 cm'
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5122V3itsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WJ1XN1-es'
+slug: 'B088WJ1XN1-es Divgdovg Bicicleta estática  Bicicleta de Ciclismo para Interiores estacionaria con Monitor de frecuencia cardíaca y Monitor LCD  cojín de Asiento cómodo  Bicicleta Cardiovascular'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

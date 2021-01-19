@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pyyVAb5WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4C3EDU-es'
+slug: 'B01N4C3EDU-es 25 mm Par de base soporte adaptador de manillar para moto bike espejo Bicicleta Negro 10mm'
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

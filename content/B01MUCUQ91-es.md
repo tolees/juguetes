@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515deykwXUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUCUQ91-es'
+slug: 'B01MUCUQ91-es Clementoni - Puzzle 2000 Piezas Neuschwanstein  32559 '
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bFYL9QE7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YB3ZSF-es'
+slug: 'B079YB3ZSF-es Lego Star Wars - Bañador para niño - Lego Star Wars - 4 - 5 Años'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

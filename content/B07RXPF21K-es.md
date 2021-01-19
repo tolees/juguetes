@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51izXrtgQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXPF21K-es'
+slug: 'B07RXPF21K-es Gifort Flotador Bebé Piscina  Barco Niños Flotador Hinchable con Toldo Ajustable y Volante  Anillo de Natación Playa Baby Float para Bebé de 12 a 48 Meses  70cm x 60cm'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

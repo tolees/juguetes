@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jTMVH3QNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019XSJTB0-es'
+slug: 'B019XSJTB0-es Fisher-Price Saltador animalitos de la selva  para bebé +1 año  Mattel CHM91 '
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

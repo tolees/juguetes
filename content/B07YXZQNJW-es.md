@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o6P+x6ioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXZQNJW-es'
+slug: 'B07YXZQNJW-es NEWSTYLE Bolsa de Almacenamiento de Ropa de Gran Capacidad Organizador Plegable con Asa Reforzada y Ventana Clara para Edredones Mantas Almohadas Juguetes Chaquetas Ropa Pluches  3 Paquetes '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

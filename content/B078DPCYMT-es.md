@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FGHUCbbxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078DPCYMT-es'
+slug: 'B078DPCYMT-es Marvel- Hulk with Titan Hero Power FX Port Series  Color Azul  Verde  Hasbro E0571EU4 '
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HAWPTR8aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GNAP830-es'
+slug: 'B00GNAP830-es VTech Baby 150503 - Cubo educativo para girar y aprender  multicolor'
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

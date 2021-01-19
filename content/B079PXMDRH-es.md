@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tp3PeANpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PXMDRH-es'
+slug: 'B079PXMDRH-es Ravensburger Mask PJ Masks-Rompecabezas para niños de 3 años en adelante  06974 '
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

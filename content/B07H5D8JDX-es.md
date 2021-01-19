@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SJKk+lkyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5D8JDX-es'
+slug: 'B07H5D8JDX-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel Acolchado MTB Ciclismo Pantalones Cortos-4XL'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

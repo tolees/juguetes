@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Na3vqz-pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RSS82CK-es'
+slug: 'B07RSS82CK-es Linseray 4 Piezas Kits de Herramientas de reparación de Bicicletas y Bicicletas de montaña  Cadena de Bicicleta  Soporte  Rueda Libre  Herramienta removedor de Tirador de biela'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

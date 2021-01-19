@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Io0Qvq-YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLS11JB-es'
+slug: 'B07JLS11JB-es PLAYMOBIL- Ostereier Huevo Policia con Perro  Color carbón  70085 '
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

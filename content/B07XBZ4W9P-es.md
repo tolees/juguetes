@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NRjq4smrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBZ4W9P-es'
+slug: 'B07XBZ4W9P-es Sportneer Under Desk Bike Mini bicicleta de ejercicios de ciclo de pedal portátil con monitor digital y alfombra antideslizante  resistencia ajustable'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

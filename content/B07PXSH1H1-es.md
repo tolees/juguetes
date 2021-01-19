@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C5Ev5P4kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXSH1H1-es'
+slug: 'B07PXSH1H1-es Jaques of London Juguete de Martillo Juguemos al Banco de Martillo - Juguete de Habilidad de Motor Fino - Juguetes y Juegos 1795'
 actualPrice: 9.28 EUR
 currency: EUR
 price: 9.28

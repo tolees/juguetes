@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fdVKuf1yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXZBCM-es'
+slug: 'B07TWXZBCM-es Mobi Lock Adaptador Válvula Presta a Schrader con Junto Tórica para Inflar los Neumáticos de la Bicicleta con un Inflador o Compresor de Aire  Latón Dorado  Set de 5 Unidades'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

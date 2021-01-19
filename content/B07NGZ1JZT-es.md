@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LXbGIsbXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGZ1JZT-es'
+slug: 'B07NGZ1JZT-es Barbie - Dreamtopia Muñeca con Pelo Rosa y su Unicornio Luces Mágicas  Mattel FXT26 '
 actualPrice: 57.15 EUR
 currency: EUR
 price: 57.15

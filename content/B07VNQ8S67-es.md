@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517CE08ksNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNQ8S67-es'
+slug: 'B07VNQ8S67-es SGODDE Mini Bomba para Bicicleta 300 PSI Alta Presión Se Adapta a Presta y Schrader  Válvula Reversible  Ideal para Bicicletas de Montaña/Moto/Pelotas  con Aguja Bomba de Bola   Negro '
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

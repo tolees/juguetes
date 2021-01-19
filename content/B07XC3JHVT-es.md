@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h3LDaMwaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC3JHVT-es'
+slug: 'B07XC3JHVT-es Polly Pocket Cofre Jardín de Mariquitas con muñecas y accesorios  juguete +4 años  Mattel GKJ48 '
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

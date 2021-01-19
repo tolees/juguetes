@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61RhlGtphSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073BFFMGR-es'
+slug: 'B073BFFMGR-es Hasbro - Juego «¿Quién es Quién?»Juego clásico.'
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

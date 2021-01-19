@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R0iwaO9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LXZD6Y-es'
+slug: 'B072LXZD6Y-es Nancy día de aventuras a caballo  Famosa 700013890 '
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

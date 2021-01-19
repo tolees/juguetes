@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61PnqnNM2AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765CTSK1-es'
+slug: 'B0765CTSK1-es LEGO Ninjago - Portador De Tormentas  Dragón de Juguete para Construir  70652 '
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

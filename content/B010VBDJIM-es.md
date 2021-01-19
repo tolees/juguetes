@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yj7-ZN84L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010VBDJIM-es'
+slug: 'B010VBDJIM-es Clementoni - Puzzle 2000 Piezas Las Vegas  32555 '
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

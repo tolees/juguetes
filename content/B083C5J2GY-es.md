@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oPZbD+RpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083C5J2GY-es'
+slug: 'B083C5J2GY-es Dragon Ball Z - Peluche Freezer  15 cm'
 actualPrice: 11.56 EUR
 currency: EUR
 price: 11.56

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p6-k7JhTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJJKWFQ-es'
+slug: 'B07GJJKWFQ-es Nerf- Microshots Firestrike SE1  Multicolor  Hasbro E0721ES0    color/modelo surtido'
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

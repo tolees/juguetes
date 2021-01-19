@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yPYk37NHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCF4DM2-es'
+slug: 'B07QCF4DM2-es The Bellies - Kuki Cute  Muñeco para Niños y Niñas a Partir de 3 Años  Multicolor   Famosa 700015143 '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

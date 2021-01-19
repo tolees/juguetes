@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yC5bHoiOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKN5TP9-es'
+slug: 'B07VKN5TP9-es ENEGON 9V USB Directa Recargable Batería 650mAh Lito-Ion con Cable Micro USB 2 en 1 para Micrófonos  Alarma de Humos  Juguetes electrónicos  Walkie Talkie y Más aparatos  2 Baterías '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

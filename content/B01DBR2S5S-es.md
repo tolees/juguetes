@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jdjSTdVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DBR2S5S-es'
+slug: 'B01DBR2S5S-es Clementoni - Pelota electrónica Musical  17109.5 '
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

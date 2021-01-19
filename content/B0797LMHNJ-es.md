@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V8MbBldyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797LMHNJ-es'
+slug: 'B0797LMHNJ-es Barbie Muñeca Articulada con Bicicleta y Accesorios  Mattel FTV96 '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

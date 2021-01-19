@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51awPfLFQcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075T1Y7TH-es'
+slug: 'B075T1Y7TH-es LEGO Friends - Entrenamiento de fútbol de Stephanie  41330 '
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

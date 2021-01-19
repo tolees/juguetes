@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g3I+6CHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KCCK51-es'
+slug: 'B079KCCK51-es Polly Pocket - Maletín con muñecas  fiesta divertida -  Mattel FRY41 '
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

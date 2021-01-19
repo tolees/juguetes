@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-oXoTUB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3UYCM7-es'
+slug: 'B01M3UYCM7-es SYLVANIAN FAMILIES Set Cuarto de baño  Multicolor  Epoch para Imaginar 5034 '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41msaEpsNWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZHLFP8-es'
+slug: 'B079ZHLFP8-es Generique - Disfraz minero Lego niño'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

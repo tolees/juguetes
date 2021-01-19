@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516TBQzYawL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B47YM8Y-es'
+slug: 'B07B47YM8Y-es Ravensburger- Puzzle 3D 324 pièces Notre-Dame de Paris  Color néant  34 2x16 4x25 8cm  12523 '
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

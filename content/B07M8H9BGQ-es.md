@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S6dP5Y7vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8H9BGQ-es'
+slug: 'B07M8H9BGQ-es Philips Avent Peluche con chupete SCF348/13 - Peluche de elefante con chupete ultra soft  sin BPA  0-6 meses'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

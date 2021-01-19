@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R7F+7mgUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZNJZKP-es'
+slug: 'B078ZNJZKP-es TY- Búho Yago Peluche  Color azul  United Labels Ibérica 36896TY    color/modelo surtido'
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

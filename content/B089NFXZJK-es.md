@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515a2f8oiYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NFXZJK-es'
+slug: 'B089NFXZJK-es Toozey Juguetes para Perros Pequeños Ciervos - 7 Piezas de Juguetes para Perros  Cachorros  Perros pequeños - Juguete para Masticar mordedor Perro Cachorro Perros Accesorios - algodón Natural&TPR'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

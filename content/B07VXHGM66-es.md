@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Pm75h7emL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXHGM66-es'
+slug: 'B07VXHGM66-es Espejos Retrovisores de Moto 7/8’’Retrovisores Moto Espejos Moto para Motocicleta Touring Cruiser Chopper Bicicleta'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

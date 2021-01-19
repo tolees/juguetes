@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZnYHL4clL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWMBML-es'
+slug: 'B07FNWMBML-es LEGO Creator - Reactor Futurista  Juguete 3 en 1 de Construcción de Avión y Naves Espaciales para Niños y Niñas a Partir de 7 Años con Diferentes Piezas  31086 '
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413VfunZWVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8GC42K-es'
+slug: 'B07X8GC42K-es EVOLAND Bicicleta Estática Plegable  Bicicleta Estática de Fitness 8 Niveles de Resistencia Magnética con Monitor Rítmo Cardíaco para Ejercicio Entrenamiento en Casa  MAX hasta 200 kg'
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

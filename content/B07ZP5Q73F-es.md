@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xMGAeSdmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP5Q73F-es'
+slug: 'B07ZP5Q73F-es Rolimate Juego de Pesca Magnética de Madera Juego de apilamiento 4 en 1 Montessori Juguetes magnéticos y clasificador de Cuentas Juguetes Motricidad Fina Juguete Cumpleaños 2 3 4+años Niño Niña Bebé'
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gq08aYD1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ5HSGR-es'
+slug: 'B07ZQ5HSGR-es Tomight Mini Bomba para Bicicleta con Manómetro 260PSI Bomba de Mano pequeña para Neumático Portátil  Compacta  Duradera y Rápida con Alta Presión para Carretera Bicicletas de Montaña Pelota y BMX'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

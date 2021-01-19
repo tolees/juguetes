@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518Q8gIZwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BUKAC24-es'
+slug: 'B01BUKAC24-es Disney Infinity 3.0 - Disney Figura Baloo'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

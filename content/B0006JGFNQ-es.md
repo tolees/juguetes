@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CEq3p+4LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0006JGFNQ-es'
+slug: 'B0006JGFNQ-es Desconocido Gremlins - Gizmo Peluche bailarín  20 cm  NECA NEC0NC30630 - Dancing Peluche Gizmo  Multicolor'
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

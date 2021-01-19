@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VcmK4dNfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756LRPPP-es'
+slug: 'B0756LRPPP-es Enchantimals Muñeca con mascota Zelena Zebra -  Mattel FKY75    color/modelo surtido'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

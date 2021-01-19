@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41A9ArU3IAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CA1LGPU-es'
+slug: 'B00CA1LGPU-es WeeRide 86459 Bicicleta Remolque Copilot  Unisex  Rosa  M'
 actualPrice: 86.11 EUR
 currency: EUR
 price: 86.11

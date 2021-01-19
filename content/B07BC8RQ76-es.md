@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51utI+EcmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BC8RQ76-es'
+slug: 'B07BC8RQ76-es Wrebbit - Puzzle en 3D de Camelot del Rey Arturo  865 Piezas '
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

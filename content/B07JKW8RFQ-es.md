@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4198QWIvs-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKW8RFQ-es'
+slug: 'B07JKW8RFQ-es Baoblaze 60pcs Mini Juego de Damas Ajedrez Juegos de Mesa Juguetes para Niños'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

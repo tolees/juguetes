@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GcDSg+YrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNSFMWM-es'
+slug: 'B07CNSFMWM-es Manta de Bebé de Seguridad Peluche Decorativos de Hogar Decoración de Pared Juegos de Niños - Multicolor  1'
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

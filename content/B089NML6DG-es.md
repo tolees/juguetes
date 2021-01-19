@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eHdJ-ehiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NML6DG-es'
+slug: 'B089NML6DG-es qingqingR Anillo de natación para bebés Anillo de natación Inflable para Flotador para bebés con Anillo de Seguridad para la Piscina del Asiento'
 actualPrice: 19.73 EUR
 currency: EUR
 price: 19.73

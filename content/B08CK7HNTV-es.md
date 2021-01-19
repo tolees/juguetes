@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cYM1S4UrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CK7HNTV-es'
+slug: 'B08CK7HNTV-es Panamar Niños Bebé Cute Cartoon Ballena Flotante Pulverización Agua Baño Juguetes Boquilla Spray Ducha Baño Baño Baño Juguete-Blanco'
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

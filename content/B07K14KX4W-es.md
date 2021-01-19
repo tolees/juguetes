@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51qa0x11KiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K14KX4W-es'
+slug: 'B07K14KX4W-es IPSXP Computadora de Bicicleta  Alámbrico Velocímetro y Cuentakilómetros Impermeable Ordenador de Ciclismo con Pantalla LCD Retroiluminada  Sueño Automático/Despertar  Batería Incluida'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

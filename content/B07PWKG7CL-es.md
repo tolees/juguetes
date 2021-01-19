@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-hO3KxtXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWKG7CL-es'
+slug: 'B07PWKG7CL-es Juguetes Colgantes Carrito Bebe Cuna Cochecitos de Animales Juguete de Peluche Colgante con La musica para Bebés Niños Niñas'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

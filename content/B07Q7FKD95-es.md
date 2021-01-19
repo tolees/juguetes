@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vuEalB1LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7FKD95-es'
+slug: 'B07Q7FKD95-es Bammax Alfombra Puzzle Bebe  Alfombra Gateo Bebe en Espuma EVA  Alfombra Infantil con Numeros 0 al 9 y Patrón de Geometría  16 pcs Alfombra Acolchada Bebe con 16 Cercas y 4 Esquinas  No Tóxica'
 actualPrice: 45.59 EUR
 currency: EUR
 price: 45.59

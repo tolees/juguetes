@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510VXXDRZXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089M5MS7L-es'
+slug: 'B089M5MS7L-es Juguetes Montessori Bebes Educativos de Madera Laberinto Cubo de Actividades 5 EN 1 Laberinto Regalo para Bebés Niños 3 4 5+ Años'
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

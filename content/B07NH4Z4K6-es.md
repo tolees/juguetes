@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pn3qY4hsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NH4Z4K6-es'
+slug: 'B07NH4Z4K6-es Wrebbit 3D- Castillo Puzzle 3D Juego de Tronos Invernalia  Multicolor  W3D-2018 '
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

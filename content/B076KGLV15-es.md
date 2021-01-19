@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411xny+EL9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076KGLV15-es'
+slug: 'B076KGLV15-es Thomas & Friends - Locomotora Nia y Elefante  Juguetes Niños +3 Años  Mattel FJK56 '
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

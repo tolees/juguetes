@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+Oom+X8lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXDVFXP-es'
+slug: 'B07CXDVFXP-es TOPERSUN Regalo del de Niño 28Pcs Juguetes Musicales Instrumentos Musicales Percusión Conjunto de Banda Pequeña'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

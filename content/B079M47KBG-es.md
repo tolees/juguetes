@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YxqUbN8OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079M47KBG-es'
+slug: 'B079M47KBG-es Puzzle Mosaico  Mosaicos Infantiles  Juego Mosaico Pinchos Infantiles Desmontar 4 5 6 7 8 Años Puzzles  420 Piezas '
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

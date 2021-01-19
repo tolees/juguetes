@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311pK+IcMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF1LRXQ-es'
+slug: 'B07QF1LRXQ-es Barbie Muñeca BMR 1959  look cazadora denim  regalo para niñas y niños 3-9 años  Mattel GHT95 '
 actualPrice: 24.76 EUR
 currency: EUR
 price: 24.76

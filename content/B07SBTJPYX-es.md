@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t+WdK3tFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBTJPYX-es'
+slug: 'B07SBTJPYX-es Kriogor Soporte Movil Bicicleta  Soporte Universal Manillar de Silicona para Moto Bicicleta Motocicleta  Apoyo 360° Rotación para iPhone y Samsung'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GSy3nOy1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072J2JXNF-es'
+slug: 'B072J2JXNF-es Super Things 3 x Premium multifunción Bandana | Pañuelo con Calavera de Esqueleto Máscaras para Moto Bicicleta Esquí Paintball Gamer Carnaval Disfraz …green/white/red '
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

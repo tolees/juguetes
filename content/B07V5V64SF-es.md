@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/517-pYbikYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5V64SF-es'
+slug: 'B07V5V64SF-es YOUTHINK Juguete para Loros  7 Piezas de Juguetes para Columpios de Pájaros  Juguetes para Masticar Loros  Columpios para Pájaros Loros Hamacas Coloridas para Pájaros'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

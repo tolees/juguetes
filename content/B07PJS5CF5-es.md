@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vpe6c25EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJS5CF5-es'
+slug: 'B07PJS5CF5-es Mksutary Walkie Talkie Recargable  2 x Walkie Talkie Niños Juguetes 8 Canales PMR 446MHz Larga Distancia 3 KM VOX Auto Escanear con Cargador Azul'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

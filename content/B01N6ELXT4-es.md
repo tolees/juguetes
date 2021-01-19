@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61z9W5TRiYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6ELXT4-es'
+slug: 'B01N6ELXT4-es Lego Worlds'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eBcug9PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YF6M6B-es'
+slug: 'B086YF6M6B-es STEMtoy Juguetes para niñas de 3 a 4 años de Edad  Regalo para niñas  Juguetes de construcción de Jardines de Flores para niños pequeños  Juguetes educativos preescolares  127 PCS '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

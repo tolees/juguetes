@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gIW+Ya25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RVBYXCM-es'
+slug: 'B00RVBYXCM-es SportPlus Heimtrainer S-Bike - Bicicleta estática y de spinning para fitness  talla standard'
 actualPrice: 118.22 EUR
 currency: EUR
 price: 118.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gc54l8znL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012ZVH2FM-es'
+slug: 'B012ZVH2FM-es ZJchao Bolsa de almacenamiento- Ideal para Lego  Duplo y Juguetes para niños Bolsa rápidamente limpieza organizador del almacenaje  multiusos portátil al aire libre manta actividades alfombra - azul'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

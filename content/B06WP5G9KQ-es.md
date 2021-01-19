@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ewQ7qXjRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WP5G9KQ-es'
+slug: 'B06WP5G9KQ-es Star Wars 8 Sable electrónico Kylo REN  Multicolor  Hasbro C1577EU4 '
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

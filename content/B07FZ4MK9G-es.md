@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lk5uEHFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZ4MK9G-es'
+slug: 'B07FZ4MK9G-es TOPINCN Bike Rest Handlebar Bicicleta de aleación Estable de Aluminio con cojín de Esponja para MTB Road Top Home Cycling for Mountain'
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

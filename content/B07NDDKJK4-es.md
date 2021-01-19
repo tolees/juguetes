@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OcJiOmU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDDKJK4-es'
+slug: 'B07NDDKJK4-es Famosa- Pinypon Cabeza sorpresa con 1 muñeca  Multicolor  700014756    color/modelo surtido'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

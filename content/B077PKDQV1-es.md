@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UVESsxoZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PKDQV1-es'
+slug: 'B077PKDQV1-es Enchantimals - Muñeca Tanzie Tiger -  Mattel FRH39 '
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

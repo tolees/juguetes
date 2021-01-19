@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61pQL210SHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9SYH32-es'
+slug: 'B06X9SYH32-es My Little Pony My Little Pony-C1058 Juego Luces y Agua  Multicolor  Miscelanea  Hasbro C1058EU4 '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zVBislDyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTYZ6WY-es'
+slug: 'B01MTYZ6WY-es Mega Bloks-FDX82 Minions Dora la Exploradora GRU Mi Villano Favorito 3  Multicolor   Mattel FDX82    Modelos/colores Surtidos  1 Unidad'
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

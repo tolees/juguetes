@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h94sfwP3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C2LJPV-es'
+slug: 'B072C2LJPV-es VeloVendo® Alfombra Puzzle Infantiles con Certificado CE & TÜV | Suelo de Espuma EVA | Tapete de Juego | Alfombra Suave para Bebé | Manta Juegos  Letras + Números '
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

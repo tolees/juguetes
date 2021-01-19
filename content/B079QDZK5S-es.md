@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61A5TEvdv7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QDZK5S-es'
+slug: 'B079QDZK5S-es Mega Bloks Carrito Encajabloques  juguete de construcción para bebé +1 año  Mattel FVJ47    color  modelo surtido'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

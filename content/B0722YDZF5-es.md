@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-g0ETV+eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722YDZF5-es'
+slug: 'B0722YDZF5-es Tiny Love Dynamic Gymini Gimnasio musical de actividades con juguetes electrónicos  grabadora con luces y música  alfombra bebé alcochada grande 110 x 90 cm  Arcos ajustables moviles  Meadow days'
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

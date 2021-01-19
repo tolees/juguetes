@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bE6Fb1FXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9SW46X-es'
+slug: 'B06X9SW46X-es SYLVANIAN FAMILIES- Ballerina Friends Mini Muñecas Y Accesorios  Multicolor  Epoch para Imaginar 5257 '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

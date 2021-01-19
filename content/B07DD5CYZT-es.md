@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bVNGxbWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD5CYZT-es'
+slug: 'B07DD5CYZT-es Famogames - Sandía Splash  Famosa 700014661 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

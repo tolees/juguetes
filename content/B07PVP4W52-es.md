@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hc2HSFX7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVP4W52-es'
+slug: 'B07PVP4W52-es Fisher-Price Llama Linkimals  Juguete interactivo bebés +9 meses  Mattel  GHY78 '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

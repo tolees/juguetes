@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61yz3A9IdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074HDNWQN-es'
+slug: 'B074HDNWQN-es Winterwölfe. Puzzle 1000 Teile'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

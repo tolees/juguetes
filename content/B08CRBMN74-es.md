@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SKSN+FG6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRBMN74-es'
+slug: 'B08CRBMN74-es Niños/Bebé 50 piezas 5 capas para correr  andar en bicicleta  esquiar  actividades al aire libre'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

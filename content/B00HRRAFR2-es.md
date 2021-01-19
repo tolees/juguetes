@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RQaD9I1bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRAFR2-es'
+slug: 'B00HRRAFR2-es Sylvanian Families - 4175 - Familia Gatos de Seda'
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

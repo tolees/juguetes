@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b+Wq86cgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1TGKMY-es'
+slug: 'B07K1TGKMY-es Natural Seagrass Mimbre Cesta de Cesteria   Cestos para la Colada con Asa   Cesta Plegable para el Vientre Maceta   Decoracion para el Hogar Almacenar Juguetes  Ropa  Fruta o Plantas 27 x 24cm'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

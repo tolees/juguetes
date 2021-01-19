@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yUYcWVhYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084NXPSTW-es'
+slug: 'B084NXPSTW-es LoveOlvido 13 Unids / Set Simulación Vajilla Roja Utensilios de Cocina Olla Cuchara Cocina Espátula Cuchillo Juego de imaginación Juguetes para Niños - Rojo'
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

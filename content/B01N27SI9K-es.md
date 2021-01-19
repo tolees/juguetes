@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+AA2c52QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N27SI9K-es'
+slug: 'B01N27SI9K-es Pinypon Mascotas y figuras pack grande  Famosa 700013370 '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

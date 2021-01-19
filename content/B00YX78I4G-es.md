@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61HADIXPVVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YX78I4G-es'
+slug: 'B00YX78I4G-es Ravensburger Disney Princess Mini Memoria'
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

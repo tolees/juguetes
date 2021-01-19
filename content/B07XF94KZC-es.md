@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ozm30AW4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XF94KZC-es'
+slug: 'B07XF94KZC-es Barbie Dreamhouse Adventures  Skipper Hora del Surf muñeca con accesorio de deportes  Mattel GHK36 '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

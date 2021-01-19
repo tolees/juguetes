@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YwCf4qIEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CIU4T5C-es'
+slug: 'B00CIU4T5C-es TAZA ENTRENAMIENTO 250 ML | PEPPA PIG'
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

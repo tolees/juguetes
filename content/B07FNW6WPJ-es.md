@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dm++5dpEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNW6WPJ-es'
+slug: 'B07FNW6WPJ-es LEGO Super Heroes Rescate en Moto de Spider-Man  juguete de construcción de las aventuras del Hombre Araña  incluye un Cañón Arácnido  76113 '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

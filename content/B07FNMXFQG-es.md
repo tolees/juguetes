@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516YCeCFAiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNMXFQG-es'
+slug: 'B07FNMXFQG-es LEGO Friends - Buggy y Remolque de Stephanie  juguete de construcción que incluye coche  bicicleta y mascotas  41364 '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

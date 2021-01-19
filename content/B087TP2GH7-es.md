@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ocZz9iFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TP2GH7-es'
+slug: 'B087TP2GH7-es Beetest ES Juguetes Piscina Niños  37 Unids Divertido Buceo Submarino Torpedo Anillo De Algas De Diamante Juguetes De Shell Pulpo Círculos de Buceo Medusas Palo de Buceo para Niños Niñas Piscina'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

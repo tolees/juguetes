@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RNjnul75L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753KYVFL-es'
+slug: 'B0753KYVFL-es Reloj modificable infantil con figurita de Darth Vader de LEGO Star Wars 8021018'
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nR8Q9UWSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LXFKN4-es'
+slug: 'B088LXFKN4-es Queta 3pcs Pistolas de Agua para Niños Cañón de Agua en Forma de Tiburón  Pistola de Agua de Alta Presión Extraíble  Juguetes de Juego en Agua para Verano Playa Piscina Rafting'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

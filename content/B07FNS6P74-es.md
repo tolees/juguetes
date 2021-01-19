@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c+eKE7kwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS6P74-es'
+slug: 'B07FNS6P74-es LEGO La LEGO Película 2 - Todoterreno Rextremo de Rex  set de construcción 3 en 1 con dinosaurio y coche de juguete  incluye figura de Plantimal  70826 '
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

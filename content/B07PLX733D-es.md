@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IjRNfktSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLX733D-es'
+slug: 'B07PLX733D-es B•You Ojos de Seguridad de Plástico Ojos Amigurumi 150 Piezas 8mm 10mm 12mm Vistoso Sólidos Negros con Arandelas en Caja de Almacenaje para Oso de Peluche Oso Muñeca Marioneta y Manualidades'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

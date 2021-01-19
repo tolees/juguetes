@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YiwIhASuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085PBQ3FY-es'
+slug: 'B085PBQ3FY-es Lego Marvel Collection'
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

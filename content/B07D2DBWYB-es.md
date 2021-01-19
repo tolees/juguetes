@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GXjBWKasL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2DBWYB-es'
+slug: 'B07D2DBWYB-es Klarfit Orbifit Basic - Máquina de Correr elíptica  Bicicleta elíptica  Manillar con Altura Regulable  Estructura de Acero  Agarre Acolchado  Pedales Antideslizantes  hasta 100 kg  Negro'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

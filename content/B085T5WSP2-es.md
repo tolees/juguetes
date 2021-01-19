@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516Ocj02pQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T5WSP2-es'
+slug: 'B085T5WSP2-es Joyjam Coche teledirigido Anfibio  Stunt Car Impermeable Anfibios con 2 Lados de conducción en Agua y Tierra Coche radiocontrol Electric Juguetes para niños Azul'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

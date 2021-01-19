@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gNbGYTFRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GF4YCT9-es'
+slug: 'B07GF4YCT9-es Wondertoys Juego de Croquet de Animales de Madera  Juguetes de Golf con 2 Bolas  Juego Educativo temprano  Regalo para niños'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

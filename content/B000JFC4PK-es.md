@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61+8-1Y+c-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JFC4PK-es'
+slug: 'B000JFC4PK-es Educa - Dinosaurios  Puzzle infantil de 100 piezas  a partir de 6 años  13179 '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

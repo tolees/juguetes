@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413dhUrlliL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDRZ1D8-es'
+slug: 'B07VDRZ1D8-es Aizhy Bomba para Bicicleta  Bomba ergonómica para Piso de Bicicleta Bomba de inflado de neumáticos para Bicicleta Bomba infladora portátil con manómetro y Cabezal de válvula Inteligente'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

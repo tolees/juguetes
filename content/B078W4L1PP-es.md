@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x1GtQcJsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078W4L1PP-es'
+slug: 'B078W4L1PP-es Mini bicicleta estática pedales para entrenamiento de brazos y piernas y hacer ejercicio en casa con pantalla LCD  Plata '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

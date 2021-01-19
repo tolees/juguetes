@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GP93pa2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUHC9K2-es'
+slug: 'B00ZUHC9K2-es King- 2 Puzzles Frozen 50 pcs Rompecabezas  Multicolor  05315 '
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

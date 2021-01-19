@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5141mz1+rwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08116LLYY-es'
+slug: 'B08116LLYY-es NEWSTYLE Caja de Almacenamiento de Tela Grande Plegable Cuadrados Cestas de Almacenamiento para Ropa  Juguetes Organizador Cestas de vivero  Estante de Almacenamiento de contenedores  Polar Bear '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

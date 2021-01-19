@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Hu2iRmIaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X5MCQT-es'
+slug: 'B084X5MCQT-es YIMINYUER 20 Esterilla de Ejercicios Interconectables  Esterilla Puzzle de Fitness  Suave y Firme Espuma EVA  Antideslizante Protector Suelo Goma Beige R10G301020'
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

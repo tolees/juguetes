@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iqvdVZJ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F28TLC3-es'
+slug: 'B08F28TLC3-es #N/A Anillos de nataciÃ Brazo Inflable de 1 par Anillos enrollables Círculo de Brazo de nataciÃ Flotador para Anillos de Entrenamiento de Seguridad para Adultos y niños'
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

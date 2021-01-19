@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519joVqm1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KN3HXW-es'
+slug: 'B079KN3HXW-es Polly Pocket Cofre refugio de nieve  muñeca con accesorios  Mattel FRY37    color/modelo surtido'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

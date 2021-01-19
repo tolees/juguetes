@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TlAbCSXvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYGCZNZ-es'
+slug: 'B08BYGCZNZ-es BelleStyle Juegos Educativos 2 Años  Puzzles de Madera del Alfabeto  Bloques de Colores Puzzle Letras Madera Juguetes Montessori 3 4 5 Años  Juego Jigsaw ABC Cartas  Números  Formas  Educativos Regalo'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

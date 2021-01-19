@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P2upIo2oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089JZGY56-es'
+slug: 'B089JZGY56-es LinStyle Juguetes del Baño  Máquina de Burbujas de Baño con 12 Música Burbuja Automática Juguetes del Baño Azul Cangrejo Maquina de Burbujas para Niños'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

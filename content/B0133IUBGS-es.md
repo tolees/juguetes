@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WtEiEM8hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0133IUBGS-es'
+slug: 'B0133IUBGS-es Ravensburger Avengers - Multipack de 3 Rompecabezas con 1 Juego Memory 211937'
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

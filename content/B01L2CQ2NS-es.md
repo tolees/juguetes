@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U8yIRL-zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L2CQ2NS-es'
+slug: 'B01L2CQ2NS-es GoPro Floaty - Flotador para GoPro Hero  Color Naranja'
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

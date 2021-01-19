@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v69+pHi3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5DLVQ5-es'
+slug: 'B07H5DLVQ5-es Fournier 1040720 Juego de Cartas Educativo  Multicolor'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

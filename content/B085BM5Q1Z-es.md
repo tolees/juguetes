@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SXRhiKeXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BM5Q1Z-es'
+slug: 'B085BM5Q1Z-es YIMINYUER Bebés Suave Silencioso Alfombra  Niños Puzzle Alfombrilla  Encajable Suelo Pad  Infantil Casita Pad Protector Acolchado Ejercicio Amarillo Gris R05R12G301020'
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

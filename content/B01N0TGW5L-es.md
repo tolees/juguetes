@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d6YsNNohL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0TGW5L-es'
+slug: 'B01N0TGW5L-es Fisher-Price Saltador activity de perrito  juguete para bebé +6 meses  Mattel FBL69 '
 actualPrice: 103.49 EUR
 currency: EUR
 price: 103.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51T8C+QtGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV29XRR-es'
+slug: 'B07MV29XRR-es Avengers - Hacha Electrónica Thor  Hasbro E0617EU6 '
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

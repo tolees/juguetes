@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZdJJ+CNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXWL72R-es'
+slug: 'B07VXWL72R-es Playkin MERCEDES-BENZ SL400 ROJO - Coche bateria 12V niños 3-8 años mando control remoto juguetes infantiles coches de bateria   color/modelo surtido'
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

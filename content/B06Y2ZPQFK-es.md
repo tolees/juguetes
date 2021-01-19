@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51grU-Oa+LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2ZPQFK-es'
+slug: 'B06Y2ZPQFK-es Bizak Hatchimals Draggle Brillo Magi  Juguete electrónico  61921921 '
 actualPrice: 48.4 EUR
 currency: EUR
 price: 48.4

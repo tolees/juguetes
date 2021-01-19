@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5127ilLa5-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9JPVNF-es'
+slug: 'B06W9JPVNF-es Top Race Juego de Cubos de Arena y Palas de Arena 5 "en la Playa para niños | Juguetes de Playa y Arena | Uso para moldes de Arena en la Caja de Arena  Paquete de 12 Juegos '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

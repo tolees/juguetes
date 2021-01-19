@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418FftyxOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJYKPL1-es'
+slug: 'B07QJYKPL1-es Yizhet 12 x Adaptador de Valvula de Bici Bicicleta válvula Adaptador DV AV SV Válvula Adaptador para compresor Bomba de Bicicleta Bomba de pie Auto Aire de gasolinera Colchón Balón Bomba  12 uds '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

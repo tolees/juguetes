@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ahRI1G6FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3XWNP2-es'
+slug: 'B08B3XWNP2-es Bloques Madera Juguete Puzzle Juego Construcción Multiactividades de Madera con Dibujos de Animales Letras y Numeros Educativo para 3 4 5 6 7 Años Niños Infantiles'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

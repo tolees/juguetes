@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518wZ3bEbtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D8WMNEI-es'
+slug: 'B00D8WMNEI-es LEGO: Marvel Super Heroes'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

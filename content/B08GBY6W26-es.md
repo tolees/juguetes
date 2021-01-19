@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y12iA6IqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GBY6W26-es'
+slug: 'B08GBY6W26-es Bola de pulverización de Agua eléctrica Inducción eléctrica Luz anfibia Música Universal Walking Baño Juguetes para bebés - Rojo'
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

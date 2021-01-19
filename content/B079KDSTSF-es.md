@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U80cOWuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KDSTSF-es'
+slug: 'B079KDSTSF-es Polly Pocket Cofre Castillo de Arena  muñeca con accesorios  Mattel GCJ87    color/modelo surtido'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

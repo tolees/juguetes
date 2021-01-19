@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JAXXQsjHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881JDM6M-es'
+slug: 'B0881JDM6M-es QY Toys MS Cubo Magico 3x3 3x3x3 Original Puzzle Cubo de la Velocidad Niños Juguetes Educativos  Stickerless'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

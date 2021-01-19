@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417sMv2lf2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGL8G1C-es'
+slug: 'B07YGL8G1C-es Lalaloom BUBBLE BIKE - Bicicleta Andador Madera azul diseño topos burbujas sin Pedales  Correpasillos niños Sillín regulable con ruedas de goma EVA'
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

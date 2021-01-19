@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517TTEyOXZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0196A4EWE-es'
+slug: 'B0196A4EWE-es SYLVANIAN FAMILIES- Cosmetic Counter Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5235 '
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

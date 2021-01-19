@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tlY6UaqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQYQY8Q-es'
+slug: 'B00BQYQY8Q-es Imaginext - Batcueva  Mattel X7677 '
 actualPrice: 40.77 EUR
 currency: EUR
 price: 40.77

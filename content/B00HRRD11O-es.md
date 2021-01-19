@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BWV7B85LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRD11O-es'
+slug: 'B00HRRD11O-es SYLVANIAN FAMILIES- Baby Room Set Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5036 '
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08

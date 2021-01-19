@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YmhyjfnAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KGBYRD-es'
+slug: 'B079KGBYRD-es Polly Pocket Habitación Polly-Transformación  casa de muñecas  Mattel FRY98 '
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

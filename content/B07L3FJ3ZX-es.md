@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f5A4dqY1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3FJ3ZX-es'
+slug: 'B07L3FJ3ZX-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica 750ml  Botella Sin Bpa & Eco Friendly  Mantiene Bebidas frías por 24h y Calientes por 12h  Adecuada para Viaje  Deporte  Bicicleta  Gimnasio'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

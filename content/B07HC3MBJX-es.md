@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417nPb8z1JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HC3MBJX-es'
+slug: 'B07HC3MBJX-es Gresorth 3 trozo Criaturas del mar Falso Pez Artificial Animal Juguetes Comida Modelo Tienda Monitor Decoración'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

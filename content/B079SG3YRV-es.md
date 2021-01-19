@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ViO5JbUHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SG3YRV-es'
+slug: 'B079SG3YRV-es Pinypon- Instituto PINY  Multicolor  Famosa 700014353 '
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

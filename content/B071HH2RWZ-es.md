@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61aljRGV0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HH2RWZ-es'
+slug: 'B071HH2RWZ-es Las aventuras de Ladybug Puzzle Multi 4en1 50-80-100-150  Educa Borrás 17466 '
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QM75yBFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WP76T2V-es'
+slug: 'B06WP76T2V-es Playmobil - Llavero Policia - Plateado - Hombres - Talla Unica'
 actualPrice: 55.5 EUR
 currency: EUR
 price: 55.5

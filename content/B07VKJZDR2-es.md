@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wPYuIBhcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKJZDR2-es'
+slug: 'B07VKJZDR2-es X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB Ciclismo Tirantes Culotte Pantalones Cortos Culotes  M  Azul y Blanco '
 actualPrice: 37.78 EUR
 currency: EUR
 price: 37.78

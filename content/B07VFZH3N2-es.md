@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Eu8rD3D1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFZH3N2-es'
+slug: 'B07VFZH3N2-es Scooter Eléctrico Cerradura del Freno de Disco Cerradura de Seguridad  Cerradura de Alambre de Acero Antirrobo para Xiaomi Mijia M365 Ruedas de Bicicleta Armario con Cuerda de Recordatorio  Rojo '
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KLTzEwlNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NJT9CG-es'
+slug: 'B089NJT9CG-es Rolimate Rompecabezas de Madera para niños  Rompecabezas de Dinosaurios en 3D Colores y Formas Cognición Juguetes educativos preescolares niños de 3 4 5 6 años  5 PCS '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

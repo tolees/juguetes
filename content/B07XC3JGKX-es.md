@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sSyVozaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC3JGKX-es'
+slug: 'B07XC3JGKX-es Polly Pocket Autocaravana transformable con accesorios  Mattel GKL49 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

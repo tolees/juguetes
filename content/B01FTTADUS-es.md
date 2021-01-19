@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HMxbvQZWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FTTADUS-es'
+slug: 'B01FTTADUS-es 40.5 * 26 * 22cm  Canasta de almacenamiento plegable con asas de algodón con asas  Contenedor de almacenamiento para juguetes  revistas  Cosméticos  etc.  azul'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

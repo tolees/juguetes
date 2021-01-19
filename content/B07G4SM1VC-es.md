@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61FeUhgVPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SM1VC-es'
+slug: 'B07G4SM1VC-es iNeego Bloques de Construcción 1000 Piezas Bloques de Construcción Infantil 3D Juegos de Construcción Ladrillos de Construcción Juguete Colorido Juego para Niños Juguetes Educativos'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

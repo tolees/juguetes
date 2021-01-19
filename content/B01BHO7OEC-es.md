@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yyV-Bs+-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BHO7OEC-es'
+slug: 'B01BHO7OEC-es LEGO Star Wars: El Despertar De La Fuerza  Episodio 7 '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61-eUO6wepL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X3SLL2-es'
+slug: 'B073X3SLL2-es Lego Ninjago'
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

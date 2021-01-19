@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414YXdQ4ciL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RXLB99-es'
+slug: 'B081RXLB99-es Moliies Rompecabezas Niños Niños Niños Niñas Escritura magnética Pintura Dibujo Tablero de Graffiti Juguete Dibujo y blocs de Dibujo'
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

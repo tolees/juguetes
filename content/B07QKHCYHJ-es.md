@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ru+TI0K0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKHCYHJ-es'
+slug: 'B07QKHCYHJ-es HoneyHolly Botella de Agua Acero Inoxidable sin BPA 350ml/Bleu ciel 306C  Aislamiento de Vacío de Doble Pared  Botellas Frío/Caliente  Reutilizable para Niños  Colegio  Sport  Gimnasio  Bicicleta'
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

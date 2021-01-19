@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ezCNoeDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMNKDYJ-es'
+slug: 'B07MMNKDYJ-es L.O.L. Surprise 22050 - Reloj Digital con Correa en Plástico  Niñas'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

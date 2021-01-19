@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WrKAxJJHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ITC36LG-es'
+slug: 'B00ITC36LG-es Clementoni - Puzzle de 500 Piezas   diseño 500  305759 '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

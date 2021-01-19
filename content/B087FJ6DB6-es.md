@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61zmDdhcNdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087FJ6DB6-es'
+slug: 'B087FJ6DB6-es EKKONG Pistolas de Agua para Niños Adultos  900ML Soaker Guns Largo Alcance 8M  Juguetes de Verano Caliente para Piscina de Playa Fiesta Jardin Batalla de Agua  900ml '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

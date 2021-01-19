@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mhf9JrlpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GTZK62-es'
+slug: 'B071GTZK62-es BH Fitness I.Brazil Bicicleta Elíptica  Unisex  Blanco  Talla Única'
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

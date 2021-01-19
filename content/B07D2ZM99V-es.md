@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UTnwlvJ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2ZM99V-es'
+slug: 'B07D2ZM99V-es Ryaco Soporte de Móvil Deportiva para Bicicletas y Motos  Anti Vibración Soporte Móvil Bicicleta Universal con 360 Rotación para iPhone  Samsung Galaxy  LG  HTC  Motorola  GPS y Otros Dispositivos'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

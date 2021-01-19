@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TcxHwukbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSDTZYM-es'
+slug: 'B07MSDTZYM-es CCLIFE Esterilla Puzzle de Fitness 60x60x1cm 30x30x1cm Suelo de Gimnasio de Goma Espuma EVA  Color:Negro 8pcs'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

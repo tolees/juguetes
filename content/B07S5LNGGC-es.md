@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ToZVxI4dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5LNGGC-es'
+slug: 'B07S5LNGGC-es Cartoon L.o.l. Surprise neceser baã‘o lote 3 pz - 3 ml'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

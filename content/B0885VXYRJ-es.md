@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nnKn9VEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0885VXYRJ-es'
+slug: 'B0885VXYRJ-es iMiMi - Juego de anillos apilables de arco iris  juguete piramidal  juguete educativo y educativo para la percepción del color  juguetes de madera para niños y niños  multicolor  duradero'
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

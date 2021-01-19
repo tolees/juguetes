@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61qoMdqJ+wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYFR96U-es'
+slug: 'B01LYFR96U-es Playmobil Porsche 911 GT3 Cup 9225'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

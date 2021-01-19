@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KZRzRI-lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017HASEV2-es'
+slug: 'B017HASEV2-es Disney Princess- Ariel Muñeca  Color Verde y Rojo  Hasbro B5285ES2 '
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

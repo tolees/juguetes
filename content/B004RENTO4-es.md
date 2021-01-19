@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417O7Cbul7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004RENTO4-es'
+slug: 'B004RENTO4-es Theo Klein 8493 Cinturón de herramientas Bosch  Con destornilladorIxolino a pilas y numerosas herramientas  a partir de 3 años  76 cm x 24 cm x 4 5 cm'
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

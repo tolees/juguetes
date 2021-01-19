@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TZyIT58-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R2Q3S6I-es'
+slug: 'B00R2Q3S6I-es KONG - CuteSeas Octopus - Peluche de Pana para Perros - para Perros Pequeños'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

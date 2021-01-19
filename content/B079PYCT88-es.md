@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jxv7fy81L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PYCT88-es'
+slug: 'B079PYCT88-es Clementoni- Disney Collection Puzzle 1000 Piezas Panorama Mickey Minnie  39449.4 '
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

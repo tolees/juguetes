@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kTyvKjsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z2V3CH-es'
+slug: 'B071Z2V3CH-es Shimmer And Shine - Peluche Alfombra mágica Shine  de 30 cm  Giochi Preziosi HMH09110 '
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ukoz0mJaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N11QDSC-es'
+slug: 'B07N11QDSC-es The Bellies - Willy Woof  Muñeco interactivo para niños y niñas de 2 a 8 años  Famosa 700015160 '
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

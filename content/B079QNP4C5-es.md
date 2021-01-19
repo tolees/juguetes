@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yhfbsFEDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QNP4C5-es'
+slug: 'B079QNP4C5-es MEGA- Carrito Encajabloques Juguete de Bloques de Constr  Multicolor  Talla única  Mattel FVJ48 '
 actualPrice: 32.07 EUR
 currency: EUR
 price: 32.07

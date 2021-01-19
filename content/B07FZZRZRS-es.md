@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51GjifqUzIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZZRZRS-es'
+slug: 'B07FZZRZRS-es Tire Hacia Atrás el Coches de Juguetes Miniature Camion Modelos para Niños y Niñas  Pack de 8 vehículos'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

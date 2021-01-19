@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61YgvbGskYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HCHVYR-es'
+slug: 'B084HCHVYR-es Educa Borras - Genuine Puzzles  Puzzle 2.000 piezas  El Jardín de las delicias  18505 '
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

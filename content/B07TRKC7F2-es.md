@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KTOAroBOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRKC7F2-es'
+slug: 'B07TRKC7F2-es XOSS Cadencia/Velocidad Sensor para la computadora de la Bici teléfono Inteligente Bluetooth/Ant + Modo Dual Ciclismo Bicicleta inalámbrica  Cadencia/Velocidad Sensor '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

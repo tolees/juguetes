@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51rmLXL%2Bq4L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B007ZSTYQQ-es'
+slug: 'B007ZSTYQQ-es VTech - Pequepatitas  Juguete para bebé  Color Rojo  80-111222 '
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

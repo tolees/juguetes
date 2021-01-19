@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Z3WNF3-es'
+slug: 'B075Z3WNF3-es Supersoaker Splash Mouth  Hasbro E0021EU4    color/modelo surtido'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

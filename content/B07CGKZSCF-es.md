@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dEUQ8nqxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGKZSCF-es'
+slug: 'B07CGKZSCF-es Hot Wheels - Track Builder  pack de accesorios para pistas Booster -  Mattel GBN81 '
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

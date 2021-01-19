@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vi8jl+QNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765BD1WZ-es'
+slug: 'B0765BD1WZ-es LEGO Duplo Disney - Fiesta de cumpleaños de Minnie  10873 '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

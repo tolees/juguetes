@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mrCr5BaGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNK8SKL-es'
+slug: 'B07DNK8SKL-es Ty – Peluche  ty36253'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

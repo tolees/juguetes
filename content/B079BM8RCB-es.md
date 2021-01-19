@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZWktrXsHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BM8RCB-es'
+slug: 'B079BM8RCB-es TOP BRIGHT Juguete de Carrera de Coches para Niños Pequeños  Juego de Juguetes de Rampa de Camiones Conjuntos de Vehículos con 4 Coches de Madera  4 Rampas de Coche para Niños y Niñas de 1 a 6 Años'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417fly-5K0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BLT8T1-es'
+slug: 'B088BLT8T1-es Souke Sports - Pantalones Cortos De Ciclismo para Mujer 4D Acolchados para Bicicleta De Carretera Pantalones Cortos Transpirables De Secado Rápido'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

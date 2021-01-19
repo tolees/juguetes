@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-kucIoZvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B692VLQ-es'
+slug: 'B07B692VLQ-es Playdoh - La Barberia  Hasbro E2930EU6  '
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

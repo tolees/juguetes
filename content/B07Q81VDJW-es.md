@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oQ6Wa+qKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q81VDJW-es'
+slug: 'B07Q81VDJW-es GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo de Natación Piscina Fucsia'
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

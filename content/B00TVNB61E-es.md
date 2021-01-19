@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GcfDxmeQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TVNB61E-es'
+slug: 'B00TVNB61E-es Clementoni - Puzzle 13.200 Piezas New York  38009 '
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

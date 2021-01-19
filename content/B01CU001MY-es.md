@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mk9LYXtXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CU001MY-es'
+slug: 'B01CU001MY-es Jazwares 15236 16902 Animal Jam Mapache Deluxe Peluche 20 cm'
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

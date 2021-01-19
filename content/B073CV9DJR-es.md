@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511TB-p918L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073CV9DJR-es'
+slug: 'B073CV9DJR-es TOYMYTOY Balón de Fútbol Bolas Pelotas Juguetes Deportivos para Niños Color al Azar 6 Piezas'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l5QCiWQcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJZBK76-es'
+slug: 'B07FJZBK76-es Disney Princess - Disney Princess Brillo Real Ariel  Hasbro E4156ES2 '
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

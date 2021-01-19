@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Uk7JiKDZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6KYPDJ-es'
+slug: 'B07B6KYPDJ-es Play-Doh- La Tostadora  Hasbro E0039EU4 '
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

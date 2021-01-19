@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31oph2OloGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082P1NSYM-es'
+slug: 'B082P1NSYM-es LCQI Cubo Rompecabezas Adultos Niños Profesional Original'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61FTAYPrugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084XL6CNW-es'
+slug: 'B084XL6CNW-es Ravensburger Super Zings para niños 3+ años  4 Puzzle en una Caja  12-16-20-24 Piezas  03053 '
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513TJeRYyyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BY15QJ-es'
+slug: 'B072BY15QJ-es Devir Yangtze  Miscelanea  BGYANG '
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

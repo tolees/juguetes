@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3141gc7jSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PW93V2M-es'
+slug: 'B07PW93V2M-es Nancy - Princesa de Otoño  Famosa 700014110 '
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

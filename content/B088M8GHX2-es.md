@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ys4CcnoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088M8GHX2-es'
+slug: 'B088M8GHX2-es jerryvon Fregadero de Juguete Menaje Cocina Utensilios de Cocina Platos Juguete Infantil Juguetes de Aprendizaje Educativos Juegos de rol Regalos Juguetes para 3 4 5 Años Niños Niñas'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

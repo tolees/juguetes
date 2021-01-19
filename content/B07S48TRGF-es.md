@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ocm-+hmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S48TRGF-es'
+slug: 'B07S48TRGF-es GLEADING Correa Retráctil para Usar Manos Libres para Perros con Doble Cuerda Elástica para Perros  Cinturón Ajustable  Correa de Costura Reflectante para Correr Caminar Pasear Trotar Andar Bicicleta'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

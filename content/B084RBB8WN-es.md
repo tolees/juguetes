@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vO7gg54+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RBB8WN-es'
+slug: 'B084RBB8WN-es Winning Moves Puzzle Harry Potter House Crest 500 Piezas  WM00369-ML1-6 '
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

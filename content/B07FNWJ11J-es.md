@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SSBwA5tFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWJ11J-es'
+slug: 'B07FNWJ11J-es LEGO DUPLO My first - Mi Primer Camión Grúa  Juguete de Construcción Educativo de 1 a 2 Años  10883 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P6ZieToHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JS3L4M-es'
+slug: 'B083JS3L4M-es HASAGEI Soporte Movil Bici para 4.5" -7.2" Smartphones Anti Vibración Soporte Movil para Moto y Bicicleta de Montaña 360° Rotación para Manillar Universal  para el Manillar '
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U+a7+O9VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM52FHX-es'
+slug: 'B07JM52FHX-es Playmobil 70138 Country Mobiles Gallinas hogar  Multicolor'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

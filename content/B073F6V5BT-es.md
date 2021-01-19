@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zsh839PzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073F6V5BT-es'
+slug: 'B073F6V5BT-es JIM S STORE Conjuntos de Patinaje Infantil Consta de Rodilleras Coderas es Adecuado para Bicicleta Patinaje Ciclismo Monopatín y Deportes Extremos Azul '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

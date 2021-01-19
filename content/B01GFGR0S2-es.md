@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hLrus1CDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GFGR0S2-es'
+slug: 'B01GFGR0S2-es Lixada Cubrezapatos Térmico Impermeable A Prueba de Viento Chanclos Protector MTB Bicicleta de Montaña'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

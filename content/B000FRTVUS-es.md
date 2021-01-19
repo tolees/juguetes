@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Pd3dg2OtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000FRTVUS-es'
+slug: 'B000FRTVUS-es Theo Klein-8686 Bosch banco de trabajo en maletín con herramientas y ixolino  juguete  multicolor  Miscelanea  8686 '
 actualPrice: 36.19 EUR
 currency: EUR
 price: 36.19

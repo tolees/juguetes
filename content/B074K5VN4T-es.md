@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RcfLN2f0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074K5VN4T-es'
+slug: 'B074K5VN4T-es Devir- Bienvenido de Nuevo a la mazmorra  BGMAZ2 '
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

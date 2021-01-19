@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518Md3zclxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXSB6M3-es'
+slug: 'B07YXSB6M3-es 324 Piezas Pokemon Cartas  Juego de Cartas  Tarjetas de Pokemon  36 Piezas GX Cartas  Sun & Moon Series y TeamUp Series'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

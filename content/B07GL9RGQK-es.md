@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316XpNJ1B+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL9RGQK-es'
+slug: 'B07GL9RGQK-es Barbie Dreamtopia  Sirena rubia nada y brilla con accesorios  regalo para niñas y niños 3-9 años  Mattel GFL82 '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

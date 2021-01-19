@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XaAZVOFML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792FNCPF-es'
+slug: 'B0792FNCPF-es Little Live Bizzy Babies- Bebé con cunita Gracie   Famosa 700013993 '
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

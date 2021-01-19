@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51duZ71WAeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNS1R56-es'
+slug: 'B07CNS1R56-es Hot Wheels- Dino Challenge Circuito Slot  Multicolor  Fábrica de Juguetes 91008 '
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

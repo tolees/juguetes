@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412uiHOpPML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824GWJ4D-es'
+slug: 'B0824GWJ4D-es YGJT Casco Bicicleta Niños Protección de Cabeza de Seguridad de Dibujos Animados S 50-54CM para Niños de 2-5 Peso Ligero Transpirable para para Bicicleta/Patineta/Scooter'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

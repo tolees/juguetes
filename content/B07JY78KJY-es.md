@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xcxZPplbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY78KJY-es'
+slug: 'B07JY78KJY-es Mini Camión Modelo de auto Conjunto de Juguetes de Vehículos Construcción Coches con tapete de juego para niños  8 Pedazos'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

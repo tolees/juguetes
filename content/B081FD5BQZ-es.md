@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sgrOKJtWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081FD5BQZ-es'
+slug: 'B081FD5BQZ-es ISUDA Rodilleras Deportivas Rodillera Menisco y Ligamentos-Rodillera de Compresión Rodilleras Crossfit Hombre Rotuliana para Crossfit  Deportes Correr  Entrenamiento  Bicicleta Fitness M  - 1 Par'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

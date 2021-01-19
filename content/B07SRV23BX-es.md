@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SyeH32N6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRV23BX-es'
+slug: 'B07SRV23BX-es Aprettysunny Bicicleta Motocicleta Cadena Limpiador Práctico Cepillo Scrubber Park Tool'
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

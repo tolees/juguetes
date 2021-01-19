@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oh8Wps6xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B64DFM6-es'
+slug: 'B08B64DFM6-es EXCEED Posavasos inflables para la Piscina Paquete de 17 titulares de Bebidas inflables con Mini Bomba de Aire  Bebidas flotantes Posavasos inflables para Juguetes para niños y Fiesta en la Piscina'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

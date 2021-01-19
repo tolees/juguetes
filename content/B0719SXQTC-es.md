@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-KWZThoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719SXQTC-es'
+slug: 'B0719SXQTC-es Barriguitas Clínica Loca  Famosa 700013940 '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

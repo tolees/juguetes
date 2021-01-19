@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sqyQoUnOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y3Z9XCQ-es'
+slug: 'B06Y3Z9XCQ-es Mega Bloks- Luau Dave Build-A-Minion Despicable Me Minions Puppy Love Hawaiano  Multicolor  Mattel FDX85 '
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

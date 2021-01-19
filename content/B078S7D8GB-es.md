@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hDIoKz7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S7D8GB-es'
+slug: 'B078S7D8GB-es Blesiya Sistema de Pincel de Dibujo Herramientas de Pinturas Juguetes de Desarrollo para Niño - Vegetal'
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

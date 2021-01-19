@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-JU0DfIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6LXQBD-es'
+slug: 'B07L6LXQBD-es Ravensburger-15168 Ravensburger Banks of The Seine-Puzzle de 1000 Piezas  Multicolor  15168 '
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

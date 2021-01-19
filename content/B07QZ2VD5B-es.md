@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51M-o5xKHsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ2VD5B-es'
+slug: 'B07QZ2VD5B-es Libro Bebe  BelleStyle Libro Texturas Bebe para Juguetes Bebes 1 Año  Cloth Book  Libro Blando para Baño  Soft Book Educación Temprana y Desarrollo de Juguete  6 PCS'
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

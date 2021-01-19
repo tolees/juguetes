@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jkj+AkLUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JLPZYN-es'
+slug: 'B079JLPZYN-es Barbie Muñeca Chelsea y su tren de mascotas  accesorios muñeca  Mattel FRL86 '
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

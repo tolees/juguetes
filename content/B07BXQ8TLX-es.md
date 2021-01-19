@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vster3PDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXQ8TLX-es'
+slug: 'B07BXQ8TLX-es Bornfeel Bolsa de Juguetes Playa Bolsa de Malla para Niños Guardar los Juguetes Bolas Conchas Verde 45 x 30 x 45cm （18 x 12 x 18in）.'
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S7VmkYl7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDCLHJT-es'
+slug: 'B07GDCLHJT-es Autopmall GPS Tracker Bicicleta Tiempo de Espera 300 Horas Impermeable SOS Overspeed Alarma fácil de ser Oculto por Toda la Vida Plataforma Free  1.10  Color TK906'
 actualPrice: 55.87 EUR
 currency: EUR
 price: 55.87

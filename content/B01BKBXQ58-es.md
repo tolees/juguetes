@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RR84DDDXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BKBXQ58-es'
+slug: 'B01BKBXQ58-es Hasbro Risk - Juego de Mesa  versión en inglés '
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

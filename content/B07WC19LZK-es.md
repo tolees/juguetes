@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+Cn3PNqoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC19LZK-es'
+slug: 'B07WC19LZK-es LEGO DUPLO Town - Dormitorio  Set con Ladrillos de Juguete  Incluye un Tobogán y Muñecos para Recrear Escenas de la Vida Cotidiana  a Partir de 2 Años  10926 '
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

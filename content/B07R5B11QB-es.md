@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q5pjoYkSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5B11QB-es'
+slug: 'B07R5B11QB-es REAL MADRID- Nanostad  Puzzle 3D Estadio Santiago Bernabéu Mini  34009   Multicolor  KICK OFF GAMES 1 '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

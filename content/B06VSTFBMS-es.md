@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61M-yk-lGfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VSTFBMS-es'
+slug: 'B06VSTFBMS-es Pinypon Pack 2 mascotas  mariposa y mono  Famosa   700012732 '
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

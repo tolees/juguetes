@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aAhbx-LtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXE3J50-es'
+slug: 'B00VXE3J50-es Moma Bikes City Classic 26"-  Bicicleta Paseo  Aluminio   Cambio Shimano TZ-50 18 vel.  Negro'
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

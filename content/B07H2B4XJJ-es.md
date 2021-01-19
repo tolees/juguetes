@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FvsisKsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2B4XJJ-es'
+slug: 'B07H2B4XJJ-es X-TIGER Mujer Ropa Interior de Bicicleta con 3D Gel Acolchado MTB Ciclismo Pantalones Cortos Color Rosa M'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

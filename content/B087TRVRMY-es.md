@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nGJgMq3HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TRVRMY-es'
+slug: 'B087TRVRMY-es Rolimate Juguete Educativo  Rompecabezas de Madera Juguete de Aprendizaje Montessori Juego de ingenio para niños y niñas de 3 4 5+ años  36 Piezas'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

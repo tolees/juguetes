@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61B8JsNLQWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1J1M7P-es'
+slug: 'B07T1J1M7P-es Viccess 24 Piezas Juguetes de Rompecabezas de Serpiente Magic Snake Cube Mini Serpiente para Niños  Favores de Fiesta Materiales de Fiesta Color al azar'
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

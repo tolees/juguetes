@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dYO0egcdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077X84HGK-es'
+slug: 'B077X84HGK-es Alamor 24V 36V 48V Agarre Del Acelerador Giratorio 7/8 Pulgadas Manillar 3 Cables Electirc Scooter Bicicleta'
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

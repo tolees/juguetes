@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ebNmWzqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WMD76J-es'
+slug: 'B087WMD76J-es BelleStyle Juguetes de Reloj Madera  Juguete de Reloj de Madera Educativo Juguetes Montessori Educativo Rompecabezas Tablero Juegos Educativos Relojes de Aprendizaje para Niños 1 2 3 4 5 Años'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

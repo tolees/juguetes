@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lLVYAYurL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWD34S-es'
+slug: 'B07FNWD34S-es LEGO Creator - Transporte de la Lanzadera  Juguete de construcción 3 en 1 con nave espacial  se convierte en caravana  31091    color/modelo surtido'
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

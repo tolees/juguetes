@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N7vh5ejkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F8PNNB-es'
+slug: 'B075F8PNNB-es Star Wars Peluche BB8 Deco'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

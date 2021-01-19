@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61zpUdaHL1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OQCM24-es'
+slug: 'B005OQCM24-es Hasbro Gaming Gaming Clasico Games-Quien es quien  Hasbro 05801175   Miscelanea'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

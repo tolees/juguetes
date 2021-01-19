@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J2VjhBvxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQSHMZ3-es'
+slug: 'B07VQSHMZ3-es ENKEEO Ciclocomputadores Inalámbrica Recargable USB con Cadencia  Cuentakilómetros Impermeable para Bicicleta  Multifunción con Pantalla LCD Retroiluminada  para Ciclismo'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jmr1hgiCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4JV6JK-es'
+slug: 'B07Q4JV6JK-es VTech- KidiGear Walkie Talkies  Multicolor  Box Size: 25 x 27.9 x 5.5cm  518503 '
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

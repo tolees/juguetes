@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNW2TJ6-es'
+slug: 'B07FNW2TJ6-es LEGO Friends - Clínica Veterinaria Móvil de Emma  juguete imaginativo de construcción para aventuras de mascotas  41360 '
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

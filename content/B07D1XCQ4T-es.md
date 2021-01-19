@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FE8251R5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1XCQ4T-es'
+slug: 'B07D1XCQ4T-es YIMORE Conjunto de Juguetes Arena para la Playa en Bolsa de Malla  moldes de Arena para niños  Colores Surtidos  13 Pedazos '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

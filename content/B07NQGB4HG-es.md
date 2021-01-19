@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517PI-nD1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQGB4HG-es'
+slug: 'B07NQGB4HG-es Polly Pocket Centro Comercial de juguete para muñecas  Matteñ GFP89 '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

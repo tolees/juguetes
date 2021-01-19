@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TgabpqGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089W3BJS3-es'
+slug: 'B089W3BJS3-es FitTrek Casco Bicicleta Niño - Casco Bici Niño - Cascos MTB Ajustable 48 a 53 cm - Casco para Ciclismo Carretera  Bicicleta Urbana  Skate  Snowboard  Ski  BMX 2-5 Años'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

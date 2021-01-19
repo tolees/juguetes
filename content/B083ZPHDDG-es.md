@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TAqhH8NPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZPHDDG-es'
+slug: 'B083ZPHDDG-es Teaisiy Juguetes para Niños  3-12 Años Juguetes Niño Binoculares Telescopio De Senderismo Juguetes para Niñas De 3-12 Años Regalos De Cumpleaños para Niños De 3-12 Años Regalos para Niñas'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

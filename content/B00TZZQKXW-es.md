@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e257EKTAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TZZQKXW-es'
+slug: 'B00TZZQKXW-es MEGA Brands - Mesa Preescolar 3 en 1  Mattel CNM42 '
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

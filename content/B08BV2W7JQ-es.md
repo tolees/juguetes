@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ERGzNKLtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BV2W7JQ-es'
+slug: 'B08BV2W7JQ-es Juguetes de baño para bebés  Juguetes para bebés  Baby Shower  Cuerda  Cuerda  Dibujos Animados  Aprendizaje Educativo  Juguetes de baño - Azul'
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

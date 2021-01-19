@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DwozQ6y5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778VJX6R-es'
+slug: 'B0778VJX6R-es AEST Correpasillos Y Patinete 2 En 1 Bicicleta Sin Pedales Reversible Scooter 2 Ruedas Niño Niña 3-5 Años - Color Amarillo'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

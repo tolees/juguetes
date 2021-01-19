@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414ltcHbhTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084R7TNG1-es'
+slug: 'B084R7TNG1-es Famosa Pin y Pon New Look Pelo Bicolor 700015560'
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

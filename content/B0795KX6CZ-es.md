@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qFZB5Uc8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0795KX6CZ-es'
+slug: 'B0795KX6CZ-es HCMAX Coche Asiento Trasero El Maletero Organizador Bolsa Colgante de Juguetes para Niños Bolsa de Almacenamiento Larga Accesorios de Carga Interiores Automotrices para SUV Vans Cars Trucks'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KqnxtGcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSKP9JR-es'
+slug: 'B07GSKP9JR-es DC Justice League Figura de Acción 30 cm Superman  Juguetes Niños +3 años  Mattel GDT50 '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

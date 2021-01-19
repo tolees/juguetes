@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GksKCMPdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LTWS18-es'
+slug: 'B071LTWS18-es Bob the bulider Scoop Excavadora parlanchina  Simba Toys FHF87 '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

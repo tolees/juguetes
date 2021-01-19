@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cVFzJX3ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075T1Q2YS-es'
+slug: 'B075T1Q2YS-es LEGO Super Heroes Thanos: Batalla definitiva  construcción con Nave de Juguete de los Vengadores  Incluye Minifiguras de Iron-Man  Gamora y Star-Lord  76107 '
 actualPrice: 67.2 EUR
 currency: EUR
 price: 67.2

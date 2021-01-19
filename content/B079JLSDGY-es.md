@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414zAvhGKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JLSDGY-es'
+slug: 'B079JLSDGY-es Barbie Muñeca Stacie y su desayuno  accesorios muñeca  Mattel FRH74 '
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51sN1KQWNGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G25W4DV-es'
+slug: 'B07G25W4DV-es Lommer 7pcs Ajustable Casco Ciclismo Niño Casco Bici Bebe Clásico con Almohadilla Protección para Bicicleta  Patinete  Scooter  Monopatín  5-12 Anos  Azul '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

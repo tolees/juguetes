@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YTStCCKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSGCW2H-es'
+slug: 'B07VSGCW2H-es Akokie Dinosaurios Juguetes Puzzle Juegos de Construccion con Taladro Construcciones Regalo para Niños 3 4 5 años'
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417Agh5U8RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFH2HHK-es'
+slug: 'B07SFH2HHK-es El Rey Leon  The Lion King  - Peluche Leon Simba Adulto 11"/28cm Calidad Super Soft 760018053'
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

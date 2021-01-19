@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oWhFrmrvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4KTD5S-es'
+slug: 'B07W4KTD5S-es LEGO Disney Princess - Cuentos e Historias: Mulán Juguete Libro Personalizable con Pegatinas que se Abre de Juguete de la Película  Incluye a Muñeca Mulán  Li Shang  Grillo y el Caballo Khan  43174 '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

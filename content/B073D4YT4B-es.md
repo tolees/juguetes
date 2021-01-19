@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R0gi-3bpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073D4YT4B-es'
+slug: 'B073D4YT4B-es 2 en 1 Juego de Ajedrez Chino Weiqi Go Juego de Damas Plegable Magnético de Doble Cara Tablero Juguetes Regalos de Colección'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

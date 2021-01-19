@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KnCL3EqcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IKOYXWS-es'
+slug: 'B01IKOYXWS-es Cars 3- Coche Crazy Deluxe Ambulance  Mattel DYB22 '
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

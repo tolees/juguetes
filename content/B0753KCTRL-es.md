@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410mg57UgFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753KCTRL-es'
+slug: 'B0753KCTRL-es Shimmer y Shine Zeta y su moto  muñeca con accesorios  Mattel FHN31 '
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vRHygsUbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JTY77ZY-es'
+slug: 'B08JTY77ZY-es Dittzz Cabeza para Maquillar y Peinar  37 Piezas Juguetes de Belleza y Peluqueria con Accesorios Regalo para Niños'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

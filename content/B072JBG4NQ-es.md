@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4144YU7c8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JBG4NQ-es'
+slug: 'B072JBG4NQ-es Lixada uperdyneema de los Hombres de Ciclismo Ropa Interior Gel 3D Bicicleta Pantalones Cortos Pantalones Acolchados'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

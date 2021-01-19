@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fYNy080eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC3JHTT-es'
+slug: 'B07XC3JHTT-es Disney Cars 3  pista de coches Super Looping XRS Rocket Racing  Mattel GJW44 '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

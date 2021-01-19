@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61bTdlPHFJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VJ4QR9-es'
+slug: 'B085VJ4QR9-es Bolsa de fiesta de para niñas  relleno para piñatas  120 piezas de favores de unicornio para niñas  surtido de juguetes de regalo para fiestas de relleno de piñatas para niños'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

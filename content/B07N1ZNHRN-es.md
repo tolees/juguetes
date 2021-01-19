@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515AK1zXQ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1ZNHRN-es'
+slug: 'B07N1ZNHRN-es Educa Dragon Ball Puzzle Infantil de 200 Piezas  a Partir de 6 años  18215 '
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

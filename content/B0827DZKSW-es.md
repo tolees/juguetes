@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p7g82mv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0827DZKSW-es'
+slug: 'B0827DZKSW-es HellDoler Juguetes de Baño  Huevo Flotante con Spray de Agua para Niños Pequeños  Juguete para Bañera'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

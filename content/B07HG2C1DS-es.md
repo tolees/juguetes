@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Hl4Riz36L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG2C1DS-es'
+slug: 'B07HG2C1DS-es Socialme-eu 8 Piezas Videojuego Logico Grillete Juego de Prueba de Inteligencia Artificial Puzzles Rompecabezas de Juguetes Adultos Niños'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

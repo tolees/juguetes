@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fYqGU0zpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W2G32JK-es'
+slug: 'B06W2G32JK-es Pinypon Pack 2 mascotas  mariposa y oveja.  Famosa   700012732 '
 actualPrice: 0.74 EUR
 currency: EUR
 price: 0.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LZjwl0WIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMG84FG-es'
+slug: 'B07CMG84FG-es Star Wars E0584 Juguete interactivos - Juguetes interactivos  Marrón   4 año s   Niño/niña  1 5 V  Alcalino '
 actualPrice: 56.59 EUR
 currency: EUR
 price: 56.59

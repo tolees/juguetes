@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kUZLK-15L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08132TBFM-es'
+slug: 'B08132TBFM-es 3 Tamaños De Juguetes De Lujo Con Joyas Azules Con Campana Y Cadena Para Amantes Ḅùtt AṈḁl Plùg Vibrḁdôr Vibrḁdôr Pḁrḁ Mùjêrêṧ Pḁrêjḁ PriṈcipiḁṈtêṧ Hômbrêṧ Gḁy Vidriô IṈflḁblê SilicôṈḁ Côlḁ Jùgùêtê'
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

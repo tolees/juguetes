@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bx9sarOGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W55JTT7-es'
+slug: 'B06W55JTT7-es Simba 6315878710pro Disney – Peluche de Mickey  61 cm'
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

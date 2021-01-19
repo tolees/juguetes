@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RI7AJTzdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ9BM1H-es'
+slug: 'B07JQ9BM1H-es Peluche de Gato Almohada para Cojín Asiento de Gato de Peluche  Suave  para Regalo de cumpleaños  para bebé  niños o niñas  Felpa Color Negro Gris Blanco 33cm'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

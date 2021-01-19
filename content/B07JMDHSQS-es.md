@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E8LL7lqaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMDHSQS-es'
+slug: 'B07JMDHSQS-es Barbie Casa de muñecas con muebles y accesorios  juguete +3 años  regalo para niñas y niños 3-9 años  Mattel FXG55 '
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

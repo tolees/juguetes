@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xa4Bu16RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084X7FG8W-es'
+slug: 'B084X7FG8W-es YIMINYUER EVA Medio Ambiente  Alfombrilla Puzzle  Deporte Crossfit musculación  Gimnasio  Interior  Exterior Rojo R09G301020'
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

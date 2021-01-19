@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xKA94s6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VRGQDF-es'
+slug: 'B079VRGQDF-es Juegos Bizak Headbanz Adivina que Pienso  BIZAK 61924297 '
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

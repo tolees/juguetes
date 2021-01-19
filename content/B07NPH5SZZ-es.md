@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51C8g6g2kvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPH5SZZ-es'
+slug: 'B07NPH5SZZ-es yoptote Caja Registradora Juguetes Supermercado Infantil Mercado Juguete Alimentos Juguetes Educación Calculo con Micrófono y Iluminar para Niño de 3 Años+  Rojo '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

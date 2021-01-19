@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tK1yxitoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYJ2ZVK-es'
+slug: 'B06XYJ2ZVK-es Tres Hurras por el Amo - Juego de cartas  Edge Entertainment EEAGTC01    color/modelo surtido'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

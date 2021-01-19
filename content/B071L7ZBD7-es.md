@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51UADzziJaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L7ZBD7-es'
+slug: 'B071L7ZBD7-es Asmodee - Dobble Waterproof  Juego de cartas impermeable  ADE0ASDO007 '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

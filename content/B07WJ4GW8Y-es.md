@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61pZPim1sUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJ4GW8Y-es'
+slug: 'B07WJ4GW8Y-es COOLJOY 118 Piezas Puzzles de Madera Magnético  Pizarra Magnética Rompecabezas para Niños 3 4 5 Año ect  Pizarra Magnética Rompecabezas  Tablero de Dibujo de Doble Cara Juguete Educativo（Dinosaurios）'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

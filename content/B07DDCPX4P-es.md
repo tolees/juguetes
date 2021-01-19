@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mO85xTwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDCPX4P-es'
+slug: 'B07DDCPX4P-es Nancy - Princesa De Las Hadas  Famosa 700014266 '
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

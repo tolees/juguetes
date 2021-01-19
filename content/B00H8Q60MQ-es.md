@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61fmLWRAOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H8Q60MQ-es'
+slug: 'B00H8Q60MQ-es Devir - Crucigramarius  BGCRUCI '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

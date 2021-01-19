@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61IeckyDYSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXVKRCD-es'
+slug: 'B07VXVKRCD-es Wimypet 10 Piezas Juguetes de Cuerda para Perros  Grupo de Juguetes para Perros  Durable Masticable Cuerda Soledad para Pequeñas y Medianas Perros  Mantener a Su Perro Sano  Seguro  no Tóxico'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

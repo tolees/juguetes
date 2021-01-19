@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515bpDYcDtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089ZNJPMS-es'
+slug: 'B089ZNJPMS-es COOLJOY Puzzles de Madera Magnético  Tablero de Dibujo de Doble Cara  Puzzles Rompecabezas Magnéticos de Madera para Niños Niñas Juguete Educativo  Animales '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

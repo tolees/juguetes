@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TkZqBQP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828WPNJ9-es'
+slug: 'B0828WPNJ9-es ROCKBROS Casco para Niños para Bicicleta Casco Integral Infantil Desmontable Tamaño 48-58CM EPS PC Integrado a Prueba de Golpes 3 Color'
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

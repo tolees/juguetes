@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41na3gnfZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C5X2LQ-es'
+slug: 'B072C5X2LQ-es Nancy - Colección Novia diseñada por Ion Fiz  700013524 '
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

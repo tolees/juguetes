@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QACcWTstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJ3G4MS-es'
+slug: 'B07WJ3G4MS-es Dilwe Memory Chess Toys Juego de Emparejamiento de Madera Puzzle Playset Regalo para Ni?os en Edad Preescolar Azul '
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

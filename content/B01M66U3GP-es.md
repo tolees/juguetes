@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xJI3rkZSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M66U3GP-es'
+slug: 'B01M66U3GP-es RYBit Set de 9 Bolsas de Malla Reutilizables +1 Bolsa de Leche Vegetal Nueces +1 Bolsa Compra Plegable  Guardar Frutas Verduras Juguetes Lavandería Cosmética Organizador Viaje  Gran Valor de Precio'
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NutHOylOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK79BZG-es'
+slug: 'B07HK79BZG-es baby tete Bebé 5pcs Silicona Dentición Conjunto Elk Pingüino Animal Mordedor Juguetes para Aliviar el Dolor'
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

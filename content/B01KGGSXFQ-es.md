@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qWMWqRzPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KGGSXFQ-es'
+slug: 'B01KGGSXFQ-es Cars Camión Mack Gran Viaje  transportador de coches de juguete  Mattel DXY87 '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

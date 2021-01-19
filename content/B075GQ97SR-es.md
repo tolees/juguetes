@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61H1T-ePWZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GQ97SR-es'
+slug: 'B075GQ97SR-es LEGO City Great Vehicles - Tractor Forestal  Juguete de Construcción para Niños y Niñas de 5 a 12 Años con Piezas  Minifigura y Vehículo  60181 '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

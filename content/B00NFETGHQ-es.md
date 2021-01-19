@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51UBb8kzTKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NFETGHQ-es'
+slug: 'B00NFETGHQ-es Fisher-Price Gimnasio crece conmigo  manta de juego para bebé  Mattel CCB70 '
 actualPrice: 45.67 EUR
 currency: EUR
 price: 45.67

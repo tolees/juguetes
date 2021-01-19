@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lqvC4cyfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NWG6Y5-es'
+slug: 'B079NWG6Y5-es Nerf- Lanzador Firestrike  Color azul  Hasbro 53378EU6    color/modelo surtido'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

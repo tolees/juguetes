@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lnqblKFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LFOAQTU-es'
+slug: 'B00LFOAQTU-es Air Hogs - Vectron Wave 2  Bizak 61924436  - colores surtidos'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

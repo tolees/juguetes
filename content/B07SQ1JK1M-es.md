@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61sZxJJBWIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ1JK1M-es'
+slug: 'B07SQ1JK1M-es Kinetic Sand Sandtastic Arena Kinética  BIZAK 61921467 '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

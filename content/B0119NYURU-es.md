@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DHIufhQVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0119NYURU-es'
+slug: 'B0119NYURU-es Sentía rompecabezas mantel  rojo / verde'
 actualPrice: 8.74 EUR
 currency: EUR
 price: 8.74

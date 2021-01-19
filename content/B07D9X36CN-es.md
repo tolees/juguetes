@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41puqz2z5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9X36CN-es'
+slug: 'B07D9X36CN-es Partypopteenies - Lanzador Sorpresa  Bizak  61924680    color/modelo surtido'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

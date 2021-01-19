@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hC9-xdURL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WWRQK4H-es'
+slug: 'B06WWRQK4H-es Puzzles Rompecabezas Magnéticos de Madera Juguetes Educativos Para Niños Niña 3 Años'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fpLArLLZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKXLXDP-es'
+slug: 'B07QKXLXDP-es Hengxin Maillot Ciclismo Corto De Verano para Hombre  Ropa Culote Conjunto Traje Culotte Deportivo con 3D Almohadilla De Gel para Bicicleta MTB Ciclista Bici  Negro  L '
 actualPrice: 33.43 EUR
 currency: EUR
 price: 33.43

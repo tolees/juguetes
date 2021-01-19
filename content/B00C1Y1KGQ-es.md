@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nj7uy-A4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C1Y1KGQ-es'
+slug: 'B00C1Y1KGQ-es Peppa Pig - Manguitos hinchables  Saica Toys 9110 '
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51tk%2BL9qEUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N64J0BH-es'
+slug: 'B01N64J0BH-es Yo-kai Watch Kai Álbum de colección de medallas  Miscelanea  Hasbro B7498EQ0 '
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

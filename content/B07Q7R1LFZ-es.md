@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GaScwtVWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7R1LFZ-es'
+slug: 'B07Q7R1LFZ-es Avengers Titan Hero FX Capitán América  Hasbro E3301105 '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

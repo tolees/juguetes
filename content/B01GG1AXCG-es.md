@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fk62fZpiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GG1AXCG-es'
+slug: 'B01GG1AXCG-es TROLLS - Coronación de la Princesa Poppy  Hasbro B6560EU4 '
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

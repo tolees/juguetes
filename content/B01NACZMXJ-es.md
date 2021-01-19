@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V7cYzM5nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NACZMXJ-es'
+slug: 'B01NACZMXJ-es SportPlus SP-ET-9600-iE Bicicleta Elíptica con Aplicación para Smartphone  24 Niveles de Resistencia  Sensores de Pulso Manual  Peso del Usuario 150 kg  120x62x160cm'
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zlh0lmCKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1S8BG3-es'
+slug: 'B07Y1S8BG3-es 18 PCS Bolsas Reutilizables Compra Ecológicas Bolsas para Fruta Reutilizables Bolsa de Malla para Almacenamiento Verduras Juguetes Lavable y Transpirable 3 Tamaños  6L+6M+6S '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

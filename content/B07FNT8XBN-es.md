@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N5992Eg4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNT8XBN-es'
+slug: 'B07FNT8XBN-es LEGO Disney Princess - Celebración Real de Ariel  Aurora y Tiana  castillo de princesa para construir  41162 '
 actualPrice: 37.07 EUR
 currency: EUR
 price: 37.07

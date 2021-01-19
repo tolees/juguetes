@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JkHtDWlTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N39DLDR-es'
+slug: 'B01N39DLDR-es Pinypon Huevos Sorpresa  Famosa   700012850 '
 actualPrice: 0.42 EUR
 currency: EUR
 price: 0.42

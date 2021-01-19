@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EAVgmHPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076WVBJS9-es'
+slug: 'B076WVBJS9-es Nilox E Bike 36 V 16 P-X2 Bicicleta Eléctrica  Unisex Adulto  Negro  58 x 170 x 98'
 actualPrice: 379.56 EUR
 currency: EUR
 price: 379.56

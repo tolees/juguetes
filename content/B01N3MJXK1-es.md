@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oowXH-raL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3MJXK1-es'
+slug: 'B01N3MJXK1-es PLAYMOBIL- Maletín Grande Picnic Familiar  única  9103 '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

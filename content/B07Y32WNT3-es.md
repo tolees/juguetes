@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41strT-QqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y32WNT3-es'
+slug: 'B07Y32WNT3-es PVC Inflable Serpiente Inflable Promocional Animal Juguetes Niños Divertido Inflable Python Tricky Toys - Multicolor'
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

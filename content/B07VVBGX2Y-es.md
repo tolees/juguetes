@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5151P25dqCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVBGX2Y-es'
+slug: 'B07VVBGX2Y-es Nobleza – Pack de 10 Juguetes para Perro. Set Fabricado en Cuerda para morder. Especial para el Cuidado Dental'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

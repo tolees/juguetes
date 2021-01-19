@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515LUGJW5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYJ7FSY-es'
+slug: 'B08BYJ7FSY-es BelleStyle Puzzle Bebe  Puzzles de Madera Educativos para Bebé  Montessori Juguetes  Aprendizaje Temprano Educativo Bloque de Madera Rompecabezas de Juguete Niños 1 Año 2 3 4 5 Regalo - 3 Piezas'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

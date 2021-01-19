@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oWR1O6CjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C47BGUE-es'
+slug: 'B01C47BGUE-es Star Wars - Playset Rogue One Fuego Rápido Imperial  Hasbro B7076EU4 '
 actualPrice: 280.0 EUR
 currency: EUR
 price: 280.0

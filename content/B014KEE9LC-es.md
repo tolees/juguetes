@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515+uxkzw-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014KEE9LC-es'
+slug: 'B014KEE9LC-es Mattel Fisher-Price-Xilófono de Arrastre  Juguete Musical de Gateo bebés +1 año  Multicolor CMY09'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

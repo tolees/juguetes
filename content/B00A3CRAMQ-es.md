@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51axqEIhWWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A3CRAMQ-es'
+slug: 'B00A3CRAMQ-es Brazalete Deportivo para Correr y Andar en Bicicleta Brazalete Deportivo Movil con Rotación 360° Compatible con iPhone X XR XS MAX 7/8 Plus 11 Samsung S9 S10 de 4"-6.5"  3 IN 1 '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

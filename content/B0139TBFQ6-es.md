@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P4PTDneAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0139TBFQ6-es'
+slug: 'B0139TBFQ6-es Kids Premium Baby Bath Toy Organizer - Niños grandes Toy Storage bolsa para niños y niñas y carrito de la ducha. Bonos: 4 ventosas de bloqueo de servicio pesado más 4 juguetes de baño'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

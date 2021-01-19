@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b44tS15pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DRZ41Z-es'
+slug: 'B083DRZ41Z-es Fajiabao Pizarra Infantil de Caballete con Pizarra Blanca Magnética Niños Doble Cara Tablero de Aprendizaje Números y Letras Magnéticos Juegos Educativos Juguetes de Madera para 2 3 4 5 Años'
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

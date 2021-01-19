@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tri7+4QKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5PTR7N-es'
+slug: 'B07W5PTR7N-es LEGO Disney Princess - Aventura Oceánica de Vaiana Juguete de Construcción Creativo de la Película  con Muñecas de Vaiana y Púa  Contiene una Canoa y otros Elementos  a Partir de 6 Años  43170 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

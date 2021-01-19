@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31me1L7SpdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NE5L9A-es'
+slug: 'B003NE5L9A-es Ladrillo de almacenamiento Lego 8 espàrragos'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IaIdZXqhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H55Y8KB-es'
+slug: 'B07H55Y8KB-es Cinturón de Correr Chuangmeida Riñonera Cinturón Running Deportiva Belt Bolsa impermeable para corredor orificio para auriculares para andar en bicicleta  viajar para iPhone Samsung Smartphones'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

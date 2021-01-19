@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PP1D9JRbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018S6LWJK-es'
+slug: 'B018S6LWJK-es FEBER - See Saw  Balancín  Famosa 800010240 '
 actualPrice: 123.2 EUR
 currency: EUR
 price: 123.2

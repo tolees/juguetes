@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413D1g7xiZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2GPDSB-es'
+slug: 'B07T2GPDSB-es GRAT.UNIC Pantalones Cortos de Bicicleta Shorts de Ciclismo 9D Padded Shorts Gel de Silicona Biker Shorts  Medio Pantalones para Bicicleta de Carretera  Negro  M '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

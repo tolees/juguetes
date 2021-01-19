@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u3RtJDBIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RCHV8R-es'
+slug: 'B088RCHV8R-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para niños tapetes para niños foammats playmats estera del rompecabezas bebé 18 piezas niños tapete tapete tapete Blanco Frutaverde 101115'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

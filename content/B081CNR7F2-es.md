@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cBdNyBKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CNR7F2-es'
+slug: 'B081CNR7F2-es Rolimate Bebé Juguete de Dibujos Animados Animales Rellenos sonajeros Colgantes Juguetes  Bebé Cama Cuna Asiento de Coche Cochecito de Viaje Peluches con Campanas de vientorecién Nacidos 0 a 18 Meses'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

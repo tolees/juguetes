@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X+bX29ouL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WQK7X2-es'
+slug: 'B078WQK7X2-es Little Live Pets- Perrito Travieso con transportín  Famosa 700014380 '
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

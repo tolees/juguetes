@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+6+d-bwyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QH9SN7-es'
+slug: 'B075QH9SN7-es Amaza 24pcs Squishys Kawaii Squishy Juguetes Squishies Animales Slow Rrising Squeeze Kids Toy Gift  Multicolor '
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

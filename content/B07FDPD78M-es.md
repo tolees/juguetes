@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HDTc8yflL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDPD78M-es'
+slug: 'B07FDPD78M-es Homcom Entrenador Elíptico de Fitness Bicicleta Elíptica Resistencia Ajustable Pantalla LCD Manillar Ajustable Carga 110kg Acero'
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

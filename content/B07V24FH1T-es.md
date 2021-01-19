@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517Ea3EKUnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V24FH1T-es'
+slug: 'B07V24FH1T-es Safta Sport Bag 40 Cm Superzings  Bolsa de gimnasio Unisex bebé  Colorido  40 Centimeters'
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

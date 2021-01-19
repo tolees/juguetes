@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DBx8ty5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UKH27RW-es'
+slug: 'B00UKH27RW-es Clementoni - Puzzle 3 x 48  Avengers  252039 '
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

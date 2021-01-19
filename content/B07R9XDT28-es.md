@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MBd1k03GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9XDT28-es'
+slug: 'B07R9XDT28-es Eono by Amazon - Bolsas Compra Reutilizables Ecológicas Bolsa de Malla Hechas de Algodón Orgánico para Almacenamiento Fruta Verduras Juguetes Lavable y Transpirable  Diversos Tamaños  9 Pcs  2L+5M+2S '
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

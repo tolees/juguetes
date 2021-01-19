@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61JCPaiduSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793HTGYW-es'
+slug: 'B0793HTGYW-es Educa Borrás - Puzzle 1500 Símbolos de Norte-América  17670 '
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

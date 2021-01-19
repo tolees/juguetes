@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o+L+t8+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMDWLVS-es'
+slug: 'B07WMDWLVS-es Mocolo Bolsas de la Compra Reutilizables Ecológicas Bolsa de Malla para Almacenamiento Fruta Verduras Juguetes Lavable y Transpirable  20PCS '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

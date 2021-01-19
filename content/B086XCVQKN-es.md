@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KjYc+JF8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086XCVQKN-es'
+slug: 'B086XCVQKN-es Wooden Jumping Gomoku Wooden Six-Color Two-In-One Juego de Mesa para niños Juegos de Mesa Juguetes educativos - Multicolor'
 actualPrice: 12.42 EUR
 currency: EUR
 price: 12.42

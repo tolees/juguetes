@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hgj2tyn+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AROO06I-es'
+slug: 'B01AROO06I-es Mattel - DLH56 Shimmer and Shine Muñeca Shimmer con accesorios   color/modelo surtido'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

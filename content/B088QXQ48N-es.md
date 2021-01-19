@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hgDHFa39L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088QXQ48N-es'
+slug: 'B088QXQ48N-es LEADSTAR Rompecabezas de Madera Bloques de Madera  Tangram Puzzle Tangram Madera Shape Puzzle Set 36 Montessori Forma Geométrica Bloques de Patrones + 60 Piezas Tarjetas de diseño  Amarillo '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

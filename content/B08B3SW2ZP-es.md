@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5168VWqyCJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3SW2ZP-es'
+slug: 'B08B3SW2ZP-es Coches Juguetes Niños Educativos Vagón De Ferrocarril Juguetes Bebes Juguete Educativos Montaje Coches De Juguete para Niños 3 4 5 Años'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mvU7S5s2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002NU6J1Y-es'
+slug: 'B002NU6J1Y-es Garmin 010-11430-00 - Soporte de Bicicleta para GPS'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

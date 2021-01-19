@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oLm0tEQgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLPVJK5-es'
+slug: 'B08BLPVJK5-es Tablero de dibujo para niños Caballete de madera de doble cara Tablero de dibujo para niños Caballete de madera con diversión Educación Aprender a fingir jugar Juegos Juguetes Jardín de infa'
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

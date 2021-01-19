@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OnveYI8YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892GNVJK-es'
+slug: 'B0892GNVJK-es EKKONG Flotador Bebé  Flotador Inflable para Bebé  Anillo de Natación para Bebés  Piscina Hinchables Niños con Asiento 6 a 48 Meses  Rosado'
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

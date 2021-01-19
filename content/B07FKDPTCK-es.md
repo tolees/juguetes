@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CzJm5TRGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKDPTCK-es'
+slug: 'B07FKDPTCK-es QNIGLO Prismáticos Compactos a Prueba de Golpes para Niños Binoculares Alta Resolución 10x21 Observación de Aves Excursiones Caza Aprendizaje Mejores Juguetes para Regalos de Niños Rosa '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

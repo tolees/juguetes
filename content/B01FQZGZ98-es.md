@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yqDO0iABL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FQZGZ98-es'
+slug: 'B01FQZGZ98-es Bizak Comiditas - Juego para cocinar 63120001'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

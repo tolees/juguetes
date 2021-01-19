@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GhIVy6M6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765BD1WX-es'
+slug: 'B0765BD1WX-es LEGO Juniors 4+ City - Gran Aeropuerto de la Ciudad  Juguete de Construcción con Aviones de Colores  Coches  Vehículos y Minifiguras  10764 '
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

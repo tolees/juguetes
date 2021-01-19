@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IJjs7KzYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFKJTC-es'
+slug: 'B07JLFKJTC-es Playmobil 70090 Family Fun Agua Deportes de Escuela  Multicolor'
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

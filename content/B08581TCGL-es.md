@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mXx9yQzAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08581TCGL-es'
+slug: 'B08581TCGL-es DC Comics Figura Acción Liga de la Justicia 30 cm. Superman  BIZAK 61926870 '
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

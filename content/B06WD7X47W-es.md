@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Dkb9QjIUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WD7X47W-es'
+slug: 'B06WD7X47W-es Despicable Me 9079 "DM3 Cárcel Minions Tom de Peluche  tamaño Grande '
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

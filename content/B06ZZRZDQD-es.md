@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SdUvpsIIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZRZDQD-es'
+slug: 'B06ZZRZDQD-es Clementoni- Puzzle 500 Piezas Old Waterway Cottage  Multicolor  35048.3 '
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

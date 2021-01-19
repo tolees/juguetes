@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t9me6B4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5K2SMB-es'
+slug: 'B01N5K2SMB-es Geomag- Classic Color Construcciones magnéticas y juegos educativos  Multicolor  127 piezas  264    color/modelo surtido'
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

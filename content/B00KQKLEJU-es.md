@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tpy5MCngL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KQKLEJU-es'
+slug: 'B00KQKLEJU-es Fisher-Price BHC01 Laugh and Learn - Teléfono inteligente'
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

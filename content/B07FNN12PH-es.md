@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNN12PH-es'
+slug: 'B07FNN12PH-es LEGO Minecraft - La Batalla en el End  juguete divertido de construcción y aventuras basado en el videojuego  21151 '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

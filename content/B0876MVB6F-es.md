@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514EnufOWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876MVB6F-es'
+slug: 'B0876MVB6F-es BeebeeRun Alimentos de Juguete para Niños  Cortar Frutas y Verduras con 5 Cestas de Bushel  Juegos de Cocina Juguetes Educativos Regalo para la Primera Infancia Niño Chica 3 años+'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

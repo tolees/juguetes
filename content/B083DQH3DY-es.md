@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t38JuAsqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DQH3DY-es'
+slug: 'B083DQH3DY-es Addmos Juguetes de baño  2 x Juguetes de baño para bebés con Spray de Agua con música y luz Juguetes para niños pequeños Amarillo y Rosa  un par '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qxD0o0TRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXJTT97-es'
+slug: 'B07DXJTT97-es TOP BRIGHT Juguetes de Cocina de Madera  Corte de Juguetes de Frutas y Hortalizas  Juguete Magnéticos de Frutas y Verduras Educativos  Accesorios de Cocina para Bebé Durante 3 Años +'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

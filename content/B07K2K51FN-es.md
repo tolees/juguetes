@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61APZUFhjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2K51FN-es'
+slug: 'B07K2K51FN-es Ravensburger - Memory Dragons 3  21444 '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

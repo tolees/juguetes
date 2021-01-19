@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HkpnPosOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7XVZ4M-es'
+slug: 'B07X7XVZ4M-es L.O.L. Surprise Paleta De Maquillaje Infantil Extensible De 30 Elementos'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

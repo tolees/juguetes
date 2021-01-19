@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GVz90Wr6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IIHJKU2-es'
+slug: 'B01IIHJKU2-es Pinypon by PINY PINY - Dareway Julia  muñeca con accesorios  Famosa 700012963 '
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

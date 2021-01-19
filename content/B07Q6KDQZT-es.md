@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511rVqfa9yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6KDQZT-es'
+slug: 'B07Q6KDQZT-es Candado de Disco De Alarma  Disco De Bloqueo para Moto Bicicleta Antirrobo 110dB 6mm Bloqueo De Seguridad con 1.2M Cable De Recordatorio para Scooter Motocicleta - Negro'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

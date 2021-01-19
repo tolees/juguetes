@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vsVz-ksdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WWR7DQI-es'
+slug: 'B00WWR7DQI-es LEGO Marvel Super Heroes - Classics'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dE8ZkIWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXRHMK9-es'
+slug: 'B07TXRHMK9-es Caminata y Canto eléctrico Unicornio de Peluche de Juguete de Peluche Pegasus Pony Toys 35 cm Música Unicornio de Juguete para niños  White '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

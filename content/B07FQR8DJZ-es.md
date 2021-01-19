@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uQw4JIY-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQR8DJZ-es'
+slug: 'B07FQR8DJZ-es Cottage im Herbst - Puzzle mit 500 Teilen'
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

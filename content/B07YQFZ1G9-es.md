@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YgcP7ePBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQFZ1G9-es'
+slug: 'B07YQFZ1G9-es Denver - Bicicleta Infantil de 14 Pulgadas  diseño de Unicornio  Color Blanco y Rosa'
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

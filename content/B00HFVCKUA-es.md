@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61P6kVhIoEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HFVCKUA-es'
+slug: 'B00HFVCKUA-es Lego Movie The Videogame'
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

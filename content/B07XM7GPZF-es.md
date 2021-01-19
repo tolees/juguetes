@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wNjVEmM8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XM7GPZF-es'
+slug: 'B07XM7GPZF-es YGJT Bicicleta sin Pedales 1 Año Juguetes Bebes - Triciclos Bebes- Correpasillos Bebes 1 Año Regalo para 1 Año Rosado'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

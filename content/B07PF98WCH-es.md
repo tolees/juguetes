@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uEzQmOvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PF98WCH-es'
+slug: 'B07PF98WCH-es Symiu Juego baño DIY Juego Pista de Agua de Circuito Canicas Juguetes Bebe en la Bañera para Niños Niñas 3 4 5 6 Años con Bolas'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yNkp0rQFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XCWTF7-es'
+slug: 'B075XCWTF7-es Juguetes de Baño Niños 3+ Años Juguetes de Natación Playa Red de pesca （6 Piezas）'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

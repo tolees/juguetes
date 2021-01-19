@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jHIKWig9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002MYGQPK-es'
+slug: 'B002MYGQPK-es Mona Lisa Puzzle'
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

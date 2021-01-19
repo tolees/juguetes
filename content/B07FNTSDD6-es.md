@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y-KBR0VHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTSDD6-es'
+slug: 'B07FNTSDD6-es LEGO Duplo Town - Camión de Bomberos  Juguete de construcción de Aventura de Salvamento  10901 '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AABQRa3wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP1X8B4-es'
+slug: 'B07FP1X8B4-es LEGO Disney Princess - Aventuras en Palacio de Aladdín y Jasmine  juguete creativo de construcción  41161 '
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

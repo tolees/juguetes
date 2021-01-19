@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51u3ymjPtnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PF12T5B-es'
+slug: 'B07PF12T5B-es TOIMSA 16225 Vulcano - Bicicleta de 16 Pulgadas'
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

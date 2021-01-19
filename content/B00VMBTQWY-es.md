@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qdvEWWGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VMBTQWY-es'
+slug: 'B00VMBTQWY-es Maxxis Ardent Race ETB96742300  Neumático de bicicleta  Negro  29 x 2.20'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

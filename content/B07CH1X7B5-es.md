@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q8zvWtFuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CH1X7B5-es'
+slug: 'B07CH1X7B5-es Harry Potter Muñeca Ginny Weasley de la colección de Harry Potter   Mattel FYM53 '
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

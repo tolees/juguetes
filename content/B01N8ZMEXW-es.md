@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bcc592h+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8ZMEXW-es'
+slug: 'B01N8ZMEXW-es MEISHINE® 3x3x3 Mini Cubo Mágico Inteligencia Juego de Puzzle Cube Magic Cube Stickerless'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

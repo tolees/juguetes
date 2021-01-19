@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-1zyzW8HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7WKGT3-es'
+slug: 'B07R7WKGT3-es Hasbro Star Wars Retro Game-Escape de la Estrella de la Muerte  Multicolor  5010993640041 '
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

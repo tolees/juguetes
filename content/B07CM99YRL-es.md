@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XSvpEBsmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM99YRL-es'
+slug: 'B07CM99YRL-es Nerf - Laser Ops Deltaburst  Hasbro E2279EU4 '
 actualPrice: 25.03 EUR
 currency: EUR
 price: 25.03

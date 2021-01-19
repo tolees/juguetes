@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D3e+7MsyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824RFQSS-es'
+slug: 'B0824RFQSS-es Playskool Heroes- Mega Mighties Avengers Capitana Marvel  Hasbro E7933ES0 '
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

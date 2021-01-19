@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61YKZZYtPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYM44JP-es'
+slug: 'B07SYM44JP-es Ravensburger - Puzzle Paw Patrol  pack de 4  03029 '
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

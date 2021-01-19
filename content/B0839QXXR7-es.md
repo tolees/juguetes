@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c-1CXVQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0839QXXR7-es'
+slug: 'B0839QXXR7-es Pinypon Action- Bote pirata con 2 figuras para niños y niñas a partir de 4 a 8 años   Famosa 700015587 '
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

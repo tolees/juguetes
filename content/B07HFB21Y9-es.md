@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kf6zCyElL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFB21Y9-es'
+slug: 'B07HFB21Y9-es Educa Borras - Genuine Puzzles  Puzzle 500 piezas  Despierta tu magia  17959 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

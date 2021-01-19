@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JcFUKbOGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYW9B7O-es'
+slug: 'B01CYW9B7O-es Cuna para bebé  modelo osito + Colchón Viscoelástico + Edredón y Protector de Cuna  regalo oso peluche '
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

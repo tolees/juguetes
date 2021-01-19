@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WxoJoAIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQJE3MS-es'
+slug: 'B00DQJE3MS-es Lego Marvel Super Heroes [Importación Francesa]'
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

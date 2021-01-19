@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413SC5a7P3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BM8CSD-es'
+slug: 'B085BM8CSD-es YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo Goma EVA Puntos Blanco Beige Púrpura R01R10R11G301020'
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

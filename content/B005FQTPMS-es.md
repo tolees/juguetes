@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TxhSJK9aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005FQTPMS-es'
+slug: 'B005FQTPMS-es Nerf - Nstrike Falconfire  Hasbro  B9839EU5 '
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

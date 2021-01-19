@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ueYSgveDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQQ7G88-es'
+slug: 'B07SQQ7G88-es Awroutdoor Candado de Bicicleta Seguridad Candado de Cable Mejor Combinación con Flexible Montaje Cable de Bloqueo antirrobo Alta Seguridad para la Bicicleta al Aire Libre 120cm X12mm'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

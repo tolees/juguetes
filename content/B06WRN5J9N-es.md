@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41okVrtRL4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRN5J9N-es'
+slug: 'B06WRN5J9N-es Beyblade - Estadio Basico  Hasbro C0704EU4 '
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

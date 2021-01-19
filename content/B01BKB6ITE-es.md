@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x-ADwRnfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BKB6ITE-es'
+slug: 'B01BKB6ITE-es Blaze y los Monster Machines - Fisher-Price Blaze parlanchín  Mattel DXB68 '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O8peHoQ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085BMH5LP-es'
+slug: 'B085BMH5LP-es YIMINYUER es colchoneta Suelo de Camping EVA Puzzle Colchonetas 30cm x 30cm x1mm Blanco Beige R01R10G301020'
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

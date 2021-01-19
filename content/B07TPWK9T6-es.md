@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UHm7PtvPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPWK9T6-es'
+slug: 'B07TPWK9T6-es Gormiti Serie2 Figuras de 25 cm con luz y Sonidos  2 Modelos Surtidos  Envío ALEATORIO  color  Famosa GRE04000 '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

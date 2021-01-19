@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TWLW9tzIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTV5P8Q-es'
+slug: 'B07VTV5P8Q-es Nobleza – Pack de 5 Juguetes para Perro. Set Fabricado en Cuerda para morder. Incluye Bola de Entrenamiento para Comida'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

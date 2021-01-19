@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fbr1xUxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RSDXNP-es'
+slug: 'B084RSDXNP-es Famosa Pin y Pon Queen Figura Hielo Vestido Lila 700015577'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

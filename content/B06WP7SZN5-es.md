@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pLwEr9jKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WP7SZN5-es'
+slug: 'B06WP7SZN5-es Star Wars 8 Sable Camino de la Fuerza  Multicolor  Hasbro C1412EU4 '
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

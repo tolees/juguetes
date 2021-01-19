@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D5mLbkeqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073CHLWWZ-es'
+slug: 'B073CHLWWZ-es yoptote Puzzles Rompecabezas Magnéticos de Madera Juguete Educativo Tablero de Dibujo de Doble Cara para Niño Niña 3 Años 4 Años 5 Años - 123 Piezas  Zoológico '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

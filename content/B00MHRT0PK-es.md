@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EptDHEe9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MHRT0PK-es'
+slug: 'B00MHRT0PK-es SYLVANIAN FAMILIES- School Friends Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5170 '
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

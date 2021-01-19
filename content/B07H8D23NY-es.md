@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51l3uC+0OVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8D23NY-es'
+slug: 'B07H8D23NY-es Locisne 100pcs 7.2cm Recarga de Dardos Soft EVA Foam Bullet Munición Pack para Nerf N-Strike Elite Series- Azul EVA bala 100 '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

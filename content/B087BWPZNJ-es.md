@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zZWPRAvrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087BWPZNJ-es'
+slug: 'B087BWPZNJ-es MUOOUM - Cesta plegable para ropa sucia  cesta de ropa sucia  organizador de ropa sucia  organizador de ropa sucia para la colección de juguetes  pvc  Multi 07  19.3x11.8x15.9 in/49x30x40.5 cm'
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

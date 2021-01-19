@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g86ZpTx9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN984ZV-es'
+slug: 'B07GN984ZV-es FITODO Pedales Ejercicio Estaticos Mini Bicicleta Estatica Brazos y piernas'
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

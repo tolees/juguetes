@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yTIH9XP1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHTR4JQ-es'
+slug: 'B07QHTR4JQ-es Botella de Agua de Acero Inoxidable Botella Termica 500ml  Botella Sin Bpa & Eco Friendly  Mantiene Bebidas frías por 24h y Calientes por 12h  Adecuada para Viaje  Deporte  Bicicleta  Gimnasio'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

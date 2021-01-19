@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SAsGERjcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GQ2KT8-es'
+slug: 'B075GQ2KT8-es LEGO City Police - Huida por Aguas Salvajes  Juguete de Policía de Construcción y Aventuras para Niños y Niñas de 5 a 12 Años  Incluye Minifiguras y Barcas  60176 '
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

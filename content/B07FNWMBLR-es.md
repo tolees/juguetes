@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51luyg3CFsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWMBLR-es'
+slug: 'B07FNWMBLR-es LEGO Ninjago - Spinjitzu Kai  peonza roja divertida de ninja de juguete  70659 '
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

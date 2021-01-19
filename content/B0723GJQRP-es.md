@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Y9yUUdWAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0723GJQRP-es'
+slug: 'B0723GJQRP-es Transformers C2028EU50 - Peluche de evolución'
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

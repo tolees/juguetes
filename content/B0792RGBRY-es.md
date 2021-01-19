@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792RGBRY-es'
+slug: 'B0792RGBRY-es LEGO Animales Fantásticos - Huida de Grindelwald  Juguete de Construcción del Mundo Mágico de Fantastic Beasts  75951 '
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

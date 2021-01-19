@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wD5RWmJwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVMLXGC-es'
+slug: 'B06WVMLXGC-es Elbphilharmonie Hamburg. Puzzle 1008 Teile'
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-ines02JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CV9XC4N-es'
+slug: 'B07CV9XC4N-es himaly Mini Bicicleta de Ejercicio portátil casa Pedal Ejercicio Gimnasio Fitness Brazo de Entrenamiento Cardiovascular Resistencia Ajustable con Pantalla LCD para Mujeres y Hombres'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
