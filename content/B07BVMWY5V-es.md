@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVMWY5V-es Zequins- Muñeco Emmy Famosa 700014680'
-tags: tole.es, famosa
+tags: [ tole.es, famosa ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

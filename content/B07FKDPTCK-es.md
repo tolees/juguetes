@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDPTCK-es QNIGLO Prismáticos Compactos a Prueba de Golpes para Niños...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PX9XNC-es Clementoni-39445 Orchestra Puzzle 1000 Piezas Panorama...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

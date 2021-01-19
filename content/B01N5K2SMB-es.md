@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5K2SMB-es Geomag- Classic Color Construcciones magnéticas y juegos...'
-tags: tole.es, geomag-
+tags: [ tole.es, geomag- ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

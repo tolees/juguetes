@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EBILQH8-es LEGO Jurassic World - Caos del Triceratops Juguete de...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

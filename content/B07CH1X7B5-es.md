@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CH1X7B5-es Harry Potter Muñeca Ginny Weasley de la colección de Harry...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

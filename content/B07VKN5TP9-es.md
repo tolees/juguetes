@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKN5TP9-es ENEGON 9V USB Directa Recargable Batería 650mAh Lito-Ion...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

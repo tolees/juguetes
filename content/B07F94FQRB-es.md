@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F94FQRB-es Peak Design Anchor Links Conectores Correa AL-4 - Anclaje...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGBCF68-es Juguetes de Buceo Conjunto de Juguete para Piscina Juguete...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDDND3K-es Jaggets - Snow Surprise Mini Model Famosa 700014723'
-tags: tole.es, famosa
+tags: [ tole.es, famosa ]
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

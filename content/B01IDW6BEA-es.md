@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDW6BEA-es Cars 3 Coche Flash McQueen Mattel DXV45 color/modelo surtido'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

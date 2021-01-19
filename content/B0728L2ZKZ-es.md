@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728L2ZKZ-es Oonies Estudio de globos Famosa 700013962'
-tags: tole.es, famosa
+tags: [ tole.es, famosa ]
 actualPrice: 22.97 EUR
 currency: EUR
 price: 22.97

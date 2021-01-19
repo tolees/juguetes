@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX4YJ7F-es Fivejoy Juguetes de Construcción Bloques de Construccion...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

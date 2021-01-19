@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZNJPMS-es COOLJOY Puzzles de Madera Magnético Tablero de Dibujo de...'
-tags: tole.es, rompecabezas
+tags: [ tole.es, rompecabezas ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

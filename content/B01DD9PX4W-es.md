@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DD9PX4W-es HOMCOM Alfombra Puzle 2.41㎡ Niños 26 Letras Goma Espuma...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

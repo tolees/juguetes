@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRLPCNX-es Tnfeeon Juego de Entrenamiento de Memoria Juego de Memoria...'
-tags: tole.es, rompecabezas
+tags: [ tole.es, rompecabezas ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

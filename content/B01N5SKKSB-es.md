@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5SKKSB-es Educa Borrás- Personajes fántasticos Puzzle 17099'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

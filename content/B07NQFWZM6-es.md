@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQFWZM6-es Jurassic World Toys Dino Rivals Indominus Rex dinosaurio...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

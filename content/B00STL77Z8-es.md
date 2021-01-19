@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00STL77Z8-es Hasbro - Cocodrilo sacamuelas Juego de Habilidad B04081750...'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

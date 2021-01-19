@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CA1LGPU-es WeeRide 86459 Bicicleta Remolque Copilot Unisex Rosa M'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 86.11 EUR
 currency: EUR
 price: 86.11

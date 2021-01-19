@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N27SI9K-es Pinypon Mascotas y figuras pack grande Famosa 700013370'
-tags: tole.es, famosa, pinypon
+tags: [ tole.es, famosa, pinypon ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

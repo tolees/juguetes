@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWMBLR-es LEGO Ninjago - Spinjitzu Kai peonza roja divertida de...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

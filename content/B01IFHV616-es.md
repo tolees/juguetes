@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IFHV616-es Star Wars - Juego de Habilidad Operación Hasbro'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

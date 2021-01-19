@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C3PSD8K-es Tiny Love Sunny Stroll Arco de Actividades con Juguetes...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ERK5Q3A-es Hot Wheels Shifters Vehículos de colección Color Shifter...'
-tags: tole.es, juguetes, mattel
+tags: [ tole.es, juguetes, mattel ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

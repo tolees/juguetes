@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ9YL97-es Barbie National Geographic Quiero Ser Fotógrafa muñeca con...'
-tags: tole.es, barbie, mattel
+tags: [ tole.es, barbie, mattel ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

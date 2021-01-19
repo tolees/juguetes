@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWJ11J-es LEGO DUPLO My first - Mi Primer Camión Grúa Juguete de...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

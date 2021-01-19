@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7TKRKB-es LEGO Friends - Heladería Móvil Set de Construcción de...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

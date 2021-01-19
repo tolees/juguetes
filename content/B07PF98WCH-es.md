@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PF98WCH-es Symiu Juego baño DIY Juego Pista de Agua de Circuito...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

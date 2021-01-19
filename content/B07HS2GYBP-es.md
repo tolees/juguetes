@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS2GYBP-es Plastimyr Peppa Pig - Orinal unisex color gris claro'
-tags: tole.es, peppa, pig
+tags: [ tole.es, peppa, pig ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

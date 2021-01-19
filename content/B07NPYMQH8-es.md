@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPYMQH8-es Robot Train Kay Radio Control Transformable BIZAK 62000178'
-tags: tole.es, bizak
+tags: [ tole.es, bizak ]
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

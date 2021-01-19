@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQB3KZX-es Barbie Crea sus ondas Muñeca rubia con accesorios para...'
-tags: tole.es, barbie, mattel
+tags: [ tole.es, barbie, mattel ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

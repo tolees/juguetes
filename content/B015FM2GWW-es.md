@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015FM2GWW-es LEGO - Pack de 3 bolígrafos de gel 51513'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

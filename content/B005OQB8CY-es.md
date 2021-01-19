@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OQB8CY-es Educa- Provincias España Puzzle infantil de 150 piezas a...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

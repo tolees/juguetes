@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPUNWEE-es TY- Peluche juguete Color negro/blanco 15 cm United Labels...'
-tags: tole.es, peluche
+tags: [ tole.es, peluche ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

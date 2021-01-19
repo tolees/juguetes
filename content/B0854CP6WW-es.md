@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854CP6WW-es BBLIKE Juguetes para el Baño 2 Piezas Red de Baño...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 12.63 EUR
 currency: EUR
 price: 12.63

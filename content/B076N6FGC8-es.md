@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076N6FGC8-es Jurassic World Dinosaurio de juguete Indoraptor luces y...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

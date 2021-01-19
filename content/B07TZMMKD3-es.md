@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZMMKD3-es URCERI Llave dinamométrica 1/4" 5-25Nm Llave de torque de...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

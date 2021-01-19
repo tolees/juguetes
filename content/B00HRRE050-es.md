@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRE050-es SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y...'
-tags: tole.es, sylvanian, families
+tags: [ tole.es, sylvanian, families ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

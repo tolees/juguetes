@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019XMRQPM-es Fajiabao Puzzles de Madera Magnético Dibujo Placa...'
-tags: tole.es, rompecabezas
+tags: [ tole.es, rompecabezas ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

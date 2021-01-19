@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLN9PXT-es My Little Pony - Equestria Minis Caravana Sushi Hasbro...'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

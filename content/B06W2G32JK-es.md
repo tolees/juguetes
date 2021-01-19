@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W2G32JK-es Pinypon Pack 2 mascotas mariposa y oveja. Famosa 700012732'
-tags: tole.es, famosa, pinypon
+tags: [ tole.es, famosa, pinypon ]
 actualPrice: 0.74 EUR
 currency: EUR
 price: 0.74

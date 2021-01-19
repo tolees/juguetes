@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I2D0AIE-es Mousehouse Gifts Adorable muñecas de Trapo Hada de Peluche...'
-tags: tole.es, peluche
+tags: [ tole.es, peluche ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

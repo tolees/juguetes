@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822MW9YJ-es AFASOES 2 Pcs Valvula Tubeless MTB 40mm Valvula Bicicleta...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

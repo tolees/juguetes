@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWRQK4H-es Puzzles Rompecabezas Magnéticos de Madera Juguetes...'
-tags: tole.es, juguetes, rompecabezas
+tags: [ tole.es, juguetes, rompecabezas ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

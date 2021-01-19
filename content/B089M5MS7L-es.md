@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089M5MS7L-es Juguetes Montessori Bebes Educativos de Madera Laberinto...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

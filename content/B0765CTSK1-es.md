@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765CTSK1-es LEGO Ninjago - Portador De Tormentas Dragón de Juguete...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

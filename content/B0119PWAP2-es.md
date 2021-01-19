@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0119PWAP2-es Posavasos de Puzzle 6 piezas 3 marrón 3 beige lavable OSS...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

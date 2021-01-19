@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PX4F8H-es Clementoni-39421 Puzzle 1000 Piezas Dutch Dreamworld 39421.0'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

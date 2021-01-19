@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZUHC9K2-es King- 2 Puzzles Frozen 50 pcs Rompecabezas Multicolor 05315'
-tags: tole.es, rompecabezas
+tags: [ tole.es, rompecabezas ]
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

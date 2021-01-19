@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6BR0HE-es Hasbro - Mph Silly Suitcase Ast Hasbro 36404EU7'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 25.16 EUR
 currency: EUR
 price: 25.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWD34S-es LEGO Creator - Transporte de la Lanzadera Juguete de...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

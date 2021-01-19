@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL8DHYC-es Promise Babe 3pc Colgante Mordedor de Silicona Juguetes...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B7MIROG-es Educa Borras - Serie Marvel Puzzle 500 piezas Héroes...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

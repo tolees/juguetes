@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLHTXLC-es Cartamundi Frozen - Juego de Cartas 2 Pares'
-tags: tole.es, juego, de, cartas
+tags: [ tole.es, juego, de, cartas ]
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WD3S5XM-es LEGO Ninjago - Jet del Rayo Juguete de Construcción Ninja...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

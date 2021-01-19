@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDCPX4P-es Nancy - Princesa De Las Hadas Famosa 700014266'
-tags: tole.es, famosa, nancy
+tags: [ tole.es, famosa, nancy ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009IR0OZM-es Puzzle Mates 17691 - Tapete para enrollar puzzles hasta...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H1LLSGZ-es Panamar Juguetes de baño Luz de Agua en Aerosol Girar con...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 5.78 EUR
 currency: EUR
 price: 5.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4LYD3J-es X-TIGER Hombres de Bicicleta Maillots con 5D Gel Acolchado...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

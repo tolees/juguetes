@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S6ZM6Y-es Juguete de Aparcamiento de Jaques de Londres con...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

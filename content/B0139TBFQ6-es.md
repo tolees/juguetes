@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0139TBFQ6-es Kids Premium Baby Bath Toy Organizer - Niños grandes Toy...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

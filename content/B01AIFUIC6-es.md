@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIFUIC6-es Pinypon - Figura Enanito con Gorro Verde Famosa 700012733A'
-tags: tole.es, famosa, pinypon
+tags: [ tole.es, famosa, pinypon ]
 actualPrice: 2.12 EUR
 currency: EUR
 price: 2.12

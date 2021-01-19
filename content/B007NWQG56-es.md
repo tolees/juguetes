@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007NWQG56-es Lego Star Wars Darth Vader Head Lamp [With Battery]'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

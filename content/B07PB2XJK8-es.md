@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB2XJK8-es Toyvian Juego de niños con férula de Agua 2pcs Juguetes...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

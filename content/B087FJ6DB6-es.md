@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087FJ6DB6-es EKKONG Pistolas de Agua para Niños Adultos 900ML Soaker...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

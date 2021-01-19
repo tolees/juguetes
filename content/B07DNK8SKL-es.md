@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNK8SKL-es Ty – Peluche ty36253'
-tags: tole.es, peluche
+tags: [ tole.es, peluche ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

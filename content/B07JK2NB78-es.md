@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK2NB78-es Hot Wheels - Monster Trucks Monster Mover Camión...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

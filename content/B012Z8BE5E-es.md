@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012Z8BE5E-es Chicos-Bingo Lotería automática con 48 cartones y 90 bolas...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

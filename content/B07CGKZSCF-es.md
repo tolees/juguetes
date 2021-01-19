@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGKZSCF-es Hot Wheels - Track Builder pack de accesorios para pistas...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

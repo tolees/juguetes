@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJ3G4MS-es Dilwe Memory Chess Toys Juego de Emparejamiento de Madera...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

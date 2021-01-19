@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRB8GRG-es Soporte para Bicicleta Soporte de extensión de vástago de...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

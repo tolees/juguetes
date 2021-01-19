@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK6BWCB-es Muñeco Dinosaurio Peluche Pequeño Juguetes de Dinosaurios...'
-tags: tole.es, juguetes, peluche
+tags: [ tole.es, juguetes, peluche ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

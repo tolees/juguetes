@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NUYXCFI-es Lego Batman 3: Mas Allá De Gotham Estándar'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

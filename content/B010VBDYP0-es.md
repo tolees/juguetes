@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010VBDYP0-es Clementoni- Romantic Promenade In Puzzle 500 pzas...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

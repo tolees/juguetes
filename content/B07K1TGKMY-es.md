@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1TGKMY-es Natural Seagrass Mimbre Cesta de Cesteria Cestos para la...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

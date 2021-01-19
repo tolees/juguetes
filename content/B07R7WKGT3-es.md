@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7WKGT3-es Hasbro Star Wars Retro Game-Escape de la Estrella de la...'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

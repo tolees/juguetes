@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HK79BZG-es baby tete Bebé 5pcs Silicona Dentición Conjunto Elk...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

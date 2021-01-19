@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GWF9YP-es LEGO City Police - Montaña: Arresto Set de Construcción de...'
-tags: tole.es, lego
+tags: [ tole.es, lego ]
 actualPrice: 37.53 EUR
 currency: EUR
 price: 37.53

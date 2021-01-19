@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089CPWQ5B-es INBIKE Ropa Ciclismo Hombre Verano Trajes de Ciclismo...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

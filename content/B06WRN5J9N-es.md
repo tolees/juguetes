@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRN5J9N-es Beyblade - Estadio Basico Hasbro C0704EU4'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

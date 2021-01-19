@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GFGR0S2-es Lixada Cubrezapatos Térmico Impermeable A Prueba de Viento...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH5BQZ6-es Transformers- Cyberverse Spark Armor Megatron Multicolor...'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

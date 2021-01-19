@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TJPJQC-es Divgdovg Bicicleta Estática para El Hogar Bicicleta de...'
-tags: tole.es, bicicleta
+tags: [ tole.es, bicicleta ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

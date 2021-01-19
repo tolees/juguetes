@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJTRZXZ-es PITAYA Juguetes de Halloween Suministros para Juguetes de...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 5.36 EUR
 currency: EUR
 price: 5.36

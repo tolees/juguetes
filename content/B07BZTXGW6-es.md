@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZTXGW6-es Batería de litio CR2032 3V botón electrónico de la célula...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

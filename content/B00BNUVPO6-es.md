@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BNUVPO6-es Boon Cuchara Dispensadora de Silicona Naranja BIZAK 30690124'
-tags: tole.es, bizak
+tags: [ tole.es, bizak ]
 actualPrice: 9.93 EUR
 currency: EUR
 price: 9.93

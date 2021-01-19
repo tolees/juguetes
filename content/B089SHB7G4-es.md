@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SHB7G4-es Maquillaje Niñas Juguetes Niños con Contraseña Correa...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

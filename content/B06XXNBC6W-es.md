@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXNBC6W-es Shimmer and Shine Muñeca Shimmer Sirena mágica juguete +3...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP5G9KQ-es Star Wars 8 Sable electrónico Kylo REN Multicolor Hasbro...'
-tags: tole.es, hasbro
+tags: [ tole.es, hasbro ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

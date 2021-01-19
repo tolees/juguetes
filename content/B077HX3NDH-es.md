@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HX3NDH-es Fisher Price Andador Bolitas Saltarinas Correpasillos Bebé...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

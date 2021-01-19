@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLXJ9F-es YIMINYUER Stomping Ground Toys - 20 Alfombras Puzzle EVA...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

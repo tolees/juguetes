@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K9Y1GM-es Barbie Fashionista Muñeca cuerpo Curvy look Future is...'
-tags: tole.es, barbie, mattel
+tags: [ tole.es, barbie, mattel ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JFC4PK-es Educa - Dinosaurios Puzzle infantil de 100 piezas a partir...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

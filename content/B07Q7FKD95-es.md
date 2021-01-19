@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7FKD95-es Bammax Alfombra Puzzle Bebe Alfombra Gateo Bebe en Espuma...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 45.59 EUR
 currency: EUR
 price: 45.59

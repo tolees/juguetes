@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT3XL8K-es Muñeco Peluche Unicornio con Manta Bebé Estrellas...'
-tags: tole.es, peluche
+tags: [ tole.es, peluche ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

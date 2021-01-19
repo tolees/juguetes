@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HDNWQN-es Winterwölfe. Puzzle 1000 Teile'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

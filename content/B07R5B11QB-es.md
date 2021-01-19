@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5B11QB-es REAL MADRID- Nanostad Puzzle 3D Estadio Santiago Bernabéu...'
-tags: tole.es, puzzle
+tags: [ tole.es, puzzle ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

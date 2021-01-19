@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3QZNFK-es Mopoin 24 Pcs Mini Juegos Rompecabezas Set Juego De...'
-tags: tole.es, rompecabezas
+tags: [ tole.es, rompecabezas ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

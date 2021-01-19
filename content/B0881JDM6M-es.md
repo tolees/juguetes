@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881JDM6M-es QY Toys MS Cubo Magico 3x3 3x3x3 Original Puzzle Cubo de...'
-tags: tole.es, juguetes, puzzle
+tags: [ tole.es, juguetes, puzzle ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

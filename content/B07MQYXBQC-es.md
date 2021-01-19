@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQYXBQC-es Dc Batman Missions Figura de Acción Batman con Armadura y...'
-tags: tole.es, mattel
+tags: [ tole.es, mattel ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

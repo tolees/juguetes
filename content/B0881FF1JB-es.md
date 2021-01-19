@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881FF1JB-es Zaloife Pistolas de Agua Super Pistola Water Gun para...'
-tags: tole.es, juguetes
+tags: [ tole.es, juguetes ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

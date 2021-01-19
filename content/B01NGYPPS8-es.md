@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NGYPPS8-es Barbie Chelsea muñeca vamos de Picnic acceosorios muñeca...'
-tags: tole.es, barbie, mattel
+tags: [ tole.es, barbie, mattel ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49
