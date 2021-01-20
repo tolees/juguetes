@@ -26,8 +26,8 @@ Tienes [Nintendo - Funda Plegable  Nintendo Switch Lite ](https://www.amazon.es/
 
 ℹ️:
 
-- Funda plegable y protector de pantalla
 - Es resistente
+- Funda plegable y protector de pantalla
 - Es para Nintendo Switch Lite
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZRL65YK/?tag=tolees-21)
