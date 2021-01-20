@@ -1,33 +1,34 @@
 ---
 layout: post
-title: 'The Surge 2  Xbox One  al 53.41 % de descuento'
-date: 2021-01-13 08:26:09
+title: 'The Surge 2  Xbox One  al 66.74 % de descuento'
+date: 2021-01-20 18:12:52
 image: 'https://m.media-amazon.com/images/I/51Fa-nMpI2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWC1SD7-es'
-actualPrice: 27.95 EUR
+slug: 'B07RWC1SD7-es The Surge 2 Xbox One'
+tags: [ 'xbox', ]
+actualPrice: 19.95 EUR
 currency: EUR
-price: 27.95
+price: 19.95
 comparePrice: 59.99 EUR
 prodname: 'The Surge 2  Xbox One '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21'
-descuento: '53.41'
-average: '29.137999999999998'
+descuento: '66.74'
+average: '26.512857142857143'
 ---
 
-Ahora mismo tienes [The Surge 2  Xbox One ](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21) a 27.95 EUR (original: 59.99 EUR) (53.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [The Surge 2  Xbox One ](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21) a 19.95 EUR (original: 59.99 EUR) (66.74 %  de descuento) en el siguiente enlace!
 
 [![The Surge 2  Xbox One ](https://m.media-amazon.com/images/I/51Fa-nMpI2L._SL200_.jpg)](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21)
 
 🔎:
 
-- Cercena las partes del enemigo que quieras saquear
-- Brutales combates cuerpo a cuerpo
 - Excelente evolución y personalización del personaje
+- Brutales combates cuerpo a cuerpo
+- Cercena las partes del enemigo que quieras saquear
 - Enfréntate a rivales y jefes mortíferos
 
-[Visítala!!!](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21)
