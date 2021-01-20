@@ -28,8 +28,8 @@ Tienes [Warhammer 40 000 Inquisitor Martyr Versión Española PlayStation 4 - Ed
 
 - Un inmenso universo que explorar y varios planetas donde investigar, en modo individual o con 4 miembros de equipo
 - 3 clases diferentes de personajes, cada cual con un completo sistema de personalización de estilo de juego
-- Combates brutales y tácticos a lo largo de una trama influida por la comunidad de jugadores
 - Un juego no lineal de mundo abierto en un universo persistente, que ofrece una amplia variedad de misiones
+- Combates brutales y tácticos a lo largo de una trama influida por la comunidad de jugadores
 - El primer juego de acción de rol en primera persona ambientado en el super popular universo de Warhammer 40,000 y desarrollado por Neocore, un estudio con un exitoso historial en el género
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0799CNDYZ/?tag=tolees-21)
