@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMNKDYJ-es L.O.L. Surprise 22050 - Reloj Digital con Correa en...'
+sku: 'B07MMNKDYJ-es'
 tags: [ 'l.o.l.', ]
 actualPrice: 12.95 EUR
 currency: EUR

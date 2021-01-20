@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0844ZQV6D-es SuperZings Serie 5 – Fire Strike Mission 5 y Pack Sorpresa...'
+sku: 'B0844ZQV6D-es'
 tags: [ 'juguetes','superzings', ]
 actualPrice: 38.99 EUR
 currency: EUR

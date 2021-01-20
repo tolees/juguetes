@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RL84CC-es CubicFun Puzzle 3D Harry Potter Torre de la Astronomía de...'
+sku: 'B086RL84CC-es'
 tags: [ 'puzzle', ]
 actualPrice: 29.74 EUR
 currency: EUR

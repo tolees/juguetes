@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKNCOLO-es Geomag- Classic Glitter Construcciones magnéticas y Juegos...'
+sku: 'B00BKNCOLO-es'
 tags: [ 'geomag-', ]
 actualPrice: 20.99 EUR
 currency: EUR

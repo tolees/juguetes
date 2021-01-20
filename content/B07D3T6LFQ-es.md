@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3T6LFQ-es Kingnew Peluche Suave kauspielzeug Durable Squeak Perro...'
+sku: 'B07D3T6LFQ-es'
 tags: [ 'peluche', ]
 actualPrice: 1.38 EUR
 currency: EUR

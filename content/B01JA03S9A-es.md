@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JA03S9A-es Bizak- Figuras Tomy 30699202'
+sku: 'B01JA03S9A-es'
 tags: [ 'tomy', ]
 actualPrice: 32.99 EUR
 currency: EUR

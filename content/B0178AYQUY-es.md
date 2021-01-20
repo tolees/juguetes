@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0178AYQUY-es ION fitness AXEL FI022 bicicleta estática plegable con...'
+sku: 'B0178AYQUY-es'
 tags: [ 'bicicleta', ]
 actualPrice: 179.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNW2TJ6-es LEGO Friends - Clínica Veterinaria Móvil de Emma juguete...'
+sku: 'B07FNW2TJ6-es'
 tags: [ 'lego', ]
 actualPrice: 7.49 EUR
 currency: EUR

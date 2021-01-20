@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D0VWP8A-es Peppa Pig 06059 vehículo'
+sku: 'B01D0VWP8A-es'
 tags: [ 'peppa','pig', ]
 actualPrice: 18.18 EUR
 currency: EUR

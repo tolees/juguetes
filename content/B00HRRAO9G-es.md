@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRAO9G-es SYLVANIAN FAMILIES Familia Perros Chihuahua Epoch para...'
+sku: 'B00HRRAO9G-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 12.2 EUR
 currency: EUR

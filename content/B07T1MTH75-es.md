@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1MTH75-es AUNMAS Rompecabezas de Madera Modelo 3D Calendario...'
+sku: 'B07T1MTH75-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 17.39 EUR
 currency: EUR

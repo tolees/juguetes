@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2K51FN-es Ravensburger - Memory Dragons 3 21444'
+sku: 'B07K2K51FN-es'
 tags: [ 'ravensburger', ]
 actualPrice: 10.0 EUR
 currency: EUR

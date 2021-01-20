@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0795KX6CZ-es HCMAX Coche Asiento Trasero El Maletero Organizador Bolsa...'
+sku: 'B0795KX6CZ-es'
 tags: [ 'juguetes', ]
 actualPrice: 20.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1ZNHRN-es Educa Dragon Ball Puzzle Infantil de 200 Piezas a Partir...'
+sku: 'B07N1ZNHRN-es'
 tags: [ 'puzzle', ]
 actualPrice: 7.22 EUR
 currency: EUR

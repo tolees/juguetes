@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089F2PXQG-es SYOSIN Soporte Movil Bicicleta Soporte Universal Manillar...'
+sku: 'B089F2PXQG-es'
 tags: [ 'bicicleta', ]
 actualPrice: 10.59 EUR
 currency: EUR

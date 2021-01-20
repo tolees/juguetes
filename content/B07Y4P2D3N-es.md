@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4P2D3N-es Baomay Botella de Agua Frio : Termo de Acero Inoxidable -...'
+sku: 'B07Y4P2D3N-es'
 tags: [ 'bicicleta', ]
 actualPrice: 12.59 EUR
 currency: EUR

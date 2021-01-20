@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N37ZGVE-es Educa - Puzzles Progresivos puzzle infantil De Mayor...'
+sku: 'B01N37ZGVE-es'
 tags: [ 'puzzle', ]
 actualPrice: 6.99 EUR
 currency: EUR

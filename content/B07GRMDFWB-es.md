@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRMDFWB-es Puzzle Super Mario Odyssey Fossil Falls 500 Teile'
+sku: 'B07GRMDFWB-es'
 tags: [ 'puzzle', ]
 actualPrice: 13.68 EUR
 currency: EUR

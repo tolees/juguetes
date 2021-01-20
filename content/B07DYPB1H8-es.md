@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYPB1H8-es Pedales Bicicleta Pedals Impermeable 9/16 Pulgadas con...'
+sku: 'B07DYPB1H8-es'
 tags: [ 'bicicleta', ]
 actualPrice: 13.99 EUR
 currency: EUR

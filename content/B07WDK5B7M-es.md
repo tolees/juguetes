@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDK5B7M-es ANGELBLISS mordedor bebes refrigerante mordedores bebes...'
+sku: 'B07WDK5B7M-es'
 tags: [ 'juguetes', ]
 actualPrice: 13.99 EUR
 currency: EUR

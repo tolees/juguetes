@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016A3MUC6-es PATRULLA CANINA PAW PATROL - PELUCHE PERSONAJE RUBBLE...'
+sku: 'B016A3MUC6-es'
 tags: [ 'peluche', ]
 actualPrice: 11.99 EUR
 currency: EUR

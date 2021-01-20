@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDWH679-es Pokemon Pack de 3 Figuras de Combate Modelos Surtidos...'
+sku: 'B07DDWH679-es'
 tags: [ 'bizak', ]
 actualPrice: 14.54 EUR
 currency: EUR

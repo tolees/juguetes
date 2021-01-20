@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJZBK76-es Disney Princess - Disney Princess Brillo Real Ariel Hasbro...'
+sku: 'B07FJZBK76-es'
 tags: [ 'hasbro', ]
 actualPrice: 9.79 EUR
 currency: EUR

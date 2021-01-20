@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2TFLPX-es SkullCap® Casco Bicicleta montaña Hombre y Mujer MTB...'
+sku: 'B07C2TFLPX-es'
 tags: [ 'bicicleta', ]
 actualPrice: 49.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824GWJ4D-es YGJT Casco Bicicleta Niños Protección de Cabeza de...'
+sku: 'B0824GWJ4D-es'
 tags: [ 'bicicleta', ]
 actualPrice: 24.99 EUR
 currency: EUR

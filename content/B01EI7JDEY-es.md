@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EI7JDEY-es Clementoni - Jugando aprendo descubre España 55119.4'
+sku: 'B01EI7JDEY-es'
 tags: [ 'clementoni', ]
 actualPrice: 9.99 EUR
 currency: EUR

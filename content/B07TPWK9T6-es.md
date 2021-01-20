@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPWK9T6-es Gormiti Serie2 Figuras de 25 cm con luz y Sonidos 2...'
+sku: 'B07TPWK9T6-es'
 tags: [ 'famosa', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DXNDTW-es WISHTIME Sonajeros de Bebe Juguetes de Mordedor Infante...'
+sku: 'B082DXNDTW-es'
 tags: [ 'juguetes', ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1J1M7P-es Viccess 24 Piezas Juguetes de Rompecabezas de Serpiente...'
+sku: 'B07T1J1M7P-es'
 tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 14.88 EUR
 currency: EUR

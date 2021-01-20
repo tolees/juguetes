@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PSC25L-es Enchantimals Muñeca con mascota Winsley Wolf Mattel FRH40...'
+sku: 'B077PSC25L-es'
 tags: [ 'mattel', ]
 actualPrice: 6.63 EUR
 currency: EUR

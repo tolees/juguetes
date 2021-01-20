@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVMBN1N-es HoneyHolly Botella de Agua Acero Inoxidable...'
+sku: 'B07BVMBN1N-es'
 tags: [ 'bicicleta', ]
 actualPrice: 15.97 EUR
 currency: EUR

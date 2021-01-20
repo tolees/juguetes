@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZCNB25-es Reloj modificable infantil con figurita de BB-8 de LEGO...'
+sku: 'B06ZZCNB25-es'
 tags: [ 'lego', ]
 actualPrice: 15.51 EUR
 currency: EUR

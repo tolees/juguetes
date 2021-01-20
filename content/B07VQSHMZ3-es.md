@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQSHMZ3-es ENKEEO Ciclocomputadores Inalámbrica Recargable USB con...'
+sku: 'B07VQSHMZ3-es'
 tags: [ 'bicicleta', ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003SJZ6BS-es NOBLE COLLECTION - Peluche El Señor de los Anillos'
+sku: 'B003SJZ6BS-es'
 tags: [ 'peluche', ]
 actualPrice: 20.95 EUR
 currency: EUR

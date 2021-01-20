@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS9YSJ-es LEGO DUPLO My First - Mis Primeros Animales Equilibristas...'
+sku: 'B07FNS9YSJ-es'
 tags: [ 'lego', ]
 actualPrice: 11.99 EUR
 currency: EUR

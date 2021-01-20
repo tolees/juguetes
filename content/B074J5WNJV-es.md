@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074J5WNJV-es BelleStyle Bolsa de Almacenamiento de Juguetes para niños...'
+sku: 'B074J5WNJV-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBWZ6WN-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica...'
+sku: 'B07KBWZ6WN-es'
 tags: [ 'bicicleta', ]
 actualPrice: 16.59 EUR
 currency: EUR

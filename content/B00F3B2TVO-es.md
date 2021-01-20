@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F3B2TVO-es LEGO DUPLO - My First Caja de Diversión Juguete de...'
+sku: 'B00F3B2TVO-es'
 tags: [ 'lego', ]
 actualPrice: 11.73 EUR
 currency: EUR

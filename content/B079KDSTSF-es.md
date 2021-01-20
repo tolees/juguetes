@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KDSTSF-es Polly Pocket Cofre Castillo de Arena muñeca con accesorios...'
+sku: 'B079KDSTSF-es'
 tags: [ 'mattel','polly','pocket', ]
 actualPrice: 9.99 EUR
 currency: EUR

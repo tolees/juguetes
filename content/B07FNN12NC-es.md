@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNN12NC-es LEGO Friends - Aventura en el Bosque de Mia juguete...'
+sku: 'B07FNN12NC-es'
 tags: [ 'lego', ]
 actualPrice: 6.82 EUR
 currency: EUR

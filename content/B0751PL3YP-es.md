@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751PL3YP-es Opas Schuppen. Puzzle 1000 Teile'
+sku: 'B0751PL3YP-es'
 tags: [ 'puzzle', ]
 actualPrice: 9.95 EUR
 currency: EUR

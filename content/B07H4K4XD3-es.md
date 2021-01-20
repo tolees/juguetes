@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4K4XD3-es CubicFun Puzzle 3D Plaza de San Marcos con National...'
+sku: 'B07H4K4XD3-es'
 tags: [ 'puzzle', ]
 actualPrice: 19.99 EUR
 currency: EUR

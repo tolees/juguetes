@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBTJPYX-es Kriogor Soporte Movil Bicicleta Soporte Universal Manillar...'
+sku: 'B07SBTJPYX-es'
 tags: [ 'bicicleta', ]
 actualPrice: 11.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJ8NJVF-es lenbest 118 Piezas Puzzles de Madera Magnético Magnética...'
+sku: 'B07WJ8NJVF-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 11.99 EUR
 currency: EUR

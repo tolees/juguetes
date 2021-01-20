@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLPVJK5-es Tablero de dibujo para niños Caballete de madera de doble...'
+sku: 'B08BLPVJK5-es'
 tags: [ 'juguetes', ]
 actualPrice: 66.99 EUR
 currency: EUR

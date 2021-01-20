@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVPPR7P-es feihao Cepillo De Dientes para Perros Cepillos de Dientes...'
+sku: 'B08CVPPR7P-es'
 tags: [ 'juguetes', ]
 actualPrice: 8.99 EUR
 currency: EUR

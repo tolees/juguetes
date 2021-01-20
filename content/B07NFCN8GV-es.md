@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFCN8GV-es The Bellies - Ropita divertida disfraz reversible Angelito...'
+sku: 'B07NFCN8GV-es'
 tags: [ 'famosa','the','bellies', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLSCJ9-es YIMINYUER Esterilla Puzzle de Fitness 30x30x1cm Suelo de...'
+sku: 'B085BLSCJ9-es'
 tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR

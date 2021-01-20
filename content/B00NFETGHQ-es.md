@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NFETGHQ-es Fisher-Price Gimnasio crece conmigo manta de juego para...'
+sku: 'B00NFETGHQ-es'
 tags: [ 'fisher-price','mattel', ]
 actualPrice: 45.67 EUR
 currency: EUR

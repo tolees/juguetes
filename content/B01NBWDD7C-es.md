@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBWDD7C-es Clementoni - Puzzle 13.200 piezas orquesta disney 38010...'
+sku: 'B01NBWDD7C-es'
 tags: [ 'clementoni','puzzle', ]
 actualPrice: 52.79 EUR
 currency: EUR

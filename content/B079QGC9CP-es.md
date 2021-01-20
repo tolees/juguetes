@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QGC9CP-es Mattel- Barbie y Sus Accesorios FVJ42'
+sku: 'B079QGC9CP-es'
 tags: [ 'barbie','mattel-', ]
 actualPrice: 11.95 EUR
 currency: EUR

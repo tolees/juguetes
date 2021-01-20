@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XK74BJD-es Longruner Abalorios Cuentas de Hierro fusibles 12000 PCS...'
+sku: 'B07XK74BJD-es'
 tags: [ 'juguetes', ]
 actualPrice: 19.74 EUR
 currency: EUR

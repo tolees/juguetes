@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HN8K34L-es FancyWhoop Cubos de Cambio de Cara de Juguete Montessori...'
+sku: 'B08HN8K34L-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 13.99 EUR
 currency: EUR

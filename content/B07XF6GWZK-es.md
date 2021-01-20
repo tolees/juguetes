@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF6GWZK-es Symiu Puzzle Madera Juego Ajedrez Cartas de Memoria...'
+sku: 'B07XF6GWZK-es'
 tags: [ 'juguetes','puzzle', ]
 actualPrice: 16.99 EUR
 currency: EUR

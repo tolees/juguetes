@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F94FQRB-es Peak Design Anchor Links Conectores Correa AL-4 - Anclaje...'
+sku: 'B07F94FQRB-es'
 tags: [ 'bicicleta', ]
 actualPrice: 15.96 EUR
 currency: EUR

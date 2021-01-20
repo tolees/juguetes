@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8BG8C-es LEGO Movie Pijamas de Manga Corta para niños Multicolor...'
+sku: 'B07TJ8BG8C-es'
 tags: [ 'lego', ]
 actualPrice: 11.95 EUR
 currency: EUR

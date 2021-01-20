@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV29XRR-es Avengers - Hacha Electrónica Thor Hasbro E0617EU6'
+sku: 'B07MV29XRR-es'
 tags: [ 'hasbro', ]
 actualPrice: 21.66 EUR
 currency: EUR

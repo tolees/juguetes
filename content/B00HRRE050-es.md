@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRE050-es SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y...'
+sku: 'B00HRRE050-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 12.17 EUR
 currency: EUR

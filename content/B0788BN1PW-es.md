@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BN1PW-es Auto Companion - Soporte de techo en aluminio para moto o...'
+sku: 'B0788BN1PW-es'
 tags: [ 'bicicleta', ]
 actualPrice: 10.31 EUR
 currency: EUR

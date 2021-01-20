@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPSNQW1-es Playgro Set de Regalo para jugar de Jerry la Jirafa...'
+sku: 'B07WPSNQW1-es'
 tags: [ 'juguetes', ]
 actualPrice: 13.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBSN55Z-es Famosa- Pinypon Muñeca coleccionable Emoji Multicolor...'
+sku: 'B07NBSN55Z-es'
 tags: [ 'pinypon', ]
 actualPrice: 3.15 EUR
 currency: EUR

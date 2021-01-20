@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ4MK9G-es TOPINCN Bike Rest Handlebar Bicicleta de aleación Estable...'
+sku: 'B07FZ4MK9G-es'
 tags: [ 'bicicleta', ]
 actualPrice: 19.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QQPBJB-es Rolimate Rompecabezas de Madera para niños Rompecabezas de...'
+sku: 'B086QQPBJB-es'
 tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 16.99 EUR
 currency: EUR

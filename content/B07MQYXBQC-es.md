@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQYXBQC-es Dc Batman Missions Figura de Acción Batman con Armadura y...'
+sku: 'B07MQYXBQC-es'
 tags: [ 'mattel', ]
 actualPrice: 15.0 EUR
 currency: EUR

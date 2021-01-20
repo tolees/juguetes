@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H57RZP8-es X-TIGER Hombres de Bicicleta Manga Corta Maillots con 5D...'
+sku: 'B07H57RZP8-es'
 tags: [ 'bicicleta', ]
 actualPrice: 37.99 EUR
 currency: EUR

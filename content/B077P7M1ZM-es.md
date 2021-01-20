@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
+sku: 'B077P7M1ZM-es'
 tags: [ 'fisher-price','mattel', ]
 actualPrice: 7.99 EUR
 currency: EUR

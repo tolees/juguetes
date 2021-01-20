@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0063HNAHY-es Michelin Dynamic Sport 700X28 - Cubierta de bicicleta...'
+sku: 'B0063HNAHY-es'
 tags: [ 'bicicleta', ]
 actualPrice: 9.4 EUR
 currency: EUR

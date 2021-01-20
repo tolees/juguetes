@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PF98WCH-es Symiu Juego baño DIY Juego Pista de Agua de Circuito...'
+sku: 'B07PF98WCH-es'
 tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892GNVJK-es EKKONG Flotador Bebé Flotador Inflable para Bebé Anillo de...'
+sku: 'B0892GNVJK-es'
 tags: [ 'flotador', ]
 actualPrice: 15.35 EUR
 currency: EUR

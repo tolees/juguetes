@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S48TRGF-es GLEADING Correa Retráctil para Usar Manos Libres para...'
+sku: 'B07S48TRGF-es'
 tags: [ 'bicicleta', ]
 actualPrice: 15.99 EUR
 currency: EUR

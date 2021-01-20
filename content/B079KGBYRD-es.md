@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KGBYRD-es Polly Pocket Habitación Polly-Transformación casa de...'
+sku: 'B079KGBYRD-es'
 tags: [ 'mattel','polly','pocket', ]
 actualPrice: 20.0 EUR
 currency: EUR

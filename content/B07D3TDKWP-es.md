@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3TDKWP-es Bonitas Animales Forma Cord Durable Mascotas Perro Gato...'
+sku: 'B07D3TDKWP-es'
 tags: [ 'peluche', ]
 actualPrice: 1.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2G2WPB-es TACKLIFE Llaves de vaso Torx Juego Profesional 14 Piezas...'
+sku: 'B07G2G2WPB-es'
 tags: [ 'bicicleta', ]
 actualPrice: 18.99 EUR
 currency: EUR

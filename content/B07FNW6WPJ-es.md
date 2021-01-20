@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNW6WPJ-es LEGO Super Heroes Rescate en Moto de Spider-Man juguete de...'
+sku: 'B07FNW6WPJ-es'
 tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR

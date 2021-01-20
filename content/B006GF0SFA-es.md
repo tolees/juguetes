@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006GF0SFA-es Elite Custom Race - Portabidón de Fibra para Bicicleta...'
+sku: 'B006GF0SFA-es'
 tags: [ 'bicicleta', ]
 actualPrice: 7.75 EUR
 currency: EUR

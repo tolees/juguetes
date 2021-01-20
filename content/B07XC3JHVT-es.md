@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC3JHVT-es Polly Pocket Cofre Jardín de Mariquitas con muñecas y...'
+sku: 'B07XC3JHVT-es'
 tags: [ 'mattel','polly','pocket', ]
 actualPrice: 10.49 EUR
 currency: EUR

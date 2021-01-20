@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLN9PXT-es My Little Pony - Equestria Minis Caravana Sushi Hasbro...'
+sku: 'B06WLN9PXT-es'
 tags: [ 'hasbro', ]
 actualPrice: 20.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BMKS1-es Avengers Martillo - De Combate Thor Hasbro B0445EUC'
+sku: 'B07N1BMKS1-es'
 tags: [ 'hasbro', ]
 actualPrice: 15.05 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFFTKZ7-es SUPRBIRD Juguete de Paracaídas 10 Piezas Juguete...'
+sku: 'B07ZFFTKZ7-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTSHZF-es LEGO Friends - Cafetería Cupcake de Olivia Juguete...'
+sku: 'B07FNTSHZF-es'
 tags: [ 'lego', ]
 actualPrice: 21.6 EUR
 currency: EUR

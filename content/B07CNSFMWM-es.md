@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNSFMWM-es Manta de Bebé de Seguridad Peluche Decorativos de Hogar...'
+sku: 'B07CNSFMWM-es'
 tags: [ 'peluche', ]
 actualPrice: 5.15 EUR
 currency: EUR

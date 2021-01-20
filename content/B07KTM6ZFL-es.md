@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTM6ZFL-es StillCool Nerf Dardos 100 Pezas 7 2cm Espuma Suave Dardos...'
+sku: 'B07KTM6ZFL-es'
 tags: [ 'nerf', ]
 actualPrice: 7.99 EUR
 currency: EUR

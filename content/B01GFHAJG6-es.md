@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GFHAJG6-es TY- Peluche juguete Color gris 23 cm United Labels Ibérica...'
+sku: 'B01GFHAJG6-es'
 tags: [ 'peluche', ]
 actualPrice: 6.75 EUR
 currency: EUR

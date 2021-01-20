@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NMRW9P-es qingqingR Anillo de natación para bebés Anillo de natación...'
+sku: 'B089NMRW9P-es'
 tags: [ 'flotador', ]
 actualPrice: 19.73 EUR
 currency: EUR

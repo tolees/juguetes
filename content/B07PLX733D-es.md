@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLX733D-es B•You Ojos de Seguridad de Plástico Ojos Amigurumi 150...'
+sku: 'B07PLX733D-es'
 tags: [ 'peluche', ]
 actualPrice: 10.99 EUR
 currency: EUR

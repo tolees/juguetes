@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002LIEEG-es Clementoni - Puzzle de 1000 Piezas Louvre diseño Van Dael:...'
+sku: 'B0002LIEEG-es'
 tags: [ 'clementoni','puzzle', ]
 actualPrice: 10.94 EUR
 currency: EUR

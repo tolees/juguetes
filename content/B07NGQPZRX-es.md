@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGQPZRX-es MUNDO PETIT -Chaleco Flotador de Ayuda a la flotabilidad...'
+sku: 'B07NGQPZRX-es'
 tags: [ 'flotador', ]
 actualPrice: 29.99 EUR
 currency: EUR

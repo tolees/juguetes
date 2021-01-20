@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRKR58C-es DANISH ENDURANCE Calcetines de Ciclismo para Hombres y...'
+sku: 'B07ZRKR58C-es'
 tags: [ 'bicicleta', ]
 actualPrice: 14.95 EUR
 currency: EUR

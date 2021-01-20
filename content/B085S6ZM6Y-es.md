@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S6ZM6Y-es Juguete de Aparcamiento de Jaques de Londres con...'
+sku: 'B085S6ZM6Y-es'
 tags: [ 'juguetes', ]
 actualPrice: 7.99 EUR
 currency: EUR

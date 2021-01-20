@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFZH3N2-es Scooter Eléctrico Cerradura del Freno de Disco Cerradura...'
+sku: 'B07VFZH3N2-es'
 tags: [ 'bicicleta', ]
 actualPrice: 10.88 EUR
 currency: EUR

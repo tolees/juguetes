@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSRK3QP-es Wafly Puños Bicicleta Ergonomicos con Máscara 2PCS Puños...'
+sku: 'B07FSRK3QP-es'
 tags: [ 'bicicleta', ]
 actualPrice: 8.99 EUR
 currency: EUR

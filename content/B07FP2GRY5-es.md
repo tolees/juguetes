@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2GRY5-es LEGO Creator - Aventura en Helicóptero juguete de vehículo...'
+sku: 'B07FP2GRY5-es'
 tags: [ 'lego', ]
 actualPrice: 7.99 EUR
 currency: EUR

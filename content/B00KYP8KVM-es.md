@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KYP8KVM-es Feber-800009570 Dareway vehículo 12 V Color Negro Azul...'
+sku: 'B00KYP8KVM-es'
 tags: [ 'famosa', ]
 actualPrice: 129.99 EUR
 currency: EUR

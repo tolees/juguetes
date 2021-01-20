@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WVSSGQ-es YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo...'
+sku: 'B084WVSSGQ-es'
 tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR

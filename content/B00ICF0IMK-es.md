@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ICF0IMK-es Pegasus Spiele Juego de Cartas de 2 a 5 Jugadores'
+sku: 'B00ICF0IMK-es'
 tags: [ 'juego','de','cartas', ]
 actualPrice: 13.41 EUR
 currency: EUR

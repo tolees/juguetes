@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NACZMXJ-es SportPlus SP-ET-9600-iE Bicicleta Elíptica con Aplicación...'
+sku: 'B01NACZMXJ-es'
 tags: [ 'bicicleta', ]
 actualPrice: 449.99 EUR
 currency: EUR

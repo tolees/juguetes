@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF94KZC-es Barbie Dreamhouse Adventures Skipper Hora del Surf muñeca...'
+sku: 'B07XF94KZC-es'
 tags: [ 'barbie','mattel', ]
 actualPrice: 16.99 EUR
 currency: EUR

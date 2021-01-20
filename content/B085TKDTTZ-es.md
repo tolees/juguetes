@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TKDTTZ-es Jaques de Londres Juguemos a los Gatos Locos Apilables -...'
+sku: 'B085TKDTTZ-es'
 tags: [ 'juguetes', ]
 actualPrice: 6.99 EUR
 currency: EUR

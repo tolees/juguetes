@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCZJSP4-es Educa Borras - Genuine Puzzles Puzzle 2.000 piezas...'
+sku: 'B01NCZJSP4-es'
 tags: [ 'puzzle', ]
 actualPrice: 19.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDKZ3H6-es Hasbro Gaming Gaming Novedad Juego Fantastic Gymnastics...'
+sku: 'B06XDKZ3H6-es'
 tags: [ 'hasbro', ]
 actualPrice: 11.0 EUR
 currency: EUR

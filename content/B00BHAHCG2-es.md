@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BHAHCG2-es Educa Borras Puzzle Aprendo El Abecedario Peppa Pig 15652...'
+sku: 'B00BHAHCG2-es'
 tags: [ 'puzzle','peppa','pig', ]
 actualPrice: 6.99 EUR
 currency: EUR

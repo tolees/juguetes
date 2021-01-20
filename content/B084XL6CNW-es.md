@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084XL6CNW-es Ravensburger Super Zings para niños 3+ años 4 Puzzle en...'
+sku: 'B084XL6CNW-es'
 tags: [ 'puzzle','ravensburger', ]
 actualPrice: 8.21 EUR
 currency: EUR

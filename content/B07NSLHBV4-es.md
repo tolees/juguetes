@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSLHBV4-es Clementoni 21604 Clementoni-21604-Supercolor - Puzzle-Der...'
+sku: 'B07NSLHBV4-es'
 tags: [ 'clementoni', ]
 actualPrice: 7.88 EUR
 currency: EUR

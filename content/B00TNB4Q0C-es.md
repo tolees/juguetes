@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TNB4Q0C-es Clementoni Pingüinos De Madagascar Puzzle 2000 Piezas...'
+sku: 'B00TNB4Q0C-es'
 tags: [ 'clementoni','puzzle', ]
 actualPrice: 15.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0006JGFNQ-es Desconocido Gremlins - Gizmo Peluche bailarín 20 cm NECA...'
+sku: 'B0006JGFNQ-es'
 tags: [ 'peluche', ]
 actualPrice: 24.8 EUR
 currency: EUR

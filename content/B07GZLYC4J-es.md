@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZLYC4J-es SmartGyro Xtreme XD Patín eléctrico para niños y jóvenes...'
+sku: 'B07GZLYC4J-es'
 tags: [ 'smartgyro', ]
 actualPrice: 149.4 EUR
 currency: EUR

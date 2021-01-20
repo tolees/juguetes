@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSZ35SL-es jerryvon Dinosaurios Juguetes con Luces y Sonido...'
+sku: 'B07WSZ35SL-es'
 tags: [ 'juguetes', ]
 actualPrice: 20.99 EUR
 currency: EUR

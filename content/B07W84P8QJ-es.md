@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W84P8QJ-es CubicFun Puzzles 3D Londres St.Paul s Cathedral...'
+sku: 'B07W84P8QJ-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 42.49 EUR
 currency: EUR

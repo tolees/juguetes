@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765C2PMB-es LEGO City Ártico - Vehículo de Exploración Juguete de...'
+sku: 'B0765C2PMB-es'
 tags: [ 'lego', ]
 actualPrice: 36.4 EUR
 currency: EUR

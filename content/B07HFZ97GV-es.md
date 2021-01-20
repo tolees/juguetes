@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZ97GV-es Funda para Bicicleta Impermeable Massway Cubierta...'
+sku: 'B07HFZ97GV-es'
 tags: [ 'bicicleta', ]
 actualPrice: 15.99 EUR
 currency: EUR

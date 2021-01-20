@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BJ2VGUA-es Peppa Pig - Puzzle progresivo 12 20 y 25 piezas Educa...'
+sku: 'B01BJ2VGUA-es'
 tags: [ 'puzzle','peppa','pig', ]
 actualPrice: 4.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLX71G-es YIMINYUER es colchoneta Suelo de Camping EVA Puzzle...'
+sku: 'B085BLX71G-es'
 tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR

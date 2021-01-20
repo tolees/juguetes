@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFB21Y9-es Educa Borras - Genuine Puzzles Puzzle 500 piezas Despierta...'
+sku: 'B07HFB21Y9-es'
 tags: [ 'puzzle', ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753MCC6B-es Reloj modificable infantil con figurita de la tropa de...'
+sku: 'B0753MCC6B-es'
 tags: [ 'lego', ]
 actualPrice: 17.99 EUR
 currency: EUR

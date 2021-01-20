@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BKBXQ58-es Hasbro Risk - Juego de Mesa versión en inglés'
+sku: 'B01BKBXQ58-es'
 tags: [ 'hasbro', ]
 actualPrice: 11.84 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGV33XC-es Bolsa de Almacenamiento de Juguetes para niños Alfombra de...'
+sku: 'B07BGV33XC-es'
 tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2GPDSB-es GRAT.UNIC Pantalones Cortos de Bicicleta Shorts de...'
+sku: 'B07T2GPDSB-es'
 tags: [ 'bicicleta', ]
 actualPrice: 17.99 EUR
 currency: EUR

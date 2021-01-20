@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BM3RQN-es YIMINYUER Stomping Ground Toys - 20 Alfombras Puzzle EVA...'
+sku: 'B085BM3RQN-es'
 tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR

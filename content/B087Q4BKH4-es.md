@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087Q4BKH4-es BeebeeRun Juguetes Maquillaje Niñas Juguetes para Chicas...'
+sku: 'B087Q4BKH4-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR

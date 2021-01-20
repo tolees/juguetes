@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAWU228-es El Hombre Araña de Marvel minijuego de memoria de...'
+sku: 'B01NAWU228-es'
 tags: [ 'ravensburger', ]
 actualPrice: 9.26 EUR
 currency: EUR

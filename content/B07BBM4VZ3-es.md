@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBM4VZ3-es himaly Mini Bicicleta Estática con Pantalla LCD para...'
+sku: 'B07BBM4VZ3-es'
 tags: [ 'bicicleta', ]
 actualPrice: 36.99 EUR
 currency: EUR

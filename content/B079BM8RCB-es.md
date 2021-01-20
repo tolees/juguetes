@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079BM8RCB-es TOP BRIGHT Juguete de Carrera de Coches para Niños...'
+sku: 'B079BM8RCB-es'
 tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007FDSPF2-es Twister - Hasbro Gaming Hasbro 98831175'
+sku: 'B007FDSPF2-es'
 tags: [ 'hasbro', ]
 actualPrice: 21.99 EUR
 currency: EUR

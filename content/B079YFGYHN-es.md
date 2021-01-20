@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YFGYHN-es SMARTGYRO Ebike Red - Bicicleta Eléctrica Ruedas de 16"...'
+sku: 'B079YFGYHN-es'
 tags: [ 'bicicleta','smartgyro', ]
 actualPrice: 365.26 EUR
 currency: EUR

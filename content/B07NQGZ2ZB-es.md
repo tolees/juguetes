@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQGZ2ZB-es Creatable World Figura Unisex muñeco articulado pelucas...'
+sku: 'B07NQGZ2ZB-es'
 tags: [ 'mattel', ]
 actualPrice: 29.74 EUR
 currency: EUR

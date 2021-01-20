@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCMCHSM-es T.Y 37132 - Peluche 10.3 cm TY37132 - Peluche Frizzy Azul...'
+sku: 'B00MCMCHSM-es'
 tags: [ 'peluche', ]
 actualPrice: 3.1 EUR
 currency: EUR

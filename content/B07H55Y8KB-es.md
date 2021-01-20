@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H55Y8KB-es Cinturón de Correr Chuangmeida Riñonera Cinturón Running...'
+sku: 'B07H55Y8KB-es'
 tags: [ 'bicicleta', ]
 actualPrice: 12.99 EUR
 currency: EUR

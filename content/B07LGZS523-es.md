@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGZS523-es Tablero de dibujo Juego de pintura para proyector Juego de...'
+sku: 'B07LGZS523-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.59 EUR
 currency: EUR

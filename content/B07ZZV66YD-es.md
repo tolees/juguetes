@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZZV66YD-es Spider-Man- Figura Titan Morales Hasbro E85255X0'
+sku: 'B07ZZV66YD-es'
 tags: [ 'hasbro', ]
 actualPrice: 14.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BKB6ITE-es Blaze y los Monster Machines - Fisher-Price Blaze...'
+sku: 'B01BKB6ITE-es'
 tags: [ 'fisher-price','mattel', ]
 actualPrice: 6.99 EUR
 currency: EUR

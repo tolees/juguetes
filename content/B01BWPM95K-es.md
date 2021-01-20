@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BWPM95K-es Disney Simba 6315874752 Frozen Peluche Muñeco de Nieve...'
+sku: 'B01BWPM95K-es'
 tags: [ 'peluche', ]
 actualPrice: 15.39 EUR
 currency: EUR

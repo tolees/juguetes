@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082K6HTK2-es Soft M Edical Expander Silicone Purple Set 6 Juguetes En...'
+sku: 'B082K6HTK2-es'
 tags: [ 'juguetes', ]
 actualPrice: 19.97 EUR
 currency: EUR

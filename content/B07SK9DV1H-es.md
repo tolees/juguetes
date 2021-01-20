@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK9DV1H-es CubicFun Puzzle 3D UK Colección de Kits de Modelos...'
+sku: 'B07SK9DV1H-es'
 tags: [ 'puzzle', ]
 actualPrice: 8.49 EUR
 currency: EUR

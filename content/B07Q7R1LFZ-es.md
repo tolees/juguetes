@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7R1LFZ-es Avengers Titan Hero FX Capitán América Hasbro E3301105'
+sku: 'B07Q7R1LFZ-es'
 tags: [ 'hasbro', ]
 actualPrice: 24.99 EUR
 currency: EUR

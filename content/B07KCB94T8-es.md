@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCB94T8-es HERSITY Maletín Maquillaje Juguetes de Peluqueria Belleza...'
+sku: 'B07KCB94T8-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.89 EUR
 currency: EUR

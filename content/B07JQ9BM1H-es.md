@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ9BM1H-es Peluche de Gato Almohada para Cojín Asiento de Gato de...'
+sku: 'B07JQ9BM1H-es'
 tags: [ 'peluche', ]
 actualPrice: 6.99 EUR
 currency: EUR

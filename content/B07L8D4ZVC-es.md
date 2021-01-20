@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8D4ZVC-es Dilwe RC Bounce Car RH803 Control Remoto Jumping Car RC...'
+sku: 'B07L8D4ZVC-es'
 tags: [ 'juguetes', ]
 actualPrice: 19.49 EUR
 currency: EUR

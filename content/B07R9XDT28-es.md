@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9XDT28-es Eono by Amazon - Bolsas Compra Reutilizables Ecológicas...'
+sku: 'B07R9XDT28-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.44 EUR
 currency: EUR

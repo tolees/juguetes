@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0839RC3DC-es Pinypon Action - Segway vehículo de policía con 1 Figura...'
+sku: 'B0839RC3DC-es'
 tags: [ 'famosa','pinypon', ]
 actualPrice: 9.99 EUR
 currency: EUR

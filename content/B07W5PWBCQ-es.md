@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PWBCQ-es LEGO DUPLO Town - Cuarto de Juegos Caja con Ladrillos de...'
+sku: 'B07W5PWBCQ-es'
 tags: [ 'lego', ]
 actualPrice: 11.24 EUR
 currency: EUR

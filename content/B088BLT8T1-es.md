@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BLT8T1-es Souke Sports - Pantalones Cortos De Ciclismo para Mujer 4D...'
+sku: 'B088BLT8T1-es'
 tags: [ 'bicicleta', ]
 actualPrice: 27.99 EUR
 currency: EUR

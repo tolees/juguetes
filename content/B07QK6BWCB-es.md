@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK6BWCB-es Muñeco Dinosaurio Peluche Pequeño Juguetes de Dinosaurios...'
+sku: 'B07QK6BWCB-es'
 tags: [ 'juguetes','peluche', ]
 actualPrice: 15.99 EUR
 currency: EUR

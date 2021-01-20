@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9YFKRO-es Cefa Toys- Equipo Profesional de Geólogo Stream Multicolor...'
+sku: 'B01K9YFKRO-es'
 tags: [ 'cefa', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074CWSG2C-es TONZE Coches de Juguetes Vehiculos Mini Excavadora...'
+sku: 'B074CWSG2C-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.89 EUR
 currency: EUR

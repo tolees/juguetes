@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073CHLWWZ-es yoptote Puzzles Rompecabezas Magnéticos de Madera Juguete...'
+sku: 'B073CHLWWZ-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2JLLZM-es INvench Juguetes de baño para bebés Shark - Blue Shark con...'
+sku: 'B07S2JLLZM-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR

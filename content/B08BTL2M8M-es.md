@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTL2M8M-es Juguetes de baño para bebés Juguetes para niños Baby...'
+sku: 'B08BTL2M8M-es'
 tags: [ 'juguetes', ]
 actualPrice: 2.08 EUR
 currency: EUR

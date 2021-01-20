@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LSBTG4-es Puzzle de Madera Formas Geometricas 180 Piezas con bolsa...'
+sku: 'B089LSBTG4-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R4NGDX-es Colmanda Puzzles de Madera 2 Piezas Alfabeto y Números...'
+sku: 'B089R4NGDX-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 18.99 EUR
 currency: EUR

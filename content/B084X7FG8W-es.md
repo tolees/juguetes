@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084X7FG8W-es YIMINYUER EVA Medio Ambiente Alfombrilla Puzzle Deporte...'
+sku: 'B084X7FG8W-es'
 tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SDTTUJM-es LEGO Star Wars - Jango Fett 75107'
+sku: 'B00SDTTUJM-es'
 tags: [ 'lego', ]
 actualPrice: 41.99 EUR
 currency: EUR

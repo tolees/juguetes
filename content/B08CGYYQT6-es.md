@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGYYQT6-es Molyflower Tableta de Dibujo LCD para niños Magic Pad...'
+sku: 'B08CGYYQT6-es'
 tags: [ 'juguetes', ]
 actualPrice: 20.62 EUR
 currency: EUR

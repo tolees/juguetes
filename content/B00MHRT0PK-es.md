@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MHRT0PK-es SYLVANIAN FAMILIES- School Friends Mini muñecas y...'
+sku: 'B00MHRT0PK-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 12.16 EUR
 currency: EUR

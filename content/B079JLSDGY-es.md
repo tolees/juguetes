@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JLSDGY-es Barbie Muñeca Stacie y su desayuno accesorios muñeca...'
+sku: 'B079JLSDGY-es'
 tags: [ 'barbie','mattel', ]
 actualPrice: 23.2 EUR
 currency: EUR

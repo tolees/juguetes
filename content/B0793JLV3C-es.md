@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793JLV3C-es Educa Borras - Genuine Puzzles Puzzle 500 piezas Cachorros...'
+sku: 'B0793JLV3C-es'
 tags: [ 'puzzle', ]
 actualPrice: 7.99 EUR
 currency: EUR

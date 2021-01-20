@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBBBMKY-es LEGO Overwatch - Batalla Final en Dorado Juguete de...'
+sku: 'B07JBBBMKY-es'
 tags: [ 'lego', ]
 actualPrice: 20.78 EUR
 currency: EUR

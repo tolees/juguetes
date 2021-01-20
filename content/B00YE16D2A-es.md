@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YE16D2A-es Disney Infinity 3.0 - Figura Miedo Del Revés'
+sku: 'B00YE16D2A-es'
 tags: [ 'disney','infinity', ]
 actualPrice: 8.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HYK7ZQ-es NICEWIN Ropa Interior de Ciclismo para Hombre Pantalones...'
+sku: 'B083HYK7ZQ-es'
 tags: [ 'bicicleta', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDCWQT5-es Beados - Centro de Diseño Famosa 700014683'
+sku: 'B07DDCWQT5-es'
 tags: [ 'famosa', ]
 actualPrice: 17.19 EUR
 currency: EUR

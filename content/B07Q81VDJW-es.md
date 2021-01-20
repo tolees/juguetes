@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q81VDJW-es GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo...'
+sku: 'B07Q81VDJW-es'
 tags: [ 'flotador', ]
 actualPrice: 8.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ22BV1-es Aletas de natación para niños diseño de sirena ajustable...'
+sku: 'B07FZ22BV1-es'
 tags: [ 'juguetes', ]
 actualPrice: 8.7 EUR
 currency: EUR

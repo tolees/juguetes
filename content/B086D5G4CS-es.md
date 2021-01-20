@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086D5G4CS-es MaoXinTek Tangram Madera 36 Montessori Puzzle de Formas y...'
+sku: 'B086D5G4CS-es'
 tags: [ 'juguetes','puzzle', ]
 actualPrice: 12.99 EUR
 currency: EUR

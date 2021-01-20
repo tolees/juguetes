@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JS134UA-es Nenuco - Nenuco y su hermanito van al cole Famosa...'
+sku: 'B00JS134UA-es'
 tags: [ 'famosa', ]
 actualPrice: 54.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKN5TP9-es ENEGON 9V USB Directa Recargable Batería 650mAh Lito-Ion...'
+sku: 'B07VKN5TP9-es'
 tags: [ 'juguetes', ]
 actualPrice: 18.99 EUR
 currency: EUR

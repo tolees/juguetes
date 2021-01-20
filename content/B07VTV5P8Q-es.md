@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTV5P8Q-es Nobleza – Pack de 5 Juguetes para Perro. Set Fabricado en...'
+sku: 'B07VTV5P8Q-es'
 tags: [ 'juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PCJN5C-es meiqicool - Alfombra puzzle infantil para bebés de Foam...'
+sku: 'B077PCJN5C-es'
 tags: [ 'puzzle', ]
 actualPrice: 45.88 EUR
 currency: EUR

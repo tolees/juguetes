@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C1Y1KGQ-es Peppa Pig - Manguitos hinchables Saica Toys 9110'
+sku: 'B00C1Y1KGQ-es'
 tags: [ 'peppa','pig', ]
 actualPrice: 8.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076FMV5WX-es Lepfun 1 x Rodilleras Compresión Rodilleras Deportivas...'
+sku: 'B076FMV5WX-es'
 tags: [ 'bicicleta', ]
 actualPrice: 9.99 EUR
 currency: EUR

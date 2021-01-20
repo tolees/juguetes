@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDPWJ6N-es Think Fun- Dr. Gravely Escape The Room Ravensburger 76311'
+sku: 'B07BDPWJ6N-es'
 tags: [ 'ravensburger', ]
 actualPrice: 22.99 EUR
 currency: EUR

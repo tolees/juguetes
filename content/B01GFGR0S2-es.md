@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GFGR0S2-es Lixada Cubrezapatos Térmico Impermeable A Prueba de Viento...'
+sku: 'B01GFGR0S2-es'
 tags: [ 'bicicleta', ]
 actualPrice: 8.99 EUR
 currency: EUR

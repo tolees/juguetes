@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV9XC4N-es himaly Mini Bicicleta de Ejercicio portátil casa Pedal...'
+sku: 'B07CV9XC4N-es'
 tags: [ 'bicicleta', ]
 actualPrice: 29.99 EUR
 currency: EUR

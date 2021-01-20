@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDPTCK-es QNIGLO Prismáticos Compactos a Prueba de Golpes para Niños...'
+sku: 'B07FKDPTCK-es'
 tags: [ 'juguetes', ]
 actualPrice: 23.99 EUR
 currency: EUR

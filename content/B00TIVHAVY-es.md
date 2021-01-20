@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TIVHAVY-es Devir - Alquimistas Juego de Mesa 222531'
+sku: 'B00TIVHAVY-es'
 tags: [ 'devir', ]
 actualPrice: 24.98 EUR
 currency: EUR

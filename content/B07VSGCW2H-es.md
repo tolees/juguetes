@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSGCW2H-es Akokie Dinosaurios Juguetes Puzzle Juegos de Construccion...'
+sku: 'B07VSGCW2H-es'
 tags: [ 'juguetes','puzzle', ]
 actualPrice: 14.86 EUR
 currency: EUR

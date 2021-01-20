@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WWXJXG-es Herize Puzzle 500 Piezas para Adultos Niños | Paisajes de...'
+sku: 'B086WWXJXG-es'
 tags: [ 'juguetes','puzzle', ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGBCF68-es Juguetes de Buceo Conjunto de Juguete para Piscina Juguete...'
+sku: 'B07QGBCF68-es'
 tags: [ 'juguetes', ]
 actualPrice: 16.59 EUR
 currency: EUR

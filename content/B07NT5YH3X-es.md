@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NT5YH3X-es yyhappy Childhood Mini Telescopio De Juguetes De Exterior...'
+sku: 'B07NT5YH3X-es'
 tags: [ 'juguetes', ]
 actualPrice: 10.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4HVCVN-es Kupton Bolsas de Comida para Fruta Juguetes y Libros-...'
+sku: 'B07H4HVCVN-es'
 tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR

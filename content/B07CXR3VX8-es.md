@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXR3VX8-es JUNSHEN Juguetes de baño 6PCS Juguetes para bebés Juguetes...'
+sku: 'B07CXR3VX8-es'
 tags: [ 'juguetes', ]
 actualPrice: 10.29 EUR
 currency: EUR

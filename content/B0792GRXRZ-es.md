@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792GRXRZ-es Pinypon - Figurita Serie 8 pack B Famosa 700014103'
+sku: 'B0792GRXRZ-es'
 tags: [ 'famosa','pinypon', ]
 actualPrice: 2.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073BFFMGR-es Hasbro - Juego «¿Quién es Quién?»Juego clásico.'
+sku: 'B073BFFMGR-es'
 tags: [ 'hasbro', ]
 actualPrice: 17.96 EUR
 currency: EUR

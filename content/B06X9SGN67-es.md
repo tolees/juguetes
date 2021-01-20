@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9SGN67-es SYLVANIAN FAMILIES- Amigas patinadoras sobre Hielo Epoch...'
+sku: 'B06X9SGN67-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 16.95 EUR
 currency: EUR

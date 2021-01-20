@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMCGP21-es Hot Wheels-GLC96 Juguete Multicolor Mattel GLC96'
+sku: 'B07RMCGP21-es'
 tags: [ 'mattel', ]
 actualPrice: 29.99 EUR
 currency: EUR

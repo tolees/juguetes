@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHJ65VR-es Harxin 26 Pcs Juguete Dinosaurio Juguete Dinosaurio...'
+sku: 'B08CHJ65VR-es'
 tags: [ 'juguetes', ]
 actualPrice: 16.5 EUR
 currency: EUR

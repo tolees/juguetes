@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073V1NVL9-es RIXOW Cubierta de Asiento de Bicicleta Sillín de Bicicleta...'
+sku: 'B073V1NVL9-es'
 tags: [ 'bicicleta', ]
 actualPrice: 10.99 EUR
 currency: EUR

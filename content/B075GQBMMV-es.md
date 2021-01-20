@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GQBMMV-es LEGO DUPLO - Gran Zona de Juegos 10864'
+sku: 'B075GQBMMV-es'
 tags: [ 'lego', ]
 actualPrice: 36.4 EUR
 currency: EUR

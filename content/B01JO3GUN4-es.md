@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JO3GUN4-es Juguetes de Mesa Diversión Familiar Mini Baloncesto...'
+sku: 'B01JO3GUN4-es'
 tags: [ 'juguetes', ]
 actualPrice: 12.28 EUR
 currency: EUR

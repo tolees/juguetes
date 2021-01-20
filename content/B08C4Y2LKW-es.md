@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4Y2LKW-es Diy Cuentas hechas a mano Juguetes con accesorios Set Kids...'
+sku: 'B08C4Y2LKW-es'
 tags: [ 'juguetes', ]
 actualPrice: 6.76 EUR
 currency: EUR

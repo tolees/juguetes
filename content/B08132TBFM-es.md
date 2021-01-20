@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08132TBFM-es 3 Tamaños De Juguetes De Lujo Con Joyas Azules Con Campana...'
+sku: 'B08132TBFM-es'
 tags: [ 'juguetes', ]
 actualPrice: 24.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RXLB99-es Moliies Rompecabezas Niños Niños Niños Niñas Escritura...'
+sku: 'B081RXLB99-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 11.43 EUR
 currency: EUR

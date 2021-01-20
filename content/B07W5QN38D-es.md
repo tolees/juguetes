@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5QN38D-es Runts S19010 - Peluche de Funcionamiento Color Gris y Blanco'
+sku: 'B07W5QN38D-es'
 tags: [ 'peluche', ]
 actualPrice: 14.42 EUR
 currency: EUR

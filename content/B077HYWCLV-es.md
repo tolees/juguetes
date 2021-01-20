@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HYWCLV-es Mattel Phase 10 Juego de Cartas'
+sku: 'B077HYWCLV-es'
 tags: [ 'mattel','juego','de','cartas', ]
 actualPrice: 11.11 EUR
 currency: EUR

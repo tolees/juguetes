@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793FBGLJ-es Educa - Minnie Happy Helpers Maleta Progresivos puzzle...'
+sku: 'B0793FBGLJ-es'
 tags: [ 'puzzle', ]
 actualPrice: 9.99 EUR
 currency: EUR

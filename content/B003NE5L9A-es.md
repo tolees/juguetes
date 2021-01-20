@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE5L9A-es Ladrillo de almacenamiento Lego 8 espàrragos'
+sku: 'B003NE5L9A-es'
 tags: [ 'lego', ]
 actualPrice: 29.99 EUR
 currency: EUR

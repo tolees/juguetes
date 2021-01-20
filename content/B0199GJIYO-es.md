@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0199GJIYO-es Shopkins- Disney Puzzle Color única Giochi Preziosi Spagna...'
+sku: 'B0199GJIYO-es'
 tags: [ 'puzzle', ]
 actualPrice: 8.99 EUR
 currency: EUR

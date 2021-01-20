@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OQSXUIG-es Feber - Tobogán Con Rampa De 107cm Famosa 800009593'
+sku: 'B00OQSXUIG-es'
 tags: [ 'famosa','feber', ]
 actualPrice: 38.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSR4YT3-es Hot Wheels - Monster Truck Pista de coches Super Salto con...'
+sku: 'B07GSR4YT3-es'
 tags: [ 'mattel', ]
 actualPrice: 16.99 EUR
 currency: EUR

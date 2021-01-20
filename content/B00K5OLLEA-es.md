@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5OLLEA-es Nerf N-Strike Elite Mega Magnus Blaster'
+sku: 'B00K5OLLEA-es'
 tags: [ 'nerf', ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC358ZD-es SKYSPER Manguitos Ciclismo Manga de Compresión Manguito...'
+sku: 'B07DC358ZD-es'
 tags: [ 'bicicleta', ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para...'
+sku: 'B076BL1RNY-es'
 tags: [ 'peluche', ]
 actualPrice: 12.65 EUR
 currency: EUR

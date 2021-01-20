@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016SFTSUS-es Mantel de fieltro rompecabezas colorido'
+sku: 'B016SFTSUS-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 8.74 EUR
 currency: EUR

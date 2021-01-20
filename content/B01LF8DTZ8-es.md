@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LF8DTZ8-es SMARTGYRO X1s Hoverboard eléctrico Unisex Adulto Negro...'
+sku: 'B01LF8DTZ8-es'
 tags: [ 'smartgyro', ]
 actualPrice: 99.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VV73L7S-es LEGO Star Wars - First Order Heavy Scout Walker Juguete de...'
+sku: 'B06VV73L7S-es'
 tags: [ 'lego', ]
 actualPrice: 48.9 EUR
 currency: EUR

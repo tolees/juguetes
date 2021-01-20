@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF1LRXQ-es Barbie Muñeca BMR 1959 look cazadora denim regalo para...'
+sku: 'B07QF1LRXQ-es'
 tags: [ 'barbie','mattel', ]
 actualPrice: 24.76 EUR
 currency: EUR

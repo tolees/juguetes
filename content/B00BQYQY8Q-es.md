@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQYQY8Q-es Imaginext - Batcueva Mattel X7677'
+sku: 'B00BQYQY8Q-es'
 tags: [ 'mattel', ]
 actualPrice: 40.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K6T3XA8-es Juguetes Colgantes Reiki Energía Cristal Péndulo Scrying...'
+sku: 'B01K6T3XA8-es'
 tags: [ 'juguetes', ]
 actualPrice: 3.48 EUR
 currency: EUR

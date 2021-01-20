@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHX1MB7-es Colmanda Juguetes de Buceo 32 Piezas Juguete de Natación...'
+sku: 'B08BHX1MB7-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR

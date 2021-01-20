@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRBMN74-es Niños/Bebé 50 piezas 5 capas para correr andar en...'
+sku: 'B08CRBMN74-es'
 tags: [ 'bicicleta', ]
 actualPrice: 12.9 EUR
 currency: EUR

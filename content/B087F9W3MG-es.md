@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087F9W3MG-es N/ A 1 Juego de Tablero de Dardos de Seguridad Juguetes...'
+sku: 'B087F9W3MG-es'
 tags: [ 'juguetes', ]
 actualPrice: 8.39 EUR
 currency: EUR

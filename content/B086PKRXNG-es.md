@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PKRXNG-es Gifort Maquina Burbujas para niños soplador de Burbujas...'
+sku: 'B086PKRXNG-es'
 tags: [ 'juguetes', ]
 actualPrice: 15.99 EUR
 currency: EUR

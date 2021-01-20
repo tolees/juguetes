@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087FJ6DB6-es EKKONG Pistolas de Agua para Niños Adultos 900ML Soaker...'
+sku: 'B087FJ6DB6-es'
 tags: [ 'juguetes', ]
 actualPrice: 8.99 EUR
 currency: EUR

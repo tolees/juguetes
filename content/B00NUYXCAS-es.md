@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NUYXCAS-es LEGO: Batman 3. Más Allá De Gotham'
+sku: 'B00NUYXCAS-es'
 tags: [ 'lego:', ]
 actualPrice: 14.95 EUR
 currency: EUR

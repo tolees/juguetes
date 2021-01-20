@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725QLZ9D-es Pinypon by PINY PINY - Muñeca Michelle en clase de diseño...'
+sku: 'B0725QLZ9D-es'
 tags: [ 'famosa','pinypon', ]
 actualPrice: 8.95 EUR
 currency: EUR

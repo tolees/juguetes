@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM33QV4-es Rolimate Juguetes para Apilar Y Encajar Stack & Sort Board...'
+sku: 'B07DM33QV4-es'
 tags: [ 'juguetes', ]
 actualPrice: 16.14 EUR
 currency: EUR

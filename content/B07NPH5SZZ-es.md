@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPH5SZZ-es yoptote Caja Registradora Juguetes Supermercado Infantil...'
+sku: 'B07NPH5SZZ-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM5XH3Z-es mysunny Juguetes de Cocina de Madera para niños Juguete...'
+sku: 'B07SM5XH3Z-es'
 tags: [ 'juguetes', ]
 actualPrice: 22.9 EUR
 currency: EUR

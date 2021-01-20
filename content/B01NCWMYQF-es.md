@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCWMYQF-es Luz trasera impermeable para bicicleta ajuste constante...'
+sku: 'B01NCWMYQF-es'
 tags: [ 'bicicleta', ]
 actualPrice: 1.14 EUR
 currency: EUR

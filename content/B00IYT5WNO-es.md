@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IYT5WNO-es Pinypon Cupcake Cuties Doll Playset 5-Pack'
+sku: 'B00IYT5WNO-es'
 tags: [ 'pinypon', ]
 actualPrice: 19.99 EUR
 currency: EUR

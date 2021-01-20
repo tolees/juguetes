@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CDY6DGV-es Moma Bikes Bicicleta Trekking / Paseo HYBRID 28" Alu...'
+sku: 'B07CDY6DGV-es'
 tags: [ 'bicicleta', ]
 actualPrice: 243.93 EUR
 currency: EUR

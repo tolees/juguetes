@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQF565T-es Polly Pocket - Maletín del 30 aniversario Partytime...'
+sku: 'B07NQF565T-es'
 tags: [ 'mattel','polly','pocket', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KNBT7S-es Justice League Figura Manta Negra 15 cm Mattel Fwx62'
+sku: 'B079KNBT7S-es'
 tags: [ 'mattel', ]
 actualPrice: 6.0 EUR
 currency: EUR

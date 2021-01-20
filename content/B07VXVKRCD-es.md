@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXVKRCD-es Wimypet 10 Piezas Juguetes de Cuerda para Perros Grupo de...'
+sku: 'B07VXVKRCD-es'
 tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR

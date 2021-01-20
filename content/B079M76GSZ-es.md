@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079M76GSZ-es Pinypon- Niños y Bebés Pack B Famosa 700014032'
+sku: 'B079M76GSZ-es'
 tags: [ 'famosa','pinypon-', ]
 actualPrice: 4.99 EUR
 currency: EUR

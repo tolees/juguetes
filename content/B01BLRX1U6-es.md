@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLRX1U6-es Clementoni-39334 Los Pingüinos De Madagascar Puzzle 1000...'
+sku: 'B01BLRX1U6-es'
 tags: [ 'puzzle', ]
 actualPrice: 8.95 EUR
 currency: EUR

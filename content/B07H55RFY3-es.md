@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H55RFY3-es X-TIGER Hombres de Bicicleta Manga corta Shorts Top...'
+sku: 'B07H55RFY3-es'
 tags: [ 'bicicleta', ]
 actualPrice: 32.49 EUR
 currency: EUR

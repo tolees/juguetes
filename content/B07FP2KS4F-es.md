@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2KS4F-es LEGO Película 2 - Taller Construye y Arregla de Emmet y...'
+sku: 'B07FP2KS4F-es'
 tags: [ 'lego', ]
 actualPrice: 6.0 EUR
 currency: EUR

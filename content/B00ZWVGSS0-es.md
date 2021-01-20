@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZWVGSS0-es Warner Bros Interactive Spain VG Lego Dimensions - The...'
+sku: 'B00ZWVGSS0-es'
 tags: [ 'lego', ]
 actualPrice: 11.77 EUR
 currency: EUR

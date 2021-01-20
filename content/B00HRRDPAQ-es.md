@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDPAQ-es SYLVANIAN FAMILIES Día en la Playa Epoch para Imaginar 4870'
+sku: 'B00HRRDPAQ-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 26.65 EUR
 currency: EUR

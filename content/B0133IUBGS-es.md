@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0133IUBGS-es Ravensburger Avengers - Multipack de 3 Rompecabezas con 1...'
+sku: 'B0133IUBGS-es'
 tags: [ 'ravensburger','rompecabezas', ]
 actualPrice: 16.04 EUR
 currency: EUR

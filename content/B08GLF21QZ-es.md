@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLF21QZ-es HUYIYI Puzzles de Madera de Animales Puzzles Infantiles...'
+sku: 'B08GLF21QZ-es'
 tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 12.59 EUR
 currency: EUR

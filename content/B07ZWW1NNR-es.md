@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWW1NNR-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
+sku: 'B07ZWW1NNR-es'
 tags: [ 'barbie', ]
 actualPrice: 15.57 EUR
 currency: EUR

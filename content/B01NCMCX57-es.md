@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCMCX57-es Yosoo Matemáticas Manipuladores De Madera Barras de Contar...'
+sku: 'B01NCMCX57-es'
 tags: [ 'juguetes', ]
 actualPrice: 5.99 EUR
 currency: EUR

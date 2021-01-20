@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GE1Z9PY-es Pinypon by PINY Set de Cuatro muñecas Multicolor Famosa...'
+sku: 'B01GE1Z9PY-es'
 tags: [ 'famosa','pinypon', ]
 actualPrice: 14.95 EUR
 currency: EUR

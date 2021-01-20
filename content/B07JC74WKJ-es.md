@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC74WKJ-es LEGO 4+ Woody y RC Juguete de Construcción para Recrear...'
+sku: 'B07JC74WKJ-es'
 tags: [ 'lego', ]
 actualPrice: 7.92 EUR
 currency: EUR

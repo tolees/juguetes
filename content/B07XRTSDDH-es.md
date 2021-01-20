@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRTSDDH-es CAIDUD Juguetes para aliviar el estrés Fun Memory Toy...'
+sku: 'B07XRTSDDH-es'
 tags: [ 'juguetes', ]
 actualPrice: 5.88 EUR
 currency: EUR

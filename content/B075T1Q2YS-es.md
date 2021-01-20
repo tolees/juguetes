@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075T1Q2YS-es LEGO Super Heroes Thanos: Batalla definitiva construcción...'
+sku: 'B075T1Q2YS-es'
 tags: [ 'lego', ]
 actualPrice: 67.2 EUR
 currency: EUR

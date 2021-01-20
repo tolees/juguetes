@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PX4F8H-es Clementoni-39421 Puzzle 1000 Piezas Dutch Dreamworld 39421.0'
+sku: 'B079PX4F8H-es'
 tags: [ 'puzzle', ]
 actualPrice: 10.94 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TP2GH7-es Beetest ES Juguetes Piscina Niños 37 Unids Divertido Buceo...'
+sku: 'B087TP2GH7-es'
 tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR

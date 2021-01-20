@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KCCK51-es Polly Pocket - Maletín con muñecas fiesta divertida -...'
+sku: 'B079KCCK51-es'
 tags: [ 'mattel','polly','pocket', ]
 actualPrice: 13.81 EUR
 currency: EUR

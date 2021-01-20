@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711KXCJW-es Rolimate Puzzles de Madera 10 Números Preescolar...'
+sku: 'B0711KXCJW-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR

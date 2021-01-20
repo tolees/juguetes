@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSBP5PS-es HellDoler Flotador para Bebé 1 a 5 Años de Edad Flotador...'
+sku: 'B07RSBP5PS-es'
 tags: [ 'flotador', ]
 actualPrice: 10.99 EUR
 currency: EUR

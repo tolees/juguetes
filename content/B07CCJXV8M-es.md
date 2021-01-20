@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCJXV8M-es VTech Barco pirata cazatesoros transformable en isla...'
+sku: 'B07CCJXV8M-es'
 tags: [ 'vtech', ]
 actualPrice: 35.7 EUR
 currency: EUR

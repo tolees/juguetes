@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K14KX4W-es IPSXP Computadora de Bicicleta Alámbrico Velocímetro y...'
+sku: 'B07K14KX4W-es'
 tags: [ 'bicicleta', ]
 actualPrice: 10.99 EUR
 currency: EUR

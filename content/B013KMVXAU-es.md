@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013KMVXAU-es Top Trumps Juego de cartas Marvel Avengers Infinity War...'
+sku: 'B013KMVXAU-es'
 tags: [ 'juego','de','cartas', ]
 actualPrice: 4.59 EUR
 currency: EUR

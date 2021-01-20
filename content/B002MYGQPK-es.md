@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002MYGQPK-es Mona Lisa Puzzle'
+sku: 'B002MYGQPK-es'
 tags: [ 'puzzle', ]
 actualPrice: 8.7 EUR
 currency: EUR

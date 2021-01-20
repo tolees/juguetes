@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003OA6TW6-es Tráiler Bicicleta M 43×45×73 cm Rojo/Negro'
+sku: 'B003OA6TW6-es'
 tags: [ 'bicicleta', ]
 actualPrice: 148.99 EUR
 currency: EUR

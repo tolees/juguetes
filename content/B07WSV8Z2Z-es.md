@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSV8Z2Z-es LEADSTAR Tangram Puzzle Tangram Madera Shape Puzzle Set...'
+sku: 'B07WSV8Z2Z-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 10.99 EUR
 currency: EUR

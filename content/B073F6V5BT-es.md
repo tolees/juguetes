@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073F6V5BT-es JIM S STORE Conjuntos de Patinaje Infantil Consta de...'
+sku: 'B073F6V5BT-es'
 tags: [ 'bicicleta', ]
 actualPrice: 11.99 EUR
 currency: EUR

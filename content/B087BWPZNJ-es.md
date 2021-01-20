@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BWPZNJ-es MUOOUM - Cesta plegable para ropa sucia cesta de ropa...'
+sku: 'B087BWPZNJ-es'
 tags: [ 'juguetes', ]
 actualPrice: 26.46 EUR
 currency: EUR

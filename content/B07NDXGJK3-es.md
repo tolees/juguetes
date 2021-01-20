@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDXGJK3-es Mattel - Hot Wheels ID Portal de carreras con coche +8...'
+sku: 'B07NDXGJK3-es'
 tags: [ 'mattel', ]
 actualPrice: 22.8 EUR
 currency: EUR

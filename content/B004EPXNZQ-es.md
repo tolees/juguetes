@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPXNZQ-es Educa Borras - XXL Puzzles Puzzle 9.000 piezas El Jardin...'
+sku: 'B004EPXNZQ-es'
 tags: [ 'puzzle', ]
 actualPrice: 85.63 EUR
 currency: EUR

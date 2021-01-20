@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STWHC69-es Peppa Pig- Casa Gigante De Madera Multicolor Bandai CO07004'
+sku: 'B07STWHC69-es'
 tags: [ 'peppa','pig', ]
 actualPrice: 91.27 EUR
 currency: EUR

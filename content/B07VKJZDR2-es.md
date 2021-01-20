@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKJZDR2-es X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB...'
+sku: 'B07VKJZDR2-es'
 tags: [ 'bicicleta', ]
 actualPrice: 37.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018EM10ZO-es TKM 10720 Cámara Bicicleta Antipinchazos 26X1.75 Adultos...'
+sku: 'B018EM10ZO-es'
 tags: [ 'bicicleta', ]
 actualPrice: 10.89 EUR
 currency: EUR

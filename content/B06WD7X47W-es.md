@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WD7X47W-es Despicable Me 9079 "DM3 Cárcel Minions Tom de Peluche...'
+sku: 'B06WD7X47W-es'
 tags: [ 'peluche', ]
 actualPrice: 7.1 EUR
 currency: EUR

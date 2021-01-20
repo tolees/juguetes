@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5ZZQJ2-es Splash Play Mat Uiter Tapete de Aprendizaje para Salpicar...'
+sku: 'B07R5ZZQJ2-es'
 tags: [ 'juguetes', ]
 actualPrice: 26.89 EUR
 currency: EUR

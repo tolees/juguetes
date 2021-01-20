@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010VBDYP0-es Clementoni- Romantic Promenade In Puzzle 500 pzas...'
+sku: 'B010VBDYP0-es'
 tags: [ 'puzzle', ]
 actualPrice: 5.95 EUR
 currency: EUR

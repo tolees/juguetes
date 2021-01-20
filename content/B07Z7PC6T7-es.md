@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7PC6T7-es HoneyHolly Botella de Agua Acero Inoxidable 350ml...'
+sku: 'B07Z7PC6T7-es'
 tags: [ 'bicicleta', ]
 actualPrice: 15.97 EUR
 currency: EUR

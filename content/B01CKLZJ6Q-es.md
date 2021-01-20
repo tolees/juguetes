@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CKLZJ6Q-es PrimeMatik - Soporte de Pared con Gancho Plegable para...'
+sku: 'B01CKLZJ6Q-es'
 tags: [ 'bicicleta', ]
 actualPrice: 13.18 EUR
 currency: EUR

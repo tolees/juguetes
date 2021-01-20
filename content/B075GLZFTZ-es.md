@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GLZFTZ-es LEGO Duplo Town - Aventuras en la Granja 10869'
+sku: 'B075GLZFTZ-es'
 tags: [ 'lego', ]
 actualPrice: 48.3 EUR
 currency: EUR

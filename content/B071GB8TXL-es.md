@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GB8TXL-es Puzzle 60 CARS 3 Wyscig'
+sku: 'B071GB8TXL-es'
 tags: [ 'puzzle', ]
 actualPrice: 6.7 EUR
 currency: EUR

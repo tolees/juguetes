@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ITC36LG-es Clementoni - Puzzle de 500 Piezas diseño 500 305759'
+sku: 'B00ITC36LG-es'
 tags: [ 'clementoni','puzzle', ]
 actualPrice: 5.95 EUR
 currency: EUR

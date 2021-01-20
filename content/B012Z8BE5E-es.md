@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012Z8BE5E-es Chicos-Bingo Lotería automática con 48 cartones y 90 bolas...'
+sku: 'B012Z8BE5E-es'
 tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR

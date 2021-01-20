@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0841B9NZC-es Juguetes De Doble Experiencia Sin Manos Para Hombres Con...'
+sku: 'B0841B9NZC-es'
 tags: [ 'juguetes', ]
 actualPrice: 55.94 EUR
 currency: EUR

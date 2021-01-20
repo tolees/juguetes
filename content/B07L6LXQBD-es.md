@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6LXQBD-es Ravensburger-15168 Ravensburger Banks of The Seine-Puzzle...'
+sku: 'B07L6LXQBD-es'
 tags: [ 'ravensburger', ]
 actualPrice: 11.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS9YRS-es LEGO Friends - Caja Corazón de Stephanie divertido set de...'
+sku: 'B07FNS9YRS-es'
 tags: [ 'lego', ]
 actualPrice: 4.99 EUR
 currency: EUR

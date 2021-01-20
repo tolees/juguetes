@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017KU1DHQ-es CO2 inflador por PRO – Herramienta de bicicleta rápido y...'
+sku: 'B017KU1DHQ-es'
 tags: [ 'bicicleta', ]
 actualPrice: 24.98 EUR
 currency: EUR

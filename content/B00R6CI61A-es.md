@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios...'
+sku: 'B00R6CI61A-es'
 tags: [ 'fisher-price','mattel', ]
 actualPrice: 37.99 EUR
 currency: EUR

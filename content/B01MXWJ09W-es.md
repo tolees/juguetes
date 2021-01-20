@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWJ09W-es Cars Circuito Cars choca-crash pista de coches Mattel FCW01'
+sku: 'B01MXWJ09W-es'
 tags: [ 'mattel', ]
 actualPrice: 29.0 EUR
 currency: EUR

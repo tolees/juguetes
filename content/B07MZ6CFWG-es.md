@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ6CFWG-es Tablets de Escritura LCD a Color Tablero de Dibujo eWriter...'
+sku: 'B07MZ6CFWG-es'
 tags: [ 'juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR

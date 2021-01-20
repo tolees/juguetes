@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0133QNV4E-es Schmidt Spiele 59365 - Mark Gray Río Canning - Australia...'
+sku: 'B0133QNV4E-es'
 tags: [ 'puzzle', ]
 actualPrice: 6.53 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GQ2KT8-es LEGO City Police - Huida por Aguas Salvajes Juguete de...'
+sku: 'B075GQ2KT8-es'
 tags: [ 'lego', ]
 actualPrice: 11.29 EUR
 currency: EUR

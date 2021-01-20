@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWYBTW5-es Juego de destornilladores de precisión juego de...'
+sku: 'B07RWYBTW5-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.69 EUR
 currency: EUR

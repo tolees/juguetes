@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVDNUIC-es LEGO Classic - Complementos Creativos de Nuevos Colores...'
+sku: 'B00NVDNUIC-es'
 tags: [ 'lego', ]
 actualPrice: 10.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDCLHJT-es Autopmall GPS Tracker Bicicleta Tiempo de Espera 300 Horas...'
+sku: 'B07GDCLHJT-es'
 tags: [ 'bicicleta', ]
 actualPrice: 55.87 EUR
 currency: EUR

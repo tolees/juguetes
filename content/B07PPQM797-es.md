@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPQM797-es L.O.L. Surprise! 564119E7C Furniture Boutique con Abeja...'
+sku: 'B07PPQM797-es'
 tags: [ 'l.o.l.', ]
 actualPrice: 32.9 EUR
 currency: EUR

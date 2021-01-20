@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRK2ZQF-es Gifort Pompons Pompones de Colores Pompones de Pompon...'
+sku: 'B07NRK2ZQF-es'
 tags: [ 'peluche', ]
 actualPrice: 9.99 EUR
 currency: EUR

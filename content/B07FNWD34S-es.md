@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWD34S-es LEGO Creator - Transporte de la Lanzadera Juguete de...'
+sku: 'B07FNWD34S-es'
 tags: [ 'lego', ]
 actualPrice: 18.74 EUR
 currency: EUR

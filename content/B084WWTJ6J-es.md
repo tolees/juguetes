@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WWTJ6J-es Panamami Nuevos Juguetes Inteligentes para Juegos Los...'
+sku: 'B084WWTJ6J-es'
 tags: [ 'juguetes', ]
 actualPrice: 3.49 EUR
 currency: EUR

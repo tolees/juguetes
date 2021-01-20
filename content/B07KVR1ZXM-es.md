@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KVR1ZXM-es Harry Potter - Muñeco Harry Quidditch Juguetes Niños +6...'
+sku: 'B07KVR1ZXM-es'
 tags: [ 'juguetes','mattel', ]
 actualPrice: 20.2 EUR
 currency: EUR

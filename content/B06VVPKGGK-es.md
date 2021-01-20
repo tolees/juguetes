@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VVPKGGK-es LEGO Super Heroes - Batalla en la Atlántida 76085'
+sku: 'B06VVPKGGK-es'
 tags: [ 'lego', ]
 actualPrice: 24.03 EUR
 currency: EUR

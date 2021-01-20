@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGL8G1C-es Lalaloom BUBBLE BIKE - Bicicleta Andador Madera azul...'
+sku: 'B07YGL8G1C-es'
 tags: [ 'bicicleta', ]
 actualPrice: 44.2 EUR
 currency: EUR

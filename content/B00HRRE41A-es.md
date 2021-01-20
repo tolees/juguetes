@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRE41A-es SYLVANIAN FAMILIES Sylvanian Families-8718637028176 Set...'
+sku: 'B00HRRE41A-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 12.15 EUR
 currency: EUR

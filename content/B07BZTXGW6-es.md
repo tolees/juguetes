@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZTXGW6-es Batería de litio CR2032 3V botón electrónico de la célula...'
+sku: 'B07BZTXGW6-es'
 tags: [ 'juguetes', ]
 actualPrice: 7.99 EUR
 currency: EUR

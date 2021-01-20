@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4Q5FLT-es Star Wars - Figura de acción de Jannah de Black Series...'
+sku: 'B07V4Q5FLT-es'
 tags: [ 'hasbro', ]
 actualPrice: 14.99 EUR
 currency: EUR

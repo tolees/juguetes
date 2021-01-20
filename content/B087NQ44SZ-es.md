@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NQ44SZ-es Coolle- Juego de Bolas múltiples texturizadas | Bola...'
+sku: 'B087NQ44SZ-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR

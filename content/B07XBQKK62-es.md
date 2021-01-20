@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBQKK62-es Candado De Bicicleta [Reforzar La VersióN] [1.5m...'
+sku: 'B07XBQKK62-es'
 tags: [ 'bicicleta', ]
 actualPrice: 11.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IOO3Y8Y-es S&R Juego de 30 llaves Allen hexagonales en Pulgadas y...'
+sku: 'B00IOO3Y8Y-es'
 tags: [ 'bicicleta', ]
 actualPrice: 13.75 EUR
 currency: EUR

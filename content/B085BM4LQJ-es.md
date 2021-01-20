@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BM4LQJ-es YIMINYUER Alfombrillas de Ejercicios Espumas EVA...'
+sku: 'B085BM4LQJ-es'
 tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KY9RDOI-es LEGO Star Wars 75052 Minifigura de Greedo con pistola blaster'
+sku: 'B00KY9RDOI-es'
 tags: [ 'lego', ]
 actualPrice: 18.7 EUR
 currency: EUR

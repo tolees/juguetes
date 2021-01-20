@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789LYRZP-es HABA Oruga De Colores Lego S.A. HAB303114'
+sku: 'B0789LYRZP-es'
 tags: [ 'lego', ]
 actualPrice: 7.84 EUR
 currency: EUR

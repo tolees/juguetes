@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1TGKMY-es Natural Seagrass Mimbre Cesta de Cesteria Cestos para la...'
+sku: 'B07K1TGKMY-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YCQW0II-es VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos Color...'
+sku: 'B00YCQW0II-es'
 tags: [ 'vtech-', ]
 actualPrice: 54.08 EUR
 currency: EUR

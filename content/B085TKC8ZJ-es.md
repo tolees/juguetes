@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TKC8ZJ-es Jaques de Londres juguemos Rompecabezas del Planeta -...'
+sku: 'B085TKC8ZJ-es'
 tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 10.96 EUR
 currency: EUR

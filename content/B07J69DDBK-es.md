@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J69DDBK-es LEGO Marvel Super Heroes - Batalla contra Molten Man...'
+sku: 'B07J69DDBK-es'
 tags: [ 'lego', ]
 actualPrice: 20.0 EUR
 currency: EUR

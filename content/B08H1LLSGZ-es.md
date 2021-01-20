@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H1LLSGZ-es Panamar Juguetes de baño Luz de Agua en Aerosol Girar con...'
+sku: 'B08H1LLSGZ-es'
 tags: [ 'juguetes', ]
 actualPrice: 5.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756LRPPP-es Enchantimals Muñeca con mascota Zelena Zebra - Mattel...'
+sku: 'B0756LRPPP-es'
 tags: [ 'mattel', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793HJ6KY-es Educa Borrás Puzzle 1.000 Piezas Billetes del Mundo 17659'
+sku: 'B0793HJ6KY-es'
 tags: [ 'puzzle', ]
 actualPrice: 8.99 EUR
 currency: EUR

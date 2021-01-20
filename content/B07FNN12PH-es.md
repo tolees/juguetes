@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNN12PH-es LEGO Minecraft - La Batalla en el End juguete divertido de...'
+sku: 'B07FNN12PH-es'
 tags: [ 'lego', ]
 actualPrice: 15.99 EUR
 currency: EUR

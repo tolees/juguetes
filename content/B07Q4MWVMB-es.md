@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4MWVMB-es Ubitree DIY Varita de Burbujas Gigante Pompas de jabón...'
+sku: 'B07Q4MWVMB-es'
 tags: [ 'juguetes', ]
 actualPrice: 15.99 EUR
 currency: EUR

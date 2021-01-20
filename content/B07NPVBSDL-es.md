@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPVBSDL-es Bizak Aire Libre Skip It 2 en 1 BIZAK 35007558'
+sku: 'B07NPVBSDL-es'
 tags: [ 'bizak', ]
 actualPrice: 10.54 EUR
 currency: EUR

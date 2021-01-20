@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M6QS51C-es Devir Iberia 221718 Genial Juego de Mesa BGENI'
+sku: 'B00M6QS51C-es'
 tags: [ 'devir', ]
 actualPrice: 16.79 EUR
 currency: EUR

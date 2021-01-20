@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S83VMKH-es Selle Italia - Sillìn Bicicleta de Carretera SLR Boost TM...'
+sku: 'B07S83VMKH-es'
 tags: [ 'bicicleta', ]
 actualPrice: 86.46 EUR
 currency: EUR

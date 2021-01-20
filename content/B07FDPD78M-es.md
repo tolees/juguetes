@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDPD78M-es Homcom Entrenador Elíptico de Fitness Bicicleta Elíptica...'
+sku: 'B07FDPD78M-es'
 tags: [ 'bicicleta', ]
 actualPrice: 102.99 EUR
 currency: EUR

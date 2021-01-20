@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W2KC1QS-es LEGO Star Wars - Tie Fighter de Kylo Ren Nave Espacial de...'
+sku: 'B06W2KC1QS-es'
 tags: [ 'lego', ]
 actualPrice: 74.76 EUR
 currency: EUR

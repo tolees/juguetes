@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQLVLZ1-es iGPSPORT S60 Soporte Frontal para Manillar Bicicleta para...'
+sku: 'B07CQLVLZ1-es'
 tags: [ 'bicicleta', ]
 actualPrice: 16.99 EUR
 currency: EUR

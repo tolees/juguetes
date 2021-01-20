@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNS6P74-es LEGO La LEGO Película 2 - Todoterreno Rextremo de Rex set...'
+sku: 'B07FNS6P74-es'
 tags: [ 'lego', ]
 actualPrice: 17.95 EUR
 currency: EUR

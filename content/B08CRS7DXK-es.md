@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRS7DXK-es Juguetes de baño para bebés Ducha de Elefante Ducha de...'
+sku: 'B08CRS7DXK-es'
 tags: [ 'juguetes', ]
 actualPrice: 2.01 EUR
 currency: EUR

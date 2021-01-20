@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SN61RLY-es Barbie - Princess Power y la Varita mágica de Color...'
+sku: 'B00SN61RLY-es'
 tags: [ 'barbie', ]
 actualPrice: 6.5 EUR
 currency: EUR

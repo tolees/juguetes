@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XCWTF7-es Juguetes de Baño Niños 3+ Años Juguetes de Natación Playa...'
+sku: 'B075XCWTF7-es'
 tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR

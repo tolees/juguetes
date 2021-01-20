@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQQ7G88-es Awroutdoor Candado de Bicicleta Seguridad Candado de Cable...'
+sku: 'B07SQQ7G88-es'
 tags: [ 'bicicleta', ]
 actualPrice: 12.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SKFR97-es DUS Soporte para Halcón Milenario Display Stand para Lego...'
+sku: 'B083SKFR97-es'
 tags: [ 'lego', ]
 actualPrice: 15.99 EUR
 currency: EUR

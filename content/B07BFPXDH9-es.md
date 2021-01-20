@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFPXDH9-es Hot Wheels Supertúnel de lavado pista de coches de juguete...'
+sku: 'B07BFPXDH9-es'
 tags: [ 'mattel', ]
 actualPrice: 25.99 EUR
 currency: EUR

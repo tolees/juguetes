@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT3R52J-es Nerf Overwatch MicroShots: Torbjorn clásico bláster en...'
+sku: 'B07QT3R52J-es'
 tags: [ 'nerf', ]
 actualPrice: 13.46 EUR
 currency: EUR

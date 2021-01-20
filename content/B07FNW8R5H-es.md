@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNW8R5H-es LEGO La LEGO Película 2 - Casa de los Sueños/Cohete de...'
+sku: 'B07FNW8R5H-es'
 tags: [ 'lego', ]
 actualPrice: 51.81 EUR
 currency: EUR

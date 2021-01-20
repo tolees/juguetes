@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0885VXYRJ-es iMiMi - Juego de anillos apilables de arco iris juguete...'
+sku: 'B0885VXYRJ-es'
 tags: [ 'juguetes', ]
 actualPrice: 11.8 EUR
 currency: EUR

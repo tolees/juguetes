@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HFR4NSQ-es Disney - Carnaval Puzzle de 1000 Piezas Ravensburger 19383 7'
+sku: 'B00HFR4NSQ-es'
 tags: [ 'puzzle','ravensburger', ]
 actualPrice: 11.5 EUR
 currency: EUR

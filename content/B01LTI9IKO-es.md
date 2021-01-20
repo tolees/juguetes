@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LTI9IKO-es Piny Muñeca Fashion Julia Famosa 700013446'
+sku: 'B01LTI9IKO-es'
 tags: [ 'famosa', ]
 actualPrice: 11.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002LIEE6-es Clementoni-Rompecabezas Puzzle 1000 Piezas Museos...'
+sku: 'B0002LIEE6-es'
 tags: [ 'puzzle', ]
 actualPrice: 10.48 EUR
 currency: EUR

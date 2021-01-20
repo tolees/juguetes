@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BRT46QS-es Colmanda Juguetes Bañera Bebés 16 Piezas Juguetes de Baño...'
+sku: 'B08BRT46QS-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR

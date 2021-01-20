@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8Y5TNV-es MATTEL Juegos flk75 Juego'
+sku: 'B07C8Y5TNV-es'
 tags: [ 'mattel', ]
 actualPrice: 14.99 EUR
 currency: EUR

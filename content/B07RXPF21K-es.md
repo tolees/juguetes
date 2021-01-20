@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXPF21K-es Gifort Flotador Bebé Piscina Barco Niños Flotador...'
+sku: 'B07RXPF21K-es'
 tags: [ 'flotador', ]
 actualPrice: 14.99 EUR
 currency: EUR

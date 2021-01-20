@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897LBCBN-es Diseño práctico Dual USB Generador de Bicicleta Bicicleta...'
+sku: 'B0897LBCBN-es'
 tags: [ 'bicicleta', ]
 actualPrice: 12.31 EUR
 currency: EUR

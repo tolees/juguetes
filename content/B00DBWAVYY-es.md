@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DBWAVYY-es Ravensburger - La Biblioteca extraña 2 Puzzle de 1000...'
+sku: 'B00DBWAVYY-es'
 tags: [ 'puzzle','ravensburger', ]
 actualPrice: 14.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLHTXLC-es Cartamundi Frozen - Juego de Cartas 2 Pares'
+sku: 'B07VLHTXLC-es'
 tags: [ 'juego','de','cartas', ]
 actualPrice: 1.74 EUR
 currency: EUR

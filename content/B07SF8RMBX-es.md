@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SF8RMBX-es Petit Jour Paris - Cubertería Peppa Pig - Soporta la...'
+sku: 'B07SF8RMBX-es'
 tags: [ 'peppa','pig', ]
 actualPrice: 11.94 EUR
 currency: EUR

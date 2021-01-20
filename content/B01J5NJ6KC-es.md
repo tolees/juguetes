@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J5NJ6KC-es Educa Borrás- Puzzle 3D Dibujos Animados y cómic Puente de...'
+sku: 'B01J5NJ6KC-es'
 tags: [ 'puzzle', ]
 actualPrice: 8.45 EUR
 currency: EUR

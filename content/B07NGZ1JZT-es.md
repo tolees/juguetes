@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGZ1JZT-es Barbie - Dreamtopia Muñeca con Pelo Rosa y su Unicornio...'
+sku: 'B07NGZ1JZT-es'
 tags: [ 'barbie','mattel', ]
 actualPrice: 57.15 EUR
 currency: EUR

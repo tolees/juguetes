@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P9FK1ZU-es Mega Bloks Camión golpetones juguete de construcción para...'
+sku: 'B00P9FK1ZU-es'
 tags: [ 'mattel','mega','bloks', ]
 actualPrice: 22.49 EUR
 currency: EUR

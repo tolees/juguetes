@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJQSQF9-es SeeKool MINI 3 en 1 RC Drone Quadcopter 2.4GHZ Modo sin...'
+sku: 'B07YJQSQF9-es'
 tags: [ 'juguetes', ]
 actualPrice: 27.99 EUR
 currency: EUR

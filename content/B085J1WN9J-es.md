@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085J1WN9J-es NIMNIK Alimentos Juguetes de Madera Set de Alimentos de...'
+sku: 'B085J1WN9J-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR

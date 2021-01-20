@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CU001MY-es Jazwares 15236 16902 Animal Jam Mapache Deluxe Peluche 20 cm'
+sku: 'B01CU001MY-es'
 tags: [ 'peluche', ]
 actualPrice: 5.46 EUR
 currency: EUR

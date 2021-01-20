@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0139TBFQ6-es Kids Premium Baby Bath Toy Organizer - Niños grandes Toy...'
+sku: 'B0139TBFQ6-es'
 tags: [ 'juguetes', ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNJQKKN-es Mejores Regalos para Niños de 5 a 15 Años de Edad Top Toy...'
+sku: 'B07QNJQKKN-es'
 tags: [ 'juguetes', ]
 actualPrice: 26.99 EUR
 currency: EUR

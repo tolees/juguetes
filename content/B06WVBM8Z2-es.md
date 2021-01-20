@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVBM8Z2-es LEGO Star Wars - Scout Trooper y Speeder Bike 75532 Juego...'
+sku: 'B06WVBM8Z2-es'
 tags: [ 'lego', ]
 actualPrice: 50.63 EUR
 currency: EUR

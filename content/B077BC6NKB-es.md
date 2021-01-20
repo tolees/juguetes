@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BC6NKB-es Furreal Friends Hasbro E0497EU4 - Shaggy Shawn Luky Melenas'
+sku: 'B077BC6NKB-es'
 tags: [ 'hasbro', ]
 actualPrice: 14.75 EUR
 currency: EUR

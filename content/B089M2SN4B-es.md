@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089M2SN4B-es Symiu Juguetes para Niños DIY Bloques de Construcción...'
+sku: 'B089M2SN4B-es'
 tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR

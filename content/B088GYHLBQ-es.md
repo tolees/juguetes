@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GYHLBQ-es Dreamon Conjunto de Juguetes Playa Bebe Colores Moldes de...'
+sku: 'B088GYHLBQ-es'
 tags: [ 'juguetes', ]
 actualPrice: 13.59 EUR
 currency: EUR

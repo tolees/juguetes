@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXSB6M3-es 324 Piezas Pokemon Cartas Juego de Cartas Tarjetas de...'
+sku: 'B07YXSB6M3-es'
 tags: [ 'juego','de','cartas', ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719JFC4L-es Baby Alive Muñeca mimos y cuidados Multicolor Miscelanea...'
+sku: 'B0719JFC4L-es'
 tags: [ 'hasbro', ]
 actualPrice: 29.99 EUR
 currency: EUR

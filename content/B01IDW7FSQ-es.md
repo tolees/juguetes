@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDW7FSQ-es Cars 3- Coche Crazy McQueen Mattel DYB04 color/modelo surtido'
+sku: 'B01IDW7FSQ-es'
 tags: [ 'mattel', ]
 actualPrice: 4.02 EUR
 currency: EUR

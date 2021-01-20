@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXSH1H1-es Jaques of London Juguete de Martillo Juguemos al Banco de...'
+sku: 'B07PXSH1H1-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.28 EUR
 currency: EUR

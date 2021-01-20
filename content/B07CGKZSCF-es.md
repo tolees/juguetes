@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGKZSCF-es Hot Wheels - Track Builder pack de accesorios para pistas...'
+sku: 'B07CGKZSCF-es'
 tags: [ 'mattel', ]
 actualPrice: 15.26 EUR
 currency: EUR

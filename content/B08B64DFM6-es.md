@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B64DFM6-es EXCEED Posavasos inflables para la Piscina Paquete de 17...'
+sku: 'B08B64DFM6-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR

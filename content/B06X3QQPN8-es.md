@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3QQPN8-es Hasbro C2691EU4 Bailey Visita al Medico'
+sku: 'B06X3QQPN8-es'
 tags: [ 'hasbro', ]
 actualPrice: 16.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Z77QXQ-es Hasbro Gaming Chafa el Huevo Multicolor C2473175'
+sku: 'B071Z77QXQ-es'
 tags: [ 'hasbro', ]
 actualPrice: 15.95 EUR
 currency: EUR

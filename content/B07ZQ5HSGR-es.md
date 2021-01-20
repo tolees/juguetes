@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQ5HSGR-es Tomight Mini Bomba para Bicicleta con Manómetro 260PSI...'
+sku: 'B07ZQ5HSGR-es'
 tags: [ 'bicicleta', ]
 actualPrice: 16.99 EUR
 currency: EUR

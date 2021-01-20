@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9TTSMV-es Letras Magneticas Niños Pizarra Magnética Infantil 90...'
+sku: 'B06X9TTSMV-es'
 tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 13.59 EUR
 currency: EUR

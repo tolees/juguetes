@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY78KJY-es Mini Camión Modelo de auto Conjunto de Juguetes de...'
+sku: 'B07JY78KJY-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.98 EUR
 currency: EUR

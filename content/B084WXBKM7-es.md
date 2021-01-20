@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WXBKM7-es YIMINYUER Alfombra Puzle Niños Colchoneta Suave Juego...'
+sku: 'B084WXBKM7-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 34.43 EUR
 currency: EUR

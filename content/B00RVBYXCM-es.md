@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RVBYXCM-es SportPlus Heimtrainer S-Bike - Bicicleta estática y de...'
+sku: 'B00RVBYXCM-es'
 tags: [ 'bicicleta', ]
 actualPrice: 118.22 EUR
 currency: EUR

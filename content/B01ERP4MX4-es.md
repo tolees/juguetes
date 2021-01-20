@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERP4MX4-es BH Fitness Atlantic Dual Bicicleta elíptica Unisex para...'
+sku: 'B01ERP4MX4-es'
 tags: [ 'bicicleta', ]
 actualPrice: 384.0 EUR
 currency: EUR

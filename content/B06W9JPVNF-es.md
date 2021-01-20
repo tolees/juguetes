@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9JPVNF-es Top Race Juego de Cubos de Arena y Palas de Arena 5 "en la...'
+sku: 'B06W9JPVNF-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JGCH66F-es MAJOZ0 Vitrina de Acrílico Caja de Presentación para Lego...'
+sku: 'B08JGCH66F-es'
 tags: [ 'lego', ]
 actualPrice: 42.99 EUR
 currency: EUR

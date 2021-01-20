@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ512NT-es EzLife Bolsas Reutilizables Compra Bolsas Reutilizables...'
+sku: 'B07TZ512NT-es'
 tags: [ 'juguetes', ]
 actualPrice: 7.99 EUR
 currency: EUR

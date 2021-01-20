@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDT84-es SYLVANIAN FAMILIES Venta de zumos Epoch para Imaginar 4478'
+sku: 'B00HRRDT84-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 12.17 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HDNWQN-es Winterwölfe. Puzzle 1000 Teile'
+sku: 'B074HDNWQN-es'
 tags: [ 'puzzle', ]
 actualPrice: 9.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JBG4NQ-es Lixada uperdyneema de los Hombres de Ciclismo Ropa...'
+sku: 'B072JBG4NQ-es'
 tags: [ 'bicicleta', ]
 actualPrice: 11.99 EUR
 currency: EUR

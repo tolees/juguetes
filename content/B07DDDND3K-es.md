@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDDND3K-es Jaggets - Snow Surprise Mini Model Famosa 700014723'
+sku: 'B07DDDND3K-es'
 tags: [ 'famosa', ]
 actualPrice: 13.76 EUR
 currency: EUR

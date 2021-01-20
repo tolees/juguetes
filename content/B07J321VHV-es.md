@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J321VHV-es LRG Nueva tija de sillín de Fibra de Carbono y Bicicleta...'
+sku: 'B07J321VHV-es'
 tags: [ 'bicicleta', ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SYVRSC-es Bicicleta De Ejercicio Fitness Interior Ciclismo Bicicleta...'
+sku: 'B086SYVRSC-es'
 tags: [ 'bicicleta', ]
 actualPrice: 188.0 EUR
 currency: EUR

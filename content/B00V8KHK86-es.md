@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V8KHK86-es Geomag- Mechanics Construcciones magnéticas y juegos...'
+sku: 'B00V8KHK86-es'
 tags: [ 'geomag-', ]
 actualPrice: 10.99 EUR
 currency: EUR

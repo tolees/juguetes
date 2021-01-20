@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894WKRFP-es Surplex Juego de Juguetes de baño para niños 6 Peces...'
+sku: 'B0894WKRFP-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.28 EUR
 currency: EUR

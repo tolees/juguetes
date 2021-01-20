@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AOVXCG4-es BRIO- Juego Primera Edad 33593'
+sku: 'B00AOVXCG4-es'
 tags: [ 'brio-', ]
 actualPrice: 29.51 EUR
 currency: EUR

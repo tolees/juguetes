@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNK8SKL-es Ty – Peluche ty36253'
+sku: 'B07DNK8SKL-es'
 tags: [ 'peluche', ]
 actualPrice: 6.99 EUR
 currency: EUR

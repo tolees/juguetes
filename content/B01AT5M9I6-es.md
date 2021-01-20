@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AT5M9I6-es Barbie Fashionista Armario Fashion accesorios de muñecas...'
+sku: 'B01AT5M9I6-es'
 tags: [ 'barbie','mattel', ]
 actualPrice: 31.4 EUR
 currency: EUR

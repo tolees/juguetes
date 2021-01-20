@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB2XJK8-es Toyvian Juego de niños con férula de Agua 2pcs Juguetes...'
+sku: 'B07PB2XJK8-es'
 tags: [ 'juguetes', ]
 actualPrice: 4.99 EUR
 currency: EUR

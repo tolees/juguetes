@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVBVS4R-es Molyflower Hipopótamo Hambriento Que traga mármoles...'
+sku: 'B08CVBVS4R-es'
 tags: [ 'juguetes', ]
 actualPrice: 9.2 EUR
 currency: EUR

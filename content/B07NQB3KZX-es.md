@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQB3KZX-es Barbie Crea sus ondas Muñeca rubia con accesorios para...'
+sku: 'B07NQB3KZX-es'
 tags: [ 'barbie','mattel', ]
 actualPrice: 16.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L2CQ2NS-es GoPro Floaty - Flotador para GoPro Hero Color Naranja'
+sku: 'B01L2CQ2NS-es'
 tags: [ 'flotador', ]
 actualPrice: 12.84 EUR
 currency: EUR

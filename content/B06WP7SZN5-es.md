@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP7SZN5-es Star Wars 8 Sable Camino de la Fuerza Multicolor Hasbro...'
+sku: 'B06WP7SZN5-es'
 tags: [ 'hasbro', ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN2KW89-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel...'
+sku: 'B07SN2KW89-es'
 tags: [ 'bicicleta', ]
 actualPrice: 17.0 EUR
 currency: EUR

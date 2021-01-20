@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0168UDLX8-es La Lego Película Edición Especial Blu-Ray [Blu-ray]'
+sku: 'B0168UDLX8-es'
 tags: [ 'lego', ]
 actualPrice: 7.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCF4DM2-es The Bellies - Kuki Cute Muñeco para Niños y Niñas a Partir...'
+sku: 'B07QCF4DM2-es'
 tags: [ 'famosa','the','bellies', ]
 actualPrice: 19.99 EUR
 currency: EUR

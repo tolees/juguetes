@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWMBLR-es LEGO Ninjago - Spinjitzu Kai peonza roja divertida de...'
+sku: 'B07FNWMBLR-es'
 tags: [ 'lego', ]
 actualPrice: 7.49 EUR
 currency: EUR

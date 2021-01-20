@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWTWBFK-es Zerodis- Merry-Go-Round de Madera Control de Voz Merry-Go-...'
+sku: 'B07QWTWBFK-es'
 tags: [ 'puzzle','rompecabezas', ]
 actualPrice: 6.19 EUR
 currency: EUR

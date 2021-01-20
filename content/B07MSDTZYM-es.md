@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSDTZYM-es CCLIFE Esterilla Puzzle de Fitness 60x60x1cm 30x30x1cm...'
+sku: 'B07MSDTZYM-es'
 tags: [ 'puzzle', ]
 actualPrice: 39.98 EUR
 currency: EUR

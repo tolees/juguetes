@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085M2JVLQ-es DOUBLEZ Yoda Peluche Muñecos 12 Inch Peluche De Algodón PP...'
+sku: 'B085M2JVLQ-es'
 tags: [ 'peluche', ]
 actualPrice: 12.99 EUR
 currency: EUR

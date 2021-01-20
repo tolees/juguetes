@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYSRJXX-es Hasbro B90701 Animales de Juguete Juguetes de Peluche...'
+sku: 'B06XYSRJXX-es'
 tags: [ 'hasbro','juguetes','peluche', ]
 actualPrice: 54.99 EUR
 currency: EUR

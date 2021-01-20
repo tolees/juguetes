@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJJ8TBN-es Little People Granja cuida a los animalitos juguetes bebés...'
+sku: 'B07NJJ8TBN-es'
 tags: [ 'juguetes','mattel', ]
 actualPrice: 38.49 EUR
 currency: EUR

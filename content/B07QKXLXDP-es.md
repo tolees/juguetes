@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKXLXDP-es Hengxin Maillot Ciclismo Corto De Verano para Hombre Ropa...'
+sku: 'B07QKXLXDP-es'
 tags: [ 'bicicleta', ]
 actualPrice: 33.43 EUR
 currency: EUR

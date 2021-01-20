@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9RR9PK-es iNeego Maletin Medicos Juguete 37 Piezas - Doctora de...'
+sku: 'B08C9RR9PK-es'
 tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075L6KYSZ-es Xpassion 200 Unidades Pegatinas del PVC para Portátil...'
+sku: 'B075L6KYSZ-es'
 tags: [ 'bicicleta', ]
 actualPrice: 12.74 EUR
 currency: EUR

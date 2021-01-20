@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQR8DJZ-es Cottage im Herbst - Puzzle mit 500 Teilen'
+sku: 'B07FQR8DJZ-es'
 tags: [ 'puzzle', ]
 actualPrice: 7.31 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MX4YJ7F-es Fivejoy Juguetes de Construcción Bloques de Construccion...'
+sku: 'B07MX4YJ7F-es'
 tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR

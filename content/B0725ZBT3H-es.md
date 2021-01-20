@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725ZBT3H-es FEBER - Mad Racer 12 V Famosa 800011361'
+sku: 'B0725ZBT3H-es'
 tags: [ 'famosa','feber', ]
 actualPrice: 172.35 EUR
 currency: EUR

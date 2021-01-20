@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DBR2S5S-es Clementoni - Pelota electrónica Musical 17109.5'
+sku: 'B01DBR2S5S-es'
 tags: [ 'clementoni', ]
 actualPrice: 10.9 EUR
 currency: EUR

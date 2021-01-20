@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6BFKC8-es LEGO - Overwatch Tracer vs. Widowmaker Set de construcción...'
+sku: 'B07J6BFKC8-es'
 tags: [ 'lego', ]
 actualPrice: 11.1 EUR
 currency: EUR

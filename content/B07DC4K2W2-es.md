@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC4K2W2-es SKYSPER Ciclismo Maillot Hombres Pantalones Cortos Culote...'
+sku: 'B07DC4K2W2-es'
 tags: [ 'bicicleta', ]
 actualPrice: 25.99 EUR
 currency: EUR

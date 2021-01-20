@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXZQNJW-es NEWSTYLE Bolsa de Almacenamiento de Ropa de Gran Capacidad...'
+sku: 'B07YXZQNJW-es'
 tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BREAVE2-es SYLVANIAN FAMILIES- Cake Decorating Set Mini muñecas y...'
+sku: 'B01BREAVE2-es'
 tags: [ 'sylvanian','families', ]
 actualPrice: 10.95 EUR
 currency: EUR

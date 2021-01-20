@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4SM1VC-es iNeego Bloques de Construcción 1000 Piezas Bloques de...'
+sku: 'B07G4SM1VC-es'
 tags: [ 'juguetes', ]
 actualPrice: 31.99 EUR
 currency: EUR

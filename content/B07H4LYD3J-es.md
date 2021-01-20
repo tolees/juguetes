@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4LYD3J-es X-TIGER Hombres de Bicicleta Maillots con 5D Gel Acolchado...'
+sku: 'B07H4LYD3J-es'
 tags: [ 'bicicleta', ]
 actualPrice: 20.99 EUR
 currency: EUR

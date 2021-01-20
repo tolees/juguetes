@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNT8XBN-es LEGO Disney Princess - Celebración Real de Ariel Aurora y...'
+sku: 'B07FNT8XBN-es'
 tags: [ 'lego', ]
 actualPrice: 37.07 EUR
 currency: EUR

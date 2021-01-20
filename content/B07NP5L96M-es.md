@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NP5L96M-es Nobleza - Árbol rascador para Gatos de Dos Plataformas con...'
+sku: 'B07NP5L96M-es'
 tags: [ 'juguetes', ]
 actualPrice: 48.99 EUR
 currency: EUR

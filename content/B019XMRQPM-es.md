@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019XMRQPM-es Fajiabao Puzzles de Madera Magnético Dibujo Placa...'
+sku: 'B019XMRQPM-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 12.59 EUR
 currency: EUR

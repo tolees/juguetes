@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WD3SH32-es LEGO Super Heroes - Knightcrawler: Ataque subterráneo 76086'
+sku: 'B06WD3SH32-es'
 tags: [ 'lego', ]
 actualPrice: 41.5 EUR
 currency: EUR

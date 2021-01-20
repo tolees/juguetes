@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8F4XBV-es Lego Movie Pijamas de Manga Corta para niños La Lego...'
+sku: 'B07P8F4XBV-es'
 tags: [ 'lego', ]
 actualPrice: 7.95 EUR
 currency: EUR

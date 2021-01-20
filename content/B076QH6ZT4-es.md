@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QH6ZT4-es Forfar Deportes al Aire Libre Que completan un Ciclo la...'
+sku: 'B076QH6ZT4-es'
 tags: [ 'bicicleta', ]
 actualPrice: 4.79 EUR
 currency: EUR

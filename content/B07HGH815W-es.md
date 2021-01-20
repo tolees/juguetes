@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGH815W-es SEGA Mega Drive Classics Nintendo Switch'
+sku: 'B07HGH815W-es'
 tags: [ 'nintendo', ]
 actualPrice: 24.9 EUR
 currency: EUR

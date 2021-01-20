@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMG84FG-es Star Wars E0584 Juguete interactivos - Juguetes...'
+sku: 'B07CMG84FG-es'
 tags: [ 'juguetes', ]
 actualPrice: 56.59 EUR
 currency: EUR

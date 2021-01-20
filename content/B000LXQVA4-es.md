@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LXQVA4-es Fisher-Price Saltador animalitos de la selva para bebé +1...'
+sku: 'B000LXQVA4-es'
 tags: [ 'fisher-price','mattel', ]
 actualPrice: 121.89 EUR
 currency: EUR

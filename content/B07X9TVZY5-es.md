@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9TVZY5-es LEGO Friends - Cubo Tienda de Juegos de Olivia Caja de...'
+sku: 'B07X9TVZY5-es'
 tags: [ 'lego', ]
 actualPrice: 9.99 EUR
 currency: EUR

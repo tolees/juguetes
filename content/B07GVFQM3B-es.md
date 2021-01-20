@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVFQM3B-es Bomao - Juego de 7 Piezas Unicornio Cubo mágico 3 Llavero...'
+sku: 'B07GVFQM3B-es'
 tags: [ 'rompecabezas', ]
 actualPrice: 4.99 EUR
 currency: EUR

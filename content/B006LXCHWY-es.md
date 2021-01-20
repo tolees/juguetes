@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006LXCHWY-es Nenuco - Pañales de Colores Famosa 700009027'
+sku: 'B006LXCHWY-es'
 tags: [ 'famosa', ]
 actualPrice: 6.0 EUR
 currency: EUR

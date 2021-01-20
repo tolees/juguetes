@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074LDVZF7-es CubicFun Puzzle 3D París Torre Eiffel Francia Rompecabezas...'
+sku: 'B074LDVZF7-es'
 tags: [ 'puzzle','rompecabezas', ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6KDQZT-es Candado de Disco De Alarma Disco De Bloqueo para Moto...'
+sku: 'B07Q6KDQZT-es'
 tags: [ 'bicicleta', ]
 actualPrice: 21.99 EUR
 currency: EUR

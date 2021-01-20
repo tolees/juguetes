@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ9YL97-es Barbie National Geographic Quiero Ser Fotógrafa muñeca con...'
+sku: 'B07NQ9YL97-es'
 tags: [ 'barbie','mattel', ]
 actualPrice: 12.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZR6FF6-es LoveOlvidoF Tableta de Dibujo LCD para niños Magic Pad...'
+sku: 'B08BZR6FF6-es'
 tags: [ 'juguetes', ]
 actualPrice: 21.98 EUR
 currency: EUR

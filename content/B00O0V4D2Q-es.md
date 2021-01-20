@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O0V4D2Q-es HOMCOM Rodillo Entrenamiento Bicicleta Acero...'
+sku: 'B00O0V4D2Q-es'
 tags: [ 'bicicleta', ]
 actualPrice: 75.64 EUR
 currency: EUR
