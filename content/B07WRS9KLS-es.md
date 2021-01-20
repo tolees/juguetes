@@ -26,8 +26,8 @@ Tienes [Magicbox SuperZings SZSTINT0112 - Caja expositora](https://www.amazon.es
 
 🔎:
 
-- 5 exclusivos SuperZings.
 - Efecto metálico en SuperZings.
+- 5 exclusivos SuperZings.
 - Lata de metal para almacenar tus SuperZings.
 - Número de modelo: PSZSD48TIN10
 
