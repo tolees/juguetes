@@ -26,9 +26,9 @@ Ahora mismo tienes [HORI - Controlador D-Pad  izquierdo  Zelda  Nintendo Switch 
 
 🔎:
 
-- Acabado mate en plástico semitraslúcido
 - Licencia oficial de Nintendo
 - Ideal para juegos 2D con uso intensivo del pad direccional
 - Joy-Con izquierdo con cruceta
+- Acabado mate en plástico semitraslúcido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FSWM4Z2/?tag=tolees-21)
