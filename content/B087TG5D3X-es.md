@@ -27,10 +27,10 @@ En este momento está [Paochocky Puzzles 3D Montessori Juguetes Bloques Construc
 
 🔎:
 
-- ★ Mejore las habilidades creativas: Construction Toy Set puede desarrollar el aprendizaje STEM de los niños (Ciencia, Tecnología, Ingeniería y Matemáticas) y mejorar su capacidad cognitiva de color, sensorial, cognitiva, imaginación y creatividad.
-- ★ Material de seguridad: todas las piezas están hechas de plástico ABS no tóxico seguro y no es fácil de romper, se ajustan perfectamente a los tornillos y pernos, todas las esquinas son redondas y la velocidad de rotación del taladro es lenta y constante. El taladro eléctrico requiere baterías de 2 * 1.5V (no incluidas)
-- ★ Maravilloso regalo para niños: el conjunto de juguetes de construcción está exquisitamente diseñado, de alta calidad y viene con una exquisita caja de embalaje. Es una buena idea de regalo para cumpleaños, Navidad, Acción de Gracias o cualquier otra ocasión adecuada.
-- ★ Aviso: Incluyendo piezas pequeñas de peligro de asfixia. No apto para niños menores de 3 años. Los niños deben jugar bajo la supervisión de un adulto. Si tiene alguna pregunta, contáctenos y le daremos una respuesta satisfactoria dentro de las 24 horas.
 - ★ Juego rico: usa un taladro eléctrico o un destornillador para fijar los coloridos tornillos ABS y las tablas de mosaico a los agujeros en la caja para hacer cualquier modelo 2D y 3D, haciendo que el tiempo de juego sea desafiante e interesante.
+- ★ Aviso: Incluyendo piezas pequeñas de peligro de asfixia. No apto para niños menores de 3 años. Los niños deben jugar bajo la supervisión de un adulto. Si tiene alguna pregunta, contáctenos y le daremos una respuesta satisfactoria dentro de las 24 horas.
+- ★ Maravilloso regalo para niños: el conjunto de juguetes de construcción está exquisitamente diseñado, de alta calidad y viene con una exquisita caja de embalaje. Es una buena idea de regalo para cumpleaños, Navidad, Acción de Gracias o cualquier otra ocasión adecuada.
+- ★ Material de seguridad: todas las piezas están hechas de plástico ABS no tóxico seguro y no es fácil de romper, se ajustan perfectamente a los tornillos y pernos, todas las esquinas son redondas y la velocidad de rotación del taladro es lenta y constante. El taladro eléctrico requiere baterías de 2 * 1.5V (no incluidas)
+- ★ Mejore las habilidades creativas: Construction Toy Set puede desarrollar el aprendizaje STEM de los niños (Ciencia, Tecnología, Ingeniería y Matemáticas) y mejorar su capacidad cognitiva de color, sensorial, cognitiva, imaginación y creatividad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087TG5D3X/?tag=tolees-21)
