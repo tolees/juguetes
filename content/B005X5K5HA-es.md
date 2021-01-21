@@ -27,9 +27,9 @@ Tienes [Disney- Puzzle 2 en 1  108 Piezas  31788 ](https://www.amazon.es/dp/B005
 
 ℹ️:
 
-- A partir de 4 años.
-- Dimensiones:70 x 80 cm.
 - Contenido:108 unidades.
 - 2 en 1: puzzle y cuaderno de dibujo.
+- Dimensiones:70 x 80 cm.
+- A partir de 4 años.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005X5K5HA/?tag=tolees-21)
