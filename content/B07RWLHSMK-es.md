@@ -27,9 +27,9 @@ Ahora mismo tienes [Clementoni Crazy Chic Creaciones Wow  Multicolor  3  18540 ]
 
 🔎:
 
-- El juego incluye también muchos patrones para ayudarles a crear sus primeros objetos y la posibilidad de inventar muchos nuevos
-- Un telar especial para crear originales, coloridas y únicas creaciones, y dar forma a toda clase de objetos: bolsos, pulseras, collares, estuches y muchos más
-- Colorido y fácil de usar, el telar tiene dos guías para experimentar con dos tipos de tejido (oblicuo y lineal) y una base para guardar los elementos en cuatro colores distintos
 - Estimula la imaginación y la creatividad al ver cómo sus ideas se materializan
+- Colorido y fácil de usar, el telar tiene dos guías para experimentar con dos tipos de tejido (oblicuo y lineal) y una base para guardar los elementos en cuatro colores distintos
+- Un telar especial para crear originales, coloridas y únicas creaciones, y dar forma a toda clase de objetos: bolsos, pulseras, collares, estuches y muchos más
+- El juego incluye también muchos patrones para ayudarles a crear sus primeros objetos y la posibilidad de inventar muchos nuevos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWLHSMK/?tag=tolees-21)

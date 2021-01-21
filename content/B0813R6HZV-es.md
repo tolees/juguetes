@@ -28,9 +28,9 @@ Está [LEGO Creator Vehicles Creator 3en1 Róver Explorador  Base y Transbord
 ℹ️:
 
 - Features an exploration vehicle with robust wheels, working crane and suspension, cockpit, lab/living area, plus a robot with moving arms
+- Young space explorers will love choosing from this LEGO Creator 3in1 set of cosmic fun: a Space Rover Explorer, space base or space flyer
+- Parts of the vehicle are removable for easy access; accessories include tableware, shortwave transmitter, edible plants and lab equipment
 - A realistic, detailed space base with living quarters or super-fast spaceship make it easy for astronauts to explore Mars and new planets
 - Includes an astronaut minifigure and a buildable and posable fun alien figure; the 3in1 set makes a great anytime gift for boys & girls 8+
-- Parts of the vehicle are removable for easy access; accessories include tableware, shortwave transmitter, edible plants and lab equipment
-- Young space explorers will love choosing from this LEGO Creator 3in1 set of cosmic fun: a Space Rover Explorer, space base or space flyer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0813R6HZV/?tag=tolees-21)
