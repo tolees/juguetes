@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07SFH2HHK-es El Rey Leon The Lion King - Peluche Leon Simba Adulto...'
 sku: 'B07SFH2HHK-es'
-tags: [ 'peluche', ]
+tags: [ 'peluche','simba', ]
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35
