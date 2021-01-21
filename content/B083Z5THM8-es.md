@@ -27,10 +27,10 @@ En este momento está [HOMCOM Bicicleta Sin Pedales para Niños Mayores de 2 Añ
 
 🔎:
 
-- ✅EDAD RECOMENDADA: Para Mayores de 2 años. Soporta 25 kg de peso.
 - ✅PUÑOS SUAVES, SILLÍN ACOLCHADO Y AMORTIGUADOR. Características que hacen que pasear en esta bicicleta sin pedales sea muy confortable.
-- ✅MEDIDAS: 85x36x54 cm (LxANxAL). Recuerda comparar las medidas de la bici con la estatura del niño que vaya a utilizarla, para saber si se adapta a su tamaño.
-- ✅BICICLETA SIN PEDALES. Para que los peques de la casa practiquen su equilibrio y mejoren su coordinación.
 - ✅SILLÍN REGULABLE EN ALTURA. Ideal para adaptarse al crecimiento de tus hijos y que puedan utilizarla durante más tiempo.
+- ✅MEDIDAS: 85x36x54 cm (LxANxAL). Recuerda comparar las medidas de la bici con la estatura del niño que vaya a utilizarla, para saber si se adapta a su tamaño.
+- ✅EDAD RECOMENDADA: Para Mayores de 2 años. Soporta 25 kg de peso.
+- ✅BICICLETA SIN PEDALES. Para que los peques de la casa practiquen su equilibrio y mejoren su coordinación.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083Z5THM8/?tag=tolees-21)
