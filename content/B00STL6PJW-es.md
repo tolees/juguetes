@@ -27,8 +27,8 @@ Está [Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 ](h
 
 ℹ️:
 
-- Te desafía a detectar cosas rápido
 - Deberás encontrar los objetos que la carta elegida te señale
+- Te desafía a detectar cosas rápido
 - 55 tarjetas de misión para un juego desafiante y divertido
 - Juego de habilidad visual para 2 o más personas
 
