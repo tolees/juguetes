@@ -27,9 +27,9 @@ En este momento está [RIRGI - Soporte de teléfono móvil para bicicleta desmon
 
 🔎:
 
+- Instalación sin herramientas: simplemente enrolla alrededor del mango, coloca la hebilla de silicona y luego fija. El soporte para smartphone se puede montar sin problemas en un cochecito, bicicleta, moto y un volante con un diámetro de 0,6 a 1,37 pulgadas.
 - Rotación de 360 grados y acceso a pantalla completa: el soporte de teléfono móvil para motocicleta se puede girar 360 grados. Se puede girar para obtener el mejor ángulo. Compatible con Face ID y Touch ID.
 - Soporte de teléfono para bicicleta desmontable: simplemente gira el soporte para teléfono móvil en 90 grados para sacar tu teléfono de la bicicleta rápidamente. Durante un viaje en bicicleta, puedes tomar fotos, hacer selfies o contestar llamadas.
-- Instalación sin herramientas: simplemente enrolla alrededor del mango, coloca la hebilla de silicona y luego fija. El soporte para smartphone se puede montar sin problemas en un cochecito, bicicleta, moto y un volante con un diámetro de 0,6 a 1,37 pulgadas.
 - Robusto y seguro: el soporte para teléfono móvil bicicleta dispone de silicona de alta calidad. Material suave altamente elástico que absorbe todos los golpes. Y el diseño ajustable de múltiples hebillas en la banda elástica es adecuado para casi todos los tamaños de manillar y se puede fijar firmemente en caminos irregulares para evitar arañazos y vibraciones.
 - Amplia compatibilidad: gracias a la correa de silicona superelástica, el soporte para móvil de bicicleta se adapta perfectamente a todos los teléfonos móviles con tamaño de pantalla de 4,0 a 6,5 pulgadas, como por ejemplo iPhone 11/X/XS/XS/XR/8/8 Plus/7/7 Plus/6/6 Plus, Huawei P9/P10/P20/P20 Pro/Mate 8/Mate10, Samsung S10, Samsung S10/S10. Plus / S10. E/S9/S9 Plus/S8/S8 Plus/S7, Motorola, Sony, HTC, GPS, etc.
 
