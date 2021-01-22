@@ -27,7 +27,7 @@ Ahora mismo tienes [Gran Turismo Sport PlayStation Hits](https://www.amazon.es/d
 
 🔎:
 
-- 3+
 - PS4
+- 3+
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YY2JXGZ/?tag=tolees-21)
