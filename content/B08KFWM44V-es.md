@@ -27,9 +27,9 @@ Tienes [- Base Cargador para mandos para Series X y S  Xbox Series X ](https://w
 
 🔎:
 
-- 1M Detachable USB-C power cable
 - LEDs show charging status
-- includes 2 x 1000 mAh rechargeable battery pack with high grade Cells play & Charge Compatible
+- 1M Detachable USB-C power cable
 - Dual drop & Charge station for 2 controllers
+- includes 2 x 1000 mAh rechargeable battery pack with high grade Cells play & Charge Compatible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KFWM44V/?tag=tolees-21)
