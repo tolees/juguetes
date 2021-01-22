@@ -27,9 +27,9 @@ Está [Devir- Aventuras en la Tierra Media: El Camino Sigue  TMCASI ](https://ww
 
 ℹ️:
 
-- Consejos para crear ruinas a lo largo del camino
 - Grupos de monstruos pregenerados para soltarlos en tus viajes; reglas para evadir al Enemigo en el Yermo
-- Reglas para la generación de viajeros no jugadores y muchas cosas más
 - Experiencia conseguida por el camino; mapas para campamentos, en caso de que haya problemas
+- Consejos para crear ruinas a lo largo del camino
+- Reglas para la generación de viajeros no jugadores y muchas cosas más
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B86WQTS/?tag=tolees-21)
