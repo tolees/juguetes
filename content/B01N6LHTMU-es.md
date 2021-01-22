@@ -27,9 +27,9 @@ Está [Geomag- Classic Panels Juego de Construcción Educativo  Multicolor  32 p
 
 ℹ️:
 
-- Geomag es el juego de construcción magnético más famoso del mundo, compuesto por barras magnéticas y esferas metálicas
-- Las barras, mediante los imanes situados en ambos extremos, se conectan a las esferas, permitiéndote construir todo lo que se te ocurra
-- Un pequeño formato para una gran imaginación, la caja incluye 9 esferas, 12 barras verdes, 8 paneles triangulares verdes, 2 paneles cuadrados celestes y 1 pentagonal verde
 - Los productos Geomag están clasificados en la categoría STEM (acrónimo de Science, Technology, Engineering and Mathematics), que indica un enfoque interdisciplinar del aprendizaje
+- Las barras, mediante los imanes situados en ambos extremos, se conectan a las esferas, permitiéndote construir todo lo que se te ocurra
+- Geomag es el juego de construcción magnético más famoso del mundo, compuesto por barras magnéticas y esferas metálicas
+- Un pequeño formato para una gran imaginación, la caja incluye 9 esferas, 12 barras verdes, 8 paneles triangulares verdes, 2 paneles cuadrados celestes y 1 pentagonal verde
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6LHTMU/?tag=tolees-21)

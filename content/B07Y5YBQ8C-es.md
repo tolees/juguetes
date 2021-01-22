@@ -28,9 +28,9 @@ En este momento está [Jurassic World T.Rex Épico  Mattel GJT60 ](https://www.a
 🔎:
 
 - ​Its the perfect gift for ages 4 years old and up especially Jurassic World fans and those who love dinosaurs and action play!
+- ​The Epic Roarin Tyrannosaurus Rex is inspired by the Jurassic World animated series, Camp Cretaceous!
 - ​Push and hold the tail button for the ultimate epic ROAR and realistic shaking!
 - ​This larger-scale dinosaur action figure features "Primal Attack" that lets kids control the battle play!
 - ​Move the tail up and down, side to side and around for head movements, body twists and an awesome chomping action (activate all moves at once for total animated control of the figure).
-- ​The Epic Roarin Tyrannosaurus Rex is inspired by the Jurassic World animated series, Camp Cretaceous!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y5YBQ8C/?tag=tolees-21)
