@@ -27,10 +27,10 @@ Ahora mismo tienes [Mattel Games Pedorretas  juegos de mesa para niños  Mattel 
 
 🔎:
 
-- por turnos, los jugadores juegan las cartas y aprietan el lanzapedorretas tantas veces como la carta indique
-- las cartas especiales, como "pierde el turno" y "cambio de sentido", le dan más emoción al juego
 - si el lanzapedorretas se tira un pedo cuando lo estás apretando,,, estás eliminado
-- Juego de mesa que incluye un lanzapedorretas y una baraja de cartas
+- por turnos, los jugadores juegan las cartas y aprietan el lanzapedorretas tantas veces como la carta indique
 - consigue ser el último jugador en tirarse una pedorreta y gana la partida
+- las cartas especiales, como "pierde el turno" y "cambio de sentido", le dan más emoción al juego
+- Juego de mesa que incluye un lanzapedorretas y una baraja de cartas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BKBWKI2/?tag=tolees-21)
