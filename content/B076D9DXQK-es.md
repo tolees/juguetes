@@ -27,10 +27,10 @@ Tienes [Sharplace 2.4G Control Remoto Receptor Teledirigido Transmisor Universal
 
 🔎:
 
-- Distancia de control remoto: 50-100 metros
 - Es conveniente para el coche y la nave de RC, y no puede ser utilizado para el aeroplano.
-- 2.4G Universal Remote Control
 - Tensión de salida del receptor: 3-7.6V
+- Distancia de control remoto: 50-100 metros
+- 2.4G Universal Remote Control
 - Regulador alejado Fuente de alimentación: Batería del AA, voltaje: 3V (las baterías no se incluyen adentro)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076D9DXQK/?tag=tolees-21)
