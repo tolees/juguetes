@@ -27,11 +27,11 @@ Tienes [Cefa Toys- Funlocket  Multicolor  480    color/modelo surtido](https://w
 
 🔎:
 
-- Hay charms para compartir con tus amigas, con glitter, con olor, a ver cual te toca
-- Desenvuelve la llave corazón y encuentra el cajón que abre, encontraras una bolsa de organza con 3 charms y uno esconde otra llave
 - Al final encontraras si te ha tocado una pulsera o collar para llevarlos
 - Descubre los compartimentos secretos y los charms
-- Diviertete abriendo el joyero secreto, incluye charms, bolsitas para guardarlos, llaves y sorpresas
 - El joyero incluye un pequeño espejo
+- Hay charms para compartir con tus amigas, con glitter, con olor, a ver cual te toca
+- Diviertete abriendo el joyero secreto, incluye charms, bolsitas para guardarlos, llaves y sorpresas
+- Desenvuelve la llave corazón y encuentra el cajón que abre, encontraras una bolsa de organza con 3 charms y uno esconde otra llave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N39XFBR/?tag=tolees-21)
