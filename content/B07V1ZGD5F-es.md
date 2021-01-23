@@ -27,10 +27,10 @@ Tienes [Hunt : Showdown - PS4](https://www.amazon.es/dp/B07V1ZGD5F/?tag=tolees-2
 
 ℹ️:
 
-- Lucha por una recompensa contra otros equipos de cazadores en un mundo lleno de enemigos desafiantes en partidas de 20 a 40 minutos
-- Elige tu propio estilo y resuelve los problemas que te encuentres a tu manera; usa herramientas, tácticas y un rico entorno para volver las adversidades en tu favor
 - Los jugadores se sumergirán en un mundo totalmente creíble y rico en detalles, lleno de tonos oscuros que mantiene a los jugadores preguntándose, ¿qué hay detrás de esa esquina? Enemigos reales, monstruos reales, tensión real
-- Gana recompensas y mejoras a coste de perder a tu personaje para siempre
 - Si cuanto más alto es el riesgo, mayor es la recompensa, apuesta tu vida
+- Elige tu propio estilo y resuelve los problemas que te encuentres a tu manera; usa herramientas, tácticas y un rico entorno para volver las adversidades en tu favor
+- Lucha por una recompensa contra otros equipos de cazadores en un mundo lleno de enemigos desafiantes en partidas de 20 a 40 minutos
+- Gana recompensas y mejoras a coste de perder a tu personaje para siempre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07V1ZGD5F/?tag=tolees-21)
