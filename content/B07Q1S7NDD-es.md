@@ -28,8 +28,8 @@ Ahora mismo tienes [Simba- Muñeca de Masha 12cm con Peluche Oso 25cm 9301072  M
 🔎:
 
 - ¡Por fin juntos; el oso de peluche Misha y su amiga Masha, de la popular serie "Masha y el oso"
-- El oso está fabricado en peluche suave y mide 25 cm de alto
 - El regalo perfecto para niñas y niños a partir de 3 años
 - La pequeña masha lleva su traje clásico y mide 12 cm de alto
+- El oso está fabricado en peluche suave y mide 25 cm de alto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Q1S7NDD/?tag=tolees-21)
