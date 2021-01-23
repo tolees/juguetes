@@ -27,9 +27,9 @@ Tienes [SuperZings S - Kaboom Trap](https://www.amazon.es/dp/B0798QH4LX/?tag=tol
 
 🔎:
 
-- Alemán y español
 - ASS Spielkartenfabrik
-- SuperZings S - 6 Kaboom Trap
 - Juguete
+- Alemán y español
+- SuperZings S - 6 Kaboom Trap
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0798QH4LX/?tag=tolees-21)
