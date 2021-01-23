@@ -27,10 +27,10 @@ Ahora mismo tienes [Barbie Quiero Ser pediatra  muñeca morena con bebés y acce
 
 🔎:
 
-- Las niñas y los niños de 3 a 9 años, darán rienda suelta a su imaginación con el conjunto de barbie pediatra
 - Barbie pediatra incluye lo necesario para recrear el ambiente de una consulta de pediatría con los adorables bebés pacientes y las piezas de juguete para realizar las examinaciones y los cuidados que necesitan
 - Este conjunto de juguete incluye una mesa de diagnóstico con una botella de crema y otros accesorios, un móvil de cuna y cunitas separadas para los dos pacientes
 - La muñeca barbie pediatra está lista para cuidar de sus pacientes bebés, vestida con su traje de médica y su estetoscopio alrededor del cuello; barbie anota en la gráfica lo sanos que están los bebés
+- Las niñas y los niños de 3 a 9 años, darán rienda suelta a su imaginación con el conjunto de barbie pediatra
 - Regalo óptimo para niñas y niños de más de 3 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XD6F2ZK/?tag=tolees-21)
