@@ -27,14 +27,14 @@ Ahora mismo tienes [LEGO Friends Heartlake City Friends Parque Acuático Fun Se
 
 🔎:
 
-- Set de juego de gran tamaño que puede hacerse incluso añadiendo otros bricks LEGO
-- Unas instrucciones claras guiarán a las pequeñas constructoras por los diferentes pasos del proceso de construcción.
-- Los bricks de los kits de construcción LEGO se conectan óptimamente y se separan con facilidad una y otra vez
-- Este set repleto de funciones garantiza horas de juego de interpretación y mucha diversión
-- Con 1001 piezas, este set es un modelo gratificante para niñas a partir de 8 años
-- Este sorprendente juguete satisface los requisitos de las normas de seguridad y calidad más exigentes
 - No necesita pilas: ¡este divertido juguete de verano se alimenta de la creatividad de las niñas!
 - El divertido juguete de verano incluye 4 minipersonajes construibles y una figura de un flamenco
+- Set de juego de gran tamaño que puede hacerse incluso añadiendo otros bricks LEGO
+- Este set repleto de funciones garantiza horas de juego de interpretación y mucha diversión
+- Unas instrucciones claras guiarán a las pequeñas constructoras por los diferentes pasos del proceso de construcción.
+- Con 1001 piezas, este set es un modelo gratificante para niñas a partir de 8 años
+- Los bricks de los kits de construcción LEGO se conectan óptimamente y se separan con facilidad una y otra vez
+- Este sorprendente juguete satisface los requisitos de las normas de seguridad y calidad más exigentes
 - Anima a tu peque para que experimente la diversión creativa de la mano de las chicas de LEGO Friends
 - Los toboganes, un cañón de agua y una cubeta de juguete inspiran una animada narrativa basada en un parque acuático
 
