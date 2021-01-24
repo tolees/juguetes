@@ -27,14 +27,14 @@ Tienes [Lego Disney Princess 43172 Palacio mágico de hielo de Elsa  Juguete par
 
 ℹ️:
 
-- Interpreta las escenas de Frozen y Frozen Fever, de Disney.
-- Este precioso set contiene un palacio con puente deslizante y escalera giratoria, balcón translúcido, cocina con mesa y sillas, y sala de música con atril y partitura, además de un parque de juegos al aire libre con fuerte de nieve y subibaja.
-- Incluye minipersonajes LEGO l Disney Frozen de Elsa y Anna, así como a Olaf, Merengue y 4 minifiguras de Nevaditos.
-- El Palacio Mágico de Hielo de Elsa mide más de 31 cm de altura, 30 cm de ancho y 19 cm de profundidad.
-- El parque de juegos con el fuerte de nieve mide más de 6 cm de altura, 20 cm de ancho y 4 cm de profundidad.
 - Diviértete construyendo este enorme palacio de hielo con funciones especiales para dejar volar la imaginación y sentir la magia.
-- El trineo con carruajes mide más de 12 cm de longitud y 3 cm de ancho.
+- Este precioso set contiene un palacio con puente deslizante y escalera giratoria, balcón translúcido, cocina con mesa y sillas, y sala de música con atril y partitura, además de un parque de juegos al aire libre con fuerte de nieve y subibaja.
+- Interpreta las escenas de Frozen y Frozen Fever, de Disney.
+- El parque de juegos con el fuerte de nieve mide más de 6 cm de altura, 20 cm de ancho y 4 cm de profundidad.
 - El divertido juguete infantil incluye también un trineo con 3 carruajes para pasarlo genial en la nieve.
+- Incluye minipersonajes LEGO l Disney Frozen de Elsa y Anna, así como a Olaf, Merengue y 4 minifiguras de Nevaditos.
+- El trineo con carruajes mide más de 12 cm de longitud y 3 cm de ancho.
+- El Palacio Mágico de Hielo de Elsa mide más de 31 cm de altura, 30 cm de ancho y 19 cm de profundidad.
 - Accesorios incluidos: una tetera, unas gafas, un pastel, una zanahoria, chocolate, una partitura, un espejo y una alfombra.
 - Crea nuevas aventuras en compañía de algunos de tus personajes favoritos de Frozen con este divertido regalo navideño.
 
