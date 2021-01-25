@@ -27,9 +27,9 @@ Ahora mismo tienes [FR-TEC - Rick and Morty Portals Switch Funda Rígida de Tran
 
 🔎:
 
-- Protege tu consola y tus accesorios de golpes
 - Espacios independientes para tu consola y sus accesorios
-- Materiales de gran calidad
 - Con espacio para juegos
+- Materiales de gran calidad
+- Protege tu consola y tus accesorios de golpes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZFZ3KV7/?tag=tolees-21)
