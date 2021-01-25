@@ -27,10 +27,10 @@ Tienes [Devir - Machi Koro Legacy  BGMKLSP ](https://www.amazon.es/dp/B085WMPZYD
 
 ℹ️:
 
+- Numero de jugadores 2-4
+- Una campaña rápida, jugable en diez sesiones
 - Elementos compensadores entre partidas para que todos los jugadores tengan posibilidades hasta el final
 - El primer juego legacy de categoría familiar, apto para todos los públicos
 - Tiempo de juego 30-45 minutos
-- Una campaña rápida, jugable en diez sesiones
-- Numero de jugadores 2-4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085WMPZYD/?tag=tolees-21)
