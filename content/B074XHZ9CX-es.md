@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGEARS Date Navigator - Set de Construcc al 24.57 % de rebaja'
-date: 2021-01-25 01:59:36
+date: 2021-01-25 01:59:46
 image: 'https://m.media-amazon.com/images/I/41+VjLmIPSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,7 +27,7 @@ Tienes [UGEARS Date Navigator - Set de Construcción de Madera - Calendario perp
 
 🔎:
 
-- Estimated time of assembly: 1 hour
 - Number of components: 24
+- Estimated time of assembly: 1 hour
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074XHZ9CX/?tag=tolees-21)

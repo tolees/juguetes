@@ -27,10 +27,10 @@ Ahora mismo tienes [SuperZings - Serie 5 - Display de 50 Figuras Coleccionables 
 
 🔎:
 
-- Descubre las s aventuras que puedes organizar gracias a éstos s personajes
-- Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos; estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
-- Cada sobre individual contiene una figura de SuperZings Serie 5 y un folleto con la lista de personajes
 - Pack de 50 sobres individuales de SuperZings Serie 5
 - Encuentra las figuras plateadas, doradas y el escurridizo Kid Fury, para no parar de crear s historias
+- Cada sobre individual contiene una figura de SuperZings Serie 5 y un folleto con la lista de personajes
+- Descubre las s aventuras que puedes organizar gracias a éstos s personajes
+- Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos; estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZPLR7L2/?tag=tolees-21)
