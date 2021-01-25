@@ -27,9 +27,9 @@ Ahora mismo tienes [yoptote Juguetes Montessori Puzzles Infantiles Juegos Educat
 
 🔎:
 
-- 🐘JUGUETES EDUCATIVOS: Los niños y ninas pueden reproduzca el dibujo que contiene cada tarjeta.También puedes creando ellos mismos sus propias figuras,despertar la creatividad.
-- 🐘JUEGO FAMILIA: Desde puzzle simples hasta puzzle complejos,Apto para que todos los miembros de la familia se unan al rompecabezas.Gran regalo para niños y niñas.
 - 🐘COLORES AGRADABLES: Varios colores brillantes, formas interesantes de piezas de madera,que puede ayudar a los niños a desarrollar su la memoria visual de color y forma.
+- 🐘JUEGO FAMILIA: Desde puzzle simples hasta puzzle complejos,Apto para que todos los miembros de la familia se unan al rompecabezas.Gran regalo para niños y niñas.
+- 🐘JUGUETES EDUCATIVOS: Los niños y ninas pueden reproduzca el dibujo que contiene cada tarjeta.También puedes creando ellos mismos sus propias figuras,despertar la creatividad.
 - 🐘CAJITAS METALICAS: El puzzles infantiles educativos y la tarjeta guía se almacenan en la caja de metal.Fácil de transportar,Genial para viajes,ir al colegio,etc.
 - 🐘CONTENIDO: 50 tarjeta de guía con palabras inglés, La tarjeta es de doble cara y tiene un total de 100 esquemas de animales. 36 piezas montessori puzzle de madera, doble cara de la tarjeta guía tienen patrones diferentes.
 
