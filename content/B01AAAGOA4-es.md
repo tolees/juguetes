@@ -27,10 +27,10 @@ Tienes [Hori - Funda Rígida  Nintendo Switch ](https://www.amazon.es/dp/B01AAAG
 
 🔎:
 
-- Exterior rígido y resistente a impactos con acabado textil, interior acolchado
-- Separador interno acolchado para proteger la pantalla y almacenar los cartuchos de juego
-- Licencia oficial de Nintendo
-- Bolsillo de malla para cables, auriculares, etc.
 - Espacio para 1 consola Switch, 10 cartuchos de juego y accesorios varios
+- Bolsillo de malla para cables, auriculares, etc.
+- Licencia oficial de Nintendo
+- Separador interno acolchado para proteger la pantalla y almacenar los cartuchos de juego
+- Exterior rígido y resistente a impactos con acabado textil, interior acolchado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01AAAGOA4/?tag=tolees-21)
