@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'HORI - Battle Pad Mario  Nintendo Switch con un 16.01 % de descuento'
-date: 2021-01-07 08:50:13
+date: 2021-01-25 21:18:38
 image: 'https://m.media-amazon.com/images/I/51+e5-qwoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AD478IY-es'
+slug: 'B01AD478IY-es HORI - Battle Pad Mario Nintendo Switch'
+sku: 'B01AD478IY-es'
+tags: [ 'nintendo', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AD478IY/?tag=tolees-21'
 descuento: '16.01'
-average: '18.305'
+average: '17.52'
 ---
 
 En este momento está [HORI - Battle Pad Mario  Nintendo Switch ](https://www.amazon.es/dp/B01AD478IY/?tag=tolees-21) a 15.95 EUR (original: 18.99 EUR) (16.01 %  de descuento) en el siguiente enlace!
@@ -26,9 +28,9 @@ En este momento está [HORI - Battle Pad Mario  Nintendo Switch ](https://www.am
 🔎:
 
 - Botones L y R de corto recorrido
-- Licencia oficial de Nintendo
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Integración perfecta con Super Smash Bros.
 - Réplica del mando original para GameCube
+- Integración perfecta con Super Smash Bros.
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Licencia oficial de Nintendo
 
-[Aquí!!!](https://www.amazon.es/dp/B01AD478IY/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B01AD478IY/?tag=tolees-21)
