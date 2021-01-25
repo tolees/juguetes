@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YIONESHOP - Adaptador convertidor de AV  al 40.60 % de rebaja'
-date: 2021-01-24 04:03:47
+date: 2021-01-25 10:21:34
 image: 'https://m.media-amazon.com/images/I/41RxZae2KsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08SW9S4QD/?tag=tolees-21'
 descuento: '40.60'
-average: '12.18'
+average: '11.88'
 ---
 
 Tienes [YIONESHOP - Adaptador convertidor de AV a HDMI  Mini CVBS RCA 1080P Convertidor de Audio y Video Compuesto AV a HDMI  Compatible con PAL / NTSC para TV / PS3 / PS2 / STB / Xbox VHS / VCR / DVD Blue-Ray Players](https://www.amazon.es/dp/B08SW9S4QD/?tag=tolees-21) con precio final de  11.28 EUR (original: 18.99 EUR) (40.60 %  de rebaja) aqui!
