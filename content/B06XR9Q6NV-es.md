@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Devir FanHunter Urban Warfare  Juego de  al 47.43 % de descuento'
-date: 2021-01-20 15:07:39
+date: 2021-01-25 08:25:39
 image: 'https://m.media-amazon.com/images/I/615Gv+8+huL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B06XR9Q6NV-es Devir FanHunter Urban Warfare Juego de Mesa Miscelanea BGFHUW'
+sku: 'B06XR9Q6NV-es'
 tags: [ 'devir', ]
 actualPrice: 36.8 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XR9Q6NV/?tag=tolees-21'
 descuento: '47.43'
-average: '39.82363636363636'
+average: '39.3584615384616'
 ---
 
 Está [Devir FanHunter Urban Warfare  Juego de Mesa  Miscelanea  BGFHUW ](https://www.amazon.es/dp/B06XR9Q6NV/?tag=tolees-21) con 47.43 de descuento por 36.8 EUR (original: 70.0 EUR) en el siguiente enlace!
@@ -27,9 +28,9 @@ Está [Devir FanHunter Urban Warfare  Juego de Mesa  Miscelanea  BGFHUW ](https:
 ℹ️:
 
 - Duración aproximada de la partida: 45 minutos
-- Número de jugadores: 2
-- Tipo de producto: juego de mesa
-- Edad recomendada: 14 años y más
 - Juego adecuado para pasar el tiempo libre
+- Número de jugadores: 2
+- Edad recomendada: 14 años y más
+- Tipo de producto: juego de mesa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XR9Q6NV/?tag=tolees-21)
