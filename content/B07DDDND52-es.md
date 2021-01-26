@@ -27,10 +27,10 @@ Ahora mismo tienes [los Barriguitas - Party Truck  Famosa 700014514 ](https://ww
 
 🔎:
 
-- Incluye 2 muñecas (barriguitas + bebé) y un cajón en la parte delantera para guardarlo todo. Sus medidas estando abierto el juguete son de 29 cm de ancho, 22 cm de largo y 12cm de profundidad
-- Hay muchos globos y accesorios; snacks, dulces, cupcakes y muchos regalos para pasar horas de diversión
-- En la parte trasera podrás colocar una mesa y sillas para celebrar todo tipo de fiestas
 - El party truck es el lugar donde las barriguitas celebran sus fiestas, de una manera moderna y divertida
 - Es una bonita caravana que cuando se abre el lateral se convierte en una heladería por un lado y en un restaurante de comida rápida por el otro
+- En la parte trasera podrás colocar una mesa y sillas para celebrar todo tipo de fiestas
+- Hay muchos globos y accesorios; snacks, dulces, cupcakes y muchos regalos para pasar horas de diversión
+- Incluye 2 muñecas (barriguitas + bebé) y un cajón en la parte delantera para guardarlo todo. Sus medidas estando abierto el juguete son de 29 cm de ancho, 22 cm de largo y 12cm de profundidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDDND52/?tag=tolees-21)
