@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'LEGO Classic - Caja de ladrillos Creativ con un 16.67 % de descuento'
-date: 2021-01-17 17:48:42
+date: 2021-01-26 05:48:36
 image: 'https://m.media-amazon.com/images/I/51I7tDbzWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NVDP3ZU-es'
+slug: 'B00NVDP3ZU-es LEGO Classic - Caja de ladrillos Creativos Set de...'
+sku: 'B00NVDP3ZU-es'
+tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NVDP3ZU/?tag=tolees-21'
 descuento: '16.67'
-average: '29.613295454545455'
+average: '30.2748958333334'
 ---
 
 En este momento está [LEGO Classic - Caja de ladrillos Creativos  Set de Construcción con ladrillos de colores  10696 ](https://www.amazon.es/dp/B00NVDP3ZU/?tag=tolees-21) a 24.99 EUR (original: 29.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
@@ -25,15 +27,15 @@ En este momento está [LEGO Classic - Caja de ladrillos Creativos  Set de Constr
 
 🔎:
 
-- Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
-- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
 - Ideas incluidas con el set y disponibles en LEGO.com/classic para ayudarte a dar tus primeros pasos.
-- Piezas especiales incluidas: base verde de 8 cm x 16 cm, una ventana con marco y 3 pares de ojos.
-- La base verde mide más de 8 cm de longitud y 16 cm de ancho.
+- Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
 - Contiene 18 neumáticos y 18 llantas.
 - Viene en una útil caja de almacenamiento de plástico.
-- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
+- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
 - Las piezas especiales fomentan la construcción imaginativa.
 - Las numerosas ruedas facilitan la creación de vehículos y el juego con los mismos.
+- Incluye un amplio surtido de ladrillos LEGO en 35 colores diferentes.
+- Piezas especiales incluidas: base verde de 8 cm x 16 cm, una ventana con marco y 3 pares de ojos.
+- La base verde mide más de 8 cm de longitud y 16 cm de ancho.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00NVDP3ZU/?tag=tolees-21)
