@@ -27,10 +27,10 @@ Ahora mismo tienes [Candy Locks Pack de dos Muñecas Modelos Surtidos  BIZAK 619
 
 🔎:
 
-- Cada juego de muñecas temáticas tiene sus propio olor
-- Fácil personalización con accesorios dobles para llevar y compartir
-- Podrás crear trenzas, rizos, moños e incluso colas de caballo
 - Muñeca con forma de cono de algodón de azúcar
+- Fácil personalización con accesorios dobles para llevar y compartir
 - El pelo es super suave, largo y perfumado
+- Podrás crear trenzas, rizos, moños e incluso colas de caballo
+- Cada juego de muñecas temáticas tiene sus propio olor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TL2QYST/?tag=tolees-21)
