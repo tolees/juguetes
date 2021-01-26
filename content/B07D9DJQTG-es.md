@@ -27,10 +27,10 @@ Tienes [Juegos Bizak Desafio Everest  BIZAK 35001919 ](https://www.amazon.es/dp/
 
 🔎:
 
-- La aventura de conquistar la cima del mundo
-- Pon a prueba tus técnicas de escalada
 - Es un juego clásico de estrategia
+- Pon a prueba tus técnicas de escalada
 - Hay que ser preciso, habilidoso y saber seleccionar bien los puntos de apoyo y la vía a seguir porque tu contrincante está ascendiendo por el otro lado y te puede tirar
+- La aventura de conquistar la cima del mundo
 - Desafío everest es un juego de estrategia y acción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D9DJQTG/?tag=tolees-21)

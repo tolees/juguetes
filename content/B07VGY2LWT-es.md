@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Joy-Con  set Izda/Dcha  Morado  al 24.45 % de descuento'
-date: 2021-01-23 22:33:11
+date: 2021-01-26 17:31:27
 image: 'https://m.media-amazon.com/images/I/413mwPM76ZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VGY2LWT/?tag=tolees-21'
 descuento: '24.45'
-average: '74.4856818181818'
+average: '74.2032608695652'
 ---
 
 Ahora mismo tienes [Nintendo Joy-Con  set Izda/Dcha  Morado Neón/Naranja Neón](https://www.amazon.es/dp/B07VGY2LWT/?tag=tolees-21) a 67.99 EUR (original: 89.99 EUR) (24.45 %  de descuento) en el siguiente enlace!
