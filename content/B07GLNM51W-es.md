@@ -27,10 +27,10 @@ Está [Hot Wheels City Global Nemesis TV  Dinosaurio Triceratops y lanzador de c
 
 ℹ️:
 
-- ​Children simply load a Hot Wheels car into the launcher and slam into the Triceratops to try and take him down
-- ​Includes a huge Triceratops dino on Hot Wheels City Main Street, a slam launcher shaped like a truck with orange track, a Hot Wheels car and one dramatic takedown moment
+- ​If the launch wasnt strong enough, the Triceratops charges towards the car destroying Main Street
 - ​Kids are challenged to develop the skill and power to knock the Triceratops off balance and make it land with a thump; resetting is simple with just a push of the city street
 - ​Kids can put their skills to the test against the massive dino with multiple diecast cars for amped up storytelling and skill-based play
-- ​If the launch wasnt strong enough, the Triceratops charges towards the car destroying Main Street
+- ​Children simply load a Hot Wheels car into the launcher and slam into the Triceratops to try and take him down
+- ​Includes a huge Triceratops dino on Hot Wheels City Main Street, a slam launcher shaped like a truck with orange track, a Hot Wheels car and one dramatic takedown moment
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GLNM51W/?tag=tolees-21)

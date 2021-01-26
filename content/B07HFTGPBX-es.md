@@ -29,8 +29,8 @@ Ahora mismo tienes [Barbie Quiero Ser Dentista muñeca con muñeca bebé y acces
 
 - Barbie está lista para examinar a su paciente luciendo un vestido azul de flores, una bata blanca y unos zapatos. ​
 - A la muñeca de la niña paciente, que está preciosa con un vestido de margaritas, ¡le falta un diente! ​
-- Los accesorios adicionales, como un cepillo de dientes, unas gafas y un molde de dientes, sirven de inspiración para contar historias y hacer juegos de imitación. ​
-- Sueña a lo grande y triunfa con las muñecas y juguetes profesionales de Barbie: ¡las niñas se divertirán jugando con la dentista Barbie y su conjunto de juego que viene con la muñeca de una niña paciente, una silla, un lavabo y accesorios de dentista! ​
 - La silla de dentista hará las delicias de los pacientes con sus divertidos colores, mientras que el lavabo de «última generación» incluye una genial lámpara y una pantalla. ​
+- Sueña a lo grande y triunfa con las muñecas y juguetes profesionales de Barbie: ¡las niñas se divertirán jugando con la dentista Barbie y su conjunto de juego que viene con la muñeca de una niña paciente, una silla, un lavabo y accesorios de dentista! ​
+- Los accesorios adicionales, como un cepillo de dientes, unas gafas y un molde de dientes, sirven de inspiración para contar historias y hacer juegos de imitación. ​
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HFTGPBX/?tag=tolees-21)
