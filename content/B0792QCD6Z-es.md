@@ -27,10 +27,10 @@ Está [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Galaxias
 
 ℹ️:
 
-- Rotate the lifter arms for landing and flying modes
-- Features rotating pylons with movable lifting hooks, an opening minifigure cockpit, side-mounted stud shooters and a platform underneath for carrying minifigures
-- Load the container, hook it up and lift it away
 - Includes a buildable, opening cargo container with lifting beam
+- Load the container, hook it up and lift it away
+- Rotate the lifter arms for landing and flying modes
 - Includes five LEGO minifigures: Qi’ra, Val, Rio Durant and two of Dryden’s guards
+- Features rotating pylons with movable lifting hooks, an opening minifigure cockpit, side-mounted stud shooters and a platform underneath for carrying minifigures
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
