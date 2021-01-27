@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5318 - Casa del árb al 21.15 % de descuento'
-date: 2021-01-26 00:59:54
+date: 2021-01-27 01:19:09
 image: 'https://m.media-amazon.com/images/I/51KcSpsWeHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCYBCQ1/?tag=tolees-21'
 descuento: '21.15'
-average: '15.075785123967'
+average: '15.0355284552846'
 ---
 
 Está [Sylvanian Families - 5318 - Casa del árbol para bebés](https://www.amazon.es/dp/B07DCYBCQ1/?tag=tolees-21) con 21.15 de descuento por 12.6 EUR (original: 15.98 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Sylvanian Families - 5318 - Casa del árbol para bebés](https://www.amaz
 ℹ️:
 
 - Es un set de juegos de aventura infantil en la casa del árbol
-- Incluye la casa del árbol, hamaca, tobogán, columpio, una mesa con reposapiés
 - Viene con una figura de ardilla de nogal
+- Incluye la casa del árbol, hamaca, tobogán, columpio, una mesa con reposapiés
 - Es apto para niños a partir de 3 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DCYBCQ1/?tag=tolees-21)
