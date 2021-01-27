@@ -27,10 +27,10 @@ En este momento está [Docooler Mando Inalámbrico para PS4 Wireless Bluetooth G
 
 🔎:
 
-- 【Accesorio perfecto】Características con 2 balancines, botón de compartir, panel táctil, barra de luz LED, conector para auriculares estéreo de 3.5 mm.
-- 【Gran Compatibilidad 】Compatible con PS4 y PC con sistema Win7 / 8/10, conexión inalámbrica y por cable para elegir.
-- 【Cargue Eficientemente & Diseño Ergonomico】El agarre elegante, aerodinámico y texturizado y un diseño de forma única mejoran la sensación de comodidad en el mango.Cuando la batería del controlador del juego se agota, se puede recargar mientras se juega.
 - 【Batería de larga duración】La batería recargable de gran capacidad incorporada garantiza aproximadamente 10 horas de tiempo de trabajo.
+- 【Gran Compatibilidad 】Compatible con PS4 y PC con sistema Win7 / 8/10, conexión inalámbrica y por cable para elegir.
 - 【Experiencia De Juego Más Realista】Admite vibración de doble motor, con una iluminación LED genial, que brinda a los jugadores una experiencia más real.
+- 【Accesorio perfecto】Características con 2 balancines, botón de compartir, panel táctil, barra de luz LED, conector para auriculares estéreo de 3.5 mm.
+- 【Cargue Eficientemente & Diseño Ergonomico】El agarre elegante, aerodinámico y texturizado y un diseño de forma única mejoran la sensación de comodidad en el mango.Cuando la batería del controlador del juego se agota, se puede recargar mientras se juega.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QF9Y3M3/?tag=tolees-21)
