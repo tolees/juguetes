@@ -28,7 +28,7 @@ En este momento está [Nintendo - Pokémon Escudo + Pase de Expansión](https://
 🔎:
 
 - Uniforme Pikachu
-- Uniforme Eevee
 - 100 PokéBalls
+- Uniforme Eevee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KHPFLSK/?tag=tolees-21)
