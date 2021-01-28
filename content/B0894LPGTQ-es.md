@@ -29,8 +29,8 @@ Tienes [Grupo Erik Botella de Agua Acero Inoxidable con mosquetón Monopoly  500
 
 - Tiene una capacidad de 500 ml y un tamaño de 25x7 cm, perfecta para llevarla a donde quieras
 - Refrescate mientras paseas por las dintintas calles del famoso Monopoly
-- Fabricada con acero inoxidable 304 de alta calidad resistente a la oxidación, tanto por fuera como por dentro, se desinfecta mucho más rápido; libre de BPA, no contiene partículas de este compuesto orgánico y es isotérmica mantiene, las bebidas calientes hasta 12 horas y frías hasta 24 horas
 - Erik - Especializados en papelería, merchandising y pósters con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
+- Fabricada con acero inoxidable 304 de alta calidad resistente a la oxidación, tanto por fuera como por dentro, se desinfecta mucho más rápido; libre de BPA, no contiene partículas de este compuesto orgánico y es isotérmica mantiene, las bebidas calientes hasta 12 horas y frías hasta 24 horas
 - Práctica, moderna y reutilizable. Viene con mosquetón incluido para que te la puedas colgar de manera segura mientras haces deporte o cualquier otra actividad. Te acompañará al gimnasio, a la universidad, a la oficina o al colegio manteniendo tu bebida siempre en perfecto estado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0894LPGTQ/?tag=tolees-21)
