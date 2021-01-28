@@ -27,10 +27,10 @@ Tienes [Hot Wheels Track Builder Accesorios para Pistas de Coches Salto Largo  M
 
 🔎:
 
-- Un componente innovador para añadirlo a conjuntos existentes o usarlo por sí solo. Incluye un coche hot wheels a escala 1:64
-- Track builder ofrece posibilidades ilimitadas para experimentar construyendo, haciendo acrobacias e impulsando, con 7 packs diferentes de componentes de lo más divertidos
-- Los niños pueden realizar acrobacias por las pistas con los conectores cruzados y añadir grandes desafíos a sus propias construcciones; la rampa es "conmutable" para poder recorrer la pista sin hacer la acrobacia
-- Dales el regalo de las grandes ideas. Ideal para niños a partir de 6 años
 - Se conecta a otros conjuntos y packs (se venden por separado) para construir circuitos originales y acrobáticos
+- Track builder ofrece posibilidades ilimitadas para experimentar construyendo, haciendo acrobacias e impulsando, con 7 packs diferentes de componentes de lo más divertidos
+- Dales el regalo de las grandes ideas. Ideal para niños a partir de 6 años
+- Los niños pueden realizar acrobacias por las pistas con los conectores cruzados y añadir grandes desafíos a sus propias construcciones; la rampa es "conmutable" para poder recorrer la pista sin hacer la acrobacia
+- Un componente innovador para añadirlo a conjuntos existentes o usarlo por sí solo. Incluye un coche hot wheels a escala 1:64
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XH4QBKS/?tag=tolees-21)

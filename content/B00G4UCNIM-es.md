@@ -27,10 +27,10 @@ Tienes [Venom - Twin Rechargeable Battery Packs Con Cubiertas  Color Negro  Xbox
 
 🔎:
 
-- 2.5 hour charge = 18 hours of gameplay
-- Play your Xbox One whilst charging
-- Long 2 metre USB charge cable with a 1 metre split
 - LED charge indicator
+- 2.5 hour charge = 18 hours of gameplay
+- Long 2 metre USB charge cable with a 1 metre split
+- Play your Xbox One whilst charging
 - 2x 700mah Battery Packs
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00G4UCNIM/?tag=tolees-21)
