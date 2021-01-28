@@ -27,10 +27,10 @@ En este momento está [SuperThings - Power Machine - Blíster 10 Figuras  Contie
 
 🔎:
 
-- Ahora más que nunca, ¡el poder de los SuperThings ésta en sus manos!
 - Contiene: 9 SuperThings y 1 SuperThing dorado
 - Los SuperThings son objetos cotidianos transformados en superhéroes y supervillanos. Cada SuperThing tiene su rival: busca las parejas rivales ¡y forma tus Superequipos!
 - Con este blíster conseguirás 10 figuras diferentes, y te aseguras de que una sea dorada (héroe o villano)
 - ¿Quieres comenzar o ampliar tu colección de SuperThings Power Machines rápidamente?
+- Ahora más que nunca, ¡el poder de los SuperThings ésta en sus manos!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NCBRZBY/?tag=tolees-21)

@@ -27,9 +27,9 @@ En este momento está [Crazy pawn - Juego de Cartas Death Note: Enfrentamiento](
 
 🔎:
 
-- Juega como L o Kira
 - Para 2 jugadores
-- Totalmente en castellano
 - Duracion de partida: 30 min
+- Totalmente en castellano
+- Juega como L o Kira
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MWBX2J3/?tag=tolees-21)
