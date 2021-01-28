@@ -27,10 +27,10 @@ Ahora mismo tienes [ATOYX Mini Drone  RC Drone 2.4G 4 Canales 6-Axis Gyro  Quadc
 
 🔎:
 
-- ✪ Estabilización de Altitud✪: Este drone mini está con el modo de altitude hold, suelta solamente la palanca del acelerador, puedes bloquear con precisión la altura y la ubicación, desplazarte establemente, haciendo que la experiencia muy fácil y conveniente, especial regalo para niños y principiantes
-- ✪ Operación Simple✪: Este drone juguete tiene 3 modos de velocidad (Bajo 30%, Medio 60%, Alto 100%). Además, hay 3 modos de iluminación (Rojo, Azul, Morado).
-- ✪ Gran Servicio Postventa✪: Gran calidad y variadad en las ofertas de ATOYX, incluyen drone profesional y drones baratos. Desponible en varias modelos y llevan los accesorios necesarios. Cuentan con una garantía de 12 meses, si no les gusta o presentan algún defecto, se le devolverá el dinero o se le remplazará el producto (Puede ponerse en contacto con nuestros servicios para resolver los problemas)
 - ✪ Modo Sin Cabeza✪: El drone infantil puede activar el modo sin cabeza al comienzo del vuelo, no es necesario que distinguir la dirección del drone y puede controlarlo fácilmente. La sensor luz LED de indicador permite volar en la oscuridad de la noche
+- ✪ Estabilización de Altitud✪: Este drone mini está con el modo de altitude hold, suelta solamente la palanca del acelerador, puedes bloquear con precisión la altura y la ubicación, desplazarte establemente, haciendo que la experiencia muy fácil y conveniente, especial regalo para niños y principiantes
 - ✪ Larga Vida y Seguridad✪: El RC drone tiene gran estabilidad, facilidad de control, 2.4 G de tecnología de control remoto con 4 canales y el 6-axis gyro que ser muy seguro para niños, adultos. Y el drone trae un cargados USB que necesita 30-50 minutos para cargar completa, el máximo tiempo de vuelo puede alcanzar hasta 6 - 8 minutos
+- ✪ Gran Servicio Postventa✪: Gran calidad y variadad en las ofertas de ATOYX, incluyen drone profesional y drones baratos. Desponible en varias modelos y llevan los accesorios necesarios. Cuentan con una garantía de 12 meses, si no les gusta o presentan algún defecto, se le devolverá el dinero o se le remplazará el producto (Puede ponerse en contacto con nuestros servicios para resolver los problemas)
+- ✪ Operación Simple✪: Este drone juguete tiene 3 modos de velocidad (Bajo 30%, Medio 60%, Alto 100%). Además, hay 3 modos de iluminación (Rojo, Azul, Morado).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DLR72DQ/?tag=tolees-21)
