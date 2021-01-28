@@ -27,10 +27,10 @@ En este momento está [FR-TEC - Volante con Pedales y Cambio Manual Suzuka Elite
 
 🔎:
 
-- Pedales de aluminio plegables
-- Incluye ventosas y pinza de sujección para una estabilidad y sujeción perfecta
-- Cambio de marchas manual
 - Totalmente programable
+- Cambio de marchas manual
+- Pedales de aluminio plegables
 - Compatible con: PC, PS4, PS3, XBOX ONE, XBOX 360, SWITCH
+- Incluye ventosas y pinza de sujección para una estabilidad y sujeción perfecta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BXHCXLT/?tag=tolees-21)
