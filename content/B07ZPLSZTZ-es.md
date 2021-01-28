@@ -27,10 +27,10 @@ Ahora mismo tienes [SuperZings - Serie 5 - Display de 24 Aerowagons  PSZ5D824IN0
 
 🔎:
 
+- Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos. Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 - Conecta los Aerowagons a los vehículos Skyracers y comienza tu aventura ¡Bienvenido a Kaboom City!
+- Descubre las nuevas aventuras que puedes organizar gracias a éstos nuevos personajes y nuevos vehículos. Incluye 1 SuperZing y 1 Aerowagon
 - Pack de 24 sobres individuales de Aerowagons con un figura. La nueva colección de SuperZings Serie 5 incluye 4 Aerowagons, cada uno en 2 colores diferentes.
 - Aprieta a la vez los enganches delantero y trasero, ¡y despliega sus alas! Además, puedes unirlos y crear tu propio tren para transportar tus SuperZings y librar increíbles batallas en el aire.
-- Descubre las nuevas aventuras que puedes organizar gracias a éstos nuevos personajes y nuevos vehículos. Incluye 1 SuperZing y 1 Aerowagon
-- Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos. Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZPLSZTZ/?tag=tolees-21)
