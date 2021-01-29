@@ -27,9 +27,9 @@ Está [Sylvanian Families - 5318 - Casa del árbol para bebés](https://www.amaz
 
 ℹ️:
 
-- Es apto para niños a partir de 3 años
-- Incluye la casa del árbol, hamaca, tobogán, columpio, una mesa con reposapiés
-- Viene con una figura de ardilla de nogal
 - Es un set de juegos de aventura infantil en la casa del árbol
+- Viene con una figura de ardilla de nogal
+- Incluye la casa del árbol, hamaca, tobogán, columpio, una mesa con reposapiés
+- Es apto para niños a partir de 3 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DCYBCQ1/?tag=tolees-21)
