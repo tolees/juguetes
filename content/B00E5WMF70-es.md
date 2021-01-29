@@ -29,8 +29,8 @@ Tienes [Mattel Games Scrabble original en català  joc de taula  Mattel Y9595 ](
 
 - Incluye un tablero de juego de Scrabble, cien fichas con letras, cuatro atriles, una bolsa para las fichas y las instrucciones de juego
 - La puntuación de las palabras se calcula en función del valor de cada letra y de las posibles casillas con premio del tablero
+- El objetivo del juego es conseguir las máximas puntuaciones deletreando palabras cruzadas sobre un tablero Para empezar, cada jugador coge siete fichas al azar
 - Scrabble es el clásico juego de palabras para divertirse deletreando
 - Scrabble no es solo un juego, también sirve para mejorar el vocabulario descubriendo palabras nuevas en cada partida
-- El objetivo del juego es conseguir las máximas puntuaciones deletreando palabras cruzadas sobre un tablero Para empezar, cada jugador coge siete fichas al azar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00E5WMF70/?tag=tolees-21)
