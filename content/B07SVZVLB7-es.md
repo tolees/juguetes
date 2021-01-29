@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Time Warner - LEGO Star Wars: La Saga Sk al 20.07 % de descuento'
-date: 2021-01-28 07:27:44
+date: 2021-01-29 19:14:21
 image: 'https://m.media-amazon.com/images/I/41XQHNen6JL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SVZVLB7/?tag=tolees-21'
 descuento: '20.07'
-average: '49.108'
+average: '48.7685714285714'
 ---
 
 Ahora mismo tienes [Time Warner - LEGO Star Wars: La Saga Skywalker](https://www.amazon.es/dp/B07SVZVLB7/?tag=tolees-21) a 47.92 EUR (original: 59.95 EUR) (20.07 %  de descuento) en el siguiente enlace!
