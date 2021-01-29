@@ -27,8 +27,8 @@ Está [Warner Bros Interactive Spain - Lego Dimensions - DC Bane](https://www.am
 
 ℹ️:
 
-- LEGO Number 71240
 - Fun Pack
+- LEGO Number 71240
 - Bane
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Y2W1DNA/?tag=tolees-21)
