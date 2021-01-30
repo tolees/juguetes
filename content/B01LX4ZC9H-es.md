@@ -28,8 +28,8 @@ Tienes [CAZAFANTASMAS Spengler and Ghost Playset de Figuras de Juguete  Multicol
 🔎:
 
 - Contiene 18 piezas
+- Las figuras de los fantasmas se iluminan cuando las luces se apagan
 - Figura de fantasma que brilla en la oscuridad
 - Desarrolla la imaginación y la creatividad
-- Las figuras de los fantasmas se iluminan cuando las luces se apagan
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LX4ZC9H/?tag=tolees-21)
