@@ -27,10 +27,10 @@ Está [Nintendo Casquette Manette NES Métal Visera  Multicolor  Multicolor Mult
 
 ℹ️:
 
+- con controlador de metal NES en el frente, logo en el lateral
+- perno de presión ajustable
+- Con licencia oficial de Nintendo Snapback Cap
 - Color negro, rojo
 - calidad duradera y duradera
-- Con licencia oficial de Nintendo Snapback Cap
-- perno de presión ajustable
-- con controlador de metal NES en el frente, logo en el lateral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0741C6KMB/?tag=tolees-21)
