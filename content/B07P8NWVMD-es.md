@@ -30,7 +30,7 @@ En este momento está [Playmobil - Dollhouse Playset Fiesta de Cumpleaños Infan
 
 - Incluye figuras y varios accesorios
 - Desarrolla la imaginación y la creatividad
-- Para descansar, el columpio está disponible
 - El payaso y la cuerda son divertidos en la fiesta de cumpleaños
+- Para descansar, el columpio está disponible
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P8NWVMD/?tag=tolees-21)
