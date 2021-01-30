@@ -28,11 +28,11 @@ Tienes [ThrustMaster TS-XW Racer Sparco P310 Competition Mod - Volante De Carrer
 
 🔎:
 
-- Funciona en Xbox Series X
-- El TS-XW Racer es una réplica a escala 1:1 del volante Sparco P310 Competition, que tiene licencia oficial para Xbox One y Windows (PC)
-- El volante emplea Force Feedback mediante un potente servomotor brushless de 40 vatios con sistema de refrigeración Motor Cooling Embedded (pendiente de patente), para lograr un rendimiento constante incluso con un uso intensivo durante las competiciones más largas
-- Los pedales del volante son metálicos, grandes, sólidos y ajustables, con estructura interna 100% de metal; también incluye un innovador Conical Rubber Brake Mod
 - El volante incorpora un sistema dual de correa-polea, además de un eje montado sobre cojinetes metálicos para obtener un rendimiento muy fluido
+- El volante emplea Force Feedback mediante un potente servomotor brushless de 40 vatios con sistema de refrigeración Motor Cooling Embedded (pendiente de patente), para lograr un rendimiento constante incluso con un uso intensivo durante las competiciones más largas
+- El TS-XW Racer es una réplica a escala 1:1 del volante Sparco P310 Competition, que tiene licencia oficial para Xbox One y Windows (PC)
+- Funciona en Xbox Series X
 - El TS-XW Racer incorpora una fuente de alimentación Turbo Power con forma toroidal y diseño sin aletas, que logra una eficiencia energética optimizada del 86% (en comparación con el 65% de las fuentes de alimentación estándar con aletas)
+- Los pedales del volante son metálicos, grandes, sólidos y ajustables, con estructura interna 100% de metal; también incluye un innovador Conical Rubber Brake Mod
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074ZRWTSQ/?tag=tolees-21)
