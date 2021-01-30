@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Rolimate Juego de Pesca Magnética de Madera Juego de apilamiento 4 en 1 Montessori Juguetes magnéticos y clasificador de Cuentas Juguetes Motricidad Fina Juguete Cumpleaños 2 3 4+años Niño Niña Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZP5Q73F/?tag=tolees-21'
 descuento: '22.87'
 average: '21.59'

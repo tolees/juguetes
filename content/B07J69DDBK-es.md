@@ -16,6 +16,7 @@ comparePrice: 32.05 EUR
 prodname: 'LEGO Marvel Super Heroes - Batalla contra Molten Man  Juguete de Construcción de la Película Spider-Man Lejos de Casa  Incluye Minifigura de Mysterio  76128 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J69DDBK/?tag=tolees-21'
 descuento: '37.60'
 average: '22.535844155844156'

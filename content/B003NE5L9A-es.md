@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Ladrillo de almacenamiento Lego 8 espàrragos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NE5L9A/?tag=tolees-21'
 descuento: '18.92'
 average: '29.99'

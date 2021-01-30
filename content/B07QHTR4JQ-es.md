@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Botella de Agua de Acero Inoxidable Botella Termica 500ml  Botella Sin Bpa & Eco Friendly  Mantiene Bebidas frías por 24h y Calientes por 12h  Adecuada para Viaje  Deporte  Bicicleta  Gimnasio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QHTR4JQ/?tag=tolees-21'
 descuento: '27.29'
 average: '15.99'

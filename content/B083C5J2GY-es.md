@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Dragon Ball Z - Peluche Freezer  15 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083C5J2GY/?tag=tolees-21'
 descuento: '22.88'
 average: '11.56'

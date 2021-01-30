@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'los Barriguitas Playset casita  Famosa 700012701 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AIFU2RW/?tag=tolees-21'
 descuento: '48.10'
 average: '12.95'

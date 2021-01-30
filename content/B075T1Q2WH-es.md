@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'LEGO Friends Heartlake - Casa de la Amistad  Juguete de Construcción de Casa de Muñecas con Olivia  Emma  Andrea para Juegos Creativos  41340 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075T1Q2WH/?tag=tolees-21'
 descuento: '26.26'
 average: '58.634'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cinturón de Correr Chuangmeida Riñonera Cinturón Running Deportiva Belt Bolsa impermeable para corredor orificio para auriculares para andar en bicicleta  viajar para iPhone Samsung Smartphones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H55Y8KB/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

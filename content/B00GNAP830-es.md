@@ -16,6 +16,7 @@ comparePrice: 35.96 EUR
 prodname: 'VTech Baby 150503 - Cubo educativo para girar y aprender  multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GNAP830/?tag=tolees-21'
 descuento: '25.81'
 average: '26.68'

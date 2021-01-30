@@ -16,6 +16,7 @@ comparePrice: 35.89 EUR
 prodname: 'BRIO- Juego Primera Edad  33593 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00AOVXCG4/?tag=tolees-21'
 descuento: '17.78'
 average: '29.51'

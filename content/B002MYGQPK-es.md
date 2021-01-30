@@ -16,6 +16,7 @@ comparePrice: 17.05 EUR
 prodname: 'Mona Lisa Puzzle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002MYGQPK/?tag=tolees-21'
 descuento: '48.97'
 average: '8.7'

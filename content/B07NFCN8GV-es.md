@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'The Bellies - Ropita divertida  disfraz reversible Angelito y Demonio  Famosa 700015207 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NFCN8GV/?tag=tolees-21'
 descuento: '33.18'
 average: '9.99'

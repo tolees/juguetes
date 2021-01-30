@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Nancy - Princesa De Las Hadas  Famosa 700014266 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDCPX4P/?tag=tolees-21'
 descuento: '49.96'
 average: '39.83166666666667'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'LEGO Ninjago - Portador De Tormentas  Dragón de Juguete para Construir  70652 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765CTSK1/?tag=tolees-21'
 descuento: '25.32'
 average: '39.903333333333336'

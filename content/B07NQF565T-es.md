@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Polly Pocket - Maletín del 30 aniversario Partytime Surprise  muñeca con accesorios  Mattel GJJ51 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQF565T/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

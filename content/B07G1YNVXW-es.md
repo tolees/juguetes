@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Nerf- Microshots Strongarm SE1  Multicolor  Hasbro E0719ES0    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1YNVXW/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

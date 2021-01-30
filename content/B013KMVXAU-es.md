@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Top Trumps Juego de cartas Marvel Avengers Infinity War para hombre Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013KMVXAU/?tag=tolees-21'
 descuento: '48.94'
 average: '6.88'

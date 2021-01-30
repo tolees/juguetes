@@ -16,6 +16,7 @@ comparePrice: 14.05 EUR
 prodname: 'Clementoni - Juegos de lectura  55310 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKQLPNJ/?tag=tolees-21'
 descuento: '29.18'
 average: '9.95'

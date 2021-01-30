@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Duplo Town - Camión de Bomberos  Juguete de construcción de Aventura de Salvamento  10901 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNTSDD6/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

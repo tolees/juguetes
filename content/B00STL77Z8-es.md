@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Hasbro - Cocodrilo sacamuelas  Juego de Habilidad  B04081750   versión española / Portuguesa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00STL77Z8/?tag=tolees-21'
 descuento: '15.87'
 average: '19.37'

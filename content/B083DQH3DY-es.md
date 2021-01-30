@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Addmos Juguetes de baño  2 x Juguetes de baño para bebés con Spray de Agua con música y luz Juguetes para niños pequeños Amarillo y Rosa  un par '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083DQH3DY/?tag=tolees-21'
 descuento: '33.48'
 average: '19.95'

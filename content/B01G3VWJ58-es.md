@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LEGO - Starter Pack Dimensions  PS3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G3VWJ58/?tag=tolees-21'
 descuento: '28.36'
 average: '49.626666666666665'

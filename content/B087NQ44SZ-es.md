@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Coolle- Juego de Bolas múltiples texturizadas | Bola táctil para bebés | Juguetes de baño de Bolas | Bolas sensoriales para bebés de 6 Meses o más con Colores Brillantes y chirridos  Paquete de 8'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087NQ44SZ/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

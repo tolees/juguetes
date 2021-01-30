@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Cleo & Cuquin - Muñeco Cuquín  Vamos A La Cama  Mattel GNB43 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD714NT/?tag=tolees-21'
 descuento: '45.11'
 average: '29.452'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Enchantimals - Muñeca Tanzie Tiger -  Mattel FRH39 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PKDQV1/?tag=tolees-21'
 descuento: '33.63'
 average: '6.63'

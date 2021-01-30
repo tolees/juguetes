@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'Peppa Pig 06059 vehículo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D0VWP8A/?tag=tolees-21'
 descuento: '20.61'
 average: '18.18'

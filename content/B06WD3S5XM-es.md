@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'LEGO Ninjago - Jet del Rayo  Juguete de Construcción Ninja  Incluye Nave y MiniFiguras  70614 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WD3S5XM/?tag=tolees-21'
 descuento: '15.43'
 average: '57.883333333333326'

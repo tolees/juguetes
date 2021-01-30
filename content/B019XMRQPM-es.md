@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Fajiabao Puzzles de Madera Magnético Dibujo Placa Rompecabezas Pizarra con Caja para Niños de 3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019XMRQPM/?tag=tolees-21'
 descuento: '53.35'
 average: '13.79'

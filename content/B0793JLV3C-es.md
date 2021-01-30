@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Educa Borras - Genuine Puzzles  Puzzle 500 piezas  Cachorros en el equipaje  17645 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793JLV3C/?tag=tolees-21'
 descuento: '19.70'
 average: '7.99'

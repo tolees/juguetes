@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'SKYSPER Ciclismo Maillot Hombres Pantalones Cortos Culote de Ciclismo Ropa Maillot Transpirable para Deportes al Aire Libre Ciclo Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC4RMCC/?tag=tolees-21'
 descuento: '60.62'
 average: '25.99'

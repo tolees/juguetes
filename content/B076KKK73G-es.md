@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'ROXENDA Velocidad Paquete  Cubo Mágico Puzzle Pack-2x2x2 3x3x3  Super-Durable Vivos  Fácil de Tornear y Liso Jugar  Color 2x2&3x3 Set Speed Cube 23'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KKK73G/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

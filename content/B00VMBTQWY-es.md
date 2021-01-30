@@ -16,6 +16,7 @@ comparePrice: 50.6 EUR
 prodname: 'Maxxis Ardent Race ETB96742300  Neumático de bicicleta  Negro  29 x 2.20'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VMBTQWY/?tag=tolees-21'
 descuento: '34.80'
 average: '32.182'

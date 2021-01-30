@@ -16,6 +16,7 @@ comparePrice: 23.66 EUR
 prodname: 'SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y Accesorios  Color Assorted Colours  Epoch para Imaginar 5052 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRE050/?tag=tolees-21'
 descuento: '48.56'
 average: '12.17'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Letras Magneticas Niños Pizarra Magnética Infantil 90 Piezas Tablero Magnético de Dibujo de Madera de Doble Cara Rompecabezas Juguetes Educativos para Niños  Número y Letra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9TTSMV/?tag=tolees-21'
 descuento: '15.01'
 average: '16.4775'

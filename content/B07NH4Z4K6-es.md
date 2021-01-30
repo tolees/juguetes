@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Wrebbit 3D- Castillo Puzzle 3D Juego de Tronos Invernalia  Multicolor  W3D-2018 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NH4Z4K6/?tag=tolees-21'
 descuento: '35.15'
 average: '27.145555555555553'

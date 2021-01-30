@@ -16,6 +16,7 @@ comparePrice: 8.84 EUR
 prodname: 'Toyvian Juego de niños con férula de Agua 2pcs Juguetes intelectuales para niños Juguete Divertido del Juego del Anillo del Lazo del Agua  Color al Azar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PB2XJK8/?tag=tolees-21'
 descuento: '43.55'
 average: '4.99'

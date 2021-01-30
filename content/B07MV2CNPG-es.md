@@ -16,6 +16,7 @@ comparePrice: 23.69 EUR
 prodname: 'Potato Head - Potato Train  Hasbro E5853EU5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV2CNPG/?tag=tolees-21'
 descuento: '20.56'
 average: '18.82'

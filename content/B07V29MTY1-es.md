@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'YuMe - Peluche Hermione 15 cm  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V29MTY1/?tag=tolees-21'
 descuento: '61.28'
 average: '6.95'

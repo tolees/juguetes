@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Nerf - Lanzadardos Mega Mastodon  Hasbro B8086EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CZYOFAY/?tag=tolees-21'
 descuento: '26.66'
 average: '78.22'

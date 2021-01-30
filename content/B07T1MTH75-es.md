@@ -16,6 +16,7 @@ comparePrice: 29.79 EUR
 prodname: 'AUNMAS Rompecabezas de Madera Modelo 3D Calendario perpetuo Kits de Modelos mecánicos para niños Adultos DIY Construcción Home Desk Decoration'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1MTH75/?tag=tolees-21'
 descuento: '41.62'
 average: '17.39'

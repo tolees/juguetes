@@ -16,6 +16,7 @@ comparePrice: 15.55 EUR
 prodname: 'Bizak Artist - Estudio Aqua Crystals  63370001 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD7WPKJ/?tag=tolees-21'
 descuento: '17.88'
 average: '12.77'

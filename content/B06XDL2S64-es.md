@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Hanazuki Pulsera de emociones interactiva  Hasbro B8256EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDL2S64/?tag=tolees-21'
 descuento: '69.50'
 average: '5.8975'

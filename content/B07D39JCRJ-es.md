@@ -16,6 +16,7 @@ comparePrice: 10.59 EUR
 prodname: 'Zerodis Linda CogniciónPuzzle Tarjetas En caja de almacenamiento de metal  Números/Letras/Formas/Animales Juguetes de aprendizaje temprano para niños pequeños 0-6 años de edad regalo #2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D39JCRJ/?tag=tolees-21'
 descuento: '20.77'
 average: '8.39'

@@ -16,6 +16,7 @@ comparePrice: 12.52 EUR
 prodname: 'Disney Frozen - Muñeco Olaf cantarín  Mattel CJW68 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O0RPSIS/?tag=tolees-21'
 descuento: '60.06'
 average: '5.0'

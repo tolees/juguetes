@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mordedor bebes Baby Teething Toys Juguetes de dentición para bebés  conjunto de mordedores de silicona natural de silicona suave  5 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077ZSJTG6/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Fivejoy Juguetes de Construcción  Bloques de Construccion  Construcción Educativos - Aprendizaje Juegos Creativa  Aviones  Animales  Automóvil  Robot ect...   Juegos Regalo  Niños y Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MX4YJ7F/?tag=tolees-21'
 descuento: '45.96'
 average: '19.99'

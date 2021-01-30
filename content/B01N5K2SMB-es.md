@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Geomag- Classic Color Construcciones magnéticas y juegos educativos  Multicolor  127 piezas  264    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5K2SMB/?tag=tolees-21'
 descuento: '35.06'
 average: '60.8725'

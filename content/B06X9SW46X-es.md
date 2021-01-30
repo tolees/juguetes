@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'SYLVANIAN FAMILIES- Ballerina Friends Mini Muñecas Y Accesorios  Multicolor  Epoch para Imaginar 5257 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9SW46X/?tag=tolees-21'
 descuento: '26.27'
 average: '16.349999999999998'

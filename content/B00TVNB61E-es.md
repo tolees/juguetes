@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Clementoni - Puzzle 13.200 Piezas New York  38009 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TVNB61E/?tag=tolees-21'
 descuento: '49.25'
 average: '48.16'

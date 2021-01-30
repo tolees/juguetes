@@ -16,6 +16,7 @@ comparePrice: 22.2 EUR
 prodname: 'Famosa- Pinypon Cabeza sorpresa con 1 muñeca  Multicolor  700014756    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDDKJK4/?tag=tolees-21'
 descuento: '41.49'
 average: '12.762553191489362'

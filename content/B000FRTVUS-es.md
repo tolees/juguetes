@@ -16,6 +16,7 @@ comparePrice: 42.61 EUR
 prodname: 'Theo Klein-8686 Bosch banco de trabajo en maletín con herramientas y ixolino  juguete  multicolor  Miscelanea  8686 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000FRTVUS/?tag=tolees-21'
 descuento: '15.07'
 average: '36.19'

@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Moxilyn Ropa de Ciclismo para Hombre Traje de Bicicleta Conjunto de Verano Top + Bib Shorts Acolchados  Almohadilla de Asiento de Gel 9D para Montar En Bicicleta Conjunto Cómodo y De Secado Rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXGRMDC/?tag=tolees-21'
 descuento: '15.39'
 average: '31.49'

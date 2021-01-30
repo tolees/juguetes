@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'SportPlus SP-ET-9600-iE Bicicleta Elíptica con Aplicación para Smartphone  24 Niveles de Resistencia  Sensores de Pulso Manual  Peso del Usuario 150 kg  120x62x160cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NACZMXJ/?tag=tolees-21'
 descuento: '25.00'
 average: '449.99'

@@ -16,6 +16,7 @@ comparePrice: 15.2 EUR
 prodname: 'Pinypon by PINY PINY - Muñeca Michelle en clase de diseño  Famosa 700014143 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0725QLZ9D/?tag=tolees-21'
 descuento: '41.12'
 average: '8.9'

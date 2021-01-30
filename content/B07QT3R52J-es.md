@@ -16,6 +16,7 @@ comparePrice: 18.56 EUR
 prodname: 'Nerf Overwatch MicroShots: Torbjorn  clásico bláster en microformato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QT3R52J/?tag=tolees-21'
 descuento: '27.48'
 average: '13.46'

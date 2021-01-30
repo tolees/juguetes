@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'VTech- TutTut Animals Arca de Animales Juguete Interactivo con luz y Voz Que enseña el Clima  Colores e Incluye más de 50 melodías  Canciones y Frases  3480-504522 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071P9BKLD/?tag=tolees-21'
 descuento: '35.51'
 average: '22.232000000000003'

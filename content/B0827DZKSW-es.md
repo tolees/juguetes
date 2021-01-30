@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'HellDoler Juguetes de Baño  Huevo Flotante con Spray de Agua para Niños Pequeños  Juguete para Bañera'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0827DZKSW/?tag=tolees-21'
 descuento: '55.59'
 average: '7.99'

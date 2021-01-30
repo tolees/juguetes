@@ -16,6 +16,7 @@ comparePrice: 40.37 EUR
 prodname: 'Transformers C2028EU50 - Peluche de evolución'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0723GJQRP/?tag=tolees-21'
 descuento: '30.64'
 average: '28.0'

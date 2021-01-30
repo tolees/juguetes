@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Friends - Entrenamiento de fútbol de Stephanie  41330 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075T1Y7TH/?tag=tolees-21'
 descuento: '35.62'
 average: '11.5'

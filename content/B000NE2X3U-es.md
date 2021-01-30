@@ -16,6 +16,7 @@ comparePrice: 19.15 EUR
 prodname: 'TRIXIE Poste Rascador Para Gatos - Arbol Para Gatos Sisal Natural Juguetes Gato'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000NE2X3U/?tag=tolees-21'
 descuento: '16.50'
 average: '15.363333333333335'

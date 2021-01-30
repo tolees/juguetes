@@ -16,6 +16,7 @@ comparePrice: 13.72 EUR
 prodname: 'Opas Schuppen. Puzzle 1000 Teile'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0751PL3YP/?tag=tolees-21'
 descuento: '27.48'
 average: '9.95'

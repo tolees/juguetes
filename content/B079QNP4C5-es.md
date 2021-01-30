@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'MEGA- Carrito Encajabloques Juguete de Bloques de Constr  Multicolor  Talla única  Mattel FVJ48 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QNP4C5/?tag=tolees-21'
 descuento: '17.77'
 average: '32.07'

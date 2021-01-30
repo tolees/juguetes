@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'PITAYA Juguetes de Halloween Suministros para Juguetes de Fiesta de Halloween  Bolsa de Regalo de Juguete de Halloween Trick or Treat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XJTRZXZ/?tag=tolees-21'
 descuento: '46.35'
 average: '5.36'

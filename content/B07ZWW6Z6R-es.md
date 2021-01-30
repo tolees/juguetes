@@ -16,6 +16,7 @@ comparePrice: 28.59 EUR
 prodname: 'KollyKolla Botella de Agua Acero Inoxidable  Termo Sin BPA Ecológica  Botellas Termica Reutilizable Frascos Térmicos para Niños & Adultos  Deporte  Oficina   650ml Violeta Claro + Barbie Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZWW6Z6R/?tag=tolees-21'
 descuento: '33.58'
 average: '19.79'

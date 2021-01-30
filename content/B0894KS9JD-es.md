@@ -16,6 +16,7 @@ comparePrice: 31.89 EUR
 prodname: 'jerryvon Dinosaurios Camion Juguetes Figura Dinosaurio Juguete Camion Transportador de Coches Vehículo Deformación Juguetes Educativos Regalos para Niños Niñas 3 4 5 6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894KS9JD/?tag=tolees-21'
 descuento: '31.36'
 average: '21.89'

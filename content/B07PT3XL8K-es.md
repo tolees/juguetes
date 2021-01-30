@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Muñeco Peluche Unicornio con Manta Bebé Estrellas  UNICORNIO NATURAL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PT3XL8K/?tag=tolees-21'
 descuento: '40.08'
 average: '14.95'

@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Kriogor Coche RC  Coche Controlado por Radio Stunt Coche Teledirigido Anfibio Coche de Control Remoto Doble Lado Rotación de 360 Grados de Alta Velocidad Controlremoto 2.4GHz para Niños/Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W131BMK/?tag=tolees-21'
 descuento: '17.65'
 average: '41.99'

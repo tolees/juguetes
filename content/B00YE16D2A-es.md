@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Disney Infinity 3.0 - Figura Miedo  Del Revés '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YE16D2A/?tag=tolees-21'
 descuento: '31.02'
 average: '7.213333333333334'

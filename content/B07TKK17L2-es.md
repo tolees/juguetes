@@ -16,6 +16,7 @@ comparePrice: 27.77 EUR
 prodname: 'Bolsas de malla reutilizables TopBine  12 unidades  lavables  transparentes  livianas  para frutas  verduras  juguetes  comestibles y supermercados  3 pequeñas  6 medianas y 3 grandes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKK17L2/?tag=tolees-21'
 descuento: '42.71'
 average: '15.940000000000001'

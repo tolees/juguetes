@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'BelleStyle Puzzle Bebe  Puzzles de Madera Educativos para Bebé  Montessori Juguetes  Aprendizaje Temprano Educativo Bloque de Madera Rompecabezas de Juguete Niños 1 Año 2 3 4 5 Regalo - 3 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYJ7FSY/?tag=tolees-21'
 descuento: '43.35'
 average: '16.99'

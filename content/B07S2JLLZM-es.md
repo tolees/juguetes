@@ -16,6 +16,7 @@ comparePrice: 23.73 EUR
 prodname: 'INvench Juguetes de baño para bebés Shark - Blue Shark con Dientes Que muerden la acción Incluye 4 Juguetes de baño de Peces de Juguete para niños niñas niños pequeños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2JLLZM/?tag=tolees-21'
 descuento: '36.83'
 average: '14.275714285714285'

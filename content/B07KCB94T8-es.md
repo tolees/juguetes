@@ -16,6 +16,7 @@ comparePrice: 37.57 EUR
 prodname: 'HERSITY Maletín Maquillaje Juguetes de Peluqueria Belleza y Joyería Juego de rol para Niños Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCB94T8/?tag=tolees-21'
 descuento: '52.38'
 average: '17.89'

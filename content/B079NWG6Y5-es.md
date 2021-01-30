@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Nerf- Lanzador Firestrike  Color azul  Hasbro 53378EU6    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079NWG6Y5/?tag=tolees-21'
 descuento: '15.40'
 average: '11.342500000000001'

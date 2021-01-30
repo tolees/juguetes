@@ -16,6 +16,7 @@ comparePrice: 17.77 EUR
 prodname: 'Clementoni 39802 – Puzzle tríptico DM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZRZDZ7/?tag=tolees-21'
 descuento: '21.50'
 average: '13.95'

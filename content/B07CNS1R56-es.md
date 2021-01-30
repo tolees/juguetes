@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Hot Wheels- Dino Challenge Circuito Slot  Multicolor  Fábrica de Juguetes 91008 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNS1R56/?tag=tolees-21'
 descuento: '29.96'
 average: '41.99'

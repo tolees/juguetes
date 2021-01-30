@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Duplo Disney - Fiesta de cumpleaños de Minnie  10873 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765BD1WZ/?tag=tolees-21'
 descuento: '20.01'
 average: '16.99'

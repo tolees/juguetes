@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'MaxTronic Coche RC 4x4 Radiocontrol 1:18 Juguete de Control Remoto 2.4Ghz 4WD RC Buggy Race Crawler'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8PRCH6/?tag=tolees-21'
 descuento: '28.34'
 average: '42.99'

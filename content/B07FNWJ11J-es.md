@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DUPLO My first - Mi Primer Camión Grúa  Juguete de Construcción Educativo de 1 a 2 Años  10883 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNWJ11J/?tag=tolees-21'
 descuento: '20.02'
 average: '8.717272727272727'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Barbie Fashionista Muñeca cuerpo Curvy  look  Future is bright   Mattel FJF58    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079K9Y1GM/?tag=tolees-21'
 descuento: '49.96'
 average: '6.5'

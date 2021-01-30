@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Pedales Bicicleta  Pedals Impermeable 9/16 Pulgadas con Sellado Antideslizante Durable para Bicicleta de Montaña BMX Universal Bike Bike Trekking Bike  negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DYPB1H8/?tag=tolees-21'
 descuento: '61.13'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'SkullCap® Casco Bicicleta para Hombre o Mujer  Casco para Bicicleta montaña MTB  Casco Bici Adulto  tamaño L  59-61 cm   Color: Casco en Blanco Negro Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2VM3QG/?tag=tolees-21'
 descuento: '28.61'
 average: '49.9'

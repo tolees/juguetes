@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Promise Babe Cuentas de Silicona Dentición del Bebé Enfermería Accesorios Pulsera de Madera Anillo Montessori Juguetes Bebé Ducha Regalo casa Juguetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JM2YGKK/?tag=tolees-21'
 descuento: '30.10'
 average: '13.98'

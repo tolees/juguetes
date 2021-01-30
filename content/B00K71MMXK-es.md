@@ -16,6 +16,7 @@ comparePrice: 27.74 EUR
 prodname: 'VTech 155403 - Peque ordenador educativo  multicolor  versión inglesa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K71MMXK/?tag=tolees-21'
 descuento: '17.84'
 average: '22.79'

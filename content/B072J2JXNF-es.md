@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Super Things 3 x Premium multifunción Bandana | Pañuelo con Calavera de Esqueleto Máscaras para Moto Bicicleta Esquí Paintball Gamer Carnaval Disfraz …green/white/red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072J2JXNF/?tag=tolees-21'
 descuento: '40.14'
 average: '7.985000000000001'

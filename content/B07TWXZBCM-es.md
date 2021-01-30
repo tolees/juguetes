@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Mobi Lock Adaptador Válvula Presta a Schrader con Junto Tórica para Inflar los Neumáticos de la Bicicleta con un Inflador o Compresor de Aire  Latón Dorado  Set de 5 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TWXZBCM/?tag=tolees-21'
 descuento: '50.05'
 average: '4.99'

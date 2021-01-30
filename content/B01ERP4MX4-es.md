@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'BH Fitness Atlantic Dual Bicicleta elíptica Unisex para Adulto  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ERP4MX4/?tag=tolees-21'
 descuento: '40.83'
 average: '384.0'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pokemon Pack de 3 Figuras de Combate Modelos Surtidos  BIZAK 63227221 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDWH679/?tag=tolees-21'
 descuento: '27.26'
 average: '14.54'

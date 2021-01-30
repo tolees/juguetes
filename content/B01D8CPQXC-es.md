@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Shimano CN-HG701-11 - Cadena para bicicleta Estrecha 11 velocidades XT tegra 116  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01D8CPQXC/?tag=tolees-21'
 descuento: '18.01'
 average: '27.990000000000002'

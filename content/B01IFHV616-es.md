@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Star Wars - Juego de Habilidad Operación  Hasbro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IFHV616/?tag=tolees-21'
 descuento: '28.57'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Pinypon Action - Pack de 2 Figuritas Superhéroe y Futbolista  Famosa 700014492 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDBY3D8/?tag=tolees-21'
 descuento: '44.25'
 average: '7.602222222222222'

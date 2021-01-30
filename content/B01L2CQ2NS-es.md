@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GoPro Floaty - Flotador para GoPro Hero  Color Naranja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L2CQ2NS/?tag=tolees-21'
 descuento: '57.19'
 average: '12.84'

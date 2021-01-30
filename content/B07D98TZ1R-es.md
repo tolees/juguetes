@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Hot Wheels- Cobra Speed Circuito Slot  Color único  Fábrica de Juguetes 91009 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D98TZ1R/?tag=tolees-21'
 descuento: '29.96'
 average: '48.976000000000006'

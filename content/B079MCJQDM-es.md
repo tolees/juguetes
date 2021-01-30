@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'Hasbro Gaming- Disney Desafio Musical  E1872105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MCJQDM/?tag=tolees-21'
 descuento: '27.72'
 average: '9.75'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Rolimate Bebé Juguete de Dibujos Animados Animales Rellenos sonajeros Colgantes Juguetes  Bebé Cama Cuna Asiento de Coche Cochecito de Viaje Peluches con Campanas de vientorecién Nacidos 0 a 18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CNR7F2/?tag=tolees-21'
 descuento: '15.01'
 average: '18.49'

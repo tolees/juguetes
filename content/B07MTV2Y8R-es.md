@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Top Wing - Brody Y Su Coche  Hasbro E5316ES2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MTV2Y8R/?tag=tolees-21'
 descuento: '17.51'
 average: '15.889999999999999'

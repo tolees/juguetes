@@ -16,6 +16,7 @@ comparePrice: 68.21 EUR
 prodname: 'Fisher-Price - Cuna De Viaje 2 En 1 Para Bebé  Multicolor  FWX16'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0767CFMYL/?tag=tolees-21'
 descuento: '29.64'
 average: '47.99'

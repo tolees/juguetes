@@ -16,6 +16,7 @@ comparePrice: 9.62 EUR
 prodname: 'Schmidt Spiele 59365 - Mark Gray  Río Canning - Australia Occidental  clásico Puzzle  136 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0133QNV4E/?tag=tolees-21'
 descuento: '32.12'
 average: '6.53'

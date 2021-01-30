@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Moma Bikes Bicicleta Montaña  HIT 26"  SHIMANO 21V  Doble Freno Disco  Full Suspension'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VXE0OYY/?tag=tolees-21'
 descuento: '42.89'
 average: '199.9'

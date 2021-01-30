@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Clementoni- Romantic Promenade In Puzzle 500 pzas Collection Paris  35014.8 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010VBDYP0/?tag=tolees-21'
 descuento: '39.90'
 average: '5.95'

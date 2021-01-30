@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'MEGA Brands - Mesa Preescolar 3 en 1  Mattel CNM42 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TZZQKXW/?tag=tolees-21'
 descuento: '19.15'
 average: '33.95'

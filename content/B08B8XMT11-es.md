@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Riviax - Pelota Anti Estrés Suave [6 Pack] Bolas con Diseños de Dibujos Animados Multicolor - Pequeños Juguetes de Regalo para Niños y Adultos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B8XMT11/?tag=tolees-21'
 descuento: '33.36'
 average: '7.99'

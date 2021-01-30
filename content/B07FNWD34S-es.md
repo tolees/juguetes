@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEGO Creator - Transporte de la Lanzadera  Juguete de construcción 3 en 1 con nave espacial  se convierte en caravana  31091    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNWD34S/?tag=tolees-21'
 descuento: '25.01'
 average: '19.151666666666664'

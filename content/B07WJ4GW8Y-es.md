@@ -16,6 +16,7 @@ comparePrice: 37.2 EUR
 prodname: 'COOLJOY 118 Piezas Puzzles de Madera Magnético  Pizarra Magnética Rompecabezas para Niños 3 4 5 Año ect  Pizarra Magnética Rompecabezas  Tablero de Dibujo de Doble Cara Juguete Educativo（Dinosaurios）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJ4GW8Y/?tag=tolees-21'
 descuento: '54.33'
 average: '16.49'

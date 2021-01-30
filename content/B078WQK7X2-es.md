@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Little Live Pets- Perrito Travieso con transportín  Famosa 700014380 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WQK7X2/?tag=tolees-21'
 descuento: '31.55'
 average: '20.5'

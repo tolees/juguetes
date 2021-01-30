@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'cesto juguetes infantil KAKOO cesto juguetes almacenaje de cesto plegable ropa sucia del material impermeable para guardarlo juguetes en habitación o baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IJA4BNE/?tag=tolees-21'
 descuento: '58.36'
 average: '9.99'

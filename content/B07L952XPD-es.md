@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'SONARIN Lindo Príncipe Alfombras de juego Gimnasio de Actividades Baby Play Mat & Activity Gym con música juguetes para Actividades cama pequeña Colorido e interactivo Ideal Regalo Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L952XPD/?tag=tolees-21'
 descuento: '54.01'
 average: '45.99'

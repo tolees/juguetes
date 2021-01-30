@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Akokie Dinosaurios Juguetes Puzzle Juegos de Construccion con Taladro Construcciones Regalo para Niños 3 4 5 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSGCW2H/?tag=tolees-21'
 descuento: '25.66'
 average: '14.86'

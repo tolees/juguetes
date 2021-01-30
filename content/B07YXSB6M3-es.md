@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: '324 Piezas Pokemon Cartas  Juego de Cartas  Tarjetas de Pokemon  36 Piezas GX Cartas  Sun & Moon Series y TeamUp Series'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXSB6M3/?tag=tolees-21'
 descuento: '48.17'
 average: '13.99'

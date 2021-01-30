@@ -16,6 +16,7 @@ comparePrice: 74.94 EUR
 prodname: 'Disney Traditions  Figura de Pumba  Timón y Simba de "El Rey León"  para coleccionar'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07T5JVX63/?tag=tolees-21'
 descuento: '44.98'
 average: '41.23'
@@ -27,10 +28,10 @@ En este momento está [Disney Traditions  Figura de Pumba  Timón y Simba de "El
 
 🔎:
 
+- Diseñado por Jim Shore
 - Figura de Disney
 - Patrones inspirados en arte popular con colores llamativos
-- Caja de regalo de la marca
 - Hecho y pintado a mano
-- Diseñado por Jim Shore
+- Caja de regalo de la marca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T5JVX63/?tag=tolees-21)

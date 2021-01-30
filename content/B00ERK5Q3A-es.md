@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Hot Wheels Shifters Vehículos de colección Color Shifter  coches juguetes  multicolor  Mattel BHR15 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ERK5Q3A/?tag=tolees-21'
 descuento: '16.69'
 average: '5.323333333333333'

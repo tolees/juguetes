@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Educa Borrás dibujos animados y cómic Puzzle 1.000 piezas  Tigres blancos de Bengala  37.1 x 27.2 x 5.6 14808'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EPXNS8/?tag=tolees-21'
 descuento: '30.58'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 12.41 EUR
 prodname: 'El Hombre Araña de Marvel minijuego de memoria de Ravensburger   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NAWU228/?tag=tolees-21'
 descuento: '25.38'
 average: '8.826666666666666'

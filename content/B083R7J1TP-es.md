@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'EKKONG Juguete Hierba Gatera Juguete Interactivo  Simulación de Peces de Peluche Juguetes  Catnip Fish Toys  Juguete Electrico Automático para Gatos Gatito  Type D '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083R7J1TP/?tag=tolees-21'
 descuento: '31.60'
 average: '12.99'

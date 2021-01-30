@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: 'MQIAOHAM juego de enclavamiento juego de bebé tapetes para niños tapetes para niños foammats playmats estera del rompecabezas bebé 18 piezas niños tapete tapete tapete Frutaverde 115'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088RCY49G/?tag=tolees-21'
 descuento: '49.33'
 average: '28.665'

@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Pinypon - Figurita Serie 8  pack B  Famosa 700014103 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792GRXRZ/?tag=tolees-21'
 descuento: '37.34'
 average: '2.5'

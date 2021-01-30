@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'SKYSPER Pantalones Largos de Ciclismo para Hombre Pantalones de Ciclismo Culote Bicicleta Hombre Deportivos Ropa 3D Gel Silicona Acolchado Transpirable sin Tirante para Bicicleta Montaña MTB'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z4YLGC6/?tag=tolees-21'
 descuento: '24.01'
 average: '21.99'

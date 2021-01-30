@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Flotador para Bebé Bestway Swim Safe Baby Seat'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H1F2RUS/?tag=tolees-21'
 descuento: '50.85'
 average: '7.2011111111111115'

@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Clementoni - Puzzle de 500 Piezas  diseño Juntos  30289.5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CCJ0C4/?tag=tolees-21'
 descuento: '39.90'
 average: '5.95'

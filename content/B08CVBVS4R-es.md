@@ -16,6 +16,7 @@ comparePrice: 14.15 EUR
 prodname: 'Molyflower Hipopótamo Hambriento Que traga mármoles Juguetes educativos interactivos Educación temprana Juego competitivo Doble Juego de mármol para niños: Colorido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVBVS4R/?tag=tolees-21'
 descuento: '34.98'
 average: '9.2'

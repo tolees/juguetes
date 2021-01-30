@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Shimmer And Shine - Peluche Alfombra mágica Shine  de 30 cm  Giochi Preziosi HMH09110 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z2V3CH/?tag=tolees-21'
 descuento: '51.67'
 average: '11.55'

@@ -16,6 +16,7 @@ comparePrice: 12.84 EUR
 prodname: 'Michelin Dynamic Sport  700X28 - Cubierta de bicicleta  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0063HNAHY/?tag=tolees-21'
 descuento: '26.79'
 average: '9.350000000000001'

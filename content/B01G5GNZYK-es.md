@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni-39370 Minions Los Pingüinos De Madagascar Puzzle 1000 Piezas  New York  39370 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G5GNZYK/?tag=tolees-21'
 descuento: '22.87'
 average: '9.493333333333334'

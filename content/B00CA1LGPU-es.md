@@ -16,6 +16,7 @@ comparePrice: 104.84 EUR
 prodname: 'WeeRide 86459 Bicicleta Remolque Copilot  Unisex  Rosa  M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CA1LGPU/?tag=tolees-21'
 descuento: '17.87'
 average: '93.23666666666666'

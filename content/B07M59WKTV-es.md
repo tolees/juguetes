@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Avengers- Titan Hero Movie Thor  Multicolor  Hasbro E3921ES0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M59WKTV/?tag=tolees-21'
 descuento: '28.55'
 average: '12.14'

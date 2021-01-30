@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Juguetes Educativos Niño 3 4 5 6 Años- Bloques de Construcción Puzzle Rompecabezas Juegos de Construccion DIY Coches de Juguetes Montessori 3D Creativo Educativo Regalos 234 PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WRYDLYT/?tag=tolees-21'
 descuento: '48.77'
 average: '18.95'

@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Avengers- Marvel Legends Figura Iron Man  Multicolor  Hasbro B7434EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BP6GEHA/?tag=tolees-21'
 descuento: '61.66'
 average: '34.910000000000004'

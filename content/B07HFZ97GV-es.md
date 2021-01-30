@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Funda para Bicicleta Impermeable  Massway Cubierta Bicicleta Exterior 190T Nylón Anti Polvo Resistente al Agua a Prueba de UV 200x 75x110cm  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFZ97GV/?tag=tolees-21'
 descuento: '23.82'
 average: '15.99'

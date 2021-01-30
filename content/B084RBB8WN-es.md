@@ -16,6 +16,7 @@ comparePrice: 10.4 EUR
 prodname: 'Winning Moves Puzzle Harry Potter House Crest 500 Piezas  WM00369-ML1-6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RBB8WN/?tag=tolees-21'
 descuento: '17.69'
 average: '8.56'

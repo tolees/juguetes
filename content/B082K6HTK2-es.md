@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Soft M Edical Expander Silicone Purple Set 6 Juguetes En Cualquier Lugar Que Desee Ḅùtt AṈḁl Plùg Vibrḁdôr Vibrḁdôr Pḁrḁ Mùjêrêṧ Pḁrêjḁ PriṈcipiḁṈtêṧ Hômbrêṧ Gḁy Vidriô IṈflḁblê SilicôṈḁ Côlḁ Jùgùêtê'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082K6HTK2/?tag=tolees-21'
 descuento: '60.05'
 average: '19.97'

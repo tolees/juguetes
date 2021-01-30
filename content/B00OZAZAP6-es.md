@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Nerf N-Strike Blaster Ner Elite Pistola Lanzador Sharpfire  Naranja  Color Blanco  56.6 x 21.3 x 4.8  Hasbro A9315EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OZAZAP6/?tag=tolees-21'
 descuento: '33.38'
 average: '15.19'

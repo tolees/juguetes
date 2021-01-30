@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Alfombra Musical - juguetes niños 1 2 3 4 5 6 años Musical Canto Teclado Estera de Alfombra Bebé Niño Actividad Juego De Gimnasio Colchonetas Alfombra Animal para El Regalo del Bebé 1-6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BJDL5VM/?tag=tolees-21'
 descuento: '44.46'
 average: '19.99'

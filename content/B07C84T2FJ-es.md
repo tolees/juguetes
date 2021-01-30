@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'HOMCOM Alfombra Puzle Niños Colchoneta Suave Juego Rompecabezas para Niños 3.6㎡ Letras Abecedario y Números 0-9 Goma Espuma EVA Lavable Resistente a la Humedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C84T2FJ/?tag=tolees-21'
 descuento: '15.00'
 average: '33.25666666666667'

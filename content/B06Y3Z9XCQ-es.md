@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mega Bloks- Luau Dave Build-A-Minion Despicable Me Minions Puppy Love Hawaiano  Multicolor  Mattel FDX85 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y3Z9XCQ/?tag=tolees-21'
 descuento: '61.71'
 average: '18.42923076923077'

@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Educa Borras - Genuine Puzzles  Puzzle 2.000 piezas  Ámsterdam  17127 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCZJSP4/?tag=tolees-21'
 descuento: '17.17'
 average: '18.6675'

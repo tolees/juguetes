@@ -16,6 +16,7 @@ comparePrice: 17.84 EUR
 prodname: 'GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo de Natación Piscina Fucsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q81VDJW/?tag=tolees-21'
 descuento: '50.00'
 average: '8.92'

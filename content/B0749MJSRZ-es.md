@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Star Wars- Resistance Ski Speeder  Hasbro European Trading B.V C1251EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749MJSRZ/?tag=tolees-21'
 descuento: '71.88'
 average: '19.357499999999998'

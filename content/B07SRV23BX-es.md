@@ -16,6 +16,7 @@ comparePrice: 5.88 EUR
 prodname: 'Aprettysunny Bicicleta Motocicleta Cadena Limpiador Práctico Cepillo Scrubber Park Tool'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRV23BX/?tag=tolees-21'
 descuento: '51.02'
 average: '2.88'

@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'GEMVIE Flotador de Bebidas para Bebé Fiesta Piscina Playa Flamenco 18×17cm Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGHHQLA/?tag=tolees-21'
 descuento: '40.39'
 average: '6.48'

@@ -16,6 +16,7 @@ comparePrice: 33.14 EUR
 prodname: 'Symiu Juego baño DIY Juego Pista de Agua de Circuito Canicas Juguetes Bebe en la Bañera para Niños Niñas 3 4 5 6 Años con Bolas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PF98WCH/?tag=tolees-21'
 descuento: '39.68'
 average: '19.99'

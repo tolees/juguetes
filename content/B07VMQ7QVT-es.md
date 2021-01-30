@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'HAISSKY Riñonera Deportiva Riñonera Running Impermeable Bolsillos con Cierre Cremallera Tiras Reflectantes y Tiras Ajustables para Correr  Ciclismo  Bicicleta  Camina el Perro Viaje al Aire Libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VMQ7QVT/?tag=tolees-21'
 descuento: '41.20'
 average: '10.99'

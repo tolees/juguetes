@@ -16,6 +16,7 @@ comparePrice: 21.74 EUR
 prodname: 'Nerf Alpha Strike Wolf LR-1 Juguete Blaster con Alcance de Objetivo  Incluye 12 Dardos Oficiales Elite  para niños  Adolescentes  Adultos  Hasbro E7567EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W85QBHH/?tag=tolees-21'
 descuento: '46.92'
 average: '15.286666666666667'

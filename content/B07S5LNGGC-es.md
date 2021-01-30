@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Cartoon L.o.l. Surprise neceser baã‘o lote 3 pz - 3 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S5LNGGC/?tag=tolees-21'
 descuento: '18.72'
 average: '8.9'

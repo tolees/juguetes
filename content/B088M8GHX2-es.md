@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'jerryvon Fregadero de Juguete Menaje Cocina Utensilios de Cocina Platos Juguete Infantil Juguetes de Aprendizaje Educativos Juegos de rol Regalos Juguetes para 3 4 5 Años Niños Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088M8GHX2/?tag=tolees-21'
 descuento: '27.03'
 average: '26.99'

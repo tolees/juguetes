@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'mysunny Juguetes de Cocina de Madera para niños  Juguete magnéticos de Frutas y Verduras educativos de simulación y Juguete de percepción de Color para Bebe en Edad Preescolar niños niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SM5XH3Z/?tag=tolees-21'
 descuento: '21.01'
 average: '25.354'

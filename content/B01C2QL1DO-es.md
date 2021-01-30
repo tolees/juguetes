@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Sam el bombero- Vehículo con Figura  Color Rojo  Simba 9257656 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C2QL1DO/?tag=tolees-21'
 descuento: '50.00'
 average: '10.0'

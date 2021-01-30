@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Robot Train Kay Radio Control Transformable  BIZAK 62000178 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPYMQH8/?tag=tolees-21'
 descuento: '62.15'
 average: '17.03'

@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'My Little Pony - Equestria Minis Caravana Sushi  Hasbro C1840EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WLN9PXT/?tag=tolees-21'
 descuento: '28.37'
 average: '12.246363636363636'

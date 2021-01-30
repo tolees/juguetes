@@ -16,6 +16,7 @@ comparePrice: 18.75 EUR
 prodname: 'Runts S19010 - Peluche de Funcionamiento  Color Gris y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5QN38D/?tag=tolees-21'
 descuento: '23.09'
 average: '14.42'

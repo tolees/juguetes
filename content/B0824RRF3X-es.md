@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Avengers Figuras Titan Capitán América  Hasbro E7877ES0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824RRF3X/?tag=tolees-21'
 descuento: '17.72'
 average: '13.98'

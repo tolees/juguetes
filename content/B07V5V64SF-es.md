@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'YOUTHINK Juguete para Loros  7 Piezas de Juguetes para Columpios de Pájaros  Juguetes para Masticar Loros  Columpios para Pájaros Loros Hamacas Coloridas para Pájaros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V5V64SF/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

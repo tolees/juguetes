@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Tráiler Bicicleta  M  43×45×73 cm  Rojo/Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003OA6TW6/?tag=tolees-21'
 descuento: '23.59'
 average: '156.20700000000002'

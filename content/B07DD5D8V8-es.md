@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Beados - Pack Temático S8 Kitty Cat Party  Famosa 700014681 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD5D8V8/?tag=tolees-21'
 descuento: '37.52'
 average: '5.609999999999999'

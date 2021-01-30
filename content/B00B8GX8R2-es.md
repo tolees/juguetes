@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Educa - Multi 4 Puzzles Junior  puzzle infantil Pixar: Buscando a Nemo  Monster Inc  Cars y Toy Story de 50 80 100 y 150 piezas  a partir de 5 años  15615 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B8GX8R2/?tag=tolees-21'
 descuento: '33.11'
 average: '11.325000000000001'

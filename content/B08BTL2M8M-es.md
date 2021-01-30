@@ -16,6 +16,7 @@ comparePrice: 3.2 EUR
 prodname: 'Juguetes de baño para bebés  Juguetes para niños  Baby Shower  Cuerda  Cuerda  Dibujos Animados  Aprendizaje Educativo  Juguetes de baño - Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BTL2M8M/?tag=tolees-21'
 descuento: '35.00'
 average: '2.08'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'BBLIKE Juguetes para el Baño  2 Piezas Red de Baño Almacenamiento Bolsa de Juguete con 36 Piezas de Letras y números + 6 Piezas Ganchos Adhesivos + 8 Juguetes de Sonido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0854CP6WW/?tag=tolees-21'
 descuento: '25.66'
 average: '12.63'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'LEGO Star Wars - First Order Heavy Scout Walker  Juguete de Construcción de Vehículo de la Guerra de las Galaxias para Recrear las Aventuras de la Película  75177 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VV73L7S/?tag=tolees-21'
 descuento: '24.76'
 average: '53.14025000000001'

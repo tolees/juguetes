@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Simba - Juguete de playa  107110558    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ERK36GO/?tag=tolees-21'
 descuento: '40.25'
 average: '5.816666666666666'

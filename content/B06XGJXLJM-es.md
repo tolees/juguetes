@@ -16,6 +16,7 @@ comparePrice: 16.58 EUR
 prodname: 'Ravensburger-19747 7 Puzzle  Disney Classic  El Rey Ón  Multicolor  1000 Piezas  19747 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XGJXLJM/?tag=tolees-21'
 descuento: '15.62'
 average: '15.418571428571429'

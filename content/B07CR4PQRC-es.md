@@ -16,6 +16,7 @@ comparePrice: 16.2 EUR
 prodname: 'Revell- Mini RC Racing Car I Juguetes a Control Remoto  Multicolor  23560 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CR4PQRC/?tag=tolees-21'
 descuento: '38.33'
 average: '9.99'

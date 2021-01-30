@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Educa Borrás- Puzzle 3D Dibujos Animados y cómic Puente de Brooklyn  17000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J5NJ6KC/?tag=tolees-21'
 descuento: '71.79'
 average: '12.5'

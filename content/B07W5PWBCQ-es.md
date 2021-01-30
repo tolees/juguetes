@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO DUPLO Town - Cuarto de Juegos  Caja con Ladrillos de LEGO para Construir y Desarrollar la Creatividad  Incluye Muñecos para Recrear Escenas Cotidianas  a Partir de 2 Años  10925 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5PWBCQ/?tag=tolees-21'
 descuento: '25.02'
 average: '12.847142857142858'

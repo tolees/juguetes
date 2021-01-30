@@ -16,6 +16,7 @@ comparePrice: 13.61 EUR
 prodname: 'LEGO 4+ Woody y RC  Juguete de Construcción para Recrear las Aventuras de la Película Toy Story 4  10766 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JC74WKJ/?tag=tolees-21'
 descuento: '41.81'
 average: '7.898333333333332'

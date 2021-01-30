@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'L.O.L. Surprise! 557067E7C Hairgoal Doll-Series 5-2A  Multi'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRPZYNQ/?tag=tolees-21'
 descuento: '35.75'
 average: '17.650526315789474'

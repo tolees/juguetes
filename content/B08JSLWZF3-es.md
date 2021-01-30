@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HANMUN Sonajeros de Bebe Juguetes de Mordedor Infante Sacudiendo la Campana Conjunto de Sonajero con Caja de Almacenamiento Juguetes de Regalo para 0  3  6  9  12 Meses de Edad y Recién Nacido Bebe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JSLWZF3/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

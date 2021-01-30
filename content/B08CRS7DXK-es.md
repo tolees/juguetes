@@ -16,6 +16,7 @@ comparePrice: 3.02 EUR
 prodname: 'Juguetes de baño para bebés Ducha de Elefante Ducha de Dibujos Animados Ducha Juguetes interactivos para Padres e Hijos - Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRS7DXK/?tag=tolees-21'
 descuento: '33.44'
 average: '2.01'

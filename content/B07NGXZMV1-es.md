@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Barbie - Collector Felices Fiestas 2019  Muñeca Rubia con Ondas  Mattel FXF01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGXZMV1/?tag=tolees-21'
 descuento: '33.34'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'Ty – Peluche  ty36253'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNK8SKL/?tag=tolees-21'
 descuento: '29.32'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '18 PCS Bolsas Reutilizables Compra Ecológicas Bolsas para Fruta Reutilizables Bolsa de Malla para Almacenamiento Verduras Juguetes Lavable y Transpirable 3 Tamaños  6L+6M+6S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y1S8BG3/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Lalaloom BUBBLE BIKE - Bicicleta Andador Madera azul diseño topos burbujas sin Pedales  Correpasillos niños Sillín regulable con ruedas de goma EVA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGL8G1C/?tag=tolees-21'
 descuento: '36.85'
 average: '44.2'

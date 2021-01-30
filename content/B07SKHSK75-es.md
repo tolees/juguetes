@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'FEBER Pinypon. Las Trendy - Dana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SKHSK75/?tag=tolees-21'
 descuento: '33.37'
 average: '8.278749999999999'

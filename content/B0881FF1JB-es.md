@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Zaloife Pistolas de Agua  Super Pistola Water Gun para Niños Años Adultos para Batalla de Agua  Playa  Piscina Verano Juguetes de Agua Juego 3pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881FF1JB/?tag=tolees-21'
 descuento: '16.76'
 average: '10.48'

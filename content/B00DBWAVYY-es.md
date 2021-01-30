@@ -16,6 +16,7 @@ comparePrice: 17.45 EUR
 prodname: 'Ravensburger - La Biblioteca extraña 2  Puzzle de 1000 Piezas  19314 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DBWAVYY/?tag=tolees-21'
 descuento: '17.54'
 average: '14.39'

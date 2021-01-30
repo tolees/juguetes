@@ -16,6 +16,7 @@ comparePrice: 16.64 EUR
 prodname: 'SYLVANIAN FAMILIES- Cake Decorating Set Mini muñecas y Accesorios   Epoch para Imaginar 5264 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BREAVE2/?tag=tolees-21'
 descuento: '34.19'
 average: '13.18'

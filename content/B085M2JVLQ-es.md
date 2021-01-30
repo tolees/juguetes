@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'DOUBLEZ Yoda Peluche Muñecos 12 Inch Peluche De Algodón PP Yoda De Tamaño Peluche Gigante'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085M2JVLQ/?tag=tolees-21'
 descuento: '56.69'
 average: '12.99'

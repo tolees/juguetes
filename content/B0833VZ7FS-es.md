@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Peradix Splash Pad 170CM Aspersor de Juegos de Agua para Niños PVC Splash Play Mat Almohadilla de Juego de Agua para Niños para Jardín de Verano Juguetes Acuático Actividades Familiares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0833VZ7FS/?tag=tolees-21'
 descuento: '27.32'
 average: '21.499090909090906'

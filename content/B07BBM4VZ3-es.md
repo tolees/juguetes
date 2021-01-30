@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'himaly Mini Bicicleta Estática con Pantalla LCD para Entrenamiento de Brazos y Piernas Minibicicleta Ajustable para Hacer Ejercicio en Casa para Mujer y Hombre  Pedales estaticos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BBM4VZ3/?tag=tolees-21'
 descuento: '47.15'
 average: '36.99'

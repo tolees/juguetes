@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'IMMEK Puzzles de Madera Juguetes para Bebes 1 Año 2 3 4 5 Años Montessori Educativos Rompecabezas Juegos Niñas y Niños Infantile Regalo Preescolar de Aprendizaje Temprano Animales y Vehículos 6 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z64DM8B/?tag=tolees-21'
 descuento: '38.10'
 average: '17.23'

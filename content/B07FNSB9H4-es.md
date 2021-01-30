@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Star Wars - Duelo en la Base Starkiller  Juguete de Aventuras  Combate con los Personajes de La Guerra de las Galaxias  Incluye Minifiguras de Rey y Kylo Ren  75236 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNSB9H4/?tag=tolees-21'
 descuento: '15.01'
 average: '17.119'

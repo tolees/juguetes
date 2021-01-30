@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Zequins- Muñeco Dazz  Famosa 700014680 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BVPCTS6/?tag=tolees-21'
 descuento: '67.14'
 average: '3.27'

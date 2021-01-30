@@ -16,6 +16,7 @@ comparePrice: 26.44 EUR
 prodname: 'NOBLE COLLECTION - Peluche El Señor de los Anillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003SJZ6BS/?tag=tolees-21'
 descuento: '20.76'
 average: '22.62181818181818'

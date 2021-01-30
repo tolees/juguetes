@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'SkullCap® Casco Bicicleta montaña Hombre y Mujer  MTB Bicicleta Carretera  tamaño L  59-61 cm   Casco Color: Rojo Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C2TFLPX/?tag=tolees-21'
 descuento: '28.61'
 average: '49.9'

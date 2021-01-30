@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Logitech Brio Ultra HD Pro Webcam  Streaming Fluido 1080p/60fps  Campo Visual Ajusable  Zoom X5  Compatible Avec Skype  WebEx  Cisco Jabber  Zoom  Windows Hello  PC/Mac/Portátil/Chrome  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5NYRES/?tag=tolees-21'
 descuento: '28.99'
 average: '171.21'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Justice League Figura Manta Negra  15 cm  Mattel Fwx62 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KNBT7S/?tag=tolees-21'
 descuento: '62.48'
 average: '6.0'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'CubicFun Puzzle 3D UK Colección de Kits de Modelos Arquitectónicos de Londres Juguete  Big Ben  Tower Bridge y Autobús de Dos Pisos Juego de Regalo de Recuerdo 3 en 1 para niños y Amigos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK9DV1H/?tag=tolees-21'
 descuento: '15.02'
 average: '8.49'

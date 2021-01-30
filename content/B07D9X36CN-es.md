@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Partypopteenies - Lanzador Sorpresa  Bizak  61924680    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9X36CN/?tag=tolees-21'
 descuento: '62.45'
 average: '3.0'

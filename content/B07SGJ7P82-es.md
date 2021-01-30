@@ -16,6 +16,7 @@ comparePrice: 549.99 EUR
 prodname: 'FEBER - Palacio de Princesas Super Arandele de Disney Frozen 2  para niños y niñas de 3 a 10 años  Famosa 800012448    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGJ7P82/?tag=tolees-21'
 descuento: '65.92'
 average: '215.4125'

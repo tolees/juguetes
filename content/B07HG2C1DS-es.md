@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Socialme-eu 8 Piezas Videojuego Logico Grillete Juego de Prueba de Inteligencia Artificial Puzzles Rompecabezas de Juguetes Adultos Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HG2C1DS/?tag=tolees-21'
 descuento: '25.02'
 average: '8.99'

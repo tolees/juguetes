@@ -16,6 +16,7 @@ comparePrice: 11.46 EUR
 prodname: 'HABA Oruga De Colores  Lego S.A. HAB303114 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0789LYRZP/?tag=tolees-21'
 descuento: '31.59'
 average: '7.84'

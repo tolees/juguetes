@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Lego Movie Pijamas de Manga Corta para niños La Lego película Rojo 5-6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6BV8XH/?tag=tolees-21'
 descuento: '55.71'
 average: '7.95'

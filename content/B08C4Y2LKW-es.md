@@ -16,6 +16,7 @@ comparePrice: 10.4 EUR
 prodname: 'Diy Cuentas hechas a mano Juguetes con accesorios Set Kids Creative 24 Grid Girl Jewelry Toy Juguete educativo Regalo para niños - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C4Y2LKW/?tag=tolees-21'
 descuento: '35.00'
 average: '6.76'

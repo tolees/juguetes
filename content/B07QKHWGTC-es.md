@@ -16,6 +16,7 @@ comparePrice: 14.77 EUR
 prodname: 'HoneyHolly Botella de Agua Acero Inoxidable 350/500/650/750ml  Aislamiento de Vacío de Doble Pared  Botellas de Frío/Caliente  sin bpa Botella Reutilizable para niños Sport Gimnasio Trekking Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKHWGTC/?tag=tolees-21'
 descuento: '20.04'
 average: '11.81'

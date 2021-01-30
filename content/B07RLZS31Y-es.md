@@ -16,6 +16,7 @@ comparePrice: 52.0 EUR
 prodname: 'ZIYIUI Realista Niña Reborn Bebé Muñecas Niñita Silicona Toddler Muñecos Reborn Babys Dolls Niños Juguetes Conjunto 22 Pulgadas Las muñecas Pueden parpadear'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RLZS31Y/?tag=tolees-21'
 descuento: '25.00'
 average: '39.0'

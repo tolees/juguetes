@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'DC Comics Figura Acción Liga de la Justicia 30 cm. Superman  BIZAK 61926870 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08581TCGL/?tag=tolees-21'
 descuento: '47.90'
 average: '13.0'

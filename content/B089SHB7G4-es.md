@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Maquillaje Niñas Juguetes Niños con Contraseña Correa Maletin Juguetes Educativos Infantil Regalo para Niñas Niños3 4 5 6 7 8 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089SHB7G4/?tag=tolees-21'
 descuento: '29.18'
 average: '16.99'

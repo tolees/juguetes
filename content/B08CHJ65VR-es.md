@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Harxin 26 Pcs Juguete Dinosaurio  Juguete Dinosaurio Educativo Dinosaurio Edificio Jurásico Mundo Juguetes Infantiles  Dinosaurios Juguetes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CHJ65VR/?tag=tolees-21'
 descuento: '41.07'
 average: '16.5'

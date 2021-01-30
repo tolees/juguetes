@@ -16,6 +16,7 @@ comparePrice: 21.11 EUR
 prodname: 'BBLIKE - Juego de juguetes de baño para niños y niñas de 18 meses + niños y niñas para juego de pesca en bañera  piscina  playa  11 unidades de juguetes de ducha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0861R4DWV/?tag=tolees-21'
 descuento: '48.37'
 average: '11.965'

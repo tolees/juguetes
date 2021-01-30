@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Frozen 2 - Muñeco Kristoff  Hasbro E6711ES0    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RC7ZJXV/?tag=tolees-21'
 descuento: '22.23'
 average: '13.99'

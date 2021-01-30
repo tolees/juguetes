@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Overwatch - Batalla Final en Dorado  Juguete de Construcción Basado en el Videojuego  Incluye Minifiguras de  Soldado 76  Reaper y McCree  75972 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JBBBMKY/?tag=tolees-21'
 descuento: '30.71'
 average: '25.384999999999998'

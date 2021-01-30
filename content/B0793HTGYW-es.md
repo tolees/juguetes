@@ -16,6 +16,7 @@ comparePrice: 17.38 EUR
 prodname: 'Educa Borrás - Puzzle 1500 Símbolos de Norte-América  17670 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793HTGYW/?tag=tolees-21'
 descuento: '19.04'
 average: '14.07'

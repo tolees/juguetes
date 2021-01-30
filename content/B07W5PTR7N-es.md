@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO Disney Princess - Aventura Oceánica de Vaiana Juguete de Construcción Creativo de la Película  con Muñecas de Vaiana y Púa  Contiene una Canoa y otros Elementos  a Partir de 6 Años  43170 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5PTR7N/?tag=tolees-21'
 descuento: '20.02'
 average: '8.49'

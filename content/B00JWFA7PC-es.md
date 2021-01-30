@@ -16,6 +16,7 @@ comparePrice: 26.98 EUR
 prodname: 'Juegos Bizak - Hedbanz actuando  61924162 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JWFA7PC/?tag=tolees-21'
 descuento: '44.40'
 average: '15.0'

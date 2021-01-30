@@ -16,6 +16,7 @@ comparePrice: 13.1 EUR
 prodname: 'Ravensburger Disney Princess Mini Memoria'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YX78I4G/?tag=tolees-21'
 descuento: '35.34'
 average: '9.283333333333333'

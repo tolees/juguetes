@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Lego Batman 3: Mas Allá De Gotham  Estándar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NUYXCFI/?tag=tolees-21'
 descuento: '17.12'
 average: '15.761499999999998'

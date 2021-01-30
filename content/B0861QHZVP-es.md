@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Magicfun Flotado de Natación para Bebé con Asiento Anill  Inflable de Barca de Piscina para Niños   Flotador de Natación bebé Juguetes para Niños Pequeños 3-48 Meses（Talla Grande）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0861QHZVP/?tag=tolees-21'
 descuento: '17.66'
 average: '16.19'

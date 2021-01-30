@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Twitfish® - Mini Canasta Interior de Baloncesto - Novedad Divertido Juego de Juguetes para el hogar de Escritorio de Office  Mini Board  Ball & Pump Set para Todos los Fanáticos del Baloncesto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UXQ38WS/?tag=tolees-21'
 descuento: '25.01'
 average: '11.99'

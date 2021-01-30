@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Jaggets - Snow Surprise Mini Model  Famosa 700014723 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDDND3K/?tag=tolees-21'
 descuento: '60.63'
 average: '13.76'

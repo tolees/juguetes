@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Luz trasera impermeable para bicicleta  ajuste constante  potente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCWMYQF/?tag=tolees-21'
 descuento: '88.48'
 average: '1.14'

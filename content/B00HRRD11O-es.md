@@ -16,6 +16,7 @@ comparePrice: 33.65 EUR
 prodname: 'SYLVANIAN FAMILIES- Baby Room Set Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5036 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRD11O/?tag=tolees-21'
 descuento: '25.47'
 average: '25.1'

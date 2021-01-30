@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Natural Seagrass Mimbre Cesta de Cesteria   Cestos para la Colada con Asa   Cesta Plegable para el Vientre Maceta   Decoracion para el Hogar Almacenar Juguetes  Ropa  Fruta o Plantas 27 x 24cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K1TGKMY/?tag=tolees-21'
 descuento: '43.71'
 average: '9.46'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Juego de Tronos Puzzle 3D de Madera  56 Piezas  Educa Borrás 17207 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZGKSD1/?tag=tolees-21'
 descuento: '25.89'
 average: '17.22818181818182'

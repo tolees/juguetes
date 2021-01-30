@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mattel Games UNO: Rick and Morty - Juego de cartas  multicolor  GPN29 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082N7MYWX/?tag=tolees-21'
 descuento: '54.88'
 average: '9.02'

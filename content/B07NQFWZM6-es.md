@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Jurassic World Toys Dino Rivals Indominus Rex  dinosaurio de juguete para niños mayores de 4 años  Mattel GCT95 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQFWZM6/?tag=tolees-21'
 descuento: '16.67'
 average: '41.96769230769231'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Fivejoy 1:28 Coche Teledirigido  15km/h 2.4GHz Coches Teledirigidos de Alta Velocidad Doble Lado Rotación de 360°  4WD Coche RC con 2 Baterías Recargables  Regalo de Juguete para Niños  Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082Y5FHWF/?tag=tolees-21'
 descuento: '15.01'
 average: '21.24'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Brazalete Deportivo para Correr y Andar en Bicicleta Brazalete Deportivo Movil con Rotación 360° Compatible con iPhone X XR XS MAX 7/8 Plus 11 Samsung S9 S10 de 4"-6.5"  3 IN 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A3CRAMQ/?tag=tolees-21'
 descuento: '23.82'
 average: '15.99'

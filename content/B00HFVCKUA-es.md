@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Lego Movie The Videogame'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HFVCKUA/?tag=tolees-21'
 descuento: '30.97'
 average: '17.335714285714282'

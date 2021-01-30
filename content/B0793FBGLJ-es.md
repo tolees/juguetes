@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Educa - Minnie Happy Helpers  Maleta Progresivos  puzzle infantil de 12 16 20 y 25 piezas  a partir de 3 años  17638 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793FBGLJ/?tag=tolees-21'
 descuento: '22.86'
 average: '9.156666666666666'

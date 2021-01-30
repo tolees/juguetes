@@ -16,6 +16,7 @@ comparePrice: 23.24 EUR
 prodname: 'Thomas & Friends - Locomotora Nia y Elefante  Juguetes Niños +3 Años  Mattel FJK56 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076KGLV15/?tag=tolees-21'
 descuento: '31.24'
 average: '15.98'

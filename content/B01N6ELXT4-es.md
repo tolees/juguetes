@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lego Worlds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6ELXT4/?tag=tolees-21'
 descuento: '33.39'
 average: '19.148666666666664'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hot Wheels - Monster Truck Pista de coches  Super Salto con vehiculo Loco Punk  Mattel GCG00    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSR4YT3/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

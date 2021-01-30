@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Lixada Antideslizante Bicicleta Soporte de Teléfono Ajustable Soporte de Montaje para 3.6-6.2 Inch Teléfono Móvil Inteligente  Soporte+Banda Negra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SGCP723/?tag=tolees-21'
 descuento: '33.35'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Pinypon-700014032 Niños y Bebés  Pack C  Multicolor  Famosa 700014032 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MF4WRY/?tag=tolees-21'
 descuento: '28.61'
 average: '4.99'

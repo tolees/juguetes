@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Star Wars-40 Aniversario Figura Yoda  Hasbro E8077 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PJNY1Z/?tag=tolees-21'
 descuento: '47.34'
 average: '21.465'

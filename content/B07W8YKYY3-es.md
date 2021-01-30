@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Minecraft - BigFig: Cerdo con Bebé Zombi  Set de Construcción Inspirado en el Videojuego  Incluye Figuras de Juguete de los Personajes  a Partir de 7 Años  21157 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8YKYY3/?tag=tolees-21'
 descuento: '20.41'
 average: '12.87'

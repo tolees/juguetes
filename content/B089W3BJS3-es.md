@@ -16,6 +16,7 @@ comparePrice: 66.98 EUR
 prodname: 'FitTrek Casco Bicicleta Niño - Casco Bici Niño - Cascos MTB Ajustable 48 a 53 cm - Casco para Ciclismo Carretera  Bicicleta Urbana  Skate  Snowboard  Ski  BMX 2-5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089W3BJS3/?tag=tolees-21'
 descuento: '55.23'
 average: '29.99'

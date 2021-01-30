@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER EVA Medio Ambiente  Alfombrilla Puzzle  Deporte Crossfit musculación  Gimnasio  Interior  Exterior Rojo R09G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084X7FG8W/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

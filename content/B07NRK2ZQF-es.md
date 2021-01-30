@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Gifort Pompons  Pompones de Colores  Pompones de Pompon  Pelotas de Peluche mullidas para Divertidas Manualidades Creativas. 1200pcs- 1-1.5cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRK2ZQF/?tag=tolees-21'
 descuento: '50.03'
 average: '11.626363636363637'

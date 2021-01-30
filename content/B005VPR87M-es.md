@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Educa Borrás- Serie puzzle 1000 piezas  Los héroes de Marvel  Color  37.1 x 27.2 x 5.6  15193 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005VPR87M/?tag=tolees-21'
 descuento: '30.58'
 average: '8.99'

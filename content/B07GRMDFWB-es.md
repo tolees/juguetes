@@ -16,6 +16,7 @@ comparePrice: 18.32 EUR
 prodname: 'Puzzle Super Mario Odyssey Fossil Falls  500 Teile'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GRMDFWB/?tag=tolees-21'
 descuento: '25.33'
 average: '13.285'

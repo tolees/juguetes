@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'UGI Cámara de acción 480P Cámara Deportiva Impermeable 140 Grados Lente Ultra Gran Angular con Accesorios de Montaje Kits para Snorkel Motocicleta Bicicleta automóvil esquí y Deportes acuáticos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2DGQYK/?tag=tolees-21'
 descuento: '32.25'
 average: '13.55'

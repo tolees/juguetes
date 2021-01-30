@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Feber-800009570 Dareway  vehículo 12 V  Color Negro  Azul  Famosa 800009570 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KYP8KVM/?tag=tolees-21'
 descuento: '43.48'
 average: '129.99'

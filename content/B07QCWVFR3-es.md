@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Gupamiga Tienda de Juguetes para niños Tienda de teepe Tienda de Rebote Juguetes para bebés maletines Interiores y Exteriores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCWVFR3/?tag=tolees-21'
 descuento: '55.56'
 average: '37.99'

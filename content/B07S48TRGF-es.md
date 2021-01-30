@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'GLEADING Correa Retráctil para Usar Manos Libres para Perros con Doble Cuerda Elástica para Perros  Cinturón Ajustable  Correa de Costura Reflectante para Correr Caminar Pasear Trotar Andar Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S48TRGF/?tag=tolees-21'
 descuento: '46.70'
 average: '15.99'

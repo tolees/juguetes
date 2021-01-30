@@ -16,6 +16,7 @@ comparePrice: 17.96 EUR
 prodname: 'Shimmer and Shine Muñeca Shimmer Sirena mágica  juguete +3 años  Mattel FHN41 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XXNBC6W/?tag=tolees-21'
 descuento: '22.33'
 average: '13.95'

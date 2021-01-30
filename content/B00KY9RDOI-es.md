@@ -16,6 +16,7 @@ comparePrice: 26.75 EUR
 prodname: 'LEGO Star Wars 75052  Minifigura de Greedo con pistola blaster'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KY9RDOI/?tag=tolees-21'
 descuento: '30.09'
 average: '19.026249999999997'

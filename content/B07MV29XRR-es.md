@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Avengers - Hacha Electrónica Thor  Hasbro E0617EU6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MV29XRR/?tag=tolees-21'
 descuento: '19.75'
 average: '18.265'

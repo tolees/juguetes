@@ -16,6 +16,7 @@ comparePrice: 34.72 EUR
 prodname: 'Simba 6315878711pro Disney – Peluche de Minnie  61 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VV98LNK/?tag=tolees-21'
 descuento: '18.43'
 average: '28.32'

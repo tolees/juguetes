@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Disney Infinity 3.0 - Disney Figura Baloo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BUKAC24/?tag=tolees-21'
 descuento: '26.95'
 average: '10.273333333333332'

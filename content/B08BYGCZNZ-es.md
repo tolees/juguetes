@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'BelleStyle Juegos Educativos 2 Años  Puzzles de Madera del Alfabeto  Bloques de Colores Puzzle Letras Madera Juguetes Montessori 3 4 5 Años  Juego Jigsaw ABC Cartas  Números  Formas  Educativos Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BYGCZNZ/?tag=tolees-21'
 descuento: '53.35'
 average: '13.99'

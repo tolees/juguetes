@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'FITODO Pedales Ejercicio Estaticos Mini Bicicleta Estatica Brazos y piernas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GN984ZV/?tag=tolees-21'
 descuento: '15.00'
 average: '39.373333333333335'

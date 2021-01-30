@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'L.O.L. Surprise!- L.O.L Lils Winter Disco Series con 5 sorpresas  Color Modelos Surtidos  0  MGA Entertainment UK LTD 560319 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK8QXW6/?tag=tolees-21'
 descuento: '44.57'
 average: '9.14'

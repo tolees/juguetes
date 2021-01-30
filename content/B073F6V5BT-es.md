@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'JIM S STORE Conjuntos de Patinaje Infantil Consta de Rodilleras Coderas es Adecuado para Bicicleta Patinaje Ciclismo Monopatín y Deportes Extremos Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073F6V5BT/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

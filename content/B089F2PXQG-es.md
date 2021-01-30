@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'SYOSIN Soporte Movil Bicicleta Soporte Universal Manillar de Metal para Bicicleta de montaña y Motocicleta  360°Rotación Soporte Móvil Moto para iPhone 11 Pro/11/XR/X/XS  Samsung S9/S8  Huawei P10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089F2PXQG/?tag=tolees-21'
 descuento: '15.89'
 average: '10.59'

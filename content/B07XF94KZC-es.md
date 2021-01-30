@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Barbie Dreamhouse Adventures  Skipper Hora del Surf muñeca con accesorio de deportes  Mattel GHK36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF94KZC/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

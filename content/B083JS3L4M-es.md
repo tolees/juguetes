@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'HASAGEI Soporte Movil Bici para 4.5" -7.2" Smartphones Anti Vibración Soporte Movil para Moto y Bicicleta de Montaña 360° Rotación para Manillar Universal  para el Manillar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JS3L4M/?tag=tolees-21'
 descuento: '25.01'
 average: '12.74'

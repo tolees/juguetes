@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Fisher-Price Saltador animalitos de la selva  para bebé +1 año  Mattel CHM91 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019XSJTB0/?tag=tolees-21'
 descuento: '43.75'
 average: '89.99'

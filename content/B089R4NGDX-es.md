@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Colmanda Puzzles de Madera  2 Piezas Alfabeto y Números Rompecabezas ABC Tablero de Rompecabezas Aprendizaje Regalo Juguete Educativo para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089R4NGDX/?tag=tolees-21'
 descuento: '32.15'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Xpassion 200 Unidades Pegatinas del PVC para Portátil  Dormitorio  Funda de Viaje  Equipaje de Coche  Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075L6KYSZ/?tag=tolees-21'
 descuento: '15.01'
 average: '13.878888888888891'

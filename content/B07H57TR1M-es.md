@@ -16,6 +16,7 @@ comparePrice: 52.79 EUR
 prodname: 'X-TIGER Hombres de Bicicleta Manga Corta Maillots con 5D Acolchado Gel MTB Ciclismo Pantalones Cortos  Rojo 4XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H57TR1M/?tag=tolees-21'
 descuento: '40.35'
 average: '31.49'

@@ -16,6 +16,7 @@ comparePrice: 16.66 EUR
 prodname: 'Pegasus Spiele   Juego de Cartas de 2 a 5 Jugadores'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ICF0IMK/?tag=tolees-21'
 descuento: '19.51'
 average: '13.41'

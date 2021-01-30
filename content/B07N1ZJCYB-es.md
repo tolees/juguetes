@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Pinypon Action- Lancha de Rescate de Policía con 1 Figurita  para niños y niñas a Partir de 4 años  Multicolor  Famosa 700015050 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1ZJCYB/?tag=tolees-21'
 descuento: '30.08'
 average: '15.679615384615387'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Surplex Juego de Juguetes de baño para niños  6 Peces flotantes y 2 Barras Juguete de Pesca Juguetes Baño a Los Niños Niña Juguetes Educativos para Bañera o Piscina Gran Regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0894WKRFP/?tag=tolees-21'
 descuento: '22.60'
 average: '11.135'

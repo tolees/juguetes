@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hasbro Risk - Juego de Mesa  versión en inglés '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BKBXQ58/?tag=tolees-21'
 descuento: '66.16'
 average: '23.415'

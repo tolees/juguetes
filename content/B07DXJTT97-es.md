@@ -16,6 +16,7 @@ comparePrice: 41.98 EUR
 prodname: 'TOP BRIGHT Juguetes de Cocina de Madera  Corte de Juguetes de Frutas y Hortalizas  Juguete Magnéticos de Frutas y Verduras Educativos  Accesorios de Cocina para Bebé Durante 3 Años +'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DXJTT97/?tag=tolees-21'
 descuento: '45.24'
 average: '22.99'

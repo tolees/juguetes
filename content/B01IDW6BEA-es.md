@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Cars 3 Coche Flash McQueen  Mattel DXV45    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDW6BEA/?tag=tolees-21'
 descuento: '22.25'
 average: '7.51'

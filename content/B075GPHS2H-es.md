@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DUPLO - Primer Puzzle de Mascotas  Juguete Preescolar Creativo de Construcción con Piezas de Colores para Niños y Niñas de 1 Año y Medio a 3 Años  10858 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GPHS2H/?tag=tolees-21'
 descuento: '25.03'
 average: '8.115'

@@ -16,6 +16,7 @@ comparePrice: 19.75 EUR
 prodname: 'S&R Juego de 30 llaves Allen hexagonales en Pulgadas y millimetros. Llaves largas y pequeñas para Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IOO3Y8Y/?tag=tolees-21'
 descuento: '30.38'
 average: '13.799999999999999'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Bolsa de Almacenamiento de Juguetes para niños  Alfombra de Juego BELLESTYLE Organizer para juegos de niños  Juguetes de Niños una Limpieza más Rápida  Azul Profundo  150 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGV33XC/?tag=tolees-21'
 descuento: '52.79'
 average: '16.99'

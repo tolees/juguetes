@@ -16,6 +16,7 @@ comparePrice: 21.9 EUR
 prodname: 'Yo-kai Watch Kai Álbum de colección de medallas  Miscelanea  Hasbro B7498EQ0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N64J0BH/?tag=tolees-21'
 descuento: '97.72'
 average: '0.5'

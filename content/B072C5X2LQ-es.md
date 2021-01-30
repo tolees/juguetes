@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Nancy - Colección Novia diseñada por Ion Fiz  700013524 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C5X2LQ/?tag=tolees-21'
 descuento: '17.08'
 average: '56.92333333333334'

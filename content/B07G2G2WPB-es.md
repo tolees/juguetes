@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'TACKLIFE Llaves de vaso Torx Juego Profesional  14 Piezas  Aleado S2  Alta Precisión  Herramientas Manuales  Portátil  Para Reparar Motocicletas  Bicicleta  Muebles - TBS1A'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2G2WPB/?tag=tolees-21'
 descuento: '20.84'
 average: '17.99'

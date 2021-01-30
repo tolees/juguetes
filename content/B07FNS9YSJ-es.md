@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO DUPLO My First - Mis Primeros Animales Equilibristas  Juguete de Construcción Didáctico de 1 a 2 Años  10884    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNS9YSJ/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

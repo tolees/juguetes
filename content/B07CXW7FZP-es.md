@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Zerodis Juguetes de Aprendizaje Clasificación del Conocimiento Bloques de Cajas de Madera para Niños Educación Preescolar Matemáticas Educación Temprana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXW7FZP/?tag=tolees-21'
 descuento: '27.68'
 average: '21.69'

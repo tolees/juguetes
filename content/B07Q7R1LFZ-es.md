@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Avengers Titan Hero FX Capitán América  Hasbro E3301105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7R1LFZ/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

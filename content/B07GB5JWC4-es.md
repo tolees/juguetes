@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hot Wheels Monster Trucks Vehículo Bone Shaker 1:24  coches de juguetes niños +3 años  Mattel GCX15 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GB5JWC4/?tag=tolees-21'
 descuento: '15.01'
 average: '19.39'

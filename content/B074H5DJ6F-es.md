@@ -16,6 +16,7 @@ comparePrice: 45.8 EUR
 prodname: 'Well Love Juguetes para perro juguetes para masticar cuerda de algodón100%natural juguetes para chirridos bolas de perro huesos de perro juguete de peluche cuerdas para perro 6unidades juego de regalo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074H5DJ6F/?tag=tolees-21'
 descuento: '67.27'
 average: '14.99'

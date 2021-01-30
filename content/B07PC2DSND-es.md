@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Mega Blocks - Cuenta Conmigo 1 2 3 Bloques de Construcción Bebé 1 año   Mattel GFG19 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PC2DSND/?tag=tolees-21'
 descuento: '15.63'
 average: '13.49'

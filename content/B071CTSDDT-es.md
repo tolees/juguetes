@@ -16,6 +16,7 @@ comparePrice: 25.58 EUR
 prodname: 'Batman La Lego Película Blu-Ray  Uhd [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CTSDDT/?tag=tolees-21'
 descuento: '45.54'
 average: '13.286666666666667'

@@ -16,6 +16,7 @@ comparePrice: 14.48 EUR
 prodname: 'Blaze y los Monster Machines - Fisher-Price Blaze parlanchín  Mattel DXB68 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BKB6ITE/?tag=tolees-21'
 descuento: '51.73'
 average: '6.99'

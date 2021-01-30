@@ -16,6 +16,7 @@ comparePrice: 25.5 EUR
 prodname: 'Peak Design Anchor Links Conectores Correa AL-4 - Anclaje para Bicicleta  Color Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F94FQRB/?tag=tolees-21'
 descuento: '37.41'
 average: '20.8275'

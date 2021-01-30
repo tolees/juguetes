@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Rolimate Rompecabezas de Madera para niños Rompecabezas de Dinosaurios con Caja de Rompecabezas de Metal  Aprendizaje Educativo Montessori Toys Mejor Regalo 3 4 5+ años Niños y niñas [120 Piezas]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872TKP2X/?tag=tolees-21'
 descuento: '40.93'
 average: '12.99'

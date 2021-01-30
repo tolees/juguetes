@@ -16,6 +16,7 @@ comparePrice: 11.45 EUR
 prodname: 'Educa Borras - Serie Coloured B&W  Puzzle 500 piezas Pájaros en la jungla  17984 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L42MGPW/?tag=tolees-21'
 descuento: '30.22'
 average: '7.99'

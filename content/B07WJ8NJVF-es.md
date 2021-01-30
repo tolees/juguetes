@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'lenbest 118 Piezas Puzzles de Madera Magnético  Magnética Rompecabezas Madera para Niños 3 4 5 Años  Tablero de Dibujo Magnético de Doble Cara con 3 Fondo  Incluido un Rompecabeza de Escena Navideña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJ8NJVF/?tag=tolees-21'
 descuento: '42.88'
 average: '13.323333333333334'

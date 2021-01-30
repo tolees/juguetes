@@ -16,6 +16,7 @@ comparePrice: 22.54 EUR
 prodname: '40.5 * 26 * 22cm  Canasta de almacenamiento plegable con asas de algodón con asas  Contenedor de almacenamiento para juguetes  revistas  Cosméticos  etc.  azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FTTADUS/?tag=tolees-21'
 descuento: '42.37'
 average: '12.99'

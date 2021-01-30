@@ -16,6 +16,7 @@ comparePrice: 52.49 EUR
 prodname: 'Cars Circuito Cars choca-crash  pista de coches  Mattel FCW01 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MXWJ09W/?tag=tolees-21'
 descuento: '44.75'
 average: '29.33'

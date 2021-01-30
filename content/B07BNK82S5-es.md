@@ -16,6 +16,7 @@ comparePrice: 17.6 EUR
 prodname: 'Color Smash - Juego de Cartas  Goliath 70474 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BNK82S5/?tag=tolees-21'
 descuento: '15.06'
 average: '14.95'

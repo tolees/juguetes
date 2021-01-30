@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Dreamon Conjunto de Juguetes Playa Bebe Colores Moldes de Arena con Bolsa para Niños 3 Años  20 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GYHLBQ/?tag=tolees-21'
 descuento: '15.01'
 average: '15.802121212121213'

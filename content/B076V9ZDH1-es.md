@@ -16,6 +16,7 @@ comparePrice: 10.72 EUR
 prodname: 'GOZAR Classic Fun Tetris Mano Held LCD Retro Juegos Juguetes Ladrillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076V9ZDH1/?tag=tolees-21'
 descuento: '26.49'
 average: '7.88'

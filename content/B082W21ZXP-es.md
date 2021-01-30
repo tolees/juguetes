@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Ucradle 2 Pack Pistolas de Agua Chorro de Agua Squirt Gun  300ML Soaker Guns para Niños Años Adultos  Juguetes de Verano Caliente para Piscina de Playa  para con Alcance Largo Rango de 9 Metros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082W21ZXP/?tag=tolees-21'
 descuento: '25.02'
 average: '15.912666666666663'

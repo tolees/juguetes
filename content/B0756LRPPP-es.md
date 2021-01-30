@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Enchantimals Muñeca con mascota Zelena Zebra -  Mattel FKY75    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0756LRPPP/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 475.0 EUR
 prodname: 'Moma Bikes Bicicleta Trekking / Paseo  HYBRID 28"  Alu  SHIMANO 18V  Susp. Delant.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CDY6DGV/?tag=tolees-21'
 descuento: '48.65'
 average: '243.93'

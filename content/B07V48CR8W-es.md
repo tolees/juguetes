@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Bluefin Fitness Bicicleta de Spinning Tour SPIN | Kinomap | Video Coaching y Entrenamiento | Bluetooth | App Smartphone/Negra y Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V48CR8W/?tag=tolees-21'
 descuento: '19.00'
 average: '363.69'

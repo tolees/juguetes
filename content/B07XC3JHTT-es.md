@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Disney Cars 3  pista de coches Super Looping XRS Rocket Racing  Mattel GJW44 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC3JHTT/?tag=tolees-21'
 descuento: '19.36'
 average: '24.99'

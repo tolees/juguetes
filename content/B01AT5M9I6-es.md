@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Barbie Fashionista Armario Fashion  accesorios de muñecas  regalo para niñas y niños 3-9 años  Mattel DMT57 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AT5M9I6/?tag=tolees-21'
 descuento: '37.19'
 average: '31.606666666666666'

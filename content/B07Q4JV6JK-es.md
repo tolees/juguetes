@@ -16,6 +16,7 @@ comparePrice: 34.07 EUR
 prodname: 'VTech- KidiGear Walkie Talkies  Multicolor  Box Size: 25 x 27.9 x 5.5cm  518503 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4JV6JK/?tag=tolees-21'
 descuento: '44.20'
 average: '19.01'

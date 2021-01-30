@@ -16,6 +16,7 @@ comparePrice: 15.3 EUR
 prodname: 'Diseño práctico Dual USB Generador de Bicicleta Bicicleta Impermeable Ciclismo Generador de Carga Cargador Batería Banco de energía'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0897LBCBN/?tag=tolees-21'
 descuento: '19.54'
 average: '12.31'

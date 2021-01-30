@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'FEBER - Triciclo Ferrari  Famosa 800005840 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0036ZBPUK/?tag=tolees-21'
 descuento: '30.00'
 average: '69.99'

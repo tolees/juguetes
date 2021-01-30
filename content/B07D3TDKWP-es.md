@@ -16,6 +16,7 @@ comparePrice: 3.39 EUR
 prodname: 'Bonitas Animales Forma Cord  Durable Mascotas Perro Gato kauspielzeug  kauen Cuerda Juguete Mordedor para pequeñas Medio Perros Cachorros de Peluche Sonido quietsch Finales de Juguete  Elefante '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3TDKWP/?tag=tolees-21'
 descuento: '58.70'
 average: '1.4'

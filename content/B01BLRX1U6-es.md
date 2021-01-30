@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni-39334 Los Pingüinos De Madagascar Puzzle 1000 Piezas El Faro  39334.3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BLRX1U6/?tag=tolees-21'
 descuento: '30.62'
 average: '8.95'

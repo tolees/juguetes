@@ -16,6 +16,7 @@ comparePrice: 27.19 EUR
 prodname: 'Ravensburger - Puzzle 3D Autobùs noctàmbulo Harry Potter  11158 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJ4Y8MW/?tag=tolees-21'
 descuento: '26.48'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 27.49 EUR
 prodname: 'Molyflower Los niños juegan Water Mat Juegos Beach Pad Niños Spray de Agua al Aire Libre Beach Mat Césped Aspersor Inflable Cojín de Juguetes Cojín - Azul - 100cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0892DTR7L/?tag=tolees-21'
 descuento: '33.50'
 average: '18.28'

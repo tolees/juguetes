@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Clementoni- Disney Collection Puzzle 1000 Piezas Panorama Mickey Minnie  39449.4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PYCT88/?tag=tolees-21'
 descuento: '15.50'
 average: '14.28'

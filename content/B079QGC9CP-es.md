@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Mattel- Barbie y Sus Accesorios   FVJ42'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QGC9CP/?tag=tolees-21'
 descuento: '40.10'
 average: '11.95'

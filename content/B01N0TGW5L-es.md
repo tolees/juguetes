@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Fisher-Price Saltador activity de perrito  juguete para bebé +6 meses  Mattel FBL69 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0TGW5L/?tag=tolees-21'
 descuento: '17.20'
 average: '103.49'

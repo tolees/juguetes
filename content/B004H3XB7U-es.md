@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 56585EU - Flotador hinchable bebé 70 cm circular de 6 a 12 meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004H3XB7U/?tag=tolees-21'
 descuento: '50.25'
 average: '6.437777777777778'

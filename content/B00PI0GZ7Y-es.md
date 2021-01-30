@@ -16,6 +16,7 @@ comparePrice: 45.15 EUR
 prodname: 'Fisher-Price - Duermebebés sueños Felices  Mattel CHG19 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00PI0GZ7Y/?tag=tolees-21'
 descuento: '43.52'
 average: '25.5'

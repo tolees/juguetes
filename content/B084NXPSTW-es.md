@@ -16,6 +16,7 @@ comparePrice: 7.07 EUR
 prodname: 'LoveOlvido 13 Unids / Set Simulación Vajilla Roja Utensilios de Cocina Olla Cuchara Cocina Espátula Cuchillo Juego de imaginación Juguetes para Niños - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084NXPSTW/?tag=tolees-21'
 descuento: '33.52'
 average: '4.7'

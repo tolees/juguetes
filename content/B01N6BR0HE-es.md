@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hasbro - Mph Silly Suitcase Ast  Hasbro  36404EU7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6BR0HE/?tag=tolees-21'
 descuento: '28.09'
 average: '25.16'

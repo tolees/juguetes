@@ -16,6 +16,7 @@ comparePrice: 48.95 EUR
 prodname: 'Furreal Friends - Peluche interactivo JJ  Mi Perrito Saltarín  Hasbro B0449EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00STL8GK8/?tag=tolees-21'
 descuento: '38.73'
 average: '42.455625'

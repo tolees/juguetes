@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Barriguitas Edificio loco loco  Famosa 700012396 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z6YGDXS/?tag=tolees-21'
 descuento: '46.70'
 average: '45.00833333333334'

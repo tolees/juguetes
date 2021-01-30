@@ -16,6 +16,7 @@ comparePrice: 13.72 EUR
 prodname: 'Winterwölfe. Puzzle 1000 Teile'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074HDNWQN/?tag=tolees-21'
 descuento: '27.92'
 average: '9.935'

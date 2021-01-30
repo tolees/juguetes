@@ -16,6 +16,7 @@ comparePrice: 23.05 EUR
 prodname: 'SYLVANIAN FAMILIES- School Friends Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5170 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MHRT0PK/?tag=tolees-21'
 descuento: '47.25'
 average: '18.16'

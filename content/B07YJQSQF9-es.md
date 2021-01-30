@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SeeKool MINI 3 en 1 RC Drone Quadcopter  2.4GHZ Modo sin Cabeza y con Flips 360°  Tierra / Agua / Aire dron de Deformable Anfibio  Bueno para Principiantes - UH36F  Aerodeslizador Barco Niños Juguetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YJQSQF9/?tag=tolees-21'
 descuento: '30.01'
 average: '27.99'

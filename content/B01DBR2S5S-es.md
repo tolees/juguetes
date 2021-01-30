@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni - Pelota electrónica Musical  17109.5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DBR2S5S/?tag=tolees-21'
 descuento: '15.50'
 average: '10.9'

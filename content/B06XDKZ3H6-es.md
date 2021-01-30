@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Hasbro Gaming Gaming Novedad Juego Fantastic Gymnastics  C0376175 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDKZ3H6/?tag=tolees-21'
 descuento: '15.06'
 average: '9.969999999999999'

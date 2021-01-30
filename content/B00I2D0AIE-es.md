@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mousehouse Gifts Adorable muñecas de Trapo Hada de Peluche Rosa de 31 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I2D0AIE/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 15.13 EUR
 prodname: 'Petit Jour Paris - Cubertería Peppa Pig - Soporta la autonomía - PI903K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SF8RMBX/?tag=tolees-21'
 descuento: '21.08'
 average: '11.94'

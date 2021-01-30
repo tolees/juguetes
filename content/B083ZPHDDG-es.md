@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Teaisiy Juguetes para Niños  3-12 Años Juguetes Niño Binoculares Telescopio De Senderismo Juguetes para Niñas De 3-12 Años Regalos De Cumpleaños para Niños De 3-12 Años Regalos para Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083ZPHDDG/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

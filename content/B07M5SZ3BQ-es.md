@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'La Lego Película 2: El Videojuego'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21'
 descuento: '26.68'
 average: '24.655263157894737'

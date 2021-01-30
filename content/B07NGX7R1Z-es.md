@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Hot Wheels HW Figure 8 Raceway Trackset incluye 1 DCC  Mattel GGF92 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGX7R1Z/?tag=tolees-21'
 descuento: '51.10'
 average: '22.49'

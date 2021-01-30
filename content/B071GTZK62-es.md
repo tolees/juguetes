@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'BH Fitness I.Brazil Bicicleta Elíptica  Unisex  Blanco  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GTZK62/?tag=tolees-21'
 descuento: '33.37'
 average: '599.0'

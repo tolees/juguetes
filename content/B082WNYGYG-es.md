@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Playkin FASTER - Moto electrica niños bateria 6V recargable con luces y musica +3 años juguetes infantiles triciclo correpasillos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WNYGYG/?tag=tolees-21'
 descuento: '57.28'
 average: '46.99'

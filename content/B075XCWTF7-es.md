@@ -16,6 +16,7 @@ comparePrice: 23.86 EUR
 prodname: 'Juguetes de Baño Niños 3+ Años Juguetes de Natación Playa Red de pesca （6 Piezas）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075XCWTF7/?tag=tolees-21'
 descuento: '49.75'
 average: '12.156666666666666'

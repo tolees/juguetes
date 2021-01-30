@@ -16,6 +16,7 @@ comparePrice: 58.95 EUR
 prodname: 'MUOOUM - Cesta plegable para ropa sucia  cesta de ropa sucia  organizador de ropa sucia  organizador de ropa sucia para la colección de juguetes  pvc  Multi 07  19.3x11.8x15.9 in/49x30x40.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087BWPZNJ/?tag=tolees-21'
 descuento: '55.11'
 average: '26.46'

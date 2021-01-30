@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Abree Juego de Pesca Magnética 26 Peces  - Juguete Educativo&Interactivo de Pesca con Caña - Juguetes de Piscina & Bañera para Niños - Juego Acción&Juguete Reflejo para Bebé/Niños  2 - 5 años '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078SNQ3HH/?tag=tolees-21'
 descuento: '21.02'
 average: '11.696666666666667'

@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'Nerf - Laser Ops Deltaburst  Hasbro E2279EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CM99YRL/?tag=tolees-21'
 descuento: '60.89'
 average: '25.03'

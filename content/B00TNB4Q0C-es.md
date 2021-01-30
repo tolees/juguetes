@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Clementoni Pingüinos De Madagascar Puzzle 2000 Piezas Paris  32554 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TNB4Q0C/?tag=tolees-21'
 descuento: '21.11'
 average: '14.866666666666665'

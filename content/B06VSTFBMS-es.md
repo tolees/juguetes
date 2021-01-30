@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Pinypon Pack 2 mascotas  mariposa y mono  Famosa   700012732 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VSTFBMS/?tag=tolees-21'
 descuento: '63.03'
 average: '2.2'

@@ -16,6 +16,7 @@ comparePrice: 8.82 EUR
 prodname: 'Lego Star Wars Minifigur C-3PO out of set 75136  sw700 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BK0GZ48/?tag=tolees-21'
 descuento: '20.63'
 average: '7.0'

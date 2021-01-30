@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Famosa- PinyPon Action Pack 2 Figuras 22x20 cm  Multicolor  22 x 20 cm  700014492 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HJZ5L7G/?tag=tolees-21'
 descuento: '20.03'
 average: '7.19'

@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Famosa Pin y Pon New Look Pelo Lila 700015560'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RS8SHG/?tag=tolees-21'
 descuento: '43.93'
 average: '5.57'

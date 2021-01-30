@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'DUS Soporte para Halcón Milenario  Display Stand para Lego Millennium Falcon  Modelo de Lego No Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083SKFR97/?tag=tolees-21'
 descuento: '30.45'
 average: '15.99'

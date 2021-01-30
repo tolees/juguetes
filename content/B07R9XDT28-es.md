@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Eono by Amazon - Bolsas Compra Reutilizables Ecológicas Bolsa de Malla Hechas de Algodón Orgánico para Almacenamiento Fruta Verduras Juguetes Lavable y Transpirable  Diversos Tamaños  9 Pcs  2L+5M+2S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R9XDT28/?tag=tolees-21'
 descuento: '15.01'
 average: '17.11857142857143'

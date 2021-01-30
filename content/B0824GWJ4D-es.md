@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'YGJT Casco Bicicleta Niños Protección de Cabeza de Seguridad de Dibujos Animados S 50-54CM para Niños de 2-5 Peso Ligero Transpirable para para Bicicleta/Patineta/Scooter'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824GWJ4D/?tag=tolees-21'
 descuento: '58.34'
 average: '24.99'

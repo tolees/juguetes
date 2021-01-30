@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER es colchoneta Suelo de Camping EVA Puzzle Colchonetas 30cm x 30cm x1mm Naranja Verde Púrpura R02R08R11G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BLX71G/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

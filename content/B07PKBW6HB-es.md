@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Cargador de bateria 48v Cargador de Patinete 48v Cargador de batería de Plomo 48V Bicicleta eléctrica 48V  Carrito de Golf  Cargador de Scooter eléctrico.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PKBW6HB/?tag=tolees-21'
 descuento: '62.51'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Esterilla Puzzle de Fitness 30x30x1cm Suelo de Gimnasio de Goma Espuma EVA Blanco Rosado Gris R01R03R12G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BLRJ4S/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

@@ -16,6 +16,7 @@ comparePrice: 3.77 EUR
 prodname: 'Beito Luz De Radios De Bicicleta 1 Paquete De Bicicleta Habló De Luz 4 Colores Bicicleta Rueda Luz Luces De NeumáTicos De Bicicleta Luz De Alarma De Seguridad Mantener Seguro Y Divertido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TG99KZJ/?tag=tolees-21'
 descuento: '16.45'
 average: '3.15'

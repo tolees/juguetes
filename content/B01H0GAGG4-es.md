@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Warner Bros Interactive Spain Lego Dimensions: Nuevo Ghostbuster  Story Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H0GAGG4/?tag=tolees-21'
 descuento: '39.14'
 average: '24.541666666666668'

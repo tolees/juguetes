@@ -16,6 +16,7 @@ comparePrice: 7.54 EUR
 prodname: 'Michelin AIRSTOP CARRETERA - Camara de bicicleta 700 x 18-25C  presta v.80mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JAEF2M8/?tag=tolees-21'
 descuento: '34.35'
 average: '4.95'

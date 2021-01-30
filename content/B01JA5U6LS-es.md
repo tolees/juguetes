@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Fisher-Price Coche Monstruito verde  juguete gateo  bebé +9 meses  Mattel DRG15 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JA5U6LS/?tag=tolees-21'
 descuento: '27.58'
 average: '11.58'

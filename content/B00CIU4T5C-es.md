@@ -16,6 +16,7 @@ comparePrice: 6.81 EUR
 prodname: 'TAZA ENTRENAMIENTO 250 ML | PEPPA PIG'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CIU4T5C/?tag=tolees-21'
 descuento: '33.92'
 average: '4.5'

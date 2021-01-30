@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Cars 3- Coche Crazy Deluxe Ambulance  Mattel DYB22 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IKOYXWS/?tag=tolees-21'
 descuento: '22.26'
 average: '12.43'

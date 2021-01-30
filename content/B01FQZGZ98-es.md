@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bizak Comiditas - Juego para cocinar 63120001'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FQZGZ98/?tag=tolees-21'
 descuento: '49.97'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Manguitos Hinchables Bestway Barbie'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0ISQ6V/?tag=tolees-21'
 descuento: '43.92'
 average: '3.725'

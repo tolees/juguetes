@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Puzzle Mosaico  Mosaicos Infantiles  Juego Mosaico Pinchos Infantiles Desmontar 4 5 6 7 8 Años Puzzles  420 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079M47KBG/?tag=tolees-21'
 descuento: '44.86'
 average: '14.86'

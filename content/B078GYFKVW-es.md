@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Feisty Pets Peluche Oso Polar  única  Goliath Games 32326 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078GYFKVW/?tag=tolees-21'
 descuento: '20.01'
 average: '16.036666666666665'

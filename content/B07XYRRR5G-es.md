@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mordedor bebes Baby Teething Toys Juguetes de dentición para bebés  conjunto de mordedores de silicona natural de silicona suave  JRBT-GD '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XYRRR5G/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

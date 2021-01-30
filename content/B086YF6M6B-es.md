@@ -16,6 +16,7 @@ comparePrice: 45.74 EUR
 prodname: 'STEMtoy Juguetes para niñas de 3 a 4 años de Edad  Regalo para niñas  Juguetes de construcción de Jardines de Flores para niños pequeños  Juguetes educativos preescolares  127 PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086YF6M6B/?tag=tolees-21'
 descuento: '40.99'
 average: '26.99'

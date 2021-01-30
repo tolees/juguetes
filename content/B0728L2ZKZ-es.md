@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Oonies Estudio de globos  Famosa 700013962 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0728L2ZKZ/?tag=tolees-21'
 descuento: '34.28'
 average: '22.97'

@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Bizak- Figuras  Tomy 30699202 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JA03S9A/?tag=tolees-21'
 descuento: '17.48'
 average: '32.99'

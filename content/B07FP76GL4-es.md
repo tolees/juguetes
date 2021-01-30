@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Ninjago Spinjitzu Lloyd vs. Garmadon - Peonzas de ninjas de juguete  color verde y morada  70664    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP76GL4/?tag=tolees-21'
 descuento: '23.11'
 average: '13.846'

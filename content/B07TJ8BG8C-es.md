@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'LEGO Movie Pijamas de Manga Corta para niños Multicolor 11-12 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TJ8BG8C/?tag=tolees-21'
 descuento: '42.96'
 average: '11.95'

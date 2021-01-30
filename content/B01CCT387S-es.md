@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'LEGO STAR WARS - Sargenta Jyn ERSO  75119 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CCT387S/?tag=tolees-21'
 descuento: '22.23'
 average: '18.531020408163265'

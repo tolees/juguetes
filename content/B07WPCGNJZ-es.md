@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Star Wars - Figura de acción de Rey con sable de Galaxy of Adventures  Hasbro E3804EL2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WPCGNJZ/?tag=tolees-21'
 descuento: '24.40'
 average: '9.82'

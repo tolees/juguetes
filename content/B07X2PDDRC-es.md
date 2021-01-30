@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Pizarra Magnetica Infantil 135 Piezas Puzzle Rompecabezas Magnetico Madera Tablero de Dibujo de Doble Cara Juguetes Educativos para Niños 3 4 5 Años  Número y Letra '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2PDDRC/?tag=tolees-21'
 descuento: '15.01'
 average: '14.44'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'DC Super Hero Girls Muñeca Harley Quinn  Mattel DMM36 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AWGZRIQ/?tag=tolees-21'
 descuento: '37.52'
 average: '10.058571428571426'

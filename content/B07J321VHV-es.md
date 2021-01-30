@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'LRG Nueva tija de sillín de Fibra de Carbono y Bicicleta de montaña 27.2/30.8/31.6mm tija de Bicicleta de Fibra de Carbono 300mm / 350mm / 400mm  31.6  350 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J321VHV/?tag=tolees-21'
 descuento: '17.78'
 average: '36.99'

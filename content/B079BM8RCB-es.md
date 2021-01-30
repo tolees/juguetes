@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'TOP BRIGHT Juguete de Carrera de Coches para Niños Pequeños  Juego de Juguetes de Rampa de Camiones Conjuntos de Vehículos con 4 Coches de Madera  4 Rampas de Coche para Niños y Niñas de 1 a 6 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079BM8RCB/?tag=tolees-21'
 descuento: '50.00'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 199.42 EUR
 prodname: 'SmartGyro Xtreme XD Patín eléctrico para niños y jóvenes  ruedas 8"  3 velocidades  plegable  ligero  autonomía de 18 Km  batería de litio  freno eléctrico  Scooter  luces traseras  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZLYC4J/?tag=tolees-21'
 descuento: '25.08'
 average: '162.6'

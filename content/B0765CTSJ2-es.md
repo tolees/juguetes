@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'LEGO Creator - Pastelería Modular  Juguete de Construcción Educativo y Divertido para Niñas y Niños de 8 a 12 Años  Incluye Minifiguras  31077 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765CTSJ2/?tag=tolees-21'
 descuento: '28.58'
 average: '26.241999999999997'

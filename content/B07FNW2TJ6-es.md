@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO Friends - Clínica Veterinaria Móvil de Emma  juguete imaginativo de construcción para aventuras de mascotas  41360 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNW2TJ6/?tag=tolees-21'
 descuento: '25.03'
 average: '8.10111111111111'

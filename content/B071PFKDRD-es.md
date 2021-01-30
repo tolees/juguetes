@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Shimmer y Shine Alfombra mágica voladora  accesorio muñecas  Mattel FHN22 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071PFKDRD/?tag=tolees-21'
 descuento: '54.77'
 average: '23.128333333333334'

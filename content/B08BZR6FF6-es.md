@@ -16,6 +16,7 @@ comparePrice: 33.05 EUR
 prodname: 'LoveOlvidoF Tableta de Dibujo LCD para niños Magic Pad Juguetes educativos Bloqueo de diseño Anti-borrado Pintura Tablero de Dibujo para niños - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZR6FF6/?tag=tolees-21'
 descuento: '33.49'
 average: '21.98'

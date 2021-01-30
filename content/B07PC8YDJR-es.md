@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'SYLVANIAN FAMILIES Mini muñecas y Accesorios  Multicolor  Epoch 5362 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PC8YDJR/?tag=tolees-21'
 descuento: '44.42'
 average: '12.2'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LEGO Super Heroes Thanos: Batalla definitiva  construcción con Nave de Juguete de los Vengadores  Incluye Minifiguras de Iron-Man  Gamora y Star-Lord  76107 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075T1Q2YS/?tag=tolees-21'
 descuento: '25.33'
 average: '72.035'

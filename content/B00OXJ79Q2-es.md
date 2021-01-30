@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Djeco- Juego de Cartas PIOU  Multicolor  DJ05119 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OXJ79Q2/?tag=tolees-21'
 descuento: '35.97'
 average: '11.4'

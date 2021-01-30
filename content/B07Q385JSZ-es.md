@@ -16,6 +16,7 @@ comparePrice: 19.1 EUR
 prodname: 'Ravensburger - Multipack Memory+ 3 puzzle Gormiti  20519 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q385JSZ/?tag=tolees-21'
 descuento: '52.88'
 average: '12.433333333333334'

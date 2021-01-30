@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Dittzz Cabeza para Maquillar y Peinar  37 Piezas Juguetes de Belleza y Peluqueria con Accesorios Regalo para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JTY77ZY/?tag=tolees-21'
 descuento: '30.31'
 average: '22.99'

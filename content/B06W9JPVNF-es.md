@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Top Race Juego de Cubos de Arena y Palas de Arena 5 "en la Playa para niños | Juguetes de Playa y Arena | Uso para moldes de Arena en la Caja de Arena  Paquete de 12 Juegos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W9JPVNF/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'TROLLS - Coronación de la Princesa Poppy  Hasbro B6560EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GG1AXCG/?tag=tolees-21'
 descuento: '66.99'
 average: '9.55'

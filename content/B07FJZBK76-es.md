@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Disney Princess - Disney Princess Brillo Real Ariel  Hasbro E4156ES2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FJZBK76/?tag=tolees-21'
 descuento: '24.63'
 average: '9.79'

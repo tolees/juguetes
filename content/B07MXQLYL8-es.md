@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Hasbro Marvel Spider-Man Titan Hero Power FX con Lanzador de Brazo  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXQLYL8/?tag=tolees-21'
 descuento: '19.34'
 average: '14.51'

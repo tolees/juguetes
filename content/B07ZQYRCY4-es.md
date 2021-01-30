@@ -16,6 +16,7 @@ comparePrice: 32.69 EUR
 prodname: 'Marvel- Black Widow Legends Summer Civilian  Hasbro E87705X0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQYRCY4/?tag=tolees-21'
 descuento: '20.19'
 average: '26.09'

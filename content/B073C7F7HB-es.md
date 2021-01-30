@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Fisher-Price Monito gatea conmigo  juguete gateo  bebé +3 meses  Mattel FHF75 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073C7F7HB/?tag=tolees-21'
 descuento: '40.14'
 average: '9.963333333333333'

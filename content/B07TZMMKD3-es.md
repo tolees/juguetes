@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'URCERI Llave dinamométrica 1/4"  5-25Nm   Llave de torque de Acero con Alta Precisión ±4%  con Barra de Extensión de 2"y 3 Adaptadores 8/10/12mm   Calibrada de Clic para coche  bicicleta  moto  etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZMMKD3/?tag=tolees-21'
 descuento: '18.19'
 average: '26.99'

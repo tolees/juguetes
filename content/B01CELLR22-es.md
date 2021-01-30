@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Hasbro Gaming Clasico Cluedo  Versión Española   38712546 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CELLR22/?tag=tolees-21'
 descuento: '30.03'
 average: '21.465999999999998'

@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo Goma EVA Puntos Púrpura R11G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WVSSGQ/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

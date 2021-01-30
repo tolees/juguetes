@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Harry Potter Muñeco Harry de la colección de Harry Potter  Mattel FYM50 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGZS32G/?tag=tolees-21'
 descuento: '30.86'
 average: '19.085'

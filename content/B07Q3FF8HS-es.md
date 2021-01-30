@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Sylvanian Families - 5365 - La mansión de Stella'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3FF8HS/?tag=tolees-21'
 descuento: '16.74'
 average: '49.95'

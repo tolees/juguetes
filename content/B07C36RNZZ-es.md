@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'SkullCap® Casco Bicicleta Carretera  Casco Bici Adulto  Casco Bici montaña MTB  Hombre  Mujer  Unisex  tamaño L  59-61 cm   Color: Neon Verde/Amarillo Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C36RNZZ/?tag=tolees-21'
 descuento: '28.61'
 average: '49.9'

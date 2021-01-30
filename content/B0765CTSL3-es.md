@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Juniors - Fuga del T Rex  Set de Construcción de Juguete de Dinosaurio con Muñeco del Tiranosaurio y Minifiguras para Niños y Niñas  10758 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765CTSL3/?tag=tolees-21'
 descuento: '25.00'
 average: '51.78333333333333'

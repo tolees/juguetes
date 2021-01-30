@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Yosoo Matemáticas Manipuladores De Madera Barras de Contar Palos Tarjetas de Números Bloques de Construcción Juguetes Educativos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NCMCX57/?tag=tolees-21'
 descuento: '49.87'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Cefa Toys- Equipo Profesional de Geólogo Stream  Multicolor  única  21833 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K9YFKRO/?tag=tolees-21'
 descuento: '40.01'
 average: '29.99'

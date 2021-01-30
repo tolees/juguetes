@@ -16,6 +16,7 @@ comparePrice: 25.6 EUR
 prodname: 'iMiMi Rainbow Stacker clásico juguete de desarrollo juguetes de artesanía superior 8 anillos lisos base de madera maciza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PWLVD6/?tag=tolees-21'
 descuento: '37.42'
 average: '16.02'

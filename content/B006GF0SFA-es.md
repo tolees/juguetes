@@ -16,6 +16,7 @@ comparePrice: 9.36 EUR
 prodname: 'Elite Custom Race - Portabidón de Fibra para Bicicleta  gomilla de elastómero  Color Negro Mate/Gris  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006GF0SFA/?tag=tolees-21'
 descuento: '17.20'
 average: '7.75'

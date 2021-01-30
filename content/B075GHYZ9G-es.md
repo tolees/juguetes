@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'LEGO Star Wars- First Order AT-ST Lego Juego de Construcción  Multicolor  única  75201 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GHYZ9G/?tag=tolees-21'
 descuento: '17.91'
 average: '54.831250000000004'

@@ -16,6 +16,7 @@ comparePrice: 9.88 EUR
 prodname: 'CAIDUD Juguetes para aliviar el estrés  Fun Memory Toy Descompresión Juguete Decoración Material Seguro Música Cute Plastic Toys'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRTSDDH/?tag=tolees-21'
 descuento: '40.49'
 average: '5.88'

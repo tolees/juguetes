@@ -16,6 +16,7 @@ comparePrice: 13.08 EUR
 prodname: 'Ravensburger Disney Frozen Mini Memory Juego de emparejar Cartas - Juegos de Cartas  3 año s   Juego de emparejar Cartas  Niño/niña  150 mm  40 mm  150 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LN84OPA/?tag=tolees-21'
 descuento: '37.84'
 average: '8.510000000000002'

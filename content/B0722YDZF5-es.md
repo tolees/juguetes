@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Tiny Love Dynamic Gymini Gimnasio musical de actividades con juguetes electrónicos  grabadora con luces y música  alfombra bebé alcochada grande 110 x 90 cm  Arcos ajustables moviles  Meadow days'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0722YDZF5/?tag=tolees-21'
 descuento: '27.28'
 average: '67.99'

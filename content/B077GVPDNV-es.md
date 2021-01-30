@@ -16,6 +16,7 @@ comparePrice: 157.29 EUR
 prodname: 'Makeblock 125089936 Juguete programable - Juguetes programables  Set de construcción programable  Multicolor  De plástico  6 año s   Android iOS  Bluetooth '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GVPDNV/?tag=tolees-21'
 descuento: '37.63'
 average: '98.1'

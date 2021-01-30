@@ -16,6 +16,7 @@ comparePrice: 27.53 EUR
 prodname: 'Safta Sport Bag 40 Cm Superzings  Bolsa de gimnasio Unisex bebé  Colorido  40 Centimeters'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V24FH1T/?tag=tolees-21'
 descuento: '23.57'
 average: '21.04'

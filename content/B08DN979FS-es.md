@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WISHTIME Sonajeros de Bebe Juguetes de Mordedor Infante Sacudiendo la Campana Conjunto de Sonajero con Caja de Almacenamiento Juguetes de Regalo para 0  3  6  9  12 Meses de Edad y Recién Nacido Bebe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DN979FS/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

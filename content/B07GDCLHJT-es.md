@@ -16,6 +16,7 @@ comparePrice: 100.03 EUR
 prodname: 'Autopmall GPS Tracker Bicicleta Tiempo de Espera 300 Horas Impermeable SOS Overspeed Alarma fácil de ser Oculto por Toda la Vida Plataforma Free  1.10  Color TK906'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDCLHJT/?tag=tolees-21'
 descuento: '44.15'
 average: '55.87'

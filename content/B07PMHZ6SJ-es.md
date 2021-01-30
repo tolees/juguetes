@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rolimate Wooden Toy 5 en 1  Laberinto con Abalorios de Madera Arcoíris Juguetes Educativos Preescolares Los Mejores Niños Niñas Bebé 1 2 3 4 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMHZ6SJ/?tag=tolees-21'
 descuento: '25.01'
 average: '29.389999999999997'

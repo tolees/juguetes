@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Aletas de natación para niños  diseño de sirena ajustable  para natación  buceo  monofín  entrenamiento  aletas para pies para adultos  equipo de buceo profesional  juguetes de aguaL-18 x 57x54cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZ22BV1/?tag=tolees-21'
 descuento: '66.53'
 average: '8.7'

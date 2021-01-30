@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'DC Justice League Figura de Acción 30 cm Superman  Juguetes Niños +3 años  Mattel GDT50 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSKP9JR/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

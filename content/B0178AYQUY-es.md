@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'ION fitness AXEL FI022 bicicleta estática plegable con respaldo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0178AYQUY/?tag=tolees-21'
 descuento: '21.83'
 average: '179.0'

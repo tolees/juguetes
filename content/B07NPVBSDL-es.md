@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Bizak Aire Libre Skip It 2 en 1  BIZAK 35007558 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPVBSDL/?tag=tolees-21'
 descuento: '41.41'
 average: '10.54'

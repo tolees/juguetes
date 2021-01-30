@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Ravensburger Harry Potter Puzzle para adultos  multicolor  100 XXL piezas  15171 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVS6FQD/?tag=tolees-21'
 descuento: '25.08'
 average: '11.95'

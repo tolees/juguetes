@@ -16,6 +16,7 @@ comparePrice: 24.61 EUR
 prodname: 'Disney Simba 6315874752 Frozen Peluche Muñeco de Nieve Olaf 35 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BWPM95K/?tag=tolees-21'
 descuento: '37.46'
 average: '15.39'

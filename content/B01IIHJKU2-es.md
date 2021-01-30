@@ -16,6 +16,7 @@ comparePrice: 11.57 EUR
 prodname: 'Pinypon by PINY PINY - Dareway Julia  muñeca con accesorios  Famosa 700012963 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IIHJKU2/?tag=tolees-21'
 descuento: '53.50'
 average: '10.290816326530614'

@@ -16,6 +16,7 @@ comparePrice: 8.48 EUR
 prodname: 'Despicable Me 9079 "DM3 Cárcel Minions Tom de Peluche  tamaño Grande '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WD7X47W/?tag=tolees-21'
 descuento: '16.27'
 average: '7.925'

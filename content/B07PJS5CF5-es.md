@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Mksutary Walkie Talkie Recargable  2 x Walkie Talkie Niños Juguetes 8 Canales PMR 446MHz Larga Distancia 3 KM VOX Auto Escanear con Cargador Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJS5CF5/?tag=tolees-21'
 descuento: '55.12'
 average: '21.99'

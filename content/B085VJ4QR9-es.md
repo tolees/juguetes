@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Bolsa de fiesta de para niñas  relleno para piñatas  120 piezas de favores de unicornio para niñas  surtido de juguetes de regalo para fiestas de relleno de piñatas para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085VJ4QR9/?tag=tolees-21'
 descuento: '19.06'
 average: '16.99'

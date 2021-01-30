@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'LEGO STAR WARS - Linterna Ledlite con diseño de Yoda  Color Verde  812749L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B015Q2NJNG/?tag=tolees-21'
 descuento: '72.24'
 average: '18.451538461538462'

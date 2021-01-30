@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Espejos Retrovisores de Moto 7/8’’Retrovisores Moto Espejos Moto para Motocicleta Touring Cruiser Chopper Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXHGM66/?tag=tolees-21'
 descuento: '26.68'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 29.94 EUR
 prodname: 'Kinetic Sand Sandtastic Arena Kinética  BIZAK 61921467 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQ1JK1M/?tag=tolees-21'
 descuento: '33.23'
 average: '19.99'

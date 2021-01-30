@@ -16,6 +16,7 @@ comparePrice: 17.58 EUR
 prodname: 'Moliies Rompecabezas Niños Niños Niños Niñas Escritura magnética Pintura Dibujo Tablero de Graffiti Juguete Dibujo y blocs de Dibujo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RXLB99/?tag=tolees-21'
 descuento: '34.98'
 average: '11.43'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Gormiti Serie2 Figuras de 25 cm con luz y Sonidos  2 Modelos Surtidos  Envío ALEATORIO  color  Famosa GRE04000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TPWK9T6/?tag=tolees-21'
 descuento: '16.56'
 average: '24.653333333333332'

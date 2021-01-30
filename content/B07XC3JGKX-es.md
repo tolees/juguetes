@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'Polly Pocket Autocaravana transformable con accesorios  Mattel GKL49 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC3JGKX/?tag=tolees-21'
 descuento: '36.03'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'DUPLO Town DUPLO Construction Buldócer Vehículo de Construcción de Juguete Set para Niños Pequeños de 2+ Años de Edad  multicolor  Lego ES 10930 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0813RB2BW/?tag=tolees-21'
 descuento: '15.02'
 average: '8.49'

@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Promise Babe 3pc Colgante Mordedor de Silicona Juguetes para la Dentición del Bebé Accesorio de Dentición Helado Perro Hipopótamo Animal Coloridos Granos de Masticación'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HL8DHYC/?tag=tolees-21'
 descuento: '33.10'
 average: '13.38'

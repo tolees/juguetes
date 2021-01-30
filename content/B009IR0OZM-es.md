@@ -16,6 +16,7 @@ comparePrice: 14.98 EUR
 prodname: 'Puzzle Mates 17691 - Tapete para enrollar puzzles  hasta 3000 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009IR0OZM/?tag=tolees-21'
 descuento: '40.65'
 average: '9.04'

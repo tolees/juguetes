@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mega Bloks Bloquefante divertido. Jugete de construcción para bebé + 1 año  Mattel FFG21 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT6MGNC/?tag=tolees-21'
 descuento: '30.56'
 average: '24.99'

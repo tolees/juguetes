@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Ravensburger- Puzzle 3D 324 pièces Notre-Dame de Paris  Color néant  34 2x16 4x25 8cm  12523 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B47YM8Y/?tag=tolees-21'
 descuento: '19.67'
 average: '37.095'

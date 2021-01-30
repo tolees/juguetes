@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Barbie Muñeca Chelsea y su tren de mascotas  accesorios muñeca  Mattel FRL86 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JLPZYN/?tag=tolees-21'
 descuento: '22.18'
 average: '17.89'

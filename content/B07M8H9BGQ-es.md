@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Philips Avent Peluche con chupete SCF348/13 - Peluche de elefante con chupete ultra soft  sin BPA  0-6 meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8H9BGQ/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

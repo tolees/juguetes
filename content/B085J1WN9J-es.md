@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'NIMNIK Alimentos Juguetes de Madera Set de Alimentos de Corte Pretend Food Cutting Juegos de Madera Juego de Alimentos para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085J1WN9J/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

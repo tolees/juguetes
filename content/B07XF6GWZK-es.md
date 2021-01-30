@@ -16,6 +16,7 @@ comparePrice: 27.59 EUR
 prodname: 'Symiu Puzzle Madera Juego Ajedrez Cartas de Memoria Juguetes Aprendizaje Educativo Regalo para Niños Niñas 3 4 5 6 Años con Reloj Arena'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF6GWZK/?tag=tolees-21'
 descuento: '38.42'
 average: '16.99'

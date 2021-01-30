@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Educa Borrás- Personajes fántasticos Puzzle  17099 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N5SKKSB/?tag=tolees-21'
 descuento: '30.58'
 average: '8.99'

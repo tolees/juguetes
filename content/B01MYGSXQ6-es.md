@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Nancy - Un día de lluvia  Muñeca con chubasquero  paraguas y botas de agua  Famosa 700013517 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MYGSXQ6/?tag=tolees-21'
 descuento: '27.25'
 average: '21.849999999999998'

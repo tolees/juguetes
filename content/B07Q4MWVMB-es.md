@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Ubitree DIY Varita de Burbujas Gigante Pompas de jabón Palos Pompa Gigantes Barras Extensibles Metálicas Grandes Pompas Maquina Burbuja Juguetes para niños Verano al Aire Libre Parque Entretenimiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4MWVMB/?tag=tolees-21'
 descuento: '33.35'
 average: '15.99'

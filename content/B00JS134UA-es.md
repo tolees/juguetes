@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Nenuco - Nenuco y su hermanito van al cole  Famosa 700010920    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JS134UA/?tag=tolees-21'
 descuento: '15.40'
 average: '54.95'

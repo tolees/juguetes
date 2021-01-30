@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'himaly Mini Bicicleta de Ejercicio portátil casa Pedal Ejercicio Gimnasio Fitness Brazo de Entrenamiento Cardiovascular Resistencia Ajustable con Pantalla LCD para Mujeres y Hombres'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CV9XC4N/?tag=tolees-21'
 descuento: '56.54'
 average: '29.99'

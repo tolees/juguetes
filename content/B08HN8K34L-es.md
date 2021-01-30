@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'FancyWhoop Cubos de Cambio de Cara de Juguete Montessori Juguetes  Expression Puzzle Building Cubos  Educativos Bloques Pensamiento Entrenamiento Lógica Rompecabezas Educativos Regalo para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HN8K34L/?tag=tolees-21'
 descuento: '26.33'
 average: '13.99'

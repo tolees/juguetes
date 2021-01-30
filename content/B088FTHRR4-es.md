@@ -16,6 +16,7 @@ comparePrice: 4.55 EUR
 prodname: 'Wuyee Regalos de Madera Juguete de diseño Kendama Copa Juego para niños Juguetes Hechos a Mano de la Bola de Captura de Habilidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088FTHRR4/?tag=tolees-21'
 descuento: '39.34'
 average: '2.76'

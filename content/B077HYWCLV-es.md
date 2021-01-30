@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Mattel Phase 10  Juego de Cartas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HYWCLV/?tag=tolees-21'
 descuento: '32.67'
 average: '11.11'

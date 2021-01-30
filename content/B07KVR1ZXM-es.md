@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Harry Potter - Muñeco Harry Quidditch  Juguetes Niños +6 Años  Mattel GDJ70 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KVR1ZXM/?tag=tolees-21'
 descuento: '18.88'
 average: '20.2'

@@ -16,6 +16,7 @@ comparePrice: 43.77 EUR
 prodname: 'GRAT.UNIC Pantalones Cortos de Bicicleta Shorts de Ciclismo 9D Padded Shorts Gel de Silicona Biker Shorts  Medio Pantalones para Bicicleta de Carretera  Negro  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2GPDSB/?tag=tolees-21'
 descuento: '58.90'
 average: '17.49'

@@ -16,6 +16,7 @@ comparePrice: 13.47 EUR
 prodname: 'Posavasos de Puzzle  6 piezas 3 marrón 3 beige  lavable  OSS  Gilde Handwerk'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0119PWAP2/?tag=tolees-21'
 descuento: '45.29'
 average: '7.37'

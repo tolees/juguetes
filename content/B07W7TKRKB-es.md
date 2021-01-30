@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO Friends - Heladería Móvil  Set de Construcción de Carrito para Vender Helados y Dulces  Incluye Muñeca de Stephanie  Dash el Perro y una Moto Scooter Azul  41389 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7TKRKB/?tag=tolees-21'
 descuento: '18.12'
 average: '8.595'

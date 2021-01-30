@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'STAR WARS- E9 Figura Boba Fett  Hasbro E3811ES0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0812GZMXM/?tag=tolees-21'
 descuento: '24.40'
 average: '9.82'

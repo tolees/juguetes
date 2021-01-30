@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Pinypon Cupcake Cuties Doll Playset  5-Pack '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IYT5WNO/?tag=tolees-21'
 descuento: '31.05'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Bebés Suave Silencioso Alfombra  Niños Puzzle Alfombrilla  Encajable Suelo Pad  Infantil Casita Pad Protector Acolchado Ejercicio Amarillo Gris R05R12G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BM5Q1Z/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

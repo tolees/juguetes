@@ -16,6 +16,7 @@ comparePrice: 13.75 EUR
 prodname: 'LEGO - Overwatch Tracer vs. Widowmaker Set de construcción con Nave de Juguete inspirado en el Videojuego  Novedad 2019  75970 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J6BFKC8/?tag=tolees-21'
 descuento: '19.27'
 average: '13.878571428571428'

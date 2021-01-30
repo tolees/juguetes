@@ -16,6 +16,7 @@ comparePrice: 3.37 EUR
 prodname: 'Kingnew Peluche Suave kauspielzeug  Durable Squeak Perro Mascota Juguete Peluche Sonido Monster  einäugiges Juguete Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D3T6LFQ/?tag=tolees-21'
 descuento: '59.05'
 average: '1.38'

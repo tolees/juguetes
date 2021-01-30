@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'VTech - Pequepatitas  Juguete para bebé  Color Rojo  80-111222 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZSTYQQ/?tag=tolees-21'
 descuento: '36.01'
 average: '19.19'

@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'Clementoni 39022 Puzzle Puzzle - Rompecabezas  Puzzle Rompecabezas  Ciudad  Niños y Adultos  58 mm  370 mm  281 mm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072Z7KNNS/?tag=tolees-21'
 descuento: '40.85'
 average: '8.02'

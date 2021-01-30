@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'SMARTGYRO X1s Hoverboard eléctrico  Unisex Adulto  Negro  Talla única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LF8DTZ8/?tag=tolees-21'
 descuento: '28.13'
 average: '108.65'

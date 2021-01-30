@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'XOSS Cadencia/Velocidad Sensor para la computadora de la Bici teléfono Inteligente Bluetooth/Ant + Modo Dual Ciclismo Bicicleta inalámbrica  Cadencia/Velocidad Sensor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TRKC7F2/?tag=tolees-21'
 descuento: '30.01'
 average: '20.99'

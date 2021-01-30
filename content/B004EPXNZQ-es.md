@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Educa Borras - XXL Puzzles  Puzzle 9.000 piezas  El Jardin de las Delicias  14831 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EPXNZQ/?tag=tolees-21'
 descuento: '28.61'
 average: '80.48666666666666'

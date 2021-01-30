@@ -16,6 +16,7 @@ comparePrice: 16.98 EUR
 prodname: 'Liny Bebé Flotador Inflable Anillo de Natación Flamenco - Niños Boya de Natación Niñas Natación de Juguete Cisne Asiento de Natación La Seguridad Piscina Playa Dibujos Animados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CP2FKL1/?tag=tolees-21'
 descuento: '41.22'
 average: '9.98'

@@ -16,6 +16,7 @@ comparePrice: 13.87 EUR
 prodname: 'Guizu Juguetes para bebés: Juguetes de baño  Pistolas de Agua  Pistolas de Agua  Juguetes para niños  utilizados en la Guerra del Agua  Playa  Piscina  Pistolas de Agua para Adultos y niños  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088Q79RNQ/?tag=tolees-21'
 descuento: '37.56'
 average: '8.66'

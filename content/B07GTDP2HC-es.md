@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Doctora Juguetes - Maletin Medico Conjunto Enfermera Juguete con Latidos del Corazón y Luz Regalos Cumpleaños Niños 3+ Juego de rol Herramientas Juguetes 12 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GTDP2HC/?tag=tolees-21'
 descuento: '60.02'
 average: '11.99'

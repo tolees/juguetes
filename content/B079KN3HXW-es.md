@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Polly Pocket Cofre refugio de nieve  muñeca con accesorios  Mattel FRY37    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KN3HXW/?tag=tolees-21'
 descuento: '33.36'
 average: '10.99'

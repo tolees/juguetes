@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Barriguitas Clínica Loca  Famosa 700013940 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719SXQTC/?tag=tolees-21'
 descuento: '39.96'
 average: '33.61333333333333'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'CubicFun Puzzle 3D Harry Potter Torre de la Astronomía de Hogwarts Puzzles 3D Kits de Construcción Maquetas para Construir Adultos Regalo para Niños Adolescentes  237 Pizas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RL84CC/?tag=tolees-21'
 descuento: '15.00'
 average: '33.49'

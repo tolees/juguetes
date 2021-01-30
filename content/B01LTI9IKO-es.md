@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Piny Muñeca Fashion Julia  Famosa 700013446 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTI9IKO/?tag=tolees-21'
 descuento: '33.70'
 average: '15.929411764705884'

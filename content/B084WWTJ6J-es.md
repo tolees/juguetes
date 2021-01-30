@@ -16,6 +16,7 @@ comparePrice: 5.37 EUR
 prodname: 'Panamami Nuevos Juguetes Inteligentes para Juegos Los Juguetes educativos tridimensionales de Cuatro Juegos Cuatro ajedrez y Cinco Juegos de Mesa para niños - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WWTJ6J/?tag=tolees-21'
 descuento: '35.01'
 average: '3.49'

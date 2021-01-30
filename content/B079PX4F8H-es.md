@@ -16,6 +16,7 @@ comparePrice: 14.1 EUR
 prodname: 'Clementoni-39421 Puzzle 1000 Piezas Dutch Dreamworld  39421.0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PX4F8H/?tag=tolees-21'
 descuento: '22.41'
 average: '10.94'

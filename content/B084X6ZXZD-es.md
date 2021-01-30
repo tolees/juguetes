@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Alfombra Puzzle de Colores de Goma EVA Suave  Resistente  Aislante  Lavable  Alfombra de Juegos para niños  tamaño del 30 x 30 cm Blanco Negro R01R04G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084X6ZXZD/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

@@ -16,6 +16,7 @@ comparePrice: 43.44 EUR
 prodname: 'Tiny Love Sunny Stroll  Arco de Actividades con Juguetes Sonajeros  a partir de 0 Meses  Clip Ajustable apto para Cualquier Cochecito o Silla de Bebé  Magical Tales'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C3PSD8K/?tag=tolees-21'
 descuento: '15.98'
 average: '36.5'

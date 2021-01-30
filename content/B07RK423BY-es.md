@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Toy Story Figura Buzz Lightyear Acción Karate 30 cm  BIZAK 61234068 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RK423BY/?tag=tolees-21'
 descuento: '49.30'
 average: '18.950909090909086'

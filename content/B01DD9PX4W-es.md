@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'HOMCOM Alfombra Puzle 2.41㎡ Niños 26 Letras Goma Espuma Estera Juego Puzzle'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DD9PX4W/?tag=tolees-21'
 descuento: '15.01'
 average: '24.64'

@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Tablets de Escritura LCD a Color Tablero de Dibujo eWriter 10 Pulgada Gráfica Pizarra Magica de Memo Pad Electrónico Escritura Digital Regalos para Niños Muchachos Chicas Juguetes 3-6 Años  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ6CFWG/?tag=tolees-21'
 descuento: '21.44'
 average: '21.99'

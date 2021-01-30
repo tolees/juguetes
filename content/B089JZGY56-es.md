@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'LinStyle Juguetes del Baño  Máquina de Burbujas de Baño con 12 Música Burbuja Automática Juguetes del Baño Azul Cangrejo Maquina de Burbujas para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089JZGY56/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

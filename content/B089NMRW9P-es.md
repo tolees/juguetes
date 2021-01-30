@@ -16,6 +16,7 @@ comparePrice: 39.46 EUR
 prodname: 'qingqingR Anillo de natación para bebés Anillo de natación Inflable para Flotador para bebés con Anillo de Seguridad para la Piscina del Asiento'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089NMRW9P/?tag=tolees-21'
 descuento: '50.00'
 average: '19.73'

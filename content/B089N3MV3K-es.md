@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Toozey Juguetes Mordedor Perros Grandes Resistentes - Juguetes para Dientes de Cachorro Pequeños  Medianos y Grandes Juguetes para Perros - Sabor de Carne de Res Natural no tóxico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089N3MV3K/?tag=tolees-21'
 descuento: '60.74'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'VTech - Tut Tut Bólidos Central de policía  Playset interactivo con diferentes tramos y niveles de pistas  incluye un coche de policía y otro de los ladrones  multicolor  3480-512922 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KGLBKQ4/?tag=tolees-21'
 descuento: '23.08'
 average: '39.99'

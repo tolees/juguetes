@@ -16,6 +16,7 @@ comparePrice: 13.74 EUR
 prodname: 'TKM 10720 Cámara Bicicleta Antipinchazos 26X1.75  Adultos Unisex  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018EM10ZO/?tag=tolees-21'
 descuento: '20.74'
 average: '10.89'

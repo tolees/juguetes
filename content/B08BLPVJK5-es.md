@@ -16,6 +16,7 @@ comparePrice: 99.65 EUR
 prodname: 'Tablero de dibujo para niños Caballete de madera de doble cara Tablero de dibujo para niños Caballete de madera con diversión Educación Aprender a fingir jugar Juegos Juguetes Jardín de infa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BLPVJK5/?tag=tolees-21'
 descuento: '32.77'
 average: '66.99'

@@ -16,6 +16,7 @@ comparePrice: 28.02 EUR
 prodname: 'Juguetes Montessori Bebes Educativos de Madera Laberinto Cubo de Actividades 5 EN 1 Laberinto Regalo para Bebés Niños 3 4 5+ Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089M5MS7L/?tag=tolees-21'
 descuento: '35.90'
 average: '17.860000000000003'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'YIMORE Conjunto de Juguetes Arena para la Playa en Bolsa de Malla  moldes de Arena para niños  Colores Surtidos  13 Pedazos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D1XCQ4T/?tag=tolees-21'
 descuento: '23.09'
 average: '12.747096774193547'

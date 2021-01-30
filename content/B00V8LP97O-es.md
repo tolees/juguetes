@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Silverlit-Mi Primer  World Brands   teledirigidos  Aviones  helicoptero RC  Radio Control  Juguetes  Drones para niños  Color azul  84703 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V8LP97O/?tag=tolees-21'
 descuento: '23.33'
 average: '31.858421052631577'

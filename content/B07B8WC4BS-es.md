@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Hot Wheels Supergaraje  Garaje para Coches de Juguete  multicolor Mattel GWT34   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B8WC4BS/?tag=tolees-21'
 descuento: '23.08'
 average: '52.51375'

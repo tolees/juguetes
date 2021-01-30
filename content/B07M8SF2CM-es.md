@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Supersoaker Fortnite Rl  multicolor  Box size: 68.3 x 28 x 8cm  Hasbro E6874EU5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8SF2CM/?tag=tolees-21'
 descuento: '40.76'
 average: '15.99'

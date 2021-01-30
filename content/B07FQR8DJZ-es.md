@@ -16,6 +16,7 @@ comparePrice: 12.2 EUR
 prodname: 'Cottage im Herbst - Puzzle mit 500 Teilen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FQR8DJZ/?tag=tolees-21'
 descuento: '40.08'
 average: '7.305'

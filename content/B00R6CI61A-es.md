@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Fisher-Price - Gimnasio musical animalitos - gimnasios bebe -  Mattel CHP85 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R6CI61A/?tag=tolees-21'
 descuento: '19.15'
 average: '34.73916666666666'

@@ -16,6 +16,7 @@ comparePrice: 15.73 EUR
 prodname: 'L.O.L. Surprise 22050 - Reloj Digital con Correa en Plástico  Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMNKDYJ/?tag=tolees-21'
 descuento: '17.67'
 average: '11.754999999999999'

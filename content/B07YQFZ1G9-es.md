@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Denver - Bicicleta Infantil de 14 Pulgadas  diseño de Unicornio  Color Blanco y Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YQFZ1G9/?tag=tolees-21'
 descuento: '39.04'
 average: '60.9'

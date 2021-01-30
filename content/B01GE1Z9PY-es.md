@@ -16,6 +16,7 @@ comparePrice: 20.95 EUR
 prodname: 'Pinypon by PINY Set de Cuatro muñecas  Multicolor  Famosa 700012916 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GE1Z9PY/?tag=tolees-21'
 descuento: '28.64'
 average: '16.067500000000003'

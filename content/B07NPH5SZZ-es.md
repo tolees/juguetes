@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'yoptote Caja Registradora Juguetes Supermercado Infantil Mercado Juguete Alimentos Juguetes Educación Calculo con Micrófono y Iluminar para Niño de 3 Años+  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPH5SZZ/?tag=tolees-21'
 descuento: '50.01'
 average: '17.99'

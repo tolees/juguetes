@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'HoneyHolly Botella de Agua Deportes 800ml Sin Bpa & Apertura con un Solo botón Reutilizable Filtro Botella Gimnasio Tritan Plástico para Niños  Sport  Gimnasio  Trekking  Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WPD6BXX/?tag=tolees-21'
 descuento: '23.09'
 average: '15.578000000000001'

@@ -16,6 +16,7 @@ comparePrice: 39.66 EUR
 prodname: 'Hot Wheels-GLC96 Juguete  Multicolor  Mattel GLC96 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RMCGP21/?tag=tolees-21'
 descuento: '24.38'
 average: '29.99'

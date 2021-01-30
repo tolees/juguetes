@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Fisher Price Andador Bolitas Saltarinas  Correpasillos Bebé  Mattel FGY72 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077HX3NDH/?tag=tolees-21'
 descuento: '36.86'
 average: '15.574'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Sportneer Under Desk Bike Mini bicicleta de ejercicios de ciclo de pedal portátil con monitor digital y alfombra antideslizante  resistencia ajustable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XBZ4W9P/?tag=tolees-21'
 descuento: '16.67'
 average: '49.99'

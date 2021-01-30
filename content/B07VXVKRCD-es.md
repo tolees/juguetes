@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Wimypet 10 Piezas Juguetes de Cuerda para Perros  Grupo de Juguetes para Perros  Durable Masticable Cuerda Soledad para Pequeñas y Medianas Perros  Mantener a Su Perro Sano  Seguro  no Tóxico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXVKRCD/?tag=tolees-21'
 descuento: '23.09'
 average: '19.32333333333333'

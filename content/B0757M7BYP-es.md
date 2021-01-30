@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Devir - Carcassonne: La Torre  juego de mesa  BGCARTO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0757M7BYP/?tag=tolees-21'
 descuento: '16.30'
 average: '18.369999999999997'

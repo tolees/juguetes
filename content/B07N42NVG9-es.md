@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'BACKTURE Sillín Bicicleta  Asiento de Bicicleta de Gel Transpirable y Profesional con Dos Amortiguadores  para MTB/Bicicleta de Carretera/Bicicleta Urbana'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N42NVG9/?tag=tolees-21'
 descuento: '15.01'
 average: '16.423333333333332'

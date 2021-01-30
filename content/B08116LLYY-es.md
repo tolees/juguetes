@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'NEWSTYLE Caja de Almacenamiento de Tela Grande Plegable Cuadrados Cestas de Almacenamiento para Ropa  Juguetes Organizador Cestas de vivero  Estante de Almacenamiento de contenedores  Polar Bear '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08116LLYY/?tag=tolees-21'
 descuento: '45.02'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'TOP BRIGHT Juguetes Magnéticos para Niños Pequeños  Juego de Captura y Alimentación  Juguetes de Habilidades Motoras Finas  Regalos de Aprendizaje Temprano para Niñas y Niños de 2 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJ6G63W/?tag=tolees-21'
 descuento: '50.00'
 average: '19.99'

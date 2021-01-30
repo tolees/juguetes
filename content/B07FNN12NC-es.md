@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Friends - Aventura en el Bosque de Mia  juguete creativo de construcción de aventuras con patinete y animales  41363 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNN12NC/?tag=tolees-21'
 descuento: '54.50'
 average: '10.452307692307693'

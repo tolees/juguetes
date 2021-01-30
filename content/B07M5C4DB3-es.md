@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro Gaming - Juego infantil Tiny Pong  Hasbro E3112EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M5C4DB3/?tag=tolees-21'
 descuento: '57.10'
 average: '13.05'

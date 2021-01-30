@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Fantastic Beasts - Maleta de Criaturas Mágicas de Newt  Juguete de Construcción Inspirado en Animales Fantásticos  75952 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792RMHLN/?tag=tolees-21'
 descuento: '25.37'
 average: '42.515'

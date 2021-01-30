@@ -16,6 +16,7 @@ comparePrice: 9.65 EUR
 prodname: 'Clementoni- Puzzle 60 Piezas Aladino  Multicolor  26053.9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MY379NT/?tag=tolees-21'
 descuento: '31.30'
 average: '6.63'

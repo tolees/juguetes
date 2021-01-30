@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Pinypon- Figuras  Color Pirata Gorro Azul  Miscelanea  Famosa 13363 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTI9ING/?tag=tolees-21'
 descuento: '28.20'
 average: '6.672857142857143'

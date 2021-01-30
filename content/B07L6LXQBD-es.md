@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Ravensburger-15168 Ravensburger Banks of The Seine-Puzzle de 1000 Piezas  Multicolor  15168 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L6LXQBD/?tag=tolees-21'
 descuento: '40.69'
 average: '11.24'

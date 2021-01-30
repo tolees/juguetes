@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'JUNSHEN Juguetes de baño 6PCS   Juguetes para bebés  Juguetes para el Agua  Juguetes para el Agua y Juguetes para niños pequeños- Tortuga  Pescado  Caballos de mar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXR3VX8/?tag=tolees-21'
 descuento: '35.65'
 average: '10.29'

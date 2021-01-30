@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Bornfeel Bolsa de Juguetes Playa Bolsa de Malla para Niños Guardar los Juguetes Bolas Conchas Verde 45 x 30 x 45cm （18 x 12 x 18in）.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BXQ8TLX/?tag=tolees-21'
 descuento: '50.32'
 average: '6.636666666666667'

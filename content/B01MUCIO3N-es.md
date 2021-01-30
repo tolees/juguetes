@@ -16,6 +16,7 @@ comparePrice: 13.14 EUR
 prodname: 'Aurora- Foca de Peluche  colección Mini Flopsie  Color Gris  21 cm  0060031720 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUCIO3N/?tag=tolees-21'
 descuento: '27.78'
 average: '9.49'

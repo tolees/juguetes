@@ -16,6 +16,7 @@ comparePrice: 39.58 EUR
 prodname: '2 en 1 Juego de Ajedrez Chino Weiqi Go Juego de Damas Plegable Magnético de Doble Cara Tablero Juguetes Regalos de Colección'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073D4YT4B/?tag=tolees-21'
 descuento: '44.44'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'SuperThings PST7S112UK00 Power Machines-Starterpack'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SuperThings'
 buyurl: 'https://www.amazon.es/dp/B08NVXSV64/?tag=tolees-21'
 descuento: '16.57'
 average: '8.58999999999999'
@@ -27,8 +28,8 @@ Tienes [SuperThings PST7S112UK00 Power Machines-Starterpack](https://www.amazon.
 
 🔎:
 
+- El cómic impreso tiene historias y juegos divertidos.
 - Todo lo que necesitas para empezar tu colección.
 - Viene con un Cool Power Jet metálico, exclusivo de este paquete de iniciación
-- El cómic impreso tiene historias y juegos divertidos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NVXSV64/?tag=tolees-21)

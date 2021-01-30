@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Owleez Blanco Mascota Interactiva  BIZAK 61928560 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQ1JZS6/?tag=tolees-21'
 descuento: '50.01'
 average: '29.99'

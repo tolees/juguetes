@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Jurassic World Stegosaurus  Figura Dinosaurio de Juguete niños +4 años  Multicolor  Mattel GDL06 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GSNCQYC/?tag=tolees-21'
 descuento: '24.69'
 average: '18.82'

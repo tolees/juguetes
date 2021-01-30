@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Barbie Muñeca Stacie y su desayuno  accesorios muñeca  Mattel FRH74 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079JLSDGY/?tag=tolees-21'
 descuento: '22.64'
 average: '23.2'

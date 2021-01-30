@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'iGPSPORT S60 Soporte Frontal para Manillar Bicicleta para GPS Compatible Garmin Edge 200/500/510/520/800/810/820 iGS10/20E/50E/618'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CQLVLZ1/?tag=tolees-21'
 descuento: '41.41'
 average: '16.99'

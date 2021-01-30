@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'EVOLAND Bicicleta Estática Plegable  Bicicleta Estática de Fitness 8 Niveles de Resistencia Magnética con Monitor Rítmo Cardíaco para Ejercicio Entrenamiento en Casa  MAX hasta 200 kg'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X8GC42K/?tag=tolees-21'
 descuento: '31.77'
 average: '115.99'

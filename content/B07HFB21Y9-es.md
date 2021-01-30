@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Educa Borras - Genuine Puzzles  Puzzle 500 piezas  Despierta tu magia  17959 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFB21Y9/?tag=tolees-21'
 descuento: '27.30'
 average: '7.99'

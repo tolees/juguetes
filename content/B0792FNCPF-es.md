@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Little Live Bizzy Babies- Bebé con cunita Gracie   Famosa 700013993 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792FNCPF/?tag=tolees-21'
 descuento: '49.28'
 average: '15.19'

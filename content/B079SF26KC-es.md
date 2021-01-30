@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Pinypon - Casa de Hansel y Gretel  Famosa 700014084 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SF26KC/?tag=tolees-21'
 descuento: '24.86'
 average: '14.96'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'LEGO Star Wars - Tie Fighter de Kylo Ren  Nave Espacial de Juguete de la Saga La Guerra de las Galaxias  75179 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W2KC1QS/?tag=tolees-21'
 descuento: '16.92'
 average: '73.01'

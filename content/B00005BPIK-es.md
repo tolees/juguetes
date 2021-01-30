@@ -16,6 +16,7 @@ comparePrice: 6.59 EUR
 prodname: 'Intex- Flotador Rueda 97 CMS. con Asas Decorado  Multicolor  John Adams 58263 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00005BPIK/?tag=tolees-21'
 descuento: '31.71'
 average: '4.5'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Lego Star Wars Darth Vader Head Lamp [With Battery]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007NWQG56/?tag=tolees-21'
 descuento: '44.56'
 average: '9.42'

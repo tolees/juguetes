@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Desconocido Gremlins - Gizmo Peluche bailarín  20 cm  NECA NEC0NC30630 - Dancing Peluche Gizmo  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0006JGFNQ/?tag=tolees-21'
 descuento: '24.73'
 average: '24.8'

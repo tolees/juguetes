@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'WISHTIME Sonajeros Bebe para BebéS 12 Piezas De Juguetes Sensoriales para BebéS con Caja de Almacenamiento Adecuado para BebéS De 0-18 Meses Sin Bpa para Desarrollo Temprano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088ZQFG16/?tag=tolees-21'
 descuento: '23.34'
 average: '22.99'

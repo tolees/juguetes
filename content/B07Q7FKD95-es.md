@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Bammax Alfombra Puzzle Bebe  Alfombra Gateo Bebe en Espuma EVA  Alfombra Infantil con Numeros 0 al 9 y Patrón de Geometría  16 pcs Alfombra Acolchada Bebe con 16 Cercas y 4 Esquinas  No Tóxica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q7FKD95/?tag=tolees-21'
 descuento: '21.38'
 average: '55.44714285714286'

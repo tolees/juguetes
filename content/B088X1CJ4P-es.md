@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Lixada Casco de Bicicleta de Montaña Casco de Motociclismo con Visera Magnética Desmontable Ligero Protector UV Unisexo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088X1CJ4P/?tag=tolees-21'
 descuento: '22.09'
 average: '28.04'

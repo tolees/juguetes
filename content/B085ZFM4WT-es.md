@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'VATOS Juego de Bloques de Construcción para Niñas  Juguetes Castillo Princesa para Niña  Juguetes Palacio Rosa  Kits de Construcción STEM para Niños  Juguetes de Regalo para Niñas de 6  7  8 y 9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZFM4WT/?tag=tolees-21'
 descuento: '48.01'
 average: '25.99'

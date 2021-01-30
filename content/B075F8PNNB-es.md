@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Star Wars Peluche BB8 Deco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075F8PNNB/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

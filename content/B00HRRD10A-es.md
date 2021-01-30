@@ -16,6 +16,7 @@ comparePrice: 37.7 EUR
 prodname: 'Sylvanian Families 5037 Deluxe Living Room - Set Mini para muñecas y accesorios  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRD10A/?tag=tolees-21'
 descuento: '52.04'
 average: '24.034999999999997'

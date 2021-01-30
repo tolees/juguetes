@@ -16,6 +16,7 @@ comparePrice: 20.5 EUR
 prodname: 'MATTEL Juegos flk75 Juego '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C8Y5TNV/?tag=tolees-21'
 descuento: '26.88'
 average: '14.99'

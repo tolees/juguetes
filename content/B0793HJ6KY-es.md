@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Educa Borrás Puzzle 1.000 Piezas  Billetes del Mundo 17659'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793HJ6KY/?tag=tolees-21'
 descuento: '30.58'
 average: '8.99'

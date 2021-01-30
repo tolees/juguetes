@@ -16,6 +16,7 @@ comparePrice: 87.99 EUR
 prodname: 'Fisher-Price Gira Gira - Cebra'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000EULX9I/?tag=tolees-21'
 descuento: '43.19'
 average: '49.99'

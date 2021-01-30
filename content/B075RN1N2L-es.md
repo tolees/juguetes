@@ -16,6 +16,7 @@ comparePrice: 13.4 EUR
 prodname: 'Cubic Fun- Puzzle 3D Casa Batlló  68 Piezas  771C240 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RN1N2L/?tag=tolees-21'
 descuento: '62.69'
 average: '5.0'

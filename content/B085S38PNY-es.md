@@ -16,6 +16,7 @@ comparePrice: 18.89 EUR
 prodname: 'Jaques de Londres Juguemos a la construcción Juguetes de construcción para 2 3 4 5 6 años - Juguetes de Madera 1795'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S38PNY/?tag=tolees-21'
 descuento: '35.31'
 average: '12.22'

@@ -16,6 +16,7 @@ comparePrice: 10.25 EUR
 prodname: 'Alamor 24V 36V 48V Agarre Del Acelerador Giratorio 7/8 Pulgadas Manillar 3 Cables Electirc Scooter Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077X84HGK/?tag=tolees-21'
 descuento: '23.12'
 average: '7.88'

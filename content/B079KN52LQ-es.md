@@ -16,6 +16,7 @@ comparePrice: 12.77 EUR
 prodname: 'Justice League Figura Aquaman  15 cm  Mattel Fwx60 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KN52LQ/?tag=tolees-21'
 descuento: '32.89'
 average: '8.57'

@@ -16,6 +16,7 @@ comparePrice: 20.05 EUR
 prodname: 'Ravensburger Avengers - Multipack de 3 Rompecabezas con 1 Juego Memory 211937'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0133IUBGS/?tag=tolees-21'
 descuento: '20.00'
 average: '12.1'

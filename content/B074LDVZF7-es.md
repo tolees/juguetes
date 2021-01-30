@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'CubicFun Puzzle 3D París Torre Eiffel Francia Rompecabezas 3D DIY Construye tu Propio Modelo  39 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074LDVZF7/?tag=tolees-21'
 descuento: '23.09'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 589.0 EUR
 prodname: 'SMARTGYRO Ebike Red - Bicicleta Eléctrica  Ruedas de 16"  Asistente al Pedaleo  Plegable  Batería extraíble de Litio de 4400 mAh  Freno V-Brake y Disco  Autonomía 30-50 Km  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079YFGYHN/?tag=tolees-21'
 descuento: '37.99'
 average: '366.73'

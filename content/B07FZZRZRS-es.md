@@ -16,6 +16,7 @@ comparePrice: 34.38 EUR
 prodname: 'Tire Hacia Atrás el Coches de Juguetes Miniature Camion Modelos para Niños y Niñas  Pack de 8 vehículos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZZRZRS/?tag=tolees-21'
 descuento: '56.43'
 average: '14.98'

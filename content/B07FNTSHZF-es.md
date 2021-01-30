@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Friends - Cafetería Cupcake de Olivia Juguete Creativo de Construcción con Detalles para Crear tu Propia Pastelería  41366 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNTSHZF/?tag=tolees-21'
 descuento: '27.98'
 average: '24.419230769230772'

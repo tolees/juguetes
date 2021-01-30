@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'SUPRBIRD Juguete de Paracaídas  10 Piezas Juguete Paracaídas Set  Mano Que Lanza el Juguete del Paracaidista  Muy Buenos Juguetes al Aire Libre para niños  ¡Dale más Felicidad a tu Hijo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFFTKZ7/?tag=tolees-21'
 descuento: '16.68'
 average: '10.323333333333334'

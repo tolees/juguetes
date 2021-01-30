@@ -16,6 +16,7 @@ comparePrice: 29.25 EUR
 prodname: 'Sylvanian Families-5207 Animales Fiesta de cumpleaños del mar  Color Assorted Colours  Epoch para Imaginar 5207 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S80SUL0/?tag=tolees-21'
 descuento: '31.90'
 average: '19.92'

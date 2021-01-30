@@ -16,6 +16,7 @@ comparePrice: 400.0 EUR
 prodname: 'Moma Bikes Bicicleta Infantil  Montaña  GTT24"  Alu  SHIMANO 21V. Doble Freno Disco  Susp. Delant.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5JGZTT/?tag=tolees-21'
 descuento: '40.27'
 average: '222.1725'

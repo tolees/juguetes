@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Twister - Hasbro Gaming  Hasbro 98831175 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007FDSPF2/?tag=tolees-21'
 descuento: '15.42'
 average: '17.126470588235293'

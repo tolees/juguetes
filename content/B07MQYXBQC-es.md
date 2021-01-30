@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dc Batman Missions Figura de Acción Batman con Armadura y Máscara de Quita y Pon de 30 cm  Mattel GCK65 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MQYXBQC/?tag=tolees-21'
 descuento: '24.96'
 average: '15.757142857142856'

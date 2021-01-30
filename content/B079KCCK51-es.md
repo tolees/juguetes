@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Polly Pocket - Maletín con muñecas  fiesta divertida -  Mattel FRY41 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KCCK51/?tag=tolees-21'
 descuento: '30.92'
 average: '13.157499999999999'

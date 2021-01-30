@@ -16,6 +16,7 @@ comparePrice: 23.9 EUR
 prodname: 'Hasbro - Juego «¿Quién es Quién?»Juego clásico.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073BFFMGR/?tag=tolees-21'
 descuento: '24.85'
 average: '17.96'

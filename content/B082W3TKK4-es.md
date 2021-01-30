@@ -16,6 +16,7 @@ comparePrice: 35.72 EUR
 prodname: 'Jacootoys Animal Laberintos de Abalorios Madera Cuentas Abaco Juegos Cubo Grande Educativos Juguetes Regalo Para Niños 3 4 5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082W3TKK4/?tag=tolees-21'
 descuento: '50.03'
 average: '17.85'

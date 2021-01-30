@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'EzLife Bolsas Reutilizables Compra  Bolsas Reutilizables Fruta de Algodon Ecológicas Lavable y Transpirable Bolsa de Malla para Fruta Verduras Juguetes -6 Pcs  1*Bolsas de Tela 1*S  2*M  2*L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZ512NT/?tag=tolees-21'
 descuento: '38.49'
 average: '9.24'

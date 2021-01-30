@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'TekHome 2019 Nueva Cámara de Fotos para Niños con 32GB Tarjeta SD y Acollador  2 Objetivos Selfie 8MP Cámara Digital 1080P HD Video  Juguetes Niño 3-10 Años  Regalo Niño Cumpleaños Infantil  Rosa.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VM811YD/?tag=tolees-21'
 descuento: '42.86'
 average: '39.99'

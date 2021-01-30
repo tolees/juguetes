@@ -16,6 +16,7 @@ comparePrice: 25.79 EUR
 prodname: 'Mini Camión Modelo de auto Conjunto de Juguetes de Vehículos Construcción Coches con tapete de juego para niños  8 Pedazos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JY78KJY/?tag=tolees-21'
 descuento: '61.30'
 average: '9.98'

@@ -16,6 +16,7 @@ comparePrice: 32.46 EUR
 prodname: 'Simba 6315878710pro Disney – Peluche de Mickey  61 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W55JTT7/?tag=tolees-21'
 descuento: '16.11'
 average: '28.0475'

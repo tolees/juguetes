@@ -16,6 +16,7 @@ comparePrice: 33.65 EUR
 prodname: 'EPOCH Girl S Room Set Sylvanian Families Mini muñecas y Accesorios  Multicolor  2953    Modelos/colores Surtidos  1 Unidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRCXGI/?tag=tolees-21'
 descuento: '33.91'
 average: '22.2625'

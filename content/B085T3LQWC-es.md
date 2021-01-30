@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Joyjam Coche teledirigido Anfibio  Stunt Car Impermeable Anfibios con 2 Lados de conducción en Agua y Tierra Coche radiocontrol Electric Juguetes para niños Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085T3LQWC/?tag=tolees-21'
 descuento: '15.22'
 average: '38.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Disney - Carnaval  Puzzle de 1000 Piezas  Ravensburger 19383 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HFR4NSQ/?tag=tolees-21'
 descuento: '42.47'
 average: '13.64'

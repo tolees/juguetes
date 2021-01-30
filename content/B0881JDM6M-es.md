@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'QY Toys MS Cubo Magico 3x3 3x3x3 Original Puzzle Cubo de la Velocidad Niños Juguetes Educativos  Stickerless'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0881JDM6M/?tag=tolees-21'
 descuento: '61.13'
 average: '13.99'

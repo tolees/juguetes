@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Technic - Carretilla Elevadora de Alto Rendimiento  Juguete de Construcción de Vehículo de Logística  42079 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792QR5QF/?tag=tolees-21'
 descuento: '20.00'
 average: '43.99'

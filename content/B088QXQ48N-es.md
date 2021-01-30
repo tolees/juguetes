@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'LEADSTAR Rompecabezas de Madera Bloques de Madera  Tangram Puzzle Tangram Madera Shape Puzzle Set 36 Montessori Forma Geométrica Bloques de Patrones + 60 Piezas Tarjetas de diseño  Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088QXQ48N/?tag=tolees-21'
 descuento: '45.85'
 average: '12.99'

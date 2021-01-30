@@ -16,6 +16,7 @@ comparePrice: 6.74 EUR
 prodname: 'Forfar Deportes al Aire Libre Que completan un Ciclo la manija del Reloj de la Ayuda de la Bicicleta Computadora de Bicicleta Montar Protector Caso por'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QH6ZT4/?tag=tolees-21'
 descuento: '28.93'
 average: '5.890000000000001'

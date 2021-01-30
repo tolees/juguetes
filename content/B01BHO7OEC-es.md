@@ -16,6 +16,7 @@ comparePrice: 16.77 EUR
 prodname: 'LEGO Star Wars: El Despertar De La Fuerza  Episodio 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BHO7OEC/?tag=tolees-21'
 descuento: '19.50'
 average: '17.31527777777778'

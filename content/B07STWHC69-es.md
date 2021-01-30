@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Peppa Pig- Casa Gigante De Madera  Multicolor  Bandai CO07004 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STWHC69/?tag=tolees-21'
 descuento: '54.36'
 average: '99.66999999999999'

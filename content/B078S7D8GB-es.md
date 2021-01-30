@@ -16,6 +16,7 @@ comparePrice: 9.52 EUR
 prodname: 'Blesiya Sistema de Pincel de Dibujo Herramientas de Pinturas Juguetes de Desarrollo para Niño - Vegetal'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078S7D8GB/?tag=tolees-21'
 descuento: '44.43'
 average: '5.29'

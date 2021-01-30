@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hasbro - Baby Alive Muñeca  multicolor  38 cm   C0963105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LG12WL/?tag=tolees-21'
 descuento: '74.99'
 average: '20.0'

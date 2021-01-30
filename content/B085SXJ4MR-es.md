@@ -16,6 +16,7 @@ comparePrice: 33.46 EUR
 prodname: 'yidenguk Objetivo Digital Electrónico para Nerf  Objetivos de Puntuación Móvil con Restablecimiento Automático Efectos Inteligentes de Sonido y Luz para Nerf Guns Blaster Elite/Mega/Rival Series'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085SXJ4MR/?tag=tolees-21'
 descuento: '34.28'
 average: '21.99'

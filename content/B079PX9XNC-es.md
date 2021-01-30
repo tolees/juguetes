@@ -16,6 +16,7 @@ comparePrice: 14.3 EUR
 prodname: 'Clementoni-39445 Orchestra Puzzle 1000 Piezas Panorama Disney Orquesta  Multicolor  pezzi  39445.6 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PX9XNC/?tag=tolees-21'
 descuento: '37.06'
 average: '10.985'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Educa Borras Puzzle Aprendo El Abecedario Peppa Pig  15652    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BHAHCG2/?tag=tolees-21'
 descuento: '29.75'
 average: '8.91375'

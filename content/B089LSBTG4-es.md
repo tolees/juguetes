@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Puzzle de Madera Formas Geometricas 180 Piezas con bolsa almacenamiento Rompecabezas Tangram Juguetes Montessori Formacolor Juegos Educativos Juguete de Aprendizaje Regalos para Niños Niñas 3 4 5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089LSBTG4/?tag=tolees-21'
 descuento: '37.05'
 average: '16.99'

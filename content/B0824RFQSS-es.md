@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Playskool Heroes- Mega Mighties Avengers Capitana Marvel  Hasbro E7933ES0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0824RFQSS/?tag=tolees-21'
 descuento: '53.81'
 average: '8.995000000000001'

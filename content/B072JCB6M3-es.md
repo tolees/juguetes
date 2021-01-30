@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Nenuco Hermanitos a la Pelu  Famosa 700013674 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JCB6M3/?tag=tolees-21'
 descuento: '40.00'
 average: '38.97'

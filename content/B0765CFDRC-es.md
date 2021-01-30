@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Friends - Cafetería de Pilotos  Juguete con Mini Muñecas y Kart para Crear y Construir Divertidas Carreras y Aventuras con Andrea y Pepper para Niñas y Niños de 6 a 12 Años  41349 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765CFDRC/?tag=tolees-21'
 descuento: '26.64'
 average: '21.428333333333335'

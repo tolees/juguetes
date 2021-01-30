@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'IPSXP Computadora de Bicicleta  Alámbrico Velocímetro y Cuentakilómetros Impermeable Ordenador de Ciclismo con Pantalla LCD Retroiluminada  Sueño Automático/Despertar  Batería Incluida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K14KX4W/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

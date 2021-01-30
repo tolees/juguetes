@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Educa Borrás- Adhesivo para Puzzle  17193 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N37RSYT/?tag=tolees-21'
 descuento: '29.75'
 average: '7.49'

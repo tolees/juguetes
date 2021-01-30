@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'TY- Peluche  juguete  Color gris  23 cm  United Labels Ibérica 37086TY    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GFHAJG6/?tag=tolees-21'
 descuento: '48.04'
 average: '6.75'

@@ -16,6 +16,7 @@ comparePrice: 11.7 EUR
 prodname: 'Fisher-Price BHC01 Laugh and Learn - Teléfono inteligente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KQKLEJU/?tag=tolees-21'
 descuento: '54.79'
 average: '5.29'

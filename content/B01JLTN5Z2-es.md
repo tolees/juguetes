@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Juguetes de Baño Flotante con Juegos de Pesca para Niños Más de 18 Meses  8 piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JLTN5Z2/?tag=tolees-21'
 descuento: '40.02'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 13.07 EUR
 prodname: 'Aurora World - Peluche Cabra  73903 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U2OJNQQ/?tag=tolees-21'
 descuento: '23.72'
 average: '9.97'

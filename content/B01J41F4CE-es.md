@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Super Heroes - Harley Quinn al Rescate  41231 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J41F4CE/?tag=tolees-21'
 descuento: '26.98'
 average: '23.445'

@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Soporte de luz para cámara Web Live Stream  Anillo Selfie con Soporte para cámara Web para Logitech C925e  C922x  C930e  C922 C930  C920  C615  Brio 4K'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GW6LZ6R/?tag=tolees-21'
 descuento: '21.67'
 average: '21.07'

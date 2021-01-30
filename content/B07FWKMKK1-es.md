@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mattel Disney Toy Story 4 Figura Duke Caboom acrobacias y Carreras con Su Moto  Juguetes Niños +3 Años  GFB55    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWKMKK1/?tag=tolees-21'
 descuento: '55.95'
 average: '15.83923076923077'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'AniBlock puzzle challenger - diversión y forma creativa bloques stem juguetes para los niños  niños y niñas  de edades entre 4 y arriba  aplicación compatible interactivos realidad aumentada edición 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5W7XG9/?tag=tolees-21'
 descuento: '16.53'
 average: '25.0'

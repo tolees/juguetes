@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Fisher-Price Cebra activity  juguete colgante para bebé recién nacido  Mattel FGJ11 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077J2CWHS/?tag=tolees-21'
 descuento: '24.10'
 average: '9.149999999999999'

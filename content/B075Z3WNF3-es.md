@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Supersoaker Splash Mouth  Hasbro E0021EU4    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075Z3WNF3/?tag=tolees-21'
 descuento: '23.40'
 average: '10.1'

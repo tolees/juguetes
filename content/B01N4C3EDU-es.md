@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: '25 mm Par de base soporte adaptador de manillar para moto bike espejo Bicicleta Negro 10mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4C3EDU/?tag=tolees-21'
 descuento: '30.00'
 average: '7.0'

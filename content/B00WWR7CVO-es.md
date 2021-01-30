@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'LEGO Movie: The Videogame - Classics'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WWR7CVO/?tag=tolees-21'
 descuento: '16.55'
 average: '16.077142857142857'

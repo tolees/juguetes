@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER 20 Esterilla de Ejercicios Interconectables  Esterilla Puzzle de Fitness  Suave y Firme Espuma EVA  Antideslizante Protector Suelo Goma Beige R10G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084X5MCQT/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

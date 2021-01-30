@@ -16,6 +16,7 @@ comparePrice: 23.5 EUR
 prodname: 'Libro Bebe  BelleStyle Libro Texturas Bebe para Juguetes Bebes 1 Año  Cloth Book  Libro Blando para Baño  Soft Book Educación Temprana y Desarrollo de Juguete  6 PCS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ2VD5B/?tag=tolees-21'
 descuento: '53.62'
 average: '10.908999999999999'

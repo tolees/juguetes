@@ -16,6 +16,7 @@ comparePrice: 35.41 EUR
 prodname: 'iNeego Maletin Medicos Juguete 37 Piezas - Doctora de Juguetes Maletin Doctor Juego de rol Regalos para Niños Mayores de 3 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C9RR9PK/?tag=tolees-21'
 descuento: '49.20'
 average: '17.99'

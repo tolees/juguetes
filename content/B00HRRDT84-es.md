@@ -16,6 +16,7 @@ comparePrice: 24.25 EUR
 prodname: 'SYLVANIAN FAMILIES Venta de zumos  Epoch para Imaginar 4478 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRDT84/?tag=tolees-21'
 descuento: '49.81'
 average: '12.17'

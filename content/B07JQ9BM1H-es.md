@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Peluche de Gato Almohada para Cojín Asiento de Gato de Peluche  Suave  para Regalo de cumpleaños  para bebé  niños o niñas  Felpa Color Negro Gris Blanco 33cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JQ9BM1H/?tag=tolees-21'
 descuento: '80.58'
 average: '6.99'

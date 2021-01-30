@@ -16,6 +16,7 @@ comparePrice: 40.68 EUR
 prodname: 'Onshine 14 Pedazos Conjunto de Juguetes Arena para la Playa Moldes de Arena Camion Transportador de Coches Cubo Playa Herramientas para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PM3ZBMY/?tag=tolees-21'
 descuento: '58.55'
 average: '16.86'

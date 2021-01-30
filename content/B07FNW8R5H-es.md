@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'LEGO La LEGO Película 2 - Casa de los Sueños/Cohete de Rescate de Emmet  juguete creativo de construcción 2 en 1 con personajes de la película  70831    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNW8R5H/?tag=tolees-21'
 descuento: '20.28'
 average: '50.25678571428571'

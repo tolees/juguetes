@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Monopoly- Junior Electronico  Versión Española   Hasbro E1842105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079MNB3VP/?tag=tolees-21'
 descuento: '31.59'
 average: '20.089333333333336'

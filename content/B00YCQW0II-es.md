@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos  Color Negro/Amarillo  28.7 x 20.1 x 8.1  3480-170722 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YCQW0II/?tag=tolees-21'
 descuento: '22.73'
 average: '53.400000000000006'

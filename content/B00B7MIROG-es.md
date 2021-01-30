@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Educa Borras - Serie Marvel  Puzzle 500 piezas Héroes Marvel  15560 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B7MIROG/?tag=tolees-21'
 descuento: '19.70'
 average: '7.99'

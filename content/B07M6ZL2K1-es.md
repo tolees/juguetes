@@ -16,6 +16,7 @@ comparePrice: 27.34 EUR
 prodname: 'Disney 37277 Dumbo - Peluche de Elefante  35 cm  Color Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M6ZL2K1/?tag=tolees-21'
 descuento: '27.03'
 average: '19.95'

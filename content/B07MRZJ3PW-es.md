@@ -16,6 +16,7 @@ comparePrice: 29.79 EUR
 prodname: 'Youngshion - Organizador de Maquillaje portátil para Juguetes  Juguetes  Juguetes  Juguetes  Juguetes  Juguetes  Mantas de Actividades para niños y niñas  Cartoon Yellow  Small'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MRZJ3PW/?tag=tolees-21'
 descuento: '35.01'
 average: '19.21'

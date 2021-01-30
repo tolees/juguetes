@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Educa- Provincias España Puzzle infantil de 150 piezas  a partir de 6 años  14870 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OQB8CY/?tag=tolees-21'
 descuento: '65.22'
 average: '6.970000000000001'

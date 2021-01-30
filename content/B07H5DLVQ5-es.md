@@ -16,6 +16,7 @@ comparePrice: 8.68 EUR
 prodname: 'Fournier 1040720 Juego de Cartas Educativo  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5DLVQ5/?tag=tolees-21'
 descuento: '42.97'
 average: '4.95'

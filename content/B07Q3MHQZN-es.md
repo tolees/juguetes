@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'Puzzle 3D Estadio Rompecabezas Diy 3d Juego Puzzle Fútbol Juguetes Wanda-Metropolitano 3D Puzzle JTIH® Multi Coloured'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3MHQZN/?tag=tolees-21'
 descuento: '40.77'
 average: '7.99'

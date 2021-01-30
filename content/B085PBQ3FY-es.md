@@ -16,6 +16,7 @@ comparePrice: 29.74 EUR
 prodname: 'Lego Marvel Collection'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085PBQ3FY/?tag=tolees-21'
 descuento: '16.64'
 average: '26.673333333333332'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Viccess 24 Piezas Juguetes de Rompecabezas de Serpiente Magic Snake Cube Mini Serpiente para Niños  Favores de Fiesta Materiales de Fiesta Color al azar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T1J1M7P/?tag=tolees-21'
 descuento: '21.64'
 average: '13.620000000000001'

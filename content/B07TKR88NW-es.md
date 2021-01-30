@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Cinta de la motocicleta Etiqueta de la decoración Rueda de la motocicleta Calcomanía reflectante Tela a rayas de alta temperatura y agua Resistan para 16-19 pulgadas Bicicleta de coche 蓝色 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TKR88NW/?tag=tolees-21'
 descuento: '34.97'
 average: '6.49'

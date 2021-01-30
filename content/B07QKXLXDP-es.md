@@ -16,6 +16,7 @@ comparePrice: 66.88 EUR
 prodname: 'Hengxin Maillot Ciclismo Corto De Verano para Hombre  Ropa Culote Conjunto Traje Culotte Deportivo con 3D Almohadilla De Gel para Bicicleta MTB Ciclista Bici  Negro  L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QKXLXDP/?tag=tolees-21'
 descuento: '50.01'
 average: '33.43'

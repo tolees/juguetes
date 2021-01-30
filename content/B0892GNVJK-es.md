@@ -16,6 +16,7 @@ comparePrice: 26.66 EUR
 prodname: 'EKKONG Flotador Bebé  Flotador Inflable para Bebé  Anillo de Natación para Bebés  Piscina Hinchables Niños con Asiento 6 a 48 Meses  Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0892GNVJK/?tag=tolees-21'
 descuento: '42.42'
 average: '15.35'

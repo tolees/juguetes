@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'HCMAX Coche Asiento Trasero El Maletero Organizador Bolsa Colgante de Juguetes para Niños Bolsa de Almacenamiento Larga Accesorios de Carga Interiores Automotrices para SUV Vans Cars Trucks'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0795KX6CZ/?tag=tolees-21'
 descuento: '58.01'
 average: '20.99'

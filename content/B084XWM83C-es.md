@@ -16,6 +16,7 @@ comparePrice: 156.34 EUR
 prodname: 'Star Wars- Vintage Nave Slave  Hasbro E96475L0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084XWM83C/?tag=tolees-21'
 descuento: '24.11'
 average: '118.65'

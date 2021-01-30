@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Generique - Disfraz minero Lego niño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079ZHLFP8/?tag=tolees-21'
 descuento: '44.45'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 30.24 EUR
 prodname: 'Playgro Set de Regalo para jugar de Jerry la Jirafa  Juguetes Para Bebé  17 piezas  Desde los 6 meses  Libre de BPA  Multicolor  40210'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WPSNQW1/?tag=tolees-21'
 descuento: '55.03'
 average: '14.399999999999999'

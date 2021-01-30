@@ -16,6 +16,7 @@ comparePrice: 8.69 EUR
 prodname: 'Panamar Juguetes de baño Luz de Agua en Aerosol Girar con Ducha Piscina Juguetes para niños para niños Fiesta de natación Baño Luz Juguetes-Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H1LLSGZ/?tag=tolees-21'
 descuento: '33.49'
 average: '5.78'

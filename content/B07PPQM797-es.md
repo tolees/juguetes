@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'L.O.L. Surprise! 564119E7C Furniture Boutique con Abeja Reina y 10 sorpresas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PPQM797/?tag=tolees-21'
 descuento: '17.73'
 average: '32.9'

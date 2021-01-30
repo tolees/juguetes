@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO Disney Princess - Celebración Real de Ariel  Aurora y Tiana  castillo de princesa para construir  41162 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNT8XBN/?tag=tolees-21'
 descuento: '25.85'
 average: '35.75'

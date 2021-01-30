@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'B•You Ojos de Seguridad de Plástico Ojos Amigurumi 150 Piezas 8mm 10mm 12mm Vistoso Sólidos Negros con Arandelas en Caja de Almacenaje para Oso de Peluche Oso Muñeca Marioneta y Manualidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLX733D/?tag=tolees-21'
 descuento: '38.94'
 average: '10.99'

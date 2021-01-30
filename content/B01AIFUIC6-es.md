@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Pinypon - Figura Enanito con Gorro Verde  Famosa 700012733A '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AIFUIC6/?tag=tolees-21'
 descuento: '69.50'
 average: '2.12'

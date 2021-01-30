@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Lepfun 1 x Rodilleras Compresión  Rodilleras Deportivas para crossfit  motocross  voleibol  bicicleta  Baloncesto Medium  W8000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L68ZGCN/?tag=tolees-21'
 descuento: '47.39'
 average: '9.99'

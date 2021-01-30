@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Trivial Pursuit Star Wars  Hasbro B8615105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BP1Q9TS/?tag=tolees-21'
 descuento: '42.33'
 average: '23.110000000000003'

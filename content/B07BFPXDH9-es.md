@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Hot Wheels Supertúnel de lavado  pista de coches de juguete  Mattel FTB66 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BFPXDH9/?tag=tolees-21'
 descuento: '42.23'
 average: '29.156666666666666'

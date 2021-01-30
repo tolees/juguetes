@@ -16,6 +16,7 @@ comparePrice: 4.13 EUR
 prodname: 'Juguetes Colgantes Reiki Energía Cristal Péndulo Scrying Dowser Punto Radiestesia - Cono'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K6T3XA8/?tag=tolees-21'
 descuento: '15.74'
 average: '3.2733333333333334'

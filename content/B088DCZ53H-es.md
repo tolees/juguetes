@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Regalos de Cumpleaños para Niñas de 3 a 7 Años  Flores Jardín Juguetes para Niñas de 4 a 6 Años Niños Regalo Educativo para Niños Ramo de Bricolaje Floral Craft Regalo para Niños de 4 a 9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088DCZ53H/?tag=tolees-21'
 descuento: '44.50'
 average: '23.86'

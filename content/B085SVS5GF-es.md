@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'ColiCor Display Stand Soporte para Lego Star Wars 75192 Millenium Falcon'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085SVS5GF/?tag=tolees-21'
 descuento: '15.16'
 average: '27.99'

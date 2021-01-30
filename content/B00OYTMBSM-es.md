@@ -16,6 +16,7 @@ comparePrice: 13.83 EUR
 prodname: 'Devir- Erizos a la Carrera  HLERIZOS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OYTMBSM/?tag=tolees-21'
 descuento: '20.54'
 average: '10.99'

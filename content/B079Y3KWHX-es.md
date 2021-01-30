@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Lego Star Wars - Bañador para niño - Lego Star Wars - 8 - 9 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Y3KWHX/?tag=tolees-21'
 descuento: '55.71'
 average: '7.95'

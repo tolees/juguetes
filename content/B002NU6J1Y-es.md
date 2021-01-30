@@ -16,6 +16,7 @@ comparePrice: 9.0 EUR
 prodname: 'Garmin 010-11430-00 - Soporte de Bicicleta para GPS'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002NU6J1Y/?tag=tolees-21'
 descuento: '44.56'
 average: '4.99'

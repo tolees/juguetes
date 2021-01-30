@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Bomao - Juego de 7 Piezas Unicornio Cubo mágico 3 Llavero Unicornio Pegatina Bolsa Juego de Pedestal Juguete Rompecabezas Idea para Regalo Cumpleaños Niño Bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVFQM3B/?tag=tolees-21'
 descuento: '58.38'
 average: '4.99'

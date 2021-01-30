@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'QNIGLO Prismáticos Compactos a Prueba de Golpes para Niños Binoculares Alta Resolución 10x21 Observación de Aves Excursiones Caza Aprendizaje Mejores Juguetes para Regalos de Niños Rosa '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FKDPTCK/?tag=tolees-21'
 descuento: '31.44'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 23.7 EUR
 prodname: 'HoneyHolly Botella de Agua Deporte 400ml/500ml/700ml/1l  sin bpa tritan plastico  Reutilizables a Prueba de Fugas Botellas Potable con Filtro para niños  Colegio  Sport  Gimnasio  Trekking  Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MKMTCXH/?tag=tolees-21'
 descuento: '45.19'
 average: '12.86'

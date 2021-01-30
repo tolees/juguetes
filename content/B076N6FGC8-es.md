@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Jurassic World Dinosaurio de juguete Indoraptor luces y sonidos  Mattel FLY53 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076N6FGC8/?tag=tolees-21'
 descuento: '20.00'
 average: '33.504999999999995'

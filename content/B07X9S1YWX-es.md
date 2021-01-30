@@ -16,6 +16,7 @@ comparePrice: 18.89 EUR
 prodname: 'Nerf Balas 100 DEWEL Dardos Nerf de7.2cm Balas Goma Espuma'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9S1YWX/?tag=tolees-21'
 descuento: '41.82'
 average: '10.99'

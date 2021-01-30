@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Divgdovg Bicicleta estática  Bicicleta de Ciclismo para Interiores estacionaria con Monitor de frecuencia cardíaca y Monitor LCD  cojín de Asiento cómodo  Bicicleta Cardiovascular'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WJ1XN1/?tag=tolees-21'
 descuento: '30.15'
 average: '139.0'

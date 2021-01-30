@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO DUPLO Town - Dormitorio  Set con Ladrillos de Juguete  Incluye un Tobogán y Muñecos para Recrear Escenas de la Vida Cotidiana  a Partir de 2 Años  10926 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WC19LZK/?tag=tolees-21'
 descuento: '20.41'
 average: '11.93'

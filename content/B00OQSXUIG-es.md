@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Feber - Tobogán Con Rampa De 107cm  Famosa 800009593 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00OQSXUIG/?tag=tolees-21'
 descuento: '22.00'
 average: '38.99'

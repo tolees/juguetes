@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'LEADSTAR Tangram Puzzle  Tangram Madera Shape Puzzle Set Rompecabezas Tangram de Madera Kids Educativos Juegos y Juguetes con 155 Piezas de Formas Geométricas y 24 Diseños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSV8Z2Z/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

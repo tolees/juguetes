@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'JUSTICE LEAGUE- Batman Casco 2 En 1  14 6 x 25 4 x 14 6 cm  Mattel FGM37 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XJ5F94G/?tag=tolees-21'
 descuento: '16.30'
 average: '28.263333333333335'

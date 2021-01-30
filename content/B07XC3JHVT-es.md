@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Polly Pocket Cofre Jardín de Mariquitas con muñecas y accesorios  juguete +4 años  Mattel GKJ48 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XC3JHVT/?tag=tolees-21'
 descuento: '30.02'
 average: '10.49'

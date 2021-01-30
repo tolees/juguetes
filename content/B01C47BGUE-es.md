@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Star Wars - Playset Rogue One Fuego Rápido Imperial  Hasbro B7076EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C47BGUE/?tag=tolees-21'
 descuento: '29.82'
 average: '236.2'

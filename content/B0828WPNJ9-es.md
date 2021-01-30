@@ -16,6 +16,7 @@ comparePrice: 69.89 EUR
 prodname: 'ROCKBROS Casco para Niños para Bicicleta Casco Integral Infantil Desmontable Tamaño 48-58CM EPS PC Integrado a Prueba de Golpes 3 Color'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0828WPNJ9/?tag=tolees-21'
 descuento: '15.01'
 average: '59.4'

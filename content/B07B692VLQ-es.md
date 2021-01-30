@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Playdoh - La Barberia  Hasbro E2930EU6  '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B692VLQ/?tag=tolees-21'
 descuento: '40.52'
 average: '11.89'

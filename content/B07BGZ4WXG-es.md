@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Amazing Mall Almohada mágica para Juegos  cojín para Pareja  Juguetes  posición  Soporte  Almohada  cojín'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BGZ4WXG/?tag=tolees-21'
 descuento: '40.02'
 average: '11.99'

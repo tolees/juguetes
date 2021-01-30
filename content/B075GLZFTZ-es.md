@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'LEGO Duplo Town - Aventuras en la Granja  10869 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GLZFTZ/?tag=tolees-21'
 descuento: '25.68'
 average: '47.96666666666666'

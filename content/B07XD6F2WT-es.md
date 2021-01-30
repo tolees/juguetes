@@ -16,6 +16,7 @@ comparePrice: 32.04 EUR
 prodname: 'Barbie Dreamtopia set de modas y accesorios  juguete para niñas y niños +3 añis  Mattel GJK40    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD6F2WT/?tag=tolees-21'
 descuento: '43.85'
 average: '22.673333333333332'

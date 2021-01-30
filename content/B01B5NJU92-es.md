@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Clementoni - Puzzle 1500 Piezas Caballos  31676 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B5NJU92/?tag=tolees-21'
 descuento: '24.26'
 average: '12.8'

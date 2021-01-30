@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Thule TH100090 Portabultos de Bicicleta  Unisex Adulto  Black  Talla Única'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6RORTM/?tag=tolees-21'
 descuento: '30.88'
 average: '68.03999999999999'

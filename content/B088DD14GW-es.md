@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Juguetes Regalos para Niños Niña Edad 3 4 5  Flores Juguetes Set para Niños de 3-7 Años Regalo de Cumpleaños para Niñas 4 5 6 7 8 Años Niños Manualidades Educativas Jardín de Construcción Juguetes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088DD14GW/?tag=tolees-21'
 descuento: '47.14'
 average: '17.44'

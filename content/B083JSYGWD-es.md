@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Mebber - Soporte para Tablet de Bicicleta  portátil  para Coche  Tablet  para Interior o Gimnasio  Spinning  Bicicleta de Ejercicio para iPad  Soporte Giratorio de 360° para tabletas de 7-12 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JSYGWD/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Shimmer y Shine Zeta y su moto  muñeca con accesorios  Mattel FHN31 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753KCTRL/?tag=tolees-21'
 descuento: '37.94'
 average: '13.764285714285714'

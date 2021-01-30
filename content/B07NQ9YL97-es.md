@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Barbie National Geographic Quiero Ser Fotógrafa  muñeca con accesorios  Mattel GDM46 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQ9YL97/?tag=tolees-21'
 descuento: '25.01'
 average: '11.975000000000001'

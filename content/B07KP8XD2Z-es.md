@@ -16,6 +16,7 @@ comparePrice: 4.21 EUR
 prodname: 'Diseño Gracioso  no tóxico  Gritando  Goma  Pollo  apretón  Juguetes  Sonido  Juguete  niños  Adulto  Stree  Alivio  chillar  Pollo  Juguetes  Amarillo  Rojo  s'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KP8XD2Z/?tag=tolees-21'
 descuento: '33.02'
 average: '2.82'

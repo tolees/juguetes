@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aizhy Bomba para Bicicleta  Bomba ergonómica para Piso de Bicicleta Bomba de inflado de neumáticos para Bicicleta Bomba infladora portátil con manómetro y Cabezal de válvula Inteligente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDRZ1D8/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

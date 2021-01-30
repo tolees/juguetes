@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Star Wars- Rogue One Rebels BladeBuilders Kanan Jarrus-Sable láser Extensible  Multicolor  Talla única  Hasbro B7245AS0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019DAUVTW/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

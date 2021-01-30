@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Little People Granja cuida a los animalitos  juguetes bebés 1 año  Mattel FKD00 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJJ8TBN/?tag=tolees-21'
 descuento: '35.84'
 average: '38.49'

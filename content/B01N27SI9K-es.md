@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Pinypon Mascotas y figuras pack grande  Famosa 700013370 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N27SI9K/?tag=tolees-21'
 descuento: '21.27'
 average: '15.259230769230768'

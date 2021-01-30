@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Shopkins- Disney Puzzle  Color  única  Giochi Preziosi Spagna HPK02000 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0199GJIYO/?tag=tolees-21'
 descuento: '25.02'
 average: '26.076666666666668'

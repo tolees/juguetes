@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Nobleza – Pack de 5 Juguetes para Perro. Set Fabricado en Cuerda para morder. Incluye Bola de Entrenamiento para Comida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTV5P8Q/?tag=tolees-21'
 descuento: '18.53'
 average: '21.99'

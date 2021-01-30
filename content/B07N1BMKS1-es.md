@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Avengers Martillo - De Combate Thor  Hasbro  B0445EUC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1BMKS1/?tag=tolees-21'
 descuento: '16.16'
 average: '15.05'

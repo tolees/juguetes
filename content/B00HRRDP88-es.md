@@ -16,6 +16,7 @@ comparePrice: 26.2 EUR
 prodname: 'SYLVANIAN FAMILIES Sylvanian Families-4869 Set Barbacoa  Color Assorted Colours  Epoch para Imaginar 2239 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRDP88/?tag=tolees-21'
 descuento: '20.80'
 average: '20.781250000000004'

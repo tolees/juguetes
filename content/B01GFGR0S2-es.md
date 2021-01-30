@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Lixada Cubrezapatos Térmico Impermeable A Prueba de Viento Chanclos Protector MTB Bicicleta de Montaña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GFGR0S2/?tag=tolees-21'
 descuento: '40.03'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Yizhet 12 x Adaptador de Valvula de Bici Bicicleta válvula Adaptador DV AV SV Válvula Adaptador para compresor Bomba de Bicicleta Bomba de pie Auto Aire de gasolinera Colchón Balón Bomba  12 uds '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QJYKPL1/?tag=tolees-21'
 descuento: '41.24'
 average: '9.99'

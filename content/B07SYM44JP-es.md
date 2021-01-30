@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Ravensburger - Puzzle Paw Patrol  pack de 4  03029 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYM44JP/?tag=tolees-21'
 descuento: '32.46'
 average: '6.72'

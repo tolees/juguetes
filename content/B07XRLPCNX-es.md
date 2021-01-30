@@ -16,6 +16,7 @@ comparePrice: 9.69 EUR
 prodname: 'Tnfeeon Juego de Entrenamiento de Memoria  Juego de Memoria electrónico para niños Interacción plástica Música Inteligente Luz Rompecabezas Juego de Memoria para niños Doble Mano '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XRLPCNX/?tag=tolees-21'
 descuento: '24.77'
 average: '7.29'

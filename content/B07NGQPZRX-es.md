@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MUNDO PETIT -Chaleco Flotador de Ayuda a la flotabilidad Aprendizaje de la natación  Ideal para niños de 9 a 18 kg  Famencos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGQPZRX/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

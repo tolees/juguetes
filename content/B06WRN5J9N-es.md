@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Beyblade - Estadio Basico  Hasbro C0704EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WRN5J9N/?tag=tolees-21'
 descuento: '29.95'
 average: '10.5'

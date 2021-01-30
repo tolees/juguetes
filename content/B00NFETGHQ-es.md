@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Fisher-Price Gimnasio crece conmigo  manta de juego para bebé  Mattel CCB70 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NFETGHQ/?tag=tolees-21'
 descuento: '39.10'
 average: '45.67'

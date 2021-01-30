@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Homcom Entrenador Elíptico de Fitness Bicicleta Elíptica Resistencia Ajustable Pantalla LCD Manillar Ajustable Carga 110kg Acero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FDPD78M/?tag=tolees-21'
 descuento: '57.09'
 average: '102.99'

@@ -16,6 +16,7 @@ comparePrice: 11.38 EUR
 prodname: 'Peppa Pig - Manguitos hinchables  Saica Toys 9110 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00C1Y1KGQ/?tag=tolees-21'
 descuento: '23.11'
 average: '8.75'

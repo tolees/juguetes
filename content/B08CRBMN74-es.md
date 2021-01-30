@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Niños/Bebé 50 piezas 5 capas para correr  andar en bicicleta  esquiar  actividades al aire libre'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CRBMN74/?tag=tolees-21'
 descuento: '19.32'
 average: '12.9'

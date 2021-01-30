@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Polly Pocket Centro Comercial de juguete para muñecas  Matteñ GFP89 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQGB4HG/?tag=tolees-21'
 descuento: '20.00'
 average: '39.980000000000004'

@@ -16,6 +16,7 @@ comparePrice: 9.88 EUR
 prodname: 'Panamar Niños Bebé Cute Cartoon Ballena Flotante Pulverización Agua Baño Juguetes Boquilla Spray Ducha Baño Baño Baño Juguete-Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CK7HNTV/?tag=tolees-21'
 descuento: '33.50'
 average: '6.57'

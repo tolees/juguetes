@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'feihao Cepillo De Dientes para Perros Cepillos de Dientes Caninos Limpiador de Dientes de Perro Juguetes para Masticar Dental para Perros Limpieza-Perro Cuidado bucal Dental no tóxica Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVPPR7P/?tag=tolees-21'
 descuento: '43.78'
 average: '8.99'

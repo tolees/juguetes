@@ -16,6 +16,7 @@ comparePrice: 26.55 EUR
 prodname: 'Sylvanian Families-5227 Coche descapotable  Color Rojo  Epoch para Imaginar 5227 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BE0HIPO/?tag=tolees-21'
 descuento: '56.01'
 average: '11.68'

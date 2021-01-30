@@ -16,6 +16,7 @@ comparePrice: 28.5 EUR
 prodname: 'Think Fun- Dr. Gravely Escape The Room  Ravensburger 76311 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BDPWJ6N/?tag=tolees-21'
 descuento: '19.33'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'KATOOM Mini Flotador 9pcs para sostenedor Bebida de Flotador Hinchable Piscina Fiesta de Unicornio inflador o Juguetes hinchables de niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P37LTZY/?tag=tolees-21'
 descuento: '35.31'
 average: '10.943333333333335'

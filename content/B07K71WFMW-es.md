@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Hot Wheels - HW Auto-Lift Expressway Track Set y 5 DCC  Mattel FXN21 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K71WFMW/?tag=tolees-21'
 descuento: '32.51'
 average: '40.49'

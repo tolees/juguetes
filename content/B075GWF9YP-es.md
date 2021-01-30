@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO City Police - Montaña: Arresto  Set de Construcción de Juguete de Policía con Helicóptero  Coche  Minifiguras y Muñeco de Oso  60173 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GWF9YP/?tag=tolees-21'
 descuento: '24.92'
 average: '38.49928571428571'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO DUPLO - Gran Zona de Juegos  10864 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GQBMMV/?tag=tolees-21'
 descuento: '27.19'
 average: '37.94'

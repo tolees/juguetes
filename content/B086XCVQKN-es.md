@@ -16,6 +16,7 @@ comparePrice: 19.11 EUR
 prodname: 'Wooden Jumping Gomoku Wooden Six-Color Two-In-One Juego de Mesa para niños Juegos de Mesa Juguetes educativos - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086XCVQKN/?tag=tolees-21'
 descuento: '35.01'
 average: '12.42'

@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Selle Italia - Sillìn Bicicleta de Carretera SLR Boost TM Superflow  Rail Manganese Tubo Ø7  Sillìn Corto Road Perfomance Soft-tek  Comfort'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S83VMKH/?tag=tolees-21'
 descuento: '17.65'
 average: '86.46'

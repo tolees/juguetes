@@ -16,6 +16,7 @@ comparePrice: 33.65 EUR
 prodname: 'SYLVANIAN FAMILIES Set Cuarto de baño  Multicolor  Epoch para Imaginar 5034 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3UYCM7/?tag=tolees-21'
 descuento: '28.71'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Pikmi Pops- Pushme Up Peluche perfumado  Giochi Preziosi Spagna PKM15000    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079RQXSXX/?tag=tolees-21'
 descuento: '69.67'
 average: '3.294'

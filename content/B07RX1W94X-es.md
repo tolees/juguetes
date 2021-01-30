@@ -16,6 +16,7 @@ comparePrice: 18.14 EUR
 prodname: 'Ravensburger - Puzzle 3D Olaf Frozen 2   11157 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX1W94X/?tag=tolees-21'
 descuento: '44.93'
 average: '9.213750000000001'

@@ -16,6 +16,7 @@ comparePrice: 13.82 EUR
 prodname: 'Mantel de fieltro  rompecabezas  colorido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016SFTSUS/?tag=tolees-21'
 descuento: '36.76'
 average: '8.74'

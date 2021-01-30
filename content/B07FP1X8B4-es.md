@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Disney Princess - Aventuras en Palacio de Aladdín y Jasmine  juguete creativo de construcción  41161 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP1X8B4/?tag=tolees-21'
 descuento: '36.08'
 average: '21.58'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'lenbest 7pcs Squishys Kawaii Juguetes  Juguetes Squishies  Juguete Estrés Alivio Suave  Alivia el Estrés  Aumenta la Circulación Sanguínea en Ambas Manos  no es Fácil de Romper  no Tóxico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PY6V6V8/?tag=tolees-21'
 descuento: '26.93'
 average: '18.99'

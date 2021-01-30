@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Clementoni - Puzzle 2000 Piezas Las Vegas  32555 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B010VBDJIM/?tag=tolees-21'
 descuento: '31.31'
 average: '13.67'

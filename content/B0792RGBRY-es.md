@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Animales Fantásticos - Huida de Grindelwald  Juguete de Construcción del Mundo Mágico de Fantastic Beasts  75951 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792RGBRY/?tag=tolees-21'
 descuento: '30.38'
 average: '22.401875000000004'

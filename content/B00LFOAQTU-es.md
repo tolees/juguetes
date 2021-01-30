@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Air Hogs - Vectron Wave 2  Bizak 61924436  - colores surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LFOAQTU/?tag=tolees-21'
 descuento: '43.74'
 average: '22.5'

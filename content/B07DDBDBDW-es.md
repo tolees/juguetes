@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mundo Monstruos - Laboratorio Zombie Ball  Bizak 35001918 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDBDBDW/?tag=tolees-21'
 descuento: '77.59'
 average: '6.3525'

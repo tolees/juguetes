@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Souke Sports - Pantalones Cortos De Ciclismo para Mujer 4D Acolchados para Bicicleta De Carretera Pantalones Cortos Transpirables De Secado Rápido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088BLT8T1/?tag=tolees-21'
 descuento: '26.32'
 average: '27.99'

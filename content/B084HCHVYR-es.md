@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'Educa Borras - Genuine Puzzles  Puzzle 2.000 piezas  El Jardín de las delicias  18505 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HCHVYR/?tag=tolees-21'
 descuento: '16.41'
 average: '20.345'

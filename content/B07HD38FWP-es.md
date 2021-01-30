@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Mattel Disney Toy Story 4 Figura Básica Hamm  Juguetes Niños +3 Años  GHY68 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HD38FWP/?tag=tolees-21'
 descuento: '16.68'
 average: '14.271666666666665'

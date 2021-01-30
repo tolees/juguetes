@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Locisne 100pcs 7.2cm Recarga de Dardos Soft EVA Foam Bullet Munición Pack para Nerf N-Strike Elite Series- Azul EVA bala 100 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H8D23NY/?tag=tolees-21'
 descuento: '20.02'
 average: '7.656666666666667'

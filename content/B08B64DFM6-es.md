@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'EXCEED Posavasos inflables para la Piscina Paquete de 17 titulares de Bebidas inflables con Mini Bomba de Aire  Bebidas flotantes Posavasos inflables para Juguetes para niños y Fiesta en la Piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B64DFM6/?tag=tolees-21'
 descuento: '58.35'
 average: '15.115'

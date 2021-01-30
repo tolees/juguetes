@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Chicos-Bingo Lotería automática con 48 cartones y 90 bolas imborrables  23.5 x 31 x 17 cm  incluye fichas de juego  color azul   Fábrica de Juguetes 20805 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012Z8BE5E/?tag=tolees-21'
 descuento: '24.83'
 average: '11.99'

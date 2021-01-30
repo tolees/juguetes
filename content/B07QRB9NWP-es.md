@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'GAMEFACTORY 646239 Virus! Juego de Cartas  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRB9NWP/?tag=tolees-21'
 descuento: '31.83'
 average: '14.99'

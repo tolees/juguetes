@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Bizak Kinetic Sand - Torreon Mágico 61921425'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y32MV9Q/?tag=tolees-21'
 descuento: '35.77'
 average: '16.286666666666665'

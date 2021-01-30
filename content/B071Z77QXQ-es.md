@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Hasbro Gaming Chafa el Huevo  Multicolor  C2473175 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071Z77QXQ/?tag=tolees-21'
 descuento: '20.05'
 average: '9.735000000000001'

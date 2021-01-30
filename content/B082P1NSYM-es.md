@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'LCQI Cubo Rompecabezas Adultos Niños Profesional Original'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082P1NSYM/?tag=tolees-21'
 descuento: '33.52'
 average: '5.95'

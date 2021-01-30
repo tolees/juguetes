@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni - Puzzle de 1000 Piezas Louvre  diseño Van Dael: Jarrón con Flores  314157 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002LIEEG/?tag=tolees-21'
 descuento: '15.19'
 average: '10.94'

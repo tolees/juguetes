@@ -16,6 +16,7 @@ comparePrice: 18.72 EUR
 prodname: 'LEGO Marvel Super Heroes - Classics'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WWR7DQI/?tag=tolees-21'
 descuento: '25.21'
 average: '16.166666666666668'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nobleza - Árbol rascador para Gatos de Dos Plataformas con Cueva y Juguetes Colgantes. Color marrón  60 cms.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NP5L96M/?tag=tolees-21'
 descuento: '24.62'
 average: '48.99'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Juguetes De Doble Experiencia Sin Manos Para Hombres Con Voz Femenina Inteligente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0841B9NZC/?tag=tolees-21'
 descuento: '60.04'
 average: '55.94'

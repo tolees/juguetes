@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'CubicFun Puzzles 3D Londres St.Paul s Cathedral Rompecabezas 3D Arquitectura Iglesia Reino Unido Modelo de construcción Kits para Adultos Regalos  Catedral de San Pablo 643 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W84P8QJ/?tag=tolees-21'
 descuento: '29.17'
 average: '44.99'

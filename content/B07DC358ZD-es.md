@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'SKYSPER Manguitos Ciclismo Manga de Compresión Manguito para Brazo 1 Par Respirable Sudar Absorbente Protección Solar UPF 50+ UV para Ciclismo  Golf  Tenis  Senderismo  Baloncesto  Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DC358ZD/?tag=tolees-21'
 descuento: '57.71'
 average: '10.99'

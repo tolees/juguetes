@@ -16,6 +16,7 @@ comparePrice: 10.67 EUR
 prodname: 'Barbie - Princess Power y la Varita mágica de Color  Markwins 9521310 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SN61RLY/?tag=tolees-21'
 descuento: '39.08'
 average: '6.5'

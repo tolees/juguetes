@@ -16,6 +16,7 @@ comparePrice: 26.49 EUR
 prodname: 'Soporte para Bicicleta  Soporte de extensión de vástago de Bicicleta Impermeable para Bicicleta Gub  velocímetro para computadora Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HRB8GRG/?tag=tolees-21'
 descuento: '44.17'
 average: '10.701818181818183'

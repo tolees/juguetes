@@ -16,6 +16,7 @@ comparePrice: 49.5 EUR
 prodname: 'VeloVendo® Alfombra Puzzle Infantiles con Certificado CE & TÜV | Suelo de Espuma EVA | Tapete de Juego | Alfombra Suave para Bebé | Manta Juegos  Letras + Números '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072C2LJPV/?tag=tolees-21'
 descuento: '19.29'
 average: '32.987500000000004'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'ISUDA Rodilleras Deportivas Rodillera Menisco y Ligamentos-Rodillera de Compresión Rodilleras Crossfit Hombre Rotuliana para Crossfit  Deportes Correr  Entrenamiento  Bicicleta Fitness M  - 1 Par'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081FD5BQZ/?tag=tolees-21'
 descuento: '45.85'
 average: '12.99'

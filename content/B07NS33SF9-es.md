@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Lego Jurassic World Pijamas de Manga Larga para niños Azul 9-10 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NS33SF9/?tag=tolees-21'
 descuento: '42.22'
 average: '10.95'

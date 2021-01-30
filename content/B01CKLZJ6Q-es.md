@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'PrimeMatik - Soporte de Pared con Gancho Plegable para Colgar Bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CKLZJ6Q/?tag=tolees-21'
 descuento: '34.10'
 average: '12.450000000000001'

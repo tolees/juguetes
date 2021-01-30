@@ -16,6 +16,7 @@ comparePrice: 32.28 EUR
 prodname: 'Mattel - Hot Wheels ID Portal de carreras con coche   +8 años   FXB53 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NDXGJK3/?tag=tolees-21'
 descuento: '29.37'
 average: '22.8'

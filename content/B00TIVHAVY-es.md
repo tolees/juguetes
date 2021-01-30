@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Devir - Alquimistas  Juego de Mesa  222531 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TIVHAVY/?tag=tolees-21'
 descuento: '44.49'
 average: '37.806666666666665'

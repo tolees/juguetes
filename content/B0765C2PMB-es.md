@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO City Ártico - Vehículo de Exploración  Juguete de Construcción de Aventuras en la Nieve  Incluye Todoterreno con Ruedas de Oruga  60194 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765C2PMB/?tag=tolees-21'
 descuento: '27.19'
 average: '39.361333333333334'

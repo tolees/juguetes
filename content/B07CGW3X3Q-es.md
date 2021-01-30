@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Harry Potter-FYM55 Harry Potter Muñeca profesora McGonagall de la colección  multicolor  0  Mattel FYM55 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGW3X3Q/?tag=tolees-21'
 descuento: '30.78'
 average: '17.99'

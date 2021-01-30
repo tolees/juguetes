@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Star Wars - Interceptor TIE Black Ace  juguete de construcción de Nave Espacial de La Guerra de las Galaxias  Incluye Minifiguras de Griff  Poe y BB-8  75242 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNTTF4K/?tag=tolees-21'
 descuento: '16.91'
 average: '47.25740740740741'

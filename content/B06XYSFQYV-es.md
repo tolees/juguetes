@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Star Wars Mascara electrónica Kylo REN  Multicolor  Hasbro C1428EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYSFQYV/?tag=tolees-21'
 descuento: '55.10'
 average: '22.654999999999998'

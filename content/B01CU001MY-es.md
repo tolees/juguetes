@@ -16,6 +16,7 @@ comparePrice: 29.55 EUR
 prodname: 'Jazwares 15236 16902 Animal Jam Mapache Deluxe Peluche 20 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CU001MY/?tag=tolees-21'
 descuento: '81.52'
 average: '5.46'

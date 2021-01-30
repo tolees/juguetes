@@ -16,6 +16,7 @@ comparePrice: 53.36 EUR
 prodname: 'Splash Toys The Bellies Pinky-Twink  30280  Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJVJ36P/?tag=tolees-21'
 descuento: '43.59'
 average: '30.1'

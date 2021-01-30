@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Hasbro Gaming- Trivial Pursuit  E1921190 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD3RYNH/?tag=tolees-21'
 descuento: '46.18'
 average: '23.76'

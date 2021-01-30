@@ -16,6 +16,7 @@ comparePrice: 15.5 EUR
 prodname: 'Fisher-Price Manzanita Activity  juguete colgante para bebé  Mattel DFP88 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016XS3IRY/?tag=tolees-21'
 descuento: '16.90'
 average: '12.88'

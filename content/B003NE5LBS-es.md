@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Lego 40031734  - Caja de almacenamiento para bloques de construcción color verde parchís'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003NE5LBS/?tag=tolees-21'
 descuento: '31.30'
 average: '19.369'

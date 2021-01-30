@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Lommer 7pcs Ajustable Casco Ciclismo Niño Casco Bici Bebe Clásico con Almohadilla Protección para Bicicleta  Patinete  Scooter  Monopatín  5-12 Anos  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G25W4DV/?tag=tolees-21'
 descuento: '27.79'
 average: '12.99'

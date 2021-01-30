@@ -16,6 +16,7 @@ comparePrice: 21.79 EUR
 prodname: 'Espejo de Juguete del Asiento Trasero de Fish Pattern para el recién Nacido bebé Educativo Educativo de Dibujos Animados de Peluche de Juguete en el Coche'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCB31DZ/?tag=tolees-21'
 descuento: '44.06'
 average: '12.19'

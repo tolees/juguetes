@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Mattel - DLH56 Shimmer and Shine Muñeca Shimmer con accesorios   color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AROO06I/?tag=tolees-21'
 descuento: '50.03'
 average: '7.99'

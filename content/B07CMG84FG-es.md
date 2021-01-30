@@ -16,6 +16,7 @@ comparePrice: 74.12 EUR
 prodname: 'Star Wars E0584 Juguete interactivos - Juguetes interactivos  Marrón   4 año s   Niño/niña  1 5 V  Alcalino '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CMG84FG/?tag=tolees-21'
 descuento: '23.65'
 average: '68.745'

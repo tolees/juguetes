@@ -16,6 +16,7 @@ comparePrice: 18.93 EUR
 prodname: 'iMiMi - Juego de anillos apilables de arco iris  juguete piramidal  juguete educativo y educativo para la percepción del color  juguetes de madera para niños y niños  multicolor  duradero'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0885VXYRJ/?tag=tolees-21'
 descuento: '37.67'
 average: '11.8'

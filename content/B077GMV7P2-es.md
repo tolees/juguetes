@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Gifort Pompones  Coloridos Pompones Balls  250pcs / 2.0-2.5cm Bolas de Peluche Mullidas para Bricolaje  Manualidades y Decoraciones'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GMV7P2/?tag=tolees-21'
 descuento: '19.06'
 average: '15.989999999999998'

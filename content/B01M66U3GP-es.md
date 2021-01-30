@@ -16,6 +16,7 @@ comparePrice: 24.97 EUR
 prodname: 'RYBit Set de 9 Bolsas de Malla Reutilizables +1 Bolsa de Leche Vegetal Nueces +1 Bolsa Compra Plegable  Guardar Frutas Verduras Juguetes Lavandería Cosmética Organizador Viaje  Gran Valor de Precio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M66U3GP/?tag=tolees-21'
 descuento: '69.60'
 average: '9.383333333333335'

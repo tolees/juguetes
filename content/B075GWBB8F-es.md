@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO DUPLO Town - Establo de los Ponis  Juguete de Preescolar Educativo con Caballos y Muñecos para Niñas y Niños de 2 a 5 Años  10868 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GWBB8F/?tag=tolees-21'
 descuento: '25.01'
 average: '22.439999999999998'

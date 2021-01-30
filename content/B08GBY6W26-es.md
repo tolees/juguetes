@@ -16,6 +16,7 @@ comparePrice: 7.24 EUR
 prodname: 'Bola de pulverización de Agua eléctrica Inducción eléctrica Luz anfibia Música Universal Walking Baño Juguetes para bebés - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GBY6W26/?tag=tolees-21'
 descuento: '15.06'
 average: '6.15'

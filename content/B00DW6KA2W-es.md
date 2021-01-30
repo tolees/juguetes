@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Devir- Juego de Mesa Inkognito  única  BGINKO '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DW6KA2W/?tag=tolees-21'
 descuento: '45.03'
 average: '20.32333333333333'

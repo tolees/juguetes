@@ -16,6 +16,7 @@ comparePrice: 53.23 EUR
 prodname: 'Imaginext - Batcueva  Mattel X7677 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQYQY8Q/?tag=tolees-21'
 descuento: '23.41'
 average: '40.77'

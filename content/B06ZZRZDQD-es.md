@@ -16,6 +16,7 @@ comparePrice: 10.75 EUR
 prodname: 'Clementoni- Puzzle 500 Piezas Old Waterway Cottage  Multicolor  35048.3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZZRZDQD/?tag=tolees-21'
 descuento: '44.65'
 average: '5.95'

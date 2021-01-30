@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO City Great Vehicles - Tractor Forestal  Juguete de Construcción para Niños y Niñas de 5 a 12 Años con Piezas  Minifigura y Vehículo  60181 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GQ97SR/?tag=tolees-21'
 descuento: '15.01'
 average: '15.48'

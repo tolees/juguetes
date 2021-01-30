@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'TROLLS Poppy Momento Abrazo  Multicolor.  Hasbro B6568105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GG1AXKI/?tag=tolees-21'
 descuento: '58.32'
 average: '20.244999999999997'

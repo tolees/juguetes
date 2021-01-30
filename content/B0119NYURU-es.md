@@ -16,6 +16,7 @@ comparePrice: 10.77 EUR
 prodname: 'Sentía rompecabezas mantel  rojo / verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0119NYURU/?tag=tolees-21'
 descuento: '18.85'
 average: '8.74'

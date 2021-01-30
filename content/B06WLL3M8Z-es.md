@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'LEGO Star Wars - Rey  75528 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WLL3M8Z/?tag=tolees-21'
 descuento: '26.08'
 average: '24.509230769230772'

@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'Baby Alive Muñeca mimos y cuidados  Multicolor  Miscelanea  Hasbro C0957105 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0719JFC4L/?tag=tolees-21'
 descuento: '37.52'
 average: '27.784'

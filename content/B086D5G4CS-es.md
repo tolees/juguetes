@@ -16,6 +16,7 @@ comparePrice: 20.87 EUR
 prodname: 'MaoXinTek Tangram Madera 36 Montessori Puzzle de Formas y 60 Diseño Tarjetas de Apilamiento Juguetes educativos Regalos para Niños Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086D5G4CS/?tag=tolees-21'
 descuento: '37.76'
 average: '12.99'

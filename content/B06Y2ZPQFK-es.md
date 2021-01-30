@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Bizak Hatchimals Draggle Brillo Magi  Juguete electrónico  61921921 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y2ZPQFK/?tag=tolees-21'
 descuento: '35.46'
 average: '48.275'

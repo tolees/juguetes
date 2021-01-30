@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Nancy - Princesa de Otoño  Famosa 700014110 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PW93V2M/?tag=tolees-21'
 descuento: '34.86'
 average: '21.73'

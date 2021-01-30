@@ -16,6 +16,7 @@ comparePrice: 16.41 EUR
 prodname: 'Jaques of London Juguete de Martillo Juguemos al Banco de Martillo - Juguete de Habilidad de Motor Fino - Juguetes y Juegos 1795'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXSH1H1/?tag=tolees-21'
 descuento: '43.45'
 average: '9.28'

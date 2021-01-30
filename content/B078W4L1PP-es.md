@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Mini bicicleta estática pedales para entrenamiento de brazos y piernas y hacer ejercicio en casa con pantalla LCD  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078W4L1PP/?tag=tolees-21'
 descuento: '43.40'
 average: '29.99'

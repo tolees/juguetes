@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Hot Wheels - Track Builder  pack de accesorios para pistas Booster -  Mattel GBN81 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CGKZSCF/?tag=tolees-21'
 descuento: '19.64'
 average: '15.815000000000001'

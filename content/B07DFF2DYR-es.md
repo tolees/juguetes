@@ -16,6 +16,7 @@ comparePrice: 37.33 EUR
 prodname: 'Adaptador Soporte Extensión Vástago Montaje En Equipo de Bicicleta Aluminio para Garmin Edge'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFF2DYR/?tag=tolees-21'
 descuento: '44.44'
 average: '20.34'

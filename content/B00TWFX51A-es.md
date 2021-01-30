@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'GRU 2: Mi Villano Favorito - Peluche Interactivo Sing N Dance Bob  Mondo SPA 31009 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TWFX51A/?tag=tolees-21'
 descuento: '54.28'
 average: '32.0'

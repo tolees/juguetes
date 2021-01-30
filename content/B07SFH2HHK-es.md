@@ -16,6 +16,7 @@ comparePrice: 22.9 EUR
 prodname: 'El Rey Leon  The Lion King  - Peluche Leon Simba Adulto 11"/28cm Calidad Super Soft 760018053'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SFH2HHK/?tag=tolees-21'
 descuento: '19.87'
 average: '18.35'

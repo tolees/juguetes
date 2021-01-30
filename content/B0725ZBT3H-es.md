@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'FEBER - Mad Racer 12 V  Famosa 800011361 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0725ZBT3H/?tag=tolees-21'
 descuento: '42.55'
 average: '172.35'

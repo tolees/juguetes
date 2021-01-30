@@ -16,6 +16,7 @@ comparePrice: 14.57 EUR
 prodname: 'Ravensburger - Memory Dragons 3  21444 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K2K51FN/?tag=tolees-21'
 descuento: '31.37'
 average: '10.9875'

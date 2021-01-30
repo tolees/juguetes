@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aizhy Bomba de pie de Doble Barril  Bomba de Bicicleta de Doble Cilindro  Bomba de Piso de Bicicleta  Bomba de neumático de Bicicleta portátil con manómetro y Cabezal de válvula Inteligente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPD8MBC/?tag=tolees-21'
 descuento: '25.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Hasbro B90701 Animales de Juguete Juguetes de Peluche  Animales de Juguete   4 año s   FurReal Friends  Chica  1 5 V '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYSRJXX/?tag=tolees-21'
 descuento: '21.43'
 average: '54.99'

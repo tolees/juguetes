@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'NEWSTYLE Bolsa de Almacenamiento de Ropa de Gran Capacidad Organizador Plegable con Asa Reforzada y Ventana Clara para Edredones Mantas Almohadas Juguetes Chaquetas Ropa Pluches  3 Paquetes '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YXZQNJW/?tag=tolees-21'
 descuento: '50.02'
 average: '14.99'

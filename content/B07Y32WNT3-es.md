@@ -16,6 +16,7 @@ comparePrice: 2.93 EUR
 prodname: 'PVC Inflable Serpiente Inflable Promocional Animal Juguetes Niños Divertido Inflable Python Tricky Toys - Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y32WNT3/?tag=tolees-21'
 descuento: '30.03'
 average: '2.05'

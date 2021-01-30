@@ -16,6 +16,7 @@ comparePrice: 22.84 EUR
 prodname: 'Sylvanian Families- Chocolate Rabbit Grandparents Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5190 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S6DCS76/?tag=tolees-21'
 descuento: '15.94'
 average: '19.2'

@@ -16,6 +16,7 @@ comparePrice: 14.76 EUR
 prodname: 'Juguetes de Mesa Diversión Familiar Mini Baloncesto Disparar los Dedos Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JO3GUN4/?tag=tolees-21'
 descuento: '16.80'
 average: '12.28'

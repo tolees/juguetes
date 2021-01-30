@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Creator - Avión de Carreras  juguete creativo de construcción y aventuras en el aire  31094    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNS6J88/?tag=tolees-21'
 descuento: '32.44'
 average: '21.503333333333334'

@@ -16,6 +16,7 @@ comparePrice: 37.0 EUR
 prodname: 'Barbie Muñeca con caballo de juguete + 3 años  Mattel FXH13 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFXXTMY/?tag=tolees-21'
 descuento: '36.43'
 average: '28.013333333333332'

@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'MAJOZ0 Vitrina de Acrílico  Caja de Presentación para Lego 21319 Ideas Friends Central Perk  Modelo Lego no Incluido '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JGCH66F/?tag=tolees-21'
 descuento: '30.65'
 average: '42.99'

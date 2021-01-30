@@ -16,6 +16,7 @@ comparePrice: 40.98 EUR
 prodname: 'jerryvon Dinosaurios Juguetes con Luces y Sonido Tyrannosaurus Rex Que Camina Jurassic World Figuras de Dinosaurio Maqueta Decoración de Dinosaurios para Niños Niñas 3 4 5 Años+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSZ35SL/?tag=tolees-21'
 descuento: '48.78'
 average: '21.32333333333333'

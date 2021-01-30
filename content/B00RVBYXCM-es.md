@@ -16,6 +16,7 @@ comparePrice: 217.79 EUR
 prodname: 'SportPlus Heimtrainer S-Bike - Bicicleta estática y de spinning para fitness  talla standard'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00RVBYXCM/?tag=tolees-21'
 descuento: '45.72'
 average: '106.10777777777778'

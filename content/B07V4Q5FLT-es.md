@@ -16,6 +16,7 @@ comparePrice: 22.13 EUR
 prodname: 'Star Wars - Figura de acción de Jannah de Black Series  Hasbro E6055EL2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4Q5FLT/?tag=tolees-21'
 descuento: '32.26'
 average: '14.99'

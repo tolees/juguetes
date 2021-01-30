@@ -16,6 +16,7 @@ comparePrice: 30.95 EUR
 prodname: 'Barbie Muñeca BMR 1959  look cazadora denim  regalo para niñas y niños 3-9 años  Mattel GHT95 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QF1LRXQ/?tag=tolees-21'
 descuento: '20.00'
 average: '24.76'

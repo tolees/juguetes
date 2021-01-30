@@ -16,6 +16,7 @@ comparePrice: 29.12 EUR
 prodname: 'Transformers- Cyberverse Spark Armor Megatron  Multicolor  Hasbro E4327ES0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LH5BQZ6/?tag=tolees-21'
 descuento: '42.86'
 average: '16.64'

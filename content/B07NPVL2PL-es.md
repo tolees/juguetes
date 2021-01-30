@@ -16,6 +16,7 @@ comparePrice: 11.19 EUR
 prodname: 'Peluditos Peludito Mascota Interactiva Modelos Surtidos  BIZAK 62003690 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPVL2PL/?tag=tolees-21'
 descuento: '18.50'
 average: '9.12'

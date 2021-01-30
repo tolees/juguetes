@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'PEPPA PIG Botella cantimplora tritan hidro HOME Unisex Adulto  Compuesto  varios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081NXR12C/?tag=tolees-21'
 descuento: '53.09'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 30.1 EUR
 prodname: 'Ocobudbxw Memory Match Stick Chess Niños Niños Puzzle Educativo Brain Train Toy'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKBCPBJ/?tag=tolees-21'
 descuento: '50.00'
 average: '15.05'

@@ -16,6 +16,7 @@ comparePrice: 11.72 EUR
 prodname: 'GEMVIE Flotador de Bebé Piscina Inflable con Manija Anillo de Seguridad Pato Amarillo Longitud/88cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGHQR5Q/?tag=tolees-21'
 descuento: '31.83'
 average: '7.99'

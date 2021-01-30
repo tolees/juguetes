@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Juguetes de Buceo Conjunto de Juguete para Piscina Juguete de Natación para Niños con Anillo de Buceo 4pcs  Delfines 4pcs  Bandidos de Torpedos 4pcs  Algas Marinas 3pcs  Piedra Preciosa 10pcs  25 Pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QGBCF68/?tag=tolees-21'
 descuento: '17.01'
 average: '19.189999999999998'

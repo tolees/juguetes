@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes Piscina Bebé Pescado Juguete en Caucho Blando Juego de Pesca para Juguetes Niños 18 Meses'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074W7BXPD/?tag=tolees-21'
 descuento: '47.39'
 average: '9.49'

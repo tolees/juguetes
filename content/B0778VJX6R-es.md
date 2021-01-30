@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'AEST Correpasillos Y Patinete 2 En 1 Bicicleta Sin Pedales Reversible Scooter 2 Ruedas Niño Niña 3-5 Años - Color Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0778VJX6R/?tag=tolees-21'
 descuento: '47.16'
 average: '36.99'

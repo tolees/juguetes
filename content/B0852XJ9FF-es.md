@@ -16,6 +16,7 @@ comparePrice: 4.72 EUR
 prodname: 'Panamami Tamaño portátil Niños Niños Bebé Estudio Cámara Forma Juguetes Plásticos Niños Juguetes encantadores Color Aleatorio  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0852XJ9FF/?tag=tolees-21'
 descuento: '34.96'
 average: '3.07'

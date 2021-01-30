@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ENKEEO Ciclocomputadores Inalámbrica Recargable USB con Cadencia  Cuentakilómetros Impermeable para Bicicleta  Multifunción con Pantalla LCD Retroiluminada  para Ciclismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQSHMZ3/?tag=tolees-21'
 descuento: '56.68'
 average: '25.99'

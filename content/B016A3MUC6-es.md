@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'PATRULLA CANINA  PAW PATROL  - PELUCHE PERSONAJE RUBBLE  BULLDOG INGLÉS ESPECIALISTA EN CONSTRUCCIÓN  30CM DE PIE  CALIDAD SUPER SOFT - COLOR AMARILLO -'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016A3MUC6/?tag=tolees-21'
 descuento: '52.04'
 average: '11.99'

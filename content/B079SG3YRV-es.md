@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Pinypon- Instituto PINY  Multicolor  Famosa 700014353 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SG3YRV/?tag=tolees-21'
 descuento: '24.38'
 average: '36.354499999999994'

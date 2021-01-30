@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Stomping Ground Toys - 20 Alfombras Puzzle EVA Coloridas Alfombras de Foam Encajables para Actividades Infantiles en el Piso Amarillo Rojo Gris R05R09R12G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085BM3RQN/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

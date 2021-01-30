@@ -16,6 +16,7 @@ comparePrice: 23.35 EUR
 prodname: 'Chanos Chanos Peppa Pig Safety Runner PoE Transparent Folding Umbrella  38 cm  Pink Paraguas Plegable  Rosa  Pink '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHR2LFW/?tag=tolees-21'
 descuento: '46.04'
 average: '12.733333333333334'

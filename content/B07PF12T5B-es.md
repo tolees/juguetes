@@ -16,6 +16,7 @@ comparePrice: 126.05 EUR
 prodname: 'TOIMSA 16225 Vulcano - Bicicleta de 16 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PF12T5B/?tag=tolees-21'
 descuento: '42.92'
 average: '71.95'

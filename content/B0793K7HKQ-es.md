@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Educa Borrás- Serie Puzzle 500 Piezas  Princesas Disney  17723 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0793K7HKQ/?tag=tolees-21'
 descuento: '39.80'
 average: '6.99'

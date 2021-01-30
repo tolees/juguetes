@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Pop! Vinilo: Disney: The Lion King: Simba'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KPSBXR3/?tag=tolees-21'
 descuento: '35.61'
 average: '9.644'

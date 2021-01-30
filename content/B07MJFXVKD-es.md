@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Eono by Amazon Árboles para Gatos rasguña los Postes de sisal Natural con Bola de Juguetes para Dormir de Nido Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJFXVKD/?tag=tolees-21'
 descuento: '20.00'
 average: '55.99'

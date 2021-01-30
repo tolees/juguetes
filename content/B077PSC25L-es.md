@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Enchantimals Muñeca con mascota Winsley Wolf  Mattel FRH40    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PSC25L/?tag=tolees-21'
 descuento: '33.63'
 average: '6.916666666666667'

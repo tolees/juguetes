@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Ravensburger - 3D Puzzle Building Faro Night  12577 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D595EMC/?tag=tolees-21'
 descuento: '47.64'
 average: '24.53'

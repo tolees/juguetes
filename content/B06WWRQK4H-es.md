@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Puzzles Rompecabezas Magnéticos de Madera Juguetes Educativos Para Niños Niña 3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WWRQK4H/?tag=tolees-21'
 descuento: '48.17'
 average: '13.110000000000001'

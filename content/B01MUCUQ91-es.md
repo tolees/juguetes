@@ -16,6 +16,7 @@ comparePrice: 17.83 EUR
 prodname: 'Clementoni - Puzzle 2000 Piezas Neuschwanstein  32559 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MUCUQ91/?tag=tolees-21'
 descuento: '18.28'
 average: '14.57'

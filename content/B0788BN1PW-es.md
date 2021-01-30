@@ -16,6 +16,7 @@ comparePrice: 32.31 EUR
 prodname: 'Auto Companion - Soporte de techo en aluminio para moto o bicicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0788BN1PW/?tag=tolees-21'
 descuento: '68.09'
 average: '10.31'

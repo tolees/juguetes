@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Lixada uperdyneema de los Hombres de Ciclismo Ropa Interior Gel 3D Bicicleta Pantalones Cortos Pantalones Acolchados'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072JBG4NQ/?tag=tolees-21'
 descuento: '29.43'
 average: '11.99'

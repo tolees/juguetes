@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Clementoni - Puzzle de 3000 Piezas  diseño Mapa Antiguo  33531.2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B001RB1VQI/?tag=tolees-21'
 descuento: '15.79'
 average: '18.07333333333333'

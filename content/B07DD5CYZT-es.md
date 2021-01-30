@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Famogames - Sandía Splash  Famosa 700014661 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DD5CYZT/?tag=tolees-21'
 descuento: '66.64'
 average: '9.99'

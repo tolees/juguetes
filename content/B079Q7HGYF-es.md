@@ -16,6 +16,7 @@ comparePrice: 13.23 EUR
 prodname: 'Clementoni- Puzzle 1000 Piezas Anne Stokes Inner Strenght  39464.7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079Q7HGYF/?tag=tolees-21'
 descuento: '16.86'
 average: '11.0'

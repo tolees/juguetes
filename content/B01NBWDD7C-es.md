@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Clementoni - Puzzle 13.200 piezas orquesta disney  38010    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBWDD7C/?tag=tolees-21'
 descuento: '44.37'
 average: '51.02333333333333'

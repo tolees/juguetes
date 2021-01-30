@@ -16,6 +16,7 @@ comparePrice: 17.25 EUR
 prodname: 'REAL MADRID- Nanostad  Puzzle 3D Estadio Santiago Bernabéu Mini  34009   Multicolor  KICK OFF GAMES 1 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5B11QB/?tag=tolees-21'
 descuento: '42.32'
 average: '9.95'

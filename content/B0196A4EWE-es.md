@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'SYLVANIAN FAMILIES- Cosmetic Counter Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5235 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0196A4EWE/?tag=tolees-21'
 descuento: '56.39'
 average: '16.57810810810811'

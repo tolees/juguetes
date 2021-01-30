@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'Nerf - Nstrike Falconfire  Hasbro  B9839EU5 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005FQTPMS/?tag=tolees-21'
 descuento: '16.75'
 average: '18.65'

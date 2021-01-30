@@ -16,6 +16,7 @@ comparePrice: 23.47 EUR
 prodname: 'EKKONG Pistolas de Agua para Niños Adultos  900ML Soaker Guns Largo Alcance 8M  Juguetes de Verano Caliente para Piscina de Playa Fiesta Jardin Batalla de Agua  900ml '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087FJ6DB6/?tag=tolees-21'
 descuento: '61.70'
 average: '8.99'

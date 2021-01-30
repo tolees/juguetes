@@ -16,6 +16,7 @@ comparePrice: 13.61 EUR
 prodname: 'LEGO Friends - Cubo Tienda de Juegos de Olivia Caja de Juguete  con Accesorios y Mini Muñeca  Juguete de muñecas recomendado a partir de 6 años  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X9TVZY5/?tag=tolees-21'
 descuento: '26.60'
 average: '9.99'

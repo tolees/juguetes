@@ -16,6 +16,7 @@ comparePrice: 19.88 EUR
 prodname: 'Devir Iberia 221718 Genial  Juego de Mesa  BGENI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M6QS51C/?tag=tolees-21'
 descuento: '15.54'
 average: '16.79'

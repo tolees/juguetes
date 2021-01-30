@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Supersoaker-Fortnite Pump Sg  Hasbro E76475L0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T87ZF9G/?tag=tolees-21'
 descuento: '23.82'
 average: '19.629999999999995'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Asmodee - Dobble Waterproof  Juego de cartas impermeable  ADE0ASDO007 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071L7ZBD7/?tag=tolees-21'
 descuento: '18.76'
 average: '12.99'

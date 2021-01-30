@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'LEGO Super Heroes - Batalla en la Atlántida  76085 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VVPKGGK/?tag=tolees-21'
 descuento: '17.11'
 average: '22.509999999999998'

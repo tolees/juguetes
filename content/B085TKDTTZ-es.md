@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Jaques de Londres Juguemos a los Gatos Locos Apilables - Juguetes de Madera apilar y Juguetes de Animales de Madera - Juguetes de Madera Ideales para 1 2 3 4 5 años Desde 1795'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085TKDTTZ/?tag=tolees-21'
 descuento: '50.04'
 average: '6.99'

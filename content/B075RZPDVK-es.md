@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'amzdeal Soporte Caballete de reparación de Bicicletas Soporte de Reparar Bici Altura Ajustable115cm-170cm  Soporte para Reparar Bicicleta Girando hasta 360 °，Nueva versión'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RZPDVK/?tag=tolees-21'
 descuento: '40.01'
 average: '42.97'

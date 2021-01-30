@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Hot Wheels - Monster Trucks Monster Mover  Camión Transportador de Coches de Juguete  Mattel FYK13 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JK2NB78/?tag=tolees-21'
 descuento: '20.01'
 average: '23.19'

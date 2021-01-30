@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO Ninjago - Spinjitzu Kai  peonza roja divertida de ninja de juguete  70659 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNWMBLR/?tag=tolees-21'
 descuento: '25.03'
 average: '7.49'

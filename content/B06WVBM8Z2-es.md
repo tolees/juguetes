@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO Star Wars - Scout Trooper y Speeder Bike  75532  Juego de construcción'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVBM8Z2/?tag=tolees-21'
 descuento: '15.60'
 average: '51.197500000000005'

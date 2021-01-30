@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Marvel Legends - Iron Man Mark 50 y Iron Spider  Hasbro E6341E48 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TB1YW6J/?tag=tolees-21'
 descuento: '15.00'
 average: '50.99'

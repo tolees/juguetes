@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Las aventuras de Ladybug Puzzle Multi 4en1 50-80-100-150  Educa Borrás 17466 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HH2RWZ/?tag=tolees-21'
 descuento: '24.82'
 average: '11.846666666666668'

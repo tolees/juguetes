@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Grupo K-2 Riscko - Bicicleta sin Pedales con sillín Y Manillar Regulables | Ultraligera | Correpasillos Minibike | Bicicleta para Niños de 2 a 5 años Baby Star Blanca'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D334DLM/?tag=tolees-21'
 descuento: '20.00'
 average: '23.12'

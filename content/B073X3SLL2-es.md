@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Lego Ninjago'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X3SLL2/?tag=tolees-21'
 descuento: '20.10'
 average: '18.56722222222222'

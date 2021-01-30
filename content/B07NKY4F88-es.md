@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Hasbro accion Marvel Figura con vehículo Deadpool  Multicolor  E4702CB0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKY4F88/?tag=tolees-21'
 descuento: '27.21'
 average: '40.0'

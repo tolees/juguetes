@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Spider-Man- Figura Titan Morales  Hasbro E85255X0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZZV66YD/?tag=tolees-21'
 descuento: '16.07'
 average: '15.557500000000001'

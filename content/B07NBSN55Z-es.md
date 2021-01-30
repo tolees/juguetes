@@ -16,6 +16,7 @@ comparePrice: 6.3 EUR
 prodname: 'Famosa- Pinypon Muñeca coleccionable Emoji  Multicolor  700014721    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NBSN55Z/?tag=tolees-21'
 descuento: '50.00'
 average: '3.238888888888889'

@@ -16,6 +16,7 @@ comparePrice: 12.71 EUR
 prodname: 'Mattel- Toy Story Figura Woody 20 cm  Multicolor  GDP68 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FWHWSW9/?tag=tolees-21'
 descuento: '29.43'
 average: '11.418'

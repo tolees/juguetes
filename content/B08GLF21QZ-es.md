@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HUYIYI Puzzles de Madera de Animales  Puzzles Infantiles  Rompecabezas de Animales para Niños Niñas  Juguetes Montessori Educativos para Bebé de 1 2 3 años 4 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GLF21QZ/?tag=tolees-21'
 descuento: '37.02'
 average: '12.59'

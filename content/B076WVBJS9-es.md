@@ -16,6 +16,7 @@ comparePrice: 463.43 EUR
 prodname: 'Nilox E Bike 36 V 16 P-X2 Bicicleta Eléctrica  Unisex Adulto  Negro  58 x 170 x 98'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076WVBJS9/?tag=tolees-21'
 descuento: '18.10'
 average: '461.03999999999996'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Colmanda Juguetes Bañera Bebés  16 Piezas Juguetes de Baño Flotantes con Bolsa de Almacenamiento  Juguetes de Baño Flotantes para Bebés Juguete Baño Bebe para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BRT46QS/?tag=tolees-21'
 descuento: '40.02'
 average: '15.19'

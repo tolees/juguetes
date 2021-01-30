@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'Hasbro Gaming Gaming Clasico Games-Quien es quien  Hasbro 05801175   Miscelanea'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B005OQCM24/?tag=tolees-21'
 descuento: '30.48'
 average: '15.719999999999999'

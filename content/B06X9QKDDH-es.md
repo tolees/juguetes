@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Hanazuki - Muñeca de Peluche con Luces de Colores  Hasbro B9922EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9QKDDH/?tag=tolees-21'
 descuento: '77.63'
 average: '8.1675'

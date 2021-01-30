@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'LEGO 40 Pieza Technic Pin Largo con Tope en Negro.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0056ZWYSA/?tag=tolees-21'
 descuento: '41.68'
 average: '4.66'

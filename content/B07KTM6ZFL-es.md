@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'StillCool Nerf Dardos  100 Pezas 7 2cm Espuma Suave Dardos Recarga Bala Blasters para Nerf N-Strike Elite Serie Niños Juguete Pistola Bullet Munición   Azul Oscuro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTM6ZFL/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

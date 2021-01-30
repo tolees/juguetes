@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'CCLIFE Esterilla Puzzle de Fitness 60x60x1cm 30x30x1cm Suelo de Gimnasio de Goma Espuma EVA  Color:Negro 8pcs'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSDTZYM/?tag=tolees-21'
 descuento: '27.18'
 average: '39.98'

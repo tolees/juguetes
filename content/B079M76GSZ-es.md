@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Pinypon- Niños y Bebés  Pack B  Famosa 700014032 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079M76GSZ/?tag=tolees-21'
 descuento: '28.61'
 average: '5.408333333333333'

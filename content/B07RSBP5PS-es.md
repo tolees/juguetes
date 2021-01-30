@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'HellDoler Flotador para Bebé 1 a 5 Años de Edad Flotador Anillos de Natación Inflable para Bebé Asiento Inflable Swim Ring Inflable Piscina Flotador con Bomba Manual'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RSBP5PS/?tag=tolees-21'
 descuento: '21.44'
 average: '10.99'

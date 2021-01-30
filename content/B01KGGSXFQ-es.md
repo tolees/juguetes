@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Cars Camión Mack Gran Viaje  transportador de coches de juguete  Mattel DXY87 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KGGSXFQ/?tag=tolees-21'
 descuento: '51.63'
 average: '17.49'

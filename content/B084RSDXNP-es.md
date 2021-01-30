@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Famosa Pin y Pon Queen Figura Hielo Vestido Lila 700015577'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084RSDXNP/?tag=tolees-21'
 descuento: '39.49'
 average: '7.831176470588234'

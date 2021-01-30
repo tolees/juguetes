@@ -16,6 +16,7 @@ comparePrice: 61.0 EUR
 prodname: 'Star Wars 8 Sable Camino de la Fuerza  Multicolor  Hasbro C1412EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WP7SZN5/?tag=tolees-21'
 descuento: '42.64'
 average: '30.244'

@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Bicicleta De Ejercicio Fitness Interior Ciclismo Bicicleta Estacionaria Ajustable Profesional Ejercicio Entrenamiento Deporte Bicicleta De 330 Lb De Capacidad De Monitor LCD  Negro 43.3*33.46*17.72in'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086SYVRSC/?tag=tolees-21'
 descuento: '30.37'
 average: '188.0'

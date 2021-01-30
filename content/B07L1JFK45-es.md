@@ -16,6 +16,7 @@ comparePrice: 55.71 EUR
 prodname: 'Daxin Juguete de Robot de Control Remoto Interactivo  Juguetes de Robots de ni?os con m¨²Sica de Caminata Robot de Danza  Juego de f¨²tbol de Interior Regalos de Juguete para Paquete de 2 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L1JFK45/?tag=tolees-21'
 descuento: '50.03'
 average: '27.84'

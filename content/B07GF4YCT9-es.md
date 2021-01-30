@@ -16,6 +16,7 @@ comparePrice: 33.2 EUR
 prodname: 'Wondertoys Juego de Croquet de Animales de Madera  Juguetes de Golf con 2 Bolas  Juego Educativo temprano  Regalo para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GF4YCT9/?tag=tolees-21'
 descuento: '30.75'
 average: '22.99'

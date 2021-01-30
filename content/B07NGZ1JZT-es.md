@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'Barbie - Dreamtopia Muñeca con Pelo Rosa y su Unicornio Luces Mágicas  Mattel FXT26 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NGZ1JZT/?tag=tolees-21'
 descuento: '21.70'
 average: '57.15'

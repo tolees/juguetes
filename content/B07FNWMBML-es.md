@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Creator - Reactor Futurista  Juguete 3 en 1 de Construcción de Avión y Naves Espaciales para Niños y Niñas a Partir de 7 Años con Diferentes Piezas  31086 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNWMBML/?tag=tolees-21'
 descuento: '15.01'
 average: '12.445'

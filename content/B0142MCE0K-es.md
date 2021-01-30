@@ -16,6 +16,7 @@ comparePrice: 13.95 EUR
 prodname: 'dc comics Mattel Wonder Woman 30 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0142MCE0K/?tag=tolees-21'
 descuento: '32.11'
 average: '9.47'

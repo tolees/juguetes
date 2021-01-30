@@ -16,6 +16,7 @@ comparePrice: 18.25 EUR
 prodname: 'Scooter Eléctrico Cerradura del Freno de Disco Cerradura de Seguridad  Cerradura de Alambre de Acero Antirrobo para Xiaomi Mijia M365 Ruedas de Bicicleta Armario con Cuerda de Recordatorio  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFZH3N2/?tag=tolees-21'
 descuento: '40.38'
 average: '10.88'

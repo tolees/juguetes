@@ -16,6 +16,7 @@ comparePrice: 7.26 EUR
 prodname: 'KONG - CuteSeas Octopus - Peluche de Pana para Perros - para Perros Pequeños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00R2Q3S6I/?tag=tolees-21'
 descuento: '38.15'
 average: '4.49'

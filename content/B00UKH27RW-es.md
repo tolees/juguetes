@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Clementoni - Puzzle 3 x 48  Avengers  252039 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UKH27RW/?tag=tolees-21'
 descuento: '40.67'
 average: '6.166875'

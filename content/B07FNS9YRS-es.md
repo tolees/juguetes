@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'LEGO Friends - Caja Corazón de Stephanie  divertido set de construcción coleccionable para guardar tus cosas  41356 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNS9YRS/?tag=tolees-21'
 descuento: '37.55'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 54.84 EUR
 prodname: 'LEGO Hidden Side - Feria Encantada  Set de Construcción con Atracciones de Juguete y Minifiguras de Fantasmas  Funciona con App  a Partir de 8 Años  70432 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8Y1FSZ/?tag=tolees-21'
 descuento: '19.84'
 average: '45.08521739130435'

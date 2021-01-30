@@ -16,6 +16,7 @@ comparePrice: 6.98 EUR
 prodname: 'T.Y 37132 - Peluche  10.3 cm  TY37132  - Peluche Frizzy Azul  15 cm   Juguete Peluche A partir de 4 años A partir de 6 años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MCMCHSM/?tag=tolees-21'
 descuento: '55.59'
 average: '3.2'

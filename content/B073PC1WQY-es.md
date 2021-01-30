@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Hasbro - Mr Mph  Hasbro  27657EZ3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073PC1WQY/?tag=tolees-21'
 descuento: '23.09'
 average: '9.850000000000001'

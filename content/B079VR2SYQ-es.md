@@ -16,6 +16,7 @@ comparePrice: 34.98 EUR
 prodname: 'Artist Fabrica Monstruosa Slime  BIZAK 63317005 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VR2SYQ/?tag=tolees-21'
 descuento: '45.71'
 average: '18.32333333333333'

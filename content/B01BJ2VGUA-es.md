@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Peppa Pig - Puzzle progresivo  12  20 y 25 piezas  Educa Borrás 16817    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BJ2VGUA/?tag=tolees-21'
 descuento: '63.22'
 average: '7.3054545454545465'

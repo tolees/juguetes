@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Kriogor Soporte Movil Bicicleta  Soporte Universal Manillar de Silicona para Moto Bicicleta Motocicleta  Apoyo 360° Rotación para iPhone y Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBTJPYX/?tag=tolees-21'
 descuento: '42.88'
 average: '11.99'

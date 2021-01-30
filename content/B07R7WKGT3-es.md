@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Hasbro Star Wars Retro Game-Escape de la Estrella de la Muerte  Multicolor  5010993640041 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21'
 descuento: '19.91'
 average: '27.99'

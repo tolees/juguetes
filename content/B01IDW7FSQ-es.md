@@ -16,6 +16,7 @@ comparePrice: 9.14 EUR
 prodname: 'Cars 3- Coche Crazy McQueen  Mattel DYB04    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDW7FSQ/?tag=tolees-21'
 descuento: '56.02'
 average: '4.158571428571428'

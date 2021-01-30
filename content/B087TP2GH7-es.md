@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Beetest ES Juguetes Piscina Niños  37 Unids Divertido Buceo Submarino Torpedo Anillo De Algas De Diamante Juguetes De Shell Pulpo Círculos de Buceo Medusas Palo de Buceo para Niños Niñas Piscina'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087TP2GH7/?tag=tolees-21'
 descuento: '50.02'
 average: '11.99'

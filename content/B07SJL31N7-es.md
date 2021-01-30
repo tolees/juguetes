@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Oonies Squeeze Center  para Niños y Niñas a Partir de 5 Años  Multicolor  Famosa 700015405 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SJL31N7/?tag=tolees-21'
 descuento: '37.20'
 average: '16.95'

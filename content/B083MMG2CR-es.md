@@ -16,6 +16,7 @@ comparePrice: 28.21 EUR
 prodname: 'Star Wars - Figura Han Solo Carbonite de Black Series  Hasbro E99265L0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083MMG2CR/?tag=tolees-21'
 descuento: '26.09'
 average: '20.85'

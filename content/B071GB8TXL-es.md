@@ -16,6 +16,7 @@ comparePrice: 9.46 EUR
 prodname: 'Puzzle 60 CARS 3 Wyscig'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GB8TXL/?tag=tolees-21'
 descuento: '29.18'
 average: '4.74'

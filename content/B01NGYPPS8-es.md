@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Barbie Chelsea  muñeca vamos de Picnic  acceosorios muñeca  Mattel FDB34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NGYPPS8/?tag=tolees-21'
 descuento: '19.57'
 average: '18.49'

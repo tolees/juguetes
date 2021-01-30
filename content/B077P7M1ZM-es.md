@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Fisher-Price - Mi Primer Cubo Fidget  Juguete de Aprendizaje bebé  Mattel FWP34 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077P7M1ZM/?tag=tolees-21'
 descuento: '33.42'
 average: '7.99'

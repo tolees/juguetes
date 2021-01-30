@@ -16,6 +16,7 @@ comparePrice: 19.68 EUR
 prodname: 'Geomag- Mechanics Construcciones magnéticas y juegos educativos  Multicolor  33 Piezas  720    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00V8KHK86/?tag=tolees-21'
 descuento: '44.16'
 average: '12.618'

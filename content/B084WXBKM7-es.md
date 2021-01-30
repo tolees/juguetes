@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YIMINYUER Alfombra Puzle Niños Colchoneta Suave Juego Rompecabezas para Niños Espuma EVA Naranja R02G301020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WXBKM7/?tag=tolees-21'
 descuento: '33.78'
 average: '34.43'

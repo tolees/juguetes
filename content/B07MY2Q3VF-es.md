@@ -16,6 +16,7 @@ comparePrice: 29.78 EUR
 prodname: 'Clementoni- Puzzle 3000 Piezas San Francisco  Multicolor  33547.3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MY2Q3VF/?tag=tolees-21'
 descuento: '35.59'
 average: '19.736666666666668'

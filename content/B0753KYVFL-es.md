@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Reloj modificable infantil con figurita de Darth Vader de LEGO Star Wars 8021018'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753KYVFL/?tag=tolees-21'
 descuento: '34.04'
 average: '27.0775'

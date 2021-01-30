@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'VATOS Jigsaw Puzzle 1000 Piezas para Adultos Niños Rompecabezas de Globos Aerostáticos 29.5 "x 20" Gran Juego de Rompecabezas para Adultos Adolescentes Entretenimiento Juguetes Decoración del Hogar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCYMZTD/?tag=tolees-21'
 descuento: '51.23'
 average: '19.99'

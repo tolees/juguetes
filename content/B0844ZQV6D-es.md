@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'SuperZings Serie 5 – Fire Strike Mission 5 y Pack Sorpresa con 16 Sets | Contiene Blíster Fire Strike  10 Sobres One Pack  4 Aerowagons y 2 Skyracers | Juguetes y Regalos para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0844ZQV6D/?tag=tolees-21'
 descuento: '22.02'
 average: '38.99'

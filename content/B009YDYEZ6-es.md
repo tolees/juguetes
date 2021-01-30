@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'HUTCHINSON CV657171 Cámara de Bicicleta  Unisex Adulto  Negro  26 x 1.70-2.35'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009YDYEZ6/?tag=tolees-21'
 descuento: '30.77'
 average: '4.575'

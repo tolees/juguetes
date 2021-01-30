@@ -16,6 +16,7 @@ comparePrice: 24.3 EUR
 prodname: 'LEADSTAR Montessori Activity Wooden Toy  Cordón Madera Juguetes Educativos  Aprendizaje Temprano Bloque Rompecabezas de Bebe  Juegos de Roscar Regalo para Niños Niñas  Relajantes Toys de Viaje - Piña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMC8K4Q/?tag=tolees-21'
 descuento: '42.80'
 average: '13.9'

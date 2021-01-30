@@ -16,6 +16,7 @@ comparePrice: 27.55 EUR
 prodname: 'SYLVANIAN FAMILIES Familia Perros Chihuahua  Epoch para Imaginar 4387 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRAO9G/?tag=tolees-21'
 descuento: '55.72'
 average: '12.2'

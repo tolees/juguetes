@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: '3 Tamaños De Juguetes De Lujo Con Joyas Azules Con Campana Y Cadena Para Amantes Ḅùtt AṈḁl Plùg Vibrḁdôr Vibrḁdôr Pḁrḁ Mùjêrêṧ Pḁrêjḁ PriṈcipiḁṈtêṧ Hômbrêṧ Gḁy Vidriô IṈflḁblê SilicôṈḁ Côlḁ Jùgùêtê'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08132TBFM/?tag=tolees-21'
 descuento: '60.41'
 average: '24.94'

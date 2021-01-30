@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni-Rompecabezas Puzzle 1000 Piezas Museos Leonardo: Mona Lisa  12+  31413 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0002LIEE6/?tag=tolees-21'
 descuento: '18.76'
 average: '10.091999999999999'

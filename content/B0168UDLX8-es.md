@@ -16,6 +16,7 @@ comparePrice: 13.29 EUR
 prodname: 'La Lego Película Edición Especial Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0168UDLX8/?tag=tolees-21'
 descuento: '42.81'
 average: '8.27'

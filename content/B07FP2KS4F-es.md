@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Película 2 - Taller Construye y Arregla de Emmet y Benny  set de construcción divertido con nave y coche de juguete  70821    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP2KS4F/?tag=tolees-21'
 descuento: '69.98'
 average: '14.097083333333336'

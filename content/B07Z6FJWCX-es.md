@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Xpixel Mini Avenue Blocks - Tienda de Juguetes  Juguetería - Juguete de Construcción - Bloques Tamaño Mini - Construye tu Propia Mini Avenida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6FJWCX/?tag=tolees-21'
 descuento: '20.01'
 average: '12.59'

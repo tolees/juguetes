@@ -16,6 +16,7 @@ comparePrice: 30.89 EUR
 prodname: 'Star Wars-40 Aniversario Figura ATAT Driver  Hasbro E8079 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083PJNZXG/?tag=tolees-21'
 descuento: '22.86'
 average: '23.83'

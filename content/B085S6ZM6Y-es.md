@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Juguete de Aparcamiento de Jaques de Londres con Dinosaurios - Juguetes de Coche niños y Juguetes para niñas - Juguetes y Juegos de Madera Desde 1795'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085S6ZM6Y/?tag=tolees-21'
 descuento: '50.03'
 average: '7.99'

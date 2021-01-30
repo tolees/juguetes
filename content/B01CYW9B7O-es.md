@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Cuna para bebé  modelo osito + Colchón Viscoelástico + Edredón y Protector de Cuna  regalo oso peluche '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CYW9B7O/?tag=tolees-21'
 descuento: '20.40'
 average: '199.0'

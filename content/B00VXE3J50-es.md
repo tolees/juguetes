@@ -16,6 +16,7 @@ comparePrice: 400.0 EUR
 prodname: 'Moma Bikes City Classic 26"-  Bicicleta Paseo  Aluminio   Cambio Shimano TZ-50 18 vel.  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VXE3J50/?tag=tolees-21'
 descuento: '52.50'
 average: '194.945'

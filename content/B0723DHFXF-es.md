@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Pinypon Cubo Mix Is Max de 10 figuras  Famosa 700013811 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0723DHFXF/?tag=tolees-21'
 descuento: '20.03'
 average: '26.475'

@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'Justice League Figura Orm  15 cm  Mattel FWX64 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079KDX4WH/?tag=tolees-21'
 descuento: '25.95'
 average: '9.99'

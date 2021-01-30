@@ -16,6 +16,7 @@ comparePrice: 71.4 EUR
 prodname: 'Disney Toy Story 4 - Casco de Ranger Espacial Buzz Lightyear  Juguetes Niños +4 Años  Mattel GFM39 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PFXDKFJ/?tag=tolees-21'
 descuento: '23.64'
 average: '56.343333333333334'

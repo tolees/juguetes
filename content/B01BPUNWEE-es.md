@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'TY- Peluche  juguete  Color negro/blanco  15 cm  United Labels Ibérica 37191TY    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BPUNWEE/?tag=tolees-21'
 descuento: '30.19'
 average: '4.88'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'VTech- BlaBla Block Juego de construcción electrónico Elefante parlante  Color  3480-604722 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MCV4PQ8/?tag=tolees-21'
 descuento: '60.44'
 average: '12.26'

@@ -16,6 +16,7 @@ comparePrice: 46.49 EUR
 prodname: 'BUCHAQIAN Alfombra de Espuma de Rompecabezas de Espuma de Alfombra de Juego de Bloqueo para niños  Cada Alfombra Tiene una dimensión de 30 x 30 cm 1 cm de Grosor Blanco marrón Beige 101106110'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PD9TTGB/?tag=tolees-21'
 descuento: '33.34'
 average: '30.99'

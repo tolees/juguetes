@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'L.O.L. Surprise! 561828 L.O.L. Sorpresa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PMN4NJX/?tag=tolees-21'
 descuento: '29.33'
 average: '49.46'

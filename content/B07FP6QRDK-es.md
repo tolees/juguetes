@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DUPLO Disney - Mi Primer Modelo de Mickey  Juguete Preescolar de Construcción de Mickey Mouse para Niños y Niñas a Partir de 1 Año y Medio  10898    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FP6QRDK/?tag=tolees-21'
 descuento: '20.02'
 average: '7.99'

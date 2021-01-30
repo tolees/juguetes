@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: '/N Cortina de Ducha Wizard Estación de Tren Famosa Imprimir para baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BKDXXSR/?tag=tolees-21'
 descuento: '37.80'
 average: '18.66'

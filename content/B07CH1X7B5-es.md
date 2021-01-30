@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Harry Potter Muñeca Ginny Weasley de la colección de Harry Potter   Mattel FYM53 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CH1X7B5/?tag=tolees-21'
 descuento: '28.86'
 average: '18.49'

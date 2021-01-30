@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Barbie Collector  muñeca Frida Khalo de "Grandes Mujeres"  Mattel FJH65    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QCW6GV/?tag=tolees-21'
 descuento: '30.01'
 average: '43.99'

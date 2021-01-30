@@ -16,6 +16,7 @@ comparePrice: 5.38 EUR
 prodname: 'Baoblaze 60pcs Mini Juego de Damas Ajedrez Juegos de Mesa Juguetes para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKW8RFQ/?tag=tolees-21'
 descuento: '44.42'
 average: '2.99'

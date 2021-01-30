@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Clementoni - Jugando aprendo  descubre España  55119.4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EI7JDEY/?tag=tolees-21'
 descuento: '22.56'
 average: '9.99'

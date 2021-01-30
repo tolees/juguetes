@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ANGELBLISS mordedor bebes refrigerante mordedores bebes BPA gratis Juguetes para la dentición para bebés Natural Organic Freezer Safe Silicone Teethers  4 UNIDADES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WDK5B7M/?tag=tolees-21'
 descuento: '53.35'
 average: '14.156666666666666'

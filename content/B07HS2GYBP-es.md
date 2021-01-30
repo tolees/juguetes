@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Plastimyr Peppa Pig - Orinal  unisex  color gris claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HS2GYBP/?tag=tolees-21'
 descuento: '32.03'
 average: '7.390000000000001'

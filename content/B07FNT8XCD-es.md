@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Friends - Espectáculo de Talentos de Andrea  set creativo e imaginativo con escenario de conciertos e instrumentos de juguete  41368 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNT8XCD/?tag=tolees-21'
 descuento: '39.17'
 average: '32.07000000000001'

@@ -16,6 +16,7 @@ comparePrice: 23.58 EUR
 prodname: 'Disney- Frozen 2 Mini Muñecas Escena Familiar  Hasbro E6913ES0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T6GYN1R/?tag=tolees-21'
 descuento: '27.95'
 average: '16.99'

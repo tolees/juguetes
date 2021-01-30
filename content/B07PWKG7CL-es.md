@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Juguetes Colgantes Carrito Bebe Cuna Cochecitos de Animales Juguete de Peluche Colgante con La musica para Bebés Niños Niñas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PWKG7CL/?tag=tolees-21'
 descuento: '80.03'
 average: '5.99'

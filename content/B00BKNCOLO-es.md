@@ -16,6 +16,7 @@ comparePrice: 28.52 EUR
 prodname: 'Geomag- Classic Glitter Construcciones magnéticas y Juegos educativos  Multicolor  44 Piezas  532 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BKNCOLO/?tag=tolees-21'
 descuento: '26.40'
 average: '20.729999999999997'

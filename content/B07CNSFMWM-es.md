@@ -16,6 +16,7 @@ comparePrice: 9.27 EUR
 prodname: 'Manta de Bebé de Seguridad Peluche Decorativos de Hogar Decoración de Pared Juegos de Niños - Multicolor  1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNSFMWM/?tag=tolees-21'
 descuento: '44.44'
 average: '5.15'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Barbie Crea sus ondas  Muñeca rubia con accesorios para peinar  regalo para niñas y niños 3-9 años  Mattel GBK24 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NQB3KZX/?tag=tolees-21'
 descuento: '43.65'
 average: '17.4575'

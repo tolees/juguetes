@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Symiu Juguetes de Pesca Juego Infantil Piscina Juegos Magnetico Pesca Peces Juguete Bañera con Caña de Pescar para Niños 3 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SD3GY69/?tag=tolees-21'
 descuento: '52.24'
 average: '12.89'

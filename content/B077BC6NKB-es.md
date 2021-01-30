@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Furreal Friends Hasbro E0497EU4 - Shaggy Shawn Luky Melenas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077BC6NKB/?tag=tolees-21'
 descuento: '18.01'
 average: '18.41'

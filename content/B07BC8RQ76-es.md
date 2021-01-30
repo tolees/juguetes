@@ -16,6 +16,7 @@ comparePrice: 43.56 EUR
 prodname: 'Wrebbit - Puzzle en 3D de Camelot del Rey Arturo  865 Piezas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BC8RQ76/?tag=tolees-21'
 descuento: '27.57'
 average: '32.205'

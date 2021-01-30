@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Devir Yangtze  Miscelanea  BGYANG '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072BY15QJ/?tag=tolees-21'
 descuento: '76.00'
 average: '9.478666666666667'

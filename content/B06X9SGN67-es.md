@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'SYLVANIAN FAMILIES- Amigas patinadoras sobre Hielo  Epoch para Imaginar 5258 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9SGN67/?tag=tolees-21'
 descuento: '26.27'
 average: '21.230731707317073'

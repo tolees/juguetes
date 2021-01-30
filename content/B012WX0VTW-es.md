@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'LOMOS caja para juguetes con diferentes motivos colorido y mucho espacio para almacenar  37x 30x 26cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B012WX0VTW/?tag=tolees-21'
 descuento: '36.27'
 average: '15.9'

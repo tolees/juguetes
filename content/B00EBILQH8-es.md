@@ -16,6 +16,7 @@ comparePrice: 81.37 EUR
 prodname: 'LEGO Jurassic World - Caos del Triceratops Juguete de construcción de Dinosaurios Inspirado en las Películas de Jurassic World  Novedad 2019  75937 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EBILQH8/?tag=tolees-21'
 descuento: '41.07'
 average: '49.312000000000005'

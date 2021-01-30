@@ -16,6 +16,7 @@ comparePrice: 24.07 EUR
 prodname: 'X-TIGER Mujer Ropa Interior de Bicicleta con 3D Gel Acolchado MTB Ciclismo Pantalones Cortos Color Rosa M'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H2B4XJJ/?tag=tolees-21'
 descuento: '39.80'
 average: '13.822000000000001'

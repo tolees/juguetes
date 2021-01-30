@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO City Police - Huida por Aguas Salvajes  Juguete de Policía de Construcción y Aventuras para Niños y Niñas de 5 a 12 Años  Incluye Minifiguras y Barcas  60176 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GQ2KT8/?tag=tolees-21'
 descuento: '24.68'
 average: '10.325000000000001'

@@ -16,6 +16,7 @@ comparePrice: 36.7 EUR
 prodname: 'SYLVANIAN FAMILIES Día en la Playa  Epoch para Imaginar 4870 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRDPAQ/?tag=tolees-21'
 descuento: '27.38'
 average: '26.768260869565214'

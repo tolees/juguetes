@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Pinypon Action - Segway vehículo de policía con 1 Figura  para niños y niñas a Partir de 4 a 8 años   Famosa 700015693 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0839RC3DC/?tag=tolees-21'
 descuento: '22.86'
 average: '10.661000000000001'

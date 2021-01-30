@@ -16,6 +16,7 @@ comparePrice: 27.85 EUR
 prodname: 'Molyflower Tableta de Dibujo LCD para niños Magic Pad Juguetes educativos Bloqueo de diseño Anti-borrado Pintura Tablero de Dibujo para niños - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CGWLVPS/?tag=tolees-21'
 descuento: '35.01'
 average: '18.1'

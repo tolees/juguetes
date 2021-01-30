@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'ColiCor Display Stand Soporte para Lego 42083 Technic Bugatti Chiron'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086DN7QQK/?tag=tolees-21'
 descuento: '27.79'
 average: '12.99'

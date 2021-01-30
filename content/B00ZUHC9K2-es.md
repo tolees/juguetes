@@ -16,6 +16,7 @@ comparePrice: 10.3 EUR
 prodname: 'King- 2 Puzzles Frozen 50 pcs Rompecabezas  Multicolor  05315 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZUHC9K2/?tag=tolees-21'
 descuento: '22.04'
 average: '7.975'

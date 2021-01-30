@@ -16,6 +16,7 @@ comparePrice: 379.99 EUR
 prodname: 'FEBER - Woodland Cottage  Casita infantil para el jardín con sonidos  Famosa 800002884 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OZJNJK/?tag=tolees-21'
 descuento: '63.60'
 average: '138.33'

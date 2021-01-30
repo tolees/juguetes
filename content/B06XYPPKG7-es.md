@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Asmodee Dobble Waterproof - Juego de cartas resistente al agua  versiones surtidos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYPPKG7/?tag=tolees-21'
 descuento: '19.62'
 average: '14.363333333333333'

@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Massi 700X18-20-23-25 Superlight V.Bici Cámara de Bicicleta  Unisex Adulto  Negro  700 x 18-20-23-25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UACS55K/?tag=tolees-21'
 descuento: '21.43'
 average: '2.75'

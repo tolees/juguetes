@@ -16,6 +16,7 @@ comparePrice: 34.39 EUR
 prodname: 'Gifort Maquina Burbujas para niños  soplador de Burbujas automático Cute Abejas Bubble Maker con solución de jabón para Juguetes Ideales para niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086PKRXNG/?tag=tolees-21'
 descuento: '53.50'
 average: '15.99'

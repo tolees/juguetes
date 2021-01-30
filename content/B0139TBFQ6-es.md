@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Kids Premium Baby Bath Toy Organizer - Niños grandes Toy Storage bolsa para niños y niñas y carrito de la ducha. Bonos: 4 ventosas de bloqueo de servicio pesado más 4 juguetes de baño'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0139TBFQ6/?tag=tolees-21'
 descuento: '23.54'
 average: '12.99'

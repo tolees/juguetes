@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'NICEWIN Ropa Interior de Ciclismo para Hombre Pantalones Cortos de compresión Acolchados en 21D MTB Bicicleta Bicicleta Motocicleta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083HYK7ZQ/?tag=tolees-21'
 descuento: '16.67'
 average: '24.99'

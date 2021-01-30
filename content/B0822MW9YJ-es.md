@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'AFASOES 2 Pcs Valvula Tubeless MTB 40mm Valvula Bicicleta Fina Válvulas sin Cámara Valvula Tubeless Carretera Universal + 2 x Tapa 2 x Tórica 1x Llave para Llanta de Carreteras Bicicletas de Montaña'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0822MW9YJ/?tag=tolees-21'
 descuento: '20.24'
 average: '7.96'

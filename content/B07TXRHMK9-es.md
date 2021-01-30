@@ -16,6 +16,7 @@ comparePrice: 28.96 EUR
 prodname: 'Caminata y Canto eléctrico Unicornio de Peluche de Juguete de Peluche Pegasus Pony Toys 35 cm Música Unicornio de Juguete para niños  White '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TXRHMK9/?tag=tolees-21'
 descuento: '48.24'
 average: '14.99'

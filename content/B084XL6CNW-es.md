@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Ravensburger Super Zings para niños 3+ años  4 Puzzle en una Caja  12-16-20-24 Piezas  03053 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084XL6CNW/?tag=tolees-21'
 descuento: '25.02'
 average: '8.21'

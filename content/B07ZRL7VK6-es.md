@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'DANISH ENDURANCE Calcetines de Ciclismo para Hombres y Mujeres  Paquete de 3 Calcetines de Bicicleta Transpirables hasta el Tobillo  1 x Rayas  1 x Negro  1 x Azul   EU 43-47'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRL7VK6/?tag=tolees-21'
 descuento: '57.22'
 average: '14.95'

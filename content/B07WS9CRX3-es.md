@@ -16,6 +16,7 @@ comparePrice: 2.3 EUR
 prodname: 'Justdodo Doble Forma de Cereza PVC Posavasos Inflable Copa de Flotador de Agua Estera de Bebida Portavasos Piscina Bebida Soporte para teléfono Celular Decoración de Eventos - Rojo y Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WS9CRX3/?tag=tolees-21'
 descuento: '30.00'
 average: '1.61'

@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'Hot Wheels- Circuito Mario Kart  pistas de coches de juguete  Multicolor  Mattel GCP27 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P5PVP4Z/?tag=tolees-21'
 descuento: '53.62'
 average: '51.324444444444445'

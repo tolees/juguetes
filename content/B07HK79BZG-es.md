@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'baby tete Bebé 5pcs Silicona Dentición Conjunto Elk Pingüino Animal Mordedor Juguetes para Aliviar el Dolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HK79BZG/?tag=tolees-21'
 descuento: '51.57'
 average: '11.6'

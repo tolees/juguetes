@@ -16,6 +16,7 @@ comparePrice: 53.42 EUR
 prodname: 'Educa Borras - Genuine Puzzles  Puzzle 4.000 piezas  Librería vintage  18582 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084MLVP73/?tag=tolees-21'
 descuento: '29.99'
 average: '35.68'

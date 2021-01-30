@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO DUPLO - My First Caja de Diversión  Juguete de Preescolar de Construcción para Niños y Niñas de 1 Año y Medio a 5 Años Divertido y Educativo  10572 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F3B2TVO/?tag=tolees-21'
 descuento: '60.89'
 average: '17.86'

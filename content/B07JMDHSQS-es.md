@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Barbie Casa de muñecas con muebles y accesorios  juguete +3 años  regalo para niñas y niños 3-9 años  Mattel FXG55 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JMDHSQS/?tag=tolees-21'
 descuento: '38.61'
 average: '42.29333333333334'

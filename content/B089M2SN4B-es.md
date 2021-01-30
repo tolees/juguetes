@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Symiu Juguetes para Niños DIY Bloques de Construcción Juguetes de Madera Montar Montessori Juguetes Preescolar de Regalos Originales para Bebes 3 4 5 Años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089M2SN4B/?tag=tolees-21'
 descuento: '29.18'
 average: '16.99'

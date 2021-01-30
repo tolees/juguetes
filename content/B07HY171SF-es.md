@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fisher-Price Wonder Makers Centro de reciclaje  juguetes construcción niños + 3 años  Mattel GFJ12 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HY171SF/?tag=tolees-21'
 descuento: '42.05'
 average: '17.38'

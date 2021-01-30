@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Wimypet 4 Piezas Juguetes de Cuerda para Perros  Juguetes Perro  Cuerda para Masticar Pelota para Limpiar los Dientes Regalos para Perrito Pequeños Medianos Dog Ball Toys para Mascotas No Tóxica'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0896WS3TH/?tag=tolees-21'
 descuento: '44.84'
 average: '15.99'

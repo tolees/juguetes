@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Colmanda Juguetes de Buceo  32 Piezas Juguete de Natación Juguetes Piscina Niños  Buceo Conjuntos de Juegos para Piscina Natación Subacuática Verano Juegos para Niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BHX1MB7/?tag=tolees-21'
 descuento: '35.73'
 average: '19.13285714285714'

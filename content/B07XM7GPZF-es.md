@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'YGJT Bicicleta sin Pedales 1 Año Juguetes Bebes - Triciclos Bebes- Correpasillos Bebes 1 Año Regalo para 1 Año Rosado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XM7GPZF/?tag=tolees-21'
 descuento: '55.46'
 average: '48.99'

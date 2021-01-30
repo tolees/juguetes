@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Clementoni - Puzzle 1500 Piezas Paris  Montmartre  31999 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ITC3F5S/?tag=tolees-21'
 descuento: '24.08'
 average: '12.83'

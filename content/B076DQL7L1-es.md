@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Pikmi Pops- Mini Surprise Duo Peluche perfumado  Multicolor  Giochi Preziosi Spagna PKM02000    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DQL7L1/?tag=tolees-21'
 descuento: '54.31'
 average: '8.876666666666667'

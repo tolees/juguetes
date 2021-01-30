@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Educa Borrás - Tower Bridge  Puzzle 3D  16999 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01J5NIYLY/?tag=tolees-21'
 descuento: '31.90'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 39.58 EUR
 prodname: 'Gen‚rico Adaptador Soporte de Extension Vastago Suministros de Repuesto de Bicicleta de Montaña Multiusos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CK1ZLPN/?tag=tolees-21'
 descuento: '44.44'
 average: '21.111111111111107'

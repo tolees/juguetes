@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bloques Madera Juguete Puzzle Juego Construcción Multiactividades de Madera con Dibujos de Animales Letras y Numeros Educativo para 3 4 5 6 7 Años Niños Infantiles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3XWNP2/?tag=tolees-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Reloj modificable infantil con figurita de la tropa de asalto de LEGO Star Wars 8021032'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0753MCC6B/?tag=tolees-21'
 descuento: '40.01'
 average: '18.787142857142857'

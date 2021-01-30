@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Amaza 24pcs Squishys Kawaii Squishy Juguetes Squishies Animales Slow Rrising Squeeze Kids Toy Gift  Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QH9SN7/?tag=tolees-21'
 descuento: '45.57'
 average: '10.88'

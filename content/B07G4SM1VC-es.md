@@ -16,6 +16,7 @@ comparePrice: 59.88 EUR
 prodname: 'iNeego Bloques de Construcción 1000 Piezas Bloques de Construcción Infantil 3D Juegos de Construcción Ladrillos de Construcción Juguete Colorido Juego para Niños Juguetes Educativos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4SM1VC/?tag=tolees-21'
 descuento: '46.58'
 average: '29.13285714285714'

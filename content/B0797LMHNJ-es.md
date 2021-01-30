@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Barbie Muñeca Articulada con Bicicleta y Accesorios  Mattel FTV96 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0797LMHNJ/?tag=tolees-21'
 descuento: '53.27'
 average: '14.95'

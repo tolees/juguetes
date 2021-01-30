@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Clementoni 21604 Clementoni-21604-Supercolor - Puzzle-Der König Der Löwen-2 x 60 Piezas  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSLHBV4/?tag=tolees-21'
 descuento: '33.67'
 average: '7.88'

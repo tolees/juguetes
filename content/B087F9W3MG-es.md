@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: 'N/ A 1 Juego de Tablero de Dardos de Seguridad Juguetes Práctica Objetivo Bola Pegajosa Juguete Accesorios de Juego de Fiesta Interactivos  30 Cm 4 Piezas de Bola Adhesiva Y 4 Piezas de Dardos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087F9W3MG/?tag=tolees-21'
 descuento: '60.01'
 average: '8.39'

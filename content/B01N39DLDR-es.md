@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Pinypon Huevos Sorpresa  Famosa   700012850 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N39DLDR/?tag=tolees-21'
 descuento: '89.37'
 average: '3.201730769230769'

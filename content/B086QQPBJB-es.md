@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Rolimate Rompecabezas de Madera para niños  Rompecabezas de Animales Que aprenden Juguetes educativos Montessori con Caja de Rompecabezas de Metal  3 4 5 años niños niñas [200 Piezas]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QQPBJB/?tag=tolees-21'
 descuento: '22.74'
 average: '16.99'

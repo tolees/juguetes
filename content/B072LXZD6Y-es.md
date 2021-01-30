@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Nancy día de aventuras a caballo  Famosa 700013890 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072LXZD6Y/?tag=tolees-21'
 descuento: '43.11'
 average: '36.95'

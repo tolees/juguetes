@@ -16,6 +16,7 @@ comparePrice: 30.03 EUR
 prodname: 'EXCEED Piscina Inflable para bebés Flotador para niños Flotante para niños  Piscina Flotante para la Edad de 3-36 Meses  XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZBBD5Q/?tag=tolees-21'
 descuento: '43.42'
 average: '16.99'

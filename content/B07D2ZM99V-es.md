@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Ryaco Soporte de Móvil Deportiva para Bicicletas y Motos  Anti Vibración Soporte Móvil Bicicleta Universal con 360 Rotación para iPhone  Samsung Galaxy  LG  HTC  Motorola  GPS y Otros Dispositivos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2ZM99V/?tag=tolees-21'
 descuento: '27.30'
 average: '7.99'

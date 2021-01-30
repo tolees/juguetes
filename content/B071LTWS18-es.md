@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bob the bulider Scoop Excavadora parlanchina  Simba Toys FHF87 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071LTWS18/?tag=tolees-21'
 descuento: '62.49'
 average: '17.644999999999996'

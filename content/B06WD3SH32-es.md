@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'LEGO Super Heroes - Knightcrawler: Ataque subterráneo  76086 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WD3SH32/?tag=tolees-21'
 descuento: '16.98'
 average: '44.943333333333335'

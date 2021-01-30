@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Beados - Centro de Diseño  Famosa 700014683 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDCWQT5/?tag=tolees-21'
 descuento: '50.82'
 average: '17.19'

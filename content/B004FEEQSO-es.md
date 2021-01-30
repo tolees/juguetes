@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Intex 56587EU - Flotador Hinchable bebé'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004FEEQSO/?tag=tolees-21'
 descuento: '36.18'
 average: '7.1899999999999995'

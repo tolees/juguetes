@@ -16,6 +16,7 @@ comparePrice: 35.95 EUR
 prodname: 'Disney Frozen- 2 Romance 2 Pack  Multicolor  Hasbro E5502EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8HGSDK/?tag=tolees-21'
 descuento: '25.01'
 average: '26.96'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Minecraft - La Batalla en el End  juguete divertido de construcción y aventuras basado en el videojuego  21151 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNN12PH/?tag=tolees-21'
 descuento: '20.01'
 average: '16.513333333333332'

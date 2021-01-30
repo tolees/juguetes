@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Mocolo Bolsas de la Compra Reutilizables Ecológicas Bolsa de Malla para Almacenamiento Fruta Verduras Juguetes Lavable y Transpirable  20PCS '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WMDWLVS/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

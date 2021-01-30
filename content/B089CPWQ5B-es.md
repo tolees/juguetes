@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'INBIKE Ropa Ciclismo Hombre Verano Trajes de Ciclismo Equipacion Bicicleta Maillot MTB+ Culote Bicicleta 3D Badana Gel L '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089CPWQ5B/?tag=tolees-21'
 descuento: '28.58'
 average: '49.99'

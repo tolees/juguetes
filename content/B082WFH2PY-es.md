@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Flamingueo Peluche de Aguacate XL - Peluche Grande con Diseño de Aguacate  Almohada de Aguacate Suave Comfort  Cojin de Aguacate para Cama  Peluche de Aguacate para Niños y Adultos  60 x 45 cm  60 CM '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082WFH2PY/?tag=tolees-21'
 descuento: '20.01'
 average: '20.79'

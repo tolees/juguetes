@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'TONZE Coches de Juguetes Vehiculos Mini Excavadora  Miniature Camion Construcción Juegos para Niños Niñas de 3 4 5 Años  9 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074CWSG2C/?tag=tolees-21'
 descuento: '52.88'
 average: '9.89'

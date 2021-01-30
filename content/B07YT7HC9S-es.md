@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Disney Pixar Onward Bastón de Hechizero  Juguete para Niños y Niñas +4 Años  Mattel GMJ29 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YT7HC9S/?tag=tolees-21'
 descuento: '15.72'
 average: '29.822'

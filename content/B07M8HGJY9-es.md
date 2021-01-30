@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Avengers Titan Hero Movie Ronin  Hasbro E3922ES0 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8HGJY9/?tag=tolees-21'
 descuento: '29.08'
 average: '12.05'

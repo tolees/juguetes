@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sylvanian Families 5242 Cosy Cottage Starter Home Mini Muñecas y Accesorios  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0104BKFU4/?tag=tolees-21'
 descuento: '17.48'
 average: '32.834705882352935'

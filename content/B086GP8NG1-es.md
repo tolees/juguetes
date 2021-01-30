@@ -16,6 +16,7 @@ comparePrice: 8.59 EUR
 prodname: 'Juego de filtros antipolvo para máscara PM 2 5  antiniebla  filtro de carbón activado para bicicleta  motocicleta  esquí  equitación al aire libre  gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086GP8NG1/?tag=tolees-21'
 descuento: '59.02'
 average: '3.52'

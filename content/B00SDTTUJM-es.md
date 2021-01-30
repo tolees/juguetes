@@ -16,6 +16,7 @@ comparePrice: 50.38 EUR
 prodname: 'LEGO Star Wars - Jango Fett  75107 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SDTTUJM/?tag=tolees-21'
 descuento: '16.65'
 average: '41.99'

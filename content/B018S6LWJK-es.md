@@ -16,6 +16,7 @@ comparePrice: 144.99 EUR
 prodname: 'FEBER - See Saw  Balancín  Famosa 800010240 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018S6LWJK/?tag=tolees-21'
 descuento: '15.03'
 average: '123.2'

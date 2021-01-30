@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fisher-Price Llama Linkimals  Juguete interactivo bebés +9 meses  Mattel  GHY78 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVP4W52/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

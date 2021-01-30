@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Play-Doh- La Tostadora  Hasbro E0039EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B6KYPDJ/?tag=tolees-21'
 descuento: '21.09'
 average: '12.852'

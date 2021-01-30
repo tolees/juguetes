@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Star Wars 8 Deluxe Delta 1  Multicolor  Hasbro C1439EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WLNLBJG/?tag=tolees-21'
 descuento: '44.83'
 average: '74.63571428571429'

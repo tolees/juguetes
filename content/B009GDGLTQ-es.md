@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Peppa Pig Cole con Amigos Incluye 7 Figuras y 3 pupitres  30.5 x 17.8 x 12.7  Bandai 84213 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B009GDGLTQ/?tag=tolees-21'
 descuento: '22.16'
 average: '27.45'

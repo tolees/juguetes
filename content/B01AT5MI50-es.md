@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Barbie - Muñeca Fashion  Star Trek 50 Aniversario Mr. Spock  Mattel DGW68 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AT5MI50/?tag=tolees-21'
 descuento: '41.97'
 average: '32.02142857142857'

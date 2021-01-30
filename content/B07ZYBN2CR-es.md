@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Estadio Hypersphere Vortex Climb  Hasbro E7621EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZYBN2CR/?tag=tolees-21'
 descuento: '23.08'
 average: '49.99'

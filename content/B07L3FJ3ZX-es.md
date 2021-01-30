@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'HOMPO Botella de Agua de Acero Inoxidable Botella Termica 750ml  Botella Sin Bpa & Eco Friendly  Mantiene Bebidas frías por 24h y Calientes por 12h  Adecuada para Viaje  Deporte  Bicicleta  Gimnasio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3FJ3ZX/?tag=tolees-21'
 descuento: '24.01'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Klarfit Orbifit Basic - Máquina de Correr elíptica  Bicicleta elíptica  Manillar con Altura Regulable  Estructura de Acero  Agarre Acolchado  Pedales Antideslizantes  hasta 100 kg  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D2DBWYB/?tag=tolees-21'
 descuento: '35.00'
 average: '139.99'

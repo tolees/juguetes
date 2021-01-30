@@ -16,6 +16,7 @@ comparePrice: 12.81 EUR
 prodname: 'Ravensburger Mask PJ Masks-Rompecabezas para niños de 3 años en adelante  06974 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079PXMDRH/?tag=tolees-21'
 descuento: '34.04'
 average: '8.45'

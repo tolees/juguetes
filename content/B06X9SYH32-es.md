@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'My Little Pony My Little Pony-C1058 Juego Luces y Agua  Multicolor  Miscelanea  Hasbro C1058EU4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X9SYH32/?tag=tolees-21'
 descuento: '64.98'
 average: '13.99'

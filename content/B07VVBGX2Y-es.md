@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Nobleza – Pack de 10 Juguetes para Perro. Set Fabricado en Cuerda para morder. Especial para el Cuidado Dental'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVBGX2Y/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

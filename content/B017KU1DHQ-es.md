@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'CO2 inflador por PRO – Herramienta de bicicleta rápido y fácil – Válvula presta y schrader Compatible – Bomba para neumáticos de bicicleta para carretera y bicicletas de montaña – Cartuchos de CO2 de metal recipiente de almacenamiento – No Incluido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017KU1DHQ/?tag=tolees-21'
 descuento: '16.71'
 average: '24.98'

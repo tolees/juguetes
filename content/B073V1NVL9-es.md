@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'RIXOW Cubierta de Asiento de Bicicleta  Sillín de Bicicleta Gel Sillín Cojín  Mejor para la Mayoría Monturas Universal  Negra Versión Estrecha'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073V1NVL9/?tag=tolees-21'
 descuento: '15.40'
 average: '11.323333333333334'

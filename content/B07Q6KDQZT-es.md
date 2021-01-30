@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Candado de Disco De Alarma  Disco De Bloqueo para Moto Bicicleta Antirrobo 110dB 6mm Bloqueo De Seguridad con 1.2M Cable De Recordatorio para Scooter Motocicleta - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q6KDQZT/?tag=tolees-21'
 descuento: '45.01'
 average: '22.99'

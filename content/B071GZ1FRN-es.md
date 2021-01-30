@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Hasbro Gaming Juego de Habilidad Conecta 4  Multicolor  única  A5640B09 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071GZ1FRN/?tag=tolees-21'
 descuento: '16.72'
 average: '12.99'

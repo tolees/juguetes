@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Rolimate Juguetes para Apilar Y Encajar  Stack & Sort Board Tablero para Apilar y Clasificar  Juguetes Educativos Montessori Geométrico De Madera  Regalo del Festival de cumpleaños para 2 3 4+ años'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DM33QV4/?tag=tolees-21'
 descuento: '15.01'
 average: '16.14'

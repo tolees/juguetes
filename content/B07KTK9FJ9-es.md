@@ -16,6 +16,7 @@ comparePrice: 36.83 EUR
 prodname: 'LEGO Friends - Pulpo Mecánico  Juguete Divertido de Construcción Giratorio para Niñas y Niños de más de 7 Años con Mini Muñeca de Andrea  41373 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KTK9FJ9/?tag=tolees-21'
 descuento: '15.29'
 average: '32.33142857142857'

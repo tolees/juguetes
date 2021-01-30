@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Educa Dragon Ball Puzzle Infantil de 200 Piezas  a Partir de 6 años  18215 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1ZNHRN/?tag=tolees-21'
 descuento: '19.69'
 average: '7.746666666666666'

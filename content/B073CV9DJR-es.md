@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'TOYMYTOY Balón de Fútbol Bolas Pelotas Juguetes Deportivos para Niños Color al Azar 6 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073CV9DJR/?tag=tolees-21'
 descuento: '16.68'
 average: '12.154516129032258'

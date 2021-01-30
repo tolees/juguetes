@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Ganchos para cochecito Venoka multiusos 2 piezas  universal para colgar pañales  bolsas y juguetes  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2YPM8J/?tag=tolees-21'
 descuento: '24.92'
 average: '7.245'

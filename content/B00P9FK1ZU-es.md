@@ -16,6 +16,7 @@ comparePrice: 28.49 EUR
 prodname: 'Mega Bloks Camión golpetones  juguete de construcción para bebé +1 año  Mattel CND68 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P9FK1ZU/?tag=tolees-21'
 descuento: '21.06'
 average: '22.49'

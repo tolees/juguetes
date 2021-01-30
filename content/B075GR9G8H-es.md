@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Star Wars- General Grievous Combat Speeder Star Wars TM Lego Juego de Construcción  Multicolor  única  75199 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075GR9G8H/?tag=tolees-21'
 descuento: '16.31'
 average: '27.295'

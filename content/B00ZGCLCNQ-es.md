@@ -16,6 +16,7 @@ comparePrice: 43.95 EUR
 prodname: 'Michelin Pro4 Endurance A/F V2 Cubiertas  Deportes al Aire Libre  Ciclismo Ruedas de Bicicleta  Negro  700x25'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZGCLCNQ/?tag=tolees-21'
 descuento: '22.41'
 average: '32.6'

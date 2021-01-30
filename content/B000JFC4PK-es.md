@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Educa - Dinosaurios  Puzzle infantil de 100 piezas  a partir de 6 años  13179 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000JFC4PK/?tag=tolees-21'
 descuento: '21.90'
 average: '6.751666666666667'

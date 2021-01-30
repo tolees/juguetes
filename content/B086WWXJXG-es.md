@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Herize Puzzle 500 Piezas para Adultos Niños | Paisajes de Castillo del Jardín Puzzle Niños Regalos Hombre Intelectual Juguetes Educativos Puzzle Adultos Niños Decoración del Hogar 50X40 CM'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086WWXJXG/?tag=tolees-21'
 descuento: '17.66'
 average: '13.99'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO Juniors 4+ City - Gran Aeropuerto de la Ciudad  Juguete de Construcción con Aviones de Colores  Coches  Vehículos y Minifiguras  10764 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765BD1WX/?tag=tolees-21'
 descuento: '28.71'
 average: '39.483333333333334'

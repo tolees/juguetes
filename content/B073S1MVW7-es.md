@@ -16,6 +16,7 @@ comparePrice: 22.0 EUR
 prodname: 'Devir - NMBR9  juego de mesa - cartón  BG9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073S1MVW7/?tag=tolees-21'
 descuento: '50.09'
 average: '10.98'

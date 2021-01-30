@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Educa - Puzzles Progresivos  puzzle infantil De Mayor Quiero Ser de 12 16 20 y 25 piezas  a partir de 3 años  17146 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N37ZGVE/?tag=tolees-21'
 descuento: '21.90'
 average: '7.165'

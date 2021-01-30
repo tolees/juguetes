@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Brazalete Deportivo para Correr  Brazalete Móvil Deportivo Ajustable para iPhone 11 Pro MAX XS MAX XR X Samsung Huawei Ideal para Correr Andar en Bicicleta Senderismo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081SLM4B6/?tag=tolees-21'
 descuento: '50.03'
 average: '7.99'

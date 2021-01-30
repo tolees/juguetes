@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Nerf N-Strike Elite Mega Magnus Blaster'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K5OLLEA/?tag=tolees-21'
 descuento: '50.01'
 average: '19.99'

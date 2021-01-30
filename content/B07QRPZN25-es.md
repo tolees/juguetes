@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'ATOPDREAM 3-10 Años Juguetes Niño Juguetes para Chicos 3-10 Años Regalo Regalos para Niños de 3 a 10 Años Juguetes Niñas 5 6 7 8 Años Regalos Cumpleaños Niños Juguetes Chico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QRPZN25/?tag=tolees-21'
 descuento: '19.24'
 average: '20.99'

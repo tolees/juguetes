@@ -16,6 +16,7 @@ comparePrice: 25.45 EUR
 prodname: 'Gresorth 3 trozo Criaturas del mar Falso Pez Artificial Animal Juguetes Comida Modelo Tienda Monitor Decoración'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HC3MBJX/?tag=tolees-21'
 descuento: '25.38'
 average: '18.99'

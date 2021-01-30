@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Boon Cuchara Dispensadora de Silicona Naranja  BIZAK 30690124 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BNUVPO6/?tag=tolees-21'
 descuento: '23.50'
 average: '9.93'

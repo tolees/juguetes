@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'yyhappy Childhood Mini Telescopio De Juguetes De Exterior para Niños，Niño Niña 3-12 Regalo De Cumpleaños Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NT5YH3X/?tag=tolees-21'
 descuento: '36.46'
 average: '10.16'

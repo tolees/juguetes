@@ -16,6 +16,7 @@ comparePrice: 7.54 EUR
 prodname: 'Famosa Pin y Pon New Look Pelo Bicolor 700015560'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084R7TNG1/?tag=tolees-21'
 descuento: '34.35'
 average: '5.409411764705883'

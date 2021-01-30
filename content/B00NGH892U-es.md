@@ -16,6 +16,7 @@ comparePrice: 17.12 EUR
 prodname: 'GEMVIE Flotador de Espalda para Niños Ayuda Aprendizaje Tabla de Natación Piscina 15×7×4.5cm Azul y Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NGH892U/?tag=tolees-21'
 descuento: '38.90'
 average: '10.46'

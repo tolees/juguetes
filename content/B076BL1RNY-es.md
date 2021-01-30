@@ -16,6 +16,7 @@ comparePrice: 16.15 EUR
 prodname: 'Peluche Amor Pájaros En Un Corazón Bead Charm – para Pandora y pulseras – plata de ley 925 – Parte tamaño: 13 mm x 12 mm – caja de regalo libre – la rosa y plateado compañía – rs0600'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BL1RNY/?tag=tolees-21'
 descuento: '21.67'
 average: '12.65'

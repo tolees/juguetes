@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Awroutdoor Candado de Bicicleta Seguridad Candado de Cable Mejor Combinación con Flexible Montaje Cable de Bloqueo antirrobo Alta Seguridad para la Bicicleta al Aire Libre 120cm X12mm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SQQ7G88/?tag=tolees-21'
 descuento: '51.56'
 average: '13.056666666666667'

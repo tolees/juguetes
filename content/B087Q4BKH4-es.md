@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'BeebeeRun Juguetes Maquillaje Niñas  Juguetes para Chicas  Juegos de Imitación  Juguetes de Belleza para Niños con Bolsa de cosméticos y Accesorios  Juguetes Educativos Regalo para niños 3 años+'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087Q4BKH4/?tag=tolees-21'
 descuento: '67.29'
 average: '17.99'

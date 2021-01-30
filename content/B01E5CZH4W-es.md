@@ -16,6 +16,7 @@ comparePrice: 48.0 EUR
 prodname: 'INBIKE Conjunto Ropa Equipacion Traje Ciclismo Hombre para Verano  Maillot Ciclismo Hombre+Pantalones Cortos Ciclismo Bicicleta  M '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E5CZH4W/?tag=tolees-21'
 descuento: '20.85'
 average: '37.99'

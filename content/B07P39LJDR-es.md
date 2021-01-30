@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'SOONAN 48 en 1 destornilladores precisión profesionales magnético de reparación móvil de aluminio para iPhone  macbook pro xiaomi  iPad  PC  cámaras  juguetes electrónicos  relojes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P39LJDR/?tag=tolees-21'
 descuento: '15.01'
 average: '13.19'

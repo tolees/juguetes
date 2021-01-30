@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Sylvanian Families - 4175 - Familia Gatos de Seda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HRRAFR2/?tag=tolees-21'
 descuento: '16.01'
 average: '20.01684210526315'

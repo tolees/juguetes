@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'VTech Barco pirata  cazatesoros transformable en isla  incluye 3 figuras   VTech 80-177822 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCJXV8M/?tag=tolees-21'
 descuento: '29.99'
 average: '35.7'

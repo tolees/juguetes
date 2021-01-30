@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Ravensburger - Scotland Yard  Juego de Mesa  26673 9 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013RM25KU/?tag=tolees-21'
 descuento: '19.98'
 average: '23.5'

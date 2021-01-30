@@ -16,6 +16,7 @@ comparePrice: 36.49 EUR
 prodname: 'Dilwe Memory Chess Toys Juego de Emparejamiento de Madera Puzzle Playset Regalo para Ni?os en Edad Preescolar Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WJ3G4MS/?tag=tolees-21'
 descuento: '56.73'
 average: '15.79'

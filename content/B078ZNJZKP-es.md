@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'TY- Búho Yago Peluche  Color azul  United Labels Ibérica 36896TY    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078ZNJZKP/?tag=tolees-21'
 descuento: '30.19'
 average: '4.88'

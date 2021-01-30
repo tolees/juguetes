@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Muñeco Dinosaurio Peluche Pequeño Juguetes de Dinosaurios Lindo Felpa Suave Juguetes Animales Regalo Cumpleaños para Niños/50cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK6BWCB/?tag=tolees-21'
 descuento: '60.02'
 average: '15.99'

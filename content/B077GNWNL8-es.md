@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'MATONE Soporte Movil Bicicleta  Soporte Universal Manillar de Silicona para Bicicleta Motocicleta  Apoyo 360° Rotación para iPhone y Samsung'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GNWNL8/?tag=tolees-21'
 descuento: '25.01'
 average: '14.180476190476192'

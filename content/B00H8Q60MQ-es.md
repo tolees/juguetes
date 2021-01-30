@@ -16,6 +16,7 @@ comparePrice: 21.39 EUR
 prodname: 'Devir - Crucigramarius  BGCRUCI '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H8Q60MQ/?tag=tolees-21'
 descuento: '20.57'
 average: '17.49'

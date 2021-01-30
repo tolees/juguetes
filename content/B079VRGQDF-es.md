@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Juegos Bizak Headbanz Adivina que Pienso  BIZAK 61924297 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VRGQDF/?tag=tolees-21'
 descuento: '26.25'
 average: '18.43'

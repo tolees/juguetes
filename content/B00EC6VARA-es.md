@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Disney Infinity -  Toy Box Set: Frozen  Anna  Elsa + 2 Power Discs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EC6VARA/?tag=tolees-21'
 descuento: '84.10'
 average: '8.47625'

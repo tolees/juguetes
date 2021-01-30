@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Pinypon Pack 2 mascotas  mariposa y oveja.  Famosa   700012732 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06W2G32JK/?tag=tolees-21'
 descuento: '87.56'
 average: '3.059393939393939'

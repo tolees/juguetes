@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Kupton Bolsas de Comida para Fruta Juguetes y Libros-Bolsas de Comestibles Hechas de Algodón Orgánico para una Compra sin Residuos-Ligeras con Cordón Puntada Doble y Etiqueta de Tara-10Bolsa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4HVCVN/?tag=tolees-21'
 descuento: '33.35'
 average: '13.656666666666666'

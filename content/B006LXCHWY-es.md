@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Nenuco - Pañales de Colores  Famosa 700009027 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006LXCHWY/?tag=tolees-21'
 descuento: '33.26'
 average: '6.0'

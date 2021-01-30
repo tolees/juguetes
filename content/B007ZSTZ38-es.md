@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Toimsa  Bicicleta para Niñas Minnie  Rosa  611 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007ZSTZ38/?tag=tolees-21'
 descuento: '15.03'
 average: '89.21'

@@ -16,6 +16,7 @@ comparePrice: 28.69 EUR
 prodname: 'X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel Acolchado MTB Ciclismo Pantalones Cortos-Negro  Negro Pantalones Cortos  3XL '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SN2KW89/?tag=tolees-21'
 descuento: '40.75'
 average: '22.615000000000002'

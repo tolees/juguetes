@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'SmartGyro Xtreme Seat - Asiento para patín eléctrico  compatible con Xiaomi M365 y SmartGyro Xtreme City'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B7JHP66/?tag=tolees-21'
 descuento: '40.00'
 average: '29.099999999999998'

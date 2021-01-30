@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'MEISHINE® 3x3x3 Mini Cubo Mágico Inteligencia Juego de Puzzle Cube Magic Cube Stickerless'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N8ZMEXW/?tag=tolees-21'
 descuento: '33.44'
 average: '2.8266666666666667'

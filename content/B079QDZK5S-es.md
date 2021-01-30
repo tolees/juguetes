@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Mega Bloks Carrito Encajabloques  juguete de construcción para bebé +1 año  Mattel FVJ47    color  modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QDZK5S/?tag=tolees-21'
 descuento: '17.15'
 average: '28.99'

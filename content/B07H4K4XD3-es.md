@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'CubicFun Puzzle 3D Plaza de San Marcos  con National Geographic Folleto de Fotografía  107 Piezas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4K4XD3/?tag=tolees-21'
 descuento: '23.09'
 average: '17.32333333333333'

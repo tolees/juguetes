@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Longruner Abalorios Cuentas de Hierro fusibles 12000 PCS Beads 24 Colores 3 Pegboard+50 Imagine Fuse Beads para Niños Pared pixelado en Juguetes Educativos Cuentas de Artesanía LA26'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XK74BJD/?tag=tolees-21'
 descuento: '21.01'
 average: '19.74'

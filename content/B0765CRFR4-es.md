@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO City - Ártico: Transporte Aéreo  Juguete de Construcción con Helicóptero de Juguete  ATV  Figura de Tigre  Aventuras Invernales de Juguete  60193 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0765CRFR4/?tag=tolees-21'
 descuento: '37.51'
 average: '27.03333333333333'

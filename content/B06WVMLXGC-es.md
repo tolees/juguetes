@@ -16,6 +16,7 @@ comparePrice: 13.72 EUR
 prodname: 'Elbphilharmonie Hamburg. Puzzle 1008 Teile'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WVMLXGC/?tag=tolees-21'
 descuento: '41.62'
 average: '8.01'

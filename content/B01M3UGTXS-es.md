@@ -16,6 +16,7 @@ comparePrice: 10.73 EUR
 prodname: 'Wissper Wissper-9358495 Muñeca  Simba 9358495 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M3UGTXS/?tag=tolees-21'
 descuento: '53.40'
 average: '7.81'

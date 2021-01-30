@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO Friends - Buggy y Remolque de Stephanie  juguete de construcción que incluye coche  bicicleta y mascotas  41364 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FNMXFQG/?tag=tolees-21'
 descuento: '30.02'
 average: '13.99'

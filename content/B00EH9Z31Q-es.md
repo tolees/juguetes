@@ -16,6 +16,7 @@ comparePrice: 90.5 EUR
 prodname: 'Mantona Premium Biker - Bolsa fotográfica para Bicicleta con Adaptor sillín y Conductor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EH9Z31Q/?tag=tolees-21'
 descuento: '42.15'
 average: '52.35'

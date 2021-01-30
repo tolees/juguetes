@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Tres Hurras por el Amo - Juego de cartas  Edge Entertainment EEAGTC01    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XYJ2ZVK/?tag=tolees-21'
 descuento: '59.95'
 average: '14.033529411764706'

@@ -16,6 +16,7 @@ comparePrice: 10.38 EUR
 prodname: 'Lego Marvel Super Heroes [Importación Francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DQJE3MS/?tag=tolees-21'
 descuento: '16.76'
 average: '10.156666666666666'
