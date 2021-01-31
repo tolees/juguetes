@@ -28,10 +28,10 @@ Está [ZhanXiang - Perro de juguete electrónico de peluche Carrier activado por
 
 ℹ️:
 
-- Necesidades del perro de juguete: 2 pilas AA necesarias / Necesidades de la casa del perro: 3 pilas AAA necesarias (no incluidas)
+- Adopta un tejido de felpa artificial, que es suave y no suelta pelo, y se siente muy cómodo. La caseta para perros está hecha de material ABS de alta calidad, no tóxico, insípido, seguro y ecológico, de acuerdo con la norma estadounidense ASTM / F963-11 y la norma europea de seguridad de juguetes EN71. Bebé juega a gusto
+- Perro de peluche: largo 19 cm, ancho 15 cm, alto 17 cm / casa del perro: largo 26 cm, ancho 20 cm, altura 22 cm
 - Almacenamiento portátil para mascotas y caseta para perros activada por voz, un pequeño nido cálido y encantador. Equipado con máquina de alimentación para cachorros, peine, hueso, aumenta la interacción social de los niños, la experiencia sensorial táctil, visual y auditiva.
 - El perro de peluche eléctrico camina como un cachorro real, menea la cola y ladra. Lindos amigos peludos están caminando o abrazándose.
-- Perro de peluche: largo 19 cm, ancho 15 cm, alto 17 cm / casa del perro: largo 26 cm, ancho 20 cm, altura 22 cm
-- Adopta un tejido de felpa artificial, que es suave y no suelta pelo, y se siente muy cómodo. La caseta para perros está hecha de material ABS de alta calidad, no tóxico, insípido, seguro y ecológico, de acuerdo con la norma estadounidense ASTM / F963-11 y la norma europea de seguridad de juguetes EN71. Bebé juega a gusto
+- Necesidades del perro de juguete: 2 pilas AA necesarias / Necesidades de la casa del perro: 3 pilas AAA necesarias (no incluidas)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FML5XJ6/?tag=tolees-21)
