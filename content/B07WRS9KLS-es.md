@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Magicbox SuperZings SZSTINT0112 - Caja e al 37.82 % de rebaja'
-date: 2021-01-30 01:20:11
+date: 2021-01-31 01:28:54
 image: 'https://m.media-amazon.com/images/I/51dOZOUelkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 9.65 EUR
 prodname: 'Magicbox SuperZings SZSTINT0112 - Caja expositora'
 country: 'es'
 flag: '🇪🇸'
+brand: 'SuperZings'
 buyurl: 'https://www.amazon.es/dp/B07WRS9KLS/?tag=tolees-21'
 descuento: '37.82'
-average: '8.75293333333333'
+average: '8.71671052631578'
 ---
 
 Tienes [Magicbox SuperZings SZSTINT0112 - Caja expositora](https://www.amazon.es/dp/B07WRS9KLS/?tag=tolees-21) con precio final de  6.0 EUR (original: 9.65 EUR) (37.82 %  de rebaja) aqui!
@@ -27,9 +28,9 @@ Tienes [Magicbox SuperZings SZSTINT0112 - Caja expositora](https://www.amazon.es
 
 🔎:
 
-- 5 exclusivos SuperZings.
-- Efecto metálico en SuperZings.
-- Número de modelo: PSZSD48TIN10
 - Lata de metal para almacenar tus SuperZings.
+- 5 exclusivos SuperZings.
+- Número de modelo: PSZSD48TIN10
+- Efecto metálico en SuperZings.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WRS9KLS/?tag=tolees-21)

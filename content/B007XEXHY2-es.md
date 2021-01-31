@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Devir El laberinto mágico  Juego de mesa al 15.77 % de descuento'
-date: 2021-01-30 01:10:53
+title: 'Devir El laberinto mágico  Juego de mesa al 19.03 % de descuento'
+date: 2021-01-31 01:25:34
 image: 'https://m.media-amazon.com/images/I/51KylAoCKPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,19 +9,20 @@ author: ring
 slug: 'B007XEXHY2-es Devir El laberinto mágico Juego de mesa'
 sku: 'B007XEXHY2-es'
 tags: [ 'devir', ]
-actualPrice: 29.48 EUR
+actualPrice: 28.34 EUR
 currency: EUR
-price: 29.48
+price: 28.34
 comparePrice: 35.0 EUR
 prodname: 'Devir El laberinto mágico  Juego de mesa'
 country: 'es'
 flag: '🇪🇸'
+brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B007XEXHY2/?tag=tolees-21'
-descuento: '15.77'
-average: '31.624375'
+descuento: '19.03'
+average: '31.2594444444444'
 ---
 
-Ahora mismo tienes [Devir El laberinto mágico  Juego de mesa](https://www.amazon.es/dp/B007XEXHY2/?tag=tolees-21) a 29.48 EUR (original: 35.0 EUR) (15.77 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Devir El laberinto mágico  Juego de mesa](https://www.amazon.es/dp/B007XEXHY2/?tag=tolees-21) a 28.34 EUR (original: 35.0 EUR) (19.03 %  de descuento) en el siguiente enlace!
 
 [![Devir El laberinto mágico  Juego de mesa](https://m.media-amazon.com/images/I/51KylAoCKPL._SL200_.jpg)](https://www.amazon.es/dp/B007XEXHY2/?tag=tolees-21)
 
