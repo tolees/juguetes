@@ -28,9 +28,9 @@ Tienes [Furreal Friends Rex Comilón  Hasbro E0387EU4 ](https://www.amazon.es/dp
 
 🔎:
 
-- Geniales sonidos del hábitat prehistórico de los dinosaurios
-- Salta y pide sus galletitas con muchas ganas
 - Le encanta la diversión a la hora de comer
+- Salta y pide sus galletitas con muchas ganas
 - Responde con más de 35 combinaciones de sonidos y movimientos
+- Geniales sonidos del hábitat prehistórico de los dinosaurios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079VSZPYT/?tag=tolees-21)

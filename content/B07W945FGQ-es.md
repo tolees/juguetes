@@ -28,10 +28,10 @@ Tienes [Small Foot Company-11376 Escandinavo  Compacto  Banco de Trabajo Infanti
 
 ℹ️:
 
-- Accesorios variados para una larga e intensa diversión
-- Banco de trabajo clásico de madera en color escandinavo moderno para pequeños artesanos jóvenes
-- Incluye sierra, destornillador, llave inglesa, nivel de agua, martillo, tablas, tornillos, tuercas y clavos
-- Hecho de madera de alta calidad procedente de la silvicultura sostenible (100% fsc), glaseado con pinturas a base de agua
 - Aprox. 40 x 25,5 x 48,5 cm
+- Incluye sierra, destornillador, llave inglesa, nivel de agua, martillo, tablas, tornillos, tuercas y clavos
+- Accesorios variados para una larga e intensa diversión
+- Hecho de madera de alta calidad procedente de la silvicultura sostenible (100% fsc), glaseado con pinturas a base de agua
+- Banco de trabajo clásico de madera en color escandinavo moderno para pequeños artesanos jóvenes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W945FGQ/?tag=tolees-21)
