@@ -28,7 +28,7 @@ Tienes [NIS America - God Wars Future Past - PlayStation 4 [Importación italian
 
 🔎:
 
-- 14 diversi personaggi giocabili
 - RPG Tattico con trama avvincente ricca di tradizione Giapponese
+- 14 diversi personaggi giocabili
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N9SDGVZ/?tag=tolees-21)

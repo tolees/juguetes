@@ -28,10 +28,10 @@ Tienes [Sincelo - Disco Duro Externo 1tb Type C USB 3.1 Disco Duro Externo para 
 
 🔎:
 
-- 【Garantía】 Garantía del fabricante de un año con soporte técnico gratuito
-- 【Delgado y duradero】 Disco duro externo portátil ultradelgado protegido por un estuche resistente y duradero, ligero y práctico, cabe cómodamente en la palma de la mano o cabe en el bolsillo.
-- 【Alta velocidad】 Disco duro externo. Alimentado por tecnología USB 3.1, que permite velocidades de transferencia ultrarrápidas de hasta 5 Gbit / s
 - 【Plug and Play】 Esta unidad externa está lista para usar sin necesidad de una fuente de alimentación externa o instalación de software. Almacenamiento adicional ideal para su computadora y consola de juegos
+- 【Delgado y duradero】 Disco duro externo portátil ultradelgado protegido por un estuche resistente y duradero, ligero y práctico, cabe cómodamente en la palma de la mano o cabe en el bolsillo.
+- 【Garantía】 Garantía del fabricante de un año con soporte técnico gratuito
 - 【Compatibilidad del sistema】 Compatibilidad con NTFS formateado para Windows 10, Windows 8.1, Windows 7; Puede ser necesario reformatear para otros sistemas operativos;
+- 【Alta velocidad】 Disco duro externo. Alimentado por tecnología USB 3.1, que permite velocidades de transferencia ultrarrápidas de hasta 5 Gbit / s
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TBCZ14S/?tag=tolees-21)
