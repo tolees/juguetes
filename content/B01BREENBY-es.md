@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5308 - Familia Rató al 25.01 % de descuento'
-date: 2021-01-31 02:14:19
+date: 2021-02-01 13:43:40
 image: 'https://m.media-amazon.com/images/I/51h5fpn3F-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.es/dp/B01BREENBY/?tag=tolees-21'
 descuento: '25.01'
-average: '22.9827027027027'
+average: '22.9261333333334'
 ---
 
 Está [Sylvanian Families - 5308 - Familia Ratón Marshmallow](https://www.amazon.es/dp/B01BREENBY/?tag=tolees-21) con 25.01 de descuento por 18.74 EUR (original: 24.99 EUR) en el siguiente enlace!

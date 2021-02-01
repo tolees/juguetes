@@ -29,8 +29,8 @@ Ahora mismo tienes [PLAYMOBIL - Diligencia](https://www.amazon.es/dp/B07JKWPRQL/
 🔎:
 
 - Recomendado a partir de 4 años
+- Desarrolla la imaginación y la creatividad
 - Contiene 73 piezas
 - Incluye dos figuras y maletas de equipaje
-- Desarrolla la imaginación y la creatividad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JKWPRQL/?tag=tolees-21)
