@@ -28,10 +28,10 @@ En este momento está [Polly Pocket Casa de muñecas de juguete con accesorios  
 
 🔎:
 
+- Este juego de muñecas incluye muchos elementos: un caballito-mecedora, la trona del pequeño paxton pocket, una mesa con 2 sillas, un sillón, la casa de perro de peaches, un trampolín y una bicicleta
+- Regalo el juego perfercto para niñas y niños a partir de 4 años
+- La casa de polly en pollyville incluye 5 habitaciones, 4 descubrimientos, 11 accesorios y mini muñecas de paxton pocket y peaches
 - La hoja de pegatinas con tecnología polly stick permite que los niños coloquen las pegatinas en cualquier lugar y las mini muñecas de polly y sus amigos se peguen a la zona adhesiva
 - Los pisos y las actividades de la casa de muñecas incluyen: cuarto de polly; cuarto de paxton con cuna y caballito-mecedora; y cuarto de baño con una divertida bañera
-- Este juego de muñecas incluye muchos elementos: un caballito-mecedora, la trona del pequeño paxton pocket, una mesa con 2 sillas, un sillón, la casa de perro de peaches, un trampolín y una bicicleta
-- La casa de polly en pollyville incluye 5 habitaciones, 4 descubrimientos, 11 accesorios y mini muñecas de paxton pocket y peaches
-- Regalo el juego perfercto para niñas y niños a partir de 4 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQD63PP/?tag=tolees-21)
