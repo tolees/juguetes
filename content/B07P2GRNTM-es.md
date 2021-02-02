@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess - Olaf  Juguete de  al 33.29 % de descuento'
-date: 2021-02-01 15:34:20
+date: 2021-02-02 17:05:01
 image: 'https://m.media-amazon.com/images/I/51Qkq-4pnOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21'
 descuento: '33.29'
-average: '13.0314754098361'
+average: '12.9352380952381'
 ---
 
 Ahora mismo tienes [LEGO Disney Princess - Olaf  Juguete de Construcción del Muñeco de nieve de Frozen 2  a partir de 6 años  41169    color/modelo surtido](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21) a 10.0 EUR (original: 14.99 EUR) (33.29 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [LEGO Disney Princess - Olaf  Juguete de Construcción del Mu
 🔎:
 
 - Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz
+- Olaf mide más de 14 cm de altura, 10 cm de ancho y 5 cm de profundidad
 - Disfruta construyendo y reconstruyendo a tu personaje de Disney Frozen favorito
 - óptimo para decorar tu casa o tu oficina e inundar de felicidad cada día
-- Olaf mide más de 14 cm de altura, 10 cm de ancho y 5 cm de profundidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21)
