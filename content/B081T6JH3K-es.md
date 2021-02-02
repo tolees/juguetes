@@ -28,11 +28,11 @@ En este momento está [Warner Bros Interactive Spain  VG  - LEGO Marvel Super He
 
 🔎:
 
-- Deja un reguero de destrucción mientras atraviesas muros o lanzas coches utilizando tu súper fuerza
-- Golpea, esquiva y vuela en el primer juego de LEGO con más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool
-- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
-- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
 - Crea personajes únicos gracias a las opciones de personalización
+- Golpea, esquiva y vuela en el primer juego de LEGO con más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool
+- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
 - DLC Asgard Character Pack; contiene 8 nuevos personajes: Odin, Sif, Hogun, Volstagg, Fandral y Jane Foster en el lado del bien, y los elfos Oscuros Malekith y Kurse en el equipo del mal
+- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- Deja un reguero de destrucción mientras atraviesas muros o lanzas coches utilizando tu súper fuerza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081T6JH3K/?tag=tolees-21)
