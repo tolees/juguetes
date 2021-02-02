@@ -28,10 +28,10 @@ Tienes [Humble Bundle - Slay The Spire - Nintendo Switch [Importación inglesa]]
 
 🔎:
 
-- Three core characters that each have their own unique set of cards.
 - 150+ different items to be found.
 - 50+ mysterious events that can help or harm you.
-- 50+ unique combat encounters.
+- Three core characters that each have their own unique set of cards.
 - 250+ fully implemented cards.
+- 50+ unique combat encounters.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XCWG9KL/?tag=tolees-21)
