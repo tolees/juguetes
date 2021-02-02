@@ -28,10 +28,10 @@ Tienes [Hori - Auriculares Gaming Pro  PS4 ](https://www.amazon.es/dp/B01C6X3QJ0
 
 ℹ️:
 
-- Controles de audio y micrófono integrados
-- Transductores de neodimio de 50 mm
-- Almohadillas intercambiables: cuero sintético/mall
-- Micrófono retrátil y flexible
 - Adaptador con controles de audio para el mando DualShock4
+- Transductores de neodimio de 50 mm
+- Controles de audio y micrófono integrados
+- Micrófono retrátil y flexible
+- Almohadillas intercambiables: cuero sintético/mall
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01C6X3QJ0/?tag=tolees-21)
