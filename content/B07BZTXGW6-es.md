@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HSHL - Batería de Litio CR2032 3V  botón al 26.16 % de descuento'
-date: 2021-02-02 17:07:47
+date: 2021-02-03 21:37:00
 image: 'https://m.media-amazon.com/images/I/61jPBTxI4tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HSHL'
 buyurl: 'https://www.amazon.es/dp/B07BZTXGW6/?tag=tolees-21'
 descuento: '26.16'
-average: '7.154'
+average: '6.79571428571429'
 ---
 
 Está [HSHL - Batería de Litio CR2032 3V  botón electrónico de la célula de la Moneda para los Relojes de Las calculadoras de los Juguetes  20 Pilas ](https://www.amazon.es/dp/B07BZTXGW6/?tag=tolees-21) con 26.16 de descuento por 5.9 EUR (original: 7.99 EUR) en el siguiente enlace!
