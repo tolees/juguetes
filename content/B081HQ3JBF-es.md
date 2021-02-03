@@ -29,8 +29,8 @@ En este momento está [Playmobil - SCOOBY DOO! Aventura en la casa embrujada  Ju
 🔎:
 
 - Incluye tres figuras y Scooby Doo
+- Contiene lámpara extraíble, trampilla y puerta giratoria
 - Las escaleras se transforman en un tobogán
 - Descarga la app gratuita y usa el teléfono móvil para realizar efectos 3D que floten por la mansión misteriosa
-- Contiene lámpara extraíble, trampilla y puerta giratoria
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081HQ3JBF/?tag=tolees-21)
