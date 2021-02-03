@@ -28,10 +28,10 @@ Ahora mismo tienes [Schwinn 510E Bicicleta elíptica  Unisex-Adult  Negro/Rojo  
 
 🔎:
 
-- Monitoreo de la frecuencia cardíaca a través de sensores portátiles integrados en el manillar fijo central o mediante el cinturón de frecuencia cardíaca Bluetooth 4.0 (no incluido)
-- Módulo Bluetooth integrado para conectarse a la aplicación Schwinn Explore the World (disponible en italiano) y ejercitar en lugares pintorescos de todo el mundo (video HD), grabar y comparar todos los datos de entrenamiento
 - Computadora a bordo fácil de usar con 12 programas y visualización de datos de entrenamiento (tiempo, calorías, distancia, velocidad)
 - 16 niveles de resistencia electromagnética
+- Monitoreo de la frecuencia cardíaca a través de sensores portátiles integrados en el manillar fijo central o mediante el cinturón de frecuencia cardíaca Bluetooth 4.0 (no incluido)
 - Entrenador elíptico con distancia entre ejes de 46 cm de largo y diseño compacto de solo 134 x 61 (H: 159) cm
+- Módulo Bluetooth integrado para conectarse a la aplicación Schwinn Explore the World (disponible en italiano) y ejercitar en lugares pintorescos de todo el mundo (video HD), grabar y comparar todos los datos de entrenamiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H2TSXCK/?tag=tolees-21)
