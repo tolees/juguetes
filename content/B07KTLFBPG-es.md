@@ -29,13 +29,13 @@ Ahora mismo tienes [LEGO Creator - Tiovivo de la Feria Nuevo juguete de construc
 🔎:
 
 - Disfruta de 3 oportunidades de construcción con este set LEGO Creator 3en1. Construye el tiovivo y, cuando te apetezcan nuevas emociones a bordo de otras divertidas atracciones de feria, conviértelo en una torre de caída libre o una maravillosa noria.
-- La torre de caída libre mide más de 26 cm de altura, 12 cm de ancho y 9 cm de profundidad.
-- Echa un vistazo al gracioso letrero que dice “UFO” y al platillo volante con el piloto extraterrestre a los mandos.
 - El set LEGO Tiovivo de la Feria cuenta con un tiovivo inspirado en el espacio con un letrero que dice “UFO” y 4 góndolas suspendidas: un cohete, una lanzadera espacial, una nave extraterrestre y una vaca moteada.
 - Este juguete de construcción incluye también una taquilla, un banco para descansar y un carrito de venta de helados con helados, todo para construir.
-- La noria mide más de 16 cm de altura, 14 cm de ancho y 12 cm de profundidad.
-- Incluye 3 minifiguras: 1 niño y 2 niñas, con muchas ganas de pasarlo bien en la feria.
-- ¡Acciona la rueda roja y mira cómo se elevan las góndolas en el aire mientras gira el tiovivo!
+- Echa un vistazo al gracioso letrero que dice “UFO” y al platillo volante con el piloto extraterrestre a los mandos.
+- La torre de caída libre mide más de 26 cm de altura, 12 cm de ancho y 9 cm de profundidad.
 - El Tiovivo de la Feria mide más de 20 cm de altura, 29 cm de ancho y 18 cm de profundidad.
+- Incluye 3 minifiguras: 1 niño y 2 niñas, con muchas ganas de pasarlo bien en la feria.
+- La noria mide más de 16 cm de altura, 14 cm de ancho y 12 cm de profundidad.
+- ¡Acciona la rueda roja y mira cómo se elevan las góndolas en el aire mientras gira el tiovivo!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KTLFBPG/?tag=tolees-21)
