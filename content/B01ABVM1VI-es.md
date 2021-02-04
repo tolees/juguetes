@@ -28,9 +28,9 @@ Está [Fisher Price- Zebra de Juguete  Multicolor  Mattel 900 DLF00 ](https://ww
 
 ℹ️:
 
-- Asa fácil de agarrar y un diseño moderno
-- Con cuatro ruedas para estabilizar los pasos del niño
-- También tiene botones luminosos que activan canciones y frases
 - Tiene un libro con una página que se puede pasar
+- Asa fácil de agarrar y un diseño moderno
+- También tiene botones luminosos que activan canciones y frases
+- Con cuatro ruedas para estabilizar los pasos del niño
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ABVM1VI/?tag=tolees-21)
