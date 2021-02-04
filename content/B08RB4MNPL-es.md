@@ -28,10 +28,10 @@ Tienes [Maegoo Mando Inalámbrico para PS4  Mandos PS4 Gamepad Joystick para Pla
 
 🔎:
 
-- 🎮【Disfruta Jugando al Juego】Admite hasta 4 mandos inalámbricos conectados simultáneamente a la consola PS4. Es un regalo perfecto para el cumpleaños de un amigo, el día de los niños y el día de Navidad, ¡hará felices a sus amigos, novios o hijos todos los días!
+- 🎮【2021 Diseño más Nuevo para Playstation 4/PS4 Slim/PS4 Pro】El mando inalámbrico es compatible con Playstation 4/PS4 Slim/Pro a través de Bluetooth. Señal estable sin demora ni caída de línea en 8m. Este es un mando de tercera parte, no el mando Sony PS4 original.
+- 🎮【Batería de Litio Recargable】El mando PS4 incorpora la batería de litio recargable. Totalmente cargado en 2-3 horas, y luego puedes jugar juegos durante 4-6 horas. Puede cargar el controlador con consola PS4/PC/cargador de teléfono móvil con micro cable USB.
 - 🎮【Sensor Giroscópico de Doble Vibración y 6 Ejes】El mando PS4 tiene un motor de vibración de doble impacto de alta precisión y un joystick de 360 ° de alta precisión, equipado con la última tecnología de detección de movimiento. Permitiéndote experimentar las emocionantes escenas de colisión, vibración y batalla en el juego.
 - 🎮【Diseño Más Ergonómico】El mando tiene un diseño antideslizante, lo que lo hace más cómodo de sostener. El mando PS4 configurado con salida de audio/micrófono de 3,5mm y botón de panel táctil flexible.
-- 🎮【Batería de Litio Recargable】El mando PS4 incorpora la batería de litio recargable. Totalmente cargado en 2-3 horas, y luego puedes jugar juegos durante 4-6 horas. Puede cargar el controlador con consola PS4/PC/cargador de teléfono móvil con micro cable USB.
-- 🎮【2021 Diseño más Nuevo para Playstation 4/PS4 Slim/PS4 Pro】El mando inalámbrico es compatible con Playstation 4/PS4 Slim/Pro a través de Bluetooth. Señal estable sin demora ni caída de línea en 8m. Este es un mando de tercera parte, no el mando Sony PS4 original.
+- 🎮【Disfruta Jugando al Juego】Admite hasta 4 mandos inalámbricos conectados simultáneamente a la consola PS4. Es un regalo perfecto para el cumpleaños de un amigo, el día de los niños y el día de Navidad, ¡hará felices a sus amigos, novios o hijos todos los días!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RB4MNPL/?tag=tolees-21)
