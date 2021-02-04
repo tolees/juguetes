@@ -28,9 +28,9 @@ En este momento está [Hasbro Marvel Legends Series Spider-Man: Into The Spider-
 
 🔎:
 
-- Articulación y detalles de alta calidad: esta figura de Spider-Man de la serie Legends de 6 pulgadas: Into the Spider-Verse Marvel Prowler cuenta con múltiples puntos de articulación y es una gran adición a cualquier colección de figuras de acción.
-- UNIVERSO DE MARVEL EN ESCALA DE 15 cm: busca otras figuras de la serie Hasbro Marvel Legends (cada una se vende por separado) con personajes inspirados en cómic y películas, incluyendo Miles Morales, Gwen Stacy, Marvel Frog-Man y The Hand Ninja. Las figuras adicionales se venden por separado. Sujeto a disponibilidad.)
 - Diseño inspirado en la película: esta figura de Spider-Man: Into the Spider-Verse Marvel Prowler de 6 pulgadas cuenta con diseño premium, detalle y articulación para posar y mostrar en una colección Marvel.
+- UNIVERSO DE MARVEL EN ESCALA DE 15 cm: busca otras figuras de la serie Hasbro Marvel Legends (cada una se vende por separado) con personajes inspirados en cómic y películas, incluyendo Miles Morales, Gwen Stacy, Marvel Frog-Man y The Hand Ninja. Las figuras adicionales se venden por separado. Sujeto a disponibilidad.)
 - Figura coleccionable de 15 cm: los fanáticos, coleccionistas y niños por igual pueden disfrutar de esta figura de Marvels Prowler de 6 pulgadas, inspirada en el personaje de la película animada de Marvel, Spider-Man: Into the Spider-Verse.
+- Articulación y detalles de alta calidad: esta figura de Spider-Man de la serie Legends de 6 pulgadas: Into the Spider-Verse Marvel Prowler cuenta con múltiples puntos de articulación y es una gran adición a cualquier colección de figuras de acción.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GWVJXCV/?tag=tolees-21)
