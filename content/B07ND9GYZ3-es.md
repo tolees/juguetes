@@ -28,14 +28,14 @@ En este momento está [LEGO - Hidden Side Misterio del Cementerio Juguete de con
 
 🔎:
 
-- El cementerio mide más de 14 cm de altura, 32 cm de ancho y 10 cm de profundidad.
-- Ambientados en Newbury, una ciudad imaginaria donde los fantasmas rondan los edificios y atormentan a los vecinos, los sets LEGO Hidden Side permiten a tu peque representar emocionantes aventuras de cazadores de fantasmas que combinan modelos LEGO físicos con tecnología de realidad aumentada completamente interactiva.
-- Los niños a partir de 7 años podrán disfrutar de una asombrosa experiencia en realidad aumentada (AR) para uno o varios jugadores con el set LEGO Hidden Side Misterio del Cementerio, que combina con ingenio el juego en el mundo físico y el digital.
 - Para disfrutar completamente de la experiencia en realidad aumentada, se necesita una tableta o un teléfono móvil (no incluido). Compatible con determinados dispositivos iOS y Android. Pide permiso a tus padres antes de conectarte a Internet.
+- Construye el set físico, juega con él y luego haz que cobre vida al interactuar con el modelo mientras lo ves por la app.
 - Este juguete con funciones de realidad aumentada incluye 4 minifiguras: los héroes Jack Davids y Parker L. Jackson, una figura de un esqueleto y el Sr. Branson, así como una figura del perro fantasma de Davids, Spencer, para jugar a interpretar historias de cazadores de fantasmas en este cementerio de juguete y en la app de AR.
+- Ambientados en Newbury, una ciudad imaginaria donde los fantasmas rondan los edificios y atormentan a los vecinos, los sets LEGO Hidden Side permiten a tu peque representar emocionantes aventuras de cazadores de fantasmas que combinan modelos LEGO físicos con tecnología de realidad aumentada completamente interactiva.
 - El exclusivo juguete Misterio del Cementerio cuenta con una estatua funeraria que gira, una tumba que se abre y un árbol de juguete encantado con brazos articulados.
 - Usar la app LEGO Hidden Side es como mirar por una ventana a un divertido y escalofriante lado oculto que está repleto de desafiantes misterios por resolver, fantasmas por derrotar y fantasmas jefe por dominar, como Mamali, diferentes en cada set.
 - Descarga la app LEGO Hidden Side y apunta con tu teléfono al modelo Misterio del Cementerio para que este set de construcción infantil cobre vida y revele su faceta Hidden Side. Recorre el espacio con el teléfono para descubrir un entorno que cambia continuamente, oculto alrededor del modelo.
-- Construye el set físico, juega con él y luego haz que cobre vida al interactuar con el modelo mientras lo ves por la app.
+- El cementerio mide más de 14 cm de altura, 32 cm de ancho y 10 cm de profundidad.
+- Los niños a partir de 7 años podrán disfrutar de una asombrosa experiencia en realidad aumentada (AR) para uno o varios jugadores con el set LEGO Hidden Side Misterio del Cementerio, que combina con ingenio el juego en el mundo físico y el digital.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ND9GYZ3/?tag=tolees-21)
