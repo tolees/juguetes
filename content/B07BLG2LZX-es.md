@@ -30,8 +30,8 @@ Ahora mismo tienes [LEGO Creator Aerogenerador Vestas - Maqueta de Juguete de Mo
 
 - This big LEGO set also includes 3 minifigures: A woman and two Vestas service technicians, plus a dog figure
 - Build an icon of wind energy with the collectible LEGO Creator Expert Vestas wind turbine, complete with power functions motorised blades, trees and greenery, cozy cottage and a Vestas service van
+- Celebrate renewable energy technology with this buildable science toy
 - Accessory elements include two safety helmets, tools and two envelopes
 - Includes a new-for-January-2019 spruce tree, manufactured from sustainably sourced plant-based plastic
-- Celebrate renewable energy technology with this buildable science toy
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BLG2LZX/?tag=tolees-21)
