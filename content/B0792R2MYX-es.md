@@ -28,13 +28,13 @@ Ahora mismo tienes [LEGO Star Wars - Caza Estelar Ala X  Juguete de La Guerra de
 
 🔎:
 
+- Este caza estelar lego cuenta con tren de aterrizaje retráctil, cabina abatible para una minifigura, 2 cañones normales y 4 cañones automáticos, espacio para un droide y función para activar los modos de crucero y ataque que se acciona con una palanca (novedad en agosto de 2018)
+- Armas incluidas: espada láser y pistola bláster de Luke, y pistola bláster de Biggs
+- En el modo de ataque, el ala-x mide más de 11 cm de altura, 34 cm de longitud y 30 cm de ancho
+- Los adhesivos y placas adicionales te permiten alternar entre los diseños del Ala-X Rojo Cinco de Luke y el Rojo Tres de Biggs
 - Accesorios incluidos: un extintor
 - Empuja el modelo hacia abajo en el modo de ataque para cerrar las alas
-- Armas incluidas: espada láser y pistola bláster de Luke, y pistola bláster de Biggs
 - Coloca cada droide lateralmente en posición (novedad en agosto de 2018)
-- En el modo de ataque, el ala-x mide más de 11 cm de altura, 34 cm de longitud y 30 cm de ancho
 - Incluye minifiguras LEGO de los pilotos Luke Skywalker y Biggs Darklighter; incluye también figuras de los droides R2-D2 y R2-Q2
-- Este caza estelar lego cuenta con tren de aterrizaje retráctil, cabina abatible para una minifigura, 2 cañones normales y 4 cañones automáticos, espacio para un droide y función para activar los modos de crucero y ataque que se acciona con una palanca (novedad en agosto de 2018)
-- Los adhesivos y placas adicionales te permiten alternar entre los diseños del Ala-X Rojo Cinco de Luke y el Rojo Tres de Biggs
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792R2MYX/?tag=tolees-21)
