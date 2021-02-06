@@ -28,7 +28,7 @@ Ahora mismo tienes [Hasbro - Dino Saltarín  Hasbro  E7963EU4 ](https://www.amaz
 
 🔎:
 
-- Además incluye dos accesorios para jugar a darle de comer
 - Más de 35 combinaciones de sonidos y movimientos
+- Además incluye dos accesorios para jugar a darle de comer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P2HSC7R/?tag=tolees-21)

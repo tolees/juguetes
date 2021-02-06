@@ -28,11 +28,11 @@ En este momento está [Pikmi Pops Serie 2 - Piruleta 1 Peluche Perfumado Colecci
 
 🔎:
 
-- Hay + de 45 para coleccionar
 - Incluye peana para la piruleta.
 - Una experiencia unboxing inolvidable
+- Hay + de 45 para coleccionar
+- Pikmi Pops piruleta con peluche perfumado sorpresa
 - Colecciónalos todos!
 - Con Sorpresas
-- Pikmi Pops piruleta con peluche perfumado sorpresa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DD3RDPH/?tag=tolees-21)
