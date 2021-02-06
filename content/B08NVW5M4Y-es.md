@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperThings PST7D812IN00 Machines-Power  al 54.00 % de rebaja'
-date: 2021-02-04 21:45:58
+date: 2021-02-06 04:40:21
 image: 'https://m.media-amazon.com/images/I/41EK5xA3aLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SuperThings'
 buyurl: 'https://www.amazon.es/dp/B08NVW5M4Y/?tag=tolees-21'
 descuento: '54.00'
-average: '4.74000000000001'
+average: '4.54555555555556'
 ---
 
 Tienes [SuperThings PST7D812IN00 Machines-Power Jet](https://www.amazon.es/dp/B08NVW5M4Y/?tag=tolees-21) con precio final de  2.99 EUR (original: 6.5 EUR) (54.00 %  de rebaja) aqui!
