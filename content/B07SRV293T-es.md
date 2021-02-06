@@ -29,7 +29,7 @@ En este momento está [THQ NORDIC - SpongeBob SquarePants: Battle for Bikini Bot
 🔎:
 
 - Juega como Bob Esponja, Patricio y Arenita y usa sus habilidades únicas
-- Conoce a los personajes de la amada serie
 - Frustra el malvado plan de Plankton para hacerse con Fondo de Bikini con su ejercito de alocados robots
+- Conoce a los personajes de la amada serie
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SRV293T/?tag=tolees-21)
