@@ -30,7 +30,7 @@ Está [Sylvanian Families - 5308 - Familia Ratón Marshmallow](https://www.amazo
 
 - Un juego de 4 figuras que contiene al padre, la madre, la niña y el niño
 - Para estimular el juego de roles imaginativo en los niños
-- Las figuras se pueden colocar moviendo la cabeza, los brazos y las piernas
 - Familia Ratón Marshmallow
+- Las figuras se pueden colocar moviendo la cabeza, los brazos y las piernas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BREENBY/?tag=tolees-21)
