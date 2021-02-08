@@ -29,7 +29,7 @@ En este momento está [Sony CEE Accessories  New Gen  - Sony - Auriculares Inal�
 🔎:
 
 - Es de la marca Sony
-- Es para PS4
 - Set de auriculares inalámbricos stereo
+- Es para PS4
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LVU8NQL/?tag=tolees-21)
