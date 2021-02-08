@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir - NMBR9  juego de mesa - cartón  BG9 ](https://www.am
 
 🔎:
 
-- De 1 a 4 jugadores
 - Duración 20 minutos
 - A partir de 8 años
 - Edición en castellano, catalán y portugués
+- De 1 a 4 jugadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073S1MVW7/?tag=tolees-21)
