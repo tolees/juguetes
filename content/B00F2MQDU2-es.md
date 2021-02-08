@@ -29,9 +29,9 @@ Ahora mismo tienes [Fisher-Price Rainforest Piano-Gym - Manta de Juego parBebé 
 🔎:
 
 - Gran variedad de juegos: abeja con campana, hojas crujientes, sonajeros, mordedor
+- Alfombra de juego para bebé con lazo para sujetar 5 juguetes
 - Equipo para bebés para estimular las patadas y los agarres
 - Manta suave y colorida como base
-- Alfombra de juego para bebé con lazo para sujetar 5 juguetes
 - Unidad de flor electrónica con interruptor de encendido / apagado y música
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00F2MQDU2/?tag=tolees-21)
