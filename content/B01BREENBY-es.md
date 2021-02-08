@@ -28,8 +28,8 @@ Está [Sylvanian Families - 5308 - Familia Ratón Marshmallow](https://www.amazo
 
 ℹ️:
 
-- Para estimular el juego de roles imaginativo en los niños
 - Las figuras se pueden colocar moviendo la cabeza, los brazos y las piernas
+- Para estimular el juego de roles imaginativo en los niños
 - Familia Ratón Marshmallow
 - Un juego de 4 figuras que contiene al padre, la madre, la niña y el niño
 
