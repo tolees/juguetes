@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fisher-Price - Fisher Price - Caballito  con un 35.65 % de descuento'
-date: 2021-01-26 11:47:07
+title: 'Fisher-Price - Fisher Price - Caballito  con un 36.68 % de descuento'
+date: 2021-02-08 10:57:54
 image: 'https://m.media-amazon.com/images/I/31MjlGxEyrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,19 +9,20 @@ author: ring
 slug: 'B00RCXTZ18-es Fisher-Price - Fisher Price - Caballito de mar dulces...'
 sku: 'B00RCXTZ18-es'
 tags: [ 'fisher-price','mattel', ]
-actualPrice: 19.3 EUR
+actualPrice: 18.99 EUR
 currency: EUR
-price: 19.3
+price: 18.99
 comparePrice: 29.99 EUR
 prodname: 'Fisher-Price - Fisher Price - Caballito de mar dulces sueños  color rosa  Mattel DGH83 '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B00RCXTZ18/?tag=tolees-21'
-descuento: '35.65'
-average: '17.4266666666667'
+descuento: '36.68'
+average: '17.7109090909091'
 ---
 
-En este momento está [Fisher-Price - Fisher Price - Caballito de mar dulces sueños  color rosa  Mattel DGH83 ](https://www.amazon.es/dp/B00RCXTZ18/?tag=tolees-21) a 19.3 EUR (original: 29.99 EUR) (35.65 %  de descuento) en el siguiente enlace!
+En este momento está [Fisher-Price - Fisher Price - Caballito de mar dulces sueños  color rosa  Mattel DGH83 ](https://www.amazon.es/dp/B00RCXTZ18/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!
 
 [![Fisher-Price - Fisher Price - Caballito ](https://m.media-amazon.com/images/I/31MjlGxEyrL._SL200_.jpg)](https://www.amazon.es/dp/B00RCXTZ18/?tag=tolees-21)
 
