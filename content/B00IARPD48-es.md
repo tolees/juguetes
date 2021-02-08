@@ -28,11 +28,11 @@ En este momento está [FEBER - Motofeber 1 Sprint  Color Rojo  Famosa 800009165 
 
 🔎:
 
-- Correpasillo de primera edad
-- Divertido correpasillos de primera edad, estable y seguro
-- Sus medidas son 49 cm de alto, 32,5 de ancho y 62 cm de profundidad
-- Estable y seguro
-- Recomendado para niños de más de 18 meses
 - Favorece el desarrollo de la capacidad psicomotriz, ayudando al desarrollo global del niño
+- Recomendado para niños de más de 18 meses
+- Divertido correpasillos de primera edad, estable y seguro
+- Correpasillo de primera edad
+- Estable y seguro
+- Sus medidas son 49 cm de alto, 32,5 de ancho y 62 cm de profundidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IARPD48/?tag=tolees-21)
