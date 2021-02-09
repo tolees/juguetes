@@ -28,7 +28,7 @@ Ahora mismo tienes [Switch Nintendo Labo - Set de personalización](https://www.
 
 🔎:
 
-- Set de materiales para personalizar tus creaciones de Nintendo Labo
 - Incluye 2 rollos de cinta adhesiva, 2 láminas de plantillas y 2 láminas de pegatinas
+- Set de materiales para personalizar tus creaciones de Nintendo Labo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792TKTXS/?tag=tolees-21)
