@@ -28,10 +28,10 @@ Ahora mismo tienes [ColiCor Technic Modelo de Motocicleta 709pcs Juego de constr
 
 🔎:
 
-- Tamaño de montaje: 34 x 18 x 20,5cm / Total de bloques de 709piezas compatibles con edificios modulares LEGO
-- Es un regalo estupendo para regalos de Navidad, regalos de Pascua, cumpleaños, vacaciones, también para fanáticos de los bloques de construcción y coleccionistas.
-- Materiales: ABS
 - Este modelo de auto coleccionable puede entrenar la capacidad de coordinación mano-cerebro de los niños y estimular su imaginación.
+- Materiales: ABS
+- Es un regalo estupendo para regalos de Navidad, regalos de Pascua, cumpleaños, vacaciones, también para fanáticos de los bloques de construcción y coleccionistas.
+- Tamaño de montaje: 34 x 18 x 20,5cm / Total de bloques de 709piezas compatibles con edificios modulares LEGO
 - Viene con instrucciones para ensamblar, construir ventiladores y ventiladores MOC de todas las edades.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FX2ZFS7/?tag=tolees-21)
