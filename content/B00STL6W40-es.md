@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.37 % en Hasbro Gaming Juego de mesa Operación  H'
-date: 2021-02-09 10:50:14
+date: 2021-02-10 16:55:13
 image: 'https://m.media-amazon.com/images/I/51T91XwPqxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B00STL6W40/?tag=tolees-21'
 descuento: '29.37'
-average: '21.811145038168'
+average: '21.8018045112783'
 ---
 
 Tienes [Hasbro Gaming Juego de mesa Operación  Hasbro B2176B09](https://www.amazon.es/dp/B00STL6W40/?tag=tolees-21) con un 29.37 % de descuento con precio de oferta de 21.19 EUR (original: 30.0 EUR) en el siguiente enlace!
