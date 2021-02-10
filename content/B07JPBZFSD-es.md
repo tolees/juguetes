@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07JPBZFSD-es Bandai Namco - Naruto Shippuden: Ultimate Ninja Storm -...'
 sku: 'B07JPBZFSD-es'
-tags: [ 'playstation', ]
+tags: [ 'bandai','playstation', ]
 actualPrice: 19.41 EUR
 currency: EUR
 price: 19.41

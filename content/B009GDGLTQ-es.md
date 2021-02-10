@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B009GDGLTQ-es Peppa Pig Cole con Amigos Incluye 7 Figuras y 3 pupitres...'
 sku: 'B009GDGLTQ-es'
-tags: [ 'peppa','pig', ]
+tags: [ 'bandai','peppa','pig', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9
