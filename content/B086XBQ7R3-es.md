@@ -28,10 +28,10 @@ En este momento está [Buyger Juguetes Niñas 3 en 1 Utensilios Cocina Juguete J
 
 🔎:
 
-- ⭐【3 en 1 Cocina de Juguete】- Comida, Café, Ollas y Sartenes Juguetes. Los niños pueden cocinar, disfrutar del té de la tarde con amigos y lavar los platos en el fregadero. Profundizar la comprensión de los niños sobre los utensilios de cocina.
-- ⭐【Juego de Rol】 - Chef, barista juegos de rol. Imita la escena de la cocina de tus padres y prepara comida para tus padres y amigos. Promover la comunicación entre padres e hijos y la coordinación mano-ojo.
 - ⭐【32 Piezas Chef Cocinita de Juguete】 - 2 cucharas, 2 tenedores, 2 cuchillos, 4 alimentos (berenjena / zanahoria / repollo / huevo), 2 sartenes, 2 platos, 2 tazas, 1 lavabo, 1 maletín de transporte,ect.. Construye tu propia cocina pequeña.
+- ⭐【Juego de Rol】 - Chef, barista juegos de rol. Imita la escena de la cocina de tus padres y prepara comida para tus padres y amigos. Promover la comunicación entre padres e hijos y la coordinación mano-ojo.
 - ⭐【Regalo para 3 4 5 Años Niños】 - El maletín es fácil de llevar, un juguete perfecto para interiores y exteriores. Un gran regalo de navidad / cumpleaños / halloween para su niño / niña / princesa.
+- ⭐【3 en 1 Cocina de Juguete】- Comida, Café, Ollas y Sartenes Juguetes. Los niños pueden cocinar, disfrutar del té de la tarde con amigos y lavar los platos en el fregadero. Profundizar la comprensión de los niños sobre los utensilios de cocina.
 - ⭐【2 en 1 Juguetes de Cocina】 - Maletin (25 x 20 x 9.5 cm) y banco de trabajo de cocina. El diseño multifuncional para satisfacer todas sus necesidades!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086XBQ7R3/?tag=tolees-21)
