@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 24.00 % en Devir- Fanhunter: El Juego de rol  FHBAS'
-date: 2021-02-09 12:16:29
+date: 2021-02-10 14:57:12
 image: 'https://m.media-amazon.com/images/I/41+N4JQOaqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08B845LYT/?tag=tolees-21'
 descuento: '24.00'
-average: '21.8777777777778'
+average: '21.3545454545455'
 ---
 
 Tienes [Devir- Fanhunter: El Juego de rol  FHBASICO ](https://www.amazon.es/dp/B08B845LYT/?tag=tolees-21) con un 24.00 % de descuento con precio de oferta de 19.0 EUR (original: 25.0 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [Devir- Fanhunter: El Juego de rol  FHBASICO ](https://www.amazon.es/dp/B
 ℹ️:
 
 - Cinco años y dos semanas para hacer un remake y tiene erratas
-- Solo el humor puede salvarnos
 - La puerta de entrada al vicio, a la subcultura y a las cartas del rol
+- Solo el humor puede salvarnos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08B845LYT/?tag=tolees-21)

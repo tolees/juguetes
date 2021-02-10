@@ -29,9 +29,9 @@ Ahora mismo tienes [LOGASMART Conjunto Ciclismo Hombre Trajes de Bicicleta Ropa 
 🔎:
 
 - Tenga en cuenta el tamaño. El tamaño es diferente al tamaño de la UE, así que no mire el tamaño, pero consulte nuestra tabla de tallas, le recomendamos que elija un tamaño superior a su tamaño habitual. Nuestro modelo usa L (pecho = 100 cm, altura = 183 cm, peso = 80 kg). Si necesita un tamaño mixto, envíenos un correo electrónico y luego lo ayudaremos. Además, tenemos XS, 4XL, 5XL, 6XL en stock
-- Los culottes con tirantes están hechos de 80% poliéster + 20% licra de alta calidad italiana. Inserciones de almohadillas de gel 3D, la almohadilla ergonómica del asiento se adapta bien al cuerpo y evita los molestos dolores por presión
 - La maillot de ciclismo(con buena protección UV) fabricado con material de poliéster transpirable y de secado rápido. inserciones de malla para una ventilación óptima
-- Cremallera completa para una ventilación óptima en subidas largas y días calurosos; Dobladillo en la cintura en la espalda para un buen soporte de la camiseta
 - Los insertos de malla tonal en la zona del pecho y la espalda garantizan una gestión óptima del clima. El extremo de la pierna en el interior con una capa muy fina de silicona
+- Cremallera completa para una ventilación óptima en subidas largas y días calurosos; Dobladillo en la cintura en la espalda para un buen soporte de la camiseta
+- Los culottes con tirantes están hechos de 80% poliéster + 20% licra de alta calidad italiana. Inserciones de almohadillas de gel 3D, la almohadilla ergonómica del asiento se adapta bien al cuerpo y evita los molestos dolores por presión
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KLYRWV2/?tag=tolees-21)
