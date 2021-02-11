@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie - Muñeca Teresa de Princess Adventure  29 cm  con R
 
 🔎:
 
-- ¡Las muñecas Barbie inspiradas en Princess Adventure de Barbie transportan a las pequeñas soñadores a una tierra lejana donde reina la imaginación!
-- La muñeca Teresa luce con elegancia un top y una falda brillantes y unas zapatillas de plataforma.
-- Las niñas pueden coleccionar más muñecas y juguetes de Princess Adventure de Barbie para recrear historias en todo el reino.
 - Es perfecta para niñas de entre 3 y 7 años que adoran soñar con su propia aventura real, porque cuando una niña juega con Barbie, imagina todo lo que puede ser de mayor.
 - Entre sus modernos accesorios, ideales para viajar, encontrarás una tiara dorada, un collar con la palabra «love», un bolso metálico, una taza de viaje y un smartphone.
+- La muñeca Teresa luce con elegancia un top y una falda brillantes y unas zapatillas de plataforma.
+- ¡Las muñecas Barbie inspiradas en Princess Adventure de Barbie transportan a las pequeñas soñadores a una tierra lejana donde reina la imaginación!
+- Las niñas pueden coleccionar más muñecas y juguetes de Princess Adventure de Barbie para recrear historias en todo el reino.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08442VZDS/?tag=tolees-21)
