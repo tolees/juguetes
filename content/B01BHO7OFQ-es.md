@@ -29,9 +29,9 @@ Ahora mismo tienes [Warner Bros. Entertainment - LEGO Star Wars: El Despertar De
 🔎:
 
 - Plataforma del juego: PlayStation 4
-- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
-- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
-- Los jugadores se pondrán en el papel de los héroes de la película
 - Tipo de producto: videojuego
+- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
+- Los jugadores se pondrán en el papel de los héroes de la película
+- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BHO7OFQ/?tag=tolees-21)
