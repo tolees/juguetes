@@ -29,9 +29,9 @@ Ahora mismo tienes [Mega Bloks Garaje de coches de carreras  juguete construcci�
 🔎:
 
 - juego de bloques de construcción para crear un garaje de coches eléctricos con el que los niños aprenderán a cuidar del medio ambiente
-- juego de bloques de construcción de mega que incluye un coche de carreras construible con piezas adicionales para personalizarlo
 - incluye un cubo donde guardar fácilmente los bloques de construcción
-- garaje para coche de carreras eléctricos, con puerta y barrera que funcionan de verdad
 - Bloques de construcción para bebés a partir de 12 meses y niños hasta 5 años
+- garaje para coche de carreras eléctricos, con puerta y barrera que funcionan de verdad
+- juego de bloques de construcción de mega que incluye un coche de carreras construible con piezas adicionales para personalizarlo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079KKSN17/?tag=tolees-21)
