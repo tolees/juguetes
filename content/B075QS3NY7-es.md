@@ -29,8 +29,8 @@ Ahora mismo tienes [Vampirina-78015 Coche de Juguete  Multicolor  Bandai JPL7801
 🔎:
 
 - El vehículo tiene luces y sonidos de la serie
-- Necesita 2 pilas AAA, que son incluidas
-- Incluye figura de 8 cm de vampi y accesorios
 - Con divertidos detalles de murciélago
+- Incluye figura de 8 cm de vampi y accesorios
+- Necesita 2 pilas AAA, que son incluidas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075QS3NY7/?tag=tolees-21)
