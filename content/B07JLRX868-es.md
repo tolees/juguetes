@@ -28,9 +28,9 @@ En este momento está [Playmobil - Starterpack Consulta Pediatra  Multicolor  70
 
 🔎:
 
-- La médico práctica es equipado con una camilla plegable y una listón de altura ajustable
 - Desarrolla la imaginación y la creatividad
-- Incluye tres figuras con varios accesorios
+- La médico práctica es equipado con una camilla plegable y una listón de altura ajustable
 - Hay espacio para dos figuras en el vehículo
+- Incluye tres figuras con varios accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JLRX868/?tag=tolees-21)
