@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beexcellent - Mando para Nintendo Switch al 15.39 % de rebaja'
-date: 2021-02-11 16:34:50
+date: 2021-02-13 12:04:34
 image: 'https://m.media-amazon.com/images/I/41s6Ku-Q52L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Beexcellent'
 buyurl: 'https://www.amazon.es/dp/B08HCWR4YH/?tag=tolees-21'
 descuento: '15.39'
-average: '22.1053846153846'
+average: '22.0971428571428'
 ---
 
 Tienes [Beexcellent - Mando para Nintendo Switch  Controlador Inalámbrico con Función Gyro Axis/Dual Shock/ Turbo Mando Compatible con Nintendo Switch/Lite/PC](https://www.amazon.es/dp/B08HCWR4YH/?tag=tolees-21) con precio final de  21.99 EUR (original: 25.99 EUR) (15.39 %  de rebaja) aqui!
