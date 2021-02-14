@@ -28,10 +28,10 @@ Está [Conector de mango de juego para Nintendo Switch Joy-Con  mango de gamepad
 
 ℹ️:
 
-- Correa de muñeca Joy-Con: la correa de muñeca Joy-Con se puede fijar a un controlador Joy-Con para su uso en juegos que incluyen control de movimiento o juego activo. Cuando está conectado, también permite al jugador presionar más fácilmente los botones SL y SR.
 - Calidad garantizada: si no estás 100% satisfecho con el conector para Nintendo Switch por cualquier razón, por favor póngase en contacto con nosotros. MENEEA proporciona 12 meses de garantía sin preocupaciones y reembolso incondicional de 45 días y soporte técnico gratuito de por vida.
+- Marca de señal: la correa Joy-Cons está diseñada para deslizarse sin problemas, y la original es diferente a la hebilla fuera. La marca "+" y "-" es transparente y te recuerda que no conectes el lado equivocado de la correa con tu Joy-Con.
 - Contector 5 en 1: diseñado específicamente para Nintendo Switch Joy-Cons. El paquete incluye: 1 conector rectangular, 1 conector cuadrado, 1 conector de sector, 1 conector de correa de cintura izquierda, 1 conector de mango de correa de cintura derecha.
 - Duradero y ligero: los conectores están hechos de materiales ABS, garantizan durabilidad y resistencia. Mejora la experiencia de juego cuando juegas.
-- Marca de señal: la correa Joy-Cons está diseñada para deslizarse sin problemas, y la original es diferente a la hebilla fuera. La marca "+" y "-" es transparente y te recuerda que no conectes el lado equivocado de la correa con tu Joy-Con.
+- Correa de muñeca Joy-Con: la correa de muñeca Joy-Con se puede fijar a un controlador Joy-Con para su uso en juegos que incluyen control de movimiento o juego activo. Cuando está conectado, también permite al jugador presionar más fácilmente los botones SL y SR.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TV9X6LY/?tag=tolees-21)
