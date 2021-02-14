@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vampirina - Figuras Vampirina y sus amig al 53.29 % de descuento'
-date: 2021-02-12 19:43:53
+date: 2021-02-14 19:34:53
 image: 'https://m.media-amazon.com/images/I/41PjtfBogRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Vampirina - Figuras Vampirina y sus amigos  Bandai 78122 ](h
 
 🔎:
 
-- Número de modelo: 78120
-- Tipo de producto: Figuras Vampirina y sus amigos
-- Dimensiones del producto: 5,7 x 14 x 16,5 cm
 - Marca del producto: Vampirina
+- Dimensiones del producto: 5,7 x 14 x 16,5 cm
+- Tipo de producto: Figuras Vampirina y sus amigos
+- Número de modelo: 78120
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BGLSJQH/?tag=tolees-21)
