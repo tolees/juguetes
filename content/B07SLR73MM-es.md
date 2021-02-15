@@ -28,10 +28,10 @@ En este momento está [Pinypon Action - Súper Coche con la Figura de un espía 
 
 🔎:
 
-- Las figuras y los escenarios de pinypon action; además de ser muy divertidas; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendadas a partir de 4 años
 - Coche de súper espía con 1 figura y muchos accesorios
-- El coche mide 22 x 10 x 8cm y la figura mide 8cm
 - En la parte trasera el maletero tiene un doble fondo para ocultar los accesorios y herramientas de espionaje
+- Las figuras y los escenarios de pinypon action; además de ser muy divertidas; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendadas a partir de 4 años
+- El coche mide 22 x 10 x 8cm y la figura mide 8cm
 - El coche tiene luces de verdad con 2 posiciones; largas y cortas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SLR73MM/?tag=tolees-21)
