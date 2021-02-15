@@ -28,10 +28,10 @@ Ahora mismo tienes [ZD-O Wired Gaming Controller 6 Remappable Multi-Function But
 
 🔎:
 
-- Modo de conexión: conexión por cable Características de hardware: joystick virtual de 60 ° 0, 3,6 millones de veces botones de durabilidad (según el estándar de prueba del fabricante), cable USB de 1,8 m.
-- Función característica del controlador: doble vibración asimétrica (la vibración se puede cerrar) Palanca de mando de intercambio de teclas cruzadas、ajuste de precisión de joystick 、LT&RT lineal, botones personalizados、 dos transmision、ABXY Exchange
-- Compatibilidad del sistema: PC, ordenador portátil, Nintendo Switch, vapor, Fire TV, Android (teléfono móvil, tableta, caja de TV).
 - Servicio de calidad: un año de garantía de calidad del producto. ZD se compromete a proporcionar a los clientes los mejores productos y servicios. Si tiene algún problema con el producto, por favor póngase en contacto con nosotros.
+- Compatibilidad del sistema: PC, ordenador portátil, Nintendo Switch, vapor, Fire TV, Android (teléfono móvil, tableta, caja de TV).
+- Función característica del controlador: doble vibración asimétrica (la vibración se puede cerrar) Palanca de mando de intercambio de teclas cruzadas、ajuste de precisión de joystick 、LT&RT lineal, botones personalizados、 dos transmision、ABXY Exchange
+- Modo de conexión: conexión por cable Características de hardware: joystick virtual de 60 ° 0, 3,6 millones de veces botones de durabilidad (según el estándar de prueba del fabricante), cable USB de 1,8 m.
 - ZD-O tiene un estilo de diseño minimalista, proporciona 6 botones macro programados, que pueden asignar un solo botón del mando de forma independiente o un botón de combinación, te proporcionan diversión y simplificación del juego.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082VGHT57/?tag=tolees-21)
