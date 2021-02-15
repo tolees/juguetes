@@ -28,10 +28,10 @@ Tienes [Barbie Conjunto de Boda con muñecos novios  Stacie  Chelsea y accesorio
 
 🔎:
 
-- Ken está listo para esperar a la novia luciendo un clásico traje blanco y negro con una pajarita negra y unos zapatos a juego.
-- Recrea bodas memorables con un completo pack de muñecos que incluye una novia, un novio y dos damas de honor, además de tres ramos de flores para las muñecas y una tarta nupcial.
 - La tarta nupcial amplía las opciones de juego y le da un toque realista a cualquier boda.
+- Recrea bodas memorables con un completo pack de muñecos que incluye una novia, un novio y dos damas de honor, además de tres ramos de flores para las muñecas y una tarta nupcial.
 - La novia Barbie luce un magnífico vestido moderno con una silueta clásica de tonos lavanda, una diadema extraíble con velo, un collar (no extraíble), unos zapatos a juego y un ramo nupcial.
 - Las damas de honor Stacie y Chelsea están preciosas con sus vestidos lavanda, unos zapatos a juego y un ramo de flores para cada una.
+- Ken está listo para esperar a la novia luciendo un clásico traje blanco y negro con una pajarita negra y unos zapatos a juego.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FKUVX64/?tag=tolees-21)
