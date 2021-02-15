@@ -28,9 +28,9 @@ Está [Pokkén Tournament DX - Nintendo Switch [Importación italiana]](https://
 
 ℹ️:
 
+- Gioca con Pokkén dove e quando vuoi su Nintendo Switch, sfidando un amico semplicemente fornendogli un controller Joy-Con
+- Nuove modalità di gioco: "Modalità Lotta a squadre" e "Modalità Partita di gruppo"
 - Un nuovo lottatore: Decidueye si aggiunge ai Pokémon già visti nelle precedenti versioni per Wii U e sala giochi
 - Pokkén Tournament DX presenta tutti i contenuti di Pokkén Tournament per Wii U e sala giochi
-- Nuove modalità di gioco: "Modalità Lotta a squadre" e "Modalità Partita di gruppo"
-- Gioca con Pokkén dove e quando vuoi su Nintendo Switch, sfidando un amico semplicemente fornendogli un controller Joy-Con
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072K26SVS/?tag=tolees-21)
