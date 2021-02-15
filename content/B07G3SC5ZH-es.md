@@ -28,10 +28,10 @@ Tienes [LEGO Harry Potter - Cabaña de Hagrid Rescate de Buckbeak  Juguete de Co
 
 ℹ️:
 
-- On two-section buildable woodland build Hagrids two-room hut, then save the Hippogriff from the executioner and the minister of magic
-- Also includes pumpkins, lantern, axe, three wands, egg in a bowl, Hagrid’s pink umbrella, a spider, meat cleaver, lasso, broom, a bucket and many more
-- Includes six LEGO minifigures: Hagrid and (for-June-2019) Harry Potter, Ron Weasley, Hermione Granger, Executioner and the minister of magic
 - The buildable Buckbeak the hippogriff figure has moveable wings and head, restrained by a removable chain and is 1 Inch (5 cm) high
 - Hagrid´s Hut’s main and desk rooms includes a host of accessories, furniture and a switch-operated light brick for the fireplace
+- Also includes pumpkins, lantern, axe, three wands, egg in a bowl, Hagrid’s pink umbrella, a spider, meat cleaver, lasso, broom, a bucket and many more
+- On two-section buildable woodland build Hagrids two-room hut, then save the Hippogriff from the executioner and the minister of magic
+- Includes six LEGO minifigures: Hagrid and (for-June-2019) Harry Potter, Ron Weasley, Hermione Granger, Executioner and the minister of magic
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G3SC5ZH/?tag=tolees-21)

@@ -29,8 +29,8 @@ Ahora mismo tienes [Fisher-Price - Little People - Garaje Cochelandia  Parking J
 🔎:
 
 - Emite divertidos sonidos de carreras y frases para aprender a compartir, tener paciencia y jugar con los amigos
-- Este garaje de juguete para coches incluye una gasolinera, un taller mecánico y una flecha giratoria
 - Juguete para niños y bebés a partir de 1 año
+- Este garaje de juguete para coches incluye una gasolinera, un taller mecánico y una flecha giratoria
 - Regalo original para niños que incluye 3 pistas diferentes con una altura de casi un metro
 - el lanzador del parking de juguete es óptimo para turnarse y lanza los coches de uno en uno
 
