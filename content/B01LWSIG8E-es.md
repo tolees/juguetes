@@ -28,9 +28,9 @@ En este momento está [Devir - Through the Ages: Una nueva historia de la civili
 
 🔎:
 
-- Para mayores de 14 años
-- Duración: +120 minutos
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
 - De 2 a 4 jugadores
+- Para mayores de 14 años
+- Duración: +120 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LWSIG8E/?tag=tolees-21)
