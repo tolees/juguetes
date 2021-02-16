@@ -29,9 +29,9 @@ Tienes [Barbie Chelsea Hora de ir a la escuela Muñeca con accesorios  Mattel GH
 ℹ️:
 
 - La escuela de chelsea dispone de un pupitre de dos plazas y otros accesorios para chelsea y una amiga ( se vende por separado)
-- El juguete dispone de varios accesorios de juego como libretas, zumos, material escolar, una mochila y unas gafas para chelsea la hermana mayor de barbie así las niñas pueden representar diferentes escenas en la escuela
-- El juguete dispone también de una cantina con una caja registradora y bandejas de comida, en el recreo las muñecas se pueden lanzar por el tobogán y columpiarlas
-- Las muñecas y juguetes del club chelsea de barbie inspiran la imaginación de las niñas y las animan a descubrir de una manera divertida diferentes temáticas como la escuela de chelsea que dispone de muchos accesorios y varias zonas de juegos para recrear historias divertidas
 - La muñeca chelsea de barbie luce una blusa con un sol, una falda extraíble con un arcoíris y unos informales zapatos blancos, juguete para peques mayores de 3 años
+- El juguete dispone también de una cantina con una caja registradora y bandejas de comida, en el recreo las muñecas se pueden lanzar por el tobogán y columpiarlas
+- El juguete dispone de varios accesorios de juego como libretas, zumos, material escolar, una mochila y unas gafas para chelsea la hermana mayor de barbie así las niñas pueden representar diferentes escenas en la escuela
+- Las muñecas y juguetes del club chelsea de barbie inspiran la imaginación de las niñas y las animan a descubrir de una manera divertida diferentes temáticas como la escuela de chelsea que dispone de muchos accesorios y varias zonas de juegos para recrear historias divertidas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X8Z25CQ/?tag=tolees-21)

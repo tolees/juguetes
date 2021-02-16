@@ -29,9 +29,9 @@ Tienes [Fisher-Price - Gimnasio Deluxe Animalitos de la Selva  Manta de Juego Be
 ℹ️:
 
 - 3 opciones de juego en un gimnasio para bebé: boca arriba, boca abajo y de paseo
-- Gimnasio con más de 10 juguetes para bebés y actividades, y un tucán extraíble que emite música y bailes de luces
-- Este gimnasio de actividades para bebé responde a los movimientos del niño con música y luces en la opción de duración corta
 - En la opción de duración larga de este juguete para recién nacido, la música dura hasta 20 minutos
+- Este gimnasio de actividades para bebé responde a los movimientos del niño con música y luces en la opción de duración corta
+- Gimnasio con más de 10 juguetes para bebés y actividades, y un tucán extraíble que emite música y bailes de luces
 - Regalo original para recién nacido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B016XS2NM0/?tag=tolees-21)
