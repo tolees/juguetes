@@ -28,10 +28,10 @@ Tienes [Juegos Mattel - Mattel Games UNO H20 To Go  juego de cartas  Mattel P170
 
 🔎:
 
+- Juego de mesa que incluye 108 cartas resistentes al agua + un mosquetón para transportarlas cómodamente
+- Para jugar entre 2 y 10 jugadores, que se pueden desafiar individualmente o por equipos
 - El objetivo es ser el primero en quedarse sin cartas y gana el primer equipo o jugador en llegar a 500 puntos
 - Cuando te quede una sola carta, no te olvides de gritar uno
 - La versión resistente al agua del clásico juego de cartas uno
-- Juego de mesa que incluye 108 cartas resistentes al agua + un mosquetón para transportarlas cómodamente
-- Para jugar entre 2 y 10 jugadores, que se pueden desafiar individualmente o por equipos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001HN6EF4/?tag=tolees-21)
