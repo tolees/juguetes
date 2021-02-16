@@ -28,10 +28,10 @@ En este momento está [Fisher-Price Bloques apila y descubre  juguete bebé  Mat
 
 🔎:
 
+- Cinco bloques para que el niño los apile en una divertida torre, los encaje uno dentro del otro o uno al lado de otro para construir una creativa escena
+- Números, colores, personajes, objetos y texturas que el niño descubrirá en cada bloque
 - Regalo original para bebes a partir de 6 meses
 - Cinco bloques para apilar y encajar de mayor a menor
-- Números, colores, personajes, objetos y texturas que el niño descubrirá en cada bloque
 - Los bloques de cinco caras presentan colores vivos, texturas interesantes, personajes simpáticos, números y objetos cotidianos
-- Cinco bloques para que el niño los apile en una divertida torre, los encaje uno dentro del otro o uno al lado de otro para construir una creativa escena
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MYL9JW8/?tag=tolees-21)
