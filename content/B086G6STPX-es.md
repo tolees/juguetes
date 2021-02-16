@@ -28,10 +28,10 @@ Está [Ravensburger Mandalorian-The Child  Color  16561 ](https://www.amazon.es/
 
 ℹ️:
 
+- Tamaño Puzzle: 49x36 cm
+- Experimenta la Soft Click Technology de los puzzles Ravensburger
 - Tamaño caja: 34x23x4 cm
 - La calidad de Ravensburger en un fantastico Puzzle para adultos de 500 piezas
-- Experimenta la Soft Click Technology de los puzzles Ravensburger
-- Tamaño Puzzle: 49x36 cm
 - Foto, paisajes, personajes fantasy: Ravensburger te ofrece una rica selección de imágenes para tus puzzles. ¡Elige tu favorita!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086G6STPX/?tag=tolees-21)

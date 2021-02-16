@@ -30,7 +30,7 @@ Tienes [Clementoni- Puzzle 1000 Piezas Strange Things  39542.2 ](https://www.ama
 
 - Un Puzzle de vívidos colores, y alta calidad con imágenes de Marvel, para poderlo montar y desmontar cuantas veces se desee
 - Favorece la concentración y las habilidades manuales
-- Hecho en Italia
 - Puzzle adulto 1000 piezas, con láminas de alta calidad de impresión, y troquelado preciso; colección paisajes
+- Hecho en Italia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084HGHKWR/?tag=tolees-21)
