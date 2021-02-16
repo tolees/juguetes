@@ -29,9 +29,9 @@ Tienes [Mattel Games Showdown  GKC04 ](https://www.amazon.es/dp/B085B5JHWB/?tag=
 ℹ️:
 
 - Al igual que en el juego clásico de UNO, los jugadores deben intentar quedarse sin cartas en la mano jugando cartas que coincidan con la última carta de la pila de descarte.
-- Diversión llena de sorpresas para noches de juegos en familia: para 2 a 10 jugadores mayores de 7 años.
-- Disfruta de UNO Showdown, el juego de UNO que adora todo el mundo, ¡ahora con toda la emoción de la unidad Showdown!
-- Mantén los ojos bien abiertos: cuando la unidad de UNO Showdown dé la señal, tendrás que reaccionar rápidamente para apretar la palanca y lanzar las cartas hacia tus oponentes. ¡Agachaos!
 - Cuando les quede una sola carta en la mano, ¡tienen que gritar «UNO»!
+- Mantén los ojos bien abiertos: cuando la unidad de UNO Showdown dé la señal, tendrás que reaccionar rápidamente para apretar la palanca y lanzar las cartas hacia tus oponentes. ¡Agachaos!
+- Disfruta de UNO Showdown, el juego de UNO que adora todo el mundo, ¡ahora con toda la emoción de la unidad Showdown!
+- Diversión llena de sorpresas para noches de juegos en familia: para 2 a 10 jugadores mayores de 7 años.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085B5JHWB/?tag=tolees-21)

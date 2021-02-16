@@ -28,10 +28,10 @@ Tienes [Juegos Mattel - Mattel Games UNO Deluxe  juego de cartas  Mattel K0888 ]
 
 ℹ️:
 
-- Incluye un mazo de 108 cartas más instrucciones y reglas de puntuación.
 - Este clásico juego de cartas de 2 a 10 jugadores está pensado para que estos se desafíen entre ellos individualmente o por equipos ​
+- El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar Uno
+- Incluye un mazo de 108 cartas más instrucciones y reglas de puntuación.
 - Recomendado para cada edad
 - El juego viene en una colorida caja metálica
-- El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar Uno
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000CFWFYM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Richgv® Tableta de Escritura LCD de 10 P al 15.01 % de descuento'
-date: 2021-02-15 20:26:47
+date: 2021-02-16 20:55:06
 image: 'https://m.media-amazon.com/images/I/51TLHG1Wp7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Richgv'
 buyurl: 'https://www.amazon.es/dp/B07QRPYRBJ/?tag=tolees-21'
 descuento: '15.01'
-average: '12.4852380952381'
+average: '12.2856521739131'
 ---
 
 Ahora mismo tienes [Richgv® Tableta de Escritura LCD de 10 Pulgadas  Tablero Negro Inteligente Juguetes de Aprendizaje Tablero de Dibujo Electrónico Escritura a Mano y Doodle Pad para Niños y Adultos 10 Pulgadas  Azul ](https://www.amazon.es/dp/B07QRPYRBJ/?tag=tolees-21) a 10.19 EUR (original: 11.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
