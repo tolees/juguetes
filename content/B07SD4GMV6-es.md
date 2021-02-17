@@ -28,10 +28,10 @@ Está [Akface Compresor de Aire Coche Inflador Coches Portatil Inflador Neumatic
 
 ℹ️:
 
-- ➤ Multipropósito: El compresor de aire portatil con 4 boquillas adicionales, puede inflar neumáticos de automóviles, bicicletas, motocicletas, pelotas, botes inflables y otros inflables.
-- ➤ Display 4 Unidades: Este inflador neumatico puede mostrar PSI, KPA, BAR, KG / CM; con iluminación LED y un cable de alimentación de 10 pies de largo que te permite usar en la oscuridad y alcanzar cuatro neumáticos fácilmente.
-- ➤ Apagado Automático: Una vez que el compresor aire coche 12v alcance la presión preestablecida, se apagará automáticamente. Puede evitar inflar en exceso
 - ➤ Ruido más Rápido y más Bajo: Akface auto compresor de aire coche puede inflar el neumático de su automóvil estándar mucho más rápido que otros, con mucho menos ruido
 - ➤ Paquete: El Paquete incluye un compresor para coche, una bolsa de almacenamiento, un manual de usuario y 4 boquillas adicionales. Si tiene algún problema, ¡bienvenido a contactarnos!
+- ➤ Display 4 Unidades: Este inflador neumatico puede mostrar PSI, KPA, BAR, KG / CM; con iluminación LED y un cable de alimentación de 10 pies de largo que te permite usar en la oscuridad y alcanzar cuatro neumáticos fácilmente.
+- ➤ Apagado Automático: Una vez que el compresor aire coche 12v alcance la presión preestablecida, se apagará automáticamente. Puede evitar inflar en exceso
+- ➤ Multipropósito: El compresor de aire portatil con 4 boquillas adicionales, puede inflar neumáticos de automóviles, bicicletas, motocicletas, pelotas, botes inflables y otros inflables.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SD4GMV6/?tag=tolees-21)
