@@ -30,8 +30,8 @@ Está [Devir FanHunter Urban Warfare  Juego de Mesa  Miscelanea  BGFHUW ](https:
 
 - Número de jugadores: 2
 - Juego adecuado para pasar el tiempo libre
-- Edad recomendada: 14 años y más
-- Tipo de producto: juego de mesa
 - Duración aproximada de la partida: 45 minutos
+- Tipo de producto: juego de mesa
+- Edad recomendada: 14 años y más
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XR9Q6NV/?tag=tolees-21)

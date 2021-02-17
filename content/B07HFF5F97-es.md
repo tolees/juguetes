@@ -28,10 +28,10 @@ Ahora mismo tienes [Educa-500 Dinosaurios Puzzle  500 Piezas  Multicolor  17961 
 
 🔎:
 
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Número de piezas: 500, medida aproximada una vez montado: 48 x 34
-- Serie Genuine
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Edad recomendada: a partir de 10 años
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Serie Genuine
+- Número de piezas: 500, medida aproximada una vez montado: 48 x 34
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HFF5F97/?tag=tolees-21)
