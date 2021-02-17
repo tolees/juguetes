@@ -28,10 +28,10 @@ Tienes [Imaginext Barco Pirata Tiburón  Mattel DHH61 ](https://www.amazon.es/dp
 
 🔎:
 
-- Levanta la trampilla para ver a los prisioneros capturados.
 - ¡Atención, tiburón! Haz rodar el barco para que se muevan las aletas.
-- ¿Tienes ganas de aventuras? Presiona la plataforma de activación para que el tiburón dé mordiscos y encierra a los prisioneros en el casco del barco.
-- Gira otra plataforma de activación a la izquierda para ver el escondite secreto del tesoro, ¡y gírala hacia la derecha para disparar los cañones!
+- Levanta la trampilla para ver a los prisioneros capturados.
 - Incluye un Barco pirata-tiburón, dos figuras de piratas, dos cascos, dos espadas, una bola de cañón, cuatro proyectiles, un catalejo y un tesoro.
+- Gira otra plataforma de activación a la izquierda para ver el escondite secreto del tesoro, ¡y gírala hacia la derecha para disparar los cañones!
+- ¿Tienes ganas de aventuras? Presiona la plataforma de activación para que el tiburón dé mordiscos y encierra a los prisioneros en el casco del barco.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019RP6OE4/?tag=tolees-21)
