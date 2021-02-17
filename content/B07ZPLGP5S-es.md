@@ -28,9 +28,9 @@ Tienes [Nerf N-Strike Elite Infinus](https://www.amazon.es/dp/B07ZPLGP5S/?tag=to
 
 ℹ️:
 
-- Carga los dardos sin quitar el tambor
 - La tecnología motorizada de carga rápida carga automáticamente los dardos en el tambor
-- Incluye 30 dardos Elite
 - Pistola totalmente motorizada con tambor de 30 dardos
+- Incluye 30 dardos Elite
+- Carga los dardos sin quitar el tambor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZPLGP5S/?tag=tolees-21)
