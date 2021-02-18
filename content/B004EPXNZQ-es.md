@@ -28,10 +28,10 @@ Tienes [Educa Borras - XXL Puzzles  Puzzle 9.000 piezas  El Jardin de las Delici
 
 🔎:
 
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Número de piezas: 9.000, medida aproximada una vez montado: 214 x 118,5
-- Edad recomendada: a partir de 12 años
-- Serie XXL
 - Incluye lámina guía con la imagen y cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Serie XXL
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Edad recomendada: a partir de 12 años
+- Número de piezas: 9.000, medida aproximada una vez montado: 214 x 118,5
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004EPXNZQ/?tag=tolees-21)

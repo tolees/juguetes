@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.18 % en LEGO City - Ártico Base Móvil de Explora'
-date: 2021-02-05 06:31:01
+date: 2021-02-18 21:45:00
 image: 'https://m.media-amazon.com/images/I/51aDjzv2G6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21'
 descuento: '26.18'
-average: '99.5696785714284'
+average: '100.790135593221'
 ---
 
 Tienes [LEGO City - Ártico Base Móvil de Exploración  Juguete Creativo de Construcción con Camión y Moto de Nieve para Niños y Niñas de 7 a 12 Años  Incluye Minifiguras y Mamut  60195 ](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21) con un 26.18 % de descuento con precio de oferta de 81.2 EUR (original: 109.99 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [LEGO City - Ártico Base Móvil de Exploración  Juguete Creativo de Con
 
 ℹ️:
 
-- Usa la grúa para desplegar la base ártica móvil y excava luego el mamut
 - Incluye también una figura de un mamut “congelado” dentro de un gran modelo de hielo con ladrillos blancos y azul translúcido
+- Usa la grúa para desplegar la base ártica móvil y excava luego el mamut
 - Todos los vehículos, salvo la motonieve, se pueden enganchar para formar un tren de exploración
 - Incluye 6 mini figuras LEGO: 4 exploradores árticos, un líder de la expedición ártica y un conductor; incluye también una figura de un mamut
 - Accesorios incluidos: 2 sierras, un martillo neumático, 2 piquetas, 2 tazas, una radio, un hueso, una cámara y 2 pares de raquetas para la nieve
