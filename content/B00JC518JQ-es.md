@@ -28,9 +28,9 @@ En este momento está [Xlc Sa-a21 Material de Bicicleta  Unisex Adulto  Negro  2
 
 🔎:
 
-- Cubierta de sillín: vinilo.
-- Cubierta de vacío/cubierta blanda: funda para sillín 100% impermeable.
 - Sillín deportivo para bicicleta de montaña, unisex, posición de conducción: deporte.
+- Cubierta de vacío/cubierta blanda: funda para sillín 100% impermeable.
+- Cubierta de sillín: vinilo.
 - Estructura de cromo con escala.
 - Acolchado de gel con ventana visible de gel.
 
