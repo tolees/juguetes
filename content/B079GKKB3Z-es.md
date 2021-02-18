@@ -28,9 +28,9 @@ En este momento está [Sylvanian Families- Grand Department Store Gift Set Mini 
 
 🔎:
 
-- Incluye el edificio de dos plantas de grandes almacenes
 - Con un balcón con vista al exterior
 - Adecuado para estimular el juego de roles imaginativo en los niños
 - Equipado con un ascensor y una puerta giratoria
+- Incluye el edificio de dos plantas de grandes almacenes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079GKKB3Z/?tag=tolees-21)
