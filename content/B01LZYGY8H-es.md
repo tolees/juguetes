@@ -30,8 +30,8 @@ En este momento está [Fisher-Price - Teléfono carita divertida - juguetes bebe
 
 - Este teléfono infantil emite divertidos sonidos de teléfono y sus ojos se mueven
 - El teléfono de juguete estimula el juego de imitación desde una edad temprana
-- El disco giratorio del teléfono para niños presenta los números del 0 al 9
-- El niño puede jugar sentado o tirar del teléfono de juguete
 - Regalo original para bebes a partir de 12 meses
+- El niño puede jugar sentado o tirar del teléfono de juguete
+- El disco giratorio del teléfono para niños presenta los números del 0 al 9
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZYGY8H/?tag=tolees-21)
