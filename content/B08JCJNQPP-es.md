@@ -29,9 +29,9 @@ En este momento está [PHYLES Cubos apilables  Juguete de Taza apilable  Torre a
 🔎:
 
 - 🍊Ayude a los bebés: los juguetes apilados para bebés ayudan a desarrollar tanto el cuerpo como el cerebro. Ayude a los bebés a aprender números y colores desde el principio, contando y ejercitando las habilidades de reacción y lógica de los niños.
-- 🍇Juego apilable multifuncional: los vasos apilables se pueden apilar no solo en interiores sino también en bañeras y playas al aire libre. O como una pequeña planta en maceta. Los niños pueden divertirse más.
-- 🍑Con números y frutas: este juguete para niños pequeños incluye 8 tazas de baño apilables y una cabeza de animal. Está compuesto por números arábigos del 1 al 8 y el otro lado está compuesto por patrones de frutas.
 - 🍒Alta calidad: estos cubos apilables hechos de materiales probados de alta calidad cumplen con los estándares de juguetes al 100%. Aprender jugando.
 - 🍎 Vasos apilables para bebés: Los vasos apilables son adecuados para niños mayores de 6 meses y deben jugarse bajo la supervisión de los padres.
+- 🍑Con números y frutas: este juguete para niños pequeños incluye 8 tazas de baño apilables y una cabeza de animal. Está compuesto por números arábigos del 1 al 8 y el otro lado está compuesto por patrones de frutas.
+- 🍇Juego apilable multifuncional: los vasos apilables se pueden apilar no solo en interiores sino también en bañeras y playas al aire libre. O como una pequeña planta en maceta. Los niños pueden divertirse más.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JCJNQPP/?tag=tolees-21)

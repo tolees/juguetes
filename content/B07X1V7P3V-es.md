@@ -28,10 +28,10 @@ En este momento está [Fisher-Price - Fisher Price Little People Juguete Bebe Ba
 
 🔎:
 
-- El conjunto de juego incluye 1 figura de bebé y 6 piezas de juego, incluida una toalla suave
 - Los niños podrán bañar y cuidar de su bebé con este conjunto de juego de Little People
+- Tu bebé necesita usar el retrete, levanta la tapa para usarlo y después lávale las manos en el lavabo
 - Baña a tu bebé y lávale los dientes antes de llevarlo a dormir
 - Para niños de 1 a 5 años
-- Tu bebé necesita usar el retrete, levanta la tapa para usarlo y después lávale las manos en el lavabo
+- El conjunto de juego incluye 1 figura de bebé y 6 piezas de juego, incluida una toalla suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X1V7P3V/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Educa Borras - Genuine Puzzles  Puzzle 1.500 piezas  Especias y condimen
 
 ℹ️:
 
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Edad recomendada: a partir de 12 años
 - Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Serie Genuine
 
