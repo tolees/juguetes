@@ -28,9 +28,9 @@ Ahora mismo tienes [Mattel BTS - Muñeco V  figura de colección  miembro banda 
 
 🔎:
 
-- ¡Muestra tu amor por BTS con la colección oficial de los muñecos de moda que representan a los siete artistas
-- También están disponibles (se venden por separado) las figuras de moda inspiradas en los otros seis miembros de BTS: RM, Jin, SUGA, J-hope, Jimin y Jung Kook. ¡Colecciónalos todos
 - Esta figura de V está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
 - Tienen el pelo largo y son articuladas y adaptables: ¡puedes mover sus brazos, piernas y cabezas
+- También están disponibles (se venden por separado) las figuras de moda inspiradas en los otros seis miembros de BTS: RM, Jin, SUGA, J-hope, Jimin y Jung Kook. ¡Colecciónalos todos
+- ¡Muestra tu amor por BTS con la colección oficial de los muñecos de moda que representan a los siete artistas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NQJ4NQ2/?tag=tolees-21)

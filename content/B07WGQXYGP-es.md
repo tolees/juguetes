@@ -28,9 +28,9 @@ Ahora mismo tienes [Warhammer Juego de Rol de Fantasía  Devir WFBASICO ](https:
 
 🔎:
 
-- Este juego de rol de fantasía le transporta de vuelta al viejo mundo
+- Es un juego con criaturas aterradoras que sólo piensan en la destrucción
 - Es adecuado para pasar el tiempo libre
 - Incluye aventuras y peligros sombríos en el viejo mundo
-- Es un juego con criaturas aterradoras que sólo piensan en la destrucción
+- Este juego de rol de fantasía le transporta de vuelta al viejo mundo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WGQXYGP/?tag=tolees-21)
