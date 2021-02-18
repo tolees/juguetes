@@ -28,10 +28,10 @@ Tienes [eXtremeRate Carcasa Joy-con Botones Completos D-Pad para Nintendo Switch
 
 🔎:
 
+- El kit incluye una carcasa para Nintendo Joy-con que reemplaza (sin componentes electrónicos), un juego de botones completos, destornilladores PH00 e Y00, tornillos Tri-wing y Philips.
 - Requiere que los clientes desmonten el Joycon para reemplazar las carcasas y botones originales de Joycon. Requiere clientes con experiencia moderada de instalación electrónica. Obtenga el vídeo de instalación en YouTube buscando "JoyCon Dpad Guide Extremerate" o "cTajxu8ZpzI". Mira el video a media velocidad. Recomendamos ver, suspender, ejecutar y repetir.
 - La carcasa de reemplazo diseñada a medida,es perfecta para el mando de Nintendo Switch Joy-con. El botón ergonómico de D-pad puede mejorar en gran medida la función Joycon izquierda, perfecto para juegos intensivos de D-pad.
 - El estilo retro clásico de SFC SNES UE te lleva de vuelta a los años 90.El agarre es excelente, suave al tacto y se siente sedoso. Antideslizante, juega sin sudor por un largo tiempo.
 - La única diseñada agrega más personalidad a su Switch, ya no es un gris estándar aburrido.
-- El kit incluye una carcasa para Nintendo Joy-con que reemplaza (sin componentes electrónicos), un juego de botones completos, destornilladores PH00 e Y00, tornillos Tri-wing y Philips.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08V4SCFDS/?tag=tolees-21)
