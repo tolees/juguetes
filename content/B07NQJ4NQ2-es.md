@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel BTS - Muñeco V  figura de colecci al 50.15 % de descuento'
-date: 2021-02-17 22:12:38
+date: 2021-02-19 16:49:24
 image: 'https://m.media-amazon.com/images/I/31KaBkXiqdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel'
 buyurl: 'https://www.amazon.es/dp/B07NQJ4NQ2/?tag=tolees-21'
 descuento: '50.15'
-average: '12.6047916666667'
+average: '12.6986'
 ---
 
 Ahora mismo tienes [Mattel BTS - Muñeco V  figura de colección  miembro banda coreana de K-pop   GKC89 ](https://www.amazon.es/dp/B07NQJ4NQ2/?tag=tolees-21) a 14.95 EUR (original: 29.99 EUR) (50.15 %  de descuento) en el siguiente enlace!
