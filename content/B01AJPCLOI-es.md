@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL- City Action Playset  Coche de al 30.89 % de descuento'
-date: 2021-02-17 19:00:43
+date: 2021-02-18 23:55:35
 image: 'https://m.media-amazon.com/images/I/51Cfz-GK8gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21'
 descuento: '30.89'
-average: '26.4492307692305'
+average: '26.4659782608693'
 ---
 
 Está [PLAYMOBIL- City Action Playset  Coche de Policía con Luces y Sonido  Multicolor  6920 ](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21) con 30.89 de descuento por 27.99 EUR (original: 40.5 EUR) en el siguiente enlace!
@@ -31,7 +31,7 @@ Está [PLAYMOBIL- City Action Playset  Coche de Policía con Luces y Sonido  Mul
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Contenido: 1 PLAYMOBIL City Action Coche de Policía con Luces y Sonido, Juego de 35 piezas con instrucciones: 1 Coche de Policía, 2 figuras, 32 accesorios
 - 2 figuras, 2 sirenas diferentes, techo desmontable, espacio para 4 figuras, asiento trasero plegable, entre otros, ampliable con Comisaría de Policía con Prisión (6919)
-- Diversión para los pequeños policías: Coche de policía PLAYMOBIL con geniales efectos de luz y sonido y muchos accesorios para jugar
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diversión para los pequeños policías: Coche de policía PLAYMOBIL con geniales efectos de luz y sonido y muchos accesorios para jugar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21)

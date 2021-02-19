@@ -28,10 +28,10 @@ Está [Balas Nerf 100 DEWEL Dardos Nerf de 7.2cm](https://www.amazon.es/dp/B07X9
 
 ℹ️:
 
+- Los dardos son compatibles para cualquier dispositivo N-Strike
 - Si el producto tiene cualquier problema de la calidad puede contactarnos por correo electrónico
 - Color: azul. Tamaño: 7.2x 1.3 cm
-- Aguantan mucho: espuma azul blanda y punta naranja un poco rígida
 - Vienen en paquetes de 10 unidades para que no las abras todas de golpe
-- Los dardos son compatibles para cualquier dispositivo N-Strike
+- Aguantan mucho: espuma azul blanda y punta naranja un poco rígida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X9S1YWX/?tag=tolees-21)
