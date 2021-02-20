@@ -28,8 +28,8 @@ Tienes [Star Wars Colección Vintage Figura Moff Gideon  Hasbro F10945X0 ](https
 
 🔎:
 
-- Este juguete está diseñado para todos los niños
-- El juguete ayuda a los más pequeños a inventar todo tipo de historias
 - Los pequeños pueden explorar el mundo con imaginación
+- El juguete ayuda a los más pequeños a inventar todo tipo de historias
+- Este juguete está diseñado para todos los niños
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KJB59HC/?tag=tolees-21)

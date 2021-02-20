@@ -28,11 +28,11 @@ Tienes [Fisher-Price Maletín pequeño doctor  juego de rol niño +3 años  Matt
 
 🔎:
 
-- ¿Quieres comprobar la presión de tu paciente? Haz girar la aguja del tensiómetro del juego de enfermera
-- Todas las piezas de juego se pueden guardar dentro del maletín de médicos de juguete para poder hacer visitas a domicilio sin problemas
-- 7 piezas de juego: el juego de médico incluye un estetoscopio, un tensiómetro, un termómetro, un otoscopio, una jeringa, una venda y un maletín de tela de juguete
-- Juguetes para niños de 3 a 6 años
 - Este kit médico de juguete ayuda al niño a desarrollar hábitos saludables y a compartir mientras estimula los juegos imaginativos
+- Juguetes para niños de 3 a 6 años
+- ¿Quieres comprobar la presión de tu paciente? Haz girar la aguja del tensiómetro del juego de enfermera
 - Al pulsar el botón del termómetro del set médico de juguete, este pasa de “enfermo” a “sano”
+- 7 piezas de juego: el juego de médico incluye un estetoscopio, un tensiómetro, un termómetro, un otoscopio, una jeringa, una venda y un maletín de tela de juguete
+- Todas las piezas de juego se pueden guardar dentro del maletín de médicos de juguete para poder hacer visitas a domicilio sin problemas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IN4XHWC/?tag=tolees-21)
