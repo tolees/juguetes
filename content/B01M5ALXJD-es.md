@@ -28,10 +28,10 @@ Tienes [Thrustmaster TMX Pro - Volante - Xbox One/PC - Force Feedback - 3 Pedale
 
 ℹ️:
 
-- 28 cm de diámetro, con un diseño ergonómico perfectamente adaptado para todos los juegos de conducción
-- Incluye el juego de 3 pedales T3PA: base ancha de 3 pedales, pedales y estructura interna, 100% de metal, totalmente ajustable
-- Sistema force feedback 900° + sistema mixto de engranajes y correa-polea + eje metálico con rodamientos
 - Simulador de carreras oficial para Xbox One y Windows
+- Sistema force feedback 900° + sistema mixto de engranajes y correa-polea + eje metálico con rodamientos
 - Las superficies de agarre de los volantes están revestidas de goma texturada para ofrecer la máxima comodidad.
+- Incluye el juego de 3 pedales T3PA: base ancha de 3 pedales, pedales y estructura interna, 100% de metal, totalmente ajustable
+- 28 cm de diámetro, con un diseño ergonómico perfectamente adaptado para todos los juegos de conducción
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M5ALXJD/?tag=tolees-21)

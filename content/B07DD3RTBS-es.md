@@ -29,9 +29,9 @@ En este momento está [los Barriguitas - Supermercado Super  Famosa 700014516 ](
 🔎:
 
 - El super super de barriguitas es donde las barriguitas van a hacer la compra
-- No hay un supermercado más completo: con zonas de verduras, carnicería, droguería y alimentación
 - Con una montón de divertidos accesorios: carro y cesta; maquinita de ticket de turno; y muchos productos para las estanterías del super; incluye 2 muñecas: una barriguitas y un bebé
-- El súper súper de barriguitas tiene las siguientes medidas: 40,5 cm de ancho, 49 cm de largo y 40,5 cm de profundidad
 - Incluye 2 muñecas: una barriguitas y un bebé
+- No hay un supermercado más completo: con zonas de verduras, carnicería, droguería y alimentación
+- El súper súper de barriguitas tiene las siguientes medidas: 40,5 cm de ancho, 49 cm de largo y 40,5 cm de profundidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DD3RTBS/?tag=tolees-21)
