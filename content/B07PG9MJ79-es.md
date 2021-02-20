@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Garmin 010-12845-00 accesorio para bicic al 23.39 % de rebaja'
+date: 2021-02-20 09:06:26
+image: 'https://m.media-amazon.com/images/I/41QVqUcVnfL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07PG9MJ79-es Garmin 010-12845-00 accesorio para bicicleta Sensor de...'
+sku: 'B07PG9MJ79-es'
+tags: [ 'bicicleta', ]
+actualPrice: 52.99 EUR
+currency: EUR
+price: 52.99
+comparePrice: 69.17 EUR
+prodname: 'Garmin 010-12845-00 accesorio para bicicleta Sensor de velocidad/cadencia - Accesorios para bicicletas'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Garmin'
+buyurl: 'https://www.amazon.es/dp/B07PG9MJ79/?tag=tolees-21'
+descuento: '23.39'
+average: '52.99'
+---
+
+Tienes [Garmin 010-12845-00 accesorio para bicicleta Sensor de velocidad/cadencia - Accesorios para bicicletas](https://www.amazon.es/dp/B07PG9MJ79/?tag=tolees-21) con precio final de  52.99 EUR (original: 69.17 EUR) (23.39 %  de rebaja) aqui!
+
+[![Garmin 010-12845-00 accesorio para bicic](https://m.media-amazon.com/images/I/41QVqUcVnfL._SL200_.jpg)](https://www.amazon.es/dp/B07PG9MJ79/?tag=tolees-21)
+
+🔎:
+
+- Garmin czujnik predkosci i kadencji 2 generacji
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07PG9MJ79/?tag=tolees-21)
