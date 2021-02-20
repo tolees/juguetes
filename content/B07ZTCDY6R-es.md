@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diswoe Mando para Nintendo Switch  Wirel al 15.01 % de descuento'
-date: 2021-02-19 06:24:32
+date: 2021-02-20 13:36:49
 image: 'https://m.media-amazon.com/images/I/51DnJ-nZxRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diswoe'
 buyurl: 'https://www.amazon.es/dp/B07ZTCDY6R/?tag=tolees-21'
 descuento: '15.01'
-average: '27.8478034682082'
+average: '27.8014285714287'
 ---
 
 Está [Diswoe Mando para Nintendo Switch  Wireless Bluetooth Pro Controller Controlador Inalámbrico con Función Gyro Axis/Dual Shock y Turbo Mando Inalámbrico Compatible con Nintendo Switch/Lite](https://www.amazon.es/dp/B07ZTCDY6R/?tag=tolees-21) con 15.01 de descuento por 23.79 EUR (original: 27.99 EUR) en el siguiente enlace!
