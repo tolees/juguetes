@@ -28,9 +28,9 @@ Está [Nintendo - 3DS Miitopía](https://www.amazon.es/dp/B072LD6BYS/?tag=tolees
 
 ℹ️:
 
+- Los jugadores podrán traerse a sus personajes Mii de Miitomo o Tomodachi Life, o crear su propio equipo Mii en el juego
 - Este juego combina un tono desenfadado con elementos tradicionales de estrategia RPG
 - Miitopia: Forma equipo con tu Mii y los Mii de tus amigos para explorar el mundo personalizado de Miitopia
-- Los jugadores podrán traerse a sus personajes Mii de Miitomo o Tomodachi Life, o crear su propio equipo Mii en el juego
 - Asigna diversos roles a los personajes Mii y disfruta viéndolos desenvolverse en escenas mientras colaboran para derrotar al señor oscuro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072LD6BYS/?tag=tolees-21)
