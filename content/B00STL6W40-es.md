@@ -29,8 +29,8 @@ Tienes [Hasbro Gaming Juego de mesa Operación  Hasbro B2176B09](https://www.ama
 ℹ️:
 
 - El jugador que quite más piezas del cuerpo gana
-- El juego clásico de Operación desafía a los niños a quitar las piezas sin hacer sonar la alarma
 - La nariz se ilumina cuando las pinzas tocan los laterales
+- El juego clásico de Operación desafía a los niños a quitar las piezas sin hacer sonar la alarma
 - Incluye 13 piezas del cuerpo divertidas
 - Los niños pueden jugar solos o con amigos
 

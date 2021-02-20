@@ -29,9 +29,9 @@ Ahora mismo tienes [Tribu de Sinvergüenzas 🤣 WASA 🤣 – Juego de Mesa - J
 🔎:
 
 - 💬 WASA - Si con los Retos y el Oráculo ya te duele la tripa de reir, prepárate para los desafíos digitales. ¨Señoras y señores, que comiencen los juegos¨
-- 🔥 FIESTAS - El juego perfecto para empezar la noche antes de salir \. Geniales regalos para amigas originales, regalos originales para hombre.
-- 🧙 ORÁCULO - Os tocará iluminar a los demás con vuestra sabiduría de vida contestando a preguntas tan profundas como absurdas, pero sobre todo divertidas.
-- 🌍ECOFRIENDLY - Diseñado y fabricado en España con papel de bosques gestionados de forma sostenible.
 - 🔥 RETOS - Participaréis en desafíos de todo tipo, pero cargaditos de buen rollo que harán que se os salten las lágrimas de tanto reir.
+- 🔥 FIESTAS - El juego perfecto para empezar la noche antes de salir \. Geniales regalos para amigas originales, regalos originales para hombre.
+- 🌍ECOFRIENDLY - Diseñado y fabricado en España con papel de bosques gestionados de forma sostenible.
+- 🧙 ORÁCULO - Os tocará iluminar a los demás con vuestra sabiduría de vida contestando a preguntas tan profundas como absurdas, pero sobre todo divertidas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BTW5R2B/?tag=tolees-21)
