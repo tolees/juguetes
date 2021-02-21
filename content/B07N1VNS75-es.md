@@ -29,8 +29,8 @@ Tienes [Pinypon - Happy Pin  con 5 figuritas  niños y niñas de 4 a 8 años  Fa
 ℹ️:
 
 - Contiene 5 figuras en total; incluye 3 figuras de Pinypon de 7 cm y 2 bebés
-- Pack sopresa de Pinypon, en una bonita caja, ideal para regalar
 - El juguete incluye 3 figuras de Pinypon; 2 bebés de Pinypon y otros accesorios pequeños
+- Pack sopresa de Pinypon, en una bonita caja, ideal para regalar
 - Las figuras de Pinypon; además de ser muy divertidas; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendadas a partir de 4 años
 - Hay espacio en la caja para escribir el nombre del niño o de de la niña
 
