@@ -28,9 +28,9 @@ Ahora mismo tienes [Pinypon- CuboMix and Match de 10 Figuras niñas a Partir de 
 
 🔎:
 
-- Incluye más de 90 accesorios; que permiten crear un sinfín de diferentes combinaciones
-- Hay 9 figuras de chicas y 1 de chico
 - Cubo grande con 10 diferentes figuras de pinypon
+- Hay 9 figuras de chicas y 1 de chico
 - Las figuras vienen desmontadas para poder crear tus figuras pinypon a tu gusto
+- Incluye más de 90 accesorios; que permiten crear un sinfín de diferentes combinaciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0837DYPRS/?tag=tolees-21)
