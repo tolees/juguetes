@@ -28,9 +28,9 @@ En este momento está [Lost Kitties gatito caja sorpresa colección individual  
 
 🔎:
 
-- Gatitos diferentes para coleccionar
-- Cada gatito viene con una plastilina y dos accesorios
-- Apto para niños a partir de 5 años
 - Los gatos están empaquetados en un divertido cartón de leche
+- Gatitos diferentes para coleccionar
+- Apto para niños a partir de 5 años
+- Cada gatito viene con una plastilina y dos accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BJF8VCS/?tag=tolees-21)
