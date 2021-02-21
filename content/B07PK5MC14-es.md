@@ -2,7 +2,7 @@
 layout: post
 title: 'Bananas- Megabananas  Multicolor  Bandai al 41.94 % de rebaja'
 date: 2020-02-23 13:53:09
-image: 'https://m.media-amazon.com/images/I/51m3vJ-Q-nL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51m3vJ-Q-nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 Tienes [Bananas- Megabananas  Multicolor  Bandai BB00778 ](https://www.amazon.es/dp/B07PK5MC14/?tag=tolees-21) con precio final de  25.0 EUR (original: 43.06 EUR) (41.94 %  de rebaja) aqui!
 
-[![Bananas- Megabananas  Multicolor  Bandai](https://m.media-amazon.com/images/I/51m3vJ-Q-nL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PK5MC14/?tag=tolees-21)
+[![Bananas- Megabananas  Multicolor  Bandai](https://m.media-amazon.com/images/I/51m3vJ-Q-nL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PK5MC14/?tag=tolees-21)
 
 🔎:
 

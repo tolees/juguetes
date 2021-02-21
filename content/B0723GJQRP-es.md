@@ -2,7 +2,7 @@
 layout: post
 title: 'Transformers C2028EU50 - Peluche de evol con un 30.64 % de descuento'
 date: 2020-05-08 11:45:33
-image: 'https://m.media-amazon.com/images/I/51Y9yUUdWAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Y9yUUdWAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.0'
 
 En este momento está [Transformers C2028EU50 - Peluche de evolución](https://www.amazon.es/dp/B0723GJQRP/?tag=tolees-21) a 28.0 EUR (original: 40.37 EUR) (30.64 %  de descuento) en el siguiente enlace!
 
-[![Transformers C2028EU50 - Peluche de evol](https://m.media-amazon.com/images/I/51Y9yUUdWAL._SL200_.jpg)](https://www.amazon.es/dp/B0723GJQRP/?tag=tolees-21)
+[![Transformers C2028EU50 - Peluche de evol](https://m.media-amazon.com/images/I/51Y9yUUdWAL._SL400_.jpg)](https://www.amazon.es/dp/B0723GJQRP/?tag=tolees-21)
 
 🔎:
 

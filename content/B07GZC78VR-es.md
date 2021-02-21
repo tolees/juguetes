@@ -2,7 +2,7 @@
 layout: post
 title: 'Vampirina - Pack Deluxe figuras Serie 2  con un 57.88 % de descuento'
 date: 2020-01-27 15:31:29
-image: 'https://m.media-amazon.com/images/I/51POEi8a0cL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51POEi8a0cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.012'
 
 En este momento está [Vampirina - Pack Deluxe figuras Serie 2  Bandai 78027 ](https://www.amazon.es/dp/B07GZC78VR/?tag=tolees-21) a 14.99 EUR (original: 35.59 EUR) (57.88 %  de descuento) en el siguiente enlace!
 
-[![Vampirina - Pack Deluxe figuras Serie 2 ](https://m.media-amazon.com/images/I/51POEi8a0cL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GZC78VR/?tag=tolees-21)
+[![Vampirina - Pack Deluxe figuras Serie 2 ](https://m.media-amazon.com/images/I/51POEi8a0cL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GZC78VR/?tag=tolees-21)
 
 🔎:
 

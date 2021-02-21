@@ -2,7 +2,7 @@
 layout: post
 title: 'Molyflower Tableta de Dibujo LCD para ni al 34.99 % de descuento'
 date: 2020-08-27 09:01:19
-image: 'https://m.media-amazon.com/images/I/41lBROO1iAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lBROO1iAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.62'
 
 Está [Molyflower Tableta de Dibujo LCD para niños Magic Pad Juguetes educativos Bloqueo de diseño Anti-borrado Pintura Tablero de Dibujo para niños - Azul](https://www.amazon.es/dp/B08CGYYQT6/?tag=tolees-21) con 34.99 de descuento por 20.62 EUR (original: 31.72 EUR) en el siguiente enlace!
 
-[![Molyflower Tableta de Dibujo LCD para ni](https://m.media-amazon.com/images/I/41lBROO1iAL._SL200_.jpg)](https://www.amazon.es/dp/B08CGYYQT6/?tag=tolees-21)
+[![Molyflower Tableta de Dibujo LCD para ni](https://m.media-amazon.com/images/I/41lBROO1iAL._SL400_.jpg)](https://www.amazon.es/dp/B08CGYYQT6/?tag=tolees-21)
 
 ℹ️:
 

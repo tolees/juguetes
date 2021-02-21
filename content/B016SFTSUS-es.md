@@ -2,7 +2,7 @@
 layout: post
 title: 'Mantel de fieltro  rompecabezas  colorid al 36.76 % de descuento'
 date: 2020-04-14 16:34:02
-image: 'https://m.media-amazon.com/images/I/41w-VbYFrzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w-VbYFrzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.74'
 
 Está [Mantel de fieltro  rompecabezas  colorido](https://www.amazon.es/dp/B016SFTSUS/?tag=tolees-21) con 36.76 de descuento por 8.74 EUR (original: 13.82 EUR) en el siguiente enlace!
 
-[![Mantel de fieltro  rompecabezas  colorid](https://m.media-amazon.com/images/I/41w-VbYFrzL._SL200_.jpg)](https://www.amazon.es/dp/B016SFTSUS/?tag=tolees-21)
+[![Mantel de fieltro  rompecabezas  colorid](https://m.media-amazon.com/images/I/41w-VbYFrzL._SL400_.jpg)](https://www.amazon.es/dp/B016SFTSUS/?tag=tolees-21)
 
 ℹ️:
 

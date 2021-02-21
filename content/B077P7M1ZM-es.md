@@ -2,7 +2,7 @@
 layout: post
 title: 'Fisher-Price - Mi Primer Cubo Fidget  Ju al 33.42 % de descuento'
 date: 2020-08-21 09:36:45
-image: 'https://m.media-amazon.com/images/I/41huWnFs0kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41huWnFs0kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Está [Fisher-Price - Mi Primer Cubo Fidget  Juguete de Aprendizaje bebé  Mattel FWP34 ](https://www.amazon.es/dp/B077P7M1ZM/?tag=tolees-21) con 33.42 de descuento por 7.99 EUR (original: 12.0 EUR) en el siguiente enlace!
 
-[![Fisher-Price - Mi Primer Cubo Fidget  Ju](https://m.media-amazon.com/images/I/41huWnFs0kL._SL200_.jpg)](https://www.amazon.es/dp/B077P7M1ZM/?tag=tolees-21)
+[![Fisher-Price - Mi Primer Cubo Fidget  Ju](https://m.media-amazon.com/images/I/41huWnFs0kL._SL400_.jpg)](https://www.amazon.es/dp/B077P7M1ZM/?tag=tolees-21)
 
 ℹ️:
 

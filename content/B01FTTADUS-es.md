@@ -2,7 +2,7 @@
 layout: post
 title: '40.5 * 26 * 22cm  Canasta de almacenamie al 42.37 % de descuento'
 date: 2020-08-27 13:31:15
-image: 'https://m.media-amazon.com/images/I/51HMxbvQZWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HMxbvQZWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Está [40.5 * 26 * 22cm  Canasta de almacenamiento plegable con asas de algodón con asas  Contenedor de almacenamiento para juguetes  revistas  Cosméticos  etc.  azul](https://www.amazon.es/dp/B01FTTADUS/?tag=tolees-21) con 42.37 de descuento por 12.99 EUR (original: 22.54 EUR) en el siguiente enlace!
 
-[![40.5 * 26 * 22cm  Canasta de almacenamie](https://m.media-amazon.com/images/I/51HMxbvQZWL._SL200_.jpg)](https://www.amazon.es/dp/B01FTTADUS/?tag=tolees-21)
+[![40.5 * 26 * 22cm  Canasta de almacenamie](https://m.media-amazon.com/images/I/51HMxbvQZWL._SL400_.jpg)](https://www.amazon.es/dp/B01FTTADUS/?tag=tolees-21)
 
 ℹ️:
 

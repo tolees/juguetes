@@ -2,7 +2,7 @@
 layout: post
 title: 'Caminata y Canto eléctrico Unicornio de  al 48.24 % de rebaja'
 date: 2020-04-28 11:02:30
-image: 'https://m.media-amazon.com/images/I/41dE8ZkIWCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dE8ZkIWCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [Caminata y Canto eléctrico Unicornio de Peluche de Juguete de Peluche Pegasus Pony Toys 35 cm Música Unicornio de Juguete para niños  White ](https://www.amazon.es/dp/B07TXRHMK9/?tag=tolees-21) con precio final de  14.99 EUR (original: 28.96 EUR) (48.24 %  de rebaja) aqui!
 
-[![Caminata y Canto eléctrico Unicornio de ](https://m.media-amazon.com/images/I/41dE8ZkIWCL._SL200_.jpg)](https://www.amazon.es/dp/B07TXRHMK9/?tag=tolees-21)
+[![Caminata y Canto eléctrico Unicornio de ](https://m.media-amazon.com/images/I/41dE8ZkIWCL._SL400_.jpg)](https://www.amazon.es/dp/B07TXRHMK9/?tag=tolees-21)
 
 🔎:
 

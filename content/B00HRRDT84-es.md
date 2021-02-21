@@ -2,7 +2,7 @@
 layout: post
 title: 'SYLVANIAN FAMILIES Venta de zumos  Epoch al 49.81 % de rebaja'
 date: 2020-04-07 05:15:54
-image: 'https://m.media-amazon.com/images/I/515Pm+piDoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515Pm+piDoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.17'
 
 Tienes [SYLVANIAN FAMILIES Venta de zumos  Epoch para Imaginar 4478 ](https://www.amazon.es/dp/B00HRRDT84/?tag=tolees-21) con precio final de  12.17 EUR (original: 24.25 EUR) (49.81 %  de rebaja) aqui!
 
-[![SYLVANIAN FAMILIES Venta de zumos  Epoch](https://m.media-amazon.com/images/I/515Pm+piDoL._SL200_.jpg)](https://www.amazon.es/dp/B00HRRDT84/?tag=tolees-21)
+[![SYLVANIAN FAMILIES Venta de zumos  Epoch](https://m.media-amazon.com/images/I/515Pm+piDoL._SL400_.jpg)](https://www.amazon.es/dp/B00HRRDT84/?tag=tolees-21)
 
 🔎:
 

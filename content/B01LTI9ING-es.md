@@ -2,7 +2,7 @@
 layout: post
 title: 'Pinypon- Figuras  Color Pirata Gorro Azu al 28.20 % de rebaja'
 date: 2020-04-16 17:54:06
-image: 'https://m.media-amazon.com/images/I/61Q-Pkeq9SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Q-Pkeq9SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.672857142857143'
 
 Tienes [Pinypon- Figuras  Color Pirata Gorro Azul  Miscelanea  Famosa 13363 ](https://www.amazon.es/dp/B01LTI9ING/?tag=tolees-21) con precio final de  4.99 EUR (original: 6.95 EUR) (28.20 %  de rebaja) aqui!
 
-[![Pinypon- Figuras  Color Pirata Gorro Azu](https://m.media-amazon.com/images/I/61Q-Pkeq9SL._SL200_.jpg)](https://www.amazon.es/dp/B01LTI9ING/?tag=tolees-21)
+[![Pinypon- Figuras  Color Pirata Gorro Azu](https://m.media-amazon.com/images/I/61Q-Pkeq9SL._SL400_.jpg)](https://www.amazon.es/dp/B01LTI9ING/?tag=tolees-21)
 
 🔎:
 

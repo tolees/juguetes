@@ -2,7 +2,7 @@
 layout: post
 title: 'Justice League Figura Manta Negra  15 cm al 62.48 % de descuento'
 date: 2020-05-28 19:10:39
-image: 'https://m.media-amazon.com/images/I/412aZkAUDlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412aZkAUDlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.0'
 
 Ahora mismo tienes [Justice League Figura Manta Negra  15 cm  Mattel Fwx62 ](https://www.amazon.es/dp/B079KNBT7S/?tag=tolees-21) a 6.0 EUR (original: 15.99 EUR) (62.48 %  de descuento) en el siguiente enlace!
 
-[![Justice League Figura Manta Negra  15 cm](https://m.media-amazon.com/images/I/412aZkAUDlL._SL200_.jpg)](https://www.amazon.es/dp/B079KNBT7S/?tag=tolees-21)
+[![Justice League Figura Manta Negra  15 cm](https://m.media-amazon.com/images/I/412aZkAUDlL._SL400_.jpg)](https://www.amazon.es/dp/B079KNBT7S/?tag=tolees-21)
 
 🔎:
 

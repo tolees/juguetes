@@ -2,7 +2,7 @@
 layout: post
 title: 'Alamor 24V 36V 48V Agarre Del Acelerador al 23.12 % de rebaja'
 date: 2020-05-29 05:27:58
-image: 'https://m.media-amazon.com/images/I/51dYO0egcdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dYO0egcdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.88'
 
 Tienes [Alamor 24V 36V 48V Agarre Del Acelerador Giratorio 7/8 Pulgadas Manillar 3 Cables Electirc Scooter Bicicleta](https://www.amazon.es/dp/B077X84HGK/?tag=tolees-21) con precio final de  7.88 EUR (original: 10.25 EUR) (23.12 %  de rebaja) aqui!
 
-[![Alamor 24V 36V 48V Agarre Del Acelerador](https://m.media-amazon.com/images/I/51dYO0egcdL._SL200_.jpg)](https://www.amazon.es/dp/B077X84HGK/?tag=tolees-21)
+[![Alamor 24V 36V 48V Agarre Del Acelerador](https://m.media-amazon.com/images/I/51dYO0egcdL._SL400_.jpg)](https://www.amazon.es/dp/B077X84HGK/?tag=tolees-21)
 
 🔎:
 

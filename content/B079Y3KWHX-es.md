@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego Star Wars - Bañador para niño - Leg con un 55.71 % de descuento'
 date: 2020-01-11 06:19:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bFYL9QE7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bFYL9QE7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.95'
 
 En este momento está [Lego Star Wars - Bañador para niño - Lego Star Wars - 8 - 9 Años](https://www.amazon.es/dp/B079Y3KWHX/?tag=tolees-21) a 7.95 EUR (original: 17.95 EUR) (55.71 %  de descuento) en el siguiente enlace!
 
-[![Lego Star Wars - Bañador para niño - Leg](https://images-eu.ssl-images-amazon.com/images/I/51bFYL9QE7L._SL200_.jpg)](https://www.amazon.es/dp/B079Y3KWHX/?tag=tolees-21)
+[![Lego Star Wars - Bañador para niño - Leg](https://images-eu.ssl-images-amazon.com/images/I/51bFYL9QE7L._SL400_.jpg)](https://www.amazon.es/dp/B079Y3KWHX/?tag=tolees-21)
 
 🔎:
 

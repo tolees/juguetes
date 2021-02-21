@@ -2,7 +2,7 @@
 layout: post
 title: 'Bizak- Figuras  Tomy 30699202  al 17.48 % de rebaja'
 date: 2020-07-13 11:35:00
-image: 'https://m.media-amazon.com/images/I/41lFrk3giYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lFrk3giYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Tienes [Bizak- Figuras  Tomy 30699202 ](https://www.amazon.es/dp/B01JA03S9A/?tag=tolees-21) con precio final de  32.99 EUR (original: 39.98 EUR) (17.48 %  de rebaja) aqui!
 
-[![Bizak- Figuras  Tomy 30699202 ](https://m.media-amazon.com/images/I/41lFrk3giYL._SL200_.jpg)](https://www.amazon.es/dp/B01JA03S9A/?tag=tolees-21)
+[![Bizak- Figuras  Tomy 30699202 ](https://m.media-amazon.com/images/I/41lFrk3giYL._SL400_.jpg)](https://www.amazon.es/dp/B01JA03S9A/?tag=tolees-21)
 
 🔎:
 

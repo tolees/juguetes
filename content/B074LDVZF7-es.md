@@ -2,7 +2,7 @@
 layout: post
 title: 'CubicFun Puzzle 3D París Torre Eiffel Fr al 23.09 % de descuento'
 date: 2020-08-10 07:55:57
-image: 'https://m.media-amazon.com/images/I/41+HG-tkprL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+HG-tkprL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [CubicFun Puzzle 3D París Torre Eiffel Francia Rompecabezas 3D DIY Construye tu Propio Modelo  39 Piezas](https://www.amazon.es/dp/B074LDVZF7/?tag=tolees-21) a 9.99 EUR (original: 12.99 EUR) (23.09 %  de descuento) en el siguiente enlace!
 
-[![CubicFun Puzzle 3D París Torre Eiffel Fr](https://m.media-amazon.com/images/I/41+HG-tkprL._SL200_.jpg)](https://www.amazon.es/dp/B074LDVZF7/?tag=tolees-21)
+[![CubicFun Puzzle 3D París Torre Eiffel Fr](https://m.media-amazon.com/images/I/41+HG-tkprL._SL400_.jpg)](https://www.amazon.es/dp/B074LDVZF7/?tag=tolees-21)
 
 🔎:
 

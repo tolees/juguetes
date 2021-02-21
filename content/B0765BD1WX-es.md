@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Juniors 4+ City - Gran Aeropuerto d al 28.71 % de descuento'
 date: 2020-03-17 10:54:27
-image: 'https://m.media-amazon.com/images/I/51GhIVy6M6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GhIVy6M6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.483333333333334'
 
 Está [LEGO Juniors 4+ City - Gran Aeropuerto de la Ciudad  Juguete de Construcción con Aviones de Colores  Coches  Vehículos y Minifiguras  10764 ](https://www.amazon.es/dp/B0765BD1WX/?tag=tolees-21) con 28.71 de descuento por 39.2 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![LEGO Juniors 4+ City - Gran Aeropuerto d](https://m.media-amazon.com/images/I/51GhIVy6M6L._SL200_.jpg)](https://www.amazon.es/dp/B0765BD1WX/?tag=tolees-21)
+[![LEGO Juniors 4+ City - Gran Aeropuerto d](https://m.media-amazon.com/images/I/51GhIVy6M6L._SL400_.jpg)](https://www.amazon.es/dp/B0765BD1WX/?tag=tolees-21)
 
 ℹ️:
 

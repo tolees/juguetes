@@ -2,7 +2,7 @@
 layout: post
 title: 'Barbie Muñeca Chelsea y su tren de masco al 22.18 % de rebaja'
 date: 2020-09-10 19:40:38
-image: 'https://m.media-amazon.com/images/I/41Jkj+AkLUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jkj+AkLUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.89'
 
 Tienes [Barbie Muñeca Chelsea y su tren de mascotas  accesorios muñeca  Mattel FRL86 ](https://www.amazon.es/dp/B079JLPZYN/?tag=tolees-21) con precio final de  17.89 EUR (original: 22.99 EUR) (22.18 %  de rebaja) aqui!
 
-[![Barbie Muñeca Chelsea y su tren de masco](https://m.media-amazon.com/images/I/41Jkj+AkLUL._SL200_.jpg)](https://www.amazon.es/dp/B079JLPZYN/?tag=tolees-21)
+[![Barbie Muñeca Chelsea y su tren de masco](https://m.media-amazon.com/images/I/41Jkj+AkLUL._SL400_.jpg)](https://www.amazon.es/dp/B079JLPZYN/?tag=tolees-21)
 
 🔎:
 

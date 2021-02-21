@@ -2,7 +2,7 @@
 layout: post
 title: 'Tecnovita by BH Open&GO YF90 Bicicleta e con un 17.25 % de descuento'
 date: 2020-09-10 16:50:56
-image: 'https://m.media-amazon.com/images/I/51BrtaDJqRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BrtaDJqRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '137.765'
 
 En este momento está [Tecnovita by BH Open&GO YF90 Bicicleta estática Plegable. Sistema de Freno magnético. Volante de inercia Equivalente a 8kg. Monitor Easy Start](https://www.amazon.es/dp/B008LOCWVW/?tag=tolees-21) a 153.08 EUR (original: 185.0 EUR) (17.25 %  de descuento) en el siguiente enlace!
 
-[![Tecnovita by BH Open&GO YF90 Bicicleta e](https://m.media-amazon.com/images/I/51BrtaDJqRL._SL200_.jpg)](https://www.amazon.es/dp/B008LOCWVW/?tag=tolees-21)
+[![Tecnovita by BH Open&GO YF90 Bicicleta e](https://m.media-amazon.com/images/I/51BrtaDJqRL._SL400_.jpg)](https://www.amazon.es/dp/B008LOCWVW/?tag=tolees-21)
 
 🔎:
 

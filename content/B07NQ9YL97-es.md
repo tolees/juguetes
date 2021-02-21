@@ -2,7 +2,7 @@
 layout: post
 title: 'Barbie National Geographic Quiero Ser Fo al 25.01 % de descuento'
 date: 2020-06-10 06:09:15
-image: 'https://m.media-amazon.com/images/I/41YvK7miKoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YvK7miKoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.975000000000001'
 
 Ahora mismo tienes [Barbie National Geographic Quiero Ser Fotógrafa  muñeca con accesorios  Mattel GDM46 ](https://www.amazon.es/dp/B07NQ9YL97/?tag=tolees-21) a 12.74 EUR (original: 16.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Barbie National Geographic Quiero Ser Fo](https://m.media-amazon.com/images/I/41YvK7miKoL._SL200_.jpg)](https://www.amazon.es/dp/B07NQ9YL97/?tag=tolees-21)
+[![Barbie National Geographic Quiero Ser Fo](https://m.media-amazon.com/images/I/41YvK7miKoL._SL400_.jpg)](https://www.amazon.es/dp/B07NQ9YL97/?tag=tolees-21)
 
 🔎:
 

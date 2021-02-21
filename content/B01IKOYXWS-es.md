@@ -2,7 +2,7 @@
 layout: post
 title: 'Cars 3- Coche Crazy Deluxe Ambulance  Ma al 22.26 % de descuento'
 date: 2020-02-01 19:47:56
-image: 'https://m.media-amazon.com/images/I/51KnCL3EqcL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KnCL3EqcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.43'
 
 Está [Cars 3- Coche Crazy Deluxe Ambulance  Mattel DYB22 ](https://www.amazon.es/dp/B01IKOYXWS/?tag=tolees-21) con 22.26 de descuento por 12.43 EUR (original: 15.99 EUR) en el siguiente enlace!
 
-[![Cars 3- Coche Crazy Deluxe Ambulance  Ma](https://m.media-amazon.com/images/I/51KnCL3EqcL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01IKOYXWS/?tag=tolees-21)
+[![Cars 3- Coche Crazy Deluxe Ambulance  Ma](https://m.media-amazon.com/images/I/51KnCL3EqcL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01IKOYXWS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fisher-Price Cebra activity  juguete col al 24.10 % de descuento'
 date: 2020-04-08 22:05:13
-image: 'https://m.media-amazon.com/images/I/51s5-nPDQsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51s5-nPDQsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.149999999999999'
 
 Ahora mismo tienes [Fisher-Price Cebra activity  juguete colgante para bebé recién nacido  Mattel FGJ11 ](https://www.amazon.es/dp/B077J2CWHS/?tag=tolees-21) a 9.1 EUR (original: 11.99 EUR) (24.10 %  de descuento) en el siguiente enlace!
 
-[![Fisher-Price Cebra activity  juguete col](https://m.media-amazon.com/images/I/51s5-nPDQsL._SL200_.jpg)](https://www.amazon.es/dp/B077J2CWHS/?tag=tolees-21)
+[![Fisher-Price Cebra activity  juguete col](https://m.media-amazon.com/images/I/51s5-nPDQsL._SL400_.jpg)](https://www.amazon.es/dp/B077J2CWHS/?tag=tolees-21)
 
 🔎:
 

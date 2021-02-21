@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars - Juego de Habilidad Operación al 28.57 % de descuento'
 date: 2020-08-10 21:03:01
-image: 'https://m.media-amazon.com/images/I/51TtPF3spZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TtPF3spZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.0'
 
 Está [Star Wars - Juego de Habilidad Operación  Hasbro ](https://www.amazon.es/dp/B01IFHV616/?tag=tolees-21) con 28.57 de descuento por 10.0 EUR (original: 14.0 EUR) en el siguiente enlace!
 
-[![Star Wars - Juego de Habilidad Operación](https://m.media-amazon.com/images/I/51TtPF3spZL._SL200_.jpg)](https://www.amazon.es/dp/B01IFHV616/?tag=tolees-21)
+[![Star Wars - Juego de Habilidad Operación](https://m.media-amazon.com/images/I/51TtPF3spZL._SL400_.jpg)](https://www.amazon.es/dp/B01IFHV616/?tag=tolees-21)
 
 ℹ️:
 

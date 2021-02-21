@@ -2,7 +2,7 @@
 layout: post
 title: 'Educa Borras Puzzle Aprendo El Abecedari al 29.75 % de descuento'
 date: 2020-08-16 21:37:18
-image: 'https://m.media-amazon.com/images/I/51YWlaodYLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YWlaodYLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.91375'
 
 Ahora mismo tienes [Educa Borras Puzzle Aprendo El Abecedario Peppa Pig  15652    color/modelo surtido](https://www.amazon.es/dp/B00BHAHCG2/?tag=tolees-21) a 6.99 EUR (original: 9.95 EUR) (29.75 %  de descuento) en el siguiente enlace!
 
-[![Educa Borras Puzzle Aprendo El Abecedari](https://m.media-amazon.com/images/I/51YWlaodYLL._SL200_.jpg)](https://www.amazon.es/dp/B00BHAHCG2/?tag=tolees-21)
+[![Educa Borras Puzzle Aprendo El Abecedari](https://m.media-amazon.com/images/I/51YWlaodYLL._SL400_.jpg)](https://www.amazon.es/dp/B00BHAHCG2/?tag=tolees-21)
 
 🔎:
 

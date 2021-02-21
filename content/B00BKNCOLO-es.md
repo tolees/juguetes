@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 26.40 % en Geomag- Classic Glitter Construcciones m'
 date: 2020-05-27 08:50:27
-image: 'https://m.media-amazon.com/images/I/61ScUV3tSWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61ScUV3tSWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.729999999999997'
 
 Tienes [Geomag- Classic Glitter Construcciones magnéticas y Juegos educativos  Multicolor  44 Piezas  532 ](https://www.amazon.es/dp/B00BKNCOLO/?tag=tolees-21) con un 26.40 % de descuento con precio de oferta de 20.99 EUR (original: 28.52 EUR) en el siguiente enlace!
 
-[![Geomag- Classic Glitter Construcciones m](https://m.media-amazon.com/images/I/61ScUV3tSWL._SL200_.jpg)](https://www.amazon.es/dp/B00BKNCOLO/?tag=tolees-21)
+[![Geomag- Classic Glitter Construcciones m](https://m.media-amazon.com/images/I/61ScUV3tSWL._SL400_.jpg)](https://www.amazon.es/dp/B00BKNCOLO/?tag=tolees-21)
 
 ℹ️:
 

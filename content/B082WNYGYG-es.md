@@ -2,7 +2,7 @@
 layout: post
 title: 'Playkin FASTER - Moto electrica niños ba al 57.28 % de descuento'
 date: 2020-10-01 15:33:11
-image: 'https://m.media-amazon.com/images/I/41CiY8Zq21L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CiY8Zq21L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.99'
 
 Ahora mismo tienes [Playkin FASTER - Moto electrica niños bateria 6V recargable con luces y musica +3 años juguetes infantiles triciclo correpasillos](https://www.amazon.es/dp/B082WNYGYG/?tag=tolees-21) a 46.99 EUR (original: 109.99 EUR) (57.28 %  de descuento) en el siguiente enlace!
 
-[![Playkin FASTER - Moto electrica niños ba](https://m.media-amazon.com/images/I/41CiY8Zq21L._SL200_.jpg)](https://www.amazon.es/dp/B082WNYGYG/?tag=tolees-21)
+[![Playkin FASTER - Moto electrica niños ba](https://m.media-amazon.com/images/I/41CiY8Zq21L._SL400_.jpg)](https://www.amazon.es/dp/B082WNYGYG/?tag=tolees-21)
 
 🔎:
 

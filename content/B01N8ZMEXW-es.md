@@ -2,7 +2,7 @@
 layout: post
 title: 'MEISHINE® 3x3x3 Mini Cubo Mágico Intelig con un 33.44 % de descuento'
 date: 2020-09-04 12:02:34
-image: 'https://m.media-amazon.com/images/I/41bcc592h+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bcc592h+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.8266666666666667'
 
 En este momento está [MEISHINE® 3x3x3 Mini Cubo Mágico Inteligencia Juego de Puzzle Cube Magic Cube Stickerless](https://www.amazon.es/dp/B01N8ZMEXW/?tag=tolees-21) a 1.99 EUR (original: 2.99 EUR) (33.44 %  de descuento) en el siguiente enlace!
 
-[![MEISHINE® 3x3x3 Mini Cubo Mágico Intelig](https://m.media-amazon.com/images/I/41bcc592h+L._SL200_.jpg)](https://www.amazon.es/dp/B01N8ZMEXW/?tag=tolees-21)
+[![MEISHINE® 3x3x3 Mini Cubo Mágico Intelig](https://m.media-amazon.com/images/I/41bcc592h+L._SL400_.jpg)](https://www.amazon.es/dp/B01N8ZMEXW/?tag=tolees-21)
 
 🔎:
 

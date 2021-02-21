@@ -2,7 +2,7 @@
 layout: post
 title: 'Prodigiosa: Las aventuras de Ladybug - P al 44.98 % de descuento'
 date: 2020-01-21 11:50:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518waYkj3KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518waYkj3KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.57'
 
 Ahora mismo tienes [Prodigiosa: Las aventuras de Ladybug - Playset con acción  Bandai 39850 ](https://www.amazon.es/dp/B01MQYWK27/?tag=tolees-21) a 13.75 EUR (original: 24.99 EUR) (44.98 %  de descuento) en el siguiente enlace!
 
-[![Prodigiosa: Las aventuras de Ladybug - P](https://images-eu.ssl-images-amazon.com/images/I/518waYkj3KL._SL200_.jpg)](https://www.amazon.es/dp/B01MQYWK27/?tag=tolees-21)
+[![Prodigiosa: Las aventuras de Ladybug - P](https://images-eu.ssl-images-amazon.com/images/I/518waYkj3KL._SL400_.jpg)](https://www.amazon.es/dp/B01MQYWK27/?tag=tolees-21)
 
 🔎:
 

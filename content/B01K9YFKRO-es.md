@@ -2,7 +2,7 @@
 layout: post
 title: 'Cefa Toys- Equipo Profesional de Geólogo al 40.01 % de rebaja'
 date: 2020-04-16 00:27:48
-image: 'https://m.media-amazon.com/images/I/51uhp9Pf9OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uhp9Pf9OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Cefa Toys- Equipo Profesional de Geólogo Stream  Multicolor  única  21833 ](https://www.amazon.es/dp/B01K9YFKRO/?tag=tolees-21) con precio final de  29.99 EUR (original: 49.99 EUR) (40.01 %  de rebaja) aqui!
 
-[![Cefa Toys- Equipo Profesional de Geólogo](https://m.media-amazon.com/images/I/51uhp9Pf9OL._SL200_.jpg)](https://www.amazon.es/dp/B01K9YFKRO/?tag=tolees-21)
+[![Cefa Toys- Equipo Profesional de Geólogo](https://m.media-amazon.com/images/I/51uhp9Pf9OL._SL400_.jpg)](https://www.amazon.es/dp/B01K9YFKRO/?tag=tolees-21)
 
 🔎:
 

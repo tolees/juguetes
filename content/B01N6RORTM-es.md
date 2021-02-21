@@ -2,7 +2,7 @@
 layout: post
 title: 'Thule TH100090 Portabultos de Bicicleta  al 30.88 % de descuento'
 date: 2020-04-05 08:44:23
-image: 'https://m.media-amazon.com/images/I/41Ajmc9T8gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ajmc9T8gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.03999999999999'
 
 Está [Thule TH100090 Portabultos de Bicicleta  Unisex Adulto  Black  Talla Única](https://www.amazon.es/dp/B01N6RORTM/?tag=tolees-21) con 30.88 de descuento por 69.09 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Thule TH100090 Portabultos de Bicicleta ](https://m.media-amazon.com/images/I/41Ajmc9T8gL._SL200_.jpg)](https://www.amazon.es/dp/B01N6RORTM/?tag=tolees-21)
+[![Thule TH100090 Portabultos de Bicicleta ](https://m.media-amazon.com/images/I/41Ajmc9T8gL._SL400_.jpg)](https://www.amazon.es/dp/B01N6RORTM/?tag=tolees-21)
 
 ℹ️:
 

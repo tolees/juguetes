@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars: El Despertar De La Fuerz al 19.50 % de descuento'
 date: 2020-04-15 00:43:17
-image: 'https://m.media-amazon.com/images/I/51yyV-Bs+-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yyV-Bs+-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.31527777777778'
 
 Ahora mismo tienes [LEGO Star Wars: El Despertar De La Fuerza  Episodio 7 ](https://www.amazon.es/dp/B01BHO7OEC/?tag=tolees-21) a 13.5 EUR (original: 16.77 EUR) (19.50 %  de descuento) en el siguiente enlace!
 
-[![LEGO Star Wars: El Despertar De La Fuerz](https://m.media-amazon.com/images/I/51yyV-Bs+-L._SL200_.jpg)](https://www.amazon.es/dp/B01BHO7OEC/?tag=tolees-21)
+[![LEGO Star Wars: El Despertar De La Fuerz](https://m.media-amazon.com/images/I/51yyV-Bs+-L._SL400_.jpg)](https://www.amazon.es/dp/B01BHO7OEC/?tag=tolees-21)
 
 🔎:
 

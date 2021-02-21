@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyblade - Estadio Basico  Hasbro C0704E al 29.95 % de rebaja'
 date: 2020-05-11 09:43:24
-image: 'https://m.media-amazon.com/images/I/41okVrtRL4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41okVrtRL4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.5'
 
 Tienes [Beyblade - Estadio Basico  Hasbro C0704EU4 ](https://www.amazon.es/dp/B06WRN5J9N/?tag=tolees-21) con precio final de  10.5 EUR (original: 14.99 EUR) (29.95 %  de rebaja) aqui!
 
-[![Beyblade - Estadio Basico  Hasbro C0704E](https://m.media-amazon.com/images/I/41okVrtRL4L._SL200_.jpg)](https://www.amazon.es/dp/B06WRN5J9N/?tag=tolees-21)
+[![Beyblade - Estadio Basico  Hasbro C0704E](https://m.media-amazon.com/images/I/41okVrtRL4L._SL400_.jpg)](https://www.amazon.es/dp/B06WRN5J9N/?tag=tolees-21)
 
 🔎:
 

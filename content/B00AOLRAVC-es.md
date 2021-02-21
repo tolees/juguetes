@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 37.58 % en Michelin Dynamic Sport  700X23 - Cubiert'
 date: 2020-07-23 07:51:34
-image: 'https://m.media-amazon.com/images/I/41A7PyH-p2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A7PyH-p2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.84'
 
 Tienes [Michelin Dynamic Sport  700X23 - Cubierta de bicicleta  color negro](https://www.amazon.es/dp/B00AOLRAVC/?tag=tolees-21) con un 37.58 % de descuento con precio de oferta de 7.69 EUR (original: 12.32 EUR) en el siguiente enlace!
 
-[![Michelin Dynamic Sport  700X23 - Cubiert](https://m.media-amazon.com/images/I/41A7PyH-p2L._SL200_.jpg)](https://www.amazon.es/dp/B00AOLRAVC/?tag=tolees-21)
+[![Michelin Dynamic Sport  700X23 - Cubiert](https://m.media-amazon.com/images/I/41A7PyH-p2L._SL400_.jpg)](https://www.amazon.es/dp/B00AOLRAVC/?tag=tolees-21)
 
 ℹ️:
 

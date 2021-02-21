@@ -2,7 +2,7 @@
 layout: post
 title: 'KollyKolla Botella de Agua Acero Inoxida al 33.58 % de descuento'
 date: 2020-08-29 23:30:25
-image: 'https://m.media-amazon.com/images/I/51zqWgirriL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zqWgirriL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.79'
 
 Está [KollyKolla Botella de Agua Acero Inoxidable  Termo Sin BPA Ecológica  Botellas Termica Reutilizable Frascos Térmicos para Niños & Adultos  Deporte  Oficina   650ml Violeta Claro + Barbie Rosa ](https://www.amazon.es/dp/B07ZWW6Z6R/?tag=tolees-21) con 33.58 de descuento por 18.99 EUR (original: 28.59 EUR) en el siguiente enlace!
 
-[![KollyKolla Botella de Agua Acero Inoxida](https://m.media-amazon.com/images/I/51zqWgirriL._SL200_.jpg)](https://www.amazon.es/dp/B07ZWW6Z6R/?tag=tolees-21)
+[![KollyKolla Botella de Agua Acero Inoxida](https://m.media-amazon.com/images/I/51zqWgirriL._SL400_.jpg)](https://www.amazon.es/dp/B07ZWW6Z6R/?tag=tolees-21)
 
 ℹ️:
 

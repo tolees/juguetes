@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars- Rogue One Rebels BladeBuilder al 52.66 % de rebaja'
 date: 2020-03-01 09:32:29
-image: 'https://m.media-amazon.com/images/I/31aZB1yPjhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aZB1yPjhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Tienes [Star Wars- Rogue One Rebels BladeBuilders Kanan Jarrus-Sable láser Extensible  Multicolor  Talla única  Hasbro B7245AS0 ](https://www.amazon.es/dp/B019DAUVTW/?tag=tolees-21) con precio final de  8.99 EUR (original: 18.99 EUR) (52.66 %  de rebaja) aqui!
 
-[![Star Wars- Rogue One Rebels BladeBuilder](https://m.media-amazon.com/images/I/31aZB1yPjhL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B019DAUVTW/?tag=tolees-21)
+[![Star Wars- Rogue One Rebels BladeBuilder](https://m.media-amazon.com/images/I/31aZB1yPjhL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B019DAUVTW/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Polly Pocket Habitación Polly-Transforma al 49.99 % de rebaja'
 date: 2020-03-31 19:02:52
-image: 'https://m.media-amazon.com/images/I/51YmhyjfnAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YmhyjfnAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.0'
 
 Tienes [Polly Pocket Habitación Polly-Transformación  casa de muñecas  Mattel FRY98 ](https://www.amazon.es/dp/B079KGBYRD/?tag=tolees-21) con precio final de  20.0 EUR (original: 39.99 EUR) (49.99 %  de rebaja) aqui!
 
-[![Polly Pocket Habitación Polly-Transforma](https://m.media-amazon.com/images/I/51YmhyjfnAL._SL200_.jpg)](https://www.amazon.es/dp/B079KGBYRD/?tag=tolees-21)
+[![Polly Pocket Habitación Polly-Transforma](https://m.media-amazon.com/images/I/51YmhyjfnAL._SL400_.jpg)](https://www.amazon.es/dp/B079KGBYRD/?tag=tolees-21)
 
 🔎:
 

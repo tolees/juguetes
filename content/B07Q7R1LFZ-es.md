@@ -2,7 +2,7 @@
 layout: post
 title: 'Avengers Titan Hero FX Capitán América   al 16.67 % de descuento'
 date: 2020-10-09 15:20:43
-image: 'https://m.media-amazon.com/images/I/51GaScwtVWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GaScwtVWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Está [Avengers Titan Hero FX Capitán América  Hasbro E3301105 ](https://www.amazon.es/dp/B07Q7R1LFZ/?tag=tolees-21) con 16.67 de descuento por 24.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Avengers Titan Hero FX Capitán América  ](https://m.media-amazon.com/images/I/51GaScwtVWL._SL200_.jpg)](https://www.amazon.es/dp/B07Q7R1LFZ/?tag=tolees-21)
+[![Avengers Titan Hero FX Capitán América  ](https://m.media-amazon.com/images/I/51GaScwtVWL._SL400_.jpg)](https://www.amazon.es/dp/B07Q7R1LFZ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Eono by Amazon Árboles para Gatos rasguñ al 20.00 % de descuento'
 date: 2020-05-19 09:05:29
-image: 'https://m.media-amazon.com/images/I/412kX7TGKDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412kX7TGKDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.99'
 
 Ahora mismo tienes [Eono by Amazon Árboles para Gatos rasguña los Postes de sisal Natural con Bola de Juguetes para Dormir de Nido Gris](https://www.amazon.es/dp/B07MJFXVKD/?tag=tolees-21) a 55.99 EUR (original: 69.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![Eono by Amazon Árboles para Gatos rasguñ](https://m.media-amazon.com/images/I/412kX7TGKDL._SL200_.jpg)](https://www.amazon.es/dp/B07MJFXVKD/?tag=tolees-21)
+[![Eono by Amazon Árboles para Gatos rasguñ](https://m.media-amazon.com/images/I/412kX7TGKDL._SL400_.jpg)](https://www.amazon.es/dp/B07MJFXVKD/?tag=tolees-21)
 
 🔎:
 

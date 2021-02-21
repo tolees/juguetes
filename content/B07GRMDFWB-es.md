@@ -2,7 +2,7 @@
 layout: post
 title: 'Puzzle Super Mario Odyssey Fossil Falls  al 25.33 % de descuento'
 date: 2020-01-01 20:48:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51rnSJWVuiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rnSJWVuiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.285'
 
 Ahora mismo tienes [Puzzle Super Mario Odyssey Fossil Falls  500 Teile](https://www.amazon.es/dp/B07GRMDFWB/?tag=tolees-21) a 13.68 EUR (original: 18.32 EUR) (25.33 %  de descuento) en el siguiente enlace!
 
-[![Puzzle Super Mario Odyssey Fossil Falls ](https://images-eu.ssl-images-amazon.com/images/I/51rnSJWVuiL._SL200_.jpg)](https://www.amazon.es/dp/B07GRMDFWB/?tag=tolees-21)
+[![Puzzle Super Mario Odyssey Fossil Falls ](https://images-eu.ssl-images-amazon.com/images/I/51rnSJWVuiL._SL400_.jpg)](https://www.amazon.es/dp/B07GRMDFWB/?tag=tolees-21)
 
 🔎:
 

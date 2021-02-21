@@ -2,7 +2,7 @@
 layout: post
 title: 'Twitfish® - Mini Canasta Interior de Bal con un 25.01 % de descuento'
 date: 2020-04-22 20:32:21
-image: 'https://m.media-amazon.com/images/I/51R2RDG+4NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51R2RDG+4NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 En este momento está [Twitfish® - Mini Canasta Interior de Baloncesto - Novedad Divertido Juego de Juguetes para el hogar de Escritorio de Office  Mini Board  Ball & Pump Set para Todos los Fanáticos del Baloncesto](https://www.amazon.es/dp/B00UXQ38WS/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
-[![Twitfish® - Mini Canasta Interior de Bal](https://m.media-amazon.com/images/I/51R2RDG+4NL._SL200_.jpg)](https://www.amazon.es/dp/B00UXQ38WS/?tag=tolees-21)
+[![Twitfish® - Mini Canasta Interior de Bal](https://m.media-amazon.com/images/I/51R2RDG+4NL._SL400_.jpg)](https://www.amazon.es/dp/B00UXQ38WS/?tag=tolees-21)
 
 🔎:
 

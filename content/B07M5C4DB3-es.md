@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Gaming - Juego infantil Tiny Pong con un 57.10 % de descuento'
 date: 2020-10-11 16:24:01
-image: 'https://m.media-amazon.com/images/I/51d03dt5t0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51d03dt5t0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.05'
 
 En este momento está [Hasbro Gaming - Juego infantil Tiny Pong  Hasbro E3112EU4 ](https://www.amazon.es/dp/B07M5C4DB3/?tag=tolees-21) a 11.58 EUR (original: 26.99 EUR) (57.10 %  de descuento) en el siguiente enlace!
 
-[![Hasbro Gaming - Juego infantil Tiny Pong](https://m.media-amazon.com/images/I/51d03dt5t0L._SL200_.jpg)](https://www.amazon.es/dp/B07M5C4DB3/?tag=tolees-21)
+[![Hasbro Gaming - Juego infantil Tiny Pong](https://m.media-amazon.com/images/I/51d03dt5t0L._SL400_.jpg)](https://www.amazon.es/dp/B07M5C4DB3/?tag=tolees-21)
 
 🔎:
 

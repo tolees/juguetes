@@ -2,7 +2,7 @@
 layout: post
 title: 'Fisher-Price Manzanita Activity  juguete con un 16.90 % de descuento'
 date: 2020-03-07 13:40:12
-image: 'https://m.media-amazon.com/images/I/41ufEU2GhSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ufEU2GhSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.88'
 
 En este momento está [Fisher-Price Manzanita Activity  juguete colgante para bebé  Mattel DFP88 ](https://www.amazon.es/dp/B016XS3IRY/?tag=tolees-21) a 12.88 EUR (original: 15.5 EUR) (16.90 %  de descuento) en el siguiente enlace!
 
-[![Fisher-Price Manzanita Activity  juguete](https://m.media-amazon.com/images/I/41ufEU2GhSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B016XS3IRY/?tag=tolees-21)
+[![Fisher-Price Manzanita Activity  juguete](https://m.media-amazon.com/images/I/41ufEU2GhSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B016XS3IRY/?tag=tolees-21)
 
 🔎:
 

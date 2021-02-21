@@ -2,7 +2,7 @@
 layout: post
 title: 'Little Live Bizzy Babies- Bebé con cunit al 49.28 % de descuento'
 date: 2020-10-02 13:02:06
-image: 'https://m.media-amazon.com/images/I/41XaAZVOFML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XaAZVOFML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.19'
 
 Ahora mismo tienes [Little Live Bizzy Babies- Bebé con cunita Gracie   Famosa 700013993 ](https://www.amazon.es/dp/B0792FNCPF/?tag=tolees-21) a 15.19 EUR (original: 29.95 EUR) (49.28 %  de descuento) en el siguiente enlace!
 
-[![Little Live Bizzy Babies- Bebé con cunit](https://m.media-amazon.com/images/I/41XaAZVOFML._SL200_.jpg)](https://www.amazon.es/dp/B0792FNCPF/?tag=tolees-21)
+[![Little Live Bizzy Babies- Bebé con cunit](https://m.media-amazon.com/images/I/41XaAZVOFML._SL400_.jpg)](https://www.amazon.es/dp/B0792FNCPF/?tag=tolees-21)
 
 🔎:
 

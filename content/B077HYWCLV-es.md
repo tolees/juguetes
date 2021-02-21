@@ -2,7 +2,7 @@
 layout: post
 title: 'Mattel Phase 10  Juego de Cartas al 32.67 % de descuento'
 date: 2020-08-27 09:44:25
-image: 'https://m.media-amazon.com/images/I/51vB62sZ8AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vB62sZ8AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.11'
 
 Ahora mismo tienes [Mattel Phase 10  Juego de Cartas](https://www.amazon.es/dp/B077HYWCLV/?tag=tolees-21) a 11.11 EUR (original: 16.5 EUR) (32.67 %  de descuento) en el siguiente enlace!
 
-[![Mattel Phase 10  Juego de Cartas](https://m.media-amazon.com/images/I/51vB62sZ8AL._SL200_.jpg)](https://www.amazon.es/dp/B077HYWCLV/?tag=tolees-21)
+[![Mattel Phase 10  Juego de Cartas](https://m.media-amazon.com/images/I/51vB62sZ8AL._SL400_.jpg)](https://www.amazon.es/dp/B077HYWCLV/?tag=tolees-21)
 
 🔎:
 

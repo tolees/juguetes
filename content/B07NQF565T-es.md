@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 40.01 % en Polly Pocket - Maletín del 30 aniversari'
 date: 2020-06-03 14:03:25
-image: 'https://m.media-amazon.com/images/I/51W1odllFoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51W1odllFoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Tienes [Polly Pocket - Maletín del 30 aniversario Partytime Surprise  muñeca con accesorios  Mattel GJJ51 ](https://www.amazon.es/dp/B07NQF565T/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Polly Pocket - Maletín del 30 aniversari](https://m.media-amazon.com/images/I/51W1odllFoL._SL200_.jpg)](https://www.amazon.es/dp/B07NQF565T/?tag=tolees-21)
+[![Polly Pocket - Maletín del 30 aniversari](https://m.media-amazon.com/images/I/51W1odllFoL._SL400_.jpg)](https://www.amazon.es/dp/B07NQF565T/?tag=tolees-21)
 
 ℹ️:
 

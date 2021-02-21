@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Ravensburger GraviTrax Starter Set  Jueg al 16.69 % de descuento'
-date: 2021-02-20 22:20:26
-image: 'https://m.media-amazon.com/images/I/51O7aHKenrL._SL200_.jpg'
+date: 2021-02-21 22:21:22
+image: 'https://m.media-amazon.com/images/I/51O7aHKenrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,21 +19,21 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21'
 descuento: '16.69'
-average: '48.3316666666668'
+average: '48.351768292683'
 ---
 
 Ahora mismo tienes [Ravensburger GraviTrax Starter Set  Juego construcciones STEM  +100 componentes  Edad recomendada 8+  27597 ](https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21) a 49.98 EUR (original: 59.99 EUR) (16.69 %  de descuento) en el siguiente enlace!
 
-[![Ravensburger GraviTrax Starter Set  Jueg](https://m.media-amazon.com/images/I/51O7aHKenrL._SL200_.jpg)](https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21)
+[![Ravensburger GraviTrax Starter Set  Jueg](https://m.media-amazon.com/images/I/51O7aHKenrL._SL400_.jpg)](https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21)
 
 🔎:
 
-- Con el GraviTrax Starter Set se puede construir un emocionante mundo de pistas, ensamblando sus más 100 componentes, entre accesorios, rieles, módulos de altura verticales y tableros de base
-- GraviTrax es la pista de canicas del futuro de Ravensburger, pensada para niños y niñas a partir de 8 años
+- Es un juego STEM de construcción, que garantiza horas de pura diversión en solitario, con los amigos o con la familia
 - Los niños pueden inventar pistas o pueden encontrar inspiración en el GraviTrax práctico manual de proyectos
 - En el interior de la caja se incluye el accesorio GraviTrax Cañón Magnético
 - GraviTrax es un juego innovador y educativo que permite a los niños aprender conceptos de la gravedad, la cinética y el magnetismo a la vez que se divierten montando sus propias pistas y circuitos
 - GraviTrax Starter Set es compatible con todos los accesorios y sets de expansión GraviTrax
-- Es un juego STEM de construcción, que garantiza horas de pura diversión en solitario, con los amigos o con la familia
+- GraviTrax es la pista de canicas del futuro de Ravensburger, pensada para niños y niñas a partir de 8 años
+- Con el GraviTrax Starter Set se puede construir un emocionante mundo de pistas, ensamblando sus más 100 componentes, entre accesorios, rieles, módulos de altura verticales y tableros de base
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B7HNLMG/?tag=tolees-21)

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Duplo Disney - Fiesta de cumpleaños al 20.01 % de descuento'
 date: 2020-05-24 20:17:42
-image: 'https://m.media-amazon.com/images/I/51vi8jl+QNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vi8jl+QNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Está [LEGO Duplo Disney - Fiesta de cumpleaños de Minnie  10873 ](https://www.amazon.es/dp/B0765BD1WZ/?tag=tolees-21) con 20.01 de descuento por 15.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![LEGO Duplo Disney - Fiesta de cumpleaños](https://m.media-amazon.com/images/I/51vi8jl+QNL._SL200_.jpg)](https://www.amazon.es/dp/B0765BD1WZ/?tag=tolees-21)
+[![LEGO Duplo Disney - Fiesta de cumpleaños](https://m.media-amazon.com/images/I/51vi8jl+QNL._SL400_.jpg)](https://www.amazon.es/dp/B0765BD1WZ/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nerf N-Strike Blaster Ner Elite Pistola  al 33.38 % de descuento'
 date: 2020-09-29 10:25:39
-image: 'https://m.media-amazon.com/images/I/41pzPCCuuSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pzPCCuuSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.19'
 
 Está [Nerf N-Strike Blaster Ner Elite Pistola Lanzador Sharpfire  Naranja  Color Blanco  56.6 x 21.3 x 4.8  Hasbro A9315EU4 ](https://www.amazon.es/dp/B00OZAZAP6/?tag=tolees-21) con 33.38 de descuento por 15.99 EUR (original: 24.0 EUR) en el siguiente enlace!
 
-[![Nerf N-Strike Blaster Ner Elite Pistola ](https://m.media-amazon.com/images/I/41pzPCCuuSL._SL200_.jpg)](https://www.amazon.es/dp/B00OZAZAP6/?tag=tolees-21)
+[![Nerf N-Strike Blaster Ner Elite Pistola ](https://m.media-amazon.com/images/I/41pzPCCuuSL._SL400_.jpg)](https://www.amazon.es/dp/B00OZAZAP6/?tag=tolees-21)
 
 ℹ️:
 

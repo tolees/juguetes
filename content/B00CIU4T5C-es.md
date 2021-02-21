@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 33.92 % en TAZA ENTRENAMIENTO 250 ML | PEPPA PIG'
 date: 2020-05-07 17:49:41
-image: 'https://m.media-amazon.com/images/I/41YwCf4qIEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YwCf4qIEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.5'
 
 Tienes [TAZA ENTRENAMIENTO 250 ML | PEPPA PIG](https://www.amazon.es/dp/B00CIU4T5C/?tag=tolees-21) con un 33.92 % de descuento con precio de oferta de 4.5 EUR (original: 6.81 EUR) en el siguiente enlace!
 
-[![TAZA ENTRENAMIENTO 250 ML | PEPPA PIG](https://m.media-amazon.com/images/I/41YwCf4qIEL._SL200_.jpg)](https://www.amazon.es/dp/B00CIU4T5C/?tag=tolees-21)
+[![TAZA ENTRENAMIENTO 250 ML | PEPPA PIG](https://m.media-amazon.com/images/I/41YwCf4qIEL._SL400_.jpg)](https://www.amazon.es/dp/B00CIU4T5C/?tag=tolees-21)
 
 ℹ️:
 

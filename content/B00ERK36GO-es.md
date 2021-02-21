@@ -2,7 +2,7 @@
 layout: post
 title: 'Simba - Juguete de playa  107110558    c al 40.25 % de descuento'
 date: 2020-06-19 16:31:28
-image: 'https://m.media-amazon.com/images/I/51DglhAQ6sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DglhAQ6sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.816666666666666'
 
 Está [Simba - Juguete de playa  107110558    color/modelo surtido](https://www.amazon.es/dp/B00ERK36GO/?tag=tolees-21) con 40.25 de descuento por 4.75 EUR (original: 7.95 EUR) en el siguiente enlace!
 
-[![Simba - Juguete de playa  107110558    c](https://m.media-amazon.com/images/I/51DglhAQ6sL._SL200_.jpg)](https://www.amazon.es/dp/B00ERK36GO/?tag=tolees-21)
+[![Simba - Juguete de playa  107110558    c](https://m.media-amazon.com/images/I/51DglhAQ6sL._SL400_.jpg)](https://www.amazon.es/dp/B00ERK36GO/?tag=tolees-21)
 
 ℹ️:
 

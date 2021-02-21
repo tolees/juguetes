@@ -2,7 +2,7 @@
 layout: post
 title: 'Mattel Fisher-Price-Xilófono de Arrastre al 30.02 % de rebaja'
 date: 2020-04-06 07:44:27
-image: 'https://m.media-amazon.com/images/I/515+uxkzw-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515+uxkzw-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.989999999999998'
 
 Tienes [Mattel Fisher-Price-Xilófono de Arrastre  Juguete Musical de Gateo bebés +1 año  Multicolor CMY09](https://www.amazon.es/dp/B014KEE9LC/?tag=tolees-21) con precio final de  13.99 EUR (original: 19.99 EUR) (30.02 %  de rebaja) aqui!
 
-[![Mattel Fisher-Price-Xilófono de Arrastre](https://m.media-amazon.com/images/I/515+uxkzw-L._SL200_.jpg)](https://www.amazon.es/dp/B014KEE9LC/?tag=tolees-21)
+[![Mattel Fisher-Price-Xilófono de Arrastre](https://m.media-amazon.com/images/I/515+uxkzw-L._SL400_.jpg)](https://www.amazon.es/dp/B014KEE9LC/?tag=tolees-21)
 
 🔎:
 

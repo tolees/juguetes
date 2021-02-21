@@ -2,7 +2,7 @@
 layout: post
 title: 'Potato Head - Potato Train  Hasbro E5853 al 20.56 % de descuento'
 date: 2020-10-11 20:25:15
-image: 'https://m.media-amazon.com/images/I/41PAdM-2luL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PAdM-2luL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.82'
 
 Ahora mismo tienes [Potato Head - Potato Train  Hasbro E5853EU5 ](https://www.amazon.es/dp/B07MV2CNPG/?tag=tolees-21) a 18.82 EUR (original: 23.69 EUR) (20.56 %  de descuento) en el siguiente enlace!
 
-[![Potato Head - Potato Train  Hasbro E5853](https://m.media-amazon.com/images/I/41PAdM-2luL._SL200_.jpg)](https://www.amazon.es/dp/B07MV2CNPG/?tag=tolees-21)
+[![Potato Head - Potato Train  Hasbro E5853](https://m.media-amazon.com/images/I/41PAdM-2luL._SL400_.jpg)](https://www.amazon.es/dp/B07MV2CNPG/?tag=tolees-21)
 
 🔎:
 

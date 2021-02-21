@@ -2,7 +2,7 @@
 layout: post
 title: 'Play-Doh- La Tostadora  Hasbro E0039EU4  al 21.09 % de descuento'
 date: 2020-09-21 10:10:47
-image: 'https://m.media-amazon.com/images/I/51Uk7JiKDZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Uk7JiKDZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.852'
 
 Está [Play-Doh- La Tostadora  Hasbro E0039EU4 ](https://www.amazon.es/dp/B07B6KYPDJ/?tag=tolees-21) con 21.09 de descuento por 11.04 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![Play-Doh- La Tostadora  Hasbro E0039EU4 ](https://m.media-amazon.com/images/I/51Uk7JiKDZL._SL200_.jpg)](https://www.amazon.es/dp/B07B6KYPDJ/?tag=tolees-21)
+[![Play-Doh- La Tostadora  Hasbro E0039EU4 ](https://m.media-amazon.com/images/I/51Uk7JiKDZL._SL400_.jpg)](https://www.amazon.es/dp/B07B6KYPDJ/?tag=tolees-21)
 
 ℹ️:
 

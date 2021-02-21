@@ -2,7 +2,7 @@
 layout: post
 title: 'Nenuco - Nenuco y su hermanito van al co al 15.40 % de rebaja'
 date: 2020-06-12 15:01:15
-image: 'https://m.media-amazon.com/images/I/412CHtzQAQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412CHtzQAQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.95'
 
 Tienes [Nenuco - Nenuco y su hermanito van al cole  Famosa 700010920    color/modelo surtido](https://www.amazon.es/dp/B00JS134UA/?tag=tolees-21) con precio final de  54.95 EUR (original: 64.95 EUR) (15.40 %  de rebaja) aqui!
 
-[![Nenuco - Nenuco y su hermanito van al co](https://m.media-amazon.com/images/I/412CHtzQAQL._SL200_.jpg)](https://www.amazon.es/dp/B00JS134UA/?tag=tolees-21)
+[![Nenuco - Nenuco y su hermanito van al co](https://m.media-amazon.com/images/I/412CHtzQAQL._SL400_.jpg)](https://www.amazon.es/dp/B00JS134UA/?tag=tolees-21)
 
 🔎:
 

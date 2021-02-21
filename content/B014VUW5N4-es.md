@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars Stormtrooper First Order Pack  al 18.37 % de rebaja'
 date: 2020-03-09 10:04:16
-image: 'https://m.media-amazon.com/images/I/51k8ZLNR3UL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k8ZLNR3UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.06'
 
 Tienes [Star Wars Stormtrooper First Order Pack 2 Figuras  18 cm  Bandai SW107 ](https://www.amazon.es/dp/B014VUW5N4/?tag=tolees-21) con precio final de  57.06 EUR (original: 69.9 EUR) (18.37 %  de rebaja) aqui!
 
-[![Star Wars Stormtrooper First Order Pack ](https://m.media-amazon.com/images/I/51k8ZLNR3UL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B014VUW5N4/?tag=tolees-21)
+[![Star Wars Stormtrooper First Order Pack ](https://m.media-amazon.com/images/I/51k8ZLNR3UL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B014VUW5N4/?tag=tolees-21)
 
 🔎:
 

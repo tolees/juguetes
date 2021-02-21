@@ -2,7 +2,7 @@
 layout: post
 title: 'Ladrillo de almacenamiento Lego 8 espàrr al 18.92 % de rebaja'
 date: 2020-07-03 21:35:18
-image: 'https://m.media-amazon.com/images/I/31me1L7SpdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31me1L7SpdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Tienes [Ladrillo de almacenamiento Lego 8 espàrragos](https://www.amazon.es/dp/B003NE5L9A/?tag=tolees-21) con precio final de  29.99 EUR (original: 36.99 EUR) (18.92 %  de rebaja) aqui!
 
-[![Ladrillo de almacenamiento Lego 8 espàrr](https://m.media-amazon.com/images/I/31me1L7SpdL._SL200_.jpg)](https://www.amazon.es/dp/B003NE5L9A/?tag=tolees-21)
+[![Ladrillo de almacenamiento Lego 8 espàrr](https://m.media-amazon.com/images/I/31me1L7SpdL._SL400_.jpg)](https://www.amazon.es/dp/B003NE5L9A/?tag=tolees-21)
 
 🔎:
 

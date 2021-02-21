@@ -2,7 +2,7 @@
 layout: post
 title: 'Hot Wheels- Circuito Mario Kart  pistas  al 53.62 % de rebaja'
 date: 2020-05-08 09:29:55
-image: 'https://m.media-amazon.com/images/I/41pw+2m6hkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pw+2m6hkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.324444444444445'
 
 Tienes [Hot Wheels- Circuito Mario Kart  pistas de coches de juguete  Multicolor  Mattel GCP27 ](https://www.amazon.es/dp/B07P5PVP4Z/?tag=tolees-21) con precio final de  38.49 EUR (original: 82.99 EUR) (53.62 %  de rebaja) aqui!
 
-[![Hot Wheels- Circuito Mario Kart  pistas ](https://m.media-amazon.com/images/I/41pw+2m6hkL._SL200_.jpg)](https://www.amazon.es/dp/B07P5PVP4Z/?tag=tolees-21)
+[![Hot Wheels- Circuito Mario Kart  pistas ](https://m.media-amazon.com/images/I/41pw+2m6hkL._SL400_.jpg)](https://www.amazon.es/dp/B07P5PVP4Z/?tag=tolees-21)
 
 🔎:
 

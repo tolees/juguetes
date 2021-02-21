@@ -2,7 +2,7 @@
 layout: post
 title: 'Sylvanian Families - 4175 - Familia Gato al 16.01 % de descuento'
 date: 2020-07-24 10:57:28
-image: 'https://m.media-amazon.com/images/I/51RQaD9I1bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RQaD9I1bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.01684210526315'
 
 Ahora mismo tienes [Sylvanian Families - 4175 - Familia Gatos de Seda](https://www.amazon.es/dp/B00HRRAFR2/?tag=tolees-21) a 20.15 EUR (original: 23.99 EUR) (16.01 %  de descuento) en el siguiente enlace!
 
-[![Sylvanian Families - 4175 - Familia Gato](https://m.media-amazon.com/images/I/51RQaD9I1bL._SL200_.jpg)](https://www.amazon.es/dp/B00HRRAFR2/?tag=tolees-21)
+[![Sylvanian Families - 4175 - Familia Gato](https://m.media-amazon.com/images/I/51RQaD9I1bL._SL400_.jpg)](https://www.amazon.es/dp/B00HRRAFR2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Jacootoys Animal Laberintos de Abalorios al 50.03 % de rebaja'
 date: 2020-09-01 11:41:43
-image: 'https://m.media-amazon.com/images/I/51GVvXwpX4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GVvXwpX4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.85'
 
 Tienes [Jacootoys Animal Laberintos de Abalorios Madera Cuentas Abaco Juegos Cubo Grande Educativos Juguetes Regalo Para Niños 3 4 5 Años](https://www.amazon.es/dp/B082W3TKK4/?tag=tolees-21) con precio final de  17.85 EUR (original: 35.72 EUR) (50.03 %  de rebaja) aqui!
 
-[![Jacootoys Animal Laberintos de Abalorios](https://m.media-amazon.com/images/I/51GVvXwpX4L._SL200_.jpg)](https://www.amazon.es/dp/B082W3TKK4/?tag=tolees-21)
+[![Jacootoys Animal Laberintos de Abalorios](https://m.media-amazon.com/images/I/51GVvXwpX4L._SL400_.jpg)](https://www.amazon.es/dp/B082W3TKK4/?tag=tolees-21)
 
 🔎:
 

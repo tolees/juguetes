@@ -2,7 +2,7 @@
 layout: post
 title: 'Juguetes Colgantes Reiki Energía Cristal con un 15.74 % de descuento'
 date: 2020-07-08 13:19:15
-image: 'https://m.media-amazon.com/images/I/314EgDuymaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314EgDuymaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.2733333333333334'
 
 En este momento está [Juguetes Colgantes Reiki Energía Cristal Péndulo Scrying Dowser Punto Radiestesia - Cono](https://www.amazon.es/dp/B01K6T3XA8/?tag=tolees-21) a 3.48 EUR (original: 4.13 EUR) (15.74 %  de descuento) en el siguiente enlace!
 
-[![Juguetes Colgantes Reiki Energía Cristal](https://m.media-amazon.com/images/I/314EgDuymaL._SL200_.jpg)](https://www.amazon.es/dp/B01K6T3XA8/?tag=tolees-21)
+[![Juguetes Colgantes Reiki Energía Cristal](https://m.media-amazon.com/images/I/314EgDuymaL._SL400_.jpg)](https://www.amazon.es/dp/B01K6T3XA8/?tag=tolees-21)
 
 🔎:
 

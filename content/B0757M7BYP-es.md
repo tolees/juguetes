@@ -2,7 +2,7 @@
 layout: post
 title: 'Devir - Carcassonne: La Torre  juego de  al 16.30 % de descuento'
 date: 2020-03-18 20:45:57
-image: 'https://m.media-amazon.com/images/I/51zEDXHWFZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zEDXHWFZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.369999999999997'
 
 Ahora mismo tienes [Devir - Carcassonne: La Torre  juego de mesa  BGCARTO ](https://www.amazon.es/dp/B0757M7BYP/?tag=tolees-21) a 16.74 EUR (original: 20.0 EUR) (16.30 %  de descuento) en el siguiente enlace!
 
-[![Devir - Carcassonne: La Torre  juego de ](https://m.media-amazon.com/images/I/51zEDXHWFZL._SL200_.jpg)](https://www.amazon.es/dp/B0757M7BYP/?tag=tolees-21)
+[![Devir - Carcassonne: La Torre  juego de ](https://m.media-amazon.com/images/I/51zEDXHWFZL._SL400_.jpg)](https://www.amazon.es/dp/B0757M7BYP/?tag=tolees-21)
 
 🔎:
 

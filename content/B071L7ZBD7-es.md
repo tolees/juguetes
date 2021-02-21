@@ -2,7 +2,7 @@
 layout: post
 title: 'Asmodee - Dobble Waterproof  Juego de ca al 18.76 % de descuento'
 date: 2020-05-28 10:53:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51UADzziJaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UADzziJaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Ahora mismo tienes [Asmodee - Dobble Waterproof  Juego de cartas impermeable  ADE0ASDO007 ](https://www.amazon.es/dp/B071L7ZBD7/?tag=tolees-21) a 12.99 EUR (original: 15.99 EUR) (18.76 %  de descuento) en el siguiente enlace!
 
-[![Asmodee - Dobble Waterproof  Juego de ca](https://images-eu.ssl-images-amazon.com/images/I/51UADzziJaL._SL200_.jpg)](https://www.amazon.es/dp/B071L7ZBD7/?tag=tolees-21)
+[![Asmodee - Dobble Waterproof  Juego de ca](https://images-eu.ssl-images-amazon.com/images/I/51UADzziJaL._SL400_.jpg)](https://www.amazon.es/dp/B071L7ZBD7/?tag=tolees-21)
 
 🔎:
 

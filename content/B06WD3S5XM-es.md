@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.43 % en LEGO Ninjago - Jet del Rayo  Juguete de '
 date: 2020-04-17 08:36:02
-image: 'https://m.media-amazon.com/images/I/51QnkVRYFqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QnkVRYFqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.883333333333326'
 
 Tienes [LEGO Ninjago - Jet del Rayo  Juguete de Construcción Ninja  Incluye Nave y MiniFiguras  70614 ](https://www.amazon.es/dp/B06WD3S5XM/?tag=tolees-21) con un 15.43 % de descuento con precio de oferta de 57.5 EUR (original: 67.99 EUR) en el siguiente enlace!
 
-[![LEGO Ninjago - Jet del Rayo  Juguete de ](https://m.media-amazon.com/images/I/51QnkVRYFqL._SL200_.jpg)](https://www.amazon.es/dp/B06WD3S5XM/?tag=tolees-21)
+[![LEGO Ninjago - Jet del Rayo  Juguete de ](https://m.media-amazon.com/images/I/51QnkVRYFqL._SL400_.jpg)](https://www.amazon.es/dp/B06WD3S5XM/?tag=tolees-21)
 
 ℹ️:
 

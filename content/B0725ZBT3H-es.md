@@ -2,7 +2,7 @@
 layout: post
 title: 'FEBER - Mad Racer 12 V  Famosa 800011361 con un 42.55 % de descuento'
 date: 2020-05-03 04:35:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpD2YTmbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpD2YTmbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '172.35'
 
 En este momento está [FEBER - Mad Racer 12 V  Famosa 800011361 ](https://www.amazon.es/dp/B0725ZBT3H/?tag=tolees-21) a 172.35 EUR (original: 299.99 EUR) (42.55 %  de descuento) en el siguiente enlace!
 
-[![FEBER - Mad Racer 12 V  Famosa 800011361](https://images-eu.ssl-images-amazon.com/images/I/41wpD2YTmbL._SL200_.jpg)](https://www.amazon.es/dp/B0725ZBT3H/?tag=tolees-21)
+[![FEBER - Mad Racer 12 V  Famosa 800011361](https://images-eu.ssl-images-amazon.com/images/I/41wpD2YTmbL._SL400_.jpg)](https://www.amazon.es/dp/B0725ZBT3H/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO - Starter Pack Dimensions  PS3  con un 28.36 % de descuento'
 date: 2020-02-06 03:21:16
-image: 'https://m.media-amazon.com/images/I/61ZPqB5C8JL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61ZPqB5C8JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.626666666666665'
 
 En este momento está [LEGO - Starter Pack Dimensions  PS3 ](https://www.amazon.es/dp/B01G3VWJ58/?tag=tolees-21) a 28.65 EUR (original: 39.99 EUR) (28.36 %  de descuento) en el siguiente enlace!
 
-[![LEGO - Starter Pack Dimensions  PS3 ](https://m.media-amazon.com/images/I/61ZPqB5C8JL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01G3VWJ58/?tag=tolees-21)
+[![LEGO - Starter Pack Dimensions  PS3 ](https://m.media-amazon.com/images/I/61ZPqB5C8JL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01G3VWJ58/?tag=tolees-21)
 
 🔎:
 

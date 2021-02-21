@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Movie Pijamas de Manga Corta para n con un 42.96 % de descuento'
 date: 2020-01-18 10:57:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51QFdgyBAzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QFdgyBAzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 En este momento está [LEGO Movie Pijamas de Manga Corta para niños Multicolor 11-12 Años](https://www.amazon.es/dp/B07TJ8BG8C/?tag=tolees-21) a 11.95 EUR (original: 20.95 EUR) (42.96 %  de descuento) en el siguiente enlace!
 
-[![LEGO Movie Pijamas de Manga Corta para n](https://images-eu.ssl-images-amazon.com/images/I/51QFdgyBAzL._SL200_.jpg)](https://www.amazon.es/dp/B07TJ8BG8C/?tag=tolees-21)
+[![LEGO Movie Pijamas de Manga Corta para n](https://images-eu.ssl-images-amazon.com/images/I/51QFdgyBAzL._SL400_.jpg)](https://www.amazon.es/dp/B07TJ8BG8C/?tag=tolees-21)
 
 🔎:
 

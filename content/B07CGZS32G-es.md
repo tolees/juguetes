@@ -2,7 +2,7 @@
 layout: post
 title: 'Harry Potter Muñeco Harry de la colecció al 30.86 % de descuento'
 date: 2020-03-06 15:28:23
-image: 'https://m.media-amazon.com/images/I/31VOxZfAlGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VOxZfAlGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.085'
 
 Ahora mismo tienes [Harry Potter Muñeco Harry de la colección de Harry Potter  Mattel FYM50 ](https://www.amazon.es/dp/B07CGZS32G/?tag=tolees-21) a 17.97 EUR (original: 25.99 EUR) (30.86 %  de descuento) en el siguiente enlace!
 
-[![Harry Potter Muñeco Harry de la colecció](https://m.media-amazon.com/images/I/31VOxZfAlGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07CGZS32G/?tag=tolees-21)
+[![Harry Potter Muñeco Harry de la colecció](https://m.media-amazon.com/images/I/31VOxZfAlGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07CGZS32G/?tag=tolees-21)
 
 🔎:
 

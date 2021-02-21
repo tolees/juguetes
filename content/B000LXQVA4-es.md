@@ -2,7 +2,7 @@
 layout: post
 title: 'Fisher-Price Saltador animalitos de la s al 23.81 % de rebaja'
 date: 2020-04-23 19:01:56
-image: 'https://m.media-amazon.com/images/I/41AtqmrQZrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AtqmrQZrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.35333333333334'
 
 Tienes [Fisher-Price Saltador animalitos de la selva  para bebé +1 año  Mattel CHM91 ](https://www.amazon.es/dp/B000LXQVA4/?tag=tolees-21) con precio final de  121.89 EUR (original: 159.99 EUR) (23.81 %  de rebaja) aqui!
 
-[![Fisher-Price Saltador animalitos de la s](https://m.media-amazon.com/images/I/41AtqmrQZrL._SL200_.jpg)](https://www.amazon.es/dp/B000LXQVA4/?tag=tolees-21)
+[![Fisher-Price Saltador animalitos de la s](https://m.media-amazon.com/images/I/41AtqmrQZrL._SL400_.jpg)](https://www.amazon.es/dp/B000LXQVA4/?tag=tolees-21)
 
 🔎:
 

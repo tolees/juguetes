@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Marvel Super Heroes - Classics al 25.21 % de descuento'
 date: 2020-04-14 09:27:15
-image: 'https://m.media-amazon.com/images/I/51vsVz-ksdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vsVz-ksdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.166666666666668'
 
 Ahora mismo tienes [LEGO Marvel Super Heroes - Classics](https://www.amazon.es/dp/B00WWR7DQI/?tag=tolees-21) a 14.0 EUR (original: 18.72 EUR) (25.21 %  de descuento) en el siguiente enlace!
 
-[![LEGO Marvel Super Heroes - Classics](https://m.media-amazon.com/images/I/51vsVz-ksdL._SL200_.jpg)](https://www.amazon.es/dp/B00WWR7DQI/?tag=tolees-21)
+[![LEGO Marvel Super Heroes - Classics](https://m.media-amazon.com/images/I/51vsVz-ksdL._SL400_.jpg)](https://www.amazon.es/dp/B00WWR7DQI/?tag=tolees-21)
 
 🔎:
 

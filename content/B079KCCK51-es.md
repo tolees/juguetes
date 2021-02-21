@@ -2,7 +2,7 @@
 layout: post
 title: 'Polly Pocket - Maletín con muñecas  fies al 30.92 % de descuento'
 date: 2020-09-25 11:11:06
-image: 'https://m.media-amazon.com/images/I/51g3I+6CHIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51g3I+6CHIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.157499999999999'
 
 Está [Polly Pocket - Maletín con muñecas  fiesta divertida -  Mattel FRY41 ](https://www.amazon.es/dp/B079KCCK51/?tag=tolees-21) con 30.92 de descuento por 13.81 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Polly Pocket - Maletín con muñecas  fies](https://m.media-amazon.com/images/I/51g3I+6CHIL._SL200_.jpg)](https://www.amazon.es/dp/B079KCCK51/?tag=tolees-21)
+[![Polly Pocket - Maletín con muñecas  fies](https://m.media-amazon.com/images/I/51g3I+6CHIL._SL400_.jpg)](https://www.amazon.es/dp/B079KCCK51/?tag=tolees-21)
 
 ℹ️:
 

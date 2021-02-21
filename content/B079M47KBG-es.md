@@ -2,7 +2,7 @@
 layout: post
 title: 'Puzzle Mosaico  Mosaicos Infantiles  Jue al 44.86 % de descuento'
 date: 2020-03-05 17:02:07
-image: 'https://m.media-amazon.com/images/I/51YxqUbN8OL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YxqUbN8OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.86'
 
 Ahora mismo tienes [Puzzle Mosaico  Mosaicos Infantiles  Juego Mosaico Pinchos Infantiles Desmontar 4 5 6 7 8 Años Puzzles  420 Piezas ](https://www.amazon.es/dp/B079M47KBG/?tag=tolees-21) a 14.86 EUR (original: 26.95 EUR) (44.86 %  de descuento) en el siguiente enlace!
 
-[![Puzzle Mosaico  Mosaicos Infantiles  Jue](https://m.media-amazon.com/images/I/51YxqUbN8OL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B079M47KBG/?tag=tolees-21)
+[![Puzzle Mosaico  Mosaicos Infantiles  Jue](https://m.media-amazon.com/images/I/51YxqUbN8OL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B079M47KBG/?tag=tolees-21)
 
 🔎:
 

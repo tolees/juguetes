@@ -2,7 +2,7 @@
 layout: post
 title: 'Educa - Puzzles Progresivos  puzzle infa al 21.90 % de descuento'
 date: 2020-06-11 00:35:19
-image: 'https://m.media-amazon.com/images/I/51kSLA4Pi5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kSLA4Pi5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.165'
 
 Ahora mismo tienes [Educa - Puzzles Progresivos  puzzle infantil De Mayor Quiero Ser de 12 16 20 y 25 piezas  a partir de 3 años  17146 ](https://www.amazon.es/dp/B01N37ZGVE/?tag=tolees-21) a 6.99 EUR (original: 8.95 EUR) (21.90 %  de descuento) en el siguiente enlace!
 
-[![Educa - Puzzles Progresivos  puzzle infa](https://m.media-amazon.com/images/I/51kSLA4Pi5L._SL200_.jpg)](https://www.amazon.es/dp/B01N37ZGVE/?tag=tolees-21)
+[![Educa - Puzzles Progresivos  puzzle infa](https://m.media-amazon.com/images/I/51kSLA4Pi5L._SL400_.jpg)](https://www.amazon.es/dp/B01N37ZGVE/?tag=tolees-21)
 
 🔎:
 

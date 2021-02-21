@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney- Frozen 2 Mini Muñecas Escena Fam al 27.95 % de descuento'
 date: 2020-01-23 12:04:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pxxuZ-swL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pxxuZ-swL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Está [Disney- Frozen 2 Mini Muñecas Escena Familiar  Hasbro E6913ES0 ](https://www.amazon.es/dp/B07T6GYN1R/?tag=tolees-21) con 27.95 de descuento por 16.99 EUR (original: 23.58 EUR) en el siguiente enlace!
 
-[![Disney- Frozen 2 Mini Muñecas Escena Fam](https://images-eu.ssl-images-amazon.com/images/I/41pxxuZ-swL._SL200_.jpg)](https://www.amazon.es/dp/B07T6GYN1R/?tag=tolees-21)
+[![Disney- Frozen 2 Mini Muñecas Escena Fam](https://images-eu.ssl-images-amazon.com/images/I/41pxxuZ-swL._SL400_.jpg)](https://www.amazon.es/dp/B07T6GYN1R/?tag=tolees-21)
 
 ℹ️:
 

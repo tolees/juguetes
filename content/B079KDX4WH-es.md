@@ -2,7 +2,7 @@
 layout: post
 title: 'Justice League Figura Orm  15 cm  Mattel al 25.95 % de rebaja'
 date: 2020-07-17 09:01:16
-image: 'https://m.media-amazon.com/images/I/41RFPQmyibL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RFPQmyibL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Tienes [Justice League Figura Orm  15 cm  Mattel FWX64 ](https://www.amazon.es/dp/B079KDX4WH/?tag=tolees-21) con precio final de  9.99 EUR (original: 13.49 EUR) (25.95 %  de rebaja) aqui!
 
-[![Justice League Figura Orm  15 cm  Mattel](https://m.media-amazon.com/images/I/41RFPQmyibL._SL200_.jpg)](https://www.amazon.es/dp/B079KDX4WH/?tag=tolees-21)
+[![Justice League Figura Orm  15 cm  Mattel](https://m.media-amazon.com/images/I/41RFPQmyibL._SL400_.jpg)](https://www.amazon.es/dp/B079KDX4WH/?tag=tolees-21)
 
 🔎:
 

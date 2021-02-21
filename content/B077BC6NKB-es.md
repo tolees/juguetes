@@ -2,7 +2,7 @@
 layout: post
 title: 'Furreal Friends Hasbro E0497EU4 - Shaggy al 18.01 % de descuento'
 date: 2020-04-14 00:11:20
-image: 'https://m.media-amazon.com/images/I/61TQi0mmR-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61TQi0mmR-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.41'
 
 Está [Furreal Friends Hasbro E0497EU4 - Shaggy Shawn Luky Melenas](https://www.amazon.es/dp/B077BC6NKB/?tag=tolees-21) con 18.01 de descuento por 14.75 EUR (original: 17.99 EUR) en el siguiente enlace!
 
-[![Furreal Friends Hasbro E0497EU4 - Shaggy](https://m.media-amazon.com/images/I/61TQi0mmR-L._SL200_.jpg)](https://www.amazon.es/dp/B077BC6NKB/?tag=tolees-21)
+[![Furreal Friends Hasbro E0497EU4 - Shaggy](https://m.media-amazon.com/images/I/61TQi0mmR-L._SL400_.jpg)](https://www.amazon.es/dp/B077BC6NKB/?tag=tolees-21)
 
 ℹ️:
 

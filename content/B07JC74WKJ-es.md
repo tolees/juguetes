@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 4+ Woody y RC  Juguete de Construcc al 41.81 % de rebaja'
 date: 2020-09-04 10:31:12
-image: 'https://m.media-amazon.com/images/I/51jrhOLolDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jrhOLolDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.898333333333332'
 
 Tienes [LEGO 4+ Woody y RC  Juguete de Construcción para Recrear las Aventuras de la Película Toy Story 4  10766 ](https://www.amazon.es/dp/B07JC74WKJ/?tag=tolees-21) con precio final de  7.92 EUR (original: 13.61 EUR) (41.81 %  de rebaja) aqui!
 
-[![LEGO 4+ Woody y RC  Juguete de Construcc](https://m.media-amazon.com/images/I/51jrhOLolDL._SL200_.jpg)](https://www.amazon.es/dp/B07JC74WKJ/?tag=tolees-21)
+[![LEGO 4+ Woody y RC  Juguete de Construcc](https://m.media-amazon.com/images/I/51jrhOLolDL._SL400_.jpg)](https://www.amazon.es/dp/B07JC74WKJ/?tag=tolees-21)
 
 🔎:
 

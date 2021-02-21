@@ -2,7 +2,7 @@
 layout: post
 title: 'HABA Oruga De Colores  Lego S.A. HAB3031 al 31.59 % de rebaja'
 date: 2020-04-02 22:45:00
-image: 'https://m.media-amazon.com/images/I/51s6Ulf0ioL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51s6Ulf0ioL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.84'
 
 Tienes [HABA Oruga De Colores  Lego S.A. HAB303114 ](https://www.amazon.es/dp/B0789LYRZP/?tag=tolees-21) con precio final de  7.84 EUR (original: 11.46 EUR) (31.59 %  de rebaja) aqui!
 
-[![HABA Oruga De Colores  Lego S.A. HAB3031](https://m.media-amazon.com/images/I/51s6Ulf0ioL._SL200_.jpg)](https://www.amazon.es/dp/B0789LYRZP/?tag=tolees-21)
+[![HABA Oruga De Colores  Lego S.A. HAB3031](https://m.media-amazon.com/images/I/51s6Ulf0ioL._SL400_.jpg)](https://www.amazon.es/dp/B0789LYRZP/?tag=tolees-21)
 
 🔎:
 

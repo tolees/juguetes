@@ -2,7 +2,7 @@
 layout: post
 title: 'LCQI Cubo Rompecabezas Adultos Niños Pro al 33.52 % de descuento'
 date: 2020-01-15 17:09:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31oph2OloGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oph2OloGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Está [LCQI Cubo Rompecabezas Adultos Niños Profesional Original](https://www.amazon.es/dp/B082P1NSYM/?tag=tolees-21) con 33.52 de descuento por 5.95 EUR (original: 8.95 EUR) en el siguiente enlace!
 
-[![LCQI Cubo Rompecabezas Adultos Niños Pro](https://images-eu.ssl-images-amazon.com/images/I/31oph2OloGL._SL200_.jpg)](https://www.amazon.es/dp/B082P1NSYM/?tag=tolees-21)
+[![LCQI Cubo Rompecabezas Adultos Niños Pro](https://images-eu.ssl-images-amazon.com/images/I/31oph2OloGL._SL400_.jpg)](https://www.amazon.es/dp/B082P1NSYM/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Marvel- Hulk with Titan Hero Power FX Po con un 24.37 % de descuento'
 date: 2020-02-28 16:31:34
-image: 'https://m.media-amazon.com/images/I/51FGHUCbbxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FGHUCbbxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.9'
 
 En este momento está [Marvel- Hulk with Titan Hero Power FX Port Series  Color Azul  Verde  Hasbro E0571EU4 ](https://www.amazon.es/dp/B078DPCYMT/?tag=tolees-21) a 18.9 EUR (original: 24.99 EUR) (24.37 %  de descuento) en el siguiente enlace!
 
-[![Marvel- Hulk with Titan Hero Power FX Po](https://m.media-amazon.com/images/I/51FGHUCbbxL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B078DPCYMT/?tag=tolees-21)
+[![Marvel- Hulk with Titan Hero Power FX Po](https://m.media-amazon.com/images/I/51FGHUCbbxL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B078DPCYMT/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Grupo K-2 Riscko - Bicicleta sin Pedales al 20.00 % de rebaja'
 date: 2020-03-03 06:57:06
-image: 'https://m.media-amazon.com/images/I/31FATpvpj9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FATpvpj9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.12'
 
 Tienes [Grupo K-2 Riscko - Bicicleta sin Pedales con sillín Y Manillar Regulables | Ultraligera | Correpasillos Minibike | Bicicleta para Niños de 2 a 5 años Baby Star Blanca](https://www.amazon.es/dp/B07D334DLM/?tag=tolees-21) con precio final de  23.12 EUR (original: 28.9 EUR) (20.00 %  de rebaja) aqui!
 
-[![Grupo K-2 Riscko - Bicicleta sin Pedales](https://m.media-amazon.com/images/I/31FATpvpj9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D334DLM/?tag=tolees-21)
+[![Grupo K-2 Riscko - Bicicleta sin Pedales](https://m.media-amazon.com/images/I/31FATpvpj9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D334DLM/?tag=tolees-21)
 
 🔎:
 

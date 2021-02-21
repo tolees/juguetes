@@ -2,7 +2,7 @@
 layout: post
 title: 'Intex 56587EU - Flotador Hinchable bebé al 36.18 % de rebaja'
 date: 2020-07-27 13:33:56
-image: 'https://m.media-amazon.com/images/I/310Ie6RP9XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310Ie6RP9XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.1899999999999995'
 
 Tienes [Intex 56587EU - Flotador Hinchable bebé](https://www.amazon.es/dp/B004FEEQSO/?tag=tolees-21) con precio final de  6.35 EUR (original: 9.95 EUR) (36.18 %  de rebaja) aqui!
 
-[![Intex 56587EU - Flotador Hinchable bebé](https://m.media-amazon.com/images/I/310Ie6RP9XL._SL200_.jpg)](https://www.amazon.es/dp/B004FEEQSO/?tag=tolees-21)
+[![Intex 56587EU - Flotador Hinchable bebé](https://m.media-amazon.com/images/I/310Ie6RP9XL._SL400_.jpg)](https://www.amazon.es/dp/B004FEEQSO/?tag=tolees-21)
 
 🔎:
 

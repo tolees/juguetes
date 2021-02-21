@@ -2,7 +2,7 @@
 layout: post
 title: 'Dragon Ball Super - Lanzador de energía  con un 52.70 % de descuento'
 date: 2020-04-24 09:33:34
-image: 'https://m.media-amazon.com/images/I/41IaNjKY19L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IaNjKY19L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.34'
 
 En este momento está [Dragon Ball Super - Lanzador de energía Kamehameha  Bandai 35885 ](https://www.amazon.es/dp/B01N7P2XD8/?tag=tolees-21) a 15.13 EUR (original: 31.99 EUR) (52.70 %  de descuento) en el siguiente enlace!
 
-[![Dragon Ball Super - Lanzador de energía ](https://m.media-amazon.com/images/I/41IaNjKY19L._SL200_.jpg)](https://www.amazon.es/dp/B01N7P2XD8/?tag=tolees-21)
+[![Dragon Ball Super - Lanzador de energía ](https://m.media-amazon.com/images/I/41IaNjKY19L._SL400_.jpg)](https://www.amazon.es/dp/B01N7P2XD8/?tag=tolees-21)
 
 🔎:
 

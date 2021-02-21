@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.07 % en Theo Klein-8686 Bosch banco de trabajo e'
 date: 2020-04-08 07:46:45
-image: 'https://m.media-amazon.com/images/I/51Pd3dg2OtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Pd3dg2OtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.19'
 
 Tienes [Theo Klein-8686 Bosch banco de trabajo en maletín con herramientas y ixolino  juguete  multicolor  Miscelanea  8686 ](https://www.amazon.es/dp/B000FRTVUS/?tag=tolees-21) con un 15.07 % de descuento con precio de oferta de 36.19 EUR (original: 42.61 EUR) en el siguiente enlace!
 
-[![Theo Klein-8686 Bosch banco de trabajo e](https://m.media-amazon.com/images/I/51Pd3dg2OtL._SL200_.jpg)](https://www.amazon.es/dp/B000FRTVUS/?tag=tolees-21)
+[![Theo Klein-8686 Bosch banco de trabajo e](https://m.media-amazon.com/images/I/51Pd3dg2OtL._SL400_.jpg)](https://www.amazon.es/dp/B000FRTVUS/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'SkullCap® Casco Bicicleta montaña Hombre al 28.61 % de descuento'
 date: 2020-08-18 06:30:53
-image: 'https://m.media-amazon.com/images/I/51SsTMTBHxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SsTMTBHxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.9'
 
 Ahora mismo tienes [SkullCap® Casco Bicicleta montaña Hombre y Mujer  MTB Bicicleta Carretera  tamaño L  59-61 cm   Casco Color: Rojo Negro](https://www.amazon.es/dp/B07C2TFLPX/?tag=tolees-21) a 49.9 EUR (original: 69.9 EUR) (28.61 %  de descuento) en el siguiente enlace!
 
-[![SkullCap® Casco Bicicleta montaña Hombre](https://m.media-amazon.com/images/I/51SsTMTBHxL._SL200_.jpg)](https://www.amazon.es/dp/B07C2TFLPX/?tag=tolees-21)
+[![SkullCap® Casco Bicicleta montaña Hombre](https://m.media-amazon.com/images/I/51SsTMTBHxL._SL400_.jpg)](https://www.amazon.es/dp/B07C2TFLPX/?tag=tolees-21)
 
 🔎:
 

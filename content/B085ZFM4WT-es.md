@@ -2,7 +2,7 @@
 layout: post
 title: 'VATOS Juego de Bloques de Construcción p al 48.01 % de rebaja'
 date: 2020-07-22 17:08:38
-image: 'https://m.media-amazon.com/images/I/51BRw-kaolL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BRw-kaolL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.99'
 
 Tienes [VATOS Juego de Bloques de Construcción para Niñas  Juguetes Castillo Princesa para Niña  Juguetes Palacio Rosa  Kits de Construcción STEM para Niños  Juguetes de Regalo para Niñas de 6  7  8 y 9 Años](https://www.amazon.es/dp/B085ZFM4WT/?tag=tolees-21) con precio final de  25.99 EUR (original: 49.99 EUR) (48.01 %  de rebaja) aqui!
 
-[![VATOS Juego de Bloques de Construcción p](https://m.media-amazon.com/images/I/51BRw-kaolL._SL200_.jpg)](https://www.amazon.es/dp/B085ZFM4WT/?tag=tolees-21)
+[![VATOS Juego de Bloques de Construcción p](https://m.media-amazon.com/images/I/51BRw-kaolL._SL400_.jpg)](https://www.amazon.es/dp/B085ZFM4WT/?tag=tolees-21)
 
 🔎:
 

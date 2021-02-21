@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.81 % en VTech Baby 150503 - Cubo educativo para '
 date: 2020-08-11 15:44:42
-image: 'https://m.media-amazon.com/images/I/51HAWPTR8aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HAWPTR8aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.68'
 
 Tienes [VTech Baby 150503 - Cubo educativo para girar y aprender  multicolor](https://www.amazon.es/dp/B00GNAP830/?tag=tolees-21) con un 25.81 % de descuento con precio de oferta de 26.68 EUR (original: 35.96 EUR) en el siguiente enlace!
 
-[![VTech Baby 150503 - Cubo educativo para ](https://m.media-amazon.com/images/I/51HAWPTR8aL._SL200_.jpg)](https://www.amazon.es/dp/B00GNAP830/?tag=tolees-21)
+[![VTech Baby 150503 - Cubo educativo para ](https://m.media-amazon.com/images/I/51HAWPTR8aL._SL400_.jpg)](https://www.amazon.es/dp/B00GNAP830/?tag=tolees-21)
 
 ℹ️:
 

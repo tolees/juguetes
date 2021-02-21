@@ -2,7 +2,7 @@
 layout: post
 title: 'Luz trasera impermeable para bicicleta   al 88.48 % de descuento'
 date: 2020-01-22 14:05:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pmn-Psd6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pmn-Psd6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.14'
 
 Está [Luz trasera impermeable para bicicleta  ajuste constante  potente](https://www.amazon.es/dp/B01NCWMYQF/?tag=tolees-21) con 88.48 de descuento por 1.14 EUR (original: 9.9 EUR) en el siguiente enlace!
 
-[![Luz trasera impermeable para bicicleta  ](https://images-eu.ssl-images-amazon.com/images/I/41pmn-Psd6L._SL200_.jpg)](https://www.amazon.es/dp/B01NCWMYQF/?tag=tolees-21)
+[![Luz trasera impermeable para bicicleta  ](https://images-eu.ssl-images-amazon.com/images/I/41pmn-Psd6L._SL400_.jpg)](https://www.amazon.es/dp/B01NCWMYQF/?tag=tolees-21)
 
 ℹ️:
 

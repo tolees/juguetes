@@ -2,7 +2,7 @@
 layout: post
 title: 'My Little Pony - Equestria Minis Caravan al 28.37 % de rebaja'
 date: 2020-10-12 21:50:34
-image: 'https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61lensvdGTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.246363636363636'
 
 Tienes [My Little Pony - Equestria Minis Caravana Sushi  Hasbro C1840EU4 ](https://www.amazon.es/dp/B06WLN9PXT/?tag=tolees-21) con precio final de  20.02 EUR (original: 27.95 EUR) (28.37 %  de rebaja) aqui!
 
-[![My Little Pony - Equestria Minis Caravan](https://m.media-amazon.com/images/I/61lensvdGTL._SL200_.jpg)](https://www.amazon.es/dp/B06WLN9PXT/?tag=tolees-21)
+[![My Little Pony - Equestria Minis Caravan](https://m.media-amazon.com/images/I/61lensvdGTL._SL400_.jpg)](https://www.amazon.es/dp/B06WLN9PXT/?tag=tolees-21)
 
 🔎:
 

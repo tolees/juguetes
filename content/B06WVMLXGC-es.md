@@ -2,7 +2,7 @@
 layout: post
 title: 'Elbphilharmonie Hamburg. Puzzle 1008 Tei al 41.62 % de descuento'
 date: 2020-03-14 12:52:51
-image: 'https://m.media-amazon.com/images/I/51wD5RWmJwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wD5RWmJwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.01'
 
 Está [Elbphilharmonie Hamburg. Puzzle 1008 Teile](https://www.amazon.es/dp/B06WVMLXGC/?tag=tolees-21) con 41.62 de descuento por 8.01 EUR (original: 13.72 EUR) en el siguiente enlace!
 
-[![Elbphilharmonie Hamburg. Puzzle 1008 Tei](https://m.media-amazon.com/images/I/51wD5RWmJwL._SL200_.jpg)](https://www.amazon.es/dp/B06WVMLXGC/?tag=tolees-21)
+[![Elbphilharmonie Hamburg. Puzzle 1008 Tei](https://m.media-amazon.com/images/I/51wD5RWmJwL._SL400_.jpg)](https://www.amazon.es/dp/B06WVMLXGC/?tag=tolees-21)
 
 ℹ️:
 

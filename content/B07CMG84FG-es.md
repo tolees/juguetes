@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars E0584 Juguete interactivos - J al 23.65 % de rebaja'
 date: 2020-03-22 22:01:44
-image: 'https://m.media-amazon.com/images/I/51LZjwl0WIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LZjwl0WIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.745'
 
 Tienes [Star Wars E0584 Juguete interactivos - Juguetes interactivos  Marrón   4 año s   Niño/niña  1 5 V  Alcalino ](https://www.amazon.es/dp/B07CMG84FG/?tag=tolees-21) con precio final de  56.59 EUR (original: 74.12 EUR) (23.65 %  de rebaja) aqui!
 
-[![Star Wars E0584 Juguete interactivos - J](https://m.media-amazon.com/images/I/51LZjwl0WIL._SL200_.jpg)](https://www.amazon.es/dp/B07CMG84FG/?tag=tolees-21)
+[![Star Wars E0584 Juguete interactivos - J](https://m.media-amazon.com/images/I/51LZjwl0WIL._SL400_.jpg)](https://www.amazon.es/dp/B07CMG84FG/?tag=tolees-21)
 
 🔎:
 

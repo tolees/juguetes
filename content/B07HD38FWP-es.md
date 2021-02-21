@@ -2,7 +2,7 @@
 layout: post
 title: 'Mattel Disney Toy Story 4 Figura Básica  con un 16.68 % de descuento'
 date: 2020-08-03 10:49:55
-image: 'https://m.media-amazon.com/images/I/412ig-oa+aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412ig-oa+aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.271666666666665'
 
 En este momento está [Mattel Disney Toy Story 4 Figura Básica Hamm  Juguetes Niños +3 Años  GHY68 ](https://www.amazon.es/dp/B07HD38FWP/?tag=tolees-21) a 12.49 EUR (original: 14.99 EUR) (16.68 %  de descuento) en el siguiente enlace!
 
-[![Mattel Disney Toy Story 4 Figura Básica ](https://m.media-amazon.com/images/I/412ig-oa+aL._SL200_.jpg)](https://www.amazon.es/dp/B07HD38FWP/?tag=tolees-21)
+[![Mattel Disney Toy Story 4 Figura Básica ](https://m.media-amazon.com/images/I/412ig-oa+aL._SL400_.jpg)](https://www.amazon.es/dp/B07HD38FWP/?tag=tolees-21)
 
 🔎:
 

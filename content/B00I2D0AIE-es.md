@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.02 % en Mousehouse Gifts Adorable muñecas de Tra'
 date: 2020-04-11 08:40:33
-image: 'https://m.media-amazon.com/images/I/41rcz1wMQ9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rcz1wMQ9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Tienes [Mousehouse Gifts Adorable muñecas de Trapo Hada de Peluche Rosa de 31 cm](https://www.amazon.es/dp/B00I2D0AIE/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Mousehouse Gifts Adorable muñecas de Tra](https://m.media-amazon.com/images/I/41rcz1wMQ9L._SL200_.jpg)](https://www.amazon.es/dp/B00I2D0AIE/?tag=tolees-21)
+[![Mousehouse Gifts Adorable muñecas de Tra](https://m.media-amazon.com/images/I/41rcz1wMQ9L._SL400_.jpg)](https://www.amazon.es/dp/B00I2D0AIE/?tag=tolees-21)
 
 ℹ️:
 

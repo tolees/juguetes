@@ -2,7 +2,7 @@
 layout: post
 title: 'Lixada Casco de Bicicleta de Montaña Cas al 22.09 % de rebaja'
 date: 2020-09-18 16:20:19
-image: 'https://m.media-amazon.com/images/I/51PGDa16SAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PGDa16SAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.04'
 
 Tienes [Lixada Casco de Bicicleta de Montaña Casco de Motociclismo con Visera Magnética Desmontable Ligero Protector UV Unisexo](https://www.amazon.es/dp/B088X1CJ4P/?tag=tolees-21) con precio final de  28.04 EUR (original: 35.99 EUR) (22.09 %  de rebaja) aqui!
 
-[![Lixada Casco de Bicicleta de Montaña Cas](https://m.media-amazon.com/images/I/51PGDa16SAL._SL200_.jpg)](https://www.amazon.es/dp/B088X1CJ4P/?tag=tolees-21)
+[![Lixada Casco de Bicicleta de Montaña Cas](https://m.media-amazon.com/images/I/51PGDa16SAL._SL400_.jpg)](https://www.amazon.es/dp/B088X1CJ4P/?tag=tolees-21)
 
 🔎:
 

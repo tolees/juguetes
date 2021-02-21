@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 30.79 % en Banpresto - Disney Character Scar  Banda'
 date: 2020-08-16 23:54:08
-image: 'https://m.media-amazon.com/images/I/41OYCY4JwLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OYCY4JwLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.38'
 
 Tienes [Banpresto - Disney Character Scar  Bandai 85652 ](https://www.amazon.es/dp/B07R25H5ND/?tag=tolees-21) con un 30.79 % de descuento con precio de oferta de 19.38 EUR (original: 28.0 EUR) en el siguiente enlace!
 
-[![Banpresto - Disney Character Scar  Banda](https://m.media-amazon.com/images/I/41OYCY4JwLL._SL200_.jpg)](https://www.amazon.es/dp/B07R25H5ND/?tag=tolees-21)
+[![Banpresto - Disney Character Scar  Banda](https://m.media-amazon.com/images/I/41OYCY4JwLL._SL400_.jpg)](https://www.amazon.es/dp/B07R25H5ND/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fisher-Price - Duermebebés sueños Felice al 43.52 % de descuento'
 date: 2020-06-02 07:10:56
-image: 'https://m.media-amazon.com/images/I/41fnBnamJ8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fnBnamJ8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.5'
 
 Ahora mismo tienes [Fisher-Price - Duermebebés sueños Felices  Mattel CHG19 ](https://www.amazon.es/dp/B00PI0GZ7Y/?tag=tolees-21) a 25.5 EUR (original: 45.15 EUR) (43.52 %  de descuento) en el siguiente enlace!
 
-[![Fisher-Price - Duermebebés sueños Felice](https://m.media-amazon.com/images/I/41fnBnamJ8L._SL200_.jpg)](https://www.amazon.es/dp/B00PI0GZ7Y/?tag=tolees-21)
+[![Fisher-Price - Duermebebés sueños Felice](https://m.media-amazon.com/images/I/41fnBnamJ8L._SL400_.jpg)](https://www.amazon.es/dp/B00PI0GZ7Y/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Saint Seiya Myth Cloth Figura  Bandai BD con un 36.49 % de descuento'
 date: 2020-05-27 19:06:18
-image: 'https://m.media-amazon.com/images/I/41VinyZ0usL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VinyZ0usL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.148'
 
 En este momento está [Saint Seiya Myth Cloth Figura  Bandai BDISS079170 ](https://www.amazon.es/dp/B01L8S48ZA/?tag=tolees-21) a 47.0 EUR (original: 74.0 EUR) (36.49 %  de descuento) en el siguiente enlace!
 
-[![Saint Seiya Myth Cloth Figura  Bandai BD](https://m.media-amazon.com/images/I/41VinyZ0usL._SL200_.jpg)](https://www.amazon.es/dp/B01L8S48ZA/?tag=tolees-21)
+[![Saint Seiya Myth Cloth Figura  Bandai BD](https://m.media-amazon.com/images/I/41VinyZ0usL._SL400_.jpg)](https://www.amazon.es/dp/B01L8S48ZA/?tag=tolees-21)
 
 🔎:
 

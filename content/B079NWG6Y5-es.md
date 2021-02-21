@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 15.40 % en Nerf- Lanzador Firestrike  Color azul  H'
 date: 2020-06-19 09:16:47
-image: 'https://m.media-amazon.com/images/I/41lqvC4cyfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lqvC4cyfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.342500000000001'
 
 Tienes [Nerf- Lanzador Firestrike  Color azul  Hasbro 53378EU6    color/modelo surtido](https://www.amazon.es/dp/B079NWG6Y5/?tag=tolees-21) con un 15.40 % de descuento con precio de oferta de 10.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
-[![Nerf- Lanzador Firestrike  Color azul  H](https://m.media-amazon.com/images/I/41lqvC4cyfL._SL200_.jpg)](https://www.amazon.es/dp/B079NWG6Y5/?tag=tolees-21)
+[![Nerf- Lanzador Firestrike  Color azul  H](https://m.media-amazon.com/images/I/41lqvC4cyfL._SL400_.jpg)](https://www.amazon.es/dp/B079NWG6Y5/?tag=tolees-21)
 
 ℹ️:
 

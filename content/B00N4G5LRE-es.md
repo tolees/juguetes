@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 29.28 % en BANDAI Tamashii Nations Movie Realizatio'
 date: 2020-05-29 11:32:53
-image: 'https://m.media-amazon.com/images/I/41mzYtp3JGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mzYtp3JGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.0'
 
 Tienes [BANDAI Tamashii Nations Movie Realization Samurai General Darth Vader Star Wars Action Figure Discontinued by Manufacturer ](https://www.amazon.es/dp/B00N4G5LRE/?tag=tolees-21) con un 29.28 % de descuento con precio de oferta de 99.0 EUR (original: 139.99 EUR) en el siguiente enlace!
 
-[![BANDAI Tamashii Nations Movie Realizatio](https://m.media-amazon.com/images/I/41mzYtp3JGL._SL200_.jpg)](https://www.amazon.es/dp/B00N4G5LRE/?tag=tolees-21)
+[![BANDAI Tamashii Nations Movie Realizatio](https://m.media-amazon.com/images/I/41mzYtp3JGL._SL400_.jpg)](https://www.amazon.es/dp/B00N4G5LRE/?tag=tolees-21)
 
 ℹ️:
 

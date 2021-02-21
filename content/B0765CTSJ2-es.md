@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Creator - Pastelería Modular  Jugue al 28.58 % de descuento'
 date: 2020-06-11 06:17:40
-image: 'https://m.media-amazon.com/images/I/51zmEC4RPqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zmEC4RPqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.241999999999997'
 
 Ahora mismo tienes [LEGO Creator - Pastelería Modular  Juguete de Construcción Educativo y Divertido para Niñas y Niños de 8 a 12 Años  Incluye Minifiguras  31077 ](https://www.amazon.es/dp/B0765CTSJ2/?tag=tolees-21) a 24.99 EUR (original: 34.99 EUR) (28.58 %  de descuento) en el siguiente enlace!
 
-[![LEGO Creator - Pastelería Modular  Jugue](https://m.media-amazon.com/images/I/51zmEC4RPqL._SL200_.jpg)](https://www.amazon.es/dp/B0765CTSJ2/?tag=tolees-21)
+[![LEGO Creator - Pastelería Modular  Jugue](https://m.media-amazon.com/images/I/51zmEC4RPqL._SL400_.jpg)](https://www.amazon.es/dp/B0765CTSJ2/?tag=tolees-21)
 
 🔎:
 

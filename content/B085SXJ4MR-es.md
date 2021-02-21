@@ -2,7 +2,7 @@
 layout: post
 title: 'yidenguk Objetivo Digital Electrónico pa al 34.28 % de rebaja'
 date: 2020-07-18 08:01:33
-image: 'https://m.media-amazon.com/images/I/51ibWodYdyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ibWodYdyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Tienes [yidenguk Objetivo Digital Electrónico para Nerf  Objetivos de Puntuación Móvil con Restablecimiento Automático Efectos Inteligentes de Sonido y Luz para Nerf Guns Blaster Elite/Mega/Rival Series](https://www.amazon.es/dp/B085SXJ4MR/?tag=tolees-21) con precio final de  21.99 EUR (original: 33.46 EUR) (34.28 %  de rebaja) aqui!
 
-[![yidenguk Objetivo Digital Electrónico pa](https://m.media-amazon.com/images/I/51ibWodYdyL._SL200_.jpg)](https://www.amazon.es/dp/B085SXJ4MR/?tag=tolees-21)
+[![yidenguk Objetivo Digital Electrónico pa](https://m.media-amazon.com/images/I/51ibWodYdyL._SL400_.jpg)](https://www.amazon.es/dp/B085SXJ4MR/?tag=tolees-21)
 
 🔎:
 

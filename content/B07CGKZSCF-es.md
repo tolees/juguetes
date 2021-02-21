@@ -2,7 +2,7 @@
 layout: post
 title: 'Hot Wheels - Track Builder  pack de acce al 19.64 % de descuento'
 date: 2020-06-16 14:46:16
-image: 'https://m.media-amazon.com/images/I/41dEUQ8nqxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dEUQ8nqxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.815000000000001'
 
 Ahora mismo tienes [Hot Wheels - Track Builder  pack de accesorios para pistas Booster -  Mattel GBN81 ](https://www.amazon.es/dp/B07CGKZSCF/?tag=tolees-21) a 15.26 EUR (original: 18.99 EUR) (19.64 %  de descuento) en el siguiente enlace!
 
-[![Hot Wheels - Track Builder  pack de acce](https://m.media-amazon.com/images/I/41dEUQ8nqxL._SL200_.jpg)](https://www.amazon.es/dp/B07CGKZSCF/?tag=tolees-21)
+[![Hot Wheels - Track Builder  pack de acce](https://m.media-amazon.com/images/I/41dEUQ8nqxL._SL400_.jpg)](https://www.amazon.es/dp/B07CGKZSCF/?tag=tolees-21)
 
 🔎:
 

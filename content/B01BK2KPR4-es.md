@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO DUPLO Town - Aventura en Submarino  al 15.01 % de rebaja'
 date: 2020-08-31 17:37:32
-image: 'https://m.media-amazon.com/images/I/51TmOaFFyxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TmOaFFyxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.612'
 
 Tienes [LEGO DUPLO Town - Aventura en Submarino Juguete Educativo de Baño para Bebés   10910 ](https://www.amazon.es/dp/B01BK2KPR4/?tag=tolees-21) con precio final de  16.99 EUR (original: 19.99 EUR) (15.01 %  de rebaja) aqui!
 
-[![LEGO DUPLO Town - Aventura en Submarino ](https://m.media-amazon.com/images/I/51TmOaFFyxL._SL200_.jpg)](https://www.amazon.es/dp/B01BK2KPR4/?tag=tolees-21)
+[![LEGO DUPLO Town - Aventura en Submarino ](https://m.media-amazon.com/images/I/51TmOaFFyxL._SL400_.jpg)](https://www.amazon.es/dp/B01BK2KPR4/?tag=tolees-21)
 
 🔎:
 

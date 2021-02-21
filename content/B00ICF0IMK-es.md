@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.51 % en Pegasus Spiele   Juego de Cartas de 2 a '
 date: 2020-04-19 06:55:42
-image: 'https://m.media-amazon.com/images/I/51p7LxUrwoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51p7LxUrwoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.41'
 
 Tienes [Pegasus Spiele   Juego de Cartas de 2 a 5 Jugadores](https://www.amazon.es/dp/B00ICF0IMK/?tag=tolees-21) con un 19.51 % de descuento con precio de oferta de 13.41 EUR (original: 16.66 EUR) en el siguiente enlace!
 
-[![Pegasus Spiele   Juego de Cartas de 2 a ](https://m.media-amazon.com/images/I/51p7LxUrwoL._SL200_.jpg)](https://www.amazon.es/dp/B00ICF0IMK/?tag=tolees-21)
+[![Pegasus Spiele   Juego de Cartas de 2 a ](https://m.media-amazon.com/images/I/51p7LxUrwoL._SL400_.jpg)](https://www.amazon.es/dp/B00ICF0IMK/?tag=tolees-21)
 
 ℹ️:
 

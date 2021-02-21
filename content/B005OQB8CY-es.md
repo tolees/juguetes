@@ -2,7 +2,7 @@
 layout: post
 title: 'Educa- Provincias España Puzzle infantil con un 65.22 % de descuento'
 date: 2020-09-03 12:08:02
-image: 'https://m.media-amazon.com/images/I/61Q6oVnntxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Q6oVnntxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.970000000000001'
 
 En este momento está [Educa- Provincias España Puzzle infantil de 150 piezas  a partir de 6 años  14870 ](https://www.amazon.es/dp/B005OQB8CY/?tag=tolees-21) a 5.2 EUR (original: 14.95 EUR) (65.22 %  de descuento) en el siguiente enlace!
 
-[![Educa- Provincias España Puzzle infantil](https://m.media-amazon.com/images/I/61Q6oVnntxL._SL200_.jpg)](https://www.amazon.es/dp/B005OQB8CY/?tag=tolees-21)
+[![Educa- Provincias España Puzzle infantil](https://m.media-amazon.com/images/I/61Q6oVnntxL._SL400_.jpg)](https://www.amazon.es/dp/B005OQB8CY/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pinypon Pack 2 mascotas  mariposa y mono al 63.03 % de descuento'
 date: 2020-06-08 17:33:12
-image: 'https://m.media-amazon.com/images/I/61M-yk-lGfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61M-yk-lGfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.2'
 
 Está [Pinypon Pack 2 mascotas  mariposa y mono  Famosa   700012732 ](https://www.amazon.es/dp/B06VSTFBMS/?tag=tolees-21) con 63.03 de descuento por 2.2 EUR (original: 5.95 EUR) en el siguiente enlace!
 
-[![Pinypon Pack 2 mascotas  mariposa y mono](https://m.media-amazon.com/images/I/61M-yk-lGfL._SL200_.jpg)](https://www.amazon.es/dp/B06VSTFBMS/?tag=tolees-21)
+[![Pinypon Pack 2 mascotas  mariposa y mono](https://m.media-amazon.com/images/I/61M-yk-lGfL._SL400_.jpg)](https://www.amazon.es/dp/B06VSTFBMS/?tag=tolees-21)
 
 ℹ️:
 

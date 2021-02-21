@@ -2,7 +2,7 @@
 layout: post
 title: 'Revell- Mini RC Racing Car II Juguetes a al 38.56 % de descuento'
 date: 2020-04-03 08:38:33
-image: 'https://m.media-amazon.com/images/I/4158qqigwXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4158qqigwXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Revell- Mini RC Racing Car II Juguetes a Control Remoto  Multicolor  23561 ](https://www.amazon.es/dp/B07CQ117XG/?tag=tolees-21) a 9.99 EUR (original: 16.26 EUR) (38.56 %  de descuento) en el siguiente enlace!
 
-[![Revell- Mini RC Racing Car II Juguetes a](https://m.media-amazon.com/images/I/4158qqigwXL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ117XG/?tag=tolees-21)
+[![Revell- Mini RC Racing Car II Juguetes a](https://m.media-amazon.com/images/I/4158qqigwXL._SL400_.jpg)](https://www.amazon.es/dp/B07CQ117XG/?tag=tolees-21)
 
 🔎:
 

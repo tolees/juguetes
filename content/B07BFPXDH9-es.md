@@ -2,7 +2,7 @@
 layout: post
 title: 'Hot Wheels Supertúnel de lavado  pista d al 42.23 % de rebaja'
 date: 2020-03-06 08:24:30
-image: 'https://m.media-amazon.com/images/I/41Rp6ByCVEL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rp6ByCVEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.156666666666666'
 
 Tienes [Hot Wheels Supertúnel de lavado  pista de coches de juguete  Mattel FTB66 ](https://www.amazon.es/dp/B07BFPXDH9/?tag=tolees-21) con precio final de  25.99 EUR (original: 44.99 EUR) (42.23 %  de rebaja) aqui!
 
-[![Hot Wheels Supertúnel de lavado  pista d](https://m.media-amazon.com/images/I/41Rp6ByCVEL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BFPXDH9/?tag=tolees-21)
+[![Hot Wheels Supertúnel de lavado  pista d](https://m.media-amazon.com/images/I/41Rp6ByCVEL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07BFPXDH9/?tag=tolees-21)
 
 🔎:
 

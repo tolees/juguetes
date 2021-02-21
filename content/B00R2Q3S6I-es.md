@@ -2,7 +2,7 @@
 layout: post
 title: 'KONG - CuteSeas Octopus - Peluche de Pan al 38.15 % de descuento'
 date: 2020-06-24 17:38:40
-image: 'https://m.media-amazon.com/images/I/51TZyIT58-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TZyIT58-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.49'
 
 Está [KONG - CuteSeas Octopus - Peluche de Pana para Perros - para Perros Pequeños](https://www.amazon.es/dp/B00R2Q3S6I/?tag=tolees-21) con 38.15 de descuento por 4.49 EUR (original: 7.26 EUR) en el siguiente enlace!
 
-[![KONG - CuteSeas Octopus - Peluche de Pan](https://m.media-amazon.com/images/I/51TZyIT58-L._SL200_.jpg)](https://www.amazon.es/dp/B00R2Q3S6I/?tag=tolees-21)
+[![KONG - CuteSeas Octopus - Peluche de Pan](https://m.media-amazon.com/images/I/51TZyIT58-L._SL400_.jpg)](https://www.amazon.es/dp/B00R2Q3S6I/?tag=tolees-21)
 
 ℹ️:
 

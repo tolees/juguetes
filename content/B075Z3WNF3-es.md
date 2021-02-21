@@ -2,7 +2,7 @@
 layout: post
 title: 'Supersoaker Splash Mouth  Hasbro E0021EU con un 23.40 % de descuento'
 date: 2020-07-14 16:15:52
-image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.1'
 
 En este momento está [Supersoaker Splash Mouth  Hasbro E0021EU4    color/modelo surtido](https://www.amazon.es/dp/B075Z3WNF3/?tag=tolees-21) a 9.95 EUR (original: 12.99 EUR) (23.40 %  de descuento) en el siguiente enlace!
 
-[![Supersoaker Splash Mouth  Hasbro E0021EU](https://m.media-amazon.com/images/I/51ovYVflx3L._SL200_.jpg)](https://www.amazon.es/dp/B075Z3WNF3/?tag=tolees-21)
+[![Supersoaker Splash Mouth  Hasbro E0021EU](https://m.media-amazon.com/images/I/51ovYVflx3L._SL400_.jpg)](https://www.amazon.es/dp/B075Z3WNF3/?tag=tolees-21)
 
 🔎:
 

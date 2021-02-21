@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.41 % en Banpresto Dragon Ball  Match Makers  Sup'
 date: 2020-09-30 19:47:35
-image: 'https://m.media-amazon.com/images/I/41uCfXdvo8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uCfXdvo8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.07'
 
 Tienes [Banpresto Dragon Ball  Match Makers  Super Saiyan Broly  Multicolor  Bandai 39650 ](https://www.amazon.es/dp/B07S5R5ZFZ/?tag=tolees-21) con un 25.41 % de descuento con precio de oferta de 27.07 EUR (original: 36.29 EUR) en el siguiente enlace!
 
-[![Banpresto Dragon Ball  Match Makers  Sup](https://m.media-amazon.com/images/I/41uCfXdvo8L._SL200_.jpg)](https://www.amazon.es/dp/B07S5R5ZFZ/?tag=tolees-21)
+[![Banpresto Dragon Ball  Match Makers  Sup](https://m.media-amazon.com/images/I/41uCfXdvo8L._SL400_.jpg)](https://www.amazon.es/dp/B07S5R5ZFZ/?tag=tolees-21)
 
 ℹ️:
 

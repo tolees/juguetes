@@ -2,7 +2,7 @@
 layout: post
 title: 'Clementoni 39802 – Puzzle tríptico DM al 21.50 % de descuento'
 date: 2020-03-19 18:13:19
-image: 'https://m.media-amazon.com/images/I/51cthmKVe2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cthmKVe2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.95'
 
 Ahora mismo tienes [Clementoni 39802 – Puzzle tríptico DM](https://www.amazon.es/dp/B06ZZRZDZ7/?tag=tolees-21) a 13.95 EUR (original: 17.77 EUR) (21.50 %  de descuento) en el siguiente enlace!
 
-[![Clementoni 39802 – Puzzle tríptico DM](https://m.media-amazon.com/images/I/51cthmKVe2L._SL200_.jpg)](https://www.amazon.es/dp/B06ZZRZDZ7/?tag=tolees-21)
+[![Clementoni 39802 – Puzzle tríptico DM](https://m.media-amazon.com/images/I/51cthmKVe2L._SL400_.jpg)](https://www.amazon.es/dp/B06ZZRZDZ7/?tag=tolees-21)
 
 🔎:
 

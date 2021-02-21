@@ -2,7 +2,7 @@
 layout: post
 title: 'Wooden Jumping Gomoku Wooden Six-Color T al 35.01 % de descuento'
 date: 2020-09-11 11:01:01
-image: 'https://m.media-amazon.com/images/I/51KjYc+JF8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KjYc+JF8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.42'
 
 Está [Wooden Jumping Gomoku Wooden Six-Color Two-In-One Juego de Mesa para niños Juegos de Mesa Juguetes educativos - Multicolor](https://www.amazon.es/dp/B086XCVQKN/?tag=tolees-21) con 35.01 de descuento por 12.42 EUR (original: 19.11 EUR) en el siguiente enlace!
 
-[![Wooden Jumping Gomoku Wooden Six-Color T](https://m.media-amazon.com/images/I/51KjYc+JF8L._SL200_.jpg)](https://www.amazon.es/dp/B086XCVQKN/?tag=tolees-21)
+[![Wooden Jumping Gomoku Wooden Six-Color T](https://m.media-amazon.com/images/I/51KjYc+JF8L._SL400_.jpg)](https://www.amazon.es/dp/B086XCVQKN/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Polly Pocket Cofre refugio de nieve  muñ con un 33.36 % de descuento'
 date: 2020-06-06 16:00:05
-image: 'https://m.media-amazon.com/images/I/519joVqm1PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519joVqm1PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 En este momento está [Polly Pocket Cofre refugio de nieve  muñeca con accesorios  Mattel FRY37    color/modelo surtido](https://www.amazon.es/dp/B079KN3HXW/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
-[![Polly Pocket Cofre refugio de nieve  muñ](https://m.media-amazon.com/images/I/519joVqm1PL._SL200_.jpg)](https://www.amazon.es/dp/B079KN3HXW/?tag=tolees-21)
+[![Polly Pocket Cofre refugio de nieve  muñ](https://m.media-amazon.com/images/I/519joVqm1PL._SL400_.jpg)](https://www.amazon.es/dp/B079KN3HXW/?tag=tolees-21)
 
 🔎:
 

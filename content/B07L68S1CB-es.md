@@ -2,7 +2,7 @@
 layout: post
 title: 'Lepfun 1 x Rodilleras Compresión  Rodill al 47.39 % de descuento'
 date: 2020-09-13 08:43:53
-image: 'https://m.media-amazon.com/images/I/51kDHE8AKOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kDHE8AKOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Está [Lepfun 1 x Rodilleras Compresión  Rodilleras Deportivas para crossfit  motocross  voleibol  bicicleta  Baloncesto  Small  W8000 ](https://www.amazon.es/dp/B07L68S1CB/?tag=tolees-21) con 47.39 de descuento por 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![Lepfun 1 x Rodilleras Compresión  Rodill](https://m.media-amazon.com/images/I/51kDHE8AKOL._SL200_.jpg)](https://www.amazon.es/dp/B07L68S1CB/?tag=tolees-21)
+[![Lepfun 1 x Rodilleras Compresión  Rodill](https://m.media-amazon.com/images/I/51kDHE8AKOL._SL400_.jpg)](https://www.amazon.es/dp/B07L68S1CB/?tag=tolees-21)
 
 ℹ️:
 

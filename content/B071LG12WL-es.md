@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro - Baby Alive Muñeca  multicolor   al 74.99 % de descuento'
 date: 2020-03-30 06:08:35
-image: 'https://m.media-amazon.com/images/I/61jANOC7VdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61jANOC7VdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.0'
 
 Ahora mismo tienes [Hasbro - Baby Alive Muñeca  multicolor  38 cm   C0963105 ](https://www.amazon.es/dp/B071LG12WL/?tag=tolees-21) a 10.0 EUR (original: 39.99 EUR) (74.99 %  de descuento) en el siguiente enlace!
 
-[![Hasbro - Baby Alive Muñeca  multicolor  ](https://m.media-amazon.com/images/I/61jANOC7VdL._SL200_.jpg)](https://www.amazon.es/dp/B071LG12WL/?tag=tolees-21)
+[![Hasbro - Baby Alive Muñeca  multicolor  ](https://m.media-amazon.com/images/I/61jANOC7VdL._SL400_.jpg)](https://www.amazon.es/dp/B071LG12WL/?tag=tolees-21)
 
 🔎:
 

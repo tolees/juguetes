@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Gaming- Disney Desafio Musical  E al 27.72 % de rebaja'
 date: 2020-06-22 14:54:02
-image: 'https://m.media-amazon.com/images/I/61fPNP6h9SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61fPNP6h9SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.75'
 
 Tienes [Hasbro Gaming- Disney Desafio Musical  E1872105 ](https://www.amazon.es/dp/B079MCJQDM/?tag=tolees-21) con precio final de  9.75 EUR (original: 13.49 EUR) (27.72 %  de rebaja) aqui!
 
-[![Hasbro Gaming- Disney Desafio Musical  E](https://m.media-amazon.com/images/I/61fPNP6h9SL._SL200_.jpg)](https://www.amazon.es/dp/B079MCJQDM/?tag=tolees-21)
+[![Hasbro Gaming- Disney Desafio Musical  E](https://m.media-amazon.com/images/I/61fPNP6h9SL._SL400_.jpg)](https://www.amazon.es/dp/B079MCJQDM/?tag=tolees-21)
 
 🔎:
 
