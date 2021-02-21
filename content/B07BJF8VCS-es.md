@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lost Kitties gatito caja sorpresa colecc con un 70.99 % de descuento'
-date: 2021-02-19 11:10:43
+date: 2021-02-21 08:47:14
 image: 'https://m.media-amazon.com/images/I/51XSBdFMgXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lost Kitties'
 buyurl: 'https://www.amazon.es/dp/B07BJF8VCS/?tag=tolees-21'
 descuento: '70.99'
-average: '3.55777777777778'
+average: '3.36181818181818'
 ---
 
 En este momento está [Lost Kitties gatito caja sorpresa colección individual  multicolor  Hasbro E4459EU4    color/modelo surtido](https://www.amazon.es/dp/B07BJF8VCS/?tag=tolees-21) a 2.48 EUR (original: 8.55 EUR) (70.99 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Lost Kitties gatito caja sorpresa colección individual  
 
 🔎:
 
-- Cada gatito viene con una plastilina y dos accesorios
-- Gatitos diferentes para coleccionar
 - Los gatos están empaquetados en un divertido cartón de leche
 - Apto para niños a partir de 5 años
+- Gatitos diferentes para coleccionar
+- Cada gatito viene con una plastilina y dos accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BJF8VCS/?tag=tolees-21)
