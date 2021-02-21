@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIS America - God Wars Future Past - Pla al 61.41 % de rebaja'
-date: 2021-02-01 09:58:22
+date: 2021-02-21 15:26:06
 image: 'https://m.media-amazon.com/images/I/61yGIgiK+fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIS America'
 buyurl: 'https://www.amazon.es/dp/B01N9SDGVZ/?tag=tolees-21'
 descuento: '61.41'
-average: '19.39'
+average: '19.3566666666667'
 ---
 
 Tienes [NIS America - God Wars Future Past - PlayStation 4 [Importación italiana]](https://www.amazon.es/dp/B01N9SDGVZ/?tag=tolees-21) con precio final de  19.29 EUR (original: 49.99 EUR) (61.41 %  de rebaja) aqui!
@@ -28,7 +28,7 @@ Tienes [NIS America - God Wars Future Past - PlayStation 4 [Importación italian
 
 🔎:
 
-- RPG Tattico con trama avvincente ricca di tradizione Giapponese
 - 14 diversi personaggi giocabili
+- RPG Tattico con trama avvincente ricca di tradizione Giapponese
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N9SDGVZ/?tag=tolees-21)
