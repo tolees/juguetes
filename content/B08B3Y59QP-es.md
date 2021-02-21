@@ -28,10 +28,10 @@ Tienes [Bizak Curligirls Peinados y Rizados Muñeca Individual Pop Star  Charli 
 
 🔎:
 
+- Puedes peinarlo, rizarlo, desrizarlo una y otra vez
 - Las muñecas de Curligirls tienen pelo mágico; se riza instantáneamente cuando tiras de él; cuanto más tiempo tires, más rizado quedará
 - Puedes customizarlo con las horquillas y abalorios incluidos
-- Hay 4 modelos diferentes
-- Puedes peinarlo, rizarlo, desrizarlo una y otra vez
 - Puedes volver a alisarlo al sumergir el pelo en agua templada
+- Hay 4 modelos diferentes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B3Y59QP/?tag=tolees-21)
