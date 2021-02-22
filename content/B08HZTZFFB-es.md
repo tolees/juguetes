@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'BANDAI NAMCO Entertainment Iberica - Rid con un 18.75 % de descuento'
-date: 2021-02-14 19:57:40
-image: 'https://m.media-amazon.com/images/I/41wYfDRJ89L._SL200_.jpg'
+title: 'BANDAI NAMCO Entertainment Iberica - Rid con un 58.34 % de descuento'
+date: 2021-02-22 07:13:32
+image: 'https://m.media-amazon.com/images/I/41wYfDRJ89L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08HZTZFFB-es BANDAI NAMCO Entertainment Iberica - Ride 4'
 sku: 'B08HZTZFFB-es'
 tags: [ 'bandai', ]
-actualPrice: 58.49 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 58.49
+price: 29.99
 comparePrice: 71.99 EUR
 prodname: 'BANDAI NAMCO Entertainment Iberica - Ride 4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21'
-descuento: '18.75'
-average: '62.8233333333333'
+descuento: '58.34'
+average: '54.615'
 ---
 
-En este momento está [BANDAI NAMCO Entertainment Iberica - Ride 4](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21) a 58.49 EUR (original: 71.99 EUR) (18.75 %  de descuento) en el siguiente enlace!
+En este momento está [BANDAI NAMCO Entertainment Iberica - Ride 4](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21) a 29.99 EUR (original: 71.99 EUR) (58.34 %  de descuento) en el siguiente enlace!
 
-[![BANDAI NAMCO Entertainment Iberica - Rid](https://m.media-amazon.com/images/I/41wYfDRJ89L._SL200_.jpg)](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21)
+[![BANDAI NAMCO Entertainment Iberica - Rid](https://m.media-amazon.com/images/I/41wYfDRJ89L._SL400_.jpg)](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21)
 
 🔎:
 
