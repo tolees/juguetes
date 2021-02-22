@@ -28,10 +28,10 @@ Tienes [Venom - Twin Docking Station  PS4 ](https://www.amazon.es/dp/B00SRKXZIE/
 
 ℹ️:
 
+- Cargos mientras está en modo de espera
 - Se suministra con x2 Dongle Micro USB
+- Mandos no incluido
 - Mantenga los mandos completamente cargados y listos para usar
 - Negro y mate para combinar con los controladores y el sistema PS4
-- Mandos no incluido
-- Cargos mientras está en modo de espera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SRKXZIE/?tag=tolees-21)
