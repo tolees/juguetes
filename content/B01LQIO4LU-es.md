@@ -28,10 +28,10 @@ Tienes [Devir Firefly  Piratas y cazarrecompensas  Miscelanea  BGFLY3 ](https://
 
 🔎:
 
+- Edad recomendada: 13 años y más
+- Tipo de producto: juego de mesa
 - Número de jugadores: 2 - 6
 - Duración aproximada de la partida: 120 minutos
-- Tipo de producto: juego de mesa
 - Juego adecuado para pasar el tiempo libre
-- Edad recomendada: 13 años y más
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LQIO4LU/?tag=tolees-21)
