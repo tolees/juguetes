@@ -28,15 +28,15 @@ Ahora mismo tienes [LEGO Friends - Remolque del Caballo de Mia Nuevo juguete de 
 
 🔎:
 
-- Los sets LEGO Friends ecuestres fomentan el juego imaginativo y convierten la construcción en una actividad creativa y divertida.
-- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a las constructoras más pequeñas a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
-- Es ideal como regalo de Navidad o de fiestas para jóvenes constructoras creativas.
 - Este set forma parte del mundo de LEGO Friends, inspirado en emocionantes escenarios de la vida real y los héroes del día a día.
+- Ayuda a tu joven constructora a expresar su sensibilidad hacia los animales dándole la oportunidad de cuidar y alimentar a la yegua con una zanahoria y un poco de heno.
+- Usa la app LEGO Life para acceder a las intuitivas instrucciones de construcción Instructions PLUS. Ayuda incluso a las constructoras más pequeñas a lo largo de todo el proceso de construcción con funciones fáciles de usar, como acercar, girar y el modo fantasma, para que vean cómo evoluciona su creación.
+- Los sets LEGO Friends ecuestres fomentan el juego imaginativo y convierten la construcción en una actividad creativa y divertida.
+- Es ideal como regalo de Navidad o de fiestas para jóvenes constructoras creativas.
+- Accesorios incluidos: manta para la yegua, montura, bridas, casco de equitación, zanahoria, heno, cepillo, lazo y gafas de sol.
 - Este juguete infantil basado en la equitación incluye 2 minipersonajes: Mia y Emma; incluye también una yegua de juguete y una figura de un conejo.
+- Tu peque puede enganchar el remolque del caballo de juguete y pasar luego a recoger a Emma en el todoterreno de Mia.
 - Las múltiples situaciones de juego permiten echar a volar la imaginación en un ambiente al aire libre.
 - Cuenta con un buggy 4x4 y un remolque para caballos LEGO Friends de juguete para construir con lateral abatible y puerta trasera con bisagras, una escena del bosque para construir donde vive el conejito y una caja de accesorios para cuidar a la yegua.
-- Accesorios incluidos: manta para la yegua, montura, bridas, casco de equitación, zanahoria, heno, cepillo, lazo y gafas de sol.
-- Ayuda a tu joven constructora a expresar su sensibilidad hacia los animales dándole la oportunidad de cuidar y alimentar a la yegua con una zanahoria y un poco de heno.
-- Tu peque puede enganchar el remolque del caballo de juguete y pasar luego a recoger a Emma en el todoterreno de Mia.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KTKCRYR/?tag=tolees-21)

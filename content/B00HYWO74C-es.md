@@ -28,9 +28,9 @@ Tienes [Hasbro Gaming - Games - Conecta 4  Hasbro A5640175 ](https://www.amazon.
 
 🔎:
 
+- Elije tu forma favorita para ganar
 - Conseguirlo se basa en seguir una estrategia
 - Sé el primer en conseguir cuatro en raya
 - Abre la parte de abajo para volver a empezar
-- Elije tu forma favorita para ganar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HYWO74C/?tag=tolees-21)
