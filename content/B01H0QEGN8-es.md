@@ -28,10 +28,10 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Tekken 7 - Standard 
 
 🔎:
 
-- TEKKEN 7 representa el capítulo final de 20 años de contienda entre los Mishima. Descubre el inolvidable cierre de la lucha familiar entre los miembros del clan Mishima mientras intentan resolver sus antiguas disputas y luchan por hacerse con el control de un imperio global, con lo que pondrán en peligro la estabilidad del mundo
+- Una gran selección de más de 30 personajes con nuevas incorporaciones y uno de los mayores listados de movimientos que se han visto nunca en un videojuego de lucha
 - Las peleas clásicas de 1 contra 1 regresan junto a nuevos movimientos y mecánicas de combate como "Rage Arts", "Power Crushes" y "Rage Drives" que hacen que el juego sea más accesible para jugadores de todos los niveles de habilidad
 - Akuma, de Street Fighter, encaja perfectamente en las tres dimensiones y se une a la lucha en esta épica combinación de franquicias que se completa con sus movimientos estilo shotokan y sus bolas de fuego
-- Una gran selección de más de 30 personajes con nuevas incorporaciones y uno de los mayores listados de movimientos que se han visto nunca en un videojuego de lucha
+- TEKKEN 7 representa el capítulo final de 20 años de contienda entre los Mishima. Descubre el inolvidable cierre de la lucha familiar entre los miembros del clan Mishima mientras intentan resolver sus antiguas disputas y luchan por hacerse con el control de un imperio global, con lo que pondrán en peligro la estabilidad del mundo
 - Gráficos fotorrealistas e impresionantes efectos de batalla. Las espectaculares secuencias cinemáticas de la historia combinan a la perfección con la brutalidad de las peleas y desvelan la intrigante historia de forma novedosa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01H0QEGN8/?tag=tolees-21)
