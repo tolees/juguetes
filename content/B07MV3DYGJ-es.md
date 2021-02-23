@@ -28,8 +28,8 @@ En este momento está [Play-Doh-Pack 20 Botes  color surtido   Hasbro A7924EUC ]
 
 🔎:
 
-- Adecuado para reuniones de juegos y fiestas
 - El pack Mundo de Colores incluye plastilina Play-Doh para pequeñas manitas
+- Adecuado para reuniones de juegos y fiestas
 - Incluye 20 botes
 - Moldea y da forma a la plastilina
 - Muchas posibilidades creativas
