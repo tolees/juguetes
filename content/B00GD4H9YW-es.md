@@ -28,10 +28,10 @@ Tienes [4Gamers - Ardistel - Stereo Gaming Headset  PS4  PS Vita ](https://www.a
 
 🔎:
 
-- Diadema acolchada y ajustable
+- Altavoces de 40 mm de diámetro
 - Control de volumen para juego y chat de voz
 - Micrófono flexible
-- Altavoces de 40 mm de diámetro
 - Auricular rotatorio transpirable
+- Diadema acolchada y ajustable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00GD4H9YW/?tag=tolees-21)
