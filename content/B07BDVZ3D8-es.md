@@ -28,11 +28,11 @@ En este momento está [BIGBEN - Tennis World Tour - Versión Español PS4](https
 
 🔎:
 
+- Una dimensión táctica nunca antes vista en un juego de tenis; los jugadores pueden definir las habilidades clave que usarán durante el partido
 - Un juego diseñado para la competición; además de un sistema de clasificaciones mundiales permanentes, hay nuevos desafíos online disponibles cada semana
+- Todos los modos de juego: exhibición, World Tour, individuales y dobles, local y online
+- Un completo modo carrera: entrenamiento, torneos, gestión de personal, compra de equipo; cada jugador puede experimentar la carrera de un auténtico profesional
 - Reproducción perfecta de los jugadores y sus movimientos, gracias a la captura de movimientos y la fotogrametría
 - 30 de los mejores jugadores de los circuitos oficiales, incluidos Roger Federer, Angelique Kerber y muchos jugadores legendarios
-- Un completo modo carrera: entrenamiento, torneos, gestión de personal, compra de equipo; cada jugador puede experimentar la carrera de un auténtico profesional
-- Todos los modos de juego: exhibición, World Tour, individuales y dobles, local y online
-- Una dimensión táctica nunca antes vista en un juego de tenis; los jugadores pueden definir las habilidades clave que usarán durante el partido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BDVZ3D8/?tag=tolees-21)
