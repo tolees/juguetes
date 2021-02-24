@@ -28,10 +28,10 @@ Tienes [Theo Klein 8485 Banco de trabajo  150 piezas  Incluye destornillador el�
 
 🔎:
 
+- El set de construcción, las herramientas y el destornillador eléctrico con efectos de rotación, luz y sonido convierten a los niños en verdaderos aficionados y aficionadas al bricolaje
 - Está óptimamente equipada: con casco, gafas de seguridad, orejeras, guantes, herramientas y mucho más
+- Made in Germany, Medidas: 62 cm x 42 cm x 100 cm, apto para niños a partir de tres años, Pilas necesarias: 2 x RO3, 3 x R6-AA, No incluidas en la entrega
 - El atornillado y el trabajo ayuda a ejercitar las habilidades motoras, el pensamiento espacial y la creatividad
 - Este banco de trabajo tiene todo lo necesario para construir, pulir, perforar y trabajar; simplemente todo lo que un pequeño obrero y aficionado al bricolaje desea de corazón
-- El set de construcción, las herramientas y el destornillador eléctrico con efectos de rotación, luz y sonido convierten a los niños en verdaderos aficionados y aficionadas al bricolaje
-- Made in Germany, Medidas: 62 cm x 42 cm x 100 cm, apto para niños a partir de tres años, Pilas necesarias: 2 x RO3, 3 x R6-AA, No incluidas en la entrega
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CML4RZI/?tag=tolees-21)
