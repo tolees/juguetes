@@ -28,8 +28,8 @@ Tienes [LEGO STAR WARS - Microcaza Homing Spider Droid  75077 ](https://www.amaz
 
 ℹ️:
 
-- Incluye una figura de un droide de combate con un blaster
 - La caza está servida en el planeta Geonosis con el microcaza Homing Spider Droid de LEGO Star Wars y su armamento pesado
 - Esta asombrosa versión a microescala del droide que aparece en las películas de Star Wars cuenta con fantásticos detalles, patas ajustables, un misil e incluso una minicabina en la que puede sentarse el droide de combate
+- Incluye una figura de un droide de combate con un blaster
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NVDNLCM/?tag=tolees-21)

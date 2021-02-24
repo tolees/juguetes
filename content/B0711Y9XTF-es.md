@@ -28,8 +28,8 @@ Tienes [Outward Hound Puzzle Toy Nina Ottosson Dog Brick-Rompecabezas Interactiv
 
 🔎:
 
-- Nivel de dificultad 2: ofrece un mayor grado de estimulación y más posibilidades de aprender
 - Fácil de limpiar
+- Nivel de dificultad 2: ofrece un mayor grado de estimulación y más posibilidades de aprender
 - Pon fin al aburrimiento: los compartimentos del rompecabezas mantendrán a tu perro entretenido
 - Embalaje en varios idiomas: EN/DE/FR/ES/IT/NL/SE/RUS
 - Destapar, abrir y deslizar: 3 métodos distintos para dar premios
