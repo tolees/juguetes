@@ -28,9 +28,9 @@ Ahora mismo tienes [Nerf- N-Strike Mega BigShock Blaster Lanzadardos  Hasbro A93
 
 🔎:
 
+- Para muchas horas de diversión
+- Este lanzador combina todo el poder de Mega en un tamaño compacto
 - No te lo puedes perder
 - El lanzador es adecuado para llevarlo en la palma de tu mano
-- Este lanzador combina todo el poder de Mega en un tamaño compacto
-- Para muchas horas de diversión
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00OTINH2M/?tag=tolees-21)
