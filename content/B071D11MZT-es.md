@@ -28,10 +28,10 @@ Está [Timorn - Timron Reemplazo LT RT Trigger Springs para Xbox 360 Controlador
 
 ℹ️:
 
-- Fácil de instalar con un destornillador T8 (no incluido)
-- Repare los desencadenantes gastados y defectuosos.
-- El paquete incluye: 20pcs x Trigger Springs
 - Piezas de repuesto de reemplazo perfectas para resorte de botón de disparo LT RT suelto, roto, defectuoso y dañado.
 - Compatible con Xbox 360 inalámbrico y controlador por cable.
+- Repare los desencadenantes gastados y defectuosos.
+- El paquete incluye: 20pcs x Trigger Springs
+- Fácil de instalar con un destornillador T8 (no incluido)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071D11MZT/?tag=tolees-21)
