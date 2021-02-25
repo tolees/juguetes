@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'LEGO Ideas - 21320 Dinosaur Fossils al 25.27 % de descuento'
-date: 2021-01-26 13:22:53
-image: 'https://m.media-amazon.com/images/I/51AiWhU5swL._SL200_.jpg'
+title: 'LEGO Ideas Juguete de construcción de Di al 33.84 % de descuento'
+date: 2021-02-25 14:55:23
+image: 'https://m.media-amazon.com/images/I/51AiWhU5swL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZD6TZKH-es LEGO Ideas - 21320 Dinosaur Fossils'
+slug: 'B07ZD6TZKH-es LEGO Ideas Juguete de construcción de Dinosaurio'
 sku: 'B07ZD6TZKH-es'
 tags: [ 'lego', ]
-actualPrice: 68.66 EUR
+actualPrice: 59.95 EUR
 currency: EUR
-price: 68.66
-comparePrice: 91.88 EUR
-prodname: 'LEGO Ideas - 21320 Dinosaur Fossils'
+price: 59.95
+comparePrice: 90.61 EUR
+prodname: 'LEGO Ideas Juguete de construcción de Dinosaurio'
 country: 'es'
 flag: '🇪🇸'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07ZD6TZKH/?tag=tolees-21'
-descuento: '25.27'
-average: '78.2254189944133'
+descuento: '33.84'
+average: '79.8558260869565'
 ---
 
-Está [LEGO Ideas - 21320 Dinosaur Fossils](https://www.amazon.es/dp/B07ZD6TZKH/?tag=tolees-21) con 25.27 de descuento por 68.66 EUR (original: 91.88 EUR) en el siguiente enlace!
+Está [LEGO Ideas Juguete de construcción de Dinosaurio](https://www.amazon.es/dp/B07ZD6TZKH/?tag=tolees-21) con 33.84 de descuento por 59.95 EUR (original: 90.61 EUR) en el siguiente enlace!
 
-[![LEGO Ideas - 21320 Dinosaur Fossils](https://m.media-amazon.com/images/I/51AiWhU5swL._SL200_.jpg)](https://www.amazon.es/dp/B07ZD6TZKH/?tag=tolees-21)
+[![LEGO Ideas Juguete de construcción de Di](https://m.media-amazon.com/images/I/51AiWhU5swL._SL400_.jpg)](https://www.amazon.es/dp/B07ZD6TZKH/?tag=tolees-21)
 
 ℹ️:
 
