@@ -28,10 +28,10 @@ Tienes [Bandai Namco - Consola Micro Player Retro Arcade Dig Dug](https://www.am
 
 🔎:
 
-- 3.5mm headphone jack to connect your headphones
 - Features artwork inspired by the original Dig Dug arcade cabinet
-- Removable joystick
 - Built-in speaker with volume control
+- Removable joystick
+- 3.5mm headphone jack to connect your headphones
 - Full color 2.75" screen
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CRRP4F4/?tag=tolees-21)
