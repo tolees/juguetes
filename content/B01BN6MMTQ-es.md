@@ -28,8 +28,8 @@ Está [TOIMS Cars - Bicicleta Infantil para niño  Color Rojo  tamaño 16 Pulgad
 
 ℹ️:
 
-- Freno delantero – freno trasero de tambor
 - Conforme a las normas ISO 8098
 - Montaje sin herramientas de los estabilizadores
+- Freno delantero – freno trasero de tambor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BN6MMTQ/?tag=tolees-21)
