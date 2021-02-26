@@ -29,9 +29,9 @@ Está [Nacon - Revolution Pro Controller 3 Playstation 4 Mando Para PS4 Y PC Rev
 ℹ️:
 
 - Entrada de 3,5mm para auriculares (auriculares no incluidos)
-- Indicador LED de estado del jugador. 2 motores de vibración personalizables
-- Soporte para audio y chat; halo LED personalizable
 - 4 botones configurables para atajos; cruceta para 4 u 8 direcciones
 - Conexión por cable; cable extraíble USB-C trenzado de 3m
+- Indicador LED de estado del jugador. 2 motores de vibración personalizables
+- Soporte para audio y chat; halo LED personalizable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082SS6LQN/?tag=tolees-21)
