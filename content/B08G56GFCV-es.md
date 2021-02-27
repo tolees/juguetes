@@ -28,13 +28,13 @@ Está [LEGO 31113 Creator 3en1 Transporte de Coches de Carreras Set de Construcc
 
 ℹ️:
 
-- Busca otros fascinantes sets LEGO Creator 3en1 novedad en enero de 2021: Ciberdrón (31111), León Salvaje (31112), Supermoto (31114) y Casa Surfera en la Playa (31118)
-- El Transporte de Coches de Carreras es un camión articulado con remolque desmontable que transporta 2 coches y tiene 2 rampas para cargarlos y descargarlos El remolque dispone de un soporte para sostenerse por sí solo
-- Abre las puertas de un mundo de juego creativo con el set de juguetes LEGO Creator 3en1 Transporte de Coches de Carreras (31113), con 3 maquetas en 1: un transporte de coches de juguete, un camión grúa y un remolcador con grúa
-- La recompensa perfecta para fans de LEGO a partir de 7 años que sienten auténtica pasión por los camiones y los barcos alucinantes
-- El transporte de coches de juguete mide aproximadamente 7 cm de altura, 24 cm de longitud y 4 cm de anchura: el tamaño portátil óptimo para jugar en casa o llevarlo a casa de un amigo
-- El transporte de coches de juguete incluye 2 coches de carreras (1 azul y 1 rojo) para que los niños puedan ponerse al volante y protagonizar emocionantes competiciones de velocidad en la pista
-- Los sets LEGO Creator 3en1 permiten a los niños disfrutar del mejor juego imaginativo mientras inventan trepidantes historias a partir de las 3 maquetas diferentes que se pueden crear con cada caja
 - Este camión grúa de juguete está equipado con una grúa que gira 360 grados y que puede elevar la carga o bajarla, mientras que el minirremolcador cuenta con una grúa que funciona
+- El Transporte de Coches de Carreras es un camión articulado con remolque desmontable que transporta 2 coches y tiene 2 rampas para cargarlos y descargarlos El remolque dispone de un soporte para sostenerse por sí solo
+- El transporte de coches de juguete mide aproximadamente 7 cm de altura, 24 cm de longitud y 4 cm de anchura: el tamaño portátil óptimo para jugar en casa o llevarlo a casa de un amigo
+- Busca otros fascinantes sets LEGO Creator 3en1 novedad en enero de 2021: Ciberdrón (31111), León Salvaje (31112), Supermoto (31114) y Casa Surfera en la Playa (31118)
+- Los sets LEGO Creator 3en1 permiten a los niños disfrutar del mejor juego imaginativo mientras inventan trepidantes historias a partir de las 3 maquetas diferentes que se pueden crear con cada caja
+- Abre las puertas de un mundo de juego creativo con el set de juguetes LEGO Creator 3en1 Transporte de Coches de Carreras (31113), con 3 maquetas en 1: un transporte de coches de juguete, un camión grúa y un remolcador con grúa
+- El transporte de coches de juguete incluye 2 coches de carreras (1 azul y 1 rojo) para que los niños puedan ponerse al volante y protagonizar emocionantes competiciones de velocidad en la pista
+- La recompensa perfecta para fans de LEGO a partir de 7 años que sienten auténtica pasión por los camiones y los barcos alucinantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G56GFCV/?tag=tolees-21)

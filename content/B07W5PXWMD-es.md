@@ -28,14 +28,14 @@ Tienes [LEGO Ninjago - Mercado de Jugadores  Juguete de Construcción  Incluye 9
 
 ℹ️:
 
-- Instructions PLUS ofrece una guía interactiva que convierte la construcción de este mercado LEGO en una experiencia más amena todavía. Disponible en la app gratuita LEGO Life.
 - Este mercado de juguete de 218 piezas, un juguete de construcción para niños y niñas a partir de 7 años, se crea rápidamente y es fantástico como regalo de cumpleaños.
-- Un fascinante mercado LEGO con 9 minifiguras LEGO exclusivas de Prime Empire. Por eso es el regalo perfecto para niños que adoran el reino de NINJAGO y representar sus propias historias con juguetes ninja coleccionables.
-- El increíble mercado LEGO se compone de varios puestos provistos de 6 sombreros ninja diferentes y un surtido de armas nuevas; cuando jueguen los peques, se disparará su imaginación mientras visten y arman las 9 figuras de videojuegos.
 - Los kits de construcción LEGO NINJAGO para niños alimentan su creatividad y les permiten entrar en un emocionante mundo de aventuras en el que podrán formar equipo con sus héroes ninja favoritos e imaginar infinitas historias y batallas.
-- Los ladrillos LEGO usados para crear este juguete de acción se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
 - Los ladrillos LEGO usados para crear este juguete de construcción llevan cumpliendo las normas más estrictas del sector desde hace más de 60 años, lo que garantiza que ofrecen siempre las mismas cualidades, son compatibles entre sí.
 - Este juguete de construcción no requiere pilas: en cuanto se construye, está listo para dar paso al juego independiente o a toneladas de acción con amigos. Con estos modelos ninja coleccionables, la diversión es inagotable.
+- Los ladrillos LEGO usados para crear este juguete de acción se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
+- Un fascinante mercado LEGO con 9 minifiguras LEGO exclusivas de Prime Empire. Por eso es el regalo perfecto para niños que adoran el reino de NINJAGO y representar sus propias historias con juguetes ninja coleccionables.
+- Instructions PLUS ofrece una guía interactiva que convierte la construcción de este mercado LEGO en una experiencia más amena todavía. Disponible en la app gratuita LEGO Life.
+- El increíble mercado LEGO se compone de varios puestos provistos de 6 sombreros ninja diferentes y un surtido de armas nuevas; cuando jueguen los peques, se disparará su imaginación mientras visten y arman las 9 figuras de videojuegos.
 - El mercado de juguete tiene el tamaño perfecto para jugar en casa o llevarlo contigo a cualquier sitio. El puesto con la Key-Tana mide 14 cm de altura y 9 cm de anchura.
 - Este set de construcción incluye 9 minifiguras, entre ellas NINJAGO Jay Digital, el avatar de Nya y el avatar de Cole, y las figuras de Zane Rosa y Harumi (exclusivas). En el Mercado de Jugadores hay una tienda de armas y un puesto de sombreros.
 

@@ -29,9 +29,9 @@ Está [LEGO Speed champion - 1974 Porsche 911 turbo 3.0  Set de Contrucción del
 ℹ️:
 
 - El 1974 Porsche 911 Turbo 3.0 mide más de 4 cm de altura, 15 cm de longitud y 6 cm de ancho
-- Desmonta el parabrisas para introducir la minifigura en el coche
-- Esta maqueta incluye una minifigura de un piloto del clásico Porsche 911 (novedad en agosto del 2019)
 - Accesorios incluidos: casco del piloto del Porsche 911 y 3 conos para trasladar la emoción de las competiciones automovilísticas al juego
 - Este fabuloso modelo de coche de juguete es adecuado como regalo de cumpleaños
+- Esta maqueta incluye una minifigura de un piloto del clásico Porsche 911 (novedad en agosto del 2019)
+- Desmonta el parabrisas para introducir la minifigura en el coche
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P1BVN1K/?tag=tolees-21)

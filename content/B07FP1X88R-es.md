@@ -29,12 +29,12 @@ En este momento está [LEGO Classic - Ladrillos Básicos  manualidades niños y 
 🔎:
 
 - ¡La creatividad está asegurada con los sets LEGO Classic!
-- Incluye ladrillos, ruedas y ojos LEGO para crear modelos LEGO clásicos.
-- Ofrece 3 niveles de dificultad adaptados a los pequeños constructores.
 - Contiene ladrillos LEGO de vistosos colores que fomentan el juego creativo sin límites.
-- Este set proporciona una experiencia de construcción y juego apropiada para niños a partir de 4 años.
-- El set incluye 300 elementos.
 - Más instrucciones de construcción, divertidos vídeos, ideas e inspiración en LEGO.com/classic.
+- Ofrece 3 niveles de dificultad adaptados a los pequeños constructores.
+- Este set proporciona una experiencia de construcción y juego apropiada para niños a partir de 4 años.
 - ¡Crea un dinosaurio de juguete, un camión monstruo, un avión de hélice LEGO o cualquier otra cosa que puedas imaginar!
+- El set incluye 300 elementos.
+- Incluye ladrillos, ruedas y ojos LEGO para crear modelos LEGO clásicos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FP1X88R/?tag=tolees-21)
