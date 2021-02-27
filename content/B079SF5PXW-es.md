@@ -28,10 +28,10 @@ Tienes [Pinypon- Club de Hípica  Multicolor  Famosa 700014352    color/modelo s
 
 ℹ️:
 
-- Incluye el establo, figura exclusiva de Michelle vestida de amazona, su caballo y muchos accesorios
-- El caballo es de puro estilo Pinypon, con muchas divertidas piezas combinables, colas, crines, herraduras y calentadores
-- Es un maletín para abrir y jugar y cerrar y guardar, con asa para llevarlo fácilmente donde quieras
 - Dentro del club están las áreas de la ducha, zona de belleza y peluquería y donde se guardan los trofeos del caballo campeón
 - Divertido escenario del Club Hípico; el mismo establo que sale en la serie de televisión PINY
+- El caballo es de puro estilo Pinypon, con muchas divertidas piezas combinables, colas, crines, herraduras y calentadores
+- Es un maletín para abrir y jugar y cerrar y guardar, con asa para llevarlo fácilmente donde quieras
+- Incluye el establo, figura exclusiva de Michelle vestida de amazona, su caballo y muchos accesorios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079SF5PXW/?tag=tolees-21)
