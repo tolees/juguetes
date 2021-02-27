@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir- Coloretto Juego de Mesa  Multicolor  única  BGCOL ](
 
 🔎:
 
-- Duración de la partida: 30 minutos
-- Idioma español
 - De 2 a 5 jugadores
 - Para mayores de 8 años
+- Idioma español
+- Duración de la partida: 30 minutos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B1F2PMM/?tag=tolees-21)
