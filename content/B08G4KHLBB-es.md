@@ -30,9 +30,9 @@ Tienes [LEGO 71733 NINJAGO Set de Batalla Legendaria: Cole vs. Guerrero Fantasma
 
 - Recrea batallas legendarias al estilo LEGO NINJAGO aún más espectaculares combinándolo con estos otros sets: Kai vs Skulkin (71730), Zane vs Nindroide (71731) y Jay vs Serpentine (71732)
 - El mercado mide aproximadamente 7 cm de altura, 5 cm de anchura y 8 cm de profundidad: un tamaño para librar batallas en el dormitorio o para llevarlo a casa de un amigo
-- El Set de Batalla Legendaria: Cole vs Guerrero Fantasma LEGO NINJAGO (71733) proporciona todo lo necesario para representar batallas empleando hábiles técnicas de patada y golpeo entre Cole, su héroe ninja, y el malvado Guerrero Fantasma
 - Desde hace más de seis décadas, los ladrillos LEGO se fabrican con materiales de máxima calidad para garantizar que siempre se separen fácilmente No te hará falta usar tus habilidades ninja
 - Este juego de juguetes ninja cuenta con 2 minifiguras: Cole (novedad en enero de 2021) y un Guerrero Fantasma Legacy de la serie para televisión LEGO NINJAGO; además, contiene 4 exclusivas Armas Negras
+- El Set de Batalla Legendaria: Cole vs Guerrero Fantasma LEGO NINJAGO (71733) proporciona todo lo necesario para representar batallas empleando hábiles técnicas de patada y golpeo entre Cole, su héroe ninja, y el malvado Guerrero Fantasma
 - El juguete de combate ninja incluye también un mercado para construir donde tendrán lugar las luchas entre los personajes y una plataforma de combate giratoria que Cole usará para derribar a su oponente
 - Los sets LEGO NINJAGO invitan a los niños a darse un descanso de sus pantallas tentándoles con un viaje a un mundo de juego imaginativo en el que aprenden habilidades positivas para la vida participando en aventuras junto a sus héroes ninja
 - Con solo 51 piezas, es óptimo como primer set LEGO para jóvenes constructores a partir de 6 años, así como un maravilloso regalo sorpresa con el que querrán jugar una y otra vez

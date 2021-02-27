@@ -28,15 +28,15 @@ Está [LEGO Friends - Fiesta en la Piscina de Andrea Nuevo set de construcción 
 
 ℹ️:
 
-- El bar de zumos incluye 2 taburetes y se puede colocar en el lateral o fijar a la piscina de juguete como bar acuático.
-- El escenario de la fiesta en la piscina ayuda a las pequeñas a representar y explorar situaciones sociales.
-- La máquina de olas cuenta con un juego de altavoces, una tabla de surf y una función con mando giratorio para recrear el movimiento de las olas.
 - Los divertidos detalles, como los cañones que “disparan” agua, contribuyen a abrir las posibilidades de juego.
 - A las peques les encantará hacerse pasar por Andrea y cantar para sus amigos.
-- Accesorios incluidos: frutero, licuadora, plátano, zanahoria, vasos con cerezas, tabla de surf, discos, cañones de agua con acción de disparo, pajarita, cepillo para el cabello, aletas y pez.
 - Gira el mando de la máquina de olas y parecerá que las chicas surfean.
 - Es ideal como regalo de Navidad o de fiestas para jóvenes constructoras creativas.
+- El escenario de la fiesta en la piscina ayuda a las pequeñas a representar y explorar situaciones sociales.
 - Incluye 2 minipersonajes: Andrea y Stephanie.
+- El bar de zumos incluye 2 taburetes y se puede colocar en el lateral o fijar a la piscina de juguete como bar acuático.
+- La máquina de olas cuenta con un juego de altavoces, una tabla de surf y una función con mando giratorio para recrear el movimiento de las olas.
 - Contiene una piscina para construir con un tobogán, una catarata, un trampolín de salto, una piscina de burbujas, una cabina de DJ giratoria, un área de ducha con vestuario y baño, y un acuario.
+- Accesorios incluidos: frutero, licuadora, plátano, zanahoria, vasos con cerezas, tabla de surf, discos, cañones de agua con acción de disparo, pajarita, cepillo para el cabello, aletas y pez.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KTK94T6/?tag=tolees-21)
