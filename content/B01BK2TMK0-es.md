@@ -28,10 +28,10 @@ Tienes [LEGO DUPLO Town - Isla Tropical Nuevo set de construcción educativo  in
 
 ℹ️:
 
-- El edificio del cuidador mide más de 19 cm de altura, 13 cm de ancho y 10 cm de profundidad.
-- Un set LEGO DUPLO de animales con 3 figuras DUPLO: un cuidador, un viajero y un niño, así como con 6 figuras de animales: un elefante y su cría, un tigre y su cría, un mono y un tucán.
 - La casa del árbol mide más de 27 cm de altura, 26 cm de ancho y 12 cm de profundidad.
-- Accesorios incluidos: una cámara, una mano de plátanos, una piña y diferente vegetación de la jungla.
+- Un set LEGO DUPLO de animales con 3 figuras DUPLO: un cuidador, un viajero y un niño, así como con 6 figuras de animales: un elefante y su cría, un tigre y su cría, un mono y un tucán.
 - Este divertido juguete educativo para bebés cuenta con una casa del árbol de la jungla con polea, el edificio del cuidador y un puente giratorio.
+- El edificio del cuidador mide más de 19 cm de altura, 13 cm de ancho y 10 cm de profundidad.
+- Accesorios incluidos: una cámara, una mano de plátanos, una piña y diferente vegetación de la jungla.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BK2TMK0/?tag=tolees-21)
