@@ -28,10 +28,10 @@ Ahora mismo tienes [Hasbro Gaming - Juego infantil Corona Comilona Hasbro E24201
 
 🔎:
 
-- El jugador que más comida coma gana
 - Prepárate para reírte mientras los jugadores atrapan la comida
 - Compite con otros para comer la mayor cantidad de comida antes de que pare la música
-- Fresas, piña, gominolas, queso… elige tu comida favorita y engánchala a los tenedores colgantes (comida no incluida)
+- El jugador que más comida coma gana
 - Es el juego de la corona giratoria musical para chuparse los dedos
+- Fresas, piña, gominolas, queso… elige tu comida favorita y engánchala a los tenedores colgantes (comida no incluida)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DD72NKR/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Sylvanian Families - 5051 - Animales Tienda de dulces](https://www.amazo
 
 🔎:
 
-- Figuras de 6 a 10 cm
 - Conectables y coleccionables
+- Figuras de 6 a 10 cm
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 - Desarrolla el juego imaginativo y cotidiano de los niños
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
