@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Descuento del 19.24 % en Devir - Machi Koro Legacy  BGMKLSP '
+date: 2021-02-28 13:31:54
+image: 'https://m.media-amazon.com/images/I/51JCWZnhD8L._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B085WMPZYD-es Devir - Machi Koro Legacy BGMKLSP'
+sku: 'B085WMPZYD-es'
+tags: [ 'devir', ]
+actualPrice: 36.34 EUR
+currency: EUR
+price: 36.34
+comparePrice: 45.0 EUR
+prodname: 'Devir - Machi Koro Legacy  BGMKLSP '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Devir'
+buyurl: 'https://www.amazon.es/dp/B085WMPZYD/?tag=tolees-21'
+descuento: '19.24'
+average: '36.5490909090909'
+---
+
+Tienes [Devir - Machi Koro Legacy  BGMKLSP ](https://www.amazon.es/dp/B085WMPZYD/?tag=tolees-21) con un 19.24 % de descuento con precio de oferta de 36.34 EUR (original: 45.0 EUR) en el siguiente enlace!
+
+[![Devir - Machi Koro Legacy  BGMKLSP ](https://m.media-amazon.com/images/I/51JCWZnhD8L._SL400_.jpg)](https://www.amazon.es/dp/B085WMPZYD/?tag=tolees-21)
+
+ℹ️:
+
+- Numero de jugadores 2-4
+- El primer juego legacy de categoría familiar, apto para todos los públicos
+- Elementos compensadores entre partidas para que todos los jugadores tengan posibilidades hasta el final
+- Tiempo de juego 30-45 minutos
+- Una campaña rápida, jugable en diez sesiones
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085WMPZYD/?tag=tolees-21)

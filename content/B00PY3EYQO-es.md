@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic - Caja de ladrillos creativ con un 18.98 % de descuento'
-date: 2021-02-27 14:42:03
+date: 2021-02-28 15:16:25
 image: 'https://m.media-amazon.com/images/I/613lzt1YuOL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO Classic'
 buyurl: 'https://www.amazon.es/dp/B00PY3EYQO/?tag=tolees-21'
 descuento: '18.98'
-average: '45.4283847980997'
+average: '45.4050827423167'
 ---
 
 En este momento está [LEGO Classic - Caja de ladrillos creativos grande  Set de Construcción con ladrillos de colores  Juguete Creativo y divertido a partir de 4 años  incluye separador de piezas  10698 ](https://www.amazon.es/dp/B00PY3EYQO/?tag=tolees-21) a 40.5 EUR (original: 49.99 EUR) (18.98 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [LEGO Classic - Caja de ladrillos creativos grande  Set de
 
 🔎:
 
-- Incluye una amplia gama de piezas de LEGO en 33 colores diferentes
 - Cuenta con una amplia gama de ladrillos, ventanas, puertas, marcos, además tiene dos placas de base de diferentes tamaños
 - Incluye un separador de ladrillo y viene en una caja de almacenamiento
+- Incluye una amplia gama de piezas de LEGO en 33 colores diferentes
 - Edad mínima: 4 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PY3EYQO/?tag=tolees-21)
