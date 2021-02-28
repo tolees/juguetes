@@ -28,11 +28,11 @@ Está [LEGO Speed Champions - Deportivo Chevrolet Camaro ZL1  juguete divertido 
 
 ℹ️:
 
+- Mide más de 4 cm de altura, 14 cm de longitud y 5 cm de ancho.
+- El Chevrolet Camaro ZL1 para construir, preparado para enfrentarse a cualquier carrera, cuenta con cabina para una minifigura con jaula de seguridad ajustable, parabrisas desmontable, ruedas con neumáticos de caucho y llantas decoradas con la marca Chevrolet Camaro, elementos translúcidos a modo de faros, colores deportivos, adhesivos de competición y detalles de diseño de gran realismo.
 - Este juguete de construcción es un regalo fantástico para niños y aficionados al automovilismo de todas las edades.
-- Desmonta el parabrisas y levanta la jaula de seguridad para introducir la minifigura en el coche.
 - Incluye una minifigura de un piloto de Camaro.
 - Accesorios incluidos: una lata de combustible, una llave inglesa y el casco del piloto de Camaro.
-- El Chevrolet Camaro ZL1 para construir, preparado para enfrentarse a cualquier carrera, cuenta con cabina para una minifigura con jaula de seguridad ajustable, parabrisas desmontable, ruedas con neumáticos de caucho y llantas decoradas con la marca Chevrolet Camaro, elementos translúcidos a modo de faros, colores deportivos, adhesivos de competición y detalles de diseño de gran realismo.
-- Mide más de 4 cm de altura, 14 cm de longitud y 5 cm de ancho.
+- Desmonta el parabrisas y levanta la jaula de seguridad para introducir la minifigura en el coche.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FP711YW/?tag=tolees-21)
