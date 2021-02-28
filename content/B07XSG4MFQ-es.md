@@ -28,10 +28,10 @@ Tienes [Auriculares Gaming PS4  Galopar Cascos Gaming  Premium Stereo con Microf
 
 🔎:
 
-- ☊【Micrófono con Cancelación de Ruido】Estos auriculares se completan con un micrófono flexible con sistema de cancelación de ruido y captación omnidireccional para garantizarte la mejor comunicación en tus juegos online.
-- ☊【Sonido Estéreo Potente】Cuentan con unos altavoces de 40 mm que aseguran un 3D sonido surround estéreo en tonos bajos, medios y altos, proporcionando una experiencia envolvente tanto para juegos como para vídeos y música. Poseen un control en el cable que te permite silenciar los auriculares junto con una rueda que te permite regular el volumen.
+- ☊【Diseño Ergonómico】Extremadamente ligeros, on unos pabellones acolchados que envuelven la oreja entera y nos aíslan del sonido exterior de forma excepcional. Y además las almohadillas cubren toda la oreja y son transpirables para evitar sudoraciones, lo que permite largas sesiones de juegos sin molestias.
 - ☊【Excelente Compatibilidad】Tiene un gran rango de compatibilidad, pudiendo conectarlos a Windows o Mac mediante una conexiónun Jack de 3.5 mm y a tu Smartphone, Tablet o PS4 y otros muchos dispositivos. Para conectarlo a una XBbox One tendrás que comprar un adaptador adicional. Los cascos también se entregan con un adaptador Y, lo que permite la conexión a un ordenador con tomas de casco y micrófono independientes.
 - ☊【Inmersión Experiencia】Posicionará el sonido mientras juegas. Es una función trascendental ya que si el enemigo se acerca por detrás, podremos oírlo y localizarlo. Tendrás un sonido preciso y localizado, proporcionándote ventaja sobre tus rivales. Así, aporta una nueva experiencia a nuestro juego.
-- ☊【Diseño Ergonómico】Extremadamente ligeros, on unos pabellones acolchados que envuelven la oreja entera y nos aíslan del sonido exterior de forma excepcional. Y además las almohadillas cubren toda la oreja y son transpirables para evitar sudoraciones, lo que permite largas sesiones de juegos sin molestias.
+- ☊【Micrófono con Cancelación de Ruido】Estos auriculares se completan con un micrófono flexible con sistema de cancelación de ruido y captación omnidireccional para garantizarte la mejor comunicación en tus juegos online.
+- ☊【Sonido Estéreo Potente】Cuentan con unos altavoces de 40 mm que aseguran un 3D sonido surround estéreo en tonos bajos, medios y altos, proporcionando una experiencia envolvente tanto para juegos como para vídeos y música. Poseen un control en el cable que te permite silenciar los auriculares junto con una rueda que te permite regular el volumen.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XSG4MFQ/?tag=tolees-21)
