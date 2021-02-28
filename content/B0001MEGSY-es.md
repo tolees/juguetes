@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 4254 - Muebles Habi al 25.96 % de descuento'
-date: 2021-02-27 03:13:22
+date: 2021-02-28 08:54:16
 image: 'https://m.media-amazon.com/images/I/51OT9gvuRpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.es/dp/B0001MEGSY/?tag=tolees-21'
 descuento: '25.96'
-average: '16.0705483028719'
+average: '16.0639480519479'
 ---
 
 Está [Sylvanian Families - 4254 - Muebles Habitación Niños](https://www.amazon.es/dp/B0001MEGSY/?tag=tolees-21) con 25.96 de descuento por 14.8 EUR (original: 19.99 EUR) en el siguiente enlace!
