@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City - Police Coche Patrulla de La  con un 17.82 % de descuento'
-date: 2021-02-27 19:47:26
+date: 2021-02-28 20:30:20
 image: 'https://m.media-amazon.com/images/I/51z0bGBPjaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21'
 descuento: '17.82'
-average: '10.311'
+average: '10.2920720720721'
 ---
 
 En este momento está [LEGO City - Police Coche Patrulla de La Policía  Juguete Divertido de Construcción para Niños y Niñas de Aventuras de Vehículo Policial  60239 ](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21) a 8.21 EUR (original: 9.99 EUR) (17.82 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [LEGO City - Police Coche Patrulla de La Policía  Juguete
 🔎:
 
 - Incluye una minifigura LEGO de un agente de policía.
-- Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración.
-- Accesorios incluidos: 2 conos de tráfico del agente de policía.
 - El coche patrulla mide más de 4 cm de altura, 12 cm de longitud y 5 cm de ancho.
+- Accesorios incluidos: 2 conos de tráfico del agente de policía.
+- Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21)
