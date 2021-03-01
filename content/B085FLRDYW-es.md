@@ -28,8 +28,8 @@ Tienes [PLAYMOBIL 70632 Ataque del T-Rex  Multicolor](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
 - Con varios accesorios
+- Desarrolla la imaginación y la creatividad
 - Incluye dos dinosaurios T-Rex
 - Recomendado a partir de 4 meses
 
