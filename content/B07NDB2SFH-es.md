@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Star Wars TM - Yoda  Set de constru al 25.00 % de descuento'
-date: 2021-02-27 19:44:43
+title: 'LEGO Star Wars TM - Yoda  Set de constru al 16.53 % de descuento'
+date: 2021-03-01 22:04:12
 image: 'https://m.media-amazon.com/images/I/5173mjtoTnL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07NDB2SFH-es LEGO Star Wars TM - Yoda Set de construcción del Personaje...'
 sku: 'B07NDB2SFH-es'
 tags: [ 'lego', ]
-actualPrice: 86.24 EUR
+actualPrice: 95.98 EUR
 currency: EUR
-price: 86.24
+price: 95.98
 comparePrice: 114.99 EUR
 prodname: 'LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
-descuento: '25.00'
-average: '96.9591156462588'
+descuento: '16.53'
+average: '96.9880674157307'
 ---
 
-Ahora mismo tienes [LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 ](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) a 86.24 EUR (original: 114.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Star Wars TM - Yoda  Set de construcción del Personaje Jedi de la Guerra de las Galaxias  Inspirado en el Ataque de los Clones  75255 ](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) a 95.98 EUR (original: 114.99 EUR) (16.53 %  de descuento) en el siguiente enlace!
 
 [![LEGO Star Wars TM - Yoda  Set de constru](https://m.media-amazon.com/images/I/5173mjtoTnL._SL400_.jpg)](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21)
 
