@@ -28,10 +28,10 @@ En este momento está [Sylvanian Families - 5359 - Familia Nutria](https://www.a
 
 🔎:
 
-- Fantásticas figuras para casas de muñecas
 - Figura de aprox; tamaño: 6-8 cm
-- Sylvanian families es una linda colección de juguetes de animales con brazos y piernas móviles, edificios y casas detallados, así como muebles y accesorios; las figuras están pintadas a mano y los vestidos están hechos a mano
+- Fantásticas figuras para casas de muñecas
 - Apto para niños a partir de 3 años
+- Sylvanian families es una linda colección de juguetes de animales con brazos y piernas móviles, edificios y casas detallados, así como muebles y accesorios; las figuras están pintadas a mano y los vestidos están hechos a mano
 - Vater Glenn, madre Amanda, hija Nicola y hijo Jack
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NHZTY3Z/?tag=tolees-21)
