@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas Juguete de construcción de Di al 17.70 % de descuento'
-date: 2021-02-28 03:00:01
+date: 2021-03-01 03:27:15
 image: 'https://m.media-amazon.com/images/I/51AiWhU5swL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07ZD6TZKH/?tag=tolees-21'
 descuento: '17.70'
-average: '79.76547008547'
+average: '79.721440677966'
 ---
 
 Está [LEGO Ideas Juguete de construcción de Dinosaurio](https://www.amazon.es/dp/B07ZD6TZKH/?tag=tolees-21) con 17.70 de descuento por 74.57 EUR (original: 90.61 EUR) en el siguiente enlace!
