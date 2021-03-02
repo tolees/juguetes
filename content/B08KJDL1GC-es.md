@@ -29,8 +29,8 @@ Está [TRAX MTB - Sistema de Remolque para Bicicleta o Bicicleta eléctrica para
 ℹ️:
 
 - Muy práctico, compacto y fácil de instalar en tu bicicleta.
+- Para suavizar tus salidas de bicicletas y te permite traer a tu hijo en las raciones difíciles.
 - TRAX es un dispositivo diseñado para ser montado en la tija de sillín de cualquier bicicleta, para poder remolcar otra bicicleta. La tracción se realiza mediante un hilo de Kevlar muy resistente y un sistema mecánico que lo eleva automáticamente evitando el riesgo de enredos en las ruedas cuando hay menos tensión. TRAX está diseñado para compartir el ciclismo con personas de diferentes niveles físicos, permitiéndoles pedalear juntos y hacer un esfuerzo en la medida de sus posibilidades. Es especialmente adecuado para salidas electrónicas y musculares, para traer a sus hijos o a sus compañeros de salida. ¿Un avión mecánico o una batería vacía, un pequeño rider que ya no quiere pedalear? ¡Salva tus salidas con TRAX! Muy compacto y muy ligero, no molesta el pedaleo y se olvidará rápidamente. Peso: 95 g. Compatible con tija de sillín. Anclaje de 27,2 mm a 31,6 mm. Cierre adaptable con collar Rilsan de nailon. Tamaño: 60 x 50 x 50 mm. Material: Kevlar KV1500. Longitud: 1,90 m. Peso máximo del ciclista remolcado. 90 kg.
 - El sistema de enrollado mecánico evita enredos y mantiene la tensión constante en el enlace Kevlar.
-- Para suavizar tus salidas de bicicletas y te permite traer a tu hijo en las raciones difíciles.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KJDL1GC/?tag=tolees-21)
