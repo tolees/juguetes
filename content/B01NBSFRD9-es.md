@@ -28,10 +28,10 @@ Tienes [SkullCap® Kids BMX & Skate Helmet - Bicicleta Y Scooter Eléctrico  Dis
 
 🔎:
 
-- EXTREMADAMENTE VENTILADA PARA UNA CABEZA FRÍA: 11 conductos de aire proveen suficiente aire bajo el casco. Reduce la sudoración y mantiene la cabeza muy fresca incluso en días calurosos.
+- EXTREMADAMENTE FÁCIL DE AJUSTAR PARA UN MANTENIMIENTO PERFECTO: Las correas ajustables y las inserciones extraíbles permiten que el casco se ajuste. Continua a cualquier forma de cabeza. No se resbale
+- Gracias a nuestro moderno diseño, desde lo retro a lo urbano, hay algo para todos los gustos y para todos los niños. No importa si son chicos guays o chicas de moda.
 - EXTREMADAMENTE VERSÁTILES PARA SU DEPORTE: Nuestros cascos son adecuados para el uso en interiores y exteriores para patinar con longboard, patines en línea o para montar en scooters y bicicletas.
 - EXTRA SEGURIDAD PARA LA MÁXIMA PROTECCIÓN: Un casco de patín con un diseño de media concha protege no sólo la parte superior sino también la inferior de la cabeza.
-- Gracias a nuestro moderno diseño, desde lo retro a lo urbano, hay algo para todos los gustos y para todos los niños. No importa si son chicos guays o chicas de moda.
-- EXTREMADAMENTE FÁCIL DE AJUSTAR PARA UN MANTENIMIENTO PERFECTO: Las correas ajustables y las inserciones extraíbles permiten que el casco se ajuste. Continua a cualquier forma de cabeza. No se resbale
+- EXTREMADAMENTE VENTILADA PARA UNA CABEZA FRÍA: 11 conductos de aire proveen suficiente aire bajo el casco. Reduce la sudoración y mantiene la cabeza muy fresca incluso en días calurosos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NBSFRD9/?tag=tolees-21)
