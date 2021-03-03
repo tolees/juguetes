@@ -28,9 +28,9 @@ Tienes [SEGA - Yakuza Like a Dragon Day Ichi Edition - PS4](https://www.amazon.e
 
 🔎:
 
+- Conviértete en Ichiban Kasuga, un gruñido yakuza traicionado por el hombre en quien más confiaba y destroza cráneos en combate dinámico RPG
 - Encuentra, forja y mejora el equipo para enfrentarte a los enemigos más fuertes
 - El campo de batalla es tu arma: usa murciélagos, sombrillas, bicicletas, letreros de la calle y todo lo demás a tu disposición para derrotar a tus enemigos
-- Conviértete en Ichiban Kasuga, un gruñido yakuza traicionado por el hombre en quien más confiaba y destroza cráneos en combate dinámico RPG
 - Recluta hasta 7 miembros del partido de las afueras de la sociedad y pasa tiempo con los miembros del grupo para desarrollar sus habilidades y desbloquear poderosas habilidades combinadas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088ZFHDK9/?tag=tolees-21)

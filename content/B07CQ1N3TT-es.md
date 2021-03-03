@@ -28,7 +28,7 @@ En este momento está [Devir- Picnic  Multicolor  Varias    color/modelo surtido
 
 🔎:
 
-- Unos 15 minutos por partida
 - De 2 a 6 jugadores
+- Unos 15 minutos por partida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CQ1N3TT/?tag=tolees-21)
