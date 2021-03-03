@@ -1,42 +1,39 @@
 ---
 layout: post
-title: 'LEGO Harry Potter Hedwig Modelo de Exhib con un 16.08 % de descuento'
-date: 2021-03-02 10:48:44
+title: 'LEGO 75979 Harry Potter Hedwig Juguete d con un 16.08 % de descuento'
+date: 2021-03-03 16:24:07
 image: 'https://m.media-amazon.com/images/I/51tRZk4gyOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813S3VDM-es LEGO Harry Potter Hedwig Modelo de Exhibición Figura...'
+slug: 'B0813S3VDM-es LEGO 75979 Harry Potter Hedwig Juguete de Construcción de...'
 sku: 'B0813S3VDM-es'
 tags: [ 'lego', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95
 comparePrice: 49.99 EUR
-prodname: 'LEGO Harry Potter Hedwig Modelo de Exhibición Figura Coleccionable con Alas Móviles  Multicolor  75979 '
+prodname: 'LEGO 75979 Harry Potter Hedwig Juguete de Construcción de Lechuza con Alas Móviles Modelo de Exhibición Coleccionable'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813S3VDM/?tag=tolees-21'
 descuento: '16.08'
-average: '41.5593571428572'
+average: '41.5648591549296'
 ---
 
-En este momento está [LEGO Harry Potter Hedwig Modelo de Exhibición Figura Coleccionable con Alas Móviles  Multicolor  75979 ](https://www.amazon.es/dp/B0813S3VDM/?tag=tolees-21) a 41.95 EUR (original: 49.99 EUR) (16.08 %  de descuento) en el siguiente enlace!
+En este momento está [LEGO 75979 Harry Potter Hedwig Juguete de Construcción de Lechuza con Alas Móviles Modelo de Exhibición Coleccionable](https://www.amazon.es/dp/B0813S3VDM/?tag=tolees-21) a 41.95 EUR (original: 49.99 EUR) (16.08 %  de descuento) en el siguiente enlace!
 
-[![LEGO Harry Potter Hedwig Modelo de Exhib](https://m.media-amazon.com/images/I/51tRZk4gyOL._SL400_.jpg)](https://www.amazon.es/dp/B0813S3VDM/?tag=tolees-21)
+[![LEGO 75979 Harry Potter Hedwig Juguete d](https://m.media-amazon.com/images/I/51tRZk4gyOL._SL400_.jpg)](https://www.amazon.es/dp/B0813S3VDM/?tag=tolees-21)
 
 🔎:
 
-- Este set LEGO Harry Potter no necesita pilas. Todo lo que hace falta para mover las alas es el mecanismo manual situado en la parte posterior del juguete.
-- Los ladrillos y elementos LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para garantizar que cada set de construcción satisfaga los requisitos de las principales normas de seguridad del mundo.
-- La gama de sets de construcción LEGO Harry Potter, con modelos perfectos como regalo para fans de la saga, da vida a sus memorables escenas con fabulosos juguetes populares coleccionables que llevan la magia a las manos de los niños.
-- Con una envergadura de aproximadamente 34 cm y una longitud de unos 20 cm del pico a la cola, el set mecánico LEGO Hedwig coleccionable quedará impresionante expuesto y se convertirá con toda seguridad en una pieza que llamará poderosamente la atención.
-- Este juguete tan lleno de genuinos detalles muestra a Hedwig, la lechuza nival, entregando una carta importante procedente de Hogwarts. Incluye también una minifigura LEGO de Harry Potter desmontable y una lechuza Hedwig de juguete en miniatura.
-- El juguete coleccionable LEGO Hedwig (75979) cautivará a los fans de Harry Potter. La maqueta incluye impresionantes detalles y un mecanismo que mueve las alas articuladas hacia arriba y hacia abajo con gran elegancia.
-- Todos los juguetes para construir LEGO cumplen las normas internacionales más estrictas del sector; sus componentes ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan fácilmente una y otra vez… ¡sin necesidad de usar magia!
-- Con las claras instrucciones incluidas, el proceso de construcción es sencillísimo; además, proporciona una experiencia gratificante y una sensación de inmensa satisfacción al ver el resultado.
-- Si buscas un regalo original para niños basado en Harry Potter o un desafío de construcción atractivo para fans de LEGO de cualquier edad, la lechuza Hedwig de juguete es ideal como regalo de cumpleaños o Navidad para mayores de 10 años.
-- La detallada maqueta se representa en posición de vuelo. Al girar la palanca posterior, se activa un mecanismo que mueve las alas del juguete hacia arriba y hacia abajo; gracias a sus ingeniosas articulaciones, parece que la criatura bate las alas.
+- Si buscas un regalo original para niños basado en Harry Potter o un desafío de construcción atractivo para fans de LEGO de cualquier edad, la lechuza Hedwig de juguete es óptimo como regalo de cumpleaños o Navidad para mayores de 10 años
+- Este juguete tan lleno de genuinos detalles muestra a Hedwig, la lechuza nival, entregando una carta importante procedente de Hogwarts; incluye también una mini figura LEGO de Harry Potter desmontable y una lechuza Hedwig de juguete en miniatura
+- Con las claras instrucciones incluidas, el proceso de construcción es sencillísimo; además, proporciona una experiencia gratificante y una sensación de inmensa satisfacción al ver el resultado
+- La gama de sets de construcción LEGO Harry Potter, con modelos óptimos como regalo para fans de la saga, da vida a sus memorables escenas con juguetes populares coleccionables que llevan la magia a las manos de los niños
+- Este set LEGO Harry Potter no necesita pilas; todo lo que hace falta para mover las alas es el mecanismo manual situado en la parte posterior del juguete
+- La detallada maqueta se representa en posición de vuelo; al girar la palanca posterior, se activa un mecanismo que mueve las alas del juguete hacia arriba y hacia abajo; gracias a sus ingeniosas articulaciones, parece que la criatura bate las alas
+- Con una envergadura de aproximadamente 34 cm y una longitud de unos 20 cm del pico a la cola, el set mecánico LEGO Hedwig coleccionable quedará impresionante expuesto y se convertirá con toda seguridad en una pieza que llamará poderosamente la atención
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0813S3VDM/?tag=tolees-21)
