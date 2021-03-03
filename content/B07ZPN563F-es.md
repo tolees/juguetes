@@ -28,10 +28,10 @@ En este momento está [Anker Soundcore Strike 1 Gaming Auriculares  auriculares 
 
 🔎:
 
-- Audiencia de precisión: juega con ventaja gracias al diseño especial de la carcasa del diafragma, que destaca el sonido de los disparos y las pisadas para ayudarte a identificar la posición del enemigo.
-- A tus órdenes: el micrófono con cancelación de ruido desmontable transmite tus órdenes al equipo con nitidez diáfana. Además, gracias a la clasificación de resistencia al agua IPX5, es capaz de resistir el agua, el sudor, la saliva y las bebidas.
-- Seguridad ante todo: el control de limitación del volumen protege a los niños frente a los daños auditivos.
-- Diafragmas de gran tamaño: los diafragmas dinámicos de 52 mm garantizan que el sonido de la victoria se escuche con intensidad, potencia y un realismo impresionante.
 - Mantén la cabeza fría bajo presión: las almohadillas para las orejas de espuma viscoelástica impregnada con gel refrigerante te ayudan a mantener la cabeza fría mientras prendes fuego a la tabla de clasificación.
+- A tus órdenes: el micrófono con cancelación de ruido desmontable transmite tus órdenes al equipo con nitidez diáfana. Además, gracias a la clasificación de resistencia al agua IPX5, es capaz de resistir el agua, el sudor, la saliva y las bebidas.
+- Audiencia de precisión: juega con ventaja gracias al diseño especial de la carcasa del diafragma, que destaca el sonido de los disparos y las pisadas para ayudarte a identificar la posición del enemigo.
+- Diafragmas de gran tamaño: los diafragmas dinámicos de 52 mm garantizan que el sonido de la victoria se escuche con intensidad, potencia y un realismo impresionante.
+- Seguridad ante todo: el control de limitación del volumen protege a los niños frente a los daños auditivos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZPN563F/?tag=tolees-21)
