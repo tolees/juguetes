@@ -30,8 +30,8 @@ Tienes [Juegos de Sociedad - Inazuma Eleven Go  Famosa 700011808    color/modelo
 
 - El juego de mesa Inazuma Eleven basado en la famosa serie que tanto gusta a los niños
 - 4 tipo de jugadores: delantero, medio ofensivo, medio defensivo y defensa, cada uno de ellos con supertécnicas especiales y lanzamientos de gran precisión
-- El objetivo es meter 5 goles al contrario o conseguir más goles en 30 minutos
-- Organiza tu estrategia, coloca tus jugadores y prepara tu ataque
 - Incluye un tapete de fútbol, 10 peanas de juego, 2 balones, 20 fichas de jugadores y un libro de instrucciones
+- Organiza tu estrategia, coloca tus jugadores y prepara tu ataque
+- El objetivo es meter 5 goles al contrario o conseguir más goles en 30 minutos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JS139PK/?tag=tolees-21)
