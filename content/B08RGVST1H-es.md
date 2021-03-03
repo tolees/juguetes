@@ -28,10 +28,10 @@ Está [Schmidt Spiele - Disney  The Aristocats Puzzle 1.000 Teile](https://www.a
 
 ℹ️:
 
-- Puzles prémium de Schmidt, con calidad a la que puedes agarrar
 - Puzle de 1000 piezas
-- Tamaño: 69,3 x 49,3 cm
+- Puzles prémium de Schmidt, con calidad a la que puedes agarrar
 - Número de jugadores: a partir de 1 jugador
+- Tamaño: 69,3 x 49,3 cm
 - Edad recomendada: a partir de 12 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RGVST1H/?tag=tolees-21)
