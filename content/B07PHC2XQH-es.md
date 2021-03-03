@@ -28,10 +28,10 @@ Ahora mismo tienes [yoptote 224 PCS Juguetes Montessori Puzzles 3D Mosaicos Infa
 
 🔎:
 
-- 👨‍🔧Rompecabezas 2D / 3D--Incluye 8 cartas de dinosaurios y más de 30 modelos.Tamaño de caja：35*19.5*6CM. Juguetes desafiantes y atractivos. Recomendado para niños mayores de 3 años kit mosaico. El pequeño ingeniero viene!
-- 👩‍🔧Funcion Portatil--Rompecabezas niños de caja con tiene un mango resistente, carcasa robusta de plastico.Bordes lisos, salvaguardar la mano del niño. Hermosa maletín herramientas juguete, como un maletín propiedad de mamá y papá, hecho de plástico ABS.
 - 💼Educación Familiar--Diferentes piezas en forma, diferentes patrones de color. Ayuda a los niños a reconocer diferentes colores y formas, capacidad de ejercicio y capacidad de pensamiento independiente. Crea botes, autos, plantas, casas, etc. con herramientas en manos.
 - 👨‍🔧Herramientas de Juguete-- Los niños tienen curiosidad por el mundo, Incluyendo las tareas de ingeniero y papá. Caja herramientas contiene 224 piezas de construcción, incluso taladro eléctrico giratorio(se requieren 2x1.5AA pero no están incluidos), destornillador, clavo de seta y piezas de diferentes colores y formas.
 - 👩‍🔧Educacion Logica--Bloques construccion rompecabezas atrae niños para crear diferentes formas y animales.Hay 30 de diferentes instrucciones de patrones de montaje en el interior.Los niños pueden escoger y completar creaciones o usar su imaginación.
+- 👨‍🔧Rompecabezas 2D / 3D--Incluye 8 cartas de dinosaurios y más de 30 modelos.Tamaño de caja：35*19.5*6CM. Juguetes desafiantes y atractivos. Recomendado para niños mayores de 3 años kit mosaico. El pequeño ingeniero viene!
+- 👩‍🔧Funcion Portatil--Rompecabezas niños de caja con tiene un mango resistente, carcasa robusta de plastico.Bordes lisos, salvaguardar la mano del niño. Hermosa maletín herramientas juguete, como un maletín propiedad de mamá y papá, hecho de plástico ABS.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PHC2XQH/?tag=tolees-21)
