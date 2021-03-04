@@ -28,8 +28,8 @@ Tienes [Devir- Dungeon Raiders  única  BGHRAI ](https://www.amazon.es/dp/B07B4F
 
 🔎:
 
-- Duración 20 min
 - Para mayores de 8 años
+- Duración 20 min
 - De 3 a 5 jugadores
 - Idioma español
 
