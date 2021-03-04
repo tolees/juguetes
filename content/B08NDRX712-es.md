@@ -28,10 +28,10 @@ Ahora mismo tienes [Shareconn Cargador Dual para mandos PS5 DualSense  Accesorio
 
 🔎:
 
-- 【cargador mando ps5】 La estación de acoplamiento dual está especialmente diseñada para cargar controladores de Playstation 5, diseño simple en blanco y negro, el puerto estable tipo C le permite no tener que preocuparse por perder la cabeza carga tipo c, simplemente alinéelo con el puerto de carga de los controladores PS5 e insértelo, conéctelo a la fuente de alimentación para cargar.
-- 【Carga rápida】 Para una carga rápida, utilice un adaptador de CA con una corriente superior a 5V; Puede cargar completamente dos controladores PS5 en 2-4.5 horas.(El tiempo de carga variará según la fuente de alimentación)
 - 【Diseño profesional】 Esta base de carga PS5 utiliza un chip de protección inteligente, que puede proporcionar protección contra sobretensión, sobrecorriente, sobrecalentamiento y cortocircuito.
-- 【Fácil de usar】 Cuando el controlador de PlayStation 5 se está cargando, la luz de carga del controlador se iluminará en modo de respiración; Cuando el controlador esté completamente cargado, la luz indicadora se apagará.
+- 【cargador mando ps5】 La estación de acoplamiento dual está especialmente diseñada para cargar controladores de Playstation 5, diseño simple en blanco y negro, el puerto estable tipo C le permite no tener que preocuparse por perder la cabeza carga tipo c, simplemente alinéelo con el puerto de carga de los controladores PS5 e insértelo, conéctelo a la fuente de alimentación para cargar.
 - 【Portátil y liviano】 Exquisito y compacto, fácil de transportar, puede llevar este cargador de controlador PS5 a cualquier lugar para disfrutar del tiempo del juego sin preocuparse de que su controlador se quede sin baterías.
+- 【Carga rápida】 Para una carga rápida, utilice un adaptador de CA con una corriente superior a 5V; Puede cargar completamente dos controladores PS5 en 2-4.5 horas.(El tiempo de carga variará según la fuente de alimentación)
+- 【Fácil de usar】 Cuando el controlador de PlayStation 5 se está cargando, la luz de carga del controlador se iluminará en modo de respiración; Cuando el controlador esté completamente cargado, la luz indicadora se apagará.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NDRX712/?tag=tolees-21)
