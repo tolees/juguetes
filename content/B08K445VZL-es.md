@@ -28,10 +28,10 @@ Tienes [Devir - Exit: La casa de los Enigmas  BGEXIT12 ](https://www.amazon.es/d
 
 ℹ️:
 
-- Juego cooperativo y de deducción
-- Edad recomendada: a partir de 10 años
 - La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
+- Edad recomendada: a partir de 10 años
 - Número de jugadores: 1 - 4
+- Juego cooperativo y de deducción
 - Duración aproximada del juego: 45 - 90 minutos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08K445VZL/?tag=tolees-21)
