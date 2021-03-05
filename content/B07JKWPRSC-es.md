@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL- Special Plus Especial Niña co al 23.60 % de descuento'
-date: 2021-03-04 17:10:34
+date: 2021-03-05 17:16:46
 image: 'https://m.media-amazon.com/images/I/41ILQx7PTKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [PLAYMOBIL- Special Plus Especial Niña con Pony  Multicolor 
 
 🔎:
 
+- Material: plástico
 - Niño con pony y accesorios para adornar
 - Figura con animales y accesorios
-- Material: plástico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JKWPRSC/?tag=tolees-21)
