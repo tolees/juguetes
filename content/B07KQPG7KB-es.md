@@ -29,8 +29,8 @@ Ahora mismo tienes [Furreal Friends - Peluche interactivo Cubby Mi Oso Curioso  
 🔎:
 
 - Responde con más de 100 combinaciones de sonido y movimiento
-- Juguete de oso interactivo
 - Viene con un accesorio 3 en 1: un regalo, una botella y un peine
 - Puede mover la cabeza, los ojos, las orejas, la nariz, la boca y los brazos y hace varios sonidos
+- Juguete de oso interactivo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KQPG7KB/?tag=tolees-21)
