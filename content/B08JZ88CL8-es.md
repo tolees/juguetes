@@ -28,9 +28,9 @@ En este momento está [SUPERTHINGS RIVALS OF KABOOM- Battle Spinners Serie 7 2 F
 
 🔎:
 
-- Paqueteage Dimensiones: 48.0 L x 42.0 H x 20.0 W (centimeters)
 - Paqueteage Weight: 300.0 grams
-- Number of players: 2
 - Juego Super Things
+- Number of players: 2
+- Paqueteage Dimensiones: 48.0 L x 42.0 H x 20.0 W (centimeters)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JZ88CL8/?tag=tolees-21)
