@@ -28,10 +28,10 @@ Ahora mismo tienes [Pinypon - Granja Divertida  Famosa 700014260 ](https://www.a
 
 🔎:
 
-- Los pollitos están a punto de salir de su cascarón, así que habrá que vigilar la incubadora y también alimentar a los terneritos
-- Granja pinypon con 11 figuritas pinypon y muchos accesorios para crear infinitas historias y mezclar sin parar
-- Sus medidas son 31 cm de alto, 28 cm de ancho y 12 m de profundidad
 - En la parte de abajo encontrarás el establo y el corral; en la parte de arriba está la vivienda de los granjeros pinypon con su gallinero para la gallina y los pollitos
 - Juega con los animalitos y después de un largo día en la granja acuesta a las ovejitas en su cuna; incluye un árbol manzano del que podrás coger sabrosas manzanas
+- Sus medidas son 31 cm de alto, 28 cm de ancho y 12 m de profundidad
+- Los pollitos están a punto de salir de su cascarón, así que habrá que vigilar la incubadora y también alimentar a los terneritos
+- Granja pinypon con 11 figuritas pinypon y muchos accesorios para crear infinitas historias y mezclar sin parar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BFPT7NY/?tag=tolees-21)
