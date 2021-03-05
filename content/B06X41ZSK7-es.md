@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir - Legado perdido 3  el Grial Sagrado y el báculo de D
 
 🔎:
 
-- Edad recomendada: 10 años
-- Duración: 10 minutos
 - De 2 a 4 jugadores
+- Duración: 10 minutos
+- Edad recomendada: 10 años
 - A partir de 10 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06X41ZSK7/?tag=tolees-21)
