@@ -29,9 +29,9 @@ Está [Sylvanian Families- Nursery Friends Mini muñecas y Accesorios  Multicolo
 ℹ️:
 
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
-- Conectables y coleccionables
-- Desarrolla el juego imaginativo y cotidiano de los niños
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
+- Desarrolla el juego imaginativo y cotidiano de los niños
+- Conectables y coleccionables
 - Figuras de 6 a 10 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N9SX0F1/?tag=tolees-21)
