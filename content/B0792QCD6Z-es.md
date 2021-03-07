@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars - Imperial AT-Hauler  Jug al 27.86 % de descuento'
-date: 2021-03-05 16:24:13
+date: 2021-03-07 18:54:45
 image: 'https://m.media-amazon.com/images/I/51qnRkoh0kL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21'
 descuento: '27.86'
-average: '83.9544845360826'
+average: '83.9442346938777'
 ---
 
 Está [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Galaxias con Nave Espacial Basado en la Película de Han Solo  Incluye 5 Minifiguras  75219 ](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) con 27.86 de descuento por 82.95 EUR (original: 114.99 EUR) en el siguiente enlace!
