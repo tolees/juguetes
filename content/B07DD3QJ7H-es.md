@@ -28,10 +28,10 @@ Ahora mismo tienes [Hasbro Gaming- Game of Life Juego de Mesa  Multicolor  únic
 
 🔎:
 
-- Play with family and friends
-- Start making your own decisions as you travel the different stages of life
 - Game of Life is full of surprises
-- Choose the way for a life of action, adventure and unexpected surprises
 - You can adopt pets in this edition
+- Play with family and friends
+- Choose the way for a life of action, adventure and unexpected surprises
+- Start making your own decisions as you travel the different stages of life
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DD3QJ7H/?tag=tolees-21)
