@@ -33,7 +33,7 @@ Ahora mismo tienes [Ravensburger 22009 Make  n  Break Junior  Juego de Mesa para
 - Cada vez que juegas es diferente
 - Los jugadores construyen las composiciones, ladrillo a ladrillo, cada uno con su propio set con el objetivo de no dejarlo todo y perder
 - Esta versión de Make n Break Junior ofrece una forma sencilla y divertida de perfeccionar la coordinación, la motricidad fina y la paciencia en una competencia basada en habilidades
-- El juego contiene: 27 bloques de madera en 5 colores, 50 cartas de construcción impresas por ambos lados, 48 ​​fichas, instrucciones
 - Experiencia de juego divertida adecuada para 2-5 jugadores de 5 años en adelante; Regalo óptimo para niños y niñas
+- El juego contiene: 27 bloques de madera en 5 colores, 50 cartas de construcción impresas por ambos lados, 48 ​​fichas, instrucciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002ZCXNAA/?tag=tolees-21)
