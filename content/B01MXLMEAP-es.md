@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Lanzador Elite Disruptor  Hasbro B9 al 25.25 % de descuento'
-date: 2021-02-26 06:54:40
+date: 2021-03-07 17:18:46
 image: 'https://m.media-amazon.com/images/I/4113A9voxSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B01MXLMEAP/?tag=tolees-21'
 descuento: '25.25'
-average: '15.1911486486486'
+average: '15.1879333333333'
 ---
 
 Está [Nerf Lanzador Elite Disruptor  Hasbro B9837EU4](https://www.amazon.es/dp/B01MXLMEAP/?tag=tolees-21) con 25.25 de descuento por 14.95 EUR (original: 20.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Nerf Lanzador Elite Disruptor  Hasbro B9837EU4](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Lanzamiento en ráfaga
+- Tambor rotatorio de 6 dardos
+- Lanza los dardos hasta 27m
 - Incluye 6 dardos Elite
 - Lanza dardos a una distancia de hasta 27 metros
-- Lanza los dardos hasta 27m
-- Tambor rotatorio de 6 dardos
-- Lanzamiento en ráfaga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXLMEAP/?tag=tolees-21)
