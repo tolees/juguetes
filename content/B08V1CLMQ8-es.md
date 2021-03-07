@@ -28,10 +28,10 @@ En este momento está [celeste - Disco Duro Externo 2 TB  Type C USB3.1 Disco Du
 
 🔎:
 
-- Aluminio Estructura Sólida Impermeable, resistente a caídas. Superficie fácil de limpiar y a prueba de huellas dactilares, antideslizante.
-- Compatibilidad del sistema : Windows / Linux / Android OS.
 - Plug-and-Play -no requiere instalación ni configuración de software, solo conéctelo y listo.
 - Lo que obtienes:1 x disco duro externo, 1 x cable USB 3.0, Retorno incondicional por 2 años. disco duro externo disco duro 1 tb externo disco duro externo 2 tb
+- Aluminio Estructura Sólida Impermeable, resistente a caídas. Superficie fácil de limpiar y a prueba de huellas dactilares, antideslizante.
 - Interfaz USB 3.1Type-C brinda velocidad de datos SuperSpeed 100MB/S.(Compatible con USB 2.0).
+- Compatibilidad del sistema : Windows / Linux / Android OS.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08V1CLMQ8/?tag=tolees-21)
