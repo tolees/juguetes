@@ -29,9 +29,9 @@ Ahora mismo tienes [Avengers Marvel Legends Martillo de Thor  Hasbro C1881E48 ](
 🔎:
 
 - ¡Empuña el poderoso Mjolnir!
-- Funciones de luz que se activan con la voz y que revelan el símbolo de Odín
-- Acabado y detalles premium
-- Martillo de juguetes de personificación premium de 50 cm a escala real 1:1
 - Correa para la muñeca y empuñadura con diseño auténtico
+- Martillo de juguetes de personificación premium de 50 cm a escala real 1:1
+- Acabado y detalles premium
+- Funciones de luz que se activan con la voz y que revelan el símbolo de Odín
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SNDSPFY/?tag=tolees-21)

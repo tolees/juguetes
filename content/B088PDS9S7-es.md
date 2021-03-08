@@ -28,10 +28,10 @@ Ahora mismo tienes [Nenuco- Hermanitas  muñecas bebé con Cama para Dormir  Fam
 
 🔎:
 
-- Son dos camitas que se pueden poner juntas o separadas cada una con su mantita para que los niños jueguen a cuidar a sus muñecas Nenuco
-- Recomendado a partir de 2 años; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
-- Nenuco Hermanitas a la cama permitirá jugar a la mejor rutina de dormir y contar cuentos con las muñecas y sus camitas gemelas
 - Incluye dos muñecas Nenuco; la hermana mayor de 35 cm con cuerpo duro; la hermana pequeña mide 25 cm tiene cuerpo blandito
+- Recomendado a partir de 2 años; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
 - La cama grande tiene decoraciones coloridas, un cuento y una lamparita para dormir a las hermanitas; la cama pequeña tiene un dosel ropa. La hermana mayor viene con un pañal y la hermana pequeña con un biberón
+- Nenuco Hermanitas a la cama permitirá jugar a la mejor rutina de dormir y contar cuentos con las muñecas y sus camitas gemelas
+- Son dos camitas que se pueden poner juntas o separadas cada una con su mantita para que los niños jueguen a cuidar a sus muñecas Nenuco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088PDS9S7/?tag=tolees-21)
