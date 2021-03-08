@@ -28,10 +28,10 @@ En este momento está [ElecMoga - Adaptador USB C a VGA HDMI  USB 3.0 Hub Tipo C
 
 🔎:
 
+- Amplia compatibilidad: adecuado para dispositivos con puerto USB-C (compatible con Thunderbolt 3), como MacBook Pro 2016/2017, MacBook 12 pulgadas, iMac Pro 2017, iMac, MacBook Air, iPad Pro 2018, Dell XPS 13/15, Galaxy S8/S9 Plus, etc.
+- 【Soporta 4K Max】Soporta HD 720P, Full HD 1080P para VGA y Ultra HD 4Kx2K @ 30Hz para HDMI. Cuando HDMI y VGA funcionan simultáneamente, la resolución máxima de los dos es de 1080p/60Hz.
+- Adaptador USB-C a HDMI VGA: conecta el portátil USB-C a dispositivos con puerto HDMI/VGA, las salidas HDMI/VGA permiten añadir simultáneamente una pantalla externa/TV/proyector equipado con terminal de entrada HDMI o VGA.
 - Lo que obtienes: un adaptador ElecMoga USB-C a HDMI VGA, devolución de 30 días por cualquier razón, garantía de 18 meses para problemas relacionados con la calidad, soporte técnico de por vida y servicio al cliente amigable.
 - Plug and Play: no es necesario instalar ningún controlador o fuente de alimentación externa.
-- Adaptador USB-C a HDMI VGA: conecta el portátil USB-C a dispositivos con puerto HDMI/VGA, las salidas HDMI/VGA permiten añadir simultáneamente una pantalla externa/TV/proyector equipado con terminal de entrada HDMI o VGA.
-- 【Soporta 4K Max】Soporta HD 720P, Full HD 1080P para VGA y Ultra HD 4Kx2K @ 30Hz para HDMI. Cuando HDMI y VGA funcionan simultáneamente, la resolución máxima de los dos es de 1080p/60Hz.
-- Amplia compatibilidad: adecuado para dispositivos con puerto USB-C (compatible con Thunderbolt 3), como MacBook Pro 2016/2017, MacBook 12 pulgadas, iMac Pro 2017, iMac, MacBook Air, iPad Pro 2018, Dell XPS 13/15, Galaxy S8/S9 Plus, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z53PDDJ/?tag=tolees-21)
