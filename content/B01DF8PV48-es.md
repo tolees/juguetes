@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Fantasma Blitz Menudo sust Juego  con un 15.00 % de descuento'
-date: 2021-03-07 12:10:23
+date: 2021-03-08 15:57:23
 image: 'https://m.media-amazon.com/images/I/51rkgVHF1jL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B01DF8PV48/?tag=tolees-21'
 descuento: '15.00'
-average: '13.467'
+average: '13.7881818181818'
 ---
 
 En este momento está [Devir- Fantasma Blitz Menudo sust Juego  Multicolor  BGBLITZ4 ](https://www.amazon.es/dp/B01DF8PV48/?tag=tolees-21) a 17.0 EUR (original: 20.0 EUR) (15.00 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [Devir- Fantasma Blitz Menudo sust Juego  Multicolor  BGBL
 🔎:
 
 - De 2 a 8 jugadores
-- Número de modelo: BGBLITZ4
 - Juego en español, catalán y portugués
-- A partir de los 8 años
 - Duración: 15 min
+- Número de modelo: BGBLITZ4
+- A partir de los 8 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DF8PV48/?tag=tolees-21)
