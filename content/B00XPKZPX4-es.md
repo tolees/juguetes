@@ -28,8 +28,8 @@ Tienes [Nintendo - Figura Amiibo Bowser Jr.  Serie SSB ](https://www.amazon.es/d
 
 🔎:
 
-- Cantidad: 1 producto
 - Tipo de producto: accesorio
+- Cantidad: 1 producto
 - Plataforma: Nintendo Wii U, Nintendo 3DS
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XPKZPX4/?tag=tolees-21)

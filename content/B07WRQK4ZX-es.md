@@ -28,10 +28,10 @@ Tienes [THQ NORDIC - Monkey King: Hero is Back - PS4](https://www.amazon.es/dp/B
 
 🔎:
 
-- Controles y manejo sencillos
 - Un juego con el que pueden divertirse y relajarse tanto mayores como pequeños
-- Combinación de acción oriental y momentos cómicos
 - Niveles de dificultad apropiados
 - Ritmo relajado
+- Combinación de acción oriental y momentos cómicos
+- Controles y manejo sencillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21)
