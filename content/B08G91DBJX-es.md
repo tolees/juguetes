@@ -28,9 +28,9 @@ Está [Ubisoft Spain - Assassin s Creed Valhalla Gold PS5](https://www.amazon.es
 
 ℹ️:
 
-- Las avanzadas mecánicas de RPG te permitirán moldear a tu personaje y al mundo que lo rodea; forjarás tu camino hacia la gloria con cada decisión que tomes, desde alianzas políticas hasta estrategias de combate, pasando por opciones de diálogo y equipo
+- Navega desde las escarpadas y misteriosas costas de Noruega hasta los imponentes reinos de Inglaterra
 - Reserva el juego para acceder a la misión adicional La senda del Berserker*, donde te unirás a un legendario Berserker nórdico que busca venganza
 - La Gold Edition incluye acceso al Season Pass que darán acceso a nuevos contenidos épicos, explora tierras desconocidas y descubre equipamiento único
-- Navega desde las escarpadas y misteriosas costas de Noruega hasta los imponentes reinos de Inglaterra
+- Las avanzadas mecánicas de RPG te permitirán moldear a tu personaje y al mundo que lo rodea; forjarás tu camino hacia la gloria con cada decisión que tomes, desde alianzas políticas hasta estrategias de combate, pasando por opciones de diálogo y equipo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G91DBJX/?tag=tolees-21)
