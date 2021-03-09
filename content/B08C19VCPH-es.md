@@ -29,9 +29,9 @@ Tienes [Peppa Pig Dentífrico Infantil Pasta De Dientes  75 ml](https://www.amaz
 🔎:
 
 - Ideal para habituar a los niños a lavarse los dientes con sus personajes favoritos.
-- Su dulce sabor a fresa, hará del cepillado una experiencia agradable y divertida para los niños.
-- Protege los dientes de leche y refuerza los dientes permanentes.
 - Dentífrico especialmente desarrollado para niños a partir de 3 años.
 - Contiene calcio y la cantidad de flúor recomendada por los dentistas para proteger contra la aparición de caries y placa y fortalecer el esmalte dental.
+- Su dulce sabor a fresa, hará del cepillado una experiencia agradable y divertida para los niños.
+- Protege los dientes de leche y refuerza los dientes permanentes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C19VCPH/?tag=tolees-21)
