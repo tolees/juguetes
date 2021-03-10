@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite Turquesa + Animal C al 20.01 % de rebaja'
-date: 2021-03-09 04:51:35
+date: 2021-03-10 09:58:24
 image: 'https://m.media-amazon.com/images/I/418WmCRxuaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08MRQ9FTS/?tag=tolees-21'
 descuento: '20.01'
-average: '250.068196721313'
+average: '249.958270270272'
 ---
 
 Tienes [Nintendo Switch Lite Turquesa + Animal Crossing New Horizons + 3 meses Nintendo Shop Online](https://www.amazon.es/dp/B08MRQ9FTS/?tag=tolees-21) con precio final de  239.9 EUR (original: 299.9 EUR) (20.01 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Nintendo Switch Lite Turquesa + Animal Crossing New Horizons + 3 meses N
 
 🔎:
 
-- Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
-- Compacta y ligera para que sea fácil de transportar.
-- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 - Incluye un código de descarga de Animal Crossing New Horizons
+- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 - Incluye 3 meses de suscripción a Nintendo Switch Online, para que puedas visitar otras islas, recibir invitados en la tuya y todas las ventajas multijugador y de catálogo de juegos disponibles con la suscripción.
+- Compacta y ligera para que sea fácil de transportar.
+- Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MRQ9FTS/?tag=tolees-21)

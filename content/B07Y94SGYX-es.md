@@ -28,10 +28,10 @@ Tienes [Toy Story - Muñeco Buzz Lightyear 25 Aniversario  Mattel GJH49    color
 
 🔎:
 
-- Muy articuladas, para adoptar poses icónicas y exponer
-- Figura de Buzz Lightyear del 25º aniversario de Toy Story de Disney Pixar
 - Viene a escala adaptada inspirada en la película para vivir la acción a tope
-- Traje espacial icónico, cinturón, pistola láser y cohete grande que incentiva el juego creativo
+- Figura de Buzz Lightyear del 25º aniversario de Toy Story de Disney Pixar
+- Muy articuladas, para adoptar poses icónicas y exponer
 - A partir de 3 años
+- Traje espacial icónico, cinturón, pistola láser y cohete grande que incentiva el juego creativo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y94SGYX/?tag=tolees-21)
