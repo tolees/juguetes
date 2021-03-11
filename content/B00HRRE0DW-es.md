@@ -29,9 +29,9 @@ Tienes [SYLVANIAN FAMILIES- Soft Serve Ice Cream Shop Mini muñecas y Accesorios
 ℹ️:
 
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
-- Figuras de 6 a 10 cm
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
-- Conectables y coleccionables
 - Desarrolla el juego imaginativo y cotidiano de los niños
+- Figuras de 6 a 10 cm
+- Conectables y coleccionables
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HRRE0DW/?tag=tolees-21)
