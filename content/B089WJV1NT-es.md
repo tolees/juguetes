@@ -28,8 +28,8 @@ Está [Devir- Unbongo Junior  BGUBONJTR ](https://www.amazon.es/dp/B089WJV1NT/?t
 
 ℹ️:
 
-- La versión infantil del juego clásico
 - Combinable con la versión normal
 - Dos modos de dificultad distintos
+- La versión infantil del juego clásico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089WJV1NT/?tag=tolees-21)
