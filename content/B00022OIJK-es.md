@@ -28,9 +28,9 @@ Ahora mismo tienes [Geomag- Magicube Juego de construcción magnética  Multicol
 
 🔎:
 
-- Marca: geomag
+- Juego de construcción magnética
 - Modelo: magicube
 - Producto que combina tradición e innovación
-- Juego de construcción magnética
+- Marca: geomag
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00022OIJK/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Unbongo Junior  BGUBONJTR  al 15.00 % de descuento'
-date: 2021-02-27 11:22:13
+date: 2021-03-11 18:28:24
 image: 'https://m.media-amazon.com/images/I/51ojdkI-OyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B089WJV1NT/?tag=tolees-21'
 descuento: '15.00'
-average: '21.675'
+average: '21.5333333333333'
 ---
 
 Está [Devir- Unbongo Junior  BGUBONJTR ](https://www.amazon.es/dp/B089WJV1NT/?tag=tolees-21) con 15.00 de descuento por 21.25 EUR (original: 25.0 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Devir- Unbongo Junior  BGUBONJTR ](https://www.amazon.es/dp/B089WJV1NT/?t
 
 ℹ️:
 
-- Dos modos de dificultad distintos
-- Combinable con la versión normal
 - La versión infantil del juego clásico
+- Combinable con la versión normal
+- Dos modos de dificultad distintos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089WJV1NT/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Coloretto Juego de Mesa  Multicol al 15.00 % de descuento'
-date: 2021-02-27 12:47:33
+date: 2021-03-11 19:46:29
 image: 'https://m.media-amazon.com/images/I/61WNzYTTygL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07B1F2PMM/?tag=tolees-21'
 descuento: '15.00'
-average: '8.25'
+average: '8.33333333333333'
 ---
 
 Ahora mismo tienes [Devir- Coloretto Juego de Mesa  Multicolor  única  BGCOL ](https://www.amazon.es/dp/B07B1F2PMM/?tag=tolees-21) a 8.5 EUR (original: 10.0 EUR) (15.00 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir- Coloretto Juego de Mesa  Multicolor  única  BGCOL ](
 
 🔎:
 
-- De 2 a 5 jugadores
+- Duración de la partida: 30 minutos
 - Para mayores de 8 años
 - Idioma español
-- Duración de la partida: 30 minutos
+- De 2 a 5 jugadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B1F2PMM/?tag=tolees-21)
