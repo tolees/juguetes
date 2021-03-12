@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL 1.2.3 Avión con Pasajero  Color carbón  70185 ](https://www.
 
 🔎:
 
-- Avión para cargar y descargar
-- Desarrolla la imaginación y la creatividad
-- Incluye dos figuras y accesorios
 - Despega como piloto y lleva a tu pasajero a la ciudad
+- Incluye dos figuras y accesorios
+- Desarrolla la imaginación y la creatividad
+- Avión para cargar y descargar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JMD4QMJ/?tag=tolees-21)
