@@ -28,10 +28,10 @@ En este momento está [Monedero Playstation Plegable  Negro  16 cm ](https://www
 
 🔎:
 
-- Esta cartera es práctica y cómoda, con un diseño único
-- Regalo perfecto para los fieles amantes de la playstation
-- Producto con licencia oficial
 - Tamaño de un bolsillo de pantalón ( unos 16 cm), plegable
+- Regalo perfecto para los fieles amantes de la playstation
 - Varios compartimentos y divisiones para guardar billetes, monedas, documentos pequeños
+- Esta cartera es práctica y cómoda, con un diseño único
+- Producto con licencia oficial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NVGCPZ8/?tag=tolees-21)
