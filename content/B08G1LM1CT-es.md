@@ -28,13 +28,13 @@ Está [Science4you-Universo Unicornio-Juegos y Juguetes Cientifico y Educativo-R
 
 ℹ️:
 
-- Juguete educativo que desarrolla la imaginación y creatividad
-- Crea cristales mágicos con diferentes reactivos
-- Escribe mensajes cristalinos de unicornio
 - Haz un increíble cuerno de unicornio de cristal y huevos de unicornio
-- Libro educativo con 36 páginas, totalmente detallado para que puedan hacer todos los experimentos
 - Cuando la ciencia y la imaginación se unen en un reto científico mágico
-- Esta aventura será brillante, con science4you
+- Crea cristales mágicos con diferentes reactivos
+- Juguete educativo que desarrolla la imaginación y creatividad
+- Libro educativo con 36 páginas, totalmente detallado para que puedan hacer todos los experimentos
 - Edad recomendada: 8 años y más
+- Esta aventura será brillante, con science4you
+- Escribe mensajes cristalinos de unicornio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G1LM1CT/?tag=tolees-21)
