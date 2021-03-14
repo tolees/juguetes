@@ -28,10 +28,10 @@ En este momento está [LEGO 42115 Technic Lamborghini Sián FKP 37  Regalo pa
 
 🔎:
 
-- Este set LEGO Technic incluye un mecanismo de transmisión secuencial de 8 velocidades, alerón trasero móvil, capó y maletero abatibles, discos de freno y llantas doradas
-- Diseñado para los fanáticos de los superdeportivos, este set de construcción viene con una placa de exposición y un número de serie para acceder a contenido especial
 - Este modelo para construir de coche a escala 1:8, en brillante verde lima con llantas doradas y elementos decorados, mide 13 cm de altura, 60 cm de longitud y 25 cm de anchura
-- Folleto con instrucciones, imágenes y entrevistas entre bastidores a los dos equipos que han trabajado en este proyecto: The LEGO Group y Automobili Lamborghini
 - Un gratificante proyecto de construcción para ti, o un regalo especial para Día del Padre, cumpleaños o de Navidad para esa persona especial
+- Este set LEGO Technic incluye un mecanismo de transmisión secuencial de 8 velocidades, alerón trasero móvil, capó y maletero abatibles, discos de freno y llantas doradas
+- Folleto con instrucciones, imágenes y entrevistas entre bastidores a los dos equipos que han trabajado en este proyecto: The LEGO Group y Automobili Lamborghini
+- Diseñado para los fanáticos de los superdeportivos, este set de construcción viene con una placa de exposición y un número de serie para acceder a contenido especial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0813RJRYC/?tag=tolees-21)
