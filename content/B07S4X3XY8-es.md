@@ -28,10 +28,10 @@ En este momento está [Canal Toys- SLIMELICIOUS Factory SSC051 JUGUETE  Color ro
 
 🔎:
 
-- Añade adornos para aún más diversión
-- Mezcla el polvo con colorantes perfumados para crear fragancias únicas
 - La marca del producto es Canal Toys
-- Es adecuado para actividades creativas
+- Añade adornos para aún más diversión
 - La edad mínima recomendada es 6 años
+- Es adecuado para actividades creativas
+- Mezcla el polvo con colorantes perfumados para crear fragancias únicas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S4X3XY8/?tag=tolees-21)
