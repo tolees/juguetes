@@ -30,8 +30,8 @@ Está [PLAYMOBIL Novelmore Fortaleza de los Bandidos de Burnham  Para Niños de 
 
 - Contenido: 1 playmobil novelmore fortaleza de los bandidos de burnham, juego de 214 piezas con instrucciones: 1 fortaleza, 4 figuras, 1 dragón, 208 accesorios, material: plástico, lxpxa: 60,5x55,5x39 cm, 70221
 - Cañones en funcionamiento y lanzamiento de bolas de fuego, apertura de pared, jaula para dragones, entre otros, ampliable con playmobil muro con prisión y apertura (9841)
-- Juego de figuras para niños entre 5 y 10 años: ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 - Diversión para niños de gran imaginación: playmobil fortaleza de los bandidos de burnham con figuras, muchos accesorios y funciones para jugar
+- Juego de figuras para niños entre 5 y 10 años: ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P6FL9B1/?tag=tolees-21)
