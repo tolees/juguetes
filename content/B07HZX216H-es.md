@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: Muerte en el Orient Expres al 29.73 % de descuento'
-date: 2021-03-06 11:40:47
+date: 2021-03-15 15:50:58
 image: 'https://m.media-amazon.com/images/I/51nTBHuPYAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07HZX216H/?tag=tolees-21'
 descuento: '29.73'
-average: '13.57375'
+average: '13.709'
 ---
 
 Está [Devir - Exit: Muerte en el Orient Express  Ed. Español  BGEXIT8 ](https://www.amazon.es/dp/B07HZX216H/?tag=tolees-21) con 29.73 de descuento por 14.25 EUR (original: 20.28 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Devir - Exit: Muerte en el Orient Express  Ed. Español  BGEXIT8 ](https:
 
 ℹ️:
 
-- Producto de calidad
 - Devir iberia, 227130
+- Producto de calidad
 - Exit muerte
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HZX216H/?tag=tolees-21)
