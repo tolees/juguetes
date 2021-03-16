@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01MTYZ6WY-es Mega Bloks-FDX82 Minions Dora la Exploradora GRU Mi...'
 sku: 'B01MTYZ6WY-es'
-tags: [ 'mattel','mega','bloks', ]
+tags: [ 'bloks','mattel','mega', ]
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

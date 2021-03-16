@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Q3FF8HS-es Sylvanian Families - 5365 - La mansión de Stella'
 sku: 'B07Q3FF8HS-es'
-tags: [ 'sylvanian','families', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

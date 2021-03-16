@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B079KNH82Q-es Mega Construx - Pokemon Figuras Venesaur Versus Beedrill...'
 sku: 'B079KNH82Q-es'
-tags: [ 'juguetes','mattel','mega','construx', ]
+tags: [ 'construx','juguetes','mattel','mega', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

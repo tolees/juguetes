@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07Q36F4DW-es Ugly Dolls - Peluche grande Babo Hasbro E4676ES0'
 sku: 'B07Q36F4DW-es'
-tags: [ 'hasbro','peluche', ]
+tags: [ 'hasbro','peluche','ugly dolls', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

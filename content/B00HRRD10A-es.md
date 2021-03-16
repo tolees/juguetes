@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00HRRD10A-es Sylvanian Families 5037 Deluxe Living Room - Set Mini para...'
 sku: 'B00HRRD10A-es'
-tags: [ 'sylvanian','families', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

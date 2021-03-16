@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00S80SUL0-es Sylvanian Families-5207 Animales Fiesta de cumpleaños del...'
 sku: 'B00S80SUL0-es'
-tags: [ 'sylvanian','families', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07PC8YDJR-es SYLVANIAN FAMILIES Mini muñecas y Accesorios Multicolor...'
 sku: 'B07PC8YDJR-es'
-tags: [ 'sylvanian','families', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

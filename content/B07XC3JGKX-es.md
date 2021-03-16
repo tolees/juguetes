@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07XC3JGKX-es Polly Pocket Autocaravana transformable con accesorios...'
 sku: 'B07XC3JGKX-es'
-tags: [ 'mattel','polly','pocket', ]
+tags: [ 'mattel','pocket','polly', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

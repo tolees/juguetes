@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B000FRTVUS-es Theo Klein-8686 Bosch banco de trabajo en maletín con...'
 sku: 'B000FRTVUS-es'
-tags: [ 'theo','klein', ]
+tags: [ 'klein','theo', ]
 actualPrice: 36.19 EUR
 currency: EUR
 price: 36.19

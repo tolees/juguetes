@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B06XYJ2ZVK-es Tres Hurras por el Amo - Juego de cartas Edge...'
 sku: 'B06XYJ2ZVK-es'
-tags: [ 'juego','de','cartas', ]
+tags: [ 'cartas','de','juego', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

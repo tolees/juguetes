@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07QRB9NWP-es GAMEFACTORY 646239 Virus! Juego de Cartas Multicolor'
 sku: 'B07QRB9NWP-es'
-tags: [ 'juego','de','cartas', ]
+tags: [ 'cartas','de','juego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

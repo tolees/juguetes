@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07NQGB4HG-es Polly Pocket Centro Comercial de juguete para muñecas...'
 sku: 'B07NQGB4HG-es'
-tags: [ 'polly','pocket', ]
+tags: [ 'pocket','polly', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
