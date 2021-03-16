@@ -5,7 +5,7 @@ date: 2020-01-23 10:01:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZLSQbfAoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IYT5WNO-es Pinypon Cupcake Cuties Doll Playset 5-Pack'
 sku: 'B00IYT5WNO-es'
 tags: [ 'pinypon', ]

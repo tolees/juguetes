@@ -5,7 +5,7 @@ date: 2020-09-11 19:46:34
 image: 'https://m.media-amazon.com/images/I/51rlK6U+zhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM33QV4-es Rolimate Juguetes para Apilar Y Encajar Stack & Sort Board...'
 sku: 'B07DM33QV4-es'
 tags: [ 'juguetes', ]

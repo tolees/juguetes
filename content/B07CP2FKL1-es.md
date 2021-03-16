@@ -5,7 +5,7 @@ date: 2020-09-11 15:00:53
 image: 'https://m.media-amazon.com/images/I/31xoYJfTDDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CP2FKL1-es Liny Bebé Flotador Inflable Anillo de Natación Flamenco -...'
 sku: 'B07CP2FKL1-es'
 tags: [ 'flotador', ]

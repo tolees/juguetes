@@ -5,7 +5,7 @@ date: 2020-05-08 09:29:55
 image: 'https://m.media-amazon.com/images/I/41pw+2m6hkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5PVP4Z-es Hot Wheels- Circuito Mario Kart pistas de coches de...'
 sku: 'B07P5PVP4Z-es'
 tags: [ 'mattel', ]

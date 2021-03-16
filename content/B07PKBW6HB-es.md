@@ -5,7 +5,7 @@ date: 2020-05-14 18:05:17
 image: 'https://m.media-amazon.com/images/I/41joHR9tTnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKBW6HB-es Cargador de bateria 48v Cargador de Patinete 48v Cargador...'
 sku: 'B07PKBW6HB-es'
 tags: [ 'bicicleta', ]

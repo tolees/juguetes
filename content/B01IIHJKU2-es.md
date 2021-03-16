@@ -5,7 +5,7 @@ date: 2020-04-18 02:14:28
 image: 'https://m.media-amazon.com/images/I/41GVz90Wr6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IIHJKU2-es Pinypon by PINY PINY - Dareway Julia muñeca con accesorios...'
 sku: 'B01IIHJKU2-es'
 tags: [ 'famosa','pinypon', ]

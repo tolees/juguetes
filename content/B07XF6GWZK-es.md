@@ -5,7 +5,7 @@ date: 2020-04-16 09:12:10
 image: 'https://m.media-amazon.com/images/I/51mkXedGn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF6GWZK-es Symiu Puzzle Madera Juego Ajedrez Cartas de Memoria...'
 sku: 'B07XF6GWZK-es'
 tags: [ 'juguetes','puzzle', ]

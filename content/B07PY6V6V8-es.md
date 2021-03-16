@@ -5,7 +5,7 @@ date: 2020-02-10 10:43:36
 image: 'https://m.media-amazon.com/images/I/51f7DmW-JdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY6V6V8-es lenbest 7pcs Squishys Kawaii Juguetes Juguetes Squishies...'
 sku: 'B07PY6V6V8-es'
 tags: [ 'juguetes', ]

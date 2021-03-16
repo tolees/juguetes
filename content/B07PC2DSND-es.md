@@ -5,7 +5,7 @@ date: 2020-08-21 19:22:25
 image: 'https://m.media-amazon.com/images/I/51i2xwUvJiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PC2DSND-es Mega Blocks - Cuenta Conmigo 1 2 3 Bloques de Construcción...'
 sku: 'B07PC2DSND-es'
 tags: [ 'mattel', ]

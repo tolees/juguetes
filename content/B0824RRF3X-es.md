@@ -5,7 +5,7 @@ date: 2020-08-31 19:07:39
 image: 'https://m.media-amazon.com/images/I/414GGJz+MaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824RRF3X-es Avengers Figuras Titan Capitán América Hasbro E7877ES0'
 sku: 'B0824RRF3X-es'
 tags: [ 'hasbro', ]

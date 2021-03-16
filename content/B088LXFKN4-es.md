@@ -5,7 +5,7 @@ date: 2020-08-17 15:12:43
 image: 'https://m.media-amazon.com/images/I/41nR8Q9UWSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LXFKN4-es Queta 3pcs Pistolas de Agua para Niños Cañón de Agua en...'
 sku: 'B088LXFKN4-es'
 tags: [ 'juguetes', ]

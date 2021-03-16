@@ -5,7 +5,7 @@ date: 2020-03-30 10:24:42
 image: 'https://m.media-amazon.com/images/I/61aljRGV0HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HH2RWZ-es Las aventuras de Ladybug Puzzle Multi 4en1 50-80-100-150...'
 sku: 'B071HH2RWZ-es'
 tags: [ 'puzzle', ]

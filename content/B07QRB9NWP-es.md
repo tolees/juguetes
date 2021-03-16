@@ -5,7 +5,7 @@ date: 2020-04-04 19:41:56
 image: 'https://m.media-amazon.com/images/I/51MlzV52V-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRB9NWP-es GAMEFACTORY 646239 Virus! Juego de Cartas Multicolor'
 sku: 'B07QRB9NWP-es'
 tags: [ 'cartas','de','juego', ]

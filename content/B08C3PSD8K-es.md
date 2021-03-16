@@ -5,7 +5,7 @@ date: 2020-09-22 14:10:58
 image: 'https://m.media-amazon.com/images/I/41w5OKGcpzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C3PSD8K-es Tiny Love Sunny Stroll Arco de Actividades con Juguetes...'
 sku: 'B08C3PSD8K-es'
 tags: [ 'juguetes', ]

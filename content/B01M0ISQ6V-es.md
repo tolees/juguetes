@@ -5,7 +5,7 @@ date: 2020-10-03 21:09:36
 image: 'https://m.media-amazon.com/images/I/51Gm38FvXiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0ISQ6V-es Manguitos Hinchables Bestway Barbie'
 sku: 'B01M0ISQ6V-es'
 tags: [ 'barbie', ]

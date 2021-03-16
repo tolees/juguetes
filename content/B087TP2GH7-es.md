@@ -5,7 +5,7 @@ date: 2020-08-26 23:09:45
 image: 'https://m.media-amazon.com/images/I/51ocZz9iFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TP2GH7-es Beetest ES Juguetes Piscina Niños 37 Unids Divertido Buceo...'
 sku: 'B087TP2GH7-es'
 tags: [ 'juguetes', ]

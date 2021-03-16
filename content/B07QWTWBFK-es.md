@@ -5,7 +5,7 @@ date: 2020-03-03 16:57:11
 image: 'https://m.media-amazon.com/images/I/41Ra+ZSXxrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWTWBFK-es Zerodis- Merry-Go-Round de Madera Control de Voz Merry-Go-...'
 sku: 'B07QWTWBFK-es'
 tags: [ 'puzzle','rompecabezas', ]

@@ -5,7 +5,7 @@ date: 2020-08-11 15:44:42
 image: 'https://m.media-amazon.com/images/I/51HAWPTR8aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GNAP830-es VTech Baby 150503 - Cubo educativo para girar y aprender...'
 sku: 'B00GNAP830-es'
 tags: [ 'vtech', ]

@@ -5,7 +5,7 @@ date: 2020-01-02 09:01:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GjifqUzIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZZRZRS-es Tire Hacia Atrás el Coches de Juguetes Miniature Camion...'
 sku: 'B07FZZRZRS-es'
 tags: [ 'juguetes', ]

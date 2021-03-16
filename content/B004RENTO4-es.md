@@ -5,7 +5,7 @@ date: 2020-10-06 12:33:11
 image: 'https://m.media-amazon.com/images/I/417O7Cbul7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004RENTO4-es Theo Klein 8493 Cinturón de herramientas Bosch Con...'
 sku: 'B004RENTO4-es'
 tags: [ 'klein','theo', ]

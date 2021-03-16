@@ -5,7 +5,7 @@ date: 2020-07-09 22:11:41
 image: 'https://m.media-amazon.com/images/I/51yTIH9XP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHTR4JQ-es Botella de Agua de Acero Inoxidable Botella Termica 500ml...'
 sku: 'B07QHTR4JQ-es'
 tags: [ 'bicicleta', ]

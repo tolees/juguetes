@@ -5,7 +5,7 @@ date: 2020-06-01 12:13:44
 image: 'https://m.media-amazon.com/images/I/41sPRF8gIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IDW7FSQ-es Cars 3- Coche Crazy McQueen Mattel DYB04 color/modelo surtido'
 sku: 'B01IDW7FSQ-es'
 tags: [ 'mattel', ]

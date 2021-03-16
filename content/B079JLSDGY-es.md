@@ -5,7 +5,7 @@ date: 2020-07-16 17:05:04
 image: 'https://m.media-amazon.com/images/I/414zAvhGKnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JLSDGY-es Barbie Muñeca Stacie y su desayuno accesorios muñeca...'
 sku: 'B079JLSDGY-es'
 tags: [ 'barbie','mattel', ]

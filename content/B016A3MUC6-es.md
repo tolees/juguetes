@@ -5,7 +5,7 @@ date: 2020-06-11 05:57:05
 image: 'https://m.media-amazon.com/images/I/41iYXl9lhlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016A3MUC6-es PATRULLA CANINA PAW PATROL - PELUCHE PERSONAJE RUBBLE...'
 sku: 'B016A3MUC6-es'
 tags: [ 'peluche', ]

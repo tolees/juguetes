@@ -5,7 +5,7 @@ date: 2020-02-28 09:20:33
 image: 'https://m.media-amazon.com/images/I/41ticJtc9zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071PFKDRD-es Shimmer y Shine Alfombra mágica voladora accesorio muñecas...'
 sku: 'B071PFKDRD-es'
 tags: [ 'mattel', ]

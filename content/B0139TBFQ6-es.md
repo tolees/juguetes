@@ -5,7 +5,7 @@ date: 2020-04-16 09:16:29
 image: 'https://m.media-amazon.com/images/I/51P4PTDneAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0139TBFQ6-es Kids Premium Baby Bath Toy Organizer - Niños grandes Toy...'
 sku: 'B0139TBFQ6-es'
 tags: [ 'juguetes', ]

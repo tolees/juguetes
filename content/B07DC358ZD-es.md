@@ -5,7 +5,7 @@ date: 2020-08-04 13:04:37
 image: 'https://m.media-amazon.com/images/I/510LK5ZOUIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC358ZD-es SKYSPER Manguitos Ciclismo Manga de Compresión Manguito...'
 sku: 'B07DC358ZD-es'
 tags: [ 'bicicleta', ]

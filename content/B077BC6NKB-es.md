@@ -5,7 +5,7 @@ date: 2020-04-14 00:11:20
 image: 'https://m.media-amazon.com/images/I/61TQi0mmR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BC6NKB-es Furreal Friends Hasbro E0497EU4 - Shaggy Shawn Luky Melenas'
 sku: 'B077BC6NKB-es'
 tags: [ 'hasbro', ]

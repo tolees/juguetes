@@ -5,7 +5,7 @@ date: 2020-03-28 18:15:46
 image: 'https://m.media-amazon.com/images/I/41j6LzlAUlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N37RSYT-es Educa Borrás- Adhesivo para Puzzle 17193'
 sku: 'B01N37RSYT-es'
 tags: [ 'puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 09:43:24
 image: 'https://m.media-amazon.com/images/I/41okVrtRL4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRN5J9N-es Beyblade - Estadio Basico Hasbro C0704EU4'
 sku: 'B06WRN5J9N-es'
 tags: [ 'hasbro', ]

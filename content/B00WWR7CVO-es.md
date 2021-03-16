@@ -5,7 +5,7 @@ date: 2020-05-06 12:06:15
 image: 'https://m.media-amazon.com/images/I/61nJgMZ9f-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WWR7CVO-es LEGO Movie: The Videogame - Classics'
 sku: 'B00WWR7CVO-es'
 tags: [ 'lego', ]

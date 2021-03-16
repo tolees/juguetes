@@ -5,7 +5,7 @@ date: 2020-04-13 17:07:02
 image: 'https://m.media-amazon.com/images/I/511Mh583DQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4CKXP7-es Nene Toys - Puzzle Infantil de Madera + Coche de Juguete...'
 sku: 'B07S4CKXP7-es'
 tags: [ 'puzzle','rompecabezas', ]

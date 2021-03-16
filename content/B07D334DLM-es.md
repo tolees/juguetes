@@ -5,7 +5,7 @@ date: 2020-03-03 06:57:06
 image: 'https://m.media-amazon.com/images/I/31FATpvpj9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D334DLM-es Grupo K-2 Riscko - Bicicleta sin Pedales con sillín Y...'
 sku: 'B07D334DLM-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-07-28 00:32:46
 image: 'https://m.media-amazon.com/images/I/51FHIzoaWYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4HVCVN-es Kupton Bolsas de Comida para Fruta Juguetes y Libros-...'
 sku: 'B07H4HVCVN-es'
 tags: [ 'juguetes', ]

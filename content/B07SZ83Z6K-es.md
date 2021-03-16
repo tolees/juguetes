@@ -5,7 +5,7 @@ date: 2020-02-08 10:22:42
 image: 'https://m.media-amazon.com/images/I/51LW9VhGjkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ83Z6K-es Dragon Ball- Figura Deluxe Saiyan Blue Gogeta Super Color...'
 sku: 'B07SZ83Z6K-es'
 tags: [ 'bandai', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 09:07:20
 image: 'https://m.media-amazon.com/images/I/51fHzeN3OsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRK2ZQF-es Gifort Pompons Pompones de Colores Pompones de Pompon...'
 sku: 'B07NRK2ZQF-es'
 tags: [ 'peluche', ]

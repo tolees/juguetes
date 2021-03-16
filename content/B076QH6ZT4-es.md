@@ -5,7 +5,7 @@ date: 2020-04-16 09:25:14
 image: 'https://m.media-amazon.com/images/I/41vbz1NyjiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QH6ZT4-es Forfar Deportes al Aire Libre Que completan un Ciclo la...'
 sku: 'B076QH6ZT4-es'
 tags: [ 'bicicleta', ]

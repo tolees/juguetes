@@ -5,7 +5,7 @@ date: 2020-08-14 19:45:04
 image: 'https://m.media-amazon.com/images/I/514EnufOWpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876MVB6F-es BeebeeRun Alimentos de Juguete para Niños Cortar Frutas y...'
 sku: 'B0876MVB6F-es'
 tags: [ 'juguetes', ]

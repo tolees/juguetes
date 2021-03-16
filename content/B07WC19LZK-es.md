@@ -5,7 +5,7 @@ date: 2020-09-04 10:33:40
 image: 'https://m.media-amazon.com/images/I/51+Cn3PNqoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC19LZK-es LEGO DUPLO Town - Dormitorio Set con Ladrillos de Juguete...'
 sku: 'B07WC19LZK-es'
 tags: [ 'lego', ]

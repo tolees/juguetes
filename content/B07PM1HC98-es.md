@@ -5,7 +5,7 @@ date: 2020-08-16 09:13:04
 image: 'https://m.media-amazon.com/images/I/41iqOajqQCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM1HC98-es Dragon Ball Z - Figura de colección Android Número 18...'
 sku: 'B07PM1HC98-es'
 tags: [ 'bandai', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 14:14:22
 image: 'https://m.media-amazon.com/images/I/31SKSN+FG6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRBMN74-es Niños/Bebé 50 piezas 5 capas para correr andar en...'
 sku: 'B08CRBMN74-es'
 tags: [ 'bicicleta', ]

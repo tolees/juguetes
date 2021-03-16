@@ -5,7 +5,7 @@ date: 2020-02-15 12:02:34
 image: 'https://m.media-amazon.com/images/I/51AABQRa3wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP1X8B4-es LEGO Disney Princess - Aventuras en Palacio de Aladdín y...'
 sku: 'B07FP1X8B4-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-09-19 08:45:37
 image: 'https://m.media-amazon.com/images/I/41P-zTQKmsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H1F2RUS-es Flotador para Bebé Bestway Swim Safe Baby Seat'
 sku: 'B00H1F2RUS-es'
 tags: [ 'flotador', ]

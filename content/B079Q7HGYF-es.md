@@ -5,7 +5,7 @@ date: 2020-07-03 10:21:08
 image: 'https://m.media-amazon.com/images/I/516f+n8SnRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Q7HGYF-es Clementoni- Puzzle 1000 Piezas Anne Stokes Inner Strenght...'
 sku: 'B079Q7HGYF-es'
 tags: [ 'puzzle', ]

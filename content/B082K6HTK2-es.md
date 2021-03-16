@@ -5,7 +5,7 @@ date: 2020-04-04 16:02:29
 image: 'https://m.media-amazon.com/images/I/41TL9Nt7ogL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082K6HTK2-es Soft M Edical Expander Silicone Purple Set 6 Juguetes En...'
 sku: 'B082K6HTK2-es'
 tags: [ 'juguetes', ]

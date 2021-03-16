@@ -5,7 +5,7 @@ date: 2020-09-02 16:11:37
 image: 'https://m.media-amazon.com/images/I/51sn4TlO50L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V8KHK86-es Geomag- Mechanics Construcciones magnéticas y juegos...'
 sku: 'B00V8KHK86-es'
 tags: [ 'geomag-', ]

@@ -5,7 +5,7 @@ date: 2020-04-17 13:45:52
 image: 'https://m.media-amazon.com/images/I/51hLrus1CDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GFGR0S2-es Lixada Cubrezapatos Térmico Impermeable A Prueba de Viento...'
 sku: 'B01GFGR0S2-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-06-10 15:52:02
 image: 'https://m.media-amazon.com/images/I/51D5mLbkeqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CHLWWZ-es yoptote Puzzles Rompecabezas Magnéticos de Madera Juguete...'
 sku: 'B073CHLWWZ-es'
 tags: [ 'rompecabezas', ]

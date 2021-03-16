@@ -5,7 +5,7 @@ date: 2020-05-29 11:32:53
 image: 'https://m.media-amazon.com/images/I/41mzYtp3JGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N4G5LRE-es BANDAI Tamashii Nations Movie Realization Samurai General...'
 sku: 'B00N4G5LRE-es'
 tags: [ 'bandai', ]

@@ -5,7 +5,7 @@ date: 2020-01-09 23:21:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HDTc8yflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDPD78M-es Homcom Entrenador Elíptico de Fitness Bicicleta Elíptica...'
 sku: 'B07FDPD78M-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 12:05:03
 image: 'https://m.media-amazon.com/images/I/41Cn5W7LqxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YFGYHN-es SMARTGYRO Ebike Red - Bicicleta Eléctrica Ruedas de 16"...'
 sku: 'B079YFGYHN-es'
 tags: [ 'bicicleta','smartgyro', ]

@@ -5,7 +5,7 @@ date: 2020-03-08 10:01:57
 image: 'https://m.media-amazon.com/images/I/51N5992Eg4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNT8XBN-es LEGO Disney Princess - Celebración Real de Ariel Aurora y...'
 sku: 'B07FNT8XBN-es'
 tags: [ 'lego', ]

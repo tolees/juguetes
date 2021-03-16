@@ -5,7 +5,7 @@ date: 2020-09-04 10:31:12
 image: 'https://m.media-amazon.com/images/I/51jrhOLolDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC74WKJ-es LEGO 4+ Woody y RC Juguete de Construcción para Recrear...'
 sku: 'B07JC74WKJ-es'
 tags: [ 'lego', ]

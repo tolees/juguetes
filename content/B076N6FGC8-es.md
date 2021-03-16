@@ -5,7 +5,7 @@ date: 2020-04-02 21:13:29
 image: 'https://m.media-amazon.com/images/I/41V6ga6OMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076N6FGC8-es Jurassic World Dinosaurio de juguete Indoraptor luces y...'
 sku: 'B076N6FGC8-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-03-31 05:30:42
 image: 'https://m.media-amazon.com/images/I/5197+VZsLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C2QL1DO-es Sam el bombero- Vehículo con Figura Color Rojo Simba 9257656'
 sku: 'B01C2QL1DO-es'
 tags: [ 'simba', ]

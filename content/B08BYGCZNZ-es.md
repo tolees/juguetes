@@ -5,7 +5,7 @@ date: 2020-08-24 21:20:55
 image: 'https://m.media-amazon.com/images/I/51TlAbCSXvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BYGCZNZ-es BelleStyle Juegos Educativos 2 Años Puzzles de Madera del...'
 sku: 'B08BYGCZNZ-es'
 tags: [ 'juguetes','puzzle', ]

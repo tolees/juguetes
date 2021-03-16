@@ -5,7 +5,7 @@ date: 2020-08-03 07:47:39
 image: 'https://m.media-amazon.com/images/I/51bFSGmSjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8LFZQF-es Dinfun Tangram de Madera - Montessori Shapes Puzzle de...'
 sku: 'B07Z8LFZQF-es'
 tags: [ 'juguetes','puzzle', ]

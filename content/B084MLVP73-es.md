@@ -5,7 +5,7 @@ date: 2020-09-25 08:34:07
 image: 'https://m.media-amazon.com/images/I/61QcJBePePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084MLVP73-es Educa Borras - Genuine Puzzles Puzzle 4.000 piezas...'
 sku: 'B084MLVP73-es'
 tags: [ 'puzzle', ]

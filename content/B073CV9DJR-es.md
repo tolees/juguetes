@@ -5,7 +5,7 @@ date: 2020-08-23 15:16:59
 image: 'https://m.media-amazon.com/images/I/511TB-p918L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CV9DJR-es TOYMYTOY Balón de Fútbol Bolas Pelotas Juguetes Deportivos...'
 sku: 'B073CV9DJR-es'
 tags: [ 'juguetes', ]

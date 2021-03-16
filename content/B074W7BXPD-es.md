@@ -5,7 +5,7 @@ date: 2020-05-07 15:40:37
 image: 'https://m.media-amazon.com/images/I/514HpoOL34L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074W7BXPD-es TONZE Juguetes Baño Bebe Juguetes Bebe Bañera Flotantes...'
 sku: 'B074W7BXPD-es'
 tags: [ 'juguetes', ]

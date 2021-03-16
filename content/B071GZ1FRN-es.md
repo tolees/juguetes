@@ -5,7 +5,7 @@ date: 2020-04-22 09:36:59
 image: 'https://m.media-amazon.com/images/I/51ljkQGMtkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GZ1FRN-es Hasbro Gaming Juego de Habilidad Conecta 4 Multicolor...'
 sku: 'B071GZ1FRN-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 09:18:58
 image: 'https://m.media-amazon.com/images/I/61APZUFhjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2K51FN-es Ravensburger - Memory Dragons 3 21444'
 sku: 'B07K2K51FN-es'
 tags: [ 'ravensburger', ]

@@ -5,7 +5,7 @@ date: 2020-08-20 15:11:25
 image: 'https://m.media-amazon.com/images/I/515LUGJW5kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BYJ7FSY-es BelleStyle Puzzle Bebe Puzzles de Madera Educativos para...'
 sku: 'B08BYJ7FSY-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]

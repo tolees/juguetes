@@ -5,7 +5,7 @@ date: 2020-07-14 19:46:20
 image: 'https://m.media-amazon.com/images/I/51o3fTGa9jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081V9KWDH-es Amy&Benton Juguete con la Herramienta Tornillo 224 Piezas...'
 sku: 'B081V9KWDH-es'
 tags: [ 'juguetes', ]

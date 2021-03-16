@@ -5,7 +5,7 @@ date: 2020-08-19 10:31:39
 image: 'https://m.media-amazon.com/images/I/51+k96Q4HJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PKRXNG-es Gifort Maquina Burbujas para niños soplador de Burbujas...'
 sku: 'B086PKRXNG-es'
 tags: [ 'juguetes', ]

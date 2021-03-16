@@ -5,7 +5,7 @@ date: 2020-01-11 10:18:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mk9LYXtXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CU001MY-es Jazwares 15236 16902 Animal Jam Mapache Deluxe Peluche 20 cm'
 sku: 'B01CU001MY-es'
 tags: [ 'peluche', ]

@@ -5,7 +5,7 @@ date: 2020-08-23 09:09:49
 image: 'https://m.media-amazon.com/images/I/514mZNJrDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJDL5VM-es Alfombra Musical - juguetes niños 1 2 3 4 5 6 años Musical...'
 sku: 'B08BJDL5VM-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-08-31 17:39:54
 image: 'https://m.media-amazon.com/images/I/51c6GaZcMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNS9YSJ-es LEGO DUPLO My First - Mis Primeros Animales Equilibristas...'
 sku: 'B07FNS9YSJ-es'
 tags: [ 'lego', ]

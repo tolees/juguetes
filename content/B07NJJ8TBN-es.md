@@ -5,7 +5,7 @@ date: 2020-04-03 10:32:18
 image: 'https://m.media-amazon.com/images/I/41kDPaaoUTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJ8TBN-es Little People Granja cuida a los animalitos juguetes bebés...'
 sku: 'B07NJJ8TBN-es'
 tags: [ 'juguetes','mattel', ]

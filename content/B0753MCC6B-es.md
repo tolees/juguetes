@@ -5,7 +5,7 @@ date: 2020-07-18 11:30:45
 image: 'https://m.media-amazon.com/images/I/414a0-nxrjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753MCC6B-es Reloj modificable infantil con figurita de la tropa de...'
 sku: 'B0753MCC6B-es'
 tags: [ 'lego', ]

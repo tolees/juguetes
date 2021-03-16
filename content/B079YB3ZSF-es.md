@@ -5,7 +5,7 @@ date: 2020-02-08 23:55:57
 image: 'https://m.media-amazon.com/images/I/51bFYL9QE7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YB3ZSF-es Lego Star Wars - Bañador para niño - Lego Star Wars - 4 -...'
 sku: 'B079YB3ZSF-es'
 tags: [ 'lego', ]

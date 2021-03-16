@@ -5,7 +5,7 @@ date: 2020-08-13 11:22:08
 image: 'https://m.media-amazon.com/images/I/51ViO5JbUHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SG3YRV-es Pinypon- Instituto PINY Multicolor Famosa 700014353'
 sku: 'B079SG3YRV-es'
 tags: [ 'famosa','pinypon-', ]

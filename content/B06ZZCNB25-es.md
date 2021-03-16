@@ -5,7 +5,7 @@ date: 2020-04-18 02:31:12
 image: 'https://m.media-amazon.com/images/I/31IhXSBJ4bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZCNB25-es Reloj modificable infantil con figurita de BB-8 de LEGO...'
 sku: 'B06ZZCNB25-es'
 tags: [ 'lego', ]

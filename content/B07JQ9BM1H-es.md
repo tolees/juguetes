@@ -5,7 +5,7 @@ date: 2020-03-11 21:13:56
 image: 'https://m.media-amazon.com/images/I/31RI7AJTzdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQ9BM1H-es Peluche de Gato Almohada para Cojín Asiento de Gato de...'
 sku: 'B07JQ9BM1H-es'
 tags: [ 'peluche', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 05:43:36
 image: 'https://m.media-amazon.com/images/I/51lcY7ExGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3QQPN8-es Hasbro C2691EU4 Bailey Visita al Medico'
 sku: 'B06X3QQPN8-es'
 tags: [ 'hasbro', ]

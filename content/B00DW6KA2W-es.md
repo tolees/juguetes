@@ -5,7 +5,7 @@ date: 2020-07-19 16:04:46
 image: 'https://m.media-amazon.com/images/I/616ZewA5RYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DW6KA2W-es Devir- Juego de Mesa Inkognito única BGINKO'
 sku: 'B00DW6KA2W-es'
 tags: [ 'devir-', ]

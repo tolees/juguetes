@@ -5,7 +5,7 @@ date: 2020-07-23 21:13:06
 image: 'https://m.media-amazon.com/images/I/513NOnLbq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLL3M8Z-es LEGO Star Wars - Rey 75528'
 sku: 'B06WLL3M8Z-es'
 tags: [ 'lego', ]

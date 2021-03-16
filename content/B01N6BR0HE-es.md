@@ -5,7 +5,7 @@ date: 2020-04-04 13:23:30
 image: 'https://m.media-amazon.com/images/I/51paorBv07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6BR0HE-es Hasbro - Mph Silly Suitcase Ast Hasbro 36404EU7'
 sku: 'B01N6BR0HE-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-07-24 07:03:14
 image: 'https://m.media-amazon.com/images/I/41GQX768NmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJZ5L7G-es Famosa- PinyPon Action Pack 2 Figuras 22x20 cm Multicolor...'
 sku: 'B07HJZ5L7G-es'
 tags: [ 'pinypon', ]

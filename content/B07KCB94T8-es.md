@@ -5,7 +5,7 @@ date: 2020-02-13 18:40:06
 image: 'https://m.media-amazon.com/images/I/51m+vFW-ECL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCB94T8-es HERSITY Maletín Maquillaje Juguetes de Peluqueria Belleza...'
 sku: 'B07KCB94T8-es'
 tags: [ 'juguetes', ]

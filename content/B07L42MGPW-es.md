@@ -5,7 +5,7 @@ date: 2020-08-17 14:31:06
 image: 'https://m.media-amazon.com/images/I/61xIMI5BH3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L42MGPW-es Educa Borras - Serie Coloured B&W Puzzle 500 piezas...'
 sku: 'B07L42MGPW-es'
 tags: [ 'puzzle', ]

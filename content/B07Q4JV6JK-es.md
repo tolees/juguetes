@@ -5,7 +5,7 @@ date: 2020-04-24 13:32:29
 image: 'https://m.media-amazon.com/images/I/51jmr1hgiCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4JV6JK-es VTech- KidiGear Walkie Talkies Multicolor Box Size: 25 x...'
 sku: 'B07Q4JV6JK-es'
 tags: [ 'vtech-', ]

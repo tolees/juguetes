@@ -5,7 +5,7 @@ date: 2020-10-10 20:19:17
 image: 'https://m.media-amazon.com/images/I/51BMSdJPszL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861R4DWV-es BBLIKE - Juego de juguetes de baño para niños y niñas de...'
 sku: 'B0861R4DWV-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-04-01 12:47:32
 image: 'https://m.media-amazon.com/images/I/318okF0hOQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5NYRES-es Logitech Brio Ultra HD Pro Webcam Streaming Fluido...'
 sku: 'B01N5NYRES-es'
 tags: [ 'brio', ]

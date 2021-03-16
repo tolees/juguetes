@@ -5,7 +5,7 @@ date: 2020-02-12 08:03:37
 image: 'https://m.media-amazon.com/images/I/51Q5pjoYkSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5B11QB-es REAL MADRID- Nanostad Puzzle 3D Estadio Santiago Bernabéu...'
 sku: 'B07R5B11QB-es'
 tags: [ 'puzzle', ]

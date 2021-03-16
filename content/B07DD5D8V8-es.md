@@ -5,7 +5,7 @@ date: 2020-01-27 11:12:56
 image: 'https://m.media-amazon.com/images/I/51dWc1KeJVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD5D8V8-es Beados - Pack Temático S8 Kitty Cat Party Famosa 700014681'
 sku: 'B07DD5D8V8-es'
 tags: [ 'famosa', ]

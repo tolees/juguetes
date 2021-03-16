@@ -5,7 +5,7 @@ date: 2020-05-02 18:18:29
 image: 'https://m.media-amazon.com/images/I/51ZnYHL4clL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWMBML-es LEGO Creator - Reactor Futurista Juguete 3 en 1 de...'
 sku: 'B07FNWMBML-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-06-11 08:00:06
 image: 'https://m.media-amazon.com/images/I/41ws0ONw5FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BPUNWEE-es TY- Peluche juguete Color negro/blanco 15 cm United Labels...'
 sku: 'B01BPUNWEE-es'
 tags: [ 'peluche', ]

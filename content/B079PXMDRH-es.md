@@ -5,7 +5,7 @@ date: 2020-09-14 19:15:39
 image: 'https://m.media-amazon.com/images/I/61tp3PeANpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PXMDRH-es Ravensburger Mask PJ Masks-Rompecabezas para niños de 3...'
 sku: 'B079PXMDRH-es'
 tags: [ 'ravensburger', ]

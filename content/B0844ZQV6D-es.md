@@ -5,7 +5,7 @@ date: 2020-08-12 12:59:56
 image: 'https://m.media-amazon.com/images/I/51wzsPiS25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0844ZQV6D-es SuperZings Serie 5 – Fire Strike Mission 5 y Pack Sorpresa...'
 sku: 'B0844ZQV6D-es'
 tags: [ 'juguetes','superzings', ]

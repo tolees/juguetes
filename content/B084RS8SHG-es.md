@@ -5,7 +5,7 @@ date: 2020-04-16 00:21:43
 image: 'https://m.media-amazon.com/images/I/41EOUJ-NsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RS8SHG-es Famosa Pin y Pon New Look Pelo Lila 700015560'
 sku: 'B084RS8SHG-es'
 tags: [ 'famosa','pin','pon','y', ]

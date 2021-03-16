@@ -5,7 +5,7 @@ date: 2020-04-15 16:23:49
 image: 'https://m.media-amazon.com/images/I/61M6K5gCVcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074H5DJ6F-es Well Love Juguetes para perro juguetes para masticar...'
 sku: 'B074H5DJ6F-es'
 tags: [ 'juguetes','peluche', ]

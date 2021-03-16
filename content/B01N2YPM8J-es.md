@@ -5,7 +5,7 @@ date: 2020-04-25 20:44:14
 image: 'https://m.media-amazon.com/images/I/41MPUEMWaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2YPM8J-es Ganchos para cochecito Venoka multiusos 2 piezas universal...'
 sku: 'B01N2YPM8J-es'
 tags: [ 'juguetes', ]

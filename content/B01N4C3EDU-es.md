@@ -5,7 +5,7 @@ date: 2020-08-25 11:56:02
 image: 'https://m.media-amazon.com/images/I/41pyyVAb5WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4C3EDU-es 25 mm Par de base soporte adaptador de manillar para moto...'
 sku: 'B01N4C3EDU-es'
 tags: [ 'bicicleta', ]

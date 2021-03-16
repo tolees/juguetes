@@ -5,7 +5,7 @@ date: 2020-08-29 11:38:50
 image: 'https://m.media-amazon.com/images/I/51OsGSTh8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y5FHWF-es Fivejoy 1:28 Coche Teledirigido 15km/h 2.4GHz Coches...'
 sku: 'B082Y5FHWF-es'
 tags: [ 'coche','rc', ]

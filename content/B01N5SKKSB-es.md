@@ -5,7 +5,7 @@ date: 2020-03-17 23:20:14
 image: 'https://m.media-amazon.com/images/I/51xx0irkCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5SKKSB-es Educa Borrás- Personajes fántasticos Puzzle 17099'
 sku: 'B01N5SKKSB-es'
 tags: [ 'puzzle', ]

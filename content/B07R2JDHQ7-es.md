@@ -5,7 +5,7 @@ date: 2020-03-26 10:28:48
 image: 'https://m.media-amazon.com/images/I/51cCrScAGVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2JDHQ7-es WLZP Mochila Bicicleta Bolsa de Agua de Súper Ligero de 2L...'
 sku: 'B07R2JDHQ7-es'
 tags: [ 'bicicleta', ]

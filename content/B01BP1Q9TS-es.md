@@ -5,7 +5,7 @@ date: 2020-02-24 12:17:46
 image: 'https://m.media-amazon.com/images/I/51TKD-rWCPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BP1Q9TS-es Trivial Pursuit Star Wars Hasbro B8615105'
 sku: 'B01BP1Q9TS-es'
 tags: [ 'hasbro', ]

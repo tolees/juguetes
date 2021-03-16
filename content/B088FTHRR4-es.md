@@ -5,7 +5,7 @@ date: 2020-05-31 12:04:54
 image: 'https://m.media-amazon.com/images/I/31OzDqFyp3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FTHRR4-es Wuyee Regalos de Madera Juguete de diseño Kendama Copa...'
 sku: 'B088FTHRR4-es'
 tags: [ 'juguetes', ]

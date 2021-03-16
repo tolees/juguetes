@@ -5,7 +5,7 @@ date: 2020-07-11 12:12:39
 image: 'https://m.media-amazon.com/images/I/316XpNJ1B+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL9RGQK-es Barbie Dreamtopia Sirena rubia nada y brilla con...'
 sku: 'B07GL9RGQK-es'
 tags: [ 'barbie','mattel', ]

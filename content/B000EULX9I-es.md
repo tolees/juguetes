@@ -5,7 +5,7 @@ date: 2020-07-14 23:04:10
 image: 'https://m.media-amazon.com/images/I/41DDtobFajL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000EULX9I-es Fisher-Price Gira Gira - Cebra'
 sku: 'B000EULX9I-es'
 tags: [ 'fisher-price', ]

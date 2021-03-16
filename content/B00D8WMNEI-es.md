@@ -5,7 +5,7 @@ date: 2020-02-19 06:02:01
 image: 'https://m.media-amazon.com/images/I/518wZ3bEbtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D8WMNEI-es LEGO: Marvel Super Heroes'
 sku: 'B00D8WMNEI-es'
 tags: [ 'lego:', ]

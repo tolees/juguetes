@@ -5,7 +5,7 @@ date: 2020-08-30 15:46:50
 image: 'https://m.media-amazon.com/images/I/51P2upIo2oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089JZGY56-es LinStyle Juguetes del Baño Máquina de Burbujas de Baño con...'
 sku: 'B089JZGY56-es'
 tags: [ 'juguetes', ]

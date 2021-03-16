@@ -5,7 +5,7 @@ date: 2020-05-09 20:01:08
 image: 'https://m.media-amazon.com/images/I/41KqnxtGcaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSKP9JR-es DC Justice League Figura de Acción 30 cm Superman Juguetes...'
 sku: 'B07GSKP9JR-es'
 tags: [ 'juguetes','mattel', ]

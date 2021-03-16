@@ -5,7 +5,7 @@ date: 2020-10-04 13:53:33
 image: 'https://m.media-amazon.com/images/I/61PTnJef-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DBWAVYY-es Ravensburger - La Biblioteca extraña 2 Puzzle de 1000...'
 sku: 'B00DBWAVYY-es'
 tags: [ 'puzzle','ravensburger', ]

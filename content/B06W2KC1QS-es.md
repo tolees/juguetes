@@ -5,7 +5,7 @@ date: 2020-03-25 21:48:43
 image: 'https://m.media-amazon.com/images/I/515UTZ7G-uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W2KC1QS-es LEGO Star Wars - Tie Fighter de Kylo Ren Nave Espacial de...'
 sku: 'B06W2KC1QS-es'
 tags: [ 'lego', ]

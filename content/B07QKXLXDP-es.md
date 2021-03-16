@@ -5,7 +5,7 @@ date: 2020-05-08 08:28:24
 image: 'https://m.media-amazon.com/images/I/41fpLArLLZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKXLXDP-es Hengxin Maillot Ciclismo Corto De Verano para Hombre Ropa...'
 sku: 'B07QKXLXDP-es'
 tags: [ 'bicicleta', ]

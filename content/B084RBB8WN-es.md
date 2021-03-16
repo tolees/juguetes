@@ -5,7 +5,7 @@ date: 2020-08-26 21:59:38
 image: 'https://m.media-amazon.com/images/I/51vO7gg54+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RBB8WN-es Winning Moves Puzzle Harry Potter House Crest 500 Piezas...'
 sku: 'B084RBB8WN-es'
 tags: [ 'puzzle', ]

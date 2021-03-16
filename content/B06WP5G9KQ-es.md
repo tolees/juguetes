@@ -5,7 +5,7 @@ date: 2020-03-16 09:32:40
 image: 'https://m.media-amazon.com/images/I/41ewQ7qXjRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP5G9KQ-es Star Wars 8 Sable electrónico Kylo REN Multicolor Hasbro...'
 sku: 'B06WP5G9KQ-es'
 tags: [ 'hasbro', ]

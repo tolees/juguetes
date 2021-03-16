@@ -5,7 +5,7 @@ date: 2020-06-18 16:02:20
 image: 'https://m.media-amazon.com/images/I/41yqDO0iABL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FQZGZ98-es Bizak Comiditas - Juego para cocinar 63120001'
 sku: 'B01FQZGZ98-es'
 tags: [ 'bizak', ]

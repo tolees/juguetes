@@ -5,7 +5,7 @@ date: 2020-05-28 10:53:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51UADzziJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L7ZBD7-es Asmodee - Dobble Waterproof Juego de cartas impermeable...'
 sku: 'B071L7ZBD7-es'
 tags: [ 'cartas','de','juego', ]

@@ -5,7 +5,7 @@ date: 2020-07-12 14:19:11
 image: 'https://m.media-amazon.com/images/I/51IjRNfktSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLX733D-es B•You Ojos de Seguridad de Plástico Ojos Amigurumi 150...'
 sku: 'B07PLX733D-es'
 tags: [ 'peluche', ]

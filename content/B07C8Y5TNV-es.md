@@ -5,7 +5,7 @@ date: 2020-02-17 10:42:41
 image: 'https://m.media-amazon.com/images/I/514Y0OvsedL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8Y5TNV-es MATTEL Juegos flk75 Juego'
 sku: 'B07C8Y5TNV-es'
 tags: [ 'mattel', ]

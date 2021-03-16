@@ -5,7 +5,7 @@ date: 2020-07-21 14:57:48
 image: 'https://m.media-amazon.com/images/I/51hgDHFa39L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088QXQ48N-es LEADSTAR Rompecabezas de Madera Bloques de Madera Tangram...'
 sku: 'B088QXQ48N-es'
 tags: [ 'puzzle','rompecabezas', ]

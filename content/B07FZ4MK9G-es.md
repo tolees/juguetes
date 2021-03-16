@@ -5,7 +5,7 @@ date: 2020-04-21 14:01:45
 image: 'https://m.media-amazon.com/images/I/41Lk5uEHFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZ4MK9G-es TOPINCN Bike Rest Handlebar Bicicleta de aleación Estable...'
 sku: 'B07FZ4MK9G-es'
 tags: [ 'bicicleta', ]

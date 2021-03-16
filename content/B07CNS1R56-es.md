@@ -5,7 +5,7 @@ date: 2020-05-13 22:09:43
 image: 'https://m.media-amazon.com/images/I/51duZ71WAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNS1R56-es Hot Wheels- Dino Challenge Circuito Slot Multicolor...'
 sku: 'B07CNS1R56-es'
 tags: [ 'juguetes', ]

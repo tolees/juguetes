@@ -5,7 +5,7 @@ date: 2020-08-16 10:05:51
 image: 'https://m.media-amazon.com/images/I/51Y+IZ2eBmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8PRCH6-es MaxTronic Coche RC 4x4 Radiocontrol 1:18 Juguete de...'
 sku: 'B07F8PRCH6-es'
 tags: [ 'coche','rc', ]

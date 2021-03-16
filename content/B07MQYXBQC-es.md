@@ -5,7 +5,7 @@ date: 2020-08-30 19:54:23
 image: 'https://m.media-amazon.com/images/I/41PrAJBCY2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQYXBQC-es Dc Batman Missions Figura de Acción Batman con Armadura y...'
 sku: 'B07MQYXBQC-es'
 tags: [ 'mattel', ]

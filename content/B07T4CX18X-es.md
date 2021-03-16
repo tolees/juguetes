@@ -5,7 +5,7 @@ date: 2020-09-16 18:08:34
 image: 'https://m.media-amazon.com/images/I/51cpvJ4i7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4CX18X-es Ravensburger - Puzzle Paw Patrol pack de 3 x 49 piezas 05048'
 sku: 'B07T4CX18X-es'
 tags: [ 'puzzle','ravensburger', ]

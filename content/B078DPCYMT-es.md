@@ -5,7 +5,7 @@ date: 2020-02-28 16:31:34
 image: 'https://m.media-amazon.com/images/I/51FGHUCbbxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078DPCYMT-es Marvel- Hulk with Titan Hero Power FX Port Series Color...'
 sku: 'B078DPCYMT-es'
 tags: [ 'hasbro', ]

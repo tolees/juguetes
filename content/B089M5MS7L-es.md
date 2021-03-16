@@ -5,7 +5,7 @@ date: 2020-08-30 22:43:44
 image: 'https://m.media-amazon.com/images/I/510VXXDRZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089M5MS7L-es Juguetes Montessori Bebes Educativos de Madera Laberinto...'
 sku: 'B089M5MS7L-es'
 tags: [ 'juguetes', ]

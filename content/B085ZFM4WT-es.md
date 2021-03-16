@@ -5,7 +5,7 @@ date: 2020-07-22 17:08:38
 image: 'https://m.media-amazon.com/images/I/51BRw-kaolL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZFM4WT-es VATOS Juego de Bloques de Construcción para Niñas Juguetes...'
 sku: 'B085ZFM4WT-es'
 tags: [ 'juguetes', ]

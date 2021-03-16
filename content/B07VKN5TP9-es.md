@@ -5,7 +5,7 @@ date: 2020-02-20 20:33:24
 image: 'https://m.media-amazon.com/images/I/41yC5bHoiOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKN5TP9-es ENEGON 9V USB Directa Recargable Batería 650mAh Lito-Ion...'
 sku: 'B07VKN5TP9-es'
 tags: [ 'juguetes', ]

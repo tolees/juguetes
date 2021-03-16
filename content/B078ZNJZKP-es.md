@@ -5,7 +5,7 @@ date: 2020-08-13 08:17:09
 image: 'https://m.media-amazon.com/images/I/51R7F+7mgUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZNJZKP-es TY- Búho Yago Peluche Color azul United Labels Ibérica...'
 sku: 'B078ZNJZKP-es'
 tags: [ 'peluche', ]

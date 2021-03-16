@@ -5,7 +5,7 @@ date: 2020-04-14 09:34:42
 image: 'https://m.media-amazon.com/images/I/31v6RLiJMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2OJNQQ-es Aurora World - Peluche Cabra 73903'
 sku: 'B00U2OJNQQ-es'
 tags: [ 'peluche', ]

@@ -5,7 +5,7 @@ date: 2020-06-07 17:02:46
 image: 'https://m.media-amazon.com/images/I/41hDIoKz7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S7D8GB-es Blesiya Sistema de Pincel de Dibujo Herramientas de...'
 sku: 'B078S7D8GB-es'
 tags: [ 'juguetes', ]

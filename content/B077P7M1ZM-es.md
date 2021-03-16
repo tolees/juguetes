@@ -5,7 +5,7 @@ date: 2020-08-21 09:36:45
 image: 'https://m.media-amazon.com/images/I/41huWnFs0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
 sku: 'B077P7M1ZM-es'
 tags: [ 'fisher-price','mattel', ]

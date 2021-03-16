@@ -5,7 +5,7 @@ date: 2020-10-08 15:35:36
 image: 'https://m.media-amazon.com/images/I/51jdjSTdVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DBR2S5S-es Clementoni - Pelota electrónica Musical 17109.5'
 sku: 'B01DBR2S5S-es'
 tags: [ 'clementoni', ]

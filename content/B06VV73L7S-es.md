@@ -5,7 +5,7 @@ date: 2020-07-11 17:29:07
 image: 'https://m.media-amazon.com/images/I/51D5PKt3RKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VV73L7S-es LEGO Star Wars - First Order Heavy Scout Walker Juguete de...'
 sku: 'B06VV73L7S-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-02-28 10:55:27
 image: 'https://m.media-amazon.com/images/I/411wmpDFj7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PD9TTGB-es BUCHAQIAN Alfombra de Espuma de Rompecabezas de Espuma de...'
 sku: 'B07PD9TTGB-es'
 tags: [ 'rompecabezas', ]

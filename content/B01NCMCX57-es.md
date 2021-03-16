@@ -5,7 +5,7 @@ date: 2020-10-01 21:18:39
 image: 'https://m.media-amazon.com/images/I/51xjVrRnN8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCMCX57-es Yosoo Matemáticas Manipuladores De Madera Barras de Contar...'
 sku: 'B01NCMCX57-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-10-12 21:50:34
 image: 'https://m.media-amazon.com/images/I/61lensvdGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLN9PXT-es My Little Pony - Equestria Minis Caravana Sushi Hasbro...'
 sku: 'B06WLN9PXT-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 22:55:19
 image: 'https://m.media-amazon.com/images/I/310BAFgWa0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7JHP66-es SmartGyro Xtreme Seat - Asiento para patín eléctrico...'
 sku: 'B07B7JHP66-es'
 tags: [ 'smartgyro', ]

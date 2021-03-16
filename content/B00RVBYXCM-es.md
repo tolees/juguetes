@@ -5,7 +5,7 @@ date: 2020-08-02 14:57:30
 image: 'https://m.media-amazon.com/images/I/41gIW+Ya25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RVBYXCM-es SportPlus Heimtrainer S-Bike - Bicicleta estática y de...'
 sku: 'B00RVBYXCM-es'
 tags: [ 'bicicleta', ]

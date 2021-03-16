@@ -5,7 +5,7 @@ date: 2020-07-06 16:32:10
 image: 'https://m.media-amazon.com/images/I/51Mu5vuL59L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2DGQYK-es UGI Cámara de acción 480P Cámara Deportiva Impermeable 140...'
 sku: 'B07F2DGQYK-es'
 tags: [ 'bicicleta', ]

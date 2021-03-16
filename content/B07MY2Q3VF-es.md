@@ -5,7 +5,7 @@ date: 2020-06-25 14:58:42
 image: 'https://m.media-amazon.com/images/I/51FzTOCQfcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MY2Q3VF-es Clementoni- Puzzle 3000 Piezas San Francisco Multicolor...'
 sku: 'B07MY2Q3VF-es'
 tags: [ 'puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-08-27 13:31:15
 image: 'https://m.media-amazon.com/images/I/51HMxbvQZWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FTTADUS-es 40.5 * 26 * 22cm Canasta de almacenamiento plegable con...'
 sku: 'B01FTTADUS-es'
 tags: [ 'juguetes', ]

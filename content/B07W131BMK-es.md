@@ -5,7 +5,7 @@ date: 2020-01-23 19:40:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51z6DS4m7cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W131BMK-es Kriogor Coche RC Coche Controlado por Radio Stunt Coche...'
 sku: 'B07W131BMK-es'
 tags: [ 'coche','rc', ]

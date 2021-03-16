@@ -5,7 +5,7 @@ date: 2020-02-09 15:01:50
 image: 'https://m.media-amazon.com/images/I/61pQL210SHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9SYH32-es My Little Pony My Little Pony-C1058 Juego Luces y Agua...'
 sku: 'B06X9SYH32-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-09-28 11:33:20
 image: 'https://m.media-amazon.com/images/I/516+7da22cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCJXV8M-es VTech Barco pirata cazatesoros transformable en isla...'
 sku: 'B07CCJXV8M-es'
 tags: [ 'vtech', ]

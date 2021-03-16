@@ -5,7 +5,7 @@ date: 2020-02-27 15:21:08
 image: 'https://m.media-amazon.com/images/I/51HboP8kQWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765CRFR4-es LEGO City - Ártico: Transporte Aéreo Juguete de...'
 sku: 'B0765CRFR4-es'
 tags: [ 'lego', ]

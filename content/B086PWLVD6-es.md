@@ -5,7 +5,7 @@ date: 2020-05-31 14:02:15
 image: 'https://m.media-amazon.com/images/I/31LvmHAoKfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PWLVD6-es iMiMi Rainbow Stacker clásico juguete de desarrollo...'
 sku: 'B086PWLVD6-es'
 tags: [ 'juguetes', ]

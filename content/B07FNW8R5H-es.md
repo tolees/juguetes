@@ -5,7 +5,7 @@ date: 2020-08-27 18:18:36
 image: 'https://m.media-amazon.com/images/I/51DPlUZQCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNW8R5H-es LEGO La LEGO Película 2 - Casa de los Sueños/Cohete de...'
 sku: 'B07FNW8R5H-es'
 tags: [ 'lego', ]

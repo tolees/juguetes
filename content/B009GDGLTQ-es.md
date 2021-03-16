@@ -5,7 +5,7 @@ date: 2020-01-05 06:54:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZtbgQif3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009GDGLTQ-es Peppa Pig Cole con Amigos Incluye 7 Figuras y 3 pupitres...'
 sku: 'B009GDGLTQ-es'
 tags: [ 'bandai','peppa','pig', ]

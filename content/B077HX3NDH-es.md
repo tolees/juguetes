@@ -5,7 +5,7 @@ date: 2020-07-09 22:34:28
 image: 'https://m.media-amazon.com/images/I/31tp3E+b3qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HX3NDH-es Fisher Price Andador Bolitas Saltarinas Correpasillos Bebé...'
 sku: 'B077HX3NDH-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-04-18 02:46:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517lZ-b1cqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792QR5QF-es LEGO Technic - Carretilla Elevadora de Alto Rendimiento...'
 sku: 'B0792QR5QF-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 05:16:24
 image: 'https://m.media-amazon.com/images/I/517TTEyOXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0196A4EWE-es SYLVANIAN FAMILIES- Cosmetic Counter Mini muñecas y...'
 sku: 'B0196A4EWE-es'
 tags: [ 'families','sylvanian', ]

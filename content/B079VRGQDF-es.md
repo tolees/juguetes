@@ -5,7 +5,7 @@ date: 2020-03-18 12:40:27
 image: 'https://m.media-amazon.com/images/I/61xKA94s6ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VRGQDF-es Juegos Bizak Headbanz Adivina que Pienso BIZAK 61924297'
 sku: 'B079VRGQDF-es'
 tags: [ 'bizak', ]

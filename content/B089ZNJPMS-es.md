@@ -5,7 +5,7 @@ date: 2020-08-26 11:12:26
 image: 'https://m.media-amazon.com/images/I/515bpDYcDtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZNJPMS-es COOLJOY Puzzles de Madera Magnético Tablero de Dibujo de...'
 sku: 'B089ZNJPMS-es'
 tags: [ 'rompecabezas', ]

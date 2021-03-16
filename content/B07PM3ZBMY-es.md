@@ -5,7 +5,7 @@ date: 2020-01-03 10:02:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51h8x7y2WFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM3ZBMY-es Onshine 14 Pedazos Conjunto de Juguetes Arena para la...'
 sku: 'B07PM3ZBMY-es'
 tags: [ 'juguetes', ]

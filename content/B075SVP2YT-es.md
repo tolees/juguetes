@@ -5,7 +5,7 @@ date: 2020-04-17 05:29:22
 image: 'https://m.media-amazon.com/images/I/51otYUo--PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SVP2YT-es LEGO Friends - Autocaravana de Mia Set de Construcción...'
 sku: 'B075SVP2YT-es'
 tags: [ 'lego', ]

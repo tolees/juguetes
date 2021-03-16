@@ -5,7 +5,7 @@ date: 2020-07-09 23:59:11
 image: 'https://m.media-amazon.com/images/I/51p7g82mv3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0827DZKSW-es HellDoler Juguetes de Baño Huevo Flotante con Spray de...'
 sku: 'B0827DZKSW-es'
 tags: [ 'juguetes', ]

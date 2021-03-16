@@ -5,7 +5,7 @@ date: 2020-06-25 04:53:20
 image: 'https://m.media-amazon.com/images/I/41puqz2z5HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9X36CN-es Partypopteenies - Lanzador Sorpresa Bizak 61924680...'
 sku: 'B07D9X36CN-es'
 tags: [ 'bizak', ]

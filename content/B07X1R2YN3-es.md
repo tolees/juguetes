@@ -5,7 +5,7 @@ date: 2020-01-10 10:03:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61W-6N1EgNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1R2YN3-es jerryvon 136 Piezas Puzzles Rompecabezas Magnéticos...'
 sku: 'B07X1R2YN3-es'
 tags: [ 'juguetes','rompecabezas', ]

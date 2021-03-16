@@ -5,7 +5,7 @@ date: 2020-02-23 13:53:09
 image: 'https://m.media-amazon.com/images/I/51m3vJ-Q-nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK5MC14-es Bananas- Megabananas Multicolor Bandai BB00778'
 sku: 'B07PK5MC14-es'
 tags: [ 'bandai', ]

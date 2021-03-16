@@ -5,7 +5,7 @@ date: 2020-03-16 22:29:14
 image: 'https://m.media-amazon.com/images/I/51+HFofsrwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GWF9YP-es LEGO City Police - Montaña: Arresto Set de Construcción de...'
 sku: 'B075GWF9YP-es'
 tags: [ 'lego', ]

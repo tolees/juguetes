@@ -5,7 +5,7 @@ date: 2020-06-02 07:10:56
 image: 'https://m.media-amazon.com/images/I/41fnBnamJ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PI0GZ7Y-es Fisher-Price - Duermebebés sueños Felices Mattel CHG19'
 sku: 'B00PI0GZ7Y-es'
 tags: [ 'fisher-price','mattel', ]

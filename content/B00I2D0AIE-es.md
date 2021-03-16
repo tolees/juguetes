@@ -5,7 +5,7 @@ date: 2020-04-11 08:40:33
 image: 'https://m.media-amazon.com/images/I/41rcz1wMQ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I2D0AIE-es Mousehouse Gifts Adorable muñecas de Trapo Hada de Peluche...'
 sku: 'B00I2D0AIE-es'
 tags: [ 'peluche', ]

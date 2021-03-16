@@ -5,7 +5,7 @@ date: 2020-03-07 13:40:12
 image: 'https://m.media-amazon.com/images/I/41ufEU2GhSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016XS3IRY-es Fisher-Price Manzanita Activity juguete colgante para bebé...'
 sku: 'B016XS3IRY-es'
 tags: [ 'fisher-price','mattel', ]

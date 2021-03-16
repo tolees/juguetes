@@ -5,7 +5,7 @@ date: 2020-08-05 16:19:18
 image: 'https://m.media-amazon.com/images/I/51HNcu96mBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MY379NT-es Clementoni- Puzzle 60 Piezas Aladino Multicolor 26053.9'
 sku: 'B07MY379NT-es'
 tags: [ 'puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-08-13 01:01:46
 image: 'https://m.media-amazon.com/images/I/51RwM5aI9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WWXJXG-es Herize Puzzle 500 Piezas para Adultos Niños | Paisajes de...'
 sku: 'B086WWXJXG-es'
 tags: [ 'juguetes','puzzle', ]

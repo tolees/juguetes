@@ -5,7 +5,7 @@ date: 2020-03-02 11:30:50
 image: 'https://m.media-amazon.com/images/I/51CBPnfsg5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STWHC69-es Peppa Pig- Casa Gigante De Madera Multicolor Bandai CO07004'
 sku: 'B07STWHC69-es'
 tags: [ 'bandai','peppa','pig', ]

@@ -5,7 +5,7 @@ date: 2020-04-04 08:19:28
 image: 'https://m.media-amazon.com/images/I/31hc2HSFX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVP4W52-es Fisher-Price Llama Linkimals Juguete interactivo bebés +9...'
 sku: 'B07PVP4W52-es'
 tags: [ 'fisher-price','mattel', ]

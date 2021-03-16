@@ -5,7 +5,7 @@ date: 2020-06-06 14:31:33
 image: 'https://m.media-amazon.com/images/I/41gG5vTe86L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWKMKK1-es Mattel Disney Toy Story 4 Figura Duke Caboom acrobacias y...'
 sku: 'B07FWKMKK1-es'
 tags: [ 'juguetes','mattel', ]

@@ -5,7 +5,7 @@ date: 2020-02-04 16:06:20
 image: 'https://m.media-amazon.com/images/I/31N2KAnpiBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPQM797-es L.O.L. Surprise! 564119E7C Furniture Boutique con Abeja...'
 sku: 'B07PPQM797-es'
 tags: [ 'l.o.l.', ]

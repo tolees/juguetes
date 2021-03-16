@@ -5,7 +5,7 @@ date: 2020-06-23 11:56:21
 image: 'https://m.media-amazon.com/images/I/6144fnFfF+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861QHZVP-es Magicfun Flotado de Natación para Bebé con Asiento Anill...'
 sku: 'B0861QHZVP-es'
 tags: [ 'flotador','juguetes', ]

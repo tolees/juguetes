@@ -5,7 +5,7 @@ date: 2020-06-27 14:49:43
 image: 'https://m.media-amazon.com/images/I/51Hwp9OhOpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6BFKC8-es LEGO - Overwatch Tracer vs. Widowmaker Set de construcción...'
 sku: 'B07J6BFKC8-es'
 tags: [ 'lego', ]

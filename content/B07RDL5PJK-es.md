@@ -5,7 +5,7 @@ date: 2020-02-25 16:39:21
 image: 'https://m.media-amazon.com/images/I/51GrCESk7qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDL5PJK-es HoneyHolly Botella de Agua Deporte 400ml/500ml/700ml/1l...'
 sku: 'B07RDL5PJK-es'
 tags: [ 'bicicleta', ]

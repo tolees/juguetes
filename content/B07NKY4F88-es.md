@@ -5,7 +5,7 @@ date: 2020-04-22 11:04:59
 image: 'https://m.media-amazon.com/images/I/51bE1lINDyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NKY4F88-es Hasbro accion Marvel Figura con vehículo Deadpool...'
 sku: 'B07NKY4F88-es'
 tags: [ 'hasbro', ]

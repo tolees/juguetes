@@ -5,7 +5,7 @@ date: 2020-09-20 08:02:54
 image: 'https://m.media-amazon.com/images/I/51hi6xtc+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WVXSXF-es YIMINYUER Alfombrillas de Ejercicios Espumas EVA...'
 sku: 'B084WVXSXF-es'
 tags: [ 'puzzle', ]

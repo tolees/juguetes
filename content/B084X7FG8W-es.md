@@ -5,7 +5,7 @@ date: 2020-09-20 19:38:27
 image: 'https://m.media-amazon.com/images/I/51xa4Bu16RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084X7FG8W-es YIMINYUER EVA Medio Ambiente Alfombrilla Puzzle Deporte...'
 sku: 'B084X7FG8W-es'
 tags: [ 'puzzle', ]

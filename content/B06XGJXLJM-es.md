@@ -5,7 +5,7 @@ date: 2020-06-15 11:38:31
 image: 'https://m.media-amazon.com/images/I/51KhRQtHXML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGJXLJM-es Ravensburger-19747 7 Puzzle Disney Classic El Rey Ón...'
 sku: 'B06XGJXLJM-es'
 tags: [ 'puzzle', ]

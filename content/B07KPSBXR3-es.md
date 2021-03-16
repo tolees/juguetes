@@ -5,7 +5,7 @@ date: 2020-10-12 10:29:23
 image: 'https://m.media-amazon.com/images/I/41dH815KGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSBXR3-es Pop! Vinilo: Disney: The Lion King: Simba'
 sku: 'B07KPSBXR3-es'
 tags: [ 'simba', ]

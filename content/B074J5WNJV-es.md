@@ -5,7 +5,7 @@ date: 2020-03-05 18:37:34
 image: 'https://m.media-amazon.com/images/I/51haPMfINTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074J5WNJV-es BelleStyle Bolsa de Almacenamiento de Juguetes para niños...'
 sku: 'B074J5WNJV-es'
 tags: [ 'juguetes', ]

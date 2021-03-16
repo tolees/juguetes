@@ -5,7 +5,7 @@ date: 2020-09-07 11:06:39
 image: 'https://m.media-amazon.com/images/I/61FTAYPrugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084XL6CNW-es Ravensburger Super Zings para niños 3+ años 4 Puzzle en...'
 sku: 'B084XL6CNW-es'
 tags: [ 'puzzle','ravensburger', ]

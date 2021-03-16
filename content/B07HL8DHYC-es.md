@@ -5,7 +5,7 @@ date: 2020-05-10 14:02:00
 image: 'https://m.media-amazon.com/images/I/41lmKeZHnGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL8DHYC-es Promise Babe 3pc Colgante Mordedor de Silicona Juguetes...'
 sku: 'B07HL8DHYC-es'
 tags: [ 'juguetes', ]

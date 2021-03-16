@@ -5,7 +5,7 @@ date: 2020-08-03 19:18:34
 image: 'https://m.media-amazon.com/images/I/51hn7wTu3oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KNH82Q-es Mega Construx - Pokemon Figuras Venesaur Versus Beedrill...'
 sku: 'B079KNH82Q-es'
 tags: [ 'construx','juguetes','mattel','mega', ]

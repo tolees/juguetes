@@ -5,7 +5,7 @@ date: 2020-10-07 19:51:03
 image: 'https://m.media-amazon.com/images/I/61XdPs5Jb5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OYTMBSM-es Devir- Erizos a la Carrera HLERIZOS'
 sku: 'B00OYTMBSM-es'
 tags: [ 'devir-', ]

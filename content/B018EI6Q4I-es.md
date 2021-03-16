@@ -5,7 +5,7 @@ date: 2020-03-22 08:15:40
 image: 'https://m.media-amazon.com/images/I/51brvgMuKvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018EI6Q4I-es Imaginext Batman Batcueva transformable Juguete para niño...'
 sku: 'B018EI6Q4I-es'
 tags: [ 'mattel', ]

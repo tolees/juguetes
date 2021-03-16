@@ -5,7 +5,7 @@ date: 2020-03-11 16:32:41
 image: 'https://m.media-amazon.com/images/I/31LSDtVa8xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYRRR5G-es Mordedor bebes Baby Teething Toys Juguetes de dentición...'
 sku: 'B07XYRRR5G-es'
 tags: [ 'juguetes', ]

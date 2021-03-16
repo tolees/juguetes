@@ -5,7 +5,7 @@ date: 2020-01-20 07:25:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPuFFcbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J5NJ6KC-es Educa Borrás- Puzzle 3D Dibujos Animados y cómic Puente de...'
 sku: 'B01J5NJ6KC-es'
 tags: [ 'puzzle', ]

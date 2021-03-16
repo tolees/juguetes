@@ -5,7 +5,7 @@ date: 2020-05-29 09:05:47
 image: 'https://m.media-amazon.com/images/I/51L1gG4-0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015Q2NJNG-es LEGO STAR WARS - Linterna Ledlite con diseño de Yoda Color...'
 sku: 'B015Q2NJNG-es'
 tags: [ 'lego', ]

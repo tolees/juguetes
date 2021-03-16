@@ -5,7 +5,7 @@ date: 2020-05-08 11:45:33
 image: 'https://m.media-amazon.com/images/I/51Y9yUUdWAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0723GJQRP-es Transformers C2028EU50 - Peluche de evolución'
 sku: 'B0723GJQRP-es'
 tags: [ 'peluche', ]

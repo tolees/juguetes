@@ -5,7 +5,7 @@ date: 2020-04-10 16:27:23
 image: 'https://m.media-amazon.com/images/I/51v2AOKZMbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYSRJXX-es Hasbro B90701 Animales de Juguete Juguetes de Peluche...'
 sku: 'B06XYSRJXX-es'
 tags: [ 'hasbro','juguetes','peluche', ]

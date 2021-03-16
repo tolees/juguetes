@@ -5,7 +5,7 @@ date: 2020-04-14 21:47:24
 image: 'https://m.media-amazon.com/images/I/518scvlgD4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVFQM3B-es Bomao - Juego de 7 Piezas Unicornio Cubo mágico 3 Llavero...'
 sku: 'B07GVFQM3B-es'
 tags: [ 'rompecabezas', ]

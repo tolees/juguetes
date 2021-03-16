@@ -5,7 +5,7 @@ date: 2020-08-12 18:57:41
 image: 'https://m.media-amazon.com/images/I/51o7HniFUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S38PNY-es Jaques de Londres Juguemos a la construcción Juguetes de...'
 sku: 'B085S38PNY-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 15:12:00
 image: 'https://m.media-amazon.com/images/I/61OHx8Mn6AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HFR4NSQ-es Disney - Carnaval Puzzle de 1000 Piezas Ravensburger 19383 7'
 sku: 'B00HFR4NSQ-es'
 tags: [ 'puzzle','ravensburger', ]

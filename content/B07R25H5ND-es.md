@@ -5,7 +5,7 @@ date: 2020-08-16 23:54:08
 image: 'https://m.media-amazon.com/images/I/41OYCY4JwLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R25H5ND-es Banpresto - Disney Character Scar Bandai 85652'
 sku: 'B07R25H5ND-es'
 tags: [ 'bandai', ]

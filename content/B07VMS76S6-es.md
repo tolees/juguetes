@@ -5,7 +5,7 @@ date: 2020-09-06 10:56:28
 image: 'https://m.media-amazon.com/images/I/51sVNUHaZIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMS76S6-es IMC Toys Bebés Llorones - Wandy 93201'
 sku: 'B07VMS76S6-es'
 tags: [ 'bebés','llorones', ]

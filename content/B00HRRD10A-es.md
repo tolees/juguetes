@@ -5,7 +5,7 @@ date: 2020-03-31 05:29:00
 image: 'https://m.media-amazon.com/images/I/51XdgD702gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRD10A-es Sylvanian Families 5037 Deluxe Living Room - Set Mini para...'
 sku: 'B00HRRD10A-es'
 tags: [ 'families','sylvanian', ]

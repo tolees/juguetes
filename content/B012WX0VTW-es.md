@@ -5,7 +5,7 @@ date: 2020-07-08 19:01:27
 image: 'https://m.media-amazon.com/images/I/51oYfftFzhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012WX0VTW-es LOMOS caja para juguetes con diferentes motivos colorido y...'
 sku: 'B012WX0VTW-es'
 tags: [ 'juguetes', ]

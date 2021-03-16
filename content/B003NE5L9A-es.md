@@ -5,7 +5,7 @@ date: 2020-07-03 21:35:18
 image: 'https://m.media-amazon.com/images/I/31me1L7SpdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NE5L9A-es Ladrillo de almacenamiento Lego 8 espàrragos'
 sku: 'B003NE5L9A-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-07-22 07:10:37
 image: 'https://m.media-amazon.com/images/I/41ivxWJCNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GYFKVW-es Feisty Pets Peluche Oso Polar única Goliath Games 32326'
 sku: 'B078GYFKVW-es'
 tags: [ 'peluche', ]

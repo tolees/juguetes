@@ -5,7 +5,7 @@ date: 2020-09-13 08:44:03
 image: 'https://m.media-amazon.com/images/I/516389h9GJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076FNDNMF-es Lepfun 1 x Rodilleras Compresión Rodilleras Deportivas...'
 sku: 'B076FNDNMF-es'
 tags: [ 'bicicleta', ]

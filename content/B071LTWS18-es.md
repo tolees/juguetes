@@ -5,7 +5,7 @@ date: 2020-07-09 21:09:48
 image: 'https://m.media-amazon.com/images/I/51GksKCMPdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LTWS18-es Bob the bulider Scoop Excavadora parlanchina Simba Toys FHF87'
 sku: 'B071LTWS18-es'
 tags: [ 'simba','toys', ]

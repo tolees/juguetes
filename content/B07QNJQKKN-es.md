@@ -5,7 +5,7 @@ date: 2020-04-11 08:58:05
 image: 'https://m.media-amazon.com/images/I/3135UQvp6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNJQKKN-es Mejores Regalos para Niños de 5 a 15 Años de Edad Top Toy...'
 sku: 'B07QNJQKKN-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 09:21:10
 image: 'https://m.media-amazon.com/images/I/61P6kVhIoEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HFVCKUA-es Lego Movie The Videogame'
 sku: 'B00HFVCKUA-es'
 tags: [ 'lego', ]

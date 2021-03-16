@@ -5,7 +5,7 @@ date: 2020-04-10 18:23:25
 image: 'https://m.media-amazon.com/images/I/51jxzTgQK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GB8TXL-es Puzzle 60 CARS 3 Wyscig'
 sku: 'B071GB8TXL-es'
 tags: [ 'puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-03-20 10:46:12
 image: 'https://m.media-amazon.com/images/I/51La2+ciVpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LN84OPA-es Ravensburger Disney Frozen Mini Memory Juego de emparejar...'
 sku: 'B00LN84OPA-es'
 tags: [ 'ravensburger', ]

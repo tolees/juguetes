@@ -5,7 +5,7 @@ date: 2020-04-29 09:29:56
 image: 'https://m.media-amazon.com/images/I/311pK+IcMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF1LRXQ-es Barbie Muñeca BMR 1959 look cazadora denim regalo para...'
 sku: 'B07QF1LRXQ-es'
 tags: [ 'barbie','mattel', ]

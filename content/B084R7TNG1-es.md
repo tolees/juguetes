@@ -5,7 +5,7 @@ date: 2020-04-16 00:21:44
 image: 'https://m.media-amazon.com/images/I/414ltcHbhTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084R7TNG1-es Famosa Pin y Pon New Look Pelo Bicolor 700015560'
 sku: 'B084R7TNG1-es'
 tags: [ 'famosa','pin','pon','y', ]

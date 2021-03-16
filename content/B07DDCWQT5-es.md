@@ -5,7 +5,7 @@ date: 2020-09-13 16:22:56
 image: 'https://m.media-amazon.com/images/I/41PVKsr4TgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDCWQT5-es Beados - Centro de Diseño Famosa 700014683'
 sku: 'B07DDCWQT5-es'
 tags: [ 'famosa', ]

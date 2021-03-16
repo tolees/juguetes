@@ -5,7 +5,7 @@ date: 2020-05-31 08:07:29
 image: 'https://m.media-amazon.com/images/I/41piDmE70pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UACS55K-es Massi 700X18-20-23-25 Superlight V.Bici Cámara de...'
 sku: 'B00UACS55K-es'
 tags: [ 'bicicleta', ]

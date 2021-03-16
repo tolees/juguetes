@@ -5,7 +5,7 @@ date: 2020-08-24 16:51:41
 image: 'https://m.media-amazon.com/images/I/51EAVgmHPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076WVBJS9-es Nilox E Bike 36 V 16 P-X2 Bicicleta Eléctrica Unisex...'
 sku: 'B076WVBJS9-es'
 tags: [ 'bicicleta', ]

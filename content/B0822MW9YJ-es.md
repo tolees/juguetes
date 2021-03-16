@@ -5,7 +5,7 @@ date: 2020-09-27 17:45:02
 image: 'https://m.media-amazon.com/images/I/41uS87zLoCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822MW9YJ-es AFASOES 2 Pcs Valvula Tubeless MTB 40mm Valvula Bicicleta...'
 sku: 'B0822MW9YJ-es'
 tags: [ 'bicicleta', ]

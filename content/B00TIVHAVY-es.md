@@ -5,7 +5,7 @@ date: 2020-08-03 08:01:32
 image: 'https://m.media-amazon.com/images/I/61V6IuZM1IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TIVHAVY-es Devir - Alquimistas Juego de Mesa 222531'
 sku: 'B00TIVHAVY-es'
 tags: [ 'devir', ]

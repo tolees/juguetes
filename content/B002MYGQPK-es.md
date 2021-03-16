@@ -5,7 +5,7 @@ date: 2020-03-18 12:43:47
 image: 'https://m.media-amazon.com/images/I/51jHIKWig9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002MYGQPK-es Mona Lisa Puzzle'
 sku: 'B002MYGQPK-es'
 tags: [ 'puzzle', ]

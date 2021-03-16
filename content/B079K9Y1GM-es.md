@@ -5,7 +5,7 @@ date: 2020-08-12 15:17:42
 image: 'https://m.media-amazon.com/images/I/315PTlc3SaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079K9Y1GM-es Barbie Fashionista Muñeca cuerpo Curvy look Future is...'
 sku: 'B079K9Y1GM-es'
 tags: [ 'barbie','mattel', ]

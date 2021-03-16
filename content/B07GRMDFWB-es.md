@@ -5,7 +5,7 @@ date: 2020-01-01 20:48:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51rnSJWVuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRMDFWB-es Puzzle Super Mario Odyssey Fossil Falls 500 Teile'
 sku: 'B07GRMDFWB-es'
 tags: [ 'puzzle', ]

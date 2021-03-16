@@ -5,7 +5,7 @@ date: 2020-04-07 05:14:23
 image: 'https://m.media-amazon.com/images/I/512azqT2ouL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRAO9G-es SYLVANIAN FAMILIES Familia Perros Chihuahua Epoch para...'
 sku: 'B00HRRAO9G-es'
 tags: [ 'families','sylvanian', ]

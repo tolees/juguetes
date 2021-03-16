@@ -5,7 +5,7 @@ date: 2020-06-06 16:00:05
 image: 'https://m.media-amazon.com/images/I/519joVqm1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KN3HXW-es Polly Pocket Cofre refugio de nieve muñeca con accesorios...'
 sku: 'B079KN3HXW-es'
 tags: [ 'mattel','pocket','polly', ]

@@ -5,7 +5,7 @@ date: 2020-04-24 16:15:52
 image: 'https://m.media-amazon.com/images/I/515C2IIakkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5JGZTT-es Moma Bikes Bicicleta Infantil Montaña GTT24" Alu SHIMANO...'
 sku: 'B01M5JGZTT-es'
 tags: [ 'bicicleta', ]

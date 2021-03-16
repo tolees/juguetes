@@ -5,7 +5,7 @@ date: 2020-06-17 18:16:01
 image: 'https://m.media-amazon.com/images/I/5122V3itsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WJ1XN1-es Divgdovg Bicicleta estática Bicicleta de Ciclismo para...'
 sku: 'B088WJ1XN1-es'
 tags: [ 'bicicleta', ]

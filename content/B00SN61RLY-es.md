@@ -5,7 +5,7 @@ date: 2020-01-19 18:38:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VimfnWR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SN61RLY-es Barbie - Princess Power y la Varita mágica de Color...'
 sku: 'B00SN61RLY-es'
 tags: [ 'barbie', ]

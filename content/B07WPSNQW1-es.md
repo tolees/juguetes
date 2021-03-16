@@ -5,7 +5,7 @@ date: 2020-08-30 15:24:59
 image: 'https://m.media-amazon.com/images/I/51wzrlPoWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WPSNQW1-es Playgro Set de Regalo para jugar de Jerry la Jirafa...'
 sku: 'B07WPSNQW1-es'
 tags: [ 'juguetes', ]

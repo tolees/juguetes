@@ -5,7 +5,7 @@ date: 2020-03-10 20:02:34
 image: 'https://m.media-amazon.com/images/I/51EagkTgLRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYSFQYV-es Star Wars Mascara electrónica Kylo REN Multicolor Hasbro...'
 sku: 'B06XYSFQYV-es'
 tags: [ 'hasbro', ]

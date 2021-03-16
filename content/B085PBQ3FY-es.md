@@ -5,7 +5,7 @@ date: 2020-09-09 07:43:38
 image: 'https://m.media-amazon.com/images/I/51YiwIhASuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085PBQ3FY-es Lego Marvel Collection'
 sku: 'B085PBQ3FY-es'
 tags: [ 'lego', ]

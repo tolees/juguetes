@@ -5,7 +5,7 @@ date: 2020-05-21 14:40:27
 image: 'https://m.media-amazon.com/images/I/41-hO3KxtXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWKG7CL-es Juguetes Colgantes Carrito Bebe Cuna Cochecitos de...'
 sku: 'B07PWKG7CL-es'
 tags: [ 'juguetes','peluche', ]

@@ -5,7 +5,7 @@ date: 2020-03-22 21:20:40
 image: 'https://m.media-amazon.com/images/I/41YpkYvWNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD714NT-es Cleo & Cuquin - Muñeco Cuquín Vamos A La Cama Mattel GNB43'
 sku: 'B07DD714NT-es'
 tags: [ 'mattel', ]

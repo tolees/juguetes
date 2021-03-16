@@ -5,7 +5,7 @@ date: 2020-07-08 21:18:16
 image: 'https://m.media-amazon.com/images/I/51gq08aYD1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQ5HSGR-es Tomight Mini Bomba para Bicicleta con Manómetro 260PSI...'
 sku: 'B07ZQ5HSGR-es'
 tags: [ 'bicicleta', ]

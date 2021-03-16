@@ -5,7 +5,7 @@ date: 2020-08-25 19:08:00
 image: 'https://m.media-amazon.com/images/I/41YxXdB5IrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRS7DXK-es Juguetes de baño para bebés Ducha de Elefante Ducha de...'
 sku: 'B08CRS7DXK-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:31:40
 image: 'https://m.media-amazon.com/images/I/51bE6Fb1FXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9SW46X-es SYLVANIAN FAMILIES- Ballerina Friends Mini Muñecas Y...'
 sku: 'B06X9SW46X-es'
 tags: [ 'families','sylvanian', ]

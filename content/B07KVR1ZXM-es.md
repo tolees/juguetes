@@ -5,7 +5,7 @@ date: 2020-01-01 18:03:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GApuc-pwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KVR1ZXM-es Harry Potter - Muñeco Harry Quidditch Juguetes Niños +6...'
 sku: 'B07KVR1ZXM-es'
 tags: [ 'juguetes','mattel', ]

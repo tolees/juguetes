@@ -5,7 +5,7 @@ date: 2020-07-07 12:30:48
 image: 'https://m.media-amazon.com/images/I/41sSyVozaeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC3JGKX-es Polly Pocket Autocaravana transformable con accesorios...'
 sku: 'B07XC3JGKX-es'
 tags: [ 'mattel','pocket','polly', ]

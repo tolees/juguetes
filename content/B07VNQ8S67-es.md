@@ -5,7 +5,7 @@ date: 2020-06-19 14:57:43
 image: 'https://m.media-amazon.com/images/I/517CE08ksNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNQ8S67-es SGODDE Mini Bomba para Bicicleta 300 PSI Alta Presión Se...'
 sku: 'B07VNQ8S67-es'
 tags: [ 'bicicleta', ]

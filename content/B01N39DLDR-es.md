@@ -5,7 +5,7 @@ date: 2020-04-15 00:17:46
 image: 'https://m.media-amazon.com/images/I/41JkHtDWlTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N39DLDR-es Pinypon Huevos Sorpresa Famosa 700012850'
 sku: 'B01N39DLDR-es'
 tags: [ 'famosa','pinypon', ]

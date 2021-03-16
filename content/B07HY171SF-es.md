@@ -5,7 +5,7 @@ date: 2020-09-06 12:09:17
 image: 'https://m.media-amazon.com/images/I/51-bR0fWsVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
 sku: 'B07HY171SF-es'
 tags: [ 'fisher-price','juguetes','mattel', ]

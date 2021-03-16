@@ -5,7 +5,7 @@ date: 2020-05-26 10:06:22
 image: 'https://m.media-amazon.com/images/I/514U3txBWnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q385JSZ-es Ravensburger - Multipack Memory+ 3 puzzle Gormiti 20519'
 sku: 'B07Q385JSZ-es'
 tags: [ 'puzzle','ravensburger', ]

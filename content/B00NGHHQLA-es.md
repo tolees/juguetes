@@ -5,7 +5,7 @@ date: 2020-06-09 10:47:38
 image: 'https://m.media-amazon.com/images/I/41OuMaNuhfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGHHQLA-es GEMVIE Flotador de Bebidas para Bebé Fiesta Piscina Playa...'
 sku: 'B00NGHHQLA-es'
 tags: [ 'flotador', ]

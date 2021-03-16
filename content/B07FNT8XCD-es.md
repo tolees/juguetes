@@ -5,7 +5,7 @@ date: 2020-04-16 18:12:55
 image: 'https://m.media-amazon.com/images/I/510V2fWbCnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNT8XCD-es LEGO Friends - Espectáculo de Talentos de Andrea set...'
 sku: 'B07FNT8XCD-es'
 tags: [ 'lego', ]

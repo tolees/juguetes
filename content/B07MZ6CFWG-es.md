@@ -5,7 +5,7 @@ date: 2020-07-09 21:21:20
 image: 'https://m.media-amazon.com/images/I/51GWNBcAfNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ6CFWG-es Tablets de Escritura LCD a Color Tablero de Dibujo eWriter...'
 sku: 'B07MZ6CFWG-es'
 tags: [ 'juguetes', ]

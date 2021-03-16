@@ -5,7 +5,7 @@ date: 2020-04-14 16:33:50
 image: 'https://m.media-amazon.com/images/I/51M+FkKCaVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0119PWAP2-es Posavasos de Puzzle 6 piezas 3 marrón 3 beige lavable OSS...'
 sku: 'B0119PWAP2-es'
 tags: [ 'puzzle', ]

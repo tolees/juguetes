@@ -5,7 +5,7 @@ date: 2020-08-04 07:55:13
 image: 'https://m.media-amazon.com/images/I/51lLVYAYurL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWD34S-es LEGO Creator - Transporte de la Lanzadera Juguete de...'
 sku: 'B07FNWD34S-es'
 tags: [ 'lego', ]

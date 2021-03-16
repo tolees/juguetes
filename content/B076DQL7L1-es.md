@@ -5,7 +5,7 @@ date: 2020-09-18 01:28:22
 image: 'https://m.media-amazon.com/images/I/41IrkKXedAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DQL7L1-es Pikmi Pops- Mini Surprise Duo Peluche perfumado Multicolor...'
 sku: 'B076DQL7L1-es'
 tags: [ 'peluche', ]

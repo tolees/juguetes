@@ -5,7 +5,7 @@ date: 2020-03-24 22:28:36
 image: 'https://m.media-amazon.com/images/I/51VOctyL6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GQBMMV-es LEGO DUPLO - Gran Zona de Juegos 10864'
 sku: 'B075GQBMMV-es'
 tags: [ 'lego', ]

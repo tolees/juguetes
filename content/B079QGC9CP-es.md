@@ -5,7 +5,7 @@ date: 2020-01-09 15:31:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41N4s4lsOzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QGC9CP-es Mattel- Barbie y Sus Accesorios FVJ42'
 sku: 'B079QGC9CP-es'
 tags: [ 'barbie','mattel-', ]

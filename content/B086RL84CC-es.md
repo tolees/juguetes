@@ -5,7 +5,7 @@ date: 2020-08-27 16:12:27
 image: 'https://m.media-amazon.com/images/I/51RCQV5c7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RL84CC-es CubicFun Puzzle 3D Harry Potter Torre de la Astronomía de...'
 sku: 'B086RL84CC-es'
 tags: [ 'puzzle', ]

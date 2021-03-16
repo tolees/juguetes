@@ -5,7 +5,7 @@ date: 2019-12-31 22:55:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31p78DpCLdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J321VHV-es LRG Nueva tija de sillín de Fibra de Carbono y Bicicleta...'
 sku: 'B07J321VHV-es'
 tags: [ 'bicicleta', ]

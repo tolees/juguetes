@@ -5,7 +5,7 @@ date: 2020-04-07 05:16:19
 image: 'https://m.media-amazon.com/images/I/51pmXazaZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRE050-es SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y...'
 sku: 'B00HRRE050-es'
 tags: [ 'families','sylvanian', ]

@@ -5,7 +5,7 @@ date: 2020-04-26 13:24:35
 image: 'https://m.media-amazon.com/images/I/51FxWBHIhoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNK82S5-es Color Smash - Juego de Cartas Goliath 70474'
 sku: 'B07BNK82S5-es'
 tags: [ 'cartas','de','juego', ]

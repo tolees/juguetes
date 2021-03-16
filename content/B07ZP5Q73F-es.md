@@ -5,7 +5,7 @@ date: 2020-02-03 09:58:26
 image: 'https://m.media-amazon.com/images/I/51xMGAeSdmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP5Q73F-es Rolimate Juego de Pesca Magnética de Madera Juego de...'
 sku: 'B07ZP5Q73F-es'
 tags: [ 'juguetes', ]

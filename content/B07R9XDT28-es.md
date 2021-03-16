@@ -5,7 +5,7 @@ date: 2020-06-01 04:26:42
 image: 'https://m.media-amazon.com/images/I/51MBd1k03GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9XDT28-es Eono by Amazon - Bolsas Compra Reutilizables Ecológicas...'
 sku: 'B07R9XDT28-es'
 tags: [ 'juguetes', ]

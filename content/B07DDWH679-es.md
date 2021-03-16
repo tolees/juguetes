@@ -5,7 +5,7 @@ date: 2020-01-29 18:24:18
 image: 'https://m.media-amazon.com/images/I/51kY6Rd9YGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDWH679-es Pokemon Pack de 3 Figuras de Combate Modelos Surtidos...'
 sku: 'B07DDWH679-es'
 tags: [ 'bizak', ]

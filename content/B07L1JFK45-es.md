@@ -5,7 +5,7 @@ date: 2020-07-18 19:20:28
 image: 'https://m.media-amazon.com/images/I/41HtMJAcF5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1JFK45-es Daxin Juguete de Robot de Control Remoto Interactivo...'
 sku: 'B07L1JFK45-es'
 tags: [ 'juguetes', ]

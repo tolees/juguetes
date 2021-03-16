@@ -5,7 +5,7 @@ date: 2020-07-21 14:57:58
 image: 'https://m.media-amazon.com/images/I/51ebNmWzqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WMD76J-es BelleStyle Juguetes de Reloj Madera Juguete de Reloj de...'
 sku: 'B087WMD76J-es'
 tags: [ 'juguetes','rompecabezas', ]

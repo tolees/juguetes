@@ -5,7 +5,7 @@ date: 2020-04-08 20:38:00
 image: 'https://m.media-amazon.com/images/I/41OGQR8wk6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJ5F94G-es JUSTICE LEAGUE- Batman Casco 2 En 1 14 6 x 25 4 x 14 6 cm...'
 sku: 'B06XJ5F94G-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-06-20 18:53:41
 image: 'https://m.media-amazon.com/images/I/41J9-8cWrgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082N7MYWX-es Mattel Games UNO: Rick and Morty - Juego de cartas...'
 sku: 'B082N7MYWX-es'
 tags: [ 'cartas','de','juego','mattel', ]

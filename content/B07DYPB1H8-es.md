@@ -5,7 +5,7 @@ date: 2020-02-29 21:15:37
 image: 'https://m.media-amazon.com/images/I/51dkfkobgnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYPB1H8-es Pedales Bicicleta Pedals Impermeable 9/16 Pulgadas con...'
 sku: 'B07DYPB1H8-es'
 tags: [ 'bicicleta', ]

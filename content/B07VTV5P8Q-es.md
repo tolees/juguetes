@@ -5,7 +5,7 @@ date: 2020-02-02 11:33:19
 image: 'https://m.media-amazon.com/images/I/51TWLW9tzIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTV5P8Q-es Nobleza – Pack de 5 Juguetes para Perro. Set Fabricado en...'
 sku: 'B07VTV5P8Q-es'
 tags: [ 'juguetes', ]

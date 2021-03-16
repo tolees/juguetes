@@ -5,7 +5,7 @@ date: 2020-03-19 18:13:19
 image: 'https://m.media-amazon.com/images/I/51cthmKVe2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZRZDZ7-es Clementoni 39802 – Puzzle tríptico DM'
 sku: 'B06ZZRZDZ7-es'
 tags: [ 'clementoni','puzzle', ]

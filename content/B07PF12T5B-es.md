@@ -5,7 +5,7 @@ date: 2020-01-04 17:03:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51u3ymjPtnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PF12T5B-es TOIMSA 16225 Vulcano - Bicicleta de 16 Pulgadas'
 sku: 'B07PF12T5B-es'
 tags: [ 'bicicleta', ]

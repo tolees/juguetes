@@ -5,7 +5,7 @@ date: 2020-01-15 19:12:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517-pYbikYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5V64SF-es YOUTHINK Juguete para Loros 7 Piezas de Juguetes para...'
 sku: 'B07V5V64SF-es'
 tags: [ 'juguetes', ]

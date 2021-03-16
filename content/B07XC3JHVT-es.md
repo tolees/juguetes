@@ -5,7 +5,7 @@ date: 2020-10-08 18:03:19
 image: 'https://m.media-amazon.com/images/I/51h3LDaMwaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC3JHVT-es Polly Pocket Cofre Jardín de Mariquitas con muñecas y...'
 sku: 'B07XC3JHVT-es'
 tags: [ 'mattel','pocket','polly', ]

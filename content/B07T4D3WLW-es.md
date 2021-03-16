@@ -5,7 +5,7 @@ date: 2020-09-07 11:03:26
 image: 'https://m.media-amazon.com/images/I/61sZ92CcadL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4D3WLW-es Ravensburger - Puzzle Paw Patrol pack de 4 03028'
 sku: 'B07T4D3WLW-es'
 tags: [ 'puzzle','ravensburger', ]

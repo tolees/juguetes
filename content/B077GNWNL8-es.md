@@ -5,7 +5,7 @@ date: 2020-06-01 12:07:30
 image: 'https://m.media-amazon.com/images/I/41pHjtsmcBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GNWNL8-es MATONE Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B077GNWNL8-es'
 tags: [ 'bicicleta', ]

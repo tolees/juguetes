@@ -5,7 +5,7 @@ date: 2020-03-28 11:02:28
 image: 'https://m.media-amazon.com/images/I/51kTyvKjsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Z2V3CH-es Shimmer And Shine - Peluche Alfombra mágica Shine de 30 cm...'
 sku: 'B071Z2V3CH-es'
 tags: [ 'peluche', ]

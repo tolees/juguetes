@@ -5,7 +5,7 @@ date: 2020-05-08 19:52:39
 image: 'https://m.media-amazon.com/images/I/51qFZB5Uc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0795KX6CZ-es HCMAX Coche Asiento Trasero El Maletero Organizador Bolsa...'
 sku: 'B0795KX6CZ-es'
 tags: [ 'juguetes', ]

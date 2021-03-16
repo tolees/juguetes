@@ -5,7 +5,7 @@ date: 2020-02-13 10:04:08
 image: 'https://m.media-amazon.com/images/I/41MS2QK1XqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728L2ZKZ-es Oonies Estudio de globos Famosa 700013962'
 sku: 'B0728L2ZKZ-es'
 tags: [ 'famosa', ]

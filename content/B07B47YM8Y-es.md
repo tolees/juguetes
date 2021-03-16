@@ -5,7 +5,7 @@ date: 2020-04-19 07:35:44
 image: 'https://m.media-amazon.com/images/I/516TBQzYawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B47YM8Y-es Ravensburger- Puzzle 3D 324 pièces Notre-Dame de Paris...'
 sku: 'B07B47YM8Y-es'
 tags: [ 'puzzle', ]

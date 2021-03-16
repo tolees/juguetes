@@ -5,7 +5,7 @@ date: 2020-02-06 12:43:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJFPMrBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MKLH93-es PJ Masks-24688 Pack de 5 Figuras - Súper Poder Bandai 95280'
 sku: 'B079MKLH93-es'
 tags: [ 'bandai', ]

@@ -5,7 +5,7 @@ date: 2020-03-02 20:45:49
 image: 'https://m.media-amazon.com/images/I/519F1L1MICL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0GAGG4-es Warner Bros Interactive Spain Lego Dimensions: Nuevo...'
 sku: 'B01H0GAGG4-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-07-14 15:35:45
 image: 'https://m.media-amazon.com/images/I/41NqAxY-GEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGCP723-es Lixada Antideslizante Bicicleta Soporte de Teléfono...'
 sku: 'B07SGCP723-es'
 tags: [ 'bicicleta', ]

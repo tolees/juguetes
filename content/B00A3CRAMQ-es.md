@@ -5,7 +5,7 @@ date: 2020-09-07 15:18:59
 image: 'https://m.media-amazon.com/images/I/51axqEIhWWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3CRAMQ-es Brazalete Deportivo para Correr y Andar en Bicicleta...'
 sku: 'B00A3CRAMQ-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 15:05:28
 image: 'https://m.media-amazon.com/images/I/51FegmFgdcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTW7QMX-es LEGO Ninjago - Spinjitzu Slam: Zane Set de construcción de...'
 sku: 'B07KTW7QMX-es'
 tags: [ 'lego', ]

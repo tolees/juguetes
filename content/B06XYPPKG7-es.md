@@ -5,7 +5,7 @@ date: 2020-04-23 15:09:28
 image: 'https://m.media-amazon.com/images/I/51tXpIsD6kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYPPKG7-es Asmodee Dobble Waterproof - Juego de cartas resistente al...'
 sku: 'B06XYPPKG7-es'
 tags: [ 'cartas','de','juego', ]

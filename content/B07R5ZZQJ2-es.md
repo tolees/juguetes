@@ -5,7 +5,7 @@ date: 2020-07-15 08:15:05
 image: 'https://m.media-amazon.com/images/I/51REEex9mfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5ZZQJ2-es Splash Play Mat Uiter Tapete de Aprendizaje para Salpicar...'
 sku: 'B07R5ZZQJ2-es'
 tags: [ 'juguetes', ]

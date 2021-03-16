@@ -5,7 +5,7 @@ date: 2020-02-29 10:55:04
 image: 'https://m.media-amazon.com/images/I/41lEMvuukEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SF8RMBX-es Petit Jour Paris - Cubertería Peppa Pig - Soporta la...'
 sku: 'B07SF8RMBX-es'
 tags: [ 'peppa','pig', ]

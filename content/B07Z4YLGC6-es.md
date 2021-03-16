@@ -5,7 +5,7 @@ date: 2020-03-12 10:15:47
 image: 'https://m.media-amazon.com/images/I/41Dq+r+bngL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4YLGC6-es SKYSPER Pantalones Largos de Ciclismo para Hombre...'
 sku: 'B07Z4YLGC6-es'
 tags: [ 'bicicleta', ]

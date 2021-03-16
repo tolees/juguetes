@@ -5,7 +5,7 @@ date: 2020-04-26 16:36:53
 image: 'https://m.media-amazon.com/images/I/415jPlMZ2qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUCIO3N-es Aurora- Foca de Peluche colección Mini Flopsie Color Gris...'
 sku: 'B01MUCIO3N-es'
 tags: [ 'peluche', ]

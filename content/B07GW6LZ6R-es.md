@@ -5,7 +5,7 @@ date: 2020-07-03 13:37:37
 image: 'https://m.media-amazon.com/images/I/41g3hOB-fHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GW6LZ6R-es Soporte de luz para cámara Web Live Stream Anillo Selfie...'
 sku: 'B07GW6LZ6R-es'
 tags: [ 'brio', ]

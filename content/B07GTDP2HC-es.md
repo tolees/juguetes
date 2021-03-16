@@ -5,7 +5,7 @@ date: 2020-01-16 12:47:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51i48t4V0vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTDP2HC-es Doctora Juguetes - Maletin Medico Conjunto Enfermera...'
 sku: 'B07GTDP2HC-es'
 tags: [ 'juguetes', ]

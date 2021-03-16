@@ -5,7 +5,7 @@ date: 2020-04-16 09:19:37
 image: 'https://m.media-amazon.com/images/I/419xRMrlBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S80SUL0-es Sylvanian Families-5207 Animales Fiesta de cumpleaños del...'
 sku: 'B00S80SUL0-es'
 tags: [ 'families','sylvanian', ]

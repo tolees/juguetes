@@ -5,7 +5,7 @@ date: 2020-07-04 09:46:30
 image: 'https://m.media-amazon.com/images/I/51lazgOWB3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WWTJ6J-es Panamami Nuevos Juguetes Inteligentes para Juegos Los...'
 sku: 'B084WWTJ6J-es'
 tags: [ 'juguetes', ]

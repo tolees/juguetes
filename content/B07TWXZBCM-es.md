@@ -5,7 +5,7 @@ date: 2020-04-23 18:45:55
 image: 'https://m.media-amazon.com/images/I/51fdVKuf1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXZBCM-es Mobi Lock Adaptador Válvula Presta a Schrader con Junto...'
 sku: 'B07TWXZBCM-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 09:45:32
 image: 'https://m.media-amazon.com/images/I/5173K6BZGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IJA4BNE-es cesto juguetes infantil KAKOO cesto juguetes almacenaje de...'
 sku: 'B01IJA4BNE-es'
 tags: [ 'juguetes', ]

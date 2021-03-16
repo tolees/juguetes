@@ -5,7 +5,7 @@ date: 2020-04-18 17:02:46
 image: 'https://m.media-amazon.com/images/I/61WxoJoAIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DQJE3MS-es Lego Marvel Super Heroes [Importación Francesa]'
 sku: 'B00DQJE3MS-es'
 tags: [ 'lego', ]

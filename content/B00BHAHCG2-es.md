@@ -5,7 +5,7 @@ date: 2020-08-16 21:37:18
 image: 'https://m.media-amazon.com/images/I/51YWlaodYLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BHAHCG2-es Educa Borras Puzzle Aprendo El Abecedario Peppa Pig 15652...'
 sku: 'B00BHAHCG2-es'
 tags: [ 'peppa','pig','puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-07-06 17:42:49
 image: 'https://m.media-amazon.com/images/I/51MfRXQW3+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083PJNY1Z-es Star Wars-40 Aniversario Figura Yoda Hasbro E8077'
 sku: 'B083PJNY1Z-es'
 tags: [ 'hasbro', ]

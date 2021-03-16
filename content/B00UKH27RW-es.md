@@ -5,7 +5,7 @@ date: 2020-07-26 11:21:17
 image: 'https://m.media-amazon.com/images/I/51DBx8ty5zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UKH27RW-es Clementoni - Puzzle 3 x 48 Avengers 252039'
 sku: 'B00UKH27RW-es'
 tags: [ 'clementoni','puzzle', ]

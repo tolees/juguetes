@@ -5,7 +5,7 @@ date: 2020-02-10 18:52:06
 image: 'https://m.media-amazon.com/images/I/41+TKV1MhgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GG1AXKI-es TROLLS Poppy Momento Abrazo Multicolor. Hasbro B6568105'
 sku: 'B01GG1AXKI-es'
 tags: [ 'hasbro', ]

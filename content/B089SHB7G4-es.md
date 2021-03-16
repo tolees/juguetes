@@ -5,7 +5,7 @@ date: 2020-08-23 09:12:04
 image: 'https://m.media-amazon.com/images/I/51fbWBVbcUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SHB7G4-es Maquillaje Niñas Juguetes Niños con Contraseña Correa...'
 sku: 'B089SHB7G4-es'
 tags: [ 'juguetes', ]

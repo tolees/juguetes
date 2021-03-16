@@ -5,7 +5,7 @@ date: 2020-08-18 06:31:04
 image: 'https://m.media-amazon.com/images/I/51gnMlAj8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2VM3QG-es SkullCap® Casco Bicicleta para Hombre o Mujer Casco para...'
 sku: 'B07C2VM3QG-es'
 tags: [ 'bicicleta', ]

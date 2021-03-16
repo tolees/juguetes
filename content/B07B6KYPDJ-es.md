@@ -5,7 +5,7 @@ date: 2020-09-21 10:10:47
 image: 'https://m.media-amazon.com/images/I/51Uk7JiKDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6KYPDJ-es Play-Doh- La Tostadora Hasbro E0039EU4'
 sku: 'B07B6KYPDJ-es'
 tags: [ 'hasbro', ]

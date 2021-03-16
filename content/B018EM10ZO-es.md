@@ -5,7 +5,7 @@ date: 2020-08-14 19:18:26
 image: 'https://m.media-amazon.com/images/I/41NdLen5P9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018EM10ZO-es TKM 10720 Cámara Bicicleta Antipinchazos 26X1.75 Adultos...'
 sku: 'B018EM10ZO-es'
 tags: [ 'bicicleta', ]

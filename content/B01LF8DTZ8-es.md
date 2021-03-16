@@ -5,7 +5,7 @@ date: 2020-08-31 20:32:44
 image: 'https://m.media-amazon.com/images/I/31ND6xL3D3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LF8DTZ8-es SMARTGYRO X1s Hoverboard eléctrico Unisex Adulto Negro...'
 sku: 'B01LF8DTZ8-es'
 tags: [ 'smartgyro', ]

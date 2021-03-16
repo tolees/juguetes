@@ -5,7 +5,7 @@ date: 2020-02-23 05:20:29
 image: 'https://m.media-amazon.com/images/I/51lSMpCw3ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009YDYEZ6-es HUTCHINSON CV657171 Cámara de Bicicleta Unisex Adulto...'
 sku: 'B009YDYEZ6-es'
 tags: [ 'bicicleta', ]

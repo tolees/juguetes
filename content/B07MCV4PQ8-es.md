@@ -5,7 +5,7 @@ date: 2020-04-05 18:06:13
 image: 'https://m.media-amazon.com/images/I/41i+M9iw3yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCV4PQ8-es VTech- BlaBla Block Juego de construcción electrónico...'
 sku: 'B07MCV4PQ8-es'
 tags: [ 'vtech-', ]

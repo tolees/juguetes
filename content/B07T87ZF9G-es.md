@@ -5,7 +5,7 @@ date: 2020-07-30 11:09:10
 image: 'https://m.media-amazon.com/images/I/41QMD0ebOIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T87ZF9G-es Supersoaker-Fortnite Pump Sg Hasbro E76475L0'
 sku: 'B07T87ZF9G-es'
 tags: [ 'hasbro', ]

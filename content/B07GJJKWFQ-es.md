@@ -5,7 +5,7 @@ date: 2020-10-08 08:52:33
 image: 'https://m.media-amazon.com/images/I/51p6-k7JhTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJJKWFQ-es Nerf- Microshots Firestrike SE1 Multicolor Hasbro E0721ES0...'
 sku: 'B07GJJKWFQ-es'
 tags: [ 'hasbro', ]

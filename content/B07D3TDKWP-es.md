@@ -5,7 +5,7 @@ date: 2020-07-05 18:32:36
 image: 'https://m.media-amazon.com/images/I/41iTRE2tG3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3TDKWP-es Bonitas Animales Forma Cord Durable Mascotas Perro Gato...'
 sku: 'B07D3TDKWP-es'
 tags: [ 'peluche', ]

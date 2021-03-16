@@ -5,7 +5,7 @@ date: 2020-09-11 08:52:34
 image: 'https://m.media-amazon.com/images/I/51t38JuAsqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DQH3DY-es Addmos Juguetes de baño 2 x Juguetes de baño para bebés...'
 sku: 'B083DQH3DY-es'
 tags: [ 'juguetes', ]

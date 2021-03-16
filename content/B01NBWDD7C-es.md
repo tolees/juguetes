@@ -5,7 +5,7 @@ date: 2020-08-27 10:52:33
 image: 'https://m.media-amazon.com/images/I/513VcsXs7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBWDD7C-es Clementoni - Puzzle 13.200 piezas orquesta disney 38010...'
 sku: 'B01NBWDD7C-es'
 tags: [ 'clementoni','puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-09-30 18:33:35
 image: 'https://m.media-amazon.com/images/I/51qF5VnOllL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z64DM8B-es IMMEK Puzzles de Madera Juguetes para Bebes 1 Año 2 3 4 5...'
 sku: 'B07Z64DM8B-es'
 tags: [ 'juguetes','rompecabezas', ]

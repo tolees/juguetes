@@ -5,7 +5,7 @@ date: 2020-03-12 20:50:38
 image: 'https://m.media-amazon.com/images/I/51pn3qY4hsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH4Z4K6-es Wrebbit 3D- Castillo Puzzle 3D Juego de Tronos Invernalia...'
 sku: 'B07NH4Z4K6-es'
 tags: [ 'puzzle', ]

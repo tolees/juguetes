@@ -5,7 +5,7 @@ date: 2020-07-23 07:51:34
 image: 'https://m.media-amazon.com/images/I/41A7PyH-p2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AOLRAVC-es Michelin Dynamic Sport 700X23 - Cubierta de bicicleta...'
 sku: 'B00AOLRAVC-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-02-20 10:51:00
 image: 'https://m.media-amazon.com/images/I/41Dkb9QjIUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD7X47W-es Despicable Me 9079 "DM3 Cárcel Minions Tom de Peluche...'
 sku: 'B06WD7X47W-es'
 tags: [ 'peluche', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 09:14:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411v7Gf-IYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NP5L96M-es Nobleza - Árbol rascador para Gatos de Dos Plataformas con...'
 sku: 'B07NP5L96M-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-09-24 08:32:31
 image: 'https://m.media-amazon.com/images/I/51Nn4JLEkEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PX9XNC-es Clementoni-39445 Orchestra Puzzle 1000 Piezas Panorama...'
 sku: 'B079PX9XNC-es'
 tags: [ 'puzzle', ]

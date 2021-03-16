@@ -5,7 +5,7 @@ date: 2020-05-21 10:48:38
 image: 'https://m.media-amazon.com/images/I/51+FpzAkpXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ITC3F5S-es Clementoni - Puzzle 1500 Piezas Paris Montmartre 31999'
 sku: 'B00ITC3F5S-es'
 tags: [ 'clementoni','puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-05-25 16:48:56
 image: 'https://m.media-amazon.com/images/I/417sMv2lf2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGL8G1C-es Lalaloom BUBBLE BIKE - Bicicleta Andador Madera azul...'
 sku: 'B07YGL8G1C-es'
 tags: [ 'bicicleta', ]

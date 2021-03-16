@@ -5,7 +5,7 @@ date: 2020-10-11 13:27:57
 image: 'https://m.media-amazon.com/images/I/51ydtQF2dxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JLRFB6K-es OUTTUO Carrera teledirigido anfibia 2.4GHz 4WD Carreras de...'
 sku: 'B08JLRFB6K-es'
 tags: [ 'juguetes', ]

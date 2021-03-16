@@ -5,7 +5,7 @@ date: 2020-09-01 11:08:15
 image: 'https://m.media-amazon.com/images/I/41KfsZhWwHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010VBDYP0-es Clementoni- Romantic Promenade In Puzzle 500 pzas...'
 sku: 'B010VBDYP0-es'
 tags: [ 'puzzle', ]

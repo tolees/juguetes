@@ -5,7 +5,7 @@ date: 2020-07-25 13:59:39
 image: 'https://m.media-amazon.com/images/I/51MYrVcSb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTV2Y8R-es Top Wing - Brody Y Su Coche Hasbro E5316ES2'
 sku: 'B07MTV2Y8R-es'
 tags: [ 'hasbro', ]

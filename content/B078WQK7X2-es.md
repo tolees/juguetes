@@ -5,7 +5,7 @@ date: 2020-02-20 16:06:19
 image: 'https://m.media-amazon.com/images/I/41X+bX29ouL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WQK7X2-es Little Live Pets- Perrito Travieso con transportín Famosa...'
 sku: 'B078WQK7X2-es'
 tags: [ 'famosa', ]

@@ -5,7 +5,7 @@ date: 2020-04-27 11:33:01
 image: 'https://m.media-amazon.com/images/I/41+SEw6TTZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQB3KZX-es Barbie Crea sus ondas Muñeca rubia con accesorios para...'
 sku: 'B07NQB3KZX-es'
 tags: [ 'barbie','mattel', ]

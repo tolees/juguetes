@@ -5,7 +5,7 @@ date: 2020-01-10 12:03:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fzv7N5qdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074CWSG2C-es TONZE Coches de Juguetes Vehiculos Mini Excavadora...'
 sku: 'B074CWSG2C-es'
 tags: [ 'juguetes', ]

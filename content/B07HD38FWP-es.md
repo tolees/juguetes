@@ -5,7 +5,7 @@ date: 2020-08-03 10:49:55
 image: 'https://m.media-amazon.com/images/I/412ig-oa+aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HD38FWP-es Mattel Disney Toy Story 4 Figura Básica Hamm Juguetes...'
 sku: 'B07HD38FWP-es'
 tags: [ 'juguetes','mattel', ]

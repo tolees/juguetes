@@ -5,7 +5,7 @@ date: 2020-05-12 19:27:13
 image: 'https://m.media-amazon.com/images/I/51Eu8rD3D1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFZH3N2-es Scooter Eléctrico Cerradura del Freno de Disco Cerradura...'
 sku: 'B07VFZH3N2-es'
 tags: [ 'bicicleta', ]

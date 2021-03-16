@@ -5,7 +5,7 @@ date: 2020-01-29 18:16:59
 image: 'https://m.media-amazon.com/images/I/41pi5M9tWJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NWQG56-es Lego Star Wars Darth Vader Head Lamp [With Battery]'
 sku: 'B007NWQG56-es'
 tags: [ 'lego', ]

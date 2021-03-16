@@ -5,7 +5,7 @@ date: 2020-04-17 18:06:38
 image: 'https://m.media-amazon.com/images/I/41UGqhGkIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VV98LNK-es Simba 6315878711pro Disney – Peluche de Minnie 61 cm'
 sku: 'B06VV98LNK-es'
 tags: [ 'peluche','simba', ]

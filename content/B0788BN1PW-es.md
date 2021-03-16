@@ -5,7 +5,7 @@ date: 2020-01-13 12:29:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31O0--nPpCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BN1PW-es Auto Companion - Soporte de techo en aluminio para moto o...'
 sku: 'B0788BN1PW-es'
 tags: [ 'bicicleta', ]

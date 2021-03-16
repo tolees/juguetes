@@ -5,7 +5,7 @@ date: 2020-06-12 00:19:19
 image: 'https://m.media-amazon.com/images/I/41V8MbBldyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797LMHNJ-es Barbie Muñeca Articulada con Bicicleta y Accesorios Mattel...'
 sku: 'B0797LMHNJ-es'
 tags: [ 'barbie','bicicleta','mattel', ]

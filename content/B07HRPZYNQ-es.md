@@ -5,7 +5,7 @@ date: 2020-09-07 08:20:53
 image: 'https://m.media-amazon.com/images/I/51y6yY-XL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRPZYNQ-es L.O.L. Surprise! 557067E7C Hairgoal Doll-Series 5-2A Multi'
 sku: 'B07HRPZYNQ-es'
 tags: [ 'l.o.l.', ]

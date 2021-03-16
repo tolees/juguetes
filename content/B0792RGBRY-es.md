@@ -5,7 +5,7 @@ date: 2020-03-22 06:56:55
 image: 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792RGBRY-es LEGO Animales Fantásticos - Huida de Grindelwald Juguete...'
 sku: 'B0792RGBRY-es'
 tags: [ 'lego', ]

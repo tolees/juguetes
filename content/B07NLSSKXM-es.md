@@ -5,7 +5,7 @@ date: 2020-10-12 21:55:15
 image: 'https://m.media-amazon.com/images/I/41y2SoJqFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLSSKXM-es IMC Toys - Club Petz Peluche Unicornio Puffy 91818'
 sku: 'B07NLSSKXM-es'
 tags: [ 'peluche', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 13:07:09
 image: 'https://m.media-amazon.com/images/I/414jz3UXUXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS9CRX3-es Justdodo Doble Forma de Cereza PVC Posavasos Inflable Copa...'
 sku: 'B07WS9CRX3-es'
 tags: [ 'flotador', ]

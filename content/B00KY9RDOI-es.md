@@ -5,7 +5,7 @@ date: 2020-03-07 02:42:30
 image: 'https://m.media-amazon.com/images/I/41B2kATir9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KY9RDOI-es LEGO Star Wars 75052 Minifigura de Greedo con pistola blaster'
 sku: 'B00KY9RDOI-es'
 tags: [ 'lego', ]

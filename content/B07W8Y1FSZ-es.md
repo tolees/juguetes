@@ -5,7 +5,7 @@ date: 2020-07-23 21:18:31
 image: 'https://m.media-amazon.com/images/I/51uA1LzQbML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8Y1FSZ-es LEGO Hidden Side - Feria Encantada Set de Construcción con...'
 sku: 'B07W8Y1FSZ-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-06-23 12:39:46
 image: 'https://m.media-amazon.com/images/I/51lnqblKFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LFOAQTU-es Air Hogs - Vectron Wave 2 Bizak 61924436 - colores surtidos'
 sku: 'B00LFOAQTU-es'
 tags: [ 'bizak', ]

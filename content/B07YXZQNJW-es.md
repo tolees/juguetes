@@ -5,7 +5,7 @@ date: 2020-04-17 11:16:22
 image: 'https://m.media-amazon.com/images/I/51o6P+x6ioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXZQNJW-es NEWSTYLE Bolsa de Almacenamiento de Ropa de Gran Capacidad...'
 sku: 'B07YXZQNJW-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:06:06
 image: 'https://m.media-amazon.com/images/I/614YHIn8sEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH5BQZ6-es Transformers- Cyberverse Spark Armor Megatron Multicolor...'
 sku: 'B07LH5BQZ6-es'
 tags: [ 'hasbro', ]

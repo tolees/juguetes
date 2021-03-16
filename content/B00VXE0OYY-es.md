@@ -5,7 +5,7 @@ date: 2020-03-25 18:46:33
 image: 'https://m.media-amazon.com/images/I/51GMeFPWdhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VXE0OYY-es Moma Bikes Bicicleta Montaña HIT 26" SHIMANO 21V Doble...'
 sku: 'B00VXE0OYY-es'
 tags: [ 'bicicleta', ]

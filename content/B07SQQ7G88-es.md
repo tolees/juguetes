@@ -5,7 +5,7 @@ date: 2020-01-29 19:49:28
 image: 'https://m.media-amazon.com/images/I/41ueYSgveDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQQ7G88-es Awroutdoor Candado de Bicicleta Seguridad Candado de Cable...'
 sku: 'B07SQQ7G88-es'
 tags: [ 'bicicleta', ]

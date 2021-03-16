@@ -5,7 +5,7 @@ date: 2020-04-07 22:11:58
 image: 'https://m.media-amazon.com/images/I/51wq-1piZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRTSDDH-es CAIDUD Juguetes para aliviar el estrés Fun Memory Toy...'
 sku: 'B07XRTSDDH-es'
 tags: [ 'juguetes', ]

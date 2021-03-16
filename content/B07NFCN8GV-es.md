@@ -5,7 +5,7 @@ date: 2020-04-21 17:44:14
 image: 'https://m.media-amazon.com/images/I/41Ey-m8XYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFCN8GV-es The Bellies - Ropita divertida disfraz reversible Angelito...'
 sku: 'B07NFCN8GV-es'
 tags: [ 'bellies','famosa','the', ]

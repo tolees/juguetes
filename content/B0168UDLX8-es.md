@@ -5,7 +5,7 @@ date: 2020-03-14 02:43:53
 image: 'https://m.media-amazon.com/images/I/519WtrJ5GgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0168UDLX8-es La Lego Película Edición Especial Blu-Ray [Blu-ray]'
 sku: 'B0168UDLX8-es'
 tags: [ 'lego', ]

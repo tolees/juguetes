@@ -5,7 +5,7 @@ date: 2020-10-12 14:48:45
 image: 'https://m.media-amazon.com/images/I/41zUc0I2uUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002LIEE6-es Clementoni-Rompecabezas Puzzle 1000 Piezas Museos...'
 sku: 'B0002LIEE6-es'
 tags: [ 'puzzle', ]

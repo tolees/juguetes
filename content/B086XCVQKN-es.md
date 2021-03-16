@@ -5,7 +5,7 @@ date: 2020-09-11 11:01:01
 image: 'https://m.media-amazon.com/images/I/51KjYc+JF8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086XCVQKN-es Wooden Jumping Gomoku Wooden Six-Color Two-In-One Juego de...'
 sku: 'B086XCVQKN-es'
 tags: [ 'juguetes', ]

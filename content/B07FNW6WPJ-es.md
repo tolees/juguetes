@@ -5,7 +5,7 @@ date: 2020-08-21 15:20:58
 image: 'https://m.media-amazon.com/images/I/51dm++5dpEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNW6WPJ-es LEGO Super Heroes Rescate en Moto de Spider-Man juguete de...'
 sku: 'B07FNW6WPJ-es'
 tags: [ 'lego', ]

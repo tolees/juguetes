@@ -5,7 +5,7 @@ date: 2020-05-11 16:05:04
 image: 'https://m.media-amazon.com/images/I/41+nWM6hgRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GP8NG1-es Juego de filtros antipolvo para máscara PM 2 5 antiniebla...'
 sku: 'B086GP8NG1-es'
 tags: [ 'bicicleta', ]

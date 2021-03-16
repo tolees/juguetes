@@ -5,7 +5,7 @@ date: 2020-04-16 08:31:23
 image: 'https://m.media-amazon.com/images/I/51DHIufhQVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0119NYURU-es Sentía rompecabezas mantel rojo / verde'
 sku: 'B0119NYURU-es'
 tags: [ 'rompecabezas', ]

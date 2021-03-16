@@ -5,7 +5,7 @@ date: 2020-02-16 18:56:00
 image: 'https://m.media-amazon.com/images/I/41+RLlgeSzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RB1VQI-es Clementoni - Puzzle de 3000 Piezas diseño Mapa Antiguo...'
 sku: 'B001RB1VQI-es'
 tags: [ 'clementoni','puzzle', ]

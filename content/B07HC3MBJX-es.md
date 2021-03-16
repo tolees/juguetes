@@ -5,7 +5,7 @@ date: 2020-09-23 05:00:32
 image: 'https://m.media-amazon.com/images/I/417nPb8z1JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HC3MBJX-es Gresorth 3 trozo Criaturas del mar Falso Pez Artificial...'
 sku: 'B07HC3MBJX-es'
 tags: [ 'juguetes', ]

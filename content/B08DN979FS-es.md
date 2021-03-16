@@ -5,7 +5,7 @@ date: 2020-08-25 09:19:50
 image: 'https://m.media-amazon.com/images/I/51bVZgU3ZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DN979FS-es WISHTIME Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B08DN979FS-es'
 tags: [ 'juguetes', ]

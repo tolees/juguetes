@@ -5,7 +5,7 @@ date: 2020-01-15 17:09:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31oph2OloGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082P1NSYM-es LCQI Cubo Rompecabezas Adultos Niños Profesional Original'
 sku: 'B082P1NSYM-es'
 tags: [ 'rompecabezas', ]

@@ -5,7 +5,7 @@ date: 2020-03-06 16:55:08
 image: 'https://m.media-amazon.com/images/I/61X0yUzyL7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00STL77Z8-es Hasbro - Cocodrilo sacamuelas Juego de Habilidad B04081750...'
 sku: 'B00STL77Z8-es'
 tags: [ 'hasbro', ]

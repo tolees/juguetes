@@ -5,7 +5,7 @@ date: 2020-04-01 05:55:25
 image: 'https://m.media-amazon.com/images/I/51bsQHys8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSB9H4-es LEGO Star Wars - Duelo en la Base Starkiller Juguete de...'
 sku: 'B07FNSB9H4-es'
 tags: [ 'lego', ]

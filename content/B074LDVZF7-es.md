@@ -5,7 +5,7 @@ date: 2020-08-10 07:55:57
 image: 'https://m.media-amazon.com/images/I/41+HG-tkprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074LDVZF7-es CubicFun Puzzle 3D París Torre Eiffel Francia Rompecabezas...'
 sku: 'B074LDVZF7-es'
 tags: [ 'puzzle','rompecabezas', ]

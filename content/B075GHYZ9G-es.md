@@ -5,7 +5,7 @@ date: 2020-07-21 02:51:08
 image: 'https://m.media-amazon.com/images/I/51iE02VrQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GHYZ9G-es LEGO Star Wars- First Order AT-ST Lego Juego de...'
 sku: 'B075GHYZ9G-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-05-16 06:03:44
 image: 'https://m.media-amazon.com/images/I/510i1oAHQoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D98TZ1R-es Hot Wheels- Cobra Speed Circuito Slot Color único Fábrica...'
 sku: 'B07D98TZ1R-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-01-24 11:17:34
 image: 'https://m.media-amazon.com/images/I/41e257EKTAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TZZQKXW-es MEGA Brands - Mesa Preescolar 3 en 1 Mattel CNM42'
 sku: 'B00TZZQKXW-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-04-11 00:33:08
 image: 'https://m.media-amazon.com/images/I/61FeUhgVPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4SM1VC-es iNeego Bloques de Construcción 1000 Piezas Bloques de...'
 sku: 'B07G4SM1VC-es'
 tags: [ 'juguetes', ]

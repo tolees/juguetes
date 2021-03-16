@@ -5,7 +5,7 @@ date: 2020-08-23 14:52:11
 image: 'https://m.media-amazon.com/images/I/51RGfCEYlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3MHQZN-es Puzzle 3D Estadio Rompecabezas Diy 3d Juego Puzzle Fútbol...'
 sku: 'B07Q3MHQZN-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]

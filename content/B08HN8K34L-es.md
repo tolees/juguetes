@@ -5,7 +5,7 @@ date: 2020-10-10 12:54:34
 image: 'https://m.media-amazon.com/images/I/51jHygcLT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HN8K34L-es FancyWhoop Cubos de Cambio de Cara de Juguete Montessori...'
 sku: 'B08HN8K34L-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]

@@ -5,7 +5,7 @@ date: 2020-09-03 00:11:02
 image: 'https://m.media-amazon.com/images/I/51FI4qQCqHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNS6J88-es LEGO Creator - Avión de Carreras juguete creativo de...'
 sku: 'B07FNS6J88-es'
 tags: [ 'lego', ]

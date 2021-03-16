@@ -5,7 +5,7 @@ date: 2020-07-14 07:37:02
 image: 'https://m.media-amazon.com/images/I/41ZqKoMBwmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4MWVMB-es Ubitree DIY Varita de Burbujas Gigante Pompas de jabón...'
 sku: 'B07Q4MWVMB-es'
 tags: [ 'juguetes', ]

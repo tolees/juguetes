@@ -5,7 +5,7 @@ date: 2020-05-07 17:49:41
 image: 'https://m.media-amazon.com/images/I/41YwCf4qIEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CIU4T5C-es TAZA ENTRENAMIENTO 250 ML | PEPPA PIG'
 sku: 'B00CIU4T5C-es'
 tags: [ 'peppa','pig', ]

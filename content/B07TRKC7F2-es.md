@@ -5,7 +5,7 @@ date: 2020-04-08 05:34:13
 image: 'https://m.media-amazon.com/images/I/41KTOAroBOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRKC7F2-es XOSS Cadencia/Velocidad Sensor para la computadora de la...'
 sku: 'B07TRKC7F2-es'
 tags: [ 'bicicleta', ]

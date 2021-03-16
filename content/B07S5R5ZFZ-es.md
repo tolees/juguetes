@@ -5,7 +5,7 @@ date: 2020-09-30 19:47:35
 image: 'https://m.media-amazon.com/images/I/41uCfXdvo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5R5ZFZ-es Banpresto Dragon Ball Match Makers Super Saiyan Broly...'
 sku: 'B07S5R5ZFZ-es'
 tags: [ 'bandai', ]

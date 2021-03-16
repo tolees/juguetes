@@ -5,7 +5,7 @@ date: 2020-07-17 21:03:25
 image: 'https://m.media-amazon.com/images/I/51ezCNoeDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMNKDYJ-es L.O.L. Surprise 22050 - Reloj Digital con Correa en...'
 sku: 'B07MMNKDYJ-es'
 tags: [ 'l.o.l.', ]

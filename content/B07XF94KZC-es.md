@@ -5,7 +5,7 @@ date: 2020-09-13 09:56:35
 image: 'https://m.media-amazon.com/images/I/41Ozm30AW4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF94KZC-es Barbie Dreamhouse Adventures Skipper Hora del Surf muñeca...'
 sku: 'B07XF94KZC-es'
 tags: [ 'barbie','mattel', ]

@@ -5,7 +5,7 @@ date: 2020-08-24 10:18:13
 image: 'https://m.media-amazon.com/images/I/51bQ8uqeU8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IDW6BEA-es Cars 3 Coche Flash McQueen Mattel DXV45 color/modelo surtido'
 sku: 'B01IDW6BEA-es'
 tags: [ 'mattel', ]

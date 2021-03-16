@@ -5,7 +5,7 @@ date: 2020-01-20 17:01:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qa0x11KiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K14KX4W-es IPSXP Computadora de Bicicleta Alámbrico Velocímetro y...'
 sku: 'B07K14KX4W-es'
 tags: [ 'bicicleta', ]

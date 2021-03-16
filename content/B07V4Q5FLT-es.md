@@ -5,7 +5,7 @@ date: 2020-03-13 16:15:15
 image: 'https://m.media-amazon.com/images/I/41eYhLJg2ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4Q5FLT-es Star Wars - Figura de acción de Jannah de Black Series...'
 sku: 'B07V4Q5FLT-es'
 tags: [ 'hasbro', ]

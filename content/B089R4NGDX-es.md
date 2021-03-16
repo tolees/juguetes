@@ -5,7 +5,7 @@ date: 2020-08-14 07:20:30
 image: 'https://m.media-amazon.com/images/I/5183bOGxdrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089R4NGDX-es Colmanda Puzzles de Madera 2 Piezas Alfabeto y Números...'
 sku: 'B089R4NGDX-es'
 tags: [ 'rompecabezas', ]

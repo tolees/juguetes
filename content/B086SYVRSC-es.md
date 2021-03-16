@@ -5,7 +5,7 @@ date: 2020-07-03 04:29:57
 image: 'https://m.media-amazon.com/images/I/51PU9OlzjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086SYVRSC-es Bicicleta De Ejercicio Fitness Interior Ciclismo Bicicleta...'
 sku: 'B086SYVRSC-es'
 tags: [ 'bicicleta', ]

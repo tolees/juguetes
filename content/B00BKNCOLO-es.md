@@ -5,7 +5,7 @@ date: 2020-05-27 08:50:27
 image: 'https://m.media-amazon.com/images/I/61ScUV3tSWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKNCOLO-es Geomag- Classic Glitter Construcciones magnéticas y Juegos...'
 sku: 'B00BKNCOLO-es'
 tags: [ 'geomag-', ]

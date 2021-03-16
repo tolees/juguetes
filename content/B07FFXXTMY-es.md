@@ -5,7 +5,7 @@ date: 2020-05-29 14:37:25
 image: 'https://m.media-amazon.com/images/I/51gnDQ4W82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFXXTMY-es Barbie Muñeca con caballo de juguete + 3 años Mattel FXH13'
 sku: 'B07FFXXTMY-es'
 tags: [ 'barbie','mattel', ]

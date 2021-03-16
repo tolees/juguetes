@@ -5,7 +5,7 @@ date: 2020-03-23 22:50:34
 image: 'https://m.media-amazon.com/images/I/61ao3vLfJPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VPR87M-es Educa Borrás- Serie puzzle 1000 piezas Los héroes de...'
 sku: 'B005VPR87M-es'
 tags: [ 'puzzle', ]

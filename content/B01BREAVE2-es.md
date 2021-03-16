@@ -5,7 +5,7 @@ date: 2020-04-16 18:31:28
 image: 'https://m.media-amazon.com/images/I/51mUllfhaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BREAVE2-es SYLVANIAN FAMILIES- Cake Decorating Set Mini muñecas y...'
 sku: 'B01BREAVE2-es'
 tags: [ 'families','sylvanian', ]

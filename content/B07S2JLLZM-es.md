@@ -5,7 +5,7 @@ date: 2020-07-09 06:49:11
 image: 'https://m.media-amazon.com/images/I/412q-U6S88L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2JLLZM-es INvench Juguetes de baño para bebés Shark - Blue Shark con...'
 sku: 'B07S2JLLZM-es'
 tags: [ 'juguetes', ]

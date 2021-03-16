@@ -5,7 +5,7 @@ date: 2020-05-21 14:49:29
 image: 'https://m.media-amazon.com/images/I/41QihLWjxYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0133QNV4E-es Schmidt Spiele 59365 - Mark Gray Río Canning - Australia...'
 sku: 'B0133QNV4E-es'
 tags: [ 'puzzle', ]

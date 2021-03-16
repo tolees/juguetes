@@ -5,7 +5,7 @@ date: 2020-07-09 21:10:48
 image: 'https://m.media-amazon.com/images/I/51plF4f76lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AT5M9I6-es Barbie Fashionista Armario Fashion accesorios de muñecas...'
 sku: 'B01AT5M9I6-es'
 tags: [ 'barbie','mattel', ]

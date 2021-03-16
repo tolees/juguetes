@@ -5,7 +5,7 @@ date: 2020-09-23 16:01:44
 image: 'https://m.media-amazon.com/images/I/51W3wAGtSKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EH9Z31Q-es Mantona Premium Biker - Bolsa fotográfica para Bicicleta...'
 sku: 'B00EH9Z31Q-es'
 tags: [ 'bicicleta', ]

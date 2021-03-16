@@ -5,7 +5,7 @@ date: 2020-10-12 08:25:42
 image: 'https://m.media-amazon.com/images/I/51tK1yxitoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYJ2ZVK-es Tres Hurras por el Amo - Juego de cartas Edge...'
 sku: 'B06XYJ2ZVK-es'
 tags: [ 'cartas','de','juego', ]

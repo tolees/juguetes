@@ -5,7 +5,7 @@ date: 2020-09-09 10:01:16
 image: 'https://m.media-amazon.com/images/I/51eHdJ-ehiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NML6DG-es qingqingR Anillo de natación para bebés Anillo de natación...'
 sku: 'B089NML6DG-es'
 tags: [ 'flotador', ]

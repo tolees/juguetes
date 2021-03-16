@@ -5,7 +5,7 @@ date: 2020-07-29 11:30:52
 image: 'https://m.media-amazon.com/images/I/51XTrEsKiXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PX4F8H-es Clementoni-39421 Puzzle 1000 Piezas Dutch Dreamworld 39421.0'
 sku: 'B079PX4F8H-es'
 tags: [ 'puzzle', ]

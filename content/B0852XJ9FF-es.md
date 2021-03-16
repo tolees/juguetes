@@ -5,7 +5,7 @@ date: 2020-08-22 16:44:50
 image: 'https://m.media-amazon.com/images/I/317p3ZGVZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0852XJ9FF-es Panamami Tamaño portátil Niños Niños Bebé Estudio Cámara...'
 sku: 'B0852XJ9FF-es'
 tags: [ 'juguetes', ]

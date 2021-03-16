@@ -5,7 +5,7 @@ date: 2020-01-25 06:55:38
 image: 'https://m.media-amazon.com/images/I/51oT9WqrcNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBBBMKY-es LEGO Overwatch - Batalla Final en Dorado Juguete de...'
 sku: 'B07JBBBMKY-es'
 tags: [ 'lego', ]

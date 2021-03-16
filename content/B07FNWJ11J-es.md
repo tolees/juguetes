@@ -5,7 +5,7 @@ date: 2020-09-04 10:33:19
 image: 'https://m.media-amazon.com/images/I/51SSBwA5tFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWJ11J-es LEGO DUPLO My first - Mi Primer Camión Grúa Juguete de...'
 sku: 'B07FNWJ11J-es'
 tags: [ 'lego', ]

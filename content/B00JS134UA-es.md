@@ -5,7 +5,7 @@ date: 2020-06-12 15:01:15
 image: 'https://m.media-amazon.com/images/I/412CHtzQAQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JS134UA-es Nenuco - Nenuco y su hermanito van al cole Famosa...'
 sku: 'B00JS134UA-es'
 tags: [ 'famosa', ]

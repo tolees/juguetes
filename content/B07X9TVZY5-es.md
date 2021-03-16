@@ -5,7 +5,7 @@ date: 2020-04-14 20:26:56
 image: 'https://m.media-amazon.com/images/I/51gYB1Sj3+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9TVZY5-es LEGO Friends - Cubo Tienda de Juegos de Olivia Caja de...'
 sku: 'B07X9TVZY5-es'
 tags: [ 'lego', ]

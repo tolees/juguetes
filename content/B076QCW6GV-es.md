@@ -5,7 +5,7 @@ date: 2020-08-18 16:43:07
 image: 'https://m.media-amazon.com/images/I/41Sn0yD7s1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QCW6GV-es Barbie Collector muñeca Frida Khalo de "Grandes Mujeres"...'
 sku: 'B076QCW6GV-es'
 tags: [ 'barbie','mattel', ]

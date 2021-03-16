@@ -5,7 +5,7 @@ date: 2020-06-10 16:20:15
 image: 'https://m.media-amazon.com/images/I/61IeckyDYSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXVKRCD-es Wimypet 10 Piezas Juguetes de Cuerda para Perros Grupo de...'
 sku: 'B07VXVKRCD-es'
 tags: [ 'juguetes', ]

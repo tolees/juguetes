@@ -5,7 +5,7 @@ date: 2020-04-07 22:06:15
 image: 'https://m.media-amazon.com/images/I/41-KWZThoKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719SXQTC-es Barriguitas Clínica Loca Famosa 700013940'
 sku: 'B0719SXQTC-es'
 tags: [ 'famosa', ]

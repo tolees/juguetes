@@ -5,7 +5,7 @@ date: 2020-08-18 12:45:41
 image: 'https://m.media-amazon.com/images/I/31MvtWfdXCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTVGF4Z-es Juguetes de baño para bebés Juguetes para bebés Baby...'
 sku: 'B08BTVGF4Z-es'
 tags: [ 'juguetes', ]

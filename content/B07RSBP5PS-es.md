@@ -5,7 +5,7 @@ date: 2020-09-05 19:02:00
 image: 'https://m.media-amazon.com/images/I/41Y8WyMZjWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSBP5PS-es HellDoler Flotador para Bebé 1 a 5 Años de Edad Flotador...'
 sku: 'B07RSBP5PS-es'
 tags: [ 'flotador', ]

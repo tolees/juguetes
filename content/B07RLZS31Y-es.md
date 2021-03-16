@@ -5,7 +5,7 @@ date: 2020-08-12 10:47:57
 image: 'https://m.media-amazon.com/images/I/51FWWAjDGFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLZS31Y-es ZIYIUI Realista Niña Reborn Bebé Muñecas Niñita Silicona...'
 sku: 'B07RLZS31Y-es'
 tags: [ 'juguetes', ]

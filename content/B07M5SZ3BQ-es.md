@@ -5,7 +5,7 @@ date: 2020-08-30 21:35:20
 image: 'https://m.media-amazon.com/images/I/51efkSzQNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5SZ3BQ-es La Lego Película 2: El Videojuego'
 sku: 'B07M5SZ3BQ-es'
 tags: [ 'lego', ]

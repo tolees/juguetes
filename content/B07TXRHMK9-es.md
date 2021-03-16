@@ -5,7 +5,7 @@ date: 2020-04-28 11:02:30
 image: 'https://m.media-amazon.com/images/I/41dE8ZkIWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXRHMK9-es Caminata y Canto eléctrico Unicornio de Peluche de Juguete...'
 sku: 'B07TXRHMK9-es'
 tags: [ 'peluche', ]

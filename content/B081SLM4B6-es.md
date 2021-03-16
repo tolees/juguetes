@@ -5,7 +5,7 @@ date: 2020-02-03 10:12:23
 image: 'https://m.media-amazon.com/images/I/51r7jUdofxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SLM4B6-es Brazalete Deportivo para Correr Brazalete Móvil Deportivo...'
 sku: 'B081SLM4B6-es'
 tags: [ 'bicicleta', ]

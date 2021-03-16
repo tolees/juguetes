@@ -5,7 +5,7 @@ date: 2020-01-07 10:55:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518Sz3kv%2BVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPD8MBC-es Aizhy Bomba de pie de Doble Barril Bomba de Bicicleta de...'
 sku: 'B07VPD8MBC-es'
 tags: [ 'bicicleta', ]

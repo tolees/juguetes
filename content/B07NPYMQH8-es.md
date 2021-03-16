@@ -5,7 +5,7 @@ date: 2020-05-15 08:23:47
 image: 'https://m.media-amazon.com/images/I/510LSduwI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPYMQH8-es Robot Train Kay Radio Control Transformable BIZAK 62000178'
 sku: 'B07NPYMQH8-es'
 tags: [ 'bizak', ]

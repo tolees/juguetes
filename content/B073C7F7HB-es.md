@@ -5,7 +5,7 @@ date: 2020-10-10 10:08:53
 image: 'https://m.media-amazon.com/images/I/41Kgcq2p-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo juguete gateo bebé +3...'
 sku: 'B073C7F7HB-es'
 tags: [ 'fisher-price','mattel', ]

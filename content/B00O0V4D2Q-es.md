@@ -5,7 +5,7 @@ date: 2020-09-26 09:03:21
 image: 'https://m.media-amazon.com/images/I/413fMwPYooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O0V4D2Q-es HOMCOM Rodillo Entrenamiento Bicicleta Acero...'
 sku: 'B00O0V4D2Q-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 05:16:04
 image: 'https://m.media-amazon.com/images/I/51o1dbSbidL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PC8YDJR-es SYLVANIAN FAMILIES Mini muñecas y Accesorios Multicolor...'
 sku: 'B07PC8YDJR-es'
 tags: [ 'families','sylvanian', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:30:42
 image: 'https://m.media-amazon.com/images/I/61B4M5DtG2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719JFC4L-es Baby Alive Muñeca mimos y cuidados Multicolor Miscelanea...'
 sku: 'B0719JFC4L-es'
 tags: [ 'hasbro', ]

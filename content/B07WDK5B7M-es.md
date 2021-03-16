@@ -5,7 +5,7 @@ date: 2020-05-29 07:01:39
 image: 'https://m.media-amazon.com/images/I/51MwaGGClLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDK5B7M-es ANGELBLISS mordedor bebes refrigerante mordedores bebes...'
 sku: 'B07WDK5B7M-es'
 tags: [ 'juguetes', ]

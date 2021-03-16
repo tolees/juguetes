@@ -5,7 +5,7 @@ date: 2020-08-12 01:01:15
 image: 'https://m.media-amazon.com/images/I/41ys4CcnoOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M8GHX2-es jerryvon Fregadero de Juguete Menaje Cocina Utensilios de...'
 sku: 'B088M8GHX2-es'
 tags: [ 'juguetes', ]

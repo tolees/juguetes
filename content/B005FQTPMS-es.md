@@ -5,7 +5,7 @@ date: 2020-05-26 09:07:18
 image: 'https://m.media-amazon.com/images/I/41TxhSJK9aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FQTPMS-es Nerf - Nstrike Falconfire Hasbro B9839EU5'
 sku: 'B005FQTPMS-es'
 tags: [ 'hasbro','nerf', ]

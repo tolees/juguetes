@@ -5,7 +5,7 @@ date: 2020-06-01 12:34:47
 image: 'https://m.media-amazon.com/images/I/41HHFCtJufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003OA6TW6-es Tráiler Bicicleta M 43×45×73 cm Rojo/Negro'
 sku: 'B003OA6TW6-es'
 tags: [ 'bicicleta', ]

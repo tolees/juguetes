@@ -5,7 +5,7 @@ date: 2020-04-08 06:10:43
 image: 'https://m.media-amazon.com/images/I/41Wa9QexueL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXR3VX8-es JUNSHEN Juguetes de baño 6PCS Juguetes para bebés Juguetes...'
 sku: 'B07CXR3VX8-es'
 tags: [ 'juguetes', ]

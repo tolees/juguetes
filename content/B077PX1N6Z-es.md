@@ -5,7 +5,7 @@ date: 2020-01-02 18:20:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415tv-k21hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PX1N6Z-es Zak Storm Playset Maritoga Bandai 41580'
 sku: 'B077PX1N6Z-es'
 tags: [ 'bandai', ]

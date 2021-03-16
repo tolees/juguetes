@@ -5,7 +5,7 @@ date: 2020-05-14 05:17:13
 image: 'https://m.media-amazon.com/images/I/41KjB-T5fOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPVBSDL-es Bizak Aire Libre Skip It 2 en 1 BIZAK 35007558'
 sku: 'B07NPVBSDL-es'
 tags: [ 'bizak', ]

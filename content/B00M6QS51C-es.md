@@ -5,7 +5,7 @@ date: 2020-06-21 08:50:51
 image: 'https://m.media-amazon.com/images/I/515S3Ptj3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M6QS51C-es Devir Iberia 221718 Genial Juego de Mesa BGENI'
 sku: 'B00M6QS51C-es'
 tags: [ 'devir', ]

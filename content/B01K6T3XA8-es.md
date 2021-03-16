@@ -5,7 +5,7 @@ date: 2020-07-08 13:19:15
 image: 'https://m.media-amazon.com/images/I/314EgDuymaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K6T3XA8-es Juguetes Colgantes Reiki Energía Cristal Péndulo Scrying...'
 sku: 'B01K6T3XA8-es'
 tags: [ 'juguetes', ]

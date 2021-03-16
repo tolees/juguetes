@@ -5,7 +5,7 @@ date: 2020-08-13 01:04:08
 image: 'https://m.media-amazon.com/images/I/41KodhrnamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3DQ7W2-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica...'
 sku: 'B07L3DQ7W2-es'
 tags: [ 'bicicleta', ]

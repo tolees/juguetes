@@ -5,7 +5,7 @@ date: 2020-01-22 14:05:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pmn-Psd6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCWMYQF-es Luz trasera impermeable para bicicleta ajuste constante...'
 sku: 'B01NCWMYQF-es'
 tags: [ 'bicicleta', ]

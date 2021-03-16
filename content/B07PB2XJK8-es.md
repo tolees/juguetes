@@ -5,7 +5,7 @@ date: 2020-03-29 08:31:59
 image: 'https://m.media-amazon.com/images/I/41Ka4lFkZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PB2XJK8-es Toyvian Juego de niños con férula de Agua 2pcs Juguetes...'
 sku: 'B07PB2XJK8-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-06-01 08:09:11
 image: 'https://m.media-amazon.com/images/I/51OnKA7r1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDBDBDW-es Mundo Monstruos - Laboratorio Zombie Ball Bizak 35001918'
 sku: 'B07DDBDBDW-es'
 tags: [ 'bizak', ]

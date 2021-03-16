@@ -5,7 +5,7 @@ date: 2020-05-07 16:03:23
 image: 'https://m.media-amazon.com/images/I/41SFDpECPKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081NXR12C-es PEPPA PIG Botella cantimplora tritan hidro HOME Unisex...'
 sku: 'B081NXR12C-es'
 tags: [ 'peppa','pig', ]

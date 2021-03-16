@@ -5,7 +5,7 @@ date: 2020-09-03 20:40:05
 image: 'https://m.media-amazon.com/images/I/41A1tZjh85L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012Z8BE5E-es Chicos-Bingo Lotería automática con 48 cartones y 90 bolas...'
 sku: 'B012Z8BE5E-es'
 tags: [ 'juguetes', ]

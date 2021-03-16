@@ -5,7 +5,7 @@ date: 2020-03-22 09:46:00
 image: 'https://m.media-amazon.com/images/I/61WtEiEM8hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0133IUBGS-es Ravensburger Avengers - Multipack de 3 Rompecabezas con 1...'
 sku: 'B0133IUBGS-es'
 tags: [ 'ravensburger','rompecabezas', ]

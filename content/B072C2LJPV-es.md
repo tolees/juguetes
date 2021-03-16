@@ -5,7 +5,7 @@ date: 2020-08-29 11:43:10
 image: 'https://m.media-amazon.com/images/I/51h94sfwP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072C2LJPV-es VeloVendo® Alfombra Puzzle Infantiles con Certificado CE &...'
 sku: 'B072C2LJPV-es'
 tags: [ 'puzzle', ]

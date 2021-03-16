@@ -5,7 +5,7 @@ date: 2020-05-11 10:10:51
 image: 'https://m.media-amazon.com/images/I/51FGHJjYZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVBM8Z2-es LEGO Star Wars - Scout Trooper y Speeder Bike 75532 Juego...'
 sku: 'B06WVBM8Z2-es'
 tags: [ 'lego', ]

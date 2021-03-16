@@ -5,7 +5,7 @@ date: 2020-04-02 22:45:00
 image: 'https://m.media-amazon.com/images/I/51s6Ulf0ioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0789LYRZP-es HABA Oruga De Colores Lego S.A. HAB303114'
 sku: 'B0789LYRZP-es'
 tags: [ 'lego', ]

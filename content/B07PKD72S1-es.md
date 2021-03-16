@@ -5,7 +5,7 @@ date: 2020-05-12 16:06:06
 image: 'https://m.media-amazon.com/images/I/419tSFtXOYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKD72S1-es TCBIKE Altura de Asiento Ajustable Bicicleta de Equilibrio...'
 sku: 'B07PKD72S1-es'
 tags: [ 'bicicleta', ]

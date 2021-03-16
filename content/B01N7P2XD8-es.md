@@ -5,7 +5,7 @@ date: 2020-04-24 09:33:34
 image: 'https://m.media-amazon.com/images/I/41IaNjKY19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7P2XD8-es Dragon Ball Super - Lanzador de energía Kamehameha Bandai...'
 sku: 'B01N7P2XD8-es'
 tags: [ 'bandai', ]

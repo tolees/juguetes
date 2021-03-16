@@ -5,7 +5,7 @@ date: 2020-04-17 16:16:09
 image: 'https://m.media-amazon.com/images/I/41mrCr5BaGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNK8SKL-es Ty – Peluche ty36253'
 sku: 'B07DNK8SKL-es'
 tags: [ 'peluche', ]

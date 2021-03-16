@@ -5,7 +5,7 @@ date: 2020-08-14 19:41:19
 image: 'https://m.media-amazon.com/images/I/51u5Ict+YdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086D5G4CS-es MaoXinTek Tangram Madera 36 Montessori Puzzle de Formas y...'
 sku: 'B086D5G4CS-es'
 tags: [ 'juguetes','puzzle', ]

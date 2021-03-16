@@ -5,7 +5,7 @@ date: 2020-04-04 18:32:13
 image: 'https://m.media-amazon.com/images/I/61xcxZPplbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY78KJY-es Mini Camión Modelo de auto Conjunto de Juguetes de...'
 sku: 'B07JY78KJY-es'
 tags: [ 'juguetes', ]

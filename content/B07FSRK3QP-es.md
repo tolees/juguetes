@@ -5,7 +5,7 @@ date: 2020-05-19 11:17:50
 image: 'https://m.media-amazon.com/images/I/51NxBtrPqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSRK3QP-es Wafly Puños Bicicleta Ergonomicos con Máscara 2PCS Puños...'
 sku: 'B07FSRK3QP-es'
 tags: [ 'bicicleta', ]

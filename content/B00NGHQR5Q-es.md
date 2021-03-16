@@ -5,7 +5,7 @@ date: 2020-07-01 19:46:23
 image: 'https://m.media-amazon.com/images/I/41MBaS1hqVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGHQR5Q-es GEMVIE Flotador de Bebé Piscina Inflable con Manija Anillo...'
 sku: 'B00NGHQR5Q-es'
 tags: [ 'flotador', ]

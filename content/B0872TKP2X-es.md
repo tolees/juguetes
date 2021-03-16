@@ -5,7 +5,7 @@ date: 2020-08-30 19:11:26
 image: 'https://m.media-amazon.com/images/I/51zpzTiPDFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872TKP2X-es Rolimate Rompecabezas de Madera para niños Rompecabezas de...'
 sku: 'B0872TKP2X-es'
 tags: [ 'rompecabezas', ]

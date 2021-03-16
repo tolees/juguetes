@@ -5,7 +5,7 @@ date: 2020-05-31 11:46:35
 image: 'https://m.media-amazon.com/images/I/5141mz1+rwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08116LLYY-es NEWSTYLE Caja de Almacenamiento de Tela Grande Plegable...'
 sku: 'B08116LLYY-es'
 tags: [ 'juguetes', ]

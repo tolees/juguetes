@@ -5,7 +5,7 @@ date: 2020-06-19 09:16:47
 image: 'https://m.media-amazon.com/images/I/41lqvC4cyfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NWG6Y5-es Nerf- Lanzador Firestrike Color azul Hasbro 53378EU6...'
 sku: 'B079NWG6Y5-es'
 tags: [ 'hasbro', ]

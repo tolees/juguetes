@@ -5,7 +5,7 @@ date: 2020-04-08 13:44:38
 image: 'https://m.media-amazon.com/images/I/41P9XdzVjjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M59WKTV-es Avengers- Titan Hero Movie Thor Multicolor Hasbro E3921ES0'
 sku: 'B07M59WKTV-es'
 tags: [ 'hasbro', ]

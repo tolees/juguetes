@@ -5,7 +5,7 @@ date: 2020-05-01 09:35:46
 image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTK9FJ9-es LEGO Friends - Pulpo Mecánico Juguete Divertido de...'
 sku: 'B07KTK9FJ9-es'
 tags: [ 'lego', ]

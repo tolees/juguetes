@@ -5,7 +5,7 @@ date: 2020-06-06 19:27:42
 image: 'https://m.media-amazon.com/images/I/41Nj7uy-A4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C1Y1KGQ-es Peppa Pig - Manguitos hinchables Saica Toys 9110'
 sku: 'B00C1Y1KGQ-es'
 tags: [ 'peppa','pig', ]

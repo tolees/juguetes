@@ -5,7 +5,7 @@ date: 2020-01-26 18:04:31
 image: 'https://m.media-amazon.com/images/I/41ZyeIC7TgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8F4XBV-es Lego Movie Pijamas de Manga Corta para niños La Lego...'
 sku: 'B07P8F4XBV-es'
 tags: [ 'lego', ]

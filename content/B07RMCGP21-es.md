@@ -5,7 +5,7 @@ date: 2020-01-14 21:03:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41liDs-s2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMCGP21-es Hot Wheels-GLC96 Juguete Multicolor Mattel GLC96'
 sku: 'B07RMCGP21-es'
 tags: [ 'mattel', ]

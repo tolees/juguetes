@@ -5,7 +5,7 @@ date: 2020-08-26 23:30:20
 image: 'https://m.media-amazon.com/images/I/51-6xkLJASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXPLCRL-es HoneyHolly Botella de Agua Acero Inoxidable sin BPA...'
 sku: 'B07GXPLCRL-es'
 tags: [ 'bicicleta', ]

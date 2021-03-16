@@ -5,7 +5,7 @@ date: 2020-03-17 19:19:51
 image: 'https://m.media-amazon.com/images/I/41bVNGxbWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD5CYZT-es Famogames - Sandía Splash Famosa 700014661'
 sku: 'B07DD5CYZT-es'
 tags: [ 'famosa', ]

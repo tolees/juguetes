@@ -5,7 +5,7 @@ date: 2020-03-01 09:32:29
 image: 'https://m.media-amazon.com/images/I/31aZB1yPjhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019DAUVTW-es Star Wars- Rogue One Rebels BladeBuilders Kanan Jarrus-...'
 sku: 'B019DAUVTW-es'
 tags: [ 'hasbro', ]

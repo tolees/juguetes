@@ -5,7 +5,7 @@ date: 2020-04-07 22:11:57
 image: 'https://m.media-amazon.com/images/I/41QACcWTstL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJ3G4MS-es Dilwe Memory Chess Toys Juego de Emparejamiento de Madera...'
 sku: 'B07WJ3G4MS-es'
 tags: [ 'puzzle', ]

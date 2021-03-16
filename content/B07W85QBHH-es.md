@@ -5,7 +5,7 @@ date: 2020-07-05 16:15:21
 image: 'https://m.media-amazon.com/images/I/416fi-qJKPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W85QBHH-es Nerf Alpha Strike Wolf LR-1 Juguete Blaster con Alcance de...'
 sku: 'B07W85QBHH-es'
 tags: [ 'hasbro','nerf', ]

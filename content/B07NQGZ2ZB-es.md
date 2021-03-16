@@ -5,7 +5,7 @@ date: 2020-09-24 13:50:49
 image: 'https://m.media-amazon.com/images/I/515t+JlRZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQGZ2ZB-es Creatable World Figura Unisex muñeco articulado pelucas...'
 sku: 'B07NQGZ2ZB-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-09-22 11:45:57
 image: 'https://m.media-amazon.com/images/I/51R0gi-3bpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073D4YT4B-es 2 en 1 Juego de Ajedrez Chino Weiqi Go Juego de Damas...'
 sku: 'B073D4YT4B-es'
 tags: [ 'juguetes', ]

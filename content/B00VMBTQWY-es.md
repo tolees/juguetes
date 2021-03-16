@@ -5,7 +5,7 @@ date: 2020-05-29 10:48:49
 image: 'https://m.media-amazon.com/images/I/41qdvEWWGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VMBTQWY-es Maxxis Ardent Race ETB96742300 Neumático de bicicleta...'
 sku: 'B00VMBTQWY-es'
 tags: [ 'bicicleta', ]

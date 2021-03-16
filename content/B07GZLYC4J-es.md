@@ -5,7 +5,7 @@ date: 2020-05-12 08:51:44
 image: 'https://m.media-amazon.com/images/I/31v6kIPkqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZLYC4J-es SmartGyro Xtreme XD Patín eléctrico para niños y jóvenes...'
 sku: 'B07GZLYC4J-es'
 tags: [ 'smartgyro', ]

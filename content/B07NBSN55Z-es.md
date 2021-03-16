@@ -5,7 +5,7 @@ date: 2020-09-25 12:41:12
 image: 'https://m.media-amazon.com/images/I/41ZTUdBQTNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBSN55Z-es Famosa- Pinypon Muñeca coleccionable Emoji Multicolor...'
 sku: 'B07NBSN55Z-es'
 tags: [ 'pinypon', ]

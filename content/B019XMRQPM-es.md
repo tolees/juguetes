@@ -5,7 +5,7 @@ date: 2020-02-12 11:59:41
 image: 'https://m.media-amazon.com/images/I/514-2fuqx7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019XMRQPM-es Fajiabao Puzzles de Madera Magnético Dibujo Placa...'
 sku: 'B019XMRQPM-es'
 tags: [ 'rompecabezas', ]

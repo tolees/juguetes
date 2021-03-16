@@ -5,7 +5,7 @@ date: 2020-06-30 10:32:30
 image: 'https://m.media-amazon.com/images/I/51MpJ6YCQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3T6LFQ-es Kingnew Peluche Suave kauspielzeug Durable Squeak Perro...'
 sku: 'B07D3T6LFQ-es'
 tags: [ 'peluche', ]

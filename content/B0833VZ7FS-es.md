@@ -5,7 +5,7 @@ date: 2020-07-17 15:28:16
 image: 'https://m.media-amazon.com/images/I/61h3ybUKfzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833VZ7FS-es Peradix Splash Pad 170CM Aspersor de Juegos de Agua para...'
 sku: 'B0833VZ7FS-es'
 tags: [ 'juguetes', ]

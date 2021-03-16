@@ -5,7 +5,7 @@ date: 2020-06-20 14:19:55
 image: 'https://m.media-amazon.com/images/I/31YD+c-GtFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PG9KJH8-es One Piece - Figura de colección Nami versión B Bandai 85444'
 sku: 'B07PG9KJH8-es'
 tags: [ 'bandai', ]

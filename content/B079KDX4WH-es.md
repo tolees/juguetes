@@ -5,7 +5,7 @@ date: 2020-07-17 09:01:16
 image: 'https://m.media-amazon.com/images/I/41RFPQmyibL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KDX4WH-es Justice League Figura Orm 15 cm Mattel FWX64'
 sku: 'B079KDX4WH-es'
 tags: [ 'mattel', ]

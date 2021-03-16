@@ -5,7 +5,7 @@ date: 2020-10-11 11:25:28
 image: 'https://m.media-amazon.com/images/I/41g86ZpTx9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GN984ZV-es FITODO Pedales Ejercicio Estaticos Mini Bicicleta Estatica...'
 sku: 'B07GN984ZV-es'
 tags: [ 'bicicleta', ]

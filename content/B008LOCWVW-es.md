@@ -5,7 +5,7 @@ date: 2020-09-10 16:50:56
 image: 'https://m.media-amazon.com/images/I/51BrtaDJqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008LOCWVW-es Tecnovita by BH Open&GO YF90 Bicicleta estática Plegable....'
 sku: 'B008LOCWVW-es'
 tags: [ 'bicicleta', ]

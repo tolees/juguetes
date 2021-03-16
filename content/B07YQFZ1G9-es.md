@@ -5,7 +5,7 @@ date: 2020-07-30 20:31:59
 image: 'https://m.media-amazon.com/images/I/51YgcP7ePBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQFZ1G9-es Denver - Bicicleta Infantil de 14 Pulgadas diseño de...'
 sku: 'B07YQFZ1G9-es'
 tags: [ 'bicicleta', ]

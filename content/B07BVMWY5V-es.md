@@ -5,7 +5,7 @@ date: 2020-01-04 14:41:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVMWY5V-es Zequins- Muñeco Emmy Famosa 700014680'
 sku: 'B07BVMWY5V-es'
 tags: [ 'famosa', ]

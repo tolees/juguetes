@@ -5,7 +5,7 @@ date: 2020-07-23 23:01:26
 image: 'https://m.media-amazon.com/images/I/51uOOKaPEcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P37LTZY-es KATOOM Mini Flotador 9pcs para sostenedor Bebida de...'
 sku: 'B07P37LTZY-es'
 tags: [ 'flotador','juguetes', ]

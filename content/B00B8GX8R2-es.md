@@ -5,7 +5,7 @@ date: 2020-07-31 10:08:20
 image: 'https://m.media-amazon.com/images/I/61V8q7SMpDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B8GX8R2-es Educa - Multi 4 Puzzles Junior puzzle infantil Pixar:...'
 sku: 'B00B8GX8R2-es'
 tags: [ 'puzzle', ]

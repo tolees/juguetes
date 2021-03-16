@@ -5,7 +5,7 @@ date: 2020-03-13 22:25:13
 image: 'https://m.media-amazon.com/images/I/61QKB6us4VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GLZFTZ-es LEGO Duplo Town - Aventuras en la Granja 10869'
 sku: 'B075GLZFTZ-es'
 tags: [ 'lego', ]

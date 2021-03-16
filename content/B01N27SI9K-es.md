@@ -5,7 +5,7 @@ date: 2020-04-18 02:25:13
 image: 'https://m.media-amazon.com/images/I/51+AA2c52QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N27SI9K-es Pinypon Mascotas y figuras pack grande Famosa 700013370'
 sku: 'B01N27SI9K-es'
 tags: [ 'famosa','pinypon', ]

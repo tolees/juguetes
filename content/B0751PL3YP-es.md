@@ -5,7 +5,7 @@ date: 2020-03-12 12:53:47
 image: 'https://m.media-amazon.com/images/I/51NZCJqe6EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751PL3YP-es Opas Schuppen. Puzzle 1000 Teile'
 sku: 'B0751PL3YP-es'
 tags: [ 'puzzle', ]

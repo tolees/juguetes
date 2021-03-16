@@ -5,7 +5,7 @@ date: 2020-06-21 15:32:17
 image: 'https://m.media-amazon.com/images/I/51izXrtgQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXPF21K-es Gifort Flotador Bebé Piscina Barco Niños Flotador...'
 sku: 'B07RXPF21K-es'
 tags: [ 'flotador', ]

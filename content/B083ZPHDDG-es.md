@@ -5,7 +5,7 @@ date: 2020-08-26 11:14:24
 image: 'https://m.media-amazon.com/images/I/41TAqhH8NPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZPHDDG-es Teaisiy Juguetes para Niños 3-12 Años Juguetes Niño...'
 sku: 'B083ZPHDDG-es'
 tags: [ 'juguetes', ]

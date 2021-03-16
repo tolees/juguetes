@@ -5,7 +5,7 @@ date: 2020-03-20 17:53:40
 image: 'https://m.media-amazon.com/images/I/51uxARy9dOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD3SH32-es LEGO Super Heroes - Knightcrawler: Ataque subterráneo 76086'
 sku: 'B06WD3SH32-es'
 tags: [ 'lego', ]

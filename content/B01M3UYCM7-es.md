@@ -5,7 +5,7 @@ date: 2020-04-18 02:23:01
 image: 'https://m.media-amazon.com/images/I/41-oXoTUB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3UYCM7-es SYLVANIAN FAMILIES Set Cuarto de baño Multicolor Epoch...'
 sku: 'B01M3UYCM7-es'
 tags: [ 'families','sylvanian', ]

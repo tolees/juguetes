@@ -5,7 +5,7 @@ date: 2020-04-18 01:26:54
 image: 'https://m.media-amazon.com/images/I/51xewh4GwcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0056ZWYSA-es LEGO 40 Pieza Technic Pin Largo con Tope en Negro.'
 sku: 'B0056ZWYSA-es'
 tags: [ 'lego', ]

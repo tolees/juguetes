@@ -5,7 +5,7 @@ date: 2020-08-06 19:01:11
 image: 'https://m.media-amazon.com/images/I/414YXdQ4ciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RXLB99-es Moliies Rompecabezas Niños Niños Niños Niñas Escritura...'
 sku: 'B081RXLB99-es'
 tags: [ 'rompecabezas', ]

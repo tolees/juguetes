@@ -5,7 +5,7 @@ date: 2020-06-08 17:33:12
 image: 'https://m.media-amazon.com/images/I/61M-yk-lGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VSTFBMS-es Pinypon Pack 2 mascotas mariposa y mono Famosa 700012732'
 sku: 'B06VSTFBMS-es'
 tags: [ 'famosa','pinypon', ]

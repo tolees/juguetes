@@ -5,7 +5,7 @@ date: 2020-07-16 11:02:48
 image: 'https://m.media-amazon.com/images/I/41zuIAIExcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3L8GGN-es Banpresto - The Grandline Men Vol.4 Bandai 85626'
 sku: 'B07R3L8GGN-es'
 tags: [ 'bandai', ]

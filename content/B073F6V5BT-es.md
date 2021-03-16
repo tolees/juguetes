@@ -5,7 +5,7 @@ date: 2020-06-18 23:36:39
 image: 'https://m.media-amazon.com/images/I/51Zsh839PzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073F6V5BT-es JIM S STORE Conjuntos de Patinaje Infantil Consta de...'
 sku: 'B073F6V5BT-es'
 tags: [ 'bicicleta', ]

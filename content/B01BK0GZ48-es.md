@@ -5,7 +5,7 @@ date: 2020-04-18 02:06:22
 image: 'https://m.media-amazon.com/images/I/41q7aUxoLAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BK0GZ48-es Lego Star Wars Minifigur C-3PO out of set 75136 sw700'
 sku: 'B01BK0GZ48-es'
 tags: [ 'lego', ]

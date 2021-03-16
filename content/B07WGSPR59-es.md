@@ -5,7 +5,7 @@ date: 2020-01-22 15:25:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EGl4SaxZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGSPR59-es YGJT Bicicletas sin Pedales para niños 1 Año 10-36 Meses...'
 sku: 'B07WGSPR59-es'
 tags: [ 'juguetes', ]

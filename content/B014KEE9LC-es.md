@@ -5,7 +5,7 @@ date: 2020-04-06 07:44:27
 image: 'https://m.media-amazon.com/images/I/515+uxkzw-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014KEE9LC-es Mattel Fisher-Price-Xilófono de Arrastre Juguete Musical...'
 sku: 'B014KEE9LC-es'
 tags: [ 'mattel', ]

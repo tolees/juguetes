@@ -5,7 +5,7 @@ date: 2020-04-18 02:47:00
 image: 'https://m.media-amazon.com/images/I/41oY0ghy2aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792GRXRZ-es Pinypon - Figurita Serie 8 pack B Famosa 700014103'
 sku: 'B0792GRXRZ-es'
 tags: [ 'famosa','pinypon', ]

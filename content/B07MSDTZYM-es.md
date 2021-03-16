@@ -5,7 +5,7 @@ date: 2020-08-06 15:23:02
 image: 'https://m.media-amazon.com/images/I/51TcxHwukbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSDTZYM-es CCLIFE Esterilla Puzzle de Fitness 60x60x1cm 30x30x1cm...'
 sku: 'B07MSDTZYM-es'
 tags: [ 'puzzle', ]

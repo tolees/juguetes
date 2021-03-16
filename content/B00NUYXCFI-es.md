@@ -5,7 +5,7 @@ date: 2020-09-04 12:04:58
 image: 'https://m.media-amazon.com/images/I/61SuoP6K6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NUYXCFI-es Lego Batman 3: Mas Allá De Gotham Estándar'
 sku: 'B00NUYXCFI-es'
 tags: [ 'lego', ]

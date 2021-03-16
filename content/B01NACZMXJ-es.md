@@ -5,7 +5,7 @@ date: 2020-03-31 10:04:09
 image: 'https://m.media-amazon.com/images/I/41V7cYzM5nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NACZMXJ-es SportPlus SP-ET-9600-iE Bicicleta Elíptica con Aplicación...'
 sku: 'B01NACZMXJ-es'
 tags: [ 'bicicleta', ]

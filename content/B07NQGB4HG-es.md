@@ -5,7 +5,7 @@ date: 2020-05-27 13:22:08
 image: 'https://m.media-amazon.com/images/I/517PI-nD1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQGB4HG-es Polly Pocket Centro Comercial de juguete para muñecas...'
 sku: 'B07NQGB4HG-es'
 tags: [ 'pocket','polly', ]

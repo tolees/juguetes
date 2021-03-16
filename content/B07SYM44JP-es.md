@@ -5,7 +5,7 @@ date: 2020-04-01 21:09:08
 image: 'https://m.media-amazon.com/images/I/61YKZZYtPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYM44JP-es Ravensburger - Puzzle Paw Patrol pack de 4 03029'
 sku: 'B07SYM44JP-es'
 tags: [ 'puzzle','ravensburger', ]

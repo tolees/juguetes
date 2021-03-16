@@ -5,7 +5,7 @@ date: 2020-04-09 10:07:43
 image: 'https://m.media-amazon.com/images/I/51inCfO2HdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZYOFAY-es Nerf - Lanzadardos Mega Mastodon Hasbro B8086EU4'
 sku: 'B01CZYOFAY-es'
 tags: [ 'hasbro','nerf', ]

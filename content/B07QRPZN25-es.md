@@ -5,7 +5,7 @@ date: 2020-07-20 05:07:52
 image: 'https://m.media-amazon.com/images/I/31-1GscfP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRPZN25-es ATOPDREAM 3-10 Años Juguetes Niño Juguetes para Chicos...'
 sku: 'B07QRPZN25-es'
 tags: [ 'juguetes', ]

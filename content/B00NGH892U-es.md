@@ -5,7 +5,7 @@ date: 2020-08-14 11:00:53
 image: 'https://m.media-amazon.com/images/I/31KtMpVi+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGH892U-es GEMVIE Flotador de Espalda para Niños Ayuda Aprendizaje...'
 sku: 'B00NGH892U-es'
 tags: [ 'flotador', ]

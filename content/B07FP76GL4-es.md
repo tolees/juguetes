@@ -5,7 +5,7 @@ date: 2020-06-14 21:17:14
 image: 'https://m.media-amazon.com/images/I/51YaiJl7PZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP76GL4-es LEGO Ninjago Spinjitzu Lloyd vs. Garmadon - Peonzas de...'
 sku: 'B07FP76GL4-es'
 tags: [ 'lego', ]

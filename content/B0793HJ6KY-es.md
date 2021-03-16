@@ -5,7 +5,7 @@ date: 2020-03-23 17:35:23
 image: 'https://m.media-amazon.com/images/I/61-vi9omslL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793HJ6KY-es Educa Borrás Puzzle 1.000 Piezas Billetes del Mundo 17659'
 sku: 'B0793HJ6KY-es'
 tags: [ 'puzzle', ]

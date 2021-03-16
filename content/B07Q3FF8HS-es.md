@@ -5,7 +5,7 @@ date: 2020-08-11 23:14:30
 image: 'https://m.media-amazon.com/images/I/51ReH1jQf5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3FF8HS-es Sylvanian Families - 5365 - La mansión de Stella'
 sku: 'B07Q3FF8HS-es'
 tags: [ 'families','sylvanian', ]

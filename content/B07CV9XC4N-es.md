@@ -5,7 +5,7 @@ date: 2020-08-09 08:48:36
 image: 'https://m.media-amazon.com/images/I/51-ines02JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CV9XC4N-es himaly Mini Bicicleta de Ejercicio portátil casa Pedal...'
 sku: 'B07CV9XC4N-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:17:07
 image: 'https://m.media-amazon.com/images/I/516YCeCFAiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNMXFQG-es LEGO Friends - Buggy y Remolque de Stephanie juguete de...'
 sku: 'B07FNMXFQG-es'
 tags: [ 'bicicleta','lego', ]

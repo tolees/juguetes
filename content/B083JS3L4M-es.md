@@ -5,7 +5,7 @@ date: 2020-06-30 23:21:36
 image: 'https://m.media-amazon.com/images/I/51P6ZieToHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JS3L4M-es HASAGEI Soporte Movil Bici para 4.5" -7.2" Smartphones...'
 sku: 'B083JS3L4M-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 16:24:55
 image: 'https://m.media-amazon.com/images/I/51yhfbsFEDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QNP4C5-es MEGA- Carrito Encajabloques Juguete de Bloques de Constr...'
 sku: 'B079QNP4C5-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 07:11:41
 image: 'https://m.media-amazon.com/images/I/51IxgKnQaYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082W21ZXP-es Ucradle 2 Pack Pistolas de Agua Chorro de Agua Squirt Gun...'
 sku: 'B082W21ZXP-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:54:06
 image: 'https://m.media-amazon.com/images/I/61Q-Pkeq9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTI9ING-es Pinypon- Figuras Color Pirata Gorro Azul Miscelanea Famosa...'
 sku: 'B01LTI9ING-es'
 tags: [ 'famosa','pinypon-', ]

@@ -5,7 +5,7 @@ date: 2020-02-17 10:43:04
 image: 'https://m.media-amazon.com/images/I/61HADIXPVVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YX78I4G-es Ravensburger Disney Princess Mini Memoria'
 sku: 'B00YX78I4G-es'
 tags: [ 'ravensburger', ]

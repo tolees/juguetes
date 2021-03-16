@@ -5,7 +5,7 @@ date: 2020-06-11 00:35:19
 image: 'https://m.media-amazon.com/images/I/51kSLA4Pi5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N37ZGVE-es Educa - Puzzles Progresivos puzzle infantil De Mayor...'
 sku: 'B01N37ZGVE-es'
 tags: [ 'puzzle', ]

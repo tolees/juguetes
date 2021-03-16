@@ -5,7 +5,7 @@ date: 2020-03-11 16:02:51
 image: 'https://m.media-amazon.com/images/I/51zbEuDuhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHR2LFW-es Chanos Chanos Peppa Pig Safety Runner PoE Transparent...'
 sku: 'B07HHR2LFW-es'
 tags: [ 'peppa','pig', ]

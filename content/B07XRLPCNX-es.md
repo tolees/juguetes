@@ -5,7 +5,7 @@ date: 2020-04-14 00:21:07
 image: 'https://m.media-amazon.com/images/I/41Aufj9l-DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRLPCNX-es Tnfeeon Juego de Entrenamiento de Memoria Juego de Memoria...'
 sku: 'B07XRLPCNX-es'
 tags: [ 'rompecabezas', ]

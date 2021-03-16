@@ -5,7 +5,7 @@ date: 2020-05-26 11:20:11
 image: 'https://m.media-amazon.com/images/I/51Pm75h7emL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXHGM66-es Espejos Retrovisores de Moto 7/8’’Retrovisores Moto...'
 sku: 'B07VXHGM66-es'
 tags: [ 'bicicleta', ]

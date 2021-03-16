@@ -5,7 +5,7 @@ date: 2020-08-17 07:45:23
 image: 'https://m.media-amazon.com/images/I/51Bhw042OAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLNLBJG-es Star Wars 8 Deluxe Delta 1 Multicolor Hasbro C1439EU4'
 sku: 'B06WLNLBJG-es'
 tags: [ 'hasbro', ]

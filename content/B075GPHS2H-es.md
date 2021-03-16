@@ -5,7 +5,7 @@ date: 2020-03-04 22:41:15
 image: 'https://m.media-amazon.com/images/I/51utd08XfGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GPHS2H-es LEGO DUPLO - Primer Puzzle de Mascotas Juguete Preescolar...'
 sku: 'B075GPHS2H-es'
 tags: [ 'lego','puzzle', ]

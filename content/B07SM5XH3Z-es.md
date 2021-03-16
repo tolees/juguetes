@@ -5,7 +5,7 @@ date: 2020-06-27 19:40:02
 image: 'https://m.media-amazon.com/images/I/41s4uzlm5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM5XH3Z-es mysunny Juguetes de Cocina de Madera para niños Juguete...'
 sku: 'B07SM5XH3Z-es'
 tags: [ 'juguetes', ]

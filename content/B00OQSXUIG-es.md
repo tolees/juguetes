@@ -5,7 +5,7 @@ date: 2020-06-03 20:12:27
 image: 'https://m.media-amazon.com/images/I/41AmQXZm+7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OQSXUIG-es Feber - Tobogán Con Rampa De 107cm Famosa 800009593'
 sku: 'B00OQSXUIG-es'
 tags: [ 'famosa','feber', ]

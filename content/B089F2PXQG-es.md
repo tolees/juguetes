@@ -5,7 +5,7 @@ date: 2020-08-23 10:46:54
 image: 'https://m.media-amazon.com/images/I/41XMDPWNMyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089F2PXQG-es SYOSIN Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B089F2PXQG-es'
 tags: [ 'bicicleta', ]

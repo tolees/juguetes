@@ -5,7 +5,7 @@ date: 2020-08-16 10:06:25
 image: 'https://m.media-amazon.com/images/I/41vuEalB1LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7FKD95-es Bammax Alfombra Puzzle Bebe Alfombra Gateo Bebe en Espuma...'
 sku: 'B07Q7FKD95-es'
 tags: [ 'puzzle', ]

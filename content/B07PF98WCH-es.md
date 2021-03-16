@@ -5,7 +5,7 @@ date: 2020-06-25 17:45:36
 image: 'https://m.media-amazon.com/images/I/51uEzQmOvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PF98WCH-es Symiu Juego baño DIY Juego Pista de Agua de Circuito...'
 sku: 'B07PF98WCH-es'
 tags: [ 'juguetes', ]

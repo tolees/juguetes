@@ -5,7 +5,7 @@ date: 2020-06-16 14:46:16
 image: 'https://m.media-amazon.com/images/I/41dEUQ8nqxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGKZSCF-es Hot Wheels - Track Builder pack de accesorios para pistas...'
 sku: 'B07CGKZSCF-es'
 tags: [ 'mattel', ]

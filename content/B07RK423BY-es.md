@@ -5,7 +5,7 @@ date: 2020-06-12 13:12:33
 image: 'https://m.media-amazon.com/images/I/51iPDr6VZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK423BY-es Toy Story Figura Buzz Lightyear Acción Karate 30 cm BIZAK...'
 sku: 'B07RK423BY-es'
 tags: [ 'bizak', ]

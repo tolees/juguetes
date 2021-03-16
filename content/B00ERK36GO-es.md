@@ -5,7 +5,7 @@ date: 2020-06-19 16:31:28
 image: 'https://m.media-amazon.com/images/I/51DglhAQ6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ERK36GO-es Simba - Juguete de playa 107110558 color/modelo surtido'
 sku: 'B00ERK36GO-es'
 tags: [ 'simba', ]

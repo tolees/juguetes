@@ -5,7 +5,7 @@ date: 2020-10-11 17:51:33
 image: 'https://m.media-amazon.com/images/I/51EaA7Cf+kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKK17L2-es Bolsas de malla reutilizables TopBine 12 unidades lavables...'
 sku: 'B07TKK17L2-es'
 tags: [ 'juguetes', ]

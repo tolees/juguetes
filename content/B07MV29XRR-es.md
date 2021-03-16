@@ -5,7 +5,7 @@ date: 2020-06-01 15:47:24
 image: 'https://m.media-amazon.com/images/I/51T8C+QtGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV29XRR-es Avengers - Hacha Electrónica Thor Hasbro E0617EU6'
 sku: 'B07MV29XRR-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-08-16 21:44:06
 image: 'https://m.media-amazon.com/images/I/61d70OfzmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0104BKFU4-es Sylvanian Families 5242 Cosy Cottage Starter Home Mini...'
 sku: 'B0104BKFU4-es'
 tags: [ 'families','sylvanian', ]

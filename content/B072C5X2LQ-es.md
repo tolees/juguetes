@@ -5,7 +5,7 @@ date: 2020-07-22 17:46:56
 image: 'https://m.media-amazon.com/images/I/41na3gnfZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072C5X2LQ-es Nancy - Colección Novia diseñada por Ion Fiz 700013524'
 sku: 'B072C5X2LQ-es'
 tags: [ 'nancy', ]

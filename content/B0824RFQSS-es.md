@@ -5,7 +5,7 @@ date: 2020-07-28 08:45:37
 image: 'https://m.media-amazon.com/images/I/51D3e+7MsyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824RFQSS-es Playskool Heroes- Mega Mighties Avengers Capitana Marvel...'
 sku: 'B0824RFQSS-es'
 tags: [ 'hasbro', ]

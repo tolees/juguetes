@@ -5,7 +5,7 @@ date: 2020-06-04 19:21:25
 image: 'https://m.media-amazon.com/images/I/51fYqGU0zpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W2G32JK-es Pinypon Pack 2 mascotas mariposa y oveja. Famosa 700012732'
 sku: 'B06W2G32JK-es'
 tags: [ 'famosa','pinypon', ]

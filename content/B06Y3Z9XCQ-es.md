@@ -5,7 +5,7 @@ date: 2020-04-14 00:15:11
 image: 'https://m.media-amazon.com/images/I/51sqyQoUnOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3Z9XCQ-es Mega Bloks- Luau Dave Build-A-Minion Despicable Me Minions...'
 sku: 'B06Y3Z9XCQ-es'
 tags: [ 'bloks','mattel','mega', ]

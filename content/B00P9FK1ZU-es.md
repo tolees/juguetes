@@ -5,7 +5,7 @@ date: 2020-01-03 09:51:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W01XK8URL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P9FK1ZU-es Mega Bloks Camión golpetones juguete de construcción para...'
 sku: 'B00P9FK1ZU-es'
 tags: [ 'bloks','mattel','mega', ]

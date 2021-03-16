@@ -5,7 +5,7 @@ date: 2020-03-05 22:52:13
 image: 'https://m.media-amazon.com/images/I/61oOzAnZsDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GWBB8F-es LEGO DUPLO Town - Establo de los Ponis Juguete de...'
 sku: 'B075GWBB8F-es'
 tags: [ 'lego', ]

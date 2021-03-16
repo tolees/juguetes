@@ -5,7 +5,7 @@ date: 2020-04-10 00:35:19
 image: 'https://m.media-amazon.com/images/I/51Hl4Riz36L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG2C1DS-es Socialme-eu 8 Piezas Videojuego Logico Grillete Juego de...'
 sku: 'B07HG2C1DS-es'
 tags: [ 'juguetes','rompecabezas', ]

@@ -5,7 +5,7 @@ date: 2020-08-26 11:42:07
 image: 'https://m.media-amazon.com/images/I/61YgvbGskYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HCHVYR-es Educa Borras - Genuine Puzzles Puzzle 2.000 piezas El...'
 sku: 'B084HCHVYR-es'
 tags: [ 'puzzle', ]

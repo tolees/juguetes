@@ -5,7 +5,7 @@ date: 2020-08-27 09:44:25
 image: 'https://m.media-amazon.com/images/I/51vB62sZ8AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HYWCLV-es Mattel Phase 10 Juego de Cartas'
 sku: 'B077HYWCLV-es'
 tags: [ 'cartas','de','juego','mattel', ]

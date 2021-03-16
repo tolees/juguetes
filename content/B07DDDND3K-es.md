@@ -5,7 +5,7 @@ date: 2020-04-17 09:31:43
 image: 'https://m.media-amazon.com/images/I/41CXwyac-RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDDND3K-es Jaggets - Snow Surprise Mini Model Famosa 700014723'
 sku: 'B07DDDND3K-es'
 tags: [ 'famosa', ]

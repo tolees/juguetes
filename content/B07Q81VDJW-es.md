@@ -5,7 +5,7 @@ date: 2020-07-12 16:45:26
 image: 'https://m.media-amazon.com/images/I/41oQ6Wa+qKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q81VDJW-es GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo...'
 sku: 'B07Q81VDJW-es'
 tags: [ 'flotador', ]

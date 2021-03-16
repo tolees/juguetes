@@ -5,7 +5,7 @@ date: 2020-05-19 09:05:29
 image: 'https://m.media-amazon.com/images/I/412kX7TGKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJFXVKD-es Eono by Amazon Árboles para Gatos rasguña los Postes de...'
 sku: 'B07MJFXVKD-es'
 tags: [ 'juguetes', ]

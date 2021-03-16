@@ -5,7 +5,7 @@ date: 2020-03-05 16:40:55
 image: 'https://m.media-amazon.com/images/I/51yNkp0rQFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XCWTF7-es Juguetes de Baño Niños 3+ Años Juguetes de Natación Playa...'
 sku: 'B075XCWTF7-es'
 tags: [ 'juguetes', ]

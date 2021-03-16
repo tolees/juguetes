@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:20
 image: 'https://m.media-amazon.com/images/I/41+6+d-bwyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QH9SN7-es Amaza 24pcs Squishys Kawaii Squishy Juguetes Squishies...'
 sku: 'B075QH9SN7-es'
 tags: [ 'juguetes', ]

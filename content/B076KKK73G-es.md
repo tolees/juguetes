@@ -5,7 +5,7 @@ date: 2020-07-29 16:31:03
 image: 'https://m.media-amazon.com/images/I/414C9tq6EDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KKK73G-es ROXENDA Velocidad Paquete Cubo Mágico Puzzle Pack-2x2x2...'
 sku: 'B076KKK73G-es'
 tags: [ 'puzzle', ]

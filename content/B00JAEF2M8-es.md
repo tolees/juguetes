@@ -5,7 +5,7 @@ date: 2020-05-22 05:36:40
 image: 'https://m.media-amazon.com/images/I/41dMFnUC6BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JAEF2M8-es Michelin AIRSTOP CARRETERA - Camara de bicicleta 700 x...'
 sku: 'B00JAEF2M8-es'
 tags: [ 'bicicleta', ]

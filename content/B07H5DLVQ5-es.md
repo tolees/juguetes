@@ -5,7 +5,7 @@ date: 2020-04-21 18:31:25
 image: 'https://m.media-amazon.com/images/I/51v69+pHi3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5DLVQ5-es Fournier 1040720 Juego de Cartas Educativo Multicolor'
 sku: 'B07H5DLVQ5-es'
 tags: [ 'cartas','de','juego', ]

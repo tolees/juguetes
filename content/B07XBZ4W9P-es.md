@@ -5,7 +5,7 @@ date: 2020-08-13 06:30:37
 image: 'https://m.media-amazon.com/images/I/41NRjq4smrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBZ4W9P-es Sportneer Under Desk Bike Mini bicicleta de ejercicios de...'
 sku: 'B07XBZ4W9P-es'
 tags: [ 'bicicleta', ]

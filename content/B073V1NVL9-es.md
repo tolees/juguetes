@@ -5,7 +5,7 @@ date: 2020-09-28 14:53:22
 image: 'https://m.media-amazon.com/images/I/41wmukzbTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073V1NVL9-es RIXOW Cubierta de Asiento de Bicicleta Sillín de Bicicleta...'
 sku: 'B073V1NVL9-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-09-26 02:43:40
 image: 'https://m.media-amazon.com/images/I/51aB5V80gWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXGRMDC-es Moxilyn Ropa de Ciclismo para Hombre Traje de Bicicleta...'
 sku: 'B07VXGRMDC-es'
 tags: [ 'bicicleta', ]

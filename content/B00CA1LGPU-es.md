@@ -5,7 +5,7 @@ date: 2020-01-13 14:50:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41A9ArU3IAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CA1LGPU-es WeeRide 86459 Bicicleta Remolque Copilot Unisex Rosa M'
 sku: 'B00CA1LGPU-es'
 tags: [ 'bicicleta', ]

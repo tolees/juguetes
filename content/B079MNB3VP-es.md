@@ -5,7 +5,7 @@ date: 2020-07-26 22:56:36
 image: 'https://m.media-amazon.com/images/I/51XIR8khnEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MNB3VP-es Monopoly- Junior Electronico Versión Española Hasbro E1842105'
 sku: 'B079MNB3VP-es'
 tags: [ 'hasbro', ]

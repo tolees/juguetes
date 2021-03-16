@@ -5,7 +5,7 @@ date: 2020-04-16 09:20:04
 image: 'https://m.media-amazon.com/images/I/51OIk-i7ltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRDPAQ-es SYLVANIAN FAMILIES Día en la Playa Epoch para Imaginar 4870'
 sku: 'B00HRRDPAQ-es'
 tags: [ 'families','sylvanian', ]

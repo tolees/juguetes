@@ -5,7 +5,7 @@ date: 2020-09-01 06:02:46
 image: 'https://m.media-amazon.com/images/I/51ZWktrXsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BM8RCB-es TOP BRIGHT Juguete de Carrera de Coches para Niños...'
 sku: 'B079BM8RCB-es'
 tags: [ 'juguetes', ]

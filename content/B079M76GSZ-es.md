@@ -5,7 +5,7 @@ date: 2020-04-18 02:46:47
 image: 'https://m.media-amazon.com/images/I/41hyqu8VjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079M76GSZ-es Pinypon- Niños y Bebés Pack B Famosa 700014032'
 sku: 'B079M76GSZ-es'
 tags: [ 'famosa','pinypon-', ]

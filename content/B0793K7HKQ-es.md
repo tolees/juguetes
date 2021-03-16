@@ -5,7 +5,7 @@ date: 2020-03-24 12:45:37
 image: 'https://m.media-amazon.com/images/I/6122JL028PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793K7HKQ-es Educa Borrás- Serie Puzzle 500 Piezas Princesas Disney 17723'
 sku: 'B0793K7HKQ-es'
 tags: [ 'puzzle', ]

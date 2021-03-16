@@ -5,7 +5,7 @@ date: 2020-04-01 05:55:22
 image: 'https://m.media-amazon.com/images/I/51c+eKE7kwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNS6P74-es LEGO La LEGO Película 2 - Todoterreno Rextremo de Rex set...'
 sku: 'B07FNS6P74-es'
 tags: [ 'lego', ]

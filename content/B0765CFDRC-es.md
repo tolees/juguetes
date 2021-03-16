@@ -5,7 +5,7 @@ date: 2020-03-09 06:51:33
 image: 'https://m.media-amazon.com/images/I/61oHG7CgDlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765CFDRC-es LEGO Friends - Cafetería de Pilotos Juguete con Mini...'
 sku: 'B0765CFDRC-es'
 tags: [ 'lego', ]

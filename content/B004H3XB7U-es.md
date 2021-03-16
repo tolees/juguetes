@@ -5,7 +5,7 @@ date: 2020-09-15 10:24:51
 image: 'https://m.media-amazon.com/images/I/41X2JayT2hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004H3XB7U-es Intex 56585EU - Flotador hinchable bebé 70 cm circular de...'
 sku: 'B004H3XB7U-es'
 tags: [ 'flotador', ]

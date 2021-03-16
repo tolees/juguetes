@@ -5,7 +5,7 @@ date: 2020-10-09 23:04:26
 image: 'https://m.media-amazon.com/images/I/514z9Si0fQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFFTKZ7-es SUPRBIRD Juguete de Paracaídas 10 Piezas Juguete...'
 sku: 'B07ZFFTKZ7-es'
 tags: [ 'juguetes', ]

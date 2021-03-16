@@ -5,7 +5,7 @@ date: 2020-05-06 20:02:00
 image: 'https://m.media-amazon.com/images/I/41mXx9yQzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08581TCGL-es DC Comics Figura Acción Liga de la Justicia 30 cm....'
 sku: 'B08581TCGL-es'
 tags: [ 'bizak', ]

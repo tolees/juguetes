@@ -5,7 +5,7 @@ date: 2020-04-04 20:53:09
 image: 'https://m.media-amazon.com/images/I/41XDmaSHclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006LXCHWY-es Nenuco - Pañales de Colores Famosa 700009027'
 sku: 'B006LXCHWY-es'
 tags: [ 'famosa', ]

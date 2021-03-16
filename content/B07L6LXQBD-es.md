@@ -5,7 +5,7 @@ date: 2020-10-06 10:25:14
 image: 'https://m.media-amazon.com/images/I/51-JU0DfIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6LXQBD-es Ravensburger-15168 Ravensburger Banks of The Seine-Puzzle...'
 sku: 'B07L6LXQBD-es'
 tags: [ 'ravensburger', ]

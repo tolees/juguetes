@@ -5,7 +5,7 @@ date: 2020-04-07 22:17:41
 image: 'https://m.media-amazon.com/images/I/41SyeH32N6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRV23BX-es Aprettysunny Bicicleta Motocicleta Cadena Limpiador...'
 sku: 'B07SRV23BX-es'
 tags: [ 'bicicleta', ]

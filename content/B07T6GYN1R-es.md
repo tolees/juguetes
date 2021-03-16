@@ -5,7 +5,7 @@ date: 2020-01-23 12:04:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pxxuZ-swL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6GYN1R-es Disney- Frozen 2 Mini Muñecas Escena Familiar Hasbro E6913ES0'
 sku: 'B07T6GYN1R-es'
 tags: [ 'hasbro', ]

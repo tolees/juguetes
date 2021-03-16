@@ -5,7 +5,7 @@ date: 2020-02-01 01:35:41
 image: 'https://m.media-amazon.com/images/I/41xJI3rkZSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M66U3GP-es RYBit Set de 9 Bolsas de Malla Reutilizables +1 Bolsa de...'
 sku: 'B01M66U3GP-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-08-26 23:03:35
 image: 'https://m.media-amazon.com/images/I/51S4ynB+VBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LYSBV6-es Jacootoys Rampa de Carrera para Niños de 1 a 2 Años Juegos...'
 sku: 'B088LYSBV6-es'
 tags: [ 'juguetes', ]

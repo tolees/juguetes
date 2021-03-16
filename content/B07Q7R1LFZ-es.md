@@ -5,7 +5,7 @@ date: 2020-10-09 15:20:43
 image: 'https://m.media-amazon.com/images/I/51GaScwtVWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7R1LFZ-es Avengers Titan Hero FX Capitán América Hasbro E3301105'
 sku: 'B07Q7R1LFZ-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-01-01 18:56:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vUKGJRhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGV33XC-es Bolsa de Almacenamiento de Juguetes para niños Alfombra de...'
 sku: 'B07BGV33XC-es'
 tags: [ 'juguetes', ]

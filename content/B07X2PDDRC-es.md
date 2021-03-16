@@ -5,7 +5,7 @@ date: 2020-07-16 02:42:30
 image: 'https://m.media-amazon.com/images/I/511qXslyldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2PDDRC-es Pizarra Magnetica Infantil 135 Piezas Puzzle Rompecabezas...'
 sku: 'B07X2PDDRC-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 05:27:58
 image: 'https://m.media-amazon.com/images/I/51dYO0egcdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077X84HGK-es Alamor 24V 36V 48V Agarre Del Acelerador Giratorio 7/8...'
 sku: 'B077X84HGK-es'
 tags: [ 'bicicleta', ]

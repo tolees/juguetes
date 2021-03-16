@@ -5,7 +5,7 @@ date: 2020-02-20 12:33:59
 image: 'https://m.media-amazon.com/images/I/61RhlGtphSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073BFFMGR-es Hasbro - Juego «¿Quién es Quién?»Juego clásico.'
 sku: 'B073BFFMGR-es'
 tags: [ 'hasbro', ]

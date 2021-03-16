@@ -5,7 +5,7 @@ date: 2020-04-16 00:27:48
 image: 'https://m.media-amazon.com/images/I/51uhp9Pf9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9YFKRO-es Cefa Toys- Equipo Profesional de Geólogo Stream Multicolor...'
 sku: 'B01K9YFKRO-es'
 tags: [ 'cefa', ]

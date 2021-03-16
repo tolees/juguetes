@@ -5,7 +5,7 @@ date: 2020-07-14 16:15:52
 image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z3WNF3-es Supersoaker Splash Mouth Hasbro E0021EU4 color/modelo surtido'
 sku: 'B075Z3WNF3-es'
 tags: [ 'hasbro', ]

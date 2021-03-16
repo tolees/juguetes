@@ -5,7 +5,7 @@ date: 2020-01-20 18:02:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pR6eWWHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OZJNJK-es FEBER - Woodland Cottage Casita infantil para el jardín...'
 sku: 'B000OZJNJK-es'
 tags: [ 'famosa','feber', ]

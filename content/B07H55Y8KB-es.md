@@ -5,7 +5,7 @@ date: 2020-01-27 21:50:44
 image: 'https://m.media-amazon.com/images/I/41IaIdZXqhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H55Y8KB-es Cinturón de Correr Chuangmeida Riñonera Cinturón Running...'
 sku: 'B07H55Y8KB-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-08-04 07:53:08
 image: 'https://m.media-amazon.com/images/I/417Agh5U8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFH2HHK-es El Rey Leon The Lion King - Peluche Leon Simba Adulto...'
 sku: 'B07SFH2HHK-es'
 tags: [ 'peluche','simba', ]

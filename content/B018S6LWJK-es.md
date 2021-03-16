@@ -5,7 +5,7 @@ date: 2020-10-07 19:07:42
 image: 'https://m.media-amazon.com/images/I/51PP1D9JRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018S6LWJK-es FEBER - See Saw Balancín Famosa 800010240'
 sku: 'B018S6LWJK-es'
 tags: [ 'famosa','feber', ]

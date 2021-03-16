@@ -5,7 +5,7 @@ date: 2020-08-30 15:37:27
 image: 'https://m.media-amazon.com/images/I/51q7sIsuzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0896WS3TH-es Wimypet 4 Piezas Juguetes de Cuerda para Perros Juguetes...'
 sku: 'B0896WS3TH-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-02-06 03:21:16
 image: 'https://m.media-amazon.com/images/I/61ZPqB5C8JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3VWJ58-es LEGO - Starter Pack Dimensions PS3'
 sku: 'B01G3VWJ58-es'
 tags: [ 'lego', ]

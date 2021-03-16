@@ -5,7 +5,7 @@ date: 2020-02-15 08:02:40
 image: 'https://m.media-amazon.com/images/I/515deykwXUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUCUQ91-es Clementoni - Puzzle 2000 Piezas Neuschwanstein 32559'
 sku: 'B01MUCUQ91-es'
 tags: [ 'clementoni','puzzle', ]

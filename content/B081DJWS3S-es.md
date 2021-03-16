@@ -5,7 +5,7 @@ date: 2020-04-21 10:55:38
 image: 'https://m.media-amazon.com/images/I/51F4hBfgQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DJWS3S-es ISUDA Rodilleras Deportivas Rodillera Menisco y...'
 sku: 'B081DJWS3S-es'
 tags: [ 'bicicleta', ]

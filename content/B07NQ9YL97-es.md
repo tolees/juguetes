@@ -5,7 +5,7 @@ date: 2020-06-10 06:09:15
 image: 'https://m.media-amazon.com/images/I/41YvK7miKoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ9YL97-es Barbie National Geographic Quiero Ser Fotógrafa muñeca con...'
 sku: 'B07NQ9YL97-es'
 tags: [ 'barbie','mattel', ]

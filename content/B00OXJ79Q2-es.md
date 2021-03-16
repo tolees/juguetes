@@ -5,7 +5,7 @@ date: 2020-03-14 14:10:09
 image: 'https://m.media-amazon.com/images/I/51CgiO+BK7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OXJ79Q2-es Djeco- Juego de Cartas PIOU Multicolor DJ05119'
 sku: 'B00OXJ79Q2-es'
 tags: [ 'cartas','de','juego', ]

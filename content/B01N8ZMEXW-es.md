@@ -5,7 +5,7 @@ date: 2020-09-04 12:02:34
 image: 'https://m.media-amazon.com/images/I/41bcc592h+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8ZMEXW-es MEISHINE® 3x3x3 Mini Cubo Mágico Inteligencia Juego de...'
 sku: 'B01N8ZMEXW-es'
 tags: [ 'puzzle', ]

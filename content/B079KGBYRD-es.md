@@ -5,7 +5,7 @@ date: 2020-03-31 19:02:52
 image: 'https://m.media-amazon.com/images/I/51YmhyjfnAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KGBYRD-es Polly Pocket Habitación Polly-Transformación casa de...'
 sku: 'B079KGBYRD-es'
 tags: [ 'mattel','pocket','polly', ]

@@ -5,7 +5,7 @@ date: 2020-05-27 16:02:29
 image: 'https://m.media-amazon.com/images/I/41zoacowNeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L952XPD-es SONARIN Lindo Príncipe Alfombras de juego Gimnasio de...'
 sku: 'B07L952XPD-es'
 tags: [ 'juguetes', ]

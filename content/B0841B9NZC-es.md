@@ -5,7 +5,7 @@ date: 2020-01-31 21:23:53
 image: 'https://m.media-amazon.com/images/I/41ehOp6-N4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0841B9NZC-es Juguetes De Doble Experiencia Sin Manos Para Hombres Con...'
 sku: 'B0841B9NZC-es'
 tags: [ 'juguetes', ]

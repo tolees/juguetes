@@ -5,7 +5,7 @@ date: 2020-04-03 08:38:33
 image: 'https://m.media-amazon.com/images/I/4158qqigwXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ117XG-es Revell- Mini RC Racing Car II Juguetes a Control Remoto...'
 sku: 'B07CQ117XG-es'
 tags: [ 'juguetes', ]

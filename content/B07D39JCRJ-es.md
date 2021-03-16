@@ -5,7 +5,7 @@ date: 2020-03-18 23:25:29
 image: 'https://m.media-amazon.com/images/I/519lvkYbzFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D39JCRJ-es Zerodis Linda CogniciónPuzzle Tarjetas En caja de...'
 sku: 'B07D39JCRJ-es'
 tags: [ 'juguetes', ]

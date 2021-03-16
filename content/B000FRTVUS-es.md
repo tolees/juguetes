@@ -5,7 +5,7 @@ date: 2020-04-08 07:46:45
 image: 'https://m.media-amazon.com/images/I/51Pd3dg2OtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000FRTVUS-es Theo Klein-8686 Bosch banco de trabajo en maletín con...'
 sku: 'B000FRTVUS-es'
 tags: [ 'klein','theo', ]

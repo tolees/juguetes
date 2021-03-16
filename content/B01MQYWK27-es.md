@@ -5,7 +5,7 @@ date: 2020-01-21 11:50:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518waYkj3KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQYWK27-es Prodigiosa: Las aventuras de Ladybug - Playset con acción...'
 sku: 'B01MQYWK27-es'
 tags: [ 'bandai', ]

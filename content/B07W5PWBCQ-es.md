@@ -5,7 +5,7 @@ date: 2020-10-09 05:50:35
 image: 'https://m.media-amazon.com/images/I/51Yb77t-2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5PWBCQ-es LEGO DUPLO Town - Cuarto de Juegos Caja con Ladrillos de...'
 sku: 'B07W5PWBCQ-es'
 tags: [ 'lego', ]

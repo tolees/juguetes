@@ -5,7 +5,7 @@ date: 2020-09-11 18:31:49
 image: 'https://m.media-amazon.com/images/I/5168VWqyCJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3SW2ZP-es Coches Juguetes Niños Educativos Vagón De Ferrocarril...'
 sku: 'B08B3SW2ZP-es'
 tags: [ 'juguetes', ]

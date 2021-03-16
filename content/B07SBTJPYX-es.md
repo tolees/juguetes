@@ -5,7 +5,7 @@ date: 2020-05-15 12:48:19
 image: 'https://m.media-amazon.com/images/I/51t+WdK3tFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBTJPYX-es Kriogor Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B07SBTJPYX-es'
 tags: [ 'bicicleta', ]

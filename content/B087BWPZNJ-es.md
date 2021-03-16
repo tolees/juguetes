@@ -5,7 +5,7 @@ date: 2020-08-07 16:01:59
 image: 'https://m.media-amazon.com/images/I/51zZWPRAvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087BWPZNJ-es MUOOUM - Cesta plegable para ropa sucia cesta de ropa...'
 sku: 'B087BWPZNJ-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-09-20 19:37:54
 image: 'https://m.media-amazon.com/images/I/51Hu2iRmIaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084X5MCQT-es YIMINYUER 20 Esterilla de Ejercicios Interconectables...'
 sku: 'B084X5MCQT-es'
 tags: [ 'puzzle', ]

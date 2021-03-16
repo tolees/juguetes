@@ -5,7 +5,7 @@ date: 2020-08-16 12:01:18
 image: 'https://m.media-amazon.com/images/I/61JH9eWEl6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EI7JDEY-es Clementoni - Jugando aprendo descubre España 55119.4'
 sku: 'B01EI7JDEY-es'
 tags: [ 'clementoni', ]

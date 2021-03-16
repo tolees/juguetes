@@ -5,7 +5,7 @@ date: 2020-08-15 17:03:33
 image: 'https://m.media-amazon.com/images/I/51JxHttM8LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BKDXXSR-es /N Cortina de Ducha Wizard Estación de Tren Famosa...'
 sku: 'B08BKDXXSR-es'
 tags: [ 'famosa', ]

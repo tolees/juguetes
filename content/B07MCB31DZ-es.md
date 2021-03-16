@@ -5,7 +5,7 @@ date: 2020-04-26 13:02:19
 image: 'https://m.media-amazon.com/images/I/41ItLxJqxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCB31DZ-es Espejo de Juguete del Asiento Trasero de Fish Pattern para...'
 sku: 'B07MCB31DZ-es'
 tags: [ 'peluche', ]

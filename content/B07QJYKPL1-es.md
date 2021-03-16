@@ -5,7 +5,7 @@ date: 2020-05-30 16:41:01
 image: 'https://m.media-amazon.com/images/I/418FftyxOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJYKPL1-es Yizhet 12 x Adaptador de Valvula de Bici Bicicleta válvula...'
 sku: 'B07QJYKPL1-es'
 tags: [ 'bicicleta', ]

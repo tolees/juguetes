@@ -5,7 +5,7 @@ date: 2020-06-29 18:46:50
 image: 'https://m.media-amazon.com/images/I/518HVm9HiWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0199GJIYO-es Shopkins- Disney Puzzle Color única Giochi Preziosi Spagna...'
 sku: 'B0199GJIYO-es'
 tags: [ 'puzzle', ]

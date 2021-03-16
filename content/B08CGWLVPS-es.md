@@ -5,7 +5,7 @@ date: 2020-07-22 18:02:48
 image: 'https://m.media-amazon.com/images/I/41O02vFWlKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGWLVPS-es Molyflower Tableta de Dibujo LCD para niños Magic Pad...'
 sku: 'B08CGWLVPS-es'
 tags: [ 'juguetes', ]

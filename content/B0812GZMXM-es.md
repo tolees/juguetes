@@ -5,7 +5,7 @@ date: 2020-07-19 15:02:15
 image: 'https://m.media-amazon.com/images/I/51tj-xfK1cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812GZMXM-es STAR WARS- E9 Figura Boba Fett Hasbro E3811ES0'
 sku: 'B0812GZMXM-es'
 tags: [ 'hasbro', ]

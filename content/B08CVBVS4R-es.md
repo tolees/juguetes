@@ -5,7 +5,7 @@ date: 2020-09-20 09:45:43
 image: 'https://m.media-amazon.com/images/I/51McTk7dgLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVBVS4R-es Molyflower Hipopótamo Hambriento Que traga mármoles...'
 sku: 'B08CVBVS4R-es'
 tags: [ 'juguetes', ]

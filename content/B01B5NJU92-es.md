@@ -5,7 +5,7 @@ date: 2020-01-08 20:57:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iTAxdXyiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B5NJU92-es Clementoni - Puzzle 1500 Piezas Caballos 31676'
 sku: 'B01B5NJU92-es'
 tags: [ 'clementoni','puzzle', ]

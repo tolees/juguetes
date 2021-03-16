@@ -5,7 +5,7 @@ date: 2020-08-16 15:42:18
 image: 'https://m.media-amazon.com/images/I/51HaUMjI3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX1W94X-es Ravensburger - Puzzle 3D Olaf Frozen 2 11157'
 sku: 'B07RX1W94X-es'
 tags: [ 'puzzle','ravensburger', ]

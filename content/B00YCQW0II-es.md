@@ -5,7 +5,7 @@ date: 2020-05-13 13:19:09
 image: 'https://m.media-amazon.com/images/I/41dxespVkZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YCQW0II-es VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos Color...'
 sku: 'B00YCQW0II-es'
 tags: [ 'vtech-', ]

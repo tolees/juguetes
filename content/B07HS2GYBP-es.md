@@ -5,7 +5,7 @@ date: 2020-04-12 18:45:43
 image: 'https://m.media-amazon.com/images/I/31yU+K20hHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS2GYBP-es Plastimyr Peppa Pig - Orinal unisex color gris claro'
 sku: 'B07HS2GYBP-es'
 tags: [ 'peppa','pig', ]

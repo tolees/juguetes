@@ -5,7 +5,7 @@ date: 2020-08-15 09:14:38
 image: 'https://m.media-amazon.com/images/I/51tfEIYxIbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ4Y8MW-es Ravensburger - Puzzle 3D Autobùs noctàmbulo Harry Potter...'
 sku: 'B07PJ4Y8MW-es'
 tags: [ 'puzzle','ravensburger', ]

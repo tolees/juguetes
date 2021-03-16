@@ -5,7 +5,7 @@ date: 2020-07-30 21:26:32
 image: 'https://m.media-amazon.com/images/I/41LFy1AcEjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4P2D3N-es Baomay Botella de Agua Frio : Termo de Acero Inoxidable -...'
 sku: 'B07Y4P2D3N-es'
 tags: [ 'bicicleta', ]

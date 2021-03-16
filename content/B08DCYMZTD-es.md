@@ -5,7 +5,7 @@ date: 2020-08-17 15:11:35
 image: 'https://m.media-amazon.com/images/I/61q5-OvV1YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCYMZTD-es VATOS Jigsaw Puzzle 1000 Piezas para Adultos Niños...'
 sku: 'B08DCYMZTD-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]

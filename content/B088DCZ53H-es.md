@@ -5,7 +5,7 @@ date: 2020-07-12 13:34:18
 image: 'https://m.media-amazon.com/images/I/61LMPWfGmyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088DCZ53H-es Regalos de Cumpleaños para Niñas de 3 a 7 Años Flores...'
 sku: 'B088DCZ53H-es'
 tags: [ 'juguetes', ]

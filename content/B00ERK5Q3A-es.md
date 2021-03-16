@@ -5,7 +5,7 @@ date: 2020-05-24 19:37:24
 image: 'https://m.media-amazon.com/images/I/51gP6wGXG4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ERK5Q3A-es Hot Wheels Shifters Vehículos de colección Color Shifter...'
 sku: 'B00ERK5Q3A-es'
 tags: [ 'juguetes','mattel', ]

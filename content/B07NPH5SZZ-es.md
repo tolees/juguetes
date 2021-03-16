@@ -5,7 +5,7 @@ date: 2020-01-22 15:40:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51C8g6g2kvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPH5SZZ-es yoptote Caja Registradora Juguetes Supermercado Infantil...'
 sku: 'B07NPH5SZZ-es'
 tags: [ 'juguetes', ]

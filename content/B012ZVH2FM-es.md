@@ -5,7 +5,7 @@ date: 2020-04-11 16:51:22
 image: 'https://m.media-amazon.com/images/I/51gc54l8znL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012ZVH2FM-es ZJchao Bolsa de almacenamiento- Ideal para Lego Duplo y...'
 sku: 'B012ZVH2FM-es'
 tags: [ 'juguetes','lego', ]

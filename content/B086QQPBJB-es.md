@@ -5,7 +5,7 @@ date: 2020-08-18 09:26:32
 image: 'https://m.media-amazon.com/images/I/51Q1W2b5dhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QQPBJB-es Rolimate Rompecabezas de Madera para niños Rompecabezas de...'
 sku: 'B086QQPBJB-es'
 tags: [ 'juguetes','rompecabezas', ]

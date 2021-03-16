@@ -5,7 +5,7 @@ date: 2020-05-06 19:02:02
 image: 'https://m.media-amazon.com/images/I/51rGW0qpNyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNS9YRS-es LEGO Friends - Caja Corazón de Stephanie divertido set de...'
 sku: 'B07FNS9YRS-es'
 tags: [ 'lego', ]

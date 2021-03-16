@@ -5,7 +5,7 @@ date: 2020-09-23 00:20:33
 image: 'https://m.media-amazon.com/images/I/51xRV0ImnDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLF21QZ-es HUYIYI Puzzles de Madera de Animales Puzzles Infantiles...'
 sku: 'B08GLF21QZ-es'
 tags: [ 'juguetes','rompecabezas', ]

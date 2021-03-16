@@ -5,7 +5,7 @@ date: 2020-06-21 11:39:48
 image: 'https://m.media-amazon.com/images/I/41daOkgvm0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0142MCE0K-es dc comics Mattel Wonder Woman 30 cm'
 sku: 'B0142MCE0K-es'
 tags: [ 'mattel', ]

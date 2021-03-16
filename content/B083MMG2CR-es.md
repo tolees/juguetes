@@ -5,7 +5,7 @@ date: 2020-07-12 11:22:27
 image: 'https://m.media-amazon.com/images/I/5141zTAiHLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MMG2CR-es Star Wars - Figura Han Solo Carbonite de Black Series...'
 sku: 'B083MMG2CR-es'
 tags: [ 'hasbro', ]

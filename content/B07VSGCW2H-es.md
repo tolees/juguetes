@@ -5,7 +5,7 @@ date: 2020-06-30 10:47:08
 image: 'https://m.media-amazon.com/images/I/51YTStCCKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSGCW2H-es Akokie Dinosaurios Juguetes Puzzle Juegos de Construccion...'
 sku: 'B07VSGCW2H-es'
 tags: [ 'juguetes','puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 15:17:35
 image: 'https://m.media-amazon.com/images/I/41KNvwp4OnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7PC6T7-es HoneyHolly Botella de Agua Acero Inoxidable 350ml...'
 sku: 'B07Z7PC6T7-es'
 tags: [ 'bicicleta', ]

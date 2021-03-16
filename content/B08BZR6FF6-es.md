@@ -5,7 +5,7 @@ date: 2020-07-11 19:57:17
 image: 'https://m.media-amazon.com/images/I/41qBra3GTZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZR6FF6-es LoveOlvidoF Tableta de Dibujo LCD para niños Magic Pad...'
 sku: 'B08BZR6FF6-es'
 tags: [ 'juguetes', ]

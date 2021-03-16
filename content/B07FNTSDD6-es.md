@@ -5,7 +5,7 @@ date: 2020-08-28 05:46:58
 image: 'https://m.media-amazon.com/images/I/51y-KBR0VHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNTSDD6-es LEGO Duplo Town - Camión de Bomberos Juguete de...'
 sku: 'B07FNTSDD6-es'
 tags: [ 'lego', ]

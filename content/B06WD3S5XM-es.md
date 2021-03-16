@@ -5,7 +5,7 @@ date: 2020-04-17 08:36:02
 image: 'https://m.media-amazon.com/images/I/51QnkVRYFqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD3S5XM-es LEGO Ninjago - Jet del Rayo Juguete de Construcción Ninja...'
 sku: 'B06WD3S5XM-es'
 tags: [ 'lego', ]

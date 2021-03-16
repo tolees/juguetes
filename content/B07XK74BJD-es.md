@@ -5,7 +5,7 @@ date: 2020-07-19 10:30:04
 image: 'https://m.media-amazon.com/images/I/61I+SvM8clL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XK74BJD-es Longruner Abalorios Cuentas de Hierro fusibles 12000 PCS...'
 sku: 'B07XK74BJD-es'
 tags: [ 'juguetes', ]

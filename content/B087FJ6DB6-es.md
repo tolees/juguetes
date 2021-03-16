@@ -5,7 +5,7 @@ date: 2020-10-01 09:49:48
 image: 'https://m.media-amazon.com/images/I/61zmDdhcNdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087FJ6DB6-es EKKONG Pistolas de Agua para Niños Adultos 900ML Soaker...'
 sku: 'B087FJ6DB6-es'
 tags: [ 'juguetes', ]

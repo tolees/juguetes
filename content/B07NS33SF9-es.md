@@ -5,7 +5,7 @@ date: 2020-01-27 02:13:05
 image: 'https://m.media-amazon.com/images/I/41RUxx1TbIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NS33SF9-es Lego Jurassic World Pijamas de Manga Larga para niños Azul...'
 sku: 'B07NS33SF9-es'
 tags: [ 'lego', ]

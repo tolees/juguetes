@@ -5,7 +5,7 @@ date: 2020-06-09 19:46:15
 image: 'https://m.media-amazon.com/images/I/41OnveYI8YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892GNVJK-es EKKONG Flotador Bebé Flotador Inflable para Bebé Anillo de...'
 sku: 'B0892GNVJK-es'
 tags: [ 'flotador', ]

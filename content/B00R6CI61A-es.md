@@ -5,7 +5,7 @@ date: 2020-09-01 21:44:10
 image: 'https://m.media-amazon.com/images/I/51tSxKF5dGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios...'
 sku: 'B00R6CI61A-es'
 tags: [ 'fisher-price','mattel', ]

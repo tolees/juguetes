@@ -5,7 +5,7 @@ date: 2020-03-10 22:42:32
 image: 'https://m.media-amazon.com/images/I/411vZYjztZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFF2DYR-es Adaptador Soporte Extensión Vástago Montaje En Equipo de...'
 sku: 'B07DFF2DYR-es'
 tags: [ 'bicicleta', ]

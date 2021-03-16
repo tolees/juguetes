@@ -5,7 +5,7 @@ date: 2020-06-22 14:54:02
 image: 'https://m.media-amazon.com/images/I/61fPNP6h9SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MCJQDM-es Hasbro Gaming- Disney Desafio Musical E1872105'
 sku: 'B079MCJQDM-es'
 tags: [ 'hasbro', ]

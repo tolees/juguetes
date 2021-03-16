@@ -5,7 +5,7 @@ date: 2020-01-29 22:22:45
 image: 'https://m.media-amazon.com/images/I/51yPsmA6ueL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D0VWP8A-es Peppa Pig 06059 vehículo'
 sku: 'B01D0VWP8A-es'
 tags: [ 'peppa','pig', ]

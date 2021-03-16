@@ -5,7 +5,7 @@ date: 2020-07-19 20:35:58
 image: 'https://m.media-amazon.com/images/I/41Q3wSf-5BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1ZJCYB-es Pinypon Action- Lancha de Rescate de Policía con 1...'
 sku: 'B07N1ZJCYB-es'
 tags: [ 'famosa','pinypon', ]

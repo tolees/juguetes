@@ -5,7 +5,7 @@ date: 2020-01-16 22:34:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314mtMZvZ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BNUVPO6-es Boon Cuchara Dispensadora de Silicona Naranja BIZAK 30690124'
 sku: 'B00BNUVPO6-es'
 tags: [ 'bizak', ]

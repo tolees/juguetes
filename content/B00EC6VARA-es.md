@@ -5,7 +5,7 @@ date: 2020-01-25 10:02:27
 image: 'https://m.media-amazon.com/images/I/51hLzxS04jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EC6VARA-es Disney Infinity - Toy Box Set: Frozen Anna Elsa + 2 Power...'
 sku: 'B00EC6VARA-es'
 tags: [ 'disney','infinity', ]

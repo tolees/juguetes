@@ -5,7 +5,7 @@ date: 2020-04-14 09:27:15
 image: 'https://m.media-amazon.com/images/I/51vsVz-ksdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WWR7DQI-es LEGO Marvel Super Heroes - Classics'
 sku: 'B00WWR7DQI-es'
 tags: [ 'lego', ]

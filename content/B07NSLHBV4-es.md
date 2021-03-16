@@ -5,7 +5,7 @@ date: 2020-03-26 07:15:21
 image: 'https://m.media-amazon.com/images/I/61ffFULa8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSLHBV4-es Clementoni 21604 Clementoni-21604-Supercolor - Puzzle-Der...'
 sku: 'B07NSLHBV4-es'
 tags: [ 'clementoni', ]

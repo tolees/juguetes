@@ -5,7 +5,7 @@ date: 2020-05-23 04:52:59
 image: 'https://m.media-amazon.com/images/I/51rdI5-NpQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTM6ZFL-es StillCool Nerf Dardos 100 Pezas 7 2cm Espuma Suave Dardos...'
 sku: 'B07KTM6ZFL-es'
 tags: [ 'nerf', ]

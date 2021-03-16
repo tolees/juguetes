@@ -5,7 +5,7 @@ date: 2020-08-08 18:11:03
 image: 'https://m.media-amazon.com/images/I/51-+--uYCCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZ22BV1-es Aletas de natación para niños diseño de sirena ajustable...'
 sku: 'B07FZ22BV1-es'
 tags: [ 'juguetes', ]

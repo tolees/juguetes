@@ -5,7 +5,7 @@ date: 2020-04-01 12:02:53
 image: 'https://m.media-amazon.com/images/I/418As1WfMNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8HGSDK-es Disney Frozen- 2 Romance 2 Pack Multicolor Hasbro E5502EU4'
 sku: 'B07M8HGSDK-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-06-24 18:41:38
 image: 'https://m.media-amazon.com/images/I/51lEyH3Ep5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009IR0OZM-es Puzzle Mates 17691 - Tapete para enrollar puzzles hasta...'
 sku: 'B009IR0OZM-es'
 tags: [ 'puzzle', ]

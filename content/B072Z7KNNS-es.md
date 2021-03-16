@@ -5,7 +5,7 @@ date: 2020-01-11 22:47:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tveL%2BWGzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072Z7KNNS-es Clementoni 39022 Puzzle Puzzle - Rompecabezas Puzzle...'
 sku: 'B072Z7KNNS-es'
 tags: [ 'clementoni','puzzle','rompecabezas', ]

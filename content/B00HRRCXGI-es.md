@@ -5,7 +5,7 @@ date: 2020-04-16 09:19:21
 image: 'https://m.media-amazon.com/images/I/51p8YY1jzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRCXGI-es EPOCH Girl S Room Set Sylvanian Families Mini muñecas y...'
 sku: 'B00HRRCXGI-es'
 tags: [ 'families','sylvanian', ]

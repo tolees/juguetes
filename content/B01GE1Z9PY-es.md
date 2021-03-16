@@ -5,7 +5,7 @@ date: 2020-04-18 02:10:19
 image: 'https://m.media-amazon.com/images/I/51je-Wpp3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GE1Z9PY-es Pinypon by PINY Set de Cuatro muñecas Multicolor Famosa...'
 sku: 'B01GE1Z9PY-es'
 tags: [ 'famosa','pinypon', ]

@@ -5,7 +5,7 @@ date: 2020-03-05 17:02:07
 image: 'https://m.media-amazon.com/images/I/51YxqUbN8OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079M47KBG-es Puzzle Mosaico Mosaicos Infantiles Juego Mosaico Pinchos...'
 sku: 'B079M47KBG-es'
 tags: [ 'puzzle', ]

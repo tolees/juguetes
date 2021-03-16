@@ -5,7 +5,7 @@ date: 2020-04-18 01:42:54
 image: 'https://m.media-amazon.com/images/I/51BWV7B85LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRD11O-es SYLVANIAN FAMILIES- Baby Room Set Mini muñecas y...'
 sku: 'B00HRRD11O-es'
 tags: [ 'families','sylvanian', ]

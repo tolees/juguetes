@@ -5,7 +5,7 @@ date: 2020-01-22 18:52:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51rmLXL%2Bq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ZSTYQQ-es VTech - Pequepatitas Juguete para bebé Color Rojo 80-111222'
 sku: 'B007ZSTYQQ-es'
 tags: [ 'vtech', ]

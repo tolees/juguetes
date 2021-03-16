@@ -5,7 +5,7 @@ date: 2020-03-07 17:25:40
 image: 'https://m.media-amazon.com/images/I/41l5QCiWQcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJZBK76-es Disney Princess - Disney Princess Brillo Real Ariel Hasbro...'
 sku: 'B07FJZBK76-es'
 tags: [ 'hasbro', ]

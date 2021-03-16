@@ -5,7 +5,7 @@ date: 2020-04-06 19:05:30
 image: 'https://m.media-amazon.com/images/I/51QUQLYuWJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SDTTUJM-es LEGO Star Wars - Jango Fett 75107'
 sku: 'B00SDTTUJM-es'
 tags: [ 'lego', ]

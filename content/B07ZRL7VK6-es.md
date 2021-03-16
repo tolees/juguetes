@@ -5,7 +5,7 @@ date: 2020-01-03 23:35:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nynouGHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRL7VK6-es DANISH ENDURANCE Calcetines de Ciclismo para Hombres y...'
 sku: 'B07ZRL7VK6-es'
 tags: [ 'bicicleta', ]

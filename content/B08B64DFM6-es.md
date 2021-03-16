@@ -5,7 +5,7 @@ date: 2020-08-05 05:53:22
 image: 'https://m.media-amazon.com/images/I/51oh8Wps6xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B64DFM6-es EXCEED Posavasos inflables para la Piscina Paquete de 17...'
 sku: 'B08B64DFM6-es'
 tags: [ 'juguetes', ]

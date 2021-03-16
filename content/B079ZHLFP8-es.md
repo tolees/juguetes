@@ -5,7 +5,7 @@ date: 2020-02-12 23:33:18
 image: 'https://m.media-amazon.com/images/I/41msaEpsNWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZHLFP8-es Generique - Disfraz minero Lego niño'
 sku: 'B079ZHLFP8-es'
 tags: [ 'lego', ]

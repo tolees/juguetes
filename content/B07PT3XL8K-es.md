@@ -5,7 +5,7 @@ date: 2020-05-10 19:01:24
 image: 'https://m.media-amazon.com/images/I/31NED6azYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT3XL8K-es Muñeco Peluche Unicornio con Manta Bebé Estrellas...'
 sku: 'B07PT3XL8K-es'
 tags: [ 'peluche', ]

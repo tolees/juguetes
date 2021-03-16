@@ -5,7 +5,7 @@ date: 2020-04-13 00:42:22
 image: 'https://m.media-amazon.com/images/I/51XzU6OQZWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRDP88-es SYLVANIAN FAMILIES Sylvanian Families-4869 Set Barbacoa...'
 sku: 'B00HRRDP88-es'
 tags: [ 'families','sylvanian', ]

@@ -5,7 +5,7 @@ date: 2020-08-24 19:25:36
 image: 'https://m.media-amazon.com/images/I/51y0FfQQRaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TNB4Q0C-es Clementoni Pingüinos De Madagascar Puzzle 2000 Piezas...'
 sku: 'B00TNB4Q0C-es'
 tags: [ 'clementoni','puzzle', ]

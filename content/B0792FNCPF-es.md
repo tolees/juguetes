@@ -5,7 +5,7 @@ date: 2020-10-02 13:02:06
 image: 'https://m.media-amazon.com/images/I/41XaAZVOFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792FNCPF-es Little Live Bizzy Babies- Bebé con cunita Gracie Famosa...'
 sku: 'B0792FNCPF-es'
 tags: [ 'famosa', ]

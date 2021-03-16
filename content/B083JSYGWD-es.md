@@ -5,7 +5,7 @@ date: 2020-08-17 10:34:36
 image: 'https://m.media-amazon.com/images/I/41cP9TyejPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JSYGWD-es Mebber - Soporte para Tablet de Bicicleta portátil para...'
 sku: 'B083JSYGWD-es'
 tags: [ 'bicicleta', ]

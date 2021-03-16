@@ -5,7 +5,7 @@ date: 2020-09-11 13:31:03
 image: 'https://m.media-amazon.com/images/I/41ukoz0mJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N11QDSC-es The Bellies - Willy Woof Muñeco interactivo para niños y...'
 sku: 'B07N11QDSC-es'
 tags: [ 'bellies','famosa','the', ]

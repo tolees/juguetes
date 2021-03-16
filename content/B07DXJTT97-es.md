@@ -5,7 +5,7 @@ date: 2020-10-07 00:39:42
 image: 'https://m.media-amazon.com/images/I/41qxD0o0TRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXJTT97-es TOP BRIGHT Juguetes de Cocina de Madera Corte de Juguetes...'
 sku: 'B07DXJTT97-es'
 tags: [ 'juguetes', ]

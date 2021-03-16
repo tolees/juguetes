@@ -5,7 +5,7 @@ date: 2020-10-11 16:24:01
 image: 'https://m.media-amazon.com/images/I/51d03dt5t0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5C4DB3-es Hasbro Gaming - Juego infantil Tiny Pong Hasbro E3112EU4'
 sku: 'B07M5C4DB3-es'
 tags: [ 'hasbro', ]

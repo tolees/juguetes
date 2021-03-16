@@ -5,7 +5,7 @@ date: 2020-10-01 15:33:11
 image: 'https://m.media-amazon.com/images/I/41CiY8Zq21L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WNYGYG-es Playkin FASTER - Moto electrica niños bateria 6V...'
 sku: 'B082WNYGYG-es'
 tags: [ 'juguetes', ]

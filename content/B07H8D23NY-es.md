@@ -5,7 +5,7 @@ date: 2020-07-15 12:31:27
 image: 'https://m.media-amazon.com/images/I/51l3uC+0OVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8D23NY-es Locisne 100pcs 7.2cm Recarga de Dardos Soft EVA Foam...'
 sku: 'B07H8D23NY-es'
 tags: [ 'nerf', ]

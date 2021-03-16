@@ -5,7 +5,7 @@ date: 2020-03-13 22:25:14
 image: 'https://m.media-amazon.com/images/I/51SAsGERjcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GQ2KT8-es LEGO City Police - Huida por Aguas Salvajes Juguete de...'
 sku: 'B075GQ2KT8-es'
 tags: [ 'lego', ]

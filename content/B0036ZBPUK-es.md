@@ -5,7 +5,7 @@ date: 2020-01-03 12:12:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HQehM0C-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036ZBPUK-es FEBER - Triciclo Ferrari Famosa 800005840'
 sku: 'B0036ZBPUK-es'
 tags: [ 'famosa','feber', ]

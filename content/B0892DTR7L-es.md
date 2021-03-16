@@ -5,7 +5,7 @@ date: 2020-05-28 16:02:20
 image: 'https://m.media-amazon.com/images/I/41Yn4w7qOUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892DTR7L-es Molyflower Los niños juegan Water Mat Juegos Beach Pad...'
 sku: 'B0892DTR7L-es'
 tags: [ 'juguetes', ]

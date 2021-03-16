@@ -5,7 +5,7 @@ date: 2020-05-12 09:09:53
 image: 'https://m.media-amazon.com/images/I/41NutHOylOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HK79BZG-es baby tete Bebé 5pcs Silicona Dentición Conjunto Elk...'
 sku: 'B07HK79BZG-es'
 tags: [ 'juguetes', ]

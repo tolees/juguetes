@@ -5,7 +5,7 @@ date: 2020-07-20 14:03:07
 image: 'https://m.media-amazon.com/images/I/410WlwbuFYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AWGZRIQ-es DC Super Hero Girls Muñeca Harley Quinn Mattel DMM36'
 sku: 'B01AWGZRIQ-es'
 tags: [ 'mattel', ]

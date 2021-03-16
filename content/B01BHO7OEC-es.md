@@ -5,7 +5,7 @@ date: 2020-04-15 00:43:17
 image: 'https://m.media-amazon.com/images/I/51yyV-Bs+-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BHO7OEC-es LEGO Star Wars: El Despertar De La Fuerza Episodio 7'
 sku: 'B01BHO7OEC-es'
 tags: [ 'lego', ]

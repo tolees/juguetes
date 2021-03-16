@@ -5,7 +5,7 @@ date: 2020-08-17 10:12:54
 image: 'https://m.media-amazon.com/images/I/51WrKAxJJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ITC36LG-es Clementoni - Puzzle de 500 Piezas diseño 500 305759'
 sku: 'B00ITC36LG-es'
 tags: [ 'clementoni','puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:17:49
 image: 'https://m.media-amazon.com/images/I/41UPVTd+1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXNBC6W-es Shimmer and Shine Muñeca Shimmer Sirena mágica juguete +3...'
 sku: 'B06XXNBC6W-es'
 tags: [ 'mattel', ]

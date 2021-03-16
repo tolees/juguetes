@@ -5,7 +5,7 @@ date: 2020-01-16 18:32:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tk%2BL9qEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N64J0BH-es Yo-kai Watch Kai Álbum de colección de medallas Miscelanea...'
 sku: 'B01N64J0BH-es'
 tags: [ 'hasbro', ]

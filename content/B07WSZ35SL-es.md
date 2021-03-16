@@ -5,7 +5,7 @@ date: 2020-07-23 14:35:24
 image: 'https://m.media-amazon.com/images/I/51gBrlhIeLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSZ35SL-es jerryvon Dinosaurios Juguetes con Luces y Sonido...'
 sku: 'B07WSZ35SL-es'
 tags: [ 'juguetes', ]

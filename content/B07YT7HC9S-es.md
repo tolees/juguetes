@@ -5,7 +5,7 @@ date: 2020-08-27 12:50:36
 image: 'https://m.media-amazon.com/images/I/3156s7UsewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YT7HC9S-es Disney Pixar Onward Bastón de Hechizero Juguete para Niños...'
 sku: 'B07YT7HC9S-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 11:07:41
 image: 'https://m.media-amazon.com/images/I/5123tcLM5cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BP6GEHA-es Avengers- Marvel Legends Figura Iron Man Multicolor Hasbro...'
 sku: 'B01BP6GEHA-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-05-18 18:03:58
 image: 'https://m.media-amazon.com/images/I/41RNjnul75L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753KYVFL-es Reloj modificable infantil con figurita de Darth Vader de...'
 sku: 'B0753KYVFL-es'
 tags: [ 'lego', ]

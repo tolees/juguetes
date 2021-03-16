@@ -5,7 +5,7 @@ date: 2020-09-06 18:02:26
 image: 'https://m.media-amazon.com/images/I/31iqvdVZJ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F28TLC3-es #N/A Anillos de nataciÃ Brazo Inflable de 1 par Anillos...'
 sku: 'B08F28TLC3-es'
 tags: [ 'flotador', ]

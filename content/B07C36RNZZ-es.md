@@ -5,7 +5,7 @@ date: 2020-08-18 06:31:02
 image: 'https://m.media-amazon.com/images/I/516uYvibJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C36RNZZ-es SkullCap® Casco Bicicleta Carretera Casco Bici Adulto...'
 sku: 'B07C36RNZZ-es'
 tags: [ 'bicicleta', ]

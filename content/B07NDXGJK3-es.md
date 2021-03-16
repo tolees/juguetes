@@ -5,7 +5,7 @@ date: 2020-01-24 11:35:46
 image: 'https://m.media-amazon.com/images/I/31fyYmRvRhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDXGJK3-es Mattel - Hot Wheels ID Portal de carreras con coche +8...'
 sku: 'B07NDXGJK3-es'
 tags: [ 'mattel', ]

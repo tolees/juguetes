@@ -5,7 +5,7 @@ date: 2020-07-18 08:01:33
 image: 'https://m.media-amazon.com/images/I/51ibWodYdyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085SXJ4MR-es yidenguk Objetivo Digital Electrónico para Nerf Objetivos...'
 sku: 'B085SXJ4MR-es'
 tags: [ 'nerf', ]

@@ -5,7 +5,7 @@ date: 2020-03-31 06:46:43
 image: 'https://m.media-amazon.com/images/I/41R0iwaO9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LXZD6Y-es Nancy día de aventuras a caballo Famosa 700013890'
 sku: 'B072LXZD6Y-es'
 tags: [ 'famosa','nancy', ]

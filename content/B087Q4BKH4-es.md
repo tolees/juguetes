@@ -5,7 +5,7 @@ date: 2020-08-30 19:11:40
 image: 'https://m.media-amazon.com/images/I/51GeSnZ4d7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087Q4BKH4-es BeebeeRun Juguetes Maquillaje Niñas Juguetes para Chicas...'
 sku: 'B087Q4BKH4-es'
 tags: [ 'juguetes', ]

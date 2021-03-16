@@ -5,7 +5,7 @@ date: 2020-07-13 11:10:53
 image: 'https://m.media-amazon.com/images/I/41oLm0tEQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLPVJK5-es Tablero de dibujo para niños Caballete de madera de doble...'
 sku: 'B08BLPVJK5-es'
 tags: [ 'juguetes', ]

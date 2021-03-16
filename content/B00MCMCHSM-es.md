@@ -5,7 +5,7 @@ date: 2020-02-10 16:57:17
 image: 'https://m.media-amazon.com/images/I/51I4J2V1PqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MCMCHSM-es T.Y 37132 - Peluche 10.3 cm TY37132 - Peluche Frizzy Azul...'
 sku: 'B00MCMCHSM-es'
 tags: [ 'peluche', ]

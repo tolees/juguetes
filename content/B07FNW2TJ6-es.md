@@ -5,7 +5,7 @@ date: 2020-08-23 00:15:25
 image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNW2TJ6-es LEGO Friends - Clínica Veterinaria Móvil de Emma juguete...'
 sku: 'B07FNW2TJ6-es'
 tags: [ 'lego', ]

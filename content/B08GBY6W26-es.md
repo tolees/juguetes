@@ -5,7 +5,7 @@ date: 2020-09-14 19:59:09
 image: 'https://m.media-amazon.com/images/I/41y12iA6IqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GBY6W26-es Bola de pulverización de Agua eléctrica Inducción...'
 sku: 'B08GBY6W26-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-09-11 13:10:41
 image: 'https://m.media-amazon.com/images/I/51w4yjX5FBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089LSBTG4-es Puzzle de Madera Formas Geometricas 180 Piezas con bolsa...'
 sku: 'B089LSBTG4-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]

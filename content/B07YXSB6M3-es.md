@@ -5,7 +5,7 @@ date: 2020-04-14 20:04:11
 image: 'https://m.media-amazon.com/images/I/518Md3zclxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXSB6M3-es 324 Piezas Pokemon Cartas Juego de Cartas Tarjetas de...'
 sku: 'B07YXSB6M3-es'
 tags: [ 'cartas','de','juego', ]

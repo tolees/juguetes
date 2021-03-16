@@ -5,7 +5,7 @@ date: 2020-04-14 16:59:59
 image: 'https://m.media-amazon.com/images/I/41Na3vqz-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSS82CK-es Linseray 4 Piezas Kits de Herramientas de reparación de...'
 sku: 'B07RSS82CK-es'
 tags: [ 'bicicleta', ]

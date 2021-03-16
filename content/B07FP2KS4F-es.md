@@ -5,7 +5,7 @@ date: 2020-09-03 20:52:24
 image: 'https://m.media-amazon.com/images/I/51NB+ISoV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2KS4F-es LEGO Película 2 - Taller Construye y Arregla de Emmet y...'
 sku: 'B07FP2KS4F-es'
 tags: [ 'lego', ]

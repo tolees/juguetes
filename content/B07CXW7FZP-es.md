@@ -5,7 +5,7 @@ date: 2020-06-13 13:33:57
 image: 'https://m.media-amazon.com/images/I/51MaFnkK5jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXW7FZP-es Zerodis Juguetes de Aprendizaje Clasificación del...'
 sku: 'B07CXW7FZP-es'
 tags: [ 'juguetes', ]

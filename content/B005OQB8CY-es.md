@@ -5,7 +5,7 @@ date: 2020-09-03 12:08:02
 image: 'https://m.media-amazon.com/images/I/61Q6oVnntxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OQB8CY-es Educa- Provincias España Puzzle infantil de 150 piezas a...'
 sku: 'B005OQB8CY-es'
 tags: [ 'puzzle', ]

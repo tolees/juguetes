@@ -5,7 +5,7 @@ date: 2020-07-05 22:43:41
 image: 'https://m.media-amazon.com/images/I/51-g0ETV+eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722YDZF5-es Tiny Love Dynamic Gymini Gimnasio musical de actividades...'
 sku: 'B0722YDZF5-es'
 tags: [ 'juguetes', ]

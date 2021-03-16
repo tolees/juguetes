@@ -5,7 +5,7 @@ date: 2020-09-22 11:55:48
 image: 'https://m.media-amazon.com/images/I/413ECKtU0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KYP8KVM-es Feber-800009570 Dareway vehículo 12 V Color Negro Azul...'
 sku: 'B00KYP8KVM-es'
 tags: [ 'famosa', ]

@@ -5,7 +5,7 @@ date: 2020-05-27 07:40:17
 image: 'https://m.media-amazon.com/images/I/41nnKn9VEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0885VXYRJ-es iMiMi - Juego de anillos apilables de arco iris juguete...'
 sku: 'B0885VXYRJ-es'
 tags: [ 'juguetes', ]

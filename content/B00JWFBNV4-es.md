@@ -5,7 +5,7 @@ date: 2020-06-21 19:34:06
 image: 'https://m.media-amazon.com/images/I/51Lj1OLo5JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JWFBNV4-es VTech -Little App Tableta educativa Infantil Pantalla LCD...'
 sku: 'B00JWFBNV4-es'
 tags: [ 'vtech', ]

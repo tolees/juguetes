@@ -5,7 +5,7 @@ date: 2020-06-09 08:02:26
 image: 'https://m.media-amazon.com/images/I/51aAehLEnhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSNCQYC-es Jurassic World Stegosaurus Figura Dinosaurio de Juguete...'
 sku: 'B07GSNCQYC-es'
 tags: [ 'mattel', ]

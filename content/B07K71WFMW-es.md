@@ -5,7 +5,7 @@ date: 2020-04-08 19:37:40
 image: 'https://m.media-amazon.com/images/I/41cZcVS9lmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K71WFMW-es Hot Wheels - HW Auto-Lift Expressway Track Set y 5 DCC...'
 sku: 'B07K71WFMW-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-02-17 13:32:09
 image: 'https://m.media-amazon.com/images/I/51GVZJ2BvTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V48CR8W-es Bluefin Fitness Bicicleta de Spinning Tour SPIN | Kinomap...'
 sku: 'B07V48CR8W-es'
 tags: [ 'bicicleta', ]

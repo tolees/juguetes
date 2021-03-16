@@ -5,7 +5,7 @@ date: 2020-04-15 20:04:00
 image: 'https://m.media-amazon.com/images/I/416xkHT+RoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPVL2PL-es Peluditos Peludito Mascota Interactiva Modelos Surtidos...'
 sku: 'B07NPVL2PL-es'
 tags: [ 'bizak', ]

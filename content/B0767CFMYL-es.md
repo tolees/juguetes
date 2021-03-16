@@ -5,7 +5,7 @@ date: 2020-06-09 08:35:24
 image: 'https://m.media-amazon.com/images/I/41MaA1BAEcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767CFMYL-es Fisher-Price - Cuna De Viaje 2 En 1 Para Bebé Multicolor...'
 sku: 'B0767CFMYL-es'
 tags: [ 'fisher-price', ]

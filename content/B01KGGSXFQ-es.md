@@ -5,7 +5,7 @@ date: 2020-06-08 07:57:26
 image: 'https://m.media-amazon.com/images/I/51qWMWqRzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KGGSXFQ-es Cars Camión Mack Gran Viaje transportador de coches de...'
 sku: 'B01KGGSXFQ-es'
 tags: [ 'mattel', ]

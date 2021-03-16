@@ -5,7 +5,7 @@ date: 2020-08-30 15:29:42
 image: 'https://m.media-amazon.com/images/I/41MTMi+5o8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894WKRFP-es Surplex Juego de Juguetes de baño para niños 6 Peces...'
 sku: 'B0894WKRFP-es'
 tags: [ 'juguetes', ]

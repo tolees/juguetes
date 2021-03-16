@@ -5,7 +5,7 @@ date: 2020-04-23 19:01:56
 image: 'https://m.media-amazon.com/images/I/41AtqmrQZrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LXQVA4-es Fisher-Price Saltador animalitos de la selva para bebé +1...'
 sku: 'B000LXQVA4-es'
 tags: [ 'fisher-price','mattel', ]

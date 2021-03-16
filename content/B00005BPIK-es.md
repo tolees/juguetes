@@ -5,7 +5,7 @@ date: 2020-05-15 15:42:20
 image: 'https://m.media-amazon.com/images/I/51L-a15I0KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005BPIK-es Intex- Flotador Rueda 97 CMS. con Asas Decorado Multicolor...'
 sku: 'B00005BPIK-es'
 tags: [ 'flotador', ]

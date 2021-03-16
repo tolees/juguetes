@@ -5,7 +5,7 @@ date: 2020-04-09 17:03:39
 image: 'https://m.media-amazon.com/images/I/51GcfDxmeQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TVNB61E-es Clementoni - Puzzle 13.200 Piezas New York 38009'
 sku: 'B00TVNB61E-es'
 tags: [ 'clementoni','puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-01-03 15:50:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GcKrYrgOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZMMKD3-es URCERI Llave dinamométrica 1/4" 5-25Nm Llave de torque de...'
 sku: 'B07TZMMKD3-es'
 tags: [ 'bicicleta', ]

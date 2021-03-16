@@ -5,7 +5,7 @@ date: 2020-06-04 17:27:52
 image: 'https://m.media-amazon.com/images/I/61-eUO6wepL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X3SLL2-es Lego Ninjago'
 sku: 'B073X3SLL2-es'
 tags: [ 'lego', ]

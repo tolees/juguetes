@@ -5,7 +5,7 @@ date: 2020-07-16 18:16:48
 image: 'https://m.media-amazon.com/images/I/51OpPYYOToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W84P8QJ-es CubicFun Puzzles 3D Londres St.Paul s Cathedral...'
 sku: 'B07W84P8QJ-es'
 tags: [ 'rompecabezas', ]

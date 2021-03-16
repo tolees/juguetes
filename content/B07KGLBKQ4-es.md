@@ -5,7 +5,7 @@ date: 2020-07-24 11:34:53
 image: 'https://m.media-amazon.com/images/I/51T2RpKxufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGLBKQ4-es VTech - Tut Tut Bólidos Central de policía Playset...'
 sku: 'B07KGLBKQ4-es'
 tags: [ 'vtech', ]

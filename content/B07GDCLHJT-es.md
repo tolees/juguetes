@@ -5,7 +5,7 @@ date: 2020-03-07 10:14:25
 image: 'https://m.media-amazon.com/images/I/41S7VmkYl7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDCLHJT-es Autopmall GPS Tracker Bicicleta Tiempo de Espera 300 Horas...'
 sku: 'B07GDCLHJT-es'
 tags: [ 'bicicleta', ]

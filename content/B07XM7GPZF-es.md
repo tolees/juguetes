@@ -5,7 +5,7 @@ date: 2020-07-31 04:17:23
 image: 'https://m.media-amazon.com/images/I/41wNjVEmM8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XM7GPZF-es YGJT Bicicleta sin Pedales 1 Año Juguetes Bebes -...'
 sku: 'B07XM7GPZF-es'
 tags: [ 'bicicleta','juguetes', ]

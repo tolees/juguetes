@@ -5,7 +5,7 @@ date: 2020-08-09 13:15:11
 image: 'https://m.media-amazon.com/images/I/51F+f3oYNpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T3LQWC-es Joyjam Coche teledirigido Anfibio Stunt Car Impermeable...'
 sku: 'B085T3LQWC-es'
 tags: [ 'juguetes', ]

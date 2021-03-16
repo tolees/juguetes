@@ -5,7 +5,7 @@ date: 2020-07-05 16:30:29
 image: 'https://m.media-amazon.com/images/I/51p1i8CCmbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854CP6WW-es BBLIKE Juguetes para el Baño 2 Piezas Red de Baño...'
 sku: 'B0854CP6WW-es'
 tags: [ 'juguetes', ]

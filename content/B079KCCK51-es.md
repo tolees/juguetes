@@ -5,7 +5,7 @@ date: 2020-09-25 11:11:06
 image: 'https://m.media-amazon.com/images/I/51g3I+6CHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KCCK51-es Polly Pocket - Maletín con muñecas fiesta divertida -...'
 sku: 'B079KCCK51-es'
 tags: [ 'mattel','pocket','polly', ]

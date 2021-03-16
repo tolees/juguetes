@@ -5,7 +5,7 @@ date: 2020-01-28 08:03:07
 image: 'https://m.media-amazon.com/images/I/41kUZLK-15L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08132TBFM-es 3 Tamaños De Juguetes De Lujo Con Joyas Azules Con Campana...'
 sku: 'B08132TBFM-es'
 tags: [ 'juguetes', ]

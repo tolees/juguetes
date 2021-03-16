@@ -5,7 +5,7 @@ date: 2020-05-21 21:57:36
 image: 'https://m.media-amazon.com/images/I/41zIlAskd6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGW3X3Q-es Harry Potter-FYM55 Harry Potter Muñeca profesora...'
 sku: 'B07CGW3X3Q-es'
 tags: [ 'mattel', ]

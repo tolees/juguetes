@@ -5,7 +5,7 @@ date: 2020-07-12 07:19:20
 image: 'https://m.media-amazon.com/images/I/41emInl+9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WPCL9C5-es Star Wars - Figura de acción de 12 5 cm de Chewbacca de...'
 sku: 'B07WPCL9C5-es'
 tags: [ 'hasbro', ]

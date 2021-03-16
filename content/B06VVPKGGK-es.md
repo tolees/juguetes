@@ -5,7 +5,7 @@ date: 2020-01-23 15:10:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jrs-ZPclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VVPKGGK-es LEGO Super Heroes - Batalla en la Atlántida 76085'
 sku: 'B06VVPKGGK-es'
 tags: [ 'lego', ]

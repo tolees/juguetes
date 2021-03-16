@@ -5,7 +5,7 @@ date: 2020-07-15 19:35:02
 image: 'https://m.media-amazon.com/images/I/51iycIRNFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GRMBZ7-es Pulchram Splash Pad Almohadilla de Aspersión de 170 cm...'
 sku: 'B088GRMBZ7-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-03-04 03:04:25
 image: 'https://m.media-amazon.com/images/I/41YM6YudQZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SKFR97-es DUS Soporte para Halcón Milenario Display Stand para Lego...'
 sku: 'B083SKFR97-es'
 tags: [ 'lego', ]

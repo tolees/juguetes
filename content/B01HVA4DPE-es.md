@@ -5,7 +5,7 @@ date: 2020-02-17 20:42:40
 image: 'https://m.media-amazon.com/images/I/416enm3UZbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HVA4DPE-es PJ Masks - Pack de 5 figuras Bandai 24580 surtido: modelos...'
 sku: 'B01HVA4DPE-es'
 tags: [ 'bandai', ]

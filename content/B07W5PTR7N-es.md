@@ -5,7 +5,7 @@ date: 2020-05-21 07:16:29
 image: 'https://m.media-amazon.com/images/I/51Tri7+4QKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5PTR7N-es LEGO Disney Princess - Aventura Oceánica de Vaiana Juguete...'
 sku: 'B07W5PTR7N-es'
 tags: [ 'lego', ]

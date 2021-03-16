@@ -5,7 +5,7 @@ date: 2020-08-31 17:37:32
 image: 'https://m.media-amazon.com/images/I/51TmOaFFyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BK2KPR4-es LEGO DUPLO Town - Aventura en Submarino Juguete Educativo...'
 sku: 'B01BK2KPR4-es'
 tags: [ 'lego', ]

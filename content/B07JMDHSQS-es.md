@@ -5,7 +5,7 @@ date: 2020-04-22 07:33:58
 image: 'https://m.media-amazon.com/images/I/41E8LL7lqaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMDHSQS-es Barbie Casa de muñecas con muebles y accesorios juguete +3...'
 sku: 'B07JMDHSQS-es'
 tags: [ 'barbie','mattel', ]

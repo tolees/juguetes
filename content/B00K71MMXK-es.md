@@ -5,7 +5,7 @@ date: 2020-06-17 13:45:41
 image: 'https://m.media-amazon.com/images/I/51+WsG12VYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K71MMXK-es VTech 155403 - Peque ordenador educativo multicolor...'
 sku: 'B00K71MMXK-es'
 tags: [ 'vtech', ]

@@ -5,7 +5,7 @@ date: 2020-10-11 13:24:54
 image: 'https://m.media-amazon.com/images/I/51SIQlVpRkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JSLWZF3-es HANMUN Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B08JSLWZF3-es'
 tags: [ 'juguetes', ]

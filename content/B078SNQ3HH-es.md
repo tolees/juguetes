@@ -5,7 +5,7 @@ date: 2020-07-05 16:29:49
 image: 'https://m.media-amazon.com/images/I/51TfNArbj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SNQ3HH-es Abree Juego de Pesca Magnética 26 Peces - Juguete...'
 sku: 'B078SNQ3HH-es'
 tags: [ 'juguetes', ]

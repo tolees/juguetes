@@ -5,7 +5,7 @@ date: 2020-08-24 10:07:42
 image: 'https://m.media-amazon.com/images/I/51flxlW-h6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088RCSVL7-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para...'
 sku: 'B088RCSVL7-es'
 tags: [ 'rompecabezas', ]

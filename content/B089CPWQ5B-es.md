@@ -5,7 +5,7 @@ date: 2020-08-21 04:06:24
 image: 'https://m.media-amazon.com/images/I/51GMusKbIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089CPWQ5B-es INBIKE Ropa Ciclismo Hombre Verano Trajes de Ciclismo...'
 sku: 'B089CPWQ5B-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 08:30:51
 image: 'https://m.media-amazon.com/images/I/51epm19rNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXWJ09W-es Cars Circuito Cars choca-crash pista de coches Mattel FCW01'
 sku: 'B01MXWJ09W-es'
 tags: [ 'mattel', ]

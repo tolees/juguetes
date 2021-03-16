@@ -5,7 +5,7 @@ date: 2020-07-21 14:55:40
 image: 'https://m.media-amazon.com/images/I/611P-y4es+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088DD14GW-es Juguetes Regalos para Niños Niña Edad 3 4 5 Flores...'
 sku: 'B088DD14GW-es'
 tags: [ 'juguetes', ]

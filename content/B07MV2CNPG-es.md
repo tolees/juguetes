@@ -5,7 +5,7 @@ date: 2020-10-11 20:25:15
 image: 'https://m.media-amazon.com/images/I/41PAdM-2luL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV2CNPG-es Potato Head - Potato Train Hasbro E5853EU5'
 sku: 'B07MV2CNPG-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-02-24 14:16:33
 image: 'https://m.media-amazon.com/images/I/41J2VjhBvxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQSHMZ3-es ENKEEO Ciclocomputadores Inalámbrica Recargable USB con...'
 sku: 'B07VQSHMZ3-es'
 tags: [ 'bicicleta', ]

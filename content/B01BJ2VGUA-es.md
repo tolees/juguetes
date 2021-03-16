@@ -5,7 +5,7 @@ date: 2020-09-24 09:03:40
 image: 'https://m.media-amazon.com/images/I/51sNZ-c2rLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BJ2VGUA-es Peppa Pig - Puzzle progresivo 12 20 y 25 piezas Educa...'
 sku: 'B01BJ2VGUA-es'
 tags: [ 'peppa','pig','puzzle', ]

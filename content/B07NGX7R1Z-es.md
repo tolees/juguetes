@@ -5,7 +5,7 @@ date: 2020-07-28 18:26:58
 image: 'https://m.media-amazon.com/images/I/4119Jodi3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGX7R1Z-es Hot Wheels HW Figure 8 Raceway Trackset incluye 1 DCC...'
 sku: 'B07NGX7R1Z-es'
 tags: [ 'mattel', ]

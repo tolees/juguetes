@@ -5,7 +5,7 @@ date: 2020-10-03 09:33:42
 image: 'https://m.media-amazon.com/images/I/41UVESsxoZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PKDQV1-es Enchantimals - Muñeca Tanzie Tiger - Mattel FRH39'
 sku: 'B077PKDQV1-es'
 tags: [ 'mattel', ]

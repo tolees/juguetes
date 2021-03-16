@@ -5,7 +5,7 @@ date: 2020-07-01 16:58:05
 image: 'https://m.media-amazon.com/images/I/51LcFL9saEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZBBD5Q-es EXCEED Piscina Inflable para bebés Flotador para niños...'
 sku: 'B07PZBBD5Q-es'
 tags: [ 'flotador', ]

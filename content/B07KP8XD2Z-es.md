@@ -5,7 +5,7 @@ date: 2020-05-19 20:01:45
 image: 'https://m.media-amazon.com/images/I/41JPiEAmKtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP8XD2Z-es Diseño Gracioso no tóxico Gritando Goma Pollo apretón...'
 sku: 'B07KP8XD2Z-es'
 tags: [ 'juguetes', ]

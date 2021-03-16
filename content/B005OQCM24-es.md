@@ -5,7 +5,7 @@ date: 2020-03-18 20:06:26
 image: 'https://m.media-amazon.com/images/I/61zpUdaHL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OQCM24-es Hasbro Gaming Gaming Clasico Games-Quien es quien Hasbro...'
 sku: 'B005OQCM24-es'
 tags: [ 'hasbro', ]

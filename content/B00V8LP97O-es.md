@@ -5,7 +5,7 @@ date: 2020-10-12 15:30:55
 image: 'https://m.media-amazon.com/images/I/51Oci7TQsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V8LP97O-es Silverlit-Mi Primer World Brands teledirigidos Aviones...'
 sku: 'B00V8LP97O-es'
 tags: [ 'juguetes', ]

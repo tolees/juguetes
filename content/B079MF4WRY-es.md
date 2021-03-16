@@ -5,7 +5,7 @@ date: 2020-04-15 00:17:38
 image: 'https://m.media-amazon.com/images/I/41pei35z93L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MF4WRY-es Pinypon-700014032 Niños y Bebés Pack C Multicolor Famosa...'
 sku: 'B079MF4WRY-es'
 tags: [ 'famosa', ]

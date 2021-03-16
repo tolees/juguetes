@@ -5,7 +5,7 @@ date: 2020-02-13 09:38:06
 image: 'https://m.media-amazon.com/images/I/41x-ADwRnfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BKB6ITE-es Blaze y los Monster Machines - Fisher-Price Blaze...'
 sku: 'B01BKB6ITE-es'
 tags: [ 'fisher-price','mattel', ]

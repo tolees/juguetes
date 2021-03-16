@@ -5,7 +5,7 @@ date: 2020-03-12 18:49:35
 image: 'https://m.media-amazon.com/images/I/41CFzqU0vsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0723DHFXF-es Pinypon Cubo Mix Is Max de 10 figuras Famosa 700013811'
 sku: 'B0723DHFXF-es'
 tags: [ 'famosa','pinypon', ]

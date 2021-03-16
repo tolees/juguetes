@@ -5,7 +5,7 @@ date: 2020-06-21 13:46:03
 image: 'https://m.media-amazon.com/images/I/41LutpPn-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6ZL2K1-es Disney 37277 Dumbo - Peluche de Elefante 35 cm Color Gris'
 sku: 'B07M6ZL2K1-es'
 tags: [ 'peluche', ]

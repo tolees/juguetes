@@ -5,7 +5,7 @@ date: 2020-04-21 16:09:00
 image: 'https://m.media-amazon.com/images/I/51MrNzT5+PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JK2NB78-es Hot Wheels - Monster Trucks Monster Mover Camión...'
 sku: 'B07JK2NB78-es'
 tags: [ 'mattel', ]

@@ -5,7 +5,7 @@ date: 2020-06-06 19:56:32
 image: 'https://m.media-amazon.com/images/I/41Bx0WRI2mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGH2L3M-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
 sku: 'B07TGH2L3M-es'
 tags: [ 'barbie', ]

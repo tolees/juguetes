@@ -5,7 +5,7 @@ date: 2020-02-01 05:39:16
 image: 'https://m.media-amazon.com/images/I/41ToZVxI4dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5LNGGC-es Cartoon L.o.l. Surprise neceser baã‘o lote 3 pz - 3 ml'
 sku: 'B07S5LNGGC-es'
 tags: [ 'l.o.l.', ]

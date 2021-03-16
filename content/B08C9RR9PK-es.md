@@ -5,7 +5,7 @@ date: 2020-08-30 19:21:25
 image: 'https://m.media-amazon.com/images/I/51AWa6VNarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9RR9PK-es iNeego Maletin Medicos Juguete 37 Piezas - Doctora de...'
 sku: 'B08C9RR9PK-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-09-20 19:38:25
 image: 'https://m.media-amazon.com/images/I/51UYQ6CdR+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BLX71G-es YIMINYUER es colchoneta Suelo de Camping EVA Puzzle...'
 sku: 'B085BLX71G-es'
 tags: [ 'puzzle', ]

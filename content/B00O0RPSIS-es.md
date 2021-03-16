@@ -5,7 +5,7 @@ date: 2020-06-08 09:38:12
 image: 'https://m.media-amazon.com/images/I/41lW0-UU95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O0RPSIS-es Disney Frozen - Muñeco Olaf cantarín Mattel CJW68'
 sku: 'B00O0RPSIS-es'
 tags: [ 'mattel', ]

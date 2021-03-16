@@ -5,7 +5,7 @@ date: 2020-09-07 00:22:52
 image: 'https://m.media-amazon.com/images/I/511dd5P7t3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0885QXZX1-es Rolimate Alfabetos y números Juego de Tarjetas Flash - ABC...'
 sku: 'B0885QXZX1-es'
 tags: [ 'juguetes','rompecabezas', ]

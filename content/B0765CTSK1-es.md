@@ -5,7 +5,7 @@ date: 2020-03-10 22:52:49
 image: 'https://m.media-amazon.com/images/I/61PnqnNM2AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765CTSK1-es LEGO Ninjago - Portador De Tormentas Dragón de Juguete...'
 sku: 'B0765CTSK1-es'
 tags: [ 'lego', ]

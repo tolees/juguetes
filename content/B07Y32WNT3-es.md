@@ -5,7 +5,7 @@ date: 2020-08-16 12:46:16
 image: 'https://m.media-amazon.com/images/I/41strT-QqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y32WNT3-es PVC Inflable Serpiente Inflable Promocional Animal...'
 sku: 'B07Y32WNT3-es'
 tags: [ 'juguetes', ]

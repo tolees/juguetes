@@ -5,7 +5,7 @@ date: 2020-06-11 06:17:40
 image: 'https://m.media-amazon.com/images/I/51zmEC4RPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765CTSJ2-es LEGO Creator - Pastelería Modular Juguete de Construcción...'
 sku: 'B0765CTSJ2-es'
 tags: [ 'lego', ]

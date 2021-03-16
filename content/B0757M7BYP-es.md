@@ -5,7 +5,7 @@ date: 2020-03-18 20:45:57
 image: 'https://m.media-amazon.com/images/I/51zEDXHWFZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757M7BYP-es Devir - Carcassonne: La Torre juego de mesa BGCARTO'
 sku: 'B0757M7BYP-es'
 tags: [ 'devir', ]

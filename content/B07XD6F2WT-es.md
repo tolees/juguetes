@@ -5,7 +5,7 @@ date: 2020-08-24 07:38:32
 image: 'https://m.media-amazon.com/images/I/51BFWqojM7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD6F2WT-es Barbie Dreamtopia set de modas y accesorios juguete para...'
 sku: 'B07XD6F2WT-es'
 tags: [ 'barbie','mattel', ]

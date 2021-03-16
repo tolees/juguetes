@@ -5,7 +5,7 @@ date: 2020-03-30 06:08:35
 image: 'https://m.media-amazon.com/images/I/61jANOC7VdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LG12WL-es Hasbro - Baby Alive Muñeca multicolor 38 cm C0963105'
 sku: 'B071LG12WL-es'
 tags: [ 'hasbro', ]

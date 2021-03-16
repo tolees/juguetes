@@ -5,7 +5,7 @@ date: 2020-09-02 09:01:05
 image: 'https://m.media-amazon.com/images/I/51AYxPduUiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793FBGLJ-es Educa - Minnie Happy Helpers Maleta Progresivos puzzle...'
 sku: 'B0793FBGLJ-es'
 tags: [ 'puzzle', ]

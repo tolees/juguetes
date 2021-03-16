@@ -5,7 +5,7 @@ date: 2020-01-18 09:15:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51OuWhuIvFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QT3R52J-es Nerf Overwatch MicroShots: Torbjorn clásico bláster en...'
 sku: 'B07QT3R52J-es'
 tags: [ 'nerf', ]

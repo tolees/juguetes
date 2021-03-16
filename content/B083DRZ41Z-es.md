@@ -5,7 +5,7 @@ date: 2020-08-05 19:51:44
 image: 'https://m.media-amazon.com/images/I/51b44tS15pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DRZ41Z-es Fajiabao Pizarra Infantil de Caballete con Pizarra Blanca...'
 sku: 'B083DRZ41Z-es'
 tags: [ 'juguetes', ]

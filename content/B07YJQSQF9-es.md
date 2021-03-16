@@ -5,7 +5,7 @@ date: 2020-06-04 12:30:34
 image: 'https://m.media-amazon.com/images/I/51XpnKD+ZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJQSQF9-es SeeKool MINI 3 en 1 RC Drone Quadcopter 2.4GHZ Modo sin...'
 sku: 'B07YJQSQF9-es'
 tags: [ 'juguetes', ]

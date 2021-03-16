@@ -5,7 +5,7 @@ date: 2020-09-13 08:43:53
 image: 'https://m.media-amazon.com/images/I/51kDHE8AKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L68S1CB-es Lepfun 1 x Rodilleras Compresión Rodilleras Deportivas...'
 sku: 'B07L68S1CB-es'
 tags: [ 'bicicleta', ]

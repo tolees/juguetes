@@ -5,7 +5,7 @@ date: 2020-09-09 07:50:27
 image: 'https://m.media-amazon.com/images/I/51tYJZtouCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J69DDBK-es LEGO Marvel Super Heroes - Batalla contra Molten Man...'
 sku: 'B07J69DDBK-es'
 tags: [ 'lego', ]

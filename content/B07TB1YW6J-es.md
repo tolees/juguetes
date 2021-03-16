@@ -5,7 +5,7 @@ date: 2020-03-22 07:30:52
 image: 'https://m.media-amazon.com/images/I/51fv5VJyxXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB1YW6J-es Marvel Legends - Iron Man Mark 50 y Iron Spider Hasbro...'
 sku: 'B07TB1YW6J-es'
 tags: [ 'hasbro', ]

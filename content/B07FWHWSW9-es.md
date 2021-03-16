@@ -5,7 +5,7 @@ date: 2020-09-04 07:26:18
 image: 'https://m.media-amazon.com/images/I/41Rxm+sjHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWHWSW9-es Mattel- Toy Story Figura Woody 20 cm Multicolor GDP68'
 sku: 'B07FWHWSW9-es'
 tags: [ 'mattel-', ]

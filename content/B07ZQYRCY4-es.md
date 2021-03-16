@@ -5,7 +5,7 @@ date: 2020-05-26 18:20:52
 image: 'https://m.media-amazon.com/images/I/417l4GaUeYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQYRCY4-es Marvel- Black Widow Legends Summer Civilian Hasbro E87705X0'
 sku: 'B07ZQYRCY4-es'
 tags: [ 'hasbro', ]

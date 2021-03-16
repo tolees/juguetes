@@ -5,7 +5,7 @@ date: 2020-04-17 00:41:26
 image: 'https://m.media-amazon.com/images/I/51m99NREhEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076V9ZDH1-es GOZAR Classic Fun Tetris Mano Held LCD Retro Juegos...'
 sku: 'B076V9ZDH1-es'
 tags: [ 'juguetes', ]

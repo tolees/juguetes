@@ -5,7 +5,7 @@ date: 2020-07-29 11:32:51
 image: 'https://m.media-amazon.com/images/I/51pLwEr9jKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP7SZN5-es Star Wars 8 Sable Camino de la Fuerza Multicolor Hasbro...'
 sku: 'B06WP7SZN5-es'
 tags: [ 'hasbro', ]

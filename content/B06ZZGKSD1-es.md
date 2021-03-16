@@ -5,7 +5,7 @@ date: 2020-06-14 17:10:34
 image: 'https://m.media-amazon.com/images/I/61YZI3xy-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZGKSD1-es Juego de Tronos Puzzle 3D de Madera 56 Piezas Educa Borrás...'
 sku: 'B06ZZGKSD1-es'
 tags: [ 'puzzle', ]

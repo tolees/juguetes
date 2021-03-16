@@ -5,7 +5,7 @@ date: 2020-07-15 11:02:36
 image: 'https://m.media-amazon.com/images/I/61+8-1Y+c-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JFC4PK-es Educa - Dinosaurios Puzzle infantil de 100 piezas a partir...'
 sku: 'B000JFC4PK-es'
 tags: [ 'puzzle', ]

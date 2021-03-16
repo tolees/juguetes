@@ -5,7 +5,7 @@ date: 2020-02-10 16:54:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sbVsd7VbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJVJ36P-es Splash Toys The Bellies Pinky-Twink 30280 Rosa'
 sku: 'B07PJVJ36P-es'
 tags: [ 'bellies','the', ]

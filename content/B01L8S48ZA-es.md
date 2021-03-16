@@ -5,7 +5,7 @@ date: 2020-05-27 19:06:18
 image: 'https://m.media-amazon.com/images/I/41VinyZ0usL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L8S48ZA-es Saint Seiya Myth Cloth Figura Bandai BDISS079170'
 sku: 'B01L8S48ZA-es'
 tags: [ 'bandai', ]

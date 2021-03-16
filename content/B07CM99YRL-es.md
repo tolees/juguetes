@@ -5,7 +5,7 @@ date: 2020-01-30 17:56:44
 image: 'https://m.media-amazon.com/images/I/51XSvpEBsmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CM99YRL-es Nerf - Laser Ops Deltaburst Hasbro E2279EU4'
 sku: 'B07CM99YRL-es'
 tags: [ 'hasbro','nerf', ]

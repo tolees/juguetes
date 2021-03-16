@@ -5,7 +5,7 @@ date: 2020-07-10 03:19:30
 image: 'https://m.media-amazon.com/images/I/41SeN2JNwnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B8XMT11-es Riviax - Pelota Anti Estrés Suave [6 Pack] Bolas con...'
 sku: 'B08B8XMT11-es'
 tags: [ 'juguetes', ]

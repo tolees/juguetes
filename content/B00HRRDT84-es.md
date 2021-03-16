@@ -5,7 +5,7 @@ date: 2020-04-07 05:15:54
 image: 'https://m.media-amazon.com/images/I/515Pm+piDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRDT84-es SYLVANIAN FAMILIES Venta de zumos Epoch para Imaginar 4478'
 sku: 'B00HRRDT84-es'
 tags: [ 'families','sylvanian', ]

@@ -5,7 +5,7 @@ date: 2020-09-14 08:52:29
 image: 'https://m.media-amazon.com/images/I/41v-HT19hxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMQ7QVT-es HAISSKY Riñonera Deportiva Riñonera Running Impermeable...'
 sku: 'B07VMQ7QVT-es'
 tags: [ 'bicicleta', ]

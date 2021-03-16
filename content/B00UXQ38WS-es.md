@@ -5,7 +5,7 @@ date: 2020-04-22 20:32:21
 image: 'https://m.media-amazon.com/images/I/51R2RDG+4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UXQ38WS-es Twitfish® - Mini Canasta Interior de Baloncesto - Novedad...'
 sku: 'B00UXQ38WS-es'
 tags: [ 'juguetes', ]

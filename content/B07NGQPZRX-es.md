@@ -5,7 +5,7 @@ date: 2020-06-05 06:13:58
 image: 'https://m.media-amazon.com/images/I/41HylqZ40YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGQPZRX-es MUNDO PETIT -Chaleco Flotador de Ayuda a la flotabilidad...'
 sku: 'B07NGQPZRX-es'
 tags: [ 'flotador', ]

@@ -5,7 +5,7 @@ date: 2020-02-07 10:32:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51sN1KQWNGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G25W4DV-es Lommer 7pcs Ajustable Casco Ciclismo Niño Casco Bici Bebe...'
 sku: 'B07G25W4DV-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-10-09 08:00:10
 image: 'https://m.media-amazon.com/images/I/51CEq3p+4LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0006JGFNQ-es Desconocido Gremlins - Gizmo Peluche bailarín 20 cm NECA...'
 sku: 'B0006JGFNQ-es'
 tags: [ 'peluche', ]

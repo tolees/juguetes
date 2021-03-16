@@ -5,7 +5,7 @@ date: 2020-04-05 08:44:23
 image: 'https://m.media-amazon.com/images/I/41Ajmc9T8gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6RORTM-es Thule TH100090 Portabultos de Bicicleta Unisex Adulto...'
 sku: 'B01N6RORTM-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-07-07 12:44:08
 image: 'https://m.media-amazon.com/images/I/31dRR2UI-6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0063HNAHY-es Michelin Dynamic Sport 700X28 - Cubierta de bicicleta...'
 sku: 'B0063HNAHY-es'
 tags: [ 'bicicleta', ]

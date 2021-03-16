@@ -5,7 +5,7 @@ date: 2020-08-26 11:14:57
 image: 'https://m.media-amazon.com/images/I/51nDYDn7OdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSV8Z2Z-es LEADSTAR Tangram Puzzle Tangram Madera Shape Puzzle Set...'
 sku: 'B07WSV8Z2Z-es'
 tags: [ 'juguetes','puzzle','rompecabezas', ]

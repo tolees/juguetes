@@ -5,7 +5,7 @@ date: 2020-01-14 21:48:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dX-%2BuIEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J5NIYLY-es Educa Borrás - Tower Bridge Puzzle 3D 16999'
 sku: 'B01J5NIYLY-es'
 tags: [ 'puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-06-14 12:31:26
 image: 'https://m.media-amazon.com/images/I/41z9AGttnmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00840LBME-es Novi Stars - ARI Roma muñeca Bandai 516958'
 sku: 'B00840LBME-es'
 tags: [ 'bandai', ]

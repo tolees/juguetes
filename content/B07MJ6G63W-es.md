@@ -5,7 +5,7 @@ date: 2020-09-01 12:08:36
 image: 'https://m.media-amazon.com/images/I/51ORlNqiBUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ6G63W-es TOP BRIGHT Juguetes Magnéticos para Niños Pequeños Juego...'
 sku: 'B07MJ6G63W-es'
 tags: [ 'juguetes', ]

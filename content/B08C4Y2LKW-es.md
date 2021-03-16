@@ -5,7 +5,7 @@ date: 2020-07-31 16:46:53
 image: 'https://m.media-amazon.com/images/I/51ru0-NHOEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4Y2LKW-es Diy Cuentas hechas a mano Juguetes con accesorios Set Kids...'
 sku: 'B08C4Y2LKW-es'
 tags: [ 'juguetes', ]

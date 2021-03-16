@@ -5,7 +5,7 @@ date: 2020-09-25 18:46:32
 image: 'https://m.media-amazon.com/images/I/4178Tj3AzfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JGCH66F-es MAJOZ0 Vitrina de Acrílico Caja de Presentación para Lego...'
 sku: 'B08JGCH66F-es'
 tags: [ 'lego', ]

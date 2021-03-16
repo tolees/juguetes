@@ -5,7 +5,7 @@ date: 2020-03-25 19:08:14
 image: 'https://m.media-amazon.com/images/I/51gseP8gNpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3UGTXS-es Wissper Wissper-9358495 Muñeca Simba 9358495'
 sku: 'B01M3UGTXS-es'
 tags: [ 'simba', ]

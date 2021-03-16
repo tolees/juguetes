@@ -5,7 +5,7 @@ date: 2020-10-09 13:08:10
 image: 'https://m.media-amazon.com/images/I/413jsbfaAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKBCPBJ-es Ocobudbxw Memory Match Stick Chess Niños Niños Puzzle...'
 sku: 'B08DKBCPBJ-es'
 tags: [ 'puzzle', ]

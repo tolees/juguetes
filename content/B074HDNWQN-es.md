@@ -5,7 +5,7 @@ date: 2020-03-16 20:22:43
 image: 'https://m.media-amazon.com/images/I/61yz3A9IdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074HDNWQN-es Winterwölfe. Puzzle 1000 Teile'
 sku: 'B074HDNWQN-es'
 tags: [ 'puzzle', ]

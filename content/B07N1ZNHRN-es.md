@@ -5,7 +5,7 @@ date: 2020-08-14 11:47:02
 image: 'https://m.media-amazon.com/images/I/515AK1zXQ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1ZNHRN-es Educa Dragon Ball Puzzle Infantil de 200 Piezas a Partir...'
 sku: 'B07N1ZNHRN-es'
 tags: [ 'puzzle', ]

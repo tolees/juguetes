@@ -5,7 +5,7 @@ date: 2020-03-28 10:11:16
 image: 'https://m.media-amazon.com/images/I/41o5n3pBvlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1BMKS1-es Avengers Martillo - De Combate Thor Hasbro B0445EUC'
 sku: 'B07N1BMKS1-es'
 tags: [ 'hasbro', ]

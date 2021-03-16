@@ -5,7 +5,7 @@ date: 2020-09-26 12:57:38
 image: 'https://m.media-amazon.com/images/I/51BWHpWDHJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYBN2CR-es Estadio Hypersphere Vortex Climb Hasbro E7621EU4'
 sku: 'B07ZYBN2CR-es'
 tags: [ 'hasbro', ]

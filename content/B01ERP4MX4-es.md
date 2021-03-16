@@ -5,7 +5,7 @@ date: 2020-03-24 20:28:47
 image: 'https://m.media-amazon.com/images/I/41olHwoJ+vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERP4MX4-es BH Fitness Atlantic Dual Bicicleta elíptica Unisex para...'
 sku: 'B01ERP4MX4-es'
 tags: [ 'bicicleta', ]

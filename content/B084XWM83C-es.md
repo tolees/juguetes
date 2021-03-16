@@ -5,7 +5,7 @@ date: 2020-05-17 22:01:48
 image: 'https://m.media-amazon.com/images/I/51TIevMQjpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084XWM83C-es Star Wars- Vintage Nave Slave Hasbro E96475L0'
 sku: 'B084XWM83C-es'
 tags: [ 'hasbro', ]

@@ -5,7 +5,7 @@ date: 2020-03-24 17:02:42
 image: 'https://m.media-amazon.com/images/I/51UscrrDwUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLTN5Z2-es Juguetes de Baño Flotante con Juegos de Pesca para Niños...'
 sku: 'B01JLTN5Z2-es'
 tags: [ 'juguetes', ]

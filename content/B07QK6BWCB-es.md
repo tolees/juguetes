@@ -5,7 +5,7 @@ date: 2020-05-15 13:59:20
 image: 'https://m.media-amazon.com/images/I/31+DN4styDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QK6BWCB-es Muñeco Dinosaurio Peluche Pequeño Juguetes de Dinosaurios...'
 sku: 'B07QK6BWCB-es'
 tags: [ 'juguetes','peluche', ]

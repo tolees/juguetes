@@ -5,7 +5,7 @@ date: 2020-08-14 19:51:51
 image: 'https://m.media-amazon.com/images/I/51YNf1L0LSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089M2SN4B-es Symiu Juguetes para Niños DIY Bloques de Construcción...'
 sku: 'B089M2SN4B-es'
 tags: [ 'juguetes', ]

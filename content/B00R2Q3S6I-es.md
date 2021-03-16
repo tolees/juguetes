@@ -5,7 +5,7 @@ date: 2020-06-24 17:38:40
 image: 'https://m.media-amazon.com/images/I/51TZyIT58-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R2Q3S6I-es KONG - CuteSeas Octopus - Peluche de Pana para Perros -...'
 sku: 'B00R2Q3S6I-es'
 tags: [ 'peluche', ]

@@ -5,7 +5,7 @@ date: 2020-03-20 19:06:08
 image: 'https://m.media-amazon.com/images/I/511rVqfa9yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6KDQZT-es Candado de Disco De Alarma Disco De Bloqueo para Moto...'
 sku: 'B07Q6KDQZT-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-04-07 13:14:26
 image: 'https://m.media-amazon.com/images/I/41q1dUMphDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTI9IKO-es Piny Muñeca Fashion Julia Famosa 700013446'
 sku: 'B01LTI9IKO-es'
 tags: [ 'famosa', ]

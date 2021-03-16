@@ -5,7 +5,7 @@ date: 2020-09-25 08:23:00
 image: 'https://m.media-amazon.com/images/I/51KZRzRI-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017HASEV2-es Disney Princess- Ariel Muñeca Color Verde y Rojo Hasbro...'
 sku: 'B017HASEV2-es'
 tags: [ 'hasbro', ]

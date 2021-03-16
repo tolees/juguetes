@@ -5,7 +5,7 @@ date: 2020-09-10 19:40:38
 image: 'https://m.media-amazon.com/images/I/41Jkj+AkLUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JLPZYN-es Barbie Muñeca Chelsea y su tren de mascotas accesorios...'
 sku: 'B079JLPZYN-es'
 tags: [ 'barbie','mattel', ]

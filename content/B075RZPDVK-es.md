@@ -5,7 +5,7 @@ date: 2020-03-03 12:17:33
 image: 'https://m.media-amazon.com/images/I/41O2wI7yLQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RZPDVK-es amzdeal Soporte Caballete de reparación de Bicicletas...'
 sku: 'B075RZPDVK-es'
 tags: [ 'bicicleta', ]

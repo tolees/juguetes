@@ -5,7 +5,7 @@ date: 2020-09-29 10:25:39
 image: 'https://m.media-amazon.com/images/I/41pzPCCuuSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OZAZAP6-es Nerf N-Strike Blaster Ner Elite Pistola Lanzador Sharpfire...'
 sku: 'B00OZAZAP6-es'
 tags: [ 'hasbro','nerf', ]

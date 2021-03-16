@@ -5,7 +5,7 @@ date: 2020-02-20 09:32:17
 image: 'https://m.media-amazon.com/images/I/41PWLN5CnfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BWPM95K-es Disney Simba 6315874752 Frozen Peluche Muñeco de Nieve...'
 sku: 'B01BWPM95K-es'
 tags: [ 'peluche','simba', ]

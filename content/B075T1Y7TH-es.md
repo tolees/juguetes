@@ -5,7 +5,7 @@ date: 2020-04-19 05:48:51
 image: 'https://m.media-amazon.com/images/I/51awPfLFQcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075T1Y7TH-es LEGO Friends - Entrenamiento de fútbol de Stephanie 41330'
 sku: 'B075T1Y7TH-es'
 tags: [ 'lego', ]

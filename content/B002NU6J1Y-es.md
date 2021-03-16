@@ -5,7 +5,7 @@ date: 2020-03-22 09:05:57
 image: 'https://m.media-amazon.com/images/I/31mvU7S5s2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002NU6J1Y-es Garmin 010-11430-00 - Soporte de Bicicleta para GPS'
 sku: 'B002NU6J1Y-es'
 tags: [ 'bicicleta', ]

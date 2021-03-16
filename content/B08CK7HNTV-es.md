@@ -5,7 +5,7 @@ date: 2020-07-17 16:46:01
 image: 'https://m.media-amazon.com/images/I/31cYM1S4UrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CK7HNTV-es Panamar Niños Bebé Cute Cartoon Ballena Flotante...'
 sku: 'B08CK7HNTV-es'
 tags: [ 'juguetes', ]

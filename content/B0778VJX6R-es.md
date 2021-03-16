@@ -5,7 +5,7 @@ date: 2020-02-17 09:02:55
 image: 'https://m.media-amazon.com/images/I/41DwozQ6y5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778VJX6R-es AEST Correpasillos Y Patinete 2 En 1 Bicicleta Sin Pedales...'
 sku: 'B0778VJX6R-es'
 tags: [ 'bicicleta', ]

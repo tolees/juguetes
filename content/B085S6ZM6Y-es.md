@@ -5,7 +5,7 @@ date: 2020-09-21 11:02:12
 image: 'https://m.media-amazon.com/images/I/51p5xi84CkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S6ZM6Y-es Juguete de Aparcamiento de Jaques de Londres con...'
 sku: 'B085S6ZM6Y-es'
 tags: [ 'juguetes', ]

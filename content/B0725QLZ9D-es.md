@@ -5,7 +5,7 @@ date: 2020-06-12 17:21:11
 image: 'https://m.media-amazon.com/images/I/414uc65u19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725QLZ9D-es Pinypon by PINY PINY - Muñeca Michelle en clase de diseño...'
 sku: 'B0725QLZ9D-es'
 tags: [ 'famosa','pinypon', ]

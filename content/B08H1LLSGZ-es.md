@@ -5,7 +5,7 @@ date: 2020-09-19 09:45:53
 image: 'https://m.media-amazon.com/images/I/41TnuXDp+zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H1LLSGZ-es Panamar Juguetes de baño Luz de Agua en Aerosol Girar con...'
 sku: 'B08H1LLSGZ-es'
 tags: [ 'juguetes', ]

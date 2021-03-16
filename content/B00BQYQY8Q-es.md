@@ -5,7 +5,7 @@ date: 2020-08-23 10:12:36
 image: 'https://m.media-amazon.com/images/I/41tlY6UaqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BQYQY8Q-es Imaginext - Batcueva Mattel X7677'
 sku: 'B00BQYQY8Q-es'
 tags: [ 'mattel', ]

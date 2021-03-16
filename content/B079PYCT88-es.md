@@ -5,7 +5,7 @@ date: 2020-06-23 07:05:43
 image: 'https://m.media-amazon.com/images/I/51jxv7fy81L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PYCT88-es Clementoni- Disney Collection Puzzle 1000 Piezas Panorama...'
 sku: 'B079PYCT88-es'
 tags: [ 'puzzle', ]

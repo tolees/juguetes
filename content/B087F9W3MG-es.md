@@ -5,7 +5,7 @@ date: 2020-05-26 09:03:30
 image: 'https://m.media-amazon.com/images/I/51G7Bx7V6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087F9W3MG-es N/ A 1 Juego de Tablero de Dardos de Seguridad Juguetes...'
 sku: 'B087F9W3MG-es'
 tags: [ 'juguetes', ]

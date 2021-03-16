@@ -5,7 +5,7 @@ date: 2020-08-26 23:19:42
 image: 'https://m.media-amazon.com/images/I/61bTdlPHFJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VJ4QR9-es Bolsa de fiesta de para niñas relleno para piñatas 120...'
 sku: 'B085VJ4QR9-es'
 tags: [ 'juguetes', ]

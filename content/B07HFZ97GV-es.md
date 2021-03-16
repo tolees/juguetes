@@ -5,7 +5,7 @@ date: 2020-01-21 22:41:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41y43TAj-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZ97GV-es Funda para Bicicleta Impermeable Massway Cubierta...'
 sku: 'B07HFZ97GV-es'
 tags: [ 'bicicleta', ]

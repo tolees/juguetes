@@ -5,7 +5,7 @@ date: 2020-09-06 15:47:00
 image: 'https://m.media-amazon.com/images/I/41oPZbD+RpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083C5J2GY-es Dragon Ball Z - Peluche Freezer 15 cm'
 sku: 'B083C5J2GY-es'
 tags: [ 'peluche', ]

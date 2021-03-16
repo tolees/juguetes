@@ -5,7 +5,7 @@ date: 2020-04-08 05:33:23
 image: 'https://m.media-amazon.com/images/I/41t1KZYad9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRZJ3PW-es Youngshion - Organizador de Maquillaje portátil para...'
 sku: 'B07MRZJ3PW-es'
 tags: [ 'juguetes', ]

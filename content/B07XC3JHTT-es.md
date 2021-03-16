@@ -5,7 +5,7 @@ date: 2020-07-31 16:34:44
 image: 'https://m.media-amazon.com/images/I/41fYNy080eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC3JHTT-es Disney Cars 3 pista de coches Super Looping XRS Rocket...'
 sku: 'B07XC3JHTT-es'
 tags: [ 'mattel', ]

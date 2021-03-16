@@ -5,7 +5,7 @@ date: 2020-03-05 09:42:03
 image: 'https://m.media-amazon.com/images/I/51XI6YrQddL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765C2PMB-es LEGO City Ártico - Vehículo de Exploración Juguete de...'
 sku: 'B0765C2PMB-es'
 tags: [ 'lego', ]

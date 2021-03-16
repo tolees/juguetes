@@ -5,7 +5,7 @@ date: 2020-07-12 07:20:51
 image: 'https://m.media-amazon.com/images/I/412thaeXkmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WPCGNJZ-es Star Wars - Figura de acción de Rey con sable de Galaxy of...'
 sku: 'B07WPCGNJZ-es'
 tags: [ 'hasbro', ]

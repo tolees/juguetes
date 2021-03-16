@@ -5,7 +5,7 @@ date: 2020-03-25 09:37:06
 image: 'https://m.media-amazon.com/images/I/51SIQoOw7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ZSTZ38-es Toimsa Bicicleta para Niñas Minnie Rosa 611'
 sku: 'B007ZSTZ38-es'
 tags: [ 'bicicleta', ]

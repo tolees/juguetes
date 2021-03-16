@@ -5,7 +5,7 @@ date: 2020-07-01 13:02:51
 image: 'https://m.media-amazon.com/images/I/41apduR-DwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JA5U6LS-es Fisher-Price Coche Monstruito verde juguete gateo bebé +9...'
 sku: 'B01JA5U6LS-es'
 tags: [ 'fisher-price','mattel', ]

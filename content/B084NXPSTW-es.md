@@ -5,7 +5,7 @@ date: 2020-05-23 12:46:32
 image: 'https://m.media-amazon.com/images/I/41yUYcWVhYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084NXPSTW-es LoveOlvido 13 Unids / Set Simulación Vajilla Roja...'
 sku: 'B084NXPSTW-es'
 tags: [ 'juguetes', ]

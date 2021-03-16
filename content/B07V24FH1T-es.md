@@ -5,7 +5,7 @@ date: 2020-09-16 19:28:25
 image: 'https://m.media-amazon.com/images/I/517Ea3EKUnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V24FH1T-es Safta Sport Bag 40 Cm Superzings Bolsa de gimnasio Unisex...'
 sku: 'B07V24FH1T-es'
 tags: [ 'superzings', ]

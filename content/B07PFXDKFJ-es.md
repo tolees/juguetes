@@ -5,7 +5,7 @@ date: 2020-07-01 21:18:27
 image: 'https://m.media-amazon.com/images/I/41C8hdNAJ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFXDKFJ-es Disney Toy Story 4 - Casco de Ranger Espacial Buzz...'
 sku: 'B07PFXDKFJ-es'
 tags: [ 'juguetes','mattel', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 09:20:59
 image: 'https://m.media-amazon.com/images/I/51HDlFAqoQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9SGN67-es SYLVANIAN FAMILIES- Amigas patinadoras sobre Hielo Epoch...'
 sku: 'B06X9SGN67-es'
 tags: [ 'families','sylvanian', ]

@@ -5,7 +5,7 @@ date: 2020-04-24 19:04:00
 image: 'https://m.media-amazon.com/images/I/51bx9sarOGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W55JTT7-es Simba 6315878710pro Disney – Peluche de Mickey 61 cm'
 sku: 'B06W55JTT7-es'
 tags: [ 'peluche','simba', ]

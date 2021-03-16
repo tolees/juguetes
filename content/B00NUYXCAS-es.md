@@ -5,7 +5,7 @@ date: 2020-03-15 19:02:50
 image: 'https://m.media-amazon.com/images/I/61F3Z4ax1kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NUYXCAS-es LEGO: Batman 3. Más Allá De Gotham'
 sku: 'B00NUYXCAS-es'
 tags: [ 'lego:', ]

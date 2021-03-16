@@ -5,7 +5,7 @@ date: 2020-04-14 18:28:52
 image: 'https://m.media-amazon.com/images/I/513dHOYjM8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKR88NW-es Cinta de la motocicleta Etiqueta de la decoración Rueda de...'
 sku: 'B07TKR88NW-es'
 tags: [ 'bicicleta', ]

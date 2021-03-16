@@ -5,7 +5,7 @@ date: 2020-04-14 09:17:04
 image: 'https://m.media-amazon.com/images/I/61B8JsNLQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1J1M7P-es Viccess 24 Piezas Juguetes de Rompecabezas de Serpiente...'
 sku: 'B07T1J1M7P-es'
 tags: [ 'juguetes','rompecabezas', ]

@@ -5,7 +5,7 @@ date: 2020-05-28 22:18:41
 image: 'https://m.media-amazon.com/images/I/31BpLrZKsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8SF2CM-es Supersoaker Fortnite Rl multicolor Box size: 68.3 x 28 x...'
 sku: 'B07M8SF2CM-es'
 tags: [ 'hasbro', ]

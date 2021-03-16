@@ -5,7 +5,7 @@ date: 2020-03-22 22:01:44
 image: 'https://m.media-amazon.com/images/I/51LZjwl0WIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMG84FG-es Star Wars E0584 Juguete interactivos - Juguetes...'
 sku: 'B07CMG84FG-es'
 tags: [ 'juguetes', ]

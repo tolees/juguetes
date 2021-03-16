@@ -5,7 +5,7 @@ date: 2020-05-29 09:58:39
 image: 'https://m.media-amazon.com/images/I/41FT9BNFuNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014SO4XJC-es Star Wars - Sable extensible 1 unidad Hasbro B2912EU4...'
 sku: 'B014SO4XJC-es'
 tags: [ 'hasbro', ]

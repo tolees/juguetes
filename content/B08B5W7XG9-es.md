@@ -5,7 +5,7 @@ date: 2020-08-14 11:30:28
 image: 'https://m.media-amazon.com/images/I/51ejYteioSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5W7XG9-es AniBlock puzzle challenger - diversión y forma creativa...'
 sku: 'B08B5W7XG9-es'
 tags: [ 'juguetes','puzzle', ]

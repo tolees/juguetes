@@ -5,7 +5,7 @@ date: 2020-01-07 13:16:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413dhUrlliL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDRZ1D8-es Aizhy Bomba para Bicicleta Bomba ergonómica para Piso de...'
 sku: 'B07VDRZ1D8-es'
 tags: [ 'bicicleta', ]

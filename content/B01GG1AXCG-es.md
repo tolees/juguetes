@@ -5,7 +5,7 @@ date: 2020-04-18 02:10:42
 image: 'https://m.media-amazon.com/images/I/41fk62fZpiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GG1AXCG-es TROLLS - Coronación de la Princesa Poppy Hasbro B6560EU4'
 sku: 'B01GG1AXCG-es'
 tags: [ 'hasbro', ]

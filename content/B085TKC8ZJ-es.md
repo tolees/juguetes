@@ -5,7 +5,7 @@ date: 2020-08-09 19:00:22
 image: 'https://m.media-amazon.com/images/I/61wWucVYHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TKC8ZJ-es Jaques de Londres juguemos Rompecabezas del Planeta -...'
 sku: 'B085TKC8ZJ-es'
 tags: [ 'juguetes','rompecabezas', ]

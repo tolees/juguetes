@@ -5,7 +5,7 @@ date: 2020-09-27 00:20:38
 image: 'https://m.media-amazon.com/images/I/61rU1pANtCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0178AYQUY-es ION fitness AXEL FI022 bicicleta estática plegable con...'
 sku: 'B0178AYQUY-es'
 tags: [ 'bicicleta', ]

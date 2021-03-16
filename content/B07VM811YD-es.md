@@ -5,7 +5,7 @@ date: 2020-04-08 06:07:02
 image: 'https://m.media-amazon.com/images/I/41r40d7u0PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM811YD-es TekHome 2019 Nueva Cámara de Fotos para Niños con 32GB...'
 sku: 'B07VM811YD-es'
 tags: [ 'juguetes', ]

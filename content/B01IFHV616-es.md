@@ -5,7 +5,7 @@ date: 2020-08-10 21:03:01
 image: 'https://m.media-amazon.com/images/I/51TtPF3spZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IFHV616-es Star Wars - Juego de Habilidad Operación Hasbro'
 sku: 'B01IFHV616-es'
 tags: [ 'hasbro', ]

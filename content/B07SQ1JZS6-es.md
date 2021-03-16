@@ -5,7 +5,7 @@ date: 2020-08-07 20:39:55
 image: 'https://m.media-amazon.com/images/I/31py3cgSwaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ1JZS6-es Owleez Blanco Mascota Interactiva BIZAK 61928560'
 sku: 'B07SQ1JZS6-es'
 tags: [ 'bizak', ]

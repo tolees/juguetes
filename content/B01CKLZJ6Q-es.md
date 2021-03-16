@@ -5,7 +5,7 @@ date: 2020-07-09 21:47:26
 image: 'https://m.media-amazon.com/images/I/31QYETM+ibL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CKLZJ6Q-es PrimeMatik - Soporte de Pared con Gancho Plegable para...'
 sku: 'B01CKLZJ6Q-es'
 tags: [ 'bicicleta', ]

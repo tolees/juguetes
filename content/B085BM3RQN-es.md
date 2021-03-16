@@ -5,7 +5,7 @@ date: 2020-09-12 10:56:58
 image: 'https://m.media-amazon.com/images/I/51MrPpUWwlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BM3RQN-es YIMINYUER Stomping Ground Toys - 20 Alfombras Puzzle EVA...'
 sku: 'B085BM3RQN-es'
 tags: [ 'puzzle', ]

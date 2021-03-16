@@ -5,7 +5,7 @@ date: 2020-08-04 18:49:31
 image: 'https://m.media-amazon.com/images/I/31zBbeIyMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D8CPQXC-es Shimano CN-HG701-11 - Cadena para bicicleta Estrecha 11...'
 sku: 'B01D8CPQXC-es'
 tags: [ 'bicicleta', ]

@@ -5,7 +5,7 @@ date: 2020-09-20 08:02:45
 image: 'https://m.media-amazon.com/images/I/51FLKqjv0SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084X6ZXZD-es YIMINYUER Alfombra Puzzle de Colores de Goma EVA Suave...'
 sku: 'B084X6ZXZD-es'
 tags: [ 'puzzle', ]

@@ -5,7 +5,7 @@ date: 2020-09-10 15:12:04
 image: 'https://m.media-amazon.com/images/I/51K3jg7MHrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783Q3SLL-es Vampirina-78105 Muñeca Básica Multicolor Bandai JPL78105'
 sku: 'B0783Q3SLL-es'
 tags: [ 'bandai', ]

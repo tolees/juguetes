@@ -5,7 +5,7 @@ date: 2020-05-03 04:35:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpD2YTmbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725ZBT3H-es FEBER - Mad Racer 12 V Famosa 800011361'
 sku: 'B0725ZBT3H-es'
 tags: [ 'famosa','feber', ]

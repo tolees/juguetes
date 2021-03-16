@@ -5,7 +5,7 @@ date: 2020-08-15 16:01:15
 image: 'https://m.media-amazon.com/images/I/517yfpPG9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBM4VZ3-es himaly Mini Bicicleta Estática con Pantalla LCD para...'
 sku: 'B07BBM4VZ3-es'
 tags: [ 'bicicleta', ]

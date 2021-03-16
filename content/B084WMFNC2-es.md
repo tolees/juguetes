@@ -5,7 +5,7 @@ date: 2020-09-20 08:01:27
 image: 'https://m.media-amazon.com/images/I/51FKUPbd0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WMFNC2-es YIMINYUER Esterilla Puzzle de Fitness 30x30x1cm Suelo de...'
 sku: 'B084WMFNC2-es'
 tags: [ 'puzzle', ]

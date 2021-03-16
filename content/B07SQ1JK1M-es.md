@@ -5,7 +5,7 @@ date: 2020-09-26 20:21:08
 image: 'https://m.media-amazon.com/images/I/61sZxJJBWIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ1JK1M-es Kinetic Sand Sandtastic Arena Kinética BIZAK 61921467'
 sku: 'B07SQ1JK1M-es'
 tags: [ 'bizak','kinetic','sand', ]

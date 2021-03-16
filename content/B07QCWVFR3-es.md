@@ -5,7 +5,7 @@ date: 2020-03-27 09:44:40
 image: 'https://m.media-amazon.com/images/I/51+GeB5VRQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCWVFR3-es Gupamiga Tienda de Juguetes para niños Tienda de teepe...'
 sku: 'B07QCWVFR3-es'
 tags: [ 'juguetes', ]

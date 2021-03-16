@@ -5,7 +5,7 @@ date: 2020-04-07 13:34:17
 image: 'https://m.media-amazon.com/images/I/51UBgAWR-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D595EMC-es Ravensburger - 3D Puzzle Building Faro Night 12577 7'
 sku: 'B00D595EMC-es'
 tags: [ 'puzzle','ravensburger', ]

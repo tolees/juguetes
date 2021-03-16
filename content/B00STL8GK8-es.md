@@ -5,7 +5,7 @@ date: 2020-06-16 21:31:06
 image: 'https://m.media-amazon.com/images/I/51sUGzk2VsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00STL8GK8-es Furreal Friends - Peluche interactivo JJ Mi Perrito...'
 sku: 'B00STL8GK8-es'
 tags: [ 'hasbro','peluche', ]

@@ -5,7 +5,7 @@ date: 2020-09-04 10:33:18
 image: 'https://m.media-amazon.com/images/I/513jph9bQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP6QRDK-es LEGO DUPLO Disney - Mi Primer Modelo de Mickey Juguete...'
 sku: 'B07FP6QRDK-es'
 tags: [ 'lego', ]

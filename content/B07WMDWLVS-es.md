@@ -5,7 +5,7 @@ date: 2020-03-24 09:41:36
 image: 'https://m.media-amazon.com/images/I/41o+L+t8+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMDWLVS-es Mocolo Bolsas de la Compra Reutilizables Ecológicas Bolsa...'
 sku: 'B07WMDWLVS-es'
 tags: [ 'juguetes', ]

@@ -5,7 +5,7 @@ date: 2020-09-18 16:20:19
 image: 'https://m.media-amazon.com/images/I/51PGDa16SAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088X1CJ4P-es Lixada Casco de Bicicleta de Montaña Casco de Motociclismo...'
 sku: 'B088X1CJ4P-es'
 tags: [ 'bicicleta', ]

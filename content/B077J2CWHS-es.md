@@ -5,7 +5,7 @@ date: 2020-04-08 22:05:13
 image: 'https://m.media-amazon.com/images/I/51s5-nPDQsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077J2CWHS-es Fisher-Price Cebra activity juguete colgante para bebé...'
 sku: 'B077J2CWHS-es'
 tags: [ 'fisher-price','mattel', ]

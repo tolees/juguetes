@@ -5,7 +5,7 @@ date: 2020-04-01 09:36:10
 image: 'https://m.media-amazon.com/images/I/51c7G0koV2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJL31N7-es Oonies Squeeze Center para Niños y Niñas a Partir de 5...'
 sku: 'B07SJL31N7-es'
 tags: [ 'famosa', ]

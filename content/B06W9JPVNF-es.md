@@ -5,7 +5,7 @@ date: 2020-07-17 16:28:38
 image: 'https://m.media-amazon.com/images/I/5127ilLa5-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9JPVNF-es Top Race Juego de Cubos de Arena y Palas de Arena 5 "en la...'
 sku: 'B06W9JPVNF-es'
 tags: [ 'juguetes', ]

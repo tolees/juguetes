@@ -5,7 +5,7 @@ date: 2020-03-14 02:47:08
 image: 'https://m.media-amazon.com/images/I/51VTG6p15hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX4YJ7F-es Fivejoy Juguetes de Construcción Bloques de Construccion...'
 sku: 'B07MX4YJ7F-es'
 tags: [ 'juguetes', ]

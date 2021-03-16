@@ -5,7 +5,7 @@ date: 2020-06-24 15:57:34
 image: 'https://m.media-amazon.com/images/I/51zlh0lmCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1S8BG3-es 18 PCS Bolsas Reutilizables Compra Ecológicas Bolsas para...'
 sku: 'B07Y1S8BG3-es'
 tags: [ 'juguetes', ]

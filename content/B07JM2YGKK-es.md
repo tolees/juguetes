@@ -5,7 +5,7 @@ date: 2020-05-27 18:40:29
 image: 'https://m.media-amazon.com/images/I/31LDCdgA8iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM2YGKK-es Promise Babe Cuentas de Silicona Dentición del Bebé...'
 sku: 'B07JM2YGKK-es'
 tags: [ 'juguetes', ]

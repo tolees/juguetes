@@ -5,7 +5,7 @@ date: 2020-08-07 19:11:34
 image: 'https://m.media-amazon.com/images/I/514ylYXcrdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZQFG16-es WISHTIME Sonajeros Bebe para BebéS 12 Piezas De Juguetes...'
 sku: 'B088ZQFG16-es'
 tags: [ 'juguetes', ]

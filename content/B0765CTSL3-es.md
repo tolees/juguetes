@@ -5,7 +5,7 @@ date: 2020-02-26 06:52:25
 image: 'https://m.media-amazon.com/images/I/51bvRuk2L+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765CTSL3-es LEGO Juniors - Fuga del T Rex Set de Construcción de...'
 sku: 'B0765CTSL3-es'
 tags: [ 'lego', ]

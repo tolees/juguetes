@@ -5,7 +5,7 @@ date: 2020-07-27 13:33:56
 image: 'https://m.media-amazon.com/images/I/310Ie6RP9XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FEEQSO-es Intex 56587EU - Flotador Hinchable bebé'
 sku: 'B004FEEQSO-es'
 tags: [ 'flotador', ]

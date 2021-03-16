@@ -5,7 +5,7 @@ date: 2020-04-02 08:55:49
 image: 'https://m.media-amazon.com/images/I/413Uye-I0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z6YGDXS-es Barriguitas Edificio loco loco Famosa 700012396'
 sku: 'B00Z6YGDXS-es'
 tags: [ 'famosa', ]

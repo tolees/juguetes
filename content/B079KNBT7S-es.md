@@ -5,7 +5,7 @@ date: 2020-05-28 19:10:39
 image: 'https://m.media-amazon.com/images/I/412aZkAUDlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KNBT7S-es Justice League Figura Manta Negra 15 cm Mattel Fwx62'
 sku: 'B079KNBT7S-es'
 tags: [ 'mattel', ]

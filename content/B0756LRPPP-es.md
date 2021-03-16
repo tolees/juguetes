@@ -5,7 +5,7 @@ date: 2020-07-06 13:02:02
 image: 'https://m.media-amazon.com/images/I/51VcmK4dNfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756LRPPP-es Enchantimals Muñeca con mascota Zelena Zebra - Mattel...'
 sku: 'B0756LRPPP-es'
 tags: [ 'mattel', ]

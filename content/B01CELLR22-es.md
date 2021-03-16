@@ -5,7 +5,7 @@ date: 2020-07-08 19:45:16
 image: 'https://m.media-amazon.com/images/I/51HvfDdgRaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CELLR22-es Hasbro Gaming Clasico Cluedo Versión Española 38712546'
 sku: 'B01CELLR22-es'
 tags: [ 'hasbro', ]

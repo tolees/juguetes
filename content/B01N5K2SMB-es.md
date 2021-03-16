@@ -5,7 +5,7 @@ date: 2020-06-12 07:17:24
 image: 'https://m.media-amazon.com/images/I/51t9me6B4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5K2SMB-es Geomag- Classic Color Construcciones magnéticas y juegos...'
 sku: 'B01N5K2SMB-es'
 tags: [ 'geomag-', ]

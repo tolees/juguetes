@@ -5,7 +5,7 @@ date: 2020-07-09 19:25:11
 image: 'https://m.media-amazon.com/images/I/41hgj2tyn+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AROO06I-es Mattel - DLH56 Shimmer and Shine Muñeca Shimmer con...'
 sku: 'B01AROO06I-es'
 tags: [ 'mattel', ]

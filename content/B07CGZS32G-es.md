@@ -5,7 +5,7 @@ date: 2020-03-06 15:28:23
 image: 'https://m.media-amazon.com/images/I/31VOxZfAlGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGZS32G-es Harry Potter Muñeco Harry de la colección de Harry Potter...'
 sku: 'B07CGZS32G-es'
 tags: [ 'mattel', ]

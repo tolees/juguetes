@@ -5,7 +5,7 @@ date: 2020-02-18 13:57:43
 image: 'https://m.media-amazon.com/images/I/51wQ798V-iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8D4ZVC-es Dilwe RC Bounce Car RH803 Control Remoto Jumping Car RC...'
 sku: 'B07L8D4ZVC-es'
 tags: [ 'juguetes', ]

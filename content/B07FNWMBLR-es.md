@@ -5,7 +5,7 @@ date: 2020-01-20 16:45:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51luyg3CFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWMBLR-es LEGO Ninjago - Spinjitzu Kai peonza roja divertida de...'
 sku: 'B07FNWMBLR-es'
 tags: [ 'lego', ]

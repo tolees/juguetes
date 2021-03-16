@@ -5,7 +5,7 @@ date: 2020-07-21 08:28:36
 image: 'https://m.media-amazon.com/images/I/515N59HeyfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGBCF68-es Juguetes de Buceo Conjunto de Juguete para Piscina Juguete...'
 sku: 'B07QGBCF68-es'
 tags: [ 'juguetes', ]

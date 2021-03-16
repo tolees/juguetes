@@ -5,7 +5,7 @@ date: 2020-04-15 00:52:13
 image: 'https://m.media-amazon.com/images/I/414es4m8I2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017KU1DHQ-es CO2 inflador por PRO – Herramienta de bicicleta rápido y...'
 sku: 'B017KU1DHQ-es'
 tags: [ 'bicicleta', ]

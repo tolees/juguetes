@@ -5,7 +5,7 @@ date: 2020-06-15 17:37:28
 image: 'https://m.media-amazon.com/images/I/61h5peJxaYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793JLV3C-es Educa Borras - Genuine Puzzles Puzzle 500 piezas Cachorros...'
 sku: 'B0793JLV3C-es'
 tags: [ 'puzzle', ]

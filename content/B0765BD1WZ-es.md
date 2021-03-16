@@ -5,7 +5,7 @@ date: 2020-05-24 20:17:42
 image: 'https://m.media-amazon.com/images/I/51vi8jl+QNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765BD1WZ-es LEGO Duplo Disney - Fiesta de cumpleaños de Minnie 10873'
 sku: 'B0765BD1WZ-es'
 tags: [ 'lego', ]

@@ -5,7 +5,7 @@ date: 2020-10-01 17:01:44
 image: 'https://m.media-amazon.com/images/I/51SrSzL0GCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002LIEEG-es Clementoni - Puzzle de 1000 Piezas Louvre diseño Van Dael:...'
 sku: 'B0002LIEEG-es'
 tags: [ 'clementoni','puzzle', ]

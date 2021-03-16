@@ -5,7 +5,7 @@ date: 2020-08-17 11:32:52
 image: 'https://m.media-amazon.com/images/I/51nbXIfXvWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLRX1U6-es Clementoni-39334 Los Pingüinos De Madagascar Puzzle 1000...'
 sku: 'B01BLRX1U6-es'
 tags: [ 'puzzle', ]

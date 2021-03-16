@@ -5,7 +5,7 @@ date: 2020-08-10 07:55:59
 image: 'https://m.media-amazon.com/images/I/51pileg+sZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK9DV1H-es CubicFun Puzzle 3D UK Colección de Kits de Modelos...'
 sku: 'B07SK9DV1H-es'
 tags: [ 'puzzle', ]

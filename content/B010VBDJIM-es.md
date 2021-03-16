@@ -5,7 +5,7 @@ date: 2020-02-15 08:12:31
 image: 'https://m.media-amazon.com/images/I/51yj7-ZN84L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010VBDJIM-es Clementoni - Puzzle 2000 Piezas Las Vegas 32555'
 sku: 'B010VBDJIM-es'
 tags: [ 'clementoni','puzzle', ]

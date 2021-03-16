@@ -5,7 +5,7 @@ date: 2020-03-05 09:41:42
 image: 'https://m.media-amazon.com/images/I/51SmvQcsOdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075T1Q2WH-es LEGO Friends Heartlake - Casa de la Amistad Juguete de...'
 sku: 'B075T1Q2WH-es'
 tags: [ 'lego', ]

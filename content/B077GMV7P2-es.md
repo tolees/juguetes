@@ -5,7 +5,7 @@ date: 2020-04-15 00:44:08
 image: 'https://m.media-amazon.com/images/I/51PLVg+PLuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GMV7P2-es Gifort Pompones Coloridos Pompones Balls 250pcs /...'
 sku: 'B077GMV7P2-es'
 tags: [ 'peluche', ]

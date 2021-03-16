@@ -5,7 +5,7 @@ date: 2020-10-04 12:08:41
 image: 'https://m.media-amazon.com/images/I/61jdJw2B6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JWFA7PC-es Juegos Bizak - Hedbanz actuando 61924162'
 sku: 'B00JWFA7PC-es'
 tags: [ 'bizak', ]

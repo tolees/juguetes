@@ -5,7 +5,7 @@ date: 2020-04-05 13:52:25
 image: 'https://m.media-amazon.com/images/I/41g41J3WVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NFET6TE-es Fisher Price Móvil musical 3 en 1 juguete y proyector de...'
 sku: 'B00NFET6TE-es'
 tags: [ 'mattel', ]

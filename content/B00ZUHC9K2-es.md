@@ -5,7 +5,7 @@ date: 2020-05-16 21:16:10
 image: 'https://m.media-amazon.com/images/I/51GP93pa2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUHC9K2-es King- 2 Puzzles Frozen 50 pcs Rompecabezas Multicolor 05315'
 sku: 'B00ZUHC9K2-es'
 tags: [ 'rompecabezas', ]

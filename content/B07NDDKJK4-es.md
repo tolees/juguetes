@@ -5,7 +5,7 @@ date: 2020-09-11 12:37:52
 image: 'https://m.media-amazon.com/images/I/41OcJiOmU7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDDKJK4-es Famosa- Pinypon Cabeza sorpresa con 1 muñeca Multicolor...'
 sku: 'B07NDDKJK4-es'
 tags: [ 'pinypon', ]
