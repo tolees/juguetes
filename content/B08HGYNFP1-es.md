@@ -28,9 +28,9 @@ Está [Transformers War For Cybertron Deluxe Cheetor  Hasbro F06695X0 ](https://
 
 ℹ️:
 
-- Juguete adecuado para niños a partir de 8 años
+- Figura coleccionable de 14 cm
 - Un producto marca Transformers
 - Figura de acción WFC-K4 Cheetor de Generations War for Cybertron
-- Figura coleccionable de 14 cm
+- Juguete adecuado para niños a partir de 8 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HGYNFP1/?tag=tolees-21)
