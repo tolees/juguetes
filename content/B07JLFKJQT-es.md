@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - City Life Playset  Ambulanci al 16.67 % de descuento'
-date: 2021-03-14 16:14:42
+date: 2021-03-15 23:06:42
 image: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JLFKJQT/?tag=tolees-21'
 descuento: '16.67'
-average: '40.1759670781895'
+average: '40.1744489795921'
 ---
 
 Ahora mismo tienes [Playmobil - City Life Playset  Ambulancia con Luces  Multicolor  70049 ](https://www.amazon.es/dp/B07JLFKJQT/?tag=tolees-21) a 39.99 EUR (original: 47.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
