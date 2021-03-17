@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Playmobil - City Life Playset  Ambulanci al 16.67 % de descuento'
-date: 2021-03-15 23:06:42
+date: 2021-03-17 10:31:07
 image: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLFKJQT-es Playmobil - City Life Playset Ambulancia con Luces...'
 sku: 'B07JLFKJQT-es'
-tags: [ 'playmobil', ]
+tags: [ 'Calendarios de adviento de juguete','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','Videojuegos','playmobil', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07JLFKJQT/?tag=tolees-21'
 descuento: '16.67'
-average: '40.1744489795921'
+average: '40.1729554655873'
 ---
 
 Ahora mismo tienes [Playmobil - City Life Playset  Ambulancia con Luces  Multicolor  70049 ](https://www.amazon.es/dp/B07JLFKJQT/?tag=tolees-21) a 39.99 EUR (original: 47.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
