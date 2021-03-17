@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP5Q73F-es Rolimate Juego de Pesca Magnética de Madera Juego de...'
 sku: 'B07ZP5Q73F-es'
-tags: [ 'Accesorios para Nintendo Switch','Bebé','Calendarios de adviento de juguete','Ciclismo','Consolas Nintendo Switch','Culotes de ciclismo para hombre','Decoración para dormitorio de bebé','Deportes y aire libre','Dormitorio','Electrónica','Electrónica para moto','Electrónica para vehículos','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Móviles para bebé','Playsets de figuras de acción para niños','Playsets de figuras de juguete para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','Soportes para moto','Vehículos de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'Accesorios para Juegos PC','Ciclismo','Culotes de ciclismo para hombre','Deportes y aire libre','Guantes de ciclismo para hombre','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos de construcción para niños','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Juguetes','Juguetes electrónicos','Juguetes y juegos','Karaokes para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Teclados para gamers para PC','Videojuegos','juguetes', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59
