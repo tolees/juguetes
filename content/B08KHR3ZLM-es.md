@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Nintendo Joy-Con  I  Neon Azul con un 24.40 % de descuento'
-date: 2021-03-16 04:28:42
+date: 2021-03-17 04:46:21
 image: 'https://m.media-amazon.com/images/I/31Hj17WSqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KHR3ZLM-es Nintendo Joy-Con I Neon Azul'
 sku: 'B08KHR3ZLM-es'
 tags: [ 'nintendo', ]
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08KHR3ZLM/?tag=tolees-21'
 descuento: '24.40'
-average: '38.0825'
+average: '38.024'
 ---
 
 En este momento está [Nintendo Joy-Con  I  Neon Azul](https://www.amazon.es/dp/B08KHR3ZLM/?tag=tolees-21) a 37.79 EUR (original: 49.99 EUR) (24.40 %  de descuento) en el siguiente enlace!
