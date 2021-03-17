@@ -28,9 +28,9 @@ Está [Bebés Llorones Pijama Pavo Real - Accesorio muñeca](https://www.amazon.
 
 ℹ️:
 
-- Muñeca no incluida
-- Hay 3 modelos de pijamas diferentes. ¡Encuéntralos todos!
 - Amplia el armario de los pijamas de tus bebés llorones
+- Hay 3 modelos de pijamas diferentes. ¡Encuéntralos todos!
+- Muñeca no incluida
 - Puedes cambiarle el pijama a tu bebé llorón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PN6HF11/?tag=tolees-21)
