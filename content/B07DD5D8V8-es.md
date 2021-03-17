@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD5D8V8-es Beados - Pack Temático S8 Kitty Cat Party Famosa 700014681'
 sku: 'B07DD5D8V8-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos para Nintendo Switch','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','famosa', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos para Nintendo Switch','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','famosa', ]
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

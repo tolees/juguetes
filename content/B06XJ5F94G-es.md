@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ5F94G-es JUSTICE LEAGUE- Batman Casco 2 En 1 14 6 x 25 4 x 14 6 cm...'
 sku: 'B06XJ5F94G-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos para Nintendo Switch','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','mattel', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos para Nintendo Switch','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','mattel', ]
 actualPrice: 48.54 EUR
 currency: EUR
 price: 48.54
