@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQFZX1Z-es THQ NORDIC - Darksiders Genesis - Nintendo Switch'
 sku: 'B07SQFZX1Z-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','nintendo','thq nordic', ]
+tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos para Nintendo Switch','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','nintendo','thq nordic', ]
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25
@@ -28,9 +28,9 @@ Está [THQ NORDIC - Darksiders Genesis - Nintendo Switch](https://www.amazon.es/
 
 ℹ️:
 
-- Guerra y Lucha han recibido una nueva misión
 - Guerra y Lucha deberán de cazar a estos demonios
-- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
 - Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
+- Guerra y Lucha han recibido una nueva misión
+- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQFZX1Z/?tag=tolees-21)
