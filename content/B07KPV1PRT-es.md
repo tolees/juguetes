@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPV1PRT-es Yvsoo Calendario Adviento Juguetes Set 3Pcs Rompecabezas...'
 sku: 'B07KPV1PRT-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','juguetes','puzzle','rompecabezas', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','puzzle','rompecabezas', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

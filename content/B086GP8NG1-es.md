@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GP8NG1-es Juego de filtros antipolvo para máscara PM 2 5 antiniebla...'
 sku: 'B086GP8NG1-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','bicicleta', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
 actualPrice: 3.52 EUR
 currency: EUR
 price: 3.52

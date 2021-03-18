@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HH2RWZ-es Las aventuras de Ladybug Puzzle Multi 4en1 50-80-100-150...'
 sku: 'B071HH2RWZ-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','puzzle', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

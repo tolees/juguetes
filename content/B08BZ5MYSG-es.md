@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZ5MYSG-es Joy-Con - Mando de repuesto para Nintendo Switch Izquierdo...'
 sku: 'B08BZ5MYSG-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

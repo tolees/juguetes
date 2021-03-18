@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0E2K9A-es Playmobil Tortuga con Bebés 9071'
 sku: 'B01M0E2K9A-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','playmobil', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

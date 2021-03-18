@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757M7BYP-es Devir - Carcassonne: La Torre juego de mesa BGCARTO'
 sku: 'B0757M7BYP-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','devir', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','devir', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

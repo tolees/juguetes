@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B6FAHT6-es LEGO Ninjago - Pijama para Niños 5-6 Años'
 sku: 'B01B6FAHT6-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','lego', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

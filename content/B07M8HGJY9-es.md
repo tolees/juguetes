@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8HGJY9-es Avengers Titan Hero Movie Ronin Hasbro E3922ES0'
 sku: 'B07M8HGJY9-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','hasbro', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793HTGYW-es Educa Borrás - Puzzle 1500 Símbolos de Norte-América 17670'
 sku: 'B0793HTGYW-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','puzzle', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

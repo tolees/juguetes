@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BVPCTS6-es Zequins- Muñeco Dazz Famosa 700014680'
 sku: 'B07BVPCTS6-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','famosa', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa', ]
 actualPrice: 3.27 EUR
 currency: EUR
 price: 3.27

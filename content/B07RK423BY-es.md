@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RK423BY-es Toy Story Figura Buzz Lightyear Acción Karate 30 cm BIZAK...'
 sku: 'B07RK423BY-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','bizak', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bizak', ]
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

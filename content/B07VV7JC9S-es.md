@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VV7JC9S-es Safe Maddy Mochila Peluche Dragón Para Bebes Y Niños...'
 sku: 'B07VV7JC9S-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','peluche', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

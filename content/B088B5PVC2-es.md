@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088B5PVC2-es tomtoc Funda Ultra Delgada para Nintendo Switch Patente...'
 sku: 'B088B5PVC2-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

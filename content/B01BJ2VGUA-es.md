@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BJ2VGUA-es Peppa Pig - Puzzle progresivo 12 20 y 25 piezas Educa...'
 sku: 'B01BJ2VGUA-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','peppa','pig','puzzle', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peppa','pig','puzzle', ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

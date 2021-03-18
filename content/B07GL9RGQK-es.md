@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL9RGQK-es Barbie Dreamtopia Sirena rubia nada y brilla con...'
 sku: 'B07GL9RGQK-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','barbie','mattel', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','barbie','mattel', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

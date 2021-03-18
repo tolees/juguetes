@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YE16D2A-es Disney Infinity 3.0 - Figura Miedo Del Revés'
 sku: 'B00YE16D2A-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','disney','infinity', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','disney','infinity', ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

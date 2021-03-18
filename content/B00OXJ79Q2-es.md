@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OXJ79Q2-es Djeco- Juego de Cartas PIOU Multicolor DJ05119'
 sku: 'B00OXJ79Q2-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','cartas','de','juego', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','cartas','de','juego', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

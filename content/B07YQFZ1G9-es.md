@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQFZ1G9-es Denver - Bicicleta Infantil de 14 Pulgadas diseño de...'
 sku: 'B07YQFZ1G9-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','bicicleta', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

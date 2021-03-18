@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077P7M1ZM-es Fisher-Price - Mi Primer Cubo Fidget Juguete de...'
 sku: 'B077P7M1ZM-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','fisher-price','mattel', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','fisher-price','mattel', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

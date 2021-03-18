@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PJNY1Z-es Star Wars-40 Aniversario Figura Yoda Hasbro E8077'
 sku: 'B083PJNY1Z-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','hasbro', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722YDZF5-es Tiny Love Dynamic Gymini Gimnasio musical de actividades...'
 sku: 'B0722YDZF5-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','juguetes', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

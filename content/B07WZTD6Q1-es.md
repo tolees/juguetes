@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZTD6Q1-es Peppa Pig Camiseta de Manga Corta Paquete de 2 para niñas...'
 sku: 'B07WZTD6Q1-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','peppa','pig', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peppa','pig', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK8QXW6-es L.O.L. Surprise!- L.O.L Lils Winter Disco Series con 5...'
 sku: 'B07QK8QXW6-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','l.o.l.', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','l.o.l.', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1MTH75-es AUNMAS Rompecabezas de Madera Modelo 3D Calendario...'
 sku: 'B07T1MTH75-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','rompecabezas', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','rompecabezas', ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

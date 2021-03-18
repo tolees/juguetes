@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746GRYHR-es SADES SA810 Gaming Headset Xbox One PS4 auriculares de...'
 sku: 'B0746GRYHR-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4','xbox', ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

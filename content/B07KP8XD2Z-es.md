@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KP8XD2Z-es Diseño Gracioso no tóxico Gritando Goma Pollo apretón...'
 sku: 'B07KP8XD2Z-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','juguetes', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

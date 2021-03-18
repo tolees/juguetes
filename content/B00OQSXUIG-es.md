@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OQSXUIG-es Feber - Tobogán Con Rampa De 107cm Famosa 800009593'
 sku: 'B00OQSXUIG-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','famosa','feber', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','feber', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

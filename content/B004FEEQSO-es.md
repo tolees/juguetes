@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004FEEQSO-es Intex 56587EU - Flotador Hinchable bebé'
 sku: 'B004FEEQSO-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','flotador', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','flotador', ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVBM8Z2-es LEGO Star Wars - Scout Trooper y Speeder Bike 75532 Juego...'
 sku: 'B06WVBM8Z2-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','lego', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
 actualPrice: 50.63 EUR
 currency: EUR
 price: 50.63

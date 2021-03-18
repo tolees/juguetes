@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B1FYKFW-es Disco Duro Externo 1 TB Disco Duro Externo para PC Mac...'
 sku: 'B08B1FYKFW-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

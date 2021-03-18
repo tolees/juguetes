@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQBC816-es eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda...'
 sku: 'B08HQBC816-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

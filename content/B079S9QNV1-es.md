@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079S9QNV1-es LA Noire PS4 - PlayStation 4 [Importación inglesa]'
 sku: 'B079S9QNV1-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation','ps4', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

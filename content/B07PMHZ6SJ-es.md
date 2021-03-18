@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMHZ6SJ-es Rolimate Wooden Toy 5 en 1 Laberinto con Abalorios de...'
 sku: 'B07PMHZ6SJ-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','juguetes', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

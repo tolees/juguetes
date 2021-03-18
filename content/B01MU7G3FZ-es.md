@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU7G3FZ-es eXtremeRate Pegatina Antideslizante con Textura de Goma...'
 sku: 'B01MU7G3FZ-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation','ps4', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DW6KA2W-es Devir- Juego de Mesa Inkognito única BGINKO'
 sku: 'B00DW6KA2W-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','devir-', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','devir-', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M20RZZC-es PLAYMOBIL 1.2.3-9119 Isla Pirata Multicolor única 9119'
 sku: 'B01M20RZZC-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','playmobil', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28
