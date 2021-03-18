@@ -28,9 +28,9 @@ Tienes [Play by Play - Peppa Pig - Pack de 2 Peluches Peppa Pig y George 20 cent
 
 ℹ️:
 
-- 20cm
 - 100% Original y con su etiqueta oficial
 - Calidad super soft
 - Esta oferta incluye los dos peluches
+- 20cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08535JMZH/?tag=tolees-21)
