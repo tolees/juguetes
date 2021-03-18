@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP5Q73F-es Rolimate Juego de Pesca Magnética de Madera Juego de...'
 sku: 'B07ZP5Q73F-es'
-tags: [ 'Accesorios para PlayStation 5','Auriculares para PlayStation 5','Barajas de carta de juegos estándar','Consolas Nintendo Switch','Desarrollo de habilidades motoras','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 5','Hogar y cocina','Juego de mesa','Juegos de cartas','Juegos de construcción para niños','Juegos de habilidad','Juegos y accesorios para juegos','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Muebles de TV y multimedia','Muebles de hogar','Muñecos y figuras','Playsets de figuras de acción para niños','Sillas Gaming','Videojuegos','juguetes', ]
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004RENTO4-es Theo Klein 8493 Cinturón de herramientas Bosch Con...'
 sku: 'B004RENTO4-es'
-tags: [ 'Accesorios para PlayStation 5','Auriculares para PlayStation 5','Barajas de carta de juegos estándar','Consolas Nintendo Switch','Desarrollo de habilidades motoras','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 5','Hogar y cocina','Juego de mesa','Juegos de cartas','Juegos de construcción para niños','Juegos de habilidad','Juegos y accesorios para juegos','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Muebles de TV y multimedia','Muebles de hogar','Muñecos y figuras','Playsets de figuras de acción para niños','Sillas Gaming','Videojuegos','klein','theo', ]
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','klein','theo', ]
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24
