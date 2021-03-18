@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CZMSYZS-es Buscando a Dory - Disfraza a Dory Bandai 36690'
 sku: 'B01CZMSYZS-es'
+tags: [ 'bandai', ]
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

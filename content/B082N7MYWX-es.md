@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082N7MYWX-es Mattel Games UNO: Rick and Morty - Juego de cartas...'
 sku: 'B082N7MYWX-es'
+tags: [ 'cartas','de','juego','mattel', ]
 actualPrice: 9.02 EUR
 currency: EUR
 price: 9.02

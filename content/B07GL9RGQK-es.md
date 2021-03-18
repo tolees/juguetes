@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL9RGQK-es Barbie Dreamtopia Sirena rubia nada y brilla con...'
 sku: 'B07GL9RGQK-es'
+tags: [ 'barbie','mattel', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

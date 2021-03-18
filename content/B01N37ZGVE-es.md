@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N37ZGVE-es Educa - Puzzles Progresivos puzzle infantil De Mayor...'
 sku: 'B01N37ZGVE-es'
+tags: [ 'puzzle', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

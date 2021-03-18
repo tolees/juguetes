@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDL5PJK-es HoneyHolly Botella de Agua Deporte 400ml/500ml/700ml/1l...'
 sku: 'B07RDL5PJK-es'
+tags: [ 'bicicleta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVBVS4R-es Molyflower Hipopótamo Hambriento Que traga mármoles...'
 sku: 'B08CVBVS4R-es'
+tags: [ 'juguetes', ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EI6Q4I-es Imaginext Batman Batcueva transformable Juguete para niño...'
 sku: 'B018EI6Q4I-es'
+tags: [ 'mattel', ]
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

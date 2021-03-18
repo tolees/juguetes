@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PW93V2M-es Nancy - Princesa de Otoño Famosa 700014110'
 sku: 'B07PW93V2M-es'
+tags: [ 'famosa','nancy', ]
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

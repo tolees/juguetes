@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFXDKFJ-es Disney Toy Story 4 - Casco de Ranger Espacial Buzz...'
 sku: 'B07PFXDKFJ-es'
+tags: [ 'juguetes','mattel', ]
 actualPrice: 54.52 EUR
 currency: EUR
 price: 54.52

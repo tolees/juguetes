@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQGB4HG-es Polly Pocket Centro Comercial de juguete para muñecas...'
 sku: 'B07NQGB4HG-es'
+tags: [ 'pocket','polly', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJS5CF5-es Mksutary Walkie Talkie Recargable 2 x Walkie Talkie Niños...'
 sku: 'B07PJS5CF5-es'
+tags: [ 'juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

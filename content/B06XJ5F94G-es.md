@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ5F94G-es JUSTICE LEAGUE- Batman Casco 2 En 1 14 6 x 25 4 x 14 6 cm...'
 sku: 'B06XJ5F94G-es'
+tags: [ 'mattel', ]
 actualPrice: 48.54 EUR
 currency: EUR
 price: 48.54

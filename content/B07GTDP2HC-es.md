@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTDP2HC-es Doctora Juguetes - Maletin Medico Conjunto Enfermera...'
 sku: 'B07GTDP2HC-es'
+tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

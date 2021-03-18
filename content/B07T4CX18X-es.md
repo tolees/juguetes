@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4CX18X-es Ravensburger - Puzzle Paw Patrol pack de 3 x 49 piezas 05048'
 sku: 'B07T4CX18X-es'
+tags: [ 'puzzle','ravensburger', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

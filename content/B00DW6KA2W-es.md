@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DW6KA2W-es Devir- Juego de Mesa Inkognito única BGINKO'
 sku: 'B00DW6KA2W-es'
+tags: [ 'devir-', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

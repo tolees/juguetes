@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CK1ZLPN-es Gen‚rico Adaptador Soporte de Extension Vastago...'
 sku: 'B07CK1ZLPN-es'
+tags: [ 'bicicleta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

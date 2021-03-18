@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8ZMEXW-es MEISHINE® 3x3x3 Mini Cubo Mágico Inteligencia Juego de...'
 sku: 'B01N8ZMEXW-es'
+tags: [ 'puzzle', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

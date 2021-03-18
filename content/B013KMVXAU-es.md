@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013KMVXAU-es Top Trumps Juego de cartas Marvel Avengers Infinity War...'
 sku: 'B013KMVXAU-es'
+tags: [ 'cartas','de','juego', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

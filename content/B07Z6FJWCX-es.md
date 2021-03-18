@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6FJWCX-es Xpixel Mini Avenue Blocks - Tienda de Juguetes Juguetería...'
 sku: 'B07Z6FJWCX-es'
+tags: [ 'juguetes', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

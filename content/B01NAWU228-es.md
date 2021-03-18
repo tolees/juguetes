@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAWU228-es El Hombre Araña de Marvel minijuego de memoria de...'
 sku: 'B01NAWU228-es'
+tags: [ 'ravensburger', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

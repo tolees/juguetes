@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKQLPNJ-es Clementoni - Juegos de lectura 55310'
 sku: 'B07PKQLPNJ-es'
+tags: [ 'clementoni', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

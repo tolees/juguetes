@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP1X8B4-es LEGO Disney Princess - Aventuras en Palacio de Aladdín y...'
 sku: 'B07FP1X8B4-es'
+tags: [ 'lego', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

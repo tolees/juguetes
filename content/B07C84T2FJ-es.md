@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C84T2FJ-es HOMCOM Alfombra Puzle Niños Colchoneta Suave Juego...'
 sku: 'B07C84T2FJ-es'
+tags: [ 'rompecabezas', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY78KJY-es Mini Camión Modelo de auto Conjunto de Juguetes de...'
 sku: 'B07JY78KJY-es'
+tags: [ 'juguetes', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

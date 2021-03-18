@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072C5X2LQ-es Nancy - Colección Novia diseñada por Ion Fiz 700013524'
 sku: 'B072C5X2LQ-es'
+tags: [ 'nancy', ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

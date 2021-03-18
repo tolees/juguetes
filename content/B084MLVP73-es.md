@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MLVP73-es Educa Borras - Genuine Puzzles Puzzle 4.000 piezas...'
 sku: 'B084MLVP73-es'
+tags: [ 'puzzle', ]
 actualPrice: 37.4 EUR
 currency: EUR
 price: 37.4

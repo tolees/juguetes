@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WWR7CVO-es LEGO Movie: The Videogame - Classics'
 sku: 'B00WWR7CVO-es'
+tags: [ 'lego', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

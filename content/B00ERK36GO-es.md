@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ERK36GO-es Simba - Juguete de playa 107110558 color/modelo surtido'
 sku: 'B00ERK36GO-es'
+tags: [ 'simba', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

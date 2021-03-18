@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088X1CJ4P-es Lixada Casco de Bicicleta de Montaña Casco de Motociclismo...'
 sku: 'B088X1CJ4P-es'
+tags: [ 'bicicleta', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

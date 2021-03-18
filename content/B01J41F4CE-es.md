@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41F4CE-es LEGO Super Heroes - Harley Quinn al Rescate 41231'
 sku: 'B01J41F4CE-es'
+tags: [ 'lego', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

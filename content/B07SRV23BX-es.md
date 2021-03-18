@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRV23BX-es Aprettysunny Bicicleta Motocicleta Cadena Limpiador...'
 sku: 'B07SRV23BX-es'
+tags: [ 'bicicleta', ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

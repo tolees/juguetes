@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y5FHWF-es Fivejoy 1:28 Coche Teledirigido 15km/h 2.4GHz Coches...'
 sku: 'B082Y5FHWF-es'
+tags: [ 'coche','rc', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

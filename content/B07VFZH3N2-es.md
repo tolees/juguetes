@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFZH3N2-es Scooter Eléctrico Cerradura del Freno de Disco Cerradura...'
 sku: 'B07VFZH3N2-es'
+tags: [ 'bicicleta', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

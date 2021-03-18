@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852XJ9FF-es Panamami Tamaño portátil Niños Niños Bebé Estudio Cámara...'
 sku: 'B0852XJ9FF-es'
+tags: [ 'juguetes', ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP76GL4-es LEGO Ninjago Spinjitzu Lloyd vs. Garmadon - Peonzas de...'
 sku: 'B07FP76GL4-es'
+tags: [ 'lego', ]
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

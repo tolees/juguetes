@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078DPCYMT-es Marvel- Hulk with Titan Hero Power FX Port Series Color...'
 sku: 'B078DPCYMT-es'
+tags: [ 'hasbro', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

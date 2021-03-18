@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNMXFQG-es LEGO Friends - Buggy y Remolque de Stephanie juguete de...'
 sku: 'B07FNMXFQG-es'
+tags: [ 'bicicleta','lego', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

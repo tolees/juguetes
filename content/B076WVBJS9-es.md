@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076WVBJS9-es Nilox E Bike 36 V 16 P-X2 Bicicleta Eléctrica Unisex...'
 sku: 'B076WVBJS9-es'
+tags: [ 'bicicleta', ]
 actualPrice: 379.56 EUR
 currency: EUR
 price: 379.56

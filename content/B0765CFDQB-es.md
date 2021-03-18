@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765CFDQB-es LEGO Creator - Espectáculo acrobático ambulante 31085'
 sku: 'B0765CFDQB-es'
+tags: [ 'lego', ]
 actualPrice: 40.4 EUR
 currency: EUR
 price: 40.4

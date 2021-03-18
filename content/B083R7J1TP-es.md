@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083R7J1TP-es EKKONG Juguete Hierba Gatera Juguete Interactivo...'
 sku: 'B083R7J1TP-es'
+tags: [ 'juguetes','peluche', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PKDQV1-es Enchantimals - Muñeca Tanzie Tiger - Mattel FRH39'
 sku: 'B077PKDQV1-es'
+tags: [ 'mattel', ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

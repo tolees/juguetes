@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T6GYN1R-es Disney- Frozen 2 Mini Muñecas Escena Familiar Hasbro E6913ES0'
 sku: 'B07T6GYN1R-es'
+tags: [ 'hasbro', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

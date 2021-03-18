@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079BM8RCB-es TOP BRIGHT Juguete de Carrera de Coches para Niños...'
 sku: 'B079BM8RCB-es'
+tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

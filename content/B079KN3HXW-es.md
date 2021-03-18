@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KN3HXW-es Polly Pocket Cofre refugio de nieve muñeca con accesorios...'
 sku: 'B079KN3HXW-es'
+tags: [ 'mattel','pocket','polly', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

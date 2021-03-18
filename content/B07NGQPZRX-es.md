@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGQPZRX-es MUNDO PETIT -Chaleco Flotador de Ayuda a la flotabilidad...'
 sku: 'B07NGQPZRX-es'
+tags: [ 'flotador', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

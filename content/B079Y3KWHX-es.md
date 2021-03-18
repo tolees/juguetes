@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Y3KWHX-es Lego Star Wars - Bañador para niño - Lego Star Wars - 8 -...'
 sku: 'B079Y3KWHX-es'
+tags: [ 'lego', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

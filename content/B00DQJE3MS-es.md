@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DQJE3MS-es Lego Marvel Super Heroes [Importación Francesa]'
 sku: 'B00DQJE3MS-es'
+tags: [ 'lego', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

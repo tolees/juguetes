@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCB31DZ-es Espejo de Juguete del Asiento Trasero de Fish Pattern para...'
 sku: 'B07MCB31DZ-es'
+tags: [ 'peluche', ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

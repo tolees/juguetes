@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GR9G8H-es LEGO Star Wars- General Grievous Combat Speeder Star Wars...'
 sku: 'B075GR9G8H-es'
+tags: [ 'lego', ]
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

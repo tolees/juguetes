@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RCCHF7-es MQIAOHAM juego de enclavamiento juego de bebé tapetes para...'
 sku: 'B088RCCHF7-es'
+tags: [ 'rompecabezas', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

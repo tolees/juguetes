@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GG1AXKI-es TROLLS Poppy Momento Abrazo Multicolor. Hasbro B6568105'
 sku: 'B01GG1AXKI-es'
+tags: [ 'hasbro', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

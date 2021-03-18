@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T1Y7TH-es LEGO Friends - Entrenamiento de fútbol de Stephanie 41330'
 sku: 'B075T1Y7TH-es'
+tags: [ 'lego', ]
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

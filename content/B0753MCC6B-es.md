@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0753MCC6B-es Reloj modificable infantil con figurita de la tropa de...'
 sku: 'B0753MCC6B-es'
+tags: [ 'lego', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

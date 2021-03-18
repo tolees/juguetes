@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073CV9DJR-es TOYMYTOY Balón de Fútbol Bolas Pelotas Juguetes Deportivos...'
 sku: 'B073CV9DJR-es'
+tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

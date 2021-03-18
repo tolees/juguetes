@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765BD1WX-es LEGO Juniors 4+ City - Gran Aeropuerto de la Ciudad...'
 sku: 'B0765BD1WX-es'
+tags: [ 'lego', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F2PXQG-es SYOSIN Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B089F2PXQG-es'
+tags: [ 'bicicleta', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

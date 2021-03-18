@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBTJPYX-es Kriogor Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B07SBTJPYX-es'
+tags: [ 'bicicleta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

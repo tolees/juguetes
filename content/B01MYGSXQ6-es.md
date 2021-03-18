@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYGSXQ6-es Nancy - Un día de lluvia Muñeca con chubasquero paraguas y...'
 sku: 'B01MYGSXQ6-es'
+tags: [ 'famosa','nancy', ]
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79

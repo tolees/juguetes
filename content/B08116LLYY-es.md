@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08116LLYY-es NEWSTYLE Caja de Almacenamiento de Tela Grande Plegable...'
 sku: 'B08116LLYY-es'
+tags: [ 'juguetes', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

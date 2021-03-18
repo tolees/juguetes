@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0104BKFU4-es Sylvanian Families 5242 Cosy Cottage Starter Home Mini...'
 sku: 'B0104BKFU4-es'
+tags: [ 'families','sylvanian', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN984ZV-es FITODO Pedales Ejercicio Estaticos Mini Bicicleta Estatica...'
 sku: 'B07GN984ZV-es'
+tags: [ 'bicicleta', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

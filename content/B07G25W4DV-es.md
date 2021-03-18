@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G25W4DV-es Lommer 7pcs Ajustable Casco Ciclismo Niño Casco Bici Bebe...'
 sku: 'B07G25W4DV-es'
+tags: [ 'bicicleta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

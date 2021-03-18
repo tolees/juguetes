@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWTWBFK-es Zerodis- Merry-Go-Round de Madera Control de Voz Merry-Go-...'
 sku: 'B07QWTWBFK-es'
+tags: [ 'puzzle','rompecabezas', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

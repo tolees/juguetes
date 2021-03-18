@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ83Z6K-es Dragon Ball- Figura Deluxe Saiyan Blue Gogeta Super Color...'
 sku: 'B07SZ83Z6K-es'
+tags: [ 'bandai', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X3QQPN8-es Hasbro C2691EU4 Bailey Visita al Medico'
 sku: 'B06X3QQPN8-es'
+tags: [ 'hasbro', ]
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

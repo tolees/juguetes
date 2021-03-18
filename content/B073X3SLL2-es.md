@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073X3SLL2-es Lego Ninjago'
 sku: 'B073X3SLL2-es'
+tags: [ 'lego', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

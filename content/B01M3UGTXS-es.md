@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3UGTXS-es Wissper Wissper-9358495 Muñeca Simba 9358495'
 sku: 'B01M3UGTXS-es'
+tags: [ 'simba', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

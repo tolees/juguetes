@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765CTSL3-es LEGO Juniors - Fuga del T Rex Set de Construcción de...'
 sku: 'B0765CTSL3-es'
+tags: [ 'lego', ]
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

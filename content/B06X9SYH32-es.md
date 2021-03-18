@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9SYH32-es My Little Pony My Little Pony-C1058 Juego Luces y Agua...'
 sku: 'B06X9SYH32-es'
+tags: [ 'hasbro', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CZYOFAY-es Nerf - Lanzadardos Mega Mastodon Hasbro B8086EU4'
 sku: 'B01CZYOFAY-es'
+tags: [ 'hasbro','nerf', ]
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

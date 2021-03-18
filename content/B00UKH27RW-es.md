@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UKH27RW-es Clementoni - Puzzle 3 x 48 Avengers 252039'
 sku: 'B00UKH27RW-es'
+tags: [ 'clementoni','puzzle', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

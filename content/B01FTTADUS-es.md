@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FTTADUS-es 40.5 * 26 * 22cm Canasta de almacenamiento plegable con...'
 sku: 'B01FTTADUS-es'
+tags: [ 'juguetes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

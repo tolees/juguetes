@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QCW6GV-es Barbie Collector muñeca Frida Khalo de "Grandes Mujeres"...'
 sku: 'B076QCW6GV-es'
+tags: [ 'barbie','mattel', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

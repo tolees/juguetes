@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCWVFR3-es Gupamiga Tienda de Juguetes para niños Tienda de teepe...'
 sku: 'B07QCWVFR3-es'
+tags: [ 'juguetes', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

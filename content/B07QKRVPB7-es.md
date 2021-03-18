@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKRVPB7-es HoneyHolly Botella de Agua Acero Inoxidable...'
 sku: 'B07QKRVPB7-es'
+tags: [ 'bicicleta', ]
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

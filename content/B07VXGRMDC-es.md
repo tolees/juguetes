@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXGRMDC-es Moxilyn Ropa de Ciclismo para Hombre Traje de Bicicleta...'
 sku: 'B07VXGRMDC-es'
+tags: [ 'bicicleta', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075F8PNNB-es Star Wars Peluche BB8 Deco'
 sku: 'B075F8PNNB-es'
+tags: [ 'peluche', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

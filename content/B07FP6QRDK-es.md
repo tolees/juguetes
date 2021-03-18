@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP6QRDK-es LEGO DUPLO Disney - Mi Primer Modelo de Mickey Juguete...'
 sku: 'B07FP6QRDK-es'
+tags: [ 'lego', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

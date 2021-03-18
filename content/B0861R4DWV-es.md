@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0861R4DWV-es BBLIKE - Juego de juguetes de baño para niños y niñas de...'
 sku: 'B0861R4DWV-es'
+tags: [ 'juguetes', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

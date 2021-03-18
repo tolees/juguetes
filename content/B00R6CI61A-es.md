@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R6CI61A-es Fisher-Price - Gimnasio musical animalitos - gimnasios...'
 sku: 'B00R6CI61A-es'
+tags: [ 'fisher-price','mattel', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

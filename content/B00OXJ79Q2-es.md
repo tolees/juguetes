@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OXJ79Q2-es Djeco- Juego de Cartas PIOU Multicolor DJ05119'
 sku: 'B00OXJ79Q2-es'
+tags: [ 'cartas','de','juego', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

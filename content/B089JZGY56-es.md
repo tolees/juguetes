@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089JZGY56-es LinStyle Juguetes del Baño Máquina de Burbujas de Baño con...'
 sku: 'B089JZGY56-es'
+tags: [ 'juguetes', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

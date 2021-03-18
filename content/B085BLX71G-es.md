@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085BLX71G-es YIMINYUER es colchoneta Suelo de Camping EVA Puzzle...'
 sku: 'B085BLX71G-es'
+tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

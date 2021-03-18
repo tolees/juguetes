@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9X36CN-es Partypopteenies - Lanzador Sorpresa Bizak 61924680...'
 sku: 'B07D9X36CN-es'
+tags: [ 'bizak', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

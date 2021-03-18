@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRKR58C-es DANISH ENDURANCE Calcetines de Ciclismo para Hombres y...'
 sku: 'B07ZRKR58C-es'
+tags: [ 'bicicleta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

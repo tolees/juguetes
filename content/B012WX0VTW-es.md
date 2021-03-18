@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012WX0VTW-es LOMOS caja para juguetes con diferentes motivos colorido y...'
 sku: 'B012WX0VTW-es'
+tags: [ 'juguetes', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

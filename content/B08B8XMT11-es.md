@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B8XMT11-es Riviax - Pelota Anti Estrés Suave [6 Pack] Bolas con...'
 sku: 'B08B8XMT11-es'
+tags: [ 'juguetes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ512NT-es EzLife Bolsas Reutilizables Compra Bolsas Reutilizables...'
 sku: 'B07TZ512NT-es'
+tags: [ 'juguetes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQ1JZS6-es Owleez Blanco Mascota Interactiva BIZAK 61928560'
 sku: 'B07SQ1JZS6-es'
+tags: [ 'bizak', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

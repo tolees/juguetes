@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K71MMXK-es VTech 155403 - Peque ordenador educativo multicolor...'
 sku: 'B00K71MMXK-es'
+tags: [ 'vtech', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

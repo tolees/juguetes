@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WFH2PY-es Flamingueo Peluche de Aguacate XL - Peluche Grande con...'
 sku: 'B082WFH2PY-es'
+tags: [ 'peluche', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EI7JDEY-es Clementoni - Jugando aprendo descubre España 55119.4'
 sku: 'B01EI7JDEY-es'
+tags: [ 'clementoni', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

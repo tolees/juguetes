@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDKZ3H6-es Hasbro Gaming Gaming Novedad Juego Fantastic Gymnastics...'
 sku: 'B06XDKZ3H6-es'
+tags: [ 'hasbro', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

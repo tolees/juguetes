@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH4Z4K6-es Wrebbit 3D- Castillo Puzzle 3D Juego de Tronos Invernalia...'
 sku: 'B07NH4Z4K6-es'
+tags: [ 'puzzle', ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

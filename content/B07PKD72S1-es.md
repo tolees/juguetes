@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKD72S1-es TCBIKE Altura de Asiento Ajustable Bicicleta de Equilibrio...'
 sku: 'B07PKD72S1-es'
+tags: [ 'bicicleta', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

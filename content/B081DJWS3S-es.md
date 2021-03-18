@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DJWS3S-es ISUDA Rodilleras Deportivas Rodillera Menisco y...'
 sku: 'B081DJWS3S-es'
+tags: [ 'bicicleta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

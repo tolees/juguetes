@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NACZMXJ-es SportPlus SP-ET-9600-iE Bicicleta Elíptica con Aplicación...'
 sku: 'B01NACZMXJ-es'
+tags: [ 'bicicleta', ]
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

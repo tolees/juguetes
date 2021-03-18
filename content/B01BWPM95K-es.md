@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BWPM95K-es Disney Simba 6315874752 Frozen Peluche Muñeco de Nieve...'
 sku: 'B01BWPM95K-es'
+tags: [ 'peluche','simba', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

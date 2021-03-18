@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MKLH93-es PJ Masks-24688 Pack de 5 Figuras - Súper Poder Bandai 95280'
 sku: 'B079MKLH93-es'
+tags: [ 'bandai', ]
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

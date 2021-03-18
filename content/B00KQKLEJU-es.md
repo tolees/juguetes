@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KQKLEJU-es Fisher-Price BHC01 Laugh and Learn - Teléfono inteligente'
 sku: 'B00KQKLEJU-es'
+tags: [ 'fisher-price', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGSPR59-es YGJT Bicicletas sin Pedales para niños 1 Año 10-36 Meses...'
 sku: 'B07WGSPR59-es'
+tags: [ 'juguetes', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRAO9G-es SYLVANIAN FAMILIES Familia Perros Chihuahua Epoch para...'
 sku: 'B00HRRAO9G-es'
+tags: [ 'families','sylvanian', ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

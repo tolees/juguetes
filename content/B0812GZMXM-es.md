@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0812GZMXM-es STAR WARS- E9 Figura Boba Fett Hasbro E3811ES0'
 sku: 'B0812GZMXM-es'
+tags: [ 'hasbro', ]
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NQ44SZ-es Coolle- Juego de Bolas múltiples texturizadas | Bola...'
 sku: 'B087NQ44SZ-es'
+tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

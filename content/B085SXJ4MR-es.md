@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SXJ4MR-es yidenguk Objetivo Digital Electrónico para Nerf Objetivos...'
 sku: 'B085SXJ4MR-es'
+tags: [ 'nerf', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

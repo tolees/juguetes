@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XWM83C-es Star Wars- Vintage Nave Slave Hasbro E96475L0'
 sku: 'B084XWM83C-es'
+tags: [ 'hasbro', ]
 actualPrice: 118.65 EUR
 currency: EUR
 price: 118.65

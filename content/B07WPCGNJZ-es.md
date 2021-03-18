@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPCGNJZ-es Star Wars - Figura de acción de Rey con sable de Galaxy of...'
 sku: 'B07WPCGNJZ-es'
+tags: [ 'hasbro', ]
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

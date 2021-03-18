@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KGGSXFQ-es Cars Camión Mack Gran Viaje transportador de coches de...'
 sku: 'B01KGGSXFQ-es'
+tags: [ 'mattel', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

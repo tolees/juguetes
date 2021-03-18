@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRBMN74-es Niños/Bebé 50 piezas 5 capas para correr andar en...'
 sku: 'B08CRBMN74-es'
+tags: [ 'bicicleta', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

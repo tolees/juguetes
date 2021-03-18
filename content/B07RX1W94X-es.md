@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX1W94X-es Ravensburger - Puzzle 3D Olaf Frozen 2 11157'
 sku: 'B07RX1W94X-es'
+tags: [ 'puzzle','ravensburger', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

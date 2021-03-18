@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T1Q2WH-es LEGO Friends Heartlake - Casa de la Amistad Juguete de...'
 sku: 'B075T1Q2WH-es'
+tags: [ 'lego', ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

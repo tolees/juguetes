@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3T6LFQ-es Kingnew Peluche Suave kauspielzeug Durable Squeak Perro...'
 sku: 'B07D3T6LFQ-es'
+tags: [ 'peluche', ]
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

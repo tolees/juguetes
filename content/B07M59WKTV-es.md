@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M59WKTV-es Avengers- Titan Hero Movie Thor Multicolor Hasbro E3921ES0'
 sku: 'B07M59WKTV-es'
+tags: [ 'hasbro', ]
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

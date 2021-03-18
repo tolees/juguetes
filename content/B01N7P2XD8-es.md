@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7P2XD8-es Dragon Ball Super - Lanzador de energía Kamehameha Bandai...'
 sku: 'B01N7P2XD8-es'
+tags: [ 'bandai', ]
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

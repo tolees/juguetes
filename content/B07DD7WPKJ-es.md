@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD7WPKJ-es Bizak Artist - Estudio Aqua Crystals 63370001'
 sku: 'B07DD7WPKJ-es'
+tags: [ 'bizak', ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

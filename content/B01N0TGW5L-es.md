@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0TGW5L-es Fisher-Price Saltador activity de perrito juguete para...'
 sku: 'B01N0TGW5L-es'
+tags: [ 'fisher-price','mattel', ]
 actualPrice: 103.49 EUR
 currency: EUR
 price: 103.49

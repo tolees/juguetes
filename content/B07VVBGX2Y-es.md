@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVBGX2Y-es Nobleza – Pack de 10 Juguetes para Perro. Set Fabricado en...'
 sku: 'B07VVBGX2Y-es'
+tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N64J0BH-es Yo-kai Watch Kai Álbum de colección de medallas Miscelanea...'
 sku: 'B01N64J0BH-es'
+tags: [ 'hasbro', ]
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

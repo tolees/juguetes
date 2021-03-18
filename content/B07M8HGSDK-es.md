@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8HGSDK-es Disney Frozen- 2 Romance 2 Pack Multicolor Hasbro E5502EU4'
 sku: 'B07M8HGSDK-es'
+tags: [ 'hasbro', ]
 actualPrice: 26.96 EUR
 currency: EUR
 price: 26.96

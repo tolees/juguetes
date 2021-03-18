@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZNJZKP-es TY- Búho Yago Peluche Color azul United Labels Ibérica...'
 sku: 'B078ZNJZKP-es'
+tags: [ 'peluche', ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

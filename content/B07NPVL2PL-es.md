@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPVL2PL-es Peluditos Peludito Mascota Interactiva Modelos Surtidos...'
 sku: 'B07NPVL2PL-es'
+tags: [ 'bizak', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

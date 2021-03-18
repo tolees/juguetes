@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JWFA7PC-es Juegos Bizak - Hedbanz actuando 61924162'
 sku: 'B00JWFA7PC-es'
+tags: [ 'bizak', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

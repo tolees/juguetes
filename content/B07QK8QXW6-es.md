@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK8QXW6-es L.O.L. Surprise!- L.O.L Lils Winter Disco Series con 5...'
 sku: 'B07QK8QXW6-es'
+tags: [ 'l.o.l.', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

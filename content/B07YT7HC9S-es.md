@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YT7HC9S-es Disney Pixar Onward Bastón de Hechizero Juguete para Niños...'
 sku: 'B07YT7HC9S-es'
+tags: [ 'mattel', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

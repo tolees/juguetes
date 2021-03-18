@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018S6LWJK-es FEBER - See Saw Balancín Famosa 800010240'
 sku: 'B018S6LWJK-es'
+tags: [ 'famosa','feber', ]
 actualPrice: 123.2 EUR
 currency: EUR
 price: 123.2

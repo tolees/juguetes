@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJ8NJVF-es lenbest 118 Piezas Puzzles de Madera Magnético Magnética...'
 sku: 'B07WJ8NJVF-es'
+tags: [ 'rompecabezas', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0119NYURU-es Sentía rompecabezas mantel rojo / verde'
 sku: 'B0119NYURU-es'
+tags: [ 'rompecabezas', ]
 actualPrice: 8.74 EUR
 currency: EUR
 price: 8.74

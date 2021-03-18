@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMFFNR1-es iNeego Bloques de Construcción 1000 Piezas Bloques de...'
 sku: 'B07SMFFNR1-es'
+tags: [ 'juguetes', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

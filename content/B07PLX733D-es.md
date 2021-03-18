@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLX733D-es B•You Ojos de Seguridad de Plástico Ojos Amigurumi 150...'
 sku: 'B07PLX733D-es'
+tags: [ 'peluche', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

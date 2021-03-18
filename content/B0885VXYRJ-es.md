@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0885VXYRJ-es iMiMi - Juego de anillos apilables de arco iris juguete...'
 sku: 'B0885VXYRJ-es'
+tags: [ 'juguetes', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

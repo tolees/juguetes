@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y32MV9Q-es Bizak Kinetic Sand - Torreon Mágico 61921425'
 sku: 'B06Y32MV9Q-es'
+tags: [ 'bizak','kinetic','sand', ]
 actualPrice: 25.68 EUR
 currency: EUR
 price: 25.68

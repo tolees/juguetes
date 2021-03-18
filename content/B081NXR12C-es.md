@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081NXR12C-es PEPPA PIG Botella cantimplora tritan hidro HOME Unisex...'
 sku: 'B081NXR12C-es'
+tags: [ 'peppa','pig', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

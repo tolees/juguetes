@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W131BMK-es Kriogor Coche RC Coche Controlado por Radio Stunt Coche...'
 sku: 'B07W131BMK-es'
+tags: [ 'coche','rc', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

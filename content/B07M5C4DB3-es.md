@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5C4DB3-es Hasbro Gaming - Juego infantil Tiny Pong Hasbro E3112EU4'
 sku: 'B07M5C4DB3-es'
+tags: [ 'hasbro', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8Y1FSZ-es LEGO Hidden Side - Feria Encantada Set de Construcción con...'
 sku: 'B07W8Y1FSZ-es'
+tags: [ 'lego', ]
 actualPrice: 43.96 EUR
 currency: EUR
 price: 43.96

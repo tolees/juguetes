@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSBXR3-es Pop! Vinilo: Disney: The Lion King: Simba'
 sku: 'B07KPSBXR3-es'
+tags: [ 'simba', ]
 actualPrice: 10.27 EUR
 currency: EUR
 price: 10.27

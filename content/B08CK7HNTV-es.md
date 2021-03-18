@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CK7HNTV-es Panamar Niños Bebé Cute Cartoon Ballena Flotante...'
 sku: 'B08CK7HNTV-es'
+tags: [ 'juguetes', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

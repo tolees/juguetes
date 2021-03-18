@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z6YGDXS-es Barriguitas Edificio loco loco Famosa 700012396'
 sku: 'B00Z6YGDXS-es'
+tags: [ 'famosa', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

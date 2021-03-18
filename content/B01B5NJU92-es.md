@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B5NJU92-es Clementoni - Puzzle 1500 Piezas Caballos 31676'
 sku: 'B01B5NJU92-es'
+tags: [ 'clementoni','puzzle', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

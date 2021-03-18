@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNT8XCD-es LEGO Friends - Espectáculo de Talentos de Andrea set...'
 sku: 'B07FNT8XCD-es'
+tags: [ 'lego', ]
 actualPrice: 33.45 EUR
 currency: EUR
 price: 33.45

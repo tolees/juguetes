@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08581TCGL-es DC Comics Figura Acción Liga de la Justicia 30 cm....'
 sku: 'B08581TCGL-es'
+tags: [ 'bizak', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGZ4WXG-es Amazing Mall Almohada mágica para Juegos cojín para Pareja...'
 sku: 'B07BGZ4WXG-es'
+tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

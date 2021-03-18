@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001RB1VQI-es Clementoni - Puzzle de 3000 Piezas diseño Mapa Antiguo...'
 sku: 'B001RB1VQI-es'
+tags: [ 'clementoni','puzzle', ]
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

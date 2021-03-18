@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084WMFNC2-es YIMINYUER Esterilla Puzzle de Fitness 30x30x1cm Suelo de...'
 sku: 'B084WMFNC2-es'
+tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

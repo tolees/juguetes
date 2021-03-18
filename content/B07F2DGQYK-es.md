@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2DGQYK-es UGI Cámara de acción 480P Cámara Deportiva Impermeable 140...'
 sku: 'B07F2DGQYK-es'
+tags: [ 'bicicleta', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

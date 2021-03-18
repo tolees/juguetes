@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OZAZAP6-es Nerf N-Strike Blaster Ner Elite Pistola Lanzador Sharpfire...'
 sku: 'B00OZAZAP6-es'
+tags: [ 'hasbro','nerf', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

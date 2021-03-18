@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B692VLQ-es Playdoh - La Barberia Hasbro E2930EU6'
 sku: 'B07B692VLQ-es'
+tags: [ 'hasbro', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

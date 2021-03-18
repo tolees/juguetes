@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P37LTZY-es KATOOM Mini Flotador 9pcs para sostenedor Bebida de...'
 sku: 'B07P37LTZY-es'
+tags: [ 'flotador','juguetes', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

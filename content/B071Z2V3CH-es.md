@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Z2V3CH-es Shimmer And Shine - Peluche Alfombra mágica Shine de 30 cm...'
 sku: 'B071Z2V3CH-es'
+tags: [ 'peluche', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

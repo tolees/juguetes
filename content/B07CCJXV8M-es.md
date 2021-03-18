@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCJXV8M-es VTech Barco pirata cazatesoros transformable en isla...'
 sku: 'B07CCJXV8M-es'
+tags: [ 'vtech', ]
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UACS55K-es Massi 700X18-20-23-25 Superlight V.Bici Cámara de...'
 sku: 'B00UACS55K-es'
+tags: [ 'bicicleta', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G5GNZYK-es Clementoni-39370 Minions Los Pingüinos De Madagascar...'
 sku: 'B01G5GNZYK-es'
+tags: [ 'puzzle', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

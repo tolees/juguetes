@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0006JGFNQ-es Desconocido Gremlins - Gizmo Peluche bailarín 20 cm NECA...'
 sku: 'B0006JGFNQ-es'
+tags: [ 'peluche', ]
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

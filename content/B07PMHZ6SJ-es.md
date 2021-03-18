@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMHZ6SJ-es Rolimate Wooden Toy 5 en 1 Laberinto con Abalorios de...'
 sku: 'B07PMHZ6SJ-es'
+tags: [ 'juguetes', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

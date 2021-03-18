@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NWG6Y5-es Nerf- Lanzador Firestrike Color azul Hasbro 53378EU6...'
 sku: 'B079NWG6Y5-es'
+tags: [ 'hasbro', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

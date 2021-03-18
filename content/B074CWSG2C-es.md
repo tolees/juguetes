@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074CWSG2C-es TONZE Coches de Juguetes Vehiculos Mini Excavadora...'
 sku: 'B074CWSG2C-es'
+tags: [ 'juguetes', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

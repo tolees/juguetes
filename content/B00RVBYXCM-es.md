@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RVBYXCM-es SportPlus Heimtrainer S-Bike - Bicicleta estática y de...'
 sku: 'B00RVBYXCM-es'
+tags: [ 'bicicleta', ]
 actualPrice: 118.22 EUR
 currency: EUR
 price: 118.22

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PK5MC14-es Bananas- Megabananas Multicolor Bandai BB00778'
 sku: 'B07PK5MC14-es'
+tags: [ 'bandai', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

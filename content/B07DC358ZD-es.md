@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC358ZD-es SKYSPER Manguitos Ciclismo Manga de Compresión Manguito...'
 sku: 'B07DC358ZD-es'
+tags: [ 'bicicleta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

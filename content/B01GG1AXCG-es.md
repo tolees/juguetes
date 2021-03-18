@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GG1AXCG-es TROLLS - Coronación de la Princesa Poppy Hasbro B6560EU4'
 sku: 'B01GG1AXCG-es'
+tags: [ 'hasbro', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

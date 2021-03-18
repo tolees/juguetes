@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PM3ZBMY-es Onshine 14 Pedazos Conjunto de Juguetes Arena para la...'
 sku: 'B07PM3ZBMY-es'
+tags: [ 'juguetes', ]
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

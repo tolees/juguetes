@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z64DM8B-es IMMEK Puzzles de Madera Juguetes para Bebes 1 Año 2 3 4 5...'
 sku: 'B07Z64DM8B-es'
+tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

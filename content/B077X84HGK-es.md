@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077X84HGK-es Alamor 24V 36V 48V Agarre Del Acelerador Giratorio 7/8...'
 sku: 'B077X84HGK-es'
+tags: [ 'bicicleta', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

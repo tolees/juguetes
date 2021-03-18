@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGYYQT6-es Molyflower Tableta de Dibujo LCD para niños Magic Pad...'
 sku: 'B08CGYYQT6-es'
+tags: [ 'juguetes', ]
 actualPrice: 20.62 EUR
 currency: EUR
 price: 20.62

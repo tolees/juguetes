@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MY379NT-es Clementoni- Puzzle 60 Piezas Aladino Multicolor 26053.9'
 sku: 'B07MY379NT-es'
+tags: [ 'puzzle', ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

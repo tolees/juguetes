@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3SW2ZP-es Coches Juguetes Niños Educativos Vagón De Ferrocarril...'
 sku: 'B08B3SW2ZP-es'
+tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

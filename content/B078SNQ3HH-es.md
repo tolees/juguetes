@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SNQ3HH-es Abree Juego de Pesca Magnética 26 Peces - Juguete...'
 sku: 'B078SNQ3HH-es'
+tags: [ 'juguetes', ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

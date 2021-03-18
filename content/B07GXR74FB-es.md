@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXR74FB-es HoneyHolly Botella de Agua Acero Inoxidable sin BPA...'
 sku: 'B07GXR74FB-es'
+tags: [ 'bicicleta', ]
 actualPrice: 16.77 EUR
 currency: EUR
 price: 16.77

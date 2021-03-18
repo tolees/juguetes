@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTM6ZFL-es StillCool Nerf Dardos 100 Pezas 7 2cm Espuma Suave Dardos...'
 sku: 'B07KTM6ZFL-es'
+tags: [ 'nerf', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

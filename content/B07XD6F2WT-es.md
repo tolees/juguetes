@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD6F2WT-es Barbie Dreamtopia set de modas y accesorios juguete para...'
 sku: 'B07XD6F2WT-es'
+tags: [ 'barbie','mattel', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

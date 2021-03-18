@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LYSBV6-es Jacootoys Rampa de Carrera para Niños de 1 a 2 Años Juegos...'
 sku: 'B088LYSBV6-es'
+tags: [ 'juguetes', ]
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

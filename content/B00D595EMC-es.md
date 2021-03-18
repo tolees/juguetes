@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D595EMC-es Ravensburger - 3D Puzzle Building Faro Night 12577 7'
 sku: 'B00D595EMC-es'
+tags: [ 'puzzle','ravensburger', ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

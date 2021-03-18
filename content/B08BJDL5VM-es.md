@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJDL5VM-es Alfombra Musical - juguetes niños 1 2 3 4 5 6 años Musical...'
 sku: 'B08BJDL5VM-es'
+tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

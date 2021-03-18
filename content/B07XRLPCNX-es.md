@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRLPCNX-es Tnfeeon Juego de Entrenamiento de Memoria Juego de Memoria...'
 sku: 'B07XRLPCNX-es'
+tags: [ 'rompecabezas', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

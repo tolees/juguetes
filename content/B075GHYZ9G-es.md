@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GHYZ9G-es LEGO Star Wars- First Order AT-ST Lego Juego de...'
 sku: 'B075GHYZ9G-es'
+tags: [ 'lego', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

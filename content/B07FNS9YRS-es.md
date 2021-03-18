@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS9YRS-es LEGO Friends - Caja Corazón de Stephanie divertido set de...'
 sku: 'B07FNS9YRS-es'
+tags: [ 'lego', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

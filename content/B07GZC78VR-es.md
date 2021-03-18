@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZC78VR-es Vampirina - Pack Deluxe figuras Serie 2 Bandai 78027'
 sku: 'B07GZC78VR-es'
+tags: [ 'bandai', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGHHQLA-es GEMVIE Flotador de Bebidas para Bebé Fiesta Piscina Playa...'
 sku: 'B00NGHHQLA-es'
+tags: [ 'flotador', ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

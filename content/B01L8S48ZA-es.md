@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L8S48ZA-es Saint Seiya Myth Cloth Figura Bandai BDISS079170'
 sku: 'B01L8S48ZA-es'
+tags: [ 'bandai', ]
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

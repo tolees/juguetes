@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5PVP4Z-es Hot Wheels- Circuito Mario Kart pistas de coches de...'
 sku: 'B07P5PVP4Z-es'
+tags: [ 'mattel', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

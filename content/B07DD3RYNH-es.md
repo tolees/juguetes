@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD3RYNH-es Hasbro Gaming- Trivial Pursuit E1921190'
 sku: 'B07DD3RYNH-es'
+tags: [ 'hasbro', ]
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

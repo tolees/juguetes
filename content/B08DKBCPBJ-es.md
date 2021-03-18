@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKBCPBJ-es Ocobudbxw Memory Match Stick Chess Niños Niños Puzzle...'
 sku: 'B08DKBCPBJ-es'
+tags: [ 'puzzle', ]
 actualPrice: 15.05 EUR
 currency: EUR
 price: 15.05

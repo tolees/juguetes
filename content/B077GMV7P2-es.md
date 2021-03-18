@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GMV7P2-es Gifort Pompones Coloridos Pompones Balls 250pcs /...'
 sku: 'B077GMV7P2-es'
+tags: [ 'peluche', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

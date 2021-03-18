@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMDWLVS-es Mocolo Bolsas de la Compra Reutilizables Ecológicas Bolsa...'
 sku: 'B07WMDWLVS-es'
+tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLNLBJG-es Star Wars 8 Deluxe Delta 1 Multicolor Hasbro C1439EU4'
 sku: 'B06WLNLBJG-es'
+tags: [ 'hasbro', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

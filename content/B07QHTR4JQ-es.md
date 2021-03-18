@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHTR4JQ-es Botella de Agua de Acero Inoxidable Botella Termica 500ml...'
 sku: 'B07QHTR4JQ-es'
+tags: [ 'bicicleta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C2QL1DO-es Sam el bombero- Vehículo con Figura Color Rojo Simba 9257656'
 sku: 'B01C2QL1DO-es'
+tags: [ 'simba', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

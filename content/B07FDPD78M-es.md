@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDPD78M-es Homcom Entrenador Elíptico de Fitness Bicicleta Elíptica...'
 sku: 'B07FDPD78M-es'
+tags: [ 'bicicleta', ]
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99
