@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S80SUL0-es Sylvanian Families-5207 Animales Fiesta de cumpleaños del...'
 sku: 'B00S80SUL0-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','families','sylvanian', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','families','sylvanian', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

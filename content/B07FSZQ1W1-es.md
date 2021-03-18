@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSZQ1W1-es [2017 SADES SA807 Nueva Xbox one PS4 Gaming Headset]...'
 sku: 'B07FSZQ1W1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

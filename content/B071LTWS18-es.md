@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LTWS18-es Bob the bulider Scoop Excavadora parlanchina Simba Toys FHF87'
 sku: 'B071LTWS18-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','simba','toys', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','simba','toys', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

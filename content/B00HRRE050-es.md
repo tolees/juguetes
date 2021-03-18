@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRE050-es SYLVANIAN FAMILIES Sylvanian Families-5052 Muñecos bebé y...'
 sku: 'B00HRRE050-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','families','sylvanian', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','families','sylvanian', ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

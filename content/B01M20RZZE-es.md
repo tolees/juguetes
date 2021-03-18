@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M20RZZE-es PLAYMOBIL Hadas- Dragón con Bebé única 9134'
 sku: 'B01M20RZZE-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playmobil', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

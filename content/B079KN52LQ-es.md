@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KN52LQ-es Justice League Figura Aquaman 15 cm Mattel Fwx60'
 sku: 'B079KN52LQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

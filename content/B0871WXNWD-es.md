@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0871WXNWD-es Laelr Controladores inalámbricos más recientes para...'
 sku: 'B0871WXNWD-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 40.87 EUR
 currency: EUR
 price: 40.87

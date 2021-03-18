@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTS3RK9-es Hori - Funda compacta Zelda Breath of the Wild Nintendo...'
 sku: 'B07WTS3RK9-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

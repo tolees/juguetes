@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWTWBFK-es Zerodis- Merry-Go-Round de Madera Control de Voz Merry-Go-...'
 sku: 'B07QWTWBFK-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle','rompecabezas', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4CX18X-es Ravensburger - Puzzle Paw Patrol pack de 3 x 49 piezas 05048'
 sku: 'B07T4CX18X-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle','ravensburger', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle','ravensburger', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

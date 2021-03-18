@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDPDLRZ-es Baoblaze Reparación de Motor de Vibración a Izquierda 3D...'
 sku: 'B07KDPDLRZ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','ps4', ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

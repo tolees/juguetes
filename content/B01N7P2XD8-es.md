@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7P2XD8-es Dragon Ball Super - Lanzador de energía Kamehameha Bandai...'
 sku: 'B01N7P2XD8-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bandai', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bandai', ]
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBWZ6WN-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica...'
 sku: 'B07KBWZ6WN-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014KEE9LC-es Mattel Fisher-Price-Xilófono de Arrastre Juguete Musical...'
 sku: 'B014KEE9LC-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

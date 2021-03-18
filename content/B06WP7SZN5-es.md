@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WP7SZN5-es Star Wars 8 Sable Camino de la Fuerza Multicolor Hasbro...'
 sku: 'B06WP7SZN5-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

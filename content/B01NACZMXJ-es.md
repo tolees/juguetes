@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NACZMXJ-es SportPlus SP-ET-9600-iE Bicicleta Elíptica con Aplicación...'
 sku: 'B01NACZMXJ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

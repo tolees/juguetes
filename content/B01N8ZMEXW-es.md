@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8ZMEXW-es MEISHINE® 3x3x3 Mini Cubo Mágico Inteligencia Juego de...'
 sku: 'B01N8ZMEXW-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

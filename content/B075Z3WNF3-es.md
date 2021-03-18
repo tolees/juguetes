@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Z3WNF3-es Supersoaker Splash Mouth Hasbro E0021EU4 color/modelo surtido'
 sku: 'B075Z3WNF3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

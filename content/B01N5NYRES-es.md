@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5NYRES-es Logitech Brio Ultra HD Pro Webcam Streaming Fluido...'
 sku: 'B01N5NYRES-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','brio', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','brio', ]
 actualPrice: 176.82 EUR
 currency: EUR
 price: 176.82

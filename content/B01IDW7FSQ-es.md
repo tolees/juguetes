@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IDW7FSQ-es Cars 3- Coche Crazy McQueen Mattel DYB04 color/modelo surtido'
 sku: 'B01IDW7FSQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 4.02 EUR
 currency: EUR
 price: 4.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SXJ4MR-es yidenguk Objetivo Digital Electrónico para Nerf Objetivos...'
 sku: 'B085SXJ4MR-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nerf', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nerf', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

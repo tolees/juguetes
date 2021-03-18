@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O4E2K0Q-es PLAYMOBIL - Flamencos 6651'
 sku: 'B00O4E2K0Q-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playmobil', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NFET6TE-es Fisher Price Móvil musical 3 en 1 juguete y proyector de...'
 sku: 'B00NFET6TE-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

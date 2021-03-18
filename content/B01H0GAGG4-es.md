@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H0GAGG4-es Warner Bros Interactive Spain Lego Dimensions: Nuevo...'
 sku: 'B01H0GAGG4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5OLLEA-es Nerf N-Strike Elite Mega Magnus Blaster'
 sku: 'B00K5OLLEA-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nerf', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nerf', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMNKDYJ-es L.O.L. Surprise 22050 - Reloj Digital con Correa en...'
 sku: 'B07MMNKDYJ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','l.o.l.', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','l.o.l.', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

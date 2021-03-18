@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5C4DB3-es Hasbro Gaming - Juego infantil Tiny Pong Hasbro E3112EU4'
 sku: 'B07M5C4DB3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

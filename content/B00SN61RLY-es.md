@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SN61RLY-es Barbie - Princess Power y la Varita mágica de Color...'
 sku: 'B00SN61RLY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','barbie', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','barbie', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

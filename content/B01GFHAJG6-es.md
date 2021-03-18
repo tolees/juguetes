@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GFHAJG6-es TY- Peluche juguete Color gris 23 cm United Labels Ibérica...'
 sku: 'B01GFHAJG6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

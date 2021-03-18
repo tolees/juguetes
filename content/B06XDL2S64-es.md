@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDL2S64-es Hanazuki Pulsera de emociones interactiva Hasbro B8256EU4'
 sku: 'B06XDL2S64-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

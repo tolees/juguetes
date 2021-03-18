@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPH5SZZ-es yoptote Caja Registradora Juguetes Supermercado Infantil...'
 sku: 'B07NPH5SZZ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

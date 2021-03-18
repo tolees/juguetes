@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGLBKQ4-es VTech - Tut Tut Bólidos Central de policía Playset...'
 sku: 'B07KGLBKQ4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','vtech', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','vtech', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0133IUBGS-es Ravensburger Avengers - Multipack de 3 Rompecabezas con 1...'
 sku: 'B0133IUBGS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ravensburger','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ravensburger','rompecabezas', ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

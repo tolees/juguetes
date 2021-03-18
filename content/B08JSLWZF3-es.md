@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JSLWZF3-es HANMUN Sonajeros de Bebe Juguetes de Mordedor Infante...'
 sku: 'B08JSLWZF3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

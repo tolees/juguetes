@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083C5J2GY-es Dragon Ball Z - Peluche Freezer 15 cm'
 sku: 'B083C5J2GY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 11.56 EUR
 currency: EUR
 price: 11.56

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FXRK9Y2-es Sony Playstation 3 - Lámina protectora adhesiva para mando...'
 sku: 'B00FXRK9Y2-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation', ]
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMFFNR1-es iNeego Bloques de Construcción 1000 Piezas Bloques de...'
 sku: 'B07SMFFNR1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

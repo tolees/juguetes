@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N27SI9K-es Pinypon Mascotas y figuras pack grande Famosa 700013370'
 sku: 'B01N27SI9K-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','pinypon', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','pinypon', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

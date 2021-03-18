@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para...'
 sku: 'B076BL1RNY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFCN8GV-es The Bellies - Ropita divertida disfraz reversible Angelito...'
 sku: 'B07NFCN8GV-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bellies','famosa','the', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bellies','famosa','the', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

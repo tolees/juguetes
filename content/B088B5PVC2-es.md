@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088B5PVC2-es tomtoc Funda Ultra Delgada para Nintendo Switch Patente...'
 sku: 'B088B5PVC2-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

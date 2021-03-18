@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M66U3GP-es RYBit Set de 9 Bolsas de Malla Reutilizables +1 Bolsa de...'
 sku: 'B01M66U3GP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

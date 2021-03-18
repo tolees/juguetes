@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W2G32JK-es Pinypon Pack 2 mascotas mariposa y oveja. Famosa 700012732'
 sku: 'B06W2G32JK-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','pinypon', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','pinypon', ]
 actualPrice: 0.74 EUR
 currency: EUR
 price: 0.74

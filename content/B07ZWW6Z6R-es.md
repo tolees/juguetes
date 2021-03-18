@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZWW6Z6R-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
 sku: 'B07ZWW6Z6R-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','barbie', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','barbie', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

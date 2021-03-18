@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8D4ZVC-es Dilwe RC Bounce Car RH803 Control Remoto Jumping Car RC...'
 sku: 'B07L8D4ZVC-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

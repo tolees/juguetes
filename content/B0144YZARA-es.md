@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144YZARA-es Ardistel - Stereo Gaming Headset PRO4-40 Color Azul PS4'
 sku: 'B0144YZARA-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

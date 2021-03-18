@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07864YPFY-es Play-Doh Helados Deliciosos Hasbro E0042EU4 color/modelo...'
 sku: 'B07864YPFY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro','play-doh', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro','play-doh', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

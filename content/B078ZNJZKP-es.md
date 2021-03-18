@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZNJZKP-es TY- Búho Yago Peluche Color azul United Labels Ibérica...'
 sku: 'B078ZNJZKP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

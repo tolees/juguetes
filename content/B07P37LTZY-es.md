@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P37LTZY-es KATOOM Mini Flotador 9pcs para sostenedor Bebida de...'
 sku: 'B07P37LTZY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','flotador','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','flotador','juguetes', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

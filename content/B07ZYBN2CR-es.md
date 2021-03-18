@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYBN2CR-es Estadio Hypersphere Vortex Climb Hasbro E7621EU4'
 sku: 'B07ZYBN2CR-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

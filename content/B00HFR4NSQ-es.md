@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HFR4NSQ-es Disney - Carnaval Puzzle de 1000 Piezas Ravensburger 19383 7'
 sku: 'B00HFR4NSQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle','ravensburger', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle','ravensburger', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

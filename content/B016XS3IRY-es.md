@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016XS3IRY-es Fisher-Price Manzanita Activity juguete colgante para bebé...'
 sku: 'B016XS3IRY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','fisher-price','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','fisher-price','mattel', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

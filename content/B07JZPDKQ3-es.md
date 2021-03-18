@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZPDKQ3-es AUTOUTLET 3 en 1 Grip y raqueta de tenis Juego de...'
 sku: 'B07JZPDKQ3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

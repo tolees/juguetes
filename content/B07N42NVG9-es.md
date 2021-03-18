@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N42NVG9-es BACKTURE Sillín Bicicleta Asiento de Bicicleta de Gel...'
 sku: 'B07N42NVG9-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

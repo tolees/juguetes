@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ZSTZ38-es Toimsa Bicicleta para Niñas Minnie Rosa 611'
 sku: 'B007ZSTZ38-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 89.21 EUR
 currency: EUR
 price: 89.21

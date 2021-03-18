@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC8YDJR-es SYLVANIAN FAMILIES Mini muñecas y Accesorios Multicolor...'
 sku: 'B07PC8YDJR-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','families','sylvanian', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','families','sylvanian', ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5K2SMB-es Geomag- Classic Color Construcciones magnéticas y juegos...'
 sku: 'B01N5K2SMB-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','geomag-', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','geomag-', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

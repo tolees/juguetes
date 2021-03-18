@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ5DWB4-es Disco Duro Externo 1tb USB 3.1 Type C Disco Duro Externo...'
 sku: 'B08DJ5DWB4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

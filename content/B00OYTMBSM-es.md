@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OYTMBSM-es Devir- Erizos a la Carrera HLERIZOS'
 sku: 'B00OYTMBSM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','devir-', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','devir-', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

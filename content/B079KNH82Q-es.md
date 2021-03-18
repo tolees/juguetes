@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KNH82Q-es Mega Construx - Pokemon Figuras Venesaur Versus Beedrill...'
 sku: 'B079KNH82Q-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','construx','juguetes','mattel','mega', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','construx','juguetes','mattel','mega', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

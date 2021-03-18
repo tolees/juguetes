@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EULX9I-es Fisher-Price Gira Gira - Cebra'
 sku: 'B000EULX9I-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','fisher-price', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','fisher-price', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

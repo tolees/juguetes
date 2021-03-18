@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3L8GGN-es Banpresto - The Grandline Men Vol.4 Bandai 85626'
 sku: 'B07R3L8GGN-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bandai', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bandai', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GP8NG1-es Juego de filtros antipolvo para máscara PM 2 5 antiniebla...'
 sku: 'B086GP8NG1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 3.52 EUR
 currency: EUR
 price: 3.52

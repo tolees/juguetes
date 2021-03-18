@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CD5S3PV-es LEGO Die Unglaublichen - Standard Edition - Nintendo...'
 sku: 'B07CD5S3PV-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego','nintendo', ]
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

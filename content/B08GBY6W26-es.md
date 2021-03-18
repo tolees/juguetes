@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GBY6W26-es Bola de pulverización de Agua eléctrica Inducción...'
 sku: 'B08GBY6W26-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

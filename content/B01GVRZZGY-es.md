@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GVRZZGY-es God of War - PlayStation 4 [Importación inglesa]'
 sku: 'B01GVRZZGY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation', ]
 actualPrice: 30.03 EUR
 currency: EUR
 price: 30.03

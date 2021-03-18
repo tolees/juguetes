@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O0RPSIS-es Disney Frozen - Muñeco Olaf cantarín Mattel CJW68'
 sku: 'B00O0RPSIS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

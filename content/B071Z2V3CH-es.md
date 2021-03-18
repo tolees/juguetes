@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Z2V3CH-es Shimmer And Shine - Peluche Alfombra mágica Shine de 30 cm...'
 sku: 'B071Z2V3CH-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

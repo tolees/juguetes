@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017HASEV2-es Disney Princess- Ariel Muñeca Color Verde y Rojo Hasbro...'
 sku: 'B017HASEV2-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

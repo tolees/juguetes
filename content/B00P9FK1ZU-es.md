@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9FK1ZU-es Mega Bloks Camión golpetones juguete de construcción para...'
 sku: 'B00P9FK1ZU-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bloks','mattel','mega', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bloks','mattel','mega', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3UGTXS-es Wissper Wissper-9358495 Muñeca Simba 9358495'
 sku: 'B01M3UGTXS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','simba', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','simba', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

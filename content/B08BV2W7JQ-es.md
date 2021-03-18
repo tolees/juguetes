@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BV2W7JQ-es Juguetes de baño para bebés Juguetes para bebés Baby...'
 sku: 'B08BV2W7JQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

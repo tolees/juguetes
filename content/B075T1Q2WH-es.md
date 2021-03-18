@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T1Q2WH-es LEGO Friends Heartlake - Casa de la Amistad Juguete de...'
 sku: 'B075T1Q2WH-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

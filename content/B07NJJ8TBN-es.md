@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJ8TBN-es Little People Granja cuida a los animalitos juguetes bebés...'
 sku: 'B07NJJ8TBN-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','mattel', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STL8GK8-es Furreal Friends - Peluche interactivo JJ Mi Perrito...'
 sku: 'B00STL8GK8-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro','peluche', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

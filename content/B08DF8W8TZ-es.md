@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DF8W8TZ-es Mochila Infantil 3D Estuche Escolar y Bolsa Merienda de...'
 sku: 'B08DF8W8TZ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peppa','pig', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peppa','pig', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

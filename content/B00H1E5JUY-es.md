@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H1E5JUY-es Jovi 71 - Plastilina color rojo'
 sku: 'B00H1E5JUY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','plastilina', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','plastilina', ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

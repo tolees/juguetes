@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M6QS51C-es Devir Iberia 221718 Genial Juego de Mesa BGENI'
 sku: 'B00M6QS51C-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','devir', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','devir', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS9CRX3-es Justdodo Doble Forma de Cereza PVC Posavasos Inflable Copa...'
 sku: 'B07WS9CRX3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','flotador', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','flotador', ]
 actualPrice: 1.61 EUR
 currency: EUR
 price: 1.61

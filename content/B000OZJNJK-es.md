@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZJNJK-es FEBER - Woodland Cottage Casita infantil para el jardín...'
 sku: 'B000OZJNJK-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','feber', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','feber', ]
 actualPrice: 138.33 EUR
 currency: EUR
 price: 138.33

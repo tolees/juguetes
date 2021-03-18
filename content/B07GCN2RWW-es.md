@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCN2RWW-es LucidSound - LS31 Wireless Gaming Headset PS4'
 sku: 'B07GCN2RWW-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 92.7 EUR
 currency: EUR
 price: 92.7

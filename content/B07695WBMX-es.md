@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07695WBMX-es AUKEY Quick Charge 3.0 Bateria Externa 26500mAh Cargador...'
 sku: 'B07695WBMX-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

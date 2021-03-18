@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D8CDVRR-es Ocobudbxw Cámara con Sensor de Movimiento Ocular micrófono...'
 sku: 'B08D8CDVRR-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

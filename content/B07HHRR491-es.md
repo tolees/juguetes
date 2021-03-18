@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHRR491-es Jump Force - Collector s Edition Playstation 4'
 sku: 'B07HHRR491-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

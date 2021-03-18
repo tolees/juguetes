@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41F4CE-es LEGO Super Heroes - Harley Quinn al Rescate 41231'
 sku: 'B01J41F4CE-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

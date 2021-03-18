@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTLDT37-es Peppa Pig Sudadera para niñas 4-5 años Rosado'
 sku: 'B07MTLDT37-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peppa','pig', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peppa','pig', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

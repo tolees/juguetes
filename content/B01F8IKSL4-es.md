@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F8IKSL4-es mini kitty 2 en 1 Mando Plus con Motion Plus y Nunchunk...'
 sku: 'B01F8IKSL4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

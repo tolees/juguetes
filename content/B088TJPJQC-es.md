@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TJPJQC-es Divgdovg Bicicleta Estática para El Hogar Bicicleta de...'
 sku: 'B088TJPJQC-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

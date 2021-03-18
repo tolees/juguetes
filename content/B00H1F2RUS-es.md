@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H1F2RUS-es Flotador para Bebé Bestway Swim Safe Baby Seat'
 sku: 'B00H1F2RUS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','flotador', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','flotador', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

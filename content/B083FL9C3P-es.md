@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FL9C3P-es 【Actualizado 2020】 Proyector WiFi BOSNAS Nativo 720P Mini...'
 sku: 'B083FL9C3P-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

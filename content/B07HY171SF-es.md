@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
 sku: 'B07HY171SF-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','fisher-price','juguetes','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','fisher-price','juguetes','mattel', ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

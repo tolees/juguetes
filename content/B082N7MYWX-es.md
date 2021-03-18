@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082N7MYWX-es Mattel Games UNO: Rick and Morty - Juego de cartas...'
 sku: 'B082N7MYWX-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','cartas','de','juego','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','cartas','de','juego','mattel', ]
 actualPrice: 9.02 EUR
 currency: EUR
 price: 9.02

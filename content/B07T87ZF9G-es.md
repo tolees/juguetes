@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T87ZF9G-es Supersoaker-Fortnite Pump Sg Hasbro E76475L0'
 sku: 'B07T87ZF9G-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

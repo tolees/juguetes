@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XZ7ZRI-es PLASTILINA Giotto PATPLUME 150 GR Surtido Caja DE 12'
 sku: 'B005XZ7ZRI-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','plastilina', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','plastilina', ]
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

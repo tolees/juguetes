@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK8QXW6-es L.O.L. Surprise!- L.O.L Lils Winter Disco Series con 5...'
 sku: 'B07QK8QXW6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','l.o.l.', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','l.o.l.', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

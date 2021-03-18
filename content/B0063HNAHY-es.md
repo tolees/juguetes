@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0063HNAHY-es Michelin Dynamic Sport 700X28 - Cubierta de bicicleta...'
 sku: 'B0063HNAHY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012ZVH2FM-es ZJchao Bolsa de almacenamiento- Ideal para Lego Duplo y...'
 sku: 'B012ZVH2FM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','lego', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

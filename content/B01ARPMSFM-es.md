@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ARPMSFM-es Beyond Two Souls + Heavy Rain PS4'
 sku: 'B01ARPMSFM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

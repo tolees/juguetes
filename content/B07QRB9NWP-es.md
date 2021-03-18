@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QRB9NWP-es GAMEFACTORY 646239 Virus! Juego de Cartas Multicolor'
 sku: 'B07QRB9NWP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','cartas','de','juego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','cartas','de','juego', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

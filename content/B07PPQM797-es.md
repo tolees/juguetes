@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPQM797-es L.O.L. Surprise! 564119E7C Furniture Boutique con Abeja...'
 sku: 'B07PPQM797-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','l.o.l.', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','l.o.l.', ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

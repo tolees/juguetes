@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EM10ZO-es TKM 10720 Cámara Bicicleta Antipinchazos 26X1.75 Adultos...'
 sku: 'B018EM10ZO-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

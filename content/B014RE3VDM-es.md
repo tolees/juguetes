@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014RE3VDM-es Nintendo - Remote Plus - Edición TOAD Nintendo Wii U'
 sku: 'B014RE3VDM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 42.44 EUR
 currency: EUR
 price: 42.44

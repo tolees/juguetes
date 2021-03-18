@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D5ZDHP3-es Monitor Portátil Uperfect 15 6 Pulgadas Monitor Gaming FHD...'
 sku: 'B08D5ZDHP3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

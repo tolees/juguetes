@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ864SB-es FIFA 20 - Xbox One [Importación inglesa]'
 sku: 'B07RZ864SB-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','xbox', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

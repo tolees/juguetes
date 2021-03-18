@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VZL4QY-es Vampirina-78035 la Pensión del Terror Multicolor Bandai 78036'
 sku: 'B071VZL4QY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bandai', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bandai', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

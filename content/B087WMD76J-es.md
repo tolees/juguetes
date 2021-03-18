@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WMD76J-es BelleStyle Juguetes de Reloj Madera Juguete de Reloj de...'
 sku: 'B087WMD76J-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','rompecabezas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

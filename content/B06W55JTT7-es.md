@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W55JTT7-es Simba 6315878710pro Disney – Peluche de Mickey 61 cm'
 sku: 'B06W55JTT7-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche','simba', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche','simba', ]
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

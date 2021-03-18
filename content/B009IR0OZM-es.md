@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009IR0OZM-es Puzzle Mates 17691 - Tapete para enrollar puzzles hasta...'
 sku: 'B009IR0OZM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CDY6DGV-es Moma Bikes Bicicleta Trekking / Paseo HYBRID 28" Alu...'
 sku: 'B07CDY6DGV-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 243.93 EUR
 currency: EUR
 price: 243.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AOVXCG4-es BRIO- Juego Primera Edad 33593'
 sku: 'B00AOVXCG4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','brio-', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','brio-', ]
 actualPrice: 29.51 EUR
 currency: EUR
 price: 29.51

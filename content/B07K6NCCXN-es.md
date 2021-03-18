@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6NCCXN-es FR·TEC - Auriculares Gaming Headset AIZEN - PS4 Xbox One...'
 sku: 'B07K6NCCXN-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo','ps4','xbox', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

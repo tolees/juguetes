@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRPZYNQ-es L.O.L. Surprise! 557067E7C Hairgoal Doll-Series 5-2A Multi'
 sku: 'B07HRPZYNQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','l.o.l.', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','l.o.l.', ]
 actualPrice: 17.34 EUR
 currency: EUR
 price: 17.34

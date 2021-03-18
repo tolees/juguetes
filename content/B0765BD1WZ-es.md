@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765BD1WZ-es LEGO Duplo Disney - Fiesta de cumpleaños de Minnie 10873'
 sku: 'B0765BD1WZ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

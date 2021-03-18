@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XD9JKQN-es Play Doh PDH Core Estudio de creaciones animadas...'
 sku: 'B06XD9JKQN-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','doh','hasbro','play', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','doh','hasbro','play', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

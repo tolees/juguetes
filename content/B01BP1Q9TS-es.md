@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BP1Q9TS-es Trivial Pursuit Star Wars Hasbro B8615105'
 sku: 'B01BP1Q9TS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

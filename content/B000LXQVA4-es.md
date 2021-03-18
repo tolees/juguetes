@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LXQVA4-es Fisher-Price Saltador animalitos de la selva para bebé +1...'
 sku: 'B000LXQVA4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','fisher-price','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','fisher-price','mattel', ]
 actualPrice: 121.89 EUR
 currency: EUR
 price: 121.89

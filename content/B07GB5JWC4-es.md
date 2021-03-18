@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB5JWC4-es Hot Wheels Monster Trucks Vehículo Bone Shaker 1:24 coches...'
 sku: 'B07GB5JWC4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','mattel', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

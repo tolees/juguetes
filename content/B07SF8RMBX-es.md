@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SF8RMBX-es Petit Jour Paris - Cubertería Peppa Pig - Soporta la...'
 sku: 'B07SF8RMBX-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peppa','pig', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peppa','pig', ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725ZBT3H-es FEBER - Mad Racer 12 V Famosa 800011361'
 sku: 'B0725ZBT3H-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','feber', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','feber', ]
 actualPrice: 172.35 EUR
 currency: EUR
 price: 172.35

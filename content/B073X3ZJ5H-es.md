@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073X3ZJ5H-es Pdp - Mando Licenciado Nueva Color Camuflaje Negro Xbox One'
 sku: 'B073X3ZJ5H-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','xbox', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

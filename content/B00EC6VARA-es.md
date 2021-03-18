@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EC6VARA-es Disney Infinity - Toy Box Set: Frozen Anna Elsa + 2 Power...'
 sku: 'B00EC6VARA-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','disney','infinity', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','disney','infinity', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

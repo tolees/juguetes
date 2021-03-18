@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XSSR6U-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
 sku: 'B003XSSR6U-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

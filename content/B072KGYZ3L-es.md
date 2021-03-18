@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KGYZ3L-es Lego Marvel Super Heroes 2 - Nintendo Switch [Importación...'
 sku: 'B072KGYZ3L-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego','nintendo', ]
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

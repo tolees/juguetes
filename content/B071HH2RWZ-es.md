@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HH2RWZ-es Las aventuras de Ladybug Puzzle Multi 4en1 50-80-100-150...'
 sku: 'B071HH2RWZ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

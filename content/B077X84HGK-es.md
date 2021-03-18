@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077X84HGK-es Alamor 24V 36V 48V Agarre Del Acelerador Giratorio 7/8...'
 sku: 'B077X84HGK-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

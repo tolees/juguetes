@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TVNB61E-es Clementoni - Puzzle 13.200 Piezas New York 38009'
 sku: 'B00TVNB61E-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','clementoni','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','clementoni','puzzle', ]
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

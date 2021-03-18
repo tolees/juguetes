@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RJFTRT-es KLIM Nova + Base de refrigeración para portátiles RGB -...'
 sku: 'B081RJFTRT-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

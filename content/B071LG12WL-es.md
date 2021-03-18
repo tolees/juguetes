@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LG12WL-es Hasbro - Baby Alive Muñeca multicolor 38 cm C0963105'
 sku: 'B071LG12WL-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

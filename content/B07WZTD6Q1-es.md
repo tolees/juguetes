@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZTD6Q1-es Peppa Pig Camiseta de Manga Corta Paquete de 2 para niñas...'
 sku: 'B07WZTD6Q1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peppa','pig', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peppa','pig', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PI0GZ7Y-es Fisher-Price - Duermebebés sueños Felices Mattel CHG19'
 sku: 'B00PI0GZ7Y-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','fisher-price','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','fisher-price','mattel', ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

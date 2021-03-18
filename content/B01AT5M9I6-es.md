@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AT5M9I6-es Barbie Fashionista Armario Fashion accesorios de muñecas...'
 sku: 'B01AT5M9I6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','barbie','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','barbie','mattel', ]
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0723GJQRP-es Transformers C2028EU50 - Peluche de evolución'
 sku: 'B0723GJQRP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

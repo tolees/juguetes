@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018S6LWJK-es FEBER - See Saw Balancín Famosa 800010240'
 sku: 'B018S6LWJK-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','feber', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','feber', ]
 actualPrice: 123.2 EUR
 currency: EUR
 price: 123.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V8LP97O-es Silverlit-Mi Primer World Brands teledirigidos Aviones...'
 sku: 'B00V8LP97O-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

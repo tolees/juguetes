@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4JV6JK-es VTech- KidiGear Walkie Talkies Multicolor Box Size: 25 x...'
 sku: 'B07Q4JV6JK-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','vtech-', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','vtech-', ]
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

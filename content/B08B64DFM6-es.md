@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B64DFM6-es EXCEED Posavasos inflables para la Piscina Paquete de 17...'
 sku: 'B08B64DFM6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

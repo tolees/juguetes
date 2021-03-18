@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NT5YH3X-es yyhappy Childhood Mini Telescopio De Juguetes De Exterior...'
 sku: 'B07NT5YH3X-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

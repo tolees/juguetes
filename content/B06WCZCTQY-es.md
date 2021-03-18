@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZCTQY-es Cómo entrenar a tu dragón-Eret con Ballesta de 4 Disparos...'
 sku: 'B06WCZCTQY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playmobil', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playmobil', ]
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDCPX4P-es Nancy - Princesa De Las Hadas Famosa 700014266'
 sku: 'B07DDCPX4P-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','nancy', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','nancy', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

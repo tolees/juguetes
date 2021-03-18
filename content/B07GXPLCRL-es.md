@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXPLCRL-es HoneyHolly Botella de Agua Acero Inoxidable sin BPA...'
 sku: 'B07GXPLCRL-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

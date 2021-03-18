@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MX0YPI8-es Schmidt Spiele Playmobil: Kampf um den Königsschatz Puzzle...'
 sku: 'B00MX0YPI8-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playmobil','puzzle','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playmobil','puzzle','rompecabezas', ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

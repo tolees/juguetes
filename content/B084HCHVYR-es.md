@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HCHVYR-es Educa Borras - Genuine Puzzles Puzzle 2.000 piezas El...'
 sku: 'B084HCHVYR-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

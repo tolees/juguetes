@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CMTM2V-es Razer Kraken 7.1 V2: sonido envolvente 7.1 - Micrófono...'
 sku: 'B071CMTM2V-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 91.11 EUR
 currency: EUR
 price: 91.11

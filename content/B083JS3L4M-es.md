@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JS3L4M-es HASAGEI Soporte Movil Bici para 4.5" -7.2" Smartphones...'
 sku: 'B083JS3L4M-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076N6FGC8-es Jurassic World Dinosaurio de juguete Indoraptor luces y...'
 sku: 'B076N6FGC8-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

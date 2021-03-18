@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0196A4EWE-es SYLVANIAN FAMILIES- Cosmetic Counter Mini muñecas y...'
 sku: 'B0196A4EWE-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','families','sylvanian', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','families','sylvanian', ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

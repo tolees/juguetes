@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CT2WVLX-es Mando Inalámbrico para PS4 Mando Inalámbrico Gamepad Doble...'
 sku: 'B08CT2WVLX-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','ps4', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

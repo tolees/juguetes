@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UNA1IPI-es Seagate Expansion STEA500400 - Disco duro externo portátil...'
 sku: 'B00UNA1IPI-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','xbox', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

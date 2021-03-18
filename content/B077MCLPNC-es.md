@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MCLPNC-es FR·TEC - Dragon Ball Super Grips 1 Star para Nintendo Switch'
 sku: 'B077MCLPNC-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

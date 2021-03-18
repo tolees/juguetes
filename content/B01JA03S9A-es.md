@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JA03S9A-es Bizak- Figuras Tomy 30699202'
 sku: 'B01JA03S9A-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','tomy', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','tomy', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

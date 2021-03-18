@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B8GX8R2-es Educa - Multi 4 Puzzles Junior puzzle infantil Pixar:...'
 sku: 'B00B8GX8R2-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

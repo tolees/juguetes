@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RS8SHG-es Famosa Pin y Pon New Look Pelo Lila 700015560'
 sku: 'B084RS8SHG-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','pin','pon','y', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','pin','pon','y', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

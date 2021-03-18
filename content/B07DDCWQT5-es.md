@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDCWQT5-es Beados - Centro de Diseño Famosa 700014683'
 sku: 'B07DDCWQT5-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa', ]
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

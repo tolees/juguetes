@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTY3QH7-es Dragon Ball Z: Kakarot Deluxe Edition - PlayStation 4...'
 sku: 'B07XTY3QH7-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation', ]
 actualPrice: 74.71 EUR
 currency: EUR
 price: 74.71

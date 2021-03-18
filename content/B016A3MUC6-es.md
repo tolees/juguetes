@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016A3MUC6-es PATRULLA CANINA PAW PATROL - PELUCHE PERSONAJE RUBBLE...'
 sku: 'B016A3MUC6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

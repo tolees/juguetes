@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GNAP830-es VTech Baby 150503 - Cubo educativo para girar y aprender...'
 sku: 'B00GNAP830-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','vtech', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','vtech', ]
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

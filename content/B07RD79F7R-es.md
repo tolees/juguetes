@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RD79F7R-es Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos...'
 sku: 'B07RD79F7R-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

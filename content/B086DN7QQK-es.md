@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086DN7QQK-es ColiCor Display Stand Soporte para Lego 42083 Technic...'
 sku: 'B086DN7QQK-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

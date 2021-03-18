@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EH9Z31Q-es Mantona Premium Biker - Bolsa fotográfica para Bicicleta...'
 sku: 'B00EH9Z31Q-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 52.35 EUR
 currency: EUR
 price: 52.35

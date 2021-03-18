@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGJ7P82-es FEBER - Palacio de Princesas Super Arandele de Disney...'
 sku: 'B07SGJ7P82-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','feber', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','feber', ]
 actualPrice: 187.44 EUR
 currency: EUR
 price: 187.44

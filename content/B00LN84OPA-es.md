@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LN84OPA-es Ravensburger Disney Frozen Mini Memory Juego de emparejar...'
 sku: 'B00LN84OPA-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ravensburger', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ravensburger', ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

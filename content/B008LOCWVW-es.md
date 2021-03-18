@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008LOCWVW-es Tecnovita by BH Open&GO YF90 Bicicleta estática Plegable....'
 sku: 'B008LOCWVW-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 153.08 EUR
 currency: EUR
 price: 153.08

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0861QHZVP-es Magicfun Flotado de Natación para Bebé con Asiento Anill...'
 sku: 'B0861QHZVP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','flotador','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','flotador','juguetes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

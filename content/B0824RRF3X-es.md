@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824RRF3X-es Avengers Figuras Titan Capitán América Hasbro E7877ES0'
 sku: 'B0824RRF3X-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

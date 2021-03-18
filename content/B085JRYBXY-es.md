@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085JRYBXY-es Skevic Gafas de Sol Hombre Mujer Polarizadas TR90 - Gafas...'
 sku: 'B085JRYBXY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

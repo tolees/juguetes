@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCJXV8M-es VTech Barco pirata cazatesoros transformable en isla...'
 sku: 'B07CCJXV8M-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','vtech', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','vtech', ]
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

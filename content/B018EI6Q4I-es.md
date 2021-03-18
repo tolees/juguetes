@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EI6Q4I-es Imaginext Batman Batcueva transformable Juguete para niño...'
 sku: 'B018EI6Q4I-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

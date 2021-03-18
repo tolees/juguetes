@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWKMKK1-es Mattel Disney Toy Story 4 Figura Duke Caboom acrobacias y...'
 sku: 'B07FWKMKK1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','mattel', ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

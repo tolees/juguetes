@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0166YAUM6-es Imp - Dragon Ball Z Grips PS4'
 sku: 'B0166YAUM6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

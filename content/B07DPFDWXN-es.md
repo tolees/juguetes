@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPFDWXN-es PS4 - Estación de carga dualshock 4 soporte de...'
 sku: 'B07DPFDWXN-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','ps4', ]
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

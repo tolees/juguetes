@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VR2SYQ-es Artist Fabrica Monstruosa Slime BIZAK 63317005'
 sku: 'B079VR2SYQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bizak', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bizak', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

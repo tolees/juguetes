@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Q7R2ZV-es TUTUO Nintendo Switch Dock USB Tipo C a HDMI Adaptador USB...'
 sku: 'B076Q7R2ZV-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

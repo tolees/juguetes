@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073C7F7HB-es Fisher-Price Monito gatea conmigo juguete gateo bebé +3...'
 sku: 'B073C7F7HB-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','fisher-price','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','fisher-price','mattel', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

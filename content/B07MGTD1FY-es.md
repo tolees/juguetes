@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGTD1FY-es LoveOlvidoE 2 unids Universal 3D Thumbstick Cap Aleación...'
 sku: 'B07MGTD1FY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

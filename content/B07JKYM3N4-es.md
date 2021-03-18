@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos auriculares...'
 sku: 'B07JKYM3N4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo','ps4','xbox', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

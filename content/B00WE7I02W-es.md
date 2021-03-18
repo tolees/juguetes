@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WE7I02W-es De Metal Stick Palanca De Mando Para Sony Playstation 4...'
 sku: 'B00WE7I02W-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','xbox', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

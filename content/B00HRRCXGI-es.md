@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRCXGI-es EPOCH Girl S Room Set Sylvanian Families Mini muñecas y...'
 sku: 'B00HRRCXGI-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','families','sylvanian', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','families','sylvanian', ]
 actualPrice: 22.24 EUR
 currency: EUR
 price: 22.24

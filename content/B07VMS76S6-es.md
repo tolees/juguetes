@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMS76S6-es IMC Toys Bebés Llorones - Wandy 93201'
 sku: 'B07VMS76S6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bebés','llorones', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bebés','llorones', ]
 actualPrice: 31.74 EUR
 currency: EUR
 price: 31.74

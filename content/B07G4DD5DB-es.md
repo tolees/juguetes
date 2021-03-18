@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4DD5DB-es Astro Gaming A50 - Auriculares con Micrófono Inalámbricos...'
 sku: 'B07G4DD5DB-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','xbox', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

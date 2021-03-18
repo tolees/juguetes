@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5AB9G7-es Play-Doh Pizzería Multicolor 23 x 22 cm Hasbro B1856EU6'
 sku: 'B01N5AB9G7-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro','play-doh', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro','play-doh', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

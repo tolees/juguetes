@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQ1JK1M-es Kinetic Sand Sandtastic Arena Kinética BIZAK 61921467'
 sku: 'B07SQ1JK1M-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bizak','kinetic','sand', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bizak','kinetic','sand', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGQPZRX-es MUNDO PETIT -Chaleco Flotador de Ayuda a la flotabilidad...'
 sku: 'B07NGQPZRX-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','flotador', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','flotador', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

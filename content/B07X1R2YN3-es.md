@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1R2YN3-es jerryvon 136 Piezas Puzzles Rompecabezas Magnéticos...'
 sku: 'B07X1R2YN3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','rompecabezas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

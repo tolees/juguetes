@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079S9QNV1-es LA Noire PS4 - PlayStation 4 [Importación inglesa]'
 sku: 'B079S9QNV1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','ps4', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

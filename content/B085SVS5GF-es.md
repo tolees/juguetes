@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SVS5GF-es ColiCor Display Stand Soporte para Lego Star Wars 75192...'
 sku: 'B085SVS5GF-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

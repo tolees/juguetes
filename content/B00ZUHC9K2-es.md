@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUHC9K2-es King- 2 Puzzles Frozen 50 pcs Rompecabezas Multicolor 05315'
 sku: 'B00ZUHC9K2-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','rompecabezas', ]
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QF1LRXQ-es Barbie Muñeca BMR 1959 look cazadora denim regalo para...'
 sku: 'B07QF1LRXQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','barbie','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','barbie','mattel', ]
 actualPrice: 24.76 EUR
 currency: EUR
 price: 24.76

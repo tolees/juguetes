@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BREAVE2-es SYLVANIAN FAMILIES- Cake Decorating Set Mini muñecas y...'
 sku: 'B01BREAVE2-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','families','sylvanian', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','families','sylvanian', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

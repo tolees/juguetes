@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082K6HTK2-es Soft M Edical Expander Silicone Purple Set 6 Juguetes En...'
 sku: 'B082K6HTK2-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

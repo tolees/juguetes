@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HZ58Q7V-es Disco Duro Externo 2TB USB-C Disco Duro Externo para PC...'
 sku: 'B08HZ58Q7V-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

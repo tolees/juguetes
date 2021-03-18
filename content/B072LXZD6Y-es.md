@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LXZD6Y-es Nancy día de aventuras a caballo Famosa 700013890'
 sku: 'B072LXZD6Y-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','nancy', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','nancy', ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

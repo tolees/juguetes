@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004H3XB7U-es Intex 56585EU - Flotador hinchable bebé 70 cm circular de...'
 sku: 'B004H3XB7U-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','flotador', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','flotador', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

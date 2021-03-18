@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073D4YT4B-es 2 en 1 Juego de Ajedrez Chino Weiqi Go Juego de Damas...'
 sku: 'B073D4YT4B-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

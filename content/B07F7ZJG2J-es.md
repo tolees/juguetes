@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7ZJG2J-es [ Versión Nuevo ] TeckNet 2.0M Cable HDMI 2.0 4K Ultra HD...'
 sku: 'B07F7ZJG2J-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','ps4','xbox', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

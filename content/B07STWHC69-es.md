@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STWHC69-es Peppa Pig- Casa Gigante De Madera Multicolor Bandai CO07004'
 sku: 'B07STWHC69-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bandai','peppa','pig', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bandai','peppa','pig', ]
 actualPrice: 91.27 EUR
 currency: EUR
 price: 91.27

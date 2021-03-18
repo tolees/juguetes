@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BUKAC24-es Disney Infinity 3.0 - Disney Figura Baloo'
 sku: 'B01BUKAC24-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','disney','infinity', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','disney','infinity', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

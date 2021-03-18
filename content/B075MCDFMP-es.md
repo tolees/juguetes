@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MCDFMP-es Cewaal 10Pcs Joystick Cap Case Grips Analog Cubierta del...'
 sku: 'B075MCDFMP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

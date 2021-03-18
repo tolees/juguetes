@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079K9Y1GM-es Barbie Fashionista Muñeca cuerpo Curvy look Future is...'
 sku: 'B079K9Y1GM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','barbie','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','barbie','mattel', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

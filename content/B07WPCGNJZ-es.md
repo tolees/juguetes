@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPCGNJZ-es Star Wars - Figura de acción de Rey con sable de Galaxy of...'
 sku: 'B07WPCGNJZ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGMW73H-es Cable Micro USB Tujun [3 Unidades/3 pies+3 pies+6 pies]...'
 sku: 'B07ZGMW73H-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

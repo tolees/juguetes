@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5LV5KM-es IBRA Cable de Alta Velocidad Optical HDMI de 5M Cable HDMI...'
 sku: 'B07F5LV5KM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

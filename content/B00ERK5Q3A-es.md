@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ERK5Q3A-es Hot Wheels Shifters Vehículos de colección Color Shifter...'
 sku: 'B00ERK5Q3A-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','mattel', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

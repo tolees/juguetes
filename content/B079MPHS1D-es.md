@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MPHS1D-es Play Doh - Rex The Chomper Hasbro E1952EU5'
 sku: 'B079MPHS1D-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','doh','hasbro','play', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','doh','hasbro','play', ]
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

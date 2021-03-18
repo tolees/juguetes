@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019XMRQPM-es Fajiabao Puzzles de Madera Magnético Dibujo Placa...'
 sku: 'B019XMRQPM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','rompecabezas', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

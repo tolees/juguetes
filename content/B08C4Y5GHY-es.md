@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4Y5GHY-es Elyco Cuerda Saltar para Nintendo Switch Jump Rope...'
 sku: 'B08C4Y5GHY-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

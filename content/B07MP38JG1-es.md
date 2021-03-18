@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MP38JG1-es eXtremeRate Carcasa para Nintendo Switch Funda Completa...'
 sku: 'B07MP38JG1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002LIEE6-es Clementoni-Rompecabezas Puzzle 1000 Piezas Museos...'
 sku: 'B0002LIEE6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

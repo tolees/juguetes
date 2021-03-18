@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PX4F8H-es Clementoni-39421 Puzzle 1000 Piezas Dutch Dreamworld 39421.0'
 sku: 'B079PX4F8H-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

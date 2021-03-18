@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ITC3F5S-es Clementoni - Puzzle 1500 Piezas Paris Montmartre 31999'
 sku: 'B00ITC3F5S-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','clementoni','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','clementoni','puzzle', ]
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

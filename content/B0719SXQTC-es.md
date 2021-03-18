@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719SXQTC-es Barriguitas Clínica Loca Famosa 700013940'
 sku: 'B0719SXQTC-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YCQW0II-es VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos Color...'
 sku: 'B00YCQW0II-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','vtech-', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','vtech-', ]
 actualPrice: 54.08 EUR
 currency: EUR
 price: 54.08

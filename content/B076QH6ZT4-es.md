@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QH6ZT4-es Forfar Deportes al Aire Libre Que completan un Ciclo la...'
 sku: 'B076QH6ZT4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004J6DGAC-es Playmobil- Thief with Safe and Getaway Car Ladrón de Caja...'
 sku: 'B004J6DGAC-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playmobil-', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playmobil-', ]
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67

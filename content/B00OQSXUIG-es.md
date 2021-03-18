@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OQSXUIG-es Feber - Tobogán Con Rampa De 107cm Famosa 800009593'
 sku: 'B00OQSXUIG-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','famosa','feber', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','famosa','feber', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

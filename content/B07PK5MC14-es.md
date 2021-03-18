@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PK5MC14-es Bananas- Megabananas Multicolor Bandai BB00778'
 sku: 'B07PK5MC14-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bandai', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bandai', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

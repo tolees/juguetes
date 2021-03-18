@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GG1AXCG-es TROLLS - Coronación de la Princesa Poppy Hasbro B6560EU4'
 sku: 'B01GG1AXCG-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

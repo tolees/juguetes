@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XC3JHTT-es Disney Cars 3 pista de coches Super Looping XRS Rocket...'
 sku: 'B07XC3JHTT-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

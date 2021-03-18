@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GG3T7FL-es Steelseries Arctis 3 Auriculares De Juego Multiplataforma...'
 sku: 'B07GG3T7FL-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo','playstation','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo','playstation','xbox', ]
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

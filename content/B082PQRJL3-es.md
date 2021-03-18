@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PQRJL3-es Remnant From the Ashes - PS4'
 sku: 'B082PQRJL3-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

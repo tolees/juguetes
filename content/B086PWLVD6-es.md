@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PWLVD6-es iMiMi Rainbow Stacker clásico juguete de desarrollo...'
 sku: 'B086PWLVD6-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

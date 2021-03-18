@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLNLBJG-es Star Wars 8 Deluxe Delta 1 Multicolor Hasbro C1439EU4'
 sku: 'B06WLNLBJG-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

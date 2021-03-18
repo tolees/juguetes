@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G35HT5Z-es RCA a HDMI convertidor Wavlink 1080p 3RCA a HDMI CVBS AV...'
 sku: 'B07G35HT5Z-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

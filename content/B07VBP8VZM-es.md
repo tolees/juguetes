@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBP8VZM-es CERDÁ LIFE S LITTLE MOMENTS Mochila Infantil 3D Peppa Pig...'
 sku: 'B07VBP8VZM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peppa','pig', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peppa','pig', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

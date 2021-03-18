@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLL3M8Z-es LEGO Star Wars - Rey 75528'
 sku: 'B06WLL3M8Z-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

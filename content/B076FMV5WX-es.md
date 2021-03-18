@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076FMV5WX-es Lepfun 1 x Rodilleras Compresión Rodilleras Deportivas...'
 sku: 'B076FMV5WX-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

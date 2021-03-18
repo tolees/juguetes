@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3PT69C-es Dilwe Chaleco táctico Clip Impermeable para Pistola Tira...'
 sku: 'B07B3PT69C-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nerf', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nerf', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

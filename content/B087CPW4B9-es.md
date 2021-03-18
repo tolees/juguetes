@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087CPW4B9-es Ballery Puzzles de Madera 3 Piezas Colorido Alfabeto ABC...'
 sku: 'B087CPW4B9-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','rompecabezas', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

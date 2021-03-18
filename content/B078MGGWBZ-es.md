@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078MGGWBZ-es Nintendo NINTENDO NES Console Bi-Fold Wallet Multi-Colour...'
 sku: 'B078MGGWBZ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nintendo', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nintendo', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

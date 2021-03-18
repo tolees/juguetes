@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O4E3QWM-es PLAYMOBIL- Pirates Cañón Interactivo con Corsario Muñecos...'
 sku: 'B00O4E3QWM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playmobil-', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playmobil-', ]
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RXLB99-es Moliies Rompecabezas Niños Niños Niños Niñas Escritura...'
 sku: 'B081RXLB99-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','rompecabezas', ]
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

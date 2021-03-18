@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSLHBV4-es Clementoni 21604 Clementoni-21604-Supercolor - Puzzle-Der...'
 sku: 'B07NSLHBV4-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','clementoni', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','clementoni', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

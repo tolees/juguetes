@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854CP6WW-es BBLIKE Juguetes para el Baño 2 Piezas Red de Baño...'
 sku: 'B0854CP6WW-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 12.63 EUR
 currency: EUR
 price: 12.63

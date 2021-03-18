@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GTZK62-es BH Fitness I.Brazil Bicicleta Elíptica Unisex Blanco Talla...'
 sku: 'B071GTZK62-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

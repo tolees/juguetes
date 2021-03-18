@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGBCF68-es Juguetes de Buceo Conjunto de Juguete para Piscina Juguete...'
 sku: 'B07QGBCF68-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

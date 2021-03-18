@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072C5X2LQ-es Nancy - Colección Novia diseñada por Ion Fiz 700013524'
 sku: 'B072C5X2LQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','nancy', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','nancy', ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

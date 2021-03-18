@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MCMCHSM-es T.Y 37132 - Peluche 10.3 cm TY37132 - Peluche Frizzy Azul...'
 sku: 'B00MCMCHSM-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

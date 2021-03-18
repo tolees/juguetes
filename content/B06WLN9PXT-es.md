@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLN9PXT-es My Little Pony - Equestria Minis Caravana Sushi Hasbro...'
 sku: 'B06WLN9PXT-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

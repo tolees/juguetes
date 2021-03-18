@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCZ7RKR-es Universal volante y pedales para PC PlayStation 3/4 PS3 /...'
 sku: 'B07RCZ7RKR-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','ps4','xbox', ]
 actualPrice: 45.77 EUR
 currency: EUR
 price: 45.77

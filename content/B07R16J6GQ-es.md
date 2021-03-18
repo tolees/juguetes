@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R16J6GQ-es Proyector4500 Lúmenes Excelvan Proyector de Video Portátil...'
 sku: 'B07R16J6GQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D595EMC-es Ravensburger - 3D Puzzle Building Faro Night 12577 7'
 sku: 'B00D595EMC-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle','ravensburger', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle','ravensburger', ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

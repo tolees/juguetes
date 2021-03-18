@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQGSFY9-es Play-Doh Fábrica De Palomitas Hasbro E5110EU4 color/modelo...'
 sku: 'B07KQGSFY9-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro','play-doh', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro','play-doh', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

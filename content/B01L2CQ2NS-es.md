@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L2CQ2NS-es GoPro Floaty - Flotador para GoPro Hero Color Naranja'
 sku: 'B01L2CQ2NS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','flotador', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','flotador', ]
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

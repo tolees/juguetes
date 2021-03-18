@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPSNQW1-es Playgro Set de Regalo para jugar de Jerry la Jirafa...'
 sku: 'B07WPSNQW1-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes', ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VRGQDF-es Juegos Bizak Headbanz Adivina que Pienso BIZAK 61924297'
 sku: 'B079VRGQDF-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bizak', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bizak', ]
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWRQK4H-es Puzzles Rompecabezas Magnéticos de Madera Juguetes...'
 sku: 'B06WWRQK4H-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','juguetes','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','juguetes','rompecabezas', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

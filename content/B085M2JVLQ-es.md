@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085M2JVLQ-es DOUBLEZ Yoda Peluche Muñecos 12 Inch Peluche De Algodón PP...'
 sku: 'B085M2JVLQ-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peluche', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peluche', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KN3HXW-es Polly Pocket Cofre refugio de nieve muñeca con accesorios...'
 sku: 'B079KN3HXW-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','mattel','pocket','polly', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','mattel','pocket','polly', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R42P3RL-es THE G-LAB Kult RADIUM - 4800 DPI Ratón Gaming con Sensor...'
 sku: 'B07R42P3RL-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','ps4','xbox', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','ps4','xbox', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

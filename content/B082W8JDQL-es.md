@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082W8JDQL-es Mando Inalámbrico para PS4 Wireless Bluetooth Controlador...'
 sku: 'B082W8JDQL-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','playstation','ps4', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','playstation','ps4', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

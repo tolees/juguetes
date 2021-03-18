@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MNB3VP-es Monopoly- Junior Electronico Versión Española Hasbro E1842105'
 sku: 'B079MNB3VP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','hasbro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','hasbro', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

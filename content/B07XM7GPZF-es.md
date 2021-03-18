@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XM7GPZF-es YGJT Bicicleta sin Pedales 1 Año Juguetes Bebes -...'
 sku: 'B07XM7GPZF-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta','juguetes', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta','juguetes', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

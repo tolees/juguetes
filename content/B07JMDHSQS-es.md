@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMDHSQS-es Barbie Casa de muñecas con muebles y accesorios juguete +3...'
 sku: 'B07JMDHSQS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','barbie','mattel', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','barbie','mattel', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

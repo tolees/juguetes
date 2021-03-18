@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072Z7KNNS-es Clementoni 39022 Puzzle Puzzle - Rompecabezas Puzzle...'
 sku: 'B072Z7KNNS-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','clementoni','puzzle','rompecabezas', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','clementoni','puzzle','rompecabezas', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

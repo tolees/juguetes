@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5DLVQ5-es Fournier 1040720 Juego de Cartas Educativo Multicolor'
 sku: 'B07H5DLVQ5-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','cartas','de','juego', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','cartas','de','juego', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

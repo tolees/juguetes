@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Q7HGYF-es Clementoni- Puzzle 1000 Piezas Anne Stokes Inner Strenght...'
 sku: 'B079Q7HGYF-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','puzzle', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','puzzle', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

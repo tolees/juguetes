@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YFGYHN-es SMARTGYRO Ebike Red - Bicicleta Eléctrica Ruedas de 16"...'
 sku: 'B079YFGYHN-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','bicicleta','smartgyro', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','bicicleta','smartgyro', ]
 actualPrice: 365.26 EUR
 currency: EUR
 price: 365.26

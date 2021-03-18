@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ERK36GO-es Simba - Juguete de playa 107110558 color/modelo surtido'
 sku: 'B00ERK36GO-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','simba', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','simba', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

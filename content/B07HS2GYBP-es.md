@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HS2GYBP-es Plastimyr Peppa Pig - Orinal unisex color gris claro'
 sku: 'B07HS2GYBP-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','peppa','pig', ]
+tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','peppa','pig', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79
