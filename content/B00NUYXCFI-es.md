@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NUYXCFI-es Lego Batman 3: Mas Allá De Gotham Estándar'
 sku: 'B00NUYXCFI-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

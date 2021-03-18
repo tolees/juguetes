@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JGCH66F-es MAJOZ0 Vitrina de Acrílico Caja de Presentación para Lego...'
 sku: 'B08JGCH66F-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

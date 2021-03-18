@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQGZ2ZB-es Creatable World Figura Unisex muñeco articulado pelucas...'
 sku: 'B07NQGZ2ZB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

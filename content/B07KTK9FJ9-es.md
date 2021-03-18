@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK9FJ9-es LEGO Friends - Pulpo Mecánico Juguete Divertido de...'
 sku: 'B07KTK9FJ9-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

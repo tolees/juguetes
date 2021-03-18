@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004J6DGAC-es Playmobil- Thief with Safe and Getaway Car Ladrón de Caja...'
 sku: 'B004J6DGAC-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 12.67 EUR
 currency: EUR
 price: 12.67

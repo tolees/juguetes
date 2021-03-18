@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RXLB99-es Moliies Rompecabezas Niños Niños Niños Niñas Escritura...'
 sku: 'B081RXLB99-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','rompecabezas', ]
+tags: [ 'rompecabezas', ]
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

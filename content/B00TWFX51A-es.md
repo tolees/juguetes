@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TWFX51A-es GRU 2: Mi Villano Favorito - Peluche Interactivo Sing N...'
 sku: 'B00TWFX51A-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

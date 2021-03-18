@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4SM1VC-es iNeego Bloques de Construcción 1000 Piezas Bloques de...'
 sku: 'B07G4SM1VC-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

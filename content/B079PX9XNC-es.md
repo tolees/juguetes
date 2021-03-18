@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PX9XNC-es Clementoni-39445 Orchestra Puzzle 1000 Piezas Panorama...'
 sku: 'B079PX9XNC-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

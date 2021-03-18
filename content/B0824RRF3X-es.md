@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824RRF3X-es Avengers Figuras Titan Capitán América Hasbro E7877ES0'
 sku: 'B0824RRF3X-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

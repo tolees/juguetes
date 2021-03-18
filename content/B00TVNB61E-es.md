@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TVNB61E-es Clementoni - Puzzle 13.200 Piezas New York 38009'
 sku: 'B00TVNB61E-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','clementoni','puzzle', ]
+tags: [ 'clementoni','puzzle', ]
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

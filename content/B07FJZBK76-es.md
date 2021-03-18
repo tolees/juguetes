@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJZBK76-es Disney Princess - Disney Princess Brillo Real Ariel Hasbro...'
 sku: 'B07FJZBK76-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

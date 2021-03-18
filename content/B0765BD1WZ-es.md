@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765BD1WZ-es LEGO Duplo Disney - Fiesta de cumpleaños de Minnie 10873'
 sku: 'B0765BD1WZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

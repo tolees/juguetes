@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZJNJK-es FEBER - Woodland Cottage Casita infantil para el jardín...'
 sku: 'B000OZJNJK-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','feber', ]
+tags: [ 'famosa','feber', ]
 actualPrice: 138.33 EUR
 currency: EUR
 price: 138.33

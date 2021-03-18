@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYNK2MR-es Hori - Fighting Stick Mini Edición Street Fighter II Chun-...'
 sku: 'B07SYNK2MR-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

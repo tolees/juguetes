@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMD4QQH-es PLAYMOBIL Magic Salón de Belleza con Joya A partir de 4...'
 sku: 'B07JMD4QQH-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

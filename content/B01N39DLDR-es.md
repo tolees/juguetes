@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N39DLDR-es Pinypon Huevos Sorpresa Famosa 700012850'
 sku: 'B01N39DLDR-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','pinypon', ]
+tags: [ 'famosa','pinypon', ]
 actualPrice: 0.42 EUR
 currency: EUR
 price: 0.42

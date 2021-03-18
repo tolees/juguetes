@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYFR96U-es Playmobil Porsche 911 GT3 Cup 9225'
 sku: 'B01LYFR96U-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

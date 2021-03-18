@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SXJ4MR-es yidenguk Objetivo Digital Electrónico para Nerf Objetivos...'
 sku: 'B085SXJ4MR-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nerf', ]
+tags: [ 'nerf', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

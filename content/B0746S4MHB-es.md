@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746S4MHB-es Nacon - Mando Compacto para PS4 color Naranja'
 sku: 'B0746S4MHB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

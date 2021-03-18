@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WQK7X2-es Little Live Pets- Perrito Travieso con transportín Famosa...'
 sku: 'B078WQK7X2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa', ]
+tags: [ 'famosa', ]
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

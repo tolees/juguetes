@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076WVBJS9-es Nilox E Bike 36 V 16 P-X2 Bicicleta Eléctrica Unisex...'
 sku: 'B076WVBJS9-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 379.56 EUR
 currency: EUR
 price: 379.56

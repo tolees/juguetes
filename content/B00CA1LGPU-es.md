@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CA1LGPU-es WeeRide 86459 Bicicleta Remolque Copilot Unisex Rosa M'
 sku: 'B00CA1LGPU-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 86.11 EUR
 currency: EUR
 price: 86.11

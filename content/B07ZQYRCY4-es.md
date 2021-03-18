@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQYRCY4-es Marvel- Black Widow Legends Summer Civilian Hasbro E87705X0'
 sku: 'B07ZQYRCY4-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

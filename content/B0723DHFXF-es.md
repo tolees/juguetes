@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0723DHFXF-es Pinypon Cubo Mix Is Max de 10 figuras Famosa 700013811'
 sku: 'B0723DHFXF-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','pinypon', ]
+tags: [ 'famosa','pinypon', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

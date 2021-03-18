@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMG84FG-es Star Wars E0584 Juguete interactivos - Juguetes...'
 sku: 'B07CMG84FG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 56.59 EUR
 currency: EUR
 price: 56.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B8GX8R2-es Educa - Multi 4 Puzzles Junior puzzle infantil Pixar:...'
 sku: 'B00B8GX8R2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

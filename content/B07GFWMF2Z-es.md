@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFWMF2Z-es Steelseries Arctis 5 Auriculares De Juego Iluminados por...'
 sku: 'B07GFWMF2Z-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD7WPKJ-es Bizak Artist - Estudio Aqua Crystals 63370001'
 sku: 'B07DD7WPKJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bizak', ]
+tags: [ 'bizak', ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

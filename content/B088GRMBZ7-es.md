@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088GRMBZ7-es Pulchram Splash Pad Almohadilla de Aspersión de 170 cm...'
 sku: 'B088GRMBZ7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 22.55 EUR
 currency: EUR
 price: 22.55

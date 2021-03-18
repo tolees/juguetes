@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BK0GZ48-es Lego Star Wars Minifigur C-3PO out of set 75136 sw700'
 sku: 'B01BK0GZ48-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

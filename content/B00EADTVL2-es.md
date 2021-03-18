@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EADTVL2-es PDP - Cargador Energizer 2 Mandos PS4'
 sku: 'B00EADTVL2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

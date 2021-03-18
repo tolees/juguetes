@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BKB6ITE-es Blaze y los Monster Machines - Fisher-Price Blaze...'
 sku: 'B01BKB6ITE-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','fisher-price','mattel', ]
+tags: [ 'fisher-price','mattel', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

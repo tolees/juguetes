@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NS33SF9-es Lego Jurassic World Pijamas de Manga Larga para niños Azul...'
 sku: 'B07NS33SF9-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749MJSRZ-es Star Wars- Resistance Ski Speeder Hasbro European Trading...'
 sku: 'B0749MJSRZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

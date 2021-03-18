@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086D5G4CS-es MaoXinTek Tangram Madera 36 Montessori Puzzle de Formas y...'
 sku: 'B086D5G4CS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','puzzle', ]
+tags: [ 'juguetes','puzzle', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'La Lego Película 2: El Videojuego con un 26.68 % de descuento'
-date: 2020-08-30 21:35:20
+title: 'Warner Bros Interactive Spain  VG  - La  con un 50.24 % de descuento'
+date: 2021-03-18 09:40:44
 image: 'https://m.media-amazon.com/images/I/51efkSzQNLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07M5SZ3BQ-es La Lego Película 2: El Videojuego'
+slug: 'B07M5SZ3BQ-es Warner Bros Interactive Spain VG - La Lego Película 2: El...'
 sku: 'B07M5SZ3BQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
-actualPrice: 29.32 EUR
+tags: [ 'Juegos para Nintendo Switch','lego','warner bros interactive spain (vg)', ]
+actualPrice: 19.9 EUR
 currency: EUR
-price: 29.32
+price: 19.9
 comparePrice: 39.99 EUR
-prodname: 'La Lego Película 2: El Videojuego'
+prodname: 'Warner Bros Interactive Spain  VG  - La Lego Película 2: El Videojuego'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21'
-descuento: '26.68'
-average: '24.655263157894737'
+descuento: '50.24'
+average: '24.202380952381'
 ---
 
-En este momento está [La Lego Película 2: El Videojuego](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21) a 29.32 EUR (original: 39.99 EUR) (26.68 %  de descuento) en el siguiente enlace!
+En este momento está [Warner Bros Interactive Spain  VG  - La Lego Película 2: El Videojuego](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21) a 19.9 EUR (original: 39.99 EUR) (50.24 %  de descuento) en el siguiente enlace!
 
-[![La Lego Película 2: El Videojuego](https://m.media-amazon.com/images/I/51efkSzQNLL._SL400_.jpg)](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21)
+[![Warner Bros Interactive Spain  VG  - La ](https://m.media-amazon.com/images/I/51efkSzQNLL._SL400_.jpg)](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21)
 
 🔎:
 
+- Utiliza nuevas armaduras y coches para derrotar a los alienígenas
+- Desbloquea y juega con más de 100 personajes
+- Multitud de personajes heroicos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21)

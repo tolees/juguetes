@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJ8TBN-es Little People Granja cuida a los animalitos juguetes bebés...'
 sku: 'B07NJJ8TBN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','mattel', ]
+tags: [ 'juguetes','mattel', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

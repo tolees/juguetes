@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4HVCVN-es Kupton Bolsas de Comida para Fruta Juguetes y Libros-...'
 sku: 'B07H4HVCVN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

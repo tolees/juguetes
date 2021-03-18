@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765CFDQB-es LEGO Creator - Espectáculo acrobático ambulante 31085'
 sku: 'B0765CFDQB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 40.4 EUR
 currency: EUR
 price: 40.4

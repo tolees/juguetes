@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BC8RQ76-es Wrebbit - Puzzle en 3D de Camelot del Rey Arturo 865 Piezas'
 sku: 'B07BC8RQ76-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

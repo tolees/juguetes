@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079BM8RCB-es TOP BRIGHT Juguete de Carrera de Coches para Niños...'
 sku: 'B079BM8RCB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

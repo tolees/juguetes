@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GWBB8F-es LEGO DUPLO Town - Establo de los Ponis Juguete de...'
 sku: 'B075GWBB8F-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

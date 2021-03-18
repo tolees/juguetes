@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDB6B4K-es Wireless Nintendo Switch Mandos Maegoo Nintendo Switch...'
 sku: 'B07DDB6B4K-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

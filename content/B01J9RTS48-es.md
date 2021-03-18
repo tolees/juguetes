@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J9RTS48-es INBIKE Gafas De Sol Polarizadas para Ciclismo con 5 Lentes...'
 sku: 'B01J9RTS48-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

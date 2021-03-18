@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GWF9YP-es LEGO City Police - Montaña: Arresto Set de Construcción de...'
 sku: 'B075GWF9YP-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 37.53 EUR
 currency: EUR
 price: 37.53

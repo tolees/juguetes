@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D8Q6CYW-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre...'
 sku: 'B08D8Q6CYW-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

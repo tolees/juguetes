@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1ZJCYB-es Pinypon Action- Lancha de Rescate de Policía con 1...'
 sku: 'B07N1ZJCYB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','pinypon', ]
+tags: [ 'famosa','pinypon', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

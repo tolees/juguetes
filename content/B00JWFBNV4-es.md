@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JWFBNV4-es VTech -Little App Tableta educativa Infantil Pantalla LCD...'
 sku: 'B00JWFBNV4-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','vtech', ]
+tags: [ 'vtech', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GMV7P2-es Gifort Pompones Coloridos Pompones Balls 250pcs /...'
 sku: 'B077GMV7P2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

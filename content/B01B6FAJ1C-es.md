@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B6FAJ1C-es LEGO Ninjago - Pijama para Niños 6-7 Años'
 sku: 'B01B6FAJ1C-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZCRPN-es Cómo entrenar a tu Dragón-Isla de Berk Playset de Figuras...'
 sku: 'B06WCZCRPN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 61.45 EUR
 currency: EUR
 price: 61.45

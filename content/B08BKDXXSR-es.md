@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BKDXXSR-es /N Cortina de Ducha Wizard Estación de Tren Famosa...'
 sku: 'B08BKDXXSR-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa', ]
+tags: [ 'famosa', ]
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

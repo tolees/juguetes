@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088T8KW1C-es PROZOR 192kHz DAC Convertidor Digital a Analógico con...'
 sku: 'B088T8KW1C-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

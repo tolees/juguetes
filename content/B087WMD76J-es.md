@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WMD76J-es BelleStyle Juguetes de Reloj Madera Juguete de Reloj de...'
 sku: 'B087WMD76J-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','rompecabezas', ]
+tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

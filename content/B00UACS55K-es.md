@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UACS55K-es Massi 700X18-20-23-25 Superlight V.Bici Cámara de...'
 sku: 'B00UACS55K-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

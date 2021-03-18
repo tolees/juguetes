@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AT5MI50-es Barbie - Muñeca Fashion Star Trek 50 Aniversario Mr. Spock...'
 sku: 'B01AT5MI50-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','barbie','mattel', ]
+tags: [ 'barbie','mattel', ]
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

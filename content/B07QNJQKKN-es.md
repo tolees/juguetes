@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNJQKKN-es Mejores Regalos para Niños de 5 a 15 Años de Edad Top Toy...'
 sku: 'B07QNJQKKN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

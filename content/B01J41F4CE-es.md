@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41F4CE-es LEGO Super Heroes - Harley Quinn al Rescate 41231'
 sku: 'B01J41F4CE-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

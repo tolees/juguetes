@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765CTSL3-es LEGO Juniors - Fuga del T Rex Set de Construcción de...'
 sku: 'B0765CTSL3-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

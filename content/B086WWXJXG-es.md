@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WWXJXG-es Herize Puzzle 500 Piezas para Adultos Niños | Paisajes de...'
 sku: 'B086WWXJXG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','puzzle', ]
+tags: [ 'juguetes','puzzle', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Z77QXQ-es Hasbro Gaming Chafa el Huevo Multicolor C2473175'
 sku: 'B071Z77QXQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CCJ0C4-es Clementoni - Puzzle de 500 Piezas diseño Juntos 30289.5'
 sku: 'B001CCJ0C4-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','clementoni','puzzle', ]
+tags: [ 'clementoni','puzzle', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

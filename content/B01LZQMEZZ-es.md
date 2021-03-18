@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZQMEZZ-es PLAYMOBIL- Ciclista y Excursionista Juguetes Multicolor 9129'
 sku: 'B01LZQMEZZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','playmobil-', ]
+tags: [ 'juguetes','playmobil-', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

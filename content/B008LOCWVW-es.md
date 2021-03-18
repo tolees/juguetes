@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008LOCWVW-es Tecnovita by BH Open&GO YF90 Bicicleta estática Plegable....'
 sku: 'B008LOCWVW-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 153.08 EUR
 currency: EUR
 price: 153.08

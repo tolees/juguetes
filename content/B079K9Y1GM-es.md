@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079K9Y1GM-es Barbie Fashionista Muñeca cuerpo Curvy look Future is...'
 sku: 'B079K9Y1GM-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','barbie','mattel', ]
+tags: [ 'barbie','mattel', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

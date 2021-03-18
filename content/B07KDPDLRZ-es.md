@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDPDLRZ-es Baoblaze Reparación de Motor de Vibración a Izquierda 3D...'
 sku: 'B07KDPDLRZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

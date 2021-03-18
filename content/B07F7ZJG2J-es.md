@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7ZJG2J-es [ Versión Nuevo ] TeckNet 2.0M Cable HDMI 2.0 4K Ultra HD...'
 sku: 'B07F7ZJG2J-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation','ps4','xbox', ]
+tags: [ 'playstation','ps4','xbox', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

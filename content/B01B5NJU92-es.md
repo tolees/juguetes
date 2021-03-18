@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B5NJU92-es Clementoni - Puzzle 1500 Piezas Caballos 31676'
 sku: 'B01B5NJU92-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','clementoni','puzzle', ]
+tags: [ 'clementoni','puzzle', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2XWC1K-es Peppa Pig Camiseta de Manga Corta Paquete de 2 para niñas...'
 sku: 'B07X2XWC1K-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peppa','pig', ]
+tags: [ 'peppa','pig', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

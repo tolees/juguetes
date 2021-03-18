@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EKBD0XS-es PLAYMOBIL - Vestidor de Princesas 6850'
 sku: 'B01EKBD0XS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

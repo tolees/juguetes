@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTB9FKU-es Bigben Interactive - Auricular Plug&Play Playstation 4'
 sku: 'B00QTB9FKU-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

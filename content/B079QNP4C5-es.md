@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QNP4C5-es MEGA- Carrito Encajabloques Juguete de Bloques de Constr...'
 sku: 'B079QNP4C5-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 32.07 EUR
 currency: EUR
 price: 32.07

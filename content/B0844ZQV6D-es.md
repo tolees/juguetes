@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0844ZQV6D-es SuperZings Serie 5 – Fire Strike Mission 5 y Pack Sorpresa...'
 sku: 'B0844ZQV6D-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','superzings', ]
+tags: [ 'juguetes','superzings', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

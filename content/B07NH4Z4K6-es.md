@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH4Z4K6-es Wrebbit 3D- Castillo Puzzle 3D Juego de Tronos Invernalia...'
 sku: 'B07NH4Z4K6-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

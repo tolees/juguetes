@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSV8Z2Z-es LEADSTAR Tangram Puzzle Tangram Madera Shape Puzzle Set...'
 sku: 'B07WSV8Z2Z-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','puzzle','rompecabezas', ]
+tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

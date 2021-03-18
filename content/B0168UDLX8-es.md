@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0168UDLX8-es La Lego Película Edición Especial Blu-Ray [Blu-ray]'
 sku: 'B0168UDLX8-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

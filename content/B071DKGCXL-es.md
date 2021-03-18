@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071DKGCXL-es eXtremeRate Prueba de Polvo Consola PS4 Funda Cubierta...'
 sku: 'B071DKGCXL-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

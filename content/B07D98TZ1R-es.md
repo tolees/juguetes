@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D98TZ1R-es Hot Wheels- Cobra Speed Circuito Slot Color único Fábrica...'
 sku: 'B07D98TZ1R-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

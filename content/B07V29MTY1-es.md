@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V29MTY1-es YuMe - Peluche Hermione 15 cm Multicolor'
 sku: 'B07V29MTY1-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

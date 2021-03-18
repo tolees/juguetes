@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081FD5BQZ-es ISUDA Rodilleras Deportivas Rodillera Menisco y...'
 sku: 'B081FD5BQZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

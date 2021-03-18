@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MKLH93-es PJ Masks-24688 Pack de 5 Figuras - Súper Poder Bandai 95280'
 sku: 'B079MKLH93-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bandai', ]
+tags: [ 'bandai', ]
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

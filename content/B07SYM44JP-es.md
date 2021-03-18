@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYM44JP-es Ravensburger - Puzzle Paw Patrol pack de 4 03029'
 sku: 'B07SYM44JP-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle','ravensburger', ]
+tags: [ 'puzzle','ravensburger', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

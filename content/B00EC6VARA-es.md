@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EC6VARA-es Disney Infinity - Toy Box Set: Frozen Anna Elsa + 2 Power...'
 sku: 'B00EC6VARA-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','disney','infinity', ]
+tags: [ 'disney','infinity', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WD7X47W-es Despicable Me 9079 "DM3 Cárcel Minions Tom de Peluche...'
 sku: 'B06WD7X47W-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

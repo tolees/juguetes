@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W55JTT7-es Simba 6315878710pro Disney – Peluche de Mickey 61 cm'
 sku: 'B06W55JTT7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche','simba', ]
+tags: [ 'peluche','simba', ]
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

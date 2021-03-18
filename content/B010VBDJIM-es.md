@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010VBDJIM-es Clementoni - Puzzle 2000 Piezas Las Vegas 32555'
 sku: 'B010VBDJIM-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','clementoni','puzzle', ]
+tags: [ 'clementoni','puzzle', ]
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

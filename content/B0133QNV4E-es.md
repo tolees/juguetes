@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0133QNV4E-es Schmidt Spiele 59365 - Mark Gray Río Canning - Australia...'
 sku: 'B0133QNV4E-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 6.53 EUR
 currency: EUR
 price: 6.53

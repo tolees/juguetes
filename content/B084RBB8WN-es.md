@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RBB8WN-es Winning Moves Puzzle Harry Potter House Crest 500 Piezas...'
 sku: 'B084RBB8WN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 8.56 EUR
 currency: EUR
 price: 8.56

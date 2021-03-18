@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TG99KZJ-es Beito Luz De Radios De Bicicleta 1 Paquete De Bicicleta...'
 sku: 'B07TG99KZJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GBY6W26-es Bola de pulverización de Agua eléctrica Inducción...'
 sku: 'B08GBY6W26-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

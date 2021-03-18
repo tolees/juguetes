@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0728L2ZKZ-es Oonies Estudio de globos Famosa 700013962'
 sku: 'B0728L2ZKZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa', ]
+tags: [ 'famosa', ]
 actualPrice: 22.97 EUR
 currency: EUR
 price: 22.97

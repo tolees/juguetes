@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BVPWLR9-es HoneyHolly Botella de Agua Acero Inoxidable...'
 sku: 'B07BVPWLR9-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

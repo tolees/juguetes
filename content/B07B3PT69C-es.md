@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3PT69C-es Dilwe Chaleco táctico Clip Impermeable para Pistola Tira...'
 sku: 'B07B3PT69C-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nerf', ]
+tags: [ 'nerf', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

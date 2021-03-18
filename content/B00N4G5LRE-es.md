@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N4G5LRE-es BANDAI Tamashii Nations Movie Realization Samurai General...'
 sku: 'B00N4G5LRE-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bandai', ]
+tags: [ 'bandai', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

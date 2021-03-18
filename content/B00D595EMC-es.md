@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D595EMC-es Ravensburger - 3D Puzzle Building Faro Night 12577 7'
 sku: 'B00D595EMC-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle','ravensburger', ]
+tags: [ 'puzzle','ravensburger', ]
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

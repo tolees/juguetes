@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBSXMH7-es ShuOne USB3.0 HDMI 1080P 60 FPS Juego Tarjeta de Captura...'
 sku: 'B07MBSXMH7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

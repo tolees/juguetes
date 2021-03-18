@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CM99YRL-es Nerf - Laser Ops Deltaburst Hasbro E2279EU4'
 sku: 'B07CM99YRL-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro','nerf', ]
+tags: [ 'hasbro','nerf', ]
 actualPrice: 25.03 EUR
 currency: EUR
 price: 25.03

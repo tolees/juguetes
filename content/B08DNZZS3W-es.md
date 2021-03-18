@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNZZS3W-es Mandos para Nintendo Switch EasySMX Mando Switch'
 sku: 'B08DNZZS3W-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

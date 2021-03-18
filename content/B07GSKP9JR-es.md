@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSKP9JR-es DC Justice League Figura de Acción 30 cm Superman Juguetes...'
 sku: 'B07GSKP9JR-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','mattel', ]
+tags: [ 'juguetes','mattel', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

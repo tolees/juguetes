@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7DXSPY-es 2 baterías para mando de Xbox One/Xbox One S/Xbox One X...'
 sku: 'B07V7DXSPY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 24.35 EUR
 currency: EUR
 price: 24.35

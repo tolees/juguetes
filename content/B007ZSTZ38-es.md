@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ZSTZ38-es Toimsa Bicicleta para Niñas Minnie Rosa 611'
 sku: 'B007ZSTZ38-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 89.21 EUR
 currency: EUR
 price: 89.21

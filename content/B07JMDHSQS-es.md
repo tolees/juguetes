@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMDHSQS-es Barbie Casa de muñecas con muebles y accesorios juguete +3...'
 sku: 'B07JMDHSQS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','barbie','mattel', ]
+tags: [ 'barbie','mattel', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

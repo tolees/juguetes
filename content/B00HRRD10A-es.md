@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRD10A-es Sylvanian Families 5037 Deluxe Living Room - Set Mini para...'
 sku: 'B00HRRD10A-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

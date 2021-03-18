@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LXZD6Y-es Nancy día de aventuras a caballo Famosa 700013890'
 sku: 'B072LXZD6Y-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','nancy', ]
+tags: [ 'famosa','nancy', ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

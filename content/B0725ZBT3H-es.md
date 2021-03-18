@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725ZBT3H-es FEBER - Mad Racer 12 V Famosa 800011361'
 sku: 'B0725ZBT3H-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','feber', ]
+tags: [ 'famosa','feber', ]
 actualPrice: 172.35 EUR
 currency: EUR
 price: 172.35

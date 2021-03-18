@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YCQW0II-es VTech- Kidizoom Action CAM Cámara de Fotos y Vídeos Color...'
 sku: 'B00YCQW0II-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','vtech-', ]
+tags: [ 'vtech-', ]
 actualPrice: 54.08 EUR
 currency: EUR
 price: 54.08

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HK79BZG-es baby tete Bebé 5pcs Silicona Dentición Conjunto Elk...'
 sku: 'B07HK79BZG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

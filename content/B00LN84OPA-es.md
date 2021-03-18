@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LN84OPA-es Ravensburger Disney Frozen Mini Memory Juego de emparejar...'
 sku: 'B00LN84OPA-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ravensburger', ]
+tags: [ 'ravensburger', ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDDS79T-es VTech- DigiART Pizarra con Plantillas y Dibu-Ruedas para...'
 sku: 'B07DDDS79T-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','vtech-', ]
+tags: [ 'vtech-', ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

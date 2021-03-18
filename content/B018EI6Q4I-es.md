@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EI6Q4I-es Imaginext Batman Batcueva transformable Juguete para niño...'
 sku: 'B018EI6Q4I-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

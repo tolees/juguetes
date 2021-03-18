@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012ZVH2FM-es ZJchao Bolsa de almacenamiento- Ideal para Lego Duplo y...'
 sku: 'B012ZVH2FM-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','lego', ]
+tags: [ 'juguetes','lego', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

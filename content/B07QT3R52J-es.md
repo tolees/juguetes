@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QT3R52J-es Nerf Overwatch MicroShots: Torbjorn clásico bláster en...'
 sku: 'B07QT3R52J-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nerf', ]
+tags: [ 'nerf', ]
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

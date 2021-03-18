@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YFGYHN-es SMARTGYRO Ebike Red - Bicicleta Eléctrica Ruedas de 16"...'
 sku: 'B079YFGYHN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta','smartgyro', ]
+tags: [ 'bicicleta','smartgyro', ]
 actualPrice: 365.26 EUR
 currency: EUR
 price: 365.26

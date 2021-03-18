@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3MHQZN-es Puzzle 3D Estadio Rompecabezas Diy 3d Juego Puzzle Fútbol...'
 sku: 'B07Q3MHQZN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','puzzle','rompecabezas', ]
+tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

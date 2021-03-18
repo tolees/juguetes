@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3QZNFK-es Mopoin 24 Pcs Mini Juegos Rompecabezas Set Juego De...'
 sku: 'B07H3QZNFK-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','rompecabezas', ]
+tags: [ 'rompecabezas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

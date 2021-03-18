@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX1W94X-es Ravensburger - Puzzle 3D Olaf Frozen 2 11157'
 sku: 'B07RX1W94X-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle','ravensburger', ]
+tags: [ 'puzzle','ravensburger', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

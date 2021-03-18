@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BL1RNY-es Peluche Amor Pájaros En Un Corazón Bead Charm – para...'
 sku: 'B076BL1RNY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

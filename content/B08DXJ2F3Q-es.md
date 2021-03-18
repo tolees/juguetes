@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DXJ2F3Q-es Ztowoto Funda de Transporte Compatible con Nintendo Switch...'
 sku: 'B08DXJ2F3Q-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788BN1PW-es Auto Companion - Soporte de techo en aluminio para moto o...'
 sku: 'B0788BN1PW-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

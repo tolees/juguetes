@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W2G32JK-es Pinypon Pack 2 mascotas mariposa y oveja. Famosa 700012732'
 sku: 'B06W2G32JK-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','pinypon', ]
+tags: [ 'famosa','pinypon', ]
 actualPrice: 0.74 EUR
 currency: EUR
 price: 0.74

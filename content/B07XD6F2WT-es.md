@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD6F2WT-es Barbie Dreamtopia set de modas y accesorios juguete para...'
 sku: 'B07XD6F2WT-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','barbie','mattel', ]
+tags: [ 'barbie','mattel', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

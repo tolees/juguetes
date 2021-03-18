@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792GRXRZ-es Pinypon - Figurita Serie 8 pack B Famosa 700014103'
 sku: 'B0792GRXRZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','pinypon', ]
+tags: [ 'famosa','pinypon', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

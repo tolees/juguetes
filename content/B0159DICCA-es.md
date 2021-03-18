@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0159DICCA-es Alpino DP00006501 - Pastilla plastilina'
 sku: 'B0159DICCA-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','plastilina', ]
+tags: [ 'plastilina', ]
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

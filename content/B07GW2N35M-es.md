@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW2N35M-es Rollercoster Tycoon Adventures - Classics - Nintendo...'
 sku: 'B07GW2N35M-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

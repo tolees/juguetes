@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016A3MUC6-es PATRULLA CANINA PAW PATROL - PELUCHE PERSONAJE RUBBLE...'
 sku: 'B016A3MUC6-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche', ]
+tags: [ 'peluche', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

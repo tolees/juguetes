@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07695WBMX-es AUKEY Quick Charge 3.0 Bateria Externa 26500mAh Cargador...'
 sku: 'B07695WBMX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

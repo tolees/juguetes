@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087BWPZNJ-es MUOOUM - Cesta plegable para ropa sucia cesta de ropa...'
 sku: 'B087BWPZNJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

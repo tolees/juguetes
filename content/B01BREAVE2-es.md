@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BREAVE2-es SYLVANIAN FAMILIES- Cake Decorating Set Mini muñecas y...'
 sku: 'B01BREAVE2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

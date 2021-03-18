@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCJXV8M-es VTech Barco pirata cazatesoros transformable en isla...'
 sku: 'B07CCJXV8M-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','vtech', ]
+tags: [ 'vtech', ]
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

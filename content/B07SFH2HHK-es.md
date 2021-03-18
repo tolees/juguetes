@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFH2HHK-es El Rey Leon The Lion King - Peluche Leon Simba Adulto...'
 sku: 'B07SFH2HHK-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peluche','simba', ]
+tags: [ 'peluche','simba', ]
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

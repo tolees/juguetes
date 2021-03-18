@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017HASEV2-es Disney Princess- Ariel Muñeca Color Verde y Rojo Hasbro...'
 sku: 'B017HASEV2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

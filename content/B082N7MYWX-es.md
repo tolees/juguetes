@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082N7MYWX-es Mattel Games UNO: Rick and Morty - Juego de cartas...'
 sku: 'B082N7MYWX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','cartas','de','juego','mattel', ]
+tags: [ 'cartas','de','juego','mattel', ]
 actualPrice: 9.02 EUR
 currency: EUR
 price: 9.02

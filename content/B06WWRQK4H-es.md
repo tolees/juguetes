@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWRQK4H-es Puzzles Rompecabezas Magnéticos de Madera Juguetes...'
 sku: 'B06WWRQK4H-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','rompecabezas', ]
+tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

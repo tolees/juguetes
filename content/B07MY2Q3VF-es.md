@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MY2Q3VF-es Clementoni- Puzzle 3000 Piezas San Francisco Multicolor...'
 sku: 'B07MY2Q3VF-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

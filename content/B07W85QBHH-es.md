@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W85QBHH-es Nerf Alpha Strike Wolf LR-1 Juguete Blaster con Alcance de...'
 sku: 'B07W85QBHH-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro','nerf', ]
+tags: [ 'hasbro','nerf', ]
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

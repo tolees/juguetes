@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T1Y7TH-es LEGO Friends - Entrenamiento de fútbol de Stephanie 41330'
 sku: 'B075T1Y7TH-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

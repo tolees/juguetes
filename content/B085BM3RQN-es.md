@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085BM3RQN-es YIMINYUER Stomping Ground Toys - 20 Alfombras Puzzle EVA...'
 sku: 'B085BM3RQN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

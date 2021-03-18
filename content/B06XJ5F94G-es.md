@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ5F94G-es JUSTICE LEAGUE- Batman Casco 2 En 1 14 6 x 25 4 x 14 6 cm...'
 sku: 'B06XJ5F94G-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 48.54 EUR
 currency: EUR
 price: 48.54

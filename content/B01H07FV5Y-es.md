@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H07FV5Y-es BenQ ZOWIE RL2755 - Monitor de 27" para consola e-Sports...'
 sku: 'B01H07FV5Y-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

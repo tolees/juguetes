@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CKLZJ6Q-es PrimeMatik - Soporte de Pared con Gancho Plegable para...'
 sku: 'B01CKLZJ6Q-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

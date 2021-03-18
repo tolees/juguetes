@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11MT-es PLAYMOBIL- Fiures Niño S16 Juguete Multicolor geobra...'
 sku: 'B07JLS11MT-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 2.08 EUR
 currency: EUR
 price: 2.08

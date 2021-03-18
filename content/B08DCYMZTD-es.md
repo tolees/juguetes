@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCYMZTD-es VATOS Jigsaw Puzzle 1000 Piezas para Adultos Niños...'
 sku: 'B08DCYMZTD-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','puzzle','rompecabezas', ]
+tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

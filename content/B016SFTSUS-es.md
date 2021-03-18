@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016SFTSUS-es Mantel de fieltro rompecabezas colorido'
 sku: 'B016SFTSUS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','rompecabezas', ]
+tags: [ 'rompecabezas', ]
 actualPrice: 8.74 EUR
 currency: EUR
 price: 8.74

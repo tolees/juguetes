@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJL31N7-es Oonies Squeeze Center para Niños y Niñas a Partir de 5...'
 sku: 'B07SJL31N7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa', ]
+tags: [ 'famosa', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

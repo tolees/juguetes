@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765BD1WX-es LEGO Juniors 4+ City - Gran Aeropuerto de la Ciudad...'
 sku: 'B0765BD1WX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

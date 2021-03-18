@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT4M3FZ-es Hasbro Disney Frozen 2 Fashion + Extra Vestido Elsa...'
 sku: 'B07RT4M3FZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

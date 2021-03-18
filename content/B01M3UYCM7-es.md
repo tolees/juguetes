@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3UYCM7-es SYLVANIAN FAMILIES Set Cuarto de baño Multicolor Epoch...'
 sku: 'B01M3UYCM7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','families','sylvanian', ]
+tags: [ 'families','sylvanian', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

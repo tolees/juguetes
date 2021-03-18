@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087F9W3MG-es N/ A 1 Juego de Tablero de Dardos de Seguridad Juguetes...'
 sku: 'B087F9W3MG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

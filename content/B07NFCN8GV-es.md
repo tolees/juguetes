@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFCN8GV-es The Bellies - Ropita divertida disfraz reversible Angelito...'
 sku: 'B07NFCN8GV-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bellies','famosa','the', ]
+tags: [ 'bellies','famosa','the', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

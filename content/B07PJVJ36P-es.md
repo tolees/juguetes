@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJVJ36P-es Splash Toys The Bellies Pinky-Twink 30280 Rosa'
 sku: 'B07PJVJ36P-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bellies','the', ]
+tags: [ 'bellies','the', ]
 actualPrice: 30.1 EUR
 currency: EUR
 price: 30.1

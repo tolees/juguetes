@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076N6FGC8-es Jurassic World Dinosaurio de juguete Indoraptor luces y...'
 sku: 'B076N6FGC8-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

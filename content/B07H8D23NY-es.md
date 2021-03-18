@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8D23NY-es Locisne 100pcs 7.2cm Recarga de Dardos Soft EVA Foam...'
 sku: 'B07H8D23NY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nerf', ]
+tags: [ 'nerf', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

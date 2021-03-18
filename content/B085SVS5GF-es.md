@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SVS5GF-es ColiCor Display Stand Soporte para Lego Star Wars 75192...'
 sku: 'B085SVS5GF-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

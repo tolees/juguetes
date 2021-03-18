@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012Z8BE5E-es Chicos-Bingo Lotería automática con 48 cartones y 90 bolas...'
 sku: 'B012Z8BE5E-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

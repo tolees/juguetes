@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XC3JGKX-es Polly Pocket Autocaravana transformable con accesorios...'
 sku: 'B07XC3JGKX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel','pocket','polly', ]
+tags: [ 'mattel','pocket','polly', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073X3ZJ5H-es Pdp - Mando Licenciado Nueva Color Camuflaje Negro Xbox One'
 sku: 'B073X3ZJ5H-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

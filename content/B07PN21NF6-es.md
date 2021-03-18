@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PN21NF6-es ORICO 5Gbps SuperSpeed 4 Puertos USB 3.0 Hub con BC1.2...'
 sku: 'B07PN21NF6-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

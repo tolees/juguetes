@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVQ3FKP-es PJ Masks - Megarover Bandai 95380'
 sku: 'B07MVQ3FKP-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bandai', ]
+tags: [ 'bandai', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

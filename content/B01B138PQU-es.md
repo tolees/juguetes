@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B138PQU-es PLAYMOBIL Piratas Playset 5655'
 sku: 'B01B138PQU-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
+tags: [ 'playmobil', ]
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

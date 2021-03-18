@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0822MW9YJ-es AFASOES 2 Pcs Valvula Tubeless MTB 40mm Valvula Bicicleta...'
 sku: 'B0822MW9YJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

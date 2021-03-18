@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012WX0VTW-es LOMOS caja para juguetes con diferentes motivos colorido y...'
 sku: 'B012WX0VTW-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

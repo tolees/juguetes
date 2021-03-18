@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCBHSY-es PLAYMOBIL- Patán Mocoso con Traje Volador Juguete...'
 sku: 'B07JMCBHSY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WD3SH32-es LEGO Super Heroes - Knightcrawler: Ataque subterráneo 76086'
 sku: 'B06WD3SH32-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego', ]
+tags: [ 'lego', ]
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ERK36GO-es Simba - Juguete de playa 107110558 color/modelo surtido'
 sku: 'B00ERK36GO-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','simba', ]
+tags: [ 'simba', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

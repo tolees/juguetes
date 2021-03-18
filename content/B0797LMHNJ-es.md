@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797LMHNJ-es Barbie Muñeca Articulada con Bicicleta y Accesorios Mattel...'
 sku: 'B0797LMHNJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','barbie','bicicleta','mattel', ]
+tags: [ 'barbie','bicicleta','mattel', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TIVHAVY-es Devir - Alquimistas Juego de Mesa 222531'
 sku: 'B00TIVHAVY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','devir', ]
+tags: [ 'devir', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

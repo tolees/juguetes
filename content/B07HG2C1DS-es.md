@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG2C1DS-es Socialme-eu 8 Piezas Videojuego Logico Grillete Juego de...'
 sku: 'B07HG2C1DS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','rompecabezas', ]
+tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

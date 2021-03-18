@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSBXR3-es Pop! Vinilo: Disney: The Lion King: Simba'
 sku: 'B07KPSBXR3-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','simba', ]
+tags: [ 'simba', ]
 actualPrice: 10.27 EUR
 currency: EUR
 price: 10.27

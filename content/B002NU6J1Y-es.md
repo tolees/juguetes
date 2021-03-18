@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002NU6J1Y-es Garmin 010-11430-00 - Soporte de Bicicleta para GPS'
 sku: 'B002NU6J1Y-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

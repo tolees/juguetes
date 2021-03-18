@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CIU4T5C-es TAZA ENTRENAMIENTO 250 ML | PEPPA PIG'
 sku: 'B00CIU4T5C-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','peppa','pig', ]
+tags: [ 'peppa','pig', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

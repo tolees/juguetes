@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y5FHWF-es Fivejoy 1:28 Coche Teledirigido 15km/h 2.4GHz Coches...'
 sku: 'B082Y5FHWF-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','coche','rc', ]
+tags: [ 'coche','rc', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

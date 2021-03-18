@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PK5MC14-es Bananas- Megabananas Multicolor Bandai BB00778'
 sku: 'B07PK5MC14-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bandai', ]
+tags: [ 'bandai', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

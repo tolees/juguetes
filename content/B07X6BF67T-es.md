@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6BF67T-es THE G-LAB Korp COBALT Auriculares Gaming - Auriculares...'
 sku: 'B07X6BF67T-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

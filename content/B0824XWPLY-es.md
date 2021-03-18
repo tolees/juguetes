@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824XWPLY-es WeciBor Calcetines Hasta La Pantorrilla Para Hombre...'
 sku: 'B0824XWPLY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa', ]
+tags: [ 'famosa', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

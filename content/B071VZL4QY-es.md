@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VZL4QY-es Vampirina-78035 la Pensión del Terror Multicolor Bandai 78036'
 sku: 'B071VZL4QY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bandai', ]
+tags: [ 'bandai', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

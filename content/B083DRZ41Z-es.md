@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DRZ41Z-es Fajiabao Pizarra Infantil de Caballete con Pizarra Blanca...'
 sku: 'B083DRZ41Z-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HC3MBJX-es Gresorth 3 trozo Criaturas del mar Falso Pez Artificial...'
 sku: 'B07HC3MBJX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes', ]
+tags: [ 'juguetes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

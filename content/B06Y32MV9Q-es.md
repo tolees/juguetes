@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y32MV9Q-es Bizak Kinetic Sand - Torreon Mágico 61921425'
 sku: 'B06Y32MV9Q-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bizak','kinetic','sand', ]
+tags: [ 'bizak','kinetic','sand', ]
 actualPrice: 25.68 EUR
 currency: EUR
 price: 25.68

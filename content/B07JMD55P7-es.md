@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMD55P7-es PLAYMOBIL- HIPO y Astrid Juguete Multicolor Dimensions:...'
 sku: 'B07JMD55P7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil-', ]
+tags: [ 'playmobil-', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5LNGGC-es Cartoon L.o.l. Surprise neceser baã‘o lote 3 pz - 3 ml'
 sku: 'B07S5LNGGC-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','l.o.l.', ]
+tags: [ 'l.o.l.', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

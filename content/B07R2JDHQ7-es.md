@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2JDHQ7-es WLZP Mochila Bicicleta Bolsa de Agua de Súper Ligero de 2L...'
 sku: 'B07R2JDHQ7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

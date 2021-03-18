@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DBWAVYY-es Ravensburger - La Biblioteca extraña 2 Puzzle de 1000...'
 sku: 'B00DBWAVYY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle','ravensburger', ]
+tags: [ 'puzzle','ravensburger', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

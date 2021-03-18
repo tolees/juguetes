@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793K7HKQ-es Educa Borrás- Serie Puzzle 500 Piezas Princesas Disney 17723'
 sku: 'B0793K7HKQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','puzzle', ]
+tags: [ 'puzzle', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

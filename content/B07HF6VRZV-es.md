@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HF6VRZV-es Pengo 4K HDMI Pass-Through Grabber Capturadora de Video...'
 sku: 'B07HF6VRZV-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

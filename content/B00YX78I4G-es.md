@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YX78I4G-es Ravensburger Disney Princess Mini Memoria'
 sku: 'B00YX78I4G-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','ravensburger', ]
+tags: [ 'ravensburger', ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KNBT7S-es Justice League Figura Manta Negra 15 cm Mattel Fwx62'
 sku: 'B079KNBT7S-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel', ]
+tags: [ 'mattel', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

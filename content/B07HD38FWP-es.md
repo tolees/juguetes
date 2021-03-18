@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD38FWP-es Mattel Disney Toy Story 4 Figura Básica Hamm Juguetes...'
 sku: 'B07HD38FWP-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','juguetes','mattel', ]
+tags: [ 'juguetes','mattel', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

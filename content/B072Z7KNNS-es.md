@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072Z7KNNS-es Clementoni 39022 Puzzle Puzzle - Rompecabezas Puzzle...'
 sku: 'B072Z7KNNS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','clementoni','puzzle','rompecabezas', ]
+tags: [ 'clementoni','puzzle','rompecabezas', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

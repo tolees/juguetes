@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0ISQ6V-es Manguitos Hinchables Bestway Barbie'
 sku: 'B01M0ISQ6V-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','barbie', ]
+tags: [ 'barbie', ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

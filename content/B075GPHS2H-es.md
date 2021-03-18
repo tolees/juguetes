@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GPHS2H-es LEGO DUPLO - Primer Puzzle de Mascotas Juguete Preescolar...'
 sku: 'B075GPHS2H-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','lego','puzzle', ]
+tags: [ 'lego','puzzle', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

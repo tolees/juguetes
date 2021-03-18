@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ4SXMX-es Tarjeta de captura de juegos ZasLuke USB 3.0 4K Audio...'
 sku: 'B08DJ4SXMX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','nintendo','ps4','xbox', ]
+tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 61.55 EUR
 currency: EUR
 price: 61.55

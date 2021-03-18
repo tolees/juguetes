@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BVMWY5V-es Zequins- Muñeco Emmy Famosa 700014680'
 sku: 'B07BVMWY5V-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa', ]
+tags: [ 'famosa', ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

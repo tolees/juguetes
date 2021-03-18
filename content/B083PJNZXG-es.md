@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PJNZXG-es Star Wars-40 Aniversario Figura ATAT Driver Hasbro E8079'
 sku: 'B083PJNZXG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 23.83 EUR
 currency: EUR
 price: 23.83

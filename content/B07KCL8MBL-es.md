@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCL8MBL-es 8x Almohadillas de Pies para Controlador de Playstation 4'
 sku: 'B07KCL8MBL-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

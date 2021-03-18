@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CZMSYZS-es Buscando a Dory - Disfraza a Dory Bandai 36690'
 sku: 'B01CZMSYZS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bandai', ]
+tags: [ 'bandai', ]
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

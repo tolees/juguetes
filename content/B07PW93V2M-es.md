@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PW93V2M-es Nancy - Princesa de Otoño Famosa 700014110'
 sku: 'B07PW93V2M-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','famosa','nancy', ]
+tags: [ 'famosa','nancy', ]
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

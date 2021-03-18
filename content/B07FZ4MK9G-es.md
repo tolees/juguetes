@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZ4MK9G-es TOPINCN Bike Rest Handlebar Bicicleta de aleación Estable...'
 sku: 'B07FZ4MK9G-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bicicleta', ]
+tags: [ 'bicicleta', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KGBYRD-es Polly Pocket Habitación Polly-Transformación casa de...'
 sku: 'B079KGBYRD-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','mattel','pocket','polly', ]
+tags: [ 'mattel','pocket','polly', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

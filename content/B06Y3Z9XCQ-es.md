@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y3Z9XCQ-es Mega Bloks- Luau Dave Build-A-Minion Despicable Me Minions...'
 sku: 'B06Y3Z9XCQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','bloks','mattel','mega', ]
+tags: [ 'bloks','mattel','mega', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

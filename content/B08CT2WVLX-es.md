@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CT2WVLX-es Mando Inalámbrico para PS4 Mando Inalámbrico Gamepad Doble...'
 sku: 'B08CT2WVLX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

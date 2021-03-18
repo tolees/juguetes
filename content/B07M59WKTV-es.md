@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M59WKTV-es Avengers- Titan Hero Movie Thor Multicolor Hasbro E3921ES0'
 sku: 'B07M59WKTV-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','hasbro', ]
+tags: [ 'hasbro', ]
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

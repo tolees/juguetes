@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5DLVQ5-es Fournier 1040720 Juego de Cartas Educativo Multicolor'
 sku: 'B07H5DLVQ5-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','cartas','de','juego', ]
+tags: [ 'cartas','de','juego', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95
