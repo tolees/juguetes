@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0765C6XTK-es LEGO Friends - Taller de Tuneo Creativo Juguete con Mini...'
 sku: 'B0765C6XTK-es'
-tags: [ 'lego', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQXCB28-es Disney Princess Elsa y Anna Hasbro E7417ES0'
 sku: 'B07SQXCB28-es'
-tags: [ 'hasbro', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

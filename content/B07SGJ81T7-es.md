@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGJ81T7-es Pinypon Action- Set de 5 Figuras Series 2 con Accesorios...'
 sku: 'B07SGJ81T7-es'
-tags: [ 'Ciclismo','Culotes de ciclismo para hombre','Deportes y aire libre','Juguetes','Juguetes y juegos','Muñecas y accesorios','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','famosa','pinypon','pinypon action', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

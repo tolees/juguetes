@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XB3JDC7-es Barbie muñeca rubia de 30 cm con piscina tobogán y...'
 sku: 'B07XB3JDC7-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

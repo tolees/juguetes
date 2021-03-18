@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WNYGYG-es Playkin FASTER - Moto electrica niños bateria 6V...'
 sku: 'B082WNYGYG-es'
-tags: [ 'juguetes', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

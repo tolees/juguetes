@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M59WCMY-es Frozen 2 - Castillo De Arendelle Portátil Hasbro E5511EU4'
 sku: 'B07M59WCMY-es'
-tags: [ 'hasbro', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

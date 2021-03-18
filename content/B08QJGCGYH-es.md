@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QJGCGYH-es ZORRI Botella de agua de 1 litro/600 ml/800 ml/1 2 litros...'
 sku: 'B08QJGCGYH-es'
-tags: [ 'bicicleta', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

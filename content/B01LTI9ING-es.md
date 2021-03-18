@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTI9ING-es Pinypon- Figuras Color Pirata Gorro Azul Miscelanea Famosa...'
 sku: 'B01LTI9ING-es'
-tags: [ 'famosa','pinypon-', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

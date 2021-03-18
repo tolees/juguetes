@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008LOCWVW-es Tecnovita by BH Open&GO YF90 Bicicleta estática Plegable....'
 sku: 'B008LOCWVW-es'
-tags: [ 'bicicleta', ]
 actualPrice: 153.08 EUR
 currency: EUR
 price: 153.08

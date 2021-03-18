@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W24M7RB-es Mellerware - Bicicleta Estatica spinning - Resistencia...'
 sku: 'B08W24M7RB-es'
-tags: [ 'bicicleta', ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

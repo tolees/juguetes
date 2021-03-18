@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788BN1PW-es Auto Companion - Soporte de techo en aluminio para moto o...'
 sku: 'B0788BN1PW-es'
-tags: [ 'bicicleta', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

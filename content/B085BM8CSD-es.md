@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085BM8CSD-es YIMINYUER Alfombras Puzzle para Bebé Alfombrilla Suelo...'
 sku: 'B085BM8CSD-es'
-tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

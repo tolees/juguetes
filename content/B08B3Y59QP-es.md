@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3Y59QP-es Bizak Curligirls Peinados y Rizados Muñeca Individual Pop...'
 sku: 'B08B3Y59QP-es'
-tags: [ 'bizak', ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

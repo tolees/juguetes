@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1XXNP3-es Pinypon Action - Moto de Bombero con 1 figurita para niños...'
 sku: 'B07N1XXNP3-es'
-tags: [ 'famosa','pinypon','pinypon action', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

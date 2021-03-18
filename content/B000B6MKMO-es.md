@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000B6MKMO-es Hot Wheels Pack de 10 vehículos coches de juguete modelos...'
 sku: 'B000B6MKMO-es'
-tags: [ 'mattel', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

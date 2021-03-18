@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813Q5JLQ-es Super Heroes Avengers Marvel 4+ Vengadores: Ira de Loki...'
 sku: 'B0813Q5JLQ-es'
-tags: [ 'lego', ]
 actualPrice: 50.96 EUR
 currency: EUR
 price: 50.96

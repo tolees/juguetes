@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKHK5J1-es Preschool Games - Hasbro Gaming - Juego infantil Fontanero...'
 sku: 'B07SKHK5J1-es'
-tags: [ 'hasbro', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

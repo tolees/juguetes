@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N1ZY77Y-es ZIWIES - Tarta Mágica con 8 figuritas coleccionables para...'
 sku: 'B07N1ZY77Y-es'
-tags: [ 'famosa', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

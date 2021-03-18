@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZPXW96-es Super Winner Juegos de Mesa Familiares Madera niños Air...'
 sku: 'B08CZPXW96-es'
-tags: [ 'juguetes', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

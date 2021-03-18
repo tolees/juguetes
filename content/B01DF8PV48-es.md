@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DF8PV48-es Devir- Fantasma Blitz Menudo sust Juego Multicolor BGBLITZ4'
 sku: 'B01DF8PV48-es'
-tags: [ 'devir-', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

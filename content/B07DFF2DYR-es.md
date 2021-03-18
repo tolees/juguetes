@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFF2DYR-es Adaptador Soporte Extensión Vástago Montaje En Equipo de...'
 sku: 'B07DFF2DYR-es'
-tags: [ 'bicicleta', ]
 actualPrice: 20.74 EUR
 currency: EUR
 price: 20.74

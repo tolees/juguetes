@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085PBQ3FY-es Lego Marvel Collection'
 sku: 'B085PBQ3FY-es'
-tags: [ 'lego', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

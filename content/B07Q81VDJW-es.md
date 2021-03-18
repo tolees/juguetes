@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q81VDJW-es GEMVIE Flotador para Bebé Niños Niñas con Asiento Anillo...'
 sku: 'B07Q81VDJW-es'
-tags: [ 'flotador', ]
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RGWP86G-es Toy Story Figura Articulada Buzz Lightyear con Voz 30 cm...'
 sku: 'B07RGWP86G-es'
-tags: [ 'bizak', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

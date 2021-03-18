@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCRMZBW-es Symiu Circuito Pista Coches Juguetes Vehiculos Cars...'
 sku: 'B07DCRMZBW-es'
-tags: [ 'juguetes', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

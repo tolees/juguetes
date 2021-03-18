@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088CQKG2D-es JAMSWALL Mando para PS4 Inalámbrico Controlador para...'
 sku: 'B088CQKG2D-es'
-tags: [ 'Accesorios para PlayStation 4','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Packs de accesorios para PlayStation 4','Sistemas precursores y micro consolas','Videojuegos','jamswall','playstation','ps4', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

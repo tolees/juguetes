@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LQIO4LU-es Devir Firefly Piratas y cazarrecompensas Miscelanea BGFLY3'
 sku: 'B01LQIO4LU-es'
-tags: [ 'devir', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

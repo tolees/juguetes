@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QPZL4-es LEGO Friends Friends Parque de Heartlake City Set de Juego...'
 sku: 'B0813QPZL4-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

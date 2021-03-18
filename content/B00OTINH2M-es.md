@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OTINH2M-es Nerf- N-Strike Mega BigShock Blaster Lanzadardos Hasbro...'
 sku: 'B00OTINH2M-es'
-tags: [ 'hasbro', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

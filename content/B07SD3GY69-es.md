@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD3GY69-es Symiu Juguetes de Pesca Juego Infantil Piscina Juegos...'
 sku: 'B07SD3GY69-es'
-tags: [ 'juguetes', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7V6R6Y-es LEGO Technic - Dragster Juguete de Construcción de Coche...'
 sku: 'B07W7V6R6Y-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

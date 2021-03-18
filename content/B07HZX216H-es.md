@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HZX216H-es Devir - Exit: Muerte en el Orient Express Ed. Español BGEXIT8'
 sku: 'B07HZX216H-es'
-tags: [ 'devir', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

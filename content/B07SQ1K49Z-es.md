@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQ1K49Z-es Cool Maker Kumi Kreator 2 en 1 BIZAK 61927539 color/modelo...'
 sku: 'B07SQ1K49Z-es'
-tags: [ 'bizak', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

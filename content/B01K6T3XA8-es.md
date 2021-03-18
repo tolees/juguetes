@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K6T3XA8-es Juguetes Colgantes Reiki Energía Cristal Péndulo Scrying...'
 sku: 'B01K6T3XA8-es'
-tags: [ 'juguetes', ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4GPS3P-es LEGO 21170 Minecraft La Casa-Cerdo Set de Construcción con...'
 sku: 'B08G4GPS3P-es'
-tags: [ 'lego', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

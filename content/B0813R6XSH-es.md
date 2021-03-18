@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R6XSH-es LEGO 75284 Star Wars Nave de Transporte de los Caballeros...'
 sku: 'B0813R6XSH-es'
-tags: [ 'lego', ]
 actualPrice: 52.46 EUR
 currency: EUR
 price: 52.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W55JTT7-es Simba 6315878710pro Disney – Peluche de Mickey 61 cm'
 sku: 'B06W55JTT7-es'
-tags: [ 'peluche','simba', ]
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

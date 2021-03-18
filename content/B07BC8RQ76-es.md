@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BC8RQ76-es Wrebbit - Puzzle en 3D de Camelot del Rey Arturo 865 Piezas'
 sku: 'B07BC8RQ76-es'
-tags: [ 'puzzle', ]
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

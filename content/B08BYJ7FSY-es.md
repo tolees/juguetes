@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYJ7FSY-es BelleStyle Puzzle Bebe Puzzles de Madera Educativos para...'
 sku: 'B08BYJ7FSY-es'
-tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

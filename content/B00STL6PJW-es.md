@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00STL6PJW-es Hasbro Gaming Gaming Clasico Pictureka Versión Española...'
 sku: 'B00STL6PJW-es'
-tags: [ 'hasbro', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

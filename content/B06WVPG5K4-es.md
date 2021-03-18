@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVPG5K4-es PLAYMOBIL Family Fun Cabaña de Esquí A partir de 4 años 9280'
 sku: 'B06WVPG5K4-es'
-tags: [ 'Playsets de figuras de juguete para niños','playmobil', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

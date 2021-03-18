@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCUSC7V-es Fisher-Price Bloques infantiles juguete bloques...'
 sku: 'B01NCUSC7V-es'
-tags: [ 'Barajas de carta de juegos estándar','Consolas Nintendo Switch','Desarrollo de habilidades motoras','Hardware y juegos para Nintendo Switch','Hogar y cocina','Juego de mesa','Juegos de cartas','Juegos de construcción para niños','Juegos y accesorios para juegos','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Muebles de TV y multimedia','Muebles de hogar','Muñecos y figuras','Playsets de figuras de acción para niños','Sillas Gaming','Videojuegos','fisher-price','mattel', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0765BRBKQ-es LEGO City - Ártico Base Móvil de Exploración Juguete...'
 sku: 'B0765BRBKQ-es'
-tags: [ 'lego', ]
 actualPrice: 81.2 EUR
 currency: EUR
 price: 81.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088Q79RNQ-es Guizu Juguetes para bebés: Juguetes de baño Pistolas de...'
 sku: 'B088Q79RNQ-es'
-tags: [ 'juguetes', ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

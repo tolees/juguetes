@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4BMD2K-es LEGO 41443 Friends Coche Eléctrico de Olivia Juguete de...'
 sku: 'B08G4BMD2K-es'
-tags: [ 'lego', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

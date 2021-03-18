@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082P1NSYM-es LCQI Cubo Rompecabezas Adultos Niños Profesional Original'
 sku: 'B082P1NSYM-es'
-tags: [ 'rompecabezas', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3VCS2Z-es LEGO Creator - Harley Davidson Fat Boy Maqueta para Montar...'
 sku: 'B07G3VCS2Z-es'
-tags: [ 'lego', ]
 actualPrice: 97.79 EUR
 currency: EUR
 price: 97.79

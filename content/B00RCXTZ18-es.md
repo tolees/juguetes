@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RCXTZ18-es Fisher-Price - Fisher Price - Caballito de mar dulces...'
 sku: 'B00RCXTZ18-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

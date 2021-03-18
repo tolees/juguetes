@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0765CFDRH-es LEGO DUPLO Town - Tren de mercancías con luces y sonidos...'
 sku: 'B0765CFDRH-es'
-tags: [ 'lego', ]
 actualPrice: 104.25 EUR
 currency: EUR
 price: 104.25

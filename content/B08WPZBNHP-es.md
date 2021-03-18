@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WPZBNHP-es Artvans - Lindos Juguetes De Peluche MuñEco Abatible De...'
 sku: 'B08WPZBNHP-es'
-tags: [ 'juguetes','peluche', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0892BFPD4-es jerryvon Juguetes Montessori Banco de Martillo Juguetes...'
 sku: 'B0892BFPD4-es'
-tags: [ 'juguetes', ]
 actualPrice: 20.27 EUR
 currency: EUR
 price: 20.27

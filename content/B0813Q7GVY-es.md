@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813Q7GVY-es LEGO Friends Heartlake City Friends Parque Acuático Fun...'
 sku: 'B0813Q7GVY-es'
-tags: [ 'juguetes','lego', ]
 actualPrice: 88.23 EUR
 currency: EUR
 price: 88.23

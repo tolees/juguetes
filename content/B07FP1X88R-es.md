@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP1X88R-es LEGO Classic - Ladrillos Básicos manualidades niños y...'
 sku: 'B07FP1X88R-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

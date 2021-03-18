@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WWR7DQI-es LEGO Marvel Super Heroes - Classics'
 sku: 'B00WWR7DQI-es'
-tags: [ 'lego', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

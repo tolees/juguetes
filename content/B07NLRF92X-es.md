@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLRF92X-es Avengers- Titan Hero FX Figura Iron Man Multicolor Talla...'
 sku: 'B07NLRF92X-es'
-tags: [ 'hasbro', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

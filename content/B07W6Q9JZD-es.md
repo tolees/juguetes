@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6Q9JZD-es LEGO Star Wars - Pack de Combate: Soldados Sith Set de...'
 sku: 'B07W6Q9JZD-es'
-tags: [ 'lego', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0177TS0AI-es Rolimate Juguetes para Niños Pequeños Apilador Geométrico...'
 sku: 'B0177TS0AI-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Desarrollo de habilidades motoras','Discos duros externos','Embarcación de juguete para niños','Hardware y juegos para PlayStation 4','Informática','Juegos de construcción para niños','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','Videojuegos','juguetes','rolimate', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

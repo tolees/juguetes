@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015CSQ82S-es Devir - Set Juego de Mesa 222944'
 sku: 'B015CSQ82S-es'
-tags: [ 'devir', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

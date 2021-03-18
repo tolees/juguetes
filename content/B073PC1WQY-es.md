@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073PC1WQY-es Hasbro - Mr Mph Hasbro 27657EZ3'
 sku: 'B073PC1WQY-es'
-tags: [ 'hasbro', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

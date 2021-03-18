@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2TFLPX-es SkullCap® Casco Bicicleta montaña Hombre y Mujer MTB...'
 sku: 'B07C2TFLPX-es'
-tags: [ 'bicicleta', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

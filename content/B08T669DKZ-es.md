@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T669DKZ-es HOMCOM Parque Infantil Redondo Corralito de Seguridad para...'
 sku: 'B08T669DKZ-es'
-tags: [ 'juguetes', ]
 actualPrice: 81.59 EUR
 currency: EUR
 price: 81.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QX49GF4-es Symiu Juguetes Montessori Tablero Juego de Madera Puzzles...'
 sku: 'B07QX49GF4-es'
-tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

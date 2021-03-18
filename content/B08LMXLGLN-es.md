@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LMXLGLN-es Baztoy Coche Teledirigido 4WD Drift Stunt Coche RC 2.4GHz...'
 sku: 'B08LMXLGLN-es'
-tags: [ 'juguetes','coche','rc', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

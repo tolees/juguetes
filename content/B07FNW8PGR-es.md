@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNW8PGR-es LEGO Speed Champions - McLaren Senna Speed Champions...'
 sku: 'B07FNW8PGR-es'
-tags: [ 'lego', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V5N4CY8-es TYRY.HU Bloques Apilables para Bebés 6 Meses Juguetes Bebe...'
 sku: 'B08V5N4CY8-es'
-tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

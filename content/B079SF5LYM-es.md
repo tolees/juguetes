@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079SF5LYM-es Pinypon- Cueva Incluye Figura de una Sirenita y Muchos...'
 sku: 'B079SF5LYM-es'
-tags: [ 'famosa','pinypon-', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

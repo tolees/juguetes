@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZHLFP8-es Generique - Disfraz minero Lego niño'
 sku: 'B079ZHLFP8-es'
-tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

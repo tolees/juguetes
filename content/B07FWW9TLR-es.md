@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FWW9TLR-es Mattel FIGURA BÁSICA TOY STORY REX Multicolor GFV32'
 sku: 'B07FWW9TLR-es'
-tags: [ 'mattel', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

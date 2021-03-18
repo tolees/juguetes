@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PWBF5-es LEGO Friends - Parque para Cachorros Set de Construcción a...'
 sku: 'B07W5PWBF5-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

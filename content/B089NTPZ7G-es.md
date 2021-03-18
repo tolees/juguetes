@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NTPZ7G-es HOMCOM Bicicleta Estática para Ejercicios Profesional...'
 sku: 'B089NTPZ7G-es'
-tags: [ 'bicicleta', ]
 actualPrice: 140.24 EUR
 currency: EUR
 price: 140.24

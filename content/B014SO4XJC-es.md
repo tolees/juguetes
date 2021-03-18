@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014SO4XJC-es Star Wars - Sable extensible 1 unidad Hasbro B2912EU4...'
 sku: 'B014SO4XJC-es'
-tags: [ 'hasbro', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

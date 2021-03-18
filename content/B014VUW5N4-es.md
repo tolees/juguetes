@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014VUW5N4-es Star Wars Stormtrooper First Order Pack 2 Figuras 18 cm...'
 sku: 'B014VUW5N4-es'
-tags: [ 'bandai', ]
 actualPrice: 57.06 EUR
 currency: EUR
 price: 57.06

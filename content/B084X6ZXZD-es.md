@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084X6ZXZD-es YIMINYUER Alfombra Puzzle de Colores de Goma EVA Suave...'
 sku: 'B084X6ZXZD-es'
-tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

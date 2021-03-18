@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QZTLP-es DUPLO Town DUPLO Construction Grúa Torre y Obra Vehículo...'
 sku: 'B0813QZTLP-es'
-tags: [ 'lego', ]
 actualPrice: 97.46 EUR
 currency: EUR
 price: 97.46

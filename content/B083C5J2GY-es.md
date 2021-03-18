@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083C5J2GY-es Dragon Ball Z - Peluche Freezer 15 cm'
 sku: 'B083C5J2GY-es'
-tags: [ 'peluche', ]
 actualPrice: 11.56 EUR
 currency: EUR
 price: 11.56

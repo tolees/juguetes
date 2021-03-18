@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BVMWY5V-es Zequins- Muñeco Emmy Famosa 700014680'
 sku: 'B07BVMWY5V-es'
-tags: [ 'famosa', ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

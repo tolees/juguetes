@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMDHSQS-es Barbie Casa de muñecas con muebles y accesorios juguete +3...'
 sku: 'B07JMDHSQS-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

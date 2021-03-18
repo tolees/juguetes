@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMQ7QVT-es HAISSKY Riñonera Deportiva Riñonera Running Impermeable...'
 sku: 'B07VMQ7QVT-es'
-tags: [ 'bicicleta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

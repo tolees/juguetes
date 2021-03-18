@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0851FRVK5-es TONZE - Caja Herramientas Juguetes de Madera-Rompecabezas...'
 sku: 'B0851FRVK5-es'
-tags: [ 'juguetes', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2ZM99V-es Ryaco Soporte de Móvil Deportiva para Bicicletas y Motos...'
 sku: 'B07D2ZM99V-es'
-tags: [ 'bicicleta', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

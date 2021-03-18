@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLJJX8V-es LEGO Star Wars - Cabaña de Obi-Wan con Techo Desplegable...'
 sku: 'B07WLJJX8V-es'
-tags: [ 'lego', ]
 actualPrice: 24.71 EUR
 currency: EUR
 price: 24.71

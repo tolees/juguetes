@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8Y1FS9-es LEGO City Police - Policía: Arresto en la Autopista Set de...'
 sku: 'B07W8Y1FS9-es'
-tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego','lego city police', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

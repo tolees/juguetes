@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4JXV79-es LEGO 43101 VIDIYO Bandmates Set de Extensión Juguete...'
 sku: 'B08G4JXV79-es'
-tags: [ 'lego', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

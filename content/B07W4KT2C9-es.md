@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4KT2C9-es LEGO Architecture - Dubái Maqueta para Montar el Skyline...'
 sku: 'B07W4KT2C9-es'
-tags: [ 'Juegos de construcción para niños','lego','lego architecture', ]
 actualPrice: 56.81 EUR
 currency: EUR
 price: 56.81

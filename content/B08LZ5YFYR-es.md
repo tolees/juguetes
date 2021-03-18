@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LZ5YFYR-es yoptote Cocina Madera Cocinitas de Juguetes Alimento de...'
 sku: 'B08LZ5YFYR-es'
-tags: [ 'juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VMBTQWY-es Maxxis Ardent Race ETB96742300 Neumático de bicicleta...'
 sku: 'B00VMBTQWY-es'
-tags: [ 'bicicleta', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

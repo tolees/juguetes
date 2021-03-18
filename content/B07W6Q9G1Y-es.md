@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6Q9G1Y-es LEGO 76899 Speed Champions Lamborghini Urus ST-X &...'
 sku: 'B07W6Q9G1Y-es'
-tags: [ 'Barajas de carta de juegos estándar','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juego de mesa','Juegos de cartas','Juegos de construcción para niños','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Videojuegos','lego', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC12QZW-es LEGO Star Wars - Caza TIE Sith Maqueta para Montar un Set...'
 sku: 'B07WC12QZW-es'
-tags: [ 'lego', ]
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

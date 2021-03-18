@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBZ4W9P-es Sportneer Under Desk Bike Mini bicicleta de ejercicios de...'
 sku: 'B07XBZ4W9P-es'
-tags: [ 'bicicleta', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

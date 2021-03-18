@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Z6SW1J-es BANDAI NAMCO Entertainment Iberica - Project Cars 3'
 sku: 'B089Z6SW1J-es'
-tags: [ 'bandai', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

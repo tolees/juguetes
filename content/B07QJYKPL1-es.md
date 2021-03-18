@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJYKPL1-es Yizhet 12 x Adaptador de Valvula de Bici Bicicleta válvula...'
 sku: 'B07QJYKPL1-es'
-tags: [ 'bicicleta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

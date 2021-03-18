@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IARP3SY-es Nenuco Botiquín de emergencias Famosa 700011613'
 sku: 'B00IARP3SY-es'
-tags: [ 'famosa', ]
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WQK7X2-es Little Live Pets- Perrito Travieso con transportín Famosa...'
 sku: 'B078WQK7X2-es'
-tags: [ 'famosa', ]
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

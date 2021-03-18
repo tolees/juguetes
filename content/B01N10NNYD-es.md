@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N10NNYD-es Nintendo - Figura Amiibo Link Jinete Serie Zelda'
 sku: 'B01N10NNYD-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','nintendo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

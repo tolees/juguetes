@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLJJX7R-es LEGO City Police - Policía: Unidad Canina Set de...'
 sku: 'B07WLJJX7R-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

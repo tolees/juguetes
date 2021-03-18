@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4LDVV6-es LEGO Trolls - Aventura en Globo de Poppy Juguete de...'
 sku: 'B07W4LDVV6-es'
-tags: [ 'lego', ]
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

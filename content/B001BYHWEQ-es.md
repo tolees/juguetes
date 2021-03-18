@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001BYHWEQ-es TRIXIE Oveja Patas Largas Peluche Sonido 30 cm Perro'
 sku: 'B001BYHWEQ-es'
-tags: [ 'peluche', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

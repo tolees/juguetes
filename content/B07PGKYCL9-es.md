@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGKYCL9-es Hairdooz Muñeca Coleccionable Sorpresa BIZAK 63248522...'
 sku: 'B07PGKYCL9-es'
-tags: [ 'bizak', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

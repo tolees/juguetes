@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016XS2NM0-es Fisher-Price - Gimnasio Deluxe Animalitos de la Selva...'
 sku: 'B016XS2NM0-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

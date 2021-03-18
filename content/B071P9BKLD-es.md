@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071P9BKLD-es VTech- TutTut Animals Arca de Animales Juguete Interactivo...'
 sku: 'B071P9BKLD-es'
-tags: [ 'vtech-', ]
 actualPrice: 21.92 EUR
 currency: EUR
 price: 21.92

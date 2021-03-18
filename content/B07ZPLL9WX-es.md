@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPLL9WX-es SuperZings - Serie 5 - Display de 8 Skyracers PSZ5D068IN01...'
 sku: 'B07ZPLL9WX-es'
-tags: [ 'superzings', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

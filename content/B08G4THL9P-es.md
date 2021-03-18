@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4THL9P-es LEGO 60287 City Tractor Set de Granja con Figura de Conejo...'
 sku: 'B08G4THL9P-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

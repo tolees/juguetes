@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D3Z1S7H-es Hasbro Gaming- Trivial Pursuit Versión Española E1921105'
 sku: 'B07D3Z1S7H-es'
-tags: [ 'hasbro', ]
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

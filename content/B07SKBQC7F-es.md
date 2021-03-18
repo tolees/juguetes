@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKBQC7F-es Disney 101 Dalmatian Street Casita del árbol de Dylan con...'
 sku: 'B07SKBQC7F-es'
-tags: [ 'mattel', ]
 actualPrice: 16.08 EUR
 currency: EUR
 price: 16.08

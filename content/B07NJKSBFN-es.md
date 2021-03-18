@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NJKSBFN-es Mattel- Disney Toy Story 4-Figura con Voces y Sonidos Buzz...'
 sku: 'B07NJKSBFN-es'
-tags: [ 'juguetes','mattel-', ]
 actualPrice: 13.28 EUR
 currency: EUR
 price: 13.28

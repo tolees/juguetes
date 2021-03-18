@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0014QMRBE-es Theo Klein 8429 Caja de herramientas Bosch Con sierra...'
 sku: 'B0014QMRBE-es'
-tags: [ 'theo','klein', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

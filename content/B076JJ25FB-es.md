@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076JJ25FB-es Devir - Hero Realms juego de cartas BGHR'
 sku: 'B076JJ25FB-es'
-tags: [ 'devir','juego','de','cartas', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

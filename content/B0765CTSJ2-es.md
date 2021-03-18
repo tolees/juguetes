@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765CTSJ2-es LEGO Creator - Pastelería Modular Juguete de Construcción...'
 sku: 'B0765CTSJ2-es'
-tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

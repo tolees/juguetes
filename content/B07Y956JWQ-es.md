@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y956JWQ-es Hot Wheels Mario Kart Lanzador Bullet Bill Mattel GKY54'
 sku: 'B07Y956JWQ-es'
-tags: [ 'mattel', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYM44JP-es Ravensburger - Puzzle Paw Patrol pack de 4 03029'
 sku: 'B07SYM44JP-es'
-tags: [ 'puzzle','ravensburger', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

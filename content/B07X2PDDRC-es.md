@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2PDDRC-es Pizarra Magnetica Infantil 135 Piezas Puzzle Rompecabezas...'
 sku: 'B07X2PDDRC-es'
-tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

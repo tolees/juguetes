@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTVJHPF-es LEGO City Space Port Juguete de Construcción de Lanzadera...'
 sku: 'B07KTVJHPF-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

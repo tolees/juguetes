@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGG8RYK-es Envisioni - Simple Dimple Fidget Toy Fidget Simple Dimple...'
 sku: 'B08VGG8RYK-es'
-tags: [ 'juguetes', ]
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

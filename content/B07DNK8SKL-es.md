@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNK8SKL-es Ty – Peluche ty36253'
 sku: 'B07DNK8SKL-es'
-tags: [ 'peluche', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R6HZV-es LEGO Creator Vehicles Creator 3en1 Róver Explorador Base y...'
 sku: 'B0813R6HZV-es'
-tags: [ 'lego', ]
 actualPrice: 44.96 EUR
 currency: EUR
 price: 44.96

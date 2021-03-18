@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJYVMHS-es CubicFun Bolas Sensoriales para Bebés Juguetes Bebe 6...'
 sku: 'B08BJYVMHS-es'
-tags: [ 'juguetes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

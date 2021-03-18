@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MTV45J-es Pinypon- Pastelería muñeca Tienda Dulces Juguete Famosa...'
 sku: 'B088MTV45J-es'
-tags: [ 'famosa','pinypon-', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BK2PXAS-es LEGO DUPLO Town - Animales del Mundo Juguete de...'
 sku: 'B01BK2PXAS-es'
-tags: [ 'lego', ]
 actualPrice: 87.71 EUR
 currency: EUR
 price: 87.71

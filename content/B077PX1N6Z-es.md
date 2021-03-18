@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PX1N6Z-es Zak Storm Playset Maritoga Bandai 41580'
 sku: 'B077PX1N6Z-es'
-tags: [ 'bandai', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

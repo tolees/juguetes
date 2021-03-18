@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X3YCNVB-es Fisher-Price - Imaginext DC Figura Batman Batwing Mattel...'
 sku: 'B07X3YCNVB-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

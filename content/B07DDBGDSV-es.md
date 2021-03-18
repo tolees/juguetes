@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDBGDSV-es Pinypon Action - Policía Vehículos de Acción Famosa 700014495'
 sku: 'B07DDBGDSV-es'
-tags: [ 'Ciclismo','Culotes de ciclismo para hombre','Deportes y aire libre','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','Vehículos de juguete para niños','Videojuegos','famosa','pinypon','pinypon action', ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

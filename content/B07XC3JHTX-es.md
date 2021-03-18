@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC3JHTX-es Enchantimals- Ciesta Cat con Mascota Climber Muñeca...'
 sku: 'B07XC3JHTX-es'
-tags: [ 'mattel', ]
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

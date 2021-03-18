@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZYGY8H-es Fisher-Price - Teléfono carita divertida - juguetes bebe 1...'
 sku: 'B01LZYGY8H-es'
-tags: [ 'fisher-price','juguetes','mattel', ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

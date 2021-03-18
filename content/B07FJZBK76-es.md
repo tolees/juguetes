@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJZBK76-es Disney Princess - Disney Princess Brillo Real Ariel Hasbro...'
 sku: 'B07FJZBK76-es'
-tags: [ 'hasbro', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

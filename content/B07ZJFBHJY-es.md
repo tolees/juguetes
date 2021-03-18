@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJFBHJY-es FORMIZON 62 Piezas Alimentos de Juguete Tarta de...'
 sku: 'B07ZJFBHJY-es'
-tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

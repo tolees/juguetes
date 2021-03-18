@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075QY2S4Z-es Super Soaker - Supersoaker - Zipfire 2 Pack Hasbro E2155EU4'
 sku: 'B075QY2S4Z-es'
-tags: [ 'hasbro', ]
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

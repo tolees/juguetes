@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792QCD6Z-es LEGO Star Wars - Imperial AT-Hauler Juguete de La Guerra...'
 sku: 'B0792QCD6Z-es'
-tags: [ 'Juegos de construcción para niños','lego','lego star wars', ]
 actualPrice: 82.95 EUR
 currency: EUR
 price: 82.95

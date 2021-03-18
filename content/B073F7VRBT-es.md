@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073F7VRBT-es SGILE Pizarra Magnética Infantil 42x32cm Grande Magnético...'
 sku: 'B073F7VRBT-es'
-tags: [ 'juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

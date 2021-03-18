@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9SDGVZ-es NIS America - God Wars Future Past - PlayStation 4...'
 sku: 'B01N9SDGVZ-es'
-tags: [ 'playstation', ]
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

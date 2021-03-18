@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813Q5JKX-es LEGO Star Wars - AT-AT Juguete de Construcción de...'
 sku: 'B0813Q5JKX-es'
-tags: [ 'lego', ]
 actualPrice: 112.46 EUR
 currency: EUR
 price: 112.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BD2E6VI-es Hasbro Gaming- TABÚ Gaming Clasico Juego de Mesa...'
 sku: 'B00BD2E6VI-es'
-tags: [ 'Juegos de preguntas','hasbro','hasbro gaming', ]
 actualPrice: 21.55 EUR
 currency: EUR
 price: 21.55

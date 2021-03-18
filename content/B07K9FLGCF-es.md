@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K9FLGCF-es LEGO Star Wars Boost - Comandante Droide Juguete de...'
 sku: 'B07K9FLGCF-es'
-tags: [ 'lego', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

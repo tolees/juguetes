@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075SRRYRL-es yoptote Frutas y Verduras Juguete para Cortar Frutas...'
 sku: 'B075SRRYRL-es'
-tags: [ 'juguetes', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

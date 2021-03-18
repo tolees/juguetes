@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085B5JHWB-es Mattel Games Showdown GKC04'
 sku: 'B085B5JHWB-es'
-tags: [ 'mattel', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

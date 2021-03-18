@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QB7LH-es LEGO Ninjago - Templo Imperial de la Locura Set de...'
 sku: 'B07W6QB7LH-es'
-tags: [ 'lego', ]
 actualPrice: 69.71 EUR
 currency: EUR
 price: 69.71

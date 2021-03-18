@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RH7GJ-es Ninjago TV Series Dragón del Brujo de los Muertos 2en1 Set...'
 sku: 'B0813RH7GJ-es'
-tags: [ 'lego', ]
 actualPrice: 69.71 EUR
 currency: EUR
 price: 69.71

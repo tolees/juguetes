@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FDT1JDM-es Polly Pocket Cofre Donut Sorpresa Muñeca con Accesorios...'
 sku: 'B07FDT1JDM-es'
-tags: [ 'mattel','polly','pocket', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

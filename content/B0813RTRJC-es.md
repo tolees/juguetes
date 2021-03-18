@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RTRJC-es Super Heroes Comics DC Batman Persecución de la Trimoto...'
 sku: 'B0813RTRJC-es'
-tags: [ 'lego', ]
 actualPrice: 42.71 EUR
 currency: EUR
 price: 42.71

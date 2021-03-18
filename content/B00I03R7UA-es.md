@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I03R7UA-es Educa- Ámsterdam Puzzle 3000 Piezas Multicolor 16018'
 sku: 'B00I03R7UA-es'
-tags: [ 'puzzle', ]
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

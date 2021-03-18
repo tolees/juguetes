@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRYDLYT-es Juguetes Educativos Niño 3 4 5 6 Años- Bloques de...'
 sku: 'B07WRYDLYT-es'
-tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

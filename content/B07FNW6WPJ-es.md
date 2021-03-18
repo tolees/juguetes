@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNW6WPJ-es LEGO Super Heroes Rescate en Moto de Spider-Man juguete de...'
 sku: 'B07FNW6WPJ-es'
-tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

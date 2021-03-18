@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVMC9BY-es Hot Wheels Loop Star pista de coches de juguete Mattel...'
 sku: 'B07CVMC9BY-es'
-tags: [ 'mattel', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

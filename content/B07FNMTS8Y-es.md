@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMTS8Y-es LEGO Super Heroes - Iron Man: Sala de Armaduras Juguete de...'
 sku: 'B07FNMTS8Y-es'
-tags: [ 'lego', ]
 actualPrice: 48.74 EUR
 currency: EUR
 price: 48.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4G3MQ5-es LEGO 60289 City Camión de Transporte del Avión Acrobático...'
 sku: 'B08G4G3MQ5-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNQ8S67-es SGODDE Mini Bomba para Bicicleta 300 PSI Alta Presión Se...'
 sku: 'B07VNQ8S67-es'
-tags: [ 'bicicleta', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

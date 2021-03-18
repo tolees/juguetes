@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088G7NPRB-es Pinypon- Moto con sidecar para merendola en el campo...'
 sku: 'B088G7NPRB-es'
-tags: [ 'famosa','pinypon','pinypon-', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

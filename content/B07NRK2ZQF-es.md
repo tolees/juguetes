@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRK2ZQF-es Gifort Pompons Pompones de Colores Pompones de Pompon...'
 sku: 'B07NRK2ZQF-es'
-tags: [ 'peluche', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

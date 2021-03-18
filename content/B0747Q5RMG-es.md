@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0747Q5RMG-es SkullCap® Casco Niño Bicicleta diseñado por los niños...'
 sku: 'B0747Q5RMG-es'
-tags: [ 'bicicleta', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

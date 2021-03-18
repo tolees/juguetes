@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY6V6V8-es lenbest 7pcs Squishys Kawaii Juguetes Juguetes Squishies...'
 sku: 'B07PY6V6V8-es'
-tags: [ 'juguetes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KX54VHF-es LEGO Harry Potter - Autobús Noctámbulo Juguete de...'
 sku: 'B07KX54VHF-es'
-tags: [ 'lego', ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

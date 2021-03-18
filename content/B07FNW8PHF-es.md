@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNW8PHF-es LEGO City - Police Coche Patrulla de La Policía Juguete...'
 sku: 'B07FNW8PHF-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

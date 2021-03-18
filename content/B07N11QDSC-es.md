@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N11QDSC-es The Bellies - Willy Woof Muñeco interactivo para niños y...'
 sku: 'B07N11QDSC-es'
-tags: [ 'bellies','famosa','the', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

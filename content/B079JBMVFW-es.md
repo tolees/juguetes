@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079JBMVFW-es Barbie Ambulancia Hospital 2 en 1 accesorios de muñecas...'
 sku: 'B079JBMVFW-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 55.02 EUR
 currency: EUR
 price: 55.02

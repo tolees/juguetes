@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079JCJZ1R-es Enchantimals - Supercasa del bosque y muñeca Danessa edad...'
 sku: 'B079JCJZ1R-es'
-tags: [ 'mattel', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

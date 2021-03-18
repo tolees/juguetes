@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6ORDLY-es SkullCap® Casco de Skate y BMX - Bicicleta Y Scooter...'
 sku: 'B01N6ORDLY-es'
-tags: [ 'bicicleta', ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

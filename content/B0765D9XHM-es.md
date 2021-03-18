@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765D9XHM-es Warner Bros. Interactive Spain - Lego Marvel Super Heroes 2'
 sku: 'B0765D9XHM-es'
-tags: [ 'Videojuegos','lego','warner bros. interactive spain', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

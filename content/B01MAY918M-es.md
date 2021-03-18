@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MAY918M-es Devir - King of Tokyo edición en Castellano 2016 BGHKOT'
 sku: 'B01MAY918M-es'
-tags: [ 'devir', ]
 actualPrice: 28.26 EUR
 currency: EUR
 price: 28.26

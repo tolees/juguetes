@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073SCHPLM-es Warner Bros Interactive Spain - Lego Worlds'
 sku: 'B073SCHPLM-es'
-tags: [ 'lego', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

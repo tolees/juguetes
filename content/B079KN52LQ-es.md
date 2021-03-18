@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KN52LQ-es Justice League Figura Aquaman 15 cm Mattel Fwx60'
 sku: 'B079KN52LQ-es'
-tags: [ 'mattel', ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

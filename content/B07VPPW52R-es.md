@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPPW52R-es Educa- Ámsterdam Puzzle 1000 Piezas Multicolor 18458'
 sku: 'B07VPPW52R-es'
-tags: [ 'puzzle', ]
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

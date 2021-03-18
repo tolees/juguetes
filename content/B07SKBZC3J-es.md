@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKBZC3J-es Lil’ Gleemerz Adorbrite juguete interactivo rosa con luces...'
 sku: 'B07SKBZC3J-es'
-tags: [ 'mattel', ]
 actualPrice: 18.18 EUR
 currency: EUR
 price: 18.18

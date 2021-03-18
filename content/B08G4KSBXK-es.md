@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4KSBXK-es LEGO 76384 Harry Potter Momento Hogwarts: Clase de...'
 sku: 'B08G4KSBXK-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

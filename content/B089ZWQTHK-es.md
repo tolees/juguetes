@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089ZWQTHK-es Fivejoy 134PCS Juguetes de Construcción para Jardín de...'
 sku: 'B089ZWQTHK-es'
-tags: [ 'juguetes', ]
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

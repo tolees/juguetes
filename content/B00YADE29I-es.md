@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YADE29I-es MINIONS - Juego de construcción Construye tu megaminion...'
 sku: 'B00YADE29I-es'
-tags: [ 'mattel', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

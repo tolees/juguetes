@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP6QNQ7-es LEGO 42096 Technic Porsche 911 RSR Regalo para Día del...'
 sku: 'B07FP6QNQ7-es'
-tags: [ 'lego', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

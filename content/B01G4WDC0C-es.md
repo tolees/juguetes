@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G4WDC0C-es VTech- Kidizoom SelfieCam Cámara de Fotos Color Morado...'
 sku: 'B01G4WDC0C-es'
-tags: [ 'vtech-', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBQRJ7N-es Barbie - Princess Adventures Prance y Shimmer Caballo y...'
 sku: 'B08CBQRJ7N-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078W7R6KK-es Paladone- Harry Potter Juego de Cartas Multicolor PP4258HP'
 sku: 'B078W7R6KK-es'
-tags: [ 'juego','de','cartas', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

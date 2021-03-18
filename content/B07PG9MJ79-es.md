@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PG9MJ79-es Garmin 010-12845-00 accesorio para bicicleta Sensor de...'
 sku: 'B07PG9MJ79-es'
-tags: [ 'bicicleta', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

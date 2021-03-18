@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7LGHH9-es SuperZings - Serie 4 - Display Mini Vehicle de 24...'
 sku: 'B07P7LGHH9-es'
-tags: [ 'superzings', ]
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

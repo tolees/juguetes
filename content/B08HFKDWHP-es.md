@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HFKDWHP-es Barbie Tienda de mascotas Muñeca con establecimiento de...'
 sku: 'B08HFKDWHP-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

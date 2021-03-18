@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZWW6Z6R-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
 sku: 'B07ZWW6Z6R-es'
-tags: [ 'barbie', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTWD7PW-es Fivejoy Dinosaurios Juguetes 118 PCS Construcción...'
 sku: 'B08MTWD7PW-es'
-tags: [ 'juguetes','puzzle', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

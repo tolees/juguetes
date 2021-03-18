@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WD5BTT-es LEGO 71363 Super Mario Set de Expansión: Pokey del...'
 sku: 'B082WD5BTT-es'
-tags: [ 'lego', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

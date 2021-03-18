@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPQ4S1C-es Thrustmaster TMX Force Feedback - Volante realista de...'
 sku: 'B01DPQ4S1C-es'
-tags: [ 'thrustmaster','xbox', ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

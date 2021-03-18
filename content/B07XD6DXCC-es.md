@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD6DXCC-es Barbie Restaurante japonés de juguete Noodle Bar muñeca...'
 sku: 'B07XD6DXCC-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

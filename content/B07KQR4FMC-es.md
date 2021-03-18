@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQR4FMC-es Avengers Legends - Guantelete electrónico Hasbro E6253EU4'
 sku: 'B07KQR4FMC-es'
-tags: [ 'hasbro', ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

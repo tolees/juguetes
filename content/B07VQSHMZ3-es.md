@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQSHMZ3-es ENKEEO Ciclocomputadores Inalámbrica Recargable USB con...'
 sku: 'B07VQSHMZ3-es'
-tags: [ 'bicicleta', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8XYZ1P-es LEGO City Fire - Intervención del Helicóptero de Bomberos...'
 sku: 'B07W8XYZ1P-es'
-tags: [ 'lego', ]
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

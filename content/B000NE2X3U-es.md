@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NE2X3U-es TRIXIE Poste Rascador Para Gatos - Arbol Para Gatos Sisal...'
 sku: 'B000NE2X3U-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

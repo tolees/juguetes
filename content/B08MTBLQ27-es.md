@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTBLQ27-es Poweradd 32 Pack 1.5V AA AAA Pilas Alcalinas con 16 x LR6...'
 sku: 'B08MTBLQ27-es'
-tags: [ 'juguetes', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

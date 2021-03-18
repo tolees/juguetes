@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088GNB2F6-es HOMCOM Rodillo de Bicicleta con Resistencia de 8 Niveles...'
 sku: 'B088GNB2F6-es'
-tags: [ 'bicicleta', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

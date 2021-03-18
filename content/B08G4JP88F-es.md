@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4JP88F-es LEGO 41925 DOTS Cajas Secretas Caja para Bisutería...'
 sku: 'B08G4JP88F-es'
-tags: [ 'lego', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084PTVQLZ-es Star Wars Baby Yoda The Child Animatronic Hasbro F11195L0'
 sku: 'B084PTVQLZ-es'
-tags: [ 'hasbro', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

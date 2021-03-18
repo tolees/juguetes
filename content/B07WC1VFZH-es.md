@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC1VFZH-es LEGO Minecraft - El Puesto de Saqueadores Juguete de...'
 sku: 'B07WC1VFZH-es'
-tags: [ 'lego', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

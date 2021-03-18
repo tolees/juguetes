@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQGZ2ZB-es Creatable World Figura Unisex muñeco articulado pelucas...'
 sku: 'B07NQGZ2ZB-es'
-tags: [ 'mattel', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

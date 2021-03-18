@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYPPKG7-es Asmodee Dobble Waterproof - Juego de cartas resistente al...'
 sku: 'B06XYPPKG7-es'
-tags: [ 'cartas','de','juego', ]
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

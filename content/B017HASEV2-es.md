@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017HASEV2-es Disney Princess- Ariel Muñeca Color Verde y Rojo Hasbro...'
 sku: 'B017HASEV2-es'
-tags: [ 'hasbro', ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

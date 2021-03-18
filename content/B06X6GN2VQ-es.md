@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X6GN2VQ-es LEGO 17101 BOOST Caja de Herramientas Creativas Robot de...'
 sku: 'B06X6GN2VQ-es'
-tags: [ 'lego', ]
 actualPrice: 131.25 EUR
 currency: EUR
 price: 131.25

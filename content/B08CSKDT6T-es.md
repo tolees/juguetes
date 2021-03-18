@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CSKDT6T-es yoptote - Abacos Para Niños de Madera Juguetes Montessori...'
 sku: 'B08CSKDT6T-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

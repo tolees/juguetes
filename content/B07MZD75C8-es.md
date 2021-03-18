@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZD75C8-es Barbie Fashionista Muñeca morena con pierna protésica...'
 sku: 'B07MZD75C8-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 8.37 EUR
 currency: EUR
 price: 8.37

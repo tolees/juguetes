@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QWPM3-es DUPLO Princess TM Disney Princess Castillo Submarino...'
 sku: 'B0813QWPM3-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

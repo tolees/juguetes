@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPKTN2B-es LEGO 10941 DUPLO Disney Tren de Cumpleaños de Mickey y...'
 sku: 'B08GPKTN2B-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

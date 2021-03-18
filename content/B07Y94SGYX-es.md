@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y94SGYX-es Toy Story - Muñeco Buzz Lightyear 25 Aniversario Mattel...'
 sku: 'B07Y94SGYX-es'
-tags: [ 'mattel', ]
 actualPrice: 19.06 EUR
 currency: EUR
 price: 19.06

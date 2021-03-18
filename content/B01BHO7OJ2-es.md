@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BHO7OJ2-es Warner Bros. Entertainment - LEGO Star Wars: El Despertar...'
 sku: 'B01BHO7OJ2-es'
-tags: [ 'lego', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

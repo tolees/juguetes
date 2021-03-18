@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y3Z9XCQ-es Mega Bloks- Luau Dave Build-A-Minion Despicable Me Minions...'
 sku: 'B06Y3Z9XCQ-es'
-tags: [ 'bloks','mattel','mega', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PN6HF11-es Bebés Llorones Pijama Pavo Real - Accesorio muñeca'
 sku: 'B07PN6HF11-es'
-tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','bebés','bebés llorones','llorones', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

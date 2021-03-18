@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC14JL5-es LEGO Hidden Side - Avión Acrobático de El Fuego Set con...'
 sku: 'B07WC14JL5-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BJF8VCS-es Lost Kitties gatito caja sorpresa colección individual...'
 sku: 'B07BJF8VCS-es'
-tags: [ 'hasbro', ]
 actualPrice: 2.48 EUR
 currency: EUR
 price: 2.48

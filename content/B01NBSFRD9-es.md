@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBSFRD9-es SkullCap® Kids BMX & Skate Helmet - Bicicleta Y Scooter...'
 sku: 'B01NBSFRD9-es'
-tags: [ 'bicicleta', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

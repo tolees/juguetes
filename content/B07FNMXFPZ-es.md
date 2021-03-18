@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMXFPZ-es LEGO City Fire - Rescate del Incendio en la Hamburguesería...'
 sku: 'B07FNMXFPZ-es'
-tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

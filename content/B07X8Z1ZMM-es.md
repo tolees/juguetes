@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8Z1ZMM-es Barbie Dreamtopia Muñeca Hada con top rosa y falta flores...'
 sku: 'B07X8Z1ZMM-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 8.37 EUR
 currency: EUR
 price: 8.37

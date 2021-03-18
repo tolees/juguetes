@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075RN1N2L-es Cubic Fun- Puzzle 3D Casa Batlló 68 Piezas 771C240'
 sku: 'B075RN1N2L-es'
-tags: [ 'puzzle', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

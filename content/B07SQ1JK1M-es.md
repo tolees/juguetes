@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQ1JK1M-es Kinetic Sand Sandtastic Arena Kinética BIZAK 61921467'
 sku: 'B07SQ1JK1M-es'
-tags: [ 'bizak','kinetic','sand', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

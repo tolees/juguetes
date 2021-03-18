@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQ8PJG8-es lenbest 6 Piezas 3D Rompecabezas de Madera Animales para...'
 sku: 'B08HQ8PJG8-es'
-tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

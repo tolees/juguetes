@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFXQCNF-es Imaginext- Fisher-Price Batmovil Transformable Mattel GMH33'
 sku: 'B07YFXQCNF-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 74.7 EUR
 currency: EUR
 price: 74.7

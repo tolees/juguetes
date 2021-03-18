@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HFVCKUA-es Lego Movie The Videogame'
 sku: 'B00HFVCKUA-es'
-tags: [ 'lego', ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

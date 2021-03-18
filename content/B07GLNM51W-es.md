@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GLNM51W-es Hot Wheels City Global Nemesis TV Dinosaurio Triceratops y...'
 sku: 'B07GLNM51W-es'
-tags: [ 'mattel', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

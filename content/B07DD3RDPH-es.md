@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD3RDPH-es Pikmi Pops Serie 2 - Piruleta 1 Peluche Perfumado...'
 sku: 'B07DD3RDPH-es'
-tags: [ 'peluche', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

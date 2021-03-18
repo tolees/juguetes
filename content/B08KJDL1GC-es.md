@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KJDL1GC-es TRAX MTB - Sistema de Remolque para Bicicleta o Bicicleta...'
 sku: 'B08KJDL1GC-es'
-tags: [ 'bicicleta', ]
 actualPrice: 38.34 EUR
 currency: EUR
 price: 38.34

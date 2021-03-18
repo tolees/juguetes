@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRAFWM-es Sylvanian Families - 4172 - Familia Ardilla de la Nuez'
 sku: 'B00HRRAFWM-es'
-tags: [ 'sylvanian','families', ]
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

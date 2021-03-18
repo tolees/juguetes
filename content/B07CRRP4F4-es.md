@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CRRP4F4-es Bandai Namco - Consola Micro Player Retro Arcade Dig Dug'
 sku: 'B07CRRP4F4-es'
-tags: [ 'bandai', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

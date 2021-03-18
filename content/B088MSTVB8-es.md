@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MSTVB8-es Pinypon - Hotel de Nieve Famosa 700015773'
 sku: 'B088MSTVB8-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

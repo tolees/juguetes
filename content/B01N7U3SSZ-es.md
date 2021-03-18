@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7U3SSZ-es Educa- Tienda de Comestibles Puzzle 2000 Piezas Multicolor...'
 sku: 'B01N7U3SSZ-es'
-tags: [ 'puzzle', ]
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

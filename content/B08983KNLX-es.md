@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08983KNLX-es Masters of the Universe Origins Battle Cat figura de...'
 sku: 'B08983KNLX-es'
-tags: [ 'mattel', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

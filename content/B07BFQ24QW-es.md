@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BFQ24QW-es The Bellies From Bellyville - The Bellies - Muak-Muak...'
 sku: 'B07BFQ24QW-es'
-tags: [ 'famosa','the','bellies', ]
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

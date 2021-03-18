@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKW8RFQ-es Baoblaze 60pcs Mini Juego de Damas Ajedrez Juegos de Mesa...'
 sku: 'B07JKW8RFQ-es'
-tags: [ 'juguetes', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

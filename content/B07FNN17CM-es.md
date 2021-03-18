@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNN17CM-es LEGO City Fire - Parque de Bomberos estación de juguete...'
 sku: 'B07FNN17CM-es'
-tags: [ 'lego', ]
 actualPrice: 52.46 EUR
 currency: EUR
 price: 52.46

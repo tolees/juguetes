@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B7HNLMG-es Ravensburger GraviTrax Starter Set Juego construcciones...'
 sku: 'B07B7HNLMG-es'
-tags: [ 'ravensburger', ]
 actualPrice: 46.76 EUR
 currency: EUR
 price: 46.76

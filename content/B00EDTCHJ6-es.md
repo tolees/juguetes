@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EDTCHJ6-es LEGO DUPLO My First - Mis Primeros Coches Juguete de...'
 sku: 'B00EDTCHJ6-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

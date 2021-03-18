@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0783Q3SLL-es Vampirina-78105 Muñeca Básica Multicolor Bandai JPL78105'
 sku: 'B0783Q3SLL-es'
-tags: [ 'bandai', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

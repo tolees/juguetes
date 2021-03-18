@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RDB9C-es LEGO Friends Heartlake City Friends Huerto de Flores de...'
 sku: 'B0813RDB9C-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

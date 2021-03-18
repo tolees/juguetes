@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019RP6OE4-es Imaginext Barco Pirata Tiburón Mattel DHH61'
 sku: 'B019RP6OE4-es'
-tags: [ 'mattel', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

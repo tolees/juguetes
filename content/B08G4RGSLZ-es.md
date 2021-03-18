@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4RGSLZ-es LEGO 42124 Technic Buggy Todoterreno Coche Retro...'
 sku: 'B08G4RGSLZ-es'
-tags: [ 'lego', ]
 actualPrice: 97.46 EUR
 currency: EUR
 price: 97.46

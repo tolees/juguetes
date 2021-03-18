@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079SF5PXW-es Pinypon- Club de Hípica Multicolor Famosa 700014352...'
 sku: 'B079SF5PXW-es'
-tags: [ 'famosa','pinypon-', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZF9H8DT-es Rolimate Juego Interactivo Whack A Frog Cumpleaños 2 3 4 5...'
 sku: 'B07ZF9H8DT-es'
-tags: [ 'juguetes', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

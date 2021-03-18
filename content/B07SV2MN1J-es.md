@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SV2MN1J-es BANDAI NAMCO Entertainment Iberica - Cyberpunk 2077 -...'
 sku: 'B07SV2MN1J-es'
-tags: [ 'bandai', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

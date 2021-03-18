@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TYNX6SW-es Vannico Camara Fotos Camara para Niños Cámaras de Video...'
 sku: 'B07TYNX6SW-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

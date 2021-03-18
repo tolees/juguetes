@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NJ9PV9D-es jerryvon Juguetes de Madera Cubo de Actividades...'
 sku: 'B08NJ9PV9D-es'
-tags: [ 'juguetes', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

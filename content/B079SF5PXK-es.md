@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079SF5PXK-es Pinypon - Tienda De Chuches Famosa 700014076'
 sku: 'B079SF5PXK-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

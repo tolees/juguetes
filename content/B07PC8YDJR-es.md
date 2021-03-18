@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC8YDJR-es SYLVANIAN FAMILIES Mini muñecas y Accesorios Multicolor...'
 sku: 'B07PC8YDJR-es'
-tags: [ 'families','sylvanian', ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

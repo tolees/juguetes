@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073BFFMGR-es Hasbro - Juego «¿Quién es Quién?»Juego clásico.'
 sku: 'B073BFFMGR-es'
-tags: [ 'hasbro', ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

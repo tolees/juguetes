@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PDS9S7-es Nenuco- Hermanitas muñecas bebé con Cama para Dormir...'
 sku: 'B088PDS9S7-es'
-tags: [ 'famosa', ]
 actualPrice: 39.34 EUR
 currency: EUR
 price: 39.34

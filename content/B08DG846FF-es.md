@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DG846FF-es Konami - eFootball PES 2021: Season Update'
 sku: 'B08DG846FF-es'
-tags: [ 'Juegos para Xbox One','konami', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

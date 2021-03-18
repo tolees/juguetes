@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LGSHHD-es jerryvon Juguetes Niños Montessori de Madera Jeu de Cartes...'
 sku: 'B089LGSHHD-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

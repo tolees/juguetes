@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FDSBSRY-es Hot Wheels - City Super Explosión en el Banco Pistas de...'
 sku: 'B07FDSBSRY-es'
-tags: [ 'mattel', ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

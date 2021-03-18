@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRYC-es LEGO 42115 Technic Lamborghini Sián FKP 37 Regalo para Día...'
 sku: 'B0813RJRYC-es'
-tags: [ 'lego', ]
 actualPrice: 304.99 EUR
 currency: EUR
 price: 304.99

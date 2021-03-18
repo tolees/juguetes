@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B1F2PMM-es Devir- Coloretto Juego de Mesa Multicolor única BGCOL'
 sku: 'B07B1F2PMM-es'
-tags: [ 'devir-', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

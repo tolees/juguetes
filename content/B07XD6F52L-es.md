@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD6F52L-es Barbie Olimpíadas muñeca gimnasta barra de equilibrios de...'
 sku: 'B07XD6F52L-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 22.77 EUR
 currency: EUR
 price: 22.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P4FFRQ7-es Fajiabao Circuito Canicas Bloques Construccion Niños -...'
 sku: 'B08P4FFRQ7-es'
-tags: [ 'juguetes', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

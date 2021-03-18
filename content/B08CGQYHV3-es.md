@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CGQYHV3-es yoptote Ensamblarde Vehículo Excavadora para Niños Coche...'
 sku: 'B08CGQYHV3-es'
-tags: [ 'juguetes', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

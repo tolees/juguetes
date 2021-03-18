@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQYRCY4-es Marvel- Black Widow Legends Summer Civilian Hasbro E87705X0'
 sku: 'B07ZQYRCY4-es'
-tags: [ 'hasbro', ]
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

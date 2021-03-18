@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNW1BRF-es Juguetes Famosa - Smart Pixelator - Proyector con Pixel...'
 sku: 'B07SNW1BRF-es'
-tags: [ 'famosa','juguetes', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

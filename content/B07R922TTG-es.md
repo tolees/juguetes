@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R922TTG-es Star Wars- Sable Scream Hasbro E75575L6 color/modelo surtido'
 sku: 'B07R922TTG-es'
-tags: [ 'hasbro', ]
 actualPrice: 23.18 EUR
 currency: EUR
 price: 23.18

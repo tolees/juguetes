@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVS6FQD-es Ravensburger Harry Potter Puzzle para adultos multicolor...'
 sku: 'B07GVS6FQD-es'
-tags: [ 'puzzle','ravensburger', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6BV8XH-es Lego Movie Pijamas de Manga Corta para niños La Lego...'
 sku: 'B07P6BV8XH-es'
-tags: [ 'lego', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

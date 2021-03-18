@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086VWJPWV-es Enchantimals - Casa Danessa con muñeca Danessa y mascota...'
 sku: 'B086VWJPWV-es'
-tags: [ 'mattel', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

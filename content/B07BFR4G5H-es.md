@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BFR4G5H-es The Bellies From Bellyville - The Bellies - Pinky-Twink...'
 sku: 'B07BFR4G5H-es'
-tags: [ 'famosa','the','bellies', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

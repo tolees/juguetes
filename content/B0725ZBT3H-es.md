@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725ZBT3H-es FEBER - Mad Racer 12 V Famosa 800011361'
 sku: 'B0725ZBT3H-es'
-tags: [ 'famosa','feber', ]
 actualPrice: 172.35 EUR
 currency: EUR
 price: 172.35

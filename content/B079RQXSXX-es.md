@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079RQXSXX-es Pikmi Pops- Pushme Up Peluche perfumado Giochi Preziosi...'
 sku: 'B079RQXSXX-es'
-tags: [ 'peluche', ]
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

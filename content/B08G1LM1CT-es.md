@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1LM1CT-es Science4you-Universo Unicornio-Juegos y Juguetes...'
 sku: 'B08G1LM1CT-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0829TPTL5-es XIAPIA Juguetes Montessori 1 Años Juguetes de Madera Niños...'
 sku: 'B0829TPTL5-es'
-tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

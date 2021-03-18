@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD8BG3N-es Vtech- Amigos En El Parque Manta de Juego Y Gimnasio...'
 sku: 'B07DD8BG3N-es'
-tags: [ 'vtech-', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

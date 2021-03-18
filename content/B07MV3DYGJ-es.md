@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MV3DYGJ-es Play-Doh-Pack 20 Botes color surtido Hasbro A7924EUC'
 sku: 'B07MV3DYGJ-es'
-tags: [ 'hasbro', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

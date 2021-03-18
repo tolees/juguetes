@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TSWV1K8-es YOLEO Bicicleta sin Pedales Sillín Regulable 32-41cm...'
 sku: 'B08TSWV1K8-es'
-tags: [ 'bicicleta', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

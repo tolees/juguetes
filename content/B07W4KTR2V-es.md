@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4KTR2V-es LEGO Creator - Tienda de Juguetes Clásica Set de...'
 sku: 'B07W4KTR2V-es'
-tags: [ 'juguetes','lego', ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

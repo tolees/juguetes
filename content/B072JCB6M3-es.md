@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JCB6M3-es Nenuco Hermanitos a la Pelu Famosa 700013674'
 sku: 'B072JCB6M3-es'
-tags: [ 'famosa', ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SVS5GF-es ColiCor Display Stand Soporte para Lego Star Wars 75192...'
 sku: 'B085SVS5GF-es'
-tags: [ 'lego', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

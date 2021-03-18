@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC3HPWL-es Enchantimals Baño Splash con Muñeca Petya Pig y Sus Dos...'
 sku: 'B07XC3HPWL-es'
-tags: [ 'mattel', ]
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

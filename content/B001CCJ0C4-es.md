@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CCJ0C4-es Clementoni - Puzzle de 500 Piezas diseño Juntos 30289.5'
 sku: 'B001CCJ0C4-es'
-tags: [ 'clementoni','puzzle', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

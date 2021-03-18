@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CML4QAE-es Theo Klein 8394 Maletín Ixolino de Bosch Con martillo...'
 sku: 'B01CML4QAE-es'
-tags: [ 'theo','klein', ]
 actualPrice: 32.39 EUR
 currency: EUR
 price: 32.39

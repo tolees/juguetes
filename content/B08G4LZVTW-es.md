@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4LZVTW-es LEGO 42122 Technic Jeep Wrangler Coche 4x4 de Juguete...'
 sku: 'B08G4LZVTW-es'
-tags: [ 'lego', ]
 actualPrice: 39.71 EUR
 currency: EUR
 price: 39.71

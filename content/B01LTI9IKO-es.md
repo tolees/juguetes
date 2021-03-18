@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTI9IKO-es Piny Muñeca Fashion Julia Famosa 700013446'
 sku: 'B01LTI9IKO-es'
-tags: [ 'famosa', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

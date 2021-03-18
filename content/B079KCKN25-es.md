@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KCKN25-es Polly Pocket Cofre Caja de Música muñeca con accesorios...'
 sku: 'B079KCKN25-es'
-tags: [ 'mattel','polly','pocket', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

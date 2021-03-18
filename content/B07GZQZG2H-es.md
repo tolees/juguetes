@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZQZG2H-es OMERIL Luces Bicicleta Delantera y Trasera Linterna...'
 sku: 'B07GZQZG2H-es'
-tags: [ 'bicicleta', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

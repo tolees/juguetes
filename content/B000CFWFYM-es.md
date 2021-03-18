@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000CFWFYM-es Juegos Mattel - Mattel Games UNO Deluxe juego de cartas...'
 sku: 'B000CFWFYM-es'
-tags: [ 'mattel','juego','de','cartas', ]
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

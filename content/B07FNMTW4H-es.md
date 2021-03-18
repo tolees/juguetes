@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMTW4H-es LEGO City - Police Policía Aérea: Arresto del Ladrón...'
 sku: 'B07FNMTW4H-es'
-tags: [ 'lego', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

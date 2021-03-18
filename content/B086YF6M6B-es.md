@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086YF6M6B-es STEMtoy Juguetes para niñas de 3 a 4 años de Edad Regalo...'
 sku: 'B086YF6M6B-es'
-tags: [ 'juguetes', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

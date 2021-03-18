@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC1VDSP-es LEGO Technic - Grúa Móvil Set de Construcción de Vehículo...'
 sku: 'B07WC1VDSP-es'
-tags: [ 'lego', ]
 actualPrice: 87.71 EUR
 currency: EUR
 price: 87.71

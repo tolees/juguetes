@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ZSTZ38-es Toimsa Bicicleta para Niñas Minnie Rosa 611'
 sku: 'B007ZSTZ38-es'
-tags: [ 'bicicleta', ]
 actualPrice: 89.21 EUR
 currency: EUR
 price: 89.21

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086XCVQKN-es Wooden Jumping Gomoku Wooden Six-Color Two-In-One Juego de...'
 sku: 'B086XCVQKN-es'
-tags: [ 'juguetes', ]
 actualPrice: 12.42 EUR
 currency: EUR
 price: 12.42

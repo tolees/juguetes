@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PYL212L-es Fisher-Price - Little People - Garaje Cochelandia Parking...'
 sku: 'B07PYL212L-es'
-tags: [ 'fisher-price','juguetes','mattel', ]
 actualPrice: 45.04 EUR
 currency: EUR
 price: 45.04

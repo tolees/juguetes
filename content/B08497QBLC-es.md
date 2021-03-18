@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08497QBLC-es Ravensburger - Multipack Cry Babies Ravensburger 20620'
 sku: 'B08497QBLC-es'
-tags: [ 'ravensburger', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

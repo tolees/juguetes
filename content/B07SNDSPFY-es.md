@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNDSPFY-es Avengers Marvel Legends Martillo de Thor Hasbro C1881E48'
 sku: 'B07SNDSPFY-es'
-tags: [ 'hasbro', ]
 actualPrice: 125.09 EUR
 currency: EUR
 price: 125.09

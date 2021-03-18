@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VN2PLN8-es Fafrees 20 Pulgadas Bicicleta Eléctrica Plegable 48V 500W...'
 sku: 'B08VN2PLN8-es'
-tags: [ 'bicicleta', ]
 actualPrice: 1489.99 EUR
 currency: EUR
 price: 1489.99

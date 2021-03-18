@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8D23NY-es Locisne 100pcs 7.2cm Recarga de Dardos Soft EVA Foam...'
 sku: 'B07H8D23NY-es'
-tags: [ 'nerf', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

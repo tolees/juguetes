@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8H9BGQ-es Philips Avent Peluche con chupete SCF348/13 - Peluche de...'
 sku: 'B07M8H9BGQ-es'
-tags: [ 'peluche', ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

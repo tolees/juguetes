@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1S8BG3-es 18 PCS Bolsas Reutilizables Compra Ecológicas Bolsas para...'
 sku: 'B07Y1S8BG3-es'
-tags: [ 'juguetes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

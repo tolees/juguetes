@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8YL5LG-es LEGO Technic - Mini CLAAS XERION Juguete de Construcción 2...'
 sku: 'B07W8YL5LG-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

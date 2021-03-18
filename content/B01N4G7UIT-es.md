@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4G7UIT-es Hot Wheels Circuito de Carreras Urbanas Mattel Spain FDY09...'
 sku: 'B01N4G7UIT-es'
-tags: [ 'mattel', ]
 actualPrice: 129.89 EUR
 currency: EUR
 price: 129.89

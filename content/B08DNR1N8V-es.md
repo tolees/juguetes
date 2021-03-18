@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DNR1N8V-es Japace Ajedrez de Memoria de Madera Ajedres de Juguetes...'
 sku: 'B08DNR1N8V-es'
-tags: [ 'juguetes', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

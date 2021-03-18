@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XR9Q6NV-es Devir FanHunter Urban Warfare Juego de Mesa Miscelanea BGFHUW'
 sku: 'B06XR9Q6NV-es'
-tags: [ 'devir', ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

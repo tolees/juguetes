@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SBYJXRN-es Symiu Dinosaurios Juguetes Jurassic Animales Tren Flexible...'
 sku: 'B08SBYJXRN-es'
-tags: [ 'juguetes', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

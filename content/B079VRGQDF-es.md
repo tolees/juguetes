@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VRGQDF-es Juegos Bizak Headbanz Adivina que Pienso BIZAK 61924297'
 sku: 'B079VRGQDF-es'
-tags: [ 'bizak', ]
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

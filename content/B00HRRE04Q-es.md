@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRE04Q-es Sylvanian Families - 5051 - Animales Tienda de dulces'
 sku: 'B00HRRE04Q-es'
-tags: [ 'sylvanian','families', ]
 actualPrice: 17.6 EUR
 currency: EUR
 price: 17.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BYZF75M-es Clementoni - Las Pulseras de las emociones 15239'
 sku: 'B07BYZF75M-es'
-tags: [ 'clementoni', ]
 actualPrice: 17.01 EUR
 currency: EUR
 price: 17.01

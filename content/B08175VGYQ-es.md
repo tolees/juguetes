@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08175VGYQ-es PLAYMOBIL SCOOBY-DOO La Máquina del Misterio con Efectos...'
 sku: 'B08175VGYQ-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Videojuegos','playmobil', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079GKKB3Z-es Sylvanian Families- Grand Department Store Gift Set Mini...'
 sku: 'B079GKKB3Z-es'
-tags: [ 'sylvanian','families', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

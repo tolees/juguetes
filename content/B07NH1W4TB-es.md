@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NH1W4TB-es Barbie Casa Malibu casa de muñecas de dos pisos plegable...'
 sku: 'B07NH1W4TB-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 103.25 EUR
 currency: EUR
 price: 103.25

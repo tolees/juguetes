@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P4CEUS2-es Fisher-Price - Fisher Price Caballito de mar dulces sueños...'
 sku: 'B00P4CEUS2-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 18.54 EUR
 currency: EUR
 price: 18.54

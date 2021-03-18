@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075H1XL8Y-es LEGO Architecture - Shanghái Set de Construcción de...'
 sku: 'B075H1XL8Y-es'
-tags: [ 'lego', ]
 actualPrice: 63.35 EUR
 currency: EUR
 price: 63.35

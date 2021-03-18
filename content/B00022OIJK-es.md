@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00022OIJK-es Geomag- Magicube Juego de construcción magnética...'
 sku: 'B00022OIJK-es'
-tags: [ 'geomag-', ]
 actualPrice: 6.86 EUR
 currency: EUR
 price: 6.86

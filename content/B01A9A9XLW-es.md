@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A9A9XLW-es Juego principal WeDo 2.0 de LEGO Education'
 sku: 'B01A9A9XLW-es'
-tags: [ 'lego', ]
 actualPrice: 153.4 EUR
 currency: EUR
 price: 153.4

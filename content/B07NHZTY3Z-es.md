@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NHZTY3Z-es Sylvanian Families - 5359 - Familia Nutria'
 sku: 'B07NHZTY3Z-es'
-tags: [ 'sylvanian','families', ]
 actualPrice: 19.3 EUR
 currency: EUR
 price: 19.3

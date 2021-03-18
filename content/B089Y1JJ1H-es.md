@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Y1JJ1H-es Lamicall Soporte Movil Bicicleta Soporte Motocicleta -...'
 sku: 'B089Y1JJ1H-es'
-tags: [ 'bicicleta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

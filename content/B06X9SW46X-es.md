@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9SW46X-es SYLVANIAN FAMILIES- Ballerina Friends Mini Muñecas Y...'
 sku: 'B06X9SW46X-es'
-tags: [ 'families','sylvanian', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0837DYPRS-es Pinypon- CuboMix and Match de 10 Figuras niñas a Partir de...'
 sku: 'B0837DYPRS-es'
-tags: [ 'famosa','pinypon','pinypon-', ]
 actualPrice: 28.86 EUR
 currency: EUR
 price: 28.86

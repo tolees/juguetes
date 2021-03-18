@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079JFTL73-es Barbie-FRH73 Barbie Quiero Ser Superchef Muñeca Rubia con...'
 sku: 'B079JFTL73-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QST5YTK-es ACTRINIC - Juguetes para Bebé 6-18 meses Juguete Cubo de...'
 sku: 'B07QST5YTK-es'
-tags: [ 'juguetes', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

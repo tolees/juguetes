@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L93GCTO-es Star Wars SW Movie E7 Robot Inteligente R2D2 Multicolor...'
 sku: 'B01L93GCTO-es'
-tags: [ 'hasbro', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

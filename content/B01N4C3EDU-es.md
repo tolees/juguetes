@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4C3EDU-es 25 mm Par de base soporte adaptador de manillar para moto...'
 sku: 'B01N4C3EDU-es'
-tags: [ 'bicicleta', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

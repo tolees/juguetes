@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S39HPNJ-es Keten Objetivo Digital Electrónico para Pistolas Nerf con...'
 sku: 'B07S39HPNJ-es'
-tags: [ 'nerf', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

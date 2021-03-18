@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X2TZ6B6-es Fisher Price - Carrito de Arrastre de Bloques de Actividad...'
 sku: 'B07X2TZ6B6-es'
-tags: [ 'mattel', ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

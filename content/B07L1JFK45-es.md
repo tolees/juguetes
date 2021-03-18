@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1JFK45-es Daxin Juguete de Robot de Control Remoto Interactivo...'
 sku: 'B07L1JFK45-es'
-tags: [ 'juguetes', ]
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NCZJSP4-es Educa- Ámsterdam paisajes y Lagos Puzzle 2000 Piezas...'
 sku: 'B01NCZJSP4-es'
-tags: [ 'puzzle', ]
 actualPrice: 19.41 EUR
 currency: EUR
 price: 19.41

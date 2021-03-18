@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP2KPX6-es LEGO - Star Wars Esclavo I Edición 20 Aniversario Juguete...'
 sku: 'B07FP2KPX6-es'
-tags: [ 'lego', ]
 actualPrice: 229.9 EUR
 currency: EUR
 price: 229.9

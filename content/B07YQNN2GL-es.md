@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQNN2GL-es Mega Bloks- Perrito Paseos juguete de construcción para...'
 sku: 'B07YQNN2GL-es'
-tags: [ 'mattel','mega','bloks', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

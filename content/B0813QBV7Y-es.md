@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV7Y-es LEGO 75968 Harry Potter Número 4 de Privet Drive Juguete...'
 sku: 'B0813QBV7Y-es'
-tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
 actualPrice: 58.98 EUR
 currency: EUR
 price: 58.98

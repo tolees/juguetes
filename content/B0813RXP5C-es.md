@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RXP5C-es Super Heroes Clas Avengers Helitransporte de los...'
 sku: 'B0813RXP5C-es'
-tags: [ 'lego','super heroes', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

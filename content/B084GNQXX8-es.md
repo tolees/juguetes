@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084GNQXX8-es Mattel Games- Pictionary Air Juegos de Mesa Multicolor GPL50'
 sku: 'B084GNQXX8-es'
-tags: [ 'mattel', ]
 actualPrice: 16.77 EUR
 currency: EUR
 price: 16.77

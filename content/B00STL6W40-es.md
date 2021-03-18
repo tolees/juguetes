@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STL6W40-es Hasbro Gaming Juego de mesa Operación Hasbro B2176B09'
 sku: 'B00STL6W40-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Desarrollo de habilidades motoras','Discos duros externos','Embarcación de juguete para niños','Hardware y juegos para PlayStation 4','Informática','Juego de mesa','Juegos de construcción para niños','Juegos de tablero','Juegos educativos','Juegos y accesorios para juegos','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','Videojuegos','hasbro','hasbro gaming', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

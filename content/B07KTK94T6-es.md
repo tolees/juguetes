@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTK94T6-es LEGO Friends - Fiesta en la Piscina de Andrea Nuevo set de...'
 sku: 'B07KTK94T6-es'
-tags: [ 'lego', ]
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

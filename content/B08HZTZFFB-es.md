@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZTZFFB-es BANDAI NAMCO Entertainment Iberica - Ride 4'
 sku: 'B08HZTZFFB-es'
-tags: [ 'bandai','bandai namco entertainment iberica', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

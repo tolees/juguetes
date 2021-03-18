@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DP1HD26-es Toyland? guardián del Espacio - Arma Espacial con Sonido -...'
 sku: 'B07DP1HD26-es'
-tags: [ 'juguetes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SD4GMV6-es Akface Compresor de Aire Coche Inflador Coches Portatil...'
 sku: 'B07SD4GMV6-es'
-tags: [ 'bicicleta', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00R6CICJ6-es Fisher-Price Móvil musical 3 en 1 juguete de cuna con...'
 sku: 'B00R6CICJ6-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

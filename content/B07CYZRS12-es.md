@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CYZRS12-es NOBES Tableta de Escritura LCD 8.5 Inch LCD Tablero de...'
 sku: 'B07CYZRS12-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

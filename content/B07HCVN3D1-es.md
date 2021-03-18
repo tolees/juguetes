@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCVN3D1-es Animal Crossing: New Horizons Nintendo Switch'
 sku: 'B07HCVN3D1-es'
-tags: [ 'Ciclismo','Culotes de ciclismo para hombre','Deportes y aire libre','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','Videojuegos','nintendo', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

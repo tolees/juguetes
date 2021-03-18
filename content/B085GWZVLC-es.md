@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GWZVLC-es Ravensburger Tiburón Juego de mesa Versión Española 2-4...'
 sku: 'B085GWZVLC-es'
-tags: [ 'ravensburger', ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TMP9M-es LEGO City Turbo Wheels - Coches de Carreras Set de...'
 sku: 'B07W7TMP9M-es'
-tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego','lego city turbo wheels', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

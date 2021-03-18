@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XS7B7L8-es Medisana HDW Manta calefactora lavable manta de peluche...'
 sku: 'B07XS7B7L8-es'
-tags: [ 'peluche', ]
 actualPrice: 59.53 EUR
 currency: EUR
 price: 59.53

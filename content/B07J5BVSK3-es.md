@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J5BVSK3-es KIDKA- Chef’s Cook N Create Island Cocina de Juguete de...'
 sku: 'B07J5BVSK3-es'
-tags: [ 'kidkraft', ]
 actualPrice: 79.05 EUR
 currency: EUR
 price: 79.05

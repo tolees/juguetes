@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KJLDF2-es Mattel Games UNO - Harry Potter Juego de Cartas Para Niños...'
 sku: 'B079KJLDF2-es'
-tags: [ 'mattel','juego','de','cartas', ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

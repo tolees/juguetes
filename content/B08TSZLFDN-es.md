@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TSZLFDN-es VCOSTORE Flip Plush Pulpo Toy Doll Reversible Pulpo...'
 sku: 'B08TSZLFDN-es'
-tags: [ 'peluche', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

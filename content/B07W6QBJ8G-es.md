@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QBJ8G-es LEGO Ninjago - Ciberdragón de Jay Set de Construcción con...'
 sku: 'B07W6QBJ8G-es'
-tags: [ 'lego', ]
 actualPrice: 42.71 EUR
 currency: EUR
 price: 42.71

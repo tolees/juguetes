@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WJV1NT-es Devir- Unbongo Junior BGUBONJTR'
 sku: 'B089WJV1NT-es'
-tags: [ 'devir-', ]
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQJ4NQ2-es Mattel BTS - Muñeco V figura de colección miembro banda...'
 sku: 'B07NQJ4NQ2-es'
-tags: [ 'mattel', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

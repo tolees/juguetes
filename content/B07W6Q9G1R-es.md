@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6Q9G1R-es LEGO Speed Champions - 1985 Audi Sport quattro S1 Juego de...'
 sku: 'B07W6Q9G1R-es'
-tags: [ 'lego', ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

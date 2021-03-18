@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RGVST1H-es Schmidt Spiele - Disney The Aristocats Puzzle 1.000 Teile'
 sku: 'B08RGVST1H-es'
-tags: [ 'puzzle', ]
 actualPrice: 14.85 EUR
 currency: EUR
 price: 14.85

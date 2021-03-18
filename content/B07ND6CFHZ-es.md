@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND6CFHZ-es LEGO Technic - Todoterreno Radical 4 x 4 Coche...'
 sku: 'B07ND6CFHZ-es'
-tags: [ 'lego', ]
 actualPrice: 172.46 EUR
 currency: EUR
 price: 172.46

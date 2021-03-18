@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNS6P77-es LEGO La LEGO Película 2 - Se presenta la Reina Soyloque...'
 sku: 'B07FNS6P77-es'
-tags: [ 'lego', ]
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

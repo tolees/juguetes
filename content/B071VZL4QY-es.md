@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VZL4QY-es Vampirina-78035 la Pensión del Terror Multicolor Bandai 78036'
 sku: 'B071VZL4QY-es'
-tags: [ 'bandai', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB5JWC4-es Hot Wheels Monster Trucks Vehículo Bone Shaker 1:24 coches...'
 sku: 'B07GB5JWC4-es'
-tags: [ 'juguetes','mattel', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

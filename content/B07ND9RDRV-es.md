@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND9RDRV-es LEGO Disney Princess - Aldea del Castillo de Arendelle Set...'
 sku: 'B07ND9RDRV-es'
-tags: [ 'lego', ]
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

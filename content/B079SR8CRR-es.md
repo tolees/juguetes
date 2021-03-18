@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SR8CRR-es Pinypon - Pack de 6 Figuras bebés Famosa 700014086'
 sku: 'B079SR8CRR-es'
-tags: [ 'Ciclismo','Culotes de ciclismo para hombre','Deportes y aire libre','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','Videojuegos','famosa','pinypon', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

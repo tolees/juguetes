@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7RZCVG-es Rolimate Hammering Pounding Toys Coloridos Juguetes de...'
 sku: 'B08J7RZCVG-es'
-tags: [ 'juguetes', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QHVPD42-es rolimate Coche teledirigido Coche RC 1:18 Potente...'
 sku: 'B08QHVPD42-es'
-tags: [ 'juguetes','coche','rc', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

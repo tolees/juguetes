@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXSB6M3-es 324 Piezas Pokemon Cartas Juego de Cartas Tarjetas de...'
 sku: 'B07YXSB6M3-es'
-tags: [ 'cartas','de','juego', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

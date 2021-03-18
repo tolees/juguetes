@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RNS7KRD-es Toy Story Figura Articulada Woody con voz 40 cm BIZAK...'
 sku: 'B07RNS7KRD-es'
-tags: [ 'bizak', ]
 actualPrice: 28.55 EUR
 currency: EUR
 price: 28.55

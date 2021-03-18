@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086VVDRBT-es Hot Wheels - Supergaraje garaje para coches de juguete...'
 sku: 'B086VVDRBT-es'
-tags: [ 'mattel', ]
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

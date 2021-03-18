@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001HN6EF4-es Juegos Mattel - Mattel Games UNO H20 To Go juego de cartas...'
 sku: 'B001HN6EF4-es'
-tags: [ 'mattel','juego','de','cartas', ]
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

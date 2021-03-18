@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GG1BHQC-es Hasbro Gaming- Risk Gaming Clasico Juego de Mesa...'
 sku: 'B01GG1BHQC-es'
-tags: [ 'hasbro', ]
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

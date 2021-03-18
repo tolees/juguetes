@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085WMPZYD-es Devir - Machi Koro Legacy BGMKLSP'
 sku: 'B085WMPZYD-es'
-tags: [ 'devir', ]
 actualPrice: 36.34 EUR
 currency: EUR
 price: 36.34

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PWLN3-es LEGO Speed Champions - Ferrari F8 Tributo Set de...'
 sku: 'B07W5PWLN3-es'
-tags: [ 'lego', ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

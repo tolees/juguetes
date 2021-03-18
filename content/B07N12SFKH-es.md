@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N12SFKH-es The Bellies From Bellyville - The Bellies - Mimi -Miao...'
 sku: 'B07N12SFKH-es'
-tags: [ 'famosa','the','bellies', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

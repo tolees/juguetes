@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6DJYSY-es BBLIKE Tangram Madera 36 Montessori Puzzle de Madera + 60...'
 sku: 'B07W6DJYSY-es'
-tags: [ 'juguetes','puzzle', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

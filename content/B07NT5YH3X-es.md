@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NT5YH3X-es yyhappy Childhood Mini Telescopio De Juguetes De Exterior...'
 sku: 'B07NT5YH3X-es'
-tags: [ 'juguetes', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

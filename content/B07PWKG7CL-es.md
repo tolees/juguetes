@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWKG7CL-es Juguetes Colgantes Carrito Bebe Cuna Cochecitos de...'
 sku: 'B07PWKG7CL-es'
-tags: [ 'juguetes','peluche', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

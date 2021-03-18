@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HCVP8C-es Toy Story - Figura Forky con Voz 18 cm Bizak 61234460'
 sku: 'B084HCVP8C-es'
-tags: [ 'bizak', ]
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

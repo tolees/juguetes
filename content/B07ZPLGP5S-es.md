@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPLGP5S-es Nerf N-Strike Elite Infinus'
 sku: 'B07ZPLGP5S-es'
-tags: [ 'nerf', ]
 actualPrice: 35.26 EUR
 currency: EUR
 price: 35.26

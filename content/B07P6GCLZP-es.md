@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6GCLZP-es SuperZings - Serie 4 - Display de 8 Vehículos MegaJet...'
 sku: 'B07P6GCLZP-es'
-tags: [ 'superzings', ]
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

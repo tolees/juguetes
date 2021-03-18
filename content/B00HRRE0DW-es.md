@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRE0DW-es SYLVANIAN FAMILIES- Soft Serve Ice Cream Shop Mini muñecas...'
 sku: 'B00HRRE0DW-es'
-tags: [ 'sylvanian','families', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

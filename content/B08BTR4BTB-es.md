@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BTR4BTB-es Toy Story Muñeco Forky Parlanchín Mattel GTL52'
 sku: 'B08BTR4BTB-es'
-tags: [ 'mattel', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

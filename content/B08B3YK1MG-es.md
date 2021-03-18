@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3YK1MG-es Air Hogs- Stunt Shot Juguete Bizak 61924647'
 sku: 'B08B3YK1MG-es'
-tags: [ 'bizak', ]
 actualPrice: 32.89 EUR
 currency: EUR
 price: 32.89

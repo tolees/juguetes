@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019DAUVTW-es Star Wars- Rogue One Rebels BladeBuilders Kanan Jarrus-...'
 sku: 'B019DAUVTW-es'
-tags: [ 'hasbro', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

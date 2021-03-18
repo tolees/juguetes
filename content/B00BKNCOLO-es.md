@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKNCOLO-es Geomag- Classic Glitter Construcciones magnéticas y Juegos...'
 sku: 'B00BKNCOLO-es'
-tags: [ 'geomag-', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

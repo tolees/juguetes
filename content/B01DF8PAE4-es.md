@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DF8PAE4-es Devir- King of New York Juego de Tablero BGHKINGNY'
 sku: 'B01DF8PAE4-es'
-tags: [ 'devir-', ]
 actualPrice: 28.26 EUR
 currency: EUR
 price: 28.26

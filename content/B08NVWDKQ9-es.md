@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08NVWDKQ9-es MAGIC BOX TOYS- POWERBOTS SUPERTHINGS Power Machines...'
 sku: 'B08NVWDKQ9-es'
-tags: [ 'juguetes','magic box toys','superthings', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

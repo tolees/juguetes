@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JCJNQPP-es PHYLES Cubos apilables Juguete de Taza apilable Torre...'
 sku: 'B08JCJNQPP-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

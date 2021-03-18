@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08442VZDS-es Barbie - Muñeca Teresa de Princess Adventure 29 cm con...'
 sku: 'B08442VZDS-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

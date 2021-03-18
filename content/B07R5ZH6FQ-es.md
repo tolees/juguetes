@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R5ZH6FQ-es Ravensburger - The Castles of Burgundy Versión Española...'
 sku: 'B07R5ZH6FQ-es'
-tags: [ 'ravensburger', ]
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

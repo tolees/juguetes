@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9YO22D-es Chicos Paw Patrol - Skye Pizarra Color púrpura Fábrica de...'
 sku: 'B01N9YO22D-es'
-tags: [ 'juguetes', ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

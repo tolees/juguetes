@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8PRCH6-es MaxTronic Coche RC 4x4 Radiocontrol 1:18 Juguete de...'
 sku: 'B07F8PRCH6-es'
-tags: [ 'coche','rc', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

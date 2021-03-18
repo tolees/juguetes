@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0063HNAHY-es Michelin Dynamic Sport 700X28 - Cubierta de bicicleta...'
 sku: 'B0063HNAHY-es'
-tags: [ 'bicicleta', ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

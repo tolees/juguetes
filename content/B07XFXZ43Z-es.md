@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFXZ43Z-es LEGO Star Wars - D-O Maqueta de Droide de La Guerra de las...'
 sku: 'B07XFXZ43Z-es'
-tags: [ 'lego', ]
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S4X3XY8-es Canal Toys- SLIMELICIOUS Factory SSC051 JUGUETE Color rosa...'
 sku: 'B07S4X3XY8-es'
-tags: [ 'canal','toys-', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

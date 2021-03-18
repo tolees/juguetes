@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W84P8QJ-es CubicFun Puzzles 3D Londres St.Paul s Cathedral...'
 sku: 'B07W84P8QJ-es'
-tags: [ 'rompecabezas', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

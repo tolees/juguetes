@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TM73M-es LEGO City Police - Policía: Atraco del Monster Truck Set...'
 sku: 'B07W7TM73M-es'
-tags: [ 'lego', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

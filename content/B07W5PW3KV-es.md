@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PW3KV-es LEGO Creator - Dragón Llameante Juguete de Construcción...'
 sku: 'B07W5PW3KV-es'
-tags: [ 'lego', ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8Z25CQ-es Barbie Chelsea Hora de ir a la escuela Muñeca con...'
 sku: 'B07X8Z25CQ-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

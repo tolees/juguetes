@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QBNM5-es LEGO City Turbo Wheels - Taller de Tuneo Juguete de...'
 sku: 'B07W6QBNM5-es'
-tags: [ 'lego', ]
 actualPrice: 86.21 EUR
 currency: EUR
 price: 86.21

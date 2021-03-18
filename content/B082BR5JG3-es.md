@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BR5JG3-es Minecraft Game La Batalla por la Piedra Roja Set de...'
 sku: 'B082BR5JG3-es'
-tags: [ 'lego', ]
 actualPrice: 46.46 EUR
 currency: EUR
 price: 46.46

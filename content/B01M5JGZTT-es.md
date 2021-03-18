@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5JGZTT-es Moma Bikes Bicicleta Infantil Montaña GTT24" Alu SHIMANO...'
 sku: 'B01M5JGZTT-es'
-tags: [ 'bicicleta', ]
 actualPrice: 238.9 EUR
 currency: EUR
 price: 238.9

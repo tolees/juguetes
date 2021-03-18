@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OKU1WWQ-es FEBER - Triciclo Baby Trike Easy Evolution Color Rosa...'
 sku: 'B00OKU1WWQ-es'
-tags: [ 'famosa','feber', ]
 actualPrice: 86.4 EUR
 currency: EUR
 price: 86.4

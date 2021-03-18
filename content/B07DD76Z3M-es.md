@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD76Z3M-es Pinypon - Purpurinizador De Estrellas Famosa 700014264'
 sku: 'B07DD76Z3M-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

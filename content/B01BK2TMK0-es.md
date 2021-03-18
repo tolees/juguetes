@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BK2TMK0-es LEGO DUPLO Town - Isla Tropical Nuevo set de construcción...'
 sku: 'B01BK2TMK0-es'
-tags: [ 'lego', ]
 actualPrice: 50.21 EUR
 currency: EUR
 price: 50.21

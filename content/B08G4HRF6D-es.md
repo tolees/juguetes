@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4HRF6D-es LEGO 60275 City Helicóptero de Policía Juguete de...'
 sku: 'B08G4HRF6D-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

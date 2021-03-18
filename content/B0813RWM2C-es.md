@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RWM2C-es LEGO Friends Friends Juguete Avión de Heartlake City Serie...'
 sku: 'B0813RWM2C-es'
-tags: [ 'lego', ]
 actualPrice: 58.46 EUR
 currency: EUR
 price: 58.46

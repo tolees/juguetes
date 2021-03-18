@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GZ1FRN-es Hasbro Gaming Juego de Habilidad Conecta 4 Multicolor...'
 sku: 'B071GZ1FRN-es'
-tags: [ 'hasbro', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

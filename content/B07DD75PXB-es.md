@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD75PXB-es L.O.L. Surprise! - LOL Surprise - Pop Up Store Playset con...'
 sku: 'B07DD75PXB-es'
-tags: [ 'l.o.l.', ]
 actualPrice: 30.88 EUR
 currency: EUR
 price: 30.88

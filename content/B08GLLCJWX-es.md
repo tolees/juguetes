@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GLLCJWX-es Cocoda Soporte Movil Bicicleta Desmontable Soporte Movil...'
 sku: 'B08GLLCJWX-es'
-tags: [ 'bicicleta', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

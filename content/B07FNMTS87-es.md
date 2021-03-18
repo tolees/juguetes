@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMTS87-es LEGO 10903 Duplo Town Parque de Bomberos Juguete de...'
 sku: 'B07FNMTS87-es'
-tags: [ 'lego', ]
 actualPrice: 43.46 EUR
 currency: EUR
 price: 43.46

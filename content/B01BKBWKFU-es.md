@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BKBWKFU-es Mattel Games - Pictionary Juegos de Mesa Mattel DKD51'
 sku: 'B01BKBWKFU-es'
-tags: [ 'mattel', ]
 actualPrice: 24.59 EUR
 currency: EUR
 price: 24.59

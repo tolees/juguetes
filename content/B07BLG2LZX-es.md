@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLG2LZX-es LEGO Creator Aerogenerador Vestas - Maqueta de Juguete de...'
 sku: 'B07BLG2LZX-es'
-tags: [ 'lego', ]
 actualPrice: 208.9 EUR
 currency: EUR
 price: 208.9

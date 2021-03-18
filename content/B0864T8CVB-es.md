@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0864T8CVB-es SuperThings Rivals of Kaboom - Secret Spies - Display de...'
 sku: 'B0864T8CVB-es'
-tags: [ 'Barajas de carta de juegos estándar','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Juego de mesa','Juegos de cartas','Juegos de construcción para niños','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muebles de TV y multimedia','Muebles de hogar','Muñecos y figuras','Playsets de figuras de acción para niños','Sillas Gaming','Videojuegos','superthings','superthings rivals of kaboom', ]
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

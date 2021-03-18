@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076FNDNMF-es Lepfun 1 x Rodilleras Compresión Rodilleras Deportivas...'
 sku: 'B076FNDNMF-es'
-tags: [ 'bicicleta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

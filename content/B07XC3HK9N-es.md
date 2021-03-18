@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC3HK9N-es Barbie Caravana para acampar 3 en 1 de Barbie con piscina...'
 sku: 'B07XC3HK9N-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

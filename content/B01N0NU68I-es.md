@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N0NU68I-es Fisher-Price - Pirámide balanceante - juguetes bebe 6...'
 sku: 'B01N0NU68I-es'
-tags: [ 'fisher-price','juguetes','mattel', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

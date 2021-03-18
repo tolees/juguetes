@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R1HZD-es LEGO 76165 Marvel Casco de Iron Man Set de Construcción y...'
 sku: 'B0813R1HZD-es'
-tags: [ 'lego', ]
 actualPrice: 46.46 EUR
 currency: EUR
 price: 46.46

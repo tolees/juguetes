@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085NMJG7Y-es HEALLILY Varillas de Sondeo Uretrales de Acero Inoxidable...'
 sku: 'B085NMJG7Y-es'
-tags: [ 'juguetes', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

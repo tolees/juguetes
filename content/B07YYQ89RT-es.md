@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YYQ89RT-es LEGO Technic - Fast & Furious Coche Dodge Charger de Dom...'
 sku: 'B07YYQ89RT-es'
-tags: [ 'lego', ]
 actualPrice: 84.71 EUR
 currency: EUR
 price: 84.71

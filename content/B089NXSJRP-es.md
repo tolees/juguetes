@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NXSJRP-es Mi Primer Coche radiocontrol - Silverlit Juguetes niños 2...'
 sku: 'B089NXSJRP-es'
-tags: [ 'juguetes','silverlit', ]
 actualPrice: 27.8 EUR
 currency: EUR
 price: 27.8

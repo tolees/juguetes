@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079S9KJFB-es Pinypon - Princesa Y Bruja Incluye 2 Figuras y Accesorios...'
 sku: 'B079S9KJFB-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

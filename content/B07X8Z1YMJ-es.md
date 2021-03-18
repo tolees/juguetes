@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8Z1YMJ-es Hot Wheels Track Builder Ilimitado con Lanzador Accesorios...'
 sku: 'B07X8Z1YMJ-es'
-tags: [ 'mattel', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

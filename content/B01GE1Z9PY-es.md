@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GE1Z9PY-es Pinypon by PINY Set de Cuatro muñecas Multicolor Famosa...'
 sku: 'B01GE1Z9PY-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

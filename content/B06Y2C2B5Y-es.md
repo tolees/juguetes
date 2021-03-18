@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y2C2B5Y-es Smash Up - Munchkin juego de cartas Edge Entertainment...'
 sku: 'B06Y2C2B5Y-es'
-tags: [ 'juego','de','cartas', ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

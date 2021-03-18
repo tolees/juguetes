@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081P5P1SM-es LEGO 75283 Star Wars Tanque Blindado de Asalto AAT™ Set de...'
 sku: 'B081P5P1SM-es'
-tags: [ 'lego', ]
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

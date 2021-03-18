@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749MJSRZ-es Star Wars- Resistance Ski Speeder Hasbro European Trading...'
 sku: 'B0749MJSRZ-es'
-tags: [ 'hasbro', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

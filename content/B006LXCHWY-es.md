@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006LXCHWY-es Nenuco - Pañales de Colores Famosa 700009027'
 sku: 'B006LXCHWY-es'
-tags: [ 'famosa', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

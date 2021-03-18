@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X1V7P3V-es Fisher-Price - Fisher Price Little People Juguete Bebe...'
 sku: 'B07X1V7P3V-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

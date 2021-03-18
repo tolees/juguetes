@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08LJNKFSW-es Nacon - Silla gaming PS4 official - 350ESS'
 sku: 'B08LJNKFSW-es'
-tags: [ 'Barajas de carta de juegos estándar','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Juego de mesa','Juegos de cartas','Juegos de construcción para niños','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','nacon','ps4', ]
 actualPrice: 168.99 EUR
 currency: EUR
 price: 168.99

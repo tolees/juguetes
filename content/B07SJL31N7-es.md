@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJL31N7-es Oonies Squeeze Center para Niños y Niñas a Partir de 5...'
 sku: 'B07SJL31N7-es'
-tags: [ 'famosa', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

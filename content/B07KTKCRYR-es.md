@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTKCRYR-es LEGO Friends - Remolque del Caballo de Mia Nuevo juguete...'
 sku: 'B07KTKCRYR-es'
-tags: [ 'Juegos de construcción para niños','lego','lego friends', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TP2FK-es LEGO Star Wars - Speeder Terrestre de Luke Skywalker...'
 sku: 'B07W7TP2FK-es'
-tags: [ 'lego', ]
 actualPrice: 24.71 EUR
 currency: EUR
 price: 24.71

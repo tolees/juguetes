@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BEEZ7XQ-es VTech - Pequephone bilingüe juguete bebé +6 meses teléfono...'
 sku: 'B00BEEZ7XQ-es'
-tags: [ 'vtech', ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

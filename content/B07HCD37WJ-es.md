@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HCD37WJ-es AGM Pedales Estaticos Mini Bicicleta Estática Pedaleador...'
 sku: 'B07HCD37WJ-es'
-tags: [ 'bicicleta', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

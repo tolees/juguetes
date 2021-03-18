@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XCWTF7-es Juguetes de Baño Niños 3+ Años Juguetes de Natación Playa...'
 sku: 'B075XCWTF7-es'
-tags: [ 'juguetes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MRQPMV-es Pinypon Action- Ladrón a la Prisión cárcel Centro...'
 sku: 'B088MRQPMV-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 41.78 EUR
 currency: EUR
 price: 41.78

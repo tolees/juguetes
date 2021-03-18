@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084KZY4ZP-es Cave Club Muñecas Pre-Históricas Pack 2 Fernessa y Furrah...'
 sku: 'B084KZY4ZP-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','cave club','mattel', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

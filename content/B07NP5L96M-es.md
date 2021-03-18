@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NP5L96M-es Nobleza - Árbol rascador para Gatos de Dos Plataformas con...'
 sku: 'B07NP5L96M-es'
-tags: [ 'juguetes', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

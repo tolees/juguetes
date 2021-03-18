@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLPVJK5-es Tablero de dibujo para niños Caballete de madera de doble...'
 sku: 'B08BLPVJK5-es'
-tags: [ 'juguetes', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

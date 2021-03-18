@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084R7TNG1-es Famosa Pin y Pon New Look Pelo Bicolor 700015560'
 sku: 'B084R7TNG1-es'
-tags: [ 'famosa','pin','pon','y', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

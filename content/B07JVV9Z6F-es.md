@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JVV9Z6F-es Hot Wheels Camión superchoques con un coche de juguete de...'
 sku: 'B07JVV9Z6F-es'
-tags: [ 'mattel', ]
 actualPrice: 19.03 EUR
 currency: EUR
 price: 19.03

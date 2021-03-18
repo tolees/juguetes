@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD72NKR-es Hasbro Gaming - Juego infantil Corona Comilona Hasbro...'
 sku: 'B07DD72NKR-es'
-tags: [ 'hasbro', ]
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

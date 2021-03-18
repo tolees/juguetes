@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KDX4WH-es Justice League Figura Orm 15 cm Mattel FWX64'
 sku: 'B079KDX4WH-es'
-tags: [ 'mattel', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

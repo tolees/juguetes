@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P1BVN1K-es LEGO Speed champion - 1974 Porsche 911 turbo 3.0 Set de...'
 sku: 'B07P1BVN1K-es'
-tags: [ 'lego', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

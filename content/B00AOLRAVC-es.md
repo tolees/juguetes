@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AOLRAVC-es Michelin Dynamic Sport 700X23 - Cubierta de bicicleta...'
 sku: 'B00AOLRAVC-es'
-tags: [ 'bicicleta', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

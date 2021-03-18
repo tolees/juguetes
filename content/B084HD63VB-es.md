@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HD63VB-es Educa- Faro Cerca del Océano Puzzle 3000 Piezas Multicolor...'
 sku: 'B084HD63VB-es'
-tags: [ 'puzzle', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

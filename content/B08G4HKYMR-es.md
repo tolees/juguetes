@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4HKYMR-es LEGO 60290 City Pista de Skate Set de Construcción con...'
 sku: 'B08G4HKYMR-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

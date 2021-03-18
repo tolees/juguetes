@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3VWJ58-es LEGO - Starter Pack Dimensions PS3'
 sku: 'B01G3VWJ58-es'
-tags: [ 'lego', ]
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

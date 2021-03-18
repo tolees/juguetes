@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GLMHSS8-es Barbie Vamos de viaje muñeca con accesorios edad...'
 sku: 'B07GLMHSS8-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

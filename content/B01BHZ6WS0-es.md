@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BHZ6WS0-es Kinetic Sand Playset Castillo Arena Kinética BIZAK...'
 sku: 'B01BHZ6WS0-es'
-tags: [ 'bizak','kinetic','sand', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

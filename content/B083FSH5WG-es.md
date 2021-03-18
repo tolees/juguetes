@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FSH5WG-es Tnfeeon Tren de apilamiento Juguetes de Tren de extracción...'
 sku: 'B083FSH5WG-es'
-tags: [ 'juguetes', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

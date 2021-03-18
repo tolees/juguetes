@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDBGW4F-es LEGO Disney Princess - Expedición en Canoa de Anna Incluye...'
 sku: 'B07NDBGW4F-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

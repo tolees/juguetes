@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QTVHK-es Ninjago Legacy 4+ Batalla en el Caza Supersónico Set Jet...'
 sku: 'B0813QTVHK-es'
-tags: [ 'lego', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

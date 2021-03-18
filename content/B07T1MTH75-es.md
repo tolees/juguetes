@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1MTH75-es AUNMAS Rompecabezas de Madera Modelo 3D Calendario...'
 sku: 'B07T1MTH75-es'
-tags: [ 'rompecabezas', ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC732ZW-es Disney Toy Story 4 Pack de aventuras de Woody y Perdigón...'
 sku: 'B07NC732ZW-es'
-tags: [ 'juguetes','mattel', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

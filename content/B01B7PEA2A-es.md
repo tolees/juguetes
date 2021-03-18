@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B7PEA2A-es Fisher-Price - Cebra parlanchina primeros pasos - andador...'
 sku: 'B01B7PEA2A-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

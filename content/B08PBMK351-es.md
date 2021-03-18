@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PBMK351-es Akokie - Dinosaurios Juguetes Camion Transportador con...'
 sku: 'B08PBMK351-es'
-tags: [ 'juguetes', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

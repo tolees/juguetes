@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082X24TKW-es COOLJOY 100 PCS Puzzles de Madera Magnético Puzzles...'
 sku: 'B082X24TKW-es'
-tags: [ 'rompecabezas', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

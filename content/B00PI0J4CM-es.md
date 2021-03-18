@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PI0J4CM-es Fisher-Price Móvil ositos voladores juguete de cuna...'
 sku: 'B00PI0J4CM-es'
-tags: [ 'Bebé','Calendarios de adviento de juguete','Ciclismo','Consolas Nintendo Switch','Culotes de ciclismo para hombre','Decoración para dormitorio de bebé','Deportes y aire libre','Dormitorio','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Móviles para bebé','Playsets de figuras de juguete para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','Vehículos de juguete para niños','Videojuegos','fisher-price','mattel', ]
 actualPrice: 36.85 EUR
 currency: EUR
 price: 36.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5J1WH7-es SuperZings - Power Tower Assault Adventure 3 PSZSP314IN01...'
 sku: 'B07P5J1WH7-es'
-tags: [ 'superzings', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

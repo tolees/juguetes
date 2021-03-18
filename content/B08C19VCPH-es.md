@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C19VCPH-es Peppa Pig Dentífrico Infantil Pasta De Dientes 75 ml'
 sku: 'B08C19VCPH-es'
-tags: [ 'peppa','pig', ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

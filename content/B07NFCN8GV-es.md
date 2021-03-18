@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFCN8GV-es The Bellies - Ropita divertida disfraz reversible Angelito...'
 sku: 'B07NFCN8GV-es'
-tags: [ 'bellies','famosa','the', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

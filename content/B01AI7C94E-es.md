@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AI7C94E-es Educa Borras - Genuine Puzzles Puzzle 2.000 piezas Monte...'
 sku: 'B01AI7C94E-es'
-tags: [ 'puzzle', ]
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVQSX7R-es Joyjoz Juego de Pesca para Niños 4 en 1 Juguetes de Madera...'
 sku: 'B08CVQSX7R-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

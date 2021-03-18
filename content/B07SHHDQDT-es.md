@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHHDQDT-es Juegos Bizak Benito Granitos BIZAK 61924324'
 sku: 'B07SHHDQDT-es'
-tags: [ 'bizak', ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

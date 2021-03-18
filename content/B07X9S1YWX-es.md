@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X9S1YWX-es Balas Nerf 100 DEWEL Dardos Nerf de 7.2cm'
 sku: 'B07X9S1YWX-es'
-tags: [ 'nerf', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

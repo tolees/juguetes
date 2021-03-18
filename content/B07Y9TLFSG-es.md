@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y9TLFSG-es Peradix ajedrez magnetico Plegable Juegos de Mesa Tablero...'
 sku: 'B07Y9TLFSG-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

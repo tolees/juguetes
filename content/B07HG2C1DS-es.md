@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG2C1DS-es Socialme-eu 8 Piezas Videojuego Logico Grillete Juego de...'
 sku: 'B07HG2C1DS-es'
-tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

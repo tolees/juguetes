@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R7SMF-es Super Heroes DC C Batman 4+ Caza del Pingüino en la...'
 sku: 'B0813R7SMF-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

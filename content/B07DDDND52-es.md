@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDDND52-es los Barriguitas - Party Truck Famosa 700014514'
 sku: 'B07DDDND52-es'
-tags: [ 'famosa', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

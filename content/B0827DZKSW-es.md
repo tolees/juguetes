@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0827DZKSW-es HellDoler Juguetes de Baño Huevo Flotante con Spray de...'
 sku: 'B0827DZKSW-es'
-tags: [ 'juguetes', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3S3M9J-es LEGO Harry Potter - Torre del Reloj de Hogwarts Set de...'
 sku: 'B07G3S3M9J-es'
-tags: [ 'lego', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

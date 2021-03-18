@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BKV7N2X-es BH Fitness - EVO - B2600A VELBOS- Bicicleta estática con...'
 sku: 'B08BKV7N2X-es'
-tags: [ 'bicicleta', ]
 actualPrice: 259.9 EUR
 currency: EUR
 price: 259.9

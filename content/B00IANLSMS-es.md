@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IANLSMS-es Hasbro - The Walking Dead Risk Board Game'
 sku: 'B00IANLSMS-es'
-tags: [ 'hasbro', ]
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

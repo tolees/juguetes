@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD5CYY2-es Cefa Toys- Equipo Profesional de Médico StreamCefa Color...'
 sku: 'B07DD5CYY2-es'
-tags: [ 'cefa', ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

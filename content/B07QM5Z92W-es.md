@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QM5Z92W-es Richgv 8.5 Pulgadas Tableta de Escritura LCD Tablero Negro...'
 sku: 'B07QM5Z92W-es'
-tags: [ 'juguetes', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

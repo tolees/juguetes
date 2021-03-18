@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXVKRCD-es Wimypet 10 Piezas Juguetes de Cuerda para Perros Grupo de...'
 sku: 'B07VXVKRCD-es'
-tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

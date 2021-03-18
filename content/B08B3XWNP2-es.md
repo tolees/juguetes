@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3XWNP2-es Bloques Madera Juguete Puzzle Juego Construcción...'
 sku: 'B08B3XWNP2-es'
-tags: [ 'puzzle', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

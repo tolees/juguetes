@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZYBYXXF-es Nerf Fortnite Basr- R Hasbro E7522EU4'
 sku: 'B07ZYBYXXF-es'
-tags: [ 'hasbro','nerf', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

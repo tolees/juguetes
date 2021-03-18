@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ6G63W-es TOP BRIGHT Juguetes Magnéticos para Niños Pequeños Juego...'
 sku: 'B07MJ6G63W-es'
-tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

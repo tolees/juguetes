@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CQ1N3TT-es Devir- Picnic Multicolor Varias color/modelo surtido'
 sku: 'B07CQ1N3TT-es'
-tags: [ 'devir-', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

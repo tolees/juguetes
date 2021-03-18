@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4D2NCG-es LEGO 71731 NINJAGO Set de Batalla Legendaria: Zane vs....'
 sku: 'B08G4D2NCG-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

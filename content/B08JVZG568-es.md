@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JVZG568-es BANDAI NAMCO Entertainment Iberica - Mxgp 2020'
 sku: 'B08JVZG568-es'
-tags: [ 'bandai', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

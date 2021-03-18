@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076V9ZDH1-es GOZAR Classic Fun Tetris Mano Held LCD Retro Juegos...'
 sku: 'B076V9ZDH1-es'
-tags: [ 'juguetes', ]
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TN6GW-es LEGO City Great Vehicles - Buldócer de Construcción set de...'
 sku: 'B07W7TN6GW-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

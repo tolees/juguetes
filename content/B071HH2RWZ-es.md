@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HH2RWZ-es Las aventuras de Ladybug Puzzle Multi 4en1 50-80-100-150...'
 sku: 'B071HH2RWZ-es'
-tags: [ 'puzzle', ]
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

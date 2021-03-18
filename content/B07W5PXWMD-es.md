@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PXWMD-es LEGO Ninjago - Mercado de Jugadores Juguete de...'
 sku: 'B07W5PXWMD-es'
-tags: [ 'lego', ]
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

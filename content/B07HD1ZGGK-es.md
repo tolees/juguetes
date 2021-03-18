@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HD1ZGGK-es Disney Toy Story 4 Figura Woody juguetes niños + 3 años...'
 sku: 'B07HD1ZGGK-es'
-tags: [ 'juguetes','mattel', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

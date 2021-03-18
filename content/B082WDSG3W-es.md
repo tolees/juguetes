@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WDSG3W-es LEGO 71365 Super Mario Set de Expansión: Superderrape de...'
 sku: 'B082WDSG3W-es'
-tags: [ 'lego', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

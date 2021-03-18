@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4P2B7B-es LEGO 31112 Creator 3en1 León Salvaje Avestruz y Jabalí Set...'
 sku: 'B08G4P2B7B-es'
-tags: [ 'lego', ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

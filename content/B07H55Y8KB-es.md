@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H55Y8KB-es Cinturón de Correr Chuangmeida Riñonera Cinturón Running...'
 sku: 'B07H55Y8KB-es'
-tags: [ 'bicicleta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

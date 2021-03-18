@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079YNHNM4-es Clementoni- Puzzle 500 Piezas Venecia iluminada 35056.8'
 sku: 'B079YNHNM4-es'
-tags: [ 'puzzle', ]
 actualPrice: 9.04 EUR
 currency: EUR
 price: 9.04

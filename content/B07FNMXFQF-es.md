@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMXFQF-es LEGO Technic - Vehículo Acrobático a Control Remoto Coche...'
 sku: 'B07FNMXFQF-es'
-tags: [ 'lego', ]
 actualPrice: 71.21 EUR
 currency: EUR
 price: 71.21

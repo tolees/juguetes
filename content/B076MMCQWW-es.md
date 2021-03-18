@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076MMCQWW-es Juegos Mattel - Mattel Games DOS juego de cartas de UNO...'
 sku: 'B076MMCQWW-es'
-tags: [ 'mattel','juego','de','cartas', ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

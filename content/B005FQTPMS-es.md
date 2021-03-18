@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FQTPMS-es Nerf - Nstrike Falconfire Hasbro B9839EU5'
 sku: 'B005FQTPMS-es'
-tags: [ 'hasbro','nerf', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RZKN6QD-es Cocopa - Coche teledirigido 4WD RC coche mando a distancia...'
 sku: 'B07RZKN6QD-es'
-tags: [ 'juguetes', ]
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

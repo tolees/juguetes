@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N48RVVF-es jerryvon - Dinosaurio Juguete con Sonido Ensamblar...'
 sku: 'B08N48RVVF-es'
-tags: [ 'juguetes', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TDTGM3F-es Fisher-Price - Correpasillos unicornio Andador bebés +1...'
 sku: 'B07TDTGM3F-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

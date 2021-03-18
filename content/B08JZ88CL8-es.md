@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JZ88CL8-es SUPERTHINGS RIVALS OF KABOOM- Battle Spinners Serie 7 2...'
 sku: 'B08JZ88CL8-es'
-tags: [ 'superthings', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

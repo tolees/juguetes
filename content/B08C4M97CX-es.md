@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C4M97CX-es Cocoda Portabidon Bicicleta Premium PC Soporte Botella...'
 sku: 'B08C4M97CX-es'
-tags: [ 'bicicleta', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

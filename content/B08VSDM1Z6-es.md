@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VSDM1Z6-es Fafrees Bicicleta de de Asistencia Eléctrica de 27.5...'
 sku: 'B08VSDM1Z6-es'
-tags: [ 'bicicleta', ]
 actualPrice: 1299.99 EUR
 currency: EUR
 price: 1299.99

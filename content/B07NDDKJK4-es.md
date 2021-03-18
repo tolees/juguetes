@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDDKJK4-es Famosa- Pinypon Cabeza sorpresa con 1 muñeca Multicolor...'
 sku: 'B07NDDKJK4-es'
-tags: [ 'pinypon', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

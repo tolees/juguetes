@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G44DS1X-es LEGO 41444 Friends Cafetería Orgánica de Heartlake City...'
 sku: 'B08G44DS1X-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

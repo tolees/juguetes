@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4FGQXB-es Devir- Dungeon Raiders única BGHRAI'
 sku: 'B07B4FGQXB-es'
-tags: [ 'devir-', ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

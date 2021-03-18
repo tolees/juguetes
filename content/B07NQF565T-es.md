@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQF565T-es Polly Pocket - Maletín del 30 aniversario Partytime...'
 sku: 'B07NQF565T-es'
-tags: [ 'mattel','pocket','polly', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

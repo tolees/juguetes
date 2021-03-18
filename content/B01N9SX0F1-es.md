@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9SX0F1-es Sylvanian Families- Nursery Friends Mini muñecas y...'
 sku: 'B01N9SX0F1-es'
-tags: [ 'sylvanian','families', ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

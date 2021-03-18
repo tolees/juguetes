@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND9TJF7-es LEGO Star Wars TM - Caza Estelar Ala-Y de la Resistencia...'
 sku: 'B07ND9TJF7-es'
-tags: [ 'lego', ]
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

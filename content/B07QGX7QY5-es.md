@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QGX7QY5-es Lego Disney Princess 43172 Palacio mágico de hielo de Elsa...'
 sku: 'B07QGX7QY5-es'
-tags: [ 'lego', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

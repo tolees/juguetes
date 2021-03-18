@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNS1R56-es Hot Wheels- Dino Challenge Circuito Slot Multicolor...'
 sku: 'B07CNS1R56-es'
-tags: [ 'juguetes', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TN6HQ-es LEGO Star Wars - Duelo en Mustafar Set de Construcción de...'
 sku: 'B07W7TN6HQ-es'
-tags: [ 'lego', ]
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

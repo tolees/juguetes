@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CFFBNZ2-es BANDAI NAMCO Entertainment Iberica - Ben 10: Power Trip!'
 sku: 'B08CFFBNZ2-es'
-tags: [ 'bandai', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N16CQYU-es Lego Worlds'
 sku: 'B01N16CQYU-es'
-tags: [ 'lego', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

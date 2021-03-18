@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T1JN6LF-es PHYLES Juguetes baño Bebe Juguetes baño flotantes...'
 sku: 'B08T1JN6LF-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LFOAQTU-es Air Hogs - Vectron Wave 2 Bizak 61924436 - colores surtidos'
 sku: 'B00LFOAQTU-es'
-tags: [ 'bizak', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

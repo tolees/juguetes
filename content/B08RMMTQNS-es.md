@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RMMTQNS-es LADUO Juguete de Mesa de Maquillaje para niñas 3en1 con...'
 sku: 'B08RMMTQNS-es'
-tags: [ 'juguetes', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

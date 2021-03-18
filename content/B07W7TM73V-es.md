@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TM73V-es LEGO City Police - Comisaría de policía juego de...'
 sku: 'B07W7TM73V-es'
-tags: [ 'Juegos de construcción para niños','lego','lego city police', ]
 actualPrice: 84.59 EUR
 currency: EUR
 price: 84.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5PQN7S-es Hot Wheels - Track Buider Caja de Acrobacias Deluxe...'
 sku: 'B07P5PQN7S-es'
-tags: [ 'mattel', ]
 actualPrice: 37.85 EUR
 currency: EUR
 price: 37.85

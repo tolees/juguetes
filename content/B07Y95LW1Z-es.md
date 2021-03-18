@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y95LW1Z-es Hot Wheels Monster Trucks Escorpión súper impulso pistas...'
 sku: 'B07Y95LW1Z-es'
-tags: [ 'mattel', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

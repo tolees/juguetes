@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
 sku: 'B07HY171SF-es'
-tags: [ 'fisher-price','juguetes','mattel', ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZPHDDG-es Teaisiy Juguetes para Niños 3-12 Años Juguetes Niño...'
 sku: 'B083ZPHDDG-es'
-tags: [ 'juguetes', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

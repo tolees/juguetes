@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NV4HW5L-es yoptote - Dinosaurios Juguetes Grande con 4 Figuras...'
 sku: 'B08NV4HW5L-es'
-tags: [ 'juguetes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

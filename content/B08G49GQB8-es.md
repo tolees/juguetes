@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G49GQB8-es LEGO 41662 Friends Cubo-Flamenco de Olivia Juguete...'
 sku: 'B08G49GQB8-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

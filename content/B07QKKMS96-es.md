@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKKMS96-es Hengxin Maillot Ciclismo Corto De Verano para Hombre Ropa...'
 sku: 'B07QKKMS96-es'
-tags: [ 'Accesorios para Juegos PC','Ciclismo','Culotes de ciclismo para hombre','Deportes y aire libre','Guantes de ciclismo para hombre','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos de construcción para niños','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Juguetes','Juguetes electrónicos','Juguetes y juegos','Karaokes para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Teclados para gamers para PC','Videojuegos','bicicleta','hengxin', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0001MEGSY-es Sylvanian Families - 4254 - Muebles Habitación Niños'
 sku: 'B0001MEGSY-es'
-tags: [ 'sylvanian','families', ]
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

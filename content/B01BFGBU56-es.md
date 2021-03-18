@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BFGBU56-es Fisher-Price Mando a distancia perrito juguete electrónico...'
 sku: 'B01BFGBU56-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

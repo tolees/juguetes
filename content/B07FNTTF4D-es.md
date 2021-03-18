@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNTTF4D-es LEGO City Great Vehicles - Yate de Buceo juguete creativo...'
 sku: 'B07FNTTF4D-es'
-tags: [ 'lego', ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

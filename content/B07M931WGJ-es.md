@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M931WGJ-es Nerf E6717EU4 Fortnite - Sp L Talla Única'
 sku: 'B07M931WGJ-es'
-tags: [ 'nerf', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

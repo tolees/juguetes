@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BDPWJ56-es Think Fun- Zingo Juego Bilingual Color Azul Ravensburger...'
 sku: 'B07BDPWJ56-es'
-tags: [ 'ravensburger', ]
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

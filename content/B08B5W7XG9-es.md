@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5W7XG9-es AniBlock puzzle challenger - diversión y forma creativa...'
 sku: 'B08B5W7XG9-es'
-tags: [ 'juguetes','puzzle', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

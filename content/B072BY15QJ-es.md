@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BY15QJ-es Devir Yangtze Miscelanea BGYANG'
 sku: 'B072BY15QJ-es'
-tags: [ 'devir', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

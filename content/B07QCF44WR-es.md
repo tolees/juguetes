@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QCF44WR-es Pinypon Escuela de Brujitas - Set de juguete y accesorios...'
 sku: 'B07QCF44WR-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 38.64 EUR
 currency: EUR
 price: 38.64

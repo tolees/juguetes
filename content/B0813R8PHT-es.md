@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R8PHT-es LEGO 75281 Star Wars Juguete Interceptor Jedi™ de Anakin...'
 sku: 'B0813R8PHT-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

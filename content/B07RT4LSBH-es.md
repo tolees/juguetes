@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RT4LSBH-es Frozen 2 Anna De Arendelle Hasbro E6845ES0 color/modelo...'
 sku: 'B07RT4LSBH-es'
-tags: [ 'hasbro', ]
 actualPrice: 32.11 EUR
 currency: EUR
 price: 32.11

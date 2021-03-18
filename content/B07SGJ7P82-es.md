@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGJ7P82-es FEBER - Palacio de Princesas Super Arandele de Disney...'
 sku: 'B07SGJ7P82-es'
-tags: [ 'famosa','feber', ]
 actualPrice: 187.44 EUR
 currency: EUR
 price: 187.44

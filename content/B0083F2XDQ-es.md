@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0083F2XDQ-es Mega Bloks Juego de construcción de 60 piezas bolsa...'
 sku: 'B0083F2XDQ-es'
-tags: [ 'juguetes','mattel','mega','bloks', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

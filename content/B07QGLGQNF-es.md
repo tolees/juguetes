@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QGLGQNF-es Pinypon Magic Secret Code - Gran Figura de 30cm Sorpresa...'
 sku: 'B07QGLGQNF-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

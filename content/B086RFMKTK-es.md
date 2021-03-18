@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086RFMKTK-es BANDAI NAMCO Entertainment Iberica - MotoGP20'
 sku: 'B086RFMKTK-es'
-tags: [ 'bandai', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

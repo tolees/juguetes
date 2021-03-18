@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FRJ21M-es Lictin Juguetes de Baño para Bebé Niños - 15PCS Juguetes...'
 sku: 'B083FRJ21M-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

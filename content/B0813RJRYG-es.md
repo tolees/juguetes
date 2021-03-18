@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRYG-es LEGO Friends Heartlake City Friends Playa Casa de Mini...'
 sku: 'B0813RJRYG-es'
-tags: [ 'lego', ]
 actualPrice: 38.96 EUR
 currency: EUR
 price: 38.96

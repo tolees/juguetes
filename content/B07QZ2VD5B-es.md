@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ2VD5B-es Libro Bebe BelleStyle Libro Texturas Bebe para Juguetes...'
 sku: 'B07QZ2VD5B-es'
-tags: [ 'juguetes', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

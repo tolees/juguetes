@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086RMKGFY-es DIWUJI - Juguetes Eléctricos para Peces Catnip 30CM...'
 sku: 'B086RMKGFY-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

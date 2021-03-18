@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S1JWGJK-es Headgy Casco de bicicleta para niños casco de seguridad...'
 sku: 'B07S1JWGJK-es'
-tags: [ 'bicicleta', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

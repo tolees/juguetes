@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I5N0FDG-es Educa- Encuentro de Dinosaurios Puzzle 500 Piezas...'
 sku: 'B00I5N0FDG-es'
-tags: [ 'puzzle', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

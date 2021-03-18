@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DR61XM8-es Hasbro- Super Mario Bros: Monopoly 20003172085'
 sku: 'B08DR61XM8-es'
-tags: [ 'monopoly', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

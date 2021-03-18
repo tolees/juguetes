@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4KTD3W-es Lego Architecture - LEGO 21051 Architecture Skyline...'
 sku: 'B07W4KTD3W-es'
-tags: [ 'lego','lego architecture', ]
 actualPrice: 51.98 EUR
 currency: EUR
 price: 51.98

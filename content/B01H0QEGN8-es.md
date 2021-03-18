@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H0QEGN8-es BANDAI NAMCO Entertainment Iberica - Tekken 7 - Standard...'
 sku: 'B01H0QEGN8-es'
-tags: [ 'bandai', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

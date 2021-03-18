@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TKDTTZ-es Jaques de Londres Juguemos a los Gatos Locos Apilables -...'
 sku: 'B085TKDTTZ-es'
-tags: [ 'juguetes', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

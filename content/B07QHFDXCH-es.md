@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QHFDXCH-es Sakami Merchandise One Piece Portgas Ruffy - Figura de...'
 sku: 'B07QHFDXCH-es'
-tags: [ 'peluche', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5R5ZFZ-es Banpresto Dragon Ball Match Makers Super Saiyan Broly...'
 sku: 'B07S5R5ZFZ-es'
-tags: [ 'bandai', ]
 actualPrice: 27.07 EUR
 currency: EUR
 price: 27.07

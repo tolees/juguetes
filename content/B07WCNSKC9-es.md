@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCNSKC9-es Beetest ES Juguetes de Madera NiñOs Motricidad Fina...'
 sku: 'B07WCNSKC9-es'
-tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 13.35 EUR
 currency: EUR
 price: 13.35

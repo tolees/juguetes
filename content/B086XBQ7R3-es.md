@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086XBQ7R3-es Buyger 3 en 1 Cocina Juguetes para Niños Utensilios Juego...'
 sku: 'B086XBQ7R3-es'
-tags: [ 'juguetes', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

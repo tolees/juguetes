@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QH9SN7-es Amaza 24pcs Squishys Kawaii Squishy Juguetes Squishies...'
 sku: 'B075QH9SN7-es'
-tags: [ 'juguetes', ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

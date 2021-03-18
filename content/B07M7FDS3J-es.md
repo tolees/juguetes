@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M7FDS3J-es Imaginext Jurassic World Tiranosaurio Megamandíbula...'
 sku: 'B07M7FDS3J-es'
-tags: [ 'mattel', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

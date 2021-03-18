@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BHO7OEC-es LEGO Star Wars: El Despertar De La Fuerza Episodio 7'
 sku: 'B01BHO7OEC-es'
-tags: [ 'lego', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

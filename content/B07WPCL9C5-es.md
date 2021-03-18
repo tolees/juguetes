@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPCL9C5-es Star Wars - Figura de acción de 12 5 cm de Chewbacca de...'
 sku: 'B07WPCL9C5-es'
-tags: [ 'hasbro', ]
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

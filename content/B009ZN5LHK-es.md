@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009ZN5LHK-es Elite Crono CX - Bidón para bicicleta'
 sku: 'B009ZN5LHK-es'
-tags: [ 'bicicleta', ]
 actualPrice: 51.73 EUR
 currency: EUR
 price: 51.73

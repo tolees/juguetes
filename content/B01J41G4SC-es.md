@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J41G4SC-es LEGO City - Centro de Control Móvil Juguete de Policía de...'
 sku: 'B01J41G4SC-es'
-tags: [ 'lego', ]
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

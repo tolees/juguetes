@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089N4SHGJ-es Rolimate Rompecabezas de Madera para niños Rompecabezas de...'
 sku: 'B089N4SHGJ-es'
-tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PKQ4CH1-es Symiu - Juguetes de Madera 2 En 1 Montessori Juegos de...'
 sku: 'B08PKQ4CH1-es'
-tags: [ 'juguetes', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

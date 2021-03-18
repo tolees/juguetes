@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4HBJ1J-es LEGO 71736 NINJAGO Legacy Destructor de Roca Avión de...'
 sku: 'B08G4HBJ1J-es'
-tags: [ 'lego', ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

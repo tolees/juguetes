@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WZQGB76-es Fisher Price - Mesita de Actividades Formas y Martillito...'
 sku: 'B07WZQGB76-es'
-tags: [ 'mattel', ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

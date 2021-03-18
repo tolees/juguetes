@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0896WS3TH-es Wimypet 4 Piezas Juguetes de Cuerda para Perros Juguetes...'
 sku: 'B0896WS3TH-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

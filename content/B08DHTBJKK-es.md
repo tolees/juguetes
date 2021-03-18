@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DHTBJKK-es LAPPAZO Juguete Coche de Globo Dinosaurio Coche Impulsado...'
 sku: 'B08DHTBJKK-es'
-tags: [ 'juguetes', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

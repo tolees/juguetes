@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4W31VQ-es LEGO 71735 NINJAGO Legacy Torneo de los Elementos Set de...'
 sku: 'B08G4W31VQ-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

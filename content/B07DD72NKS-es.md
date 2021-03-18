@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD72NKS-es Monopoly- Gamer Mario Kart Versión Española Multicolor...'
 sku: 'B07DD72NKS-es'
-tags: [ 'hasbro', ]
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

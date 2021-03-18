@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCVMBY6-es VCOSTORE Cubo de Juguete de 12 Lados Cubo de descompresión...'
 sku: 'B08HCVMBY6-es'
-tags: [ 'juguetes', ]
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

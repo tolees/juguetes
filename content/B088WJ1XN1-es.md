@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WJ1XN1-es Divgdovg Bicicleta estática Bicicleta de Ciclismo para...'
 sku: 'B088WJ1XN1-es'
-tags: [ 'bicicleta', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

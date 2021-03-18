@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTSGWDJ-es LEGO City Space Port - Cohete Espacial de Larga Distancia...'
 sku: 'B07KTSGWDJ-es'
-tags: [ 'lego', ]
 actualPrice: 83.96 EUR
 currency: EUR
 price: 83.96

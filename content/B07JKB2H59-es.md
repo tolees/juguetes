@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JKB2H59-es Juegos Mattel - Mattel Games UNO Flip Juegos de cartas...'
 sku: 'B07JKB2H59-es'
-tags: [ 'mattel', ]
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

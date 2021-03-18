@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNTTF4K-es LEGO Star Wars - Interceptor TIE Black Ace juguete de...'
 sku: 'B07FNTTF4K-es'
-tags: [ 'lego', ]
 actualPrice: 45.69 EUR
 currency: EUR
 price: 45.69

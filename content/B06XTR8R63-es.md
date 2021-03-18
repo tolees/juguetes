@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XTR8R63-es Winning Moves Mario Puzzle Super Mario & FRIENDS-500...'
 sku: 'B06XTR8R63-es'
-tags: [ 'puzzle', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

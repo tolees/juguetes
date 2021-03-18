@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PX1QP-es LEGO Friends - Bus de la Amistad Set de Construcción de...'
 sku: 'B07W5PX1QP-es'
-tags: [ 'lego', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

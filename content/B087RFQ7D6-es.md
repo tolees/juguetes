@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RFQ7D6-es GizmoVine Coche Teledirigido 1:14 Coche de Control Remoto...'
 sku: 'B087RFQ7D6-es'
-tags: [ 'juguetes', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

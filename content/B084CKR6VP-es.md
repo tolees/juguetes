@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084CKR6VP-es LEGO Brickheadz - LEGO Star Wars BrickHeadz - El...'
 sku: 'B084CKR6VP-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Discos duros externos','Embarcación de juguete para niños','Hardware y juegos para PlayStation 4','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Vehículos de juguete para niños','Videojuegos','lego','lego brickheadz', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

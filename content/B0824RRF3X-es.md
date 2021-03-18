@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824RRF3X-es Avengers Figuras Titan Capitán América Hasbro E7877ES0'
 sku: 'B0824RRF3X-es'
-tags: [ 'hasbro', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

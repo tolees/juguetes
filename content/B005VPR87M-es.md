@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VPR87M-es Educa Borrás- Serie puzzle 1000 piezas Los héroes de...'
 sku: 'B005VPR87M-es'
-tags: [ 'puzzle', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

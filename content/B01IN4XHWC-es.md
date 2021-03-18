@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IN4XHWC-es Fisher-Price Maletín pequeño doctor juego de rol niño +3...'
 sku: 'B01IN4XHWC-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

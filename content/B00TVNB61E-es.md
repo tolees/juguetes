@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TVNB61E-es Clementoni - Puzzle 13.200 Piezas New York 38009'
 sku: 'B00TVNB61E-es'
-tags: [ 'clementoni','puzzle', ]
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

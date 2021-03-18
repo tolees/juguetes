@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PXDWT-es LEGO City Great Vehicles - Barredora Urbana Juguete de...'
 sku: 'B07W5PXDWT-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

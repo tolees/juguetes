@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DFM7HVK-es LEGO 42114 Technic Dúmper Articulado Volvo 6x6 Camión de...'
 sku: 'B00DFM7HVK-es'
-tags: [ 'lego', ]
 actualPrice: 206.49 EUR
 currency: EUR
 price: 206.49

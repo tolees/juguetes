@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CM99YRL-es Nerf - Laser Ops Deltaburst Hasbro E2279EU4'
 sku: 'B07CM99YRL-es'
-tags: [ 'hasbro','nerf', ]
 actualPrice: 25.03 EUR
 currency: EUR
 price: 25.03

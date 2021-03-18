@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000TFLAZA-es Baby Einstein Juguete Pulpo de peluche 3 Idiomas'
 sku: 'B000TFLAZA-es'
-tags: [ 'peluche', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

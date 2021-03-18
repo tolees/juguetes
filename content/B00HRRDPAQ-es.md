@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRDPAQ-es SYLVANIAN FAMILIES Día en la Playa Epoch para Imaginar 4870'
 sku: 'B00HRRDPAQ-es'
-tags: [ 'families','sylvanian', ]
 actualPrice: 26.65 EUR
 currency: EUR
 price: 26.65

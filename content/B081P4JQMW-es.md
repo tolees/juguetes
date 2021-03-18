@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081P4JQMW-es DDYX2020 - Stunt Coche Teledirigido Anfibio Coche de...'
 sku: 'B081P4JQMW-es'
-tags: [ 'juguetes', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

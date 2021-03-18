@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQGD7PH-es jerryvon Mosaico Puzzle con Rejilla y Taladro Eléctrico...'
 sku: 'B07WQGD7PH-es'
-tags: [ 'Mosaicos para niños','jerryvon','puzzle', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

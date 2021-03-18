@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QPZTR-es LEGO 60260 City Carrera Aérea Aeropuerto de Juguete Set...'
 sku: 'B0813QPZTR-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

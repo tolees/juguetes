@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y95M5ZR-es Hot Wheels Pista y Garaje para Coches de Juguetes Regalo...'
 sku: 'B07Y95M5ZR-es'
-tags: [ 'juguetes','mattel', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

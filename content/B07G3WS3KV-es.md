@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3WS3KV-es Lego Creator - Lego Ideas - NASA Apollo 11 Lunar Lander...'
 sku: 'B07G3WS3KV-es'
-tags: [ 'lego','lego creator', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

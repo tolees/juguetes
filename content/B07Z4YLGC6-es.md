@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4YLGC6-es SKYSPER Pantalones Largos de Ciclismo para Hombre...'
 sku: 'B07Z4YLGC6-es'
-tags: [ 'bicicleta', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

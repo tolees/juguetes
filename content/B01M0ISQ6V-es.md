@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0ISQ6V-es Manguitos Hinchables Bestway Barbie'
 sku: 'B01M0ISQ6V-es'
-tags: [ 'barbie', ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

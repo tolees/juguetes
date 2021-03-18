@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G49JLDQ-es LEGO 41442 Friends Buggy de Rescate de la Clínica...'
 sku: 'B08G49JLDQ-es'
-tags: [ 'lego', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

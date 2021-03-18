@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFQQXNR-es Wizies - 24 figuritas Famosa 700014322 color/modelo surtido'
 sku: 'B07BFQQXNR-es'
-tags: [ 'famosa','wizies', ]
 actualPrice: 13.08 EUR
 currency: EUR
 price: 13.08

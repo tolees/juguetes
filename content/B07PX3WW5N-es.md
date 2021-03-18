@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PX3WW5N-es LEGO 21318 La casa del árbol r Ideas'
 sku: 'B07PX3WW5N-es'
-tags: [ 'lego', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

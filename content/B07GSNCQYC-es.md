@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSNCQYC-es Jurassic World Stegosaurus Figura Dinosaurio de Juguete...'
 sku: 'B07GSNCQYC-es'
-tags: [ 'mattel', ]
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

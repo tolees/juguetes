@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BN6MMTQ-es TOIMS Cars - Bicicleta Infantil para niño Color Rojo...'
 sku: 'B01BN6MMTQ-es'
-tags: [ 'bicicleta', ]
 actualPrice: 96.77 EUR
 currency: EUR
 price: 96.77

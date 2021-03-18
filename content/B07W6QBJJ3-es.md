@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6QBJJ3-es LEGO City Turbo Wheels - Gasolinera Set de Construcción de...'
 sku: 'B07W6QBJJ3-es'
-tags: [ 'lego', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRXD-es LEGO City Oceans Océano Exploración Set Aguas Profundas...'
 sku: 'B0813RJRXD-es'
-tags: [ 'juguetes','lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

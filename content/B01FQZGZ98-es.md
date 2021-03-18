@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FQZGZ98-es Bizak Comiditas - Juego para cocinar 63120001'
 sku: 'B01FQZGZ98-es'
-tags: [ 'bizak', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

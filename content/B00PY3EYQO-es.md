@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PY3EYQO-es LEGO Classic - Caja de ladrillos creativos grande Set de...'
 sku: 'B00PY3EYQO-es'
-tags: [ 'lego', ]
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

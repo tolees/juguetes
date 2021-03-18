@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KGBYRD-es Polly Pocket Habitación Polly-Transformación casa de...'
 sku: 'B079KGBYRD-es'
-tags: [ 'mattel','pocket','polly', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

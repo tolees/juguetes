@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CKLZJ6Q-es PrimeMatik - Soporte de Pared con Gancho Plegable para...'
 sku: 'B01CKLZJ6Q-es'
-tags: [ 'bicicleta', ]
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

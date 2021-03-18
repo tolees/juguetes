@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DHRP2BT-es ATOPDREAM 3-12 Años Juguetes Regalos de Niñas de 4 5 6 7 8...'
 sku: 'B08DHRP2BT-es'
-tags: [ 'juguetes', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

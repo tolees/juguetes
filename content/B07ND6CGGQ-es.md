@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND6CGGQ-es LEGO DUPLO Princess TM - Frozen Castillo de Hielo Juguete...'
 sku: 'B07ND6CGGQ-es'
-tags: [ 'lego', ]
 actualPrice: 42.74 EUR
 currency: EUR
 price: 42.74

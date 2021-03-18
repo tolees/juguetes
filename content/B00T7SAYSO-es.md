@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T7SAYSO-es LEGO DUPLO - Town Aeropuerto Juguete de Construcción de...'
 sku: 'B00T7SAYSO-es'
-tags: [ 'lego', ]
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

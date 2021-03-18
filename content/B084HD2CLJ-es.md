@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HD2CLJ-es Educa- Tienda de Antigüedades Puzzle 500 Piezas Multicolor...'
 sku: 'B084HD2CLJ-es'
-tags: [ 'puzzle', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

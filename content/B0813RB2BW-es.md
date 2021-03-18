@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RB2BW-es DUPLO Town DUPLO Construction Buldócer Vehículo de...'
 sku: 'B0813RB2BW-es'
-tags: [ 'lego', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

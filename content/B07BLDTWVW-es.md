@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLDTWVW-es LEGO Harry Potter TM-Castillo de Hogwarts maqueta de...'
 sku: 'B07BLDTWVW-es'
-tags: [ 'lego', ]
 actualPrice: 419.89 EUR
 currency: EUR
 price: 419.89

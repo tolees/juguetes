@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4K8Y1F-es LEGO 42118 Technic Monster Jam Grave Digger Modelo 2 en 1...'
 sku: 'B08G4K8Y1F-es'
-tags: [ 'lego', ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

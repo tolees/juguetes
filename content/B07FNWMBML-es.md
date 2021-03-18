@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNWMBML-es LEGO Creator - Reactor Futurista Juguete 3 en 1 de...'
 sku: 'B07FNWMBML-es'
-tags: [ 'lego', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

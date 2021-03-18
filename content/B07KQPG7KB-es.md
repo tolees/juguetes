@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQPG7KB-es Furreal Friends - Peluche interactivo Cubby Mi Oso Curioso...'
 sku: 'B07KQPG7KB-es'
-tags: [ 'hasbro','peluche', ]
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

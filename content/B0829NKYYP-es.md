@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0829NKYYP-es Nerf-Ultra One Hasbro E65964R0'
 sku: 'B0829NKYYP-es'
-tags: [ 'hasbro', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y5YBQ8C-es Jurassic World T.Rex Épico Mattel GJT60'
 sku: 'B07Y5YBQ8C-es'
-tags: [ 'mattel', ]
 actualPrice: 40.97 EUR
 currency: EUR
 price: 40.97

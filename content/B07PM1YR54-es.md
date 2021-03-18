@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PM1YR54-es Dragon Ball Z - Figura de colección Android Número 18...'
 sku: 'B07PM1YR54-es'
-tags: [ 'bandai', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

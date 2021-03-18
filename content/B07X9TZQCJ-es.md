@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X9TZQCJ-es LEGO 75549 Minions Persecución en la Moto Imparable...'
 sku: 'B07X9TZQCJ-es'
-tags: [ 'lego', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792RDN2V-es LEGO 75954 Harry Potter Gran Comedor de Hogwarts - Juguete...'
 sku: 'B0792RDN2V-es'
-tags: [ 'lego', ]
 actualPrice: 84.71 EUR
 currency: EUR
 price: 84.71

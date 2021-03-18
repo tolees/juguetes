@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KKSN17-es Mega Bloks Garaje de coches de carreras juguete...'
 sku: 'B079KKSN17-es'
-tags: [ 'mattel','mega','bloks', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

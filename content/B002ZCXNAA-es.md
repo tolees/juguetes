@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002ZCXNAA-es Ravensburger 22009 Make n Break Junior Juego de Mesa para...'
 sku: 'B002ZCXNAA-es'
-tags: [ 'ravensburger', ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

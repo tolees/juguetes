@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001TH4YO6-es Peppa Pig - Peluche 25 cm color rosa TY 96230TY'
 sku: 'B001TH4YO6-es'
-tags: [ 'peluche','peppa','pig', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

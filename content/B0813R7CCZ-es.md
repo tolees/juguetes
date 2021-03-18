@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813R7CCZ-es DOTS Home Decor Joyero Set de Cuentas DIY Arte y...'
 sku: 'B0813R7CCZ-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

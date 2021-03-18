@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M59XVMT-es Disney Princess - Ariel Música Hasbro E4638ES0'
 sku: 'B07M59XVMT-es'
-tags: [ 'hasbro', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

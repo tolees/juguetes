@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0728L2ZKZ-es Oonies Estudio de globos Famosa 700013962'
 sku: 'B0728L2ZKZ-es'
-tags: [ 'famosa', ]
 actualPrice: 22.97 EUR
 currency: EUR
 price: 22.97

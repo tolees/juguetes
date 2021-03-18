@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHC2XQH-es yoptote 224 PCS Juguetes Montessori Puzzles 3D Mosaicos...'
 sku: 'B07PHC2XQH-es'
-tags: [ 'juguetes', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

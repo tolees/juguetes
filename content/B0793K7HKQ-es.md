@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793K7HKQ-es Educa Borrás- Serie Puzzle 500 Piezas Princesas Disney 17723'
 sku: 'B0793K7HKQ-es'
-tags: [ 'puzzle', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

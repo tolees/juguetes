@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HGYNFP1-es Transformers War For Cybertron Deluxe Cheetor Hasbro F06695X0'
 sku: 'B08HGYNFP1-es'
-tags: [ 'hasbro', ]
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

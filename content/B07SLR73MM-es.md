@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SLR73MM-es Pinypon Action - Súper Coche con la Figura de un espía y...'
 sku: 'B07SLR73MM-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

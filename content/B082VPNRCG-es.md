@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VPNRCG-es BeebeeRun Dibujo Pizarra 2 en 1 Pizarras mágicas para...'
 sku: 'B082VPNRCG-es'
-tags: [ 'Accesorios para PlayStation 4','Actividades creativas','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Packs de accesorios para PlayStation 4','Pizarras mágicas para niños','Pizarras para niños','Sistemas precursores y micro consolas','Videojuegos','beebeerun','juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

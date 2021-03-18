@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NFETGHQ-es Fisher-Price - Gimnasio crece conmigo - gimasios bebe -...'
 sku: 'B00NFETGHQ-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

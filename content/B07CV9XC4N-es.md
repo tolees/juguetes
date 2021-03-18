@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CV9XC4N-es himaly Mini Bicicleta de Ejercicio portátil casa Pedal...'
 sku: 'B07CV9XC4N-es'
-tags: [ 'bicicleta', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

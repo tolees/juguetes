@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NP2SBAG-es HOMCOM Alfombra Puzzle para Niños 31x31cm 36 Piezas...'
 sku: 'B00NP2SBAG-es'
-tags: [ 'puzzle', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

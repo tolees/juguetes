@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLG43GR-es LEGO Creator - James Bond Aston Martin DB5 detallada...'
 sku: 'B07BLG43GR-es'
-tags: [ 'lego', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

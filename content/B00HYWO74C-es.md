@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HYWO74C-es Hasbro Gaming - Games - Conecta 4 Hasbro A5640175'
 sku: 'B00HYWO74C-es'
-tags: [ 'hasbro', ]
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

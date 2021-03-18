@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLJJX99-es LEGO Super Heroes - Vengadores: Derribo del Camión Set de...'
 sku: 'B07WLJJX99-es'
-tags: [ 'lego', ]
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

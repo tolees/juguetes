@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G1X3PJP-es AngLink Funda protectora impermeable 210D protección...'
 sku: 'B07G1X3PJP-es'
-tags: [ 'bicicleta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

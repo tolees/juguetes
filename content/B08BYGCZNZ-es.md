@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYGCZNZ-es BelleStyle Juegos Educativos 2 Años Puzzles de Madera del...'
 sku: 'B08BYGCZNZ-es'
-tags: [ 'juguetes','puzzle', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NGX7TDN-es Barbie Fashionista Armario portable con muñeca incluida...'
 sku: 'B07NGX7TDN-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

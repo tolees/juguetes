@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH1S3CX-es Barbie - Muñecas Barbie y Chelsea con caballos y...'
 sku: 'B07NH1S3CX-es'
-tags: [ 'Accesorios para Nintendo Switch','Bebé','Calendarios de adviento de juguete','Coleccionables','Consolas Nintendo Switch','Decoración para dormitorio de bebé','Dormitorio','Electrónica','Electrónica para moto','Electrónica para vehículos','Hardware y juegos para Nintendo Switch','Juego de mesa','Juegos de construcción para niños','Juegos de misterio','Juegos de tablero','Juegos para Nintendo Switch','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecas fashion','Muñecas fashion y accesorios','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Móviles para bebé','Playsets de figuras de acción para niños','Playsets de figuras de juguete para niños','Sets de accesorios','Soportes para moto','Vehículos de juguete para niños','Videojuegos','barbie','mattel', ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08483XCXQ-es Hasbro Gaming- Cluedo 38712793'
 sku: 'B08483XCXQ-es'
-tags: [ 'Juegos de misterio','hasbro','hasbro gaming', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

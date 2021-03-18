@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NZ6NBQW-es LEGO City Town - Estación de Esquí Set de construcción...'
 sku: 'B07NZ6NBQW-es'
-tags: [ 'lego', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

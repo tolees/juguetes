@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXHGM66-es Espejos Retrovisores de Moto 7/8’’Retrovisores Moto...'
 sku: 'B07VXHGM66-es'
-tags: [ 'bicicleta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

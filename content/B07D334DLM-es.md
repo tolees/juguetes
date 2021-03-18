@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D334DLM-es Grupo K-2 Riscko - Bicicleta sin Pedales con sillín Y...'
 sku: 'B07D334DLM-es'
-tags: [ 'bicicleta', ]
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

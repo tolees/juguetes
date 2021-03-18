@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFXZ4B7-es LEGO 75277 Star Wars Casco de Boba Fett Set de...'
 sku: 'B07XFXZ4B7-es'
-tags: [ 'lego', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

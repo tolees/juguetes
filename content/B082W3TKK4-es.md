@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082W3TKK4-es Jacootoys Animal Laberintos de Abalorios Madera Cuentas...'
 sku: 'B082W3TKK4-es'
-tags: [ 'juguetes', ]
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

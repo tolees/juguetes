@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4FLP8Q-es LEGO 60285 City Deportivo Coche de Carreras Descapotable...'
 sku: 'B08G4FLP8Q-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

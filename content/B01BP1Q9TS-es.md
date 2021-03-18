@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BP1Q9TS-es Trivial Pursuit Star Wars Hasbro B8615105'
 sku: 'B01BP1Q9TS-es'
-tags: [ 'hasbro', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

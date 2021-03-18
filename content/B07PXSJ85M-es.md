@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PXSJ85M-es Fisher-price perezoso linkimals juguete interactivo bebés...'
 sku: 'B07PXSJ85M-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

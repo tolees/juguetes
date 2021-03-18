@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PJNZXG-es Star Wars-40 Aniversario Figura ATAT Driver Hasbro E8079'
 sku: 'B083PJNZXG-es'
-tags: [ 'hasbro', ]
 actualPrice: 23.83 EUR
 currency: EUR
 price: 23.83

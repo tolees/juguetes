@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6Q9JXK-es LEGO City Police - Policía: Camión de Transporte del...'
 sku: 'B07W6Q9JXK-es'
-tags: [ 'Juegos de construcción para niños','lego','lego city police', ]
 actualPrice: 42.07 EUR
 currency: EUR
 price: 42.07

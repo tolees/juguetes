@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDDJMNC-es Furreal Friends Hasbro E0388105 - Lolo Mi Loro Molón'
 sku: 'B07DDDJMNC-es'
-tags: [ 'hasbro', ]
 actualPrice: 49.2 EUR
 currency: EUR
 price: 49.2

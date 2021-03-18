@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWHWSW9-es Mattel- Toy Story Figura Woody 20 cm Multicolor GDP68'
 sku: 'B07FWHWSW9-es'
-tags: [ 'mattel-', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

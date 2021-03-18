@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BJ2VGUA-es Peppa Pig - Puzzle progresivo 12 20 y 25 piezas Educa...'
 sku: 'B01BJ2VGUA-es'
-tags: [ 'peppa','pig','puzzle', ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

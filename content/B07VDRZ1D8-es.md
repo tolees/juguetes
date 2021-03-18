@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDRZ1D8-es Aizhy Bomba para Bicicleta Bomba ergonómica para Piso de...'
 sku: 'B07VDRZ1D8-es'
-tags: [ 'bicicleta', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

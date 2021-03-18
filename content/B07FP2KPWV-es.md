@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP2KPWV-es LEGO Technic - Helicóptero de Rescate maqueta de juguete...'
 sku: 'B07FP2KPWV-es'
-tags: [ 'lego', ]
 actualPrice: 24.71 EUR
 currency: EUR
 price: 24.71

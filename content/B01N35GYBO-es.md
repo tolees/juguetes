@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N35GYBO-es Disney Traditions Figura de Hakuna Matata: Pumba Timón y...'
 sku: 'B01N35GYBO-es'
-tags: [ 'simba', ]
 actualPrice: 66.91 EUR
 currency: EUR
 price: 66.91

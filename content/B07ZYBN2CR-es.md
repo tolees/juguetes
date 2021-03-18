@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYBN2CR-es Estadio Hypersphere Vortex Climb Hasbro E7621EU4'
 sku: 'B07ZYBN2CR-es'
-tags: [ 'hasbro', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q385JSZ-es Ravensburger - Multipack Memory+ 3 puzzle Gormiti 20519'
 sku: 'B07Q385JSZ-es'
-tags: [ 'puzzle','ravensburger', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AT5MI50-es Barbie - Muñeca Fashion Star Trek 50 Aniversario Mr. Spock...'
 sku: 'B01AT5MI50-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

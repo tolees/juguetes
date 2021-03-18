@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C2T48LS-es Ravensburger 21353 - Juego para niños'
 sku: 'B01C2T48LS-es'
-tags: [ 'ravensburger', ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

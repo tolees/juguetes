@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086DN7QQK-es ColiCor Display Stand Soporte para Lego 42083 Technic...'
 sku: 'B086DN7QQK-es'
-tags: [ 'lego', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

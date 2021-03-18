@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813S3VDM-es LEGO 75979 Harry Potter Hedwig Juguete de Construcción de...'
 sku: 'B0813S3VDM-es'
-tags: [ 'Accesorios para PlayStation 4','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Packs de accesorios para PlayStation 4','Sistemas precursores y micro consolas','Videojuegos','lego', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

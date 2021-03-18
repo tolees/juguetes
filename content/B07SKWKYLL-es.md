@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKWKYLL-es Baby Shark - Peluche Musical Baby Shark Bandai SS92510'
 sku: 'B07SKWKYLL-es'
-tags: [ 'bandai','peluche', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P0K8FZW-es Nerf - Zombie Strike Flipfury Hasbro A9603EU4'
 sku: 'B00P0K8FZW-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Aire libre y deportes','Armas y proyectiles de juguete','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Videojuegos','hasbro','nerf', ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

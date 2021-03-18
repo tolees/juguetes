@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013RM25KU-es Ravensburger - Scotland Yard Juego de Mesa 26673 9'
 sku: 'B013RM25KU-es'
-tags: [ 'ravensburger', ]
 actualPrice: 32 EUR
 currency: EUR
 price: 32

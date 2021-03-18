@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R25H5ND-es Banpresto - Disney Character Scar Bandai 85652'
 sku: 'B07R25H5ND-es'
-tags: [ 'bandai', ]
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

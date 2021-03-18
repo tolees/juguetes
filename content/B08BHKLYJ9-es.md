@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHKLYJ9-es Zeroall 12" Seguridad Bicicleta sin Pedales para Niños de...'
 sku: 'B08BHKLYJ9-es'
-tags: [ 'bicicleta', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

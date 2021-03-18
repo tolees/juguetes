@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0793FCXL5-es Educa Borras - Genuine Puzzles Puzzle 1.500 piezas...'
 sku: 'B0793FCXL5-es'
-tags: [ 'puzzle', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

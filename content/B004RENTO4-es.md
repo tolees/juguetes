@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004RENTO4-es Theo Klein 8493 Cinturón de herramientas Bosch Con...'
 sku: 'B004RENTO4-es'
-tags: [ 'klein','theo', ]
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

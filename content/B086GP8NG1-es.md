@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GP8NG1-es Juego de filtros antipolvo para máscara PM 2 5 antiniebla...'
 sku: 'B086GP8NG1-es'
-tags: [ 'bicicleta', ]
 actualPrice: 3.52 EUR
 currency: EUR
 price: 3.52

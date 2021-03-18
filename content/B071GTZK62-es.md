@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GTZK62-es BH Fitness I.Brazil Bicicleta Elíptica Unisex Blanco Talla...'
 sku: 'B071GTZK62-es'
-tags: [ 'bicicleta', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

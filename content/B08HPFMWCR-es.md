@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HPFMWCR-es LUOWAN 1:28 Coche Teledirigido 2.4GHz Stunt RC Car Doble...'
 sku: 'B08HPFMWCR-es'
-tags: [ 'juguetes', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

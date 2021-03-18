@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXRHMK9-es Caminata y Canto eléctrico Unicornio de Peluche de Juguete...'
 sku: 'B07TXRHMK9-es'
-tags: [ 'peluche', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

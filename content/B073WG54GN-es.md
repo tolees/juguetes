@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WG54GN-es Clementoni Puzzle 1000 Piezas Marvel 80 Years Multicolor...'
 sku: 'B073WG54GN-es'
-tags: [ 'clementoni','puzzle', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

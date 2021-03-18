@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LYWG9SF-es yoptote - Dinosaurios Camión Juguetes Remolque para Coche...'
 sku: 'B08LYWG9SF-es'
-tags: [ 'juguetes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

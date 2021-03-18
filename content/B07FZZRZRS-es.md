@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZZRZRS-es Tire Hacia Atrás el Coches de Juguetes Miniature Camion...'
 sku: 'B07FZZRZRS-es'
-tags: [ 'juguetes', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

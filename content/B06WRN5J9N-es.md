@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRN5J9N-es Beyblade - Estadio Basico Hasbro C0704EU4'
 sku: 'B06WRN5J9N-es'
-tags: [ 'hasbro', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

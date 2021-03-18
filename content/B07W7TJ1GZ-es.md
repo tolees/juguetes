@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TJ1GZ-es LEGO Ninjago - Deportivo Sísmico de Cole Set de...'
 sku: 'B07W7TJ1GZ-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

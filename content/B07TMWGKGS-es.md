@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TMWGKGS-es TURATA Bolsas de Bicicleta Bolsa Impermeable para...'
 sku: 'B07TMWGKGS-es'
-tags: [ 'bicicleta', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

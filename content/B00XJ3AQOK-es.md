@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJ3AQOK-es Trust Gaming GXT 322 Carus Auriculares Gamer con Micrófono...'
 sku: 'B00XJ3AQOK-es'
-tags: [ 'nintendo','ps4','ps5','trust gaming','xbox', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

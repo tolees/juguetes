@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QVVSW-es LEGO 75286 Star Wars Caza Estelar del General Grievous Set...'
 sku: 'B0813QVVSW-es'
-tags: [ 'Accesorios para PlayStation 4','Actividades creativas','Almacenamiento de cocina y despensa','Bolsas de la compra reutilizables','Bolsas y cestas de la compra','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Juegos de construcción para niños','Juegos para Nintendo Switch','Juegos para Xbox One','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Packs de accesorios para PlayStation 4','Pizarras mágicas para niños','Pizarras para niños','Sistemas precursores y micro consolas','Videojuegos','lego', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

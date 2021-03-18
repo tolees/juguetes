@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WDQHZQ-es LEGO 71360 Super Mario Pack Inicial: Aventuras con Mario...'
 sku: 'B082WDQHZQ-es'
-tags: [ 'lego', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

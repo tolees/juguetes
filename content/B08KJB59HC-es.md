@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KJB59HC-es Star Wars Colección Vintage Figura Moff Gideon Hasbro...'
 sku: 'B08KJB59HC-es'
-tags: [ 'hasbro', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

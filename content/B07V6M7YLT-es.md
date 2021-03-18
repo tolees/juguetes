@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6M7YLT-es Nintendo Switch Lite - Consola Amarillo'
 sku: 'B07V6M7YLT-es'
-tags: [ 'Calendarios de adviento de juguete','Ciclismo','Consolas Nintendo Switch','Culotes de ciclismo para hombre','Deportes y aire libre','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','Vehículos de juguete para niños','Videojuegos','nintendo', ]
 actualPrice: 194.9 EUR
 currency: EUR
 price: 194.9

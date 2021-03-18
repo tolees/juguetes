@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0896NHKF8-es BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise...'
 sku: 'B0896NHKF8-es'
-tags: [ 'bandai', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

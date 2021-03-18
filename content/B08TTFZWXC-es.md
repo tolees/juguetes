@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TTFZWXC-es 28pcs Pulsera con Cremallera para Niños MEZOOM Brazalete...'
 sku: 'B08TTFZWXC-es'
-tags: [ 'juguetes', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

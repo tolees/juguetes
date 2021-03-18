@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PTR5J-es LEGO DUPLO Town - Casa de Juegos Modular Set 3 en 1...'
 sku: 'B07W5PTR5J-es'
-tags: [ 'lego', ]
 actualPrice: 50.21 EUR
 currency: EUR
 price: 50.21

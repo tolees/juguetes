@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BFPT7NY-es Pinypon - Granja Divertida Famosa 700014260'
 sku: 'B07BFPT7NY-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

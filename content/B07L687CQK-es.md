@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L687CQK-es Richgv®Tableta de Escritura LCD Tablero Negro Inteligente...'
 sku: 'B07L687CQK-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

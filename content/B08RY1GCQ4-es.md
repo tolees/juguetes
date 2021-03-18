@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RY1GCQ4-es WOSNN Peluche de Pulpo ReversibleBonitos Juguetes de...'
 sku: 'B08RY1GCQ4-es'
-tags: [ 'juguetes','peluche', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

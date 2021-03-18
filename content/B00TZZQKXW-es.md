@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TZZQKXW-es MEGA Brands - Mesa Preescolar 3 en 1 Mattel CNM42'
 sku: 'B00TZZQKXW-es'
-tags: [ 'mattel', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

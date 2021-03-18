@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNS6J7R-es LEGO Creator - Criaturas del Fondo Marino tiburón de...'
 sku: 'B07FNS6J7R-es'
-tags: [ 'lego', ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

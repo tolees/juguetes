@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AIFU2RW-es los Barriguitas Playset casita Famosa 700012701'
 sku: 'B01AIFU2RW-es'
-tags: [ 'famosa', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

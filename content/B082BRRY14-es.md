@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BRRY14-es Minecraft Game Caja Modular 3.0 2en1 Castillo Fortaleza...'
 sku: 'B082BRRY14-es'
-tags: [ 'lego', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

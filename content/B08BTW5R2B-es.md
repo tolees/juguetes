@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BTW5R2B-es Tribu de Sinvergüenzas 🤣 WASA 🤣 – Juego de Mesa - Juego de...'
 sku: 'B08BTW5R2B-es'
-tags: [ 'juego','de','cartas', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

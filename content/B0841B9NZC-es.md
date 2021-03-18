@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841B9NZC-es Juguetes De Doble Experiencia Sin Manos Para Hombres Con...'
 sku: 'B0841B9NZC-es'
-tags: [ 'juguetes', ]
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

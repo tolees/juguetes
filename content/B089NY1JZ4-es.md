@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NY1JZ4-es Mi Primer Coche acrobático – Silverlit Juguetes niños 3...'
 sku: 'B089NY1JZ4-es'
-tags: [ 'juguetes', ]
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

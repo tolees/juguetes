@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z3DGPWS-es jerryvon Juegos de Mesa de Pesca Musical con Caña de...'
 sku: 'B07Z3DGPWS-es'
-tags: [ 'juguetes', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

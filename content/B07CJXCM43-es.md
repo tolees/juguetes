@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJXCM43-es SkullCap® Casco Niño Bicicleta diseñado por los niños...'
 sku: 'B07CJXCM43-es'
-tags: [ 'bicicleta', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

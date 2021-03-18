@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSV8Z2Z-es LEADSTAR Tangram Puzzle Tangram Madera Shape Puzzle Set...'
 sku: 'B07WSV8Z2Z-es'
-tags: [ 'juguetes','puzzle','rompecabezas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

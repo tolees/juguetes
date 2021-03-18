@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD3RTBS-es los Barriguitas - Supermercado Super Famosa 700014516'
 sku: 'B07DD3RTBS-es'
-tags: [ 'famosa', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

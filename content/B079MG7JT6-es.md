@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MG7JT6-es Fisher-Price Libro interactivo de aprendizaje juguete bebé...'
 sku: 'B079MG7JT6-es'
-tags: [ 'fisher-price','mattel', ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

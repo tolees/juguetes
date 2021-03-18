@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGH892U-es GEMVIE Flotador de Espalda para Niños Ayuda Aprendizaje...'
 sku: 'B00NGH892U-es'
-tags: [ 'flotador', ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

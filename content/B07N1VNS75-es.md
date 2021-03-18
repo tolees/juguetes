@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1VNS75-es Pinypon - Happy Pin con 5 figuritas niños y niñas de 4 a 8...'
 sku: 'B07N1VNS75-es'
-tags: [ 'Ciclismo','Culotes de ciclismo para hombre','Deportes y aire libre','Juguetes','Juguetes y juegos','Muñecas y accesorios','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','famosa','pinypon', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

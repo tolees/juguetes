@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CML4RZI-es Theo Klein 8485 Banco de trabajo 150 piezas Incluye...'
 sku: 'B01CML4RZI-es'
-tags: [ 'theo','klein', ]
 actualPrice: 123.75 EUR
 currency: EUR
 price: 123.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4KWY36-es LEGO 60292 City Centro Urbano Set de Construcción con Moto...'
 sku: 'B08G4KWY36-es'
-tags: [ 'lego', ]
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

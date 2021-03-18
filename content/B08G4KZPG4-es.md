@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4KZPG4-es LEGO 11013 Classic Ladrillos Creativos Transparentes Set...'
 sku: 'B08G4KZPG4-es'
-tags: [ 'lego', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

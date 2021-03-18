@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JYVBW7F-es Mando inalámbrico para Nintendo Switch Sendowtek Gamepad...'
 sku: 'B08JYVBW7F-es'
-tags: [ 'Accesorios para Nintendo Switch','Bebé','Calendarios de adviento de juguete','Ciclismo','Consolas Nintendo Switch','Culotes de ciclismo para hombre','Decoración para dormitorio de bebé','Deportes y aire libre','Dormitorio','Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juegos para Nintendo Switch','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecas para casas de muñecas','Muñecas y accesorios','Muñecos y figuras','Móviles para bebé','Playsets de figuras de juguete para niños','Ropa de ciclismo','Ropa de ciclismo para hombre','Sets de accesorios','Vehículos de juguete para niños','Videojuegos','nintendo','sendowtek', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J41MPF8-es LEGO Architecture - Londres Maqueta para Montar el Skyline...'
 sku: 'B01J41MPF8-es'
-tags: [ 'lego', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

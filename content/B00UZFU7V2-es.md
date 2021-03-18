@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UZFU7V2-es VTech - Primeras canciones libro interactivo para bebé +6...'
 sku: 'B00UZFU7V2-es'
-tags: [ 'vtech', ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

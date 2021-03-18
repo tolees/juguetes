@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPLSZTZ-es SuperZings - Serie 5 - Display de 24 Aerowagons...'
 sku: 'B07ZPLSZTZ-es'
-tags: [ 'superzings', ]
 actualPrice: 25.92 EUR
 currency: EUR
 price: 25.92

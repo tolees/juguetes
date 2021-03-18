@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP711YW-es LEGO Speed Champions - Deportivo Chevrolet Camaro ZL1...'
 sku: 'B07FP711YW-es'
-tags: [ 'lego', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

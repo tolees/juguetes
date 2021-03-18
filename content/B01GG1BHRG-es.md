@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GG1BHRG-es Cara Splash Desafio - Hasbro Gaming Hasbro C0193105'
 sku: 'B01GG1BHRG-es'
-tags: [ 'hasbro', ]
 actualPrice: 15.08 EUR
 currency: EUR
 price: 15.08

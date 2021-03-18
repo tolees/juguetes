@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y94JPK9-es Toy Story - Muñeco Woody 25 Aniversario Mattel GJH47...'
 sku: 'B07Y94JPK9-es'
-tags: [ 'mattel', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

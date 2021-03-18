@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PDLL5F-es Figuras de acción Famosa - Boom City Racers - Infierno...'
 sku: 'B088PDLL5F-es'
-tags: [ 'famosa', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

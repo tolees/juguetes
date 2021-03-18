@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QDZK5S-es Mega Bloks Carrito Encajabloques juguete de construcción...'
 sku: 'B079QDZK5S-es'
-tags: [ 'mattel','mega','bloks', ]
 actualPrice: 27.85 EUR
 currency: EUR
 price: 27.85

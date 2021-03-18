@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QRPYRBJ-es Richgv® Tableta de Escritura LCD de 10 Pulgadas Tablero...'
 sku: 'B07QRPYRBJ-es'
-tags: [ 'juguetes', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HFF5F97-es Educa-500 Dinosaurios Puzzle 500 Piezas Multicolor 17961'
 sku: 'B07HFF5F97-es'
-tags: [ 'puzzle', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

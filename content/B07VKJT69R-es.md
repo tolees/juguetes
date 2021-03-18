@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKJT69R-es JOYSPACE Agua Dibujo Pintura Pizarra Mágica Alfombra de...'
 sku: 'B07VKJT69R-es'
-tags: [ 'juguetes', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088B9G1QX-es RAMPOW Cargador USB C[GAN Tech] 61W Cargador de Pared con...'
 sku: 'B088B9G1QX-es'
-tags: [ 'nintendo', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

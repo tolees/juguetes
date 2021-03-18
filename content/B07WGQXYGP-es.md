@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGQXYGP-es Warhammer Juego de Rol de Fantasía Devir WFBASICO'
 sku: 'B07WGQXYGP-es'
-tags: [ 'devir', ]
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

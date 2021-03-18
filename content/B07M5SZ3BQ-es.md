@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5SZ3BQ-es Warner Bros Interactive Spain VG - La Lego Película 2: El...'
 sku: 'B07M5SZ3BQ-es'
-tags: [ 'Juegos para Nintendo Switch','lego','warner bros interactive spain (vg)', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

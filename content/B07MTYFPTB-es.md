@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTYFPTB-es Bammax Bicicleta sin Pedales Bici sin Pedales Niño...'
 sku: 'B07MTYFPTB-es'
-tags: [ 'bicicleta','juguetes', ]
 actualPrice: 36.83 EUR
 currency: EUR
 price: 36.83

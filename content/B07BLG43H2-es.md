@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLG43H2-es LEGO Harry Potter - Hogwarts Express Tren de Juguete y...'
 sku: 'B07BLG43H2-es'
-tags: [ 'lego', ]
 actualPrice: 67.5 EUR
 currency: EUR
 price: 67.5

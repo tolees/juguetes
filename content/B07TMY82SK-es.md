@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TMY82SK-es lalafancy - Botella de Agua de Acero Inoxidable Botella...'
 sku: 'B07TMY82SK-es'
-tags: [ 'bicicleta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

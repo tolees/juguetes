@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JLPZYN-es Barbie Muñeca Chelsea y su tren de mascotas accesorios...'
 sku: 'B079JLPZYN-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

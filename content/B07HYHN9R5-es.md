@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HYHN9R5-es Ubisoft Spain - Hasbro Game Night'
 sku: 'B07HYHN9R5-es'
-tags: [ 'hasbro', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

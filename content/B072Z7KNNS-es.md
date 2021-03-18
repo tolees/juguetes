@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072Z7KNNS-es Clementoni 39022 Puzzle Puzzle - Rompecabezas Puzzle...'
 sku: 'B072Z7KNNS-es'
-tags: [ 'clementoni','puzzle','rompecabezas', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

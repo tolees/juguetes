@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4HNQTC-es LEGO 71738 NINJAGO Legacy 71738 Combate en el Titán Robot...'
 sku: 'B08G4HNQTC-es'
-tags: [ 'lego', ]
 actualPrice: 50.21 EUR
 currency: EUR
 price: 50.21

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD72NS6-es Doorables- Multi Peek Surprise 6 Cajitas con Mini Muñecas...'
 sku: 'B07DD72NS6-es'
-tags: [ 'famosa', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085WV2WGC-es LEGO 75318 Star Wars: The Mandalorian El Niño Figura de...'
 sku: 'B085WV2WGC-es'
-tags: [ 'lego', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

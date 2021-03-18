@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4TK5WS-es LEGO 42116 Technic Minicargadora Set de Construcción...'
 sku: 'B08G4TK5WS-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

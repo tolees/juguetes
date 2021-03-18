@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP2KPXC-es LEGO Speed Champions - Ferrari F40 Competizione juguete de...'
 sku: 'B07FP2KPXC-es'
-tags: [ 'lego', ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

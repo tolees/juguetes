@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088WPWPB9-es Toy Story- Disney Muñeco Woody Parlanchín Multicolor...'
 sku: 'B088WPWPB9-es'
-tags: [ 'mattel', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

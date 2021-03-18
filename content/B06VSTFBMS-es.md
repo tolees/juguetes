@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VSTFBMS-es Pinypon Pack 2 mascotas mariposa y mono Famosa 700012732'
 sku: 'B06VSTFBMS-es'
-tags: [ 'famosa','pinypon', ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

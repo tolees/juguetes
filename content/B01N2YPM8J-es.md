@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2YPM8J-es Ganchos para cochecito Venoka multiusos 2 piezas universal...'
 sku: 'B01N2YPM8J-es'
-tags: [ 'juguetes', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NVDNLCM-es LEGO STAR WARS - Microcaza Homing Spider Droid 75077'
 sku: 'B00NVDNLCM-es'
-tags: [ 'lego', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014KEE9LC-es Mattel Fisher-Price-Xilófono de Arrastre Juguete Musical...'
 sku: 'B014KEE9LC-es'
-tags: [ 'mattel', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086G6STPX-es Ravensburger Mandalorian-The Child Color 16561'
 sku: 'B086G6STPX-es'
-tags: [ 'ravensburger', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

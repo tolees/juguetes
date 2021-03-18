@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T87ZF9G-es Supersoaker-Fortnite Pump Sg Hasbro E76475L0'
 sku: 'B07T87ZF9G-es'
-tags: [ 'hasbro', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

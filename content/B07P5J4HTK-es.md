@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5J4HTK-es SuperZings - Laboratorio Kazoom Lab Battle PSZSP112IN10...'
 sku: 'B07P5J4HTK-es'
-tags: [ 'superzings', ]
 actualPrice: 33.35 EUR
 currency: EUR
 price: 33.35

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084WWTJ6J-es Panamami Nuevos Juguetes Inteligentes para Juegos Los...'
 sku: 'B084WWTJ6J-es'
-tags: [ 'juguetes', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

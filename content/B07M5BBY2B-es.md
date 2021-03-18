@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5BBY2B-es Spider-Man- Lanzador Web Cyclone Hasbro E5364E27'
 sku: 'B07M5BBY2B-es'
-tags: [ 'hasbro', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

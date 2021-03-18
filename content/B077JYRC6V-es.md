@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077JYRC6V-es Nerf Modulus Mediator Hasbro E0016EU5'
 sku: 'B077JYRC6V-es'
-tags: [ 'hasbro','nerf', ]
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

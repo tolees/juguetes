@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R5VNMRD-es Star Wars - Figura con vehículo Treadspeeders Primera...'
 sku: 'B07R5VNMRD-es'
-tags: [ 'hasbro', ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

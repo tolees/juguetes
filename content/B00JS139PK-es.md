@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JS139PK-es Juegos de Sociedad - Inazuma Eleven Go Famosa 700011808...'
 sku: 'B00JS139PK-es'
-tags: [ 'famosa', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

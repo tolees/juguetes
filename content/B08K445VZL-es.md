@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K445VZL-es Devir - Exit: La casa de los Enigmas BGEXIT12'
 sku: 'B08K445VZL-es'
-tags: [ 'devir', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JC518JQ-es Xlc Sa-a21 Material de Bicicleta Unisex Adulto Negro...'
 sku: 'B00JC518JQ-es'
-tags: [ 'bicicleta', ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

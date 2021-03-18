@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0837FJXGX-es Pinypon- Pack 4 Figuras New Look a Partir de 4 años Famosa...'
 sku: 'B0837FJXGX-es'
-tags: [ 'famosa','pinypon-', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CP2FKL1-es Liny Bebé Flotador Inflable Anillo de Natación Flamenco -...'
 sku: 'B07CP2FKL1-es'
-tags: [ 'flotador', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

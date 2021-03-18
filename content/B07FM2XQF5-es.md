@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FM2XQF5-es Smalody Juguetes de Peluche novedoso Control de Sonido...'
 sku: 'B07FM2XQF5-es'
-tags: [ 'juguetes','peluche', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

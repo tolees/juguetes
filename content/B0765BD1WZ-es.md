@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765BD1WZ-es LEGO Duplo Disney - Fiesta de cumpleaños de Minnie 10873'
 sku: 'B0765BD1WZ-es'
-tags: [ 'lego', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

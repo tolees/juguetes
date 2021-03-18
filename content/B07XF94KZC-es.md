@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XF94KZC-es Barbie Dreamhouse Adventures Skipper Hora del Surf muñeca...'
 sku: 'B07XF94KZC-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

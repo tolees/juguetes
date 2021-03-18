@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XB3J1YP-es Mega Brands - Mega Bloks Bloques de construcción Pinguino...'
 sku: 'B07XB3J1YP-es'
-tags: [ 'mattel','mega','bloks', ]
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

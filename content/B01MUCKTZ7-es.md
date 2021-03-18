@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUCKTZ7-es Educa- Símbolos del Mundo Puzzle 2000 Piezas Multicolor 17129'
 sku: 'B01MUCKTZ7-es'
-tags: [ 'puzzle', ]
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

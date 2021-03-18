@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5PW3NV-es LEGO Star Wars - Speeder de Nieve Juguete de Construcción...'
 sku: 'B07W5PW3NV-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

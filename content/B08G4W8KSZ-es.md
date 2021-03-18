@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4W8KSZ-es LEGO 71732 NINJAGO Set de Batalla Legendaria: Jay vs....'
 sku: 'B08G4W8KSZ-es'
-tags: [ 'lego', ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

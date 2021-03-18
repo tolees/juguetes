@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085BM5Q1Z-es YIMINYUER Bebés Suave Silencioso Alfombra Niños Puzzle...'
 sku: 'B085BM5Q1Z-es'
-tags: [ 'puzzle', ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

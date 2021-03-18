@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076KKK73G-es ROXENDA Velocidad Paquete Cubo Mágico Puzzle Pack-2x2x2...'
 sku: 'B076KKK73G-es'
-tags: [ 'puzzle', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

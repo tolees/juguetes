@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HG2XPC-es Clementoni- Puzzle 1000 Piezas Strange Things 39543.9'
 sku: 'B084HG2XPC-es'
-tags: [ 'puzzle', ]
 actualPrice: 13.05 EUR
 currency: EUR
 price: 13.05

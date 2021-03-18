@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRDP88-es SYLVANIAN FAMILIES Sylvanian Families-4869 Set Barbacoa...'
 sku: 'B00HRRDP88-es'
-tags: [ 'families','sylvanian', ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

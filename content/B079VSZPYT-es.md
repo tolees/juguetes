@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VSZPYT-es Furreal Friends Rex Comilón Hasbro E0387EU4'
 sku: 'B079VSZPYT-es'
-tags: [ 'hasbro', ]
 actualPrice: 48.19 EUR
 currency: EUR
 price: 48.19

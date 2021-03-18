@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXW7FZP-es Zerodis Juguetes de Aprendizaje Clasificación del...'
 sku: 'B07CXW7FZP-es'
-tags: [ 'juguetes', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

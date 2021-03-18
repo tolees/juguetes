@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RNW3HRF-es Hot Wheels Mario Kart Piraña pistas de coches con vehículo...'
 sku: 'B07RNW3HRF-es'
-tags: [ 'mattel', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

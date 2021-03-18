@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BJSF9QL-es Barbie - Coche muñeca Fiat - coche muñeca para niñas y...'
 sku: 'B07BJSF9QL-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

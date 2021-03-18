@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9JPVNF-es Top Race Juego de Cubos de Arena y Palas de Arena 5 "en la...'
 sku: 'B06W9JPVNF-es'
-tags: [ 'juguetes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

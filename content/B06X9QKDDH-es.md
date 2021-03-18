@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X9QKDDH-es Hanazuki - Muñeca de Peluche con Luces de Colores Hasbro...'
 sku: 'B06X9QKDDH-es'
-tags: [ 'hasbro','peluche', ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GXRLL4F-es HoneyHolly Botella de Agua Acero Inoxidable sin BPA...'
 sku: 'B07GXRLL4F-es'
-tags: [ 'bicicleta', ]
 actualPrice: 18.57 EUR
 currency: EUR
 price: 18.57

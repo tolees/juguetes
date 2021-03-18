@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0711Y9XTF-es Outward Hound Puzzle Toy Nina Ottosson Dog Brick-...'
 sku: 'B0711Y9XTF-es'
-tags: [ 'puzzle', ]
 actualPrice: 20.05 EUR
 currency: EUR
 price: 20.05

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4KSKXZ-es LEGO City Great Vehicles - Camión de los Helados Juguete...'
 sku: 'B07W4KSKXZ-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2K51FN-es Ravensburger - Memory Dragons 3 21444'
 sku: 'B07K2K51FN-es'
-tags: [ 'ravensburger', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

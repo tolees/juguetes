@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SW7G7WD-es lenbest 4 Piezas Puzzles de Madera de Animales Juegos de...'
 sku: 'B08SW7G7WD-es'
-tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

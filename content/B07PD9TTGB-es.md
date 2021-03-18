@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PD9TTGB-es BUCHAQIAN Alfombra de Espuma de Rompecabezas de Espuma de...'
 sku: 'B07PD9TTGB-es'
-tags: [ 'rompecabezas', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XBTKFVB-es LEGO DOTS - Portalápices Piña estuche creativo de juguete...'
 sku: 'B07XBTKFVB-es'
-tags: [ 'lego', ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZYJF59N-es Richgv Juguetes Teléfono Bilingüe Mando a Distancia Conejo...'
 sku: 'B07ZYJF59N-es'
-tags: [ 'juguetes', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

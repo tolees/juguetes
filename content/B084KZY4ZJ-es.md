@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084KZY4ZJ-es Barbie Color Reveal de la Playa a la Fiesta muñeca que...'
 sku: 'B084KZY4ZJ-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

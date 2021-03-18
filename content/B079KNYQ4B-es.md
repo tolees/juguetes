@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KNYQ4B-es Polly Pocket Cofre cupcake sorpresa muñeca con accesorios...'
 sku: 'B079KNYQ4B-es'
-tags: [ 'mattel','polly','pocket', ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

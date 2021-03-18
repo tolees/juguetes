@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QF1LRBP-es Barbie Ken Muñeco BMR 1959 look pelo verde regalo para...'
 sku: 'B07QF1LRBP-es'
-tags: [ 'barbie','mattel', ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

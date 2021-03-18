@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TKC8ZJ-es Jaques de Londres juguemos Rompecabezas del Planeta -...'
 sku: 'B085TKC8ZJ-es'
-tags: [ 'juguetes','rompecabezas', ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

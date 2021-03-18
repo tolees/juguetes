@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JV8T36L-es ANPTER - Falda para árbol de Navidad de peluche color...'
 sku: 'B08JV8T36L-es'
-tags: [ 'peluche', ]
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

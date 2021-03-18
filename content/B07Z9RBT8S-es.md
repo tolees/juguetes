@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z9RBT8S-es NICI Peluche GLUBSCHIS Murciélago Baako con Ojos Grandes y...'
 sku: 'B07Z9RBT8S-es'
-tags: [ 'peluche', ]
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

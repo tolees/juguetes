@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3F74QF-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica...'
 sku: 'B07L3F74QF-es'
-tags: [ 'bicicleta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

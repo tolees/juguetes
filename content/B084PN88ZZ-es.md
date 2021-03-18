@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084PN88ZZ-es Playskool- APORTADOR DE Forma PLA Hasbro 0'
 sku: 'B084PN88ZZ-es'
-tags: [ 'hasbro', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

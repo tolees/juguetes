@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QWRNW-es DUPLO Super Heroes DUPLO DC Comics Batman Batcueva con...'
 sku: 'B0813QWRNW-es'
-tags: [ 'lego', ]
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

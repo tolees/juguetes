@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBSZ6QF-es Richgv Super Durable Pound a Ball con 4 Bolas y Martillo...'
 sku: 'B08CBSZ6QF-es'
-tags: [ 'juguetes', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99
