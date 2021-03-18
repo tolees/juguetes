@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F3B2TVO-es LEGO DUPLO - My First Caja de Diversión Juguete de...'
 sku: 'B00F3B2TVO-es'
-tags: [ 'Circuitos y playsets para coches de juguete','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Vehículos de juguete para niños','lego', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Desarrollo de habilidades motoras','Discos duros externos','Electrónica','Embarcación de juguete para niños','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juego de mesa','Juegos de construcción para niños','Juegos de tablero','Juegos educativos','Juegos y Accesorios para PC','Juegos y accesorios para juegos','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Memoria para Nintendo Switch','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Muñecos y figuras','Playsets de figuras de juguete para niños','Tarjetas de memoria','Tarjetas microSD','Vehículos de juguete para niños','Videojuegos','Volantes para PC','lego', ]
 actualPrice: 11.73 EUR
 currency: EUR
 price: 11.73
