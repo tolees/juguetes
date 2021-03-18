@@ -28,9 +28,9 @@ Está [LEGO Star Wars - Imperial AT-Hauler  Juguete de La Guerra de las Galaxias
 
 ℹ️:
 
-- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
-- Incluye 5 minifiguras lego: qi’ra, val, rio durant y 2 guardias de dryden
 - Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
+- Incluye 5 minifiguras lego: qi’ra, val, rio durant y 2 guardias de dryden
+- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 - Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), ¡y organiza el asalto ferroviario definitivo a toda velocidad!
 - Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
 
