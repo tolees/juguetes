@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074H5DJ6F-es Well Love Juguetes para perro juguetes para masticar...'
 sku: 'B074H5DJ6F-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos para Nintendo Switch','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Sistemas precursores y micro consolas','Videojuegos','juguetes','peluche', ]
+tags: [ 'Accesorios para PlayStation 5','Auriculares para PlayStation 5','Barajas de carta de juegos estándar','Consolas Nintendo Switch','Desarrollo de habilidades motoras','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 5','Hogar y cocina','Juego de mesa','Juegos de cartas','Juegos de construcción para niños','Juegos de habilidad','Juegos y accesorios para juegos','Juguetes','Juguetes para Bebés y primera infancia','Juguetes para apilar y encajar','Juguetes y juegos','Muebles de TV y multimedia','Muebles de hogar','Muñecos y figuras','Playsets de figuras de acción para niños','Sillas Gaming','Videojuegos','juguetes','peluche', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
