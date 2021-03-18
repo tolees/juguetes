@@ -28,8 +28,8 @@ En este momento está [Disney Princess Muñeca Merida Brillo Real  Hasbro F0903E
 
 🔎:
 
-- Muñeca Merida Brillo Real
 - Juguete adecuado para niños a partir de 3 años
 - Un producto marca Disney Princess
+- Muñeca Merida Brillo Real
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JQNBDZT/?tag=tolees-21)
