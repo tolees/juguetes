@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLSSKXM-es IMC Toys - Club Petz Peluche Unicornio Puffy 91818'
 sku: 'B07NLSSKXM-es'
-tags: [ 'peluche', ]
+tags: [ 'imc','peluche','toys', ]
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19
