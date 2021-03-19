@@ -28,10 +28,10 @@ Está [Paladone- Harry Potter Juego de Cartas  Multicolor  PP4258HP ](https://ww
 
 ℹ️:
 
-- ORIGINAL GIFTWARE: For those in the fandom looking for novelty items and all things geek, crazy, and unique, Paladone is your best source for top selling toys, mugs, collectibles, and novelties
-- HOGWARTS CARDS: Enjoy a magical twist on a standard deck with each suit representing Gryffindor, Hufflepuff, Ravenclaw, or Slytherin; Cards store inside metal embossed tin with Hogwarts crest
-- TRAVEL GAMES: Whether you like go fish, gin rummy, blackjack, poker, old maid or solitaire, this deck is perfect to bring along in the car or your purse so you are always ready to play
 - WITCHCRAFT AND WIZARDRY: Witches and wizards can deal in the magic with this unique set of Hogwarts Playing Cards; Do you have what it takes to beat the luck of the draw
 - OFFICIALLY LICENSED: This quality collectible is a unique addition to any fans set. Give this cool collectors merchandise to mums, dads, fans, students, kids, boys & girls who love pop culture fun
+- HOGWARTS CARDS: Enjoy a magical twist on a standard deck with each suit representing Gryffindor, Hufflepuff, Ravenclaw, or Slytherin; Cards store inside metal embossed tin with Hogwarts crest
+- TRAVEL GAMES: Whether you like go fish, gin rummy, blackjack, poker, old maid or solitaire, this deck is perfect to bring along in the car or your purse so you are always ready to play
+- ORIGINAL GIFTWARE: For those in the fandom looking for novelty items and all things geek, crazy, and unique, Paladone is your best source for top selling toys, mugs, collectibles, and novelties
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078W7R6KK/?tag=tolees-21)
