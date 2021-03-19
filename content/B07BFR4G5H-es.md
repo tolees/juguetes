@@ -28,10 +28,10 @@ Tienes [The Bellies From Bellyville - The Bellies - Pinky-Twink  muñeco Interac
 
 ℹ️:
 
-- Pinky twinking is the most naughty, like the star Pink, Star Jump without stopping and break it all
 - Full of Surprises: Plays your heart to take off the umbilical cord, each Bellie speak their own language Birth fun with your surprise... and a sorpresita in the nappy
-- If a pinky-twink seals with other bellies, together interact between them – collect them all
 - Accessories: sabanita decorated with stars, a bottle, and book cuidaditos identification bracelet (bellypedia)
+- If a pinky-twink seals with other bellies, together interact between them – collect them all
+- Pinky twinking is the most naughty, like the star Pink, Star Jump without stopping and break it all
 - Bellies are interactive babies more revoltosos, monísimos and fun to make
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BFR4G5H/?tag=tolees-21)
