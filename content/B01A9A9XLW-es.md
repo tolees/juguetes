@@ -28,15 +28,15 @@ Tienes [Juego principal WeDo 2.0 de LEGO Education](https://www.amazon.es/dp/B01
 
 🔎:
 
-- Habilidades de colaboración y presentación
 - Investigación, modelado y diseño de soluciones
-- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
-- Habilidades básicas de programación
-- Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
-- Disponible tanto para equipos de escritorio como para tabletas
 - Valores clave de aprendizaje:
-- Evaluación integrada
 - Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
 - Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
+- Disponible tanto para equipos de escritorio como para tabletas
+- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
+- Evaluación integrada
+- Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
+- Habilidades básicas de programación
+- Habilidades de colaboración y presentación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A9A9XLW/?tag=tolees-21)
