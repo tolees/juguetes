@@ -28,12 +28,12 @@ En este momento está [Monopoly - Clásico  Edad recomendada: a partir de 8 año
 
 🔎:
 
-- Las tarjetas pueden cambiar tu fortuna
-- Construye casas y hoteles en tus propiedades
 - Aumenta la imaginación y la creatividad
-- Juego de mesa Madrid de Monopoly
+- Las tarjetas pueden cambiar tu fortuna
 - Edad recomendada: a partir de 8 años
-- Monopoly es el juego de propiedades y negociación
+- Juego de mesa Madrid de Monopoly
 - Ideal para 2-6 jugadores
+- Monopoly es el juego de propiedades y negociación
+- Construye casas y hoteles en tus propiedades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071Z7LGR3/?tag=tolees-21)
