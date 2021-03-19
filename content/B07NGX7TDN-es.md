@@ -28,8 +28,8 @@ Ahora mismo tienes [Barbie Fashionista Armario portable con muñeca incluida  ro
 
 🔎:
 
-- Lo que hoy puedes ver como un simple juego ("mi hija juega con barbie"),en realidad es una preparación para su futuro, ya que, a través del juego, barbie estimula la imaginación, la expresión y el descubrimiento
 - 3 años
+- Lo que hoy puedes ver como un simple juego ("mi hija juega con barbie"),en realidad es una preparación para su futuro, ya que, a través del juego, barbie estimula la imaginación, la expresión y el descubrimiento
 - Barbie fashionista armario portable con muñeca incluida, ropa, complementos y accesorios de muñecas (mattel gbk12)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGX7TDN/?tag=tolees-21)
