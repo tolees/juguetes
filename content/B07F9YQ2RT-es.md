@@ -29,8 +29,8 @@ Ahora mismo tienes [Soporte Movil Gopro [2 In 1]  Wiecok Soporte Universal Manil
 🔎:
 
 - ● ANCHO UTILIZADO: Se puede conectar a la tija del sillín, al manillar de la bicicleta, a la motocicleta, a la silla de ruedas, al carrito de compras, al equipo de gimnasio, a los bastones de esquí y a otros diámetros (16-60 mm).
-- ● GIRATORIA 360 °: Articulaciones metálicas ajustables, puede seleccionar fácilmente el mejor ángulo de visión y mantener la estabilidad. No se preocupe por perder la belleza al aire libre, el adaptador de bicicleta de cámara de acción con múltiples ángulos de giro satisface sus necesidades.
 - ● ALTA COMPATIBILIDAD: El brazo de sujeción 7.0-9.0 es compatible con la mayoría de los teléfonos móviles de 4.0-6.5 pulgadas. El manillar es compatible con cualquier objeto redondo y plano con un diámetro de 16-60 mm, también apto para GoPro Hero.
+- ● GIRATORIA 360 °: Articulaciones metálicas ajustables, puede seleccionar fácilmente el mejor ángulo de visión y mantener la estabilidad. No se preocupe por perder la belleza al aire libre, el adaptador de bicicleta de cámara de acción con múltiples ángulos de giro satisface sus necesidades.
 - ● ESTABLE Y SEGURO: Nuestras abrazaderas están hechas de silicona suave y metal, los 4 ángulos de soporte elásticos pueden evitar que el teléfono se mueva y se balancee para asegurarse de que los dispositivos no se caigan al pedalear en un patio campestre.
 - ● FÁCIL INSTALACIÓN: El diseño de bloqueo automático con engranaje de empuje unidireccional. Una clave para instalar o quitar el teléfono sin herramientas.
 
