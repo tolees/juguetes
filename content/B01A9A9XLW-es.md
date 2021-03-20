@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego principal WeDo 2.0 de LEGO Educati al 22.43 % de rebaja'
-date: 2021-03-19 09:57:54
+date: 2021-03-20 11:14:21
 image: 'https://m.media-amazon.com/images/I/41FkGO9mY-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01A9A9XLW/?tag=tolees-21'
 descuento: '22.43'
-average: '203.849101123596'
+average: '202.764725274725'
 ---
 
 Tienes [Juego principal WeDo 2.0 de LEGO Education](https://www.amazon.es/dp/B01A9A9XLW/?tag=tolees-21) con precio final de  154.51 EUR (original: 199.2 EUR) (22.43 %  de rebaja) aqui!
@@ -28,15 +28,15 @@ Tienes [Juego principal WeDo 2.0 de LEGO Education](https://www.amazon.es/dp/B01
 
 🔎:
 
-- Investigación, modelado y diseño de soluciones
-- Valores clave de aprendizaje:
-- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
-- Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
 - Disponible tanto para equipos de escritorio como para tabletas
-- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
 - Evaluación integrada
-- Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
-- Habilidades básicas de programación
 - Habilidades de colaboración y presentación
+- Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
+- Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
+- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
+- Habilidades básicas de programación
+- Investigación, modelado y diseño de soluciones
+- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
+- Valores clave de aprendizaje:
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A9A9XLW/?tag=tolees-21)

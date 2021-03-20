@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - My  con un 30.80 % de descuento'
-date: 2021-03-19 11:35:42
+date: 2021-03-20 11:51:17
 image: 'https://m.media-amazon.com/images/I/51bNWTnhX-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21'
 descuento: '30.80'
-average: '108.349090909091'
+average: '105.518461538461'
 ---
 
 En este momento está [BANDAI NAMCO Entertainment Iberica - My Hero One´s Justice 2 - Plus Ultra Edition](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21) a 89.95 EUR (original: 129.99 EUR) (30.80 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - My Hero One´s Justi
 
 🔎:
 
-- Llavero de Deku y Overhanl
-- Una figura LED exclusiva de 20cm
-- Shikishi de My Hero Academia
 - Steelbook Exclusivo
+- Llavero de Deku y Overhanl
 - Chapa del juego
+- Shikishi de My Hero Academia
+- Una figura LED exclusiva de 20cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21)
