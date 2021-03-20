@@ -28,10 +28,10 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - My Hero One´s Justi
 
 🔎:
 
-- Steelbook Exclusivo
-- Llavero de Deku y Overhanl
-- Chapa del juego
 - Shikishi de My Hero Academia
+- Steelbook Exclusivo
+- Chapa del juego
 - Una figura LED exclusiva de 20cm
+- Llavero de Deku y Overhanl
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21)
