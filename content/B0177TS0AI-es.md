@@ -30,8 +30,8 @@ Tienes [Rolimate Juguetes para Niños Pequeños Apilador Geométrico De Madera  
 
 - 🔴 Juguetes de pila de colores: 4 tipos de geometría: triángulo, cuadrado, rectángulo, redondo, con 4 colores brillantes: verde, rojo, amarillo, azul. Este Juguetes Educativos Montessori mejorará la capacidad cognitiva del niño sobre el color y la forma.
 - 🔵 Educación temprana: este conjunto de juguetes tipo Montessori ayudará a cultivar el conocimiento de los colores y las formas en la educación temprana del bebé, y cultivará la coordinación mano-ojo, desarrollará la imaginación y la creatividad.
-- 🔴 Garantía de calidad: solo ofrecemos el apilador de madera de alta calidad para garantizar la salud de sus hijos. Para cada cliente, si no está satisfecho, contáctenos, lo resolveremos lo antes posible.
-- 🔴 Juguetes creativos de bloques de construcción: este apilador geométrico es un bloque de construcción perfecto para sus bebés, se pueden apilar de diferentes maneras como lo deseen, por ejemplo, castillo, casa y otras formas interesantes.
 - 🔵 Seguro y confiable: el apilador de madera Rolimate está hecho de madera sólida y pintura a base de agua para garantizar que sea ecológico, no tóxico, inodoro y que no tenga rebabas. Será el regalo perfecto y saludable para tus hijos.
+- 🔴 Juguetes creativos de bloques de construcción: este apilador geométrico es un bloque de construcción perfecto para sus bebés, se pueden apilar de diferentes maneras como lo deseen, por ejemplo, castillo, casa y otras formas interesantes.
+- 🔴 Garantía de calidad: solo ofrecemos el apilador de madera de alta calidad para garantizar la salud de sus hijos. Para cada cliente, si no está satisfecho, contáctenos, lo resolveremos lo antes posible.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0177TS0AI/?tag=tolees-21)
