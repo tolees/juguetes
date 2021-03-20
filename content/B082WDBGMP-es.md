@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71366 Super Mario Set de Expansión: al 16.97 % de descuento'
-date: 2021-03-19 02:53:01
+date: 2021-03-20 04:06:15
 image: 'https://m.media-amazon.com/images/I/510D+xSl-5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21'
 descuento: '16.97'
-average: '22.5160846560844'
+average: '22.5410471204186'
 ---
 
 Ahora mismo tienes [LEGO 71366 Super Mario Set de Expansión: Avalancha de Bill Balazos  Juguete de Construcción](https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21) a 24.9 EUR (original: 29.99 EUR) (16.97 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [LEGO 71366 Super Mario Set de Expansión: Avalancha de B
 🔎:
 
 - Un trepidante set de expansión para divertirse al estilo LEGO Super Mario girando a toda velocidad
-- Permite añadir otro nivel al juguete de construcción Pack Inicial: Aventuras con Mario
+- Contiene 2 Bill Balazos “voladores”, un superchampiñón y una figura de un Shy Guy
 - No requiere pilas: combínalo con el pack inicial para potenciar la diversión
 - Descubre cuántas veces puede girar LEGO Mario (figura no incluida) en la plataforma
-- Contiene 2 Bill Balazos “voladores”, un superchampiñón y una figura de un Shy Guy
+- Permite añadir otro nivel al juguete de construcción Pack Inicial: Aventuras con Mario
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21)
