@@ -28,10 +28,10 @@ Tienes [SYLVANIAN FAMILIES- Casa de Aventuras en el Árbol Doll House  Epoch par
 
 ℹ️:
 
-- El set incluye casa del árbol y accesorios como el tronco o el columpio. Figuras y mobiliario se venden por separado. Edad recomendada: +3 años
-- ¿Alguien ha dicho vacaciones? Sube a la autocaravana para llegar a la zona del lago. Aquí encontrarás la Casa de Aventuras en el Árbol, el sitio más divertido para disfrutar de las vacaciones.
-- La Casa de Aventuras en el Árbol tiene 4 habitaciones pequeñas y, además, un pasaje solo para los bebés de la Aldea Sylvanian.
 - Sube hasta su terraza en el columpio y baja a toda velocidad en tronco por el tobogán.
 - La cabaña de la terraza puede separarse para jugar por separado o conectar la Cabaña del Lago y construir así la Súper Cabaña de Diversión en el Árbol.
+- ¿Alguien ha dicho vacaciones? Sube a la autocaravana para llegar a la zona del lago. Aquí encontrarás la Casa de Aventuras en el Árbol, el sitio más divertido para disfrutar de las vacaciones.
+- La Casa de Aventuras en el Árbol tiene 4 habitaciones pequeñas y, además, un pasaje solo para los bebés de la Aldea Sylvanian.
+- El set incluye casa del árbol y accesorios como el tronco o el columpio. Figuras y mobiliario se venden por separado. Edad recomendada: +3 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085GSXP5B/?tag=tolees-21)
