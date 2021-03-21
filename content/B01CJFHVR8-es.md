@@ -28,10 +28,10 @@ En este momento está [Vtech Kidizoom Smartwatch DX- Reloj infantil inteligente 
 
 🔎:
 
-- Toma fotos y videos y agrega efectos a ellos
-- Más de 50 caras de reloj analógico y digital estilo 3D
 - Ocho juegos con más para descargar
+- Más de 50 caras de reloj analógico y digital estilo 3D
 - Pantalla táctil a color intuitiva
 - Sensor de movimiento - podómetro y más
+- Toma fotos y videos y agrega efectos a ellos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01CJFHVR8/?tag=tolees-21)
