@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAGIC BOX TOYS- POWERBOTS SUPERTHINGS Po al 40.95 % de rebaja'
-date: 2021-03-20 07:29:22
+date: 2021-03-21 07:52:29
 image: 'https://m.media-amazon.com/images/I/51YcLsRbQeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MAGIC BOX TOYS'
 buyurl: 'https://www.amazon.es/dp/B08NVWDKQ9/?tag=tolees-21'
 descuento: '40.95'
-average: '8.19045454545452'
+average: '8.11933333333331'
 ---
 
 Tienes [MAGIC BOX TOYS- POWERBOTS SUPERTHINGS Power Machines  Multicolor  Juguetes Pastor  S.L. PST7D068IN00 ](https://www.amazon.es/dp/B08NVWDKQ9/?tag=tolees-21) con precio final de  4.99 EUR (original: 8.45 EUR) (40.95 %  de rebaja) aqui!
