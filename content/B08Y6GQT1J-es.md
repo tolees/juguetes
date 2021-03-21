@@ -28,7 +28,7 @@ Está [Nintendo - Pokemon Perla Reluciente](https://www.amazon.es/dp/B08Y6GQT1J/
 
 ℹ️:
 
-- Fecha de lanzamiento sujeta a cambios
 - caratula no definitiva
+- Fecha de lanzamiento sujeta a cambios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08Y6GQT1J/?tag=tolees-21)
