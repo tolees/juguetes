@@ -28,9 +28,9 @@ Tienes [Disney - Carnaval  Puzzle de 1000 Piezas  Ravensburger 19383 7 ](https:/
 
 🔎:
 
+- El rompecabezas terminado mide 70 x 50 cm
 - Con acabado de lino para minimizar el deslumbramiento
 - En caja de cartón
 - Puzzle de 1000 piezas
-- El rompecabezas terminado mide 70 x 50 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HFR4NSQ/?tag=tolees-21)

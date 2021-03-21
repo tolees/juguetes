@@ -28,8 +28,8 @@ En este momento está [Sakami Merchandise - sakami sak77008 Personalizada One P
 
 🔎:
 
+- Angry versión
 - Perfecto para One de Punch Man amantes.
 - Licencia oficial.
-- Angry versión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XKK3GCF/?tag=tolees-21)
