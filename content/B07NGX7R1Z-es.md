@@ -28,8 +28,8 @@ Está [Hot Wheels HW Figure 8 Raceway Trackset incluye 1 DCC  Mattel GGF92 ](htt
 
 ℹ️:
 
-- Funciona a pilas para aumentar la velocidad; propulsa los coches a máxima velocidad para arrancar la competición a lo grande
 - ¡Haz carreras sin parar
+- Funciona a pilas para aumentar la velocidad; propulsa los coches a máxima velocidad para arrancar la competición a lo grande
 - ¡Superloopings, curvas extremas y una pista de más de 1.80 metros
 - ¡Distintos circuitos para ampliar el juego y darle caña a la imaginación
 
