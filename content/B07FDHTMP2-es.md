@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie Fashionista - Muñeco Ken asiático con pantalón nar
 
 🔎:
 
-- Los pantalones cortos naranjas tienen un efecto desgastado muy chulo
+- Gracias a su mayor variedad de estilos, coleccionar las muñecas Barbie Fashionistas es incluso más divertido; colecciónalas todas (Se venden por separado y están sujetas a disponibilidad)
+- Los zapatos blancos completan el look de Ken con estilo
 - La camiseta blanca y negra tiene un estampado geométrico muy a la moda
 - Los muñecos Ken Fashionistas causan sensación con sus looks a la última moda y sus estilos sin igual
-- Los zapatos blancos completan el look de Ken con estilo
-- Gracias a su mayor variedad de estilos, coleccionar las muñecas Barbie Fashionistas es incluso más divertido; colecciónalas todas (Se venden por separado y están sujetas a disponibilidad)
+- Los pantalones cortos naranjas tienen un efecto desgastado muy chulo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDHTMP2/?tag=tolees-21)
