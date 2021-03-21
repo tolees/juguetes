@@ -28,9 +28,9 @@ En este momento está [Nenuco Botiquín de emergencias  Famosa 700011613 ](https
 
 🔎:
 
+- Nenuco ayuda a los más pequeños a desarrollar la afectividad y las funciones básicas
+- Incluye: un maletín, un termómetro, una jeringuilla, un bebedor, un medidor de tensión y unas preciosas tiritas decoradas
 - Colecciona el resto de accesorios para Nenuco
 - Maletín de emergencia para cuidar a Nenuco
-- Incluye: un maletín, un termómetro, una jeringuilla, un bebedor, un medidor de tensión y unas preciosas tiritas decoradas
-- Nenuco ayuda a los más pequeños a desarrollar la afectividad y las funciones básicas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IARP3SY/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Paladone Posavasos Consola Nintendo  Corcho  Multicolor  
 
 🔎:
 
+- Producto oficial Nintendo
 - Incluyendo Super Mario Bros 2, Mario Bros, The Legend of Zelda, la serie clásica Metroid
 - 8 diseños diferentes con tus juegos NES favoritos
-- Producto oficial Nintendo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078YHCXWX/?tag=tolees-21)
