@@ -28,8 +28,8 @@ Tienes [Bandai MK59121 Toys & Construction  Multi](https://www.amazon.es/dp/B07Y
 
 ℹ️:
 
-- Approx 6.69"Tall
 - No glue required
 - Colored plastic, no paint required
+- Approx 6.69"Tall
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YNPBXS5/?tag=tolees-21)
