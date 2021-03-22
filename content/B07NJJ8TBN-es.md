@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Little People Granja cuida a los animali con un 35.84 % de descuento'
-date: 2020-04-03 10:32:18
+title: 'Fisher-Price Little People Granja cuida  con un 25.07 % de descuento'
+date: 2021-03-22 19:10:17
 image: 'https://m.media-amazon.com/images/I/41kDPaaoUTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07NJJ8TBN-es Little People Granja cuida a los animalitos juguetes bebés...'
+slug: 'B07NJJ8TBN-es Fisher-Price Little People Granja cuida a los animalitos...'
 sku: 'B07NJJ8TBN-es'
-tags: [ 'juguetes','mattel', ]
-actualPrice: 38.49 EUR
+tags: [ 'Figuras de animales de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','fisher-price','juguetes','mattel', ]
+actualPrice: 44.95 EUR
 currency: EUR
-price: 38.49
+price: 44.95
 comparePrice: 59.99 EUR
-prodname: 'Little People Granja cuida a los animalitos  juguetes bebés 1 año  Mattel FKD00 '
+prodname: 'Fisher-Price Little People Granja cuida a los animalitos  juguetes bebés 1 año  Mattel FKD00 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B07NJJ8TBN/?tag=tolees-21'
-descuento: '35.84'
-average: '38.49'
+descuento: '25.07'
+average: '41.72'
 ---
 
-En este momento está [Little People Granja cuida a los animalitos  juguetes bebés 1 año  Mattel FKD00 ](https://www.amazon.es/dp/B07NJJ8TBN/?tag=tolees-21) a 38.49 EUR (original: 59.99 EUR) (35.84 %  de descuento) en el siguiente enlace!
+En este momento está [Fisher-Price Little People Granja cuida a los animalitos  juguetes bebés 1 año  Mattel FKD00 ](https://www.amazon.es/dp/B07NJJ8TBN/?tag=tolees-21) a 44.95 EUR (original: 59.99 EUR) (25.07 %  de descuento) en el siguiente enlace!
 
-[![Little People Granja cuida a los animali](https://m.media-amazon.com/images/I/41kDPaaoUTL._SL400_.jpg)](https://www.amazon.es/dp/B07NJJ8TBN/?tag=tolees-21)
+[![Fisher-Price Little People Granja cuida ](https://m.media-amazon.com/images/I/41kDPaaoUTL._SL400_.jpg)](https://www.amazon.es/dp/B07NJJ8TBN/?tag=tolees-21)
 
 🔎:
 
+- Requiere montaje por parte de un adulto, se necesita un destornillador de estrella (no incluido)
+- toca la campana para avisar de que es la hora de comer
+- regalo óptimo para niños pequeños que incluye la figura del granjero jed y cuatro animales: un cerdito, una gallina, un caballo y una vaca con su ternero
+- Juguete para niños y bebés a partir de 1 año
+- al pulsar el botón , se activan divertidas canciones, sonidos de animales y frases, el botón también sirve para encender la luz y abrir las puertas del establo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NJJ8TBN/?tag=tolees-21)

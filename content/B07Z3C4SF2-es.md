@@ -28,8 +28,8 @@ Ahora mismo tienes [Devir- Paris: La Cité de la Lumière  BGPARSP ](https://www
 
 🔎:
 
-- Gracias a su forma compacta, jugable en cualquier sitio
 - Diseño evocativo de la tematica
+- Gracias a su forma compacta, jugable en cualquier sitio
 - Mecánicas sólidas, profundas y innovadoras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z3C4SF2/?tag=tolees-21)

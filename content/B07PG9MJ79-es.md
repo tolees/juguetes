@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Garmin 010-12845-00 accesorio para bicic al 24.29 % de rebaja'
-date: 2021-03-05 00:57:53
+date: 2021-03-22 19:05:59
 image: 'https://m.media-amazon.com/images/I/41QVqUcVnfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PG9MJ79-es Garmin 010-12845-00 accesorio para bicicleta Sensor de...'
 sku: 'B07PG9MJ79-es'
+tags: [ 'Deportes y aire libre','Electrónica y dispositivos para el deporte','Velocímetros','bicicleta','garmin', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99
