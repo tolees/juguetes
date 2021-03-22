@@ -28,10 +28,10 @@ Tienes [Nancy - Un Día de Secretos de Belleza Violeta  Busto de Peluquería y M
 
 🔎:
 
-- Incluye: gomas, purpurina para el pelo, tizas para decorar, accesorios para decorar su vestidos, extensiones de color y muchos más
-- Incluye más de 20 accesorios para decorarla especiales y coloridos con decoración candy actual
-- Nancy tiene el color de pelo morado ceniza para hacerle infinidad de peinados y maquillarla de mil maneras diferentes
 - Es el regalo óptimo para niñas que les encantan las tendencias y la belleza; recomendado a partir de 3 años
+- Nancy tiene el color de pelo morado ceniza para hacerle infinidad de peinados y maquillarla de mil maneras diferentes
+- Incluye más de 20 accesorios para decorarla especiales y coloridos con decoración candy actual
+- Incluye: gomas, purpurina para el pelo, tizas para decorar, accesorios para decorar su vestidos, extensiones de color y muchos más
 - El busto más bonito de Nancy ahora con el color de pelo y los accesorios más trendy del momento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QCDFLZ9/?tag=tolees-21)

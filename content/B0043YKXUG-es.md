@@ -28,10 +28,10 @@ En este momento está [Mattel Games Uno extreme  juego de cartas  Mattel V9364  
 
 🔎:
 
-- Busy activities include peek-a-boo tiger, bat-at monkey, rattle lizard, bobble elephant, spinner drum and more
-- ​Random card shooter offers an exciting, frenzied and unpredictable way to play UNO
-- ​Electronic shooter emits a variety of sounds to further increase the excitement
 - ​Keep cards in the shooter so the unit is both portable and storable
+- Busy activities include peek-a-boo tiger, bat-at monkey, rattle lizard, bobble elephant, spinner drum and more
+- ​Electronic shooter emits a variety of sounds to further increase the excitement
+- ​Random card shooter offers an exciting, frenzied and unpredictable way to play UNO
 - ​Includes an exclusive extreme hit card
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0043YKXUG/?tag=tolees-21)

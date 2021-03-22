@@ -28,10 +28,10 @@ Ahora mismo tienes [MQIAOHAM área de juego para niños colchonetas de espuma de
 
 🔎:
 
-- Can puzzle with our pattern mats.
+- SAFE FOAM MAT -- BPA Free, Phthalate Free, Lead Free. MQIAOHAM Play Mat is made from soft, safe, durable foam. Its Non-Toxic and Meet the US and Europe regulated safety standards.
 - PLAY MAT COVER AREA: 87CM x 172 CM( ±1CM) / (35 inch* 69 inch (±1 inch))
+- Can puzzle with our pattern mats.
 - MQIAOHAM brand is only sold in MQIAOHAM TOYS SHOP. And it is not sold to other dropshopping seller. Products from other stores cannot be spliced together with MQIAOHAM.
 - THICK SOFT PLAY MAT -- The thickness is 1cm (0.4 inch), strong flexibility and durability. Perfect for Floor Protection, Exercise, Yoga, Playroom.
-- SAFE FOAM MAT -- BPA Free, Phthalate Free, Lead Free. MQIAOHAM Play Mat is made from soft, safe, durable foam. Its Non-Toxic and Meet the US and Europe regulated safety standards.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BN97CVR/?tag=tolees-21)

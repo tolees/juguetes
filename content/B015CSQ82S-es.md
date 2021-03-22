@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir - Set  Juego de Mesa  222944 ](https://www.amazon.es/d
 
 🔎:
 
-- Juego de percepción visual para toda la familia
-- Número de jugadores: 1 - 20
 - Edad recomendada: 6 años y más
 - Juego adecuado para pasar el tiempo libre
+- Juego de percepción visual para toda la familia
 - Duración aproximada de la partida: 20 min
+- Número de jugadores: 1 - 20
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015CSQ82S/?tag=tolees-21)
