@@ -28,9 +28,9 @@ Ahora mismo tienes [Pinypon- Moto con sidecar para merendola en el campo  Famosa
 
 🔎:
 
+- Para niñas a partir de 4 años
+- Conjunto que incluye una figura de Pinypon, un moto y un sidecar
 - La figurita tiene un casco de seguridad
 - Incluye pequeños accesorios para decorar
-- Conjunto que incluye una figura de Pinypon, un moto y un sidecar
-- Para niñas a partir de 4 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088G7NPRB/?tag=tolees-21)
