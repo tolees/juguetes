@@ -28,10 +28,10 @@ Está [Nacon PS4OFCPADCLBLUE - Mando Compacto para PS4  Azul Transparente](https
 
 ℹ️:
 
-- 2 motores de vibración
-- La carcasa transparente y la retroiluminación mediante LED permiten que el mando brille en la oscuridad
-- Panel táctil totalmente funcional
 - Indicador LED de jugador
+- Panel táctil totalmente funcional
+- 2 motores de vibración
 - Conector para auriculares de 3.5 mm
+- La carcasa transparente y la retroiluminación mediante LED permiten que el mando brille en la oscuridad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0746RPQLB/?tag=tolees-21)

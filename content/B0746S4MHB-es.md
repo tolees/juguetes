@@ -29,8 +29,8 @@ Tienes [Nacon - Mando Compacto para PS4  color Naranja](https://www.amazon.es/dp
 🔎:
 
 - Dimensiones (Largo x Profundidad x Altura): 153 x 50 x 96 mm
+- Entrada de auriculares de 3,5 mm
 - Longitud del cable: 3m
 - Compatible con PC (solo xInput)
-- Entrada de auriculares de 3,5 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0746S4MHB/?tag=tolees-21)
