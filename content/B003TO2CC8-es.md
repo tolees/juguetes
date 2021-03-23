@@ -28,9 +28,9 @@ En este momento está [Fisher-Price Orinal Cuá Cuá 3 en 1  orinal para bebé +
 
 🔎:
 
-- Respaldo muy cómodo, con una graciosa cara de patito, que encantará al niño
 - Emite 4 melodías que premian los "éxitos" del niño
 - Tiene 3 funciones: orinal para niños, asiento que se coloca en la taza del váter, taburete para alcanzar la pila y lavarse las manitas
+- Respaldo muy cómodo, con una graciosa cara de patito, que encantará al niño
 - Viene con un protector antisalpicaduras extraíble
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003TO2CC8/?tag=tolees-21)
