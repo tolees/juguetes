@@ -28,10 +28,10 @@ Tienes [Pinypon Escuela de Brujitas - Set de juguete y accesorios con 1 figura p
 
 🔎:
 
-- La clase de pócimas tiene humo mágico y luces de verdad
-- Las figuras y accesorios de pinypon; además de ser muy divertidos; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendados a partir de 4 años
 - El juguete incluye la estructura de la escuela; 1 figura de la profesora brujita pinypon; 1 figura de la mascota dragón y muchos mágicos accesorios
 - La escuela de magia de las brujitas pinypon está llena de magia; secretos y diversión e incluye la profesora brujita y su mascota dragón
+- Las figuras y accesorios de pinypon; además de ser muy divertidos; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendados a partir de 4 años
+- La clase de pócimas tiene humo mágico y luces de verdad
 - Con muchos accesorios para realizar las clases de herbología, adivinación con bolas para leer el futuro, aprender a volar las escobas y adiestramiento de mascotas mágicas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QCF44WR/?tag=tolees-21)
