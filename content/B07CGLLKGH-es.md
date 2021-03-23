@@ -28,9 +28,9 @@ Ahora mismo tienes [NextX Pizarra Magnetica Infantil de Altura Ajustable de Dobl
 
 🔎:
 
-- ★ [DOBLE CARA] - Esta pizarra tiene dos lados, un lado es un pizarrón negro clásico y el otro es un pizarrón blanco fácil de limpiar, para que su hijo pueda dibujar en ambos lados. Un caballete multifuncional para inspirar pintura, dibujo y creatividad.
 - ★ [MATERIAL SEGURO] - Hecho de plástico de alta calidad, seguro, ecológico y no tóxico, probado para garantizar la máxima seguridad para su bebé. Además, el caballete presenta colores hermosos y vibrantes, que pueden atraer la atención de su hijo.
 - ★ [SERVICIO POST-VENTA] - Ofrecemos una garantía de devolución de dinero de 30 días (causada por daños no manuales). Apto para niños mayores de 3 años. Se recomienda la supervisión de un adulto.
+- ★ [DOBLE CARA] - Esta pizarra tiene dos lados, un lado es un pizarrón negro clásico y el otro es un pizarrón blanco fácil de limpiar, para que su hijo pueda dibujar en ambos lados. Un caballete multifuncional para inspirar pintura, dibujo y creatividad.
 - ★ [FÁCIL DE MONTAR] - Fácil de montar y desmontar para un fácil almacenamiento. El paquete incluye: 1 caballete, 1 borrador de tablero de dibujo, 6 imanes circulares, 3 pinceles de dibujo (rojo, azul, negro), 1 caja de tiza, 1 estuche de tiza.
 - ★ [ALTURA AJUSTABLE] - El caballete de pizarra tiene una altura ajustable entre 82 cm y 108 cm, para que su pequeño artista pueda sentarse cómodamente mientras disfruta dibujando.
 
