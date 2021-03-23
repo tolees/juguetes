@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO 75257 Star Wars Halcón Milenario  Regalo para D�
 
 🔎:
 
-- El interior incluye numerosos detalles: área de carga con 2 contenedores, ordenador de navegación con silla giratoria, sofá y tablero holográfico de Dejarik
-- Este set de construcción de nave espacial incluye también las armas: ballesta que dispara de Chewbacca, bláster de Finn y bláster de Lando
+- Un gratificante proyecto de construcción para ti, o un regalo especial para Día del Padre, cumpleaños o de Navidad para esa persona especial
 - Usa tu imaginación para interpretar las escenas de la película Star Wars; el Ascenso de Skywalker con este legendario nave espacial con mini figuras
 - LEGO Star Wars Halcón Milenario está equipado con torretas defensivas superior e inferior giratorias, 2 cañones automáticos, una rampa descendente y una cabina abatible
-- Un gratificante proyecto de construcción para ti, o un regalo especial para Día del Padre, cumpleaños o de Navidad para esa persona especial
+- El interior incluye numerosos detalles: área de carga con 2 contenedores, ordenador de navegación con silla giratoria, sofá y tablero holográfico de Dejarik
+- Este set de construcción de nave espacial incluye también las armas: ballesta que dispara de Chewbacca, bláster de Finn y bláster de Lando
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDB4Q7S/?tag=tolees-21)
