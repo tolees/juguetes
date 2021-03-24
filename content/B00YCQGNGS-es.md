@@ -28,10 +28,10 @@ Tienes [VTech- Volante Interactivo con Voz y luz  3480-166622 ](https://www.amaz
 
 ℹ️:
 
-- El intermitente activa distintos sonidos, melodías y canciones y el cachorrito interactivo anima al juego
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas o pilas recargables con carga completa de alta calidad para un mejor rendimiento
-- Incluye 3 modos de juego: animales, conducción y música
 - Versión española
+- Incluye 3 modos de juego: animales, conducción y música
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas o pilas recargables con carga completa de alta calidad para un mejor rendimiento
+- El intermitente activa distintos sonidos, melodías y canciones y el cachorrito interactivo anima al juego
 - Volante interactivo con voz, luces y música para aprender educación vial básica
 - El semáforo con luz enseña aspectos básicos sobre la seguridad vial, sus 5 botones de colores enseñan animales y vehículos y la palanca de cambios enseña los opuestos
 
