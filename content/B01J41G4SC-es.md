@@ -1,41 +1,42 @@
 ---
 layout: post
-title: 'LEGO City - Centro de Control Móvil  Jug al 26.48 % de rebaja'
-date: 2021-03-11 01:20:20
+title: 'LEGO Centro de Control móvil al 26.48 % de rebaja'
+date: 2021-03-25 09:23:40
 image: 'https://m.media-amazon.com/images/I/51wxtZFdkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B01J41G4SC-es LEGO City - Centro de Control Móvil Juguete de Policía de...'
+author: 'tole.es'
+slug: 'B01J41G4SC-es LEGO Centro de Control móvil'
 sku: 'B01J41G4SC-es'
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4
 comparePrice: 39.99 EUR
-prodname: 'LEGO City - Centro de Control Móvil  Juguete de Policía de Construcción con Camión  Coche y Moto para Niños y Niñas de 6 a 12 Años  Incluye Figura de Perro  60139 '
+prodname: 'LEGO Centro de Control móvil'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01J41G4SC/?tag=tolees-21'
 descuento: '26.48'
-average: '31.7659016393444'
+average: '31.7970810810812'
 ---
 
-Tienes [LEGO City - Centro de Control Móvil  Juguete de Policía de Construcción con Camión  Coche y Moto para Niños y Niñas de 6 a 12 Años  Incluye Figura de Perro  60139 ](https://www.amazon.es/dp/B01J41G4SC/?tag=tolees-21) con precio final de  29.4 EUR (original: 39.99 EUR) (26.48 %  de rebaja) aqui!
+Tienes [LEGO Centro de Control móvil](https://www.amazon.es/dp/B01J41G4SC/?tag=tolees-21) con precio final de  29.4 EUR (original: 39.99 EUR) (26.48 %  de rebaja) aqui!
 
-[![LEGO City - Centro de Control Móvil  Jug](https://m.media-amazon.com/images/I/51wxtZFdkrL._SL400_.jpg)](https://www.amazon.es/dp/B01J41G4SC/?tag=tolees-21)
+[![LEGO Centro de Control móvil](https://m.media-amazon.com/images/I/51wxtZFdkrL._SL400_.jpg)](https://www.amazon.es/dp/B01J41G4SC/?tag=tolees-21)
 
 🔎:
 
-- La cabeza tractora mide más de 8 cm de altura, 13 cm de longitud y 7 cm de ancho.
-- Atrapa a los ladrones y enciérralos de nuevo en la celda.
-- Prepara el Centro de control móvil y descarga la moto de policía.
-- Este set proporciona una experiencia de construcción y juego apropiada para niños de 6 a 12 años.
-- Accesorios incluidos: una taza, una mochila, dos billetes, dos conos, una llave inglesa, una radio, una señal de alto y un juego de esposas.
-- Engancha la cadena a los barrotes de la puerta de la celda y acelera con el quad para desprenderla.
-- El quad de los ladrones cuenta con una cadena y un gancho.
-- El Centro de control móvil cuenta con cabina desmontable, celda con función de liberación y espacio para dos minifiguras, sala de vigilancia con pantallas, antena parabólica en el techo, un escritorio, una silla y espacio de almacenamiento para la moto y las herramientas en la parte trasera del remolque.
 - Contiene un Centro de control móvil, una moto de policía y el quad de los ladrones.
+- Atrapa a los ladrones y enciérralos de nuevo en la celda.
+- La cabeza tractora mide más de 8 cm de altura, 13 cm de longitud y 7 cm de ancho.
+- El Centro de control móvil cuenta con cabina desmontable, celda con función de liberación y espacio para dos minifiguras, sala de vigilancia con pantallas, antena parabólica en el techo, un escritorio, una silla y espacio de almacenamiento para la moto y las herramientas en la parte trasera del remolque.
+- Accesorios incluidos: una taza, una mochila, dos billetes, dos conos, una llave inglesa, una radio, una señal de alto y un juego de esposas.
+- Este set proporciona una experiencia de construcción y juego apropiada para niños de 6 a 12 años.
+- El quad de los ladrones cuenta con una cadena y un gancho.
 - Incluye cuatro minifiguras: dos agentes de policía y dos ladrones; incluye también una figura de un perro policía.
+- Engancha la cadena a los barrotes de la puerta de la celda y acelera con el quad para desprenderla.
+- Prepara el Centro de control móvil y descarga la moto de policía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01J41G4SC/?tag=tolees-21)
