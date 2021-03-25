@@ -28,15 +28,15 @@ En este momento está [LEGO La Aventura del Barco Pirata](https://www.amazon.es/
 
 🔎:
 
-- Contiene un escenario Minecraft para construir inspirado en una isla y un barco pirata de juguete con lanzamisiles que funcionan de verdad, detalles dorados, bandera pirata, pasarela y un bote de remos.
-- Cuida del simpático loro y dale de comer al delfín.
-- Accesorios incluidos: un mapa, TNT, una base para el fuego, 2 palas, un cofre, un tesoro, una bandera pirata, una botella de agua, una antorcha y una brújula.
-- Mueve las secciones modulares del barco para crear un naufragio al estilo Minecraft.
+- Incluye 2 minifiguras: un pirata y Alex; incluye también un zombi Minecraft y figuras Minecraft de un delfín, un loro y una tortuga (novedades en enero de 2019).
+- Armas incluidas: una espada.
+- Sube tus patas de cangrejo a bordo de un barco pirata Minecraft. Dispara los cañones para ahuyentar a las criaturas hostiles y proteger los huevos de la tortuga del ataque del zombi.
 - Mide más de 15 cm de altura, 23 cm de ancho y 23 cm de profundidad.
 - Da rienda suelta a tu imaginación: ¡reconstruye el set y vive nuevas aventuras al estilo LEGO Minecraft!
-- Sube tus patas de cangrejo a bordo de un barco pirata Minecraft. Dispara los cañones para ahuyentar a las criaturas hostiles y proteger los huevos de la tortuga del ataque del zombi.
+- Mueve las secciones modulares del barco para crear un naufragio al estilo Minecraft.
+- Cuida del simpático loro y dale de comer al delfín.
+- Accesorios incluidos: un mapa, TNT, una base para el fuego, 2 palas, un cofre, un tesoro, una bandera pirata, una botella de agua, una antorcha y una brújula.
 - Este set incluye más de 386 elementos.
-- Armas incluidas: una espada.
-- Incluye 2 minifiguras: un pirata y Alex; incluye también un zombi Minecraft y figuras Minecraft de un delfín, un loro y una tortuga (novedades en enero de 2019).
+- Contiene un escenario Minecraft para construir inspirado en una isla y un barco pirata de juguete con lanzamisiles que funcionan de verdad, detalles dorados, bandera pirata, pasarela y un bote de remos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FNT8XC3/?tag=tolees-21)
