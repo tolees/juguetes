@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Devir- Picnic  Multicolor  Varias    col con un 15.00 % de descuento'
-date: 2021-03-03 18:47:20
+date: 2021-03-26 13:08:18
 image: 'https://m.media-amazon.com/images/I/61rVjnyrKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ1N3TT-es Devir- Picnic Multicolor Varias color/modelo surtido'
 sku: 'B07CQ1N3TT-es'
+tags: [ 'Juego de mesa','Juegos de acción y reflejos','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','devir','devir-', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5
@@ -27,7 +28,7 @@ En este momento está [Devir- Picnic  Multicolor  Varias    color/modelo surtido
 
 🔎:
 
-- De 2 a 6 jugadores
 - Unos 15 minutos por partida
+- De 2 a 6 jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CQ1N3TT/?tag=tolees-21)
