@@ -28,10 +28,10 @@ Ahora mismo tienes [Pinypon Action- Bote pirata con 2 figuras para niños y niñ
 
 🔎:
 
-- Fomenta la imaginación y la creatividad de los niños y niñas
 - Bote de los piratas pinypon action para vivir miles de aventuras con los piratas más temidos del océano
-- Incluye 2 figuras: el tiburón y el pirata pinypon action
-- El bote tiene remos; un cañón que dispara y un compartimento secreto
 - El bote mide 15 x 6 x 8cm y la figura mide 8cm
+- El bote tiene remos; un cañón que dispara y un compartimento secreto
+- Incluye 2 figuras: el tiburón y el pirata pinypon action
+- Fomenta la imaginación y la creatividad de los niños y niñas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0839QXXR7/?tag=tolees-21)
