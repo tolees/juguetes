@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - King of Tokyo edición en Castell con un 19.26 % de descuento'
-date: 2021-03-22 12:01:35
+date: 2021-03-26 17:18:21
 image: 'https://m.media-amazon.com/images/I/61CcDEh+dgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B01MAY918M/?tag=tolees-21'
 descuento: '19.26'
-average: '28.0292307692308'
+average: '28.06'
 ---
 
 En este momento está [Devir - King of Tokyo edición en Castellano 2016  BGHKOT ](https://www.amazon.es/dp/B01MAY918M/?tag=tolees-21) a 28.26 EUR (original: 35.0 EUR) (19.26 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Devir - King of Tokyo edición en Castellano 2016  BGHKOT
 
 🔎:
 
-- Número de jugadores: 2 - 6
 - Juego adecuado para pasar el tiempo libre
+- Número de jugadores: 2 - 6
 - Tipo de producto: juego de mesa
-- Edad recomendada: 8 años y más
 - Duración aproximada de la partida: 30 min
+- Edad recomendada: 8 años y más
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MAY918M/?tag=tolees-21)
