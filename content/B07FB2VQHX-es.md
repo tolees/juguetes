@@ -28,10 +28,10 @@ Ahora mismo tienes [SuperZings - Estación de Policía  PSZSP112IN01  con 2 Excl
 
 🔎:
 
-- Contiene 1 estación de policía de Kaboom City, 2 SuperZings adecuados y 1 moto adecuada
-- ¡Bienvenidos a Kaboom City! La ciudad de los SuperZings, donde podrás crear millones de historias y donde Superhéroes y Supervillanos se enfrentarán en divertidas aventuras
 - En la estación de policía dispara el cañón del tejado, encuentra la salida secreta y captura a los villanos
 - Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos; estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 - Vive s aventuras de SuperZings con las figuras adecuadas Captain Justice y Chuckchain
+- ¡Bienvenidos a Kaboom City! La ciudad de los SuperZings, donde podrás crear millones de historias y donde Superhéroes y Supervillanos se enfrentarán en divertidas aventuras
+- Contiene 1 estación de policía de Kaboom City, 2 SuperZings adecuados y 1 moto adecuada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FB2VQHX/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Mattel Games Scrabble original  juegos de mesa para adultos y niños a p
 
 ℹ️:
 
-- El objetivo del juego es conseguir las máximas puntuaciones deletreando palabras cruzadas sobre un tablero; para empezar, cada jugador coge siete fichas al azar
 - Scrabble es el clásico juego de palabras para divertirse deletreando
-- Incluye un tablero de juego de scrabble, cien fichas con letras, cuatro atriles, una bolsa para las fichas y las instrucciones de juego
-- Scrabble no es solo un juego, también sirve para mejorar el vocabulario descubriendo palabras nuevas en cada partida
 - La puntuación de las palabras se calcula en función del valor de cada letra y de las posibles casillas con premio del tablero
+- Scrabble no es solo un juego, también sirve para mejorar el vocabulario descubriendo palabras nuevas en cada partida
 - Número de jugadores: 2
+- Incluye un tablero de juego de scrabble, cien fichas con letras, cuatro atriles, una bolsa para las fichas y las instrucciones de juego
+- El objetivo del juego es conseguir las máximas puntuaciones deletreando palabras cruzadas sobre un tablero; para empezar, cada jugador coge siete fichas al azar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D8BNQT0/?tag=tolees-21)
