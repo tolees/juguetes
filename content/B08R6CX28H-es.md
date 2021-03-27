@@ -28,9 +28,9 @@ En este momento está [Educa Exclusive Series Esther Gili Junio. Puzzle de 1000 
 
 🔎:
 
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Número de piezas: 1000. Medida aproximada una vez montado: 68 x 48 cm
-- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1894. Educa es sinónimo de calidad y experiencia
 - La ilustradora Esther Gili hace magia con sus acuarelas y nos enamora con cada una de sus ilustraciones.
+- Número de piezas: 1000. Medida aproximada una vez montado: 68 x 48 cm
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1894. Educa es sinónimo de calidad y experiencia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R6CX28H/?tag=tolees-21)

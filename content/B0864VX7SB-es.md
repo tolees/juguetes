@@ -28,10 +28,10 @@ Ahora mismo tienes [SuperThings Rivals of Kaboom - Secret Spies - Blíster  PST6
 
 🔎:
 
-- El blíster Hideout es el accesorio perfecto para completar tu colección de SuperThings Secret Spies ¡los SuperThings Spies podrán descubrir que está pasando en Kaboom City!
 - El blíster Hideout de Secret Spies incluye 1 Spy Detector con el que podrás descubrir si tu SuperThings es un villano o un héroe y 1 Secret Hideout, la nueva guarida de última tecnología que se abre con un código secreto
 - Además este blíster incluye 4 SuperThings, uno de ellos es plateado y otro ¡un espía! Secret Spies está llena de sorpresas
 - Descubre los nuevos equipos junto a sus capitanes plateados y dorados, y a los 12 espías secretos en dos colores diferentes ¡más de 80 nuevos SuperThings para coleccionar!
+- El blíster Hideout es el accesorio perfecto para completar tu colección de SuperThings Secret Spies ¡los SuperThings Spies podrán descubrir que está pasando en Kaboom City!
 - Los SuperThings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperThings tienen su rival, busca las parejas rivales y forma tus Superequipos. Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0864VX7SB/?tag=tolees-21)
