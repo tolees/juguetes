@@ -28,9 +28,9 @@ Está [Nerf Elite 2.0 Turbine CS-18-Pistola motorizada  36 Oficiales  Clip de 18
 
 ℹ️:
 
-- Pistola lista para actualizar: personaliza el bláster para cada batalla o misión aprovechando los cuatro rieles tácticos y un punto de fijación del barril (extensión de barril no incluida)
 - Blaster motorizado: disparar dardos rápidamente desde el lanzador motorizado y abrumar a la competencia. Mantenga pulsado el botón de aceleración y tire del gatillo. Funciona con pilas (no incluidas)
 - Incluye 36 dardos Nerf: viene con 36 dardos oficiales Nerf para cargar completamente el clip de 18 dardos – y 18 dardos más para que estés listo para recargar. Dispara, recarga y dispara un poco más
 - Dispara dardos de hasta 27 m: va a la distancia con este lanzador que dispara dardos de hasta 27 metros
+- Pistola lista para actualizar: personaliza el bláster para cada batalla o misión aprovechando los cuatro rieles tácticos y un punto de fijación del barril (extensión de barril no incluida)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0824SGQP1/?tag=tolees-21)

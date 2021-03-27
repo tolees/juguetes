@@ -28,10 +28,10 @@ Tienes [SmartGyro Xtreme XD Patín eléctrico para niños y jóvenes  ruedas 8" 
 
 🔎:
 
+- Display multifunción que permite seleccionar 3 marchas diferentes, con indicador de velocidad, kilometraje, capacidad de batería, estructura ligera y resistente, para niños y jóvenes de hasta 70 Kg
 - Dimensiones: desplegado 1100 x 410 x 1020 mm, plegado 1020 x 152 x 400 mm, powered by Woxter
 - El patín eléctrico Xtreme XD está pensado para ser utilizado por niños y jóvenes y va más allá de un simple juguete, ya que proporciona al usuario un transporte perfecto para ir al colegio, instituto
-- Incorpora luces traseras, permite ascender pendientes con un ángulo de inclinación de 15º, incorpora trasero eléctrico por maneta, protección de batería baja, muy ligero
 - Motor Brushless, batería de litio con 6.600 mAh, suspensión delantera, rueda neumática delantera para absorber baches y rueda trasera maciza para evitar pinchazos, hasta 18 km de autonomía
-- Display multifunción que permite seleccionar 3 marchas diferentes, con indicador de velocidad, kilometraje, capacidad de batería, estructura ligera y resistente, para niños y jóvenes de hasta 70 Kg
+- Incorpora luces traseras, permite ascender pendientes con un ángulo de inclinación de 15º, incorpora trasero eléctrico por maneta, protección de batería baja, muy ligero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GZLYC4J/?tag=tolees-21)
