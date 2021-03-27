@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Picnic  Multicolor  Varias    col con un 15.00 % de descuento'
-date: 2021-03-26 13:08:18
+date: 2021-03-27 19:20:45
 image: 'https://m.media-amazon.com/images/I/61rVjnyrKQL._SL400_.jpg'
 comments: true
 category: ofertas
