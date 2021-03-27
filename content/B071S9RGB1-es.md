@@ -29,10 +29,10 @@ Está [ASTRO Gaming A10 Auriculares alámbricos  ligeros y resistentes  ASTRO Au
 ℹ️:
 
 - Construcción duradera: Para uso extremo, de construcción ligera y robusta y materiales de calidad para un ajuste cómodo; con almohadillas de tela y cuero sintético para el rendimiento acústico
-- Flip-to-mute: El micrófono unidireccional con función flip-to-mute te permite comunicarte con tus compañeros claramente; el ajuste de volumen proporciona más control para estar a cargo de tu audio
-- Confort de larga duración: Diseñados para sesiones de juego maratonianas, los cascos para gaming A10 también se adaptan cómodamente a todos los auriculares de RV
 - Audio ASTRO: Cascos creados con desarrolladores, streamers y gamers profesionales, para ofrecer un audio con un espectro de frecuencia neutro, suave y ampliado y así lograr un sonido detallado y real
+- Flip-to-mute: El micrófono unidireccional con función flip-to-mute te permite comunicarte con tus compañeros claramente; el ajuste de volumen proporciona más control para estar a cargo de tu audio
 - Compatibilidad entre plataformas: Experimenta ASTRO Audio para todo tipo de videojuegos, incluyendo consolas, PC, Mac y móvil
+- Confort de larga duración: Diseñados para sesiones de juego maratonianas, los cascos para gaming A10 también se adaptan cómodamente a todos los auriculares de RV
 - Compatible con PlayStation 5 usando el puerto de 3.5mm en el controlador PlayStation
 - Compatible con Xbox Series X|S usando el puerto de 3.5mm en el controlador Xbox
 

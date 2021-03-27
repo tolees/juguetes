@@ -28,11 +28,11 @@ Ahora mismo tienes [LEGO 21028 Architecture Skyline Collection Ciudad de Nueva Y
 
 🔎:
 
-- Incluye una base de 4x32 y una placa decorativa con la etiqueta “New York City” (Ciudad de Nueva York)
-- Recrea las ciudades más hermosas del mundo con la colección LEGO Architecture Skyline
 - Cuenta con el edificio Flatiron, el edificio Chrysler, el edificio Empire State, el complejo One World Trade Center y la Estatua de la Libertad
-- Mide 26 cm de altura, 25 cm de ancho y 4 cm de profundidad
 - El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre la ciudad de Nueva York y su legado arquitectónico (sólo en inglés)
+- Recrea las ciudades más hermosas del mundo con la colección LEGO Architecture Skyline
 - La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a todos aquellos interesados en el diseño, la arquitectura y la historia
+- Mide 26 cm de altura, 25 cm de ancho y 4 cm de profundidad
+- Incluye una base de 4x32 y una placa decorativa con la etiqueta “New York City” (Ciudad de Nueva York)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B012NOGGHQ/?tag=tolees-21)
