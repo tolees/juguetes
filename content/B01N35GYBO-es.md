@@ -28,10 +28,10 @@ Tienes [Disney Traditions  Figura de Hakuna Matata: Pumba  Timón y Simba de "El
 
 ℹ️:
 
-- Material: resina
-- Está destinada para adultos, no es un juguete
 - Los imanes permiten reemplazar el cachorro Simba con el Simba adulto
-- Nombre de línea: Disney Tradition
+- Está destinada para adultos, no es un juguete
 - Licencia Disney
+- Material: resina
+- Nombre de línea: Disney Tradition
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N35GYBO/?tag=tolees-21)
