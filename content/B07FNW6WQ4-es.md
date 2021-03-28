@@ -28,13 +28,13 @@ Tienes [LEGO 42093 Technic Chevrolet Corvette ZR1 Modelo de Coche de C
 
 🔎:
 
-- Apto para mayores de 9 años
-- Los sets LEGO Technic reproducen movimientos y mecanismos de gran realismo que permiten a los jóvenes constructores LEGO adentrarse en el universo de la ingeniería de un modo accesible y práctico
-- El Chevrolet Corvette mide más de 8 cm de altura, 29 cm de longitud y 12 cm de ancho
 - Acciona el mecanismo de dirección y mueve el vehículo para activar los pistones del motor V8 a la vista
-- Este coche de juguete coleccionable cuenta con una genuina combinación de colores en naranja y negro e incluye una lámina de adhesivos para aportar un mayor nivel de detalle
-- Set LEGO Technic “2 en 1”: construye también un deportivo clásico
+- Los sets LEGO Technic reproducen movimientos y mecanismos de gran realismo que permiten a los jóvenes constructores LEGO adentrarse en el universo de la ingeniería de un modo accesible y práctico
 - El deportivo clásico mide más de 8 cm de altura, 23 cm de longitud y 12 cm de ancho
+- El Chevrolet Corvette mide más de 8 cm de altura, 29 cm de longitud y 12 cm de ancho
 - Este modelo LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante
+- Apto para mayores de 9 años
+- Set LEGO Technic “2 en 1”: construye también un deportivo clásico
+- Este coche de juguete coleccionable cuenta con una genuina combinación de colores en naranja y negro e incluye una lámina de adhesivos para aportar un mayor nivel de detalle
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FNW6WQ4/?tag=tolees-21)
