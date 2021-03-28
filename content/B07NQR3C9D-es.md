@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Astral Chain al 26.67 % de rebaja'
-date: 2021-03-26 23:46:16
+date: 2021-03-28 19:57:53
 image: 'https://m.media-amazon.com/images/I/51jbcRn0BdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07NQR3C9D/?tag=tolees-21'
 descuento: '26.67'
-average: '40.7356'
+average: '40.8607692307692'
 ---
 
 Tienes [Nintendo - Astral Chain](https://www.amazon.es/dp/B07NQR3C9D/?tag=tolees-21) con precio final de  43.99 EUR (original: 59.99 EUR) (26.67 %  de rebaja) aqui!
@@ -31,7 +31,7 @@ Tienes [Nintendo - Astral Chain](https://www.amazon.es/dp/B07NQR3C9D/?tag=tolees
 - Como parte de una unidad especial de la policía, deberás plantarles cara a misteriosas bestias de aspecto alienígena que han invadido el mundo
 - Astral Chain, un nuevo juego de acción de PlatinumGames, llega en exclusiva para Nintendo Switch
 - La única esperanza es la unidad especial de policía Neuron, creada para detener la amenaza
-- En Ark, una ciudad multicultural del futuro cercano, se desencadena el desastre cuando aparecen de repente portales a otra dimensión
 - Bestias peligrosas emergen de ellos y comienzan a atacar a la gente y a contaminarlo todo; la policía se ve incapaz de hacerles frente
+- En Ark, una ciudad multicultural del futuro cercano, se desencadena el desastre cuando aparecen de repente portales a otra dimensión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NQR3C9D/?tag=tolees-21)
