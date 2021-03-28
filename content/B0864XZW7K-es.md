@@ -29,9 +29,9 @@ Ahora mismo tienes [SuperThings Rivals of Kaboom - Secret Spies - Vehículo Kid 
 🔎:
 
 - Dispara los SuperCañones y activa el modo aéreo para volar, y entrar en la batalla lanzando la peonza especial
-- Crea nuevas aventuras de espías SuperThings con el mega vehículo último modelo del Ultra Raro Kid Fury ¡El súper malo malísimo de la serie Secret Spies!
-- Secret Spies nos presenta una nueva tecnología de espionaje para SuperThings ¡No dejes de jugar y divertirte con todas la nuevas opciones!
 - Contiene: 1 mega vehículo con 1 lanzador de última tecnología, 1 peonza lanzadora y 1 figura exclusiva de ¡Kid Fury!
+- Secret Spies nos presenta una nueva tecnología de espionaje para SuperThings ¡No dejes de jugar y divertirte con todas la nuevas opciones!
 - Los SuperThings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
+- Crea nuevas aventuras de espías SuperThings con el mega vehículo último modelo del Ultra Raro Kid Fury ¡El súper malo malísimo de la serie Secret Spies!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0864XZW7K/?tag=tolees-21)
