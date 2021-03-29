@@ -28,10 +28,10 @@ En este momento está [Barbie - Muñecas Barbie y Chelsea con caballos y accesor
 
 🔎:
 
+- Las amantes de los caballos tienen la posibilidad de adoptar a estas mascotas y cuidar de ellas con accesorios como un comedero, un cubo, manzanas y zanahorias, una bala de paja, una botella, una cesta y una manta
+- El cepillo incluido es perfecto para cuidar las crines y las colas del caballo y el poni
 - Las pequeñas amantes de los caballos darán rienda suelta a la diversión con el conjunto Barbie y Chelsea con sus Caballos, compuesto por 2 muñecas, 2 caballos, un cachorrito y más de 15 accesorios
 - Las niñas podrán crear su propia cuadra con piezas de vallas que se conectan
-- El cepillo incluido es perfecto para cuidar las crines y las colas del caballo y el poni
-- Las amantes de los caballos tienen la posibilidad de adoptar a estas mascotas y cuidar de ellas con accesorios como un comedero, un cubo, manzanas y zanahorias, una bala de paja, una botella, una cesta y una manta
 - El caballo y el poni tienen cabezas que se tambalean para representar el movimiento real, además de una silla de montar en colores vivos, riendas y bridas para cabalgar hacia la diversión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NH1S3CX/?tag=tolees-21)

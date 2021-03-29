@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch - Mando Pro Controller   al 19.90 % de descuento'
-date: 2021-03-28 15:43:19
+date: 2021-03-29 22:05:27
 image: 'https://m.media-amazon.com/images/I/41CeBj4pDcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01N4ND1T2/?tag=tolees-21'
 descuento: '19.90'
-average: '63.4889035087719'
+average: '63.4236956521738'
 ---
 
 Ahora mismo tienes [Nintendo Switch - Mando Pro Controller  Con Cable USB](https://www.amazon.es/dp/B01N4ND1T2/?tag=tolees-21) a 55.99 EUR (original: 69.9 EUR) (19.90 %  de descuento) en el siguiente enlace!
