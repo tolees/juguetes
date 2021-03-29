@@ -28,13 +28,13 @@ Tienes [Ravensburger 26275 Disney Villainous  Versión Española  Juego de Mesa 
 
 🔎:
 
-- Versión española
-- Los materiales, las cartas y los tableros ilustrados con gran esmero y el atractivo diseño de los peones hacen del juego un regalo óptimo para los apasionados del mundo Disney
-- Las instrucciones de juego están cuidadosamente redactadas y las dinámicas del juego no resultan complejas una vez experimentadas
 - Las dinámicas de juego se adaptan fácilmente a diferentes categorías de jugadores: expertos, principiantes, familias y entusiastas del universo Disney
-- Una partida dura de media de 60 a 120 minutos, según el número de jugadores, así que es el juego óptima para pasar una tarde de juegos de mesa con amigos o familiares
 - Un juego de mesa asimétrico con 6 famosos Villanos Disney como protagonistas: el Capitán Garfio, Úrsula, el Príncipe Juan, Jafar, Maléfica y la Reina de Corazones
+- Los materiales, las cartas y los tableros ilustrados con gran esmero y el atractivo diseño de los peones hacen del juego un regalo óptimo para los apasionados del mundo Disney
+- Versión española
 - Disney Villainous es para 2-6 jugadores y está recomendado para mayores de 10 años
+- Las instrucciones de juego están cuidadosamente redactadas y las dinámicas del juego no resultan complejas una vez experimentadas
+- Una partida dura de media de 60 a 120 minutos, según el número de jugadores, así que es el juego óptima para pasar una tarde de juegos de mesa con amigos o familiares
 - Cada uno tiene un objetivo malvado que alcanzar y diferentes Héroes a los que derrotar: Ariel, Peter Pan, Aladdín
 - Cada Villano tiene su propia guía, que le servirá a cada jugador a elaborar una estrategia ganadora y alcanzar el objetivo de su Villano
 
