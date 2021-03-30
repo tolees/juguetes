@@ -29,9 +29,9 @@ Tienes [Juegos Mattel - Mattel Games UNO Flip Juegos de cartas  Mattel GDR44 ](h
 🔎:
 
 - uno flip es el juego de cartas clásico con un giro nuevo y emocionante
+- al jugar la carta especial “flip”, hay que darles la vuelta a todas las cartas uno, incluidas las de la pila para robar, para descubrir una baraja de números y colores en el lado contrario
 - la baraja de cartas uno flip incluye nuevas cartas especiales, con las que robarás 5 cartas o te saltarás el turno de todos
 - Juego de mesa que incluye 112 cartas y las reglas de juego, juego de bolsillo óptimo para familias y jugadores a partir de 7 años
-- al jugar la carta especial “flip”, hay que darles la vuelta a todas las cartas uno, incluidas las de la pila para robar, para descubrir una baraja de números y colores en el lado contrario
 - una baraja de cartas a doble cara y una carta especial “flip”, que dará un giro competitivo a la versión clásica de uno
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JKB2H59/?tag=tolees-21)

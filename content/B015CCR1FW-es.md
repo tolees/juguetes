@@ -28,10 +28,10 @@ Está [Barbie Dreamtopia  muñeca Sirena Luces de Arcoíris  regalo para niñas 
 
 ℹ️:
 
+- Al pulsar botón del collar de barbie su cola de sirena se ilumina y a sumergerla en el agua también
+- Regalo óptimo para niñas y niños de más de 3 años
 - Sumerge a barbie sirena luces de arcoíris en agua para ver cómo su cola de sirena brilla con luces de colores inspiradas en el arcoíris
 - Barbie también incluye una bonita aletas de color arcoíris, un cinturón decorado con "perlas", corona de princesa y un largo pelo con mechas rosas
 - Complementa el juego de barbie sirena luces de arcoíris con el resto de accesorios y muñecas barbie dreamtopia
-- Al pulsar botón del collar de barbie su cola de sirena se ilumina y a sumergerla en el agua también
-- Regalo óptimo para niñas y niños de más de 3 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B015CCR1FW/?tag=tolees-21)
