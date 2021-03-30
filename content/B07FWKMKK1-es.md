@@ -28,10 +28,10 @@ Está [Mattel Disney Toy Story 4 Figura Duke Caboom acrobacias y Carreras con Su
 
 ℹ️:
 
-- figura de acción duke caboom de la película toy story 4 de disney pixar
-- figura de acción duke caboom articulada que incluye la moto para hacer acrobacias
 - para aún más la diversión, colecciona todos los muñecos y figuras de acción de toy story y toy story 4 (se venden por separado y están sujetos a disponibilidad)
 - aspecto fiel al de la película toy story 4 para recrear las aventuras de la película
 - juguete óptimo para niños a partir de 3 años y fans de toy story 4 o cualquier película de toy story
+- figura de acción duke caboom articulada que incluye la moto para hacer acrobacias
+- figura de acción duke caboom de la película toy story 4 de disney pixar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FWKMKK1/?tag=tolees-21)
