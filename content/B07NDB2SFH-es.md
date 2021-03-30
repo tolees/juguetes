@@ -28,9 +28,9 @@ Ahora mismo tienes [LEGO 75255 Star Wars Yoda  Set de construcción para
 
 🔎:
 
-- Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set
-- La figura LEGO Star Wars de Yoda con la espada láser mide más de 41 cm de altura
 - Este modelo coleccionable inspirado en Star Wars
+- Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set
 - Contiene 1771 piezas
+- La figura LEGO Star Wars de Yoda con la espada láser mide más de 41 cm de altura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21)
