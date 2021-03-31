@@ -28,13 +28,13 @@ Ahora mismo tienes [ASTRO Gaming A40 TR Auriculares alámbricos y MixAmp Pro TR 
 
 🔎:
 
-- Mod Kit: Añade Mod Kit (por separado) a tus A40TR y transfórmalos en auriculares cerrados con aislamiento de ruido, con almohadillas de cuero sintético y un micrófono con aislamiento de voz
-- Funcionalidad de tarjeta de sonido USB: En un ordenador, la funcionalidad de tarjeta de sonido USB proporciona equilibrio de juego-voz y streaming de juego y voz sin necesidad de cables ópticos
-- Nota! No compatible con XBOX
-- Audio 3D: El audio espacial te da un soporte completo de audio posicional 3D
-- Ajuste y acabado superiores: Diseñados para sesiones maratonianas de juego, los auriculares para videojuegos A40 TR son ligeros, cómodos y están hechos para durar
-- Compatible con PlayStation 5: Para habilitar el juego se requerirá un adaptador HDMI Voice Balance (se vende por separado)
 - Software del Centro de Mando ASTRO: Mejora el control de comunicación de voz y los ajustes de audio ajustando cada parámetro de entrada y salida a las necesidades específicas de su entorno de juego
 - Sintonizado para gaming: ASTRO Audio V2 ofrece audio de calidad profesional para los jugadores cuando más lo necesitan, desde la transmisión en vivo en su casa hasta la competición en un torneo
+- Audio 3D: El audio espacial te da un soporte completo de audio posicional 3D
+- Compatible con PlayStation 5: Para habilitar el juego se requerirá un adaptador HDMI Voice Balance (se vende por separado)
+- Mod Kit: Añade Mod Kit (por separado) a tus A40TR y transfórmalos en auriculares cerrados con aislamiento de ruido, con almohadillas de cuero sintético y un micrófono con aislamiento de voz
+- Ajuste y acabado superiores: Diseñados para sesiones maratonianas de juego, los auriculares para videojuegos A40 TR son ligeros, cómodos y están hechos para durar
+- Nota! No compatible con XBOX
+- Funcionalidad de tarjeta de sonido USB: En un ordenador, la funcionalidad de tarjeta de sonido USB proporciona equilibrio de juego-voz y streaming de juego y voz sin necesidad de cables ópticos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PTMMSTS/?tag=tolees-21)
