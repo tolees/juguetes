@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nerf Modulus Mediator  Hasbro E0016EU5  al 20.87 % de descuento'
-date: 2021-03-27 18:36:31
+title: 'Nerf Modulus Mediator  Hasbro E0016EU5  al 16.56 % de descuento'
+date: 2021-03-31 19:40:05
 image: 'https://m.media-amazon.com/images/I/41bycaIhAUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B077JYRC6V-es Nerf Modulus Mediator Hasbro E0016EU5'
 sku: 'B077JYRC6V-es'
 tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Juguetes','Juguetes y juegos','hasbro','nerf', ]
-actualPrice: 23.66 EUR
+actualPrice: 24.95 EUR
 currency: EUR
-price: 23.66
+price: 24.95
 comparePrice: 29.9 EUR
 prodname: 'Nerf Modulus Mediator  Hasbro E0016EU5 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B077JYRC6V/?tag=tolees-21'
-descuento: '20.87'
-average: '21.9878571428571'
+descuento: '16.56'
+average: '22.358125'
 ---
 
-Está [Nerf Modulus Mediator  Hasbro E0016EU5 ](https://www.amazon.es/dp/B077JYRC6V/?tag=tolees-21) con 20.87 de descuento por 23.66 EUR (original: 29.9 EUR) en el siguiente enlace!
+Está [Nerf Modulus Mediator  Hasbro E0016EU5 ](https://www.amazon.es/dp/B077JYRC6V/?tag=tolees-21) con 16.56 de descuento por 24.95 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![Nerf Modulus Mediator  Hasbro E0016EU5 ](https://m.media-amazon.com/images/I/41bycaIhAUL._SL400_.jpg)](https://www.amazon.es/dp/B077JYRC6V/?tag=tolees-21)
 
 ℹ️:
 
-- Lanza los dardos en ráfaga
-- Se puede añadir un cañón y una culata (el cañón y la culata se venden por separado)
-- Forma parte de la serie mediator
+- Forma parte de la serie Mediator
 - Raíles tácticos
 - Lanzador con clip y acción de bombeo
+- Lanza los dardos en ráfaga
+- Se puede añadir un cañón y una culata (el cañón y la culata se venden por separado)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077JYRC6V/?tag=tolees-21)
