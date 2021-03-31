@@ -28,10 +28,10 @@ Tienes [Bright Starts  Gimnasio de Actividades 5 en 1 Your Way Ball Play  incluy
 
 🔎:
 
-- Dispone de 20 minutos de melodías
-- Los bordes de la manta pueden levantarse para formar paredes
-- Diversión con esta manta de juegos piscina de bolas
 - Años de diversión para el bebé: desde sus primeros meses de vida hasta que llega a los dos años
+- Dispone de 20 minutos de melodías
+- Diversión con esta manta de juegos piscina de bolas
 - Manta de juegos infantil creativa con luces
+- Los bordes de la manta pueden levantarse para formar paredes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CVDU4MW/?tag=tolees-21)
