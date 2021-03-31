@@ -29,9 +29,9 @@ Tienes [The Bellies From Bellyville - The Bellies - Scape hahahat  Accesorio mu�
 🔎:
 
 - Scape hahahat es el gorro para dormir de los bellies
-- Funciona con 3 pilas lr41 / 1.5v
 - Tiene una luz secreta en el pompón que se ilumina en la oscuridad y una máscara para los ojos debajo del gorrito
-- Es el regalo para niñas y niños mayores de 3 años
 - Válido para los bellies de 17 cm (no apto para mini bellies)
+- Funciona con 3 pilas lr41 / 1.5v
+- Es el regalo para niñas y niños mayores de 3 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0839RSQWB/?tag=tolees-21)
