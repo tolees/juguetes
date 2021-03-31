@@ -29,9 +29,9 @@ Ahora mismo tienes [Sakami Merchandise One Piece Portgas Ruffy - Figura de Peluc
 🔎:
 
 - Con detalles bordados, suave y agradable.
+- Figura de peluche oficial de One Piece.
+- Ruffy como peluche
 - Regalo perfecto para los fans.
 - Altura: 25 cm.
-- Ruffy como peluche
-- Figura de peluche oficial de One Piece.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QHFDXCH/?tag=tolees-21)
