@@ -28,10 +28,10 @@ Tienes [Winning Moves-El Padrino: Monopoly [Español]  20009000006 ](https://www
 
 🔎:
 
-- 2 a 4 jugadores
+- Peones personalizados
 - Caja ilustrada
 - Licencia oficial
-- Peones personalizados
 - Tablero personalizado
+- 2 a 4 jugadores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DR8NK9L/?tag=tolees-21)

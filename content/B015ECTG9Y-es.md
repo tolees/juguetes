@@ -28,11 +28,11 @@ Tienes [Thrustmaster TX RACING WHEEL LEATHER EDITION - Volante - XboxOne / PC -F
 
 🔎:
 
-- Simulador de carreras force feedback de siguiente generación para xbox one y pc
-- Compatible con Xbox Series X
-- Led de emparejamiento del controlador para detección de kinect
-- Juego de pedales t3pa incluido; estructura interna 100% metal
 - Nuevo mecanismo optimizado de correa doble, sin fricción
+- Compatible con Xbox Series X
 - Volante de piel cosida a mano para lograr la máxima comodidad en las carreras
+- Juego de pedales t3pa incluido; estructura interna 100% metal
+- Simulador de carreras force feedback de siguiente generación para xbox one y pc
+- Led de emparejamiento del controlador para detección de kinect
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B015ECTG9Y/?tag=tolees-21)
