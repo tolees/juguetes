@@ -28,10 +28,10 @@ Tienes [HORI - PlayStand Super Mario  Nintendo Switch / Switch Lite ](https://ww
 
 🔎:
 
-- 3 ángulos distintos para ajustarse a cada situación de juego
 - Licencia oficial de Nintendo
-- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
-- Se pliega al completo para una portabilidad total
 - Base y respaldo con botones de goma antideslizantes para una experiencia de juego sin sobresaltos
+- Se pliega al completo para una portabilidad total
+- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
+- 3 ángulos distintos para ajustarse a cada situación de juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A9UATHO/?tag=tolees-21)
