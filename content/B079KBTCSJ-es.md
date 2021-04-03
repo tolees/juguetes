@@ -30,7 +30,7 @@ Tienes [Mattel Games - Pooparoos  mascotas de juguete sorpresa con inodoros  Mat
 
 - Guarda la comida en la cisterna y la figura Pooparoos en la taza
 - Cada inodoro cuenta con varias sorpresas, incluidas una mascota Pooparoos extravagante y blandita, así como 3 paquetes de papeles que se disuelven y tienen comida dentro
-- Juego divertido y sorprendente de hacer caca con figuras Pooparoos
 - Diversión ilimitada: alimenta, aprieta y haz caca una y otra vez
+- Juego divertido y sorprendente de hacer caca con figuras Pooparoos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079KBTCSJ/?tag=tolees-21)
