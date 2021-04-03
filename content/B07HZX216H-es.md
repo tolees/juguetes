@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Devir - Exit: Muerte en el Orient Expres al 29.73 % de descuento'
-date: 2021-03-15 15:50:58
+date: 2021-04-03 18:52:51
 image: 'https://m.media-amazon.com/images/I/51nTBHuPYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZX216H-es Devir - Exit: Muerte en el Orient Express Ed. Español BGEXIT8'
 sku: 'B07HZX216H-es'
+tags: [ 'Juego de mesa','Juegos de misterio','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','devir', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07HZX216H/?tag=tolees-21'
 descuento: '29.73'
-average: '13.709'
+average: '13.7991666666667'
 ---
 
 Está [Devir - Exit: Muerte en el Orient Express  Ed. Español  BGEXIT8 ](https://www.amazon.es/dp/B07HZX216H/?tag=tolees-21) con 29.73 de descuento por 14.25 EUR (original: 20.28 EUR) en el siguiente enlace!
@@ -27,8 +28,8 @@ Está [Devir - Exit: Muerte en el Orient Express  Ed. Español  BGEXIT8 ](https:
 
 ℹ️:
 
-- Producto de calidad
 - Devir iberia, 227130
 - Exit muerte
+- Producto de calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HZX216H/?tag=tolees-21)
