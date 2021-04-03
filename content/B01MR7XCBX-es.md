@@ -28,10 +28,10 @@ Ahora mismo tienes [Educa Borras - Genuine Puzzles  Puzzle 1.500 piezas  Atardec
 
 🔎:
 
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Serie Genuine
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Edad recomendada: a partir de 12 años
+- Serie Genuine
+- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MR7XCBX/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Ravensburger - Funny Games Demoniak  Juego de Mesa  26723 ](https://www.
 
 🔎:
 
-- Partidas cortas pero intensas
+- Reglas simples e intuitivas
 - Formato compacto súper práctico
 - Edad recomendada: a parir de 8 años
-- Reglas simples e intuitivas
+- Partidas cortas pero intensas
 - Numerosas variaciones del juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01HI2O7R4/?tag=tolees-21)
