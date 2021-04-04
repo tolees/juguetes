@@ -28,10 +28,10 @@ Ahora mismo tienes [Juegos Mattel - Mattel Games Pedorretas  juegos de mesa para
 
 🔎:
 
-- Juego de mesa que incluye un lanzapedorretas y una baraja de cartas
-- consigue ser el último jugador en tirarse una pedorreta y gana la partida
 - por turnos, los jugadores juegan las cartas y aprietan el lanzapedorretas tantas veces como la carta indique
 - si el lanzapedorretas se tira un pedo cuando lo estás apretando,,, estás eliminado
 - las cartas especiales, como "pierde el turno" y "cambio de sentido", le dan más emoción al juego
+- Juego de mesa que incluye un lanzapedorretas y una baraja de cartas
+- consigue ser el último jugador en tirarse una pedorreta y gana la partida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BKBWKI2/?tag=tolees-21)
