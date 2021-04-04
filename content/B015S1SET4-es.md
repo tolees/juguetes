@@ -28,7 +28,7 @@ Tienes [Juego de Tronos Monopoly  82905   Multicolor  Eleven Force](https://www.
 
 🔎:
 
-- Juegos de mesa juegos de acción y reflejos juego de tronos
 - Monopoly juego de tronos (82905)
+- Juegos de mesa juegos de acción y reflejos juego de tronos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B015S1SET4/?tag=tolees-21)
