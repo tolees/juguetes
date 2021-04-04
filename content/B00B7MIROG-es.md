@@ -28,9 +28,9 @@ Ahora mismo tienes [Educa - Héroes Marvel Puzzle  500 Piezas  Multicolor  15560
 
 🔎:
 
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Edad recomendada: a partir de 10 años
 - Número de piezas: 500, medida aproximada una vez montado: 48 x 34
+- Edad recomendada: a partir de 10 años
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Exclusives Series Marvel
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 
