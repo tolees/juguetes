@@ -30,8 +30,8 @@ Tienes [Educa - Ámsterdam paisajes y Lagos Puzzle  2000 Piezas  Multicolor  171
 
 - Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
 - Edad recomendada: a partir de 12 años
-- Serie Genuine
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Serie Genuine
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01NCZJSP4/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Disney Traditions  Figura de Simba y Mufasa de "El Rey Le
 
 🔎:
 
-- Está destinada para adultos, no es un juguete
-- Arte popular inspirado con colores vivos
 - Diseñada por Jim Shore
-- Detalles precisos hechos a mano en resina
+- Está destinada para adultos, no es un juguete
 - Figurina decorativa de la colección Disney Traditions
+- Detalles precisos hechos a mano en resina
+- Arte popular inspirado con colores vivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WV5VT3/?tag=tolees-21)
