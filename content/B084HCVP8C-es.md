@@ -28,10 +28,10 @@ En este momento está [Toy Story - Figura Forky con Voz 18 cm  Bizak 61234460 ](
 
 🔎:
 
-- No un juguete, un cubierto. , ja, ja, ja forky
-- Su cuerpo se balancea de lado a lado mietras sus brazos se mueven hacía arriba y hacía abajo
-- Recrea las aventuras de la película
 - Empuja a forky hacía delante para obtener una acción divertida con sus ruedas de movimento libre
 - Presiona el botón, forky habla 15 frases y canciones
+- Recrea las aventuras de la película
+- Su cuerpo se balancea de lado a lado mietras sus brazos se mueven hacía arriba y hacía abajo
+- No un juguete, un cubierto. , ja, ja, ja forky
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084HCVP8C/?tag=tolees-21)
