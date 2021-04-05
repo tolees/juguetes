@@ -28,15 +28,15 @@ En este momento está [LEGO Super Heroes - Batman y el Robo de Enigma Juguete de
 
 🔎:
 
+- Los sets de construcción de juguetes LEGO 4+ están especialmente diseñados para entretener a los peques de una manera fácil y divertida, ayudándoles a adquirir confianza mediante los sencillos pasos de construcción, perfectos para iniciarse en la construcción con ladrillos LEGO.
+- Accesorios incluidos: monopatín para construir y palanca de Enigma.
+- La minifigura de Enigma es novedad en junio de 2019.
 - El cajero automático para construir dispone de un punto de conexión para la dinamita de Enigma.
 - Los juguetes creativos LEGO 4+ introducen a tu peque en el amplísimo universo de sus películas, personajes de televisión y héroes cotidianos favoritos.
-- Este set LEGO DC Batman incluye 2 minifiguras: Batman y Enigma.
-- Los sets de construcción LEGO 4+, comercializados anteriormente con la marca LEGO Juniors, se pueden combinar con todos los ladrillos LEGO y sets LEGO originales para estimular la construcción creativa.
 - Este juguete de superhéroes es el mejor regalo de cumpleaños para los preescolares y peques fascinados con Batman.
-- La minifigura de Enigma es novedad en junio de 2019.
 - Armas incluidas: batarang de Batman y dinamita de Enigma.
+- Este set LEGO DC Batman incluye 2 minifiguras: Batman y Enigma.
 - El coche de juguete de fácil construcción basado en el Batmobile cuenta con chasis de construcción rápida, cabina para una minifigura, 2 puntos de conexión independientes para el batarang de Batman, 2 batwings y un escape en llamas.
-- Accesorios incluidos: monopatín para construir y palanca de Enigma.
-- Los sets de construcción de juguetes LEGO 4+ están especialmente diseñados para entretener a los peques de una manera fácil y divertida, ayudándoles a adquirir confianza mediante los sencillos pasos de construcción, perfectos para iniciarse en la construcción con ladrillos LEGO.
+- Los sets de construcción LEGO 4+, comercializados anteriormente con la marca LEGO Juniors, se pueden combinar con todos los ladrillos LEGO y sets LEGO originales para estimular la construcción creativa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KTK9B3H/?tag=tolees-21)

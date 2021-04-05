@@ -28,10 +28,10 @@ Está [VTech - Capitán Periscopio  Juguete para el baño  Submarino Interactivo
 
 ℹ️:
 
+- Juguete para que el baño diario se convierta en una rutina divertida y educativa y todo acompañado de luces, sonidos y canciones.
 - Divertido submarino interactivo para que el bebé interaccione con el juguete mientras empieza a aprender rutinas de higiene.
 - Incluye: numerosos elementos para manipular como una barca, un periscopio para verter agua, dos engranajes con divertidos animales dibujados y otros.
 - 3 canciones para enseñar de manera divertida la rutina del baño.Juguete muy colorido que despertará la curiosidad del bebé y desarrollará el sentido de la vista.
 - Dispone de una bomba para llenar de agua de la bañera el deposito y derramarlo a través de su periscopio y otros elementos.
-- Juguete para que el baño diario se convierta en una rutina divertida y educativa y todo acompañado de luces, sonidos y canciones.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087DPGRS1/?tag=tolees-21)
