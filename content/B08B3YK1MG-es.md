@@ -30,8 +30,8 @@ Está [Air Hogs- Stunt Shot Juguete  Bizak 61924647 ](https://www.amazon.es/dp/B
 
 - Incluye 1 vehículo, 1 mando y cable de carga USB. El mando requiere 2 pilas AAA LR03 (no incluidas)
 - Para jugar en espacios interiores y perfeccionar las diferentes acrobacias en espacios cerrados
-- Es capaz de realizar acrobacias: volteretas, giros de 360º, baja por las escaleras, rebota contra las paredes y se desplaza sobre objetos
-- RC con tecnología patentada, ligero y con acción 4x4
 - Con grandes ruedas de espuma, blanditas, se desplaza con facilidad, y lo mejor de todo es que no destrozará las paredes ni los muebles
+- RC con tecnología patentada, ligero y con acción 4x4
+- Es capaz de realizar acrobacias: volteretas, giros de 360º, baja por las escaleras, rebota contra las paredes y se desplaza sobre objetos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B3YK1MG/?tag=tolees-21)
