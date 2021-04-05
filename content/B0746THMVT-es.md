@@ -28,10 +28,10 @@ Está [BigBen Interactive SWITCHSTORAGECASE  Funda rígida con compartimentos pa
 
 ℹ️:
 
-- Material resistente a golpes y arañazos
-- Compartimentos para los accesorios de la Nintendo Switch
 - Espacio para 6 cartuchos de juegos
-- Bolsillo para cable HDMI y mandos Joy-Con
+- Compartimentos para los accesorios de la Nintendo Switch
 - Color negro
+- Material resistente a golpes y arañazos
+- Bolsillo para cable HDMI y mandos Joy-Con
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0746THMVT/?tag=tolees-21)
