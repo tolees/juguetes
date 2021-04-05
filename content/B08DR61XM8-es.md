@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Hasbro- Super Mario Bros: Monopoly  2000 con un 15.30 % de descuento'
-date: 2021-02-16 09:49:55
-image: 'https://m.media-amazon.com/images/I/51IEV+khjEL._SL200_.jpg'
+title: 'Hasbro Super Mario Bros: Monopoly con un 21.86 % de descuento'
+date: 2021-04-05 15:52:39
+image: 'https://m.media-amazon.com/images/I/51IEV+khjEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B08DR61XM8-es Hasbro- Super Mario Bros: Monopoly 20003172085'
+author: 'tole.es'
+slug: 'B08DR61XM8-es Hasbro Super Mario Bros: Monopoly'
 sku: 'B08DR61XM8-es'
-actualPrice: 32.99 EUR
+tags: [ 'Juego de mesa','Juegos de miniaturas','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','hasbro','monopoly', ]
+actualPrice: 31.64 EUR
 currency: EUR
-price: 32.99
-comparePrice: 38.95 EUR
-prodname: 'Hasbro- Super Mario Bros: Monopoly  20003172085 '
+price: 31.64
+comparePrice: 40.49 EUR
+prodname: 'Hasbro Super Mario Bros: Monopoly'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hasbro'
 buyurl: 'https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21'
-descuento: '15.30'
-average: '34.75'
+descuento: '21.86'
+average: '33.8028571428571'
 ---
 
-En este momento está [Hasbro- Super Mario Bros: Monopoly  20003172085 ](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21) a 32.99 EUR (original: 38.95 EUR) (15.30 %  de descuento) en el siguiente enlace!
+En este momento está [Hasbro Super Mario Bros: Monopoly](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21) a 31.64 EUR (original: 40.49 EUR) (21.86 %  de descuento) en el siguiente enlace!
 
-[![Hasbro- Super Mario Bros: Monopoly  2000](https://m.media-amazon.com/images/I/51IEV+khjEL._SL200_.jpg)](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21)
+[![Hasbro Super Mario Bros: Monopoly](https://m.media-amazon.com/images/I/51IEV+khjEL._SL400_.jpg)](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21)
 
 🔎:
 
-- Licencia oficial
 - 2 a 4 jugadores
-- Caja ilustrada
-- Tablero personalizado
+- Licencia oficial
 - Peones personalizados
+- Tablero personalizado
+- Caja ilustrada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21)
