@@ -28,10 +28,10 @@ Está [Mega Brands - Mega Bloks Bloques de construcción Pinguino Escondite  Mat
 
 ℹ️:
 
-- Los bloques son compatibles con todos los conjuntos de construcción de peek-a-blocks y mega bloks para divertirse aprendiendo sin parar
 - Ideales para niños a partir de 1 año y respaldados por fisher-price, los bloques first builders son perfectos para manitas pequeñas y ofrecen un montón de opciones de juego manuales para desarrollar la imaginación y la motricidad gruesa
 - ​​
 - El conjunto de juego incluye 1 pingüino peek-a-blocks, 12 bloques de construcción grandes con dibujos estampados y 1 tobogán con lanzador
+- Los bloques son compatibles con todos los conjuntos de construcción de peek-a-blocks y mega bloks para divertirse aprendiendo sin parar
 - Diseño totalmente nuevo para disfrutar de juegos llenos de acción: coloca el animal peek-a-blocks sobre un bloque para activar una divertida sorpresa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XB3J1YP/?tag=tolees-21)
