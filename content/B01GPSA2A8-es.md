@@ -28,8 +28,8 @@ En este momento está [Trolls - Puzzle 3B Bola  Ravensburger 12197 ](https://www
 
 🔎:
 
-- Edad mínima recomendada: 2 años
 - Producto para niñas y niños
 - Material de alta calidad
+- Edad mínima recomendada: 2 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GPSA2A8/?tag=tolees-21)
