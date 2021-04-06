@@ -28,12 +28,12 @@ Está [Hasbro Gaming- TABÚ Gaming Clasico Juego de Mesa  Multicolor  26.7 x 20.
 
 ℹ️:
 
-- Más de 100 palabras no usadas en versiones anteriores
-- Corre contra el reloj para usar tantas cartas como puedas
-- País de origen: Irlanda
 - Da pistas sin usar las palabras prohibidas
 - Contenido actual para los jugadores de hoy en día
-- Los jugadores harán sonar la bocina para interrumpir a quienes usen palabras prohibidas
+- Más de 100 palabras no usadas en versiones anteriores
 - Nuevo tabú completamente renovado con más de 1000 palabras y 5 formas diferentes de juego
+- Los jugadores harán sonar la bocina para interrumpir a quienes usen palabras prohibidas
+- País de origen: Irlanda
+- Corre contra el reloj para usar tantas cartas como puedas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BD2E6VI/?tag=tolees-21)
