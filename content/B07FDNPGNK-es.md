@@ -28,12 +28,12 @@ Ahora mismo tienes [Polly Pocket Cofre Perfume Spa  Muñeca con Accesorios  Matt
 
 🔎:
 
-- El carro de golf es perfecto para que las muñecas de colección Polly y Lila se muevan por el balneario (ambas muñecas caben dentro)
+- El Cofre perfume spa de Polly Pocket, que tiene forma de frasco de perfume, se abre para descubrir un balneario con las mini muñecas Polly y Lila
+- Además, la mesa de masajes se abre para descubrir una barra para tomar el té y merendar, y la puerta de la ducha se abre para las muñecas de juguete
 - ​El cofre tiene un tamaño reducido ideal para llevarse las aventuras en el balneario a todas partes; incluye un Cofre perfume spa de Polly Pocket, las muñecas Polly y Lila, y un carro de golf
 - Luego, comienzan a descubrir las sorpresas: las taquillas de dentro del spa se pueden abatir para descubrir un jacuzzi y la silla de la peluquería se mueve para atender a las mini muñecas
-- Además, la mesa de masajes se abre para descubrir una barra para tomar el té y merendar, y la puerta de la ducha se abre para las muñecas de juguete
-- El Cofre perfume spa de Polly Pocket, que tiene forma de frasco de perfume, se abre para descubrir un balneario con las mini muñecas Polly y Lila
 - Las pegatinas Polly Stick permiten pegar las muñecas a cualquier parte del cofre de muñecas; solo hay que colocar la pegatina de la hoja incluida y las mini muñecas se pegarán a la zona adhesiva
 - ¡Oh, qué función más genial! Con solo llenar de agua la boquilla del perfume desmontable, volverlo a montar y apretarlo, ¡el agua baja hacia el jacuzzi del juego de muñecas!
+- El carro de golf es perfecto para que las muñecas de colección Polly y Lila se muevan por el balneario (ambas muñecas caben dentro)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDNPGNK/?tag=tolees-21)
