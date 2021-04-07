@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERTHINGS RIVALS OF KABOOM- Battle Spi con un 36.14 % de descuento'
-date: 2021-04-05 13:21:59
+date: 2021-04-07 07:05:54
 image: 'https://m.media-amazon.com/images/I/51nuaWQ8gxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SUPERTHINGS RIVALS OF KABOOM'
 buyurl: 'https://www.amazon.es/dp/B08JZ88CL8/?tag=tolees-21'
 descuento: '36.14'
-average: '11.0992727272727'
+average: '11.0648648648648'
 ---
 
 En este momento está [SUPERTHINGS RIVALS OF KABOOM- Battle Spinners Serie 7 2 Figuras exclusivas SBattle  Multicolor  Magic Box 5 ](https://www.amazon.es/dp/B08JZ88CL8/?tag=tolees-21) a 7.28 EUR (original: 11.4 EUR) (36.14 %  de descuento) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [SUPERTHINGS RIVALS OF KABOOM- Battle Spinners Serie 7 2 F
 
 - Paqueteage Weight: 300.0 grams
 - Juego Super Things
-- Number of players: 2
 - Paqueteage Dimensiones: 48.0 L x 42.0 H x 20.0 W (centimeters)
+- Number of players: 2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JZ88CL8/?tag=tolees-21)
