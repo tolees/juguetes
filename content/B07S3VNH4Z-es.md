@@ -29,10 +29,10 @@ Tienes [Canal Toys- SO Soap Factory Juguete  Color Verde  SOC 003 ](https://www.
 🔎:
 
 - Marca Canal Toys
-- Crea tus cupcakes de jabon y personalizalas
-- Color verde
-- Actividades creativas
-- Arcilla y plastilina
 - Ciencias
+- Arcilla y plastilina
+- Actividades creativas
+- Color verde
+- Crea tus cupcakes de jabon y personalizalas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S3VNH4Z/?tag=tolees-21)

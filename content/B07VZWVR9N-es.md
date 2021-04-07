@@ -31,7 +31,7 @@ Tienes [Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch ](htt
 - 2x Fundas para Juegos: cada una permite guardar 4 juegos
 - Consola, mandos, juegos y accesorios adicionales no incluidos
 - 2x Fundas para microSD: cada una permite 2 tarjetas
-- ¡Nuevo! El separador sirve como soporte para la consola; estuche de transporte para consola
 - Guarda y protege el sistema Nintendo Switch, separador acolchado y con compartimientos para los Joy-Con Action Grips (no incluidos)
+- ¡Nuevo! El separador sirve como soporte para la consola; estuche de transporte para consola
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21)
