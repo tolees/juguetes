@@ -28,10 +28,10 @@ En este momento está [BANDAI Dragon Ball Super TCG Spirit of Potara Starter Dec
 
 🔎:
 
-- Deck: 51 cards
 - 1 play sheet
-- 1 rule manual
 - Each Starter Deck contains a Unison card exclusive to each Deck
+- Deck: 51 cards
 - 5 Secret Rare cards in each Startr Deck
+- 1 rule manual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089DPQ38W/?tag=tolees-21)

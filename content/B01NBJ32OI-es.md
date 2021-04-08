@@ -28,10 +28,10 @@ Ahora mismo tienes [Hot Wheels Pista Megalooping Infernal  pista de coches de ju
 
 🔎:
 
-- Lucha contra tus amigos y pon a prueba tus habilidades en esta pista giratoria épica
+- Se requieren 6 baterías D o LR20
+- Calcula bien tu lanzamiento y conseguirás dar vueltas por el circuito para perseguir y golpear los coches rivales
 - Esta pista interactiva y estratégica viene cargada de acción y velocidad
 - Los pilotos tienen que lanzar sus coches Hot Wheels de forma estratégica por la pista giratoria
-- Calcula bien tu lanzamiento y conseguirás dar vueltas por el circuito para perseguir y golpear los coches rivales
-- Se requieren 6 baterías D o LR20
+- Lucha contra tus amigos y pon a prueba tus habilidades en esta pista giratoria épica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01NBJ32OI/?tag=tolees-21)

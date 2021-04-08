@@ -28,13 +28,13 @@ Tienes [VTech - KidiSecrets Mi primer diario  electrónico e interactivo  graba 
 
 🔎:
 
+- Versión española
+- Incorpora 6 botones con distintas funciones: grabar, escuchar las grabaciones, música (10 melodías, no canciones), volumen, juego de números y cambio de voz
+- Tiene una cubierta que se abre con un código secreto de 4 dígitos creado cuando empieza a usarse; esta contraseña se puede cambiar con el botón RESET situado en el compartimento de las pilas
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Incluye dos juegos: juego de números, la unidad piensa un número y tiene que adivinarlo siguiendo las pistas de menor que, mayor que, está entre x-y; cambio de voz, la unidad repite lo que dices cambiando el tono a agudo, grave, rápido, despacio, eco y robot
 - Diario personal electrónico que incluye un cuaderno tamaño a6 con 30 páginas con dibujos y un rotulador para escribir, dibujar y añadir sus datos
 - Graba mensajes de aproximadamente 30 segundos en cada número (10 en total
-- Tiene una cubierta que se abre con un código secreto de 4 dígitos creado cuando empieza a usarse; esta contraseña se puede cambiar con el botón RESET situado en el compartimento de las pilas
-- Incluye dos juegos: juego de números, la unidad piensa un número y tiene que adivinarlo siguiendo las pistas de menor que, mayor que, está entre x-y; cambio de voz, la unidad repite lo que dices cambiando el tono a agudo, grave, rápido, despacio, eco y robot
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Incorpora 6 botones con distintas funciones: grabar, escuchar las grabaciones, música (10 melodías, no canciones), volumen, juego de números y cambio de voz
 - Se puede personalizar la cubierta con una foto personal, incluye compartimento secreto debajo del cuaderno para guardar pequeños objetos
-- Versión española
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MQWZ9DV/?tag=tolees-21)
