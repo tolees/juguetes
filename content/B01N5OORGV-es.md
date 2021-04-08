@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.24 % en Nintendo - Mando Joycon Set  Color Azul '
-date: 2021-04-06 19:18:44
+date: 2021-04-08 01:21:45
 image: 'https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21'
 descuento: '16.24'
-average: '73.9022525597269'
+average: '73.878775510204'
 ---
 
 Tienes [Nintendo - Mando Joycon Set  Color Azul Y Rojo  Nintendo Switch ](https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21) con un 16.24 % de descuento con precio de oferta de 67.0 EUR (original: 79.99 EUR) en el siguiente enlace!
