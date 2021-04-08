@@ -29,8 +29,8 @@ En este momento está [Yellies Peluche Harry Scoots  multicolor  Hasbro E5379EL2
 🔎:
 
 - Cuanto más fuerte gritas, más rápido van las Yellies
-- Las arañas Yellies! reaccionan al oírte: los ojos se iluminan y las patas se mueven
-- Las arañas Yellies! tienen un movimiento activado con sonido: grita, canta, aplaude o toca música
 - Cada una de las adorables arañas Yellies! tiene una personalidad única; busca tu favorita
+- Las arañas Yellies! tienen un movimiento activado con sonido: grita, canta, aplaude o toca música
+- Las arañas Yellies! reaccionan al oírte: los ojos se iluminan y las patas se mueven
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G4CPBG3/?tag=tolees-21)
