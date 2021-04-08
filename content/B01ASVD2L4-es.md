@@ -28,7 +28,7 @@ Tienes [Fisher-Price - Codi-oruga  Mattel DKT39    color/modelo surtido](https:/
 
 🔎:
 
-- Conexiones divertidas
 - Con la Codi-oruga, el desarrollo realmente entra en juego
+- Conexiones divertidas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ASVD2L4/?tag=tolees-21)
