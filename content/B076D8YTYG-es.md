@@ -28,10 +28,10 @@ En este momento está [Zubita Rascadores para Gatos  Árbol para Gatos Arañazo 
 
 🔎:
 
-- 【Proteger los Muebles】El sisal resistente es para el cuidado de las uñas del gato, que disfrutará rascando su árbol y a la vez esto ayuda a proteger sus mobiliarios como cortinas, camas, etc.
-- 【Cómoda Cama de Descanso】Hay una torre de gatos de descanso diseñada para que los gatitos descanse. Está cubierto con suaves pelusas largas, proporcionando una cama para que tu gato descanse y duerma cómodamente.
-- 【El Paquete Contiene】1 X Árbol de gato.Dimensiones: 28*28*29 cm. Recomendamos este árbol de gato para gatos y gatitos de tamaño pequeño. Si amas a tu gato y le das este árbol de actividades para gatos como un regalo para tus adorables gatos.
-- 【Desmontable】El poste rascador de gato tiene un diseño desmontable que se puede ensamblar y desmontar con simples tornillos en los conectores. Es conveniente que lo lleve con usted cuando viaje con gatos.
 - 【Diseño Compacto】Hecho de tableros ecológicos, fácil de montar y transportar. Ocupa poco espacio y cabe en cualquier esquina de su casa.
+- 【Desmontable】El poste rascador de gato tiene un diseño desmontable que se puede ensamblar y desmontar con simples tornillos en los conectores. Es conveniente que lo lleve con usted cuando viaje con gatos.
+- 【El Paquete Contiene】1 X Árbol de gato.Dimensiones: 28*28*29 cm. Recomendamos este árbol de gato para gatos y gatitos de tamaño pequeño. Si amas a tu gato y le das este árbol de actividades para gatos como un regalo para tus adorables gatos.
+- 【Cómoda Cama de Descanso】Hay una torre de gatos de descanso diseñada para que los gatitos descanse. Está cubierto con suaves pelusas largas, proporcionando una cama para que tu gato descanse y duerma cómodamente.
+- 【Proteger los Muebles】El sisal resistente es para el cuidado de las uñas del gato, que disfrutará rascando su árbol y a la vez esto ayuda a proteger sus mobiliarios como cortinas, camas, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076D8YTYG/?tag=tolees-21)
