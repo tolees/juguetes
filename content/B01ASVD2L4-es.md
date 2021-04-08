@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price - Codi-oruga  Mattel DKT39  al 23.08 % de rebaja'
-date: 2021-03-28 23:27:52
+date: 2021-04-08 13:44:31
 image: 'https://m.media-amazon.com/images/I/41ctcl8+p1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B01ASVD2L4/?tag=tolees-21'
 descuento: '23.08'
-average: '51.8233333333333'
+average: '52.99'
 ---
 
 Tienes [Fisher-Price - Codi-oruga  Mattel DKT39    color/modelo surtido](https://www.amazon.es/dp/B01ASVD2L4/?tag=tolees-21) con precio final de  59.99 EUR (original: 77.99 EUR) (23.08 %  de rebaja) aqui!

@@ -31,8 +31,8 @@ Ahora mismo tienes [LEGO 75955 Harry Potter Expreso de Hogwarts y Andén
 - Cómprale una rana de chocolate y más caramelos a la bruja del carrito
 - Quita el techo y el panel lateral del vagón para colocar a las mini figuras en sus asientos
 - El Expreso de Hogwarts incluye un vagón con 4 asientos, panel lateral y techo desmontables, y la bruja del carrito con su carrito de dulces
-- Accesorios incluidos: 3 bultos de equipaje, 4 varitas, una rana de chocolate, un helado, 2 periódicos, una señal de la estación de Kings Cross, una señal del andén 9¾ y un póster con la inscripción “Wanted”
 - Contiene el emblemático andén 9¾ de la estación de Kings Cross y el Expreso de Hogwarts
+- Accesorios incluidos: 3 bultos de equipaje, 4 varitas, una rana de chocolate, un helado, 2 periódicos, una señal de la estación de Kings Cross, una señal del andén 9¾ y un póster con la inscripción “Wanted”
 - Lanza un Dementor en picado y entra con él en el vagón para atormentar a Harry. ¡Usa después una varita para deshacerte de él con un hechizo!
 - El andén cuenta con un puente ferroviario con reloj, escaleras que conducen a una entrada a través de una pared de ladrillo móvil, un kiosco de periódicos con 2 ejemplares de El Profeta y un póster con la inscripción “Wanted”
 
