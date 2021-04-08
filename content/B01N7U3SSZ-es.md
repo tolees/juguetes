@@ -28,10 +28,10 @@ En este momento está [Educa - Tienda de Comestibles Puzzle  2000 Piezas  Multic
 
 🔎:
 
+- Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Edad recomendada: a partir de 12 años
 - Serie Genuine
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N7U3SSZ/?tag=tolees-21)

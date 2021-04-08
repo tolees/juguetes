@@ -28,10 +28,10 @@ En este momento está [LEGO 31200 Art Star Wars: Los Sith Póster de Co
 
 🔎:
 
-- Con banda sonora complementaria, podrás comenzar a construir mientras escuchas divertidas historias y entrevistas sobre Star Wars
-- Reinterpreta a estos legendarios Lores Sith y descubre el efecto antiestrés de este proyecto de manualidades para adultos
-- Pon a prueba tu creatividad, compra y combina 3 de los sets para dar forma a un diseño inspirado en Darth Vader y expón tu póster DIY en casa o en la oficina
 - Un gratificante proyecto de construcción para ti, o un regalo especial para Día del Padre, cumpleaños o de Navidad para esa persona especial
 - Explora tu “lado oscuro” creativo con este set LEGO de 3406 piezas que incluye 9 placas para decoración mura, un marco LEGO y un elemento exclusivo para colgar tu obra
+- Con banda sonora complementaria, podrás comenzar a construir mientras escuchas divertidas historias y entrevistas sobre Star Wars
+- Pon a prueba tu creatividad, compra y combina 3 de los sets para dar forma a un diseño inspirado en Darth Vader y expón tu póster DIY en casa o en la oficina
+- Reinterpreta a estos legendarios Lores Sith y descubre el efecto antiestrés de este proyecto de manualidades para adultos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0813QKLHG/?tag=tolees-21)

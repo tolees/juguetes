@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ardistel - Game Traveler Deluxe Travel C al 29.87 % de rebaja'
-date: 2021-04-07 09:34:33
+date: 2021-04-08 12:26:35
 image: 'https://m.media-amazon.com/images/I/51fia7fuWZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ardistel'
 buyurl: 'https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21'
 descuento: '29.87'
-average: '13.9858333333333'
+average: '13.9861538461538'
 ---
 
 Tienes [Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch ](https://www.amazon.es/dp/B07VZWVR9N/?tag=tolees-21) con precio final de  13.99 EUR (original: 19.95 EUR) (29.87 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Ardistel - Game Traveler Deluxe Travel Case NNS47  Nintendo Switch ](htt
 
 🔎:
 
+- 2x Fundas para microSD: cada una permite 2 tarjetas
 - 2x Fundas para Juegos: cada una permite guardar 4 juegos
 - Consola, mandos, juegos y accesorios adicionales no incluidos
-- 2x Fundas para microSD: cada una permite 2 tarjetas
 - Guarda y protege el sistema Nintendo Switch, separador acolchado y con compartimientos para los Joy-Con Action Grips (no incluidos)
 - ¡Nuevo! El separador sirve como soporte para la consola; estuche de transporte para consola
 

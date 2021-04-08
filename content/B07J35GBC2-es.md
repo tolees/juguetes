@@ -30,8 +30,8 @@ Ahora mismo tienes [Ravensburger - Blazelets Maleta Deluxe  18071    color/model
 
 - Crea maravillosas pulseras con polvo mágico y agua
 - Un set completo para crear pulseras mágicas
+- A partir de 3 años
 - Rellena el molde especial con el polvo y sumergilo en el maletín lleno de agua; luego, utiliza un toque de purpurina para decorar!
 - Formato caja: 35 x 29 x 8 cm
-- A partir de 3 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07J35GBC2/?tag=tolees-21)
