@@ -28,12 +28,12 @@ Tienes [LEGO 71747 Ninjago Aldea de los Guardianes Juguete de construcc
 
 🔎:
 
-- El set de construcción LEGO NINJAGO Aldea de los Guardianes (71747) incluye una guarida en la jungla detalladísima e interactiva para que los niños recreen alucinantes escenas de combate.
-- El juego ninja cuenta con una celda en el interior de la cabeza del dragón, una peligrosa trampa que parece una inofensiva hoja, cañones ocultos y un pilar de piedra que puede separarse en 3 personajes.
-- La Aldea de los Guardianes mide aproximadamente 22 cm de altura, 19 cm de longitud y 29 cm de anchura: un set que seguro impresionará a los amigos de tu peque cuando lo vean expuesto en su habitación.
-- LEGO NINJAGO cuenta con una fascinante colección de juguetes geniales para niños que les reservan horas de diversión imaginativa mientras aprenden habilidades importantes para la vida en aventuras con sus héroes ninja.
-- Busca más sets NINJAGO inspirados en la serie para televisión, como los sets Chopper de la Jungla de Lloyd (71745), Dragón de la Jungla (71746) y Batalla Naval en Catamarán (71748).
 - Este juego de 632 piezas ambientado en una isla proporciona una divertida experiencia de construcción para mayores de 8 años y es un regalo de cumpleaños o Navidad que apasionará a los pequeños fans de los ninja.
+- Busca más sets NINJAGO inspirados en la serie para televisión, como los sets Chopper de la Jungla de Lloyd (71745), Dragón de la Jungla (71746) y Batalla Naval en Catamarán (71748).
+- El juego ninja cuenta con una celda en el interior de la cabeza del dragón, una peligrosa trampa que parece una inofensiva hoja, cañones ocultos y un pilar de piedra que puede separarse en 3 personajes.
+- LEGO NINJAGO cuenta con una fascinante colección de juguetes geniales para niños que les reservan horas de diversión imaginativa mientras aprenden habilidades importantes para la vida en aventuras con sus héroes ninja.
 - Contiene 5 mini figuras: Cole de la Isla, Jay de la Isla, Kai de la Isla, el Jefe Mammatus y el Guardián Trueno, todas equipadas con fantásticas armas de la serie para televisión LEGO NINJAGO.
+- La Aldea de los Guardianes mide aproximadamente 22 cm de altura, 19 cm de longitud y 29 cm de anchura: un set que seguro impresionará a los amigos de tu peque cuando lo vean expuesto en su habitación.
+- El set de construcción LEGO NINJAGO Aldea de los Guardianes (71747) incluye una guarida en la jungla detalladísima e interactiva para que los niños recreen alucinantes escenas de combate.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G4DFS99/?tag=tolees-21)

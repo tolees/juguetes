@@ -28,12 +28,12 @@ Ahora mismo tienes [LEGO 71740 Ninjago Robot Eléctrico de Jay Juguete d
 
 🔎:
 
-- El coche de juguete de Eyezor lleva montada encima una plataforma giratoria con un cañón que dispara espigas para que los peques interpreten emocionantes escenas de batalla.
 - Con solo 106 piezas, este juego ninja ofrece a los niños a partir de 4 años una sencilla y divertida experiencia de construcción y es óptimo como regalo para peques que merezcan un premio especial.
-- Este trepidante set de juguetes de combate incluye 2 mini figuras de la temporada 4 de la serie para televisión NINJAGO: el ninja Jay y el villano Eyezor, así como un ladrillo para principiantes que permite empezar a construir y jugar rápidamente.
-- El impresionante robot de juguete cuenta con brazos y piernas articulados, una acuchilladora giratoria, una gran espada en las manos y una cabina para transportar a Jay que inspirarán a los niños para inventar divertidas historias.
-- Los peques podrán pasarlo aún mejor construyendo con la experiencia digital Instructions PLUS. Con los modos de acercamiento, giro y fantasma, el proceso de construcción también formará parte de la diversión.
 - El set LEGO NINJAGO Robot Eléctrico de Jay (71740) ayuda a los niños a aprender a construir antes de pasarlo genial en divertidas batallas con un robot articulado de juguete y un coche ninja.
+- El impresionante robot de juguete cuenta con brazos y piernas articulados, una acuchilladora giratoria, una gran espada en las manos y una cabina para transportar a Jay que inspirarán a los niños para inventar divertidas historias.
+- El coche de juguete de Eyezor lleva montada encima una plataforma giratoria con un cañón que dispara espigas para que los peques interpreten emocionantes escenas de batalla.
+- Este trepidante set de juguetes de combate incluye 2 mini figuras de la temporada 4 de la serie para televisión NINJAGO: el ninja Jay y el villano Eyezor, así como un ladrillo para principiantes que permite empezar a construir y jugar rápidamente.
+- Los peques podrán pasarlo aún mejor construyendo con la experiencia digital Instructions PLUS. Con los modos de acercamiento, giro y fantasma, el proceso de construcción también formará parte de la diversión.
 - Mide aproximadamente 17 cm de altura, 10 cm de longitud y 16 cm de anchura. El Robot Eléctrico de Jay quedará increíble expuesto en la habitación de los niños hasta que llegue el momento de librar la próxima batalla.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G4BR87M/?tag=tolees-21)
