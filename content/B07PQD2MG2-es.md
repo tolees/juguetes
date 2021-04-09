@@ -28,9 +28,9 @@ Ahora mismo tienes [Power A - Pokémon Mando inalámbrico para Nintendo Switch -
 
 🔎:
 
-- Cruceta con diseño clásico GameCube más grande y disparador frontal izquierdo añadido
-- Mandos de movimiento y botones de sistema añadidos para lograr compatibilidad con todos los juegos Nintendo Switch
 - Libertad inalámbrica Bluetooth
+- Mandos de movimiento y botones de sistema añadidos para lograr compatibilidad con todos los juegos Nintendo Switch
+- Cruceta con diseño clásico GameCube más grande y disparador frontal izquierdo añadido
 - Luces LED de alimentación, número del jugador y advertencia de batería baja
 - El mando favorito para Super Smash Bros Ultimate
 
