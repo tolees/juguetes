@@ -28,9 +28,9 @@ En este momento está [Mattel Games Blokus Refresh  juego de estrategia para ni�
 
 🔎:
 
-- El objetivo es abrirse el máximo espacio posible en el tablero e ir colocando por turnos todas las fichas y evitar quedar cerrado sin poder colocarlas
 - En Blokus los jugadores compiten por marcar su territorio, casilla a casilla
 - La partida finaliza cuando un jugador consigue colocar todas sus piezas (lo que le da la victoria) o cuando ningún jugador puede colocar ninguna ficha más
 - Un divertido juego de estrategia para toda la familia
+- El objetivo es abrirse el máximo espacio posible en el tablero e ir colocando por turnos todas las fichas y evitar quedar cerrado sin poder colocarlas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00FBWBM3G/?tag=tolees-21)
