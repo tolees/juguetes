@@ -28,10 +28,10 @@ Tienes [Hasbro Star Wars Black Series - Figura de acción Clone Commander Green 
 
 ℹ️:
 
-- A partir de 4 años
-- Star Wars The Black Series
+- Tamaño: 15 cm
 - Klon-Kommandant CC1004 ("Gree")
 - Con muchos accesorios
-- Tamaño: 15 cm
+- A partir de 4 años
+- Star Wars The Black Series
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088K5CFZW/?tag=tolees-21)
