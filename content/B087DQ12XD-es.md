@@ -28,11 +28,11 @@ Ahora mismo tienes [VTech- Tortuga lee y aprende  3480-533422    color/modelo su
 
 🔎:
 
+- Aprende el abecedario. Los colores. Diferentes animales y aspectos del entorno donde viven.
 - Incluye una canción a varias voces, 20 melodías y un amplio surtido de frases. Diseño compacto con asa para llevar a todas partes.Control de volumen (dos niveles) y desconexión automática.
 - Libro interactivo. Divertida tortuga que se acompaña de un libro interactivo de 17 páginas repletas de coloridas ilustraciones para aprender vocabulario siguiendo una divertida historia.
-- Versión española
-- Aprende el abecedario. Los colores. Diferentes animales y aspectos del entorno donde viven.
 - Enseña las letras, números, animales, instrumentos, formas y colores. Tres modos de juego: letras, historia y música.
 - Cuatro teclas luminosas para hacer que el libro cobre vida con voces, efectos especiales y música. Piano con 8 teclas para interactuar con el personaje. Varios elementos para jugar: pez que gira, botones interactivos con luz, gafas con efecto espejo.
+- Versión española
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087DQ12XD/?tag=tolees-21)
