@@ -30,8 +30,8 @@ Ahora mismo tienes [BRIO- Juego Primera Edad  33736 ](https://www.amazon.es/dp/B
 
 - Desarrolla la capacidad narrativa y las habilidades sociales
 - Materiales de alta calidad
-- Accesorios compatibles con todos los productos Brio
 - Ayuda a explorar las diferencias entre la imaginación y el mundo real
+- Accesorios compatibles con todos los productos Brio
 - Producto probado y seguro para su bebé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00J6SEGK2/?tag=tolees-21)
