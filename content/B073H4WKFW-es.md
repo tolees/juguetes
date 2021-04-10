@@ -28,10 +28,10 @@ Tienes [Fisher-Price Jirafita musical relajante  juguete de cuna para bebé  Mat
 
 🔎:
 
-- Funciona con dos pilas AA (no incluidas)
-- Veinte minutos de música y sonidos relajantes
 - Incluye una práctica anilla para colgarla del cochecito o la bolsa de los pañales
+- Veinte minutos de música y sonidos relajantes
 - ¡Una relajante amiga jirafa que te puedes llevar de paseo con tu hijo!
 - Base plana y estable con patas de goma para poner la jirafa sobre una cómoda o una mesa
+- Funciona con dos pilas AA (no incluidas)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073H4WKFW/?tag=tolees-21)

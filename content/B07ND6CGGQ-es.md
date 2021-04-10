@@ -28,10 +28,10 @@ Está [LEGO 10899 Duplo Princess Frozen: Castillo de Hielo  Juguete de Const
 
 ℹ️:
 
-- Estos juguetes para construir orientados a los bebés se han diseñado como estímulo de la interpretación y la narración de historias para ayudar a tu peque a desarrollar sus habilidades sociales, emocionales y lingüísticas.
-- Ayuda a tu pequeño a dominar las habilidades básicas de construcción y a mejorar su motricidad fina invitándolo a montar y recolocar los ladrillos para construir: una manera perfecta de acercarle al juego imaginativo y sus infinitas posibilidades.
-- El juguete Disney Frozen: Castillo de Hielo mide más de 28 cm de altura, 19 cm de ancho y 16 cm de profundidad.
-- Incluye 3 figuras LEGO DUPLO: Anna, Elsa y Olaf.
 - El castillo de juguete Disney Frozen cuenta con tobogán, mesa, sillas y utensilios de cocina. Envuélvelo en una iluminación multicolor con el ladrillo luminoso especial accionado por botón.
+- Incluye 3 figuras LEGO DUPLO: Anna, Elsa y Olaf.
+- Ayuda a tu pequeño a dominar las habilidades básicas de construcción y a mejorar su motricidad fina invitándolo a montar y recolocar los ladrillos para construir: una manera perfecta de acercarle al juego imaginativo y sus infinitas posibilidades.
+- Estos juguetes para construir orientados a los bebés se han diseñado como estímulo de la interpretación y la narración de historias para ayudar a tu peque a desarrollar sus habilidades sociales, emocionales y lingüísticas.
+- El juguete Disney Frozen: Castillo de Hielo mide más de 28 cm de altura, 19 cm de ancho y 16 cm de profundidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ND6CGGQ/?tag=tolees-21)

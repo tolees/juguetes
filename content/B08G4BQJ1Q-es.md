@@ -28,12 +28,12 @@ Está [LEGO 21169 Minecraft La Primera Aventura Juguete de construcción
 
 ℹ️:
 
+- Incluye personajes de Steve y Alex, además de 2 esqueletos, un gato tintado, una oveja con cuernos, una florivaca y divertidos detalles, como una cascada con ascensor, tramos de vía que se desploman, bloques de tierra deslizantes y explosiones.
+- Los jugadores deberán luchar contra criaturas hostiles y evitar las trampas ocultas mientras exploran el detallado entorno de la estructura Minecraft de 3 niveles.
 - Para mayores de 8 años. Un llamativo regalo para jugadores de Minecraft que quieran seguir jugando en el mundo real a un videojuego que les fascina.
 - Los juegos LEGO Minecraft proponen a los fans de Minecraft una nueva forma de jugar su juego favorito, con personajes, escenas y funciones que cobran vida con una imaginativa mezcla de elementos y ladrillos LEGO.
-- Los kits de construcción LEGO cumplen rigurosas normas de calidad del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan óptimamente una y otra vez; así ha sido desde 1958.
-- Incluye personajes de Steve y Alex, además de 2 esqueletos, un gato tintado, una oveja con cuernos, una florivaca y divertidos detalles, como una cascada con ascensor, tramos de vía que se desploman, bloques de tierra deslizantes y explosiones.
 - El set mide aproximadamente 23 cm de altura, 20 cm de anchura y 18 cm de profundidad. Es fantástico para trasladar el juego a una dimensión física y para crear una impresionante pieza de exposición que compartir con amigos en las redes sociales.
-- Los jugadores deberán luchar contra criaturas hostiles y evitar las trampas ocultas mientras exploran el detallado entorno de la estructura Minecraft de 3 niveles.
+- Los kits de construcción LEGO cumplen rigurosas normas de calidad del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan óptimamente una y otra vez; así ha sido desde 1958.
 - El extraordinario set de construcción creativa LEGO Minecraft La Primera Aventura (21169) recrea uno de los entornos de juego más emocionantes del videojuego.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G4BQJ1Q/?tag=tolees-21)

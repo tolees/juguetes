@@ -29,11 +29,11 @@ Ahora mismo tienes [LEGO 75249 Star Wars Caza Estelar ala-Y de la Resis
 🔎:
 
 - La combinación de colores del Ala-Y y el casco moldeado de Zorii son novedad en octubre de 2019.
-- El Caza Estelar Ala-Y de la Resistencia Star Wars, apodado Wishbone, cuenta con cabina abatible para una minifigura, tren de aterrizaje retráctil, 2 cañones automáticos y bombas de carga superior que se sueltan al apretar un gatillo.
 - Armas incluidas: pistola bláster de Poe, 2 pistolas bláster de Zorii y blásteres de los soldados de las nieves de la Primera Orden.
+- El Caza Estelar Ala-Y de la Resistencia Star Wars, apodado Wishbone, cuenta con cabina abatible para una minifigura, tren de aterrizaje retráctil, 2 cañones automáticos y bombas de carga superior que se sueltan al apretar un gatillo.
 - Incluye 5 personajes LEGO Star Wars: minifiguras de Poe Dameron, Zorii Bliss y soldados de las nieves de la Primera Orden, así como figuras LEGO de D-O y un droide astromecánico.
-- Esta nave estelar es fantástica para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un divertido obsequio inspirado en el universo Star Wars.
-- El set de construcción Star Wars mide más de 7 cm de altura, 43 cm de longitud y 19 cm de ancho.
 - Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker.
+- El set de construcción Star Wars mide más de 7 cm de altura, 43 cm de longitud y 19 cm de ancho.
+- Esta nave estelar es fantástica para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un divertido obsequio inspirado en el universo Star Wars.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ND9TJF7/?tag=tolees-21)
