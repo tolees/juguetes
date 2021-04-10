@@ -28,11 +28,11 @@ Ahora mismo tienes [VTech Coche Alfabeto de Peppa Pig  Juguete niños +3 años  
 
 🔎:
 
-- Versión española
 - Agudiza nuevas habilidades, ingenio , creatividad y diversión, aprendiendo sin salir de casa.
 - 27 letras del alfabeto. 4 botones de personajes: Peppa, George, Papá Pig, Mamá Pig y 4 botones de actividades: Aprende letras, Descubre palabras, ¡A descubrir! y Música.
-- Tres posiciones de volumen para seleccionar. Los faros del coche se iluminan.
-- Al presionar los botones de personajes escucha divertidas frases con las voces originales de los personajes .
 - Descubre el abecedario, palabras asociadas a cada letra y el orden alfabético. Descubre nuevo vocabulario y algunos de los personajes amigos de la serie de Peppa Pig.
+- Versión española
+- Al presionar los botones de personajes escucha divertidas frases con las voces originales de los personajes .
+- Tres posiciones de volumen para seleccionar. Los faros del coche se iluminan.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087DQ2ZGT/?tag=tolees-21)

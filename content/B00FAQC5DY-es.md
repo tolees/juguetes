@@ -28,7 +28,7 @@ Tienes [Devir - El señor de los Anillos  Juego de Cartas  BGANIMN ](https://www
 
 ℹ️:
 
-- Desde 2 jugadores
 - Duración aproximada de la partida 30 min
+- Desde 2 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FAQC5DY/?tag=tolees-21)
