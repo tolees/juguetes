@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Mar con un 25.95 % de descuento'
-date: 2021-04-10 07:27:21
+date: 2021-04-11 16:54:33
 image: 'https://m.media-amazon.com/images/I/51JFfajrLJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08XNLXRYL/?tag=tolees-21'
 descuento: '25.95'
-average: '38.594'
+average: '37.16'
 ---
 
 En este momento está [BANDAI NAMCO Entertainment Iberica - Marvel s Avengers](https://www.amazon.es/dp/B08XNLXRYL/?tag=tolees-21) a 29.99 EUR (original: 40.5 EUR) (25.95 %  de descuento) en el siguiente enlace!
