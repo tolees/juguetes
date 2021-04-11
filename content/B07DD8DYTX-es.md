@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Famogames - Juguete Caza Bichos  Famosa  con un 26.32 % de descuento'
-date: 2021-04-09 16:53:03
+date: 2021-04-11 11:56:24
 image: 'https://m.media-amazon.com/images/I/415QzOnzBZL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Famogames'
 buyurl: 'https://www.amazon.es/dp/B07DD8DYTX/?tag=tolees-21'
 descuento: '26.32'
-average: '13.42625'
+average: '13.5677777777778'
 ---
 
 En este momento está [Famogames - Juguete Caza Bichos  Famosa 700014660 ](https://www.amazon.es/dp/B07DD8DYTX/?tag=tolees-21) a 14.7 EUR (original: 19.95 EUR) (26.32 %  de descuento) en el siguiente enlace!

@@ -28,13 +28,13 @@ Está [LEGO 76173 Spider-Man y el Motorista Fantasma vs. Carnage  Set 
 
 ℹ️:
 
+- Para mayores de 7 años Este llamativo set es una idea de regalo perfecta para el cumpleaños de un joven superhéroe, o para hacerle un obsequio en Navidad o en una ocasión especial
 - El coche del Motorista Fantasma mide aproximadamente 5 cm de altura, 19 cm de longitud y 7 cm de anchura, y queda genial expuesto en la habitación de los peques
 - El trío de personajes Marvel clásicos y el alucinante coche del Motorista Fantasma ofrecen a los niños inagotables oportunidades de construir, jugar y exponer mientras interpretan imaginativas aventuras de superhéroes que no tendrán fin
 - El set Spider-Man y el Motorista Fantasma vs Carnage (76173) es un extraordinario juego LEGO Marvel Spider-Man repleto de posibilidades de juego imaginativo que contiene 3 emblemáticos personajes del universo Marvel
-- Para pasarlo aún mejor construyendo, la app gratuita Instrucciones de Montaje LEGO incluye la experiencia digital Instructions PLUS, que permite a los peques visualizar, acercar y girar su juego mientras lo construyen
-- Para mayores de 7 años Este llamativo set es una idea de regalo perfecta para el cumpleaños de un joven superhéroe, o para hacerle un obsequio en Navidad o en una ocasión especial
 - Todos los juegos LEGO Marvel Spider-Man destacan por su extraordinaria calidad y se han diseñado para favorecer al máximo el juego imaginativo para el desarrollo
-- Incluye minifiguras de Spider-Man, Carnage y el Motorista Fantasma El resistente y elegante coche del Motorista Fantasma cuenta con techo desmontable, llamas desmontables y un sobrealimentador con cañón de 3 disparos que asoma por el capó
+- Para pasarlo aún mejor construyendo, la app gratuita Instrucciones de Montaje LEGO incluye la experiencia digital Instructions PLUS, que permite a los peques visualizar, acercar y girar su juego mientras lo construyen
 - Con los elementos adicionales facilitados, los niños pueden desmontar las llamas del vehículo del Motorista Fantasma y transformarlo en un elegante coche negro de gran potencia
+- Incluye minifiguras de Spider-Man, Carnage y el Motorista Fantasma El resistente y elegante coche del Motorista Fantasma cuenta con techo desmontable, llamas desmontables y un sobrealimentador con cañón de 3 disparos que asoma por el capó
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G4Q1CXF/?tag=tolees-21)

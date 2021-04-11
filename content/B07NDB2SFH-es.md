@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars Yoda  Set de Constr al 18.33 % de descuento'
-date: 2021-04-10 05:42:13
+date: 2021-04-11 11:44:54
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
 descuento: '18.33'
-average: '97.6765469061881'
+average: '97.6690438247017'
 ---
 
 Ahora mismo tienes [LEGO 75255 Star Wars Yoda  Set de Construcción para Niños a Partir de 10 años con Espada Láser  Modelo Coleccionable](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) a 93.91 EUR (original: 114.99 EUR) (18.33 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [LEGO 75255 Star Wars Yoda  Set de Construcción para�
 
 🔎:
 
-- La figura LEGO Star Wars de Yoda con la espada láser mide más de 41 cm de altura
-- Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set
-- Contiene 1771 piezas
 - Este modelo coleccionable inspirado en Star Wars
+- Colecciona 2 personajes LEGO Star Wars de Yoda en un solo set
+- La figura LEGO Star Wars de Yoda con la espada láser mide más de 41 cm de altura
+- Contiene 1771 piezas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21)
