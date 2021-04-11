@@ -28,9 +28,9 @@ Está [los Barriguitas Edificio Loco Loco  Famosa 700012396 ](https://www.amazon
 
 ℹ️:
 
-- Gran edificio de los barriguitas
 - Cuenta con tres plantas diferentes, un ático, un ascensor automático y gran cantidad de accesorios
 - Adecuado para niños no menores de 3 años
 - Contiene 2 figuritas: mini muñeca y bebé
+- Gran edificio de los barriguitas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Z6YGDXS/?tag=tolees-21)
