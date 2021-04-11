@@ -28,10 +28,10 @@ Tienes [Fisher-Price Little People  Mattel GMJ12 ](https://www.amazon.es/dp/B083
 
 🔎:
 
-- Los coches competirán por la pista y puede chocarse, caer por la trampilla y continuar el descenso en espiral o por la rampa de aterrizaje.
-- El lanzador de coches doble permite enviar a los coches por la pista a la vez
-- Los vehículos se almacenan fácilmente en el conjunto. Colecciona los vehículos de Cochelandia para más carreras adaptadas para niños. (Se venden por separado y están sujetos a disponibilidad).
 - El conjunto de juegos de vehículos adaptado para los niños tiene varias pistas, un looping naranja de Hot Wheels, una zona de choques, sonidos y luces, y dos coches de Cochelandia
 - Para niños pequeños y de preescolar de entre 18 meses y 5 años
+- Los coches competirán por la pista y puede chocarse, caer por la trampilla y continuar el descenso en espiral o por la rampa de aterrizaje.
+- Los vehículos se almacenan fácilmente en el conjunto. Colecciona los vehículos de Cochelandia para más carreras adaptadas para niños. (Se venden por separado y están sujetos a disponibilidad).
+- El lanzador de coches doble permite enviar a los coches por la pista a la vez
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083VZW49V/?tag=tolees-21)
