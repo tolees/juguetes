@@ -28,15 +28,15 @@ En este momento está [LEGO 71711 Ninjago Ciberdragón de Jay con 5 Mini Figur
 
 🔎:
 
-- Este sofisticado dragón no requiere pilas: está preparado para entrar en combate tanto en Prime Empire como en la ciudad de NINJAGO nada más construirlo, así que nunca tendrás que interrumpir el juego.
 - Los ladrillos LEGO usados para crear este dragón de juguete para niños llevan cumpliendo las normas más estrictas del sector desde hace más de 60 años, lo que garantiza que ofrecen siempre las mismas cualidades, son compatibles entre sí.
-- Los ladrillos LEGO usados para crear este juguete de construcción con una maqueta de un dragón se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
 - Los juguetes de construcción para niños LEGO NINJAGO les permiten expresarse libremente y sumergirse en un emocionante mundo de aventuras en el que podrán formar equipo con sus héroes ninja favoritos y vivir interminables aventuras.
 - Este set de juguetes LEGO de 518 piezas con un dragón y figuras de acción ninja ofrece una divertida y desafiante experiencia de construcción a niños y niñas a partir de 8 años, y es fantástico como regalo de cumpleaños, para regalar por Navidad.
+- Este set de construcción incluye un Ciberdragón y 5 minifiguras: NINJAGO Jay Digital, Nya Digital, Unagami, Hausner y Richie. El mecadragón y las figuras para construir se pueden usar para escenificar las emocionantes escenas de la serie.
+- Los ladrillos LEGO usados para crear este juguete de construcción con una maqueta de un dragón se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
 - El Ciberdragón (novedad en enero de 2020) tiene el tamaño ideal para jugar con él en casa o para llevárselo y divertirse en cualquier sitio. El dragón articulado mide 12 cm de altura, 39 cm de longitud y 33 cm de anchura.
 - Es el regalo LEGO perfecto para un joven constructor. Los ladrillos y figuras para construir vienen con un sencillo manual de instrucciones para que tu dragón de juguete entre en acción rápidamente.
 - Este sofisticado dragón extraordinariamente detallado cuenta con cabeza y miembros articulados, y puede disparar misiles con sus cañones automáticos. Las figuras para construir están equipadas con gráficos de salud.
+- Este sofisticado dragón no requiere pilas: está preparado para entrar en combate tanto en Prime Empire como en la ciudad de NINJAGO nada más construirlo, así que nunca tendrás que interrumpir el juego.
 - Un dragón de juguete LEGO NINJAGO infantil con un diseño espectacular y 5 minifiguras para escenificar la emocionante acción de Prime Empire. El regalo perfecto para fans consagrados de NINJAGO o peques con una mente aventurera y creativa.
-- Este set de construcción incluye un Ciberdragón y 5 minifiguras: NINJAGO Jay Digital, Nya Digital, Unagami, Hausner y Richie. El mecadragón y las figuras para construir se pueden usar para escenificar las emocionantes escenas de la serie.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W6QBJ8G/?tag=tolees-21)
