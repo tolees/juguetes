@@ -28,10 +28,10 @@ Ahora mismo tienes [Imaginext- Fisher-Price Batmovil Transformable  Mattel GMH33
 
 🔎:
 
-- Utiliza el control remoto para lanzar proyectiles en el modo batalla (incluye 4 discos proyectiles)
-- El Batmóvil se transforma con luces y sonidos y, a continuación, vuelve al modo vehículo
-- ¡El Batmóvil con control remoto se transforma para la batalla!
 - Para niños de 3 a 8 años
+- ¡El Batmóvil con control remoto se transforma para la batalla!
 - Utiliza el control remoto para que Barman salga disparado en el Batmóvil hacia delante, hacia atrás, hacia los lados o en todas las direcciones
+- El Batmóvil se transforma con luces y sonidos y, a continuación, vuelve al modo vehículo
+- Utiliza el control remoto para lanzar proyectiles en el modo batalla (incluye 4 discos proyectiles)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YFXQCNF/?tag=tolees-21)
