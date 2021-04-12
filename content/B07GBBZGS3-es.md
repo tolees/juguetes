@@ -28,13 +28,13 @@ En este momento está [Polly Pocket Cofre Mundo Sorpresa Sirenas  Muñecas con A
 
 🔎:
 
+- La base del cofre sorpresa de Polly Pocket tiene un tiovivo giratorio de caballitos de mar en el que Polly puede subirse
+- Las pegatinas Polly Stick permiten pegar la muñeca sirena Polly a cualquier parte del cofre; solo hay que colocar la pegatina de la hoja incluida y la muñeca pequeña se pegará a la zona adhesiva
+- Una niña puede tener un accesorio rosa, mientras que a otra le puede tocar uno morado; los colores y la decoración de estas sirenas de juguete pueden ser distintos de los mostrados
 - ​Cada cofre tiene un tamaño reducido ideal para llevarse las aventuras de Polly Pocket a todas partes
 - La colección de muñecas de juguete incluye otros mundos sorpresa: Mundo sorpresa unicornios, Mundo sorpresa bosque mágico, Mundo sorpresa princesas y más
-- Una niña puede tener un accesorio rosa, mientras que a otra le puede tocar uno morado; los colores y la decoración de estas sirenas de juguete pueden ser distintos de los mostrados
-- Las pegatinas Polly Stick permiten pegar la muñeca sirena Polly a cualquier parte del cofre; solo hay que colocar la pegatina de la hoja incluida y la muñeca pequeña se pegará a la zona adhesiva
-- La base del cofre sorpresa de Polly Pocket tiene un tiovivo giratorio de caballitos de mar en el que Polly puede subirse
-- La parte de arriba del cofre de muñecas tiene un fondo perforado que se abre en 3 partes distintas para descubrir 3 “escondites secretos” submarinos y 3 accesorios aleatorios (2 para Polly)
-- El Mundo sorpresa sirenitas incluye: 3 escondites secretos, 3 accesorios aleatorios (2 de ellos para la muñeca sirena), una muñeca pequeña Polly y una hoja de pegatinas
 - El Mundo sorpresa sirenitas de Polly Pocket consigue que la diversión bajo el mar cobre vida con “escondites sorpresa”
+- El Mundo sorpresa sirenitas incluye: 3 escondites secretos, 3 accesorios aleatorios (2 de ellos para la muñeca sirena), una muñeca pequeña Polly y una hoja de pegatinas
+- La parte de arriba del cofre de muñecas tiene un fondo perforado que se abre en 3 partes distintas para descubrir 3 “escondites secretos” submarinos y 3 accesorios aleatorios (2 para Polly)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GBBZGS3/?tag=tolees-21)
