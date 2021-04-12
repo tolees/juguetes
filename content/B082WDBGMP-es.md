@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO 71366 Super Mario Set de Expansión: Avalancha 
 
 🔎:
 
-- No requiere pilas: combínalo con el pack inicial para potenciar la diversión
-- Descubre cuántas veces puede girar LEGO Mario (figura no incluida) en la plataforma
-- Un trepidante set de expansión para divertirse al estilo LEGO Super Mario girando a toda velocidad
 - Permite añadir otro nivel al juguete de construcción Pack Inicial: Aventuras con Mario
 - Contiene 2 Bill Balazos “voladores”, un superchampiñón y una figura de un Shy Guy
+- No requiere pilas: combínalo con el pack inicial para potenciar la diversión
+- Un trepidante set de expansión para divertirse al estilo LEGO Super Mario girando a toda velocidad
+- Descubre cuántas veces puede girar LEGO Mario (figura no incluida) en la plataforma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082WDBGMP/?tag=tolees-21)
