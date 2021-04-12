@@ -28,10 +28,10 @@ En este momento está [Creatable World - Figura Unisex Muñeco Articulado  Peluc
 
 🔎:
 
-- El kit deluxe incluye: una peluca, ropa y accesorios que pueden combinar al gusto para crear más de 100 personajes y conjuntos
-- Regalo óptimo para niños y niñas a partir de 6 años
-- El muñeco de 29,94 cm tiene un el pelo corto, rubio y rizado, y lleva una camiseta de tirantes y un pantalón corto de estilo sencillo
-- La peluca rubia de melena larga rizada es fácil de poner y quitar para crear personajes en un abrir y cerrar de ojos
 - Regalo óptimo para niñas y niños de más de 6 años
+- El muñeco de 29,94 cm tiene un el pelo corto, rubio y rizado, y lleva una camiseta de tirantes y un pantalón corto de estilo sencillo
+- El kit deluxe incluye: una peluca, ropa y accesorios que pueden combinar al gusto para crear más de 100 personajes y conjuntos
+- La peluca rubia de melena larga rizada es fácil de poner y quitar para crear personajes en un abrir y cerrar de ojos
+- Regalo óptimo para niños y niñas a partir de 6 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQJ7G8D/?tag=tolees-21)
