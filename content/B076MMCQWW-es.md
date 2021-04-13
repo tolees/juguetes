@@ -28,8 +28,8 @@ Está [Juegos Mattel - Mattel Games DOS  juego de cartas de UNO  edad recomandad
 
 ℹ️:
 
-- Juego de mesa familiar recomendado a partir de 7 años
 - juego de mesa de 2 a 10 jugadores, pensado para que se desafíen entre ellos individualmente o por equipos
+- Juego de mesa familiar recomendado a partir de 7 años
 - el objetivo del juego es ser el primero en quedarse sin cartas, pero en esta versión, los jugadores deben gritar dos cuando les queden 2 cartas
 - Termina el primero para ganar puntos por las cartas que quedan en las manos de tus oponentes
 - Cuando te queden 2 cartas, no te olvides de gritar dos

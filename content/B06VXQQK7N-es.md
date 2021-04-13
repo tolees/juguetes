@@ -28,10 +28,10 @@ Ahora mismo tienes [Educa - Superpack Princesas Disney Princess Pack de Domino  
 
 🔎:
 
-- Para niños de entre 3 y 7 años
 - Con los personajes favoritos de los pequeños
-- Cajas llenas de diversión y educación
+- Para niños de entre 3 y 7 años
 - Múltiples posibilidades de juego, para jugar solo o acompañado
 - Contenido: 2 puzzles de 25 piezas, 1 juego de memoria de 24 cartas y 1 domino de 21 piezas
+- Cajas llenas de diversión y educación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06VXQQK7N/?tag=tolees-21)
