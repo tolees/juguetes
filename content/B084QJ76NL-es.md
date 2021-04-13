@@ -28,10 +28,10 @@ Está [Diset - Yo aprendo simetrías - Juego educativo a partir de 5 años](http
 
 ℹ️:
 
-- El juego tiene distintos niveles de dificultad que viene especificado en la tarjeta
-- Aprenderán las formas y principios básicos de la simetría; se entienden conceptos como simetrías, ángulos, rotación, reflexión…; y descubren las partes simétricas de los objetos jugando con espejos
-- Habilidades que desarrolla: aprender simetrías y formas de una forma mágica y divertida
-- Contenido: maletín transportable 2 espejos, 1 pinza, 68 piezas de distintas formas y tamaños, 40 láminas de 4 niveles de dificultad y instrucciones
 - El maletín permite guardar las fichas sin que se caigan ni se mezclen los colores al transportarlo y además de usarlo como base de juego
+- Aprenderán las formas y principios básicos de la simetría; se entienden conceptos como simetrías, ángulos, rotación, reflexión…; y descubren las partes simétricas de los objetos jugando con espejos
+- Contenido: maletín transportable 2 espejos, 1 pinza, 68 piezas de distintas formas y tamaños, 40 láminas de 4 niveles de dificultad y instrucciones
+- El juego tiene distintos niveles de dificultad que viene especificado en la tarjeta
+- Habilidades que desarrolla: aprender simetrías y formas de una forma mágica y divertida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084QJ76NL/?tag=tolees-21)
