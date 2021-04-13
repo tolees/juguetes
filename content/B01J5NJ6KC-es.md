@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J5NJ6KC-es Educa Borrás- Puzzle 3D Dibujos Animados y cómic Puente de...'
 sku: 'B01J5NJ6KC-es'
-tags: [ 'puzzle', ]
+tags: [ 'borrás','educa','puzzle', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

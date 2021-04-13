@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTD5DRI-es Educa Borrás - Patrulla de Rescate Set de 4 puzzles...'
 sku: 'B01MTD5DRI-es'
-tags: [ 'puzzles', ]
+tags: [ 'borrás','educa','puzzles', ]
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

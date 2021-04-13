@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793KHL5R-es Educa Borrás- Mickey and The Roadster Racers 2 Puzzles...'
 sku: 'B0793KHL5R-es'
-tags: [ 'puzzles', ]
+tags: [ 'borrás','educa','puzzles', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793HTGYW-es Educa Borrás - Puzzle 1500 Símbolos de Norte-América 17670'
 sku: 'B0793HTGYW-es'
-tags: [ 'puzzle', ]
+tags: [ 'borrás','educa','puzzle', ]
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

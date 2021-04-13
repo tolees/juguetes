@@ -28,10 +28,10 @@ En este momento está [Mega Construx Caja de 480 piezas y bloques de construcci�
 
 🔎:
 
-- Compatible con las principales marcas
-- Bloques de construcción para niños de 4 años en adelante
-- Regalo óptimo para niños a partir de 4 años: este juguete de construcción estimula la creatividad y la capacidad de resolución de problemas
 - 480 bloques de construcción en 8 colores
+- Bloques de construcción para niños de 4 años en adelante
+- Compatible con las principales marcas
+- Regalo óptimo para niños a partir de 4 años: este juguete de construcción estimula la creatividad y la capacidad de resolución de problemas
 - Este set de bloques de construcción incluye 480 piezas y un cubo para guardarlas con facilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P7S3RTM/?tag=tolees-21)

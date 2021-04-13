@@ -28,10 +28,10 @@ Tienes [Star Wars - Droide Interactivo D-O  Hasbro E7054EU4 ](https://www.amaz
 
 🔎:
 
-- Múltiples modos de juego d-o jugará en los modos follow, chase y guard, y también incluye un modo de alarma de alerta máxima, en el que d-o hará sonar una alarma cuando pulses 3 veces la bola
-- Droide d-o premium el droide interactivo d-o tiene una rueda que se mantiene por sí sola, múltiples modos de juego, cabeza y antenas móviles y cuenta con ojos led que se iluminan, efectos sonoros y decoración premium basados en Star Wars: el ascenso de skywalker
-- Controla a d-o con la aplicación gratuita descarga la última aplicación de d-o gratuita, sigue las instrucciones que aparecen en la pantalla y así los niños pueden controlar el droide
 - Incluye una base de conexión y un cable de carga d-o puede pasar el tiempo en un escritorio o en una estantería mientras se recarga y descansa en la base de conexión que se incluye
 - Pequeño droide, gran personalidad hecho de cachivaches en el taller de un droidsmith, d-o es una ruedecilla impresionable que se obsesiona con bb-8
+- Controla a d-o con la aplicación gratuita descarga la última aplicación de d-o gratuita, sigue las instrucciones que aparecen en la pantalla y así los niños pueden controlar el droide
+- Múltiples modos de juego d-o jugará en los modos follow, chase y guard, y también incluye un modo de alarma de alerta máxima, en el que d-o hará sonar una alarma cuando pulses 3 veces la bola
+- Droide d-o premium el droide interactivo d-o tiene una rueda que se mantiene por sí sola, múltiples modos de juego, cabeza y antenas móviles y cuenta con ojos led que se iluminan, efectos sonoros y decoración premium basados en Star Wars: el ascenso de skywalker
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TMZP4GF/?tag=tolees-21)

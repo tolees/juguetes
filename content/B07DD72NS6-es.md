@@ -28,10 +28,10 @@ Está [Doorables- Multi Peek Surprise  6 Cajitas con Mini Muñecas Disney para C
 
 ℹ️:
 
-- Incluye 5, 6 o 7 figuras sorpresa, folleto de colección y exhibidor para tus personajes favoritos
 - Abre las puertecitas para encontrar a tus personajes favoritos
-- Pack de 5, 6 o 7 figuras sorpresa; descubre, colecciona y crea tus mundos de disney favoritos con las figuras de disney doorables; mezcla cuentos, construye mundos y crea tus propias historias disney
-- Hay 78 para coleccionar ¿cuántas figuras encontrarás?
 - Producto válido para niños mayores de 4 años
+- Incluye 5, 6 o 7 figuras sorpresa, folleto de colección y exhibidor para tus personajes favoritos
+- Hay 78 para coleccionar ¿cuántas figuras encontrarás?
+- Pack de 5, 6 o 7 figuras sorpresa; descubre, colecciona y crea tus mundos de disney favoritos con las figuras de disney doorables; mezcla cuentos, construye mundos y crea tus propias historias disney
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DD72NS6/?tag=tolees-21)
