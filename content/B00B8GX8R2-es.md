@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B8GX8R2-es Educa - Multi 4 Puzzles Junior puzzle infantil Pixar:...'
 sku: 'B00B8GX8R2-es'
-tags: [ 'puzzle', ]
+tags: [ 'puzzle','puzzles', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711KXCJW-es Rolimate Puzzles de Madera 10 Números Preescolar...'
 sku: 'B0711KXCJW-es'
-tags: [ 'juguetes', ]
+tags: [ 'juguetes','puzzles', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

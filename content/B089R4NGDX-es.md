@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R4NGDX-es Colmanda Puzzles de Madera 2 Piezas Alfabeto y Números...'
 sku: 'B089R4NGDX-es'
-tags: [ 'rompecabezas', ]
+tags: [ 'puzzles','rompecabezas', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

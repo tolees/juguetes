@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073CHLWWZ-es yoptote Puzzles Rompecabezas Magnéticos de Madera Juguete...'
 sku: 'B073CHLWWZ-es'
-tags: [ 'rompecabezas', ]
+tags: [ 'puzzles','rompecabezas', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

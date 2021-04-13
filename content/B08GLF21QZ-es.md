@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLF21QZ-es HUYIYI Puzzles de Madera de Animales Puzzles Infantiles...'
 sku: 'B08GLF21QZ-es'
-tags: [ 'juguetes','rompecabezas', ]
+tags: [ 'juguetes','puzzles','rompecabezas', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

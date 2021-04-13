@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZNJPMS-es COOLJOY Puzzles de Madera Magnético Tablero de Dibujo de...'
 sku: 'B089ZNJPMS-es'
-tags: [ 'rompecabezas', ]
+tags: [ 'puzzles','rompecabezas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

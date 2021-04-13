@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079M47KBG-es Puzzle Mosaico Mosaicos Infantiles Juego Mosaico Pinchos...'
 sku: 'B079M47KBG-es'
-tags: [ 'puzzle', ]
+tags: [ 'puzzle','puzzles', ]
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

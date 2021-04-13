@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009IR0OZM-es Puzzle Mates 17691 - Tapete para enrollar puzzles hasta...'
 sku: 'B009IR0OZM-es'
-tags: [ 'puzzle', ]
+tags: [ 'puzzle','puzzles', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89
