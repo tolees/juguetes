@@ -28,9 +28,9 @@ Tienes [BANDAI BAN2503070 BCLDBS2503070 Accesorio](https://www.amazon.es/dp/B07T
 
 🔎:
 
-- Descripción del rango de edad: adultos
 - Cantidad: 1.0
 - Accesorios
 - Tamaño del paquete: 4,0 x 19,1 x 16,8 W
+- Descripción del rango de edad: adultos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TB24DT9/?tag=tolees-21)
