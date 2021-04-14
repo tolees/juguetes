@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 60246 City Comisaría de Policía  Se con un 20.00 % de descuento'
-date: 2021-04-12 17:45:13
-image: 'https://m.media-amazon.com/images/I/51GphBT734L._SL400_.jpg'
+date: 2021-04-14 00:39:55
+image: 'https://m.media-amazon.com/images/I/51GphBT734L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,24 +19,24 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21'
 descuento: '20.00'
-average: '78.5206486486483'
+average: '78.5246091644201'
 ---
 
 En este momento está [LEGO 60246 City Comisaría de Policía  Set de Construcción con Vehículos y Minifiguras](https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21) a 79.99 EUR (original: 99.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
-[![LEGO 60246 City Comisaría de Policía  Se](https://m.media-amazon.com/images/I/51GphBT734L._SL400_.jpg)](https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21)
+[![LEGO 60246 City Comisaría de Policía  Se](https://m.media-amazon.com/images/I/51GphBT734L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21)
 
 🔎:
 
-- Los juguetes de construcción LEGO satisfacen los requisitos de las normas de calidad
-- Incorpora pila de botón (1 x CR 1216) para el ladrillo con luz y para el ladrillo con sonido
 - Un marco rodeado de personajes de la serie para televisión de LEGO City estimula el juego
+- Incorpora pila de botón (1 x CR 1216) para el ladrillo con luz y para el ladrillo con sonido
 - A los niños les encantará este juguete de comisaría de policía
-- La comisaría mide aproximadamente 24 cm de altura, 48 cm de anchura y 15 cm de profundidad
-- Juego LEGO City Comisaría de Policía con múltiples maquetas
-- El juego incluye tanto una guía impresa como instrucciones para la construcción digital
-- Comisaría de policía de juguete para niños y niñas a partir de 6 años
 - Los sets de construcción LEGO City ayudan a los niños a desarrollar sus habilidades físicas
+- Juego LEGO City Comisaría de Policía con múltiples maquetas
 - Sets de construcción LEGO City que han pasado por las pruebas de seguridad más rigurosas
+- El juego incluye tanto una guía impresa como instrucciones para la construcción digital
+- La comisaría mide aproximadamente 24 cm de altura, 48 cm de anchura y 15 cm de profundidad
+- Los juguetes de construcción LEGO satisfacen los requisitos de las normas de calidad
+- Comisaría de policía de juguete para niños y niñas a partir de 6 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W7TM73V/?tag=tolees-21)
