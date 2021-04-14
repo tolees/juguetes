@@ -29,9 +29,9 @@ En este momento está [Monopoly - Clásico  Edad recomendada: a partir de 8 año
 🔎:
 
 - Cambia tu fortuna por cartas de Suerte y de Caja de Comunidad.
-- ¡Y deja a tus adversarios en bancarrota para ganarlo todo!
-- Los jugadores compran, venden e intercambian propiedades para ganar
 - Construye casas y hoteles en las propiedades
+- Los jugadores compran, venden e intercambian propiedades para ganar
+- ¡Y deja a tus adversarios en bancarrota para ganarlo todo!
 - Monopoly - Madrid (Hasbro C1009105)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071Z7LGR3/?tag=tolees-21)

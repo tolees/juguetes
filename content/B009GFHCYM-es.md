@@ -28,11 +28,11 @@ Tienes [VTech Teléfono Interactivo Infantil con luz y Voz  Multicolor  3480-068
 
 🔎:
 
-- Incluye 2 canciones y 9 melodías que favorecen el desarrollo del lenguaje
-- Enseña números, animales y vocabulario a través de sus educativas funciones
 - Teléfono interactivo con 3 modos de juego: números, animales y música
-- El cordón de arrastre y las ruedas favorecen la motricidad del niño y lo animan a gatear
 - Botones con luz y números del 0 al 9 que enseñan números y animales; el auricular de mueve de lado a lado
+- Enseña números, animales y vocabulario a través de sus educativas funciones
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alto rendimiento específicas para productos tecnológicos
+- Incluye 2 canciones y 9 melodías que favorecen el desarrollo del lenguaje
+- El cordón de arrastre y las ruedas favorecen la motricidad del niño y lo animan a gatear
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009GFHCYM/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Diset- Party & Co. Junior Juego de Mesa  Multicolor  10105 ](https://www
 
 ℹ️:
 
-- Juego de mesa infantil educativo y muy divertido
 - En equipos en las 5 categorías
 - Idioma: Catalán
+- Juego de mesa infantil educativo y muy divertido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006GD0POQ/?tag=tolees-21)
