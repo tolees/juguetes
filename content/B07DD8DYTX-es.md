@@ -28,9 +28,9 @@ En este momento está [Famogames - Juguete Caza Bichos  Famosa 700014660 ](https
 
 🔎:
 
-- Diviértete cazando bichos como un camaleón
-- Apunta con la lengua de camaleón y derriba las cartas
 - Juego de mesa para disfrutar en familia
+- Apunta con la lengua de camaleón y derriba las cartas
+- Diviértete cazando bichos como un camaleón
 - Máximo dos jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DD8DYTX/?tag=tolees-21)
