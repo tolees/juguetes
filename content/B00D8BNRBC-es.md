@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Party & Co Extreme 3.0 - Juego d con un 20.12 % de descuento'
-date: 2021-04-12 20:35:49
+date: 2021-04-14 07:03:53
 image: 'https://m.media-amazon.com/images/I/617-BVMij1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B00D8BNRBC/?tag=tolees-21'
 descuento: '20.12'
-average: '29.42'
+average: '29.2014285714286'
 ---
 
 En este momento está [Diset - Party & Co Extreme 3.0 - Juego de mesa adulto a partir de 16 años](https://www.amazon.es/dp/B00D8BNRBC/?tag=tolees-21) a 26.36 EUR (original: 33.0 EUR) (20.12 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Diset - Party & Co Extreme 3.0 - Juego de mesa adulto a p
 
 🔎:
 
-- Existen 4 tipos distintos de pruebas: Quiz&Co, Psyco&Co, Show&Co y Art&Co
-- Habilidades que desarrolla: capacidad de comunicación y visualización y juego en equipo
-- El juego de mesa más divertido para jugar por equipos; incluye 12 pruebas de 4 categorías diferentes; para ganar hay que ser el primer equipo en conseguir los requisitos de la carta secreta objetivo
 - Contenido: tablero de juego abatible, cartas objetivo, cartas de pruebas de 4 categorías, partygafas, lápiz, lápiz naranja, partypinzas, dispensador giratorio, 1 dado y reloj de arena
+- Existen 4 tipos distintos de pruebas: Quiz&Co, Psyco&Co, Show&Co y Art&Co
 - Número de jugadores: de 2 a 4 equipos de hasta 5 jugadores cada uno
+- El juego de mesa más divertido para jugar por equipos; incluye 12 pruebas de 4 categorías diferentes; para ganar hay que ser el primer equipo en conseguir los requisitos de la carta secreta objetivo
+- Habilidades que desarrolla: capacidad de comunicación y visualización y juego en equipo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00D8BNRBC/?tag=tolees-21)
