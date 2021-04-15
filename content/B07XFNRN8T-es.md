@@ -28,10 +28,10 @@ En este momento está [DEWEL Balas Nerf - 7.2 cm 200 Piezas](https://www.amazon.
 
 🔎:
 
-- Vienen en paquetes de 20 unidades para que no las abras todas de golpe
-- Los dardos son compatibles para cualquier dispositivo N-Strike
 - Aguantan mucho: espuma azul blanda y punta naranja un poco rígida
 - Color: azul. Tamaño: 7.2x 1.3 cm
 - Si tenga cualquier problema de la calidad del producto puede contactarnos por correo electrónico
+- Los dardos son compatibles para cualquier dispositivo N-Strike
+- Vienen en paquetes de 20 unidades para que no las abras todas de golpe
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XFNRN8T/?tag=tolees-21)
