@@ -29,9 +29,9 @@ Ahora mismo tienes [uvex Air Wing CC Casco de Bicicleta  Unisex-Adult  Black-Sil
 🔎:
 
 - Construcción ligera del casco con la máxima resistencia a los golpes gracias a que su carcasa está compuesta por dos capas inseparables: una interior de EPS y otra exterior de policarbonato
-- Posibilidad de ampliación con un LED insertable (opcional)
 - Apertura del casco con una sola mano gracias a su cómodo cierre anatómico uvex monomatic
 - Adaptación óptima al contorno y la forma de la cabeza con el sistema uvex 3D IAS 2.0, incluyendo ajuste de altura
 - Revestimiento acolchado extraíble y lavable
+- Posibilidad de ampliación con un LED insertable (opcional)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FC2YKMT/?tag=tolees-21)
