@@ -28,9 +28,9 @@ En este momento está [Cleo y Cuquin - Cleo & Cuquin Muñeca Cleo ¡vamos a la c
 
 🔎:
 
-- Peina a Cleo
-- Tienen los brazos y las piernas articulados
-- Incluye cepillo y pijama de tela
 - Muñeca Cleo de plástico de 25,4 cm
+- Peina a Cleo
+- Incluye cepillo y pijama de tela
+- Tienen los brazos y las piernas articulados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D8RFXJH/?tag=tolees-21)
