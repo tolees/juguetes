@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21045 Architecture Trafalgar Square con un 20.01 % de descuento'
-date: 2021-04-15 05:46:05
+date: 2021-04-16 06:36:32
 image: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07KTK9B3Z/?tag=tolees-21'
 descuento: '20.01'
-average: '78.0055448717947'
+average: '77.9862939297123'
 ---
 
 En este momento está [LEGO 21045 Architecture Trafalgar Square  Set de Construcción  Modelo de Coleccionista  Maqueta Decorativa para Niños a Partir de 12 años](https://www.amazon.es/dp/B07KTK9B3Z/?tag=tolees-21) a 71.98 EUR (original: 89.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [LEGO 21045 Architecture Trafalgar Square  Set de Co
 
 🔎:
 
+- El folleto incluido contiene información acerca de la arquitectura y la historia de cada estructura, así como datos históricos sobre Trafalgar Square y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
 - Este set incluye más de 1190 elementos.
 - Mide más de 12 cm de altura, 24 cm de ancho y 20 cm de profundidad.
-- El folleto incluido contiene información acerca de la arquitectura y la historia de cada estructura, así como datos históricos sobre Trafalgar Square y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
 - La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo de construcción LEGO y está dirigida a todos aquellos interesados en los viajes, la arquitectura, la historia y el diseño.
 - Interpretación LEGO Architecture de Trafalgar Square, un hito arquitectónico londinense del mundo real.
 - Cuenta con la Galería Nacional, la Columna de Nelson con los 4 leones que la custodian, 2 fuentes, 4 pedestales escultóricos, 10 árboles, 6 farolas y una base de baldosas que representa las áreas de la plaza y las calzadas, con 2 autobuses de Londres y 2 taxis negros.
