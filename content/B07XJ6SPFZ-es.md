@@ -29,7 +29,7 @@ Está [BANDAI NAMCO Entertainment Iberica - La Mulana 1 & 2 - Hidden Treasures E
 ℹ️:
 
 - Libro de arte de tapa dura “Hidden Treasures: The Tomb of LA-MULANA”
-- Banda sonora de dos discos “Archaelogical Anthems”
 - Puzle “Siesta in the Ruins”
+- Banda sonora de dos discos “Archaelogical Anthems”
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XJ6SPFZ/?tag=tolees-21)

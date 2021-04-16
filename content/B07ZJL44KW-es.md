@@ -28,10 +28,10 @@ Tienes [THQ NORDIC - Spongebob SquarePants: Battle for Bikini Bottom Rehydrated 
 
 🔎:
 
-- Calcetines de Bob Esponja
 - 6 litografías
-- Juego base
 - Figura de 20 cm de Bob Esponja
 - Pegatinas
+- Calcetines de Bob Esponja
+- Juego base
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZJL44KW/?tag=tolees-21)
