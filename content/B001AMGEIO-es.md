@@ -28,8 +28,8 @@ Está [Educa - Animal Friends Disney Puzzles  2x50 Piezas  Multicolor  13144 ](h
 
 ℹ️:
 
-- Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
 - Dos puzzles de 50 piezas diversión por partida doble; dimensiones aproximadas del puzzle montado: 26 x 18 cm
+- Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
 - Puzzles de madera ecológica, resistente y segura para los niños (no genera astillas); compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
 - Puzzles inspirados en Disney Animal Friends: Rey Leon y El Libro de la Selva
 - Recomendado a partir de 4 años
