@@ -30,8 +30,8 @@ En este momento está [Harry Potter Muñeco Cedric Diggory de la colección de C
 
 - Los niños podrán dar vida a sus historias con la copa de los tres magos y la varita personalizada de cedric diggory
 - Regalo óptimo para niños a partir de 6 años y adultos coleccionistas de artículos de Harry Potter
-- La figura coleccionable de cedric tiene 11 articulaciones en el cuello, los hombros, las caderas, las rodillas, los codos y las muñecas, para disfrutar de historias llenas de acción
 - Cedric Diggory - muñeco coleccionable de la película Harry Potter y el cáliz de fuego, para verdaderos fans
 - Regalo original para fans de Harry Potter
+- La figura coleccionable de cedric tiene 11 articulaciones en el cuello, los hombros, las caderas, las rodillas, los codos y las muñecas, para disfrutar de historias llenas de acción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XB3JBWF/?tag=tolees-21)
