@@ -28,9 +28,9 @@ Ahora mismo tienes [Figuras de acción Famosa - Ninja Turtles - Tortugas Ninja T
 
 🔎:
 
-- El laboratorio extraíble de Donnie se eleva, gira 360 grados, lanza proyectiles, tiene un panel secreto de operaciones y tiene una escotilla de escape en la parte inferior
-- Es compatible con todos los personajes y puede conectar las motos Shell Hog a un vehículo invencible (se vende a parte)
-- Tiene hasta 10 funciones; Recrea las aventuras de las Tortugas Ninja con este increíble tanque
 - El tanque de las Tortugas Ninja con el que vigilan la ciudad de York y los reinos oscuros
+- El laboratorio extraíble de Donnie se eleva, gira 360 grados, lanza proyectiles, tiene un panel secreto de operaciones y tiene una escotilla de escape en la parte inferior
+- Tiene hasta 10 funciones; Recrea las aventuras de las Tortugas Ninja con este increíble tanque
+- Es compatible con todos los personajes y puede conectar las motos Shell Hog a un vehículo invencible (se vende a parte)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P1D4T2Q/?tag=tolees-21)
