@@ -28,10 +28,10 @@ En este momento está [Educa Borras - Serie Enigmatic  Puzzle 500 piezas  Estaci
 
 🔎:
 
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Serie Enigmatic Un enigma en cada rincón de la imagen
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Número de piezas: 500, medida aproximada una vez montado: 48 x 34
 - Edad recomendada: a partir de 10 años
-- Serie Enigmatic Un enigma en cada rincón de la imagen
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084HD63SF/?tag=tolees-21)
