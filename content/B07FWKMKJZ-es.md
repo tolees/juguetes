@@ -28,8 +28,8 @@ Ahora mismo tienes [Mattel Disney Toy Story 4 Pack de 10 amiguitos  Mini Figuras
 
 🔎:
 
-- Edad: 3 años.
 - Disney toy story 4 pack de 10 amiguitos, figuras básicas de los personajes de la película (mattel gcy86).
+- Edad: 3 años.
 - El juego con figuras de acción enseña a los niños valores positivos desde pequeños. Las figuras de acción invitan al niño a crear sus propias historias, dando rienda suelta a su imaginación, lo que estimula su confianza en sí mismo y su autonomía.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FWKMKJZ/?tag=tolees-21)
