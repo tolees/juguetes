@@ -28,7 +28,7 @@ Tienes [Barbie Muñeca Chelsea y su huerto  accesorios muñeca  Mattel FRH75 ](h
 
 🔎:
 
-- Edad mínima recomendada 4 años
 - Material de calidad profesional
+- Edad mínima recomendada 4 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079JPPYYS/?tag=tolees-21)
