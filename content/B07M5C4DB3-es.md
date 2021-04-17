@@ -30,7 +30,7 @@ En este momento está [Juegos Infantiles Hasbro - Hasbro Gaming - Juego infantil
 
 - Luces y sonidos; el juego tiene luces y sonidos que añaden emoción al juego; las luces de la red se encienden cuando empieza el juego y cuando un jugador pasa al siguiente nivel; el juego graba cada bote en la mesa
 - Diviértete jugando solo; quieres divertirte por tu cuenta cuando los amigos no están cerca? este juego es muy entretenido y está diseñado para jugar individualmente; desafía a tus amigos, y juega por turnos para ver quién obtiene la puntuación más alta
-- Ping-pong en la palma de tu mano; te imaginas poder jugar al ping-pong solo y sin necesidad de una mesa de tamaño real? este juego lleva la acción y la emoción del ping-pong a la palma de tu mano
 - Sigue botando la pelota para ganar; lanza la pelota a la mesa y mantenla botando todo el tiempo que puedas para acumular puntos; si la pelota deja de botar, se termina el juego y la unidad de juego indica la puntuación
+- Ping-pong en la palma de tu mano; te imaginas poder jugar al ping-pong solo y sin necesidad de una mesa de tamaño real? este juego lleva la acción y la emoción del ping-pong a la palma de tu mano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M5C4DB3/?tag=tolees-21)
