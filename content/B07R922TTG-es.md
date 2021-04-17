@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars- Sable Scream  Hasbro E75575L6 al 35.87 % de descuento'
-date: 2021-04-14 14:32:02
+date: 2021-04-17 10:14:50
 image: 'https://m.media-amazon.com/images/I/31iVFl-0liL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B07R922TTG/?tag=tolees-21'
 descuento: '35.87'
-average: '25.3195833333333'
+average: '25.2608163265306'
 ---
 
 Ahora mismo tienes [Star Wars- Sable Scream  Hasbro E75575L6    color/modelo surtido](https://www.amazon.es/dp/B07R922TTG/?tag=tolees-21) a 22.44 EUR (original: 34.99 EUR) (35.87 %  de descuento) en el siguiente enlace!
