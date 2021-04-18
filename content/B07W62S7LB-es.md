@@ -30,8 +30,8 @@ Ahora mismo tienes [BANDAI - Dragon Ball Super CG Expansion Set - Saiyan Surge B
 
 - Leader Cards: a series first!
 - 6 new card types for a total of 13 new cards in each version
-- 13 Exclusive New Cards and 3x Series 8 Boosters in both versions!
 - Power up Series 8 Decks with new competitive cards
+- 13 Exclusive New Cards and 3x Series 8 Boosters in both versions!
 - Prepare for Series 9 with the first Multicolor Leader cards ever
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W62S7LB/?tag=tolees-21)
