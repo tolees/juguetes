@@ -28,10 +28,10 @@ En este momento está [Fehn 060515 Cojín de Huesos de Cereza – Cojín de Calo
 
 🔎:
 
-- En la cuna, en el capazo o en el cochecito, el oso de peluche está siempre contigo: no solo despliega su efecto reconfortante, sino que también es el peluche perfecto para dormir y abrazar
-- Contenido del envío: 1 cojín de huesos de cereza de la colección Bruno / Dimensiones: 15 x 15 cm / Material exterior: felpa, terciopelo, tela, lavable a 30 °C / Número de referencia: 060515
+- En el microondas o en el horno se puede calentar fácilmente el interior del cojín – para enfriar en una bolsa de plástico en el frigorífico o el congelador para enfriar
 - Los huesos de cereza se adaptan perfectamente al cuerpo y calman y consolar a los más pequeños
 - Funda extraíble: el saco térmico se puede extraer fácilmente gracias al práctico cierre de velcro. La funda de oso es lavable a 30 °C y se mantiene siempre fresca y suave
-- En el microondas o en el horno se puede calentar fácilmente el interior del cojín – para enfriar en una bolsa de plástico en el frigorífico o el congelador para enfriar
+- En la cuna, en el capazo o en el cochecito, el oso de peluche está siempre contigo: no solo despliega su efecto reconfortante, sino que también es el peluche perfecto para dormir y abrazar
+- Contenido del envío: 1 cojín de huesos de cereza de la colección Bruno / Dimensiones: 15 x 15 cm / Material exterior: felpa, terciopelo, tela, lavable a 30 °C / Número de referencia: 060515
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RXG753B/?tag=tolees-21)
