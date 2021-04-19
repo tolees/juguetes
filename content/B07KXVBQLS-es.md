@@ -30,8 +30,8 @@ Ahora mismo tienes [Devir - El monstruo de colores  edición en castellano](http
 
 - Tipo de producto: juego de mesa
 - Edad recomendada: de 3 a 6 años
-- Edición en castellano
-- Los jugadores se mueven por los colores que representan las diferentes emociones o sentimientos, como calma, rabia, miedo, tristeza y necesitan guardarlos en cada frasco correspondiente
 - Juego adecuado para pasar el tiempo libre
+- Los jugadores se mueven por los colores que representan las diferentes emociones o sentimientos, como calma, rabia, miedo, tristeza y necesitan guardarlos en cada frasco correspondiente
+- Edición en castellano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KXVBQLS/?tag=tolees-21)
