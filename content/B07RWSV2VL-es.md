@@ -28,9 +28,9 @@ Ahora mismo tienes [Focus Home Interactive - The Surge 2  PS4 ](https://www.amaz
 
 🔎:
 
-- Excelente evolución y personalización del personaje
-- Cercena las partes del enemigo que quieras saquear
-- Enfréntate a rivales y jefes mortíferos
 - Brutales combates cuerpo a cuerpo
+- Cercena las partes del enemigo que quieras saquear
+- Excelente evolución y personalización del personaje
+- Enfréntate a rivales y jefes mortíferos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21)
