@@ -28,10 +28,10 @@ En este momento está [Devir- Catan Junior  Juego de Mesa  en Castellano  catal�
 
 🔎:
 
-- Tipo de producto: juego de mesa
 - Juego adecuado para pasar el tiempo libre
-- Duración aproximada de la partida: 30 min
-- Edad recomendada: 6 años y más
+- Tipo de producto: juego de mesa
 - El producto representa la versión infantil del juego Catan
+- Edad recomendada: 6 años y más
+- Duración aproximada de la partida: 30 min
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WC54XF8/?tag=tolees-21)
