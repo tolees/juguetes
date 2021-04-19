@@ -28,10 +28,10 @@ Ahora mismo tienes [Nacon Asymmetric - Mando inalámbrico [Versión Española]  
 
 🔎:
 
-- Indicador de nivel de batería
-- Distancia operativa: hasta 7 metros
 - Tiempo de juego: hasta 7 horas
-- Con un diseño asimétrico para una forma alternativa de jugar en ps4
 - 2 motores de vibración
+- Indicador de nivel de batería
+- Con un diseño asimétrico para una forma alternativa de jugar en ps4
+- Distancia operativa: hasta 7 metros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PBXYYRK/?tag=tolees-21)

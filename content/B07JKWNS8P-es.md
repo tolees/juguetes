@@ -29,8 +29,8 @@ En este momento está [Playmobil 70157 Special Plus Jugadores de Fútbol con Pu
 🔎:
 
 - Desarrolla la creatividad y la imaginación
-- Figura con función de disparo
 - Contiene 11 piezas
+- Figura con función de disparo
 - Incluye accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JKWNS8P/?tag=tolees-21)

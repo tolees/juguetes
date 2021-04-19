@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Devir- Ávalon Juego de Mesa  Color  BGRE al 19.25 % de descuento'
-date: 2021-03-22 22:44:09
-image: 'https://m.media-amazon.com/images/I/61XfgZAaDkL._SL400_.jpg'
+title: 'Devir- Ávalon Juego de Mesa  Color  BGRE al 23.35 % de descuento'
+date: 2021-04-19 08:50:36
+image: 'https://m.media-amazon.com/images/I/61XfgZAaDkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B019NCX7UA-es Devir- Ávalon Juego de Mesa Color BGRESIAV'
 sku: 'B019NCX7UA-es'
 tags: [ 'Juego de mesa','Juegos de cartas','Juegos de cartas con baraja específica','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','devir','devir-', ]
-actualPrice: 16.15 EUR
+actualPrice: 15.33 EUR
 currency: EUR
-price: 16.15
+price: 15.33
 comparePrice: 20.0 EUR
 prodname: 'Devir- Ávalon Juego de Mesa  Color  BGRESIAV '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21'
-descuento: '19.25'
-average: '17.3433333333333'
+descuento: '23.35'
+average: '17.29875'
 ---
 
-Ahora mismo tienes [Devir- Ávalon Juego de Mesa  Color  BGRESIAV ](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21) a 16.15 EUR (original: 20.0 EUR) (19.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Devir- Ávalon Juego de Mesa  Color  BGRESIAV ](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21) a 15.33 EUR (original: 20.0 EUR) (23.35 %  de descuento) en el siguiente enlace!
 
-[![Devir- Ávalon Juego de Mesa  Color  BGRE](https://m.media-amazon.com/images/I/61XfgZAaDkL._SL400_.jpg)](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21)
+[![Devir- Ávalon Juego de Mesa  Color  BGRE](https://m.media-amazon.com/images/I/61XfgZAaDkL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21)
 
 🔎:
 
-- Duración aproximada de la partida: 30 min
-- Juego adecuado para pasar el tiempo libre
 - Tipo de producto: juego de mesa
-- Número de jugadores: 5 - 6
+- Duración aproximada de la partida: 30 min
 - Ávalon es un juego independiente, no es necesario disponer de la Resistencia, aunque son compatibles y se pueden combinar
+- Juego adecuado para pasar el tiempo libre
+- Número de jugadores: 5 - 6
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Devir- Picnic  Multicolor  Varias    color/modelo surtido
 
 🔎:
 
-- Desarrolla la creatividad y la imaginación
 - Juego de 2 a 6 jugadores
-- Marca del producto: Devir
+- Desarrolla la creatividad y la imaginación
 - Valor educativo: lectura, escritura y numérico
+- Marca del producto: Devir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CQ1N3TT/?tag=tolees-21)
