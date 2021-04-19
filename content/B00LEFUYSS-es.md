@@ -29,9 +29,9 @@ Tienes [Educa - Frozen Conjunto de Puzzles  Multicolor  16173 ](https://www.amaz
 ℹ️:
 
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
-- Multi 4 Puzzles Junior con diferente número de piezas (entre 50 y 150) para que niños y niñas se atrevan con distintos niveles de dificultad a medida que crecen y ganan práctica en el montaje
 - Recomendado a partir de 5 años
-- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
 - Puzzles inspirados en Frozen
+- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
+- Multi 4 Puzzles Junior con diferente número de piezas (entre 50 y 150) para que niños y niñas se atrevan con distintos niveles de dificultad a medida que crecen y ganan práctica en el montaje
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LEFUYSS/?tag=tolees-21)

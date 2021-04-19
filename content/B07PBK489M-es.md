@@ -30,7 +30,7 @@ Tienes [Dragon Ball- Figura Deluxe Androide 17  Color  Bandai 36183 ](https://ww
 
 - Figura con alto nivel de detalle
 - Manos intercambiables
-- 17 cm de alto
 - 17 puntos de articulación
+- 17 cm de alto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PBK489M/?tag=tolees-21)
