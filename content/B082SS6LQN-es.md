@@ -28,8 +28,8 @@ Está [Mando Nacon Pro Controller Revolution 3 - Mando para PS4 y PC](https://ww
 
 ℹ️:
 
-- 4 botones configurables para atajos; Cruceta para 4** u 8 direcciones
 - Conexión por cable; Cable extraíble USB-C trenzado de 3m.
+- 4 botones configurables para atajos; Cruceta para 4** u 8 direcciones
 - Sticks personalizables cóncavos duales, con 46° de amplitud de movimiento
 - 2 motores de vibración personalizables; Compartimentos internos para pesos
 - Soporte para audio y chat; Entrada de 3,5mm para auriculares (auriculares no incluidos)
