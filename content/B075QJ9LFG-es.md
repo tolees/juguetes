@@ -28,9 +28,9 @@ Tienes [Devir - Catán: Navegantes Exp. 5 Y 6 Jugadores](https://www.amazon.es/d
 
 🔎:
 
-- Expansi&oacute;n de 5-6 jugadores de Navegantes
-- Jugadores: 3-6
-- Edad: 10+
 - V&aacute;lido para 6 jugadores
+- Edad: 10+
+- Jugadores: 3-6
+- Expansi&oacute;n de 5-6 jugadores de Navegantes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075QJ9LFG/?tag=tolees-21)

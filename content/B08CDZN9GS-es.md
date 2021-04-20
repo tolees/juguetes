@@ -30,8 +30,8 @@ Tienes [Space Cow - Juego de Mesa Dream Catcher - ¡Las pesadillas no Son Nada D
 
 - 1. Elige un Peluche que cubra por completo la Pesadilla que hay en el centro de la mesa.
 - ¡Las pesadillas no son nada divertidas! ¡Pero tienes tu Peluche para transformar tus malos sueños en bonitos cuentos!
-- Contiene: 1 reglamento, 1 bolsa-almohada, 4 tableros confortables, 8 piezas de Peluche, 30 cartas de Pesadilla (¡no dan miedo!) y 54 piezas de Sueño para contar bonitos cuentos.
-- 2. Si la Pesadilla queda tapada del todo por el Peluche, ganas fichas de Sueño con las que llenar tu tablero.
 - Juego de 15 minutos, de 2 a 4 jugadores a partir de 4 años de edad
+- 2. Si la Pesadilla queda tapada del todo por el Peluche, ganas fichas de Sueño con las que llenar tu tablero.
+- Contiene: 1 reglamento, 1 bolsa-almohada, 4 tableros confortables, 8 piezas de Peluche, 30 cartas de Pesadilla (¡no dan miedo!) y 54 piezas de Sueño para contar bonitos cuentos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CDZN9GS/?tag=tolees-21)
