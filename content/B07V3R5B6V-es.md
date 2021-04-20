@@ -29,9 +29,9 @@ Está [ININ Games /Taito - The Ninja Saviors: Return Of The Warriors For Nintend
 ℹ️:
 
 - online ranking
-- 2 new characters for a total of 5 playable characters
-- 8 stages
 - two-player local coop
+- 8 stages
+- 2 new characters for a total of 5 playable characters
 - Reboot of one of the highest rated action games on Super NES
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V3R5B6V/?tag=tolees-21)
