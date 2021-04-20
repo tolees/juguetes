@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price - Fisher Price Caballito de al 38.18 % de descuento'
-date: 2021-04-16 14:48:48
+date: 2021-04-20 13:20:43
 image: 'https://m.media-amazon.com/images/I/31MgkolxbRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B00P4CEUS2/?tag=tolees-21'
 descuento: '38.18'
-average: '19.8593333333333'
+average: '19.8167741935484'
 ---
 
 Ahora mismo tienes [Fisher-Price - Fisher Price Caballito de mar dulces sueños azul  juguete de cuna bebé  Mattel DGH82    color/modelo surtido](https://www.amazon.es/dp/B00P4CEUS2/?tag=tolees-21) a 18.54 EUR (original: 29.99 EUR) (38.18 %  de descuento) en el siguiente enlace!

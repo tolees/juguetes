@@ -28,9 +28,9 @@ Tienes [Bizak - Tricky Salta Pirata](https://www.amazon.es/dp/B00O9TCSIA/?tag=to
 
 🔎:
 
-- Si el agujero no es el correcto, el pirata salta y tú habrás perdido la partida
 - Cada jugador elige la espada de un color
 - Cuatro colores de espadas distintos
+- Si el agujero no es el correcto, el pirata salta y tú habrás perdido la partida
 - Introduce las espadas de tu color en cualquiera de los agujeros del barril del pirata
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O9TCSIA/?tag=tolees-21)
