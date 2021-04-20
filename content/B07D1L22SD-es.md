@@ -28,8 +28,8 @@ Ahora mismo tienes [Minecraft - Nintendo Switch](https://www.amazon.es/dp/B07D1L
 
 🔎:
 
-- Construir todo tipo de elementos, edificaciones u objetos, permite dar forma a los escenarios más particulares que hayamos podido imaginar
 - El juego Minecraft se encuentra en constante actualización y progresión
+- Construir todo tipo de elementos, edificaciones u objetos, permite dar forma a los escenarios más particulares que hayamos podido imaginar
 - Minecraft es un juego de simulación y creación con gráficos pixelados
 - El mundo de Minecraft está muy vivo y hay espacio para la exploración y la supervivencia
 - La jugabilidad es online y offline, beneficiándose de la útil función de pantalla partida

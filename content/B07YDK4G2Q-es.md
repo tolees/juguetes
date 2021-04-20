@@ -28,9 +28,9 @@ Ahora mismo tienes [Dickie- Retro Excavadora de Juguete  Simba Toys 3724003 ](ht
 
 🔎:
 
-- Medida: 26 cm
-- La excavadora Volvo de juguete de Dickie Toys tiene ruedas giratorias y cuenta con un brazo de pala móvil con una pala flexible, como el verdadero vehículo Volvo
 - La cabina abierta gira a medida que la pala se mueve
+- La excavadora Volvo de juguete de Dickie Toys tiene ruedas giratorias y cuenta con un brazo de pala móvil con una pala flexible, como el verdadero vehículo Volvo
 - Para niños a partir de 3 años
+- Medida: 26 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YDK4G2Q/?tag=tolees-21)
