@@ -28,13 +28,13 @@ Está [LEGO STAR WARS Imperial AT-Hauler](https://www.amazon.es/dp/B0792QCD6Z/?t
 
 ℹ️:
 
-- El imperial at-hauler mide más de 12 cm de altura, 32 cm de longitud y 21 cm de ancho
-- Incluye 5 minifiguras lego : qira, val, rio durant y 2 guardias de dryden
-- Incluye un contenedor de mercancía para construir que se abre, equ ipad o con una viga de izado
-- Carga el contenedor, engánchalo y levántalo para transportarlo
-- Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
 - Gira los brazos de elevación para pasar a los modos de aterrizaje o vuelo
+- Incluye 5 minifiguras lego : qira, val, rio durant y 2 guardias de dryden
+- Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
 - Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), y organiza el asalto ferroviario definitivo a toda velocidad
+- Carga el contenedor, engánchalo y levántalo para transportarlo
+- Incluye un contenedor de mercancía para construir que se abre, equ ipad o con una viga de izado
+- El imperial at-hauler mide más de 12 cm de altura, 32 cm de longitud y 21 cm de ancho
 - Recrea las emocionantes escenas de Han Solo: a Star Wars Story
 - Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 
