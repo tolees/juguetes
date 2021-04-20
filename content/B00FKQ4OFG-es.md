@@ -28,10 +28,10 @@ Tienes [Warner Bros Interactive Spain  VG  - LEGO Marvel Super Heroes - Edición
 
 🔎:
 
-- El juego se alterna entre varias secuencias de acción y aventura y escenarios de resolución de puzzles
-- Plataforma del juego: PlayStation 4
-- Los personajes incluyen: Iron Man, Capitán América, Hulk, Spider-Man, Viuda Negra, Hawkeye, Thor, los X-Men, los Cuatro Fantásticos, Silver Surfer y Nick Fury
-- Los jugadores son capaces de controlar personajes del Universo Marvel, cada uno con sus propias habilidades únicas
 - Tipo de producto: videojuego de acción y aventura
+- Los jugadores son capaces de controlar personajes del Universo Marvel, cada uno con sus propias habilidades únicas
+- Plataforma del juego: PlayStation 4
+- El juego se alterna entre varias secuencias de acción y aventura y escenarios de resolución de puzzles
+- Los personajes incluyen: Iron Man, Capitán América, Hulk, Spider-Man, Viuda Negra, Hawkeye, Thor, los X-Men, los Cuatro Fantásticos, Silver Surfer y Nick Fury
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FKQ4OFG/?tag=tolees-21)
