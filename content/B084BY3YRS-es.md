@@ -28,10 +28,10 @@ En este momento está [Imaginext DC Super Friends Batman XL  Mattel GPT42 ](http
 
 🔎:
 
+- Mueve la cabeza, los hombros, las muñecas y las piernas de la figura para darle más realismo al juego
+- Crea batallas increíbles en Gotham City con la figura extragrande de Batman de DC Super Friends de Imaginext
 - La figura mide aproximadamente 25 cm
 - Para niños de 3 a 8 años
 - La figura extragrande de Batman es ideal para que los más pequeños la cojan y jueguen con ella con su suave capa de tela
-- Mueve la cabeza, los hombros, las muñecas y las piernas de la figura para darle más realismo al juego
-- Crea batallas increíbles en Gotham City con la figura extragrande de Batman de DC Super Friends de Imaginext
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084BY3YRS/?tag=tolees-21)
