@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir- Ávalon Juego de Mesa  Color  BGRESIAV ](https://www.
 
 🔎:
 
+- Tipo de producto: juego de mesa
+- Duración aproximada de la partida: 30 min
 - Juego adecuado para pasar el tiempo libre
 - Número de jugadores: 5 - 6
-- Tipo de producto: juego de mesa
 - Ávalon es un juego independiente, no es necesario disponer de la Resistencia, aunque son compatibles y se pueden combinar
-- Duración aproximada de la partida: 30 min
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21)
