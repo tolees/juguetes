@@ -28,12 +28,12 @@ Tienes [Nintendo - Dark Souls: Remastered - Edición Estándar](https://www.amaz
 
 🔎:
 
-- Descubre las múltiples combinaciones de armas, armaduras, magia y opciones de creación para diseñar tu propio estilo y experiencia de juego
-- Con el amiibo Solaire de Astora (a la venta por separado), podrás ejecutar el popular gesto "Alabar al sol"
-- Cada partida te sorprenderá con nuevos desafíos y facetas nuevas del juego
-- Adéntrate en un épico y oscuro universo de fantasía asolado por la decadencia y la maldición. Explora el complejo diseño de su mundo, repleto de pasajes ocultos, mazmorras y secretos, y descubre su arraigado trasfondo
-- Incluye modo multijugador online para hasta 6 jugadores (con servidores dedicados): juega con otros jugadores y busca lo que más te interesa según tu modo de juego, ya sean colaboraciones, enfrentamientos, alianzas o traiciones. Descubre tu hogar dentro de cualquiera de los 9 pactos
 - Mejora a tu personaje y desarrolla tus habilidades como jugador a medida que vas dominando el juego. Planea estrategias con total libertad y enfréntate a enemigos intimidantes
 - Este producto incluye el juego principal y el contenido descargable "Artorias of the Abyss"
+- Adéntrate en un épico y oscuro universo de fantasía asolado por la decadencia y la maldición. Explora el complejo diseño de su mundo, repleto de pasajes ocultos, mazmorras y secretos, y descubre su arraigado trasfondo
+- Cada partida te sorprenderá con nuevos desafíos y facetas nuevas del juego
+- Con el amiibo Solaire de Astora (a la venta por separado), podrás ejecutar el popular gesto "Alabar al sol"
+- Descubre las múltiples combinaciones de armas, armaduras, magia y opciones de creación para diseñar tu propio estilo y experiencia de juego
+- Incluye modo multijugador online para hasta 6 jugadores (con servidores dedicados): juega con otros jugadores y busca lo que más te interesa según tu modo de juego, ya sean colaboraciones, enfrentamientos, alianzas o traiciones. Descubre tu hogar dentro de cualquiera de los 9 pactos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078YKPXF4/?tag=tolees-21)
