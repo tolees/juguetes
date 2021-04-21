@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Gritin Cubo Mágico  Cubo de Velocidad 3x al 27.82 % de descuento'
-date: 2021-04-03 13:52:33
-image: 'https://m.media-amazon.com/images/I/51eswChXZEL._SL400_.jpg'
+date: 2021-04-21 18:24:37
+image: 'https://m.media-amazon.com/images/I/51eswChXZEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Gritin'
 buyurl: 'https://www.amazon.es/dp/B078NV12MR/?tag=tolees-21'
 descuento: '27.82'
-average: '7.33340909090909'
+average: '7.34478260869565'
 ---
 
 Ahora mismo tienes [Gritin Cubo Mágico  Cubo de Velocidad 3x3x3 Puzzle Inteligencia Mágico Speed Cubo Rompecabezas y Fácil Giro  Súper Duradero](https://www.amazon.es/dp/B078NV12MR/?tag=tolees-21) a 6.2 EUR (original: 8.59 EUR) (27.82 %  de descuento) en el siguiente enlace!
 
-[![Gritin Cubo Mágico  Cubo de Velocidad 3x](https://m.media-amazon.com/images/I/51eswChXZEL._SL400_.jpg)](https://www.amazon.es/dp/B078NV12MR/?tag=tolees-21)
+[![Gritin Cubo Mágico  Cubo de Velocidad 3x](https://m.media-amazon.com/images/I/51eswChXZEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078NV12MR/?tag=tolees-21)
 
 🔎:
 
