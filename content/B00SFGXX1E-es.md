@@ -29,9 +29,9 @@ Está [Educa - Aprendo los Números Peppa Pig Animales Puzzle Educativo  Multico
 ℹ️:
 
 - Horas y horas de diversión y entretenimiento
-- Los niños se divertirán asociando cada uno de los números del 1 al 10 con su cantidad correspondiente
-- Un juego ideal para introducirse en el concepto de número
 - Contenidos adaptados a las áreas básicas de aprendizaje y para cada edad en concreto
 - Recomendado a partir de 3 años
+- Un juego ideal para introducirse en el concepto de número
+- Los niños se divertirán asociando cada uno de los números del 1 al 10 con su cantidad correspondiente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00SFGXX1E/?tag=tolees-21)
