@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Hero Realms: La Perdición de Than al 35.90 % de descuento'
-date: 2021-04-20 13:24:14
+date: 2021-04-22 08:10:37
 image: 'https://m.media-amazon.com/images/I/51K8dEY8AAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07FW16Q7M/?tag=tolees-21'
 descuento: '35.90'
-average: '14.46'
+average: '14.335'
 ---
 
 Ahora mismo tienes [Devir- Hero Realms: La Perdición de Thandar  Multicolor  BGHRUI ](https://www.amazon.es/dp/B07FW16Q7M/?tag=tolees-21) a 13.96 EUR (original: 21.78 EUR) (35.90 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir- Hero Realms: La Perdición de Thandar  Multicolor  BG
 
 🔎:
 
-- A partir de 12 años
 - Unos 90 minutos por partida
 - Esta expansión requiere el juego básico Hero Realms y de sobres de personaje
+- A partir de 12 años
 - De 1 a 5 jugadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FW16Q7M/?tag=tolees-21)
