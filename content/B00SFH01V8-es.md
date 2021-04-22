@@ -28,10 +28,10 @@ En este momento está [Educa - Multi 4 Puzzles Junior  puzzle infantil Avengers 
 
 🔎:
 
-- Recomendado a partir de 5 años
-- Puzzles inspirados en Avengers
 - Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
-- Multi 4 Puzzles Junior con diferente número de piezas (entre 50 y 150) para que niños y niñas se atrevan con distintos niveles de dificultad a medida que crecen y ganan práctica en el montaje
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
+- Puzzles inspirados en Avengers
+- Multi 4 Puzzles Junior con diferente número de piezas (entre 50 y 150) para que niños y niñas se atrevan con distintos niveles de dificultad a medida que crecen y ganan práctica en el montaje
+- Recomendado a partir de 5 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SFH01V8/?tag=tolees-21)
