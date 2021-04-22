@@ -29,8 +29,8 @@ Ahora mismo tienes [Fisher-Price Rainforest Piano-Gym - Manta de Juego parBebé 
 🔎:
 
 - Manta suave y colorida como base
-- Unidad de flor electrónica con interruptor de encendido / apagado y música
 - Gran variedad de juegos: abeja con campana, hojas crujientes, sonajeros, mordedor
+- Unidad de flor electrónica con interruptor de encendido / apagado y música
 - Equipo para bebés para estimular las patadas y los agarres
 - Alfombra de juego para bebé con lazo para sujetar 5 juguetes
 
