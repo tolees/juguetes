@@ -28,10 +28,10 @@ En este momento está [Fisher-Price Saltador Gatito Astronauta Plegable  Jumpero
 
 🔎:
 
-- Altura de tres posiciones que se regula cómodamente y se adapta al crecimiento del niño
 - Acolchado de asiento extraíble y lavable a máquina
-- Estructura resistente e independiente que permite al niño saltar con total seguridad, sin necesidad de colgar el saltador de una puerta
 - Estructura fácil de plegar para guardarla y llevársela a todas partes
+- Estructura resistente e independiente que permite al niño saltar con total seguridad, sin necesidad de colgar el saltador de una puerta
 - Centro de actividades infantil con música, sonidos, luces y juguetes, incluidos un mordedor, un juguete sonoro y un «centro de mando» que se ilumina
+- Altura de tres posiciones que se regula cómodamente y se adapta al crecimiento del niño
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JTD78J3/?tag=tolees-21)
