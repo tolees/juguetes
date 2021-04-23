@@ -28,10 +28,10 @@ Está [Hasbro Gaming- Risk Gaming Clasico Juego de Mesa  Multicolor  Miscelanea 
 
 ℹ️:
 
-- Domina el mundo en este juego de conquista estratégica
-- Incluye 5 baúles de guerra para guardar las piezas fácilmente
-- Las cartas de Misión mejoras aumentan la velocidad del juego; incluye 12 Misiones Secretas
-- El fantástico diseño del tablero atrae a los jugadores al juego de dominación mundial
 - Presenta figuras actualizadas —incluye 300 figuras
+- Domina el mundo en este juego de conquista estratégica
+- El fantástico diseño del tablero atrae a los jugadores al juego de dominación mundial
+- Las cartas de Misión mejoras aumentan la velocidad del juego; incluye 12 Misiones Secretas
+- Incluye 5 baúles de guerra para guardar las piezas fácilmente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GG1BHQC/?tag=tolees-21)
