@@ -28,10 +28,10 @@ Ahora mismo tienes [Pinypon Action. Pickup de Policía con Lancha para niños y 
 
 🔎:
 
+- La lancha flota en el agua
+- Set de un pickup con una veloz lancha para las persecuciones policiales
 - Juguete para niños a partir de 4 años
 - Incluye 1 figura de un policía y pequeños accesorios
 - Con un remolque para transportar la lancha, es compatible con otros coches de Pinypon Action
-- Set de un pickup con una veloz lancha para las persecuciones policiales
-- La lancha flota en el agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08RS4T2L7/?tag=tolees-21)
