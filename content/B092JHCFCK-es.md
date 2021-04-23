@@ -29,8 +29,8 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Little Big Planet 3 Hits + Gran T
 🔎:
 
 - Edición del juego: básica
+- Plataforma: PlayStation 4
 - 3+
 - PS4
-- Plataforma: PlayStation 4
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092JHCFCK/?tag=tolees-21)
