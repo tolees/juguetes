@@ -29,9 +29,9 @@ Ahora mismo tienes [MojiPops Party - Display de 6 Club House con figuras MojiPop
 🔎:
 
 - El display contiene 6 club houses con una figura MojiPops en cada uno y variedad de accesorios
-- Construye tu propia ciudad Mojiland con todos los personajes coleccionables, que podrás encontrar en cada juego. ¡Empieza a disfrutar de éstos personajes!
-- Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo, además de favorecer la socialización
 - Los MojiPops son muy especiales porque pueden cambiar sus emociones. Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias y hablar entre ellos
 - Descubre las 6 diferentes club house que hay para coleccionar. ¡No pares hasta conseguir todas!
+- Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo, además de favorecer la socialización
+- Construye tu propia ciudad Mojiland con todos los personajes coleccionables, que podrás encontrar en cada juego. ¡Empieza a disfrutar de éstos personajes!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083T2F2QG/?tag=tolees-21)

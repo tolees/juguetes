@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Space Vehículo de Reconocimien al 29.85 % de rebaja'
-date: 2021-04-22 07:08:12
+date: 2021-04-23 12:00:47
 image: 'https://m.media-amazon.com/images/I/51cBWT0b8FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B079MPNCHW/?tag=tolees-21'
 descuento: '29.85'
-average: '31.1755555555556'
+average: '30.934'
 ---
 
 Tienes [PLAYMOBIL Space Vehículo de Reconocimiento  A partir de 6 años  9489    color/modelo surtido](https://www.amazon.es/dp/B079MPNCHW/?tag=tolees-21) con precio final de  28.76 EUR (original: 41.0 EUR) (29.85 %  de rebaja) aqui!
