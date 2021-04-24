@@ -28,10 +28,10 @@ En este momento está [Fisher-Price - Proyector osito dormilón - juguetes bebe 
 
 🔎:
 
-- Regalo original para recién nacido
-- Tres temporizadores de apagado automático para elegir entre 10, 20 o 30 minutos de funcionamiento
-- Este proyector responde a las necesidades del pequeño con música, proyecciones y una luz de noche para niños
-- El suave osito butterfly dreams puede lavarse a máquina y colocarse en el proyector o desmontarse para jugar tanto en casa como fuera
 - Las luces tenues, estrellas y hasta 30 minutos de música, nanas y sonidos relajantes estimulan los sentidos de la vista y el oído del niño y le ayudan a relajarse cuando es hora de descansar
+- Regalo original para recién nacido
+- Este proyector responde a las necesidades del pequeño con música, proyecciones y una luz de noche para niños
+- Tres temporizadores de apagado automático para elegir entre 10, 20 o 30 minutos de funcionamiento
+- El suave osito butterfly dreams puede lavarse a máquina y colocarse en el proyector o desmontarse para jugar tanto en casa como fuera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XK3TMGT/?tag=tolees-21)

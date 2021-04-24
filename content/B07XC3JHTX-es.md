@@ -30,8 +30,8 @@ En este momento está [Enchantimals- Ciesta Cat con Mascota Climber  Muñeca  Mu
 
 - La muñeca ciesta cat viene con la gata climber, siempre están juntas y, hasta se parecen
 - Ciesta y climber tienen acabados fantásticos para estimular los juegos imaginativos, como unas orejas de gato y colas. ​
-- Para divertirse a la última moda, ciesta cat luce un conjunto perfecto con un corpiño a cuadros, una falda extraíble y unos zapatos. ​
 - Las niñas disfrutarán del vínculo especial que une a estas dos superamigas. ​
+- Para divertirse a la última moda, ciesta cat luce un conjunto perfecto con un corpiño a cuadros, una falda extraíble y unos zapatos. ​
 - Descubre la magia de la amistad y la naturaleza con estos adorables personajes de​enchantimals. ​
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XC3JHTX/?tag=tolees-21)
