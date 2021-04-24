@@ -28,10 +28,10 @@ En este momento está [Fisher-Price - Fisher Price - Caballito de mar dulces sue
 
 🔎:
 
+- Emite luz y música durante cinco minutos
 - El niño activa una luz tenue, así como sonidos y música relajante con un suave abrazo
+- Regalo original para recién nacido
 - Ocho nanas y canciones clásicas
 - Sonidos relajantes del mar
-- Emite luz y música durante cinco minutos
-- Regalo original para recién nacido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00RCXTZ18/?tag=tolees-21)
