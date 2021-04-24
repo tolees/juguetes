@@ -29,8 +29,8 @@ Ahora mismo tienes [Educa -Los Números Peppa Pig Juego Educativo para Bebés  M
 🔎:
 
 - Encajando las distintas piezas, los niños descubrirán cada una de las letras del abecedario, tanto en mayúsculas como en minúsculas
+- Adecuado para niños de 4-5 años
 - Divertido juego de asociación para iniciarse en el conocimiento de las letras
 - Para que los niños aprendan de una forma divertida
-- Adecuado para niños de 4-5 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BHAHCG2/?tag=tolees-21)

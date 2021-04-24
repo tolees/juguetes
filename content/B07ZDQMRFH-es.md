@@ -28,9 +28,9 @@ Ahora mismo tienes [Revell 00117 3D Puzzle](https://www.amazon.es/dp/B07ZDQMRFH/
 
 🔎:
 
-- Dependiendo del tamaño y de la complejidad del modelo, podrás divertirte construyendo unos minutos o unas horas
 - Manualidades divertidas para jóvenes y mayores
-- Con los puzzles en 3d de revell, podrás hacer maquetas en tres dimensiones de construcciones conocidas en todo el mundo, imponentes skylines o legendarios vehículos
 - Las piezas de espuma, diseñadas con máxima precisión, fácil itan el montaje, ya que no necesitarás pegamento ni herramientas
+- Con los puzzles en 3d de revell, podrás hacer maquetas en tres dimensiones de construcciones conocidas en todo el mundo, imponentes skylines o legendarios vehículos
+- Dependiendo del tamaño y de la complejidad del modelo, podrás divertirte construyendo unos minutos o unas horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZDQMRFH/?tag=tolees-21)
