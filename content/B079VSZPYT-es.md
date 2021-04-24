@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fur Real Friends - Furreal Friends Rex C al 28.53 % de rebaja'
-date: 2021-04-16 14:46:53
+date: 2021-04-24 14:46:08
 image: 'https://m.media-amazon.com/images/I/41V+THS3HtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fur Real Friends'
 buyurl: 'https://www.amazon.es/dp/B079VSZPYT/?tag=tolees-21'
 descuento: '28.53'
-average: '39.6316666666666'
+average: '39.8159459459459'
 ---
 
 Tienes [Fur Real Friends - Furreal Friends Rex Comilón  Hasbro E0387EU4 ](https://www.amazon.es/dp/B079VSZPYT/?tag=tolees-21) con precio final de  46.45 EUR (original: 64.99 EUR) (28.53 %  de rebaja) aqui!
