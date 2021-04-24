@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Educa - Star Wars-Darth Vader 3D Sculptu al 20.48 % de descuento'
-date: 2021-04-03 19:54:01
-image: 'https://m.media-amazon.com/images/I/61+F5JPRKGL._SL400_.jpg'
+title: 'Educa - Star Wars-Darth Vader 3D Sculptu al 20.72 % de descuento'
+date: 2021-04-24 12:59:43
+image: 'https://m.media-amazon.com/images/I/61+F5JPRKGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0711XH1VR-es Educa - Star Wars-Darth Vader 3D Sculpture Puzzle...'
 sku: 'B0711XH1VR-es'
 tags: [ 'Accesorios para aficionados al cine y la TV','Artículos divertidos y de uso especial','Ropa','Ropa para aficionados al cine y la TV','educa','puzzle', ]
-actualPrice: 19.84 EUR
+actualPrice: 19.78 EUR
 currency: EUR
-price: 19.84
+price: 19.78
 comparePrice: 24.95 EUR
 prodname: 'Educa - Star Wars-Darth Vader 3D Sculpture Puzzle  Multicolor  17334 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21'
-descuento: '20.48'
-average: '19.0466666666667'
+descuento: '20.72'
+average: '19.12'
 ---
 
-Está [Educa - Star Wars-Darth Vader 3D Sculpture Puzzle  Multicolor  17334 ](https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21) con 20.48 de descuento por 19.84 EUR (original: 24.95 EUR) en el siguiente enlace!
+Está [Educa - Star Wars-Darth Vader 3D Sculpture Puzzle  Multicolor  17334 ](https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21) con 20.72 de descuento por 19.78 EUR (original: 24.95 EUR) en el siguiente enlace!
 
-[![Educa - Star Wars-Darth Vader 3D Sculptu](https://m.media-amazon.com/images/I/61+F5JPRKGL._SL400_.jpg)](https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21)
+[![Educa - Star Wars-Darth Vader 3D Sculptu](https://m.media-amazon.com/images/I/61+F5JPRKGL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21)
 
 ℹ️:
 

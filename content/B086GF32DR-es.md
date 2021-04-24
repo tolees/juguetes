@@ -28,10 +28,10 @@ Ahora mismo tienes [GFEU - 30 Pcs Juego de filtros antipolvo para máscara PM 2 
 
 🔎:
 
-- Protección de 5 capas: la primera capa de tela Spunbond filtra el polvo a nivel de micrones. La segunda capa filtra contaminantes industriales, escape de automóviles, fumar pasivo y alérgenos de polen.
 - 【Potente efecto de filtro】Compatible con la mayoría de máscaras de polvo disponibles en el mercado. Aproximadamente un 98% de polen apagado. Los filtros de máscara evitan partículas en el aire, polvo, alergias estacionales, niebla, contaminación, cenizas, polen de jardín, etc.
-- 【Amplias aplicaciones】Se utiliza en combinación con una máscara para proteger contra el polvo, las emisiones de vehículos, PM2.5 y smog. Ideal para ciclismo, correr, ciclismo, senderismo, esquí y otras actividades al aire libre.
 - El paquete incluye: 10/30 unidades opcionales. Sugiere reemplazar los fliters todos los días de uso para obtener el mejor efecto.
+- Protección de 5 capas: la primera capa de tela Spunbond filtra el polvo a nivel de micrones. La segunda capa filtra contaminantes industriales, escape de automóviles, fumar pasivo y alérgenos de polen.
 - Tamaño: 8 x 12 cm (largo x ancho). Compatible con la mayoría de polvo M-a-s-k-s disponible en el mercado.
+- 【Amplias aplicaciones】Se utiliza en combinación con una máscara para proteger contra el polvo, las emisiones de vehículos, PM2.5 y smog. Ideal para ciclismo, correr, ciclismo, senderismo, esquí y otras actividades al aire libre.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086GF32DR/?tag=tolees-21)
