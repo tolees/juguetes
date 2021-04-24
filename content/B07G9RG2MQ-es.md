@@ -28,9 +28,9 @@ Ahora mismo tienes [Schleich- Figura Caballo Semental Knabstrupper  11 90 cm.](h
 
 🔎:
 
-- Gama horse club de schleich
-- Figura caballo semental knabstrupper modelada con gran detalle
-- Pintada minunciosamente a mano
 - Dimensiones: 14,20 x 5,20 x 11,90 cm (ancho x largo x alto)
+- Pintada minunciosamente a mano
+- Figura caballo semental knabstrupper modelada con gran detalle
+- Gama horse club de schleich
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G9RG2MQ/?tag=tolees-21)

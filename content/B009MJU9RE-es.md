@@ -28,14 +28,14 @@ Tienes [Schleich Schleich-14685 Oso Grizzly  Color marrón  14685 ](https://www.
 
 🔎:
 
-- Algunas veces se juntan para cazar truchas en los ríos
+- Los grizzlies son animales grandes y fuertes que pueden llegar a medir (erguidos) 2.40 metros y pesar 450 kilos
 - Gama de productos World of Nature. Colección Vida Salvaje
-- Viven en solitario y a menudo tienen un comportamiento agresivo
-- Educativos y versátiles
+- Algunas veces se juntan para cazar truchas en los ríos
 - Modelados al detalle
 - Pueden alcanzar velocidades de hasta 55 kilómetros por hora
+- Educativos y versátiles
 - Figura pintada a mano
+- Viven en solitario y a menudo tienen un comportamiento agresivo
 - Tienen una especie de joroba en la espalda y unas patas traseras muy fuertes
-- Los grizzlies son animales grandes y fuertes que pueden llegar a medir (erguidos) 2.40 metros y pesar 450 kilos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009MJU9RE/?tag=tolees-21)

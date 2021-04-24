@@ -28,10 +28,10 @@ Tienes [Schleich- Tigre Blanco  13.7 x 6.1 x 3.6  14731 ](https://www.amazon.es/
 
 ℹ️:
 
-- Poseen un pelaje blanco como la nieve y unos ojos azules brillantes muy vivaces
+- Se diferencian de los tigres normales por el hecho de que su pelaje, su piel y sus ojos no presentan pigmentos rojos ni amarillos
 - No obstante, no son albinos porque estos siempre tienen los ojos rojos
+- Poseen un pelaje blanco como la nieve y unos ojos azules brillantes muy vivaces
 - Los tigres blancos son animales de una belleza impresionante
 - Los tigres blancos suelen vivir en los zoológicos, ya que en libertad apenas tendrían posibilidades de sobrevivir
-- Se diferencian de los tigres normales por el hecho de que su pelaje, su piel y sus ojos no presentan pigmentos rojos ni amarillos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PESXEME/?tag=tolees-21)
