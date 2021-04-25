@@ -28,9 +28,9 @@ Está [PLAYMOBIL - 1.2.3 Avión  6780 ](https://www.amazon.es/dp/B0077QT1KU/?tag
 
 ℹ️:
 
-- Con figuras y accesorios
-- Incluye 2 figuras (piloto y pasajero) avión y dos maletas.
 - Se basa en figuras y complementos con formas redondeadas, colores llamativos y piezas grandes.
 - Fomenta creatividad e imaginación
+- Con figuras y accesorios
+- Incluye 2 figuras (piloto y pasajero) avión y dos maletas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0077QT1KU/?tag=tolees-21)
