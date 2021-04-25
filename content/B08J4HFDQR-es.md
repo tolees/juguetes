@@ -28,10 +28,10 @@ Tienes [WWE Mattel Figura de acción GVJ14  Multicolor](https://www.amazon.es/dp
 
 🔎:
 
-- ​El juego también incluye dos soportes de figura de Championship Side Plate para exhibir o utilizar las 2 figuras de acción con el Campeonato de lujo Showdown WWE Championship (se vende por separado, sujeto a disponibilidad)
 - ​Cada figura cuenta con 10 puntos de articulación para reproducir movimientos y posturas de firma
-- ​Recrea rivalidades del campeón de la WWE contra Challenger con 2 figuras de acción de aproximadamente 6 pulgadas / 15.24 cm de alto en un paquete coleccionable
-- Auténtico engranaje de anillo y caras realistas detalladas con la tecnología TrueFX traen vida a las superestrellas
 - ​Puedes coleccionar otras figuras de superestrella de la WWE para crear combinaciones aún más épicas (cada una se vende por separado, sujeto a disponibilidad)
+- Auténtico engranaje de anillo y caras realistas detalladas con la tecnología TrueFX traen vida a las superestrellas
+- ​El juego también incluye dos soportes de figura de Championship Side Plate para exhibir o utilizar las 2 figuras de acción con el Campeonato de lujo Showdown WWE Championship (se vende por separado, sujeto a disponibilidad)
+- ​Recrea rivalidades del campeón de la WWE contra Challenger con 2 figuras de acción de aproximadamente 6 pulgadas / 15.24 cm de alto en un paquete coleccionable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08J4HFDQR/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Aurora 12771 - Oso de Peluche Bonnie  23 cm ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
+- 36 meses al alza
 - Grande para cobrar
 - Body Soft
-- 36 meses al alza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004UPU06K/?tag=tolees-21)
