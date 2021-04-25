@@ -28,9 +28,9 @@ Ahora mismo tienes [Educa - Peppa Pig Conjunto de Puzzles Progresivos  Multicolo
 
 🔎:
 
-- Tamaño de los puzzles: 16 x 16 cm
 - Set de 4 puzzles progresivos de Peppa Pig de 12, 20 y 25 piezas
 - Los 4 puzzles están compuestos por diferentes tamaños de piezas para que niños y niñas vayan ganando habilidad en el montaje de puzzles
 - Recomendado para niños y niñas a partir de 3 años
+- Tamaño de los puzzles: 16 x 16 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BJ2VGUA/?tag=tolees-21)
