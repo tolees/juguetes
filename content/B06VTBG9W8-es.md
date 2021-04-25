@@ -29,9 +29,9 @@ En este momento está [Schleich 42369 Horse Club play set - caja de caballos con
 🔎:
 
 - Además de la caja del caballo, el juego incluye dos figuras de animales (yegua árabe y potro), una figura humana y muchos accesorios temáticos para una diversión duradera, los niños pueden cuidar de los caballos, alimentarlos y cuidarlos, dar paseos a caballo y llevar los caballos a las fosas para pasar la noche
-- Con los juguetes de Schleich, se anima a los niños a crear historias creativas, por lo que este juego es compatible con todas las demás figuras y juegos de la familia Schleich, para una diversión óptima
 - El set es adecuado para niños a partir de 5 años, es el regalo óptimo de Navidad o de cumpleaños para niñas, niños y aficionados a los caballos, todos los artículos del HORSE CLUB tienen la misma gama de colores como la gran granja de caballos, el establo de equitación, el café de equitación, etc
 - Este completo juego es parte del gran mundo del caballo, HORSE CLUB de Schleich; el HORSE CLUB cuenta la historia de cuatro amigos, sus caballos, familias y amigos, se trata de aventura, amistad y una profunda conexión con los caballos
 - Las figuras de Schleich están modeladas con gran detalle, pintadas con amor y representan un juego educativo e imaginativo, de calidad y con un gran diseño, las figuras de Schleich en tus manos te darán momentos óptimos
+- Con los juguetes de Schleich, se anima a los niños a crear historias creativas, por lo que este juego es compatible con todas las demás figuras y juegos de la familia Schleich, para una diversión óptima
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06VTBG9W8/?tag=tolees-21)

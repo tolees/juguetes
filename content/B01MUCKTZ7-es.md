@@ -29,8 +29,8 @@ Ahora mismo tienes [Educa - Símbolos del Mundo Puzzle  2000 Piezas  Multicolor 
 🔎:
 
 - Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
-- Serie Genuine
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Serie Genuine
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Edad recomendada: a partir de 12 años
 
