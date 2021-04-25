@@ -28,8 +28,8 @@ En este momento está [Schleich- Elefante Africano Macho  Color  14762 ](https:/
 
 🔎:
 
-- Estimulan la imaginación
 - Figuras pintadas a mano
+- Estimulan la imaginación
 - Gran realismo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B016NY03DA/?tag=tolees-21)
