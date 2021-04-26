@@ -30,8 +30,8 @@ Está [VTech - Moto de carreras 3en1 roja  Correpasillos andador evolutivo con t
 
 - 5 botones con diferentes interacciones y efectos de sonido. Detalles realistas: panel con música, frases, efectos sonoros y llave de contacto.
 - Enseña colores, música y hábitos cotidianos. Su manillar puede bloquearse para facilitar el movimiento a los padres.
-- Panel interactivo en el manillar con botones, luz, figuras, y elementos que activan canciones frases y melodías. Fácil de montar. Diseño resistente.
 - Compartimento de almacenaje adicional en la parte trasera.
+- Panel interactivo en el manillar con botones, luz, figuras, y elementos que activan canciones frases y melodías. Fácil de montar. Diseño resistente.
 - Montador evolutivo.3 configuraciones diferentes para adaptarse a la edad del niño. MODO 1: el bebé experimenta el equilibrio, puede empujar la moto como si fuese un andador.MODO 2: el niño empieza la aventura sobre las 3 ruedas como en un triciclo. MODO 3: el niño va adquiriendo más autonomía y ejercita la motricidad con el modo moto.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087DPZZR1/?tag=tolees-21)
