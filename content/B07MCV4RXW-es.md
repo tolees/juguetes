@@ -28,10 +28,10 @@ Tienes [VTech Móvil de viaje Pío Pío melodías  proyector de bebe para cuna o
 
 🔎:
 
-- Cuenta con botones mecánicos para regular el volumen, configurar el tiempo de uso, activar el giro o encender la luz de noche
-- Descubre nanas, música y sonidos de la naturaleza, puede instalarse en portabebés, fijarse a la cuna o acoplarse a la sillita de paseo
 - Con el móvil de viaje pío pío melodías de vtech, los bebés se relajarán gracias a sus tiernas melodías y sonidos; cuenta con todo lo necesario para instalarse en diferentes tipos de sillas y cochecitos, además de la cuna; sus personajes giran suavemente y sus nanas calman a los peques para que concilien el sueño estén donde estén
+- Cuenta con botones mecánicos para regular el volumen, configurar el tiempo de uso, activar el giro o encender la luz de noche
 - Dos funciones: móvil giratorio o luz de noche, temporizador: 10-20-30 minutos, más de 50 melodías, frases, canciones y sonidos
 - Sensor de sonido que reacciona al llanto y pone automáticamente en marcha el producto para calmar al bebé
+- Descubre nanas, música y sonidos de la naturaleza, puede instalarse en portabebés, fijarse a la cuna o acoplarse a la sillita de paseo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MCV4RXW/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Winning Moves Monopoly Fc Barcelona  10537   multicolor  ELE
 
 🔎:
 
-- Monopoly es el juego familiar favorito en el mundo que nos trae esta genial adaptación del FC Barcelona.
-- El divertido juego para que toda la familia se divierta negociando con propiedades inmobiliarias
-- Avanza hasta la Masia, la Fundació o el Sextet 2009 – ¿conseguirás que te paguen el alquiler?
-- Elige tu peón favorito como por ejemplo el balón, el silbato o el trofeo y muévete alrededor del tablero comprando tantas propiedades como puedas. ¡Pero estate atento para no pagar impuestos o ir a la cárcel, ya que podrías acabar arruinado!
 - Invierte en casas y hoteles (Gradas y Estadios en esta edición) y consigue ganar la partida.
+- Elige tu peón favorito como por ejemplo el balón, el silbato o el trofeo y muévete alrededor del tablero comprando tantas propiedades como puedas. ¡Pero estate atento para no pagar impuestos o ir a la cárcel, ya que podrías acabar arruinado!
+- Monopoly es el juego familiar favorito en el mundo que nos trae esta genial adaptación del FC Barcelona.
+- Avanza hasta la Masia, la Fundació o el Sextet 2009 – ¿conseguirás que te paguen el alquiler?
+- El divertido juego para que toda la familia se divierta negociando con propiedades inmobiliarias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NLCLXHK/?tag=tolees-21)

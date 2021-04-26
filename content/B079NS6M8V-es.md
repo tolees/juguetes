@@ -28,9 +28,9 @@ En este momento está [PLAYMOBIL 9318 - Family Fun Camping Aventura  a Partir de
 
 🔎:
 
-- Incluye caravana, kayak, quad y tres figuras
-- Contiene varios accesorios
 - Desarrolla la imaginación y la creatividad
+- Incluye caravana, kayak, quad y tres figuras
 - Recomendado a partir de 4 años
+- Contiene varios accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079NS6M8V/?tag=tolees-21)
