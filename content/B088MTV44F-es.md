@@ -28,10 +28,10 @@ Tienes [Mymy City- Yummy Shopping  Set de Tiendas de Juguete con Accesorios  Fam
 
 🔎:
 
-- Mymy Yummy Shopping es un set compuesto por dos tiendecitas con las que tu peque podrá hacer crecer su ciudad y tener sus propios negocios: una heladería y una tienda de plantas
 - Mymy City es la ciudad donde tu peque lo decide todo; podrá escoger su familia, decorar su casa y vivir mil aventuras haciendo crecer su ciudad
 - Este set incluye 2 tiendecitas: la heladería y la tienda de plantas; además trae más de 35 accesorios realistas
 - Recomendado para niños a partir de 4 años; ayuda a desarrollar su creatividad, sociabilidad, imaginación y habilidades manuales
+- Mymy Yummy Shopping es un set compuesto por dos tiendecitas con las que tu peque podrá hacer crecer su ciudad y tener sus propios negocios: una heladería y una tienda de plantas
 - Además el playset incluye accesorios urbanos como buzón, banco, carteles de calles o plantas; podrán personalizar su tienda como quieran, y pueden conectarlas juntas, separadas o incluso hacer una esquina para crear la avenida a su gusto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088MTV44F/?tag=tolees-21)
