@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Ávalon Juego de Mesa  Color  BGRE al 23.35 % de descuento'
-date: 2021-04-21 19:53:09
+date: 2021-04-25 22:28:52
 image: 'https://m.media-amazon.com/images/I/61XfgZAaDkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21'
 descuento: '23.35'
-average: '17.08'
+average: '16.905'
 ---
 
 Ahora mismo tienes [Devir- Ávalon Juego de Mesa  Color  BGRESIAV ](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21) a 15.33 EUR (original: 20.0 EUR) (23.35 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir- Ávalon Juego de Mesa  Color  BGRESIAV ](https://www.
 
 🔎:
 
-- Tipo de producto: juego de mesa
-- Duración aproximada de la partida: 30 min
 - Juego adecuado para pasar el tiempo libre
 - Número de jugadores: 5 - 6
+- Duración aproximada de la partida: 30 min
+- Tipo de producto: juego de mesa
 - Ávalon es un juego independiente, no es necesario disponer de la Resistencia, aunque son compatibles y se pueden combinar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B019NCX7UA/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Medievil PS4 al 33.48 % de descuento'
-date: 2021-04-19 18:03:05
+date: 2021-04-25 22:34:25
 image: 'https://m.media-amazon.com/images/I/51LomRgwCJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [Sony - Medievil PS4](https://www.amazon.es/dp/B07ZFHYCZ6/?tag=tolees-21) 
 
 ℹ️:
 
-- Aprovecha al máximo el sistema de cámara mejorado y las distintas armas a tu disposición
 - Esta un remasterización para PS4 repleta de detalles visuales mejorados y personalidad
+- Aprovecha al máximo el sistema de cámara mejorado y las distintas armas a tu disposición
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZFHYCZ6/?tag=tolees-21)
