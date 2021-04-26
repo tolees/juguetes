@@ -28,10 +28,10 @@ En este momento está [Educa - Los Colores Peppa Pig Juego Educativo para Bebés
 
 🔎:
 
-- La colección Educa Touch Junior desarrolla la curiosidad e imaginación
-- Recomendado a partir de 3 años
-- Un juego ideal para introducirse en el concepto de los colores
-- Contenidos adaptados a las áreas básicas de aprendizaje y para cada edad en concreto
 - Los más pequeños se familiarizarán con los colores y las formas mediante la clasificación de objetos y animales según su color
+- Recomendado a partir de 3 años
+- La colección Educa Touch Junior desarrolla la curiosidad e imaginación
+- Contenidos adaptados a las áreas básicas de aprendizaje y para cada edad en concreto
+- Un juego ideal para introducirse en el concepto de los colores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SFGX58A/?tag=tolees-21)

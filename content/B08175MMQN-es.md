@@ -30,7 +30,7 @@ Tienes [PLAYMOBIL- Figuras Serie 18  niña  70370   Multicolor](https://www.amaz
 
 - Incluye figuras y varios accesorios
 - Recomendado a partir de 4 años
-- Marca del producto: Playmobil
 - Desarrolla la imaginación y la creatividad
+- Marca del producto: Playmobil
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08175MMQN/?tag=tolees-21)
