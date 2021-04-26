@@ -28,8 +28,8 @@ Está [Devir - Exit: Muerte en el Orient Express  Ed. Español  BGEXIT8 ](https:
 
 ℹ️:
 
+- Exit muerte
 - Producto de calidad
 - Devir iberia, 227130
-- Exit muerte
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HZX216H/?tag=tolees-21)
