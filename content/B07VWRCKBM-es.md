@@ -28,10 +28,10 @@ Ahora mismo tienes [DC Comics Figura de acción Batman con luces y sonidos y arm
 
 🔎:
 
-- Figura de acción de batman grande con luces, sonidos y traje con armadura
-- Los ojos y el emblema del murciélago se iluminan de color azul
 - Presiona el cinturón de la figura para activar las luces y los sonidos
-- A partir de 4 años
+- Los ojos y el emblema del murciélago se iluminan de color azul
 - Los sonidos de batalla auténticos dan más realismo al juego y el equipo con alas es personalizable y puede extraerse
+- A partir de 4 años
+- Figura de acción de batman grande con luces, sonidos y traje con armadura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VWRCKBM/?tag=tolees-21)
