@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jurassic World / Park Mattel – FPF11 Att con un 20.49 % de descuento'
-date: 2021-04-25 10:33:44
+date: 2021-04-27 10:00:44
 image: 'https://m.media-amazon.com/images/I/41gaMP10lZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
