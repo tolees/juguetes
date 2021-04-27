@@ -28,10 +28,10 @@ Ahora mismo tienes [FEBER - Challenger 12 V Coche  Famosa 800008262 ](https://ww
 
 🔎:
 
+- Marcha hacia adelante y hacia atrás
 - Acelerador de pie y freno eléctrico
-- Coche de dos plazas deportivo y robusto; alcanza los 5,3 km/h
 - Batería y cargador incluidos
 - Para niños y niñas a partir de 3 años
-- Marcha hacia adelante y hacia atrás
+- Coche de dos plazas deportivo y robusto; alcanza los 5,3 km/h
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00H1JTCK2/?tag=tolees-21)
