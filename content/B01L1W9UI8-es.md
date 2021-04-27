@@ -28,10 +28,10 @@ En este momento está [BH Fitness MKT Jetbike Pro Bicicleta Ciclismo Indoor  Uni
 
 🔎:
 
-- Mando de regulación de resistencia con freno de emergencia; controla el esfuerzo que quieres realizar durante el ejercicio
-- Manillar tipo triatlón con ajuste vertical y horizontal; te permite entrenar en la mejor postura para un correcto pedaleo
 - Regula la altura del sillín según tus necesidades; puedes adelantar o atrasar el asiento hasta encontrar la postura más cómoda y ergonómica sobre la bicicleta
+- Mando de regulación de resistencia con freno de emergencia; controla el esfuerzo que quieres realizar durante el ejercicio
 - Monitor lcd muy fácil de utilizar; muestra rpm, velocidad, tiempo, calorías y distancia
 - Volante de inercia: 22 kg que proporciona un pedaleo suave y fluido incluso en máximo nivel de resistencia
+- Manillar tipo triatlón con ajuste vertical y horizontal; te permite entrenar en la mejor postura para un correcto pedaleo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01L1W9UI8/?tag=tolees-21)
