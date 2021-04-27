@@ -28,10 +28,10 @@ Está [Polly Pocket - Maletín con muñecas  fiesta divertida -  Mattel FRY41 ](
 
 ℹ️:
 
-- En el interior de la mochila vacaciones en la playa, las niñas encontrarán un paisaje playero con arena, sol y rincones donde pasar el rato
-- El maletín fiesta divertida y la mochila vacaciones en la playa de polly pocket incluye la limusina y dos muñecas de polly pocket
-- Óptimos para disfrutar de las aventuras de polly pocket cuando y donde quiera tu peque ​
-- El maletín fiesta divertida tiene un espacio para bailar y otro para organizar fiestas, además de esconder varias sorpresas
 - A partir de 4 años
+- El maletín fiesta divertida y la mochila vacaciones en la playa de polly pocket incluye la limusina y dos muñecas de polly pocket
+- El maletín fiesta divertida tiene un espacio para bailar y otro para organizar fiestas, además de esconder varias sorpresas
+- En el interior de la mochila vacaciones en la playa, las niñas encontrarán un paisaje playero con arena, sol y rincones donde pasar el rato
+- Óptimos para disfrutar de las aventuras de polly pocket cuando y donde quiera tu peque ​
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079KCCK51/?tag=tolees-21)
