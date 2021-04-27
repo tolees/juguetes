@@ -28,12 +28,12 @@ Está [LEGO Star Wars - Action Battle: Ataque al Generador de Hoth  Juguete de C
 
 ℹ️:
 
+- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco.
+- Este juguete de construcción incluye también 2 cañones y 4 misiles.
+- El generador de energía de juguete para construir mide más de 5 cm de altura, 13 cm de ancho y 10 cm de profundidad.
+- Alcanza el blanco de color rojo para hacer que el soldado de las nieves y su cañón con el trípode caigan de la base. Alcanza el blanco de color azul para que el generador de energía “explote” y el soldado rebelde salga volando.
 - Interpreta a tu manera las emocionantes escenas de combate de Star Wars: El Imperio Contraataca con este divertido artículo LEGO Star Wars basado en la película.
 - Tu peque puede disfrutar de diversión sin fin desafiando a sus amigos y familiares para ver quién alcanza el blanco del oponente y consigue que su personaje salga volando.
-- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco.
-- Alcanza el blanco de color rojo para hacer que el soldado de las nieves y su cañón con el trípode caigan de la base. Alcanza el blanco de color azul para que el generador de energía “explote” y el soldado rebelde salga volando.
-- El generador de energía de juguete para construir mide más de 5 cm de altura, 13 cm de ancho y 10 cm de profundidad.
-- Este juguete de construcción incluye también 2 cañones y 4 misiles.
 - Incluye 2 minifiguras LEGO Star Wars: un soldado de las nieves y un soldado rebelde.
 - El cañón con el trípode mide más de 5 cm de altura, 5 cm de ancho y 7 cm de profundidad.
 
