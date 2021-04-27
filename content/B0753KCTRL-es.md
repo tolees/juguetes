@@ -28,9 +28,9 @@ En este momento está [Shimmer & Shine - Shimmer y Shine Zeta y su moto  muñeca
 
 🔎:
 
-- Las piedras preciosas que se incluyen pueden guardarse bajo el asiento de la moto
-- La moto de Zeta tiene un sidecar que se puede poner y quitar para llevar a Nazboo ​
 - Nazboo viene con su propio casco para dragones
+- Las piedras preciosas que se incluyen pueden guardarse bajo el asiento de la moto
 - Zeta luce un look hechizante con su cola de caballo en dos tonos morados y su casco rosa
+- La moto de Zeta tiene un sidecar que se puede poner y quitar para llevar a Nazboo ​
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0753KCTRL/?tag=tolees-21)
