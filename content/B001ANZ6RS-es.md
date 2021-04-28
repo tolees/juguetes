@@ -28,8 +28,8 @@ Está [Jovi 217002-Blister 5 Moldeadores Plastilina  217002 ](https://www.amazon
 
 ℹ️:
 
-- Accesorios para usar con plastilina, pasta para modelar y terracota JOVI
-- Diferentes formas
 - Skin de 5 moldeadores
+- Diferentes formas
+- Accesorios para usar con plastilina, pasta para modelar y terracota JOVI
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001ANZ6RS/?tag=tolees-21)
