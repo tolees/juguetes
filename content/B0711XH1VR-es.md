@@ -28,9 +28,9 @@ Está [Educa - Star Wars-Darth Vader 3D Sculpture Puzzle  Multicolor  17334 ](ht
 
 ℹ️:
 
-- Monta la escultura capa a capa siguiendo el orden numérico o atrévete a montarla sin mirar los números para un mayor reto; una vez montada, dale color con las pinturas
 - Puzzle 3D de 160 capas/piezas; a partir de 6 años
 - Incluye pincel, pinturas, una pedana de plástico con el nombre del personaje y guías para la sujeción de las piezas
+- Monta la escultura capa a capa siguiendo el orden numérico o atrévete a montarla sin mirar los números para un mayor reto; una vez montada, dale color con las pinturas
 - Crea una escultura en 3D de Darth Vader de Star Wars
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21)
