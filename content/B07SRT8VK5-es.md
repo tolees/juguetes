@@ -28,12 +28,12 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Cyberpunk 2077 - Edición Day One  
 
 ℹ️:
 
+- Escuche con el código del juego y CD con la música original.
+- Postales de Night City.
+- Los artículos digitales incluyen: música original, folleto de arte que incluye una selección de diseños del juego, cómic digital "Cyberpunk 2077: Tu voz", manual de Cyberpunk 2020, fondos de pantalla para escritorio y teléfono móvil.
+- Portada reversible.
+- Mapa de Night City.
 - Antología del mundo que detalla el escenario y la historia del juego.
 - Pegatinas.
-- Los artículos digitales incluyen: música original, folleto de arte que incluye una selección de diseños del juego, cómic digital "Cyberpunk 2077: Tu voz", manual de Cyberpunk 2020, fondos de pantalla para escritorio y teléfono móvil.
-- Mapa de Night City.
-- Escuche con el código del juego y CD con la música original.
-- Portada reversible.
-- Postales de Night City.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SRT8VK5/?tag=tolees-21)
