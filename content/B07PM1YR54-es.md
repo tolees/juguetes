@@ -28,10 +28,10 @@ Tienes [Dragon Ball Z - Figura de colección Android Número 18 versión A  Band
 
 🔎:
 
-- Una figura de acción coleccionable para adultos y niños, disponibilidad limitada, optimo para regalo
-- Basado en el épico anima japones es una figura hecha en PVC diseñada y moldeada mano
 - Colecciona todas las figuras de Banpresto: trae la emoción y la aventura del universo anime a casa; añade héroes y personajes de cualquier saga animada para tu colección de figuras de acción (cada uno se vende por separado)
 - Producto importado legalmente y con licencia Oficial Banpresto, el producto llega en su caja original, soporte base incluido; producto llega en su caja original sellada
 - Siéntete parte del mundo de la colección y los animes con esta figura que viene empaquetada en un embalaje ecológico
+- Basado en el épico anima japones es una figura hecha en PVC diseñada y moldeada mano
+- Una figura de acción coleccionable para adultos y niños, disponibilidad limitada, optimo para regalo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PM1YR54/?tag=tolees-21)

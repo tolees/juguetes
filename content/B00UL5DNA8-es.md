@@ -28,10 +28,10 @@ En este momento está [4Gamers - Play&Charge Cargador Doble Para Mando Con Sopor
 
 🔎:
 
-- Conexión USB totalmente compatible con los mandos de PS4
 - Carga tus mandos mientras sigues jugando
-- Despreocupate tener siempre de la carga de la batería
 - Disponible en 4 colores
 - Incluye una base para que tengas los mandos colocados en su sitio
+- Conexión USB totalmente compatible con los mandos de PS4
+- Despreocupate tener siempre de la carga de la batería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UL5DNA8/?tag=tolees-21)
