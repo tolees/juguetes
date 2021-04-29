@@ -28,10 +28,10 @@ Ahora mismo tienes [Mattel Games - Magic 8 Ball Juego de Bola Mágica  Juego de 
 
 🔎:
 
-- Es la forma más rápida de recibir consejo
-- Incluye una Magic 8 Ball
 - Hazle a la bola una pregunta de «sí» o «no», dale la vuelta y espera a que aparezca la respuesta en la ventana
-- La bola Magic 8 Ball original contiene las respuestas a todas tus preguntas
 - Las respuestas pueden ser positivas («seguro»), negativas («ni lo sueñes») o neutrales («pregunta más tarde»)
+- Incluye una Magic 8 Ball
+- La bola Magic 8 Ball original contiene las respuestas a todas tus preguntas
+- Es la forma más rápida de recibir consejo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082YPNJNM/?tag=tolees-21)
