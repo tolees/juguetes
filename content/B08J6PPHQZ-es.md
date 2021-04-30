@@ -28,10 +28,10 @@ Está [Masters of the Universe  Masters del Universo Orígenes  Figura Roboto  m
 
 ℹ️:
 
-- Un regalo ideal para los coleccionistas y los niños a partir de 6 años.
 - MOTU ha vuelto para la nueva generación de fans y también el valeroso y fuerte Roboto. ​​
-- Esta figura de acción de Roboto Origins presenta un diseño exclusivo con los detalles auténticos de los personajes que capturan la esencia de este valeroso defensor de Eternia.
-- La figura cuenta con 16 puntos de articulación. Sus articulaciones se mueven y su mandíbula se abre.
 - Los fans de siempre apreciarán el estilo retro del embalaje y las historias MOTU incluidas en el minicómic.
+- Un regalo ideal para los coleccionistas y los niños a partir de 6 años.
+- La figura cuenta con 16 puntos de articulación. Sus articulaciones se mueven y su mandíbula se abre.
+- Esta figura de acción de Roboto Origins presenta un diseño exclusivo con los detalles auténticos de los personajes que capturan la esencia de este valeroso defensor de Eternia.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J6PPHQZ/?tag=tolees-21)
