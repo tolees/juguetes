@@ -28,8 +28,8 @@ Tienes [John Pelota kanguro Peppa Pig  59575 ](https://www.amazon.es/dp/B07NPJ9J
 
 🔎:
 
-- Diámetro 45-50 cm
-- Pelota kanguro con licencia peppa pig
 - Desarrolla la motricidad gruesa
+- Pelota kanguro con licencia peppa pig
+- Diámetro 45-50 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NPJ9JDW/?tag=tolees-21)
