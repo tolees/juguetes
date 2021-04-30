@@ -28,10 +28,10 @@ En este momento está [ESR Riñonera Deportiva Ajustable con Cierre Cremallera  
 
 🔎:
 
-- NOTA: Si la abertura de los auriculares está cerrada por la cremallera, separe suavemente los dos lados de la cremallera para abrir el orificio.
 - [Diseño práctico con puerto para auriculares integrado] El espacioso bolsillo cuenta con un largo cierre de cremallera para almacenar y transportar cómodamente tus llaves, auriculares, dinero, DNI, tarjetas y tu smartphone de hasta 5,4” (como iPhone XS / XS Max / XR). NOTA: Los teléfonos de gran tamaño tienen que colocarse horizontalmente para un mejor ajuste. No se recomienda el uso de fundas gruesas con esta riñonera.
-- [Totalmente ajustable] La cinta ajustable con cierre de velcro permite ponerse y quitarse la riñonera con facilidad, además de asegurar que se ajusta perfectamente a tu cintura en todo momento. Gracias a su cierre de velcro flexible, se ajusta perfectamente a tallas de cintura desde 61 cm hasta 104 cm. Hay tres tallas diferentes para elegir: Pequeña (S) para cinturas de 61-72cm, Mediana (M) para cinturas de 66 -83cm y Grande (L) para cinturas de 83-104cm
+- NOTA: Si la abertura de los auriculares está cerrada por la cremallera, separe suavemente los dos lados de la cremallera para abrir el orificio.
 - [Control total] La riñonera ESR mantiene tus artículos firmemente protegidos mientras mantienes tus manos libres.
+- [Totalmente ajustable] La cinta ajustable con cierre de velcro permite ponerse y quitarse la riñonera con facilidad, además de asegurar que se ajusta perfectamente a tu cintura en todo momento. Gracias a su cierre de velcro flexible, se ajusta perfectamente a tallas de cintura desde 61 cm hasta 104 cm. Hay tres tallas diferentes para elegir: Pequeña (S) para cinturas de 61-72cm, Mediana (M) para cinturas de 66 -83cm y Grande (L) para cinturas de 83-104cm
 - [Material premium] Hecha con lycra de alta calidad que permite una elasticidad hasta 5 veces mayor que otras fibras mientras se mantiene suave y agradable para la piel. Es transpirable, por lo que podrás usarla incluso durante los ejercicios de mayor intensidad. El material es muy resistente y permite el lavado a máquina.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073GYDHTB/?tag=tolees-21)
