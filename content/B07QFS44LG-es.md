@@ -28,8 +28,8 @@ Tienes [Avengers - Capitán América Figura Electrónica  Hasbro E3358105 ](http
 
 🔎:
 
-- Recomendación de edad: a partir de 4 años
 - Su escudo puede ser lanzado
+- Recomendación de edad: a partir de 4 años
 - Necesita una batería
 - Captain America figura de acción coleccionable
 
