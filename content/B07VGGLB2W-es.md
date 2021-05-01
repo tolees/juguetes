@@ -28,10 +28,10 @@ Ahora mismo tienes [PDP - Funda Pull & Go Case Edición Elite  Nintendo Switch ]
 
 🔎:
 
-- Dos estuches en uno con el estuche fino de transporte desmontable.
-- Con licencia oficial de Nintendo.
 - Guarda la consola, la base, los mandos Pro, el adaptador de corriente, los cables HDMI, los Joy-Cons adicionales, las tarjetas de juego y otros accesorios pequeños.
+- Con licencia oficial de Nintendo.
 - Los divisores de accesorios intercambiables te permiten personalizar el espacio de almacenamiento.
 - Carcasa semirrígida con correa para el hombro acolchada ajustable y asa de transporte desmontable.
+- Dos estuches en uno con el estuche fino de transporte desmontable.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VGGLB2W/?tag=tolees-21)
