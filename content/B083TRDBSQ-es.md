@@ -28,8 +28,8 @@ En este momento está [TROLLS- Escenario Gira Mundial  Hasbro F01515L0 ](https:/
 
 🔎:
 
-- Los niños pueden imaginar que la figura Poppy actúa en el escenario de Hard Rock, pincha discos en el área tecno o visita a sus amigos fans de la música Country en Lonesome Flats
 - Los niños pueden imaginar que dan un espectáculo con este divertido set de DreamWorks Trolls, que incluye 4 mundos musicales de la película Trolls 2: Gira Mundial de DreamWorks
+- Los niños pueden imaginar que la figura Poppy actúa en el escenario de Hard Rock, pincha discos en el área tecno o visita a sus amigos fans de la música Country en Lonesome Flats
 - Incluye pilas: el Escenario Gira Mundial viene con pilas para que los niños puedan comenzar a jugar de inmediato
 - Los niños pueden colocar a Poppy en la parte superior del escenario, presionar un botón y hacer que este se abra para revelar a la estrella del show, y luego llevar el ascensor a otros mundos musicales
 - El set reproduce "Los Trolls querrán disfrutar", "Rock You Like a Hurricane" y "One More Time" de la película Trolls 2: Gira Mundial de DreamWorks
