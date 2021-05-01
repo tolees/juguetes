@@ -28,8 +28,8 @@ Tienes [Adaptador de Corriente USB de Nintendo](https://www.amazon.es/dp/B073DKR
 
 🔎:
 
-- No incluye cable USB
-- Compatible con: Nintendo Switch, Nintendo Classic Mini NES y Nintendo Classic Mini Super NES
 - Puede usarse para cargar el mando Pro de Nintendo Switch (usando un cable USB compatible) y el soporte de carga para mandos Joy-Con (ambos de venta por separado)
+- Compatible con: Nintendo Switch, Nintendo Classic Mini NES y Nintendo Classic Mini Super NES
+- No incluye cable USB
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073DKR74T/?tag=tolees-21)
