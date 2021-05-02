@@ -28,10 +28,10 @@ Tienes [Ravensburger 26673 Scotland Yard  Juego de Mesa  3-6 Jugadores  Edad Rec
 
 ℹ️:
 
+- Scotland Yard es uno de los grandes juegos de mesa clásicos de Ravensburger y continúa entreteniendo a generaciones de familias, adultos, niños y adolescentes
 - Scotland Yard es un juego muy rejugable, nunca se aburre y es un adecuado regalo para cualquier ocasión; en cada juego los jugadores tendrán que decidir si interpretar el papel del criminal Mister X o el de los detectives
 - El juego es para niños a partir de 8 años, desarrolla habilidades tácticas e intuitivas, pensamiento lógico y la capacidad de coordinarse con otros jugadores
 - Adecuada calidad de materiales; el juego contiene: 1 plan de juego, peones, tablas de colores, 1 boleto negro, 1 boleto de doble movimiento, tabla de itinerario para Mister X, 1 visera para Mister X
 - El juego es para 3-6 jugadores que se aventuran por las calles de Londres en busca de Mister X; Mister X ganará si puede atravesar la ciudad de Londres, mientras que la victoria será para el equipo de Scotland Yard si logran bloquearlo
-- Scotland Yard es uno de los grandes juegos de mesa clásicos de Ravensburger y continúa entreteniendo a generaciones de familias, adultos, niños y adolescentes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013RM25KU/?tag=tolees-21)
