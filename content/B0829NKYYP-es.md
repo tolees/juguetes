@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf-Ultra One Hasbro E65964R0 al 16.84 % de rebaja'
-date: 2021-04-28 15:53:52
+date: 2021-05-02 07:55:41
 image: 'https://m.media-amazon.com/images/I/41jLyvOET+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B0829NKYYP/?tag=tolees-21'
 descuento: '16.84'
-average: '47.004659090909'
+average: '47.0370786516853'
 ---
 
 Tienes [Nerf-Ultra One Hasbro E65964R0](https://www.amazon.es/dp/B0829NKYYP/?tag=tolees-21) con precio final de  49.89 EUR (original: 59.99 EUR) (16.84 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Nerf-Ultra One Hasbro E65964R0](https://www.amazon.es/dp/B0829NKYYP/?tag
 
 🔎:
 
+- LOS DARDOS NERF ULTRA SON LOS DARDOS NERF MÁS VUELOS QUE NUNCA: Súbete a la superioridad que cambia el juego con los dardos Nerf Ultra: los dardos Nerf voladores más lejanos de la historia, hasta 36 metros
 - Más de 8 años
 - NERF ULTRA ONE BLASTER CON TAMBOR DE ALTA CAPACIDAD: El blaster motorizado Nerf Ultra One incluye un tambor de dardos de gran capacidad que admite hasta 25 dardos Nerf Ultra, funciona solo con los dardos Nerf Ultra
 - EL ESTÁNDAR DE ORO EN NERF DART BLASTING: Experimente una distancia extrema, precisión y velocidad con los blasters Nerf Ultra que están diseñados con funciones modernapara llevar sus juegos Nerf al siguiente nivel
 - 25 DARDOS NERF ULTRA: Incluye 25 dardos Nerf Ultra modernos que cuentan con una punta de vuelo innovadora, tecnología Aerofin y espuma ligera Nerf Ultra, solo funcionan con blásters Nerf Ultra
-- LOS DARDOS NERF ULTRA SON LOS DARDOS NERF MÁS VUELOS QUE NUNCA: Súbete a la superioridad que cambia el juego con los dardos Nerf Ultra: los dardos Nerf voladores más lejanos de la historia, hasta 36 metros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0829NKYYP/?tag=tolees-21)
