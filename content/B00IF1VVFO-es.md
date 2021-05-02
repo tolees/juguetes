@@ -28,8 +28,8 @@ Está [PLAYMOBIL Guardería - Zona de Juegos Infantil  playset  5568 ](https://w
 
 ℹ️:
 
+- Fomenta creatividad e imaginación
 - Juguete educativo que fomenta el juego simbólico
 - Con figuras y accesorios
-- Fomenta creatividad e imaginación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IF1VVFO/?tag=tolees-21)
