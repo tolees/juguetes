@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proyector  Elephas Mini Proyector Full H al 23.08 % de descuento'
-date: 2021-04-30 10:46:04
+date: 2021-05-03 16:31:23
 image: 'https://m.media-amazon.com/images/I/41tKGdn3HiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ELEPHAS'
 buyurl: 'https://www.amazon.es/dp/B07VN52BYF/?tag=tolees-21'
 descuento: '23.08'
-average: '115.625087719298'
+average: '115.355517241379'
 ---
 
 Ahora mismo tienes [Proyector  Elephas Mini Proyector Full HD 6500 Lumen   Proyector Portatil Cine en Casa de 200 Pulgadas 1080P Compatible con PS4  PC a Través de HDMI  VGA  TF  AV y USB  con Bolsa   Black ](https://www.amazon.es/dp/B07VN52BYF/?tag=tolees-21) a 99.99 EUR (original: 129.99 EUR) (23.08 %  de descuento) en el siguiente enlace!
