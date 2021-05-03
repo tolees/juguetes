@@ -28,10 +28,10 @@ Tienes [Pinypon Hospital de Mascotas  Muñeca y Accesorios  Famosa 700012914 ](h
 
 ℹ️:
 
-- Un divertido hospital donde la doctora pinypon cura las mascotas
-- Muchos accesorios veterinarios para curar a cada mascota
 - Incluye dos figuras: la doctora pinypon y su mascota paciente
 - Con pantalla interactiva de diagnostico de enfermedades
 - Tiene muchas salas de curas y tratamientos
+- Un divertido hospital donde la doctora pinypon cura las mascotas
+- Muchos accesorios veterinarios para curar a cada mascota
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B65IVCQ/?tag=tolees-21)
