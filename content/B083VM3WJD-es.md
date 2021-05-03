@@ -28,12 +28,12 @@ En este momento está [VTech Little Love-Dulce Conejito  Muñeca interactiva Que
 
 🔎:
 
-- Existen otros dos modelos con distinta personalidad, voz y enseñanzas
-- Se puede lavar, módulo electrónico fácilmente extraíble
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Versión española
-- Tiene voz, pulsa el botón luminoso de su barriguita para escuchar qué cuidados necesita y para aprender sobre los conejitos
-- Enseña los números a través de sus más de 20 sonidos, frases y canciones
 - Dulce muñeca interactiva disfrazada de conejito
+- Versión española
+- Se puede lavar, módulo electrónico fácilmente extraíble
+- Enseña los números a través de sus más de 20 sonidos, frases y canciones
+- Existen otros dos modelos con distinta personalidad, voz y enseñanzas
+- Tiene voz, pulsa el botón luminoso de su barriguita para escuchar qué cuidados necesita y para aprender sobre los conejitos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083VM3WJD/?tag=tolees-21)
