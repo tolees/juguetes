@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757M7BYP-es Devir - Carcassonne: La Torre juego de mesa BGCARTO'
 sku: 'B0757M7BYP-es'
-tags: [ 'devir', ]
+tags: [ 'de','devir','juego','mesa', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

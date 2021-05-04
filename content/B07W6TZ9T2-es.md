@@ -28,10 +28,10 @@ Ahora mismo tienes [Fisher-Price Rock-a-Stack  juguete clásico de apilar aros p
 
 🔎:
 
-- Enseña a los niños el concepto de tamaño y a apilar
 - Regalo original para bebes a partir de 6 meses
 - Juguete apilable para bebés con 5 anillos de colores que pueden coger, agitar y apilar
-- Base balanceante para darle golpecitos
 - El aro óptimaior es transparente y tiene bolitas que suenan en su interior
+- Enseña a los niños el concepto de tamaño y a apilar
+- Base balanceante para darle golpecitos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W6TZ9T2/?tag=tolees-21)

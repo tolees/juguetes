@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CZHDC6-es Diset- Escape Room Virtual Reality Juego de Mesa 62309'
 sku: 'B071CZHDC6-es'
-tags: [ 'diset-', ]
+tags: [ 'de','diset-','juego','mesa', ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BKBXQ58-es Hasbro Risk - Juego de Mesa versión en inglés'
 sku: 'B01BKBXQ58-es'
-tags: [ 'hasbro', ]
+tags: [ 'de','hasbro','juego','mesa', ]
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84
