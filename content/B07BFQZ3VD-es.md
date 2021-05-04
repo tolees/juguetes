@@ -28,10 +28,10 @@ En este momento está [Wizies - Joyero Musical  Famosa 700014321 ](https://www.a
 
 🔎:
 
-- El joyero musical de wizies es una preciosa cajita que parece un regalo y que esconde un montón de sorpresas en su interior
-- Abre el joyero con su llave y escucha su música; descubre sus 12 figuras especiales, aprieta el botón y mira como los wizies giran en la plataforma giratoria
 - Al pasar por la luz tus wizies brillarán como diamantes; selecciona figuras y conéctalas personalizando tu propio anillo, las tres pulseras pulseras o el collar que vienen incluidos
 - Incluyen 12 figuras exclusivas translúcidas y accesorios y 3 pulseras; un anillo y un colgante para convertir tus wizies en joyitas "ponibles"
 - En la pieza central hay además un soporte donde podrás hacer una torre con tus wizies y verlos girar al compás de la música
+- El joyero musical de wizies es una preciosa cajita que parece un regalo y que esconde un montón de sorpresas en su interior
+- Abre el joyero con su llave y escucha su música; descubre sus 12 figuras especiales, aprieta el botón y mira como los wizies giran en la plataforma giratoria
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BFQZ3VD/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Bizak- Benito Granitos  Multicolor  61924324 ](https://www.a
 
 🔎:
 
+- Fabricado en España
 - Nunca fue tan divertido quitar granitos
 - Tendrás que quitarle a Benito todos los granitos de su cara
 - Si mueves demasiado la cara de Benito saldrá agua de su nariz
-- Fabricado en España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHHDQDT/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Nancy - Un día de Secretos de Belleza Rubia  busto de muñeca con el pe
 
 🔎:
 
+- Juguete recomendado a partir de 3 años de edad. Es el regalo ideal para niñas y niños a los que les encantan las tendencias y la belleza
+- Nancy tiene el color de pelo rubio liso y largo para hacerle infinidad de peinados y maquillarla de mil maneras diferentes
 - Disponible en dos modelos diferentes: rubia y morena
 - Incluye muchos accesorios: peines, brochas para maquillar, pestañas postizas, pegatinas, purpurina, gomas de pelo, pintalabios, etc
-- Nancy tiene el color de pelo rubio liso y largo para hacerle infinidad de peinados y maquillarla de mil maneras diferentes
 - Busto de peluquería y maquillaje para aprender con Nancy a ser la mejor estilista, peluquera y maquilladora
-- Juguete recomendado a partir de 3 años de edad. Es el regalo ideal para niñas y niños a los que les encantan las tendencias y la belleza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DD8B69S/?tag=tolees-21)
