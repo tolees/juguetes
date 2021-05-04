@@ -28,9 +28,9 @@ Tienes [Edge Entertainment- Eminent Domain - Juego de Mesa - Español  Color  EE
 
 ℹ️:
 
-- Produce recursos para intercambiarlos o investiga nuevas tecnologías para forjar el mejor imperio y ganar la partida
 - ¿Qué harás con los planetas cercanos?
 - ¿Colonizarlos, o conquistarlos por la fuerza?
 - Explora la galaxia para expandir tu imperio
+- Produce recursos para intercambiarlos o investiga nuevas tecnologías para forjar el mejor imperio y ganar la partida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0828BYB5L/?tag=tolees-21)

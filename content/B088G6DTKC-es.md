@@ -28,9 +28,9 @@ Está [Goliath - Carcata - Juego de Mesa y Estrategia](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Asegura tus áreas de influencia, escala la montaña y recoge las gemas que expulsa el volcán para ganar la partida.
-- Pero no te olvides de vigilar los movimientos de las tribus oponentes y el avance de la Tortuga Ancestral, el espíritu que protege la isla, si quieres evitar desagradables sorpresas.
 - Desembarca tu tribu en Carcata, la isla del volcán, y demuestra que tu tribu es la más fuerte desafiando los peligros que alberga la isla volcánica.
+- Pero no te olvides de vigilar los movimientos de las tribus oponentes y el avance de la Tortuga Ancestral, el espíritu que protege la isla, si quieres evitar desagradables sorpresas.
 - 1 tablero de juego, 1 isla dividida en 6 niveles, 1 volcán con catapulta, 5 dados especiales, 20 figuras de tribu (5 figuras de cada color), 20 gemas de 4 colores, 1 bolsa, 4 estatuas, 120 fichas de lava, 1 Tortuga Ancestral e instrucciones.
+- Asegura tus áreas de influencia, escala la montaña y recoge las gemas que expulsa el volcán para ganar la partida.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088G6DTKC/?tag=tolees-21)
