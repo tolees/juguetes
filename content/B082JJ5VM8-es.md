@@ -28,10 +28,10 @@ En este momento está [Star Wars- The Child Figura de 16 5 cm  Hasbro F11165L0 ]
 
 🔎:
 
-- FIGURA DE ACCIÓN DE 16,5 CM: Esta figura The Child de gran tamaño permite que los niños de 4 años en adelante se diviertan con este adorable juguete articulado de Star Wars
+- BUSCA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Busca figuras de Star Wars inspiradas en las películas y las series de TV, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 - APARIENCIA AUTÉNTICA INSPIRADA EN LA SERIE DE DISNEY PLUS: La apariencia de la figura de acción The Child de Star Wars es fiel a la del personaje favorito de la serie de Disney Plus The Mandalorian
 - FIGURA DE ACCIÓN ARTICULADA: Esta figura de acción de 16,5 cm de Star Wars cuenta con múltiples puntos de articulación para que los niños y niñas puedan colocar la figura de The Child en adorables poses e imaginar todo tipo de aventuras
-- BUSCA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Busca figuras de Star Wars inspiradas en las películas y las series de TV, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
+- FIGURA DE ACCIÓN DE 16,5 CM: Esta figura The Child de gran tamaño permite que los niños de 4 años en adelante se diviertan con este adorable juguete articulado de Star Wars
 - THE CHILD: Los fans adoran al personaje que ellos llaman "Bebé Yoda", y ahora pueden añadirlo a sus colecciones de juguetes Star Wars
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082JJ5VM8/?tag=tolees-21)

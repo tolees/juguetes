@@ -28,10 +28,10 @@ Tienes [Hasbro Star Wars el Mandaloriano: Monopoly](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Caja ilustrada
-- Cartas personalizadas
-- Peones personalizados
 - 2 a 4 jugadores
+- Peones personalizados
 - Licencia oficial
+- Cartas personalizadas
+- Caja ilustrada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DR9T4H4/?tag=tolees-21)

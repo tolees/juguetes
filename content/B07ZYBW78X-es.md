@@ -28,10 +28,10 @@ En este momento está [Figura y vehículo de Star Wars Mission Fleet Han Solo Mi
 
 🔎:
 
-- Los niños y niñas de 4 años en adelante les encantará imaginar misiones atrevidas, persecuciones emocionantes y escapes atrevidos con la figura y vehículo del Halcón Milenario Han Solo, con un lanzador de proyectiles reposicionable
 - Halcón milenio: como capitán del Halcón Milenario, Han Solo y su copiloto Chewbacca lanzaron su camino de Mos Eisley en una misión de acompañar a Luke Skywalker y Obi-Wan Kenobi a Alderaan
-- El personaje icónico de Star Wars: esta figura de Han Solo de 2.5 pulgadas cuenta con múltiples puntos de articulación y diseño y detalles inspirados en Star Wars: una nueva esperanza
 - Mini tanque desmontable: los niños pueden fingir llevar la batalla al suelo con el accesorio de mini tanque desmontable, la figura Han Solo incluida puede ponerse de pie
+- El personaje icónico de Star Wars: esta figura de Han Solo de 2.5 pulgadas cuenta con múltiples puntos de articulación y diseño y detalles inspirados en Star Wars: una nueva esperanza
 - Juguetes coleccionables: busca otras figuras y vehículos de Star Wars Mission Fleet para coleccionar, intercambiar con amigos o dar como regalos (cada uno se vende por separado). Sujeto a disponibilidad.)
+- Los niños y niñas de 4 años en adelante les encantará imaginar misiones atrevidas, persecuciones emocionantes y escapes atrevidos con la figura y vehículo del Halcón Milenario Han Solo, con un lanzador de proyectiles reposicionable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZYBW78X/?tag=tolees-21)
