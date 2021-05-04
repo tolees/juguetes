@@ -28,14 +28,14 @@ Tienes [LEGO El Bosque Deformado](https://www.amazon.es/dp/B08G4Q7B5D/?tag=tolee
 
 ℹ️:
 
-- El set mide aproximadamente 13 cm de altura, 25 cm de anchura y 14 cm de profundidad. Es fantástico para trasladar el juego a una dimensión física y queda impresionante expuesto en la habitación de los peques.
-- Este emocionante paisaje LEGO recrea con gran realismo el oscuro y peligroso entorno del Bosque Deformado Minecraft.
-- Incluye 4 figuras: la Cazadora, con arco y flecha y armadura protectora, un Hoglin con cabeza móvil y 2 Piglins armados con espadas. Además, cuenta con funciones de desprendimiento de rocas y explosión integradas.
-- Dale un capricho a tu pequeño apasionado de Minecraft con el set LEGO Minecraft El Bosque Deformado (21168). Este juego físico trae al mundo real las emocionantes y explosivas aventuras Minecraft.
-- Para mayores de 8 años. Un regalo ideal para jugadores de Minecraft que quieran seguir jugando en el mundo real a un videojuego que les fascina.
-- Los jugadores podrán ayudar a la Cazadora a atravesar un terreno con rocas desplomándose, hostiles criaturas y un río de lava. Detonarán los explosivos para hacer caer un árbol, que se convertirá en un puente improvisado hacia muchas más aventuras.
-- Los juegos LEGO Minecraft proponen a los fans de Minecraft una nueva forma de jugar su juego favorito, con personajes, escenas y funciones que cobran vida con una imaginativa mezcla de elementos y ladrillos LEGO.
-- Los componentes LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan los estándares mundiales de seguridad más exigentes.
 - Los kits de construcción LEGO cumplen estrictas normas de calidad del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan perfectamente una y otra vez; así ha sido desde 1958.
+- Los componentes LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan los estándares mundiales de seguridad más exigentes.
+- Incluye 4 figuras: la Cazadora, con arco y flecha y armadura protectora, un Hoglin con cabeza móvil y 2 Piglins armados con espadas. Además, cuenta con funciones de desprendimiento de rocas y explosión integradas.
+- Para mayores de 8 años. Un regalo ideal para jugadores de Minecraft que quieran seguir jugando en el mundo real a un videojuego que les fascina.
+- Dale un capricho a tu pequeño apasionado de Minecraft con el set LEGO Minecraft El Bosque Deformado (21168). Este juego físico trae al mundo real las emocionantes y explosivas aventuras Minecraft.
+- Este emocionante paisaje LEGO recrea con gran realismo el oscuro y peligroso entorno del Bosque Deformado Minecraft.
+- El set mide aproximadamente 13 cm de altura, 25 cm de anchura y 14 cm de profundidad. Es fantástico para trasladar el juego a una dimensión física y queda impresionante expuesto en la habitación de los peques.
+- Los juegos LEGO Minecraft proponen a los fans de Minecraft una nueva forma de jugar su juego favorito, con personajes, escenas y funciones que cobran vida con una imaginativa mezcla de elementos y ladrillos LEGO.
+- Los jugadores podrán ayudar a la Cazadora a atravesar un terreno con rocas desplomándose, hostiles criaturas y un río de lava. Detonarán los explosivos para hacer caer un árbol, que se convertirá en un puente improvisado hacia muchas más aventuras.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08G4Q7B5D/?tag=tolees-21)
