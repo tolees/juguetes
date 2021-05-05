@@ -28,15 +28,15 @@ Tienes [LEGO Transporte de Prisioneros de Policía](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Los juegos de policías LEGO City ayudan a los niños a desarrollar sus habilidades físicas y a reforzar su confianza con edificios repletos de detalles, vehículos de gran realismo y divertidos personajes que estimulan el juego creativo libre.
-- Una vez construido, el transporte de prisioneros mide aproximadamente 8 cm de altura, 13 cm de longitud y 6 cm de anchura.
-- Incluye instrucciones de construcción impresas y la experiencia Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO, con herramientas de visualización, acercamiento y giro que darán vida al proceso de construcción.
-- Accesorios LEGO incluidos: esposas, un casco de moto, un casco de seguridad y 2 cartuchos de dinamita.
-- Los niños a partir de 5 años crearán su propia acción al estilo LEGO City con este juego multimaquetas compuesto por un emblemático transporte de prisioneros y divertidos personajes de la serie para televisión LEGO City: Aventuras en la Ciudad.
-- Lo que tu peque necesita para construir un transporte de prisioneros, un camión grúa y una moto de policía, así como 4 minifiguras, entre ellas el héroe LEGO City de la tele Duke DeTain, Snake Rattler y Clara la Malhechora.
-- El trepidante juego LEGO City Transporte de Prisioneros de Policía (60276) es un impresionante regalo para niños y niñas a partir de 5 años y un genial obsequio que les encantará recibir en Navidad, por su cumpleaños o en cualquier otra ocasión.
 - Los niños podrán separar la celda del camión provocando una explosión, engancharla al camión grúa trucado de la ladrona y perseguirla con la chulísima moto de policía.
+- Los niños a partir de 5 años crearán su propia acción al estilo LEGO City con este juego multimaquetas compuesto por un emblemático transporte de prisioneros y divertidos personajes de la serie para televisión LEGO City: Aventuras en la Ciudad.
+- Los juegos de policías LEGO City ayudan a los niños a desarrollar sus habilidades físicas y a reforzar su confianza con edificios repletos de detalles, vehículos de gran realismo y divertidos personajes que estimulan el juego creativo libre.
 - ¿Qué contiene la caja
+- El trepidante juego LEGO City Transporte de Prisioneros de Policía (60276) es un impresionante regalo para niños y niñas a partir de 5 años y un genial obsequio que les encantará recibir en Navidad, por su cumpleaños o en cualquier otra ocasión.
+- Incluye instrucciones de construcción impresas y la experiencia Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO, con herramientas de visualización, acercamiento y giro que darán vida al proceso de construcción.
+- Una vez construido, el transporte de prisioneros mide aproximadamente 8 cm de altura, 13 cm de longitud y 6 cm de anchura.
+- Accesorios LEGO incluidos: esposas, un casco de moto, un casco de seguridad y 2 cartuchos de dinamita.
+- Lo que tu peque necesita para construir un transporte de prisioneros, un camión grúa y una moto de policía, así como 4 minifiguras, entre ellas el héroe LEGO City de la tele Duke DeTain, Snake Rattler y Clara la Malhechora.
 - Los elementos y ladrillos LEGO se fabrican de acuerdo con estrictas normas de calidad del sector, por eso ofrecen siempre las mismas cualidades, son compatibles entre sí y brindan una divertida experiencia de construcción; así ha sido desde 1958.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G4PBFLQ/?tag=tolees-21)
