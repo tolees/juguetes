@@ -28,11 +28,11 @@ Está [VTech Granja sobre Ruedas  Tractor Interactivo con Cinco pasajeros para E
 
 ℹ️:
 
-- Vehículo con piezas encajables. ¡Una divertida granja lista con 5 pasajeros para aprender y pasarlo en grande!
-- Con sus actividades interactivas el pequeño aprende animales, números y colores.
-- ✅ VERSIÓN ESPAÑOLA
-- El techo del tractor se ilumina al ritmo de la música y las canciones.5 personajes en total: Cuatro animales (vaca, oveja, cerdo y perro) y un humano (el granjero).3 canciones, 10 melodías, 17 efectos de sonido y multitud de frases.
 - El tractor rueda al ritmo de la música y los pequeños animales suben y bajan de sus asientos en el remolque. Cada animal tiene una forma diferente para encajar y aprender su nombre.
+- Con sus actividades interactivas el pequeño aprende animales, números y colores.
+- El techo del tractor se ilumina al ritmo de la música y las canciones.5 personajes en total: Cuatro animales (vaca, oveja, cerdo y perro) y un humano (el granjero).3 canciones, 10 melodías, 17 efectos de sonido y multitud de frases.
 - Cada uno de los personajes incluidos cuenta con una voz y personalidad diferentes, además de cantar y enseñar su color/forma y son capaces de cantar juntos.
+- ✅ VERSIÓN ESPAÑOLA
+- Vehículo con piezas encajables. ¡Una divertida granja lista con 5 pasajeros para aprender y pasarlo en grande!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086LWBLX1/?tag=tolees-21)
