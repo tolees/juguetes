@@ -28,10 +28,10 @@ Está [Slime- So Shaker X3 Boy Plastilina  Multicolor  Norme  Canal Toys SSC010 
 
 ℹ️:
 
-- Es adecuado para actividades creativas
-- No necesita pegamento
-- La marca del producto es Slime
 - La edad mínima recomendada es 6 años
+- La marca del producto es Slime
 - Se prepara fácilmente con agua
+- No necesita pegamento
+- Es adecuado para actividades creativas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B4QWFT6/?tag=tolees-21)
