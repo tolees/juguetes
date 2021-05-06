@@ -28,10 +28,10 @@ Tienes [Garosa - Juego de ajedrez de Madera 3 en 1 y Juego de Damas y Backgammon
 
 🔎:
 
-- ★ 【Universal para muchos】 Adecuado para niños, adultos y ancianos, puede ejercitar el pensamiento lógico, liberar el aburrimiento y ejercitar el cerebro.
 - ★ 【Tablero plegable】 El tablero es un tablero de juego cuando se abre y es una caja de almacenamiento mientras se pliega para sostener todas las piezas de ajedrez de forma ordenada.
-- ★ 【Ligero y compacto】 Es un juego de juguetes portátil para llevarlo fácilmente en su viaje en tren o avión. Tamaño plegable: 29.5 * 14.5cm/11.61 * 5.71in; Tamaño desplegado: 29.5 * 29.5cm/11.61 * 11.61in.
-- ★ 【Materiales premium】 Hecho de madera de primera calidad con mano de obra exquisita, es suave, elegante y como una pequeña caja de cuero cuando está plegado.
 - ★ 【Diseño 3 en 1】 Este es un juego de ajedrez 3 en 1 integrado ajedrez, damas y Backgammon jugando en un solo cuerpo para una diversión sin fin.
+- ★ 【Universal para muchos】 Adecuado para niños, adultos y ancianos, puede ejercitar el pensamiento lógico, liberar el aburrimiento y ejercitar el cerebro.
+- ★ 【Materiales premium】 Hecho de madera de primera calidad con mano de obra exquisita, es suave, elegante y como una pequeña caja de cuero cuando está plegado.
+- ★ 【Ligero y compacto】 Es un juego de juguetes portátil para llevarlo fácilmente en su viaje en tren o avión. Tamaño plegable: 29.5 * 14.5cm/11.61 * 5.71in; Tamaño desplegado: 29.5 * 29.5cm/11.61 * 11.61in.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F9QZQBT/?tag=tolees-21)
