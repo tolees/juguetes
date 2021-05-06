@@ -29,7 +29,7 @@ Está [Star Wars Baby Yoda Peluche 25 centimetros](https://www.amazon.es/dp/B08M
 ℹ️:
 
 - 100% Original. Nuevo y con etiqueta de Licencia Oficial
-- Blandito, de pelito corto y muy suave
 - Peluche Baby Yoda Child Mandalorian Star Wars soft 25cm
+- Blandito, de pelito corto y muy suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MV3Q1BG/?tag=tolees-21)
