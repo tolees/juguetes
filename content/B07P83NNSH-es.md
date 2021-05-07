@@ -28,10 +28,10 @@ En este momento está [Bizak- Colección Jessie la vaquera  Multicolor  61234112
 
 🔎:
 
-- Sombrero de quita y pon
 - Diviértete con esta fantástica muñeca de de 35 cm de altura
 - Réplica exacta de jessie la vaquera, una de los protagonistas de la peli
-- Cuerpo suave con cabeza y sombrero duros
+- Sombrero de quita y pon
 - Ponlo encima de perdigón y recrea las aventuras de las película toy story 4
+- Cuerpo suave con cabeza y sombrero duros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P83NNSH/?tag=tolees-21)
