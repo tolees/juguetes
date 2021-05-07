@@ -29,9 +29,9 @@ Ahora mismo tienes [PLAY FUN BY IMC TOYS - Play Fun-Juego Puff Ball CREA Tus PRO
 🔎:
 
 - Buff-Ball es un juego de habilidad; además permite demostrar tu creatividad personalizando tus circuitos
+- Sopla, compite y GANA. Completa el circuito, solo con la ayuda de tus pulmones
 - Crea tus propios circuitos y reta a tus amigos
 - 1+ jugadores Apto 6+ años Funciona sin pilas
-- Sopla, compite y GANA. Completa el circuito, solo con la ayuda de tus pulmones
 - Cuidado. Si la bola cae al suelo, deberás volver a empezar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTDC2BB/?tag=tolees-21)
