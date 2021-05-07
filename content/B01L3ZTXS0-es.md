@@ -29,9 +29,9 @@ Tienes [Fantasy Flight Games ‘Arkham Horror’ El Juego de Cartas](https://www
 ℹ️:
 
 - Difuminando las líneas tradicionales que separan un juego de rol de los juegos de cartas, Arkham Horror: Este Juego de Cartas es un Living Card Game Lovecraftiano de misterio, monstruos y locura.
-- Tiempo de juego: 1 a 2 horas
+- Los jugadores asumen los roles de investigadores únicos caracterizados por sus propias fortalezas y debilidades.
 - A partir de 14 años.
 - Para 1 o 2 jugadores (o hasta cuatro con dos juegos básicos).
-- Los jugadores asumen los roles de investigadores únicos caracterizados por sus propias fortalezas y debilidades.
+- Tiempo de juego: 1 a 2 horas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01L3ZTXS0/?tag=tolees-21)
