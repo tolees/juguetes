@@ -28,10 +28,10 @@ En este momento está [Nenuco-Baby Talks  Hacemos pipí! Muñeca con Sonidos par
 
 🔎:
 
-- Cuando aprietas su ombligo hace 4 sonidos distintos
-- Se puede quitar la parte electrónica para lavarlo
-- Cuerpo blandito y mide 25 cm, lleva un bonito vestido, gorrito y un orinal
 - Muñeca con orinal para enseñarle a hacer pipí
+- Se puede quitar la parte electrónica para lavarlo
+- Cuando aprietas su ombligo hace 4 sonidos distintos
+- Cuerpo blandito y mide 25 cm, lleva un bonito vestido, gorrito y un orinal
 - Recomendado a partir de 1 año; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RRWMF3P/?tag=tolees-21)
