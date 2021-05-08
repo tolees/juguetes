@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney 101 Dalmatian Street Baño de burbujas con figura Dol
 
 🔎:
 
-- ¡limpia bien a dolly con este conjunto de juego de baño de 101 dalmatian street de disney!.​
 - Incluye bañera y figura de dolly (7 cm) con gorro de ducha
+- ¡limpia bien a dolly con este conjunto de juego de baño de 101 dalmatian street de disney!.​
+- Desliza la palanca para mover los cepillos de un lado a otro
 - Coloca a dolly en la bañera para frotarla.​
 - ¡vierte agua en las burbujas y presiona la bomba para que salpique!.​
-- Desliza la palanca para mover los cepillos de un lado a otro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SLFYRDH/?tag=tolees-21)
