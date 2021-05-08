@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price- Autobús Escolar Amarillo G al 25.01 % de descuento'
-date: 2021-05-02 14:14:03
+date: 2021-05-08 07:23:54
 image: 'https://m.media-amazon.com/images/I/51d8MXPeDpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Fisher-Price- Autobús Escolar Amarillo Grande de Little People  Mattel G
 
 ℹ️:
 
-- ¡Trae a tus amigos! El autobús incluye 4 figuras y dispone de espacio para un máximo de 12 (las figuras adicionales se venden por separado).
 - El icónico autobús escolar de Little People aumenta de tamaño con un tirador que se guarda debajo
 - Pulsa los botones para descubrir música, sonidos, luces y contenido de aprendizaje de tecnología inteligente
+- ¡Trae a tus amigos! El autobús incluye 4 figuras y dispone de espacio para un máximo de 12 (las figuras adicionales se venden por separado).
 - Abre manualmente la puerta, despliega la señal de stop y abre la rampa de la silla de ruedas
 - Para niños pequeños y de preescolar de entre 1 y 5 años
 
