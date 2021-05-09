@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fisher-Price - Columpio hamaca portable  al 33.65 % de descuento'
-date: 2021-04-22 11:19:39
+title: 'Fisher-Price - Columpio hamaca portable  al 33.94 % de descuento'
+date: 2021-05-09 17:51:07
 image: 'https://m.media-amazon.com/images/I/41aMyTYlDhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00PI0LX6M-es Fisher-Price - Columpio hamaca portable 2 en 1 - juguetes...'
 sku: 'B00PI0LX6M-es'
 tags: [ 'Actividad y entretenimiento','Bebé','Sillas mecedoras','fisher-price','juguetes','mattel', ]
-actualPrice: 89.56 EUR
+actualPrice: 89.17 EUR
 currency: EUR
-price: 89.56
+price: 89.17
 comparePrice: 134.99 EUR
 prodname: 'Fisher-Price - Columpio hamaca portable 2 en 1 - juguetes bebe -  Mattel CCN92 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B00PI0LX6M/?tag=tolees-21'
-descuento: '33.65'
-average: '89.5466666666667'
+descuento: '33.94'
+average: '89.4525'
 ---
 
-Está [Fisher-Price - Columpio hamaca portable 2 en 1 - juguetes bebe -  Mattel CCN92 ](https://www.amazon.es/dp/B00PI0LX6M/?tag=tolees-21) con 33.65 de descuento por 89.56 EUR (original: 134.99 EUR) en el siguiente enlace!
+Está [Fisher-Price - Columpio hamaca portable 2 en 1 - juguetes bebe -  Mattel CCN92 ](https://www.amazon.es/dp/B00PI0LX6M/?tag=tolees-21) con 33.94 de descuento por 89.17 EUR (original: 134.99 EUR) en el siguiente enlace!
 
 [![Fisher-Price - Columpio hamaca portable ](https://m.media-amazon.com/images/I/41aMyTYlDhL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00PI0LX6M/?tag=tolees-21)
 

@@ -31,7 +31,7 @@ Está [Nerf Modulus Mediator  Hasbro E0016EU5 ](https://www.amazon.es/dp/B077JYR
 - Lanzador con clip y acción de bombeo
 - Lanza los dardos en ráfaga
 - Forma parte de la serie Mediator
-- Raíles tácticos
 - Se puede añadir un cañón y una culata (el cañón y la culata se venden por separado)
+- Raíles tácticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077JYRC6V/?tag=tolees-21)

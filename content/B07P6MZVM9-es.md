@@ -28,9 +28,9 @@ Tienes [Mega Construx - Game of Thrones GOT Batalla de los Caminantes Blancos](h
 
 🔎:
 
+- Incluye 3 minifiguras de acción totalmente articuladas de 5 cm con detalles auténticos de Jon Nieve, el Rey de la Noche y un espectro
 - El conjunto de construcción y las figuras vienen con armas auténticas y accesorios
 - Se puede coleccionar y combinar con otros conjuntos de construcción de Mega Construx
-- Incluye 3 minifiguras de acción totalmente articuladas de 5 cm con detalles auténticos de Jon Nieve, el Rey de la Noche y un espectro
 - La figura de Jon Nieve está equipada con la vestimenta del norte de la temporada 7
 - Construye tu Juego de Tronos sin límites
 - Plataforma construible que separa a los rivales de su destino
