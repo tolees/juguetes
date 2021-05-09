@@ -28,10 +28,10 @@ Ahora mismo tienes [Nancy Colección - Reedición Trousseau Cenicienta  Muñeca 
 
 🔎:
 
+- Incluye una bonita Nancy con pelo rubio ceniza y el vestido de Cenicienta con delantal y escoba
 - Reedición de la caja trousseau de Nancy Cenicienta del año 1971
 - El pack también incluye el vestido de gala de Cenicienta con los famosos zapatitos de cristal
-- Incluye una bonita Nancy con pelo rubio ceniza y el vestido de Cenicienta con delantal y escoba
-- Una pieza de coleccionismo que no querrás dejar de tener en tu colección
 - Preciosa Nancy colección temática cuentos: La Cenicienta
+- Una pieza de coleccionismo que no querrás dejar de tener en tu colección
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SNTKPYK/?tag=tolees-21)
