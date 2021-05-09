@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - Chirrut Îmwe  75524  al 23.01 % de descuento'
-date: 2021-05-07 20:13:19
+date: 2021-05-09 11:31:21
 image: 'https://m.media-amazon.com/images/I/51PMs4UDWNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B01J41KZBO/?tag=tolees-21'
 descuento: '23.01'
-average: '22.8417857142857'
+average: '22.8056140350877'
 ---
 
 Está [LEGO STAR WARS - Chirrut Îmwe  75524 ](https://www.amazon.es/dp/B01J41KZBO/?tag=tolees-21) con 23.01 de descuento por 20.78 EUR (original: 26.99 EUR) en el siguiente enlace!
