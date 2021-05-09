@@ -28,8 +28,8 @@ En este momento está [Educa - Provincias España Puzzle  150 Piezas  Multicolor
 
 🔎:
 
-- Imágenes con los personajes y temas favoritos de los niños
 - Puzzle realizado con materiales de alta calidad y con un encaje perfecto
 - Incluye 150 piezas de cartón
+- Imágenes con los personajes y temas favoritos de los niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005OQB8CY/?tag=tolees-21)
