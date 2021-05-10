@@ -28,9 +28,9 @@ Tienes [Educa Borrás 14783 - Identic Natura  110 Cartas    Modelos/colores Surt
 
 🔎:
 
-- Ayuda la agudeza, el visual y la memorización
-- Adecuado para niños de 6 años y más
 - Incluye 110 piezas
+- Adecuado para niños de 6 años y más
+- Ayuda la agudeza, el visual y la memorización
 - Juego de memoria que trabaja las diferentes aptitudes básicas del niño
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004EPXMWA/?tag=tolees-21)
