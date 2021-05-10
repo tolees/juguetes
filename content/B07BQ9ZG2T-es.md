@@ -28,11 +28,11 @@ Ahora mismo tienes [VTech- Kidizoom Smart Watch DX2 para Niños  Color rosa  fra
 
 🔎:
 
-- Amplia variedad de juegos: juego de monstruos (Hay monstruos invisibles por todas partes Utilice el detector de su reloj para encontrarlos y atraparlos), juegos de observación y rapidez, bailar, saltar
 - Incluye una actividad de entrenador personal con podómetro y la posibilidad de guardar el histórico de puntuaciones
-- Diseño actualizado, más plano, compacto y doble cámara para hacer selfies (frontal y lateral)
-- Versión española
-- Pantalla táctil, vídeo, fotos, grabadora, retoque de fotos (marcos, filtros), detector de caras para colocar efectos, juegos, etc.
 - Otras aplicaciones: calculadora, calendario, alarma, ajustes, reloj analógico y digital
+- Amplia variedad de juegos: juego de monstruos (Hay monstruos invisibles por todas partes Utilice el detector de su reloj para encontrarlos y atraparlos), juegos de observación y rapidez, bailar, saltar
+- Versión española
+- Diseño actualizado, más plano, compacto y doble cámara para hacer selfies (frontal y lateral)
+- Pantalla táctil, vídeo, fotos, grabadora, retoque de fotos (marcos, filtros), detector de caras para colocar efectos, juegos, etc.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BQ9ZG2T/?tag=tolees-21)
