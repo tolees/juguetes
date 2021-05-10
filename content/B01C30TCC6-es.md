@@ -28,11 +28,11 @@ Está [VTech - Estela luz de cuna  Suave Peluche Infantil Que Brilla en la Oscur
 
 ℹ️:
 
-- Tiene 3 botones: uno con forma de corazón que activa canciones, melodías y frases, otro que activa sonidos de la naturaleza para conciliar el sueño y por último, uno que activa música sin interrupción
+- Suave muñeca musical para bebés, con voz y luces, con rostro luminoso que tranquiliza al bebé antes de dormir, para bebés a partir del nacimiento
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas o pilas recargables con carga completa de calidad para óptimo rendimiento
 - Tejido suave, lavable (hay que retirar los elementos electrónicos)
-- Suave muñeca musical para bebés, con voz y luces, con rostro luminoso que tranquiliza al bebé antes de dormir, para bebés a partir del nacimiento
-- Este peluche para bebés, a través de sus actividades ofrece descubrimientos sensoriales para incentivar los sentidos de la vista, el oído y el tacto
+- Tiene 3 botones: uno con forma de corazón que activa canciones, melodías y frases, otro que activa sonidos de la naturaleza para conciliar el sueño y por último, uno que activa música sin interrupción
 - Versión española
+- Este peluche para bebés, a través de sus actividades ofrece descubrimientos sensoriales para incentivar los sentidos de la vista, el oído y el tacto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C30TCC6/?tag=tolees-21)
