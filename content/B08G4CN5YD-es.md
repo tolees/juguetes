@@ -28,15 +28,15 @@ Tienes [LEGO Momento Hogwarts™: Clase de Pociones](https://www.amazon.es/dp/B0
 
 ℹ️:
 
+- Hay más sets mágicos como este para coleccionar, cada uno diseñado para recrear un aula de Hogwarts diferente. Juntos y conectados, crean un innovador espacio de juego de 360 grados.
+- Todos los sets LEGO Harry Potter contienen inconfundibles personajes, divertidas características y conocidos lugares de las populares películas. Un regalo cautivador, práctico y mágico para cualquier joven mago o bruja.
+- Los sets LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan rigurosos estándares mundiales de seguridad.
+- El set LEGO Harry Potter Momento Hogwarts: Clase de Pociones (76383) es un divertido libro para construir con ladrillos que se abre y descubre el aula de Pociones de las películas de Harry Potter, situada en una de las mazmorras.
+- Para mayores de 8 años. Apto para jóvenes magos y brujas que busquen una nueva forma de vivir una aventura en el mundo de Harry Potter.
 - Los niños abren la tapa para entrar en la clase de Pociones del Profesor Snape. Hay elementos para practicar el arte de hacer pociones, ¡y una cámara secreta que podrán explorar!
 - Cuenta con accesorios de gran realismo, como una cuchara, un cuchillo, una taza, un caldero y una poción violeta, así como una escena de una mazmorra que los niños reconocerán de las películas de Harry Potter.
-- Hay más sets mágicos como este para coleccionar, cada uno diseñado para recrear un aula de Hogwarts diferente. Juntos y conectados, crean un innovador espacio de juego de 360 grados.
-- Los sets LEGO se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan rigurosos estándares mundiales de seguridad.
-- Para mayores de 8 años. Apto para jóvenes magos y brujas que busquen una nueva forma de vivir una aventura en el mundo de Harry Potter.
-- Este mágico set Momento Hogwarts mide aproximadamente 12 cm de altura, 8 cm de anchura y 4 cm de profundidad: el tamaño perfecto para jugar, transportarlo y colocarlo en un estante de la habitación de los peques.
 - Incluye minifiguras de Draco Malfoy, Seamus Finnigan y el Profesor Snape, un libro de pociones, una pizarra, una butaca, una mesa, una cámara secreta y un decorado de fondo que representa las mazmorras.
-- El set LEGO Harry Potter Momento Hogwarts: Clase de Pociones (76383) es un divertido libro para construir con ladrillos que se abre y descubre el aula de Pociones de las películas de Harry Potter, situada en una de las mazmorras.
 - Las piezas LEGO cumplen estrictas normas de calidad, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan perfectamente una y otra vez; así ha sido desde 1958.
-- Todos los sets LEGO Harry Potter contienen inconfundibles personajes, divertidas características y conocidos lugares de las populares películas. Un regalo cautivador, práctico y mágico para cualquier joven mago o bruja.
+- Este mágico set Momento Hogwarts mide aproximadamente 12 cm de altura, 8 cm de anchura y 4 cm de profundidad: el tamaño perfecto para jugar, transportarlo y colocarlo en un estante de la habitación de los peques.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08G4CN5YD/?tag=tolees-21)
