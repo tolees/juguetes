@@ -29,9 +29,9 @@ Tienes [Cayro - Parchis y Oca Magnético - Juego de Tradicional - Juego de Mesa 
 🔎:
 
 - 👨‍🏫 COMPETENCIAS CLAVE - Sociales y cívicas: respetar turno, tolerancia a la frustración, comprender códigos de conducta, empatía. Aprender a aprender: escuchar normas y controlar que las están aplicando bien, percepción de autoeficacia.
-- 🧠 INTELIGENCIAS MÚLTIPLES - Lógico-matemática 🧮: deducción según premisas | Espacial o visual: localizar en el tablero
-- ⚙️ CÓMO JUGAR - Juega al parchís o a la oca, solo tendrás que colocar el tablero por el lado que elijas y sacar las fichas correspondientes del cajón, incorporado en el tablero.
-- 🗂️ COMPONENTES: Tableros parchís y oca, 4 cubiletes, 4 dados, 16 fichas EDAD: +6 NIVEL: 6 años, primaria
 - 👩‍🏫 HABILIDADES COGNITIVAS - Atención: auditiva al compañero y visual al tablero. Razonamiento: Según las premisas, deducir la respuesta correcta. Resolución de problemas y pensamiento creativo
+- 🗂️ COMPONENTES: Tableros parchís y oca, 4 cubiletes, 4 dados, 16 fichas EDAD: +6 NIVEL: 6 años, primaria
+- ⚙️ CÓMO JUGAR - Juega al parchís o a la oca, solo tendrás que colocar el tablero por el lado que elijas y sacar las fichas correspondientes del cajón, incorporado en el tablero.
+- 🧠 INTELIGENCIAS MÚLTIPLES - Lógico-matemática 🧮: deducción según premisas | Espacial o visual: localizar en el tablero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00H1FLCK4/?tag=tolees-21)
