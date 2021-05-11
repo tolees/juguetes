@@ -29,8 +29,8 @@ Tienes [Crazy pawn - Juego de mesa Cristal Oscuro](https://www.amazon.es/dp/B07J
 ℹ️:
 
 - Basado en la película Cristal Oscuro
+- De 2 a 4 jugadores
 - Juega como Skekses o Gelflings
 - Totalmente en castellano
-- De 2 a 4 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07J9MR5KT/?tag=tolees-21)
