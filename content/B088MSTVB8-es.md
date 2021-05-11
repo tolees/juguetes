@@ -28,10 +28,10 @@ En este momento está [Pinypon - Hotel de Nieve  Famosa 700015773 ](https://www.
 
 🔎:
 
-- Incluye el hotel; todos los muebles y accesorios y dos figuras; una Pinypon grande y una niña
-- Incluye muchos accesorios para jugar; hombre de nieve de piezas combinables, igual que las Pinypons; esquís y snow boards; jacuzzi; árbol de navidad para decorar; barbacoa y una mesa picnic
-- En la planta baja está la gran recepción con salón, hay una chimenea con luces efecto fuego y dos dormitorios en la planta principal y un dormitorio para niños en la buhardilla
 - Este juguete es ideal para niños entre 4-8 años; para el desarrollo de su imaginación y la motricidad fina y también favoreciendo el aprendizaje de vocabulario
 - El hotel de invierno de Pinypon es muy divertido y muy completo con 3 plantas: la entrada; la 1ª planta y la buhardilla
+- Incluye el hotel; todos los muebles y accesorios y dos figuras; una Pinypon grande y una niña
+- En la planta baja está la gran recepción con salón, hay una chimenea con luces efecto fuego y dos dormitorios en la planta principal y un dormitorio para niños en la buhardilla
+- Incluye muchos accesorios para jugar; hombre de nieve de piezas combinables, igual que las Pinypons; esquís y snow boards; jacuzzi; árbol de navidad para decorar; barbacoa y una mesa picnic
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088MSTVB8/?tag=tolees-21)
