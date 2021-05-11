@@ -28,10 +28,10 @@ Está [Pinypon Action. Camión de Bomberos para niños y niñas de 4 a 8 años  
 
 ℹ️:
 
-- Camión con escalera de elevación y manguera y 1 figura de bombero
-- Con muchos accesorios como llamas; bombas de oxígeno; megáfono y barreras
-- Juguete para niños a partir de 4 años
-- La escalera tiene 3 secciones y se mueve en todas las direcciones
 - Con un cajón en la parte trasera del camión para guardar todos los pequeños accesorios
+- La escalera tiene 3 secciones y se mueve en todas las direcciones
+- Camión con escalera de elevación y manguera y 1 figura de bombero
+- Juguete para niños a partir de 4 años
+- Con muchos accesorios como llamas; bombas de oxígeno; megáfono y barreras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RSBK1QF/?tag=tolees-21)
