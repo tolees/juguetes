@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.52 % en Crazy pawn - Juego de mesa Cristal Oscur'
-date: 2021-05-10 11:40:55
+date: 2021-05-11 20:16:28
 image: 'https://m.media-amazon.com/images/I/51yPUVqe6jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crazy pawn'
 buyurl: 'https://www.amazon.es/dp/B07J9MR5KT/?tag=tolees-21'
 descuento: '40.52'
-average: '31.448'
+average: '31.29'
 ---
 
 Tienes [Crazy pawn - Juego de mesa Cristal Oscuro](https://www.amazon.es/dp/B07J9MR5KT/?tag=tolees-21) con un 40.52 % de descuento con precio de oferta de 29.71 EUR (original: 49.95 EUR) en el siguiente enlace!

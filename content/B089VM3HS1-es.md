@@ -28,10 +28,10 @@ Está [Smoby- Baby Care Centro pediátrico para muñecos bebé  Color  Simba 240
 
 ℹ️:
 
-- No incluye muñeco bebé, medida (Largo x Fondo x Alto): 40. 4 x 52 x 67. 3 cm, adecuado a partir de 2 años
-- Se compone de varias áreas de juego e incluye muchos accesorios: etiqueta médica autoadhesiva, gafas de médico, tableta electrónica (no se incluyen las pilas), pantalla giratoria con test de visión y latido del corazón, libro de recetas, báscula para bebés con pantalla de efecto digital, varilla de medición extraíble, mesa de examen
 - Centro de cuidado que permite a los niños jugar a pediatra para examinar y tratar sus muñecos bebé (para muñecos de hasta 38 cm)
 - Además un estetoscopio, termómetro, otoscopio, martillo de reflejos, jarabe, cuchara, crema, jeringuilla, caja de tiritas con tiritas autoadhesivas, pañales de tela, biberones, cubo de almacenaje, caja de primeros auxilios con cajón basculante, estante
+- No incluye muñeco bebé, medida (Largo x Fondo x Alto): 40. 4 x 52 x 67. 3 cm, adecuado a partir de 2 años
+- Se compone de varias áreas de juego e incluye muchos accesorios: etiqueta médica autoadhesiva, gafas de médico, tableta electrónica (no se incluyen las pilas), pantalla giratoria con test de visión y latido del corazón, libro de recetas, báscula para bebés con pantalla de efecto digital, varilla de medición extraíble, mesa de examen
 - La tableta electrónica es extraíble, una luz LED y un sonido se accionan al azar indicando al niño lo que está mal y lo que debe hacer, 3 botones en la tableta, varios sonidos; pilas: 2 x LR03 (no incluidas)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089VM3HS1/?tag=tolees-21)
