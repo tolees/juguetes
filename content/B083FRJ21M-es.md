@@ -28,8 +28,8 @@ Está [Lictin Juguetes de Baño para Bebé Niños - 15PCS Juguetes de Natación 
 
 ℹ️:
 
-- 15 PCS JUGUETES DE BAÑO BEBÉS: Un total de quince juguetes pequeños ( Cangrejo, pulpo, estrella de mar, concha, concha, delfín, morsa, foca, mantarrayas, tiburón martillo, tortuga, pelícano, hipopótamo, pingüino, cocodrilo.).
 - ASPECTO ENCANTADOR: Con un lindo y divertido juguete de baño, ya no es difícil que un bebé se bañe.Al mismo tiempo, cuando el bebé se está bañando, interactuar con el niño a través del juguete es útil para promover la relación entre padres e hijos y pasar una infancia feliz.
+- 15 PCS JUGUETES DE BAÑO BEBÉS: Un total de quince juguetes pequeños ( Cangrejo, pulpo, estrella de mar, concha, concha, delfín, morsa, foca, mantarrayas, tiburón martillo, tortuga, pelícano, hipopótamo, pingüino, cocodrilo.).
 - SEGURO 100%: PVC blando sin BPA, sin ftalatos, sin plomo y con certificación CE, los padres pueden estar seguros de que sus hijos pueden usar.
 - NOTAS: Preste atención a la supervisión de los adultos cuando los niños están jugando. Después del uso, séquelos al sol y guárdelos en un lugar seco y ventilado para evitar que el moho afecte la salud del bebé. Evite la desinfección a temperaturas demasiado altas, habrá un poco de olor, pero no afecta la salud, puede estar seguro.
 - APRENDIZAJE Y EDUCACIÓN: Cuando los niños juegan con juguetes de baño, pueden aprender a distinguir entre diferentes colores y diferentes animales, lo que es beneficioso para la educación de la primera infancia.
