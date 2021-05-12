@@ -28,11 +28,11 @@ En este momento está [VTech- Sparklings Celeste Unicornio Interactivo  Multicol
 
 🔎:
 
+- Hazte con toda la colección de mascotas de fantasía: pavo real, zorro y dos unicornios para adoptar. Control de volumen (dos posiciones).
 - Cada personaje Sparkling cuenta con una voz, características y personalidad diferente. ¡Colecciónalos todos!.Interactúa con ellos con divertidas frases y canciones al pulsar el botón de su medallón luminoso.
 - ✅ VERSIÓN ESPAÑOLA
 - Mascota interactiva. ¡Animales mágicos para maquillar y coleccionar! Los Sparkling son mascotas de fantasía que podrás personalizar a tu gusto con su paleta de maquillaje, dando color a sus párpados, cuernos y alas.
 - Presiona su botón principal para activar un movimiento en cada animal e iluminar una parte diferente de su cuerpo.
 - Adapta su aspecto cambiando sus colores según te apetezca o añadiendo cualquiera de los accesorios de moda incluidos. Diviértete con sus efectos luminosos y su proyección mágica, mientras aprendes con sus actividades y retos.
-- Hazte con toda la colección de mascotas de fantasía: pavo real, zorro y dos unicornios para adoptar. Control de volumen (dos posiciones).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087DPR9B8/?tag=tolees-21)
