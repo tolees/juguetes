@@ -29,8 +29,8 @@ Está [Zak Storm Playset Maritoga  Bandai 41580 ](https://www.amazon.es/dp/B077P
 ℹ️:
 
 - Con distintas zonas de acción
+- Incluye moneda exclusiva para desbloquear acciones en la App
 - Edad recomendada: 4 años y más
 - Incluye figura exclusiva
-- Incluye moneda exclusiva para desbloquear acciones en la App
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077PX1N6Z/?tag=tolees-21)
