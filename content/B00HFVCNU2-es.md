@@ -28,10 +28,10 @@ Ahora mismo tienes [Warner Bros Interactive Spain - La LEGO Película: El Videoj
 
 🔎:
 
-- Tipo de producto: videojuego de acción y aventura
 - Los jugadores siguen las instrucciones para construir objetos con piezas específicas como conjuntos LEGO de la vida real
-- Los ambientes están completamente hechos de piezas de Lego
 - El juego pone a los jugadores en control de varios personajes de la película
+- Los ambientes están completamente hechos de piezas de Lego
+- Tipo de producto: videojuego de acción y aventura
 - Plataforma del juego: Nintendo Wii U
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HFVCNU2/?tag=tolees-21)

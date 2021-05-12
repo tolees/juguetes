@@ -28,12 +28,12 @@ Tienes [VTech - Primeras canciones  libro interactivo para bebé +6 meses con la
 
 ℹ️:
 
-- Cinco botones con forma de teclas de piano para aprender algunos instrumentos musicales y sus respectivos sonidos
-- Versión española
 - Existe versión multicolor de este artículo
-- Lista de canciones populares: Muñeca vestida de azul, A la sillita de la reina, Pase misí pase misá, A mi burro, La zapatilla por detrás, Al corro de la patata
 - Incluye distintos elementos manipulables para atraer la atención del bebé y una estrella luminosa que parpadea al ritmo de más de 40 canciones, melodías, sonidos y frases
+- Lista de canciones populares: Muñeca vestida de azul, A la sillita de la reina, Pase misí pase misá, A mi burro, La zapatilla por detrás, Al corro de la patata
 - Se recomienda el uso de pilas alcalinas para un mejor rendimiento del aparato
+- Cinco botones con forma de teclas de piano para aprender algunos instrumentos musicales y sus respectivos sonidos
 - Libro musical educativo que incluye seis canciones populares
+- Versión española
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00YCQXDRK/?tag=tolees-21)
