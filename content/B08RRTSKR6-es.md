@@ -28,10 +28,10 @@ Está [Pinypon. Tienda de Accesorios para niños y niñas de 4 a 8 años  Famosa
 
 ℹ️:
 
-- Con caja para cobrar, 1 figura de dependienta y muchos pequeños accesorios
-- Juguete para niños entre 4-8 años
-- Muchas secciones de tienda; bolsos; ropa; gafas y accesorios con displays rotatorios
-- La zapatería tiene muchos zapatos diferentes con cajas y cajones donde guardarlos
 - Tienda con forma de zapato que se cierra como pequeño maletín
+- Con caja para cobrar, 1 figura de dependienta y muchos pequeños accesorios
+- La zapatería tiene muchos zapatos diferentes con cajas y cajones donde guardarlos
+- Muchas secciones de tienda; bolsos; ropa; gafas y accesorios con displays rotatorios
+- Juguete para niños entre 4-8 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RRTSKR6/?tag=tolees-21)
