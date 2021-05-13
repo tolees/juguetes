@@ -28,9 +28,9 @@ Está [Fisher-Price Mando a distancia perrito  juguete electrónico bebé +6 mes
 
 ℹ️:
 
-- Llena la freidora con masa amarilla y cierra la tapa para hacer las patatas y que suene un delicioso chisporroteo
 - Llena la sandwichera con masa y ciérrala; al abrirla, aparecerán las capas del sandwich, que se pueden montar para hacer uno a tu gusto
 - Barbie ayudará a las pequeñas aficionadas a la cocina a saborear la diversión con el conjunto de Superchef, que cuenta con luces y sonidos, moldes de comida, 5 colores de masa, y más de 20 accesorios
+- Llena la freidora con masa amarilla y cierra la tapa para hacer las patatas y que suene un delicioso chisporroteo
 - Las distintas zonas de juego incluyen un horno con un molde para tartas, una freidora, una sandwichera y un molde para verduras
 - Rellena el molde para tartas con masa y presiónalo para ver cómo sube; a continuación, colócalo en el horno y sube la palanca para que suene el timbre; ¡El postre está listo!
 
