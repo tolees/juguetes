@@ -31,7 +31,7 @@ Ahora mismo tienes [Disney 101 Dalmatian Street Casita del árbol de Dylan con a
 - Descubre artilugios geniales como peldaños que se convierten en un tobogán y en una trampilla secreta
 - Incluye las figuras de Dylan y Dolly (7 cm), casa de juegos (39 cm) y 10 accesorios extraíbles. ​
 - ¡Sumérgete en la energética diversión de 101 Dalmatian Street de Disney con Dylan, Dolly y este conjunto de juego de la casita del árbol
-- Los fans podrán girar los accesorios inspirados en la serie, como la nave espacial, el telescopio y la cama elástica, entre otros. ​
 - ¡Incluye una nave espacial giratoria con lanzador automático Da vueltas y vueltas y, con solo apretar un botón, ¡catapulta a Dylan en el aire ​
+- Los fans podrán girar los accesorios inspirados en la serie, como la nave espacial, el telescopio y la cama elástica, entre otros. ​
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SKBQC7F/?tag=tolees-21)
