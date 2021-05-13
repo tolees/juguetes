@@ -29,11 +29,11 @@ Tienes [LEGO 10944 Duplo Misión de la Lanzadera Espacial Juguete de Construcci�
 🔎:
 
 - ¡Un premio de otro mundo para tu bebé! Esta lanzadera espacial de juguete es el regalo adecuado para preescolares a partir de 2 años por su cumpleaños, por Navidad o para las vacaciones
-- Mide aproximadamente 20 cm de altura, 15 cm de anchura y 9 cm de profundidad; El juego puede organizarse de muchas maneras distintas y combinarse fácilmente con otros juguetes Mi Ciudad LEGO DUPLO
 - Contiene figuras de un astronauta y una astronauta, una lanzadera espacial construible con fuselaje que se abre y ruedas que giran, una escalera móvil y un buggy con ruedas y radar giratorio en la parte superior
-- Las instrucciones de construcción incluyen una divertida historia en imágenes en la que intervienen las maquetas del set y que aporta un elemento más de disfrute a la construcción creativa y el juego imaginativo
+- Mide aproximadamente 20 cm de altura, 15 cm de anchura y 9 cm de profundidad; El juego puede organizarse de muchas maneras distintas y combinarse fácilmente con otros juguetes Mi Ciudad LEGO DUPLO
 - Este versátil juego fomenta el desarrollo físico y mental e inspirará la interpretación de un sinfín de imaginativas aventuras
-- Dale un capricho a tu pequeño astronauta con el set Mi Ciudad LEGO DUPLO Misión de la Lanzadera Espacial (10944)
+- Las instrucciones de construcción incluyen una divertida historia en imágenes en la que intervienen las maquetas del set y que aporta un elemento más de disfrute a la construcción creativa y el juego imaginativo
 - Los niños desarrollarán su pensamiento cognitivo, percepción espacial y habilidades motrices finas mientras exploran un universo infinito de juegos de final flexible
+- Dale un capricho a tu pequeño astronauta con el set Mi Ciudad LEGO DUPLO Misión de la Lanzadera Espacial (10944)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GQ169NG/?tag=tolees-21)
