@@ -28,9 +28,9 @@ Ahora mismo tienes [Blox - 500 bloques a granel  color rojo  Simba 4118922    co
 
 🔎:
 
-- Tamaño 4x2
 - Caja a granel con 500 piezas
-- Bloque de construcción de plástico
+- Tamaño 4x2
 - Medida 3,2 x 1,6 x 1,2 cm
+- Bloque de construcción de plástico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C2YBEY2/?tag=tolees-21)
