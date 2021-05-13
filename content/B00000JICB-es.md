@@ -28,8 +28,8 @@ Tienes [Bizak - Tomy - Pop-up Pirate  3069/7028 ](https://www.amazon.es/dp/B0000
 
 ℹ️:
 
-- Apto para 2-4 jugadores
 - Incluye barril con mecanismo de expulsión, 24 espadas (6 de cada color)
 - Pop -Up Pírate es un tonel con un pirata particularmente cosquilloso
+- Apto para 2-4 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00000JICB/?tag=tolees-21)
