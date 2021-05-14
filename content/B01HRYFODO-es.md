@@ -28,13 +28,13 @@ Está [Thrustmaster T300RS GT Volante y 3 Pedales PS4 y PC REALSIMULATOR Force F
 
 ℹ️:
 
-- Tecnología magnética H.E.A.R.T patentada: vida útil del producto ilimitada y precisión óptima
-- Funciona con juegos de PS5
-- Rápido motor brushless: casi 25 vatios de potencia para lograr un Force Feedback realista y sensible
-- Sistema de correa doble para sesiones de juego fluidas sin zonas muertas
 - Sistema de cambio de volante rápido y sencillo: disfruta de diferentes estilos de conducción
-- Compatible con la palanca de cambios Thrustmaster TH8A y la palanca de cambios secuencial, freno de mano progresivo TSS Handbrake (se venden por separado)
+- Rápido motor brushless: casi 25 vatios de potencia para lograr un Force Feedback realista y sensible
 - Incluye un juego de 3 pedales T3PAGT, y es compatible con el juego de pedales T-LCM Pedals (se vende por separado)
 - Producto con licencia oficial de PlayStation y Gran Turismo, compatible con PS4 y PC
+- Tecnología magnética H.E.A.R.T patentada: vida útil del producto ilimitada y precisión óptima
+- Sistema de correa doble para sesiones de juego fluidas sin zonas muertas
+- Compatible con la palanca de cambios Thrustmaster TH8A y la palanca de cambios secuencial, freno de mano progresivo TSS Handbrake (se venden por separado)
+- Funciona con juegos de PS5
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HRYFODO/?tag=tolees-21)
