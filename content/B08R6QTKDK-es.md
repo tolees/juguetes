@@ -28,10 +28,10 @@ Está [Pawhut Árbol Rascador para Gatos con Hamaca Plataformas Juguetes Colgant
 
 ℹ️:
 
-- ✅MEDIDAS TOTALES: 80x55x122 cm (LxANxAL); Medidas de la cueva: Φ30x26 cm (DiámxAL); Medidas del cesto: Φ30 cm; Recomendado para gatos de menos de 5 kg de peso
+- ✅TODO EN UNO: Centro de actividades para gatos de varias alturas con postes de rascado de cuerda de sisal, plataformas, cesta, cueva espaciosa, tabla rascadora de yute y juguetes colgantes que proporcionan una zona ideal tanto para jugar cómo para descansar y relajarse
 - ✅CÓMODO: Este árbol rascador para gatos esta recubierto d suave terciopelo, suave, cómo y agradable al tacto, lo que lo convierte en la zona de descanso perfecta para tus amigos peludos
+- ✅MEDIDAS TOTALES: 80x55x122 cm (LxANxAL); Medidas de la cueva: Φ30x26 cm (DiámxAL); Medidas del cesto: Φ30 cm; Recomendado para gatos de menos de 5 kg de peso
 - ✅RESISTENTE Y SEGURO: Hecho de tablero de madera aglomerado, es resistente y proporciona firmeza al rascador. Apto para mascotas, todos los materiales empleados en su construcción son innocuos y no tóxicos
 - ✅PROTEGE TUS MUEBLES: Gracias a los múltiples postes de rascado de cuerda de sisal, tus gatos tendrán espacio suficiente para afilar sus garras. De este modo, no tendrán necesidad de recorrer a los muebles para ello
-- ✅TODO EN UNO: Centro de actividades para gatos de varias alturas con postes de rascado de cuerda de sisal, plataformas, cesta, cueva espaciosa, tabla rascadora de yute y juguetes colgantes que proporcionan una zona ideal tanto para jugar cómo para descansar y relajarse
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R6QTKDK/?tag=tolees-21)

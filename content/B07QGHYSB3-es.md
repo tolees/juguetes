@@ -28,8 +28,8 @@ En este momento está [Falomir- Piedra  Papel o Tijera Juego de Mesa  Multicolor
 
 🔎:
 
+- Consigue el mayor número de tarjetas
 - Un juego de acción rápida
 - Saca piedra papel o tijera y gana a yu oponente
-- Consigue el mayor número de tarjetas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QGHYSB3/?tag=tolees-21)

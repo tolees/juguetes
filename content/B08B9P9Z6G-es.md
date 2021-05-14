@@ -28,12 +28,12 @@ Está [Asmodee- Dixit 6 – Extensión de Memories Juego de Mesa  Libellud DIX08
 
 ℹ️:
 
-- Tiempo de juego: 30 minutos
 - Dixit es un juego para todos que apuesta por la imaginación y la intuición con tarjetas ilustradas hermosamente
-- Dixit 6: Memories es un paquete de cartas adicionales que complementa las cartas del juego básico DIXIT o del juego básico DIXIT ODYSSEY
 - A partir de 8 años
-- De 3 a 6 jugadores
+- Tiempo de juego: 30 minutos
 - Las ilustraciones se muestran Su punto común: una frase enigmática. Pero atención: una sola de las imágenes ilustra esta frase. Para encontrar la imagen clave, déjate llevar por sus ideas. Un galardonado juego en todo el mundo
 - 84 cartas ilustradas por Carine Hinder y Jerôme Perlissier
+- Dixit 6: Memories es un paquete de cartas adicionales que complementa las cartas del juego básico DIXIT o del juego básico DIXIT ODYSSEY
+- De 3 a 6 jugadores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B9P9Z6G/?tag=tolees-21)
