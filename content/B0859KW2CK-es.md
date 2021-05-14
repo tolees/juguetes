@@ -29,8 +29,8 @@ Ahora mismo tienes [Pinypon- Cabecita sorpresa Glitter rosa y figura lila  Famos
 🔎:
 
 - Una experiencia de unboxing y un mini contenedor con compartimentos y un asa para llevarlo a todas parte
-- Cada cabecita contiene una figura: en este caso una lila
 - Las Cabecitas Sorpresas están decoradas con purpurina
 - El mini contenedor viene en color rosa cubierto de purpurina
+- Cada cabecita contiene una figura: en este caso una lila
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0859KW2CK/?tag=tolees-21)
