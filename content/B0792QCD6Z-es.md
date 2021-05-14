@@ -1,41 +1,37 @@
 ---
 layout: post
-title: 'LEGO STAR WARS Imperial AT-Hauler al 21.74 % de descuento'
-date: 2021-05-12 22:10:15
+title: 'LEGO STAR WARS - Lego 75219 Star Wars TM al 21.74 % de descuento'
+date: 2021-05-14 16:25:11
 image: 'https://m.media-amazon.com/images/I/51qnRkoh0kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0792QCD6Z-es LEGO STAR WARS Imperial AT-Hauler'
+slug: 'B0792QCD6Z-es LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-...'
 sku: 'B0792QCD6Z-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego','lego star wars', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99
 comparePrice: 114.99 EUR
-prodname: 'LEGO STAR WARS Imperial AT-Hauler'
+prodname: 'LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuado por Fabricante '
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21'
 descuento: '21.74'
-average: '84.1087640449439'
+average: '84.130708955224'
 ---
 
-Está [LEGO STAR WARS Imperial AT-Hauler](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) con 21.74 de descuento por 89.99 EUR (original: 114.99 EUR) en el siguiente enlace!
+Está [LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuado por Fabricante ](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) con 21.74 de descuento por 89.99 EUR (original: 114.99 EUR) en el siguiente enlace!
 
-[![LEGO STAR WARS Imperial AT-Hauler](https://m.media-amazon.com/images/I/51qnRkoh0kL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
+[![LEGO STAR WARS - Lego 75219 Star Wars TM](https://m.media-amazon.com/images/I/51qnRkoh0kL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
 
 ℹ️:
 
-- Incluye un contenedor de mercancía para construir que se abre, equ ipad o con una viga de izado
 - Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
-- Incluye 5 minifiguras lego : qira, val, rio durant y 2 guardias de dryden
-- Recrea las emocionantes escenas de Han Solo: a Star Wars Story
-- El imperial at-hauler mide más de 12 cm de altura, 32 cm de longitud y 21 cm de ancho
-- Gira los brazos de elevación para pasar a los modos de aterrizaje o vuelo
-- Carga el contenedor, engánchalo y levántalo para transportarlo
-- Combínalo con los sets cloud-rider swoop bikes (75215) e imperial conveyex transport (75217), y organiza el asalto ferroviario definitivo a toda velocidad
-- Armas incluidas: 2 blásteres, 3 pistolas bláster y 4 rifles bláster en un bastidor dentro del contenedor
+- Número de piezas: 829
+- Imperial AT-Hauler
+- Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
+- Edad recomendada por el fabricante: 9-14
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
