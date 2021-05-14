@@ -28,8 +28,8 @@ Está [LEGO STAR WARS - Chirrut Îmwe  75524 ](https://www.amazon.es/dp/B01J41KZ
 
 ℹ️:
 
-- Cuenta con ballesta plegable con cañón automático
-- Equipada con túnica de tela y elementos decorados
 - Es perfecta para reproducir las emocionantes escenas del éxito cinematográfico Star Wars: Rogue One
+- Equipada con túnica de tela y elementos decorados
+- Cuenta con ballesta plegable con cañón automático
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J41KZBO/?tag=tolees-21)
