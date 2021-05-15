@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.79 % en Bizak - Tomy - Pop-up Pirate  3069/7028 '
-date: 2021-05-13 18:40:29
+date: 2021-05-14 23:24:36
 image: 'https://m.media-amazon.com/images/I/41xnuh8BX3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bizak'
 buyurl: 'https://www.amazon.es/dp/B00000JICB/?tag=tolees-21'
 descuento: '40.79'
-average: '13.915'
+average: '12.63'
 ---
 
 Tienes [Bizak - Tomy - Pop-up Pirate  3069/7028 ](https://www.amazon.es/dp/B00000JICB/?tag=tolees-21) con un 40.79 % de descuento con precio de oferta de 10.06 EUR (original: 16.99 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [Bizak - Tomy - Pop-up Pirate  3069/7028 ](https://www.amazon.es/dp/B0000
 ℹ️:
 
 - Incluye barril con mecanismo de expulsión, 24 espadas (6 de cada color)
-- Pop -Up Pírate es un tonel con un pirata particularmente cosquilloso
 - Apto para 2-4 jugadores
+- Pop -Up Pírate es un tonel con un pirata particularmente cosquilloso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00000JICB/?tag=tolees-21)
