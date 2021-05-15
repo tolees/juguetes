@@ -28,10 +28,10 @@ Está [Disney- Frozen 2 Elsa Ola Mágica  Hasbro E8569EU4    color/modelo surtid
 
 ℹ️:
 
-- VESTIDO INSPIRADO EN FROZEN 2 DE DISNEY: La muñeca a la moda de Elsa usa un vestido azul pálido inspirado en la película con acentos brillantes blancos y azules
-- SE INCLUYEN LAS PILAS: Las niñas pueden comenzar a jugar con su muñeca de Elsa nada más sacarla de la caja (También incluye instrucciones)
 - MUÑECA DE ELSA CON LUCES Y SONIDOS: El brazo de la muñeca Elsa, descubrimiento mágico, se ilumina y la muñeca emite sonidos mágicos inspirados en los copos de nieve
-- BRAZO BRILLANTE Y ACCESORIO DE COPO DE NIEVE: Adhiere el accesorio de copo de nieve en la muñeca de Elsa, levanta su brazo y este brillará en blanco y azul para iluminar el accesorio
+- VESTIDO INSPIRADO EN FROZEN 2 DE DISNEY: La muñeca a la moda de Elsa usa un vestido azul pálido inspirado en la película con acentos brillantes blancos y azules
 - 4 MODOS DE JUEGO: Las niñas pueden levantar y bajar el brazo de Elsa para activar los 4 patrones diferentes de sonidos y luces
+- SE INCLUYEN LAS PILAS: Las niñas pueden comenzar a jugar con su muñeca de Elsa nada más sacarla de la caja (También incluye instrucciones)
+- BRAZO BRILLANTE Y ACCESORIO DE COPO DE NIEVE: Adhiere el accesorio de copo de nieve en la muñeca de Elsa, levanta su brazo y este brillará en blanco y azul para iluminar el accesorio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZYC1LFZ/?tag=tolees-21)
