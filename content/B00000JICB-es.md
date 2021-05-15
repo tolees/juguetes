@@ -28,8 +28,8 @@ Tienes [Bizak - Tomy - Pop-up Pirate  3069/7028 ](https://www.amazon.es/dp/B0000
 
 ℹ️:
 
+- Pop -Up Pírate es un tonel con un pirata particularmente cosquilloso
 - Incluye barril con mecanismo de expulsión, 24 espadas (6 de cada color)
 - Apto para 2-4 jugadores
-- Pop -Up Pírate es un tonel con un pirata particularmente cosquilloso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00000JICB/?tag=tolees-21)
