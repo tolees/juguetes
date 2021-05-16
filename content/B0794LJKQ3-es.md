@@ -28,9 +28,9 @@ En este momento está [Flotador Unicornio Bestway](https://www.amazon.es/dp/B079
 
 🔎:
 
-- Se infla y desinfla de forma rápida y sencilla gracias a su válvula de seguridad
-- Tiene unas medidas de 136x131 cm indicado para una sola persona
 - Está fabricado con vinilo resistente probado
+- Tiene unas medidas de 136x131 cm indicado para una sola persona
+- Se infla y desinfla de forma rápida y sencilla gracias a su válvula de seguridad
 - Cuenta con asiento cómodo y asas agarraderas
 - Se infla y desinfla de forma rápida y sencilla gracias a su válvula de seguridad
 
