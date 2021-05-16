@@ -29,9 +29,9 @@ Ahora mismo tienes [Educa - Dame Esos Cinco Juego de Mesa para Niños  Multicolo
 🔎:
 
 - Existen dos tipos de tarjetas: fáciles y difíciles para que puedas alternarlas si juegas en familia
-- La mano se moverá y hablará para indicar el tiempo de que disponéis para dar las respuestas
 - Una pregunta, cinco respuestas; serás capaz de dar 5 respuestas correctas antes de que acabe el tiempo choca esos 5 y que empiece la acción
-- Recomendado a partir de 6 años
 - Un divertidísimo juego para toda la familia; gana el más rápido
+- Recomendado a partir de 6 años
+- La mano se moverá y hablará para indicar el tiempo de que disponéis para dar las respuestas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D7PMYFN/?tag=tolees-21)
