@@ -28,8 +28,8 @@ Ahora mismo tienes [VTech - Primeras canciones  libro interactivo para bebé +6 
 
 🔎:
 
+- 5 botones de colores con forma de teclas de piano para descubrir algunos instrumentos musicales y sus sonidos
 - 6 melodías y 6 canciones
 - Libro musical con 6 canciones populares
-- 5 botones de colores con forma de teclas de piano para descubrir algunos instrumentos musicales y sus sonidos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00UZFU7V2/?tag=tolees-21)
