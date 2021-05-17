@@ -29,10 +29,10 @@ Ahora mismo tienes [VTech multiaventura  Tablet para niños +2 años  Tablero In
 🔎:
 
 - Con sensor para identificar los dos lado de juego: horizontal para el tablero y vertical para el libro.
+- Versión española
 - En el otro lado es un Tablero interactivo con imágenes para presionar y responder a diferentes preguntas.
 - Un botón con luz para escuchar canciones y frases. Para aprender palabras colores y formas geométricas.
 - Tablero con dos caras interactivas con funciones diferentes. Utilízalo como si fuera un tradicional libro o un moderno tablet multimedia simplemente con cambiar la orientación.
-- Versión española
 - Por un lado tiene el modo de Cuentos con páginas ilustradas donde descubre diferentes actividades y aprendizaje.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087DQLWHR/?tag=tolees-21)

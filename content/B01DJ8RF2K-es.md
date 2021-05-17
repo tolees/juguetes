@@ -28,9 +28,9 @@ Ahora mismo tienes [Educa Borrás Soy Luna - Juego de Mesa 16790](https://www.am
 
 🔎:
 
-- El juego se compone de 1 tablero de juego, 6 fichas de cartón más 6 peanas, 1 dado, 2 fichas de cartón redondas
 - Juego de mesa en el que los jugadores y jugadoras podrán vivir las aventuras del universo Soy Luna
 - 95 tarjetas de preguntas y pruebas, 1 reloj de arena, instrucciones de juego
 - A partir de 7 años
+- El juego se compone de 1 tablero de juego, 6 fichas de cartón más 6 peanas, 1 dado, 2 fichas de cartón redondas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DJ8RF2K/?tag=tolees-21)
