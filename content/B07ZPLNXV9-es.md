@@ -31,7 +31,7 @@ Tienes [Disney Frozen 2 Figuras Elsa Y Nokk Acuáticos  Hasbro E67165L0](https:/
 - Coleccione otros juguetes de Frozen 2 de Disney, incluidos la muñeca de Anna y el muñeco de Olaf, para ampliar la colección de muñecos de su hija. Se venden por separado. Sujeto a disponibilidad
 - La muñeca de Elsa lleva un majestuoso vestido azul claro inspirado en la película Frozen 2 de Disney
 - Incluye muñeca de Elsa y muñeco de Nokk de agua que camina sobre tierra y nada en agua; camina mejor en superficies planas y duras
-- Nokk, inspirado en el mítico espíritu del agua en Frozen 2 de Disney, el Nokk de agua tiene un hermoso color azul y blanco
 - Elsa encaja en el lomo de Nokk para que las niñas imaginen épicas aventuras juntas
+- Nokk, inspirado en el mítico espíritu del agua en Frozen 2 de Disney, el Nokk de agua tiene un hermoso color azul y blanco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZPLNXV9/?tag=tolees-21)

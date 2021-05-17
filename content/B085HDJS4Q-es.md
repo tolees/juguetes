@@ -28,10 +28,10 @@ Tienes [Banpresto- Q Posket  Bandai BP16388 ](https://www.amazon.es/dp/B085HDJS4
 
 🔎:
 
-- Onpu Sengawa
+- Licencia Oficial
 - Incluye accesorios
+- Onpu Sengawa
 - Caja ilustrada
 - Magical Doremi
-- Licencia Oficial
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085HDJS4Q/?tag=tolees-21)
