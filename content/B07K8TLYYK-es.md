@@ -28,7 +28,7 @@ En este momento está [Cocktail Games - Asmodee ADECGPI0001 Juego de Mesa  Multi
 
 🔎:
 
-- Juego de mesa
 - Juego de tablero
+- Juego de mesa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K8TLYYK/?tag=tolees-21)
