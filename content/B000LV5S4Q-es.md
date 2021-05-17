@@ -28,10 +28,10 @@ Tienes [Founier-Los Angeles Juego de Mesa  Color Morado  Naipes Heraclio Fournie
 
 🔎:
 
-- Baraja Tarot
-- 22 arcanos mayores y 56 menores
 - Baraja Colección
+- 22 arcanos mayores y 56 menores
 - 78 cartas
 - Librillo instrucciones en 4 idiomas
+- Baraja Tarot
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000LV5S4Q/?tag=tolees-21)
