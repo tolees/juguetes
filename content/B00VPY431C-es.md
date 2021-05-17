@@ -28,10 +28,10 @@ Está [Playset Casa del Oso de Masha y el Oso con 2 figuras y accesorios  Simba 
 
 ℹ️:
 
-- Oso puede sentarse en el sillón para ver la tele mientras masha busca algo de comer en la nevera; después de comer oso puede coger las bolas y mazas de malabarismo que se encuentran en el cofre mágico
-- Abre la puerta de la casa y accede al interior de la casa de oso, donde encontrarás la nevera, cocina, panera, sillón, mesa, alimentos, televisión y chimenea;
 - La pequeña Masha siempre vive emocionantes aventuras en la casa del oso; Completo playset de juguete que incluye una réplica de la casa de Oso, 2 figuras (Masha y Oso) y múltiples accesorios
+- Oso puede sentarse en el sillón para ver la tele mientras masha busca algo de comer en la nevera; después de comer oso puede coger las bolas y mazas de malabarismo que se encuentran en el cofre mágico
 - La casa del oso es plegable, mide 20x15 cm y es una réplica de la casa que aparece en la famosa serie de televisión
 - Este juguete de simba es adecuado para niños y niñas a partir de 3 años de edad
+- Abre la puerta de la casa y accede al interior de la casa de oso, donde encontrarás la nevera, cocina, panera, sillón, mesa, alimentos, televisión y chimenea;
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00VPY431C/?tag=tolees-21)
