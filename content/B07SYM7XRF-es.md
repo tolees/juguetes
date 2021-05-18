@@ -28,9 +28,9 @@ Ahora mismo tienes [Ubisoft Spain - Immortals Fenyx Rising PS4](https://www.amaz
 
 🔎:
 
-- Enfrentate a bestias mitologicas
-- Supera pruebas heroicas
 - Esplora un estilizado mundo abierto
+- Enfrentate a bestias mitologicas
 - Controla el poder de los dioses
+- Supera pruebas heroicas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SYM7XRF/?tag=tolees-21)
