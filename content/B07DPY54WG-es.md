@@ -28,10 +28,10 @@ Tienes [Nintendo - Fire Emblem: Three Houses](https://www.amazon.es/dp/B07DPY54W
 
 🔎:
 
-- Three Houses se desarrolla en Fódlan, donde la Iglesia de Seiros detenta gran poder sobre la tierra y sus gentes
-- Asumirás el papel del personaje principal y deberás luchar en el campo de batalla, aunque también podrás moverte libremente e interactuar con otros personajes
-- Tres naciones; tres casas; una aventura única
 - Las Águilas Negras, los Leones Azules y los Ciervos Dorados: estas tres casas forman parte de la Academia de Oficiales, una institución de élite en la que los estudiantes se entrenan en el manejo de las armas
+- Three Houses se desarrolla en Fódlan, donde la Iglesia de Seiros detenta gran poder sobre la tierra y sus gentes
+- Tres naciones; tres casas; una aventura única
+- Asumirás el papel del personaje principal y deberás luchar en el campo de batalla, aunque también podrás moverte libremente e interactuar con otros personajes
 - Las casas acogen a una amplia variedad de estudiantes, cada uno con su propia personalidad y habilidades diferentes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DPY54WG/?tag=tolees-21)
