@@ -28,10 +28,10 @@ Ahora mismo tienes [Playskool - Luci Musical Azul  Hasbro A1203F02 ](https://www
 
 🔎:
 
-- Un simple abrazo activa melodías relajantes y una suave luz
 - Reproduce hasta 6 melodías o 10 minutos de música
+- Un simple abrazo activa melodías relajantes y una suave luz
+- El amigo Luci-Musical clásico es un juguete adorable para bebés a la hora de dormir
 - Incentiva la estimulación sensorial y la comprensión de la relación causa-efecto
 - Elige entre 3 modos: reproducción corta, reproducción larga o solo luz
-- El amigo Luci-Musical clásico es un juguete adorable para bebés a la hora de dormir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084PN2PZY/?tag=tolees-21)
