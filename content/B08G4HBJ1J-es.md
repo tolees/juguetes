@@ -28,15 +28,15 @@ Está [LEGO 71736 Ninjago Legacy Destructor de Roca  Avión de Juguete�
 
 ℹ️:
 
-- Los ladrillos para construir LEGO cumplen las normas de seguridad más exigentes del mundo: con los juegos LEGO, tu peque está en buenas manos.
 - El juguete de combate ninja mide aproximadamente 12 cm de altura, 28 cm de longitud y 25 cm de anchura: el tamaño perfecto para jugar con él en casa o para llevarlo en la mochila y divertirse en cualquier lugar.
-- LEGO NINJAGO cuenta con una fascinante colección de juguetes y minifiguras construibles que estarán los primeros en la lista de deseos de los peques: ¡les permitirán imaginarse que son sus héroes ninja!
+- Encuentra más minifiguras doradas especiales coleccionables en estos otros sets NINJAGO: Torneo de los Elementos (71735), Deportivo Ninja X-1 (71737) y Combate en el Titán Robot de Zane (71738).
 - El set LEGO NINJAGO Destructor de Roca (71736), un juego Legacy moderno y renovado, contiene un avión que dispara superalucinante y una prisión ninja para proporcionar a los peques una experiencia de juego repleta de acción.
-- Incluye una minifigura dorada especial de Kai Legacy coleccionable con una pequeña base para celebrar el 10 aniversario de los juguetes NINJAGO.
 - Desde hace más de seis décadas, los ladrillos LEGO se fabrican con materiales de máxima calidad para garantizar que siempre se separen fácilmente. ¡No te hará falta usar tus habilidades ninja!
 - Incluye 4 minifiguras (los ninja Cole, Lloyd y Kai Legacy, y el malvado Eyezor) para recrear las escenas de la temporada 4 de la serie para televisión LEGO NINJAGO.
-- Encuentra más minifiguras doradas especiales coleccionables en estos otros sets NINJAGO: Torneo de los Elementos (71735), Deportivo Ninja X-1 (71737) y Combate en el Titán Robot de Zane (71738).
 - Los niños se lo pasarán genial disparando una rápida ráfaga de 8 misiles desde el morro giratorio del avión ninja hacia los enemigos o hacia la prisión para liberar al ninja capturado.
 - Este asombroso juguete propone a los niños mayores de 8 años una gratificante tarea de construcción y será un regalo de cumpleaños o Navidad genial para fans de NINJAGO.
+- Los ladrillos para construir LEGO cumplen las normas de seguridad más exigentes del mundo: con los juegos LEGO, tu peque está en buenas manos.
+- Incluye una minifigura dorada especial de Kai Legacy coleccionable con una pequeña base para celebrar el 10 aniversario de los juguetes NINJAGO.
+- LEGO NINJAGO cuenta con una fascinante colección de juguetes y minifiguras construibles que estarán los primeros en la lista de deseos de los peques: ¡les permitirán imaginarse que son sus héroes ninja!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G4HBJ1J/?tag=tolees-21)
