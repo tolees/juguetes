@@ -28,9 +28,9 @@ Ahora mismo tienes [Monopoly- Gamer Mario Kart  Versión Española   Multicolor 
 
 🔎:
 
+- Haz una carrera contra tus adversarios cuando pases por la casilla de Salida
 - Aterriza en una casilla Panel de velocidad para moverte más rápido por el tablero
 - El dado “más poder” aumenta los poderes de los personajes
-- Haz una carrera contra tus adversarios cuando pases por la casilla de Salida
 - Lanza pieles de plátano y consigue monedas para ganar puntos
 - Monopoly - Gamer Mario Kart (Hasbro E1870105)
 
