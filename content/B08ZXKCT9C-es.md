@@ -30,8 +30,8 @@ Tienes [Outsunny Juego de Mesa y 2 Bancos para Niños Mesa de Picnic Infantil de
 
 - ✅MEDIDAS TOTALES: 94x89x50,5 cm (LxANxAL); Medidas de la mesa: 94x43x1,5 cm (LxANxAL). Altura del asiento: 28 cm; Recomendado a partir de 3 años
 - ✅INCLUYE ACCESORIOS: Este bonito conjunto de jardín incluye accesorios para hacer aún más realista el juego. Incluye 2 platos, 1 tabla de cortar, 1 pimiento rojo, 1 fresa, 1 limón, 1 pimiento verde, 1 maíz, 1 zanahoria y 1 cuchillo de cocina además del fregadero y el arenero
-- ✅MESA DE PICNIC CON JUEGOS: Esta bonita mesa de picnic infantil cuenta con una zona de juegos en la encimera. En uno de los lados se encuentra una bandeja con tapa para usar a modo de arenero y en la otra, un fregadero extraíble
 - ✅FREGADERO CON GRIFO REALISTA: El fregadero extraíble de este conjunto tiene un grifo con sistema circulatorio de agua para que cuando los niños aprieten el botón les salga agua. Disfrutando así de un juego con mayor realismo y diversión
 - ✅PARA EXTERIOR: Perfecto para tener en el jardín, patio o terraza y que los niños puedan disfrutar del buen tiempo mientras juegan al aire libre
+- ✅MESA DE PICNIC CON JUEGOS: Esta bonita mesa de picnic infantil cuenta con una zona de juegos en la encimera. En uno de los lados se encuentra una bandeja con tapa para usar a modo de arenero y en la otra, un fregadero extraíble
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZXKCT9C/?tag=tolees-21)
