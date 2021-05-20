@@ -28,10 +28,10 @@ Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot 
 
 🔎:
 
-- Mapa del Hub
+- Season Pass
 - Steelbook
+- Mapa del Hub
 - Libro de Arte
 - Diorama exclusivo (20x20x20)
-- Season Pass
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XTMNMFC/?tag=tolees-21)
