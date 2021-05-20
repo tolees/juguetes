@@ -30,9 +30,9 @@ Ahora mismo tienes [Marvel Spiderman - Hasbro - Figura Ultimate Spider-Man  30 c
 
 - Caja que contiene una figura de acción grande
 - Mide 30 cm
-- 5 puntos de articulación
 - Serie Titan
-- Figura articulada con movimiento
 - Cuenta con 5 puntos de articulación
+- 5 puntos de articulación
+- Figura articulada con movimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009NFE2QQ/?tag=tolees-21)
