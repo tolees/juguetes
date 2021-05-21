@@ -29,9 +29,9 @@ Ahora mismo tienes [Disney- Frozen 2 Salamandra  Hasbro E85685L0    color/modelo
 🔎:
 
 - COLECCIONA OTROS JUGUETES DE FROZEN: Colecciona otros juguetes de Frozen, incluidas las muñecas de Elsa y Anna, para ampliar tu colección de muñecas Disney
-- CAMBIA DE COLOR: Presiona la cabeza de Bruni para cambiar el color a azul relajante
-- LEVANTA SU BARBILLA: Levanta la barbilla de la figura para activar la luz rosa candente que refleja su fogosa actitud de la película de Frozen
 - DALE DE COMER UN COPO DE NIEVE: Se incluyen 3 accesorios de copo de nieve para que los niños puedan alimentar a la figura con un aperitivo helado
 - JUGUETE SALAMANDRA CON LUCES: Este juguete Disney Frozen hace brillar dos colores diferentes; rosa y azul
+- CAMBIA DE COLOR: Presiona la cabeza de Bruni para cambiar el color a azul relajante
+- LEVANTA SU BARBILLA: Levanta la barbilla de la figura para activar la luz rosa candente que refleja su fogosa actitud de la película de Frozen
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VYFMVJF/?tag=tolees-21)
