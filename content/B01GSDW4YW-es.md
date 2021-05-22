@@ -30,8 +30,8 @@ Tienes [IMC Toys – Peke Baby Emma  95212 ](https://www.amazon.es/dp/B01GSDW4YW
 
 - Mueve la boca y la cabeza
 - Emma es el primer bebé que aprende a hablar como un peque de verdad
-- Aprende en 3 fases hablando palabras cada vez más difíciles
 - Cuánto más hables con ella, más rápido aprenderá
 - Viene con más de 150 palabras y frases
+- Aprende en 3 fases hablando palabras cada vez más difíciles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01GSDW4YW/?tag=tolees-21)
