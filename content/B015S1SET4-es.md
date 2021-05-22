@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego de Tronos Monopoly  82905   Multic al 25.03 % de rebaja'
-date: 2021-05-09 12:59:53
+date: 2021-05-22 09:25:44
 image: 'https://m.media-amazon.com/images/I/51O+uWilVDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Juego de Tronos'
 buyurl: 'https://www.amazon.es/dp/B015S1SET4/?tag=tolees-21'
 descuento: '25.03'
-average: '27.3469444444445'
+average: '27.4172972972974'
 ---
 
 Tienes [Juego de Tronos Monopoly  82905   Multicolor  Eleven Force](https://www.amazon.es/dp/B015S1SET4/?tag=tolees-21) con precio final de  29.95 EUR (original: 39.95 EUR) (25.03 %  de rebaja) aqui!
