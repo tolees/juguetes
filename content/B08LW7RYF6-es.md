@@ -29,10 +29,10 @@ Está [Mattel Games Scrabble Harry Potter Juego de Mesa en Castellano  3.6 x 40.
 ℹ️:
 
 - Incluye tablero, 4 atriles, fichas con letras y 36 cartas
-- Juego de mesa Scrabble, que celebra el mundo de Harry Potter y sus amigos
-- Regalo óptimo para niños a partir de 6 años y adultos coleccionistas de artículos de harry potter
-- Incluye un glosario de palabras mágicas del universo de Harry Potter
-- Harry potter - muñeco para niños y adultos coleccionable de la saga de películas de harry potter, para verdaderos fans: incluye uniforme de hogwarts, toga de gryffindor y varita mágica
 - Regalo original para fans de harry potter
+- Juego de mesa Scrabble, que celebra el mundo de Harry Potter y sus amigos
+- Incluye un glosario de palabras mágicas del universo de Harry Potter
+- Regalo óptimo para niños a partir de 6 años y adultos coleccionistas de artículos de harry potter
+- Harry potter - muñeco para niños y adultos coleccionable de la saga de películas de harry potter, para verdaderos fans: incluye uniforme de hogwarts, toga de gryffindor y varita mágica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LW7RYF6/?tag=tolees-21)
