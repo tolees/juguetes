@@ -28,9 +28,9 @@ Ahora mismo tienes [Fantasy Flight Games Juego de Tronos - Vigilantes del Muro  
 
 🔎:
 
-- Durante siglos, los hermanos juramentados de la Guardia han renunciado a sus títulos y heredades para consagrar sus vidas al servicio del reino
-- Une tus fuerzas a la Guardia de la Noche en su lucha para defender Poniente
 - Numero de jugadores: 2
 - Entrego mi vida y mi honor a la Guardia de la Noche, durante esta noche y todas las que estén por venir
+- Durante siglos, los hermanos juramentados de la Guardia han renunciado a sus títulos y heredades para consagrar sus vidas al servicio del reino
+- Une tus fuerzas a la Guardia de la Noche en su lucha para defender Poniente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y2DTJTV/?tag=tolees-21)
