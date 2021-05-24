@@ -28,10 +28,10 @@ En este momento está [Giochi Preziosi Pinypon - Estación de policía con 2 Per
 
 🔎:
 
-- Tiene luces y alarmas sonoras; muchos entornos de juego: desde el laboratorio hasta la cueva del superhéroe, pero también muchas trampas para capturar los malvados
-- Incluye muchos accesorios
-- Incluye policía y ladrón de 7 cm de alto
 - La estación de policía de 3 pisos
 - Mix & Match, piezas y accesorios para el cuerpo extraíbles para crear una colección interminable
+- Tiene luces y alarmas sonoras; muchos entornos de juego: desde el laboratorio hasta la cueva del superhéroe, pero también muchas trampas para capturar los malvados
+- Incluye policía y ladrón de 7 cm de alto
+- Incluye muchos accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XH973WN/?tag=tolees-21)
