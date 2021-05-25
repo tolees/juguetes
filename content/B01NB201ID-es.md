@@ -28,10 +28,10 @@ Está [Asmodee - Ciudadelas Clásico  juego de mesa  Edge Entertainment EDGCTD01
 
 ℹ️:
 
-- La edad mínima recomendada es de 8 años
-- Es adecuado para 2-10 jugadores
-- Contiene 8 cartas de personaje, 68 cartas de distrito, 7 cartas de ayuda de juego, 1 ficha de corona y 30 fichas de monedas de oro
 - Luchas por ser el próximo Maestro Constructor del reino, pero antes debes impresionar a la nobleza con tu capacidad para el desarrollo de ciudades, con la ayuda de diversos personajes
 - El producto representa un juego de tablero
+- Es adecuado para 2-10 jugadores
+- Contiene 8 cartas de personaje, 68 cartas de distrito, 7 cartas de ayuda de juego, 1 ficha de corona y 30 fichas de monedas de oro
+- La edad mínima recomendada es de 8 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NB201ID/?tag=tolees-21)
