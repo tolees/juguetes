@@ -28,9 +28,9 @@ En este momento está [Devir- Código Secreto Juego de Mesa  Multicolor  única 
 
 🔎:
 
-- Duración: 15 minutos
 - Para mayores de 8 años
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
+- Duración: 15 minutos
 - De 2 a 8 jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B019M2EA3Y/?tag=tolees-21)
