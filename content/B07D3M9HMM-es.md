@@ -28,10 +28,10 @@ Tienes [Diset- Escape room the game 2 - Juego de mesa adulto a partir de 16 año
 
 🔎:
 
-- El producto necesita pilas, no vienen incluidas; el tipo de pilas que necesita son: 3xAA
 - El juego consta de 4 aventuras con distintos niveles de dificultad: Casino, Agente Secreto, Estación espacial y El dentista
-- Juego que simula un Escape Room de verdad; el objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
+- El producto necesita pilas, no vienen incluidas; el tipo de pilas que necesita son: 3xAA
 - Número de jugadores: de 3 a 5 personas
+- Juego que simula un Escape Room de verdad; el objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
 - Contenido: 4 aventuras + 1 introductoria (15mins), 16 llaves, decodificador de pistas, cronodecodificador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D3M9HMM/?tag=tolees-21)
