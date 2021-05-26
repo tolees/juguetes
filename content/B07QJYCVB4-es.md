@@ -28,10 +28,10 @@ Tienes [Monopoly - Voice Banking  Hasbro E4816SO0 ](https://www.amazon.es/dp/B07
 
 🔎:
 
-- El reconocimiento de voz llega a monopoly; en este juego de mesa electrónico, mr; monopoly es el banquero y gestiona el dinero de los jugadores con su sombrero
-- Olvídate del efectivo y las tarjetas; la unidad electrónica bancaria de mr; monopoly se ocupa de gestionar las finanzas, ya se trate de comprar propiedades, pagar o cobrar el alquiler, consultar saldos y mucho más
 - Habla, que mr; monopoly te escucha; pulsa el botón y verbaliza una orden como «pagar el alquiler de marvin gardens»; mr; monopoly responderá y transferirá el dinero a la cuenta de tu oponente
-- Juega más rápido; los jugadores aterrizan en una casilla de intercambio obligado y le indican a mr; monopoly qué propiedades quieren intercambiar; construye más rápido y consigue las casas y hoteles antes que nadie
+- El reconocimiento de voz llega a monopoly; en este juego de mesa electrónico, mr; monopoly es el banquero y gestiona el dinero de los jugadores con su sombrero
 - Diviértete en familia; el juego es para 2 a 4 jugadores (mayores de 8 años) y ofrece un plan genial para una noche de juegos en familia
+- Olvídate del efectivo y las tarjetas; la unidad electrónica bancaria de mr; monopoly se ocupa de gestionar las finanzas, ya se trate de comprar propiedades, pagar o cobrar el alquiler, consultar saldos y mucho más
+- Juega más rápido; los jugadores aterrizan en una casilla de intercambio obligado y le indican a mr; monopoly qué propiedades quieren intercambiar; construye más rápido y consigue las casas y hoteles antes que nadie
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QJYCVB4/?tag=tolees-21)
