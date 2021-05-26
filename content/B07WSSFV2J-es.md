@@ -28,10 +28,10 @@ Ahora mismo tienes [Hori - Pokémon Trainer Pack Pokéball  Nintendo Switch / Sw
 
 🔎:
 
-- Correa regulable
-- Bolsillo externo para almacenamiento extra
+- Espacio para una consola Switch y accesorios (mando, cable de alimentación, juegos, etc.)
 - Reverso almohadillado y perforado para una adecuada transpiración
 - Licencias oficiales de Nintendo y Pokémon
-- Espacio para una consola Switch y accesorios (mando, cable de alimentación, juegos, etc.)
+- Bolsillo externo para almacenamiento extra
+- Correa regulable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WSSFV2J/?tag=tolees-21)
