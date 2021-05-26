@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crazy pawn- Juego de Mesa Dentro del Lab al 37.12 % de descuento'
-date: 2021-05-25 06:14:35
+date: 2021-05-26 06:44:32
 image: 'https://m.media-amazon.com/images/I/61tB4VVSMhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crazy pawn'
 buyurl: 'https://www.amazon.es/dp/B077ZCHV7S/?tag=tolees-21'
 descuento: '37.12'
-average: '36.761'
+average: '36.2745454545455'
 ---
 
 Ahora mismo tienes [Crazy pawn- Juego de Mesa Dentro del Laberinto  Multicolor  8436564810168 ](https://www.amazon.es/dp/B077ZCHV7S/?tag=tolees-21) a 31.41 EUR (original: 49.95 EUR) (37.12 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Crazy pawn- Juego de Mesa Dentro del Laberinto  Multicolor  
 
 🔎:
 
-- Incluye 5 miniaturas que representan a los protagonistas de la serie, incluido david bowie
-- Recorre el laberinto del rey goblin y salva a toby antes de que se convierta en un bebé goblin
-- Juego familiar de reglas muy sencillas
 - Producto de licencia oficial
+- Juego familiar de reglas muy sencillas
+- Recorre el laberinto del rey goblin y salva a toby antes de que se convierta en un bebé goblin
+- Incluye 5 miniaturas que representan a los protagonistas de la serie, incluido david bowie
 - Totalmente en castellano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077ZCHV7S/?tag=tolees-21)
