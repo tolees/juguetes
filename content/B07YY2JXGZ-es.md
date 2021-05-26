@@ -28,7 +28,7 @@ Ahora mismo tienes [Sony CEE Games  New Gen  - Gran Turismo Sport PlayStation Hi
 
 🔎:
 
-- 3+
 - PS4
+- 3+
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YY2JXGZ/?tag=tolees-21)

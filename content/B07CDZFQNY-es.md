@@ -28,10 +28,10 @@ Ahora mismo tienes [Rising Star - Harvest Moon: La luz de la esperanza Edición 
 
 🔎:
 
-- Incluye una bolsa de tela única, una taza conmemorativa, pines ovales de metal exclusivos y una copia del juego, todo presentado en un elegante estuche en forma de granero
 - Característico y nostálgico nuevo estilo visual "retro plus"
+- Contiene todos los contenidos de la Edición Especial: juego cooperativo, un nuevo candidato casadero y contenido de la historia adicional
+- Incluye una bolsa de tela única, una taza conmemorativa, pines ovales de metal exclusivos y una copia del juego, todo presentado en un elegante estuche en forma de granero
 - Incluye el pase de temporada. Disfruta de los cuatro conjuntos de contenidos descargables tan pronto estén disponibles
 - Juega como chico o chica, cásate y forma una familia
-- Contiene todos los contenidos de la Edición Especial: juego cooperativo, un nuevo candidato casadero y contenido de la historia adicional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21)
