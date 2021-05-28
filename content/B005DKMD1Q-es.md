@@ -28,10 +28,10 @@ Está [Uvex Fahrradhelm Air Wing Casco de Bicicleta  Mujer  White-Pink  52-57 cm
 
 ℹ️:
 
-- Construcción ligera del casco con la máxima resistencia a los golpes gracias a que su carcasa está compuesta por dos capas inseparables: una interior de eps y otra exterior de policarbonato
 - La correa del sistema fas se puede ajustar gradualmente a la forma de la cabeza de manera fácil y precisa
 - Posibilidad de ampliación con una luz led insertable (opcional)
-- Adaptación óptima al contorno y la forma de la cabeza con el sistema uvex 3d ias 2.0, incluyendo ajuste de altura
 - Revestimiento acolchado extraíble y lavable
+- Construcción ligera del casco con la máxima resistencia a los golpes gracias a que su carcasa está compuesta por dos capas inseparables: una interior de eps y otra exterior de policarbonato
+- Adaptación óptima al contorno y la forma de la cabeza con el sistema uvex 3d ias 2.0, incluyendo ajuste de altura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005DKMD1Q/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Electronic Arts - Anthem | Xbox One - Código de descarga](https://www.a
 
 ℹ️:
 
-- En un mundo que los dioses dejaron inconcluso, una facción oscura amenaza a toda la humanidad.
 - DESATA TU PODER
+- En un mundo que los dioses dejaron inconcluso, una facción oscura amenaza a toda la humanidad.
 - Eres lo único que se interpone entre el Dominio y el poder ancestral que codician.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P5JTJFG/?tag=tolees-21)
