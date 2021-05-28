@@ -28,7 +28,7 @@ Tienes [Electronic Arts - FIFA 21 Champions | Xbox - Código de descarga](https:
 
 ℹ️:
 
-- Tanto en las calles como en los estadios, FIFA 21 ofrece más formas de jugar que nunca, incluyendo la UEFA Champions League y la CONMEBOL Libertadores
 - Venced en equipo en EA Sports FIFA 21, con el motor Frostbite
+- Tanto en las calles como en los estadios, FIFA 21 ofrece más formas de jugar que nunca, incluyendo la UEFA Champions League y la CONMEBOL Libertadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BCMBKY5/?tag=tolees-21)
