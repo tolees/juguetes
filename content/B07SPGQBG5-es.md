@@ -28,10 +28,10 @@ Tienes [Peppa Pig Pijamas de Manga Corta para niñas Hadas Rosa 2-3 Años](https
 
 ℹ️:
 
+- Mercancía con licencia oficial de Peppa Pig. Diseñada exclusivamente para Character ES.
 - ¡Este atuendo con motivo de cuentos de hadas es todo lo que tu princesita necesita para tener una noche llena de dulces sueños!
 - En lindo color amarillo y rosa pastel, este conjunto está decorado con un estampado de la Princesa Peppa con brillantina en sus alas, junto a imágenes de flores, corazones, hadas y pájaros. Viene con bordes ondulados, dobladillo largo, mangas cortas y una linda flor 3D de tul que será el toque final.
-- ¡Los sueños de tu pequeña cerdita serán un cuento de hadas lleno de aventura con esta hermosa pijama de Peppa Pig!
-- Mercancía con licencia oficial de Peppa Pig. Diseñada exclusivamente para Character ES.
 - Pijama para niñas de Peppa Pig.
+- ¡Los sueños de tu pequeña cerdita serán un cuento de hadas lleno de aventura con esta hermosa pijama de Peppa Pig!
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SPGQBG5/?tag=tolees-21)
