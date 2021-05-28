@@ -28,7 +28,7 @@ En este momento está [Nintendo - Sushi Striker : The Way of Sushido [Importaci�
 
 🔎:
 
-- 2 ans
 - 2239747
+- 2 ans
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BKJY3XZ/?tag=tolees-21)
