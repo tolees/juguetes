@@ -28,15 +28,15 @@ Ahora mismo tienes [LEGO 75954 Harry Potter Gran Comedor de Hogwarts Jug
 
 🔎:
 
-- Contiene modelos para construir del Gran Comedor y una torre.
-- Ayuda a Hermione y Susan a crear pociones mágicas.
-- Incluye 10 minifiguras: Harry Potter, Ron Weasley, Hermione Granger, Draco Malfoy, Susan Bones, la Profesora McGonagall, el Profesor Quirrell con la cara de Lord Voldemort por el otro lado, Hagrid, Albus Dumbledore y Nick Casi Decapitado; incluye también modelos para construir de un Basilisco y Fawkes, así como figuras de Hedwig y Scabbers.
-- Da la bienvenida a los nuevos alumnos con Hagrid y los profesores Dumbledore y McGonagall.
-- ¡Disfruta del banquete en el Gran Comedor y usa el Sombrero Seleccionador para elegir las casas de los alumnos!
 - ¡Usa las varitas mágicas para enfrentar a Harry contra Draco en el Club de Duelo!
+- Da la bienvenida a los nuevos alumnos con Hagrid y los profesores Dumbledore y McGonagall.
+- Incluye 10 minifiguras: Harry Potter, Ron Weasley, Hermione Granger, Draco Malfoy, Susan Bones, la Profesora McGonagall, el Profesor Quirrell con la cara de Lord Voldemort por el otro lado, Hagrid, Albus Dumbledore y Nick Casi Decapitado; incluye también modelos para construir de un Basilisco y Fawkes, así como figuras de Hedwig y Scabbers.
+- Incluye también un bote con un farol colgante.
+- ¡Disfruta del banquete en el Gran Comedor y usa el Sombrero Seleccionador para elegir las casas de los alumnos!
+- La torre, de 4 plantas, cuenta con la Gran Escalera con peldaños móviles en espiral en la base, sala de pociones, sala del tesoro con cofre y una torreta equipada con el Espejo de Oesed (con ilustraciones intercambiables) y un lugar de descanso para Fawkes.
 - El Gran Comedor cuenta con mesas, mesa presidencial con asientos, una chimenea, 2 estandartes reversibles con los emblemas de las casas, 4 velas “flotantes”, comida (un muslo de pavo, un helado y una pequeña tarta), escobas, un trofeo y una tetera.
 - Coloca a los alumnos en el bote y navega hasta el castillo de Hogwarts.
-- Incluye también un bote con un farol colgante.
-- La torre, de 4 plantas, cuenta con la Gran Escalera con peldaños móviles en espiral en la base, sala de pociones, sala del tesoro con cofre y una torreta equipada con el Espejo de Oesed (con ilustraciones intercambiables) y un lugar de descanso para Fawkes.
+- Ayuda a Hermione y Susan a crear pociones mágicas.
+- Contiene modelos para construir del Gran Comedor y una torre.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792RDN2V/?tag=tolees-21)
