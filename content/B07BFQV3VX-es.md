@@ -28,9 +28,9 @@ En este momento está [The Bellies From Bellyville - The Bellies - Belliekit Set
 
 🔎:
 
-- ¡Disfruta cuidando de tu Belly con los accesorios más divertidos
+- Consulta nuestra Poopypedia para darle el cuidadito apropiado a tu Belly según la sorpresita que encuentres en su pañal
 - Belly-Kit de emergencias para cuidar a tu Belly de la forma más loca y divertida
 - Tienes el saca mocos pringoso, la comidita de super fuerza, las vitaminas de purpurina, la vacuna relajante y las tiritas super divertidas customizadas
-- Consulta nuestra Poopypedia para darle el cuidadito apropiado a tu Belly según la sorpresita que encuentres en su pañal
+- ¡Disfruta cuidando de tu Belly con los accesorios más divertidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BFQV3VX/?tag=tolees-21)
