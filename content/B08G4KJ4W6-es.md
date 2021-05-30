@@ -28,15 +28,15 @@ Está [LEGO 60280 City Camión de Bomberos con Escalera Juguete de Con
 
 ℹ️:
 
-- Regala a tu héroe cotidiano las emociones del universo LEGO City con el juego 4+ Camión de Bomberos con Escalera (60280), que incluye un camión de bomberos de juguete y un personaje de la serie para televisión LEGO City: Aventuras en la Ciudad.
-- ¿Buscas un juguete para niños de alta calidad
-- ¿Qué contiene la caja
-- Viene con una sencilla guía de construcción 4+ e Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes. ¡Esta guía interactiva ayuda a los niños a convertirse en maestros constructores!
-- Accesorios LEGO incluidos: un casco y un hacha de bomberos, así como un extintor.
-- Los sets LEGO City 4+ invitan a niños y adultos a descubrir el placer de la construcción y a jugar juntos, y alimentan la creatividad y la imaginación de los peques con edificios realistas, fantásticos vehículos y divertidos personajes.
-- Un camión de bomberos de juguete con una escalera y un extintor, una boca de incendios y llamas LEGO apilables, así como minifiguras de una bombera y de Freya McCloud, la jefa de bomberos LEGO City de la tele.
-- Los peques podrán elevar la escalera de extinción, guardar las herramientas en el compartimento del camión y crear historias protagonizadas por Freya McCloud, la jefa de bomberos de la serie para televisión LEGO City: Aventuras en la Ciudad.
-- Ideal para niños a partir de 4 años, este juego de bomberos es perfecto como regalo espontáneo, de cumpleaños o de Navidad para fans de LEGO City y de la acción trepidante. Solo se requieren habilidades de construcción básicas.
 - Una vez construido, el Camión de Bomberos con Escalera mide aproximadamente 9 cm de altura, 16 cm de longitud y 7 cm de anchura.
+- Un camión de bomberos de juguete con una escalera y un extintor, una boca de incendios y llamas LEGO apilables, así como minifiguras de una bombera y de Freya McCloud, la jefa de bomberos LEGO City de la tele.
+- Accesorios LEGO incluidos: un casco y un hacha de bomberos, así como un extintor.
+- Ideal para niños a partir de 4 años, este juego de bomberos es perfecto como regalo espontáneo, de cumpleaños o de Navidad para fans de LEGO City y de la acción trepidante. Solo se requieren habilidades de construcción básicas.
+- Regala a tu héroe cotidiano las emociones del universo LEGO City con el juego 4+ Camión de Bomberos con Escalera (60280), que incluye un camión de bomberos de juguete y un personaje de la serie para televisión LEGO City: Aventuras en la Ciudad.
+- ¿Qué contiene la caja
+- Los peques podrán elevar la escalera de extinción, guardar las herramientas en el compartimento del camión y crear historias protagonizadas por Freya McCloud, la jefa de bomberos de la serie para televisión LEGO City: Aventuras en la Ciudad.
+- Los sets LEGO City 4+ invitan a niños y adultos a descubrir el placer de la construcción y a jugar juntos, y alimentan la creatividad y la imaginación de los peques con edificios realistas, fantásticos vehículos y divertidos personajes.
+- ¿Buscas un juguete para niños de alta calidad
+- Viene con una sencilla guía de construcción 4+ e Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes. ¡Esta guía interactiva ayuda a los niños a convertirse en maestros constructores!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G4KJ4W6/?tag=tolees-21)
