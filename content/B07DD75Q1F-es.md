@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAY FUN BY IMC TOYS - IMC Toys-¡No Seas al 60.62 % de descuento'
-date: 2021-05-18 11:49:28
+date: 2021-05-30 18:19:02
 image: 'https://m.media-amazon.com/images/I/51d7-JpxAgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAY FUN BY IMC TOYS'
 buyurl: 'https://www.amazon.es/dp/B07DD75Q1F/?tag=tolees-21'
 descuento: '60.62'
-average: '11.703'
+average: '11.8918181818182'
 ---
 
 Está [PLAY FUN BY IMC TOYS - IMC Toys-¡No Seas Boca ¡No Seas Bocas  multicolor  98466    color/modelo surtido](https://www.amazon.es/dp/B07DD75Q1F/?tag=tolees-21) con 60.62 de descuento por 13.78 EUR (original: 34.99 EUR) en el siguiente enlace!
