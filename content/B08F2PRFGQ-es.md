@@ -28,8 +28,8 @@ Ahora mismo tienes [Star Wars- Figura  Hasbro F13045X0 ](https://www.amazon.es/d
 
 🔎:
 
-- Edad recomendada: a partir de 4 años
 - Altura: 15 cm
+- Edad recomendada: a partir de 4 años
 - Moff Gideon: figura de acción inspirada en versión Star Wars Black Series
 - Con dos accesorios para recrear las batallas
 

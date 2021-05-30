@@ -28,10 +28,10 @@ En este momento está [LEGO Serie de personajes de Super Mario 71361 | expositor
 
 🔎:
 
-- Con los personajes de la serie Marino (71361), los fans pueden ampliar su universo de Super Mario. Cada bolsa contiene un personaje como una divertida figura de construcción y una piedra funcional para diferentes interacciones con la figura Lego Super Mario
 - La aplicación gratuita de Lego Super Mario incluye, entre otras cosas, instrucciones de construcción digitales, funciones de visualización geniales e ideas para juegos creativos. Para una lista de dispositivos Android e iOS compatibles, se encuentra en LEGO.com/devicecheck
 - El set de iniciación "aventuras con Mario" (71360) con la figura de Lego Mario es necesario para disfrutar de la experiencia de juego completa. Cuando Lego Mario salta a estos personajes para recoger monedas, reacciona de forma muy diferente
-- En total hay 10 figuras de juguete únicas para construir y coleccionar, y para complementar los juegos Lego Super Mario Juegos: Para-Gumba, Fuzzy, Stachi, un Escarabajo, una bola, un Bob-omb, un Cheep, un Blooper, un iglúque y un spukmatz
+- Con los personajes de la serie Marino (71361), los fans pueden ampliar su universo de Super Mario. Cada bolsa contiene un personaje como una divertida figura de construcción y una piedra funcional para diferentes interacciones con la figura Lego Super Mario
 - Estos personajes no necesitan pilas. Simplemente añádelo al kit de iniciación "aventuras con Marío" para crear un juego más emocionante. Se incluyen instrucciones ilustradas para que los niños construyan en su propia dirección
+- En total hay 10 figuras de juguete únicas para construir y coleccionar, y para complementar los juegos Lego Super Mario Juegos: Para-Gumba, Fuzzy, Stachi, un Escarabajo, una bola, un Bob-omb, un Cheep, un Blooper, un iglúque y un spukmatz
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NJWTRBP/?tag=tolees-21)
