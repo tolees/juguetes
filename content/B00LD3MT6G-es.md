@@ -28,8 +28,8 @@ Está [Hot Wheels - Pista dúo de carreras  pistas de coches de juguete  Mattel 
 
 ℹ️:
 
-- Las rampas tienen cada una una vuelta, al pasar por ella tendrás que tirar las banderas de cuadros para ganar
-- Recomendado a partir de 4 años.
 - Circuito de competición con dos rampas desde las que podrás lanzar dos coches a gran velocidad a ver cuál llega primero a meta
+- Recomendado a partir de 4 años.
+- Las rampas tienen cada una una vuelta, al pasar por ella tendrás que tirar las banderas de cuadros para ganar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00LD3MT6G/?tag=tolees-21)
