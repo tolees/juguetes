@@ -28,10 +28,10 @@ En este momento está [Jumbo The Vamps-Juego de Mesa Familiar de Cartas para ni�
 
 🔎:
 
-- Juego de estrategia de cartas ideal para pasar una tarde con amigos y familias con niños
-- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
 - Juego de cartas familiar que consiste en intentar eliminar a todos los vampiros que se pueda, usando las cartas de las que se dispone
-- Número de jugadores: de 2 a 4
 - Contenido: 90 cartas y instrucciones de juego
+- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
+- Número de jugadores: de 2 a 4
+- Juego de estrategia de cartas ideal para pasar una tarde con amigos y familias con niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WLVBPYC/?tag=tolees-21)
