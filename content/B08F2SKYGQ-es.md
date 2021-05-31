@@ -28,8 +28,8 @@ Ahora mismo tienes [Star Wars- Figura  Hasbro F13055X0 ](https://www.amazon.es/d
 
 🔎:
 
-- El juguete ayuda a los más pequeños a inventar todo tipo de historias
-- Los pequeños pueden explorar el mundo con imaginación
 - Este juguete está diseñado para todos los niños
+- Los pequeños pueden explorar el mundo con imaginación
+- El juguete ayuda a los más pequeños a inventar todo tipo de historias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F2SKYGQ/?tag=tolees-21)

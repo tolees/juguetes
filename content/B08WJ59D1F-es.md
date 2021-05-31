@@ -29,9 +29,9 @@ Está [Outsunny Set de Mesa y Sillas Exterior Infantil Conjunto de Picnic Plegab
 ℹ️:
 
 - ✅MEDIDAS TOTALES: silla 39x38x52 cm (LxANxAL), mesa Ø50x46 cm (DiámxAL) y sombrilla Ø100x100-125 cm (DiámxAL); Apto para niños a partir de 3 años
-- ✅SOMBRILLA AJUSTABLE: En un conjunto exterior infantil no puede faltar una sombrilla que proteja a los niños del sol. La de este conjunto tiene 7 varillas que sostienen la cubierta y se puede regular en altura, para ajustar a las necesidades de los más pequeños
-- ✅CONJUNTO DE JARDÍN INFANTIL: Este conjunto de muebles de jardín para niños está compuesto por 4 piezas: 2 sillas, una mesa redonda con un orificio central para una sombrilla y una sombrilla
 - ✅USO EXTERIOR: Este juego de 4 piezas de jardín para niños es perfecto para usar en el jardín, patio, balcón, terraza, etc. con la llegada del buen tiempo. Para que puedan disfrutar de una comida o merienda con amigos al aire libre
 - ✅PLEGABLE Y RESISTENTE: Conjunto hecho con estructura de metal tubular y tela resistente a los rayos UV y estampada, que llamará la atención de los más pequeños y les encantará. Las sillas y las sombrillas son plegables, facilitando su almacenaje y transporte
+- ✅CONJUNTO DE JARDÍN INFANTIL: Este conjunto de muebles de jardín para niños está compuesto por 4 piezas: 2 sillas, una mesa redonda con un orificio central para una sombrilla y una sombrilla
+- ✅SOMBRILLA AJUSTABLE: En un conjunto exterior infantil no puede faltar una sombrilla que proteja a los niños del sol. La de este conjunto tiene 7 varillas que sostienen la cubierta y se puede regular en altura, para ajustar a las necesidades de los más pequeños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WJ59D1F/?tag=tolees-21)
