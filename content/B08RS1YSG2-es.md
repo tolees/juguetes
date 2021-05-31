@@ -30,8 +30,8 @@ Ahora mismo tienes [Pinypon. My Puppy and Me. Moto  Remolque y Figuras para niñ
 
 - Los pelos de las 2 figuras son intercambiables
 - Este juguete es para niños entre 4-8 años
+- Remolque con compartimento para guardar los accesorios
 - Set de moto, remolque, 1 figura Pinypon y 1 figura de cachorro
 - El cachorro se parece mucho a su dueña; los dos llevan el mismo peinado, casco y gafas
-- Remolque con compartimento para guardar los accesorios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08RS1YSG2/?tag=tolees-21)
