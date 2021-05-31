@@ -28,10 +28,10 @@ Está [Nancy  un día salvando Tortugas  muñeca de Pelo Rizado con Traje de ba�
 
 ℹ️:
 
-- Muñeca de 43 cm; incluye sistema de drenaje para un secado tras sumergirla en el agua
-- Además tiene una melena rizada y un bonito colgante de concha
-- A las niñas les encantan los animales marinos, pasar horas en el agua y las aventuras; por ello Nancy está cada vez concienciada con la ecología y salvar la fauna marina
-- Para regalar a las niñas a las que les gusta llevar a su muñeca a la piscina o a la playa para crear historias y aventuras acuáticas
 - Nancy incluye un traje de baño dos piezas de neopreno y accesorios como gafas de bucear y de sol, aletas o bombona de oxígeno; todo lo necesario para crear aventuras
+- Para regalar a las niñas a las que les gusta llevar a su muñeca a la piscina o a la playa para crear historias y aventuras acuáticas
+- Muñeca de 43 cm; incluye sistema de drenaje para un secado tras sumergirla en el agua
+- A las niñas les encantan los animales marinos, pasar horas en el agua y las aventuras; por ello Nancy está cada vez concienciada con la ecología y salvar la fauna marina
+- Además tiene una melena rizada y un bonito colgante de concha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08S2Z56XS/?tag=tolees-21)

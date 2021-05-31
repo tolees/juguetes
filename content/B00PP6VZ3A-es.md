@@ -28,10 +28,10 @@ En este momento está [Schleich - Scenery Pack Batman vs The Joker  22510 ](http
 
 🔎:
 
+- Batman tiene que movilizar todos los conocimientos y facultades de que dispone, porque The Joker no solamente es muy peligroso, sino también muy astuto
 - En lucha contra él, Batman ya ha arriesgado varias veces su vida para salvar a Gotham City
 - Esto sólo lo puede impedir una persona: Batman, el héroe negro de Gotham City
-- Aterroriza a los habitantes de la ciudad con sus pérfidos manejos y sólo tiene un objetivo: apoderarse del poder
 - The Joker es el más temido de todos los canallas en Gotham City
-- Batman tiene que movilizar todos los conocimientos y facultades de que dispone, porque The Joker no solamente es muy peligroso, sino también muy astuto
+- Aterroriza a los habitantes de la ciudad con sus pérfidos manejos y sólo tiene un objetivo: apoderarse del poder
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PP6VZ3A/?tag=tolees-21)

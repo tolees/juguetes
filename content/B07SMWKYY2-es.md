@@ -28,10 +28,10 @@ Ahora mismo tienes [FEBER- Range Rover Velar Coche eléctrico de una Plaza con L
 
 🔎:
 
-- Feber range rover velar 6v de 1 plaza con luces en los faros y sonidos de motor y claxon
 - Medida producto: 111 (largo) x 64(ancho) x 53(altura) cm; peso producto: 16 kg
 - Tiene marcha hacia adelante y atrás, acelerador, freno eléctrico, puertas abatibles y ruedas de goma: velocidad máxima de 3,5 km/h
 - Para niño y niña de 3 a 7 años y con un peso máximo recomendado de 35kg
+- Feber range rover velar 6v de 1 plaza con luces en los faros y sonidos de motor y claxon
 - Batería 6v y cargador incluidos: y hasta 60 minutos de juego sin parar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SMWKYY2/?tag=tolees-21)
