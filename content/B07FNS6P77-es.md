@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO 70824 Movie Se Presenta la Reina Soyloque Quiera  Desco
 
 🔎:
 
-- Número de piezas: 115
 - Reconstruye el caballo para transformar a la metamorfósica Reina Soyloque Quiera en un montón de ladrillos con 4 expresiones faciales intercambiables
-- Se Presenta la Reina Soyloque Quiera
-- Edad recomendada por el fabricante: 6+
 - Este divertido juguete para construir cuenta con una plataforma giratoria para la Reina Soyloque Quiera en forma de caballo
+- Se Presenta la Reina Soyloque Quiera
+- Número de piezas: 115
+- Edad recomendada por el fabricante: 6+
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FNS6P77/?tag=tolees-21)
