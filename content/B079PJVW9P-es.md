@@ -30,7 +30,7 @@ Tienes [Diset- Sudoku Colors Juego Educativo para Niños  Multicolor  68969 ](ht
 
 - El objetivo del juego es conseguir que cada fila, columna y cuadrante tenga una imagen diferente
 - Juego clásico y educativo que consiste en rellenar las casillas vacías con una imagen en cada una de ellas
-- Sudoku color tiene 3 niveles de dificultad: Nivel 1: para resolver sudokus de números o de formas geométricas Nivel 2 y 3: para resolver sudokus de animalitos o huellas de animalitos
 - multicolor
+- Sudoku color tiene 3 niveles de dificultad: Nivel 1: para resolver sudokus de números o de formas geométricas Nivel 2 y 3: para resolver sudokus de animalitos o huellas de animalitos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079PJVW9P/?tag=tolees-21)
