@@ -28,12 +28,12 @@ Tienes [VTech- Kidizoom SelfieCam Cámara de Fotos  Color morado  única  3480-1
 
 ℹ️:
 
-- Con la cámara de fotos Selfie Cam Kidizoom puedes realizar tus propios selfies
+- La memoria interna puede almacenar alrededor de 800 fotos
 - Viene con cable microUSB
+- La memoria interna puede almacenar alrededor de 800 fotos
+- Viene con cable microUSB
+- Con la cámara de fotos Selfie Cam Kidizoom puedes realizar tus propios selfies
 - Versión española
 - Con la cámara de fotos Selfie Cam Kidizoom puedes realizar tus propios selfies
-- La memoria interna puede almacenar alrededor de 800 fotos
-- Viene con cable microUSB
-- La memoria interna puede almacenar alrededor de 800 fotos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01G4WDC0C/?tag=tolees-21)
