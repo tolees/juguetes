@@ -28,8 +28,8 @@ Tienes [Diset- Memo Photo Animals Juego Educativo para Niños  Multicolor  68941
 
 🔎:
 
-- Juego educativo clásico que consiste en memorizar la situación de las fichas con el fin de emparejarlas
 - Piezas de cartón reforzado que favorecen la duración del juego
+- Juego educativo clásico que consiste en memorizar la situación de las fichas con el fin de emparejarlas
 - Valor educativo, desarrollar la memoria
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079PK64RL/?tag=tolees-21)

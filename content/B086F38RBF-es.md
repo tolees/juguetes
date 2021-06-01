@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - PS Hits: con un 60.30 % de descuento'
-date: 2021-05-26 07:13:03
+date: 2021-06-01 12:40:35
 image: 'https://m.media-amazon.com/images/I/51z2ZxPAL0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B086F38RBF/?tag=tolees-21'
 descuento: '60.30'
-average: '11.455'
+average: '10.2766666666667'
 ---
 
 En este momento está [Warner Bros Interactive Spain - PS Hits: Lego Batman 3](https://www.amazon.es/dp/B086F38RBF/?tag=tolees-21) a 7.92 EUR (original: 19.95 EUR) (60.30 %  de descuento) en el siguiente enlace!
