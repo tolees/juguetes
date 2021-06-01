@@ -28,7 +28,7 @@ Está [PLAYMOBIL- Ostereier Huevo Niña con Gansos  Color carbón  70083    colo
 
 ℹ️:
 
-- 1figura con 3animales y accesorios
 - Atractivamente empaquetado en huevo de pascua
+- 1figura con 3animales y accesorios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JMCBT1R/?tag=tolees-21)

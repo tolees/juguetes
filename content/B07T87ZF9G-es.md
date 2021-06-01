@@ -29,7 +29,7 @@ Tienes [Supersoaker-Fortnite Pump Sg  Hasbro E76475L0 ](https://www.amazon.es/dp
 🔎:
 
 - LANZADOR POR BOMBEO: Empapa a tus oponentes con este lanzador de agua por bombeo: mueve el mango de bombeo hacia atrás y hacia adelante para empaparlos
-- FÁCIL DE LLENAR, FÁCIL DE LANZAR: Abre la tapa, llena el tanque con agua y cierra la tapa: Bombea el mango y lanza un diluvio de diversión
 - RÉPLICA DEL LANZADOR DE AGUA DE FORTNITE: El lanzador de agua Fortnite Pump-SG está inspirado en el lanzador que se usa en Fortnite y reproduce el aspecto del lanzador del popular videojuego
+- FÁCIL DE LLENAR, FÁCIL DE LANZAR: Abre la tapa, llena el tanque con agua y cierra la tapa: Bombea el mango y lanza un diluvio de diversión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T87ZF9G/?tag=tolees-21)
