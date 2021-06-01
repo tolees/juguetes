@@ -29,9 +29,9 @@ Ahora mismo tienes [Devir- Juego de Mesa La Resistencia  Miscelanea  25197 ](htt
 🔎:
 
 - Idioma principal: español
-- Incluye una expansión: "la trama se complica"
-- Los jugadores son miembros de la resistencia
-- Duración aproximada de la partida 30 minutos
 - Juego de identidades secretas, deducción y engaño con gran interacción
+- Incluye una expansión: "la trama se complica"
+- Duración aproximada de la partida 30 minutos
+- Los jugadores son miembros de la resistencia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008EJT72G/?tag=tolees-21)
