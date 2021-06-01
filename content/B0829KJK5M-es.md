@@ -29,8 +29,8 @@ Tienes [PLAYMOBIL - Princesa y Modista](https://www.amazon.es/dp/B0829KJK5M/?tag
 ℹ️:
 
 - No apto para niños menores de 3 años
+- Figuras de Playmobil en paquete doble, princesa y modista
 - El Playmobil Duo-Pack está hecho de plástico
 - Incluye accesorios como ramo de flores, tijeras, cinta métrica y alfiletero
-- Figuras de Playmobil en paquete doble, princesa y modista
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0829KJK5M/?tag=tolees-21)

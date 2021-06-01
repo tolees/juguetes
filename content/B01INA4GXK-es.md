@@ -30,7 +30,7 @@ Tienes [Unbekannt D de Toys 1 – Puzzle 1000 Kandinsky](https://www.amazon.e
 
 - Adult Puzzle
 - Contains Small Parts
-- Wassily Kandinsky: Sketch for "Composition II/Study
 - Puzzle size: 68 x 47 cm
+- Wassily Kandinsky: Sketch for "Composition II/Study
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01INA4GXK/?tag=tolees-21)
