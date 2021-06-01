@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie Chelsea Vamos de viaje con perrito  muñeca con acces
 
 🔎:
 
-- Las niñas imaginarán grandes viajes mientras hacen y deshacen la mochila azul para la muñeca.
-- Las niñas viajarán por todo el mundo con la imaginación gracias a Chelsea y su conjunto de juego de viaje inspirado en la nueva serie de Barbie. ¡La muñeca viene con un perrito de compañero de viaje, un portamascotas y varios coloridos accesorios de viaje!
-- Incluye varios accesorios de viaje para esta hermana pequeña, como un teléfono móvil, un osito de peluche, unos auriculares y unas gafas de sol.
 - Chelsea está lista para visitar lugares cercanos y lejanos luciendo una blusa blanca, una brillante falda rosa, unas medias azules y unas botas rosas.
 - El portamascotas morado de Chelsea tiene un asa rosa que la muñeca puede sujetar.
+- Las niñas viajarán por todo el mundo con la imaginación gracias a Chelsea y su conjunto de juego de viaje inspirado en la nueva serie de Barbie. ¡La muñeca viene con un perrito de compañero de viaje, un portamascotas y varios coloridos accesorios de viaje!
+- Incluye varios accesorios de viaje para esta hermana pequeña, como un teléfono móvil, un osito de peluche, unos auriculares y unas gafas de sol.
+- Las niñas imaginarán grandes viajes mientras hacen y deshacen la mochila azul para la muñeca.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FFKHHSF/?tag=tolees-21)
