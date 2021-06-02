@@ -28,10 +28,10 @@ Ahora mismo tienes [SuperThings - Power Machine - Blíster 6 PowerJet  Contiene 
 
 🔎:
 
-- contiene: 2 power jets y 4 superthings (1 de ellos, plateado)
 - descubre el blíster powerjet, que contienen 2 powerjets diferentes y 4 superthings de la serie power machines (¡uno de ellos es un capitán plateado!)
-- los superthings son objetos cotidianos transformados en superhéroes y supervillanos. cada superthing tiene su rival: busca las parejas rivales ¡y forma tus superequipos!
 - ahora más que nunca, ¡el poder de los superthings ésta en sus manos!
 - ¡bienvenido a kaboom city, el hogar de los superthings!
+- los superthings son objetos cotidianos transformados en superhéroes y supervillanos. cada superthing tiene su rival: busca las parejas rivales ¡y forma tus superequipos!
+- contiene: 2 power jets y 4 superthings (1 de ellos, plateado)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NC1LG2X/?tag=tolees-21)

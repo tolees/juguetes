@@ -28,9 +28,9 @@ En este momento está [Devir- Exit: La Mansión Siniestra Ed. Portuguesa  BGEXIT
 
 🔎:
 
-- a partir de los 12 años
 - Duración 45-90 minutos
-- De 1 a 6 jugadores
 - Edición en portugues
+- De 1 a 6 jugadores
+- a partir de los 12 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823CYBJP/?tag=tolees-21)

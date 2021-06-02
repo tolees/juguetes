@@ -28,9 +28,9 @@ En este momento está [Devir- Sushi Go Juego de Mesa  Multicolor  Miscelanea  BG
 
 🔎:
 
-- Juego de cartas para diseñar la propia comida
-- Juego adecuado para pasar el tiempo libre
 - Juego de velocidad, memoria y astucia
+- Juego de cartas para diseñar la propia comida
 - Duración aproximada de la partida: 15 minutos
+- Juego adecuado para pasar el tiempo libre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PY78UCO/?tag=tolees-21)
