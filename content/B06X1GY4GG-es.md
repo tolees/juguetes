@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL City Life Salón  con Efectos de Luz  a Partir de 4 Años  926
 
 🔎:
 
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Diversión para los pequeños héroes: PLAYMOBIL Salón, set de juego con figuras, lámpara real y muchos accesorios para jugar
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Diversión para los pequeños héroes: PLAYMOBIL Salón, set de juego con figuras, lámpara real y muchos accesorios para jugar
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Contenido: 1 PLAYMOBIL City Life Salón, Juego de 37 piezas con instrucciones: 2 figuras, 35 accesorios
 - 2 figuras, lámpara de mesa con efectos de cambio de color, cajón para guardar piezas individuales, entre otros, apta para City Life Casa Moderna (9266)
 
