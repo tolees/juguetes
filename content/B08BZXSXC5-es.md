@@ -28,8 +28,8 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Fallen Legion Revenants Vanguard Ed
 
 ℹ️:
 
-- BSO Luciens Lost LEDger
 - Arte de interior de portada
+- BSO Luciens Lost LEDger
 - Mini libro de arte
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BZXSXC5/?tag=tolees-21)
