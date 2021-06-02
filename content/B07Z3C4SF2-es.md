@@ -28,8 +28,8 @@ Ahora mismo tienes [Devir- Paris: La Cité de la Lumière  Multicolor  BGPARSP ]
 
 🔎:
 
-- Mecánicas sólidas, profundas y innovadoras
 - Gracias a su forma compacta, jugable en cualquier sitio
+- Mecánicas sólidas, profundas y innovadoras
 - Diseño evocativo de la tematica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Z3C4SF2/?tag=tolees-21)

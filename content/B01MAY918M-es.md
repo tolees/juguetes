@@ -28,10 +28,10 @@ En este momento está [Devir - King of Tokyo edición en Castellano 2016  BGHKOT
 
 🔎:
 
+- Duración aproximada de la partida: 30 min
 - Edad recomendada: 8 años y más
 - Juego adecuado para pasar el tiempo libre
-- Duración aproximada de la partida: 30 min
-- Tipo de producto: juego de mesa
 - Número de jugadores: 2 - 6
+- Tipo de producto: juego de mesa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MAY918M/?tag=tolees-21)
