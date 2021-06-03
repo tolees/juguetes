@@ -28,9 +28,9 @@ En este momento está [VTech Kidizoom Duo 5.0 - Cámara de fotos digital  infant
 
 🔎:
 
-- NUEVA VERSIÓN YA DISPONIBLE (KIDIZOOM DUO DX 2020)
 - Nueva versión Cámara de fotos KIDIZOOM DUO DX 10 en 1 . NUEVA VERSIÓN 2020.
 - NUEVA VERSIÓN YA DISPONIBLE
+- NUEVA VERSIÓN YA DISPONIBLE (KIDIZOOM DUO DX 2020)
 - NUEVA VERSIÓN YA DISPONIBLE
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079BVXP63/?tag=tolees-21)
