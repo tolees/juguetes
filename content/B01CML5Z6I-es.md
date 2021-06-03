@@ -28,7 +28,7 @@ Está [Clementoni - Disney Princesas - Set de Puzzles  3x48 Piezas ](https://www
 
 ℹ️:
 
-- Set de 3 Puzzles de 48 piezas cada uno.
 - Modelo : Disney Princesas
+- Set de 3 Puzzles de 48 piezas cada uno.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CML5Z6I/?tag=tolees-21)

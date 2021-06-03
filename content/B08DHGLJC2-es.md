@@ -28,10 +28,10 @@ Ahora mismo tienes [Pawhut Árbol para Gatos Torre de Escalada Divertido con Cam
 
 🔎:
 
-- ✅JUGUETES COLGANTES: ideales para llamar la atención de tus gatos y que hagan ejercicio jugando con ellos.
-- ✅MEDIDAS: 40x40x121 cm (LxANxAL). La cama mide 30x10 cm (ФxAL). El túnel mide 20x24 cm (ФxAL). La plataforma superior mide 40x40 cm (LxAN).
-- ✅CAMA CON BORDES ELEVADOS: esta cama con bordes altos enamorará a tu gato, en ella podrá dormir sintiéndose seguro.
 - ✅ÁRBOL RASCADOR TODO EN UNO: tiene una medida compacta pero mucho espacio para que tus gatos se afilen las uñas, jueguen y descansen.
 - ✅VARIOS NIVELES: ideales para satisfacer la curiosidad de tus gatos. Sus plataformas y su túnel ofrecen un espacio que explorar y en el que tumbarse a observar su entorno.
+- ✅MEDIDAS: 40x40x121 cm (LxANxAL). La cama mide 30x10 cm (ФxAL). El túnel mide 20x24 cm (ФxAL). La plataforma superior mide 40x40 cm (LxAN).
+- ✅CAMA CON BORDES ELEVADOS: esta cama con bordes altos enamorará a tu gato, en ella podrá dormir sintiéndose seguro.
+- ✅JUGUETES COLGANTES: ideales para llamar la atención de tus gatos y que hagan ejercicio jugando con ellos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DHGLJC2/?tag=tolees-21)
