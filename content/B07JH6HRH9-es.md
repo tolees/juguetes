@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony  PlayStation Plus - Suscripción 12  al 25.00 % de rebaja'
-date: 2021-05-31 23:25:11
+date: 2021-06-03 11:11:40
 image: 'https://m.media-amazon.com/images/I/41Xui1CKvlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07JH6HRH9/?tag=tolees-21'
 descuento: '25.00'
-average: '58.787709923664'
+average: '58.7352471482889'
 ---
 
 Tienes [Sony  PlayStation Plus - Suscripción 12 Meses | PS5/PS4/PS3 | Código de descarga PSN - Cuenta española](https://www.amazon.es/dp/B07JH6HRH9/?tag=tolees-21) con precio final de  44.99 EUR (original: 59.99 EUR) (25.00 %  de rebaja) aqui!
