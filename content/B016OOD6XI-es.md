@@ -28,10 +28,10 @@ Está [Bright Starts  Saltador para puertas Bounce n Spring Deluxe con altura re
 
 ℹ️:
 
-- Correas para adaptar la altura a la de tu bebé
-- Pinza robusta que se ajusta de forma segura a todo tipo de puertas
-- Cojín suave optima para tu bebé
 - Incluye 4 juguetes intercambiables entre sí: espejo, hojas-mordedor y 2 peluches
 - Asiento acolchado para que el bebé esté cómodo
+- Pinza robusta que se ajusta de forma segura a todo tipo de puertas
+- Correas para adaptar la altura a la de tu bebé
+- Cojín suave optima para tu bebé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016OOD6XI/?tag=tolees-21)
