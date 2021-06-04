@@ -28,12 +28,12 @@ Tienes [LEGO 43172 Disney Princess Palacio mágico de Hielo de Elsa Ju
 
 ℹ️:
 
-- Crea nuevas aventuras en compañía de algunos de tus personajes favoritos de Frozen con este divertido regalo navideño.
 - Diviértete construyendo este enorme palacio de hielo con funciones especiales para dejar volar la imaginación y sentir la magia.
-- Incluye minipersonajes LEGO era, unas gafas, un pastel, una zanahoria, chocolate, una partitura, un espejo y una alfombra.
-- El Palacio Mágico de Hielo de Elsa mide más de 31 cm de altura, 30 cm de ancho y 19 cm de profundidad.
-- Interpreta las escenas de Frozen y Frozen Fever, de Disney.
 - El parque de juegos con el fuerte de nieve mide más de 6 cm de altura, 20 cm de ancho y 4 cm de profundidad.
 - El trineo con carruajes mide más de 12 cm de longitud y 3 cm de ancho.
+- Interpreta las escenas de Frozen y Frozen Fever, de Disney.
+- Crea nuevas aventuras en compañía de algunos de tus personajes favoritos de Frozen con este divertido regalo navideño.
+- El Palacio Mágico de Hielo de Elsa mide más de 31 cm de altura, 30 cm de ancho y 19 cm de profundidad.
+- Incluye minipersonajes LEGO era, unas gafas, un pastel, una zanahoria, chocolate, una partitura, un espejo y una alfombra.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QGX7QY5/?tag=tolees-21)
