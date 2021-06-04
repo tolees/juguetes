@@ -28,10 +28,10 @@ Tienes [Warner Bros Interactive Spain - LEGO: Marvel Super Heroes](https://www.a
 
 ℹ️:
 
-- Tipo de producto: videojuego de acción y aventura
 - El juego se alterna entre varias secuencias de acción y aventura y escenarios de resolución de puzzles
 - Los jugadores son capaces de controlar personajes del Universo Marvel, cada uno con sus propias habilidades únicas
-- Los personajes incluyen: Iron Man, Capitán América, Hulk, Spider-Man, Viuda Negra, Hawkeye, Thor, los X-Men, los Cuatro Fantásticos, Silver Surfer y Nick Fury
 - Plataforma del juego: Nintendo Wii U
+- Tipo de producto: videojuego de acción y aventura
+- Los personajes incluyen: Iron Man, Capitán América, Hulk, Spider-Man, Viuda Negra, Hawkeye, Thor, los X-Men, los Cuatro Fantásticos, Silver Surfer y Nick Fury
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00D8WMPP0/?tag=tolees-21)
