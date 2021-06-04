@@ -28,9 +28,9 @@ Ahora mismo tienes [Hasbro Gaming- Hundir la Flota Viaje Gaming Travel Juego de 
 
 🔎:
 
-- Planea hundir la flota de tu adversario antes de que él hunda la tuya
-- Todo lo que necesitas cabe en las unidades de juego
 - Juego de viaje
 - Localiza los barcos enemigos en la rejilla de objetivos
+- Todo lo que necesitas cabe en las unidades de juego
+- Planea hundir la flota de tu adversario antes de que él hunda la tuya
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00STL7DAM/?tag=tolees-21)
