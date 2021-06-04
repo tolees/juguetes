@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa Exclusive Series Esther Gili Mayo. al 17.08 % de descuento'
-date: 2021-05-31 20:03:42
+date: 2021-06-04 16:19:25
 image: 'https://m.media-amazon.com/images/I/51RfLDf6wnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B08R6CQ81P/?tag=tolees-21'
 descuento: '17.08'
-average: '9.27714285714286'
+average: '8.9975'
 ---
 
 Está [Educa Exclusive Series Esther Gili Mayo. Puzzle de 500 Piezas. Ref. 19015  Multicolor](https://www.amazon.es/dp/B08R6CQ81P/?tag=tolees-21) con 17.08 de descuento por 7.04 EUR (original: 8.49 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Educa Exclusive Series Esther Gili Mayo. Puzzle de 500 Piezas. Ref. 19015
 
 ℹ️:
 
-- La ilustradora Esther Gili hace magia con sus acuarelas y nos enamora con cada una de sus ilustraciones.
 - Número de piezas: 500. Medida aproximada una vez montado: 48 x 34 cm
+- La ilustradora Esther Gili hace magia con sus acuarelas y nos enamora con cada una de sus ilustraciones.
 - Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1894. Educa es sinónimo de calidad y experiencia
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 

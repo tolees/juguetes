@@ -28,8 +28,8 @@ Ahora mismo tienes [Capcom - Megaman 11 para PlayStation 4 - Edición Estándar]
 
 🔎:
 
-- Sequel attesissimo: il malvagio Dr; wily è tornato deciso a realizzare lambiziosa idea che ha sin dai tempi della Robot University!
 - Il sistema Double Gear aggiunge un nuovo elemento allazione platform, offrendo opzioni per migliorare la velocità e la potenza di Mega Man
+- Sequel attesissimo: il malvagio Dr; wily è tornato deciso a realizzare lambiziosa idea che ha sin dai tempi della Robot University!
 - Sono disponibili numerose opzioni di difficoltà per i giocatori di qualsiasi livello di abilità
 - Mega Man 11 offre un design 2.5D introducendo personaggi e ambienti disegnati interamente a mano
 
