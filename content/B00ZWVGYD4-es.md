@@ -28,8 +28,8 @@ Tienes [Warner Bros Interactive Spain - LEGO Dimensions - The Simpsons  Homer](h
 
 🔎:
 
-- Homer
 - LEGO Number 71202
 - Level Pack
+- Homer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21)
