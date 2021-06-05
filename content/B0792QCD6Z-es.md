@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - Lego 75219 Star Wars TM al 17.43 % de descuento'
-date: 2021-06-04 02:19:03
+date: 2021-06-05 02:27:26
 image: 'https://m.media-amazon.com/images/I/51qnRkoh0kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21'
 descuento: '17.43'
-average: '85.2574564459933'
+average: '85.2911111111114'
 ---
 
 Está [LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuado por Fabricante ](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) con 17.43 de descuento por 94.95 EUR (original: 114.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuad
 
 ℹ️:
 
-- Número de piezas: 829
 - Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
 - Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
-- Edad recomendada por el fabricante: 9-14
 - Imperial AT-Hauler
+- Edad recomendada por el fabricante: 9-14
+- Número de piezas: 829
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
