@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir - Exit: La Feria terrorífica  BGEXIT13 ](https://www.
 
 🔎:
 
+- Juego cooperativo y de deducción
 - La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
+- Duración aproximada del juego: 45 - 90 minutos
 - Número de jugadores: 1 - 5
 - Edad recomendada: a partir de 10 años
-- Juego cooperativo y de deducción
-- Duración aproximada del juego: 45 - 90 minutos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08K43T2ZX/?tag=tolees-21)

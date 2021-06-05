@@ -29,7 +29,7 @@ En este momento está [Devir Bunny Kingdom  Ed. En Español   Multicolor  1 ](ht
 🔎:
 
 - De 2 a 4 jugadores.
-- Unos 45 minutos por partida.
 - Para mayores de 14 años.
+- Unos 45 minutos por partida.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D4SB33H/?tag=tolees-21)
