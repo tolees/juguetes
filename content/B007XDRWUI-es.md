@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Verbalia Edición catalán  BGVER  al 32.17 % de descuento'
-date: 2021-06-02 00:48:00
+date: 2021-06-05 15:21:34
 image: 'https://m.media-amazon.com/images/I/51OzhTI-9YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir - Verbalia Edición catalán  BGVER ](https://www.amaz
 
 🔎:
 
-- 50 jocs diferents en una sola capsa
-- Para mayores de 12 años
 - Durada aproximada de la partida… Como quieras
 - Duración de 30 a 120 minutos
+- 50 jocs diferents en una sola capsa
+- Para mayores de 12 años
 - Joc en català de Màrius Serra i Oriol Comas
 - De 1 a 40 jugadores
 
