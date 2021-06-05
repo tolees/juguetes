@@ -29,8 +29,8 @@ Ahora mismo tienes [Devir - Carcassonne: Constructores y Comerciantes  BGCARCO ]
 🔎:
 
 - Edición en castellano y portugués
-- Duración 40 minutos
 - De 2 a 6 jugadores
 - A partir de 7 años
+- Duración 40 minutos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0743KWNR7/?tag=tolees-21)

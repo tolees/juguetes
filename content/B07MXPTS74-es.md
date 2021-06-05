@@ -28,9 +28,9 @@ Tienes [Spider-Man Titan Fx Power 2  Versión Española   Hasbro E3552105 ](http
 
 🔎:
 
-- Figura de 30 cm de spider-man con un diseño clásico
+- Conecta el lanzador titan hero power fx para activar sonidos y frases y lanzar proyectiles
 - El lanzador titan hero power fx se conecta a las figuras compatibles de la serie titan hero (se venden por separado)
 - Colecciona las figuras de las series titan hero y titan hero power fx (se venden por separado)
-- Conecta el lanzador titan hero power fx para activar sonidos y frases y lanzar proyectiles
+- Figura de 30 cm de spider-man con un diseño clásico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MXPTS74/?tag=tolees-21)

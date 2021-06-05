@@ -28,10 +28,10 @@ Tienes [Devir - Código Secreto con imágenes  juego de mesa  BGCOSEIM ](https:/
 
 ℹ️:
 
+- Idioma principal: español
+- Duración: 15 minutos
 - Número de modelo: BGCOSEIM
 - De 2 a 8 jugadores
-- Idioma principal: español
 - A partir de los 10 años
-- Duración: 15 minutos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N80CFXE/?tag=tolees-21)

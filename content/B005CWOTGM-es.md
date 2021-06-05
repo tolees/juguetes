@@ -30,7 +30,7 @@ Tienes [KabelDirekt – 5m Cable HDMI 4K  Compatible con  HDMI 2.0a/b  2.0  1.4a
 
 - Materiales de alta calidad: Conectores de precisión chapados en oro y con blindaje metálico combinados con doble apantallamiento y conductores de cobre trenzados
 - 36 meses de garantía del fabricante
-- Cable HDMI de alta velocidad con Ethernet: Transfiere los datos con una velocidad de hasta 18 gigabit por segundo
 - Absoluta compatibilidad: Los cables HDMI KabelDirekt pueden utilizarse en todas las consolas incluyendo Playstation 4 Pro, Xbox One así como reproductores Blu-ray y todos los demás dispositivos con una conexión HDMI
+- Cable HDMI de alta velocidad con Ethernet: Transfiere los datos con una velocidad de hasta 18 gigabit por segundo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005CWOTGM/?tag=tolees-21)
