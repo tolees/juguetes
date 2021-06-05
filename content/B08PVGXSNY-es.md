@@ -29,7 +29,7 @@ En este momento está [Mattel GVF32 Attack Pack de Jurassic World - Dinosaurio T
 🔎:
 
 - La figura del dinosaurio Troodon Attack Pack de Jurassic World tiene extremidades móviles, así como una cabeza y cola móviles.
-- Cada figura cuenta con cinco puntos de movimiento, un cuerpo realista y detalles auténticos.
 - Este dinosaurio Attack Pack está inspirado en la película y presenta finos detalles, colores y extremidades móviles.
+- Cada figura cuenta con cinco puntos de movimiento, un cuerpo realista y detalles auténticos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PVGXSNY/?tag=tolees-21)
