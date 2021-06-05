@@ -28,11 +28,11 @@ Ahora mismo tienes [Devir - Verbalia Edición catalán  BGVER ](https://www.amaz
 
 🔎:
 
-- Durada aproximada de la partida… Como quieras
-- Duración de 30 a 120 minutos
 - 50 jocs diferents en una sola capsa
-- Para mayores de 12 años
 - Joc en català de Màrius Serra i Oriol Comas
+- Duración de 30 a 120 minutos
+- Durada aproximada de la partida… Como quieras
 - De 1 a 40 jugadores
+- Para mayores de 12 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007XDRWUI/?tag=tolees-21)
