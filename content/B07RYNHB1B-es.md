@@ -28,14 +28,14 @@ Está [VTECH- Super Tráiler TutTut Bólidos Camión Portacoches Interactivo con
 
 ℹ️:
 
-- Versión española
-- El panel lateral del camión se ilumina durante el juego, y hay varios elementos para manipular
-- Tiene voz, efectos de sonido, luces, melodías y canciones; incluye 2 sensores mágicos que activan distintas interacciones, voces, sonidos y música
-- El camión tiene un sensor de movimientos que reproduce frases y música cuando el niño lo pone en movimiento
-- Puede llevar 2 vehículos tut tut bólidos en la plataforma superior y otros 2 en la inferior, que se cierra con la puerta inferior del camión para que no se salgan cuando esté en marcha
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Supertrailer interactivo con una rampa de tres pisos que se levanta y permite lanzar los tut tut bólidos por las rampas o transportarlos en el camión
-- Tiene un gran botón con luz en la luna de cabina para escuchar las alegres frases y canciones del camión, y se puede pulsar también la chimenea para moverla y escuchar sus sonidos
 - Incluye dos mini tut tut bólidos no electrónicos
+- El panel lateral del camión se ilumina durante el juego, y hay varios elementos para manipular
+- Supertrailer interactivo con una rampa de tres pisos que se levanta y permite lanzar los tut tut bólidos por las rampas o transportarlos en el camión
+- El camión tiene un sensor de movimientos que reproduce frases y música cuando el niño lo pone en movimiento
+- Tiene voz, efectos de sonido, luces, melodías y canciones; incluye 2 sensores mágicos que activan distintas interacciones, voces, sonidos y música
+- Tiene un gran botón con luz en la luna de cabina para escuchar las alegres frases y canciones del camión, y se puede pulsar también la chimenea para moverla y escuchar sus sonidos
+- Puede llevar 2 vehículos tut tut bólidos en la plataforma superior y otros 2 en la inferior, que se cierra con la puerta inferior del camión para que no se salgan cuando esté en marcha
+- Versión española
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RYNHB1B/?tag=tolees-21)
