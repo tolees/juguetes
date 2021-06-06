@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jumbo The Vamps-Juego de Mesa Familiar d con un 20.00 % de descuento'
-date: 2021-05-31 15:40:32
+date: 2021-06-06 14:30:30
 image: 'https://m.media-amazon.com/images/I/51Gsm5jo8RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Jumbo The Vamps-Juego de Mesa Familiar de Cartas para ni�
 
 🔎:
 
-- Juego de cartas familiar que consiste en intentar eliminar a todos los vampiros que se pueda, usando las cartas de las que se dispone
-- Contenido: 90 cartas y instrucciones de juego
 - Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
 - Número de jugadores: de 2 a 4
 - Juego de estrategia de cartas ideal para pasar una tarde con amigos y familias con niños
+- Juego de cartas familiar que consiste en intentar eliminar a todos los vampiros que se pueda, usando las cartas de las que se dispone
+- Contenido: 90 cartas y instrucciones de juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WLVBPYC/?tag=tolees-21)

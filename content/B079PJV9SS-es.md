@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset- Loto Photo Juego Educativo para N al 39.91 % de rebaja'
-date: 2021-06-01 13:57:26
+date: 2021-06-06 14:50:48
 image: 'https://m.media-amazon.com/images/I/51wfaoxUZWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B079PJV9SS/?tag=tolees-21'
 descuento: '39.91'
-average: '7.426'
+average: '7.29'
 ---
 
 Tienes [Diset- Loto Photo Juego Educativo para Niños  Multicolor  68943 ](https://www.amazon.es/dp/B079PJV9SS/?tag=tolees-21) con precio final de  6.61 EUR (original: 11.0 EUR) (39.91 %  de rebaja) aqui!
