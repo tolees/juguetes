@@ -28,8 +28,8 @@ En este momento está [PLAYMOBIL - Parque acuático con toboganes  66690 ](https
 
 🔎:
 
-- Con figuras y accesorios
 - Juguete educativo que fomenta el juego simbólico
 - Fomenta creatividad e imaginación
+- Con figuras y accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00O4E3ZNC/?tag=tolees-21)
