@@ -28,8 +28,8 @@ Está [BANDAI NAMCO Entertainment Iberica - Mr. Driller Drillland](https://www.a
 
 ℹ️:
 
-- Modos de batalla multijugador
 - Perfora hasta la victoria
+- Modos de batalla multijugador
 - Vuelve Mr; driller
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GMR6QHR/?tag=tolees-21)
