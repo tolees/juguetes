@@ -28,8 +28,8 @@ Ahora mismo tienes [Educa - Manhattan al Atardecer Puzzle  3 000 Piezas  Multico
 
 🔎:
 
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Edad recomendada: a partir de 12 años
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Número de piezas: 3000, medida aproximada una vez montado: 120 x 85 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084HCTQ7J/?tag=tolees-21)
