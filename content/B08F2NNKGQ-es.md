@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Play-Doh Juguete de peluquería Cortes Di al 20.71 % de descuento'
-date: 2021-06-08 02:40:10
+date: 2021-06-09 08:52:04
 image: 'https://m.media-amazon.com/images/I/51ias7O4jNS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Play-Doh'
 buyurl: 'https://www.amazon.es/dp/B08F2NNKGQ/?tag=tolees-21'
 descuento: '20.71'
-average: '17.1614285714286'
+average: '17.074'
 ---
 
 Ahora mismo tienes [Play-Doh Juguete de peluquería Cortes Divertidos niños a Partir 3 años](https://www.amazon.es/dp/B08F2NNKGQ/?tag=tolees-21) a 15.85 EUR (original: 19.99 EUR) (20.71 %  de descuento) en el siguiente enlace!

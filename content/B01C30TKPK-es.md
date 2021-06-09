@@ -28,11 +28,11 @@ Tienes [VTech Chimpón Tambor - Juguete Electrónico Encajable con Piezas para I
 
 ℹ️:
 
-- Al tocar el tambor con las manos se activan diferentes sonidos; sensibilidad ajustable, a menos intensidad, hay que tocar con menos fuerza
-- La tapa se puede levantar y guardar las piezas dentro del tambor
 - Tambor musical con luz y voz para aprender las formas
+- La luz parpadea al ritmo de las 3 canciones y 20 melodías del tambor
 - Incluye un clasificador de formas con 5 piezas de colores para insertar y aprender formas, números y animales
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alto rendimiento específicas para productos tecnológicos
-- La luz parpadea al ritmo de las 3 canciones y 20 melodías del tambor
+- Al tocar el tambor con las manos se activan diferentes sonidos; sensibilidad ajustable, a menos intensidad, hay que tocar con menos fuerza
+- La tapa se puede levantar y guardar las piezas dentro del tambor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01C30TKPK/?tag=tolees-21)

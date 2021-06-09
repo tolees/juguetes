@@ -28,10 +28,10 @@ Tienes [BeebeeRun Corte de Frutas y Alimentos Falsos Alimentos Juguetes Niños 3
 
 ℹ️:
 
-- Ven con mochila.
+- 41 PCS: papa, col, tomate, zanahoria, brócoli, pimiento verde, maíz, cebolla, camarones, carne, pollo, cangrejo, pulpo, pescado, tortilla, sandía, uva, naranja, mango, limón, fresa, plátano, bebida, Estufa de gas, hervidor, wok, olla, tabla de cortar, cuchillo, cuchara, salero, espátula, tenedor, cuchara, taza * 2, plato * 2,tapa de olla*2.
+- Material: plástico ABS.
 - Seguro: Pase EN71
 - Velcro: la comida se puede separar y pegar con velcro.
-- Material: plástico ABS.
-- 41 PCS: papa, col, tomate, zanahoria, brócoli, pimiento verde, maíz, cebolla, camarones, carne, pollo, cangrejo, pulpo, pescado, tortilla, sandía, uva, naranja, mango, limón, fresa, plátano, bebida, Estufa de gas, hervidor, wok, olla, tabla de cortar, cuchillo, cuchara, salero, espátula, tenedor, cuchara, taza * 2, plato * 2,tapa de olla*2.
+- Ven con mochila.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07T45GCVM/?tag=tolees-21)

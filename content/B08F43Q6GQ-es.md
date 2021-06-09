@@ -29,11 +29,11 @@ Está [Power A - Mando con Cable Mejorado Powera Para Xbox. En Blue Hint  Mando 
 ℹ️:
 
 - Dial de auriculares para silenciar el chat y controlar el audio del videojuego a través de una conexión de audio de 3,5 mm para auriculares estéreo
-- Garantía limitada de dos años. Visita PowerA.com/Support
-- Cable USB extraíble de 3 metros con cierre de velcro
-- Agarre con textura de diamante en la parte trasera y cruceta metálica en la parte delantera
 - El mando con cable incluye motores de doble vibración y botones de juego avanzado asignables
-- Mando para videojuegos ergonómico con disposición de botones estándar que incluye un nuevo botón Compartir
+- Agarre con textura de diamante en la parte trasera y cruceta metálica en la parte delantera
+- Cable USB extraíble de 3 metros con cierre de velcro
 - Con licencia oficial para Xbox Series X|S
+- Mando para videojuegos ergonómico con disposición de botones estándar que incluye un nuevo botón Compartir
+- Garantía limitada de dos años. Visita PowerA.com/Support
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F43Q6GQ/?tag=tolees-21)

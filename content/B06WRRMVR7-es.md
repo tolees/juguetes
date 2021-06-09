@@ -28,8 +28,8 @@ Ahora mismo tienes [Simba- Disney: Minnie Peluche  Multicolor  6315874871 ](http
 
 🔎:
 
-- Peluche.
 - 80 x 30 x 20 cm
+- Peluche.
 - Adecuado para niños a partir de los primeros meses de vida.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06WRRMVR7/?tag=tolees-21)
