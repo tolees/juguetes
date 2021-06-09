@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Sackboy: Una Aventura a lo Grande al 28.58 % de rebaja'
-date: 2021-06-07 07:11:10
+date: 2021-06-09 13:40:38
 image: 'https://m.media-amazon.com/images/I/51nUZl8UlKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21'
 descuento: '28.58'
-average: '57.0621052631579'
+average: '56.8807692307692'
 ---
 
 Tienes [Sony - Sackboy: Una Aventura a lo Grande - PlayStation 5](https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21) con precio final de  49.99 EUR (original: 69.99 EUR) (28.58 %  de rebaja) aqui!

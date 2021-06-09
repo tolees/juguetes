@@ -28,8 +28,8 @@ Está [Pikmi Pops- Mini Surprise Duo Peluche perfumado  Multicolor  Giochi Prezi
 
 ℹ️:
 
-- Hay + de 45 para coleccionar
-- Incluye peana para la piruleta
 - Abre la piruleta y descubrirás en su interior 2 suaves peluches perfumados y más sorpresa
+- Incluye peana para la piruleta
+- Hay + de 45 para coleccionar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076DQL7L1/?tag=tolees-21)
