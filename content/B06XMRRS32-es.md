@@ -28,9 +28,9 @@ Ahora mismo tienes [Kharnage - Juego de mesa  Edge Entertainment EDGKH01 ](https
 
 🔎:
 
-- La temporada perfecta para conquistar esa agradable colina sin ningún valor estratégico
-- ¡Llega la primavera! La estación de las batallas y las masacres
 - Number of players: de 2 a 4
+- ¡Llega la primavera! La estación de las batallas y las masacres
+- La temporada perfecta para conquistar esa agradable colina sin ningún valor estratégico
 - Ya sabes, la que tiene una mesa de picnic en la cima
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XMRRS32/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Hasbro Star Wars - Máscara Darth Vader](https://www.amaz
 
 🔎:
 
-- Saga star wars
 - Gran detalle
 - Licencia Oficial
+- Saga star wars
 - Material resistente
 - Réplica de la película
 
