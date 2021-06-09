@@ -28,12 +28,12 @@ En este momento está [Q Posket - Figura Disney Jack Sparrow  Bandai BP16541 ](h
 
 🔎:
 
-- Auténtico estilo Anime: esta figura de acción es muy detallada y estilizada, con estilo Anime unica que da vida a tu personaje favorito
-- Un Figura de Accion Coleccionable para adultos y niños, Disponibilidad limitada
-- Producto Importado Legalmente y con licencia Oficial Banpresto, el producto llega en su caja original, soporte base incluido
-- Coleccióna todas las figuras de Banpresto: trae la emoción y la aventura del universo Anime a casa; añade héroes y personajes de cualquier saga animada para tu colección de figuras de acción (cada uno se vende por separado)
-- ; las figuras de acción de Banpresto son un regalo para fans y coleccionistas de 15 años en adelanteUtiliza tu imaginación para crear tus propias aventuras épicas con las figuras de acción de Banpresto
 - Basado en Piratas del Caribe Disney es una figura hecha en PVC diseñada y moldeada mano
+- Producto Importado Legalmente y con licencia Oficial Banpresto, el producto llega en su caja original, soporte base incluido
+- Un Figura de Accion Coleccionable para adultos y niños, Disponibilidad limitada
+- ; las figuras de acción de Banpresto son un regalo para fans y coleccionistas de 15 años en adelanteUtiliza tu imaginación para crear tus propias aventuras épicas con las figuras de acción de Banpresto
+- Coleccióna todas las figuras de Banpresto: trae la emoción y la aventura del universo Anime a casa; añade héroes y personajes de cualquier saga animada para tu colección de figuras de acción (cada uno se vende por separado)
+- Auténtico estilo Anime: esta figura de acción es muy detallada y estilizada, con estilo Anime unica que da vida a tu personaje favorito
 - Sientete parte del mundo de la colleccion y los Animes con esta figura que viene empaquetada en un embalaje ecologico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0863BXDGM/?tag=tolees-21)

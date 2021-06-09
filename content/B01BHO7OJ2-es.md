@@ -28,10 +28,10 @@ Ahora mismo tienes [Warner Bros. Entertainment - LEGO Star Wars: El Despertar De
 
 🔎:
 
-- Los jugadores se pondrán en el papel de los héroes de la película
-- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
-- Plataforma del juego: Xbox One
-- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
 - Tipo de producto: videojuego
+- Los jugadores se pondrán en el papel de los héroes de la película
+- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
+- Plataforma del juego: Xbox One
+- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BHO7OJ2/?tag=tolees-21)

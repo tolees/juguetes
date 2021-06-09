@@ -30,8 +30,8 @@ Ahora mismo tienes [Warner Bros. Entertainment - LEGO Vengadores - [Edición: Es
 
 - Tipo de producto: videojuego de acción y aventura
 - El juego cuenta con más de cien personajes jugables
-- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
-- Cada pareja de personajes tiene su propio ataque de equipo
 - Plataforma del juego: PlayStation 4
+- Cada pareja de personajes tiene su propio ataque de equipo
+- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0182KKCIY/?tag=tolees-21)

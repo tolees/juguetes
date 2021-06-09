@@ -28,10 +28,10 @@ Está [Nerf - Elite Trilogy DS 15  Hasbro E2853EU4 ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Lanza 3 dardos; lanza dardos a la vez con cartuchos que salen expulsados del lanzador de juguete trilogy ds-15
-- El lanzador expulsa los cartuchos este lanzador Nerf de bombeo expulsa automáticamente los cartuchos y guarda uno a la vez
 - Portacartuchos la culata tiene lugar para guardar 5 cartuchos para recargar rápido durante juegos Nerf
+- Lanza 3 dardos; lanza dardos a la vez con cartuchos que salen expulsados del lanzador de juguete trilogy ds-15
 - Viene con 3 cartuchos y 15 dardos este lanzador nerf n-strike elite incluye 5 cartuchos y 15 dardos oficiales nerf
+- El lanzador expulsa los cartuchos este lanzador Nerf de bombeo expulsa automáticamente los cartuchos y guarda uno a la vez
 - Coloca dardos, carga cartuchos coloca 3 dardos en 1 cartucho, carga el cartucho en el lanzador y jala el gatillo para lanzar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KQQ5S6T/?tag=tolees-21)

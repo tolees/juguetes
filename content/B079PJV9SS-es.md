@@ -28,8 +28,8 @@ Tienes [Diset- Loto Photo Juego Educativo para Niños  Multicolor  68943 ](https
 
 🔎:
 
-- Valor Educativo, las piezas son fotos reales de frutas que ayudarán al niño a reconocer las frutas
 - Favorece la memoria sensorial
 - Es un juego de asociación de imágenes que consiste en completar los tableros relacionando imágenes iguales
+- Valor Educativo, las piezas son fotos reales de frutas que ayudarán al niño a reconocer las frutas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079PJV9SS/?tag=tolees-21)

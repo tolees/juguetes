@@ -28,7 +28,7 @@ Tienes [Bandai Namco  VBIA5  - Pack: The Witcher 3 Wild Hunt + Dark Souls III](h
 
 🔎:
 
-- The witcher 3
 - Dark souls 3
+- The witcher 3
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HYNP614/?tag=tolees-21)
