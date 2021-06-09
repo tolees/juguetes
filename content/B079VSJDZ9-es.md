@@ -28,9 +28,9 @@ Tienes [Fur Real Friends - Furreal Friends Hasbro E0367EU4 - Zandi Visita Al Mé
 
 🔎:
 
-- Presiona su corazón para escucharlo
-- Reproduce sonidos
-- Zandi monita necesita un chequeo medico
 - Incluye estetoscopio y termómetro
+- Reproduce sonidos
+- Presiona su corazón para escucharlo
+- Zandi monita necesita un chequeo medico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079VSJDZ9/?tag=tolees-21)
