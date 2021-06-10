@@ -28,9 +28,9 @@ Tienes [PLAYMOBIL 4041 - Cinta Transportadora con Mini Excavadora](https://www.a
 
 🔎:
 
-- Dimensiones: 12,5 x40 x35 cm
-- Detalles del producto: Incluye 2 figuras, una cinta transportadora , una excavadora mecánica y de la obra accessories.Length de la cinta transportadora : 55cm .
-- Edad Mínima: 4 años
 - No requiere pilas
+- Dimensiones: 12,5 x40 x35 cm
+- Edad Mínima: 4 años
+- Detalles del producto: Incluye 2 figuras, una cinta transportadora , una excavadora mecánica y de la obra accessories.Length de la cinta transportadora : 55cm .
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001RHAF4G/?tag=tolees-21)
