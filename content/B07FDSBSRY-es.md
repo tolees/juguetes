@@ -28,10 +28,10 @@ Ahora mismo tienes [Hot Wheels - City Super Explosión en el Banco  Pistas de Co
 
 🔎:
 
-- Disfrutarás con tus amigos de sus múltiples funciones durante horas
-- Regalo óptimo para niñas y niños de más de 4 años
-- Los niños podrán crear un mundo de circuitos con lugares emblemáticos de la ciudad y coches a escala 1:64
-- Los conjuntos de juego de hot wheels se pueden conectar directamente entre ellos gracias a su sistema de conexión
 - Hot wheels city ofrece un sinfín de emociones en lugares reconocibles y una acción
+- Los conjuntos de juego de hot wheels se pueden conectar directamente entre ellos gracias a su sistema de conexión
+- Los niños podrán crear un mundo de circuitos con lugares emblemáticos de la ciudad y coches a escala 1:64
+- Regalo óptimo para niñas y niños de más de 4 años
+- Disfrutarás con tus amigos de sus múltiples funciones durante horas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDSBSRY/?tag=tolees-21)
