@@ -28,10 +28,10 @@ En este momento está [Star Wars - Vintage Nave Slave  Hasbro  E96475L0 ](https:
 
 🔎:
 
-- Con detalles realistas incluidos una cabina que se abre, un tren de aterrizaje funcional, alas de separación y una escalera, la nave se puede exhibir en cualquier colección de figuras de acción
-- Las figuras y las naves clásicas de 9,5 cm de Star Wars de Star Wars The Vintage Collection presentan la marca original de juguetes Kenner
 - La letal Esclavo I adquirió mala fama por su asociación con dos cazarrecompensas que llevaban armadura mandaloriana; primero Jango Fett, luego la heredó Boba Fett
+- Con detalles realistas incluidos una cabina que se abre, un tren de aterrizaje funcional, alas de separación y una escalera, la nave se puede exhibir en cualquier colección de figuras de acción
 - Colecciona otras figuras y naves de 9,5 cm de The Vintage Collection de Star Wars para coleccionar, intercambiar con amigos o regalar (se venden por separado; sujeto a disponibilidad.)
 - NAVE SIMBÓLICA DE STAR WARS: Esta nave está inspirada en las naves estelares de Star War; El Imperio contraataca, y es el regalo para cualquier fan o coleccionista de Star Wars a partir de 4 años
+- Las figuras y las naves clásicas de 9,5 cm de Star Wars de Star Wars The Vintage Collection presentan la marca original de juguetes Kenner
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084XWM83C/?tag=tolees-21)
