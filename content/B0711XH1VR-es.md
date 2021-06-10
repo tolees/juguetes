@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Star Wars-Darth Vader 3D Sculptu al 21.16 % de descuento'
-date: 2021-06-06 17:28:44
+date: 2021-06-10 16:25:49
 image: 'https://m.media-amazon.com/images/I/61+F5JPRKGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21'
 descuento: '21.16'
-average: '19.2553846153846'
+average: '19.285'
 ---
 
 Está [Educa - Star Wars-Darth Vader 3D Sculpture Puzzle  Multicolor  17334 ](https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21) con 21.16 de descuento por 19.67 EUR (original: 24.95 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Educa - Star Wars-Darth Vader 3D Sculpture Puzzle  Multicolor  17334 ](ht
 
 ℹ️:
 
-- Incluye pincel, pinturas, una pedana de plástico con el nombre del personaje y guías para la sujeción de las piezas
-- Puzzle 3D de 160 capas/piezas; a partir de 6 años
 - Crea una escultura en 3D de Darth Vader de Star Wars
+- Incluye pincel, pinturas, una pedana de plástico con el nombre del personaje y guías para la sujeción de las piezas
 - Monta la escultura capa a capa siguiendo el orden numérico o atrévete a montarla sin mirar los números para un mayor reto; una vez montada, dale color con las pinturas
+- Puzzle 3D de 160 capas/piezas; a partir de 6 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0711XH1VR/?tag=tolees-21)
