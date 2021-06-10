@@ -28,12 +28,12 @@ Está [Asmodee Jamaica SCJCA01ML Juego de mesa](https://www.amazon.es/dp/B07N3BK
 
 ℹ️:
 
-- Cada vez que los piratas se encuentren, tendrán que luchar para picar el contenido de su carga (y a veces se esconderá un baúl maldito).
-- Jamaica es un juego de bandeja familiar y divertido que te sumerge en una carrera de barcos piratas
-- De 2 a 6 jugadores
+- A partir de 8 años
 - Tiempo de juego: 30 minutos
 - El objetivo del juego en Jamaica es llegar a la isla lo antes posible, recuperando las mercancías necesarias para este tipo de carrera como oro para los impuestos portuarios, polvo para los combates navales y alimentos para viajar por mar.
 - La mesa de juego representa a la isla de Jamaica en torno a la cual se desarrollará el "gran desafío".
-- A partir de 8 años
+- Cada vez que los piratas se encuentren, tendrán que luchar para picar el contenido de su carga (y a veces se esconderá un baúl maldito).
+- De 2 a 6 jugadores
+- Jamaica es un juego de bandeja familiar y divertido que te sumerge en una carrera de barcos piratas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N3BKD1G/?tag=tolees-21)
