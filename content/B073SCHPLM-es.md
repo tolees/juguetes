@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Lego Wor con un 55.01 % de descuento'
-date: 2021-06-09 17:23:17
+date: 2021-06-10 19:46:16
 image: 'https://m.media-amazon.com/images/I/51Cuh-l723L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21'
 descuento: '55.01'
-average: '23.6450000000001'
+average: '23.5457894736843'
 ---
 
 En este momento está [Warner Bros Interactive Spain - Lego Worlds](https://www.amazon.es/dp/B073SCHPLM/?tag=tolees-21) a 17.99 EUR (original: 39.99 EUR) (55.01 %  de descuento) en el siguiente enlace!
