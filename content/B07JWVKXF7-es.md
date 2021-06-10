@@ -28,10 +28,10 @@ Ahora mismo tienes [CADENCE Unisex - Bicicleta estática plegable SMARTFIT 100  
 
 🔎:
 
-- GRANDE CONSOLE AVEC ECRAN LCD : contrôlez la distance, les calories, les RPM, le temps.
-- COMPACT ET PLIABLE : Peu encombrant, pliez votre vélo en toute simplicité grâce à la technologie Space Saver et déplacez le facilement grâce à ses roulettes de transport.
 - Los pedales de bicicleta deben atornillarse en direcciones opuestas (pedal derecho en sentido horario, pedal izquierdo en sentido antihorario)
-- CONFORT : Large siège rembourré et réglable en hauteur, roulettes de déplacement et support smartphone intégré
+- COMPACT ET PLIABLE : Peu encombrant, pliez votre vélo en toute simplicité grâce à la technologie Space Saver et déplacez le facilement grâce à ses roulettes de transport.
 - Para cualquier problema con las piezas o el servicio, comuníquese con nuestro servicio de atención al cliente al: 91 215 89 23 Lunes–viernes 9:00–19:00, sábado 9:00–13:00 CET
+- GRANDE CONSOLE AVEC ECRAN LCD : contrôlez la distance, les calories, les RPM, le temps.
+- CONFORT : Large siège rembourré et réglable en hauteur, roulettes de déplacement et support smartphone intégré
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JWVKXF7/?tag=tolees-21)
