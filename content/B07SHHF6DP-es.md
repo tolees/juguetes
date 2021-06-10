@@ -28,10 +28,10 @@ Está [Bizak- Atrapa Monsters  Color surtido  64011060 ](https://www.amazon.es/d
 
 ℹ️:
 
-- Quien atrape más monstruos ganará
+- Proyectará 4 diferentes tipos de monstruos
 - El contenedor se irá llenando mientras más monstruos atrapes
+- Quien atrape más monstruos ganará
 - Juega solo o con tus amigos
 - Busca en la oscuridad con la lámpara delatrapa monster y encuentra tu atrapa monsters
-- Proyectará 4 diferentes tipos de monstruos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SHHF6DP/?tag=tolees-21)
