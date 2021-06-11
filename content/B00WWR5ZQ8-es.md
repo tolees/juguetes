@@ -28,10 +28,10 @@ En este momento está [Warner Bros Interactive Spain - LEGO: Jurassic World](htt
 
 🔎:
 
-- Tipo de producto: videojuego de acción y aventura
 - Plataforma del juego: PlayStation 4
-- El juego cuenta con más de 100 personajes desbloqueables para jugar
-- Cada personaje tiene una habilidad especial
 - Las películas están representadas prestando gran atención a los detalles
+- Tipo de producto: videojuego de acción y aventura
+- Cada personaje tiene una habilidad especial
+- El juego cuenta con más de 100 personajes desbloqueables para jugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WWR5ZQ8/?tag=tolees-21)
