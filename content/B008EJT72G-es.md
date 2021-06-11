@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Juego de Mesa La Resistencia  Mis al 24.05 % de descuento'
-date: 2021-06-02 14:32:42
+date: 2021-06-11 10:20:28
 image: 'https://m.media-amazon.com/images/I/51J7KHhN7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B008EJT72G/?tag=tolees-21'
 descuento: '24.05'
-average: '17.2872727272727'
+average: '17.1125'
 ---
 
 Ahora mismo tienes [Devir- Juego de Mesa La Resistencia  Miscelanea  25197 ](https://www.amazon.es/dp/B008EJT72G/?tag=tolees-21) a 15.19 EUR (original: 20.0 EUR) (24.05 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Devir- Juego de Mesa La Resistencia  Miscelanea  25197 ](htt
 🔎:
 
 - Los jugadores son miembros de la resistencia
+- Idioma principal: español
+- Juego de identidades secretas, deducción y engaño con gran interacción
 - Incluye una expansión: "la trama se complica"
 - Duración aproximada de la partida 30 minutos
-- Juego de identidades secretas, deducción y engaño con gran interacción
-- Idioma principal: español
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008EJT72G/?tag=tolees-21)
