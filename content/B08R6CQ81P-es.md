@@ -28,9 +28,9 @@ Está [Educa Exclusive Series Esther Gili Mayo. Puzzle de 500 Piezas. Ref. 19015
 
 ℹ️:
 
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Número de piezas: 500. Medida aproximada una vez montado: 48 x 34 cm
 - La ilustradora Esther Gili hace magia con sus acuarelas y nos enamora con cada una de sus ilustraciones.
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1894. Educa es sinónimo de calidad y experiencia
+- Número de piezas: 500. Medida aproximada una vez montado: 48 x 34 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R6CQ81P/?tag=tolees-21)
