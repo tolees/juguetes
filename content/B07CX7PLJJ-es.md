@@ -28,10 +28,10 @@ Ahora mismo tienes [JOYIN 2 Pack Pistolas de Agua para Niños Pistola de Chorro 
 
 🔎:
 
-- 【Paquete】Incluyen pack de 2 chorro de agua, con 2 colores diferentes. GARANTÍA DE DEVOLUCIÓN: "Póngase en contacto con Nosotros SIN PREOCUPACIONES EN CUALQUIER TIEMPO” si que recibió no funciona en 90 días, le reembolsaremos o le enviaremos un nuevo artículo.
 - 【Capacidad y distancia】La pistola de agua tiene una capacidad de 739 ml de agua y alcanza una distancia de hasta 11 metros. Adecuado para niños y adultos.
 - 【¡SÚPER DIVERTIDO!】Perfecto para fiestas en la piscina, juegos de playa, jardines.
 - 【Juego divertido para al aire libre】La pistola de agua al aire libre se considera una mejor opción para los padres para interactuar con sus hijos.
 - 【Seguridad】la pistola de agua está hecha de materiales seguros, duraderos, no tóxicos y ambientales.
+- 【Paquete】Incluyen pack de 2 chorro de agua, con 2 colores diferentes. GARANTÍA DE DEVOLUCIÓN: "Póngase en contacto con Nosotros SIN PREOCUPACIONES EN CUALQUIER TIEMPO” si que recibió no funciona en 90 días, le reembolsaremos o le enviaremos un nuevo artículo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CX7PLJJ/?tag=tolees-21)

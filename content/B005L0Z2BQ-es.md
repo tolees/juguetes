@@ -28,12 +28,12 @@ Ahora mismo tienes [Thrustmaster TH8A Add-On shifter - el cambio de marchas de g
 
 🔎:
 
-- Para PC: funciona con todos los volantes de carreras del mercado; Para PS3 y PS4: funciona con los volantes de carreras T500RS, Ferrari F1 Wheel Integral T500, T300RS, T300 Ferrari GTE, T150 y T-GT; Para Xbox One: funciona con el TX Racing Wheel, TMX y el TS-XW
+- Posición y rotación de la placa de cambio y anclajes ajustables en 360°
+- Precisión que no se reduce con el tiempo (sensor magnético sin contactos). Sin tact switch ni potenciómetro (para lograr una vida útil ilimitada del producto)
+- Mecanismo interno 100% metálico
 - Sensación realista de cambio de marchas
 - Palanca de cambio de 13 cm de alto con pomo
-- Mecanismo interno 100% metálico
 - Compatible con los pomos universales reales
-- Precisión que no se reduce con el tiempo (sensor magnético sin contactos). Sin tact switch ni potenciómetro (para lograr una vida útil ilimitada del producto)
-- Posición y rotación de la placa de cambio y anclajes ajustables en 360°
+- Para PC: funciona con todos los volantes de carreras del mercado; Para PS3 y PS4: funciona con los volantes de carreras T500RS, Ferrari F1 Wheel Integral T500, T300RS, T300 Ferrari GTE, T150 y T-GT; Para Xbox One: funciona con el TX Racing Wheel, TMX y el TS-XW
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005L0Z2BQ/?tag=tolees-21)
