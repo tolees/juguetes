@@ -28,10 +28,10 @@ Tienes [Educa - El Jardín de Las Delicias Puzzle  2000 Piezas  Multicolor  1850
 
 🔎:
 
-- Serie Genuine
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Edad recomendada: a partir de 12 años
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Serie Genuine
 - Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084HCHVYR/?tag=tolees-21)
