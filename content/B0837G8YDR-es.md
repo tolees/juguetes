@@ -28,9 +28,9 @@ En este momento está [los Barriguitas- Set de bebé con ropita Azul y Mascota d
 
 🔎:
 
-- Además, incluye una mascota osito de punto también azul
-- Set de bebé barriguitas pelón vestido con la ropa más mona junto con 2 prendas adicionales, rebequita y gorrito de color azul
 - Llegan los bebés barriguitas con la misma bonita estética que los originales de antes
+- Set de bebé barriguitas pelón vestido con la ropa más mona junto con 2 prendas adicionales, rebequita y gorrito de color azul
+- Además, incluye una mascota osito de punto también azul
 - La figura de bebé barriguitas mide unos 15cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0837G8YDR/?tag=tolees-21)
