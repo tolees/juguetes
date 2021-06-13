@@ -30,8 +30,8 @@ Está [Mattel Cleo & Cuquin-Muñecos Vamos al médico Juguetes de la Familia Tel
 
 - En total, hay seis piezas de juego
 - El muñeco cuquín viene con su pijama de dinosaurio
-- Incluye un estetoscopio, un martillo de reflejos, una escayola y un tensiómetro
-- La muñeca cleo mide 20 cm y lleva una bata blanca
 - Incluye cuatro accesorios médicos de juego que se pueden sujetar a los muñecos
+- La muñeca cleo mide 20 cm y lleva una bata blanca
+- Incluye un estetoscopio, un martillo de reflejos, una escayola y un tensiómetro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FJ8G96L/?tag=tolees-21)
