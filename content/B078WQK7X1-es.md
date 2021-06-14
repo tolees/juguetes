@@ -28,10 +28,10 @@ Está [Nenuco - Mi Primer baño  Famosa 700014070 ](https://www.amazon.es/dp/B07
 
 ℹ️:
 
-- Nenuco se puede bañar contigo
-- Edad recomendada: a partir de 2 años
-- Cuerpo especial sumergible y de drenado rápido
 - Incluye un patito de goma para jugar juntos en el agua
+- Edad recomendada: a partir de 2 años
+- Nenuco se puede bañar contigo
+- Cuerpo especial sumergible y de drenado rápido
 - Muñeco blandito de 35 cm con un cuerpo especial para poder sumergirlo en el agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WQK7X1/?tag=tolees-21)

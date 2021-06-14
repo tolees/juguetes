@@ -29,7 +29,7 @@ En este momento está [Valentino Rossi Vr46 Classic-Accessories  Peluche Unisex 
 🔎:
 
 - Fantasía en la concha
-- 100% poliéster
 - Logo en la concha
+- 100% poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NKPV38W/?tag=tolees-21)
