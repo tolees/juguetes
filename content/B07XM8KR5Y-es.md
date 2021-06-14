@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.68 % en BANDAI NAMCO Entertainment Iberica - One'
-date: 2021-06-13 07:39:30
+date: 2021-06-14 13:45:42
 image: 'https://m.media-amazon.com/images/I/51-0rJM1skL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07XM8KR5Y/?tag=tolees-21'
 descuento: '30.68'
-average: '35.064'
+average: '37.5366666666667'
 ---
 
 Tienes [BANDAI NAMCO Entertainment Iberica - One Piece Pirate Warriors 4](https://www.amazon.es/dp/B07XM8KR5Y/?tag=tolees-21) con un 30.68 % de descuento con precio de oferta de 49.9 EUR (original: 71.99 EUR) en el siguiente enlace!
