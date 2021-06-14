@@ -28,9 +28,9 @@ En este momento está [Bizak- Toy Story Woody con Voz  Figura Articulada  Color 
 
 🔎:
 
-- Figura con nuevo cuerpo muy suave con cabeza, manos y sombrero esculpido. Figura articulada de 40 cm de altura
-- Modelo surtido: fugura de accion Woody Toy story 3 y Woody Toy story 4
 - 15 frases en ESPAÑOL
+- Figura con nuevo cuerpo muy suave con cabeza, manos y sombrero esculpido. Figura articulada de 40 cm de altura
 - ¡Nota! El fabricante nos proporciona este producto en modelos aleatorios. Nos resulta imposible proporcionarte el producto en un modelo y/o color en particular. Al confirmar tu compra, recibirás uno de los modelos que se muestran en la imagen o en el título, en función de la disponibilidad. Muchas gracias por tu comprensión.
+- Modelo surtido: fugura de accion Woody Toy story 3 y Woody Toy story 4
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MXL5Z8E/?tag=tolees-21)
