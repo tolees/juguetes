@@ -28,9 +28,9 @@ En este momento está [Winning Moves Monopoly Dragon Ball Super- Versión en esp
 
 🔎:
 
-- El juego de mesa familiar favorito del mundo te trae otra emocionante edición de monopoly: ¡dragon ball super
 - Avanza a vegeta, jiren y goku: ¿deberás pagar el alquiler o te lo pagarán a ti
 - Elige tu peón favorito, recorre las casillas de tus personajes favoritos y acumula fortunas, pero ten cuidado con los impuestos, la cárcel y la quiebra
+- El juego de mesa familiar favorito del mundo te trae otra emocionante edición de monopoly: ¡dragon ball super
 - Invierte en casas y hoteles para lograr el éxito
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P5NB3CK/?tag=tolees-21)
