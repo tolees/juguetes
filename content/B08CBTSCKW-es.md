@@ -28,8 +28,8 @@ En este momento está [Take-Two 2K - NBA 2k21- Nintendo Switch  Edición Exclusi
 
 🔎:
 
+- 5.000 VC (moneda virtual) + 5.000 MT (puntos de Mi EQUIPO) + 10 packs Promo de Mi EQUIPO (uno a la semana) + 9 potenciadores de Mi CARRERA + Colección de 5 zapatillas + Colección digital de Damian Lillard
 - En Amazon te llevarás además en exclusiva 6 potenciadores de habilidad de Mi CARRERA para tu jugador
 - Además del juego NBA2K21 para la plataforma seleccionada, incluye como bonus de reserva
-- 5.000 VC (moneda virtual) + 5.000 MT (puntos de Mi EQUIPO) + 10 packs Promo de Mi EQUIPO (uno a la semana) + 9 potenciadores de Mi CARRERA + Colección de 5 zapatillas + Colección digital de Damian Lillard
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CBTSCKW/?tag=tolees-21)
