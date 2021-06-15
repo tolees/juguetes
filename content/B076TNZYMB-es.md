@@ -28,7 +28,7 @@ Está [Funko Peluche  27202 ](https://www.amazon.es/dp/B076TNZYMB/?tag=tolees-21
 
 ℹ️:
 
-- Producto oficial
 - Producto nuevo
+- Producto oficial
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076TNZYMB/?tag=tolees-21)
