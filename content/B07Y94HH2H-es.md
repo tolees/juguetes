@@ -28,10 +28,10 @@ Ahora mismo tienes [Mattel Games Jewel Heist  Juego de Mesa Familiar  13 años  
 
 🔎:
 
-- Los detectives podrán recuperar las joyas y resolver el misterio cuando los ladrones no borren bien su rastro y cuando sean arrestados
 - Prepárate para una tarde de juegos llena de misterios alocados y diversión interactiva con jewel heist, un juego perfecto para adultos o niños mayores de 13 años
-- El equipo que más joyas tenga al final de la partida gana
-- Una vez repartidas las cartas de identidad secreta, los ladrones tendrán que robar físicamente las joyas de la cámara acorazada del museo mientras los detectives cierran los ojos
 - Roba, miente y acusa para ganar más joyas que nadie en jewel heist, un divertidísimo juego estratégico de identidades secretas
+- Una vez repartidas las cartas de identidad secreta, los ladrones tendrán que robar físicamente las joyas de la cámara acorazada del museo mientras los detectives cierran los ojos
+- El equipo que más joyas tenga al final de la partida gana
+- Los detectives podrán recuperar las joyas y resolver el misterio cuando los ladrones no borren bien su rastro y cuando sean arrestados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y94HH2H/?tag=tolees-21)
