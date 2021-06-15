@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 21 Standard | Xbo al 70.00 % de descuento'
-date: 2021-05-28 13:59:21
+date: 2021-06-15 02:18:20
 image: 'https://m.media-amazon.com/images/I/51aSla51AwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
