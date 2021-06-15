@@ -28,10 +28,10 @@ Tienes [Goliath - Antón Zampon  Juego de Mesa  30.337 ](https://www.amazon.es/d
 
 🔎:
 
-- Antón Zampón es un divertido juego de mesa y habilidad para niños de entre 4 y 7 años que hará que los pequeños estén muy entretenidos.
-- ¡El juego es adecuado para 1-6 jugadores, es decir que pueden jugar a la vez hasta 6 jugadores! ¡Todo el entretenimiento en un juego de mesa para los más pequeños!
-- ¡El objetivo del juego es muy sencillo, dar de comer a ANTON sin que le explote el pantalón! ¿Cuántas hamburguesas podrá comer este cerdito?
 - Antes de empezar a jugar, decidid cuantas partidas vais a jugar a este divertido juego de mesa para niños, ganará el jugador que menos veces haya perdido.
+- ¡El objetivo del juego es muy sencillo, dar de comer a ANTON sin que le explote el pantalón! ¿Cuántas hamburguesas podrá comer este cerdito?
+- ¡El juego es adecuado para 1-6 jugadores, es decir que pueden jugar a la vez hasta 6 jugadores! ¡Todo el entretenimiento en un juego de mesa para los más pequeños!
+- Antón Zampón es un divertido juego de mesa y habilidad para niños de entre 4 y 7 años que hará que los pequeños estén muy entretenidos.
 - ¡Diviértete descubriendo cuántas hamburguesas puede comer este cerdito y ten cuidado no le explote el pantalón!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00699OTDK/?tag=tolees-21)

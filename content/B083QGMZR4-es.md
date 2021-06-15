@@ -28,10 +28,10 @@ Tienes [DOORLV Puzzles Rompecabezas-Juego De Rompecabezas De Madera De 1000 Piez
 
 🔎:
 
-- ♕ Rompecabezas: (partición de letras) Es más fácil completar los rompecabezas, incluyendo 1000 rompecabezas y carteles completos para ayudar a resolver.
-- ♕ Material: 1000 piezas de madera de alta calidad, tamaño: 75 * 50 cm, grosor: aproximadamente 2 mm y admite imágenes personalizadas.
-- ♕ Advertencia: ¡Usar bajo la supervisión directa de un adulto! ¡No apto para niños menores de 3 años!
 - ♕ ¡Los mejores regalos para cumpleaños, Navidad, trabajo en equipo y otras fiestas!
+- ♕ Advertencia: ¡Usar bajo la supervisión directa de un adulto! ¡No apto para niños menores de 3 años!
+- ♕ Material: 1000 piezas de madera de alta calidad, tamaño: 75 * 50 cm, grosor: aproximadamente 2 mm y admite imágenes personalizadas.
+- ♕ Rompecabezas: (partición de letras) Es más fácil completar los rompecabezas, incluyendo 1000 rompecabezas y carteles completos para ayudar a resolver.
 - ♕ Después de completar el rompecabezas, puedes comprar un marco para decorar tu rompecabezas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083QGMZR4/?tag=tolees-21)
