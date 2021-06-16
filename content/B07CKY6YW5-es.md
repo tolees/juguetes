@@ -28,12 +28,12 @@ Tienes [Chicco Osito Enseña Emociones  Peluche Interactivo Bilingüe  Oso de Pe
 
 ℹ️:
 
-- EVOLUTIVO: el peluche para niños Teddy cuenta con 3 modos de juego evolutivos que acompañan a los niños en su crecimiento a medida que aprenden a expresar sus emociones
-- OSO DE PELUCHE: Teddy es el compañero de juegos que crece con el niño; es un peluche con una carita dulce para abrazar, hecho con un tejido suave y de gran calidad
+- APRENDE EMOCIONES: Teddy cuenta 5 historias sobre las emociones primarias (alegría, tristeza, aversión, ira y miedo), ayudando al niño a reconocer las emociones y los gestos para expresarlas
+- CORAZÓN QUE CAMBIA DE COLOR: el corazón de Teddy cambia de color según las emociones; con las 5 tarjetas de emociones incluidas, el niño puede aprender a asociar cada emoción con el color de la tarjeta que lo representa
 - PELUCHE INTERACTIVO: Teddy, el Osito que Enseña las Emociones de Chicco es un peluche bilingüe, evolutivo e interactivo que enseña a los niños los números, las letras y cómo reconocer emociones, en español e inglés
 - JUGUETES PARA NIÑOS: descubre el universo de los juguetes Chicco, lleno de diversión y con una gran variedad de juguetes infantiles y regalos para niños y niñas, tanto en inglés como en castellano
-- APRENDE EMOCIONES: Teddy cuenta 5 historias sobre las emociones primarias (alegría, tristeza, aversión, ira y miedo), ayudando al niño a reconocer las emociones y los gestos para expresarlas
 - JUGUETE EDUCATIVO INCLUSIVO: el osito Teddy ayuda a desarrollar habilidades cognitivas con más de 36 canciones, melodías, frases y nanas, 5 cuentos, las primeras letras del abecedario y números del 1 al 10
-- CORAZÓN QUE CAMBIA DE COLOR: el corazón de Teddy cambia de color según las emociones; con las 5 tarjetas de emociones incluidas, el niño puede aprender a asociar cada emoción con el color de la tarjeta que lo representa
+- EVOLUTIVO: el peluche para niños Teddy cuenta con 3 modos de juego evolutivos que acompañan a los niños en su crecimiento a medida que aprenden a expresar sus emociones
+- OSO DE PELUCHE: Teddy es el compañero de juegos que crece con el niño; es un peluche con una carita dulce para abrazar, hecho con un tejido suave y de gran calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CKY6YW5/?tag=tolees-21)
