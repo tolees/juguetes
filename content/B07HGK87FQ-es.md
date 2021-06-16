@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Lego Har al 50.02 % de descuento'
-date: 2021-06-14 19:10:41
+date: 2021-06-16 07:39:55
 image: 'https://m.media-amazon.com/images/I/51ujYsYI5aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07HGK87FQ/?tag=tolees-21'
 descuento: '50.02'
-average: '15.995'
+average: '14.994'
 ---
 
 Ahora mismo tienes [Warner Bros Interactive Spain - Lego Harry Potter Collection](https://www.amazon.es/dp/B07HGK87FQ/?tag=tolees-21) a 10.99 EUR (original: 21.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Warner Bros Interactive Spain - Lego Harry Potter Collection
 
 🔎:
 
+- Dos juegos remasterizados, ahora en un solo disco.
 - Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
-- Dos juegos remasterizados, ahora en un solo disco.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HGK87FQ/?tag=tolees-21)
