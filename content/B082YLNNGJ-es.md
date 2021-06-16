@@ -28,10 +28,10 @@ Ahora mismo tienes [Jurassic World - Dinosario de Juguete Bracchiosaurus  Mattel
 
 🔎:
 
-- Presenta detalles realistas de la película, así como colores auténticos y texturas realistas.
-- Esta enorme figura de Brachiosaurus está inspirada en la película original de Jurassic Park
-- Cuenta con varios puntos de articulación en cuello, patas, cola y mandíbula para adoptar todo tipo de posturas
 - Es adecuado para disfrutar de las fantásticas aventuras de Jurassic Park
+- Esta enorme figura de Brachiosaurus está inspirada en la película original de Jurassic Park
+- Presenta detalles realistas de la película, así como colores auténticos y texturas realistas.
 - Con una altura aproximada de 71cm y 86 cm de largo, esta figura de Brachiosaurus está lista para la acción
+- Cuenta con varios puntos de articulación en cuello, patas, cola y mandíbula para adoptar todo tipo de posturas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082YLNNGJ/?tag=tolees-21)
