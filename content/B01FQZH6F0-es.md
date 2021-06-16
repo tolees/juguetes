@@ -29,9 +29,9 @@ Tienes [Bizak- Air Rebound 2.0 Radio Control  Color surtido  63103435 ](https://
 ℹ️:
 
 - Funciona con 2 pilas AA
-- Tecnología 2.4 GHz
-- Infla el neumático, tendrás acción y saltos increíbles para todos los lados
 - Bota, rebota, gira e increíbles acrobacias
+- Tecnología 2.4 GHz
 - Edad recomendada + 8 años
+- Infla el neumático, tendrás acción y saltos increíbles para todos los lados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FQZH6F0/?tag=tolees-21)
