@@ -28,9 +28,9 @@ Ahora mismo tienes [Think Fun- Roller Coaster Challenge Juego de habilidad  Rave
 
 🔎:
 
-- Desarrolla la capacidad de resolución de problemas
-- Contenido: 1 coche de montaña rusa, 21 piezas de pista, 1 tablero, 36 postes, Librito de instrucciones, 40 cartas de reto
-- Estimula la imaginación y la creatividad, la emocionante montaña rusa ofrece diversión tanto para los niños pequeños como para los mayores
 - Ejercita las importantes habilidades CTIM, incluyendo la física y las matemáticas
+- Desarrolla la capacidad de resolución de problemas
+- Estimula la imaginación y la creatividad, la emocionante montaña rusa ofrece diversión tanto para los niños pequeños como para los mayores
+- Contenido: 1 coche de montaña rusa, 21 piezas de pista, 1 tablero, 36 postes, Librito de instrucciones, 40 cartas de reto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BDRZN7X/?tag=tolees-21)
