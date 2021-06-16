@@ -28,8 +28,8 @@ Ahora mismo tienes [Warner Bros Interactive Spain - Lego Harry Potter Collection
 
 🔎:
 
-- Dos juegos remasterizados, ahora en un solo disco.
 - Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
+- Dos juegos remasterizados, ahora en un solo disco.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HGK87FQ/?tag=tolees-21)
