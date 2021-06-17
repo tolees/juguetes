@@ -28,9 +28,9 @@ Ahora mismo tienes [Disney Princess - Castillo Maletín  Hasbro E1745EU4 ](https
 
 🔎:
 
-- Abre las puertas para descubrir cuatro decorados diferentes
 - Guarda los accesorios en el castillo y llévatelo donde vayas
 - Tira del asa para ampliar el castillo a dos niveles
 - Incluye 13 accesorios inspirados en las películas de Princesas Disney
+- Abre las puertas para descubrir cuatro decorados diferentes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CNNQXGK/?tag=tolees-21)
