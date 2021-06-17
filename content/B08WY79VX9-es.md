@@ -29,10 +29,10 @@ Tienes [Nintendo - DC Super Hero Girls: Teen Power](https://www.amazon.es/dp/B08
 🔎:
 
 - Asombrosos ataques: cada heroína dispone de multitud de ataques diferentes así como ataques especiales y poderosos y espectaculares ataques en cadena. Úsalos adecuadamente para derrotar a las hordas de enemigos y los temibles jefes.
-- Un montón de personajes que ya conoces. Batgirl, Wonderwoman, Supergirl, Harley Quinn, Catwoman y un largo etcétera te esperan en tu aventura.
 - Un misterio por resolver, un ciudad que salvar. ¿Por qué los robots están atacando Metrópolis? ¿Qué supervillano está detrás? Y sobre todo ¿cuál es su intención?. Vive un historia que te enganchará mientras resuelves numerosas misiones secundarias a lo largo y ancho de Metrópolis.
-- Haz a tus heroínas únicas. Súbelas de nivel, potencia sus habilidades, visita la tienda de moda para conseguir el look ideal y crea un equipo especial para hacer frente al mal.
-- Presume de fotos. Gracias a Superstapost y al modo foto, podrás ser la más popular de Metrópolis. Comparte tus fotos en esta red social dentro del juego y disfruta de la fama. Eso si, ¡no olvides proteger tu identidad secreta!
 - Descubre Metrópolis como nunca antes. Pasea por sus calles llenas de vida, visita el instituto Metrópolis High School o el Sweet Justice. Un montón de localizaciones que conoces te esperan.
+- Presume de fotos. Gracias a Superstapost y al modo foto, podrás ser la más popular de Metrópolis. Comparte tus fotos en esta red social dentro del juego y disfruta de la fama. Eso si, ¡no olvides proteger tu identidad secreta!
+- Un montón de personajes que ya conoces. Batgirl, Wonderwoman, Supergirl, Harley Quinn, Catwoman y un largo etcétera te esperan en tu aventura.
+- Haz a tus heroínas únicas. Súbelas de nivel, potencia sus habilidades, visita la tienda de moda para conseguir el look ideal y crea un equipo especial para hacer frente al mal.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WY79VX9/?tag=tolees-21)
