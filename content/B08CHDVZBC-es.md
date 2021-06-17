@@ -30,9 +30,9 @@ En este momento está [Dragon Ball - Juego de mesa Supervivencia Universal](http
 
 - nfréntate a tus amigos con los guerreros más poderosos de los universos y decide quién es el más fuerte.
 - Apto de 2 a 6 jugadores
+- Cada jugador deberá elegir su equipo compuesto por 6 guerreros
 - Juego de mesa Dragon Ball Super
 - 30-45 minutos de juego
-- Cada jugador deberá elegir su equipo compuesto por 6 guerreros
 - Usa cartas de ataque, defensa, especial y evento para darle la vuelta al combate
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CHDVZBC/?tag=tolees-21)

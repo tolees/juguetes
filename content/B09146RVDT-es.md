@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Sca al 15.28 % de descuento'
-date: 2021-06-15 08:40:11
+date: 2021-06-17 20:19:43
 image: 'https://m.media-amazon.com/images/I/51kqQvvf1RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B09146RVDT/?tag=tolees-21'
 descuento: '15.28'
-average: '66.8214285714285'
+average: '66.0924999999999'
 ---
 
 Está [BANDAI NAMCO Entertainment Iberica - Scarlet Nexus](https://www.amazon.es/dp/B09146RVDT/?tag=tolees-21) con 15.28 de descuento por 60.99 EUR (original: 71.99 EUR) en el siguiente enlace!

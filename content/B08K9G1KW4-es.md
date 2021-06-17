@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Poi al 21.29 % de rebaja'
-date: 2021-06-02 06:16:55
+date: 2021-06-17 20:21:00
 image: 'https://m.media-amazon.com/images/I/51IuCMKlVwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08K9G1KW4/?tag=tolees-21'
 descuento: '21.29'
-average: '36.02'
+average: '35.03'
 ---
 
 Tienes [BANDAI NAMCO Entertainment Iberica - Poison Control](https://www.amazon.es/dp/B08K9G1KW4/?tag=tolees-21) con precio final de  33.05 EUR (original: 41.99 EUR) (21.29 %  de rebaja) aqui!
