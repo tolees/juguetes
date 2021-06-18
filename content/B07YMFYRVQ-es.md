@@ -30,8 +30,8 @@ Ahora mismo tienes [HORI - Volante Mario Kart Pro Mini  Nintendo Switch/PC ](htt
 
 - Incluye pedales analógicos para una experiencia de conducción más realista
 - Compatible también con otros juegos de carreras para Nintendo Switch
-- Levas de cambio secuencial en el volante
 - Botón "M" funcional: utiliza el objeto equipado en el kart
 - Licencia oficial de Nintendo
+- Levas de cambio secuencial en el volante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YMFYRVQ/?tag=tolees-21)
