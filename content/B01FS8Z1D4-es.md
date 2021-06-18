@@ -28,9 +28,9 @@ Tienes [Subsonic - Estación De Carga Para 2 Mandos Dualshock 4 - Dual Charging 
 
 🔎:
 
-- Se conecta directamente al puerto USB de la consola
-- Almohadillas antideslizante para mayor seguridad
 - Cable USB incluido
+- Almohadillas antideslizante para mayor seguridad
 - Base de carga para 2 mandos DualShock 4
+- Se conecta directamente al puerto USB de la consola
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01FS8Z1D4/?tag=tolees-21)
