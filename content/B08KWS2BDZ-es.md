@@ -28,10 +28,10 @@ Ahora mismo tienes [TCGFACTORY - TCG FACTORY TCGYEDO YEDO DELUXE MASTER SET Jueg
 
 🔎:
 
-- Eurogame que incluye modo competitivo, cooperativo y solitario a cargo del famoso diseñador Dávid Turczi.
-- Juego de estrategia con unos magníficos componentes deluxe y una amplísima rejugabilidad gracias a sus cuatro módulos adicionales.
-- Actualización del clásico Yedo, con ilustraciones totalmente renovadas, reglas mejoradas y nuevos modos de juego.
 - Personaliza tu experiencia de juego, desde la duración de la partida a la dificultad de la misma o incluso el grado de interacción entre los jugadores.
+- Actualización del clásico Yedo, con ilustraciones totalmente renovadas, reglas mejoradas y nuevos modos de juego.
+- Eurogame que incluye modo competitivo, cooperativo y solitario a cargo del famoso diseñador Dávid Turczi.
 - Incluye un tablero a doble cara, tableros troquelados para jugadores, meeples totalmente personalizados y más de un centenar de piezas de cartón, además de decenas de cartas.
+- Juego de estrategia con unos magníficos componentes deluxe y una amplísima rejugabilidad gracias a sus cuatro módulos adicionales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KWS2BDZ/?tag=tolees-21)
