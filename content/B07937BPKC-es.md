@@ -28,10 +28,10 @@ Ahora mismo tienes [Educa - Entrando en la Habitación Puzzle  6000 Piezas  Mult
 
 🔎:
 
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Número de piezas: 6.000, medida aproximada una vez montado: 156 x 107
 - Edad recomendada: a partir de 12 años
-- Serie Genuine
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Serie Genuine
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07937BPKC/?tag=tolees-21)

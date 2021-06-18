@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCGFACTORY - TCG FACTORY TCGYEDO YEDO DE al 34.79 % de descuento'
-date: 2021-06-17 17:55:29
+date: 2021-06-18 19:37:23
 image: 'https://m.media-amazon.com/images/I/4138HkW807L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TCGFACTORY'
 buyurl: 'https://www.amazon.es/dp/B08KWS2BDZ/?tag=tolees-21'
 descuento: '34.79'
-average: '69.9084615384615'
+average: '69.34'
 ---
 
 Ahora mismo tienes [TCGFACTORY - TCG FACTORY TCGYEDO YEDO DELUXE MASTER SET Juego de mesa ambientado en el antiguo Japón feudal. Juego de estrategia de dificultad media  perfecto para jugones y aficionados a los eurogames](https://www.amazon.es/dp/B08KWS2BDZ/?tag=tolees-21) a 61.95 EUR (original: 95.0 EUR) (34.79 %  de descuento) en el siguiente enlace!
@@ -30,8 +30,8 @@ Ahora mismo tienes [TCGFACTORY - TCG FACTORY TCGYEDO YEDO DELUXE MASTER SET Jueg
 
 - Eurogame que incluye modo competitivo, cooperativo y solitario a cargo del famoso diseñador Dávid Turczi.
 - Juego de estrategia con unos magníficos componentes deluxe y una amplísima rejugabilidad gracias a sus cuatro módulos adicionales.
-- Incluye un tablero a doble cara, tableros troquelados para jugadores, meeples totalmente personalizados y más de un centenar de piezas de cartón, además de decenas de cartas.
-- Personaliza tu experiencia de juego, desde la duración de la partida a la dificultad de la misma o incluso el grado de interacción entre los jugadores.
 - Actualización del clásico Yedo, con ilustraciones totalmente renovadas, reglas mejoradas y nuevos modos de juego.
+- Personaliza tu experiencia de juego, desde la duración de la partida a la dificultad de la misma o incluso el grado de interacción entre los jugadores.
+- Incluye un tablero a doble cara, tableros troquelados para jugadores, meeples totalmente personalizados y más de un centenar de piezas de cartón, además de decenas de cartas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KWS2BDZ/?tag=tolees-21)
