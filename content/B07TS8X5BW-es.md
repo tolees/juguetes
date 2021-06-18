@@ -28,10 +28,10 @@ Tienes [PLAY FUN BY IMC TOYS - IMC Toys Play Fun  Fast Flash  Juego de habilidad
 
 ℹ️:
 
-- Flash Flash es un juego de agilidad que pondrá a prueba tus reflejos
 - Llegarás a tiempo antes de que sea demasiado tarde
-- Demuestra que eres más rápido que la velocidad de la luz
 - Juego para 1+ jugadores Apto para 6+ años Funciona con pilas (no incluidas)
+- Demuestra que eres más rápido que la velocidad de la luz
+- Flash Flash es un juego de agilidad que pondrá a prueba tus reflejos
 - Coloca las bases y estate atento a los colores que se iluminan; hasta 4 modalidades de juego
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TS8X5BW/?tag=tolees-21)

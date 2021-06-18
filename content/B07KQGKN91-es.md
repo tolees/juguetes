@@ -28,9 +28,9 @@ Está [Nerf- Mega Megalodon  Multicolor  Hasbro E4217EU4 ](https://www.amazon.es
 
 ℹ️:
 
-- Manivela para disparar: manivela el mango hacia adelante y hacia atrás en esta gran pistola de juguete roja para enviar 20 dardos Nerf Mega en una fila silbando a través del aire
 - Tambor giratorio de 20 dardos: el tambor giratorio tiene capacidad para 20 dardos Nerf Mega para darte un montón de potencia de fuego para todas tus batallas Nerf
-- Acción Slam-Fire: dispara los 20 dardos de espuma roja rápidamente con acción Slam-fire mientras sostienes el gatillo y manivela el mango
+- Manivela para disparar: manivela el mango hacia adelante y hacia atrás en esta gran pistola de juguete roja para enviar 20 dardos Nerf Mega en una fila silbando a través del aire
 - Dispara dardos de hasta 26 m: experimenta la potencia de explosión de la pistola de juguete Megalodon que dispara dardos de hasta 26 m
+- Acción Slam-Fire: dispara los 20 dardos de espuma roja rápidamente con acción Slam-fire mientras sostienes el gatillo y manivela el mango
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KQGKN91/?tag=tolees-21)

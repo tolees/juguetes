@@ -29,9 +29,9 @@ Ahora mismo tienes [Power A - Mando inalámbrico PowerA mejorado para Nintendo S
 🔎:
 
 - Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
-- Incluye mandos de movimiento y botones de juego avanzado asignables
-- Libertad inalámbrica con Bluetooth 5.0
-- Mando ergonómico con disposición de botones estándar y diseño de K.K. Slider
 - Incluye dos pilas AA para hasta 30 horas de juego
+- Mando ergonómico con disposición de botones estándar y diseño de K.K. Slider
+- Libertad inalámbrica con Bluetooth 5.0
+- Incluye mandos de movimiento y botones de juego avanzado asignables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0842W2CTZ/?tag=tolees-21)
