@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GDM Games  GDMG6  - GDM Games- Juego de  al 33.18 % de descuento'
-date: 2021-06-18 13:45:15
+date: 2021-06-19 16:22:54
 image: 'https://m.media-amazon.com/images/I/61ktsmeW+iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GDM Games (GDMG6)'
 buyurl: 'https://www.amazon.es/dp/B07KZHVJ1X/?tag=tolees-21'
 descuento: '33.18'
-average: '43.9966666666667'
+average: '42.185'
 ---
 
 Está [GDM Games  GDMG6  - GDM Games- Juego de Mesa  Color Rojo  GDM135 ](https://www.amazon.es/dp/B07KZHVJ1X/?tag=tolees-21) con 33.18 de descuento por 36.75 EUR (original: 55.0 EUR) en el siguiente enlace!

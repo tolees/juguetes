@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Ni  al 20.00 % de descuento'
-date: 2021-06-18 06:23:58
+date: 2021-06-19 16:21:58
 image: 'https://m.media-amazon.com/images/I/61M7cNfAbQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07T9LM27M/?tag=tolees-21'
 descuento: '20.00'
-average: '17.37'
+average: '17.065'
 ---
 
 Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Ni no Kuni: La ira de la Bruja Blanca - Remastered](https://www.amazon.es/dp/B07T9LM27M/?tag=tolees-21) a 14.32 EUR (original: 17.9 EUR) (20.00 %  de descuento) en el siguiente enlace!
