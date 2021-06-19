@@ -29,8 +29,8 @@ Está [Amigo Spiele - Juego de Cartas Wizard  3 hasta 6 Jugadores  6900   versi�
 ℹ️:
 
 - Este juego se encuentra en la categoría Juego de roles
-- Tiempo de juego de hasta 45 minutos
 - Juego de cartas adecuado para dos a seis jugadores
 - Apto para niños a partir de 10 anos
+- Tiempo de juego de hasta 45 minutos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00006YYXI/?tag=tolees-21)
