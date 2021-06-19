@@ -29,9 +29,9 @@ En este momento está [Disney Peluche de Nala - El Rey León - Mediano - 17   ](
 🔎:
 
 - Tienda Disney genuina, original y auténtica
+- Características bordadas
 - Construcción de felpa suave
 - Esculpido de felpa detallado
 - Mechón de pelo y cola de piel sintética
-- Características bordadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QB7PHL8/?tag=tolees-21)
