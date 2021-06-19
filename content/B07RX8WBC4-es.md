@@ -30,8 +30,8 @@ Tienes [PDP Mando Pro Deluxe Faceoff Chat Audio Camo Azul  Nintendo Switch ](htt
 
 - Incluye un cable USB fijo de 3 metros.
 - Cambia entre diferentes carcasas de Faceoff gracias a su exclusivo diseño intercambiable.
-- El conector de audio de 3,5 mm permite escuchar el sonido del juego y hablar por USB. Además, puedes ajustar el audio sobre la marcha con la cruceta del mando.
 - Personaliza tu juego con los dobles botones largos programables de la parte posterior.
 - Con licencia oficial de Nintendo.
+- El conector de audio de 3,5 mm permite escuchar el sonido del juego y hablar por USB. Además, puedes ajustar el audio sobre la marcha con la cruceta del mando.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RX8WBC4/?tag=tolees-21)

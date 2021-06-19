@@ -28,13 +28,13 @@ Está [Barbie Quiero Ser pizza chef  muñeca y accesorios de juguete  regalo par
 
 ℹ️:
 
-- Guarda los accesorios en el estante que hay debajo de la cinta transportadora o en la pequeña nevera bajo el mostrador; ¡su puerta se abre y se cierra!
-- Cocina un montón de diversión con Barbie y su pizzería, que incluye un horno con funciones creativas y todos los ingredientes necesarios para preparar, «cocinar» y servir pizza, ¡como masa de tres colores distintos!
-- Usa la masa incluida, de color blanco, beige y rojo, para crear pizzas de forma rápida y sencilla: solo hay que colocar la masa beige y roja en la prensa de pizzas para aplanar la corteza y la salsa, mover la pizza por la cinta transportadora moviendo la palanca, llenar el rallador de masa blanca y girar la manivela para verter el «queso» rallado sobre la pizza, ¡y luego volver a mover la palanca para desplazar la pizza hasta el horno!
-- Representa todo tipo de historias con Barbie, que luce un conjunto de cocinera de pizzas con su camiseta de pizzera y un estampado clásico de cuadros rosas y blancos en la falda. Para completar su look, incluye unos zapatos rosas, una gorra a juego y un delantal verde.
-- Cuando ya está «hecha», ¡sácala del horno y córtala con el cortador de pizza!
-- Toma los pedidos y cobra en la caja registradora que hay en el mostrador, debajo del menú.
 - ¡Usa la espátula para servir porciones en los dos platos o en la caja de pizzas para llevar!
 - A las pequeñas gourmets les encantará cocinar historias, descubrir el mundo de la cocina y representar sus sueños, porque con Barbie, ¡tú puedes ser lo que quieras!
+- Cocina un montón de diversión con Barbie y su pizzería, que incluye un horno con funciones creativas y todos los ingredientes necesarios para preparar, «cocinar» y servir pizza, ¡como masa de tres colores distintos!
+- Usa la masa incluida, de color blanco, beige y rojo, para crear pizzas de forma rápida y sencilla: solo hay que colocar la masa beige y roja en la prensa de pizzas para aplanar la corteza y la salsa, mover la pizza por la cinta transportadora moviendo la palanca, llenar el rallador de masa blanca y girar la manivela para verter el «queso» rallado sobre la pizza, ¡y luego volver a mover la palanca para desplazar la pizza hasta el horno!
+- Cuando ya está «hecha», ¡sácala del horno y córtala con el cortador de pizza!
+- Representa todo tipo de historias con Barbie, que luce un conjunto de cocinera de pizzas con su camiseta de pizzera y un estampado clásico de cuadros rosas y blancos en la falda. Para completar su look, incluye unos zapatos rosas, una gorra a juego y un delantal verde.
+- Toma los pedidos y cobra en la caja registradora que hay en el mostrador, debajo del menú.
+- Guarda los accesorios en el estante que hay debajo de la cinta transportadora o en la pequeña nevera bajo el mostrador; ¡su puerta se abre y se cierra!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0751RGXLR/?tag=tolees-21)

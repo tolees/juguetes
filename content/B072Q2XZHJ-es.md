@@ -28,12 +28,12 @@ Ahora mismo tienes [Eleven Force Monopoly The Big Bang Theory  Edición en Caste
 
 🔎:
 
-- Entiende el mundo de las finanzas de una forma divertida
-- Monopoly the big bang theory (63317)
-- Incentiva tu pensamiento estratégico
-- Edición en Castellano
-- Entrena habilidades para tu día a día
-- Número de jugadores: 1
 - Juegos de mesa juegos de acción y reflejos eleven force
+- Número de jugadores: 1
+- Incentiva tu pensamiento estratégico
+- Entrena habilidades para tu día a día
+- Entiende el mundo de las finanzas de una forma divertida
+- Edición en Castellano
+- Monopoly the big bang theory (63317)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072Q2XZHJ/?tag=tolees-21)
