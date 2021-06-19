@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price- Autobús Escolar Amarillo G al 25.11 % de descuento'
-date: 2021-06-16 07:16:30
+date: 2021-06-19 18:17:22
 image: 'https://m.media-amazon.com/images/I/51d8MXPeDpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B089FBJ8T6/?tag=tolees-21'
 descuento: '25.11'
-average: '24.8018181818182'
+average: '25.2308333333333'
 ---
 
 Está [Fisher-Price- Autobús Escolar Amarillo Grande de Little People  Mattel GTL68    Versión en español ](https://www.amazon.es/dp/B089FBJ8T6/?tag=tolees-21) con 25.11 de descuento por 29.95 EUR (original: 39.99 EUR) en el siguiente enlace!
