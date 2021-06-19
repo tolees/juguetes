@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Ace al 15.35 % de descuento'
-date: 2021-06-18 06:27:27
+date: 2021-06-19 07:40:23
 image: 'https://m.media-amazon.com/images/I/51KQ-EfRSgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B01N5XG1SW/?tag=tolees-21'
 descuento: '15.35'
-average: '18.1794999999999'
+average: '17.9990476190475'
 ---
 
 Está [BANDAI NAMCO Entertainment Iberica - Ace Combat 7: Skies Unknown](https://www.amazon.es/dp/B01N5XG1SW/?tag=tolees-21) con 15.35 de descuento por 14.39 EUR (original: 17.0 EUR) en el siguiente enlace!
