@@ -30,7 +30,7 @@ Ahora mismo tienes [los Barriguitas Playset casita  Famosa 700012701 ](https://w
 
 - Tiene habitación con jacuzzi, una cama y una mesita
 - Adecuada para niñas a partir de 4 años
-- Esta casita de Barriguitas es un maletín para poder llevarla dónde quieras junto con tu muñeca
 - Incluye figura de Barriguitas
+- Esta casita de Barriguitas es un maletín para poder llevarla dónde quieras junto con tu muñeca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01AIFU2RW/?tag=tolees-21)
