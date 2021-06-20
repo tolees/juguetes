@@ -28,10 +28,10 @@ Tienes [OIVO Cargador con 2 Recargable Batería para Xbox One/Xbox Series X/S Ma
 
 🔎:
 
-- 【El paquete incluye】 1xestación de carga para xbox series, 2x 1300mAH paquetes de baterías recargables, 4Xtapas de batería (2 piezas para la serie Xbox, 2 piezas para Xbox One), 1 cable USB (31,5 pulgadas), 1 manual de usuario.
-- 【Seguro y fácil de usar】 Chip protector inteligente incorporado, evita sobrecorriente, sobrecalentamiento, sobretensión, cortocircuito. Inserte ligeramente la batería en el controlador, cierre la tapa de la batería (eligiendo Xbox One / Series) en los controladores y luego colóquelos en la base de carga.
 - 【Indicadores LED y correa LED】 Cuando el LED de carga se ilumina en color ROJO, cuando se realiza la carga cambia a color VERDE.
 - 【Paquetes de baterías recargables y de gran capacidad】 Dígale adiós a las baterías AA, cargue el ciclo más de 3000 veces; Se necesitan 2.5 horas para cargar 2 paquetes de baterías, 1PCS proporciona hasta 20 horas de tiempo de funcionamiento, ya no se retira de su juego intenso Cuando sus controladores están agotados
+- 【Seguro y fácil de usar】 Chip protector inteligente incorporado, evita sobrecorriente, sobrecalentamiento, sobretensión, cortocircuito. Inserte ligeramente la batería en el controlador, cierre la tapa de la batería (eligiendo Xbox One / Series) en los controladores y luego colóquelos en la base de carga.
+- 【El paquete incluye】 1xestación de carga para xbox series, 2x 1300mAH paquetes de baterías recargables, 4Xtapas de batería (2 piezas para la serie Xbox, 2 piezas para Xbox One), 1 cable USB (31,5 pulgadas), 1 manual de usuario.
 - 【Base de Carga para Xbox Series & One & Elite Mando】 Esta estación de carga del mando viene con dos paquetes de baterías recargables de 1300mAh, es compatible con los controladores Xbox Series X / S y One X / S / Xbox One / Elite / Xbox Series S / X.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T4NH1W4/?tag=tolees-21)

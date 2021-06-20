@@ -29,8 +29,8 @@ En este momento está [2K - Sid Meier s Civilization VI for Nintendo Switch](htt
 🔎:
 
 - El Camino A La Victoria Es La Que Se Determina.
-- Ver Las Maravillas De Su Propagación Imperio A Través Del Mapa.
-- Entertainment Software Rating Board (Esrb) Contenido Descripción: Drug Reference, Lenguaje, Violencia Leve, Temas Sugerentes
 - Aumenta De Desbloqueo Que Aceleran El Progreso De Su Civilización A Través De La Historia.
+- Entertainment Software Rating Board (Esrb) Contenido Descripción: Drug Reference, Lenguaje, Violencia Leve, Temas Sugerentes
+- Ver Las Maravillas De Su Propagación Imperio A Través Del Mapa.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HH8ZSMM/?tag=tolees-21)
