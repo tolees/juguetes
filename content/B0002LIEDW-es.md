@@ -28,9 +28,9 @@ Ahora mismo tienes [Clementoni- Renoir: Bal du Moulin de la Galette Los Pingüin
 
 🔎:
 
-- Rompecabezas de la línea dedicada a los principales museos y obras de arte de la historia
-- Desarrolla habilidades de observación, lógica y destreza
 - Ofrece una forma de construir su propia colección privada
 - Óptimo para pasar momentos de ocio con amigos o familiares
+- Desarrolla habilidades de observación, lógica y destreza
+- Rompecabezas de la línea dedicada a los principales museos y obras de arte de la historia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0002LIEDW/?tag=tolees-21)
