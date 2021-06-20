@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Sup con un 44.78 % de descuento'
-date: 2021-06-15 17:22:27
+date: 2021-06-20 19:16:38
 image: 'https://m.media-amazon.com/images/I/51ik6bmTQoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07MK45L8M/?tag=tolees-21'
 descuento: '44.78'
-average: '31.8803125'
+average: '32.0351515151515'
 ---
 
 En este momento está [BANDAI NAMCO Entertainment Iberica - Super Dragon Ball Heroes World Mission - Hero Edition - Import espagnol](https://www.amazon.es/dp/B07MK45L8M/?tag=tolees-21) a 36.99 EUR (original: 66.99 EUR) (44.78 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Super Dragon Ball He
 
 🔎:
 
-- DLC con 11 cartas de desbloqueo anticipado (Promoción válida hasta el 5 de abril de 2019)
 - Ce jeu est une version importée. Il nest pas garanti que le français soit disponible dans les options de jeu
 - 5 Cartas físicas
+- DLC con 11 cartas de desbloqueo anticipado (Promoción válida hasta el 5 de abril de 2019)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MK45L8M/?tag=tolees-21)
