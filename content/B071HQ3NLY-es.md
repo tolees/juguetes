@@ -28,8 +28,8 @@ En este momento está [Bizak estilo total Estudio Mechas Y Rizador New  multicol
 
 🔎:
 
-- Además puedes rizar y ondular tu pelo
 - Aplica el color sobre un mechón de tu pelo y estarás lista para lucir mechas de color
+- Además puedes rizar y ondular tu pelo
 - Incluye dos colores diferentes
 - Crea tus nuevos look con este completo set estudio mechas y rizador 3 en 1
 
