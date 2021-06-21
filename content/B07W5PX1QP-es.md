@@ -28,10 +28,10 @@ Está [LEGO 41395 Friends Bus de la Amistad Juguete de Construcción para Niños
 
 ℹ️:
 
-- Viene con un montón de accesorios para mini muñecas, un hámster, un portátil, una cámara, una sartén, un huevo, fichas decorativas, una manta, una galleta y mucho más
-- A tu niño o niña de +8 años le encantará este juguete de construcción LEGO Friends; a bordo de este autobús de juguete lleno de funciones descubrirán infinitas posibilidades
-- El juguete incluye también una piscina que se desliza bajo el autobús, una red de tenis extraíble que permite divertirse fuera del bús, y el puesto de reparaciones con herramientas
-- Incluye a Olivia, Mia y Stephanie, el juguete de construcción para niños y niñas +8 años viene con muchos detalles para horas de diversión ininterrumpida de juego de rol
 - El techo se desliza hacia atrás para facilitar el acceso a las zonas de estar de abajo, y un techo abatible permite un fácil acceso a los dormitorios
+- A tu niño o niña de +8 años le encantará este juguete de construcción LEGO Friends; a bordo de este autobús de juguete lleno de funciones descubrirán infinitas posibilidades
+- Incluye a Olivia, Mia y Stephanie, el juguete de construcción para niños y niñas +8 años viene con muchos detalles para horas de diversión ininterrumpida de juego de rol
+- El juguete incluye también una piscina que se desliza bajo el autobús, una red de tenis extraíble que permite divertirse fuera del bús, y el puesto de reparaciones con herramientas
+- Viene con un montón de accesorios para mini muñecas, un hámster, un portátil, una cámara, una sartén, un huevo, fichas decorativas, una manta, una galleta y mucho más
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W5PX1QP/?tag=tolees-21)

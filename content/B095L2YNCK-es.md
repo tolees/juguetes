@@ -30,7 +30,7 @@ Ahora mismo tienes [PlayStation 5 - Mando inalámbrico DualSense + Auriculares i
 
 - Retroalimentación háptica: Siente la respuesta táctil capaz de transmitir las acciones del juego con dos activadores que sustituyen a los motores de vibración tradicionales. Cuando lo tienes en las manos, estas vibraciones dinámicas son capaces de simular todo tipo de sensaciones, como los elementos del entorno o el retroceso de diferentes armas.
 - Gatillos adaptables: Experimenta distintos niveles de fuerza y tensión al interactuar con tu entorno y tu equipo mientras juegas. Ya tenses un arco o pises el freno de un coche de carreras, te sentirás conectado físicamente a las acciones que se desarrollan en pantalla.
-- Incluye carga por USB Type-C y doble micrófono con cancelación de ruido para que puedas conversar con claridad cristalina.
 - Juega cómodamente con unos auriculares inalámbricos optimizados para el audio 3D de las consolas PS5.
+- Incluye carga por USB Type-C y doble micrófono con cancelación de ruido para que puedas conversar con claridad cristalina.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B095L2YNCK/?tag=tolees-21)
