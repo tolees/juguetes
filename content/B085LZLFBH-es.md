@@ -28,10 +28,10 @@ Tienes [Hasbro Gaming- Hundir La Flota Juego de Estrategia  Multicolor  A3264IB2
 
 ℹ️:
 
-- La función del juego de salvas battleshite permite lanzar múltiples ataques
 - Unidades de juego portátiles para jugar en cualquier sitio
-- Si puedes localizar los barcos de tu enemigo y destruir los cinco, ganas
-- Las clavijas rojas indican aciertos y las blancas fallos
+- La función del juego de salvas battleshite permite lanzar múltiples ataques
 - El juego clásico battleshite permite jugar batallas navales cara a cara
+- Las clavijas rojas indican aciertos y las blancas fallos
+- Si puedes localizar los barcos de tu enemigo y destruir los cinco, ganas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085LZLFBH/?tag=tolees-21)
