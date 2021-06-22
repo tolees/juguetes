@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart Electric Folding Bike  e-bi al 25.07 % de descuento'
-date: 2021-06-21 00:06:59
+date: 2021-06-22 12:54:23
 image: 'https://m.media-amazon.com/images/I/41-tz2wMczL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.es/dp/B08PYTTMZ7/?tag=tolees-21'
 descuento: '25.07'
-average: '763.914'
+average: '761.476666666667'
 ---
 
 Ahora mismo tienes [Xiaomi Smart Electric Folding Bike  e-bike  - Bicicleta eléctrica plegable  Adultos Unisex  Negro](https://www.amazon.es/dp/B08PYTTMZ7/?tag=tolees-21) a 749.29 EUR (original: 999.99 EUR) (25.07 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Xiaomi Smart Electric Folding Bike  e-bike  - Bicicleta elé
 
 🔎:
 
+- Sensor de fuerza en la rueda trasera, más potencia por menos esfuerzo
 - Batería de gran capacidad. Hasta 45 km de recorrido
 - Potente motor de 250W
-- Sensor de fuerza en la rueda trasera, más potencia por menos esfuerzo
 - Diseño ligero y plegable
 - Ordenador de abordo: monitoriza en tiempo real tus datos de pedaleo, fuerza, velocidad, distancia y consumo de calorías
 
