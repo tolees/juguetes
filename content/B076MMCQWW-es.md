@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juegos Mattel - Mattel Games DOS  juego  al 25.03 % de descuento'
-date: 2021-06-21 12:12:51
+date: 2021-06-22 16:41:34
 image: 'https://m.media-amazon.com/images/I/51DLhZlFNqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Juegos Mattel'
 buyurl: 'https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21'
 descuento: '25.03'
-average: '8.15707547169809'
+average: '8.1508411214953'
 ---
 
 Está [Juegos Mattel - Mattel Games DOS  juego de cartas de UNO  edad recomandada 7 - 10 años  Mattel FRM36 ](https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21) con 25.03 de descuento por 7.49 EUR (original: 9.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Juegos Mattel - Mattel Games DOS  juego de cartas de UNO  edad recomandad
 
 ℹ️:
 
-- el objetivo del juego es ser el primero en quedarse sin cartas, pero en esta versión, los jugadores deben gritar dos cuando les queden 2 cartas
 - Cuando te queden 2 cartas, no te olvides de gritar dos
 - Juego de mesa familiar recomendado a partir de 7 años
 - Termina el primero para ganar puntos por las cartas que quedan en las manos de tus oponentes
 - juego de mesa de 2 a 10 jugadores, pensado para que se desafíen entre ellos individualmente o por equipos
+- el objetivo del juego es ser el primero en quedarse sin cartas, pero en esta versión, los jugadores deben gritar dos cuando les queden 2 cartas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21)

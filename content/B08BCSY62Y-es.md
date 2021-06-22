@@ -28,12 +28,12 @@ Ahora mismo tienes [BORRAS - Peaky Blinders. Juego de Mesa de Estrategia. Convi�
 
 🔎:
 
-- ¡Crea una red de amigos y enemigos, invierte en ron, piezas de automóvil, armas y carreras de caballos, y enfréntate a tus competidores para convertirte en el gánster más temido de Birmingham!
-- Única versión en español
 - Regresa a los locos años veinte en la ciudad de Birmingham y juega tu papel en una emocionante guerra entre bandas de gánsteres.
-- Gestiona y aumenta tu negocio comerciando con materiales. Envía a tus secuaces a los lugares correctos para reforzar tu equipo, conseguir materiales o atacar territorios enemigos.
+- Única versión en español
+- ¡Crea una red de amigos y enemigos, invierte en ron, piezas de automóvil, armas y carreras de caballos, y enfréntate a tus competidores para convertirte en el gánster más temido de Birmingham!
 - Aumenta tus estadísticas personales, como el carisma, la fuerza y el intelecto, para vencer a tus enemigos y completar tus misiones. Pero no podrás hacerlo sin ayuda.
 - +14 años. De 2 a 4 jugadores. 80 minutos de juego
+- Gestiona y aumenta tu negocio comerciando con materiales. Envía a tus secuaces a los lugares correctos para reforzar tu equipo, conseguir materiales o atacar territorios enemigos.
 - Decide acertadamente y mejora el resultado de tu tirada con el dado. Vende los materiales que consigas para ganar dinero y aumentar tu imperio.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BCSY62Y/?tag=tolees-21)
