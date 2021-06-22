@@ -28,10 +28,10 @@ En este momento está [INTERBABY- Peluche Térmico Oso Beige](https://www.amazon
 
 🔎:
 
-- Funciones Calor: Alivia cólicos del lactante y ayuda a hacer mejores digestiones.
-- Bolsita de semillas extraíbles, apta para microondas y nevera.
-- Peluche térmico Modelo Oso Beige – Apto para niños y bebés.
-- Funciones Frío: Caídas, golpes o chichones. Ayuda a bajar la fiebre y el calor corporal.
 - Alternativa segura y cómoda a bolsas de agua caliente y mantas eléctricas.
+- Peluche térmico Modelo Oso Beige – Apto para niños y bebés.
+- Bolsita de semillas extraíbles, apta para microondas y nevera.
+- Funciones Calor: Alivia cólicos del lactante y ayuda a hacer mejores digestiones.
+- Funciones Frío: Caídas, golpes o chichones. Ayuda a bajar la fiebre y el calor corporal.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HKRC3QG/?tag=tolees-21)
