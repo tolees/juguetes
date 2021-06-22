@@ -28,9 +28,9 @@ Ahora mismo tienes [Fisher-Price Bloques infantiles  juguete bloques construcci�
 
 🔎:
 
-- Este juguete fisher-price para bebé enseña los colores y las formas
-- El juego de piezas incluye 10 bloques de colores para ordenar, apilar y encajar
 - Regalo original para bebes a partir de 6 meses
+- El juego de piezas incluye 10 bloques de colores para ordenar, apilar y encajar
+- Este juguete fisher-price para bebé enseña los colores y las formas
 - Todos los bloques del juego de encajar caben dentro del cubo para guardarlos
 - Asa fácil de coger para llevarse el juguete para encajar piezas a todas partes
 

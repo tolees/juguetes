@@ -28,8 +28,8 @@ Tienes [Juegos Mattel - Mattel Games - Baño Boom  Atrapa la Caca  Juego de mesa
 
 🔎:
 
-- Juego de mesa que incluye un retrete de juguete, el desatascador, el dado y caca
 - Juego de mesa de 2 a 4 jugadores, a partir de 5 años
+- Juego de mesa que incluye un retrete de juguete, el desatascador, el dado y caca
 - Diversión y risas aseguradas, es clave tener reacciones rápidas
 - Cuando la caca sale volando, se debe coger cuanto antes, si la atrapas al vuelo te llevas dos fichas
 - Se debe desatascar el retrete tantas veces como diga el dado
