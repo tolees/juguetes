@@ -28,7 +28,7 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Poison Control Contaminated Edition
 
 ℹ️:
 
-- Código de descarga de BSO
 - Minilibro de arte de tapa blanda
+- Código de descarga de BSO
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08K9G1KW5/?tag=tolees-21)
