@@ -29,8 +29,8 @@ Está [Educa Aurora Boreal en Islandia. Puzzle de 1500 Piezas. Ref. 19041  Multi
 ℹ️:
 
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia
-- La aurora polar o aurora boreal es un fenómeno en forma de brillo o luminiscencia que se presenta en el cielo nocturno, generalmente en zonas polares. Fascínate con este puzzle de 1500 piezas de Islandia.
 - Número de piezas: 1500. Medida aproximada una vez montado: 85 x 60 cm
+- La aurora polar o aurora boreal es un fenómeno en forma de brillo o luminiscencia que se presenta en el cielo nocturno, generalmente en zonas polares. Fascínate con este puzzle de 1500 piezas de Islandia.
+- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R6DYMCC/?tag=tolees-21)

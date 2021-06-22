@@ -30,8 +30,8 @@ Está [Educa Borrás - Star Wars Kylo Ren Puzzle 3D  17333 ](https://www.amazon.
 
 - Contenido: 160 piezas, una base de pl´satico con guías verticales, un sticker para personalizar la base, 2 rotuladores, instrucciones
 - Una vez terminada, la escultura se convierte en un auténtico objeto de decoración
-- Superpón en el orden correcto las piezas de cartón sobre la base de plástico siguiendo las guías verticales
 - De 6 a 99 años
+- Superpón en el orden correcto las piezas de cartón sobre la base de plástico siguiendo las guías verticales
 - Crea tu escultura de Kylo Ren en 3D
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072C2CMD6/?tag=tolees-21)

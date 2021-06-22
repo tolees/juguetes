@@ -28,13 +28,13 @@ Tienes [Devir - Juego Polilla Tramposa  BGPOLI ](https://www.amazon.es/dp/B00BBY
 
 ℹ️:
 
+- Para ganar has de hacer trampas
 - Temática: juegos de cartas
+- Para ganar has de hacer trampas
 - Edad mínima recomendada: 84 meses
-- El juego consiste en quedarse sin cartas, para ello iremos echando una carta con un número inmediatamente superior o inferior a la que hay en la mesa
 - Ganador del prestigioso deutscher spiele preis best childrens game" 2012
-- Para ganar has de hacer trampas
-- Duración aproximada de la partida 15-25 min
-- Para ganar has de hacer trampas
 - Ganador del prestigioso “Deutscher Spiele preis Best Children’s Game” 2012
+- El juego consiste en quedarse sin cartas, para ello iremos echando una carta con un número inmediatamente superior o inferior a la que hay en la mesa
+- Duración aproximada de la partida 15-25 min
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BBYDARY/?tag=tolees-21)
