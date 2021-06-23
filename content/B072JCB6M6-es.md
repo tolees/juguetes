@@ -28,10 +28,10 @@ Está [Piny Fashion Doll- Muñeca Piny Dance  Famosa 700013449 ](https://www.ama
 
 ℹ️:
 
-- Las coreografías que hayas creado las podrás proyectar en forma de holograma
-- Crea las coreografías más originales con la ayuda de Michelle y tu móvil
-- Incluye una muñeca articulada de Michelle, un pedestal que sostiene a la muñeca y el cartón de fondo (Croma) , un altavoz, un libro con distintos movimientos para enseñar a Michelle a bailar y una base para el móvil
-- Podrás hacer fotos de Michelle en distintas posiciones e incorporarlas en la aplicación de PINY Dance
 - Escoge el tema musical que quieras, coloca el fondo que más te guste y añade muchas cosas más a tu video
+- Las coreografías que hayas creado las podrás proyectar en forma de holograma
+- Incluye una muñeca articulada de Michelle, un pedestal que sostiene a la muñeca y el cartón de fondo (Croma) , un altavoz, un libro con distintos movimientos para enseñar a Michelle a bailar y una base para el móvil
+- Crea las coreografías más originales con la ayuda de Michelle y tu móvil
+- Podrás hacer fotos de Michelle en distintas posiciones e incorporarlas en la aplicación de PINY Dance
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072JCB6M6/?tag=tolees-21)

@@ -30,8 +30,8 @@ Tienes [Hasbro- Stranger Things: Monopoly Edición de coleccionista  20003175378
 
 - 2 a 4 jugadores
 - Localizaciones que brillan en la oscuridad
-- Caja ilustrada
 - Peones personalizados
+- Caja ilustrada
 - Licencia oficial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CVJJVM5/?tag=tolees-21)
