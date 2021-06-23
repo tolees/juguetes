@@ -28,10 +28,10 @@ Tienes [Theo Klein 8405 Martillo neumático Bosch  Movimiento ascendente y desce
 
 🔎:
 
-- Al presionar la broca, se oye un sonido de martillo que va acompañado de una luz intermitente
-- La broca se mueve en dos direcciones gracias a las pilas
-- Medidas: 28 cm x 7 cm x 50 cm, apto para niños a partir de tres años, Pilas necesarias: 3 x R6-AA, No incluidas en la entrega
 - El martillo neumático que se siente y suena como la verdadera herramienta pesada de Bosch
+- La broca se mueve en dos direcciones gracias a las pilas
 - Los amantes del bricolaje adoran tener este robusto juguete en su taller que, además, les ayuda a ejercitar sus habilidades motoras
+- Medidas: 28 cm x 7 cm x 50 cm, apto para niños a partir de tres años, Pilas necesarias: 3 x R6-AA, No incluidas en la entrega
+- Al presionar la broca, se oye un sonido de martillo que va acompañado de una luz intermitente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0000AC9BZ/?tag=tolees-21)
