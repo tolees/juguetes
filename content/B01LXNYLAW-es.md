@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Nar al 17.18 % de descuento'
-date: 2021-06-22 17:14:39
+date: 2021-06-23 19:59:35
 image: 'https://m.media-amazon.com/images/I/61KzFyNR2nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B01LXNYLAW/?tag=tolees-21'
 descuento: '17.18'
-average: '17.8876190476191'
+average: '17.7518181818182'
 ---
 
 Está [BANDAI NAMCO Entertainment Iberica - Naruto Shippuden Ultimate Ninja Storm 4: Road To Boruto](https://www.amazon.es/dp/B01LXNYLAW/?tag=tolees-21) con 17.18 de descuento por 14.9 EUR (original: 17.99 EUR) en el siguiente enlace!
