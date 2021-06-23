@@ -28,10 +28,10 @@ Tienes [Baby Einstein  Juguete Pulpo de peluche 3 Idiomas](https://www.amazon.es
 
 ℹ️:
 
-- Los colores incluyen rojo, naranja, amarillo, verde, azul, morado, blanco y marrón
-- El selector de idiomas cambia entre inglés, español y francés
 - Apriete cada tentáculo para oír el nombre del color en inglés, español y francés
-- Los parches cosidos de satén enseñan colores
 - Los patrones de los nombres de los colores están impresos en diversos idiomas debajo de cada pata
+- Los colores incluyen rojo, naranja, amarillo, verde, azul, morado, blanco y marrón
+- Los parches cosidos de satén enseñan colores
+- El selector de idiomas cambia entre inglés, español y francés
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000TFLAZA/?tag=tolees-21)
