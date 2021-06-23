@@ -28,10 +28,10 @@ Tienes [Bizak- Forky  61234465 ](https://www.amazon.es/dp/B07RK44NVM/?tag=tolees
 
 🔎:
 
-- Este gracioso personaje forky mide 18cm de altura. Mira cómo anda y baila
-- Empújale y mira cómo avanza
-- Forky, uno de los personajes más importantes de la película toy story 4
 - Los brazos se mueven para arriba y abajo
+- Forky, uno de los personajes más importantes de la película toy story 4
+- Empújale y mira cómo avanza
 - El cuerpo se mueve de un lado a otro
+- Este gracioso personaje forky mide 18cm de altura. Mira cómo anda y baila
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RK44NVM/?tag=tolees-21)
