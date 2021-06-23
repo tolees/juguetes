@@ -28,13 +28,13 @@ Tienes [VTech - Rosi bebé  Little Love - Muñeca interactiva para jugar a cucu-
 
 ℹ️:
 
-- Dulce muñeca interactiva con los brazos flexibles para jugar al juego "Cucú, tras”
-- Enseña los primeros números y las partes del cuerpo mediante sus 4 canciones y 20 melodías que se activan presionando las diferentes partes del cuerpo de la muñeca
-- Incorpora un sensor de movimiento en sus ojos que, cuando se le tapen los ojos con sus manitas, le preguntará al peque dónde está
-- El botón luminoso en el gorro del bebé se ilumina al ritmo de las canciones y melodías para animar el juego
 - Existe versión azul de este artículo
-- Versión española
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 - Incluye 4 botones interactivos botón con forma de corazón para escuchar el latido de su corazón, el botón de su tripita indica si tiene hambre, los dos botones activan melodías y canciones de cuna
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Enseña los primeros números y las partes del cuerpo mediante sus 4 canciones y 20 melodías que se activan presionando las diferentes partes del cuerpo de la muñeca
+- Dulce muñeca interactiva con los brazos flexibles para jugar al juego "Cucú, tras”
+- Incorpora un sensor de movimiento en sus ojos que, cuando se le tapen los ojos con sus manitas, le preguntará al peque dónde está
+- Versión española
+- El botón luminoso en el gorro del bebé se ilumina al ritmo de las canciones y melodías para animar el juego
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UDZCJL0/?tag=tolees-21)
