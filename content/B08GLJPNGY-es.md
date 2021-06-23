@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2K GAMES - Ps4 Nba 2K21 con un 64.63 % de descuento'
-date: 2021-06-22 07:02:15
+date: 2021-06-23 07:41:18
 image: 'https://m.media-amazon.com/images/I/51uer6hDWmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [2K GAMES - Ps4 Nba 2K21](https://www.amazon.es/dp/B08GLJP
 
 🔎:
 
-- Ya puedes descargarla gratis y descubrir que en 2K21 el juego lo es todo
 - Tu carrera en la NBA empieza ahora. La demo te pone en la cancha con los Bucks y los Clippers, así como los All-Time Lakers y los Celtics
 - Prueba el modo Mi JUGADOR, con personalizaciones únicas que permiten controlar el futuro de tu jugador de la NBA
+- Ya puedes descargarla gratis y descubrir que en 2K21 el juego lo es todo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GLJPNGY/?tag=tolees-21)
