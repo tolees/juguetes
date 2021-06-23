@@ -28,12 +28,12 @@ Tienes [LEGO 71754 Ninjago Dragón de Agua  Juguete de Construcción de los Ninj
 
 🔎:
 
-- Con un juguete de dragón LEGO altamente acoplable para que los fans de los ninja recreen la acción de la serie de televisión NINJAGO: Seabound durante horas llenas de diversión
 - También revisa el Templo del Mar Infinito (71755) y el Submarino Anfibio Ninja (71752)
-- El dragón tiene alas, patas, cola, cuello, mandíbula que se abre y una cola en movimiento que se pueden usar como arma
-- Hazte con más sets inspirados en la serie de televisión NINJAGO: Seabound, incluidos Robot Hidro de Lloyd (71750) e Barco de Asalto Hidro (71756)
 - Incluye 5 mini figuras LEGO: NRG Nya, Scuba Zane, Prince Kalmaar y 2 Maaray Guards, todos armados con sus icónicas armas
+- El dragón tiene alas, patas, cola, cuello, mandíbula que se abre y una cola en movimiento que se pueden usar como arma
 - Contiene un juguete minisubmarino con cabina abatible para la mini figura de Scuba Zane, además de un amuleto de olas para enseñar
 - Los niños a partir de 9 años ayudan a Scuba Zane a acercarse a la acción dentro de su minisubmarino cuando Nya se convierte en un feroz dragón de agua que puede usar su cola como arma mortal
+- Con un juguete de dragón LEGO altamente acoplable para que los fans de los ninja recreen la acción de la serie de televisión NINJAGO: Seabound durante horas llenas de diversión
+- Hazte con más sets inspirados en la serie de televisión NINJAGO: Seabound, incluidos Robot Hidro de Lloyd (71750) e Barco de Asalto Hidro (71756)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WX2M9VR/?tag=tolees-21)
