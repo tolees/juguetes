@@ -28,10 +28,10 @@ Tienes [Famosa- Pinypon Muñeca coleccionable Emoji  Multicolor  700014721    co
 
 ℹ️:
 
-- 3 años
+- 3 - 6 años
 - 9 años
 - Pinypon
+- 3 años
 - Pinypon figuras básicas individuales decoradas con emojis, camisetas a la moda y accesorios en cada figura
-- 3 - 6 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NBSN55Z/?tag=tolees-21)
