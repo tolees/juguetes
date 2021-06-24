@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'IMC Toys - Pilla Ratón  43-7413  al 44.33 % de rebaja'
-date: 2020-03-26 17:07:43
-image: 'https://m.media-amazon.com/images/I/61lvAKs7tXL._SL400_.jpg'
+title: 'PLAY FUN BY IMC TOYS - IMC Toys - Pilla  al 38.96 % de rebaja'
+date: 2021-06-23 23:23:19
+image: 'https://m.media-amazon.com/images/I/61gT-fEOVFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B005OQB9AU-es IMC Toys - Pilla Ratón 43-7413'
+slug: 'B005OQB9AU-es PLAY FUN BY IMC TOYS - IMC Toys - Pilla Ratón 43-7413'
 sku: 'B005OQB9AU-es'
-tags: [ 'imc','toys', ]
-actualPrice: 21.15 EUR
+tags: [ 'Juego de mesa','Juegos de acción y reflejos','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','imc','play fun by imc toys','toys', ]
+actualPrice: 23.19 EUR
 currency: EUR
-price: 21.15
+price: 23.19
 comparePrice: 37.99 EUR
-prodname: 'IMC Toys - Pilla Ratón  43-7413 '
+prodname: 'PLAY FUN BY IMC TOYS - IMC Toys - Pilla Ratón  43-7413 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'PLAY FUN BY IMC TOYS'
 buyurl: 'https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21'
-descuento: '44.33'
-average: '23.784999999999997'
+descuento: '38.96'
+average: '23.7'
 ---
 
-Tienes [IMC Toys - Pilla Ratón  43-7413 ](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21) con precio final de  21.15 EUR (original: 37.99 EUR) (44.33 %  de rebaja) aqui!
+Tienes [PLAY FUN BY IMC TOYS - IMC Toys - Pilla Ratón  43-7413 ](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21) con precio final de  23.19 EUR (original: 37.99 EUR) (38.96 %  de rebaja) aqui!
 
-[![IMC Toys - Pilla Ratón  43-7413 ](https://m.media-amazon.com/images/I/61lvAKs7tXL._SL400_.jpg)](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21)
+[![PLAY FUN BY IMC TOYS - IMC Toys - Pilla ](https://m.media-amazon.com/images/I/61gT-fEOVFL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21)
 
 🔎:
 
+- Incluye un ratón electrónico y 4 escobas de plástico
+- Medidas caja 27 x 27 x 7 cm
+- Hasta 4 jugadores
+- Funciona con 4 pilas AA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21)
