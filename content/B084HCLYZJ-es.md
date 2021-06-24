@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak Batman DC Comics Batmovil 2 Vehícu al 48.56 % de rebaja'
-date: 2021-06-23 06:15:23
+date: 2021-06-24 06:51:13
 image: 'https://m.media-amazon.com/images/I/51QsU6Sob4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
