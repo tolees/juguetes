@@ -28,10 +28,10 @@ Tienes [Maegoo Mando para Nintendo Switch  Mando Switch Pro Bluetooth Remote Ina
 
 🔎:
 
-- 🎮【Diseñado para Nintendo Switch y Switch Lite】El mando se conecta de forma inalámbrica a Nintendo Switch y Switch Lite a través de la tecnología Bluetooth. Simplemente presione el botón INICIO, conexión simple y estable dentro de los 10 m (sin obstáculos).
-- 🎮【Tiempo de Juego Prolongado】Los mando ninteno switch incorporan una batería de litio recargable. Tarda de 2 a 3 horas en cargarse por completo, y luego puedes jugar de 6 a 8 horas. Y el mando se carga mediante un cable USB tipo C (incluido).
 - 🎮【Joystick de Precisión 3D de 360 °】El switch mando con barra 3D se puede operar con precisión en 360 ° en todos los sentidos. El joystick 3D se calibrará automáticamente cuando se conecte la switch consola.
-- 🎮【Motor Dual Incorporado y Turbo y 6 Ejes Giroscópicos】Los mandos Switch Pro admiten choque de motor dual, retroalimentación de vibración, función somatosensorial de 6 ejes giroscópicos, turbo y captura. Permitiéndote experimentar las emocionantes escenas de colisión, vibración y batalla en el juego.
+- 🎮【Diseñado para Nintendo Switch y Switch Lite】El mando se conecta de forma inalámbrica a Nintendo Switch y Switch Lite a través de la tecnología Bluetooth. Simplemente presione el botón INICIO, conexión simple y estable dentro de los 10 m (sin obstáculos).
 - 🎮【Disfruta de los Juegos Multijugador】Admite hasta 4 mandos inalámbricos conectados simultáneamente a la consola Nintendo Switch. Para que pueda disfrutar del juego de cambio con familiares y amigos. Ideal para jugar a Zelda, Mario Odyssey, Mario Kart, Splatoon 2, Animal Crossing, etc.
+- 🎮【Motor Dual Incorporado y Turbo y 6 Ejes Giroscópicos】Los mandos Switch Pro admiten choque de motor dual, retroalimentación de vibración, función somatosensorial de 6 ejes giroscópicos, turbo y captura. Permitiéndote experimentar las emocionantes escenas de colisión, vibración y batalla en el juego.
+- 🎮【Tiempo de Juego Prolongado】Los mando ninteno switch incorporan una batería de litio recargable. Tarda de 2 a 3 horas en cargarse por completo, y luego puedes jugar de 6 a 8 horas. Y el mando se carga mediante un cable USB tipo C (incluido).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08P4LVCRS/?tag=tolees-21)

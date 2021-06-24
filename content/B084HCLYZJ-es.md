@@ -28,9 +28,9 @@ Tienes [Bizak Batman DC Comics Batmovil 2 Vehículos en 1 para Figuras de 10 cm.
 
 🔎:
 
-- Recrea aventuras épicas y mantén las calles de Gotham City seguras con el Batmóvil
-- Levanta la escotilla del Batmóvil, saca el Batbarco de la parte de atrás y lánzalo directamente a la acción
-- El Batmóvil 2-en-1 es compatible con las figuras de acción de 10 cm
 - Fantástico vehículo transformable 2 en 1, se convierte de Batmóvil en Batbarco, ambos con movimientos y partes móviles
+- Levanta la escotilla del Batmóvil, saca el Batbarco de la parte de atrás y lánzalo directamente a la acción
+- Recrea aventuras épicas y mantén las calles de Gotham City seguras con el Batmóvil
+- El Batmóvil 2-en-1 es compatible con las figuras de acción de 10 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084HCLYZJ/?tag=tolees-21)
