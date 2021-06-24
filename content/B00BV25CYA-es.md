@@ -28,9 +28,9 @@ Tienes [Theo Klein-5236 Princess Coralie Cabeza Para Maquillar Y Peinar Con Nume
 
 ℹ️:
 
-- Cabeza para maquillar y peinar con pelo que se puede lavar y peinar
-- Adecuado para niños a partir de 3 años
 - El maquillaje que incluye el estuche de maquillaje con forma de corazón es adecuado para uso real
+- Adecuado para niños a partir de 3 años
+- Cabeza para maquillar y peinar con pelo que se puede lavar y peinar
 - Con modernos accesorios para el pelo y estuche de maquillaje con forma de corazón para probar diseños creativos y modernos en la cabeza
 - Peine, cepillo, horquillas, extensiones y numerosas pegatinas de colores
 
