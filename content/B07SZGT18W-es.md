@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel GmbH - TSCHAKKA  ALPAKA! con un 60.17 % de descuento'
-date: 2021-06-19 18:18:52
+date: 2021-06-25 20:14:59
 image: 'https://m.media-amazon.com/images/I/51sglBuvjaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel GmbH'
 buyurl: 'https://www.amazon.es/dp/B07SZGT18W/?tag=tolees-21'
 descuento: '60.17'
-average: '44.6635714285714'
+average: '44.0746666666666'
 ---
 
 En este momento está [Mattel GmbH - TSCHAKKA  ALPAKA!](https://www.amazon.es/dp/B07SZGT18W/?tag=tolees-21) a 35.83 EUR (original: 89.96 EUR) (60.17 %  de descuento) en el siguiente enlace!

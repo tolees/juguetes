@@ -28,10 +28,10 @@ En este momento está [Pixar- Disney Onward Figura de Juguete Dad con Top  Multi
 
 🔎:
 
+- La figura puede separarse en dos mitades para que jugar sea aún más divertido
+- A partir de 3 años
 - Figura del padre y dos hadas de onward de disney pixar
 - Detalles auténticos, brazos flexibles y varios puntos de articulación
-- A partir de 3 años
-- La figura puede separarse en dos mitades para que jugar sea aún más divertido
 - Lleva tu aventura al siguiente nivel con las figuras de los hermanos elfos ian y barley; se vende por separado y está sujeto a disponibilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YT7F3V8/?tag=tolees-21)
