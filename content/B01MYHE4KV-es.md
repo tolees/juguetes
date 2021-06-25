@@ -28,8 +28,8 @@ Tienes [Bicycle 023174 – Elements Series: Fire Juego de Cartas](https://www.
 
 🔎:
 
-- Extraordinario Diseño
-- Alta calidad tarjeta deck
 - Tarjetas de póquer
+- Alta calidad tarjeta deck
+- Extraordinario Diseño
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MYHE4KV/?tag=tolees-21)
