@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Star Wars - Máscara Darth Vader con un 39.80 % de descuento'
-date: 2021-06-16 19:13:48
+date: 2021-06-25 09:03:39
 image: 'https://m.media-amazon.com/images/I/41-DrieXJqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Hasbro Star Wars - Máscara Darth Vader](https://www.amaz
 
 🔎:
 
-- Saga star wars
-- Licencia Oficial
-- Réplica de la película
 - Gran detalle
+- Réplica de la película
+- Saga star wars
 - Material resistente
+- Licencia Oficial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076J8VYQD/?tag=tolees-21)
