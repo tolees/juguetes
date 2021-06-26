@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Ishtar: Jardines de Babilonia  Mu al 37.50 % de descuento'
-date: 2021-06-17 08:31:34
+date: 2021-06-26 13:50:30
 image: 'https://m.media-amazon.com/images/I/51D61j1zMvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08B7XLPXS/?tag=tolees-21'
 descuento: '37.50'
-average: '27.61'
+average: '27.2371428571429'
 ---
 
 Ahora mismo tienes [Devir- Ishtar: Jardines de Babilonia  Multicolor  BGISHSP ](https://www.amazon.es/dp/B08B7XLPXS/?tag=tolees-21) a 25.0 EUR (original: 40.0 EUR) (37.50 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Devir- Ishtar: Jardines de Babilonia  Multicolor  BGISHSP ](
 
 🔎:
 
-- Diseñado por Bruno Cathala
 - Diseño espectacular, como suele ser siempre marca de los juegos de Iello
+- Diseñado por Bruno Cathala
 - Un reflejo actual de un juego ancestral como el Go
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B7XLPXS/?tag=tolees-21)
