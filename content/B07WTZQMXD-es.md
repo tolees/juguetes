@@ -29,9 +29,9 @@ Ahora mismo tienes [Jumbo- Jan Van Haasteren - The Winery - Puzzle de 1000 Pieza
 🔎:
 
 - El rompecabezas completo mide 68 x 49 cm (aproximadamente).
-- El rompecabezas se ha fabricado con cartón de alta calidad.
-- Un rompecabezas de 1000 piezas.
 - La imagen del rompecabezas ha sido producida por el talentoso y popular artista, Jan van Haasteren
+- El rompecabezas se ha fabricado con cartón de alta calidad.
 - Una ilustración cómica de The Winery
+- Un rompecabezas de 1000 piezas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WTZQMXD/?tag=tolees-21)
