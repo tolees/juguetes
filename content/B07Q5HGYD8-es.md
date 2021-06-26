@@ -29,7 +29,7 @@ En este momento está [Simba 6315877556 Disney Frozen 2 Chunky Olaf 25 cm](https
 🔎:
 
 - En peluche douce.
-- Le personnage du nouveau film La Reine des neiges
 - 25 cm.
+- Le personnage du nouveau film La Reine des neiges
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q5HGYD8/?tag=tolees-21)
