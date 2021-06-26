@@ -28,10 +28,10 @@ Tienes [Pinypon - Queens Castle  Castillo de Las Reinas  a Partir de 4 años  Fa
 
 🔎:
 
-- Viene con un trono majestuoso con decoraciones cambiantes; tocador con espejo mágico; mesita de jardín y un sofá para la azotea
-- Con muchos pequeños accesorios
-- Incluye una figura de aura; la queen pinypon con mágico cetro, capa y pelo mix and match para combinar con otras reinas
-- El castillo tiene asa y las paredes se cierran formando un precioso maletín para llevarlo a todas partes, es el compañero para los viajes
 - El castillo de las reinas de pinypon tiene diferentes estancias para jugar e incluye muchos accesorios
+- Con muchos pequeños accesorios
+- Viene con un trono majestuoso con decoraciones cambiantes; tocador con espejo mágico; mesita de jardín y un sofá para la azotea
+- El castillo tiene asa y las paredes se cierran formando un precioso maletín para llevarlo a todas partes, es el compañero para los viajes
+- Incluye una figura de aura; la queen pinypon con mágico cetro, capa y pelo mix and match para combinar con otras reinas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0837FX4BJ/?tag=tolees-21)
