@@ -28,10 +28,10 @@ Ahora mismo tienes [Bizak- Woody con Voz  Multicolor  única  61234071-1 ](https
 
 🔎:
 
-- ¡Dice 15 frases distintas de la película!
-- Habla en español
 - No recomendado para niños menores de 4 años
+- ¡Dice 15 frases distintas de la película!
 - Altura de 40 cm
+- Habla en español
 - Woody articulado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RNS7KRD/?tag=tolees-21)
