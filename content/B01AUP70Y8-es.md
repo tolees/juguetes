@@ -28,10 +28,10 @@ En este momento está [Super Mario - Peluche Mario con licencia oficial de Ninte
 
 🔎:
 
-- Aprox. 24 cm de altura
 - Producto autorizado por Nintendo
 - Super Mario Universo peluche carácter
-- Otros disponibles en la serie incluyen Mario, Yoshi, Luigi, Toad y Koopa de peluche
+- Aprox. 24 cm de altura
 - Muy detallado y coleccionable
+- Otros disponibles en la serie incluyen Mario, Yoshi, Luigi, Toad y Koopa de peluche
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AUP70Y8/?tag=tolees-21)
