@@ -28,15 +28,15 @@ En este momento está [Moma Bikes City Classic 28" - Bicicleta Paseo  Aluminio  
 
 🔎:
 
-- Piñón original Shimano
-- Cuadro de aluminio bajo : más fácil y práctico para subirse
-- Cambio Shimano TZ-50 18 velocidades
-- Manetas de freno de aluminio
-- Bicicleta Urbana comoda gracias a la posición de la espalda recta.
-- Accionamientos Shimano Revoshift RS35
-- Frenos V-Brake de aluminio
 - Cesta delantera & Luz delantera y trasera
+- Piñón original Shimano
+- Cambio Shimano TZ-50 18 velocidades
+- Frenos V-Brake de aluminio
+- Manetas de freno de aluminio
 - Llantas de aluminio, ruedas 28"
+- Accionamientos Shimano Revoshift RS35
+- Bicicleta Urbana comoda gracias a la posición de la espalda recta.
+- Cuadro de aluminio bajo : más fácil y práctico para subirse
 - Portabultos trasero integrado en el cuadro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VXE3WRA/?tag=tolees-21)
