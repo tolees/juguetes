@@ -28,10 +28,10 @@ Está [Bizak- Buzz Lightyear con voz  61234070-1 ](https://www.amazon.es/dp/B07R
 
 ℹ️:
 
-- No recomendado para menores de 4 años
 - Casco retráctil y botones pulsables
-- Habla en español
-- Con sonido y ¡20 frases de la película!
+- No recomendado para menores de 4 años
 - Altura de 30 cm
+- Con sonido y ¡20 frases de la película!
+- Habla en español
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RGWP86G/?tag=tolees-21)
