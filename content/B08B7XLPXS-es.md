@@ -29,7 +29,7 @@ Ahora mismo tienes [Devir- Ishtar: Jardines de Babilonia  Multicolor  BGISHSP ](
 🔎:
 
 - Diseñado por Bruno Cathala
-- Diseño espectacular, como suele ser siempre marca de los juegos de Iello
 - Un reflejo actual de un juego ancestral como el Go
+- Diseño espectacular, como suele ser siempre marca de los juegos de Iello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B7XLPXS/?tag=tolees-21)
