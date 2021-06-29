@@ -28,10 +28,10 @@ Ahora mismo tienes [Nancy - Pack De Ropita 3 Deseos  Famosa 700014657 ](https://
 
 🔎:
 
-- Podrás vestirla de cantante super moderna con los accesorios más increíbles
-- Disfruta vistiendo a tu nancy a tu gusto según la historia que quieras crear y crea innumerables aventuras
-- Pack de ropita de nancy que incluye tres distintos modelitos para multiples opciones de juego
-- Si lo prefieres podrás convertirla en patinadora de invierno con unos complementos super cool
 - También podrá ser una princesa de ensueño con un vestido espectacular
+- Disfruta vistiendo a tu nancy a tu gusto según la historia que quieras crear y crea innumerables aventuras
+- Podrás vestirla de cantante super moderna con los accesorios más increíbles
+- Si lo prefieres podrás convertirla en patinadora de invierno con unos complementos super cool
+- Pack de ropita de nancy que incluye tres distintos modelitos para multiples opciones de juego
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDFRFCB/?tag=tolees-21)
