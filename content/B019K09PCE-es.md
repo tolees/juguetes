@@ -29,8 +29,8 @@ Tienes [Pinypon Pack figuras amigos de compras  Famosa 700012735 ](https://www.a
 🔎:
 
 - Incluye: 2 figuras y 5 accesorios
-- Hacer compras es una de sus actividades favoritas
-- Edad mínima: 4 años
 - En la caja tienen sus bolsos de compras con pequeños accesorios y artículos que compraron
+- Edad mínima: 4 años
+- Hacer compras es una de sus actividades favoritas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019K09PCE/?tag=tolees-21)

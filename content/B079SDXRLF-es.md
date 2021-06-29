@@ -28,8 +28,8 @@ Tienes [Pinypon - Carroza de Cenicienta  Famosa 700014090 ](https://www.amazon.e
 
 🔎:
 
-- La figurita de Pinypon mide 7 cm y la carroza 13 x 18 x 18 cm aprox
 - Incluye varios pequeños accesorios
+- La figurita de Pinypon mide 7 cm y la carroza 13 x 18 x 18 cm aprox
 - Set de Pinypon Cenicienta y carroza mágica con divertida forma de calabaza: mide 13 cm x 18 cm x 18 cm
 - Edad recomendada: a partir de 4 años
 - Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: ¡Mix is Max
