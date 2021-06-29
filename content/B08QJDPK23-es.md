@@ -28,10 +28,10 @@ En este momento está [REDSTORM Mando para Nintendo Switch  Wireless Bluetooth P
 
 🔎:
 
-- 【Comptatiblidad Amplia】El Gamepad es comptible con todos los modelos del Switch y también se puede conectar a la computadora a través de una conexión por cable para soportar el sistema Windows XP / 10/7/8 / 8.1.
-- 【Conexión Bluetooth y Lámbrico】Este Mando bluetooth adopta la última Bluetooth tecnología de transmisión inalámbrica, la señal es estable, la antiinterferencia es fuerte, la distancia de conexión es larga y se sincroniza mas rapido. Y otro este mando lleva un cable, puede utilizar para PC con cable
 - 【Doble Vibración】El motor de vibración asimétrico te ofrece diferentes niveles de vibración, incluidos disparos a la cabeza, explosiones y colisiones, como si estuvieras en el campo de batalla
 - 【Bateria Incorporada】La batería de 600mAh está integrada en el gamepad, por lo que no necesita reemplazar la batería. Una carga dura hasta 8 horas. La función de apagado automático le ahorra energía.
 - 【LED Adjustable】El botones de mando y joystick derecho tienen luces LED geniales, y los luces tienen 5 velocidades para adjustar.
+- 【Comptatiblidad Amplia】El Gamepad es comptible con todos los modelos del Switch y también se puede conectar a la computadora a través de una conexión por cable para soportar el sistema Windows XP / 10/7/8 / 8.1.
+- 【Conexión Bluetooth y Lámbrico】Este Mando bluetooth adopta la última Bluetooth tecnología de transmisión inalámbrica, la señal es estable, la antiinterferencia es fuerte, la distancia de conexión es larga y se sincroniza mas rapido. Y otro este mando lleva un cable, puede utilizar para PC con cable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJDPK23/?tag=tolees-21)
