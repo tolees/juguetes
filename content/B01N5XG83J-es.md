@@ -28,9 +28,9 @@ En este momento está [Diset- Crea tu diario  juego creativo  30 x 22 x 5 cm  46
 
 🔎:
 
-- Valor educativo: potencia la creatividad de las niñas
-- Desarrolla la capacidad de observación, estimula la organización espacial, lógica, de relacionar
-- facil de usar
 - Fácil de montar
+- facil de usar
+- Desarrolla la capacidad de observación, estimula la organización espacial, lógica, de relacionar
+- Valor educativo: potencia la creatividad de las niñas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N5XG83J/?tag=tolees-21)
