@@ -28,9 +28,9 @@ Tienes [BANDAI NAMCO Entertainment - Paw Patrol: On a roll! - Nintendo Switch [I
 
 ℹ️:
 
-- Special pup abilities that need to be used for each rescue.
-- 16 Daring adventures set in eight Adventure Bay locations.
-- Playing as two different pups per mission.
 - Ryder and all eight PAW Patrol pups, including Everest & Tracker.
+- 16 Daring adventures set in eight Adventure Bay locations.
+- Special pup abilities that need to be used for each rescue.
+- Playing as two different pups per mission.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FR45NFR/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Atlus - 13 Sentinels: Aegis Rim  PS4 ](https://www.amazon
 
 🔎:
 
-- Descubre una historia profunda a través de visiones del pasado y el futuro
-- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
 - Conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico de arriba hacia abajo
+- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
 - El reloj del fin del mundo está en marcha
+- Descubre una historia profunda a través de visiones del pasado y el futuro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BZZ8GM3/?tag=tolees-21)
