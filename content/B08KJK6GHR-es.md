@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars Color  Hasbro F1863  al 36.02 % de descuento'
-date: 2021-06-28 08:51:36
+date: 2021-06-29 16:11:36
 image: 'https://m.media-amazon.com/images/I/41M1Yg1tkHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
