@@ -29,8 +29,8 @@ Ahora mismo tienes [Fisher-Price - Fisher Price Caballito de mar dulces sueños 
 🔎:
 
 - Emite luz y música durante cinco minutos
-- Interruptor y control de volumen
 - Sonidos relajantes del mar
+- Interruptor y control de volumen
 - El niño activa una luz tenue, así como sonidos y música relajante con un suave abrazo
 - Ocho nanas y canciones clásicas
 
