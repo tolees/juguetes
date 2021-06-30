@@ -28,10 +28,10 @@ Está [Repos Productions  SEV-SP02y  7 Wonders - Juego de Mesa  3 a 7 Jugadores]
 
 ℹ️:
 
-- Con una duración de 30 Minutos por partida
-- Juego de 3 a 7 Jugadores
 - Apto para personas con daltonismo.
+- Juego de 3 a 7 Jugadores
 - Juego de Cartas en Español
 - Recomendado a Partir de 10 Años de Edad
+- Con una duración de 30 Minutos por partida
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GMD6ZGK/?tag=tolees-21)
