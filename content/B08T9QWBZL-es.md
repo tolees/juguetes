@@ -29,9 +29,9 @@ Tienes [Asmodee - BrainBox Imágenes - Juego de Mesa en Español](https://www.am
 🔎:
 
 - Para 1 o mas Jugadores
-- Intenta memorizar las imágenes de tu carta en 10 segundos. A continuación, tendrás que responder a una pregunta sobre la carta que has visto.
-- te ayudará a mejorar tus habilidades de observación y memoria, así como a aumentar tu conocimiento sobre nuestro mundo.
-- A partir de 4 Años de Edad
 - ¿Qué puedes ver en 10 segundos?
+- te ayudará a mejorar tus habilidades de observación y memoria, así como a aumentar tu conocimiento sobre nuestro mundo.
+- Intenta memorizar las imágenes de tu carta en 10 segundos. A continuación, tendrás que responder a una pregunta sobre la carta que has visto.
+- A partir de 4 Años de Edad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08T9QWBZL/?tag=tolees-21)

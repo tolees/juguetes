@@ -28,9 +28,9 @@ Tienes [SuperThings Rivals of Kaboom - Secret Spies - Vehículo Kid Kazoom  PSTS
 
 🔎:
 
-- Crea nuevas aventuras de SuperThings con el vehículo Kid Kazoom. El vehículo cuenta con la última tecnología especializada en espías para descubrir qué está pasando en Kaboom City
-- Secret Spies nos presenta una nueva tecnología de espionaje para SuperThings ¡No dejes de jugar y divertirte con todas la nuevas opciones!
 - Dispara los SuperCañones y activa el modo aéreo para volar, y entrar en la batalla lanzando la peonza especial ¡Haz rodar a tus personajes favoritos!
+- Secret Spies nos presenta una nueva tecnología de espionaje para SuperThings ¡No dejes de jugar y divertirte con todas la nuevas opciones!
+- Crea nuevas aventuras de SuperThings con el vehículo Kid Kazoom. El vehículo cuenta con la última tecnología especializada en espías para descubrir qué está pasando en Kaboom City
 - Los SuperThings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 - Contiene: 1 vehículo con 1 lanzador, 1 peonza y 1 figura exclusiva
 
