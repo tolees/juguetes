@@ -28,10 +28,10 @@ Tienes [LEGO 41391 Friends Peluquería de Heartlake City Juguete de Construcció
 
 ℹ️:
 
+- Ofrece horas del juego creativo a tu peque; con el juguete de construcción LEGO Friends Peluquería de Heartlake City pueden simular que cortan el cabello y diseñan peinados
+- Este juguete de construcción para niños y niñas de +6 años incluye soporte de accesorios, tijeras, cepillo, diadema, lazo, secador, champú y laca, además de café y galletas
 - LEGO Friends Peluquería cuenta con 2 sillones, uno con secador de pelo, lavabo para lavar el pelo, caja y un soporte independiente para los accesorios de peluquería
 - Los accesorios de este playset de peluquería también incluyen una cafetera, una escoba y un catálogo de peinados, como en una peluquería de verdad
-- Ofrece horas del juego creativo a tu peque; con el juguete de construcción LEGO Friends Peluquería de Heartlake City pueden simular que cortan el cabello y diseñan peinados
 - Sus puestos maravillosamente detallados, permiten a los niños observar el trabajo de las mini muñecas por la peluquería con parte trasera abierta
-- Este juguete de construcción para niños y niñas de +6 años incluye soporte de accesorios, tijeras, cepillo, diadema, lazo, secador, champú y laca, además de café y galletas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W5PXDVR/?tag=tolees-21)
