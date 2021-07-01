@@ -28,7 +28,7 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Naruto Ultimate Ninj
 
 🔎:
 
-- NO CONTIENE CARTUCHO . CONTIENE CODIGO DESCARGABLE
 - NO TIENE DERECHO A DEVOLUCION
+- NO CONTIENE CARTUCHO . CONTIENE CODIGO DESCARGABLE
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NJFXJ3B/?tag=tolees-21)

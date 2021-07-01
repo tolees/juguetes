@@ -28,8 +28,8 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Mad Rat Dead](https:
 
 🔎:
 
-- Domina la música
 - Arte audiovisual
+- Domina la música
 - Melodías funky
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BPMBCMH/?tag=tolees-21)
