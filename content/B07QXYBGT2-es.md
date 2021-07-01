@@ -28,9 +28,9 @@ Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot]
 
 🔎:
 
-- 17.02 x 13.46 x 0.25 cm
-- Fácil de usar
 - 80 gramos
 - Muy conveniente
+- Fácil de usar
+- 17.02 x 13.46 x 0.25 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21)
