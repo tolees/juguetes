@@ -28,9 +28,9 @@ En este momento está [Playset Gran Casa del Oso de Masha y el Oso con 2 figuras
 
 🔎:
 
+- Medidas casa sin desplegar: 35 x 11 x 22 cm
 - También hay una tirolina por la que masha y el oso bajan al jardín; los niños y niñas a partir de 3 años de edad pueden inventar sus propias historias y revivir escenas de la serie
 - La pequeña Masha siempre vive emocionantes aventuras en la casa del oso; este set de juguete de Simba incluye la casa del Oso, que se despliega completamente y tiene dos plantas, 2 figuras (Masha y Oso) y múltiples accesorios
-- Medidas casa sin desplegar: 35 x 11 x 22 cm
 - En la parte exterior de la casa hay una ducha para la rutina de cada mañana del oso; el timbre de la casa suena de verdad; (pilas incluidas)
 - En la planta baja masha y el oso se pueden sentar cómodamente en el sillón frente al televisor o calentarse frente a la chimenea; en la cocina está la nevera siempre es bueno tenerla llena; oso quiere dormir pero masha salta alegremente a su alrededor
 
