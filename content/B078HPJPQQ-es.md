@@ -28,8 +28,8 @@ En este momento está [Marvel- Figura Titan Hero Series Infinity War  Iron Man  
 
 🔎:
 
-- Con 5 puntos de articulación
 - Avengers Infinity War - figura de Iron Man de 30 cm
+- Con 5 puntos de articulación
 - Titan Hero Power FX conector en la parte posterior de la figura
 - Activa frases y sonidos con la mochila Power Fx
 
