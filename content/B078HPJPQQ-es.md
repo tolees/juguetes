@@ -28,9 +28,9 @@ En este momento está [Marvel- Figura Titan Hero Series Infinity War  Iron Man  
 
 🔎:
 
-- Titan Hero Power FX conector en la parte posterior de la figura
 - Con 5 puntos de articulación
-- Activa frases y sonidos con la mochila Power Fx
 - Avengers Infinity War - figura de Iron Man de 30 cm
+- Titan Hero Power FX conector en la parte posterior de la figura
+- Activa frases y sonidos con la mochila Power Fx
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078HPJPQQ/?tag=tolees-21)
