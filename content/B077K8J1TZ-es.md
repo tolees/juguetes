@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf- Modulus Recon Mk11  Hasbro B4616EU al 45.91 % de descuento'
-date: 2021-06-29 12:42:33
+date: 2021-07-03 17:31:04
 image: 'https://m.media-amazon.com/images/I/41JcJf8VocL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Nerf- Modulus Recon Mk11  Hasbro B4616EU7 ](https://www.amazon.es/dp/B077
 
 ℹ️:
 
-- Los accesorios incluyen culata y extensión del cañón
 - El lanzador incluye seis dardos y un clip de seis dardos
-- Configura los cuatro lanzadores diferentes
 - Dispara dardos a una distancia de hasta 27 metros
+- Los accesorios incluyen culata y extensión del cañón
 - Personaliza el lanzador para cada misión o batalla
+- Configura los cuatro lanzadores diferentes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077K8J1TZ/?tag=tolees-21)
