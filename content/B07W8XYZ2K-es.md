@@ -28,15 +28,15 @@ Ahora mismo tienes [LEGO 71710 Ninjago Coche Ninja Tuneado  Juguete de Constru
 
 🔎:
 
-- El fabuloso coche de juguete infantil ofrece un mundo de posibilidades a los constructores, ya que el Coche Ninja Tuneado puede equiparse con alas y convertirse en un avión. Las 4 figuras para construir traen nuevos gráficos de salud que muestran las vidas que quedan.
 - Este set de construcción incluye el Coche Ninja Tuneado y 4 minifiguras: NINJAGO Kai Digital, Scott y dos Red Visors. A los más jóvenes les apasionará escaparse del mundo real y representar escenas con este veloz vehículo mientras luchan por una Key-Tana.
-- Los ladrillos LEGO usados para crear este veloz coche de carreras se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes. Cuando eliges un juguete LEGO como regalo para tu peque, sabes que estás en buenas manos.
+- Los ladrillos LEGO usados para crear este coche de juguete llevan cumpliendo las normas más estrictas del sector desde hace más de 60 años, lo que garantiza que ofrecen siempre las mismas cualidades, son compatibles entre sí y se separan con facilidad una y otra vez.
 - Los juguetes de construcción para niños LEGO NINJAGO alimentan su creatividad y les permiten escaparse a un emocionante mundo de aventuras en el que podrán formar equipo con sus héroes ninja favoritos y vivir interminables aventuras luchando contra las fuerzas del mal.
 - El Coche Ninja Tuneado LEGO NINJAGO se transforma en un coche volador de juguete. Es ideal como regalo de cumpleaños para niños que adoran construir coches NINJAGO e interpretar sus propias historias con sus héroes minininja.
-- Es el regalo LEGO perfecto para un joven constructor. Los ladrillos y las figuras para construir vienen con un sencillo manual de instrucciones para que tu veloz coche de carreras LEGO entre en acción a toda pastilla.
+- Los ladrillos LEGO usados para crear este veloz coche de carreras se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes. Cuando eliges un juguete LEGO como regalo para tu peque, sabes que estás en buenas manos.
 - El veloz vehículo de carreras LEGO es perfecto para jugar con él en casa o meterlo en la mochila y divertirse en cualquier sitio. El Coche Ninja Tuneado mide 6 cm de altura, 33 cm de longitud y 11 cm de anchura.
+- El fabuloso coche de juguete infantil ofrece un mundo de posibilidades a los constructores, ya que el Coche Ninja Tuneado puede equiparse con alas y convertirse en un avión. Las 4 figuras para construir traen nuevos gráficos de salud que muestran las vidas que quedan.
+- Es el regalo LEGO perfecto para un joven constructor. Los ladrillos y las figuras para construir vienen con un sencillo manual de instrucciones para que tu veloz coche de carreras LEGO entre en acción a toda pastilla.
 - Este set de carreras de juguete no requiere pilas: está listo para conducir directo al mundo de emociones, fantasía y diversión de NINJAGO en cuanto se construye, así nunca tendrás que parar a echar gasolina.
-- Los ladrillos LEGO usados para crear este coche de juguete llevan cumpliendo las normas más estrictas del sector desde hace más de 60 años, lo que garantiza que ofrecen siempre las mismas cualidades, son compatibles entre sí y se separan con facilidad una y otra vez.
 - Un juego ninja de 419 piezas que plantea una gratificante experiencia de construcción a niños y niñas a partir de 8 años, fantástico como regalo de cumpleaños para peques. El juego de juguetes (novedad en enero de 2020) garantiza a tu minininja infinitas horas de entretenimiento y diversión jugando a las carreras.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W8XYZ2K/?tag=tolees-21)
