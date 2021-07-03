@@ -28,12 +28,12 @@ Está [PLAY FUN BY IMC TOYS - Play Fun - Gastón cabezón - Juego de mesa divert
 
 ℹ️:
 
-- Recomendado para adultos y niños a partir de 3 años; de 2 a 4 jugadores
-- Los jugadores eligen una carta y buscan dentro de la cabeza de Gastón el objeto de la carta
-- Cuidado con lo que se saca, hay muchos insectos y varias partes del cuerpo asquerosos
-- Gana el jugador que consigue sacar el objeto de la carta de la cabeza de Gastón
 - Un juego de mesa divertido y adictivo con risas aseguradas tanto para los más pequeños como más los grandes
 - Los juguetes de Play Fun siguen estrictos controles en su producción para garantizar el disfrute y la seguridad de los niños; Son juegos de fácil uso y funcionamiento.
+- Cuidado con lo que se saca, hay muchos insectos y varias partes del cuerpo asquerosos
+- Recomendado para adultos y niños a partir de 3 años; de 2 a 4 jugadores
 - Un juego entretenido que hace trabajar la concentración y la habilidad
+- Los jugadores eligen una carta y buscan dentro de la cabeza de Gastón el objeto de la carta
+- Gana el jugador que consigue sacar el objeto de la carta de la cabeza de Gastón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005OQCTN6/?tag=tolees-21)

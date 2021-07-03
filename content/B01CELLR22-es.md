@@ -29,9 +29,9 @@ Ahora mismo tienes [Hasbro Gaming Clasico Cluedo  Versión Española   38712546 
 🔎:
 
 - Cluedo - Hasbro Gaming (Hasbro 38712546)
-- La carrera para encontrar al culpable ha comenzado
 - Investiga, disimula, acusa y gana
-- Nueva versión para dos jugadores que añade un nuevo toque de intriga
 - Muévete de una habitación a otra y descubre quién lo hizo, dónde y con qué arma
+- Nueva versión para dos jugadores que añade un nuevo toque de intriga
+- La carrera para encontrar al culpable ha comenzado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01CELLR22/?tag=tolees-21)
