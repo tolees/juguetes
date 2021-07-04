@@ -28,8 +28,8 @@ Ahora mismo tienes [Disney Frozen Rompecabezas 2 x 24 Piezas  Ravensburger 9115 
 
 🔎:
 
-- Edad mínima recomendada: 2 años
 - Material de alta calidad
 - Producto para niñas y niños
+- Edad mínima recomendada: 2 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KAAF0X2/?tag=tolees-21)
