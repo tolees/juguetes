@@ -30,8 +30,8 @@ Tienes [Educa - XXL Puzzles  El Jardin de las Delicias  Puzzle Gigante de 9.000 
 
 - Si tienes paciencia, capacidad de concentración y una pasión enorme por los puzzles y los grandes retos, eres un auténtico puzzlero; Disfruta de nuestra gama de puzzles XXL
 - Alta calidad de materiales y encaje óptimo de las piezas; Producto respetuoso con el medioambiente; Educa, fabricando puzzles desde 1894, es sinónimo de calidad y experiencia
-- Número de piezas: 9.000; Medida aproximada una vez montado: 214 x 118.5 cm
-- El Jardín de las delicias de El Bosco es considerada una de las obras más fascinantes, misteriosas y atrayentes de la historia del arte; 9.000 piezas llenas de arte te ofrecen horas y horas y horas de diversión
 - Las piezas están repartidas en 2 bolsas de 4.500 piezas cada una
+- El Jardín de las delicias de El Bosco es considerada una de las obras más fascinantes, misteriosas y atrayentes de la historia del arte; 9.000 piezas llenas de arte te ofrecen horas y horas y horas de diversión
+- Número de piezas: 9.000; Medida aproximada una vez montado: 214 x 118.5 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004EPXNZQ/?tag=tolees-21)
