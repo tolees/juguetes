@@ -28,10 +28,10 @@ Tienes [Figuras de acción Famosa - Boom City Racers - Infierno Explosivo  set d
 
 ℹ️:
 
-- 3 utiliza las rampas del puente y lanza tus Boom City Racers al cielo
 - 2 Carrera: golpea los objetivos de los laterales para lanzar los fuegos artificiales
 - Además incluye un coche exclusivo
-- El set de explosión de Boom City Racers con el que los niños podrán pasar horas de diversión
 - Hay tres métodos de juego: 1 Explota: golpea el objetivo de en medio para una gran explosión, se abre el puente y sale todo volando
+- 3 utiliza las rampas del puente y lanza tus Boom City Racers al cielo
+- El set de explosión de Boom City Racers con el que los niños podrán pasar horas de diversión
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088PDLL5F/?tag=tolees-21)
