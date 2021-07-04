@@ -29,9 +29,9 @@ Está [LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuad
 ℹ️:
 
 - Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
-- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 - Imperial AT-Hauler
 - Edad recomendada por el fabricante: 9-14
+- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 - Número de piezas: 829
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
