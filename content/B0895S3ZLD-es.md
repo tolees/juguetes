@@ -28,10 +28,10 @@ En este momento está [Pawhut Árbol para Gatos Estable Centro de Actividades pa
 
 🔎:
 
-- ✅CENTRO TODO EN UNO PARA GATOS: Ideal para cubrir todas las necesidades de tu gato, tanto de juego como de descanso.
 - ✅CUEVA Y JUGUETE COLGANTE: Ideal para que tus gatos tengan un refugio donde esconderse y gracias a su bola colgante también podrán pasar divertidos ratos jugando con ellas.
+- ✅DIFERENTES PLATAFORMAS: Para que escalen y hagan ejercicio. También son ideales para descansar y observar la casa desde las alturas.
+- ✅CENTRO TODO EN UNO PARA GATOS: Ideal para cubrir todas las necesidades de tu gato, tanto de juego como de descanso.
 - ✅MEDIDAS: Totales: 65x50x155 cm (LxAnxAl). Cueva: Φ30x25 cm (DxAl). Canasta: Φ30x10 cm (DxAl). Tablero superior para rascar: Φ29 cm. Hamaca: 40x30 cm (LxAn).
 - ✅PROTEGE TUS MUEBLES: Perfecto gracias a sus postes con cuerda de sisal y su plataforma con superficie para rascar. Así se afilarán sus uñas en él en lugar de en tus muebles.
-- ✅DIFERENTES PLATAFORMAS: Para que escalen y hagan ejercicio. También son ideales para descansar y observar la casa desde las alturas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0895S3ZLD/?tag=tolees-21)
