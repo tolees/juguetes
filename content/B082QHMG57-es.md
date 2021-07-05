@@ -28,10 +28,10 @@ Ahora mismo tienes [Mattel Games GRF95 - Juego Infantil para Alimentar Pandas  P
 
 🔎:
 
-- Un miembro del equipo juega al panda y tiene una máscara de panda con un agujero en la boca mientras que el otro miembro del equipo juega al entrenador que alimenta al panda.
 - Este juego ofrece diversión y diversión con un panda cargado. Alimentar panda (prohibido) es un gran regalo para niños a partir de 7 años.
-- Alimentar (prohibido) los jugadores deben formar un equipo, hacer trucos y alcanzar puntos, nunca ha sido tan emocionante
 - Con la tarjeta de truco se determina cómo se alimenta el panda (hay que golpear la pelota, tirar sobre el hombro, etc.) y ya está listo para empezar
+- Alimentar (prohibido) los jugadores deben formar un equipo, hacer trucos y alcanzar puntos, nunca ha sido tan emocionante
 - La diversión se duplica cuando los entrenadores giran y se tiran con los ojos cerrados o tienen que hacer un truco definitivo. Si el entrenador y el panda dominan el truco, recibirá un punto y pueden mantener la tarjeta
+- Un miembro del equipo juega al panda y tiene una máscara de panda con un agujero en la boca mientras que el otro miembro del equipo juega al entrenador que alimenta al panda.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082QHMG57/?tag=tolees-21)
