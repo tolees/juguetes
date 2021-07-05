@@ -28,8 +28,8 @@ Tienes [LVHERO 200 Balas Dardos Darts para Nerf Elite Armas de Juguete](https://
 
 ℹ️:
 
-- Material eva suave y diseño de cabeza redonda
 - Tamaño: 7,2 x 1,3 cm
+- Material eva suave y diseño de cabeza redonda
 - Alcance preciso y largo
 - Las balas universales funcionan con cualquier arma Nerf Elite que acepte los dardos de élite estándar
 - Pack con 200 dardos

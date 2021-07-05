@@ -28,10 +28,10 @@ Tienes [Diset 63717 - Jo Aprenc A Llegir  versión catalán ](https://www.amazon
 
 ℹ️:
 
+- Adecuado para aprender a leer y escribir las palabras
 - Tiene un sistema de auto-corrección
+- Incluye maletín
 - Contiene 15 láminas con 90 palabras
 - Edad mínima recomendada de 3 años
-- Incluye maletín
-- Adecuado para aprender a leer y escribir las palabras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006GD0PAU/?tag=tolees-21)
