@@ -28,9 +28,9 @@ Está [Ravensburger- Puzzles 1000 piezas  Disney Classic  El libro de la Selva  
 
 ℹ️:
 
+- Formato 70 x 50 cm
+- Tecnología Softclick
 - Formato panorámico
 - No apto para niños menores de 3 años
-- Tecnología Softclick
-- Formato 70 x 50 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XGCNRDP/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Jovi - Plastilina  15 unidades  colores surtidos  150 gra
 
 🔎:
 
+- Pasta de modelar de base vegetal para niños y niñas a partir de 2 años
+- Plastilina que no se seca, es reutilizable y no mancha; los colores se pueden mezclar para conseguir nuevas tonalidades y hacer todo tipo de manualidades
 - Con este pack se pueden explorar diferentes técnicas con los dedos, con moldes y herramientas
 - Libre de los principales alérgenos y sin gluten, totalmente inocua para el niño y nulo riesgo de toxicidad
 - Kit de pastilina de 15 colores de 150 gramos: blanco, amarillo, amarillo oscuro, naranja, rojo, rubí, rosa, carne, marrón, verde claro, verde oscuro, azul claro, azul marino, lila y negro
-- Pasta de modelar de base vegetal para niños y niñas a partir de 2 años
-- Plastilina que no se seca, es reutilizable y no mancha; los colores se pueden mezclar para conseguir nuevas tonalidades y hacer todo tipo de manualidades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B001AS5T8Y/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [Pinypon Action - Furgón de Operaciones Especiales  Famos
 🔎:
 
 - Nuevo vehículo de Pinypon Action, lleno de accesorios y con 2 figuras: policia y ladrón: para recrear infinidad de escenas policiales
-- Conduce a los polis en las acciones policiales complicadas con el furgón de policía
 - Muñecos para que las niños inventen miles de historias que se desarrollen en el entorno policial de Pinypon Action
-- Camión lleno de acción para horas de diversión: cárcel con espacio suficiente para 2 ladrones, cabina donde pueden ir dos policías listos para entrar en acción, cajón escondido en la base para guardar todos los accesorios, cuerda con arpón con sistema de polea, y múltiples accesorios: 2 vallas, 4 conos, 2 señales de tráfico, robot desactivador de bombas, dinamita, ordenador de control, dron con mando y trampa con pinchos para control de policía
 - Recomendado para niños a partir de 4 años
+- Camión lleno de acción para horas de diversión: cárcel con espacio suficiente para 2 ladrones, cabina donde pueden ir dos policías listos para entrar en acción, cajón escondido en la base para guardar todos los accesorios, cuerda con arpón con sistema de polea, y múltiples accesorios: 2 vallas, 4 conos, 2 señales de tráfico, robot desactivador de bombas, dinamita, ordenador de control, dron con mando y trampa con pinchos para control de policía
+- Conduce a los polis en las acciones policiales complicadas con el furgón de policía
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N218SML/?tag=tolees-21)
