@@ -29,9 +29,9 @@ Tienes [Bizak Figura 30 cm Batman Tactical Bat Tech  61927824 ](https://www.amaz
 🔎:
 
 - Hay varios personajes; coleccionalos todos
-- Con capa de tela, esta figura de acción articulada es detallada
-- Recrea infinidad de aventuras y combates entre heroes y villanos
 - Fantástica figura de Batman Táctical de 30 cm
 - Con 11 puntos de articulación, es posible articular el personaje en diferentes poses y movimiento
+- Recrea infinidad de aventuras y combates entre heroes y villanos
+- Con capa de tela, esta figura de acción articulada es detallada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08Z4GKHC4/?tag=tolees-21)
