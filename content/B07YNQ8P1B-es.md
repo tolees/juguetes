@@ -29,8 +29,8 @@ Está [Bandai Figuarts Zero One Piece The Three Admirals Aokiji Kuzan Extra Batt
 ℹ️:
 
 - Ideal para regalar o
-- Marca: Bandai
 - Tamaño del producto: 38 x 47 x 11 cm; a partir de 12 meses
 - 8 años y más
+- Marca: Bandai
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YNQ8P1B/?tag=tolees-21)
