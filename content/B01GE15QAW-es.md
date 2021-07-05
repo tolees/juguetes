@@ -29,9 +29,9 @@ Tienes [Goliath Mandibulas La pesca más divertida  Juego de mesa infantil  A pa
 ℹ️:
 
 - TIBU está hambriento y se ha tragado un montón de animalitos del mar, podrás salvarlos; péscalos y sácalos de su mandíbula con tu caña de pescar, pero cuidado porque en cualquier momento puede saltar y zass, TIBU te dará un buen bocado
-- Es fácil rescatarlos, tira el dado y salva al animalito que te toque, un pez, una gamba o hasta una sepia; quién conseguirá salvar a más animalitos sin que Tibu le muerda, tú o el siguiente jugador, corre porque quien consiga salvar a más animalitos del mar será el ganador, te atreves
-- Pesca los peces sin que Tibu te atrape; deja que se diviertan con este juego de habilidad para niños donde además de desarrollar sus capacidades, se lo pasarán óptimo
-- Contiene: 1 tibu, 12 pescados de colores, 1 caña de pescar, 1 dado, 1 hoja de adhesivos, y manual de instrucciones
 - Es fácil rescatarlos; pueden jugar hasta 4 jugadores en la misma partida
+- Pesca los peces sin que Tibu te atrape; deja que se diviertan con este juego de habilidad para niños donde además de desarrollar sus capacidades, se lo pasarán óptimo
+- Es fácil rescatarlos, tira el dado y salva al animalito que te toque, un pez, una gamba o hasta una sepia; quién conseguirá salvar a más animalitos sin que Tibu le muerda, tú o el siguiente jugador, corre porque quien consiga salvar a más animalitos del mar será el ganador, te atreves
+- Contiene: 1 tibu, 12 pescados de colores, 1 caña de pescar, 1 dado, 1 hoja de adhesivos, y manual de instrucciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GE15QAW/?tag=tolees-21)

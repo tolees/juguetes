@@ -28,10 +28,10 @@ En este momento está [Bizak- Juegos Pigcasso Juguete  64068001 ](https://www.am
 
 🔎:
 
-- Portátil y fácil de jugar en cualquier lado, todas las piezas se guardan en el propio juego
-- Gira la ruleta y a dibujar y completa uno de los tres desafíos de Pigcasso (Dibujo Pigcasso, Laberinto loco y Rastreo)
-- Juega en equipo o a contrarreloj, diversión para toda la familia
-- Date prisa y se creativo que tu oponente para alcanzar la cima
 - El ganador es el primer equipo en llegar a la meta
+- Portátil y fácil de jugar en cualquier lado, todas las piezas se guardan en el propio juego
+- Date prisa y se creativo que tu oponente para alcanzar la cima
+- Juega en equipo o a contrarreloj, diversión para toda la familia
+- Gira la ruleta y a dibujar y completa uno de los tres desafíos de Pigcasso (Dibujo Pigcasso, Laberinto loco y Rastreo)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3ZCLMY/?tag=tolees-21)
