@@ -28,10 +28,10 @@ Tienes [Theo Klein 8010 - Hot Wheels Car Tuning Set](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Adecuado para niños a partir de 3 años
-- Incluye 4 ruedas de recambio, 3 sets de pegatinas de recambio y piezas azules de puesta a punto
-- El set de puesta a punto para coches de hot wheels conserva el diseño original de hot wheels
 - El coche puede desmontarse por completo con la ayuda del destornillador
+- Adecuado para niños a partir de 3 años
+- El set de puesta a punto para coches de hot wheels conserva el diseño original de hot wheels
+- Incluye 4 ruedas de recambio, 3 sets de pegatinas de recambio y piezas azules de puesta a punto
 - Producto con licencia hot wheels
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001L9BZZS/?tag=tolees-21)
