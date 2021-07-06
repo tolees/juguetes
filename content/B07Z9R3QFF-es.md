@@ -28,8 +28,8 @@ En este momento está [NICI Glubschis Peluche  Color  45564 ](https://www.amazon
 
 🔎:
 
-- Diseño moderno y funcional
-- De la marca NICI
 - Eres tan asombroso como un oso como yo
+- De la marca NICI
+- Diseño moderno y funcional
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z9R3QFF/?tag=tolees-21)

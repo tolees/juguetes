@@ -28,9 +28,9 @@ En este momento está [NICI Glubschis Peluche  Color  45567 ](https://www.amazon
 
 🔎:
 
-- Cuando crezca quiero ser un elefante
 - De la marca NICI
 - Diseno funcional
+- Cuando crezca quiero ser un elefante
 - Alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z9QMX8Z/?tag=tolees-21)
