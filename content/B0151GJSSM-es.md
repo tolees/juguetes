@@ -28,10 +28,10 @@ Está [Trust Gaming GXT 540 - Gamepad para Playstation 3 y PC](https://www.amazo
 
 ℹ️:
 
-- Interruptor de entrada x y entrada directa, para máxima compatibilidad en el entorno de videojuegos
-- Activadores y botones sensibles a la presión (ps3 solamente)
 - Cable de 3 metros
+- Activadores y botones sensibles a la presión (ps3 solamente)
 - Cubierta de goma para un perfecto agarre
 - 13 botones, 2 palancas de control y panel digital
+- Interruptor de entrada x y entrada directa, para máxima compatibilidad en el entorno de videojuegos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0151GJSSM/?tag=tolees-21)

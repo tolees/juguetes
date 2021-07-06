@@ -28,10 +28,10 @@ Ahora mismo tienes [Nerf Fortnite Basr- R  Hasbro E7522EU4 ](https://www.amazon.
 
 🔎:
 
-- INCLUYE CLIP PARA 6 DARDOS Y 12 DARDOS NERF: viene con un clip que puede almacenar hasta 6 dardos
-- MIRILLA PLEGABLE: Incluye una mirilla que puedes fijar y retirar del lanzador, mirilla a través de la mira y alinea los puntos de mira sobre tu objetivo para apuntar con gran precisión
-- RÉPLICA DEL BLÁSTER DEL VIDEOJUEGO FORTNITE: El bláster BASR-L de Nerf Fortnite está inspirado en el lanzador que se usa en Fortnite y reproduce fielmente el aspecto de uno de los del popular videojuego
 - LANZADOR DE DARDOS CON MECANISMO DE CERROJO Y LANZAMIENTO DESDE EL CLIP: Coloca el clip en el lanzador, mueve el mecanismo de cerrojo hacia atrás y hacia adelante y aprieta el gatillo para lanzar un dardo
+- RÉPLICA DEL BLÁSTER DEL VIDEOJUEGO FORTNITE: El bláster BASR-L de Nerf Fortnite está inspirado en el lanzador que se usa en Fortnite y reproduce fielmente el aspecto de uno de los del popular videojuego
 - Incluye 12 dardos oficiales Nerf Elite probados en cuanto a su rendimiento y calidad
+- MIRILLA PLEGABLE: Incluye una mirilla que puedes fijar y retirar del lanzador, mirilla a través de la mira y alinea los puntos de mira sobre tu objetivo para apuntar con gran precisión
+- INCLUYE CLIP PARA 6 DARDOS Y 12 DARDOS NERF: viene con un clip que puede almacenar hasta 6 dardos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZYBYXXF/?tag=tolees-21)
