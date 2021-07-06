@@ -28,8 +28,8 @@ Tienes [Fur Real Friends - Furreal Friends Rex Comilón  Hasbro E0387EU4 ](https
 
 🔎:
 
-- Le encanta la diversión a la hora de comer
 - Salta y pide sus galletitas con muchas ganas
+- Le encanta la diversión a la hora de comer
 - Responde con más de 35 combinaciones de sonidos y movimientos
 - Geniales sonidos del hábitat prehistórico de los dinosaurios
 

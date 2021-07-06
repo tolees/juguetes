@@ -28,9 +28,9 @@ Tienes [PLAY FUN BY IMC TOYS - IMC Toys - Pilla Ratón  43-7413 ](https://www.am
 
 🔎:
 
-- Hasta 4 jugadores
-- Medidas caja 27 x 27 x 7 cm
-- Funciona con 4 pilas AA
 - Incluye un ratón electrónico y 4 escobas de plástico
+- Funciona con 4 pilas AA
+- Medidas caja 27 x 27 x 7 cm
+- Hasta 4 jugadores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005OQB9AU/?tag=tolees-21)
