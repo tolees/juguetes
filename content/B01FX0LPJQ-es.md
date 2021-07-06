@@ -28,10 +28,10 @@ Tienes [TOMY - Juego Greedy Granny - Versión importada  en inglés ](https://ww
 
 ℹ️:
 
+- Divertido y emocionante juego de habilidad
 - Adecuado para niños mayores de 5 años
-- IMPORTANTE: Versión importada. En inglés
 - Coge galletas sin asustar a la abuela: el que coja el mayor número de galletas, ¡gana el juego!
 - Juego para 2 - 4 jugadores
-- Divertido y emocionante juego de habilidad
+- IMPORTANTE: Versión importada. En inglés
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FX0LPJQ/?tag=tolees-21)
