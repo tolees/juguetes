@@ -29,7 +29,7 @@ Ahora mismo tienes [PLAY FUN BY IMC TOYS IMC Toys Cazafantasmas Evolution  Distr
 🔎:
 
 - Consigue capturar más fantasmas y vampiros que tu rival
-- Proyecta vampiros y fantasmas
 - Ponte las gafas 3D y los monstruos se multiplicarán
+- Proyecta vampiros y fantasmas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XYMQM7R/?tag=tolees-21)
