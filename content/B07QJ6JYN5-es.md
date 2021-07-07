@@ -28,10 +28,10 @@ Tienes [GraviTrax- Seilbahn Cable  Multicolor  Ravensburger 26116 ](https://www.
 
 ℹ️:
 
-- El juguete de Mint GraviTrax hace que la gravedad sea jugable: con la cuerda supera las bolas dentro de la pista de bolas superan grandes distancias y grandes diferencias de altura – esto proporciona aún más acción y tensión
 - En este juguete de construcción la creatividad no tiene límites: simplemente combina la cuerda con el juego de iniciación GraviTrax y proporciona aún más acción en los mundos de canicas creados, más posibilidades y más diversión
-- Con la cuerda GraviTrax, los niños pueden planificar, probar y hacer rutas aún más emocionantes – por lo que GraviTrax nunca se aburrirá y sigue siendo un gran pasatiempo y el entretenimiento ideal para los niños
 - La polea GraviTrax es una ampliación del sistema interactivo de canicas GraviTrax: con GraviTrax, los niños no solo construyen pistas de bolas simples, sino que crean mundos de canicas enteros – la introducción ideal en el mundo de la pista de canicas
+- Con la cuerda GraviTrax, los niños pueden planificar, probar y hacer rutas aún más emocionantes – por lo que GraviTrax nunca se aburrirá y sigue siendo un gran pasatiempo y el entretenimiento ideal para los niños
+- El juguete de Mint GraviTrax hace que la gravedad sea jugable: con la cuerda supera las bolas dentro de la pista de bolas superan grandes distancias y grandes diferencias de altura – esto proporciona aún más acción y tensión
 - Este set de ampliación incluye: 1 juego de cuerda, 1 riel largo, 2 rieles medianos y 3 rieles cortos y es el regalo ideal para niños a partir de 8 años que quieren ampliar o rediseñar su pista de canicas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QJ6JYN5/?tag=tolees-21)

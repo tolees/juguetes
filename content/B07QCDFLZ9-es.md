@@ -28,10 +28,10 @@ Tienes [Nancy - Un Día de Secretos de Belleza Violeta  Busto de muñeca con el 
 
 🔎:
 
-- Es el regalo ideal para niñas y niños a los que les encantan las tendencias y la belleza; Juguete recomendado a partir de 3 años
-- El busto más bonito de Nancy ahora con el color de pelo y los accesorios más trendy del momento
-- Nancy tiene el color de pelo morado para hacerle infinidad de peinados y maquillarla de mil maneras diferentes
 - Incluye más de 20 accesorios especiales y coloridos para decorarla con un estilo Candy actual
+- Es el regalo ideal para niñas y niños a los que les encantan las tendencias y la belleza; Juguete recomendado a partir de 3 años
 - Incluye: gomas, purpurina para el pelo, tizas para decorar, accesorios para decorar sus vestidos, extensiones de color y muchos más
+- Nancy tiene el color de pelo morado para hacerle infinidad de peinados y maquillarla de mil maneras diferentes
+- El busto más bonito de Nancy ahora con el color de pelo y los accesorios más trendy del momento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QCDFLZ9/?tag=tolees-21)
