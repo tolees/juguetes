@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41430 Friends Parque Acuático Summe al 15.90 % de descuento'
-date: 2021-07-06 06:53:40
+date: 2021-07-07 07:13:39
 image: 'https://m.media-amazon.com/images/I/51fP2ndONbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813Q7GVY/?tag=tolees-21'
 descuento: '15.90'
-average: '92.9781693363847'
+average: '92.977077625571'
 ---
 
 Ahora mismo tienes [LEGO 41430 Friends Parque Acuático Summer Fun Playset Parque de Atracciones Juguete de Construcción con Mini Muñecas](https://www.amazon.es/dp/B0813Q7GVY/?tag=tolees-21) a 92.5 EUR (original: 109.99 EUR) (15.90 %  de descuento) en el siguiente enlace!
