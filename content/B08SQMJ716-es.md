@@ -29,9 +29,9 @@ Está [Lehoo Castle Pistola Agua Niños  2 Pack Pistolas de Agua a Presion Jugue
 ℹ️:
 
 - 🔫【Juguetes al aire libre ideales y divertidos】 - Lehoo Castle juegos piscina te permite experimentar la pelea de agua perfecta en verano, ideal para piscina, playa, fiesta de verano, tema tropical, parque de vacaciones o fiesta de cumpleaños. Invite a sus amigos o familiares o disfruten juntos de la emocionante guerra de agua.
-- 🔫【Seguro y duradero】 - Hecho de material ABS ambiental y engrosado para mejorar la durabilidad. Los bordes lisos y sin bordes proporcionarán la máxima seguridad para jugar, apto para niños.
+- 🔫【Diseño apto para niños】: nuestro juego de agua piscina está diseñado con una bomba de bombeo, reduce la fuerza durante los tiroteos y aumenta la comodidad de tomarse de las manos.
 - 🔫【Sin Fugas para Batallas de Agua】 - La cubierta del juguete playa niño y el cuerpo de la pistola están estrechamente combinados para diseñar un cuerpo de pistola integrado. El pequeño orificio de salida con un diámetro de 2 mm puede controlar eficazmente las fugas de agua para mejorar la eficiencia del almacenamiento de agua, adecuado para batallas de agua de largo alcance.
 - 🔫【Gran capacidad y largo alcance】: nuestra pistola agua niños mejoró la capacidad de almacenamiento de agua a 600 ml, cumple con sus requisitos de disparos de larga duración. El campo de tiro de la potente pistola de agua es de hasta 9 m (30 pies).
-- 🔫【Diseño apto para niños】: nuestro juego de agua piscina está diseñado con una bomba de bombeo, reduce la fuerza durante los tiroteos y aumenta la comodidad de tomarse de las manos.
+- 🔫【Seguro y duradero】 - Hecho de material ABS ambiental y engrosado para mejorar la durabilidad. Los bordes lisos y sin bordes proporcionarán la máxima seguridad para jugar, apto para niños.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SQMJ716/?tag=tolees-21)
