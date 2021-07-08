@@ -28,9 +28,9 @@ Tienes [NICI- Elefante Samuli Glubschis Peluche  Multicolor  45556 ](https://www
 
 🔎:
 
+- De la marca NICI
 - Alta calidad
 - Cuando crezca quiero ser tan valiente como un ratón
 - Diseno funcional
-- De la marca NICI
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z9RYBXL/?tag=tolees-21)
