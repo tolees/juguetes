@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 21046 Architecture Empire State Bui al 20.12 % de descuento'
-date: 2021-07-07 06:49:46
+title: 'LEGO 21046 Architecture Empire State Bui al 21.73 % de descuento'
+date: 2021-07-08 07:09:11
 image: 'https://m.media-amazon.com/images/I/41t-EFpSK1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,33 +9,33 @@ author: 'tole.es'
 slug: 'B07KTLHZVC-es LEGO 21046 Architecture Empire State Building Set de...'
 sku: 'B07KTLHZVC-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
-actualPrice: 91.85 EUR
+actualPrice: 90.0 EUR
 currency: EUR
-price: 91.85
+price: 90.0
 comparePrice: 114.99 EUR
 prodname: 'LEGO 21046 Architecture Empire State Building  Set de Construcción  Modelo de Coleccionista  Maqueta Decorativa  +16 años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21'
-descuento: '20.12'
-average: '93.1532345013478'
+descuento: '21.73'
+average: '93.1447580645162'
 ---
 
-Ahora mismo tienes [LEGO 21046 Architecture Empire State Building  Set de Construcción  Modelo de Coleccionista  Maqueta Decorativa  +16 años](https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21) a 91.85 EUR (original: 114.99 EUR) (20.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 21046 Architecture Empire State Building  Set de Construcción  Modelo de Coleccionista  Maqueta Decorativa  +16 años](https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21) a 90.0 EUR (original: 114.99 EUR) (21.73 %  de descuento) en el siguiente enlace!
 
 [![LEGO 21046 Architecture Empire State Bui](https://m.media-amazon.com/images/I/41t-EFpSK1L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21)
 
 🔎:
 
-- Este set incluye más de 1750 elementos.
-- Interpretación LEGO Architecture del Empire State Building, un hito arquitectónico neoyorquino del mundo real.
-- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de la estructura, así como datos históricos sobre el Empire State Building y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
-- Incluye una placa decorativa con la etiqueta “Empire State Building”.
-- Este modelo de exposición, diseñado para verlo desde todos los ángulos, cuenta con 4 detalladísimas fachadas, la torre de la antena de color plateado y una base de baldosas que representa la Quinta Avenida y las calzadas de alrededor, transitadas por 6 taxis amarillos.
-- Mide más de 55 cm de altura, 20 cm de ancho y 12 cm de profundidad.
-- La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a todos aquellos interesados en los viajes, la arquitectura, la historia y el diseño.
 - Con sus 55 cm de altura, esta interpretación del Empire State Building es el modelo LEGO Architecture más alto hasta la fecha (julio de 2019).
+- Interpretación LEGO Architecture del Empire State Building, un hito arquitectónico neoyorquino del mundo real.
+- Este set incluye más de 1750 elementos.
+- Incluye una placa decorativa con la etiqueta “Empire State Building”.
+- Mide más de 55 cm de altura, 20 cm de ancho y 12 cm de profundidad.
+- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de la estructura, así como datos históricos sobre el Empire State Building y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
+- La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a todos aquellos interesados en los viajes, la arquitectura, la historia y el diseño.
 - Disfruta de una experiencia de construcción agradablemente compleja y gratificante con este set LEGO Architecture.
+- Este modelo de exposición, diseñado para verlo desde todos los ángulos, cuenta con 4 detalladísimas fachadas, la torre de la antena de color plateado y una base de baldosas que representa la Quinta Avenida y las calzadas de alrededor, transitadas por 6 taxis amarillos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KTLHZVC/?tag=tolees-21)
