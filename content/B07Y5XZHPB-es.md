@@ -28,10 +28,10 @@ Tienes [Jurassic World Feeding Frenzy Indominus Rex  mini dinosaurios de juguete
 
 ℹ️:
 
+- La figura de Indominus Rex Feeding Frenzy está inspirada en la serie de animación de Jurassic World, Camp Cretaceous.
 - Tira de la cola hacia atrás para que abra la boca y puedas colocarle las «costillas de juguete» (incluidas) en la boca, para que las DEVORE.
 - Acaríciale la cabeza para escuchar un suave y divertido gruñido.
 - ¡Pero cuidado! ¡No acaricies a la Indominus Rex mientras saborea sus costillas! Si lo haces, soltará un rugido feroz y sus ojos se volverán de color rojo.
-- La figura de Indominus Rex Feeding Frenzy está inspirada en la serie de animación de Jurassic World, Camp Cretaceous.
 - El Indominus Rex, el dinosaurio más aterrador y letal de todos, está listo para comer y sus MORDISCOS son aterradores.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y5XZHPB/?tag=tolees-21)
