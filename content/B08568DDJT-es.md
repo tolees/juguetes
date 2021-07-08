@@ -29,9 +29,9 @@ En este momento está [Theo Klein-Caja Vintage con dinero de juguete  9381 ](htt
 🔎:
 
 - Caja registradora en estilo "vintage" con función de sonido. Funciona con pilas
-- Caja con compartimiento extraíble. Dinero de juguete en euros (monedas y billetes) y tarjeta de crédito incluidos
-- Pilas necesarias 3x r6-aa (no incluidas)
 - Funciones del juego pantalla táctil, calculadora y función de pago sin contacto
+- Pilas necesarias 3x r6-aa (no incluidas)
 - Promueve el comportamiento social, el lenguaje y las habilidades numéricas de forma lúdica, para niños a partir de los 3 años de edad
+- Caja con compartimiento extraíble. Dinero de juguete en euros (monedas y billetes) y tarjeta de crédito incluidos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08568DDJT/?tag=tolees-21)
