@@ -30,8 +30,8 @@ Ahora mismo tienes [Power A - PowerA - Mando inalámbrico mejorado para Nintendo
 
 - Incluye dos pilas AA para hasta 30 horas de juego
 - Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
-- Mando ergonómico con disposición de botones estándar y diseño de Timmy & Tommy Nook
-- Incluye mandos de movimiento y botones de juego avanzado asignables
 - Libertad inalámbrica con Bluetooth 5.0
+- Incluye mandos de movimiento y botones de juego avanzado asignables
+- Mando ergonómico con disposición de botones estándar y diseño de Timmy & Tommy Nook
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0842WDD2S/?tag=tolees-21)
