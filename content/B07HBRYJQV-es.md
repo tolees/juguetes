@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Battle Pad Peach  Nintendo Switch al 51.44 % de descuento'
-date: 2021-06-20 20:05:55
+date: 2021-07-09 12:22:34
 image: 'https://m.media-amazon.com/images/I/51dbGrnjbWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B07HBRYJQV/?tag=tolees-21'
 descuento: '51.44'
-average: '19.2512500000001'
+average: '19.1827272727274'
 ---
 
 Ahora mismo tienes [HORI - Battle Pad Peach  Nintendo Switch ](https://www.amazon.es/dp/B07HBRYJQV/?tag=tolees-21) a 16.99 EUR (original: 34.99 EUR) (51.44 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Battle Pad Peach  Nintendo Switch ](https://www.amazo
 
 🔎:
 
-- Integración perfecta con Super Smash Bros.
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Botones L y R de corto recorrido
+- Integración perfecta con Super Smash Bros.
 - Réplica del mando original para GameCube
 - Licencia oficial de Nintendo
+- Botones L y R de corto recorrido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HBRYJQV/?tag=tolees-21)
