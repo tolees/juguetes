@@ -28,7 +28,7 @@ Ahora mismo tienes [FEBER - My Bike Correpasillos  Color Azul  Famosa 800009008 
 
 🔎:
 
-- Bici sin pedales fácil de montar para niños desde los 3 hasta los 7 años ¡Se adapta a los más peques! La altura del manillar y del sillín se puede ajustar My Feber bike con rueda de 10’’ para aprender a mantener el equilibrio y la coordinación
 - My Feber Bike La altura mínima del sillín al suelo es de 35cm y la máxima de 39cm La altura mínima del manillar al suelo es de 52cm y la máxima de 56cm Medida producto: 73,5 (Largo) x 37(Ancho) x 56(Altura) cm Peso producto: 2,82Kg
+- Bici sin pedales fácil de montar para niños desde los 3 hasta los 7 años ¡Se adapta a los más peques! La altura del manillar y del sillín se puede ajustar My Feber bike con rueda de 10’’ para aprender a mantener el equilibrio y la coordinación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HCG7LOS/?tag=tolees-21)
