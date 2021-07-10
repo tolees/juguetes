@@ -28,10 +28,10 @@ Ahora mismo tienes [Mattel Games - UNO Minimalista](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Un diseño sencillo y bonito que hace que la baraja de UNO Minimalista sea completamente única.
-- El diseño minimalista de UNO creado por Warleson Oliveira se convirtió en una realidad gracias a Mattel en menos de 30 días.
 - Se juega como el UNO clásico. Los jugadores emparejan cartas en función del color y los números. Las cartas de comodín y de desafío pueden cambiar el curso del juego.
 - Diseñado para grupos de 2 a 10 jugadores a partir de 7 años.
+- Un diseño sencillo y bonito que hace que la baraja de UNO Minimalista sea completamente única.
+- El diseño minimalista de UNO creado por Warleson Oliveira se convirtió en una realidad gracias a Mattel en menos de 30 días.
 - Esta edición especial tan bonita del popular juego de cartas es un regalo perfecto para todos los fans de UNO.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089DR3N7S/?tag=tolees-21)
