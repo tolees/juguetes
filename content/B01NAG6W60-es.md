@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.18 % en Arcane Tinman ART13001 AT-13001 Dragon S'
-date: 2021-07-07 20:46:06
+date: 2021-07-10 21:51:20
 image: 'https://m.media-amazon.com/images/I/51lvaCs2OmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Arcane Tinman ART13001 AT-13001 Dragon Shield Klar Juego de Cartas  Colo
 ℹ️:
 
 - Juego de cartas
-- Juegos
 - Tarjetas comerciales y accesorios
+- Juegos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01NAG6W60/?tag=tolees-21)
