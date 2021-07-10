@@ -29,9 +29,9 @@ Tienes [Educa - Galerie Paris Puzzle  2000 Piezas  Multicolor  18506 ](https://w
 ℹ️:
 
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Edad recomendada: a partir de 12 años
 - Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
 - Serie Genuine
+- Edad recomendada: a partir de 12 años
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084HCS5KN/?tag=tolees-21)
