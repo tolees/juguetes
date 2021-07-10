@@ -28,9 +28,9 @@ Tienes [Bizak- Collector toilet  61928805 ](https://www.amazon.es/dp/B079SYDQZS/
 
 🔎:
 
-- Hay más de 150 personajes para coleccionar
-- Añade el agua y agita
 - Se pueden almacenar hasta 50 flush force
+- Hay más de 150 personajes para coleccionar
 - El agua cambia de color y aparecerán en la taza personajes ocultos
+- Añade el agua y agita
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079SYDQZS/?tag=tolees-21)
