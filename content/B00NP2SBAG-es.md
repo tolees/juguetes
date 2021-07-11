@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMCOM Alfombra Puzzle Infantil 36 Piezas de 31x31cm Número
 
 🔎:
 
-- ✅MULTIFUNCIONAL: Las 36 piezas incluida, además de usarse como alfombra, también pueden utilizarse como piezas de construcción. Permite crear formas en 2D y 3D, estimulando la imaginación y la cognición de tu hijo
-- ✅ALFOMBRA PUZZLE INFANTIL: Esta alfombra de juego para niños de EVA está compuesta por 36 piezas, 26 letras y 10 números. Todas las piezas se unen entre sí proporcionando un área de 3,24 m² para que los niños puedan jugar en ella de forma segura
-- ✅MEDIDAS TOTALES: 180x180x1 cm (LxANxAL); Medidas de cada pieza: 31x31x1 cm (LxANxAL)
-- ✅ESPUMA EVA: Alfombra hecha de goma espuma EVA segura y no tóxica, que proporciona buena amortiguación y absorción de impactos. Es flexible, antideslizante y dispone de aislante térmico, resistente al agua, sudor, humedad y fácil de limpiar
 - ✅PROMUEVE EL APRENDIZAJE TEMPRANO: Esta alfombra infantil además de funcional es educativa. Ideal para despertar el interés por las letras y los números, la imaginación de los pequeños, la coordinación mano-ojo entre otras habilidades
+- ✅ALFOMBRA PUZZLE INFANTIL: Esta alfombra de juego para niños de EVA está compuesta por 36 piezas, 26 letras y 10 números. Todas las piezas se unen entre sí proporcionando un área de 3,24 m² para que los niños puedan jugar en ella de forma segura
+- ✅ESPUMA EVA: Alfombra hecha de goma espuma EVA segura y no tóxica, que proporciona buena amortiguación y absorción de impactos. Es flexible, antideslizante y dispone de aislante térmico, resistente al agua, sudor, humedad y fácil de limpiar
+- ✅MULTIFUNCIONAL: Las 36 piezas incluida, además de usarse como alfombra, también pueden utilizarse como piezas de construcción. Permite crear formas en 2D y 3D, estimulando la imaginación y la cognición de tu hijo
+- ✅MEDIDAS TOTALES: 180x180x1 cm (LxANxAL); Medidas de cada pieza: 31x31x1 cm (LxANxAL)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00NP2SBAG/?tag=tolees-21)
