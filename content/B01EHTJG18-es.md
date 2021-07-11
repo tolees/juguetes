@@ -29,9 +29,9 @@ En este momento está [Hot Wheels - Circuito de Carreras I.A.  Mattel FBL83 ](ht
 🔎:
 
 - El set incluye 20 trozos de pista, con los que se pueden crear más de 40 configuraciones
-- El sistema de conducción asistida inteligente permite a los usuarios mantenerse en la pista o competir contra la propia máquina
 - Esta pista de carreras con inteligencia artificial incluye dos coches radio control capaces de alcanzar 180 metros por hora y dos mandos de radio control con distintos modos de juego
-- La innovación de Hot Wheels te trae el set de carreras más alucinante con coches de inteligencia artificial
 - El juego también permite conducir los coches fuera de la pista, como un radio control clásico
+- La innovación de Hot Wheels te trae el set de carreras más alucinante con coches de inteligencia artificial
+- El sistema de conducción asistida inteligente permite a los usuarios mantenerse en la pista o competir contra la propia máquina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EHTJG18/?tag=tolees-21)

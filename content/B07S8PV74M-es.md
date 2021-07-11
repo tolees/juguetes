@@ -28,10 +28,10 @@ Tienes [Clementoni - Ciencia y Juego Laboratorio de Mecánica - Coche de Policí
 
 🔎:
 
-- Contiene más de 300 componentes para ensamblar, dos motores eléctricos para tracción en las ruedas traseras, volante, engranajes y una unidad de transmisión
+- Un bonito kit científico para construir un coche teledirigido y descubrir los principios de la mecánica y la ingeniería y para correr a toda velocidad con dos modelos de coches de policía
 - La App gratuita con modelos 3D y los manuales incluidos, guiarán a los niños paso a paso en la construcción de los modelos
 - Juguete en Español
-- Un bonito kit científico para construir un coche teledirigido y descubrir los principios de la mecánica y la ingeniería y para correr a toda velocidad con dos modelos de coches de policía
+- Contiene más de 300 componentes para ensamblar, dos motores eléctricos para tracción en las ruedas traseras, volante, engranajes y una unidad de transmisión
 - Al conectar los automóviles al mando a distancia de radio frecuencia, los niños pueden conducir los automóviles a través del control remoto y comenzar con las impresionantes persecuciones de automóviles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S8PV74M/?tag=tolees-21)
