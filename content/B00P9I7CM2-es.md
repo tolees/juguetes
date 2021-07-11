@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'V Bike - Portaequipajes trasero de acero al 36.97 % de descuento'
-date: 2021-07-04 17:59:13
+date: 2021-07-11 16:32:14
 image: 'https://m.media-amazon.com/images/I/311+kyCbnZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

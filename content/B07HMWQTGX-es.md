@@ -28,10 +28,10 @@ Ahora mismo tienes [Diset - Jumbo  Forbidden City  Juego de estrategia a partir 
 
 🔎:
 
-- Habilidades que desarrolla: el pensamiento lógico, la habilidad y agilidad mental
 - Un juego táctico de colocación de piezas creado por Reiner Knizia ganador del Spiel de Jahres e ilustrado por Paul Windle Design
-- Número de jugadores: de 2 a 4
 - El emperador Wei Zu Yang es demasiado joven para gobernar y sus consejeros luchan por aumentar su influencia en el palacio imperial. El consejero con más influencia será el ganador de este juego
+- Número de jugadores: de 2 a 4
+- Habilidades que desarrolla: el pensamiento lógico, la habilidad y agilidad mental
 - Contenido: tablero central, pagoda central, 110 piezas (con reverso de colores: amarillo, azul, morado y rojo. 10 fichas con un 2 para la versión de 2 jugadores), 85 monedas de diferente valor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HMWQTGX/?tag=tolees-21)
