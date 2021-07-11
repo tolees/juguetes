@@ -29,12 +29,12 @@ Está [TOIMS Reina de Las Nieves: Bicicleta para niña  Color Azul  tamaño 14 P
 ℹ️:
 
 - Bicicleta para niña.
-- Neumáticos macizos de goma EVA.
-- Sillín suave.
-- Guardabarros.
-- Ruedas de plástico.
 - Estabilizadores.
-- Conforme a la norma ISO 8098.
+- Ruedas de plástico.
+- Sillín suave.
 - Barra direccional.
+- Guardabarros.
+- Conforme a la norma ISO 8098.
+- Neumáticos macizos de goma EVA.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BN6MKFC/?tag=tolees-21)
