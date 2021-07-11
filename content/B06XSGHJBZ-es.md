@@ -28,10 +28,10 @@ Está [Outsunny Conjunto 3 Piezas de Ratán de Jardín Plegables Juego de Mesa 6
 
 ℹ️:
 
-- ✅MESA PRÁCTICA: Mesa elegante y moderna con espacio suficiente para colocar bebidas, comida u otros elementos que necesites tener a mano mientras tomas el aire en el balcón
-- ✅MEDIDAS TOTALES: Mesa 60x60x72 cm (LxANxAL); Sillas 60x47x83,5 cm (LxANxAL): Peso máximo soportado: 120 kg (cada silla) y 50 kg (mesa)
+- ✅MATERIAL RESISTENTE: Con estructura de metal, con recubrimiento en polvo, y ratán sintético resistente a la intemperie y a la oxidación
 - ✅CONJUNTO DE JARDÍN DE 3 PIEZAS: Juego de exterior elegante y moderno compuesto por 1 mesa y 2 sillas. Ideal para cualquier espacio al aire libre como terraza, jardín o balcón
 - ✅PLEGABLE: Las 3 piezas son plegables, pudiendo transportarlas con facilidad de un lado a otro. Permiten ahorrar espacio cuando no están en uso, ideal para espacios pequeños
-- ✅MATERIAL RESISTENTE: Con estructura de metal, con recubrimiento en polvo, y ratán sintético resistente a la intemperie y a la oxidación
+- ✅MEDIDAS TOTALES: Mesa 60x60x72 cm (LxANxAL); Sillas 60x47x83,5 cm (LxANxAL): Peso máximo soportado: 120 kg (cada silla) y 50 kg (mesa)
+- ✅MESA PRÁCTICA: Mesa elegante y moderna con espacio suficiente para colocar bebidas, comida u otros elementos que necesites tener a mano mientras tomas el aire en el balcón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XSGHJBZ/?tag=tolees-21)
