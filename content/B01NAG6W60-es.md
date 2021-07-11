@@ -28,8 +28,8 @@ Tienes [Arcane Tinman ART13001 AT-13001 Dragon Shield Klar Juego de Cartas  Colo
 
 ℹ️:
 
+- Juegos
 - Juego de cartas
 - Tarjetas comerciales y accesorios
-- Juegos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01NAG6W60/?tag=tolees-21)
