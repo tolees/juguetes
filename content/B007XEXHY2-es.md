@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir El laberinto mágico  Juego de mesa](https://www.amazo
 
 🔎:
 
-- Juego en español, catalán y portugués
-- Juego de mesa infantil
-- De 2 a 4 jugadores
 - Duración aproximada de la partida 20-30 min
+- Juego en español, catalán y portugués
+- De 2 a 4 jugadores
+- Juego de mesa infantil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007XEXHY2/?tag=tolees-21)

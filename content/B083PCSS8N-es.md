@@ -28,11 +28,11 @@ En este momento está [Juegos Mattel - Mattel Games Scrabble Harry Potter Juego 
 
 🔎:
 
+- Para 2 , 3 o 4 jugadores
+- Juego de mesa para adultos y para niños a partir de los 10 años
 - Incluye un glosario de palabras mágicas del universo de Harry Potter
 - Combina aprendizaje y diversión, descubriendo palabras nuevas en cada partida
-- Juego de mesa para adultos y para niños a partir de los 10 años
-- Incluye tablero, 4 atriles, fichas con letras y 36 cartas
-- Para 2 , 3 o 4 jugadores
 - Juego de mesa Scrabble, que celebra el mundo de Harry Potter y sus amigos
+- Incluye tablero, 4 atriles, fichas con letras y 36 cartas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083PCSS8N/?tag=tolees-21)

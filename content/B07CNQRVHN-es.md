@@ -29,8 +29,8 @@ Ahora mismo tienes [Devir - Exit: La isla olvidada  Ed. Español  BGEXIT5    col
 🔎:
 
 - Dificultad: avanzado
-- Entre 45 y 90 minutos de partida
-- Edad: a partir de 12 años
 - De 1 a 4 jugadores
+- Edad: a partir de 12 años
+- Entre 45 y 90 minutos de partida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CNQRVHN/?tag=tolees-21)

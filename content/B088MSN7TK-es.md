@@ -30,8 +30,8 @@ Ahora mismo tienes [The Bellies From Bellyville- Beastie Roasty  Amigo  Mascota 
 
 - Recomendado a partir de 3 años; regalo que asegurará la diversión y risas de los más pequeños con muchas historias y contenido digital sobre ellos
 - Los Beasties tienen su propia experiencia, primero tendrán que quitarles una pequeña bacteria que traen y agitarlo para comprobar que no quedan más, después ponerle su propio nombre, fijarse en el chip para saber que raza les ha tocado y luego ver que caquita tiene en su pañal
+- Cada Beastie viene con su accesorio, pañal y su Beastiepedia
 - Los Beasties son los mejores amigos de los Bellies, les encanta quitarles las cosas a los Bellies y son aún más traviesos
 - Los Roasty son la raza más peligrosa vas a tener que tener mucho cuidado con ellos porque son una raza rompecorazones
-- Cada Beastie viene con su accesorio, pañal y su Beastiepedia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088MSN7TK/?tag=tolees-21)

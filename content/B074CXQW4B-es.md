@@ -29,8 +29,8 @@ Tienes [Devir - Exit: El laboratorio secreto  Ed. Español  BGEXIT3 ](https://ww
 🔎:
 
 - A partir de los 12 años
-- Edición en español
-- Duración 45-90 minutos
 - De 1 a 4 jugadores
+- Duración 45-90 minutos
+- Edición en español
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074CXQW4B/?tag=tolees-21)

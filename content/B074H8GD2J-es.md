@@ -29,8 +29,8 @@ Ahora mismo tienes [Devir - Exit: La tumba del faraón  Ed. Español  BGEXIT2 ](
 🔎:
 
 - De 1 a 6 jugadores
+- A partir de los 12 años
 - Duración 45-90 minutos
 - Edición en español
-- A partir de los 12 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074H8GD2J/?tag=tolees-21)

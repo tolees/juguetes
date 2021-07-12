@@ -29,9 +29,9 @@ Tienes [Devir - Catan  juego de mesa - Ampliación para 5 y 6 Jugadores  BGCATAN
 🔎:
 
 - Un mapa más grande para dar cabida a dos jugadores más
-- Duración aproximada de la partida: 75 min
 - Número de jugadores: 3 - 6
 - Tipo de producto: juego de mesa, es necesario tener Catán - Juego Básico para jugar
 - Edad recomendada: 10 años y más
+- Duración aproximada de la partida: 75 min
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008EK5T9K/?tag=tolees-21)

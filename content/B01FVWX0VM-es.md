@@ -28,10 +28,10 @@ Tienes [Devir - Carcassonne Junior Juego de Mesa  Multicolor  27.5 x 6.5 x 19 cm
 
 ℹ️:
 
-- Juego adecuado para pasar el tiempo libre
-- Edad recomendada: 4 años y más
-- Duración aproximada de la partida: 20 min
 - Tipo de producto: juego de mesa
+- Juego adecuado para pasar el tiempo libre
+- Duración aproximada de la partida: 20 min
 - Número de jugadores: 2 - 4
+- Edad recomendada: 4 años y más
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FVWX0VM/?tag=tolees-21)

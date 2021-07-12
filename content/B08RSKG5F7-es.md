@@ -28,10 +28,10 @@ Ahora mismo tienes [Juguetes Famosa - Famosa - Cápsulas Mágicas Harry Potter S
 
 🔎:
 
-- Vive la experiencia de unboxing de tus personajes favoritos de las famosas películas de Harry Potter; abre los compartimentos y descubre de manera divertida qué mascota tiene o qué hechizo usa el personaje que te ha tocado
-- Cada cápsula mágica incluye una figura sorpresa con hasta 7 accesorios con pistas para descubrir tu personaje antes de abrirlo
 - Descubre a qué casa pertenece tu minifigura: Gryffindor, Hufflepuff, Ravenclaw o Slytherin
-- Hasta 10 figuras diferentes, con una figura de Ron Weasley jugando al Quidditch en su escoba
+- Cada cápsula mágica incluye una figura sorpresa con hasta 7 accesorios con pistas para descubrir tu personaje antes de abrirlo
 - Los posibles personajes son: la profesora Minerva, Bellatrix Lestrange, Remus, Hermione Granger, Harry Potter, Albus Dumbledore, Sirius Black, Flitwick y Hagrid
+- Hasta 10 figuras diferentes, con una figura de Ron Weasley jugando al Quidditch en su escoba
+- Vive la experiencia de unboxing de tus personajes favoritos de las famosas películas de Harry Potter; abre los compartimentos y descubre de manera divertida qué mascota tiene o qué hechizo usa el personaje que te ha tocado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08RSKG5F7/?tag=tolees-21)

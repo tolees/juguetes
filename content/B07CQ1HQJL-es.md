@@ -28,10 +28,10 @@ Está [Devir - Exit: El castillo prohibido  Ed. Español  BGEXIT4    color/model
 
 ℹ️:
 
-- Idioma principal: español
-- A partir de los 12 años
-- Duración: 45-90 minutos
 - Dificultad: avanzado
+- Duración: 45-90 minutos
+- Idioma principal: español
 - De 1 a 4 jugadores
+- A partir de los 12 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CQ1HQJL/?tag=tolees-21)
