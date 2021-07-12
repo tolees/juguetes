@@ -28,15 +28,15 @@ Está [LEGO 60248 City Intervención del Helicóptero de Bomberos Juguet
 
 ℹ️:
 
-- Los sets de bomberos LEGO City estimulan el juego de interpretación imaginativo y de aventuras sin límites gracias a sus escenarios que simulan la vida real, con modelos con todo tipo de detalles, impresionantes vehículos y divertidos personajes.
+- ¿Te has preguntado qué hace que los ladrillos LEGO se armen y desarmen fácilmente una y otra vez
+- Te espera una aventura trepidante y divertida con un magnífico helicóptero que vuela con cable de lanzamiento, un quad de rescate y una tubería en llamas, además de 3 minifiguras.
+- ¡No necesita pilas! Este juguete LEGO se alimenta de un cable de lanzamiento y de la imaginación de los niños. ¡Solo tienes que abrir las bolsas de ladrillos LEGO y comenzar a disfrutar tu aventura de bomberos inmediatamente!
 - Una vez construido, el helicóptero con cable de lanzamiento de juguete mide aproximadamente 6 cm de altura, 19 cm de longitud y 12 cm de anchura, mientras que el quad mide aproximadamente 4 cm de altura, 8 cm de longitud y 4 cm de anchura.
-- ¿Buscas juguetes divertidos para niños entre 5 y 8 años
 - ¡Empezar a armar este juguete de construcción LEGO City es muy fácil! Viene con una sencilla guía de construcción que ayuda a constructores LEGO noveles a disfrutar las ventajas de crear las maquetas por su cuenta.
 - Este juego de bomberos es un fantástico regalo para fans de LEGO City y niños entusiastas del juego de interpretación con mucha acción.
-- Te espera una aventura trepidante y divertida con un magnífico helicóptero que vuela con cable de lanzamiento, un quad de rescate y una tubería en llamas, además de 3 minifiguras.
-- Regala a tu héroe cotidiano la oportunidad de disfrutar la emocionante experiencia LEGO City con el juego Intervención del Helicóptero de Bomberos (60248), que incluye un juguete de helicóptero con cable de lanzamiento, un quad y mucho más.
-- ¡No necesita pilas! Este juguete LEGO se alimenta de un cable de lanzamiento y de la imaginación de los niños. ¡Solo tienes que abrir las bolsas de ladrillos LEGO y comenzar a disfrutar tu aventura de bomberos inmediatamente!
-- ¿Te has preguntado qué hace que los ladrillos LEGO se armen y desarmen fácilmente una y otra vez
 - Los niños pueden lanzar al aire el juguete de helicóptero con cable de lanzamiento (novedad en enero de 2020), incluida la minifigura de un piloto, y jugar a representar escenas de la televisión de LEGO City con la jefa de bomberos Freya McCloud.
+- ¿Buscas juguetes divertidos para niños entre 5 y 8 años
+- Regala a tu héroe cotidiano la oportunidad de disfrutar la emocionante experiencia LEGO City con el juego Intervención del Helicóptero de Bomberos (60248), que incluye un juguete de helicóptero con cable de lanzamiento, un quad y mucho más.
+- Los sets de bomberos LEGO City estimulan el juego de interpretación imaginativo y de aventuras sin límites gracias a sus escenarios que simulan la vida real, con modelos con todo tipo de detalles, impresionantes vehículos y divertidos personajes.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W8XYZ1P/?tag=tolees-21)

@@ -28,15 +28,15 @@ Tienes [LEGO 60287 City Tractor Set de Granja con Figura de Conejo  J
 
 🔎:
 
-- Todos los componentes LEGO cumplen estrictas normas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y convierten la construcción en una experiencia divertida; así ha sido desde 1958.
-- ¿Qué contiene la caja
-- Accesorios incluidos: una caja con una calabaza, una manzana y zanahorias, así como 2 pacas de heno.
+- Viene con una guía de construcción impresa y la experiencia Instructions PLUS: una guía de construcción interactiva para niños que forma parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes.
 - Contribuye a que la creatividad gane terreno con el juego LEGO City Tractor (60287), una impresionante manera de empezar a descubrir el emocionante mundo de LEGO City. Ideal para niños y niñas a partir de 5 años.
+- El juguete LEGO City Grandes Vehículos Tractor es fantástico para sorprender a niños y niñas a partir de 5 años por Navidad, por su cumpleaños o en cualquier otra ocasión.
 - Todo lo que tu peque necesita para crear el genial Tractor de juguete con sus fieles detalles, 2 pacas de heno, una caja de elementos que representan verduras, minifiguras de un granjero y su hija, y una figura de un conejo.
 - Los juguetes LEGO City Grandes Vehículos estimulan el juego creativo que ayuda a los niños a mejorar sus habilidades físicas y su confianza mientras exploran vehículos y situaciones que reflejan la vida real de una manera divertida y emocionante.
-- El juguete LEGO City Grandes Vehículos Tractor es fantástico para sorprender a niños y niñas a partir de 5 años por Navidad, por su cumpleaños o en cualquier otra ocasión.
-- El juguete LEGO City Tractor (60287) cuenta con enormes neumáticos traseros, pala cargadora inclinable, estructura de brazos elevable y cabina para una minifigura. Los niños podrán combinarlo con otros juegos LEGO para divertirse, jugar y decorar.
 - Una vez construido, el Tractor mide aproximadamente 10 cm de altura, 17 cm de longitud y 7 cm de anchura.
-- Viene con una guía de construcción impresa y la experiencia Instructions PLUS: una guía de construcción interactiva para niños que forma parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes.
+- Accesorios incluidos: una caja con una calabaza, una manzana y zanahorias, así como 2 pacas de heno.
+- Todos los componentes LEGO cumplen estrictas normas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y convierten la construcción en una experiencia divertida; así ha sido desde 1958.
+- El juguete LEGO City Tractor (60287) cuenta con enormes neumáticos traseros, pala cargadora inclinable, estructura de brazos elevable y cabina para una minifigura. Los niños podrán combinarlo con otros juegos LEGO para divertirse, jugar y decorar.
+- ¿Qué contiene la caja
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21)
