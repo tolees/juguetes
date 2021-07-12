@@ -28,10 +28,10 @@ En este momento está [Devir - ¡Rescate!  BGRESCATE ](https://www.amazon.es/dp/
 
 🔎:
 
-- Duración aproximada de la partida: 45 minutos
+- Juego de mesa cooperativo en el que todos los jugadores forman un equipo
+- Juego adecuado para pasar el tiempo libre
 - Número de jugadores: 2 - 6
 - Edad recomendada: 10 años y más
-- Juego adecuado para pasar el tiempo libre
-- Juego de mesa cooperativo en el que todos los jugadores forman un equipo
+- Duración aproximada de la partida: 45 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LC8GKAS/?tag=tolees-21)
