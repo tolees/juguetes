@@ -28,12 +28,12 @@ En este momento está [Einhell GC-DP 7835 -Bomba de aguas sucias 780W  capacidad
 
 🔎:
 
-- Asa de transporte
+- Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
+- Carcasa de la bomba de acero fino
+- Junta de anillo deslizante de alta calidad
 - Detector del nivel del agua con altura regulable sin escalonamientos
 - Recogida del cable
 - Conexión universal para mangueras de 25 mm y 32 mm, así como rosca exterior G 1 (aprox. 33.3 mm)
-- Junta de anillo deslizante de alta calidad
-- Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
-- Carcasa de la bomba de acero fino
+- Asa de transporte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00B18KAEG/?tag=tolees-21)

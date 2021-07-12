@@ -28,10 +28,10 @@ En este momento está [Juegos Mattel- Barbie Wild Jackpot  Color Rojo/Amarillo  
 
 🔎:
 
-- Incluye 8 cartas especiales personalizables
 - ¡UNO es muy fácil y divertido! ¡Empieza a jugar y ya no podrás parar!
-- ¡Nunca se sabe qué saldrá en la máquina de Jackpot!
 - ¡La nueva máquina de Jackpot le da incluso más emoción al juego!
+- Incluye 8 cartas especiales personalizables
+- ¡Nunca se sabe qué saldrá en la máquina de Jackpot!
 - ¡Diversión impredecible para toda la familia!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ARGC2T8/?tag=tolees-21)
