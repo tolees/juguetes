@@ -28,10 +28,10 @@ Tienes [Giochi Preziosi Pinypon Action 2 Vehículos de policía con Personaje y 
 
 🔎:
 
-- Función Mix&Match, se pueden combinar con otros vehículos.
 - Incluye muchos accesorios.
-- Incluye policía de 7 cm de alto.
+- Función Mix&Match, se pueden combinar con otros vehículos.
 - Vehículos rápidos
+- Incluye policía de 7 cm de alto.
 - La máquina de policía incluye su moto y el policía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XH9XRND/?tag=tolees-21)

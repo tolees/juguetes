@@ -29,7 +29,7 @@ Tienes [FEBER - Quad Racy 6 V  Famosa 800011252 ](https://www.amazon.es/dp/B0719
 🔎:
 
 - Quad Racy Red con acelerador en el pie y ruedas robustas para mayor estabilidad Alcanza los 2 km/h
-- Quad eléctrico con motor 6V para niños Batería y cargador incluidos ¡Y hasta 40 minutos de juego sin parar!
 - Para niño y niña desde los 18 meses hasta los 3 años Peso máximo recomendado de 15 Kg Medida producto: 67 (L) x 41(An) x 45(A) cm Peso producto: 5,5Kg
+- Quad eléctrico con motor 6V para niños Batería y cargador incluidos ¡Y hasta 40 minutos de juego sin parar!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0719SXQTW/?tag=tolees-21)
