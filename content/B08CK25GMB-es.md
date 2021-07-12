@@ -29,8 +29,8 @@ Tienes [Koloretako Munstroa- Juego para niños  Devir BGMONEK ](https://www.amaz
 ℹ️:
 
 - Producto de la marca Koloretako Munstroa
-- Un juego pensado para los más pequeños basado en el libro ventas de anna llenas
 - Diseñado por dani gómez y josep m. Allué, autor premiado de juegos infantiles
 - Una oportunidad para hablar con los niños
+- Un juego pensado para los más pequeños basado en el libro ventas de anna llenas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CK25GMB/?tag=tolees-21)

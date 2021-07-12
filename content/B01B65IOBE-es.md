@@ -28,11 +28,11 @@ Tienes [Nenuco - Doctora Por Qué Llora  cura como un doctor a tu muñeco bebé 
 
 ℹ️:
 
-- Se guarda todo dentro del maletín transportable con ruedas, un tirador y una cinta para sujetar a Nenuco
 - Incluye un muñeco Nenuco blandito de 35 centímetros con la ropa unida al cuerpo
 - Tiene un dispositivo traductor de lloros con Try Me, que avisa cuando el Nenuco tiene hambre, sueño, quiere jugar o está malito. (Pilas del traductor de lloros incluidas)
-- Producto no indicado para jugar en el agua por su sistema electrónico
 - Ayuda al desarrollo afectivo y emocional, la imitación de roles y fomenta la imaginación. Juguete recomendado a niños a partir de 3 años.
+- Se guarda todo dentro del maletín transportable con ruedas, un tirador y una cinta para sujetar a Nenuco
 - Contiene muchos accesorios médicos que se pueden guardar en los compartimentos del maletín
+- Producto no indicado para jugar en el agua por su sistema electrónico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B65IOBE/?tag=tolees-21)
