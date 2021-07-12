@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Jum al 17.18 % de descuento'
-date: 2021-06-29 05:35:25
+date: 2021-07-12 07:23:35
 image: 'https://m.media-amazon.com/images/I/51MDDf0CzlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07DPKFBHC/?tag=tolees-21'
 descuento: '17.18'
-average: '18.29'
+average: '18.0075'
 ---
 
 Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Jump Force - Edición Estándar](https://www.amazon.es/dp/B07DPKFBHC/?tag=tolees-21) a 14.9 EUR (original: 17.99 EUR) (17.18 %  de descuento) en el siguiente enlace!
