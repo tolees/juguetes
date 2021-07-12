@@ -28,14 +28,14 @@ Ahora mismo tienes [LEGO Set de Batalla Legendaria: Zane vs. Nindroide](https://
 
 🔎:
 
-- Este juego de juguetes ninja cuenta con 2 minifiguras: Zane (novedad en enero de 2021) y un Nindroide Legacy de la serie para televisión NINJAGO; además, contiene 4 exclusivas Armas Blancas.
 - La fábrica Nindroide mide aproximadamente 3 cm de altura, 6 cm de anchura y 8 cm de profundidad: un tamaño magnífico para divertirse en casa o continuar la diversión en casa de un amigo.
-- Los ladrillos para construir LEGO satisfacen los requisitos de las normas de seguridad más exigentes del mundo.
 - Los sets LEGO NINJAGO alejan a los niños de sus pantallas y los trasladan a un mundo de juego imaginativo en el que aprenden habilidades positivas para la vida participando en aventuras con sus héroes ninja.
-- Recrea batallas legendarias al estilo LEGO NINJAGO aún más espectaculares combinándolo con estos otros sets: Kai vs. Skulkin (71730), Jay vs. Serpentine (71732) y Cole vs. Guerrero Fantasma (71733).
 - El juguete de combate ninja incluye también una pequeña fábrica Nindroide para construir y una plataforma de combate giratoria que Zane usará para derribar a su oponente en sus intensos enfrentamientos.
-- El Set de Batalla Legendaria: Zane vs. Nindroide LEGO NINJAGO (71731) permite a los peques crear sus propias escenas de acción al estilo ninja entre su héroe Zane y un peligroso Nindroide.
-- Desde hace más de seis décadas, los ladrillos LEGO se fabrican con materiales de máxima calidad para garantizar que siempre se separen fácilmente. ¡No te hará falta usar tus habilidades ninja!
+- Recrea batallas legendarias al estilo LEGO NINJAGO aún más espectaculares combinándolo con estos otros sets: Kai vs. Skulkin (71730), Jay vs. Serpentine (71732) y Cole vs. Guerrero Fantasma (71733).
 - Este juego de combate de 56 piezas propone una divertida experiencia de construcción a niños mayores de 6 años y es un regalo sorpresa o de cumpleaños perfecto para hacerlos felices.
+- Este juego de juguetes ninja cuenta con 2 minifiguras: Zane (novedad en enero de 2021) y un Nindroide Legacy de la serie para televisión NINJAGO; además, contiene 4 exclusivas Armas Blancas.
+- Los ladrillos para construir LEGO satisfacen los requisitos de las normas de seguridad más exigentes del mundo.
+- Desde hace más de seis décadas, los ladrillos LEGO se fabrican con materiales de máxima calidad para garantizar que siempre se separen fácilmente. ¡No te hará falta usar tus habilidades ninja!
+- El Set de Batalla Legendaria: Zane vs. Nindroide LEGO NINJAGO (71731) permite a los peques crear sus propias escenas de acción al estilo ninja entre su héroe Zane y un peligroso Nindroide.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08G4D2NCG/?tag=tolees-21)
