@@ -28,9 +28,9 @@ En este momento está [Devir - ¡Rescate!  BGRESCATE ](https://www.amazon.es/dp/
 
 🔎:
 
-- Edad recomendada: 10 años y más
-- Número de jugadores: 2 - 6
 - Duración aproximada de la partida: 45 minutos
+- Número de jugadores: 2 - 6
+- Edad recomendada: 10 años y más
 - Juego adecuado para pasar el tiempo libre
 - Juego de mesa cooperativo en el que todos los jugadores forman un equipo
 

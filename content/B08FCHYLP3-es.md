@@ -28,10 +28,10 @@ En este momento está [Momo Design Venezia - Bicicleta eléctrica con pedaleo as
 
 🔎:
 
+- Marco de acero, ruedas de 26" x 1,75", guardabarros de acero.
+- Batería recargable de iones de litio de 280 Wh, extraíble con cierre de seguridad.
 - Cambio Shimano de 6 marchas, montado en Italia.
 - Motor trasero de 250 W, frenos V-Brake, luces LED.
 - 3 niveles de asistencia, función Walk a 6 km/h.
-- Batería recargable de iones de litio de 280 Wh, extraíble con cierre de seguridad.
-- Marco de acero, ruedas de 26" x 1,75", guardabarros de acero.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCHYLP3/?tag=tolees-21)
