@@ -28,10 +28,10 @@ Tienes [PLAYMOBIL City Life 70308 Cofre Guardería  A partir de 4 años](https:/
 
 ℹ️:
 
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Contenido: 1x PLAYMOBIL City Life Cofre Guardería, Set de 50 piezas con instrucciones: 1 caja de juegos, 3 figuras, 46 accesorios, Material: plástico, LxAxA: cerrado aprox. 13x8x16 cm, construido aprox. 25x6,5x16 cm, 70308
 - Diversión en movimiento: la caja de juegos PLAYMOBIL Cofre Guardería con la maestra de jardín de infancia, 2 niños y accesorios para una recreación detallada de la vida cotidiana en la guardería.
 - Caja inteligente con suficiente espacio para guardar las piezas individuales, mecanismo de cierre de funcionamiento suave para abrir y cerrar, así como asa de transporte para llevarla fácilmente
 - Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Contenido: 1x PLAYMOBIL City Life Cofre Guardería, Set de 50 piezas con instrucciones: 1 caja de juegos, 3 figuras, 46 accesorios, Material: plástico, LxAxA: cerrado aprox. 13x8x16 cm, construido aprox. 25x6,5x16 cm, 70308
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0826C5FQN/?tag=tolees-21)

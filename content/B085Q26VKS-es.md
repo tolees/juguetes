@@ -28,9 +28,9 @@ Está [Diset  Escape Room Dos Jugadores  Juego de mesa adulto a partir de 16 añ
 
 ℹ️:
 
-- Número de jugadores: de 1 a 2 personas
-- El juego contiene 2 aventuras de 60 minutos: Prisión Island y Asylum y una aventura de 15 minutos: Secuestrado
 - Contenido 3 nuevas aventuras, 2 de 60 minutos y una de 15 minutos/todos los materiales necesarios para poder resolver las pistas
+- El juego contiene 2 aventuras de 60 minutos: Prisión Island y Asylum y una aventura de 15 minutos: Secuestrado
+- Número de jugadores: de 1 a 2 personas
 - Juego de mesa adulto que simula una experiencia Escape Room de verdad para 2 jugadores. El objetivo es conseguir resolver cada una de las aventuras a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas…
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085Q26VKS/?tag=tolees-21)
