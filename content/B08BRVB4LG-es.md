@@ -28,10 +28,10 @@ Tienes [Trust Gaming GXT 212 Mico Micrófono PC USB  con Conexiones de 3 5 mm y 
 
 🔎:
 
-- Cable con clavija de 3,5 mm; adaptador USB incluido en el precio para conseguir un audio digital de buena calidad, sin distorsiones
+- Incluye trípode con ángulo ajustable
 - Cable de 1,80 m
 - Adecuado para usar con Twitch, Youtube, etc.: conéctelo y empiece a utilizarlo
 - Con conexiones de 3,5 mm y USB, funciona con cualquier PC u ordenador portátil; compatible con PC, PlayStation 4 & PlayStation 5
-- Incluye trípode con ángulo ajustable
+- Cable con clavija de 3,5 mm; adaptador USB incluido en el precio para conseguir un audio digital de buena calidad, sin distorsiones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BRVB4LG/?tag=tolees-21)

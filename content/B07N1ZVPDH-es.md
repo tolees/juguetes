@@ -28,10 +28,10 @@ Está [Nenuco de Famosa Da Besitos  muñeca bebé con Sonidos  para niñas y ni�
 
 ℹ️:
 
-- Recomendado a partir de 10 meses; adecuado para fomentar el vínculo afectivo y la expresión de emociones de los más pequeños
-- Si acercas la mano de Nenuco a su boca hará un sonido y cuando la retiras lanza un besito
-- Nenuco Da Besitos, ¡es el bebé más cariñoso y besucón de todos, que lanza besitos con sonidos de verdad!
 - Nenuco es muy blandito y amoroso; con la mano derecha lanza besitos y con la izquierda se chupa el dedito
 - Muñeco de cuerpo blandito, mide 25 cm y viste con gorro de flores y traje rosa; hace sonidos de besitos y funciona con 3 pilas LR44 incluidas
+- Si acercas la mano de Nenuco a su boca hará un sonido y cuando la retiras lanza un besito
+- Recomendado a partir de 10 meses; adecuado para fomentar el vínculo afectivo y la expresión de emociones de los más pequeños
+- Nenuco Da Besitos, ¡es el bebé más cariñoso y besucón de todos, que lanza besitos con sonidos de verdad!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1ZVPDH/?tag=tolees-21)
