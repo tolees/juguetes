@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir - Juego La Viña Edición Española  8436017228236 ](h
 
 🔎:
 
+- Edad mínima recomendada: 8+
+- Un juego de cartas inmersivo
 - Número de jugadores 2-5
 - Tiempo de juego: 30 - 45 min
-- Un juego de cartas inmersivo
 - Facil de aprender y sigue siendo un desafio a lo largo de muchos partidos
-- Edad mínima recomendada: 8+
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLYRJNK/?tag=tolees-21)
