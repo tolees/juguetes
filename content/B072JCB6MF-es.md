@@ -28,8 +28,8 @@ Está [FEBER 6V Motorbike Cross  400F  6 V  Color Negro  Gris  Rojo  Amarillo  F
 
 ℹ️:
 
-- FEBER Rider Cross 6V es una moto eléctrica que cuenta con acelerador en el pie, freno eléctrico y dos ruedines para mejor la estabilidad Alcanza los 5,3 km/h Moto eléctrica infantil para niños con batería 6V ¡Y hasta 90 minutos de juego sin parar!
 - Motorbike Cross 400F es una moto eléctrica que cuenta con luces en los faros delanteros, sonidos de motor y claxon y dos ruedines para mejorar la estabilidad Cuenta con pulsador para acelerar y frenar Alcanza los 3 km/h
+- FEBER Rider Cross 6V es una moto eléctrica que cuenta con acelerador en el pie, freno eléctrico y dos ruedines para mejor la estabilidad Alcanza los 5,3 km/h Moto eléctrica infantil para niños con batería 6V ¡Y hasta 90 minutos de juego sin parar!
 - Motorbike Cross 400F 6V
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072JCB6MF/?tag=tolees-21)
