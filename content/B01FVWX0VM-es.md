@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.36 % en Devir - Carcassonne Junior Juego de Mesa'
-date: 2021-07-12 07:37:21
+date: 2021-07-13 13:54:10
 image: 'https://m.media-amazon.com/images/I/51d28z+l+RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B01FVWX0VM/?tag=tolees-21'
 descuento: '19.36'
-average: '21.2422727272727'
+average: '21.1952173913043'
 ---
 
 Tienes [Devir - Carcassonne Junior Juego de Mesa  Multicolor  27.5 x 6.5 x 19 cm  BGCARJTR ](https://www.amazon.es/dp/B01FVWX0VM/?tag=tolees-21) con un 19.36 % de descuento con precio de oferta de 20.16 EUR (original: 25.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Devir - Carcassonne Junior Juego de Mesa  Multicolor  27.5 x 6.5 x 19 cm
 
 ℹ️:
 
+- Número de jugadores: 2 - 4
+- Edad recomendada: 4 años y más
 - Tipo de producto: juego de mesa
 - Juego adecuado para pasar el tiempo libre
 - Duración aproximada de la partida: 20 min
-- Número de jugadores: 2 - 4
-- Edad recomendada: 4 años y más
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01FVWX0VM/?tag=tolees-21)
