@@ -28,9 +28,9 @@ En este momento está [Devir Break The Code](https://www.amazon.es/dp/B08K8ZZWSY
 
 🔎:
 
-- Óptimo para los amantes de los Escape Rooms con candados
-- Una vuelta de tuerca modernizada a clásicos de la deducción lógica como el Mastermind
-- Se explica en 5 minutos y se juega en 15, pero no vas a poder echar solo una
 - Dimensiones del paquete: 12.8 L x 18.0 H x 4.3 W (centimeters)
+- Óptimo para los amantes de los Escape Rooms con candados
+- Se explica en 5 minutos y se juega en 15, pero no vas a poder echar solo una
+- Una vuelta de tuerca modernizada a clásicos de la deducción lógica como el Mastermind
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08K8ZZWSY/?tag=tolees-21)

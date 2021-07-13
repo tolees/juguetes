@@ -28,12 +28,12 @@ Tienes [Devir - La escalera encantada  BGESCA ](https://www.amazon.es/dp/B00DW6K
 
 ℹ️:
 
+- Premio Kinderspiel des Jahres 2004 (Kritikerpreis)
 - Idiomas: español, catalán y portugués
+- Duración aproximada de la partida 10-15 min
+- A partir de 4 años
 - Duración 15 minutos
 - Un juego de dados y confusión
-- A partir de 4 años
-- Premio Kinderspiel des Jahres 2004 (Kritikerpreis)
-- Duración aproximada de la partida 10-15 min
 - De 2 a 4 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DW6K9K0/?tag=tolees-21)
