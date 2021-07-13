@@ -29,14 +29,14 @@ En este momento está [LEGO 21034 Architecture Skyline Collection Londres �
 🔎:
 
 - Recrea las ciudades más hermosas del mundo con la colección LEGO Architecture Skyline.
-- Mide más de 15 cm de altura, 28 cm de ancho y 8 cm de profundidad.
-- Este set incluye más de 460 elementos LEGO y proporciona una experiencia de construcción apropiada para niños a partir de 12 años.
-- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan.
-- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres).
 - El río Támesis de Londres está representado en la base mediante placas transparentes.
-- La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a amantes de los viajes, el diseño, la arquitectura y la historia.
-- Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre.
-- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre Londres y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
+- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres).
 - Interpretación LEGO Architecture de Londres.
+- Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre.
+- Este set incluye más de 460 elementos LEGO y proporciona una experiencia de construcción apropiada para niños a partir de 12 años.
+- El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre Londres y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
+- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan.
+- La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo LEGO y está dirigida a amantes de los viajes, el diseño, la arquitectura y la historia.
+- Mide más de 15 cm de altura, 28 cm de ancho y 8 cm de profundidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
