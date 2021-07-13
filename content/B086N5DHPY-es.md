@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.55 % en Geomag- Gravity Juego de construcción ma'
-date: 2021-07-12 06:57:24
+date: 2021-07-13 10:39:44
 image: 'https://m.media-amazon.com/images/I/51t25TuHdTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Geomag- Gravity Juego de construcción magnética  Multicolor  777 ](htt
 
 ℹ️:
 
+- Con 185 piezas, 24 bolas de metal y 161 elementos en la base del mecanismo de golpeo
 - Un juego de habilidad manual que recompensa el tiempo y la coordinación ojo-mano
 - Se califican en la categoría STEM (acrónimo de ciencia, tecnología, ingeniería y matemáticas), lo que indica un enfoque interdisciplinario para el aprendizaje
 - Desarrolla tu imaginación y curiosidad a través de la ciencia de la construcción magnética
-- Con 185 piezas, 24 bolas de metal y 161 elementos en la base del mecanismo de golpeo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086N5DHPY/?tag=tolees-21)

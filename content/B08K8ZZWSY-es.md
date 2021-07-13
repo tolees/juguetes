@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Break The Code con un 15.11 % de descuento'
-date: 2021-07-12 07:36:17
+date: 2021-07-13 10:52:19
 image: 'https://m.media-amazon.com/images/I/51K8tK2STIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08K8ZZWSY/?tag=tolees-21'
 descuento: '15.11'
-average: '15.296'
+average: '15.2933333333333'
 ---
 
 En este momento está [Devir Break The Code](https://www.amazon.es/dp/B08K8ZZWSY/?tag=tolees-21) a 15.28 EUR (original: 18.0 EUR) (15.11 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [Devir Break The Code](https://www.amazon.es/dp/B08K8ZZWSY
 🔎:
 
 - Óptimo para los amantes de los Escape Rooms con candados
+- Una vuelta de tuerca modernizada a clásicos de la deducción lógica como el Mastermind
 - Se explica en 5 minutos y se juega en 15, pero no vas a poder echar solo una
 - Dimensiones del paquete: 12.8 L x 18.0 H x 4.3 W (centimeters)
-- Una vuelta de tuerca modernizada a clásicos de la deducción lógica como el Mastermind
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08K8ZZWSY/?tag=tolees-21)

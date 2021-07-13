@@ -28,10 +28,10 @@ Tienes [SMARTGYRO Ziro Patinete Eléctrico Scooter  Motor de 500W  App para Smar
 
 🔎:
 
-- Patinete eléctrico potente y de calidad, motor de transmisión directa Brushless; Incorpora ruedas neumáticas de 10”, Amortiguación trasera doble, Freno de disco, Batería de litio de 8.8 Ah, 3 modos de velocidad
 - Compatible con APP: es compatible con la App de SmartGyro, podrás ver información del SmartGyro en el móvil, modo de ajuste, acumulación de kilómetros, distancia recorrida, bloqueo a distancia
-- Muévete tranquilo: al comprar este patín eléctrico; dimensiones: 111.5x56x115 cm, 15 Kg, estructura plegable de aluminio
 - Con una estructura de base ancha y un sistema de bloqueo por APP, SmartGyro Ziro viene preparado para que te lo lleves siempre contigo y puedas plegarlo sin que ocupe mucho espacio
 - Potente motor: Gracias a su potente y eficiente motor Brushless de 36V con 3 velocidades diferentes, alcanza una velocidad de 25 km/h y consigue una autonomía de 25 Km
+- Muévete tranquilo: al comprar este patín eléctrico; dimensiones: 111.5x56x115 cm, 15 Kg, estructura plegable de aluminio
+- Patinete eléctrico potente y de calidad, motor de transmisión directa Brushless; Incorpora ruedas neumáticas de 10”, Amortiguación trasera doble, Freno de disco, Batería de litio de 8.8 Ah, 3 modos de velocidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08XNKV84P/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir- Hero Realms: La Perdición de Thandar  Multicolor  BG
 
 🔎:
 
-- A partir de 12 años
-- Esta expansión requiere el juego básico Hero Realms y de sobres de personaje
-- Unos 90 minutos por partida
 - De 1 a 5 jugadores
+- Esta expansión requiere el juego básico Hero Realms y de sobres de personaje
+- A partir de 12 años
+- Unos 90 minutos por partida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FW16Q7M/?tag=tolees-21)

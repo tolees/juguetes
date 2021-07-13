@@ -31,7 +31,7 @@ Ahora mismo tienes [Barbie Fashionista Muñeca con Silla de Ruedas  Multicolor  
 - La muñeca también incluye 22 puntos de articulación —en el cuello, la parte superior de los brazos, los codos, las muñecas, el torso, las caderas, la parte superior de las piernas, las rodillas y los tobillos— para poder hacer todo tipo de movimientos sentada o no en la silla.
 - Lleva un top y unos pantalones cortos a juego con un estampado verde tropical, zapatillas naranjas y una riñonera con forma de limón.
 - La última línea de muñecas Barbie Fashionistas incluye muñecas con diferentes tipos de cuerpo, tonos de piel, colores de ojos, colores de pelo, peinados y un montón de conjuntos a la última.
-- Su larga melena rubia tiene un peinado con ondas para darle un look moderno.
 - La muñeca Barbie incluye una silla de ruedas con freno que funciona de verdad y una rampa compatible con la mansión Dreamhouse de Barbie (se venden por separado).
+- Su larga melena rubia tiene un peinado con ondas para darle un look moderno.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HFD54R2/?tag=tolees-21)

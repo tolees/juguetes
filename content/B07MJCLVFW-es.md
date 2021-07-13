@@ -28,10 +28,10 @@ Ahora mismo tienes [Imaginext - DC Super Friends Batman Fábrica de risas del Jo
 
 🔎:
 
-- Coloca la figura del joker en el ascensor y muévelo y gíralo
-- Crea malvadas aventuras con el joker y el conjunto de la fábrica de risas
 - Para niños de 3 a 8 años
-- Gira las plataformas de activación para girar a los cocodrilos del tanque de agua y dar vueltas en el cohete
+- Coloca la figura del joker en el ascensor y muévelo y gíralo
 - Gira las plataformas de activación para lanzar los misiles (incluye 3 proyectiles)
+- Gira las plataformas de activación para girar a los cocodrilos del tanque de agua y dar vueltas en el cohete
+- Crea malvadas aventuras con el joker y el conjunto de la fábrica de risas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MJCLVFW/?tag=tolees-21)
