@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: El laboratorio secreto  Ed al 15.13 % de rebaja'
-date: 2021-07-12 07:37:25
+date: 2021-07-13 15:20:39
 image: 'https://m.media-amazon.com/images/I/51peC+A-5tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B074CXQW4B/?tag=tolees-21'
 descuento: '15.13'
-average: '12.112'
+average: '12.1681818181818'
 ---
 
 Tienes [Devir - Exit: El laboratorio secreto  Ed. Español  BGEXIT3 ](https://www.amazon.es/dp/B074CXQW4B/?tag=tolees-21) con precio final de  12.73 EUR (original: 15.0 EUR) (15.13 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Devir - Exit: El laboratorio secreto  Ed. Español  BGEXIT3 ](https://ww
 
 🔎:
 
-- A partir de los 12 años
-- De 1 a 4 jugadores
 - Duración 45-90 minutos
+- A partir de los 12 años
 - Edición en español
+- De 1 a 4 jugadores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074CXQW4B/?tag=tolees-21)

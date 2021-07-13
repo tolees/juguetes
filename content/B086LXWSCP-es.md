@@ -28,10 +28,10 @@ Está [Juguetes Famosa - Harry Potter - Cápsulas Mágicas Serie 1  caja sorpres
 
 ℹ️:
 
-- Los posibles personajes son: Harry Potter, Severus Snape, Draco Malfoy, Ron Weasley, Hermione Granger, Luna Lovegood, Cedric Diggory, Ginny Weasley, Cho Chang
+- Hasta 10 figuras diferentes, con una figura de edición limitada de Harry Potter jugando al Quidditch en su escoba.
 - Descubre a qué casa de Hogwarts pertenece tu minifigura: Gryffindor, Hufflepuff, Ravenclaw o Slytherin.
 - Cada caja sorpresa incluye una figura aleatoria con hasta 7 accesorios con pistas para descubrir tu personaje antes de abrirlo.
-- Hasta 10 figuras diferentes, con una figura de edición limitada de Harry Potter jugando al Quidditch en su escoba.
+- Los posibles personajes son: Harry Potter, Severus Snape, Draco Malfoy, Ron Weasley, Hermione Granger, Luna Lovegood, Cedric Diggory, Ginny Weasley, Cho Chang
 - Vive la experiencia de unboxing de tus personajes favoritos de las famosas películas de Harry Potter. Abre los compartimentos y descubre de manera divertida qué mascota tiene o qué hechizo usa el personaje que te ha tocado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086LXWSCP/?tag=tolees-21)

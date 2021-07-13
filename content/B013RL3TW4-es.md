@@ -28,9 +28,9 @@ Tienes [Devir- Fauna Juego de Mesa  Multicolor  223071 ](https://www.amazon.es/d
 
 🔎:
 
+- Duración media a un juego: 45-60 minutos
 - Desarrolla la creatividad y la imaginación
 - Juego de 2 a 6 jugadores
-- Duración media a un juego: 45-60 minutos
 - Te harán preguntas sobre cualquier tipo de animal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B013RL3TW4/?tag=tolees-21)
