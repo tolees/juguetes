@@ -28,10 +28,10 @@ Está [LEGO Friends 41393 Concurso de Repostería Cocina de Juguete Set de Const
 
 ℹ️:
 
-- Los accesorios incluyen un batidor, chocolate, un cheque, un trofeo, un cartón de leche, un paquete de azúcar y glaseado, además de equipo de cocina
-- Estimula el juego creativo mientras tu peque ayuda a las mini muñecas LEGO Friends a elaborar sorprendentes cupcakes con el set de cocina de juguete Concurso de Repostería
-- Los niños harán girar la rueda sobre el escenario para elegir ingredientes locos que deben incluir los panaderos y ser creativos con las decoraciones
 - El set de construcción para niños de 6 años incluye a Stephanie, David y mini muñeca de jurado, para recrear los programas de TV de repostería que los niños ven con su familia
+- Los niños harán girar la rueda sobre el escenario para elegir ingredientes locos que deben incluir los panaderos y ser creativos con las decoraciones
+- Estimula el juego creativo mientras tu peque ayuda a las mini muñecas LEGO Friends a elaborar sorprendentes cupcakes con el set de cocina de juguete Concurso de Repostería
+- Los accesorios incluyen un batidor, chocolate, un cheque, un trofeo, un cartón de leche, un paquete de azúcar y glaseado, además de equipo de cocina
 - Incluye soportes giratorios para tartas, una cocina de juguete con horno como el de los adultos y un montón de accesorios para hornear: cupcakes, fruta y utensilios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W8Y1FRJ/?tag=tolees-21)

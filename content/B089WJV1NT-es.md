@@ -28,9 +28,9 @@ Está [Devir- Ubongo Junior  Multicolor  BGUBONJTR ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Desarrolla la creatividad y la imaginación
-- Es combinable con la versión normal
 - Esta versión incluye 2 modos de dificultad distintos
 - La versión infantil del juego clásico
+- Desarrolla la creatividad y la imaginación
+- Es combinable con la versión normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089WJV1NT/?tag=tolees-21)
