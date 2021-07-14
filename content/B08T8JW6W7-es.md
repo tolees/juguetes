@@ -29,9 +29,9 @@ Ahora mismo tienes [SKILEC Gafas de Sol Polarizadas Hombre Mujer - Gafas para Ci
 🔎:
 
 - ☑️GARANTÍA SKILEC - 60 DÍAS DE DEVOLUCIÓN y GARANTÍA DE 2 AÑOS. Si por cualquier razón no ha quedado satisfecho con su compra, envíenos un mensaje y le emitiremos un reembolso o un reemplazo - lo que desee. ¡No hay riesgo de probar!
-- ★MATERIALES DE ALTA CALIDAD - Las gafas de sol SKILEC están hechas con materiales de alta calidad que es lo suficientemente resistente para su uso continuado, podrás disfrutar de las gafas y usarlas de forma diaria durante todo el año.
-- ★DISEÑO ELEGANTE - La montura tiene un diseño elegante que crea un aspecto estéticamente agradable. El material de soporte de policarbonato resistente proporciona la máxima protección y comodidad.
 - ★LENTES POLARIZADAS - Las gafas de sol polarizadas SKILEC protegen al 100% contra los dañinos rayos de sol UVA y UVB. Además reducen el deslumbramiento y proporcionan una visión de alta calidad tanto de día como de noche.
 - ★ELECCIÓN PERFECTA - Las Gafas de sol SKILEC son la elección perfecta para actividades como ir de compras, hacer deporte, conducir, caminar, viajar, esquí, golf y mucho más. ¡También es un regalo ideal para un familiar o un amigo especial!
+- ★DISEÑO ELEGANTE - La montura tiene un diseño elegante que crea un aspecto estéticamente agradable. El material de soporte de policarbonato resistente proporciona la máxima protección y comodidad.
+- ★MATERIALES DE ALTA CALIDAD - Las gafas de sol SKILEC están hechas con materiales de alta calidad que es lo suficientemente resistente para su uso continuado, podrás disfrutar de las gafas y usarlas de forma diaria durante todo el año.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08T8JW6W7/?tag=tolees-21)
