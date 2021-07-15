@@ -28,10 +28,10 @@ Ahora mismo tienes [Mattel - Hot Wheels Monster Truck Duos FYJ64 de Demolición 
 
 🔎:
 
-- Cada conjunto de dos Monster Trucks de lacolección es perfecto para chocar uno contra uno!
-- Construido para aplastar y estrellar todo a la vista, aplastando cualquier automóvil en el camino
-- Equipado con estadísticas impresionantes en la espalda que brindan detalles de su fuerza, ataque de choque, motorización y más
 - Ruedas gigantes y detalles radios: ¡los niños querrán recogerlos todos!
 - Colección de rivales en un paquete de 2 de 1:64 Scale Hot Wheels Monster Trucks (cada uno se vende por separado)
+- Construido para aplastar y estrellar todo a la vista, aplastando cualquier automóvil en el camino
+- Equipado con estadísticas impresionantes en la espalda que brindan detalles de su fuerza, ataque de choque, motorización y más
+- Cada conjunto de dos Monster Trucks de lacolección es perfecto para chocar uno contra uno!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F6ZBW52/?tag=tolees-21)
