@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.22 % en Devir - La escalera encantada  BGESCA '
-date: 2021-07-13 10:24:20
+date: 2021-07-15 03:13:47
 image: 'https://m.media-amazon.com/images/I/51N20ppLfVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B00DW6K9K0/?tag=tolees-21'
 descuento: '16.22'
-average: '24.4011111111111'
+average: '24.223'
 ---
 
 Tienes [Devir - La escalera encantada  BGESCA ](https://www.amazon.es/dp/B00DW6K9K0/?tag=tolees-21) con un 16.22 % de descuento con precio de oferta de 22.62 EUR (original: 27.0 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [Devir - La escalera encantada  BGESCA ](https://www.amazon.es/dp/B00DW6K
 
 ℹ️:
 
-- Premio Kinderspiel des Jahres 2004 (Kritikerpreis)
-- Idiomas: español, catalán y portugués
 - Duración aproximada de la partida 10-15 min
+- Idiomas: español, catalán y portugués
 - A partir de 4 años
 - Duración 15 minutos
-- Un juego de dados y confusión
 - De 2 a 4 jugadores
+- Un juego de dados y confusión
+- Premio Kinderspiel des Jahres 2004 (Kritikerpreis)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DW6K9K0/?tag=tolees-21)
