@@ -28,10 +28,10 @@ En este momento está [Pawhut Escalera para Mascotas Escalera para Gatos Perros 
 
 🔎:
 
+- ✅MEDIDAS: 60x42x61 cm (LxANxAL). Soportan un peso máximo de 50 kg.
+- ✅ESTABLE Y ANTIDESLIZANTE: gracias a su diseño inteligente, las escaleras para mascotas se permanecen estables y son seguras para tus mascotas.
 - ✅ALTA CALIDAD: las escaleras de animales son robustos y resistentes. Y gracias a la suave cubierta de felpa, también es cómoda para tus animales.
 - ✅MULTIFUNCIONAL: el producto no solo se puede usar como una escalera para perros, también es ideal para gatos gracias a la suavidad de la superficie y sus postes rascadores.
-- ✅MEDIDAS: 60x42x61 cm (LxANxAL). Soportan un peso máximo de 50 kg.
 - ✅ESCALERA PARA MASCOTAS CON POSTES DE SISAL: el ayudante perfecto para que tus mascotas de más edad o raza pequeña puedan acceder fácilmente a lugares altos como el sofá, el alféizar de la ventana o la cama.
-- ✅ESTABLE Y ANTIDESLIZANTE: gracias a su diseño inteligente, las escaleras para mascotas se permanecen estables y son seguras para tus mascotas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BRC98TD/?tag=tolees-21)

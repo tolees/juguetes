@@ -28,9 +28,9 @@ Tienes [Hasbro Gaming Monopoly Juego de Viaje  versión española  B1002105 ](ht
 
 ℹ️:
 
+- Incluye las propiedades clásicas, las cartas de comunidad y cartas de suerte
 - Incluye un espacio para guardar las piezas
 - Edad recomendada: a partir de 8 años
 - Juego de viaje
-- Incluye las propiedades clásicas, las cartas de comunidad y cartas de suerte
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00STL70OG/?tag=tolees-21)

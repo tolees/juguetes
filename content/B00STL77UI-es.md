@@ -28,10 +28,10 @@ Ahora mismo tienes [Hasbro Gaming Gaming Travel Cluedo Viaje  Versión Española
 
 🔎:
 
+- Edad mínima recomendada: 8 años
+- Favorece la compresión de la relación causa-efecto
 - Seis sospechosos, innumerables combinaciones, pero una sola respuesta
 - Número de jugadores: De 3 a 6 Jugadores
-- Favorece la compresión de la relación causa-efecto
-- Edad mínima recomendada: 8 años
 - Idioma: Español
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00STL77UI/?tag=tolees-21)
