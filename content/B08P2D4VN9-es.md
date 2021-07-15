@@ -28,9 +28,9 @@ Tienes [Royal Enchantimals Muñeca pony con carruaje real  mascota y accesorios 
 
 🔎:
 
+- ¡Sube al carruaje real de royal enchantimals con peola pony y su mascota petite!
 - Hay espacio de sobra para nuestras amigas, que podrán sentarse en el puesto del conductor, dentro del carruaje o incluso en el techo
 - Este carruaje (20,5 cm) digno de la realeza cuenta con ruedas doradas que giran de verdad y ricos detalles
-- ¡Sube al carruaje real de royal enchantimals con peola pony y su mascota petite!
 - La muñeca peola pony luce una corona con una pluma, un vestido y zapatos
 - Incluye accesorios más pequeños, como una cesta y dulces, para dar rienda suelta a la imaginación
 
