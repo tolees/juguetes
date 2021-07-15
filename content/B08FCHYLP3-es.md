@@ -30,8 +30,8 @@ En este momento está [MOMO Design Venezia Bicicleta eléctrica con pedaleo asis
 
 - Cambio de 6 marchas, montado en Italia
 - Cuadro de acero, ruedas de 26 x 1,75 pulgadas, guardabarros de acero
-- Batería recargable de iones de litio de 280 Wh, extraíble con cierre de seguridad
 - Motor trasero de 250 W, frenos V-Brake, luces LED
 - 3 niveles de asistencia, función de walk a 6 km/h
+- Batería recargable de iones de litio de 280 Wh, extraíble con cierre de seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCHYLP3/?tag=tolees-21)
