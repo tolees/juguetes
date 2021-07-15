@@ -28,10 +28,10 @@ En este momento está [JOFLY Luces Bicicleta 100 Lumen 2 Pack  Luz Bicicleta Tra
 
 🔎:
 
-- 🚴 2 UNIDADES de piloto trasero para seguridad de ciclismo – luz bici compacta y potente de 35g de peso y 7cm de largo, impermeable IPX 4, que ofrece 100 lúmenes de alto brillo con 240° de visibilidad para bicicletas mtb, carretera, híbrida, plegable y de niños.
-- 🚴 2 Horas de carga = 4 a 10 horas de iluminación con batería litio de 600 mAh. Para una carga rápida, simplemente conecte la luz con cualquier dispositivo USB como powerbank, ordernador o enchufe de móvil.
-- 🚴 Instalación Fácil y Rápida con base de rotación 360° para ponerse horizontal o vertical. El PAQUETE incluye: 2 x foco bicicleta, 2 x correa de goma, 2 x gancho de montaje, 1 x cable de carga y 1 x manual de usuario.
 - 🚴 6 Modos de Iluminación: Roja-Fijo 100% Brillo-4h, Roja-Fijo 50% Brillo-6h, Roja-Flash-8h, Roja-Estrobo-8h, Azul-Fijo-4h and Roja/Azul Flash-10h. La luz azul es para uso de emergencia！
+- 🚴 Instalación Fácil y Rápida con base de rotación 360° para ponerse horizontal o vertical. El PAQUETE incluye: 2 x foco bicicleta, 2 x correa de goma, 2 x gancho de montaje, 1 x cable de carga y 1 x manual de usuario.
+- 🚴 2 Horas de carga = 4 a 10 horas de iluminación con batería litio de 600 mAh. Para una carga rápida, simplemente conecte la luz con cualquier dispositivo USB como powerbank, ordernador o enchufe de móvil.
 - 🚴 JOFLY ofrecemos servicio post-venta dentro de 24 horas / Aceptación de devolución de 30 días / Garantía de calidad de 1 año.
+- 🚴 2 UNIDADES de piloto trasero para seguridad de ciclismo – luz bici compacta y potente de 35g de peso y 7cm de largo, impermeable IPX 4, que ofrece 100 lúmenes de alto brillo con 240° de visibilidad para bicicletas mtb, carretera, híbrida, plegable y de niños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GNZPPWD/?tag=tolees-21)
