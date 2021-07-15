@@ -28,10 +28,10 @@ Tienes [Diset  Yo aprendo a dibujar  Juego educativo a partir de 3 años](https:
 
 🔎:
 
-- Habilidades que desarrolla: ayuda a desarrollar la capacidad de concentración, mejorar la coordinación ojo-mano y la motricidad fina
-- Dentro del pupitre-maletín se pueden guardar las láminas en el compartimento, transportarlo y dibujar sobre él.
 - Contenido: pupitre maletín luminoso, 20 láminas, 1 rotulador y 1 esponja para borrar. El producto necesita pilas, no vienen incluidas. El tipo de pilas que necesita son: 3 x LR14.
 - Sistema autocorrectivo: la base con luz del pupitre permite comprobar si el trazo es correcto
+- Dentro del pupitre-maletín se pueden guardar las láminas en el compartimento, transportarlo y dibujar sobre él.
 - Practican sus primeros trazos y dibujan sencillamente. 20 láminas de dificultad progresiva y borrables.
+- Habilidades que desarrolla: ayuda a desarrollar la capacidad de concentración, mejorar la coordinación ojo-mano y la motricidad fina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00T44UIIC/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Disney Princess Muñeca de Bella Royal Shimmer  muñeca con Falda y Acces
 
 ℹ️:
 
+- JUGUETE PARA NIÑOS A PARTIR DE 3 AÑOS. Este juguete de Disney es el regalo perfecto de cumpleaños o Navidad para los niños y niñas
 - FALDA DE MUÑECA Y ACCESORIOS. La muñeca de Bella Royal Shimmer incluye una falda, zapatos y tiara con matices de su característico color amarillo
 - COLECCIÓN DE MUÑECAS DE DISNEY. Colecciona las muñecas Royal Shimmer Ariel, Aurora, Cenicienta, Jasmín, Mérida, Vaiana, Mulán, Pocahontas, Rapunzel, Blancanieves y Tiana. Se venden por separado. Sujeto a disponibilidad
-- JUGUETE PARA NIÑOS A PARTIR DE 3 AÑOS. Este juguete de Disney es el regalo perfecto de cumpleaños o Navidad para los niños y niñas
 - CABELLO CASTAÑO LARGO. La muñeca de Disney Princess tiene largo cabello castaño, inspirado en su inolvidable estilo en la película La bella y la bestia de Disney
 - FALDA Y CORSÉ CON BRILLOS. El corsé de la muñeca de Disney brilla con un corsé con facetas inspiradas en gemas que destellan espléndidamente junto con su falda brillante.
 
