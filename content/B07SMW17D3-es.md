@@ -28,10 +28,10 @@ En este momento está [Nancy - Chic Viaja A París  con una Maleta Rosa para Gua
 
 🔎:
 
-- Muñeca Nancy de 42 centímetros de pelo rubio con una preciosa falda de tul rosa, una camiseta parisina y un lazo dorado
 - Incluye múltiples accesorios para viajar a París: unas gafas de sol, unos zapatos amarillos y una maleta con más accesorios
-- Es el regalo ideal para niñas y niños a partir de 3 años a los que les encantan las muñecas y las tendencias
-- Con una maleta cool de ruedas y con pegatinas llena de accesorios para ir de viaje como cepillo de dientes, secador, accesorios de belleza y de pelo
 - Trae un billete de avión, mapa de la ciudad y pasaporte para poder crear infinidad de historias y aventuras
+- Muñeca Nancy de 42 centímetros de pelo rubio con una preciosa falda de tul rosa, una camiseta parisina y un lazo dorado
+- Con una maleta cool de ruedas y con pegatinas llena de accesorios para ir de viaje como cepillo de dientes, secador, accesorios de belleza y de pelo
+- Es el regalo ideal para niñas y niños a partir de 3 años a los que les encantan las muñecas y las tendencias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SMW17D3/?tag=tolees-21)
