@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: La isla olvidada  Ed. Espa al 15.40 % de descuento'
-date: 2021-07-12 07:37:13
+date: 2021-07-15 10:40:42
 image: 'https://m.media-amazon.com/images/I/51A0jM6rN+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07CNQRVHN/?tag=tolees-21'
 descuento: '15.40'
-average: '13.47'
+average: '13.21'
 ---
 
 Ahora mismo tienes [Devir - Exit: La isla olvidada  Ed. Español  BGEXIT5    color/modelo surtido](https://www.amazon.es/dp/B07CNQRVHN/?tag=tolees-21) a 12.69 EUR (original: 15.0 EUR) (15.40 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Devir - Exit: La isla olvidada  Ed. Español  BGEXIT5    col
 🔎:
 
 - Dificultad: avanzado
+- Entre 45 y 90 minutos de partida
 - De 1 a 4 jugadores
 - Edad: a partir de 12 años
-- Entre 45 y 90 minutos de partida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CNQRVHN/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Hasbro - Get a Grip  C3380175 ](https://www.amazon.es/dp/B071VSHJJD/?tag=
 
 ℹ️:
 
-- Edad recomendada: a partir de 8 años
 - Get A Grip de Hasbro
+- Edad recomendada: a partir de 8 años
 - Aumenta la imaginación y la creatividad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071VSHJJD/?tag=tolees-21)
