@@ -28,15 +28,15 @@ En este momento está [LEGO 75953 Harry Potter Sauce Boxeador de Hogwarts
 
 🔎:
 
-- Combina este set con el Gran Comedor de Hogwarts (75954) e inventa aventuras LEGO Harry Potter aún más emocionantes.
-- Vigila los baluartes con Argus Filch y su farol.
-- La sección del castillo de Hogwarts, de 3 plantas, cuenta con una puerta, un camino parapetado, 3 torretas, un dormitorio con 2 camas, el aula de pociones con una mesa de trabajo y el despacho de Severus Snape.
 - El Ford Anglia volador cuenta con 2 puertas que se abren y un maletero que se abre con maletas.
-- Gira las ramas del árbol para capturar el coche, arrójalo al suelo para liberar a Ron y Harry, y atraviesa con ellos la puerta del castillo.
-- Accesorios incluidos: pociones, calderos, 2 maletas, 5 varitas, velas, un farol, un ejemplar de El Profeta con una página de hechizos mágicos, una escoba, mesas, una silla, herramientas y 2 tinteros con un cálamo.
-- El Sauce Boxeador cuenta con ramas giratorias y la entrada al túnel de la Casa de los Gritos.
-- Mezcla pociones con el Profesor Snape en el aula.
-- Contiene modelos para construir del Sauce Boxeador, el Ford Anglia volador y una sección del castillo de Hogwarts.
+- La sección del castillo de Hogwarts, de 3 plantas, cuenta con una puerta, un camino parapetado, 3 torretas, un dormitorio con 2 camas, el aula de pociones con una mesa de trabajo y el despacho de Severus Snape.
 - Incluye 6 minifiguras: Harry Potter, Ron Weasley, Hermione Granger, Seamus Finnigan, Argus Filch y Severus Snape, así como una figura de la lechuza Hedwig.
+- Vigila los baluartes con Argus Filch y su farol.
+- Accesorios incluidos: pociones, calderos, 2 maletas, 5 varitas, velas, un farol, un ejemplar de El Profeta con una página de hechizos mágicos, una escoba, mesas, una silla, herramientas y 2 tinteros con un cálamo.
+- Gira las ramas del árbol para capturar el coche, arrójalo al suelo para liberar a Ron y Harry, y atraviesa con ellos la puerta del castillo.
+- Mezcla pociones con el Profesor Snape en el aula.
+- El Sauce Boxeador cuenta con ramas giratorias y la entrada al túnel de la Casa de los Gritos.
+- Combina este set con el Gran Comedor de Hogwarts (75954) e inventa aventuras LEGO Harry Potter aún más emocionantes.
+- Contiene modelos para construir del Sauce Boxeador, el Ford Anglia volador y una sección del castillo de Hogwarts.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0792QK8GL/?tag=tolees-21)

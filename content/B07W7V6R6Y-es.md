@@ -28,15 +28,15 @@ Está [LEGO 42103 Technic Dragster Convertible 2 en 1  Coche de Juguete para Con
 
 ℹ️:
 
-- Los sets LEGO Technic reproducen movimientos y mecanismos de gran realismo que permiten a los jóvenes constructores LEGO adentrarse en el universo de la ingeniería de un modo accesible y práctico.
-- Este set LEGO Technic (42103) es una fantástica idea de regalo para fans de LEGO, amantes de los coches de carreras de juguete y apasionados de los desafíos de construcción.
-- Una vez construido, el Dragster LEGO mide aproximadamente 32 cm de longitud, 12 cm de altura y 10 cm de anchura, el tamaño perfecto para que este juguete de construcción encabece la parrilla de salida el día de la carrera.
-- Tira hacia atrás y suelta. ¡Es así de sencillo! Incluso los jóvenes pilotos podrán recrear las sensaciones y la velocidad del día de la carrera. ¿Qué tal un nuevo desafío
 - Es muy rápido, pero, sorprendentemente, el set no necesita pilas. Solo hay que accionar el motor de carga manual para que el modelo coja gran velocidad, así que el juego puede empezar de inmediato.
-- Mientras lo construyen, los niños aprenderán cómo funcionan los dragsters. Luego podrán retraer la barra posterior para hacer caballitos que dejarán a todos con el corazón en vilo o mantener las cuatro ruedas pegadas al suelo.
-- Todos los sets LEGO incluyen instrucciones impresas. Y este set ofrece también la experiencia digital Instructions PLUS, disponible en la app gratuita LEGO Life para smartphones y tabletas.
-- ¿Buscas juguetes divertidos para niños a partir de 7 años
-- Con el Dragster “2 en 1” convertible en un deslumbrante deportivo clásico, todos los días son días de competición. Tu peque podrá accionar fácilmente este coche de juguete con motor de carga manual: ¡mirad la velocidad que coge!
+- Una vez construido, el Dragster LEGO mide aproximadamente 32 cm de longitud, 12 cm de altura y 10 cm de anchura, el tamaño perfecto para que este juguete de construcción encabece la parrilla de salida el día de la carrera.
+- Los sets LEGO Technic reproducen movimientos y mecanismos de gran realismo que permiten a los jóvenes constructores LEGO adentrarse en el universo de la ingeniería de un modo accesible y práctico.
 - Los peques pueden convertir el Dragster en un deportivo clásico LEGO.
+- ¿Buscas juguetes divertidos para niños a partir de 7 años
+- Todos los sets LEGO incluyen instrucciones impresas. Y este set ofrece también la experiencia digital Instructions PLUS, disponible en la app gratuita LEGO Life para smartphones y tabletas.
+- Mientras lo construyen, los niños aprenderán cómo funcionan los dragsters. Luego podrán retraer la barra posterior para hacer caballitos que dejarán a todos con el corazón en vilo o mantener las cuatro ruedas pegadas al suelo.
+- Tira hacia atrás y suelta. ¡Es así de sencillo! Incluso los jóvenes pilotos podrán recrear las sensaciones y la velocidad del día de la carrera. ¿Qué tal un nuevo desafío
+- Este set LEGO Technic (42103) es una fantástica idea de regalo para fans de LEGO, amantes de los coches de carreras de juguete y apasionados de los desafíos de construcción.
+- Con el Dragster “2 en 1” convertible en un deslumbrante deportivo clásico, todos los días son días de competición. Tu peque podrá accionar fácilmente este coche de juguete con motor de carga manual: ¡mirad la velocidad que coge!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W7V6R6Y/?tag=tolees-21)
