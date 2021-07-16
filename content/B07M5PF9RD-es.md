@@ -28,10 +28,10 @@ Tienes [Fisher-Price Price Imaginext Disney Toy Story 4 Robot Buzz Lightyear  Ju
 
 🔎:
 
+- Incluye una figura de Buzz Lightyear, una figura de un alienígena espacial, una nave espacial extraíble y 3 proyectiles
+- Los niños entre 3 y 8 años podrán recrear la acción de la película Toy Story de DisneyPixar con este robot que es una nave espacial, una plataforma de lanzamiento y un conjunto de juego
 - Coloca la figura de Buzz en la cabina de mando y gira la plataforma de activación para abrir las alas: lanzamiento manual antes del despegue
 - El brazo derecho es un lanzador de proyectiles con compartimentos para cargar y disparar la munición
-- Los niños entre 3 y 8 años podrán recrear la acción de la película Toy Story de DisneyPixar con este robot que es una nave espacial, una plataforma de lanzamiento y un conjunto de juego
-- Incluye una figura de Buzz Lightyear, una figura de un alienígena espacial, una nave espacial extraíble y 3 proyectiles
 - El brazo izquierdo es una garra para atrapar a los villanos y arrojarlos a la celda, en su pie izquierdo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M5PF9RD/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dra al 16.56 % de descuento'
-date: 2021-07-05 14:03:46
+date: 2021-07-16 18:43:23
 image: 'https://m.media-amazon.com/images/I/61kFK2EsNSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07DPTZ2ZF/?tag=tolees-21'
 descuento: '16.56'
-average: '28.1879166666667'
+average: '28.1226530612245'
 ---
 
 Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Dragon Ball FighterZ](https://www.amazon.es/dp/B07DPTZ2ZF/?tag=tolees-21) a 24.99 EUR (original: 29.95 EUR) (16.56 %  de descuento) en el siguiente enlace!
