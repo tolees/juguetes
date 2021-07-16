@@ -28,10 +28,10 @@ Tienes [Clementoni Play for Future- 6 Cubos Serigrafiados Pequeños Objetos  Mul
 
 🔎:
 
-- Estimula las habilidades manuales y la percepción visual
-- 6 láminas sencillas, ilustradas con colores vivos, para captar la atención de los más pequeños
-- Un juego de cubos, fabricado de forma sostenible, para ayudar a aprender a los niños distintos conceptos, de una forma divertida
-- 6 cubos para combinar, apilar y derribar
 - 6 cubos, para componer 6 imágenes diferentes de pequeños objetos diarios
+- Un juego de cubos, fabricado de forma sostenible, para ayudar a aprender a los niños distintos conceptos, de una forma divertida
+- Estimula las habilidades manuales y la percepción visual
+- 6 cubos para combinar, apilar y derribar
+- 6 láminas sencillas, ilustradas con colores vivos, para captar la atención de los más pequeños
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WSX4RBH/?tag=tolees-21)
