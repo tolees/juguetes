@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO STAR WARS - Lego 75219 Star Wars TM al 17.43 % de descuento'
-date: 2021-07-15 02:30:27
+title: 'LEGO STAR WARS - Lego 75219 Star Wars TM al 25.30 % de descuento'
+date: 2021-07-16 02:50:36
 image: 'https://m.media-amazon.com/images/I/51qnRkoh0kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B0792QCD6Z-es LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-...'
 sku: 'B0792QCD6Z-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego','lego star wars', ]
-actualPrice: 94.95 EUR
+actualPrice: 85.9 EUR
 currency: EUR
-price: 94.95
+price: 85.9
 comparePrice: 114.99 EUR
 prodname: 'LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuado por Fabricante '
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21'
-descuento: '17.43'
-average: '86.2946250000001'
+descuento: '25.30'
+average: '86.2933956386294'
 ---
 
-Está [LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuado por Fabricante ](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) con 17.43 de descuento por 94.95 EUR (original: 114.99 EUR) en el siguiente enlace!
+Está [LEGO STAR WARS - Lego 75219 Star Wars TM Imperial AT-Hauler  Descontinuado por Fabricante ](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21) con 25.30 de descuento por 85.9 EUR (original: 114.99 EUR) en el siguiente enlace!
 
 [![LEGO STAR WARS - Lego 75219 Star Wars TM](https://m.media-amazon.com/images/I/51qnRkoh0kL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
 
 ℹ️:
 
-- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
+- Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
 - Número de piezas: 829
+- Cuenta con brazos giratorios con ganchos de elevación móviles, cabina abatible para una minifigura, cañones laterales y una cubierta inferior para transportar minifiguras
 - Imperial AT-Hauler
 - Edad recomendada por el fabricante: 9-14
-- Incluye un contenedor de mercancía para construir que se abre, equipado con una viga de izado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0792QCD6Z/?tag=tolees-21)
