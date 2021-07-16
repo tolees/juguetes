@@ -28,10 +28,10 @@ En este momento está [SuperThings - Power Machine - Display 50 One Pack  Cada s
 
 🔎:
 
-- Cada sobre contiene 1 superthing y un 1 checklist
 - Hay más de 80 nuevos superthings para coleccionar. encuentra las figuras plateadas, doradas y el ultra-raro dr. volt, ¡que brilla en la oscuridad
+- Cada sobre contiene 1 superthing y un 1 checklist
 - Ahora más que nunca, ¡el poder de los superthings ésta en sus manos
-- Los superthings son objetos cotidianos transformados en superhéroes y supervillanos. cada superthing tiene su rival: busca las parejas rivales ¡y forma tus superequipos
 - En la serie de los superthings, ¡las power machines han tomado el mando
+- Los superthings son objetos cotidianos transformados en superhéroes y supervillanos. cada superthing tiene su rival: busca las parejas rivales ¡y forma tus superequipos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NCWDQBH/?tag=tolees-21)
