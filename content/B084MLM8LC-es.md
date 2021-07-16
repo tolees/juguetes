@@ -28,10 +28,10 @@ En este momento está [Educa - La Mejor Librería del Mundo Puzzle  5000 Piezas 
 
 🔎:
 
-- Recomendado a partir de 12 años
-- Educa ofrece el servicio de pieza perdida, siempre que haya existencias; más información en la página de puzzle passion
-- Dimensiones aproximadas de puzzle montado: 40 x 28 cm
-- Compuestos por piezas perfectamente acabadas
 - Puzzle de 5000 piezas de la mejor librería del mundo.increíble imagen de la mejor librería del mundo
+- Recomendado a partir de 12 años
+- Dimensiones aproximadas de puzzle montado: 40 x 28 cm
+- Educa ofrece el servicio de pieza perdida, siempre que haya existencias; más información en la página de puzzle passion
+- Compuestos por piezas perfectamente acabadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084MLM8LC/?tag=tolees-21)
