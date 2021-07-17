@@ -28,10 +28,10 @@ En este momento está [KidKraft 53179 Cocina de juguete con diseño Vintage de m
 
 🔎:
 
-- MUY REAL - La cocina es del tamaño de los niños, y tiene horno, microondas, nevera, y teléfono para que aprendan a cocinar y lavar los trastos! Las puertas se abren y cierran y son transparentes para ver por dentro como las cocinas reales
 - CONTRUIDA PARA DURAR - Fue ideada teniendo en mente al niño; Nuestra estructura de madera resistente está pensada para largas horas de juego
-- FACIL DE LIMPIAR - Esta cocina tiene un fregadero removible el cual se puede lavar, y mantener la cocina limpia y ordenada; Esta cocina es una oportunidad perfecta para que su niño aprenda a ser responsable con la limpieza
 - DIVERSION SIN FIN - Esta cocina incluye placas pintadas y diales que giran, simulando un horno y un fregadero real; Esto ayuda al desarrollo de las habilidades motoras finas de los niños; Tienen asegurada la diversión durante horas
 - DURABLE Y SEGURA - La cocina está hecha para ser duradera y mantener la alegría de preparar comida casera por nuestros pequeños chefs; Construcción resistente, accesorios de plástico seguros, pintura y esmaltados no tóxicos
+- MUY REAL - La cocina es del tamaño de los niños, y tiene horno, microondas, nevera, y teléfono para que aprendan a cocinar y lavar los trastos! Las puertas se abren y cierran y son transparentes para ver por dentro como las cocinas reales
+- FACIL DE LIMPIAR - Esta cocina tiene un fregadero removible el cual se puede lavar, y mantener la cocina limpia y ordenada; Esta cocina es una oportunidad perfecta para que su niño aprenda a ser responsable con la limpieza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0038ANS8U/?tag=tolees-21)
