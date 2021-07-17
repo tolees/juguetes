@@ -28,10 +28,10 @@ Ahora mismo tienes [Exploding Kittens- Juego de cartas  EKEK0001 ](https://www.a
 
 🔎:
 
-- Cuando esto sucede, esa persona muere y queda eliminada de la partida
-- Es adecuado a partir de 7 años
 - Se recomienda para 2-5 jugadores
 - Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten
 - Representa una versión gatuna de la ruleta rusa con un componente estratégico
+- Es adecuado a partir de 7 años
+- Cuando esto sucede, esa persona muere y queda eliminada de la partida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MKKKFB/?tag=tolees-21)
