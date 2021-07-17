@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43111 VIDIYO Candy Castle Stage  Cr al 29.99 % de rebaja'
-date: 2021-07-16 20:37:56
+date: 2021-07-17 20:47:32
 image: 'https://m.media-amazon.com/images/I/51Pyeq4ht+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWR754G/?tag=tolees-21'
 descuento: '29.99'
-average: '26.17'
+average: '24.875'
 ---
 
 Tienes [LEGO 43111 VIDIYO Candy Castle Stage  Creador de Vídeos Musicales de Juguete  App Realidad Aumentada  Set con Mini Figuras](https://www.amazon.es/dp/B08WWR754G/?tag=tolees-21) con precio final de  20.99 EUR (original: 29.98 EUR) (29.99 %  de rebaja) aqui!
@@ -28,12 +28,12 @@ Tienes [LEGO 43111 VIDIYO Candy Castle Stage  Creador de Vídeos Musicales de Ju
 
 🔎:
 
-- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
 - Escanea los BeatBits en la aplicación para desbloquear efectos especiales, como el que hace que los caballos de carrusel aparezcan en los videos musicales para niños
 - A los niños les encantará hacer cambios en sus videos, como cambiar la escena para crear un bosque de helados digital o un fondo con un cañón de chocolate
 - Incluye 2 mini figuras con accesorios, 14 BeatBits aleatorios y 2 BeatBits especiales que dan vida al modelo y las mini figuras en la aplicación
+- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
+- Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
 - Inspira a los niños con este creador de videos musicales LEGO VIDIYO Candy Castle Stage que les permite protagonizar sus propios programas en una app de realidad aumentada
 - Escanea los BeatBits en la aplicación para desbloquear efectos especiales como el efecto de sonido de la ópera rock y emocionantes imágenes de fuego, como en un concierto real
-- Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WWR754G/?tag=tolees-21)
