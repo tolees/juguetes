@@ -28,15 +28,15 @@ Ahora mismo tienes [FEBER - Tobogán con Agua para Niños a Partir de 2 Años  F
 
 🔎:
 
-- Concebidos para fomentar sus habilidades y valores sociales
-- PRO Maneras diferentes e innovadoras de ir sobre ruedas, pensadas para los que ya no son tan pequeños, que les proporcionan una diversión intensa y les animan a seguir explorando sus emociones
 - Pensados para activar su creatividad y desarrollo psicomotriz
-- Estimulan valores como la convivencia, la tolerancia y la relación constructiva con los que les rodean
-- Creados para enseñarles a ser más autónomos y desarrollar su psicomotricidad fina
 - MOVE Creemos en la importancia del ‘descubrir’ desde sus primeros pasos
-- PRO Maneras diferentes e innovadoras de ir sobre ruedas, pensadas para los que ya no son tan pequeños, que les proporcionan una diversión intensa y les animan a seguir explorando sus emociones
 - DRIVE Soluciones divertidas con variedad de detalles pensados para que exploren en el exterior y se mantengan activos
-- Por eso, ponemos a su disposición vehículos con y sin pedales que les acompañarán en sus primeras exploraciones y fomentarán su curiosidad por conocer el mundo que les rodea
+- Estimulan valores como la convivencia, la tolerancia y la relación constructiva con los que les rodean
+- PRO Maneras diferentes e innovadoras de ir sobre ruedas, pensadas para los que ya no son tan pequeños, que les proporcionan una diversión intensa y les animan a seguir explorando sus emociones
+- PRO Maneras diferentes e innovadoras de ir sobre ruedas, pensadas para los que ya no son tan pequeños, que les proporcionan una diversión intensa y les animan a seguir explorando sus emociones
 - LIFE Espacios para compartir que les ayudan a descubrirse y descubrir a los demás
+- Concebidos para fomentar sus habilidades y valores sociales
+- Creados para enseñarles a ser más autónomos y desarrollar su psicomotricidad fina
+- Por eso, ponemos a su disposición vehículos con y sin pedales que les acompañarán en sus primeras exploraciones y fomentarán su curiosidad por conocer el mundo que les rodea
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00HCG7ARG/?tag=tolees-21)
