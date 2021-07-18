@@ -28,15 +28,15 @@ En este momento está [LEGO 10698 Classic Caja de Ladrillos Creativos Gra
 
 🔎:
 
+- Contiene 8 tipos diferentes de ventanas y puertas con 8 marcos diferentes.
+- Viene en una útil caja de almacenamiento de plástico.
+- Las numerosas ventanas y puertas facilitan la construcción con LEGO Classic.
+- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
+- Las bases verdes miden más de 16 cm de longitud y 16 cm de ancho, y 12 cm de longitud y 6 cm de ancho, respectivamente.
+- Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
 - Las piezas especiales fomentan el juego de construcción imaginativo.
+- Incluye un amplio surtido de ladrillos LEGO en 33 colores diferentes.
 - Ideas incluidas con el set y disponibles en LEGO.com/classic para ayudarte a dar tus primeros pasos.
 - Piezas especiales incluidas: 2 bases verdes de tamaños diferentes, 3 juegos de ojos, 6 neumáticos y 6 llantas.
-- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
-- Las numerosas ventanas y puertas facilitan la construcción con LEGO Classic.
-- Viene en una útil caja de almacenamiento de plástico.
-- Incluye un amplio surtido de ladrillos LEGO en 33 colores diferentes.
-- Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
-- Contiene 8 tipos diferentes de ventanas y puertas con 8 marcos diferentes.
-- Las bases verdes miden más de 16 cm de longitud y 16 cm de ancho, y 12 cm de longitud y 6 cm de ancho, respectivamente.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PY3EYQO/?tag=tolees-21)
