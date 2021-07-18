@@ -28,15 +28,15 @@ Tienes [Moma Bikes City Classic 26"- Bicicleta Paseo  Aluminio   Cambio Shimano 
 
 ℹ️:
 
+- Manetas de freno de aluminio
+- Portabultos trasero integrado en el cuadro
+- Piñón original Shimano
+- Cambio Shimano TZ-50 18 velocidades
+- Cuadro de aluminio bajo : más fácil y práctico para subirse
+- Llantas de aluminio, ruedas 26"
 - Bicicleta Urbana comoda gracias a la posición de la espalda recta.
 - Accionamientos Shimano Revoshift RS35
-- Frenos V-Brake de aluminio
-- Manetas de freno de aluminio
-- Piñón original Shimano
-- Portabultos trasero integrado en el cuadro
 - Cesta delantera & Luz delantera y trasera
-- Llantas de aluminio, ruedas 26"
-- Cuadro de aluminio bajo : más fácil y práctico para subirse
-- Cambio Shimano TZ-50 18 velocidades
+- Frenos V-Brake de aluminio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VXE3J50/?tag=tolees-21)
