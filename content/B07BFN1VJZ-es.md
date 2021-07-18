@@ -28,10 +28,10 @@ Está [Nenuco - Merienditas  prepara batidos con la batidora eléctrica  da de c
 
 ℹ️:
 
-- Tiene hasta 11 accesorios diferentes. Cuencos, cucharas, rollo de papel y una batidora eléctrica
 - Un Nenuco incluido que mide unos 42 centímetros y es de cuerpo duro
-- Juguete indicado para niños a partir de 3 años
 - Ideal para el desarrollo de la creatividad e imaginación y para el aprendizaje de imitación de roles
+- Tiene hasta 11 accesorios diferentes. Cuencos, cucharas, rollo de papel y una batidora eléctrica
+- Juguete indicado para niños a partir de 3 años
 - Las pilas de la batidora vienen incluidas en el set
 - Muñeco con posibilidad de cambiar la ropa
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dra al 29.17 % de descuento'
-date: 2021-06-24 17:04:48
+date: 2021-07-18 13:13:56
 image: 'https://m.media-amazon.com/images/I/51GyT4aBO8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07XTMNMFC/?tag=tolees-21'
 descuento: '29.17'
-average: '186.078235294118'
+average: '185.618571428572'
 ---
 
 Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot - Edición Coleccionista](https://www.amazon.es/dp/B07XTMNMFC/?tag=tolees-21) a 169.99 EUR (original: 239.99 EUR) (29.17 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot 
 
 🔎:
 
-- Diorama exclusivo (20x20x20)
-- Steelbook
 - Season Pass
-- Mapa del Hub
+- Diorama exclusivo (20x20x20)
 - Libro de Arte
+- Mapa del Hub
+- Steelbook
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XTMNMFC/?tag=tolees-21)
