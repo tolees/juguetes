@@ -28,9 +28,9 @@ En este momento está [Banpresto Figura Goku Black Chosenshi Retsuden Dragon Bal
 
 🔎:
 
-- Incluye una base de soporte para exposición
-- Inspirada en la figura de Goku Black popular manga Dragon Ball Z
 - Producto con licencia oficial
+- Inspirada en la figura de Goku Black popular manga Dragon Ball Z
 - Fabricada en PVC, mide unos 17 cm
+- Incluye una base de soporte para exposición
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0846FCLC3/?tag=tolees-21)

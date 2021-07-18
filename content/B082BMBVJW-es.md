@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir- Exit 11  La mansión siniestra  BGEXIT11 ](https://ww
 
 🔎:
 
-- Tipo de producto: juego de mesa
+- Juego adecuado para pasar el tiempo libre
 - Edad recomendada: 10 años y más
 - Número de jugadores: 1 - 4
+- Tipo de producto: juego de mesa
 - Duración aproximada de la partida: 45 - 90 minutos
-- Juego adecuado para pasar el tiempo libre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21)
