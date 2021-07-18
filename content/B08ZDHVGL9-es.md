@@ -28,10 +28,10 @@ Tienes [Fantasy Flight Games - X-Men: Insurrección Mutante - Juego de Cartas en
 
 🔎:
 
-- Llamando a todos los mutantes: ¡el profesor Xavier necesita vuestra ayuda!
 - ¡Forma parte de la Patrulla-X en sus esfuerzos para proteger a la humanidad!
-- A partir de 14 años de edad
-- De 1 a 6 Jugadores
 - ¡Elige entre 8 planes distintos y despega en el Pájaro Negro rumbo a misiones por todo el mundo en las que deberás abrirte camino combatiendo hasta llegar al enfrentamiento final!
+- De 1 a 6 Jugadores
+- A partir de 14 años de edad
+- Llamando a todos los mutantes: ¡el profesor Xavier necesita vuestra ayuda!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZDHVGL9/?tag=tolees-21)
