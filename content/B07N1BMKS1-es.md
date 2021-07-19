@@ -28,9 +28,9 @@ Está [Avengers Martillo - De Combate Thor  Hasbro  B0445EUC ](https://www.amazo
 
 ℹ️:
 
-- Decorado en la parte superior con runas Asgard y detalles texturizados en el mango
 - Réplica de martillo de Thor inspirada en los Comics de Marvel
-- Tiene una cabeza de martillo de espuma suave y un mango de plástico duro
 - Diseño Asgard - después del modelo Mjölnir
+- Decorado en la parte superior con runas Asgard y detalles texturizados en el mango
+- Tiene una cabeza de martillo de espuma suave y un mango de plástico duro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1BMKS1/?tag=tolees-21)
