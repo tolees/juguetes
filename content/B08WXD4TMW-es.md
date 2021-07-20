@@ -28,12 +28,12 @@ Tienes [LEGO 43114 VIDIYO Punk Pirate Ship  Creador de Vídeos Musicales de Jugu
 
 🔎:
 
-- Incluye 3 mini figuras con accesorios musicales, 14 BeatBits aleatorios y 3 BeatBits especiales para escanear y desbloquear efectos de video en la aplicación LEGO
-- Los niños pueden cambiar el escenario en los videos, como cambiar la decoración de esqueleto por una cabeza de tiburón o cambiar los altavoces del cofre del tesoro por cañones
-- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
 - Escanea los BeatBits en la aplicación para desbloquear efectos especiales como el efecto de sonido de la ópera rock y emocionantes imágenes de fuego, como en un concierto real
-- El creador de videos musicales LEGO VIDIYO Punk Pirate Ship crea un escenario digital de un barco pirata para actuar gracias a la app de realidad aumentada
+- Incluye 3 mini figuras con accesorios musicales, 14 BeatBits aleatorios y 3 BeatBits especiales para escanear y desbloquear efectos de video en la aplicación LEGO
 - Efectos especiales aptos para un concierto de punk rock como el que deja a los personajes surfear sobre un tiburón o el que hace bailar a los piratas
+- Los niños pueden cambiar el escenario en los videos, como cambiar la decoración de esqueleto por una cabeza de tiburón o cambiar los altavoces del cofre del tesoro por cañones
+- El creador de videos musicales LEGO VIDIYO Punk Pirate Ship crea un escenario digital de un barco pirata para actuar gracias a la app de realidad aumentada
 - Verifica la compatibilidad de su dispositivo descargando la app gratuita y grabando su primer video musical con el Bandmate digital gratuito
+- Busca LEGO VIDIYO en App Store o Google Play para descargar y verificar la aplicación antes de comprar el juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WXD4TMW/?tag=tolees-21)
