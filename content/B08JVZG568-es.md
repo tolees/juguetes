@@ -28,8 +28,8 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Mxgp 2020](https://w
 
 🔎:
 
-- Modo Playground y Waypoint
 - Competiciones Online
+- Modo Playground y Waypoint
 - Diseña tu pista
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JVZG568/?tag=tolees-21)
