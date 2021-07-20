@@ -28,11 +28,11 @@ Está [VTech Armando Patinando  Mono Interactivo Que incita al niño a Que le SI
 
 ℹ️:
 
+- 2 modos de juego: modo atrápame y modo baile
 - Descubre y aprende números, partes del cuerpo, letras y motricidad gruesa
 - 3 formas de jugar para crecer con armando: gatea con armando, baila con armando y corre con armando
-- Gorra giratoria que ayuda a mejorar aspectos de la motricidad
 - 6 teclas luminosos en su cuerpo para descubrir los primeros números, colores, melodías, letras y partes del cuerpo
+- Gorra giratoria que ayuda a mejorar aspectos de la motricidad
 - Más de 70 canciones, melodías y frases
-- 2 modos de juego: modo atrápame y modo baile
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072LX8BP6/?tag=tolees-21)
