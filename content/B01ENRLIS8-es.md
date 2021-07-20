@@ -29,9 +29,9 @@ En este momento está [Fitfiu Fitness BESP-22 - Bicicleta indoor ergonómica con
 🔎:
 
 - Equipada con un disco de inercia de 24 kg
+- Cuenta con un sistema de transmisión de correa Silent+ para hacer compatible hogar y deporte
 - Dispone de diferentes niveles de resistencia para ajustar el nivel de dificultad del ejercicio
 - Pulsómetro en el manillar para recibir información sobre la frecuencia cardíaca
 - Sillín y manillar acolchados y ajustables
-- Cuenta con un sistema de transmisión de correa Silent+ para hacer compatible hogar y deporte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01ENRLIS8/?tag=tolees-21)
