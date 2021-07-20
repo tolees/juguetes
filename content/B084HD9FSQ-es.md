@@ -28,10 +28,10 @@ Tienes [Educa - Acrópolis de Atenas Puzzle  1000 Piezas  Multicolor  18489 ](ht
 
 🔎:
 
-- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Edad recomendada: a partir de 12 años
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Serie Genuine
+- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084HD9FSQ/?tag=tolees-21)
