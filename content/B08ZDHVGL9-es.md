@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games - X-Men: Insurrecci al 17.64 % de rebaja'
-date: 2021-07-18 15:51:13
+date: 2021-07-20 07:34:27
 image: 'https://m.media-amazon.com/images/I/51R1dHhivWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Fantasy Flight Games - X-Men: Insurrección Mutante - Juego de Cartas en
 
 🔎:
 
-- ¡Forma parte de la Patrulla-X en sus esfuerzos para proteger a la humanidad!
-- ¡Elige entre 8 planes distintos y despega en el Pájaro Negro rumbo a misiones por todo el mundo en las que deberás abrirte camino combatiendo hasta llegar al enfrentamiento final!
 - De 1 a 6 Jugadores
+- ¡Elige entre 8 planes distintos y despega en el Pájaro Negro rumbo a misiones por todo el mundo en las que deberás abrirte camino combatiendo hasta llegar al enfrentamiento final!
+- ¡Forma parte de la Patrulla-X en sus esfuerzos para proteger a la humanidad!
 - A partir de 14 años de edad
 - Llamando a todos los mutantes: ¡el profesor Xavier necesita vuestra ayuda!
 
