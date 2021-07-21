@@ -28,10 +28,10 @@ Está [HORI - Horipad rojo  Nintendo Switch ](https://www.amazon.es/dp/B01AJUFF6
 
 ℹ️:
 
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Sin lag: conexión con cable de 3 m
 - Licencia oficial de Nintendo
-- Diseño ergonómico y cuerpo extragrande para un agarre seguro
 - Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
+- Diseño ergonómico y cuerpo extragrande para un agarre seguro
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AJUFF6Y/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [PDP Caso de Viajero  Edición Elite  Nintendo Switch ](https://www.amazon
 
 ℹ️:
 
-- Compatible con Nintendo Switch y Nintendo Switch Lite.
 - Carcasa semirrígida con asa de transporte.
-- Bolsillos de almacenamiento independientes y correas de fijación de velcro para mantener los accesorios en su sitio.
 - Con licencia oficial de Nintendo.
+- Bolsillos de almacenamiento independientes y correas de fijación de velcro para mantener los accesorios en su sitio.
+- Compatible con Nintendo Switch y Nintendo Switch Lite.
 - Almacena hasta catorce tarjetas de juegos con un compartimento frontal con cremallera que amplía su capacidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VB3WG36/?tag=tolees-21)
