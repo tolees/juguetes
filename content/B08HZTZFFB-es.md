@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BANDAI NAMCO Entertainment Iberica - Rid con un 32.19 % de descuento'
-date: 2021-07-19 15:50:44
+title: 'BANDAI NAMCO Entertainment Iberica - Rid con un 26.96 % de descuento'
+date: 2021-07-21 21:48:14
 image: 'https://m.media-amazon.com/images/I/41wYfDRJ89L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Vide
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
-comparePrice: 39.8 EUR
+comparePrice: 36.95 EUR
 prodname: 'BANDAI NAMCO Entertainment Iberica - Ride 4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21'
-descuento: '32.19'
-average: '46.975'
+descuento: '26.96'
+average: '45.4376923076923'
 ---
 
-En este momento está [BANDAI NAMCO Entertainment Iberica - Ride 4](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21) a 26.99 EUR (original: 39.8 EUR) (32.19 %  de descuento) en el siguiente enlace!
+En este momento está [BANDAI NAMCO Entertainment Iberica - Ride 4](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21) a 26.99 EUR (original: 36.95 EUR) (26.96 %  de descuento) en el siguiente enlace!
 
 [![BANDAI NAMCO Entertainment Iberica - Rid](https://m.media-amazon.com/images/I/41wYfDRJ89L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21)
 

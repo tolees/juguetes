@@ -28,9 +28,9 @@ Ahora mismo tienes [HORI - Volante Mario Kart Pro Mini  Nintendo Switch/PC ](htt
 
 🔎:
 
+- Licencia oficial de Nintendo
 - Levas de cambio secuencial en el volante
 - Compatible también con otros juegos de carreras para Nintendo Switch
-- Licencia oficial de Nintendo
 - Incluye pedales analógicos para una experiencia de conducción más realista
 - Botón "M" funcional: utiliza el objeto equipado en el kart
 

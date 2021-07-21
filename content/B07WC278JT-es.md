@@ -28,10 +28,10 @@ En este momento está [THQ NORDIC - Destroy All Humans! DNA Collector s Edition 
 
 🔎:
 
+- Hazte pasar por humano e infíltrate en su frágil democracia
+- Vive el lado oscuro de una invasión alienígena estilo años 50
 - Usa la psicokinesis para lanzar a los enemigos por los aires o bombardearlos con objetos
 - Redescubre por qué este juego es uno de los más divertidos de la historia
-- Vive el lado oscuro de una invasión alienígena estilo años 50
-- Hazte pasar por humano e infíltrate en su frágil democracia
 - Reconstruido desde cero en todo su galáctico esplendor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WC278JT/?tag=tolees-21)
