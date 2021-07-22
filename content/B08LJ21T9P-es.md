@@ -28,10 +28,10 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Guilty Gear Strive](https://www.ama
 
 🔎:
 
-- Personajes carismáticos. Se han mejorado todos los diseños de los personajes existentes. También se incluyen nuevos personajes.
-- Banda sonora y canciones compuestas por Daisuke Ishiwatari
-- Muchos y variados modos de juego. con un modo historia más largo que una película.
 - Fácil de entender y con un sistema de lucha más extenso que nunca.
+- Banda sonora y canciones compuestas por Daisuke Ishiwatari
 - Cómodo juego online con «rollback netcode» (la mejor manera de jugar a un juego de lucha online sin lag entre dos jugadores, porque simula un combate en local corrigiendo errores de entrada sin que los jugadores lo noten).
+- Personajes carismáticos. Se han mejorado todos los diseños de los personajes existentes. También se incluyen nuevos personajes.
+- Muchos y variados modos de juego. con un modo historia más largo que una película.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LJ21T9P/?tag=tolees-21)

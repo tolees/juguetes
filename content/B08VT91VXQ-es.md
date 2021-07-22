@@ -28,9 +28,9 @@ Está [BANDAI NAMCO Entertainment Iberica - Subnautica Below Zero](https://www.a
 
 ℹ️:
 
+- la supervivencia es la clave
+- Construye tu hábitat
 - Los misterios sumergidos en el Planeta 4546B
 - Exploración
-- Construye tu hábitat
-- la supervivencia es la clave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VT91VXQ/?tag=tolees-21)

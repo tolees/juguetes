@@ -28,7 +28,7 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Ride 4](https://www.
 
 🔎:
 
-- Disfruta del máximo potencial del juego con resolución dinámica de hasta 4K y 60 FPS, carreras más exigentes con 20 motos por carrera online y offline y siente la emoción de pilotar tu moto con el Haptic PS5TM Dualsense Controller.
 - RIDE 4 llega a la nueva generación de consolas.
+- Disfruta del máximo potencial del juego con resolución dinámica de hasta 4K y 60 FPS, carreras más exigentes con 20 motos por carrera online y offline y siente la emoción de pilotar tu moto con el Haptic PS5TM Dualsense Controller.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HZTZFFB/?tag=tolees-21)
