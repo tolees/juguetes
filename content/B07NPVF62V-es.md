@@ -28,9 +28,9 @@ Ahora mismo tienes [Bizak- Splash Atom  Multicolor  35007501 ](https://www.amazo
 
 🔎:
 
-- Rellena con globos de agua el splash atom
-- Va y viene sin parar, si te alcanza te empapas
-- A partir de 5 años
 - Cada jugador debe estar en un extremo y no dejes que llegue al extremo de tus asas, si las toca ¡explota y te mojarás!
+- Va y viene sin parar, si te alcanza te empapas
+- Rellena con globos de agua el splash atom
+- A partir de 5 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NPVF62V/?tag=tolees-21)

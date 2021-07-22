@@ -28,10 +28,10 @@ Tienes [Mando Inalámbrico para PS4  KINGEAR Wireless Controlador Joystick Gamep
 
 ℹ️:
 
-- 【Función de doble vibración y movimiento de 6 ejes】El controlador de juego soporta la función de vibración del juego según el estado del juego y la escena del juego, para lograr efectos de vibración fuertes y débiles. Además, el sensor de 6 ejes puede capturar toda la información dinámica para crear una experiencia de juego más realista para ti.
+- Panel táctil y botón compartir: el panel táctil con clic ofrece una nueva oportunidad de jugar a juegos. Hay un botón para compartir que te permite transmitir tu juego en directo sin parar tu sesión. Comparte tus mejores momentos de juego con tus amigos.
 - Conexión inalámbrica y función de audio: el controlador de juegos para PS4 se puede conectar de forma inalámbrica, se mueve libremente y se conecta automáticamente. Cuenta con un altavoz incorporado y una toma de auriculares de 3,5 mm que ofrece dos opciones de audio, por lo que no tendrás que preocuparte por molestar a los demás o pasar un buen tiempo.
 - Más tiempo de reproducción: nuestro controlador de PlayStation 4 cuenta con una batería integrada de 600 mAh y ofrece un tiempo de reproducción más largo que puede durar hasta 8 horas después de una carga completa. El tiempo de carga es de 2 a 3 horas con el cable de carga incluido.
-- Panel táctil y botón compartir: el panel táctil con clic ofrece una nueva oportunidad de jugar a juegos. Hay un botón para compartir que te permite transmitir tu juego en directo sin parar tu sesión. Comparte tus mejores momentos de juego con tus amigos.
 - 【Versión de 2020 】 Este controlador para PS4 es ampliamente compatible con PS4 / PS3 / PS4 Pro / iOS / Windows (Win7 / 8 / 10). Puedes disfrutar de la mayoría de juegos en varias plataformas con Gamepad. (Nota: este mando es un controlador de terceros para PS4).
+- 【Función de doble vibración y movimiento de 6 ejes】El controlador de juego soporta la función de vibración del juego según el estado del juego y la escena del juego, para lograr efectos de vibración fuertes y débiles. Además, el sensor de 6 ejes puede capturar toda la información dinámica para crear una experiencia de juego más realista para ti.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DJ4P5BF/?tag=tolees-21)
