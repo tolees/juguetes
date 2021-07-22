@@ -28,9 +28,9 @@ En este momento está [Nintendo - Game&Watch: Super Mario Bros.](https://www.ama
 
 🔎:
 
-- Super Mario Bros.: The Lost Levels ist ebenfalls enthalten. Und wenn Sie ein kurzes Spiel für zwischendurch m chten, ist Ball im speziellen Super Mario Look genau richtig.
 - Spielen Sie Super Mario Bros. im Stil von Game & Watch: Springen Sie über tiefe Abgründe, hüpfen Sie auf Gumbas und reisen Sie durch R hren, ganz wie in den guten alten Zeiten aber mit noch pr ziserer Steuerung dank des Steuerkreuzes der Konsole.
 - Spielen Sie allein oder geben Sie die Konsole an einen Freund weiter, um zu sehen, wer am besten springt, stampft und rennt
+- Super Mario Bros.: The Lost Levels ist ebenfalls enthalten. Und wenn Sie ein kurzes Spiel für zwischendurch m chten, ist Ball im speziellen Super Mario Look genau richtig.
 - Ein Stück Videospielgeschichte: Game & Watch, Nintendos allererste Handheld Konsole, wurde 1980 in Japan ver ffentlicht. Sichern Sie sich nun ein Stück Videospielgeschichte mit diesem brandneuen Modell: einer goldenen Game & Watch Konsole, die das Originalspiel Super Mario Bros., eine Digitaluhr und mehr enth lt.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HJRWBYK/?tag=tolees-21)
