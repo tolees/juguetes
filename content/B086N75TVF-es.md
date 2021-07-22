@@ -28,9 +28,9 @@ Tienes [Nilox 30NXEB275VFM1V2 - Bicicleta eléctrica E Bike 36V 11.6AH 27.5X2.10
 
 ℹ️:
 
+- Velocidad máxima 25 km/h
 - Chasis de aluminio
 - Motor de 36 V 250 W, batería recargable Samsung de Litio de 36 V 11.6 Ah, con tiempo de carga completa de 5 horas
-- Velocidad máxima 25 km/h
 - Fabricado en España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086N75TVF/?tag=tolees-21)
