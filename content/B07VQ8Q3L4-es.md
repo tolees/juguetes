@@ -28,9 +28,9 @@ Tienes [WD BLACK - WD BLACK P10 Game Drive para Xbox de 5 TB para llevar tu col
 
 🔎:
 
-- Hasta 5 TB, que permiten almacenar un total de 125 juegos, para que pueda guardar sus clásicos favoritos y seguir teniendo espacio para muchos títulos
 - Disco duro de adecuado rendimiento con velocidades de hasta 130 MB/s que le permite optimizar su experiencia en consola o en ordenador
-- Formato portátil que proporciona rápido acceso a su colección de juegos en cualquier lugar
 - Dispositivo especialmente diseñado para videojugadores según los estándares de calidad y fiabilidad de WD_BLACK
+- Formato portátil que proporciona rápido acceso a su colección de juegos en cualquier lugar
+- Hasta 5 TB, que permiten almacenar un total de 125 juegos, para que pueda guardar sus clásicos favoritos y seguir teniendo espacio para muchos títulos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VQ8Q3L4/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Clank  juego de mesa  BGCLANK  con un 15.68 % de descuento'
-date: 2021-07-12 07:36:44
+date: 2021-07-22 11:44:38
 image: 'https://m.media-amazon.com/images/I/51Lui+IfJ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07NQP73FB/?tag=tolees-21'
 descuento: '15.68'
-average: '46.055'
+average: '44.7566666666667'
 ---
 
 En este momento está [Devir - Clank  juego de mesa  BGCLANK ](https://www.amazon.es/dp/B07NQP73FB/?tag=tolees-21) a 42.16 EUR (original: 50.0 EUR) (15.68 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Devir - Clank  juego de mesa  BGCLANK ](https://www.amazo
 
 🔎:
 
+- Duración: 30-60 minutos
+- Idioma principal: castellano
 - Cantidad de jugadores: 2-4
 - Rango de edad: 12 años y más
-- Idioma principal: castellano
-- Duración: 30-60 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQP73FB/?tag=tolees-21)
