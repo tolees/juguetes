@@ -28,10 +28,10 @@ En este momento está [Aurotek Sintra Bicicleta Eléctrica  e-bike  Plegable/fol
 
 🔎:
 
-- Sistema de pedaleo asistido con 5 niveles de asistencia; potente motor de 250w / 33v con 60nm de par y sensor de 12 puntos
 - Bicicleta eléctrica plegable de 20" de alta gama, calidad premium; horquilla de alta gama zoom monoblock de aluminio
-- Frenos de disco hidráulicos shimano mt200 delanteros y traseros; frewheel shimano; sillín y empuñaduras ergonómicas velo plus; llantas de aluminio
-- Potente batería samsung extraíble y oculta en el marco de ultima generacion y gran capacidad 500wh; cambio shimano altus 8 velocidades
 - Llantas de aluminio; ruedas de 20 pulgadas / 1,195"; plato y vielas de aluminio; guardabarros a juego con el color del marco; porta equipajes trasero; asiento de aluminio
+- Frenos de disco hidráulicos shimano mt200 delanteros y traseros; frewheel shimano; sillín y empuñaduras ergonómicas velo plus; llantas de aluminio
+- Sistema de pedaleo asistido con 5 niveles de asistencia; potente motor de 250w / 33v con 60nm de par y sensor de 12 puntos
+- Potente batería samsung extraíble y oculta en el marco de ultima generacion y gran capacidad 500wh; cambio shimano altus 8 velocidades
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082TFP9X3/?tag=tolees-21)
