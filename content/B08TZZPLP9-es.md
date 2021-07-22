@@ -29,9 +29,9 @@ Tienes [Harry Potter 9 3/4 Platform Playset  color  Mattel GXW31 ](https://www.a
 🔎:
 
 - Inspirada en la icónica escena del andén 9 3/4, esta figura coleccionable de Harry Potter anima a los fans a unirse a él en su primer viaje a Hogwarts
-- Hedwig y su pedestal están incluidos, junto con la varita y la carta de aceptación de Hogwarts
-- Decora el baúl de Harry con la hoja de pegatinas incluida y después colócalo en el portaequipajes; pasajeros al tren
 - Vestido con la ropa de viaje inspirada en la película y su bufanda de Hogwarts, la figura de Harry Potter puede adoptar un sinfín de posturas
+- Hedwig y su pedestal están incluidos, junto con la varita y la carta de aceptación de Hogwarts
 - La caja recrea la escena en la estación de Kings Cross y se abre para revelar imágenes del Hogwarts Express para disfrutar de más historias
+- Decora el baúl de Harry con la hoja de pegatinas incluida y después colócalo en el portaequipajes; pasajeros al tren
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TZZPLP9/?tag=tolees-21)
