@@ -28,9 +28,9 @@ En este momento está [Devir - Clank  juego de mesa  BGCLANK ](https://www.amazo
 
 🔎:
 
-- Duración: 30-60 minutos
 - Idioma principal: castellano
 - Cantidad de jugadores: 2-4
 - Rango de edad: 12 años y más
+- Duración: 30-60 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQP73FB/?tag=tolees-21)

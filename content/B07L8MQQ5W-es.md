@@ -28,9 +28,9 @@ Tienes [Devir- Detalles de  Sword and Sorcery Complementos: Portal Arcano  BGSI
 
 ℹ️:
 
-- De 1 a 5 jugadores
-- Duración: 60 - 90 minutos
 - Para mayores de 12 años
 - Portal arcano es la continuación de la épica campaña que empezaste en Swordsorcery Almas Inmortales
+- Duración: 60 - 90 minutos
+- De 1 a 5 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L8MQQ5W/?tag=tolees-21)
