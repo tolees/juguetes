@@ -28,9 +28,9 @@ En este momento está [Hori  Controlador D-Pad  L  Nintendo Switch  Mario](https
 
 🔎:
 
+- Ideal para juegos 2D con uso intensivo del pad direccional
 - Acabado mate en plástico semitraslúcido
 - Licencia oficial de Nintendo
-- Ideal para juegos 2D con uso intensivo del pad direccional
 - Joy-Con izquierdo con cruceta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FSR93MQ/?tag=tolees-21)

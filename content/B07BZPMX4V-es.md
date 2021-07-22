@@ -31,7 +31,7 @@ Tienes [Nerf Laser Ops Pro - Pack 2 Lanzadores  Hasbro E2281EU4    color/modelo 
 - Listos para jugarsaca los lanzadores de la caja y listos para jugar -- mejora tu juego en la app
 - Indicadores de vida, carga y equiposincluyen indicadores de vida, carga y selección de equipos
 - Incluye 2 brazaletesincluye 2 brazaletes para dispositivos móviles inteligentes (no incluido)
-- Incluyen luces y sonidos, carga ilimitada, y botón de recarga rápida
 - Personaliza los lanzadorespersonaliza los lanzadores, realiza un seguimiento del rendimiento y detecta a tus adversarios con la app
+- Incluyen luces y sonidos, carga ilimitada, y botón de recarga rápida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BZPMX4V/?tag=tolees-21)
