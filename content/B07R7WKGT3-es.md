@@ -28,10 +28,10 @@ En este momento está [Hasbro Star Wars Retro Game - Escape de la Estrella de la
 
 🔎:
 
-- Juego familiar
-- Totalmente en castellano
 - Incluye una figura exclusiva de coleccionista
-- De 2 a 4 jugadores
+- Totalmente en castellano
 - Huye de la estrella de la muerte en el halcón milenario
+- Juego familiar
+- De 2 a 4 jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21)
