@@ -28,8 +28,8 @@ Tienes [Barbie con Barco  Muñeca con bañador y barco de juguete para el agua  
 
 🔎:
 
-- El adorable perrito de Barbie también se ha subido a bordo, ¡hasta hay un asiento especial en el barco para él!
 - Después, detén el barco para descansar en la popa con tazas encajables y accesorios para beber.
+- El adorable perrito de Barbie también se ha subido a bordo, ¡hasta hay un asiento especial en el barco para él!
 - Con un diseño colorido y espacio para 3 muñecas, este barco de Barbie inspirará historias marinas infinitas (las otras muñecas se venden por separado).
 - Inspira aventuras de viajes con la muñeca Barbie, su perrito mascota y un barco que flota en el agua de verdad.
 - Ponle el chaleco salvavidas a Barbie sobre su bañador de colores ¡y zambúllete!
