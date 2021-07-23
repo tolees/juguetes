@@ -28,9 +28,9 @@ Ahora mismo tienes [Barbie Collector  Muñeca de La Guerra de las Galaxias  Star
 
 🔎:
 
-- Gafas oscuras, puños, botas y cinturón prácticos con una placa protectora para la rodilla completan el look
 - La muñeca soldado imperial de star wars x barbie evoca la armadura blanca de plastoide de los soldados imperiales sobre un mono negro de charol inspirado en la piel
 - Esta colaboración entre Barbie y Star Wars es un homenaje a Star Wars Una nueva esperanza
 - Inspirado en el arte conceptual original de las películas, la colección star wars x barbie los reinventa personajes icónicos a través de un exclusivo filtro barbie de alta costura
+- Gafas oscuras, puños, botas y cinturón prácticos con una placa protectora para la rodilla completan el look
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y927CKP/?tag=tolees-21)
