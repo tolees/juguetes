@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - NieR Replicant PS4 ESP con un 19.06 % de descuento'
-date: 2021-07-21 22:16:01
+date: 2021-07-23 08:29:50
 image: 'https://m.media-amazon.com/images/I/51tC-ZkKzPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08M14H3GV/?tag=tolees-21'
 descuento: '19.06'
-average: '43.6861538461538'
+average: '43.4221428571428'
 ---
 
 En este momento está [Koch Media - NieR Replicant PS4 ESP](https://www.amazon.es/dp/B08M14H3GV/?tag=tolees-21) a 39.99 EUR (original: 49.41 EUR) (19.06 %  de descuento) en el siguiente enlace!
