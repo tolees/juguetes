@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie Chelsea El cumpleaños perdido Muñeca rubia con set 
 
 🔎:
 
-- Llena el río con agua y pon a la muñeca Chelsea y a sus amigos animales a nadar, zambullirse y flotar alrededor de la isla.
-- Este conjunto de juego de Chelsea inspirado en Barbie y Chelsea, El cumpleaños perdido, sumerge a las niñas en una aventura por el río de la selva, repleta de animales y amigos. ​
 - Las niñas inventarán miles de historias sobre amistad con los adorables mono, elefante, tigre y loro bebés, y las bebidas y la toalla le dan todo lujo de detalles al juego.
-- La muñeca​Chelsea lleva un colorido bañador y tiene las caderas articuladas para poder sentarse cómodamente en su flotador.
 - Ayuda a la muñeca Chelsea a subir al árbol para zambullirse en el río o para tirarse en tirolina. ¡Cuántas aventuras!
+- Este conjunto de juego de Chelsea inspirado en Barbie y Chelsea, El cumpleaños perdido, sumerge a las niñas en una aventura por el río de la selva, repleta de animales y amigos. ​
+- Llena el río con agua y pon a la muñeca Chelsea y a sus amigos animales a nadar, zambullirse y flotar alrededor de la isla.
+- La muñeca​Chelsea lleva un colorido bañador y tiene las caderas articuladas para poder sentarse cómodamente en su flotador.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08J2KFB97/?tag=tolees-21)
