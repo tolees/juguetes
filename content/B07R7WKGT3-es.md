@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Hasbro Star Wars Retro Game-Escape de la con un 19.91 % de descuento'
-date: 2020-03-20 10:05:56
-image: 'https://m.media-amazon.com/images/I/51-1zyzW8HL._SL400_.jpg'
+title: 'Hasbro Star Wars Retro Game - Escape de  con un 40.03 % de descuento'
+date: 2021-07-23 10:00:40
+image: 'https://m.media-amazon.com/images/I/51-1zyzW8HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07R7WKGT3-es Hasbro Star Wars Retro Game-Escape de la Estrella de la...'
+slug: 'B07R7WKGT3-es Hasbro Star Wars Retro Game - Escape de la Estrella de la...'
 sku: 'B07R7WKGT3-es'
-tags: [ 'hasbro', ]
-actualPrice: 27.99 EUR
+tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','hasbro', ]
+actualPrice: 20.96 EUR
 currency: EUR
-price: 27.99
+price: 20.96
 comparePrice: 34.95 EUR
-prodname: 'Hasbro Star Wars Retro Game-Escape de la Estrella de la Muerte  Multicolor  5010993640041 '
+prodname: 'Hasbro Star Wars Retro Game - Escape de la Estrella de la Muerte  multicolor  Hasbro 5010993640041 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Hasbro'
 buyurl: 'https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21'
-descuento: '19.91'
-average: '27.99'
+descuento: '40.03'
+average: '25.6466666666667'
 ---
 
-En este momento está [Hasbro Star Wars Retro Game-Escape de la Estrella de la Muerte  Multicolor  5010993640041 ](https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21) a 27.99 EUR (original: 34.95 EUR) (19.91 %  de descuento) en el siguiente enlace!
+En este momento está [Hasbro Star Wars Retro Game - Escape de la Estrella de la Muerte  multicolor  Hasbro 5010993640041 ](https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21) a 20.96 EUR (original: 34.95 EUR) (40.03 %  de descuento) en el siguiente enlace!
 
-[![Hasbro Star Wars Retro Game-Escape de la](https://m.media-amazon.com/images/I/51-1zyzW8HL._SL400_.jpg)](https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21)
+[![Hasbro Star Wars Retro Game - Escape de ](https://m.media-amazon.com/images/I/51-1zyzW8HL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21)
 
 🔎:
 
+- Totalmente en castellano
+- Huye de la estrella de la muerte en el halcón milenario
+- Juego familiar
+- Incluye una figura exclusiva de coleccionista
+- De 2 a 4 jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21)

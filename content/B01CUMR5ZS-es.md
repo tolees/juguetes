@@ -28,9 +28,9 @@ Tienes [Edge Entertainment - Galeones  cañones y doblones  Juego de Mesa  EDGRB
 
 ℹ️:
 
-- Batallas navales, emocionantes aventuras, juegos de taberna y tesoros, esa es la vida de un pirata
 - La carrera hacia la gloria y las riquezas está a punto de comenzar
-- Producto en castellano
+- Batallas navales, emocionantes aventuras, juegos de taberna y tesoros, esa es la vida de un pirata
 - En Galeones, cañones y doblones los jugadores disponen de una flota de barcos piratas y una temible tripulación
+- Producto en castellano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CUMR5ZS/?tag=tolees-21)
