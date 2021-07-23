@@ -28,9 +28,9 @@ Tienes [Educa - Phuket  Tailandia ´Panorama´ Puzzle  3 000 Piezas  Multicolor 
 
 🔎:
 
-- Edad recomendada: a partir de 12 años
-- Número de piezas: 3.000, medida aproximada una vez montado: 144 x 68
 - Serie Panorama Imágenes en formato panorámico
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Número de piezas: 3.000, medida aproximada una vez montado: 144 x 68
+- Edad recomendada: a partir de 12 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084HDG4FZ/?tag=tolees-21)
