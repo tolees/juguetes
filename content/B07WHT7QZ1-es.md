@@ -28,10 +28,10 @@ Está [Warner Bros Interactive Spain - LEGO: Jurassic World](https://www.amazon.
 
 ℹ️:
 
+- Juega con amigos y en familia en un modo cooperativo en el que entrar y salir es de lo más sencillo
+- Causa el caos con los dinosaurios de LEGO: Por primera vez en la saga de videojuegos LEGO, juega con dinosaurios; escoge entre 20 especies, como el amistoso Triceratops, el letal Raptor, el cruel Compy o incluso el poderoso Tyrannosaurus rex
+- Personaliza tu propia colección de dinosaurios: Recoge ámbar LEGO y experimenta con ADN para crear dinosaurios completamente originales, como el Dilophosaurus Rex; con el Dino Customiser, los jugadores podrán mezclar colores, partes del cuerpo y habilidades, o meterse en la piel de los gigantescos dinosaurios de LEGO y jugar con las propias bestias
 - Da vida y explora Isla Nublar e Isla Sorna: Pon los dinosaurios únicos que has creado en prados y completa misiones especiales de juego libre
 - Descubre las maravillas de las películas de Jurassic World: Una aventura que ha estado esperando 65 millones de años, ahora en la clásica y divertida forma del ladrillo de LEGO
-- Personaliza tu propia colección de dinosaurios: Recoge ámbar LEGO y experimenta con ADN para crear dinosaurios completamente originales, como el Dilophosaurus Rex; con el Dino Customiser, los jugadores podrán mezclar colores, partes del cuerpo y habilidades, o meterse en la piel de los gigantescos dinosaurios de LEGO y jugar con las propias bestias
-- Causa el caos con los dinosaurios de LEGO: Por primera vez en la saga de videojuegos LEGO, juega con dinosaurios; escoge entre 20 especies, como el amistoso Triceratops, el letal Raptor, el cruel Compy o incluso el poderoso Tyrannosaurus rex
-- Juega con amigos y en familia en un modo cooperativo en el que entrar y salir es de lo más sencillo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WHT7QZ1/?tag=tolees-21)
