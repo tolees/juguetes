@@ -28,10 +28,10 @@ Tienes [Warner Bros Interactive Spain - LEGO Marvel Super Heroes - Edición Est�
 
 🔎:
 
-- Supera 45 misiones cargadas de acción
-- Completa los desafíos y gana recompensas
 - Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
+- Completa los desafíos y gana recompensas
 - Utiliza rápidos movimientos de combate y activa supermovimientos como la palmada de trueno de Hulk y la armadura de Iron Man
+- Supera 45 misiones cargadas de acción
 - Combate a los enemigos utilizando habilidades y superpoderes como volar, trepar muros y la invisibilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FKQ4OFG/?tag=tolees-21)
