@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.16 % en Edge Entertainment - Galeones  cañones y'
-date: 2021-07-23 08:40:30
+date: 2021-07-24 13:19:29
 image: 'https://m.media-amazon.com/images/I/51XStss0DOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B01CUMR5ZS/?tag=tolees-21'
 descuento: '18.16'
-average: '40.5766666666667'
+average: '40.62'
 ---
 
 Tienes [Edge Entertainment - Galeones  cañones y doblones  Juego de Mesa  EDGRBG01 ](https://www.amazon.es/dp/B01CUMR5ZS/?tag=tolees-21) con un 18.16 % de descuento con precio de oferta de 40.88 EUR (original: 49.95 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Edge Entertainment - Galeones  cañones y doblones  Juego de Mesa  EDGRB
 ℹ️:
 
 - La carrera hacia la gloria y las riquezas está a punto de comenzar
-- Batallas navales, emocionantes aventuras, juegos de taberna y tesoros, esa es la vida de un pirata
 - En Galeones, cañones y doblones los jugadores disponen de una flota de barcos piratas y una temible tripulación
+- Batallas navales, emocionantes aventuras, juegos de taberna y tesoros, esa es la vida de un pirata
 - Producto en castellano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CUMR5ZS/?tag=tolees-21)
