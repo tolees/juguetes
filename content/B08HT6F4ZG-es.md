@@ -28,8 +28,8 @@ Tienes [Electronic Arts - STAR WARS SQUADRONS | Xbox One - Código de descarga](
 
 🔎:
 
-- Domina el arte del combate con cazas estelares en la auténtica experiencia de pilotaje Star Wars: Squadrons.
 - Jugable en 2nd Oct 2020
+- Domina el arte del combate con cazas estelares en la auténtica experiencia de pilotaje Star Wars: Squadrons.
 - Necesitamos que te unas a la élite de la galaxia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HT6F4ZG/?tag=tolees-21)
