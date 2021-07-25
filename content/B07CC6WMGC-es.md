@@ -28,10 +28,10 @@ Está [FEBER - Motofeber Correpasillos  Frozen  Famosa 811816 ](https://www.amaz
 
 ℹ️:
 
-- Ruedas robustas
+- Correpasillos con sus personajes favoritos de Frozen
+- Recomendado para aprender a mantener el equilibrio y la coordinación
 - Para niños y niñas a partir de 18 meses
 - Incluye claxon
-- Recomendado para aprender a mantener el equilibrio y la coordinación
-- Correpasillos con sus personajes favoritos de Frozen
+- Ruedas robustas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CC6WMGC/?tag=tolees-21)

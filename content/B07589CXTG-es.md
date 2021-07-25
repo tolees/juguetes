@@ -28,10 +28,10 @@ Tienes [Elite Turno - Rodillo de entrenamiento para bicicleta inteligente  trans
 
 🔎:
 
-- Potencia máxima: 700 W (40 km/h)
 - Compatibilidad: software & aplicación My E-Training, Zwift, Trainerroad, Kinomap,
-- Comunicación inalámbrica: ANT+ (Potencia y Velocidad&Cadencia) y Bluetooth
 - Compatibilidad: Bicicleta de carrera, mountain bike y bicicleta de ciudad.
+- Comunicación inalámbrica: ANT+ (Potencia y Velocidad&Cadencia) y Bluetooth
 - Rodillo: inteligente, transmisión directa, con resistencia de tecnología fluida y sensor Misuro B+ integrado.
+- Potencia máxima: 700 W (40 km/h)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07589CXTG/?tag=tolees-21)
