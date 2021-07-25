@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desconocido - Coche teledirigido Anfibio al 37.52 % de descuento'
-date: 2021-07-16 08:46:24
+date: 2021-07-25 13:46:31
 image: 'https://m.media-amazon.com/images/I/41PEHr5rlJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Desconocido'
 buyurl: 'https://www.amazon.es/dp/B08ZL49GN6/?tag=tolees-21'
 descuento: '37.52'
-average: '17.49'
+average: '16.6566666666667'
 ---
 
 Está [Desconocido - Coche teledirigido Anfibio Reversible  Naranja . Juguetes para niños de 5 a 10 años de Edad  Coche Anfibio para niños. Control Remoto Barco Impermeable. Vehículo niñas Regalos Todo Terreno Agua](https://www.amazon.es/dp/B08ZL49GN6/?tag=tolees-21) con 37.52 de descuento por 14.99 EUR (original: 23.99 EUR) en el siguiente enlace!
