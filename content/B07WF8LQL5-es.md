@@ -28,10 +28,10 @@ Tienes [WD BLACK - WD BLACK D10 Game Drive para Xbox de 12 TB - 7200RPM con refr
 
 ℹ️:
 
-- 12 TB de espacio para guardar y mantener una colección de videojuegos de Xbox de hasta 300 juegos
 - Disco de 7200 r. p. m. con tecnología de refrigeración activa y velocidades de hasta 250 MB/s
-- Incluye 1 mes de suscripción gratuita a Xbox Game Pass Ultimate
 - Dispositivo especialmente diseñado para videojugadores según los estándares de calidad y fiabilidad de WD_BLACK
 - Dos puertos de carga USB Type-A de 7,5 W para poder cargar el equipo y los accesorios de videojuegos
+- Incluye 1 mes de suscripción gratuita a Xbox Game Pass Ultimate
+- 12 TB de espacio para guardar y mantener una colección de videojuegos de Xbox de hasta 300 juegos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WF8LQL5/?tag=tolees-21)
