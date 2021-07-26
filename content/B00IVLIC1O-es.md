@@ -30,8 +30,8 @@ Está [Hot Wheels Track Builder  tramos de pista con vehículo incluido  accesor
 
 - Construye un alucinante mundo de pistas hot wheels track builder
 - Para más diversión, se pueden conectar a otras pistas hot wheels (se venden por separado)
+- Incluye un coche hot wheels, 12 tramos de pistas de 20 cm, 6 tramos de 30 cm y 18 conectores de pista
 - Una genial combinación de pistas hot wheels para divertirse a lo grande
 - Regalo óptimo para niñas y niños de más de 6 años
-- Incluye un coche hot wheels, 12 tramos de pistas de 20 cm, 6 tramos de 30 cm y 18 conectores de pista
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IVLIC1O/?tag=tolees-21)
