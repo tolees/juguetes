@@ -28,8 +28,8 @@ Tienes [Playstation - GOW Hits](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-
 
 ℹ️:
 
-- Juego de acción
 - Es para PS4
+- Juego de acción
 - Es divertido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21)
