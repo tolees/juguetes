@@ -28,8 +28,8 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Ride 4 - Special Edition [Importaci
 
 ℹ️:
 
-- Season pass (65 motos nuevas, 2 pistas nuevas y 150 eventos nuevos)
 - Steelbook exclusivo dedicado a la motocicleta Yamaha R1 2020
 - RIDE 4 aprovecha la tecnología Smart Delivery dando acceso al juego en Xbox One y en Xbox Series X cuando esté disponible.
+- Season pass (65 motos nuevas, 2 pistas nuevas y 150 eventos nuevos)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08D7G5LJC/?tag=tolees-21)

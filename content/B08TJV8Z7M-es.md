@@ -28,9 +28,9 @@ Ahora mismo tienes [Playstation - Nioh Collection](https://www.amazon.es/dp/B08T
 
 🔎:
 
-- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
-- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
-- Descubre armas y habilidades letales en un sistema de combate renovado
 - Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
+- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
+- Descubre armas y habilidades letales en un sistema de combate renovado
+- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TJV8Z7M/?tag=tolees-21)
