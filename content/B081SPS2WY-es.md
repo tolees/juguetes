@@ -29,9 +29,9 @@ Ahora mismo tienes [EBUYFIRE Luz Bicicleta Recargable USB luz Delantera Biciclet
 🔎:
 
 - 【TRES MODOS DE ILUMINACIÓN Y VERSATILIDAD】 Parpadeo alto, bajo y rápido de tres modos, libre de cambiar según sus necesidades. El faro también tiene una función de linterna que se puede usar en varias escenas, como ciclismo, camping, pesca nocturna, caminar.
-- 【ACTUALIZACIÓN DEL SOPORTE LIGERO DE LA BICICLETA DELANTERA】 Más duradero y ajustable, podría sostener su manillar muy seguro, no hay que preocuparse de que se caiga nuevamente. El soporte de la luz de la bicicleta se fija con un tornillo, es fácil de instalar y no requiere herramientas.
-- 【3 LED 3000 LUMEN OUTPUT】 La luz de la bicicleta es muy brillante, la potencia máxima es de 3000 lúmenes, y las tres luces LED cubren un amplio rango, lo que le permite viajar de noche para ver áreas más amplias y más, y está equipado con luces traseras de bicicleta para Haz tu viaje más seguro.
 - 【POLÍTICA DE DEVOLUCIÓN DE UN AÑO】 EBUYFIRE brindará a los clientes un servicio amigable de devolución de un año. Tienes un año para probar el rendimiento de esta luz de bicicleta. Compre con confianza, si no está satisfecho, no dude en contactarnos.
 - 【GRADO MILITAR E IMPERMEABLE IPX5】 Hecho de una carcasa de aleación de aluminio de alta calidad, tiene una excelente resistencia al impacto, disipación de calor y resistencia a la corrosión, no solo para el puerto de carga USB, sino también para toda la lámpara, uso seguro, incluso en clima lluvioso.
+- 【ACTUALIZACIÓN DEL SOPORTE LIGERO DE LA BICICLETA DELANTERA】 Más duradero y ajustable, podría sostener su manillar muy seguro, no hay que preocuparse de que se caiga nuevamente. El soporte de la luz de la bicicleta se fija con un tornillo, es fácil de instalar y no requiere herramientas.
+- 【3 LED 3000 LUMEN OUTPUT】 La luz de la bicicleta es muy brillante, la potencia máxima es de 3000 lúmenes, y las tres luces LED cubren un amplio rango, lo que le permite viajar de noche para ver áreas más amplias y más, y está equipado con luces traseras de bicicleta para Haz tu viaje más seguro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081SPS2WY/?tag=tolees-21)
