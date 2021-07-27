@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.64 % en Logitech G G923 Volante y Pedales de Car'
-date: 2021-07-24 11:18:31
+date: 2021-07-27 16:55:41
 image: 'https://m.media-amazon.com/images/I/41vrzmnsnoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,9 +30,9 @@ Tienes [Logitech G G923 Volante y Pedales de Carrera  TRUEFORCE  Embrague Dual  
 
 - Para Volantes de Carreras Driving Force: Diseñado para los volantes de carreras G29 y G920 Driving Force
 - Montaje Seguro: Abrazaderas integradas que permiten instalar la palanca de cambio de forma segura
-- Recorrido Corte de Seis Velocidades: Tiene 6 velocidades con diseño en H que se mueve con soltura
-- TRUEFORCE HD FORCE FEEDBACK: Vive tu pasión por las carreras. Con TRUEFORCE, conecta con los motores del juego, procesando 4000 veces por segundo para obtener el máximo nivel de detalle y realismo
 - CONTROL DE EMBRAGUE DOBLE PROGRAMABLE: Simula el momento de salida en las carreras desde el mando, en los juegos compatibles; sal más rápido disfrutando de la máxima tracción y el mínimo humo
+- Recorrido Corte de Seis Velocidades: Tiene 6 velocidades con diseño en H que se mueve con soltura
 - INDICADOR DE REVOLUCIONES INTEGRADO: Ponte en cabeza con las luces LED de colores que iluminan el RPM; aprovecha los controles integrados y los frenos progresivos que estabilizan a alta velocidad
+- TRUEFORCE HD FORCE FEEDBACK: Vive tu pasión por las carreras. Con TRUEFORCE, conecta con los motores del juego, procesando 4000 veces por segundo para obtener el máximo nivel de detalle y realismo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08K9VCZ5G/?tag=tolees-21)

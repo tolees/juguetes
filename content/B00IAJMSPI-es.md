@@ -28,8 +28,8 @@ Tienes [PLAYMOBIL Mansión Moderna de Lujo - Playset Piscina con terraza  5575 ]
 
 ℹ️:
 
+- Con figuras y accesorios
 - Juguete educativo que fomenta el juego simbólico
 - Fomenta creatividad e imaginación
-- Con figuras y accesorios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IAJMSPI/?tag=tolees-21)
