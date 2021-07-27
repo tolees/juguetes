@@ -28,10 +28,10 @@ Está [LEGO 92177 Ideas Barco en una Botella Set de Construcción de Coleccionis
 
 ℹ️:
 
+- El expositor cuenta con una placa con el nombre del barco, “Leviathan”, una “brújula” integrada (no funciona de verdad) con una detallada rosa de los vientos y aguja giratoria dorada, 2 esferas terrestres y detalles dorados
 - El buque cuenta con cubierta elevada a popa, camarote del capitán, 6 cañones, 3 mástiles, cofa y diferentes elementos, como velas impresas y la bandera del barco
 - La botella cuenta con un detallado corcho para construir con un elemento que representa un sello de cera (novedad en febrero de 2018) y más de 280 elementos de color azul translúcido que representan el agua en su interior
 - Incluye también un folleto con instrucciones de construcción e información sobre el fan creador del set y los diseñadores de LEGO
-- El expositor cuenta con una placa con el nombre del barco, “Leviathan”, una “brújula” integrada (no funciona de verdad) con una detallada rosa de los vientos y aguja giratoria dorada, 2 esferas terrestres y detalles dorados
 - Contiene una botella que se construye con ladrillos LEGO, un buque y un expositor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GPG92V1/?tag=tolees-21)

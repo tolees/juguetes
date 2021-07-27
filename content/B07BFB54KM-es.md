@@ -28,9 +28,9 @@ Tienes [Disney - Bicicleta de 16 Pulgadas para niña  2 Frenos  de Frozen: El Re
 
 🔎:
 
-- Sillín y manillar regulables en altura – 2 estabilizadores con montaje sin herramientas.
-- Rodamiento de Nailon en la dirección y pedales – neumáticos hinchables – Llantas de radios.
-- Cesta delantera – portamuñecas trasero – guardabarros – Carcasa de protección – timbre – iluminación a pilas incluidas – catadióptrico de ruedas.
 - Cuadro y Horquilla de acero rígido – 2 frenos Caliper – Monomarcha.
+- Rodamiento de Nailon en la dirección y pedales – neumáticos hinchables – Llantas de radios.
+- Sillín y manillar regulables en altura – 2 estabilizadores con montaje sin herramientas.
+- Cesta delantera – portamuñecas trasero – guardabarros – Carcasa de protección – timbre – iluminación a pilas incluidas – catadióptrico de ruedas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BFB54KM/?tag=tolees-21)
