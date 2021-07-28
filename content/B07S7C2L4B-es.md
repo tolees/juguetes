@@ -28,9 +28,9 @@ Tienes [Beto High Pressure - Bomba de pie para Bicicleta con medidor  Color Negr
 
 🔎:
 
-- 11 bar, 160 psi
 - Para válvulas Schrader, Presta y Dunlop
-- Medidor situado bajo
 - Mango de plástico estable y reposapiés
+- Medidor situado bajo
+- 11 bar, 160 psi
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S7C2L4B/?tag=tolees-21)

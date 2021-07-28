@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO Los al 25.13 % de descuento'
-date: 2021-07-23 07:49:49
+date: 2021-07-28 09:14:04
 image: 'https://m.media-amazon.com/images/I/517U713JKnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07CCFRZDB/?tag=tolees-21'
 descuento: '25.13'
-average: '19.209'
+average: '18.8172727272727'
 ---
 
 Ahora mismo tienes [Warner Bros Interactive Spain - LEGO Los Increíbles - Edición Estándar - Nintendo Switch](https://www.amazon.es/dp/B07CCFRZDB/?tag=tolees-21) a 14.9 EUR (original: 19.9 EUR) (25.13 %  de descuento) en el siguiente enlace!

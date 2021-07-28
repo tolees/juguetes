@@ -28,15 +28,15 @@ Tienes [Eleven Force - Cluedo Rick y Morty  Juego de Mesa  Multicolor](https://w
 
 ℹ️:
 
-- Mejora tu capacidad de atención gracias al Cluedo de Rick and Morty
-- Recomendado a partir de 17 años
 - Podrás combatir el estrés de una forma muy amena
-- Debes descubrir Quién robó los planos, dónde se ocultan y qué objeto usaron para tener éxito en el robo
-- En el Cluedo de Rick and Morty podrás encontrar 1x tablero personalizado, 6x fichas personalizadas, 6x tarjetas de personalidad, 21x tarjetas de rumores, 16x tarjetas de cachivache, 1x marcador de puntuación personalizado, 1x sobre, 6x fichas de objeto, 6x fichas de sospechoso, 2x dados, 1x reglas
-- ¡Han robado los planos de la pistola de portales de Rick! Ahora Rick, Morty, Summer, Jerry, Beth y el señor Ojete Sucio tienen que recuperarlos
 - ¡Resuelve el misterio mientras visitas nuevos planetas gracias a la edición especial de Cluedo Rick and Morty!
-- Cuando creas que has resulto el misterio, vuelve a la tierra y devuelve los planos a la caja fuerte de Rick
+- ¡Han robado los planos de la pistola de portales de Rick! Ahora Rick, Morty, Summer, Jerry, Beth y el señor Ojete Sucio tienen que recuperarlos
 - Podrán divertirse de 2 a 6 jugadores
 - Ideal para estimular el pensamiento estratégico
+- En el Cluedo de Rick and Morty podrás encontrar 1x tablero personalizado, 6x fichas personalizadas, 6x tarjetas de personalidad, 21x tarjetas de rumores, 16x tarjetas de cachivache, 1x marcador de puntuación personalizado, 1x sobre, 6x fichas de objeto, 6x fichas de sospechoso, 2x dados, 1x reglas
+- Recomendado a partir de 17 años
+- Debes descubrir Quién robó los planos, dónde se ocultan y qué objeto usaron para tener éxito en el robo
+- Cuando creas que has resulto el misterio, vuelve a la tierra y devuelve los planos a la caja fuerte de Rick
+- Mejora tu capacidad de atención gracias al Cluedo de Rick and Morty
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825FNGSS/?tag=tolees-21)

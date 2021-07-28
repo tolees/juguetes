@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 76192 Marvel Vengadores: Batalla Fi con un 17.51 % de descuento'
-date: 2021-07-27 04:41:34
+title: 'LEGO 76192 Marvel Vengadores: Batalla Fi con un 18.48 % de descuento'
+date: 2021-07-28 10:09:36
 image: 'https://m.media-amazon.com/images/I/51CfUKegh9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: 'tole.es'
 slug: 'B08WWL1GL3-es LEGO 76192 Marvel Vengadores: Batalla Final de Endgame...'
 sku: 'B08WWL1GL3-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
-actualPrice: 67.62 EUR
+actualPrice: 66.82 EUR
 currency: EUR
-price: 67.62
+price: 66.82
 comparePrice: 81.97 EUR
 prodname: 'LEGO 76192 Marvel Vengadores: Batalla Final de Endgame  Juguete para Niños +8 Años con Mini Figuras de Superhéroes'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWL1GL3/?tag=tolees-21'
-descuento: '17.51'
-average: '83.9'
+descuento: '18.48'
+average: '83.4834146341463'
 ---
 
-En este momento está [LEGO 76192 Marvel Vengadores: Batalla Final de Endgame  Juguete para Niños +8 Años con Mini Figuras de Superhéroes](https://www.amazon.es/dp/B08WWL1GL3/?tag=tolees-21) a 67.62 EUR (original: 81.97 EUR) (17.51 %  de descuento) en el siguiente enlace!
+En este momento está [LEGO 76192 Marvel Vengadores: Batalla Final de Endgame  Juguete para Niños +8 Años con Mini Figuras de Superhéroes](https://www.amazon.es/dp/B08WWL1GL3/?tag=tolees-21) a 66.82 EUR (original: 81.97 EUR) (18.48 %  de descuento) en el siguiente enlace!
 
 [![LEGO 76192 Marvel Vengadores: Batalla Fi](https://m.media-amazon.com/images/I/51CfUKegh9L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08WWL1GL3/?tag=tolees-21)
 
 🔎:
 
-- Este juguete de superhéroe para niños está repleto de detalles auténticos, como la espada de doble hoja de Thanos, que se convierte en 2 espadas de una mano
-- También incluye la figura de Thanos de Marvel Avengers y una microfigura de Ant-Man; los accesorios incluyen bocadillos, bebidas y un estante para armas
 - Este set de construcción LEGO Marvel Avengers cuenta con el laboratorio donde Iron Man está construyendo el impresionante Nano Gaúntlet
 - Incluye 6 mini figuras LEGO Vengadores: Thor, Capitán América, Black Panther, Iron Man, Bruja Escarlata y un guerrero Centauri
-- Las características incluyen un gran cañón que gira, se inclina y dispara una gran flecha con punta de goma y un radar de giro e inclinación en el techo
 - Incluye una zona de ocio y reuniones, donde los superhéroes pueden reunirse, un camión que se abre para revelar una máquina que viaja en el tiempo y una celda de prisión
+- Las características incluyen un gran cañón que gira, se inclina y dispara una gran flecha con punta de goma y un radar de giro e inclinación en el techo
+- Este juguete de superhéroe para niños está repleto de detalles auténticos, como la espada de doble hoja de Thanos, que se convierte en 2 espadas de una mano
+- También incluye la figura de Thanos de Marvel Avengers y una microfigura de Ant-Man; los accesorios incluyen bocadillos, bebidas y un estante para armas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WWL1GL3/?tag=tolees-21)
