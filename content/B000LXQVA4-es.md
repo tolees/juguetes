@@ -28,10 +28,10 @@ Tienes [Fisher-Price Saltador Animalito de la Selva con luces y sonidos para beb
 
 🔎:
 
-- El asiento gira 360 grados para que el niño descubra los divertidos juguetes de su alrededor
+- Altura de tres posiciones fácilmente regulable que se adapta al crecimiento del niño
 - Fundas de tejido suave para proteger los deditos del niño
 - Estructura de acero independiente muy resistente que le permite al niño saltar con total seguridad, sin necesidad de colgar el saltador de una puerta
-- Altura de tres posiciones fácilmente regulable que se adapta al crecimiento del niño
+- El asiento gira 360 grados para que el niño descubra los divertidos juguetes de su alrededor
 - Regalo original para bebes a partir de 12 meses
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000LXQVA4/?tag=tolees-21)
