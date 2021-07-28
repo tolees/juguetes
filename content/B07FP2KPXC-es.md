@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75890 Speed Champions Ferrari F40 C al 20.68 % de descuento'
-date: 2021-07-24 09:53:23
+date: 2021-07-28 16:27:53
 image: 'https://m.media-amazon.com/images/I/51f1zIZ9DLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FP2KPXC/?tag=tolees-21'
 descuento: '20.68'
-average: '15.9169551282048'
+average: '15.9040894568687'
 ---
 
 Ahora mismo tienes [LEGO 75890 Speed Champions Ferrari F40 Competizione Juguete de Construcción  Coche para Niños](https://www.amazon.es/dp/B07FP2KPXC/?tag=tolees-21) a 11.89 EUR (original: 14.99 EUR) (20.68 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [LEGO 75890 Speed Champions Ferrari F40 Competizione Juguete 
 
 🔎:
 
-- El coche para niños Ferrari F40 Competizione mide más de 4 cm de altura, 13 cm de longitud y 5 cm de ancho.
 - El Ferrari F40 Competizione para construir, preparado para enfrentarse a cualquier carrera, cuenta con cabina para una minifigura con parabrisas desmontable, ruedas con neumáticos de competición de caucho, elementos translúcidos a modo de faros, colores deportivos y detalles de diseño de gran realismo, e incluye capós y alerones traseros intercambiables.
-- Incluye también el casco del piloto de Ferrari.
 - Desmonta el parabrisas para introducir la minifigura en el coche.
-- Incluye una minifigura de un piloto de Ferrari.
 - Cambia el capó y el alerón para transformar el F40 Competizione en el clásico turismo Ferrari F40.
+- Incluye una minifigura de un piloto de Ferrari.
+- Incluye también el casco del piloto de Ferrari.
+- El coche para niños Ferrari F40 Competizione mide más de 4 cm de altura, 13 cm de longitud y 5 cm de ancho.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FP2KPXC/?tag=tolees-21)
