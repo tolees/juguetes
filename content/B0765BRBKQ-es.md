@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 20.04 % en LEGO 60195 City Arctic Expedition Ártico'
-date: 2021-07-26 04:48:57
-image: 'https://m.media-amazon.com/images/I/51aDjzv2G6L._SL500_._SL400_.jpg'
+date: 2021-07-29 05:28:05
+image: 'https://m.media-amazon.com/images/I/51ulNaFAbOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21'
 descuento: '20.04'
-average: '110.822840909092'
+average: '110.719343891403'
 ---
 
 Tienes [LEGO 60195 City Arctic Expedition Ártico: Base móvil de exploración  Descontinuado por Fabricante ](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21) con un 20.04 % de descuento con precio de oferta de 87.95 EUR (original: 109.99 EUR) en el siguiente enlace!
 
-[![LEGO 60195 City Arctic Expedition Ártico](https://m.media-amazon.com/images/I/51aDjzv2G6L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21)
+[![LEGO 60195 City Arctic Expedition Ártico](https://m.media-amazon.com/images/I/51ulNaFAbOL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21)
 
 ℹ️:
 
