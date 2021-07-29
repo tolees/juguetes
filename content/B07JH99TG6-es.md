@@ -28,10 +28,10 @@ Está [Playstation - Uncharted Collection Hits - Versión 17](https://www.amazon
 
 ℹ️:
 
-- Clasificación PEGI: 16
-- Rango ESRB: T (adolescente)
 - Género: acción/aventura
-- Plataforma: PlayStation 4
+- Clasificación PEGI: 16
 - Edición de los juegos: básica
+- Rango ESRB: T (adolescente)
+- Plataforma: PlayStation 4
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JH99TG6/?tag=tolees-21)
