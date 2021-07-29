@@ -28,10 +28,10 @@ Ahora mismo tienes [Fisher-Price - See Me Flush Potty](https://www.amazon.es/dp/
 
 🔎:
 
+- Respaldo trasero y asas para que el niño pueda apoyarse
 - Pulsa el asa para los efectos de luces y sonidos divertidos, y la acción del «agua».
 - El aro extraíble facilita la transición del pequeño a la taza de retrete normal.
-- Orinal con temática marina que incentiva al pequeño cada vez que consigue usarlo con éxito
 - El recipiente de una pieza de quita fácilmente para limpiarlo e incorpora una protección antisalpicaduras
-- Respaldo trasero y asas para que el niño pueda apoyarse
+- Orinal con temática marina que incentiva al pequeño cada vez que consigue usarlo con éxito
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08442VNJF/?tag=tolees-21)
