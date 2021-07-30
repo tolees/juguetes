@@ -28,9 +28,9 @@ En este momento está [PLAYMOBIL Piratas Playset  Multicolor  5655 ](https://www
 
 🔎:
 
-- Maletín en el que podrás guardar todos los accesorios
-- Incluye una figura pirata y accesorios
 - Desarrolla la imaginación y la creatividad
+- Incluye una figura pirata y accesorios
+- Maletín en el que podrás guardar todos los accesorios
 - Contiene 22 piezas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01B138PQU/?tag=tolees-21)

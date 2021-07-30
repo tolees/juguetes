@@ -28,8 +28,8 @@ Ahora mismo tienes [Smoby- Aquafun  Simba Toys 211421 ](https://www.amazon.es/dp
 
 🔎:
 
+- Se fija a la bañera gracias a sus ventosas
 - Puedes duchar a Wabap y deslizarlo por el tobogán
 - Completo juguete para disfrutar de la hora del baño
-- Se fija a la bañera gracias a sus ventosas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00LA2DFOK/?tag=tolees-21)
