@@ -28,15 +28,15 @@ En este momento está [LEXIBOOK- Nintendo Mario Kart Máquina electrónica de Pi
 
 🔎:
 
-- Garantía : 2 años.
-- Diseñado y desarrollado en Europa - Fabricado en China.
-- 4 flippers y 5 bumpers
-- Alimentación : 3 pilas LR14 / C de 1,5V (no incluidas).
-- ¡Una increíble mesa de pinball electrónica con un gran diseño de Mario Kart! ¡Juega solo o desafía a tus amigos!
-- 1 bola adentro
-- Puntuación digital: verifica el resultado más alto en la pantalla LCD
-- Botón de reinicio
 - Grandes sonidos y efectos de luz como en un juego de pinball real
 - 2 soportes para tener el ángulo perfecto para jugar
+- Puntuación digital: verifica el resultado más alto en la pantalla LCD
+- Alimentación : 3 pilas LR14 / C de 1,5V (no incluidas).
+- Botón de reinicio
+- ¡Una increíble mesa de pinball electrónica con un gran diseño de Mario Kart! ¡Juega solo o desafía a tus amigos!
+- 1 bola adentro
+- 4 flippers y 5 bumpers
+- Diseñado y desarrollado en Europa - Fabricado en China.
+- Garantía : 2 años.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087V78XMB/?tag=tolees-21)
