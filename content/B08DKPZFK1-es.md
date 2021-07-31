@@ -28,9 +28,9 @@ Está [SD Games - Claim Pocket 1  Juego de Cartas ](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Estas mini versiones vendrán en una lata para poder transportarlos en vuestro bolsillo y llevároslos a cualquier lugar.
-- Toda la diversión en la palma de tu mano.
 - ¿Queréis jugar en el avión? ¿En el autobús? ¿En la mesita de una cafetería? Ahora podréis hacerlo con estas mini versiones de dos de nuestros juegos más exitosos.
 - Claim Pocket, una pequeña gran familia.
+- Estas mini versiones vendrán en una lata para poder transportarlos en vuestro bolsillo y llevároslos a cualquier lugar.
+- Toda la diversión en la palma de tu mano.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DKPZFK1/?tag=tolees-21)
