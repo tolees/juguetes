@@ -29,9 +29,9 @@ Está [Educa - Greenwich Village  Nueva York Puzzle  1500 Piezas  Multicolor  18
 ℹ️:
 
 - Edad recomendada: a partir de 12 años
-- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Serie Genuine
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
+- Serie Genuine
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084HCRZ6J/?tag=tolees-21)
