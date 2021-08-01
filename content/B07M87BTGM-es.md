@@ -28,10 +28,10 @@ Ahora mismo tienes [Avengers - Figura Titan Power Fx 2.0 Iron Man  Hasbro E3298E
 
 🔎:
 
-- Conecta el lanzador Titan Hero Power FX para activar sonidos y frases y lanzar proyectiles
-- El lanzador Titan Hero Power FX se conecta a figuras Titan Hero Series (se venden por separado)
 - Busca las figuras Titan Hero Series y Titan Hero Power FX (se venden por separado)
 - Inspirado en la película Avengers: Endgame
+- Conecta el lanzador Titan Hero Power FX para activar sonidos y frases y lanzar proyectiles
 - Figura de Iron Man de 30 cm basada en la película
+- El lanzador Titan Hero Power FX se conecta a figuras Titan Hero Series (se venden por separado)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M87BTGM/?tag=tolees-21)
