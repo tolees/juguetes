@@ -28,10 +28,10 @@ Tienes [Cayro - Mastermind Colores - Juego de razonamiento y Estrategia - Juego 
 
 ℹ️:
 
+- 👨‍🏫 COMPETENCIAS CLAVE: Matemáticas: orientación espacial, Sociales y Cívicas: trabajar de forma activa en grupo, respetar el turno, tolerancia a la frustación, comprender códigos de conducta, empatía. Aprender a aprender: escuchar normas y controlar que las están aplicando bien, percepción de autoeficacia.
+- 👩‍🏫 HABILIDADES COGNITIVAS: Razonamiento: ir probando diferentes combinaciones e ir comprobando los resultados, Coordinación óculo-manual: coger la clavija y ponerla en el agujero que quiero, Psicomotricidad fina: coger la clavija con la pieza digital correctamente, Toma de decisiones: pensar qué combinación de colores quiero poner y hacerlo, Flexibilidad mental: ir modificando mi idea original a medida que me vayan dando las pistas.
 - 🧠 INTELIGENCIAS MÚLTIPLES: Lógico-matemáticas: resolución de problemas. Interpersonal: conocer al otro jugador, comprenderlo e interactuar con él.
 - 🗂️ COMPONENTES: Tablero con agujeros, clavijas con colores EDAD: +7 años NIVEL: Primaria
-- 👩‍🏫 HABILIDADES COGNITIVAS: Razonamiento: ir probando diferentes combinaciones e ir comprobando los resultados, Coordinación óculo-manual: coger la clavija y ponerla en el agujero que quiero, Psicomotricidad fina: coger la clavija con la pieza digital correctamente, Toma de decisiones: pensar qué combinación de colores quiero poner y hacerlo, Flexibilidad mental: ir modificando mi idea original a medida que me vayan dando las pistas.
-- 👨‍🏫 COMPETENCIAS CLAVE: Matemáticas: orientación espacial, Sociales y Cívicas: trabajar de forma activa en grupo, respetar el turno, tolerancia a la frustación, comprender códigos de conducta, empatía. Aprender a aprender: escuchar normas y controlar que las están aplicando bien, percepción de autoeficacia.
 - ⚙️ CÓMO JUGAR - Juego de lógica deductiva para 2 jugadores, uno de ellos oculta la combinación de colores que el otro jugador debe adivinar mediante unos marcadores que van diciéndote que colores tienes y en lugar están.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00B2O4A0E/?tag=tolees-21)
