@@ -29,8 +29,8 @@ Tienes [Devir - El Anillo Único](https://www.amazon.es/dp/B00QAQFESG/?tag=tolee
 ℹ️:
 
 - Tipo de producto: juego de rol de fantasía
-- Juego adecuado para pasar el tiempo libre
-- El juego incorpora todas las reglas necesarias para crear personajes, dirigir partidas e incluso incluye una aventura completa
 - Edad recomendada: 12 años y más
+- El juego incorpora todas las reglas necesarias para crear personajes, dirigir partidas e incluso incluye una aventura completa
+- Juego adecuado para pasar el tiempo libre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00QAQFESG/?tag=tolees-21)
