@@ -28,9 +28,9 @@ Está [Clementoni Puzzle 1000 Piezas Museos La Escuela de Atenas  Multicolor  39
 
 ℹ️:
 
+- Hecho en Italia
 - Favorece la concentración y las habilidades manuales
 - Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
 - Puzzle adulto 1000 piezas, con láminas de alta calidad de impresión, y troquelado preciso; colección Museos
-- Hecho en Italia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MY2Q81X/?tag=tolees-21)
