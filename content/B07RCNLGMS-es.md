@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Star Wars - Droide Electrónico con Contr al 40.76 % de descuento'
-date: 2021-07-12 16:27:54
+title: 'Star Wars - Droide Electrónico con Contr al 49.24 % de descuento'
+date: 2021-08-03 12:25:04
 image: 'https://m.media-amazon.com/images/I/41IEPHf57VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07RCNLGMS-es Star Wars - Droide Electrónico con Control Remoto Hasbro...'
 sku: 'B07RCNLGMS-es'
 tags: [ 'Aeronaves controlados por aplicación o por control remoto','Drones controlados por aplicación o por control remoto','Juguetes','Juguetes y juegos','Radiocontrol','Vehículos de juguete para niños','hasbro','star wars', ]
-actualPrice: 38.5 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 38.5
+price: 32.99
 comparePrice: 64.99 EUR
 prodname: 'Star Wars - Droide Electrónico con Control Remoto  Hasbro E6983EU4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B07RCNLGMS/?tag=tolees-21'
-descuento: '40.76'
-average: '28.9472727272727'
+descuento: '49.24'
+average: '29.0661764705882'
 ---
 
-Ahora mismo tienes [Star Wars - Droide Electrónico con Control Remoto  Hasbro E6983EU4 ](https://www.amazon.es/dp/B07RCNLGMS/?tag=tolees-21) a 38.5 EUR (original: 64.99 EUR) (40.76 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Star Wars - Droide Electrónico con Control Remoto  Hasbro E6983EU4 ](https://www.amazon.es/dp/B07RCNLGMS/?tag=tolees-21) a 32.99 EUR (original: 64.99 EUR) (49.24 %  de descuento) en el siguiente enlace!
 
 [![Star Wars - Droide Electrónico con Contr](https://m.media-amazon.com/images/I/41IEPHf57VL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07RCNLGMS/?tag=tolees-21)
 
