@@ -28,10 +28,10 @@ Está [Luz Bicicleta Trasera 120 Lúmenes con Modos Flash Constante  Luces Bicic
 
 ℹ️:
 
-- ✅ 6 Modos múltiples: Fijo-5 horas, Flash-10h, Strobe-8h, SOS-10h, Respiración-15h y el modo de freno inteligente. (cuando detecta un frenado, la luz para bicicleta cambia automáticamente al modo más brillante para llamar la atención de las motocicletas o los automóviles atrás).
-- ✅ El paquete incluye: 1 x linterna bicicleta, 1 x banda de goma, 1 x cable de carga.
 - ✅ Luz trasera bicicleta potente led de 120 lúmenes, que garantiza visibilidad de ángulo 240 ° y a distancia de 150 metros para la seguridad del ciclismo.
-- ✅ USB recargable, no más molestia para cambiar batería: 2 horas de carga = 5 - 15 horas de autonomía.
+- ✅ 6 Modos múltiples: Fijo-5 horas, Flash-10h, Strobe-8h, SOS-10h, Respiración-15h y el modo de freno inteligente. (cuando detecta un frenado, la luz para bicicleta cambia automáticamente al modo más brillante para llamar la atención de las motocicletas o los automóviles atrás).
 - ✅ 3 segundos sin herramientas para montar o desmontar el foco bicicleta en la tija del sillín, apto para cada bicicleta, bicicleta carretera, bicicleta montaña mtb, híbrida, bicicleta de viaje, bicicleta para niños y también para perro, casco, mochila y silla de ruedas.
+- ✅ El paquete incluye: 1 x linterna bicicleta, 1 x banda de goma, 1 x cable de carga.
+- ✅ USB recargable, no más molestia para cambiar batería: 2 horas de carga = 5 - 15 horas de autonomía.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B096RLR1XV/?tag=tolees-21)
