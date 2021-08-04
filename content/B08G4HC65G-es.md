@@ -30,13 +30,13 @@ Tienes [LEGO 41446 Friends Clínica Veterinaria de Heartlake City Juguet
 
 - Los componentes LEGO cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez; así ha sido desde 1958.
 - Los componentes y ladrillos LEGO pasan por las pruebas más exhaustivas para asegurarnos de que satisfagan rigurosos estándares mundiales de seguridad.
-- Con los populares juegos de juguetes ambientados en Heartlake City, las niñas podrán jugar a lo que les apasiona y aprender a relacionarse en compañía de personajes LEGO Friends con los que es fácil identificarse.
-- Este set de construcción rápida contiene 8 personajes para que las peques interpreten sus propias historias de cuidado de animales. Hay 3 minipersonajes, un perro guía, una yegua de juguete con montura, un gatito, un cachorro y una tortuga bebé.
 - El set mide aproximadamente 16 cm de altura y 16 cm de anchura; con este tamaño, se puede dejar expuesto para que las peques se diviertan jugando a cuidar animales en cualquier momento.
+- Este set de construcción rápida contiene 8 personajes para que las peques interpreten sus propias historias de cuidado de animales. Hay 3 minipersonajes, un perro guía, una yegua de juguete con montura, un gatito, un cachorro y una tortuga bebé.
+- Un regalo por capricho que permite a niñas y niños a partir de 6 años expresar su lado más bondadoso. Viene con instrucciones claras para que, con independencia de sus habilidades de construcción, puedan empezar a pasarlo genial enseguida.
+- Con los populares juegos de juguetes ambientados en Heartlake City, las niñas podrán jugar a lo que les apasiona y aprender a relacionarse en compañía de personajes LEGO Friends con los que es fácil identificarse.
 - Los ladrillos LEGO del set son compatibles con los de cualquier set LEGO para dar rienda suelta al juego y la creatividad durante horas sin fin.
+- Incluye un gatito y un perro (novedad en enero de 2021), así como una yegua de juguete, Bella; como mueve la cabeza, las niñas podrán ayudarla a acercar el hocico a la deliciosa comida que le ha dejado Mia en el establo.
 - Las niñas podrán expresar su amor por las criaturas mediante el juego creativo con la Clínica Veterinaria de Heartlake City (41446) y convertirse en heroínas cotidianas o, simplemente, cuidar de animales que necesitan ayuda.
 - Las niñas podrán unirse a Donna, la veterinaria, mientras cuida de los animales bebés de juguete en la clínica, ayudar a Savannah a llevar a su perro guía a un chequeo o ir con Mia a caballo a salvar a la tortuga bebé de la transitada carretera.
-- Un regalo por capricho que permite a niñas y niños a partir de 6 años expresar su lado más bondadoso. Viene con instrucciones claras para que, con independencia de sus habilidades de construcción, puedan empezar a pasarlo genial enseguida.
-- Incluye un gatito y un perro (novedad en enero de 2021), así como una yegua de juguete, Bella; como mueve la cabeza, las niñas podrán ayudarla a acercar el hocico a la deliciosa comida que le ha dejado Mia en el establo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08G4HC65G/?tag=tolees-21)
