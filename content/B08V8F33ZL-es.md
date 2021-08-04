@@ -28,10 +28,10 @@ En este momento está [HOMCOM Juego de Mesa y 2 Sillas para Niños con 135 Bloqu
 
 🔎:
 
-- MESA MULTIFUNCIONAL: Con una encimera de 2 lados, puedes usarla como mesa convencional o cómo base para encajar los bloques de construcción incluidos. La zona interior de almacenaje también se puede usar para jugar con agua y arena a través de juegos de experimentación, texturas, etc.
-- GRAN ESPACIO DE ALMACENAJE: Este conjunto cuenta con un gran espacio de almacenaje debajo de la encimera de la mesa y 4 bandejas movibles. Ideal para guardar las piezas de construcción, colores y otros juguetes. Permite fomentar el hábito del orden y organización en los niños
 - CON 135 PIEZAS DE CONSTRUCCIÓN: Incluye bloques de construcción para que los niños puedan jugar cómodamente sentados en las sillas incluidas. Fomenta en desarrollo cognitiva y les permite disfrutar del juego mientras construyen, apilan y, por supuesto, destrozan torres y castillos para volver a hacer de nuevo
 - SEGURO Y ESTABLE: Conjunto de mesa y 2 sillas hecho de material no tóxico y duradero, adecuado para que lo usen y manipulen los niños, con superficie lisa y bordes redondeados para evitar daños accidentales e innecesarios
 - MEDIDAS TOTALES: mesa 69x69x47 cm (LxANxAL) y silla 27x27x45 cm (LxANxAL); Recomendado para niños a partir de 3 años
+- MESA MULTIFUNCIONAL: Con una encimera de 2 lados, puedes usarla como mesa convencional o cómo base para encajar los bloques de construcción incluidos. La zona interior de almacenaje también se puede usar para jugar con agua y arena a través de juegos de experimentación, texturas, etc.
+- GRAN ESPACIO DE ALMACENAJE: Este conjunto cuenta con un gran espacio de almacenaje debajo de la encimera de la mesa y 4 bandejas movibles. Ideal para guardar las piezas de construcción, colores y otros juguetes. Permite fomentar el hábito del orden y organización en los niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08V8F33ZL/?tag=tolees-21)
