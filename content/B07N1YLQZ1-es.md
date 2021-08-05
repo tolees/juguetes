@@ -28,10 +28,10 @@ Está [Pinypon - La Casa Encantada de Brujitas  con 1 figurita de Bruja  para ni
 
 ℹ️:
 
-- La mesita oculta una bola de cristal para adivinar el futuro
-- Esta casa tiene muchos secretos; el caldero se ilumina y transforma objetos en oro; una fantasma aguarda tras la puerta del armario; hay una ruleta de ingredientes mágicos para completar las pócimas y varias diferentes trampas mágicas
 - La Casa Encantada de Pinypon es el mágico hogar donde viven la brujita Halia y su murciélaga Lola
-- Las figuras y accesorios de Pinypon; además de ser muy divertidos; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendados a partir de 4 años
+- Esta casa tiene muchos secretos; el caldero se ilumina y transforma objetos en oro; una fantasma aguarda tras la puerta del armario; hay una ruleta de ingredientes mágicos para completar las pócimas y varias diferentes trampas mágicas
 - El juguete incluye la casa; 1 figura de la bruja Halia; 1 figura del murciélago Lola y muchos accesorios para hacer mágicas pócimas
+- La mesita oculta una bola de cristal para adivinar el futuro
+- Las figuras y accesorios de Pinypon; además de ser muy divertidos; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendados a partir de 4 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1YLQZ1/?tag=tolees-21)
