@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.04 % en LEGO 60195 City Arctic Expedition Ártico'
-date: 2021-08-01 05:46:43
+title: 'Descuento del 18.18 % en LEGO 60195 City Arctic Expedition Ártico'
+date: 2021-08-05 05:48:46
 image: 'https://m.media-amazon.com/images/I/51ulNaFAbOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B0765BRBKQ-es LEGO 60195 City Arctic Expedition Ártico: Base móvil de...'
 sku: 'B0765BRBKQ-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
-actualPrice: 87.95 EUR
+actualPrice: 89.99 EUR
 currency: EUR
-price: 87.95
+price: 89.99
 comparePrice: 109.99 EUR
 prodname: 'LEGO 60195 City Arctic Expedition Ártico: Base móvil de exploración  Descontinuado por Fabricante '
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21'
-descuento: '20.04'
-average: '110.61677927928'
+descuento: '18.18'
+average: '110.5467264574'
 ---
 
-Tienes [LEGO 60195 City Arctic Expedition Ártico: Base móvil de exploración  Descontinuado por Fabricante ](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21) con un 20.04 % de descuento con precio de oferta de 87.95 EUR (original: 109.99 EUR) en el siguiente enlace!
+Tienes [LEGO 60195 City Arctic Expedition Ártico: Base móvil de exploración  Descontinuado por Fabricante ](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21) con un 18.18 % de descuento con precio de oferta de 89.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![LEGO 60195 City Arctic Expedition Ártico](https://m.media-amazon.com/images/I/51ulNaFAbOL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21)
 
 ℹ️:
 
-- Número de piezas: 786
 - Contiene una grúa móvil con brazo giratorio y articulado, gancho y ruedas todoterreno, una gran plataforma de transporte, un remolque, un laboratorio móvil con antena de radar y puerta que se abre, una sierra móvil con brazo articulado y sierra giratoria, y una motonieve
 - Ártico: Base móvil de exploración
-- Edad recomendada por el fabricante: 7-12
 - Incluye también una figura de un mamut “congelado” dentro de un gran modelo de hielo con ladrillos blancos y azul translúcido
+- Edad recomendada por el fabricante: 7-12
+- Número de piezas: 786
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21)
