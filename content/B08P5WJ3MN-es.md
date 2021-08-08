@@ -28,10 +28,10 @@ En este momento está [HOMCOM Bicicleta Estática Plegable con Altura y Resisten
 
 🔎:
 
-- ASIENTO CON RESPALDO: Asiento acolchado con respaldo y apoyabrazos. Ajustable en altura de 6 niveles para asegurar una postura correcta y diseño ergonómico y ensanchado para sentarte cómodamente
-- 2 EN 1: Bicicleta estática con disco de inercia de 2,5 kg que cuenta con doble función. Por un lado, la de una bicicleta corriente, y por el otro, cuenta con una banda elástica en la parte delantera para que puedas ejercitar los brazos de forma más especifica realizando ejercicios de resistencia
 - MEDIDAS TOTALES: 52x107x110 cm (LxANxAL); Medidas plegadas: 51x50x97 cm (LxANxAL); Peso máximo soportado: 120 kg
-- MONITOR LCD Y PEDALES TPR: El monitor LCD de la bicicleta estática permite realizar un seguimiento de tu frecuencia cardíaca, velocidad, distancia, tiempo, recorrido total y calorías quemadas. Los pedales antideslizantes tienen correa ajustable para sujetar los pies de forma segura cuando haces ejercicio
+- ASIENTO CON RESPALDO: Asiento acolchado con respaldo y apoyabrazos. Ajustable en altura de 6 niveles para asegurar una postura correcta y diseño ergonómico y ensanchado para sentarte cómodamente
 - BICI PLEGABLE CON RESISTENCIA: Perilla para regular la resistencia de la bicicleta y ajustarle mediante 8 niveles de resistencia magnética a tus necesidades y exigencias. Su diseño plegable permite transportar la bicicleta fácilmente y almacenarla sin apenas utilizar espacio
+- MONITOR LCD Y PEDALES TPR: El monitor LCD de la bicicleta estática permite realizar un seguimiento de tu frecuencia cardíaca, velocidad, distancia, tiempo, recorrido total y calorías quemadas. Los pedales antideslizantes tienen correa ajustable para sujetar los pies de forma segura cuando haces ejercicio
+- 2 EN 1: Bicicleta estática con disco de inercia de 2,5 kg que cuenta con doble función. Por un lado, la de una bicicleta corriente, y por el otro, cuenta con una banda elástica en la parte delantera para que puedas ejercitar los brazos de forma más especifica realizando ejercicios de resistencia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P5WJ3MN/?tag=tolees-21)
