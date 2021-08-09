@@ -28,10 +28,10 @@ Tienes [Fisher-Price - Fisher Price- Poni Camina  Salta y Monta  Mattel GVN35 ](
 
 🔎:
 
-- Para bebés y niños de entre 9 y 36 meses
-- Más de 50 canciones, sonidos, melodías y frases que enseñan los colores, el alfabeto y contar de 1 a 10
 - Sonidos y luces que alientan a los más pequeños a seguir caminando y saltando con su poni
+- Para bebés y niños de entre 9 y 36 meses
 - Andador de poni musical con 3 modos de juego para que los más pequeños crezcan jugando, desde caminar a saltar y montar.
+- Más de 50 canciones, sonidos, melodías y frases que enseñan los colores, el alfabeto y contar de 1 a 10
 - Asiento supercómodo y suave para mejorar la diversión cuando saltan
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089FC4KCG/?tag=tolees-21)
