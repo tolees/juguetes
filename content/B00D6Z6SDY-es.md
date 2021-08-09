@@ -29,8 +29,8 @@ Está [Nerf Hasbro A0364 - Juego de puntería  surtido: colores aleatorios](http
 ℹ️:
 
 - Conveniente para las edades 6 +
-- El fútbol más lejano volar
 - Bola aúlla mientras vuela
 - Disponible en verde o naranja brillante
+- El fútbol más lejano volar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00D6Z6SDY/?tag=tolees-21)

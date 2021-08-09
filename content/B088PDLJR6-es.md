@@ -28,9 +28,9 @@ Está [Juguetes Famosa - Cry Pet - Peluche con lagrimas reales  al que tendras q
 
 ℹ️:
 
-- Perrito con lagrimas reales
 - 22cm de altura
 - Dale de beber con su biberón y veras como se le inundan sus ojos, presiónale la patita y llorará de verdad
 - Biberón y toalla incluidos
+- Perrito con lagrimas reales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B088PDLJR6/?tag=tolees-21)
