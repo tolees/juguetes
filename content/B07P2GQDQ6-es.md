@@ -29,14 +29,14 @@ Está [LEGO 42110 Technic Land Rover Defender Modelo de Exposición Col
 ℹ️:
 
 - Sistema de transmisión (novedad en octubre de 2019) con 2 palancas para accionar las relaciones de transmisión (alta o baja) y un selector para cambiar de marcha: ¡la caja de cambios LEGO Technic más sofisticada hasta hoy!
-- Cuenta con carrocería de fiel diseño con emblemas de Land Rover; llantas de diseño original con neumáticos de gran agarre; baca desmontable con caja de almacenamiento, portaequipajes, escalera y alfombrillas de tracción; puertas, capó y portón trasero que se abren; y un detallado habitáculo.
 - Gira la rueda de repuesto que va sujeta detrás para abrir el portón trasero.
 - Contempla la clásica combinación de colores en verde oliva, gris y negro.
-- Funciones incluidas: caja de cambios secuencial de 4 velocidades, tracción integral con 3 diferenciales, sistema de suspensión independiente en ambos ejes, detallado motor de 6 cilindros en línea y cabrestante que funciona de verdad.
 - Abre las puertas para acceder al detallado habitáculo.
-- Levanta el capó y descubre el detallado motor de 6 cilindros en línea con pistones móviles.
-- El habitáculo cuenta con un detallado salpicadero, volante que funciona de verdad y asientos traseros que se pliegan hacia delante y revelan la caja de cambios secuencial de 4 velocidades.
 - Incluye un juego de adhesivos de gran realismo.
+- Levanta el capó y descubre el detallado motor de 6 cilindros en línea con pistones móviles.
 - Este set LEGO Technic está diseñado para proporcionar una experiencia de construcción envolvente y gratificante.
+- Funciones incluidas: caja de cambios secuencial de 4 velocidades, tracción integral con 3 diferenciales, sistema de suspensión independiente en ambos ejes, detallado motor de 6 cilindros en línea y cabrestante que funciona de verdad.
+- El habitáculo cuenta con un detallado salpicadero, volante que funciona de verdad y asientos traseros que se pliegan hacia delante y revelan la caja de cambios secuencial de 4 velocidades.
+- Cuenta con carrocería de fiel diseño con emblemas de Land Rover; llantas de diseño original con neumáticos de gran agarre; baca desmontable con caja de almacenamiento, portaequipajes, escalera y alfombrillas de tracción; puertas, capó y portón trasero que se abren; y un detallado habitáculo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P2GQDQ6/?tag=tolees-21)
