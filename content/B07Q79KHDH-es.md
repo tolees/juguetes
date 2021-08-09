@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cefa Toys- Dracula Juego de Mesa  Color  al 21.35 % de rebaja'
-date: 2021-08-08 13:04:30
+date: 2021-08-09 16:40:05
 image: 'https://m.media-amazon.com/images/I/614+XTy6yKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cefa Toys'
 buyurl: 'https://www.amazon.es/dp/B07Q79KHDH/?tag=tolees-21'
 descuento: '21.35'
-average: '13.89'
+average: '13.19'
 ---
 
 Tienes [Cefa Toys- Dracula Juego de Mesa  Color azul  21816 ](https://www.amazon.es/dp/B07Q79KHDH/?tag=tolees-21) con precio final de  11.79 EUR (original: 14.99 EUR) (21.35 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Cefa Toys- Dracula Juego de Mesa  Color azul  21816 ](https://www.amazon
 
 🔎:
 
+- Se enfrentan las fuerzas del mal y las fuerzas del bien, quien conseguirá entrar en el castillo y ser el vencedor
 - Juego clásico de cefa que transcurre en transilvania en el bosque que esta a las afueras del castillo de drácula
 - Juego de 2 a 4 jugadores
-- Se enfrentan las fuerzas del mal y las fuerzas del bien, quien conseguirá entrar en el castillo y ser el vencedor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q79KHDH/?tag=tolees-21)
