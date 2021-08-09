@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Hasbro A0364 - Juego de puntería  s al 35.59 % de descuento'
-date: 2021-08-02 14:43:06
+date: 2021-08-09 19:41:46
 image: 'https://m.media-amazon.com/images/I/51Ns51doOgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B00D6Z6SDY/?tag=tolees-21'
 descuento: '35.59'
-average: '16.23'
+average: '16.245'
 ---
 
 Está [Nerf Hasbro A0364 - Juego de puntería  surtido: colores aleatorios](https://www.amazon.es/dp/B00D6Z6SDY/?tag=tolees-21) con 35.59 de descuento por 16.29 EUR (original: 25.29 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Nerf Hasbro A0364 - Juego de puntería  surtido: colores aleatorios](http
 
 ℹ️:
 
+- Conveniente para las edades 6 +
 - El fútbol más lejano volar
 - Bola aúlla mientras vuela
-- Conveniente para las edades 6 +
 - Disponible en verde o naranja brillante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00D6Z6SDY/?tag=tolees-21)
