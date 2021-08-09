@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.22 % en LEGO 75947 Harry Potter Cabaña de Hagrid'
-date: 2021-08-06 23:22:57
+date: 2021-08-09 11:25:20
 image: 'https://m.media-amazon.com/images/I/51Gx7z+FnmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07G3SC5ZH/?tag=tolees-21'
 descuento: '23.22'
-average: '53.3864630225081'
+average: '53.3641853035144'
 ---
 
 Tienes [LEGO 75947 Harry Potter Cabaña de Hagrid Rescate de Buckbeak  Juguete de Construcción para Niños +8 años con Mini Figuras](https://www.amazon.es/dp/B07G3SC5ZH/?tag=tolees-21) con un 23.22 % de descuento con precio de oferta de 49.9 EUR (original: 64.99 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [LEGO 75947 Harry Potter Cabaña de Hagrid Rescate de Buckbeak �
 
 ℹ️:
 
-- La cabaña LEGO de Hagrid mide más de 16 cm de altura, 23 cm de ancho y 12 cm de profundidad.
-- La estancia principal de la cabaña LEGO de Hagrid incluye una mesa con 2 sillas, un sillón para construir, una chimenea (y, en su interior, un ladrillo con luz), un huevo en un bol, una bolsa, una vitrina, el paraguas rosa de Hagrid, una pala, una tetera, una cuchara, una sartén, una macheta de carnicero, un lazo, una escoba y un cubo.
+- La estancia de la cabaña LEGO de Hagrid donde está su escritorio contiene además una silla, una vela, un arcón, una rana de chocolate, un ejemplar de El Profeta y una araña.
 - Incluye también calabazas, un farol, un hacha, 3 varitas, el sombrero del ministro de Magia y una cadena para sujetar a Buckbeak que se puede soltar.
 - La figura de Buckbeak con las alas abiertas mide más de 5 cm de altura, 7 cm de longitud y 12 cm de ancho.
 - Este set LEGO Harry Potter cuenta con la cabaña de madera de Hagrid, con 2 secciones para construir y un huerto de calabazas en el exterior.
-- La estancia de la cabaña LEGO de Hagrid donde está su escritorio contiene además una silla, una vela, un arcón, una rana de chocolate, un ejemplar de El Profeta y una araña.
+- La estancia principal de la cabaña LEGO de Hagrid incluye una mesa con 2 sillas, un sillón para construir, una chimenea (y, en su interior, un ladrillo con luz), un huevo en un bol, una bolsa, una vitrina, el paraguas rosa de Hagrid, una pala, una tetera, una cuchara, una sartén, una macheta de carnicero, un lazo, una escoba y un cubo.
+- La cabaña LEGO de Hagrid mide más de 16 cm de altura, 23 cm de ancho y 12 cm de profundidad.
 - Incluye 6 minifiguras LEGO Harry Potter: Hagrid y, como novedad en junio de 2019, Harry Potter, Ron Weasley, Hermione Granger, el verdugo y el ministro de Magia; incluye también una figura de Buckbeak, el hipogrifo, con cabeza y alas móviles, sujeto con una cadena que se puede soltar.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G3SC5ZH/?tag=tolees-21)

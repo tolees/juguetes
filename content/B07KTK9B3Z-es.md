@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21045 Architecture Trafalgar Square con un 17.00 % de descuento'
-date: 2021-08-06 23:23:32
+date: 2021-08-09 11:31:43
 image: 'https://m.media-amazon.com/images/I/51yPUT52IxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07KTK9B3Z/?tag=tolees-21'
 descuento: '17.00'
-average: '77.7195876288658'
+average: '77.7040512820511'
 ---
 
 En este momento está [LEGO 21045 Architecture Trafalgar Square Set de Construcción  Modelo de Coleccionista  Maqueta Decorativa para Niños +12 años](https://www.amazon.es/dp/B07KTK9B3Z/?tag=tolees-21) a 74.69 EUR (original: 89.99 EUR) (17.00 %  de descuento) en el siguiente enlace!
@@ -29,12 +29,12 @@ En este momento está [LEGO 21045 Architecture Trafalgar Square Set de Co
 🔎:
 
 - Disfruta de una experiencia de construcción agradablemente compleja y gratificante con este set LEGO Architecture.
-- El folleto incluido contiene información acerca de la arquitectura y la historia de cada estructura, así como datos históricos sobre Trafalgar Square y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
-- Este set incluye más de 1190 elementos.
-- Mide más de 12 cm de altura, 24 cm de ancho y 20 cm de profundidad.
-- Interpretación LEGO Architecture de Trafalgar Square, un hito arquitectónico londinense del mundo real.
 - La línea LEGO Architecture celebra el mundo de la arquitectura por medio del ladrillo de construcción LEGO y está dirigida a todos aquellos interesados en los viajes, la arquitectura, la historia y el diseño.
-- Cuenta con la Galería Nacional, la Columna de Nelson con los 4 leones que la custodian, 2 fuentes, 4 pedestales escultóricos, 10 árboles, 6 farolas y una base de baldosas que representa las áreas de la plaza y las calzadas, con 2 autobuses de Londres y 2 taxis negros.
+- Mide más de 12 cm de altura, 24 cm de ancho y 20 cm de profundidad.
 - Incluye una placa decorativa con la etiqueta “Trafalgar Square”.
+- Cuenta con la Galería Nacional, la Columna de Nelson con los 4 leones que la custodian, 2 fuentes, 4 pedestales escultóricos, 10 árboles, 6 farolas y una base de baldosas que representa las áreas de la plaza y las calzadas, con 2 autobuses de Londres y 2 taxis negros.
+- Interpretación LEGO Architecture de Trafalgar Square, un hito arquitectónico londinense del mundo real.
+- Este set incluye más de 1190 elementos.
+- El folleto incluido contiene información acerca de la arquitectura y la historia de cada estructura, así como datos históricos sobre Trafalgar Square y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com/architecture).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KTK9B3Z/?tag=tolees-21)

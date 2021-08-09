@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Coche Patrulla de la Policía con un 20.02 % de descuento'
-date: 2021-08-06 23:18:21
+date: 2021-08-09 11:24:32
 image: 'https://m.media-amazon.com/images/I/519itWfRnKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21'
 descuento: '20.02'
-average: '10.4821379310345'
+average: '10.448231292517'
 ---
 
 En este momento está [LEGO Coche Patrulla de la Policía](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21) a 7.99 EUR (original: 9.99 EUR) (20.02 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [LEGO Coche Patrulla de la Policía](https://www.amazon.es
 
 🔎:
 
-- Accesorios incluidos: 2 conos de tráfico del agente de policía.
-- Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración.
-- Incluye una minifigura LEGO de un agente de policía.
 - El coche patrulla mide más de 4 cm de altura, 12 cm de longitud y 5 cm de ancho.
+- Contiene un coche de policía LEGO con techo desmontable, espacio para una minifigura en el interior y una emblemática decoración.
+- Accesorios incluidos: 2 conos de tráfico del agente de policía.
+- Incluye una minifigura LEGO de un agente de policía.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FNW8PHF/?tag=tolees-21)
