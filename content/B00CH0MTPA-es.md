@@ -28,10 +28,10 @@ Tienes [Cayro - Mi Primer Juego de Palabras - juego de las palabras cruzadas - j
 
 ℹ️:
 
-- 🗂️ COMPONENTES: 1 Tablero, 102 fichas de letras , 22 tarjetas - EDAD: +4 años NIVEL: Infantil 5 años, primaria.
 - 👩‍🏫 HABILIDADES COGNITIVAS - Coordinación óculo-manual: poner las fichas de las letras en su lugar correspondiente. | Psicomotricidad fina: coger la ficha y ponerla en su lugar. | Visopercepción: diferenciar las letras. | Orientación espacial: las palabras se pueden poner en horizontal y en vertical.
-- 👨‍🏫 COMPETENCIAS CLAVE: Comunicación lingüística: conocimiento de vocabulario y gramática | Competencias sociales y cívicas: tolerancia a la frustración, respeto por las normas del juego. | Aprender a aprender: comprensión del juego y saber que lo estoy llevando a cabo correctamente
-- 🧠 INTELIGENCIAS MÚLTIPLES - Lingüística: utilizar el lenguaje correctamente. Intrapersonal: conocer a los demás jugadores, interaccionar con ellos.
 - ⚙️ CÓMO JUGAR - Juego competitivo en el que hay que formar unas palabras que aparecen en el tablero. Tiene diferentes variantes de juego.
+- 🧠 INTELIGENCIAS MÚLTIPLES - Lingüística: utilizar el lenguaje correctamente. Intrapersonal: conocer a los demás jugadores, interaccionar con ellos.
+- 🗂️ COMPONENTES: 1 Tablero, 102 fichas de letras , 22 tarjetas - EDAD: +4 años NIVEL: Infantil 5 años, primaria.
+- 👨‍🏫 COMPETENCIAS CLAVE: Comunicación lingüística: conocimiento de vocabulario y gramática | Competencias sociales y cívicas: tolerancia a la frustración, respeto por las normas del juego. | Aprender a aprender: comprensión del juego y saber que lo estoy llevando a cabo correctamente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CH0MTPA/?tag=tolees-21)
