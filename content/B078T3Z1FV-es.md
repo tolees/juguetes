@@ -30,8 +30,8 @@ Está [NSV Juego de Cartas Illusion 8819908056 – 4057 – Juego de Cartas](htt
 
 - 98 cartas de colores, 12 cartas de flecha, 1 manual de instrucciones (idioma español no garantizado)
 - Autor: Wolfgang Warsch
-- Idiomas: alemán
 - Duración del juego: aprox. 15 minutos
 - Jugadores: 2 a 5 años. Edad: a partir de 8 años
+- Idiomas: alemán
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078T3Z1FV/?tag=tolees-21)
