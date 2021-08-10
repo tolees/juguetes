@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.01 % en HORI - Mando inalámbrico HORIPAD Pikachu'
-date: 2021-08-09 10:55:32
+date: 2021-08-10 11:26:32
 image: 'https://m.media-amazon.com/images/I/51lORcX0ebL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B08KT6SLN5/?tag=tolees-21'
 descuento: '28.01'
-average: '42.2172727272727'
+average: '41.9465217391304'
 ---
 
 Tienes [HORI - Mando inalámbrico HORIPAD Pikachu  Nintendo Switch ](https://www.amazon.es/dp/B08KT6SLN5/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [HORI - Mando inalámbrico HORIPAD Pikachu  Nintendo Switch ](https://www
 
 ℹ️:
 
-- Acelerómetro y giroscopio
+- Batería recargable
 - Autonomía: hasta 20 h
 - Conexión inalámbrica vía Bluetooth
+- Acelerómetro y giroscopio
 - Licencias oficiales de Nintendo y Pokémon
-- Batería recargable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KT6SLN5/?tag=tolees-21)
