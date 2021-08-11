@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.03 % en Playstation - GOW Hits'
-date: 2021-08-04 06:12:55
+date: 2021-08-11 13:55:09
 image: 'https://m.media-amazon.com/images/I/516A60Qcr1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21'
 descuento: '55.03'
-average: '13.7266666666666'
+average: '13.6405454545454'
 ---
 
 Tienes [Playstation - GOW Hits](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21) con un 55.03 % de descuento con precio de oferta de 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [Playstation - GOW Hits](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-
 ℹ️:
 
 - Juego de acción
-- Es para PS4
 - Es divertido
+- Es para PS4
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21)
