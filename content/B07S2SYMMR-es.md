@@ -29,11 +29,11 @@ Ahora mismo tienes [VTECH- Aprendo y Descubro con Peppa Pig Libro Infantil Que E
 🔎:
 
 - Con sus educativos juegos y funciones, enseña letras, palabras y reproduce divertidas canciones y melodías
+- Versión española
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Incluye 4 botones con luz y 4 modos de juego: modo letras, modo historia, modo búsqueda y modo música
 - Incorpora botones de 4 personajes: Peppa, George, Papá y Mamá; Al presionarlos se escuchan sus voces y frases habituales de la serie de TV
 - Libro interactivo de Peppa Pig para aprender el abecedario
 - Cada página tiene 4 palabras, relacionadas con el mismo tema, y en cada página se narran diferentes escenarios
-- Incluye 4 botones con luz y 4 modos de juego: modo letras, modo historia, modo búsqueda y modo música
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Versión española
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S2SYMMR/?tag=tolees-21)
