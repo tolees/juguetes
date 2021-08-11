@@ -28,10 +28,10 @@ Está [Theo Klein 9401 Barbacoa de bola Weber Premium con luz y sonido  Con pila
 
 ℹ️:
 
+- Medidas: 40 cm x 32 cm x 53 cm, apto para niños a partir de tres años, Pilas necesarias 3 x R03-AAA, No incluidas en la entrega
 - Con esta parrilla de carbón con popular diseño de Weber, los pequeños maestros y maestras de la barbacoa pueden hacerse mayores
 - El carbón, cuyos efectos de sonido y luz se activan por medio del encendedor con cabezal magnético, llama especialmente la atención
 - La barbacoa con forma de bola de juguete incluye una parrilla de carbón, tenazas de barbacoa y alimentos como filete de salmón, filete T-Bone y verduras
-- Medidas: 40 cm x 32 cm x 53 cm, apto para niños a partir de tres años, Pilas necesarias 3 x R03-AAA, No incluidas en la entrega
 - A los niños les gusta imitar a sus padres. Aprenden mucho sobre la comida, aprenden a divertirse en las fiestas y ejercitan sus habilidades motoras finas al manejar la parrilla, las tenazas de barbacoa y los alimentos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BLV9DT6/?tag=tolees-21)
