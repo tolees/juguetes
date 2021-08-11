@@ -28,10 +28,10 @@ Ahora mismo tienes [Capsule Chix - Giga Glam  muñeca Sorpresa con Experiencia u
 
 🔎:
 
+- Una de las combinaciones posibles es de edición limitad será tuya
 - Abre las 5 capsulas y crea tu propia muñeca a través del mix match disfruta de las infinitas combinaciones posibles
 - Contiene una muñeca capsule chix giga glam
-- Cada muñeca cuenta con hasta 14 puntos de articulación
-- Una de las combinaciones posibles es de edición limitad será tuya
 - Efecto sorpresa disfrutando de una experiencia unboxing desde el primer momento hasta 24 modelos diferentes
+- Cada muñeca cuenta con hasta 14 puntos de articulación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TMHKYBK/?tag=tolees-21)

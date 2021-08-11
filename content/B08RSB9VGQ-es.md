@@ -28,10 +28,10 @@ Tienes [My First Pinypon - Pinypon - My First  Happy Vehículos Coche  Cochecito
 
 🔎:
 
-- Presionando sobre la cabeza se cambia la expresión de la cara
-- Juguete para niños a partir de 1 año para estimular su desarrollo y juego
-- Set de un coche con 1 figura del conductor
 - La figura mide 9 cm, compuesta de 2 partes intercambiables y su cara tiene 3 expresiones diferentes
+- Presionando sobre la cabeza se cambia la expresión de la cara
+- Set de un coche con 1 figura del conductor
+- Juguete para niños a partir de 1 año para estimular su desarrollo y juego
 - Lleva un cilindro giratorio con imágenes para jugar y aprender
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08RSB9VGQ/?tag=tolees-21)

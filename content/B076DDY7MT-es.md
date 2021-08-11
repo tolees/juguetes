@@ -28,8 +28,8 @@ Ahora mismo tienes [Simba 109480093 – Mia and Me Nueva versión Unicornio On
 
 🔎:
 
-- Clips de pelo y cepillo para falsifican
-- Adecuado para niños a partir de 3 años
 - Con alas de los nada-se
+- Adecuado para niños a partir de 3 años
+- Clips de pelo y cepillo para falsifican
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076DDY7MT/?tag=tolees-21)
