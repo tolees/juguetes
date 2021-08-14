@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BANDAI NAMCO Entertainment Iberica - Mxg con un 42.16 % de descuento'
-date: 2021-08-11 20:24:58
+title: 'BANDAI NAMCO Entertainment Iberica - Mxg con un 31.80 % de descuento'
+date: 2021-08-14 12:28:14
 image: 'https://m.media-amazon.com/images/I/51NWmzSIfEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Vide
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5
-comparePrice: 38.9 EUR
+comparePrice: 32.99 EUR
 prodname: 'BANDAI NAMCO Entertainment Iberica - Mxgp 2020'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08JVZG568/?tag=tolees-21'
-descuento: '42.16'
-average: '41.4906666666667'
+descuento: '31.80'
+average: '40.30375'
 ---
 
-En este momento está [BANDAI NAMCO Entertainment Iberica - Mxgp 2020](https://www.amazon.es/dp/B08JVZG568/?tag=tolees-21) a 22.5 EUR (original: 38.9 EUR) (42.16 %  de descuento) en el siguiente enlace!
+En este momento está [BANDAI NAMCO Entertainment Iberica - Mxgp 2020](https://www.amazon.es/dp/B08JVZG568/?tag=tolees-21) a 22.5 EUR (original: 32.99 EUR) (31.80 %  de descuento) en el siguiente enlace!
 
 [![BANDAI NAMCO Entertainment Iberica - Mxg](https://m.media-amazon.com/images/I/51NWmzSIfEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08JVZG568/?tag=tolees-21)
 
 🔎:
 
-- Diseña tu pista
 - Competiciones Online
 - Modo Playground y Waypoint
+- Diseña tu pista
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JVZG568/?tag=tolees-21)
