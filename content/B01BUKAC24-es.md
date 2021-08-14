@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Disney Infinity 3.0 - Disney Figura Balo al 26.95 % de rebaja'
-date: 2020-10-09 17:56:15
-image: 'https://m.media-amazon.com/images/I/518Q8gIZwBL._SL400_.jpg'
+title: 'Nintendo - Disney Infinity 3.0 - Disney  al 20.08 % de rebaja'
+date: 2021-08-14 15:29:26
+image: 'https://m.media-amazon.com/images/I/518Q8gIZwBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01BUKAC24-es Disney Infinity 3.0 - Disney Figura Baloo'
+slug: 'B01BUKAC24-es Nintendo - Disney Infinity 3.0 - Disney Figura Baloo'
 sku: 'B01BUKAC24-es'
-tags: [ 'disney','infinity', ]
-actualPrice: 10.95 EUR
+tags: [ 'Figuras de criaturas fantásticas de juguete para niños','Grandes electrodomésticos','Juguetes','Juguetes y juegos','Muñecos y figuras','Piezas y accesorio para campanas extractoras','Piezas y accesorios','disney','infinity','nintendo', ]
+actualPrice: 11.98 EUR
 currency: EUR
-price: 10.95
+price: 11.98
 comparePrice: 14.99 EUR
-prodname: 'Disney Infinity 3.0 - Disney Figura Baloo'
+prodname: 'Nintendo - Disney Infinity 3.0 - Disney Figura Baloo'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01BUKAC24/?tag=tolees-21'
-descuento: '26.95'
-average: '10.273333333333332'
+descuento: '20.08'
+average: '10.7'
 ---
 
-Tienes [Disney Infinity 3.0 - Disney Figura Baloo](https://www.amazon.es/dp/B01BUKAC24/?tag=tolees-21) con precio final de  10.95 EUR (original: 14.99 EUR) (26.95 %  de rebaja) aqui!
+Tienes [Nintendo - Disney Infinity 3.0 - Disney Figura Baloo](https://www.amazon.es/dp/B01BUKAC24/?tag=tolees-21) con precio final de  11.98 EUR (original: 14.99 EUR) (20.08 %  de rebaja) aqui!
 
-[![Disney Infinity 3.0 - Disney Figura Balo](https://m.media-amazon.com/images/I/518Q8gIZwBL._SL400_.jpg)](https://www.amazon.es/dp/B01BUKAC24/?tag=tolees-21)
+[![Nintendo - Disney Infinity 3.0 - Disney ](https://m.media-amazon.com/images/I/518Q8gIZwBL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01BUKAC24/?tag=tolees-21)
 
 🔎:
 
+- Incluye la figura de Baloo
+- Figura para Disney Infinity 3.0
+- Dimensiones del producto 22,2 x 12,7 x 7,8 cm, 299 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01BUKAC24/?tag=tolees-21)
