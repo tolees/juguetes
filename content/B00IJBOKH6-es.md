@@ -28,13 +28,13 @@ Está [Educa - Avengers  Puzzle infantil de 200 piezas  a partir de 6 años  159
 
 ℹ️:
 
-- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
 - Puzzle de 200 piezas,horas de diversión y entretenimiento! Dimensión aproximado del puzzle montado: 40 x 28 cm.
-- Puzzle de 200 piezas
-- Recomendado a partir de 6 años
-- Puzzles inspirados en Avengers
-- Las piezas son de cartón
-- Compuesto por grandes piezas
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los pequeños
+- Puzzles inspirados en Avengers
+- Puzzle de 200 piezas
+- Compuesto por grandes piezas
+- Compuestos por grandes piezas, óptimo acabadas para que sea sencilla y segura su manipulación por los niños
+- Recomendado a partir de 6 años
+- Las piezas son de cartón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00IJBOKH6/?tag=tolees-21)
