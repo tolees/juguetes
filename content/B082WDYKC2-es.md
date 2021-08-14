@@ -28,15 +28,15 @@ Ahora mismo tienes [LEGO 71373 Super Mario Pack Potenciador: Mario Constr
 
 🔎:
 
-- Los juegos de juguetes para coleccionar LEGO Super Mario traen a un singular y emblemático personaje al mundo real y ofrecen incontables desafíos creativos que resultan ideales para competir con amigos y familiares o para jugar a solas.
-- Cuando LEGO Mario (figura no incluida) lleva puesto este atuendo, los jugadores pueden ganar monedas digitales haciendo que avance dando pisotones sobre los ladrillos LEGO del recorrido creado por ellos mismos.
-- Los ladrillos LEGO llevan cumpliendo las normas más estrictas del sector desde 1958, por lo que ofrecen siempre las mismas cualidades y son compatibles entre sí. Se conectan firmemente y se separan con facilidad una y otra vez, ¡por eso no hace falta el poder de una superestrella a la hora de construir!
 - Este disfraz construible para la figura de LEGO Mario incluida en el juego de juguetes Pack Inicial: Aventuras con Mario (71360) amplía significativamente las posibilidades de juego.
-- Los peques pueden disfrutar de una demoledora experiencia de juego LEGO Super Mario y recoger monedas con el Pack Potenciador: Mario Constructor (71373), que incluye un atuendo interactivo para LEGO Mario.
 - Los elementos y ladrillos para construir LEGO se someten a rigurosas pruebas y se analizan para que puedas tener la certeza de que cada set LEGO satisface los requisitos de las normas de seguridad y calidad internacionales más exigentes.
-- La app gratuita LEGO Super Mario cuenta con instrucciones de construcción y ejemplos de diversas maneras de jugar, además de ser un entorno seguro para compartir ideas. Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck.
-- Complementa el pack inicial y los sets de expansión con otras mejoras disponibles para LEGO Mario, como el Pack Potenciador: Mario de Fuego (71370), el Pack Potenciador: Mario Helicóptero (71371) y el Pack Potenciador: Mario Felino (71372).
 - Este set de construcción LEGO de 10 piezas es un fantástico regalo de cumpleaños o Navidad para niños y fans a partir de 6 años que añade aún más opciones de juego a su set Pack Inicial: Aventuras con Mario (71360) y sus sets de expansión.
+- Los ladrillos LEGO llevan cumpliendo las normas más estrictas del sector desde 1958, por lo que ofrecen siempre las mismas cualidades y son compatibles entre sí. Se conectan firmemente y se separan con facilidad una y otra vez, ¡por eso no hace falta el poder de una superestrella a la hora de construir!
+- La app gratuita LEGO Super Mario cuenta con instrucciones de construcción y ejemplos de diversas maneras de jugar, además de ser un entorno seguro para compartir ideas. Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck.
+- Cuando LEGO Mario (figura no incluida) lleva puesto este atuendo, los jugadores pueden ganar monedas digitales haciendo que avance dando pisotones sobre los ladrillos LEGO del recorrido creado por ellos mismos.
 - Este divertido juguete de construcción creativa no necesita pilas: solo tienes que ponerle el disfraz a la figura de LEGO Mario del pack inicial para potenciar sus funciones. El pack incluye instrucciones que permitirán a los niños construir ellos solos.
+- Complementa el pack inicial y los sets de expansión con otras mejoras disponibles para LEGO Mario, como el Pack Potenciador: Mario de Fuego (71370), el Pack Potenciador: Mario Helicóptero (71371) y el Pack Potenciador: Mario Felino (71372).
+- Los peques pueden disfrutar de una demoledora experiencia de juego LEGO Super Mario y recoger monedas con el Pack Potenciador: Mario Constructor (71373), que incluye un atuendo interactivo para LEGO Mario.
+- Los juegos de juguetes para coleccionar LEGO Super Mario traen a un singular y emblemático personaje al mundo real y ofrecen incontables desafíos creativos que resultan ideales para competir con amigos y familiares o para jugar a solas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082WDYKC2/?tag=tolees-21)
