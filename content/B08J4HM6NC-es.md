@@ -28,10 +28,10 @@ Está [Mega Construx Hot Wheels Bone Shaker Coche de juguete de bloques de const
 
 ℹ️:
 
-- Hot Wheels Bone Shaker, juguete de construcción con ruedas y asiento del conductor
 - Ideal a partir de 5 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
+- Hot Wheels Bone Shaker, juguete de construcción con ruedas y asiento del conductor
+- 1 microfigura de acción articulada con traje de conductor de carreras
 - Incluye detalles auténticos, como la icónica capucha con adorno de calavera, un bastidor de colores cromatizados y un motor
 - Las 118 bloques y piezas son compatibles con otros conjuntos de construcción de Mega Construx y con las principales marcas
-- 1 microfigura de acción articulada con traje de conductor de carreras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J4HM6NC/?tag=tolees-21)
