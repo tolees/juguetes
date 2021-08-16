@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie Fashionista Armario portable con muñeca incluida  ro
 
 🔎:
 
-- Los estantes permiten guardar y exhibir los accesorios, y en el perchero plegable se cuelga la ropa para jugar y divertirse
-- Barbie fashionista armario portable con muñeca incluida, ropa, complementos y accesorios de muñecas mattel gbk12
-- La muñeca Barbie viste un mono de flores y dos vestidos adicionales para cambiar su look
 - El armario rosa está decorado con dos puertas transparentes para echar un vistazo al vestuario de la muñeca Barbie
 - El armario incluye tres pares de zapatos, dos collares y dos bolsos para crear looks distintos al instante
+- La muñeca Barbie viste un mono de flores y dos vestidos adicionales para cambiar su look
+- Barbie fashionista armario portable con muñeca incluida, ropa, complementos y accesorios de muñecas mattel gbk12
+- Los estantes permiten guardar y exhibir los accesorios, y en el perchero plegable se cuelga la ropa para jugar y divertirse
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGX7TDN/?tag=tolees-21)
