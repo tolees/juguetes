@@ -28,9 +28,9 @@ Ahora mismo tienes [IMC Toys - Baby wow Charlie  95727 ](https://www.amazon.es/d
 
 🔎:
 
-- Edad mínima recomendada: +3 años
-- Con 3 niveles de aprendizaje: básico, medio y avanzado
 - Aunque la mayoría de nuestro stock de este producto está en español, es posible que lo recibas en otro idioma debido a un problema logístico.
+- Edad mínima recomendada: +3 años
 - Responde a 10 comandos de voz, hace 12 funciones e interactúa con 2 accesorios (una pelota y un chupete)
+- Con 3 niveles de aprendizaje: básico, medio y avanzado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B013RLFE2C/?tag=tolees-21)
