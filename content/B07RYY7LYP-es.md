@@ -28,10 +28,10 @@ Ahora mismo tienes [Ravensburger - Labyrinth Junior Frozen 2  20416 ](https://ww
 
 🔎:
 
-- Para niños a partir de 4 años
 - De 2 a 4 jugadores
+- Formato caja: 34 x 23 x 6 cm
+- Para niños a partir de 4 años
 - Elsa, Anna y muchos más personajes de Frozen 2 se han escondido en el laberinto del bosque
 - El original Laberinto Ravensburger en versión Junior de Frozen 2
-- Formato caja: 34 x 23 x 6 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RYY7LYP/?tag=tolees-21)
