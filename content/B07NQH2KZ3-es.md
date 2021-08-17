@@ -29,8 +29,8 @@ En este momento está [Mattel BTS - Muñeco Jung Kook  figura de colección  mie
 🔎:
 
 - Tienen el pelo largo y son articuladas y adaptables: ¡puedes mover sus brazos, piernas y cabezas
-- También están disponibles (se venden por separado) las figuras de moda inspiradas en los otros seis miembros de BTS: RM, Jin, SUGA, J-hope, Jimin y V. ¡Colecciónalos todos
 - ¡Muestra tu amor por BTS con la colección oficial de los muñecos de moda que representan a los siete artistas
 - Esta figura de Jung Kook está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
+- También están disponibles (se venden por separado) las figuras de moda inspiradas en los otros seis miembros de BTS: RM, Jin, SUGA, J-hope, Jimin y V. ¡Colecciónalos todos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQH2KZ3/?tag=tolees-21)
