@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.26 % en Ubisoft Spain - Hasbro Game Night'
-date: 2021-08-12 15:11:47
+date: 2021-08-17 21:11:24
 image: 'https://m.media-amazon.com/images/I/51NoyapMEkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07HYHN9R5/?tag=tolees-21'
 descuento: '26.26'
-average: '25.9435185185186'
+average: '25.9760550458716'
 ---
 
 Tienes [Ubisoft Spain - Hasbro Game Night](https://www.amazon.es/dp/B07HYHN9R5/?tag=tolees-21) con un 26.26 % de descuento con precio de oferta de 29.49 EUR (original: 39.99 EUR) en el siguiente enlace!
