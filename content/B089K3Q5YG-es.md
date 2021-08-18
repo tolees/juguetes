@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en SD Games - Yokai  Juego De Cartas '
-date: 2021-08-02 08:27:46
+date: 2021-08-18 13:22:33
 image: 'https://m.media-amazon.com/images/I/51gyrPSqzNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
