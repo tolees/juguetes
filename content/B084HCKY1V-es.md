@@ -30,8 +30,8 @@ Está [Educa - Times Square  New York ´Neon´ Puzzle  1000 Piezas  Multicolor  
 
 - Puzzle de 1000 piezas de times square,new york colección "puzzle neon"
 - Dimensiones de puzzle montado: 68 x 48 cm aprox
-- Compuestos por piezas perfectamente acabadas
 - Recomendado a partir de 12 años
 - Incluye un sobre de cola especial fix puzzle, para pegar el puzzle una vez finalizado el montaje
+- Compuestos por piezas perfectamente acabadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084HCKY1V/?tag=tolees-21)

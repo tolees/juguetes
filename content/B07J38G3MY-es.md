@@ -31,7 +31,7 @@ En este momento está [VORCOOL Núcleo de válvula  10 Piezas de Repuesto para B
 - Diseñado con un sello unido a un pasador móvil cargado por resorte que permite que pase aire presurizado cuando se infla un neumático.
 - Diseñado para usar en cualquier motocicleta y bicicleta que use neumáticos.
 - Acepta presión de aire de trabajo hasta 300 PSI.
-- Le ofrecemos un reembolso del 100% del dinero y una garantía de por vida para que sea una compra absolutamente sin riesgos.
 - Núcleo de vástago de válvula de servicio pesado con un rango de temperatura de -65 ° F (-54 ° C) y 250 ° F (121 ° C).
+- Le ofrecemos un reembolso del 100% del dinero y una garantía de por vida para que sea una compra absolutamente sin riesgos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07J38G3MY/?tag=tolees-21)
