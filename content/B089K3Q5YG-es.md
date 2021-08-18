@@ -28,8 +28,8 @@ Tienes [SD Games - Yokai  Juego De Cartas ](https://www.amazon.es/dp/B089K3Q5YG/
 
 ℹ️:
 
-- Es un juego cooperativo donde vuestra comunicación estará limitada.
 - Trabaja en equipo y utiliza tu memoria para apaciguar a los Espíritus.
 - !Entre los Yokai reina el caos!
+- Es un juego cooperativo donde vuestra comunicación estará limitada.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089K3Q5YG/?tag=tolees-21)
