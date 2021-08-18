@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - WRC 9. World Rally Championship  con un 33.33 % de descuento'
-date: 2021-08-15 17:03:57
+date: 2021-08-18 18:05:13
 image: 'https://m.media-amazon.com/images/I/51iYoDlHRYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B08GMRZTNJ/?tag=tolees-21'
 descuento: '33.33'
-average: '36.3616666666667'
+average: '35.3385714285715'
 ---
 
 En este momento está [Nacon - WRC 9. World Rally Championship 9: The Official Game - Versión Española  Nintendo Switch ](https://www.amazon.es/dp/B08GMRZTNJ/?tag=tolees-21) a 29.2 EUR (original: 43.8 EUR) (33.33 %  de descuento) en el siguiente enlace!
