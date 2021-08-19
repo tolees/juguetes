@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain - LEGO Los al 25.13 % de descuento'
-date: 2021-07-28 09:14:04
+title: 'Warner Bros Interactive Spain  VG  - LEG al 17.18 % de descuento'
+date: 2021-08-19 08:36:29
 image: 'https://m.media-amazon.com/images/I/517U713JKnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CCFRZDB-es Warner Bros Interactive Spain - LEGO Los Increíbles -...'
+slug: 'B07CCFRZDB-es Warner Bros Interactive Spain VG - LEGO Los Increíbles -...'
 sku: 'B07CCFRZDB-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','lego','nintendo','warner bros interactive spain', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','lego','nintendo','warner bros interactive spain (vg)', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9
-comparePrice: 19.9 EUR
-prodname: 'Warner Bros Interactive Spain - LEGO Los Increíbles - Edición Estándar - Nintendo Switch'
+comparePrice: 17.99 EUR
+prodname: 'Warner Bros Interactive Spain  VG  - LEGO Los Increíbles - Edición Estándar - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Warner Bros Interactive Spain'
+brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B07CCFRZDB/?tag=tolees-21'
-descuento: '25.13'
-average: '18.8172727272727'
+descuento: '17.18'
+average: '18.4908333333333'
 ---
 
-Ahora mismo tienes [Warner Bros Interactive Spain - LEGO Los Increíbles - Edición Estándar - Nintendo Switch](https://www.amazon.es/dp/B07CCFRZDB/?tag=tolees-21) a 14.9 EUR (original: 19.9 EUR) (25.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Warner Bros Interactive Spain  VG  - LEGO Los Increíbles - Edición Estándar - Nintendo Switch](https://www.amazon.es/dp/B07CCFRZDB/?tag=tolees-21) a 14.9 EUR (original: 17.99 EUR) (17.18 %  de descuento) en el siguiente enlace!
 
-[![Warner Bros Interactive Spain - LEGO Los](https://m.media-amazon.com/images/I/517U713JKnL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07CCFRZDB/?tag=tolees-21)
+[![Warner Bros Interactive Spain  VG  - LEG](https://m.media-amazon.com/images/I/517U713JKnL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07CCFRZDB/?tag=tolees-21)
 
 🔎:
 

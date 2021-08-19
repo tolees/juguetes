@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'UBI Soft - Rainbow Six Siege Deluxe Year con un 36.31 % de descuento'
-date: 2021-07-21 19:07:10
+title: 'UBI Soft - Rainbow Six Siege Deluxe Year con un 23.67 % de descuento'
+date: 2021-08-19 08:38:12
 image: 'https://m.media-amazon.com/images/I/51yNoLSQpXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Vide
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19
-comparePrice: 23.85 EUR
+comparePrice: 19.9 EUR
 prodname: 'UBI Soft - Rainbow Six Siege Deluxe Year 6 Ps5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B08VT6S58F/?tag=tolees-21'
-descuento: '36.31'
-average: '18.7923529411765'
+descuento: '23.67'
+average: '18.5922222222223'
 ---
 
-En este momento está [UBI Soft - Rainbow Six Siege Deluxe Year 6 Ps5](https://www.amazon.es/dp/B08VT6S58F/?tag=tolees-21) a 15.19 EUR (original: 23.85 EUR) (36.31 %  de descuento) en el siguiente enlace!
+En este momento está [UBI Soft - Rainbow Six Siege Deluxe Year 6 Ps5](https://www.amazon.es/dp/B08VT6S58F/?tag=tolees-21) a 15.19 EUR (original: 19.9 EUR) (23.67 %  de descuento) en el siguiente enlace!
 
 [![UBI Soft - Rainbow Six Siege Deluxe Year](https://m.media-amazon.com/images/I/51yNoLSQpXL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08VT6S58F/?tag=tolees-21)
 
