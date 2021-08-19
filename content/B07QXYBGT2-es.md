@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dra al 31.36 % de descuento'
-date: 2021-07-21 20:11:49
+date: 2021-08-19 02:49:16
 image: 'https://m.media-amazon.com/images/I/517hYggQGsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21'
 descuento: '31.36'
-average: '48.2070000000001'
+average: '47.8100000000001'
 ---
 
 Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21) a 23.99 EUR (original: 34.95 EUR) (31.36 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot]
 
 🔎:
 
-- 17.02 x 13.46 x 0.25 cm
-- 80 gramos
-- Muy conveniente
 - Fácil de usar
+- 17.02 x 13.46 x 0.25 cm
+- Muy conveniente
+- 80 gramos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21)
