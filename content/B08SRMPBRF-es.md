@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Microsoft - Mando Inalámbrico  Color Roj con un 31.43 % de descuento'
-date: 2021-07-22 13:10:26
+date: 2021-08-20 08:13:51
 image: 'https://m.media-amazon.com/images/I/31DvCZafobL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08SRMPBRF-es Microsoft - Mando Inalámbrico Color Rojo Xbox Series X'
 sku: 'B08SRMPBRF-es'
-tags: [ 'Accesorios para Xbox Series X y S','Electrónica','Hardware y juegos para Xbox Series X y S','Videojuegos','microsoft','xbox', ]
+tags: [ 'Accesorios para Xbox One','Accesorios para Xbox Series X y S','Electrónica','Hardware y juegos para Xbox One','Hardware y juegos para Xbox Series X y S','Mandos para Xbox One','Mandos y controles para Xbox One','Videojuegos','microsoft','xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B08SRMPBRF/?tag=tolees-21'
 descuento: '31.43'
-average: '60.1615596330276'
+average: '60.0509090909092'
 ---
 
 En este momento está [Microsoft - Mando Inalámbrico  Color Rojo  Xbox Series X ](https://www.amazon.es/dp/B08SRMPBRF/?tag=tolees-21) a 47.99 EUR (original: 69.99 EUR) (31.43 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Microsoft - Mando Inalámbrico  Color Rojo  Xbox Series X
 
 🔎:
 
-- Botón Share que permite capturar y compartir tus capturas de pantalla y grabaciones sin problemas; fácil de emparejar y cambiar entre consolas compatibles, y telefonos móviles
 - Agarre texturizado de los gatillos, los bumpers y la parte trasera; d-pad híbrido
-- Utiliza el botón Compartir para inmortalizar momentos especiales
-- Conecta cualquier auricular compatible con la toma de 3.5 mm para audio
+- Botón Share que permite capturar y compartir tus capturas de pantalla y grabaciones sin problemas; fácil de emparejar y cambiar entre consolas compatibles, y telefonos móviles
 - Incluye tecnologia inalambrica de Xbox y Bluetooth para jugar en consolas, PC y teléfonos móviles
+- Conecta cualquier auricular compatible con la toma de 3.5 mm para audio
+- Utiliza el botón Compartir para inmortalizar momentos especiales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SRMPBRF/?tag=tolees-21)
