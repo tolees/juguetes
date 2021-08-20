@@ -29,9 +29,9 @@ Tienes [Fisher-Price - Fisher Price- Poni Camina  Salta y Monta  Multicolor  Mat
 🔎:
 
 - Más de 50 canciones, sonidos, melodías y frases que enseñan los colores, el alfabeto y contar de 1 a 10
-- Para bebés y niños de entre 9 y 36 meses
 - Asiento supercómodo y suave para mejorar la diversión cuando saltan
-- Sonidos y luces que alientan a los más pequeños a seguir caminando y saltando con su poni
 - Andador de poni musical con 3 modos de juego para que los más pequeños crezcan jugando, desde caminar a saltar y montar.
+- Para bebés y niños de entre 9 y 36 meses
+- Sonidos y luces que alientan a los más pequeños a seguir caminando y saltando con su poni
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089FC4KCG/?tag=tolees-21)

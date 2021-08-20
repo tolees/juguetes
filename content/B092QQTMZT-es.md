@@ -28,10 +28,10 @@ Ahora mismo tienes [hahomin Levi/Rivaille Peluche Levi Ackerman Figura de anime 
 
 🔎:
 
-- Dormitorio, hogar, sofá, coche. También es un gran regalo para niños, jóvenes, familiares, amantes, amigos en Navidad, fiesta de cumpleaños, día de San Valentín.
 - Levi/Rivaille Levi Ackerman - Figura de anime de peluche suave, regalo de San Valentín, cumpleaños, 20 cm
+- Tamaño: 20 cm
 - Método de limpieza: lavar a mano o a máquina.
 - Material: felpa suave, relleno de algodón PP.
-- Tamaño: 20 cm
+- Dormitorio, hogar, sofá, coche. También es un gran regalo para niños, jóvenes, familiares, amantes, amigos en Navidad, fiesta de cumpleaños, día de San Valentín.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092QQTMZT/?tag=tolees-21)
