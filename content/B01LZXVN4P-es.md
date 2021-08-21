@@ -28,8 +28,8 @@ Tienes [Cephalofair Games - GLOOMHAVEN - Juego de mesa en inglés](https://www.a
 
 🔎:
 
-- Número de jugadores:1-4.
 - A partir de 12 años.
+- Número de jugadores:1-4.
 - Duración del juego:90-180.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LZXVN4P/?tag=tolees-21)
