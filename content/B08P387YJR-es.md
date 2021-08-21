@@ -29,8 +29,8 @@ Ahora mismo tienes [Playstation - FIFA 21 NEXT LEVEL EDITION](https://www.amazon
 🔎:
 
 - Imágenes a otro nivel, el realismo mejorado de los jugadores y un nuevo estadio vivo hacen que los partidos sean aún más reales
-- Juego a otro nivel, los tiempos de carga ultrarrápidos te meterán en la acción antes de que te des cuenta y la tecnología háptica te permite sentir la acción en tus manos
-- Ambientación a otro nivel, la experiencia de la jornada te sumergirá por completo y hará que los grandes momentos sean aún más grandes
 - Fútbol a otro nivel, FIFA 21 en PS5 te permite sentir la emoción del juego del mundo como nunca
+- Ambientación a otro nivel, la experiencia de la jornada te sumergirá por completo y hará que los grandes momentos sean aún más grandes
+- Juego a otro nivel, los tiempos de carga ultrarrápidos te meterán en la acción antes de que te des cuenta y la tecnología háptica te permite sentir la acción en tus manos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P387YJR/?tag=tolees-21)
