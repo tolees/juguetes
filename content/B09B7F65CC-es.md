@@ -29,9 +29,9 @@ Tienes [Mando para Nintendo Switch  PowerLead Wireless Controladors para Switch 
 ℹ️:
 
 - 【Botón intercambiable】 - Incorporado con batería de polímero de litio de 600 mAh que se puede usar de forma continua durante aproximadamente 5 h después de la carga completa. Admite funciones intercambiables de 3D izquierdo y botón cruzado, puede reemplazar 3D y botones de función según sus propios hábitos
-- 【Diseño único】: use la función de transferencia de agua para mostrar un delicado color rojo y azul, haciendo que el mango sea más elegante
-- 【Control preciso】: las palancas analógicas y los botones de disparo se han mejorado para ofrecer a los jugadores un control preciso de la consola de conmutación, el diseño ergonómico y la placa D-pad adicional lo hacen cómodo incluso durante largas horas de juego continuo
-- 【Alta tecnología】: admite la función de giroscopio de seis ejes y la función de vibración, admite la función de golpe continuo TURBO, lo que resulta en una mejor experiencia
 - 【Actualización de la versión 12.0.0 Usuario: póngase en contacto con el vendedor para obtener una nueva forma de actualización】【Amplia compatibilidad de Switch】 - Admite Nintendo Switch, Switch Lite, modo cableado para PC con Windows (HID estándar) y dispositivos Android como teléfonos / tabletas Andriod y Smart TV. Recordatorio amistoso: la plataforma de PC solo puede usar conexión por cable para conectarse con el controlador
+- 【Diseño único】: use la función de transferencia de agua para mostrar un delicado color rojo y azul, haciendo que el mango sea más elegante
+- 【Alta tecnología】: admite la función de giroscopio de seis ejes y la función de vibración, admite la función de golpe continuo TURBO, lo que resulta en una mejor experiencia
+- 【Control preciso】: las palancas analógicas y los botones de disparo se han mejorado para ofrecer a los jugadores un control preciso de la consola de conmutación, el diseño ergonómico y la placa D-pad adicional lo hacen cómodo incluso durante largas horas de juego continuo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B09B7F65CC/?tag=tolees-21)

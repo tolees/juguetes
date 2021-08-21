@@ -28,9 +28,9 @@ Tienes [Space Cowboys T.I.M.E Stories Revolution: Una Noche de Verano - Juego de
 
 ℹ️:
 
-- En esta aventura y en esta realidad alternativa nada debe malinterpretarse, salvo lo que se dé con amabilidad y respeto
 - Descubre las criaturas diferentes, ilusiones y lugares astutamente distorsionados
 - Las reglas del juego han cambiado, pero el compromiso de la Agencia por preservar la humanidad y el continuo espacio temporal permanece intacto
 - Juego de mesa en Español
+- En esta aventura y en esta realidad alternativa nada debe malinterpretarse, salvo lo que se dé con amabilidad y respeto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08VVZYP85/?tag=tolees-21)
