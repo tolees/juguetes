@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mega Bloks Pull-Along Puppy al 38.54 % de descuento'
-date: 2021-08-19 18:34:14
+date: 2021-08-21 12:21:09
 image: 'https://m.media-amazon.com/images/I/411tz6nokBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MEGA'
 buyurl: 'https://www.amazon.es/dp/B07YQNN2GL/?tag=tolees-21'
 descuento: '38.54'
-average: '19.9358433734938'
+average: '19.9084431137723'
 ---
 
 Ahora mismo tienes [Mega Bloks Pull-Along Puppy](https://www.amazon.es/dp/B07YQNN2GL/?tag=tolees-21) a 15.36 EUR (original: 24.99 EUR) (38.54 %  de descuento) en el siguiente enlace!
