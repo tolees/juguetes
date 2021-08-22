@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger Color  234158  al 47.31 % de rebaja'
-date: 2021-08-20 18:52:49
+date: 2021-08-21 23:23:50
 image: 'https://m.media-amazon.com/images/I/51lueNuuwzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
