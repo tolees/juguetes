@@ -29,9 +29,9 @@ En este momento está [Fisher-Price Videoconsola retro de aprendizaje de Ríe y 
 🔎:
 
 - Enseña las direcciones, los colores, los números y las formas
-- Consola de videojuegos portátil de juguete​para bebés con luces, música y actividades manuales
 - Ideal para manitas pequeñas, con pestañas deslizantes de formas e interruptores que hacen ruido en los laterales
-- Presiona los botones o introduce el cartucho para activar luces, sonidos, canciones y frases
+- Consola de videojuegos portátil de juguete​para bebés con luces, música y actividades manuales
 - Para bebés y niños amantes de los videojuegos de entre 6 y 36 meses
+- Presiona los botones o introduce el cartucho para activar luces, sonidos, canciones y frases
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LDTNWGR/?tag=tolees-21)
