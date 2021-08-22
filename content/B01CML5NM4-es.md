@@ -28,8 +28,8 @@ Tienes [Ravensburger Color  234158 ](https://www.amazon.es/dp/B01CML5NM4/?tag=to
 
 🔎:
 
-- Tira una carta tras otra y recoge tesoros
 - Para niños mayores de 7 años
 - Travel: la versión portátil de los mayores éxitos Ravensburger
+- Tira una carta tras otra y recoge tesoros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01CML5NM4/?tag=tolees-21)

@@ -28,12 +28,12 @@ En este momento está [Devir Exit: La estación Polar  Ed Español  BGEXIT6  + E
 
 🔎:
 
+- Product 2: Exit muerte
 - Product 2: Producto de calidad
 - Product 2: Devir iberia, 227130
-- Product 1: De 1 a 4 jugadores
-- Product 1: Dificultad: medio
-- Product 2: Exit muerte
-- Product 1: Duración: 45-90 minutos
 - Product 1: A partir de los 12 años
+- Product 1: Dificultad: medio
+- Product 1: Duración: 45-90 minutos
+- Product 1: De 1 a 4 jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VKGMW8J/?tag=tolees-21)
