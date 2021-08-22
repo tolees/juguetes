@@ -28,9 +28,9 @@ Tienes [Bizak Top Fighters Arena de Combate  35000060 ](https://www.amazon.es/dp
 
 🔎:
 
-- Conviertete en el último guerrero top fighter
 - Demuestra el poder de tus luchadores
-- Incluye 1 estadio arena, 4 hojas de bloqueo, 2 figuras exclusivas, 4 puntas y 2 lanzadores
+- Conviertete en el último guerrero top fighter
 - Coloca tu top figther en su ring y lánzalo a la arena
+- Incluye 1 estadio arena, 4 hojas de bloqueo, 2 figuras exclusivas, 4 puntas y 2 lanzadores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084HCW44W/?tag=tolees-21)
