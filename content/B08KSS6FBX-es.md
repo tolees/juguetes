@@ -28,10 +28,10 @@ Está [Desconocido NACON Revolution Unlimited Pro Controller Oficial PS4 COD](ht
 
 ℹ️:
 
-- 191614
 - Buena calidad
 - País de origen: China
-- Cantidad del paquete: 1
+- 191614
 - Tipo de batería: polímero de litio de 1300 mAh
+- Cantidad del paquete: 1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KSS6FBX/?tag=tolees-21)
