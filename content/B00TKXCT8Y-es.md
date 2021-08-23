@@ -28,10 +28,10 @@ En este momento está [Theo Klein 3903 Tractor John Deere  Con cargador frontal 
 
 🔎:
 
-- Medidas: 24.5 cm x 9.5 cm x 14.5 cm, Juguete para niños a partir de tres años
 - El tractor de juguete está fabricado a escala 1:24 con diseño de John Deere
-- El tractor tiene un sistema de atornillado integrado y se puede desmontar y volver a montar con ayuda de un destornillador
-- Los pequeños aficionados a los tractores ejercitan sus habilidades motoras y su comprensión técnica al atornillar
 - Al igual que el modelo al que imita, tiene un cargador frontal y un contrapeso
+- El tractor tiene un sistema de atornillado integrado y se puede desmontar y volver a montar con ayuda de un destornillador
+- Medidas: 24.5 cm x 9.5 cm x 14.5 cm, Juguete para niños a partir de tres años
+- Los pequeños aficionados a los tractores ejercitan sus habilidades motoras y su comprensión técnica al atornillar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00TKXCT8Y/?tag=tolees-21)
