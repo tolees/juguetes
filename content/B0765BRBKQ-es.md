@@ -28,10 +28,10 @@ Tienes [LEGO 60195 City Arctic Expedition Ártico: Base móvil de exploración  
 
 ℹ️:
 
-- Contiene una grúa móvil con brazo giratorio y articulado, gancho y ruedas todoterreno, una gran plataforma de transporte, un remolque, un laboratorio móvil con antena de radar y puerta que se abre, una sierra móvil con brazo articulado y sierra giratoria, y una motonieve
-- Incluye también una figura de un mamut “congelado” dentro de un gran modelo de hielo con ladrillos blancos y azul translúcido
-- Número de piezas: 786
 - Ártico: Base móvil de exploración
+- Incluye también una figura de un mamut “congelado” dentro de un gran modelo de hielo con ladrillos blancos y azul translúcido
+- Contiene una grúa móvil con brazo giratorio y articulado, gancho y ruedas todoterreno, una gran plataforma de transporte, un remolque, un laboratorio móvil con antena de radar y puerta que se abre, una sierra móvil con brazo articulado y sierra giratoria, y una motonieve
 - Edad recomendada por el fabricante: 7-12
+- Número de piezas: 786
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0765BRBKQ/?tag=tolees-21)
