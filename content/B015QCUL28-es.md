@@ -28,10 +28,10 @@ En este momento está [Thrustmaster T300 Racing Wheel Servo Base  Base para Vola
 
 🔎:
 
-- Funciona con juegos de PS5
-- Sistema de cambio de volante rápido y sencillo: disfruta de diferentes estilos de conducción
-- Rápido motor brushless: casi 25 vatios de potencia para lograr un Force Feedback realista y sensible
-- Compatible con los juegos de pedales Thrustmaster T3PA, T3PA-PRO y T-LCM Pedals
 - Compatible con la palanca de cambios Thrustmaster TH8A y la palanca de cambios secuencial/freno de mano progresivo TSS Handbrake
+- Funciona con juegos de PS5
+- Compatible con los juegos de pedales Thrustmaster T3PA, T3PA-PRO y T-LCM Pedals
+- Rápido motor brushless: casi 25 vatios de potencia para lograr un Force Feedback realista y sensible
+- Sistema de cambio de volante rápido y sencillo: disfruta de diferentes estilos de conducción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015QCUL28/?tag=tolees-21)
