@@ -29,9 +29,9 @@ Ahora mismo tienes [Clementoni- Museum Collection-Klimt: Il Bacio Los Pingüinos
 🔎:
 
 - Elaborado con 85% de papel y tarjeta de bosques controlados
-- Tamaño de puzzle: 69 x 50 cm
-- A partir de 12 años
 - Desarrolla habilidades de observación, lógica y destreza
+- A partir de 12 años
 - Puzle de 1000 de piezas de estilo Klimt: El Beso
+- Tamaño de puzzle: 69 x 50 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0002LIEHI/?tag=tolees-21)
