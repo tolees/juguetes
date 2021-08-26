@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playstation - Plants vs. Zombies Battle  al 51.45 % de rebaja'
-date: 2021-08-23 07:37:16
+title: 'Playstation - Plants vs. Zombies Battle  al 16.13 % de rebaja'
+date: 2021-08-26 22:11:39
 image: 'https://m.media-amazon.com/images/I/51vjbI0vd+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08X7Y4GYD-es Playstation - Plants vs. Zombies Battle for Neighborville...'
 sku: 'B08X7Y4GYD-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','playstation', ]
-actualPrice: 19.9 EUR
+actualPrice: 34.38 EUR
 currency: EUR
-price: 19.9
+price: 34.38
 comparePrice: 40.99 EUR
 prodname: 'Playstation - Plants vs. Zombies Battle for Neighborville Edición Completa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08X7Y4GYD/?tag=tolees-21'
-descuento: '51.45'
-average: '28.302857142857'
+descuento: '16.13'
+average: '28.5790909090908'
 ---
 
-Tienes [Playstation - Plants vs. Zombies Battle for Neighborville Edición Completa](https://www.amazon.es/dp/B08X7Y4GYD/?tag=tolees-21) con precio final de  19.9 EUR (original: 40.99 EUR) (51.45 %  de rebaja) aqui!
+Tienes [Playstation - Plants vs. Zombies Battle for Neighborville Edición Completa](https://www.amazon.es/dp/B08X7Y4GYD/?tag=tolees-21) con precio final de  34.38 EUR (original: 40.99 EUR) (16.13 %  de rebaja) aqui!
 
 [![Playstation - Plants vs. Zombies Battle ](https://m.media-amazon.com/images/I/51vjbI0vd+L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08X7Y4GYD/?tag=tolees-21)
 
