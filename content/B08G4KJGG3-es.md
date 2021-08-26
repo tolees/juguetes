@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'LEGO 10280 Creator Expert Botanical Ramo con un 15.00 % de descuento'
+date: 2021-08-26 07:07:17
+image: 'https://m.media-amazon.com/images/I/51gAw5VKMNL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08G4KJGG3-es LEGO 10280 Creator Expert Botanical Ramo de Flores Set de...'
+sku: 'B08G4KJGG3-es'
+tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego', ]
+actualPrice: 42.49 EUR
+currency: EUR
+price: 42.49
+comparePrice: 49.99 EUR
+prodname: 'LEGO 10280 Creator Expert Botanical Ramo de Flores Set de Construcción Manualidades para Adultos Colección Botánica'
+country: 'es'
+flag: '🇪🇸'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.es/dp/B08G4KJGG3/?tag=tolees-21'
+descuento: '15.00'
+average: '75.2910596026488'
+---
+
+En este momento está [LEGO 10280 Creator Expert Botanical Ramo de Flores Set de Construcción Manualidades para Adultos Colección Botánica](https://www.amazon.es/dp/B08G4KJGG3/?tag=tolees-21) a 42.49 EUR (original: 49.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
+
+[![LEGO 10280 Creator Expert Botanical Ramo](https://m.media-amazon.com/images/I/51gAw5VKMNL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08G4KJGG3/?tag=tolees-21)
+
+🔎:
+
+- Para crear las flores se utilizan 17 inusuales elementos LEGO con formas de pétalos y colores de gran realismo; combínalas en un arreglo fuera de lo común que hará volver la vista a todos.
+- El kit de construcción LEGO Ramo de Flores (10280) es tanto un regalo exclusivo como un proyecto que favorece la atención plena: una preciosa maqueta floral para exponer que se compone íntegramente de piezas LEGO. (Jarrón no incluido).
+- ¿Buscas los mejores regalos para cumpleaños, aniversarios u ocasiones especiales
+- Deja que florezca tu imaginación con sus elementos personalizables. Coloca los pétalos y las hojas, y cambia después la longitud de los tallos para crear maravillosos arreglos que lucirán preciosos en tu hogar.
+- El Ramo de Flores LEGO forma parte de la colección LEGO Botanical. Esta revolucionaria colección emplea diversos elementos fabricados a partir de plástico de origen vegetal producido con caña de azúcar procedente de fuentes sostenibles.
+- El set LEGO Ramo de Flores es un regalo especial e inusual para tus amistades y seres queridos, o para ti, en cualquier época del año.
+- La longitud de los tallos varía. A modo de orientación, la flor boca de dragón, con su tallo recto, mide aproximadamente 36 cm de altura.
+- El Ramo de Flores ofrece un vibrante despliegue de colores e interesantes formas que se inspiran en flores reales como las rosas, las bocas de dragón, las amapolas, los asteres, las margaritas y distintos tipos de follaje.
+- Los componentes LEGO cumplen las normas más rigurosas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí, y se conectan y separan fácilmente una y otra vez; así ha sido desde 1958.
+- Al ser el primer Ramo de Flores LEGO, este set incluye una amplia diversidad de nuevos colores y formas que encantarán a los fans de LEGO adultos.
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B08G4KJGG3/?tag=tolees-21)
