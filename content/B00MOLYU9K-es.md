@@ -30,8 +30,8 @@ Tienes [Playstation - PSN Plus - Tarjeta para 365 días  Reedición  Código Dig
 
 - Plataforma recomendada: PlayStation 4
 - Disponible con almacenamiento online
-- Disfruta de las mejores condiciones para jugar
-- Tipo de producto: tarjeta de Sony
 - Este producto sólo contiene contenido digital
+- Tipo de producto: tarjeta de Sony
+- Disfruta de las mejores condiciones para jugar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21)
