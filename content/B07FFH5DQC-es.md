@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.18 % en Warner Bros Interactive Spain - Lego DC '
-date: 2021-08-19 08:42:04
+date: 2021-08-27 21:15:33
 image: 'https://m.media-amazon.com/images/I/51dUj1VlxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21'
 descuento: '17.18'
-average: '18.0725'
+average: '17.8284615384615'
 ---
 
 Tienes [Warner Bros Interactive Spain - Lego DC Super-Villans Nintendo Switch  Edición Estándar](https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21) con un 17.18 % de descuento con precio de oferta de 14.9 EUR (original: 17.99 EUR) en el siguiente enlace!
