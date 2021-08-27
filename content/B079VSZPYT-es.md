@@ -29,8 +29,8 @@ Tienes [Fur Real Friends - Furreal Friends Rex Comilón  Hasbro E0387EU4 ](https
 🔎:
 
 - Responde con más de 35 combinaciones de sonidos y movimientos
+- Salta y pide sus galletitas con muchas ganas
 - Geniales sonidos del hábitat prehistórico de los dinosaurios
 - Le encanta la diversión a la hora de comer
-- Salta y pide sus galletitas con muchas ganas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079VSZPYT/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Goula  Go Gorilla  Juego de mesa preescolar a partir de 3 a�
 
 🔎:
 
-- Este juego tiene tres modalidades distintas: juego cooperativo, competitivo y modo libre
-- Construir una palmera y colocar el mono en lo alto sin que se caiga, Cuidado con el gorila que tratará de derribar el árbol!
 - Habilidades que desarrolla: el trabajo en equipo y el respeto por las reglas; desarrolla las habilidades psicomotoras
 - Número de jugadores: de 1 a 4 jugadores
+- Este juego tiene tres modalidades distintas: juego cooperativo, competitivo y modo libre
+- Construir una palmera y colocar el mono en lo alto sin que se caiga, Cuidado con el gorila que tratará de derribar el árbol!
 - Contenido: mono, gorila, dado, 9 troncos de palmera de madera, 8 hojas de palmera, 4 fichas plátano, base del juego y rampa de cartón y instrucciones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PJT7ZLJ/?tag=tolees-21)

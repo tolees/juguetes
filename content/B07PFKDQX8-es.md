@@ -28,8 +28,8 @@ En este momento está [Tranjis Games - POC! - Juego de mesa  TRG-014poc ](https:
 
 🔎:
 
-- Edad recomendada a partir de 6 años
-- Juego de habilidad
 - De 2 a 4 jugadores
+- Juego de habilidad
+- Edad recomendada a partir de 6 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PFKDQX8/?tag=tolees-21)
