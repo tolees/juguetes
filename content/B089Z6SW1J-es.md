@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Pro al 38.89 % de descuento'
-date: 2021-08-27 18:07:54
+date: 2021-08-28 19:05:00
 image: 'https://m.media-amazon.com/images/I/516weea9YrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B089Z6SW1J/?tag=tolees-21'
 descuento: '38.89'
-average: '25.2943999999998'
+average: '24.7434615384613'
 ---
 
 Está [BANDAI NAMCO Entertainment Iberica - Project Cars 3](https://www.amazon.es/dp/B089Z6SW1J/?tag=tolees-21) con 38.89 de descuento por 10.97 EUR (original: 17.95 EUR) en el siguiente enlace!
