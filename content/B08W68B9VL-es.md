@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superthings Cepillo Dental Infantil 21 g al 15.32 % de rebaja'
-date: 2021-08-14 06:21:13
+date: 2021-08-29 13:24:01
 image: 'https://m.media-amazon.com/images/I/41IrI+yXDnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superthings'
 buyurl: 'https://www.amazon.es/dp/B08W68B9VL/?tag=tolees-21'
 descuento: '15.32'
-average: '2.34052631578947'
+average: '2.30714285714286'
 ---
 
 Tienes [Superthings Cepillo Dental Infantil 21 g](https://www.amazon.es/dp/B08W68B9VL/?tag=tolees-21) con precio final de  1.99 EUR (original: 2.35 EUR) (15.32 %  de rebaja) aqui!
