@@ -28,10 +28,10 @@ En este momento está [Fitfiu Fitness BESP-100 - Bicicleta indoor con disco de i
 
 🔎:
 
-- Cuenta con un sistema de transmisión de correa Silent+ para hacer compatible hogar y deporte
 - Sillín y manillar acolchados y ajustables
 - Pulsómetro en el manillar para recibir información sobre la frecuencia cardíaca
-- Equipada con un disco de inercia de 16 kg
 - Dispone de diferentes niveles de resistencia para ajustar el nivel de dificultad del ejercicio
+- Cuenta con un sistema de transmisión de correa Silent+ para hacer compatible hogar y deporte
+- Equipada con un disco de inercia de 16 kg
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PRXK8RM/?tag=tolees-21)

@@ -29,14 +29,14 @@ En este momento está [Warner Bros Interactive Spain  VG  - PS Hits: Lego Batman
 🔎:
 
 - Juega como más de 100 personajes únicos del universo de DC Cómics
-- Hackear ordenadores; Entra en un mundo virtual para escapar de laberintos, combatir en las arenas, y correr para encontrar el código
-- Combates con un estilo espectacular y personalizado
 - Una aventura con 45 misiones basadas en una historia original, dinámica y rápida
+- Combates con un estilo espectacular y personalizado
 - Una historia original; Los trajes sorprendentes, las habilidades de control mental de Brainiac y el poder de los anillos Lantern, le darán un nuevo giro a la personalidad de personajes que creías conocer
-- Elenco de actores espectacular, con una lista de actores increíble; Mucho de ellos retomando su papel de los anteriores juegos de LEGO Batman incluyendo: Troy Baker (Batman); Travis Willingham (Superman); Christopher Cory Smith (The Joker); Laura Bailey (Wonder Woman y Catwoman); Dee Bradley Baker (Brainiac); Josh Keaton (Green Lantern); Scott Porter (Aquaman), Y nada más y nada menos que el Batman de los años 60 ¡Adam West!
-- Emocionantes combates espaciales; Lucha con Batman y sus aliados en el espacio exterior, visitando varios mundos Lantern como Zamaron y Odym
 - Entornos icónicos; Visita el Salón de Justicia, la Batcueva, o La Atalaya de la Liga de la Justicia para acceder a tiendas y salas de trofeos o personalizar héroes y vehículos
+- Elenco de actores espectacular, con una lista de actores increíble; Mucho de ellos retomando su papel de los anteriores juegos de LEGO Batman incluyendo: Troy Baker (Batman); Travis Willingham (Superman); Christopher Cory Smith (The Joker); Laura Bailey (Wonder Woman y Catwoman); Dee Bradley Baker (Brainiac); Josh Keaton (Green Lantern); Scott Porter (Aquaman), Y nada más y nada menos que el Batman de los años 60 ¡Adam West!
 - Gadgets Bat-tásticos; Sólo presionando un botón puedes elegir entre los diferentes trajes de los personajes y mejorarlos junto a sus habilidades
 - Elenco de héroes y villanos de DC Comics; Juega y desbloquea más de 150 personajes únicos con increíbles poderes y habilidades, incluyendo a miembros de la Liga de la Justicia y grandes figuras de LEGO como Cyborg, Solomon Grundy y muchos más
+- Emocionantes combates espaciales; Lucha con Batman y sus aliados en el espacio exterior, visitando varios mundos Lantern como Zamaron y Odym
+- Hackear ordenadores; Entra en un mundo virtual para escapar de laberintos, combatir en las arenas, y correr para encontrar el código
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086F38RBF/?tag=tolees-21)
