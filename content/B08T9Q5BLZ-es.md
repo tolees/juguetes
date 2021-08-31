@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.43 % en Asmodee - BrainBox España - Juego de Mes'
-date: 2021-08-30 12:57:43
+date: 2021-08-31 13:57:34
 image: 'https://m.media-amazon.com/images/I/61x8Va3FCcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [Asmodee - BrainBox España - Juego de Mesa en Español](https://www.amaz
 ℹ️:
 
 - te ayudará a mejorar tus habilidades de observación y memoria, así como a aumentar tu conocimiento sobre nuestro mundo.
-- A partir de 8 Años de Edad
 - Para 1 o mas Jugadores
 - Intenta memorizar las imágenes de tu carta en 10 segundos. A continuación, tendrás que responder a una pregunta sobre la carta que has visto.
 - ¿Qué puedes ver en 10 segundos?
+- A partir de 8 Años de Edad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08T9Q5BLZ/?tag=tolees-21)
