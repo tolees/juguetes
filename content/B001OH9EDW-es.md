@@ -28,9 +28,9 @@ Tienes [Libellud Dixit original - Juego de mesa  Edición 2019](https://www.amaz
 
 🔎:
 
-- Adecuado para 3-6 jugadores no menores de 8 años
-- Sencillo y familiar, con cada imagen cuenta una historia - pero ¿qué historia?
 - 30 minutos de tiempo de juego
+- Sencillo y familiar, con cada imagen cuenta una historia - pero ¿qué historia?
+- Adecuado para 3-6 jugadores no menores de 8 años
 - Más de 1.5 millones de copias vendidas y numerosos premios internacionales
 - Incluye 84 tarjetas con bellas ilustraciones
 
