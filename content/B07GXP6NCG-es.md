@@ -28,8 +28,8 @@ Está [Matagot - Cyclades  Juego de mesa de estrategia - de 2 a 5 jugadores  ed.
 
 ℹ️:
 
-- Domina al resto de civilizaciones y expande el dominio de tu polis hasta el último confín del mediterráneo.
-- De 2 a 5 jugadores
 - Juego de estrategia ambientado en la Antigua Grecia
+- De 2 a 5 jugadores
+- Domina al resto de civilizaciones y expande el dominio de tu polis hasta el último confín del mediterráneo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GXP6NCG/?tag=tolees-21)

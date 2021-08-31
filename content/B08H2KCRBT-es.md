@@ -28,10 +28,10 @@ Ahora mismo tienes [Plaid Hat Games - Forgotten Waters ¡Desaventuras de Piratas
 
 🔎:
 
-- Recomendado a Partir de 14 Años de Edad
-- Nota: Es necesaria una app para jugar a Forgotten Waters.
-- Juego de 3 a 7 Jugadores
 - Juego de Mesa en Español
 - Con una duración de 30-120 Minutos por partida
+- Nota: Es necesaria una app para jugar a Forgotten Waters.
+- Recomendado a Partir de 14 Años de Edad
+- Juego de 3 a 7 Jugadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2KCRBT/?tag=tolees-21)
