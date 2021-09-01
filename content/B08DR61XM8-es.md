@@ -30,8 +30,8 @@ En este momento está [Hasbro Super Mario Bros: Monopoly](https://www.amazon.es/
 
 - Licencia oficial
 - Tablero personalizado
-- Peones personalizados
 - 2 a 4 jugadores
+- Peones personalizados
 - Caja ilustrada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21)
