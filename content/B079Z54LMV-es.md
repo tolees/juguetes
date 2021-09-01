@@ -29,7 +29,7 @@ Tienes [Marvel Avengers- Iron Man Vs. Thanos Set de Combate  Hasbro E0559105 ](h
 🔎:
 
 - Pack de 2 figuras de 15 cm de la película de Los Vengadores: La Guerra del Infinito
-- Edad mínima recomendada a partir de 4 años
 - Incluye a Thanos y Iron Man
+- Edad mínima recomendada a partir de 4 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079Z54LMV/?tag=tolees-21)

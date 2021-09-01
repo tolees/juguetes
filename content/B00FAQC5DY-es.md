@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.71 % en Devir - El señor de los Anillos  Juego d'
-date: 2021-08-11 08:27:59
+date: 2021-09-01 10:07:03
 image: 'https://m.media-amazon.com/images/I/51MFIygoAhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B00FAQC5DY/?tag=tolees-21'
 descuento: '27.71'
-average: '8.192'
+average: '8.23047619047619'
 ---
 
 Tienes [Devir - El señor de los Anillos  Juego de Cartas  BGANIMN ](https://www.amazon.es/dp/B00FAQC5DY/?tag=tolees-21) con un 27.71 % de descuento con precio de oferta de 9.0 EUR (original: 12.45 EUR) en el siguiente enlace!

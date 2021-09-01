@@ -29,9 +29,9 @@ Ahora mismo tienes [Devir - Sushi Go Party: edición en Castellano  juego de mes
 🔎:
 
 - Número de jugadores: 2 - 8
-- Edad recomendada: 8 años y más
 - Juego adecuado para pasar el tiempo libre
 - Duración aproximada de la partida: 20 min
 - Tipo de producto: juego de mesa
+- Edad recomendada: 8 años y más
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N0I2Q2F/?tag=tolees-21)
