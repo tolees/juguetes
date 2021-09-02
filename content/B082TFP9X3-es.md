@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aurotek Sintra Bicicleta Eléctrica  e-bi con un 50.38 % de descuento'
-date: 2021-08-25 02:45:34
+date: 2021-09-02 14:59:37
 image: 'https://m.media-amazon.com/images/I/41KeYRyHwEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Aurotek'
 buyurl: 'https://www.amazon.es/dp/B082TFP9X3/?tag=tolees-21'
 descuento: '50.38'
-average: '657.9925'
+average: '650.993333333333'
 ---
 
 En este momento está [Aurotek Sintra Bicicleta Eléctrica  e-bike  Plegable/foldable de 20"  Adultos Unisex  Ocean Blue](https://www.amazon.es/dp/B082TFP9X3/?tag=tolees-21) a 595.0 EUR (original: 1199.0 EUR) (50.38 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Aurotek Sintra Bicicleta Eléctrica  e-bike  Plegable/fol
 
 🔎:
 
-- Llantas de aluminio; ruedas de 20 pulgadas / 1,195"; plato y vielas de aluminio; guardabarros a juego con el color del marco; porta equipajes trasero; asiento de aluminio
 - Bicicleta eléctrica plegable de 20" de alta gama, calidad premium; horquilla de alta gama zoom monoblock de aluminio
-- Frenos de disco hidráulicos shimano mt200 delanteros y traseros; frewheel shimano; sillín y empuñaduras ergonómicas velo plus; llantas de aluminio
-- Sistema de pedaleo asistido con 5 niveles de asistencia; potente motor de 250w / 33v con 60nm de par y sensor de 12 puntos
+- Llantas de aluminio; ruedas de 20 pulgadas / 1,195"; plato y vielas de aluminio; guardabarros a juego con el color del marco; porta equipajes trasero; asiento de aluminio
 - Potente batería samsung extraíble y oculta en el marco de ultima generacion y gran capacidad 500wh; cambio shimano altus 8 velocidades
+- Sistema de pedaleo asistido con 5 niveles de asistencia; potente motor de 250w / 33v con 60nm de par y sensor de 12 puntos
+- Frenos de disco hidráulicos shimano mt200 delanteros y traseros; frewheel shimano; sillín y empuñaduras ergonómicas velo plus; llantas de aluminio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082TFP9X3/?tag=tolees-21)
