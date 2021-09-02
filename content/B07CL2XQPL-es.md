@@ -28,10 +28,10 @@ Ahora mismo tienes [Fisher-Price Mi primer mando de consola  juguete de aprendiz
 
 🔎:
 
-- Al mover la palanca de mando y al pulsar los botones en forma de letras y las teclas con números de la consola de juguete, se activan aprendizajes
 - El mando para bebés ofrece 2 opciones musicales: aprender y jugar
-- Mando de juguete con cara luminosa de varios colores
-- Gira el disco y mueve el interruptor para hacer juegos de motricidad fina con este mando de juguete para bebé
 - Este mando para bebés enseña las formas, los colores, el abecedario, los números y más
+- Gira el disco y mueve el interruptor para hacer juegos de motricidad fina con este mando de juguete para bebé
+- Al mover la palanca de mando y al pulsar los botones en forma de letras y las teclas con números de la consola de juguete, se activan aprendizajes
+- Mando de juguete con cara luminosa de varios colores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CL2XQPL/?tag=tolees-21)
