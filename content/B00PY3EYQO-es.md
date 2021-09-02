@@ -28,12 +28,12 @@ En este momento está [LEGO 10698 Classic Caja de Ladrillos Creativos Grande  Ju
 
 🔎:
 
+- Contiene 8 tipos diferentes de ventanas y puertas con 8 marcos diferentes.
+- Las piezas especiales fomentan el juego de construcción imaginativo.
+- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
+- Piezas especiales incluidas: 2 bases verdes de tamaños diferentes, 3 juegos de ojos, 6 neumáticos y 6 llantas.
 - Las numerosas ventanas y puertas facilitan la construcción con LEGO Classic.
 - Incluye un amplio surtido de ladrillos LEGO en 33 colores diferentes.
-- Las piezas especiales fomentan el juego de construcción imaginativo.
-- Piezas especiales incluidas: 2 bases verdes de tamaños diferentes, 3 juegos de ojos, 6 neumáticos y 6 llantas.
-- Contiene 8 tipos diferentes de ventanas y puertas con 8 marcos diferentes.
 - Todos los modelos ilustrados se pueden construir simultáneamente a partir de este set.
-- LEGO Classic ha sido diseñado para dar rienda suelta a la creatividad por medio del ladrillo LEGO.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00PY3EYQO/?tag=tolees-21)
