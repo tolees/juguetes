@@ -28,9 +28,9 @@ Tienes [Devir- BGOPTIM Juego de Estrategia  Optimus  Multicolor](https://www.ama
 
 🔎:
 
-- Número de jugadores: 1-4
-- Edad recomendada: 8 años
 - Explora nuestra gama de productos
+- Edad recomendada: 8 años
+- Número de jugadores: 1-4
 - Tiempo de juego: 30 minutos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WJW9R44/?tag=tolees-21)

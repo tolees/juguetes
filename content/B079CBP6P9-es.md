@@ -29,9 +29,9 @@ Tienes [Paladone- Lámpara Playstation Icons con 3 Modos de luz - lámpara que r
 🔎:
 
 - Especificaciones: lámpara que funciona con pilas o USB, approx. 30cm de largo y 10cm de alto. ( cable USB incluído, 3 pilas x AAA no incluídas). Producto de licencia oficial.
-- ROMPER EL HIELO: cuando organices tu próxima fiesta o noche de juegos en casa, todo el mundo hablará de tu icónica y original lámpara Playstations Icons. Se reconoce al instante, todo el mundo querrá una!
-- Regalo perfecto: esta lámpara Playstation Icons se reconoce al instante y es un gran regalo para geeks y fans de la famosa consola. Perfecta para regalar en cualquier ocasión o para un cumpleaños.
-- Modo de luz: esta lámpara tiene 3 modos de luz diferentes, con modo estándar de luz fija y efecto especial de cambio de colores. Reacciona con la música. Usa esta original lámpara para una habitación temática.
 - ILUMINA LA NOCHE: ilumina tu habitación con los símbolos e iconos de la mundialmente conocida consola Playstation. La lámpara PlayStation icon liumina la oscuridad con un suave brillo colorido.
+- Regalo perfecto: esta lámpara Playstation Icons se reconoce al instante y es un gran regalo para geeks y fans de la famosa consola. Perfecta para regalar en cualquier ocasión o para un cumpleaños.
+- ROMPER EL HIELO: cuando organices tu próxima fiesta o noche de juegos en casa, todo el mundo hablará de tu icónica y original lámpara Playstations Icons. Se reconoce al instante, todo el mundo querrá una!
+- Modo de luz: esta lámpara tiene 3 modos de luz diferentes, con modo estándar de luz fija y efecto especial de cambio de colores. Reacciona con la música. Usa esta original lámpara para una habitación temática.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21)
