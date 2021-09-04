@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell GC-DP 7835 -Bomba de aguas sucia con un 28.29 % de descuento'
-date: 2021-08-31 09:00:58
+date: 2021-09-04 18:54:43
 image: 'https://m.media-amazon.com/images/I/319YafzAl4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00B18KAEG/?tag=tolees-21'
 descuento: '28.29'
-average: '48.1065384615385'
+average: '47.9170370370371'
 ---
 
 En este momento está [Einhell GC-DP 7835 -Bomba de aguas sucias 780W  capacidad de 15.700 l/h  profundidad max. de inversión 7m  conexión de manguera 47.8mm  cuerpos extraños hasta 35 mm  interruptor de flotador continuo ](https://www.amazon.es/dp/B00B18KAEG/?tag=tolees-21) a 42.99 EUR (original: 59.95 EUR) (28.29 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Einhell GC-DP 7835 -Bomba de aguas sucias 780W  capacidad
 
 🔎:
 
-- Recogida del cable
-- Asa de transporte
 - Conexión universal para mangueras de 25 mm y 32 mm, así como rosca exterior G 1 (aprox. 33.3 mm)
-- Junta de anillo deslizante de alta calidad
-- Detector del nivel del agua con altura regulable sin escalonamientos
-- Carcasa de la bomba de acero fino
 - Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
+- Carcasa de la bomba de acero fino
+- Detector del nivel del agua con altura regulable sin escalonamientos
+- Junta de anillo deslizante de alta calidad
+- Asa de transporte
+- Recogida del cable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00B18KAEG/?tag=tolees-21)

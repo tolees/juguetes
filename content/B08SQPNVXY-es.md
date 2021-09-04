@@ -28,10 +28,10 @@ En este momento está [Lehoo Castle Pistola de Agua  12 Pistolas de Espuma para 
 
 🔎:
 
+- 【Ligero y portátil】: Nuestra pistola de agua para niños reemplaza la tradicional pistola de agua pesada con espuma perlada suave y ajustada. El tamaño perfecto de 8.4 pulgadas y el peso liviano es fácil de transportar, lo que le permite comenzar una batalla de verano fácilmente con amigos o familiares en cualquier momento.
 - 【Último diseño en 2021】: Diseñado con material ABS grueso e inodoro para mejorar la durabilidad, pero también utiliza una tecnología única para bloquear el aceite lubricante en la tubería y evitar que fluya, lo que garantiza su comodidad al jugar.
 - 【Paquete de pistola de agua potente】 - Dispara hasta 30 pies (9,1 m), adecuado para peleas de agua de largo alcance con tus amigos y familiares.
-- 【Ergonómico y seguro】: el mango antideslizante de la pistola de agua está hecho de material EVA diseñado en forma de cabeza redonda, que es ergonómico, fácil de agarrar y seguro para sus manos, apto para la delicada mano de los niños.
 - 【Regalo ideal en verano】: es un gran regalo para que sus hijos reduzcan el tiempo frente a la pantalla, establezcan una buena interacción entre padres e hijos y aumenten el interés por las actividades al aire libre. Involucra a todos y disfruta de grandes peleas de agua, ideales para playa, piscina, fiesta de verano, tema tropical, parque de vacaciones o fiesta de cumpleaños.
-- 【Ligero y portátil】: Nuestra pistola de agua para niños reemplaza la tradicional pistola de agua pesada con espuma perlada suave y ajustada. El tamaño perfecto de 8.4 pulgadas y el peso liviano es fácil de transportar, lo que le permite comenzar una batalla de verano fácilmente con amigos o familiares en cualquier momento.
+- 【Ergonómico y seguro】: el mango antideslizante de la pistola de agua está hecho de material EVA diseñado en forma de cabeza redonda, que es ergonómico, fácil de agarrar y seguro para sus manos, apto para la delicada mano de los niños.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SQPNVXY/?tag=tolees-21)
