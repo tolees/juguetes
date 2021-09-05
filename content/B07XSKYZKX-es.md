@@ -28,10 +28,10 @@ Ahora mismo tienes [tomtoc Funda de Transporte para Nintendo Switch Lite  Case P
 
 🔎:
 
-- Fácil de llevar: Una correa de mano ajustable le permite agarrarla o llevarla de manera cómoda y conveniente. El perfil delgado hace que la funda se coloque en otra mochila o bolsa fácilmente sin ocupar demasiado espacio.
-- Protección duradera: Cubierta rígida y resistente por fuera para proteger su dispositivo libre de golpes y caídas y material interior suave para evitar rasguños en el dispositivo.
-- Único diseño patentado: El diseño exterior de la funda para Nintendo Switch Lite está protegido por su apariencia patentada en todo el mundo. Esta funda de transporte también se adapta a Nintendo Switch Lite consola con una carcasa tomtoc y muchas otras marcas.
 - Alta calidad: El exterior rígido y duradero de la funda es resistente a salpicaduras. La cremallera YKK personalizada de alta resistencia mejora su vida útil.
 - Almacenamienro grande: Una hoja de almacenamiento plegable contiene hasta 24 tarjetas de juego, lo que le permite organizar sus juegos favoritos fácilmente. Un bolsillo de malla está diseñado para ayudar a guardar los accesorios más pequeños.
+- Único diseño patentado: El diseño exterior de la funda para Nintendo Switch Lite está protegido por su apariencia patentada en todo el mundo. Esta funda de transporte también se adapta a Nintendo Switch Lite consola con una carcasa tomtoc y muchas otras marcas.
+- Protección duradera: Cubierta rígida y resistente por fuera para proteger su dispositivo libre de golpes y caídas y material interior suave para evitar rasguños en el dispositivo.
+- Fácil de llevar: Una correa de mano ajustable le permite agarrarla o llevarla de manera cómoda y conveniente. El perfil delgado hace que la funda se coloque en otra mochila o bolsa fácilmente sin ocupar demasiado espacio.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XSKYZKX/?tag=tolees-21)
