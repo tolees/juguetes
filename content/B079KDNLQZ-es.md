@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juegos Mattel - Mattel Games - Baño Boom al 26.10 % de rebaja'
-date: 2021-09-04 01:17:41
+date: 2021-09-05 13:20:50
 image: 'https://m.media-amazon.com/images/I/51-7AmvpLSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Juegos Mattel'
 buyurl: 'https://www.amazon.es/dp/B079KDNLQZ/?tag=tolees-21'
 descuento: '26.10'
-average: '19.6593090909094'
+average: '19.6496376811597'
 ---
 
 Tienes [Juegos Mattel - Mattel Games - Baño Boom  Atrapa la Caca  Juego de mesa infantil  FWW30   versiones surtidas](https://www.amazon.es/dp/B079KDNLQZ/?tag=tolees-21) con precio final de  16.99 EUR (original: 22.99 EUR) (26.10 %  de rebaja) aqui!
