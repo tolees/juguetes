@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Exit 11  La mansión siniestra  BG al 20.20 % de descuento'
-date: 2021-09-02 21:01:28
+date: 2021-09-05 08:24:12
 image: 'https://m.media-amazon.com/images/I/51T+1Rpae-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21'
 descuento: '20.20'
-average: '12.1433333333333'
+average: '12.126'
 ---
 
 Ahora mismo tienes [Devir- Exit 11  La mansión siniestra  BGEXIT11 ](https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21) a 11.97 EUR (original: 15.0 EUR) (20.20 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir- Exit 11  La mansión siniestra  BGEXIT11 ](https://ww
 
 🔎:
 
-- Juego adecuado para pasar el tiempo libre
 - Número de jugadores: 1 - 4
+- Juego adecuado para pasar el tiempo libre
 - Edad recomendada: 10 años y más
-- Duración aproximada de la partida: 45 - 90 minutos
 - Tipo de producto: juego de mesa
+- Duración aproximada de la partida: 45 - 90 minutos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21)

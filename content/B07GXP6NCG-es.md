@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Matagot - Cyclades  Juego de mesa de est al 20.02 % de descuento'
-date: 2021-08-31 13:57:17
+date: 2021-09-05 08:26:27
 image: 'https://m.media-amazon.com/images/I/51o9kmHIV4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Matagot'
 buyurl: 'https://www.amazon.es/dp/B07GXP6NCG/?tag=tolees-21'
 descuento: '20.02'
-average: '53.985'
+average: '52.784'
 ---
 
 Está [Matagot - Cyclades  Juego de mesa de estrategia - de 2 a 5 jugadores  ed. en español](https://www.amazon.es/dp/B07GXP6NCG/?tag=tolees-21) con 20.02 de descuento por 47.98 EUR (original: 59.99 EUR) en el siguiente enlace!
