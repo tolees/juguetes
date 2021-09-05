@@ -28,14 +28,14 @@ En este momento está [LEGO Set de Batalla Legendaria: Jay vs. Serpentine](https
 
 🔎:
 
-- Recrea batallas legendarias al estilo LEGO NINJAGO aún más espectaculares combinándolo con estos otros sets: Kai vs. Skulkin (71730), Zane vs. Nindroide (71731) y Cole vs. Guerrero Fantasma (71733).
-- Este kit de iniciación LEGO de solo 69 piezas tiene el tamaño perfecto para jóvenes constructores a partir de 6 años y les encantará recibirlo como obsequio con motivo de alguna fecha especial o como regalo sorpresa.
-- Los sets LEGO NINJAGO alejan a los niños de sus pantallas y los trasladan a un mundo de juego imaginativo en el que aprenden habilidades positivas para la vida participando en aventuras junto a sus héroes ninja.
 - El juguete de combate ninja incluye también una estatua de una serpiente para construir y una plataforma de combate giratoria que Jay usará en el ardor de las batallas para derribar a su oponente.
-- El Set de Batalla Legendaria: Jay vs. Serpentine LEGO NINJAGO (71732) proporciona a los peques todo necesario para interpretar agotadores duelos entre Jay, su héroe ninja, y el infame Serpentine.
+- Este kit de iniciación LEGO de solo 69 piezas tiene el tamaño perfecto para jóvenes constructores a partir de 6 años y les encantará recibirlo como obsequio con motivo de alguna fecha especial o como regalo sorpresa.
 - La estatua de la serpiente mide aproximadamente 3 cm de altura, 6 cm de anchura y 7 cm de profundidad: un tamaño fantástico para jugar en casa o para continuar la diversión en casa de un amigo.
-- Desde hace más de seis décadas, los ladrillos LEGO se fabrican con materiales de máxima calidad para garantizar que siempre se separen fácilmente. ¡No te hará falta usar tus habilidades ninja!
+- El Set de Batalla Legendaria: Jay vs. Serpentine LEGO NINJAGO (71732) proporciona a los peques todo necesario para interpretar agotadores duelos entre Jay, su héroe ninja, y el infame Serpentine.
+- Recrea batallas legendarias al estilo LEGO NINJAGO aún más espectaculares combinándolo con estos otros sets: Kai vs. Skulkin (71730), Zane vs. Nindroide (71731) y Cole vs. Guerrero Fantasma (71733).
+- Los sets LEGO NINJAGO alejan a los niños de sus pantallas y los trasladan a un mundo de juego imaginativo en el que aprenden habilidades positivas para la vida participando en aventuras junto a sus héroes ninja.
 - Este juego de juguetes ninja cuenta con 2 minifiguras: Jay (novedad en enero de 2021) y Serpentine Legacy, de la serie para televisión LEGO NINJAGO; además, cuenta con 4 exclusivas Armas Azules.
+- Desde hace más de seis décadas, los ladrillos LEGO se fabrican con materiales de máxima calidad para garantizar que siempre se separen fácilmente. ¡No te hará falta usar tus habilidades ninja!
 - Los ladrillos para construir LEGO satisfacen los requisitos de las normas de seguridad más exigentes del mundo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08G4W8KSZ/?tag=tolees-21)
