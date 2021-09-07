@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BANDAI NAMCO Entertainment Iberica - Cap al 42.87 % de descuento'
-date: 2021-08-23 07:54:41
+title: 'BANDAI NAMCO Entertainment Iberica - Cap al 33.14 % de descuento'
+date: 2021-09-07 08:42:27
 image: 'https://m.media-amazon.com/images/I/51rQPLTh2HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Vide
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 34.99 EUR
+comparePrice: 29.9 EUR
 prodname: 'BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise Of New Champions'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21'
-descuento: '42.87'
-average: '37.2262068965517'
+descuento: '33.14'
+average: '36.114193548387'
 ---
 
-Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise Of New Champions](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21) a 19.99 EUR (original: 34.99 EUR) (42.87 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Captain Tsubasa: Rise Of New Champions](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21) a 19.99 EUR (original: 29.9 EUR) (33.14 %  de descuento) en el siguiente enlace!
 
 [![BANDAI NAMCO Entertainment Iberica - Cap](https://m.media-amazon.com/images/I/51rQPLTh2HL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0849CT7TF/?tag=tolees-21)
 
