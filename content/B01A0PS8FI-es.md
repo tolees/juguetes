@@ -30,7 +30,7 @@ En este momento está [BG BE THE GAME - Cascos Gaming BG Typhoon - Auriculares c
 
 - Compatible con PC, PS4, PS5, XBOX ONE, XBOX ONE X/S, XBOX SERIES X/S, Nintendo Switch, smartphones y tablets *Compatibilidad XBOX ONE: Todo auricular con conexión jack es compatible, pero es necesario un adaptador de audio no incluido.
 - Control de volumen y micrófono en el auricular
-- Auriculares de 40 mm de gran calidad de sonido
 - Micrófono abatible
+- Auriculares de 40 mm de gran calidad de sonido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01A0PS8FI/?tag=tolees-21)

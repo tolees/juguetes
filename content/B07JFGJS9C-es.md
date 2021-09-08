@@ -28,9 +28,9 @@ Tienes [BG BE THE GAME - Cascos Gaming BG RADAR - Auriculares con microfono  Son
 
 🔎:
 
-- Conexión. 3, 5 mm jack, longitud cable 2, 1 m, peso 400g
-- Compatibilidad. Ps4, PS5, xbox (requiere adaptador), switch, pc
 - Auriculares - diámetro 40 mm, frecuencia de respuesta 20 hz- 20. 000 hz, impedancia 32 ohms, sensibilidad 108 db
 - Micrófono diámetro 6. 0 x 5. 0 mm, frecuencia de respuesta 30 hz- 16 khz, sensibilidad 41 db
+- Compatibilidad. Ps4, PS5, xbox (requiere adaptador), switch, pc
+- Conexión. 3, 5 mm jack, longitud cable 2, 1 m, peso 400g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JFGJS9C/?tag=tolees-21)
