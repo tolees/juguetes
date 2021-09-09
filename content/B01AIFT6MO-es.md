@@ -28,11 +28,11 @@ Está [Nenuco - Blandito 5 Funciones Rosa  hace sonidos como un bebé de verdad 
 
 ℹ️:
 
-- Un Nenuco incluido que mide unos 30 centímetros y es de cuerpo blandito
-- Tiene hasta 5 funciones interactivas: dice mamá y papá, llora, se ríe, llora y hace sonidos de chupete
-- Juguete indicado para bebés a partir de 12 meses
 - Vestido con la ropita cosida al cuerpo, no intercambiable
-- Las pilas vienen incluidas en el set
+- Un Nenuco incluido que mide unos 30 centímetros y es de cuerpo blandito
 - Juego indicado para el aprendizaje y la imitación de roles
+- Tiene hasta 5 funciones interactivas: dice mamá y papá, llora, se ríe, llora y hace sonidos de chupete
+- Las pilas vienen incluidas en el set
+- Juguete indicado para bebés a partir de 12 meses
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AIFT6MO/?tag=tolees-21)
