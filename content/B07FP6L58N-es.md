@@ -28,13 +28,13 @@ En este momento está [LEGO 42090 Technic Camión de Huida con Motor de Carga 
 
 🔎:
 
-- Hazte con el Cazador Policial (42091), también equipado con motor de carga manual, ¡e interpreta emocionantes persecuciones!
-- Cuenta con un potente motor de carga manual, llantas de gran anchura, enormes y gruesos neumáticos, 2 grandes tubos de escape laterales y parachoques delantero de gran resistencia.
-- ¡Contempla la combinación de colores en rojo, negro y gris, con adhesivos de llamas para transmitir una característica imagen de chico malo!
 - Este vehículo para jugar ayuda a los nuevos constructores LEGO Technic a desarrollar sus habilidades motrices y su creatividad.
+- El modelo combinado Gran 4x4 mide más de 10 cm de altura, 23 cm de longitud y 10 cm de ancho.
+- Cuenta con un potente motor de carga manual, llantas de gran anchura, enormes y gruesos neumáticos, 2 grandes tubos de escape laterales y parachoques delantero de gran resistencia.
+- Hazte con el Cazador Policial (42091), también equipado con motor de carga manual, ¡e interpreta emocionantes persecuciones!
+- Activa el motor de carga manual para lanzar el imparable Camión de Huida.
 - Combínalo con el Cazador Policial (42091), también equipado con motor de carga manual, para crear el impresionante modelo combinado Gran 4x4.
 - El Camión de Huida mide más de 7 cm de altura, 18 cm de longitud y 10 cm de ancho.
-- Activa el motor de carga manual para lanzar el imparable Camión de Huida.
-- El modelo combinado Gran 4x4 mide más de 10 cm de altura, 23 cm de longitud y 10 cm de ancho.
+- ¡Contempla la combinación de colores en rojo, negro y gris, con adhesivos de llamas para transmitir una característica imagen de chico malo!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FP6L58N/?tag=tolees-21)
