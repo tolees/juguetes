@@ -28,10 +28,10 @@ Tienes [HyperX Cloud Alpha Pro  Cascos de Gaming con Cable Trenzado Extraíble  
 
 🔎:
 
+- Reconocida comodidad exclusiva de HyperX
+- Cable trenzado extraíble con control de audio integrado, con certificación discord y team speak
 - Estructura de aluminio resistente con diadema ampliada
 - Cable trenzado extraíble con control de audio integrado, micrófono con cancelación de ruido extraíble
-- Cable trenzado extraíble con control de audio integrado, con certificación discord y team speak
-- Reconocida comodidad exclusiva de HyperX
 - Compatibilidad multiplataforma (PS5, PS4, Xbox One, Xbox Series X|S y Plataformas de 3.5 mm)
 - Controladores de cámara doble de hyper x para una mayor distinción y menos distorsiones
 
