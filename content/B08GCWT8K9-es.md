@@ -28,9 +28,9 @@ Tienes [Fornite-Pistola NERF FORTNITE Pump SG ¡Lanzamiento DE Larga Distancia  
 
 🔎:
 
-- Nerf fortnite pump sg
-- Producto que combina tradición e innovación
 - Producto de calidad óptima
 - Diseñado para embellecer los momentos del juego
+- Producto que combina tradición e innovación
+- Nerf fortnite pump sg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GCWT8K9/?tag=tolees-21)
