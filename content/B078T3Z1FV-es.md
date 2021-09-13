@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NSV - 4057 – Illusion – Juego de Cartas al 42.28 % de descuento'
-date: 2021-09-11 15:30:03
+date: 2021-09-13 08:24:27
 image: 'https://m.media-amazon.com/images/I/41o17CS8kxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NSV'
 buyurl: 'https://www.amazon.es/dp/B078T3Z1FV/?tag=tolees-21'
 descuento: '42.28'
-average: '9.37777777777779'
+average: '9.34473684210528'
 ---
 
 Está [NSV - 4057 – Illusion – Juego de Cartas](https://www.amazon.es/dp/B078T3Z1FV/?tag=tolees-21) con 42.28 de descuento por 8.75 EUR (original: 15.16 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [NSV - 4057 – Illusion – Juego de Cartas](https://www.amazon.es/dp/B07
 
 ℹ️:
 
-- 98 cartas de colores, 12 cartas de flecha, 1 manual de instrucciones (idioma español no garantizado)
-- Autor: Wolfgang Warsch
 - Jugadores: 2 a 5 años. Edad: a partir de 8 años
-- Duración del juego: aprox. 15 minutos.
 - Idiomas: alemán
+- 98 cartas de colores, 12 cartas de flecha, 1 manual de instrucciones (idioma español no garantizado)
+- Duración del juego: aprox. 15 minutos.
+- Autor: Wolfgang Warsch
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078T3Z1FV/?tag=tolees-21)
