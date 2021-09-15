@@ -28,10 +28,10 @@ Ahora mismo tienes [Educa Borras The Mandalorian Puzzle  1000 Piezas  Multicolor
 
 🔎:
 
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Edad recomendada: a partir de 14 años
+- Diviértete montando este puzzle de 1000 piezas de El Niño, el personaje más entrañable de The Mandalorian.
 - Educa Exclusives Series: Star Wars, The Mandalorian
 - Número de piezas: puzzle de 1000. Medida aproximada una vez montado: 68 x 48 cm
-- Edad recomendada: a partir de 14 años
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Diviértete montando este puzzle de 1000 piezas de El Niño, el personaje más entrañable de The Mandalorian.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L97CCTH/?tag=tolees-21)
