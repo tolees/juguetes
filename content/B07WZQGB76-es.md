@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher Price - Mesita de Actividades  Fo al 18.15 % de descuento'
-date: 2021-09-02 19:30:26
+date: 2021-09-15 08:40:46
 image: 'https://m.media-amazon.com/images/I/41EF2dATOtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher Price'
 buyurl: 'https://www.amazon.es/dp/B07WZQGB76/?tag=tolees-21'
 descuento: '18.15'
-average: '10.9442857142857'
+average: '11.11'
 ---
 
 Está [Fisher Price - Mesita de Actividades  Formas y Martillito  Juguete para Bebés + 12 Meses  Mattel GJW05 ](https://www.amazon.es/dp/B07WZQGB76/?tag=tolees-21) con 18.15 de descuento por 12.27 EUR (original: 14.99 EUR) en el siguiente enlace!
