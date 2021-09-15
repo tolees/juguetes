@@ -28,10 +28,10 @@ En este momento está [Star Wars SW Vin Ballpoint  Multicolor  Hasbro F2709 ](ht
 
 🔎:
 
-- ACCESORIO INSPIRADO EN EL PERSONAJE DEL VIDEOJUEGO: Esta figura de acción Star Wars la colección Vintage incluye una electrovara inspirada en el arma del personaje que hace de la figura una adición fantástica a toda colección Star Wars
-- PURGE TROOPER CON ELECTROVARA: Star Wars Jedi: Fallen Order presenta a los Purge Troopers, una nueva clase de soldados que prestan ayuda a los Inquisidores en la caza de los Jedi aún restantes
 - DISEÑO INSPIRADO EN EL VIDEOJUEGO: Esta figura de Electrostaff Purge Trooper inspirada en el personaje de Star Wars Jedi: Fallen Order, es un regalo fantástico para todo coleccionista o fan de Star Wars de 4 años en adelante
-- JUGUETES COLECCIONABLES: Busca otras figuras y vehículos Star Wars La colección Vintage a escala de 9,5 cm para coleccionar, intercambiar con amigos o regalar (se venden por separado. Sujeto a disponibilidad.)
+- PURGE TROOPER CON ELECTROVARA: Star Wars Jedi: Fallen Order presenta a los Purge Troopers, una nueva clase de soldados que prestan ayuda a los Inquisidores en la caza de los Jedi aún restantes
+- ACCESORIO INSPIRADO EN EL PERSONAJE DEL VIDEOJUEGO: Esta figura de acción Star Wars la colección Vintage incluye una electrovara inspirada en el arma del personaje que hace de la figura una adición fantástica a toda colección Star Wars
 - DISEÑO Y ARTICULACIÓN PREMIUM: Con su cabeza, piernas y brazos articulados, la figura de Electrostaff Purge Trooper de Star Wars es perfecta para ser exhibida en colecciones de figuras de acción y vehículos
+- JUGUETES COLECCIONABLES: Busca otras figuras y vehículos Star Wars La colección Vintage a escala de 9,5 cm para coleccionar, intercambiar con amigos o regalar (se venden por separado. Sujeto a disponibilidad.)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PMMRJ3F/?tag=tolees-21)
