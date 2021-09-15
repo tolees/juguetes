@@ -28,10 +28,10 @@ Ahora mismo tienes [Bandai Namco Entertainment  BAOCX  - My Hero One s Justice](
 
 🔎:
 
-- Vea la perspectiva de los héroes y los villanos mientras disfruta de la historia desde ambos lados
-- Personajes favoritos como Deku, All Might, Shigaraki, y muchos más!
-- Quirks de Character para lograr hazañas sobrehumanas como One for All, Decay, Explosion y muchos más
 - Liama a tus compañeros para crear tu propio equipo único de héroes y villanos
+- Personajes favoritos como Deku, All Might, Shigaraki, y muchos más!
 - Desbloquee accesorios para personalizar la apariencia de su personaje favorito
+- Quirks de Character para lograr hazañas sobrehumanas como One for All, Decay, Explosion y muchos más
+- Vea la perspectiva de los héroes y los villanos mientras disfruta de la historia desde ambos lados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CHLHFKL/?tag=tolees-21)
