@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dis al 58.40 % de descuento'
-date: 2021-09-04 05:43:38
+date: 2021-09-16 06:20:03
 image: 'https://m.media-amazon.com/images/I/51UfpnQou2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07NSJJWH7/?tag=tolees-21'
 descuento: '58.40'
-average: '21.5322222222222'
+average: '22.374'
 ---
 
 Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Disney: Tsum Tsum Festival](https://www.amazon.es/dp/B07NSJJWH7/?tag=tolees-21) a 29.95 EUR (original: 71.99 EUR) (58.40 %  de descuento) en el siguiente enlace!
