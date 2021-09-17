@@ -28,10 +28,10 @@ Ahora mismo tienes [Cars 3 - Pista de Coches Monte Willy 3 en 1  Mattel DVF40 ](
 
 🔎:
 
-- Lanza coches y mira cómo suben por la rampa y saltan
-- La pista incluye accesorios de la nueva película y el vehículo de Rayo McQueen
 - Los vehículos adicionales se venden por separado y están sujetos a disponibilidad
-- Disfruta de nuevas emociones de película en una de las localizaciones más populares de Radiador Springs: el monte Willy
 - Transforma la pista y haz más acrobacias con un looping para enfrentarte a desafíos más difíciles
+- Disfruta de nuevas emociones de película en una de las localizaciones más populares de Radiador Springs: el monte Willy
+- La pista incluye accesorios de la nueva película y el vehículo de Rayo McQueen
+- Lanza coches y mira cómo suben por la rampa y saltan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01IWX5C2C/?tag=tolees-21)
