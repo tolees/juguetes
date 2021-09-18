@@ -30,7 +30,7 @@ Ahora mismo tienes [PLAYMOBIL Pista de Skate 70168](https://www.amazon.es/dp/B07
 
 - Material duradero
 - Plástico
-- Producto de calidad
 - Paqueteage Dimensiones: 12.0 L x 43.2 H x 32.6 W (centimeters)
+- Producto de calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHC3Y7D/?tag=tolees-21)
