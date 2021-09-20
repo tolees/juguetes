@@ -28,10 +28,10 @@ Tienes [The Bellies From Bellyville- Accesorio muñeco bebé  Multicolor  FAMOSA
 
 ℹ️:
 
-- Solo prepara tu súper shot de vacunas, y dispara en el culete de tu Bellie la vacuna divertida
-- Incluye además tiritas para terminar de curar a tus Bellies
 - Tendrás horas y horas de diversión con este kit para tus Bellies
 - Incluye tres compartimentos donde podrás hacer la mezcla de diferentes colores de purpurina
+- Solo prepara tu súper shot de vacunas, y dispara en el culete de tu Bellie la vacuna divertida
+- Incluye además tiritas para terminar de curar a tus Bellies
 - Vaccine: Got´ya es el kit de vacunas locas para tus Bellies
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08TKBK5TK/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [Carrera de letras  Lúdilo  – Juego de Mesa Educativo p
 🔎:
 
 - Carrera de letras es un de los mejores juego mesa porque ayuda a adquirir vocabulario y mejorar la ortografía
+- Juego educativo para niños. Piensa, debate y elige con que palabra vas a competir con el equipo oponente
 - Juego de de mesa para niños de + 7 años
 - Juego palabras donde cada equipo tiene que encontrar la palabra correcta para conseguir el mayor número de letras posible
 - Cada vez que se usa una letra, se desplaza un hueco hacia el lado de ese equipo. ¡Gana la partida de este juego de mesa el primer equipo que logre sacar ocho letras por su lado del tablero!
-- Juego educativo para niños. Piensa, debate y elige con que palabra vas a competir con el equipo oponente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089M73RFT/?tag=tolees-21)
