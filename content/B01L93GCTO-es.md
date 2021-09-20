@@ -28,10 +28,10 @@ En este momento está [Star Wars SW Movie E7 Robot Inteligente R2D2  Multicolor 
 
 🔎:
 
+- Plays and dances to its own music
+- Download the Hasbro Star Wars Smart R2-D2 app for more gameplay and missions
+- Smart R2-D2 Droid features app-controlled movement in all directions
 - Descárgate la app Star Wars R2-D2 Inteligente de Hasbro para obtener más juegos
 - Communicates and explores all on his own
-- Plays and dances to its own music
-- Smart R2-D2 Droid features app-controlled movement in all directions
-- Download the Hasbro Star Wars Smart R2-D2 app for more gameplay and missions
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01L93GCTO/?tag=tolees-21)
