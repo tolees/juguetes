@@ -29,9 +29,9 @@ Tienes [NICI - Unicornio Guzz clásico  Peluche  22 cm  38465 ](https://www.amaz
 ℹ️:
 
 - Le pirra cuando le haces cosquillitas en el pie izquierdo a las 8 de la mañana
-- Material de peluche
-- Dimensión 22 cm
 - Edición NICIdoos Sirup
+- Dimensión 22 cm
 - Diseño Crazy
+- Material de peluche
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TOFHHUS/?tag=tolees-21)

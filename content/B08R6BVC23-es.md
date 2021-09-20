@@ -28,9 +28,9 @@ En este momento está [Educa Round Planeta Tierra. 2 Puzzles Redondos de 800 Pie
 
 🔎:
 
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1894. Educa es sinónimo de calidad y experiencia
-- ¿Preparado para un nuevo reto? Disfruta de Round Puzzles, la nueva colección de puzzles adulto de Educa. ¿Estás preparado? Número de piezas: 800 cada puzzle. Medida aproximada una vez montado: 59 cm de diámetro cada puzzle
 - 2 puzzles redondos de nuestro planeta. Disfruta montándolos y ves haciéndoles un lugar en la pared de tu salón, porque una vez montados, los querrás como decoración.
+- ¿Preparado para un nuevo reto? Disfruta de Round Puzzles, la nueva colección de puzzles adulto de Educa. ¿Estás preparado? Número de piezas: 800 cada puzzle. Medida aproximada una vez montado: 59 cm de diámetro cada puzzle
+- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1894. Educa es sinónimo de calidad y experiencia
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R6BVC23/?tag=tolees-21)
