@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Olaf al 20.28 % de descuento'
-date: 2021-09-21 02:22:02
+date: 2021-09-22 02:28:37
 image: 'https://m.media-amazon.com/images/I/51EtSJiEofS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21'
 descuento: '20.28'
-average: '12.91984375'
+average: '12.9049230769231'
 ---
 
 Ahora mismo tienes [LEGO Olaf](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21) a 11.95 EUR (original: 14.99 EUR) (20.28 %  de descuento) en el siguiente enlace!
@@ -31,7 +31,7 @@ Ahora mismo tienes [LEGO Olaf](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-2
 - Disfruta construyendo y reconstruyendo a tu personaje de Disney Frozen favorito.
 - Perfecto para decorar tu casa o tu oficina e inundar de felicidad cada día.
 - Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz.
-- Contiene una figura para construir de Olaf, el personaje de Frozen II, con brazos y cuello ajustables.
 - Olaf mide más de 14 cm de altura, 10 cm de ancho y 5 cm de profundidad.
+- Contiene una figura para construir de Olaf, el personaje de Frozen II, con brazos y cuello ajustables.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21)
