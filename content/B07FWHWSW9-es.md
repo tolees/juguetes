@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Mattel- Toy Story Figura Woody 20 cm  Mu al 29.43 % de rebaja'
-date: 2020-09-04 07:26:18
-image: 'https://m.media-amazon.com/images/I/41Rxm+sjHYL._SL400_.jpg'
+title: 'Disney Toy Story 4 Figura de juguete Woo al 46.96 % de rebaja'
+date: 2021-09-22 20:47:34
+image: 'https://m.media-amazon.com/images/I/41Coh214qIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07FWHWSW9-es Mattel- Toy Story Figura Woody 20 cm Multicolor GDP68'
+slug: 'B07FWHWSW9-es Disney Toy Story 4 Figura de juguete Woody Mattel GDP68'
 sku: 'B07FWHWSW9-es'
-tags: [ 'mattel-', ]
-actualPrice: 8.97 EUR
+tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Muñecos y figuras de acción','mattel','toy story', ]
+actualPrice: 7.95 EUR
 currency: EUR
-price: 8.97
-comparePrice: 12.71 EUR
-prodname: 'Mattel- Toy Story Figura Woody 20 cm  Multicolor  GDP68 '
+price: 7.95
+comparePrice: 14.99 EUR
+prodname: 'Disney Toy Story 4 Figura de juguete Woody  Mattel GDP68 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Toy Story'
 buyurl: 'https://www.amazon.es/dp/B07FWHWSW9/?tag=tolees-21'
-descuento: '29.43'
-average: '11.418'
+descuento: '46.96'
+average: '10.84'
 ---
 
-Tienes [Mattel- Toy Story Figura Woody 20 cm  Multicolor  GDP68 ](https://www.amazon.es/dp/B07FWHWSW9/?tag=tolees-21) con precio final de  8.97 EUR (original: 12.71 EUR) (29.43 %  de rebaja) aqui!
+Tienes [Disney Toy Story 4 Figura de juguete Woody  Mattel GDP68 ](https://www.amazon.es/dp/B07FWHWSW9/?tag=tolees-21) con precio final de  7.95 EUR (original: 14.99 EUR) (46.96 %  de rebaja) aqui!
 
-[![Mattel- Toy Story Figura Woody 20 cm  Mu](https://m.media-amazon.com/images/I/41Rxm+sjHYL._SL400_.jpg)](https://www.amazon.es/dp/B07FWHWSW9/?tag=tolees-21)
+[![Disney Toy Story 4 Figura de juguete Woo](https://m.media-amazon.com/images/I/41Coh214qIS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FWHWSW9/?tag=tolees-21)
 
 🔎:
 
+- Completamente articuladas para divertirse al máximo.
+- Figuras de los personajes de Toy Story 4 de​DisneyPixar con diseños característicos.
+- Cada figura viene a una escala adaptada inspirada en la película.
+- A partir de 3 años.​​
+- Crea tu colección con una gran variedad de coloridos personajes (se venden por separado y están sujetos a disponibilidad).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FWHWSW9/?tag=tolees-21)

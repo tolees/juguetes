@@ -28,10 +28,10 @@ En este momento está [Safta - Mochila Escolar Infantil de SuperZings Oficial  2
 
 🔎:
 
-- Mochila infantil adaptable a carro. Medidas de la mochila: 27cm x 10cm x 33cm
-- Para niños entre 3-6 años
 - Cuenta con un compartimento principal y un bolsillo exterior
+- Para niños entre 3-6 años
 - Tiene unas cintas que permiten sujetarla a una trolley (el carro se vende por separado), pudiendo usarse para la escuela o para viajar
 - Licencia oficial
+- Mochila infantil adaptable a carro. Medidas de la mochila: 27cm x 10cm x 33cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07V5C2RZ8/?tag=tolees-21)
