@@ -28,9 +28,9 @@ En este momento está [Safta Portameriendas de Superthings Serie 7  200x150x200 
 
 🔎:
 
-- Máxima resistencia
-- Ideal para niños que cursan la etapa escolar tanto guardería como primaria y secundaria. Llévate tu merienda donde quieras!
 - Doble Asa de mano. Doble cursor en compartimento inferior para facilitar su apertura. Tarjeta de identificación personal.
+- Ideal para niños que cursan la etapa escolar tanto guardería como primaria y secundaria. Llévate tu merienda donde quieras!
+- Máxima resistencia
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar.
 - Safta Superthings Serie 7 Oficial portameriendas con un compartimento principal y otro en la base del portameriendas
 

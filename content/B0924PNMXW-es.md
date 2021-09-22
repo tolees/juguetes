@@ -30,8 +30,8 @@ Tienes [Safta Mochila Infantil de Superthings Serie 7 con Carro 705  270x100x330
 
 - Bolsillo lateral portabotellas y bolsillo frontal de gran formato. Hombreras ergonómicas y acolchadas con asa de mano en la parte superior.
 - Mochila extraíble, carro de polipropileno, acero pintado y PVC muy resistentes. Sistema de sujeción Safta.
+- Safta se caracteriza por la tecnología y la investigación para garantizar unos productos de gran calidad, aptos para el día a día de coles e institutos Son productos diseñados en España, siguiendo todos los procesos de fabricación y calidad de Europa.
 - Medidas abierta: 27 x 10 x 67 cm. 2 años de garantía.
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar
-- Safta se caracteriza por la tecnología y la investigación para garantizar unos productos de gran calidad, aptos para el día a día de coles e institutos Son productos diseñados en España, siguiendo todos los procesos de fabricación y calidad de Europa.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0924PNMXW/?tag=tolees-21)

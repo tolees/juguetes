@@ -29,9 +29,9 @@ Tienes [Safta Mochila Infantil de Superthings Serie 7  220x100x270 mm  Azul/Mult
 🔎:
 
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves. Fácil de lavar.
-- Medidas: Ancho 220mm. Largo 100mm. Alto 270mm. Capacidad 6L. Peso 0,21 Kg
-- Ideal para niños de guardería. Mochila perfecta tanto para uso escolar como para uso diario, extraescolares y excursiones. Mochila Adaptable a carro Safta (Ultraligero y Ruedas PVC).
 - Tiradores en los cursores para facilitar su apertura. Doble tirador en cremallera principal. Costuras reforzadas. Asa de mano en la parte superior y tarjeta de identificación personal.
 - Safta Superthings Serie 7 Oficial mochila infantil escolar para niños en guardería. Ideal para niños de 2 a 5 años. 2 años de garantía.
+- Medidas: Ancho 220mm. Largo 100mm. Alto 270mm. Capacidad 6L. Peso 0,21 Kg
+- Ideal para niños de guardería. Mochila perfecta tanto para uso escolar como para uso diario, extraescolares y excursiones. Mochila Adaptable a carro Safta (Ultraligero y Ruedas PVC).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0924R4BDK/?tag=tolees-21)

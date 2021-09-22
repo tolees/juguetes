@@ -29,9 +29,9 @@ Tienes [Juegos Mattel - Mattel Games UNO Jurassic World  juego de cartas  Mattel
 🔎:
 
 - Cuando te quede una sola carta en la mano, no olvides gritar Uno
-- El objetivo es ser el primer jugador en quedarse sin cartas y gana el primer equipo o jugador en llegar a 500 puntos
-- El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar Uno
 - Este clásico juego de cartas de 2 a 10 jugadores está pensado para que estos se desafíen entre ellos individualmente o por equipos
+- El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar Uno
 - Recomendado para cada edad
+- El objetivo es ser el primer jugador en quedarse sin cartas y gana el primer equipo o jugador en llegar a 500 puntos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076ML9QZY/?tag=tolees-21)
