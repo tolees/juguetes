@@ -28,10 +28,10 @@ Está [LEGO 42118 Technic 2en1 Monster Jam Grave Digger  Juguete de Monster Truc
 
 ℹ️:
 
+- Echa un vistazo a la app gratuita Instrucciones de Montaje LEGO, donde encontrarás Instructions PLUS, con herramientas para acercar y girar el juguete mientras lo construyen
 - El emocionante mundo de Monster Jam cobra vida a medida que los niños recrean los trucos épicos de uno de los monster trucks más famosos y emblemáticos de todos los tiempos
 - Con vehículos que tienen el mismo aspecto y funcionamiento que los de verdad, el universo LEGO Technic es una gran introducción a la ingeniería para pequeños fans de LEGO
-- Incluye un set de construcción 2 en 1 con un motor por fricción y auténticas sorpresas: un Monster Truck de juguete Monster Jam Digger que se convierte en un buggy todoterreno
 - Los toques auténticos del monster truck de juguete incluyen pegatinas con gráficos fantasmales, neumáticos enormes, faros rojos y una bandera flexible que se mueve hacia arriba y hacia abajo
-- Echa un vistazo a la app gratuita Instrucciones de Montaje LEGO, donde encontrarás Instructions PLUS, con herramientas para acercar y girar el juguete mientras lo construyen
+- Incluye un set de construcción 2 en 1 con un motor por fricción y auténticas sorpresas: un Monster Truck de juguete Monster Jam Digger que se convierte en un buggy todoterreno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G4K8Y1F/?tag=tolees-21)

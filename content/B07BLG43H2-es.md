@@ -28,15 +28,15 @@ Ahora mismo tienes [LEGO 75955 Harry Potter Expreso de Hogwarts y Andén
 
 🔎:
 
-- Accesorios incluidos: 3 bultos de equipaje, 4 varitas, una rana de chocolate, un helado, 2 periódicos, una señal de la estación de Kings Cross, una señal del andén 9¾ y un póster con la inscripción “Wanted”.
-- El andén cuenta con un puente ferroviario con reloj, escaleras que conducen a una entrada a través de una pared de ladrillo móvil, un kiosco de periódicos con 2 ejemplares de El Profeta y un póster con la inscripción “Wanted”.
-- Recrea las emblemáticas escenas de la saga cinematográfica de Harry Potter.
-- Quita el techo y el panel lateral del vagón para colocar a las minifiguras en sus asientos.
-- Lanza un Dementor en picado y entra con él en el vagón para atormentar a Harry. ¡Usa después una varita para deshacerte de él con un hechizo!
-- El Expreso de Hogwarts incluye un vagón con 4 asientos, panel lateral y techo desmontables, y la bruja del carrito con su carrito de dulces.
-- Incluye 5 minifiguras: Harry Potter, Ron Weasley, Hermione Granger, Remus Lupin y la bruja del carrito; incluye también figuras de un Dementor y Scabbers.
-- Contiene el emblemático andén 9¾ de la estación de Kings Cross y el Expreso de Hogwarts.
 - Cómprale una rana de chocolate y más caramelos a la bruja del carrito.
 - El andén mide más de 13 cm de altura, 31 cm de ancho y 17 cm de profundidad.
+- Incluye 5 minifiguras: Harry Potter, Ron Weasley, Hermione Granger, Remus Lupin y la bruja del carrito; incluye también figuras de un Dementor y Scabbers.
+- Lanza un Dementor en picado y entra con él en el vagón para atormentar a Harry. ¡Usa después una varita para deshacerte de él con un hechizo!
+- Contiene el emblemático andén 9¾ de la estación de Kings Cross y el Expreso de Hogwarts.
+- Quita el techo y el panel lateral del vagón para colocar a las minifiguras en sus asientos.
+- Accesorios incluidos: 3 bultos de equipaje, 4 varitas, una rana de chocolate, un helado, 2 periódicos, una señal de la estación de Kings Cross, una señal del andén 9¾ y un póster con la inscripción “Wanted”.
+- Recrea las emblemáticas escenas de la saga cinematográfica de Harry Potter.
+- El Expreso de Hogwarts incluye un vagón con 4 asientos, panel lateral y techo desmontables, y la bruja del carrito con su carrito de dulces.
+- El andén cuenta con un puente ferroviario con reloj, escaleras que conducen a una entrada a través de una pared de ladrillo móvil, un kiosco de periódicos con 2 ejemplares de El Profeta y un póster con la inscripción “Wanted”.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BLG43H2/?tag=tolees-21)
