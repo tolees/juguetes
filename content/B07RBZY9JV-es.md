@@ -29,9 +29,9 @@ Tienes [Edge Entertainment- Other License Narcos el Juego de Mesa  Color  EECMNA
 🔎:
 
 - Los otros jugadores asumen el papel de la insólita alianza que intenta capturarlo
-- Narcos es un juego que se juega a lo largo de una serie de temporadas y en el que un jugador controla la organización criminal del taimado patrón
-- El jugador que controla al patrón debe usar el engaño, la desorientación y la intimidación para cumplir sus objetivos
 - Harán grandes esfuerzos para reunir pistas sobre dónde está realmente su objetivo y capturarlo
 - Mientras tanto, las facciones cazadoras de los otros jugadores, como la incorruptible dea o el malicioso cártel de cali
+- El jugador que controla al patrón debe usar el engaño, la desorientación y la intimidación para cumplir sus objetivos
+- Narcos es un juego que se juega a lo largo de una serie de temporadas y en el que un jugador controla la organización criminal del taimado patrón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RBZY9JV/?tag=tolees-21)
