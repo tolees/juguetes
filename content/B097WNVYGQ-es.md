@@ -28,10 +28,10 @@ Ahora mismo tienes [Subsonic - Superdrive  Volante De Carreras Gs850-X Con Cambi
 
 🔎:
 
-- Motor de doble vibración sólo en modo secuencial a través de las paletas de cambio. Paletas de cambio +/-.
 - Ángulo de rotación de 270°. Ajuste de la sensibilidad (3 niveles de sensibilidad). Compatible con auriculares para jugadores.
 - Sistema de fijación por ventosa o pinza para asientos de simulación. Totalmente programable, compatible con todos los juegos de carreras (Gran Turismo Sport, Forza Motor Sport 7, Forza Horizon, Project Cars 2, F1 2020, Need for Speed, Dirt, WRC, Grid, V Rally 4, Gear Club 2, GTA V.)
-- Compatible con Xbox Serie X/S, PS4, Xbox One.
 - Palanca de cambios manual. Grandes pedales con sistema de reposapiés y pedales de acelerador, freno y embrague. Motor de doble vibración sólo en modo secuencial a través de las levas de cambio (cuando la palanca de cambios está desconectada). Paletas de cambio +/-.
+- Compatible con Xbox Serie X/S, PS4, Xbox One.
+- Motor de doble vibración sólo en modo secuencial a través de las paletas de cambio. Paletas de cambio +/-.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B097WNVYGQ/?tag=tolees-21)
