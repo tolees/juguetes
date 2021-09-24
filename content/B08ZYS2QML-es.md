@@ -29,9 +29,9 @@ Ahora mismo tienes [ATAA Power 300 Bicicleta de spinning - Blanco- Bicicleta est
 🔎:
 
 - - Con sensores de frecuencia cardíaca para controlar la intensidad del ejercicio.
+- - Manillar ergonómico "Triatlón" de pulsómetro integrado.
 - - Pantalla LCD multifunción con monitorización de calorías, velocidad, distancia y pulsómetro cardio.
 - - Sillón ergonómico acolchado, amortiguado, regulable en altura y horizontalmente.
-- - Manillar ergonómico "Triatlón" de pulsómetro integrado.
 - -Soporte para tablets
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZYS2QML/?tag=tolees-21)
