@@ -28,10 +28,10 @@ Tienes [Cerdá Zapatilla Blanca Deportiva de Peppa Pig para Niña  Unisex niños
 
 🔎:
 
-- Bambas blancas - Fabricadas en algodón | Suela de goma - asegura que sean unas zapatillas antideslizantes
 - Playeras blancas - ideal para que tu hija empiece a vivir sus primeras aventuras
 - Zapatillas de loneta blancas - Fáciles de lavar y secar incluso con la suciedad más rebelde
 - Zapatillas blancas niñas - zapatillas de loneta baja con una decoración de Peppa Pig en el empeine | Talla 30
+- Bambas blancas - Fabricadas en algodón | Suela de goma - asegura que sean unas zapatillas antideslizantes
 - Zapatillas elsticas - zapatillas elásticas para que el pie esté bien sujeto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084BDXZYH/?tag=tolees-21)
