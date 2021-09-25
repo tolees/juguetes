@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens- Juego de cartas  EKEK al 20.16 % de descuento'
-date: 2021-09-22 17:11:50
+date: 2021-09-25 17:05:39
 image: 'https://m.media-amazon.com/images/I/51AzCXlwDQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Exploding Kittens'
 buyurl: 'https://www.amazon.es/dp/B077MKKKFB/?tag=tolees-21'
 descuento: '20.16'
-average: '16.6776'
+average: '16.65'
 ---
 
 Ahora mismo tienes [Exploding Kittens- Juego de cartas  EKEK0001 ](https://www.amazon.es/dp/B077MKKKFB/?tag=tolees-21) a 15.96 EUR (original: 19.99 EUR) (20.16 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Exploding Kittens- Juego de cartas  EKEK0001 ](https://www.a
 
 🔎:
 
-- Es adecuado a partir de 7 años
 - Cuando esto sucede, esa persona muere y queda eliminada de la partida
 - Representa una versión gatuna de la ruleta rusa con un componente estratégico
-- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten
+- Es adecuado a partir de 7 años
 - Se recomienda para 2-5 jugadores
+- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077MKKKFB/?tag=tolees-21)

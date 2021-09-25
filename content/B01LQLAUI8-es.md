@@ -29,9 +29,9 @@ En este momento está [Plastoy- Estatua Jefe Indio Figura Playmobil  Multicolor 
 🔎:
 
 - Caja ilustrada
-- Licencia Oficial
+- Estatua
 - Caja ilustrada
 - Playmóbil
-- Estatua
+- Licencia Oficial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LQLAUI8/?tag=tolees-21)
