@@ -31,7 +31,7 @@ Ahora mismo tienes [Clementoni- PZL 1000 Juego DE Tronos Game of Thrones Puzzle 
 - Las imágenes más icónicas con los personajes más señalados de la serie más vista en los últimos años
 - La colección de puzzles de Clementoni de Juego de Tronos
 - Los personajes de los 7 reinos más famosos de GOT, con la estética más característica
-- 1000 piezas con los personajes de Juego de Tronos
 - Los puzzles de Clementoni se fabrican 100% en Italia y con materiales reciclables, para ser sostenibles con el medio ambiente
+- 1000 piezas con los personajes de Juego de Tronos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08T5WV7PQ/?tag=tolees-21)
