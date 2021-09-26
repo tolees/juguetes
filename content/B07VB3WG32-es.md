@@ -28,10 +28,10 @@ Ahora mismo tienes [PDP Mando Mini con Cable Rock Candy Rojo  Stormin Cherry   N
 
 🔎:
 
-- Los elegantes joysticks de pulgar cóncavos brindan una precisión óptima.
-- Las cubiertas de policarbonato transparente de llamativos colores te permiten ver la circuitería interna del mando.
+- Con licencia oficial de Nintendo.
 - Su nuevo diseño ergonómico se adapta a las manos con mayor comodidad.
 - Incluye un cable micro USB desenchufable de 2,4 metros para gozar de mucho espacio y jugar cómodamente.
-- Con licencia oficial de Nintendo.
+- Las cubiertas de policarbonato transparente de llamativos colores te permiten ver la circuitería interna del mando.
+- Los elegantes joysticks de pulgar cóncavos brindan una precisión óptima.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VB3WG32/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Educa Cestas africanas. Puzzle de 1000 Piezas. Ref. 19020  Multicolor](h
 
 🔎:
 
-- Número de piezas: 1000. Medida aproximada una vez montado: 68 x 48 cm
 - Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Diviértete montando este colorido puzzle de cestas africanas.
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Número de piezas: 1000. Medida aproximada una vez montado: 68 x 48 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08R69ZZXH/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Ravensburger Puzzle  Puzzle 1000 Piezas  Cape Town  Colecci�
 
 🔎:
 
-- Experimenta la soft click technology de los puzzles ravensburger
 - Tamaño puzzle 70x50 cm
 - Tamaño caja 37x27x6 cm
+- Experimenta la soft click technology de los puzzles ravensburger
 - Foto, paisajes, personajes fantasy ravensburger te ofrece una rica selección de imágenes para tus puzzles. Elige tu favorita
 - Ravensburger puzzle para adultos de 1000 piezas
 
