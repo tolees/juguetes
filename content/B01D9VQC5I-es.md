@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.59 % en LEGO Star Wars Darth Vader Key Chain Jue'
-date: 2021-09-08 12:13:09
+date: 2021-09-27 15:10:07
 image: 'https://m.media-amazon.com/images/I/416wRiyBA1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
