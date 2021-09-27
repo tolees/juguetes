@@ -28,10 +28,10 @@ Está [Power A - PowerA - Estuche protector para Pokémon Poke Ball Red  Nintend
 
 ℹ️:
 
-- Con licencia oficial de Nintendo y The Pokémon Company International
-- Garantía limitada de 2 años
-- La solapa protectora de pantalla acolchada integrada incluye almacenamiento para 9 tarjetas de juego
 - Carcasa exterior resistente de EVA con asa y tiradores de cremallera dobles resistentes
 - El moldeado interior tiene forro de felpa y almacenamiento de malla con cremallera
+- La solapa protectora de pantalla acolchada integrada incluye almacenamiento para 9 tarjetas de juego
+- Con licencia oficial de Nintendo y The Pokémon Company International
+- Garantía limitada de 2 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VMB7Z1F/?tag=tolees-21)
