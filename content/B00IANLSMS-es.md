@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.74 % en Hasbro - The Walking Dead Risk Board Gam'
-date: 2021-09-27 07:11:38
+date: 2021-09-28 07:15:05
 image: 'https://m.media-amazon.com/images/I/51PgZZgxCRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro'
 buyurl: 'https://www.amazon.es/dp/B00IANLSMS/?tag=tolees-21'
 descuento: '38.74'
-average: '33.4225'
+average: '32.8644444444444'
 ---
 
 Tienes [Hasbro - The Walking Dead Risk Board Game](https://www.amazon.es/dp/B00IANLSMS/?tag=tolees-21) con un 38.74 % de descuento con precio de oferta de 28.4 EUR (original: 46.36 EUR) en el siguiente enlace!
