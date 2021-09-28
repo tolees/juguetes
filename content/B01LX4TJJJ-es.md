@@ -28,10 +28,10 @@ Tienes [PLAYMOBIL- Racer Rock & Roll RC  Color Verde/Negro  9091 ](https://www.a
 
 🔎:
 
+- Playmobil Racer Rock & Roll RC
+- Tiene un diseño multicolor
 - Edad mínima recomendada: 6 años y más
 - Coche con luces y una figura
-- Tiene un diseño multicolor
 - Incorpora mando radio control que se conecta a través de bluetooth
-- Playmobil Racer Rock & Roll RC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LX4TJJJ/?tag=tolees-21)
