@@ -28,10 +28,10 @@ Ahora mismo tienes [Asmodee  Jaipur  Juego de Mesa  edición en Italiano  8852  
 
 🔎:
 
-- Edad recomendada: a partir de 10 años
-- Duración media: 30 minutos
 - Un clásico y galardonado juego de cartas.
-- Edición en italiano
+- Duración media: 30 minutos
 - Un juego fácil de aprender que ofrece mucho espacio para la estrategia.
+- Edad recomendada: a partir de 10 años
+- Edición en italiano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YVGBXKP/?tag=tolees-21)
