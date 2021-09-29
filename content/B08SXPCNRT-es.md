@@ -28,10 +28,10 @@ En este momento está [BANDAI Ball Super – Figura Dragon Stars – Broly – 3
 
 🔎:
 
-- La colección Dragon Stars consta de figuras de 17 cm que reproducen los héroes de la Dragon Ball Sagas.
-- Personaje: Broly
-- Múltiples manos disponibles para recrear todas las escenas de la serie
 - Figura totalmente articulada con 16 puntos de articulación
+- Múltiples manos disponibles para recrear todas las escenas de la serie
+- Personaje: Broly
 - Figura coleccionable de la serie Dragon Ball Super
+- La colección Dragon Stars consta de figuras de 17 cm que reproducen los héroes de la Dragon Ball Sagas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SXPCNRT/?tag=tolees-21)
