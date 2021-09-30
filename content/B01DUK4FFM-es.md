@@ -28,10 +28,10 @@ Tienes [Barbie DLY32 ESTATE Three-Story Town House Colourful and Bright Doll Hou
 
 🔎:
 
-- En la sala hay un columpio moderno para que Barbie pueda columpiarse dentro o fuera de casa
-- El elegante ascensor activado por la niña es adecuado para cambiar de planta Cuando Barbie (se vende por separado) sube al primer piso, la terraza se abre y aparecen varias sorpresas como una sombrilla de colores
-- Las cuatro habitaciones y la terraza de la azotea, todas llenas de detalles realistas, convierten la última casa de Barbie en un lugar cargado de lujos
-- La cocina y la sala ocupan la planta baja, mientras que el baño y el dormitorio están en el primer piso, donde incluso hay un armario para que Barbie guarde todos sus conjuntos
 - Las tres plantas cargadas de posibilidades de juego convierten esta casa de Barbie en el hogar de la diversión
+- En la sala hay un columpio moderno para que Barbie pueda columpiarse dentro o fuera de casa
+- La cocina y la sala ocupan la planta baja, mientras que el baño y el dormitorio están en el primer piso, donde incluso hay un armario para que Barbie guarde todos sus conjuntos
+- Las cuatro habitaciones y la terraza de la azotea, todas llenas de detalles realistas, convierten la última casa de Barbie en un lugar cargado de lujos
+- El elegante ascensor activado por la niña es adecuado para cambiar de planta Cuando Barbie (se vende por separado) sube al primer piso, la terraza se abre y aparecen varias sorpresas como una sombrilla de colores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DUK4FFM/?tag=tolees-21)
