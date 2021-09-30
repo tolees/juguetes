@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fisher Price - Mesita de Actividades  Fo al 18.15 % de descuento'
-date: 2021-09-22 11:27:34
+title: 'Fisher Price - Mesita de Actividades  Fo al 30.75 % de descuento'
+date: 2021-09-30 12:04:13
 image: 'https://m.media-amazon.com/images/I/41EF2dATOtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07WZQGB76-es Fisher Price - Mesita de Actividades Formas y Martillito...'
 sku: 'B07WZQGB76-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','fisher price','mattel', ]
-actualPrice: 12.27 EUR
+actualPrice: 10.38 EUR
 currency: EUR
-price: 12.27
+price: 10.38
 comparePrice: 14.99 EUR
 prodname: 'Fisher Price - Mesita de Actividades  Formas y Martillito  Juguete para Bebés + 12 Meses  Mattel GJW05 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fisher Price'
 buyurl: 'https://www.amazon.es/dp/B07WZQGB76/?tag=tolees-21'
-descuento: '18.15'
-average: '11.342'
+descuento: '30.75'
+average: '11.2545454545455'
 ---
 
-Está [Fisher Price - Mesita de Actividades  Formas y Martillito  Juguete para Bebés + 12 Meses  Mattel GJW05 ](https://www.amazon.es/dp/B07WZQGB76/?tag=tolees-21) con 18.15 de descuento por 12.27 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Fisher Price - Mesita de Actividades  Formas y Martillito  Juguete para Bebés + 12 Meses  Mattel GJW05 ](https://www.amazon.es/dp/B07WZQGB76/?tag=tolees-21) con 30.75 de descuento por 10.38 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Fisher Price - Mesita de Actividades  Fo](https://m.media-amazon.com/images/I/41EF2dATOtL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07WZQGB76/?tag=tolees-21)
 
