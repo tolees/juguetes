@@ -28,10 +28,10 @@ Está [Bandai Namco  VBIA5  - Jojo s Bizarre Adventure: Eyes Of Heaven [Edición
 
 ℹ️:
 
-- Más de 50 personajes de los 8 capítulos de la historia!
-- 2vs2 peleas y habilidades increíbles para cada personaje
+- Unir fuerzas para desentrañar un terrible misterio!
 - Selecciona tu dúo favorito y desencadena devastadores ataques de doble calor!
 - Abre escenarios con muchas interacciones para darle sabor!
-- Unir fuerzas para desentrañar un terrible misterio!
+- 2vs2 peleas y habilidades increíbles para cada personaje
+- Más de 50 personajes de los 8 capítulos de la historia!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FHMIFSO/?tag=tolees-21)
