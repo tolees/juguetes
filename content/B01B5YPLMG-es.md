@@ -28,10 +28,10 @@ Tienes [CASCHA HH 2003 Juguetes musicales de percusión  maracas de huevo  4 pie
 
 ℹ️:
 
-- Juego de cuatro egg shaker
-- Sirve perfectamente para percusión y para educación musical
 - Colores: uno de cada en rojo, azul, amarillo y verde
 - Materia plástica
+- Sirve perfectamente para percusión y para educación musical
+- Juego de cuatro egg shaker
 - Sonido agradable, suave y claro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01B5YPLMG/?tag=tolees-21)
