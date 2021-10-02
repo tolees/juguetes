@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PLAYMOBIL 70177 Volkswagen Beetle  Para  al 19.63 % de rebaja'
-date: 2021-09-29 11:47:22
+title: 'PLAYMOBIL 70177 Volkswagen Beetle  Para  al 42.07 % de rebaja'
+date: 2021-10-02 21:55:37
 image: 'https://m.media-amazon.com/images/I/51aDmV7nfQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Coches y camiones de juguete','Conjuntos de figuras de juguete','Juguet
 actualPrice: 29.73 EUR
 currency: EUR
 price: 29.73
-comparePrice: 36.99 EUR
+comparePrice: 51.32 EUR
 prodname: 'PLAYMOBIL 70177 Volkswagen Beetle  Para niños a partir de 5 años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08KVVC9KP/?tag=tolees-21'
-descuento: '19.63'
-average: '38.1977622377624'
+descuento: '42.07'
+average: '38.0809655172415'
 ---
 
-Tienes [PLAYMOBIL 70177 Volkswagen Beetle  Para niños a partir de 5 años](https://www.amazon.es/dp/B08KVVC9KP/?tag=tolees-21) con precio final de  29.73 EUR (original: 36.99 EUR) (19.63 %  de rebaja) aqui!
+Tienes [PLAYMOBIL 70177 Volkswagen Beetle  Para niños a partir de 5 años](https://www.amazon.es/dp/B08KVVC9KP/?tag=tolees-21) con precio final de  29.73 EUR (original: 51.32 EUR) (42.07 %  de rebaja) aqui!
 
 [![PLAYMOBIL 70177 Volkswagen Beetle  Para ](https://m.media-amazon.com/images/I/51aDmV7nfQL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08KVVC9KP/?tag=tolees-21)
 
