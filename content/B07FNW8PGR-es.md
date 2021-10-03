@@ -28,13 +28,13 @@ En este momento está [LEGO 75892 Speed Champions McLaren Senna Coche de�
 
 🔎:
 
+- Incluye una minifigura de un piloto de carreras de McLaren enfundado en su mono de competición con los logotipos de McLaren, Senna y Pirelli.
 - Accesorios incluidos: un casco de piloto de McLaren y una llave inglesa.
-- Este set de automovilismo ofrece diversión creativa sin fin para los pequeños aficionados al automovilismo.
-- El McLaren Senna para construir, preparado para enfrentarse a cualquier carrera, cuenta con cabina para una minifigura, parabrisas desmontable, ruedas con neumáticos de caucho y llantas intercambiables, alerón trasero, elementos translúcidos a modo de faros, adhesivos con los logotipos de McLaren y Senna, y detalles de diseño de gran realismo.
 - El túnel de viento mide más de 5 cm de altura, 6 cm de ancho y 4 cm de profundidad.
-- Incluye también un túnel de viento para construir con un ventilador giratorio.
+- Este set de automovilismo ofrece diversión creativa sin fin para los pequeños aficionados al automovilismo.
 - El coche de juguete McLaren Senna mide más de 4 cm de altura, 15 cm de longitud y 5 cm de ancho.
 - Desmonta el parabrisas para introducir la minifigura en el coche.
-- Incluye una minifigura de un piloto de carreras de McLaren enfundado en su mono de competición con los logotipos de McLaren, Senna y Pirelli.
+- Incluye también un túnel de viento para construir con un ventilador giratorio.
+- El McLaren Senna para construir, preparado para enfrentarse a cualquier carrera, cuenta con cabina para una minifigura, parabrisas desmontable, ruedas con neumáticos de caucho y llantas intercambiables, alerón trasero, elementos translúcidos a modo de faros, adhesivos con los logotipos de McLaren y Senna, y detalles de diseño de gran realismo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FNW8PGR/?tag=tolees-21)
