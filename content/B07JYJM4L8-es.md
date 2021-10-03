@@ -28,10 +28,10 @@ En este momento está [HyperX HX-HSCLS-BL Cloud para PS4 - Cascos de Gaming con 
 
 🔎:
 
-- Carcasa de aluminio resistente
 - Control de audio integrado y micrófono con cancelación de ruido extraíble
-- Para los sistemas playstation4
 - Comodidad exclusiva de hyperx
+- Para los sistemas playstation4
 - Audio de juego envolvente
+- Carcasa de aluminio resistente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JYJM4L8/?tag=tolees-21)

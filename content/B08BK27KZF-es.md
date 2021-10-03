@@ -29,9 +29,9 @@ Ahora mismo tienes [Power A - Mando Inalámbrico Mejorado Nano PowerA para Ninte
 🔎:
 
 - No necesita pilas
-- Cable USB extraíble de 3 metros
 - Con licencia oficial para Nintendo Switch y Nintendo Switch Lite Garantía limitada de dos años. Visita PowerA.com/Support
 - El mando incluye toma de audio de 3,5 mm y botones de juego avanzado asignables
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Cable USB extraíble de 3 metros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BK27KZF/?tag=tolees-21)
