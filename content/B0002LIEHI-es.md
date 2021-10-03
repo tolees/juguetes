@@ -28,10 +28,10 @@ Ahora mismo tienes [Clementoni- Museum Collection-Klimt: Il Bacio Gustav Pingüi
 
 🔎:
 
+- Desarrolla habilidades de observación, lógica y destreza
 - Puzle de 1000 de piezas de estilo Klimt: El Beso
+- A partir de 12 años
 - Tamaño de puzzle: 69 x 50 cm
 - Elaborado con 85% de papel y tarjeta de bosques controlados
-- Desarrolla habilidades de observación, lógica y destreza
-- A partir de 12 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0002LIEHI/?tag=tolees-21)

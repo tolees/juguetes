@@ -30,8 +30,8 @@ Tienes [YGJT Juguetes Bebes 1 Año Montessori de Madera Juegos Educativos Niños
 
 - 🥕【MATERIAL SEGURO】El juguete Zanahoria de Bebé de YGJT es hecho de madera de pino natural de Nueva Zelanda con pintura a base de agua. No tóxico, superficie lisa. 100% seguro para tu bebé.
 - 🥕【SERVICIO】Queremos que este 100% satisfecho,GARANTÍA DE 2 AÑOS y servicio al cliente de por vida.Si usted tiene cualesquiera preguntas, por favor no dude en contactar con nosotros. Tenemos un equipo de servicio profesional y siempre estamos con usted.
-- 🥕【JUGUETE MONTESSORI】Mientras juega con este juguete de madera, su pequeño también desarrolla habilidades motoras finas, coordinación mano-ojo, reconocimiento de formas y destreza.
 - 🥕【JUEGO DE CLASIFICACIÓN】Su bebé deberá reconocer el tamaño de las zanahorias para volver a colocarlas en la ranura.La forma linda atraerá la atención de los niños y ejercitará sus habilidades en todos los aspectos durante el juego.
 - 🥕【MEJOR REGALO】Gran opción para niños en edad preescolar como regalo de cumpleaños. El lindo diseño siempre llamará la atención de los bebés. ¡Se crea que a su bebé le gustará!
+- 🥕【JUGUETE MONTESSORI】Mientras juega con este juguete de madera, su pequeño también desarrolla habilidades motoras finas, coordinación mano-ojo, reconocimiento de formas y destreza.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HGKPWB9/?tag=tolees-21)

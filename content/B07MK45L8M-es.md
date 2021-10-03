@@ -28,8 +28,8 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - Super Dragon Ball He
 
 🔎:
 
-- DLC con 11 cartas de desbloqueo anticipado (Promoción válida hasta el 5 de abril de 2019)
 - 5 Cartas físicas
+- DLC con 11 cartas de desbloqueo anticipado (Promoción válida hasta el 5 de abril de 2019)
 - Ce jeu est une version importée. Il nest pas garanti que le français soit disponible dans les options de jeu
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MK45L8M/?tag=tolees-21)

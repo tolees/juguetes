@@ -29,9 +29,9 @@ Tienes [Lúdilo- Tripolo Juego de Mesa  Multicolor  única  80451 ](https://www.
 🔎:
 
 - JUEGOS EDUCATIVOS NIÑOS: Juego cartas sencillo y rápido perfecto para el desarrollo de habilidades como la concentración, la observación o la lógica
-- JUEGOS FAMILIARES: Juego familiar, muy dinámico y rápido para jugar con niños mayores de 6 años y de 2 a 4 jugadores
-- REGALO PARA NIÑOS: Juegos educativos niños en el que debes formar combinaciones de colores, objetos o letras para descartarte de tus cartas; el primero en quedarse sin ellas ganará la partida de este juego familiar
 - JUEGOS DE CARTAS: Tripolo es un juego cartas el que tendrás que buscar un tres en raya de letra, color o imagen
 - JUEGO VIAJE: Fácil de transportar gracias a su estuche metálico, te lo puedes llevar de viaje, en el tren o jugar en la playa. Sus cartas son resistentes al agua
+- REGALO PARA NIÑOS: Juegos educativos niños en el que debes formar combinaciones de colores, objetos o letras para descartarte de tus cartas; el primero en quedarse sin ellas ganará la partida de este juego familiar
+- JUEGOS FAMILIARES: Juego familiar, muy dinámico y rápido para jugar con niños mayores de 6 años y de 2 a 4 jugadores
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0744QJLCK/?tag=tolees-21)

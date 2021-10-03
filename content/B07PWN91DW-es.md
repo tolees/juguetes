@@ -30,9 +30,9 @@ Está [Cascos Gaming KROM KAYLE -NXKROMKAYLE - Auriculares con microfono  RGB fl
 
 - Compatible con PC, PS4 (stereo), PS5
 - Dispositivos compatibles: Consola de videojuegos + PC/Videojuegos
-- Iluminación 7 colores + rgb flow
-- Micrófono flexible
 - Altavoces de 50mm con sonido 7.1; virtual
+- Micrófono flexible
 - Diseño ergonómico con diadema ajustable
+- Iluminación 7 colores + rgb flow
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PWN91DW/?tag=tolees-21)

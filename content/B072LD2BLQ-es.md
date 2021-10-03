@@ -28,11 +28,11 @@ Ahora mismo tienes [Cefa Toys- Misterio  21815 ](https://www.amazon.es/dp/B072LD
 
 🔎:
 
-- Vuelve el juego clásico de Cefa donde te convertirás en un autentico detective
 - Versión vintage del original de los 80.
 - El juego discurre en estancias misteriosas y estarás rodeado de monstruos
-- Recomendado para niños de + 6 años
-- Descubre quién desaparece en el castillo de Transilvania, descubriendo las tres claves del misterio
+- Vuelve el juego clásico de Cefa donde te convertirás en un autentico detective
 - Juego familiar de 2 a 6 jugadores
+- Descubre quién desaparece en el castillo de Transilvania, descubriendo las tres claves del misterio
+- Recomendado para niños de + 6 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072LD2BLQ/?tag=tolees-21)
