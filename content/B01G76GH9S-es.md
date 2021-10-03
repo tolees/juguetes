@@ -28,11 +28,11 @@ Tienes [Zygomatic ADE0COR01ML Cortex Challenge - Juego de mesa  color/modelo sur
 
 🔎:
 
-- ¡Atención! El fabricante nos proporciona este producto en modelos y/o colores aleatorios. Nos resulta imposible proporcionarte el producto en un modelo/color en particular. Al confirmar tu compra, recibirás uno de los modelos/colores que se muestran en la imagen o en el título, en función de la disponibilidad. Muchas gracias por tu comprensión.
-- Duración de la partida: aprox. 15 min
-- Prueba tu razonamiento, memoria y rapidez
-- Juego de agilidad visual, coordinación, memoria, capacidad de razonamiento e incluso de sensibilidad del tacto
 - Retos que estimularán tus habilidades cognitivas
+- Duración de la partida: aprox. 15 min
+- ¡Atención! El fabricante nos proporciona este producto en modelos y/o colores aleatorios. Nos resulta imposible proporcionarte el producto en un modelo/color en particular. Al confirmar tu compra, recibirás uno de los modelos/colores que se muestran en la imagen o en el título, en función de la disponibilidad. Muchas gracias por tu comprensión.
+- Prueba tu razonamiento, memoria y rapidez
 - Número de jugadores: de 2 a 6
+- Juego de agilidad visual, coordinación, memoria, capacidad de razonamiento e incluso de sensibilidad del tacto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01G76GH9S/?tag=tolees-21)
