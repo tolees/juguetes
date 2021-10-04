@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cocktail Games- Hanabi - Juego de Cartas al 36.40 % de rebaja'
-date: 2021-10-02 22:44:11
+date: 2021-10-04 08:21:37
 image: 'https://m.media-amazon.com/images/I/41rTs-PyjdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocktail Games'
 buyurl: 'https://www.amazon.es/dp/B089KSZ1D4/?tag=tolees-21'
 descuento: '36.40'
-average: '9.2'
+average: '8.99909090909091'
 ---
 
 Tienes [Cocktail Games- Hanabi - Juego de Cartas - Español  Multicolor  CGHA0001 ](https://www.amazon.es/dp/B089KSZ1D4/?tag=tolees-21) con precio final de  6.99 EUR (original: 10.99 EUR) (36.40 %  de rebaja) aqui!
