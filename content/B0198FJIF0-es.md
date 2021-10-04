@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en Edge Entertainment- Zombicide Juguetes  '
-date: 2021-10-02 10:15:48
+date: 2021-10-04 06:25:41
 image: 'https://m.media-amazon.com/images/I/51Bs6-6Sj5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
