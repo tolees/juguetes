@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI Ball Super – Figura Dragon Stars  con un 15.94 % de descuento'
-date: 2021-09-29 12:56:45
+date: 2021-10-04 14:59:49
 image: 'https://m.media-amazon.com/images/I/51wZwKlt8BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [BANDAI Ball Super – Figura Dragon Stars – Broly – 3
 
 🔎:
 
-- Figura totalmente articulada con 16 puntos de articulación
 - Múltiples manos disponibles para recrear todas las escenas de la serie
-- Personaje: Broly
-- Figura coleccionable de la serie Dragon Ball Super
 - La colección Dragon Stars consta de figuras de 17 cm que reproducen los héroes de la Dragon Ball Sagas.
+- Figura totalmente articulada con 16 puntos de articulación
+- Figura coleccionable de la serie Dragon Ball Super
+- Personaje: Broly
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SXPCNRT/?tag=tolees-21)
