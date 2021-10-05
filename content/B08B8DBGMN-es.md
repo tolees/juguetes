@@ -28,10 +28,10 @@ En este momento está [HEYSTOP Volantes y Grip Compatible con Nintendo Switch y 
 
 🔎:
 
-- 【Diseño ergonómico】 El diseño ergonómico proporciona la máxima comodidad, ideal para largas sesiones de juego. Acceso a todos los botones para disfrutar del juego tradicional sin restricciones.
-- 【Protección adicional para el mango de su consola】 Fabricada en material ABS de tamaño compacto, duradera y protectora, la cubierta especial fija firmemente el dispositivo y lo protege de golpes y rasguños. Luces indicadoras del reproductor visibles.
 - 【Fácil de instalar y desinstalar】 Cada agarre y rueda es compatible con cualquier color o lado de su Switch / Switch OLED Console, y puede instalarlo fácilmente con las instrucciones "+" y "-" sobre el agarre, desinstalar en 3 segundos.
-- 【Calidad Control】Cada empuñadura y volante HEYSTOP Switch Grip con un estricto control de calidad. (Compatible con Nintendo Switch y Switch OLED)
 - 【Lo que obtienes】 Incluye 2 empuñaduras y 2 juegos de ruedas, accesorios de fijación para la consola. El diseño perfecto te hace inmersivo cuando juegas juegos normales o juegos de carreras.
+- 【Calidad Control】Cada empuñadura y volante HEYSTOP Switch Grip con un estricto control de calidad. (Compatible con Nintendo Switch y Switch OLED)
+- 【Protección adicional para el mango de su consola】 Fabricada en material ABS de tamaño compacto, duradera y protectora, la cubierta especial fija firmemente el dispositivo y lo protege de golpes y rasguños. Luces indicadoras del reproductor visibles.
+- 【Diseño ergonómico】 El diseño ergonómico proporciona la máxima comodidad, ideal para largas sesiones de juego. Acceso a todos los botones para disfrutar del juego tradicional sin restricciones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B8DBGMN/?tag=tolees-21)
