@@ -28,14 +28,14 @@ En este momento está [LEGO-10863 DUPLO My First lego Caja de Ladrillos: Mis Pri
 
 🔎:
 
-- Un regalo ideal para niños en edad preescolar
-- El cocodrilo mide más de 12 cm de altura, 8 cm de longitud y 12 cm de ancho
-- El elefante mide más de 12 cm de altura, 19 cm de longitud y 6 cm de ancho
-- Pásalo genial con tu pequeño mientras aprende a reconocer los colores y usarlos para clasificar
-- Los productos LEGO DUPLO se diseñan específicamente para ser divertidos y fáciles de usar en las manos de los más pequeños
-- Apto para niños de 18 meses a 3 años
-- Engancha 4 de los animales para crear un desfile con ellos y conduce el tren por toda la habitación
 - Usa la práctica caja de almacenamiento para mantener reunidos todos tus ladrillos LEGO DUPLO
+- Engancha 4 de los animales para crear un desfile con ellos y conduce el tren por toda la habitación
+- Un regalo ideal para niños en edad preescolar
+- Los productos LEGO DUPLO se diseñan específicamente para ser divertidos y fáciles de usar en las manos de los más pequeños
+- Pásalo genial con tu pequeño mientras aprende a reconocer los colores y usarlos para clasificar
+- El elefante mide más de 12 cm de altura, 19 cm de longitud y 6 cm de ancho
+- Apto para niños de 18 meses a 3 años
 - Da alas al juego creativo y la imaginación, y descubre las asombrosas historias que es capaz de inventar tu bebé con los animales de este versátil juguete
+- El cocodrilo mide más de 12 cm de altura, 8 cm de longitud y 12 cm de ancho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075H1GDS8/?tag=tolees-21)
