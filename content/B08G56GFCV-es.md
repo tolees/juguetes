@@ -28,9 +28,9 @@ Está [LEGO 31113 Creator 3en1 Transporte de Coches de Carreras  Camión Grúa o
 
 ℹ️:
 
-- Echa un vistazo a los otros nuevos sets 3 en 1 de LEGO Creator: Ciberdrón 31111, León Salvaje 31112, Supermoto 31114 y Casa Surfera en la Playa 31118
+- ¡Una acción de carreras trepidante! El regalo estupendo para los amantes de la adrenalina que buscan horas de apasionante acción con 3 divertidas aventuras de vehículos, por tierra y mar
 - Este camión grúa de juguete gira 360 grados y levanta la carga hacia arriba y abajo, mientras que el remolcador cuenta con una grúa funcional
 - El camión transportador con tráiler desmontable lleva 2 vehículos que se pueden cargar y descargar usando sus 2 rampas, y con el caballete el tráiler se aguante por sí solo
-- ¡Una acción de carreras trepidante! El regalo estupendo para los amantes de la adrenalina que buscan horas de apasionante acción con 3 divertidas aventuras de vehículos, por tierra y mar
+- Echa un vistazo a los otros nuevos sets 3 en 1 de LEGO Creator: Ciberdrón 31111, León Salvaje 31112, Supermoto 31114 y Casa Surfera en la Playa 31118
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G56GFCV/?tag=tolees-21)

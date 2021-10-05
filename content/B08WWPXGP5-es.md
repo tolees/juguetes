@@ -28,11 +28,11 @@ Tienes [LEGO 41682 Friends Instituto de Heartlake City  Escuela de Juguete para 
 
 ℹ️:
 
-- Cuenta con una escuela de juguete de 2 pisos con 3 aulas para construir y explorar, así como una cafetería, taquillas, baño y un patio al aire libre
-- Este juego de rol de profesor LEGO para niños incluye un laboratorio de ciencias con un microscopio y una mariquita para estudiar y recrear un día en la escuela óptimo
-- El aula de arte, teatro y música LEGO contiene un cofre con un kit creativo de disfraces, una selección de instrumentos, pinceles, pinturas y un caballete
-- También hay una bicicleta de juguete con un casco, una pelota, un ordenador portátil y un bolígrafo con un cuaderno, además de mesas y accesorios de comida en la cafetería
 - Incluye 3 mini muñecas LEGO Friends para jugar con: Olivia, un chico nuevo, Julian y una figura de un maestro para representar la experiencia LEGO en el aula
+- Este juego de rol de profesor LEGO para niños incluye un laboratorio de ciencias con un microscopio y una mariquita para estudiar y recrear un día en la escuela óptimo
+- También hay una bicicleta de juguete con un casco, una pelota, un ordenador portátil y un bolígrafo con un cuaderno, además de mesas y accesorios de comida en la cafetería
+- El aula de arte, teatro y música LEGO contiene un cofre con un kit creativo de disfraces, una selección de instrumentos, pinceles, pinturas y un caballete
 - Esta maqueta de escuela LEGO se asienta sobre una base resistente, lo que lo convierte en una genial pieza de exhibición y un regalo de cumpleaños de juguete para niñas y niños +6 años
+- Cuenta con una escuela de juguete de 2 pisos con 3 aulas para construir y explorar, así como una cafetería, taquillas, baño y un patio al aire libre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08WWPXGP5/?tag=tolees-21)
