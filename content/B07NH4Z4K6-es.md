@@ -28,10 +28,10 @@ Está [Wrebbit 3D- Castillo Game of Thrones Puzzle 3D Juego de Tronos Invernalia
 
 ℹ️:
 
-- Siéntete rey en el norte con tu propio castillo de invernalia
 - Contiene 910 piezas
+- Rompecabezas 3D licencia harry potter
+- Siéntete rey en el norte con tu propio castillo de invernalia
 - El regalo perfecto para los seguidores de juego de tronos
 - Wrebbit, Puzzle 3D Juego de Tronos Invernalia (910 piezas)
-- Rompecabezas 3D licencia harry potter
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NH4Z4K6/?tag=tolees-21)
