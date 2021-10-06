@@ -28,9 +28,9 @@ En este momento está [Bizak Patrulla Canina Camion de Reciclaje Rocky  Multicol
 
 🔎:
 
-- Camión de reciclaje, ayuda a Rocky a reciclar los cubos de basura
-- Cuando tus herramientas estén listas, engánchalas en los brazos del camión
 - Transforma los cubos en herramientas para tus rescates
+- Camión de reciclaje, ayuda a Rocky a reciclar los cubos de basura
 - Barre y limpia las calles con el cepillo, recoge la basura con la garra y arregla cosas con el martillo
+- Cuando tus herramientas estén listas, engánchalas en los brazos del camión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08W5DXH8C/?tag=tolees-21)
