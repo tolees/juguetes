@@ -30,8 +30,8 @@ Tienes [Super ZINGS - MONOPOLY Junior](https://www.amazon.es/dp/B08G1SZ5HB/?tag=
 
 - Incluye 4 personajes de SuperZings exlusivos para este juego.
 - El mejor juego de mesa familiar del mundo ahora te trae MONOPOLY JUNIOR - SuperZings
-- Elige tu personaje favorito y recorre el tablero visitando tus lugares favoritos de Kaboom City
-- El juego clásico es la introducción perfecta para los jugadores más jóvenes.
 - Monopoly Junior SuperZings - Juego de mesa - Versión en español
+- El juego clásico es la introducción perfecta para los jugadores más jóvenes.
+- Elige tu personaje favorito y recorre el tablero visitando tus lugares favoritos de Kaboom City
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08G1SZ5HB/?tag=tolees-21)
