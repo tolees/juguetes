@@ -28,10 +28,10 @@ Está [Avengers Power Moves Iron Man  Hasbro E7376EU4 ](https://www.amazon.es/dp
 
 ℹ️:
 
-- ATAQUE RAYO REPULSOR: Los niños y niñas pueden imaginar que se preparan como Iron Man: Tira de la manija y realiza el movimiento del rayo repulsor para lanzar un dardo NERF
-- DEL UNIVERSO MARVEL: Los asombrosos 80 años de historia de Marvel están repletos de emoción, acción y aventura, y coloridos personajes como Iron Man, Spider-Man, Capitán America, Capitana Marvel, Black Panther, Black Widow y muchos más
-- TONY STARK ES IRON MAN: Detenido contra su voluntad por los enemigos que quieren que construya armas, el genio millonario Tony Stark, en cambio, diseña un traje de armadura para convertirse en Iron Man
 - DISEÑO SIMBÓLICO INSPIRADO EN EL PERSONAJE DE MARVEL: Inspirados en los poderosos superhéroes del universo Marvel, estos juguetes para roleplay «Power Moves» para niños a partir de 5 años ofrecen toda la acción y aventura para tu roleplay Marvel
 - JUGUETES DE COLECCIÓN: Colecciona otros juguetes para roleplay de NERF Power Moves Marvel Avengers para empezar una colección, intercambiarlas con los amigos o regalar (Se venden por separado: Sujeto a disponibilidad:)
+- TONY STARK ES IRON MAN: Detenido contra su voluntad por los enemigos que quieren que construya armas, el genio millonario Tony Stark, en cambio, diseña un traje de armadura para convertirse en Iron Man
+- DEL UNIVERSO MARVEL: Los asombrosos 80 años de historia de Marvel están repletos de emoción, acción y aventura, y coloridos personajes como Iron Man, Spider-Man, Capitán America, Capitana Marvel, Black Panther, Black Widow y muchos más
+- ATAQUE RAYO REPULSOR: Los niños y niñas pueden imaginar que se preparan como Iron Man: Tira de la manija y realiza el movimiento del rayo repulsor para lanzar un dardo NERF
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0824RHHZ1/?tag=tolees-21)

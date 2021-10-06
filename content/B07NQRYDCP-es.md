@@ -28,9 +28,9 @@ Ahora mismo tienes [Sylvanian Families - 5302 - Casa con Luces](https://www.amaz
 
 🔎:
 
-- Cerrar la casa crea la apariencia de una casa cuento de hadas, sin importar el ángulo desde el que la mires, con la luz que se derramaba a través de las ventanas, lo que hace que la vista sea suficiente para contemplar
 - Incluye: unidad principal, chimenea, techos, escalera, porche de entrada, marcos de ventana, tres cercas pequeñas, cinco vallas grandes, lámparas
 - El segundo piso en el lado izquierdo y el techo del lado derecho son extraíbles para crear una casa de tres plantas con la que jugar
+- Cerrar la casa crea la apariencia de una casa cuento de hadas, sin importar el ángulo desde el que la mires, con la luz que se derramaba a través de las ventanas, lo que hace que la vista sea suficiente para contemplar
 - Se puede configurar de varias maneras y se puede abrir para jugar en cualquier ángulo entre 90 y 180 grados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NQRYDCP/?tag=tolees-21)
