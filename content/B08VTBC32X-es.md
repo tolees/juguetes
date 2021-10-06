@@ -28,9 +28,9 @@ Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Pack: Subnautica + Subn
 
 🔎:
 
+- Exploración
+- Construye tu hábitat
 - Los misterios sumergidos en el Planeta 4546B
 - la supervivencia es la clave
-- Construye tu hábitat
-- Exploración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VTBC32X/?tag=tolees-21)
