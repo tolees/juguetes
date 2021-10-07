@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41444 Friends Cafetería Orgánica de al 15.57 % de descuento'
-date: 2021-10-06 11:39:12
+date: 2021-10-07 12:24:01
 image: 'https://m.media-amazon.com/images/I/51N02gJuJ6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G44DS1X/?tag=tolees-21'
 descuento: '15.57'
-average: '25.2745454545455'
+average: '25.2783333333334'
 ---
 
 Está [LEGO 41444 Friends Cafetería Orgánica de Heartlake City Juguete de Construcción para Niños y Niñas +6 años con Mini Muñecas](https://www.amazon.es/dp/B08G44DS1X/?tag=tolees-21) con 15.57 de descuento por 25.32 EUR (original: 29.99 EUR) en el siguiente enlace!
