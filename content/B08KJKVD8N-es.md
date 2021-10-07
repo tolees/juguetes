@@ -28,10 +28,10 @@ En este momento está [Markwins Pop Girl Color Tin X 12 Mini Lata De Maquillaje 
 
 🔎:
 
-- UN KIT COMPLETO - La lata contiene 12 brillos de labios y 2 esmaltes de uñas. Todo nuestro esmalte de uñas es con base de agua y se quita fácilmente. No recomendable para niñas menores de 3 años
-- MIL LOOKS ESPECIALES - ¡Deja que tu imaginación te lleve donde tu corazón desee! Podras hacerte todos los looks que quieres cada vez que sales a divertirte!
-- EL REGALO PERFECTO PARA LAS NIÑAS - Descubre nuestra nueva y exclusiva colección de juguetes, productos de maquillaje, accesorios y ¡mucho más! ¡Nunca olvidará este cumpleaños!
 - PARA UN FUTURO MÁS SOSTENIBLE - Hacemos productos sostenibles. Estamos comprometidos con reducir los residuos, no testamos los productos en animales y valoramos las acciones eco-responsables
 - COLECCIÓN LATAS COLOR POP - Puedes llevar esta lata en cualquier mochila o bolso. Con colores llamativos y un estilo muy fashion, dispone de múltiples tonalidades para los labios y esmaltes de uñas
+- EL REGALO PERFECTO PARA LAS NIÑAS - Descubre nuestra nueva y exclusiva colección de juguetes, productos de maquillaje, accesorios y ¡mucho más! ¡Nunca olvidará este cumpleaños!
+- UN KIT COMPLETO - La lata contiene 12 brillos de labios y 2 esmaltes de uñas. Todo nuestro esmalte de uñas es con base de agua y se quita fácilmente. No recomendable para niñas menores de 3 años
+- MIL LOOKS ESPECIALES - ¡Deja que tu imaginación te lleve donde tu corazón desee! Podras hacerte todos los looks que quieres cada vez que sales a divertirte!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KJKVD8N/?tag=tolees-21)
