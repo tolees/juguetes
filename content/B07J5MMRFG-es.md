@@ -29,9 +29,9 @@ Tienes [ASS - Juego de Cartas tripack Harry Potter. Cartamundi Shuffle. Pack con
 ℹ️:
 
 - Juega al juego de las Familias, al reto de los Horrocruxes y al duelo de las varitas mágicas con tus personajes favoritos de Harry Potter.
-- A partir de 4 años.
 - El pack incluye tres barajas
-- De 2 a 4 jugadores
+- A partir de 4 años.
 - Cada baraja tiene 33 cartas.
+- De 2 a 4 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07J5MMRFG/?tag=tolees-21)

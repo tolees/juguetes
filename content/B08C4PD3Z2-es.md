@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Peppa Pig - Playset Centro Comercial con al 50.16 % de descuento'
-date: 2021-10-06 12:38:58
+date: 2021-10-07 13:53:21
 image: 'https://m.media-amazon.com/images/I/516ztWIXw9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Peppa Pig'
 buyurl: 'https://www.amazon.es/dp/B08C4PD3Z2/?tag=tolees-21'
 descuento: '50.16'
-average: '36.5306666666667'
+average: '36.11625'
 ---
 
 Ahora mismo tienes [Peppa Pig - Playset Centro Comercial con figura](https://www.amazon.es/dp/B08C4PD3Z2/?tag=tolees-21) a 29.9 EUR (original: 59.99 EUR) (50.16 %  de descuento) en el siguiente enlace!

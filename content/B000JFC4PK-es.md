@@ -28,13 +28,13 @@ Tienes [Educa - Dinosaurios Puzzles  100 Piezas  Multicolor  13179](https://www.
 
 🔎:
 
-- Recomendado a partir de 6 años
-- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
-- Están perfectamente acabadas para que sea segura y sencilla su manipulación
-- Puzzles de 100 piezas , horas de diversión y entretenimiento; dimensiones aproximadas del puzzle montado: 40 x 28 cm
 - Las piezas son de cartón
+- Puzzles de 100 piezas , horas de diversión y entretenimiento; dimensiones aproximadas del puzzle montado: 40 x 28 cm
 - Puzzles inspirados en Dinosaurios
+- Están perfectamente acabadas para que sea segura y sencilla su manipulación
+- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
 - Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños
+- Recomendado a partir de 6 años
 - Puzzle de Dinosaurios de 100 piezas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000JFC4PK/?tag=tolees-21)
