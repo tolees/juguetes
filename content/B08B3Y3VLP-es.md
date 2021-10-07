@@ -29,9 +29,9 @@ En este momento está [Bizak- Autobus Mighty Pups Patrulla Canina Juguete  Multi
 🔎:
 
 - La cabina se abre y tiene capacidad para 3 figuras, en su interior puedes almacenas 3 mini vehículos
+- Con plataforma de lanzamiento para los mini vehículos y con sonidos y soporte para la tarjeta lenticular
 - La Patrulla Canina llega al rescate con vehículos transformable
 - Recrea todas las acciones de rescate de tus personajes favoritos
-- Con plataforma de lanzamiento para los mini vehículos y con sonidos y soporte para la tarjeta lenticular
 - Incluye: 1 vehículo, 3 mini vehículos, 3 figuras y 1 tarjeta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3Y3VLP/?tag=tolees-21)

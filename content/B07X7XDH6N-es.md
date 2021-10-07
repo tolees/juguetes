@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'F.lli Schiano Braver Bicicleta eléctrica al 16.61 % de descuento'
-date: 2021-09-20 14:46:33
+date: 2021-10-07 04:22:42
 image: 'https://m.media-amazon.com/images/I/41+IzBP-3JS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [F.lli Schiano Braver Bicicleta eléctrica  Adultos Unisex  Negro-Azul  27
 
 ℹ️:
 
-- El motor: Potente motor trasero ANANDA M145CD de 250 W que ofrece una larga vida útil y un alto rendimiento y puede alcanzar una velocidad máxima asistida de hasta 25 km / h
-- Otro equipo: Equipado con frenos de disco mecánicos TX805, neumáticos Kenda, horquilla de suspensión, un cómodo sillín Selle Royal y un caballete central
-- La batería: Batería de litio GREENWAY de 36V 11.6Ah 417.6Wh integrada en el cuadro te permitirá conducir y viajar asegurando estabilidad en cualquier tipo de camino
 - El cuadro: Cuadro de aluminio con fijación delantera no regulable, con manillar tipo MTB
+- La batería: Batería de litio GREENWAY de 36V 11.6Ah 417.6Wh integrada en el cuadro te permitirá conducir y viajar asegurando estabilidad en cualquier tipo de camino
 - La caja de cambios: Caja de cambios Shimano Altus M310 que te permite seleccionar fácilmente 24 velocidades para cualquier tipo de camino que desees recorrer
+- Otro equipo: Equipado con frenos de disco mecánicos TX805, neumáticos Kenda, horquilla de suspensión, un cómodo sillín Selle Royal y un caballete central
+- El motor: Potente motor trasero ANANDA M145CD de 250 W que ofrece una larga vida útil y un alto rendimiento y puede alcanzar una velocidad máxima asistida de hasta 25 km / h
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X7XDH6N/?tag=tolees-21)
