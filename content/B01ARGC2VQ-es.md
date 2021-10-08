@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games - Uno Super Mario  Instrucc al 23.09 % de descuento'
-date: 2021-09-22 09:15:15
+date: 2021-10-08 13:59:33
 image: 'https://m.media-amazon.com/images/I/513anffZdJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Mattel Games - Uno Super Mario  Instrucciones Sólo En Japon
 
 🔎:
 
-- Brand: Verdes
-- Fabricado en España
 - Producto de alta calidad
+- Fabricado en España
+- Brand: Verdes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ARGC2VQ/?tag=tolees-21)
