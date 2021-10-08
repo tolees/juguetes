@@ -28,9 +28,9 @@ Ahora mismo tienes [Masters of the Universe Revelation  Figura He-Man  muñeco a
 
 🔎:
 
-- ¡Cada figura incluye al menos un accesorio, como un arma o una cabeza intercambiable! ​​​​​
-- Las figuras son muy articuladas, con al menos 30 puntos de articulación.
 - ¡Los aficionados más veteranos apreciarán la conservación del legado de MOTU combinado con elementos de diseño modernizados! Se venden por separado.
+- Las figuras son muy articuladas, con al menos 30 puntos de articulación.
+- ¡Cada figura incluye al menos un accesorio, como un arma o una cabeza intercambiable! ​​​​​
 - Esta ola de figuras de acción de Masters of the Universe Masterverse celebra el lanzamiento de la emocionante serie animada de Netflix, Revelación. ​
 - La colección de figuras de acción de 14 cm​de Masterverse incluye a He-Man, Skeletor y más personajes favoritos para exponer y divertirse.
 
