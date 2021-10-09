@@ -28,10 +28,10 @@ En este momento está [Nancy - Un día brillando en la oscuridad  Muñeca de pel
 
 🔎:
 
-- Incluye una muñeca de 42 centímetros con el pelo largo de color rosa que además brilla en la oscuridad
 - Además contiene 2 accesorios súper chulos: unas gafas naranjas y un pintalabios, para pintar sobre la muñeca, que también brilla en la oscuridad
-- Nancy va vestida con ropa muy moderna: una cazadora vaquera con dibujos, unos shorts y un crop top tye dye y unas sneackers con plataforma
-- Juguete recomendado para niños y niñas a los que les gusten las tendencias actuales y las muñecas, a partir de 3 años de edad
 - El pack tiene además un montón de pegatinas diferentes para personalizar su ropa o lo que tu peque más quiera
+- Incluye una muñeca de 42 centímetros con el pelo largo de color rosa que además brilla en la oscuridad
+- Juguete recomendado para niños y niñas a los que les gusten las tendencias actuales y las muñecas, a partir de 3 años de edad
+- Nancy va vestida con ropa muy moderna: una cazadora vaquera con dibujos, unos shorts y un crop top tye dye y unas sneackers con plataforma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0968JFCNY/?tag=tolees-21)
