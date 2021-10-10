@@ -28,12 +28,12 @@ En este momento está [LEGO 21034 Architecture Skyline Collection Londres  Set d
 
 🔎:
 
-- El río Támesis de Londres está representado en la base mediante placas transparentes.
-- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres).
-- architecture).
-- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan.
 - El folleto incluido contiene información acerca del diseñador, la arquitectura y la historia de cada edificio, así como datos históricos sobre Londres y su legado arquitectónico (sólo en inglés; disponible en otros idiomas en LEGO.com
+- architecture).
+- El río Támesis de Londres está representado en la base mediante placas transparentes.
 - Interpretación LEGO Architecture de Londres.
 - Construye la Galería Nacional, la Columna de Nelson, el London Eye, el Big Ben (la Torre de Isabel) y el Puente de la Torre.
+- Incluye una base de 4x32 y una placa decorativa con la etiqueta “London” (Londres).
+- El Puente de la Torre se abre para dar paso a los barcos que lo atraviesan.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01J41MPF8/?tag=tolees-21)
