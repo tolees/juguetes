@@ -28,10 +28,10 @@ Tienes [Beyblade - Hasbro Gaming Travel Quien es quien Juego de Viaje  Versión 
 
 🔎:
 
-- Se guarda en los dos tableros de juego
-- Fácil de montar y jugar
-- Versión de viaje del juego clásico deQuién es Quién?
-- ¡Descubre el personaje de tu contrincante!
 - ¡Prepara y juega en segundos!
+- Fácil de montar y jugar
+- Se guarda en los dos tableros de juego
+- ¡Descubre el personaje de tu contrincante!
+- Versión de viaje del juego clásico deQuién es Quién?
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00STL6L4G/?tag=tolees-21)

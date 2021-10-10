@@ -29,9 +29,9 @@ Está [Hasbro Gaming- Conecta 4 Gaming Travel Juego de Viaje  Versión español 
 ℹ️:
 
 - Conseguirlo se basa en seguir una estrategia
-- Sé el primer en conseguir cuatro en raya
 - Elije tu forma favorita para ganar
 - Juego de viaje
 - Abre la parte de abajo para volver a empezar
+- Sé el primer en conseguir cuatro en raya
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00STL7B86/?tag=tolees-21)
