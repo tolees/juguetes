@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball - Juego de mesa Supervivenci con un 31.12 % de descuento'
-date: 2021-10-08 16:22:16
+date: 2021-10-10 21:07:07
 image: 'https://m.media-amazon.com/images/I/51QR6JsiY8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dragon Ball'
 buyurl: 'https://www.amazon.es/dp/B08CHDVZBC/?tag=tolees-21'
 descuento: '31.12'
-average: '35.049'
+average: '34.9694117647059'
 ---
 
 En este momento está [Dragon Ball - Juego de mesa Supervivencia Universal](https://www.amazon.es/dp/B08CHDVZBC/?tag=tolees-21) a 30.99 EUR (original: 44.99 EUR) (31.12 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Dragon Ball - Juego de mesa Supervivencia Universal](http
 
 🔎:
 
+- Usa cartas de ataque, defensa, especial y evento para darle la vuelta al combate
 - Juego de mesa Dragon Ball Super
 - Apto de 2 a 6 jugadores
 - nfréntate a tus amigos con los guerreros más poderosos de los universos y decide quién es el más fuerte.
-- Usa cartas de ataque, defensa, especial y evento para darle la vuelta al combate
 - 30-45 minutos de juego
 - Cada jugador deberá elegir su equipo compuesto por 6 guerreros
 
