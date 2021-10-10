@@ -28,10 +28,10 @@ Ahora mismo tienes [Fisher-Price Libro de actividades juguete para bebé  Mattel
 
 🔎:
 
-- Bolsillo blando para introducir y jugar con el mordedor de koala
-- Tu bebé descubrirá cosas nuevas en cada página, como un panel para arrugar, un espejo, un mordedor, una hoja para jugar a cucú y etiquetas blandas
-- Libro de actividades blandito con oso de peluche y 5 páginas de actividades
 - El osito de peluche es óptimo para abrazarlo en cualquier momento y lugar
+- Bolsillo blando para introducir y jugar con el mordedor de koala
+- Libro de actividades blandito con oso de peluche y 5 páginas de actividades
 - Regalo original para bebes a partir de 3 meses
+- Tu bebé descubrirá cosas nuevas en cada página, como un panel para arrugar, un espejo, un mordedor, una hoja para jugar a cucú y etiquetas blandas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WTXNWF2/?tag=tolees-21)
