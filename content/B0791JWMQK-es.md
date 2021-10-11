@@ -28,10 +28,10 @@ Está [Nella The Knight Princesse Chevalier Muñeca Canta y Habla  Multicolor  B
 
 ℹ️:
 
-- Muñeca de Nella de 30 cm
-- Traje de cabellero brillante
 - Incluye 10 frases y canción
+- Traje de cabellero brillante
 - Su pelo es suave para que puedas divertirte haciendo miles de peinados
 - Cuerpo suave y blandito, cabeza de plástico
+- Muñeca de Nella de 30 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0791JWMQK/?tag=tolees-21)
