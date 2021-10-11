@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sakami Merchandise - sakami sak77008 Per con un 20.06 % de descuento'
-date: 2021-10-07 21:42:41
+date: 2021-10-11 10:40:16
 image: 'https://m.media-amazon.com/images/I/41EwpdZlSDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sakami Merchandise'
 buyurl: 'https://www.amazon.es/dp/B06XKK3GCF/?tag=tolees-21'
 descuento: '20.06'
-average: '16.6437777777778'
+average: '16.5860869565218'
 ---
 
 En este momento está [Sakami Merchandise - sakami sak77008 Personalizada One Punch Man Saitama Angry Versión Peluche  28 cm](https://www.amazon.es/dp/B06XKK3GCF/?tag=tolees-21) a 13.99 EUR (original: 17.5 EUR) (20.06 %  de descuento) en el siguiente enlace!
