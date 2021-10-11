@@ -30,7 +30,7 @@ Tienes [LEGO 60287 City Grandes Vehículos Tractor  Juguete de Granja con Figura
 
 - Los peques pueden cargar los fardos de heno y la grúa con una calabaza, una manzana y zanahorias en el cargador del tractor y luego alzarlos con el brazo de la grúa
 - Incluye una guía de construcción para niños a partir de 5 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
-- Este juguete de granja cuenta con minifiguras de un granjero y su hija, un conejo, 2 fardos de heno y una caja de verduras para divertirse a tope jugando en la granja
 - Los neumáticos del tractor rojo de juguete no tendrán ningún problema para llevar al granjero y a su hija hasta la cosecha, ¡donde les aguardan los hambrientos conejitos!
+- Este juguete de granja cuenta con minifiguras de un granjero y su hija, un conejo, 2 fardos de heno y una caja de verduras para divertirse a tope jugando en la granja
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21)
