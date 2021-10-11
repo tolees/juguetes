@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Friends 41429 Avión de Heartlake Ci al 19.67 % de descuento'
-date: 2021-10-07 22:46:19
+title: 'LEGO Friends 41429 Avión de Heartlake Ci al 27.20 % de descuento'
+date: 2021-10-11 12:48:46
 image: 'https://m.media-amazon.com/images/I/51CzANuQBXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0813RWM2C-es LEGO Friends 41429 Avión de Heartlake City Juguete de...'
 sku: 'B0813RWM2C-es'
 tags: [ 'Conjuntos de figuras de juguete','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Sets de construcción','lego', ]
-actualPrice: 60.24 EUR
+actualPrice: 54.59 EUR
 currency: EUR
-price: 60.24
+price: 54.59
 comparePrice: 74.99 EUR
 prodname: 'LEGO Friends 41429 Avión de Heartlake City Juguete de Construcción para Niños y Niñas de +7 años con Mini Muñecas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813RWM2C/?tag=tolees-21'
-descuento: '19.67'
-average: '61.4495731707318'
+descuento: '27.20'
+average: '61.4080000000001'
 ---
 
-Ahora mismo tienes [LEGO Friends 41429 Avión de Heartlake City Juguete de Construcción para Niños y Niñas de +7 años con Mini Muñecas](https://www.amazon.es/dp/B0813RWM2C/?tag=tolees-21) a 60.24 EUR (original: 74.99 EUR) (19.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO Friends 41429 Avión de Heartlake City Juguete de Construcción para Niños y Niñas de +7 años con Mini Muñecas](https://www.amazon.es/dp/B0813RWM2C/?tag=tolees-21) a 54.59 EUR (original: 74.99 EUR) (27.20 %  de descuento) en el siguiente enlace!
 
 [![LEGO Friends 41429 Avión de Heartlake Ci](https://m.media-amazon.com/images/I/51CzANuQBXL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0813RWM2C/?tag=tolees-21)
 
