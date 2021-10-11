@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75255 Star Wars Yoda  Set de constr al 21.05 % de descuento'
-date: 2021-10-08 05:48:36
+title: 'LEGO 75255 Star Wars Yoda  Set de constr al 20.87 % de descuento'
+date: 2021-10-11 18:53:54
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07NDB2SFH-es LEGO 75255 Star Wars Yoda Set de construcción para Niños...'
 sku: 'B07NDB2SFH-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego', ]
-actualPrice: 90.79 EUR
+actualPrice: 90.99 EUR
 currency: EUR
-price: 90.79
+price: 90.99
 comparePrice: 114.99 EUR
 prodname: 'LEGO 75255 Star Wars Yoda  Set de construcción para Niños 10 años con Espada Láser  Modelo Coleccionable'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
-descuento: '21.05'
-average: '98.7329860031105'
+descuento: '20.87'
+average: '98.6972445820434'
 ---
 
-Ahora mismo tienes [LEGO 75255 Star Wars Yoda  Set de construcción para Niños 10 años con Espada Láser  Modelo Coleccionable](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) a 90.79 EUR (original: 114.99 EUR) (21.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75255 Star Wars Yoda  Set de construcción para Niños 10 años con Espada Láser  Modelo Coleccionable](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21) a 90.99 EUR (original: 114.99 EUR) (20.87 %  de descuento) en el siguiente enlace!
 
 [![LEGO 75255 Star Wars Yoda  Set de constr](https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21)
 
