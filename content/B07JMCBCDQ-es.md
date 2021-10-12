@@ -29,8 +29,8 @@ Ahora mismo tienes [PLAYMOBIL 1.2.3 Camión con Garaje  A partir de 18 meses  70
 🔎:
 
 - Una figura con un vehículo y accesorios
+- Desarrolla la imaginación y la creatividad
 - EL compartimento puede inclinarse
 - Tejado con función de calidades
-- Desarrolla la imaginación y la creatividad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JMCBCDQ/?tag=tolees-21)
