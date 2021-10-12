@@ -28,9 +28,9 @@ En este momento está [Figuras de acción Famosa - Power Players - Vehículo Mon
 
 🔎:
 
-- Torno retráctil de trabajo y asiento ajustable para las figuras más grandes
 - Figuras no incluidas
 - Bearbarian transporta al equipo en este malvado camión monstruo
 - Enormes puños desplegables con acción de golpe de pistón
+- Torno retráctil de trabajo y asiento ajustable para las figuras más grandes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088MS7PR8/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Hasbro Gaming quién  C2124B09 ](https://www.amazon.es/dp
 
 🔎:
 
-- No te pierdas el juego de adivinar personajes
-- Para 2 jugadores
-- Incluye tableros de sobremesa
 - Elije tu personaje misterioso
+- Incluye tableros de sobremesa
 - Los jugadores intentan adivinar el personaje misterioso de su adversario
+- Para 2 jugadores
+- No te pierdas el juego de adivinar personajes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08483QGLF/?tag=tolees-21)
