@@ -28,15 +28,15 @@ Tienes [LEGO 45300 EDUCE EDUCE WEDO 2.0 Set](https://www.amazon.es/dp/B01A9A9XLW
 
 🔎:
 
-- Disponible tanto para equipos de escritorio como para tabletas
-- Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
-- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
-- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
-- Habilidades básicas de programación
 - Habilidades de colaboración y presentación
-- Evaluación integrada
-- Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
 - Investigación, modelado y diseño de soluciones
 - Valores clave de aprendizaje:
+- Despertar el interés de los estudiantes en la ciencia convirtiéndola en algo real y relevante
+- Contenedor resistente y bandeja clasificadora que facilita la gestión de la clase
+- Herramienta de documentación integrada de los proyectos: fotografías, capturas de pantalla, vídeos y texto escrito
+- Evaluación integrada
+- Disponible tanto para equipos de escritorio como para tabletas
+- Pensamiento crítico y resolución de problemas Propuestas comerciales exclusivas:
+- Habilidades básicas de programación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01A9A9XLW/?tag=tolees-21)
