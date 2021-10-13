@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Torre del Reloj  al 20.04 % de rebaja'
-date: 2021-10-12 01:29:12
-image: 'https://m.media-amazon.com/images/I/51DdmNv7fqL._SL500_._SL400_.jpg'
+date: 2021-10-13 01:50:00
+image: 'https://m.media-amazon.com/images/I/51ixjsp6AfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,21 +19,21 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07G3S3M9J/?tag=tolees-21'
 descuento: '20.04'
-average: '85.9814868105515'
+average: '85.9670574162679'
 ---
 
 Tienes [LEGO 75948 Harry Potter Torre del Reloj de Hogwarts  Juguete de Construcción con 8 Mini Figuras de Personajes Favoritos](https://www.amazon.es/dp/B07G3S3M9J/?tag=tolees-21) con precio final de  79.95 EUR (original: 99.99 EUR) (20.04 %  de rebaja) aqui!
 
-[![LEGO 75948 Harry Potter Torre del Reloj ](https://m.media-amazon.com/images/I/51DdmNv7fqL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07G3S3M9J/?tag=tolees-21)
+[![LEGO 75948 Harry Potter Torre del Reloj ](https://m.media-amazon.com/images/I/51ixjsp6AfL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07G3S3M9J/?tag=tolees-21)
 
 🔎:
 
-- El aula donde se imparte la clase de Defensa Contra las Artes Oscuras incluye una mesa, una silla, pociones, una vitrina, un libro, un escritorio con tintero y pluma, una lámpara para construir y una pizarra.
+- El ala de la enfermería incluye 2 camas y 2 lámparas para construir.
+- Incluye 8 minifiguras inspiradas en el mundo de Harry Potter (novedad en junio de 2019): Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore y Madame Maxime.
 - Este set de juguetes LEGO Harry Potter contiene la Torre del Reloj de Hogwarts, de 3 plantas, con el vestíbulo de entrada, el aula donde se imparte la clase de Defensa Contra las Artes Oscuras, el ala de la enfermería, el baño de prefectos, el despacho de Dumbledore y una sección decorada con glaciales adornos para el Baile de Navidad.
 - Todas las figuras llevan varitas y están ataviadas para asistir al Baile de Navidad.
-- El vestíbulo de entrada incluye un arcón y el Cáliz de Fuego.
-- Incluye 8 minifiguras inspiradas en el mundo de Harry Potter (novedad en junio de 2019): Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore y Madame Maxime.
 - Cuenta con un mecanismo para que los peques puedan cambiar la hora del reloj e imaginar aventuras de viajes en el tiempo con el Giratiempo, ¡y una función de “baile” para animar el Baile de Navidad!
-- El ala de la enfermería incluye 2 camas y 2 lámparas para construir.
+- El aula donde se imparte la clase de Defensa Contra las Artes Oscuras incluye una mesa, una silla, pociones, una vitrina, un libro, un escritorio con tintero y pluma, una lámpara para construir y una pizarra.
+- El vestíbulo de entrada incluye un arcón y el Cáliz de Fuego.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G3S3M9J/?tag=tolees-21)
