@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 60280 City Bomberos  Camión de Bomb al 30.02 % de descuento'
-date: 2021-10-06 00:43:31
-image: 'https://m.media-amazon.com/images/I/51dt9-E7ymL._SL500_._SL400_.jpg'
+date: 2021-10-13 13:33:07
+image: 'https://m.media-amazon.com/images/I/51enjFBA-fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4KJ4W6/?tag=tolees-21'
 descuento: '30.02'
-average: '17.19'
+average: '17.2771428571429'
 ---
 
 Está [LEGO 60280 City Bomberos  Camión de Bomberos Juguete con Escalera y Mini Figura de Bombero  Idea de Regalo para Niños y Niñas +4 Años](https://www.amazon.es/dp/B08G4KJ4W6/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![LEGO 60280 City Bomberos  Camión de Bomb](https://m.media-amazon.com/images/I/51dt9-E7ymL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08G4KJ4W6/?tag=tolees-21)
+[![LEGO 60280 City Bomberos  Camión de Bomb](https://m.media-amazon.com/images/I/51enjFBA-fL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08G4KJ4W6/?tag=tolees-21)
 
 ℹ️:
 
