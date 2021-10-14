@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf- Elite Commander RC-6  Hasbro 0  al 37.39 % de descuento'
-date: 2021-10-07 17:33:51
+date: 2021-10-14 01:24:01
 image: 'https://m.media-amazon.com/images/I/41p53agApfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B07ZYCNZTZ/?tag=tolees-21'
 descuento: '37.39'
-average: '13.463137254902'
+average: '13.4037735849057'
 ---
 
 Ahora mismo tienes [Nerf- Elite Commander RC-6  Hasbro 0 ](https://www.amazon.es/dp/B07ZYCNZTZ/?tag=tolees-21) a 11.89 EUR (original: 18.99 EUR) (37.39 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Nerf- Elite Commander RC-6  Hasbro 0 ](https://www.amazon.es
 
 🔎:
 
-- LANZA DARDOS A 27 METROS: Arroja dardos con este lanzador a una distancia de hasta 27 m
 - INCLUYE 12 DARDOS NERF: Con 12 dardos oficiales de Nerf para cargar el tambor rotatorio de 6 dardos al completo y con otros 6 para que tengas todo listo para la recarga, lanza, recarga y vuelve a lanzar
 - LANZADOR PREPARADO PARA ACTUALIZACIONES. Personaliza el lanzador en todas las batallas o misiones sacando partido a los 3 raíles tácticos, el punto de unión del cañón y el punto de acople de la culata, culata y extensión del cañón no incluidas
 - DESCARGA A RÁFAGA: Arrastra hacia atrás el deslizador de carga y aprieta el gatillo para lanzar 1 dardo o descarga los 6 dardos a ráfaga manteniendo apretado el gatillo y moviendo el deslizador hacia delante y hacia atrás repetidamente
 - Extensión del cañón y culata no incluidos
+- LANZA DARDOS A 27 METROS: Arroja dardos con este lanzador a una distancia de hasta 27 m
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZYCNZTZ/?tag=tolees-21)
