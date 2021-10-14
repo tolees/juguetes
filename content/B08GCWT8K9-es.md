@@ -28,8 +28,8 @@ Tienes [Fornite-Pistola NERF FORTNITE Pump SG ¡Lanzamiento DE Larga Distancia  
 
 🔎:
 
-- Diseñado para embellecer los momentos del juego
 - Producto de calidad óptima
+- Diseñado para embellecer los momentos del juego
 - Nerf fortnite pump sg
 - Producto que combina tradición e innovación
 
