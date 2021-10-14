@@ -29,9 +29,9 @@ Está [JUSTICE LEAGUE - DC Shazam Figura de Acción 30 cm Dr. Sivana  Juguetes N
 ℹ️:
 
 - Traje con gabardina idéntico al de la película
-- Nuevos rasgos faciales que le otorgan un gran parecido con el actor
-- Para recrear la batalla definitiva entre el bien y el mal, consigue también a shazam
 - Auténtica figura de acción de dr; sivana de hasta 30 cm de altura
+- Nuevos rasgos faciales que le otorgan un gran parecido con el actor
 - 11 puntos de articulación para recrear escenas de lucha realistas
+- Para recrear la batalla definitiva entre el bien y el mal, consigue también a shazam
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GSG1TTX/?tag=tolees-21)
