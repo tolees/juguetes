@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 76897 Speed Champions 1985 Audi Spo al 25.01 % de descuento'
-date: 2021-10-06 16:26:01
+title: 'LEGO 76897 Speed Champions 1985 Audi Spo al 15.51 % de descuento'
+date: 2021-10-15 02:00:38
 image: 'https://m.media-amazon.com/images/I/51R-SmVU8FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B07W6Q9G1R-es LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1...'
 sku: 'B07W6Q9G1R-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
-actualPrice: 14.99 EUR
+actualPrice: 16.89 EUR
 currency: EUR
-price: 14.99
+price: 16.89
 comparePrice: 19.99 EUR
 prodname: 'LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Coche de Juguete para Construir con Mini Figura de Piloto'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W6Q9G1R/?tag=tolees-21'
-descuento: '25.01'
-average: '18.9135072463766'
+descuento: '15.51'
+average: '18.9051585014407'
 ---
 
-Está [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Coche de Juguete para Construir con Mini Figura de Piloto](https://www.amazon.es/dp/B07W6Q9G1R/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Coche de Juguete para Construir con Mini Figura de Piloto](https://www.amazon.es/dp/B07W6Q9G1R/?tag=tolees-21) con 15.51 de descuento por 16.89 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![LEGO 76897 Speed Champions 1985 Audi Spo](https://m.media-amazon.com/images/I/51R-SmVU8FL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07W6Q9G1R/?tag=tolees-21)
 
 ℹ️:
 
-- Los coches LEGO Speed Champions son ahora un 25 % más grandes e incluso más realistas. El coche de rally 1985 Audi Sport quattro S1 mide aproximadamente 6 cm de altura, 16 cm de longitud y 7 cm de anchura.
-- Estos ladrillos y elementos LEGO se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
-- Los ladrillos LEGO llevan cumpliendo las normas más estrictas del sector más de 60 años, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y se separan con facilidad una y otra vez.
-- Descubre la maqueta LEGO 1985 Audi Sport quattro S1, una réplica coleccionable y espectacularmente detallada del original, acompañada de 1 minifigura de un piloto. El regalo LEGO perfecto para los numerosos devotos de este coche clásico.
-- A los fans del Audi Sport quattro S1 de 1985 les apasionará crear su miniversión con ladrillos para construir LEGO. Tendrán la oportunidad de exponerlo para admiración de todos o de poner a prueba su potencia compitiendo contra otras maquetas.
-- Los kits de construcción LEGO Speed Champions ofrecen a los entusiastas de los coches la oportunidad de construir miniversiones de sus modelos favoritos y recrear la trepidante espectacularidad de los circuitos automovilísticos.
-- Un coche de juguete construible basado en el modelo Audi Sport quattro S1 original de 1985 y 1 minifigura coleccionable con un mono de competición Audi como el auténtico. Este juego de juguetes fascinará a los peques.
 - No te preocupes si al principio no sabes qué hacer con todas las piezas de este kit de construcción para niños. Incluye instrucciones fáciles de seguir para que la diversión empiece lo antes posible.
 - Este kit de construcción de 250 piezas para niños y niñas a partir de 8 años es un maravilloso regalo tanto para los apasionados fans de este célebre vehículo como para los que adoran jugar con coches de carreras de juguete.
+- Un coche de juguete construible basado en el modelo Audi Sport quattro S1 original de 1985 y 1 minifigura coleccionable con un mono de competición Audi como el auténtico. Este juego de juguetes fascinará a los peques.
+- Descubre la maqueta LEGO 1985 Audi Sport quattro S1, una réplica coleccionable y espectacularmente detallada del original, acompañada de 1 minifigura de un piloto. El regalo LEGO perfecto para los numerosos devotos de este coche clásico.
+- A los fans del Audi Sport quattro S1 de 1985 les apasionará crear su miniversión con ladrillos para construir LEGO. Tendrán la oportunidad de exponerlo para admiración de todos o de poner a prueba su potencia compitiendo contra otras maquetas.
+- Estos ladrillos y elementos LEGO se han sometido a pruebas sin descanso y satisfacen los requisitos de las normas de seguridad y calidad internacionales más exigentes.
+- Los ladrillos LEGO llevan cumpliendo las normas más estrictas del sector más de 60 años, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y se separan con facilidad una y otra vez.
+- Los kits de construcción LEGO Speed Champions ofrecen a los entusiastas de los coches la oportunidad de construir miniversiones de sus modelos favoritos y recrear la trepidante espectacularidad de los circuitos automovilísticos.
+- Los coches LEGO Speed Champions son ahora un 25 % más grandes e incluso más realistas. El coche de rally 1985 Audi Sport quattro S1 mide aproximadamente 6 cm de altura, 16 cm de longitud y 7 cm de anchura.
 - ¡Este juego no requiere pilas! Podrás jugar en cuanto lo construyas. Es un coche de juguete que se alimenta exclusivamente de la imaginación de los niños.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W6Q9G1R/?tag=tolees-21)
