@@ -28,9 +28,9 @@ Ahora mismo tienes [Nerf Microshots Fortnite Battle Bus  Hasbro E6752ES0 ](https
 
 🔎:
 
-- DISEÑO COMPACTO: Los lanzadardos coleccionables de la serie MicroShots de Nerf reproducen el aspecto de los lanzadores originales y, en este caso, del autobus de batalla, pero con un diseño compacto muy original
 - FORMA PARTE DE LA SERIE COLECCIONABLE MICROSHOTS: Este lanzador pertenece a la serie MicroShots de microlanzadores de dardos coleccionables
-- MICROLANZADOR AUTOBÚS DE BATALLA DE FORTNITE: Este mini lanzadardos de la serie MicroShots de Nerf se inspira en el icónico autobús de batalla del conocido videojuego, Fortnite Battle Royale
 - INCLUYE 2 DARDOS Y LOS LANZA DE UNO EN UNO: Este lanzador viene con 2 dardos Nerf Elite oficiales y los lanza de uno en uno: Además, es un lanzador manual (no se necesitan pilas)
+- MICROLANZADOR AUTOBÚS DE BATALLA DE FORTNITE: Este mini lanzadardos de la serie MicroShots de Nerf se inspira en el icónico autobús de batalla del conocido videojuego, Fortnite Battle Royale
+- DISEÑO COMPACTO: Los lanzadardos coleccionables de la serie MicroShots de Nerf reproducen el aspecto de los lanzadores originales y, en este caso, del autobus de batalla, pero con un diseño compacto muy original
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VZYV7ZV/?tag=tolees-21)

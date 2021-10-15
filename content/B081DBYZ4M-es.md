@@ -28,10 +28,10 @@ Tienes [BIGBEN - Sony Oficial - Auriculares Gaming Stereo  color negro + PES 201
 
 🔎:
 
-- Altavoces de 40mm para bajos potentes y sonido cristalino
-- Compatible con PlayStation 4
-- Videojuego PES 2019 incluido (versión española)
-- Auriculares con cómodas almohadillas, para largas sesiones de juego
 - Micrófono ajustable
+- Altavoces de 40mm para bajos potentes y sonido cristalino
+- Auriculares con cómodas almohadillas, para largas sesiones de juego
+- Videojuego PES 2019 incluido (versión española)
+- Compatible con PlayStation 4
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B081DBYZ4M/?tag=tolees-21)
