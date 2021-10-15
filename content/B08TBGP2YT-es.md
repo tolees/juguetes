@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '505 Games - Control - Ultimate Edition P al 34.15 % de descuento'
-date: 2021-10-06 12:30:59
+date: 2021-10-15 15:10:20
 image: 'https://m.media-amazon.com/images/I/5119V5pdD2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '505 Games'
 buyurl: 'https://www.amazon.es/dp/B08TBGP2YT/?tag=tolees-21'
 descuento: '34.15'
-average: '33.4218181818182'
+average: '32.8858333333334'
 ---
 
 Ahora mismo tienes [505 Games - Control - Ultimate Edition Ps5](https://www.amazon.es/dp/B08TBGP2YT/?tag=tolees-21) a 26.99 EUR (original: 40.99 EUR) (34.15 %  de descuento) en el siguiente enlace!
