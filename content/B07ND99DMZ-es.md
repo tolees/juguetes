@@ -29,13 +29,13 @@ Tienes [LEGO - Hidden Side Instituto Encantado de Newbury Juguete de construcci�
 🔎:
 
 - Usar la app LEGO Hidden Side es como mirar por una ventana a un divertido y escalofriante lado oculto que está repleto de desafiantes misterios por resolver, fantasmas por derrotar y fantasmas jefe por dominar, como el Sr. Nibs, diferentes en cada set.
-- Este juguete con funciones de realidad aumentada incluye 8 figuras: Jack Davids (con un smartphone), Parker L. Jackson (con un smartphone), Douglas Elton, Rose Davids (la directora del instituto), el Sr. Clarke, los alumnos Paola y Wade, y una figura del perro fantasma de Davids, Spencer.
-- Para disfrutar completamente de la experiencia en realidad aumentada, se necesita una tableta o un teléfono móvil (no incluido). Compatible con determinados dispositivos iOS y Android. Pide permiso a tus padres antes de conectarte a Internet.
-- Descarga la app LEGO Hidden Side y apunta con tu teléfono al Instituto Encantado de Newbury para que este set infantil basado en una escuela cobre vida. Recorre el espacio con el teléfono para descubrir un entorno que cambia continuamente, oculto alrededor del modelo.
-- Con el set LEGO Hidden Side Instituto Encantado de Newbury, los jóvenes constructores podrán combinar el juego físico y el digital en una asombrosa experiencia en realidad aumentada (AR) para uno o varios jugadores. Es perfecto para niños a partir de 9 años.
-- El instituto mide más de 30 cm de altura, 43 cm de ancho y 26 cm de profundidad en su versión embrujada.
 - La escuela de juguete cuenta con un montón de accesorios que invitan a jugar, como una cámara oculta, una parada de autobuses junto al edificio, un laboratorio informático, una biblioteca, un baño, un aula de química y un campanario. Toda la escuela puede dejar de ser “normal” y convertirse en un lugar embrujado.
-- Construye el set de construcción físico, juega con él y luego haz que cobre vida al interactuar con el modelo mientras lo ves por la app de AR.
+- El instituto mide más de 30 cm de altura, 43 cm de ancho y 26 cm de profundidad en su versión embrujada.
 - Ambientados en Newbury, una ciudad imaginaria donde los fantasmas rondan los edificios y atormentan a los vecinos, los sets LEGO Hidden Side permiten a tu peque representar emocionantes aventuras de cazadores de fantasmas que combinan modelos LEGO físicos con tecnología de realidad aumentada completamente interactiva.
+- Con el set LEGO Hidden Side Instituto Encantado de Newbury, los jóvenes constructores podrán combinar el juego físico y el digital en una asombrosa experiencia en realidad aumentada (AR) para uno o varios jugadores. Es perfecto para niños a partir de 9 años.
+- Este juguete con funciones de realidad aumentada incluye 8 figuras: Jack Davids (con un smartphone), Parker L. Jackson (con un smartphone), Douglas Elton, Rose Davids (la directora del instituto), el Sr. Clarke, los alumnos Paola y Wade, y una figura del perro fantasma de Davids, Spencer.
+- Construye el set de construcción físico, juega con él y luego haz que cobre vida al interactuar con el modelo mientras lo ves por la app de AR.
+- Descarga la app LEGO Hidden Side y apunta con tu teléfono al Instituto Encantado de Newbury para que este set infantil basado en una escuela cobre vida. Recorre el espacio con el teléfono para descubrir un entorno que cambia continuamente, oculto alrededor del modelo.
+- Para disfrutar completamente de la experiencia en realidad aumentada, se necesita una tableta o un teléfono móvil (no incluido). Compatible con determinados dispositivos iOS y Android. Pide permiso a tus padres antes de conectarte a Internet.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ND99DMZ/?tag=tolees-21)
