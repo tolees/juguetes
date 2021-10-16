@@ -28,9 +28,9 @@ Está [LEGO 60275 City Policía Helicóptero de Policía  Juguete con Minifigura
 
 ℹ️:
 
-- Los niños pueden fijar la ladrona y los billetes a la moto acuática y, una vez capturada, colocarla en el fuselaje tras la persecución
 - Este juguete para niños a partir de 4 años incluye una guía de construcción impresa e Instructions Plus en la app Instrucciones de Montaje de LEGO para ver de cerca y rotar
 - El juguete de helicóptero viene con una placa decorativa de policía, un reflector y una cabina para minifigura, rotores giratorios y fuselaje que se abre
 - Este juguete para niños y niñas incorpora un conjunto inicial de ladrillos especial, para que incluso los menos experimentados puedan sentirse orgullosos de sus creaciones
+- Los niños pueden fijar la ladrona y los billetes a la moto acuática y, una vez capturada, colocarla en el fuselaje tras la persecución
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G4HRF6D/?tag=tolees-21)

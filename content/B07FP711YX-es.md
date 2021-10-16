@@ -28,10 +28,10 @@ Está [LEGO 75238 Star Wars TM Action Battle: Asalto a Endor](https://www.amazon
 
 ℹ️:
 
-- Action Battle: Asalto a Endor
-- Incluye también 2 cañones y 4 misiles
-- Edad recomendada por el fabricante: 7+
-- El juguete de construcción LEGO Star Wars basado en la batalla de Endor cuenta con una moto speeder sobre una base y un árbol para construir, ambos con un blanco
 - Número de piezas: 193
+- El juguete de construcción LEGO Star Wars basado en la batalla de Endor cuenta con una moto speeder sobre una base y un árbol para construir, ambos con un blanco
+- Edad recomendada por el fabricante: 7+
+- Incluye también 2 cañones y 4 misiles
+- Action Battle: Asalto a Endor
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FP711YX/?tag=tolees-21)
