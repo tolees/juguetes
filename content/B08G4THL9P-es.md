@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60287 City Grandes Vehículos Tracto al 23.01 % de rebaja'
-date: 2021-10-16 07:08:19
+date: 2021-10-17 13:50:01
 image: 'https://m.media-amazon.com/images/I/512zo8i-YYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21'
 descuento: '23.01'
-average: '16.7236781609195'
+average: '16.7085227272727'
 ---
 
 Tienes [LEGO 60287 City Grandes Vehículos Tractor  Juguete de Granja con Figura de Conejo  para Niños y Niñas +5 Años](https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21) con precio final de  15.39 EUR (original: 19.99 EUR) (23.01 %  de rebaja) aqui!
