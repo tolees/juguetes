@@ -28,10 +28,10 @@ Ahora mismo tienes [ZIOCOM Nintendo Switch Adaptador Bluetooth  Conector USB C  
 
 🔎:
 
-- No se necesita controlador, Plug and Play: Extremadamente pequeño y liviano para uso portátil, use el controlador autónomo Switch y no se necesita un controlador adicional. Conecta y reproduce. También compatible con Switch con funda protectora.
 - ¡Emparejamiento rápido! : Este adaptador de switch bluetooth con 5.0 versión Bluetooth. Simplemente deje que el adaptador para bluetooth conecte sus dispositivos de altavoces bluetooth y conecte este transmisor bluetooth al puerto Switch tipo c de Switch. Transmisión sin barreras de 10 metros sin ninguna pérdida.
 - Sin batería: tecnología de carga de paso de PD de USB inteligente incorporada. Transmisión continua de audio inalámbrica incluso con carga de paso a Switch y sin sobrecalentamiento. No necesita batería pero siempre está encendida.
 - USB tipo C:un transmisor Bluetooth hecho a medida exclusivamente para Switch. Instalado de forma segura y perfecta en el Switch.
 - Sincronización de audio en tiempo real de baja latencia AptX: Benefíciese del audio inalámbrico Bluetooth para una buena experiencia de juego sin ruido externo para usted o sin molestias para otros en público o para sus seres queridos en la noche en casa.
+- No se necesita controlador, Plug and Play: Extremadamente pequeño y liviano para uso portátil, use el controlador autónomo Switch y no se necesita un controlador adicional. Conecta y reproduce. También compatible con Switch con funda protectora.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X2CTS32/?tag=tolees-21)
