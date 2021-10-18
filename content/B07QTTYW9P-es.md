@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Final Fantasy XIV: Shadowb al 63.72 % de rebaja'
-date: 2021-10-15 14:09:16
+date: 2021-10-18 11:29:20
 image: 'https://m.media-amazon.com/images/I/51Oz8Y7nKkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B07QTTYW9P/?tag=tolees-21'
 descuento: '63.72'
-average: '22.9615624999999'
+average: '22.8703030303029'
 ---
 
 Tienes [Square Enix - Final Fantasy XIV: Shadowbringers - Complete Edition  PS4 ](https://www.amazon.es/dp/B07QTTYW9P/?tag=tolees-21) con precio final de  19.95 EUR (original: 54.99 EUR) (63.72 %  de rebaja) aqui!
