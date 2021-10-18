@@ -28,11 +28,11 @@ Ahora mismo tienes [Bethesda - Deathloop – Deluxe Edition  Playstation 5 - Edi
 
 🔎:
 
+- Incluye una lámina metálica exclusiva
 - Juego Deathloop; selecciones de la Banda Sonora Original. Se requiere un dispositivo de almacenamiento USB para acceder y reproducir la banda sonora.
 - DLC Diseño Colt en tu fiesta me colé
-- Incluye una lámina metálica exclusiva
-- Dos Ingenios, mejoras para equipar; dLC Trencher de Transtar
-- DLC Tribunal Abajo los Ricos
 - DLC Diseño Juliana Tiradora Certera; dLC Four Pounder 44 Quilates
+- DLC Tribunal Abajo los Ricos
+- Dos Ingenios, mejoras para equipar; dLC Trencher de Transtar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R51ZVM7/?tag=tolees-21)
