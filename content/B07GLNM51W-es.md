@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels City Global Nemesis TV  Dinos al 31.75 % de descuento'
-date: 2021-10-15 14:57:19
+date: 2021-10-19 14:12:42
 image: 'https://m.media-amazon.com/images/I/41WAnCCReOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hot Wheels'
 buyurl: 'https://www.amazon.es/dp/B07GLNM51W/?tag=tolees-21'
 descuento: '31.75'
-average: '23.4726363636363'
+average: '23.5039639639639'
 ---
 
 Está [Hot Wheels City Global Nemesis TV  Dinosaurio Triceratops y lanzador de coches de juguete  Mattel GBF97 ](https://www.amazon.es/dp/B07GLNM51W/?tag=tolees-21) con 31.75 de descuento por 26.95 EUR (original: 39.49 EUR) en el siguiente enlace!
