@@ -28,8 +28,8 @@ Está [Castorland Our special place in Venice 3000 pcs Puzzle - Rompecabezas  Pu
 
 ℹ️:
 
-- Fabricado con cartón reciclado
 - Puzle troquelado de alta calidad
 - Fácil de hacer, no requiere instrucciones.
+- Fabricado con cartón reciclado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HHMVPCK/?tag=tolees-21)
