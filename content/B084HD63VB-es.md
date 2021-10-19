@@ -29,8 +29,8 @@ En este momento está [Educa - Faro Cerca del Océano Puzzle  3000 Piezas  Multi
 🔎:
 
 - Serie Genuine
-- Edad recomendada: a partir de 12 años
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Edad recomendada: a partir de 12 años
 - Número de piezas: 3.000, medida aproximada una vez montado: 120 x 85
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084HD63VB/?tag=tolees-21)

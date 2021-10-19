@@ -29,9 +29,9 @@ Tienes [Edge Entertainment- Juguetes  Color  EECMAQ02 ](https://www.amazon.es/dp
 🔎:
 
 - Se necesita el juego básico Arcadia Quest
-- Recluta a tus Héroes ¡y desentierra el botín para conseguir combinaciones imparables y hacer de tu Gremio el mejor de todos! ¡Sólo tú podrás vencer esta amenaza de Más allá de la tumba!
-- Esta expansión presenta nuevas mecánicas para el juego, incluyendo equipo que otorga a los Héroes más poder a medida que van muriendo, hechizos mágicos que pueden desterrar a su víctima al inframundo, y fantasmas que pueden atacar y moverse a través de las paredes.
 - Los malvados experimentos que el Dr. Araña ha realizado en su búsqueda de la inmortalidad han desatado una plaga de muertos vivientes en las calles de Arcadia!
 - En esta expansión de campaña para Arcadia Quest, los jugadores enfrentarán sus Gremios contra la horda de muertos vivientes del Rey Terror y los extraños compinches del Dr. Araña.
+- Esta expansión presenta nuevas mecánicas para el juego, incluyendo equipo que otorga a los Héroes más poder a medida que van muriendo, hechizos mágicos que pueden desterrar a su víctima al inframundo, y fantasmas que pueden atacar y moverse a través de las paredes.
+- Recluta a tus Héroes ¡y desentierra el botín para conseguir combinaciones imparables y hacer de tu Gremio el mejor de todos! ¡Sólo tú podrás vencer esta amenaza de Más allá de la tumba!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01124FKHK/?tag=tolees-21)
