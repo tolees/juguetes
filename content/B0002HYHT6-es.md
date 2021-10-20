@@ -29,9 +29,9 @@ Está [HABA HABA-302247 Monza - ESP  302247   Juego de Mesa de Dados  con una tu
 ℹ️:
 
 - Si haces rodar los colores correctos y los combinas inteligentemente, avanzarás especialmente rápido y ganarás la emocionante carrera.
-- Monza es el primer juego táctico infantil en torno a una carrera de coches picantes: Seis coches de carreras de madera de colores están listos en la salida para la gran carrera.
-- El juego de mesa anima a reconocer y nombrar los colores a través de los seis dados de colores
-- Con el premio "Spiel Gut" otorgado
 - Gracias a las reglas fáciles de entender, la turbulenta carrera de colores es adecuada para toda la familia.
+- Monza es el primer juego táctico infantil en torno a una carrera de coches picantes: Seis coches de carreras de madera de colores están listos en la salida para la gran carrera.
+- Con el premio "Spiel Gut" otorgado
+- El juego de mesa anima a reconocer y nombrar los colores a través de los seis dados de colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0002HYHT6/?tag=tolees-21)
