@@ -28,10 +28,10 @@ Tienes [Avance - Monster Crown - Nintendo Switch](https://www.amazon.es/dp/B09CY
 
 ℹ️:
 
-- Toma decisiones cruciales que cambiarán drásticamente el desarrollo del juego.
-- Juega en línea para combatir, comerciar y mostrar al mundo entero tus nuevas especies.
 - Viaja a través de Isla Real con tus monstruos aliados para desvelar los oscuros secretos del mundo.
 - Cría y combina más de 200 monstruos básicos para crear nuevas especies.
+- Toma decisiones cruciales que cambiarán drásticamente el desarrollo del juego.
 - Realiza pactos con los monstruos para obtener su protección a cambio de refugio.
+- Juega en línea para combatir, comerciar y mostrar al mundo entero tus nuevas especies.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B09CYRK5ZJ/?tag=tolees-21)
