@@ -28,10 +28,10 @@ Está [HORI - Vault Case Animal Crossing  Nintendo Switch / Switch Lite ](https:
 
 ℹ️:
 
-- Separador interno acolchado para proteger la pantalla y almacenar los cartuchos de juego
-- Bolsillo de malla para cables, auriculares, etc
-- Forro interior decorado con diseño exclusivo de Animal Crossing: New Horizon
-- Licencia oficial de Nintendo
 - Compatible con Nintendo Switch y Switch Lite
+- Forro interior decorado con diseño exclusivo de Animal Crossing: New Horizon
+- Separador interno acolchado para proteger la pantalla y almacenar los cartuchos de juego
+- Licencia oficial de Nintendo
+- Bolsillo de malla para cables, auriculares, etc
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C6WUP6S/?tag=tolees-21)
