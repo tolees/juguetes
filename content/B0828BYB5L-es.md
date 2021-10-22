@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.31 % en Edge Entertainment- Eminent Domain - Jue'
-date: 2021-10-20 10:43:02
+date: 2021-10-22 11:17:05
 image: 'https://m.media-amazon.com/images/I/41DgCaGIguL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B0828BYB5L/?tag=tolees-21'
 descuento: '40.31'
-average: '24.5671428571429'
+average: '24.32'
 ---
 
 Tienes [Edge Entertainment- Eminent Domain - Juego de Mesa - Español  Color  EETMED01 ](https://www.amazon.es/dp/B0828BYB5L/?tag=tolees-21) con un 40.31 % de descuento con precio de oferta de 20.86 EUR (original: 34.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [Edge Entertainment- Eminent Domain - Juego de Mesa - Español  Color  EE
 
 ℹ️:
 
-- ¿Colonizarlos, o conquistarlos por la fuerza?
 - Produce recursos para intercambiarlos o investiga nuevas tecnologías para forjar el mejor imperio y ganar la partida
+- ¿Colonizarlos, o conquistarlos por la fuerza?
 - Explora la galaxia para expandir tu imperio
 - ¿Qué harás con los planetas cercanos?
 
