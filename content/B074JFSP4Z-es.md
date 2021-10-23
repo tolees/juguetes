@@ -28,9 +28,9 @@ Tienes [Zygomatic- Juego de Cartas Challenge  Color noir  Captain Macaque CMCOCH
 
 🔎:
 
-- Pruebas táctiles, observación, análisis, laberintos, coordinación
-- Producto en castellano
 - Compite con los demás jugadores en 8 tipos de retos que estimularán tus habilidades cognitivas
 - Desafía a tu cerebro con un divertido juego que pondrá a prueba tu razonamiento, memoria y rapidez
+- Producto en castellano
+- Pruebas táctiles, observación, análisis, laberintos, coordinación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074JFSP4Z/?tag=tolees-21)
