@@ -28,10 +28,10 @@ En este momento está [SUPERTHINGS RIVALS OF KABOOM - SuperThings - Playset Batt
 
 🔎:
 
+- Contiene: 1 arena, 2 battle spinners exclusivos y 2 superthings exclusivos
 - Se amontonan alrededor del estadio preparados para el combate. 3, 2, 1 ¡los battle spinners giran a toda velocidad, acercándose, huyendo, impactando uno con otro ¿quién será el ganador
 - Los superthings jalean a los participantes en esta épica batalla en la battle arena de kaboom city
-- Lleva la cuenta en el marcador porque ¡todo está por decidirse en la battle arena de los superthings
-- Contiene: 1 arena, 2 battle spinners exclusivos y 2 superthings exclusivos
 - Los superthings son objetos cotidianos transformados en superhéroes y supervillanos. cada superthing tiene su rival: busca las parejas rivales ¡y forma tus superequipos
+- Lleva la cuenta en el marcador porque ¡todo está por decidirse en la battle arena de los superthings
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NJYNFML/?tag=tolees-21)
