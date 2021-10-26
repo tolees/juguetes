@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libellud Mysterium Park Juego de Mesa  L al 21.21 % de rebaja'
-date: 2021-10-02 22:45:48
+date: 2021-10-26 08:17:19
 image: 'https://m.media-amazon.com/images/I/516smWYeu2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Libellud'
 buyurl: 'https://www.amazon.es/dp/B08LDW1CN4/?tag=tolees-21'
 descuento: '21.21'
-average: '22.9275'
+average: '22.5677777777778'
 ---
 
 Tienes [Libellud Mysterium Park Juego de Mesa  LIBMYST04ES ](https://www.amazon.es/dp/B08LDW1CN4/?tag=tolees-21) con precio final de  19.69 EUR (original: 24.99 EUR) (21.21 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Libellud Mysterium Park Juego de Mesa  LIBMYST04ES ](https://www.amazon.
 
 🔎:
 
-- De 2 a 6 Jugadores
 - A partir de 10 Años de Edad
+- De 2 a 6 Jugadores
 - Después, solo tendrán una única oportunidad para averiguar lo que realmente le ocurrió al director. Tan solo disponen de seis noches antes de que el circo abandone el pueblo.
-- En este juego cooperativo, el espíritu envía visiones mediante cartas ilustradas a los videntes, que deberán interpretarlas para descartar sospechosos y lugares.
 - Mysterium Park es una versión más rápida y simplificada de Mysterium. Aunque ambos juegos tienen puntos en común, Mysterium Park no es una expansión de Mysterium.
+- En este juego cooperativo, el espíritu envía visiones mediante cartas ilustradas a los videntes, que deberán interpretarlas para descartar sospechosos y lugares.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LDW1CN4/?tag=tolees-21)
