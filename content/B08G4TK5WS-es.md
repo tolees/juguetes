@@ -28,9 +28,9 @@ Tienes [LEGO 42116 Technic 2en1 Minicargadora  Excavadora o Hot Rod  Modelo y Co
 
 ℹ️:
 
-- El cargador con 2 funciones y luces traseras ofrece a los niños todo lo necesario para jugar durante horas, y luego pueden convertir el vehículo en un genial Hot Rod
-- El coche de juguete se transforma en un vehículo de gran aceleración y velocidad para carreras callejeras, y en un todoterreno gracias a sus ruedas delanteras direccionables
-- Con 4 enormes ruedas, esta excavadora de juguete está lista para hacer tareas de paisajismo u obras, levantar e inclinar el cargador para recoger, ¡igual que una de verdad!
 - Viene con Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO, e incorpora herramientas de zoom y rotación para ayudar a los niños a construir su juguete
+- Con 4 enormes ruedas, esta excavadora de juguete está lista para hacer tareas de paisajismo u obras, levantar e inclinar el cargador para recoger, ¡igual que una de verdad!
+- El coche de juguete se transforma en un vehículo de gran aceleración y velocidad para carreras callejeras, y en un todoterreno gracias a sus ruedas delanteras direccionables
+- El cargador con 2 funciones y luces traseras ofrece a los niños todo lo necesario para jugar durante horas, y luego pueden convertir el vehículo en un genial Hot Rod
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08G4TK5WS/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [FEBER - Quad Racy 6 V  Color Rosa  Famosa 800011422 ](https://www.amazon.
 
 ℹ️:
 
-- El peso máximo recomendado por el fabricante es de 20 kg
-- ‎‎Edad recomendada: 24 meses a 7 años
-- El producto representa un Quad Racy Red con acelerador en el pie y ruedas robustas para mayor estabilidad
 - Cuenta con el motor de 6V y tiene batería y cargador incluidos
+- El peso máximo recomendado por el fabricante es de 20 kg
+- El producto representa un Quad Racy Red con acelerador en el pie y ruedas robustas para mayor estabilidad
+- ‎‎Edad recomendada: 24 meses a 7 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0714MMYF1/?tag=tolees-21)

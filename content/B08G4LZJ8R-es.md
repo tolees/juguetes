@@ -28,9 +28,9 @@ En este momento está [LEGO 60284 City Vehículo de Obras en Carretera  Vehícul
 
 🔎:
 
-- El set de vehículo de obras viene con una minifigura de trabajador LEGO, con su casco de seguridad, una figura de rata y un conjunto inicial de ladrillos para un inicio fácil
-- Incluye una guía de construcción para niños a partir de 4 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
 - Este set de juego de vehículo de construcción fácil de montar ayuda a los niños a descubrir la alegría de construir sus propios juguetes LEGO y exhibir sus propias creaciones
+- Incluye una guía de construcción para niños a partir de 4 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
 - Los peques pueden acordonar áreas con la señal de obras y los conos de tráfico, llenar y vaciar el cargador frontal del camión y escenificar divertidas historias
+- El set de vehículo de obras viene con una minifigura de trabajador LEGO, con su casco de seguridad, una figura de rata y un conjunto inicial de ladrillos para un inicio fácil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08G4LZJ8R/?tag=tolees-21)
