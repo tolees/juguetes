@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Marvel´s Spider-Man: Miles al 43.78 % de descuento'
-date: 2021-10-22 13:36:26
+date: 2021-10-28 05:27:47
 image: 'https://m.media-amazon.com/images/I/41-edR-GLqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21'
 descuento: '43.78'
-average: '68.7645098039215'
+average: '68.3069230769229'
 ---
 
 Ahora mismo tienes [Playstation - Marvel´s Spider-Man: Miles Morales Ultimate Edition](https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21) a 44.97 EUR (original: 79.99 EUR) (43.78 %  de descuento) en el siguiente enlace!
