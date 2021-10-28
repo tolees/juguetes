@@ -28,15 +28,15 @@ Tienes [Thrustmaster Ferrari F1 Wheel AddOn  Volante AddOnPS4 / PS3 / Xbox One /
 
 ℹ️:
 
+- ¡Objeto de coleccionista! Réplica a tamaño completo del volante de carreras Ferrari 2011 de Fórmula 1, con licencia oficial de Ferrari
 - Ruedas giratorias, interruptores y botones de acción de calidad profesional
 - Dos modos de juegos disponible: - Modo "Normal", compatible con PC y PS3/ PS4 / Xbox One (que ofrece 13 botones de acción y 3 D-pads) - Modo "Avanzado", compatible con PC (que ofrece 25 botones de acción y 1 D-pad)
-- Base force feedback de 900° con motor brushless de clase industrial
 - Réplica a tamaño completo del volante de carreras Ferrari 2011 de Fórmula 1, con licencia oficial de Ferrari, para tu T500 RS, T300 RS, T300 Ferrari GTE & TX racing wheel
+- Base force feedback de 900° con motor brushless de clase industrial
+- Cambio de marchas “Push & Pull” de metal cepillado en el auténtico estilo de la F1
+- Frontal reforzado de metal cepillado que garantiza una solidez e inercia óptimas
 - Add-On para usar con T500 RS, T300RS, T300 Ferrari GTE, TX Racing Wheel Ferrari 458 Italia Edition
 - Frontal reforzado de metal cepillado que garantiza una solidez e inercia óptimas
-- Cambio de marchas “Push & Pull” de metal cepillado en el auténtico estilo de la F1
 - Volante con textura de goma que ofrece un agarre realista y cómodo
-- Frontal reforzado de metal cepillado que garantiza una solidez e inercia óptimas
-- ¡Objeto de coleccionista! Réplica a tamaño completo del volante de carreras Ferrari 2011 de Fórmula 1, con licencia oficial de Ferrari
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005PPOBQE/?tag=tolees-21)
