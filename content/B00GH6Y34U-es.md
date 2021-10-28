@@ -28,9 +28,9 @@ Tienes [Nenuco Armario de juguete  Famosa 700010346 ](https://www.amazon.es/dp/B
 
 🔎:
 
-- Cuenta con un perchero, varias baldas y varios cajón es
-- Armario para nenuco con baldas y cajón es
 - Incluye dos perchas, no incluye ropita
+- Cuenta con un perchero, varias baldas y varios cajón es
 - Dimensiones de 37 x 13 x 38 cm
+- Armario para nenuco con baldas y cajón es
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00GH6Y34U/?tag=tolees-21)
