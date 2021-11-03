@@ -28,9 +28,9 @@ En este momento está [PLAYMOBIL Porsche 70765 Mission E  A partir de 4 años](h
 
 🔎:
 
-- Se requieren siete pilas AAA de 1,5 V para el módulo de luz y el mando a distancia
-- En la cabina hay espacio para 2 figuras
 - Vehículo eléctrico con control RC, efectos de luz y estación de carga
 - Incluye función de apagado automático
+- En la cabina hay espacio para 2 figuras
+- Se requieren siete pilas AAA de 1,5 V para el módulo de luz y el mando a distancia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KTNWCWM/?tag=tolees-21)

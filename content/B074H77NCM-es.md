@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir - Exit: La cabaña abandonada  Ed. Español  BGEXIT1 ]
 
 🔎:
 
-- Dificultad: Avanzado
 - Edición en español
+- Dificultad: Avanzado
 - Duración 45-90 minutos
-- De 1 a 6 jugadores
 - A partir de los 12 años
+- De 1 a 6 jugadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074H77NCM/?tag=tolees-21)
