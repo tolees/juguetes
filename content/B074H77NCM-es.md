@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: La cabaña abandonada  Ed.  al 20.07 % de descuento'
-date: 2021-11-01 18:19:33
+date: 2021-11-03 16:31:28
 image: 'https://m.media-amazon.com/images/I/31XeQ+iklbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B074H77NCM/?tag=tolees-21'
 descuento: '20.07'
-average: '14.6837755102041'
+average: '14.6565656565657'
 ---
 
 Ahora mismo tienes [Devir - Exit: La cabaña abandonada  Ed. Español  BGEXIT1 ](https://www.amazon.es/dp/B074H77NCM/?tag=tolees-21) a 11.99 EUR (original: 15.0 EUR) (20.07 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Devir - Exit: La cabaña abandonada  Ed. Español  BGEXIT1 ]
 
 🔎:
 
-- A partir de los 12 años
 - Dificultad: Avanzado
 - Edición en español
-- De 1 a 6 jugadores
 - Duración 45-90 minutos
+- De 1 a 6 jugadores
+- A partir de los 12 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074H77NCM/?tag=tolees-21)
