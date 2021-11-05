@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geomag- Mechanics Construcciones magnéti con un 30.80 % de descuento'
-date: 2021-11-03 21:44:36
+date: 2021-11-05 00:51:56
 image: 'https://m.media-amazon.com/images/I/51UjOjrZrdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Geomag- Mechanics Construcciones magnéticas y juegos edu
 
 🔎:
 
-- Truco del cañón magnético: Las esferas dentro del circuito se ponen en movimiento mediante un cañón magnético, que convierte la fuerza de atracción del imán en aceleración
 - Todos los productos cumplen con las normas de seguridad europeas e internacionales más estrictas
 - Los productos Geomag pertenecen a la categoría STEM acrónimo de Ciencia, Tecnología, Ingeniería y Matemáticas, que define un enfoque de aprendizaje interdisciplinario
-- Las barras, a través de los imanes colocados en ambos extremos, se conectan a las esferas, lo que te permite construir todo lo que se te ocurra
 - La caja incluye esferas metálicas, barras magnéticas y elementos mecánicos de plástico para construir un cañón magnético
+- Las barras, a través de los imanes colocados en ambos extremos, se conectan a las esferas, lo que te permite construir todo lo que se te ocurra
+- Truco del cañón magnético: Las esferas dentro del circuito se ponen en movimiento mediante un cañón magnético, que convierte la fuerza de atracción del imán en aceleración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MS9F73L/?tag=tolees-21)
