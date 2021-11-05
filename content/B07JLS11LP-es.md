@@ -28,8 +28,8 @@ Está [PLAYMOBIL Ghostbusters Set de Figuras  A partir de 6 años  70175 ](https
 
 ℹ️:
 
-- Conjunto de los 4 Cazafantasmas de la primera película con sus accesorios.
 - Adecuado para niños mayores de 6 años
+- Conjunto de los 4 Cazafantasmas de la primera película con sus accesorios.
 - Tamaño de las figuras: 7,5 cm
 - Incluye 4 figuras y sus accesorios
 
