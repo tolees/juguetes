@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Wario Ware: Get it together al 22.18 % de descuento'
-date: 2021-11-04 08:20:42
+date: 2021-11-06 13:30:02
 image: 'https://m.media-amazon.com/images/I/51-W6uRiirS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0979WNBH1/?tag=tolees-21'
 descuento: '22.18'
-average: '44.6408333333333'
+average: '44.1938461538461'
 ---
 
 Está [Nintendo - Wario Ware: Get it together](https://www.amazon.es/dp/B0979WNBH1/?tag=tolees-21) con 22.18 de descuento por 38.83 EUR (original: 49.9 EUR) en el siguiente enlace!
