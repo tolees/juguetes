@@ -28,8 +28,8 @@ Ahora mismo tienes [Nintendo - Pokemon Diamante Brillante](https://www.amazon.es
 
 🔎:
 
+- Tras casi 15 años desde su lanzamiento original en Nintendo DS (2007), re-descubre Sinnoh, una región de naturaleza exuberante, con el imponente Monte Corona en su corazón.
 - Tendrás que visitar distintas zonas mientras intentas convertirte en Campeón de la Liga Pokémon y descubres los mitos que llenan la misteriosa región.
 - Tanto la historia como la escala de los pueblos y las rutas del juego original se han reproducido fielmente.
-- Tras casi 15 años desde su lanzamiento original en Nintendo DS (2007), re-descubre Sinnoh, una región de naturaleza exuberante, con el imponente Monte Corona en su corazón.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Y6ZM72D/?tag=tolees-21)
