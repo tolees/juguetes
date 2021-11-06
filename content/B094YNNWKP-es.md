@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Matagot Aztec - Juego de Mesa en español al 15.08 % de rebaja'
-date: 2021-11-03 10:05:14
+date: 2021-11-06 15:10:48
 image: 'https://m.media-amazon.com/images/I/41Wbu3O6gMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Matagot Aztec - Juego de Mesa en español  SAZT001 ](https://www.amazon.
 
 🔎:
 
+- ¡Hola, jóvenes aventureros!
+- A partir de 10 años de edad
 - De 3 a 6 jugadores
 - Ya es hora de demostrarle al mundo quién es el cazatesoros inteligente
-- A partir de 10 años de edad
-- ¡Hola, jóvenes aventureros!
 - Habéis encontrado un tesoro escondido en la selva
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094YNNWKP/?tag=tolees-21)
