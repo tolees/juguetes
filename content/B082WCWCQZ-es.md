@@ -29,7 +29,7 @@ Ahora mismo tienes [LEGO tbd-LSH-new-2HY-2020](https://www.amazon.es/dp/B082WCWC
 🔎:
 
 - 133 piezas para los niños de 7 a más.
-- Todas las gamas son compatibles con los otros set de construcción Lego para una experiencia sin límite.
 - Construya este set Lego.
+- Todas las gamas son compatibles con los otros set de construcción Lego para una experiencia sin límite.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082WCWCQZ/?tag=tolees-21)
