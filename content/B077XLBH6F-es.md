@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gen x games- Top SPIN Juego de Mesa  Col al 30.86 % de descuento'
-date: 2021-11-06 13:18:14
+date: 2021-11-07 13:46:26
 image: 'https://m.media-amazon.com/images/I/41GJuwD1l+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [Gen x games- Top SPIN Juego de Mesa  Color Neutro  GXG200118 ](https://ww
 
 ℹ️:
 
-- Juego de mesa
 - Abstracto
+- Juego de mesa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077XLBH6F/?tag=tolees-21)
