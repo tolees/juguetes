@@ -28,8 +28,8 @@ En este momento está [PLAYMOBIL - Faro con Soldados  66800 ](https://www.amazon
 
 🔎:
 
+- Juguete educativo que fomenta el juego simbólico
 - Fomenta creatividad e imaginación
 - Con figuras y accesorios
-- Juguete educativo que fomenta el juego simbólico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VLV99L8/?tag=tolees-21)
