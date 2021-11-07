@@ -28,10 +28,10 @@ Tienes [Gioteck - Mando con cable color rojo VX-4 para PlayStation 4 y PC  Windo
 
 ℹ️:
 
-- Conexion por cable USB
-- Disposicion de botones y sticks simetricos (al igual que Playstation 4)
 - Color rojo
-- Compatibilidad con PS4 y PC con Windows
+- Disposicion de botones y sticks simetricos (al igual que Playstation 4)
+- Conexion por cable USB
 - Diseño ergonomico
+- Compatibilidad con PS4 y PC con Windows
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WGH835P/?tag=tolees-21)

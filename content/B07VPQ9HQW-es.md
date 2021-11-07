@@ -29,8 +29,8 @@ Tienes [Educa - Paisaje de Tulipanes Puzzle  1500 Piezas  Multicolor  18465 ](ht
 🔎:
 
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Número de piezas: 1.500, medida aproximada una vez montado: 85 x 60
 - Edad recomendada: a partir de 12 años
 - Serie Genuine
 

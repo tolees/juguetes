@@ -30,7 +30,7 @@ En este momento está [BANDAI NAMCO Entertainment Iberica - La Familia Addams. C
 
 - Únete a la familia
 - Salva la mansión
-- Minijuegos competitivos
 - En solitario o en grupo
+- Minijuegos competitivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B095T63TMY/?tag=tolees-21)

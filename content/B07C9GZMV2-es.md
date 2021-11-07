@@ -29,9 +29,9 @@ Ahora mismo tienes [Subsonic - Estación de Carga  Nintendo Switch ](https://www
 🔎:
 
 - Estación de carga para Joy-Con y un Pro Controller Switch
-- Muy compacta, esta estación de carga es también una solución perfecta para almacenar y guardar sus accesorios de forma segura
-- Equipada con almohadillas antideslizantes y fabricada en material TPU ultra resistente. Subsonic, ofrece la más amplia gama de accesorios de Switch (controladores, cubiertas, cargadores, pantallas protectoras), puedes visitar nuestra tienda tecleando Subsonic on en la barra de búsqueda de Amazon
-- Se conecta directamente a la consola a través del cable USB suministrado
 - Subsonic, ofrece la más amplia gama de accesorios de Nintendo Switch (mandos, funds, cargadores, pantallas protectoras), puedes visitar nuestra tienda tecleando Subsonic on en la barra de búsqueda de Amazon
+- Equipada con almohadillas antideslizantes y fabricada en material TPU ultra resistente. Subsonic, ofrece la más amplia gama de accesorios de Switch (controladores, cubiertas, cargadores, pantallas protectoras), puedes visitar nuestra tienda tecleando Subsonic on en la barra de búsqueda de Amazon
+- Muy compacta, esta estación de carga es también una solución perfecta para almacenar y guardar sus accesorios de forma segura
+- Se conecta directamente a la consola a través del cable USB suministrado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C9GZMV2/?tag=tolees-21)
