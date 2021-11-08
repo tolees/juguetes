@@ -28,9 +28,9 @@ Ahora mismo tienes [BANDAI NAMCO Entertainment Iberica - Ni No Kuni Ii: El Renac
 
 🔎:
 
+- Historia cautivadora
+- Combates dinámicos
 - Otro mundo
 - Maestría en el juego
-- Combates dinámicos
-- Historia cautivadora
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B096YY9YN2/?tag=tolees-21)
