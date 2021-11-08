@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO Dim al 30.57 % de rebaja'
-date: 2021-11-01 19:05:44
+date: 2021-11-08 09:09:20
 image: 'https://m.media-amazon.com/images/I/51edJLRDdYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21'
 descuento: '30.57'
-average: '14.8545454545454'
+average: '14.8575555555555'
 ---
 
 Tienes [Warner Bros Interactive Spain - LEGO Dimensions - The Simpsons  Homer](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21) con precio final de  14.99 EUR (original: 21.59 EUR) (30.57 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [Warner Bros Interactive Spain - LEGO Dimensions - The Simpsons  Homer](h
 
 🔎:
 
+- LEGO Number 71202
 - Level Pack
 - Homer
-- LEGO Number 71202
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21)

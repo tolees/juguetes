@@ -28,9 +28,9 @@ En este momento está [Nancy - Espejo 1001 Peinados  muñeca con un Armario Llen
 
 🔎:
 
-- Muñeca Nancy de 42 cm de altura y pelo rubio largo, lleva un vestido con una falda de colores y unos zapatos rosas
-- Incluye un set de espejo y armario blanco para guardar los más de 20 accesorios y llevarlo a cualquier parte
 - Es el mejor regalo para los pequeños que adoran las muñecas y las tendencias, para desarrollar su creatividad e imaginación
+- Incluye un set de espejo y armario blanco para guardar los más de 20 accesorios y llevarlo a cualquier parte
+- Muñeca Nancy de 42 cm de altura y pelo rubio largo, lleva un vestido con una falda de colores y unos zapatos rosas
 - Juguete recomendado para niñas y niños a partir de 3 años
 - Juego de peinados más completo de Nancy, incluye accesorios de belleza para hacerle infinidad de looks especiales y divertidos con diferentes peinados en su pelo
 

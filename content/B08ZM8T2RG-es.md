@@ -28,12 +28,12 @@ Ahora mismo tienes [VTech Marble Rush Rocket Set Electronic M100E-Circuito de ca
 
 🔎:
 
-- DIFERENTES NIVELES DE JUEGO: Principiante, intermedio y avanzado
-- SORPRENDE Y DIVIERTE: Numerosos pasajes secretos, interruptores y areas de interacción.
+- DESARROLLO DE LA IMAGINACIÓN: Multitud de circuitos , diferentes niveles de juego, desarrolla las habilidades motoras , creatividad, lógica e imaginación. Con infinitas combinaciones.
 - VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
-- MÓDULOS ELECTRÓNICOS Y MOVIMIENTO CONTINUO: Incorpora dos módulos electrónicos con luces y sonidos que animan el juego.
+- DIFERENTES NIVELES DE JUEGO: Principiante, intermedio y avanzado
 - FÁCIL DE CONSTRUIR: Desarrolla el circuito de pistas con una plantilla base y unas instrucciones por colores que haran divertida la ejecución del circuito. Construye y aprende al mismo tiempo.
 - LABERINTO GIGANTE CANICAS: Pista interactiva electrónica, para canicas con el que desarrollarán su imaginación uniendo piezas y creando divertidos circuitos por los que circularán la canicas, desafiando a todo tipo de bajadas, curvas y lanzamientos.
-- DESARROLLO DE LA IMAGINACIÓN: Multitud de circuitos , diferentes niveles de juego, desarrolla las habilidades motoras , creatividad, lógica e imaginación. Con infinitas combinaciones.
+- SORPRENDE Y DIVIERTE: Numerosos pasajes secretos, interruptores y areas de interacción.
+- MÓDULOS ELECTRÓNICOS Y MOVIMIENTO CONTINUO: Incorpora dos módulos electrónicos con luces y sonidos que animan el juego.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08ZM8T2RG/?tag=tolees-21)
