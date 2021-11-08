@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Érase Una Vez…El hombre Juego de al 22.78 % de descuento'
-date: 2021-10-25 23:00:22
+date: 2021-11-08 20:35:47
 image: 'https://m.media-amazon.com/images/I/511CTfEQ-cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B08BCSF81T/?tag=tolees-21'
 descuento: '22.78'
-average: '9.22333333333333'
+average: '9.29'
 ---
 
 Está [Educa - Érase Una Vez…El hombre Juego de Mesa Educativo  Multicolor  18856 ](https://www.amazon.es/dp/B08BCSF81T/?tag=tolees-21) con 22.78 de descuento por 9.49 EUR (original: 12.29 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Educa - Érase Una Vez…El hombre Juego de Mesa Educativo  Multicolor  1
 
 ℹ️:
 
-- Un mini juego de mesa con más de 300 preguntas sobre la historia de la humanidad, basado en la famosa serie érase una vez El hombre
-- Ideal como regalo
 - Marca: Educa
+- Ideal como regalo
+- Un mini juego de mesa con más de 300 preguntas sobre la historia de la humanidad, basado en la famosa serie érase una vez El hombre
 - Producto de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BCSF81T/?tag=tolees-21)
