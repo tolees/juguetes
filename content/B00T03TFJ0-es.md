@@ -28,8 +28,8 @@ Tienes [Hot Wheels - Pista Torbellino de Carreras  Mattel CDL45 ](https://www.am
 
 ℹ️:
 
-- Incluye un coche de Hot Wheels
-- Se puede conectar a otros circuitos de Hot Wheels (se venden por separado)
 - Dos lanzadores para competir con amigos
+- Se puede conectar a otros circuitos de Hot Wheels (se venden por separado)
+- Incluye un coche de Hot Wheels
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00T03TFJ0/?tag=tolees-21)
