@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borras - Locuras  Divertido Juego de mes al 31.63 % de descuento'
-date: 2021-11-06 13:14:23
+date: 2021-11-09 08:11:26
 image: 'https://m.media-amazon.com/images/I/51Zh+-252uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BORRAS'
 buyurl: 'https://www.amazon.es/dp/B07TKMZQ27/?tag=tolees-21'
 descuento: '31.63'
-average: '23.9375'
+average: '23.66'
 ---
 
 Ahora mismo tienes [Borras - Locuras  Divertido Juego de mesa familiar. . A partir de 10 años. Ref.18355](https://www.amazon.es/dp/B07TKMZQ27/?tag=tolees-21) a 22.55 EUR (original: 32.98 EUR) (31.63 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [Borras - Locuras  Divertido Juego de mesa familiar. . A part
 
 🔎:
 
-- Juego familiar y social para todo tipo de públicos
-- Versión española
 - Recomendado a partir de 8 años
-- Los jugadores deberán pasar las pruebas para ser el primero en conseguir 5 locus y así ser coronado como el nuevo rey loco
-- Locuras es un divertidísimo juego de mesa que combina diferentes tipos de pruebas con un punto de locura: pruebas de dibujo, auditivas, de empatía con el resto de jugadores, de mímica, acusaciones ridículas, y una gran locura final
+- Versión española
 - Contenido: 1 torre de la locura, 6 bases, 231 cartas, 10 cartas de locura final, 50 fichas de puntuación, 1 bloc de dibujo, 1 lápiz, 1 dado gigante, gafas distorsionadoras, 1 reloj de arena e instrucciones
+- Locuras es un divertidísimo juego de mesa que combina diferentes tipos de pruebas con un punto de locura: pruebas de dibujo, auditivas, de empatía con el resto de jugadores, de mímica, acusaciones ridículas, y una gran locura final
+- Los jugadores deberán pasar las pruebas para ser el primero en conseguir 5 locus y así ser coronado como el nuevo rey loco
+- Juego familiar y social para todo tipo de públicos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKMZQ27/?tag=tolees-21)
