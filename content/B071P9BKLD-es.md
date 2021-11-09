@@ -28,12 +28,12 @@ Tienes [VTech- TutTut Animals Arca de Animales Juguete interactivo con luz y voz
 
 🔎:
 
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas para un mejor rendimiento del aparato
-- Incluye una colección de seis animalitos que, cuando se deslizan por el hueco del barco, los cuenta uno a uno y activa distintas interacciones
-- Se puede combinar con el resto de los animales de la colección tut tut animals
-- Arca con luz y sonido de la colección tut tut animals
 - Versión española
-- Incluye un cordón de arrastre para que el niño lleve el arca a todas partes y numerosos objetos para manipular
+- Incluye una colección de seis animalitos que, cuando se deslizan por el hueco del barco, los cuenta uno a uno y activa distintas interacciones
 - Cuatro botones luminosos para aprender conceptos del tiempo y colores mientras suenan sus más de 50 canciones y melodías
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas para un mejor rendimiento del aparato
+- Arca con luz y sonido de la colección tut tut animals
+- Se puede combinar con el resto de los animales de la colección tut tut animals
+- Incluye un cordón de arrastre para que el niño lleve el arca a todas partes y numerosos objetos para manipular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071P9BKLD/?tag=tolees-21)
