@@ -29,9 +29,9 @@ Está [Devir - Stone Age  Juego de Tablero  222746 ](https://www.amazon.es/dp/B0
 ℹ️:
 
 - Tendrás que gestionar los recursos del hombre primitivo para hacer su vida más agradable
-- De 2 a 4 jugadores
-- Revive la edad de piedra en este juego de estrategia
-- Idioma principal: español
 - Duración: 60 a 90 minutos
+- Revive la edad de piedra en este juego de estrategia
+- De 2 a 4 jugadores
+- Idioma principal: español
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XJD8M1O/?tag=tolees-21)
