@@ -28,9 +28,9 @@ Ahora mismo tienes [LEGO - Confezione Di 3 Penne Gel](https://www.amazon.es/dp/B
 
 🔎:
 
-- Con piezas azules, rojas y negras de lego
 - Tinta de gel
 - Compatibles con piezas lego
 - 3 bolígrafos de gel de varios colores: rojo, negro y azul
+- Con piezas azules, rojas y negras de lego
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21)
