@@ -28,13 +28,13 @@ Está [VTech TutTut Bólidos Pack de 3 vehículos con botón sorpresa  Lula cami
 
 ℹ️:
 
-- Son compatibles con los sensores mágicos de la gama tut tut bólidos, con los que activarán diferentes interacciones
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alto rendimiento específicas para productos tecnológicos
-- Nuevo diseño mejorado, con más detalle y más interacciones que favorecen el desarrollo y el aprendizaje de diferentes aspectos en el peque; tienen el tamaño perfecto para que los más pequeños lo manipulen sin problema
-- Sus ruedas, al girar, activan el sensor de movimiento del vehículo, activando música y simpáticas respuestas a la vez que su luz se ilumina
-- Set de 3 divertidos vehículos de la colección tut tut con voz, luces, melodías y canciones lula camión grúa, pilar coche familiar y nina la ambulancia
-- Resto de vehículos de la colección de venta por separado
 - Versión española
+- Son compatibles con los sensores mágicos de la gama tut tut bólidos, con los que activarán diferentes interacciones
+- Nuevo diseño mejorado, con más detalle y más interacciones que favorecen el desarrollo y el aprendizaje de diferentes aspectos en el peque; tienen el tamaño perfecto para que los más pequeños lo manipulen sin problema
+- Resto de vehículos de la colección de venta por separado
 - Todos incorporan voces, luz, interacciones y cada uno tiene su propia personalidad
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alto rendimiento específicas para productos tecnológicos
+- Set de 3 divertidos vehículos de la colección tut tut con voz, luces, melodías y canciones lula camión grúa, pilar coche familiar y nina la ambulancia
+- Sus ruedas, al girar, activan el sensor de movimiento del vehículo, activando música y simpáticas respuestas a la vez que su luz se ilumina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MQX1FVH/?tag=tolees-21)
