@@ -28,10 +28,10 @@ Tienes [Devir- King of New York Juego de tablero  BGHKINGNY ](https://www.amazon
 
 🔎:
 
-- King of New York es un juego completamente creado por el mismo diseñador de King of Tokyo
+- El tablero representa la ciudad de New York
 - Viene con la isla de Manhattan como el territorio más codiciado
 - Duración: 40 min
-- El tablero representa la ciudad de New York
 - De 2 a 6 jugadores
+- King of New York es un juego completamente creado por el mismo diseñador de King of Tokyo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DF8PAE4/?tag=tolees-21)

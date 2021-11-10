@@ -28,8 +28,8 @@ Está [TOIMSA - Bicicleta 16" Spiderman](https://www.amazon.es/dp/B009HP41IQ/?ta
 
 ℹ️:
 
+- Modelo compacto
 - Modelo ideal para que los niños aprendan andar de bici en una manera rápida y sin esfuerzo
 - Diseño divertido y moderno, atractivo para los pequeños
-- Modelo compacto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009HP41IQ/?tag=tolees-21)

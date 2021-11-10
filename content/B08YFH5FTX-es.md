@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.00 % en KOSMOS - Juego de Mesa Andor Junior  BGA'
-date: 2021-11-08 06:16:00
+date: 2021-11-10 16:12:16
 image: 'https://m.media-amazon.com/images/I/51qQjwytseL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [KOSMOS - Juego de Mesa Andor Junior  BGANDJPS ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Ganador del mejor juego infantil aleman
-- Comparte la primera aventura con los peques de la casa
 - Número de jugadores: 2-4
+- Ganador del mejor juego infantil aleman
 - Puerta introductoria a los juegos de fantasia heroica y a los juegos de mesa cooperativo
+- Comparte la primera aventura con los peques de la casa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08YFH5FTX/?tag=tolees-21)

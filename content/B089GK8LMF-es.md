@@ -31,7 +31,7 @@ En este momento está [Schwinn Fitness Bicicleta estática 510U  negro/rojo  one
 - Compatible con la aplicación Zwift y el monitor de frecuencia cardíaca Bluetooth 4. 0 (no incluido)
 - 16 niveles de resistencia electromagnética con sistema de transmisión de alta velocidad e inercia (volante perimetral ponderado) para un arranque fácil y entrenamientos suaves y silenciosos
 - Módulo Bluetooth integrado para conectarse a la aplicación Schwinn Explore the World (disponible en italiano) y ejercitar en lugares pintorescos de todo el mundo (video HD), almacenar y comparar todos los datos de entrenamiento
-- Manillar ajustable con sensores de mano integrados para monitorizar la frecuencia cardíaca
 - 13 programas de entrenamiento: programa manual, programa HIIT (entrenamiento de intervalos de alta intensidad), 10 programas de desafío que se pueden personalizar de acuerdo con la distancia, el tiempo o los objetivos de calorías. Programa con objetivo de frecuencia cardíaca constante
+- Manillar ajustable con sensores de mano integrados para monitorizar la frecuencia cardíaca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089GK8LMF/?tag=tolees-21)
