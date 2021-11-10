@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.79 % en BANDAI NAMCO Entertainment Iberica - Fas'
-date: 2021-11-07 09:11:14
+date: 2021-11-10 11:22:25
 image: 'https://m.media-amazon.com/images/I/51jvXejeHjS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

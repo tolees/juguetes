@@ -28,10 +28,10 @@ En este momento está [Relaxdays Juego de Mesas Nido de Colores  Madera MDF  Azu
 
 🔎:
 
-- Juego de 3 piezas: Juego de 3 mesas auxiliares para el salón. Mesa grande: 49 x 55 x 40 cm (alto x ancho x profundo). Mesa pequeña: 39 x 35 x 30 cm (alto x ancho x profundo)
-- Práctico: Mesa auxiliar decorativa de madera MDF maciza. Cada mesa pesa unos 15 kg. Las mesas se pueden meter una dentro de la otra
 - Monocolor: Set de mesas auxiliares de madera de color azul en estilo Pop-Art. Mesas nido elegantes que pegan con todo tipo de decoración. Mesa auxiliar moderna para el interior
 - Para niños: Colores vivos ideales para gente joven. Queda genial cuando se combina con puffs. Altura ideal para que los niños se sienten a pintar o a hacer manualidades
+- Juego de 3 piezas: Juego de 3 mesas auxiliares para el salón. Mesa grande: 49 x 55 x 40 cm (alto x ancho x profundo). Mesa pequeña: 39 x 35 x 30 cm (alto x ancho x profundo)
 - Multiusos: Perfecta mesa auxiliar de sofá para el salón. Ideal para poner plantas o macetas. Da un toque moderno a la decoración
+- Práctico: Mesa auxiliar decorativa de madera MDF maciza. Cada mesa pesa unos 15 kg. Las mesas se pueden meter una dentro de la otra
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BL393NQ/?tag=tolees-21)
