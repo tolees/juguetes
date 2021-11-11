@@ -28,8 +28,8 @@ Ahora mismo tienes [Mattel Games - Uno Super Mario  Instrucciones Sólo En Japon
 
 🔎:
 
-- Fabricado en España
-- Producto de alta calidad
 - Brand: Verdes
+- Producto de alta calidad
+- Fabricado en España
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ARGC2VQ/?tag=tolees-21)
