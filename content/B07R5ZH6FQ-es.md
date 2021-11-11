@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 26925 The Castles of Burgun al 43.49 % de descuento'
-date: 2021-11-08 00:36:12
+date: 2021-11-11 15:41:31
 image: 'https://m.media-amazon.com/images/I/517uckVxthL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B07R5ZH6FQ/?tag=tolees-21'
 descuento: '43.49'
-average: '36.095'
+average: '35.9005454545455'
 ---
 
 Está [Ravensburger 26925 The Castles of Burgundy  Juego Alea  Versión Española  Strategy Game  1-4 Jugadores  Edad Recomendada 12+](https://www.amazon.es/dp/B07R5ZH6FQ/?tag=tolees-21) con 43.49 de descuento por 25.4 EUR (original: 44.95 EUR) en el siguiente enlace!
@@ -31,7 +31,7 @@ Está [Ravensburger 26925 The Castles of Burgundy  Juego Alea  Versión Español
 - Este juego de mesa se recomienda para mayores de 12 años, la duración media de una partida es de 120 minutos y es un juego óptimo para los que quieran un desafío exigente y de estrategia con una óptima variedad de opciones de juego gracias a las 10 expansiones incluidas
 - Descubre la línea completa de juegos de mesa Alea: Las Vegas, Puerto Rico y muchas otras aventuras os esperan
 - El juego contiene: 1 tablero, 16 tableros de jugador, 9 planchas troqueladas (con más de 300 losetas), 9 dados, 8 peones, instrucciones
-- A lo largo de 5 fases, los jugadores ganan puntos de victoria mediante la agricultura, el comercio, la construcción y la investigación científica; el jugador que tenga más puntos de victoria al final de la partida gana
 - Un juego de estrategia para 1-4 jugadores en el que tendrás muchas maneras de alcanzar tu objetivo: el progreso académico, el desarrollo de las ciudades, la agricultura, el comercio
+- A lo largo de 5 fases, los jugadores ganan puntos de victoria mediante la agricultura, el comercio, la construcción y la investigación científica; el jugador que tenga más puntos de victoria al final de la partida gana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07R5ZH6FQ/?tag=tolees-21)
