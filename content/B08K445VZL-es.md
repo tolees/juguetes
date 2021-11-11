@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.00 % en Devir - Exit: La casa de los Enigmas  BG'
-date: 2021-11-08 06:12:08
+date: 2021-11-11 10:26:32
 image: 'https://m.media-amazon.com/images/I/516+4OZZLbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08K445VZL/?tag=tolees-21'
 descuento: '20.00'
-average: '13.3863636363636'
+average: '13.2708333333333'
 ---
 
 Tienes [Devir - Exit: La casa de los Enigmas  BGEXIT12 ](https://www.amazon.es/dp/B08K445VZL/?tag=tolees-21) con un 20.00 % de descuento con precio de oferta de 12.0 EUR (original: 15.0 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Devir - Exit: La casa de los Enigmas  BGEXIT12 ](https://www.amazon.es/d
 
 ℹ️:
 
-- Edad recomendada: a partir de 10 años
-- Juego cooperativo y de deducción
 - Número de jugadores: 1 - 4
-- Duración aproximada del juego: 45 - 90 minutos
 - La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
+- Juego cooperativo y de deducción
+- Duración aproximada del juego: 45 - 90 minutos
+- Edad recomendada: a partir de 10 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08K445VZL/?tag=tolees-21)
