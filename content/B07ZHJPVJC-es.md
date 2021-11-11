@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - DownForce  Carreras de Alto Ries al 20.00 % de descuento'
-date: 2021-11-10 15:10:47
+date: 2021-11-11 17:29:50
 image: 'https://m.media-amazon.com/images/I/61LETxcFHrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Ahora mismo tienes [Devir - DownForce  Carreras de Alto Riesgo  BGDOWNF ](https:
 🔎:
 
 - Un rápido juego de carreras
+- Una mecánica original en la que se mezclan apuestas y faroleo
 - De 2 a 6 jugadores
 - Edad recomendada: 8+
-- Una mecánica original en la que se mezclan apuestas y faroleo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZHJPVJC/?tag=tolees-21)

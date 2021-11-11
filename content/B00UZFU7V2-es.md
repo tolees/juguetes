@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VTech - Primeras canciones  libro intera al 31.58 % de descuento'
-date: 2021-11-10 14:42:26
+date: 2021-11-11 17:47:44
 image: 'https://m.media-amazon.com/images/I/51JV7lBXk3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'VTech'
 buyurl: 'https://www.amazon.es/dp/B00UZFU7V2/?tag=tolees-21'
 descuento: '31.58'
-average: '20.4772'
+average: '20.2946153846154'
 ---
 
 Ahora mismo tienes [VTech - Primeras canciones  libro interactivo para bebé +6 meses con las canciones infantiles más populares  aprende instrumentos  sonidos y notas musicales  multicolor  80-166722 ](https://www.amazon.es/dp/B00UZFU7V2/?tag=tolees-21) a 15.73 EUR (original: 22.99 EUR) (31.58 %  de descuento) en el siguiente enlace!
