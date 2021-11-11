@@ -28,9 +28,9 @@ Está [Bizak Construye el Tractor Johnny  30696655 ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Las piezas son fáciles de manipular
-- Set de construcción de 15 piezas de Johnny Tractor
-- Incluye taladro eléctrico de juguete con pilas
 - Ayuda a desarrollar la concentración y la capacidad cognitiva
+- Set de construcción de 15 piezas de Johnny Tractor
+- Las piezas son fáciles de manipular
+- Incluye taladro eléctrico de juguete con pilas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XWDXMLQ/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Cochecito Pop Pram de Peppa Pig para muñecos bebé  Smoby 251306    col
 
 ℹ️:
 
-- Medida: 46 x 37,5 x 53,5 cm
-- Este carrito de juguete de smoby es resistente y sirve para muñecos bebé de hasta 42 cm
-- Este cochecito de paseo de juguete decorado Peppa Pig está diseñado para niñas y niños a partir de 18 meses de edad
 - Viene equipado con capota plegable y ruedas delanteras multidireccionales que permitirán a los peques de la casa manejarlo con total comodidad; favorece la orientación espacial y simula momentos relacionados con la familia
+- Este cochecito de paseo de juguete decorado Peppa Pig está diseñado para niñas y niños a partir de 18 meses de edad
+- Este carrito de juguete de smoby es resistente y sirve para muñecos bebé de hasta 42 cm
+- Medida: 46 x 37,5 x 53,5 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01I9UG0DS/?tag=tolees-21)
