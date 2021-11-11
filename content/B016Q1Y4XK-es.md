@@ -28,11 +28,11 @@ Tienes [Juegos Mattel - Mattel Games Gas Out  jogo de tabuleiro  Mattel DHW40 ](
 
 🔎:
 
-- Os jogadores jogam as cartas de Número GAS OUT à vez e pressionam o Sr. PUM o número de vezes indicado.
-- As cartas especiais de GAS OUT, como Passar a Vez e Inverter o Jogo, mantêm a diversão a todo o momento.
-- Se o Sr. PUM der um pum na tua jogada, perdeste!
-- Horas de gargalhadas para toda a família!
 - Inclui o Sr. PUM (Nuvem de Gases eletrónica) e um baralho de cartas Quem Deu um Pum.
+- Horas de gargalhadas para toda a família!
+- As cartas especiais de GAS OUT, como Passar a Vez e Inverter o Jogo, mantêm a diversão a todo o momento.
+- Os jogadores jogam as cartas de Número GAS OUT à vez e pressionam o Sr. PUM o número de vezes indicado.
+- Se o Sr. PUM der um pum na tua jogada, perdeste!
 - Sê o último jogador a passar o Sr. PUM sem que dê um pum e serás o vencedor!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016Q1Y4XK/?tag=tolees-21)

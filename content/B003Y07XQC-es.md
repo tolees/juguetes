@@ -30,8 +30,8 @@ Ahora mismo tienes [Ravensburger - Junior Labyrinth Paw Patrol](https://www.amaz
 
 - De 2 a 4 jugadores
 - Para niños a partir de 4 años
-- Los cachorros de Paw Patrol se han escondido en el laberinto del bosque
 - El original Laberinto Ravensburger en versión Junior de Paw Patrol
+- Los cachorros de Paw Patrol se han escondido en el laberinto del bosque
 - Laberinto - el divertido juego de astucia. Fácil de jugar y siempre emocionante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003Y07XQC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Super Mario Bros: Monopoly con un 50.36 % de descuento'
-date: 2021-11-09 08:02:12
+date: 2021-11-11 13:53:52
 image: 'https://m.media-amazon.com/images/I/51IEV+khjEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro'
 buyurl: 'https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21'
 descuento: '50.36'
-average: '30.5381818181818'
+average: '30.2569565217391'
 ---
 
 En este momento está [Hasbro Super Mario Bros: Monopoly](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21) a 24.07 EUR (original: 48.49 EUR) (50.36 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Hasbro Super Mario Bros: Monopoly](https://www.amazon.es/
 
 🔎:
 
-- Tablero personalizado
+- Licencia oficial
 - Caja ilustrada
 - 2 a 4 jugadores
-- Licencia oficial
+- Tablero personalizado
 - Peones personalizados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21)
