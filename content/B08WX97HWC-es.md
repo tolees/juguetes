@@ -28,12 +28,12 @@ Ahora mismo tienes [LEGO 71753 Ninjago Ataque del Dragón de Fuego  Juguete de l
 
 🔎:
 
-- Este set de los Ninjas viene con 4 mini figuras: Nya, Kai y Zane, además del malvado general esquelético Wyplash, todos armados con armas geniales
-- Además, los juguetes Deportivo Ninja X-1 (71737) y Vehículo de Asalto Ultrasónico (71739) son parte de los coleccionables LEGO de serie limitada para construir y enseñar
-- Busque mini figuras doradas coleccionables en otros 5 conjuntos de NINJAGO, incluidos en el Torneo de los Elementos (71735) y en Destructor de Roca (71736)
-- Este juego de dragones de 563 piezas es un gratificante reto de construcción y es un gran regalo de cumpleaños o de vacaciones para niños de 8 años en adelante
 - Contiene un dragón de juguete de ladrillos LEGO altamente acoplable para volar a las batallas y enfrentarse al malvado Wyplash de la temporada 1 de la serie de televisión NINJAGO
-- Incluye una mini figura coleccionable dorada de Nya Legacy con un pequeño soporte para celebrar el décimo aniversario de los sets LEGO NINJAGO para niños
+- Este set de los Ninjas viene con 4 mini figuras: Nya, Kai y Zane, además del malvado general esquelético Wyplash, todos armados con armas geniales
 - El juguete del dragón volador tiene mandíbula, cola, patas y alas articuladas, y una silla de montar en la espalda para que las mini figuras ninja puedan entrar en batalla
+- Este juego de dragones de 563 piezas es un gratificante reto de construcción y es un gran regalo de cumpleaños o de vacaciones para niños de 8 años en adelante
+- Busque mini figuras doradas coleccionables en otros 5 conjuntos de NINJAGO, incluidos en el Torneo de los Elementos (71735) y en Destructor de Roca (71736)
+- Además, los juguetes Deportivo Ninja X-1 (71737) y Vehículo de Asalto Ultrasónico (71739) son parte de los coleccionables LEGO de serie limitada para construir y enseñar
+- Incluye una mini figura coleccionable dorada de Nya Legacy con un pequeño soporte para celebrar el décimo aniversario de los sets LEGO NINJAGO para niños
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WX97HWC/?tag=tolees-21)
