@@ -28,10 +28,10 @@ Tienes [Razer Kraken para Consolas Auriculares Gaming con Cable  Compatible con 
 
 🔎:
 
-- ESTRUCTURA DE ALUMINIO DE BAUXITA CON UN ACOLCHADO MÁS GRUESO Para que sean más duraderos y pesen menos: La estructura de aluminio de bauxita de los Razer Kraken es ligera, flexible y muy resistente. Con un acolchado más grueso, alivia aún más la presión de la cabeza para un confort duradero.
-- MICRÓFONO UNIDIRECCIONAL RETRÁCTIL Da instrucciones con total claridad: El micrófono unidireccional ofrece una comunicación cristalina con tu equipo. Es retráctil y flexible, lo que te permite sacarlo del auricular cuando te haga falta y ajustar la proximidad y la posición.
 - CANALES OCULTOS PARA LAS PATILLAS Para eliminar la presión de las gafas: La compresión a ambos lados de las almohadillas permite que las patillas de tus gafas se hundan para que no se genere presión lateral en la cabeza.
+- MICRÓFONO UNIDIRECCIONAL RETRÁCTIL Da instrucciones con total claridad: El micrófono unidireccional ofrece una comunicación cristalina con tu equipo. Es retráctil y flexible, lo que te permite sacarlo del auricular cuando te haga falta y ajustar la proximidad y la posición.
 - ALMOHADILLAS DE GEL REFRIGERANTES Para reducir la acumulación de calor: Las almohadillas de gel refrigerante reducen el calor, mientras que la combinación de suave tejido y piel sintética proporciona comodidad y aislamiento acústico superior. Su diseño ovalado garantiza que se ajustarán a tus orejas con comodidad.
 - CONTROLADORES OPTIMIZADOS DE 50 MM Para un sonido potente y claro con unos graves inmersivos: Disfruta de una claridad de sonido superior y de unos graves profundos y potentes para lograr un amplio paisaje sonoro. Escucha todos los detalles desde las sutiles pisadas que se acercan a ti desde atrás a las explosiones de batalla que acaban contigo.
+- ESTRUCTURA DE ALUMINIO DE BAUXITA CON UN ACOLCHADO MÁS GRUESO Para que sean más duraderos y pesen menos: La estructura de aluminio de bauxita de los Razer Kraken es ligera, flexible y muy resistente. Con un acolchado más grueso, alivia aún más la presión de la cabeza para un confort duradero.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P36TLK4/?tag=tolees-21)
