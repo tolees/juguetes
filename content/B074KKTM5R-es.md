@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.00 % en Devir- Carcassonne: Posadas y catedrales'
-date: 2021-11-08 06:12:51
+date: 2021-11-13 18:22:24
 image: 'https://m.media-amazon.com/images/I/51DksFsOKdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [Devir- Carcassonne: Posadas y catedrales  BGCARPO ](https://www.amazon.e
 ℹ️:
 
 - Duración 45 minutos
-- Edición en español y portugués
-- A partir de los 7 años
 - De 2 a 6 jugadores
+- A partir de los 7 años
+- Edición en español y portugués
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B074KKTM5R/?tag=tolees-21)
