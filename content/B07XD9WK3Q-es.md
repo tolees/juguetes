@@ -28,8 +28,8 @@ En este momento está [BigBen Interactive - Bolsa de transporte  Color negro  Ni
 
 🔎:
 
-- Incluye asa de transporte
 - Compartimento central para guardar tu consola NINTENDO MINI SWITCH
 - Compartimento secundario con cintas de goma para cintas de juegos
+- Incluye asa de transporte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XD9WK3Q/?tag=tolees-21)
