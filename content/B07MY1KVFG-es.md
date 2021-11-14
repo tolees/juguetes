@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni Dragon Ball Z Impossible Puzz al 45.91 % de descuento'
-date: 2021-11-07 20:05:12
+date: 2021-11-14 15:54:58
 image: 'https://m.media-amazon.com/images/I/51Sv0XhSEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clementoni'
 buyurl: 'https://www.amazon.es/dp/B07MY1KVFG/?tag=tolees-21'
 descuento: '45.91'
-average: '9.79166666666667'
+average: '9.24285714285715'
 ---
 
 Está [Clementoni Dragon Ball Z Impossible Puzzle Ball-1000 pièces  Multicolor  39489 ](https://www.amazon.es/dp/B07MY1KVFG/?tag=tolees-21) con 45.91 de descuento por 5.95 EUR (original: 11.0 EUR) en el siguiente enlace!
