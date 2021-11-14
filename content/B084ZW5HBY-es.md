@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 17.35 % en Hasbro Gaming-Fortnite Jenga Fornite  Co'
-date: 2021-11-09 08:52:43
+title: 'Descuento del 16.11 % en Hasbro Gaming-Fortnite Jenga Fornite  Co'
+date: 2021-11-14 19:43:50
 image: 'https://m.media-amazon.com/images/I/51AD+SVbxAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Juego de mesa','Juegos de habilidad','Juegos y accesorios para juegos',
 actualPrice: 16.77 EUR
 currency: EUR
 price: 16.77
-comparePrice: 20.29 EUR
+comparePrice: 19.99 EUR
 prodname: 'Hasbro Gaming-Fortnite Jenga Fornite  Color no Aplica  E9480175 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B084ZW5HBY/?tag=tolees-21'
-descuento: '17.35'
-average: '18.43'
+descuento: '16.11'
+average: '18.098'
 ---
 
-Tienes [Hasbro Gaming-Fortnite Jenga Fornite  Color no Aplica  E9480175 ](https://www.amazon.es/dp/B084ZW5HBY/?tag=tolees-21) con un 17.35 % de descuento con precio de oferta de 16.77 EUR (original: 20.29 EUR) en el siguiente enlace!
+Tienes [Hasbro Gaming-Fortnite Jenga Fornite  Color no Aplica  E9480175 ](https://www.amazon.es/dp/B084ZW5HBY/?tag=tolees-21) con un 16.11 % de descuento con precio de oferta de 16.77 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Hasbro Gaming-Fortnite Jenga Fornite  Co](https://m.media-amazon.com/images/I/51AD+SVbxAL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B084ZW5HBY/?tag=tolees-21)
 
