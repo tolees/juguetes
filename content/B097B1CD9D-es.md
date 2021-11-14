@@ -28,8 +28,8 @@ Tienes [BANDAI NAMCO Entertainment Iberica - La Patrulla Canina: La película La
 
 🔎:
 
+- Mision patrulla
 - ¡A ciudad aventura!
 - Conviértete en los cachorros
-- Mision patrulla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B097B1CD9D/?tag=tolees-21)
