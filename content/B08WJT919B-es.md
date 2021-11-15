@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Badland - Vampire the Mascarade Coteries al 17.50 % de rebaja'
-date: 2021-11-04 07:49:26
+date: 2021-11-14 23:40:58
 image: 'https://m.media-amazon.com/images/I/41lasffEfjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

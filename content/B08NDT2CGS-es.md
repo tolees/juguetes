@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Mando Fighting Commander OCTA  Xb al 20.00 % de descuento'
-date: 2021-11-04 07:48:27
+date: 2021-11-14 23:25:54
 image: 'https://m.media-amazon.com/images/I/41JJvK3RPIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B08NDT2CGS/?tag=tolees-21'
 descuento: '20.00'
-average: '47.556923076923'
+average: '47.2766666666666'
 ---
 
 Ahora mismo tienes [HORI - Mando Fighting Commander OCTA  Xbox Series X ](https://www.amazon.es/dp/B08NDT2CGS/?tag=tolees-21) a 39.99 EUR (original: 49.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Mando Fighting Commander OCTA  Xbox Series X ](https:
 
 🔎:
 
-- Stick analógico de corto recorrido con restrictor octagonal y botones mecánicos Micro Switch
 - Compatible con Xbox Series X|S/Xbox One/PC
-- Toma de auriculares y controles de audio integrados
 - Licencia oficial de Microsoft
 - Diseñado específicamente para juegos de lucha en 2D
+- Toma de auriculares y controles de audio integrados
+- Stick analógico de corto recorrido con restrictor octagonal y botones mecánicos Micro Switch
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NDT2CGS/?tag=tolees-21)

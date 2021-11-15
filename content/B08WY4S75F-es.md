@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.50 % en Badland - Pecaminosa - Collector Edition'
-date: 2021-11-04 07:59:45
+date: 2021-11-14 23:20:35
 image: 'https://m.media-amazon.com/images/I/41E7-bbWbDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Badland'
 buyurl: 'https://www.amazon.es/dp/B08WY4S75F/?tag=tolees-21'
 descuento: '17.50'
-average: '33.865'
+average: '33.8135294117647'
 ---
 
 Tienes [Badland - Pecaminosa - Collector Edition - Playstation 4](https://www.amazon.es/dp/B08WY4S75F/?tag=tolees-21) con un 17.50 % de descuento con precio de oferta de 32.99 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Badland - Pecaminosa - Collector Edition - Playstation 4](https://www.am
 
 ℹ️:
 
-- Fichas de casino (5 uds)
 - Juego Físico
-- Cuaderno (Diario de John)
+- Fichas de casino (5 uds)
 - Banda sonora original en CD
+- Cuaderno (Diario de John)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08WY4S75F/?tag=tolees-21)

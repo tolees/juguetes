@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Bla al 21.29 % de rebaja'
-date: 2021-11-04 07:53:45
+date: 2021-11-14 23:18:36
 image: 'https://m.media-amazon.com/images/I/51nO1qYQrrS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B095T5XR9T/?tag=tolees-21'
 descuento: '21.29'
-average: '37.02'
+average: '36.226'
 ---
 
 Tienes [BANDAI NAMCO Entertainment Iberica - Blaze y los Monster Machines Corredores de Ciudad Axle](https://www.amazon.es/dp/B095T5XR9T/?tag=tolees-21) con precio final de  33.05 EUR (original: 41.99 EUR) (21.29 %  de rebaja) aqui!
