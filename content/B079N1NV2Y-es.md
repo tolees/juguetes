@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PLAYMOBIL City Life Colegio  4-10 años   al 44.70 % de descuento'
-date: 2021-11-01 19:15:56
+title: 'PLAYMOBIL City Life Colegio  4-10 años   al 17.19 % de descuento'
+date: 2021-11-15 21:49:14
 image: 'https://m.media-amazon.com/images/I/61hadfmmCDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B079N1NV2Y-es PLAYMOBIL City Life Colegio 4-10 años 9453'
 sku: 'B079N1NV2Y-es'
 tags: [ 'Conjuntos de figuras de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','playmobil', ]
-actualPrice: 72.99 EUR
+actualPrice: 109.31 EUR
 currency: EUR
-price: 72.99
+price: 109.31
 comparePrice: 132.0 EUR
 prodname: 'PLAYMOBIL City Life Colegio  4-10 años  9453 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B079N1NV2Y/?tag=tolees-21'
-descuento: '44.70'
-average: '92.7'
+descuento: '17.19'
+average: '94.0875'
 ---
 
-Ahora mismo tienes [PLAYMOBIL City Life Colegio  4-10 años  9453 ](https://www.amazon.es/dp/B079N1NV2Y/?tag=tolees-21) a 72.99 EUR (original: 132.0 EUR) (44.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [PLAYMOBIL City Life Colegio  4-10 años  9453 ](https://www.amazon.es/dp/B079N1NV2Y/?tag=tolees-21) a 109.31 EUR (original: 132.0 EUR) (17.19 %  de descuento) en el siguiente enlace!
 
 [![PLAYMOBIL City Life Colegio  4-10 años  ](https://m.media-amazon.com/images/I/61hadfmmCDL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079N1NV2Y/?tag=tolees-21)
 
