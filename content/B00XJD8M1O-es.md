@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Stone Age  Juego de Tablero  222 al 20.00 % de descuento'
-date: 2021-11-09 09:40:37
+date: 2021-11-15 12:05:17
 image: 'https://m.media-amazon.com/images/I/51wQfAsqzQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Devir - Stone Age  Juego de Tablero  222746 ](https://www.amazon.es/dp/B0
 
 ℹ️:
 
+- De 2 a 4 jugadores
 - Tendrás que gestionar los recursos del hombre primitivo para hacer su vida más agradable
 - Duración: 60 a 90 minutos
 - Revive la edad de piedra en este juego de estrategia
-- De 2 a 4 jugadores
 - Idioma principal: español
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XJD8M1O/?tag=tolees-21)

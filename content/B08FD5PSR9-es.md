@@ -28,10 +28,10 @@ Tienes [Atlus - Persona 5 Royal PS4](https://www.amazon.es/dp/B08FD5PSR9/?tag=to
 
 🔎:
 
-- New characters and confidants
-- new story elements with a new semester at shujin Academy
-- new story Arc, cutscenes and alternate endings
 - new locations to explore
+- new story elements with a new semester at shujin Academy
 - new gameplay mechanics like the grappling hook.new personas.explore and customize your own personal Thieves Den
+- new story Arc, cutscenes and alternate endings
+- New characters and confidants
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FD5PSR9/?tag=tolees-21)
