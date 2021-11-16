@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Confezione Di 3 Penne Gel al 48.26 % de descuento'
-date: 2021-11-08 21:27:19
+date: 2021-11-16 02:30:29
 image: 'https://m.media-amazon.com/images/I/412jw7J6pWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21'
 descuento: '48.26'
-average: '6.825'
+average: '6.72777777777778'
 ---
 
 Ahora mismo tienes [LEGO - Confezione Di 3 Penne Gel](https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21) a 5.95 EUR (original: 11.5 EUR) (48.26 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [LEGO - Confezione Di 3 Penne Gel](https://www.amazon.es/dp/B
 
 🔎:
 
-- Tinta de gel
-- Compatibles con piezas lego
 - 3 bolígrafos de gel de varios colores: rojo, negro y azul
 - Con piezas azules, rojas y negras de lego
+- Compatibles con piezas lego
+- Tinta de gel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015FM2GWW/?tag=tolees-21)
