@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.00 % en Devir El abejorro tramposo  Juego de Mes'
-date: 2021-11-11 11:56:03
+date: 2021-11-16 14:58:52
 image: 'https://m.media-amazon.com/images/I/5179ul9WOFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07KSK3LT5/?tag=tolees-21'
 descuento: '20.00'
-average: '11.29'
+average: '10.952'
 ---
 
 Tienes [Devir El abejorro tramposo  Juego de Mesa  Multicolor   color/modelo surtido](https://www.amazon.es/dp/B07KSK3LT5/?tag=tolees-21) con un 20.00 % de descuento con precio de oferta de 9.6 EUR (original: 12.0 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Devir El abejorro tramposo  Juego de Mesa  Multicolor   color/modelo sur
 ℹ️:
 
 - Tiempo: 20-25 minutos
-- Edad: +7
 - Contiene: 82 cartas
 - Jugadores: 3-5
+- Edad: +7
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KSK3LT5/?tag=tolees-21)
