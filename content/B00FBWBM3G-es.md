@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel - Juegos Blokus Refresh  juego de con un 33.38 % de descuento'
-date: 2021-11-12 17:34:46
+date: 2021-11-16 09:28:33
 image: 'https://m.media-amazon.com/images/I/519P8KeGKcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel'
 buyurl: 'https://www.amazon.es/dp/B00FBWBM3G/?tag=tolees-21'
 descuento: '33.38'
-average: '24.3286666666667'
+average: '24.056875'
 ---
 
 En este momento está [Mattel - Juegos Blokus Refresh  juego de estrategia para niños +7 años  Mattel BJV44   Embalaje estándar](https://www.amazon.es/dp/B00FBWBM3G/?tag=tolees-21) a 19.98 EUR (original: 29.99 EUR) (33.38 %  de descuento) en el siguiente enlace!

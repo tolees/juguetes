@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir-La Illa Prohibida Juego de mesa  v con un 20.00 % de descuento'
-date: 2021-11-08 06:15:31
+date: 2021-11-16 08:55:55
 image: 'https://m.media-amazon.com/images/I/61+qlCaoEWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B00H1HM5U8/?tag=tolees-21'
 descuento: '20.00'
-average: '21.25'
+average: '20.8333333333333'
 ---
 
 En este momento está [Devir-La Illa Prohibida Juego de mesa  versión catalana  Multicolor  BGILLA ](https://www.amazon.es/dp/B00H1HM5U8/?tag=tolees-21) a 20.0 EUR (original: 25.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Devir-La Illa Prohibida Juego de mesa  versión catalana 
 
 🔎:
 
-- Premio Juego del Año 2011
 - Durada aproximada de la partida: 30 min
 - Edad: a partir de 10 años
 - Idioma: catalana, español
+- Premio Juego del Año 2011
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H1HM5U8/?tag=tolees-21)
