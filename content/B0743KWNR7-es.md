@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Carcassonne: Constructores y Com al 20.00 % de descuento'
-date: 2021-11-14 12:10:47
+date: 2021-11-16 00:58:24
 image: 'https://m.media-amazon.com/images/I/61e2yKFYGCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B0743KWNR7/?tag=tolees-21'
 descuento: '20.00'
-average: '16.766'
+average: '16.6383333333333'
 ---
 
 Ahora mismo tienes [Devir - Carcassonne: Constructores y Comerciantes  BGCARCO ](https://www.amazon.es/dp/B0743KWNR7/?tag=tolees-21) a 16.0 EUR (original: 20.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir - Carcassonne: Constructores y Comerciantes  BGCARCO ]
 
 🔎:
 
-- A partir de 7 años
 - Edición en castellano y portugués
-- De 2 a 6 jugadores
 - Duración 40 minutos
+- A partir de 7 años
+- De 2 a 6 jugadores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0743KWNR7/?tag=tolees-21)

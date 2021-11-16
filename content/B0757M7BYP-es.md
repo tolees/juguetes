@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Carcassonne: La Torre  juego de  al 20.00 % de descuento'
-date: 2021-11-11 18:20:46
+date: 2021-11-15 22:29:34
 image: 'https://m.media-amazon.com/images/I/51zEDXHWFZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B0757M7BYP/?tag=tolees-21'
 descuento: '20.00'
-average: '17.185'
+average: '16.948'
 ---
 
 Ahora mismo tienes [Devir - Carcassonne: La Torre  juego de mesa  BGCARTO ](https://www.amazon.es/dp/B0757M7BYP/?tag=tolees-21) a 16.0 EUR (original: 20.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Devir - Carcassonne: La Torre  juego de mesa  BGCARTO ](http
 
 🔎:
 
-- Duración de la partida: 45 minutos
-- Idiomas del juego: español y portugués
-- Numero de jugadores: 2 - 6
 - Edad mínima de los jugadores: 7 años
+- Duración de la partida: 45 minutos
+- Numero de jugadores: 2 - 6
+- Idiomas del juego: español y portugués
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0757M7BYP/?tag=tolees-21)
