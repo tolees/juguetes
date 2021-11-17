@@ -28,9 +28,9 @@ En este momento está [Koch Media - Dungeons and Dragons Dark Alliance Day One E
 
 🔎:
 
-- Lucha junto a tus amigos - uníos hasta cuatro amigos y luchad juntos en una experiencia cooperativa dinámica con un combate explosivo en tiempo real
 - La Day One Edition ofrece el DLC Juego de armas Beholder Scimitar, Arco, Hacha, Martillo
 - Elige a Tu Héroe – Juega como uno de los cuatro héroes distintos, cada uno con su propio estilo de juego único y habilidades personalizables
+- Lucha junto a tus amigos - uníos hasta cuatro amigos y luchad juntos en una experiencia cooperativa dinámica con un combate explosivo en tiempo real
 - Defiende La Helada Tierra – Dark Alliance da vida al mundo de Dungeons & Dragons como nunca antes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08ZP38JJJ/?tag=tolees-21)

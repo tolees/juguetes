@@ -28,9 +28,9 @@ En este momento está [Namco bandai games america inc. - Subnautica & Subnautica
 
 🔎:
 
-- Construye tu hábitat
-- Exploración
 - Los misterios sumergidos en el Planeta 4546B
+- Construye tu hábitat
 - La supervivencia es la clave
+- Exploración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VFRVYT8/?tag=tolees-21)
