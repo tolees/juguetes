@@ -28,10 +28,10 @@ En este momento está [Beyblade - Hasbro Star Wars Retro Game - Escape de la Est
 
 🔎:
 
-- Huye de la estrella de la muerte en el halcón milenario
-- Totalmente en castellano
-- De 2 a 4 jugadores
-- Incluye una figura exclusiva de coleccionista
 - Juego familiar
+- Huye de la estrella de la muerte en el halcón milenario
+- Incluye una figura exclusiva de coleccionista
+- De 2 a 4 jugadores
+- Totalmente en castellano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R7WKGT3/?tag=tolees-21)

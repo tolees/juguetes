@@ -29,9 +29,9 @@ En este momento está [Theo Klein 8612 Banco de trabajo Junior 2+ de Bosch  Incl
 🔎:
 
 - La superficie de trabajo con función de aprendizaje, tornillo de banco y numerosas posibilidades de almacenamiento invita a jugar y pensar
-- Con el banco de trabajo, los niños aprenden de forma temprana a manejar las herramientas de forma segura y ejercitan las habilidades motoras y la imaginación en el juego
 - Con casco y herramientas de juguete como destornillador, llave inglesa, lima, martillo, sierra y mucho más
 - Made in Germany, Medidas: 49 cm x 29 cm x 71 cm, apto para niños a partir de dos años
 - El banco de trabajo con diseño de Bosch ofrece muchas posibilidades de juego con numerosos accesorios, incluso para los obreros y obreras más pequeños
+- Con el banco de trabajo, los niños aprenden de forma temprana a manejar las herramientas de forma segura y ejercitan las habilidades motoras y la imaginación en el juego
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IL35XW8/?tag=tolees-21)
