@@ -28,8 +28,8 @@ Está [Devir- Sword & Sorcery: Las Formas Fantasmales de los Héroes  BGSISACC ]
 
 ℹ️:
 
-- Edad recomendada: 12+
 - Duración: 60 - 90 minutos
+- Edad recomendada: 12+
 - Incluye la versión espectral de los 5 héroes y 10 cartas de talentos connaturales
 - Juega con las formas fantasmales de tus héroes favoritos con esta caja de complementos imprescindible
 

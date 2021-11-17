@@ -29,9 +29,9 @@ Ahora mismo tienes [ATOYX Mini Drone  RC Drone 2.4G 4 Canales 6-Axis Gyro  Quadc
 🔎:
 
 - ✪Altamente estable✪: Simplemente afloje la palanca del acelerador, puede bloquear con precisión la altura y la posición y moverse de manera estable, haciendo que la experiencia sea muy fácil y conveniente. Es un regalo especial para niños y principiantes.
-- ✪Modo sin cabeza✪: el dron infantil puede activar el modo sin cabeza al comienzo del vuelo, puede controlarlo fácilmente sin distinguir la dirección del dron. El sensor indicador LED puede volar en la noche oscura.
-- ATOYX ofrece drones diversos y de alta calidad. La alta calidad siempre ha estado por delante de otros productos del mismo tipo. 12 meses de garantía. Si no está satisfecho, puede ponerse en contacto con nuestro servicio de atención al cliente para resolver el problema.
 - ✪ Larga Vida y Seguridad✪: El RC drone tiene gran estabilidad, facilidad de control, 2.4 G de tecnología de control remoto con 4 canales y el 6-axis gyro que ser muy seguro para niños, adultos. Y el drone trae un cargados USB que necesita 30-50 minutos para cargar completa, el máximo tiempo de vuelo puede alcanzar hasta 6 - 8 minutos
+- ATOYX ofrece drones diversos y de alta calidad. La alta calidad siempre ha estado por delante de otros productos del mismo tipo. 12 meses de garantía. Si no está satisfecho, puede ponerse en contacto con nuestro servicio de atención al cliente para resolver el problema.
+- ✪Modo sin cabeza✪: el dron infantil puede activar el modo sin cabeza al comienzo del vuelo, puede controlarlo fácilmente sin distinguir la dirección del dron. El sensor indicador LED puede volar en la noche oscura.
 - ATOYX mini drone es para niños o principiantes. También está diseñado para personas que tienen experiencia en vuelo y quieren jugar con pequeños drones.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DLR72DQ/?tag=tolees-21)
