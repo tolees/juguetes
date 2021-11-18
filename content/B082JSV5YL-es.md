@@ -28,9 +28,9 @@ Tienes [Star Wars- The Child Pack de 2 Rana  Hasbro F12545S00 ](https://www.amaz
 
 ℹ️:
 
-- Juego de dos figuras de acción representativas a The Child de la serie The Mandalorian
-- Edad recomendada: a partir de 4 años
 - Los múltiples puntos de articulación permiten que los coloquen en distintas poses para exhibirla
 - Material: plástico
+- Juego de dos figuras de acción representativas a The Child de la serie The Mandalorian
+- Edad recomendada: a partir de 4 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082JSV5YL/?tag=tolees-21)
