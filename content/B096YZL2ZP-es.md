@@ -28,10 +28,10 @@ Ahora mismo tienes [U&I Entertainment - Just Die Already PS4](https://www.amazon
 
 🔎:
 
+- MISIÓN IMPOSIBLE: ¡JUBILACIÓN! Consigue recompensas complet ando peligrosos desafíos. Tu objetivo será poder acceder a una residencia como Dios manda. ¿A que todo tiene sentido? Un consejito: intenta llegar de una pieza para poder disfrutar del premio...
 - NO LO INTENTES EN LA RESIDENCIA: Completa peligrosos desafíos que jamás intentarás en casa y conseguirás respuestas a preguntas existenciales como: ¿es posible lanzarse desde una catapulta y aterrizar en alguien? ¿Se sobrevive a perder la cabeza y aporrearle a alguien con ella?
 - PALADÍN SENIL: Te convertirás en una persona mayor. Enfadada, frágil, huraña y que odia al mundo: es el sueño que nunca supiste que tenías. Por fin vas a tener algo en común con tus abuelos
 - TE ROMPERÁS LA CRISMA... PERO CON CARISMA: Descubre las maravillas de ser mayor y estar hecho de cristal. Todo puede hacer que te rompas algo, y te romperás partes que ni siquiera sabías que existían
-- MISIÓN IMPOSIBLE: ¡JUBILACIÓN! Consigue recompensas complet ando peligrosos desafíos. Tu objetivo será poder acceder a una residencia como Dios manda. ¿A que todo tiene sentido? Un consejito: intenta llegar de una pieza para poder disfrutar del premio...
 - INTERACCIÓN SIN LÍMITES : Recoge múltiples objetos e interactú a con ellos: truchas gigantes, trampolines, pistolas, cableado y fuegos artificiales por mencionar algo. Ya que nos ponemos también bazucas, hachas, trombones, bocinas y mochilas propulsoras. Y sí, todo se puede usar para herir y mutilar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B096YZL2ZP/?tag=tolees-21)

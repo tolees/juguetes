@@ -28,10 +28,10 @@ Tienes [Epic Games - Alan Wake Remastered XboX](https://www.amazon.es/dp/B09FMKZ
 
 🔎:
 
-- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
-- Combate intenso, donde se necesitan más que balas para desterrar la oscuridad
 - Debilita los Poseídos con la luz antes de acabar con ellos para siempre
 - Encuentra páginas de manuscritos de una novela que Wake no recuerda haber escrito
+- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
 - Utiliza las luces del entorno cómo protección en un mundo donde la oscuridad es mortal
+- Combate intenso, donde se necesitan más que balas para desterrar la oscuridad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B09FMKZZYC/?tag=tolees-21)
