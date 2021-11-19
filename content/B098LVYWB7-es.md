@@ -28,8 +28,8 @@ Ahora mismo tienes [SEGA - Guardianes de la Noche. Kimetsu no Yaiba - las Cróni
 
 🔎:
 
-- Revive la historia del anime “Guardianes de la Noche: Kimetsu no Yaiba” en el modo un jugador
-- Juego al modo batalla, que permite espectaculares combates de 2 vs 2
 - Puedes combinar cualquier personaje en equipo y utilizar así movimientos es, por ejemplo, puedes unir a Tanjirō Kamado y Nezuko Kamado
+- Juego al modo batalla, que permite espectaculares combates de 2 vs 2
+- Revive la historia del anime “Guardianes de la Noche: Kimetsu no Yaiba” en el modo un jugador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B098LVYWB7/?tag=tolees-21)
