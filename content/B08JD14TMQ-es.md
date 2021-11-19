@@ -28,10 +28,10 @@ Tienes [Hot Wheels Pack básico de pistas de coches de juguete  incluye 10 pieza
 
 🔎:
 
-- Este paquete es un regalo perfecto para cualquier constructor de pistas. Se puede conectar a otros conjuntos Track Builder de Hot Wheels (se venden por separado).
-- Los niños podrán utilizar su imaginación para construir los circuitos más salvajes y emocionantes con los materiales incluidos.
-- Este paquete de pista básico de Track Builder Unlimited de Hot Wheels es un conjunto de pista esencial para cualquier iniciado en la construcción de pistas, o para cualquiera que quiera ampliar un circuito existente.
-- ¡Fantástico regalo para niños a partir de 6 años!
 - Cada conjunto incluye 10 piezas de pista, 9 conectores y 1 coche a escala 1:64 de Hot Wheels.
+- Este paquete de pista básico de Track Builder Unlimited de Hot Wheels es un conjunto de pista esencial para cualquier iniciado en la construcción de pistas, o para cualquiera que quiera ampliar un circuito existente.
+- Los niños podrán utilizar su imaginación para construir los circuitos más salvajes y emocionantes con los materiales incluidos.
+- ¡Fantástico regalo para niños a partir de 6 años!
+- Este paquete es un regalo perfecto para cualquier constructor de pistas. Se puede conectar a otros conjuntos Track Builder de Hot Wheels (se venden por separado).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08JD14TMQ/?tag=tolees-21)

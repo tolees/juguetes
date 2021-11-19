@@ -28,9 +28,9 @@ Tienes [Mega Construx Hot Wheels Muscle Bound Coche de juguete de bloques de con
 
 🔎:
 
-- Ideal a partir de 5 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
-- 102 bloques y piezas que se combinan con otros conjuntos de construcción de Mega Construx y son compatibles con las principales marcas
 - Incluye detalles auténticos como el capó abultado con motor V8 de 4 cilindros
+- 102 bloques y piezas que se combinan con otros conjuntos de construcción de Mega Construx y son compatibles con las principales marcas
+- Ideal a partir de 5 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 - Juguete de construcción Muscle Bound de Hot Wheels con ruedas y el asiento del conductor
 - 1 microfigura de acción articulada con traje de conductor de carreras
 

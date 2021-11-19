@@ -28,8 +28,8 @@ Está [Pinypon - Belén  Famosa 700013091 ](https://www.amazon.es/dp/B01GE1Z9N6/
 
 ℹ️:
 
-- Celebra la navidad con el divertido Belén de Pinypon
 - Incluye el pesebre, una palmera y un escenario de fondo de cartón
+- Celebra la navidad con el divertido Belén de Pinypon
 - Con figuras de dos animales: un buey y un asno
 - Incluye las figuras del niño Jesús, la Virgen María, San José, los tres Reyes Magos y un angelito
 - Escena navideña con cueve figuras
