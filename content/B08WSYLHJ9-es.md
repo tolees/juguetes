@@ -28,10 +28,10 @@ Tienes [Playstation - Ratchet & Clank: Una Dimensión Aparte](https://www.amazon
 
 🔎:
 
-- Experimenta los saltos intergalácticos por las brechas dimensionales, que combinan nuevos mundos y mecánicas de juego
-- Ábrete camino hacia tu hogar con un arsenal repleto de nuevas armas explosivas, incluyendo la Burst Pistol, el Topiary Sprinkler y la Shatterbomb
-- Surca el cielo de ciudades, lánzate al combate y salta de dimensión en dimensión con nuevos artefactos que desafían las leyes de la física
 - Los aventureros intergalácticos regresan a lo grande en Ratchet & Clank: Una Dimensión Aparte
 - Un malvado emperador robótico se ha lanzado a la conquista de mundos interdimensionales, y el universo de Ratchet y Clank es su próximo objetivo
+- Surca el cielo de ciudades, lánzate al combate y salta de dimensión en dimensión con nuevos artefactos que desafían las leyes de la física
+- Ábrete camino hacia tu hogar con un arsenal repleto de nuevas armas explosivas, incluyendo la Burst Pistol, el Topiary Sprinkler y la Shatterbomb
+- Experimenta los saltos intergalácticos por las brechas dimensionales, que combinan nuevos mundos y mecánicas de juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WSYLHJ9/?tag=tolees-21)
