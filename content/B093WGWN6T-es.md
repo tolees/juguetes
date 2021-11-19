@@ -28,10 +28,10 @@ Está [SUPERTHINGS RIVALS OF KABOOM - SUPERTHINGS Training Tower – Torre de en
 
 ℹ️:
 
-- ENTRENA A TUS KAZOOM KIDS – Sube a lo alto del centro de entrenamiento y baja por la rampa a toda velocidad. Entrénate contra un rival holográfico y practica tu puntería con el super cañón.
 - GRAN JUGABILIDAD – Vuela, pelea y dispara. Horas de diversión con esta torre de entrenamiento con luces y sonido.
+- CON EFECTOS DE LUZ Y SONIDO – Incluye pilas.
+- ENTRENA A TUS KAZOOM KIDS – Sube a lo alto del centro de entrenamiento y baja por la rampa a toda velocidad. Entrénate contra un rival holográfico y practica tu puntería con el super cañón.
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - FIGURAS EXCLUSIVAS – Contiene 1 SuperThing y 1 Kazoom Kid exclusivo.
-- CON EFECTOS DE LUZ Y SONIDO – Incluye pilas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B093WGWN6T/?tag=tolees-21)
