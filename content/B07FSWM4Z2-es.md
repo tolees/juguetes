@@ -28,8 +28,8 @@ Ahora mismo tienes [HORI - Controlador D-Pad  izquierdo  Zelda  Nintendo Switch 
 
 🔎:
 
-- Licencia oficial de Nintendo
 - Ideal para juegos 2D con uso intensivo del pad direccional
+- Licencia oficial de Nintendo
 - Joy-Con izquierdo con cruceta
 - Acabado mate en plástico semitraslúcido
 
