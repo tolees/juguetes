@@ -28,10 +28,10 @@ Está [Potato Head - Hasbro - Mr Mph  Hasbro  27657EZ3 ](https://www.amazon.es/d
 
 ℹ️:
 
+- La mayoría de las piezas son compatibles con otros Mr. Potato y Mrs. Potato ,se venden por separado
+- Personaliza tu propio potato
 - Piezas para mezclar y combinar
 - Crea looks divertidos
 - Ponle caras divertidas a tu potato
-- La mayoría de las piezas son compatibles con otros Mr. Potato y Mrs. Potato ,se venden por separado
-- Personaliza tu propio potato
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073PC1WQY/?tag=tolees-21)

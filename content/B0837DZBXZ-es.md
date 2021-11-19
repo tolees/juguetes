@@ -28,9 +28,9 @@ Ahora mismo tienes [los Barriguitas- Set de Cuna  Sillita Trona y Accesorios par
 
 🔎:
 
+- Los muebles son aptos para barriguitas y otros muñecos bebé de tamaño 15cm
 - Accesorios con materiales realistas como los de los bebés de verdad
 - Cuna con dosel estilo princesa y ropa de cama con preciosos detalles
-- Los muebles son aptos para barriguitas y otros muñecos bebé de tamaño 15cm
 - La sillita trona incluye accesorios para dar de comer a la barriguita
 - Elegante set de accesorios barriguitas de 2 piezas: cuna de madera de color blanco y sillita trona de color blanco
 

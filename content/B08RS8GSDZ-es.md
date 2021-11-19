@@ -28,10 +28,10 @@ En este momento está [My First Pinypon - Pinypon - My First  Happy Vehículos B
 
 🔎:
 
-- Lleva un cilindro giratorio con imágenes para jugar y aprender
 - La figura mide 9 cm, compuesta de 2 partes intercambiables y su cara tiene 3 expresiones diferentes
+- El barco flota para la bañera
+- Lleva un cilindro giratorio con imágenes para jugar y aprender
 - Juguete para niños a partir de 1 año para estimular su desarrollo y juego
 - Set de un barco con 1 figura del capitán
-- El barco flota para la bañera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RS8GSDZ/?tag=tolees-21)

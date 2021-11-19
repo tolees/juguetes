@@ -29,9 +29,9 @@ En este momento está [Barbie - Princess Adventure  Principe Ken  Muñeco para n
 🔎:
 
 - Este muñeco ken príncipe viste un fabuloso conjunto de chaqueta azde «piel» con hombreras, medallas reales y tachuelas de plata
-- Las niñas pueden coleccionar más muñecas y juguetes de princess adventure de Barbie para recrear historias en todo el reino
-- Es perfecto para niñas de entre 3 y 7 años que adoran recrear sus historias de princesas favoritas y sueñan con nuevas aventuras junto a las muñecas inspiradas en princess adventure de Barbie, porque cuando una niña juega con Barbie, imagina todo lo que puede ser de mayor
 - Las muñecas Barbie inspiradas en princess adventure de Barbie transportan a las pequeñas soñadores a una tierra lejana donde reina la imaginación
 - Los vaqueros envejecidos y las zapatillas deportivas blancas son tendencia, y una corona completa su look de príncipe
+- Las niñas pueden coleccionar más muñecas y juguetes de princess adventure de Barbie para recrear historias en todo el reino
+- Es perfecto para niñas de entre 3 y 7 años que adoran recrear sus historias de princesas favoritas y sueñan con nuevas aventuras junto a las muñecas inspiradas en princess adventure de Barbie, porque cuando una niña juega con Barbie, imagina todo lo que puede ser de mayor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083VKBXRN/?tag=tolees-21)

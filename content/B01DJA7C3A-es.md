@@ -28,10 +28,10 @@ En este momento está [ELEFUN Hasbro Gaming - Juego Infantil  Hasbro B7714175 ](
 
 🔎:
 
-- Incluye tres redes cazamariposas
 - Más de 90 cm de alto
-- Incluye 20 mariposas de colores
 - Elefun - hasbro gaming (hasbro b7714175)
 - Con música durante el juego
+- Incluye tres redes cazamariposas
+- Incluye 20 mariposas de colores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DJA7C3A/?tag=tolees-21)

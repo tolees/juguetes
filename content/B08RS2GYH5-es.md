@@ -28,10 +28,10 @@ Tienes [Pinypon - My First  Figura Doctor  Minifigura de médico para peques a p
 
 ℹ️:
 
-- Incluye una figura de un enfermera
-- Tu pequeño se divertirá jugando con el médico, aprenderá emociones, mejorará su motricidad fina y desarrollará su imaginación
-- La cara de la enfermera tiene 3 expresiones diferentes, que se cambian al girar la cara del muñeco
-- Las piezas son de tamaño grande (10 centímetros) para los niños de edad preescolar a partir de un año de edad. (+12 meses)
 - Figura de enfermera con 2 piezas intercambiables con otras figuras de My First Pinypon
+- Tu pequeño se divertirá jugando con el médico, aprenderá emociones, mejorará su motricidad fina y desarrollará su imaginación
+- Las piezas son de tamaño grande (10 centímetros) para los niños de edad preescolar a partir de un año de edad. (+12 meses)
+- La cara de la enfermera tiene 3 expresiones diferentes, que se cambian al girar la cara del muñeco
+- Incluye una figura de un enfermera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08RS2GYH5/?tag=tolees-21)

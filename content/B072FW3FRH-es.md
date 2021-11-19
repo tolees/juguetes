@@ -28,10 +28,10 @@ En este momento está [Juegos Mattel - Mattel Games La Gallina Josefina  juego d
 
 🔎:
 
-- Si la gallina no pone ningún huevo, el turno pasa al siguiente jugador
 - Es un juego desternillante para niños a partir de cuatro años
-- Sin embargo, si el gallinero se abre, la gallina pondrá un huevo que tendrás que romper
 - Si cae con el lado del huevo hacia arriba, no tienes suerte y el turno pasa al siguiente jugador
+- Si la gallina no pone ningún huevo, el turno pasa al siguiente jugador
 - Si cae con el lado del pollito hacia arriba, ganas una ficha con un pollito
+- Sin embargo, si el gallinero se abre, la gallina pondrá un huevo que tendrás que romper
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072FW3FRH/?tag=tolees-21)

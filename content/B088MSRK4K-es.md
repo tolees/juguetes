@@ -28,10 +28,10 @@ Tienes [Nenuco- Día  muñeca bebé con Colegio guardería  Famosa 700015834 ](h
 
 🔎:
 
-- La zona de juegos tiene una colorida alfombra para que los más pequeños aprendan colores y números, una pizarra de velcro para revisar la asistencia y el tiempo, una campana y un reloj para organizar las tareas del día
+- Nenuco Día de guardería es la guardería más completa de Nenuco; con 4 zonas diferentes para jugar y aprender se convertirán en los mejores profesores de guardería
+- Recomendado a partir de 3 años; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
 - Incluye muñeco Nenuco de 35 cm de cuerpo duro con pelo y con ropa de colegio que se puede quitar y poner además de la guardería y los accesorios
 - Trae más de 10 accesorios para los diferentes momentos de juego: galleta, botella de agua, mochila para llevar la merienda de Nenuco, el inodoro para el cuarto de baño, fotos de velcro, iconos del tiempo para las clases, el boli para la pizarra de la clase de arte, un plato con cubertería
-- Recomendado a partir de 3 años; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
-- Nenuco Día de guardería es la guardería más completa de Nenuco; con 4 zonas diferentes para jugar y aprender se convertirán en los mejores profesores de guardería
+- La zona de juegos tiene una colorida alfombra para que los más pequeños aprendan colores y números, una pizarra de velcro para revisar la asistencia y el tiempo, una campana y un reloj para organizar las tareas del día
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088MSRK4K/?tag=tolees-21)

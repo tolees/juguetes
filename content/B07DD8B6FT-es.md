@@ -28,9 +28,9 @@ Está [Nancy - Un día de Secretos de Belleza  Morena  Famosa 700013833 ](https:
 
 ℹ️:
 
-- Disponible en dos modelos diferentes: rubia y morena
-- Recomendado a partir de 3 años
-- Incluye busto de peluquería y accesorios: peines, brochas para maquillar, pestañaz postizas, pegatinas, purpurina, gomas de pelo, pintalabios…
 - Para aprender con Nancy a ser la mejor peluquera y maquilladora!
+- Disponible en dos modelos diferentes: rubia y morena
+- Incluye busto de peluquería y accesorios: peines, brochas para maquillar, pestañaz postizas, pegatinas, purpurina, gomas de pelo, pintalabios…
+- Recomendado a partir de 3 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DD8B6FT/?tag=tolees-21)
