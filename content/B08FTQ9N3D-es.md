@@ -28,8 +28,8 @@ En este momento está [Ubisoft Spain - Far Cry 6 Gold PS5](https://www.amazon.es
 
 🔎:
 
-- UNA YARA DESGARRADA Lucha contra las tropas de Antón en el Far Cry más grande hasta la fecha a lo largo de junglas, playas y Esperanza, la capital de Yara.
 - LUCHA POR LA LIBERTAD Encarna a Dani Rojas, habitante de Yara que se convertirá en guerrillero para liberar su nación.
+- UNA YARA DESGARRADA Lucha contra las tropas de Antón en el Far Cry más grande hasta la fecha a lo largo de junglas, playas y Esperanza, la capital de Yara.
 - Far Cry 6 - Gold Edition incluye el juego completo y el Season Pass : ¡Amplía tu experiencia con el Season Pass* y su contenido adicional con los 3 DLC y mucho más!
 - POTENCIA DE FUEGO GUERRILLERA Sírvete de armas improvisadas, vehículos y amigos, los nuevos colmillos de alquiler, para reducir el tiránico régimen a cenizas.
 

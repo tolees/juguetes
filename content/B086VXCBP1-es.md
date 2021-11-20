@@ -29,10 +29,10 @@ Está [Barbie - Dreamptopia Muñeca con pelo rosa y su unicornio luces mágicas 
 ℹ️:
 
 - A la hora de dormir, mantén apretado el cuerno del unicornio para activar efectos de sonidos y una nana, además del espectáculo de luces especial para dormir
-- La princesa Barbie lleva pantalones debajo de su falda de tul color arcoíris y puede doblar las rodillas, así que puede sentarse sin problema en el lomo del unicornio para cabalgar durante el juego
-- Hay distintas maneras de jugar: acaricia el cuerpo del unicornio, toca su cuerno o deja que coma el helado incluido para activar música o sonidos tiernos, y ver luces y estrellas de colores
-- Por qué tiene este producto embalaje reducido: Hemos trabajado mucho para reducir el tamaño y los materiales innecesarios en nuestro embalaje nuevo y duradero, minimizando los desechos y las emisiones
 - El unicornio luces mágicas y la princesa Barbie de Barbie Dreamtopia iluminarán la imaginación de las niñas con espectáculos de luces y efectos sonoros fáciles de activar; gracias a su activación fácil, las niñas repetirán el efecto una y otra vez para descubrir más sorpresas
+- La princesa Barbie lleva pantalones debajo de su falda de tul color arcoíris y puede doblar las rodillas, así que puede sentarse sin problema en el lomo del unicornio para cabalgar durante el juego
 - Con tantos espectáculos de luz y sonido y tantas opciones de juego, el unicornio y la princesa Barbie son un regalo para las niñas, especial para los fanáticos de los unicornios, los caballos y todos los animales reales o de fantasía.
+- Por qué tiene este producto embalaje reducido: Hemos trabajado mucho para reducir el tamaño y los materiales innecesarios en nuestro embalaje nuevo y duradero, minimizando los desechos y las emisiones
+- Hay distintas maneras de jugar: acaricia el cuerpo del unicornio, toca su cuerno o deja que coma el helado incluido para activar música o sonidos tiernos, y ver luces y estrellas de colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086VXCBP1/?tag=tolees-21)
