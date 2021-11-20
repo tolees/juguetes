@@ -29,8 +29,8 @@ En este momento está [SUPERTHINGS RIVALS OF KABOOM - SUPERTHINGS Power Machines
 🔎:
 
 - ¿ENCONTRARÁS LAS FIGURAS EXCLUSIVAS? – Descubre las figuras plateadas, doradas y al escurridizo Dr. Volt, ¡que brilla en la oscuridad!
-- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
-- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - + 80 PERSONAJES – Hay más de 80 figuras para coleccionar, y cada una tiene un súper poder que la hace única. ¡Descubre a los héroes y villanos de Kaboom City!
+- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
+- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NCWDQBH/?tag=tolees-21)
