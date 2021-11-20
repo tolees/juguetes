@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75299 Star Wars: The Mandalorian Pr al 15.45 % de descuento'
-date: 2021-11-19 11:40:00
+date: 2021-11-20 13:44:54
 image: 'https://m.media-amazon.com/images/I/51LSQGmiViL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4D1PBN/?tag=tolees-21'
 descuento: '15.45'
-average: '28.008449197861'
+average: '27.9709574468085'
 ---
 
 Está [LEGO 75299 Star Wars: The Mandalorian Problemas en Tatooine  Set de Construcción con Figura de Baby Yoda El Niño  Temporada 2](https://www.amazon.es/dp/B08G4D1PBN/?tag=tolees-21) con 15.45 de descuento por 20.96 EUR (original: 24.79 EUR) en el siguiente enlace!
@@ -28,15 +28,15 @@ Está [LEGO 75299 Star Wars: The Mandalorian Problemas en Tatooine  Set
 
 ℹ️:
 
-- Los componentes LEGO cumplen las normas más exigentes del sector, por lo que ofrecen siempre las mismas cualidades y son compatibles entre sí para facilitar que se conecten con firmeza y sencillez todas las veces; así ha sido desde 1958.
-- Tu peque podrá recrear las escenas de la temporada 2 de Star Wars: The Mandalorian e interpretar sus propias historias poniendo a prueba su puntería a bordo de una moto speeder con el juguete de construcción Problemas en Tatooine (75299).
-- Los elementos y ladrillos LEGO pasan por las pruebas más exhaustivas para asegurarnos de que satisfagan rigurosos estándares de seguridad.
-- La moto speeder cuenta con un asiento para una minifigura LEGO y alforjas para acomodar al Niño. El set incluye también una cabaña-guarida Tusken y una ballesta automática que dispara para el bandido Tusken, ambas construibles.
-- No hay problema. Viene con instrucciones ilustradas fáciles de seguir para que pueda construirlo con confianza.
-- Incluye minifiguras LEGO del Mandaloriano y un bandido Tusken, cada una con armas para interpretar batallas, así como una figura LEGO del Niño (el popular personaje cariñosamente conocido como “Baby Yoda”).
-- La moto speeder mide aproximadamente 3 cm de altura, 13 cm de longitud y 3 cm de anchura; este set completo combina genial con otros juegos construibles LEGO Star Wars para potenciar el juego creativo.
-- Ideal para construir y jugar a solas o para compartir la diversión con amigos, este asombroso juguete de construcción es el mejor regalo de cumpleaños, obsequio de Navidad o premio sorpresa para niños creativos a partir de 7 años.
-- Los fans de cualquier edad siempre encontrarán un set LEGO Star Wars que les entusiasme, ya quieran recrear escenas de las películas, interpretar sus propias historias o tan solo construir y exponer las realistas maquetas de construcción.
 - ¿Estás pensando en comprarle este set de 277 piezas a un recién llegado al mundo de la construcción con LEGO
+- Ideal para construir y jugar a solas o para compartir la diversión con amigos, este asombroso juguete de construcción es el mejor regalo de cumpleaños, obsequio de Navidad o premio sorpresa para niños creativos a partir de 7 años.
+- Los componentes LEGO cumplen las normas más exigentes del sector, por lo que ofrecen siempre las mismas cualidades y son compatibles entre sí para facilitar que se conecten con firmeza y sencillez todas las veces; así ha sido desde 1958.
+- Incluye minifiguras LEGO del Mandaloriano y un bandido Tusken, cada una con armas para interpretar batallas, así como una figura LEGO del Niño (el popular personaje cariñosamente conocido como “Baby Yoda”).
+- Los fans de cualquier edad siempre encontrarán un set LEGO Star Wars que les entusiasme, ya quieran recrear escenas de las películas, interpretar sus propias historias o tan solo construir y exponer las realistas maquetas de construcción.
+- Tu peque podrá recrear las escenas de la temporada 2 de Star Wars: The Mandalorian e interpretar sus propias historias poniendo a prueba su puntería a bordo de una moto speeder con el juguete de construcción Problemas en Tatooine (75299).
+- La moto speeder mide aproximadamente 3 cm de altura, 13 cm de longitud y 3 cm de anchura; este set completo combina genial con otros juegos construibles LEGO Star Wars para potenciar el juego creativo.
+- La moto speeder cuenta con un asiento para una minifigura LEGO y alforjas para acomodar al Niño. El set incluye también una cabaña-guarida Tusken y una ballesta automática que dispara para el bandido Tusken, ambas construibles.
+- Los elementos y ladrillos LEGO pasan por las pruebas más exhaustivas para asegurarnos de que satisfagan rigurosos estándares de seguridad.
+- No hay problema. Viene con instrucciones ilustradas fáciles de seguir para que pueda construirlo con confianza.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08G4D1PBN/?tag=tolees-21)
