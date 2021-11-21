@@ -28,10 +28,10 @@ Tienes [Zygomatic - Timeline: Eventos Juego de Cartas en Español](https://www.a
 
 ℹ️:
 
-- Recomendado a Partir de 8 Años de Edad
-- Contiene: 55 cartas, 1 caja de latón y 1 reglamento, La serie ECO de Timeline tiene un formato más respetuoso con el medio ambiente.
 - Juego de Cartas en Español
 - Juego de 2 a 8 Jugadores
+- Contiene: 55 cartas, 1 caja de latón y 1 reglamento, La serie ECO de Timeline tiene un formato más respetuoso con el medio ambiente.
 - Con una duración de 15 Minutos por partida
+- Recomendado a Partir de 8 Años de Edad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08H2KFY5H/?tag=tolees-21)

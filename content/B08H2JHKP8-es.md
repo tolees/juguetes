@@ -28,10 +28,10 @@ En este momento está [Zygomatic - Timeline: Clásico Juego de Cartas en Españo
 
 🔎:
 
-- Con una duración de 15 Minutos por partida
-- Recomendado a Partir de 8 Años de Edad
 - Juego de Cartas en Español
 - Contiene: 55 cartas, 1 caja de latón y 1 reglamento, La serie ECO de Timeline tiene un formato más respetuoso con el medio ambiente.
+- Con una duración de 15 Minutos por partida
+- Recomendado a Partir de 8 Años de Edad
 - Juego de 2 a 8 Jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08H2JHKP8/?tag=tolees-21)
