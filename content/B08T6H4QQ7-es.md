@@ -28,10 +28,10 @@ Ahora mismo tienes [Richgv Tarjetas Flash para Bebés  Flashcards Ingles para Be
 
 🔎:
 
-- 👏Material seguro no tóxico: Flashcards ingles colores para bebés están impresas con tinta de soja ecológica, las tarjetas flash para recién nacidos son de colores brillantes, frescas y sin olor.Las esquinas redondeadas sin rebabas y sin arañazos pueden garantizar que el bebé no se raye con las tarjetas flash.
-- 💗Gran juguete y regalo para recién nacidos: Flashcards ingles colores son perfectos como regalo de cumpleaños, Navidad o vacaciones. Son juguetes de regalo educativos excepcionales para recién nacidos, bebés y niños pequeños.
-- 👏Edad de 0-3 años: Flashcards ingles colores es una poderosa herramienta de aprendizaje para bebés de 0-3 años para la estimulación visual y el desarrollo cerebral/sensorial. Ayuda a mejorar la capacidad de atención y observación de los bebés.
-- 👏4 temas diferentes: Flashcards ingles colores Incluyen animales(12 tarjetas / 24 páginas), frutas(12 tarjetas / 24 páginas), alfabeto(14 tarjetas / 28 páginas) y número(12 tarjetas / 24 páginas), Imprimidas en tableros espesos de gran formato (120*100*1mm).Cada tema tiene anillos para separar.Todos los cuadros son claros, llamativos y con colores brillantes, alegres y de alto contraste.
 - 👏Fácil de limpiar: Buena dureza e impermeable, las flashcards ingles colores están impresas con aceite de soja que es totalmente fácil de limpiar. Un tamaño adecuado para llevar y mostrar a los bebés.
+- 👏Edad de 0-3 años: Flashcards ingles colores es una poderosa herramienta de aprendizaje para bebés de 0-3 años para la estimulación visual y el desarrollo cerebral/sensorial. Ayuda a mejorar la capacidad de atención y observación de los bebés.
+- 💗Gran juguete y regalo para recién nacidos: Flashcards ingles colores son perfectos como regalo de cumpleaños, Navidad o vacaciones. Son juguetes de regalo educativos excepcionales para recién nacidos, bebés y niños pequeños.
+- 👏Material seguro no tóxico: Flashcards ingles colores para bebés están impresas con tinta de soja ecológica, las tarjetas flash para recién nacidos son de colores brillantes, frescas y sin olor.Las esquinas redondeadas sin rebabas y sin arañazos pueden garantizar que el bebé no se raye con las tarjetas flash.
+- 👏4 temas diferentes: Flashcards ingles colores Incluyen animales(12 tarjetas / 24 páginas), frutas(12 tarjetas / 24 páginas), alfabeto(14 tarjetas / 28 páginas) y número(12 tarjetas / 24 páginas), Imprimidas en tableros espesos de gran formato (120*100*1mm).Cada tema tiene anillos para separar.Todos los cuadros son claros, llamativos y con colores brillantes, alegres y de alto contraste.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08T6H4QQ7/?tag=tolees-21)
