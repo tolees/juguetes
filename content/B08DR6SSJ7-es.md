@@ -28,10 +28,10 @@ Ahora mismo tienes [Winning Moves - Trivial Pursuit de Viaje – Dragon Ball Z �
 
 🔎:
 
-- Demuestra que eres el fan número 1 de Dragon Ball Z respondiendo todas las preguntas sobre la serie y sus personajes.
-- Adecuado para adultos y niños a partir de 12 años.
 - Este juego tiene un total de 600 preguntas que te entretendrán y ayudarán a conocer más sobre tus personajes preferidos; no incluye tablero.
 - ¡Un juego divertido para compartir con tus mejores amigos!
 - Fácil de guardar y perfecto para llevarlo a cualquier parte.
+- Adecuado para adultos y niños a partir de 12 años.
+- Demuestra que eres el fan número 1 de Dragon Ball Z respondiendo todas las preguntas sobre la serie y sus personajes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DR6SSJ7/?tag=tolees-21)

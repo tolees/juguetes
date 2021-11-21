@@ -28,11 +28,11 @@ Tienes [LEGO 76383 Harry Potter Momento Hogwarts: Clase de Pociones  Libro Colec
 
 ℹ️:
 
-- Entre sus accesorios se incluyen un libro de pociones, una pizarra, una butaca, una mesa, una cámara secreta y un decorado de fondo que representa las mazmorras
-- El set de juego de LEGO Harry Potter es del tamaño portátil para llevarlo de viaje y, al acabar la clase, cerrar la tapa y llevarlo donde quieras
 - Incluye mini figuras LEGO de Draco Malfoy, Seamus Finnigan y tiene una tapa de un color distintivo con un motivo exclusivo
-- El set incluye un libro coleccionable construido con ladrillos que se abre para descubrir 1 de 4 clases de Hogwarts, en las que los profesores enseñan
 - Se abre para transportar a los peques a la mazmorra del profesor Snape, hay elementos para practicar el arte de las pociones... ¡y una cámara secreta para explorar!
+- El set de juego de LEGO Harry Potter es del tamaño portátil para llevarlo de viaje y, al acabar la clase, cerrar la tapa y llevarlo donde quieras
 - Los 4 sets de Hogwarts se conectan entre ellos para crear un espacio de juego de 360 grados, diseñado para recrear diferentes momentos en la clase: una gran idea de regalo
+- El set incluye un libro coleccionable construido con ladrillos que se abre para descubrir 1 de 4 clases de Hogwarts, en las que los profesores enseñan
+- Entre sus accesorios se incluyen un libro de pociones, una pizarra, una butaca, una mesa, una cámara secreta y un decorado de fondo que representa las mazmorras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08G4CN5YD/?tag=tolees-21)
