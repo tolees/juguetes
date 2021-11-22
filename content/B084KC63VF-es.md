@@ -28,10 +28,10 @@ En este momento está [uvex Active Casco de Bicicleta  Adultos Unisex  Black Whi
 
 🔎:
 
-- Revestimiento acolchado extraíble y lavable
-- Adaptación óptima al contorno y la forma de la cabeza con el sistema uvex 3d ias 3. 0, incluyendo ajuste de altura
-- Protección adicional de la zona inferior del casco con una segunda carcasa de policarbonato
-- La correa del sistema fas se puede ajustar gradualmente a la forma de la cabeza de manera fácil y precisa
 - Posibilidad de ampliación con un led insertable (opcional)
+- Protección adicional de la zona inferior del casco con una segunda carcasa de policarbonato
+- Adaptación óptima al contorno y la forma de la cabeza con el sistema uvex 3d ias 3. 0, incluyendo ajuste de altura
+- Revestimiento acolchado extraíble y lavable
+- La correa del sistema fas se puede ajustar gradualmente a la forma de la cabeza de manera fácil y precisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084KC63VF/?tag=tolees-21)

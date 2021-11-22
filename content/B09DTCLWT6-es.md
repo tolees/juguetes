@@ -30,11 +30,11 @@ Está [Nintendo Luigi s Mansion 3  Edición: Estándar Switch + Mario Kart 8 Del
 
 - producto 2: Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
 - producto 2: Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
-- producto 1: Únete a Luigi, un héroe de lo más cobardica, en una aventura fantasmagórica (y un pelín viscosa, todo hay que decirlo) para salvar a Mario y compañía en Luigis Mansion 3 para Nintendo Switch
-- producto 1: ¿Quién puede rechazar una invitación a un hotel de lujo para pasar unas vacaciones de miedo con Mario y compañía?
-- producto 1: Puedes recorrer los sobrenaturales pisos de un hotel encantado en compañía de un amigo en el modo cooperativo, plantarles cara a fantasmas revoltosos y resolver puzles paranormales
 - producto 2: Inclusión de circuitos inéditos en el modo batalla
 - producto 1: Con la ayuda del inefable profesor Fesor y sus últimas invenciones, Luigi deberá armarse otra vez de valor para desbaratar los malvados planes del Rey Boo y salvar a todo el mundo
+- producto 1: Puedes recorrer los sobrenaturales pisos de un hotel encantado en compañía de un amigo en el modo cooperativo, plantarles cara a fantasmas revoltosos y resolver puzles paranormales
 - producto 2: Hasta 8 pilotos en partidas de multijugador local
+- producto 1: Únete a Luigi, un héroe de lo más cobardica, en una aventura fantasmagórica (y un pelín viscosa, todo hay que decirlo) para salvar a Mario y compañía en Luigis Mansion 3 para Nintendo Switch
+- producto 1: ¿Quién puede rechazar una invitación a un hotel de lujo para pasar unas vacaciones de miedo con Mario y compañía?
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09DTCLWT6/?tag=tolees-21)
