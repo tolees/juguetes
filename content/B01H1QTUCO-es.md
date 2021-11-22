@@ -28,10 +28,10 @@ Está [TOIMSA - Bicicleta 16" Paw Patrol](https://www.amazon.es/dp/B01H1QTUCO/?t
 
 ℹ️:
 
-- Ruedines para mayor estabilidad
-- Sillín regulable en altura
 - Edad recomendada entre 4 y 6 años
-- Accesorios: Portanúmero delantero y bidón y portabidón
 - Altura recomendada entre 105 cm - 115 cm
+- Ruedines para mayor estabilidad
+- Accesorios: Portanúmero delantero y bidón y portabidón
+- Sillín regulable en altura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H1QTUCO/?tag=tolees-21)

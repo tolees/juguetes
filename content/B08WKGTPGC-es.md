@@ -28,8 +28,8 @@ En este momento está [STIGA Runracer C10 Bicicleta de Equilibrio Plateada para 
 
 🔎:
 
-- Peso del paquete: 3.17 kilograms
 - Dimensiones del paquete: 61.0 L x 26.0 H x 17.0 W (centimeters)
+- Peso del paquete: 3.17 kilograms
 - Material duradero
 - Bicicleta de equilibrio con ruedas de 10 pulgadas para ciclistas jóvenes
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [F.lli Schiano Chicago Bicicleta de Ciudad  Unisex-Adult  Azu
 
 🔎:
 
+- Singlespeed
 - Horquilla rígida
 - Equipado con: caballete central, timbre, sillín Selle Royal Alpine, luces delanteras y traseras, guardabarros
-- Cuadro de acero; frenos v-brake de aluminio
-- Singlespeed
 - Adecuado para personas entre 165 cm y 175 cm
+- Cuadro de acero; frenos v-brake de aluminio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092JLHSKR/?tag=tolees-21)
