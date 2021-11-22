@@ -28,10 +28,10 @@ Tienes [Thrustmaster FERRARI 458 SPIDER - Volante - Xbox One - Replica Ferrari 4
 
 ℹ️:
 
-- El volante tiene 28 cm de diámetro — una réplica a escala 7:10 del volante del deportivo Ferrari 458 Spider real. Dos agarres rojos estilo deportes de motor con textura de goma garantizan una comodidad óptima en las carreras
-- Funciona en Xbox Series X
-- Controles completos para todas las acciones de conducción, con 9 botones de acción, 1 dial Manettino, 1 D-pad, 1 botón Xbox Guide y 1 LED de detección de emparejamiento para Kinect
-- Fácil de utilizar: volante de carreras plug-and-play oficial para Xbox One con reconocimiento de USB
 - ¡El volante de carreras más popular en Forza!
+- Funciona en Xbox Series X
+- Fácil de utilizar: volante de carreras plug-and-play oficial para Xbox One con reconocimiento de USB
+- El volante tiene 28 cm de diámetro — una réplica a escala 7:10 del volante del deportivo Ferrari 458 Spider real. Dos agarres rojos estilo deportes de motor con textura de goma garantizan una comodidad óptima en las carreras
+- Controles completos para todas las acciones de conducción, con 9 botones de acción, 1 dial Manettino, 1 D-pad, 1 botón Xbox Guide y 1 LED de detección de emparejamiento para Kinect
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IVHQ0KI/?tag=tolees-21)

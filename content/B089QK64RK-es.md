@@ -28,10 +28,10 @@ Tienes [Goliath - Juego de Mesa de Juguete para niños a Partir de 4 años  Jueg
 
 🔎:
 
-- Juegos de ADRESSE – Juega sobre las emociones: el niño se divierte "mie". Desarrolla la la concentración y la motricidad fina.
-- Juego Goliath – Tiempo de partida: 15 minutos
 - Juego de mesa para niños de 4 años. Este juego de mesa es adecuado para niños de más de 4 años
-- Juego de mesa de 2 a 4 jugadores
+- Juegos de ADRESSE – Juega sobre las emociones: el niño se divierte "mie". Desarrolla la la concentración y la motricidad fina.
 - Pique Pepite – Hey buscador de oro. ¿Tendrás suficiente valor para hacer manos bajo mis pepitas de oro? Si te sentimos suerte, puedes incluso intentar duplicar la tarea, pero si no te detiene a tiempo, puedes correr el riesgo de perder todo
+- Juego de mesa de 2 a 4 jugadores
+- Juego Goliath – Tiempo de partida: 15 minutos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QK64RK/?tag=tolees-21)
