@@ -28,9 +28,9 @@ En este momento está [Diset - Magnetics Vestidos intercambiables  Diset 46533 ]
 
 🔎:
 
-- Intercambiar piezas y hacer infinitas combinaciones
-- Valor educativo, la niña aprende a relacionar las diferentes piezas de ropa
-- Potencia la creatividad, la destreza y la atencion
 - Mejora la coordinacion ojo-mano y la mitricidad fina
+- Intercambiar piezas y hacer infinitas combinaciones
+- Potencia la creatividad, la destreza y la atencion
+- Valor educativo, la niña aprende a relacionar las diferentes piezas de ropa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CH58ZMQ/?tag=tolees-21)
