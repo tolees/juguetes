@@ -29,9 +29,9 @@ En este momento está [Devir 222593 - Carcassonne  juego de mesa  versión en ca
 🔎:
 
 - Juego de mesa con expansiones incluidas
-- Edad recomendada: 7 años y más
 - Duración aproximada de la partida: 35 min
-- Componentes de juego: 4 tableros de cuatro colores, 5 seguidores grandes, 5 seguidores pequeños, 5 cofres, 5 fichas de puntos 100/200, 140 cartas y un reglamento
 - Número de jugadores: 2 - 5
+- Componentes de juego: 4 tableros de cuatro colores, 5 seguidores grandes, 5 seguidores pequeños, 5 cofres, 5 fichas de puntos 100/200, 140 cartas y un reglamento
+- Edad recomendada: 7 años y más
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00W5LCL8G/?tag=tolees-21)
