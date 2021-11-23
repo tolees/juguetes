@@ -29,10 +29,10 @@ En este momento está [VTech- Toby Perrito Sonajero Electrónico con Luz Y Voz  
 🔎:
 
 - Sus orejas y sus dos anillos tienen diferentes texturas para desarrollar el tacto del bebé
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alta calidad para un mejor rendimiento del aparato
+- Los mofletes del perrito se iluminan al ritmo de las canciones y melodías
+- Versión española
 - Perrito sonajero con luz, voces y música que se activa al moverlo gracias a su sensor de movimiento
 - Más de 20 canciones, sonidos, melodías y frases que se activan al mover al perrito y mediante su botón para activar música
-- Versión española
-- Los mofletes del perrito se iluminan al ritmo de las canciones y melodías
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alta calidad para un mejor rendimiento del aparato
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XXB493Q/?tag=tolees-21)

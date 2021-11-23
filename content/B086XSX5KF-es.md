@@ -28,10 +28,10 @@ Tienes [Fisher-Price Andador Cebra Parlanchina Primeros Pasos con Musica y Luces
 
 ℹ️:
 
+- Cada vez que se levanta, anda o coge los juguetes, el niño pone en práctica la motricidad gruesa.
+- Las numerosas actividades manuales ayudan a ejercitar la motricidad fina.
 - ¡Dos opciones de juego! Juega sentado: un montón de actividades manuales para explorar, además de un libro con una página que se puede pasar o botones luminosos que activan canciones y frases. Primeros pasos: el andador anima al niño a dar sus primeros pasos y le invita a seguir moviéndose con divertidas frases, música y sonidos.
 - Asa fácil de agarrar y base robusta con cuatro ruedas para estabilizar los pasos del niño.
-- Las numerosas actividades manuales ayudan a ejercitar la motricidad fina.
 - ¡Enseña las letras, los números y muchas cosas más!
-- Cada vez que se levanta, anda o coge los juguetes, el niño pone en práctica la motricidad gruesa.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086XSX5KF/?tag=tolees-21)

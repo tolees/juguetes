@@ -29,9 +29,9 @@ Ahora mismo tienes [Jurassic World Baby Blue Dino Velociraptor  dinosaurio de ju
 🔎:
 
 - Los ojos realistas y el espectacular diseño hacen adorable a blue amigo primigenio
-- Las articulaciones del cuello, los hombros, la cola y las patas ofrecen un sinfín de posibilidades para aumentar la diversión
-- A partir de 4 años
 - Haz que blue amigo primigenio cobre vida apretando el botón de la espalda para desatar sus movimientos realistas: moverse de lado a lado, girar su cuello y su cabeza, y abrir y cerrar sus fauces con efectos de sonido inspirados en la película
 - La fortaleza principal de este dinosaurio es: INTELIGENCIA
+- A partir de 4 años
+- Las articulaciones del cuello, los hombros, la cola y las patas ofrecen un sinfín de posibilidades para aumentar la diversión
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NC6FS7N/?tag=tolees-21)
