@@ -28,10 +28,10 @@ Ahora mismo tienes [Tribu de Sinvergüenzas 🤣🔥 SIGAMOS PECANDO ❤️💪�
 
 🔎:
 
+- 👌 EL RITUAL - Como miembro de La Tribu te acusarán y acusarás, se te harán y harás preguntas absurdas y entrarás en retos sociales que nunca imaginaste. Con este juego de mesa verás a tus amig@s con otros ojos
 - 🤣 RISAS ASEGURADAS - El mejor juego de cartas para fiestas para empezar la noche entre amig@s. Prepárate para tener agujetas de tanto reir. Echale un ojo a nuestas redes sociales para ver cómo se lo pasan otros jugadores.
+- 🎁 REGALO PERFECTO - Si estás buscando regalos originales para hombre o mujer, regalos para amigas o amigos, regalos para cumpleaños... No busques más. Formar parte de la Tribu es el mejor regalo que puedes hacer.
 - ♻️ MADE IN SPAIN - Diseñado y fabricado en España por una tribu de amigos cansados de los mismos juegos de mesa de siempre. Cartas impresas con papel de bosques gestionados de forma sostenible.
 - 😜 TRIBU DE SINVERGUENZAS - Juego de mesa para echarse unas risas. Increiblemente divertido y muy gamberro. El juego empieza donde termina la vergüenza. ¡El juego que más ruido hace vuelve con nuevas cartas! 120 cartas en total.
-- 👌 EL RITUAL - Como miembro de La Tribu te acusarán y acusarás, se te harán y harás preguntas absurdas y entrarás en retos sociales que nunca imaginaste. Con este juego de mesa verás a tus amig@s con otros ojos
-- 🎁 REGALO PERFECTO - Si estás buscando regalos originales para hombre o mujer, regalos para amigas o amigos, regalos para cumpleaños... No busques más. Formar parte de la Tribu es el mejor regalo que puedes hacer.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08WJ36CY2/?tag=tolees-21)

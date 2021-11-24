@@ -28,9 +28,9 @@ En este momento está [Nintendo Switch + Mario Kart 8  descargable  + 3 meses Ni
 
 🔎:
 
+- Incluye Consola Nintendo Switch Modelo + Mario Kart 8 Deluxe (código descargable) + código de suscripción de 3 meses Nintendo Switch Online.
 - Nintendo Switch se transforma para adaptarse a tu situación y te permite jugar a los títulos que quieras aunque no tengas mucho tiempo.Es una nueva era en la que no tienes que adaptar tu vida a los videojuegos: ahora es la consola la que se adapta a tu vida.
 - Mario Kart 8 Deluxe incluye personajes como Inkling, Rey Boo, Huesitos y Bowsy. Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista. Hasta 8 pilotos en partidas de multijugador local.
-- Incluye Consola Nintendo Switch Modelo + Mario Kart 8 Deluxe (código descargable) + código de suscripción de 3 meses Nintendo Switch Online.
 - Nintendo Switch Online - 3 Meses | Nintendo Switch - Código de descarga.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B09L213TTR/?tag=tolees-21)
