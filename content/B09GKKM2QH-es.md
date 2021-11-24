@@ -28,10 +28,10 @@ Ahora mismo tienes [BIWOND WONDERFUL EXPERIENCE - BIWOND Bicicleta Eléctrica In
 
 🔎:
 
-- 🚲 【BICICLETA ELÉCTRICA INFANTIL】- La bicicleta Flash está diseñada para niños de 4 a 8 años. Su asiento es regulable, con una altura máxima de 50cm para que se adapte a tu hijo a lo largo de los años y pueda disfrutar de su nueva bicicleta sin parar.
-- 🚲 【USO EXCLUSIVO PARA NIÑOS】- La bicicleta infantil Flash puede soportar un peso máximo de 40Kg por lo que se recomienda su uso exclusivo por niños. No utilizar si su peso es superior. Se recomienda el uso de accesorios de protección como casco, rodilleras o coderas durante su uso.
-- 🚲 【FÁCIL MANEJO】- La bicicleta infantil Flash incluye freno trasero de tambor y puño acelerador de aceleración suave para que tu hijo conduzca de forma segura y sin riesgo. La velocidad máxima son 6Km/H y con el motor apagado la rueda se frena hacia atrás pero no hacia delante, permitiendo que tu hijo circule aun si la batería está agotada, proporcionando infinitas horas de diversión.
-- 🚲 【CERTIFICADO CE】- La bicicleta infantil Flash cuenta con todos los certificados de seguridad CE. Disfruta de 2 Años de Garantía para cualquier defecto de fábrica de tu bicicleta eléctrica infantil.
 - 🚲 【100W BRUSH MOTOR】- Está equipada con un potente motor de 100W con una velocidad máxima de 6km/h. Incluye una batería extraíble de litio de 2AH de carga rápida, tu bicicleta lista para usar en 3-6 horas. La batería es extraíble para cargarla fácilmente y para colocarla sólo tienes que conectarla fácilmente colocándola en su posición correcta en el chasis y, además, incluye un indicador luminoso que indica el nivel de carga.
+- 🚲 【FÁCIL MANEJO】- La bicicleta infantil Flash incluye freno trasero de tambor y puño acelerador de aceleración suave para que tu hijo conduzca de forma segura y sin riesgo. La velocidad máxima son 6Km/H y con el motor apagado la rueda se frena hacia atrás pero no hacia delante, permitiendo que tu hijo circule aun si la batería está agotada, proporcionando infinitas horas de diversión.
+- 🚲 【USO EXCLUSIVO PARA NIÑOS】- La bicicleta infantil Flash puede soportar un peso máximo de 40Kg por lo que se recomienda su uso exclusivo por niños. No utilizar si su peso es superior. Se recomienda el uso de accesorios de protección como casco, rodilleras o coderas durante su uso.
+- 🚲 【BICICLETA ELÉCTRICA INFANTIL】- La bicicleta Flash está diseñada para niños de 4 a 8 años. Su asiento es regulable, con una altura máxima de 50cm para que se adapte a tu hijo a lo largo de los años y pueda disfrutar de su nueva bicicleta sin parar.
+- 🚲 【CERTIFICADO CE】- La bicicleta infantil Flash cuenta con todos los certificados de seguridad CE. Disfruta de 2 Años de Garantía para cualquier defecto de fábrica de tu bicicleta eléctrica infantil.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B09GKKM2QH/?tag=tolees-21)

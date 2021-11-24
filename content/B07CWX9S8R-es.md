@@ -28,9 +28,9 @@ En este momento está [Devir búsqueda del Anillo  ed. en español   Multicolor 
 
 🔎:
 
-- Para mayores de 13 años
-- De 2 a 5 jugadores
 - Unos 90 minutos por partida
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
+- De 2 a 5 jugadores
+- Para mayores de 13 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CWX9S8R/?tag=tolees-21)
