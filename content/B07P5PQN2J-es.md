@@ -28,10 +28,10 @@ Ahora mismo tienes [Mattel Games - Lupe la llama que escupe Juego de mesa para n
 
 🔎:
 
-- Si se agota el tiempo y no has conseguido apilar correctamente el objeto, paca te escupirá agua
-- Apila los objetos por turnos en el lomo de paca la alpaca; vigila el tiempo, que esta alpaca tiene mucho temperamento
-- Este divertido juego es fácil de aprender y garantiza la máxima diversión
 - En tu turno, pulsa la cabeza de paca para iniciar el cronómetro; tienes cinco segundos para colocar tu objeto en el lomo
+- Si se agota el tiempo y no has conseguido apilar correctamente el objeto, paca te escupirá agua
+- Este divertido juego es fácil de aprender y garantiza la máxima diversión
 - Gana el primer jugador que apile todos sus objetos; incluye una alpaca que escupe y 16 objetos de colores para apilar
+- Apila los objetos por turnos en el lomo de paca la alpaca; vigila el tiempo, que esta alpaca tiene mucho temperamento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P5PQN2J/?tag=tolees-21)
