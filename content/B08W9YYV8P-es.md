@@ -28,12 +28,12 @@ En este momento está [LEGO 71387 Super Mario Aventuras con Luigi Pack Inicial  
 
 🔎:
 
-- Este realista set de aventuras de LEGO Super Mario Luigi Pack Inicial incluye una figura de LEGO Luigi para una diversión interactiva en familia o en solitario
-- La figura de LEGO Luigi funciona con 2 pilas AAA (no incluidas), proporcionando una experiencia de juego interactiva con respuestas instantáneas
 - El altavoz de Luigi toca música y sonidos del videojuego de Mario Bros mientras coleccionas monedas digitales con todos los desafíos
 - Incluye las figuras LEGO de Pink Yoshi, Boom Boom y Goomba añadiendo acción desde el inicio hasta el final - mira como la figura de LEGO Luigi reacciona
-- Este Starter Pack de Super Mario es un formidable regalo de cumpleaños que puede ser reconstruido y combinado con otros sets LEGO Super Mario
-- La app gratuita de LEGO ofrece instrucciones de construcción, consejos creativos y una plataforma segura que los niños puedan compartir sus ideas - visita LEGO.com/devicecheck
 - La figura de LEGO Luigi tiene un sensor en color y una pantalla LCD para mostrar diferentes reacciones al movimiento y a las piezas durante el camino
+- La app gratuita de LEGO ofrece instrucciones de construcción, consejos creativos y una plataforma segura que los niños puedan compartir sus ideas - visita LEGO.com/devicecheck
+- La figura de LEGO Luigi funciona con 2 pilas AAA (no incluidas), proporcionando una experiencia de juego interactiva con respuestas instantáneas
+- Este realista set de aventuras de LEGO Super Mario Luigi Pack Inicial incluye una figura de LEGO Luigi para una diversión interactiva en familia o en solitario
+- Este Starter Pack de Super Mario es un formidable regalo de cumpleaños que puede ser reconstruido y combinado con otros sets LEGO Super Mario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08W9YYV8P/?tag=tolees-21)
