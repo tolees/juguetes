@@ -28,10 +28,10 @@ En este momento está [Hasbro Gaming quién  color no aplica  C2124B09 ](https:/
 
 🔎:
 
-- Incluye tableros de sobremesa
-- Los jugadores intentan adivinar el personaje misterioso de su adversario
-- No te pierdas el juego de adivinar personajes
 - Elije tu personaje misterioso
+- Los jugadores intentan adivinar el personaje misterioso de su adversario
+- Incluye tableros de sobremesa
+- No te pierdas el juego de adivinar personajes
 - Para 2 jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08483QGLF/?tag=tolees-21)
