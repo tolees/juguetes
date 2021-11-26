@@ -28,9 +28,9 @@ Ahora mismo tienes [Bizak- Snow  Color blanco  30692311 ](https://www.amazon.es/
 
 🔎:
 
-- Interactúan emocional y físicamente con el niño de forma divertida a través de la música, las canciones y el baile
-- Crece, aprende, recuerda, y responde con humor
 - Rizmo es el amigo que evoluciona de forma independiente y mágica
+- Crece, aprende, recuerda, y responde con humor
+- Interactúan emocional y físicamente con el niño de forma divertida a través de la música, las canciones y el baile
 - Edad mínima recomendada: 6 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SV8G27Q/?tag=tolees-21)
