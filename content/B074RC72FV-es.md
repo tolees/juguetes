@@ -28,10 +28,10 @@ Ahora mismo tienes [Hot Wheels Star Wars Pista de Coches de Juguete Darth Vader 
 
 🔎:
 
-- Las entretenidas Naves rodantes, que combinan el vehículo y una figura de un piloto, propulsan la imaginación de los niños y dan pie a montones de historias
+- La pista de Naves rodantes de Darth Vader tiene capacidad para un máximo de 17 vehículos
 - El maletín incluye una Nave rodante de Darth Vader exclusiva que no está disponible en ningún otro formato
 - Los niños pueden reproducir sus escenas preferidas del universo de Star Wars o crear sus propias aventuras
 - Fácilmente transportable para jugar en todas partes
-- La pista de Naves rodantes de Darth Vader tiene capacidad para un máximo de 17 vehículos
+- Las entretenidas Naves rodantes, que combinan el vehículo y una figura de un piloto, propulsan la imaginación de los niños y dan pie a montones de historias
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074RC72FV/?tag=tolees-21)

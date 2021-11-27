@@ -28,9 +28,9 @@ Tienes [Bizak Juego Headbanz Adivina que Pienso Junior  61924596 ](https://www.a
 
 ℹ️:
 
-- Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Producto distribuido oficialmente en España por BIZAK.
 - Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Producto distribuido oficialmente en España por BIZAK.
+- Servicio atención al cliente disponible todo el año (sat@bizak.es)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079VR2SC5/?tag=tolees-21)
