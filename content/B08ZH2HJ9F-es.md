@@ -30,8 +30,8 @@ Tienes [Disney Store: muñeca de Peluche de Raya y el último dragón  42 cm  T
 
 - Una princesa guerrera: esta muñeca de peluche de Raya con detalles bordados y acabado suave representa a la perfección a la guerrera de Corazón
 - De la película Raya y el último dragón de Disney: esta muñeca de peluche de Raya te guiará hacia el reino de Kumandra
-- Vestida para impresionar: esta muñeca de Raya, inspirada en la película Raya y el último dragón de Disney, lleva un traje clásico de tacto suave y una capa
 - Un peluche oficial de Disney: asegúrate de que tu peluche de Raya sea un juguete de Disney auténtico al obtenerlo a través de la Disney Store
 - El tamaño perfecto: nuestras muñecas de peluche de Raya tienen el tamaño perfecto para abrazarlas y jugar con ellas
+- Vestida para impresionar: esta muñeca de Raya, inspirada en la película Raya y el último dragón de Disney, lleva un traje clásico de tacto suave y una capa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08ZH2HJ9F/?tag=tolees-21)

@@ -30,8 +30,8 @@ Tienes [LEGO 41937 Dots Multipack: Sensaciones de Verano  Set de Manualidades: M
 
 - Este emocionante kit de manualidades permite a los jóvenes diseñadores practicar sus creaciones, expandir sus habilidades de autoexpresión y aumentar su confianza
 - Para actividades más creativas para los niños, expanda su #dotyourworld con la bolsa Extra DOTS - Serie 5 (41932) (se vende por separado)
-- Incluye una pulsera ajustable en color celeste, un adorno para mochila león, un marco para colgar y un portalápices en forma de cactus
 - Este juguete creativo para niños +6 años incluye un kit de fabricación de pulseras LEGO DOTS, 2 artículos de decoración para la habitación de los niños y un bag tag
+- Incluye una pulsera ajustable en color celeste, un adorno para mochila león, un marco para colgar y un portalápices en forma de cactus
 - ¡El portalápices de cactus tiene brazos móviles para más diversión! Este juego de manualidades es un regalo perfecto para niños y niñas que aman los juguetes creativos LEGO DOTS
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08WX4K9LZ/?tag=tolees-21)
