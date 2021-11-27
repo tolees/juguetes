@@ -29,10 +29,10 @@ En este momento está [Thrustmaster T300 Ferrari Integral Alcantara Edition - Vo
 🔎:
 
 - Funda cosida a mano realizada en Alcantara, el mismo material importado de Italia que se usa en los volantes genuinos de Ferrari
+- Réplica a escala 8:10 del volante del 599XX EVO, con licencia oficial de Ferrari
+- Force Feedback súper fluido y continuo, efectos de fuerza realistas y ultra receptivos
 - Incluye: juego de 3 pedales T3PA; estructura interna 100% metal
 - 30 cm de diametro
-- Réplica a escala 8:10 del volante del 599XX EVO, con licencia oficial de Ferrari
 - Ángulo de giro ajustable de 270° a 1080°
-- Force Feedback súper fluido y continuo, efectos de fuerza realistas y ultra receptivos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B014UOF0S8/?tag=tolees-21)
