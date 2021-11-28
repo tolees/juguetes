@@ -28,9 +28,9 @@ Tienes [Devir BGCARPLUS3 - Carcasonne Plus  juego básico + 11 expansiones  edad
 
 🔎:
 
-- La experiencia Carcassonne por el mejor precio
-- En español
 - Magnífico regalo
+- En español
 - Introducción a los juegos de mesa modernos
+- La experiencia Carcassonne por el mejor precio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075HJBW84/?tag=tolees-21)
