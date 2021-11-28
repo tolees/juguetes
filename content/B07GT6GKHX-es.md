@@ -28,8 +28,8 @@ Está [Xenoblade Chronicles 2: Torna- The Golden Country - Nintendo Switch [Impo
 
 ℹ️:
 
+- New adventures on a new map: The Tornan Titan will be added as a new field map in Torna - The Golden Country. A lot of other RPGs set their additional story sections on existing maps, but Torna - The Golden Countrys maps will be entirely new.
 - Reworked battle system: Torna - The Golden Country is set in an era of history before Drivers and Blades had learned to co-operate seamlessly during battle, and so there will be a new battle system used in this expansion. The refined battle system will still be based on the one seen in the main game, but I hope youll enjoy this new take on it.
 - New music added: New songs have also been added to Torna - The Golden Country. They were composed by Mitsuda-san and some others who were involved with the main game.
-- New adventures on a new map: The Tornan Titan will be added as a new field map in Torna - The Golden Country. A lot of other RPGs set their additional story sections on existing maps, but Torna - The Golden Countrys maps will be entirely new.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GT6GKHX/?tag=tolees-21)

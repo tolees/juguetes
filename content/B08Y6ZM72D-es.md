@@ -28,8 +28,8 @@ Ahora mismo tienes [Nintendo - Pokemon Diamante Brillante](https://www.amazon.es
 
 🔎:
 
-- Tanto la historia como la escala de los pueblos y las rutas del juego original se han reproducido fielmente.
 - Los usuarios que hayan jugado ya a Pokémon Diamante y Pokémon Perla podrán visitar de nuevo lugares familiares y disfrutar otra vez de escenas conocidas.
+- Tanto la historia como la escala de los pueblos y las rutas del juego original se han reproducido fielmente.
 - En Pokémon Perla Reluciente recorrerás la región de Sinnoh. Esta tierra de naturaleza exuberante es el origen de numerosos mitos e historias que se han transmitido de generación en generación.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Y6ZM72D/?tag=tolees-21)

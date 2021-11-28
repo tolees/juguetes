@@ -28,8 +28,8 @@ Ahora mismo tienes [Srita. Pepis - Modelflor  set de accesorios  Diset S.A. 4677
 
 🔎:
 
-- Desarrolla la capacidad de observacion, estimula la organización espacia, logica, de relacionar
 - Valor educativo, potenciar la creatividad de las niñas
 - Facil de montar
+- Desarrolla la capacidad de observacion, estimula la organización espacia, logica, de relacionar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01DNW177Q/?tag=tolees-21)
