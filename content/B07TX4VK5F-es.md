@@ -29,7 +29,7 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Fast & Furious. Spy Racers El Retor
 ℹ️:
 
 - Cooperativo local y multijugador
-- Lucha para llegar a la meta
 - ¡Vuelve SH1FT3R!
+- Lucha para llegar a la meta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TX4VK5F/?tag=tolees-21)
