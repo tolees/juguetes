@@ -28,10 +28,10 @@ Tienes [Eggert Spiele - ERA Edad Media - ¡Bienvenidos a la España Medieval! - 
 
 ℹ️:
 
-- Con una duración de 30-45 Minutos por partida
+- Recomendado a Partir de 8 Años de Edad
 - Juego de Mesa en Español
 - Contiene: 130 miniaturas, 36 dados, 4 tableros de jugador, 25 clavijas, 5 marcadores, 1 bloc de hojas de puntuación, 4 pantallas y 1 reglamento.
 - Juego de 1 a 4 Jugadores
-- Recomendado a Partir de 8 Años de Edad
+- Con una duración de 30-45 Minutos por partida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08H2L25WH/?tag=tolees-21)

@@ -30,8 +30,8 @@ Tienes [Burger Party - Juego de Cartas  Goliath 30890 ](https://www.amazon.es/dp
 
 - Presta atención a las cartas y sé más rápido que tus adversarios golpeando la hamburguesa; si eres el primero te llevas el ingrediente
 - Edad recomendada: a partir de 6 años
-- Crea la hamburguesa más grande y épica que puedas imaginar con el mayor número de ingredientes posible
 - Burger party es un juego de cartas de rapidez con el que llenarás de diversión esa fiesta con amigos o tu próxima reunión familiar
+- Crea la hamburguesa más grande y épica que puedas imaginar con el mayor número de ingredientes posible
 - Pero ¡cuidado no puedes tener dos cartas del mismo color o te penalizarán
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079QBPZKG/?tag=tolees-21)

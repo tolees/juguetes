@@ -28,9 +28,9 @@ Está [Ravensburger Juego de Viaje La Cucaracha  Color  Miscelanea  234141 ](htt
 
 ℹ️:
 
-- La edad mínima requerida es de 6 años y más
-- Juego La Cucaracha en versión portátil
 - Dimensiones del producto : 18.3 x 3.7 x 11.5 cm
+- La edad mínima requerida es de 6 años y más
 - El juego incluye 1 tablero, 9 cubiertos, 1 cucaracha, 4 menú, 4 fichas y 2 dados
+- Juego La Cucaracha en versión portátil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CML5MV6/?tag=tolees-21)

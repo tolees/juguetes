@@ -28,10 +28,10 @@ Está [Hello Kitty Cofre con forma de taza de chocolate caliente con muñecos y 
 
 ℹ️:
 
-- El estuche de camping de chocolate de​Hello Kitty está lleno de dulces sorpresas. ​
-- Crea historias adorables con las figuras Sanrio de Hello Kitty y Chococat (que también sirven como topper de lápiz). ​
-- Incluye estuche con correa extraíble (12,5 cm), 2 minifiguras/toppers de lápiz Sanrio, 1 accesorio de taza, 1 cuaderno, 1 plantilla y 1 lápiz. ​
-- ¡Abre el estuche para descubrir un adorable conjunto de camping en el interior!
 - Incluye un barco-plátano que se mueve, un saco de dormir que gira, una ranura para el cuaderno y más. ​
+- Incluye estuche con correa extraíble (12,5 cm), 2 minifiguras/toppers de lápiz Sanrio, 1 accesorio de taza, 1 cuaderno, 1 plantilla y 1 lápiz. ​
+- Crea historias adorables con las figuras Sanrio de Hello Kitty y Chococat (que también sirven como topper de lápiz). ​
+- El estuche de camping de chocolate de​Hello Kitty está lleno de dulces sorpresas. ​
+- ¡Abre el estuche para descubrir un adorable conjunto de camping en el interior!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L9NFC81/?tag=tolees-21)
