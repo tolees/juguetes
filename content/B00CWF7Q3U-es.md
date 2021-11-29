@@ -28,8 +28,8 @@ En este momento está [Peppa Pig Peppa Pig-S2411695 Pelota Bioball  140 Mm  Mult
 
 🔎:
 
-- Pelota infantil de 150 mm
-- Está fabricada en PVC
 - Perfecta para los niños pequeños
+- Está fabricada en PVC
+- Pelota infantil de 150 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00CWF7Q3U/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Blade Representaciones - FR·TEC - Auriculares Gaming Headse
 
 🔎:
 
-- Cable trenzado antienredos, rueda volumen en auriculares.
 - Compatible con: PlayStation 4, XBOX One, Nintendo Switch, PC y MAC.
+- Cable trenzado antienredos, rueda volumen en auriculares.
 - Diámetro del altavoz: 50cm.
 - Micrófono plegable y extraible, con espuma para cancelación de ruido.
 
