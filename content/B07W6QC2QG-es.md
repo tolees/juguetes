@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO 71026 Minifigures DC Super Heroes Series](https://www.a
 
 🔎:
 
-- Número de piezas: 9
-- Edad recomendada por el fabricante: 5+
-- ¿Qué contiene la bolsa? Los niños descubrirán superhéroes o villanos que no conocían para añadirlos a sus colecciones LEGO Minifigures, con diferentes personajes de los cómics del universo DC
-- Estos fabulosos personajes son geniales para practicar el juego independiente: los peques pueden ayudar a sus superhéroes favoritos a enfrentarse a los villanos y salvar el día, integrarlos en nuevas historias con otras maquetas
 - DC Super Heroes Series
+- ¿Qué contiene la bolsa? Los niños descubrirán superhéroes o villanos que no conocían para añadirlos a sus colecciones LEGO Minifigures, con diferentes personajes de los cómics del universo DC
+- Edad recomendada por el fabricante: 5+
+- Número de piezas: 9
+- Estos fabulosos personajes son geniales para practicar el juego independiente: los peques pueden ayudar a sus superhéroes favoritos a enfrentarse a los villanos y salvar el día, integrarlos en nuevas historias con otras maquetas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W6QC2QG/?tag=tolees-21)
