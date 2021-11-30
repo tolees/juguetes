@@ -29,8 +29,8 @@ Ahora mismo tienes [Playstation - It Takes Two](https://www.amazon.es/dp/B08SND3
 🔎:
 
 - Compatible con PS5
-- Pura perfección cooperativa: ponte en la piel de Cody y May en una loca aventura creada para dos jugadores en cooperativo local y online
 - Una historia universal sobre relaciones: descubre una combinación metafórica de juego y narración en una desenfadada y emotiva historia sobre las dificultades de llevarse bien
+- Pura perfección cooperativa: ponte en la piel de Cody y May en una loca aventura creada para dos jugadores en cooperativo local y online
 - Mecánica alegremente disruptiva: domina habilidades de personajes únicas y conectadas en cada nuevo nivel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SND32KP/?tag=tolees-21)

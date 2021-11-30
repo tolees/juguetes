@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Family Fun 70324 Recinto Exter al 36.80 % de rebaja'
-date: 2021-11-29 13:42:37
+date: 2021-11-30 17:22:38
 image: 'https://m.media-amazon.com/images/I/51BTxmNuf1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B0829KMWDY/?tag=tolees-21'
 descuento: '36.80'
-average: '17.5287500000001'
+average: '17.3577777777779'
 ---
 
 Tienes [PLAYMOBIL Family Fun 70324 Recinto Exterior de Elefantes  A partir de 4 años](https://www.amazon.es/dp/B0829KMWDY/?tag=tolees-21) con precio final de  15.99 EUR (original: 25.3 EUR) (36.80 %  de rebaja) aqui!
