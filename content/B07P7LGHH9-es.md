@@ -29,8 +29,8 @@ Tienes [SUPERTHINGS RIVALS OF KABOOM SuperZings - Serie 4 - Display Mini Vehicle
 🔎:
 
 - Los Blasterjets son vehículos voladores que protegen (o atacan) Kaboom City lanzando súperdiscos con precisión
-- Dispara los discos voladores con los blasterjet y conéctalos a los megajet para luego ser lanzados. ¡La supervivencia o destrucción de Kaboom City está en tus manos!
 - Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos. Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
+- Dispara los discos voladores con los blasterjet y conéctalos a los megajet para luego ser lanzados. ¡La supervivencia o destrucción de Kaboom City está en tus manos!
 - La Serie 4 incluye 8 Blasterjets: 4 diseños cada uno en dos colores diferentes, hay 2 blasterjets de héroe y 2 de villano ¡Todo lo necesario para pasarlo en grande con tus personajes favoritos de Kaboom City!
 - Pack de 24 sobres individuales de vehículos Blasterjet. La nueva colección de SuperZings Serie 4 incluye 8 BlasterJets, 4 diseños cada uno en dos colores diferentes ¡Los diseños más molones de Kaboom City!
 
