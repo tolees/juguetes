@@ -28,11 +28,11 @@ Ahora mismo tienes [LEGO 10902 DUPLO Town Comisaría de Policía  Juguete de 
 
 🔎:
 
-- Pulsa el botón para activar las luces y la sirena del coche de policía
+- Incluye 3 figuras LEGO DUPLO: 2 agentes de policía y un ladrón
 - Usa los modernos personajes y accesorios junto con los ladrillos decorados para pasarlo genial mientras ayudas a tu pequeño a aprender qué hacen los policías y cómo nos ayudan
 - Accesorios incluidos: una taza y ladrillos decorados como dónuts y cámara de seguridad
 - Atrapa al ladrón para encerrarlo en la prisión de la Comisaría de Policía
-- Incluye 3 figuras LEGO DUPLO: 2 agentes de policía y un ladrón
 - Contiene una Comisaría de Policía de fácil construcción con puerta de la celda que se abre, así como un coche de policía de juguete con luces y sonido de sirena
+- Pulsa el botón para activar las luces y la sirena del coche de policía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FNTSHZC/?tag=tolees-21)
