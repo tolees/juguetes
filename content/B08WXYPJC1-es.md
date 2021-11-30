@@ -28,18 +28,18 @@ Está [Power A - PowerA - Mando inalámbrico mejorado para Nintendo Switch y Nin
 
 ℹ️:
 
-- Batería de iones de litio recargable que ofrece hasta 30 horas de juego por carga
-- Toma de audio estéreo de 3,5 mm
-- 2 botones de juego avanzados programables
-- Batería de iones de litio recargable: hasta 30 horas de juego por carga
 - Indicador LED de aviso de batería baja
-- Ergonomía superior para disfrutar de horas y horas de juego cómodamente
+- Anillas antifricción integradas para un control de la palanca suave
 - Ergonomía superior para horas y horas de juego con total comodidad
+- 2 botones de juego avanzados programables
+- Toma de audio estéreo de 3,5 mm
+- Ergonomía superior para disfrutar de horas y horas de juego cómodamente
+- 2 botones de juego avanzados programables
 - Incluye un cable de carga USB-C de 3 m
 - Anillas antifricción integradas para un control de palancas suave
-- 2 botones de juego avanzados programables
+- Batería de iones de litio recargable: hasta 30 horas de juego por carga
 - Mando inalámbrico con tecnología Bluetooth 5.0
 - Disposición de botones clásica e intuitiva de Nintendo
-- Anillas antifricción integradas para un control de la palanca suave
+- Batería de iones de litio recargable que ofrece hasta 30 horas de juego por carga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08WXYPJC1/?tag=tolees-21)
