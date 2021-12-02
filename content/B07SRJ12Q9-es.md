@@ -29,8 +29,8 @@ Tienes [BANDAI NAMCO Entertainment - Jumanji: The Video Game - Nintendo Switch [
 🔎:
 
 - ENDLESS ADVENTURE – As you hone your skills and strategies, and unlock new outfits and weapon styles, no two rounds of Jumanji are ever the same!
-- TEAM UP – In split-screen modes, work together with up to three friends or AI teammates to defeat enemies, survive deadly traps, and save the world
 - RETURN TO THE JUNGLE – Play as movie heroes Dr. Bravestone, Ruby, Mouse, and Prof. Shelley in a hilarious new 3D action adventure
+- TEAM UP – In split-screen modes, work together with up to three friends or AI teammates to defeat enemies, survive deadly traps, and save the world
 - DANGEROUS LOCATIONS – The world of Jumanji gets bigger with beautiful but deadly new mountain, city and jungle environments
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SRJ12Q9/?tag=tolees-21)
