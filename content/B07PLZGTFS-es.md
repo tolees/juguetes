@@ -28,10 +28,10 @@ Ahora mismo tienes [DRAGON BALL- Monopoly Z Drago Ball Juego  Multicolor  ELEVEN
 
 🔎:
 
-- Conviértete en el guerrero más rico del mundo mientras lidias con el Ejército de Red Ribbon y la Capsule Corp. ¡Amigos como Bulma y el Maestro Roshi te ayudarán en tu viaje!
 - Monopoly es el juego familiar favorito en el mundo que nos trae esta genial adaptación del MONOPOLY Dragon Ball Z.
-- Invierte en casas y hoteles (Casas Kame y Cámaras del tiempo hiperbólicas en esta edición) y consigue ganar la partida.
 - El divertido juego para que toda la familia se divierta negociando con propiedades inmobiliarias
+- Invierte en casas y hoteles (Casas Kame y Cámaras del tiempo hiperbólicas en esta edición) y consigue ganar la partida.
+- Conviértete en el guerrero más rico del mundo mientras lidias con el Ejército de Red Ribbon y la Capsule Corp. ¡Amigos como Bulma y el Maestro Roshi te ayudarán en tu viaje!
 - Elige una de las figuras personalizadas con personajes de la saga y muévete alrededor del tablero comprando tantas propiedades como puedas. ¡Pero estate atento para no pagar impuestos o ir a la cárcel, ya que podrías acabar arruinado!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PLZGTFS/?tag=tolees-21)
