@@ -28,11 +28,11 @@ Está [BORRAS - Educa Borrás- Atmosfear Juego de Mesa  18354 ](https://www.amaz
 
 ℹ️:
 
-- Recomendado a partir de 12 años
-- Una frenética carrera contra el tiempo en la que el objetivo es recoger 6 llaves de colores y enfrentarte a tu mayor temor antes de que la cuenta atrás termine
-- Versión española
 - Nueva versión de Atmosfear con Aplicación es un escalofriante y divertido juego de mesa interactivo dónde se combina la estrategia, la habilidad y el suspense
 - Contenido del juego: 1 tablero, 110 cartas, 6 personajes, 37 llaves y 6 porta llaves, el pozo de los terrores, 1 libreta, 2 dados e instrucciones
+- Una frenética carrera contra el tiempo en la que el objetivo es recoger 6 llaves de colores y enfrentarte a tu mayor temor antes de que la cuenta atrás termine
+- Versión española
+- Recomendado a partir de 12 años
 - Pero hay un terrorífico problema: el guardián de la puerta que creará mil y un problemas para evitar que lo consigas apareciendo cuando quiera en tu teléfono, tablet o smart tv
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TMR9T6Q/?tag=tolees-21)
