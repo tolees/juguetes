@@ -28,10 +28,10 @@ Está [LEGO 10899 Duplo Disney Frozen: Castillo de Hielo  Juguete de Construcci�
 
 ℹ️:
 
+- Ayude a tu peque a refinar sus habilidades motrices mientras monta y reposiciona los ladrillos para jugar de forma imaginativa sin fin
 - Este juguete de construcción de Frozen para niños está diseñado para promover el juego y los cuentos, y ayudar a que tu peque desarrolle el lenguaje y las habilidades emocionales
+- Incluye 3 mini muñecas de las princesas Elsa y Anna y Olaf, el muñeco de nieve, además de sus preciosos vestidos
 - El castillo de Disney Frozen de juguete para niños y niñas de 2+ años incluye un tobogán y bloques de «hielo» transparentes, una mesa, sillas y utensilios de cocina
 - Asombra a tu peque iluminando el castillo con un ladrillo especial luminoso, que proporciona iluminación en diferentes colores
-- Ayude a tu peque a refinar sus habilidades motrices mientras monta y reposiciona los ladrillos para jugar de forma imaginativa sin fin
-- Incluye 3 mini muñecas de las princesas Elsa y Anna y Olaf, el muñeco de nieve, además de sus preciosos vestidos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ND6CGGQ/?tag=tolees-21)
