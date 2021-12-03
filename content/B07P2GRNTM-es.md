@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO Olaf](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-2
 
 🔎:
 
-- Perfecto para decorar tu casa o tu oficina e inundar de felicidad cada día.
-- Contiene una figura para construir de Olaf, el personaje de Frozen II, con brazos y cuello ajustables.
-- Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz.
 - Olaf mide más de 14 cm de altura, 10 cm de ancho y 5 cm de profundidad.
+- Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz.
+- Contiene una figura para construir de Olaf, el personaje de Frozen II, con brazos y cuello ajustables.
 - Disfruta construyendo y reconstruyendo a tu personaje de Disney Frozen favorito.
+- Perfecto para decorar tu casa o tu oficina e inundar de felicidad cada día.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21)
