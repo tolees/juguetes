@@ -28,10 +28,10 @@ Está [Koei Tecmo Europe - Samurai Warriors 5 Ps4](https://www.amazon.es/dp/B08Z
 
 ℹ️:
 
-- Samurai Warriors 5 nos trae 27 personajes jugables incluyendo nuevos y antiguos aliados
-- Vive la emoción de las batallas 1 contra 1000 como y donde quieras!
-- Disfruta de las acciones y mecánicas musou, que aumentan la emoción de arrasar de soldados enemigos
 - Este drama repleto de acción nos lleva al periodo Sengoku de Japón
+- Vive la emoción de las batallas 1 contra 1000 como y donde quieras!
+- Samurai Warriors 5 nos trae 27 personajes jugables incluyendo nuevos y antiguos aliados
 - Periodos como la juventud de Nobunaga al incidente de Honnō-ji
+- Disfruta de las acciones y mecánicas musou, que aumentan la emoción de arrasar de soldados enemigos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08Z5LSFQ6/?tag=tolees-21)

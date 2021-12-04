@@ -28,9 +28,9 @@ Tienes [Star Wars Star Wars-B3719 Casco electrónico Darth Vader  Multicolor  Mi
 
 ℹ️:
 
-- Distorsiona la voz para sonar como Darth Vader
 - Mismo aspecto que la película
 - Aprieta el botón para los sonidos y la respiración
 - Usa la correa para ajustar la máscara
+- Distorsiona la voz para sonar como Darth Vader
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013E5BTHA/?tag=tolees-21)
