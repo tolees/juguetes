@@ -28,9 +28,9 @@ En este momento está [SUPERTHINGS RIVALS OF KABOOM - SUPERTHINGS Power Machines
 
 🔎:
 
+- CONSIGUE UNO DE LOS SÚPER LÍDERES DORADOS – Blíster con 10 SuperThings, contiene una figura dorada.
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - AUMENTA TU COLECCIÓN RÁPIDAMENTE – Amplía o empieza tu colección con este blíster de 10 SuperThings y asegúrate una figura dorada.
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
-- CONSIGUE UNO DE LOS SÚPER LÍDERES DORADOS – Blíster con 10 SuperThings, contiene una figura dorada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NCBRZBY/?tag=tolees-21)
