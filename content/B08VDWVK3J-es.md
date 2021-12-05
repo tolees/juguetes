@@ -28,10 +28,10 @@ En este momento está [Jurassic World Mosasaurus defensor del océano Dinosaurio
 
 🔎:
 
-- El plástico certificado como vinculado al océano es un residuo plástico que corre el riesgo de acabar en los océanos. Este juguete está fabricado con 454 g de plástico vinculado al océano procedente de un radio de agua de 31 millas (50 km) en zonas donde no existen sistemas formales de recogida de residuos.
-- Con articulaciones y detalles realistas, esta colosal criatura cobra vida, incluida su mandíbula que se abre de par en par.
-- Esta figura de acción está inspirada en la película y viene en un tamaño descomunal que apasionará a los fans: ¡nada menos que 21,6 cm de alto y 43,2 cm de largo!
 - ¡Forma parte de la acción y aventura más emocionantes con Jurassic World! ¡El mosasaurio, el colosal dinosaurio nadador, hace subir la marea de fans de la franquicia de Jurassic World!
+- Esta figura de acción está inspirada en la película y viene en un tamaño descomunal que apasionará a los fans: ¡nada menos que 21,6 cm de alto y 43,2 cm de largo!
+- El plástico certificado como vinculado al océano es un residuo plástico que corre el riesgo de acabar en los océanos. Este juguete está fabricado con 454 g de plástico vinculado al océano procedente de un radio de agua de 31 millas (50 km) en zonas donde no existen sistemas formales de recogida de residuos.
 - Es un regalo fantástico para niños a partir de 4 años y, más especialmente, para aquellos que se preocupan por los océanos, el medio ambiente y son GRANDES aficionados a Jurassic World.
+- Con articulaciones y detalles realistas, esta colosal criatura cobra vida, incluida su mandíbula que se abre de par en par.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VDWVK3J/?tag=tolees-21)
