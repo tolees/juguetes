@@ -29,10 +29,10 @@ Ahora mismo tienes [Match Harry Potter - Juego de Mesa de Top Trumps – Conecta
 🔎:
 
 - A partir de 4 años de edad - 2 jugadores
-- ¡Coloca 5 cubos en línea con los personajes de los magos de Harry Potter y sé el primero en gritar MATCH para ganar la partida!
-- Juega con 15 personajes del mundo de Hogwarts, el Match de Harry Potter es un juego estratégico para dos personas que te permitirá acercarte a tus magos preferidos.
 - Pero espera ... ¡Te pueden robar la partida! Si tu oponente tiene la Carta de Top Trump que coincide con el personaje de tu cinco en línea, ¡entonces él gana!
-- Contiene 1 tablero, 25 cubos, 15 cartas de personajes de Harry Potter + reglas del juego.
+- Juega con 15 personajes del mundo de Hogwarts, el Match de Harry Potter es un juego estratégico para dos personas que te permitirá acercarte a tus magos preferidos.
 - Cada partida dura 20 minutos aproximadamente.
+- ¡Coloca 5 cubos en línea con los personajes de los magos de Harry Potter y sé el primero en gritar MATCH para ganar la partida!
+- Contiene 1 tablero, 25 cubos, 15 cartas de personajes de Harry Potter + reglas del juego.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XJYZ262/?tag=tolees-21)
