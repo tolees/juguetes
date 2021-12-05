@@ -28,8 +28,8 @@ Tienes [U&I Entertainment - L.O.L. Surprise! Remix: We Rule the World](https://w
 
 ℹ️:
 
-- Actualización periódica de contenidos: Los jugadores podrán experimentar nuevos contenidos mensuales después del lanzamiento del juego; estos incluirán muñecas, misiones, minijuegos y atuendos adicionales; estos paquetes de contenido descargable serán gratuitos para todos los jugadores que posean el juego
 - Empieza desde el principio: Múdate a tu nuevo hogar y personaliza: amuéblalo y gana nuevos artículos gradualmente asistiendo a varios eventos; mientras te mueves por el mundo, encontrarás una variedad de minijuegos y misiones; una vez completadas las misiones, ganarás fichas de brillo que te permitirán comprar más artículos
+- Actualización periódica de contenidos: Los jugadores podrán experimentar nuevos contenidos mensuales después del lanzamiento del juego; estos incluirán muñecas, misiones, minijuegos y atuendos adicionales; estos paquetes de contenido descargable serán gratuitos para todos los jugadores que posean el juego
 - Fotos: Toma fotos de ti y de tus amigos en el juego; estos se pueden usar para decorar tu casa y, en algunos casos, estarán vinculados a misiones
 - Explora: Descubre el festival de “L.O.L; surprise Remix” e interactúa con todos los personajes y muñecas
 - Decora tu casa y personalízala con accesorios: Gana artículos en el juego, incluidos muebles para decorar tu hogar, atuendos para cambiar la moda de tu personaje, y discos que reproducirán diferentes canciones de “L.O.L; surprise”
