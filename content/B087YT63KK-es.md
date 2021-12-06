@@ -28,9 +28,9 @@ En este momento está [Play-Doh- Snotty Scotty  Hasbro E6198EU4 ](https://www.am
 
 🔎:
 
-- Slime en dos tonos diferentes de verde
-- Edad recomendada: a partir de 3 años
 - Snotty Scotty slime con figura de Robby Rotzkopf
 - Incluye: dos latas de slime, una pinzas de dedo y un cubo
+- Slime en dos tonos diferentes de verde
+- Edad recomendada: a partir de 3 años
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087YT63KK/?tag=tolees-21)
