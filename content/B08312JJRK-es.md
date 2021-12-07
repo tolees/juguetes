@@ -30,7 +30,7 @@ Ahora mismo tienes [Electronic Arts - Plants vs. Zombies Garden Warfare 2 | Xbox
 
 - La batalla por Las Afueras alcanza cotas absurdas en Plants vs. Zombies Garden Warfare 2
 - Dr. Zombi, líder de los zombis, reforzó su horda y reconstruyó las afueras
-- Encarna a las plantas en el nuevo modo Asalto herbal
 - Las plantas toman la ofensiva en un ataque total para reclamar sus tierras
+- Encarna a las plantas en el nuevo modo Asalto herbal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08312JJRK/?tag=tolees-21)
