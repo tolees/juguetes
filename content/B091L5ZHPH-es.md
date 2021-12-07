@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 24.25 % en MONOPOLY LA CASA DE Papel'
-date: 2021-12-06 18:34:49
+date: 2021-12-07 19:20:03
 image: 'https://m.media-amazon.com/images/I/51UoNYLF4ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

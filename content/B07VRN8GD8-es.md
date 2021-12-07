@@ -29,9 +29,9 @@ En este momento está [Educa - Mapa de Nueva York Puzzle  500 Piezas  Multicolor
 🔎:
 
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Edad recomendada: a partir de 10 años
 - Serie City Maps Un recorrido por los rincones más emblemáticos de grandes ciudades
+- Edad recomendada: a partir de 10 años
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Número de piezas: 500, medida aproximada una vez montado: 48 x 34
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VRN8GD8/?tag=tolees-21)

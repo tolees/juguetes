@@ -28,10 +28,10 @@ En este momento está [Orzly Accesorios para Nintendo Switch Lite – Pack Inclu
 
 🔎:
 
+- Más accesorios disponibles en el Reino Unido: ¿Sabías que muchos de los artís en este paquete también se venden por separado Para toda nuestra gama de accesorios Nintendo Switch Lite simplemente introduzca "Orzly Switch Lite en la barra de búsqueda de Amazon (arriba).
+- Información adicional: Para más información incluida en este paquete, lee la descripción más detallada en la sección "Descripción del producto" de esta página
 - El paquete incluye: 1 funda de transporte (para consola * & accesorios), 1 funda de cartuchos de juego compacto (bolsillo para hasta 4 juegos), 1 funda de agarre cómodo, 1 cable de carga USB, 1 cabezal portátil, 2 protectores de pantalla de cristal templado
 - No se incluye en este paquete: *La consola Nintendo Switch, el controlador y las flechas que aparecen en las imágenes solo se utilizan para fines demostrativos y no están incluidas en el paquete
-- Información adicional: Para más información incluida en este paquete, lee la descripción más detallada en la sección "Descripción del producto" de esta página
 - El paquete incluye: 1 lápiz capacitivo Orzly. Los protectores de pantalla en este paquete se suministran con todo lo que necesitas para instalarlos (1 paño de limpieza de microfibra, 1 raspador aplicador, 2 paños de alcohol e instrucciones de instalación completas)
-- Más accesorios disponibles en el Reino Unido: ¿Sabías que muchos de los artís en este paquete también se venden por separado Para toda nuestra gama de accesorios Nintendo Switch Lite simplemente introduzca "Orzly Switch Lite en la barra de búsqueda de Amazon (arriba).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084DBDH3Q/?tag=tolees-21)

@@ -28,12 +28,12 @@ Ahora mismo tienes [Bizak Toy Story Figura Articulada Woody con voz 40 cm  61234
 
 🔎:
 
-- Articulable
+- Altura de 40 cm
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Articulable
 - Mas de 15 frases
 - Habla en español
 - Producto distribuido oficialmente en España por BIZAK.
 - Producto distribuido oficialmente en España por BIZAK.
-- Altura de 40 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RNS7KRD/?tag=tolees-21)
