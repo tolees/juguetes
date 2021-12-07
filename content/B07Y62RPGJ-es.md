@@ -29,10 +29,10 @@ Ahora mismo tienes [Jurassic World Control N´Conquer Carnotaurus Toro  dinosaur
 🔎:
 
 - ¡Para más diversión jurásica, descarga la aplicación Jurassic World Facts (Android e iOS)! ¡Con la aplicación puedes escanear el dinosaurio para que cobre vida, verlo más de cerca, escuchar sus rugidos, descubrir curiosidades y mucho más!
-- ¡La figura de Carnotaurio astado Control ‘N Conquer está inspirada en la serie de animación de Jurassic World, Camp Cretaceous!
-- Pulsa el botón para abrir y cerrar la mandíbula y recoger figuras y accesorios.
 - El Carnotaurio astado Control N Conquer tiene detalles y texturas realistas inspiradas en la película, articulaciones móviles y colores auténticos. Además, incluye un mapa y un folleto con imágenes y pegatinas reutilizables de dinosaurios.
-- La figura a gran escala incluye control de la función de «ataque feroz»; inclina la cola para que mueva la cabeza y la cintura, y gire hacia los lados. ¡Levanta la cola o aprieta el botón para escuchar el RUGIDO del Carnotaurio!
 - Es el regalo perfecto para niños a partir de 4 años, especialmente para fans de Jurassic World a los que les encanten los dinosaurios y los juegos de acción.
+- Pulsa el botón para abrir y cerrar la mandíbula y recoger figuras y accesorios.
+- ¡La figura de Carnotaurio astado Control ‘N Conquer está inspirada en la serie de animación de Jurassic World, Camp Cretaceous!
+- La figura a gran escala incluye control de la función de «ataque feroz»; inclina la cola para que mueva la cabeza y la cintura, y gire hacia los lados. ¡Levanta la cola o aprieta el botón para escuchar el RUGIDO del Carnotaurio!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y62RPGJ/?tag=tolees-21)

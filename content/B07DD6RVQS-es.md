@@ -28,10 +28,10 @@ Está [Lisciani – Barbie Dreamhouse Villa de sueño de dos pisos - Juego cre
 
 ℹ️:
 
-- Dimensiones: 73 x 67 x 22 cm, a medida de Barbie!
-- Villa de dos pisos con jardín y detalles de personalizar
-- Muebles 3d de construir y decorar, stickers, tarjetas adhesivas
-- Diviértete a construir los muebles para la casa y personalizzali como tu quieras
 - Diviértete a construir la Villa de Barbie
+- Villa de dos pisos con jardín y detalles de personalizar
+- Diviértete a construir los muebles para la casa y personalizzali como tu quieras
+- Muebles 3d de construir y decorar, stickers, tarjetas adhesivas
+- Dimensiones: 73 x 67 x 22 cm, a medida de Barbie!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DD6RVQS/?tag=tolees-21)

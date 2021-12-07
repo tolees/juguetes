@@ -28,11 +28,11 @@ En este momento está [Winning Moves - Monopoly Dragon Ball Super - Juego de Mes
 
 🔎:
 
-- Disfruta de un escenario de película pero manteniendo la esencia del juego clásico de siempre.
-- A partir de 8 años.
-- Los jugadores pueden lanzar los dados para mover sus fichas y comprar, vender y negociar las propiedades al estilo Monopoly.
 - De 2 a 6 jugadores.
+- Los jugadores pueden lanzar los dados para mover sus fichas y comprar, vender y negociar las propiedades al estilo Monopoly.
 - Adéntrate en el universo de Dragon Ball Super y vive la aventura junto a tus personajes de tu serie favorita.
+- A partir de 8 años.
 - El clásico juego de Monopoly con diversión para niños y adultos por igual.
+- Disfruta de un escenario de película pero manteniendo la esencia del juego clásico de siempre.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P5NB3CK/?tag=tolees-21)
