@@ -28,10 +28,10 @@ Ahora mismo tienes [SUPERTHINGS RIVALS OF KABOOM SuperZings - Power Tower Assaul
 
 🔎:
 
-- Demuestra tu habilidad y lanza al superhéroe por la rampa, y comienza la aventura ¿Atraparás a Metalhead de un salto?
-- Impacta en la diana y expulsarás al villano, pero ¡ten cuidado! apunta bien o quedaras preso en la torre del supervillano de SuperZings Metalhead
-- La torre de asalto Skate de los SuperZings contiene dos figuras y diferentes accesorios para capturar. Asalta la guarida del supervillano Metalhead con el poderoso Skateboy haciendo los saltos más increíbles
 - Los SuperZings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Todas las figuras SuperZings tienen su rival, busca las parejas rivales y forma tus Superequipos. Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 - Viene con dos SuperZings, uno héroe y el otro villano, para que no dejes de crear las aventuras más trepidantes y puedas mantener el orden en Kaboom City
+- La torre de asalto Skate de los SuperZings contiene dos figuras y diferentes accesorios para capturar. Asalta la guarida del supervillano Metalhead con el poderoso Skateboy haciendo los saltos más increíbles
+- Demuestra tu habilidad y lanza al superhéroe por la rampa, y comienza la aventura ¿Atraparás a Metalhead de un salto?
+- Impacta en la diana y expulsarás al villano, pero ¡ten cuidado! apunta bien o quedaras preso en la torre del supervillano de SuperZings Metalhead
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P5J1WH7/?tag=tolees-21)
