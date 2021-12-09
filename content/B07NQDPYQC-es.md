@@ -29,9 +29,9 @@ Ahora mismo tienes [Hot Wheels City T-Rex Devorador Destructor  Pista de Coches 
 🔎:
 
 - Se puede conectar a otras pistas de Hot Wheels City para aumentar las posibilidades, construye un mundo de juego con Hot Wheels City
-- Hora de ponerse como una fiera con T-Rex Rampage de Hot Wheels City
-- Carga tu coche en el lanzador y lánzalo contra el T-Rex para intentar abatirlo; Apunta con cuidado porque si no lo haces bien, el T-Rex destruirá los edificios de la ciudad con su monstruosa cola
-- Un gigantesco T-Rex se ha adueñado de Hot Wheels City y está derribando los edificios de la ciudad; Los niños se pondrán a prueba al intentar vencer al enorme dinosaurio T-Rex con sus coches Hot Wheels
 - Que no te trague el T-Rex; Hot Wheels City te necesita para salvar la situación
+- Un gigantesco T-Rex se ha adueñado de Hot Wheels City y está derribando los edificios de la ciudad; Los niños se pondrán a prueba al intentar vencer al enorme dinosaurio T-Rex con sus coches Hot Wheels
+- Carga tu coche en el lanzador y lánzalo contra el T-Rex para intentar abatirlo; Apunta con cuidado porque si no lo haces bien, el T-Rex destruirá los edificios de la ciudad con su monstruosa cola
+- Hora de ponerse como una fiera con T-Rex Rampage de Hot Wheels City
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NQDPYQC/?tag=tolees-21)
