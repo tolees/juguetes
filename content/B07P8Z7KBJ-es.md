@@ -28,10 +28,10 @@ Ahora mismo tienes [Nintendo - Pokémon: Espada](https://www.amazon.es/dp/B07P8Z
 
 🔎:
 
-- Fenómeno Dinamax hace que los Pokémon adquieran un tamaño gigantesco y una fuerza increíble
 - Una emocionante aventura en los nuevos juegos de rol Pokémon Espada
-- Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
+- Fenómeno Dinamax hace que los Pokémon adquieran un tamaño gigantesco y una fuerza increíble
 - Descubrirás Pokémon Legendarios conocidos como Zacian y Zamazenta
+- Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
 - Los Pokémon que aparecen cambian en función del sector donde os encontréis y el tiempo que haga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P8Z7KBJ/?tag=tolees-21)
