@@ -28,10 +28,10 @@ En este momento está [Clementoni Juego Robot Stem  Multicolor  55421 ](https://
 
 🔎:
 
-- Es perfecto para desarrollar la destreza, la lógica, la orientación espacial y la imaginación, esto se debe a la gran interactividad del juego y a la experiencia única de construirlo
-- Utilizando sus 2 motores y el servomotor, mueve sus alas y boca, la rueda motriz y la articulación central del cuerpo, lo que le permite girar y perseguir a su presa como si estuviera vivo
-- ¡Un kit de robótica para construir un fantástico robot con forma de Dragón Mecánico que utiliza sus 3 motores y múltiples sensores interactuando con el niño y su entorno para crear aventuras sin fin!
-- Un robot único con más de 3 modos de juego y 22 funciones para descubrir la robótica de una forma divertida y sencilla aplicando el proceso STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)
 - El Dragón se puede controlar mediante una App que se comunica con señales de alta frecuencia, con el silbato incluido en la caja, o con un simple aplauso
+- Es perfecto para desarrollar la destreza, la lógica, la orientación espacial y la imaginación, esto se debe a la gran interactividad del juego y a la experiencia única de construirlo
+- ¡Un kit de robótica para construir un fantástico robot con forma de Dragón Mecánico que utiliza sus 3 motores y múltiples sensores interactuando con el niño y su entorno para crear aventuras sin fin!
+- Utilizando sus 2 motores y el servomotor, mueve sus alas y boca, la rueda motriz y la articulación central del cuerpo, lo que le permite girar y perseguir a su presa como si estuviera vivo
+- Un robot único con más de 3 modos de juego y 22 funciones para descubrir la robótica de una forma divertida y sencilla aplicando el proceso STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B093SWZSYQ/?tag=tolees-21)
