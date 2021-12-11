@@ -22,15 +22,15 @@ descuento: '39.98'
 average: '20.262'
 ---
 
-En este momento está [{{< param title >}}]({{< param buyurl >}}) a {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 - Puzzle adulto 3000 piezas, con láminas de alta calidad de impresión, y troquelado preciso, colección paisajes
-- Favorece la concentración y las habilidades manuales
 - Hecho en Italia
+- Favorece la concentración y las habilidades manuales
 - Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
 
 [🛒 Aquí!!!]({{< param buyurl >}})

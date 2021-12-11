@@ -22,17 +22,17 @@ descuento: '30.07'
 average: '399.99'
 ---
 
-Tienes [{{< param title >}}]({{< param buyurl >}}) con precio final de  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 - Velocidades de lectura/escritura irracionalmente altas de hasta 7000/5300 MB/s (modelo de 1 TB) y hasta 1 000 000 IOPS (modelos de 1 TB y 2 TB)
-- Hasta 2 TB de capacidad para que tengas tus juegos favoritos listos para la batalla
-- Software del panel de control WD_BLACK descargable para personalizar y controlar tu experiencia de juego
 - Elegante modelo de disipador térmico que minimiza el estrangulamiento térmico e impulsa los límites del rendimiento para juegos de alto nivel
-- Tecnología PCIe Gen. 4 de última generación optimizada para juegos de alto nivel (no pensada para entornos NAS o de servidores)
+- Hasta 2 TB de capacidad para que tengas tus juegos favoritos listos para la batalla
 - Requiere el software de sistema de PS5 versión 21.02-04.00.00 o mayor
+- Tecnología PCIe Gen. 4 de última generación optimizada para juegos de alto nivel (no pensada para entornos NAS o de servidores)
+- Software del panel de control WD_BLACK descargable para personalizar y controlar tu experiencia de juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})

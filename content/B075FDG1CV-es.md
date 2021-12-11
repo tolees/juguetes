@@ -22,7 +22,7 @@ descuento: '38.08'
 average: '11.14'
 ---
 
-Está [{{< param title >}}]({{< param buyurl >}}) con {{< param descuento >}} de descuento por {{< param actualPrice >}} (original: {{< param comparePrice>}}) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 

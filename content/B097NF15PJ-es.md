@@ -22,7 +22,7 @@ descuento: '31.13'
 average: '53.9216666666667'
 ---
 
-Tienes [{{< param title >}}]({{< param buyurl >}}) con un {{< param descuento >}} % de descuento con precio de oferta de {{< param precio >}} {{< param moneda >}} (original: {{< param comparePrice >}}) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 

@@ -22,7 +22,7 @@ descuento: '22.16'
 average: '27.45'
 ---
 
-Tienes [{{< param title >}}]({{< param buyurl >}}) con precio final de  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
