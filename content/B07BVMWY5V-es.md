@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.35 % en Zequins- Muñeco Emmy  Famosa 700014680 '
+title: 'Zequins- Muñeco Emmy  Famosa 700014680 '
 date: 2020-01-04 14:41:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.35'
 average: '5.04'
 ---
 
-Tienes [Zequins- Muñeco Emmy  Famosa 700014680 ](https://www.amazon.es/dp/B07BVMWY5V/?tag=tolees-21) con un 49.35 % de descuento con precio de oferta de 5.04 EUR (original: 9.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) con un {{< param descuento >}} % de descuento con precio de oferta de {{< param precio >}} {{< param moneda >}} (original: {{< param comparePrice >}}) en el siguiente enlace!
 
-[![Zequins- Muñeco Emmy  Famosa 700014680 ](https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL400_.jpg)](https://www.amazon.es/dp/B07BVMWY5V/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BVMWY5V/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

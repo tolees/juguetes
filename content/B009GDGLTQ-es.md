@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Peppa Pig Cole con Amigos Incluye 7 Figu al 22.16 % de rebaja'
+title: 'Peppa Pig Cole con Amigos Incluye 7 Figuras y 3 pupitres  30.5 x 17.8 x 12.7  Bandai 84213 '
 date: 2020-01-05 06:54:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZtbgQif3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.16'
 average: '27.45'
 ---
 
-Tienes [Peppa Pig Cole con Amigos Incluye 7 Figuras y 3 pupitres  30.5 x 17.8 x 12.7  Bandai 84213 ](https://www.amazon.es/dp/B009GDGLTQ/?tag=tolees-21) con precio final de  24.9 EUR (original: 31.99 EUR) (22.16 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) con precio final de  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de rebaja) aqui!
 
-[![Peppa Pig Cole con Amigos Incluye 7 Figu](https://images-eu.ssl-images-amazon.com/images/I/41ZtbgQif3L._SL400_.jpg)](https://www.amazon.es/dp/B009GDGLTQ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B009GDGLTQ/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

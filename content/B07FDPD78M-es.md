@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Homcom Entrenador Elíptico de Fitness Bi con un 57.09 % de descuento'
+title: 'Homcom Entrenador Elíptico de Fitness Bicicleta Elíptica Resistencia Ajustable Pantalla LCD Manillar Ajustable Carga 110kg Acero'
 date: 2020-01-09 23:21:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HDTc8yflL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.09'
 average: '102.99'
 ---
 
-En este momento está [Homcom Entrenador Elíptico de Fitness Bicicleta Elíptica Resistencia Ajustable Pantalla LCD Manillar Ajustable Carga 110kg Acero](https://www.amazon.es/dp/B07FDPD78M/?tag=tolees-21) a 102.99 EUR (original: 239.99 EUR) (57.09 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) a {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de descuento) en el siguiente enlace!
 
-[![Homcom Entrenador Elíptico de Fitness Bi](https://images-eu.ssl-images-amazon.com/images/I/41HDTc8yflL._SL400_.jpg)](https://www.amazon.es/dp/B07FDPD78M/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07FDPD78M/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

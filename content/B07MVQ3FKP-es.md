@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PJ Masks - Megarover  Bandai 95380  con un 48.19 % de descuento'
+title: 'PJ Masks - Megarover  Bandai 95380 '
 date: 2020-01-04 06:05:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mhQIWxbeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.19'
 average: '25.9'
 ---
 
-En este momento está [PJ Masks - Megarover  Bandai 95380 ](https://www.amazon.es/dp/B07MVQ3FKP/?tag=tolees-21) a 25.9 EUR (original: 49.99 EUR) (48.19 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) a {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de descuento) en el siguiente enlace!
 
-[![PJ Masks - Megarover  Bandai 95380 ](https://images-eu.ssl-images-amazon.com/images/I/51mhQIWxbeL._SL400_.jpg)](https://www.amazon.es/dp/B07MVQ3FKP/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07MVQ3FKP/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

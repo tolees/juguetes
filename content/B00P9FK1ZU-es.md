@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mega Bloks Camión golpetones  juguete de al 21.06 % de descuento'
+title: 'Mega Bloks Camión golpetones  juguete de construcción para bebé +1 año  Mattel CND68 '
 date: 2020-01-03 09:51:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W01XK8URL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.06'
 average: '22.49'
 ---
 
-Está [Mega Bloks Camión golpetones  juguete de construcción para bebé +1 año  Mattel CND68 ](https://www.amazon.es/dp/B00P9FK1ZU/?tag=tolees-21) con 21.06 de descuento por 22.49 EUR (original: 28.49 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) con {{< param descuento >}} de descuento por {{< param actualPrice >}} (original: {{< param comparePrice>}}) en el siguiente enlace!
 
-[![Mega Bloks Camión golpetones  juguete de](https://images-eu.ssl-images-amazon.com/images/I/41W01XK8URL._SL400_.jpg)](https://www.amazon.es/dp/B00P9FK1ZU/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B00P9FK1ZU/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

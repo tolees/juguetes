@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FEBER - Triciclo Ferrari  Famosa 8000058 al 30.00 % de descuento'
+title: 'FEBER - Triciclo Ferrari  Famosa 800005840 '
 date: 2020-01-03 12:12:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HQehM0C-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '69.99'
 ---
 
-Está [FEBER - Triciclo Ferrari  Famosa 800005840 ](https://www.amazon.es/dp/B0036ZBPUK/?tag=tolees-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) con {{< param descuento >}} de descuento por {{< param actualPrice >}} (original: {{< param comparePrice>}}) en el siguiente enlace!
 
-[![FEBER - Triciclo Ferrari  Famosa 8000058](https://images-eu.ssl-images-amazon.com/images/I/51HQehM0C-L._SL400_.jpg)](https://www.amazon.es/dp/B0036ZBPUK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B0036ZBPUK/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

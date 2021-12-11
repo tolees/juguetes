@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mattel- Barbie y Sus Accesorios   FVJ42 al 40.10 % de rebaja'
+title: 'Mattel- Barbie y Sus Accesorios   FVJ42'
 date: 2020-01-09 15:31:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41N4s4lsOzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.10'
 average: '11.95'
 ---
 
-Tienes [Mattel- Barbie y Sus Accesorios   FVJ42](https://www.amazon.es/dp/B079QGC9CP/?tag=tolees-21) con precio final de  11.95 EUR (original: 19.95 EUR) (40.10 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) con precio final de  {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de rebaja) aqui!
 
-[![Mattel- Barbie y Sus Accesorios   FVJ42](https://images-eu.ssl-images-amazon.com/images/I/41N4s4lsOzL._SL400_.jpg)](https://www.amazon.es/dp/B079QGC9CP/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B079QGC9CP/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

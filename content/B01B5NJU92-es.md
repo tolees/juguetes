@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clementoni - Puzzle 1500 Piezas Caballos al 24.26 % de descuento'
+title: 'Clementoni - Puzzle 1500 Piezas Caballos  31676 '
 date: 2020-01-08 20:57:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iTAxdXyiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.26'
 average: '12.8'
 ---
 
-Ahora mismo tienes [Clementoni - Puzzle 1500 Piezas Caballos  31676 ](https://www.amazon.es/dp/B01B5NJU92/?tag=tolees-21) a 12.8 EUR (original: 16.9 EUR) (24.26 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) a {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de descuento) en el siguiente enlace!
 
-[![Clementoni - Puzzle 1500 Piezas Caballos](https://images-eu.ssl-images-amazon.com/images/I/51iTAxdXyiL._SL400_.jpg)](https://www.amazon.es/dp/B01B5NJU92/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B01B5NJU92/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

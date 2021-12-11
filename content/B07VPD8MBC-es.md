@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aizhy Bomba de pie de Doble Barril  Bomb con un 25.01 % de descuento'
+title: 'Aizhy Bomba de pie de Doble Barril  Bomba de Bicicleta de Doble Cilindro  Bomba de Piso de Bicicleta  Bomba de neumático de Bicicleta portátil con manómetro y Cabezal de válvula Inteligente'
 date: 2020-01-07 10:55:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518Sz3kv%2BVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.01'
 average: '29.99'
 ---
 
-En este momento está [Aizhy Bomba de pie de Doble Barril  Bomba de Bicicleta de Doble Cilindro  Bomba de Piso de Bicicleta  Bomba de neumático de Bicicleta portátil con manómetro y Cabezal de válvula Inteligente](https://www.amazon.es/dp/B07VPD8MBC/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) a {{< param actualPrice >}} (original: {{< param comparePrice>}}) ({{< param descuento >}} %  de descuento) en el siguiente enlace!
 
-[![Aizhy Bomba de pie de Doble Barril  Bomb](https://images-eu.ssl-images-amazon.com/images/I/518Sz3kv%2BVL._SL400_.jpg)](https://www.amazon.es/dp/B07VPD8MBC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07VPD8MBC/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})
