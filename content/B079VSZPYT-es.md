@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Salta y pide sus galletitas con muchas ganas
-- Le encanta la diversión a la hora de comer
 - Geniales sonidos del hábitat prehistórico de los dinosaurios
+- Le encanta la diversión a la hora de comer
+- Salta y pide sus galletitas con muchas ganas
 - Responde con más de 35 combinaciones de sonidos y movimientos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
