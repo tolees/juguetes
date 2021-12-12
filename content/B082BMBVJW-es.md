@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Devir- Exit 11  La mansión siniestra  BG al 21.80 % de descuento'
-date: 2021-12-10 19:33:27
+title: 'Devir- Exit 11  La mansión siniestra  BGEXIT11 '
+date: 2021-12-12 08:52:12
 image: 'https://m.media-amazon.com/images/I/51T+1Rpae-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21'
 descuento: '21.80'
-average: '12.51125'
+average: '12.4652941176471'
 ---
 
-Ahora mismo tienes [Devir- Exit 11  La mansión siniestra  BGEXIT11 ](https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21) a 11.73 EUR (original: 15.0 EUR) (21.80 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Devir- Exit 11  La mansión siniestra  BG](https://m.media-amazon.com/images/I/51T+1Rpae-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
-- Tipo de producto: juego de mesa
-- Edad recomendada: 10 años y más
 - Duración aproximada de la partida: 45 - 90 minutos
-- Juego adecuado para pasar el tiempo libre
+- Edad recomendada: 10 años y más
+- Tipo de producto: juego de mesa
 - Número de jugadores: 1 - 4
+- Juego adecuado para pasar el tiempo libre
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Devir - Exit: El tesoro hundido  Ed. Esp al 20.81 % de descuento'
-date: 2021-12-10 17:04:46
+title: 'Devir - Exit: El tesoro hundido  Ed. Español  BGEXIT7 '
+date: 2021-12-12 08:51:59
 image: 'https://m.media-amazon.com/images/I/51I+Dv1ZmDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07HZXPHBG/?tag=tolees-21'
 descuento: '20.81'
-average: '13.2169565217391'
+average: '13.1608333333333'
 ---
 
-Ahora mismo tienes [Devir - Exit: El tesoro hundido  Ed. Español  BGEXIT7 ](https://www.amazon.es/dp/B07HZXPHBG/?tag=tolees-21) a 11.87 EUR (original: 14.99 EUR) (20.81 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Devir - Exit: El tesoro hundido  Ed. Esp](https://m.media-amazon.com/images/I/51I+Dv1ZmDL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07HZXPHBG/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
-- Exit el tesoro
-- Producto de calidad
-- De la marca: Devir
 - Devir iberia, 227123
+- Exit el tesoro
+- De la marca: Devir
+- Producto de calidad
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07HZXPHBG/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})
