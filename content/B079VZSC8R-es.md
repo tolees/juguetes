@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Arena cinética de la arena de la playa
-- Fluye mágicamente a través de los manos sin pegarse
 - Es fácil de moldear
+- Fluye mágicamente a través de los manos sin pegarse
 - No contiene trigo, gluten ni caseína
+- Arena cinética de la arena de la playa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

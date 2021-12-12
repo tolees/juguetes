@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 76903 Speed Champions Deportivo Che al 18.73 % de rebaja'
-date: 2021-12-10 23:44:55
+title: 'LEGO 76903 Speed Champions Deportivo Chevrolet Corvette C8.R y Chevrolet Corvette de 1968  Coche de Juguete para Construir'
+date: 2021-12-12 10:07:32
 image: 'https://m.media-amazon.com/images/I/51K6vyAOwHS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWZJ8G4/?tag=tolees-21'
 descuento: '18.73'
-average: '36.5634693877551'
+average: '36.4822'
 ---
 
-Tienes [LEGO 76903 Speed Champions Deportivo Chevrolet Corvette C8.R y Chevrolet Corvette de 1968  Coche de Juguete para Construir](https://www.amazon.es/dp/B08WWZJ8G4/?tag=tolees-21) con precio final de  32.5 EUR (original: 39.99 EUR) (18.73 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![LEGO 76903 Speed Champions Deportivo Che](https://m.media-amazon.com/images/I/51K6vyAOwHS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08WWZJ8G4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
-- La corbeta roja del 68 es un impresionante modelo de coche LEGO histórico que compite con el moderno gris, rojo y amarillo del 20 con un gran alerón
+- Ambos coches de carreras de juguete coleccionables tienen el tamaño óptimo para jugar en casa o en la oficina, un regalo LEGO óptimo para niños y niñas de 8 años en adelante
 - Este juguete de coche de carreras LEGO incluye 2 modelos para construir: el coche de carreras Chevrolet Corvette C8.R 2020 y el coche deportivo Chevrolet Corvette de 1968
 - Los niños pueden explorar la composición de 2 Corvettes de la vida real mientras construyen, antes de enseñarlos o montar una carrera épica de Speed Champions
+- La corbeta roja del 68 es un impresionante modelo de coche LEGO histórico que compite con el moderno gris, rojo y amarillo del 20 con un gran alerón
 - Incluye 2 mini figuras LEGO de pilotos de carreras de Chevrolet, preparadas y listas para usar, con monos de carrera, cascos y una llave inglesa
-- Ambos coches de carreras de juguete coleccionables tienen el tamaño óptimo para jugar en casa o en la oficina, un regalo LEGO óptimo para niños y niñas de 8 años en adelante
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B08WWZJ8G4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

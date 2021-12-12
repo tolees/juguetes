@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
-- Juego cooperativo y de deducción
+- Número de jugadores: 1 - 4
 - Duración aproximada del juego: 45 - 90 minutos
 - Edad recomendada: a partir de 10 años
-- Número de jugadores: 1 - 4
+- Juego cooperativo y de deducción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
