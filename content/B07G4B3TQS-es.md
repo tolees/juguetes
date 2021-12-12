@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad
-- Número de cartas: 28
 - Número jugadores: 1-4
+- Número de cartas: 28
 - Sagrada es un juego de mesa de lanzamiento de dados y creación de secuencias para la construcción de ventanas de colores
+- Producto de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
