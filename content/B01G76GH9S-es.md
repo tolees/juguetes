@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¡Atención! El fabricante nos proporciona este producto en modelos y/o colores aleatorios. Nos resulta imposible proporcionarte el producto en un modelo/color en particular. Al confirmar tu compra, recibirás uno de los modelos/colores que se muestran en la imagen o en el título, en función de la disponibilidad. Muchas gracias por tu comprensión.
+- Número de jugadores: de 2 a 6
+- Duración de la partida: aprox. 15 min
 - Retos que estimularán tus habilidades cognitivas
 - Prueba tu razonamiento, memoria y rapidez
-- Duración de la partida: aprox. 15 min
-- Número de jugadores: de 2 a 6
-- ¡Atención! El fabricante nos proporciona este producto en modelos y/o colores aleatorios. Nos resulta imposible proporcionarte el producto en un modelo/color en particular. Al confirmar tu compra, recibirás uno de los modelos/colores que se muestran en la imagen o en el título, en función de la disponibilidad. Muchas gracias por tu comprensión.
 - Juego de agilidad visual, coordinación, memoria, capacidad de razonamiento e incluso de sensibilidad del tacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
