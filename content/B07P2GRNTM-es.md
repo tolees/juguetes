@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Olaf'
-date: 2021-12-12 06:45:55
+date: 2021-12-13 10:24:18
 image: 'https://m.media-amazon.com/images/I/51EtSJiEofS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07P2GRNTM/?tag=tolees-21'
 descuento: '39.96'
-average: '12.6683950617285'
+average: '12.6236585365855'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene una figura para construir de Olaf, el personaje de Frozen II, con brazos y cuello ajustables.
-- Olaf mide más de 14 cm de altura, 10 cm de ancho y 5 cm de profundidad.
-- Disfruta construyendo y reconstruyendo a tu personaje de Disney Frozen favorito.
-- Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz.
 - Perfecto para decorar tu casa o tu oficina e inundar de felicidad cada día.
+- Olaf mide más de 14 cm de altura, 10 cm de ancho y 5 cm de profundidad.
+- Accesorios incluidos: una pajarita azul, el diario de Olaf y un lápiz.
+- Disfruta construyendo y reconstruyendo a tu personaje de Disney Frozen favorito.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
