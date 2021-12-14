@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Idioma principal: español
-- Juego de identidades secretas, deducción y engaño con gran interacción
 - Incluye una expansión: "la trama se complica"
-- Los jugadores son miembros de la resistencia
 - Duración aproximada de la partida 30 minutos
+- Los jugadores son miembros de la resistencia
+- Juego de identidades secretas, deducción y engaño con gran interacción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
