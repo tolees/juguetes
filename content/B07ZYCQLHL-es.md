@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Viene con 6 cohetes oficiales Nerf probados en cuanto a su rendimiento y calidad
-- Cuenta con un tambor rotatorio que almacena hasta 6 cohetes de espuma y los lanza 1 a la vez
 - El lanzador GL de Nerf Fortnite está inspirado en el lanzador que se usa en Fortnite y reproduce fielmente el aspecto de uno de los del popular videojuego
+- Cuenta con un tambor rotatorio que almacena hasta 6 cohetes de espuma y los lanza 1 a la vez
+- Viene con 6 cohetes oficiales Nerf probados en cuanto a su rendimiento y calidad
 - Mueve la manija para lanzar 1 cohete a la vez, empuja la manija hacia delante para que el tambor gire y coloque un cohete en la posición de tiro y tira de la manija hacia atrás para lanzar un cohete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

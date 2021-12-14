@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Freno v-brake
-- Grupo Shimano de 21 velocidades
-- Cuadro de Aluminio 6061
-- Con suspensión delantera
 - Llanta de 27.5" en aluminio
+- Cuadro de Aluminio 6061
+- Freno v-brake
+- Con suspensión delantera
+- Grupo Shimano de 21 velocidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
