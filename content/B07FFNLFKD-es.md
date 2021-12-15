@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Edad: 3 años +
 - Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
-- Barbie muñeca rubia Feliz Cumpleaños con Regalo (Mattel GDJ36)
 - Lo que hoy puedes ver como un simple juego en realidad es una preparación para su futuro, ya que, a través del juego, Barbie estimula la imaginación, la expresión y el descubrimiento
 - Escribe el nombre de la niña del cumpleaños en la parte exterior del paquete y el nombre de la persona que hace el regalo para darle un toque personal. ¡Es el regalo de cumpleaños ideal para las amantes de Barbie de cualquier edad!
+- Barbie muñeca rubia Feliz Cumpleaños con Regalo (Mattel GDJ36)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
