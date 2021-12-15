@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Asa de transporte
-- Junta de anillo deslizante de alta calidad
-- Recogida del cable
-- Carcasa de la bomba de acero fino
 - Detector del nivel del agua con altura regulable sin escalonamientos
+- Asa de transporte
 - Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
+- Recogida del cable
 - Conexión universal para mangueras de 25 mm y 32 mm, así como rosca exterior G 1 (aprox. 33.3 mm)
+- Junta de anillo deslizante de alta calidad
+- Carcasa de la bomba de acero fino
 
 [🛒 Aquí!!!]({{< param buyurl >}})
