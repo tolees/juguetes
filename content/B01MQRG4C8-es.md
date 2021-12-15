@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mezcla y combina las diferentes piezas para ponerle caras divertidas
 - Crea looks divertidos
-- Personaliza tu propio potato
-- La mayoría de las piezas son compatibles con otros Mr. Potato y Mrs. Potato ,se venden por separado
+- Mezcla y combina las diferentes piezas para ponerle caras divertidas
 - Piezas para mezclar y combinar
+- La mayoría de las piezas son compatibles con otros Mr. Potato y Mrs. Potato ,se venden por separado
+- Personaliza tu propio potato
 
 [🛒 Aquí!!!]({{< param buyurl >}})

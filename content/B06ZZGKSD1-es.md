@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración aproximada del montaje entre 60 y 100 minutos
-- No son necesarias ni cola ni tijeras. Para todas las edades: de 6 a 99 años. Duración aproximada del montaje entre 60 y 100 minutos
-- Encaje perfecto de las piezas. No son necesarias ni cola ni tijeras
 - Construye el trono de hierro en 3D. Piezas en madera impresa, material noble, resistente y de alta calidad
+- Duración aproximada del montaje entre 60 y 100 minutos
+- Encaje perfecto de las piezas. No son necesarias ni cola ni tijeras
+- No son necesarias ni cola ni tijeras. Para todas las edades: de 6 a 99 años. Duración aproximada del montaje entre 60 y 100 minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
