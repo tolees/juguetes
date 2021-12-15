@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Qué princesa habrá raptado el rey Hielo esta vez?
-- Qué aventuras totales aguardan a nuestros héroes en Chuchelandia?
 - Producto en castellano
 - Quién ha soltado la última bomba de drama?
+- Qué aventuras totales aguardan a nuestros héroes en Chuchelandia?
+- Qué princesa habrá raptado el rey Hielo esta vez?
 
 [🛒 Visítala!!!]({{< param buyurl >}})
