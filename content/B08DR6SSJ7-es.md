@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para adultos y niños a partir de 12 años.
-- Fácil de guardar y perfecto para llevarlo a cualquier parte.
 - Demuestra que eres el fan número 1 de Dragon Ball Z respondiendo todas las preguntas sobre la serie y sus personajes.
+- Fácil de guardar y perfecto para llevarlo a cualquier parte.
 - ¡Un juego divertido para compartir con tus mejores amigos!
 - Este juego tiene un total de 600 preguntas que te entretendrán y ayudarán a conocer más sobre tus personajes preferidos; no incluye tablero.
+- Adecuado para adultos y niños a partir de 12 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

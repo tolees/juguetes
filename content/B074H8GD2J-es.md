@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Devir - Exit: La tumba del faraón  Ed. E al 20.00 % de descuento'
-date: 2021-12-10 19:26:45
+title: 'Devir - Exit: La tumba del faraón  Ed. Español  BGEXIT2 '
+date: 2021-12-15 17:59:30
 image: 'https://m.media-amazon.com/images/I/51cuHZYNhoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B074H8GD2J/?tag=tolees-21'
 descuento: '20.00'
-average: '11.9466666666668'
+average: '11.9494736842107'
 ---
 
-Ahora mismo tienes [Devir - Exit: La tumba del faraón  Ed. Español  BGEXIT2 ](https://www.amazon.es/dp/B074H8GD2J/?tag=tolees-21) a 12.0 EUR (original: 15.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Devir - Exit: La tumba del faraón  Ed. E](https://m.media-amazon.com/images/I/51cuHZYNhoL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B074H8GD2J/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
+- Duración 45-90 minutos
+- A partir de los 12 años
 - Edición en español
 - De 1 a 6 jugadores
-- A partir de los 12 años
-- Duración 45-90 minutos
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B074H8GD2J/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

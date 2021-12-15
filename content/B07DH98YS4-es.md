@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de agilidad visual, coordinación, memoria, capacidad de razonamiento e incluso de sensibilidad del tacto
 - Retos que estimularán tus habilidades cognitivas
+- Juego de agilidad visual, coordinación, memoria, capacidad de razonamiento e incluso de sensibilidad del tacto
 - Prueba tu razonamiento, memoria y rapidez
 - De 2 a 6 jugadores
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: La casa de los Enigmas  BGEXIT12 '
-date: 2021-12-12 08:52:30
+date: 2021-12-15 17:59:37
 image: 'https://m.media-amazon.com/images/I/516+4OZZLbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08K445VZL/?tag=tolees-21'
 descuento: '20.00'
-average: '13.1730769230769'
+average: '13.0892857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
-- Número de jugadores: 1 - 4
 - Duración aproximada del juego: 45 - 90 minutos
-- Edad recomendada: a partir de 10 años
+- Número de jugadores: 1 - 4
+- La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
 - Juego cooperativo y de deducción
+- Edad recomendada: a partir de 10 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

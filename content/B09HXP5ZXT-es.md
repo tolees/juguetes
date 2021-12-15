@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La línea Tokaido-Shinkansen fue concebida en 1940 como una línea férrea con trenes de 150 km/h que uniese Tokio y Shimonoseki.
 - A partir de 12 años de edad
-- Usando sus propias acciones y en ocasiones las de los demás, los jugadores deberán avanzar en la construcción de la línea Tōkaidō-Shinkansen a la vez que participan en la construcción de las distintas sedes olímpicas en busca de los beneficios que estas reportan.
-- Shinkansen Zero-Kei es un juego competitivo de 1 a 4 jugadores donde cada jugador representará a una de las compañías encargadas de la construcción de la nueva vía
 - Cada jugador irá formando mediante cartas, un conjunto de acciones propio y diferente al del resto de jugadores.
+- Shinkansen Zero-Kei es un juego competitivo de 1 a 4 jugadores donde cada jugador representará a una de las compañías encargadas de la construcción de la nueva vía
+- Usando sus propias acciones y en ocasiones las de los demás, los jugadores deberán avanzar en la construcción de la línea Tōkaidō-Shinkansen a la vez que participan en la construcción de las distintas sedes olímpicas en busca de los beneficios que estas reportan.
+- La línea Tokaido-Shinkansen fue concebida en 1940 como una línea férrea con trenes de 150 km/h que uniese Tokio y Shimonoseki.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

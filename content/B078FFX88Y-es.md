@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descarga la aplicación e inserte en el visor AR
-- Paso de nivel en la aplicación Hero Vision
 - Incluye la máscara, un visor AR, un guante, 3 marcadores AR y una gema del infinito
+- Paso de nivel en la aplicación Hero Vision
+- Descarga la aplicación e inserte en el visor AR
 - Experiencia de realidad aumentada Hero Vision Iron Man
 
 [🛒 Aquí!!!]({{< param buyurl >}})

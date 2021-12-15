@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Exit 11  La mansión siniestra  BGEXIT11 '
-date: 2021-12-12 08:52:12
+date: 2021-12-15 17:59:54
 image: 'https://m.media-amazon.com/images/I/51T+1Rpae-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B082BMBVJW/?tag=tolees-21'
 descuento: '21.80'
-average: '12.4652941176471'
+average: '12.4244444444445'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de jugadores: 1 - 4
-- Edad recomendada: 10 años y más
-- Juego adecuado para pasar el tiempo libre
-- Tipo de producto: juego de mesa
 - Duración aproximada de la partida: 45 - 90 minutos
+- Juego adecuado para pasar el tiempo libre
+- Número de jugadores: 1 - 4
+- Tipo de producto: juego de mesa
+- Edad recomendada: 10 años y más
 
 [🛒 Visítala!!!]({{< param buyurl >}})

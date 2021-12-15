@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a partir de 12 años
-- Pero hay un terrorífico problema: el guardián de la puerta que creará mil y un problemas para evitar que lo consigas apareciendo cuando quiera en tu teléfono, tablet o smart tv
-- Versión española
-- Contenido del juego: 1 tablero, 110 cartas, 6 personajes, 37 llaves y 6 porta llaves, el pozo de los terrores, 1 libreta, 2 dados e instrucciones
 - Nueva versión de Atmosfear con Aplicación es un escalofriante y divertido juego de mesa interactivo dónde se combina la estrategia, la habilidad y el suspense
 - Una frenética carrera contra el tiempo en la que el objetivo es recoger 6 llaves de colores y enfrentarte a tu mayor temor antes de que la cuenta atrás termine
+- Recomendado a partir de 12 años
+- Pero hay un terrorífico problema: el guardián de la puerta que creará mil y un problemas para evitar que lo consigas apareciendo cuando quiera en tu teléfono, tablet o smart tv
+- Contenido del juego: 1 tablero, 110 cartas, 6 personajes, 37 llaves y 6 porta llaves, el pozo de los terrores, 1 libreta, 2 dados e instrucciones
+- Versión española
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
