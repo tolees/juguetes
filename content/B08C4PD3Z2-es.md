@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Peppa Pig - Playset Centro Comercial con figura'
-date: 2021-12-14 23:16:41
+date: 2021-12-16 18:45:53
 image: 'https://m.media-amazon.com/images/I/516ztWIXw9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08C4PD3Z2-es Peppa Pig - Playset Centro Comercial con figura'
 sku: 'B08C4PD3Z2-es'
 tags: [ 'Conjuntos de figuras de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','peppa','peppa pig','pig', ]
-actualPrice: 29.9 EUR
+actualPrice: 47.9 EUR
 currency: EUR
-price: 29.9
+price: 47.9
 comparePrice: 59.99 EUR
 prodname: 'Peppa Pig - Playset Centro Comercial con figura'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Peppa Pig'
 buyurl: 'https://www.amazon.es/dp/B08C4PD3Z2/?tag=tolees-21'
-descuento: '50.16'
-average: '34.8729999999999'
+descuento: '20.15'
+average: '35.4933333333332'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
