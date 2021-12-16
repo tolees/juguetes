@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cocktail Games- Ugha Bugha  Asmodee CGUG0001 '
-date: 2021-12-13 11:03:31
+date: 2021-12-16 12:54:21
 image: 'https://m.media-amazon.com/images/I/51XIMZC-YcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocktail Games'
 buyurl: 'https://www.amazon.es/dp/B01FQO38LC/?tag=tolees-21'
 descuento: '27.39'
-average: '8.92375'
+average: '8.81888888888889'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El producto representa un juego de cartas
-- La edad mínima recomendada es de 7 años
 - Contiene 52 cartas e instrucciones
 - La marca del producto es Cocktail Games
+- El producto representa un juego de cartas
 - Es adecuado para 3-8 jugadores
+- La edad mínima recomendada es de 7 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

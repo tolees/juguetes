@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para adultos y niños a partir de 12 años.
 - Fácil de guardar y perfecto para llevarlo a cualquier parte.
+- Demuestra que eres el fan número 1 de Friends respondiendo todas las preguntas sobre la serie y sus personajes.
 - Responde correctamente a las preguntas fascinantes, desconcertantes y entretenidas que pondrán a prueba tu conocimiento y memoria.
 - Este juego tiene 600 preguntas que entretendrán y harán conocer más sobre Rachel, Ross, Monica, Joey, Phoebe y Chandler; no incluye tablero.
 - ¡Un juego divertido para compartir con tus mejores amigos!
-- Demuestra que eres el fan número 1 de Friends respondiendo todas las preguntas sobre la serie y sus personajes.
+- Adecuado para adultos y niños a partir de 12 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
