@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 52 cartas e instrucciones
 - La marca del producto es Cocktail Games
-- El producto representa un juego de cartas
+- Contiene 52 cartas e instrucciones
 - Es adecuado para 3-8 jugadores
+- El producto representa un juego de cartas
 - La edad mínima recomendada es de 7 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
