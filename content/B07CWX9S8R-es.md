@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para mayores de 13 años
-- De 2 a 5 jugadores
-- Unos 90 minutos por partida
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
+- Unos 90 minutos por partida
+- De 2 a 5 jugadores
+- Para mayores de 13 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

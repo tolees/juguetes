@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Versión para principiantes de Magic Maze
 - Número de jugadores: 2-4 jugadores
-- Juego de comunicación cooperativo sin hablar
-- Fácil de jugar gracias a los 11 tutoriales que transmiten la lluvia jugando
 - Duración del juego: 5 minutos
+- Juego de comunicación cooperativo sin hablar
+- Versión para principiantes de Magic Maze
+- Fácil de jugar gracias a los 11 tutoriales que transmiten la lluvia jugando
 - Juego familiar con niños a partir de 5 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

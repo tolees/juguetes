@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puerta introductoria a los juegos de fantasia heroica y a los juegos de mesa cooperativo
-- Número de jugadores: 2-4
-- Ganador del mejor juego infantil aleman
 - Comparte la primera aventura con los peques de la casa
+- Ganador del mejor juego infantil aleman
+- Número de jugadores: 2-4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

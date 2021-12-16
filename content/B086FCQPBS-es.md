@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de mesa infantil
 - Un clásico, ahora con tema de dragón
-- Con muchas fichas trueno destellantes
-- Juego de mesa familiar
 - On reglas sencillas para una rápida diversión de juego
+- Con muchas fichas trueno destellantes
+- Juego de mesa infantil
+- Juego de mesa familiar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

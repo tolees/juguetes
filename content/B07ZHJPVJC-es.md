@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una mecánica original en la que se mezclan apuestas y faroleo
-- Edad recomendada: 8+
 - De 2 a 6 jugadores
 - Un rápido juego de carreras
+- Una mecánica original en la que se mezclan apuestas y faroleo
+- Edad recomendada: 8+
 
 [🛒 Visítala!!!]({{< param buyurl >}})

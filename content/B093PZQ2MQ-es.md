@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca del producto: Devir
-- Posibilidad de jugar en modo legacy o en modo normal
 - Desarrolla la creatividad y la imaginación
+- Posibilidad de jugar en modo legacy o en modo normal
+- Marca del producto: Devir
 - Incluye diferentes accesorios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
