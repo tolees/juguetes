@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 hojas de Ayudas de juego
-- 49 fichas de Ventaja
-- Libro de aventuras con 6 personajes generados
 - 2 dados personalizados de Q Workshop
+- Libro de aventuras con 6 personajes generados
+- 49 fichas de Ventaja
+- 3 hojas de Ayudas de juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})

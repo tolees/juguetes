@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tiempo de juego de 40 minutos
+- Juego para 3 - 6 jugadores
 - Adecuado para niños mayores de 10 años
 - Incluye 6 vagones de tren, locomotora, 10 elementos de terreno
-- Juego para 3 - 6 jugadores
-- Tiempo de juego de 40 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

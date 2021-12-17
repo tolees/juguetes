@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para niños a partir de 10 años
-- Se puede jugar en grupos de jugadores de hasta 6 personas
 - Se juega en 45 minutos
+- Se puede jugar en grupos de jugadores de hasta 6 personas
+- Adecuado para niños a partir de 10 años
 - Juego de cartas para toda la familia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Ámsterdam paisajes y Lagos Puzzle  2000 Piezas  Multicolor  17127 '
-date: 2021-12-13 11:42:46
+date: 2021-12-17 20:22:54
 image: 'https://m.media-amazon.com/images/I/61BY9RGpAsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B01NCZJSP4/?tag=tolees-21'
 descuento: '28.19'
-average: '17.2284615384615'
+average: '17.2143396226415'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Edad recomendada: a partir de 12 años
-- Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
 - Serie Genuine
+- Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})

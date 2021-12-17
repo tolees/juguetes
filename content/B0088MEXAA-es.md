@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Temática: Juegos de mesa infantiles
 - Edad mínima recomendada: 36 meses
+- Temática: Juegos de mesa infantiles
 - Las cerezas jugosas están colgando en el jardín de Berta Birnbaum y vosotros tenéis que ayudar a recogerlas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

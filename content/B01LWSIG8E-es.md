@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Duración: +120 minutos
-- De 2 a 4 jugadores
 - Para mayores de 14 años
+- De 2 a 4 jugadores
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
