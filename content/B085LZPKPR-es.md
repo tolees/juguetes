@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CURA A RAYO EKIS Utiliza: el Can-o-scopio para arrastrar la dolencia de plástico por el camino desde la barriga de Raa¡yo Ekis y sacarla por su cola sin que se caiga
 - ATENTO AL TIMBRE: Si el jugador se desvía del camino y suena el timbre, la dolencia caerá, si se le cae, pierde su turno, si la saca con éxito, el perro ladrará o se tirará un pedo de alivio
 - SONIDOS GRACIOSOS: el juego Operación Canina tiene efectos de sonido graciosos, pulsa la nariz del perro para escuchar divertidos sonidos, como ladridos, gorgoteos y pedos
-- PRETENDE QUE ERES UN VETERINARIO: El juego Operación Canina tiene un toque similar al clásico juego de Operación, el perro de Sam, Rayo Ekis, se ha comido cosas que no debería y los jugadores deberán sacarlas de su barriga
 - JUEGO DIVERTIDO PARA LOS NIÑOS: el juego Operación Canina es una gran elección para que los niños jueguen con sus amigos o para mantenerlos entretenidos un día de lluvia, es un regalo divertido para niños a partir de 6 años
+- CURA A RAYO EKIS Utiliza: el Can-o-scopio para arrastrar la dolencia de plástico por el camino desde la barriga de Raa¡yo Ekis y sacarla por su cola sin que se caiga
+- PRETENDE QUE ERES UN VETERINARIO: El juego Operación Canina tiene un toque similar al clásico juego de Operación, el perro de Sam, Rayo Ekis, se ha comido cosas que no debería y los jugadores deberán sacarlas de su barriga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK.
-- Comodín del familiar
 - Con cientos de preguntas
+- Comodín del familiar
 - Utiliza los comodines de forma inteligente y enfréntate a las 15 preguntas actualizadas
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - El juego el programa de TV "Quién quiere ser millonario"
+- Producto distribuido oficialmente en España por BIZAK.
 - El exitoso programa vuelve a la televisión en su 20 º aniversario
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
