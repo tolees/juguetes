@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libellud Dixit original - Juego de mesa  Edición 2019'
-date: 2021-12-17 14:30:53
+date: 2021-12-18 16:31:06
 image: 'https://m.media-amazon.com/images/I/51MH8gdbZhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Libellud'
 buyurl: 'https://www.amazon.es/dp/B001OH9EDW/?tag=tolees-21'
 descuento: '31.95'
-average: '27.9361728395063'
+average: '27.9136885245903'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sencillo y familiar, con cada imagen cuenta una historia - pero ¿qué historia?
-- 30 minutos de tiempo de juego
-- Incluye 84 tarjetas con bellas ilustraciones
 - Adecuado para 3-6 jugadores no menores de 8 años
 - Más de 1.5 millones de copias vendidas y numerosos premios internacionales
+- Incluye 84 tarjetas con bellas ilustraciones
+- Sencillo y familiar, con cada imagen cuenta una historia - pero ¿qué historia?
+- 30 minutos de tiempo de juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
