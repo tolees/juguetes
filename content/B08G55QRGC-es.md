@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juguete de princesas es una magnífica idea de regalo para niños y niñas a partir de 6 años de Navidad, de cumpleaños o de cualquier otra ocasión
-- Incluye al hada madrina y a la Cenicienta en formato de minipersonajes, el ratón Gus Gus y el carruaje real dorado y blanco con 2 figuras de caballos LEGO de juguete
+- Descubre un carruaje con espacio para 2 mini figuras, un huerto de calabazas con una mesita y un cofre del tesoro que cabe en la parte posterior del carruaje
 - ¡Es hora de la magia! Cenicienta está lista para dirigirse al baile... ¡pero debe regresar antes de medianoche! ¿Se lo recordará Gus Gus?
 - Hay disponibles instrucciones, tanto impresas como digitales con Instructions PLUS en la app Instrucciones de Montaje LEGO, para acercar y ver las maquetas al construirlas
 - El set está repleto de divertidos accesorios, como una invitación al baile, una varita, una corona y zapatos de cristal para revivir las inolvidables escenas de la película
-- Descubre un carruaje con espacio para 2 mini figuras, un huerto de calabazas con una mesita y un cofre del tesoro que cabe en la parte posterior del carruaje
+- El juguete de princesas es una magnífica idea de regalo para niños y niñas a partir de 6 años de Navidad, de cumpleaños o de cualquier otra ocasión
+- Incluye al hada madrina y a la Cenicienta en formato de minipersonajes, el ratón Gus Gus y el carruaje real dorado y blanco con 2 figuras de caballos LEGO de juguete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
