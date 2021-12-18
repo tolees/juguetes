@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Contiene un juguete minisubmarino con cabina abatible para la mini figura de Scuba Zane, además de un amuleto de olas para enseñar
 - Incluye 5 mini figuras LEGO: NRG Nya, Scuba Zane, Prince Kalmaar y 2 Maaray Guards, todos armados con sus icónicas armas
-- Los niños a partir de 9 años ayudan a Scuba Zane a acercarse a la acción dentro de su minisubmarino cuando Nya se convierte en un feroz dragón de agua que puede usar su cola como arma mortal
-- Hazte con más sets inspirados en la serie de televisión NINJAGO: Seabound, incluidos Robot Hidro de Lloyd (71750) e Barco de Asalto Hidro (71756)
 - El dragón tiene alas, patas, cola, cuello, mandíbula que se abre y una cola en movimiento que se pueden usar como arma
 - Con un juguete de dragón LEGO altamente acoplable para que los fans de los ninja recreen la acción de la serie de televisión NINJAGO; seabound durante horas llenas de diversión
+- Los niños a partir de 9 años ayudan a Scuba Zane a acercarse a la acción dentro de su minisubmarino cuando Nya se convierte en un feroz dragón de agua que puede usar su cola como arma mortal
+- Hazte con más sets inspirados en la serie de televisión NINJAGO: Seabound, incluidos Robot Hidro de Lloyd (71750) e Barco de Asalto Hidro (71756)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
