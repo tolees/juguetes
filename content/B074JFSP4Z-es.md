@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto en castellano
 - Compite con los demás jugadores en 8 tipos de retos que estimularán tus habilidades cognitivas
 - Pruebas táctiles, observación, análisis, laberintos, coordinación
 - Desafía a tu cerebro con un divertido juego que pondrá a prueba tu razonamiento, memoria y rapidez
-- Producto en castellano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
