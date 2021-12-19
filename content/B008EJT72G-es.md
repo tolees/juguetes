@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Juego de Mesa La Resistencia  Miscelanea  25197 '
-date: 2021-12-14 19:37:27
+date: 2021-12-19 08:58:22
 image: 'https://m.media-amazon.com/images/I/51J7KHhN7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B008EJT72G/?tag=tolees-21'
 descuento: '25.55'
-average: '16.4764705882353'
+average: '16.3883333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Idioma principal: español
-- Incluye una expansión: "la trama se complica"
 - Duración aproximada de la partida 30 minutos
+- Incluye una expansión: "la trama se complica"
+- Idioma principal: español
 - Los jugadores son miembros de la resistencia
 - Juego de identidades secretas, deducción y engaño con gran interacción
 

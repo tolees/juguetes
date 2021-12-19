@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anima a tu peque constructora para que disfrute del juego imaginativo con el set Casa de Stephanie 4+ (41398). A las niñas preescolares les encantará construir la casa y, a continuación, jugar con ella, recrear escenas de la serie para televisión LEGO Friends o inventar una de su propia imaginación
+- El kit de construcción integra ladrillos y elementos para principiantes que representan la base y las paredes, lo que facilita la construcción para que el divertido juego de interpretación de la vida en familia pueda comenzar inmediatamente. Simpáticos accesorios, como el minicuernito, estimulan el juego creativo
+- Es una idea de regalo de Navidad original para niñas y niños de +4 años a las que les gusta interpretar escenas familiares
 - Este set de 170 piezas mide aproximadamente 16 cm de altura y 12 cm de anchura; por tanto, ocupa poco espacio expuesto. Además, como es compatible con otras piezas LEGO, las pequeñas constructoras podrán aumentar la diversión agregando otros sets que tengan en casa
 - Este juguete infantil incluye mini muñecas de LEGO Friends Stephanie, Alicia y James, un perro y todos los bricks necesarios para construir una casa de 2 pisos con una habitación, cuarto de baño, cocina, comedor y columpio para el jardín
-- Es una idea de regalo de Navidad original para niñas y niños de +4 años a las que les gusta interpretar escenas familiares
-- El kit de construcción integra ladrillos y elementos para principiantes que representan la base y las paredes, lo que facilita la construcción para que el divertido juego de interpretación de la vida en familia pueda comenzar inmediatamente. Simpáticos accesorios, como el minicuernito, estimulan el juego creativo
+- Anima a tu peque constructora para que disfrute del juego imaginativo con el set Casa de Stephanie 4+ (41398). A las niñas preescolares les encantará construir la casa y, a continuación, jugar con ella, recrear escenas de la serie para televisión LEGO Friends o inventar una de su propia imaginación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

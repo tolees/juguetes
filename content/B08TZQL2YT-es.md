@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Usa agua fría para descubrir las mechas de colores de las crines de los dos caballos y vuelve al color original usando agua tibia. Puedes hacerlo las veces que quieras
 - Coloca la valla, el abrevadero, la ducha y la zona de peinado y empieza a divertirte acicalando y cuidando a los caballos
-- El conjunto de juego Cepilla y cuida de Barbie es un sueño para las pequeñas aficionadas a los caballos con la muñeca Barbie, 2 caballos y más 20 accesorios para peinarlos y cuidarlos
 - Carga la herramienta de peluquería, colócala en las crines de los caballos o en el pelo de Barbie y presiona hacia abajo para colocar bonitos pasadores de mariposa
 - Las cabezas de los dos caballos se inclinan hacia arriba y abajo para disfrutar al máximo de la hora de la comida. Utiliza el abrevadero y la zanahoria para la hora del aperitivo
+- El conjunto de juego Cepilla y cuida de Barbie es un sueño para las pequeñas aficionadas a los caballos con la muñeca Barbie, 2 caballos y más 20 accesorios para peinarlos y cuidarlos
+- Usa agua fría para descubrir las mechas de colores de las crines de los dos caballos y vuelve al color original usando agua tibia. Puedes hacerlo las veces que quieras
 
 [🛒 Visítala!!!]({{< param buyurl >}})

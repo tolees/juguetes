@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Recomendado a partir de 4 años
-- Incluye figuras y accesorios
 - Desarrolla la imaginación y la creatividad
+- Incluye figuras y accesorios
 - Contiene 18 piezas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

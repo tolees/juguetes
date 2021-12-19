@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El perchero con ruedas es móvil e incluye perchas de la marca Barbie Extra para colgar los conjuntos incluidos: un abrigo de pelo de color neón, un conjunto de cuadros compuesto por parte superior e inferior a juego, una camiseta de volantes y una camiseta con estampado de piel de serpiente. Así, las niñas podrán crear looks diferentes.
 - En lo referente a la moda, la actitud de las muñecas Barbie Extra es la de más es más, y este conjunto de tocador proporciona el lugar perfecto para dar vida a los looks más EXTRA-ordinarios.
+- El perchero con ruedas es móvil e incluye perchas de la marca Barbie Extra para colgar los conjuntos incluidos: un abrigo de pelo de color neón, un conjunto de cuadros compuesto por parte superior e inferior a juego, una camiseta de volantes y una camiseta con estampado de piel de serpiente. Así, las niñas podrán crear looks diferentes.
 - Gira la cabeza del maniquí del tocador. Puede girar 360 grados y tiene accesorios para el pelo, como coloridas extensiones, gafas de sol y joyas.
-- El conjunto de juego de tocador incluye una muñeca Barbie Extra exclusiva y articulada con pelo púrpura extralargo y más de 45 piezas, como un perrito, un sillón de peluquería de sándwich de helado, un perchero móvil, perchas de marca, extensiones de pelo, ropa y mucho más.
 - Diseñado con colores brillantes, el tocador tiene estantes y espacio de almacenamiento para accesorios, además de un espejo en el que realmente puedes mirarte con bombillas que se iluminan en color rosa cuando las niñas presionan el logotipo de Barbie Extra.
+- El conjunto de juego de tocador incluye una muñeca Barbie Extra exclusiva y articulada con pelo púrpura extralargo y más de 45 piezas, como un perrito, un sillón de peluquería de sándwich de helado, un perchero móvil, perchas de marca, extensiones de pelo, ropa y mucho más.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
