@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games DOS  juego de cartas de UNO  edad recomandada 7 - 10 años  Mattel FRM36 '
-date: 2021-12-17 13:35:45
+date: 2021-12-20 08:20:23
 image: 'https://m.media-amazon.com/images/I/51DLhZlFNqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel Games'
 buyurl: 'https://www.amazon.es/dp/B076MMCQWW/?tag=tolees-21'
 descuento: '35.34'
-average: '8.01048780487803'
+average: '7.98567999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- juego de mesa de 2 a 10 jugadores, pensado para que se desafíen entre ellos individualmente o por equipos
 - Juego de mesa familiar recomendado a partir de 7 años
 - Termina el primero para ganar puntos por las cartas que quedan en las manos de tus oponentes
-- el objetivo del juego es ser el primero en quedarse sin cartas, pero en esta versión, los jugadores deben gritar dos cuando les queden 2 cartas
-- juego de mesa de 2 a 10 jugadores, pensado para que se desafíen entre ellos individualmente o por equipos
 - Cuando te queden 2 cartas, no te olvides de gritar dos
+- el objetivo del juego es ser el primero en quedarse sin cartas, pero en esta versión, los jugadores deben gritar dos cuando les queden 2 cartas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
