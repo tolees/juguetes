@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ludonova Shinkansen Zero-Kei - Juego de Mesa en Español  LDNV420001 '
-date: 2021-12-15 15:18:40
+date: 2021-12-20 11:27:48
 image: 'https://m.media-amazon.com/images/I/41SU7oB9-ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de 12 años de edad
-- Cada jugador irá formando mediante cartas, un conjunto de acciones propio y diferente al del resto de jugadores.
+- La línea Tokaido-Shinkansen fue concebida en 1940 como una línea férrea con trenes de 150 km/h que uniese Tokio y Shimonoseki.
 - Shinkansen Zero-Kei es un juego competitivo de 1 a 4 jugadores donde cada jugador representará a una de las compañías encargadas de la construcción de la nueva vía
 - Usando sus propias acciones y en ocasiones las de los demás, los jugadores deberán avanzar en la construcción de la línea Tōkaidō-Shinkansen a la vez que participan en la construcción de las distintas sedes olímpicas en busca de los beneficios que estas reportan.
-- La línea Tokaido-Shinkansen fue concebida en 1940 como una línea férrea con trenes de 150 km/h que uniese Tokio y Shimonoseki.
+- Cada jugador irá formando mediante cartas, un conjunto de acciones propio y diferente al del resto de jugadores.
+- A partir de 12 años de edad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
