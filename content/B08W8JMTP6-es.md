@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los niños pueden transformar el coche de juguete en un submarino para sumergirse en el fondo del mar y desmontar el dron para vigilar a los molestos guardias
-- También echa un vistazo al Templo del Mar Infinito (71755) y Barco de Asalto Hidro (71756)
-- Igual que en la serie de televisión NINJAGO: Seabound, los ninjas están en una batalla por amuleto de olas de juguete (incluido) para salvar la ciudad de NINJAGO de una ola gigante
-- Este juguete Ninja viene con 4 mini figuras: Scuba Jay y Scuba Cole, cada uno con aletas, para enfrentarse a 2 Maaray Guards, todos con sus armas
-- El coche de juguete anfibio tiene un dron desmontable, una cabina que se abre para colocar las mini figuras y 2 cañones para ofrecer horas de juego de rol
 - El set LEGO NINJAGO incluye vehículos 2 en 1 para niños que pueden ser un coche de juguete o un juguete submarino para aventuras acuáticas sin escalas
+- Igual que en la serie de televisión NINJAGO: Seabound, los ninjas están en una batalla por amuleto de olas de juguete (incluido) para salvar la ciudad de NINJAGO de una ola gigante
+- También echa un vistazo al Templo del Mar Infinito (71755) y Barco de Asalto Hidro (71756)
+- El coche de juguete anfibio tiene un dron desmontable, una cabina que se abre para colocar las mini figuras y 2 cañones para ofrecer horas de juego de rol
+- Este juguete Ninja viene con 4 mini figuras: Scuba Jay y Scuba Cole, cada uno con aletas, para enfrentarse a 2 Maaray Guards, todos con sus armas
+- Los niños pueden transformar el coche de juguete en un submarino para sumergirse en el fondo del mar y desmontar el dron para vigilar a los molestos guardias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
