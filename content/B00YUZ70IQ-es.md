@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment - Juego de Tronos el juego de tablero - Español'
-date: 2021-12-15 12:21:35
+date: 2021-12-21 15:38:20
 image: 'https://m.media-amazon.com/images/I/51O4bLnl+SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B00YUZ70IQ/?tag=tolees-21'
 descuento: '23.60'
-average: '48.2935294117647'
+average: '48.155'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - De 3 a 6 Jugadores
 - los jugadores toman el control de las grandes Casas de Poniente y se embarcan en una épica lucha para hacerse con el Trono de Hierro.
-- A partir de 14 Años de edad
 - ¡Reclama el Trono de Hierro y las tierras de Poniente!
+- A partir de 14 Años de edad
 - En Juego de Tronos: El Juego de Tablero, basado en la popular serie de novelas Canción de Hielo y Fuego de George R.R. Martin
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
