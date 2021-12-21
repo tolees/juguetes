@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La consola no incluye los juegos.
 - La Nintendo Switch Lite Dialga & Palkia Edition está serigrafiada con los Pokémon legendarios Dialga y Palkia pertenecientes a Pokémon Diamante Brillante y Pokémon Perla Reluciente.
+- La consola no incluye los juegos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

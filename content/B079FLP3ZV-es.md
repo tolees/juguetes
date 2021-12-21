@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pegasus Spiele Magic Maze Kids 57202G - Juego de Mesa'
-date: 2021-12-16 08:44:46
+date: 2021-12-21 09:16:40
 image: 'https://m.media-amazon.com/images/I/51r5NEpihQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pegasus Spiele'
 buyurl: 'https://www.amazon.es/dp/B079FLP3ZV/?tag=tolees-21'
 descuento: '21.29'
-average: '17.1'
+average: '17.8166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de jugadores: 2-4 jugadores
-- Duración del juego: 5 minutos
 - Juego de comunicación cooperativo sin hablar
-- Versión para principiantes de Magic Maze
-- Fácil de jugar gracias a los 11 tutoriales que transmiten la lluvia jugando
 - Juego familiar con niños a partir de 5 años
+- Versión para principiantes de Magic Maze
+- Duración del juego: 5 minutos
+- Fácil de jugar gracias a los 11 tutoriales que transmiten la lluvia jugando
+- Número de jugadores: 2-4 jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

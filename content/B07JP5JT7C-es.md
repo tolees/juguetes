@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee Just One  Idioma: Español.  JO-SP01 '
-date: 2021-12-13 11:03:43
+date: 2021-12-21 09:08:17
 image: 'https://m.media-amazon.com/images/I/51RpXI0UgkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B07JP5JT7C/?tag=tolees-21'
 descuento: '25.06'
-average: '16.5747619047618'
+average: '16.4360869565216'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Juego de mesa.
-- Just one - español.
 - Premiado como juego del año 2019
+- Just one - español.
 - A partir de 8 años.
 - De 3 a 7 jugadores.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KOSMOS - Juego de Mesa Andor Junior  BGANDJPS '
-date: 2021-12-16 08:44:15
+date: 2021-12-21 09:13:57
 image: 'https://m.media-amazon.com/images/I/51qQjwytseL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puerta introductoria a los juegos de fantasia heroica y a los juegos de mesa cooperativo
-- Comparte la primera aventura con los peques de la casa
 - Ganador del mejor juego infantil aleman
+- Comparte la primera aventura con los peques de la casa
+- Puerta introductoria a los juegos de fantasia heroica y a los juegos de mesa cooperativo
 - Número de jugadores: 2-4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
