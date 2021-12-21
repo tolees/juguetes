@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Theo Klein- Banco de Trabajo Bosch  Mail -Order   Multicolor  8513 '
-date: 2021-12-12 16:28:23
+date: 2021-12-21 19:17:35
 image: 'https://m.media-amazon.com/images/I/41eyRn-a8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B095KMTP2T-es Theo Klein- Banco de Trabajo Bosch Mail -Order Multicolor...'
 sku: 'B095KMTP2T-es'
 tags: [ 'Herramientas de juguete','Juegos de imitación','Juguetes','Juguetes y juegos','klein','theo','theo klein', ]
-actualPrice: 54.22 EUR
+actualPrice: 49.62 EUR
 currency: EUR
-price: 54.22
-comparePrice: 89.06 EUR
+price: 49.62
+comparePrice: 60.1 EUR
 prodname: 'Theo Klein- Banco de Trabajo Bosch  Mail -Order   Multicolor  8513 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Theo Klein'
 buyurl: 'https://www.amazon.es/dp/B095KMTP2T/?tag=tolees-21'
-descuento: '39.12'
-average: '61.314'
+descuento: '17.44'
+average: '58.1733333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
