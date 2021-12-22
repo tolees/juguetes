@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con luces y sonidos
-- Con dos personajes
 - Si abre las dos puertas traseras, puedes empujar la silla de ruedas en la rampa plegable en el autobús, la rampa se retira y las puertas traseras se cierran
-- Techo extraíble
+- Con luces y sonidos
 - Accesorios para recrear un verdadero lugar de bloqueo
+- Techo extraíble
+- Con dos personajes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

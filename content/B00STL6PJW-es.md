@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 '
-date: 2021-12-21 15:38:17
+date: 2021-12-22 22:03:49
 image: 'https://m.media-amazon.com/images/I/51jrQFowofL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B00STL6PJW/?tag=tolees-21'
 descuento: '24.30'
-average: '10.1063106796117'
+average: '10.1109615384616'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de habilidad visual para 2 o más personas
 - Te desafía a detectar cosas rápido
-- Deberás encontrar los objetos que la carta elegida te señale
 - 55 tarjetas de misión para un juego desafiante y divertido
+- Deberás encontrar los objetos que la carta elegida te señale
+- Juego de habilidad visual para 2 o más personas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
