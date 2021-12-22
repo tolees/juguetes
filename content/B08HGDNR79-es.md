@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juguete adecuado para niños a partir de 8 años
 - Un producto marca Transformers
+- Juguete adecuado para niños a partir de 8 años
 - Figura de acción WFC-K9 Cyclonus de Generations War for Cybertron
 - Kingdom Voyager de 17.5 cm
 

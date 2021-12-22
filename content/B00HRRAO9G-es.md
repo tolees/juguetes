@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Figuras de 6 a 10 cm
-- Desarrolla el juego imaginativo y cotidiano de los niños
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
-- Conectables y coleccionables
+- Desarrolla el juego imaginativo y cotidiano de los niños
+- Figuras de 6 a 10 cm
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
+- Conectables y coleccionables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
