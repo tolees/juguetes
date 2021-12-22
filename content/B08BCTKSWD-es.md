@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Érase Una Vez…Nuestra Tierra Juego de Mesa Educativo  Multicolor  18858 '
-date: 2021-12-21 09:16:33
+date: 2021-12-22 17:05:19
 image: 'https://m.media-amazon.com/images/I/61FRfJSX0IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un mini juego de mesa con más de 300 preguntas sobre nuestro planeta y el entorno, basado en la famosa serie Érase una vez; nuestra Tierra
 - De 2 a 4 jugadores; a partir de 6 años
-- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 - Responde las preguntas del Maestro sobre nuestro entorno para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
+- Un mini juego de mesa con más de 300 preguntas sobre nuestro planeta y el entorno, basado en la famosa serie Érase una vez; nuestra Tierra
+- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 - Más de 300 preguntas de 3 niveles diferentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
