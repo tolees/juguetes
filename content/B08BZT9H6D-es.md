@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Habilidades que desarrolla: la agilidad mental, la estrategia y el razonamiento lógico
-- Juego de mesa de dados en el que hay que elaborar una estrategia de colocación de animales para conseguir cuantos más puntos sea posible
+- Contenido: 6 cubos de animales en diferentes colores, 50 tarjetas impresas por doble cara, 5 lápices
 - Número de jugadores: el juego te permite jugar individualmente y hasta 5 personas
 - Juego de estrategia y dados óptimo para pasar una tarde con amigos y familias con niños
-- Contenido: 6 cubos de animales en diferentes colores, 50 tarjetas impresas por doble cara, 5 lápices
+- Habilidades que desarrolla: la agilidad mental, la estrategia y el razonamiento lógico
+- Juego de mesa de dados en el que hay que elaborar una estrategia de colocación de animales para conseguir cuantos más puntos sea posible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
