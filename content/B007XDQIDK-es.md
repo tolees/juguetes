@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Catan Cartas Mini De Viaje'
-date: 2021-12-22 07:55:39
+date: 2021-12-23 10:41:14
 image: 'https://m.media-amazon.com/images/I/510ggR-ELxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B007XDQIDK/?tag=tolees-21'
 descuento: '20.10'
-average: '9.33'
+average: '8.995'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Duración aproximada de la partida 30 min
-- Versión en cartas del juego de catán
 - Es un juego independiente
+- Versión en cartas del juego de catán
 - El paquete contiene 110 cartas, instrucciones y material en español.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
