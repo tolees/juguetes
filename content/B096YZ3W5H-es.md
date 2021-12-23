@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora el mundo
-- Conviértete en un héroe
 - Detén a los malos
+- Conviértete en un héroe
+- Explora el mundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

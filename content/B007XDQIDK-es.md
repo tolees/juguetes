@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Duración aproximada de la partida 30 min
 - Es un juego independiente
-- Versión en cartas del juego de catán
 - El paquete contiene 110 cartas, instrucciones y material en español.
+- Duración aproximada de la partida 30 min
+- Versión en cartas del juego de catán
 
 [🛒 Visítala!!!]({{< param buyurl >}})
