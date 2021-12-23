@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Theo Klein- Banco de Trabajo Bosch  Mail -Order   Multicolor  8513 '
-date: 2021-12-21 19:17:35
+date: 2021-12-23 01:50:51
 image: 'https://m.media-amazon.com/images/I/41eyRn-a8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Theo Klein'
 buyurl: 'https://www.amazon.es/dp/B095KMTP2T/?tag=tolees-21'
 descuento: '17.44'
-average: '58.1733333333333'
+average: '57.5153846153846'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
