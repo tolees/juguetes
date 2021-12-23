@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puedes combinar cualquier personaje en equipo y utilizar así movimientos es, por ejemplo, puedes unir a Tanjirō Kamado y Nezuko Kamado
-- Revive la historia del anime “Guardianes de la Noche: Kimetsu no Yaiba” en el modo un jugador
 - Juego al modo batalla, que permite espectaculares combates de 2 vs 2
+- Revive la historia del anime “Guardianes de la Noche: Kimetsu no Yaiba” en el modo un jugador
+- Puedes combinar cualquier personaje en equipo y utilizar así movimientos es, por ejemplo, puedes unir a Tanjirō Kamado y Nezuko Kamado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

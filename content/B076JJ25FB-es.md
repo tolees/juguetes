@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Hero Realms  juego de cartas  BGHR '
-date: 2021-12-22 14:36:12
+date: 2021-12-23 17:11:34
 image: 'https://m.media-amazon.com/images/I/61W-uMjbF1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B076JJ25FB/?tag=tolees-21'
 descuento: '20.25'
-average: '18.4593749999999'
+average: '18.3117647058823'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración: 30 minutos
 - De 1 a 4 jugadores
-- Edición en español
+- Duración: 30 minutos
 - A partir de 12 años
+- Edición en español
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

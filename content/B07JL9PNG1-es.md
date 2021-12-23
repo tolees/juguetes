@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de producto: juego de mesa
-- Duración aproximada de la partida: 45 min
 - Número de jugadores: 2 - 4
 - Juego adecuado para pasar el tiempo libre
+- Duración aproximada de la partida: 45 min
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
