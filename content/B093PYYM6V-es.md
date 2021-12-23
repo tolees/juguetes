@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - El señor de los Anillos'
-date: 2021-12-20 11:23:58
+date: 2021-12-23 15:10:35
 image: 'https://m.media-amazon.com/images/I/51FGCV6W+nS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B093PYYM6V/?tag=tolees-21'
 descuento: '20.00'
-average: '29.8257142857143'
+average: '29.6975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Número jugadores: 2-5
+- Género: aventuras
 - Un juego familiar que reproduce el viaje de Frodo
 - Edad mínima recomendada: 12+
-- Género: aventuras
-- Número jugadores: 2-5
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elementos compensadores entre partidas para que todos los jugadores tengan posibilidades hasta el final
 - Una campaña rápida, jugable en diez sesiones
-- Tiempo de juego 30-45 minutos
 - El primer juego legacy de categoría familiar, apto para todos los públicos
+- Tiempo de juego 30-45 minutos
+- Elementos compensadores entre partidas para que todos los jugadores tengan posibilidades hasta el final
 - Numero de jugadores 2-4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
