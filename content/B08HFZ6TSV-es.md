@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las piezas temáticas incluyen una toalla de colores, gafas de sol, sandalias, crema solar, tubo para bucear y un flotador de jirafa.
 - Las niñas podrán revivir sus momentos favoritos o crear divertidas historias con las muñecas y conjuntos de Barbie y Chelsea El cumpleaños perdido.
-- Este conjunto incluye una muñeca Chelsea con un bañador con estampado tropical, un adorable camaleón mascota que puede sostener y accesorios para jugar todo el día.
 - Los conjuntos y muñecas de Barbie y Chelsea El cumpleaños perdido llevan a las jóvenes más creativas hacia aventuras llenas de descubrimientos y simpáticos animalitos.
 - Perfecto para la hora del baño y divertirse jugando, este conjunto es un regalo ideal para jóvenes aventureras de 3 a 7 años.
+- Este conjunto incluye una muñeca Chelsea con un bañador con estampado tropical, un adorable camaleón mascota que puede sostener y accesorios para jugar todo el día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
