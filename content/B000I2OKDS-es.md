@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pulpo multi actividades con ocho tentáculos, cada uno con una actividad emocionante, para que el bebé explore y descubra
-- Recomendado a partir de 6 meses
 - Uno de los tentáculos esconde un espejo para jugar al escondite, el caballito de mar es un mordedor blandito, y la estrella de mar giratoria ayuda al bebé a entender el juego de causa y efecto
+- Recomendado a partir de 6 meses
 - El bebé explorará los diferentes patrones y texturas que estimulan el desarrollo del sentido del tacto y se divertirla golpeando las anillas y con el ruido de las telas arrugadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
