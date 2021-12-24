@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Duración: 40 min
+- El tablero representa la ciudad de New York
 - Viene con la isla de Manhattan como el territorio más codiciado
 - King of New York es un juego completamente creado por el mismo diseñador de King of Tokyo
 - De 2 a 6 jugadores
-- El tablero representa la ciudad de New York
-- Duración: 40 min
 
 [🛒 Comprar!!!]({{< param buyurl >}})

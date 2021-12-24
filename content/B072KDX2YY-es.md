@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Mario + Rabbids Kingdom Battle'
-date: 2021-12-23 14:33:17
+date: 2021-12-24 17:13:31
 image: 'https://m.media-amazon.com/images/I/51EFfyPHTTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B072KDX2YY/?tag=tolees-21'
 descuento: '61.65'
-average: '24.9560769230767'
+average: '24.9510485933502'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
