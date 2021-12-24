@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Tamaño del Producto】 - 28 x 14 x 15 cm. El tamaño del juguete está especialmente diseñado para niños pequeños. Un gran regalo de navidad / cumpleaños / halloween para su niño / niña. Recomendado para niños mayores de 3 años.
 - 【4 en 1 Caja Registradora Juguetes】 - Incluidos escáneres, cajas registradoras, lectores de tarjetas de crédito, máquinas expendedoras de frutas. Presione el botón de abrir y el cajón de la caja registradora se abrirá automáticamente.
 - 【Con Luces y Sonido】 - El escáner y el lector de tarjetas de la caja registradora juguetes ​pueden emitir sonidos. Requiere 2 baterías (no incluidas). Presione el botón numérico, las tres luces indicadoras pueden emitir diferentes colores. ¡Los niños estarán muy felices!
-- 【Supermercado de Juguete】 - Con una caja registradora, una cesta de la compra y varios productos, los niños pueden imitar a los clientes y al comerciante, fingir que compran cosas, pagar y disfrutar de la diversión del juego de imitación.
+- 【Tamaño del Producto】 - 28 x 14 x 15 cm. El tamaño del juguete está especialmente diseñado para niños pequeños. Un gran regalo de navidad / cumpleaños / halloween para su niño / niña. Recomendado para niños mayores de 3 años.
 - 【Juguete Educativo】 - Pretender operar un supermercado / restaurante / tienda de abarrotes. Calcule a través de actividades como comprar y vender para mejorar las habilidades matemáticas y sociales.
+- 【Supermercado de Juguete】 - Con una caja registradora, una cesta de la compra y varios productos, los niños pueden imitar a los clientes y al comerciante, fingir que compran cosas, pagar y disfrutar de la diversión del juego de imitación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
