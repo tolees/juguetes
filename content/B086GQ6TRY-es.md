@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1000
 - Rompecabezas
-- Puzzle
 - Granada con la Alhambra
+- Puzzle
+- 1000
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
