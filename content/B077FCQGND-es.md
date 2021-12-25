@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con luces y sonidos reales
-- Número de jugadores: 1+
-- El coche disparará misiles cuando tú quieras, sólo tienes que decir "¡dispara"
-- Este divertidísimo coche teledirigido te permite jugar de dos maneras distintitas: puedes guiarlo con los botones del reloj o bien puedes guiarlo con tu voz
 - Dicta al reloj los movimientos y tu coche los seguirá inmediatamente
+- Este divertidísimo coche teledirigido te permite jugar de dos maneras distintitas: puedes guiarlo con los botones del reloj o bien puedes guiarlo con tu voz
+- El coche disparará misiles cuando tú quieras, sólo tienes que decir "¡dispara"
+- Número de jugadores: 1+
 
 [🛒 Visítala!!!]({{< param buyurl >}})
