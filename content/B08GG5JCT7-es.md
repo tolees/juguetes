@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para aprender a mantener el equilibrio y la coordinación
 - La altura del manillar y del sillín se puede ajustar
 - Bicicleta resistente y cómoda sin pedales
+- Adecuada para aprender a mantener el equilibrio y la coordinación
 - Se recomienda usar en superficies planas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
