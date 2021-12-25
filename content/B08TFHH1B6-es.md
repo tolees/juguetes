@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Artículo: un
+- Tamaño del paquete: 8,0 x 21,3 x 17,5 cm
 - Figura de 7,5 cm
 - Regalo ideal para niños a partir de tres años
-- Tamaño del paquete: 8,0 x 21,3 x 17,5 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
