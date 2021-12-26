@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libellud - Dixit Odyssey original - Juego de mesa  Asmodée  DIX03ML1 '
-date: 2021-12-22 14:31:32
+date: 2021-12-26 13:29:26
 image: 'https://m.media-amazon.com/images/I/51rWR8jM-qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Libellud'
 buyurl: 'https://www.amazon.es/dp/B0114XLIDE/?tag=tolees-21'
 descuento: '20.64'
-average: '26.8378947368423'
+average: '26.8050000000002'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Versión en castellano
-- En tu turno, como narrador, elige una carta de tu mano y da una pista sobre ella (palabras, frases, canciones, etc.). Por ejemplo: “Luz”.
-- Todos los jugadores eligen de entre sus cartas, la que mejor se adapte a la pista. Baraja y revela todas las cartas elegidas.
 - Admite hasta 12 Jugadores
-- ¡Con Dixit Odyssey, encuentra toda la magia de Dixit, el juego de mesa más galardonado de los últimos años, donde tu imaginación crea increíbles historias!
+- Todos los jugadores eligen de entre sus cartas, la que mejor se adapte a la pista. Baraja y revela todas las cartas elegidas.
 - Todos los jugadores, en secreto, intentan adivinar tu carta, utilizando las fichas de voto. Una vez que todos hayan votado, ¡Comienza la ronda de puntuación!
+- En tu turno, como narrador, elige una carta de tu mano y da una pista sobre ella (palabras, frases, canciones, etc.). Por ejemplo: “Luz”.
+- ¡Con Dixit Odyssey, encuentra toda la magia de Dixit, el juego de mesa más galardonado de los últimos años, donde tu imaginación crea increíbles historias!
+- Versión en castellano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
