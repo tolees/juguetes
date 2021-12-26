@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOEY PLAY Coche Teledirigido Dinosaurios Juguetes  Monstruo RC Coches con 2 Batería Recargable  360° Rotación  Dinosaurio Control Remoto Vehículos para Niños Niñas'
-date: 2021-12-20 09:00:55
+date: 2021-12-26 20:32:45
 image: 'https://m.media-amazon.com/images/I/51J9tB8mCbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOEY PLAY'
 buyurl: 'https://www.amazon.es/dp/B08ZMWB5VW/?tag=tolees-21'
 descuento: '15.00'
-average: '37.9020689655173'
+average: '37.6866666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Coche Acrobacia de Deriva】 - Además de las funciones del coche de control remoto, también puede deriva lateralmente, deriva de 45 ° hacia adelante / atrás e izquierda / derecha, deriva lateral, rotación de 360 °. La demostración automática le mostrará las acrobacias de una manera completa.
+- 【Dinosaurio con Luz y Sonido】 - Cuando se enciende el vehículo, los ojos del dinosaurio parpadearán en rojo y harán un rugido impactante. Como un dinosaurio a punto de pelear. Recomendado para niños mayores de 8 años. Medidas coche dinosaurio: 22,5x15x15 cm.
 - 【2.4Ghz RC e 2 Baterías Recargable】 - La frecuencia de 2.4GHZ hace que la distancia precisa del control remoto sea de hasta 20 metros. Requiere 2 pilas AA (no incluidas). 2 baterías recargables permiten que el coche dinosaurio funcione durante 40-60 minutos. Los niños pueden divertirse en el jardín o en la naturaleza.
 - 【4WD RC Coche】 - El sistema 4WD le da al coche de control remoto una gran potencia. Gracias a ruedas especiales y amortiguadores de resorte, el coche rc puede caminar sobre césped y carreteras sin problemas, también puede trepar fácilmente.
-- 【Dinosaurio con Luz y Sonido】 - Cuando se enciende el vehículo, los ojos del dinosaurio parpadearán en rojo y harán un rugido impactante. Como un dinosaurio a punto de pelear. Recomendado para niños mayores de 8 años. Medidas coche dinosaurio: 22,5x15x15 cm.
 - 【Dinosaurio & Coche Teledirigido】 - La particular forma de dinosaurio, combinada con el clásico todoterreno con mando a distancia, es muy robusta. Llevará a los niños a un mundo interesante. Es un regalo perfecto para dinosaurios y amantes de coches.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

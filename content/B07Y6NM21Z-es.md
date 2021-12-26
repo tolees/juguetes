@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '8Bitdo - Mando Wireless Switch Lite Amarillo  Nintendo Switch '
-date: 2021-12-11 20:15:33
+date: 2021-12-26 19:05:25
 image: 'https://m.media-amazon.com/images/I/41DK5ZHjMrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '8Bitdo'
 buyurl: 'https://www.amazon.es/dp/B07Y6NM21Z/?tag=tolees-21'
 descuento: '37.45'
-average: '23.4766666666667'
+average: '23.005'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
