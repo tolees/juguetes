@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fantásticas mascotas que salen solas de la caja están deseando para conocer a su dueño
-- 4 modos de juego, te da besitos, salta, te pide comida y con el colgante de su collar podrás saber cómo se siente
-- Quita el envoltorio y tira de la etiqueta de la caja, el perrito cobrará vida Ladra, rasca, hace sonidos, la caja tiembla y la rompe desde dentro
 - No sabes cuál de los dos modelos te tocará
+- Quita el envoltorio y tira de la etiqueta de la caja, el perrito cobrará vida Ladra, rasca, hace sonidos, la caja tiembla y la rompe desde dentro
+- 4 modos de juego, te da besitos, salta, te pide comida y con el colgante de su collar podrás saber cómo se siente
+- Fantásticas mascotas que salen solas de la caja están deseando para conocer a su dueño
 - 101 sonidos y acciones con 3 sensores: cabeza, pecho y espalda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
