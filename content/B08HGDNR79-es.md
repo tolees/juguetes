@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Transformers War For Cybertron Voyager Cyclonus  Hasbro F06925X0 '
-date: 2021-12-22 06:40:30
+date: 2021-12-26 11:43:27
 image: 'https://m.media-amazon.com/images/I/413dwmueYcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un producto marca Transformers
-- Juguete adecuado para niños a partir de 8 años
 - Figura de acción WFC-K9 Cyclonus de Generations War for Cybertron
 - Kingdom Voyager de 17.5 cm
+- Un producto marca Transformers
+- Juguete adecuado para niños a partir de 8 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
