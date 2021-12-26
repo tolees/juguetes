@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Giochi Uniti - Juego de Mesa Fuggi Multicolor  GU519.'
-date: 2021-12-15 17:46:13
+date: 2021-12-26 08:41:05
 image: 'https://m.media-amazon.com/images/I/51-hyOEchKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado por Friedemann Friese
 - Edición totalmente italiana.
 - Un divertido juego para dos a siete jugadores.
+- Diseñado por Friedemann Friese
 - Adecuado para las noches con amigos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - Chirrut Îmwe  75524 '
-date: 2021-12-25 08:00:43
+date: 2021-12-26 08:13:39
 image: 'https://m.media-amazon.com/images/I/51PMs4UDWNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B01J41KZBO/?tag=tolees-21'
 descuento: '25.94'
-average: '22.4828787878788'
+average: '22.4456716417911'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
