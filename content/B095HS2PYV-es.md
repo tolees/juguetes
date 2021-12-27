@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 72 cartas con un divertido diseño que enamorará tanto a pequeños como a mayores. Cada partida dura unos 20 minutos y pueden jugar de 2 a 4 jugadores
 - Usa las cartas de acción para pasar las pulgas a los demás jugadores. Intenta deshacerte de las pulgas en cuanto aparezcan y vigila con la pulga veterana, ¡es imposible sacársela de encima!
 - ¿Por qué me pica todo? ¡Oh, no, las pulgas están al acecho!
 - En este divertido juego ganará el jugador que tenga menos pulgas al final de la partida
+- 72 cartas con un divertido diseño que enamorará tanto a pequeños como a mayores. Cada partida dura unos 20 minutos y pueden jugar de 2 a 4 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

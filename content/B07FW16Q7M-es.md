@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de 12 años
-- De 1 a 5 jugadores
-- Unos 90 minutos por partida
 - Esta expansión requiere el juego básico Hero Realms y de sobres de personaje
+- De 1 a 5 jugadores
+- A partir de 12 años
+- Unos 90 minutos por partida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

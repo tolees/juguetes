@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Cuántos retales y globos oculares!
-- Para 2 jugadores
-- A partir de 8 años de edad.
 - Para ganar la partida, deberás combinar hábilmente retazos de tela y elaborar una colcha con los mejores parches.
+- ¡Cuántos retales y globos oculares!
+- A partir de 8 años de edad.
+- Para 2 jugadores
 - ¡Vamos a coser una colcha hermosa y tenebrosa!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego de 2 a 6 Jugadores a partir de 10 años con una duracion de 20 minutos
 - One key es un juego ligero e ingenioso para todo tipo de jugadores
 - Además, contiene cartas maravillosamente ilustradas y con formas únicas
 - Ofrece una experiencia cooperativa e innovadora basada en la deducción y la asociación de ideas
+- Juego de 2 a 6 Jugadores a partir de 10 años con una duracion de 20 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

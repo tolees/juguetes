@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rango de edad: más de 18 años
-- Marca: Devir
-- Duración: 45 - 90 minutos
 - Idioma principal: castellano
+- Duración: 45 - 90 minutos
+- Marca: Devir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
