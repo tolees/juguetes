@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene 264 piezas
 - Para jóvenes brujas y magos a partir de 7 años
-- Auténticamente detallado
-- Contiene 4 minifiguras de Lego
 - Enseñanza de vuelo y ejercicios de Quidditch
+- Contiene 264 piezas
+- Contiene 4 minifiguras de Lego
+- Auténticamente detallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

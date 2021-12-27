@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los personajes Mii que forman el equipo tienen sus propios rasgos de personalidad, que pueden ayudar o interferir en el desarrollo del juego de diversas y alocadas maneras.
-- RPG en tono de humor, en el que el jugador crea su propio equipo a partir de los personajes Mii.
-- Gran cantidad de contenido: 14 trabajos, 20 armas, 30 prendas por trabajo, e infinidad de monstruos que combatir.
 - Crea tus personajes usando gente reconocible (familia, amigos, personalidades…) y disfruta con las desternillantes situaciones e interacciones que se dan entre los personajes.
+- RPG en tono de humor, en el que el jugador crea su propio equipo a partir de los personajes Mii.
 - Los amiibo desbloquean trajes adicionales o tickets de juego, y pueden utilizarse para importar personajes Mii.
 - La versión de Switch incluye como novedades: Un caballo que será uno más del equipo; Salidas. Los Mii podrán disfrutar de tiempo libre entre ellos con diferentes actividades; Pelucas y maquillajes adicionales; Otras mejoras de calidad de vida.
+- Los personajes Mii que forman el equipo tienen sus propios rasgos de personalidad, que pueden ayudar o interferir en el desarrollo del juego de diversas y alocadas maneras.
+- Gran cantidad de contenido: 14 trabajos, 20 armas, 30 prendas por trabajo, e infinidad de monstruos que combatir.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

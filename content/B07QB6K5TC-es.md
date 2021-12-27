@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vollgepackt mit Verbesserungen am Gameplay und entschlackter Steuerung
 - Mit 2K-Showcase, der sich auf die Geschichte hinter den Four Horsewomen/Women’s Evolution konzentriert
+- Vollgepackt mit Verbesserungen am Gameplay und entschlackter Steuerung
 - Rückkehr der 2K-Türme und Meine Karriere mti männlichen und weiblichen Charakteren
 - Mit Ihren liebsten WWE Superstars, Legenden, Hall of Famers und NXT-Speerspitze
 

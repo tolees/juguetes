@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: ‎cloruro de polivinilo
-- Casco electrónico Mandalorian
-- Marca del producto: Star Wars
 - ‎Disfruta de la experiencia Star Wars con este casco electrónico
+- Marca del producto: Star Wars
+- Casco electrónico Mandalorian
+- Material: ‎cloruro de polivinilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
