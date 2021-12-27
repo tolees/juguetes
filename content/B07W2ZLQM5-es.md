@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- BGEXIT9 Exit - Las catacumbas del Terror  Multicolor  1 '
-date: 2021-12-22 09:37:42
+date: 2021-12-27 09:21:52
 image: 'https://m.media-amazon.com/images/I/41zgN1wu-9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Devir
 - Rango de edad: más de 18 años
+- Marca: Devir
 - Duración: 45 - 90 minutos
 - Idioma principal: castellano
 

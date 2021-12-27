@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir-La Isla Prohibida Juego de mesa  Multicolor  BGISLA '
-date: 2021-12-22 08:38:08
+date: 2021-12-27 09:22:32
 image: 'https://m.media-amazon.com/images/I/51Mn7ywx+oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B007XDQX1C/?tag=tolees-21'
 descuento: '20.36'
-average: '21.929'
+average: '21.7454545454545'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad mínima recomendada de 10 años
-- La isla prohibida es un juego cooperativo familiar donde entraréis en la piel de 4 aventureros que deben recuperar los tesoros de una isla
-- Duración aproximada de la partida 30 min
 - Premio juego del año 2011
+- La isla prohibida es un juego cooperativo familiar donde entraréis en la piel de 4 aventureros que deben recuperar los tesoros de una isla
+- Edad mínima recomendada de 10 años
+- Duración aproximada de la partida 30 min
 - Temática: juego cooperativo de mesa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Hero Realms: La Perdición de Thandar  Multicolor  BGHRUI '
-date: 2021-12-20 11:31:39
+date: 2021-12-27 09:22:22
 image: 'https://m.media-amazon.com/images/I/51K8dEY8AAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07FW16Q7M/?tag=tolees-21'
 descuento: '31.43'
-average: '14.3581818181818'
+average: '14.3016666666666'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta expansión requiere el juego básico Hero Realms y de sobres de personaje
 - A partir de 12 años
 - De 1 a 5 jugadores
 - Unos 90 minutos por partida
+- Esta expansión requiere el juego básico Hero Realms y de sobres de personaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})
