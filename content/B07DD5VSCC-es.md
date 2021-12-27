@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Casillas de acción dónde aparece la ruleta, deberá girar la misma y ejecutar la acción de la casilla correspondiente
-- Juego de mesa en el que los jugadores son representados por fichas micrófono diferentes
 - Recomendado a partir de 10 años
 - El primer jugador tira el dado y avanza tantas casillas cómo indique; A continuación, debe ejecutar la acción de la casilla: casillas de paso dónde de deberá retroceder, avanzar, volver a tirar o quedarse un turno sin jugar
+- Juego de mesa en el que los jugadores son representados por fichas micrófono diferentes
+- Casillas de acción dónde aparece la ruleta, deberá girar la misma y ejecutar la acción de la casilla correspondiente
 - La meta es llegar el primero a la gran final; todos los jugadores se sitúan en la casilla de salida (la academia)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

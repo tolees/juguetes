@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: plástico
-- Los múltiples puntos de articulación permiten que los coloquen en distintas poses para exhibirla
-- Juego de dos figuras de acción representativas a The Child de la serie The Mandalorian
 - Edad recomendada: a partir de 4 años
+- Material: plástico
+- Juego de dos figuras de acción representativas a The Child de la serie The Mandalorian
+- Los múltiples puntos de articulación permiten que los coloquen en distintas poses para exhibirla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

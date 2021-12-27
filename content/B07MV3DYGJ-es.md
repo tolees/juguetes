@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El pack Mundo de Colores incluye plastilina Play-Doh para pequeñas manitas
+- Adecuado para reuniones de juegos y fiestas
 - Incluye 20 botes
 - Muchas posibilidades creativas
-- Adecuado para reuniones de juegos y fiestas
 - Moldea y da forma a la plastilina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
