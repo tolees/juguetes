@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cooperativo Local: Usa el Frasco del Homúnculo para crear una copia del personaje jugable y juega junto a un amigo.
 - Lucha con todo: Derrota a tus enemigos utilizando una variedad de armas y objetos, y dominando el fluído sistema de combate cuerpo a cuerpo.
-- Convierte a tus enemigos en aliados: Usa la Espada de Nigromante para revivir monstruos caídos y hacerlos luchar a tu lado.
-- Reúne armas y reliquias: Cada arma es diferente gracias a la generación procedimental, lo que les otorga diferentes efectos y atributos.
+- Cooperativo Local: Usa el Frasco del Homúnculo para crear una copia del personaje jugable y juega junto a un amigo.
 - Incluye DLC
+- Reúne armas y reliquias: Cada arma es diferente gracias a la generación procedimental, lo que les otorga diferentes efectos y atributos.
+- Convierte a tus enemigos en aliados: Usa la Espada de Nigromante para revivir monstruos caídos y hacerlos luchar a tu lado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
