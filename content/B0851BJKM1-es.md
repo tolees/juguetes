@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juegos de Imitación - Los niños pueden imitar el uso de varias herramientas de bricolaje por parte de su padre, desempeñar el papel de un reparador, pretender viajar para realizar tareas de mantenimiento, mejorar la capacidad de los niños para operar y satisfacer su curiosidad.
-- Tamaño del paquete: 23 * 12.5 * 11 cm. Material: alta calidad, grueso y resistente, no tóxico, insípido, seguro para niños pequeños. El tamaño de los accesorios de juguete es muy adecuado para las manos pequeñas de los niños, lo que hace que sea más fácil de sostener y más seguro para los niños.
 - Taladro de Juguetes Manual -El juguete de taladro no requiere pilas. Presione el botón negro en el mango, la broca girará y hará un ruido de perforación y aprieta rápidamente el tornillo. La broca es muy adecuada para niños pequeños, liviana y resistente.
+- Tamaño del paquete: 23 * 12.5 * 11 cm. Material: alta calidad, grueso y resistente, no tóxico, insípido, seguro para niños pequeños. El tamaño de los accesorios de juguete es muy adecuado para las manos pequeñas de los niños, lo que hace que sea más fácil de sostener y más seguro para los niños.
+- Juegos de Imitación - Los niños pueden imitar el uso de varias herramientas de bricolaje por parte de su padre, desempeñar el papel de un reparador, pretender viajar para realizar tareas de mantenimiento, mejorar la capacidad de los niños para operar y satisfacer su curiosidad.
 - Caja de Herramientas para Niños - Fácil de almacenar y transportar. Todos los accesorios se pueden poner en la caja para evitar pérdidas, lo que favorece el desarrollo de hábitos de higiene prolijos y limpios para los niños.
 - Herramientas de Bricolaje - Este conjunto de herramientas incluye todo lo que un principiante necesita. Incluyendo martillos, taladros, alicates, gafas, llaves inglesa ajustables, tornillos, tuercas, clavos y otras herramientas. Mejore la imaginación de los niños, las habilidades motoras finas.
 

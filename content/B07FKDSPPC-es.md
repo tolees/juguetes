@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Características fieles al personaje
-- Regalo óptimo de cumpleaños o celebraciones
-- Adecuada para empezar una colección de muñecas
 - Diadema y sus zapatos inspirados en la película
+- Adecuada para empezar una colección de muñecas
+- Regalo óptimo de cumpleaños o celebraciones
 - Falda y corpiño brillantes
+- Características fieles al personaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})
