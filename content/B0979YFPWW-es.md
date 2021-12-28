@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desciende al abismo
 - El enemigo de tu enemigo…
+- Desciende al abismo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

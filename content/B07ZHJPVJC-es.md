@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - DownForce  Carreras de Alto Riesgo  BGDOWNF '
-date: 2021-12-16 08:42:04
+date: 2021-12-28 10:41:04
 image: 'https://m.media-amazon.com/images/I/61LETxcFHrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 2 a 6 jugadores
+- Edad recomendada: 8+
 - Un rápido juego de carreras
 - Una mecánica original en la que se mezclan apuestas y faroleo
-- Edad recomendada: 8+
+- De 2 a 6 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf- Fortnite Sr  Hasbro E9391EU4 '
-date: 2021-12-26 11:34:18
+date: 2021-12-28 11:20:56
 image: 'https://m.media-amazon.com/images/I/41g0BIopn7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07ZYBNLM3-es Nerf- Fortnite Sr Hasbro E9391EU4'
 sku: 'B07ZYBNLM3-es'
 tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Juguetes','Juguetes y juegos','Lanzadores de espuma de juguete','hasbro','nerf', ]
-actualPrice: 21.35 EUR
+actualPrice: 15.99 EUR
 currency: EUR
-price: 21.35
+price: 15.99
 comparePrice: 25.99 EUR
 prodname: 'Nerf- Fortnite Sr  Hasbro E9391EU4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B07ZYBNLM3/?tag=tolees-21'
-descuento: '17.85'
-average: '17.8277777777778'
+descuento: '38.48'
+average: '17.644'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LANZAMIENTO CON ACCIÓN PERCUTORA DE 4 DARDOS: Este lanzador Nerf Fortnite cuenta con acción de preparación del percutor; carga 4 dardos en el lanzador, lleva hacia atrás el percutor, y luego aprieta el gatillo para lanzar 1 dardo
-- MIRA DESMONTABLE: Incluye una mira que puedes conectar y desmontar del lanzador para alinear tus lanzamientos; juega Fortnite en la vida real con el lanzador de dardos SR de Nerf Fortnite
 - RÉPLICA DEL LANZADOR DE DARDOS DE FORTNITE: El lanzador SR de Nerf Fortnite está inspirado en el lanzador que se usa en Fortnite y reproduce fielmente el aspecto de uno de los del popular videojuego
 - INCLUYE 8 DARDOS NERF: Viene con 8 dardos Nerf oficiales que han sido evaluados y probados para asegurar su rendimiento y calidad
+- MIRA DESMONTABLE: Incluye una mira que puedes conectar y desmontar del lanzador para alinear tus lanzamientos; juega Fortnite en la vida real con el lanzador de dardos SR de Nerf Fortnite
+- LANZAMIENTO CON ACCIÓN PERCUTORA DE 4 DARDOS: Este lanzador Nerf Fortnite cuenta con acción de preparación del percutor; carga 4 dardos en el lanzador, lleva hacia atrás el percutor, y luego aprieta el gatillo para lanzar 1 dardo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
