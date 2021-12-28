@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Juego de mesa Operación  Hasbro B2176B09'
-date: 2021-12-26 11:25:35
+date: 2021-12-28 20:46:50
 image: 'https://m.media-amazon.com/images/I/51Ui3iXq0VS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B00STL6W40/?tag=tolees-21'
 descuento: '24.28'
-average: '21.7565957446805'
+average: '21.7574152542369'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La nariz se ilumina cuando las pinzas tocan los laterales
 - Los niños pueden jugar solos o con amigos
-- El jugador que quite más piezas del cuerpo gana
 - El juego clásico de Operación desafía a los niños a quitar las piezas sin hacer sonar la alarma
+- El jugador que quite más piezas del cuerpo gana
+- La nariz se ilumina cuando las pinzas tocan los laterales
 - Incluye 13 piezas del cuerpo divertidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
