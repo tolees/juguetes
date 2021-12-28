@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gráficos optimizados (4K), 60 fotogramas por segundo y controles refinados; incluye un llavero de Baby Sonic de la película
-- Pon a prueba tus habilidades y enfréntate a Metal Sonic; rompe récords para desbloquear recompensas
+- Explora y aventúrate en entornos envolventes, como una Montaña Dulce llena de deliciosos dulces o un Parque de Acuarios repleto de vida marina e piscinas, todo ello centrado en un misterioso parque de atracciones
 - Transforma a Sonic aprovechando el poder alienígena de los Wisps para derrotar a los enemigos y descubrir los secretos del Parque de Atracciones Interestelar; atraviesa objetos sólidos y descubre caminos alternativos utilizando el Jade Ghost Wisp
 - MEJOR QUE NUNCA - Compatible con la nueva generación de consolas, más colorido que nunca con mejoras visuales y gráficas (4K en PlayStation Pro y Xbox ONE X o Series S), rendimiento a 60fps en PlayStation 5 y Xbox Series X gracias a la retrocompatibilidad, controles más pulidos y muchas más mejoras en la jugabilidad
+- Gráficos optimizados (4K), 60 fotogramas por segundo y controles refinados; incluye un llavero de Baby Sonic de la película
+- Pon a prueba tus habilidades y enfréntate a Metal Sonic; rompe récords para desbloquear recompensas
 - Con una velocidad que te hará subir la adrenalina, recorre mundos desafiantes y maniobra a través de peligrosos obstáculos; calcula tus ataques para cargar tu impulso y alcanzar la velocidad de Super Sonic
-- Explora y aventúrate en entornos envolventes, como una Montaña Dulce llena de deliciosos dulces o un Parque de Acuarios repleto de vida marina e piscinas, todo ello centrado en un misterioso parque de atracciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

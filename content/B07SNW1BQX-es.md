@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Muñeca de 42 cm con accesorios, es el regalo óptimo para niñas a partir de 3 años que les encanten las muñecas y las tendencias
-- Nancy Chic viaja a Nueva York es una Nancy de pelo moreno vestida con un look muy moderno y colorido, lleva shorts, camiseta blanca y una cazadora rosa Zapatillas de tendencia y calentadores
-- Incluye una maleta cool con ruedas y stickers llena de accesorios para ir de viaje como cepillo de dientes, secador, accesorios de belleza, de peinados
-- Trae billete de avión, mapa de la ciudad y pasaporte para poder crear infinidad de aventuras
 - Preciosa Nancy lista para viajar a Nueva York con el look y accesorios más bonitos
+- Trae billete de avión, mapa de la ciudad y pasaporte para poder crear infinidad de aventuras
+- Incluye una maleta cool con ruedas y stickers llena de accesorios para ir de viaje como cepillo de dientes, secador, accesorios de belleza, de peinados
+- Nancy Chic viaja a Nueva York es una Nancy de pelo moreno vestida con un look muy moderno y colorido, lleva shorts, camiseta blanca y una cazadora rosa Zapatillas de tendencia y calentadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

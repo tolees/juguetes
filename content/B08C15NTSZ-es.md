@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars- Casco electronico Mandalorian  Hasbro F0493 '
-date: 2021-12-27 13:18:02
+date: 2021-12-28 14:17:34
 image: 'https://m.media-amazon.com/images/I/31uU0e3rDhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B08C15NTSZ/?tag=tolees-21'
 descuento: '26.76'
-average: '106.914285714286'
+average: '106.36625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Casco electrónico Mandalorian
 - ‎Disfruta de la experiencia Star Wars con este casco electrónico
 - Marca del producto: Star Wars
-- Casco electrónico Mandalorian
 - Material: ‎cloruro de polivinilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
