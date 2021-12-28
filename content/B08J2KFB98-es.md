@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para hacer flores, pon la masa en el centro de la estación de trabajo y luego pon el "jarrón" en la parte superior. Empuja la palanca lateral y las flores aparecerán en el jarrón. ​
-- ¡Abre una floristería con la muñeca y conjunto de juego de Barbie! ​
-- Incluye una muñeca Barbie Florista, una estación para hacer flores, 3 colores de masa (amarillo, rosa y verde), 2 jarrones, un molde, una herramienta de limpieza y un osito de peluche para jugar y expresarse de manera creativa.
 - La muñeca Barbie Florista lleva un bonito delantal con bolsillos para las herramientas, y está lista para crear preciosos ramos para sus clientes con la máquina de hacer flores y la masa. ​
+- Incluye una muñeca Barbie Florista, una estación para hacer flores, 3 colores de masa (amarillo, rosa y verde), 2 jarrones, un molde, una herramienta de limpieza y un osito de peluche para jugar y expresarse de manera creativa.
+- ¡Abre una floristería con la muñeca y conjunto de juego de Barbie! ​
 - Usa masa de distintos colores para hacer flores diferentes, y utiliza el molde para hacer todavía más.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
