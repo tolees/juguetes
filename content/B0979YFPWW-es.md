@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - The Dark Pictures: House Of Ashes'
-date: 2021-12-13 11:28:38
+date: 2021-12-28 09:37:33
 image: 'https://m.media-amazon.com/images/I/4187HKWbWFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0979YFPWW/?tag=tolees-21'
 descuento: '22.51'
-average: '25.99'
+average: '25.79'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

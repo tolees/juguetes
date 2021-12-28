@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Returnal'
-date: 2021-12-26 10:46:58
+date: 2021-12-28 08:10:46
 image: 'https://m.media-amazon.com/images/I/516907i+waL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21'
 descuento: '39.10'
-average: '64.4044117647059'
+average: '63.956'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Texto y voces en Castellano
-- De desarrollador Housemarque
 - Compatible con PS5
+- De desarrollador Housemarque
 
 [🛒 Aquí!!!]({{< param buyurl >}})
