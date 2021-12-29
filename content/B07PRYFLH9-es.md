@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juega como marty, doc, biff o cualquiera de los otros personajes de esta icónica película
-- Duración 30 min
-- Producto de licencia oficial
 - Utiliza el delorean para viajar entre las distintas épocas
+- Juega como marty, doc, biff o cualquiera de los otros personajes de esta icónica película
 - Totalmente en castellano
+- Producto de licencia oficial
+- Duración 30 min
 
 [🛒 Comprar!!!]({{< param buyurl >}})

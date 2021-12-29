@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De 1 a 4 jugadores
+- Dificultad: avanzado
+- Idioma principal: español
 - A partir de los 12 años
 - Duración: 45-90 minutos
-- De 1 a 4 jugadores
-- Idioma principal: español
-- Dificultad: avanzado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
