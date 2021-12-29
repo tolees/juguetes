@@ -29,17 +29,17 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Indicador LED de aviso de batería baja
-- Incluye un cable de carga USB-C de 3 m
-- 2 botones de juego avanzados programables
-- 2 botones de juego avanzados programables
 - Batería de iones de litio recargable que ofrece hasta 30 horas de juego por carga
-- Disposición de botones clásica e intuitiva de Nintendo
+- 2 botones de juego avanzados programables
+- Anillas antifricción integradas para un control de palancas suave
+- Batería de iones de litio recargable: hasta 30 horas de juego por carga
 - Ergonomía superior para disfrutar de horas y horas de juego cómodamente
 - Ergonomía superior para horas y horas de juego con total comodidad
-- Anillas antifricción integradas para un control de palancas suave
-- Anillas antifricción integradas para un control de la palanca suave
-- Mando inalámbrico con tecnología Bluetooth 5.0
-- Batería de iones de litio recargable: hasta 30 horas de juego por carga
 - Toma de audio estéreo de 3,5 mm
+- Incluye un cable de carga USB-C de 3 m
+- 2 botones de juego avanzados programables
+- Disposición de botones clásica e intuitiva de Nintendo
+- Mando inalámbrico con tecnología Bluetooth 5.0
+- Anillas antifricción integradas para un control de la palanca suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

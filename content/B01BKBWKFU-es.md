@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para 2-4 jugadores, no menores de 8 años
-- Incluye una pizarra borrable, rotuladores, dos fichas, un dado, un mini reloj y 720 pistas, para llevarse Pictionary a cualquier sitio y jugar en familia y con los amigos
 - Gracias a las tarjetas para mayores y pequeños, es más fácil jugar en familia
+- Incluye una pizarra borrable, rotuladores, dos fichas, un dado, un mini reloj y 720 pistas, para llevarse Pictionary a cualquier sitio y jugar en familia y con los amigos
+- Adecuado para 2-4 jugadores, no menores de 8 años
 - El juego de mesa en el que los jugadores tienen que adivinar palabras y frases a través de dibujos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
