@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil configuración con la aplicación complementaria, compatible con PC y Xbox
-- Incluye pedales analógicos
-- Licencia oficial de Microsoft
-- 280 mm de diámetro (escala 1:1)
 - Levas de cambio secuencial en el volante
+- Incluye pedales analógicos
+- 280 mm de diámetro (escala 1:1)
+- Fácil configuración con la aplicación complementaria, compatible con PC y Xbox
+- Licencia oficial de Microsoft
 
 [🛒 Comprar!!!]({{< param buyurl >}})
