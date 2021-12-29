@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Pequeños Grandes Mechs  Multicolor  BGPGMSP '
-date: 2021-12-28 11:41:03
+date: 2021-12-29 11:53:19
 image: 'https://m.media-amazon.com/images/I/51g0NxH9HlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sigue la colección del los Pequeños Grandes
 - Llegan los meeples con accesorios
+- Sigue la colección del los Pequeños Grandes
 - Un juego de batallas furiosas con completos robots en miniatura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

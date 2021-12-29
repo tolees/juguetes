@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: El laboratorio secreto  Ed. Español  BGEXIT3 '
-date: 2021-12-22 09:37:11
+date: 2021-12-29 12:26:14
 image: 'https://m.media-amazon.com/images/I/51peC+A-5tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B074CXQW4B/?tag=tolees-21'
 descuento: '20.87'
-average: '12.1657142857142'
+average: '12.1459999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games - Baño Boom  Atrapa la Caca  Juego de mesa infantil  FWW30   versiones surtidas'
-date: 2021-12-27 19:05:42
+date: 2021-12-29 10:56:50
 image: 'https://m.media-amazon.com/images/I/31pT35AHToL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel Games'
 buyurl: 'https://www.amazon.es/dp/B079KDNLQZ/?tag=tolees-21'
 descuento: '33.14'
-average: '19.4433444816056'
+average: '19.4297666666669'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Se debe desatascar el retrete tantas veces como diga el dado
+- Cuando la caca sale volando, se debe coger cuanto antes, si la atrapas al vuelo te llevas dos fichas
 - Juego de mesa que incluye un retrete de juguete, el desatascador, el dado y caca
 - Diversión y risas aseguradas, es clave tener reacciones rápidas
-- Cuando la caca sale volando, se debe coger cuanto antes, si la atrapas al vuelo te llevas dos fichas
 - Juego de mesa de 2 a 4 jugadores, a partir de 5 años
-- Se debe desatascar el retrete tantas veces como diga el dado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
