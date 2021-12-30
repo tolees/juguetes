@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye dos modos de juego, sentado y de paseo
-- Versión española
-- Volante educativo para utilizar tanto en la silla de paseo o del coche como fuera de ella
 - Diferentes elementos para manipular, una llave para girar, un espejo, un retrovisor y una palanca de cambios entre otros
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas o pilas recargables con carga completa de alta calidad para un mejor rendimiento
-- 4 canciones y 20 melodías que enseñan palabras nuevas, antónimos y seguridad vial
 - Cuando se gira el volante se activan divertidas frases y sonidos de motor
+- Versión española
+- 4 canciones y 20 melodías que enseñan palabras nuevas, antónimos y seguridad vial
+- Volante educativo para utilizar tanto en la silla de paseo o del coche como fuera de ella
+- Incluye dos modos de juego, sentado y de paseo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
