@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mega Bloks Bolsa clásica con 60 bloques de construcción  juguetes bebés 1 año  Mattel DCH55 '
-date: 2021-12-29 02:41:05
+date: 2021-12-30 03:06:40
 image: 'https://m.media-amazon.com/images/I/51Z4pec8RJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MEGA'
 buyurl: 'https://www.amazon.es/dp/B0083F2XCW/?tag=tolees-21'
 descuento: '31.02'
-average: '12.028984375'
+average: '12.0158914728682'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
