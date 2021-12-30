@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada coche con el que corren y cada obstáculo que superan en la pista les enseña a aceptar retos y superarlos
-- Hot Wheels es más que un juguete
-- Es una herramienta que ayuda a los niños a desarrollar diferentes habilidades
 - A partir de 5 años
+- Cada coche con el que corren y cada obstáculo que superan en la pista les enseña a aceptar retos y superarlos
+- Es una herramienta que ayuda a los niños a desarrollar diferentes habilidades
+- Hot Wheels es más que un juguete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
