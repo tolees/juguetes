@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Hot Wheels Pack 50 Vehículos  coches de juguete  modelos surtidos  posibilidad de modelos duplicados   Mattel V6697 '
-date: 2021-12-27 10:43:01
+date: 2021-12-31 11:58:36
 image: 'https://m.media-amazon.com/images/I/616ha4LaxbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B003FW0YZG-es Hot Wheels Pack 50 Vehículos coches de juguete modelos...'
 sku: 'B003FW0YZG-es'
-tags: [ 'Coches y camiones de juguete','Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Vehículos de juguete para niños','hot wheels','mattel', ]
-actualPrice: 75.0 EUR
+tags: [ 'Coches y coches de carreras de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','Vehículos de juguete para niños','hot wheels','mattel', ]
+actualPrice: 79.0 EUR
 currency: EUR
-price: 75.0
+price: 79.0
 comparePrice: 99.99 EUR
 prodname: 'Hot Wheels Pack 50 Vehículos  coches de juguete  modelos surtidos  posibilidad de modelos duplicados   Mattel V6697 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hot Wheels'
 buyurl: 'https://www.amazon.es/dp/B003FW0YZG/?tag=tolees-21'
-descuento: '24.99'
-average: '73.1568421052631'
+descuento: '20.99'
+average: '73.3066666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
