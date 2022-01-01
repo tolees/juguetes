@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gira la palanca para contemplar el impecable movimiento de las alas gracias a su inteligente diseño, para dar vida a la lechuza Hedwig
 - Este set LEGO Harry Potter es un magnífico añadido a cualquier colección de LEGO Harry Potter y una idea de regalo fantástica, ya que a todo el mundo le encanta este atrevido animal de color blanco
-- Incluye una mini figura de Harry Potter desmontable vestido con los colores de Gryffindor y con una varita, y una Hedwig más pequeña con las alas extendidas
 - Expón a Hedwig en casa en toda su nevada gloria, portando una carta de Hogwarts, sobre una resistente base con una placa con la típica fuente de Harry Potter
 - Disfruta de la gran experiencia de construcción y del enorme detalle de la maqueta de Hedwig al terminarla y exponerla con sus grandes ojos redondos y dorados
+- Incluye una mini figura de Harry Potter desmontable vestido con los colores de Gryffindor y con una varita, y una Hedwig más pequeña con las alas extendidas
+- Gira la palanca para contemplar el impecable movimiento de las alas gracias a su inteligente diseño, para dar vida a la lechuza Hedwig
 
 [🛒 Aquí!!!]({{< param buyurl >}})
