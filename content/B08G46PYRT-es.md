@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31202 Art Disney’s Mickey Mouse Póster  Set de Construcción  Manualidades para Adultos  Decoración de Pared  Póster DIY'
-date: 2021-12-20 18:46:27
+date: 2022-01-01 21:31:44
 image: 'https://m.media-amazon.com/images/I/51ArrKs5TpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G46PYRT-es LEGO 31202 Art Disney’s Mickey Mouse Póster Set de...'
 sku: 'B08G46PYRT-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego', ]
-actualPrice: 101.96 EUR
+actualPrice: 84.12 EUR
 currency: EUR
-price: 101.96
+price: 84.12
 comparePrice: 119.99 EUR
 prodname: 'LEGO 31202 Art Disney’s Mickey Mouse Póster  Set de Construcción  Manualidades para Adultos  Decoración de Pared  Póster DIY'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G46PYRT/?tag=tolees-21'
-descuento: '15.03'
-average: '104.876020408162'
+descuento: '29.89'
+average: '104.669816513761'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
