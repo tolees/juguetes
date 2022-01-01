@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games UNO Deluxe  juego de cartas  Mattel K0888 '
-date: 2021-12-30 13:45:26
+date: 2022-01-01 19:43:20
 image: 'https://m.media-amazon.com/images/I/51-0eeL8HwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel Games'
 buyurl: 'https://www.amazon.es/dp/B000CFWFYM/?tag=tolees-21'
 descuento: '35.02'
-average: '14.4221739130435'
+average: '14.3625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye un mazo de 108 cartas más instrucciones y reglas de puntuación.
-- El juego viene en una colorida caja metálica
 - Recomendado para cada edad
 - Este clásico juego de cartas de 2 a 10 jugadores está pensado para que estos se desafíen entre ellos individualmente o por equipos ​
 - El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar Uno
+- El juego viene en una colorida caja metálica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
