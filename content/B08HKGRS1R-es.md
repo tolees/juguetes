@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HASBRO GAMING Juego infantil  multicolor  E9707175 '
-date: 2021-12-31 12:10:23
+date: 2022-01-01 12:36:55
 image: 'https://m.media-amazon.com/images/I/51qjsTr7IKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B08HKGRS1R/?tag=tolees-21'
 descuento: '43.77'
-average: '17.0066666666667'
+average: '16.69'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del paquete: 273.0 L x 342.9 H x 254.0 W (millimeters)
 - Marca: Hasbro Gaming
-- Peso del paquete: 2.3 kilograms
+- Dimensiones del paquete: 273.0 L x 342.9 H x 254.0 W (millimeters)
 - Cocodrilo sacamuelas lanzador
+- Peso del paquete: 2.3 kilograms
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

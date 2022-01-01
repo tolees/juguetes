@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta maqueta radiocontrol tiene un detallado motor con un ventilador del radiador giratorio, suspensión funcional en sus 4 ruedas y una caja de cambios con gran detalle
+- Por primera vez en LEGO Technic, esta maqueta tiene un bloqueo del diferencial controlado con una app LEGO gratuita para poder maniobrar el camión a través de terrenos difíciles
 - Este camión radiocontrol controlado por app de LEGO Technic se alimenta a través de 1 smart hub controlado por Bluetooth, 3 grandes motores y 1 motor de tamaño medio
+- Necesita 6 x pilas AA (no incluidas). La caja de las pilas se desconecta fácilmente, por lo que es fácil cambiarlas cuando es necesario
+- Esta maqueta radiocontrol tiene un detallado motor con un ventilador del radiador giratorio, suspensión funcional en sus 4 ruedas y una caja de cambios con gran detalle
 - La maqueta del camión todoterreno controlado por radiocontrol 4x4 Mercedes-Benz Zetros, de la serie de vehículos a motor controlados por app, está repleta de detalles auténticos
 - Es un gran set para que los adultos y los niños a partir de 12 años jueguen, y este gran kit LEGO es además una magnífica y desafiante experiencia de construcción para fans de LEGO
 - Cuenta con adhesivos con temática de carreras, 2 extintores y banderas que crean un circuito de obstáculos para poner a prueba las habilidades del camión en diferentes terrenos
-- Por primera vez en LEGO Technic, esta maqueta tiene un bloqueo del diferencial controlado con una app LEGO gratuita para poder maniobrar el camión a través de terrenos difíciles
-- Necesita 6 x pilas AA (no incluidas). La caja de las pilas se desconecta fácilmente, por lo que es fácil cambiarlas cuando es necesario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
