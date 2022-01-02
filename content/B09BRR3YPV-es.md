@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Los Pitufos Operación Vilhoja Edición Pitufísima - Nintendo Switch'
-date: 2021-12-31 12:05:12
+date: 2022-01-02 12:28:23
 image: 'https://m.media-amazon.com/images/I/51oBZRAKRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BRR3YPV-es Meridiem Games - Los Pitufos Operación Vilhoja Edición...'
 sku: 'B09BRR3YPV-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','meridiem games','nintendo', ]
-actualPrice: 27.99 EUR
+actualPrice: 35.42 EUR
 currency: EUR
-price: 27.99
+price: 35.42
 comparePrice: 49.99 EUR
 prodname: 'Meridiem Games - Los Pitufos Operación Vilhoja Edición Pitufísima - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09BRR3YPV/?tag=tolees-21'
-descuento: '44.01'
-average: '36.6271428571429'
+descuento: '29.15'
+average: '36.47625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

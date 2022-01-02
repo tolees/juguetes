@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BORRAS - Doggy Scratch. Juego de Cartas de Agilidad y Estrategia. ¡Quítate Las pulgas de Encima y GANA! A Partir de 8 años. 18868'
-date: 2021-12-27 09:19:25
+date: 2022-01-02 13:10:51
 image: 'https://m.media-amazon.com/images/I/411snFpnEIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Usa las cartas de acción para pasar las pulgas a los demás jugadores. Intenta deshacerte de las pulgas en cuanto aparezcan y vigila con la pulga veterana, ¡es imposible sacársela de encima!
-- ¿Por qué me pica todo? ¡Oh, no, las pulgas están al acecho!
 - En este divertido juego ganará el jugador que tenga menos pulgas al final de la partida
 - 72 cartas con un divertido diseño que enamorará tanto a pequeños como a mayores. Cada partida dura unos 20 minutos y pueden jugar de 2 a 4 jugadores
+- Usa las cartas de acción para pasar las pulgas a los demás jugadores. Intenta deshacerte de las pulgas en cuanto aparezcan y vigila con la pulga veterana, ¡es imposible sacársela de encima!
+- ¿Por qué me pica todo? ¡Oh, no, las pulgas están al acecho!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
