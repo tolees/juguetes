@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Asterix & Obelix Slap Them All - Limited Edition - Nintendo Switch'
-date: 2021-12-30 16:25:04
+date: 2022-01-02 14:22:31
 image: 'https://m.media-amazon.com/images/I/51unvycZ7LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09BRS3WBJ/?tag=tolees-21'
 descuento: '22.00'
-average: '44.058'
+average: '43.5972727272727'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

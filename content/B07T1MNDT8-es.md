@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gamepad Controller Powcan Mando para PC con Cable Joysticks con Doble vibracion Turbo y Botones de activacion para PS4 / PS4 Slim / PS4 Pro y PC con cable USB de 2.2 m de largo  negro  1 '
-date: 2021-12-29 11:57:44
+date: 2022-01-02 14:05:30
 image: 'https://m.media-amazon.com/images/I/41cVe+-FuSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Accesorios para PlayStation 4','Hardware y juegos para PlayStation 4','
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
-comparePrice: 21.99 EUR
+comparePrice: 19.99 EUR
 prodname: 'Gamepad Controller Powcan Mando para PC con Cable Joysticks con Doble vibracion Turbo y Botones de activacion para PS4 / PS4 Slim / PS4 Pro y PC con cable USB de 2.2 m de largo  negro  1 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Powcan'
 buyurl: 'https://www.amazon.es/dp/B07T1MNDT8/?tag=tolees-21'
-descuento: '45.48'
+descuento: '40.02'
 average: '11.99'
 ---
 

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Micrófono plegable y extraible, con espuma para cancelación de ruido
-- Compatible con: PlayStation 4, XBOX One, Nintendo Switch, PC y MAC
-- Diámetro del altavoz: 50mm
 - Cable trenzado anti enredos (1,2m), control en línea: Volumen + Mic-mute
+- Diámetro del altavoz: 50mm
 - Gran calidad de sonido, y aislamiento exterior
+- Compatible con: PlayStation 4, XBOX One, Nintendo Switch, PC y MAC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
