@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gen x games- Juego de Mesa  Color Neutro  GXG204310 '
-date: 2021-12-30 21:31:06
+date: 2022-01-02 11:09:34
 image: 'https://m.media-amazon.com/images/I/419X7xfDv9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Familiar
 - Juego de mesa
 - Duración 15 minutos
+- Familiar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
