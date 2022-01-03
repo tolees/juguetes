@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DMZ GAMES- Juego de Mesa  Color Gris  DMZ1011 '
-date: 2022-01-02 12:56:03
+date: 2022-01-03 20:48:12
 image: 'https://m.media-amazon.com/images/I/51erAr3P2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de cartas de exploración de mazmnoras
-- Number of players: De 2 a 4
 - Paqueteage Dimensiones: 4.0 L x 20.0 H x 20.0 W (centimeters)
+- Number of players: De 2 a 4
+- Juego de cartas de exploración de mazmnoras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
