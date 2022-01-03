@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proyector WiFi Bluetooth  9000lm YABER Proyector Soporte 4K Full HD 1080P Nativo Ajuste Digital 4P/4D Función de Zoom Proyector Cine en Casa para PPT  PS4  TV Stick  etc.'
-date: 2022-01-02 14:59:37
+date: 2022-01-03 15:37:01
 image: 'https://m.media-amazon.com/images/I/51Q0rurjiiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097TBT8J1-es Proyector WiFi Bluetooth 9000lm YABER Proyector Soporte 4K...'
 sku: 'B097TBT8J1-es'
 tags: [ 'Electrónica','Proyectores','TV, vídeo y home cinema','ps4','yaber', ]
-actualPrice: 203.99 EUR
+actualPrice: 205.99 EUR
 currency: EUR
-price: 203.99
+price: 205.99
 comparePrice: 268.99 EUR
 prodname: 'Proyector WiFi Bluetooth  9000lm YABER Proyector Soporte 4K Full HD 1080P Nativo Ajuste Digital 4P/4D Función de Zoom Proyector Cine en Casa para PPT  PS4  TV Stick  etc.'
 country: 'es'
 flag: '🇪🇸'
 brand: 'YABER'
 buyurl: 'https://www.amazon.es/dp/B097TBT8J1/?tag=tolees-21'
-descuento: '24.16'
-average: '271.578235294117'
+descuento: '23.42'
+average: '267.934444444444'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
