@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fur Real Friends - Furreal Friends- Peluche electrónico Mama Josie Y Sus Canguritos  Hasbro E67245L0'
-date: 2021-12-21 12:20:08
+date: 2022-01-04 12:55:26
 image: 'https://m.media-amazon.com/images/I/41eIwF+iotL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fur Real Friends'
 buyurl: 'https://www.amazon.es/dp/B07ZYCB7SJ/?tag=tolees-21'
 descuento: '66.67'
-average: '34.1988888888889'
+average: '33.778'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
