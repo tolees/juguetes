@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 2+ jugadores apto 6+ años funciona con pilas (no incluidas) el contenido del paquete incluye dos pistolas
 - Puedes competir uno contra uno o, o formar equipo con otros jugadores y competir contra el equipo rival
-- Con versus combat, podrás poner aprueba tus habilidades; protégete del los disparos con el escudo de energía, y administra tus municiones y vidas con la pantalla táctil
 - Juego de dos pistolas láser con pantalla táctil con increíbles efectos de luz y sonidos
+- Con versus combat, podrás poner aprueba tus habilidades; protégete del los disparos con el escudo de energía, y administra tus municiones y vidas con la pantalla táctil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
