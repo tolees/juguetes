@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games - Uno Super Mario  Instrucciones Sólo En Japonés '
-date: 2021-12-30 14:11:36
+date: 2022-01-04 09:14:40
 image: 'https://m.media-amazon.com/images/I/51xC2oPl-oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en España
-- Brand: Verdes
 - Producto de alta calidad
+- Brand: Verdes
+- Fabricado en España
 
 [🛒 Visítala!!!]({{< param buyurl >}})
