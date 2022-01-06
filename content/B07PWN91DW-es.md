@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Micrófono flexible
-- Compatible con PC, PS4 (stereo), PS5
-- Iluminación 7 colores + rgb flow
-- Diseño ergonómico con diadema ajustable
 - Dispositivos compatibles: Consola de videojuegos + PC/Videojuegos
+- Micrófono flexible
+- Iluminación 7 colores + rgb flow
 - Altavoces de 50mm con sonido 7.1; virtual
+- Compatible con PC, PS4 (stereo), PS5
+- Diseño ergonómico con diadema ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
