@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mochila y maletín de veterinario
-- Mascota no incluida
 - Incluye hojas de pegatinas
 - Adecuado a partir de 3 años
+- Mascota no incluida
+- Mochila y maletín de veterinario
 - Cajón extraíble con múltiples accesorios: jeringa, termómetro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
