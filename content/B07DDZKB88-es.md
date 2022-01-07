@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nintendo Switch Pokemon: Let´s Go
 - Evoli!
+- Nintendo Switch Pokemon: Let´s Go
 
 [🛒 Aquí!!!]({{< param buyurl >}})
