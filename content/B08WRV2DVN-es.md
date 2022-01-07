@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - TABLET INTERACTIVA: Una tablet interactiva de madera para descubrir la naturaleza
 - TECLAS TÁCTILES: Con 27 teclas táctiles que enseñan el alfabeto, animales, vocabulario sobre el clima, música y a contar
-- VERSIÓN ESPAÑOLA
-- CONTENIDO MUSICAL: Incluye cinco canciones y 27 melodías
-- FUNCIÓN DIDÁCTICA: Enseña a contar, letras, vocabulario, solución de problemas, música y coordinación ojo-mano
-- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
 - MÁS RESISTENTE: Resistente a los golpes gracias a los refuerzos de plástico del marco
+- CONTENIDO MUSICAL: Incluye cinco canciones y 27 melodías
+- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
+- FUNCIÓN DIDÁCTICA: Enseña a contar, letras, vocabulario, solución de problemas, música y coordinación ojo-mano
+- VERSIÓN ESPAÑOLA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
