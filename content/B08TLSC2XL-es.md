@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jurassic World Carnotaurus Super Colosal Dinosaurio articulado 60cm  figura de juguete para niños  Mattel HBY86 '
-date: 2022-01-01 09:02:06
+date: 2022-01-07 16:04:28
 image: 'https://m.media-amazon.com/images/I/516FNPjKcmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08TLSC2XL-es Jurassic World Carnotaurus Super Colosal Dinosaurio...'
 sku: 'B08TLSC2XL-es'
 tags: [ 'Figuras de dinosaurios y criaturas prehistóricas de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','jurassic world','mattel', ]
-actualPrice: 76.75 EUR
+actualPrice: 69.0 EUR
 currency: EUR
-price: 76.75
+price: 69.0
 comparePrice: 99.99 EUR
 prodname: 'Jurassic World Carnotaurus Super Colosal Dinosaurio articulado 60cm  figura de juguete para niños  Mattel HBY86 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jurassic World'
 buyurl: 'https://www.amazon.es/dp/B08TLSC2XL/?tag=tolees-21'
-descuento: '23.24'
-average: '73.4928571428571'
+descuento: '30.99'
+average: '72.93125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Abre la compuerta de la barriga para liberar a las presas que se ha comido y empezar de nuevo.
-- Los niños sacarán su instinto más salvaje con esta colosal figura de Carnotaurus capaz de engullir a minifiguras de acción enteras.
-- Es un regalo perfecto para niños a partir de 4 años, especialmente para fans de Jurassic World, los dinosaurios y los juegos de acción.
 - ¡Juega a lo GRANDE! ¡Esta gigantesca figura de dinosaurio mide 40,6CM DE ALTURA y 91CM DE LONGITUD! Su aspecto, textura y color son de lo más realistas.
+- Abre la compuerta de la barriga para liberar a las presas que se ha comido y empezar de nuevo.
+- Es un regalo perfecto para niños a partir de 4 años, especialmente para fans de Jurassic World, los dinosaurios y los juegos de acción.
+- Los niños sacarán su instinto más salvaje con esta colosal figura de Carnotaurus capaz de engullir a minifiguras de acción enteras.
 - ¡Abre el apetito de los más pequeños con la figura Carnotaurus Toro Supercolosal de Jurassic World inspirada en la serie animada Jurassic World: Campamento Cretácico!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
