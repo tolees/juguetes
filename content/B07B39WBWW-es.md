@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de jugadores: 2+
 - Tienes que ser el jugador más rápido en ver el animal que falta
 - Abre bien los ojos
 - Consigue el que más cartas para ganar
+- Número de jugadores: 2+
 
 [🛒 Comprar!!!]({{< param buyurl >}})
