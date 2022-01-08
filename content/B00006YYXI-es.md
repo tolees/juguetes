@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para niños a partir de 10 anos
-- Este juego se encuentra en la categoría Juego de roles
-- Tiempo de juego de hasta 45 minutos
 - Juego de cartas adecuado para dos a seis jugadores
+- Apto para niños a partir de 10 anos
+- Tiempo de juego de hasta 45 minutos
+- Este juego se encuentra en la categoría Juego de roles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
