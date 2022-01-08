@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: El castillo prohibido  Ed. Español  BGEXIT4    color/modelo surtido'
-date: 2022-01-07 18:08:38
+date: 2022-01-08 19:54:08
 image: 'https://m.media-amazon.com/images/I/51N9TAsHDPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07CQ1HQJL/?tag=tolees-21'
 descuento: '33.67'
-average: '11.37'
+average: '11.2607692307692'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración: 45-90 minutos
-- Dificultad: avanzado
-- Idioma principal: español
 - De 1 a 4 jugadores
+- Dificultad: avanzado
 - A partir de los 12 años
+- Idioma principal: español
+- Duración: 45-90 minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
