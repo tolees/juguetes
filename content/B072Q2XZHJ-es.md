@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de jugadores: 1
-- Juegos de mesa juegos de acción y reflejos eleven force
 - Monopoly the big bang theory (63317)
 - Entiende el mundo de las finanzas de una forma divertida
+- Juegos de mesa juegos de acción y reflejos eleven force
+- Número de jugadores: 1
 - Entrena habilidades para tu día a día
-- Incentiva tu pensamiento estratégico
 - Edición en Castellano
+- Incentiva tu pensamiento estratégico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

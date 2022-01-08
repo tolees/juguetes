@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - En Perfect Holiday compites contra otros jugadores para pasar las vacaciones más emocionantes de tu vida; durante los 7 días que estáis en el resort (equivalen a 7 rondas en la partida) hay que hacer el máximo de actividades posibles para ganar puntos
-- El juego está pensado para pasar tardes en familia o con amigos
-- Número de jugadores: de 2 a 6
-- Contenido: tablero de juego, 50 cartas de actividades (eventos, 35 monedas y 42 fichas selfie), 6 peones, 1 collar “ALOHA”, 1 pulsera “Todo incluido”, 1 visera y instrucciones del juego
 - Juego de mesa familiar en el que se recrearán unas vacaciones familiares en un resort de súper lujo
+- Contenido: tablero de juego, 50 cartas de actividades (eventos, 35 monedas y 42 fichas selfie), 6 peones, 1 collar “ALOHA”, 1 pulsera “Todo incluido”, 1 visera y instrucciones del juego
+- Número de jugadores: de 2 a 6
+- El juego está pensado para pasar tardes en familia o con amigos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
