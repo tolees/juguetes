@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Diseñado para embellecer los momentos del juego
 - Incluye kit completo de medico
-- Maletín Médico
 - Recomendado para los niños mayores de 3 años
+- Maletín Médico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
