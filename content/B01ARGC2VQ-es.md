@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Brand: Verdes
 - Producto de alta calidad
 - Fabricado en España
-- Brand: Verdes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

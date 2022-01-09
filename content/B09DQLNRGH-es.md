@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reúne tu horda: Agrupa y despliega a un grupo de hadalingos extravagantes; pequeñas criaturas mágicas a las que les puedes dar órdenes. ¡Rompe cosas, recoge botines, lucha contra enemigos, construye caminos nuevos y más!
 - Explora: Un mundo único y aislado, con siglos de sabiduría tradicional. Bosques, cavernas, costas, santuarios antiguos... El Bosque Profundo está lleno de puzles para resolver y secretos que esperan ser revelados.
-- Lucha: ¡Enfréntate a criaturas salvajes peligrosas y enemigos sobrenaturales con las habilidades únicas de tu grupo de hadalingos y tu leal aspiradora, el Cazarráfagas!
 - Recolecta y crea: ¡Recoge recursos raros como cristales mágicos, chatarra, componentes eléctricos y más para construir estructuras nuevas, objetos y mejoras!
+- Reúne tu horda: Agrupa y despliega a un grupo de hadalingos extravagantes; pequeñas criaturas mágicas a las que les puedes dar órdenes. ¡Rompe cosas, recoge botines, lucha contra enemigos, construye caminos nuevos y más!
+- Lucha: ¡Enfréntate a criaturas salvajes peligrosas y enemigos sobrenaturales con las habilidades únicas de tu grupo de hadalingos y tu leal aspiradora, el Cazarráfagas!
 - El ocaso: “¡La oscuridad es peligrosa!”; esa es una expresión frecuente entre los habitantes del Bosque Profundo, y por una buena razón. Allí acechan seres malévolos en las sombras y tal vez quieras quedarte cerca a la luz de una fogata hasta que amanezca.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
