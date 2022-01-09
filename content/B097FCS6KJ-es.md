@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bandai españa s.a Supercircuito de Carreras Pocoyó'
-date: 2022-01-05 19:15:20
+date: 2022-01-09 19:51:13
 image: 'https://m.media-amazon.com/images/I/41qEtj1V+ES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con trazado flexible para crear locos circuitos o bucles infinitos; Combina las piezas de colores
 - Además tienes accesorios para crear locos y divertidos circuitos: dos puentes diferentes, una puerta (roca/madera), una pelota y un montón de señales
-- Crea tu propio circuito de carreras con Pocoyó
-- El coche de Pocoyo tiene movimiento, luces y música de la serie
 - Más de 1,5 metros de pista para construir y crear
+- El coche de Pocoyo tiene movimiento, luces y música de la serie
+- Crea tu propio circuito de carreras con Pocoyó
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
