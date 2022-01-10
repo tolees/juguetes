@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Además, incluye una mascota osito de punto también azul
 - La figura de bebé barriguitas mide unos 15cm
 - Llegan los bebés barriguitas con la misma bonita estética que los originales de antes
+- Además, incluye una mascota osito de punto también azul
 - Set de bebé barriguitas pelón vestido con la ropa más mona junto con 2 prendas adicionales, rebequita y gorrito de color azul
 
 [🛒 Aquí!!!]({{< param buyurl >}})
