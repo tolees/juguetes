@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elimina a diversos objetivos combinando combate en distancias cortas y disparos de francotirador a distancias extremas como asesino a sueldo
 - Domina una experiencia de francotirador para expertos con un arsenal de armas y equipo moderno; vuelve a cada contrato con enfoques diferentes para completar todos los objetivos y obtener las máximas recompensas
-- Explora 5 mapas extensos ambientados en la zona más conflictiva de Oriente Medio; completa 20 contratos y diversas operaciones secundarias
-- Experimente un nuevo nivel de fidelidad con óptimas gráficos y motor de juego
 - Toma decisiones tácticas y usa el sigilo para superar los desafíos de la campaña de un jugador
+- Experimente un nuevo nivel de fidelidad con óptimas gráficos y motor de juego
+- Explora 5 mapas extensos ambientados en la zona más conflictiva de Oriente Medio; completa 20 contratos y diversas operaciones secundarias
+- Elimina a diversos objetivos combinando combate en distancias cortas y disparos de francotirador a distancias extremas como asesino a sueldo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
