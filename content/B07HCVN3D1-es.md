@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Animal Crossing: New Horizons  Nintendo Switch '
-date: 2021-12-26 12:39:03
+date: 2022-01-10 08:21:52
 image: 'https://m.media-amazon.com/images/I/51A2ITCX3QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07HCVN3D1-es Animal Crossing: New Horizons Nintendo Switch'
 sku: 'B07HCVN3D1-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
-actualPrice: 44.99 EUR
+actualPrice: 41.31 EUR
 currency: EUR
-price: 44.99
+price: 41.31
 comparePrice: 59.9 EUR
 prodname: 'Animal Crossing: New Horizons  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07HCVN3D1/?tag=tolees-21'
-descuento: '24.89'
-average: '50.925570032574'
+descuento: '31.04'
+average: '50.9485483870975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
