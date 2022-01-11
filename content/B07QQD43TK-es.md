@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para jugadores a partir de 6 años.
-- Comienza en el exitoso juego de cartas coleccionables con personajes de toda una serie Dragon Ball
-- Cuenta con tarjetas que solo se pueden encontrar en esta baraja de inicio
 - Tiempo de juego de 15 a 60 minutos
+- Adecuado para jugadores a partir de 6 años.
+- Cuenta con tarjetas que solo se pueden encontrar en esta baraja de inicio
+- Comienza en el exitoso juego de cartas coleccionables con personajes de toda una serie Dragon Ball
 - 2 jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
