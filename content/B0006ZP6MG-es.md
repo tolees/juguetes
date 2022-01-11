@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smoby- juguetes  Color naranjo/gris  xxl  Simba 5543060 '
-date: 2022-01-10 04:47:20
+date: 2022-01-11 05:14:37
 image: 'https://m.media-amazon.com/images/I/41yrLgj0sQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Smoby'
 buyurl: 'https://www.amazon.es/dp/B0006ZP6MG/?tag=tolees-21'
 descuento: '28.11'
-average: '8.5775'
+average: '8.57'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye kit completo de medico
 - Recomendado para los niños mayores de 3 años
 - Diseñado para embellecer los momentos del juego
+- Incluye kit completo de medico
 - Maletín Médico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
