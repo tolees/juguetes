@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mega Bloks Tren musical ABC  juguete de construcción para bebé + 1 año  Mattel FWK22 '
-date: 2022-01-11 04:53:27
+date: 2022-01-13 18:00:56
 image: 'https://m.media-amazon.com/images/I/41KiYTJPlBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'MEGA'
 buyurl: 'https://www.amazon.es/dp/B079KKTVSW/?tag=tolees-21'
 descuento: '25.21'
-average: '13.9680281690142'
+average: '13.9949315068494'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
