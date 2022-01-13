@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games Scrabble junior  juegos de mesa para niños  Mattel Y9669 '
-date: 2022-01-12 14:37:30
+date: 2022-01-13 21:26:49
 image: 'https://m.media-amazon.com/images/I/51+vlwznmkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel Games'
 buyurl: 'https://www.amazon.es/dp/B00E5WMF6Q/?tag=tolees-21'
 descuento: '20.17'
-average: '20.116923076923'
+average: '20.1049999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye tablero de dos caras, fichas con letras y fichas de colores
-- Juego de mesa infantil con dos niveles de dificultad
-- Juego de mesa para niñós de 2 a 4 jugadores
-- edad recomendada: 6-10 años
 - juego de mesa para formar palabras, en la opción de juego básica, los jugadores forman palabras impresas en el tablero
+- Incluye tablero de dos caras, fichas con letras y fichas de colores
+- Juego de mesa para niñós de 2 a 4 jugadores
+- Juego de mesa infantil con dos niveles de dificultad
+- edad recomendada: 6-10 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
