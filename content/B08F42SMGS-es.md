@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botón de audio para silenciar el audio o el chat a través de una toma de auriculares estéreo de 3,5 mm
 - Mando de videojuegos ergonómico con disposición de botones estándar que incluye el nuevo botón Compartir
 - Licencia oficial para Xbox Series X y S
-- Empuñadura con textura de diamante y cruceta metálica en la parte delantera
-- Toma de audio para escuchar el juego o silenciar el chat a través de una toma de auriculares estéreo de 3,5 mm
-- Cable USB extraíble de 3 m con cierre de velcro
 - Licencia oficial para Xbox Series X y S
+- Empuñadura con textura de diamante y cruceta metálica en la parte delantera
 - Mando con cable que incorpora motores de vibración doble y botones de juego avanzados programables
-- Mando con cable que incorpora motores de vibración doble y botones de juego avanzados programables
+- Botón de audio para silenciar el audio o el chat a través de una toma de auriculares estéreo de 3,5 mm
 - Cable USB extraíble de 3 m con cierre de velcro
 - Empuñadura con textura de diamante y cruceta metálica en la parte delantera
+- Mando con cable que incorpora motores de vibración doble y botones de juego avanzados programables
+- Cable USB extraíble de 3 m con cierre de velcro
+- Toma de audio para escuchar el juego o silenciar el chat a través de una toma de auriculares estéreo de 3,5 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
