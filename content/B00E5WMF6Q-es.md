@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- juego de mesa para formar palabras, en la opción de juego básica, los jugadores forman palabras impresas en el tablero
-- Incluye tablero de dos caras, fichas con letras y fichas de colores
-- Juego de mesa para niñós de 2 a 4 jugadores
 - Juego de mesa infantil con dos niveles de dificultad
 - edad recomendada: 6-10 años
+- juego de mesa para formar palabras, en la opción de juego básica, los jugadores forman palabras impresas en el tablero
+- Juego de mesa para niñós de 2 a 4 jugadores
+- Incluye tablero de dos caras, fichas con letras y fichas de colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

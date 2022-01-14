@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Inspirado en los bláster de Star Wars The Mandalorian Series: este lanzador de soldados de la muerte imperial de Nerf Star Wars está inspirado en los blásteres vistos en la serie de televisión The Mandalorian en Disney Plus
-- Sonidos de chorro láser y efectos de luz blaster: este disparador de dardos hace sonidos de explosión láser y tiene efectos de luz blaster – requiere 3 pilas AAA (no incluidas)
-- 3 dardos que brillan en la oscuridad: la pistola dispara 3 dardos seguidos y cuenta con tecnología GlowStrike que carga los dardos para hacerlos brillar en la oscuridad. Viene con 3 dardos de espuma Nerf GlowStrike
 - Soldado de la muerte imperial: los soldados de élite de la inteligencia imperial, los soldados de la muerte están encerrados en una armadura especializada de Stormtrooper con un brillo oscuro y ominoso
+- 3 dardos que brillan en la oscuridad: la pistola dispara 3 dardos seguidos y cuenta con tecnología GlowStrike que carga los dardos para hacerlos brillar en la oscuridad. Viene con 3 dardos de espuma Nerf GlowStrike
+- Sonidos de chorro láser y efectos de luz blaster: este disparador de dardos hace sonidos de explosión láser y tiene efectos de luz blaster – requiere 3 pilas AAA (no incluidas)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
