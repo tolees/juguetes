@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se conecta al conjunto de juego de centro de reparación; se vende por separado y está sujeto a disponibilidad
-- Puerta de inicio justo: aprieta, suelta y corre hacia la victoria
 - Varias zonas de entrenamiento temáticas, accesorios, ascensor para dos coches y círculo del ganador
-- Incluye un coche de plástico de Rayo McQueen a escala 1:55; los vehículos adicionales se venden por separado y están sujetos a disponibilidad
+- Se conecta al conjunto de juego de centro de reparación; se vende por separado y está sujeto a disponibilidad
 - Conjunto de carreras Rust-Eze con carreras de descenso cara a cara
+- Incluye un coche de plástico de Rayo McQueen a escala 1:55; los vehículos adicionales se venden por separado y están sujetos a disponibilidad
+- Puerta de inicio justo: aprieta, suelta y corre hacia la victoria
 
 [🛒 Aquí!!!]({{< param buyurl >}})
