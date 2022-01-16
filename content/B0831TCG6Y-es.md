@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de deporte: Ejercicio y fitness
-- Equilibra tu bici indoor en cualquier tipo de superficie gracias a sus estabilizadores.
 - Dispone de sistema de transmisión de correa Silent+ para hacer compatible hogar y deporte.
-- Bicicleta indoor con volante de inercia de 11kg
-- Ideal para definir tu figura, bajar de peso, recuperarte de una lesión, liberar estrés o mejorar tu ritmo cardíaco.
+- Equilibra tu bici indoor en cualquier tipo de superficie gracias a sus estabilizadores.
 - Disfruta de un entrenamiento cardiovascular y muscular con una misma máquina, ¡y sin salir de casa!
+- Tipo de deporte: Ejercicio y fitness
+- Ideal para definir tu figura, bajar de peso, recuperarte de una lesión, liberar estrés o mejorar tu ritmo cardíaco.
+- Bicicleta indoor con volante de inercia de 11kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

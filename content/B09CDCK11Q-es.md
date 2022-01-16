@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☛【 Control remoto】 40 metros de distancia de control remoto significa dos o tres veces más larga que otros coches de juguete. Puedes disfrutar conduciendo desde la distancia.
 - ☛【 Garantía】 Cualquier artículo vendido por OUTTUO puede ser reemplazado o reembolsado gratis dentro de los 12 meses
 - ☛【 Suficiente diversión】 El automóvil puede viajar por tierra y agua, puede moverse hacia adelante / hacia atrás, girar a la izquierda / la derecha (rotación de 360 °), responder rápidamente con gran y rápida aceleración y es fácil de operar. Jugar en la playa, el césped, ypista de carreras y el agua puede brindarte mucha diversión. Es muy ideal para niños y adultos.
-- ☛【 Batería de gran capacidad】 batería grande de 500 mAh. En el modo de conducción rápida, la batería completamente cargada puede continuar funcionando durante 15-20 minutos. En el caso de juego intermitente, puede proporcionar diversion de aproximadamente una hora .
 - ☛【 Suficiente diversión】 El automóvil puede viajar por tierra y agua, puede moverse hacia adelante / hacia atrás, girar a la izquierda / la derecha (rotación de 360 °), responder rápidamente con gran y rápida aceleración y es fácil de operar. Jugar en la playa, el césped, ypista de carreras y el agua puede brindarte mucha diversión. Es muy ideal para niños y adultos.
+- ☛【 Control remoto】 40 metros de distancia de control remoto significa dos o tres veces más larga que otros coches de juguete. Puedes disfrutar conduciendo desde la distancia.
+- ☛【 Batería de gran capacidad】 batería grande de 500 mAh. En el modo de conducción rápida, la batería completamente cargada puede continuar funcionando durante 15-20 minutos. En el caso de juego intermitente, puede proporcionar diversion de aproximadamente una hora .
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
