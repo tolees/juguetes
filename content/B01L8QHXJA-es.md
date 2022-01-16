@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Button Mapping
-- PS4 Controller add-on
-- 10ft Cable
-- LAG Free Wired Connection for Tournament Play The 10FT WIRED connection.
 - Burst fire, Rapid fire, QuickScope, Auto Run & More
+- LAG Free Wired Connection for Tournament Play The 10FT WIRED connection.
+- 10ft Cable
+- PS4 Controller add-on
+- Button Mapping
 
 [🛒 Aquí!!!]({{< param buyurl >}})
