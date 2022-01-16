@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 20 DARDOS NERF Y PORTA-DARDOS. Viene con 20 dardos de espuma Nerf Elite oficiales. El lanzador tiene almacenamiento incorporado para 10 dardos para tenerlos al alcance al hacer recargas
-- LANZAMIENTO DE DARDOS MOTORIZADO. Lanza dardos con lanzamientos motorizados. Arranca el motor y aprieta el gatillo para enviar dardos a toda velocidad por el aire a tus objetivos (requiere 4 pilas alcalinas AA, no incluidas)
-- LANZADOR NERF DINOSQUAD REX-RAMPAGE. Lánzate al combate con el poder de un T-Rex con este lanzador con increíbles detalles de dinosaurio que reproducen la apariencia de un dinosaurio Tiranosaurio Rex
 - CLIP DE 10 DARDOS Y MIRA TELESCÓPICA. Lanza 10 dardos seguidos desde este lanzador que viene con un clip de 10 dardos extraíble. El lanzador incluye una mira telescópica no extraíble para alinear tus lanzamientos
+- LANZAMIENTO DE DARDOS MOTORIZADO. Lanza dardos con lanzamientos motorizados. Arranca el motor y aprieta el gatillo para enviar dardos a toda velocidad por el aire a tus objetivos (requiere 4 pilas alcalinas AA, no incluidas)
+- 20 DARDOS NERF Y PORTA-DARDOS. Viene con 20 dardos de espuma Nerf Elite oficiales. El lanzador tiene almacenamiento incorporado para 10 dardos para tenerlos al alcance al hacer recargas
+- LANZADOR NERF DINOSQUAD REX-RAMPAGE. Lánzate al combate con el poder de un T-Rex con este lanzador con increíbles detalles de dinosaurio que reproducen la apariencia de un dinosaurio Tiranosaurio Rex
 
 [🛒 Aquí!!!]({{< param buyurl >}})
