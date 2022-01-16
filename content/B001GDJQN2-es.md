@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de jugadores: 2 jugadores
 - Contenido: 1 pecera, caja base pertenece a la pecera, 2 cañas de pescar con imán y 12 peces
 - Habilidades que desarrolla: juego de habilidad que desarrolla la habilidad visual
 - Divertido juego de mesa de acción en el que existen dos modalidades distintas
+- Número de jugadores: 2 jugadores
 - ¡Consigue ser el mejor pescador! Las cañas y peces de madera de colores son magnéticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
