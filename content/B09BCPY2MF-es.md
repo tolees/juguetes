@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stfitoh Juguetes Niños 2 3 4 5 6 7 8 Años Dinosaurios Juguetes Regalo Niño 2-8 Años Juguetes para Niños de 2-6 Años Coches de Juguetes Regalos para Niños de 2-8 Años Juguetes Niña 2-8 Años'
-date: 2022-01-15 17:45:14
+date: 2022-01-17 00:02:55
 image: 'https://m.media-amazon.com/images/I/61X2bRFM8CS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stfitoh'
 buyurl: 'https://www.amazon.es/dp/B09BCPY2MF/?tag=tolees-21'
 descuento: '32.15'
-average: '20.6742105263158'
+average: '20.6310256410257'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
