@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Nioh Collection'
-date: 2022-01-11 13:44:51
+date: 2022-01-18 09:26:04
 image: 'https://m.media-amazon.com/images/I/51JGFGLHrJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08TJV8Z7M/?tag=tolees-21'
 descuento: '50.03'
-average: '55.5132142857144'
+average: '54.4770000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre armas y habilidades letales en un sistema de combate renovado
-- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
-- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
 - Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
+- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
+- Descubre armas y habilidades letales en un sistema de combate renovado
+- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
 
 [🛒 Visítala!!!]({{< param buyurl >}})
