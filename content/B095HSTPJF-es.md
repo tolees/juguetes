@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de cartas rápido de agilidad visual y acción. Sé el primero en quedarte sin cartas y ¡gana!
-- Descarta las cartas de tu mano lo más rápido posible para quedarte sin. Deberás hacerlo siguiento la acción que marca el reverso de la carta pero ¡ojo! Algunas cartas trampa harán que te retrases
-- Recomendado a partir de los 8 años de edad
 - Suena el despertador, y aunque el cuerpo te pide seguir durmiendo, el tiempo se te echa encima y debes darte prisa
+- Recomendado a partir de los 8 años de edad
 - 96 cartas con un diseño súper divertido que encantará tanto a niños como a mayores. Cada partida dura unos 15 minutos y pueden jugar de 2 a 4 jugadores
+- Descarta las cartas de tu mano lo más rápido posible para quedarte sin. Deberás hacerlo siguiento la acción que marca el reverso de la carta pero ¡ojo! Algunas cartas trampa harán que te retrases
+- Juego de cartas rápido de agilidad visual y acción. Sé el primero en quedarte sin cartas y ¡gana!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

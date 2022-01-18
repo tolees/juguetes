@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Red doméstica con funciones de seguridad profesional: ASUS AiProtection Pro gratuito de por vida con tecnología Trend Micro, WPA3 y controles parentales para proteger tu hogar
-- Wi-Fi 6 de nueva generación: disfruta de hasta 5700 Mbps de velocidad y canales de 160 MHz con Wi-Fi 6 (802.11ax)
-- 2 Gbps de velocidad tanto por cable como por Wi-Fi: conexiones WAN agregadas de 2 Gbps, puerto de 2.5 Gbps y Wi-Fi 6
 - Compatible con ASUS AiMesh: crea una red de malla para todo el hogar utilizando routers compatibles con AiMesh
+- 2 Gbps de velocidad tanto por cable como por Wi-Fi: conexiones WAN agregadas de 2 Gbps, puerto de 2.5 Gbps y Wi-Fi 6
+- Wi-Fi 6 de nueva generación: disfruta de hasta 5700 Mbps de velocidad y canales de 160 MHz con Wi-Fi 6 (802.11ax)
 - Modo para juegos de móvil: minimiza el retardo y la latencia de los juegos móviles a través de la aplicación ASUS Router
 
 [🛒 Comprar!!!]({{< param buyurl >}})
