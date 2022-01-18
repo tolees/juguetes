@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cajón extraíble con múltiples accesorios: jeringa, termómetro
 - Adecuado a partir de 3 años
 - Mochila y maletín de veterinario
 - Incluye hojas de pegatinas
 - Mascota no incluida
-- Cajón extraíble con múltiples accesorios: jeringa, termómetro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
