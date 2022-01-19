@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Days of Wonder - Aventureros al Tren  juego de mesa  LFCABI127 '
-date: 2022-01-14 09:31:49
+date: 2022-01-19 09:40:57
 image: 'https://m.media-amazon.com/images/I/51fgiQBUNuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Days of Wonder'
 buyurl: 'https://www.amazon.es/dp/B004OE9NE2/?tag=tolees-21'
 descuento: '19.93'
-average: '36.2825'
+average: '36.1984615384615'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conecta emblemáticas ciudades europeas y desarrolla rutas ferroviarias para ganar puntos
-- De 8 años en adelante
-- Incluye Ferrys y poderosas cartas de Locomotora para cubrir rutas únicas
 - De 2 a 5 jugadores
 - De 30 a 60 minutos
+- De 8 años en adelante
+- Incluye Ferrys y poderosas cartas de Locomotora para cubrir rutas únicas
+- Conecta emblemáticas ciudades europeas y desarrolla rutas ferroviarias para ganar puntos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
