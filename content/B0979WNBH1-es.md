@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Wario Ware: Get it together'
-date: 2022-01-09 07:18:56
+date: 2022-01-19 08:16:37
 image: 'https://m.media-amazon.com/images/I/51-W6uRiirS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0979WNBH1-es Nintendo - Wario Ware: Get it together'
 sku: 'B0979WNBH1-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
-actualPrice: 34.7 EUR
+actualPrice: 40.99 EUR
 currency: EUR
-price: 34.7
+price: 40.99
 comparePrice: 49.9 EUR
 prodname: 'Nintendo - Wario Ware: Get it together'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0979WNBH1/?tag=tolees-21'
-descuento: '30.46'
-average: '41.3996'
+descuento: '17.86'
+average: '41.3838461538462'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
