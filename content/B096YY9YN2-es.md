@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Otro mundo
+- Historia cautivadora
 - Maestría en el juego
 - Combates dinámicos
-- Historia cautivadora
 
 [🛒 Visítala!!!]({{< param buyurl >}})

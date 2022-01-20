@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars Colección Retro Figura The Mandalorian  Hasbro F20195X0 '
-date: 2022-01-16 09:19:28
+date: 2022-01-20 17:15:04
 image: 'https://m.media-amazon.com/images/I/31Bh1+4KQaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B08KJJC8DN/?tag=tolees-21'
 descuento: '26.44'
-average: '12.99'
+average: '12.865'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

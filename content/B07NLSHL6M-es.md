@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IMC Toys - Versus Combat  90033 '
-date: 2022-01-16 10:31:55
+date: 2022-01-20 17:09:30
 image: 'https://m.media-amazon.com/images/I/51evOQqrpeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'IMC Toys'
 buyurl: 'https://www.amazon.es/dp/B07NLSHL6M/?tag=tolees-21'
 descuento: '50.26'
-average: '19.79'
+average: '19.7955555555556'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de dos pistolas láser con pantalla táctil con increíbles efectos de luz y sonidos
 - Con versus combat, podrás poner aprueba tus habilidades; protégete del los disparos con el escudo de energía, y administra tus municiones y vidas con la pantalla táctil
 - Puedes competir uno contra uno o, o formar equipo con otros jugadores y competir contra el equipo rival
+- Juego de dos pistolas láser con pantalla táctil con increíbles efectos de luz y sonidos
 - 2+ jugadores apto 6+ años funciona con pilas (no incluidas) el contenido del paquete incluye dos pistolas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

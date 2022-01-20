@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las figuras disponibles están inspiradas en toy story, brave (indomable), monstruos, s. A. , coco, ratatouille, del revés, up, bichos, una aventura en miniatura, buscando a nemo y los increíbles
-- Personaje favorito de pixar disfrazado de figura de alien
-- Incentiva el juego creativo
 - Artículo de pixar único y coleccionable con regalo especial
 - 7, 6 cm con traje icónico de personaje y cara de alien
+- Incentiva el juego creativo
+- Las figuras disponibles están inspiradas en toy story, brave (indomable), monstruos, s. A. , coco, ratatouille, del revés, up, bichos, una aventura en miniatura, buscando a nemo y los increíbles
+- Personaje favorito de pixar disfrazado de figura de alien
 
 [🛒 Comprar!!!]({{< param buyurl >}})
