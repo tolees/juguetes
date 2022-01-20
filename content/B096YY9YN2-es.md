@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Ni No Kuni Ii: El Renacer De Un Reino Prince’S Edition'
-date: 2022-01-17 14:37:56
+date: 2022-01-20 16:28:12
 image: 'https://m.media-amazon.com/images/I/41GOMLqFcBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B096YY9YN2/?tag=tolees-21'
 descuento: '35.49'
-average: '51.65'
+average: '50.6783333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Otro mundo
 - Maestría en el juego
 - Combates dinámicos
-- Otro mundo
 - Historia cautivadora
 
 [🛒 Visítala!!!]({{< param buyurl >}})
