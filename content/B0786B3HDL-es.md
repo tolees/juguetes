@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'StillCool Puzzles de Madera Magnético 100 Piezas  Dibujo de Animal Colorido con Placa Rompecabezas Pizarra con Caja para Niños Desde 3 Años Juguete Educativo para Regalo'
-date: 2022-01-19 20:12:41
+date: 2022-01-20 23:55:29
 image: 'https://m.media-amazon.com/images/I/51NYAlOnLTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'StillCool'
 buyurl: 'https://www.amazon.es/dp/B0786B3HDL/?tag=tolees-21'
 descuento: '33.35'
-average: '12.3813043478261'
+average: '12.3729787234043'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
