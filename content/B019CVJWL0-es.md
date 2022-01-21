@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tarjetas
 - Juego educativo que viene en Alemán
+- 1-5 jugadores
 - Caja de hojalata
 - Indicado para niños
-- Tarjetas
-- 1-5 jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

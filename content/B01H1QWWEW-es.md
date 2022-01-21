@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- poniéndolo en los LEGO - Juguetes - Pad
-- independiente de la plataforma
-- Editorial: Warner
 - operatingSystem: No hay sistema operativo
 - Podrás disfrutar de la recogida de mini figuras adicionales, vehículos, objetos y nuevo nivel
+- independiente de la plataforma
+- poniéndolo en los LEGO - Juguetes - Pad
+- Editorial: Warner
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
