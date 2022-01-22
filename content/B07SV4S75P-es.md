@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - FINAL FANTASY VII REMAKE - PlayStation 4 [Importación inglesa]'
-date: 2022-01-21 12:58:30
+date: 2022-01-22 20:02:02
 image: 'https://m.media-amazon.com/images/I/41e3-OBqI1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B07SV4S75P/?tag=tolees-21'
 descuento: '15.13'
-average: '43.282'
+average: '41.275'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
