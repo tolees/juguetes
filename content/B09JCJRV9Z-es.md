@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cada bolsa contiene 1 azulejo de cartas de mago al azar
 - Escritorio de estudio Hermione
 - LEGO Juego promocional de Harry Potter
-- Cada bolsa contiene 1 azulejo de cartas de mago al azar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
