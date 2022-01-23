@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las piezas son de cartón
-- Juego con 4 puzzles de diferente número de piezas en función de la dificultad
 - Compuestos por grandes piezas
+- Juego con 4 puzzles de diferente número de piezas en función de la dificultad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
