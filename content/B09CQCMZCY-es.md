@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dificultad: avanzado
+- Dificultad: avanzado
+- Entre 45 y 90 minutos de partida
+- De 1 a 4 jugadores
 - Duración: 45-90 minutos
+- Edad: a partir de 12 años
 - De 1 a 4 jugadores
 - A partir de los 12 años
-- Edad: a partir de 12 años
-- Dificultad: avanzado
-- De 1 a 4 jugadores
-- Entre 45 y 90 minutos de partida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
