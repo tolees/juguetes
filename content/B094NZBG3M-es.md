@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Código Secreto Disney  BGCOSEDISP '
-date: 2022-01-15 18:55:34
+date: 2022-01-24 10:05:33
 image: 'https://m.media-amazon.com/images/I/31RxCgaDkEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B094NZBG3M/?tag=tolees-21'
 descuento: '20.04'
-average: '20.0855555555556'
+average: '20.076'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

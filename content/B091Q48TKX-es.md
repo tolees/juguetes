@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Z-Man Games - Z-Man ZM022ES Games Juego de Mesa en Español'
-date: 2022-01-22 08:58:50
+date: 2022-01-24 10:07:38
 image: 'https://m.media-amazon.com/images/I/41axg1Zr+QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Z-Man Games'
 buyurl: 'https://www.amazon.es/dp/B091Q48TKX/?tag=tolees-21'
 descuento: '44.24'
-average: '36.1325'
+average: '35.596'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En este innovador juego de colocación de trabajadores, elige tus acciones con cuidado para aprovechar los limitados recursos y el tiempo de los que dispones.
-- Algo ha salido mal durante un acto de sabotaje anónimo y la nave se ha estrellado en la superficie de un planeta helado e inexplorado.
-- A partir de 14 años de edad.
 - De 2 a 4 jugadores.
+- A partir de 14 años de edad.
+- Algo ha salido mal durante un acto de sabotaje anónimo y la nave se ha estrellado en la superficie de un planeta helado e inexplorado.
 - Número de jugadores: 2-4
 - Las tensiones han ido en aumento en vuestra nave colonia.
+- En este innovador juego de colocación de trabajadores, elige tus acciones con cuidado para aprovechar los limitados recursos y el tiempo de los que dispones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
