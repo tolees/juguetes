@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ultra delgado y ligero: Fácil de sujetar con la mano. Sensación de tacto fino, ligero y bueno. El diseño exclusivo en relieve es antideslizante, duradero y elegante, y proporciona un agarre cómodo que se mantiene y se juega continuamente.
-- Alta Calidad: el estuche Switch, hecho de material de PC importado, seguro y respetuoso con el medio ambiente, sin amarilleo, resistente al desgaste, antihuellas. Para proteger la consola del interruptor hacia atrás y hacia los lados, observe la esquina, maneje el rebote y el parachoques antichoque.
-- Lo que obtiene: 1x Funda para Nintendo Switch, 1x Protector de pantalla de vidrio templado, 4x Silicona Para Pulgares.
 - Protección integral: este estuche rígido de Nintendo Switch brinda protección total para la consola principal, grips y la pantalla, para proteger perfectamente su dispositivo de caídas, golpes, rasguños, polvo y huellas dactilares diarios.
+- Ultra delgado y ligero: Fácil de sujetar con la mano. Sensación de tacto fino, ligero y bueno. El diseño exclusivo en relieve es antideslizante, duradero y elegante, y proporciona un agarre cómodo que se mantiene y se juega continuamente.
+- Lo que obtiene: 1x Funda para Nintendo Switch, 1x Protector de pantalla de vidrio templado, 4x Silicona Para Pulgares.
+- Alta Calidad: el estuche Switch, hecho de material de PC importado, seguro y respetuoso con el medio ambiente, sin amarilleo, resistente al desgaste, antihuellas. Para proteger la consola del interruptor hacia atrás y hacia los lados, observe la esquina, maneje el rebote y el parachoques antichoque.
 - Fácil de instalar y simple: Instalación perfecta perfecta, fácil de encender y apagar. Todos los recortes son de fácil acceso a todos los puertos y botones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
