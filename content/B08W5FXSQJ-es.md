@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta casa de juguete del bosque en miniatura incluye 2 mini muñecas LEGO Friends: Mia y su mamá Ann, además de una micro muñeca LEGO Friends Ava y una figura de juguete de mapache
-- El juego de aventuras de la casa del árbol LEGO Friends presenta 2 escenas separadas: una casa del árbol de 2 pisos y una escena de kayak separada
 - Los accesorios incluyen botellas de ketchup y mostaza, un perrito caliente, cámara, kayak, chaleco salvavidas y elementos de remo, además de un sofá y una barbacoa
+- Esta casa de juguete del bosque en miniatura incluye 2 mini muñecas LEGO Friends: Mia y su mamá Ann, además de una micro muñeca LEGO Friends Ava y una figura de juguete de mapache
 - La casa del bosque tiene un techo que se abre para facilitar el acceso, un área para dormir, un patio con muebles de casa de muñecas, ¡incluso un baño para mini muñecas!
+- El juego de aventuras de la casa del árbol LEGO Friends presenta 2 escenas separadas: una casa del árbol de 2 pisos y una escena de kayak separada
 - Un gran juguete para niñas y niños +6 años que aman el bosque, la naturaleza o las aventuras de la casa del árbol, lo que lo convierte en un regalo estupendo de cumpleaños o Navidad
 - Descubre otros sets de LEGO Friends: Bosque: Cascada (41677), Bosque: Autocaravana y Barco de Vela (41681) y Bosque: Centro de Equitación (41683)
 
