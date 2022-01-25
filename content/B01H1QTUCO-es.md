@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOIMSA - Bicicleta 16" Paw Patrol'
-date: 2022-01-17 20:02:28
+date: 2022-01-25 14:55:15
 image: 'https://m.media-amazon.com/images/I/51Rr0KGmBsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOIMSA'
 buyurl: 'https://www.amazon.es/dp/B01H1QTUCO/?tag=tolees-21'
 descuento: '16.51'
-average: '106.545'
+average: '106.955333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad recomendada entre 4 y 6 años
-- Accesorios: Portanúmero delantero y bidón y portabidón
-- Ruedines para mayor estabilidad
-- Altura recomendada entre 105 cm - 115 cm
 - Sillín regulable en altura
+- Accesorios: Portanúmero delantero y bidón y portabidón
+- Altura recomendada entre 105 cm - 115 cm
+- Ruedines para mayor estabilidad
+- Edad recomendada entre 4 y 6 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

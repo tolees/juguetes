@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Juego de Cartas en Español
 - Con una duración de 15 Minutos por partida
 - Juego de 2 a 8 Jugadores
 - Contiene: 55 cartas, 1 caja de latón y 1 reglamento, La serie ECO de Timeline tiene un formato más respetuoso con el medio ambiente.
-- Juego de Cartas en Español
 - Recomendado a Partir de 8 Años de Edad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
