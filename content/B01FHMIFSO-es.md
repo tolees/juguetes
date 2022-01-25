@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Unir fuerzas para desentrañar un terrible misterio!
 - Abre escenarios con muchas interacciones para darle sabor!
-- Selecciona tu dúo favorito y desencadena devastadores ataques de doble calor!
 - 2vs2 peleas y habilidades increíbles para cada personaje
+- Unir fuerzas para desentrañar un terrible misterio!
 - Más de 50 personajes de los 8 capítulos de la historia!
+- Selecciona tu dúo favorito y desencadena devastadores ataques de doble calor!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
