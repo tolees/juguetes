@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material suave con una impresión de color, construcción de malla transpirable, palma reforzado.
-- Material de calidad: cuero de microfibra (PU) 10% + lycra (Poliéster ) 40% + malla transpirable 50%
 - Guía de tallas (ancho de la mano): S: 5 cm (2-5 años ), M: 6 cm (5-8 años)
-- Cierre seguro de la correa de la muñeca con la construcción del Velcro - no se deslizan.
 - Disponible en 17 diseños coloridos para combinar con las motos y cascos Kiddimoto.
+- Material de calidad: cuero de microfibra (PU) 10% + lycra (Poliéster ) 40% + malla transpirable 50%
+- Cierre seguro de la correa de la muñeca con la construcción del Velcro - no se deslizan.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

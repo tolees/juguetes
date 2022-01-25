@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sillín regulable en altura
-- Accesorios: Portanúmero delantero y bidón y portabidón
-- Altura recomendada entre 105 cm - 115 cm
 - Ruedines para mayor estabilidad
 - Edad recomendada entre 4 y 6 años
+- Accesorios: Portanúmero delantero y bidón y portabidón
+- Sillín regulable en altura
+- Altura recomendada entre 105 cm - 115 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
