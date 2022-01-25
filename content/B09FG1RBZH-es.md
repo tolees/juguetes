@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Intelligent puzzles are interwoven with an intriguing dramatic narrative to deliver a compelling gameplay experience.
-- Unravel dark conspiracies, defeat a terrifying antagonist in this dramatic, humorous, cyberpunk thriller, which explores contemporary themes: social control, AI, and total surveillance.
-- The Steelbook Edition includes a copy of the base game, a sticker sheet, the original game soundtrack (digital) and an exclusive Steelbook.
 - A beautifully detailed, comic-book styled world, from the mind of legendary comic artist Dave Gibbons.
+- Unravel dark conspiracies, defeat a terrifying antagonist in this dramatic, humorous, cyberpunk thriller, which explores contemporary themes: social control, AI, and total surveillance.
+- Intelligent puzzles are interwoven with an intriguing dramatic narrative to deliver a compelling gameplay experience.
 - An adventure set within a dynamic world, populated by willful characters driven by motivations that the player can subvert. In combination with a unique hacking tool, multiple solutions to puzzles emerge from player choices.
+- The Steelbook Edition includes a copy of the base game, a sticker sheet, the original game soundtrack (digital) and an exclusive Steelbook.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
