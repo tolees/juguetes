@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels Pack 50 Vehículos  coches de juguete  modelos surtidos  posibilidad de modelos duplicados   Mattel V6697 '
-date: 2022-01-19 21:48:21
+date: 2022-01-26 15:55:52
 image: 'https://m.media-amazon.com/images/I/616ha4LaxbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hot Wheels'
 buyurl: 'https://www.amazon.es/dp/B003FW0YZG/?tag=tolees-21'
 descuento: '26.50'
-average: '73.3156097560975'
+average: '73.3197619047618'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

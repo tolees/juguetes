@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Adventures of Ayuma Árbol de la Sabiduría  A partir de 7 años  70801 '
-date: 2022-01-24 15:59:02
+date: 2022-01-26 15:42:07
 image: 'https://m.media-amazon.com/images/I/51XRHA9xvnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08YZ4BSQ9-es PLAYMOBIL Adventures of Ayuma Árbol de la Sabiduría A...'
 sku: 'B08YZ4BSQ9-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','playmobil', ]
-actualPrice: 29.99 EUR
+actualPrice: 27.0 EUR
 currency: EUR
-price: 29.99
+price: 27.0
 comparePrice: 79.99 EUR
 prodname: 'PLAYMOBIL Adventures of Ayuma Árbol de la Sabiduría  A partir de 7 años  70801 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B08YZ4BSQ9/?tag=tolees-21'
-descuento: '62.51'
-average: '42.6542857142857'
+descuento: '66.25'
+average: '40.6975'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
