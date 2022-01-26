@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak- Paw Mi Mascota  Regalo Glitter Present Juguete  61926531 '
-date: 2022-01-25 12:41:21
+date: 2022-01-26 18:17:29
 image: 'https://m.media-amazon.com/images/I/51akdw4fEKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bizak'
 buyurl: 'https://www.amazon.es/dp/B08BLNJXRF/?tag=tolees-21'
 descuento: '39.32'
-average: '46.9165306122449'
+average: '46.8882'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
