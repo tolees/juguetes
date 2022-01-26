@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ganas adivinando el grado de intensidad del resto de jugadores. En medio de un caos de rugidos, bailes, maullidos y cánticos, debes encontrar a alguien con el mismo nivel de intensidad que tú
-- A partir de 7 años de edad
 - Las acciones no son secretas. Todo el mundo sabe lo que están haciendo los demás. El secreto está en la intensidad con la que la interpretas en un escala de 1 a 10.
-- De 2 a 8 jugadores.
 - Cada jugador recibe una acción. Todos interpretan sus acciones al mismo tiempo.
+- De 2 a 8 jugadores.
+- A partir de 7 años de edad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para conseguirlo, necesitáis llevar a cabo una serie de pruebas médicas
-- Formáis parte de un equipo médico del hospital más importante de la zona. Vuestro objetivo es salvar la vida del paciente que acaba de entrar en la sala de urgencias ¡antes de que el tiempo se acabe
 - Producto en castellano
+- Formáis parte de un equipo médico del hospital más importante de la zona. Vuestro objetivo es salvar la vida del paciente que acaba de entrar en la sala de urgencias ¡antes de que el tiempo se acabe
 - Doctor Panic es un juego que se juega en tiempo real: no tiene turnos como los juegos de mesa clásicos. Todos los equipos y todos los jugadores juegan a la vez. Avisa a tus vecinos
+- Para conseguirlo, necesitáis llevar a cabo una serie de pruebas médicas
 - Cread equipos compensados (niños y adultos) de un máximo de 3 jugadores. Colocaos alrededor de la mesa de tal forma que los compañeros de equipo estén enfrentados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
