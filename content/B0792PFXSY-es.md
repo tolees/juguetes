@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La figura mide 12 cm aproximadamente
-- Ideal para niños de entre 4 a 8 años
 - Una figura de Barriguita disfrazada de un perrito
+- Ideal para niños de entre 4 a 8 años
 - Barriguitas cuenta con todo un mundo de juego: casas, hospitales, tiendas, coches y mucho más!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
