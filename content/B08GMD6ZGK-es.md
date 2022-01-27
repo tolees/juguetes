@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Recomendado a Partir de 10 Años de Edad
-- Juego de Cartas en Español
 - Apto para personas con daltonismo.
-- Con una duración de 30 Minutos por partida
 - Juego de 3 a 7 Jugadores
+- Con una duración de 30 Minutos por partida
+- Juego de Cartas en Español
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

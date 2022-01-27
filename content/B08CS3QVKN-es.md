@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye: Tamagotchi con carcasa espolvoreada, marco y botones; programación y personajes originales; cadena; batería incluida.
-- Cuida de tu Tamagotchi: Aliméntalo, enciende y apaga las luces, juega con él, dale medicinas, tira de la cisterna después de que use el baño, comprueba que esté sano y regáñale si te molesta cuando está feliz, alimentado y con todo limpio.
 - ¿Cómo crecerá tu Tamagotchi? Desarrolla tu Tamagotchi de huevo a adulto y comprueba qué personaje obtienes; todo depende de cómo cuides de tu mascota.
 - Incluye juego de personajes: adivina de qué manera se moverá el Tamagotchi a continuación.
 - El juguete original de los años 90 está de vuelta: La mascota virtual original de Tamagotchi que querías en 1997 está de vuelta con la programación original.
+- Cuida de tu Tamagotchi: Aliméntalo, enciende y apaga las luces, juega con él, dale medicinas, tira de la cisterna después de que use el baño, comprueba que esté sano y regáñale si te molesta cuando está feliz, alimentado y con todo limpio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

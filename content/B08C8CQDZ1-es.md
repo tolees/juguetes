@@ -31,7 +31,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - La muñeca articulada de Rena Roja lleva su traje especial, sus zapatos extraíbles, su diadema de zorro, el colgante milagroso extraíble y su arma Flauta.
 - Rena Roja mide 26 cm aproximadamente y viene acompañada por Trixx, su fiel Kwami, además de varios accesorios.
 - La muñeca articulada de Rena Roja puede doblar codos y rodillas para recrear tus posiciones de combate favoritas ¡Listas para defender París!
-- Esta increíble muñeca articulada es compatible con el Playset de la habitación de Marianette para que puedas recrear las escenas inéditas de la serie.
 - El regalo ideal para niños mayores de 4 años. ¡Colecciónalas todas!
+- Esta increíble muñeca articulada es compatible con el Playset de la habitación de Marianette para que puedas recrear las escenas inéditas de la serie.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
