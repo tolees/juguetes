@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71389 Super Mario Set de Expansión: Mundo Aéreo del Lakitu  Juguete de Construcción Coleccionable para Niños'
-date: 2022-01-27 18:19:10
+date: 2022-01-28 18:35:25
 image: 'https://m.media-amazon.com/images/I/51FWE5lJJCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWYRGD6/?tag=tolees-21'
 descuento: '26.67'
-average: '37.7050943396224'
+average: '37.6177777777775'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una plataforma nube giratoria, que se puede mover utilizando los controles deslizantes hacia delante y hacia atrás para intentar derribar al Lakitu de su nube
-- Incluye las figuras LEGO de 3 emblemáticos enemigos de Super Mario: Lakitu, un Bill Balla y un Fuzzy, que añaden un mayor desafío
-- La app gratuita LEGO Super Mario ofrece instrucciones de construcción, una plataforma segura donde los niños pueden compartir ideas, y mucho más
-- Es un fantástico regalo de cumpleaños o Navidad para peques a partir de 7 años que tengan un pack inicial de LEGO Super Mario (71360 o 71387), necesario para jugar
 - Estupendo para jugar a solas o conectarse a través de Bluetooth a la figura de LEGO Mario o Luigi de un amigo para formar un equipo de 2 jugadores y ganar monedas de bonificación
-- También tiene un bloque de tiempo, que da más tiempo a los jugadores para completar el nivel
+- Tiene una plataforma nube giratoria, que se puede mover utilizando los controles deslizantes hacia delante y hacia atrás para intentar derribar al Lakitu de su nube
 - El set de expansión: Mundo del cielo del Lakitu aporta un desafío para ganar monedas digitales al universo de construcción LEGO Super Mario de los peques hecho con ladrillos
+- También tiene un bloque de tiempo, que da más tiempo a los jugadores para completar el nivel
+- Incluye las figuras LEGO de 3 emblemáticos enemigos de Super Mario: Lakitu, un Bill Balla y un Fuzzy, que añaden un mayor desafío
+- Es un fantástico regalo de cumpleaños o Navidad para peques a partir de 7 años que tengan un pack inicial de LEGO Super Mario (71360 o 71387), necesario para jugar
+- La app gratuita LEGO Super Mario ofrece instrucciones de construcción, una plataforma segura donde los niños pueden compartir ideas, y mucho más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

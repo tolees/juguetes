@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - DETALLES AUTÉNTICOS. Este encantador muñeco de Baby Yoda con control remoto tiene la piel verde, grandes orejas y unos adorables ojos enormes. Lleva la misma túnica que en la serie "The Mandalorian".
-- 4 MODOS DE MOVIMIENTO. Este peluche de 28 cm puede seguir al niño, jugar al escondite, deambular o hacer sonidos mientras mueve la cabeza. Al activar su mano, se desata la acción de la Fuerza.
-- HORAS DE DIVERSIÓN INFINITA. Con los modos del mando a distancia de la pulsera se puede hacer que Baby Yoda, o Grogu, siga a alguien o camine con el joystick para desarrollar la imaginación del niño.
 - MOVIMIENTO POR CONTROL REMOTO. Con la pulsera con mando a distancia se puede mover a Baby Yoda, también conocido como El Niño, y hacer que emita sonidos con sus 4 modos de juego.
 - EL REGALO COLECCIONABLE PERFECTO para niños a partir de 3 años y fans de "Star Wars" y "The Mandalorian" de cualquier edad. Les encantarán los detalles realistas y los divertidos sonidos de Baby Yoda.
+- 4 MODOS DE MOVIMIENTO. Este peluche de 28 cm puede seguir al niño, jugar al escondite, deambular o hacer sonidos mientras mueve la cabeza. Al activar su mano, se desata la acción de la Fuerza.
+- HORAS DE DIVERSIÓN INFINITA. Con los modos del mando a distancia de la pulsera se puede hacer que Baby Yoda, o Grogu, siga a alguien o camine con el joystick para desarrollar la imaginación del niño.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
