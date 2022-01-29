@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LEGO Number 71202
 - Homer
+- LEGO Number 71202
 - Level Pack
 
 [🛒 Comprar!!!]({{< param buyurl >}})
