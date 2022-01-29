@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perrito con lagrimas reales
 - Dale de beber con su biberón y veras como se le inundan sus ojos, presiónale la patita y llorará de verdad
 - 22cm de altura
+- Perrito con lagrimas reales
 - Biberón y toalla incluidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
