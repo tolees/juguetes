@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de calidad
 - Material duradero
+- Producto de calidad
 - Dardos de dinosaurio: dispara en diversión mientras cargas un dardo en la parte delantera del blaster, tira hacia atrás del mango de cebado y presiona el gatillo para disparar el dardo (no requiere pilas)
 - Fácil de usar
 
