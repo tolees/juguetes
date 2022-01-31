@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Elite Disruptor  Hasbro B9837EU5 '
-date: 2022-01-27 10:12:28
+date: 2022-01-31 10:53:38
 image: 'https://m.media-amazon.com/images/I/4113A9voxSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B01MXLMEAP/?tag=tolees-21'
 descuento: '16.62'
-average: '15.2448101265822'
+average: '15.2432704402515'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tambor rotatorio de 6 dardos
-- Lanza dardos a una distancia de hasta 27 metros
 - Lanzamiento en ráfaga
 - Lanza los dardos hasta 27m
+- Lanza dardos a una distancia de hasta 27 metros
+- Tambor rotatorio de 6 dardos
 - Incluye 6 dardos Elite
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
