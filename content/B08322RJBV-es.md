@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- JENGA VERSION FORTNITE: El juego Jenga con ilustraciones, una temática y personajes inspirados en Fortnite, el popular juego en línea.
-- FANOS DE FORTNITE: Jenga: edición Fortnite es un verdadero reto para los fans de Fortnite. Un gran regalo para los jugadores o los fans de Fortnite. A partir de 8 años.
 - Un juego hasta la cumbre: el primer jugador que introduce su peón de personaje en uno de los orificios en la parte superior de la torre gana. Incluye: 45 bloques de madera maciza Jenga, soporte para montar la torre, 4 fichas de personaje, rueda (con flecha y base) y reglas del juego en francés.
-- ON ROLA, ON EMPILE, ON GRIMPA: Los jugadores accionan la rueda y siguen lo que indica la flecha (el tipo y el número de bloques que deben apilarse y el número de niveles que su personaje Fortnite debe escalar).
 - Es necesario apuntar el somier: los jugadores mueven su peón hacia arriba y los de sus oponentes hacia abajo quitando y apilando bloques. Pero si la torre cae durante la vuelta de un jugador, se eliminará.
+- JENGA VERSION FORTNITE: El juego Jenga con ilustraciones, una temática y personajes inspirados en Fortnite, el popular juego en línea.
+- ON ROLA, ON EMPILE, ON GRIMPA: Los jugadores accionan la rueda y siguen lo que indica la flecha (el tipo y el número de bloques que deben apilarse y el número de niveles que su personaje Fortnite debe escalar).
+- FANOS DE FORTNITE: Jenga: edición Fortnite es un verdadero reto para los fans de Fortnite. Un gran regalo para los jugadores o los fans de Fortnite. A partir de 8 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

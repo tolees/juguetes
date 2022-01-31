@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una Yara Desgarrada: Lucha Contra Las Tropas De Antón En El Far Cry Más Grande Hasta La Fecha A Lo Largo De Junglas, Playas Y Esperanza, La Capital De Yara
-- Potencia De Fuego Guerrillera: Sírvete De Armas Improvisadas, Vehículos Y Amigos, Los Nuevos Colmillos De Alquiler, Para Reducir El Tiránico Régimen A Cenizas
-- Far Cry 6 es compatible con la tecnología Smart Delivery: compra el juego una vez y juégalo tanto en Xbox One como en Xbox Series X cuando la consola y la versión correspondiente de Far Cry 6 estén disponibles
 - Lucha Por La Libertad: Encarna A Dani Rojas, Habitante De Yara Que Se Convertirá En Guerrillero Para Liberar Su Nación
+- Far Cry 6 es compatible con la tecnología Smart Delivery: compra el juego una vez y juégalo tanto en Xbox One como en Xbox Series X cuando la consola y la versión correspondiente de Far Cry 6 estén disponibles
+- Potencia De Fuego Guerrillera: Sírvete De Armas Improvisadas, Vehículos Y Amigos, Los Nuevos Colmillos De Alquiler, Para Reducir El Tiránico Régimen A Cenizas
+- Una Yara Desgarrada: Lucha Contra Las Tropas De Antón En El Far Cry Más Grande Hasta La Fecha A Lo Largo De Junglas, Playas Y Esperanza, La Capital De Yara
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

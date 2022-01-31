@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MEDIDAS: 112x75x40 cm (LxANxAL); Capacidad de carga: 10 kg.
 - RESISTENTE Y SEGURO: Hecho de tablero madera aglomerado maciza, se mantiene todo el árbol para gatos fuerte y estable, no tóxico y apto para mascotas.
-- TELA DE FELPA SUAVE: Cubierta con felpa suave y cómoda, este árbol de gato es un área de descanso perfecta para tus amigos peludos.
 - CENTRO TODO EN UNO: Centro de actividades para gatos de varios niveles con postes rascadores de cuerda de sisal, plataformas, cueva espaciosa, cuerda de juego y juguete divertido para un entretenimiento ilimitado.
+- TELA DE FELPA SUAVE: Cubierta con felpa suave y cómoda, este árbol de gato es un área de descanso perfecta para tus amigos peludos.
+- MEDIDAS: 112x75x40 cm (LxANxAL); Capacidad de carga: 10 kg.
 - GUARDA TUS MUEBLES: Con postes de rascado envueltos con cuerdas duraderas de sisal natural, es perfecto para que tus gatos afilen sus garras y tus muebles no se rasquen y excaven.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
