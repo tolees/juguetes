@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las alas de esta lanzadera de juguete para construir se mueven para activar los modos de aterrizaje/vuelo, y la cabina tiene espacio para 2 minifiguras y un almacén para las armas
 - El set contiene también un speeder con 2 cañones y otro speeder con un conector para un bláster que amplían las posibilidades de juego
-- Este juguete de construcción de Star Wars altamente detallado es una versión para construir con ladrillos de una lanzadera de ataque con alas ajustables de Star Wars: The Bad Batch
 - Tiene 2 cañones automáticos y una aleta dorsal que se levanta para acceder fácilmente a la cabina doble de mando para minifiguras LEGO y a la cabina trasera
+- Este juguete de construcción de Star Wars altamente detallado es una versión para construir con ladrillos de una lanzadera de ataque con alas ajustables de Star Wars: The Bad Batch
+- Las alas de esta lanzadera de juguete para construir se mueven para activar los modos de aterrizaje/vuelo, y la cabina tiene espacio para 2 minifiguras y un almacén para las armas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
