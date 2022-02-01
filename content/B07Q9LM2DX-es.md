@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Presenta 8 colores y 6 latas de cada color
+- Los niños pueden mezclar, dar forma y compartir mientras les animas a que exploren y pongan a prueba sus capacidades multisensoriales
 - Marca del producto: Play Doh
 - Incluye 48 latas de masa modeladora Play-Doh
-- Los niños pueden mezclar, dar forma y compartir mientras les animas a que exploren y pongan a prueba sus capacidades multisensoriales
-- Presenta 8 colores y 6 latas de cada color
 
 [🛒 Visítala!!!]({{< param buyurl >}})
