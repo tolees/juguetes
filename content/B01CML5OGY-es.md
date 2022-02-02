@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de juego: 15 minutos
 - Número de jugadores: 2-4
-- Dimensiones del producto: 18,3 x 3,7 x 11,5 cm
-- Tipo de producto: Juego de mesa
 - Edad mínima recomendada: 8 años
+- Dimensiones del producto: 18,3 x 3,7 x 11,5 cm
+- Tiempo de juego: 15 minutos
+- Tipo de producto: Juego de mesa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
