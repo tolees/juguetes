@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CubicFun - Pista Coches de Juguetes Niños 3 años  Circuito de Carreras Pista de Rampas Juguetes de Aventura Playsets  Garaje Coches Juguete Educativos para Desarrollo Juguetes Niños 3 4 5 6 7 8 años | 3 Coches'
-date: 2022-02-04 09:15:55
+date: 2022-02-06 16:56:23
 image: 'https://m.media-amazon.com/images/I/51I9ysPRRLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'CubicFun'
 buyurl: 'https://www.amazon.es/dp/B09MW12KQX/?tag=tolees-21'
 descuento: '15.00'
-average: '37.99'
+average: '37.4185714285714'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
