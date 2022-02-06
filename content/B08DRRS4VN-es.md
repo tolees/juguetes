@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zygomatic - Jungle Speed - Juego de Mesa en Español y Portugués'
-date: 2022-02-04 12:40:24
+date: 2022-02-05 23:51:06
 image: 'https://m.media-amazon.com/images/I/51pCESey+YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Zygomatic'
 buyurl: 'https://www.amazon.es/dp/B08DRRS4VN/?tag=tolees-21'
 descuento: '15.01'
-average: '18.6214000000002'
+average: '18.5894117647061'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuando 2 jugadores tengan dos cartas con símbolos idénticos (el color no importa), tendrá lugar un duelo, que ganará el que consiga atrapar el Tótem.
 - ¡Un top ventas ahora con un nuevo empaquetado 100% ecológico, sin plásticos y la etiqueta FSC!
 - Jungle Speed fue inventado hace alrededor de 3000 años en la Spidopotamia subtropical por los hombres de la tribu Abulú.
-- El objetivo del juego es conseguir deshacerte lo más rápido posible de todas tus cartas. El primer jugador que lo consiga será nombrado jefe Abulú.
 - Se reparten las 70 cartas lo más equitativamente posible, boca abajo, entre todos los jugadores y se coloca el Tótem en el centro de los jugadores
-- Cuando 2 jugadores tengan dos cartas con símbolos idénticos (el color no importa), tendrá lugar un duelo, que ganará el que consiga atrapar el Tótem.
+- El objetivo del juego es conseguir deshacerte lo más rápido posible de todas tus cartas. El primer jugador que lo consiga será nombrado jefe Abulú.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
