@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - El Padrino - El imperio Corleone  Edge EECMGF01 '
-date: 2022-01-29 10:11:37
+date: 2022-02-07 07:05:29
 image: 'https://m.media-amazon.com/images/I/51brFPI71YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B074CGS1NH/?tag=tolees-21'
 descuento: '45.14'
-average: '55.7419999999999'
+average: '55.4521951219511'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto en castellano
+- En El Padrino: El imperio Corleone, los jugadores controlan familias que compiten por el predominio en la Nueva York de la década de 1950
 - Manda por toda la ciudad al Don, el Consigliere, el Heredero y los Gánsteres de tu familia para que coaccionen a los negocios y consigan así los recursos ilegales que necesitas
 - Soborna a funcionarios municipales a fin de usarlos como poderosos aliados temporales
-- En El Padrino: El imperio Corleone, los jugadores controlan familias que compiten por el predominio en la Nueva York de la década de 1950
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
