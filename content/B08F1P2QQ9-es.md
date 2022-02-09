@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avengers- Mech Strike Role Play Im  Hasbro F0266EU5 '
-date: 2022-02-07 04:54:37
+date: 2022-02-08 22:59:09
 image: 'https://m.media-amazon.com/images/I/51UZTgZ4wlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Avengers'
 buyurl: 'https://www.amazon.es/dp/B08F1P2QQ9/?tag=tolees-21'
 descuento: '44.42'
-average: '18.7038461538462'
+average: '18.4392857142858'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
