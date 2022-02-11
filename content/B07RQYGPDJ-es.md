@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars - Pack Droides  Hasbro E3118EU4 '
-date: 2022-02-05 20:39:15
+date: 2022-02-11 10:42:18
 image: 'https://m.media-amazon.com/images/I/3197MkEFIWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07RQYGPDJ-es Star Wars - Pack Droides Hasbro E3118EU4'
 sku: 'B07RQYGPDJ-es'
 tags: [ 'Figuras de personas de juguete para niños','Juguetes','Juguetes y juegos','Muñecos y figuras','hasbro','star wars', ]
-actualPrice: 16.53 EUR
+actualPrice: 16.67 EUR
 currency: EUR
-price: 16.53
+price: 16.67
 comparePrice: 19.99 EUR
 prodname: 'Star Wars - Pack Droides  Hasbro E3118EU4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B07RQYGPDJ/?tag=tolees-21'
-descuento: '17.31'
-average: '17.013'
+descuento: '16.61'
+average: '16.9818181818182'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
