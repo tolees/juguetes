@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Horizon Forbidden West [PS4]'
-date: 2022-02-16 17:29:59
+date: 2022-02-17 21:27:00
 image: 'https://m.media-amazon.com/images/I/51i7jqGvERL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09FBKHJ9M/?tag=tolees-21'
 descuento: '20.00'
-average: '60.5525'
+average: '60.2841176470588'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
