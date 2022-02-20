@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dreamon Vehículo de Construcciones Juguete  Ensamblarde Excavadora Tractor con Taladro-Eléctrico Juguetes Educativos Regalos para Niños Grils 4 5 6 Años'
-date: 2022-02-19 18:48:22
+date: 2022-02-20 21:15:55
 image: 'https://m.media-amazon.com/images/I/51hDfAMAuhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dreamon'
 buyurl: 'https://www.amazon.es/dp/B08L7BBJQW/?tag=tolees-21'
 descuento: '15.01'
-average: '24.1878021978023'
+average: '24.1927173913044'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
