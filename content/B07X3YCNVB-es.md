@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye un Batwing, una figura de Batman y 4 proyectiles en forma de disco
-- Aprieta el gatillo para desplegar las alas y lanzar un proyectil, aprieta el botón para lanzar más proyectiles
-- La figura de Batman cabe en la cabina para «dirigir» la acción
-- Batman surca los cielos con el Batwing, un avión de juguete con alas de tejido
 - Para niños de 3 a 8 años
+- Incluye un Batwing, una figura de Batman y 4 proyectiles en forma de disco
+- La figura de Batman cabe en la cabina para «dirigir» la acción
+- Aprieta el gatillo para desplegar las alas y lanzar un proyectil, aprieta el botón para lanzar más proyectiles
+- Batman surca los cielos con el Batwing, un avión de juguete con alas de tejido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

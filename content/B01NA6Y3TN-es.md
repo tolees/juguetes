@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GM Games- Juego de Cartas  GDM Games GDM110 '
-date: 2022-02-16 17:13:37
+date: 2022-02-22 15:36:58
 image: 'https://m.media-amazon.com/images/I/51CBJDVK7iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GM Games'
 buyurl: 'https://www.amazon.es/dp/B01NA6Y3TN/?tag=tolees-21'
 descuento: '23.51'
-average: '16.268'
+average: '16.1790909090909'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Supervivencia
 - Asimétrico
 - Todos contra uno
-- Supervivencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
