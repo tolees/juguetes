@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Te harás un nombre cazando recompensas para los hutts, robando para los sindicatos del crimen o introduciendo mercancías de contrabando a través de las patrullas imperiales?
-- En star wars: el borde exterior, tú y tus amigos asumís el papel de cazarrecompensas, contrabandistas y mercenarios, y os disponéis a dejar huella en la galaxia
+- Establece tus coordenadas, reúne a tu tripulación y salta al hiperespacio con star wars: el borde exterior
 - Viajarás por el borde exterior en tu nave personal, contratarás a legendarios personajes de star wars para que se unan a tu tripulación e intentarás convertirte en el forajido más famoso (o infame) de la galaxia
 - Todo esto y mucho más es posible mientras te aventuras por las afueras de la galaxia conocida
-- Establece tus coordenadas, reúne a tu tripulación y salta al hiperespacio con star wars: el borde exterior
+- En star wars: el borde exterior, tú y tus amigos asumís el papel de cazarrecompensas, contrabandistas y mercenarios, y os disponéis a dejar huella en la galaxia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
