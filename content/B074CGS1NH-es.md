@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - El Padrino - El imperio Corleone  Edge EECMGF01 '
-date: 2022-02-22 08:33:31
+date: 2022-02-23 14:50:53
 image: 'https://m.media-amazon.com/images/I/51brFPI71YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B074CGS1NH/?tag=tolees-21'
 descuento: '45.14'
-average: '55.1761904761904'
+average: '54.9130232558139'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
