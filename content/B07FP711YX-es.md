@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75238 Star Wars TM Action Battle: Asalto a Endor'
-date: 2022-02-13 13:37:39
+date: 2022-02-24 12:35:52
 image: 'https://m.media-amazon.com/images/I/51xCoaIsWuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07FP711YX/?tag=tolees-21'
 descuento: '20.66'
-average: '23.5538235294118'
+average: '23.9662857142857'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye también 2 cañones y 4 misiles
-- Edad recomendada por el fabricante: 7+
-- Action Battle: Asalto a Endor
-- Número de piezas: 193
 - El juguete de construcción LEGO Star Wars basado en la batalla de Endor cuenta con una moto speeder sobre una base y un árbol para construir, ambos con un blanco
+- Número de piezas: 193
+- Action Battle: Asalto a Endor
+- Edad recomendada por el fabricante: 7+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
