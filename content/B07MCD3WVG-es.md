@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dark Souls Trilogy'
-date: 2022-02-22 18:14:09
+date: 2022-02-25 12:57:39
 image: 'https://m.media-amazon.com/images/I/51NjcLDei2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07MCD3WVG/?tag=tolees-21'
 descuento: '15.91'
-average: '39.2304347826086'
+average: '39.1370833333332'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

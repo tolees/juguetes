@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Soborna a funcionarios municipales a fin de usarlos como poderosos aliados temporales
-- Manda por toda la ciudad al Don, el Consigliere, el Heredero y los Gánsteres de tu familia para que coaccionen a los negocios y consigan así los recursos ilegales que necesitas
 - Producto en castellano
+- Manda por toda la ciudad al Don, el Consigliere, el Heredero y los Gánsteres de tu familia para que coaccionen a los negocios y consigan así los recursos ilegales que necesitas
 - En El Padrino: El imperio Corleone, los jugadores controlan familias que compiten por el predominio en la Nueva York de la década de 1950
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
