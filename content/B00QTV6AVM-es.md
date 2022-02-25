@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ein Spielbrett mit allen bekannten Orten wie das Wohnzimmer von Sheldon und Leonard, das Treppenhaus oder die Waschküche
-- Das Besondere: Es gibt 13 Sheldon Karten mit Anweisungen für einen amüsanten Spielverlauf.
-- CLUEDO The Big Bang Theory ist der R tsel Spaß für die ganze Familie. Wer ist der beste Detektiv in der Familie
-- Das CLUEDO The Big Bang Theory ist ein tolles Weihnachtsgeschenk oder Geburtstagsgeschenk für alle Fans der TV Serie, für alle selbst ernannten Nerds, Hobby Detektive und Spürnasen
 - Das CLUEDO The Big Bang Theory eignet sich für 2 bis 6 Spieler oder Teams ab 8 Jahren
+- CLUEDO The Big Bang Theory ist der R tsel Spaß für die ganze Familie. Wer ist der beste Detektiv in der Familie
+- Das Besondere: Es gibt 13 Sheldon Karten mit Anweisungen für einen amüsanten Spielverlauf.
+- Das CLUEDO The Big Bang Theory ist ein tolles Weihnachtsgeschenk oder Geburtstagsgeschenk für alle Fans der TV Serie, für alle selbst ernannten Nerds, Hobby Detektive und Spürnasen
+- Ein Spielbrett mit allen bekannten Orten wie das Wohnzimmer von Sheldon und Leonard, das Treppenhaus oder die Waschküche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

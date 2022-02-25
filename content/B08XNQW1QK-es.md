@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A return to classic survival horror - tormented Souls is a modern take on the fixed-perspective adventure
-- use anything and everything that you can find to fight back against the evils that wait in the darkness.
-- dark forces and unspeakable horrors will do everything in their power to stop Caroline getting to the truth
-- nothing is as it seems at winterlake. And when you discover a shimmering mirror in a dark corner of the mansion, your understanding of reality will be challenged in a whole new way
 - scavenge essential resources and tools, Decipher clues from long-forgotten journals, and combine it all to solve fiendish puzzles
+- use anything and everything that you can find to fight back against the evils that wait in the darkness.
+- nothing is as it seems at winterlake. And when you discover a shimmering mirror in a dark corner of the mansion, your understanding of reality will be challenged in a whole new way
+- dark forces and unspeakable horrors will do everything in their power to stop Caroline getting to the truth
+- A return to classic survival horror - tormented Souls is a modern take on the fixed-perspective adventure
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
