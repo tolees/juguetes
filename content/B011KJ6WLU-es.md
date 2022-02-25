@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Retevis RT388 Walkie Talkie Niño  8 Canales Linterna VOX  Juguetes de 3 a 12 Años  Regalos para Niño en Vacaciones  Juegos Familiares  Recorridos en Bicicleta  Excursión 1 par  Azul Oscuro '
-date: 2022-02-24 10:47:48
+date: 2022-02-25 15:44:41
 image: 'https://m.media-amazon.com/images/I/51+KDq4EZsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Retevis'
 buyurl: 'https://www.amazon.es/dp/B011KJ6WLU/?tag=tolees-21'
 descuento: '15.01'
-average: '19.35'
+average: '19.24'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
