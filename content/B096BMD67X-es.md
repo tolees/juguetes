@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Spiritfarer - Nintendo Switch'
-date: 2022-02-16 19:26:37
+date: 2022-02-26 07:44:19
 image: 'https://m.media-amazon.com/images/I/41x8zFclfkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096BMD67X-es Meridiem Games - Spiritfarer - Nintendo Switch'
 sku: 'B096BMD67X-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','meridiem games','nintendo', ]
-actualPrice: 24.64 EUR
+actualPrice: 22.95 EUR
 currency: EUR
-price: 24.64
+price: 22.95
 comparePrice: 34.99 EUR
 prodname: 'Meridiem Games - Spiritfarer - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B096BMD67X/?tag=tolees-21'
-descuento: '29.58'
-average: '28.312'
+descuento: '34.41'
+average: '27.8245454545455'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
