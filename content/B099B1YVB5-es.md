@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Team Sonic Racing 30Th Anniversary Edition  Nintendo Switch '
-date: 2022-02-25 16:40:17
+date: 2022-02-27 10:44:09
 image: 'https://m.media-amazon.com/images/I/51pPmvgN2ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B099B1YVB5/?tag=tolees-21'
 descuento: '22.62'
-average: '31.1914285714286'
+average: '30.5175'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Plants vs. Zombies Battle for Neighborville Edición Completa'
-date: 2022-02-24 19:40:12
+date: 2022-02-27 10:53:30
 image: 'https://m.media-amazon.com/images/I/51vjbI0vd+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08X7Y4GYD/?tag=tolees-21'
 descuento: '51.48'
-average: '27.1914583333331'
+average: '27.0424489795916'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
