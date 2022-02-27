@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones: 52,2 x 46,1 x 70,7 cm.
-- Incluye multitud de accesorios médicos, gato de peluche y hámster de peluche
-- Rueda de correr para el hámster
+- Hecho en Francia.
 - Ducha de mano y lavabo que puede llenarse de agua
 - A partir de 3 años.
+- Dimensiones: 52,2 x 46,1 x 70,7 cm.
+- Incluye multitud de accesorios médicos, gato de peluche y hámster de peluche
 - Gran set de juego de clínica veterinaria Smoby con zona para examinar al animalito y zona de lavado
-- Hecho en Francia.
+- Rueda de correr para el hámster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
