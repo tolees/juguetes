@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ergómetro fácil de usar para hombres, mujeres y personas mayores
 - Usuarios hasta 100 kg; material: 80% metal, 20% plástico; medida: An x P x Al 74 x 41 x 111 cm; color: negro mate
+- Ergómetro fácil de usar para hombres, mujeres y personas mayores
 - Utilizando la bicicleta fitness con sus 8 niveles individuales se puede fortalecer el sistema cardiovascular
 - Bicicleta estática plegable, 8 niveles, fácil de montar y plegar; la original, desarrollada por el líder del mercado
 - El ordenador y la App muestran el tiempo, la velocidad, la distancia, las calorías y las pulsaciones

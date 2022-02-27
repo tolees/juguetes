@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sólo tienes que consultar los precios en el tablón de menús y esperar tu comida en la mesa
-- Come algo para llevar
-- Pide en el mostrador un delicioso perrito caliente o una hamburguesa
 - En un práctico estuche para llevar, este juego es perfecto para divertirse fuera de casa
+- Come algo para llevar
 - Basta con abrir los dos laterales y abatir las placas de la base para descubrir la zona de juego
+- Pide en el mostrador un delicioso perrito caliente o una hamburguesa
+- Sólo tienes que consultar los precios en el tablón de menús y esperar tu comida en la mesa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

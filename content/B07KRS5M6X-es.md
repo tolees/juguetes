@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El ordenador y la App muestran el tiempo, la velocidad, la distancia, las calorías y las pulsaciones
 - Bicicleta estática plegable, 8 niveles, fácil de montar y plegar; la original, desarrollada por el líder del mercado
 - Ergómetro fácil de usar para hombres, mujeres y personas mayores
-- El ordenador y la App muestran el tiempo, la velocidad, la distancia, las calorías y las pulsaciones
 - Usuarios hasta 100 kg; material: 80% metal, 20% plástico; medida: An x P x Al 74 x 41 x 111 cm; color: negro mate
 - Utilizando la bicicleta fitness con sus 8 niveles individuales se puede fortalecer el sistema cardiovascular
 

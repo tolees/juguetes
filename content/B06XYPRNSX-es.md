@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A lo largo de la partida, los jugadores irán cogiendo fichas de oro y piedras preciosas, con las que podrán adquirir cartas de desarrollo.
-- De 2 a 4 Jugadores. A partir de 10 años de edad.
 - En Splendor, interpretas a un rico mercader del Renacimiento.
+- De 2 a 4 Jugadores. A partir de 10 años de edad.
 - Dichas cartas otorgan puntos de prestigio y bonus, los cuales permiten adquirir las siguientes cartas de desarrollo a un precio menor.
+- A lo largo de la partida, los jugadores irán cogiendo fichas de oro y piedras preciosas, con las que podrán adquirir cartas de desarrollo.
 - Utilizarás tu riqueza para adquirir minas, métodos de transporte y artesanos que te permitirán transformar bastas piedras en magníficas piezas de joyería.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

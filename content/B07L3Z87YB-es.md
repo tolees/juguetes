@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Play as a Ghoul or an Investigator mastering each characters abilities and weapons to take down the enemy.
-- ONE FOR ALL!.Survival is always more difficult when alone. Go online for a cooperative, thrilling, 4v4 hunt.
+- SURVIVE NO MATTER WHAT!
 - WHICH SIDE WILL YOU CHOOSE?
 - Taking advantage of the battlefield and controlling unique powers will be the key to survive!
-- SURVIVE NO MATTER WHAT!
+- ONE FOR ALL!.Survival is always more difficult when alone. Go online for a cooperative, thrilling, 4v4 hunt.
+- Play as a Ghoul or an Investigator mastering each characters abilities and weapons to take down the enemy.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
