@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Tails of Iron Crimson Knight Edition - Nintendo Switch'
-date: 2022-02-24 07:32:29
+date: 2022-02-26 22:15:07
 image: 'https://m.media-amazon.com/images/I/51a6uoKpWCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09BN3S5S5/?tag=tolees-21'
 descuento: '42.61'
-average: '31.0925'
+average: '30.1877777777778'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
