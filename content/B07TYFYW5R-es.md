@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PDP - Cargador Energizer Gaming 2 Mandos  PS4 '
-date: 2022-02-26 21:58:40
+date: 2022-02-28 00:52:11
 image: 'https://m.media-amazon.com/images/I/41EXheLgsLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PDP'
 buyurl: 'https://www.amazon.es/dp/B07TYFYW5R/?tag=tolees-21'
 descuento: '45.02'
-average: '25.065'
+average: '23.35'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicadores de carga LED que palpitan durante la carga.
 - Material antideslizante en la parte inferior para que la base de carga no se mueva.
-- Con licencia oficial de Sony.
-- Puertos magnéticos para una conexión y carga óptimas.
 - Luz alrededor de la base con tecnología de atenuación automática que se adapta a las condiciones de luz ambiental.
+- Con licencia oficial de Sony.
+- Indicadores de carga LED que palpitan durante la carga.
+- Puertos magnéticos para una conexión y carga óptimas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
