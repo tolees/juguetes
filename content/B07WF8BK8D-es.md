@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
 - Velocidad de hasta 250.mb/s y 7200 r.p.m. Con tecnología de refrigeración activa para ayudarte a seguir jugando.
+- 8.tb para que puedas guardar y crear tu colección con hasta 200 juegos para consola o pc
 - Cuenta con dos puertos de carga usb tipo a de 7,5.w para cargar el equipamiento y los accesorios de tus juegos
 - Almacenamiento adicional para grabar y recopilar tus mejores capturas de pantalla del juego
-- Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
-- 8.tb para que puedas guardar y crear tu colección con hasta 200 juegos para consola o pc
 
 [🛒 Aquí!!!]({{< param buyurl >}})

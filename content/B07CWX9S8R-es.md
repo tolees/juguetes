@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir búsqueda del Anillo  ed. en español   Multicolor  BGBUSA '
-date: 2022-02-19 11:24:37
+date: 2022-03-01 11:10:39
 image: 'https://m.media-amazon.com/images/I/51hjV3cP4FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07CWX9S8R/?tag=tolees-21'
 descuento: '18.56'
-average: '34.304'
+average: '35.0342857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para gente competitiva y crítica, así como para los más sueltos
-- De 2 a 5 jugadores
 - Para mayores de 13 años
 - Unos 90 minutos por partida
+- Adecuado para gente competitiva y crítica, así como para los más sueltos
+- De 2 a 5 jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
