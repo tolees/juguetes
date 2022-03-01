@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistencia con intensidad regulable
-- Pulsó metro de cuádruple sensor en el manillar
 - Volante de inercia de 24 kg
-- Sillín anatómico regulable (vertical y horizontalmente)
+- Resistencia con intensidad regulable
 - Pantalla LCD 6 Funciones
+- Sillín anatómico regulable (vertical y horizontalmente)
+- Pulsó metro de cuádruple sensor en el manillar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

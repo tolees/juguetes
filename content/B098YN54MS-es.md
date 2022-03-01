@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - The Decades  Juego de mesa familiar y adulto a partir de 8 años'
-date: 2022-02-28 06:59:11
+date: 2022-03-01 19:02:49
 image: 'https://m.media-amazon.com/images/I/51SSz6T-k3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido del juego: 2 tableros reversibles, 2 pantallas, 2 peones, 86 tarjetas de preguntas, 14 cartas de acción, 12 fichas-respuesta, 6 fichas de igualación del año, decodificador de respuestas y tablero de puntuación
-- Número de jugadores: 2 equipos de 2 a 4 jugadores cada uno
-- The Decades es un juego de mesa con el que podréis viajar en el tiempo; Formad dos equipos y retad a vuestra memoria recordando curiosidades, eventos, tecnología o películas
-- Habilidades que desarrolla: estimula la sociabilidad y el juego en equipo
 - El objetivo del juego es ser el primer equipo en adivinar en qué año tuvo lugar el evento de cada una de las seis categorías en las 4 rondas que dura la partida; El equipo que responda con mayor exactitud ganará más puntos y será el ganador.
+- Habilidades que desarrolla: estimula la sociabilidad y el juego en equipo
+- The Decades es un juego de mesa con el que podréis viajar en el tiempo; Formad dos equipos y retad a vuestra memoria recordando curiosidades, eventos, tecnología o películas
+- Número de jugadores: 2 equipos de 2 a 4 jugadores cada uno
+- Contenido del juego: 2 tableros reversibles, 2 pantallas, 2 peones, 86 tarjetas de preguntas, 14 cartas de acción, 12 fichas-respuesta, 6 fichas de igualación del año, decodificador de respuestas y tablero de puntuación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
