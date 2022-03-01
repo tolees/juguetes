@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Monopoly the big bang theory (63317)
 - Número de jugadores: 1
 - Edición en Castellano
-- Entiende el mundo de las finanzas de una forma divertida
+- Monopoly the big bang theory (63317)
 - Entrena habilidades para tu día a día
-- Incentiva tu pensamiento estratégico
 - Juegos de mesa juegos de acción y reflejos eleven force
+- Entiende el mundo de las finanzas de una forma divertida
+- Incentiva tu pensamiento estratégico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
