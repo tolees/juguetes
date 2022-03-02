@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Ensalada de puntos  BGEPSP '
-date: 2022-02-15 18:16:51
+date: 2022-03-02 12:41:13
 image: 'https://m.media-amazon.com/images/I/51QbIE0wB-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Selección de cartas, colección de cartas
-- Lo comprarás para tí y querrás que tus amigos también lo tengan
-- Un pequeño juego en formato lata con miles de combinaciones
 - Se explica en un minuto, se juega en 10 y no podrás jugar solamente una partida
+- Lo comprarás para tí y querrás que tus amigos también lo tengan
+- Selección de cartas, colección de cartas
+- Un pequeño juego en formato lata con miles de combinaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
