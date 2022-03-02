@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - COMPATIBLE CON LANZADORES TITAN HERO BLAST GEAR (se venden por separado): Conecta el lanzador Blast Gear (se vende por separado) a la espalda o brazo de las figuras Titan Hero Series y Titan Hero Blast Gear y presiona el botón para lanzar proyectiles
-- FIGURA DEL CAPITÁN AMÉRICA DE 30 CM - Imagina al heroico Vengador aterrizando en plena batalla con esta figura de 30 cm inspirada en el clásico diseño del personaje del Universo Marvel
 - BUSCA OTROS JUGUETES AVENGERS: ¡Busca otras figuras de los Vengadores e imagina a los valientes superhéroes defendiendo el mundo con el heroico Capitán América! Los productos adicionales se venden por separado. Sujeto a disponibilidad
+- FIGURA DEL CAPITÁN AMÉRICA DE 30 CM - Imagina al heroico Vengador aterrizando en plena batalla con esta figura de 30 cm inspirada en el clásico diseño del personaje del Universo Marvel
 - DISEÑO Y ACCESORIOS INSPIRADOS EN EL UNIVERSO MARVEL: Con esta figura del heroico Steve Rogers inspirada en el personaje del las historietas Marvel, los fans pueden imaginar al heroico Vengador en una batalla por el destino del mundo. La figura incluye el icónico escudo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
