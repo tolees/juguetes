@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite - Consola Coral + Nintendo Switch Online - 12 Meses  Código de descarga '
-date: 2022-03-02 06:54:37
+date: 2022-03-03 08:59:38
 image: 'https://m.media-amazon.com/images/I/415+dgcGuvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 - Compacta y ligera para que sea fácil de transportar
+- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
