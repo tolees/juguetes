@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Playset Ballon Boxer
 - Diseñado para embellecer los momentos del juego
-- Un producto Magix Box
 - La serie KAZOOM KIDS de Superthings Rivals Of Kaboom
+- Un producto Magix Box
+- Playset Ballon Boxer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
