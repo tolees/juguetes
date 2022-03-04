@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Edad recomendada: +3 años
 - El set incluye residencia, muebles básicos de comedor y figura de la Familia Gato Persa.
-- El último piso es una buhardilla con grandes ventanales para disfrutar de los atardeceres tan especiales que tenemos en la Aldea Sylvanian.
-- Cuando le pides a Cédric Ardilla de la Nuez que te sorprenda jamás creerías que inventaría algo así. ¡Una casa con ascensor!
 - La Casa del Torreón tiene tres pisos con 3 amplias habitaciones para decorar como más te guste.
+- El último piso es una buhardilla con grandes ventanales para disfrutar de los atardeceres tan especiales que tenemos en la Aldea Sylvanian.
+- Edad recomendada: +3 años
+- Cuando le pides a Cédric Ardilla de la Nuez que te sorprenda jamás creerías que inventaría algo así. ¡Una casa con ascensor!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
