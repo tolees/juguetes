@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Just One es un juego cooperativo de adivinanzas para entre 4 y 7 jugadores.
 - Buscad la mejor pista para ayudar todo lo posible a vuestro compañero y sed originales
-- ¡Colaborad todos juntos para descubrir el máximo de palabras misteriosas posible!
-- ¡porque las pistas idénticas quedarán anuladas!
+- Just One es un juego cooperativo de adivinanzas para entre 4 y 7 jugadores.
 - Vuestra misión es averiguar cuantas más palabras secretas mejor
+- ¡porque las pistas idénticas quedarán anuladas!
+- ¡Colaborad todos juntos para descubrir el máximo de palabras misteriosas posible!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
