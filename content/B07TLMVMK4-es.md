@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SENSOR DE GOL: la portería reconoce automáticamente cuando se marca un gol y lo celebra con el niño acompañado con luces, música y cánticos.
-- LUCES Y SONIDOS: el marcador iluminado con un panel interactivo está equipado con divertidos sonidos y música; con botones para activar fácilmente los diferentes modos de juego y el movimiento de la portería.
 - 3 MODOS DE JUEGO: la portería de fútbol electrónica Goal League Pro de Chicco ofrece 3 modos de juego diferentes: penalti, cuenta atrás y juego libre. Cada modo puede jugarse con o sin movimiento de la portería.
-- FOMENTA LA ACTIVIDAD MOTORA: la portería infantil de Chicco estimula a los niños con música divertida y cánticos del estadio para felicitarles y animarles a jugar y marcar gol.
 - BALÓN INCLUIDO: con la portería se incluye un balón blando, ligero e hinchable, para jugar y divertirse de manera segura incluso dentro en casa.
+- SENSOR DE GOL: la portería reconoce automáticamente cuando se marca un gol y lo celebra con el niño acompañado con luces, música y cánticos.
 - DESARROLLA LA MOTRICIDAD Y PUNTERÍA: el niño entrena su puntería, precisión y coordinación motora para convertirse en un verdadero campeón.
+- FOMENTA LA ACTIVIDAD MOTORA: la portería infantil de Chicco estimula a los niños con música divertida y cánticos del estadio para felicitarles y animarles a jugar y marcar gol.
 - LA PORTERÍA QUE SE MUEVE: puedes jugar con Goal League Pro en modo estático o en movimiento. La portería puede moverse automáticamente de izquierda a derecha para hacer el juego aún más imprevisible y emocionante.
+- LUCES Y SONIDOS: el marcador iluminado con un panel interactivo está equipado con divertidos sonidos y música; con botones para activar fácilmente los diferentes modos de juego y el movimiento de la portería.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
