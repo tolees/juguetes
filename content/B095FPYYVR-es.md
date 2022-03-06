@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEAL PARA NIÑOS Y ADULTOS - Con un montón de pruebas ocurrentes y extravagantes, este divertidísimo juego de fiesta atrapará a mayores y pequeños
+- 160 RIDÍCULAS PRUEBAS - Todos los jugadores intentan superar exactamente las mismas pruebas, ¡prepárate para competir contra tu familia y amigos!
+- FÁCIL DE APRENDER, HORAS DE DIVERSIÓN - Solo 2 minutos para aprender a jugar y horas sin parar de reír. Lo mejor, de 2 a 8 jugadores a partir de 9 años
 - EL JUEGO DE MESA MÁS DIVERTIDO - ¡Calienta motores y prepárate para rebotar, voltear, amontonar, saltar, enrollar, soplar, equilibrar y catapultar tu camino a la victoria!
 - FRENÉTICAMENTE EXTRAVAGANTE - Gana puntos apostando por tu habilidad para superar una serie de pruebas ridículas en que demuestras tu destreza
-- FÁCIL DE APRENDER, HORAS DE DIVERSIÓN - Solo 2 minutos para aprender a jugar y horas sin parar de reír. Lo mejor, de 2 a 8 jugadores a partir de 9 años
-- 160 RIDÍCULAS PRUEBAS - Todos los jugadores intentan superar exactamente las mismas pruebas, ¡prepárate para competir contra tu familia y amigos!
+- IDEAL PARA NIÑOS Y ADULTOS - Con un montón de pruebas ocurrentes y extravagantes, este divertidísimo juego de fiesta atrapará a mayores y pequeños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
