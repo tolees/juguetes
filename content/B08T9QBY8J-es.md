@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ponlas encima unas de otras, haz figuras con ellas, combínalas y haz que cobren vida; las posibilidades son infinitas
-- De 3 a 8 jugadores
-- A partir de 8 años
-- Diviértete adivinando animales, objetos, profesiones; con 60 cartas transparentes estimula la creatividad y la imaginación
-- 30 minutos por partida
 - Número de jugadores: 3-8
+- Diviértete adivinando animales, objetos, profesiones; con 60 cartas transparentes estimula la creatividad y la imaginación
+- A partir de 8 años
+- De 3 a 8 jugadores
+- 30 minutos por partida
+- Ponlas encima unas de otras, haz figuras con ellas, combínalas y haz que cobren vida; las posibilidades son infinitas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
