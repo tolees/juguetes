@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Todos los mapas clásicos se han reconstruido desde cero en la última versión de Frostbite, con efectos de destrucción y efectos visuales mejorados, conservando los diseños originales y permitiendo hasta 64 jugadores
 - Elige tu papel en el campo de batalla y forma patrullas personalizadas con el nuevo sistema de especialistas
+- Todos los mapas clásicos se han reconstruido desde cero en la última versión de Frostbite, con efectos de destrucción y efectos visuales mejorados, conservando los diseños originales y permitiendo hasta 64 jugadores
+- Da rienda suelta a tu creatividad en combate con toda una selección de armas, vehículos, cazas, helicópteros y nuevo equipamiento de vanguardia inspirado por el futuro cercano del 2043
 - Disfruta todavía más de una guerra espectacular a gran escala en siete mapas enormes, creados con una filosofía de diseño totalmente nueva
 - Descubre batallas inesperadas y adéntrate en el amplio universo de Battlefield en una plataforma centrada en la comunidad que te permite cambiar las reglas de la guerra
-- Da rienda suelta a tu creatividad en combate con toda una selección de armas, vehículos, cazas, helicópteros y nuevo equipamiento de vanguardia inspirado por el futuro cercano del 2043
 
 [🛒 Aquí!!!]({{< param buyurl >}})
