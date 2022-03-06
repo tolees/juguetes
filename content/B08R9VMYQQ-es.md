@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La Casa Encantada del Fantasma trae un ascensor de fantasmitas, TV y sofá.
+- Adecuado para edades de tres años en adelante.
+- Estimula los juegos de rol imaginativos de los niños.
 - Incluye bebé de la Familia Gato de Medianoche disfrazado de fantasmita y a Spookie.
 - La Casa Encantada del Fantasma incluye casa, dos figuras y muebles.
-- Adecuado para edades de tres años en adelante.
-- La Casa Encantada del Fantasma trae un ascensor de fantasmitas, TV y sofá.
-- Estimula los juegos de rol imaginativos de los niños.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

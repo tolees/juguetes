@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alfie es el travieso de los gemelos. Le encanta ver a su papá trabajar en la carpintería, aunque no hay que perderlo de vista, porque enseguida tira algo de las estanterías. Alyssa, sin embargo, es la que seguirá los pasos de papá, o al menos eso dice Cédric cada vez que la ve dibujar. El set incluye 2 figuras y accesorio.
 - Alfie y Alyssa son los mellizos de la Familia Ardilla de la Nuez. Su cumpleaños es el 16 de junio.
 - Vestidos con ropa de tela de quita y pon
+- Alfie es el travieso de los gemelos. Le encanta ver a su papá trabajar en la carpintería, aunque no hay que perderlo de vista, porque enseguida tira algo de las estanterías. Alyssa, sin embargo, es la que seguirá los pasos de papá, o al menos eso dice Cédric cada vez que la ve dibujar. El set incluye 2 figuras y accesorio.
 - Estimula los juegos de rol imaginativos de los niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

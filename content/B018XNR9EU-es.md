@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Figuras de 6 a 10 cm
 - Mini muñecas con personajes divertidos de animalitos adorables, familiares y tiernos
 - Desarrolla el juego imaginativo y cotidiano de los niños
 - Familias con accesorios, mobiliario, residencias, vehículos y todo lo imprescindible para pasarlo bien en familia y amigos
 - Conectables y coleccionables
-- Figuras de 6 a 10 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
