@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Packaging premium
-- Figura con alto nivel de detalle
 - Articulada en brazos y cabeza
+- Figura con alto nivel de detalle
+- Packaging premium
 - 30 cm de altura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
