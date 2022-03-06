@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lanzador Elite 2.0 Commander RD-6 de Nerf  12 Dardos Oficiales de Nerf  Tambor rotatorio de 6 Dardos  Funciones de personalización incorporadas'
-date: 2022-03-01 11:01:25
+date: 2022-03-06 20:35:24
 image: 'https://m.media-amazon.com/images/I/41p53agApfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Juguetes','Jug
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9
-comparePrice: 17.99 EUR
+comparePrice: 19.99 EUR
 prodname: 'Lanzador Elite 2.0 Commander RD-6 de Nerf  12 Dardos Oficiales de Nerf  Tambor rotatorio de 6 Dardos  Funciones de personalización incorporadas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B07ZYCNZTZ/?tag=tolees-21'
-descuento: '17.18'
-average: '13.3361764705882'
+descuento: '25.46'
+average: '13.3588405797101'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- LANZADOR PREPARADO PARA ACTUALIZACIONES. Personaliza el lanzador en todas las batallas o misiones sacando partido a los 3 raíles tácticos, el punto de unión del cañón y el punto de acople de la culata, culata y extensión del cañón no incluidas
 - LANZA DARDOS A 27 METROS: Arroja dardos con este lanzador a una distancia de hasta 27 m
+- DESCARGA A RÁFAGA: Arrastra hacia atrás el deslizador de carga y aprieta el gatillo para lanzar 1 dardo o descarga los 6 dardos a ráfaga manteniendo apretado el gatillo y moviendo el deslizador hacia delante y hacia atrás repetidamente
 - Extensión del cañón y culata no incluidos
 - INCLUYE 12 DARDOS NERF: Con 12 dardos oficiales de Nerf para cargar el tambor rotatorio de 6 dardos al completo y con otros 6 para que tengas todo listo para la recarga, lanza, recarga y vuelve a lanzar
-- LANZADOR PREPARADO PARA ACTUALIZACIONES. Personaliza el lanzador en todas las batallas o misiones sacando partido a los 3 raíles tácticos, el punto de unión del cañón y el punto de acople de la culata, culata y extensión del cañón no incluidas
-- DESCARGA A RÁFAGA: Arrastra hacia atrás el deslizador de carga y aprieta el gatillo para lanzar 1 dardo o descarga los 6 dardos a ráfaga manteniendo apretado el gatillo y moviendo el deslizador hacia delante y hacia atrás repetidamente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
