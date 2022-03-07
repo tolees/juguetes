@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 1 a 4 Jugadores
-- Si quieres que recaiga en ti semejante honor deberás esculpir la escultura más intrincada y elegante de un coatl, la popular serpiente emplumada.
 - A partir de 10 años de Edad
 - Juego de mesa en Español
+- De 1 a 4 Jugadores
+- Si quieres que recaiga en ti semejante honor deberás esculpir la escultura más intrincada y elegante de un coatl, la popular serpiente emplumada.
 - Se aproxima el nombramiento de un nuevo sumo sacerdote azteca.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
