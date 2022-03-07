@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nürnberger-Spielkarten-Verlag - Juego de Cartas  1 a 5 Jugadores  4034   versión en alemán '
-date: 2022-03-05 15:40:56
+date: 2022-03-07 13:49:56
 image: 'https://m.media-amazon.com/images/I/5143nUfuJ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nürnberger-Spielkarten-Verlag'
 buyurl: 'https://www.amazon.es/dp/B00SKICEJE/?tag=tolees-21'
 descuento: '32.57'
-average: '11.128'
+average: '10.9883333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si el juego gana, los jugadores han sido demasiado débiles.
 - Característica especial: también se puede jugar solo.
 - Todo el mundo juega contra el juego. La comunicación está permitida.
+- Si el juego gana, los jugadores han sido demasiado débiles.
 - Tiempo de juego: aproximadamente 20 minutos.
 - Autor: Steffen Benndorf (QWIXX).
 
