@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tribike de 12V (hasta 4,2 km / h)
+- 4 direcciones de conducción: adelante / atrás / girar a la derecha / girar a la izquierda
 - Incluye: batería de 12V y cargador
 - Características adicionales: 3 ruedas para una gran estabilidad y además está adornado con maletas laterales
-- 4 direcciones de conducción: adelante / atrás / girar a la derecha / girar a la izquierda
-- Tribike de 12V (hasta 4,2 km / h)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
