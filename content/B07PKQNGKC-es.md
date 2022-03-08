@@ -31,7 +31,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - El Laberinto Mágico de Super Mario es un juego para niños y niñas a partir de 7 años. Desarrolla la capacidad de concentración y ejercita el pensamiento lógico
 - Entra en el Laberinto Mágico en busca de Mario, su hermano Luigi, Yoshi y muchos otros personajes del videojuego Super Mario
 - El juego es para 2-4 jugadores que compiten en la búsqueda de tesoros escondidos entre las paredes del Laberinto. Con cada movimiento el tablero del Laberinto Mágico cambia y el ganador es el que llega primero a sus tesoros
-- La línea de Laberintos Mágicos de Ravensburger es muy rica: Laberinto que brilla en la oscuridad para jugar en la oscuridad, Laberinto Junior para los más pequeños y versiones dedicadas a los personajes más populares como Harry Potter, Princesas Disney y muchos más
 - El Laberinto Mágico de Super Mario contiene: 1 tablero, 34 fichas, 24 tarjetas de tesoro, 4 fichas
+- La línea de Laberintos Mágicos de Ravensburger es muy rica: Laberinto que brilla en la oscuridad para jugar en la oscuridad, Laberinto Junior para los más pequeños y versiones dedicadas a los personajes más populares como Harry Potter, Princesas Disney y muchos más
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La caja de hojalata de tamaño reducido permite llevar el juego a todas partes: al colegio, al trabajo, a la familia o a los amigos, ya que siempre es un buen momento para un partido en Dobble
 - Juega en Dobble con los personajes y los gráficos de Paw Patrol
+- La caja de hojalata de tamaño reducido permite llevar el juego a todas partes: al colegio, al trabajo, a la familia o a los amigos, ya que siempre es un buen momento para un partido en Dobble
 - 5 mini juegos para partidas siempre diferentes y entusiasmantes
 - Dobble es un juego de golpe de ojo y velocidad: para ganar deberás ser los más rápidos en encontrar el único símbolo común entre las tarjetas desveladas
 - Dobble es sencillo, rápido e inmediato: hará divertir tanto a los más pequeños como a los jugadores más grandes

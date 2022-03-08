@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego de mesa anima a reconocer y nombrar los colores a través de los seis dados de colores
-- Monza es el primer juego táctico infantil en torno a una carrera de coches picantes: Seis coches de carreras de madera de colores están listos en la salida para la gran carrera.
-- Con el premio "Spiel Gut" otorgado
 - Gracias a las reglas fáciles de entender, la turbulenta carrera de colores es adecuada para toda la familia.
+- Con el premio "Spiel Gut" otorgado
 - Si haces rodar los colores correctos y los combinas inteligentemente, avanzarás especialmente rápido y ganarás la emocionante carrera.
+- Monza es el primer juego táctico infantil en torno a una carrera de coches picantes: Seis coches de carreras de madera de colores están listos en la salida para la gran carrera.
+- El juego de mesa anima a reconocer y nombrar los colores a través de los seis dados de colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

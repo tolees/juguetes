@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Juguete para niños a partir de 4 años
 - Pickup de rescate de animales con canoa para explorar la selva
+- Con 1 figura y pequeños accesorios: prismáticos; walky talky; brújula y mapa
 - Con 1 figura de explorador y muchos accesorios; mochila, lámpara, remos, termo, lata de gasolina
 - El pickup tiene polea para arrastrar la canoa por el suelo y baca para transportarla
-- Con 1 figura y pequeños accesorios: prismáticos; walky talky; brújula y mapa
-- Juguete para niños a partir de 4 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

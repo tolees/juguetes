@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Promueve el comportamiento social, la formación lingüística y el pensamiento estratégico.
-- Combina el principio de memoria con dados.
 - Juegos de colaboración fortalecen el trabajo en equipo.
+- Combina el principio de memoria con dados.
 - Recomendado para el juego de niños del año 2017.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

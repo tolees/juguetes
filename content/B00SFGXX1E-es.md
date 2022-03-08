@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenidos adaptados a las áreas básicas de aprendizaje y para cada edad en concreto
+- Recomendado a partir de 3 años
 - Horas y horas de diversión y entretenimiento
 - Los niños se divertirán asociando cada uno de los números del 1 al 10 con su cantidad correspondiente
-- Recomendado a partir de 3 años
 - Un juego ideal para introducirse en el concepto de número
-- Contenidos adaptados a las áreas básicas de aprendizaje y para cada edad en concreto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
