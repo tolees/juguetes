@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego familiar y social para todo tipo de públicos
-- Locuras es un divertidísimo juego de mesa que combina diferentes tipos de pruebas con un punto de locura: pruebas de dibujo, auditivas, de empatía con el resto de jugadores, de mímica, acusaciones ridículas, y una gran locura final
-- Los jugadores deberán pasar las pruebas para ser el primero en conseguir 5 locus y así ser coronado como el nuevo rey loco
-- Contenido: 1 torre de la locura, 6 bases, 231 cartas, 10 cartas de locura final, 50 fichas de puntuación, 1 bloc de dibujo, 1 lápiz, 1 dado gigante, gafas distorsionadoras, 1 reloj de arena e instrucciones
-- Recomendado a partir de 8 años
 - Versión española
+- Recomendado a partir de 8 años
+- Locuras es un divertidísimo juego de mesa que combina diferentes tipos de pruebas con un punto de locura: pruebas de dibujo, auditivas, de empatía con el resto de jugadores, de mímica, acusaciones ridículas, y una gran locura final
+- Juego familiar y social para todo tipo de públicos
+- Contenido: 1 torre de la locura, 6 bases, 231 cartas, 10 cartas de locura final, 50 fichas de puntuación, 1 bloc de dibujo, 1 lápiz, 1 dado gigante, gafas distorsionadoras, 1 reloj de arena e instrucciones
+- Los jugadores deberán pasar las pruebas para ser el primero en conseguir 5 locus y así ser coronado como el nuevo rey loco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

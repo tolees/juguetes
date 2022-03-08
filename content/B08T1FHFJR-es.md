@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - HARRY POTTER JUGUETES: este set Magical Minis Harry Potter es imprescindible para los fans del "Wizarding World of Harry Potter". Imagina preparar pociones como la poción de la suerte Felix Felicis con el muñeco Harry Potter en la Aula de las Pociones. Este precioso set de juguetes Harry Potter es perfecto para vivir las aventuras de Wizarding World
-- HARRY POTTER JUGUETES COLECCIONABLES: hay varios set Harry Potter y muñecos Harry Potter Magical Minis para coleccionar: Harry Potter, Ron Weasley, Hermiones Granger, Albus Dumbledore y Rubeus Hagrid, ¡completa tu colección con las figuras Harry Potter Magical Minis para lanzarte en aventuras llenas de magia y de encanto
 - Includes: 1 Playset, 1 Figure, 3 Accessories, 1 Instruction Sheet
 - FUNCIONA CON EL CASTILLO HOGWARTS MAGICAL MINIS: utiliza el conector incluido en el set para conectarlo al castillo Harry Potter Hogwarts (se vende por separado). Construye tu propio Wizarding World con las figuras Harry Potter y los set Magical Minis del "Wizarding World of Harry Potter"
-- CALDERO ACTIVADO POR ARTE DE MAGIA: mientras tu figura Harry Potter coleccionable exclusiva prepara pociones, puede hacer que el caldero se abra mágicamente y encenderlo cuando se encuentre sobre el punto de activación
 - MUÑECO HARRY POTTER EXCLUSIVO Y 3 ACCESORIOS: los muñecos Harry Potter Magical Minis tienen articulaciones en la cabeza, los brazos y las piernas. Mueve a Harry Potter muñeco de 8 cm y usa el libro Elaboración de pociones avanzadas, el escritorio, el frasco de la poción Felix Felicis y la base para disfrutar de las historias del "Wizarding World of Harry Potter"
+- CALDERO ACTIVADO POR ARTE DE MAGIA: mientras tu figura Harry Potter coleccionable exclusiva prepara pociones, puede hacer que el caldero se abra mágicamente y encenderlo cuando se encuentre sobre el punto de activación
+- HARRY POTTER JUGUETES COLECCIONABLES: hay varios set Harry Potter y muñecos Harry Potter Magical Minis para coleccionar: Harry Potter, Ron Weasley, Hermiones Granger, Albus Dumbledore y Rubeus Hagrid, ¡completa tu colección con las figuras Harry Potter Magical Minis para lanzarte en aventuras llenas de magia y de encanto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

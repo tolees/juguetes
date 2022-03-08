@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estructura de madera resistente está pensada para largas horas de juego
+- Diseña tu propia ciudad
+- Conduce un tren, maneja un helicoptero y opera una grua
 - La mesa de madera sólida, esquinas redondeadas
 - Cada pieza está hecha a mano
-- Conduce un tren, maneja un helicoptero y opera una grua
-- Diseña tu propia ciudad
+- Estructura de madera resistente está pensada para largas horas de juego
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
