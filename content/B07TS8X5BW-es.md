@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Flash Flash es un juego de agilidad que pondrá a prueba tus reflejos
 - Juego para 1+ jugadores Apto para 6+ años Funciona con pilas (no incluidas)
+- Coloca las bases y estate atento a los colores que se iluminan; hasta 4 modalidades de juego
 - Demuestra que eres más rápido que la velocidad de la luz
 - Llegarás a tiempo antes de que sea demasiado tarde
-- Coloca las bases y estate atento a los colores que se iluminan; hasta 4 modalidades de juego
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
