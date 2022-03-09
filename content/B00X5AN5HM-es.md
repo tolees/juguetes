@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars - Tie Fighter  Figura  Hasbro B3920 '
-date: 2022-02-27 12:14:03
+date: 2022-03-09 20:18:42
 image: 'https://m.media-amazon.com/images/I/51t0fbIVx+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Se
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33
-comparePrice: 45.94 EUR
+comparePrice: 45.93 EUR
 prodname: 'Star Wars - Tie Fighter  Figura  Hasbro B3920 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B00X5AN5HM/?tag=tolees-21'
-descuento: '25.27'
+descuento: '25.26'
 average: '34.33'
 ---
 

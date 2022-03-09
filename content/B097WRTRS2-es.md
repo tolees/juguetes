@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Subsonic - Superdrive  Volante De Carreras Gs750 Con Pedales  Paletas  Palanca De Cambios Y Vibración Para Xbox Serie X/S  Ps4  Xbox One  Pc  Programable Para Todos Los Juegos   Xbox Series X'
-date: 2022-03-08 10:27:46
+date: 2022-03-09 20:38:15
 image: 'https://m.media-amazon.com/images/I/41rkPIVU1MS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Subsonic'
 buyurl: 'https://www.amazon.es/dp/B097WRTRS2/?tag=tolees-21'
 descuento: '62.84'
-average: '48.888'
+average: '48.1716666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Palanca de cambio +/-. Paletas de cambio +/-. Pedales de acelerador y freno.
+- Puede fijarse en un escritorio gracias a sus ventosas y colocarse en los muslos gracias a su base curvada.
 - Compatible con Xbox Serie X/S, PS4, Xbox One y PC. No es compatible con PS5
+- Palanca de cambio +/-. Paletas de cambio +/-. Pedales de acelerador y freno.
 - Doble motor de vibración. Ángulo de rotación de 270°. Ajuste de la sensibilidad (3 niveles de sensibilidad).
 - Totalmente programable, compatible con todos los juegos de carreras para PS4, Xbox y PC (Gran Turismo 7 (PS4), Forza Motor Sport 7, Forza Horizon 5, Project Cars 2, F1 2020, Need for Speed, Dirt, WRC, Grid, V Rally 4, Gear Club 2, GTA V.)
-- Puede fijarse en un escritorio gracias a sus ventosas y colocarse en los muslos gracias a su base curvada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
