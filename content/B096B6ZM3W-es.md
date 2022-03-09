@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- También encontrarás la cocina que incluye nevera, horno con puerta y accesorios para el almuerzo
 - Además incluye Mini Bellie: Mini-Pepa, con un diseño super bonito
-- ¡Dos pisos completos con todo lo que necesitas para pasar horas de diversión! En la planta baja encontrarás el baño con potty con ruedas (y es súper divertido porque se convierte en una tumbona)
 - En el primer piso puedes encontrar 2 camas y una mesa que se convierte en otra cama para sus invitados
 - Mini Bellies Apartment es el apartamento más divertido para todos tus Mini Bellies
-- También encontrarás la cocina que incluye nevera, horno con puerta y accesorios para el almuerzo
+- ¡Dos pisos completos con todo lo que necesitas para pasar horas de diversión! En la planta baja encontrarás el baño con potty con ruedas (y es súper divertido porque se convierte en una tumbona)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
