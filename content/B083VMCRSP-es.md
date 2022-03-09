@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incorpora un sensor mágico que activa frases, canciones y melodías de los coches de la colección tut tut
-- Los tramos de pista permiten realizan diferentes configuraciones; con el lanzador se proyecta al tut tut y mediante la manivela realizará un giro de 360º y podrá hacer un descenso a toda velocidad
-- Pista supergiro de tut tut bólidos que incorpora el tut tut bólido jorge coche de carreras, con voz, luces y sonido
 - Es compatible con el resto de los sets y vehículos de la colección tut tut bólidos, que se venden por separado
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Los tramos de pista permiten realizan diferentes configuraciones; con el lanzador se proyecta al tut tut y mediante la manivela realizará un giro de 360º y podrá hacer un descenso a toda velocidad
+- Pista supergiro de tut tut bólidos que incorpora el tut tut bólido jorge coche de carreras, con voz, luces y sonido
+- Incorpora un sensor mágico que activa frases, canciones y melodías de los coches de la colección tut tut
 - Versión española
 
 [🛒 Aquí!!!]({{< param buyurl >}})
