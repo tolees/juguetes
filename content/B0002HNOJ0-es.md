@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Muñeca evi 12cm
-- Viaja con su perrito
 - Coche beetle a escala
+- Viaja con su perrito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
