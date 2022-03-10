@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Presenta una maqueta de un camión remolcador con grúa de juguete con muchas funciones; una presentación ideal de la ingeniería para los peques amantes de los juguetes mecánicos
-- Haz girar el camión moviendo la manivela del techo o levanta el capó para ver el motor de 6 cilindros en línea con pistones móviles
-- Incluye los detalles clásicos de un camión remolcador con grúa, como la rejilla, los filtros de aire y el esquema de colores
-- Explora la brillantez de la ingeniería con esta clásica maqueta que incluye funciones mecánicas como una grúa giratoria, un cabrestante funcional y estabilizadores
 - La maqueta cuenta con funciones de bomba neumática que incluyen una pluma de elevación extensible y una pluma que se extiende y se eleva
-- Este set de construcción de camión de juguete es un regalo estupendo para niños a partir de 11 años, y también para adultos que deseen explorar junto a ellos
+- Explora la brillantez de la ingeniería con esta clásica maqueta que incluye funciones mecánicas como una grúa giratoria, un cabrestante funcional y estabilizadores
 - Como un camión remolcador con grúa auténtico, dispone de un eje elevable que hace bajar ruedas adicionales para las cargas inestables: ¡por primera vez en la serie LEGO Technic!
+- Haz girar el camión moviendo la manivela del techo o levanta el capó para ver el motor de 6 cilindros en línea con pistones móviles
+- Presenta una maqueta de un camión remolcador con grúa de juguete con muchas funciones; una presentación ideal de la ingeniería para los peques amantes de los juguetes mecánicos
+- Incluye los detalles clásicos de un camión remolcador con grúa, como la rejilla, los filtros de aire y el esquema de colores
+- Este set de construcción de camión de juguete es un regalo estupendo para niños a partir de 11 años, y también para adultos que deseen explorar junto a ellos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

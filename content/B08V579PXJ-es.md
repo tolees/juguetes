@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Vive el icónico recorrido de la Senda Arcoíris de Mario Kart en el mundo real con el conjunto de pista de la Senda Arcoíris de Hot Wheels Mario Kart!
-- El conjunto de pista incluye un símbolo ? giratorio ¡Dispone de Item Box para generar artículos aleatorios con elementos emergentes, figuras esculpidas en 3D y decoraciones aportan más emoción!
 - Dos trazados diferentes —recto o curvo— permiten crear distintas carreras que se controlan con una parrilla de salida electrónica y una línea de meta que muestra al ganador.
-- ¡Con plazas de estacionamiento situadas en los soportes del juego para un almacenamiento fácil!
 - El trayecto con los colores del arcoíris alcanza 2,44 m de largo y 61 cm de alto para proporcionar una emoción máxima, y tiene luces y sonidos realmente impresionantes.
+- El conjunto de pista incluye un símbolo ? giratorio ¡Dispone de Item Box para generar artículos aleatorios con elementos emergentes, figuras esculpidas en 3D y decoraciones aportan más emoción!
+- ¡Vive el icónico recorrido de la Senda Arcoíris de Mario Kart en el mundo real con el conjunto de pista de la Senda Arcoíris de Hot Wheels Mario Kart!
+- ¡Con plazas de estacionamiento situadas en los soportes del juego para un almacenamiento fácil!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
