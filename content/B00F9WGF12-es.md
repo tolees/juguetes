@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Los Sims 4 Standard Edition PCWin |Videojuegos |Caja con código de descarga |Castellano'
-date: 2022-02-26 21:57:26
+date: 2022-03-10 12:32:40
 image: 'https://m.media-amazon.com/images/I/51L7TtNN6RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B00F9WGF12/?tag=tolees-21'
 descuento: '50.21'
-average: '16.9212903225806'
+average: '17.0140625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Información acerca de los requisitos mínimos de funcionamiento en la descripción del producto
-- Clasificación PEGI: más de 12 años
-- Género: simulación
-- Compatible con Windows XP, Vista, 7, 8, 8.1
-- Incluye sólo el juego
 - Disponible para PC y Mac
+- Género: simulación
+- Clasificación PEGI: más de 12 años
+- Información acerca de los requisitos mínimos de funcionamiento en la descripción del producto
+- Incluye sólo el juego
+- Compatible con Windows XP, Vista, 7, 8, 8.1
 
 [🛒 Visítala!!!]({{< param buyurl >}})
