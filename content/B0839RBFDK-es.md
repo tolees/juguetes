@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Blinky-queen es la reina de los bellies; su cuerpo y su corona brillan y con su anillo llena de purpurina a todos
 - Es el regalo para niñas y niños mayores de 3 años
-- Tiene las mismas características que las demás bellies, pueden escuchar su latido y habla de una manera divertida; también tiene marca de nacimiento que se puede encontrar cuando se retira el pañal; además, hay una sorpresa divertida en su pañal tendrán que consultar la poopypedia para saber qué cuidado necesita
-- Incluye el anillo-sonajero y la mantita
 - Es un muñeco bebé de 17 cm; funciona con 2 pilas aaa también incluidas
+- Blinky-queen es la reina de los bellies; su cuerpo y su corona brillan y con su anillo llena de purpurina a todos
+- Incluye el anillo-sonajero y la mantita
+- Tiene las mismas características que las demás bellies, pueden escuchar su latido y habla de una manera divertida; también tiene marca de nacimiento que se puede encontrar cuando se retira el pañal; además, hay una sorpresa divertida en su pañal tendrán que consultar la poopypedia para saber qué cuidado necesita
 
 [🛒 Comprar!!!]({{< param buyurl >}})
