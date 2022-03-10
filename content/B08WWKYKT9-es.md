@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque  Juguete de Construcción a Partir de 9 Años con 5 Mini Figuras de Clones y un Droide Gonk'
-date: 2022-02-24 17:37:58
+date: 2022-03-10 14:27:09
 image: 'https://m.media-amazon.com/images/I/51kKmLX4knS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WWKYKT9-es LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque...'
 sku: 'B08WWKYKT9-es'
 tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Muñecos y figuras de acción','lego', ]
-actualPrice: 85.03 EUR
+actualPrice: 82.99 EUR
 currency: EUR
-price: 85.03
+price: 82.99
 comparePrice: 109.99 EUR
 prodname: 'LEGO 75314 Star Wars The Bad Batch: Lanzadera de Ataque  Juguete de Construcción a Partir de 9 Años con 5 Mini Figuras de Clones y un Droide Gonk'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WWKYKT9/?tag=tolees-21'
-descuento: '22.69'
-average: '85.7739449541286'
+descuento: '24.55'
+average: '86.5145833333335'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tiene 2 cañones automáticos y una aleta dorsal que se levanta para acceder fácilmente a la cabina doble de mando para minifiguras LEGO y a la cabina trasera
-- Incluye 5 minifiguras LEGO Star Wars (agosto de 2021) de los clones de The Bad Batch Tech, Echo, Hunter, Wrecker y Crosshair, con un surtido de armas
 - Este juguete de construcción de Star Wars altamente detallado es una versión para construir con ladrillos de una lanzadera de ataque con alas ajustables de Star Wars: The Bad Batch
 - Las alas de esta lanzadera de juguete para construir se mueven para activar los modos de aterrizaje/vuelo, y la cabina tiene espacio para 2 minifiguras y un almacén para las armas
 - El set contiene también un speeder con 2 cañones y otro speeder con un conector para un bláster que amplían las posibilidades de juego
+- Incluye 5 minifiguras LEGO Star Wars (agosto de 2021) de los clones de The Bad Batch Tech, Echo, Hunter, Wrecker y Crosshair, con un surtido de armas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
