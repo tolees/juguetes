@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este adorable perro interactivo marca y juega a escondite. Cabe con niño al mismo tiempo que le profesor de muchas cosas.
-- Los botones interactivos enseñen con el niño los primeros números, los colores y los animales.
 - Estimula la percepción visual y auditiva y las capacidades manuales.
 - Cuando bibou caché sus ojos con sus orejas, la función "cuco es activada. Cuando sus orejas se écartent, es hecho de "cuco y se enfuit en corriente. El niño debe el perseguir y retraso. bibou detecta cuando es attrapé y responde en consecuencia.
+- Los botones interactivos enseñen con el niño los primeros números, los colores y los animales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
