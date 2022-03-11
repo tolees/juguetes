@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 70 piezas + instrucciones (idioma español no garantizado)
-- Pequeño artículo coleccionable, no necesariamente adecuado como regalo para niños
 - Helicóptero
 - LEGO Technic Polybag Set
+- Pequeño artículo coleccionable, no necesariamente adecuado como regalo para niños
+- Contiene 70 piezas + instrucciones (idioma español no garantizado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

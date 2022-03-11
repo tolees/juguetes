@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su pelo es tricolor, naranja, rosa y blanco; será un perrito, un gatito o una llama
 - Estas mascotas abandonadas, que nadie quiere, necesitan tu ayuda
-- Sólo tu amor, cariño y y cuidados harán que los adopt nimals se transformen de una bolita de pelo a la que sólo se le ven los ojos a una mascota increiblemente bonita
-- Báñalas, sécalas, cepíllalas y quiérelas
 - Incluye 1 adopt nimal, 1 collar con colgante, 1 certificado de adopción, 1 cepillo y 1 horquilla
+- Báñalas, sécalas, cepíllalas y quiérelas
+- Sólo tu amor, cariño y y cuidados harán que los adopt nimals se transformen de una bolita de pelo a la que sólo se le ven los ojos a una mascota increiblemente bonita
+- Su pelo es tricolor, naranja, rosa y blanco; será un perrito, un gatito o una llama
 
 [🛒 Comprar!!!]({{< param buyurl >}})

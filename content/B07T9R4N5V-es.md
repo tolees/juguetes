@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material eva suave y diseño de cabeza redonda
 - Alcance preciso y largo
 - Tamaño: 7,2 x 1,3 cm
-- Pack con 200 dardos
-- Material eva suave y diseño de cabeza redonda
 - Las balas universales funcionan con cualquier arma Nerf Elite que acepte los dardos de élite estándar
+- Pack con 200 dardos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
