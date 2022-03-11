@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Apalabrados  Juego de mesa familiar de formar palabras a partir de 8 años'
-date: 2022-03-07 09:40:20
+date: 2022-03-11 09:40:32
 image: 'https://m.media-amazon.com/images/I/51Sa9S2PT0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00ABLDHYY-es Diset - Apalabrados Juego de mesa familiar de formar...'
 sku: 'B00ABLDHYY-es'
 tags: [ 'Juego de mesa','Juegos de acción y reflejos','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','de','diset','juego','mesa', ]
-actualPrice: 15.95 EUR
+actualPrice: 14.36 EUR
 currency: EUR
-price: 15.95
+price: 14.36
 comparePrice: 20.0 EUR
 prodname: 'Diset - Apalabrados  Juego de mesa familiar de formar palabras a partir de 8 años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B00ABLDHYY/?tag=tolees-21'
-descuento: '20.25'
-average: '19.186'
+descuento: '28.20'
+average: '18.3816666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
