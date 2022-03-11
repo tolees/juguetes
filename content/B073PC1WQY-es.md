@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La mayoría de las piezas son compatibles con otros Mr. Potato y Mrs. Potato ,se venden por separado
-- Ponle caras divertidas a tu potato
 - Crea looks divertidos
-- Piezas para mezclar y combinar
+- La mayoría de las piezas son compatibles con otros Mr. Potato y Mrs. Potato ,se venden por separado
 - Personaliza tu propio potato
+- Piezas para mezclar y combinar
+- Ponle caras divertidas a tu potato
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
