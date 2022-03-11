@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment-Other License Los Autos Locos el Juego de Mesa-Español  Color  EECMWR01 '
-date: 2022-03-08 10:40:42
+date: 2022-03-11 20:35:25
 image: 'https://m.media-amazon.com/images/I/61cUnvOOKzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los autos locos es un trepidante juego de carreras de coches para un máximo de 6 jugadores. ¡Alcanza la línea de meta en primer lugar con tu bólido favorito, ya sea por las buenas o por las malas!
-- Pero en el circuito tendrás que enfrentarte a las condiciones desiguales del terreno, a las habilidades especiales de tus rivales y a las peligrosas trampas que os tenderá PIERRE NODOYUNA. ¡Este tramposo truhán y su mezquino compañero en maldades PATÁN siempre están al acecho!
-- Alta calidad
-- ¡Sube a tu disparatado vehículo, calienta el motor y prepárate para la carrera!
+- But on the circuit you will have to face the uneven conditions of the terrain, the special skills of your rivals and the dangerous traps that PIERRE NODOYUNA will set you. This truhan cheat and his petty companion in evil PATAN are always lurking!
+- Crazy Cars is a fast-paced car racing game for up to 6 players. Reach the finish line first with your favorite drive, whether for the good or the bad ones!
+- Get in your crazy vehicle, heat up the engine and get ready for the race!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

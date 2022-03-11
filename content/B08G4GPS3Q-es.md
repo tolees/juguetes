@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Un set de primera calidad que forma parte de una serie de cascos coleccionables LEGO Star Wars para adultos
 - Este manualidad para adultos cuenta con un casco de Darth Vader para construir con ladrillos LEGO, con soporte de exhibición y placa de identificación
+- Rinde homenaje al lado oscuro con esta maqueta para construir para adultos del Casco de Darth Vader, el villano más temido de la galaxia
 - Los modelos de exposición LEGO Star Wars tienen una calidad premium que crea un gran impacto visual en el hogar o en la oficina, son la pieza de decoración para casa perfecta
 - Este LEGO para adultos contiene todos los auténticos y siniestros detalles del casco de Darth Vader para que puedas revivir las clásicas escenas de la saga Star Wars
-- Rinde homenaje al lado oscuro con esta maqueta para construir para adultos del Casco de Darth Vader, el villano más temido de la galaxia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

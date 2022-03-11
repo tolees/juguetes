@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Este set de juego incluye una guía de montaje impresa con fotos e instrucciones digitales, disponibles en la app gratuita Instrucciones de Montaje LEGO
 - Incorpora grandes llantas, impresionantes parachoques y alucinantes luces para atrapar a los delincuentes tras perseguirlos a toda velocidad
 - Incluye un coche de policía de juguete, con espacio tras el volante para la mini figura incluida del policía, para poder jugar durante horas persiguiendo a los malos
 - ¡Juega donde quieras! Al terminarlo, el coche de policía de juguete mide aproximadamente 11 cm de largo y 5 cm de ancho, y es genial para que los peques puedan jugar allá donde vayan
 - Este coche de policía para niños incluye la mini figura LEGO de un agente de policía con linterna de juguete y gorra
-- Este set de juego incluye una guía de montaje impresa con fotos e instrucciones digitales, disponibles en la app gratuita Instrucciones de Montaje LEGO
 - Los sets de policía de LEGO City serán un gran regalo de cumpleaños o para cualquier ocasión para niños de 5+ años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

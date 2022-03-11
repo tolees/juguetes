@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colecciónalos todos para conseguir un conjunto completo de coches metálicos de mario kart de hot wheels a escala 1:64
 - Hot wheels se une al popular mario kart para recrear este conjunto de coches metálicos a escala 1:64 compatibles con las pistas de hot wheels
 - Regalo óptimo para niñas y niños de más de 3 años
 - Estimula su imaginación y su creatividad haciendo carreras en las pistas de hot wheels
 - Los vehículos incluyen personajes emblemáticos de mario kart como: mario, luigi, peach, yoshi, toad, bowser y más
+- Colecciónalos todos para conseguir un conjunto completo de coches metálicos de mario kart de hot wheels a escala 1:64
 
 [🛒 Aquí!!!]({{< param buyurl >}})
