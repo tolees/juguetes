@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ordena las baldosas, construye la paleta de colores, elige tus temas preferidos para decorar la pared y empieza a construir mientras disfrutas pasando tiempo con tus seres queridos
-- El set de manualidades para niños y adultos puede construirse y reconstruirse una y otra vez, y es un gran regalo creativo para niños y fans de la construcción a partir de 7 años
 - Este set de manualidades LEGO tiene 2 únicos elementos únicos que se pueden colgar y una herramienta para baldosas, ¡para que estas actividades en grupo sean fáciles y divertidas!
+- El set de manualidades para niños y adultos puede construirse y reconstruirse una y otra vez, y es un gran regalo creativo para niños y fans de la construcción a partir de 7 años
 - Trabajad juntos para construir y exponer un «collage» personal de imágenes o crea una obra con la minifigura LEGO delante de un fondo estrellado
+- Ordena las baldosas, construye la paleta de colores, elige tus temas preferidos para decorar la pared y empieza a construir mientras disfrutas pasando tiempo con tus seres queridos
 - No te pierdas el set más creativo de LEGO Art: Proyecto de Arte: Creación Conjunta, con 36 opciones de imágenes y una paleta de colores construible.
 - Cuenta con más de 4000 piezas y 9 placas de decoración de pared con 9 opciones de imágenes para cada una de las 4 temáticas: Alimentación, Motivos, Iconos e Intereses
 
