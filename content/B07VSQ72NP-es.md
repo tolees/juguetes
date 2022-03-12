@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Divertido juego de pruebas de memoria para toda la familia.
 - Incluye 100 cartas basadas en el mundo de Harry Potter
-- De 2 a 6 jugadores
 - Para ello, los jugadores deben recordar una secuencia de cartas con objetos en el orden correcto. Y cada turno esta secuencia ¡crece más!
+- Divertido juego de pruebas de memoria para toda la familia.
+- De 2 a 6 jugadores
 - ¡Sé el primero en recoger todos los objetos mencionados en tu carta de maletero para ganar!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
