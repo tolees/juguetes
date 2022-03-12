@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de jugadores: de 1 a 4 jugadores
-- Contenido: mono, gorila, dado, 9 troncos de palmera de madera, 8 hojas de palmera, 4 fichas plátano, base del juego y rampa de cartón y instrucciones
-- Habilidades que desarrolla: el trabajo en equipo y el respeto por las reglas; desarrolla las habilidades psicomotoras
 - Este juego tiene tres modalidades distintas: juego cooperativo, competitivo y modo libre
+- Habilidades que desarrolla: el trabajo en equipo y el respeto por las reglas; desarrolla las habilidades psicomotoras
+- Contenido: mono, gorila, dado, 9 troncos de palmera de madera, 8 hojas de palmera, 4 fichas plátano, base del juego y rampa de cartón y instrucciones
+- Número de jugadores: de 1 a 4 jugadores
 - Construir una palmera y colocar el mono en lo alto sin que se caiga, ¡Cuidado con el gorila que tratará de derribar el árbol!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
