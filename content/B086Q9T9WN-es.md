@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- gracias a su tamaño compacto. Descubre la colección completa.
 - la clásica cabeza de minifigura de LEGO está lista para afrontar los retos diarios del orden
 - Compatible, apilable, agradable:
-- gracias a su tamaño compacto. Descubre la colección completa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
