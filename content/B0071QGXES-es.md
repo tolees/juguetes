@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bandai Hobby Going Merry Modelo Ship One Piece - Colección Grand Ship  175337 '
-date: 2022-02-26 12:40:36
+date: 2022-03-12 21:54:34
 image: 'https://m.media-amazon.com/images/I/419C1k5wSqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bandai Hobby'
 buyurl: 'https://www.amazon.es/dp/B0071QGXES/?tag=tolees-21'
 descuento: '16.64'
-average: '26.9975'
+average: '27.51'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

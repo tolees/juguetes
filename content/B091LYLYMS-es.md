@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monopoly: The Lord of The Rings - Juego de Mesa Inspirado en la trilogía cinematográfica - Juega como Miembro de la Comunidad - Edad: 8+'
-date: 2022-03-11 17:54:11
+date: 2022-03-12 21:11:25
 image: 'https://m.media-amazon.com/images/I/41BXilvC8WS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Monopoly'
 buyurl: 'https://www.amazon.es/dp/B091LYLYMS/?tag=tolees-21'
 descuento: '20.00'
-average: '31.455'
+average: '30.29'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EL CAMINO a MOUNT DOOM: El jugador que posee el Anillo también mueve una ficha de seguimiento del Anillo por una línea de círculos en el tablero hacia Mount Doom. Pierde o entrega el Anillo y la ficha de seguimiento regresa al Inicio
-- JUEGO MONOPOLY: EDICIÓN THE LORD OF THE RINGS: Protege las distintas regiones de la Tierra Media de los ejércitos de Mordor con este juego Monopoly inspirado en la trilogía de películas The Lord of the Rings
 - Número de jugadores: 2, 6
-- JUEGO DE MESA PARA 2 a 6 JUGADORES: El juego Monopoly es ideal como regalo de cumpleaños o en otras celebraciones para niños y niñas de 8 años en adelante, así como una fantástica opción para noches de juego en familia
 - ANILLO DE PODER: Controla el Anillo y recibe poderes especiales, ¡pero ten cuidado! Mientras más tiempo un jugador posea el Anillo, más peligroso será. Si sacas el Ojo de Sauron en el dado pagarás un gran precio
 - TOKENS DE PERSONAJES DE LOS MIEMBROS DE la COMUNIDAD: Juega como Frodo, Gandalf, Sam, Aragorn, Legolas, Gimli, Pippin, Merry o Boromir
+- JUEGO DE MESA PARA 2 a 6 JUGADORES: El juego Monopoly es ideal como regalo de cumpleaños o en otras celebraciones para niños y niñas de 8 años en adelante, así como una fantástica opción para noches de juego en familia
+- JUEGO MONOPOLY: EDICIÓN THE LORD OF THE RINGS: Protege las distintas regiones de la Tierra Media de los ejércitos de Mordor con este juego Monopoly inspirado en la trilogía de películas The Lord of the Rings
+- EL CAMINO a MOUNT DOOM: El jugador que posee el Anillo también mueve una ficha de seguimiento del Anillo por una línea de círculos en el tablero hacia Mount Doom. Pierde o entrega el Anillo y la ficha de seguimiento regresa al Inicio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
