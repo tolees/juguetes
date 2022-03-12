@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Transductores duales de 60 mm Turtle Beach Eclipse; Los transductores duales patentados diferencian entre frecuencias altas y bajas para ofrecerte la más increíble experiencia de sonido de juego en un entorno acústico extraordinario
-- Alivio para gafas ProSpecs, El exclusivo diseño del sistema ProSpecs de Turtle Beach se centra en la comodidad para eliminar la presión sobre tus gafas mientras juegas
-- Comunicación de nivel pro; Originalmente desarrollado para jugadores profesionales, el micrófono extraíble con cancelación de ruido TruSpeak proporciona una calidad de chat nítida y fiable
-- Controles integrados, Accede fácilmente al control de volumen y al silenciador del micrófono directamente en los auriculares
 - Precisión Turtle Beach AccuTune, Los auriculares, diseñados con precisión e inyectados con un compuesto de madera, proporcionan una acústica mejorada y un sonido realista
+- Comunicación de nivel pro; Originalmente desarrollado para jugadores profesionales, el micrófono extraíble con cancelación de ruido TruSpeak proporciona una calidad de chat nítida y fiable
+- Alivio para gafas ProSpecs, El exclusivo diseño del sistema ProSpecs de Turtle Beach se centra en la comodidad para eliminar la presión sobre tus gafas mientras juegas
+- Controles integrados, Accede fácilmente al control de volumen y al silenciador del micrófono directamente en los auriculares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
