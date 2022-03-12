@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye una minifigura dorada de Lloyd Legacy coleccionable con una pequeña base para celebrar el 10 aniversario de los juguetes NINJAGO.
-- Este juego de juguetes ninja cuenta con 7 minifiguras: los ninja Jay, Kai y Lloyd Legacy, los Maestros Elementales Bolobo, Gravis y Jacob, y el malvado Eyezor, de la temporada 4 de la serie para televisión.
 - El set de construcción LEGO NINJAGO Legacy Torneo de los Elementos (71735) incluye un detallado templo interactivo para que los niños practiquen sus habilidades ninja y representen asombrosas batallas.
-- LEGO NINJAGO cuenta con una fascinante colección de entretenidos juguetes para niños que les reservan un sinfín de horas de diversión imaginativa mientras aprenden habilidades fundamentales para la vida y se embarcan en aventuras con sus héroes.
-- El templo ninja contiene una plataforma de combate para escenificar emocionantes duelos, una armería giratoria y un arma-spinner para practicar habilidades ninja, así como una colección de Espadas de Jade que se entregarán como premio a los ganadores.
-- Encuentra más minifiguras doradas especiales coleccionables en estos otros sets NINJAGO: Destructor de Roca (71736), Deportivo Ninja X-1 (71737) y Combate en el Titán Robot de Zane (71738).
 - Este juego de combate de 283 piezas con figuras coleccionables ofrece una divertida experiencia de construcción a peques a partir de 6 años; además, es el regalo ideal para jóvenes apasionados y apasionadas de NINJAGO.
 - El templo ninja mide aproximadamente 17 cm de altura, 16 cm de anchura y 24 cm de profundidad: un set portátil perfecto para jugar en cualquier lugar, durante un viaje o en casa.
+- El templo ninja contiene una plataforma de combate para escenificar emocionantes duelos, una armería giratoria y un arma-spinner para practicar habilidades ninja, así como una colección de Espadas de Jade que se entregarán como premio a los ganadores.
+- LEGO NINJAGO cuenta con una fascinante colección de entretenidos juguetes para niños que les reservan un sinfín de horas de diversión imaginativa mientras aprenden habilidades fundamentales para la vida y se embarcan en aventuras con sus héroes.
+- Este juego de juguetes ninja cuenta con 7 minifiguras: los ninja Jay, Kai y Lloyd Legacy, los Maestros Elementales Bolobo, Gravis y Jacob, y el malvado Eyezor, de la temporada 4 de la serie para televisión.
+- Incluye una minifigura dorada de Lloyd Legacy coleccionable con una pequeña base para celebrar el 10 aniversario de los juguetes NINJAGO.
+- Encuentra más minifiguras doradas especiales coleccionables en estos otros sets NINJAGO: Destructor de Roca (71736), Deportivo Ninja X-1 (71737) y Combate en el Titán Robot de Zane (71738).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

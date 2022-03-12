@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con colores vivos, detalles de patrocinador y una hélice giratoria que completan un regalo genial para cualquier ocasión para niños y niñas, ¡con un aspecto superrealista!
-- El universo LEGO Technic ofrece juguetes de construcción avanzados para jóvenes fans de LEGO que estén dispuestos a afrontar su próximo desafío creativo.
-- A los niños a partir de 7 años les fascinará construir este duradero avión, y luego transformarlo en un avión a reacción de juguete para hacer divertidas acrobacias
-- Conduce el avión por el suelo y prepárate para el despegue, observa cómo gira la hélice y recrea las maniobras de los mejores pilotos del mundo
-- Instructions PLUS es una guía interactiva que añade aún más diversión a la experiencia de construcción. Disponible en la app gratuita Instrucciones de Montaje LEGO, cuenta con herramientas de acercamiento y giro para ayudar a los peques a construir solos.
 - Los componentes LEGO Technic se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan los requisitos de las normas de seguridad internacionales más estrictas.
-- Los componentes LEGO Technic cumplen las normas más estrictas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y se conectan con firmeza una y otra vez; así ha sido desde 1958.
-- Cuenta con un modelo de avión de juguete 2 en 1 con cubiertas de motor que se abren, tren de aterrizaje y hélice giratoria para recrear aventuras de carreras de aviones
 - Viene con Instructions PLUS, que forma parte de la app gratuita Instrucciones de Montaje LEGO, e incorpora herramientas de zoom y rotación para ayudar a los niños a construir su juguete
+- Con colores vivos, detalles de patrocinador y una hélice giratoria que completan un regalo genial para cualquier ocasión para niños y niñas, ¡con un aspecto superrealista!
+- Instructions PLUS es una guía interactiva que añade aún más diversión a la experiencia de construcción. Disponible en la app gratuita Instrucciones de Montaje LEGO, cuenta con herramientas de acercamiento y giro para ayudar a los peques a construir solos.
+- Cuenta con un modelo de avión de juguete 2 en 1 con cubiertas de motor que se abren, tren de aterrizaje y hélice giratoria para recrear aventuras de carreras de aviones
+- A los niños a partir de 7 años les fascinará construir este duradero avión, y luego transformarlo en un avión a reacción de juguete para hacer divertidas acrobacias
+- El universo LEGO Technic ofrece juguetes de construcción avanzados para jóvenes fans de LEGO que estén dispuestos a afrontar su próximo desafío creativo.
+- Los componentes LEGO Technic cumplen las normas más estrictas del sector, por lo que ofrecen siempre las mismas cualidades, son compatibles entre sí y se conectan con firmeza una y otra vez; así ha sido desde 1958.
+- Conduce el avión por el suelo y prepárate para el despegue, observa cómo gira la hélice y recrea las maniobras de los mejores pilotos del mundo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en Dinamarca
-- Cantidad de artículo: 1
-- Peso del paquete: 14,22 kg
 - LEGO Star Wars Millenium Falcon UCS
+- Fabricado en Dinamarca
+- Peso del paquete: 14,22 kg
+- Cantidad de artículo: 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
