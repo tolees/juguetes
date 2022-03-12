@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A partir de 10 años de edad
 - Mediante un sistema de construcción de mazos podrán mejorar las armas y herramientas de las que disponen
-- The Siege of Runedar es un juego cooperativo de 1 a 4 jugadores
 - Deberán enfrentarse a orcos, goblins y troles, peleando cuerpo a cuerpo contra los que consigan sortear los muros y disparando a distancia a los que pretenden entrar
+- The Siege of Runedar es un juego cooperativo de 1 a 4 jugadores
+- A partir de 10 años de edad
 - Los jugadores se pondrán en la piel de los enanos encargados de defender los muros de Runedar y el tesoro que guardan
 
 [🛒 Aquí!!!]({{< param buyurl >}})
