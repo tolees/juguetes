@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HASBRO GAMING Juego infantil  multicolor  E9707175 '
-date: 2022-03-10 21:18:11
+date: 2022-03-12 20:41:27
 image: 'https://m.media-amazon.com/images/I/51qjsTr7IKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B08HKGRS1R/?tag=tolees-21'
 descuento: '59.63'
-average: '14.21875'
+average: '13.8944444444444'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
