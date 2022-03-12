@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La casa de árbol enchantimals (15.cm) está llena de dulces sorpresas
 - Abre la puerta para ver a la muñeca peeki parrot (9.cm) en el interior, que viene con su figura de animal
+- La casa de árbol enchantimals (15.cm) está llena de dulces sorpresas
 - Dentro del animal tropical más pequeño, hay un accesorio de flor diminuta
-- Los más pequeños disfrutarán de unas historias maravillosas con estos adorables animales de la jungla
 - Este animal se abre para mostrar otro, y otro, y otro
+- Los más pequeños disfrutarán de unas historias maravillosas con estos adorables animales de la jungla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

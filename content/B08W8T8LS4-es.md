@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La mini figura LEGO del conductor tiene un traje de carreras Toyota, un casco de seguridad y una llave inglesa
-- Un juguete estupendo para niños y niñas a partir de 7 años y para aquellos apasionados por los coches deportivos icónicos
 - Con su chasis más ancho de 8 studs, tiene espacio para 2 mini figuras y muchos detalles auténticos
-- Réplica LEGO fielmente detallada del legendario coche deportivo Toyota GR Supra
+- Un juguete estupendo para niños y niñas a partir de 7 años y para aquellos apasionados por los coches deportivos icónicos
 - Los niños y los entusiastas de los coches pueden explorar la construcción del Toyota GR Supra de la vida real mientras construyen, antes de exhibir su creación
+- Réplica LEGO fielmente detallada del legendario coche deportivo Toyota GR Supra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
