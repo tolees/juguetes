@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Indispensable para vivir la experiencia completa
 - Número de jugadores: 2-6
 - Incluye 6 cartas con nuevos y sorprendentes poderes
 - Tablero a doble cara con un circuito en la metrópolis y otro en un cañón
+- Indispensable para vivir la experiencia completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
