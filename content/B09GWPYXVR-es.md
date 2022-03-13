@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Flanquea al enemigo por ambos lados y ataca por atrás para infligirle un potente golpe con un ataque encadenado.
 - Carátula no definitiva.
-- Domina campos de batalla con distintos niveles para triunfar.
 - Elige la posición más ventajosa en los combates por turnos para cambiar el curso de la batalla a tu favor.
+- Domina campos de batalla con distintos niveles para triunfar.
+- Flanquea al enemigo por ambos lados y ataca por atrás para infligirle un potente golpe con un ataque encadenado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
