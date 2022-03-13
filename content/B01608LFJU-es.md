@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
+- Figura pirata con cañón
 - Marca del producto: Playmobil
 - Figura coleccionable
-- Figura pirata con cañón
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
