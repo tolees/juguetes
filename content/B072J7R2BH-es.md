@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contenido: Colorear-24 láminas y 6 ceras de colores, Asociación y lógica: 4 tableros y 24 cartas, Cadena de colores: 28 piezas, Abecedario: 81 piezas, Números: 40 piezas.
-- Piezas perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
-- Recomendado para niños y niñas a partir de 3 años.
-- Un kit de actividades divertidas concebido para reforzar el aprendizaje preescolar en compañía de Peppa Pig
 - Aprenderán el alfabeto, números, colores, animales, asociaciones y mucho más.
+- Piezas perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
+- Un kit de actividades divertidas concebido para reforzar el aprendizaje preescolar en compañía de Peppa Pig
+- Recomendado para niños y niñas a partir de 3 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
