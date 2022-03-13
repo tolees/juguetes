@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten
-- Es adecuado a partir de 7 años
 - Representa una versión gatuna de la ruleta rusa con un componente estratégico
 - Se recomienda para 2-5 jugadores
+- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten
 - Cuando esto sucede, esa persona muere y queda eliminada de la partida
+- Es adecuado a partir de 7 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ángulo de giro máximo de 270° y ajustes configurables
 - Volante y pedales de gran tamaño para una experiencia de conducción realista
-- Compatible con PlayStation 5, PlayStation 4 y PC
-- Licencia oficial de Sony
 - Fijación estable y segura mediante abrazadera
+- Licencia oficial de Sony
+- Ángulo de giro máximo de 270° y ajustes configurables
+- Compatible con PlayStation 5, PlayStation 4 y PC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
