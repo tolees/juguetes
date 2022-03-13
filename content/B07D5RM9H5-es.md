@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ⚙️ CÓMO JUGAR - El clásico juego del mus ahora presentado en una caja de madera inspirada en los mosaicos.
 - 🧠 INTELIGENCIAS MÚLTIPLES - Lógico-matemática: escoge de manera razonada la colocación de las fichas en la mesa. Intepersonal: mejorar las habilidades sociales con el resto de los compañeros.
-- 👩‍🏫 HABILIDADES COGNITIVAS - Razonamiento: escoge las cartas a utilizar. Atención y concentración: estar concentrado en las propias fichas y las cartas. Coordinación óculo-manual: manipular las cartas y las fichas en la mesa de manera correcta.
-- 👨‍🏫 COMPETENCIAS CLAVE - Sociales y cívicas: respetar turno, tolerancia a la frustración, comprender códigos de conducta, empatía. Aprender a aprender: escuchar normas y controlar que las están aplicando bien, percepción de autoeficacia.
 - 🗂️ COMPONENTES: Estuche de madera, baraja de cartas, fichas de juego. EDAD: +14 NIVEL: Primaria.
+- 👨‍🏫 COMPETENCIAS CLAVE - Sociales y cívicas: respetar turno, tolerancia a la frustración, comprender códigos de conducta, empatía. Aprender a aprender: escuchar normas y controlar que las están aplicando bien, percepción de autoeficacia.
+- 👩‍🏫 HABILIDADES COGNITIVAS - Razonamiento: escoge las cartas a utilizar. Atención y concentración: estar concentrado en las propias fichas y las cartas. Coordinación óculo-manual: manipular las cartas y las fichas en la mesa de manera correcta.
+- ⚙️ CÓMO JUGAR - El clásico juego del mus ahora presentado en una caja de madera inspirada en los mosaicos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
