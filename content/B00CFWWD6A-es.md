@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro - Figura de acción del Capitán América de Los Vengadores de Marvel  Serie Titan Hero.'
-date: 2022-02-27 18:06:04
+date: 2022-03-13 12:06:02
 image: 'https://m.media-amazon.com/images/I/41AiwYZF4OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La figura viene con escudo.
 - Figura de Capitán América.
 - Viene con escudo de batalla.
-- La figura viene con escudo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
