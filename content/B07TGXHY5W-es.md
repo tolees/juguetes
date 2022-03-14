@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Habilidades que desarrolla: capacidad de comunicación y visualización y juego en equipo
 - Consigue que tu equipo gane el mayor número de puntos antes de que se acaben las cartas; consigue que tu equipo acierte los temas de las cartas con distintas pruebas ¡El tiempo está en tu contra!
 - Número de jugadores: 2 equipos de hasta 5 jugadores cada uno
-- Contenido: tablero de juego, 250 tarjetas con 500 preguntas, 1 partydado, 1 pizarra, 1 rotulador borrable, 1 gamuza, 2 relojes-peón, 1 bolsa de tela, 22 fichas-respuesta, 6 fichas-hándicap, instrucciones
 - El juego tiene cuatro tipos de prueba distintas: PartyMimo, PartyTrazos, PartySaco y PartyDado
+- Contenido: tablero de juego, 250 tarjetas con 500 preguntas, 1 partydado, 1 pizarra, 1 rotulador borrable, 1 gamuza, 2 relojes-peón, 1 bolsa de tela, 22 fichas-respuesta, 6 fichas-hándicap, instrucciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

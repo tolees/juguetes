@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 4 mini figuras de superhéroes de los Eternos: Ikaris, Sersi y las mini figuras de Ajak y Kingo, una figura de Desviante y una figura de Celestial articulada
+- Entre los accesorios se incluyen 2 dagas, 1 espada, 2 minilanzadores y una cuchilla para un juego creativo sin fin y una diversión repleta de acción
 - La gama LEGO Marvel The Eternals ofrece un juego creativo sin fin y unos sets de juego de superhéroes repletos de acción que pueden combinarse para ampliar la diversión
+- Incluye 4 mini figuras de superhéroes de los Eternos: Ikaris, Sersi y las mini figuras de Ajak y Kingo, una figura de Desviante y una figura de Celestial articulada
 - Se incluyen las pilas para el ladrillo de luz, para que los pequeños superhéroes puedan divertirse y disfrutar creando imaginativas historias nada más abrir la caja
 - Este juguete para niños a partir de 7 años es un regalo de cumpleaños o Navidad de Marvel, y quedará óptimo al exponerse en la habitación de cualquier niño
 - La gran figura del Celestial tiene un pecho que se ilumina gracias al ladrillo con efectos de luz y brazos que pueden agarrar: puede sostener la mini figura de un Eterno en la mano
-- Entre los accesorios se incluyen 2 dagas, 1 espada, 2 minilanzadores y una cuchilla para un juego creativo sin fin y una diversión repleta de acción
 - Los peques unen sus fuerzas con 4 figuras de superhéroes de los Eternos para derrotar a un murciélago Desviante en el juguete A la Sombra de Arishem de LEGO Marvel The Eternals
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
