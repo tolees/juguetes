@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 2 a 4 jugadores
-- Juega como Skekses o Gelflings
 - Totalmente en castellano
+- Juega como Skekses o Gelflings
+- De 2 a 4 jugadores
 - Basado en la película Cristal Oscuro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
