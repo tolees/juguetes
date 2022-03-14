@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los niños extraen una roca de obsidiana para reparar un portal en ruinas y lo atraviesan hacia el rojo y ardiente Nether, donde esperan un esqueleto wither y un hoglin
-- Steve necesita un nuevo conjunto de armadura del Nether, así que los niños extraen oro para el horno y luego crean el nuevo casco, armadura y espada de Steve
-- El portal ancestral, uno de los aspectos más emocionantes de Minecraft, lleva a los jugadores a nuevas aventuras imaginarias sin fin
-- Incluye la popular figura de Minecraft Steve, además de figuras familiares: una ovejita, un hoglin bebé y un esqueleto wither con el que luchar
 - Estos juguetes Minecraft para niños de 8 años y más cuentan con un portal para construir con una peligrosa pasarela interdimensional que se activa a mano
+- El portal ancestral, uno de los aspectos más emocionantes de Minecraft, lleva a los jugadores a nuevas aventuras imaginarias sin fin
+- Steve necesita un nuevo conjunto de armadura del Nether, así que los niños extraen oro para el horno y luego crean el nuevo casco, armadura y espada de Steve
+- Los niños extraen una roca de obsidiana para reparar un portal en ruinas y lo atraviesan hacia el rojo y ardiente Nether, donde esperan un esqueleto wither y un hoglin
+- Incluye la popular figura de Minecraft Steve, además de figuras familiares: una ovejita, un hoglin bebé y un esqueleto wither con el que luchar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
