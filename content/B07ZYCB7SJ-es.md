@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Furreal Friends- Peluche electrónico Mama Josie Y Sus Canguritos  Hasbro E67245L0'
-date: 2022-03-13 22:31:23
+date: 2022-03-14 22:38:10
 image: 'https://m.media-amazon.com/images/I/41eIwF+iotL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FurReal friends'
 buyurl: 'https://www.amazon.es/dp/B07ZYCB7SJ/?tag=tolees-21'
 descuento: '80.35'
-average: '32.5109090909091'
+average: '31.455'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
