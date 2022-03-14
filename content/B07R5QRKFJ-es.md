@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aprieta el botón en la base de la cola para abrir su mandíbula y emitir sonidos de rugidos
 - Inspirado en Jurassic World, este aproximadamente 22 cm de alto y 58 cm de largo, Indominus Rex Devorador cuenta con escamas blancas como fantasmas, despiadada dentadura y unas garras largas y afiladas como cuchillas
 - Aprieta el botón de la espalda para activar los movimientos y los sonidos realistas de desgarramiento
-- El LED de su garganta emana un reflejo rojo que revela la figura de acción humana
-- El Indominus Rex tiene la capacidad de doblarse, agarrar y tragarse a figuras de acción enteras de 9.5 cm
 - Por qué tiene este producto embalaje reducido: Hemos trabajado mucho para reducir el tamaño y los materiales innecesarios en nuestro embalaje nuevo y duradero, minimizando los desechos y las emisiones
-- Aprieta el botón en la base de la cola para abrir su mandíbula y emitir sonidos de rugidos
+- El Indominus Rex tiene la capacidad de doblarse, agarrar y tragarse a figuras de acción enteras de 9.5 cm
+- El LED de su garganta emana un reflejo rojo que revela la figura de acción humana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
