@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una plataforma nube giratoria, que se puede mover utilizando los controles deslizantes hacia delante y hacia atrás para intentar derribar al Lakitu de su nube
+- El set de expansión: Mundo del cielo del Lakitu aporta un desafío para ganar monedas digitales al universo de construcción LEGO Super Mario de los peques hecho con ladrillos
 - Estupendo para jugar a solas o conectarse a través de Bluetooth a la figura de LEGO Mario o Luigi de un amigo para formar un equipo de 2 jugadores y ganar monedas de bonificación
+- Tiene una plataforma nube giratoria, que se puede mover utilizando los controles deslizantes hacia delante y hacia atrás para intentar derribar al Lakitu de su nube
 - La app gratuita LEGO Super Mario ofrece instrucciones de construcción, una plataforma segura donde los niños pueden compartir ideas, y mucho más
 - Es un fantástico regalo de cumpleaños o Navidad para peques a partir de 7 años que tengan un pack inicial de LEGO Super Mario (71360 o 71387), necesario para jugar
-- El set de expansión: Mundo del cielo del Lakitu aporta un desafío para ganar monedas digitales al universo de construcción LEGO Super Mario de los peques hecho con ladrillos
 - También tiene un bloque de tiempo, que da más tiempo a los jugadores para completar el nivel
 - Incluye las figuras LEGO de 3 emblemáticos enemigos de Super Mario: Lakitu, un Bill Balla y un Fuzzy, que añaden un mayor desafío
 
