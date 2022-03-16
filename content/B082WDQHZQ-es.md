@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71360 Super Mario Pack Inicial: Aventuras con Mario  Set Interactivo con Figuras  Juego Construible  Starter Pack'
-date: 2022-03-15 14:53:45
+date: 2022-03-16 15:45:11
 image: 'https://m.media-amazon.com/images/I/519qfBXEPbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B082WDQHZQ/?tag=tolees-21'
 descuento: '20.00'
-average: '54.5864828897332'
+average: '54.5739658444016'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los fans pueden comenzar a explorar el divertidísimo universo LEGO Super Mario con el Pack Inicial: Aventuras con Mario (71360), que incluye 7 ladrillos de acción que interactúan de distintas maneras con la figura de LEGO Mario.
-- A los niños les encantará la app gratuita LEGO Super Mario, que trae instrucciones de construcción, ofrece ideas para divertirse, propone formas creativas de jugar, ¡y mucho más! Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com
-- Además de un sensor de color, la figura de LEGO Mario tiene pantallas LCD en los ojos, la boca y el abdomen para expresar un montón de reacciones instantáneas al movimiento. Incluye también un altavoz que reproduce emblemáticos sonidos y música del videojuego.
-- Este juego de juguetes LEGO coleccionable de 231 piezas es ideal como regalo de cumpleaños o Navidad para niños a partir de 6 años a los que les encante construir y jugar a su manera y aprender a resolver problemas aplicando toda su creatividad.
-- Reorganiza el pack inicial y combínalo con los recorridos de expansión LEGO Super Mario: así crearás más niveles y juegos desafiantes para jugar con tus amigos y competir contra ellos.
-- En este supergenial juego de juguetes, LEGO Mario va acumulando monedas virtuales corriendo y saltando por ladrillos LEGO y plataformas de nubes para llegar desde la tubería inicial hasta el banderín, usando el bloque ? y luchando contra Bowsy y la figura del Goomba.
+- Este set LEGO Super Mario es un regalo de cumpleaños perfecto o de cualquier ocasión para niños de 6 años en adelante amantes de los juegos interactivos y los videojuegos
+- Tu peque podrá ayudar a LEGO Mario a recoger monedas virtuales y saltar desde el tubo de inicio hasta el poste de meta, tocando los 7 ladrillos LEGO interactivos
+- Haz equipo con tu personaje favorito en el mundo real y aprende nuevas maneras de jugar con este increíble set de construcción interactivo LEGO Super Mario
+- Reorganiza el pack inicial a tu gusto y combínalo con otros sets de expansión LEGO Super Mario, ¡crearás desafiantes niveles y juegos interactivos con tus amigos!
+- Esta experiencia de juego de construcción incluye a Goomba y Bowsy, además de 7 ladrillos de acción que forman un recorrido e interactúan con la mini figura LEGO Mario (incluida)
+- Una experiencia única: incluye un altavoz que reproduce sonidos icónicos y música del videojuego e instrucciones de construcción digitales en la app gratuita LEGO Super Mario
+- La mini figura LEGO Mario funciona con 2 pilas AAA (no incluidas) y muestra más de 100 reacciones al movimiento con sus sensores de color y pantallas LCD en ojos, boca y torso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Torre del Reloj de Hogwarts  Juguete de Construcción con 8 Mini Figuras y Decoración de Baile de Navidad'
-date: 2022-03-15 14:03:12
+date: 2022-03-16 15:17:13
 image: 'https://m.media-amazon.com/images/I/516O6mbvkqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07G3S3M9J/?tag=tolees-21'
 descuento: '15.00'
-average: '85.3804371584698'
+average: '85.3797272727271'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este set de juguetes LEGO Harry Potter contiene la Torre del Reloj de Hogwarts, de 3 plantas, con el vestíbulo de entrada, el aula donde se imparte la clase de Defensa Contra las Artes Oscuras, el ala de la enfermería, el baño de prefectos, el despacho de Dumbledore y una sección decorada con glaciales adornos para el Baile de Navidad.
-- Cuenta con un mecanismo para que los peques puedan cambiar la hora del reloj e imaginar aventuras de viajes en el tiempo con el Giratiempo, ¡y una función de “baile” para animar el Baile de Navidad!
-- El vestíbulo de entrada incluye un arcón y el Cáliz de Fuego.
-- El ala de la enfermería incluye 2 camas y 2 lámparas para construir.
-- El aula donde se imparte la clase de Defensa Contra las Artes Oscuras incluye una mesa, una silla, pociones, una vitrina, un libro, un escritorio con tintero y pluma, una lámpara para construir y una pizarra.
-- Todas las figuras llevan varitas y están ataviadas para asistir al Baile de Navidad.
-- Incluye 8 minifiguras inspiradas en el mundo de Harry Potter (novedad en junio de 2019): Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore y Madame Maxime.
+- Este set es compatible con otros de la gama LEGO Harry Potter: tu peque podrá construir el castillo de Hogwarts al completo y recrear sus escenas favoritas de las películas
+- Las 8 mini figuras LEGO vienen con varitas y disfraces de Yule Ball, tu peque acompañará a Harry, Ron, Hermione, Fleur, Cedric, Viktor, Dumbledore y Madame Maxime
+- Construye un castillo de juguete mágicocon este LEGO de Harry Potter Torre del Reloj de Hogwarts, un set de construcción de 3 pisos lleno de accesorios para explorar y jugar
+- Los peques podrán viajar y vivir aventuras en el tiempo, presenciar el famoso Baile de Navidad o explorar esta parte del castillo de Hogwarts
+- Este castillo Harry Potter LEGO cuenta con un aula de Defensa Contra las Artes Oscuras, oficina de Dumbledore, ala del hospital, baño de los prefectos y escena del Baile de Navidad
+- Los peques pueden cambiar la hora del reloj de la torre y viajar en el tiempo con el Giratiempo de Hermione, ¡hasta hay una función de movimiento para animar el Baile de Navidad!
+- Este set LEGO es el regalo perfecto de cumpleaños o en cualquier ocasión para niños de 9 años amantes de Harry Potter, su mundo mágico y de los juegos de construcción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
