@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pon a prueba tus habilidades para la ingeniería para construir este impresionante coche, ¡y después usa el motor retráctil y prepárate para salir a toda velocidad!
-- Este coche de juguete retráctil es un gran regalo de cumpleaños o para cualquier ocasión para niños y adultos que adoran los coches de Porsche, la Fórmula E o los juguetes de RA
 - Con la app de realidad aumentada, los peques podrán decidir cuánta energía trasladar al coche antes de hacer una salida perfecta en carrera usando el botón
-- Descarga la app de RA de LEGO Technic, escanea la maqueta, tira hacia atrás del coche usando el pie y verás cómo cobra vida en emocionantes carreras repletas de adrenalina
+- Este coche de juguete retráctil es un gran regalo de cumpleaños o para cualquier ocasión para niños y adultos que adoran los coches de Porsche, la Fórmula E o los juguetes de RA
 - La app de RA de LEGO Technic da vida a las carreras. Elige tu pista y domina el arte de la gestión energética para llegar en primer lugar a la bandera de cuadros
+- Pon a prueba tus habilidades para la ingeniería para construir este impresionante coche, ¡y después usa el motor retráctil y prepárate para salir a toda velocidad!
 - La maqueta de Porsche para construir es un modelo original, réplica del auténtico Porsche de carreras de la Fórmula E, que incluye logotipos de los patrocinadores
 - Esta maqueta de coche para construir para niños y adolescentes incluye un coche de juguete retráctil con detalles auténticos y la app de realidad aumentada de LEGO
+- Descarga la app de RA de LEGO Technic, escanea la maqueta, tira hacia atrás del coche usando el pie y verás cómo cobra vida en emocionantes carreras repletas de adrenalina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
