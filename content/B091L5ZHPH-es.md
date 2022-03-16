@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MONOPOLY LA CASA DE Papel'
-date: 2022-03-11 17:45:38
+date: 2022-03-15 22:09:30
 image: 'https://m.media-amazon.com/images/I/51UoNYLF4ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Monopoly'
 buyurl: 'https://www.amazon.es/dp/B091L5ZHPH/?tag=tolees-21'
 descuento: '20.01'
-average: '23.4622222222222'
+average: '23.115'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
