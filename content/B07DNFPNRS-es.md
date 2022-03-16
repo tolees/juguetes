@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las estaciones dinámicas lo cambian todo en el festival automovilístico
-- Ve por cuenta propia o únete a otros equipos para explorar la histórica Gran Bretaña en un mundo abierto compartido
-- Compite, realiza acrobacias, crea y explora: elige tu propio camino para convertirte en una Superestrella Horizon
 - Colecciona, modifica y conduce más de 450 coches
+- Ve por cuenta propia o únete a otros equipos para explorar la histórica Gran Bretaña en un mundo abierto compartido
+- Las estaciones dinámicas lo cambian todo en el festival automovilístico
+- Compite, realiza acrobacias, crea y explora: elige tu propio camino para convertirte en una Superestrella Horizon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

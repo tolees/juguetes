@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Texturas mejoradas & Libro de arte de 140 páginas
 - Velocidad de fotogramas mejorada hasta 60 FPS & Resolución 4K
 - Postales con arte original del juego & Portada reversible con arte adicional
-- Texturas mejoradas & Libro de arte de 140 páginas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
