@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Varie Asterión 8005 - Dixit Odyssey  Italiano Edition. Juego de Mesa [Nueva versión]'
-date: 2022-03-16 16:30:43
+date: 2022-03-17 17:00:00
 image: 'https://m.media-amazon.com/images/I/41rV5jRBFCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Varie'
 buyurl: 'https://www.amazon.es/dp/B00PQ7TYXQ/?tag=tolees-21'
 descuento: '26.36'
-average: '26.21'
+average: '25.5466666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Número de jugadores: 3-12
-- Duración media: 30 minutos
-- Edición en italiano
 - Número de jugadores: 3 - 12
-- Idioma: edición multilingüe con italiano
 - Dixit, el juego de creatividad y fantasía en un formato de hasta 12 jugadores, con tarjetas ilustradas y que permite la experiencia de juego también en equipos
+- Edición en italiano
 - Edad recomendada: a partir de 8 años
+- Duración media: 30 minutos
+- Idioma: edición multilingüe con italiano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
