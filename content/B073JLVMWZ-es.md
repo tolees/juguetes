@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 9 - 12 años
+- 6 años
 - El trono del hierro el juego de mesa de intriga y traición por el conrol de Poniente
 - 99 años
-- 6 años
+- 9 - 12 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

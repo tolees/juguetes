@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vehículos de juguete para coleccionar
+- Ayuda a estimular la creatividad
 - Cada modelo tiene su propio poder
 - Edad recomendada: a partir de 3 años
-- Ayuda a estimular la creatividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
