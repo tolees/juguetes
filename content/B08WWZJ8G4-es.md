@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ambos coches de carreras de juguete coleccionables tienen el tamaño óptimo para jugar en casa o en la oficina, un regalo LEGO óptimo para niños y niñas de 8 años en adelante
-- Los niños pueden explorar la composición de 2 Corvettes de la vida real mientras construyen, antes de enseñarlos o montar una carrera épica de Speed Champions
-- La corbeta roja del 68 es un impresionante modelo de coche LEGO histórico que compite con el moderno gris, rojo y amarillo del 20 con un gran alerón
 - Este juguete de coche de carreras LEGO incluye 2 modelos para construir: el coche de carreras Chevrolet Corvette C8.R 2020 y el coche deportivo Chevrolet Corvette de 1968
 - Incluye 2 mini figuras LEGO de pilotos de carreras de Chevrolet, preparadas y listas para usar, con monos de carrera, cascos y una llave inglesa
+- La corbeta roja del 68 es un impresionante modelo de coche LEGO histórico que compite con el moderno gris, rojo y amarillo del 20 con un gran alerón
+- Ambos coches de carreras de juguete coleccionables tienen el tamaño óptimo para jugar en casa o en la oficina, un regalo LEGO óptimo para niños y niñas de 8 años en adelante
+- Los niños pueden explorar la composición de 2 Corvettes de la vida real mientras construyen, antes de enseñarlos o montar una carrera épica de Speed Champions
 
 [🛒 Comprar!!!]({{< param buyurl >}})
