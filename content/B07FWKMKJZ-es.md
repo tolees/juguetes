@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Edad: 3 años.
 - El juego con figuras de acción enseña a los niños valores positivos desde pequeños. Las figuras de acción invitan al niño a crear sus propias historias, dando rienda suelta a su imaginación, lo que estimula su confianza en sí mismo y su autonomía.
+- Edad: 3 años.
 - Disney toy story 4 pack de 10 amiguitos, figuras básicas de los personajes de la película (mattel gcy86).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
