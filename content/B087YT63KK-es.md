@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye: dos latas de slime, una pinzas de dedo y un cubo
 - Snotty Scotty slime con figura de Robby Rotzkopf
 - Slime en dos tonos diferentes de verde
 - Edad recomendada: a partir de 3 años
+- Incluye: dos latas de slime, una pinzas de dedo y un cubo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
