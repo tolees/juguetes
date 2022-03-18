@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - CONTENTS: 1000-piece jigsaw puzzle with dimensions 98 x 33 cm
-- COUNTRY OF ORIGIN: 100 Percent Made in Italy
 - TYPOLOGY: Wonderful Gift Choice. It’s the most gifted present choice for Christmas, Birthday and other holidays
-- CATEGORY: Adult Puzzle
 - RECOMMENDED AGE: 10 - 99 years
+- COUNTRY OF ORIGIN: 100 Percent Made in Italy
 - FEATURES: Suggestive images quality printing precise cut-outs sturdy and precious materials
+- CATEGORY: Adult Puzzle
 
 [🛒 Aquí!!!]({{< param buyurl >}})

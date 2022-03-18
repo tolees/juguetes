@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- UN JUEGO ÚNICO DE ESTRATEGIA Y HABILIDAD para toda la familia: construir una torre y ser el 1er jugador en colocar todas sus piezas sin derrumbarla
+- CONSTRUCCIÓN DE UNA TORRE por turnos, los jugadores deben lanzar el dado y colocar o quitar el número indicado de piezas
+- UN JUEGO DIVERTIDO Y EDUCATIVO donde los niños tienen que entender y dominar la gravedad mientras usen de sus habilidades motoras finas y creen estrategias para poder ganar
 - 48 PIEZAS DE DIFERENTES COLORES, TAMAÑOS Y FORMAS: hay 4 colores en total; cada jugador reciben 12 piezas con 4 formas diferentes
 - UNA BASE FLOTANTE E INESTABLE: la base flota por efecto de gravedad. Cada vez que un jugador coloca una pieza, la base se mueve. Si la torre se cae, el jugador pierde
-- UN JUEGO DIVERTIDO Y EDUCATIVO donde los niños tienen que entender y dominar la gravedad mientras usen de sus habilidades motoras finas y creen estrategias para poder ganar
-- CONSTRUCCIÓN DE UNA TORRE por turnos, los jugadores deben lanzar el dado y colocar o quitar el número indicado de piezas
+- UN JUEGO ÚNICO DE ESTRATEGIA Y HABILIDAD para toda la familia: construir una torre y ser el 1er jugador en colocar todas sus piezas sin derrumbarla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
