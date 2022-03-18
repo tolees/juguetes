@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rompecabezas de 1000 piezas
 - Rompecabezas de alta calidad
+- Rompecabezas de 1000 piezas
 - Fabricado en Polonia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
