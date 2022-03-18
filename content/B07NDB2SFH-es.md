@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars YodaSet de ConstrucciónRegalos de Navidad para Niños 10 Años OriginalesModelo Coleccionable'
-date: 2022-03-16 15:18:22
+date: 2022-03-18 03:54:52
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
 descuento: '23.29'
-average: '99.2844356955377'
+average: '99.2749410222801'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 17101 Boost Caja de Herramientas Creativas  Codificación para Niños  Set de Robótica  Modelo de Construcción 5en1  Juguete Interactivo con Robot Programable'
-date: 2022-03-17 03:28:28
+date: 2022-03-18 04:52:45
 image: 'https://m.media-amazon.com/images/I/51bEUcnYYyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B06X6GN2VQ/?tag=tolees-21'
 descuento: '16.51'
-average: '155.968503703711'
+average: '155.947721893498'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Programa a Vernie el robot para que baile, dispare a la diana, cante beatbox, use su palo de hockey o incluso juegue a algo.
-- Incluye un concentrador motorizado LEGO, un motor adicional y un sensor de color y distancia, así como más de 840 piezas LEGO.
-- Construye el M.T.R.4 y elige entre diferentes herramientas y accesorios de personalización para completar misiones o luchar contra otros róvers.
-- Cuida de tu propia mascota con Frankie el gato. ¡Asegúrate de darle la comida correcta si no quieres que se enfade!
 - Construye, programa y controla el Autoconstructor para producir auténticos modelos LEGO en miniatura.
+- Programa a Vernie el robot para que baile, dispare a la diana, cante beatbox, use su palo de hockey o incluso juegue a algo.
+- Construye el M.T.R.4 y elige entre diferentes herramientas y accesorios de personalización para completar misiones o luchar contra otros róvers.
+- Incluye un concentrador motorizado LEGO, un motor adicional y un sensor de color y distancia, así como más de 840 piezas LEGO.
 - Construye y programa robots y modelos, y completa las más de 60 emocionantes actividades que incluye la app LEGO BOOST para ciertos dispositivos inteligentes iOS, Android y Kindle. Visita LEGO.com
 - Aprende a tocar una canción y rocanrolea con la Guitarra4000.
+- Cuida de tu propia mascota con Frankie el gato. ¡Asegúrate de darle la comida correcta si no quieres que se enfade!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
