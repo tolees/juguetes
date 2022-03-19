@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las reglas de campaña otorgan profundidad adicional a tus decisiones y te permiten "subir el nivel" a tu mazo entre aventuras.
-- Los investigadores se oponen a los desafíos de las cartas de Escenario específicas para la aventura.
-- Difumina la línea que separa los juegos de cartas tradicionales de las experiencias de los juegos de rol.
-- Un juego de cartas cooperativo Living Card Game en un ambiente de horror lovecraftiano para 1 a 2 jugadores (o hasta 4 con 2 cajas básicas).
 - Los jugadores asumen el papel de investigadores únicos marcados por virtudes y defectos.
+- Los investigadores se oponen a los desafíos de las cartas de Escenario específicas para la aventura.
+- Un juego de cartas cooperativo Living Card Game en un ambiente de horror lovecraftiano para 1 a 2 jugadores (o hasta 4 con 2 cajas básicas).
+- Difumina la línea que separa los juegos de cartas tradicionales de las experiencias de los juegos de rol.
+- Las reglas de campaña otorgan profundidad adicional a tus decisiones y te permiten "subir el nivel" a tu mazo entre aventuras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
