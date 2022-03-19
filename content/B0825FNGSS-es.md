@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eleven Force - Cluedo Rick y Morty  Juego de Mesa  Multicolor'
-date: 2022-03-08 13:53:49
+date: 2022-03-19 15:18:46
 image: 'https://m.media-amazon.com/images/I/51zvViU2I0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eleven Force'
 buyurl: 'https://www.amazon.es/dp/B0825FNGSS/?tag=tolees-21'
 descuento: '25.47'
-average: '23.5362499999999'
+average: '23.5149999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Licencia Oficial
-- Juego Familiar
 - Juego de Mesa
 - Rick Morty
+- Licencia Oficial
 - Cluedo
+- Juego Familiar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
