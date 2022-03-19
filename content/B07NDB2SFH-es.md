@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75255 Star Wars YodaSet de ConstrucciónRegalos de Navidad para Niños 10 Años OriginalesModelo Coleccionable'
-date: 2022-03-18 03:54:52
+date: 2022-03-19 04:04:59
 image: 'https://m.media-amazon.com/images/I/515kVfu6lQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07NDB2SFH-es LEGO 75255 Star Wars YodaSet de ConstrucciónRegalos de...'
 sku: 'B07NDB2SFH-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego', ]
-actualPrice: 92.04 EUR
+actualPrice: 101.99 EUR
 currency: EUR
-price: 92.04
+price: 101.99
 comparePrice: 119.99 EUR
 prodname: 'LEGO 75255 Star Wars YodaSet de ConstrucciónRegalos de Navidad para Niños 10 Años OriginalesModelo Coleccionable'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07NDB2SFH/?tag=tolees-21'
-descuento: '23.29'
-average: '99.2749410222801'
+descuento: '15.00'
+average: '99.2784947643975'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
