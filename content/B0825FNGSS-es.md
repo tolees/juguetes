@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Juego de Mesa
 - Rick Morty
-- Licencia Oficial
 - Cluedo
+- Licencia Oficial
 - Juego Familiar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
