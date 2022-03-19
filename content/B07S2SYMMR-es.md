@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Libro interactivo de Peppa Pig para aprender el abecedario
 - Cada página tiene 4 palabras, relacionadas con el mismo tema, y en cada página se narran diferentes escenarios
-- Incluye 4 botones con luz y 4 modos de juego: modo letras, modo historia, modo búsqueda y modo música
-- Con sus educativos juegos y funciones, enseña letras, palabras y reproduce divertidas canciones y melodías
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Libro interactivo de Peppa Pig para aprender el abecedario
 - Versión española
+- Con sus educativos juegos y funciones, enseña letras, palabras y reproduce divertidas canciones y melodías
+- Incluye 4 botones con luz y 4 modos de juego: modo letras, modo historia, modo búsqueda y modo música
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 - Incorpora botones de 4 personajes: Peppa, George, Papá y Mamá; Al presionarlos se escuchan sus voces y frases habituales de la serie de TV
 
 [🛒 Visítala!!!]({{< param buyurl >}})
