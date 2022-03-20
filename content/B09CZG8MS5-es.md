@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - producto 2: El kit de construcción LEGO Ramo de Flores (10280) es tanto un regalo exclusivo como un proyecto que favorece la atención plena: una preciosa maqueta floral para exponer que se compone íntegramente de piezas LEGO. (Jarrón no incluido).
-- producto 1: Este juguete de construcción LEGO para adultos ofrece una pieza icónica de decoración para la casa o la oficina que será el centro de atención y levantará comentarios de admiración
-- producto 1: Este impresionante homenaje a Marvel presenta el guantelete de Thanos con dedos móviles y colores vibrantes que dan como resultado una pieza de exhibición para siempre
-- producto 1: Cuenta con una recreación de ladrillos LEGO del icónico Guantelete del Infinito con las Gemas del Infinito y un soporte resistente con una leyenda descriptiva
-- producto 2: El Ramo de Flores ofrece un vibrante despliegue de colores e interesantes formas que se inspiran en flores reales como las rosas, las bocas de dragón, las amapolas, los asteres, las margaritas y distintos tipos de follaje.
-- producto 2: Deja que florezca tu imaginación con sus elementos personalizables. Coloca los pétalos y las hojas, y cambia después la longitud de los tallos para crear maravillosos arreglos que lucirán preciosos en tu hogar.
-- producto 1: El guante dorado de Thanos captura para siempre el cautivador estilo de las películas Avengers: Infinity War y Avengers: Endgame de Marvel Studios
 - producto 2: ¿Buscas los mejores regalos para cumpleaños, aniversarios u ocasiones especiales
+- producto 1: El guante dorado de Thanos captura para siempre el cautivador estilo de las películas Avengers: Infinity War y Avengers: Endgame de Marvel Studios
+- producto 1: Cuenta con una recreación de ladrillos LEGO del icónico Guantelete del Infinito con las Gemas del Infinito y un soporte resistente con una leyenda descriptiva
+- producto 2: Deja que florezca tu imaginación con sus elementos personalizables. Coloca los pétalos y las hojas, y cambia después la longitud de los tallos para crear maravillosos arreglos que lucirán preciosos en tu hogar.
+- producto 1: Este juguete de construcción LEGO para adultos ofrece una pieza icónica de decoración para la casa o la oficina que será el centro de atención y levantará comentarios de admiración
+- producto 2: El Ramo de Flores ofrece un vibrante despliegue de colores e interesantes formas que se inspiran en flores reales como las rosas, las bocas de dragón, las amapolas, los asteres, las margaritas y distintos tipos de follaje.
+- producto 1: Este impresionante homenaje a Marvel presenta el guantelete de Thanos con dedos móviles y colores vibrantes que dan como resultado una pieza de exhibición para siempre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
