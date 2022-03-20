@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZIPRO Bicicleta elíptica para Casa Shox  Entrenador eliptico  LCD Pantalla  sensores de Pulso  Ajuste de Resistencia  120kg'
-date: 2022-03-13 18:01:55
+date: 2022-03-20 13:28:19
 image: 'https://m.media-amazon.com/images/I/319jGePerYS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
