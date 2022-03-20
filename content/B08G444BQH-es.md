@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75300 Star Wars Caza Tie Imperial  Juguete de Construcción con Mini Figuras de Stormtrooper y Piloto de Saga Skywalker'
-date: 2022-03-13 19:52:19
+date: 2022-03-20 15:19:39
 image: 'https://m.media-amazon.com/images/I/51vWa35x10L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G444BQH-es LEGO 75300 Star Wars Caza Tie Imperial Juguete de...'
 sku: 'B08G444BQH-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego', ]
-actualPrice: 33.29 EUR
+actualPrice: 27.89 EUR
 currency: EUR
-price: 33.29
+price: 27.89
 comparePrice: 39.99 EUR
 prodname: 'LEGO 75300 Star Wars Caza Tie Imperial  Juguete de Construcción con Mini Figuras de Stormtrooper y Piloto de Saga Skywalker'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G444BQH/?tag=tolees-21'
-descuento: '16.75'
-average: '38.7715706806285'
+descuento: '30.26'
+average: '38.6457360406094'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para construir a solas o para compartir la diversión con amigos y familiares, este set es el mejor regalo de cumpleaños, obsequio de Navidad o premio sorpresa para niños creativos y fans de Star Wars a partir de 8 años.
-- Mide aproximadamente 17 cm de altura, 14 cm de longitud y 15 cm de anchura. Sus dimensiones convierten al modelo en una llamativa pieza de exposición que quedará impresionante en la habitación de cualquier peque entre sesiones de juego y batallas.
-- Cuando los fans tengan en las manos el juego construible Caza TIE Imperial (75300), poseerán su propia versión para construir con ladrillos LEGO (capaz de disparar) de la icónica nave y podrán recrear escenas de la trilogía clásica de Star Wars.
-- El caza TIE está equipado con cabina abatible para una minifigura LEGO y 2 cañones automáticos que prometen acción a raudales.
-- Los sets LEGO Star Wars son fantásticos para que los niños (y los fans adultos) recreen las escenas de la saga, interpreten sus propias y creativas historias o simplemente construyan y expongan las maquetas de construcción coleccionables.
-- Además de 2 minifiguras LEGO Star Wars: un piloto de caza TIE con una pistola bláster y un soldado de asalto con un bláster, incluye también una figura LEGO de un droide de protocolo NI-L8 para interpretar grandes aventuras.
+- Esta fiel y detallada versión del Caza TIE se construye con ladrillos LEGO y dispara misiles desde los lados
+- Este juguete para niños de 8 años en adelante es el regalo de Star Wars perfecto de cumpleaños o de cualquier ocasión para amantes de la acción y una galaxia muy, muy lejana
+- Esta fascinante nave estelar de Star Wars cuenta con cabina abatible para una mini figura LEGO y 2 cañones automáticos para vivir auténticas aventuras llenas de acción
+- Compatible con otros sets LEGO Star Wars, esta maqueta para construir es perfecta para que los niños inventen sus propias historias galácticas
+- Vive tus escenas favoritas de la clásica trilogía de Star Wars con este juego de construcción del icónico Caza TIE Imperial
+- Una pieza de decoración infantil con la que la diversión no tiene límites, cuando los peques acaban de jugar y explorar pueden exponer el Caza TIE en su habitación
+- Incluye 2 mini figuras de la saga: un piloto de caza TIE y un Stormtrooper, ambos armados con pistolas bláster, ¡y además de una figura LEGO de un droide de protocolo NI-L8!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
