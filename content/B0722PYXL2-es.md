@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Había una vez un maravilloso bosque lleno de riquísimas frutas; esas frutas podían ser exprimidas y mezcladas para hacer los zumos más deliciosos
-- Producto en castellano
-- Amables moradores del bosque te ayudarán en esa búsqueda: te darán frutas, las intercambiarán contigo o te ayudarán de otras formas
 - Tú vives en ese bosque y vas en busca de las frutas más sabrosas
+- Producto en castellano
 - Eres glotón y estás sediento; ¿serás el primero en satisfacer tu apetito de Frutas Fabulosas?
+- Amables moradores del bosque te ayudarán en esa búsqueda: te darán frutas, las intercambiarán contigo o te ayudarán de otras formas
+- Había una vez un maravilloso bosque lleno de riquísimas frutas; esas frutas podían ser exprimidas y mezcladas para hacer los zumos más deliciosos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
