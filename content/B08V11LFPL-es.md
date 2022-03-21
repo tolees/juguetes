@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie Color Reveal Set de fiesta para regalo  muñecas sorpresa de juguete con accesorios y juego de mesa  Mattel GXJ88 '
-date: 2022-03-18 10:55:27
+date: 2022-03-21 16:41:06
 image: 'https://m.media-amazon.com/images/I/51rHdj7OmAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08V11LFPL-es Barbie Color Reveal Set de fiesta para regalo muñecas...'
 sku: 'B08V11LFPL-es'
 tags: [ 'Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','barbie','de','juego','mattel','mesa', ]
-actualPrice: 37.38 EUR
+actualPrice: 32.23 EUR
 currency: EUR
-price: 37.38
+price: 32.23
 comparePrice: 74.99 EUR
 prodname: 'Barbie Color Reveal Set de fiesta para regalo  muñecas sorpresa de juguete con accesorios y juego de mesa  Mattel GXJ88 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Barbie'
 buyurl: 'https://www.amazon.es/dp/B08V11LFPL/?tag=tolees-21'
-descuento: '50.15'
-average: '37.38'
+descuento: '57.02'
+average: '34.805'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
