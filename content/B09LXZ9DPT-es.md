@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Conexiones múltiples】 Equipado con HDMI, USB, interfaces AV, el mini proyector es compatible con Teléfono / Android / TV Box / TV Stick / Xbox / PC y más dispositivos. Puedes disfrutar de la felicidad de la gran pantalla en cualquier momento."
-- 【Altavoz doble y bajo nivel de ruido】 Equipado con los altavoces estéreo dobles integrados de 2 * 5 W con un sistema de sonido SRS, puede disfrutar del sonido envolvente de calidad cinematográfica. Adoptado el último sistema de enfriamiento, el mini proyector puede reducir efectivamente el ruido y el problema de sobrecalentamiento.
-- 【Mini diseño y pantalla enorme】 El tamaño del proyector es de solo 20 * 18 * 9 cm, y el peso es de 1,3 kg, diseño muy mini y portátil. El proyector también está equipado con una pantalla más grande de 180 ""como máximo y tecnología LED de baja luz estroboscópica, lo que ofrece una experiencia visual impresionante y también protege sus ojos.
 - 【Experiencia de visualización actualizada en 2021】 Con una resolución de 1920 * 1080 y un contraste de 6000: 1, el proyector puede mostrar la imagen de video con gran detalle. El proyector también admite entrada 4K y salida 1080P. El proyector Native 1080P ofrece imágenes vibrantes y una precisión de color impresionante.
+- 【Mini diseño y pantalla enorme】 El tamaño del proyector es de solo 20 * 18 * 9 cm, y el peso es de 1,3 kg, diseño muy mini y portátil. El proyector también está equipado con una pantalla más grande de 180 ""como máximo y tecnología LED de baja luz estroboscópica, lo que ofrece una experiencia visual impresionante y también protege sus ojos.
 - 【Fácil de configurar y operar】 El proyector tiene un zoom de 75% -100% y corrección trapezoidal electrónica vertical de ± 15 °, y funciones más fáciles de usar para hacer que el proyector sea mucho más fácil de configurar y operar.
+- 【Altavoz doble y bajo nivel de ruido】 Equipado con los altavoces estéreo dobles integrados de 2 * 5 W con un sistema de sonido SRS, puede disfrutar del sonido envolvente de calidad cinematográfica. Adoptado el último sistema de enfriamiento, el mini proyector puede reducir efectivamente el ruido y el problema de sobrecalentamiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
