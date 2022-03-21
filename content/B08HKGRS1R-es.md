@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones del paquete: 273.0 L x 342.9 H x 254.0 W (millimeters)
-- Cocodrilo sacamuelas lanzador
 - Marca: Hasbro Gaming
+- Cocodrilo sacamuelas lanzador
 - Peso del paquete: 2.3 kilograms
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
