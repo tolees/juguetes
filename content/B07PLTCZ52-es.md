@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un juego sencillo y educativo que enseña a los niños cómo escribir sus primeras letras y palabras utilizando las pizarras y un rotulador
-- Las pizarras en las que se pueden borrar y volver a escribir, permiten al niño practicar y mejorar la escritura de forma gradual
 - El niño entrará en el mundo de la escritura de forma progresiva y entretenida
 - Juguete en español
+- Las pizarras en las que se pueden borrar y volver a escribir, permiten al niño practicar y mejorar la escritura de forma gradual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
