@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vive una perspectiva con el inmersivo modo de primera persona de Aftermath; sube de nivel ocho clases: pistolero, destructor, rebanador, médico, manitas, exterminador, maestro de drones y una vanguardista, cada una de ellas con sus propias ventajas y estilos de juego; personaliza tus armas para sobrevivir a cualquier desafío y conquista misiones diarias con modificadores para conseguir recompensas adicionales
 - Recupera el Vaticano en una confrontación en las calles de Roma y únete a los supervivientes de la península rusa de Kamchatka; juega tanto con personajes como con otros conocidos para enfrentarte a los muertos vivientes con un sistema brutal de combate cuerpo a cuerpo, decimar a los zekes con movimientos, ventajas y armas duales como la hoz y el cuchillo; rechaza a monstruosidades muertas vivientes, incluyendo manadas de ratas hambrientas que desatarán el caos en tu equipo
+- Vive una perspectiva con el inmersivo modo de primera persona de Aftermath; sube de nivel ocho clases: pistolero, destructor, rebanador, médico, manitas, exterminador, maestro de drones y una vanguardista, cada una de ellas con sus propias ventajas y estilos de juego; personaliza tus armas para sobrevivir a cualquier desafío y conquista misiones diarias con modificadores para conseguir recompensas adicionales
 - Juega en una buena calidad: 4K|60 FPS; resiste el asalto de oleadas infinitas de zombis fuertes en el modo de juego Modo Horda XL, con cientos de zombis más en pantalla de lo que era posible anteriormente; el Modo Horda XL llegará en una actualización después del lanzamiento en PC
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
