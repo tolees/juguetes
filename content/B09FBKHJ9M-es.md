@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon
 - Solo Aloy es capaz de restablecer el orden y el equilibrio en el mundo
 - Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
 - Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
-- Descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
