@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Figura y vehículo de Star Wars Mission Fleet Han Solo Millennium Falcon a escala de 2 5 pulgadas  juguetes para niños a partir de 4 años'
-date: 2022-03-25 13:00:44
+date: 2022-03-26 22:58:51
 image: 'https://m.media-amazon.com/images/I/51V60Oa3gEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Star Wars'
 buyurl: 'https://www.amazon.es/dp/B07ZYBW78X/?tag=tolees-21'
 descuento: '37.01'
-average: '38.5310256410256'
+average: '38.355'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
