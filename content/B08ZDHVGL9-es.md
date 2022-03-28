@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games X-Men: Insurrección Mutante - Juego de Cartas en español'
-date: 2022-03-18 10:47:34
+date: 2022-03-28 15:58:48
 image: 'https://m.media-amazon.com/images/I/51R1dHhivWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B08ZDHVGL9/?tag=tolees-21'
 descuento: '50.01'
-average: '40.8215'
+average: '40.3057142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡Elige entre 8 planes distintos y despega en el Pájaro Negro rumbo a misiones por todo el mundo en las que deberás abrirte camino combatiendo hasta llegar al enfrentamiento final!
-- De 1 a 6 Jugadores
 - Llamando a todos los mutantes: ¡el profesor Xavier necesita vuestra ayuda!
 - A partir de 14 años de edad
 - ¡Forma parte de la Patrulla-X en sus esfuerzos para proteger a la humanidad!
+- De 1 a 6 Jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
