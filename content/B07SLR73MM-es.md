@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pinypon Action - Súper Coche con la Figura de un espía y Accesorios  para niños y niñas de 4 a 8 años  Famosa 700015150 '
-date: 2022-03-20 18:16:15
+date: 2022-03-30 19:35:49
 image: 'https://m.media-amazon.com/images/I/51lnXhwbGnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pinypon Action'
 buyurl: 'https://www.amazon.es/dp/B07SLR73MM/?tag=tolees-21'
 descuento: '57.44'
-average: '13.5481372549019'
+average: '13.4990291262135'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

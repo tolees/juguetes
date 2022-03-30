@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Matagot Aztec - Juego de Mesa en español  SAZT001 '
-date: 2022-03-29 17:10:38
+date: 2022-03-30 18:03:05
 image: 'https://m.media-amazon.com/images/I/41Wbu3O6gMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B094YNNWKP-es Matagot Aztec - Juego de Mesa en español SAZT001'
 sku: 'B094YNNWKP-es'
 tags: [ 'Juego de mesa','Juegos de habilidad','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','de','juego','matagot','mesa', ]
-actualPrice: 9.84 EUR
+actualPrice: 9.64 EUR
 currency: EUR
-price: 9.84
+price: 9.64
 comparePrice: 14.99 EUR
 prodname: 'Matagot Aztec - Juego de Mesa en español  SAZT001 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Matagot'
 buyurl: 'https://www.amazon.es/dp/B094YNNWKP/?tag=tolees-21'
-descuento: '34.36'
-average: '11.9033333333333'
+descuento: '35.69'
+average: '11.58'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

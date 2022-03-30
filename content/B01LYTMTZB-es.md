@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Viaja por el País Vasco buscando las mejores oportunidades! Pasea por las ciudades, las fiestas y playas que conforman el País Vasco.
-- A partir de 8 años.
-- De 2 a 6 jugadores.
-- Los jugadores pueden lanzar los dados para mover sus fichas y comprar, vender y negociar las propiedades al estilo Monopoly.
 - El clásico juego de Monopoly con diversión para niños y adultos por igual.
+- De 2 a 6 jugadores.
 - Juega en los diferentes escenarios como el puente de Bizkaia o las regatas de Traineras y degusta sus pintxos y los platos típicos de la Cocina Vasca mientras recorres el tablero.
+- A partir de 8 años.
+- ¡Viaja por el País Vasco buscando las mejores oportunidades! Pasea por las ciudades, las fiestas y playas que conforman el País Vasco.
+- Los jugadores pueden lanzar los dados para mover sus fichas y comprar, vender y negociar las propiedades al estilo Monopoly.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

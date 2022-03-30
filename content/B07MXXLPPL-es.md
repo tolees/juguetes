@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Favorece la concentración y las habilidades manuales
 - Hecho en Italia
+- Favorece la concentración y las habilidades manuales
 - Fácil encaje, y dibujos sencillos, para conocer el apasionante mundo de los Puzzle s
 - Un Puzzle de 60 piezas de tus personajes favoritos
 
