@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mini libro de arte
-- BSO Melodies of the Macabre
 - Caratula reversible
+- BSO Melodies of the Macabre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
