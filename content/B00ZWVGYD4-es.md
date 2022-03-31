@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO Dimensions - The Simpsons  Homer'
-date: 2022-03-25 21:58:33
+date: 2022-03-31 16:05:33
 image: 'https://m.media-amazon.com/images/I/51edJLRDdYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21'
 descuento: '16.89'
-average: '15.0535483870966'
+average: '15.2096825396824'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

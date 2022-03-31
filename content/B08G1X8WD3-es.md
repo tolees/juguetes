@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Bienvenidos a Gloomhaven!
-- Cada jugador asumirá el papel de un mercenario curtido con sus propios intereses personales.
-- creando un exclusivo tipo de juego lleno de tesoros descubiertos, aventureros retirados y opciones permanentes.
 - Gloomhaven es un juego cooperativo de combate táctico en un mundo de fantasía único y en evolución.
+- Cada jugador asumirá el papel de un mercenario curtido con sus propios intereses personales.
 - Juntos, los jugadores lucharán a través de una campaña de escenarios que reaccionan y cambian en función de las acciones de los jugadores
+- creando un exclusivo tipo de juego lleno de tesoros descubiertos, aventureros retirados y opciones permanentes.
+- ¡Bienvenidos a Gloomhaven!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
