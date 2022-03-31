@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cephalofair Games - Gloomhaven 2ª Edición - Juego de Mesa en Español'
-date: 2022-03-30 09:49:31
+date: 2022-03-31 15:56:16
 image: 'https://m.media-amazon.com/images/I/51p7iSx9qXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cephalofair Games'
 buyurl: 'https://www.amazon.es/dp/B08G1X8WD3/?tag=tolees-21'
 descuento: '20.05'
-average: '130.266666666667'
+average: '129.62'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ¡Bienvenidos a Gloomhaven!
 - Cada jugador asumirá el papel de un mercenario curtido con sus propios intereses personales.
+- creando un exclusivo tipo de juego lleno de tesoros descubiertos, aventureros retirados y opciones permanentes.
 - Gloomhaven es un juego cooperativo de combate táctico en un mundo de fantasía único y en evolución.
 - Juntos, los jugadores lucharán a través de una campaña de escenarios que reaccionan y cambian en función de las acciones de los jugadores
-- ¡Bienvenidos a Gloomhaven!
-- creando un exclusivo tipo de juego lleno de tesoros descubiertos, aventureros retirados y opciones permanentes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
