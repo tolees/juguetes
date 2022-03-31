@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Ys IX: Monstrum Nox Pact Edition'
-date: 2022-03-28 13:20:03
+date: 2022-03-31 10:53:58
 image: 'https://m.media-amazon.com/images/I/51Y9jpvpwbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08BZZDX6J/?tag=tolees-21'
 descuento: '43.62'
-average: '50.8606250000001'
+average: '49.0927777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caratula reversible
-- BSO Melodies of the Macabre
 - Mini libro de arte
+- BSO Melodies of the Macabre
+- Caratula reversible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
