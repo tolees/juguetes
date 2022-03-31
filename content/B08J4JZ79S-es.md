@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entre 2 y 10 jugadores podrán disfrutar al mismo tiempo del mejor juego de cartas en una noche de juegos.
 - Las suaves cartas negras tienen un aspecto deluxe, como si jugaras al UNO clásico. El juego cuenta ahora con la exclusiva carta 50/50 y la medalla dorada conmemorativa con una regla especial.
+- Un regalo perfecto para los amantes y coleccionistas de UNO a partir de 7 años.
 - Celebra el 50 aniversario de UNO con este magnífico pack especial de coleccionista.
 - No olvides que, por mucho tiempo que los jugadores lleven jugando, si se quedan con una sola carta deben gritar "¡UNO!"
-- Un regalo perfecto para los amantes y coleccionistas de UNO a partir de 7 años.
+- Entre 2 y 10 jugadores podrán disfrutar al mismo tiempo del mejor juego de cartas en una noche de juegos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dark Souls III'
-date: 2022-03-30 09:19:15
+date: 2022-03-31 18:48:01
 image: 'https://m.media-amazon.com/images/I/51MJnkD-wAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B01BNE0RAO/?tag=tolees-21'
 descuento: '24.86'
-average: '16.5685714285715'
+average: '16.3712500000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Increíble atmósfera visual
 - Acción con la espada
 - Mundo interconectado
+- Increíble atmósfera visual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
