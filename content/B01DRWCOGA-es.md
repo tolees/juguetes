@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Haz streaming de tus mejores partidas y grábalas
-- Función de streaming en directo a Twitch, YouTube y más
-- Entrada: PlayStation 4, Xbox One, Xbox360, Wii U
-- Haz streaming con una tecnología superior de baja latencia
+- Función incluida de comentarios en directo, captura directamente a tu ordenador
 - Control de streaming: añade una webcam, gráficos superpuestos y mucho más
 - Requisitos: Mac (macOS Sierra, AMD or NVIDIA, Intel i5-4xxx qual core o mejor); Windows (Windows 10- 64 bits, Intel HD, NVIDIA GeForce GTX 600 o mejor, Intel i5-4xxx qual core o mejor)
 - Resoluciones soportadas: 080p60, 1080p30, 1080i, 720p60, 720p30, 576p, 576i, 480p
-- Función incluida de comentarios en directo, captura directamente a tu ordenador
+- Entrada: PlayStation 4, Xbox One, Xbox360, Wii U
+- Función de streaming en directo a Twitch, YouTube y más
+- Haz streaming con una tecnología superior de baja latencia
+- Haz streaming de tus mejores partidas y grábalas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
