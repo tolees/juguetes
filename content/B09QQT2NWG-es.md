@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Elden Ring – Standard Edition'
-date: 2022-03-30 09:23:20
+date: 2022-03-31 23:09:17
 image: 'https://m.media-amazon.com/images/I/41ePAn27GhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B09QQT2NWG/?tag=tolees-21'
 descuento: '23.27'
-average: '60.186'
+average: '59.7363636363636'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Multijugador
-- Un sistema de juego que definirá el género
-- Un nuevo mundo de fantasía
 - Explora el mundo de las tierras intermedias
+- Un sistema de juego que definirá el género
+- Multijugador
+- Un nuevo mundo de fantasía
 
 [🛒 Visítala!!!]({{< param buyurl >}})
