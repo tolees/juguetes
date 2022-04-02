@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Asciende a la grandeza mientras escalas la amenazante Torre de Babel y descubres su mítico botín.
-- Mediante el dominio de los poderes de tu ataúd de Gideon, descubrirás tu auténtico potencial y te volverás lo suficientemente fuerte para sobrevivir a la cima y descubrir los secretos que allí te esperan.
 - Decide como quieres jugar, escogiendo entre una gran variedad de armas, cada una con sus propias cualidades y habilidades. Personaliza tu equipamiento para llevar hasta 4 armas en todo momento.
 - Explora el maravilloso entorno de fantasia que toma su inspiración de los cuadros al óleo del medievo.
+- Asciende a la grandeza mientras escalas la amenazante Torre de Babel y descubres su mítico botín.
+- Mediante el dominio de los poderes de tu ataúd de Gideon, descubrirás tu auténtico potencial y te volverás lo suficientemente fuerte para sobrevivir a la cima y descubrir los secretos que allí te esperan.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
