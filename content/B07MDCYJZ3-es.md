@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Expedición: Challenger: ¡Explorad un valle repleto de dinosaurios y salvad a los miembros de la última expedición del profesor Challenger!
-- El Último Cuento de Scheherazade: El cuento definitivo de “Las mil y una noches”. El sultán está a punto de condenar a muerte a Scheherazade. ¡Id volando a rescatarla!
-- Un juego de cartas cooperativo inspirado en un Escape Room.
-- ¡Tres aventuras que te engancharán!
 - La Noche de los Espantaniños: ¡Los espantaniños han invadido los sueños de William! Unid vuestras fuerzas para ahuyentarlos y permitirle dormir tranquilo.
+- El Último Cuento de Scheherazade: El cuento definitivo de “Las mil y una noches”. El sultán está a punto de condenar a muerte a Scheherazade. ¡Id volando a rescatarla!
+- ¡Tres aventuras que te engancharán!
+- Un juego de cartas cooperativo inspirado en un Escape Room.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
