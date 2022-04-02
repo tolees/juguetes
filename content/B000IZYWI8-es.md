@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 - Serie Panorama Imágenes en formato panorámico
 - Edad recomendada: a partir de 12 años
 - Número de piezas: 3.000, medida aproximada una vez montado: 144 x 68
+- Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
