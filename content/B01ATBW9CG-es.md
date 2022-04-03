@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye una barbacoa, perritos y filetes, pinzas para parrilla, mesa, platos de cocina y una tabla
-- Maletín en el que podrás guardar todos los accesorios
 - Desarrolla la imaginación y la creatividad
 - Incluye dos figuras y varios accesorios
+- Incluye una barbacoa, perritos y filetes, pinzas para parrilla, mesa, platos de cocina y una tabla
+- Maletín en el que podrás guardar todos los accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
