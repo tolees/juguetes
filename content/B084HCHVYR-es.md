@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Educa - El Jardín de Las Delicias Puzzle  2000 Piezas  Multicolor  18505 '
-date: 2022-03-29 20:47:39
-image: 'https://m.media-amazon.com/images/I/61s9tmG9oqL._SL500_._SL400_.jpg'
+date: 2022-04-03 14:27:32
+image: 'https://m.media-amazon.com/images/I/51qvpfvPdsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B084HCHVYR/?tag=tolees-21'
 descuento: '20.21'
-average: '16.4736842105264'
+average: '16.4602564102565'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Edad recomendada: a partir de 12 años
-- Serie Genuine
 - Número de piezas: 2.000, medida aproximada una vez montado: 96 x 68
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Serie Genuine
 
 [🛒 Comprar!!!]({{< param buyurl >}})
