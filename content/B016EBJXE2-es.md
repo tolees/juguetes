@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colt Express - Juego de Mesa  Ludonaute COL01ML '
-date: 2022-04-02 18:40:28
+date: 2022-04-04 09:33:15
 image: 'https://m.media-amazon.com/images/I/51wZ6BD6S1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ludonaute'
 buyurl: 'https://www.amazon.es/dp/B016EBJXE2/?tag=tolees-21'
 descuento: '23.47'
-average: '24.628'
+average: '24.3483333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Despiadados bandidos, fuertemente armados, están robando a los honestos ciudadanos sus bolsas y joyas! 
+- 11 de julio 1899, 10 A.M; el Union Pacic Express ha dejado Folsom, Nuevo México, con 47 pasajeros a bordo
 - Después de unos minutos, se escucha el sonido de pasos rápidos, que vienen del techo y después, disparos
 - Producto en castellano
-- 11 de julio 1899, 10 A.M; el Union Pacic Express ha dejado Folsom, Nuevo México, con 47 pasajeros a bordo
+- ¡Despiadados bandidos, fuertemente armados, están robando a los honestos ciudadanos sus bolsas y joyas! 
 
 [🛒 Visítala!!!]({{< param buyurl >}})
