@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Space Cowboys - Splendor – Juego de Mesa en Español'
-date: 2022-04-02 18:10:34
+date: 2022-04-04 06:05:14
 image: 'https://m.media-amazon.com/images/I/51krh7ovpIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Space Cowboys'
 buyurl: 'https://www.amazon.es/dp/B06XYPRNSX/?tag=tolees-21'
 descuento: '22.81'
-average: '25.336'
+average: '25.1372727272727'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A lo largo de la partida, los jugadores irán cogiendo fichas de oro y piedras preciosas, con las que podrán adquirir cartas de desarrollo.
-- Utilizarás tu riqueza para adquirir minas, métodos de transporte y artesanos que te permitirán transformar bastas piedras en magníficas piezas de joyería.
-- Dichas cartas otorgan puntos de prestigio y bonus, los cuales permiten adquirir las siguientes cartas de desarrollo a un precio menor.
-- En Splendor, interpretas a un rico mercader del Renacimiento.
 - De 2 a 4 Jugadores. A partir de 10 años de edad.
+- En Splendor, interpretas a un rico mercader del Renacimiento.
+- Dichas cartas otorgan puntos de prestigio y bonus, los cuales permiten adquirir las siguientes cartas de desarrollo a un precio menor.
+- Utilizarás tu riqueza para adquirir minas, métodos de transporte y artesanos que te permitirán transformar bastas piedras en magníficas piezas de joyería.
+- A lo largo de la partida, los jugadores irán cogiendo fichas de oro y piedras preciosas, con las que podrán adquirir cartas de desarrollo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
