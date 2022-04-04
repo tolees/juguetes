@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Darth Vader Key Chain Juego de construcción - Juegos de construcción  6 año s  '
-date: 2022-03-28 11:45:47
+date: 2022-04-04 17:52:09
 image: 'https://m.media-amazon.com/images/I/41+Ju9x4gvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B01D9VQC5I/?tag=tolees-21'
 descuento: '22.20'
-average: '11.91'
+average: '11.9581818181818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
