@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO Dimensions - The Simpsons  Homer'
-date: 2022-03-31 16:05:33
+date: 2022-04-05 21:54:31
 image: 'https://m.media-amazon.com/images/I/51edJLRDdYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B00ZWVGYD4/?tag=tolees-21'
 descuento: '16.89'
-average: '15.2096825396824'
+average: '15.3609374999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LEGO Number 71202
 - Homer
 - Level Pack
+- LEGO Number 71202
 
 [🛒 Comprar!!!]({{< param buyurl >}})
