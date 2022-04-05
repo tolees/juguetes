@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60315 City Central Móvil de Policía  Vehículo Todoterreno con Dron  Tractor y Camión de Juguete  Set con 4 Mini Figuras  Regalos Semana Santa'
-date: 2022-04-03 13:38:26
+date: 2022-04-05 15:23:33
 image: 'https://m.media-amazon.com/images/I/51fpf2vGOvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNVM6JF/?tag=tolees-21'
 descuento: '20.18'
-average: '33.2766666666667'
+average: '32.9375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El camión de juguete dará pie a divertidas historias, cuando un huevo cubra el parabrisas y los malos arranquen la pared de la jaula móvil
-- Los peques podrán lanzar elementos que simulan ser huevos desde el remolque del tractor, activar la función de escape de la cárcel y hacer que el todoterreno gire en todas direcciones
-- Incluye un camión de la policía con despacho y cárcel en el remolque, un dron, un todoterreno, ¡y un tractor juguete con remolque que incorpora un lanzador de proyectiles!
-- Incorpora montones de divertidos accesorios para el juego imaginativo, incluidos un dron de juguete por control remoto, esposas y elementos de huevos
 - Los sets de policía de LEGO City serán un gran regalo de Semana Santa o de cumpleaños para niños y niñas de 6 años en adelante
 - El set policial LEGO incluye 3 personajes de la serie de TV LEGO City: Duke DeTain, Gracie Goodhart y Snake Rattler, además de la mini figura de un ladrón
+- Incluye un camión de la policía con despacho y cárcel en el remolque, un dron, un todoterreno, ¡y un tractor juguete con remolque que incorpora un lanzador de proyectiles!
+- Incorpora montones de divertidos accesorios para el juego imaginativo, incluidos un dron de juguete por control remoto, esposas y elementos de huevos
+- Los peques podrán lanzar elementos que simulan ser huevos desde el remolque del tractor, activar la función de escape de la cárcel y hacer que el todoterreno gire en todas direcciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
