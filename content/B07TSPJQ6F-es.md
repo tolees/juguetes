@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exquisite Gaming - Cable Guy Chewbacca Star wars  Soporte de sujeción o Carga para Mando de Consola o Smartphone. Producto con Licencia Oficial  Nintendo Switch '
-date: 2022-04-03 21:00:21
+date: 2022-04-05 07:33:39
 image: 'https://m.media-amazon.com/images/I/41l3b+X3M1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Exquisite Gaming'
 buyurl: 'https://www.amazon.es/dp/B07TSPJQ6F/?tag=tolees-21'
 descuento: '42.30'
-average: '16.8'
+average: '16.205'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con licencia oficial Star Wars
-- Incluye un cable de carga USB tipo C de 1,2 m
-- Soporte para teléfono Movil, mando a distancia y mando de juegos
 - Personaje Chewbacca
 - Compatible con la mayoría de los tipos de teléfonos inteligentes y controladores de consola, incluidos PlayStation 5 DualSense de próxima generación, Xbox Series S / X y todos los iPhones
+- Incluye un cable de carga USB tipo C de 1,2 m
+- Soporte para teléfono Movil, mando a distancia y mando de juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
