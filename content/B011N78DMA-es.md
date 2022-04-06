@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G920 Driving Force Volante de Carreras y Pedales  Force Feedback  Aluminio Anodizado  Palancas de cambio  Volante de Cuero  Pedales Ajustables  Enchufe EU  Xbox One/PC/Mac  Negro'
-date: 2022-04-03 07:05:06
+date: 2022-04-06 08:31:45
 image: 'https://m.media-amazon.com/images/I/41uQkUCwY-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Experiencia de juego inmersiva: adecuada para juegos de Xbox Series X|S, Xbox One y PC, Driving Force simula la sensación de conducir un coche real con una dirección de precisión y pedales sensibles a la presión
-- Control premium: El volante proporciona una simulación detallada de la conducción real, con engranajes helicoidales que brindan una dirección suave y silenciosa y una cubierta de cuero cosida a mano
-- Mejora tu juego: Lleva tu simulación de carreras al siguiente nivel con los accesorios Driving Force, como la palanca de cambios Driving Force o los soportes para escritorio y plataforma
-- Rotación de 900 grados: La rotación de bloqueo de Driving Force significa que puede girar el volante dos veces y media, mano sobre mano en giros amplios, como un verdadero auto de carreras de F1
-- Rotación de 900 grados: La rotación de bloqueo de Driving Force significa que puede girar el volante dos veces y media, mano sobre mano en giros amplios, como un verdadero auto de carreras de F1
-- Pedales personalizables: Pedales de freno no lineales sensibles a la presión; Sensación de frenado precisa y sensible sobre una base resistente; Caras de pedal ajustables para un control más preciso
+- Customisable Pedals: These pressure-sensitive nonlinear brake pedals provide a responsive, accurate braking feel on a sturdy base - with adjustable pedal faces for finer control
+- Premium Control: The Driving Force feedback racing wheel provides a detailed simulation of driving a real car, with helical gearing delivering smooth, quiet steering and a hand-stitched leather cover
+- Immersive Gaming Experience: Perfect for Xbox One and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals
+- 900° Rotation: Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns
+- Up Your Game: Take your racing simulation to the next level with Driving Force accessories like the Driving Force Shifter or desk and rig mounts
 
 [🛒 Aquí!!!]({{< param buyurl >}})
