@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Babylons Fall PS5 ESP'
-date: 2022-04-02 13:36:03
+date: 2022-04-07 20:51:26
 image: 'https://m.media-amazon.com/images/I/61v8gSqVZ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Decide como quieres jugar, escogiendo entre una gran variedad de armas, cada una con sus propias cualidades y habilidades. Personaliza tu equipamiento para llevar hasta 4 armas en todo momento.
-- Explora el maravilloso entorno de fantasia que toma su inspiración de los cuadros al óleo del medievo.
-- Asciende a la grandeza mientras escalas la amenazante Torre de Babel y descubres su mítico botín.
 - Mediante el dominio de los poderes de tu ataúd de Gideon, descubrirás tu auténtico potencial y te volverás lo suficientemente fuerte para sobrevivir a la cima y descubrir los secretos que allí te esperan.
+- Asciende a la grandeza mientras escalas la amenazante Torre de Babel y descubres su mítico botín.
+- Explora el maravilloso entorno de fantasia que toma su inspiración de los cuadros al óleo del medievo.
+- Decide como quieres jugar, escogiendo entre una gran variedad de armas, cada una con sus propias cualidades y habilidades. Personaliza tu equipamiento para llevar hasta 4 armas en todo momento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

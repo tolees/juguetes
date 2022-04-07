@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Kirby y la Tierra Olvidada'
-date: 2022-04-05 09:12:21
+date: 2022-04-07 21:03:59
 image: 'https://m.media-amazon.com/images/I/51pp+qW189L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09GWPYXVH/?tag=tolees-21'
 descuento: '21.55'
-average: '55.093'
+average: '54.8316129032258'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carátula de juego no oficial.
 - Una aventura de plataformas en 3D llena de colorido, sorpresas, naturaleza salvaje y ¡Waddle Dees para dar y tomar!
 - Los jugadores podrán moverse libremente por zonas en 3D usando las conocidas habilidades de copia de Kirby.
 - Para rescatar a sus amigos, Kirby se lanza en un viaje con el curioso Elfilin, a quien conoce en el nuevo mundo.
+- Carátula de juego no oficial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
