@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'F.lli Schiano Ghost Bicicleta Montaña  Women s  Antracita-Rojo  26  '
-date: 2022-04-03 20:03:30
+date: 2022-04-08 21:07:04
 image: 'https://m.media-amazon.com/images/I/41ikbAbK9xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- HORQUILLA: Rígida 26"
-- CONTROLES: Shimano Tourney SL-RS36 revoshift 3x6, 18 velocidades
 - CUADRO: 26" MTB Hardtail en acero 17"/440mm
-- Lo mejor para personas de 160 cm a 175 cm
+- HORQUILLA: Rígida 26"
 - FRENOS: V-brake en aluminio
+- CONTROLES: Shimano Tourney SL-RS36 revoshift 3x6, 18 velocidades
+- Lo mejor para personas de 160 cm a 175 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
