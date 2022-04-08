@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Checkpoint Charlie  juego de cartas  edición española  BGCHECK '
-date: 2022-03-28 09:53:20
+date: 2022-04-08 16:03:36
 image: 'https://m.media-amazon.com/images/I/51l+juhR41L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
