@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - My Hero One´s Justice 2'
-date: 2022-04-07 12:51:34
+date: 2022-04-09 10:35:16
 image: 'https://m.media-amazon.com/images/I/51UIZhG3SQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07ZGTXNLX/?tag=tolees-21'
 descuento: '43.62'
-average: '36.8928571428572'
+average: '36.6500000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 20 gramos
+- Fácil de usar
 - 17 x 11 x 1.2 cm
 - Muy conveniente
-- Fácil de usar
+- 20 gramos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
