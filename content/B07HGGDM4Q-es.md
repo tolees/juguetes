@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar'
-date: 2022-04-06 19:12:55
+date: 2022-04-09 07:11:52
 image: 'https://m.media-amazon.com/images/I/51vy4YZcEVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21'
 descuento: '52.47'
-average: '23.3040277777778'
+average: '23.274275862069'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
