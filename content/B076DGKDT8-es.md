@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - La Lego Ninjago Película: El Videojuego'
-date: 2022-04-06 16:52:39
+date: 2022-04-09 09:50:47
 image: 'https://m.media-amazon.com/images/I/513Y4C9jF4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
-comparePrice: 21.24 EUR
+comparePrice: 22.49 EUR
 prodname: 'Warner Bros Interactive Spain - La Lego Ninjago Película: El Videojuego'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B076DGKDT8/?tag=tolees-21'
-descuento: '24.72'
-average: '18.7222666666669'
+descuento: '28.90'
+average: '18.6863157894739'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Domina la Agilidad Ninja y las habilidades de combate: Los jugadores recorrerán entornos de mundo abierto corriendo, saltando, trepando y con otras habilidades ninja, para luchar contra los enemigos y defender la ciudad de Ninjago
+- En el juego, los jugadores se abrirán paso a través de oleadas de enemigos con honor y habilidad en la piel de sus ninjas favoritos: Lloyd, Nya, Jay, Kai, Cole, Zane y el maestro Wu para defender Ninjago, su isla natal, del malvado Lord Garmadon y su ejército tiburón
 - En el videojuego de la película de LEGO NINJAGO los jugadores podrán sumergirse en el mundo de la nueva aventura animada para la gran pantalla LEGO NINJAGO: La Película
 - Juega a la trepidante película: Los jugadores pueden convertirse en su personaje favorito de Ninjago y vivir la película de una manera nueva y emocionante
-- Domina la Agilidad Ninja y las habilidades de combate: Los jugadores recorrerán entornos de mundo abierto corriendo, saltando, trepando y con otras habilidades ninja, para luchar contra los enemigos y defender la ciudad de Ninjago
-- Ubicaciones nuevas y espectaculares: El juego incluye ocho grandes ubicaciones llenas de acción y basadas en la historia de LEGO NINJAGO: La Película, cada una con su propio dojo de desafíos donde los jugadores podrán probar sus habilidades de combate y luchar contra enemigos cada vez más fuertes
-- Mapas de combate: Los jugadores pueden enfrentarse a familiares y amigos en cuatro modos de juego diferentes en las partidas locales en pantalla dividida con hasta cuatro jugadores
 - Para conseguirlo, deberán dominar el arte de la Agilidad Ninja con el que podrán recorrer Ninjago corriendo por las paredes, saltando y luchando contra los enemigos de Ninjago para mejorar su clasificación y mejorar las habilidades de combate ninja; los jugadores pueden dominar el poder del combate Spinjitzu para defender Ninjago juntos
-- En el juego, los jugadores se abrirán paso a través de oleadas de enemigos con honor y habilidad en la piel de sus ninjas favoritos: Lloyd, Nya, Jay, Kai, Cole, Zane y el maestro Wu para defender Ninjago, su isla natal, del malvado Lord Garmadon y su ejército tiburón
+- Mapas de combate: Los jugadores pueden enfrentarse a familiares y amigos en cuatro modos de juego diferentes en las partidas locales en pantalla dividida con hasta cuatro jugadores
+- Ubicaciones nuevas y espectaculares: El juego incluye ocho grandes ubicaciones llenas de acción y basadas en la historia de LEGO NINJAGO: La Película, cada una con su propio dojo de desafíos donde los jugadores podrán probar sus habilidades de combate y luchar contra enemigos cada vez más fuertes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
