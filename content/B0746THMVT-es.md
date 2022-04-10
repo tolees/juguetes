@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Compartimentos para los accesorios de la Nintendo Switch
+- Espacio para 6 cartuchos de juegos
 - Color negro
 - Material resistente a golpes y arañazos
 - Bolsillo para cable HDMI y mandos Joy-Con
-- Compartimentos para los accesorios de la Nintendo Switch
-- Espacio para 6 cartuchos de juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
