@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ludonaute Colt Express Big Box - Juego de Mesa en Español  LUCOEX11SP '
-date: 2022-03-31 09:10:27
+date: 2022-04-11 19:12:23
 image: 'https://m.media-amazon.com/images/I/51dTVpSDQCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 3 a 9 jugadores. A partir de 10 años de edad.
 - (Re)Descubre la diversión de Colt Express y su tren en 3D, el juego de mesa del Lejano Oeste en el que todo vale para convertirse en el forajido más rico.
 - ¡Incluye un tren en 3D!
-- Esta Big Box contiene el juego básico Colt Express y diversos módulos que puedes añadir a la partida como prefieras.
+- De 3 a 9 jugadores. A partir de 10 años de edad.
 - La experiencia Colt Express COMPLETA
+- Esta Big Box contiene el juego básico Colt Express y diversos módulos que puedes añadir a la partida como prefieras.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
