@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crazy pawn - Juego de Mesa Predator: Partida de Caza  Multicolor'
-date: 2022-04-10 19:23:28
+date: 2022-04-12 14:37:31
 image: 'https://m.media-amazon.com/images/I/51WIZrI8MIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - De 1 a 5 jugadores
-- Basado en las dos primeras peliculas de Predator
-- Ponte en la piel del Predator
-- Totalmente en castellano
 - Juego de mesa
+- Totalmente en castellano
+- Ponte en la piel del Predator
+- Basado en las dos primeras peliculas de Predator
 
 [🛒 Visítala!!!]({{< param buyurl >}})
