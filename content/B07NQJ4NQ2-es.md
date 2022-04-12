@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel BTS - Muñeco V  figura de colección  miembro banda coreana de K-pop   GKC89 '
-date: 2022-04-05 20:27:18
+date: 2022-04-12 21:12:17
 image: 'https://m.media-amazon.com/images/I/31KaBkXiqdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel'
 buyurl: 'https://www.amazon.es/dp/B07NQJ4NQ2/?tag=tolees-21'
 descuento: '65.59'
-average: '12.4983606557377'
+average: '12.4632258064516'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
