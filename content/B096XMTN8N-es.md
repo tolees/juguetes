@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK.
-- La mano te ha señalado Tú eliges prueba o verdad, ahora ya no tendrás secretos ni vergüenza para ganar
-- Juego divertido para toda la familia Elige entre hacer una prueba o decir una verdad
 - Diversión sin vergüenza con confesiones y desafíos para los atrevidos
 - Incluye: 1 mano, 96 tarjetas de prueba o verdad, 6 tarjetas de doble desafío
-- Diversión con confesiones y desafíos para los más atrevidos; en cuanto la mano te señale no tendrás secretos ni vergüenzas para ganar
+- Juego divertido para toda la familia Elige entre hacer una prueba o decir una verdad
+- La mano te ha señalado Tú eliges prueba o verdad, ahora ya no tendrás secretos ni vergüenza para ganar
+- Producto distribuido oficialmente en España por BIZAK.
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Diversión con confesiones y desafíos para los más atrevidos; en cuanto la mano te señale no tendrás secretos ni vergüenzas para ganar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
