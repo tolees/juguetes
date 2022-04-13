@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter Torre de Astronomía de Hogwarts  Castillo de Juguete  Set con Mini Figuras  Regalo para la Comunión Niños y Niñas'
-date: 2022-04-11 13:58:17
+date: 2022-04-13 14:26:40
 image: 'https://m.media-amazon.com/images/I/51fuEBiwMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0984Q1HYS-es LEGO 75969 Harry Potter Torre de Astronomía de Hogwarts...'
 sku: 'B0984Q1HYS-es'
-tags: [ 'Figuras de juguete de construcción','Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego', ]
+tags: [ 'Figuras de juguete de construcción','Juegos de construcción para niños','Juguetes','Juguetes y juegos','lego','🇪🇸', ]
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0984Q1HYS/?tag=tolees-21'
 descuento: '35.27'
-average: '74.1840000000001'
+average: '73.9975000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
