@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Koch Media - Babylons Fall PS5 ESP'
-date: 2022-04-07 20:51:26
+date: 2022-04-13 19:51:37
 image: 'https://m.media-amazon.com/images/I/61v8gSqVZ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09P4MPBXN-es Koch Media - Babylons Fall PS5 ESP'
 sku: 'B09P4MPBXN-es'
-tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','koch media','ps5', ]
+tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','koch media','ps5','🇪🇸', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

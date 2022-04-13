@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Nintendo Switch Leyendas Pokemon: Arceus'
-date: 2022-04-09 20:33:32
+date: 2022-04-13 19:38:36
 image: 'https://m.media-amazon.com/images/I/51eck2FjPDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B091VTT67M-es Nintendo Switch Leyendas Pokemon: Arceus'
 sku: 'B091VTT67M-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B091VTT67M/?tag=tolees-21'
 descuento: '21.55'
-average: '50.1786046511628'
+average: '50.1061363636364'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
