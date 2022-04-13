@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avance - Alex Kidd in Miracle World Dx - Playstation 5'
-date: 2022-04-11 11:18:07
+date: 2022-04-13 08:34:19
 image: 'https://m.media-amazon.com/images/I/51898UT3WyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Avance'
 buyurl: 'https://www.amazon.es/dp/B0922MVGK5/?tag=tolees-21'
 descuento: '54.56'
-average: '22.4625'
+average: '21.8876923076923'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La nostalgia siempre prevalece: vuelve a la década de los 80 con solo pulsar un botón; no importa en qué punto del nivel estés, puedes cambiar en todo momento entre el clásico de 8 bits y los gráficos HD
 - Nuevos niveles: experimenta nuevos niveles que amplían el conocimiento del juego original
 - La leyenda renace: sumérgete en una alucinante recreación de Alex Kidd en Miracle World con el impresionante nuevo arte y controles más ajustados y fluidos
-- Combates de jefes alternativos: una nueva y mejorada mecánica de combate de jefes más intuitiva
+- La nostalgia siempre prevalece: vuelve a la década de los 80 con solo pulsar un botón; no importa en qué punto del nivel estés, puedes cambiar en todo momento entre el clásico de 8 bits y los gráficos HD
 - La edición física incluye un manual de instrucciones y un llavero
+- Combates de jefes alternativos: una nueva y mejorada mecánica de combate de jefes más intuitiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
