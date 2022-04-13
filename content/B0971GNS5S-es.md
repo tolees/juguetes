@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un tablero de juego de grandes dimensiones.
-- Todos los Billetes de Destino publicados hasta la fecha, y nuevas y maravillosas ilustraciones.
 - Número de jugadores: 2-5
-- De 2 a 5 jugadores. a partir de 8 años de edad.
-- Estaciones y Vagones de tren de plástico en el interior de unas cajas metálicas preciosas.
+- Todos los Billetes de Destino publicados hasta la fecha, y nuevas y maravillosas ilustraciones.
 - ¡Aventureros al Tren! Europa regresa con esta versión de lujo
+- Estaciones y Vagones de tren de plástico en el interior de unas cajas metálicas preciosas.
+- Un tablero de juego de grandes dimensiones.
+- De 2 a 5 jugadores. a partir de 8 años de edad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El juego también ofrece un challenge táctil para poner a prueba el sentido del tacto
-- Un juego Illugame para toda la familia
-- Cortex Challenge Kids pone al reto todas las formas de la inteligencia de los niños
 - A partir de 6 años.
+- Cortex Challenge Kids pone al reto todas las formas de la inteligencia de los niños
+- El juego también ofrece un challenge táctil para poner a prueba el sentido del tacto
 - 7 pruebas diferentes para divertirse con memoria, sentido de la observación, coordinación y lógica de los jugadores.
+- Un juego Illugame para toda la familia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
