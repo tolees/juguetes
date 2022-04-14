@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPPMZM8-es Nene Toys - Nene Toys Torre de Bloques Infantil de Madera...'
 sku: 'B07NPPMZM8-es'
-tags: [ 'de','juego','mesa','🇪🇸', ]
+tags: [ ' nene toys ','Juego de mesa','Juegos de habilidad','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','de','juego','mesa','🇪🇸', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54
@@ -16,7 +16,7 @@ comparePrice: 35.0 EUR
 prodname: ' Nene Toys  - Nene Toys Torre de Bloques Infantil de Madera 4 en 1 con Colores y Animales – Juego de Mesa Familiar Educativo para Niños Niñas de 3 a 9 años Compartir Entre Padres e Hijos'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: ' Nene Toys '
 buyurl: 'https://www.amazon.es/dp/B07NPPMZM8/?tag=tolees-21'
 descuento: '44.17'
 average: '22.1840740740743'
