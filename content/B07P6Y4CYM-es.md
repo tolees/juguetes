@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Explora, reúne y crea cosas: cada isla contiene su propio conjunto de materiales únicos para ayudar a crecer, elaborar y cocinar creaciones
+- ¡Más grande, mucho mejor y más constructivo!: construye estructuras más grandes en un mundo mucho más grande con más variedad y opciones que nunca
 - Lucha contra enemigos temibles junto a tu compañero Malroth: acompañándote en tu búsqueda está el misterioso Malroth, un agresivo amnésico con una afición por luchar contra los enemigos
 - Colabora y crea con amigos en línea: ¡los grandes proyectos requieren de una gran ayuda! Hasta 4 jugadores pueden unirse en línea para construir cualquier cosa que puedas imaginar
-- ¡Más grande, mucho mejor y más constructivo!: construye estructuras más grandes en un mundo mucho más grande con más variedad y opciones que nunca
 - Salpica, nada y deslízate por un mundo expansivo: corre a campo abierto y explora pueblos encantadores, minas traicioneras y castillos espectaculares
+- Explora, reúne y crea cosas: cada isla contiene su propio conjunto de materiales únicos para ayudar a crecer, elaborar y cocinar creaciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
