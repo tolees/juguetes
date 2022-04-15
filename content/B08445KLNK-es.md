@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf- Ultra Two  Multicolor  Hasbro E79214R0 '
-date: 2022-04-14 14:39:56
+date: 2022-04-15 17:15:37
 image: 'https://m.media-amazon.com/images/I/41VDnLhV8qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B08445KLNK/?tag=tolees-21'
 descuento: '44.10'
-average: '22.8644262295082'
+average: '22.8020967741936'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
