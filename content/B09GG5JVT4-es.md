@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [DUALSENSE EASY FIT] Gamebat está específicamente diseñado para el controlador DualSense y no entorpece ningún movimiento o botón, permitiéndote jugar en libertad. La batería es fácil de instalar, es ligera y poco voluminosa
-- [SAFE BATTERY] Gamebat es una batería inteligente y preserva la batería del DualSense, protegiéndola completamente de factores de sobretensión, sobrecalentamiento, sobrecarga y cortocircuito. Gamebat es el accesorio fundamental para tus largas sesiones de juego, cuando la batería del DualSense se pone a prueba
 - [DUPLICA TU TIEMPO DE JUEGO] Con una capacidad de 1500 mAh Gamebat añade una carga adicional a tu joystick que te permitirá duplicar la autonomía de juego. Así podrás jugar cómodamente desde tu sofá sin tener que conectar tu joystick para Playstation 5 a un hilo
-- [INDICADOR DE CARGA LED] Mantén siempre bajo control el nivel de la batería gracias a los 4 Led azules del Gamebat: durante la carga, los led dejan de parpadear cuando la carga está completa
+- [DUALSENSE EASY FIT] Gamebat está específicamente diseñado para el controlador DualSense y no entorpece ningún movimiento o botón, permitiéndote jugar en libertad. La batería es fácil de instalar, es ligera y poco voluminosa
 - [VANGUARDIA DEL JUEGO EUROPEO] La pasión y la competencia del equipo totalmente italiano de DR1TECH garantizan productos tecnológicamente avanzados con un diseño moderno y llamativo. La línea DR1TECH está dedicada a todos los jugadores, desde los principiantes que quieren comenzar su carrera en línea hasta los jugadores más expertos que esperan algo más de sus dispositivos. En caso de preguntas o imprevistos contáctenos y resolveremos cualquier necesidad en el menor tiempo posible
+- [INDICADOR DE CARGA LED] Mantén siempre bajo control el nivel de la batería gracias a los 4 Led azules del Gamebat: durante la carga, los led dejan de parpadear cuando la carga está completa
+- [SAFE BATTERY] Gamebat es una batería inteligente y preserva la batería del DualSense, protegiéndola completamente de factores de sobretensión, sobrecalentamiento, sobrecarga y cortocircuito. Gamebat es el accesorio fundamental para tus largas sesiones de juego, cuando la batería del DualSense se pone a prueba
 
 [🛒 Comprar!!!]({{< param buyurl >}})

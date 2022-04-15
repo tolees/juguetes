@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Figura dragón de lava modelada con gran detalle.
 - Dimensiones: 18,8 x 22 x 14,5 cm (Ancho x Largo x Alto)
+- Figura dragón de lava modelada con gran detalle.
 - Gama Eldrador de Schleich
 - Con mandíbula inferior y alas articuladas.
 - Pintada minunciosamente a mano.
