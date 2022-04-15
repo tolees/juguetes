@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin giro, 363 gramos (MIPS)
 - Guía de sudor; MIPS (integrado con sistema de ajuste) (4Forty MIPS)
-- S 52-56 cm, M 55-59 cm, L 58-62 cm, XL 61-65 cm
+- Sin giro, 363 gramos (MIPS)
 - Float Fit (integrado con MIPS)
+- S 52-56 cm, M 55-59 cm, L 58-62 cm, XL 61-65 cm
 - Carcasa de policarbonato Fusion In-Mold
 
 [🛒 Visítala!!!]({{< param buyurl >}})
