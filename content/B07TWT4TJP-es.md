@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muy conveniente
-- Producto de calidad
-- Material duradero
 - Nerf alpha strike fang qs-4 blaster
+- Muy conveniente
+- Material duradero
+- Producto de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
