@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido del paquete: una unidad
 - Número de piezas: 1500
-- Marca del producto: Ravensburger
 - Tipo de material: papel
+- Marca del producto: Ravensburger
+- Contenido del paquete: una unidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

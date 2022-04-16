@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Die Spieler stapeln abwechselnd ihre Gepäckstücke auf dem Rücken des Alpakas. Aber nicht trödeln, denn das Alpaka will los!
 - Wer als erster Spieler alle seine Gepäckstücke auf dem Alpaka gestapelt hat, gewinnt das Spiel! Das Spiel enthält ein spuckendes Alpaka und 16 bunte Gepäckstücke
 - Ist ein Spieler an der Reihe, muss er den Kopf des Alpakas herunterdrücken, um die Stoppuhr zu starten. Der Spieler hat fünf Sekunden Zeit, um eines seiner Gepäckstück auf dem Rücken des Alpakas zu stapeln
 - Dieses witzige Spiel für Kinder ist schnell erlernt und sorgt für jede Menge Albernheiten!
 - Läuft die Uhr ab, bevor ein Gepäckstück gestapelt wurde, spuckt das Alpaka!
-- Die Spieler stapeln abwechselnd ihre Gepäckstücke auf dem Rücken des Alpakas. Aber nicht trödeln, denn das Alpaka will los!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

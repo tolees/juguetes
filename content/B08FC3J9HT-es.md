@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Adaptación óptima al contorno de la cabeza con el sistema ajustable uvex 2k IAS
-- Diseño de ventilación aerodinámico con 24 canales de ventilación
 - Protección adicional de la zona inferior del casco con una segunda carcasa de policarbonato
+- Diseño de ventilación aerodinámico con 24 canales de ventilación
 - Mayor seguridad y capacidad de evaporación gracias a una distribución de la presión extremadamente homogénea sobre la estructura, a la que adicionalmente se le ha aplicado espuma
 - Revestimiento acolchado de alta calidad realizado en material funcional: extraíble, lavable y de secado rápido
 
