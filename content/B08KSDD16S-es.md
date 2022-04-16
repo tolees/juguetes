@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prepárate para la próxima batalla con otros accesorios y accesorios Nerf Elite
 - Entrena cuando, donde y como quieras con el soporte ajustable y el colgador de pared
-- Perfecciona tu seguridad de toque
-- Nota importante: requiere 3 pilas AA de 1,5 V (no incluidas)
 - Diana alimentada por pilas con efectos de luz y sonido y diferentes modos de juego
+- Perfecciona tu seguridad de toque
+- Prepárate para la próxima batalla con otros accesorios y accesorios Nerf Elite
+- Nota importante: requiere 3 pilas AA de 1,5 V (no incluidas)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
