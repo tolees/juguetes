@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Efectos de sonido realistas】Los objetivos responden a cada golpe y los sonidos son divertidos. El objetivo es bueno para la práctica diaria de tiro personal y se juega contra los jugadores para ver quién anota más. Los niños se turnarán para competir por una puntuación alta. Incluso los adultos querrán participar en la diversión. Proporciona la sensación de combate.
-- 【Sistema de objetivo de reinicio automático】Cuando los 4 objetivos se empujan hacia abajo, el motor del dispositivo comienza a funcionar y los 4 objetivos aparecerán automáticamente sucesivamente después de 3 segundos.
-- 【4 modos y diseño de ajuste de tiempo】equipado con 4 objetivos grandes y 3 pantallas LCD para mostrar el modo de juego, puntuaciones y cuenta atrás de tiempo. Está equipado con 4 modos de desafío y función de ajuste de tiempo.
 - 【Mejora el objetivo de tiro en 2021】 El objetivo eléctrico es adecuado para pistolas Nerf N-strike Elite, Nerf Mega y Nerf Rival Series y Blaster de otras marcas. Mucho más rico en funciones y juego que otros objetivos con funciones monótonas. Necesita ser alimentado por 3 baterías "AA" (no incluidas).
+- 【Sistema de objetivo de reinicio automático】Cuando los 4 objetivos se empujan hacia abajo, el motor del dispositivo comienza a funcionar y los 4 objetivos aparecerán automáticamente sucesivamente después de 3 segundos.
 - 【Regalo de cumpleaños y Navidad para niños】Este objetivo de puntuación de tiro es la mejor opción como regalo de Navidad o cumpleaños para niños de 5 a 16 años.
+- 【Efectos de sonido realistas】Los objetivos responden a cada golpe y los sonidos son divertidos. El objetivo es bueno para la práctica diaria de tiro personal y se juega contra los jugadores para ver quién anota más. Los niños se turnarán para competir por una puntuación alta. Incluso los adultos querrán participar en la diversión. Proporciona la sensación de combate.
+- 【4 modos y diseño de ajuste de tiempo】equipado con 4 objetivos grandes y 3 pantallas LCD para mostrar el modo de juego, puntuaciones y cuenta atrás de tiempo. Está equipado con 4 modos de desafío y función de ajuste de tiempo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
