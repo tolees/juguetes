@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pegasus Spiele  Juego de Cartas de 2 a 5 Jugadores'
-date: 2022-04-13 17:20:59
+date: 2022-04-16 15:12:06
 image: 'https://m.media-amazon.com/images/I/51p7LxUrwoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pegasus'
 buyurl: 'https://www.amazon.es/dp/B00ICF0IMK/?tag=tolees-21'
 descuento: '19.81'
-average: '13.3890909090909'
+average: '13.4033333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a partir de 8 años
 - El paquete contiene 120 cartas, 2 hojas de reglas
+- Recomendado a partir de 8 años
 - Juego de cartas para 2 a 5 jugadores
 - Tiempo de juego: 20-50 minutos
 
