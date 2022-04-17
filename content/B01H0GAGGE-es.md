@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 minifiguras LEGO (Batman, Gandalf un Cool-Tag)
-- ponerlo en el juguete LEGO Pad
-- independiente de la plataforma
 - El Batimóvil LEGO
+- independiente de la plataforma
+- ponerlo en el juguete LEGO Pad
+- 3 minifiguras LEGO (Batman, Gandalf un Cool-Tag)
 - Podrás disfrutar de la recogida de mini figuras adicionales, vehículos, objetos y nuevo nivel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
