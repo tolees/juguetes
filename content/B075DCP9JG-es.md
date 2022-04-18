@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X)
 - Suaves y cómodas almohadillas para las orejas
-- Cable alargador de 1 m para PC/ordenador portátil
-- Cable de 1 m para consolas
 - Micrófono ajustable y banda para la cabeza
+- Cable de 1 m para consolas
+- Cable alargador de 1 m para PC/ordenador portátil
+- Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Edad recomendada: a partir de 12 años
-- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
-- Exclusives Series Dragon Ball Z
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Exclusives Series Dragon Ball Z
+- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})
