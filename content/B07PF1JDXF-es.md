@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jumbo - Overbooked  Juego de mesa de estrategia de tablero a partir de 8 años'
-date: 2022-04-17 19:14:55
+date: 2022-04-19 13:56:50
 image: 'https://m.media-amazon.com/images/I/51fT-Yfu7ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jumbo'
 buyurl: 'https://www.amazon.es/dp/B07PF1JDXF/?tag=tolees-21'
 descuento: '15.52'
-average: '23.7684615384615'
+average: '23.5792857142857'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Se puede jugar de 1 a 4 jugadores
 - El objetivo del juego es conseguir el mayor número de puntos acomodando a los pasajeros en el avión lo mejor posible
-- Cuando se acaba cualquier tipo de pasajero el juego se acaba y se suman todos los puntos; Quien mejor haya acomodado será el ganador y obtendrá la medalla del mejor servicio de atención al cliente
-- Habilidades que desarrolla: el pensamiento lógico, la habilidad y agilidad mental
 - Para hacerlo en tu turno, eliges una tarjeta de pasajeros con su colocación, la cantidad a sentar y el tipo de pasajeros que aparecen en la tarjeta; Entonces, sientas a los pasajeros en el avión de acuerdo con lo indicado en la tarjeta.
+- Habilidades que desarrolla: el pensamiento lógico, la habilidad y agilidad mental
+- Cuando se acaba cualquier tipo de pasajero el juego se acaba y se suman todos los puntos; Quien mejor haya acomodado será el ganador y obtendrá la medalla del mejor servicio de atención al cliente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
