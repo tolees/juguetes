@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Nintendo - Pokemon Escarlata'
-date: 2022-04-12 20:33:27
+date: 2022-04-19 06:06:27
 image: 'https://m.media-amazon.com/images/I/51Q+zlRt3kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09TL4RSWZ-es Nintendo - Pokemon Escarlata'
 sku: 'B09TL4RSWZ-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09TL4RSWZ/?tag=tolees-21'
 descuento: '21.33'
-average: '66.4592307692308'
+average: '64.93'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carátula provisional.
 - Fecha de lanzamiento no oficial, sujeta a modificaciones.
+- Carátula provisional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
