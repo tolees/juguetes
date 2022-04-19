@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transmisión rápida y estable: la caja de conmutación HDMI bidireccional no solo soporta transmisión de datos de 3,4 Gbps de alto ancho de banda, también garantiza una visualización estable y de alta definición de audio y vídeo. El cable estándar HDMI AWG26 de entrada y salida puede alcanzar hasta 5 m.
-- Enchufar y usar: el divisor HDMI bidireccional no necesita ningún controlador externo o fuente de alimentación, el interruptor HDMI funcionará una vez conectado. Simplemente pulsa el botón para cambiar la fuente de entrada o salida y el indicador LED te indica qué puerto está activo.
 - Resolución 4K: el interruptor HDMI bidireccional soporta 4K x 2K @ 30hz, 1080p @ 60Hz, formatos de vídeo 3D y audio HD, te proporciona cine en casa.
-- 【Interruptor HDMI BIDIRECCIONAL】El conmutador HDMI conecta 2 entradas HDMI a 1 pantalla HDMI o conecta 1 fuente HDMI a 2 pantallas HDMI (Nota: 2 pantallas no se pueden mostrar al mismo tiempo)
 - Compatibilidad: el conmutador HDMI funciona con la mayoría de dispositivos equipados con un puerto HDMI estándar. Compatible con ordenadores, portátiles, XBox 360, XBox One, PS3, PS4, Apple TV, ROKU, Blu-Ray DVD, HD-Ready o HDTV, receptores DVB, monitores, proyectores, etc.
+- 【Interruptor HDMI BIDIRECCIONAL】El conmutador HDMI conecta 2 entradas HDMI a 1 pantalla HDMI o conecta 1 fuente HDMI a 2 pantallas HDMI (Nota: 2 pantallas no se pueden mostrar al mismo tiempo)
+- Enchufar y usar: el divisor HDMI bidireccional no necesita ningún controlador externo o fuente de alimentación, el interruptor HDMI funcionará una vez conectado. Simplemente pulsa el botón para cambiar la fuente de entrada o salida y el indicador LED te indica qué puerto está activo.
+- Transmisión rápida y estable: la caja de conmutación HDMI bidireccional no solo soporta transmisión de datos de 3,4 Gbps de alto ancho de banda, también garantiza una visualización estable y de alta definición de audio y vídeo. El cable estándar HDMI AWG26 de entrada y salida puede alcanzar hasta 5 m.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

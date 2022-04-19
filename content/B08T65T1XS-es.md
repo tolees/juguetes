@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los personajes de los 7 reinos más famosos de GOT, con la estética más característica
-- Las imágenes más icónicas con los personajes más señalados de la serie más vista en los últimos años
 - 500 piezas con los personajes de Juego de Tronos
+- Las imágenes más icónicas con los personajes más señalados de la serie más vista en los últimos años
 - La colección de puzzles de Clementoni de Juego de Tronos
+- Los personajes de los 7 reinos más famosos de GOT, con la estética más característica
 - Los puzzles de Clementoni se fabrican 100% en Italia y con materiales reciclables, para ser sostenibles con el medio ambiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
