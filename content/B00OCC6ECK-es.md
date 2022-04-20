@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KidKraft Rowan Casa Madera para muñecas de 30 cm  Multicolor  Blanco 10238'
-date: 2022-04-18 10:34:08
+date: 2022-04-20 11:08:08
 image: 'https://m.media-amazon.com/images/I/41IGxWqdmDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El escritorio se abre para guardar los deberes de las muñecas
 - Puerta delantera con molduras decorativas que se abre y cierra
+- Puertas del armario de la pared de la cocina que se abren y cierran
 - 12 piezas de mobiliario y escaleras móviles
 - Juego dinámico desde la entrada delantera hasta el balcón del dormitorio y la terraza de la azotea
-- Puertas del armario de la pared de la cocina que se abren y cierran
+- El escritorio se abre para guardar los deberes de las muñecas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
