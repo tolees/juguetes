@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración: aprox 40 min
-- Idioma de las instrucciones : DE
 - Grupo objetivo: la escuela primaria
-- Instrucciones de Idiomas : DE
+- Duración: aprox 40 min
 - Advertencia : ¡Precaución! No apto para niños menores de 36 meses
+- Idioma de las instrucciones : DE
+- Instrucciones de Idiomas : DE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

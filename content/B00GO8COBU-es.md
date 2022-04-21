@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los niños y las niñas lo pasarán en grande pintando, decorando y secando sus uñas; En 4 sencillos pasos podrán aprender a pintarse las uñas y lucirán una manicura perfecta como la de su mamá
-- El producto incluye un secador de uñas en el que poniendo las puntas de los dedos tendrán sus uñas secas en un momento
 - El producto necesita pilas, no vienen incluidas; El tipo de pilas que necesita son: 2 x AA
+- El producto incluye un secador de uñas en el que poniendo las puntas de los dedos tendrán sus uñas secas en un momento
+- Los niños y las niñas lo pasarán en grande pintando, decorando y secando sus uñas; En 4 sencillos pasos podrán aprender a pintarse las uñas y lucirán una manicura perfecta como la de su mamá
 - Contenido: lima de uñas con purpurina, 5 pintauñas, 1 lámina con pegatinas y un secador
 
 [🛒 Aquí!!!]({{< param buyurl >}})
