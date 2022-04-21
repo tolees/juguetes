@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jazwares GmbH-Ner0125 Nerf Elite-Diana Digital  Color ner0125-modelo 2021  30 x 4 x 24 cm  NER0156 '
-date: 2022-04-16 20:26:48
+date: 2022-04-21 12:34:33
 image: 'https://m.media-amazon.com/images/I/51+qPjjG4nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Aire libre y deportes','Armas y proyectiles de juguete','Chalecos táct
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0
-comparePrice: 35.59 EUR
+comparePrice: 34.04 EUR
 prodname: 'Jazwares GmbH-Ner0125 Nerf Elite-Diana Digital  Color ner0125-modelo 2021  30 x 4 x 24 cm  NER0156 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jazwares GmbH'
 buyurl: 'https://www.amazon.es/dp/B08KSDD16S/?tag=tolees-21'
-descuento: '32.57'
+descuento: '29.49'
 average: '24.0'
 ---
 
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entrena cuando, donde y como quieras con el soporte ajustable y el colgador de pared
 - Diana alimentada por pilas con efectos de luz y sonido y diferentes modos de juego
+- Entrena cuando, donde y como quieras con el soporte ajustable y el colgador de pared
 - Perfecciona tu seguridad de toque
-- Prepárate para la próxima batalla con otros accesorios y accesorios Nerf Elite
 - Nota importante: requiere 3 pilas AA de 1,5 V (no incluidas)
+- Prepárate para la próxima batalla con otros accesorios y accesorios Nerf Elite
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
