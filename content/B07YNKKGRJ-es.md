@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- para un mejor rendimiento, es necesario doblar el popper varias veces
 - Juego clásico de simon, observa, recuerda y repite, el juego electrónico simon es compacto y propone un emocionante desafío repetir las secuencias para subir de nivel
-- Repite las secuencias, un emocionante juego electrónico de luces y sonidos, los jugadores repiten secuencias aleatorias de luces presionando las teclas de colores en el orden correcto
 - Se puede jugar solo, el juego simon se puede jugar solo o entre amigos. Intenta conseguir la puntuación máxima al completar la secuencia más larga que puedas sin equivocarte
 - Suspense en aumento, al principio, las secuencias de luces tienen un ritmo invariable y son fáciles de seguir, pero se vuelven más complejas a medida que avanza el juego
 - Regalo divertido para niños y niñas, ideal como regalo en cumpleaños o en navidad para niños y niñas a partir de 8 años, el juego simon es un juego ágil, desafiante y muy divertido de jugar
+- para un mejor rendimiento, es necesario doblar el popper varias veces
+- Repite las secuencias, un emocionante juego electrónico de luces y sonidos, los jugadores repiten secuencias aleatorias de luces presionando las teclas de colores en el orden correcto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
