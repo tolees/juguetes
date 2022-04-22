@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si todavía no has tenido la ocasión de enfrentarte a Mazescape, todo lo que te hemos contado hasta ahora seguro que ha picado la curiosidad; si quieres saber un poco más acerca de esta propuesta tan única, puedes ver el siguiente video que te dará más pistas sobre el juego
-- El juego de mesa solitario con el desafío más original que no vas a querer perderte; métete en Mazescape a ver si eres capaz de escapar sin la ayuda de nadie
-- Mazescape, el juego solitario con laberintos que desafían la lógica
 - Diseñado para embellecer los momentos del juego
+- Mazescape, el juego solitario con laberintos que desafían la lógica
+- El juego de mesa solitario con el desafío más original que no vas a querer perderte; métete en Mazescape a ver si eres capaz de escapar sin la ayuda de nadie
+- Si todavía no has tenido la ocasión de enfrentarte a Mazescape, todo lo que te hemos contado hasta ahora seguro que ha picado la curiosidad; si quieres saber un poco más acerca de esta propuesta tan única, puedes ver el siguiente video que te dará más pistas sobre el juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

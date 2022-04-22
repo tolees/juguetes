@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Los juguetes de LEGO Star Wars son un increíble regalo de cumpleaños para fans de The Mandalorian de 6+ años
 - La mini figura del Mandaloriano incluida está vestida con su traje de la temporada 2 de Star Wars: The Mandalorian y tiene una pistola bláster y una mochila propulsora
-- Incluye el Razor Crest en versión Microfighter con 2 lanzamisiles (novedad para enero de 2022) y la mini figura LEGO del Mandaloriano
 - Se incluyen también instrucciones sencillas e ilustradas, para que incluso los recién llegados a LEGO puedan construir esta cañonera de Star Wars: The Mandalorian con confianza
 - Los peques podrán explorar otros planetas con la mochila propulsora del mandaloriano y enfrentarse a sus enemigos con la pistola bláster
+- Incluye el Razor Crest en versión Microfighter con 2 lanzamisiles (novedad para enero de 2022) y la mini figura LEGO del Mandaloriano
 - Este set de juego de construcción se combina con otros sets LEGO Star Wars Microfighters para añadir aún más posibilidades de juego creativo y acción
-- Los juguetes de LEGO Star Wars son un increíble regalo de cumpleaños para fans de The Mandalorian de 6+ años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
