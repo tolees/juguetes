@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Hdd de alto rendimiento para optimizar tu experiencia de juego en consola o pc y dar impulso a tus juegos
 - Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black de manera que puedas jugar sin límites
-- Hasta 5.tb de capacidad que pueden guardar hasta 125 juegos, de manera que podrás guardar tus favoritos antiguos y todavía te quedará espacio para juegos nuevos
 - Formato portátil y duradero que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
+- Hasta 5.tb de capacidad que pueden guardar hasta 125 juegos, de manera que podrás guardar tus favoritos antiguos y todavía te quedará espacio para juegos nuevos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

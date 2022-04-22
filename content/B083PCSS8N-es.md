@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para 2 , 3 o 4 jugadores
 - Juego de mesa Scrabble, que celebra el mundo de Harry Potter y sus amigos
-- Incluye un glosario de palabras mágicas del universo de Harry Potter
+- Para 2 , 3 o 4 jugadores
 - Incluye tablero, 4 atriles, fichas con letras y 36 cartas
 - Juego de mesa para adultos y para niños a partir de los 10 años
+- Incluye un glosario de palabras mágicas del universo de Harry Potter
 - Combina aprendizaje y diversión, descubriendo palabras nuevas en cada partida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

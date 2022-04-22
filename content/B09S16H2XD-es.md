@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nos fijamos estándares de calidad extremadamente altos y un gran espíritu de iniciativa en la investigación y el desarrollo de materias primas y proveedores.
 - RISK RUSTIC SERIES
+- RISK RUSTIC SERIES
+- Nos fijamos estándares de calidad extremadamente altos y un gran espíritu de iniciativa en la investigación y el desarrollo de materias primas y proveedores.
 - Explore nuestra gama de productos
 - Muy conveniente
-- RISK RUSTIC SERIES
 
 [🛒 Visítala!!!]({{< param buyurl >}})

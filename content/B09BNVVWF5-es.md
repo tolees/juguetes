@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye un colorido avión de acrobacias de juguete con tren de aterrizaje, alerones ajustables y un potente propulsor, además de la mini figura de un piloto
 - Los sets LEGO City Great Vehicles ayudan a los peques a desarrollar confianza y habilidades esenciales para la vida, con juguetes realistas y divertidos personajes
 - El avión de juguete para niños de 5+ años tiene una cabina que se abre para sentar al piloto, antes de que salga disparado a realizar sus acrobacias y encandilar a los espectadores
-- Esta introducción supersónica al universo LEGO City Great Vehicles es un gran regalo de cumpleaños o para cualquier ocasión para los pequeños amantes de los aviones
+- Incluye un colorido avión de acrobacias de juguete con tren de aterrizaje, alerones ajustables y un potente propulsor, además de la mini figura de un piloto
 - Incluye una guía de montaje impresa con fotos e instrucciones digitales, disponibles en la app gratuita Instrucciones de Montaje LEGO
+- Esta introducción supersónica al universo LEGO City Great Vehicles es un gran regalo de cumpleaños o para cualquier ocasión para los pequeños amantes de los aviones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
