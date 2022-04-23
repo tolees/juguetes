@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Techo extraíble
-- Contiene 32 piezas
 - Incluye una figura y varios animales y accesorios
 - Desarrolla la imaginación y la creatividad
+- Contiene 32 piezas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

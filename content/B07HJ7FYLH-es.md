@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Crazy pawn - Juego de Mesa Predator: Partida de Caza  Multicolor'
-date: 2022-04-12 14:37:31
+date: 2022-04-23 19:25:00
 image: 'https://m.media-amazon.com/images/I/51WIZrI8MIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07HJ7FYLH-es Crazy pawn - Juego de Mesa Predator: Partida de Caza...'
 sku: 'B07HJ7FYLH-es'
-tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','crazy pawn','de','juego','mesa', ]
+tags: [ 'Juego de mesa','Juegos de estrategia','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','crazy pawn','de','juego','mesa','🇪🇸', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 1 a 5 jugadores
-- Juego de mesa
 - Totalmente en castellano
+- Juego de mesa
 - Ponte en la piel del Predator
 - Basado en las dos primeras peliculas de Predator
+- De 1 a 5 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

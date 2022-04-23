@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con apasionantes puzles, trampas peligrosas y valiosos tesoros.
-- Incluye tres figuras, dos esqueletos, una momia, un sarcófago, tres arañas, una serpiente, un escorpión, antorchas y varias vasijas.
-- La pirámide tiene varias trampas: paredes móviles, falso suelo y escaleras trampa.
 - Dimensiones: 46 x 37,5 x 27 cm (LxPxA)
+- Con apasionantes puzles, trampas peligrosas y valiosos tesoros.
+- La pirámide tiene varias trampas: paredes móviles, falso suelo y escaleras trampa.
+- Incluye tres figuras, dos esqueletos, una momia, un sarcófago, tres arañas, una serpiente, un escorpión, antorchas y varias vasijas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

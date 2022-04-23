@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye un escenario construible y accesorios: una estatua, la parte superior de un muffin, cinta de Pronóstico Negativo, aire acondicionado Comando 8 y un poste de Festivus
 - Incluye 5 mini figuras: Jerry Seinfeld, George Costanza, Cosmo Kramer, Elaine Benes y Newman. ¡Da vida a esta escena creada con ladrillos de construcción!
 - Este set para adultos de LEGO Seinfeld revive las escenas de la famosa serie cómica de los 90, con una recreación para construir del apartamento de Jerry
+- Incluye un escenario construible y accesorios: una estatua, la parte superior de un muffin, cinta de Pronóstico Negativo, aire acondicionado Comando 8 y un poste de Festivus
+- Esta maqueta coleccionable de 1326 piezas viene con un folleto ilustrado sobre Seinfeld y es muy divertido para construir a solas o con amigos y familiares
+- Esta maqueta construible para adultas quedará increíble en un lugar destacado para exponer o decorar, y es también una magnífica idea de regalo para los fans de Seinfeld y LEGO
 - El salón tiene un sofá, un sillón y mesas, además de un despacho con detalles auténticos inspirados en la serie Seinfeld
 - ¡El apartamento de Seinfeld tiene una cocina con una encimera construible, una nevera con una pegatina de Superman, microondas, horno, una tetera y un pretzel!
-- Esta maqueta construible para adultas quedará increíble en un lugar destacado para exponer o decorar, y es también una magnífica idea de regalo para los fans de Seinfeld y LEGO
-- Esta maqueta coleccionable de 1326 piezas viene con un folleto ilustrado sobre Seinfeld y es muy divertido para construir a solas o con amigos y familiares
 
 [🛒 Comprar!!!]({{< param buyurl >}})

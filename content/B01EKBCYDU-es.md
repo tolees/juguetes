@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Galera romana con remos y velas
 - Clips en la cubierta aseguran que las figuras se mantengan firmes
 - Con ruedas en el casco para deslizarse por tierra
-- Galera romana con remos y velas
 - Incluye tres figuras, comida, copas, jarrones, cestas, diversas armas, escudos y remos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

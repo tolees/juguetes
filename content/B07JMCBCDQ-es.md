@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una figura con un vehículo y accesorios
-- EL compartimento puede inclinarse
 - Tejado con función de calidades
 - Desarrolla la imaginación y la creatividad
+- EL compartimento puede inclinarse
 
 [🛒 Visítala!!!]({{< param buyurl >}})

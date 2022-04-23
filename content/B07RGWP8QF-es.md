@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su cabeza se mueve
 - Dos modos de juego: modo vivo y modo juguete
-- Producto distribuido oficialmente en España por BIZAK.
-- Habla en español
 - Altura de 42 cm
 - Reconoce la frase y se tumba
+- Producto distribuido oficialmente en España por BIZAK.
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Habla en español
+- Su cabeza se mueve
 
 [🛒 Aquí!!!]({{< param buyurl >}})

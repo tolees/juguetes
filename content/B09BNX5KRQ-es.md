@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este juguete para niños y niñas a partir de 6 años viene con la app y guía digital gratuita Instrucciones de Montaje, con herramientas de zoom, rotación y visualización
-- Incluye 3 mini muñecas de LEGO Friends: Andrea, Stephanie y Daniel, la figura del cachorrito Pebble y 2 tablas de paddle surf
-- El set de juego de acampada al aire libre de LEGO Friends permite que los peques disfruten al máximo de día y de noche en la playa con sus amigos
-- Los sets de juego de LEGO Friends son un magnífico regalo de Semana Santa o cumpleaños para que los peques descubran que los mejores momentos son los que se pasan con amigos
 - La tienda de juguete dispone de literas y una cocina, el muelle tiene una turbina de viento giratoria para dar electricidad y la playa incluye castillos de arena y conchas
+- Los sets de juego de LEGO Friends son un magnífico regalo de Semana Santa o cumpleaños para que los peques descubran que los mejores momentos son los que se pasan con amigos
+- Incluye 3 mini muñecas de LEGO Friends: Andrea, Stephanie y Daniel, la figura del cachorrito Pebble y 2 tablas de paddle surf
+- Este juguete para niños y niñas a partir de 6 años viene con la app y guía digital gratuita Instrucciones de Montaje, con herramientas de zoom, rotación y visualización
 - Ofrece una escena playera con diferentes áreas de juego: una tienda de juguete con cubierta de tela, embarcadero para pescar, ducha y un lugar para guardar las tablas
 - Entre los accesorios se incluyen jabón para la ducha, un lavabo con conchas, chalecos salvavidas, un equipo de música, malvaviscos en un palo y lámparas junto a la cama
+- El set de juego de acampada al aire libre de LEGO Friends permite que los peques disfruten al máximo de día y de noche en la playa con sus amigos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
