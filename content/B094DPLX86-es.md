@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Mazescape - Juego de Mesa Labyrinthos  Multicolor  BGMSLABML '
-date: 2022-04-22 06:32:54
+date: 2022-04-23 11:37:09
 image: 'https://m.media-amazon.com/images/I/51A5tzYtLpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B094DPLX86/?tag=tolees-21'
 descuento: '19.30'
-average: '8.285'
+average: '8.21333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
