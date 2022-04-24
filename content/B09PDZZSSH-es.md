@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pero cuidado con la rana, porque le encanta comer moscas
 - Conoce a los encantadores animales de la selva tropical
+- Este adorable set incluye un loro de vivos colores con alas, patas y ojos móviles, una simpática rana y una simpática mosca
+- Pero cuidado con la rana, porque le encanta comer moscas
 - Diviértete dando de comer al hambriento loro, saltando con la simpática rana y volando con la mosca
 - Conviértete en un camaleón de ojos grandes o en un pez tropical
-- Este adorable set incluye un loro de vivos colores con alas, patas y ojos móviles, una simpática rana y una simpática mosca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

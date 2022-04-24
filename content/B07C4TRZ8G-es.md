@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Set de cultivo versátil: ya sea con lentes o guisantes, con este invernadero los pequeños amigos de la naturaleza podrán disfrutar de su pasión por el botánico y la flora en su propia habitación infantil
-- Un juego de niños: el manual ilustrado ayuda a tu hijo a través de los diferentes niveles de experimentación en los que se descubrirán los secretos de la biología y el crecimiento de la hidroponía
-- Todo en uno: la jardinera contiene todo lo que necesitas para cultivar plantas – material de raíz, semillas y fertilizante pulverizado, con este kit de iniciación podrá disfrutar de los jardineros principiantes
 - Jardinera en la habitación de los niños: el emocionante juego de ciencia natural invita a tu hijo a experimentar con técnicas de hidroponía – Macetas especiales que permiten que las plantas crezcan sin suelo.
 - Contenido del envío: 1 botella Galileo Nature Botánica e hidroponía para niños a partir de 8 años de Clementoni
+- Un juego de niños: el manual ilustrado ayuda a tu hijo a través de los diferentes niveles de experimentación en los que se descubrirán los secretos de la biología y el crecimiento de la hidroponía
+- Todo en uno: la jardinera contiene todo lo que necesitas para cultivar plantas – material de raíz, semillas y fertilizante pulverizado, con este kit de iniciación podrá disfrutar de los jardineros principiantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
