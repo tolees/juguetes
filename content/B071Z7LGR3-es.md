@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Monopoly - Madrid (Hasbro C1009105)
-- Cambia tu fortuna por cartas de Suerte y de Caja de Comunidad.
-- ¡Y deja a tus adversarios en bancarrota para ganarlo todo!
-- Construye casas y hoteles en las propiedades
 - Los jugadores compran, venden e intercambian propiedades para ganar
+- Construye casas y hoteles en las propiedades
+- Cambia tu fortuna por cartas de Suerte y de Caja de Comunidad.
+- Monopoly - Madrid (Hasbro C1009105)
+- ¡Y deja a tus adversarios en bancarrota para ganarlo todo!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
