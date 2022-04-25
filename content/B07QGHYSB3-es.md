@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Falomir- Piedra  Papel o Tijera Juego de Mesa  Multicolor  29767 '
-date: 2022-04-23 13:04:30
+date: 2022-04-25 18:29:49
 image: 'https://m.media-amazon.com/images/I/51xnJqOhwbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Falomir'
 buyurl: 'https://www.amazon.es/dp/B07QGHYSB3/?tag=tolees-21'
 descuento: '30.79'
-average: '10.36'
+average: '10.1642857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un juego de acción rápida
 - Saca piedra papel o tijera y gana a yu oponente
 - Consigue el mayor número de tarjetas
+- Un juego de acción rápida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

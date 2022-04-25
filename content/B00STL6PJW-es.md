@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 '
-date: 2022-04-24 12:08:00
+date: 2022-04-25 19:16:08
 image: 'https://m.media-amazon.com/images/I/51jrQFowofL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B00STL6PJW/?tag=tolees-21'
 descuento: '30.88'
-average: '10.1229565217391'
+average: '10.1190517241379'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

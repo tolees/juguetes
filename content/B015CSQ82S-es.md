@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Set  juego de mesa  222944 '
-date: 2022-04-24 14:10:54
+date: 2022-04-25 18:57:06
 image: 'https://m.media-amazon.com/images/I/51CB4d9vteL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B015CSQ82S/?tag=tolees-21'
 descuento: '19.33'
-average: '12.8441176470588'
+average: '12.8027777777778'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego de percepción visual para toda la familia
-- Duración aproximada de la partida: 20 min
-- Número de jugadores: 1 - 20
 - Edad recomendada: 6 años y más
+- Número de jugadores: 1 - 20
 - Juego adecuado para pasar el tiempo libre
+- Duración aproximada de la partida: 20 min
+- Juego de percepción visual para toda la familia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
