@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Intelligent puzzles are interwoven with an intriguing dramatic narrative to deliver a compelling gameplay experience.
-- An adventure set within a dynamic world, populated by willful characters driven by motivations that the player can subvert. In combination with a unique hacking tool, multiple solutions to puzzles emerge from player choices.
 - A beautifully detailed, comic-book styled world, from the mind of legendary comic artist Dave Gibbons.
-- Unravel dark conspiracies, defeat a terrifying antagonist in this dramatic, humorous, cyberpunk thriller, which explores contemporary themes: social control, AI, and total surveillance.
 - The Utopia Edition includes the base game, a unique collectors box, an enamel pin, an exclusive hologram lamp, a 50 page mini artbook, an exclusive steelbook, the original game soundtrack (digital), 2 XXL premium stickers, 5 holo-ad cards and exchangeable dog tags.
+- Unravel dark conspiracies, defeat a terrifying antagonist in this dramatic, humorous, cyberpunk thriller, which explores contemporary themes: social control, AI, and total surveillance.
+- An adventure set within a dynamic world, populated by willful characters driven by motivations that the player can subvert. In combination with a unique hacking tool, multiple solutions to puzzles emerge from player choices.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

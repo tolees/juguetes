@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Carátula provisional.
 - Fecha de lanzamiento no oficial, sujeta a modificaciones.
+- Carátula provisional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

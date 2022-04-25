@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Póster
-- Incluye:
 - Banda sonora digital
 - Pegatinas
+- Póster
+- Incluye:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

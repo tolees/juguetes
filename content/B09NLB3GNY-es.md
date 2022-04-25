@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pegatinas
-- Póster
-- Banda sonora digital
 - Incluye:
+- Banda sonora digital
+- Póster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
