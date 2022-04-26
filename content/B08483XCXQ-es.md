@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Investiga, disimula, acusa y gana
 - Un asesinato, seis sospechosos, innumerables combinaciones, pero una sola respuesta
+- La carrera para encontrar al culpable ha comenzado
 - Muévete de una habitación a otra y descubre quién lo hizo, dónde y con qué arma
 - Nueva versión para dos jugadores que añade un nuevo toque de intriga
-- La carrera para encontrar al culpable ha comenzado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

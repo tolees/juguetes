@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lanzador Nerf Elite 2.0 Eaglepoint RD-8 - Tambor de 8 Dardos  mira y cañón Desmontables - 16 Dardos Nerf Elite Oficiales'
-date: 2022-04-13 12:04:27
+date: 2022-04-26 13:06:24
 image: 'https://m.media-amazon.com/images/I/41EnH+qhHLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Incluye 16 dardos Nerf Elite oficiales, un porta dardos integrado para 8 dardos para que recargues rápido
+- Lanza 8 dardos seguidos hasta 27 metros de distancia con el tambor giratorio activado por el perno
 - Con 3 rieles tácticos para agregar otros accesorios Nerf (se venden por separado)
 - Este lanzador incluye una mira y un cañón desmontables para que adaptes su estilo a las particularidades de cada misión
-- Lanza 8 dardos seguidos hasta 27 metros de distancia con el tambor giratorio activado por el perno
-- Incluye 16 dardos Nerf Elite oficiales, un porta dardos integrado para 8 dardos para que recargues rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

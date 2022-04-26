@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LANZADOR NERF DINOSQUAD RAPTOR-SLASH: Lánzate a la diversión primal con este lanzador con fantásticos detalles de dinosaurio que replicar la apariencia de un Velociraptor
-- 6 DARDOS NERF: Viene con 6 dardos Nerf Elite oficiales que han sido probados y aprobados para un alto rendimiento y calidad. Magníficos para batallas en interiores y exteriores
 - TAMBOR GIRATORIO DE 6 DARDOS: Lanza 6 dardos seguidos con el tambor giratorio, diseñado para que los dardos salgan de las fauces del Velociraptor. Carga, prepara y lanza 1 dardos a la vez
+- 6 DARDOS NERF: Viene con 6 dardos Nerf Elite oficiales que han sido probados y aprobados para un alto rendimiento y calidad. Magníficos para batallas en interiores y exteriores
 - MODO RÁFAGA: Lanza los 6 dardos en ráfaga manteniendo apretado el gatillo y moviendo el deslizador atrás y adelante
+- LANZADOR NERF DINOSQUAD RAPTOR-SLASH: Lánzate a la diversión primal con este lanzador con fantásticos detalles de dinosaurio que replicar la apariencia de un Velociraptor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

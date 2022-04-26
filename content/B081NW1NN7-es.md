@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Sube a tu disparatado vehículo, calienta el motor y prepárate para la carrera!
-- Los autos locos es un trepidante juego de carreras de coches para un máximo de 6 jugadores. ¡Alcanza la línea de meta en primer lugar con tu bólido favorito, ya sea por las buenas o por las malas!
 - Alta calidad
 - Pero en el circuito tendrás que enfrentarte a las condiciones desiguales del terreno, a las habilidades especiales de tus rivales y a las peligrosas trampas que os tenderá PIERRE NODOYUNA. ¡Este tramposo truhán y su mezquino compañero en maldades PATÁN siempre están al acecho!
+- ¡Sube a tu disparatado vehículo, calienta el motor y prepárate para la carrera!
+- Los autos locos es un trepidante juego de carreras de coches para un máximo de 6 jugadores. ¡Alcanza la línea de meta en primer lugar con tu bólido favorito, ya sea por las buenas o por las malas!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
