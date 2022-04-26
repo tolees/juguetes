@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Fire Emblem Warrios: Three Hopes'
-date: 2022-04-24 22:19:37
+date: 2022-04-26 19:57:10
 image: 'https://m.media-amazon.com/images/I/516K0iBuuYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09S4VMP5K/?tag=tolees-21'
 descuento: '21.55'
-average: '55.6726923076923'
+average: '55.3511111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fecha de lanzamiento no oficial, sujeta a modificaciones.
 - Carátula no definitiva.
+- Fecha de lanzamiento no oficial, sujeta a modificaciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
