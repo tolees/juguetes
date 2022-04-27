@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento acolchado de alta calidad realizado en material funcional: extraíble, lavable y de secado rápido
-- Diseño de ventilación aerodinámico con 17 canales de ventilación
-- Adaptación óptima al contorno de la cabeza con el sistema ajustable uvex IAS y ajuste perfecto gracias a la uvex wing con forma anatómica
-- Protección adicional de la zona inferior del casco con una segunda carcasa de policarbonato
 - Posibilidad de ampliación con un LED insertable (opcional)
+- Diseño de ventilación aerodinámico con 17 canales de ventilación
+- Revestimiento acolchado de alta calidad realizado en material funcional: extraíble, lavable y de secado rápido
+- Protección adicional de la zona inferior del casco con una segunda carcasa de policarbonato
+- Adaptación óptima al contorno de la cabeza con el sistema ajustable uvex IAS y ajuste perfecto gracias a la uvex wing con forma anatómica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
