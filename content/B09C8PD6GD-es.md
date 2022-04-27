@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Jenga Maker - Juego de apilar Bloques de Madera para 2 a 6 Jugadores - Juego en Equipos - Edad: a Partir de 8 años'
-date: 2022-04-25 17:02:15
+date: 2022-04-27 12:35:27
 image: 'https://m.media-amazon.com/images/I/51aDYa-ULvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - UN GIRO DEL JENGA CLÁSICO: En esta versión del juego Jenga, se construye de forma diferente. Los jugadores se dividen en equipos que compiten para construir objetos con los bloques de madera, al mismo tiempo y en el menor tiempo posible
+- CORONA LA CONSTRUCCIÓN: Los equipos construyen sus objetos al mismo tiempo. El primero que construya el suyo correctamente y corone su creación gana esa ronda. Consigue la corona en 3 rondas para ganar
 - 200 CONSTRUCCIONES: Un jugador toma una tarjeta y describe a su equipo cómo ensamblar un objeto. No se permite señalar ni gesticular. Cuenta con construcciones para principiantes y expertos
 - BLOQUES DE MADERA AUTÉNTICA: El juego Jenga Maker incluye 20 coloridos bloques Jenga de madera premium. Cada bloque tiene el logo oficial de Jenga
 - IDEAL PARA JUGAR EN FIESTAS: ¡Anima la fiesta con Jenga Maker! Esta versión del clásico juego de apilar torres es ideal para una noche de juegos en familia. Es un divertido juego para adultos y niños a partir de 8 años
-- CORONA LA CONSTRUCCIÓN: Los equipos construyen sus objetos al mismo tiempo. El primero que construya el suyo correctamente y corone su creación gana esa ronda. Consigue la corona en 3 rondas para ganar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
