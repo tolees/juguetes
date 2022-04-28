@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
 - Una figura con un vehículo y accesorios
 - EL compartimento puede inclinarse
+- Desarrolla la imaginación y la creatividad
 - Tejado con función de calidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

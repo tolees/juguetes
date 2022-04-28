@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Juego de figuras para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Instrumentos tocables por las figuras, Figuras con la parte de la pierna de la falda adecuada para los vestidos/faldas de 2 piezas, Se puede combinar con el 70447 Gran Castillo de la Princesa
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Cuento de hadas: Sala de música PLAYMOBIL con 1 violín, 1 arpa, 1 contrabajo, 1 flauta dulce, 2 princesas y mucho más. Para una recreación detallada
 - Contenido: 1x PLAYMOBIL Princess Clase de Música, Juego de 35 piezas con instrucciones: 4 instrumentos, 2 figuras, 29 accesorios, Material: plástico, se puede montar individualmente, Peso: 90 g, 70452
+- Cuento de hadas: Sala de música PLAYMOBIL con 1 violín, 1 arpa, 1 contrabajo, 1 flauta dulce, 2 princesas y mucho más. Para una recreación detallada
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

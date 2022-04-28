@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 2 figuras, techo desmontable, cabina para 4 figuras, espacio de almacenamiento para equipos, entre otros, apto para bomberos con bomba de agua (9468)
 - Contenido: 1 playmobil city action camión de bomberos, juego de 138 piezas con instrucciones: 1 camión de bomberos, 2 figuras, 135 accesorios
 - Diversión para los pequeños bomberos: playmobil camión de bomberos con efectos de luz y sonido y accesorios para jugar
-- 2 figuras, techo desmontable, cabina para 4 figuras, espacio de almacenamiento para equipos, entre otros, apto para bomberos con bomba de agua (9468)
 - Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 

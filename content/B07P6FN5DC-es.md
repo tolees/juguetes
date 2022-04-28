@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con brazo de pala móvil
-- Contiene seis piezas
 - Ayuda al trabajador de la construcción a desenterrar y cargar los bloques de construcción
 - Desarrolla la imaginación y la creatividad
+- Contiene seis piezas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
