@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - The Witcher 3: Wild Hunt'
-date: 2022-04-25 19:13:04
+date: 2022-04-28 09:01:42
 image: 'https://m.media-amazon.com/images/I/41iSZ74R-PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un gigantesco mundo abierto para explorar
 - Juega en casa y en cualquier sitio
 - Una historia incomparable al nivel de una novela que abarca más de 100 horas de juego
+- Un gigantesco mundo abierto para explorar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
