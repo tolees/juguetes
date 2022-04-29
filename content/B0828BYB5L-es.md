@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Eminent Domain - Juego de Mesa - Español  Color  EETMED01 '
-date: 2022-04-22 06:01:16
+date: 2022-04-29 13:15:39
 image: 'https://m.media-amazon.com/images/I/41DgCaGIguL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B0828BYB5L/?tag=tolees-21'
 descuento: '41.23'
-average: '23.095909090909'
+average: '22.9847826086956'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¿Colonizarlos, o conquistarlos por la fuerza?
 - Produce recursos para intercambiarlos o investiga nuevas tecnologías para forjar el mejor imperio y ganar la partida
 - Explora la galaxia para expandir tu imperio
 - ¿Qué harás con los planetas cercanos?
+- ¿Colonizarlos, o conquistarlos por la fuerza?
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
