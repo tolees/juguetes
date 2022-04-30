@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los anillos están llenos de colores a los lados y es fácil de desarmar, ocupando muy poco espacio
-- Medidas: Alto (1,17m) x Profundo (45cm) x Ancho (1,21m)
-- ¡Ahora también podrás dejar cómodamente tu bebida, gracias a su sujeta bebida!
-- Colores brillantes, resistentes a la luz solar y cambios de temperatura.
 - El clásico juego de estrategia e inteligencia para dos o más jugadores, es ideal para un juego en familia
+- Los anillos están llenos de colores a los lados y es fácil de desarmar, ocupando muy poco espacio
+- Colores brillantes, resistentes a la luz solar y cambios de temperatura.
+- ¡Ahora también podrás dejar cómodamente tu bebida, gracias a su sujeta bebida!
+- Medidas: Alto (1,17m) x Profundo (45cm) x Ancho (1,21m)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
