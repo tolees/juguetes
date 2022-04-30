@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ‎‎Edad recomendada: ‎18 meses a 10 años
 - El peso del producto es de ‎355 g
 - Cuenta con un coche y 24 sillas
+- ‎‎Edad recomendada: ‎18 meses a 10 años
 - El producto representa un juego de aplomo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
