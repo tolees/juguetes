@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cool Mini or Not Ankh: Dioses de Egipto - Juego de Mesa en Español  CMANK001ES'
-date: 2022-04-19 10:20:09
+date: 2022-04-30 12:46:08
 image: 'https://m.media-amazon.com/images/I/519elVhqycL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cool Mini or Not'
 buyurl: 'https://www.amazon.es/dp/B09C25RYQW/?tag=tolees-21'
 descuento: '21.99'
-average: '85.638'
+average: '84.365'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Toma el control de una de las divinidades legendarias de Egipto y altera las reglas de juego con sus poderes únicos.
-- ¿Serás tú ese Dios?
 - Solo un dios saldrá triunfante en la nueva era del monoteísmo.
 - Lidera a tus devotos en un conflicto épico por la vida eterna.
+- ¿Serás tú ese Dios?
 - De 2 a 5 jugadores, a partir de 14 años de edad.
+- Toma el control de una de las divinidades legendarias de Egipto y altera las reglas de juego con sus poderes únicos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
