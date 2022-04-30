@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Nintendo - Live a Live'
-date: 2022-04-24 16:00:38
-image: 'https://m.media-amazon.com/images/I/51gEg3+nrzL._SL500_._SL400_.jpg'
+date: 2022-04-30 15:20:59
+image: 'https://m.media-amazon.com/images/I/51C+G6CSgjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09SH98F8P-es Nintendo - Live a Live'
 sku: 'B09SH98F8P-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 39.92 EUR
+actualPrice: 39.9 EUR
 currency: EUR
-price: 39.92
+price: 39.9
 comparePrice: 49.9 EUR
 prodname: 'Nintendo - Live a Live'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09SH98F8P/?tag=tolees-21'
-descuento: '20.00'
-average: '45.1183333333333'
+descuento: '20.04'
+average: '45.0637499999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
