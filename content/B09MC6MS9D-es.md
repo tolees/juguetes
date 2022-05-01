@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lanza 8 dardos seguidos hasta 27 metros de distancia con el tambor giratorio activado por el perno
+- Con 3 rieles tácticos para agregar otros accesorios Nerf (se venden por separado)
 - Incluye 16 dardos Nerf Elite oficiales, un porta dardos integrado para 8 dardos para que recargues rápido
 - Este lanzador incluye una mira y un cañón desmontables para que adaptes su estilo a las particularidades de cada misión
-- Con 3 rieles tácticos para agregar otros accesorios Nerf (se venden por separado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
