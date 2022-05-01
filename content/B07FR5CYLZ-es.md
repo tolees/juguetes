@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Cacao: Diamante  Multicolor  1 '
-date: 2022-04-30 12:43:33
+date: 2022-05-01 12:49:18
 image: 'https://m.media-amazon.com/images/I/51qBzUfVd2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Edad recomendada: 8 años y más
 - Número de jugadores: 2 - 4
+- Tipo de producto: juego de mesa
 - Duración aproximada de la partida: 60 min
 - Juego adecuado para pasar el tiempo libre
-- Tipo de producto: juego de mesa
-- Edad recomendada: 8 años y más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
