@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming - Trust Cascos Gaming GXT 310C Radius Auriculares Gamer con Micrófono y Diadema Ajustables  Cable de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Camuflaje Jungla'
-date: 2022-04-19 20:17:56
+date: 2022-05-02 13:30:05
 image: 'https://m.media-amazon.com/images/I/412d+z6VRyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21'
 descuento: '56.69'
-average: '17.638'
+average: '17.4592307692308'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cable alargador de 1 m para PC/ordenador portátil
 - Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X)
+- Cable alargador de 1 m para PC/ordenador portátil
+- Cable de 1 m para consolas
 - Micrófono ajustable y banda para la cabeza
 - Suaves y cómodas almohadillas para las orejas
-- Cable de 1 m para consolas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
