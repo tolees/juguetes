@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Licencia oficial para Xbox Series X y S
-- Empuñadura con textura de diamante y cruceta metálica en la parte delantera
-- Cable USB extraíble de 3 m con cierre de velcro
 - Mando con cable que incorpora motores de vibración doble y botones de juego avanzados programables
-- Mando de videojuegos ergonómico con disposición de botones estándar que incluye el nuevo botón Compartir
-- Licencia oficial para Xbox Series X y S
-- Botón de audio para silenciar el audio o el chat a través de una toma de auriculares estéreo de 3,5 mm
-- Mando con cable que incorpora motores de vibración doble y botones de juego avanzados programables
-- Empuñadura con textura de diamante y cruceta metálica en la parte delantera
 - Toma de audio para escuchar el juego o silenciar el chat a través de una toma de auriculares estéreo de 3,5 mm
+- Cable USB extraíble de 3 m con cierre de velcro
+- Licencia oficial para Xbox Series X y S
+- Mando de videojuegos ergonómico con disposición de botones estándar que incluye el nuevo botón Compartir
+- Empuñadura con textura de diamante y cruceta metálica en la parte delantera
+- Botón de audio para silenciar el audio o el chat a través de una toma de auriculares estéreo de 3,5 mm
+- Licencia oficial para Xbox Series X y S
+- Mando con cable que incorpora motores de vibración doble y botones de juego avanzados programables
+- Empuñadura con textura de diamante y cruceta metálica en la parte delantera
 - Cable USB extraíble de 3 m con cierre de velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
