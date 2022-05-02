@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Micrófono ajustable y banda para la cabeza
+- Cable de 1 m para consolas
 - Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X)
 - Cable alargador de 1 m para PC/ordenador portátil
-- Cable de 1 m para consolas
-- Micrófono ajustable y banda para la cabeza
 - Suaves y cómodas almohadillas para las orejas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
