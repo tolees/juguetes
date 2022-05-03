@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para 2 jugadores
 - Los jugadores intentan adivinar el personaje misterioso de su adversario
-- No te pierdas el juego de adivinar personajes
-- Incluye tableros de sobremesa
 - Elije tu personaje misterioso
+- No te pierdas el juego de adivinar personajes
+- Para 2 jugadores
+- Incluye tableros de sobremesa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
