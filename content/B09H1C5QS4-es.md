@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SERIES-BASED CHARACTER-INSPIRED ACCESSORIES: This Star Wars The Black Series action figure comes with 2 entertainment-inspired accessories that make a great addition to any Star Wars collection
-- STAR WARS: THE MANDALORIAN: Fans and collectors can imagine scenes from the Star Wars Galaxy with this premium Death Watch Mandalorian toy, inspired by the Star Wars: The Mandalorian series (Each sold separately. Subject to availability.)
 - ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium, en su colección
-- COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 - DEATH WATCH MANDALORIAN: An extremist clan that attempted to take over Mandalore during the Clone Wars, Death Watch Mandalorians are tenacious warriors embracing ancient traditions of their people
+- COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
+- STAR WARS: THE MANDALORIAN: Fans and collectors can imagine scenes from the Star Wars Galaxy with this premium Death Watch Mandalorian toy, inspired by the Star Wars: The Mandalorian series (Each sold separately. Subject to availability.)
+- SERIES-BASED CHARACTER-INSPIRED ACCESSORIES: This Star Wars The Black Series action figure comes with 2 entertainment-inspired accessories that make a great addition to any Star Wars collection
 
 [🛒 Comprar!!!]({{< param buyurl >}})
