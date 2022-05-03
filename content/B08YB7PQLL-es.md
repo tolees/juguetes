@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Compatible con la mayoría de los tipos de teléfonos inteligentes y controladores de consola, incluidos PlayStation 5 DualSense de próxima generación, Xbox Series S / X y todos los iPhones
 - Soporte para teléfono Movil, mando a distancia y mando de juegos
 - Incluye un cable de carga USB tipo C de 1,2 m
-- Personaje imperial stormtrooper
-- Compatible con la mayoría de los tipos de teléfonos inteligentes y controladores de consola, incluidos PlayStation 5 DualSense de próxima generación, Xbox Series S / X y todos los iPhones
 - Con licencia oficial de Disney y Star Wars
+- Personaje imperial stormtrooper
 
 [🛒 Visítala!!!]({{< param buyurl >}})
