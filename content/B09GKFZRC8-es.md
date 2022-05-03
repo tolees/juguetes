@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- producto 1: Fecha de lanzamiento sujeta a cambios
 - producto 1: caratula no definitiva
+- producto 1: Fecha de lanzamiento sujeta a cambios
 
 [🛒 Aquí!!!]({{< param buyurl >}})

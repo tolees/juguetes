@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: caratula no definitiva
 - producto 1: Fecha de lanzamiento sujeta a cambios
+- producto 1: caratula no definitiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
