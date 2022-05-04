@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Namco bandai games america inc. - Subnautica & Subnautica: Below Zero NSW'
-date: 2022-05-02 09:03:59
+date: 2022-05-04 11:01:43
 image: 'https://m.media-amazon.com/images/I/51ylRehqpgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Namco bandai games america inc.'
 buyurl: 'https://www.amazon.es/dp/B08VFRVYT8/?tag=tolees-21'
 descuento: '27.04'
-average: '39.3675'
+average: '40.248'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Construye tu hábitat
-- La supervivencia es la clave
-- Exploración
 - Los misterios sumergidos en el Planeta 4546B
+- Construye tu hábitat
+- Exploración
+- La supervivencia es la clave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
