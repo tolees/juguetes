@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los juguetes de peluche son personajes de dibujos animados del Rey León
 - Función magnética: Simba y Nala juntan sus cabezas
+- Los juguetes de peluche son personajes de dibujos animados del Rey León
 - Edad: más de 3 años
 - Los juguetes de peluche miden 17 cm de alto
 
