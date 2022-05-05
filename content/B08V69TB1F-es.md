@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una Yara Desgarrada: Lucha Contra Las Tropas De Antón En El Far Cry Más Grande Hasta La Fecha A Lo Largo De Junglas, Playas Y Esperanza, La Capital De Yara
+- Mejora a la versión de PlayStation5: El disco Blu-ray del juego Far Cry 6 para PlayStation4 debe permanecer insertado en el sistema PlayStation5 para poder jugar a la versión digital de Far Cry 6 para esta plataforma sin ningún coste adicional, cuando esté disponible; requiere una PlayStation5, el disco Blu-ray del juego, una cuenta en PlayStation Network, espacio en disco adicional y una conexión a internet de banda ancha; puede que genere gastos de uso de banda ancha
 - Lucha Por La Libertad: Encarna A Dani Rojas, Habitante De Yara Que Se Convertirá En Guerrillero Para Liberar Su Nación
 - Potencia De Fuego Guerrillera: Sírvete De Armas Improvisadas, Vehículos Y Amigos, Los Nuevos Colmillos De Alquiler, Para Reducir El Tiránico Régimen A Cenizas
-- Mejora a la versión de PlayStation5: El disco Blu-ray del juego Far Cry 6 para PlayStation4 debe permanecer insertado en el sistema PlayStation5 para poder jugar a la versión digital de Far Cry 6 para esta plataforma sin ningún coste adicional, cuando esté disponible; requiere una PlayStation5, el disco Blu-ray del juego, una cuenta en PlayStation Network, espacio en disco adicional y una conexión a internet de banda ancha; puede que genere gastos de uso de banda ancha
+- Una Yara Desgarrada: Lucha Contra Las Tropas De Antón En El Far Cry Más Grande Hasta La Fecha A Lo Largo De Junglas, Playas Y Esperanza, La Capital De Yara
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
