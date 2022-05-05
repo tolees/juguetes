@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Redescubre la historia de Naruto
 - Naruto ha crecido luchando contra hordas de enemigos
+- Redescubre la historia de Naruto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
