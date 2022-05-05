@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Far Cry 6 Ps4'
-date: 2022-05-03 16:49:45
+date: 2022-05-05 12:21:04
 image: 'https://m.media-amazon.com/images/I/41EcumRFA8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B08V69TB1F/?tag=tolees-21'
 descuento: '18.29'
-average: '27.08'
+average: '26.3514285714286'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

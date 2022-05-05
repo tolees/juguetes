@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SmartGyro Xtreme XD - Patín eléctrico para niños y jóvenes  ruedas 8"  3 velocidades  plegable  ligero  manejable  autonomía de 18 Km  batería litio  freno eléctrico  Scooter  luces traserasn  Negro'
-date: 2022-05-04 11:41:23
+date: 2022-05-05 12:55:34
 image: 'https://m.media-amazon.com/images/I/31Z7v8tbXHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SMARTGYRO'
 buyurl: 'https://www.amazon.es/dp/B07GZGRGHP/?tag=tolees-21'
 descuento: '27.75'
-average: '210.824545454545'
+average: '208.2475'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dimensiones 111,5x56x113cm (111,5x56x48,5 cm plegado) con un peso de 10 Kg
-- Rueda delantera neumática y trasera sólida de 8", freno eléctrico potente que detendrá el patín en un instante
 - Patín eléctrico con 250 W de potencia y batería de Litio 6.600 mAh, plegable y con un peso ligero
-- Pensado para ser utilizado por adolescentes, velocidad máxima de 20 Km/h, autonomía de hasta 18 Km; Powered by woxter
+- Rueda delantera neumática y trasera sólida de 8", freno eléctrico potente que detendrá el patín en un instante
 - Estructura plegable, display multifunción y luces led de freno
+- Pensado para ser utilizado por adolescentes, velocidad máxima de 20 Km/h, autonomía de hasta 18 Km; Powered by woxter
+- Dimensiones 111,5x56x113cm (111,5x56x48,5 cm plegado) con un peso de 10 Kg
 
 [🛒 Visítala!!!]({{< param buyurl >}})
