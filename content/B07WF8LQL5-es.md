@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disco de 7200 r. p. m. con tecnología de refrigeración activa y velocidades de hasta 250 MB/s
-- Dos puertos de carga USB Type-A de 7,5 W para poder cargar el equipo y los accesorios de videojuegos
-- Dispositivo especialmente diseñado para videojugadores según los estándares de calidad y fiabilidad de WD_BLACK
-- Incluye 1 mes de suscripción gratuita a Xbox Game Pass Ultimate
 - 12 TB de espacio para guardar y mantener una colección de videojuegos de Xbox de hasta 300 juegos
+- Dispositivo especialmente diseñado para videojugadores según los estándares de calidad y fiabilidad de WD_BLACK
+- Dos puertos de carga USB Type-A de 7,5 W para poder cargar el equipo y los accesorios de videojuegos
+- Incluye 1 mes de suscripción gratuita a Xbox Game Pass Ultimate
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon Monster Truck Championship  PS5  Versión Española'
-date: 2022-04-21 16:35:15
+date: 2022-05-05 18:18:59
 image: 'https://m.media-amazon.com/images/I/51dP4eVrlHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Vide
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 39.99 EUR
+comparePrice: 24.95 EUR
 prodname: 'Nacon Monster Truck Championship  PS5  Versión Española'
 country: 'es'
 flag: '🇪🇸'
 brand: 'NACON'
 buyurl: 'https://www.amazon.es/dp/B08QX3J55Y/?tag=tolees-21'
-descuento: '50.01'
-average: '33.2966666666667'
+descuento: '19.88'
+average: '29.97'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 tipos de eventos: Carrera, Contrarreloj, Carreras de Arrastre, Estilo Libre y Destrucción
-- 16 vehículos personalizables con más de 50 opcione
-- Conducción y física realistas, incluyendo control independiente de las ruedas delanteras y traseras, y ajuste de diferentes elementos mecánicos, como suspensiones, caja de cambios y motor
-- Un modo online para hasta 8 jugadores en carreras de tamaño monstruoso
 - 25 circuitos en diferentes ciudades de Estados Unidos
+- 16 vehículos personalizables con más de 50 opcione
+- 5 tipos de eventos: Carrera, Contrarreloj, Carreras de Arrastre, Estilo Libre y Destrucción
+- Un modo online para hasta 8 jugadores en carreras de tamaño monstruoso
+- Conducción y física realistas, incluyendo control independiente de las ruedas delanteras y traseras, y ajuste de diferentes elementos mecánicos, como suspensiones, caja de cambios y motor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
