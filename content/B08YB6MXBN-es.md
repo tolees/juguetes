@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exquisite Gaming - Cable Guy Gremlins  Soporte de sujeción o Carga para Mando de Consola o Smartphone. Producto con Licencia Oficial  Nintendo Switch '
-date: 2022-05-04 17:03:51
+date: 2022-05-06 11:23:51
 image: 'https://m.media-amazon.com/images/I/31DK1ltQuUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte para teléfono Movil, mando a distancia y mando de juegos
-- Personaje Gremlins
 - Incluye un cable de carga USB tipo C de 1,2 m
+- Personaje Gremlins
 - Compatible con la mayoría de los tipos de teléfonos inteligentes y controladores de consola, incluidos PlayStation 5 DualSense de próxima generación, Xbox Series S / X y todos los iPhones
 - Con licencia oficial.
+- Soporte para teléfono Movil, mando a distancia y mando de juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

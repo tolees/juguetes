@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'E X I N Fiesta - Juego de Mesa - 3 Juegos Diferentes en 1 Caja - Muchas Cartas y Risas - ¡Regala una Fiesta!'
-date: 2022-04-29 12:26:41
+date: 2022-05-06 11:20:58
 image: 'https://m.media-amazon.com/images/I/31uK+j71XdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'E X I N'
 buyurl: 'https://www.amazon.es/dp/B08FMRDVXV/?tag=tolees-21'
 descuento: '36.84'
-average: '53.6133333333332'
+average: '53.3812499999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- EXIN FIESTA contiene 3 juegos distintos dentro de la misma caja para que puedas cambiar y tener horas interminables de diversión.
+- COMPROMISO SOCIAL: Sostenibilidad, utilizamos cartón y papel reciclado y reciclable; Fabricación local, fabricamos en España; Responsabilidad social, damos fabricación a entidades con personas que tienen discapacidad; Salud, colaboramos con centros para reducir la adicción a la tecnología y realizar un buen uso de ésta.
+- Un juego para convertir una reunión de amigos en una fiesta memorable.
 - Juego 1 (ASESINO): los jugadores inocentes deben descubrir quién o quienes son los asesinos encubiertos en el juego. Juego 2 (TEAMS): adivina el mayor número de palabras siguiendo las normas de cada ronda: descripción, palabra, mímica, dibujo y sonido. Juego 3 (SPEED): responde el máximo número de cartas con tu equipo en 1 minuto.
 - De 30 a 45 minutos. Desde 4 a 20 jugadores.
-- Un juego para convertir una reunión de amigos en una fiesta memorable.
-- COMPROMISO SOCIAL: Sostenibilidad, utilizamos cartón y papel reciclado y reciclable; Fabricación local, fabricamos en España; Responsabilidad social, damos fabricación a entidades con personas que tienen discapacidad; Salud, colaboramos con centros para reducir la adicción a la tecnología y realizar un buen uso de ésta.
-- EXIN FIESTA contiene 3 juegos distintos dentro de la misma caja para que puedas cambiar y tener horas interminables de diversión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
