@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD BLACK - WD BLACK D30 de 1 TB Game Drive SSD: velocidad y almacenamiento  compatible con la serie X|S de Xbox y PlayStation 5'
-date: 2022-05-05 13:11:33
+date: 2022-05-06 13:22:40
 image: 'https://m.media-amazon.com/images/I/31mXwoQvTLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WD BLACK'
 buyurl: 'https://www.amazon.es/dp/B093HHB7ZM/?tag=tolees-21'
 descuento: '55.69'
-average: '139.937142857143'
+average: '136.56875'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compatible con PlayStation 5 (solo para juegos de la PS4), Xbox One, y la serie X|S de Xbox (jugar y guardar juegos de la Xbox One; archivar juegos de la serie X|S de Xbox)
-- Velocidades aceleradas de hasta 900 MB/s para ayudar a minimizar las pantallas que tardan en cargarse
-- Capacidad ampliada de hasta 2 TB para guardar hasta 50 juegos
-- Con un diseño y un estilo que se complementan con tu consola
 - SSD de alto rendimiento con garantía limitada de 3 años
+- Capacidad ampliada de hasta 2 TB para guardar hasta 50 juegos
+- Velocidades aceleradas de hasta 900 MB/s para ayudar a minimizar las pantallas que tardan en cargarse
+- Con un diseño y un estilo que se complementan con tu consola
+- Compatible con PlayStation 5 (solo para juegos de la PS4), Xbox One, y la serie X|S de Xbox (jugar y guardar juegos de la Xbox One; archivar juegos de la serie X|S de Xbox)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
