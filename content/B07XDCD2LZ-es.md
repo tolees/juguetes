@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuevo contenido te espera. Futuros conectados: un nuevo episodio totalmente inédito está disponible desde el inicio del juego
 - Sube el volumen. La BSO del juego creada originalmente por el maestro japonés Yasunori Mitsuda ha sido totalmente remasterizada para esta edición.
-- Gracias a su sistema dual de voces podrás cambiar fácilmente entre el inglés o el japonés original.
-- Haz a tus personajes únicos. Desarrolla sus habilidades, potencia sus características, customízalos a tu medida y equípalos con numerosas armas. Crear el escuadrón perfecto está a tu alcance
-- Salva al mundo a tu ritmo. Gracias al modo portátil de la familia de consolas Nintendo Switch, juega a tu ritmo, gana horas de juego y llévate esta épica aventura a cualquier parte.
-- Un completo sistema de combate a tu servicio. Combina los diferentes personajes, clases y fortalezas para crear tu táctica perfecta en cada enfrentamiento
 - El aclamado título que dio origen a la leyenda del género ha vuelto, totalmente remasterizado con gráficos en HD y dispuesto de hacer las delicias de todo aquel que posea Nintendo Switch.
 - Prepárate para una aventura GIGANTESCA. Tanto si lo jugaste en Wii como si no, te sorprenderás con la belleza de su historia y una trama principal con muchísimas horas de aventura.
+- Nuevo contenido te espera. Futuros conectados: un nuevo episodio totalmente inédito está disponible desde el inicio del juego
+- Haz a tus personajes únicos. Desarrolla sus habilidades, potencia sus características, customízalos a tu medida y equípalos con numerosas armas. Crear el escuadrón perfecto está a tu alcance
+- Un completo sistema de combate a tu servicio. Combina los diferentes personajes, clases y fortalezas para crear tu táctica perfecta en cada enfrentamiento
+- Gracias a su sistema dual de voces podrás cambiar fácilmente entre el inglés o el japonés original.
+- Salva al mundo a tu ritmo. Gracias al modo portátil de la familia de consolas Nintendo Switch, juega a tu ritmo, gana horas de juego y llévate esta épica aventura a cualquier parte.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
