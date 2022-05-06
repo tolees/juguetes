@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avalon Hill F3155105 Juego de Mesa en Español'
-date: 2022-04-22 09:51:44
+date: 2022-05-06 09:11:11
 image: 'https://m.media-amazon.com/images/I/514ZZg0+3vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Avalon Hill'
 buyurl: 'https://www.amazon.es/dp/B09RKNJXSX/?tag=tolees-21'
 descuento: '26.00'
-average: '27.6516666666667'
+average: '26.93'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 2 a 7 jugadores. A partir de 12 años.
 - Las unidades militares tienen todas la misma fuerza o poder de ataque, por lo que las ayudas (propias o de otros jugadores) se hacen imprescindibles.
-- Diplomacy permite la negociación entre los jugadores, negociaciones que luego no tienen por que cumplirse.
-- El juego se desarrolla en la Europa de principios de siglo XX
 - Diplomacy es el juego de mesa de estrategia militar por antonomasia.
+- El juego se desarrolla en la Europa de principios de siglo XX
+- Diplomacy permite la negociación entre los jugadores, negociaciones que luego no tienen por que cumplirse.
+- De 2 a 7 jugadores. A partir de 12 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

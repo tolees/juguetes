@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un juego de 2-6 jugadores
 - Edge entertainment - alta tensión reenergizado
+- Tiempo estimado de partida: 90-120 minutos
+- Un juego de 2-6 jugadores
 - Idioma: español
 - Juego de tablero y estrategia
-- Tiempo estimado de partida: 90-120 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
