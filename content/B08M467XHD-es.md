@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Partidas rápidas y divertidas – Ponte en la piel de un chef y consigue crear un menú de 4 suculentos platos antes que tus rivales.
+- De 2 a 4 jugadores
 - 20 minutos de duración
 - Edad recomendada: a partir de 8 años
-- De 2 a 4 jugadores
 - Ideal para jugar en familia o con amigos
+- Partidas rápidas y divertidas – Ponte en la piel de un chef y consigue crear un menú de 4 suculentos platos antes que tus rivales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
