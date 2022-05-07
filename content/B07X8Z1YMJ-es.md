@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todo cabe dentro de la caja para llevarse la diversión fácilmente a todas partes y disfrutar de soluciones de almacenamiento sencillas
-- La caja de velocidad multicarril de track builder ofrece infinitas opciones para realizar acrobacias increíbles y carreras de uno contra uno
-- Compatible con otros conjuntos de pista de hot wheels para construir acrobacias épicas y un mundo de juegos de carreras
-- La propia caja y la tapa también sirven para montar pistas y acrobacias gracias a sus múltiples puntos de conexión
 - Conecta la pista a la tapa para realizar una espectacular acrobacia de descenso en picado; la parte inferior de la caja cuenta con un salto de cuatro carriles para realizar una fantástica acrobacia final
+- La caja de velocidad multicarril de track builder ofrece infinitas opciones para realizar acrobacias increíbles y carreras de uno contra uno
+- La propia caja y la tapa también sirven para montar pistas y acrobacias gracias a sus múltiples puntos de conexión
+- Compatible con otros conjuntos de pista de hot wheels para construir acrobacias épicas y un mundo de juegos de carreras
+- Todo cabe dentro de la caja para llevarse la diversión fácilmente a todas partes y disfrutar de soluciones de almacenamiento sencillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
