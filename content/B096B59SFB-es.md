@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡El juego definitivo Bellies ya está aquí!
+- Aplica los diferentes cuidados que encontrarás en los cajones y no olvides aplicar el abrillantador para un acabado perfecto
 - ¿Cómo funciona? Primero debes sentar a tu Bellie en el Bellie potty , luego tirar de la cadena y ¡empieza a sonar! Es el momento de comprobar que poop te ha tocado y que cuidadito debes aplicar
+- ¡El juego definitivo Bellies ya está aquí!
 - Solo tira de la palanca, haz girar la ruleta y lo descubrirás
 - Poopypedia Care Center es el juego perfecto para cuidar el pompis de tu Bellie
-- Aplica los diferentes cuidados que encontrarás en los cajones y no olvides aplicar el abrillantador para un acabado perfecto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

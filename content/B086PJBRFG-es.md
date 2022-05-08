@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NERF Ultra Two Moto BLASTER con rápida recarga trasera: el cilindro de 6 dardos está abierto en la parte posterior, mirando a ti mientras sostienes el bláster, para que puedas recargar rápidamente. Funciona solo con dardos Nerf Ultra
 - Los dardos Nerf Ultra son los dardos más lejanos que vuelan nunca: los dardos Nerf Ultra vuelan hasta 36 metros. Distancias basadas en pruebas controladas. El rendimiento real varía.
 - Lo último en dardos NERF: experimenta una distancia extrema, precisión y velocidad con los blasters Nerf Ultra que están diseñados con características avanzadas para llevar tus juegos Nerf al siguiente nivel
+- NERF Ultra Two Moto BLASTER con rápida recarga trasera: el cilindro de 6 dardos está abierto en la parte posterior, mirando a ti mientras sostienes el bláster, para que puedas recargar rápidamente. Funciona solo con dardos Nerf Ultra
 - 6 dardos Ultra NERF: incluye 6 dardos Nerf Ultra que cuentan con una innovadora punta de vuelo, tecnología Aerofin y espuma ligera Nerf Ultra. Funciona solo con pistolas Nerf Ultra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
