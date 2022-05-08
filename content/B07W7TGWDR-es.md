@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mejora tus habilidades, permite realizar un seguimiento de tu progreso, y competir con amigos y GoCubers del mundo entero
-- CONÉCTATE con amigos e interactúa con GoCubers de todo el mundo, compite en línea en tiempo real y accede a nuestra tabla global de posiciones
-- JUEGA – Diviértete con la sección de minijuegos de GoCube (Simon - el clásico juego de memoria, rompecabezas, instrumentos musicales), que a la vez es una opción excelente para los más jóvenes
 - APRENDE Y MEJORA - ¡POR FIN es posible resolver el cubo! – un tutorial divertido e interactivo (1 hora de duración), que permite a cualquier persona aprender las técnicas para resolver este clásico rompecabezas. Lleva tu juego al siguiente nivel, revisa tus estadísticas, y la información sobre tu progreso para mejorar tu juego.* Nuestra aplicación actualmente solo está disponible en inglés
+- JUEGA – Diviértete con la sección de minijuegos de GoCube (Simon - el clásico juego de memoria, rompecabezas, instrumentos musicales), que a la vez es una opción excelente para los más jóvenes
+- CONÉCTATE con amigos e interactúa con GoCubers de todo el mundo, compite en línea en tiempo real y accede a nuestra tabla global de posiciones
+- Mejora tus habilidades, permite realizar un seguimiento de tu progreso, y competir con amigos y GoCubers del mundo entero
 - Equipado con avanzados sensores de seguimiento y orientación, conexión inalámbrica y más de 60 horas de tiempo de juego. Es perfecto para viajes, para llevar fuera de casa, para pasar tiempo de calidad en familia, y para llevar a la oficina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

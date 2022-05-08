@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Velocidades aceleradas de hasta 900 MB/s para ayudar a minimizar las pantallas que tardan en cargarse
 - Compatible con PlayStation 5 (solo para juegos de la PS4), Xbox One, y la serie X|S de Xbox (jugar y guardar juegos de la Xbox One; archivar juegos de la serie X|S de Xbox)
 - SSD de alto rendimiento con garantía limitada de 3 años
+- Velocidades aceleradas de hasta 900 MB/s para ayudar a minimizar las pantallas que tardan en cargarse
 - Con un diseño y un estilo que se complementan con tu consola
 - Capacidad ampliada de hasta 2 TB para guardar hasta 50 juegos
 
