@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es el regalo óptimo para los fans de Stars Wars
 - Figura coleccionable
 - Contiene figura y accesorios
 - Figura inspirada en el personaje Boba Fet de la Serie Star Wars
+- Es el regalo óptimo para los fans de Stars Wars
 
 [🛒 Comprar!!!]({{< param buyurl >}})

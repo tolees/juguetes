@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Portada reversible.
-- Antología del mundo que detalla el escenario y la historia del juego.
-- Pegatinas.
-- Postales de Night City.
 - Mapa de Night City.
 - Los artículos digitales incluyen: música original, folleto de arte que incluye una selección de diseños del juego, cómic digital "Cyberpunk 2077: Tu voz", manual de Cyberpunk 2020, fondos de pantalla para escritorio y teléfono móvil.
+- Portada reversible.
 - Estuche con discos de juego.
+- Pegatinas.
+- Antología del mundo que detalla el escenario y la historia del juego.
+- Postales de Night City.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
