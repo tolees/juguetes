@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HeidelBÄR Games - Juego de Mesa - Wordsmith - Trata de Descubrir Palabras  Pero en Lugar de Usar Letras  Tienes Piezas con Cuatro Formas Diferentes con Las Que tendrás Que Construir esas Letras.'
-date: 2022-04-29 09:34:54
+date: 2022-05-09 22:23:46
 image: 'https://m.media-amazon.com/images/I/51yJvTG-UiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HeidelBÄR Games'
 buyurl: 'https://www.amazon.es/dp/B08CDZC58Z/?tag=tolees-21'
 descuento: '55.15'
-average: '22.01'
+average: '20.5833333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 2. ¿Necesitas más piezas? ¿Menos? Tira un dado para recibir más piezas o pierde puntos para deshacerte de ellas.
-- 4. Gana puntos y juega otra ronda.
 - 3. Escribe tu palabra y forma una nueva. ¡Sé el primero en formar 6 palabras!
+- 4. Gana puntos y juega otra ronda.
 - 1. Intenta formar una palabra a partir de un conjunto aleatorio de piezas de letras.
 - Wordsmith trata de descubrir palabras, pero en lugar de usar letras, tienes piezas con cuatro formas diferentes con las que tendrás que construir esas letras.
 
