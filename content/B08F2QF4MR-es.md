@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars Black Series Deluxe Figure 2  Hasbro F12715L1 '
-date: 2022-05-04 16:47:45
+date: 2022-05-09 15:58:21
 image: 'https://m.media-amazon.com/images/I/41ICxL0-4DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Es el regalo óptimo para los fans de Stars Wars
 - Figura coleccionable
 - Contiene figura y accesorios
 - Figura inspirada en el personaje Boba Fet de la Serie Star Wars
-- Es el regalo óptimo para los fans de Stars Wars
 
 [🛒 Comprar!!!]({{< param buyurl >}})
