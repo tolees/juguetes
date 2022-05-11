@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Caja de lata resistente y práctica
-- Number of players: 2
 - Juego de mesa
 - Clásico juego del superpoly renovado por fuera y por dentro
+- Number of players: 2
 
 [🛒 Visítala!!!]({{< param buyurl >}})

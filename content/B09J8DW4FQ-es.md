@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- AUTÉNTICO ESTILO DE PELÍCULA: la detallada decoración y el esculpido de estilo cinematográfico hacen que el Batmóvil teledirigido cobre vida igual que en la película de Batman. El coche radiocontrol por excelencia para los fans de la película de Batman y de DC Comics
 - COLECCIÓN OFICIAL DE LA PELÍCULA: el coche teledirigido Batmóvil es fácil de manipular y es apto para niños a partir de 4 años. Colecciona todos los coches teledirigidos de la película de Batman, incluyendo el Batmóvil, la Batmoto y más. ¡Entra en acción con el coche teledirigido de Batman
 - COCHE RC BATMÓVIL: ¡persigue el crimen en Gotham City con el coche radiocontrol Batmóvil a escala 1:20 Este Este batmóvil teledirigido cuenta con un mando a distancia fácil de conducir y un estilo y detalles auténticos de la película
-- FUNCIONA CON PILAS: se requieren 3 pilas LR03 para el coche teledirigido Batman y 2 pilas LR03 para el mando radiocontrol (no incluidas)
-- AUTÉNTICO ESTILO DE PELÍCULA: la detallada decoración y el esculpido de estilo cinematográfico hacen que el Batmóvil teledirigido cobre vida igual que en la película de Batman. El coche radiocontrol por excelencia para los fans de la película de Batman y de DC Comics
 - Includes: 1 Batmobile RC, 1 Controller, 1 Instruction Guide
 - COCHE TELEDIRIGIDO NIÑOS 4 AÑOS CON MÁXIMO RENDIMIENTO: con el control de dos palancas de 2,4 GHz, podrás llevar el coche radiocontrol por donde quieras. Maneja hasta 6 coches teledirigidos para niños a la vez y controla el coche RC desde una distancia de hasta 30 m
+- FUNCIONA CON PILAS: se requieren 3 pilas LR03 para el coche teledirigido Batman y 2 pilas LR03 para el mando radiocontrol (no incluidas)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
