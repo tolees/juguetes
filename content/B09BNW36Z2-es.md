@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este juguete de bomberos y policía incluye 3 mini figuras LEGO con el personaje de la serie de TV LEGO City Bob, y la figura de un gato para llevar a cabo imaginativas historias
 - Únete al bombero Bob, de la serie de TV LEGO City en su furgoneta, dirígete al lugar del incendio y envía un alucinante dron de juguete para apagar las llamas
-- Los peques podrán disparar elementos de agua desde el dron, activar las luces del semáforo y levantar y bajar las llamas LEGO en el lugar del incendio
 - Los juguetes de policía y bomberos de LEGO City son fantásticos para los niños y niñas amantes del juego repleto de acción y los vehículos de emergencia, y una gran idea de regalo
 - Este set incluye varios accesorios para el juego: un pescado, esposas, 2 walkie-talkies, 3 billetes de banco y un saco para el ladrón
 - Incluye varios vehículos de emergencias de juguete: una furgoneta de bomberos con un dron, una moto de policía de juguete, un coche para los malos y un incendio con semáforos
+- Este juguete de bomberos y policía incluye 3 mini figuras LEGO con el personaje de la serie de TV LEGO City Bob, y la figura de un gato para llevar a cabo imaginativas historias
+- Los peques podrán disparar elementos de agua desde el dron, activar las luces del semáforo y levantar y bajar las llamas LEGO en el lugar del incendio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

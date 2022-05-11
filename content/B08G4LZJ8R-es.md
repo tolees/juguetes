@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los sets LEGO City Grandes Vehículos ayudan a los niños a desarrollar sus habilidades físicas y a reforzar su confianza con detallados edificios, vehículos de gran realismo y divertidos personajes que estimulan el juego independiente y libre.
+- El set de juguete de vehículo de construcción para niños y niñas a partir de 4 años cuenta con un cargador frontal, una carretilla, una señal de obras, una pala y conos de tráfico
+- Los elementos y ladrillos LEGO City se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que cada juego satisfaga rigurosos estándares mundiales de seguridad.
 - Viene con una sencilla guía de construcción 4+ e Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes. Esta guía interactiva ayuda a los niños a convertirse en maestros constructores.
+- El set de vehículo de obras viene con una minifigura de trabajador LEGO, con su casco de seguridad, una figura de rata y un conjunto inicial de ladrillos para un inicio fácil
 - Este set de juego de vehículo de construcción fácil de montar ayuda a los niños a descubrir la alegría de construir sus propios juguetes LEGO y exhibir sus propias creaciones
 - Los componentes LEGO cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez; así ha sido desde 1958.
-- El set de juguete de vehículo de construcción para niños y niñas a partir de 4 años cuenta con un cargador frontal, una carretilla, una señal de obras, una pala y conos de tráfico
-- Los peques pueden acordonar áreas con la señal de obras y los conos de tráfico, llenar y vaciar el cargador frontal del camión y escenificar divertidas historias
-- El set de vehículo de obras viene con una minifigura de trabajador LEGO, con su casco de seguridad, una figura de rata y un conjunto inicial de ladrillos para un inicio fácil
-- Los elementos y ladrillos LEGO City se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que cada juego satisfaga rigurosos estándares mundiales de seguridad.
 - Incluye una guía de construcción para niños a partir de 4 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
+- Los peques pueden acordonar áreas con la señal de obras y los conos de tráfico, llenar y vaciar el cargador frontal del camión y escenificar divertidas historias
+- Los sets LEGO City Grandes Vehículos ayudan a los niños a desarrollar sus habilidades físicas y a reforzar su confianza con detallados edificios, vehículos de gran realismo y divertidos personajes que estimulan el juego independiente y libre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
