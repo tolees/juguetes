@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Borras - Peaky Blinders  Juego de Mesa de Estrategia   Conviértete en el gánster más temido de Birmingham   A Partir de 14 años   Única Versión en Español  18862 '
-date: 2022-05-10 21:03:36
+date: 2022-05-12 23:25:34
 image: 'https://m.media-amazon.com/images/I/51sLuH6r3cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BORRAS'
 buyurl: 'https://www.amazon.es/dp/B08BCSY62Y/?tag=tolees-21'
 descuento: '50.09'
-average: '34.3415384615385'
+average: '33.6707142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Única versión en español
-- Regresa a los locos años veinte en la ciudad de Birmingham y juega tu papel en una emocionante guerra entre bandas de gánsteres.
 - Gestiona y aumenta tu negocio comerciando con materiales. Envía a tus secuaces a los lugares correctos para reforzar tu equipo, conseguir materiales o atacar territorios enemigos.
+- Regresa a los locos años veinte en la ciudad de Birmingham y juega tu papel en una emocionante guerra entre bandas de gánsteres.
 - +14 años. De 2 a 4 jugadores. 80 minutos de juego.
 - ¡Crea una red de amigos y enemigos, invierte en ron, piezas de automóvil, armas y carreras de caballos, y enfréntate a tus competidores para convertirte en el gánster más temido de Birmingham!
-- Aumenta tus estadísticas personales, como el carisma, la fuerza y el intelecto, para vencer a tus enemigos y completar tus misiones. Pero no podrás hacerlo sin ayuda.
 - Decide acertadamente y mejora el resultado de tu tirada con el dado. Vende los materiales que consigas para ganar dinero y aumentar tu imperio.
+- Aumenta tus estadísticas personales, como el carisma, la fuerza y el intelecto, para vencer a tus enemigos y completar tus misiones. Pero no podrás hacerlo sin ayuda.
+- Única versión en español
 
 [🛒 Visítala!!!]({{< param buyurl >}})
