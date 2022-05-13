@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bumble3ee Interactive - Jurassic World Evolution 2 - Playstation 5'
-date: 2022-05-10 09:36:06
+date: 2022-05-13 01:55:43
 image: 'https://m.media-amazon.com/images/I/512IqO0nY-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bumble3ee Interactive'
 buyurl: 'https://www.amazon.es/dp/B09FTDHWTM/?tag=tolees-21'
 descuento: '34.43'
-average: '52.8414285714285'
+average: '51.2349999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

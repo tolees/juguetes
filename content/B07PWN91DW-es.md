@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cascos Gaming KROM KAYLE -NXKROMKAYLE - Auriculares con microfono  RGB flow 7 colores  Sonido virtual 7.1  Altavoces 50mm  Diadema Ajustable  Micro Flexible  USB  Compatible PS4  PS5 y PC  Negro'
-date: 2022-05-09 19:42:35
+date: 2022-05-13 01:28:30
 image: 'https://m.media-amazon.com/images/I/31Yt0G3lABL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Krom'
 buyurl: 'https://www.amazon.es/dp/B07PWN91DW/?tag=tolees-21'
 descuento: '47.49'
-average: '24.4823076923077'
+average: '24.155'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dispositivos compatibles: Consola de videojuegos + PC/Videojuegos
-- Diseño ergonómico con diadema ajustable
 - Iluminación 7 colores + rgb flow
-- Micrófono flexible
 - Compatible con PC, PS4 (stereo), PS5
+- Dispositivos compatibles: Consola de videojuegos + PC/Videojuegos
+- Micrófono flexible
 - Altavoces de 50mm con sonido 7.1; virtual
+- Diseño ergonómico con diadema ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
