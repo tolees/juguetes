@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee Agricola - Animales en la Granja  LKGAGC01ES'
-date: 2022-05-12 11:15:58
+date: 2022-05-13 14:44:12
 image: 'https://m.media-amazon.com/images/I/51+KQaQOsBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los jugadores son ganaderos que se dedican a la cría de ovejas, cerdos, vacas y caballos con la ayuda de sus tres granjeros
-- Esta “edición definitiva” es una versión revisada que contiene el juego base original y sus dos expansiones
-- A partir de 10 años de edad
 - Para 2 jugadores
+- A partir de 10 años de edad
+- Esta “edición definitiva” es una versión revisada que contiene el juego base original y sus dos expansiones
 - Además de las figuras de animales, esta edición también incluye figuras de recursos y de granjeros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
