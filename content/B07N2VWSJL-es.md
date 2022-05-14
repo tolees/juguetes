@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Construye a Jackie y su habitación
-- Con 55 piezas para montar
 - Sin tijeras, ni pegamento
 - Edad recomendada: 8 años y más
+- Con 55 piezas para montar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

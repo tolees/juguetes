@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
-- Con trofeo y podio
 - El coche tiene luces en su interior y exterior
+- Con trofeo y podio
+- Desarrolla la imaginación y la creatividad
 - Con control de mando, diferentes neumáticos para recambios y un podio de ganadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El lanzador Rukkus ICS-8 cuenta con un clip de autorrecarga para 8 dardos
-- Los dardos se cargan fácil en la parte delantera del clip
 - Los dardos se introducen fácil en el clip de autorrecarga
-- Lanza 8 dardos seguidos con acción de bombeo antes de recargar
+- Los dardos se cargan fácil en la parte delantera del clip
 - Incluye 8 dardos Elite de Nerf diseñados para lanzar a gran distancia
+- Lanza 8 dardos seguidos con acción de bombeo antes de recargar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
