@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price - Imaginext DC Figura Batman Batwing  Mattel GKJ22 '
-date: 2022-05-11 23:10:10
+date: 2022-05-15 12:44:08
 image: 'https://m.media-amazon.com/images/I/41wFV2CoyfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fisher-Price'
 buyurl: 'https://www.amazon.es/dp/B07X3YCNVB/?tag=tolees-21'
 descuento: '47.51'
-average: '28.4045161290322'
+average: '28.1728124999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La figura de Batman cabe en la cabina para «dirigir» la acción
+- Batman surca los cielos con el Batwing, un avión de juguete con alas de tejido
+- Para niños de 3 a 8 años
 - Incluye un Batwing, una figura de Batman y 4 proyectiles en forma de disco
 - Aprieta el gatillo para desplegar las alas y lanzar un proyectil, aprieta el botón para lanzar más proyectiles
-- Para niños de 3 a 8 años
-- Batman surca los cielos con el Batwing, un avión de juguete con alas de tejido
+- La figura de Batman cabe en la cabina para «dirigir» la acción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

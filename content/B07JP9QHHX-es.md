@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Papua  ed. en castellano   multicolor  BGPAPSP    color/modelo surtido'
-date: 2022-04-30 13:12:47
+date: 2022-05-15 12:54:51
 image: 'https://m.media-amazon.com/images/I/51VvJazeajL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- A partir de 10 años
 - Los jugadores dirigen una expedición científica a Papúa Nueva Guinea, a finales del siglo XIX
 - Unos 75 minutos por partida
 - De 2 a 4 jugadores
-- A partir de 10 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
