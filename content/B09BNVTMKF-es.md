@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75321 Star Wars Microfighters: The Razor Crest  Set con Cañonera de The Mandalorian  Juguete para Niños 6 Años'
-date: 2022-05-11 10:00:35
+date: 2022-05-16 08:04:44
 image: 'https://m.media-amazon.com/images/I/41ElYPAlWPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNVTMKF/?tag=tolees-21'
 descuento: '20.02'
-average: '8.29068965517241'
+average: '8.27129032258064'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- The included Mandalorian LEGO minifigure has a Star Wars: The Mandalorian Season 2 outfit decoration, a blaster pistol and jetpack
-- Clear, illustrated instructions are included so even LEGO beginners can build this Star Wars: The Mandalorian gunship with confidence
-- Features The Razor Crest Microfighter gunship with 2 new-for-January-2022 stud shooters and The Mandalorian LEGO minifigure
-- This buildable toy playset combines with other LEGO Star Wars Microfighters to open up even more action play options
-- Kids can explore other planets with The Mandalorian’s jetpack and battle enemies with his blaster pistol
+- Este set de juego de construcción se combina con otros sets LEGO Star Wars Microfighters para añadir aún más posibilidades de juego creativo y acción
+- Los peques podrán explorar otros planetas con la mochila propulsora del mandaloriano y enfrentarse a sus enemigos con la pistola bláster
+- La mini figura del Mandaloriano incluida está vestida con su traje de la temporada 2 de Star Wars: The Mandalorian y tiene una pistola bláster y una mochila propulsora
+- Se incluyen también instrucciones sencillas e ilustradas, para que incluso los recién llegados a LEGO puedan construir esta cañonera de Star Wars: The Mandalorian con confianza
+- Los juguetes de LEGO Star Wars son un increíble regalo de cumpleaños para fans de The Mandalorian de 6+ años
+- Incluye el Razor Crest en versión Microfighter con 2 lanzamisiles (novedad para enero de 2022) y la mini figura LEGO del Mandaloriano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mando de regulación incorpora de resistencia con freno de emergencia
 - talla Única
+- Mando de regulación incorpora de resistencia con freno de emergencia
 - Avanzada bicicleta indoor de BH fitness, con un cuidado diseño ergonómico
 - El monitor electro nico permite controlar tus sesiones de ejercicio de una forma sencilla y eficaz
 
