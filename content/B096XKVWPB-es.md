@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- Producto distribuido oficialmente en España por BIZAK.
-- Haz que sus ojos brillantes y codiciosos giren con un empujón del émbolo
 - Divertido y emocionante juego de habilidad, para toda la familia; a la Abuela le ha pasado algo, se nota en sus ojos
-- El jugador que empareje rápidamente la tarjeta correcta con los ojos gana la tarjeta
-- Cuando lo hagan, la carrera está en marcha para encontrar la tarjeta con los ojos que aparecen en la cara de la abuela
+- Producto distribuido oficialmente en España por BIZAK.
 - Incluye: 1 base de abuela con bandeja, 9 tarjetas, 20 galletas y hoja de instrucciones
+- El jugador que empareje rápidamente la tarjeta correcta con los ojos gana la tarjeta
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Haz que sus ojos brillantes y codiciosos giren con un empujón del émbolo
+- Cuando lo hagan, la carrera está en marcha para encontrar la tarjeta con los ojos que aparecen en la cara de la abuela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
