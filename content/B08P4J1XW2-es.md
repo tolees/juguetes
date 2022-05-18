@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este lanzador está inspirado en Fortnite y luce los colores y diseño del papel Pulso de camuflaje que aparece en el popular videojuego
 - Lanza 1 dardo cada vez
 - Viene con un tambor giratorio con capacidad para 6 dardos
+- Este lanzador está inspirado en Fortnite y luce los colores y diseño del papel Pulso de camuflaje que aparece en el popular videojuego
 - Incluye 6 dardos Nerf Elite de espuma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
