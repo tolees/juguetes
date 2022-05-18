@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comodidad exclusiva de hyperx
-- Control de audio integrado y micrófono con cancelación de ruido extraíble
-- Carcasa de aluminio resistente
 - Audio de juego envolvente
+- Control de audio integrado y micrófono con cancelación de ruido extraíble
+- Comodidad exclusiva de hyperx
 - Para los sistemas playstation4
+- Carcasa de aluminio resistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
