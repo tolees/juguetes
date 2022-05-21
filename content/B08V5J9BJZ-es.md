@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de jugadores: de 1 a 2 personas
-- Juego de mesa adulto que simula una experiencia Escape Room de verdad para 2 jugadores; el objetivo es conseguir resolver cada una de las aventuras a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
-- El juego contiene 2 aventuras de 60 minutos ambientadas en temática de terror: La casa del lago y La pequeña niña
 - Contenido: 2 nuevas aventuras de 60 minutos y todos los materiales necesarios para poder resolver las pistas
+- El juego contiene 2 aventuras de 60 minutos ambientadas en temática de terror: La casa del lago y La pequeña niña
+- Juego de mesa adulto que simula una experiencia Escape Room de verdad para 2 jugadores; el objetivo es conseguir resolver cada una de las aventuras a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
+- Número de jugadores: de 1 a 2 personas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
