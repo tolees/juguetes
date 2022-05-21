@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene a Freya McCloud, jefa de bomberos de la serie de TV Lego City Adventures, y minifiguras de bombero LEGO, además de un conjunto inicial de ladrillos LEGO para construir
-- Incluye un camión de bomberos de juguete con una escalera, extintor, llamas apilables y una boca de riego, además de accesorios como un hacha y un casco
 - ¿Buscas un juguete para niños de alta calidad? Todos los componentes LEGO City cumplen rigurosas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez.
 - Este juguete de camión de bomberos especial para niños y niñas a partir de 4 años es un estupendo regalo de cumpleaños, un regalo de Navidad especial o un capricho para fans de LEGO City
-- Incluye una guía de construcción para niños a partir de 4 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
-- Centramos nuestra atención en la seguridad. Los elementos y ladrillos LEGO City se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan estrictos estándares mundiales de seguridad.
-- Los peques pueden desplegar la escalera, guardar las herramientas en el compartimento de almacenamiento del camión y crear historias donde son los protagonistas salvadores
-- Los sets LEGO City 4+ invitan a niños y adultos a descubrir el placer de la construcción y a jugar juntos, y alimentan la creatividad y la imaginación de los peques con edificios realistas, fantásticos vehículos y divertidos personajes.
 - Viene con una sencilla guía de construcción 4+ e Instructions PLUS, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes. ¡Esta guía interactiva ayuda a los niños a convertirse en maestros constructores!
+- Incluye una guía de construcción para niños a partir de 4 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
+- Los sets LEGO City 4+ invitan a niños y adultos a descubrir el placer de la construcción y a jugar juntos, y alimentan la creatividad y la imaginación de los peques con edificios realistas, fantásticos vehículos y divertidos personajes.
+- Los peques pueden desplegar la escalera, guardar las herramientas en el compartimento de almacenamiento del camión y crear historias donde son los protagonistas salvadores
+- Contiene a Freya McCloud, jefa de bomberos de la serie de TV Lego City Adventures, y minifiguras de bombero LEGO, además de un conjunto inicial de ladrillos LEGO para construir
+- Incluye un camión de bomberos de juguete con una escalera, extintor, llamas apilables y una boca de riego, además de accesorios como un hacha y un casco
+- Centramos nuestra atención en la seguridad. Los elementos y ladrillos LEGO City se dejan caer, se calientan, se aplastan, se retuercen y se analizan para asegurarnos de que satisfagan estrictos estándares mundiales de seguridad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
