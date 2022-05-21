@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Escape Room Dos Jugadores  Juego de mesa adulto a partir de 16 años'
-date: 2022-05-07 10:28:35
+date: 2022-05-21 14:42:45
 image: 'https://m.media-amazon.com/images/I/51zDNy9P8-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B08V5J9BJZ/?tag=tolees-21'
 descuento: '33.47'
-average: '12.8257142857143'
+average: '12.47'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El juego contiene 2 aventuras de 60 minutos ambientadas en temática de terror: La casa del lago y La pequeña niña
-- Contenido: 2 nuevas aventuras de 60 minutos y todos los materiales necesarios para poder resolver las pistas
 - Número de jugadores: de 1 a 2 personas
 - Juego de mesa adulto que simula una experiencia Escape Room de verdad para 2 jugadores; el objetivo es conseguir resolver cada una de las aventuras a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
+- El juego contiene 2 aventuras de 60 minutos ambientadas en temática de terror: La casa del lago y La pequeña niña
+- Contenido: 2 nuevas aventuras de 60 minutos y todos los materiales necesarios para poder resolver las pistas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
