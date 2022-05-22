@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 🔥 FIESTAS - El juego perfecto para empezar la noche antes de salir . Geniales regalos para amigas originales, regalos originales para hombre.
 - 💬 WASA - Si con los Retos y el Oráculo ya te duele la tripa de reir, prepárate para los desafíos digitales. ¨Señoras y señores, que comiencen los juegos¨
-- 🔥 RETOS - Participaréis en desafíos de todo tipo, pero cargaditos de buen rollo que harán que se os salten las lágrimas de tanto reir.
 - 🧙 ORÁCULO - Os tocará iluminar a los demás con vuestra sabiduría de vida contestando a preguntas tan profundas como absurdas, pero sobre todo divertidas.
+- 🔥 RETOS - Participaréis en desafíos de todo tipo, pero cargaditos de buen rollo que harán que se os salten las lágrimas de tanto reir.
 - 🌍ECOFRIENDLY - Diseñado y fabricado en España con papel de bosques gestionados de forma sostenible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

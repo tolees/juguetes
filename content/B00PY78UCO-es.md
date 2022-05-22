@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego de cartas para diseñar la propia comida
 - Juego adecuado para pasar el tiempo libre
-- Juego de velocidad, memoria y astucia
 - Duración aproximada de la partida: 15 minutos
+- Juego de velocidad, memoria y astucia
+- Juego de cartas para diseñar la propia comida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

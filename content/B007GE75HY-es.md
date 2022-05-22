@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bloques de construcción para bebés a partir de 12 meses y niños hasta 5 años
 - regalo óptimo de mega bloks para aprender mientras construyen
 - óptimo para desarrollar motricidad y coordinación
-- set de construcción para bebés y niños pequeños que incluye 80 mega bloks maxi y una bolsa ecológica con cierre de cremallera
 - compatible con todos los juegos de mega bloks first builders para aún más posibilidades de construcción
+- Bloques de construcción para bebés a partir de 12 meses y niños hasta 5 años
+- set de construcción para bebés y niños pequeños que incluye 80 mega bloks maxi y una bolsa ecológica con cierre de cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

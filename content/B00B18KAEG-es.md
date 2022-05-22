@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell GC-DP 7835 -Bomba de aguas sucias 780W  capacidad de 15.700 l/h  profundidad max. de inversión 7m  conexión de manguera 47.8mm  cuerpos extraños hasta 35 mm  interruptor de flotador continuo '
-date: 2022-05-19 21:21:30
+date: 2022-05-21 22:53:47
 image: 'https://m.media-amazon.com/images/I/413QNx6ygyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00B18KAEG/?tag=tolees-21'
 descuento: '28.53'
-average: '48.1914634146341'
+average: '48.2342857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Junta de anillo deslizante de alta calidad
-- Recogida del cable
 - Carcasa de la bomba de acero fino
-- Detector del nivel del agua con altura regulable sin escalonamientos
 - Asa de transporte
 - Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
+- Detector del nivel del agua con altura regulable sin escalonamientos
+- Recogida del cable
 - Conexión universal para mangueras de 25 mm y 32 mm, así como rosca exterior G 1 (aprox. 33.3 mm)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - LEGO: Jurassic World'
-date: 2022-05-18 13:22:21
+date: 2022-05-21 23:17:37
 image: 'https://m.media-amazon.com/images/I/51LBCA11ZmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07WHT7QZ1-es Warner Bros Interactive Spain - LEGO: Jurassic World'
 sku: 'B07WHT7QZ1-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','lego:','warner bros interactive spain','🇪🇸', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Videojuegos','lego:','warner bros interactive spain','🇪🇸', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07WHT7QZ1/?tag=tolees-21'
 descuento: '24.93'
-average: '20.2580198019799'
+average: '20.3534313725487'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre las maravillas de las películas de Jurassic World: Una aventura que ha estado esperando 65 millones de años, ahora en la clásica y divertida forma del ladrillo de LEGO
-- Juega con amigos y en familia en un modo cooperativo en el que entrar y salir es de lo más sencillo
-- Personaliza tu propia colección de dinosaurios: Recoge ámbar LEGO y experimenta con ADN para crear dinosaurios completamente originales, como el Dilophosaurus Rex; con el Dino Customiser, los jugadores podrán mezclar colores, partes del cuerpo y habilidades, o meterse en la piel de los gigantescos dinosaurios de LEGO y jugar con las propias bestias
-- Da vida y explora Isla Nublar e Isla Sorna: Pon los dinosaurios únicos que has creado en prados y completa misiones especiales de juego libre
 - Causa el caos con los dinosaurios de LEGO: Por primera vez en la saga de videojuegos LEGO, juega con dinosaurios; escoge entre 20 especies, como el amistoso Triceratops, el letal Raptor, el cruel Compy o incluso el poderoso Tyrannosaurus rex
+- Da vida y explora Isla Nublar e Isla Sorna: Pon los dinosaurios únicos que has creado en prados y completa misiones especiales de juego libre
+- Juega con amigos y en familia en un modo cooperativo en el que entrar y salir es de lo más sencillo
+- Descubre las maravillas de las películas de Jurassic World: Una aventura que ha estado esperando 65 millones de años, ahora en la clásica y divertida forma del ladrillo de LEGO
+- Personaliza tu propia colección de dinosaurios: Recoge ámbar LEGO y experimenta con ADN para crear dinosaurios completamente originales, como el Dilophosaurus Rex; con el Dino Customiser, los jugadores podrán mezclar colores, partes del cuerpo y habilidades, o meterse en la piel de los gigantescos dinosaurios de LEGO y jugar con las propias bestias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

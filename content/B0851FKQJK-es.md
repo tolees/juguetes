@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Luces y Sonido】- Contiene tres sonidos (sonidos de vuelo, trabajo y sirena). Dos tipos de luces (luz de búsqueda blanca en la parte delantera del helicóptero y luz de advertencia roja en la cola)
+- 【Hélice Giratoria】- La hélice se puede girar presionando un botón en el costado del helicóptero.
 - 【Coche de Friccion】- Empuje el avion hacia adelante y viajará una cierta distancia hacia adelante.
 - 【Camilla Elevadora】- Gire el cabrestante manual del helicóptero para controlar el cable para subir y bajar la camilla de rescate.
-- 【Hélice Giratoria】- La hélice se puede girar presionando un botón en el costado del helicóptero.
+- 【Luces y Sonido】- Contiene tres sonidos (sonidos de vuelo, trabajo y sirena). Dos tipos de luces (luz de búsqueda blanca en la parte delantera del helicóptero y luz de advertencia roja en la cola)
 - 【Regalos para Niños 3 4 5 Años】- Ideal para cumpleaños, Año Nuevo, regalos de Navidad, decoraciones para fiestas y coleccionables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
