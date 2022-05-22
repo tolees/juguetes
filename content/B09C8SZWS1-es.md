@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【TECNOLOGÍA DE GAMEPAD INALÁMBRICO BLUETOOTH V2.1】 admite una conexión estable dentro de los 8 metros, baja interferencia y facilidad de operación. El diseño ergonómico y la construcción liviana lo hacen cómodo incluso durante largas horas de juego continuo.
-- 【Controles de movimiento, motores duales y turbo】: el mando de control profesional para Nintendo Switch es compatible con Gyro Axis, Dual Vibration y Turbo.
-- 【VIBRACIÓN DE MOTOR DOBLE Y FUNCIÓN TURBO】 que proporciona una experiencia de juego más realista. Funciones de motores eléctricos duales y controles de movimiento Gyro de 6 ejes para una experiencia de juego mejorada. Motor dual incorporado, joystick 3D de alta precisión.
 - 【CONTROLADOR DE JUEGO PARA NINTENDO SWITCH】 con 4 funciones de indicación LED azul y 16 botones de entrada de función, incluye un acelerómetro y giroscopio, lo que hace posible el control de movimiento independiente hacia la izquierda y hacia la derecha. El mejor controlador profesional de terceros para nintendo switch.
 - 【Tiempo de reproducción prolongado】: el control remoto inalámbrico integrado en una batería recargable de 500 mAh. Tiempo de juego: Aprox. 6-8 horas / Tiempo en espera: Aprox. 25 días / Tiempo de carga: Aprox. 2 horas Distancia de transmisión inalámbrica: ≤ 10 m Disfruta de tu juego continuamente.
+- 【VIBRACIÓN DE MOTOR DOBLE Y FUNCIÓN TURBO】 que proporciona una experiencia de juego más realista. Funciones de motores eléctricos duales y controles de movimiento Gyro de 6 ejes para una experiencia de juego mejorada. Motor dual incorporado, joystick 3D de alta precisión.
+- 【Controles de movimiento, motores duales y turbo】: el mando de control profesional para Nintendo Switch es compatible con Gyro Axis, Dual Vibration y Turbo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

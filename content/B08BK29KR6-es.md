@@ -28,19 +28,19 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cable de carga USB-C de 1,8 m incluido
-- Mando de juego para Nintendo Switch con una batería interna recargable: hasta 20 horas de juego por carga
-- Carcasa ergonómica compacta con botones y controles de tamaño estándar
-- Luces LED para el número de jugador, programación de botones y advertencia de batería baja
-- Incluye controles de movimiento y botones avanzados programables
-- Carcasa ergonómica compacta con botones y controles de tamaño estándar
-- Incluye controles de movimiento y botones de juego avanzados programables
+- Mando de Nintendo Switch con una batería interna recargable: hasta 20 horas de juego por carga
 - Bolsita con cierre de cordón: protege y almacena el mando de tu consola en tus desplazamientos
+- Incluye un cable de carga USB-C de 1,8 m
+- Incluye controles de movimiento y botones de juego avanzados programables
+- Bolsita con cierre de cordón: protege y almacena tu mando de juego en tus desplazamientos
+- Luces LED para el número de jugador, programación de botones y advertencia de batería baja
 - Mando inalámbrico con tecnología Bluetooth 5.0
 - Mando inalámbrico con licencia oficial para Nintendo Switch y Nintendo Switch Lite
-- Bolsita con cierre de cordón: protege y almacena tu mando de juego en tus desplazamientos
-- Mando de Nintendo Switch con una batería interna recargable: hasta 20 horas de juego por carga
+- Incluye controles de movimiento y botones avanzados programables
+- Mando de juego para Nintendo Switch con una batería interna recargable: hasta 20 horas de juego por carga
 - Luces LED para mostrar el número de jugador, programación de botones y advertencia de batería baja
-- Incluye un cable de carga USB-C de 1,8 m
+- Carcasa ergonómica compacta con botones y controles de tamaño estándar
+- Carcasa ergonómica compacta con botones y controles de tamaño estándar
+- Cable de carga USB-C de 1,8 m incluido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

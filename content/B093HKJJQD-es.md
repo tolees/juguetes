@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Juega una carta de tu mano, coloca una ficha en el tablero. Cuando consigas 5 en fila ¡es SEQUENCE!
 - Sequence es un juego de estrategia que se juega con tablero y cartas de póquer; un juego divertido y muy sencillo de aprender. Ideal para jugar en familia o con amigos ya que pueden jugar de 2 a 12 jugadores de forma individual o por equipos; a partir de 7 años.
-- Contenido: Tablero de juego, cartas de poker Sequence, 135 fichas de juego e instrucciones.
-- El juego de estrategia que combina el 5 en raya y el póker.
 - Un juego de estrategia en el que deberás aprender a bloquear a tus oponentes y eliminar sus fichas para que no hagan Sequence antes que tú. Juega de forma individual o alíate con tu pareja para poner fichas en el tablero más rápido y tener más posibilidades de ganar. El objetivo es ser el primer jugador en conseguir 2 sequence, es decir, dos líneas horizontales, verticales o diagonales de 5 fichas seguidas del mismo color usando las cartas de tu mano. Decide tu estrategia: bloquear las secuencias de tus oponentes y eliminar sus fichas o perseguir directamente tu objetivo y hacer sequence. Con un poco de estrategia y un poco de suerte ¡serás el ganador!
+- El juego de estrategia que combina el 5 en raya y el póker.
+- Contenido: Tablero de juego, cartas de poker Sequence, 135 fichas de juego e instrucciones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
