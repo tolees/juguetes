@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens- Juego de cartas  EKEK0001 '
-date: 2022-05-21 12:41:25
+date: 2022-05-23 09:28:47
 image: 'https://m.media-amazon.com/images/I/51AzCXlwDQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Exploding Kittens'
 buyurl: 'https://www.amazon.es/dp/B077MKKKFB/?tag=tolees-21'
 descuento: '15.16'
-average: '16.7012499999999'
+average: '16.7090909090908'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten
-- Se recomienda para 2-5 jugadores
-- Es adecuado a partir de 7 años
 - Representa una versión gatuna de la ruleta rusa con un componente estratégico
+- Se recomienda para 2-5 jugadores
 - Cuando esto sucede, esa persona muere y queda eliminada de la partida
+- Es adecuado a partir de 7 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
