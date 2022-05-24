@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A partir de 10 años de edad
 - Los Escape Room son salas de las que tienes que escapar en menos de 60 minutos. Unlock! Te permite vivir esta experiencia en tu casa, alrededor de una mesa.
 - Un juego de cartas cooperativo inspirado en un Escape Room.
 - De 1 a 6 jugadores
 - ¡Tres Aventuras Espeluznantes!
+- A partir de 10 años de edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
