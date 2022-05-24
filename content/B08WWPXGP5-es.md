@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - También hay una bicicleta de juguete con un casco, una pelota, un ordenador portátil y un bolígrafo con un cuaderno, además de mesas y divertidos accesorios de comida en la cafetería
-- Este juguete de construcción LEGO Friends para niñas y niños incluye un laboratorio de ciencias con un microscopio y una mariquita para estudiar, ¡podrán recrear un día en la escuela perfecto!
 - Asentada sobre una base resistente, esta maqueta para construir de LEGO Friends es una pieza de exhibición genial y un estupendo regalo de cumpleaños o Navidad para niñas y niños de 6 años
 - El aula de arte, teatro y música LEGO contiene un cofre con un kit creativo de disfraces, una selección de instrumentos, pinceles, pinturas y un caballete
+- Este juguete de construcción LEGO Friends para niñas y niños incluye un laboratorio de ciencias con un microscopio y una mariquita para estudiar, ¡podrán recrear un día en la escuela perfecto!
 - Incluye 3 mini muñecas LEGO Friends para jugar de Olivia, un chico nuevo, Julian y una figura de un maestro para representar la experiencia LEGO en el aula
 - Cuenta con una escuela de juguete de 2 pisos con 3 aulas para construir y explorar, así como una cafetería, taquillas, baño y un patio al aire libre
 
