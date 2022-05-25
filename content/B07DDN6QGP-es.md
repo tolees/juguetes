@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Z-man Games España Pandemic ZM7101ES Juego de Mesa  Multicolor'
-date: 2022-05-24 09:51:35
+date: 2022-05-25 17:40:00
 image: 'https://m.media-amazon.com/images/I/51V74ZZBs9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Z-man Games España'
 buyurl: 'https://www.amazon.es/dp/B07DDN6QGP/?tag=tolees-21'
 descuento: '39.26'
-average: '34.9195833333333'
+average: '34.4944'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De 2 a 4 Jugadores, Duración de 60 Minutos
+- Ara conseguirlo tus compañeros y tú tendréis que viajar a lo largo y ancho del globo, tratando a los infectados y buscando los recursos necesarios para sintetizar cada una de las curas
 - A partir de 14 años de Edad
 - Como miembros de un equipo especializado en la contención de enfermedades, deberéis controlar la expansión de cuatro plagas mortales mientras intentáis descubrir sus respectivas curas
-- Ara conseguirlo tus compañeros y tú tendréis que viajar a lo largo y ancho del globo, tratando a los infectados y buscando los recursos necesarios para sintetizar cada una de las curas
 - Si queréis triunfar en esta misión, deberéis trabajar unidos
-- De 2 a 4 Jugadores, Duración de 60 Minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
