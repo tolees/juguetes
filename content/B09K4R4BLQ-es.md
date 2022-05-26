@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Grand Theft Auto: The Trilogy – The Definitive Edition'
-date: 2022-05-25 06:11:40
+date: 2022-05-26 06:56:04
 image: 'https://m.media-amazon.com/images/I/51ReAGnM-bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09K4R4BLQ/?tag=tolees-21'
 descuento: '29.17'
-average: '46.1148484848484'
+average: '46.0082352941176'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
