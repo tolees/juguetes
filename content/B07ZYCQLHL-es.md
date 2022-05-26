@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf- Fortnite GL-L  Hasbro E8910EU4 '
-date: 2022-05-19 21:30:56
+date: 2022-05-26 01:03:58
 image: 'https://m.media-amazon.com/images/I/41l3dnxmZeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B07ZYCQLHL/?tag=tolees-21'
 descuento: '36.37'
-average: '47.5115625'
+average: '47.5563636363636'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

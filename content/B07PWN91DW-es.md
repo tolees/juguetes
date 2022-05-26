@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Cascos Gaming KROM KAYLE -NXKROMKAYLE - Auriculares con microfono  RGB flow 7 colores  Sonido virtual 7.1  Altavoces 50mm  Diadema Ajustable  Micro Flexible  USB  Compatible PS4  PS5 y PC  Negro'
-date: 2022-05-18 13:07:23
+date: 2022-05-25 23:13:58
 image: 'https://m.media-amazon.com/images/I/31Yt0G3lABL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07PWN91DW-es Cascos Gaming KROM KAYLE -NXKROMKAYLE - Auriculares con...'
 sku: 'B07PWN91DW-es'
-tags: [ 'Accesorios para Juegos PC','Auriculares gaming para PC','Electrónica','Informática','Juegos y Accesorios para PC','Videojuegos','krom','ps4','ps5','🇪🇸', ]
-actualPrice: 30.28 EUR
+tags: [ 'Accesorios','Accesorios de audio y vídeo para ordenadores','Accesorios para Juegos PC','Auriculares con micrófonos','Informática','Juegos y Accesorios para PC','Videojuegos','krom','ps4','ps5','🇪🇸', ]
+actualPrice: 24.9 EUR
 currency: EUR
-price: 30.28
+price: 24.9
 comparePrice: 37.9 EUR
 prodname: 'Cascos Gaming KROM KAYLE -NXKROMKAYLE - Auriculares con microfono  RGB flow 7 colores  Sonido virtual 7.1  Altavoces 50mm  Diadema Ajustable  Micro Flexible  USB  Compatible PS4  PS5 y PC  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Krom'
 buyurl: 'https://www.amazon.es/dp/B07PWN91DW/?tag=tolees-21'
-descuento: '20.11'
-average: '24.5633333333333'
+descuento: '34.30'
+average: '24.584375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Micrófono flexible
-- Altavoces de 50mm con sonido 7.1; virtual
-- Iluminación 7 colores + rgb flow
-- Dispositivos compatibles: Consola de videojuegos + PC/Videojuegos
 - Compatible con PC, PS4 (stereo), PS5
+- Micrófono flexible
+- Dispositivos compatibles: Consola de videojuegos + PC/Videojuegos
+- Altavoces de 50mm con sonido 7.1; virtual
 - Diseño ergonómico con diadema ajustable
+- Iluminación 7 colores + rgb flow
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
