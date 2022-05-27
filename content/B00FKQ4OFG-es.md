@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain  VG  - LEGO Marvel Super Heroes - Edición Estándar'
-date: 2022-05-26 07:21:16
+date: 2022-05-27 15:18:56
 image: 'https://m.media-amazon.com/images/I/51aEd4XghpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B00FKQ4OFG/?tag=tolees-21'
 descuento: '70.02'
-average: '14.2559999999999'
+average: '14.086129032258'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Combate a los enemigos utilizando habilidades y superpoderes como volar, trepar muros y la invisibilidad
+- Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
 - Supera 45 misiones cargadas de acción
 - Utiliza rápidos movimientos de combate y activa supermovimientos como la palmada de trueno de Hulk y la armadura de Iron Man
 - Completa los desafíos y gana recompensas
-- Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
-- Combate a los enemigos utilizando habilidades y superpoderes como volar, trepar muros y la invisibilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
