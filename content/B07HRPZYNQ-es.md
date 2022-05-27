@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alimenta o da un baño a las muñecas
-- El embalaje recuerda a una lata de spray
 - Se convierte en un estudio de estilo o una bolsa de transporte
+- El embalaje recuerda a una lata de spray
+- Alimenta o da un baño a las muñecas
 - Contiene 15 accesorios y un pequeño póster de colección
 - Ahora con pelo de verdad
 
