@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Arranca los motores y prepárate para un nuevo juego de carreras con un plantel que incluye decenas de tus personajes favoritos de la serie Chocobo.
-- Cada jugador tiene sus propias habilidades y peculiaridades.
-- ¡Compite en torneos para hacerte con la victoria en el grand prix!
 - Equipa magicitas para dejar atrás a la competencia y derrapa por circuitos bien conocidos en los modos multijugador local y en línea.
+- ¡Compite en torneos para hacerte con la victoria en el grand prix!
+- Cada jugador tiene sus propias habilidades y peculiaridades.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
