@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 8 emocionantes modos de juego
 - Modo de juego para un solo jugador y clasificación en línea
-- Demuestra que cantas mejor que nadie en el modo Legend para un jugador
 - 35 nuevas canciones, ¡con éxitos recientes y clásicos de todos los tiempos
 - No tienes un micrófono a mano? ¡Ningún problema! Con la aplicación Lets Sing Mic puedes convertir tu móvil en un micrófono
-- 8 emocionantes modos de juego
+- Demuestra que cantas mejor que nadie en el modo Legend para un jugador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
