@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incentiva la creatividad e imaginación
-- Juego de dados
 - Ofrece tiempo de diversión y entretenimiento
 - Más de 10 millones de combinaciones posibles
+- Juego de dados
+- Incentiva la creatividad e imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
