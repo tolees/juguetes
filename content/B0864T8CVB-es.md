@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Los espías necesitan guaridas para esconderse y pensar en sus nuevas misiones ¡Encuentra la forma de descubrir a los villanos!
 - Los SuperThings son objetos cotidianos transformados en superhéroes y supervillanos, ¡la diversión está asegurada! Estas divertidas figuras son ideales para desarrollar la creatividad de los más pequeños gracias al juego imaginativo además de favorecer la socialización
 - Ahora más que nunca ¡Kaboom City está en tus manos! Ayúdanos a protegerla y descubre junto a los SuperThings Spies qué está sucediendo en Kaboom City
-- Los espías necesitan guaridas para esconderse y pensar en sus nuevas misiones ¡Encuentra la forma de descubrir a los villanos!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

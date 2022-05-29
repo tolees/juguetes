@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El fabricante nos proporciona este producto en modelos y/o colores aleatorios, nos resulta imposible proporcionarte el producto en un modelo y/o color en particular; al confirmar tu compra, recibirás uno de los modelos que se muestran en la imagen o en el título, en función de la disponibilidad; muchas gracias por tu comprensión
 - 52 carretes, 6 cierres, 12 extremos, 1 etiqueta de pompón, 1 base de pompón, 2 hojas de adhesivos para el cierre y 2 folletos de creación
-- Para usar con la máquina de pulseras Kumi kreator
 - Producto distribuido oficialmente en España por BIZAK.
 - Las pulseras no necesitan nudos
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- El fabricante nos proporciona este producto en modelos y/o colores aleatorios, nos resulta imposible proporcionarte el producto en un modelo y/o color en particular; al confirmar tu compra, recibirás uno de los modelos que se muestran en la imagen o en el título, en función de la disponibilidad; muchas gracias por tu comprensión
+- Para usar con la máquina de pulseras Kumi kreator
 - Crea hasta 6 pulseras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
