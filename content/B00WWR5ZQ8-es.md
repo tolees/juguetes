@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain  VG  - LEGO: Jurassic World'
-date: 2022-05-27 15:28:24
+date: 2022-05-30 03:16:06
 image: 'https://m.media-amazon.com/images/I/51lJ-inGo6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B00WWR5ZQ8/?tag=tolees-21'
 descuento: '78.07'
-average: '12.3666666666667'
+average: '11.8842857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Da vida y explora Isla Nublar e Isla Sorna: Pon los dinosaurios únicos que has creado en prados y completa misiones especiales de juego libre
+- Personaliza tu propia colección de dinosaurios: Recoge ámbar LEGO y experimenta con ADN para crear dinosaurios completamente originales, como el Dilophosaurus Rex; con el Dino Customiser, los jugadores podrán mezclar colores, partes del cuerpo y habilidades, o meterse en la piel de los gigantescos dinosaurios de LEGO y jugar con las propias bestias
+- Juega con amigos y en familia en un modo cooperativo en el que entrar y salir es de lo más sencillo
 - Descubre las maravillas de las películas de Jurassic World: Una aventura que ha estado esperando 65 millones de años, ahora en la clásica y divertida forma del ladrillo de LEGO
 - Causa el caos con los dinosaurios de LEGO: Por primera vez en la saga de videojuegos LEGO, juega con dinosaurios; escoge entre 20 especies, como el amistoso Triceratops, el letal Raptor, el cruel Compy o incluso el poderoso Tyrannosaurus rex
-- Juega con amigos y en familia en un modo cooperativo en el que entrar y salir es de lo más sencillo
-- Personaliza tu propia colección de dinosaurios: Recoge ámbar LEGO y experimenta con ADN para crear dinosaurios completamente originales, como el Dilophosaurus Rex; con el Dino Customiser, los jugadores podrán mezclar colores, partes del cuerpo y habilidades, o meterse en la piel de los gigantescos dinosaurios de LEGO y jugar con las propias bestias
 
 [🛒 Aquí!!!]({{< param buyurl >}})

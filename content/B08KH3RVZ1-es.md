@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - NieR Replicant ver.1.22474487139...  PlayStation PS4 '
-date: 2022-05-29 01:17:28
+date: 2022-05-30 03:17:35
 image: 'https://m.media-amazon.com/images/I/51ot7DuSO3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reise mit einer ungew hnliche Gruppe Verbündeter durch eine zerst rte Welt, die von Krankheit und monstr sen Schrecken geplagt wird
-- Entdecke die Wahrheit hinter der Welt von NieR und bereite dich darauf vor, in dieser düsteren, packenden Erz hlung alles infrage zu stellen
 - Ein eing ngiger Kult Soundtrack, neu aufgenommen unter der Leitung von NieR:Auto Komponist Keiichi Okabe
+- Entdecke die Wahrheit hinter der Welt von NieR und bereite dich darauf vor, in dieser düsteren, packenden Erz hlung alles infrage zu stellen
+- Reise mit einer ungew hnliche Gruppe Verbündeter durch eine zerst rte Welt, die von Krankheit und monstr sen Schrecken geplagt wird
 - Bek mpfe furchteinfl ßende Gegner mit einer intuitiven, einzigartig anpassbaren Mischung aus Schwertkunst und m chtiger Magie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
