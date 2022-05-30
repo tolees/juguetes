@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERTHINGS RIVALS OF KABOOM Guardians of Kazoom – Caja de 50 One Packs con Figuras de la Serie Guardians of Kazoom  Cada sobre Contiene 1 SuperThing y 1 Checklist'
-date: 2022-05-24 20:32:22
+date: 2022-05-30 19:00:20
 image: 'https://m.media-amazon.com/images/I/51WM9ABe8mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09HQZPHXS-es SUPERTHINGS RIVALS OF KABOOM Guardians of Kazoom – Caja de...'
 sku: 'B09HQZPHXS-es'
 tags: [ 'Coleccionables','Cromos coleccionables','Cromos, cartas y accesorios','Juguetes','Juguetes y juegos','superthings','superthings rivals of kaboom','🇪🇸', ]
-actualPrice: 29.99 EUR
+actualPrice: 28.87 EUR
 currency: EUR
-price: 29.99
+price: 28.87
 comparePrice: 40.0 EUR
 prodname: 'SUPERTHINGS RIVALS OF KABOOM Guardians of Kazoom – Caja de 50 One Packs con Figuras de la Serie Guardians of Kazoom  Cada sobre Contiene 1 SuperThing y 1 Checklist'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SUPERTHINGS RIVALS OF KABOOM'
 buyurl: 'https://www.amazon.es/dp/B09HQZPHXS/?tag=tolees-21'
-descuento: '25.03'
-average: '31.67'
+descuento: '27.82'
+average: '31.2033333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
