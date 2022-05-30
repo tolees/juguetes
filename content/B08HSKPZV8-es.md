@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Un gioco di ruolo immersivo nel quale seguirai la vita di un eroe che si batte per proteggere la propria terra dal male
 - Diventa più forte, saggio e potente Esplorando le profondità del misterioso labirinto
 - Una coinvolgente combione di elementi di esplorazione con meccaniche di gioco di ruolo
-- Un gioco di ruolo immersivo nel quale seguirai la vita di un eroe che si batte per proteggere la propria terra dal male
 
 [🛒 Aquí!!!]({{< param buyurl >}})
