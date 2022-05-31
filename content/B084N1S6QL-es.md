@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Falomir- Guga 5 Juego de Mesa  Multicolor  30039 '
-date: 2022-05-27 05:31:41
+date: 2022-05-31 10:41:24
 image: 'https://m.media-amazon.com/images/I/41EUX37vtIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forma tríos, escaleras o relaciones lógicas (mayor que/ menor que, sumas/ restas e igualdades)
 - Se el primer jugador en quedarte sin fichas para ganar
 - Fomenta las habilidades matemáticas del niño
-- Forma tríos, escaleras o relaciones lógicas (mayor que/ menor que, sumas/ restas e igualdades)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
