@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro - The Walking Dead Risk Board Game'
-date: 2022-05-17 14:05:00
+date: 2022-06-01 14:47:28
 image: 'https://m.media-amazon.com/images/I/51PgZZgxCRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro'
 buyurl: 'https://www.amazon.es/dp/B00IANLSMS/?tag=tolees-21'
 descuento: '50.73'
-average: '32.5570588235294'
+average: '33.7078947368421'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
