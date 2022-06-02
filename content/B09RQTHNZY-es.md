@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye etiquetas
 - LEGO Llavero Stranger Things
-- Pequeño artículo coleccionable, no necesariamente adecuado como regalo para niños
+- Incluye etiquetas
 - Minifigura Demogorgon
+- Pequeño artículo coleccionable, no necesariamente adecuado como regalo para niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
