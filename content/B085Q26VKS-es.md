@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego contiene 2 aventuras de 60 minutos: Prisión Island y Asylum y una aventura de 15 minutos: Secuestrado
-- Juego de mesa adulto que simula una experiencia Escape Room de verdad para 2 jugadores; El objetivo es conseguir resolver cada una de las aventuras a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
-- Contenido 3 nuevas aventuras, 2 de 60 minutos y una de 15 minutos/todos los materiales necesarios para poder resolver las pistas
 - Número de jugadores: de 1 a 2 personas
+- Juego de mesa adulto que simula una experiencia Escape Room de verdad para 2 jugadores; El objetivo es conseguir resolver cada una de las aventuras a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
+- El juego contiene 2 aventuras de 60 minutos: Prisión Island y Asylum y una aventura de 15 minutos: Secuestrado
+- Contenido 3 nuevas aventuras, 2 de 60 minutos y una de 15 minutos/todos los materiales necesarios para poder resolver las pistas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
