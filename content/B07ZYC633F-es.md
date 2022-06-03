@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - INCLUYE 6 DARDOS NERF Y PORTADARDOS: Viene con 6 dardos Nerf oficiales que te dan muchas recargas para este lanzador de lanzamiento único con portadardos para 2 integrado
+- LANZADOR ADAPTABLE: Personaliza el lanzador para cada batalla o misión con los 2 rieles tácticos para añadir accesorios (no incluidos)
 - RAYO DE LUZ PARA APUNTAR: Apunta con el rayo de luz que aumenta la precisión, incluso con poca iluminación. Funciona hasta 4.5 metros de distancia. Requiere pilas (no incluidas)
 - LANZA DARDOS HASTA 27 METROS: Alcanza tu objetivo con este lanzador que lanza dardos hasta 27 metros de distancia
-- LANZADOR ADAPTABLE: Personaliza el lanzador para cada batalla o misión con los 2 rieles tácticos para añadir accesorios (no incluidos)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
