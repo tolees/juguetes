@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Through the Ages: Una nueva historia de la civilización  juego de mesa  BGHTAGES '
-date: 2022-06-01 08:44:12
+date: 2022-06-02 22:19:59
 image: 'https://m.media-amazon.com/images/I/51asWSERCEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B01LWSIG8E/?tag=tolees-21'
 descuento: '21.84'
-average: '48.8514285714286'
+average: '48.9975'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para gente competitiva y crítica, así como para los más sueltos
-- Para mayores de 14 años
 - Duración: +120 minutos
 - De 2 a 4 jugadores
+- Adecuado para gente competitiva y crítica, así como para los más sueltos
+- Para mayores de 14 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
