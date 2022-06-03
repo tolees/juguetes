@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Monark - Deluxe Edition'
-date: 2022-06-02 10:21:16
+date: 2022-06-03 10:25:49
 image: 'https://m.media-amazon.com/images/I/513IVOlFMOS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0979Y8LTK/?tag=tolees-21'
 descuento: '32.83'
-average: '58.8988235294119'
+average: '57.9400000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
