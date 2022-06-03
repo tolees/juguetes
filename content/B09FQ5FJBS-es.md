@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - OTRAS CARACTERÍSTICAS: La bicicleta se entregará montada al 98%, equipado con luz delantera y trasera alimentada por la batería de la bicicleta, pantalla LED, caballete central, cómodo sillín Selle Royal con sistema de liberación rápida, timbre, guardabarros y cubrecadenas
-- EL MOTOR: Motor potente delantero ANANDA M129F, de 250 W y 40 Nm, con una velocidad máxima soportada de hasta 25 km/h, que ofrece larga vida útil y alto rendimiento
-- LA BATERÍA: GREENWAY YJ145 36V, 13Ah, 468Wh batería de litio que se guarda convenientemente debajo del portaequipajes; 100 km de autonomía en Modo ECO
 - PIEZAS DE CALIDAD: Cuadro de aluminio con diseño de perfil bajo y manillar ajustable, Shimano V-Brake Promax TX117, neumáticos Kenda y horquilla rígida
 - LA CAJA DE CAMBIOS: Buje de cambio interno Shimano Nexus de 7 velocidades que permite cambiar fácilmente entre 7 velocidades, apto para cualquier tipo de carretera
+- LA BATERÍA: GREENWAY YJ145 36V, 13Ah, 468Wh batería de litio que se guarda convenientemente debajo del portaequipajes; 100 km de autonomía en Modo ECO
+- EL MOTOR: Motor potente delantero ANANDA M129F, de 250 W y 40 Nm, con una velocidad máxima soportada de hasta 25 km/h, que ofrece larga vida útil y alto rendimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
