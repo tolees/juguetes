@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Escape Room the game Dos Jugadores  Juego de mesa adulto que simula una experiencia escape room a partir de 16 años'
-date: 2022-06-02 09:40:18
+date: 2022-06-03 14:21:55
 image: 'https://m.media-amazon.com/images/I/51aZYY4ycDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B085Q26VKS/?tag=tolees-21'
 descuento: '16.00'
-average: '13.5470833333333'
+average: '13.5092'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de jugadores: de 1 a 2 personas
 - Juego de mesa adulto que simula una experiencia Escape Room de verdad para 2 jugadores; El objetivo es conseguir resolver cada una de las aventuras a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
-- El juego contiene 2 aventuras de 60 minutos: Prisión Island y Asylum y una aventura de 15 minutos: Secuestrado
+- Número de jugadores: de 1 a 2 personas
 - Contenido 3 nuevas aventuras, 2 de 60 minutos y una de 15 minutos/todos los materiales necesarios para poder resolver las pistas
+- El juego contiene 2 aventuras de 60 minutos: Prisión Island y Asylum y una aventura de 15 minutos: Secuestrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
