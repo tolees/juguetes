@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Diseño exclusivo para Pac-Man, compatible también con otros títulos para Switch
-- Botones traseros programables
 - la precisión y comodidad del Pro Controller, en modo portátil
+- Botones traseros programables
+- Diseño exclusivo para Pac-Man, compatible también con otros títulos para Switch
 - Licencias oficiales de Nintendo y Bandai Namco
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
 [🛒 Aquí!!!]({{< param buyurl >}})

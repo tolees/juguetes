@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maletín en el que podrás guardar todos los accesorios
 - Incluye tres figuras
-- Con varios accesorios
 - Desarrolla la imaginación y la creatividad
+- Con varios accesorios
+- Maletín en el que podrás guardar todos los accesorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
