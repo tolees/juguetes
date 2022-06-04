@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SET DE COCHE PATRULLA con 9 bloques, 1 figura de Chase articulada y piezas especiales, como los conos de tráfico, que se apilan en el coche al terminar de jugar. Regalo para niños a partir de 3 años.
-- DISEÑO DURADERO. Los bloques que componen el coche de policía de Chase son perfectos para constructores en ciernes. Podrán jugar días y días con ellos.
-- DESIGNED TO BE DURABLE. The blocks that form Chases patrol vehicle are perfect for your junior builders and are made to last for many play days to come
-- ¡CHASE AL RESCATE! Los niños pueden ayudar a Chase a construir su coche patrulla con los 9 minibloques de construcción. El conjunto incluye una figura de Chase articulada para ir dentro del coche.
 - REGALO EMOCIONANTE PARA NIÑOS A PARTIR DE 3 AÑOS. Es ideal para los fans de Mega Bloks y la serie "La patrulla canina", con cientos de historias creativas. Los colores y la decoración pueden variar.
+- ¡CHASE AL RESCATE! Los niños pueden ayudar a Chase a construir su coche patrulla con los 9 minibloques de construcción. El conjunto incluye una figura de Chase articulada para ir dentro del coche.
+- SET DE COCHE PATRULLA con 9 bloques, 1 figura de Chase articulada y piezas especiales, como los conos de tráfico, que se apilan en el coche al terminar de jugar. Regalo para niños a partir de 3 años.
+- DESIGNED TO BE DURABLE. The blocks that form Chases patrol vehicle are perfect for your junior builders and are made to last for many play days to come
+- DISEÑO DURADERO. Los bloques que componen el coche de policía de Chase son perfectos para constructores en ciernes. Podrán jugar días y días con ellos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

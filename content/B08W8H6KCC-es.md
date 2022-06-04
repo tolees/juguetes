@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76902 Speed Champions McLaren Elva  Coche Deportivo de Juguete para Construir con Mini Figura de Piloto de Carreras'
-date: 2022-05-22 07:15:19
+date: 2022-06-04 13:05:54
 image: 'https://m.media-amazon.com/images/I/51H81XNYs0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los juguetes de coches de carreras LEGO Speed Champions permiten a los niños coleccionar, construir y explorar versiones en miniatura de los automóviles más innovadores del mundo
-- Incluye una mini figura de piloto de carreras LEGO, completada con su mono de carreras, su casco de carreras y una llave inglesa
-- Cuenta con un modelo LEGO fielmente detallado del coche de carreras de juguete McLaren Elva, el veloz deportivo aerodinámico
-- El coche de carreras LEGO tiene un nombre McLaren Elva en su parte trasera, 2 escapes, luces originales y viene con protectores de llantas
-- Este modelo coleccionable de coche deportivo LEGO viene con un chasis más ancho de 8 studs que deja espacio para una cabina de 2 asientos con espacio para 2 mini figuras
+- Features a beautifully detailed LEGO model of the ultra-exclusive McLaren Elva racing car, the super-aerodynamic speedy sports car
+- The LEGO race car sports a McLaren Elva name on its rear, 2 exhausts, original lights and comes with wheel rims protectors
+- This LEGO sports car collectible model comes with a wider 8-stud chassis which allows room for a 2-seat cockpit with space for 2 minifigures
+- Includes a McLaren LEGO race car driver minifigure, completed with his race suit, racing helmet and wrench
+- LEGO Speed Champions racing car toys let kids age 7+ collect, build and explore mini versions of the world’s most innovative automobiles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
