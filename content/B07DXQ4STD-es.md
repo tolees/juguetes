@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Classification PEGI : ages_7_and_over
 - Rayman Legends Playstation Hits Occasion PS4
 - Plate-forme : PlayStation 4
-- Classification PEGI : ages_7_and_over
 
 [🛒 Comprar!!!]({{< param buyurl >}})

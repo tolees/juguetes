@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura máxima usuario recomendable: 1,65m
-- Pantalla LCD: Velocidad, tiempo, distancia y calorías
-- Equipada con un disco de inercia de 5 kg
-- Adecuado para hacer ejercicio moderado en casa o recuperarse de una lesión
 - Ultra compacta y fácil de transportar; no se pliega
+- Equipada con un disco de inercia de 5 kg
+- Altura máxima usuario recomendable: 1,65m
 - Dispone de 8 niveles de resistencia para ajustar el nivel de dificultad del ejercicio
+- Adecuado para hacer ejercicio moderado en casa o recuperarse de una lesión
+- Pantalla LCD: Velocidad, tiempo, distancia y calorías
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
