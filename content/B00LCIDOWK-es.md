@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Usa tu creatividad e imaginación para resolver los enigmas a partir de la asociación de iconos.
-- Recomendado a partir de 10 años de Edad
-- Atractivo y divertido para toda la familia.
 - Las reglas son tan sencillas que todo el mundo estará jugando en apenas unos minutos.
+- Atractivo y divertido para toda la familia.
 - Duración de Partida 40 Minutos
+- Recomendado a partir de 10 años de Edad
+- Usa tu creatividad e imaginación para resolver los enigmas a partir de la asociación de iconos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

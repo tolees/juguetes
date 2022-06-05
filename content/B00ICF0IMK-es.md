@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pegasus Spiele  Juego de Cartas de 2 a 5 Jugadores'
-date: 2022-05-31 07:05:01
+date: 2022-06-05 11:40:56
 image: 'https://m.media-amazon.com/images/I/51N7g92E0ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pegasus'
 buyurl: 'https://www.amazon.es/dp/B00ICF0IMK/?tag=tolees-21'
 descuento: '26.80'
-average: '13.4415384615384'
+average: '13.4742857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
