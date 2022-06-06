@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Camiseta rosa y falda blanca, calcetines altos a juego con la camiseta y unas zapatillas de deporte que combinan con la falda
 - Raqueta y la pelota de tenis
-- Pelo recogido en una coleta con una banda blanca para la cabeza
 - A partir de 3 años de edad
 - Va a la última moda
+- Pelo recogido en una coleta con una banda blanca para la cabeza
 
 [🛒 Visítala!!!]({{< param buyurl >}})

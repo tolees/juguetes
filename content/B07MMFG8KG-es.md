@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Optimo para tu bicicleta
 - Producto de buena calidad
 - Nombre de la marca raceone
+- Optimo para tu bicicleta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

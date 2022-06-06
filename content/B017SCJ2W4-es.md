@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones puzzle: 49x36 cm
-- para 7 años o más!
-- toda la calidad ravensburger en un fantástico puzzle para niños!
-- Entra en el magico mundo de los unicornios
 - Un puzzle de 150 piezas de los unicornios!
+- para 7 años o más!
+- Entra en el magico mundo de los unicornios
+- Dimensiones puzzle: 49x36 cm
+- toda la calidad ravensburger en un fantástico puzzle para niños!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

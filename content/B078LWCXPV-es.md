@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Equipada con un disco de inercia de 5 kg
+- Dispone de 8 niveles de resistencia para ajustar el nivel de dificultad del ejercicio
 - Compacta y fácil de transportar; no se pliega
 - Pantalla LCD: Velocidad, tiempo, distancia y calorías
-- Dispone de 8 niveles de resistencia para ajustar el nivel de dificultad del ejercicio
-- Equipada con un disco de inercia de 5 kg
 - Adecuado para hacer ejercicio moderado en casa o recuperarse de una lesión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
