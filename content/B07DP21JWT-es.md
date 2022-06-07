@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger - GraviTrax Starter Set XXL  Exclusiva Amazon  Juego STEM innovador y educativo  Edad 8+  Construye tu propia pista de canicas - Dimensiones: 34 x 34 x 18 cm'
-date: 2022-06-06 09:19:00
+date: 2022-06-07 11:01:41
 image: 'https://m.media-amazon.com/images/I/51w03KlqX5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GraviTrax'
 buyurl: 'https://www.amazon.es/dp/B07DP21JWT/?tag=tolees-21'
 descuento: '45.00'
-average: '91.4580000000001'
+average: '90.5512500000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
