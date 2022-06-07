@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Los aficionados más veteranos apreciarán la conservación del legado de MOTU combinado con elementos de diseño modernizados! Se venden por separado.
-- Las figuras son muy articuladas, con al menos 30 puntos de articulación.
 - La colección Masterverse de figuras de acción de 17,78 cm​incluye a Moss Man, Teela, Beast Man y muchos más personajes favoritos para exponer y divertirse.
 - Esta ola de figuras de acción de Masters of the Universe Masterverse celebra el lanzamiento de la emocionante serie animada de Netflix, Masters del Universo: Revelación.
 - ¡Cada figura incluye al menos un accesorio, como un arma o una cabeza intercambiable!
+- Las figuras son muy articuladas, con al menos 30 puntos de articulación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
