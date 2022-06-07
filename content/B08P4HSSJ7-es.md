@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Hasbro Lanzador motorizado Amp  Clip  6  Compatible Solo con Dardos Ultra  Multicolor  F0954U50 '
-date: 2022-06-01 13:16:07
+date: 2022-06-07 08:08:54
 image: 'https://m.media-amazon.com/images/I/41h4AnbLEzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B08P4HSSJ7/?tag=tolees-21'
 descuento: '46.93'
-average: '25.8095000000002'
+average: '25.8185714285716'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
