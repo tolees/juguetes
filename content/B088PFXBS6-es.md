@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crea tus joyas en solo tres pasos; haz tu mezcla, ponlo sobre el molde que quieras crear y estará lista para usar en 15 minutos
 - El Glitter Set de Jelli Rez permite a las niñas crear sus propias joyas.
-- Las niñas podrán crear sus propias joyas con gelatina de diferentes colores; podrán crear más de 20 diseños diferentes, collares, pulseras, etc.
+- Crea tus joyas en solo tres pasos; haz tu mezcla, ponlo sobre el molde que quieras crear y estará lista para usar en 15 minutos
 - 15 minutos para tener su accesorio creado y diseñado por ellas mismas
+- Las niñas podrán crear sus propias joyas con gelatina de diferentes colores; podrán crear más de 20 diseños diferentes, collares, pulseras, etc.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

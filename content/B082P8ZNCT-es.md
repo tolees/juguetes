@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cámara y vídeo especialmente diseñado para niños de 3 a 10 años. Carcasa antigolpes. Pantalla grande a color de 1,8 pulgadas
 - Calidad de las fotos: resolución de 2 MP, zoom x 4, memoria interna para 760 fotos o 9 minutos de vídeo. Ranura micro SD para aumentar la memoria
-- Incluye 4 juegos supergrandes + 35 trucos de fotos y vídeo. Detección de caras: la cámara para niños puede detectar una cara y tomar una foto automáticamente cuando se reconoce
-- Grabación y distorsión de voz: 5 efectos superdivertidos para hablar como un robot, con una voz superaguda o supergrave
 - Funciona con 4 pilas LR06/AA no incluidas - Correa incluida - Se conecta al ordenador. KidiZoom Smile también está disponible en versión rosa.
 - Versión francesa
-- Cámara y vídeo especialmente diseñado para niños de 3 a 10 años. Carcasa antigolpes. Pantalla grande a color de 1,8 pulgadas
+- Incluye 4 juegos supergrandes + 35 trucos de fotos y vídeo. Detección de caras: la cámara para niños puede detectar una cara y tomar una foto automáticamente cuando se reconoce
+- Grabación y distorsión de voz: 5 efectos superdivertidos para hablar como un robot, con una voz superaguda o supergrave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
