@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye pilas
+- Con luces y sonido
 - Edad recomendada: a partir de 3 años
 - Juguete para niños
-- Con luces y sonido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
