@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con la ayuda del anciano de la aldea y sus habitantes, deberás pulir tus habilidades para la caza y salvar a este pacífico pueblecito de la devastación de los monstruos
 - El avistamiento de un terrible monstruo legendario señala el regreso de una catástrofe que amenaza con sumir a la aldea Kamura en el caos.
+- Con la ayuda del anciano de la aldea y sus habitantes, deberás pulir tus habilidades para la caza y salvar a este pacífico pueblecito de la devastación de los monstruos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
