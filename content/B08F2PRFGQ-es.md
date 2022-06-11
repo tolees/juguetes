@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura: 15 cm
 - Edad recomendada: a partir de 4 años
-- Moff Gideon: figura de acción inspirada en versión Star Wars Black Series
 - Con dos accesorios para recrear las batallas
+- Moff Gideon: figura de acción inspirada en versión Star Wars Black Series
+- Altura: 15 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
