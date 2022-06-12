@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Devir - Exit: La estación polar  Ed. Español  BGEXIT6 '
-date: 2022-06-12 12:35:34
-image: 'https://m.media-amazon.com/images/I/51Gd+NZu8bL._SL500_._SL400_.jpg'
+title: 'Devir - Exit: La isla olvidada  Ed. Español  BGEXIT5    color/modelo surtido'
+date: 2022-06-12 12:33:45
+image: 'https://m.media-amazon.com/images/I/51A0jM6rN+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CPYL7MR-es Devir - Exit: La estación polar Ed. Español BGEXIT6'
-sku: 'B07CPYL7MR-es'
+slug: 'B07CNQRVHN-es Devir - Exit: La isla olvidada Ed. Español BGEXIT5...'
+sku: 'B07CNQRVHN-es'
 tags: [ 'Juego de mesa','Juegos de misterio','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','devir','🇪🇸', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95
 comparePrice: 15.0 EUR
-prodname: 'Devir - Exit: La estación polar  Ed. Español  BGEXIT6 '
+prodname: 'Devir - Exit: La isla olvidada  Ed. Español  BGEXIT5    color/modelo surtido'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Devir'
-buyurl: 'https://www.amazon.es/dp/B07CPYL7MR/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B07CNQRVHN/?tag=tolees-21'
 descuento: '33.67'
-average: '10.5294117647058'
+average: '11.608'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de los 12 años
+- Edad: a partir de 12 años
+- Dificultad: avanzado
+- Entre 45 y 90 minutos de partida
 - De 1 a 4 jugadores
-- Idioma principal: español
-- Dificultad: medio
-- Duración: 45-90 minutos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
