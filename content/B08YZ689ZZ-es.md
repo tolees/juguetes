@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hay muchísimas para coleccionar
 - Producto de alta calidad
+- Hay muchísimas para coleccionar
 - Edición de muñecas procedentes de diferentes partes del mundo vestidas con sus trajes típicos
 - Muñeca con traje típico de Mongolia
 
