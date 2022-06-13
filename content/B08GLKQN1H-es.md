@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El conjunto de la familia de elefantes enchantimals viene lleno de diversión
-- Incluye la muñeca esmeralda elephant (15,2.cm), 3 figuras de elefante y 1 accesorio de chupete
 - Tanto ella como sus 3 amigos elefantes tienen detalles con encanto que incentivarán el juego imaginativo
+- Incluye la muñeca esmeralda elephant (15,2.cm), 3 figuras de elefante y 1 accesorio de chupete
+- El conjunto de la familia de elefantes enchantimals viene lleno de diversión
 - Esmeralda elephant viene vestida con una falda extraíble y zapatos, para una diversión de moda
 - Usa el chupete para "calmar" a los elefantes bebé
 
