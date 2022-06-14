@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75324 Star Wars Ataque de los Soldados Oscuros  Juego de construcción The Mandalorian con Mini Figura de Luke Skywalker con Espada láser'
-date: 2022-06-10 22:50:44
+date: 2022-06-14 08:27:12
 image: 'https://m.media-amazon.com/images/I/51RGzrM85lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNV1HRL/?tag=tolees-21'
 descuento: '20.01'
-average: '26.4033333333333'
+average: '26.162'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

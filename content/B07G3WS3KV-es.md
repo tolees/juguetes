@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Revive uno de los hechos más históricos de la humanidad con esta increíble maqueta para construir para adultos del módulo de aterrizaje lunar Eagle
+- Este LEGO para adultos inspirado en la NASA cuenta con una superficie lunar, un cráter, huellas, bandera de EE.UU y 2 mini figuras LEGO de astronautas con cascos decorados
 - Viaja en el tiempo con sus auténticos detalles de descenso con plataformas, paneles de aterrizaje dorados, cámara que se abre, escotillas láser y escaleras móviles
 - Diseñada para adultos , esta maqueta del Apollo 11 está llena de nostalgia, ¡dale el toque final con la placa de identificación incluida ‘’Apollo 11 Lunar Lander’’
-- Revive uno de los hechos más históricos de la humanidad con esta increíble maqueta para construir para adultos del módulo de aterrizaje lunar Eagle
 - Un set de construcción perfecto para regalar a adultos y adolescentes fanáticos de los viajes espaciales, la NASA y las aventuras
-- Este LEGO para adultos inspirado en la NASA cuenta con una superficie lunar, un cráter, huellas, bandera de EE.UU y 2 mini figuras LEGO de astronautas con cascos decorados
 - Un relajante proyecto de construcción que es perfecto para exponerlo como decoración de casa o en la oficina, ¡captará todas las miradas!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
