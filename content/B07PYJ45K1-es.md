@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 113693
 - BANDAI NAMCO
+- 113693
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
