@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - A Sus Marcas es un divertido juego de familia donde deberás ser el más rápido y experto en marcas, con 72 marcas de todo tipo reconocidas por niños y adultos, desde marcas de comida, marcas de coche, parques de animales, etc. ¡Aprende a identificar logos y serás un experto en marcas Este juego no solo permite disfrutar de momentos con familia y amigos, sino que además desarrolla la agudeza visual y la agilidad mental, de 2 a 5 jugadores, a partir de 7 años, contenido: 72 logos, 4 mangos con ventosas, 60 cartas de desafío a doble cara, 1 libreta de "Lista Secreta" e instrucciones
+- Cada logo vale 1 punto ¡y 5 si forman parte de tu Lista Secreta Suma el mayor número de puntos ¡y serás el ganador de a Sus Marcas
 - Una marca con una estrella, marcas de 4 letras, bebidas. ¡Observa con atención para coger los logos correctos Estate atento y sé el más rápido, pero, no te equivoques, porque si fallas tendrás que devolver uno de tus logos
 - ¡Encuentra tu logo y atrápalo Escribe en tu lista secreta 3 de tus marcas favoritas, saca una carta de reto, comprueba los logos ¡y utiliza tu ventosa para atrapar los correctos!
-- Cada logo vale 1 punto ¡y 5 si forman parte de tu Lista Secreta Suma el mayor número de puntos ¡y serás el ganador de a Sus Marcas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
