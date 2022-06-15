@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Su pañal tiene purpurina y además incluye un biberón, unas gafas para el sol y un sombrero para el verano
 - Es el regalo para niñas y niños mayores de 3 años
-- Es un muñeco bebé de 12 cm, no necesita pilas
 - Si no está protegida del sol, su cabecita se llenará de rayitos
 - Mini-no sunsurprise s la hermana pequeña de noni-no
+- Es un muñeco bebé de 12 cm, no necesita pilas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
