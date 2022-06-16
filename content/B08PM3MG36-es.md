@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger - Portalàpices Super Mario'
-date: 2022-06-09 22:27:10
+date: 2022-06-16 12:58:18
 image: 'https://m.media-amazon.com/images/I/51ZVZeDMVMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B08PM3MG36/?tag=tolees-21'
 descuento: '22.18'
-average: '9.87666666666669'
+average: '9.81900000000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Revive las aventuras de Super Mario con un un óptimo portalápiz
-- Ravensburger puzzle 3d
 - Tamaño articulo 7. 7x7. 7x10 cm
 - Contiene 54 piezas numeradas e instrucciones
+- Ravensburger puzzle 3d
 - Las piezas se ensamblan sin adhesivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
