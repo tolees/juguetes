@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment Raid & Trade - Cora la especialista  Juego de Mesa EDGRAT02'
-date: 2022-06-17 16:50:22
+date: 2022-06-18 20:16:49
 image: 'https://m.media-amazon.com/images/I/51+KCNug0OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En su día fue una experta en demoliciones en el ejército, trabajó con mercenarios por todo el país hasta que se quedó fuera de la Ciudad Dorada
 - 1 tablero de personaje, 12 cartas de Objeto, 1 dado de Combate, 2 fichas de Detonantes, 1 miniatura de Cora
+- En su día fue una experta en demoliciones en el ejército, trabajó con mercenarios por todo el país hasta que se quedó fuera de la Ciudad Dorada
 - Producto en castellano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
