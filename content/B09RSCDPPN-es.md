@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Star Wars - The Black Series F5514 Casco electrónico premium de Darth Vader - Obi-Wan Kenobi - Artículo para juego de rol - A partir de 14 años'
-date: 2022-06-16 19:40:55
+date: 2022-06-18 21:19:46
 image: 'https://m.media-amazon.com/images/I/41FMrZGrIML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
