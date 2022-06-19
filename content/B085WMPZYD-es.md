@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El primer juego legacy de categoría familiar, apto para todos los públicos
 - Elementos compensadores entre partidas para que todos los jugadores tengan posibilidades hasta el final
-- Numero de jugadores 2-4
 - Una campaña rápida, jugable en diez sesiones
 - Tiempo de juego 30-45 minutos
+- Numero de jugadores 2-4
+- El primer juego legacy de categoría familiar, apto para todos los públicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
