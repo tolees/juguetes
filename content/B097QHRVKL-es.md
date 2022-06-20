@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - Agricola - Juego de Mesa en Español'
-date: 2022-06-19 10:44:03
+date: 2022-06-20 19:04:15
 image: 'https://m.media-amazon.com/images/I/51oupjG3qwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B097QHRVKL/?tag=tolees-21'
 descuento: '15.18'
-average: '49.02'
+average: '48.8014285714286'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de 12 años de edad
-- La edición revisada de un juego de estrategia de fama mundial
-- Al final de la partida, el jugador más próspero será el ganador
 - De 1 a 4 Jugadores
 - Los animales que no te hayas comido contribuirán a tu fortuna
+- La edición revisada de un juego de estrategia de fama mundial
+- Al final de la partida, el jugador más próspero será el ganador
+- A partir de 12 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
