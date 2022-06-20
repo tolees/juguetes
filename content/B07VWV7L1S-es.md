@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene 2 asas de sujeción resistentes soldadas a la lona para subir fácilmente
-- Flamenco de grandes dimensiones, medidas: 203 x 196 x 124 cm, soporta hasta 200 Kg
 - Cuenta con 2 cámaras de aire para mayor seguridad, fabricado en PVC resistente
+- Flamenco de grandes dimensiones, medidas: 203 x 196 x 124 cm, soporta hasta 200 Kg
 - Recomendado para que 2 personas se puedan sentar o tumbar, usar en playa y piscina
 - Incluye 1 parche de reparación para pequeños pinchazos, recomendado para mayores de 14 años
 
