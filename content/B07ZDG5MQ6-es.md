@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- Marvel Champions: El Juego de Cartas  Color  MC01ES '
-date: 2022-06-14 20:40:13
+date: 2022-06-21 02:00:19
 image: 'https://m.media-amazon.com/images/I/51PpIvzRvDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B07ZDG5MQ6/?tag=tolees-21'
 descuento: '29.99'
-average: '47.0216666666666'
+average: '46.8859459459459'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Además, al ser un Living Card Game, se publicarán con regularidad nuevos personajes, desafíos y aventuras que pondrán a prueba vuestra madera de héroes
 - Con el contenido de esta caja básica, hasta cuatro jugadores podréis combinar vuestros esfuerzos para frustrar los perversos planes de tres villanos diferentes. Usad vuestros extraordinarios poderes para combatir a las fuerzas del mal y vivir la experiencia del universo marvel como nunca antes
 - Marvel champions: el juego de cartas es un living card game cooperativo que os invita a encarnar a los superhéroes más emblemáticos del mundo
-- Además, al ser un Living Card Game, se publicarán con regularidad nuevos personajes, desafíos y aventuras que pondrán a prueba vuestra madera de héroes
-- Recomendado a partir de 14 años
 - Contenido: 1 cuaderno aprende a jugar, 1 guía de referencia, 199 cartas de jugador, 137 cartas de encuentro, 7 cartas de referencia, 30 cartas de estado, 62 fichas de daño, 33 fichas de amenaza, 5 fichas de aceleración, 1 ficha de jugador inicial, 4 medidores de vida de jugador, 1 medidor de vida de villano y 16 contadores genéricos
+- Recomendado a partir de 14 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
