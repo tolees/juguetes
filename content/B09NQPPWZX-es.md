@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre lugares nuevos
 - Domina tus poderes
 - Historias espectaluznantes
+- Descubre lugares nuevos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
