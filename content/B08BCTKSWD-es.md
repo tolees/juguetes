@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Érase una vez… Nuestra tierra   Juego de mesa familiar educativo con más de 300 preguntas y respuestas sobre nuestro planeta y el entorno   A partir de 6 años  18858 '
-date: 2022-06-19 16:22:53
+date: 2022-06-21 22:13:54
 image: 'https://m.media-amazon.com/images/I/416bvVcfr2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Educa'
 buyurl: 'https://www.amazon.es/dp/B08BCTKSWD/?tag=tolees-21'
 descuento: '18.71'
-average: '10.02'
+average: '10.015'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 - Responde las preguntas del Maestro sobre nuestro entorno para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
+- De 2 a 4 jugadores; a partir de 6 años
+- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 - Más de 300 preguntas de 3 niveles diferentes
 - Un mini juego de mesa con más de 300 preguntas sobre nuestro planeta y el entorno, basado en la famosa serie Érase una vez; nuestra Tierra
-- De 2 a 4 jugadores; a partir de 6 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
