@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de recogida
 - Para 2 a 6 jugadores
 - 10 hasta 99 años.
+- Juego de recogida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
