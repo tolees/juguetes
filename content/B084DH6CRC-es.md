@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alemán y español
-- Juguete
-- Ravensburger Spieleverlag
 - GraviTrax Vertical
+- Ravensburger Spieleverlag
+- Juguete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
