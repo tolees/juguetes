@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sólo se puede jugar con los módulos RC incluidos, Transmisor de mano para controlar luces (alcance 10 m), velocidad y dirección, Techo desmontable y mucho más.
+- Juego de figuras para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Diversión al volante: PLAYMOBIL Porsche Mission E, Incluye 2 módulos RC, Columna de carga, iluminación delantera y posterior y un conductor
 - Contenido: 1x PLAYMOBIL Porsche Mission E, Set de 22 piezas con instrucciones: 1 coche, 2 módulos RC, 1 transmisor de mano, 1 figura y piezas pequeñas asociadas (excl. 4x pilas micro AAA de 1,5 V para el vehículo / excl. 3x pilas micro AAA de 1,5 V para el transmisor), Material: Plástico, LxDxH Vehículo: 27,5x11x7,5 cm, peso: 609 g, 70765
 - Para jugar a diario: Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 5 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

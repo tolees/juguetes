@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combina este set con otros de la gama LEGO Marvel, hay muchos más mecas y superhéroes que los niños pueden coleccionar para crear originales batallas
-- Este juguete de construcción de Marvel incluye las figuras de Spider-Man y el Duende Verde, así cómo sus mecas articulados con brazos extralargos y armas integradas
-- Este emblemático set de figuras de acción de Marvel es el regalo de juguete ideal para niños de 7 años amantes de Spider-Man y los Superhéroes, ¡tu peque disfrutará como nunca!
 - Con este set LEGO los peques pueden introducir las figuras en los mecas y vivir épicas batallas con Spider-Man y el Duende Verde, ¡más grandes y preparados que nunca!
 - Cuando los peques terminen de jugar y explorar con este set de Marvel, podrán exponer a los mecas y sus figuras en la habitación, ¡la diversión no tiene límites!
+- Este juguete de construcción de Marvel incluye las figuras de Spider-Man y el Duende Verde, así cómo sus mecas articulados con brazos extralargos y armas integradas
+- Combina este set con otros de la gama LEGO Marvel, hay muchos más mecas y superhéroes que los niños pueden coleccionar para crear originales batallas
+- Este emblemático set de figuras de acción de Marvel es el regalo de juguete ideal para niños de 7 años amantes de Spider-Man y los Superhéroes, ¡tu peque disfrutará como nunca!
 - Los peques pueden colocar las figuras de acción LEGO Marvel en las cabinas de los mecas y disfrutar durante horas de monstruosas y divertidas batallas
 - Con este juguete de construcción de Spider-Man los niños podrán jugar imaginativos juegos de rol y ayudar a su superhéroe de Marvel favorito
 
