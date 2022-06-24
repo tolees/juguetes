@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora el mundo de las tierras intermedias
 - Multijugador
 - Un nuevo mundo de fantasía
 - Un sistema de juego que definirá el género
+- Explora el mundo de las tierras intermedias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
