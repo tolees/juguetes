@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dragon Ball Fighterz Ciab Super Edition - Switch'
-date: 2022-06-23 06:36:27
+date: 2022-06-25 10:53:56
 image: 'https://m.media-amazon.com/images/I/51e+Ym2befL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte 3vs3 Tag
 - Excelentes Gráficos Anime
 - Funciones exclusivas para Switch
+- Soporte 3vs3 Tag
 - Luchas espectaculares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
