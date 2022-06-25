@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelentes Gráficos Anime
 - Funciones exclusivas para Switch
+- Excelentes Gráficos Anime
 - Soporte 3vs3 Tag
 - Luchas espectaculares
 
