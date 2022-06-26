@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de 8 años. Para 2 jugadores
-- Revive la mítica serie de "El Coche Fantástico" con este divertido juego de cartas
 - Contiene 80 cartas, 2 dados, fichas e instrucciones del juego en español y en 13 idiomas más
+- Revive la mítica serie de "El Coche Fantástico" con este divertido juego de cartas
 - Duración aproximada de cada partida: 25 minutos
 - Juego de Cartas Shuffle gama RETRO, modelo "EL COCHE FANTÁSTICO"
+- A partir de 8 años. Para 2 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
