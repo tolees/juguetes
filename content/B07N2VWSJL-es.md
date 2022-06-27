@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bandai  BANDQ  - Bandai Haco Room  Multicolor   color/modelo surtido'
-date: 2022-06-26 10:26:31
+date: 2022-06-27 15:51:09
 image: 'https://m.media-amazon.com/images/I/51lQdVcLMeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bandai (BANDQ)'
 buyurl: 'https://www.amazon.es/dp/B07N2VWSJL/?tag=tolees-21'
 descuento: '52.02'
-average: '12.4216666666667'
+average: '12.36'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
