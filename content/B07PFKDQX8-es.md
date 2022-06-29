@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tranjis Games - POC! - Juego de mesa  TRG-014poc '
-date: 2022-06-28 09:52:12
+date: 2022-06-29 14:30:44
 image: 'https://m.media-amazon.com/images/I/31Mt1GacdCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TRANJIS GAMES'
 buyurl: 'https://www.amazon.es/dp/B07PFKDQX8/?tag=tolees-21'
 descuento: '34.11'
-average: '10.2042105263158'
+average: '10.1865'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Juego de habilidad
-- De 2 a 4 jugadores
 - Edad recomendada a partir de 6 años
+- De 2 a 4 jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
