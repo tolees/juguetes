@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- UNA CREACIÓN DE NETHERREALM: Desarrolladores de la franquicia MORTAL KOMBAT(tm), todo un éxito de ventas y crítica, NetherRealm Studios ofrece una historia sin igual, contenidos elaborados y mecánicas de lucha absolutamente sobresalientes al universo DC
 - LO MEJOR DE DC: Elige tu personaje de entre todos los que forman el mayor elenco del universo DC que se haya visto jamás en un juego de lucha; desde clásicos favoritos de siempre hasta impresionantes nuevos villanos; Lucha en escenarios tan representativos como Gotham City y Atlántida en batallas a escala épicas, donde todo lo que te rodea se puede usar y destruir
 - SURGE UNA NUEVA AMENAZA: Continúa la épica historia cinemática en movimiento de INJUSTICE(tm): GODS AMONG US cuando Batman y sus aliados luchan por recomponer las piezas de una sociedad hecha trizas, mientras hacen frente a aquellos que intentan restaurar el régimen de Superman; En mitad de todo este caos, surge una nueva amenaza que obliga a viejos enemigos a establecer nuevas alianzas...
-- UNA CREACIÓN DE NETHERREALM: Desarrolladores de la franquicia MORTAL KOMBAT(tm), todo un éxito de ventas y crítica, NetherRealm Studios ofrece una historia sin igual, contenidos elaborados y mecánicas de lucha absolutamente sobresalientes al universo DC
 - CADA COMBATE TE DEFINE: En cada partida ganarás equipo con el que podrás personalizar y aumentar el nivel de tu superhéroe o supervillano de DC favorito; Esto repercutirá notablemente en el aspecto y estilo de lucha de tu personaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
