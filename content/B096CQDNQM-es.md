@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Dimensiones: 33.8 x 33.8 x 5.5 cm; con instrucciones en ‎Francés, Inglés, Español, Alemán, Italiano
 - Adecuado para personas mayores de 8 años
-- Número de piezas: 47; material: Plástico, metal
 - Juego GRAVITRAX EXTENSIÓN TWIRL; experimenta el poder de la gravedad
+- Número de piezas: 47; material: Plástico, metal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
