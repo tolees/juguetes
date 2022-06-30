@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
-- Licencia oficial de Nintendo
-- Botones traseros programables
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - La precisión y comodidad del Pro Controller, en modo portátil
+- Botones traseros programables
+- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
+- Licencia oficial de Nintendo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
