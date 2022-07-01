@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esta casa de muñecas 3 en 1 esta llena de accesorios y puede convertirse en una torre de 4 plantas o una casa residencial, con cocina, sala de estar, baño y dormitorio
+- Incluye mini 5 figuras LEGO DUPLO: mamá, papá, un niño, un perro y un osito, todos ellos diseñados para inspirar vínculos emocionales en niñas y niños de 2+ años
 - Incluye: una nevera que se abre, un baño con inodoro, un dormitorio con cama, ventanas, puertas y armarios abatibles y mantas ¡es un regalo ideal para niños y niñas de 2 años!
 - Entre los accesorios se incluyen una guitarra, un caballo de juguete, una casita de juegos, una tarta, tetera y sartén, pegatinas e incluso ladrillos para almacenar las toallas
-- Incluye mini 5 figuras LEGO DUPLO: mamá, papá, un niño, un perro y un osito, todos ellos diseñados para inspirar vínculos emocionales en niñas y niños de 2+ años
 - Esta casa de muñecas con animales LEGO DUPLO para niños y niñas es perfecta para enseñar las rutinas cotidianas como irse a dormir o las horas de la comida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los juegos de construcción LEGO NINJAGO son un regalo de cumpleaños o en cualquier ocasión ideal para niños de 8 años en adelante amantes de los juegos ninja y la acción
-- Los peques podrán construir el avión con ladrillos LEGO y disparar rápidamente 8 misiles a los enemigos desde el frente giratorio, ¡es hora de rescatar a un ninja de la prisión!
-- Este juego de construcción incluye 4 mini figuras LEGO NINJAGO: Lloyd, Kai Legacy, Cole y el temido Eyezor, ¡perfectas para recrear épicas batallas e imaginativos juegos de rol!
-- La mini figura LEGO de Kai Legacy es una edición limitada de color dorado coleccionable que incluye un pequeño soporte para celebrar el 10 aniversario de los juguetes LEGO NINJAGO
-- Abre la cabina del avión de juguete e introduce a Kai Legacy, ¡es hora de experimentar horas y horas de diversión mientras recreas épicas escenas de la serie!
-- Da vida a las aventuras de la temporada 4 de la serie LEGO NINJAGO con este juego de acción que incluye un súper avión de juguete con cabina que se abre y una prisión ninja
 - Encuentra más mini figuras LEGO doradas de edición limitada en otros sets NINJAGO: Torneo de elementos (71735), Deportivo Ninja X-1 (71737) y Combate en el Titán Robot de Zane (71738)
+- Abre la cabina del avión de juguete e introduce a Kai Legacy, ¡es hora de experimentar horas y horas de diversión mientras recreas épicas escenas de la serie!
+- Los juegos de construcción LEGO NINJAGO son un regalo de cumpleaños o en cualquier ocasión ideal para niños de 8 años en adelante amantes de los juegos ninja y la acción
+- Este juego de construcción incluye 4 mini figuras LEGO NINJAGO: Lloyd, Kai Legacy, Cole y el temido Eyezor, ¡perfectas para recrear épicas batallas e imaginativos juegos de rol!
+- Da vida a las aventuras de la temporada 4 de la serie LEGO NINJAGO con este juego de acción que incluye un súper avión de juguete con cabina que se abre y una prisión ninja
+- La mini figura LEGO de Kai Legacy es una edición limitada de color dorado coleccionable que incluye un pequeño soporte para celebrar el 10 aniversario de los juguetes LEGO NINJAGO
+- Los peques podrán construir el avión con ladrillos LEGO y disparar rápidamente 8 misiles a los enemigos desde el frente giratorio, ¡es hora de rescatar a un ninja de la prisión!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
