@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ludonova - Cupcake Empire  juego de mesa  LDNV220001 '
-date: 2022-06-24 17:53:37
+date: 2022-07-02 09:41:26
 image: 'https://m.media-amazon.com/images/I/51y-tVhEDAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Alta calidad
 - Diseno funcional
-- Brand: Ludonova
 - Producto de calidad
+- Brand: Ludonova
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
