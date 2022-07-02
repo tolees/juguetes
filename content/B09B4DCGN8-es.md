@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Después de completar la compra, recibirás un enlace en la página de confirmación del pedido con instrucciones detalladas para canjear tu código en la Playstation Store. Este enlace estará también disponible en tu Biblioteca de juegos
-- Con la Tarjeta Prepago PSN de 20€, recargarás tu monedero virtual con esa cantidad para comprar juegos o contenido descargable en la PlayStation Store.
 - Retroalimentación háptica: Siente la respuesta táctil capaz de transmitir las acciones del juego con dos activadores que sustituyen a los motores de vibración tradicionales. Cuando lo tienes en las manos, estas vibraciones dinámicas son capaces de simular todo tipo de sensaciones, como los elementos del entorno o el retroceso de diferentes armas.
 - Gatillos adaptables: Experimenta distintos niveles de fuerza y tensión al interactuar con tu entorno y tu equipo mientras juegas. Ya tenses un arco o pises el freno de un coche de carreras, te sentirás conectado físicamente a las acciones que se desarrollan en pantalla.
+- Con la Tarjeta Prepago PSN de 20€, recargarás tu monedero virtual con esa cantidad para comprar juegos o contenido descargable en la PlayStation Store.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
