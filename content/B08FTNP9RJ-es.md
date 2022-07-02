@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Juega en línea y compite contra jugadores de todo el mundo en los modos y clasificación multijugador
+- Presume de estilo y creatividad con las mejoras en las funciones Crear skater y Crear parque
 - Juega a los modos de juego originales y enfréntate a otros skaters en los modos locales de 2 jugadores
 - Patina como el legendario Tony Hawk y toda la plantilla de profesionales al completo; patina con la banda sonora que marcó toda una era
-- Presume de estilo y creatividad con las mejoras en las funciones Crear skater y Crear parque
-- Juega en línea y compite contra jugadores de todo el mundo en los modos y clasificación multijugador
 - Contenido exclusivo: 4 postales exclusivas con información de los skaters, 3 pegatinas de vinilo exclusivas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

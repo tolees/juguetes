@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No hacen falta ni instrucciones ni preparativos. La base sencillamente ofrece un sinfín de posibilidades de juego imaginativo desde el momento que se saca de la caja.
-- Esta base de 32x32 espigas ofrece a los constructores LEGO una sólida superficie blanca para que construyan con creatividad, un paisaje inspirador para practicar el juego imaginativo y una plataforma resistente para exponer su maqueta.
-- No necesitas pilas para alimentar la base y conectar a los peques a la construcción creativa. ¡Basta con que se la des a un fan de LEGO y la diversión empezará a fluir de inmediato!
-- Regala esta versátil base a cualquier constructor LEGO, ¡y observa cómo toma forma la construcción creativa! Un fantástico regalo de cumpleaños o Navidad para niños y niñas a partir de 4 años, desde primerizos hasta constructores veteranos.
-- Esta base LEGO blanca mide aproximadamente 25 cm de lado. Lo suficientemente grande como para realizar proyectos de construcción e impresionantes composiciones expositivas (¿alguien tiene ya la alineación de minifiguras?).
 - Sólida, duradera y maravillosamente blanca, esta matriz cuadrada de aproximadamente 25 cm de lado cuenta con 1024 espigas perfectamente alineadas para proporcionar a los constructores LEGO una sujeción perfecta.
+- Regala esta versátil base a cualquier constructor LEGO, ¡y observa cómo toma forma la construcción creativa! Un fantástico regalo de cumpleaños o Navidad para niños y niñas a partir de 4 años, desde primerizos hasta constructores veteranos.
 - ¡La Base Blanca lleva a los peques a un mundo de posibilidades donde cualquier cosa puede suceder! Fabricada para sujetar los ladrillos en cualquier ángulo (¡incluso del revés!) y para separarlos con facilidad.
+- Esta base LEGO blanca mide aproximadamente 25 cm de lado. Lo suficientemente grande como para realizar proyectos de construcción e impresionantes composiciones expositivas (¿alguien tiene ya la alineación de minifiguras?).
+- Esta base de 32x32 espigas ofrece a los constructores LEGO una sólida superficie blanca para que construyan con creatividad, un paisaje inspirador para practicar el juego imaginativo y una plataforma resistente para exponer su maqueta.
+- No hacen falta ni instrucciones ni preparativos. La base sencillamente ofrece un sinfín de posibilidades de juego imaginativo desde el momento que se saca de la caja.
+- No necesitas pilas para alimentar la base y conectar a los peques a la construcción creativa. ¡Basta con que se la des a un fan de LEGO y la diversión empezará a fluir de inmediato!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
