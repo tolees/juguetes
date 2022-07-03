@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con Playstation 4, Playstation 5
-- Diseño transpirable y ligero para largas sesiones de juego.
 - Compatible con Waves Sound Sony para que puedas disfrutar del sonido espacial jugando en Playsation
 - El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
 - Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
+- Compatible con Playstation 4, Playstation 5
+- Diseño transpirable y ligero para largas sesiones de juego.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
