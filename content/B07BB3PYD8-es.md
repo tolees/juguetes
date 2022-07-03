@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseñados para los juegos de consola
 - Compatibles con PS5, PS4, PS4 Pro y PC
-- Audio de juego envolvente
 - Optimizados para el confort y la comodidad
+- Audio de juego envolvente
+- Diseñados para los juegos de consola
 
 [🛒 Aquí!!!]({{< param buyurl >}})
