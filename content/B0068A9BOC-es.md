@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los productos que se aplican son retirados fácilmente con agua y jabón
-- Cosmética de alta calidad y testada dermatológicamente
-- Con este completo centro de maquillaje los niños y las niñas podrán jugar a ser auténticos maquilladores, poner a prueba su imaginación y probar todos los maquillajes y peinados que se les ocurran
 - Contenido: 1 busto con la muñeca de la Srta; Pepis; 1 bandeja con 5 sombras de ojos, 4 brillos de labios, 3 coloretes, 1 esponja para desmaquillar; 1 cepillo, 4 gomas de pelo, 2 pintalabios, 1 aplicador de sombras, 1 pincel
+- Los productos que se aplican son retirados fácilmente con agua y jabón
+- Con este completo centro de maquillaje los niños y las niñas podrán jugar a ser auténticos maquilladores, poner a prueba su imaginación y probar todos los maquillajes y peinados que se les ocurran
+- Cosmética de alta calidad y testada dermatológicamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
