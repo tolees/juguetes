@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Centro de maquillaje de la Srta  Pepis  Busto de belleza a partir de 5 años'
-date: 2022-06-28 11:58:13
+date: 2022-07-03 23:37:51
 image: 'https://m.media-amazon.com/images/I/41RpXPyk4rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0068A9BOC-es Diset - Centro de maquillaje de la Srta Pepis Busto de...'
 sku: 'B0068A9BOC-es'
 tags: [ 'diset','🇪🇸', ]
-actualPrice: 23.35 EUR
+actualPrice: 23.13 EUR
 currency: EUR
-price: 23.35
+price: 23.13
 comparePrice: 44.95 EUR
 prodname: 'Diset - Centro de maquillaje de la Srta  Pepis  Busto de belleza a partir de 5 años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B0068A9BOC/?tag=tolees-21'
-descuento: '48.05'
-average: '28.1733333333333'
+descuento: '48.54'
+average: '26.9125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
