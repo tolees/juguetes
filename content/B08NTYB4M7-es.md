@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Control del micrófono integrado, Compatibilidad con PC, PS4 y Nintendo Switch
 - Micrófono extraíble con cancelación de ruido e indicador de silenciamiento LED
 - Función inalámbrica óptima para juegos con una batería duradera
 - Los controladores de 53 mm ofrecen un audio envolvente, Sonido envolvente 7.1 de HyperX**
-- Control del micrófono integrado, Compatibilidad con PC, PS4 y Nintendo Switch
 - Comodidad de HyperX, Carcasa de aluminio resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
