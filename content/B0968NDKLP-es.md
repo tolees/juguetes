@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - DIAFRAGMAS OPTIMIZADOS DE 40 MM Para un sonido potente y claro con unos graves inmersivos: la claridad de sonido superior y los graves profundos y potentes simulan un amplio paisaje sonoro al jugar, desde pasos sutiles hasta potentes explosiones, el audio del juego simula la vida real con todo detalle
-- MICRÓFONO CARDIOIDE FLEXIBLE Para una comunicación cristalina con el equipo: El patrón de captación cardioide graba sonido desde un ángulo más preciso, así garantiza que puedan oírte claramente cuando hables y rechaza ruido de los laterales y la parte posterior del micrófono
 - Tipo de conectividad: Alámbrico
-- LIGEROS No sentirás que los llevas puestos: Diseñados para ser superligeros, con un peso de solo 250 g, te permitirán disfrutar de un audio de calidad superior mientras juegas durante horas sin sentir el peso de tus auriculares
+- MICRÓFONO CARDIOIDE FLEXIBLE Para una comunicación cristalina con el equipo: El patrón de captación cardioide graba sonido desde un ángulo más preciso, así garantiza que puedan oírte claramente cuando hables y rechaza ruido de los laterales y la parte posterior del micrófono
 - ALMOHADILLAS OVALADAS Para una comodidad total: El diseño ovalado de piel sintética crea una sensación ajustada, cómoda y suave
+- LIGEROS No sentirás que los llevas puestos: Diseñados para ser superligeros, con un peso de solo 250 g, te permitirán disfrutar de un audio de calidad superior mientras juegas durante horas sin sentir el peso de tus auriculares
 
 [🛒 Aquí!!!]({{< param buyurl >}})
