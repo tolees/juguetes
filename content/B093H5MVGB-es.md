@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado para embellecer los momentos del juego
 - Tminis, Figura Tminis 10cm WillyRex
-- Edad recomendada: 24 meses+
-- Producto de calidad óptima
+- Diseñado para embellecer los momentos del juego
 - Multicolor
+- Producto de calidad óptima
+- Edad recomendada: 24 meses+
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
