@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Machi Koro Legacy  BGMKLSP '
-date: 2022-07-05 10:42:23
+date: 2022-07-06 11:15:31
 image: 'https://m.media-amazon.com/images/I/51JCWZnhD8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B085WMPZYD/?tag=tolees-21'
 descuento: '30.11'
-average: '35.5253333333333'
+average: '35.3938709677419'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El primer juego legacy de categoría familiar, apto para todos los públicos
-- Elementos compensadores entre partidas para que todos los jugadores tengan posibilidades hasta el final
+- Numero de jugadores 2-4
 - Una campaña rápida, jugable en diez sesiones
 - Tiempo de juego 30-45 minutos
-- Numero de jugadores 2-4
+- Elementos compensadores entre partidas para que todos los jugadores tengan posibilidades hasta el final
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

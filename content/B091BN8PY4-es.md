@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño premium con revestimiento de cuero en la parte exterior del volante
-- Hasta 25 botones de acción, incluidos 2 codificadores de doble posición
 - Juego de pedales magnéticos (tecnología H.E.A.R.T patentada) para una increíble precisión con resolución de 12 bits en PC y precisión con resolución de 10 bits en PS5/PS4 que no disminuirá con el tiempo
-- Levas magnéticas de cambio de marchas (tecnología H.E.A.R.T patentada) para una respuesta instantánea y una sensación de cambio de marchas súper nítida
-- Con licencia oficial para PlayStation; compatible con PS5, PS4 y PC
 - Forma de volante versátil, adecuada para todos los estilos de juegos de conducción
+- Hasta 25 botones de acción, incluidos 2 codificadores de doble posición
+- Con licencia oficial para PlayStation; compatible con PS5, PS4 y PC
+- Levas magnéticas de cambio de marchas (tecnología H.E.A.R.T patentada) para una respuesta instantánea y una sensación de cambio de marchas súper nítida
+- Diseño premium con revestimiento de cuero en la parte exterior del volante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
