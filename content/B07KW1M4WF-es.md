@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inicia o amplia el universo de Super Mario con esta figura articulada de 6 CM y este playset con el de otros disponibles (se venden por separado)
 - disfruta con las puertas secretas, Boos y Rey Boo giratorios para hacer aparecer y desaparecer a Mario.
-- Transporta a Mario a varias puertas de la mansión. Juega con la figura de Mario y los 2 elementos con mecanismos accionables. Intercambia la puerta donde se encuentra Boo oculto y modifica tu escenario de juego.
 - Incluye figura de Mario de 6 cm articulada, escenario Mansión Boo y varias piezas intercambiables para jugar
+- Transporta a Mario a varias puertas de la mansión. Juega con la figura de Mario y los 2 elementos con mecanismos accionables. Intercambia la puerta donde se encuentra Boo oculto y modifica tu escenario de juego.
+- Inicia o amplia el universo de Super Mario con esta figura articulada de 6 CM y este playset con el de otros disponibles (se venden por separado)
 - Playset Mansión Boo te permite volver a jugar este nivel clásico de los videojuegos de Super Mario. Puedes recrear la acción del videojuego usando la figura de Mario de 6 cm viajando y aparenciendo en varias partes de la mansión.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
