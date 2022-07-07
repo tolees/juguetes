@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Disgaea 6: Defiance of Destiny - Unrelenting Edition'
-date: 2022-07-05 21:17:43
+date: 2022-07-07 08:35:37
 image: 'https://m.media-amazon.com/images/I/51pGiIeyQPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08K9HW83M/?tag=tolees-21'
 descuento: '16.91'
-average: '51.8385'
+average: '50.7509523809524'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
