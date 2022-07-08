@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'USAopoly- DC Comics Super Heroes Puzzle Joker  Multicolor  PZ010-536 '
-date: 2022-07-06 13:10:24
+date: 2022-07-08 05:32:25
 image: 'https://m.media-amazon.com/images/I/51S7P78r5-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DC Comics
 - Puzzle
+- DC Comics
 - Licencia Oficial
 - Caja ilustrada
 - Joker
