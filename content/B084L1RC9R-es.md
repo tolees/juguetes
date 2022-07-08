@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puzzle
-- DC Comics
+- Joker
 - Licencia Oficial
 - Caja ilustrada
-- Joker
+- DC Comics
 
 [🛒 Comprar!!!]({{< param buyurl >}})
