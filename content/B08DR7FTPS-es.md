@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de guardar y perfecto para llevarlo a cualquier parte.
-- Adecuado para adultos y niños a partir de 12 años.
-- ¡Un juego divertido para compartir con tus mejores amigos!
-- Responde correctamente a las preguntas fascinantes, desconcertantes y entretenidas que pondrán a prueba tu conocimiento y memoria.
-- Demuestra que eres el fan número 1 de Harry Potter respondiendo todas las preguntas sobre la película y sus personajes.
 - Este juego tiene un total de 600 preguntas que te entretendrán y ayudarán a conocer más sobre tus personajes preferidos; no incluye tablero.
+- Adecuado para adultos y niños a partir de 12 años.
+- Demuestra que eres el fan número 1 de Harry Potter respondiendo todas las preguntas sobre la película y sus personajes.
+- ¡Un juego divertido para compartir con tus mejores amigos!
+- Fácil de guardar y perfecto para llevarlo a cualquier parte.
+- Responde correctamente a las preguntas fascinantes, desconcertantes y entretenidas que pondrán a prueba tu conocimiento y memoria.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

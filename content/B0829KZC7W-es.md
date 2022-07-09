@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juegos de construcción
 - Plástico
-- Marca PLAYMOBIL
 - Color carbón
+- Marca PLAYMOBIL
+- Juegos de construcción
 
 [🛒 Visítala!!!]({{< param buyurl >}})

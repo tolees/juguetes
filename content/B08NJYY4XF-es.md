@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DESCUBRE TODOS LOS BATTLE SPINNERS - Hay 4 Battle Spinners para coleccionar, 4 modelos en 2 colores cada uno: Frozen Flash, Jungle Raider, Volcano Vider y Electric Storm.
-- JUGUETES INMERSIVOS – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
-- Contiene: 1 spinner y 1 superthing exclusivo
 - ACCIÓN ASEGURADA – Propulsa los Battle Spinners hacia el suelo y deja que giren y giren sin parar. Cronometra cuánto tiempo pueden estar en pie y compite con otros Battle Spinner para ver quién dura más o quién sale disparado por los aires.
+- DESCUBRE TODOS LOS BATTLE SPINNERS - Hay 4 Battle Spinners para coleccionar, 4 modelos en 2 colores cada uno: Frozen Flash, Jungle Raider, Volcano Vider y Electric Storm.
+- Contiene: 1 spinner y 1 superthing exclusivo
+- JUGUETES INMERSIVOS – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
