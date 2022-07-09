@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de piezas: 1000. Medida aproximada una vez montado: 48 x 68 cm.
-- WORLD FROM THE AIR, los rincones más bonitos de la tierra vistos desde el aire.
-- Alta calidad de materiales y encaje óptimo de las piezas. Producto respetuoso con el medioambiente.
 - Recomendado a partir de 14 años.
+- Número de piezas: 1000. Medida aproximada una vez montado: 48 x 68 cm.
+- Alta calidad de materiales y encaje óptimo de las piezas. Producto respetuoso con el medioambiente.
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje.
+- WORLD FROM THE AIR, los rincones más bonitos de la tierra vistos desde el aire.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

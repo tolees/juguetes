@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye personajes populares como el emblemático protagonista Steve y las figuras de Minecraft de un cerdito, un pollito y un Creeper explosivo rojo
 - Esta explosiva aventura de Minecraft en el bioma de las llanuras es un gran regalo de cumpleaños para niños y niñas a partir de 7 años
-- La batalla con el temible zombi culmina cuando los niños pulsan el bloque especial de detonación, que hará saltar por los aires al Creeper explosivo
 - Cuando la batalla haya terminado y la escena esté completamente decorada con flores, este juguete de construcción de LEGO Minecraft queda genial expuesto
+- Incluye personajes populares como el emblemático protagonista Steve y las figuras de Minecraft de un cerdito, un pollito y un Creeper explosivo rojo
+- La batalla con el temible zombi culmina cuando los niños pulsan el bloque especial de detonación, que hará saltar por los aires al Creeper explosivo
 - El set La Emboscada del Creeper de LEGO Minecraft tiene escenarios para minar oro, luchar contra los zombis y cuidar a los animales para que los niños se entretengan todo el día
-- Los peques podrán crear lo que quieran con el hierro en la mesa de trabajo, cuidar de los animales o encargarse de su cultivo de caña de azúcar
 - Los sets de LEGO Minecraft ofrecen a los jugadores nuevas formas de disfrutar de su juego favorito, con personajes, escenas y características que cobran vida ladrillo a ladrillo
+- Los peques podrán crear lo que quieran con el hierro en la mesa de trabajo, cuidar de los animales o encargarse de su cultivo de caña de azúcar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

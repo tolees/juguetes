@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las maquetas para construir de LEGO Technic son una divertida introducción a la ingeniería, y un fabuloso e inspirador regalo para niños, niñas y adolescentes
 - El coche de carreras de juguete está inspirado en el mítico monstruo marino caribeño, el Iusca, ¡combina lo mejor de un tiburón y un calamar para crear un temible vehículo!
-- Los peques podrán realizar arriesgados saltos utilizando el mecanismo retráctil para enviar su camión por los terrenos más difíciles, ¡como un monster truckde verdad!
 - Este juguete de LEGO Technic cuenta con los dientes del tiburón, además de aletas que se mueven cuando el coche acelera, todo ello inspirado en el legendario monstruo marino
 - Los niños y niñas de 7 años en adelante vivirán miles de aventuras con este camión Monster Jam Megalodon 2en1 de LEGO Technic que se transforma en un divertido coche de juguete «Iusca» Low Racer
+- Las maquetas para construir de LEGO Technic son una divertida introducción a la ingeniería, y un fabuloso e inspirador regalo para niños, niñas y adolescentes
+- Los peques podrán realizar arriesgados saltos utilizando el mecanismo retráctil para enviar su camión por los terrenos más difíciles, ¡como un monster truckde verdad!
 - Tras realizar alucinantes acrobacias con el camión de juguete, podrán transformar la maqueta en un coche con mecanismo retráctil para seguir con la emocionante sesión de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})

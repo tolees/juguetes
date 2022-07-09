@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con un libro que se abre con un castillo de juguete con 2 partes para construir, un pequeño carruaje, adhesivos para colocar donde quieras y 4 micropersonajes de princesas Disney
-- Cuenta con 4 queridos micro muñecas de Disney: Cenicienta, Tiana, Bella y Ariel, y figuras LEGO de Gus, Lumière, un delfín y una rana.
-- Este juguete de construcción de princesas Disney, una gran idea de regalo, es lo bastante grande como para lanzarse a nuevas aventuras y llevarlo donde desees
 - El libro para construir de princesas Disney promueve un juego creativo que ayuda a desarrollar importantes habilidades, junto a un montón de ideas para contar historias
 - ¡Digital Instructions PLUS! La app LEGO gratuita cuenta con modos intuitivos como acercar, girar y modo oculto, ¡lo que convierte a este set en una creación para la era digital!
 - Únete a Ariel en su carruaje junto al puerto, ve a dar una vuelta con Cenicienta y Gus el ratón junto al agua o pasa un rato agradable en la biblioteca con Bella y Lumière
+- Este juguete de construcción de princesas Disney, una gran idea de regalo, es lo bastante grande como para lanzarse a nuevas aventuras y llevarlo donde desees
+- Cuenta con 4 queridos micro muñecas de Disney: Cenicienta, Tiana, Bella y Ariel, y figuras LEGO de Gus, Lumière, un delfín y una rana.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
