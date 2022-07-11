@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- De 2 a 4 jugadores
 - Juego de habilidad
 - Edad recomendada a partir de 6 años
-- De 2 a 4 jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

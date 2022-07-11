@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Componentes profesionales del renombrado fabricante SANWA
-- Arcade stick con licencia oficial para PS4 y PS3
-- Amplia superficie de juego: la zona de control queda en el lateral derecho para facilitar el acceso y dejar la zona de juego solo con los botones de acción
 - Conector para auriculares minijack 3.5 mm
+- Amplia superficie de juego: la zona de control queda en el lateral derecho para facilitar el acceso y dejar la zona de juego solo con los botones de acción
+- Arcade stick con licencia oficial para PS4 y PS3
+- Componentes profesionales del renombrado fabricante SANWA
 - Parte superior personalizable: se incluyen dos diseños y destornillador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
