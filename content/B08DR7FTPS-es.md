@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Top Trumps - Trivial Pursuit Harry Potter - Juego de viaje - 600 preguntas - Versión en español - N°2'
-date: 2022-07-09 16:53:07
+date: 2022-07-12 14:32:45
 image: 'https://m.media-amazon.com/images/I/51GGwpb9+BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Top Trumps'
 buyurl: 'https://www.amazon.es/dp/B08DR7FTPS/?tag=tolees-21'
 descuento: '19.45'
-average: '16.3461538461538'
+average: '16.3367164179104'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
