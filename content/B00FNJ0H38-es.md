@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carga tus mandos mientras sigues jugando
-- Incluye una base para que tengas los mandos colocados en su sitio
 - Conexión USB totalmente compatible con los mandos de PS4
 - Disponible en 4 colores
+- Carga tus mandos mientras sigues jugando
+- Incluye una base para que tengas los mandos colocados en su sitio
 - Despreocupate tener siempre de la carga de la batería
 
 [🛒 Aquí!!!]({{< param buyurl >}})
