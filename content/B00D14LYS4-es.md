@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 ajustes de nivel de agua posibles. Boquilla latón 3/8 pulgadas.
 - Grifo flotador por alimentación lateral con palanca.
+- 2 ajustes de nivel de agua posibles. Boquilla latón 3/8 pulgadas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
