@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LEGO Set promocional Friends
 - Pequeño artículo coleccionable, no necesariamente adecuado como regalo para niños
 - Flor de jardín y mariposa
 - Contiene 57 piezas
+- LEGO Set promocional Friends
 
 [🛒 Comprar!!!]({{< param buyurl >}})
