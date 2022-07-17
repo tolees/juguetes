@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Nintendo - Splatoon 3'
-date: 2022-07-17 11:38:21
-image: 'https://m.media-amazon.com/images/I/51D8cwykI6L._SL500_._SL400_.jpg'
+title: 'Nintendo - Bayonetta 3'
+date: 2022-07-17 09:36:10
+image: 'https://m.media-amazon.com/images/I/41emyLtk-vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09GWPF482-es Nintendo - Splatoon 3'
-sku: 'B09GWPF482-es'
+slug: 'B09GWQ3V2D-es Nintendo - Bayonetta 3'
+sku: 'B09GWQ3V2D-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 46.9 EUR
+actualPrice: 59.9 EUR
 currency: EUR
-price: 46.9
-comparePrice: 59.9 EUR
-prodname: 'Nintendo - Splatoon 3'
+price: 59.9
+comparePrice: 71.99 EUR
+prodname: 'Nintendo - Bayonetta 3'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
-buyurl: 'https://www.amazon.es/dp/B09GWPF482/?tag=tolees-21'
-descuento: '21.70'
-average: '63.475111111111'
+buyurl: 'https://www.amazon.es/dp/B09GWQ3V2D/?tag=tolees-21'
+descuento: '16.79'
+average: '69.975'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carátula no definitiva.
 - Fecha de lanzamiento no oficial, sujeta a modificaciones.
+- Carátula no definitiva.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
