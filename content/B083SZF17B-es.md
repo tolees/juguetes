@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Además, en el juego hay un cofre del tesoro con cristales, un barril de aceite de lava con transporte, cascos, espadas, escudos y muchos otros extras
 - Incluye 4 personajes: Francis y Shiko de Novelmore y Flinton y Lucifex de Burnham Raiders.
 - El juego incluye 139 piezas.
-- En la chimenea, los cristales Burnham Raiders almacenan valiosos cristales y crean un líquido secreto. Pero Francis Forthwind y sus compañeros ya están en el camino para molestar a Lucifex y sus esposas en su propulsión.
 - Ideal para las manos de los niños gracias al tamaño adecuado para la edad y al tacto agradable con bordes redondeados.
 - Con cañón giratorio de los caballeros de Novelmore con dos disparos.
+- En la chimenea, los cristales Burnham Raiders almacenan valiosos cristales y crean un líquido secreto. Pero Francis Forthwind y sus compañeros ya están en el camino para molestar a Lucifex y sus esposas en su propulsión.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

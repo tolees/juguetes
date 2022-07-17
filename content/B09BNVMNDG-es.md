@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El parabrisas y el techo se pueden quitar para que la mini figura de Batman pueda sentarse en la cabina del Batmóvil: también hay espacio para un pasajero
-- Este set de superhéroes incluye 2 mini figuras LEGO: una mini figura de Batman con capa de tela y un supervillano, el Pingüino, con increíbles armas
-- Los misiles pueden lanzarse al mismo tiempo o de manera individual pulsando las placas del capó
 - Incluye un Batmóvil, el coche de Batman de juguete, que cuenta con 2 lanzamisiles en la parte frontal que lanzan megamisiles
 - La mini figura del Pingüino incluye un arma y lleva un lanzacohetes en la mano, que incorpora un lanzador que lanza objetos
+- Este set de superhéroes incluye 2 mini figuras LEGO: una mini figura de Batman con capa de tela y un supervillano, el Pingüino, con increíbles armas
+- Los misiles pueden lanzarse al mismo tiempo o de manera individual pulsando las placas del capó
 
 [🛒 Comprar!!!]({{< param buyurl >}})
