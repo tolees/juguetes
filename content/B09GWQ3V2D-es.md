@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Bayonetta 3'
-date: 2022-07-17 09:36:10
+date: 2022-07-18 14:40:38
 image: 'https://m.media-amazon.com/images/I/41emyLtk-vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09GWQ3V2D/?tag=tolees-21'
 descuento: '16.79'
-average: '69.975'
+average: '68.5357142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fecha de lanzamiento no oficial, sujeta a modificaciones.
 - Carátula no definitiva.
+- Fecha de lanzamiento no oficial, sujeta a modificaciones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
