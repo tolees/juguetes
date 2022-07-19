@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony PS5 Consola Standard Edition 825GB White Europa'
-date: 2022-07-04 17:30:17
+date: 2022-07-18 22:24:15
 image: 'https://m.media-amazon.com/images/I/31pJ9CdnZaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
