@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sólo el ganador podrá enfrentarse al reto de la fase final: La Bomba Oro
-- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
 - El juego oficial del concurso de televisión "Boom"
+- Versión española
+- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
 - En Boom, participan dos equipos enfrentándose ante las Bombas Negras y la Bomba Plata
 - Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
-- Versión española
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
