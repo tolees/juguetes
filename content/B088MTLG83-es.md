@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye un conjunto y unos accesorios de pelo para el día y otro conjunto de ropa con accesorios para un look más arreglado de noche; el pack incluye más de 20 accesorios y un accesorios deluxe con el que pueden teñir el pelo a la muñeca
 - Ya podemos quitarle la máscara al completo, quitando la cara mal maquillada también y ver lo guapa y bien maquillada que esta su muñeca
-- Las nuevas muñecas Failfix necesitan tu ayuda Han fracasado siguiendo en un tutorial de maquillaje y ahora necesitan ayuda
 - Mientras tanto podemos ir arreglándole el pelo, peinándola y haciéndole diferentes peinados con los accesorios
+- Incluye un conjunto y unos accesorios de pelo para el día y otro conjunto de ropa con accesorios para un look más arreglado de noche; el pack incluye más de 20 accesorios y un accesorios deluxe con el que pueden teñir el pelo a la muñeca
 - Primero hay que ponerle la máscara de SPA correctamente metiendo las orejas con cuidado en los agujeros de la máscara.
+- Las nuevas muñecas Failfix necesitan tu ayuda Han fracasado siguiendo en un tutorial de maquillaje y ahora necesitan ayuda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
