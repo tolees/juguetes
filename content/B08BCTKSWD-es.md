@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Responde las preguntas del Maestro sobre nuestro entorno para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
-- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 - Más de 300 preguntas de 3 niveles diferentes
 - De 2 a 4 jugadores; a partir de 6 años
 - Un mini juego de mesa con más de 300 preguntas sobre nuestro planeta y el entorno, basado en la famosa serie Érase una vez; nuestra Tierra
+- Responde las preguntas del Maestro sobre nuestro entorno para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
+- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
