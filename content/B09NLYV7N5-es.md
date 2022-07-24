@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YGJT Juguetes de Madera 1 Año  Juguetes Montessori 1 2 3 Años  Juegos Geométricos Educativos Niños Niñas para Apilar y Clasificar  Regalo de Cumpleaños Navidad Año Nuevo Pascua  Granja 1 '
-date: 2022-07-22 15:21:03
+date: 2022-07-23 20:49:01
 image: 'https://m.media-amazon.com/images/I/41S5YWkZc2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'YGJT'
 buyurl: 'https://www.amazon.es/dp/B09NLYV7N5/?tag=tolees-21'
 descuento: '41.20'
-average: '13.49'
+average: '12.3233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
