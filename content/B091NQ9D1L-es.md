@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Tennis World Tour 2 Complete Edition  PlayStation 5'
-date: 2022-07-22 11:34:34
+date: 2022-07-24 22:01:00
 image: 'https://m.media-amazon.com/images/I/5101tIYkJ8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B091NQ9D1L/?tag=tolees-21'
 descuento: '40.02'
-average: '32.7299999999999'
+average: '31.5473333333332'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nuevas características muy esperadas: la capacidad de jugar partidos de dobles con hasta 4 jugadores de forma local y en línea, un modo competitivo, un sistema de servicio mejorado y una nueva mecánica de sincronización de tiros; una versión para nueva generación: con mejoras técnicas y de gameplay
-- Múltiples estadios oficiales y torneos: tales como el estadio de Manolo Santana del Mutua Madrid Open, el OWL Arena en Halle o 3 pistas del Roland Garros: Philippe-Chatrier, Suzanne-Lenglen and Simonne-Mathieu; y torneos como la ATP Cup, Tie Break Tens, Roland-Garros
-- Múltiples modos de juego: Carrera, Partida rápida, En línea, Torneo, Partidas clasificatorias y el nuevo Tie Break Tens: hay un formato de juego para cada jugador
-- Mayor realismo: más animaciones para una mejor experiencia de juego; movimientos específicos: fiel reproducción in-game de los movimientos estrella de los tenistas y su estilo
 - 48 estrellas del tenis: los nombres más importantes estarán presentes este año, incluidos Rafael Nadal, Roger Federer y Ashleigh Barty
+- Múltiples estadios oficiales y torneos: tales como el estadio de Manolo Santana del Mutua Madrid Open, el OWL Arena en Halle o 3 pistas del Roland Garros: Philippe-Chatrier, Suzanne-Lenglen and Simonne-Mathieu; y torneos como la ATP Cup, Tie Break Tens, Roland-Garros
+- Mayor realismo: más animaciones para una mejor experiencia de juego; movimientos específicos: fiel reproducción in-game de los movimientos estrella de los tenistas y su estilo
+- Múltiples modos de juego: Carrera, Partida rápida, En línea, Torneo, Partidas clasificatorias y el nuevo Tie Break Tens: hay un formato de juego para cada jugador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
