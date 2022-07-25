@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Por qué tiene este producto embalaje reducido: Hemos trabajado mucho para reducir el tamaño y los materiales innecesarios en nuestro embalaje nuevo y duradero, minimizando los desechos y las emisiones
-- Asiento cómodo de profundidad y respaldo reclinable con vibraciones relajantes que ayudan a descansar al bebé
-- Patas desplegables para convertirla en hamaca fija
-- Acolchado lavable a máquina
-- ADVERTENCIA: nunca deje al niño en la tumbona desatendido, especial cuando comienza a moverse o levantarse; utilice siempre el sistema de retención; no reemplaza una cuna o una cama
 - Una hamaca que el niño podrá usar hasta que llegue a los 18 kg
+- ADVERTENCIA: nunca deje al niño en la tumbona desatendido, especial cuando comienza a moverse o levantarse; utilice siempre el sistema de retención; no reemplaza una cuna o una cama
+- Patas desplegables para convertirla en hamaca fija
 - Barra de juguetes desmontable con sonajero de tucán y pelotita de león
+- Asiento cómodo de profundidad y respaldo reclinable con vibraciones relajantes que ayudan a descansar al bebé
+- Acolchado lavable a máquina
+- Por qué tiene este producto embalaje reducido: Hemos trabajado mucho para reducir el tamaño y los materiales innecesarios en nuestro embalaje nuevo y duradero, minimizando los desechos y las emisiones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
