@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Sigue las instrucciones para obtener el máximo resultado y ganar!
 - El objetivo es obtener la puntuación máxima de 100 puntos
-- Haz que aterrice de pie en el tapiz para ganar
 - Clava el aterrizaje perfecto
+- Haz que aterrice de pie en el tapiz para ganar
+- ¡Sigue las instrucciones para obtener el máximo resultado y ganar!
 - Puedes jugar solo, uno contra uno, u organizar un torneo con los amigos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
