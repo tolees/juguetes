@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - Mr. Jack Nueva York  juego de estrategia - Varios idiomas  incluye español  MRJ03ML '
-date: 2022-07-26 13:18:45
+date: 2022-07-28 08:03:03
 image: 'https://m.media-amazon.com/images/I/516a3x-4i6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B0026Q2RWA/?tag=tolees-21'
 descuento: '39.15'
-average: '23.58'
+average: '22.2475'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego en español: la caja e instrucciones vienen en varios idiomas
 - Juego de deducción diseñado por Bruno Cathala y Ludovic Maublanc
-- El objetivo es averiguar por qué investigador se está haciendo pasar Jack, confrontarlo y arrestarlo
 - 8 nuevos personajes dotados de poderes asombrosos
+- Juego en español: la caja e instrucciones vienen en varios idiomas
+- El objetivo es averiguar por qué investigador se está haciendo pasar Jack, confrontarlo y arrestarlo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
