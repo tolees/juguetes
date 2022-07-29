@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a partir de 4 años
-- Maletín que contiene dinosaurios y explorador
-- Desarrolla la imaginación y la creatividad
 - Contiene 18 piezas
+- Desarrolla la imaginación y la creatividad
+- Maletín que contiene dinosaurios y explorador
+- Recomendado a partir de 4 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
