@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DISEÑADO Y FABRICADO EN ESPAÑA
-- Contiene 5 Fichas Grandes de Animales , 5 Fichas Medianas, 5 Fichas pequeñas y 3 bandejas clasificadoras.
-- El Proyecto Eco Logic:El propósito de la línea es educar desde edades tempranas en sostenibilidad y ecología a través de La manipulación y el descubrimiento.Todos Los juguetes de la línea se realizan con materiales 100% reciclados y reciclables.Los protagonistas de los juegos son animales amenazados o en peligro de extinción.
 - El objetivo del juego es asociar cada pieza con su ranura y bandeja.
+- Contiene 5 Fichas Grandes de Animales , 5 Fichas Medianas, 5 Fichas pequeñas y 3 bandejas clasificadoras.
+- DISEÑADO Y FABRICADO EN ESPAÑA
+- El Proyecto Eco Logic:El propósito de la línea es educar desde edades tempranas en sostenibilidad y ecología a través de La manipulación y el descubrimiento.Todos Los juguetes de la línea se realizan con materiales 100% reciclados y reciclables.Los protagonistas de los juegos son animales amenazados o en peligro de extinción.
 - A partir de 2 AñosAprende a diferenciar cada tamaño y acierta el tamaño correcto. Manipulando las piezas aprenderás a asociar las mismas con conceptos como grande, mediano y pequeño.
 - Contenidos de Aprendizaje:ECO: Ecología y Cuidado del Medio AmbienteLOGIC:Aprendizajes significativos para el desarrollo lógico-matemático infantilTodos Los juegos son bilingües (Español-lnglés) y fomentan la imaginación y el pensamiento creativo.
 
