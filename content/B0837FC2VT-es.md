@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La figura de bebé barriguitas mide unos 15cm
 - Set de bebé barriguitas pelón vestido con la ropa más mona junto con 2 prendas adicionales, rebequita y pantaloncitos de color rosa
+- La figura de bebé barriguitas mide unos 15cm
 - Llegan los bebés barriguitas con la misma bonita estética que los originales de antes
 - Además, incluye una mascota conejito de punto también rosa
 
