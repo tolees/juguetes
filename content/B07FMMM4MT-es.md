@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporta hasta 90 kilos, indicado para una persona
-- Cuenta con asas de alta resistencia para subirse y agarrarse
-- Tiene un diseño moderno que encantará a los invitados de tus fiestas de verano
 - Flotador con estilo para este verano
+- Tiene un diseño moderno que encantará a los invitados de tus fiestas de verano
+- Cuenta con asas de alta resistencia para subirse y agarrarse
 - Está fabricado con vinilo resistente probado
+- Soporta hasta 90 kilos, indicado para una persona
 
 [🛒 Comprar!!!]({{< param buyurl >}})

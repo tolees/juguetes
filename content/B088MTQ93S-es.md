@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Beastree House es la increíble casa árbol de los Beasties; un lugar seguro donde los Beasties guardan todo lo que le quitan a los traviesos Bellies
-- Los Beasties son los mejores amigos de los Bellies, les encanta quitarles las cosas a los Bellies y son aún más traviesos
+- Tiene una cesta para subir las cosas que le quitan a los Bellies, una hamaca para descansar y un biberón grande para beber agua
 - Incluye la Beastree House y accesorios
 - Recomendado a partir de 3 años
-- Tiene una cesta para subir las cosas que le quitan a los Bellies, una hamaca para descansar y un biberón grande para beber agua
+- Los Beasties son los mejores amigos de los Bellies, les encanta quitarles las cosas a los Bellies y son aún más traviesos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
