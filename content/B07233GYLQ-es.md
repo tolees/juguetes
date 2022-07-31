@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Edad recomendada: a partir de 4 años
 - Aumenta la imaginación y la creatividad
 - Rey’s Speeder, Jakku de Black Series 7 de Star Wars
-- Edad recomendada: a partir de 4 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
