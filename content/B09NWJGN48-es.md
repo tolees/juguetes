@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 💖 SENCILLO/DOBLE: Puedes escoger tu Poppy Favorito o llevarte el pack de dos para jugar y compartir con tus amigos y familia.
-- 💖 POPPY PLAYTIME: Peluche inspirado en el videojuego “Poppy Playtime” de aventuras, puzles y terror donde has de escapar de una fábrica de juguetes habitada por unos juguetes con sed de venganza.
-- 💖 MEDIDAS: Las medidas del muñeco de peluche Poppy son 40 x 15 x 5cm. Ten en cuenta que la medición puede tener un pequeño margen de error.
 - 💖 MATERIAL: Hecho con algodón y tela de colores vibrantes y llamativos para todos. La felpa es suave al tacto y segura para niños.
+- 💖 MEDIDAS: Las medidas del muñeco de peluche Poppy son 40 x 15 x 5cm. Ten en cuenta que la medición puede tener un pequeño margen de error.
+- 💖 SENCILLO/DOBLE: Puedes escoger tu Poppy Favorito o llevarte el pack de dos para jugar y compartir con tus amigos y familia.
 - 💖 REGALO: Este juguete de peluche aterrador y divertido te sorprenderá en cualquier momento y en cualquier lugar. Es un regalo perfecto para los fanáticos, pero también un regalo de vacaciones, fiesta y juego de rol para ti.
+- 💖 POPPY PLAYTIME: Peluche inspirado en el videojuego “Poppy Playtime” de aventuras, puzles y terror donde has de escapar de una fábrica de juguetes habitada por unos juguetes con sed de venganza.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
