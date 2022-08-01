@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Freno v-brake
-- Llanta de 14" en aluminio
-- Medida apropiada para niños entre los 3 y 5 años
 - Horquilla delantera de acero
+- Medida apropiada para niños entre los 3 y 5 años
+- Freno v-brake
 - Piñon de monovelocidad
+- Llanta de 14" en aluminio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
