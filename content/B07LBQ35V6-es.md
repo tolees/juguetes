@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Shuliancable Cable HDMI  Compatible con Ethernet Retorno de Audio  Compatible con Fire TV  3D  vídeo 1080p y ARC  Playstation PS3 PC  1M  Black '
-date: 2022-08-05 07:55:29
+date: 2022-08-07 17:50:25
 image: 'https://m.media-amazon.com/images/I/41P6MZFz0CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SHULIANCABLE'
 buyurl: 'https://www.amazon.es/dp/B07LBQ35V6/?tag=tolees-21'
 descuento: '21.11'
-average: '3.43545454545455'
+average: '3.39833333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
