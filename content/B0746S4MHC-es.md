@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Mando Compacto  Color Cristal Verde  PS4 '
-date: 2022-08-06 21:25:17
+date: 2022-08-08 10:01:40
 image: 'https://m.media-amazon.com/images/I/41+gLq40fdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B0746S4MHC/?tag=tolees-21'
 descuento: '15.00'
-average: '34.544'
+average: '34.4516666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Panel táctil totalmente funcional
+- 2 motores de vibración
 - Conector para auriculares de 3.5 mm
 - Indicador LED de jugador
-- 2 motores de vibración
 - La carcasa transparente y la retroiluminación mediante LED permiten que el mando brille en la oscuridad
+- Panel táctil totalmente funcional
 
 [🛒 Comprar!!!]({{< param buyurl >}})
