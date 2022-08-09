@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La serie 5 de Treasure X ya está aquí
 - Rompe la botella para sacar el kraken y poder liberar al cazador de tesoros que se encuentra dentro
 - Y después de todo lucha con la bestia; hay 18 cazadores diferentes para coleccionar
 - Estrújalo bien para liberar al cazador y busca entre la baba de slime para encontrar el tesoro dorado
-- La serie 5 de Treasure X ya está aquí
 
 [🛒 Comprar!!!]({{< param buyurl >}})
