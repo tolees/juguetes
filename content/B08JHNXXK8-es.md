@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Balan Wonderworld PS5 Game'
-date: 2022-08-08 11:33:14
+date: 2022-08-09 12:09:07
 image: 'https://m.media-amazon.com/images/I/51Y1oY5f2IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B08JHNXXK8/?tag=tolees-21'
 descuento: '22.73'
-average: '16.945'
+average: '15.93'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
