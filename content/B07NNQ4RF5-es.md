@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Codificador de hardware H.264: con codificación de hardware, este dispositivo se carga sin poner ninguna carga en su CPU
-- Funcionalidad plug-and-play: ofrece comodidad; simplemente conéctelo a su PC y estará listo para grabar y transmitir
 - Grabación de video Full HD 1080P: transmita y grabe todo su contenido en Full HD a 60 FPS
+- Funcionalidad plug-and-play: ofrece comodidad; simplemente conéctelo a su PC y estará listo para grabar y transmitir
 - Vídeo de transferencia sin latencia: disfrute de la reproducción de vídeo sin comprimir directamente en el monitor de la PC sin latencia
 - Admite el software de transmisión RECentral: es un potente paquete de software de transmisión y grabación con óptimas funciones, como multisecuencia, superposiciones enriquecidas, clave de croma y más
 

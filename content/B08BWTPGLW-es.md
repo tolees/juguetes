@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego consta de 3 aventuras con distintos niveles de dificultad: Mono mágico, Picadura de serpiente y Portal lunar
-- Contenido: 3 aventuras de 60 minutos cada una 16 llaves, decodificador de pistas y cronodecodificador
 - Juego que simula un Escape Room de verdad; el objetivo es conseguir resolver las 3 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas…
+- Contenido: 3 aventuras de 60 minutos cada una 16 llaves, decodificador de pistas y cronodecodificador
 - El producto necesita pilas, no vienen incluidas; El tipo de pilas que necesita son: 3xAA
 - Número de jugadores: juego grupal; Pueden jugar de 3 a 5 personas
+- El juego consta de 3 aventuras con distintos niveles de dificultad: Mono mágico, Picadura de serpiente y Portal lunar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
