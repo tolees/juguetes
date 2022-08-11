@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los divertidos accesorios incluyen botellas de ketchup y mostaza, un perrito caliente, cámara, kayak, chaleco salvavidas y elementos de remo, además de un sofá y una barbacoa
 - La casa de muñecas del bosque tiene un techo que se abre para facilitar el acceso, un área para dormir, un patio con muebles, ¡e incluso un baño para mini muñecas!
 - Descubre otros veraniegos sets de LEGO Friends: Bosque: Cascada (41677), Bosque: Autocaravana y Barco de Vela (41681) y Bosque: Centro de Equitación (41683)
-- Un gran juguete para niñas y niños de 6 años en adelante que amen el bosque, la naturaleza o las aventuras, ¡es una elección increíble para Navidad o cumpleaños!
 - Este divertido juguete de construcción contiene 2 escenas separadas para que los peques se diviertan durante horas: una casa del árbol LEGO Friends y un kayak
-- Los divertidos accesorios incluyen botellas de ketchup y mostaza, un perrito caliente, cámara, kayak, chaleco salvavidas y elementos de remo, además de un sofá y una barbacoa
+- Un gran juguete para niñas y niños de 6 años en adelante que amen el bosque, la naturaleza o las aventuras, ¡es una elección increíble para Navidad o cumpleaños!
 - Esta casa de juguete incluye 2 mini muñecas LEGO Friends: Mia y su mamá Ann, además de una micro muñeca LEGO Friends Ava y una figura de un mapache
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

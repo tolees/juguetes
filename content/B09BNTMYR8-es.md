@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Viene con 5 personajes de LEGO Friends, incluidas las mini muñecas de Mia y River con expresiones intercambiables, y la figura de un conejito
-- Los grandes amigos podrán lanzar mini muñecas por el tobogán, empujar a sus colegas en el columpio u observar la naturaleza a través del telescopio con este juguete creativo
-- Los peques podrán hacer subir y bajar el ascensor girando la turbina, mover la barandilla para que los amigos puedan subir o abrir el tejado para jugar en el interior
 - Este set para adultos amantes de la naturaleza y las flores artificiales es un regalo original para el Día de la Madre, cumpleaños o para Navidad
 - Este set de casa de árbol de LEGO Friends también viene con el ascensor para Jackson en su silla de ruedas
+- Los peques podrán hacer subir y bajar el ascensor girando la turbina, mover la barandilla para que los amigos puedan subir o abrir el tejado para jugar en el interior
+- Los grandes amigos podrán lanzar mini muñecas por el tobogán, empujar a sus colegas en el columpio u observar la naturaleza a través del telescopio con este juguete creativo
 - Este juguete LEGO Friends inspirado en la naturaleza, con una casa del árbol de 4 plantas, incluye despacho, cocina, dormitorio y sala de estar, y muchas zonas detalladas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
