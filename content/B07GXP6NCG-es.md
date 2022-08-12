@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Matagot - Cyclades  Juego de mesa de estrategia - de 2 a 5 jugadores  ed. en español'
-date: 2022-08-11 13:10:33
+date: 2022-08-12 16:12:02
 image: 'https://m.media-amazon.com/images/I/51o9kmHIV4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Matagot'
 buyurl: 'https://www.amazon.es/dp/B07GXP6NCG/?tag=tolees-21'
 descuento: '17.74'
-average: '49.0838461538462'
+average: '49.1028571428572'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrolla la creatividad y la imaginación
-- Juego de estrategia ambientado en la Antigua Grecia
 - Domina al resto de civilizaciones y expande el dominio de tu polis hasta el último confín del mediterráneo
+- Juego de estrategia ambientado en la Antigua Grecia
+- Desarrolla la creatividad y la imaginación
 - De 2 a 5 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
