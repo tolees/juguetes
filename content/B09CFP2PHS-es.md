@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels Camión Lanzador Dragón. Incluye un Coche  Multicolor  único  Mattel GTK42 '
-date: 2022-08-08 11:39:17
+date: 2022-08-12 18:19:22
 image: 'https://m.media-amazon.com/images/I/41xePZu80fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
