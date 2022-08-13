@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 3 a 4 jugadores.
-- Se conquistará inmediatamente con este juego de mecánica fluida y bien diseñada. Las normas son simples y ofrecen partes cortas. Este juego se vende a millones de ejemplares en todo el mundo, es el soporte de una nueva forma de jugar.
-- Un juego de mesa y estrategia que te lleva a una carrera para el desarrollo de su asentamiento en la isla de Catana.
 - Pongan a la conquista de una isla virgen pero llena de recursos. ¿Sabes construir sus ciudades y asentamientos más rápido que sus adversarios?
+- De 3 a 4 jugadores.
 - A partir de 10 años.
+- Un juego de mesa y estrategia que te lleva a una carrera para el desarrollo de su asentamiento en la isla de Catana.
+- Se conquistará inmediatamente con este juego de mecánica fluida y bien diseñada. Las normas son simples y ofrecen partes cortas. Este juego se vende a millones de ejemplares en todo el mundo, es el soporte de una nueva forma de jugar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
