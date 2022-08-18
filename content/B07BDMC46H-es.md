@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Juego de mesa
 - Material de calidad
-- Ofrece tiempo de diversión y entretenimiento
 - Temática histórica
+- Ofrece tiempo de diversión y entretenimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
