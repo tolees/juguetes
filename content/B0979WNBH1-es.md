@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disfruta de más de 200 microjuegos rápidos y divertidos que son, en esencia, minijuegos que hay que completar a la velocidad del rayo.
+- Wario y compañía regresan con una estrambótica colección de microjuegos multijugador.
 - Dos jugadores pueden aunar fuerzas para superar en compañía frenéticos microjuegos, ya sea arrancar los pelos de un sobaco o apañárselas para salir de bolsas de basura, habrá que hacer gala de reflejos ultrarrápidos.
 - En esta entrega controlarás directamente a Wario y sus amigotes. Hay más de una docena de personajes disponibles, y cada uno cuenta con habilidades propias.
-- Wario y compañía regresan con una estrambótica colección de microjuegos multijugador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
