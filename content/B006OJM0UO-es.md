@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rompecabezas rectangular infantil con marco VIDA EN LA GRANJA
-- Dimensiones: 25.7 x 14.5 cm; con instrucciones en Holandés, Francés, Portugués, Inglés, Español, Alemán, Italiano
-- Adecuado para personas mayores de 3 años
 - Número de piezas: 15; material: cartón
+- Adecuado para personas mayores de 3 años
+- Dimensiones: 25.7 x 14.5 cm; con instrucciones en Holandés, Francés, Portugués, Inglés, Español, Alemán, Italiano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
