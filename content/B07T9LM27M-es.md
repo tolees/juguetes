@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Ni no Kuni: La ira de la Bruja Blanca - Remastered'
-date: 2022-08-19 13:06:27
+date: 2022-08-20 16:15:13
 image: 'https://m.media-amazon.com/images/I/61M7cNfAbQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07T9LM27M/?tag=tolees-21'
 descuento: '27.13'
-average: '16.5789473684209'
+average: '16.4994999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
