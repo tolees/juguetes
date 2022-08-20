@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La particularidad es que las fases, en una determinada orden deben concluirse – ¿Quién una fase ha finalizado debe, en la ronda siguientes embarcarnos en la próxima fase.
-- El objetivo del juego es, como primer concluir 10 fases diferentes, aproximadamente dos anzuelos, una siete éxitos o siete tarjetas del mismo color.
 - A partir de 7 años.
 - El embalaje puede variar.
-- Para 2 a 6 jugadores.
 - Frase de cada tarjeta incluye "Joker" y de "suspender de tarjetas, las preocupaciones y para más Voltaje, pueden ayudar a enfrentarse a situaciones difíciles.
+- El objetivo del juego es, como primer concluir 10 fases diferentes, aproximadamente dos anzuelos, una siete éxitos o siete tarjetas del mismo color.
+- La particularidad es que las fases, en una determinada orden deben concluirse – ¿Quién una fase ha finalizado debe, en la ronda siguientes embarcarnos en la próxima fase.
+- Para 2 a 6 jugadores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
