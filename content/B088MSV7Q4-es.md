@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mymy Funny Shopping es un set compuesto por dos tiendecitas con las que tu peque podrá hacer crecer su ciudad y tener sus propios negocios: una cafetería y una peluquería de animales
+- Este set incluye 2 tiendecitas: la cafetería y la peluquería de animales; además trae más de 35 accesorios realistas
+- Mymy City es la ciudad donde tu peque lo decide todo; podrá escoger su familia, decorar su casa y vivir mil aventuras haciendo crecer su ciudad
 - Recomendado para niños a partir de 4 años; ayuda a desarrollar su creatividad, sociabilidad, imaginación y habilidades manuales
 - Además el playset incluye accesorios urbanos como buzón, banco, carteles de calles o plantas; podrán personalizar su tienda como quieran, y pueden conectarlas juntas, separadas o incluso hacer una esquina para crear la avenida a su gusto
-- Mymy City es la ciudad donde tu peque lo decide todo; podrá escoger su familia, decorar su casa y vivir mil aventuras haciendo crecer su ciudad
-- Este set incluye 2 tiendecitas: la cafetería y la peluquería de animales; además trae más de 35 accesorios realistas
+- Mymy Funny Shopping es un set compuesto por dos tiendecitas con las que tu peque podrá hacer crecer su ciudad y tener sus propios negocios: una cafetería y una peluquería de animales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
