@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para juegos 2D con uso intensivo del pad direccional
-- Joy-Con izquierdo con cruceta
-- Licencia oficial de Nintendo
 - Acabado mate en plástico semitraslúcido
+- Joy-Con izquierdo con cruceta
+- Ideal para juegos 2D con uso intensivo del pad direccional
+- Licencia oficial de Nintendo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
