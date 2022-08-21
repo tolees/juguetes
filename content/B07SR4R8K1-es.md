@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conectividad: Conexión a consolas Xbox con Xbox De forma inalámbrica o mediante el cable USB-C de 9» suministrado. Conéctese de forma inalámbrica a PC, tabletas, dispositivos Windows 10 y Android y dispositivos iOS mediante Bluetooth o con el cable USB-C de 9» incluido. Conéctese a un PC con Windows 7 u 8.1 mediante el cable USB-C de 2,7 m incluido. Algunas funciones no son compatibles
-- Equipos de juego de alta calidad para jugadores exigentes
 - Compatible con Xbox Serie X, Xbox Una X, Xbox Una S, Xbox Uno, Windows 10, Android e iOS. La funcionalidad depende de la versión del sistema operativo y del dispositivo compatible
+- Equipos de juego de alta calidad para jugadores exigentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
