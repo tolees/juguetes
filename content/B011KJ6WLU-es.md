@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DCS/CTCSS mejora la seguridad; 8 canales y 99 códigos privados minimizan la posibilidad de compartir el mismo canal con otros
-- Utiliza 4 pilas AAA cualificadas (no incluidas); no mezcles las pilas viejas con las nuevas; si no vas a utilizarlas durante mucho tiempo; apaga el dispositivo y retira las pilas
-- Cuerpo compacto y resistente; ideal para los niños (sólo 79 g); el walkie talkie puede soportar una caída de 1,2 m
-- Función de comunicación uno a uno o uno a varios; los walkie talkies se ajustan al mismo canal y subcanal; los walkie talkies pueden hablar entre sí
 - La linterna LED integrada ilumina el camino durante las actividades nocturnas; útil en caso de emergencia inesperada o de corte de luz
-- Volumen ajustable para una calidad de sonido clara; reducción automática del ruido para reducir el ruido de fondo; puedes obtener un sonido claro incluso cuando estés en lugares con mucha gente
+- Función de comunicación uno a uno o uno a varios; los walkie talkies se ajustan al mismo canal y subcanal; los walkie talkies pueden hablar entre sí
+- DCS/CTCSS mejora la seguridad; 8 canales y 99 códigos privados minimizan la posibilidad de compartir el mismo canal con otros
+- Cuerpo compacto y resistente; ideal para los niños (sólo 79 g); el walkie talkie puede soportar una caída de 1,2 m
 - VOX y toma de auriculares de 2,5 mm; la función VOX permite hablar directamente con los vecinos sin necesidad de pulsar el botón PTT; también se pueden conectar los auriculares al walkie talkie (no incluidos)
+- Utiliza 4 pilas AAA cualificadas (no incluidas); no mezcles las pilas viejas con las nuevas; si no vas a utilizarlas durante mucho tiempo; apaga el dispositivo y retira las pilas
+- Volumen ajustable para una calidad de sonido clara; reducción automática del ruido para reducir el ruido de fondo; puedes obtener un sonido claro incluso cuando estés en lugares con mucha gente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
