@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Klonoa Phantasy Reverie Series  PS4'
-date: 2022-08-19 08:34:29
+date: 2022-08-22 08:10:14
 image: 'https://m.media-amazon.com/images/I/511JpH5ErfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B09SLWXXRL/?tag=tolees-21'
 descuento: '19.23'
-average: '47.2008333333334'
+average: '46.8000000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Remasterización de aniversario
+- Juego icónico
 - Accesibilidad nueva
 - Dos juegos en uno
-- Juego icónico
-- Remasterización de aniversario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
