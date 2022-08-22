@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'World of Zombies Zombies-44216 Playset Parque de Juegos con Figura Exclusiva  Bandai 44216   Multicolor'
-date: 2022-08-18 21:20:19
+date: 2022-08-22 16:52:35
 image: 'https://m.media-amazon.com/images/I/51FHoIXG5BS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'World of Zombies'
 buyurl: 'https://www.amazon.es/dp/B08RP11BRK/?tag=tolees-21'
 descuento: '71.90'
-average: '7.39333333333333'
+average: '7.09'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto que combina tradición e innovación
-- Playset parque de juegos
 - Incluye 1 figura exclusiva
 - 3 modos de juego
+- Producto que combina tradición e innovación
+- Playset parque de juegos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

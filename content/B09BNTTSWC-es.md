@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75322 Star Wars AT-ST de Hoth  Set de Juego con Walker  Chewbacca y Figura de Droide  Juguete de la película El Imperio Contraataca'
-date: 2022-08-20 08:37:35
+date: 2022-08-22 14:26:02
 image: 'https://m.media-amazon.com/images/I/51TlprYb0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNTTSWC/?tag=tolees-21'
 descuento: '20.18'
-average: '42.6371875000001'
+average: '42.5542424242425'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 3 mini figuras LEGO Star Wars: Chewbacca con un equipo para la nieve, un piloto de AT-ST de Hoth y un soldado rebelde de Hoth, todos ellos con armas
-- Incluye la primera maqueta LEGO de la historia para construir con ladrillos del AT-ST de Hoth de Star Wars: El Imperio Contraataca, para revivir la batalla
 - Incluye instrucciones, y con la app gratuita Instrucciones de Montaje LEGO, los constructores podrán acercar, girar y visualizar una versión digital de su maqueta
 - El AT-ST de juguete incluye una cabina a la que se accede mediante una trampilla, techo abatible, una cabeza giratoria, 2 lanzadores de proyectiles y patas articuladas
 - También incluye una figura LEGO del droide sonda imperial para revivir las épicas escenas de Star Wars: El Imperio Contraataca
+- Incluye la primera maqueta LEGO de la historia para construir con ladrillos del AT-ST de Hoth de Star Wars: El Imperio Contraataca, para revivir la batalla
+- Incluye 3 mini figuras LEGO Star Wars: Chewbacca con un equipo para la nieve, un piloto de AT-ST de Hoth y un soldado rebelde de Hoth, todos ellos con armas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
