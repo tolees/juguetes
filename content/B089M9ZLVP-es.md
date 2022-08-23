@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De material e impresión resistente, se pueden montar y desmontar varias veces
-- Favorece la observación y la concentración
 - Un puzzle con calidad de impresión y diseño
+- Favorece la observación y la concentración
 
 [🛒 Comprar!!!]({{< param buyurl >}})

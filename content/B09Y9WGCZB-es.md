@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL DÍA DE LA CARRERA, REDEFINIDO: Toma el control de tu experiencia virtual de F1 con paradas en boxes envolventes y cinemáticas, vueltas de formación y más
-- Competición a pantalla dividida para dos jugadores
-- Formula 2, el mejor terreno de entrenamiento para la F1 también está incluido, con opciones de temporada corta, media o completa, además de contenido de las temporadas 2021 y 2022
-- Modo Carrera: pon a prueba tu talento como piloto en el mundo de la F1 y ábrete paso por la parrilla en el aclamado modo Carrera de 10 años
-- Mi Equipo: elige tu presupuesto inicial a medida que creas tu equipo de F1 desde cero, con eventos de departamento ampliados y una personalización de diseños más profunda
-- RV: disfruta de la experiencia de inmersión definitiva en la F1 gracias a la compatibilidad con realidad virtual en PC, que te permite sentir el dramatismo de la carrera desde el interior de la cabina
 - LA VIDA EN LA F1: disfruta del glamour y la ostentación de la Formula 1
+- Mi Equipo: elige tu presupuesto inicial a medida que creas tu equipo de F1 desde cero, con eventos de departamento ampliados y una personalización de diseños más profunda
+- EL DÍA DE LA CARRERA, REDEFINIDO: Toma el control de tu experiencia virtual de F1 con paradas en boxes envolventes y cinemáticas, vueltas de formación y más
+- RV: disfruta de la experiencia de inmersión definitiva en la F1 gracias a la compatibilidad con realidad virtual en PC, que te permite sentir el dramatismo de la carrera desde el interior de la cabina
+- Formula 2, el mejor terreno de entrenamiento para la F1 también está incluido, con opciones de temporada corta, media o completa, además de contenido de las temporadas 2021 y 2022
+- Competición a pantalla dividida para dos jugadores
+- Modo Carrera: pon a prueba tu talento como piloto en el mundo de la F1 y ábrete paso por la parrilla en el aclamado modo Carrera de 10 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
