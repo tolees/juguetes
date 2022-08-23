@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wstbspsm Juguetes de Tiro para niños 2 Pistolas de Juguete con 48 Bolas de Espuma   Pistolas de Aire  Juguetes  Regalos de cumpleaños para niños de 3 4 5 6 7 años'
-date: 2022-08-13 09:35:17
+date: 2022-08-23 10:16:05
 image: 'https://m.media-amazon.com/images/I/51X+P+MUM9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wstbspsm'
 buyurl: 'https://www.amazon.es/dp/B09G6LBGZJ/?tag=tolees-21'
 descuento: '23.08'
-average: '35.352'
+average: '34.8645454545454'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
