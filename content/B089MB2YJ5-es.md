@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni - Puzzle infantil 180 piezas Batman  puzzle infantil superhéroes a partir de 7 años  29108  '
-date: 2022-08-14 15:07:48
+date: 2022-08-24 14:10:52
 image: 'https://m.media-amazon.com/images/I/51JbD9k9I2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
