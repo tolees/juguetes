@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - F1 22 PS4 | Castellano'
-date: 2022-08-25 15:12:39
+date: 2022-08-26 16:41:42
 image: 'https://m.media-amazon.com/images/I/51uAtkDei7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B09Y9WGCZB/?tag=tolees-21'
 descuento: '40.01'
-average: '48.6566666666667'
+average: '46.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Formula 2, el mejor terreno de entrenamiento para la F1 también está incluido, con opciones de temporada corta, media o completa, además de contenido de las temporadas 2021 y 2022
-- LA VIDA EN LA F1: disfruta del glamour y la ostentación de la Formula 1
 - EL DÍA DE LA CARRERA, REDEFINIDO: Toma el control de tu experiencia virtual de F1 con paradas en boxes envolventes y cinemáticas, vueltas de formación y más
+- LA VIDA EN LA F1: disfruta del glamour y la ostentación de la Formula 1
 - Modo Carrera: pon a prueba tu talento como piloto en el mundo de la F1 y ábrete paso por la parrilla en el aclamado modo Carrera de 10 años
 - Competición a pantalla dividida para dos jugadores
 - RV: disfruta de la experiencia de inmersión definitiva en la F1 gracias a la compatibilidad con realidad virtual en PC, que te permite sentir el dramatismo de la carrera desde el interior de la cabina
