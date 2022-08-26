@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni Dragon Ball Z Impossible Puzzle Ball-1000 pièces  Multicolor  39489 '
-date: 2022-08-22 12:33:57
+date: 2022-08-26 20:32:30
 image: 'https://m.media-amazon.com/images/I/51Sv0XhSEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clementoni'
 buyurl: 'https://www.amazon.es/dp/B07MY1KVFG/?tag=tolees-21'
 descuento: '32.48'
-average: '9.0965'
+average: '9.09190476190476'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
