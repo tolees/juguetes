@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 2 mini figuras LEGO de pilotos de carreras con monos de carreras Dodge y cascos de carreras
-- El histórico modelo del coche de carreras LEGO Dodge Challenger presenta un estilo elegante y único con capota de aire, spoilers de cola de pato y un escape lateral poco común
-- Este set de juego LEGO Speed Champions de 627 piezas es un gran regalo LEGO de cumpleaños o cualquier otro día para niños y niñas de 8 años en adelante
 - El coche dragster LEGO presenta un impresionante diseño aerodinámico con un parabrisas tipo jet, un alerón de cola alto enfatizado y un patrón de panal
+- El histórico modelo del coche de carreras LEGO Dodge Challenger presenta un estilo elegante y único con capota de aire, spoilers de cola de pato y un escape lateral poco común
 - Contiene 2 coches de carreras de juguete para niños: Mopar Dodge // SRT Top Fuel Dragster y es impresionante modelo de coche deportivo Dodge Challenger T / A de 1970
+- Incluye 2 mini figuras LEGO de pilotos de carreras con monos de carreras Dodge y cascos de carreras
+- Este set de juego LEGO Speed Champions de 627 piezas es un gran regalo LEGO de cumpleaños o cualquier otro día para niños y niñas de 8 años en adelante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

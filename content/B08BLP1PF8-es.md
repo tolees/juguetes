@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utiliza los comodines de forma inteligente y enfréntate a las 15 preguntas
-- Comodín del familiar (pídele ayuda a un familiar o amigo para resolver la pregunta)
 - Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- El juego oficial del programa de TV "Quién quiere ser millonario"
 - El exitoso e icónico programa vuelve a la televisión
-- Producto distribuido oficialmente en España por BIZAK
+- Utiliza los comodines de forma inteligente y enfréntate a las 15 preguntas
+- El juego oficial del programa de TV "Quién quiere ser millonario"
 - ¡ATENCIÓN! Comprobar la respuesta correcta de cada pregunta girando la carta
+- Comodín del familiar (pídele ayuda a un familiar o amigo para resolver la pregunta)
+- Producto distribuido oficialmente en España por BIZAK
 - La respuesta correcta a cada pregunta siempre se encuentra en el reverso de cada carta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
