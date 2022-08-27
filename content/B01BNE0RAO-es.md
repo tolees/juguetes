@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mundo interconectado
-- Increíble atmósfera visual
 - Acción con la espada
+- Increíble atmósfera visual
+- Mundo interconectado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

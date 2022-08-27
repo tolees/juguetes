@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Space Cowboys Unlock! Mythic Adventures - Juego de Mesa en Español  SCUNL08ES'
-date: 2022-08-22 08:57:41
+date: 2022-08-27 11:46:28
 image: 'https://m.media-amazon.com/images/I/519mK4IcKiS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Space Cowboys'
 buyurl: 'https://www.amazon.es/dp/B093WNP9BJ/?tag=tolees-21'
 descuento: '18.73'
-average: '25.709'
+average: '25.5809090909091'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- A partir de 10 años de edad
 - ¡Tres Aventuras Espeluznantes!
 - Los Escape Room son salas de las que tienes que escapar en menos de 60 minutos. Unlock! Te permite vivir esta experiencia en tu casa, alrededor de una mesa.
 - Un juego de cartas cooperativo inspirado en un Escape Room.
 - De 1 a 6 jugadores
-- A partir de 10 años de edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
