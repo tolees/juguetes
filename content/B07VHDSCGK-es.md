@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spider-Man - Spiderman Figura Titan Con Accesorios  Hasbro E73445L0 '
-date: 2022-08-22 16:41:32
+date: 2022-08-28 09:38:31
 image: 'https://m.media-amazon.com/images/I/41hEK43f94L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Spider-Man'
 buyurl: 'https://www.amazon.es/dp/B07VHDSCGK/?tag=tolees-21'
 descuento: '17.25'
-average: '21.8113043478262'
+average: '21.8424285714287'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
