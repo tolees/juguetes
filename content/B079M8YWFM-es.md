@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juega con tus amigos o juega a evitar pisar las cacas tú solo
-- El jugador que pise menos cacas, gana
 - Pásalo en grande evitando pisar cacas con los ojos vendados
 - Moldea la plastilina incluida para crear montones de caca
+- Juega con tus amigos o juega a evitar pisar las cacas tú solo
+- El jugador que pise menos cacas, gana
 
 [🛒 Aquí!!!]({{< param buyurl >}})
