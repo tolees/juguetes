@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene varios accesorios
 - Juguete educativo que fomenta el juego simbólico
+- Contiene varios accesorios
 - Desarrolla la imaginación y la creatividad
 - Incluye dos bebés, mamá, bolso y dos sonajeros
 
