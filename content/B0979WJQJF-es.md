@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plaga de topos: Aplasta a los topos en el clásico juego de Game & Watch, Vermin, ahora con Link como protagonista.
-- The Legend of Zelda: Descubre Hyrule y vence a Ganon en la aventura original que dio comienzo a la saga en 1987.
-- Reloj DIgital y cronómetro interactivos: Observa cómo Link explora Hyrule y derrota a Ganon con este singular reloj interactivo. ¡Agarra la consola y toma el control del juego desde ese punto cuando quieras!
-- The Legend of Zelda: Link’s Awakening: Despierta al Pez del Viento en la versión original para Nintendo Game Boy del primer juego de la saga en versión portátil que se lanzó en 1993 .
-- Game & Watch: The Legend of Zelda, un tributo al 35.º aniversario de The Legend of Zelda. Diseño retro, decoraciones legendarias.
 - Zelda II: The Adventure of Link: Esta secuela lanzada en 1988 ofrece un extenso mundo con mazmorras que puedes explorar siguiendo una mecánica de desplazamiento horizontal.
+- Game & Watch: The Legend of Zelda, un tributo al 35.º aniversario de The Legend of Zelda. Diseño retro, decoraciones legendarias.
+- The Legend of Zelda: Descubre Hyrule y vence a Ganon en la aventura original que dio comienzo a la saga en 1987.
+- The Legend of Zelda: Link’s Awakening: Despierta al Pez del Viento en la versión original para Nintendo Game Boy del primer juego de la saga en versión portátil que se lanzó en 1993 .
+- Reloj DIgital y cronómetro interactivos: Observa cómo Link explora Hyrule y derrota a Ganon con este singular reloj interactivo. ¡Agarra la consola y toma el control del juego desde ese punto cuando quieras!
+- Plaga de topos: Aplasta a los topos en el clásico juego de Game & Watch, Vermin, ahora con Link como protagonista.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuando te quede una sola carta, no te olvides de gritar uno
 - Para jugar entre 2 y 10 jugadores, que se pueden desafiar individualmente o por equipos
 - El objetivo es ser el primero en quedarse sin cartas y gana el primer equipo o jugador en llegar a 500 puntos
-- Juego de mesa que incluye 108 cartas resistentes al agua + un mosquetón para transportarlas cómodamente
+- Cuando te quede una sola carta, no te olvides de gritar uno
 - La versión resistente al agua del clásico juego de cartas uno
+- Juego de mesa que incluye 108 cartas resistentes al agua + un mosquetón para transportarlas cómodamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

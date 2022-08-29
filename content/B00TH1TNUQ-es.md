@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con 6 anillos de colores
+- Torre de encajable
 - Con movimiento oscilante en la base
 - Potencia la coordinación de las manos
-- Torre de encajable
 - Anillos de diferentes tamaños
-- Con 6 anillos de colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
