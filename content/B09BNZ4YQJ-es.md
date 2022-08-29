@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una creativa idea de regalo para niños de 8 años en adelante amantes de las aventuras galácticas y Lightyear, la película Disney y Pixar que narra la historia del origen del gran guardián espacial
-- La nave espacial de juguete cuenta con un una cabina abatible con espacio para la mini figura LEGO de Buzz Lightyear vestida con un mono espacial naranja y una pila de combustible extraíble
+- Llévate a casa la acción de la película y combina este set con Duelo contra Zyclops (76830) y Batalla contra Zurg (76831), ¡podrás recrear el universo Lightyear al completo!
+- Incluye el lanzacohetes Mr. Boom de Darby y el ordenador del gato robótico Sox para que los fans puedan recrear sus escenas favoritas de la película, ¡forma parte de la tripulación o vive divertidas batallas!
 - Este juguete de construcción de Buzz Lightyear cuenta con la Nave Espacial XL-15 de la película para construir, además de 3 mini figuras LEGO, una figura de gato robótico y 3 armas
 - Este fascinante juguete del espacio exterior viene con una base y una placa informativa para exponer la nave con orgullo en la habitación de los niños, ¡es la decoración infantil perfecta para los fans de Buzz Lightyear!
-- Incluye el lanzacohetes Mr. Boom de Darby y el ordenador del gato robótico Sox para que los fans puedan recrear sus escenas favoritas de la película, ¡forma parte de la tripulación o vive divertidas batallas!
-- Llévate a casa la acción de la película y combina este set con Duelo contra Zyclops (76830) y Batalla contra Zurg (76831), ¡podrás recrear el universo Lightyear al completo!
+- La nave espacial de juguete cuenta con un una cabina abatible con espacio para la mini figura LEGO de Buzz Lightyear vestida con un mono espacial naranja y una pila de combustible extraíble
 
 [🛒 Comprar!!!]({{< param buyurl >}})
