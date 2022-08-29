@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un RPG con toda la calidad que solo Level-5 puede ofrecer
 - Únete a Oliver en un viaje inolvidable a un universo paralelo habitado por misteriosas criaturas y feroces oponentes para recuperar a su madre tras un trágico accidente
+- Un RPG con toda la calidad que solo Level-5 puede ofrecer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
