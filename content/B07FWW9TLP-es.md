@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Disney Toy Story Bergere  Multicolor  446GDP66 '
-date: 2022-08-24 16:32:44
+date: 2022-08-29 17:11:48
 image: 'https://m.media-amazon.com/images/I/31z-5CDx75L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Muñecos y figuras 
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0
-comparePrice: 13.6 EUR
+comparePrice: 13.51 EUR
 prodname: 'Mattel Disney Toy Story Bergere  Multicolor  446GDP66 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Mattel'
 buyurl: 'https://www.amazon.es/dp/B07FWW9TLP/?tag=tolees-21'
-descuento: '26.47'
+descuento: '25.98'
 average: '10.0'
 ---
 
