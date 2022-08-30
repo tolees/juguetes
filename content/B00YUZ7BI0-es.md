@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran clásico de los juegos de cartas
-- Aclamado por más de medio millón de pistoleros de todo el mundo
 - En el Salvaje Oeste, los Forajidos dan caza al Sheriff, el Sheriff da caza a los Forajidos, y el Renegado urde su plan en secreto, listo para unirse a cualquiera de los bandos. Dentro de poco, ¡las balas comenzarán a zumbar!
+- Aclamado por más de medio millón de pistoleros de todo el mundo
 - De 20 a 30 minutos de duración
+- Gran clásico de los juegos de cartas
 - De 4 a 7 Jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

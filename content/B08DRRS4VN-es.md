@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se reparten las 70 cartas lo más equitativamente posible, boca abajo, entre todos los jugadores y se coloca el Tótem en el centro de los jugadores
 - Jungle Speed fue inventado hace alrededor de 3000 años en la Spidopotamia subtropical por los hombres de la tribu Abulú.
-- ¡Un top ventas ahora con un nuevo empaquetado 100% ecológico, sin plásticos y la etiqueta FSC!
+- Se reparten las 70 cartas lo más equitativamente posible, boca abajo, entre todos los jugadores y se coloca el Tótem en el centro de los jugadores
 - El objetivo del juego es conseguir deshacerte lo más rápido posible de todas tus cartas. El primer jugador que lo consiga será nombrado jefe Abulú.
+- ¡Un top ventas ahora con un nuevo empaquetado 100% ecológico, sin plásticos y la etiqueta FSC!
 - Cuando 2 jugadores tengan dos cartas con símbolos idénticos (el color no importa), tendrá lugar un duelo, que ganará el que consiga atrapar el Tótem.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
