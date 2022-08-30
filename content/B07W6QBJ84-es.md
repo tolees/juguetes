@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Este divertido juguete para niños de 7 años en adelante no requiere pilas, todo lo que necesitan los peques para jugar es su desbordante imaginación
+- El buggy de juguete cuenta con un alerón trasero, un arma de cañón doble y una divertida función de suspensión, los niños pueden presionarlo hacia abajo y ver cómo salta
+- La mini figura LEGO de Lloyd está diseñada para recrear emocionantes juegos de acción de la temporada 4 de la serie de TV LEGO NINJAGO, como la batalla del Torneo de los Elementos
 - Vive una nueva y emocionante experiencia digital con Instructions PLUS, disponible en la app gratuita LEGO Life, dónde los peques podrán hacer zoom y rotar el modelo
 - Este buggy de juguete es el regalo ideal de cumpleaños o en cualquier ocasión para niños y niñas amantes de los juegos de ninjas y el universo NINJAGO
-- Este divertido juguete para niños de 7 años en adelante no requiere pilas, todo lo que necesitan los peques para jugar es su desbordante imaginación
-- La mini figura LEGO de Lloyd está diseñada para recrear emocionantes juegos de acción de la temporada 4 de la serie de TV LEGO NINJAGO, como la batalla del Torneo de los Elementos
-- El buggy de juguete cuenta con un alerón trasero, un arma de cañón doble y una divertida función de suspensión, los niños pueden presionarlo hacia abajo y ver cómo salta
 - Revive el increíble Torneo de los Elementos con este buggy de juguete con enormes neumáticos y la mini figura LEGO de Lloyd con espada dorada
 - Incluye katanas doradas para luchar en torneos LEGO NINJAGO, donde los peques podrán organizar alucinantes carreras de coches de juguete
 

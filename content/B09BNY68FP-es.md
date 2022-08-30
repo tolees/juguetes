@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego para construir de Super Mario incluye una figura de juguete LEGO de un Bob-omb, que los peques podrán añadir a los niveles construidos con ladrillos que creen
-- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
 - ¡Es hora de despegar! Los peques podrán volar con el coche de payaso de Bowser Jr por el cielo para conseguir todas las monedas que puedan y derrotar al Bob-omb enemigo
 - Para jugar, es necesario colocar la figuras LEGO Mario o LEGO Luigi (no incluidas) en el coche de payaso junior construido con ladrillos para hacer que vuele
 - Los sets de expansión de LEGO Super Mario son una gran idea de regalo para niños que ya tienen un Pack Inicial de Super Mario (71360/71387), necesario para jugar
-- Los sets de construcción coleccionables de LEGO Super Mario, con figuras de enemigos, ofrecen infinitas formas de ampliar, reconstruir y crear niveles únicos para el juego
+- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
+- El juego para construir de Super Mario incluye una figura de juguete LEGO de un Bob-omb, que los peques podrán añadir a los niveles construidos con ladrillos que creen
 - Los peques podrán añadir un desafío de recogida de monedas aéreo a su universo LEGO Super Mario con este set de expansión Minihelikoopa de Bowser
+- Los sets de construcción coleccionables de LEGO Super Mario, con figuras de enemigos, ofrecen infinitas formas de ampliar, reconstruir y crear niveles únicos para el juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
