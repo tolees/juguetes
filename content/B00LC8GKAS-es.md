@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - ¡Rescate!  BGRESCATE '
-date: 2022-08-30 09:18:51
+date: 2022-08-31 14:11:08
 image: 'https://m.media-amazon.com/images/I/41p50nisAFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B00LC8GKAS/?tag=tolees-21'
 descuento: '15.00'
-average: '26.3556'
+average: '26.1592307692308'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Duración aproximada de la partida: 45 minutos
-- Número de jugadores: 2 - 6
 - Juego de mesa cooperativo en el que todos los jugadores forman un equipo
-- Juego adecuado para pasar el tiempo libre
+- Duración aproximada de la partida: 45 minutos
 - Edad recomendada: 10 años y más
+- Juego adecuado para pasar el tiempo libre
+- Número de jugadores: 2 - 6
 
 [🛒 Aquí!!!]({{< param buyurl >}})
