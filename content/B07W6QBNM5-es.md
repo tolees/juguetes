@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60258 City Nitro Wheels Taller de Tuneo'
-date: 2022-08-28 13:56:17
+date: 2022-08-30 23:51:13
 image: 'https://m.media-amazon.com/images/I/514gEO2t-YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W6QBNM5/?tag=tolees-21'
 descuento: '23.10'
-average: '91.1387461300311'
+average: '91.1059196290573'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de piezas: 897
-- Taller de Tuneo
-- Edad recomendada por el fabricante: 6+
 - Los niños pueden manejar el elevador en el taller, izar coches con el gato, rescatar vehículos averiados con el camión grúa, y mucho más. Además, los niños pueden combinar este set con otros juegos LEGO para aumentar la diversión en el juego.
+- Número de piezas: 897
+- Edad recomendada por el fabricante: 6+
 - El set presenta un garaje de juguete, una caravana y sorprendentes vehículos, incluido un camión grúa, un bólido clásico y una moto a reacción, además de 7 minifiguras que incluyen a los personajes de LEGO City, Tread Octane y Harl Hubbs.
+- Taller de Tuneo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
