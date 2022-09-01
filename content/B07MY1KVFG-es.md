@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni Dragon Ball Z Impossible Puzzle Ball-1000 pièces  Multicolor  39489 '
-date: 2022-08-26 20:32:30
+date: 2022-09-01 09:53:17
 image: 'https://m.media-amazon.com/images/I/51Sv0XhSEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07MY1KVFG-es Clementoni Dragon Ball Z Impossible Puzzle Ball-1000...'
 sku: 'B07MY1KVFG-es'
 tags: [ 'Juguetes','Juguetes y juegos','Puzzles','Puzzles y rompecabezas','clementoni','puzzle','🇪🇸', ]
-actualPrice: 9.0 EUR
+actualPrice: 10.61 EUR
 currency: EUR
-price: 9.0
-comparePrice: 13.33 EUR
+price: 10.61
+comparePrice: 13.47 EUR
 prodname: 'Clementoni Dragon Ball Z Impossible Puzzle Ball-1000 pièces  Multicolor  39489 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clementoni'
 buyurl: 'https://www.amazon.es/dp/B07MY1KVFG/?tag=tolees-21'
-descuento: '32.48'
-average: '9.09190476190476'
+descuento: '21.23'
+average: '9.16090909090909'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

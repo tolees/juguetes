@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Repos Production - 7 Wonders Nueva Edición - Juego de mesa en Español'
-date: 2022-08-30 16:32:52
+date: 2022-09-01 10:40:48
 image: 'https://m.media-amazon.com/images/I/51slGP6smlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Repos Production'
 buyurl: 'https://www.amazon.es/dp/B08GMD6ZGK/?tag=tolees-21'
 descuento: '15.03'
-average: '35.5465000000002'
+average: '35.6742857142859'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apto para personas con daltonismo.
+- Con una duración de 30 Minutos por partida
 - Recomendado a Partir de 10 Años de Edad
 - Juego de Cartas en Español
-- Apto para personas con daltonismo.
 - Juego de 3 a 7 Jugadores
-- Con una duración de 30 Minutos por partida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
