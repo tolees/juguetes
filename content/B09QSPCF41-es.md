@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con PC, PS3, PS4, XBOX ONE & SWITCH , X- Input y D-Input. * Requiere un mando / El controlador no necesita ser un controlador PS4 original, puede ser un controlador de terceros con licencia.
 - Grip de tejido sintético para mayor agarre - 3 modos de sensibilidad en el volante
 - Botones: 13 botones, 6 programables - Longitud del cable: 240 cm
 - Juego de volante, pedales y palanca de cambios - levas en el volante - Base de estabalidad en los pedales.
+- Compatible con PC, PS3, PS4, XBOX ONE & SWITCH , X- Input y D-Input. * Requiere un mando / El controlador no necesita ser un controlador PS4 original, puede ser un controlador de terceros con licencia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

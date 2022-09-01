@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games Arkham Horror: El Juego de Cartas de misterios arcanos y Terror Sobrenatural  Color  Edge Entertainment EDGAHC01 '
-date: 2022-08-30 15:04:37
+date: 2022-09-01 12:40:50
 image: 'https://m.media-amazon.com/images/I/51iLwU3UqBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B01N8UKR19/?tag=tolees-21'
 descuento: '17.34'
-average: '31.3338888888889'
+average: '31.0247368421053'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Los jugadores asumen el papel de investigadores únicos marcados por virtudes y defectos.
-- Un juego de cartas cooperativo Living Card Game en un ambiente de horror lovecraftiano para 1 a 2 jugadores (o hasta 4 con 2 cajas básicas).
+- Los investigadores se oponen a los desafíos de las cartas de Escenario específicas para la aventura.
 - Difumina la línea que separa los juegos de cartas tradicionales de las experiencias de los juegos de rol.
 - Las reglas de campaña otorgan profundidad adicional a tus decisiones y te permiten "subir el nivel" a tu mazo entre aventuras.
-- Los investigadores se oponen a los desafíos de las cartas de Escenario específicas para la aventura.
+- Un juego de cartas cooperativo Living Card Game en un ambiente de horror lovecraftiano para 1 a 2 jugadores (o hasta 4 con 2 cajas básicas).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
