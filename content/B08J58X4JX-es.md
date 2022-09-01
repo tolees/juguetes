@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este pack de 4 es perfecto para comenzar una colección al instante y el mejor regalo para los niños a partir de 3 años.
-- Cada pack de 4 es una colección al instante con 4 personajes favoritos incluidos.
 - Hot Wheels se une al popular Mario Kart para traer este pack de modelos metálicos a escala 1:64 compatibles con las pistas.
-- A los niños les encantarán las carreras y recrear sus escenas favoritas del clásico videojuego.
 - El conjunto incluye 1 combinación exclusiva de personaje y kart que se puede ver en la caja.
+- Cada pack de 4 es una colección al instante con 4 personajes favoritos incluidos.
+- A los niños les encantarán las carreras y recrear sus escenas favoritas del clásico videojuego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
