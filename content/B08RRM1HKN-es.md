@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El regalo para ayudar a las niñas a normalizar el uso de la mascarilla e ir siempre protegidas
 - Recomendado para niños y niñas a partir de 3 años; ayuda a desarrollar su creatividad e imaginación
 - Muñeca de 43 cm; vestido lavable en agua fría
 - Adela mascarilla va unida a una cinta de flores que la niña podrá usar como lazo para el pelo de la muñeca
 - Nancy, un día con mascarilla trendy está lista para salir a la calle e ir siempre protegida con su mascarilla; Nancy incluye un bonito vestido de flores a juego con su mascarilla
+- El regalo para ayudar a las niñas a normalizar el uso de la mascarilla e ir siempre protegidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
