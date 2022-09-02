@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 2 a 5 jugadores
-- Duración de la partida: 30 minutos
-- Idioma español
 - Para mayores de 8 años
+- Idioma español
+- Duración de la partida: 30 minutos
+- De 2 a 5 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
