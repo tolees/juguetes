@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76904 Speed Champions Drágster Mopar Dodge//SRT Top Fuel y Dodge Challenger T/A de 1970  Coches Deportivos de Juguete'
-date: 2022-09-01 21:43:12
+date: 2022-09-02 22:35:47
 image: 'https://m.media-amazon.com/images/I/516nd6hj7JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WX2FV29-es LEGO 76904 Speed Champions Drágster Mopar Dodge//SRT Top...'
 sku: 'B08WX2FV29-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 49.99 EUR
+actualPrice: 50.99 EUR
 currency: EUR
-price: 49.99
+price: 50.99
 comparePrice: 59.99 EUR
 prodname: 'LEGO 76904 Speed Champions Drágster Mopar Dodge//SRT Top Fuel y Dodge Challenger T/A de 1970  Coches Deportivos de Juguete'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WX2FV29/?tag=tolees-21'
-descuento: '16.67'
-average: '55.492344497608'
+descuento: '15.00'
+average: '55.4709047619051'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
