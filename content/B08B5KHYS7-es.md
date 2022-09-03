@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lanza dardos a 27 metros; arroja dardos con este lanzador a una increíble distancia de hasta 27 m
+- Lanzador preparado para actualizaciones; personaliza el lanzador en todas los combates o misiones sacando partido a la culata y a la extensión del cañón desmontables, y a los 4 raíles tácticos
 - Incluye 20 dardos Nerf; con 24 dardos oficiales de Nerf para cargar el clip de 10 dardos al completo y con otros 14 para recargas
 - Disparo en ráfaga; mueve el deslizador de carga explosiva hacia delante y hacia atrás, y presiona el gatillo para lanzar 1 dardo; aprieta el gatillo prolongadamente y sigue moviendo el deslizador para descargar 10 dardos en ráfaga
-- Lanzador preparado para actualizaciones; personaliza el lanzador en todas los combates o misiones sacando partido a la culata y a la extensión del cañón desmontables, y a los 4 raíles tácticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
