@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Admite hasta 12 Jugadores
+- En tu turno, como narrador, elige una carta de tu mano y da una pista sobre ella (palabras, frases, canciones, etc.). Por ejemplo: “Luz”.
+- Todos los jugadores eligen de entre sus cartas, la que mejor se adapte a la pista. Baraja y revela todas las cartas elegidas.
 - ¡Con Dixit Odyssey, encuentra toda la magia de Dixit, el juego de mesa más galardonado de los últimos años, donde tu imaginación crea increíbles historias!
 - Todos los jugadores, en secreto, intentan adivinar tu carta, utilizando las fichas de voto. Una vez que todos hayan votado, ¡Comienza la ronda de puntuación!
-- Todos los jugadores eligen de entre sus cartas, la que mejor se adapte a la pista. Baraja y revela todas las cartas elegidas.
-- En tu turno, como narrador, elige una carta de tu mano y da una pista sobre ella (palabras, frases, canciones, etc.). Por ejemplo: “Luz”.
+- Admite hasta 12 Jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
