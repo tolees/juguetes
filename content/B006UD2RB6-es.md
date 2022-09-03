@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡El surtido de packs presenta una amplia gama de vehículos para que los niños se diviertan durante horas!
 - Cada pack incluye nueve vehículos increíbles.
-- Colecciona todos los packs y reúne toda la flota (se venden por separado).
+- ¡El surtido de packs presenta una amplia gama de vehículos para que los niños se diviertan durante horas!
 - ¡Incluye un vehículo exclusivo con adornos que no encontrarás en ninguna otra línea!
+- Colecciona todos los packs y reúne toda la flota (se venden por separado).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
