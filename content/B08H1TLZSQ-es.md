@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Alhambra - Second Edition  Queen Games BGALHA2 '
-date: 2022-09-01 11:10:59
+date: 2022-09-04 12:34:18
 image: 'https://m.media-amazon.com/images/I/51a88P20l8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08H1TLZSQ/?tag=tolees-21'
 descuento: '15.01'
-average: '27.18875'
+average: '27.3077777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo: 45-60 minutos
-- Género: estrategia
 - Edad: 8
+- Género: estrategia
+- Tiempo: 45-60 minutos
 - Jugadores: 2-6
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
