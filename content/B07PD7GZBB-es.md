@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La x 0 está equipada con pedales plegables, manillar y sillín ergonómico
-- Práctica y rápida
 - Pequeña y compacta
 - Se pliega con un simple gesto para poder llevarla en transporte público o en el coche
+- La x 0 está equipada con pedales plegables, manillar y sillín ergonómico
+- Práctica y rápida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

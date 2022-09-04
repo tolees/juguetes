@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad: 8
 - Género: estrategia
-- Tiempo: 45-60 minutos
 - Jugadores: 2-6
+- Tiempo: 45-60 minutos
+- Edad: 8
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

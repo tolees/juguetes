@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Licencia oficial de Nintendo
 - La precisión y comodidad del Pro Controller, en modo portátil
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Licencia oficial de Nintendo
 - Botones traseros programables
 - Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
 
