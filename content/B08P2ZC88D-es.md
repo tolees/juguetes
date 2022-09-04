@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DESARROLLADO POR NERF, INCLUYE 3 DARDOS NERF ELITE. El lanzador viene equipado con tres dardos Nerf Elite, diseñado para alcanzar una máxima eficacia y precisión aerodinámica (los dardos adicionales se venden por separado)
 - DISEÑO INSPIRADO EN LA PELÍCULA. El lanzador Web Bolt de Spider-Man presenta un diseño rojo y dorado y con detalles de telarañas inspirado en el traje de integración de Spider-Man
 - LAS TELARAÑAS DE DECORACIÓN SE ESTIRAN MIENTRAS TIRAS DEL MANGO PARA RECARGAR. Los niños pueden cargar con facilidad el lanzador. Tira del mango e inserta un dardo en el cañón. Las telarañas doradas y flexibles a los laterales se estiran para mostrar un divertido diseño
+- DESARROLLADO POR NERF, INCLUYE 3 DARDOS NERF ELITE. El lanzador viene equipado con tres dardos Nerf Elite, diseñado para alcanzar una máxima eficacia y precisión aerodinámica (los dardos adicionales se venden por separado)
 - COMBÍNALO CON LOS LANZADORES STRETCH SHOT Y THWIP SHOT DE SPIDER-MAN. ¡Acopla los dos lanzadores para crear el último juguete para roleplay de lanzatelarañas de Spider-Man! (Los productos adicionales se venden por separado. Sujeto a disponibilidad)
 - LANZADOR DE SPIDER-MAN QUE SE COLOCA EN LA MUÑECA Y LANZA DARDOS NERF. Lanza telarañas mientras te mueves con el lanzador Web Bolt que se coloca en la muñeca y está inspirado en Spider-Man
 
