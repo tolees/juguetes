@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Muñeca Ranpunzel de la película Enredados
-- Muñeca coleccionable
 - Con zapatos y tiara extraíbles
 - Ayuda a desarrollar la imaginación y la creatividad
+- Muñeca coleccionable
+- Muñeca Ranpunzel de la película Enredados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
