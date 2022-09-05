@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epic Games - Alan Wake Remastered Ps5'
-date: 2022-09-02 18:50:46
+date: 2022-09-05 08:13:14
 image: 'https://m.media-amazon.com/images/I/41540RqsMhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epic Games'
 buyurl: 'https://www.amazon.es/dp/B09FMLJDVS/?tag=tolees-21'
 descuento: '33.34'
-average: '21.1629166666667'
+average: '21.116'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
 - Utiliza las luces del entorno cómo protección en un mundo donde la oscuridad es mortal
-- Debilita los Poseídos con la luz antes de acabar con ellos para siempre
 - Encuentra páginas de manuscritos de una novela que Wake no recuerda haber escrito
+- Debilita los Poseídos con la luz antes de acabar con ellos para siempre
+- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
 - Combate intenso, donde se necesitan más que balas para desterrar la oscuridad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
