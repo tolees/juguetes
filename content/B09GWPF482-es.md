@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fecha de lanzamiento no oficial, sujeta a modificaciones.
 - Carátula no definitiva.
+- Fecha de lanzamiento no oficial, sujeta a modificaciones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

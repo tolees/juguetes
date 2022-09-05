@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- A continuación, saca la muñeca para revelar su aspecto: todas las muñecas de la serie tienen el cabello largo de un tono neón con un peinado llamativo y un body con un estampado muy guay, como caritas sonrientes o estrellas.
+- Abre las 4 bolsas misteriosas para descubrir las sorpresas que ocultan: una falda con estampado tie-dye, un bolso, unos pendientes neón, un cepillo y zapatos de baile. ¡Guárdalas en el tubo después de jugar!
+- Llena el tubo de agua templada, mete la muñeca y muévela suavemente: los tres colores tie-dye de neón se mezclarán, creando un color rosa que le da un toque mágico.
 - Para empezar, retira la capa exterior del embalaje, abre el tubo y saca la muñeca Barbie, cuyo aspecto está oculto por una capa con estampado tie-dye Color Reveal, y las 4 bolsas decoradas donde se esconden los contenidos sorpresa.
 - Las 7 sorpresas que incluyen las cajas de las muñecas Color Reveal de Barbie fascinarán a cualquier niño. ¡Se lo pasarán en grande descubriendo la serie de tie-dye de neón con la original novedad de Color Reveal!
-- Abre las 4 bolsas misteriosas para descubrir las sorpresas que ocultan: una falda con estampado tie-dye, un bolso, unos pendientes neón, un cepillo y zapatos de baile. ¡Guárdalas en el tubo después de jugar!
-- A continuación, saca la muñeca para revelar su aspecto: todas las muñecas de la serie tienen el cabello largo de un tono neón con un peinado llamativo y un body con un estampado muy guay, como caritas sonrientes o estrellas.
-- Llena el tubo de agua templada, mete la muñeca y muévela suavemente: los tres colores tie-dye de neón se mezclarán, creando un color rosa que le da un toque mágico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
