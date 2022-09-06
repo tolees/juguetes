@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tres ciudades famosas, tres historias épicas. Juega a los clásicos que definieron un género de la trilogía original de Grand Theft Auto: Grand Theft Auto III, Grand Theft Auto: Vice City y Grand Theft Auto: San Andreas.
 - Grand Theft Auto III: Todo empieza en Liberty City. Con la libertad revolucionaria de ir a cualquier sitio y atracar a quien quieras, Grand Theft Auto III pone al alcance de tu mano el epicentro del mundo delictivo... si es que tienes lo que hace falta.
-- Grand Theft Auto: San Andreas: Hace cinco años, Carl Johnson, alias C. J., huyó de la bruma de Los Santos, San Andreas... una ciudad destrozada por las bandas, las drogas y la corrupción. Estamos a principios de los 90. C. J. tiene que volver a casa.
 - Grand Theft Auto: Vice City: Te damos la bienvenida a los 80. De la década de los cardados y los trajes de tonos pastel, llega la historia de un hombre que ascendió a lo más alto del mundo del crimen.
+- Grand Theft Auto: San Andreas: Hace cinco años, Carl Johnson, alias C. J., huyó de la bruma de Los Santos, San Andreas... una ciudad destrozada por las bandas, las drogas y la corrupción. Estamos a principios de los 90. C. J. tiene que volver a casa.
+- Tres ciudades famosas, tres historias épicas. Juega a los clásicos que definieron un género de la trilogía original de Grand Theft Auto: Grand Theft Auto III, Grand Theft Auto: Vice City y Grand Theft Auto: San Andreas.
 - Descarga necesaria a través de internet.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
