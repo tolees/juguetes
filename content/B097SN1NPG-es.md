@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora el planeta de Magalan con una libertad sin precedentes gracias a tu mochila cohete, con la que podrás recorrer el mapa y alzar el vuelo
-- Lucha en combates cuerpo a cuerpo y a distancia con un sistema de control perfeccionado
 - Interactúa con un mundo lleno de PNJ únicos, que recordarán tus acciones y reaccionarán en función de las mismas; se unirán o abandonarán tu grupo en función de tu comportamiento y pueden morir, lo que afectará a la historia
+- Lucha en combates cuerpo a cuerpo y a distancia con un sistema de control perfeccionado
 - Disfruta de una historia en la que tus acciones tienen consecuencias y que te sumergirá en un mundo de decisiones morales
+- Explora el planeta de Magalan con una libertad sin precedentes gracias a tu mochila cohete, con la que podrás recorrer el mapa y alzar el vuelo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
