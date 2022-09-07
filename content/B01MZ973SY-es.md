@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Investiga la moneda local de cada reino, que será necesaria para poder comprar distintos atuendos para Mario
+- Podrás jugar con los Joy-Con desencajados para usar los sensores de movimiento y dirigir ataques usando a Cappy
+- Las lunas de cada reino servirán de combustible para Odyssey, la aeronave con la que Mario viajará a otros reinos
 - Descubre el modo de juego cooperativo para 2 jugadores, usando cada uno un Joy-Con; de esta forma un jugador controlará a Mario y otro a Cappy
 - Explora enormes reinos 3D llenos de secretos y sorpresas; interactúa con el entorno en vehículos que incorporan la vibración HD de los Joy-Con
-- Investiga la moneda local de cada reino, que será necesaria para poder comprar distintos atuendos para Mario
-- Las lunas de cada reino servirán de combustible para Odyssey, la aeronave con la que Mario viajará a otros reinos
-- Podrás jugar con los Joy-Con desencajados para usar los sensores de movimiento y dirigir ataques usando a Cappy
 - La princesa Peach ha vuelto a desaparecer - enfráscate en todo tipo de aventuras para rescatar a Peach de las garras de Bowser
 - Usa a Cappy, la gorra de Mario, para poder enfrentarte a tus enemigos, descubre nuevos movimientos, con los que podrás tomar el control de todo tipo de cosas como objetos y enemigos
 

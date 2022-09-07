@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Muñeca con orinal para enseñarle a hacer pipí
+- Cuerpo blandito y mide 25 cm, lleva un bonito vestido, gorrito y un orinal
 - Recomendado a partir de 1 año; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
 - Cuando aprietas su ombligo hace 4 sonidos distintos
-- Cuerpo blandito y mide 25 cm, lleva un bonito vestido, gorrito y un orinal
-- Muñeca con orinal para enseñarle a hacer pipí
 - Se puede quitar la parte electrónica para lavarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
