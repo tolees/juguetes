@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Edad recomendada: 10 años y más
 - Número de jugadores: 2 - 6
 - Juego adecuado para pasar el tiempo libre
 - Duración aproximada de la partida: 45 minutos
 - Juego de mesa cooperativo en el que todos los jugadores forman un equipo
+- Edad recomendada: 10 años y más
 
 [🛒 Aquí!!!]({{< param buyurl >}})

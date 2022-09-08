@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 1 tablero de personaje, 12 cartas de Objeto, 1 dado de Combate, 2 fichas de Detonantes, 1 miniatura de Cora
 - En su día fue una experta en demoliciones en el ejército, trabajó con mercenarios por todo el país hasta que se quedó fuera de la Ciudad Dorada
 - Producto en castellano
-- 1 tablero de personaje, 12 cartas de Objeto, 1 dado de Combate, 2 fichas de Detonantes, 1 miniatura de Cora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
