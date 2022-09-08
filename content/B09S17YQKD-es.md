@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Two Point Campus Enrolment Edition Nintendo Switch'
-date: 2022-09-07 15:06:44
+date: 2022-09-08 19:16:55
 image: 'https://m.media-amazon.com/images/I/51tQoGvszIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B09S17YQKD/?tag=tolees-21'
 descuento: '32.53'
-average: '29.655'
+average: '29.2728571428571'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un simulador de gestión profundo y adictivo de los creadores del título Two Point Hospital
-- Construye y controla tu propia universidad ¡la potencia de las nuevas herramientas creativas te ayudará a construir una obra maestra educativa diferente del resto
 - Educa a tus estudiantes a través de los mejores años de su vida con los nuevos y mejorados sistemas de relaciones
+- Construye y controla tu propia universidad ¡la potencia de las nuevas herramientas creativas te ayudará a construir una obra maestra educativa diferente del resto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
