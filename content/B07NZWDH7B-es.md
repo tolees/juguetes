@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thrustmaster TM Open Wheel Addon - Volante Addon para PS5 / PS4 / Xbox Series X|S / Xbox One / PC'
-date: 2022-09-05 19:02:08
+date: 2022-09-09 16:14:26
 image: 'https://m.media-amazon.com/images/I/5140ofhqfeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ThrustMaster'
 buyurl: 'https://www.amazon.es/dp/B07NZWDH7B/?tag=tolees-21'
 descuento: '18.37'
-average: '105.8'
+average: '105.154444444444'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Placa frontal robusta realizada en aluminio cepillado negro
 - Tamaño compacto (28 cm de diámetro) y diseño ligero para una sensación mejorada de Force Feedback
 - 6 botones de acción + 1 D-pad + 1 interruptor selector giratorio (3 posiciones con botón pulsador)
 - 2 sensibles levas secuenciales de cambio de marchas, montadas en el volante (100% metálicas, 7,5 cm de altura)
+- Placa frontal robusta realizada en aluminio cepillado negro
 - Agarres del volante realizados en ante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
