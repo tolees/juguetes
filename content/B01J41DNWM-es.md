@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Después los niños podrán experimentar épicos juegos creativos y transformarlo en un triceratops con impresionantes cuernos o en un increíble dinosaurio volador peterodáctilo
-- Los peques vivirán grandes aventuras creativas con este juguete de construcción 3en1 de un asombroso T-Rex que puede convertirse en un triceratops o en un pterodáctilo
-- Sorprende a los pequeños fans de los dinosaurios con este set LEGO Creator, ¡Será un estupendo detalle de cumpleaños para el colegio o en cualquier ocasión para niños de entre 7 y 12 años amantes de los animales de juguete!
 - Coloca los brazos, las patas, la cola y la cabeza del T-Rex en tu postura favorita, y descubre los peligrosos dientes que tiene en la boca, ¡también se incluye su última presa (una caja torácica para construir)!
+- Después los niños podrán experimentar épicos juegos creativos y transformarlo en un triceratops con impresionantes cuernos o en un increíble dinosaurio volador peterodáctilo
+- Sorprende a los pequeños fans de los dinosaurios con este set LEGO Creator, ¡Será un estupendo detalle de cumpleaños para el colegio o en cualquier ocasión para niños de entre 7 y 12 años amantes de los animales de juguete!
 - Este set de dinosaurios de juguete cuenta con un gran T-Rex de ojos color naranja brillantes y cuerpo en colores verde oscuro y beige con divertidas funciones y extremidades articuladas
+- Los peques vivirán grandes aventuras creativas con este juguete de construcción 3en1 de un asombroso T-Rex que puede convertirse en un triceratops o en un pterodáctilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
