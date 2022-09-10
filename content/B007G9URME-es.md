@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Es muy divertido para apilar y anidar y al mismo tiempo aprender tamaños, números, a contar, colores, animales (madre y bebés) y letras del alfabeto. Los nombres de los animales estan en ingles para que los niños aprendan. Un niño creativo e imaginativo puede usarlos como tambores como se muestra en las fotos y en los contenedores útiles.
+- Adecuado para niños mayores de 2 años. Siempre es recomendable que un adulto supervise y disfrute la interacción de los niños con este juguete. El juego de cubos de juguete apilables es un juguete muy divertido con muchos valores educativos. Es un excelente recurso de aprendizaje temprano e ideal para la educación y el desarrollo temprano de los bebés, y puede usarse como juguete montessori.
 - Seguro y ecológico: está hecho de madera sostenible con pinturas ecológicas y no tóxicas. Cumple con las normas de seguridad para juguetes EC EN71, ASTM F963 y CPSIA; siendo probado y certificado por International Accredited Labs.
 - Nuevo diseño: colores del arco iris sólido y fuerte en madera pura. Tiene más funciones educativas que otros cubos apilables.
 - Divertido y educativo: apilar es divertido, los colores del arco iris son atractivos para los niños pequeños. Las 10 cajas numeradas como 1-10, el número de animales bebés y las rayas se corresponden con los números en las cajas. El alfabeto están impresos en la parte inferior de las cajas.
-- Adecuado para niños mayores de 2 años. Siempre es recomendable que un adulto supervise y disfrute la interacción de los niños con este juguete. El juego de cubos de juguete apilables es un juguete muy divertido con muchos valores educativos. Es un excelente recurso de aprendizaje temprano e ideal para la educación y el desarrollo temprano de los bebés, y puede usarse como juguete montessori.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
