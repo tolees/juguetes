@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot Code In The Box - Switch'
-date: 2022-09-06 06:33:26
+date: 2022-09-10 09:02:12
 image: 'https://m.media-amazon.com/images/I/418vaOjhdHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B09YYZKKX9/?tag=tolees-21'
 descuento: '21.57'
-average: '40.795'
+average: '40.5266666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
