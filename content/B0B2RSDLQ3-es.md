@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Jojo S Bizarre Adventure: All-Star Battle  Switch'
-date: 2022-09-04 19:33:12
+date: 2022-09-10 17:03:12
 image: 'https://m.media-amazon.com/images/I/51RfREDITWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0B2RSDLQ3/?tag=tolees-21'
 descuento: '19.15'
-average: '42.99'
+average: '43.3233333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Impresionantes gráficos al estilo de Hirohiko Araki
 - Cómo ha evolucionado el juego con respecto al original All Star Battle
 - Una gran variedad de modos de juego
 - 50 personajes jugables de todos los arcos JoJo
-- Impresionantes gráficos al estilo de Hirohiko Araki
 
 [🛒 Aquí!!!]({{< param buyurl >}})
