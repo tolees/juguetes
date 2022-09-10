@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PDP Gaming - Base Cargadora Para Mandos Dual Ultra Slim  Xbox One / Xbox Series S/X   Xbox Series X '
-date: 2022-09-09 06:05:47
+date: 2022-09-10 10:47:43
 image: 'https://m.media-amazon.com/images/I/41W+UiNJD5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PDP'
 buyurl: 'https://www.amazon.es/dp/B08FCT5XCG/?tag=tolees-21'
 descuento: '48.56'
-average: '31.52'
+average: '29.2666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Indicadores LED que parpadean durante la carga y permanecen fijos una vez finalizada esta.
-- Compatible con Xbox One, Series X/S.
-- Puertos magnéticos para una conexión y carga óptimas.
 - Las luces tipo cine con atenuación automática se adaptan a las condiciones de iluminación del entorno.
+- Puertos magnéticos para una conexión y carga óptimas.
+- Compatible con Xbox One, Series X/S.
 - Material antideslizante en la parte inferior para que la base de carga no se mueva.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
