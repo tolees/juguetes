@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Joy-Con izquierdo con cruceta
 - Para juegos 2D con uso intensivo del pad direccional
 - Licencias oficiales de Nintendo y Pokémon
-- Joy-Con izquierdo con cruceta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
