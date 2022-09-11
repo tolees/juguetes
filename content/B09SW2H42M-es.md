@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- DESCUBRE A TODOS LOS KAZOOM KIDS – Descubre a Starberry, Trasher, Super Slice, Badnilla, Sugarfun y Smash Crash. Puedes seguir todas sus aventuras en el canal de YouTube de Magic Box en español.
+- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
+- + 80 NUEVOS PERSONAJES – Hay más de 80 nuevas figuras para coleccionar, y cada una tiene un súper poder que la hace única. ¡Descubre a los héroes y villanos de Kaboom City!
+- 6 KAZOOM KIDS PARA COLECCIONAR – Incluye 1 muñeco articulado Kazoom Kid, 1 accesorio para el muñeco y 1 SuperThing. Cada display contiene 6 cápsulas diferentes, la colección al completo.
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - ¿ENCONTRARÁS LAS FIGURAS EXCLUSIVAS? – Descubre las figuras plateadas, doradas y al escurridizo Neon Blast, para no parar de crear historias.
-- DESCUBRE A TODOS LOS KAZOOM KIDS – Descubre a Starberry, Trasher, Super Slice, Badnilla, Sugarfun y Smash Crash. Puedes seguir todas sus aventuras en el canal de YouTube de Magic Box en español.
-- + 80 NUEVOS PERSONAJES – Hay más de 80 nuevas figuras para coleccionar, y cada una tiene un súper poder que la hace única. ¡Descubre a los héroes y villanos de Kaboom City!
-- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - CADA SUPERTHING TIENE SU RIVAL – Busca las parejas rivales ¡y forma tus equipos!
-- 6 KAZOOM KIDS PARA COLECCIONAR – Incluye 1 muñeco articulado Kazoom Kid, 1 accesorio para el muñeco y 1 SuperThing. Cada display contiene 6 cápsulas diferentes, la colección al completo.
 - IMAGINACIÓN AL PODER – Ahora los niños y las niñas también pasean por Kaboom City, la ciudad de los SuperThings. ¡Un nuevo universo lleno de sorpresas se abre ante ellos!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
