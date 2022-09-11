@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Papua  ed. en castellano   multicolor  BGPAPSP    color/modelo surtido'
-date: 2022-09-09 19:20:12
+date: 2022-09-11 14:02:09
 image: 'https://m.media-amazon.com/images/I/51v5BOD3CtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07JP9QHHX/?tag=tolees-21'
 descuento: '38.59'
-average: '22.0714285714286'
+average: '22.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los jugadores dirigen una expedición científica a Papúa Nueva Guinea, a finales del siglo XIX
 - Unos 75 minutos por partida
 - A partir de 10 años
 - De 2 a 4 jugadores
+- Los jugadores dirigen una expedición científica a Papúa Nueva Guinea, a finales del siglo XIX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
