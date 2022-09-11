@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego de Cartas Shuffle Retro El Coche Fantástico. Cartamundi'
-date: 2022-09-10 15:23:10
+date: 2022-09-11 16:40:55
 image: 'https://m.media-amazon.com/images/I/41b6KQ+Jk4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Shuffle'
 buyurl: 'https://www.amazon.es/dp/B08WQ6MZNJ/?tag=tolees-21'
 descuento: '37.98'
-average: '9.05299999999999'
+average: '8.95727272727272'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de 8 años. Para 2 jugadores
-- Juego de Cartas Shuffle gama RETRO, modelo "EL COCHE FANTÁSTICO"
-- Revive la mítica serie de "El Coche Fantástico" con este divertido juego de cartas
 - Contiene 80 cartas, 2 dados, fichas e instrucciones del juego en español y en 13 idiomas más
+- A partir de 8 años. Para 2 jugadores
 - Duración aproximada de cada partida: 25 minutos
+- Revive la mítica serie de "El Coche Fantástico" con este divertido juego de cartas
+- Juego de Cartas Shuffle gama RETRO, modelo "EL COCHE FANTÁSTICO"
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
