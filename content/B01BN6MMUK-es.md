@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Guardabarros y estabilizadores.
-- Sillín flexible.
-- Conforme a las normas ISO 8098.
-- Ruedas de plástico y neumáticos de EVA.
-- Freno frontal tipo V.
 - Bicicleta de 12 pulgadas para niño. Edad recomendada 3/5 años.
+- Conforme a las normas ISO 8098.
+- Freno frontal tipo V.
+- Sillín flexible.
+- Guardabarros y estabilizadores.
+- Ruedas de plástico y neumáticos de EVA.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
