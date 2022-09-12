@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GRAN REGALO: este juego de clasificación Montessori es el regalo perfecto de cumpleaños, Pascua, Navidad y Año Nuevo para niños de 1 año en adelante.
-- GARANTÍA DE CALIDAD: 90 días de garantía. Si tiene algún problema de calidad dentro de los 90 días, puede escribirnos, resolveremos el problema lo antes posible.
 - DISEÑO ÚNICO: rompecabezas de varias capas, juguetes Montessori clasificados, juguetes de memoria, múltiples formas de jugar. Contiene juguetes de frutas y verduras de diferentes tamaños con atractivos colores.
+- GARANTÍA DE CALIDAD: 90 días de garantía. Si tiene algún problema de calidad dentro de los 90 días, puede escribirnos, resolveremos el problema lo antes posible.
+- GRAN REGALO: este juego de clasificación Montessori es el regalo perfecto de cumpleaños, Pascua, Navidad y Año Nuevo para niños de 1 año en adelante.
 - DESARROLLE HABILIDADES MOTORAS: Mientras su hijo juega con este juguete de madera, desarrollará habilidades motoras finas, habilidades de pensamiento, coordinación mano-ojo y reconocimiento de formas de colores.
 - CALIDAD Y SEGURIDAD: Nuestros juguetes Montessori están hechos de madera maciza, pintura a base de agua, resistentes y resistentes a la decoloración, con bordes lisos y de gran tamaño para un agarre seguro y para evitar el riesgo de asfixia. Todos nuestros juguetes educativos están libres de BPA y son 100 % seguros para los niños.
 

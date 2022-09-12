@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funda extraíble: el saco térmico se puede extraer fácilmente gracias al práctico cierre de velcro. La funda de oso es lavable a 30 °C y se mantiene siempre fresca y suave
 - Contenido del envío: 1 cojín de huesos de cereza de la colección Bruno / Dimensiones: 15 x 15 cm / Material exterior: felpa, terciopelo, tela, lavable a 30 °C / Número de referencia: 060515
 - Los huesos de cereza se adaptan perfectamente al cuerpo y calman y consolar a los más pequeños
+- Funda extraíble: el saco térmico se puede extraer fácilmente gracias al práctico cierre de velcro. La funda de oso es lavable a 30 °C y se mantiene siempre fresca y suave
 - En el horno se puede calentar fácilmente el interior del cojín – para enfriarlo en una bolsa de plástico en el frigorífico o el congelador
 - En la cuna, en el capazo o en el cochecito, el oso de peluche está siempre contigo: no solo despliega su efecto reconfortante, sino que también es el peluche perfecto para dormir y abrazar
 
