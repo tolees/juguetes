@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje.
 - Número de piezas: 500🧩. Medida aproximada una vez montado: 46 x 34 cm.
-- Nuestros puzzles adultos desde las 500 piezas se recomiendan a partir de 14 años.
+- Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
 - Alta calidad de materiales y encaje óptimo de las piezas. 🌲 Producto respetuoso con el medioambiente.
+- Nuestros puzzles adultos desde las 500 piezas se recomiendan a partir de 14 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
