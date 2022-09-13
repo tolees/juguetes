@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60258 City Nitro Wheels Taller de Tuneo'
-date: 2022-09-11 23:36:32
+date: 2022-09-12 23:46:49
 image: 'https://m.media-amazon.com/images/I/514gEO2t-YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W6QBNM5/?tag=tolees-21'
 descuento: '23.10'
-average: '90.8149847560976'
+average: '90.7831506849315'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
