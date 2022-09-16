@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Jumbo- Okavango - Juego de estrategia a partir de 10 años'
-date: 2022-09-15 12:28:35
+date: 2022-09-16 13:02:20
 image: 'https://m.media-amazon.com/images/I/512hFNP2EEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de jugadores: de 2 a 4
-- Juego de formación y gestión de grupos de Wolfgang Kramer ganador de 5 Spiel des Jahres y Michael Kiesling
 - Contenido: 4 peones: azul, rojo, verde y amarillo, 4 tableros verticales y 12 tableros en forma de reserva natural, 100 fichas de animales, 1 bolsa para guardarlas y un 1 tablero de puntuación
+- Juego de formación y gestión de grupos de Wolfgang Kramer ganador de 5 Spiel des Jahres y Michael Kiesling
 - Juego de estrategia en el que los jugadores tendrán que formar grandes manadas de animales y llevarlos hasta el delta del río o hasta cada uno de los pozos de agua para que sacien su sed
+- Número de jugadores: de 2 a 4
 - Para niños y niñas a partir de los 10 años y también para la edad adulta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
