@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- JUEGO DE MESA DINÁMICO: Los jugadores mueven su peones por el tablero para explorar lugares de interés. El tablero se reconfigura y cambia, revelando habitaciones y pistas mientras que los jugadores resuelven puzles que revelan la mansión
 - RECOLECTA PISTAS: ¡Descubre quién cometió el crimen, dónde y con qué para resolver el misterio y ganar! Busca pistas y recolecta pruebas para la solución final. Mientras más pistas recolecten los jugadores, más fácil será hacer la acusación correcta
 - UN JUEGO DE ESCAPE Y SOLUCIÓN DE MISTERIO: El juego Cluedo Traición en la mansión Tudor ofrece el suspense y la intriga del clásico juego de misterio Cluedo en un dinámico juego de mesa estilo Escape de la Habitación. Para 1 a 6 jugadores, Edad: 10+
-- PARA LAS NOCHES DE JUEGO EN FAMILIA Y CON AMIGOS: Los jugadores pueden adentrarse en una experiencia inmersiva que se juega una sola vez. Es un juego de misterio que permitirá que tus amigos y parientes participen en una historia que no olvidarán
-- JUEGO DE MESA DINÁMICO: Los jugadores mueven su peones por el tablero para explorar lugares de interés. El tablero se reconfigura y cambia, revelando habitaciones y pistas mientras que los jugadores resuelven puzles que revelan la mansión
 - JUEGO DE MISTERIO COOPERATIVO: Vive la experiencia Cluedo en una manera totalmente distinta. Los jugadores unen fuerzas y usan sus habilidades detectivescas para escapar de la mansión antes de que llegue la policía y para resolver el misterio
+- PARA LAS NOCHES DE JUEGO EN FAMILIA Y CON AMIGOS: Los jugadores pueden adentrarse en una experiencia inmersiva que se juega una sola vez. Es un juego de misterio que permitirá que tus amigos y parientes participen en una historia que no olvidarán
 
 [🛒 Aquí!!!]({{< param buyurl >}})
