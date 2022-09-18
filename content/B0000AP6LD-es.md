@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Hay una botella con aplicador de esponja para una distribución uniforme y super facil y rapido de usar porque después de sólo una hora el conservador es seco
 - La botella de 200 ml Puzzle-Conserver Permanent es suficiente para ocho rompecabezas con 500 piezas cada uno o para cuatro rompecabezas con 1000 piezas, etc
-- La botella de 200 ml Puzzle-Conserver Permanent es suficiente para ocho rompecabezas con 500 piezas cada uno o para cuatro rompecabezas con 1000 piezas, etc
 - Modo de suo: aplicar el pegamento en la imagen del rompecabezas y distribúyalo con cuidado, dejar secar durante una hora y limpiar la botella
+- La botella de 200 ml Puzzle-Conserver Permanent es suficiente para ocho rompecabezas con 500 piezas cada uno o para cuatro rompecabezas con 1000 piezas, etc
 - El pegamento líquido se puede aplicar directamente a la superficie del cuadro de los Puzzles Ravensburger, este pagamento es específico para los puzzles Ravensburger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
