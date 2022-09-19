@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Descubre la línea completa de juegos de mesa Alea: Las Vegas, Castillos de Borgoña, Puerto Rico y muchas otras aventuras te esperan.
-- Los jugadores tendrán que desarrollar el área alrededor de su castillo siguiendo reglas precisas y creando un dominio real a través de campos, monasterios, posadas, canteras de mármol y muchos otros elementos.
 - ¡Un juego de estrategia para 2-4 jugadores, también apto para principiantes, lleno de variables que permiten una larga rejugabilidad!
-- La partida se desarrolla en tres fases. Al final de cada fase tiene lugar una puntuación. Tres opciones: - Robar 2 cartas - Coger 1 loseta - Colocar 1 loseta. El jugador que tenga más puntos de victoria gana.
 - El juego de mesa está recomendado para niños a partir de 10 años, la duración media de una partida es de 60 minutos y es un juego perfecto incluso para principiantes
+- Los jugadores tendrán que desarrollar el área alrededor de su castillo siguiendo reglas precisas y creando un dominio real a través de campos, monasterios, posadas, canteras de mármol y muchos otros elementos.
+- La partida se desarrolla en tres fases. Al final de cada fase tiene lugar una puntuación. Tres opciones: - Robar 2 cartas - Coger 1 loseta - Colocar 1 loseta. El jugador que tenga más puntos de victoria gana.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
