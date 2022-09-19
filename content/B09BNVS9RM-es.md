@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este coche de juguete retráctil de color verde y blanco con grandes ruedas y un alerón trasero levantado es un gran regalo de cumpleaños para niños y adolescentes
-- ¡Los peques podrán descubrir nuevas y emocionantes experiencias con la app de RA+ de LEGO con esta maqueta de coche que corre en realidad aumentada como ningún otro!
-- Tras poner a prueba el coche a toda velocidad, conecta la tapa trasera para exponer con orgullo una alucinante maqueta
-- Esta maqueta de coche para construir está repleta de detalles auténticos y rememora el emblemático aspecto del auténtico coche de carreras Ford Mustang Shelby GT500
-- Descarga la app de RA+ de LEGO, escanea la maqueta, tira hacia atrás del coche usando tu pie y ve cómo cobra vida en emocionantes carreras repletas de adrenalina
-- Usa la app de RA+ de LEGO Technic y comprueba los desafíos para descubrir muchas más maneras divertidas para jugar y explorar completamente la maqueta de tu coche de carreras
 - La maqueta del coche Ford Mustang trae toda la emoción de las carreras a los peques, ¡podrán enviar el coche de juguete a toda velocidad gracias a su función retráctil
+- Tras poner a prueba el coche a toda velocidad, conecta la tapa trasera para exponer con orgullo una alucinante maqueta
+- Este coche de juguete retráctil de color verde y blanco con grandes ruedas y un alerón trasero levantado es un gran regalo de cumpleaños para niños y adolescentes
+- Esta maqueta de coche para construir está repleta de detalles auténticos y rememora el emblemático aspecto del auténtico coche de carreras Ford Mustang Shelby GT500
+- Usa la app de RA+ de LEGO Technic y comprueba los desafíos para descubrir muchas más maneras divertidas para jugar y explorar completamente la maqueta de tu coche de carreras
+- ¡Los peques podrán descubrir nuevas y emocionantes experiencias con la app de RA+ de LEGO con esta maqueta de coche que corre en realidad aumentada como ningún otro!
+- Descarga la app de RA+ de LEGO, escanea la maqueta, tira hacia atrás del coche usando tu pie y ve cómo cobra vida en emocionantes carreras repletas de adrenalina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
