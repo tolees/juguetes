@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con vehículos que tienen el mismo aspecto y funcionamiento que los de verdad, el universo LEGO Technic es una gran introducción a la ingeniería para pequeños fans de LEGO
-- El emocionante mundo de Monster Jam cobra vida a medida que los peques recrean épicos trucos de uno de los monster trucks más famosos y emblemáticos de todos los tiempos
-- Incluye instrucciones para construir la maqueta del Grave Digger. También encontrarás la experiencia digital Instructions PLUS en la app gratuita Instrucciones de Montaje LEGO
 - Echa un vistazo a la app gratuita Instrucciones de Montaje LEGO, donde se encuentra Instructions PLUS, con herramientas para acercar y girar el juguete mientras lo construyen
+- Con vehículos que tienen el mismo aspecto y funcionamiento que los de verdad, el universo LEGO Technic es una gran introducción a la ingeniería para pequeños fans de LEGO
+- Incluye instrucciones para construir la maqueta del Grave Digger. También encontrarás la experiencia digital Instructions PLUS en la app gratuita Instrucciones de Montaje LEGO
 - Incluye un vehículo de construcción 2en1 con un motor por fricción y auténticas sorpresas: un Monster Truck de juguete Monster Jam Digger que se convierte en un buggy todoterreno
+- El emocionante mundo de Monster Jam cobra vida a medida que los peques recrean épicos trucos de uno de los monster trucks más famosos y emblemáticos de todos los tiempos
 - Este camión coche de juguete es un monstruoso y divertido regalo de cumpleaños o Navidad para niños y niñas de 7 años en adelante amantes de los vehículos y LEGO
 - Los toques auténticos del monster truck de juguete incluyen pegatinas con gráficos fantasmales, neumáticos enormes, faros rojos y una bandera flexible que se mueve hacia arriba y hacia abajo
 
