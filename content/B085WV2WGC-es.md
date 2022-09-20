@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este coleccionable de Star Wars cuenta con una figura LEGO de Baby Yoda con una palanca de cambios de la nave estelar Razor Crest, su juguete favorito
-- Diviértete durante horas con este adorable set de construcción de El Niño de The Mandalorian, conocido cariñosamente como Baby Yoda
 - Esta fiel réplica es fácil de construir y hará que los peques interpreten sus escenas de The Mandalorian favoritas o que inventen las suyas propias
 - Esta maqueta para construir es la decoración infantil de Star Wars ideal para cualquier hogar, ¡los peques disfrutarán como nunca de tener a El Niño junto a ellos!
-- Este Baby Yoda es una idea de regalo perfecta para niños y niñas de 10 años o más en su cumpleaños o en cualquier ocasión, ¡descubre el universo LEGO Star Wars y la fuerza te acompañará!
 - Este set LEGO incluye una mini figura LEGO de Baby Yoda y un letrero informativo para que los niños completen su proyecto de construcción
+- Este Baby Yoda es una idea de regalo perfecta para niños y niñas de 10 años o más en su cumpleaños o en cualquier ocasión, ¡descubre el universo LEGO Star Wars y la fuerza te acompañará!
+- Este coleccionable de Star Wars cuenta con una figura LEGO de Baby Yoda con una palanca de cambios de la nave estelar Razor Crest, su juguete favorito
 - El ser más bonito de la galaxia tiene cabeza, boca y orejas articuladas para recrear múltiples expresiones, ¡la diversión no se termina después de construir este LEGO Star Wars!
+- Diviértete durante horas con este adorable set de construcción de El Niño de The Mandalorian, conocido cariñosamente como Baby Yoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
