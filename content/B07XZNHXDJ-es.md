@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta figura es una réplica del personaje de la película “La ira de Khan”
-- Mego regresa después de 35 años con las populares líneas de figuras de acción
-- Lleva el uniforme de Star Trek con la chaqueta de color borgoña con el logo de Star Trek en el pecho y los pantalones negros
 - Producto distribuido oficialmente en España por BIZAK.
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Figura articulada
+- Lleva el uniforme de Star Trek con la chaqueta de color borgoña con el logo de Star Trek en el pecho y los pantalones negros
+- Mego regresa después de 35 años con las populares líneas de figuras de acción
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - La figura viene con un cinturón en el que se puede colgar su arma y comunicador
+- Esta figura es una réplica del personaje de la película “La ira de Khan”
 
 [🛒 Visítala!!!]({{< param buyurl >}})
