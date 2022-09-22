@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este look retro representa uno de sus conjuntos más icónicos, el muñeco Rocker Derek de 1985, actualizado con un toque moderno.
-- El muñeco Ken está celebrando su 60.º aniversario con un toque retro.
 - El muñeco​Ken lleva unos pantalones cortos negros, zapatillas blancas...
-- Es un regalo ideal para niñas a partir de 3 años que disfrutarán explorando el mundo de Barbie con su mejor amigo Ken (se venden por separado, sujetos a disponibilidad).
+- El muñeco Ken está celebrando su 60.º aniversario con un toque retro.
 - ... y una chaqueta rosa brillante con un estampado de neón, cuello y detalle amarillo en la camisa amarilla que captura el look de la década.
+- Es un regalo ideal para niñas a partir de 3 años que disfrutarán explorando el mundo de Barbie con su mejor amigo Ken (se venden por separado, sujetos a disponibilidad).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
