@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Combina la línea de tiempo: eventos con cualquier otro título de la serie Timeline para un juego de parachoques
 - Timeline: Los eventos comparten mecanismos con otros juegos dentro de la serie Timeline
+- Combina la línea de tiempo: eventos con cualquier otro título de la serie Timeline para un juego de parachoques
+- En línea de tiempo: eventos, cada una de las tarjetas implica probar tu conocimiento de eventos pasados en sí mismos que han ocurrido
 - La serie de juegos Timeline cuenta con trivia educativa, presentada en un divertido paquete de empuje tu suerte.
 - Versión en inglés | 2 a 8 jugadores | A partir de 8 años | Tiempo de juego de 15 minutos
-- En línea de tiempo: eventos, cada una de las tarjetas implica probar tu conocimiento de eventos pasados en sí mismos que han ocurrido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
