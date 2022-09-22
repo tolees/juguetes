@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75333 Star Wars Caza Estelar Jedi de OBI-WAN Kenobi  Juguete de Construcción para Niños de 7 Años o Más  Droide R4-P17  Taun We y Espadas Láser'
-date: 2022-09-10 18:22:38
+date: 2022-09-22 16:21:32
 image: 'https://m.media-amazon.com/images/I/51MzTTj5mgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFXRYYH-es LEGO 75333 Star Wars Caza Estelar Jedi de OBI-WAN Kenobi...'
 sku: 'B09QFXRYYH-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 23.99 EUR
+actualPrice: 29.36 EUR
 currency: EUR
-price: 23.99
+price: 29.36
 comparePrice: 34.99 EUR
 prodname: 'LEGO 75333 Star Wars Caza Estelar Jedi de OBI-WAN Kenobi  Juguete de Construcción para Niños de 7 Años o Más  Droide R4-P17  Taun We y Espadas Láser'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFXRYYH/?tag=tolees-21'
-descuento: '31.44'
-average: '29.8054285714287'
+descuento: '16.09'
+average: '29.721794871795'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Kids can learn as they build with the free LEGO Building Instructions app that allows users to view, zoom and rotate the model as they build
-- For Star Wars: Attack of the Clones fans aged 7+ years old, this Star Wars buildable toy makes a great birthday Christmas or gift
-- Thrill Star Wars: Attack of the Clones fans with a buildable toy of Obi-Wan Kenobi’s Jedi Starfighter with iconic minifigures and accessories
-- Includes 2 LEGO Star Wars minifigures: Obi-Wan Kenobi with a lightsaber and, for the first time, Taun We, plus an R4-P17 astromech droid figure
-- There is also a minifigure cockpit for Obi-Wan and an attachment point on the wing for the R4-P17 Star Wars droid figures head
-- Kids role-play traveling to Kamino with Obi-Wan and astromech droid R4-P17 to meet Taun We: it could change the course of the Clone Wars!
-- The Star Wars buildable starfighter Toy features 2 stud shooters, retractable landing gear and lightsaber storage clips
+- Este juguete de construcción es un regalo de cumpleaños o de Navidad ideal para niños a partir de 7 años fans de Star Wars: El Ataque de los Clones y coleccionistas de LEGO Star Wars
+- Incluye 2 mini figuras LEGO Star Wars de Obi-Wan Kenobi con una espada láser de juguete, y por primera vez, una de Taun We, además de una figura LEGO del droide astromecánico R4-P17
+- Cuando la aventura y el juego se terminan, esta maqueta de Star Wars para construir del gran caza estelar es una increíble pieza de decoración infantil para las habitaciones de los peques
+- El caza estelar de juguete tiene cabina abatible con espacio para una mini figura, 2 cañones, tren de aterrizaje retráctil, clips para sables de Star Wars y un punto de sujeción en el ala para un droide
+- Emociona a los pequeños fans de Star Wars: El Ataque de los Clones y revive épicas escenas con este juguete de construcción del icónico Caza Estelar de Obi-Wan Kenobi
+- Los niños podrán jugar y simular que viajan a Kamino con Obi-Wan y droide astromecánico de confianza R4-P17, para tener una reunión con Taun We que podría cambiar el curso de las Guerras Clon
+- Este modelo de coleccionista incluye instrucciones impresas y digitales interactivas disponibles en la app Instrucciones de Montaje LEGO con herramientas de rotación, zoom y visualización
 
 [🛒 Comprar!!!]({{< param buyurl >}})
