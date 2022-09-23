@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Party & Co Ultimate  Juego de mesa adulto multiprueba a partir de 16 años'
-date: 2022-09-22 10:17:20
+date: 2022-09-23 12:30:29
 image: 'https://m.media-amazon.com/images/I/514MOwH8Z7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B07TGXHY5W/?tag=tolees-21'
 descuento: '33.37'
-average: '25.557027027027'
+average: '25.4105263157894'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Consigue que tu equipo gane el mayor número de puntos antes de que se acaben las cartas; consigue que tu equipo acierte los temas de las cartas con distintas pruebas ¡El tiempo está en tu contra!
 - El juego tiene cuatro tipos de prueba distintas: PartyMimo, PartyTrazos, PartySaco y PartyDado
+- Contenido: tablero de juego, 250 tarjetas con 500 preguntas, 1 partydado, 1 pizarra, 1 rotulador borrable, 1 gamuza, 2 relojes-peón, 1 bolsa de tela, 22 fichas-respuesta, 6 fichas-hándicap, instrucciones
 - Número de jugadores: 2 equipos de hasta 5 jugadores cada uno
 - Habilidades que desarrolla: capacidad de comunicación y visualización y juego en equipo
-- Contenido: tablero de juego, 250 tarjetas con 500 preguntas, 1 partydado, 1 pizarra, 1 rotulador borrable, 1 gamuza, 2 relojes-peón, 1 bolsa de tela, 22 fichas-respuesta, 6 fichas-hándicap, instrucciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
