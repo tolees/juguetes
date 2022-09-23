@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Construye tu hábitat
 - la supervivencia es la clave
 - Los misterios sumergidos en el Planeta 4546B
-- Construye tu hábitat
 - Exploración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
