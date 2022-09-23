@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Elite 2.0 Commander RD 6'
-date: 2022-09-21 15:02:02
+date: 2022-09-23 18:23:20
 image: 'https://m.media-amazon.com/images/I/41eI+nwF+1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
