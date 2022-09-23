@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Noble Collection - Los dementores de la Colección Noble en el Rompecabezas de Hogwarts de 1000 Piezas'
-date: 2022-09-13 20:46:19
+date: 2022-09-23 16:23:22
 image: 'https://m.media-amazon.com/images/I/51HLQSjnpDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Noble Collection'
 buyurl: 'https://www.amazon.es/dp/B07FM4JDDS/?tag=tolees-21'
 descuento: '54.53'
-average: '13.12'
+average: '12.9133333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
