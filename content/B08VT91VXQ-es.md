@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Subnautica Below Zero'
-date: 2022-09-22 21:35:18
+date: 2022-09-24 08:17:21
 image: 'https://m.media-amazon.com/images/I/51kCAggkSJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08VT91VXQ/?tag=tolees-21'
 descuento: '37.64'
-average: '22.4247058823529'
+average: '22.2872222222222'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construye tu hábitat
 - la supervivencia es la clave
-- Los misterios sumergidos en el Planeta 4546B
+- Construye tu hábitat
 - Exploración
+- Los misterios sumergidos en el Planeta 4546B
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

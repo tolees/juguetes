@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un mundo natural dibujado con el "Atmospheric Shader
 - Desafía al destino que te retiene
 - Vive la historia de dos pueblos enfrentados
+- Un mundo natural dibujado con el "Atmospheric Shader
 
 [🛒 Aquí!!!]({{< param buyurl >}})
