@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Tales of Arise'
-date: 2022-09-22 07:16:50
+date: 2022-09-24 06:28:31
 image: 'https://m.media-amazon.com/images/I/41dkq0dUZBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B093Q8QYQ8/?tag=tolees-21'
 descuento: '19.94'
-average: '62.764375'
+average: '61.4247058823529'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un mundo natural dibujado con el "Atmospheric Shader
-- Vive la historia de dos pueblos enfrentados
 - Desafía al destino que te retiene
+- Vive la historia de dos pueblos enfrentados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
