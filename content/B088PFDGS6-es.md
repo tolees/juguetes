@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con 6 personajes diferentes para coleccionar
+- Colecciónalos todos
 - Figura básica de 15 cm
 - Son personajes articulados e incluyen armas y accesorios
-- Colecciónalos todos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
