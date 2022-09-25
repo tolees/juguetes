@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Edición en Japonés.
 - [Rarezas: Tarjeta de líder x 1, Súper raro x 2, Común x 14]
 - [Contenido: Mazo construido x 1 (51 cartas), Cartas ¡¡DON!! x 10, Hoja de juego x 1] *Contiene algunas cartas idénticas de 17 tipos para fines de juego.
-- Edición en Japonés.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
