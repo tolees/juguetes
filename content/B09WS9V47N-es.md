@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los sombrero de paja unidos
-- Una isla misteriosa
 - Un juego de rol con el toque de One Piece
+- Una isla misteriosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La muñeca chelsea lleva un vestido de princesa con adorno óptima y estampado de corazones, las mangas fruncidas, los detalles de diamantes y un bonito lazo en la cintura que le añaden diversión a la fantasía
-- Dos bebés unicornio, uno rosa y otro morado, cada uno con detalles llamativos, que vienen con un biberón para que los pequeños imaginen historias en las que ayudan a chelsea a cuidarlos
 - El pelo rubio de la muñeca chelsea brilla con reflejos rosados, y completa su look una corona con tema de unicornio
 - Conjunto de regalo barbie dreamtopia con la princesa chelsea en vestido de corazones, 2 bebés unicornio y accesorios, regalo para niñas de 3 a 7 años
 - Las muñecas y juguetes de barbie dreamtopia son coleccionables para mayor opción de juego, se venden por separado y están sujetos a disponibilid
+- Dos bebés unicornio, uno rosa y otro morado, cada uno con detalles llamativos, que vienen con un biberón para que los pequeños imaginen historias en las que ayudan a chelsea a cuidarlos
+- La muñeca chelsea lleva un vestido de princesa con adorno óptima y estampado de corazones, las mangas fruncidas, los detalles de diamantes y un bonito lazo en la cintura que le añaden diversión a la fantasía
 
 [🛒 Comprar!!!]({{< param buyurl >}})

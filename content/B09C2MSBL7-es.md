@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rinde homenaje a los 90 años de construcciones LEGO con este divertido juego LEGO Classic que recrea 15 mini construcciones de populares sets a través de los años
-- Esta caja de 1100 ladrillos LEGO contiene todas las piezas necesarias para construir un icónico barco pirata, un elefante, un tren de juguete, un castillo LEGO amarilo, ¡y mucho más!
 - ¡Los peques podrán compartir este set con adultos y abuelos para disfrutar de una diversión con infinitos recuerdos!
-- Algunas de las emblemáticas recreaciones van desde el Pato de 1932, el Secreto de la Esfinge de 1998, el Bionicle Tahu de 2001 o el LEGO NINJAGO Dragón Dorado de 2013
-- Este set de construcción es un regalo de cumpleaños o cualquier ocasión especial estupendo para niños fans de LEGO de 5 años en adelante
 - Cada una de las 15 mini construcciones viene acompañada de instrucciones paso a paso, para que incluso los niños inexpertos puedan disfrutar de la experiencia de construir sus propios juguetes LEGO
+- Este set de construcción es un regalo de cumpleaños o cualquier ocasión especial estupendo para niños fans de LEGO de 5 años en adelante
 - Este set de construcción también incluye múltiples ladrillos LEGO extra para que los niños puedan construir todo aquello que se les pase por la mente
+- Algunas de las emblemáticas recreaciones van desde el Pato de 1932, el Secreto de la Esfinge de 1998, el Bionicle Tahu de 2001 o el LEGO NINJAGO Dragón Dorado de 2013
+- Esta caja de 1100 ladrillos LEGO contiene todas las piezas necesarias para construir un icónico barco pirata, un elefante, un tren de juguete, un castillo LEGO amarilo, ¡y mucho más!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
