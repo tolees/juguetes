@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Digimon Survive'
-date: 2022-09-25 06:16:22
+date: 2022-09-26 07:58:49
 image: 'https://m.media-amazon.com/images/I/51DAGX3LkYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ·       Preciosos gráficos de estilo anime
-- Combates de juego de rol táctico
 - Una historia que evoluciona
 - Un oscuro cuento de supervivencia y amistad
+- Combates de juego de rol táctico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
