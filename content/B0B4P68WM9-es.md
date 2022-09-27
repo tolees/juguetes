@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros - Lego Harry Potter Collection CIB'
-date: 2022-09-26 15:11:13
+date: 2022-09-27 18:17:30
 image: 'https://m.media-amazon.com/images/I/41wDIUAB3ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Videojuego Code-In-Box para Nintendo Switch
 - Lego Harry Potter Collection CIB. No incluye tarjeta física.
+- Videojuego Code-In-Box para Nintendo Switch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
