@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Pixar Interactables Woody parlanchín  habla con otros muñecos  figura de juguete con sonidos  Mattel HBK99 '
-date: 2022-09-26 12:37:03
+date: 2022-09-27 14:27:30
 image: 'https://m.media-amazon.com/images/I/318jfYPmYyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B08V5LHM46/?tag=tolees-21'
 descuento: '39.98'
-average: '16.1728571428572'
+average: '16.1324137931035'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
