@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Guacamole es un juego desternillante basado en los arcade clásicos.
 - Las reglas son sencillas: ¡golpea los topos cuando se iluminen! Perderás puntos si los golpeas cuando no estén iluminados.
 - Los niños a partir de 4 años se volverán locos con Guacamole, un veloz juego en el que pensar deprisa es fundamental.
+- Guacamole es un juego desternillante basado en los arcade clásicos.
 - ¡Puedes jugar solo o con un amigo!
 - Los niños ejercitarán sus capacidades de concentración y de coordinación visual-manual mientras se parten de risa.
 

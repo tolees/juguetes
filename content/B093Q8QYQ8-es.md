@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vive la historia de dos pueblos enfrentados
-- Desafía al destino que te retiene
 - Un mundo natural dibujado con el "Atmospheric Shader
+- Desafía al destino que te retiene
 
 [🛒 Aquí!!!]({{< param buyurl >}})
