@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La construcción se puede llevar a cabo sin pilas, pero para disfrutar de todas las funciones técnicas de este camión de juguete necesitarás 6 pilas AA de 1,5 V (no incluidas)
 - Controla esta poderosa máquina de 2193 piezas usando la app: podrás conducir hacia delante o atrás, girar, variar la velocidad, cambiar de marcha o vaciar la carga del camión
+- Los vehículos de construcción de juguete de LEGO Technic son una gran idea de regalo de Navidad para los fans de los vehículos controlados por app y control remoto LEGO
 - A través de la app, la diversión continúa mucho después de haber terminado de construir la maqueta del camión de juguete por control remoto
 - Construye una maqueta por control remoto del clásico Dúmper Articulado A60H de Volvo en versión LEGO Technic y disfrutarás de una experiencia de construcción épica
 - Descarga la app CONTROL+ de LEGO Technic y explora las diferentes pantallas de control, los desafíos y los logros, y disfruta de contenido exclusivo
-- Los vehículos de construcción de juguete de LEGO Technic son una gran idea de regalo de Navidad para los fans de los vehículos controlados por app y control remoto LEGO
 - Alimentado por 1 motor de posicionamiento angular grande, 1 motor XL y 1 motor L con un Smart Hub controlado por Bluetooth para reproducir la funcionalidad del original
-- La construcción se puede llevar a cabo sin pilas, pero para disfrutar de todas las funciones técnicas de este camión de juguete necesitarás 6 pilas AA de 1,5 V (no incluidas)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

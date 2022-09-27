@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este juego de construcción de Harry Potter cuenta con un ala de hospital y una torre de reloj de juguete, además de accesorios auténticos de Harry Potter y el Prisionero de Azkaban
 - Incluye mini figuras LEGO Harry Potter de Hermione Granger, Ron Weasley y Madam Pomfrey, además de 2 fichas de cartas de mago aleatorias para coleccionar (hay 16 en total)
-- Los peques giran la torreta de la torre y hacen avanzar asi las manecillas del rejo. ¡Viajarán al pasado y al futuro con el giratiempo y vivirán aventuras mágicas!
-- Esta detallada réplica de juguete del castillo de Hogwarts es una idea mágica de regalo de Harry Potter para los niños y niñas que aman LEGO y el Mundo Mágico
+- Este juego de construcción de Harry Potter cuenta con un ala de hospital y una torre de reloj de juguete, además de accesorios auténticos de Harry Potter y el Prisionero de Azkaban
 - Este juego de Harry Potter para mayores de 8 años forma parte de una serie de juguetes modulares que se combinan entre sí para crear un castillo de Hogwarts LEGO al completo
+- Esta detallada réplica de juguete del castillo de Hogwarts es una idea mágica de regalo de Harry Potter para los niños y niñas que aman LEGO y el Mundo Mágico
+- Los peques giran la torreta de la torre y hacen avanzar asi las manecillas del rejo. ¡Viajarán al pasado y al futuro con el giratiempo y vivirán aventuras mágicas!
 - Los niños pueden recrear la icónica escena del viaje en el tiempo en el ala del hospital y tratar las lesiones en la enfermería para inventar sus propias historias
 
 [🛒 Visítala!!!]({{< param buyurl >}})
