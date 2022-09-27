@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paladone, Juego de cartas El Señor de los Anillos
-- Las tarjetas seleccionadas están decoradas con un gráfico asociado con esta novela de fantasía muy querida
 - La cara de cada carta de este mazo estándar presenta una sección del mapa de la Tierra Media como fondo, con números negros y rojos y detalles del palo
+- Paladone, Juego de cartas El Señor de los Anillos
 - Con licencia oficial, este juego de cartas de El Señor de los Anillos es un maravilloso artículo de colección y una gran pieza de recuerdo
 - Cada uno de estos naipes con licencia oficial del Señor de los Anillos presenta el logotipo y el texto "One Ring" en élfico en el reverso y en la tapa de la práctica lata de almacenamiento
+- Las tarjetas seleccionadas están decoradas con un gráfico asociado con esta novela de fantasía muy querida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
