@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'hahaland - 10 en 1 Camión de Juguetes Niños 2 3 4 5 Años  Coches de Juguetes para Niños con Sonido y Luces  Camion de Transporte Grande con 9 Autos Pequeños de Tracción y Fricción Regalo para Niños 1 2 3 4 5+'
-date: 2022-09-27 02:21:15
+date: 2022-09-28 09:35:09
 image: 'https://m.media-amazon.com/images/I/51FeyO1gAgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'hahaland'
 buyurl: 'https://www.amazon.es/dp/B093LFTWVD/?tag=tolees-21'
 descuento: '15.00'
-average: '35.0450000000001'
+average: '34.9363414634147'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
