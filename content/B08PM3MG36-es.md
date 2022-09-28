@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las piezas se ensamblan sin adhesivo
-- Ravensburger puzzle 3d
 - Revive las aventuras de Super Mario con un un óptimo portalápiz
-- Contiene 54 piezas numeradas e instrucciones
+- Las piezas se ensamblan sin adhesivo
 - Tamaño articulo 7. 7x7. 7x10 cm
+- Contiene 54 piezas numeradas e instrucciones
+- Ravensburger puzzle 3d
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
