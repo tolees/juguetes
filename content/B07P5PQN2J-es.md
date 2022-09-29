@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este divertido juego es fácil de aprender y garantiza la máxima diversión
+- Si se agota el tiempo y no has conseguido apilar correctamente el objeto, paca te escupirá agua
 - En tu turno, pulsa la cabeza de paca para iniciar el cronómetro; tienes cinco segundos para colocar tu objeto en el lomo
 - Apila los objetos por turnos en el lomo de paca la alpaca; vigila el tiempo, que esta alpaca tiene mucho temperamento
 - Gana el primer jugador que apile todos sus objetos; incluye una alpaca que escupe y 16 objetos de colores para apilar
-- Si se agota el tiempo y no has conseguido apilar correctamente el objeto, paca te escupirá agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
