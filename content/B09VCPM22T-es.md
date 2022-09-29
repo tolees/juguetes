@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Vampire: the Masquerade Swansong para PS4 - Versión Española'
-date: 2022-09-28 06:41:48
+date: 2022-09-29 07:06:15
 image: 'https://m.media-amazon.com/images/I/41FTeu4rjDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B09VCPM22T/?tag=tolees-21'
 descuento: '33.14'
-average: '39.9225'
+average: '35.936'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calidad Cinematográfica: sucumbe a la atmósfera oscura y glamurosa magnificada por la música compuesta por Olivier Derivière.
-- Un Thriller de 15 horas que puedes jugar una y otra vez. Acepta las consecuencias de tus decisiones en un juego lleno de giros narrativos y con múltiples finales posibles.
-- Basado en el favorito de culto jugado por 30 millones de personas y desarrollado por especialistas del género, Swansong es un juego de rol basado en la historia, en el que tus elecciones escriben la historia.
 - Un juego de historias con un sistema de PRG Real: Jugabilidad similar a la de Detroit: Become Human y aún más atractiva gracias a las mecánicas inspiradas en el juego de rol: vampire disciplines y Hunger for blood.
+- Un Thriller de 15 horas que puedes jugar una y otra vez. Acepta las consecuencias de tus decisiones en un juego lleno de giros narrativos y con múltiples finales posibles.
 - Juega como 3 vampiros más elegantes de Boston: usa sus poderes y encuentra el equilibrio entre tu bestia interior y tu humanidad para desentrañar una emocionante intriga que decidirá el destino de Boston.
+- Calidad Cinematográfica: sucumbe a la atmósfera oscura y glamurosa magnificada por la música compuesta por Olivier Derivière.
+- Basado en el favorito de culto jugado por 30 millones de personas y desarrollado por especialistas del género, Swansong es un juego de rol basado en la historia, en el que tus elecciones escriben la historia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
