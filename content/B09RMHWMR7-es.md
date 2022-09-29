@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro - Betrayal La Casa de la Colina'
-date: 2022-09-28 09:44:37
+date: 2022-09-29 11:33:28
 image: 'https://m.media-amazon.com/images/I/41+iO3XlpML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09RMHWMR7-es Hasbro - Betrayal La Casa de la Colina'
 sku: 'B09RMHWMR7-es'
 tags: [ 'Juego de mesa','Juegos de preguntas','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','hasbro','🇪🇸', ]
-actualPrice: 39.1 EUR
+actualPrice: 41.99 EUR
 currency: EUR
-price: 39.1
+price: 41.99
 comparePrice: 52.99 EUR
 prodname: 'Hasbro - Betrayal La Casa de la Colina'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hasbro'
 buyurl: 'https://www.amazon.es/dp/B09RMHWMR7/?tag=tolees-21'
-descuento: '26.21'
-average: '40.77'
+descuento: '20.76'
+average: '40.892'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
