@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La Momia ha despertado de su sueño, y quiere recuperar su tesoro robado
+- JUGADOR 1 (MOMIA): Encuentra a los exploradores y, recompone tu tesoro; pero cuidado, el vendaje a veces se cae y te impide ver
 - JUGADOR 2 (EXPLORADORES): Esconderos de la Momia; aprovechad cuando la Momia no ve para cambiar de escondite
 - El juego termina cuando la Momia recupera todas las piezas que componen el tesoro o, cuando finaliza el tiempo sin que antes haya logrado recomponer el Tesoro de la Momia
-- JUGADOR 1 (MOMIA): Encuentra a los exploradores y, recompone tu tesoro; pero cuidado, el vendaje a veces se cae y te impide ver
 
 [🛒 Aquí!!!]({{< param buyurl >}})

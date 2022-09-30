@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego en el que deberás tratar de encontrar todas las pulgas que molestan a Rosco
 - Usa el detector y presiónalo tantas veces como indique para atrapar tantas pulgas como sea posible
+- Juego en el que deberás tratar de encontrar todas las pulgas que molestan a Rosco
 - El jugador que atrape más pulgas gana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
