@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【AMPLIAMENTE UTILIZADO】 ： Es muy adecuado para descargar agua sucia de estanques, piscinas, granjas, fuentes o tanques de agua. Es adecuado para drenaje subterráneo, riego por bombeo y suministro de agua residencial. El cable de alimentación sellado de 10 m de largo hace que el proceso de uso sea más seguro y conveniente.
-- 【ALTA EFICIENCIA DE TRABAJO】 ： Potencia estable de 400w, caudal máximo de 8000 L / h, Max. altura de la bomba hasta 5 m, y la Max. La profundidad de inmersión es de 7 m, esta bomba de agua sumergible pasa fácilmente sólidos de hasta 35 mm de diámetro.
-- 【PROTECCIÓN TÉRMICA】 ： El dispositivo de protección térmica del motor incorporado apaga automáticamente la bomba cuando el calor de la bomba excede los 35 ° C. Después de que el motor de la bomba se enfríe, girará en la bomba. Puede evitar que la bomba se queme debido al sobrecalentamiento.
 - 【TAMAÑO DE SALIDA MÚLTIPLE】 ： Con varios tamaños de conexión de manguera y tubería roscada que incluyen 1 ", 1-1 / 4, G1" y G1-1 / 2 ", puede elegir según el caudal y puede utilizar abrazaderas o roscas para configurar la manguera de desagüe, adecuada para muchas escenas diferentes.
+- 【PROTECCIÓN TÉRMICA】 ： El dispositivo de protección térmica del motor incorporado apaga automáticamente la bomba cuando el calor de la bomba excede los 35 ° C. Después de que el motor de la bomba se enfríe, girará en la bomba. Puede evitar que la bomba se queme debido al sobrecalentamiento.
 - 【INTERRUPTOR DE FLOTADOR AUTOMÁTICO】 ： El interruptor de flotador automático puede detectar el nivel del agua. Cuando el nivel del agua es más bajo que el valor establecido, el interruptor de flotador apagará el motor de la bomba para evitar el ralentí. En este momento, el drenaje todavía se puede continuar mediante control manual y el nivel máximo de agua después del drenaje no es superior a 35 mm.
+- 【ALTA EFICIENCIA DE TRABAJO】 ： Potencia estable de 400w, caudal máximo de 8000 L / h, Max. altura de la bomba hasta 5 m, y la Max. La profundidad de inmersión es de 7 m, esta bomba de agua sumergible pasa fácilmente sólidos de hasta 35 mm de diámetro.
+- 【AMPLIAMENTE UTILIZADO】 ： Es muy adecuado para descargar agua sucia de estanques, piscinas, granjas, fuentes o tanques de agua. Es adecuado para drenaje subterráneo, riego por bombeo y suministro de agua residencial. El cable de alimentación sellado de 10 m de largo hace que el proceso de uso sea más seguro y conveniente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
