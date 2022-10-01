@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vive como un criminal
-- Pisa a fondo
-- Un impresionante entorno de mundo abierto
-- Un juego de acción visceral con una historia original
 - Una versión moderna de los Sandbox de acción clásicos
+- Un impresionante entorno de mundo abierto
+- Pisa a fondo
+- Vive como un criminal
+- Un juego de acción visceral con una historia original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

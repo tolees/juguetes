@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pegatinas
 - Póster
+- Pegatinas
 - Banda sonora digital
 - Incluye:
 

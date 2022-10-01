@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Historia épica: Sumérgete en un mundo rico, desvela los secretos de la situación actual en Nortander; explora Eo, un completo mundo con personajes interesantes e historias desgarradoras
+- Crea y personaliza: crea tu propio héroe y escoge entre distintos árboles de habilidades
 - Fórjate para luchar: álzate con tu propio ejercito y lucha en épicas batallas
+- Historia épica: Sumérgete en un mundo rico, desvela los secretos de la situación actual en Nortander; explora Eo, un completo mundo con personajes interesantes e historias desgarradoras
 - Haz nuevos amigos, reúne a tu grupo de diversos compañeros que no solo complementan tus habilidades en caminos sino que tienen gran impacto en la narrativa; gestiona sus habilidades y equipo para la victoria en la batalla
 - Simplificado para consolas: integración intuitiva en el mando y UI hecha a medida para un control fluido de una mezcla de estrategia y RPG con mecánicas complejas
-- Crea y personaliza: crea tu propio héroe y escoge entre distintos árboles de habilidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

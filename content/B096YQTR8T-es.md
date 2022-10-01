@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Descubre batallas inesperadas y adéntrate en el amplio universo de Battlefield en una plataforma centrada en la comunidad que te permite cambiar las reglas de la guerra
 - Elige tu papel en el campo de batalla y forma patrullas personalizadas con el nuevo sistema de especialistas
+- Da rienda suelta a tu creatividad en combate con toda una selección de armas, vehículos, cazas, helicópteros y nuevo equipamiento de vanguardia inspirado por el futuro cercano del 2043
+- Se necesita una suscripción a PlayStation Plus
 - Disfruta todavía más de una guerra espectacular a gran escala en siete mapas enormes, creados con una filosofía de diseño totalmente nueva
 - Todos los mapas clásicos se han reconstruido desde cero en la última versión de Frostbite, con efectos de destrucción y efectos visuales mejorados, conservando los diseños originales y permitiendo hasta 64 jugadores
-- Descubre batallas inesperadas y adéntrate en el amplio universo de Battlefield en una plataforma centrada en la comunidad que te permite cambiar las reglas de la guerra
-- Se necesita una suscripción a PlayStation Plus
-- Da rienda suelta a tu creatividad en combate con toda una selección de armas, vehículos, cazas, helicópteros y nuevo equipamiento de vanguardia inspirado por el futuro cercano del 2043
 
 [🛒 Aquí!!!]({{< param buyurl >}})
