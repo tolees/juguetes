@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Subnautica Below Zero'
-date: 2022-09-24 08:17:21
+date: 2022-10-01 10:25:49
 image: 'https://m.media-amazon.com/images/I/51kCAggkSJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08VT91VXQ-es BANDAI NAMCO Entertainment Iberica - Subnautica Below Zero'
 sku: 'B08VT91VXQ-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','bandai','bandai namco entertainment iberica','🇪🇸', ]
-actualPrice: 19.95 EUR
+actualPrice: 18.9 EUR
 currency: EUR
-price: 19.95
+price: 18.9
 comparePrice: 31.99 EUR
 prodname: 'BANDAI NAMCO Entertainment Iberica - Subnautica Below Zero'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B08VT91VXQ/?tag=tolees-21'
-descuento: '37.64'
-average: '22.2872222222222'
+descuento: '40.92'
+average: '22.108947368421'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - la supervivencia es la clave
-- Construye tu hábitat
 - Exploración
 - Los misterios sumergidos en el Planeta 4546B
+- Construye tu hábitat
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
