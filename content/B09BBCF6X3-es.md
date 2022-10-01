@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MICRÓFONO CARDIOIDE RAZER HYPERCLEAR: El micrófono plegable cuenta con recubrimiento mejorado y una captura de voz que anula el sonido procedente de los laterales y de la parte posterior, así como control de micrófono y equilibrio juego-chat para garantizar niveles óptimos.
 - Almohadillas FlowKnit de espuma viscoelástica transpirable: Su tejido transpirable minimiza la acumulación de calor y sudor, mientras que la densidad mejorada de la espuma suave reduce enormemente la presión que ejercen los auriculares, para ofrecer un soporte cómodo durante las maratones de juego.
-- Control deslizante de volumen: El control integrado en los auriculares te ofrece la comodidad de poder ajustar los niveles de audio sin tener que trastear con ningún ajuste del sistema o del programa.
 - Botón de silenciar micrófono: Está situado debajo del auricular izquierdo, lo que te permite activar y desactivar fácilmente el micrófono cardioide Razer HyperClear.
 - DIAFRAGMAS DE 50 MM RAZER TRIFORCE: Los Razer Kaira X incluyen diafragmas que pueden sintonizar agudos, medios y graves por separado, lo que produce un sonido más brillante y nítido con agudos más ricos y graves más potentes.
+- Control deslizante de volumen: El control integrado en los auriculares te ofrece la comodidad de poder ajustar los niveles de audio sin tener que trastear con ningún ajuste del sistema o del programa.
+- MICRÓFONO CARDIOIDE RAZER HYPERCLEAR: El micrófono plegable cuenta con recubrimiento mejorado y una captura de voz que anula el sonido procedente de los laterales y de la parte posterior, así como control de micrófono y equilibrio juego-chat para garantizar niveles óptimos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
