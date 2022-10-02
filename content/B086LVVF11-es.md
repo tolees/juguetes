@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye voz, música y efectos de sonido. Contiene un botón con luz que al presionar activa divertidas frases, canciones y melodías. Sus ruedas, al girar, activan el sensor de movimiento del Tut Tut para oír sonidos divertidos.
-- La casa de Cory Bólidos es un divertidísimo set con numerosos elementos y botones para pulsar e interactuar como el reloj, TV, baño…Dispone de un sensor mágico que activa frases, canciones, efectos y melodías al deslizar por ellos vehículos de la colección Tut Tut Cory Bólidos y otros Tut Tut. Además la diversión se amplía con una zona mágica de juego que al colocar en ella los vehículos no electrónicos incluidos activarán numerosas respuestas. Los vehículos y sets están inspirados en la nueva serie infantil que emite Netflix en su plataforma.
-- Tiene el tamaño perfecto para que los niños jueguen con él y es compatible con los sensores mágicos de la gama Tut Tut Bólidos. Un montón de personajes completan esta divertida colección. De venta por separado
-- Versión española
-- Cory. El personaje principal. Cory tiene 5 años es activo y le gusta jugar y vivir aventuras con sus amigos.
 - Tut Tut Cory bólidos es una serie original que trata de las aventuras del entrañable Cory. Cory vive en el pueblo de Autovilla con sus padres, Mamá y Papá Bólidos, y su pequeña hermana Chrissy. El valor de las relaciones familiares, amigos todo con humor son la trama de estos episodios.
+- La casa de Cory Bólidos es un divertidísimo set con numerosos elementos y botones para pulsar e interactuar como el reloj, TV, baño…Dispone de un sensor mágico que activa frases, canciones, efectos y melodías al deslizar por ellos vehículos de la colección Tut Tut Cory Bólidos y otros Tut Tut. Además la diversión se amplía con una zona mágica de juego que al colocar en ella los vehículos no electrónicos incluidos activarán numerosas respuestas. Los vehículos y sets están inspirados en la nueva serie infantil que emite Netflix en su plataforma.
+- Versión española
+- Incluye voz, música y efectos de sonido. Contiene un botón con luz que al presionar activa divertidas frases, canciones y melodías. Sus ruedas, al girar, activan el sensor de movimiento del Tut Tut para oír sonidos divertidos.
+- Cory. El personaje principal. Cory tiene 5 años es activo y le gusta jugar y vivir aventuras con sus amigos.
+- Tiene el tamaño perfecto para que los niños jueguen con él y es compatible con los sensores mágicos de la gama Tut Tut Bólidos. Un montón de personajes completan esta divertida colección. De venta por separado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
