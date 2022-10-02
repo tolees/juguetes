@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Almacenamiento para 5 juegos y bolsillo de malla
 - Licencia oficial para Nintendo Switch
+- Licencia oficial para Nintendo Switch
+- Almacenamiento para 5 juegos y bolsillo de malla
+- Carcasa exterior blanda con cremallera que se adapta a la consola en modo portátil a la perfección
+- Revestimiento de fieltro interior con atril de juego incorporado para modo sobremesa
+- Revestimiento de fieltro interior con atril de juego incorporado para modo sobremesa
 - Diseño exclusivo con collage de personajes de Super Mario
 - Carcasa exterior blanda con cremallera que se adapta a la consola en modo portátil a la perfección
-- Revestimiento de fieltro interior con atril de juego incorporado para modo sobremesa
-- Revestimiento de fieltro interior con atril de juego incorporado para modo sobremesa
-- Licencia oficial para Nintendo Switch
 - Almacenamiento para 5 juegos y bolsillo de malla
-- Carcasa exterior blanda con cremallera que se adapta a la consola en modo portátil a la perfección
 
 [🛒 Visítala!!!]({{< param buyurl >}})
