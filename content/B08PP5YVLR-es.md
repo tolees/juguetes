@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ya puedes utilizar la varita mágica que utiliza Diana en su canal de YouTube, usa la varita como en los vídeos de Love Diana
 - Juguete recomendado para niños y niñas mayores a partir de 3 años de edad fans de Diana y Kids Diana Show
-- Contiene una botella con jabón de burbujas para recargar, se puede rellenar la varita con agua y jabón y seguir haciendo burbujas sin parar
-- Crea burbujas mágicas con la nueva varita de Love Diana, pulsa el otro botón y las burbujas empezarán a salir como por arte de magia
 - ¡Tiene luces en el corazón! Pulsa el botón en forma de corazón y la varita se ilumina igual que la de Diana
+- Contiene una botella con jabón de burbujas para recargar, se puede rellenar la varita con agua y jabón y seguir haciendo burbujas sin parar
+- Ya puedes utilizar la varita mágica que utiliza Diana en su canal de YouTube, usa la varita como en los vídeos de Love Diana
+- Crea burbujas mágicas con la nueva varita de Love Diana, pulsa el otro botón y las burbujas empezarán a salir como por arte de magia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
