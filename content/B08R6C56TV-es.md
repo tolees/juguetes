@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa Otoño en Neuschwanstein. Puzzle de 1500 Piezas. Ref. 19042  Multicolor'
-date: 2022-10-01 11:46:46
+date: 2022-10-02 14:08:30
 image: 'https://m.media-amazon.com/images/I/61aGx6hWhGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de piezas: 1500. Medida aproximada una vez montado: 85 x 60 cm
 - Un puzzle de 1500 piezas del castillo de Neuschwanstein, el edificio más fotografiado de Alemania.
+- Número de piezas: 1500. Medida aproximada una vez montado: 85 x 60 cm
 - Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1894. Educa es sinónimo de calidad y experiencia
 - Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 

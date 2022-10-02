@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es maletín y en ella se pueden guardar todos los accesorios
-- Desarrolla la imaginación y la creatividad
 - Incluye varios animales y accesorios
+- Desarrolla la imaginación y la creatividad
 - Incluye tres figuras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
