@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Juego infantil Caca Chaf!  Hasbro E2489175 '
-date: 2022-10-02 15:06:11
+date: 2022-10-03 15:15:25
 image: 'https://m.media-amazon.com/images/I/51S-Cu9G7ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B079M8YWFM/?tag=tolees-21'
 descuento: '51.76'
-average: '18.3721428571428'
+average: '18.2702325581395'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Pásalo en grande evitando pisar cacas con los ojos vendados
 - Juega con tus amigos o juega a evitar pisar las cacas tú solo
-- Moldea la plastilina incluida para crear montones de caca
 - El jugador que pise menos cacas, gana
+- Moldea la plastilina incluida para crear montones de caca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
