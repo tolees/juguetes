@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este modelo coleccionable de coche deportivo LEGO viene con un chasis más ancho de 8 studs que deja espacio para una cabina de 2 asientos con espacio para 2 mini figuras
 - Cuenta con un modelo LEGO fielmente detallado del coche de carreras de juguete McLaren Elva, el veloz deportivo aerodinámico
+- Incluye una mini figura de piloto de carreras LEGO, completada con su mono de carreras, su casco de carreras y una llave inglesa
 - Los juguetes de coches de carreras LEGO Speed Champions permiten a los niños coleccionar, construir y explorar versiones en miniatura de los automóviles más innovadores del mundo
 - El coche de carreras LEGO tiene un nombre McLaren Elva en su parte trasera, 2 escapes, luces originales y viene con protectores de llantas
-- Incluye una mini figura de piloto de carreras LEGO, completada con su mono de carreras, su casco de carreras y una llave inglesa
-- Este modelo coleccionable de coche deportivo LEGO viene con un chasis más ancho de 8 studs que deja espacio para una cabina de 2 asientos con espacio para 2 mini figuras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
