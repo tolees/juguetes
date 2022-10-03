@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego indicado para favorecer el desarrollo de la imaginación y de la creatividad de los más pequeños
 - Este juguete contiene piezas pequeñas no aptas para menores de 3 años de edad. Jugar bajo la supervisión de un adulto
+- Juego indicado para favorecer el desarrollo de la imaginación y de la creatividad de los más pequeños
+- Set de 4 figuras coleccionables diferentes de los protagonistas de la serie animada Las Pistas de Blue y Tú
 - Los pequeños fans de la serie adorarán jugar con estas figuras de 5 a 10 centímetros, representando sus escenas favoritas
 - Los 4 muñecos reconocibles incluidos en este pack de figuras son: Josh, Blue, Magenta y ‘Pala y Cubo’
-- Set de 4 figuras coleccionables diferentes de los protagonistas de la serie animada Las Pistas de Blue y Tú
 
 [🛒 Aquí!!!]({{< param buyurl >}})
