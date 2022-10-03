@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sega Of America  Inc. - SEGA Mega Drive Classics - Nintendo Switch [Importación inglesa]'
-date: 2022-10-01 16:16:51
+date: 2022-10-03 09:08:18
 image: 'https://m.media-amazon.com/images/I/51cB7FQ8t5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sega Of America, Inc.'
 buyurl: 'https://www.amazon.es/dp/B07HHHZ3YM/?tag=tolees-21'
 descuento: '37.96'
-average: '21.2975'
+average: '21.196'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Additional graphics filters
-- Leaderboards.
-- Touch screen support for menu navigation.
 - Supports TV, Tabletop, and Handheld Modes.
+- Touch screen support for menu navigation.
+- Leaderboards.
 - Online multiplayer 2 players, Single screen local multiplayer.
+- Additional graphics filters
 
 [🛒 Aquí!!!]({{< param buyurl >}})

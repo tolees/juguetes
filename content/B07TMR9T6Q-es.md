@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nueva versión de Atmosfear con Aplicación es un escalofriante y divertido juego de mesa interactivo dónde se combina la estrategia, la habilidad, el suspense y el terror.
+- Una frenética carrera contra el tiempo en la que el objetivo es recoger 6 llaves de colores y enfrentarte a tu mayor temor antes de que la cuenta atrás termine.
+- Pero hay un terrorífico problema: el guardián de la puerta que creará mil y un problemas para evitar que lo consigas apareciendo cuando quiera en tu teléfono, tablet o smart tv.
 - Contenido del juego: 1 tablero, 110 cartas, 6 personajes, 37 llaves y 6 porta llaves, 1 libreta, 2 dados, instrucciones y… El pozo de los terrores.
 - Recomendado a partir de 12 años
-- Una frenética carrera contra el tiempo en la que el objetivo es recoger 6 llaves de colores y enfrentarte a tu mayor temor antes de que la cuenta atrás termine.
 - La duración del juego siempre es diferente, pueden ser 37 minutos, pueden ser 50 minutos… Nunca lo sabrás hasta que comiences el juego.
-- Pero hay un terrorífico problema: el guardián de la puerta que creará mil y un problemas para evitar que lo consigas apareciendo cuando quiera en tu teléfono, tablet o smart tv.
+- Nueva versión de Atmosfear con Aplicación es un escalofriante y divertido juego de mesa interactivo dónde se combina la estrategia, la habilidad, el suspense y el terror.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
