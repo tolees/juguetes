@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho en Italia
 - Fácil encaje, y dibujos sencillos, para conocer el apasionante mundo de los Puzzles mientras aprendes "geografía"
 - Puzzle mapa 250 piezas de Europa para aprender de este continente y su gente
+- Hecho en Italia
 - Favorece la concentración y las habilidades manuales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
