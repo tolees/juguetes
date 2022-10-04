@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Simba Juego de Batalla Naval  A Partir de 5 años  Multicolor  606100335 '
-date: 2022-10-02 12:08:13
+date: 2022-10-03 22:09:44
 image: 'https://m.media-amazon.com/images/I/517W8f4YS-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado a partir de 5 años
-- En un cómodo maletín para poder llevarlo de viaje
 - El clásico juego de batalla naval
 - Dimensiones: 31x21cm
+- Adecuado a partir de 5 años
+- En un cómodo maletín para poder llevarlo de viaje
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
