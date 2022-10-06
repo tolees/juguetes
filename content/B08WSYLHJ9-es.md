@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Ratchet & Clank: Una Dimensión Aparte'
-date: 2022-10-05 13:04:23
+date: 2022-10-06 14:24:11
 image: 'https://m.media-amazon.com/images/I/51jji8y+lCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08WSYLHJ9/?tag=tolees-21'
 descuento: '55.39'
-average: '56.0894915254239'
+average: '55.7493333333335'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Surca el cielo de ciudades, lánzate al combate y salta de dimensión en dimensión con nuevos artefactos que desafían las leyes de la física
+- Ábrete camino hacia tu hogar con un arsenal repleto de nuevas armas explosivas, incluyendo la Burst Pistol, el Topiary Sprinkler y la Shatterbomb
 - Los aventureros intergalácticos regresan a lo grande en Ratchet & Clank: Una Dimensión Aparte
 - Experimenta los saltos intergalácticos por las brechas dimensionales, que combinan nuevos mundos y mecánicas de juego
 - Un malvado emperador robótico se ha lanzado a la conquista de mundos interdimensionales, y el universo de Ratchet y Clank es su próximo objetivo
-- Ábrete camino hacia tu hogar con un arsenal repleto de nuevas armas explosivas, incluyendo la Burst Pistol, el Topiary Sprinkler y la Shatterbomb
-- Surca el cielo de ciudades, lánzate al combate y salta de dimensión en dimensión con nuevos artefactos que desafían las leyes de la física
 
 [🛒 Comprar!!!]({{< param buyurl >}})
