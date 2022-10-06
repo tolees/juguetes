@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Rainbow Six Extraction PS5'
-date: 2022-10-03 15:15:50
+date: 2022-10-06 07:47:20
 image: 'https://m.media-amazon.com/images/I/51AcgMpMSDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B0977KDWNR/?tag=tolees-21'
 descuento: '33.36'
-average: '12.49'
+average: '11.6566666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
