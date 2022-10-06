@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Super Mario 3D World + Bowser s Fury'
-date: 2022-10-05 07:38:39
+date: 2022-10-06 10:19:00
 image: 'https://m.media-amazon.com/images/I/51o9sTaknRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21'
 descuento: '16.67'
-average: '50.2469452449566'
+average: '50.2462068965515'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
