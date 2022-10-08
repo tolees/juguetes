@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels - U.S.S. Enterprise NCC-1701 - HW Screen Time 5/10 - HCV53 - Short Card - Star Trek - Mattel 2022'
-date: 2022-10-06 21:57:49
+date: 2022-10-08 17:33:12
 image: 'https://m.media-amazon.com/images/I/61IdbqJCfWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
