@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Classic Games: Aladdin and The Lion King  PlayStation 4'
-date: 2022-10-08 09:34:01
+date: 2022-10-09 12:20:20
 image: 'https://m.media-amazon.com/images/I/514rJCi0N5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B07X4HX2TQ/?tag=tolees-21'
 descuento: '34.97'
-average: '21.8998113207547'
+average: '21.8166355140187'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
