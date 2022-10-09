@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator Expert-Taj Mahal  detallada maqueta de juguete de una de las siete maravillas del mundo moderno  10256 '
-date: 2022-10-05 00:15:07
+date: 2022-10-08 22:19:16
 image: 'https://m.media-amazon.com/images/I/51zlryLRIML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B077TZTDF6/?tag=tolees-21'
 descuento: '15.69'
-average: '467.582730769234'
+average: '467.705583174'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -31,9 +31,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Mide más de 43 cm de altura, 51 cm de ancho y 51 cm de profundidad
 - Este set incluye más de 5900 elementos LEGO
 - Comercializado originalmente en 2008, el modelo cuenta con 4 fachadas con arcos y ventanas ojivales; cúpula central, 4 cámaras abovedadas auxiliares y 4 minaretes, todos ellos con remates decorativos; plataforma elevada con arcos embutidos; detalles ornamentales; y un elaborado mosaico alrededor de la base
-- Elementos especiales incluidos: 6 bases azules 16 x 32, ladrillos blancos con arco 1 x 5 x 4, numerosos elementos transparentes, ladrillos “Erling” y placas con espiga central
+- Pon a prueba tus habilidades de construcción con uno de los modelos LEGO más grandes jamás creados
 - Interpretación LEGO de una maravilla arquitectónica del mundo real: el Taj Mahal
 - Se divide en 7 secciones modulares para facilitar el transporte
-- Pon a prueba tus habilidades de construcción con uno de los modelos LEGO más grandes jamás creados
+- Elementos especiales incluidos: 6 bases azules 16 x 32, ladrillos blancos con arco 1 x 5 x 4, numerosos elementos transparentes, ladrillos “Erling” y placas con espiga central
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
