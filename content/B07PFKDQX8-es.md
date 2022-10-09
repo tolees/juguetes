@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tranjis Games - POC! - Juego de mesa  TRG-014poc '
-date: 2022-10-05 20:00:50
+date: 2022-10-09 11:03:51
 image: 'https://m.media-amazon.com/images/I/31Mt1GacdCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TRANJIS GAMES'
 buyurl: 'https://www.amazon.es/dp/B07PFKDQX8/?tag=tolees-21'
 descuento: '37.46'
-average: '9.8147222222223'
+average: '9.80216216216224'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
