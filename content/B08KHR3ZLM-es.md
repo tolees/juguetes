@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Joy-Con  I  Neon Azul'
-date: 2022-10-08 15:00:51
+date: 2022-10-10 06:31:26
 image: 'https://m.media-amazon.com/images/I/31Hj17WSqkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08KHR3ZLM/?tag=tolees-21'
 descuento: '40.05'
-average: '34.702894736842'
+average: '34.5815384615384'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
