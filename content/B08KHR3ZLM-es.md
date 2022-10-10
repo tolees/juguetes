@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con los nuevos mandos Joy-Con para Nintendo Switch tendrás flexibilidad total a la hora de jugar y descubrirás nuevas formas de interactuar que transformarán por completo tus experiencias de juego.
 - Los Joy-Con integran nuevas prestaciones que hacen de Nintendo Switch más interactiva. El Joy-Con izquierdo tiene un botón de captura para hacer capturas de pantalla durante tus partidas y compartirlas a través de las redes sociales.
+- Con los nuevos mandos Joy-Con para Nintendo Switch tendrás flexibilidad total a la hora de jugar y descubrirás nuevas formas de interactuar que transformarán por completo tus experiencias de juego.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
