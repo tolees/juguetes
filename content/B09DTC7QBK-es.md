@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 2: Carga hasta 4 mandos Joy-Con simultáneamente
+- producto 1: Set compuesto por un mando Joy-Con azul (Izquierda), un mando Joy-Con amarillo neón (Derecha) y dos correas.
 - producto 1: Con los nuevos mandos Joy-Con para Nintendo Switch tendrás flexibilidad total a la hora de jugar y descubrirás nuevas formas de interactuar que transformarán por completo tus experiencias de juego.
-- producto 1: Su diseño incluye la sofisticada función de vibración HD, que ofrece una vibración mucho más realista que antes, y permite utilizar uno en cada mano o compartirlos con un amigo; además de poder incorporarlos al armazón para controles Joy-Con (venta por separado) que los transformará en un mando de estilo tradicional.
-- producto 2: Ledes individuales que indican el nivel de carga de cada Joy-Con
-- producto 1: Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente.
 - producto 2: Base con peso que proporciona estabilidad
 - producto 2: Diseño sencillo y deslizante para conectar cada Joy-Con al cargador
-- producto 1: Set compuesto por un mando Joy-Con azul (Izquierda), un mando Joy-Con amarillo neón (Derecha) y dos correas.
+- producto 2: Carga hasta 4 mandos Joy-Con simultáneamente
+- producto 1: Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente.
+- producto 2: Ledes individuales que indican el nivel de carga de cada Joy-Con
+- producto 1: Su diseño incluye la sofisticada función de vibración HD, que ofrece una vibración mucho más realista que antes, y permite utilizar uno en cada mano o compartirlos con un amigo; además de poder incorporarlos al armazón para controles Joy-Con (venta por separado) que los transformará en un mando de estilo tradicional.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

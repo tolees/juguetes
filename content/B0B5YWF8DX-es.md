@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mando Pro de Nintendo Switch
-- El Nintendo Switch Pro-Controller incluye cable USB de carga y cuenta con la nueva tecnología de vibración HD, punto NFC para compatibilidad con figuras amiibo y sensores de movimiento.
 - Edición especial Splatoon 3: el mando presenta un diseño estándar con su típico color negro con imágenes de Splatoon 3 y se le añaden en color amarillo y azul los agarres para las mano.
+- El Nintendo Switch Pro-Controller incluye cable USB de carga y cuenta con la nueva tecnología de vibración HD, punto NFC para compatibilidad con figuras amiibo y sensores de movimiento.
+- Mando Pro de Nintendo Switch
 
 [🛒 Aquí!!!]({{< param buyurl >}})
