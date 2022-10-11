@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estratégias únicas
-- Varios modos de juego
-- Temas de Lego favoritos para los fans
 - Luchadores personalizados
 - Eventos comunitarios
+- Varios modos de juego
+- Temas de Lego favoritos para los fans
 
 [🛒 Aquí!!!]({{< param buyurl >}})

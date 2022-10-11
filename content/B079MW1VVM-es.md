@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Travel through a variety of environments, including Jungles, Deserts and Forests spread over 7 worlds
-- Take control of Donkey Kong and his buddies as they try to get back their stolen bananas from invaders from the polar regions
-- Compatible with Nintendo Switch only
-- Play through the entire game with a buddy in local co-op
 - This version adds Funky Mode and a new playable character, Funky Kong (only available in Funky Mode) these additions are aimed at making the game more accessible for inexperienced players
+- Compatible with Nintendo Switch only
+- Take control of Donkey Kong and his buddies as they try to get back their stolen bananas from invaders from the polar regions
+- Play through the entire game with a buddy in local co-op
+- Travel through a variety of environments, including Jungles, Deserts and Forests spread over 7 worlds
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
