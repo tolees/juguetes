@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un mundo masivo que explorar
-- Una nueva aventura protagonizada por donkey kong
-- Una épica aventura táctica protagonizada por ocho héroes
-- Una experiencia táctica renovada
 - Diseñado para Nintendo Switch
+- Una épica aventura táctica protagonizada por ocho héroes
+- Una nueva aventura protagonizada por donkey kong
+- Una experiencia táctica renovada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
