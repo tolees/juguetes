@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Konami - Teenage Mutant Ninja Turtles: The Cowabunga Collection - Switch'
-date: 2022-10-10 20:47:07
+date: 2022-10-12 07:41:44
 image: 'https://m.media-amazon.com/images/I/512POHn2kWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para Nintendo Switch','Videojuegos','konami','🇪�
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92
-comparePrice: 39.99 EUR
+comparePrice: 40.89 EUR
 prodname: 'Konami - Teenage Mutant Ninja Turtles: The Cowabunga Collection - Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Konami'
 buyurl: 'https://www.amazon.es/dp/B0B5F629ZF/?tag=tolees-21'
-descuento: '27.68'
-average: '32.9066666666667'
+descuento: '29.27'
+average: '31.91'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Teenage Mutant Ninja Turtles: The Cowabunga Collection incluye los siguientes juegos clásicos: Ninja Turtles (Arcade); Ninja Turtles: Turtles in Time (Arcade); Ninja Turtles (NES); Ninja Turtles II: The Arcade Game (NES); Ninja Turtles III: The Manhattan Project (NES); Ninja Turtles: Tournament Fighters (NES); Ninja Turtles IV: Turtles in Time (Super Nintendo); Ninja Turtles: Tournament Fighters (Super Nintendo);Ninja Turtles: The Hyperstone Heist (Sega Genesis); Ninja Turtles: Tournament Fighters (Sega Genesis); Ninja Turtles: Fall of The Foot Clan (Game Boy); Ninja Turtles II: Back From The Sewers (Game Boy); Ninja Turtles III: Radical Rescue (Game Boy)
 - ¡La Colección más Completa de Juegos de KONAMI de las tortugas ninja llega a Switch, PlayStation, y Xbox!
 - Nuevas funciones de calidad de vida: Juega onlinecon ciertos juegos y cooperativo local con todos los juegos; Guarda o rebobina en cualquier momento; Asignación de botones ;Arte y bocetos de desarrollo únicos; Contenido multimedia histórico de TMNT; Once versiones regionales japonesas;
-- Teenage Mutant Ninja Turtles: The Cowabunga Collection incluye los siguientes juegos clásicos: Ninja Turtles (Arcade); Ninja Turtles: Turtles in Time (Arcade); Ninja Turtles (NES); Ninja Turtles II: The Arcade Game (NES); Ninja Turtles III: The Manhattan Project (NES); Ninja Turtles: Tournament Fighters (NES); Ninja Turtles IV: Turtles in Time (Super Nintendo); Ninja Turtles: Tournament Fighters (Super Nintendo);Ninja Turtles: The Hyperstone Heist (Sega Genesis); Ninja Turtles: Tournament Fighters (Sega Genesis); Ninja Turtles: Fall of The Foot Clan (Game Boy); Ninja Turtles II: Back From The Sewers (Game Boy); Ninja Turtles III: Radical Rescue (Game Boy)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
