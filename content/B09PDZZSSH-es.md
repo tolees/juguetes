@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este adorable set incluye un loro de vivos colores con alas, patas y ojos móviles, una simpática rana y una simpática mosca
 - Conoce a los encantadores animales de la selva tropical
+- Este adorable set incluye un loro de vivos colores con alas, patas y ojos móviles, una simpática rana y una simpática mosca
 - Conviértete en un camaleón de ojos grandes o en un pez tropical
-- Diviértete dando de comer al hambriento loro, saltando con la simpática rana y volando con la mosca
 - Pero cuidado con la rana, porque le encanta comer moscas
+- Diviértete dando de comer al hambriento loro, saltando con la simpática rana y volando con la mosca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
