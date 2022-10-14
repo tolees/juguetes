@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator Aerogenerador Vestas - Maqueta de juguete de molino de viento moderno  10268 '
-date: 2022-10-13 05:51:54
+date: 2022-10-14 08:53:48
 image: 'https://m.media-amazon.com/images/I/51Kp14II7KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07BLG2LZX/?tag=tolees-21'
 descuento: '15.52'
-average: '256.425319148945'
+average: '256.353069498078'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Este set incluye más de 800 piezas y es apto para mayores de 12 años
+- Incluye 3 minifiguras: una mujer y 2 técnicos de Vestas con una V impresa en el torso; contiene también una figura de un perro
+- Incluye un motor LEGO Power Functions mediano, un alimentador a pilas y 2 cables prolongadores de 50 cm (novedad en enero de 2018)
+- Gira la góndola a la izquierda o a la derecha y activa el motor Power Functions incluido para mover las aspas ajustables del aerogenerador e iluminar de verdad el porche de la casa
 - Celebra la tecnología que nos permite aprovechar las energías renovables con este juguete científico para construir
 - El set LEGO Creator Expert Aerogenerador Vestas cuenta también con un aerogenerador con aspas ajustables, una detallada torre y góndola móvil con balizas de señalización para el tráfico aéreo; un vehículo de mantenimiento de Vestas; árboles y vegetación; y una casa con jardín, flores, valla y patio con 2 sillas, mesa y sombrilla
-- Accesorios incluidos: 2 cascos de seguridad, herramientas y 2 sobres
-- Gira la góndola a la izquierda o a la derecha y activa el motor Power Functions incluido para mover las aspas ajustables del aerogenerador e iluminar de verdad el porche de la casa
-- Incluye 3 minifiguras: una mujer y 2 técnicos de Vestas con una V impresa en el torso; contiene también una figura de un perro
 - Mide aproximadamente 100 cm de altura, 62 cm de ancho y 31 cm de profundidad
-- Incluye un motor LEGO Power Functions mediano, un alimentador a pilas y 2 cables prolongadores de 50 cm (novedad en enero de 2018)
-- Este set incluye más de 800 piezas y es apto para mayores de 12 años
+- Accesorios incluidos: 2 cascos de seguridad, herramientas y 2 sobres
 - Abre las puertas del vehículo de mantenimiento y despliega el compartimento de herramientas retráctil
 - Incluye un abeto fabricado en plástico vegetal obtenido a partir de fuentes sostenibles (novedad en enero de 2019)
 
