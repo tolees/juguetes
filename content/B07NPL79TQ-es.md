@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ab 6 Jahren
 - Ver ffentlichungsdatum: 31. Oktober 2019
+- Ab 6 Jahren
 - Sprache: Deutsch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
