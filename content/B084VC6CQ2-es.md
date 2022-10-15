@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- gato
 - LEGO Creator Promo Polybag Set
-- Contiene 48 piezas
+- gato
 - Pequeño objeto de colección, no necesariamente adecuado como regalo para niños
+- Contiene 48 piezas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
