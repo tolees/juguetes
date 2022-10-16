@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games UNO Showdown  juego de cartas  Mattel GKC04 '
-date: 2022-10-09 21:42:16
+date: 2022-10-16 14:31:28
 image: 'https://m.media-amazon.com/images/I/519Jjh5XlsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Juego de mesa','Juegos de cartas','Juegos de cartas con baraja específ
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5
-comparePrice: 27.0 EUR
+comparePrice: 24.99 EUR
 prodname: 'Mattel Games UNO Showdown  juego de cartas  Mattel GKC04 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Mattel Games'
 buyurl: 'https://www.amazon.es/dp/B085B5JHWB/?tag=tolees-21'
-descuento: '35.19'
-average: '16.4713793103449'
+descuento: '29.97'
+average: '16.5056666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

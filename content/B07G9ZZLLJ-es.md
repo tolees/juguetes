@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schleich- Figura dinosaurio Dimorphodon  9 50 cm.'
-date: 2022-10-15 13:44:16
+date: 2022-10-16 14:33:10
 image: 'https://m.media-amazon.com/images/I/41OUl0KZMvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Pintada minunciosamente a mano
 - Dimensiones: 16,10 x 7,60 x 9,50 cm (ancho x largo x alto)
-- Gama dinosaurs de schleich
 - Figura dinosaurio dimorphodon modelada con gran detalle
+- Gama dinosaurs de schleich
 
 [🛒 Comprar!!!]({{< param buyurl >}})

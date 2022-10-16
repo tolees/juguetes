@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 43463 DC100 Funkoverse - Juego de mesa  4 personajes  multicolor'
-date: 2022-10-11 14:27:45
+date: 2022-10-16 15:58:02
 image: 'https://m.media-amazon.com/images/I/51nVOjmf1wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- POP! Funkoverse: Gotham City Rumble
 - Funko verse juego de mesa de Funko
 - Contains Funko POP! Figuras coleccionables de vinilo.
-- POP! Funkoverse: Gotham City Rumble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
