@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schleich- Figura dinosaurio Giganotosaurus  18 cm.'
-date: 2022-10-15 06:25:39
+date: 2022-10-16 10:00:39
 image: 'https://m.media-amazon.com/images/I/41QEIEQi8eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pintada minunciosamente a mano
+- Dimensiones: 10.30 x 20.10 x 18.0 cm (ancho x largo x alto)
 - Con mandíbla inferior articulada
 - Gama dinosaurs de schleich
-- Pintada minunciosamente a mano
 - Figura dinosaurio giganotosaurus modelada con gran detalle
-- Dimensiones: 10.30 x 20.10 x 18.0 cm (ancho x largo x alto)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
