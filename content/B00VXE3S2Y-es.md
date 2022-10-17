@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuadro de aluminio bajo : más fácil y práctico para subirse
+- Accionamientos Shimano Revoshift RS35
 - Llantas de aluminio, ruedas 28"
 - Portabultos trasero integrado en el cuadro
-- Cuadro de aluminio bajo : más fácil y práctico para subirse
-- Cesta delantera & Luz delantera y trasera
 - Manetas de freno de aluminio
 - Bicicleta Urbana comoda gracias a la posición de la espalda recta.
-- Accionamientos Shimano Revoshift RS35
 - Piñón original Shimano
 - Frenos V-Brake de aluminio
+- Cesta delantera & Luz delantera y trasera
 - Cambio Shimano TZ-50 18 velocidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
