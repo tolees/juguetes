@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AMANKA Conmutador HDMI Switch HDMI 3 Entradas a 1 Salida  Duplicador HDMI 3D 4K  Compatible PS4 PS3 Xbox Switch Chromecast DVD BLU-Ray Decodificador Receptor Satélite TV'
-date: 2022-10-16 23:08:10
+date: 2022-10-18 04:30:11
 image: 'https://m.media-amazon.com/images/I/41CSdJBmjfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AMANKA'
 buyurl: 'https://www.amazon.es/dp/B09ND84MYM/?tag=tolees-21'
 descuento: '25.02'
-average: '15.4344444444444'
+average: '15.09'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
