@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Pokemon Perla Reluciente'
-date: 2022-10-13 15:31:54
+date: 2022-10-21 16:39:05
 image: 'https://m.media-amazon.com/images/I/41j-qWZLgpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08Y6GQT1J/?tag=tolees-21'
 descuento: '49.94'
-average: '48.5521818181818'
+average: '48.31'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
