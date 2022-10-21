@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: La isla olvidada  Ed. Español  BGEXIT5    color/modelo surtido'
-date: 2022-10-19 19:40:09
+date: 2022-10-21 12:11:12
 image: 'https://m.media-amazon.com/images/I/51A0jM6rN+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07CNQRVHN/?tag=tolees-21'
 descuento: '33.67'
-average: '11.0553333333333'
+average: '10.98625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dificultad: avanzado
-- Entre 45 y 90 minutos de partida
 - Edad: a partir de 12 años
+- Entre 45 y 90 minutos de partida
 - De 1 a 4 jugadores
+- Dificultad: avanzado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
