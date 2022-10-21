@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En Pokémon Perla Reluciente recorrerás la región de Sinnoh. Esta tierra de naturaleza exuberante es el origen de numerosos mitos e historias que se han transmitido de generación en generación.
-- Los usuarios que hayan jugado ya a Pokémon Diamante y Pokémon Perla podrán visitar de nuevo lugares familiares y disfrutar otra vez de escenas conocidas.
 - Tanto la historia como la escala de los pueblos y las rutas del juego original se han reproducido fielmente.
+- Los usuarios que hayan jugado ya a Pokémon Diamante y Pokémon Perla podrán visitar de nuevo lugares familiares y disfrutar otra vez de escenas conocidas.
+- En Pokémon Perla Reluciente recorrerás la región de Sinnoh. Esta tierra de naturaleza exuberante es el origen de numerosos mitos e historias que se han transmitido de generación en generación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak Figura Mego 20 cm Star Trek Capitan Kirk La Ira de Khan  64032872 '
-date: 2022-10-09 13:34:45
+date: 2022-10-21 17:37:35
 image: 'https://m.media-amazon.com/images/I/41KKBqbT35L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La figura viene con un cinturón en el que se puede colgar su arma y comunicador
-- Figura articulada
-- Lleva el uniforme de Star Trek con la chaqueta de color borgoña con el logo de Star Trek en el pecho y los pantalones negros
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- Mego regresa después de 35 años con las populares líneas de figuras de acción
-- Producto distribuido oficialmente en España por BIZAK.
 - Esta figura es una réplica del personaje de la película “La ira de Khan”
+- Producto distribuido oficialmente en España por BIZAK.
+- Lleva el uniforme de Star Trek con la chaqueta de color borgoña con el logo de Star Trek en el pecho y los pantalones negros
+- Mego regresa después de 35 años con las populares líneas de figuras de acción
+- Figura articulada
+- La figura viene con un cinturón en el que se puede colgar su arma y comunicador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
