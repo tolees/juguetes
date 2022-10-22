@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Dragon Ball Z: Kakarot + A New Power Awakens Set'
-date: 2022-10-20 11:02:15
+date: 2022-10-22 06:06:12
 image: 'https://m.media-amazon.com/images/I/41lg3K+EG1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0983XRM8H/?tag=tolees-21'
 descuento: '24.99'
-average: '49.655'
+average: '49.4446666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuevas Sub Búsquedas: una vez completadas, permitirán desbloquear a Gotens y Vegito.
 - Nivel de dificultad: Los niveles de dificultad se añadirán al juego con el fin de que los jugadores puedan elegir el que les resulte más apropiado.
+- Nuevas Sub Búsquedas: una vez completadas, permitirán desbloquear a Gotens y Vegito.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
