@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Tennis World Tour 2 PS4 [Version Española]'
-date: 2022-10-17 17:33:12
+date: 2022-10-22 12:07:25
 image: 'https://m.media-amazon.com/images/I/51Y4GiNyrAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B08GTGFYJJ/?tag=tolees-21'
 descuento: '78.35'
-average: '20.9811111111111'
+average: '20.182'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Múltiples modos de juego: Carrera, Partida rápida, En línea, Torneo, Partidas clasificatorias y Tie Break Decenas: hay un formato para cada jugador
-- 38 estrellas del tenis: los nombres más importantes se presentan este año, incluidos Rafael Nadal, Roger Federer y Ashleigh Barty
-- Con un juego más realista y la posibilidad de jugar como las estrellas de tenis más grandes en competiciones de fama mundial, Tennis World Tour 2 es un simulador desarrollado para complacer tanto a los fans del tenis como a los jugadores más exigentes.
 - Características muy esperadas: la capacidad de jugar partidos de dobles con hasta 4 jugadores localmente y en línea, un sistema de servicio mejorado y una nueva mecánica de sincronización de tiros
 - 1 formato de competición: Tie Break Tens
+- 38 estrellas del tenis: los nombres más importantes se presentan este año, incluidos Rafael Nadal, Roger Federer y Ashleigh Barty
 - Múltiples estadios oficiales, entre ellos la cancha de Manolo Santana en Madrid y el OWL Arena en Halle
+- Múltiples modos de juego: Carrera, Partida rápida, En línea, Torneo, Partidas clasificatorias y Tie Break Decenas: hay un formato para cada jugador
+- Con un juego más realista y la posibilidad de jugar como las estrellas de tenis más grandes en competiciones de fama mundial, Tennis World Tour 2 es un simulador desarrollado para complacer tanto a los fans del tenis como a los jugadores más exigentes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
