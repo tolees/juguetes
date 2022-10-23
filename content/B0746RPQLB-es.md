@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mando PS4 Nacon  PS4OFCPADCLBLUE  Compact Azul Transparente'
-date: 2022-10-16 17:25:23
+date: 2022-10-23 13:55:09
 image: 'https://m.media-amazon.com/images/I/41ftm45EBWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B0746RPQLB/?tag=tolees-21'
 descuento: '35.23'
-average: '31.7955555555556'
+average: '30.7236363636364'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel táctil funcional
-- Indicador LED de jugador
+- Conector para auriculares de 3.5 mm
 - 2 motores de vibración
 - La carcasa transparente y la retroiluminación mediante LED permiten que el mando brille en la oscuridad
-- Conector para auriculares de 3.5 mm
+- Indicador LED de jugador
+- Panel táctil funcional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
