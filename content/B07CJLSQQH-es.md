@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Inkl. III: Reaper of Souls
-- Nehmt an saisonalen Events teil und verdient exklusive Belohnungen wie Rüstungssets, Gefährten und andere teuflisch coole Extras
-- Inkl. Rückkehr des Totenbeschwörers
 - Inkl. III
+- Inkl. Rückkehr des Totenbeschwörers
+- Nehmt an saisonalen Events teil und verdient exklusive Belohnungen wie Rüstungssets, Gefährten und andere teuflisch coole Extras
 
 [🛒 Visítala!!!]({{< param buyurl >}})

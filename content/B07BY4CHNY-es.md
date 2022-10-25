@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Game requires content download
 - 100+ levels, remastered with breathtaking graphical updates and improved gameplay controls
 - Rekindle the fire with remastered versions of the original three games, Spyro the Dragon, Spyro 2 Riptos Rage! and Spyro Year of the Dragon
 - The original roast master is back! Same sick burns, same smouldering attitude, now all scaled up in stunning HD
-- Game requires content download
 
 [🛒 Comprar!!!]({{< param buyurl >}})

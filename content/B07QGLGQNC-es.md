@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Potty car includes wheels, fun sounds, seat belt, custom toilet paper and care pottypedia plus stickers for customization
-- Battery operated, suitable for Bellies and Mini Bellies
-- Your Bellies Potty Car is now here: with wheels, cute sounds and accessories, full of surprises and the most fun play for children
 - In addition, the Bellie will move in a very funny way when you roll it, it is the perfect gift for children aged 3 and up with which they wont stop laughing and having fun, along with the stories of the naughty and crazy Bellies from Bellyville
+- Your Bellies Potty Car is now here: with wheels, cute sounds and accessories, full of surprises and the most fun play for children
 - Every time you roll the potty car a fun pooop will appear, watch the Pottypedia to see which has been touched and cared for your Bellie needs; plus a pink brush that you can clean it and then start again so that the fun doesnt stop
+- Battery operated, suitable for Bellies and Mini Bellies
+- Potty car includes wheels, fun sounds, seat belt, custom toilet paper and care pottypedia plus stickers for customization
 
 [🛒 Visítala!!!]({{< param buyurl >}})
