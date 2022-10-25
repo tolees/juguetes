@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Customise Your Game! Whether you are a Raider or a Survivor choose your progression path and unlock perks, skins, etc. to fine tune your own personal look and strategy to escape as a Survivor or hunt as a Raider.
-- Enjoy Unique Power Ups And Items! Vehicles, weapons, grappling hooks, etc.. Make the most of each against the Raider and strive for survival
-- Escape As A Team… Or On Your Own! Cooperate with others while there is still time but the Raider or other Survivors’ decisions may force you to go it alone. How will you play?
 - Trapped In A Temporal Seam! As a Survivor, escape from a large map composed of several areas, but be careful! The Raider is always on the lookout and may destroy areas limiting any chance of escape.
 - Enjoy The First Of Three Iconic Raiders - Cell, Buu or Frieza from the Dragon Ball franchise! As a Raider, you will enjoy overwhelming powers to hunt and wipe out survivors. Master each of the Raider’s powers to track and catch your victims, and evolve to get even more powerful!
+- Escape As A Team… Or On Your Own! Cooperate with others while there is still time but the Raider or other Survivors’ decisions may force you to go it alone. How will you play?
+- Enjoy Unique Power Ups And Items! Vehicles, weapons, grappling hooks, etc.. Make the most of each against the Raider and strive for survival
+- Customise Your Game! Whether you are a Raider or a Survivor choose your progression path and unlock perks, skins, etc. to fine tune your own personal look and strategy to escape as a Survivor or hunt as a Raider.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

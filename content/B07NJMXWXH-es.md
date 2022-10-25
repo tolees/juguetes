@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PDP LVL50 Cableado Headset PS4 Negro'
-date: 2022-10-20 14:00:59
+date: 2022-10-25 21:05:57
 image: 'https://m.media-amazon.com/images/I/31fh5ztp0aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07NJMXWXH-es PDP LVL50 Cableado Headset PS4 Negro'
 sku: 'B07NJMXWXH-es'
 tags: [ 'Accesorios para PlayStation 4','Accesorios para PlayStation 5','Auriculares gaming con micrófono para PlayStation 4','Hardware y juegos para PlayStation 4','Hardware y juegos para PlayStation 5','Videojuegos','pdp','ps4','🇪🇸', ]
-actualPrice: 23.14 EUR
+actualPrice: 29.0 EUR
 currency: EUR
-price: 23.14
+price: 29.0
 comparePrice: 49.99 EUR
 prodname: 'PDP LVL50 Cableado Headset PS4 Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PDP'
 buyurl: 'https://www.amazon.es/dp/B07NJMXWXH/?tag=tolees-21'
-descuento: '53.71'
-average: '25.1025000000001'
+descuento: '41.99'
+average: '25.5355555555556'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
