@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - De 2 a 6 jugadores.
+- Coge tus piezas favoritas, incluido el famoso DeLorean, y hagamos un viaje en el tiempo. Porque "si vas a viajar en el tiempo en un coche, ¡más vale que elijas uno que se vea bien! *Nota: Este producto no viaja realmente en el tiempo.
 - Contenido: 1 tablero de juego, 6 fichas, 28 cartas de título, 16 cartas de futuro, 16 cartas de pasado, 1 paquete de billetes de Monopoly, 32 casas rebautizadas como Pellets de Plutonio, 12 hoteles rebautizados como Cajas de Plutonio, 2 dados y 1 libro de reglas.
 - Monopoly de Regreso al Futuro: juego de mesa en el que el objetivo es ser el último jugador que no quiebre. Versión en francés. Edición de Regreso al Futuro.
-- Coge tus piezas favoritas, incluido el famoso DeLorean, y hagamos un viaje en el tiempo. Porque "si vas a viajar en el tiempo en un coche, ¡más vale que elijas uno que se vea bien! *Nota: Este producto no viaja realmente en el tiempo.
 - ¡Santo cielo! "Si mis cálculos son correctos..." esta versión del Monopoly debería enviarte directamente al mundo de la trilogía de Regreso al Futuro. Compra y colecciona lugares emblemáticos de Hill Valley como la casa de los McFly de 2015, la mansión de Doc de 1955 o el famoso reloj del ayuntamiento de 1885.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
