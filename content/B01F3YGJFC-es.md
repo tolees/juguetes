@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- You can use amiibo on your Wii U by tapping them to the NFC touchpoint on the Wii U GamePad.You can also use amiibo on your New Nintendo 3DS and New Nintendo 3DS XL by tapping them to the NFC area on the bottom screen. Alternatively, using the NFC Reader/Writer Accessory you can use amiibo on your Nintendo 2DS, Nintendo 3DS and Nintendo 3DS XL
-- Made for Play! Discover New Characters, Explore New Game Modes, and So Much More!
-- Tap your Splatooon amiibo and receive new missions with rewards! set of 2 figure
 - Callie is the cheeriest member of the pop idol duo known as the Squid Sisters in the Splatoon game, while Marie is the sassiest member
+- Tap your Splatooon amiibo and receive new missions with rewards! set of 2 figure
+- Made for Play! Discover New Characters, Explore New Game Modes, and So Much More!
+- You can use amiibo on your Wii U by tapping them to the NFC touchpoint on the Wii U GamePad.You can also use amiibo on your New Nintendo 3DS and New Nintendo 3DS XL by tapping them to the NFC area on the bottom screen. Alternatively, using the NFC Reader/Writer Accessory you can use amiibo on your Nintendo 2DS, Nintendo 3DS and Nintendo 3DS XL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
