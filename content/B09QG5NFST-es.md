@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76401 Harry Potter Patio de Hogwarts: Rescate de Sirius  Prisionero de Azkaban  Torre del Castillo  Juguete de Construcción para Niños de 8 Años'
-date: 2022-10-23 22:28:32
+date: 2022-10-25 23:05:22
 image: 'https://m.media-amazon.com/images/I/51haGpppU3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una gran idea de regalo para jóvenes magos y brujas de 8 años en adelante, que es muy fácil de construir gracias a la app gratuita Instrucciones de Montaje LEGO
-- Este set incluye 2 cromos mágicos aleatorios (hay 16 en total) que los peques pueden coleccionar
-- Los peques pueden revivir la emocionante escena de la fuga de Sirius Black en Harry Potter y el Prisionero de Azkaban o crear sus propias historias voladoras a lomos de Buckbeak
-- Cuenta con una torre de juguete de 3 pisos, decorada con plantas colgantes, enredaderas, telarañas y antorchas, además de una escalera de caracol que conduce a una sala de guardia y una celda
-- Entre los accesorios del set se incluyen la famosa escoba de carreras de juguete Firebolt de Harry, esposas, una vela, una varita, y comida y bebida para Buckbeak
-- Este juguete de construcción incluye las mini figuras LEGO de Harry Potter, Hermione Granger y Sirius Black, y una figura del Hipogrifo Buckbeak con alas móviles y espacio en la espalda para una mini figura
-- Los niños pueden construir la celda de la torre del castillo de Hogwarts y el patio interior, este set modular se conecta a otros de la gama LEGO Harry Potter, ¡podrás recrear Hogwarts al completo!
+- This LEGO Hogwarts Castle set includes 3 minifigures; Harry Potter with his famous Firebolt racing broomstick, Hermione Granger and Sirius Black
+- Kids can reenact exciting scenes from Harry Potter and the Prisoner of Azkaban or conjure up their own stories with this LEGO Harry Potter toy
+- Kids can build the prison cell high in the Hogwarts tower & connect the set with others in the series to create an entire Hogwarts Castle
+- The playset features a tower, with plants, wall vines, spider webs and torches, plus a spiral staircase leading to a guard room and a cell
+- This LEGO Harry Potter toy makes a great birthday, Christmas or any occasion gift idea for young witches and wizards 8 plus years old
+- The LEGO Harry Potter castle also includes wand and handcuffs accessories, plus 2 random wizard card tiles (16 in total) for kids to collect
+- Features a Buckbeak the Hippogriff figure with movable wings and space on the back to carry a passenger, plus food and a drinking barell
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
