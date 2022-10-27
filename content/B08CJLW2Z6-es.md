@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Imágenes sugerentes, impresión de calidad, recortes precisos, materiales resistentes y preciosos.
-- A partir de 10 años.
-- Fabricado en Italia.
 - Rompecabezas de 500 piezas, con dimensiones 49 x 36 cm.
+- Fabricado en Italia.
+- A partir de 10 años.
 - Da un paso atrás en el tiempo a los fabulosos años 80 con la nueva gama de rompecabezas de Clementoni dedicada a la serie de culto Netflix. Ahora todos podrán revivir las emocionantes aventuras de los niños de Hawkins.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
