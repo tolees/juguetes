@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42078 Technic Mack Anthem'
-date: 2022-10-24 17:47:46
+date: 2022-10-26 23:50:44
 image: 'https://m.media-amazon.com/images/I/51EYij8K7AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Edad recomendada por el fabricante: 11-16
-- Mack Anthem
-- Número de piezas: 2595
-- Incluye elementos decorados especiales y el logotipo del fabricante, así como un emblemático adorno Mack para el capó con forma de bulldog y un juego de adhesivos de gran realismo
-- Cuenta también con un remolque desmontable con estabilizadores extensibles, patas de apoyo, brazos de grúa sincronizados y un contenedor con puertas que se pueden cerrar
+- This 2-in-1  truck toy rebuilds into a replica of the iconic Mack LR garbage truck
+- Manufacturer recommended age: 11-16
+- Number of pieces: 2595
+- Mack Anthem
+- Features a detachable trailer with extendable outriggers, landing legs, synchronized crane arms and a container with lockable doors
 
 [🛒 Comprar!!!]({{< param buyurl >}})
