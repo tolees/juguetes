@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de jugadores: máximo 4 equipos de 2 jugadores cada uno
-- Las cinco pruebas del juego son: trazos y dibujos, música y gestos, tararear y sonidos, la definición y la pregunta y todas las tarjetas tienen dos niveles de dificultad
-- Contenido: tablero, 4 peones, un bolígrafo, una pizarra, una gamuza para borrar la pizarra, un reloj de arena, carta de códigos y de pruebas
-- Es la versión del juego de mesa Party & Co para los niños; Para jugar hay que dividirse por equipos y superar distintas pruebas; Ganará el primero en llegar a la casilla final
 - Habilidades que desarrolla: capacidad de comunicación y visualización y juego en equipo
+- Es la versión del juego de mesa Party & Co para los niños; Para jugar hay que dividirse por equipos y superar distintas pruebas; Ganará el primero en llegar a la casilla final
+- Número de jugadores: máximo 4 equipos de 2 jugadores cada uno
+- Contenido: tablero, 4 peones, un bolígrafo, una pizarra, una gamuza para borrar la pizarra, un reloj de arena, carta de códigos y de pruebas
+- Las cinco pruebas del juego son: trazos y dibujos, música y gestos, tararear y sonidos, la definición y la pregunta y todas las tarjetas tienen dos niveles de dificultad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
