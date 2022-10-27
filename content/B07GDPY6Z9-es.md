@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con PS4, Xbox One, PC y Nintendo Switch (solo audio - no chat), a través de conector jack de 3,5 mm
 - Microfono con cancelacion de ruido externo
-- Estructura de diadema solida y acolchada para largas horas de uso
 - Gran calidad de audio
+- Estructura de diadema solida y acolchada para largas horas de uso
+- Compatible con PS4, Xbox One, PC y Nintendo Switch (solo audio - no chat), a través de conector jack de 3,5 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

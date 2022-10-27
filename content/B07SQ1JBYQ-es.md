@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Rizmo es el amigo que evoluciona de forma independiente y mágica
 - Interactúan emocional y físicamente con el niño de forma divertida a través de la música, las canciones y el baile
-- Crece, aprende, recuerda, y responde con humor
 - Edad mínima recomendada: 6 años
+- Crece, aprende, recuerda, y responde con humor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
