@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dragón del Brujo de los Muertos
-- Detallado set de juego ninja con un dragón NINJAGO de juguete y 6 minifiguras: el héroe Jay, el héroe Kai, la heroína Nya, el Brujo de los Muertos y 2 Guerreros Desvelados. Los niños podrán interpretar aventuras o participar en el emocionante juego de mesa.
-- Número de piezas: 1016
 - El dragón LEGO cuenta con patas, alas y cola móviles, y puede disparar misiles con 2 cañones, así como lanzar huesos y arañas. Las figuras de ninjas también podrán participar en un juego de mesa para escapar de los Calabozos de Shintaro.
+- Detallado set de juego ninja con un dragón NINJAGO de juguete y 6 minifiguras: el héroe Jay, el héroe Kai, la heroína Nya, el Brujo de los Muertos y 2 Guerreros Desvelados. Los niños podrán interpretar aventuras o participar en el emocionante juego de mesa.
 - Edad recomendada por el fabricante: 9+
+- Número de piezas: 1016
+- Dragón del Brujo de los Muertos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
