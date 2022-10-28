@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ábrelo para descubrir un mundo lleno de divertidas actividades: la puerta del establo se abre para que puedas poner dentro una muñeca o un caballo, gira el barril para que las muñecas Polly o Shani puedan montarse en el caballo y den vueltas de 360grados, la puerta de la valla se abre y puedes levantarla para que los saltos de los caballos sean un poco más complicados, una de las muñecas puede darse un paseo en globo (se mueve de arriba a abajo), mueve el lagarto para hacer que se muevan los cactus y, además, las dos amigas podrán relajarse en la bala de paja. ¡Qué bien nos lo pasamos en el rancho!
 - La tecnología Polly Stick permite pegar las muñecas a cualquier parte del estuche. Solo hay que colocar la pegatina de la hoja incluida y las muñecas se pegarán a la zona adhesiva.
-- El estuche tiene también una correa para que las niñas puedan llevarlo como una pequeña cartera o un bolso. Es tan pequeño, ¡que te lo puedes llevar a cualquier lugar!
 - Este adorable estuche del rancho de Cactus Cowgirl del mundo de bolsillo es ideal para llevárselo a todas partes. Cuando lo abras, descubrirás millones de aventuras en el rancho con las muñecas Polly y Shani en miniatura y sus 2 monísimos caballos.
 - ¡Con tantas actividades y accesorios divertidos, Polly y Shani están preparadas para la aventura de sus vidas en el rancho del cactus!
+- El estuche tiene también una correa para que las niñas puedan llevarlo como una pequeña cartera o un bolso. Es tan pequeño, ¡que te lo puedes llevar a cualquier lugar!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

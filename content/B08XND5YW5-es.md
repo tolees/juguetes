@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cada cual elige su minijuego favorito por turnos
 - Descubre elvideojuego inspirado en el cómic y sumérgete en el universo de las Sisters, dos hermanas especialistas en travesuras
 - 24 minijuegos delirantes, directamente salidos de la imaginación de las Sisters: lanzamiento de unicornio, fábrica de cupcakes, ping-pong extremo
-- Cada cual elige su minijuego favorito por turnos
-- Diviértete en familia o con amigos en uno de sus 4 modos multijugador: Desafíos, Torneo, Todo o nada e Alrededor del mundo
 - Recorre la ciudad de las Sisters y completa búsquedas y desafíos en el modo Aventura
+- Diviértete en familia o con amigos en uno de sus 4 modos multijugador: Desafíos, Torneo, Todo o nada e Alrededor del mundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
