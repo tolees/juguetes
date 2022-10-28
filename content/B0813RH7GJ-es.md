@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71721 Ninjago Dragón del Brujo de los Muertos'
-date: 2022-10-27 00:27:32
+date: 2022-10-28 01:26:14
 image: 'https://m.media-amazon.com/images/I/518CDUAX78L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813RH7GJ/?tag=tolees-21'
 descuento: '22.33'
-average: '77.1378287461776'
+average: '77.1462804878051'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

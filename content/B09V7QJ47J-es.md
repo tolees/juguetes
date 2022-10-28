@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Airlab Puzzles de Madera Animales Infantil  Rompecabezas Bebes  Juguetes y Juegos Montessori Educativos para Niños y Niñas 1 2 3 4 año  Regalo de Aprendizaje Temprano Fiesta de Cumpleaños de Navidad'
-date: 2022-10-25 05:57:52
+date: 2022-10-28 01:35:55
 image: 'https://m.media-amazon.com/images/I/51Qx2rZ7rXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Airlab'
 buyurl: 'https://www.amazon.es/dp/B09V7QJ47J/?tag=tolees-21'
 descuento: '20.01'
-average: '15.5544444444444'
+average: '15.4510526315789'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
