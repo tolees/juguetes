@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
-- Medidas aproximadas del puzzle una vez montado: 40 x 28 cm.
-- Dragon Ball Super y Educa se han unido para crear este fantástico puzzle con Piccolo, y Goku, Trunks, Vegeta y Gotan transformados en super saiyanes en la famosa batalla de los dioses.
-- Puzzle de 300 piezas, recomendado a partir de 8 años.
 - Beerus, el dios de la destrucción, ha despertado después de años de letargo. Al escuchar que un súper saiyan logró derrotar a Freezer, viaja a la Tierra para retarlo. Goku deberá prepararse para el combate más difícil de su vida.
+- Puzzle de 300 piezas, recomendado a partir de 8 años.
+- Dragon Ball Super y Educa se han unido para crear este fantástico puzzle con Piccolo, y Goku, Trunks, Vegeta y Gotan transformados en super saiyanes en la famosa batalla de los dioses.
+- Medidas aproximadas del puzzle una vez montado: 40 x 28 cm.
+- Alta calidad de materiales y encaje óptimo de las piezas. Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
