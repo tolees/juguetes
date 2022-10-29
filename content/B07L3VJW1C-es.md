@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestros puzzles adultos a partir de 500 piezas se recomiendan a partir de 14 años.
-- Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
-- Alta calidad de materiales y encaje óptimo de las piezas. 🌲 Producto respetuoso con el medioambiente.
 - Número de piezas: 5000🧩. Medida aproximada una vez montado: 157 x 107 cm.
 - Incluye servicio de pieza perdida hasta agotar existencias
+- Alta calidad de materiales y encaje óptimo de las piezas. 🌲 Producto respetuoso con el medioambiente.
+- Nuestros puzzles adultos a partir de 500 piezas se recomiendan a partir de 14 años.
+- Creando puzzles desde 1967. Educa es sinónimo de calidad y experiencia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

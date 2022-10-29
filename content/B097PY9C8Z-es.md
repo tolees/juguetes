@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vive la experiencia de unboxing de tus personajes favoritos de las famosas películas de Harry Potter; abre los compartimentos y descubre al cachorro o qué hechismo usa el personaje que has encontrado
-- 10 personajes diferentes para coleccionar y una minifigura de Harry Potter de edición limitada que juega a a Quidditch en su escoba
-- Descubre a qué casa de Hogwarts pertenece tu minifigure: Grifondoro, Tabsorosso, Corvonero o Serpeverde
-- Cada paquete sorpresa incluye un personaje con 7 accesorios y con indicadores para descubrir su identidad antes de abrirlo
 - Los personajes disponibles son: Harry Potter, Severus Snape, Draco Malfoy, Ron Weasley, Hermione Granger, Luna Lovegood, Cedric Diggory, Ginny Weasley, Cho Chang
+- Descubre a qué casa de Hogwarts pertenece tu minifigure: Grifondoro, Tabsorosso, Corvonero o Serpeverde
+- 10 personajes diferentes para coleccionar y una minifigura de Harry Potter de edición limitada que juega a a Quidditch en su escoba
+- Cada paquete sorpresa incluye un personaje con 7 accesorios y con indicadores para descubrir su identidad antes de abrirlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

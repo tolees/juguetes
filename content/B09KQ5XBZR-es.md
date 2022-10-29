@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Churchill. Tres lideres, la Paz en Conflicto es un juego de mesa donde los jugadores representan los papeles de Churchill, Roosevelt y/o Stalin en su carrera para determinar quién deberá liderar las fuerzas aliadas en la Segunda Guerra Mundial.
 - El jugador cuyas fuerzas colectivas tengan mayor control sobre los poderes del eje derrotados logará la paz y ganará el juego. "Churchill" no se trata de un juego de guerra, sino que se ambienta en un conflicto político de cooperación y a la vez competición.
-- Edad recomendada: +14 años.
+- Churchill. Tres lideres, la Paz en Conflicto es un juego de mesa donde los jugadores representan los papeles de Churchill, Roosevelt y/o Stalin en su carrera para determinar quién deberá liderar las fuerzas aliadas en la Segunda Guerra Mundial.
 - Edicion en Castellano. Garantia nacional, envio desde España (Zaragoza)
 - Numero de Jugadores: 1-3. Tiempo de juego: 180 Minutos
+- Edad recomendada: +14 años.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
