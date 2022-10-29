@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El interior contiene también un asiento que se transforma en una cama, una camiseta con el lema Make LEGO Models, Not War y un estante trasero con una planta
 - Cuenta también con 11 ventanas exteriores, cortinas de cuadros escoceses y espejos laterales
 - Mide 30 cm de longitud y 16 cm de altura
+- El interior contiene también un asiento que se transforma en una cama, una camiseta con el lema Make LEGO Models, Not War y un estante trasero con una planta
 - Abre la puerta trasera y descubre el detallado motor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
