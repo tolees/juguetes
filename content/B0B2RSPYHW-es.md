@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 16 habilidades que desbloquear ¡Puedes trazar tu nombre de verdad con la punta de la espada!
 - Métete en la piel del Zorro o de su hermana Inés -18 niveles
-- El Sargento García, Bernard, Tornado…..Están todos los personajes principales
 - Mecánicas de juego variadas inspiradas en los mejores juegos de aventuras que combinan acción, combate, sigilo y puzles. ¡Y no muere nadie!
+- 16 habilidades que desbloquear ¡Puedes trazar tu nombre de verdad con la punta de la espada!
+- El Sargento García, Bernard, Tornado…..Están todos los personajes principales
 - Coloridos entornos de dibujos animados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

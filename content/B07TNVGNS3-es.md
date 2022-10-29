@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido: tablero de juego, 70 fichas, 12 tarjetas de color, un contenedor de fichas e instrucciones
 - A partir de 4 años
-- Sé el primero en encontrar las imágenes en el tablero, reúne como tantas fichas como sea posible y gana
+- Contenido: tablero de juego, 70 fichas, 12 tarjetas de color, un contenedor de fichas e instrucciones
 - Juego del Lince con los personajes de las películas y series de Disney y Pixar: Coco, Up, Ralph, Rapunzel, Toy story, Cars 2 y Brave
+- Sé el primero en encontrar las imágenes en el tablero, reúne como tantas fichas como sea posible y gana
 
 [🛒 Aquí!!!]({{< param buyurl >}})
