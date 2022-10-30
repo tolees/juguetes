@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🔨 CRISTAL TEMPLADO: protege la pantalla de tu Nintendo Switch Lite de golpes y rayones con dureza máxima.
-- 👾 STARTER PACK: los tres componentes que necesitas para potenciar tu consola, fabricados con materiales de alta calidad para una mayor duración.
-- 🛡️ TAPAS PROTECTORAS: fundas de silicona que protegen tus joysticks y mejoran el agarre para una mejor precisión durante tus partidas.
 - 🎮 COMPATIBILIDAD TOTAL: todos los elementos del Indeca Gaming Pack son compatibles a la perfección con tu Nintendo Switch Lite.
+- 🔨 CRISTAL TEMPLADO: protege la pantalla de tu Nintendo Switch Lite de golpes y rayones con dureza máxima.
 - 🎧 CASCOS ERGONÓMICOS: con almohadillas en la diadema y orejeras para más comodidad. También tienen micrófono retráctil con botón de mute y son compatibles con todos los dispositivos con entrada universal de minijack de 3.5mm.
+- 🛡️ TAPAS PROTECTORAS: fundas de silicona que protegen tus joysticks y mejoran el agarre para una mejor precisión durante tus partidas.
+- 👾 STARTER PACK: los tres componentes que necesitas para potenciar tu consola, fabricados con materiales de alta calidad para una mayor duración.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
