@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Más de 400 máquinas, nuevas categorías, de más de 100 marcas agrícolas.
-- Modo multijugador relajado y familiar para 1-16 jugadores
-- Nuevos cultivos y maquinaria: uva, olivo y sorgo.
-- Ciclos estacionales agregan nuevas mecánicas de juego.
 - Cadenas de producción agregan una nueva capa económica.
+- Más de 400 máquinas, nuevas categorías, de más de 100 marcas agrícolas.
+- Nuevos cultivos y maquinaria: uva, olivo y sorgo.
+- Modo multijugador relajado y familiar para 1-16 jugadores
+- Ciclos estacionales agregan nuevas mecánicas de juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
