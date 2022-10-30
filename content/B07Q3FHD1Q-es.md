@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Digimon Survive'
-date: 2022-10-21 08:11:11
+date: 2022-10-30 08:06:29
 image: 'https://m.media-amazon.com/images/I/415dAH165uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07Q3FHD1Q/?tag=tolees-21'
 descuento: '20.23'
-average: '52.9244444444445'
+average: '52.9515789473685'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
