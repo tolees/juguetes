@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Kraken X for Console - Gaming Headset  Auriculares de Juego ultraligeros para Xbox One con Sonido Envolvente 7.1  Controles Integrados  Verde'
-date: 2022-10-26 09:17:43
+date: 2022-11-01 18:19:55
 image: 'https://m.media-amazon.com/images/I/21uUMzvlGBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0968NDKLP-es Razer Kraken X for Console - Gaming Headset Auriculares de...'
 sku: 'B0968NDKLP-es'
 tags: [ 'Accesorios para Juegos PC','Auriculares gaming para PC','Electrónica','Juegos y Accesorios para PC','Videojuegos','razer','xbox','🇪🇸', ]
-actualPrice: 38.99 EUR
+actualPrice: 34.99 EUR
 currency: EUR
-price: 38.99
+price: 34.99
 comparePrice: 59.99 EUR
 prodname: 'Razer Kraken X for Console - Gaming Headset  Auriculares de Juego ultraligeros para Xbox One con Sonido Envolvente 7.1  Controles Integrados  Verde'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Razer'
 buyurl: 'https://www.amazon.es/dp/B0968NDKLP/?tag=tolees-21'
-descuento: '35.01'
-average: '38.0928571428571'
+descuento: '41.67'
+average: '37.705'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
