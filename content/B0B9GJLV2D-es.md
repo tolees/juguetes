@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Guarda hasta tres perfiles personalizados en el mando y cambia entre ellos sobre la marcha.
-- Usa la tecnología inalámbrica de Xbox, Bluetooth o el cable USB-C incluido para jugar en Xbox Series X|S, Xbox One y PC Windows.
 - Disfruta de opciones de personalización sin límites con opciones de asignación de botones exclusivas en la app Accesorios de Xbox.
-- Juega más tiempo con hasta 40 horas de duración de la batería recargable y componentes refinados diseñados para durar.
 - Incluye los componentes que necesitas para desatar tu mejor juego. Los componentes adicionales se venden por separado.
 - Juega como un profesional con el Mando inalámbrico Xbox Elite Series 2: Core (blanco), con palancas de mando de tensión ajustable, agarre texturizado envolvente y bloqueos de gatillos más cortos.
+- Juega más tiempo con hasta 40 horas de duración de la batería recargable y componentes refinados diseñados para durar.
+- Usa la tecnología inalámbrica de Xbox, Bluetooth o el cable USB-C incluido para jugar en Xbox Series X|S, Xbox One y PC Windows.
+- Guarda hasta tres perfiles personalizados en el mando y cambia entre ellos sobre la marcha.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
