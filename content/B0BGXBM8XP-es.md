@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【 Conveniente & pequeño 】Conecta y reproduce, no se requieren controladores, configuraciones ni software; Tamaño: 10*3*1,7 cm, longitud del cable: 15 cm, listo para guardar en el bolsillo.
-- 【 Amplia compatibilidad 】 HUB USB C Compatible con todos los sistemas y dispositivos con puertos USB C (los puertos deben ser compatibles con la salida de video) y varios dispositivos externos como teléfonos móviles, teclados, ratones, etc.
 - 【 3 puertos HUB USB 】HUB UBC C con 1 puerto USB 3.0 ( 5Gbps ) para transferencia de datos extremadamente rápida; 2 puertos USB 2.0 ( 480Mbps) para transferencia de datos y conexión de periféricos(teclado, ratón, etc.)
 - 【 4k HDMI 】HUB USB C HDMI soporta 3840*2160 4K@30HZ, y puede emitir video 4K/visualización de juegos en 3D/PPT de oficina en la pantalla extendida. (Consejo: el puerto USB C de su dispositivo debe soportar la salida de vídeo)
+- 【 Conveniente & pequeño 】Conecta y reproduce, no se requieren controladores, configuraciones ni software; Tamaño: 10*3*1,7 cm, longitud del cable: 15 cm, listo para guardar en el bolsillo.
+- 【 Amplia compatibilidad 】 HUB USB C Compatible con todos los sistemas y dispositivos con puertos USB C (los puertos deben ser compatibles con la salida de video) y varios dispositivos externos como teléfonos móviles, teclados, ratones, etc.
 - 【 PD 100W 】El puerto de carga ultrarrápida PD del USB C HUB proporciona suficiente corriente para los dispositivos conectados al USB C hub.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
