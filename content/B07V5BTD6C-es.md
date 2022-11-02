@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POP! Funkoverse: Gotham City Rumble
 - Funko verse juego de mesa de Funko
 - Contains Funko POP! Figuras coleccionables de vinilo.
+- POP! Funkoverse: Gotham City Rumble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

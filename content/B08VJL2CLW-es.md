@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El Patrón
+- El Patrón
+- El Patrón
+- El Patrón
 - Caja de Carton
-- El Patrón
-- El Patrón
-- El Patrón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
