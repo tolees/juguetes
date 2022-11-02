@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - No Man´S Sky'
-date: 2022-10-28 15:04:35
+date: 2022-11-02 18:30:51
 image: 'https://m.media-amazon.com/images/I/41h73r+hkbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B51LN8PK-es BANDAI NAMCO Entertainment Iberica - No Man´S Sky'
 sku: 'B0B51LN8PK-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','bandai','bandai namco entertainment iberica','🇪🇸', ]
-actualPrice: 43.99 EUR
+actualPrice: 36.35 EUR
 currency: EUR
-price: 43.99
+price: 36.35
 comparePrice: 54.41 EUR
 prodname: 'BANDAI NAMCO Entertainment Iberica - No Man´S Sky'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0B51LN8PK/?tag=tolees-21'
-descuento: '19.15'
-average: '43.19'
+descuento: '33.19'
+average: '41.2357142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye 6 años de actualizaciones
 - Embárcate en un viaje increible
 - Un universo cambiante
+- Incluye 6 años de actualizaciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
