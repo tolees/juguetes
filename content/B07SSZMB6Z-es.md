@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Cyberpunk 2077 - Edición Day One'
-date: 2022-10-24 07:29:03
+date: 2022-11-02 15:28:28
 image: 'https://m.media-amazon.com/images/I/51Hmnmvv9SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B07SSZMB6Z/?tag=tolees-21'
 descuento: '33.34'
-average: '44.7262015503879'
+average: '44.5359230769234'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los artículos digitales incluyen: música original, folleto de arte que incluye una selección de diseños del juego, cómic digital "Cyberpunk 2077: Tu voz", manual de Cyberpunk 2020, fondos de pantalla para escritorio y teléfono móvil.
+- Estuche con discos de juego.
 - Postales de Night City.
 - Pegatinas.
 - Portada reversible.
-- Estuche con discos de juego.
 - Mapa de Night City.
 - Antología del mundo que detalla el escenario y la historia del juego.
-- Los artículos digitales incluyen: música original, folleto de arte que incluye una selección de diseños del juego, cómic digital "Cyberpunk 2077: Tu voz", manual de Cyberpunk 2020, fondos de pantalla para escritorio y teléfono móvil.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
