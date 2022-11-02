@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Usa a Cappy, la gorra de Mario, para poder enfrentarte a tus enemigos, descubre nuevos movimientos, con los que podrás tomar el control de todo tipo de cosas como objetos y enemigos
-- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
-- La princesa Peach ha vuelto a desaparecer - enfráscate en todo tipo de aventuras para rescatar a Peach de las garras de Bowser
-- Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
-- Inclusión de circuitos inéditos en el modo batalla
-- Descubre el modo de juego cooperativo para 2 jugadores, usando cada uno un Joy-Con; de esta forma un jugador controlará a Mario y otro a Cappy
-- Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
 - Los Pokémon que aparecen cambian en función del sector donde os encontréis y el tiempo que haga
+- Usa a Cappy, la gorra de Mario, para poder enfrentarte a tus enemigos, descubre nuevos movimientos, con los que podrás tomar el control de todo tipo de cosas como objetos y enemigos
+- La princesa Peach ha vuelto a desaparecer - enfráscate en todo tipo de aventuras para rescatar a Peach de las garras de Bowser
 - Una emocionante aventura en los nuevos juegos de rol Pokémon Espada
+- Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
+- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
+- Inclusión de circuitos inéditos en el modo batalla
+- Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
+- Descubre el modo de juego cooperativo para 2 jugadores, usando cada uno un Joy-Con; de esta forma un jugador controlará a Mario y otro a Cappy
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
