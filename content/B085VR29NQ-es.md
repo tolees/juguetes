@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baztoy Coche Teledirigido Coche RC Acrobacia Rotación Volteo de 360 Grados  Mini Coches de Juguetes Niños 3 4 5 6 7 8 9 10 11 12 Años  Coche Radiocontrol para Regalos Navidad Cumpleaños'
-date: 2022-11-01 06:57:54
+date: 2022-11-02 07:12:45
 image: 'https://m.media-amazon.com/images/I/51MjHgfjG1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Baztoy'
 buyurl: 'https://www.amazon.es/dp/B085VR29NQ/?tag=tolees-21'
 descuento: '17.18'
-average: '15.3070243902437'
+average: '15.3050485436891'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
