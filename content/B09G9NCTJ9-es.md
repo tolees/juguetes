@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 4 niveles de dificultad
 - Juego de estrategia para 1-4 jugadores
-- Juego Roll&Write: ¡lanza el dado, anota la jugada y acumula puntos!
 - Descubre la línea completa de juegos de mesa Alea: Castillos de Toscana, Las Vegas, Puerto Rico y muchas otras aventuras te esperan!
+- Juego Roll&Write: ¡lanza el dado, anota la jugada y acumula puntos!
+- 4 niveles de dificultad
 - Del famoso autor Richard Garfield
 
 [🛒 Comprar!!!]({{< param buyurl >}})

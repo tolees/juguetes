@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🧸 Material: Material de tela de felpa de alta calidad, algodón PP súper suave, duradero y agradable al tacto.
-- 🧸 Regalo: Excelente regalo para Navidad, Año Nuevo, cumpleaños. Un juguete de peluche para regalar a niños.
-- 🧸 Peluche: El peluche tiene un tamaño de 25 cm.
-- 🧸 Diferentes Modelos: Bonnie, Chica, Circus Baby, Foxy the Pirate, Freddy Fazbear, Funtime Foxy, Funtime Freddy, Twisted Foxy, Nightmare Foxy, Nightmare Freddy, Rockstar Foxy, Springtrap Bonnie, Nightmare Chica.
 - 🧸 Embalaje: este peluche se envía en un embalaje envasado al vacío.
+- 🧸 Material: Material de tela de felpa de alta calidad, algodón PP súper suave, duradero y agradable al tacto.
+- 🧸 Peluche: El peluche tiene un tamaño de 25 cm.
+- 🧸 Regalo: Excelente regalo para Navidad, Año Nuevo, cumpleaños. Un juguete de peluche para regalar a niños.
+- 🧸 Diferentes Modelos: Bonnie, Chica, Circus Baby, Foxy the Pirate, Freddy Fazbear, Funtime Foxy, Funtime Freddy, Twisted Foxy, Nightmare Foxy, Nightmare Freddy, Rockstar Foxy, Springtrap Bonnie, Nightmare Chica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
