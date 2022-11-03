@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eleven Force - Juego de Mesa Estratégico EL Patron'
-date: 2022-11-02 11:40:25
+date: 2022-11-03 13:05:32
 image: 'https://m.media-amazon.com/images/I/516z4Xo1dIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Patrón
-- El Patrón
-- El Patrón
-- El Patrón
 - Caja de Carton
+- El Patrón
+- El Patrón
+- El Patrón
+- El Patrón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
