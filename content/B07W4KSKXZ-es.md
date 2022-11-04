@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60253 City Camión de los Helados de Juguete  Set de Construcción con 2 Mini Figuras y Perrito  Regalo Verano para Niños y Niñas de 5 Años o Más'
-date: 2022-11-02 12:31:45
+date: 2022-11-04 01:21:29
 image: 'https://m.media-amazon.com/images/I/51wlv6egzeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B07W4KSKXZ/?tag=tolees-21'
 descuento: '15.01'
-average: '16.6660209424084'
+average: '16.6677083333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
