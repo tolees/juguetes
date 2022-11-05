@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su escudo puede ser lanzado
-- Recomendación de edad: a partir de 4 años
 - Necesita una batería
+- Recomendación de edad: a partir de 4 años
 - Captain America figura de acción coleccionable
+- Su escudo puede ser lanzado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
