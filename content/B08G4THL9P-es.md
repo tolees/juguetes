@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60287 City Grandes Vehículos Tractor  Granja de Juguete  Mini Figura de Granjero  Regalo Niños de 5 Años  Cumpleaños o Detalle Colegio'
-date: 2022-11-04 07:52:41
+date: 2022-11-06 00:04:39
 image: 'https://m.media-amazon.com/images/I/514hhOLUJ4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08G4THL9P/?tag=tolees-21'
 descuento: '15.01'
-average: '16.7048623853214'
+average: '16.7061643835619'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
