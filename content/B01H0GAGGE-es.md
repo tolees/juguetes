@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain Lego Dimensions: Fantastic Beasts  Story Pack '
-date: 2022-11-02 08:25:03
+date: 2022-11-06 07:07:29
 image: 'https://m.media-amazon.com/images/I/5127Dd0sfmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B01H0GAGGE/?tag=tolees-21'
 descuento: '47.37'
-average: '15.0072'
+average: '15.1213157894737'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Podrás disfrutar de la recogida de mini figuras adicionales, vehículos, objetos y nuevo nivel
+- 3 minifiguras LEGO (Batman, Gandalf un Cool-Tag)
 - ponerlo en el juguete LEGO Pad
+- Podrás disfrutar de la recogida de mini figuras adicionales, vehículos, objetos y nuevo nivel
 - independiente de la plataforma
 - El Batimóvil LEGO
-- 3 minifiguras LEGO (Batman, Gandalf un Cool-Tag)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
