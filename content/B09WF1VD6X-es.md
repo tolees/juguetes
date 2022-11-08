@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diviértete con el magnífico juguete de los dinosaurios: PLAYMOBIL T-Rex Attack con 2 dinos, 1 explorador, 1 quad y un montón de accesorios para una detallada puesta en escena.
-- T-Rex y Deinonychus con brazos, piernas, cabeza y mandíbulas móviles, quad (sin motor) para 1 figura, portaequipajes con correa para fijar accesorios y mucho más.
-- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
 - Contenido: 1x PLAYMOBIL Dinos T-Rex Attack, Juego de 20 piezas con instrucciones: 1 Quad PLAYMOBIL, 1 figura, 2 dinos PLAYMOBIL, 16 accesorios, Material: plástico, Se puede montar individualmente, Peso: aprox. 414 g, 71183
 - Juguete para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diviértete con el magnífico juguete de los dinosaurios: PLAYMOBIL T-Rex Attack con 2 dinos, 1 explorador, 1 quad y un montón de accesorios para una detallada puesta en escena.
+- Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
+- T-Rex y Deinonychus con brazos, piernas, cabeza y mandíbulas móviles, quad (sin motor) para 1 figura, portaequipajes con correa para fijar accesorios y mucho más.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
