@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - No Man´S Sky'
-date: 2022-11-04 12:33:47
+date: 2022-11-08 16:34:18
 image: 'https://m.media-amazon.com/images/I/41h73r+hkbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B0B51LN8PK/?tag=tolees-21'
 descuento: '19.15'
-average: '41.58'
+average: '41.8477777777778'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Embárcate en un viaje increible
 - Un universo cambiante
+- Embárcate en un viaje increible
 - Incluye 6 años de actualizaciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
