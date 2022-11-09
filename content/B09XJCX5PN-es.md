@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: Haz zoom y gira el modelo en todos sus ángulos mientras lo construyes con la aplicación gratuita Instrucciones de Construcción LEGO, disponible en teléfonos inteligentes y tablets
 - producto 1: Cuenta con una réplica de coche de juguete LEGO del Ferrari 512 M de 1970 y una mini figura LEGO piloto de carreras completa con traje Ferrari, peluca y casco protector
-- producto 2: Incluye una mini figura de piloto de carreras LEGO, completada con su mono de carreras, su casco de carreras y una llave inglesa
-- producto 1: ¡Lleno de detalles! Con espacio para una mini figura LEGO de conductor y características auténticas
-- producto 1: Explora el impresionante diseño aerodinámico del deportivo de juguete mientras lo recreas pieza por pieza y después exhibe tu obra maestra para admirarla
-- producto 2: El coche de carreras LEGO tiene un nombre McLaren Elva en su parte trasera, 2 escapes, luces originales y viene con protectores de llantas
 - producto 2: Cuenta con un modelo LEGO fielmente detallado del coche de carreras de juguete McLaren Elva, el veloz deportivo aerodinámico
+- producto 1: Haz zoom y gira el modelo en todos sus ángulos mientras lo construyes con la aplicación gratuita Instrucciones de Construcción LEGO, disponible en teléfonos inteligentes y tablets
 - producto 2: Este modelo coleccionable de coche deportivo LEGO viene con un chasis más ancho de 8 studs que deja espacio para una cabina de 2 asientos con espacio para 2 mini figuras
+- producto 2: Incluye una mini figura de piloto de carreras LEGO, completada con su mono de carreras, su casco de carreras y una llave inglesa
+- producto 1: Explora el impresionante diseño aerodinámico del deportivo de juguete mientras lo recreas pieza por pieza y después exhibe tu obra maestra para admirarla
+- producto 1: ¡Lleno de detalles! Con espacio para una mini figura LEGO de conductor y características auténticas
+- producto 2: El coche de carreras LEGO tiene un nombre McLaren Elva en su parte trasera, 2 escapes, luces originales y viene con protectores de llantas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
