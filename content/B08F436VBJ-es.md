@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power A - PowerA Wired Controller For Xbox Series X|S - White  Gamepad  Wired Video Game Controller  Gaming Controller  Works with Xbox One  Xbox Series X '
-date: 2022-11-07 11:44:55
+date: 2022-11-09 13:17:42
 image: 'https://m.media-amazon.com/images/I/41T6NkRDC0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Power A'
 buyurl: 'https://www.amazon.es/dp/B08F436VBJ/?tag=tolees-21'
 descuento: '27.06'
-average: '27.344'
+average: '27.04'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conexión de auriculares estéreo de 3,5 mm
 - Con licencia oficial para Xbox
 - Cable USB extraíble de 3 metros
 - Motores de doble vibración
 - Formato familiar nuevo
+- Conexión de auriculares estéreo de 3,5 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
