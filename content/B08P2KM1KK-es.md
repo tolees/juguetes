@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad recomendada: a partir de 12 años
 - 1.000 piezas rompecabezas
-- Tamaño del puzzle: 69,30 x 49,30 cm
 - SCHMIDT SPIELE Puzzle premium – con calidad que puedes agarrar
+- Edad recomendada: a partir de 12 años
+- Tamaño del puzzle: 69,30 x 49,30 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
