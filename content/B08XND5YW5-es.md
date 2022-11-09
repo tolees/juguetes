@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - The Sisters. Party of the Year - Nintendo Switch'
-date: 2022-10-28 19:33:39
+date: 2022-11-09 16:33:16
 image: 'https://m.media-amazon.com/images/I/51osBPVsyQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B08XND5YW5/?tag=tolees-21'
 descuento: '25.01'
-average: '28.9852631578947'
+average: '29.0355'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada cual elige su minijuego favorito por turnos
 - Descubre elvideojuego inspirado en el cómic y sumérgete en el universo de las Sisters, dos hermanas especialistas en travesuras
+- Cada cual elige su minijuego favorito por turnos
 - 24 minijuegos delirantes, directamente salidos de la imaginación de las Sisters: lanzamiento de unicornio, fábrica de cupcakes, ping-pong extremo
-- Recorre la ciudad de las Sisters y completa búsquedas y desafíos en el modo Aventura
 - Diviértete en familia o con amigos en uno de sus 4 modos multijugador: Desafíos, Torneo, Todo o nada e Alrededor del mundo
+- Recorre la ciudad de las Sisters y completa búsquedas y desafíos en el modo Aventura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
