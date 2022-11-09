@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Robotime Puzzle 3D Madera Maquetas Treasure Box Modelos Mecánicos Kits para Construir Adultos Montar Construcciones Laser Cut Puzzle de Madera'
-date: 2022-11-06 15:45:33
+date: 2022-11-09 15:06:42
 image: 'https://m.media-amazon.com/images/I/51UekJTrplL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Robotime'
 buyurl: 'https://www.amazon.es/dp/B07G1VTMS1/?tag=tolees-21'
 descuento: '16.67'
-average: '25.6566666666667'
+average: '25.49'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
