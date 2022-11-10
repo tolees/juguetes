@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuerpo blandito y mide 25 cm, lleva un bonito vestido, gorrito y un orinal
-- Recomendado a partir de 1 año; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
 - Se puede quitar la parte electrónica para lavarlo
-- Cuando aprietas su ombligo hace 4 sonidos distintos
 - Muñeca con orinal para enseñarle a hacer pipí
+- Cuando aprietas su ombligo hace 4 sonidos distintos
+- Recomendado a partir de 1 año; ayuda a su desarrollo afectivo y emocional y fomenta la destreza manual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
