@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego que simula un Escape Room de verdad; El objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
-- Contenido: 4 aventuras + 1 introductoria (15mins), 16 llaves, decodificador de pistas, cronodecodificador
 - El juego consta de 4 aventuras con distintos niveles de dificultad: Casino, Agente Secreto, Estación espacial y El dentista
-- El producto necesita pilas, no vienen incluidas; El tipo de pilas que necesita son: 3xAA
+- Contenido: 4 aventuras + 1 introductoria (15mins), 16 llaves, decodificador de pistas, cronodecodificador
 - Número de jugadores: de 3 a 5 personas
+- El producto necesita pilas, no vienen incluidas; El tipo de pilas que necesita son: 3xAA
+- Juego que simula un Escape Room de verdad; El objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
