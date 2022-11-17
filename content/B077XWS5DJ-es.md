@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plantronics RIG 800HS auricular con micrófono Monoaural Diadema Negro  Consola de juegos  Monoaural  Diadema  Negro  PlayStation 4  Inalámbrico y alámbrico  - Compatible con PS5'
-date: 2022-11-05 10:32:25
+date: 2022-11-17 07:13:40
 image: 'https://m.media-amazon.com/images/I/41KGJsGL5cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Plantronics'
 buyurl: 'https://www.amazon.es/dp/B077XWS5DJ/?tag=tolees-21'
 descuento: '40.00'
-average: '88.1966666666667'
+average: '81.145'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
