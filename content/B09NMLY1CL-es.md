@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Arcade Paradise - Nintendo Switch'
-date: 2022-11-16 11:31:07
+date: 2022-11-17 13:11:20
 image: 'https://m.media-amazon.com/images/I/513RnrmwviL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09NMLY1CL/?tag=tolees-21'
 descuento: '33.34'
-average: '23.9185714285714'
+average: '23.4275'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Póster
+- Incluye:
 - Banda sonora digital
 - Pegatinas
-- Incluye:
-- Póster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
