@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COLECCIÓNALAS TODAS: Llévate a casa la emoción de Batman. Añade a Batman, Nightwing, Red Hood, The Joker y más a tu colección de conjuntos de juego y figuras de juguete de Batman (se venden por separado)
 - 1 figura
-- FANS Y COLECCIONISTAS: Esta figura de acción de Batman de 30 cm coleccionable es imprescindible para fans y coleccionistas de la Liga de la Justicia
 - DISEÑO DE CÓMIC AUTÉNTICO: Esta figura de acción articulada tiene infinidad de detalles, incluye una capa de tela y tiene un diseño de cómic que hace que tus juguetes de Batman favoritos cobren vida
 - FIGURA DE ACCIÓN DE 30 CM: Con 11 puntos de articulación, es muy sencillo colocar esta figura de acción de Combat Batman de 30 cm en una gran variedad de posturas de acción dinámica. Crea tus propias aventuras de Batman
+- FANS Y COLECCIONISTAS: Esta figura de acción de Batman de 30 cm coleccionable es imprescindible para fans y coleccionistas de la Liga de la Justicia
+- COLECCIÓNALAS TODAS: Llévate a casa la emoción de Batman. Añade a Batman, Nightwing, Red Hood, The Joker y más a tu colección de conjuntos de juego y figuras de juguete de Batman (se venden por separado)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

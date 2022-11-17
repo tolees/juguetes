@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Busca a un máximo de 6 jugadores por internet y desafíalos en partidas rápidas o sesiones personalizadas en las que podéis elegir la forma de jugar
 - El centro del tablero está ocupado por una ciudad entera en 3D que respira y evoluciona a medida que juegas
+- Busca a un máximo de 6 jugadores por internet y desafíalos en partidas rápidas o sesiones personalizadas en las que podéis elegir la forma de jugar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
