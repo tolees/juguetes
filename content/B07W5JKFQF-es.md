@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Micrófono volteable para silenciar: Función de silencio rápida y fácil con el micrófono unidireccional
 - Alcance ampliado: Estos auriculares tienen un alcance inalámbrico de hasta 15m a través de la señal inalámbrica de 2.4 GHz
+- La batería incorporada proporciona hasta 15 horas de duración y se puede recargar a través del puerto USB-C
 - Compatibilidad: Los A20 para PS5 y PS4 incluyen un transmisor USB específico para la consola y una compatibilidad ampliada (Serie Xbox X y S) con un transmisor adicional vendido por separado
 - 3 preajustes de EQ: El jugador puede elegir entre diferentes configuraciones de ecualizador cambiando entre los 3 diferentes preajustes de ecualización
-- La batería incorporada proporciona hasta 15 horas de duración y se puede recargar a través del puerto USB-C
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
