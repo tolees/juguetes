@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie Fashionistas Superarmario y Muñeca Perchero Desplegable Rosa con Ropa  Accesorios y Perchas Regalo para Niños de 3+'
-date: 2022-11-16 09:00:03
+date: 2022-11-18 10:11:02
 image: 'https://m.media-amazon.com/images/I/51uPHCUlD2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Barbie'
 buyurl: 'https://www.amazon.es/dp/B07NGX7TDN/?tag=tolees-21'
 descuento: '46.01'
-average: '34.5267272727272'
+average: '34.4588288288288'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
