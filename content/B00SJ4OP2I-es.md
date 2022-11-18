@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Monta con cuidado su esqueleto fluorescente y admira en la oscuridad a este feroz dinosaurio
-- Contiene martillo y cincel para que tu niño se convierta en un verdadero paleontólogo
-- Excava en el bloque y descubre los restos del T-Rex
-- Los pequeños pueden explorar el mundo con imaginación
 - Este juguete está diseñado para todos los niños
+- Los pequeños pueden explorar el mundo con imaginación
+- Excava en el bloque y descubre los restos del T-Rex
+- Contiene martillo y cincel para que tu niño se convierta en un verdadero paleontólogo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
