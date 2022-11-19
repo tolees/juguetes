@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El set ha sido diseñado para proporcionar una experiencia gratificante y relajante, y será una atractiva pieza de decoración para casa o para la oficina
-- La maqueta incluye el edificio Flatiron, el edificio Empire State y el complejo One World Trade Center y mide 26 cm de alto, 25 cm de ancho y 4 cm de profundidad
-- Captura la esencia arquitectónica de la ciudad de Nueva York con este magnífico set que reúne emblemáticos edificios en un inspirador entorno, siendo una gran idea de regalo para los interesados en la arquitectura
-- Construye una detallada maqueta de la ciudad de Nueva York, incluyendo la Estatua de la Libertad en miniatura, y una base de 4x32 con una placa decorativa
 - El maravilloso modelo coleccionable se centra en la increíble diversidad arquitectónica de una de las ciudades más dinámicas del mundo
+- Construye una detallada maqueta de la ciudad de Nueva York, incluyendo la Estatua de la Libertad en miniatura, y una base de 4x32 con una placa decorativa
+- La maqueta incluye el edificio Flatiron, el edificio Empire State y el complejo One World Trade Center y mide 26 cm de alto, 25 cm de ancho y 4 cm de profundidad
+- El set ha sido diseñado para proporcionar una experiencia gratificante y relajante, y será una atractiva pieza de decoración para casa o para la oficina
 - Incluye un folleto coleccionable con información acerca del diseñador, la arquitectura y la historia de cada edificio
+- Captura la esencia arquitectónica de la ciudad de Nueva York con este magnífico set que reúne emblemáticos edificios en un inspirador entorno, siendo una gran idea de regalo para los interesados en la arquitectura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
