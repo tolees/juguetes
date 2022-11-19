@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los niños podrán usar la grúa del barco de juguete flotante para bajar el submarino y la jaula protectora, pilotear el helicóptero y el submarino, explorar el naufragio repleto de tesoros o jugar en el interior del puente de mando del capitán, que cuenta con una zona de dormitorio y otra zona de investigación.
+- ¿Qué contiene la caja? Un buque de exploración de juguete que flota, equipado con grúa que funciona, jaula protectora, bote, submarino y helicóptero, así como 8 minifiguras (entre ellas Harl Hubbs, el personaje LEGO City de la tele) y figuras de un tiburón y una raya venenosa.
+- Edad recomendada por el fabricante: 7+
 - Número de piezas: 745
 - Océano: Buque de Exploración
-- ¿Qué contiene la caja? Un buque de exploración de juguete que flota, equipado con grúa que funciona, jaula protectora, bote, submarino y helicóptero, así como 8 minifiguras (entre ellas Harl Hubbs, el personaje LEGO City de la tele) y figuras de un tiburón y una raya venenosa.
-- Los niños podrán usar la grúa del barco de juguete flotante para bajar el submarino y la jaula protectora, pilotear el helicóptero y el submarino, explorar el naufragio repleto de tesoros o jugar en el interior del puente de mando del capitán, que cuenta con una zona de dormitorio y otra zona de investigación.
-- Edad recomendada por el fabricante: 7+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
