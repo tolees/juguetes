@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60266 City Oceans Océano: Buque de Exploración'
-date: 2022-11-18 16:27:55
+date: 2022-11-19 16:50:59
 image: 'https://m.media-amazon.com/images/I/51Ltd+2RGbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813R1CMZ/?tag=tolees-21'
 descuento: '16.84'
-average: '144.403519163759'
+average: '144.543686956518'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Océano: Buque de Exploración
-- Los niños podrán usar la grúa del barco de juguete flotante para bajar el submarino y la jaula protectora, pilotear el helicóptero y el submarino, explorar el naufragio repleto de tesoros o jugar en el interior del puente de mando del capitán, que cuenta con una zona de dormitorio y otra zona de investigación.
 - Número de piezas: 745
+- Océano: Buque de Exploración
 - ¿Qué contiene la caja? Un buque de exploración de juguete que flota, equipado con grúa que funciona, jaula protectora, bote, submarino y helicóptero, así como 8 minifiguras (entre ellas Harl Hubbs, el personaje LEGO City de la tele) y figuras de un tiburón y una raya venenosa.
+- Los niños podrán usar la grúa del barco de juguete flotante para bajar el submarino y la jaula protectora, pilotear el helicóptero y el submarino, explorar el naufragio repleto de tesoros o jugar en el interior del puente de mando del capitán, que cuenta con una zona de dormitorio y otra zona de investigación.
 - Edad recomendada por el fabricante: 7+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
