@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Intense boss battles.
 - Engaging story told with pixel-art cut-scenes.
 - Custom made fighting engine with unique moves for each character.
-- Fight with swords, nunchakus and bo staffs.
 - Many different enemies each with their own moves and weapons.
+- Fight with swords, nunchakus and bo staffs.
+- Intense boss battles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
