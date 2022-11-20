@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cada jugador, con su propio personaje, recoge recursos de ladrillo y lucha contra las criaturas de cada mundo para crear su propia dimensión. El ganador es el primero en completar su tablero de juego con fichas de mundo del mismo tipo
 - Sólo ganarán los que demuestren valor y habilidad en la construcción de edificios y en la lucha contra los monstruos. El juego estimula las habilidades estratégicas y tácticas, fomentando el trabajo en equipo y el pensamiento estratégico
-- La duración del juego es de unos 30-60 minutos. Minecraft es adecuado para las tardes de juego con los amigos o la familia, tanto para los fans de Minecraft como para los amantes de los juegos de caja. También es ideal para un regalo de cumpleaños, Navidad o Semana Santa
+- Cada jugador, con su propio personaje, recoge recursos de ladrillo y lucha contra las criaturas de cada mundo para crear su propia dimensión. El ganador es el primero en completar su tablero de juego con fichas de mundo del mismo tipo
 - El juego contiene: 64 cubos de recursos, 64 cartas de edificios y monstruos, 36 fichas de armas, 4 cartas de jugador, 4 fichas de experiencia, 4 pieles de personajes, 4 bases de piezas de juego, 12 resúmenes de cartas, 1 base de cubo de recursos, 1 estructura de apoyo e instrucciones
 - ¡El juego de mesa del famoso videojuego Minecraft! En esta aventura analógica, Ravensburger te permite explorar el mundo pixelado de Minecraft
+- La duración del juego es de unos 30-60 minutos. Minecraft es adecuado para las tardes de juego con los amigos o la familia, tanto para los fans de Minecraft como para los amantes de los juegos de caja. También es ideal para un regalo de cumpleaños, Navidad o Semana Santa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

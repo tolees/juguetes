@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diversión para pequeños cazafantasmas: PLAYMOBIL vehículo Ecto-1A de los Cazafantasmas con 4 figuras y espectaculares efectos de luz y sonido, trampa para fantasmas y otros equipos
 - Contenido: 1x PLAYMOBIL Ghostbusters Ecto-1A, Juego de 104 piezas con instrucciones: 1 Ghostbusters Ecto-1A, 4 figuras, 99 accesorios
+- Diversión para pequeños cazafantasmas: PLAYMOBIL vehículo Ecto-1A de los Cazafantasmas con 4 figuras y espectaculares efectos de luz y sonido, trampa para fantasmas y otros equipos
 - Juego de figuras para niños a partir de 6 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 - Techo extraíble, puerta de maletero abatible, 4 cazafantasmas, trampa para fantasmas con pirámide holográfica y mucho más, compatible con el Cuartel Estación de Bomberos de los Cazafantasmas (9219)
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos

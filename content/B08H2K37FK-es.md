@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Juego de Mesa en Español
+- Con una duración de 30 Minutos por partida
+- Juego de 2 a 6 Jugadores
 - Recomendado a Partir de 7 Años de Edad
 - Via Magica reinventa el bingo
-- Juego de 2 a 6 Jugadores
-- Con una duración de 30 Minutos por partida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

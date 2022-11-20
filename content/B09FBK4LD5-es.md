@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
-- Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
 - Incluye: Steelbook, minilibro de arte
-- Solo Aloy es capaz de restablecer el orden y el equilibrio en el mundo
 - Descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon
+- Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
+- Solo Aloy es capaz de restablecer el orden y el equilibrio en el mundo
 - Contenido descargable: Banda sonora digital
+- Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

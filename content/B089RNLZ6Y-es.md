@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un juego de batallas furiosas con completos robots en miniatura
-- Sigue la colección del los Pequeños Grandes
 - Llegan los meeples con accesorios
+- Sigue la colección del los Pequeños Grandes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

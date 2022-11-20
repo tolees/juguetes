@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dos juegos en uno
-- Remasterización de aniversario
-- Juego icónico
 - Accesibilidad nueva
+- Juego icónico
+- Remasterización de aniversario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

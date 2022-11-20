@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - personaliza a tu creciente plantel de héroes
-- Reúne equipos de hasta cuatro jugadores en línea
 - domina habilidades extraordinarias
+- Reúne equipos de hasta cuatro jugadores en línea
 
 [🛒 Aquí!!!]({{< param buyurl >}})
