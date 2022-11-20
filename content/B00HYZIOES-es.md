@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SILLÍN Y MANILLAR AJUSTABLE: el sillín es antideslizante y el manillar es de goma, óptimo para que el niño se encutre cómodo y facilite el uso de la bicicleta; además tanto sillín como manillar son ajustables para acompañar el crecimiento de tu hijo desde los 2 hasta los 5 años (hasta 25kg, con altura mínima de 85 cm)
 - RUEDAS ANTI-PINCHAZOS: la bicicleta tiene neumáticos resistentes a los pinchazos para una vuelta en bici suave y segura evitando un posible pinchazo en las ruedas
-- ESTRUCTURA MUY LIGERA: la bicicleta es ultraligera gracias al ligero y robusto cuadro de metal que puede soportar un niño de hasta 25 kg Fácil de llevar y manejar, óptimo para los más pequeños
+- SILLÍN Y MANILLAR AJUSTABLE: el sillín es antideslizante y el manillar es de goma, óptimo para que el niño se encutre cómodo y facilite el uso de la bicicleta; además tanto sillín como manillar son ajustables para acompañar el crecimiento de tu hijo desde los 2 hasta los 5 años (hasta 25kg, con altura mínima de 85 cm)
 - BICI SIN PEDALES: la bicicleta Chicco sin pedales ayuda al niño a adquirir fácilmente el equilibrio necesario para ir sobre dos ruedas, facilitando la posterior transición a una bicicleta tradicional pero evitando los ruedines
 - DESARROLLO DEL EQUILIBRIO: la bicicleta infantil First Bike para la primera infancia estimula la autoconfianza y la independencia de los niños, que encuentran su equilibrio y mejoran sus habilidades de coordinación
+- ESTRUCTURA MUY LIGERA: la bicicleta es ultraligera gracias al ligero y robusto cuadro de metal que puede soportar un niño de hasta 25 kg Fácil de llevar y manejar, óptimo para los más pequeños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

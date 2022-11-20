@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las canciones y frases enseñan formas, colores, el alfabeto, números y mucho más
 - Mando de videojuegos de juguete con carita luminosa y 2 opciones musicales para bebés y niños pequeños de 6-36 meses
-- Al mover la palanca de mando y al pulsar los botones en forma de letras y las teclas con números, se activan aprendizajes
-- Mueve la rueda que hace clic-clic y acciona el interruptor situado en la parte superior del mando para desarrollar la motricidad fina
 - Pulsa el botón del mundo para seleccionar un idioma: italiano, español de España, portugués o inglés
+- Mueve la rueda que hace clic-clic y acciona el interruptor situado en la parte superior del mando para desarrollar la motricidad fina
+- Las canciones y frases enseñan formas, colores, el alfabeto, números y mucho más
+- Al mover la palanca de mando y al pulsar los botones en forma de letras y las teclas con números, se activan aprendizajes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
