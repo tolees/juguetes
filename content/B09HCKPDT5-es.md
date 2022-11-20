@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potente iluminación Led: Foco frontal de alto brillo, leds en la base y luz de freno trasera. Suspensión delantera y trasera que proporciona una óptima absorción de baches e irregularidades en el terreno
-- Ruedas neumáticas de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y freno de disco. Display en el manillar con información de la batería, Km recorridos, odómetro, selector de marcha y configuración del patinete
 - Dimensiones: 113X56X115 cm 15Kg. Incluye 1 mes de seguro gratuito canjeable vía online. Powered by Woxter
-- Patinete eléctrico urbano con potencia nominal de 350W 36V, estructura plegable, ligera y cómoda de llevar
+- Ruedas neumáticas de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y freno de disco. Display en el manillar con información de la batería, Km recorridos, odómetro, selector de marcha y configuración del patinete
 - Batería de litio con una capacidad de 8.800 mah, consigue una autonomía de aprox 25 Km / 3 modos de conducción seleccionables desde su display (Eco, Confort y Sport)
+- Potente iluminación Led: Foco frontal de alto brillo, leds en la base y luz de freno trasera. Suspensión delantera y trasera que proporciona una óptima absorción de baches e irregularidades en el terreno
+- Patinete eléctrico urbano con potencia nominal de 350W 36V, estructura plegable, ligera y cómoda de llevar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

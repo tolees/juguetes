@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hay 500 preguntas: 125 adivinanzas; 125 de cultura general, 100 acertijos deductivos, 50 problemas matemáticos, 50 de pensamiento lateral y 50 acertijos visuales
 - Escape Party es un juego de mesa de Escape Room al que puedes jugar tantas veces como quieras
-- Juego de mesa indicado para niños y niñas de más de 10 años, para jugar con toda la familia o con amigos en cualquier ocasión
+- Hay 500 preguntas: 125 adivinanzas; 125 de cultura general, 100 acertijos deductivos, 50 problemas matemáticos, 50 de pensamiento lateral y 50 acertijos visuales
 - El objetivo del juego consiste en abrir puertas resolviendo las preguntas y acertijos, para conseguir las llaves de colores que te permitirán salir antes que al resto de la habitación
+- Juego de mesa indicado para niños y niñas de más de 10 años, para jugar con toda la familia o con amigos en cualquier ocasión
 - Dentro de la caja del juego incluye: un tablero, cartas celda, cartas llave y cartas de salida, fichas de juego e instrucciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
