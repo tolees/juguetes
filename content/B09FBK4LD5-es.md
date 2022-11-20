@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Horizon Forbidden West - Edición Especial [PS5]'
-date: 2022-11-18 21:02:21
+date: 2022-11-20 18:49:21
 image: 'https://m.media-amazon.com/images/I/41kRj5WfxjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09FBK4LD5/?tag=tolees-21'
 descuento: '44.45'
-average: '78.1911764705882'
+average: '76.6244444444444'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
+- Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
 - Incluye: Steelbook, minilibro de arte
 - Solo Aloy es capaz de restablecer el orden y el equilibrio en el mundo
-- Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
-- Contenido descargable: Banda sonora digital
-- Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
 - Descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon
+- Contenido descargable: Banda sonora digital
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
