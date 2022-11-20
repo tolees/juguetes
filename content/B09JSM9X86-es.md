@@ -31,7 +31,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, Alta calidad y diseño robusto, Limpieza de las piezas (sin pegatinas ni componentes electrónicos) con agua corriente y sin químicos
 - Acción en la estación de policía PLAYMOBIL: coche de policía PLAYMOBIL con 2 policías y equipo para una emocionante persecución.
 - 1 coche de policía PLAYMOBIL con inserciones en el techo extraíbles, las puertas de atrás se pueden abrir, asiento de atrás extraíble, puerta corredera que se puede abrir, luz y sonido y mucho más.
-- Contenido: 1x PLAYMOBIL City Action Coche de policía, set de 52 piezas con instrucciones: 1 coche PLAYMOBIL, 2 agentes de policía PLAYMOBIL, 49 accesorios (excl. 1x pilas micro AAA de 1,5 V), Material: plástico, LxAxP: aprox. 27 x 11 x 13 cm, peso: 507 g, 70899
 - Juguete para niños a partir de 4 años: Ideal para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Contenido: 1x PLAYMOBIL City Action Coche de policía, set de 52 piezas con instrucciones: 1 coche PLAYMOBIL, 2 agentes de policía PLAYMOBIL, 49 accesorios (excl. 1x pilas micro AAA de 1,5 V), Material: plástico, LxAxP: aprox. 27 x 11 x 13 cm, peso: 507 g, 70899
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
