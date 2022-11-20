@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diset - Escape room the game 2  Juego de mesa adulto a partir de 16 años'
-date: 2022-11-17 18:06:19
+date: 2022-11-20 09:26:14
 image: 'https://m.media-amazon.com/images/I/51KZqRPVAdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diset'
 buyurl: 'https://www.amazon.es/dp/B07D3M9HMM/?tag=tolees-21'
 descuento: '38.12'
-average: '31.3882608695653'
+average: '31.1116666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Contenido: 4 aventuras + 1 introductoria (15mins), 16 llaves, decodificador de pistas, cronodecodificador
 - Número de jugadores: de 3 a 5 personas
+- Juego que simula un Escape Room de verdad; El objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
 - El juego consta de 4 aventuras con distintos niveles de dificultad: Casino, Agente Secreto, Estación espacial y El dentista
 - El producto necesita pilas, no vienen incluidas; El tipo de pilas que necesita son: 3xAA
-- Juego que simula un Escape Room de verdad; El objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
