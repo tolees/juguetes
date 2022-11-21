@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Beyond a Steel Sky - Book Edition - Nintendo Switch'
-date: 2022-11-16 19:51:07
+date: 2022-11-21 12:06:13
 image: 'https://m.media-amazon.com/images/I/51gsaEaMVQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09FG5FPHS/?tag=tolees-21'
 descuento: '40.01'
-average: '38.0633333333333'
+average: '37.4423076923077'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vive una aventura ambientada en un mundo dinámico, poblado por personajes con voluntad propia e impulsados por motivaciones que el personaje puede alterar
 - Los ingeniosos rompecabezas se entrelazan en una dramática e intrigante narrativa para ofrecer una experiencia de juego que te mantendrá pegado a la pantalla
+- Vive una aventura ambientada en un mundo dinámico, poblado por personajes con voluntad propia e impulsados por motivaciones que el personaje puede alterar
 - En combinación con una herramienta única de hackeo, verás emerger múltiples soluciones a los rompecabezas en función de las decisiones que tomes
 - Desvela oscuras conspiraciones y derrota a un aterrador antagonista en este dramático thriller ciberpunk con pinceladas de humor que explora temáticas contemporáneas: el control social, la inteligencia artificial y el estado de vigilancia total.
 - Descubre un mundo tipo cómic asombrosamente detallado, de la mente del legendario dibujante Dave Gibbons»
