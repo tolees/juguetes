@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Inicia tu viaje por estas tierras en busca del hogar perfecto para ti y tus aliados
-- Te damos la bienvenida al mundo mágico de Ignus: 36 kilómetros cuadrados de vastas planicies, frondosos bosques, ciénagas putrefactas y páramos helados
-- No dejes ni un solo rincón sin explorar; investiga las peligrosas cuevas y las ruinas ancestrales para hacerte con poderosos objetos y descubre una rica historia que abarca miles de años
 - Domina una amplia gama de potentes hechizos
+- Te damos la bienvenida al mundo mágico de Ignus: 36 kilómetros cuadrados de vastas planicies, frondosos bosques, ciénagas putrefactas y páramos helados
+- Inicia tu viaje por estas tierras en busca del hogar perfecto para ti y tus aliados
 - Elige tu herramienta preferida de entre el extenso repertorio de varitas y bastones místicos, guanteletes encantados y hachas, espadas, mazos y martillos impregnados de magia
+- No dejes ni un solo rincón sin explorar; investiga las peligrosas cuevas y las ruinas ancestrales para hacerte con poderosos objetos y descubre una rica historia que abarca miles de años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

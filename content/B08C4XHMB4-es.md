@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 3 figuras de Baño Pocoyó
-- Las figuras de Pocoyó y sus amigos tiene el tamaño perfecto para las manos de los más pequeños
 - Ideal para interminables horas de diversión bajo el agua
 - Las figuras de Pocoyó flotan en el agua
 - Incluye figuras de Pocoyó, Pato y Elly
+- Las figuras de Pocoyó y sus amigos tiene el tamaño perfecto para las manos de los más pequeños
+- Pack de 3 figuras de Baño Pocoyó
 
 [🛒 Comprar!!!]({{< param buyurl >}})

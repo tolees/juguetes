@@ -29,15 +29,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye un cable de carga USB-C de 3 m
+- Mando de juego inalámbrico con una batería interna recargable: hasta 30 horas de juego por carga
+- Incluye controles de movimiento y botones de juego avanzados programables
+- Incluye controles de movimiento y botones avanzados programables
+- Incluye cable de carga USB-C de 3 m
+- Licencia oficial para Nintendo Switch y Nintendo Switch Lite
+- Licencia oficial para Nintendo Switch y Nintendo Switch Lite
 - Mando inalámbrico con tecnología Bluetooth 5.0
 - Mando de juego inalámbrico con una batería interna recargable: hasta 30 horas de juego por carga
-- Incluye cable de carga USB-C de 3 m
-- Incluye controles de movimiento y botones de juego avanzados programables
-- Luces LED para mostrar el número de jugador, programación de botones y advertencia de batería baja
-- Licencia oficial para Nintendo Switch y Nintendo Switch Lite
-- Mando de juego inalámbrico con una batería interna recargable: hasta 30 horas de juego por carga
-- Licencia oficial para Nintendo Switch y Nintendo Switch Lite
-- Incluye controles de movimiento y botones avanzados programables
 - Luces LED para el número de jugador, programación de botones y advertencia de batería baja
+- Luces LED para mostrar el número de jugador, programación de botones y advertencia de batería baja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
