@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Treasures of the Aegean Collector S Edition - Nintendo Switch'
-date: 2022-11-16 19:53:11
+date: 2022-11-21 06:06:11
 image: 'https://m.media-amazon.com/images/I/611x9xKOrzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09FYJPS9D/?tag=tolees-21'
 descuento: '40.01'
-average: '40.9845454545454'
+average: '40.0683333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
