@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Monopoly - Malos Perdedores - Hasbro E9972105'
-date: 2022-11-22 09:54:04
+date: 2022-11-23 11:34:34
 image: 'https://m.media-amazon.com/images/I/51zTMgP-C1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Monopoly'
 buyurl: 'https://www.amazon.es/dp/B085LZPKJN/?tag=tolees-21'
 descuento: '50.04'
-average: '17.5957894736842'
+average: '17.58'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
