@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger – Star Wars Villainous  Versión en Español  Juegos de Estrategia  Juegos de Mesa 2-4 Jugadores  12+ Años'
-date: 2022-11-22 09:48:40
+date: 2022-11-23 10:11:28
 image: 'https://m.media-amazon.com/images/I/412xSuAw7xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B0BDZZ8QT5/?tag=tolees-21'
 descuento: '26.72'
-average: '49.455'
+average: '47.6233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Lleva a cabo tu Objetivo antes que los demás villanos para derrotarles y ganar la partida!
-- Escoge tu villano entre: Darth Vader, General Grievious, Asajj Ventress, Moff Gideon y Kylo Ren.
 - Las mecánicas del juego son la selección de acciones y la gestión de las cartas de la mano y el mazo de cartas, que debes pasar rápido para poder efectuar las acciones clave y trazar tu camino a la victoria.
 - Usa la Fuerza, dirige tu ejército o infíltrate furtivamente en los escondrijos de tus enemigos. Cada villano utiliza habilidades y estrategias únicas para hacerse con la victoria.
+- Escoge tu villano entre: Darth Vader, General Grievious, Asajj Ventress, Moff Gideon y Kylo Ren.
 - Controla tu Sector: explóralo para ganar Créditos, reclutar Aliados, desplegar Vehículos o poner obstáculos en el camino de tus oponentes.
+- ¡Lleva a cabo tu Objetivo antes que los demás villanos para derrotarles y ganar la partida!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
