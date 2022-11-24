@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rueda delantera neumática y trasera sólida de 8", freno eléctrico potente que detendrá el patín en un instante
-- Estructura plegable, display multifunción y luces led de freno
-- Pensado para ser utilizado por adolescentes, velocidad máxima de 20 Km/h, autonomía de hasta 18 Km; Powered by woxter
 - Dimensiones 111,5x56x113cm (111,5x56x48,5 cm plegado) con un peso de 10 Kg
-- Patín eléctrico con 250 W de potencia y batería de Litio 6.600 mAh, plegable y con un peso ligero
+- Pensado para ser utilizado por adolescentes, velocidad máxima de 20 Km/h, autonomía de hasta 18 Km; Powered by woxter
 - Este producto lleva dos puños con una rosca diferente, es por ello que tiene que respetarse la posición de cada uno, siendo uno para la derecha y otro para la izquierda sin poderse intercambiar. Esta posición viene indicada en cada puño.
+- Patín eléctrico con 250 W de potencia y batería de Litio 6.600 mAh, plegable y con un peso ligero
+- Estructura plegable, display multifunción y luces led de freno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

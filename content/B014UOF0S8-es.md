@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Réplica a escala 8:10 del volante del 599XX EVO, con licencia oficial de Ferrari
 - 30 cm de diametro
-- Funda cosida a mano realizada en Alcantara, el mismo material importado de Italia que se usa en los volantes genuinos de Ferrari
-- Ángulo de giro ajustable de 270° a 1080°
 - Incluye: juego de 3 pedales T3PA; estructura interna 100% metal
+- Ángulo de giro ajustable de 270° a 1080°
+- Réplica a escala 8:10 del volante del 599XX EVO, con licencia oficial de Ferrari
+- Funda cosida a mano realizada en Alcantara, el mismo material importado de Italia que se usa en los volantes genuinos de Ferrari
 - Force Feedback súper fluido y continuo, efectos de fuerza realistas y ultra receptivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

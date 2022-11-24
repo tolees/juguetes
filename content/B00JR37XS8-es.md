@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Bomba sumergible de agua sucia con cable - GC-DP 1020 N - 1.000 W  objetos de Ø20 mm  capacidad de la bomba de 18.000 l/h  interruptor de flotador  asa de transporte  incl. conector universal'
-date: 2022-11-22 08:12:28
+date: 2022-11-24 16:11:16
 image: 'https://m.media-amazon.com/images/I/41nPHCP72JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00JR37XS8/?tag=tolees-21'
 descuento: '34.42'
-average: '71.3114285714286'
+average: '70.7513636363637'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conexiones universales para 19 mm (3/4"), 25 mm (1")
-- Asa de transporte
-- Junta de estanqueidad de anillo deslizante de alto valor
-- Conexiones universales para 32 mm (1 ¼“) y 38 mm (1 ½“) de tubos flexibles
-- Carcasa de bomba de acero inoxidable
 - Interruptor de flotación regulable en altura sin escalonamiento
+- Junta de estanqueidad de anillo deslizante de alto valor
+- Asa de transporte
+- Conexiones universales para 19 mm (3/4"), 25 mm (1")
+- Carcasa de bomba de acero inoxidable
+- Conexiones universales para 32 mm (1 ¼“) y 38 mm (1 ½“) de tubos flexibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
