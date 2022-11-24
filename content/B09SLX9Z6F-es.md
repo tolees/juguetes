@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Klonoa Phantasy Reverie Series  Nintendo Switch'
-date: 2022-11-20 21:40:59
+date: 2022-11-24 13:03:45
 image: 'https://m.media-amazon.com/images/I/51nPPxKqADL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B09SLX9Z6F/?tag=tolees-21'
 descuento: '32.87'
-average: '44.9525'
+average: '44.3611764705882'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Remasterización de aniversario
 - Accesibilidad nueva
 - Dos juegos en uno
 - Juego icónico
+- Remasterización de aniversario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
