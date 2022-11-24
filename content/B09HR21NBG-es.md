@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERTHINGS RIVALS OF KABOOM - SUPERTHINGS Superbot Fury Storm – Robot articulado con Accesorios de Combate  1 Kazoom Kid y 1 SuperThing  Multicolor'
-date: 2022-11-19 09:48:22
+date: 2022-11-24 17:33:39
 image: 'https://m.media-amazon.com/images/I/51jrC2Y30GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SUPERTHINGS RIVALS OF KABOOM'
 buyurl: 'https://www.amazon.es/dp/B09HR21NBG/?tag=tolees-21'
 descuento: '21.84'
-average: '16.43375'
+average: '16.1622222222222'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
