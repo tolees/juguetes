@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Levanta el capó y descubre el motor bóxer de 6 cilindros con pistones móviles
 - Cuenta con carrocería de diseño aerodinámico
 - Incluye un juego de adhesivos de gran realismo
 - Incluye más de 2.700 elementos
-- Levanta el capó y descubre el motor bóxer de 6 cilindros con pistones móviles
 - Incluye un libro especial para coleccionistas impreso a todo color con las instrucciones de construcción del modelo e información acerca de la historia de LEGO Technic y los modelos GT de Porsche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
