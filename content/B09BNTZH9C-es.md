@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un estupendo regalo para niños en edad preescolar apasionados por los camiones de juguete y los animales, ¡sorpréndelos con este divertido set de construcción en su cumpleaños o en cualquier ocasión!
-- Con este camión de bomberos los peques mejoran su motricidad fina y desarrollan sus habilidades sociales y emocionales mientras juegan divertidas historias de rescate de animales de juguete
-- Este set de camión de bomberos de juguete incluye las figuras LEGO DUPLO de un bombero y un gatito, además de un árbol para construir y un vehículo con luz y sonido multifunción (pilas incluidas)
-- Cuando los peques hayan bajado al gato del árbol podrán darle golosinas con el accesorio de comida incluido y sacar la manguera de agua del camión para darle un poco de agua
 - Incluye una guía de construcción con imágenes ilustradas que introduce a los niños pequeños en la construcción creativa y en la narración de cuentos e historias, ¡ideal para el aprendizaje!
 - Con este juguete educativo los niños pequeños mayores de 2 años podrán empujar y girar la palanca del camión para subir la escalera y girar la cesta, ¡hay que salvar al gatito del árbol!
+- Este set de camión de bomberos de juguete incluye las figuras LEGO DUPLO de un bombero y un gatito, además de un árbol para construir y un vehículo con luz y sonido multifunción (pilas incluidas)
+- Un estupendo regalo para niños en edad preescolar apasionados por los camiones de juguete y los animales, ¡sorpréndelos con este divertido set de construcción en su cumpleaños o en cualquier ocasión!
+- Con este camión de bomberos los peques mejoran su motricidad fina y desarrollan sus habilidades sociales y emocionales mientras juegan divertidas historias de rescate de animales de juguete
+- Cuando los peques hayan bajado al gato del árbol podrán darle golosinas con el accesorio de comida incluido y sacar la manguera de agua del camión para darle un poco de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

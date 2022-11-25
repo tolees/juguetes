@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Entre los demás accesorios se incluye un órgano, peluca, sombreros, megáfono, radio, micrófono, una caja con una corona y una cabeza de esqueleto, y guiones; ¡los niños tienen todo lo necesario para inventar miles de historias!
-- Los niños podrán jugar a ser la próxima estrella del escenario con este juguete de construcción LEGO Friends que cuenta con un gran teatro repleto de accesorios con escenario, vestidor, orquesta, asientos en el palco y luces
-- Esta casa de muñecas tiene bisagras y se abre revelando el interior, un teatro al estilo West End de Londres con cortinas de tela que se pueden enrollar e instrumentos como una guitarra de juguete
-- Con este juego creativo los niños pueden acceder a la parte trasera del teatro y encontrar aparejos para las luces y un vestidor para cambiar a las 4 mini muñecas LEGO Friends incluidas
-- Incluye a Ollie, Freya, el Profesor Adrián y Andrea de LEGO Friends, ¡los niños podrán escoger a uno de los personajes para ponerle el disfraz de árbol y representar un divertido papel en el escenario!
 - Este set es un original regalo de Navidad, Reyes Magos y ocasiones especiales para peques de 8 años en adelante amantes de los cuentos y que sueñan con trabajar en el mundo de la actuación
+- Esta casa de muñecas tiene bisagras y se abre revelando el interior, un teatro al estilo West End de Londres con cortinas de tela que se pueden enrollar e instrumentos como una guitarra de juguete
+- Incluye a Ollie, Freya, el Profesor Adrián y Andrea de LEGO Friends, ¡los niños podrán escoger a uno de los personajes para ponerle el disfraz de árbol y representar un divertido papel en el escenario!
+- Con este juego creativo los niños pueden acceder a la parte trasera del teatro y encontrar aparejos para las luces y un vestidor para cambiar a las 4 mini muñecas LEGO Friends incluidas
+- Los niños podrán jugar a ser la próxima estrella del escenario con este juguete de construcción LEGO Friends que cuenta con un gran teatro repleto de accesorios con escenario, vestidor, orquesta, asientos en el palco y luces
 - Hay 2 fondos de escenario incluidos que los peques pueden cambiar para adaptar diferentes obras: un castillo medieval y un paisaje urbano nocturno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

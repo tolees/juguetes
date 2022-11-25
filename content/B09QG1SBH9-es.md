@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El conjunto incluye a las mini figuras LEGO NINJAGO de Cole Dragón Dorado con un par de alas de dragón doradas adornadas con púas y Zane Dorado
-- También se incluye al General Vangelis y armadas doradas: 2 espadas de juguete, estrellas ninja, 2 guadañas y más, ¡perfectas para recrear las escenas de acción de la serie de TV NINJAGO: Crystallized!
-- Este juego de acción es una opción de regalo excelente para niños y niñas de 7 años en adelante amantes de los aviones y los juguetes de ninjas
-- Los sets de juguete LEGO NINJAGO animan a los peques a dejar las pantallas de lado y escapar a un mundo de fantasía donde pueden batallar junto a sus héroes ninja favoritos
-- Los niños vivirán increíbles aventuras aéreas con este avión de juguete NINJAGO y sus 3 mini figuras LEGO, con las que jugarán a batallas entre el bien y el mal
-- Combina a la perfección con otros sets de vehículos de juguete de la colección NINJAGO Crystallized, entre los que se incluye la Moto del Dragón Dorado de Jay (71768) o el Todoterreno del Dragón de Cole (71769)
 - Este Reactor del Dragón Dorado de Zane cuenta con una cabina para colocar mini figuras LEGO, además de alas doradas extensibles que se pueden sacar y lo hacen parecer una estrella ninja voladora
+- También se incluye al General Vangelis y armadas doradas: 2 espadas de juguete, estrellas ninja, 2 guadañas y más, ¡perfectas para recrear las escenas de acción de la serie de TV NINJAGO: Crystallized!
+- El conjunto incluye a las mini figuras LEGO NINJAGO de Cole Dragón Dorado con un par de alas de dragón doradas adornadas con púas y Zane Dorado
+- Los sets de juguete LEGO NINJAGO animan a los peques a dejar las pantallas de lado y escapar a un mundo de fantasía donde pueden batallar junto a sus héroes ninja favoritos
+- Este juego de acción es una opción de regalo excelente para niños y niñas de 7 años en adelante amantes de los aviones y los juguetes de ninjas
+- Combina a la perfección con otros sets de vehículos de juguete de la colección NINJAGO Crystallized, entre los que se incluye la Moto del Dragón Dorado de Jay (71768) o el Todoterreno del Dragón de Cole (71769)
+- Los niños vivirán increíbles aventuras aéreas con este avión de juguete NINJAGO y sus 3 mini figuras LEGO, con las que jugarán a batallas entre el bien y el mal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
