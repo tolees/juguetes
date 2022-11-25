@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Pac-Man World Re-Pac'
-date: 2022-11-15 23:46:25
+date: 2022-11-25 07:12:51
 image: 'https://m.media-amazon.com/images/I/5128rys7vrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mundos de aventura
 - Saber moverse
-- Un clásico modernizado
 - Varios modos
+- Un clásico modernizado
+- Mundos de aventura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
