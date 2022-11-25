@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Proporciona pistas creativas para que tu equipo sea el primero en adivinar las palabras
+- Perderás un punto si utilizas alguna de las palabras Tabú
 - Tabu - Hasbro Gaming (Hasbro A4626105)
 - Cuando se utiliza alguna de las palabras Tabú en la descripción, haz sonar la bocina para que les chirríe
-- Proporciona pistas creativas para que tu equipo sea el primero en adivinar las palabras
 - El dado cambia-juego te permite subir de nivel el juego cuando domines la versión clásica
-- Perderás un punto si utilizas alguna de las palabras Tabú
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
