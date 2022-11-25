@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Tabú Clásico'
-date: 2022-11-21 11:30:30
+date: 2022-11-25 15:49:30
 image: 'https://m.media-amazon.com/images/I/41xrztRiuQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro Gaming'
 buyurl: 'https://www.amazon.es/dp/B00BD2E6VI/?tag=tolees-21'
 descuento: '33.34'
-average: '22.0846551724139'
+average: '22.0667521367522'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El dado cambia-juego te permite subir de nivel el juego cuando domines la versión clásica
+- Tabu - Hasbro Gaming (Hasbro A4626105)
 - Cuando se utiliza alguna de las palabras Tabú en la descripción, haz sonar la bocina para que les chirríe
 - Proporciona pistas creativas para que tu equipo sea el primero en adivinar las palabras
+- El dado cambia-juego te permite subir de nivel el juego cuando domines la versión clásica
 - Perderás un punto si utilizas alguna de las palabras Tabú
-- Tabu - Hasbro Gaming (Hasbro A4626105)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
