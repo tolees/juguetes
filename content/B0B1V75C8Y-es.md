@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Eventos comunitarios
+- Estratégias únicas
 - Luchadores personalizados
 - Varios modos de juego
-- Estratégias únicas
-- Eventos comunitarios
 - Temas de Lego favoritos para los fans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
