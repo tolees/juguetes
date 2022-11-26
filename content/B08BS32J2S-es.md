@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Ensalada de puntos  BGEPSP '
-date: 2022-11-24 12:24:21
+date: 2022-11-26 21:12:38
 image: 'https://m.media-amazon.com/images/I/51QbIE0wB-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08BS32J2S/?tag=tolees-21'
 descuento: '25.79'
-average: '10.668'
+average: '10.6427272727273'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un pequeño juego en formato lata con miles de combinaciones
+- Lo comprarás para tí y querrás que tus amigos también lo tengan
 - Se explica en un minuto, se juega en 10 y no podrás jugar solamente una partida
 - Selección de cartas, colección de cartas
-- Lo comprarás para tí y querrás que tus amigos también lo tengan
 
 [🛒 Visítala!!!]({{< param buyurl >}})

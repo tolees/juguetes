@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens - Juego de Cartas en Español - EKIEK01ES'
-date: 2022-11-23 23:58:41
+date: 2022-11-26 21:09:16
 image: 'https://m.media-amazon.com/images/I/41P-9-NIsRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
 - Juego de cartas de 2 a 5 jugadores, a partir de 7 años.
 - El resto de las cartas de la baraja sirven para cambiar de lugar, mitigar o evitar a los Exploding Kittens.
-- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico.
+- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
 - Cuando esto sucede, esa persona muere y queda eliminada de la partida (a no ser que tenga una carta de Desactivación, que permite desactivar al Exploding Kitten con armas como punteros láser, friegas de barriga o bocatas de menta gatuna).
+- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

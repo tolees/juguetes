@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens Party Pack - Juego de Mesa en Español  EKIEK04ES'
-date: 2022-11-22 15:13:04
+date: 2022-11-26 21:10:42
 image: 'https://m.media-amazon.com/images/I/41EEJtzP4NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La versión de Exploding Kittens más recomendable para fiestas, hasta 10 jugadores con nuevas mecánicas de juego para incorporar tantísimo gatito y en una entrañable caja musical...
-- Exploding kittens es el proyecto de kickstarter con más patrocinadores de la historia. Creado por Elan Lee (Xbox, ARGs), Matthew Inman (The Oatmeal), y Shane Small (Xbox, Marvel), el juego Exploding Kittens hizo historia en Kickstarter cuando logró contar con más de 219 000 patrocinadores.
-- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico. Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
-- Cuando esto sucede, esa persona muere y queda eliminada de la partida a no ser que tenga una carta de Desactivación, que anulará el efecto del Exploding Kitten con punteros láser, rascaditas de barriga y sándwiches de atún.
 - De 2 a 10 jugadores, a partir de 7 años de edad.
+- Cuando esto sucede, esa persona muere y queda eliminada de la partida a no ser que tenga una carta de Desactivación, que anulará el efecto del Exploding Kitten con punteros láser, rascaditas de barriga y sándwiches de atún.
+- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico. Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
+- Exploding kittens es el proyecto de kickstarter con más patrocinadores de la historia. Creado por Elan Lee (Xbox, ARGs), Matthew Inman (The Oatmeal), y Shane Small (Xbox, Marvel), el juego Exploding Kittens hizo historia en Kickstarter cuando logró contar con más de 219 000 patrocinadores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
