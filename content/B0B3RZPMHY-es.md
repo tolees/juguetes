@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - The Last Of Us Parte I PS5'
-date: 2022-11-24 11:45:05
+date: 2022-11-25 21:08:37
 image: 'https://m.media-amazon.com/images/I/41ZcMVehIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B3RZPMHY-es Playstation - The Last Of Us Parte I PS5'
 sku: 'B0B3RZPMHY-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','playstation','ps5','🇪🇸', ]
-actualPrice: 49.9 EUR
+actualPrice: 47.99 EUR
 currency: EUR
-price: 49.9
+price: 47.99
 comparePrice: 79.99 EUR
 prodname: 'Playstation - The Last Of Us Parte I PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B0B3RZPMHY/?tag=tolees-21'
-descuento: '37.62'
-average: '63.7664705882352'
+descuento: '40.01'
+average: '62.8899999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revive el aclamado juego que lo cambió todo para la consola PlayStation5
-- Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
-- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
 - Resiste y sobrevive
+- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
+- Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
+- Revive el aclamado juego que lo cambió todo para la consola PlayStation5
 
 [🛒 Aquí!!!]({{< param buyurl >}})
