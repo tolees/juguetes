@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sigue la colección del los Pequeños Grandes con esta, la saga de juegos de caja pequeña aptos para todos los bolsillos
 - Un eurogame divertido en el que comprobarás que criar dinosaurios puede ser más peligroso de lo que crees
+- Sigue la colección del los Pequeños Grandes con esta, la saga de juegos de caja pequeña aptos para todos los bolsillos
 - Crea el mini-rancho de dinosaurios más molón en Pequeños Grandes Dinosaurios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
