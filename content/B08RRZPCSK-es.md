@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Robusto, fácil de montar y con sistema Anti-UV, para menor pérdida de color y resistencia
-- Casa de juegos que incluye actividades de aprendizaje sobre la naturaleza
 - Dimensiones del producto montado: 150 cm de altura x 94 cm de ancho x 128 cm de fondo
-- Para niños a partir de 2 años
+- Casa de juegos que incluye actividades de aprendizaje sobre la naturaleza
 - Incluye: 2 papeleras de reciclaje, jardinería urbana y herramientas, agua de lluvia, molino de viento, panel solar de imitación, nido y comedero para pájaros
+- Para niños a partir de 2 años
+- Robusto, fácil de montar y con sistema Anti-UV, para menor pérdida de color y resistencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

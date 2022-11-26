@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Incluye:44 esferas, 37 barras de metal, 1 barra indicadora, 1 panel cuadrado, 2 tubos, 22 arandelas, 16 soportes, 16 barras lineales, 3 soportes cuadrados, 2 jaulas, 1 placa y 1 cono
 - Su fabricación suiza es seguro de calidad, todos los productos cumplen con las normas de seguridad europeas e internacionales más estrictas
 - Las barras, a través de los imanes colocados en ambos extremos, se conectan a las esferas, lo que te permite construir todo lo que se te ocurra.
 - Los productos Geomag pertenecen a la categoría STEM acrónimo de Ciencia, Tecnología, Ingeniería y Matemáticas, que define un enfoque de aprendizaje interdisciplinario
 - Geomag es el juego de construcción magnético famoso del mundo, formado por barras magnéticas y esferas metálicas
-- Incluye:44 esferas, 37 barras de metal, 1 barra indicadora, 1 panel cuadrado, 2 tubos, 22 arandelas, 16 soportes, 16 barras lineales, 3 soportes cuadrados, 2 jaulas, 1 placa y 1 cono
 
 [🛒 Visítala!!!]({{< param buyurl >}})

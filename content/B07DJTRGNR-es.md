@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se aprende en 2 minutos
+- El producto representa un juego de cartas
 - Es adecuado para 3-6 jugadores
 - Se juega en 15 minutos
 - La edad mínima recomendada es de 18 años
-- El producto representa un juego de cartas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
