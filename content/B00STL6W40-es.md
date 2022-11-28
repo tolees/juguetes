@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los niños pueden jugar solos o con amigos
-- La nariz se ilumina cuando las pinzas tocan los laterales
-- El juego clásico de Operación desafía a los niños a quitar las piezas sin hacer sonar la alarma
 - El jugador que quite más piezas del cuerpo gana
 - Incluye 13 piezas del cuerpo divertidas
+- Los niños pueden jugar solos o con amigos
+- El juego clásico de Operación desafía a los niños a quitar las piezas sin hacer sonar la alarma
+- La nariz se ilumina cuando las pinzas tocan los laterales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

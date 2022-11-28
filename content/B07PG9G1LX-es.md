@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre el ph de los alimentos comunes como limones, manzanas y otros que puedes encontrar en casa.
-- Consulta la tabla periódica y estudia la clasificación de los elementos.
-- Juguete en español.
-- Este kit contiene tubos de ensayo, gafas de seguridad, pipetas y todos los instrumentos de laboratorio necesarios para convertirte en un auténtico químico.
 - Un auténtico laboratorio científico para descubrir los secretos de la química a través de más de 120 experimentos.
+- Consulta la tabla periódica y estudia la clasificación de los elementos.
+- Este kit contiene tubos de ensayo, gafas de seguridad, pipetas y todos los instrumentos de laboratorio necesarios para convertirte en un auténtico químico.
+- Descubre el ph de los alimentos comunes como limones, manzanas y otros que puedes encontrar en casa.
+- Juguete en español.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
