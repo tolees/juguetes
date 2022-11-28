@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Patinete eléctrico urbano con potencia nominal de 350W 36V, estructura plegable, ligera y cómoda de llevar
-- Batería de litio con una capacidad de 8.800 mah, consigue una autonomía de aprox 25 Km / 3 modos de conducción seleccionables desde su display (Eco, Confort y Sport)
-- Dimensiones: 113X56X115 cm 15Kg. Incluye 1 mes de seguro gratuito canjeable vía online. Powered by Woxter
 - Ruedas neumáticas de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y freno de disco. Display en el manillar con información de la batería, Km recorridos, odómetro, selector de marcha y configuración del patinete
 - Potente iluminación Led: Foco frontal de alto brillo, leds en la base y luz de freno trasera. Suspensión delantera y trasera que proporciona una óptima absorción de baches e irregularidades en el terreno
+- Batería de litio con una capacidad de 8.800 mah, consigue una autonomía de aprox 25 Km / 3 modos de conducción seleccionables desde su display (Eco, Confort y Sport)
+- Dimensiones: 113X56X115 cm 15Kg. Incluye 1 mes de seguro gratuito canjeable vía online. Powered by Woxter
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

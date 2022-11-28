@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Si nunca habéis jugado a dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores; buscad el símbolo idéntico en las dos cartas (misma forma y mismo color, sólo el tamaño puede variar)
 - Contiene: 55 cartas e instrucciones
-- Pues ahora prepárate, porque dobble contiene varios mini-juegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez
 - Dobble harry potter es un juego en el tendrás que descubrir qué personaje, objeto, bestia fantástica o símbolo de las historias de hogwarts se repite entre dos cartas
 - El primer jugador que encuentre este símbolo, lo nombra y roba dos nuevas cartas que pondrá sobre la mesa; repetid esta operación hasta que todos los jugadores hayan entendido que siempre hay solamente un símbolo idéntico entre dos cartas y ya está. Sencillo, verdad
-- Si nunca habéis jugado a dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores; buscad el símbolo idéntico en las dos cartas (misma forma y mismo color, sólo el tamaño puede variar)
+- Pues ahora prepárate, porque dobble contiene varios mini-juegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez
 
 [🛒 Comprar!!!]({{< param buyurl >}})
