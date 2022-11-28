@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger - Alea Puerto Rico  Juegos de Estrategia  2-5 Jugadores  12+ Años'
-date: 2022-11-20 10:40:38
+date: 2022-11-28 11:30:57
 image: 'https://m.media-amazon.com/images/I/413eGjCz0SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B088XJYMDR/?tag=tolees-21'
 descuento: '37.09'
-average: '33.19'
+average: '32.865'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El objetivo es ganar el mayor número de puntos de victoria gobernando estratégicamente la isla de Puerto Rico. La selección del rol que desempeñar en cada turno será crucial, porque los demás jugadores también podrán llevar a cabo las acciones del personaje que has elegido, pero solo tú podrás obtener la ventaja asociada a ese rol.
-- Puerto Rico se juega por rondas. La ronda termina una vez que cada jugador haya escogido una tarjeta de Ciudadano y todos hayan llevado a cabo las acciones asociadas a cada uno de los roles escogidos. La partida termina cuando: no quedan bastantes trabajadores para rellenar la Sala de Contratación, uno o más jugadores han llenado sus casillas de Ciudad o no quedan más fichas de puntos de victoria. El jugador con el mayor número de puntos de victoria gana.
-- Descubre la línea completa de los juegos de mesa Alea: ¡Las Vegas, The Castles of Burgundy y muchas otras aventuras os esperan!
-- Durante el juego podréis construir edificios y hacer prosperar la ciudad, producir mercancías y despacharlas por mar para haceros ricos. ¡Intentad escoger cuidadosamente qué objetivos perseguir y planificad bien vuestra victoria!
 - Este juego de mesa tiene una duración media de 70/120 minutos y es perfecto para los que desean un reto exigente y de estrategia con una amplia variedad de opciones de juego gracias a las 4 expansiones incluidas: los Nuevos Edificios, los Nobles, el Bucanero y el Festival.
+- Durante el juego podréis construir edificios y hacer prosperar la ciudad, producir mercancías y despacharlas por mar para haceros ricos. ¡Intentad escoger cuidadosamente qué objetivos perseguir y planificad bien vuestra victoria!
+- Puerto Rico se juega por rondas. La ronda termina una vez que cada jugador haya escogido una tarjeta de Ciudadano y todos hayan llevado a cabo las acciones asociadas a cada uno de los roles escogidos. La partida termina cuando: no quedan bastantes trabajadores para rellenar la Sala de Contratación, uno o más jugadores han llenado sus casillas de Ciudad o no quedan más fichas de puntos de victoria. El jugador con el mayor número de puntos de victoria gana.
+- El objetivo es ganar el mayor número de puntos de victoria gobernando estratégicamente la isla de Puerto Rico. La selección del rol que desempeñar en cada turno será crucial, porque los demás jugadores también podrán llevar a cabo las acciones del personaje que has elegido, pero solo tú podrás obtener la ventaja asociada a ese rol.
+- Descubre la línea completa de los juegos de mesa Alea: ¡Las Vegas, The Castles of Burgundy y muchas otras aventuras os esperan!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
