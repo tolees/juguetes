@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La Dulce Casita de las Frambuesas incluye figura de Crème, el bebé de la Familia Conejo Chocolate, y su camita tobogán.
+- La Dulce Casita de las Frambuesas es uno de los lugares favoritos de los bebés de la Aldea Sylvanian.
+- Edad recomendada: +3 años
 - Aquí se reúnen para jugar los días de lluvia o cuando Crème los invita a merendar las delicias que hornea su papá Frasier.
 - Combina la Dulce Casita de las Frambuesas con el resto de residencias (referencias 5302, 5303 y 5400) o conéctala con las tiendas o la Guardería (5316) para añadir un piso extra de juego.
-- Edad recomendada: +3 años
-- La Dulce Casita de las Frambuesas es uno de los lugares favoritos de los bebés de la Aldea Sylvanian.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

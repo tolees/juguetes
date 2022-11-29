@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El set Familia Cabra incluye 4 figuras: el papa Cabra, Billy el cartero; mamá Cabra, Nancy; Mandy, la hija y; la hermana pequeña Jenny.
+- Estimula el juego de rol imaginativo de los niños.
 - Edad recomendada: +3 años.
 - Las extremidades de las figuras se mueven.
 - La bebé y el papá llevan ropa juego.
-- Estimula el juego de rol imaginativo de los niños.
-- El set Familia Cabra incluye 4 figuras: el papa Cabra, Billy el cartero; mamá Cabra, Nancy; Mandy, la hija y; la hermana pequeña Jenny.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
