@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Barbie Casa de Muñecas Malibú - Casa Transformable de 2 Plantas con 6 Habitaciones - Más de 25 Piezas - Ancho: 60 cm - Regalo para Niños de 3+ Años'
-date: 2022-11-25 13:40:48
-image: 'https://m.media-amazon.com/images/I/51gxMRN+4NL._SL500_._SL400_.jpg'
+title: 'Barbie Casa Malibu  casa de muñecas de dos pisos plegable con muebles y accesorios  Mattel FXG57 '
+date: 2022-11-30 03:10:59
+image: 'https://m.media-amazon.com/images/I/41NpGe9tdCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07NH1W4TB-es Barbie Casa de Muñecas Malibú - Casa Transformable de 2...'
+slug: 'B07NH1W4TB-es Barbie Casa Malibu casa de muñecas de dos pisos plegable...'
 sku: 'B07NH1W4TB-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecas y accesorios','Sets de accesorios','barbie','🇪🇸', ]
-actualPrice: 105.13 EUR
+tags: [ 'Juguetes','Juguetes y juegos','Muñecas y accesorios','Sets de accesorios','barbie','mattel','🇪🇸', ]
+actualPrice: 98.96 EUR
 currency: EUR
-price: 105.13
+price: 98.96
 comparePrice: 154.99 EUR
-prodname: 'Barbie Casa de Muñecas Malibú - Casa Transformable de 2 Plantas con 6 Habitaciones - Más de 25 Piezas - Ancho: 60 cm - Regalo para Niños de 3+ Años'
+prodname: 'Barbie Casa Malibu  casa de muñecas de dos pisos plegable con muebles y accesorios  Mattel FXG57 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Barbie'
 buyurl: 'https://www.amazon.es/dp/B07NH1W4TB/?tag=tolees-21'
-descuento: '32.17'
-average: '91.3470454545454'
+descuento: '36.15'
+average: '91.5162222222222'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UNA CASA TAN GRANDE COMO LA IMAGINACIÓN DE LAS NIÑAS. La Barbie Casa Malibú mide 60 cm de ancho y tiene más de 25 accesorios y piezas que se transforman. Es perfecta para que expresen su creatividad.
-- MUEBLES INCLUIDOS. Esta casa Barbie contiene un sofá, una mesa de centro, una mesa de comedor y 4 sillas. Las niñas pueden inventarse historias con la vajilla, la comida y los artículos de baño.
-- MÚLTIPLES HABITACIONES. La Barbie Casa Malibú cuenta con 6 habitaciones en 2 plantas, incluida una habitación con litera para invitados y un acogedor salón que se convierte en cuarto de juegos.
-- JUEGO IMAGINATIVO. Las habitaciones 2 en 1 que se transforman y los más de 25 accesorios las animan a crear infinitas historias con Barbie. Su diseño listo para usar fomenta el juego activo.
-- ES UN REGALO FANTÁSTICO en cualquier ocasión para niñas mayores de 3 años. El conjunto de juego viene en un embalaje ecológico sin cartón y está a la vista una vez abierto. La muñeca no está incluida.
+- Más de 25 accesorios que se pueden ordenar de varias formas para conseguir distintos diseños y contar historias; algunas piezas tienen un asa para que la muñeca lo sostenga o un diseño con funciones de encaje automático para que los niños se sumerjan en las historias.
+- Los muebles incluyen un sofá, una mesa de café, una mesa de comedor y 4 sillas; los accesorios incluyen vajilla, comida, artículos del baño, un saco de dormir y un tablero de juego.
+- Gira la pared del salón para crear una habitación llena de entretenimiento, desliza el tocador del baño para encontrar una ducha y baja el techo de la habitación para transformarla en una litera y hacer espacio para que las 4 hermanas duerman juntas.
+- Múdate a la Casa Malibú de Barbie. ¡Se abre para crear un espacio de juego de más de 60cm de ancho!
+- Las 2 plantas presentan 6 habitaciones: cocina, comedor, salón, dormitorio, baño y patio exterior. Además, las funciones de transformación hace que algunas habitaciones sean 2 en 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
