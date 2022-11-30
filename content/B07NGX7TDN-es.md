@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- THIS PLAYSET INCLUDES 1 closet with shelf space and a fold-out rack, 1 Barbie doll, 1 romper, 2 dresses, 3 pairs of shoes, 2 necklaces, 2 bags and 6 hangers. Accessories fit most Barbie dolls.
 - TELL STORIES THROUGH FASHION. Kids will love filling Barbies closet and creating new outfit combinations with 9 fashion accessories that can be glimpsed through the wardrobes clear double doors.
 - THE PERFECT GIFT for kids age 3 and up – a fashionable present for all occasions. When the fold-out rack is folded in, Barbie fits inside the closet for dress-up fun anywhere.
 - MIX AND MATCH OUTFITS AND ACCESSORIES. Kids can combine a romper and 2 dresses in bright graphic prints with shoes, necklaces and bags to create endless combinations. Colours and decorations may vary.
 - EXPLORE PERSONAL STYLE WITH BARBIE. Barbies style lets kids express themselves by experimenting with fashion. The closets carrying handle means its perfect for portable storytelling.
+- THIS PLAYSET INCLUDES 1 closet with shelf space and a fold-out rack, 1 Barbie doll, 1 romper, 2 dresses, 3 pairs of shoes, 2 necklaces, 2 bags and 6 hangers. Accessories fit most Barbie dolls.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
