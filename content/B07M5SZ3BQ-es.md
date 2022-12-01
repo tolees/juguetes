@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utiliza nuevas armaduras y coches para derrotar a los alienígenas
 - Desbloquea y juega con más de 100 personajes
 - Multitud de personajes heroicos
+- Utiliza nuevas armaduras y coches para derrotar a los alienígenas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
