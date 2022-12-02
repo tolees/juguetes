@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'PLAYMOBIL Pista de Skate 70168'
-date: 2022-11-21 11:32:58
-image: 'https://m.media-amazon.com/images/I/61IUHHYeV5L._SL500_._SL400_.jpg'
+date: 2022-12-02 11:07:05
+image: 'https://m.media-amazon.com/images/I/51J02AtsKsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07SHC3Y7D/?tag=tolees-21'
 descuento: '46.13'
-average: '26.8213333333333'
+average: '26.706875'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paqueteage Dimensiones: 12.0 L x 43.2 H x 32.6 W (centimeters)
-- Material duradero
 - Producto de calidad
+- Paqueteage Dimensiones: 12.0 L x 43.2 H x 32.6 W (centimeters)
 - Plástico
+- Material duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

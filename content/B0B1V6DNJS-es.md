@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLYFUN Camara Fotos Infantil  12MP 4X Zoom Cámara para Niños  1080P HD Selfie Video Cámara con 32GB TF Tarjeta  Juguetes Cumpleaños Regalo de Navidadniña 3 4 5 6 7 8 9 10 11 12 años'
-date: 2022-12-01 10:29:36
+date: 2022-12-02 10:52:28
 image: 'https://m.media-amazon.com/images/I/51wFJAZvlHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ONLYFUN'
 buyurl: 'https://www.amazon.es/dp/B0B1V6DNJS/?tag=tolees-21'
 descuento: '15.03'
-average: '26.1771428571428'
+average: '25.8266666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
