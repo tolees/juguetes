@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye las figuras LEGO de un elefante, un ternero, un cocodrilo y 2 de monos de juguete, además de 4 mini figuras LEGO de un equipo de rescate de animales
-- El helicóptero tiene un cabrestante que funciona, rotores giratorios y un compartimento de carga, y el coche de juguete tiene una cadena de elevación desmontable y un compartimento de almacenamiento
-- Este set de animales de juguete es un regalo fantástico de cumpleaños, Navidad o en cualquier ocasión para niños y niñas de 6 años en adelante que sueñan con ser veterinarios
-- También cuenta con un entorno de sabana con función de deslizamiento de tierra: los niños presionan una palanca y activan el deslizamiento de árboles y rocas
 - Este set de operaciones de rescate LEGO City Wildlife cuenta con un helicóptero de juguete con cabrestante, un coche oruga y una clínica veterinaria para animales
+- También cuenta con un entorno de sabana con función de deslizamiento de tierra: los niños presionan una palanca y activan el deslizamiento de árboles y rocas
+- El helicóptero tiene un cabrestante que funciona, rotores giratorios y un compartimento de carga, y el coche de juguete tiene una cadena de elevación desmontable y un compartimento de almacenamiento
 - Entre los divertidos accesorios LEGO se incluyen una lupa de juguete, un plátano, una escayola médica para el mono, una taza, varios objetos de laboratorio y un huevo de cocodrilo
 - Incluye una sencilla guía de construcción e instrucciones digitales interactivas, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
+- Incluye las figuras LEGO de un elefante, un ternero, un cocodrilo y 2 de monos de juguete, además de 4 mini figuras LEGO de un equipo de rescate de animales
+- Este set de animales de juguete es un regalo fantástico de cumpleaños, Navidad o en cualquier ocasión para niños y niñas de 6 años en adelante que sueñan con ser veterinarios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

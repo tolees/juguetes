@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este set de construcción cuenta con la Residencia Ejecutiva, el Ala Oeste y el Ala Este conectadas por columnas, el Jardín de las Rosas y el Jardín de Jacqueline Kennedy
-- La Casa Blanca de LEGO una gran variedad de piezas yladrillos LEGO, claras instrucciones y un folleto en inglés con su historia (otros idiomas disponibles en LEGO.com/architecture)
 - Este LEGO para adultos es un regalo original y perfecto para todos los amantes de la historia, el diseño, los viajes por el mundo y la arquitectura
+- Este set de construcción cuenta con la Residencia Ejecutiva, el Ala Oeste y el Ala Este conectadas por columnas, el Jardín de las Rosas y el Jardín de Jacqueline Kennedy
+- Si siempre has soñado con visitar el icono de Washington D. C. esta es tu oportunidad, disfrutarás durante horas de un gratificante y creativo proyecto de construcción
+- La Casa Blanca de LEGO una gran variedad de piezas yladrillos LEGO, claras instrucciones y un folleto en inglés con su historia (otros idiomas disponibles en LEGO.com/architecture)
 - Explora la residencia más célebre del mundo entero con esta maqueta para construir para adultos de La Casa Blanca, todo un verdadero icono de Estados Unidos al alcance de tu mano
 - Diseñado pensando en adultos, ¡podrás tener una pieza para casa de decoración única que ha sido ocupada por todos los presidentes de Estados Unidos desde 1800!
 - Con la autenticidad y el diseño neoclásico de esta construcción, el modelo de coleccionista se puede dividir fácilmente en 3 secciones para apreciar mejor los detalles
-- Si siempre has soñado con visitar el icono de Washington D. C. esta es tu oportunidad, disfrutarás durante horas de un gratificante y creativo proyecto de construcción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
