@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'jerryvon Juguetes Niños 1 2 año Xilofono Infantil Juguetes Bebes 1 2 año - 4 en 1 Regalo Bebe Juguetes de Madera con Martillo Puzzle Madera para Niños Niñas Juguetes Niños 1 2 Años Regalos Navidad'
-date: 2022-12-01 22:41:38
+date: 2022-12-02 22:59:58
 image: 'https://m.media-amazon.com/images/I/51fg0HfXCvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'jerryvon'
 buyurl: 'https://www.amazon.es/dp/B0892BFPD4/?tag=tolees-21'
 descuento: '15.01'
-average: '26.6813020833337'
+average: '26.6782077922082'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
