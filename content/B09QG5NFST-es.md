@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76401 Harry Potter Patio de Hogwarts: Rescate de Sirius  Prisionero de Azkaban  Torre del Castillo  Juguete de Construcción para Niños de 8 Años'
-date: 2022-12-03 10:54:01
+date: 2022-12-05 09:55:03
 image: 'https://m.media-amazon.com/images/I/51haGpppU3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QG5NFST-es LEGO 76401 Harry Potter Patio de Hogwarts: Rescate de...'
 sku: 'B09QG5NFST-es'
 tags: [ 'Barebones','Informática','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 39.99 EUR
+actualPrice: 30.39 EUR
 currency: EUR
-price: 39.99
+price: 30.39
 comparePrice: 49.99 EUR
 prodname: 'LEGO 76401 Harry Potter Patio de Hogwarts: Rescate de Sirius  Prisionero de Azkaban  Torre del Castillo  Juguete de Construcción para Niños de 8 Años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QG5NFST/?tag=tolees-21'
-descuento: '20.00'
-average: '43.4345714285712'
+descuento: '39.21'
+average: '43.072222222222'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este juguete de construcción incluye las mini figuras LEGO de Harry Potter, Hermione Granger y Sirius Black, y una figura del Hipogrifo Buckbeak con alas móviles y espacio en la espalda para una mini figura
-- Este set incluye 2 cromos mágicos aleatorios (hay 16 en total) que los peques pueden coleccionar
-- Los peques pueden revivir la emocionante escena de la fuga de Sirius Black en Harry Potter y el Prisionero de Azkaban o crear sus propias historias voladoras a lomos de Buckbeak
-- Entre los accesorios del set se incluyen la famosa escoba de carreras de juguete Firebolt de Harry, esposas, una vela, una varita, y comida y bebida para Buckbeak
-- Cuenta con una torre de juguete de 3 pisos, decorada con plantas colgantes, enredaderas, telarañas y antorchas, además de una escalera de caracol que conduce a una sala de guardia y una celda
-- Una gran idea de regalo para jóvenes magos y brujas de 8 años en adelante, que es muy fácil de construir gracias a la app gratuita Instrucciones de Montaje LEGO
 - Los niños pueden construir la celda de la torre del castillo de Hogwarts y el patio interior, este set modular se conecta a otros de la gama LEGO Harry Potter, ¡podrás recrear Hogwarts al completo!
+- Este juguete de construcción incluye las mini figuras LEGO de Harry Potter, Hermione Granger y Sirius Black, y una figura del Hipogrifo Buckbeak con alas móviles y espacio en la espalda para una mini figura
+- Cuenta con una torre de juguete de 3 pisos, decorada con plantas colgantes, enredaderas, telarañas y antorchas, además de una escalera de caracol que conduce a una sala de guardia y una celda
+- Este set incluye 2 cromos mágicos aleatorios (hay 16 en total) que los peques pueden coleccionar
+- Una gran idea de regalo para jóvenes magos y brujas de 8 años en adelante, que es muy fácil de construir gracias a la app gratuita Instrucciones de Montaje LEGO
+- Entre los accesorios del set se incluyen la famosa escoba de carreras de juguete Firebolt de Harry, esposas, una vela, una varita, y comida y bebida para Buckbeak
+- Los peques pueden revivir la emocionante escena de la fuga de Sirius Black en Harry Potter y el Prisionero de Azkaban o crear sus propias historias voladoras a lomos de Buckbeak
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
