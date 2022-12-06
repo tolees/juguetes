@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41949 Dots Megapack de Adornos para Mochila: Mensajes  Llaveros Personalizables  Etiquetas Colegio  Material Escolar  Manualidades para Niños  Juguetes'
-date: 2022-12-04 11:50:10
+date: 2022-12-05 23:52:08
 image: 'https://m.media-amazon.com/images/I/51d9+W091cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNT43D7-es LEGO 41949 Dots Megapack de Adornos para Mochila: Mensajes...'
 sku: 'B09BNT43D7-es'
 tags: [ 'Actividades creativas','Juegos de construcción para niños','Juegos de manualidades','Juegos para crear joyas','Juguetes','Juguetes y juegos','Sets de construcción','juguetes','lego','🇪🇸', ]
-actualPrice: 24.99 EUR
+actualPrice: 20.99 EUR
 currency: EUR
-price: 24.99
+price: 20.99
 comparePrice: 29.99 EUR
 prodname: 'LEGO 41949 Dots Megapack de Adornos para Mochila: Mensajes  Llaveros Personalizables  Etiquetas Colegio  Material Escolar  Manualidades para Niños  Juguetes'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNT43D7/?tag=tolees-21'
-descuento: '16.67'
-average: '23.421'
+descuento: '30.01'
+average: '23.2'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
