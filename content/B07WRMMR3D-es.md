@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye un funda ideal para mantener su consola portátil Switch Lite protegida mientras está en movimiento, así como un paquete doble de protectores de pantalla de vidrio templado para mayor protección
 - Siempre es útil tener un cable de carga USB y auriculares de repuesto. Al igual que el Stylus DuoPen, que combina un stylus con pantalla táctil y un bolígrafo
-- Para obtener más detalles sobre lo que incluye este paquete, consulte la sección Descripción del producto en esta página a continuación. Tenga en cuenta que la consola y los juegos que se muestran en las imágenes son solo para fines ilustrativos y no están incluidos.
-- Con Comfort Grip Funda se consigue un agarre más cómodo y fácil de su consola Switch Lite durante períodos más largos de reproducción portátil. Mientras que el estuche de almacenamiento de juegos le permite almacenar y organizar de manera segura algunos de sus juegos
 - Un paquete de inicio de gran valor que incluye fundas protectoras y protectores de pantalla para Nintendo Switch Lite (2019), así como otros accesorios útiles que lo ayudarán a aprovechar al máximo su nueva consola
+- Incluye un funda ideal para mantener su consola portátil Switch Lite protegida mientras está en movimiento, así como un paquete doble de protectores de pantalla de vidrio templado para mayor protección
+- Con Comfort Grip Funda se consigue un agarre más cómodo y fácil de su consola Switch Lite durante períodos más largos de reproducción portátil. Mientras que el estuche de almacenamiento de juegos le permite almacenar y organizar de manera segura algunos de sus juegos
+- Para obtener más detalles sobre lo que incluye este paquete, consulte la sección Descripción del producto en esta página a continuación. Tenga en cuenta que la consola y los juegos que se muestran en las imágenes son solo para fines ilustrativos y no están incluidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
