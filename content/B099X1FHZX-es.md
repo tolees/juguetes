@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Son muñecas articuladas con el pelo súper largo y ondulado para peinarlo, que miden 25 centímetros de alto
-- Una muñeca recomendada para niñas y niños a partir de 3 años que fomenta el desarrollo afectivo y la imaginación
 - Amy tiene los ojos grandes y verdes, y el pelo largo y rubio. Lleva un look a la moda con un vestido de lentejuelas rosa, una chaqueta vaquera y unas botas blancas
-- Hay 3 personajes distintos: Amy, Sophia y Rebecca; con estilos de ropa modernos, diferentes y a la moda
 - Las muñecas de Unique Eyes son unas nuevas fashion dolls con una característica única: una mirada que siempre te sigue te pongas donde te pongas
+- Una muñeca recomendada para niñas y niños a partir de 3 años que fomenta el desarrollo afectivo y la imaginación
+- Son muñecas articuladas con el pelo súper largo y ondulado para peinarlo, que miden 25 centímetros de alto
+- Hay 3 personajes distintos: Amy, Sophia y Rebecca; con estilos de ropa modernos, diferentes y a la moda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

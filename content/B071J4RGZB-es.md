@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 2 volantes (azul y rojo) para Nintendo Switch; cada uno lleva un mando Joy-Con (no incluidos).
 - Fabricada con acolchado adicional para proteger los mandos Joy-Con mientras los usas. Los mandos Joy-Con y la consola Switch se venden por separado.
-- Empuñadura de doble inyección para un agarre cómodo, incluso durante largas sesiones de juego; grandes botones SR/SL laterales para un control absoluto.
 - Un volante para el mando izquierdo; y otro, para el derecho. Podrás así jugar con un amigo y son ideales para los juegos de carreras.
+- Empuñadura de doble inyección para un agarre cómodo, incluso durante largas sesiones de juego; grandes botones SR/SL laterales para un control absoluto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
