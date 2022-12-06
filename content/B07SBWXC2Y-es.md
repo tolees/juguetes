@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Accetta il lavoro più rischioso della tua vita e dai la caccia al prototipo di un impianto in grado di conferire limmortalità.
-- Bonus digitali inclusi nella D1 Edition: colonna sonora del gioco, libretto digitale con una selezione di bozzetti del gioco, manuale di cyberpunk 2020, sfondi per desktop e dispositivi Mobile; - fumetto digitale cyberpunk 2077: la tua voce
 - Entra nellimmenso mondo aperto di Night City, un luogo che definisce nuovi standard in termini di grafica, complessità e profondità.
 - Diventa un cyberpunk, un mercenario urbano dotato di potenziamenti cibernetici, e crea la tua leggenda sulle strade di Night City.
+- Accetta il lavoro più rischioso della tua vita e dai la caccia al prototipo di un impianto in grado di conferire limmortalità.
+- Bonus digitali inclusi nella D1 Edition: colonna sonora del gioco, libretto digitale con una selezione di bozzetti del gioco, manuale di cyberpunk 2020, sfondi per desktop e dispositivi Mobile; - fumetto digitale cyberpunk 2077: la tua voce
 
 [🛒 Visítala!!!]({{< param buyurl >}})
