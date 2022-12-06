@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juego de historias con un sistema de PRG Real: Jugabilidad similar a la de Detroit: Become Human y aún más atractiva gracias a las mecánicas inspiradas en el juego de rol: vampire disciplines y Hunger for blood.
-- Basado en el favorito de culto jugado por 30 millones de personas y desarrollado por especialistas del género, Swansong es un juego de rol basado en la historia, en el que tus elecciones escriben la historia.
-- Un Thriller de 15 horas que puedes jugar una y otra vez. Acepta las consecuencias de tus decisiones en un juego lleno de giros narrativos y con múltiples finales posibles.
 - Calidad Cinematográfica: sucumbe a la atmósfera oscura y glamurosa magnificada por la música compuesta por Olivier Derivière.
+- Un juego de historias con un sistema de PRG Real: Jugabilidad similar a la de Detroit: Become Human y aún más atractiva gracias a las mecánicas inspiradas en el juego de rol: vampire disciplines y Hunger for blood.
 - Juega como 3 vampiros más elegantes de Boston: usa sus poderes y encuentra el equilibrio entre tu bestia interior y tu humanidad para desentrañar una emocionante intriga que decidirá el destino de Boston.
+- Un Thriller de 15 horas que puedes jugar una y otra vez. Acepta las consecuencias de tus decisiones en un juego lleno de giros narrativos y con múltiples finales posibles.
+- Basado en el favorito de culto jugado por 30 millones de personas y desarrollado por especialistas del género, Swansong es un juego de rol basado en la historia, en el que tus elecciones escriben la historia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
