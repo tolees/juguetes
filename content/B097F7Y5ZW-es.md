@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pasa el trapito por las machitas de las figuras ¡desaparecen
-- Bañera de 25 cm cuenta con dos figuras de JJ y TomTom
-- Contiene 2 figuras de baño que expulsan agua (submarino y barco)
 - Si aprietas el botón rojo de la bañera, reproduce la exitosa canción de YouTube “Bath song”
+- Bañera de 25 cm cuenta con dos figuras de JJ y TomTom
+- Pasa el trapito por las machitas de las figuras ¡desaparecen
 - Diviertete con Jj y Tom a la hora del Baño! la bañera musica es Playset que hara que tus horas de baño sean las màs divertidas
+- Contiene 2 figuras de baño que expulsan agua (submarino y barco)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

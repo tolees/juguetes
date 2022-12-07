@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coche de Carreras Pocoyó como en la serie de televisión
-- Pulsa la cabeza de Pocoyó y arranca motores
 - Efecto choque con cambio de dirección y retroceso
+- Pulsa la cabeza de Pocoyó y arranca motores
 - Modo silencio para jugar sin hacer ruido
 - Tiene dos velocidades, música de la serie y sonidos
+- Coche de Carreras Pocoyó como en la serie de televisión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
