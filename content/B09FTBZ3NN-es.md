@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora la belleza
 - Busca el significado
 - Conoce a Norah
 - Sumérgete en las profundidades
+- Explora la belleza
 
 [🛒 Aquí!!!]({{< param buyurl >}})
