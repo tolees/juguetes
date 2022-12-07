@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pocoyó - Pocoyo - Coche de Carreras  Bandai TO77400 '
-date: 2022-12-06 01:20:21
+date: 2022-12-07 01:26:08
 image: 'https://m.media-amazon.com/images/I/41TYIF+rhdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pocoyó'
 buyurl: 'https://www.amazon.es/dp/B08C51VJKL/?tag=tolees-21'
 descuento: '45.12'
-average: '30.9672'
+average: '30.5569230769231'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene dos velocidades, música de la serie y sonidos
 - Coche de Carreras Pocoyó como en la serie de televisión
 - Pulsa la cabeza de Pocoyó y arranca motores
-- Modo silencio para jugar sin hacer ruido
 - Efecto choque con cambio de dirección y retroceso
+- Modo silencio para jugar sin hacer ruido
+- Tiene dos velocidades, música de la serie y sonidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
