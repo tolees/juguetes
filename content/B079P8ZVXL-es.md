@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Colonias en Guerra Juego de Tablero  EEPHDW03 '
-date: 2022-12-05 15:11:28
+date: 2022-12-06 22:33:17
 image: 'https://m.media-amazon.com/images/I/51Bwz3cIDSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B079P8ZVXL/?tag=tolees-21'
 descuento: '24.98'
-average: '21.4448'
+average: '21.7738461538462'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Dead of Winter: Colonias en Guerra amplía tanto Dead of Winter como Dead of Winter: La Larga Noche
 - Los humanos son muertos vivientes andantes; nosotros somos supervivientes
-- Number of players: 2-5
 - Hace tiempo que dejamos de ser humanos
+- Number of players: 2-5
 
 [🛒 Aquí!!!]({{< param buyurl >}})
