@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Rugby 22  Videojuego de Rugby  Versión Española  PS5'
-date: 2022-12-06 22:25:20
+date: 2022-12-08 11:21:19
 image: 'https://m.media-amazon.com/images/I/41ybUF3v1BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ponte al mando de los clubes y las naciones importantes del mundo del rugby y participa en las competiciones prestigiosas en modos individuales y multijugador, local y online
 - Lleva a tu equipo y conduce a tus jugadores hasta la victoria en torneos, ligas oficiales y un modo; carrera en el que podrás crear y gestionar tu propio equipo
-- 60 equipos oficiales; juega con una amplia gama de clubes oficiales y selecciones nacionales con los jugadores y equipaciónes de esta temporada
 - Un juego hecho para los aficionados; rugby 22 ofrece una auténtica experiencia de rugby con un profundo sistema táctico y una autenticidad que recrea la intensidad de los partidos
+- Ponte al mando de los clubes y las naciones importantes del mundo del rugby y participa en las competiciones prestigiosas en modos individuales y multijugador, local y online
+- 60 equipos oficiales; juega con una amplia gama de clubes oficiales y selecciones nacionales con los jugadores y equipaciónes de esta temporada
 - Rugby 22 ofrece el rugby total, combinando táctica e intensidad a través de un sistema de juego que reproduce el deporte con toda fidelidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
