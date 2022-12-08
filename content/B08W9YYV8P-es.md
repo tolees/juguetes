@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71387 Super Mario Aventuras con Luigi Pack Inicial  Juguete con Mini Figura Interactiva  Set de Construcción  Regalos Originales para Niños'
-date: 2022-12-06 01:21:36
+date: 2022-12-08 01:52:49
 image: 'https://m.media-amazon.com/images/I/51Gtl0vqa7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08W9YYV8P-es LEGO 71387 Super Mario Aventuras con Luigi Pack Inicial...'
 sku: 'B08W9YYV8P-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 36.87 EUR
+actualPrice: 41.79 EUR
 currency: EUR
-price: 36.87
+price: 41.79
 comparePrice: 59.99 EUR
 prodname: 'LEGO 71387 Super Mario Aventuras con Luigi Pack Inicial  Juguete con Mini Figura Interactiva  Set de Construcción  Regalos Originales para Niños'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W9YYV8P/?tag=tolees-21'
-descuento: '38.54'
-average: '43.0356218905473'
+descuento: '30.34'
+average: '43.0294554455446'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
