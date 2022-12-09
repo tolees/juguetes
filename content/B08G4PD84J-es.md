@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Siéntete como uno más del equipo de los Cazafantasmas con esta maqueta para construir para adultos del famoso Ecto-1
-- Construye el coche Ghostbusters y su mecanismo de dirección, trampilla con trampa para fantasmas, asiento de artillería extensible, antena móvil y equipos de detección de fantasmas
+- Un modelo de coleccionista con auténticos detalles como un parabrisas curvo, volante modular y un logo del fantasma atrapado con una señal de prohibido
 - Con más de 2000 ladrillos LEGO, te divertirás durante horas con esta compleja manualidad para adultos, incluye detalladas instrucciones paso a paso con información sobre el coche
 - Diseñado especialmente para adultos, este set de construcción está basado en la película Cazafantasmas: Más Allá, ¡revive tus escenas favoritas mientras construyes!
-- Un modelo de coleccionista con auténticos detalles como un parabrisas curvo, volante modular y un logo del fantasma atrapado con una señal de prohibido
 - Expón con orgullo tu creación, esta tuneada ambulancia Cazafantasmas Cadillac Miller-Meteor queda genial en el salón o en la oficina
+- Construye el coche Ghostbusters y su mecanismo de dirección, trampilla con trampa para fantasmas, asiento de artillería extensible, antena móvil y equipos de detección de fantasmas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
