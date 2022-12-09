@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las exclusivas cámaras herméticas y los transductores ASUS Essence de 40 mm ofrecen un sonido fiel y graves optimizados para una experiencia de audio envolvente
-- Certificado por Discord y TeamSpeak, el micrófono optimizado ofrece unas comunicaciones más claras
-- Controles físicos multimedia y para activar el micrófono
-- Compatible con PC, Mac, teléfonos móviles, PlayStation 5, Xbox Series X y S, y Nintendo Switch
 - Pesa solo 252 g y tiene un diseño plegable que ofrece comodidad durante las sesiones de juego largas y mientras te desplazas
+- Compatible con PC, Mac, teléfonos móviles, PlayStation 5, Xbox Series X y S, y Nintendo Switch
+- Controles físicos multimedia y para activar el micrófono
+- Certificado por Discord y TeamSpeak, el micrófono optimizado ofrece unas comunicaciones más claras
+- Las exclusivas cámaras herméticas y los transductores ASUS Essence de 40 mm ofrecen un sonido fiel y graves optimizados para una experiencia de audio envolvente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
