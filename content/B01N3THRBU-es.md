@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Sony - Dualshock 4 V2 Mando Inalámbrico  Color Rojo  Magma Red   PS4 '
-date: 2022-12-05 19:18:25
+date: 2022-12-10 08:35:53
 image: 'https://m.media-amazon.com/images/I/41n8FWC2sEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B01N3THRBU/?tag=tolees-21'
 descuento: '28.36'
-average: '62.1534959349594'
+average: '62.0392741935484'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puertos: USB (micro B), puerto de ampliación, toma de auricular estéreo
-- Es de la marca Sony
 - Comunicación inalámbrica: Bluetooth Ver2.1+EDR
-- Controlador inalámbrico Dualshock 4
 - Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
+- Es de la marca Sony
+- Controlador inalámbrico Dualshock 4
+- Puertos: USB (micro B), puerto de ampliación, toma de auricular estéreo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
