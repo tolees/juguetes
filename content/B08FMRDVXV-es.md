@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EXIN FIESTA contiene 3 juegos distintos dentro de la misma caja para que puedas cambiar y tener horas interminables de diversión.
+- Juego 1 (ASESINO): los jugadores inocentes deben descubrir quién o quienes son los asesinos encubiertos en el juego. Juego 2 (TEAMS): adivina el mayor número de palabras siguiendo las normas de cada ronda: descripción, palabra, mímica, dibujo y sonido. Juego 3 (SPEED): responde el máximo número de cartas con tu equipo en 1 minuto.
 - De 30 a 45 minutos. Desde 4 a 20 jugadores.
 - Un juego para convertir una reunión de amigos en una fiesta memorable.
+- EXIN FIESTA contiene 3 juegos distintos dentro de la misma caja para que puedas cambiar y tener horas interminables de diversión.
 - COMPROMISO SOCIAL: Sostenibilidad, utilizamos cartón y papel reciclado y reciclable; Fabricación local, fabricamos en España; Responsabilidad social, damos fabricación a entidades con personas que tienen discapacidad; Salud, colaboramos con centros para reducir la adicción a la tecnología y realizar un buen uso de ésta.
-- Juego 1 (ASESINO): los jugadores inocentes deben descubrir quién o quienes son los asesinos encubiertos en el juego. Juego 2 (TEAMS): adivina el mayor número de palabras siguiendo las normas de cada ronda: descripción, palabra, mímica, dibujo y sonido. Juego 3 (SPEED): responde el máximo número de cartas con tu equipo en 1 minuto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
