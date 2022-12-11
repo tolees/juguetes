@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Iberia 226546 Sagrada  multicolor'
-date: 2022-12-09 11:36:58
+date: 2022-12-10 23:16:23
 image: 'https://m.media-amazon.com/images/I/514pDYyk-mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07G4B3TQS/?tag=tolees-21'
 descuento: '25.00'
-average: '33.6120833333334'
+average: '33.4676000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Número de cartas: 28
-- Número jugadores: 1-4
 - Sagrada es un juego de mesa de lanzamiento de dados y creación de secuencias para la construcción de ventanas de colores
 - Producto de calidad
+- Número jugadores: 1-4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
