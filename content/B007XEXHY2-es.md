@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Duración aproximada de la partida 20-30 min
 - De 2 a 4 jugadores
-- Juego de mesa infantil
+- Duración aproximada de la partida 20-30 min
 - Juego en español, catalán y portugués
+- Juego de mesa infantil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
