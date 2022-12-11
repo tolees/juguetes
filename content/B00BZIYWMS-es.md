@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Piatnik - Juego de Mesa  6079   Importado '
-date: 2022-12-10 17:50:56
+date: 2022-12-11 21:03:11
 image: 'https://m.media-amazon.com/images/I/51CTAsXI55L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Piatnik'
 buyurl: 'https://www.amazon.es/dp/B00BZIYWMS/?tag=tolees-21'
 descuento: '34.19'
-average: '11.47'
+average: '11.4485714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiempo de juego: 15 minutos
-- Número de jugadores: 3 – 6
 - Recomendación de edad: 6 años
+- Número de jugadores: 3 – 6
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
