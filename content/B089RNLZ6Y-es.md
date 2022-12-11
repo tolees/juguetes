@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Pequeños Grandes Mechs  Multicolor  BGPGMSP '
-date: 2022-12-07 12:52:30
+date: 2022-12-11 11:02:43
 image: 'https://m.media-amazon.com/images/I/51g0NxH9HlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B089RNLZ6Y/?tag=tolees-21'
 descuento: '37.22'
-average: '18.47'
+average: '18.2528571428571'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sigue la colección del los Pequeños Grandes
-- Llegan los meeples con accesorios
 - Un juego de batallas furiosas con completos robots en miniatura
+- Llegan los meeples con accesorios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

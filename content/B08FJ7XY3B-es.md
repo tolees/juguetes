@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
-- Apto para Nintendo Switch y Nintendo Switch - Modelo OLED
-- Botones traseros programables
-- La precisión y comodidad del Pro Controller, en modo portátil
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Licencia oficial de Nintendo
 - Compatible con la base de Nintendo Switch: carga la consola sin necesidad de retirarlo
+- Apto para Nintendo Switch y Nintendo Switch - Modelo OLED
+- La precisión y comodidad del Pro Controller, en modo portátil
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Botones traseros programables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
