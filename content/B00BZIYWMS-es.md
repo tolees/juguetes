@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiempo de juego: 15 minutos
-- Recomendación de edad: 6 años
 - Número de jugadores: 3 – 6
+- Recomendación de edad: 6 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

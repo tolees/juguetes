@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Sushi Go Party: edición en Castellano  juego de mesa  BGSGPARTY '
-date: 2022-12-10 19:03:42
+date: 2022-12-11 22:08:27
 image: 'https://m.media-amazon.com/images/I/61nqEsCLc1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B01N0I2Q2F/?tag=tolees-21'
 descuento: '31.76'
-average: '20.6783333333334'
+average: '20.4878947368422'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: juego de mesa
 - Número de jugadores: 2 - 8
 - Edad recomendada: 8 años y más
+- Tipo de producto: juego de mesa
 - Juego adecuado para pasar el tiempo libre
 - Duración aproximada de la partida: 20 min
 
