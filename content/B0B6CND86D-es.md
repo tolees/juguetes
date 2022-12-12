@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elección de jugador cedido embajador de FUT; Escoge entre Davies, Son y Vinicius Jr. para 3 partidos de FUT
 - Artículo de jugador del equipo de la semana 1; Artículo intransferible de jugador para tu FIFA Ultimate Team
-- Talento local en el modo carrera; Joven promesa local con potencial de clase mundial
 - Artículo cedido de Kylian Mbappé; Durante 5 partidos de FUT
+- Elección de jugador cedido embajador de FUT; Escoge entre Davies, Son y Vinicius Jr. para 3 partidos de FUT
+- Talento local en el modo carrera; Joven promesa local con potencial de clase mundial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
