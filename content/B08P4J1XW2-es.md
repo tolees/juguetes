@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Lanzador Fortnite 6-SH - Pulso de Camuflaje - con Martillo y Tambor Giratorio de 6 Dardos - Incluye 6 Dardos Oficiales Elite'
-date: 2022-12-11 13:05:43
+date: 2022-12-13 12:14:31
 image: 'https://m.media-amazon.com/images/I/31lMy3cp02L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B08P4J1XW2/?tag=tolees-21'
 descuento: '35.56'
-average: '21.5133333333333'
+average: '21.359'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lanza 1 dardo cada vez
-- Este lanzador está inspirado en Fortnite y luce los colores y diseño del papel Pulso de camuflaje que aparece en el popular videojuego
-- Viene con un tambor giratorio con capacidad para 6 dardos
 - Incluye 6 dardos Nerf Elite de espuma
+- Este lanzador está inspirado en Fortnite y luce los colores y diseño del papel Pulso de camuflaje que aparece en el popular videojuego
+- Lanza 1 dardo cada vez
+- Viene con un tambor giratorio con capacidad para 6 dardos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

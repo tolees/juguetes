@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recomendado a Partir de 14 Años de Edad
-- Nota: Es necesaria una app para jugar a Forgotten Waters.
 - Juego de Mesa en Español
 - Con una duración de 30-120 Minutos por partida
 - Juego de 3 a 7 Jugadores
+- Recomendado a Partir de 14 Años de Edad
+- Nota: Es necesaria una app para jugar a Forgotten Waters.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
