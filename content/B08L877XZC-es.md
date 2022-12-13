@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Se aproxima el nombramiento de un nuevo sumo sacerdote azteca.
+- Juego de mesa en Español
+- Si quieres que recaiga en ti semejante honor deberás esculpir la escultura más intrincada y elegante de un coatl, la popular serpiente emplumada.
 - De 1 a 4 Jugadores
 - A partir de 10 años de Edad
-- Se aproxima el nombramiento de un nuevo sumo sacerdote azteca.
-- Si quieres que recaiga en ti semejante honor deberás esculpir la escultura más intrincada y elegante de un coatl, la popular serpiente emplumada.
-- Juego de mesa en Español
 
 [🛒 Visítala!!!]({{< param buyurl >}})
