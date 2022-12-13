@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El kit contiene todo lo necesario para realizar experimentos de Ph con papel de tornasol, mezclas y filtros. Un pequeño embudo, papel de filtro, espátula y mucho más viene incluido con el kit.
+- Este juego educativo de ciencia ayuda a los niños a agudizar sus mentes y les presenta principios de la química de una forma más divertida, fácil y atractiva.
 - Juego en castellano, a partir de 8 años.
 - También puedes usar una rueda mágica de "descifrado" en cartón para ayudarte a descifrar las pistas.
-- Este juego educativo de ciencia ayuda a los niños a agudizar sus mentes y les presenta principios de la química de una forma más divertida, fácil y atractiva.
-- El kit contiene todo lo necesario para realizar experimentos de Ph con papel de tornasol, mezclas y filtros. Un pequeño embudo, papel de filtro, espátula y mucho más viene incluido con el kit.
 - ¡La ciencia se volvió más divertida con este kit especial que es científico y misterioso a la vez!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
