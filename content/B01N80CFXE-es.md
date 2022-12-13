@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Código Secreto con imágenes  juego de mesa  BGCOSEIM '
-date: 2022-12-12 14:33:15
+date: 2022-12-13 16:13:20
 image: 'https://m.media-amazon.com/images/I/51oNA2RL9aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B01N80CFXE/?tag=tolees-21'
 descuento: '20.00'
-average: '17.8392857142857'
+average: '17.8233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Idioma principal: español
-- A partir de los 10 años
+- De 2 a 8 jugadores
 - Duración: 15 minutos
 - Número de modelo: BGCOSEIM
-- De 2 a 8 jugadores
+- Idioma principal: español
+- A partir de los 10 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
