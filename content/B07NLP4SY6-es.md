@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de mesa
 - Material de calidad
-- Ofrece tiempo de diversión y entretenimiento
 - Producto en castellano
+- Juego de mesa
+- Ofrece tiempo de diversión y entretenimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

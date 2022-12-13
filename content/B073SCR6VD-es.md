@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Te esperan batallas frenéticas, 60 FPS y unos alucinantes gráficos en alta definición
 - Revive momentos emblemáticos de Dragon Ball
+- Te esperan batallas frenéticas, 60 FPS y unos alucinantes gráficos en alta definición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

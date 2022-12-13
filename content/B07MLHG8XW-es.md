@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 juegos incluidos: Devinettes y juego de números.
 - Pantalla LCD retroiluminada. 3 pilas LR03 incluidas.
 - 12 teclas brillantes y táctiles.
 - Un teléfono hablando y musical con pantalla retroiluminada y colorida para aprender a divertirse.
+- 2 juegos incluidos: Devinettes y juego de números.
 - Más de 50 frases, canciones, actividades y animaciones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
