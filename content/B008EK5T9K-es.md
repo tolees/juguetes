@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Catan  juego de mesa - Ampliación para 5 y 6 Jugadores  BGCATAN56 '
-date: 2022-12-11 20:57:10
+date: 2022-12-13 18:32:56
 image: 'https://m.media-amazon.com/images/I/4148Bh4W+nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B008EK5T9K/?tag=tolees-21'
 descuento: '20.04'
-average: '19.8000000000001'
+average: '19.8211111111112'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de jugadores: 3 - 6
+- Duración aproximada de la partida: 75 min
+- Edad recomendada: 10 años y más
 - Tipo de producto: juego de mesa, es necesario tener Catán - Juego Básico para jugar
 - Un mapa más grande para dar cabida a dos jugadores más
-- Edad recomendada: 10 años y más
-- Duración aproximada de la partida: 75 min
+- Número de jugadores: 3 - 6
 
 [🛒 Comprar!!!]({{< param buyurl >}})

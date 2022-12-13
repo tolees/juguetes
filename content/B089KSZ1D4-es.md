@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cocktail Games  Hanabi Juego de Cartas  Español  Multicolor  CGHA01 '
-date: 2022-12-12 11:32:27
+date: 2022-12-13 18:37:45
 image: 'https://m.media-amazon.com/images/I/41rTs-PyjdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocktail Games'
 buyurl: 'https://www.amazon.es/dp/B089KSZ1D4/?tag=tolees-21'
 descuento: '23.57'
-average: '9.30393939393938'
+average: '9.27735294117646'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 2 a 5 jugadores. A partir de 8 años de edad.
-- Sin embargo todos ellos tendrán que sujetar sus cartas al revés, ya que ¡la pólvora, las mechas y los cohetes se han mezclado!
-- Nadie consigue ver con tanto humo qué es lo que está manipulando… así que tendrás que dar a tus compañeros información de vital importancia
 - Llega, de la mano del laureado Antoine Bauza Hanabi: ¡un sorprendente, increíble e innovador reto!
 - En este juego cooperativo único, los jugadores trabajan codo con codo para crear un magnífico espectáculo pirotécnico.
+- Nadie consigue ver con tanto humo qué es lo que está manipulando… así que tendrás que dar a tus compañeros información de vital importancia
+- De 2 a 5 jugadores. A partir de 8 años de edad.
+- Sin embargo todos ellos tendrán que sujetar sus cartas al revés, ya que ¡la pólvora, las mechas y los cohetes se han mezclado!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

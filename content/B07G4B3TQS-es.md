@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Iberia 226546 Sagrada  multicolor'
-date: 2022-12-12 13:04:17
+date: 2022-12-13 18:35:37
 image: 'https://m.media-amazon.com/images/I/514pDYyk-mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07G4B3TQS/?tag=tolees-21'
 descuento: '25.00'
-average: '33.3342307692309'
+average: '33.2107407407409'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

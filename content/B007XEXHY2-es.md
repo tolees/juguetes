@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - El Laberinto Mágico  Juego de mesa  juego de mesa infantil  Juego de mesa a partir de 6 años  BGLAB '
-date: 2022-12-11 17:03:14
+date: 2022-12-13 18:32:21
 image: 'https://m.media-amazon.com/images/I/51aVixTfnJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B007XEXHY2/?tag=tolees-21'
 descuento: '20.23'
-average: '31.027924528302'
+average: '30.9703703703705'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Juego de mesa infantil
 - De 2 a 4 jugadores
 - Duración aproximada de la partida 20-30 min
 - Juego en español, catalán y portugués
-- Juego de mesa infantil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

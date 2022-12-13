@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: La feria terrorífica  BGEXIT13 '
-date: 2022-12-10 09:02:32
+date: 2022-12-13 18:42:30
 image: 'https://m.media-amazon.com/images/I/51AnkbDQhAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B08K43T2ZX/?tag=tolees-21'
 descuento: '25.00'
-average: '12.071'
+average: '11.9963636363636'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
+- Duración aproximada del juego: 45 - 90 minutos
 - Juego cooperativo y de deducción
 - Edad recomendada: a partir de 10 años
-- Duración aproximada del juego: 45 - 90 minutos
 - Número de jugadores: 1 - 5
+- La caja tiene las dimensiones: 17.8 x 12.6 x 4 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

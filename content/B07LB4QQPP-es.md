@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir- Plenus  Juego de Estrategia  Multicolor  BGPLEN '
-date: 2022-12-11 22:17:11
+date: 2022-12-13 18:35:22
 image: 'https://m.media-amazon.com/images/I/51+XdM2cjZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07LB4QQPP/?tag=tolees-21'
 descuento: '20.00'
-average: '12.1922222222222'
+average: '12.173'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para gente competitiva y crítica, así como para los más sueltos
+- Edad recomendada: 8
 - Duración: 20 minutos
 - De 1 a 6 jugadores
-- Edad recomendada: 8
+- Adecuado para gente competitiva y crítica, así como para los más sueltos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

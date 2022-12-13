@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eggert Spiele - ERA Edad Media - ¡Bienvenidos a la España Medieval! - Juego de Mesa en Español'
-date: 2022-12-12 16:55:55
+date: 2022-12-13 18:42:26
 image: 'https://m.media-amazon.com/images/I/51MNQrzMupL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Eggert Spiele'
 buyurl: 'https://www.amazon.es/dp/B08H2L25WH/?tag=tolees-21'
 descuento: '28.77'
-average: '39.2668421052631'
+average: '39.0839999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene: 130 miniaturas, 36 dados, 4 tableros de jugador, 25 clavijas, 5 marcadores, 1 bloc de hojas de puntuación, 4 pantallas y 1 reglamento.
-- Juego de 1 a 4 Jugadores
-- Con una duración de 30-45 Minutos por partida
-- Recomendado a Partir de 8 Años de Edad
 - Juego de Mesa en Español
+- Juego de 1 a 4 Jugadores
+- Contiene: 130 miniaturas, 36 dados, 4 tableros de jugador, 25 clavijas, 5 marcadores, 1 bloc de hojas de puntuación, 4 pantallas y 1 reglamento.
+- Recomendado a Partir de 8 Años de Edad
+- Con una duración de 30-45 Minutos por partida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

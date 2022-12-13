@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger 269167 Castles of Tuscany  Juego Alea  Versión en Español  Juego de Estrategia  2-4 Jugadores  Edad Recomendada 10+'
-date: 2022-12-12 11:10:32
+date: 2022-12-13 18:37:17
 image: 'https://m.media-amazon.com/images/I/51NMgBoKZKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.es/dp/B084BJRQQB/?tag=tolees-21'
 descuento: '15.11'
-average: '33.7760869565217'
+average: '33.6166666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los jugadores tendrán que desarrollar el área alrededor de su castillo siguiendo reglas precisas y creando un dominio real a través de campos, monasterios, posadas, canteras de mármol y muchos otros elementos.
 - La partida se desarrolla en tres fases. Al final de cada fase tiene lugar una puntuación. Tres opciones: - Robar 2 cartas - Coger 1 loseta - Colocar 1 loseta. El jugador que tenga más puntos de victoria gana.
-- El juego de mesa está recomendado para niños a partir de 10 años, la duración media de una partida es de 60 minutos y es un juego perfecto incluso para principiantes
 - Descubre la línea completa de juegos de mesa Alea: Las Vegas, Castillos de Borgoña, Puerto Rico y muchas otras aventuras te esperan.
 - ¡Un juego de estrategia para 2-4 jugadores, también apto para principiantes, lleno de variables que permiten una larga rejugabilidad!
+- El juego de mesa está recomendado para niños a partir de 10 años, la duración media de una partida es de 60 minutos y es un juego perfecto incluso para principiantes
+- Los jugadores tendrán que desarrollar el área alrededor de su castillo siguiendo reglas precisas y creando un dominio real a través de campos, monasterios, posadas, canteras de mármol y muchos otros elementos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir'
-date: 2022-12-10 13:52:31
+date: 2022-12-13 18:52:13
 image: 'https://m.media-amazon.com/images/I/413dLQv9MjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B09XJ947XJ/?tag=tolees-21'
 descuento: '18.50'
-average: '8.675'
+average: '8.57'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colabora con tus amigos para combinar colores y letras antes de que se termine el tiempo
 - La fiesta de bolsillo para hasta 8 jugadores que dura entre 1 y 4 minutos
+- Colabora con tus amigos para combinar colores y letras antes de que se termine el tiempo
 - Devir Pocket: juegos económicos para jugar en cualquier parte, miles de partidas en tu bolsillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
