@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿ENCONTRARÁS LAS FIGURAS EXCLUSIVAS? – Descubre las figuras plateadas, doradas y al escurridizo Neon Blast, para no parar de crear historias.
-- CADA SUPERTHING TIENE SU RIVAL – Busca las parejas rivales ¡y forma tus equipos!
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - + 80 NUEVOS PERSONAJES – Hay más de 80 nuevas figuras para coleccionar, y cada una tiene un súper poder que la hace única. ¡Descubre a los héroes y villanos de Kaboom City!
+- ¿ENCONTRARÁS LAS FIGURAS EXCLUSIVAS? – Descubre las figuras plateadas, doradas y al escurridizo Neon Blast, para no parar de crear historias.
+- CADA SUPERTHING TIENE SU RIVAL – Busca las parejas rivales ¡y forma tus equipos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

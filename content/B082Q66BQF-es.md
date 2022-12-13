@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CASITA TUTTI FRUTTI muy divertida en forma de batido Smoothie con muchas sorpresas dentro
-- DIVERSIÓN & IMAGINACIÓN: los Bebés Llorones Lágrimas Mágicas ofrecen una divertida forma de estimular, a través el juego, la imaginación y los valores de amistad y compañerismo
-- 13 A COLECCIONAR en total hay 13 personajes con pijama y dulce olor a fruta; 1 es especial, encuéntralo
-- 9 ACCESORIOS Y SORPRESAS: con los accesorios, los niños podrán jugar e imaginar miles de historias
 - Vienen en caja cerrada, no se puede elegir el modelo, es una sorpresa
-- JUGUETE Y MUÑECA óptima para niña y niño a partir de 3 años
 - LLORA DE VERDAD: dale de beber con su biberón, aprieta su barriguita y llorará Jellies, como en la serie Kitoons
+- DIVERSIÓN & IMAGINACIÓN: los Bebés Llorones Lágrimas Mágicas ofrecen una divertida forma de estimular, a través el juego, la imaginación y los valores de amistad y compañerismo
+- 9 ACCESORIOS Y SORPRESAS: con los accesorios, los niños podrán jugar e imaginar miles de historias
+- 13 A COLECCIONAR en total hay 13 personajes con pijama y dulce olor a fruta; 1 es especial, encuéntralo
+- JUGUETE Y MUÑECA óptima para niña y niño a partir de 3 años
+- CASITA TUTTI FRUTTI muy divertida en forma de batido Smoothie con muchas sorpresas dentro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
