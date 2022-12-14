@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Conoce a una serie de atractivos personajes, cada uno con su propia personalidad y peculiaridades, mientras vuelves a vivir los años 80.
-- Determina tu propia historia: no hay respuestas o finales "correctos" o incorrectos. Simplemente lo que quieras que ocurra.
-- Escoge las actividades después del trabajo: sal con tus amigos, ayuda a tus vecinos o quédate en casa leyendo un libro.
 - Disfruta de dos semanas de historias ramificadas que no rehúyen los temas de la vida cotidiana.
+- Determina tu propia historia: no hay respuestas o finales "correctos" o incorrectos. Simplemente lo que quieras que ocurra.
 - Escápate a un bello y rústico entorno sin teléfonos móviles ni Internet.
+- Escoge las actividades después del trabajo: sal con tus amigos, ayuda a tus vecinos o quédate en casa leyendo un libro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MOTOR DE ACELERACIÓN Y HERRAMIENTA FUNCIONAL: el coche deluxe con detalles de dinosaurios de Chase está preparado para rescates prehistóricos gracias a sus enormes ruedas, un motor de aceleración y una herramienta funcional. ¡Mueve el coche hacia delante para ponerlo en marcha!
-- FIGURA DE DINOSAURIO MISTERIOSA: los coches Patrulla Canina Dino Rescue vienen con una figura de dinosaurio misteriosa a coleccionar, abre la caja para descubrir el dinosaurio que te acmpañará en todas las misiones de rescate
 - INCLUYE: 1 figura de Chase, 1 coche Dino Rescue Deluxe de Chase, 1 figura de dinosaurio misteriosa
+- FIGURA DE DINOSAURIO MISTERIOSA: los coches Patrulla Canina Dino Rescue vienen con una figura de dinosaurio misteriosa a coleccionar, abre la caja para descubrir el dinosaurio que te acmpañará en todas las misiones de rescate
 - CHASE PATRULLA CANINA JUGUETES: revive las escenas de los dibujos animados de la Patrulla Canina y colecciona todos los personajes Patrulla Canina y sus coches de juguetes (se venden por separado). El cachorro de la Patrulla Canina Chase te acompañará vestido con su uniforme Dino Rescue azul y amarillo; coloca a Chase al volante de su coche PAW Patrol Dino Rescue ¡Este cachorro está preparado para aventuras prehistóricas!
 - JUGUETES PATRULLA CANINA: ¡recrea las emocionantes aventuras de la exitosa serie animada en casa con los cachorros y los coches Patrulla Canina!
 
