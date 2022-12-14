@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto oficial Nintendo
+- Paladone, Posavasos Cartuchos NES de Nintendo
 - Paladone, Posavasos Cartuchos NES de Nintendo
 - Incluyendo Super Mario Bros 2, Mario Bros, The Legend of Zelda, la serie clásica Metroid
 - 8 diseños diferentes con tus juegos NES favoritos
-- Producto oficial Nintendo
-- Paladone, Posavasos Cartuchos NES de Nintendo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
