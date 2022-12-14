@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: LEGO
 - Acabado perfecto
 - Con funciones
+- Marca: LEGO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
