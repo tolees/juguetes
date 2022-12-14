@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El buggy de juguete tiene espacio para Owen Grady y viene con un chasis de ladrillo para principiantes que facilita la construcción
 - Este juguete para niños de 4 años en adelante cuenta con una fascinante figura LEGO de un Pteranodon fácil de construir, ¡cuidado, tiene enormes alas para volar!
 - Este set de iniciación LEGO cabe perfectamente en la mochila de los peques, es el regalo perfecto para los niños amantes de los dinosaurios, ¡podrán jugar en cualquier parte!
-- Este juego creativo incluye 2 mini figuras LEGO de Maisie y Owen Grady, además de un muelle de pesca y accesorios cómo una caña de pescar y un pez
 - Con instrucciones impresas dentro de la caja y digitales disponibles en la app gratuita Instrucciones de Montaje LEGO ¡la experiencia de construir el set de juego es genial!
 - Maisie está pescando en el muelle y el Pteranodon quiere robarle el pez, Owen tendrá que usar el súper coche buggy de juguete y el lazo (incluido) para atraparlo
+- El buggy de juguete tiene espacio para Owen Grady y viene con un chasis de ladrillo para principiantes que facilita la construcción
+- Este juego creativo incluye 2 mini figuras LEGO de Maisie y Owen Grady, además de un muelle de pesca y accesorios cómo una caña de pescar y un pez
 - Los juguetes de construcción Jurassic World de LEGO están diseñados para ayudar a los peques a desarrollar su imaginación mientras juegan gracias al fácil y rápido montaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
