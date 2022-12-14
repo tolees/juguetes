@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Intervención del Helicóptero de Bomberos
-- Te espera una aventura trepidante y divertida con un magnífico helicóptero que vuela con cable de lanzamiento, un quad de rescate y una tubería en llamas, además de 3 minifiguras.
-- Edad recomendada por el fabricante: 5+
-- Los niños pueden lanzar al aire el juguete de helicóptero con cable de lanzamiento (novedad en enero de 2020), incluida la minifigura de un piloto, y jugar a representar escenas de la televisión de LEGO City con la jefa de bomberos Freya McCloud.
 - Número de piezas: 93
+- Te espera una aventura trepidante y divertida con un magnífico helicóptero que vuela con cable de lanzamiento, un quad de rescate y una tubería en llamas, además de 3 minifiguras.
+- Los niños pueden lanzar al aire el juguete de helicóptero con cable de lanzamiento (novedad en enero de 2020), incluida la minifigura de un piloto, y jugar a representar escenas de la televisión de LEGO City con la jefa de bomberos Freya McCloud.
+- Edad recomendada por el fabricante: 5+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
