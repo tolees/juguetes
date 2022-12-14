@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los modos y las características del juego serán iguales a los de FIFA 22 en Nintendo Switch y contará con las mismas mecánicas de juego que tenía FIFA 22 Legacy Edition, sin ninguna novedad ni cambios significativos.
 - FIFA 23 Legacy Edition incluye una identidad visual actualizada y un paquete de elementos gráficos de las retransmisiones renovado
+- Los modos y las características del juego serán iguales a los de FIFA 22 en Nintendo Switch y contará con las mismas mecánicas de juego que tenía FIFA 22 Legacy Edition, sin ninguna novedad ni cambios significativos.
 - También estarán los mejores equipos de clubes femeninos y algunos de los estadios más famosos del mundo, algunos de ellos completamente nuevos
 - EA SPORTS FIFA 23 Legacy Edition para Nintendo Switch incluirá las equipaciones, los clubes y las plantillas actualizados de algunas de las mejores ligas del mundo.
 
