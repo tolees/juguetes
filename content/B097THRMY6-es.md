@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir Carcassonne 20 Aniversario Juego de Mesa  Edición Aniversario de 20 años  BGCAR20SP'
-date: 2022-12-13 18:49:19
+date: 2022-12-15 09:40:31
 image: 'https://m.media-amazon.com/images/I/41vqodFZmmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B097THRMY6/?tag=tolees-21'
 descuento: '20.37'
-average: '29.6933333333333'
+average: '29.5530769230769'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mecánicas: Colocación de losetas y Mayorías
-- Edición de aniversario con arte y contenido específico solo para esta edición
-- Expansión del rio ampliada y una nueva mini-expansion que homenajea las 3 primeras expansiones; un total de 20 losetas nuevas en comparación con la edición anterior
 - Aprender: 20 minutos; enseñar: 5 minutos
 - Acabados de lujo en e inserto, reglamentos, losetas y meeples
+- Expansión del rio ampliada y una nueva mini-expansion que homenajea las 3 primeras expansiones; un total de 20 losetas nuevas en comparación con la edición anterior
+- Mecánicas: Colocación de losetas y Mayorías
+- Edición de aniversario con arte y contenido específico solo para esta edición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Añade hasta 256 gb de espacio adicional al instante
-- Tarjeta de memoria con licencia nintendo para el sistema nintendo switch
+- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Velocidades de transferencia de hasta 100 mb/s para cargar los juegos rápidamente
+- Tarjeta de memoria con licencia nintendo para el sistema nintendo switch
 
 [🛒 Visítala!!!]({{< param buyurl >}})

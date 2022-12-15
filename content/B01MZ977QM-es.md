@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Explora el mundo abierto de Hyrule y descubre sus santuarios
 - Equipa a Link con la ropa y armas adecuadas a cada entorno y enemigo
-- Compatible con el amiibo Link Lobo, a la venta por separado
 - Incluye el idioma español
+- Compatible con el amiibo Link Lobo, a la venta por separado
 - Juego de aventura y acción para Nintendo Switch
 
 [🛒 Visítala!!!]({{< param buyurl >}})
