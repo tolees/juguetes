@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xbox Series X'
-date: 2022-12-12 14:32:54
+date: 2022-12-15 22:33:59
 image: 'https://m.media-amazon.com/images/I/31LP+C56MoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xbox'
 buyurl: 'https://www.amazon.es/dp/B08H93ZRLL/?tag=tolees-21'
 descuento: '16.69'
-average: '561.181034482757'
+average: '560.127118644066'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juegos en auténtico 4K, preparados para 8K y hasta 120 FPS.
 - Con Xbox Smart Delivery, juega a la mejor versión disponible de tu juego sea cual sea la consola que uses.
+- 12 teraflops de potencia.
+- Variable Refresh Rate.
 - DirectX Raytraycing.
 - La Xbox más rápida y potente de la historia. Juega a miles de títulos de cuatro generaciones de consolas: todos los juegos tienen el mejor aspecto y se juegan mejor en Xbox Series X.
 - Disfruta de una velocidad y rendimiento de nueva generación con Xbox Velocity Architecture, impulsada por un SSD personalizado de 1TB y software integrado.
-- 12 teraflops de potencia.
-- Variable Refresh Rate.
+- Juegos en auténtico 4K, preparados para 8K y hasta 120 FPS.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
