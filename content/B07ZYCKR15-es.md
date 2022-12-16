@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es el regalo ideal para los amantes de la plastilina
-- Contiene 3 botes de plastilina de colores surtidos
 - Ayuda a desarrollar la imaginación y la creatividad
 - Kit de herramientas de cocina para plastilina
+- Es el regalo ideal para los amantes de la plastilina
+- Contiene 3 botes de plastilina de colores surtidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
