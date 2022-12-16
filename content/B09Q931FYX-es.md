@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El juguete viene con 2 guerreros legendarios exclusivos. Unas Minifiguras de acción de la colección de Akedo. Hay hasta 38 figuras para coleccionar
+- Arcade, para convertirte en el Ultimate Arcade Warrior
+- Mientras luchas, se escuchan hasta 35 efectos de sonido de batalla reales que salen del escenario y para llevar la puntuación hay controles para cambiar el marcador en la parte superior de la arena
 - El set incluye 2 controladores y tiene dos fondos distintos de escenario para los dos modos de juego: lucha y entrenamiento con un saco de boxeo Dojo
 - Juega solo o desafía a tus amigos. Este juguete necesita 3 X BATERÍAS AA. Recomendado para niños a partir de 6 años de edad
-- El juguete viene con 2 guerreros legendarios exclusivos. Unas Minifiguras de acción de la colección de Akedo. Hay hasta 38 figuras para coleccionar
-- Mientras luchas, se escuchan hasta 35 efectos de sonido de batalla reales que salen del escenario y para llevar la puntuación hay controles para cambiar el marcador en la parte superior de la arena
-- Arcade, para convertirte en el Ultimate Arcade Warrior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
