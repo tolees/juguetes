@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabados de lujo en e inserto, reglamentos, losetas y meeples
-- Aprender: 20 minutos; enseñar: 5 minutos
-- Mecánicas: Colocación de losetas y Mayorías
 - Edición de aniversario con arte y contenido específico solo para esta edición
+- Aprender: 20 minutos; enseñar: 5 minutos
 - Expansión del rio ampliada y una nueva mini-expansion que homenajea las 3 primeras expansiones; un total de 20 losetas nuevas en comparación con la edición anterior
+- Mecánicas: Colocación de losetas y Mayorías
+- Acabados de lujo en e inserto, reglamentos, losetas y meeples
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

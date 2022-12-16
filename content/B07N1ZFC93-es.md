@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FEBER - Casa Happy House  casita infantil para niños y niñas de los 2 a los 6 años  Famosa 800012380 '
-date: 2022-12-05 10:28:04
+date: 2022-12-16 17:03:03
 image: 'https://m.media-amazon.com/images/I/41j2SFoFl4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FEBER'
 buyurl: 'https://www.amazon.es/dp/B07N1ZFC93/?tag=tolees-21'
 descuento: '29.77'
-average: '63.828'
+average: '63.7233333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Las casas Feber tienen un sistema anti-UV para evitar la pérdida de color y aumentar la resistencia del plástico
 - Alta resistencia y su montaje es muy fácil
+- Tamaño del producto: 104 (ancho) x 90 (ancho) x 101 (alto) cm
 - 2 balcones laterales y una fachada llena de detalles recrean una casita de juguetes con la que nuestros pequeños sueñan
 - Los felices Feber tiene 2 entradas, delantera y trasera, con puerta con tirador y ranura para llaves y buzón
-- Las casas Feber tienen un sistema anti-UV para evitar la pérdida de color y aumentar la resistencia del plástico
-- Tamaño del producto: 104 (ancho) x 90 (ancho) x 101 (alto) cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
