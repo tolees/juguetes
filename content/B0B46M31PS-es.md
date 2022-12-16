@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MINIATURAS DETALLADAS: El juego de mesa cooperativo Risk Legacy incluye más de 275 unidades militares
 - HISTORIA ABSORBENTE: ¡Disfruta de una emocionante sesión de juego de mesa! Este juego de mesa Risk Legacy es para 3 a 5 jugadores de 13 años en adelante. Cada partida dura aproximadamente 1 hora
-- REVELA NUEVOS COMPONENTES: A medida que ganen más y más juegos, los jugadores pueden revelar componentes secretos. Reglas, tarjetas y adhesivos entrarán en juego o saldrán de él para siempre
 - GUERRA MODERNA: Elementos temáticos de guerra moderna se unen al estilo de juego ""legacy"" en esta versión más compleja y absorbente del clásico juego de estrategia Risk
 - JUEGO TIPO LEGACY: El juego de mesa Avalon Hill Risk Legacy cuenta con estilo de juego tipo ""legacy"". Las decisiones de los jugadores cambian el tablero para siempre: cada juego es totalmente único
+- REVELA NUEVOS COMPONENTES: A medida que ganen más y más juegos, los jugadores pueden revelar componentes secretos. Reglas, tarjetas y adhesivos entrarán en juego o saldrán de él para siempre
+- MINIATURAS DETALLADAS: El juego de mesa cooperativo Risk Legacy incluye más de 275 unidades militares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
