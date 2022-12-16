@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estimula la habilidad de reconocer colores y formas y de resolver problemas
-- 18 bloques de madera de formas, colores y tamaños variados
 - ¡Incluye actividades adicionales para que los niños exploren, aprendan y se diviertan!
+- 18 bloques de madera de formas, colores y tamaños variados
+- Estimula la habilidad de reconocer colores y formas y de resolver problemas
 - Base de madera resistente que invita a encajar las formas y a aprender equivocándose
 - Ayuda a los niños a hacer la diferencia entre tamaños y formas
 

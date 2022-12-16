@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil City Life 70201 Gasolinera  A partir de 4 años [Exclusivo]'
-date: 2022-12-13 18:56:09
+date: 2022-12-16 10:42:38
 image: 'https://m.media-amazon.com/images/I/61deXeEKxAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.es/dp/B07P8PJ1ZK/?tag=tolees-21'
 descuento: '39.96'
-average: '52.5986666666666'
+average: '51.7499999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

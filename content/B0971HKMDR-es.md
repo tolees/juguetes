@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brain Box - Asmodee BrainBox - Harry Potter - Juego de Mesa en Español'
-date: 2022-12-13 18:44:39
+date: 2022-12-16 10:35:52
 image: 'https://m.media-amazon.com/images/I/514CH5NoONL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de jugadores: 1+
-- A partir de 8 años de edad.
-- A partir de un solo jugador.
 - Intenta memorizar las imágenes de tu carta en 10 segundos. a continuación, tendrás que responder a una pregunta sobre la carta que has visto.
-- ¿Qué puedes ver en 10 segundos?
 - Revive la serie de películas de Harry Potter y comprueba si tienes lo que se necesita para ser el mejor de la clase en Hogwarts.
+- A partir de un solo jugador.
+- Número de jugadores: 1+
+- ¿Qué puedes ver en 10 segundos?
+- A partir de 8 años de edad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
