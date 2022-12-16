@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath Tragatoy  el Monstruo de los Juguetes. Juego de Mesa Infantil  31290 '
-date: 2022-12-15 11:40:30
+date: 2022-12-16 15:30:28
 image: 'https://m.media-amazon.com/images/I/51WKBCPtL5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Goliath'
 buyurl: 'https://www.amazon.es/dp/B09C5X6VK4/?tag=tolees-21'
 descuento: '43.38'
-average: '21.4959999999999'
+average: '21.340909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
