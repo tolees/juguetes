@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11017 Classic Monstruos Creativos  Caja de Ladrillos para Construir  Juguete para Niños de 4 Años  Set para Crear 5 Mini Figuras de Colores'
-date: 2022-12-15 19:15:35
+date: 2022-12-17 19:10:41
 image: 'https://m.media-amazon.com/images/I/51Gs5-iisFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09BNSR2DJ/?tag=tolees-21'
 descuento: '35.04'
-average: '7.51999999999999'
+average: '7.47095238095237'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
