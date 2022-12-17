@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Competición a pantalla dividida para dos jugadores
-- Mi Equipo: elige tu presupuesto inicial a medida que creas tu equipo de F1 desde cero, con eventos de departamento ampliados y una personalización de diseños más profunda
 - LA VIDA EN LA F1: disfruta del glamour y la ostentación de la Formula 1
-- Modo Carrera: pon a prueba tu talento como piloto en el mundo de la F1 y ábrete paso por la parrilla en el aclamado modo Carrera de 10 años
-- Formula 2, el mejor terreno de entrenamiento para la F1 también está incluido, con opciones de temporada corta, media o completa, además de contenido de las temporadas 2021 y 2022
-- NUEVA TEMPORADA, NUEVAS REGLAS: Compite en una nueva era de coches de Formula 1 en F1 22
+- Competición a pantalla dividida para dos jugadores
 - EL DÍA DE LA CARRERA, REDEFINIDO: Toma el control de tu experiencia virtual de F1 con paradas en boxes envolventes y cinemáticas, vueltas de formación y más
+- NUEVA TEMPORADA, NUEVAS REGLAS: Compite en una nueva era de coches de Formula 1 en F1 22
+- Modo Carrera: pon a prueba tu talento como piloto en el mundo de la F1 y ábrete paso por la parrilla en el aclamado modo Carrera de 10 años
+- Mi Equipo: elige tu presupuesto inicial a medida que creas tu equipo de F1 desde cero, con eventos de departamento ampliados y una personalización de diseños más profunda
+- Formula 2, el mejor terreno de entrenamiento para la F1 también está incluido, con opciones de temporada corta, media o completa, además de contenido de las temporadas 2021 y 2022
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
