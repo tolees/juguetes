@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¿Qué harás con los planetas cercanos?
 - Explora la galaxia para expandir tu imperio
 - Produce recursos para intercambiarlos o investiga nuevas tecnologías para forjar el mejor imperio y ganar la partida
 - ¿Colonizarlos, o conquistarlos por la fuerza?
-- ¿Qué harás con los planetas cercanos?
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

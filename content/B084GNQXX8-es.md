@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games Pictionary Air  juego de mesa en español  Mattel GPL50 '
-date: 2022-12-11 13:05:56
+date: 2022-12-18 13:28:59
 image: 'https://m.media-amazon.com/images/I/51WAbh+ldqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mattel Games'
 buyurl: 'https://www.amazon.es/dp/B084GNQXX8/?tag=tolees-21'
 descuento: '30.01'
-average: '19.620641025641'
+average: '19.635'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ponte en marcha con Pictionary Air, una versión del clásico juego de dibujo que llega con novedades superdivertidas
-- La aplicación es fácil de usar y te permite grabar tu actuación para reproducirla entre ronda y ronda para reíros un poco, o guardarla y compartirla con tus amigos
-- Repartíos los turnos para dibujar pistas en el aire mientras el resto de compañeros de equipo intenta adivinar la imagen que aparece en pantalla el equipo con más puntos gana
-- Ajusta el temporizador y el número de rondas para dar más tiempo a los principiantes o niños más pequeños para dibujar el modo selfi te permite dibujar sin límites de tiempo ni de rondas
-- Descarga la aplicación gratuita Pictionary Air, apunta con la cámara de la aplicación al jugador que dibuja y aparecerá junto con su dibujo en la pantalla de tu dispositivo
+- The app is easy to use and allows you to record your performance. You can play the recordings between rounds to laugh a little or save and share them with your friends.
+- Get up and running with Pictionary Air, a version of the classic drawing game that comes with super fun novelties.
+- Download the free Pictionary Air app, point the app camera at the player who is drawing and they will appear on your device screen along with their drawing.
+- Set the timer and number of rounds to give beginners or younger children more time to draw. The selfie mode lets you draw without time limits or rounds.
+- Take turns to draw tracks in the air while the remaining teammates try to guess the image that appears on the screen. The team with the most points wins.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
