@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El robot anda como un escorpión real gracias a sus 6 patas accionadas por dos motores; las pinzas y la cola se mueven para que el Mega Escorpión sea realista El sensor de infrarrojos de la cabeza del robot reacciona a los estímulos y activa los modos de juego, como vigilar, atacar, agarrar objetos y moverlos, para una interacción óptima
 - Un juguete que desarrolla las habilidades manuales y la lógica mientras introduce a los niños en los fundamentos de la programación y la robótica educativa.
 - Con un montón de componentes, engranajes y motores, Mega Escorpión es un robot que, además, se puede controlar a distancia gracias a los controles de frecuencia y la aplicación específica del robot escorpión.
-- Un juguete para niños y niñas de 8 años o más, con todas las piezas necesarias para que puedas montar tu propio robot escorpión; para vivir increíbles aventuras y descubrir los secretos de la robótica.
 - El robot anda como un escorpión real gracias a sus 6 patas accionadas por dos motores; las pinzas y la cola se mueven para que el Mega Escorpión sea realista
-- El robot anda como un escorpión real gracias a sus 6 patas accionadas por dos motores; las pinzas y la cola se mueven para que el Mega Escorpión sea realista El sensor de infrarrojos de la cabeza del robot reacciona a los estímulos y activa los modos de juego, como vigilar, atacar, agarrar objetos y moverlos, para una interacción óptima
+- Un juguete para niños y niñas de 8 años o más, con todas las piezas necesarias para que puedas montar tu propio robot escorpión; para vivir increíbles aventuras y descubrir los secretos de la robótica.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
