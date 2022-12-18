@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scorpion Masqué Ole Guacamole Juego de Cartas en Español'
-date: 2022-12-13 18:50:25
+date: 2022-12-18 01:38:02
 image: 'https://m.media-amazon.com/images/I/51ydUKNrEYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dale sabor a la hora feliz
-- Rápido; di una palabra que guarda relación con la mía y que no contenga ninguna de las siguientes letras: V, T, Ñ, D
-- Juego de cartas de 2 a 8 jugadores, recomendado a partir de 10 años de edad
 - Te toca; Yo he dicho "Guacamole"
+- Rápido; di una palabra que guarda relación con la mía y que no contenga ninguna de las siguientes letras: V, T, Ñ, D
+- Dale sabor a la hora feliz
+- Juego de cartas de 2 a 8 jugadores, recomendado a partir de 10 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

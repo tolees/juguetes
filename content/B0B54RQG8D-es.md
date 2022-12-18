@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plan B Games Century Maravillas de Oriente - Juego de mesa en Español'
-date: 2022-12-13 18:54:30
+date: 2022-12-18 01:42:18
 image: 'https://m.media-amazon.com/images/I/51fGhjvFWFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre Century: Maravillas de Oriente como juego independiente o combínalo con Century: La Ruta de las Especias y crea una optima experiencia de juego
-- Disfruta de una infinidad de estrategias y partidas posibles, gracias a la versátil y divertida mecánica de juego
 - Un juego al que no querrás dejar de jugar una y otra vez
+- Disfruta de una infinidad de estrategias y partidas posibles, gracias a la versátil y divertida mecánica de juego
 - Explora los elementos de juego de Century: Maravillas de Oriente como juego independiente o combínalo con Century: La Ruta de las Especias para vivir una experiencia de juego con la variante Mar Adentro
 - Bienvenido de nuevo al mundo de Century; Zarpa hacia alta mar como mercader para obtener fortuna y gloria en una aventura por las exóticas islas de las especias
+- Descubre Century: Maravillas de Oriente como juego independiente o combínalo con Century: La Ruta de las Especias y crea una optima experiencia de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})

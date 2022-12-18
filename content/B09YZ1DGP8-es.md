@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clementoni Ciencia y Juego - Clementoni - Mega Escorpión  Robot Educativo para Montar y Jugar  con App. Obedece órdenes  se Pueden programar Sus Movimientos. Juguete a Partir de 8 Años  en español  55433 '
-date: 2022-12-13 21:00:48
+date: 2022-12-18 02:30:23
 image: 'https://m.media-amazon.com/images/I/51pW4lRdFXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un juguete que desarrolla las habilidades manuales y la lógica mientras introduce a los niños en los fundamentos de la programación y la robótica educativa.
+- Con un montón de componentes, engranajes y motores, Mega Escorpión es un robot que, además, se puede controlar a distancia gracias a los controles de frecuencia y la aplicación específica del robot escorpión.
+- Un juguete para niños y niñas de 8 años o más, con todas las piezas necesarias para que puedas montar tu propio robot escorpión; para vivir increíbles aventuras y descubrir los secretos de la robótica.
 - El robot anda como un escorpión real gracias a sus 6 patas accionadas por dos motores; las pinzas y la cola se mueven para que el Mega Escorpión sea realista
 - El robot anda como un escorpión real gracias a sus 6 patas accionadas por dos motores; las pinzas y la cola se mueven para que el Mega Escorpión sea realista El sensor de infrarrojos de la cabeza del robot reacciona a los estímulos y activa los modos de juego, como vigilar, atacar, agarrar objetos y moverlos, para una interacción óptima
-- Un juguete para niños y niñas de 8 años o más, con todas las piezas necesarias para que puedas montar tu propio robot escorpión; para vivir increíbles aventuras y descubrir los secretos de la robótica.
-- Con un montón de componentes, engranajes y motores, Mega Escorpión es un robot que, además, se puede controlar a distancia gracias a los controles de frecuencia y la aplicación específica del robot escorpión.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

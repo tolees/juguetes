@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cocktail Games - Ritmo y Bola - Juego de mesa en Español'
-date: 2022-12-13 18:33:48
+date: 2022-12-18 01:15:42
 image: 'https://m.media-amazon.com/images/I/514-qbWDSgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocktail Games'
 buyurl: 'https://www.amazon.es/dp/B017NUAXME/?tag=tolees-21'
 descuento: '31.94'
-average: '8.58085714285714'
+average: '8.55027777777777'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡Ritmo y Bola es un juego de sociedad delirante al que jugar hasta la extenuación!
+- Ritmo y Bola es un juego donde tendrás que palmear tus piernas al ritmo de “We Will Rock You”.
 - A partir de aquí, comenzará una cadena de signos que tendrás que seguir con atención: ¡cuando te toque deberás repetir tu signo y hacer el de otro participante sin equivocarte!
 - De 4 a 12 jugadores a partir de 8 años
 - ¡El sentido del ritmo, la capacidad de observación y tu astucia serán tus únicas armas para no ser la Bola que lastra la cadena!
-- ¡Ritmo y Bola es un juego de sociedad delirante al que jugar hasta la extenuación!
-- Ritmo y Bola es un juego donde tendrás que palmear tus piernas al ritmo de “We Will Rock You”.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

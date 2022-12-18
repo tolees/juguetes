@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games Juego de Tronos Tierra de Nadie - Juego de Cartas en Español  BTW01ES '
-date: 2022-12-13 18:51:08
+date: 2022-12-18 01:37:26
 image: 'https://m.media-amazon.com/images/I/51-DcERlOeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sin embargo, esos aliados los compartes con tus vecinos, así que has de tener cuidado, porque hasta tus más íntimos amigos tienen su lealtad dividida.
+- Juego de tablero de 3 a 6 jugadores, recomendado a partir de 14 años de edad.
+- Número de jugadores: 3-6
+- ¡Súmete en los enrevesados politiqueos de Desembarco del Rey mientras participas en la impredecible lucha por el poder de Juego de tronos: Tierra de nadie!
 - Usarás tu influencia para ganarte nuevos aliados.
 - En este trepidante juego de cartas, estás al frente de tu noble casa como uno de los nueve líderes intrigantes que incluye el juego.
-- Número de jugadores: 3-6
-- Juego de tablero de 3 a 6 jugadores, recomendado a partir de 14 años de edad.
-- Sin embargo, esos aliados los compartes con tus vecinos, así que has de tener cuidado, porque hasta tus más íntimos amigos tienen su lealtad dividida.
-- ¡Súmete en los enrevesados politiqueos de Desembarco del Rey mientras participas en la impredecible lucha por el poder de Juego de tronos: Tierra de nadie!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

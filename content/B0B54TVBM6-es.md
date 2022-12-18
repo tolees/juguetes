@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plan B Games Century La Ruta de las Especias - Juego de mesa en Español'
-date: 2022-12-13 18:55:19
+date: 2022-12-18 01:42:06
 image: 'https://m.media-amazon.com/images/I/51H-iLwI2ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Century: La Ruta de las Especias es, sin lugar a duda, un juego optimo; un juego al que no querrás dejar de jugar una y otra vez
-- De 2 a 4 jugadores, recomendado a partir de 8 años de edad
-- Pon a prueba tu mente con este juego que combina una mecánica muy sencilla con un sistema de construcción de mazos y que te envolverá en un sin fin de estrategias y decisiones
 - Descubre la belleza de la Ruta de Las Especias y sus coloridos mercados de la mano de la obra de la artista internacional Fernanda Suárez
+- De 2 a 4 jugadores, recomendado a partir de 8 años de edad
+- Century: La Ruta de las Especias es, sin lugar a duda, un juego optimo; un juego al que no querrás dejar de jugar una y otra vez
 - Presentamos Century, una serie de juegos emocionantes a los que puedes jugar solos o combinados entre ellos
+- Pon a prueba tu mente con este juego que combina una mecánica muy sencilla con un sistema de construcción de mazos y que te envolverá en un sin fin de estrategias y decisiones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

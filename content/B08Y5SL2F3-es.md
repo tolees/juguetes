@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens Escala de 1 a T-Rex-Juego de Cartas en español  Color  EKTRX01ES '
-date: 2022-12-13 18:44:49
+date: 2022-12-18 01:31:14
 image: 'https://m.media-amazon.com/images/I/41hV-pXqX3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Exploding Kittens'
 buyurl: 'https://www.amazon.es/dp/B08Y5SL2F3/?tag=tolees-21'
 descuento: '15.06'
-average: '16.5815384615384'
+average: '16.6099999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A partir de 7 años de edad
-- De 2 a 8 jugadores.
 - Ganas adivinando el grado de intensidad del resto de jugadores. En medio de un caos de rugidos, bailes, maullidos y cánticos, debes encontrar a alguien con el mismo nivel de intensidad que tú
+- De 2 a 8 jugadores.
 - Las acciones no son secretas. Todo el mundo sabe lo que están haciendo los demás. El secreto está en la intensidad con la que la interpretas en un escala de 1 a 10.
+- A partir de 7 años de edad
 - Cada jugador recibe una acción. Todos interpretan sus acciones al mismo tiempo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

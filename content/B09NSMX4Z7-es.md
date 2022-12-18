@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rebel Crónicas de Avel - Juego de Mesa en español  de 1 a 4 Jugadores a Partir de 8 años'
-date: 2022-12-13 18:48:24
+date: 2022-12-18 01:35:06
 image: 'https://m.media-amazon.com/images/I/511veu-VATL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

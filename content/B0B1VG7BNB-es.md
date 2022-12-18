@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens EKIEK02ES - NSFW - Juego de Cartas en Español'
-date: 2022-12-13 18:52:42
+date: 2022-12-18 01:39:22
 image: 'https://m.media-amazon.com/images/I/41j-SodDeBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Esta versión contiene las mismas mecánicas que la edición original, pero contiene ilustraciones demasiado horribles/increibles como para ser incluidas en una versión apta para niños. Puedes jugar con esta versión de forma independiente o combiarla con otros mazos para admitir a más jugadores.
-- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico. Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
 - Juego de cartas de 2 a 5 jugadores, para mayores de 18 años.
-- Cuando esto sucede, esa persona muere y queda eliminada de la partida.
+- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico. Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
 - El resto de cartas de la baraja sirven para cambiar de lugar, mitigar o evitar a los Exploding Kittens.
+- Cuando esto sucede, esa persona muere y queda eliminada de la partida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

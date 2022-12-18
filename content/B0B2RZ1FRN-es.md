@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Space Cowboys Jamaica la tripulación - Juego de Mesa en Español  SCJCA04ES'
-date: 2022-12-13 18:52:16
+date: 2022-12-18 01:40:19
 image: 'https://m.media-amazon.com/images/I/41juCaVUPeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Piratas, pasad por la taberna, reclutad a nuevos tripulantes y animad vuestras partidas descubriendo nuevos tesoros!
 - Gracias a esta expansión de Jamaica, las carreras alrededor de la isla serán todavía más desafiantes y divertidas.
 - A partir de 8 años de edad.
-- De 2 a 6 jugadores.
 - Requiere una copia del juego base Jamaica.
+- De 2 a 6 jugadores.
+- ¡Piratas, pasad por la taberna, reclutad a nuevos tripulantes y animad vuestras partidas descubriendo nuevos tesoros!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Plan B Games - Beez - Juego de Mesa en Español'
-date: 2022-12-13 18:45:30
+date: 2022-12-18 01:39:30
 image: 'https://m.media-amazon.com/images/I/51-KQ+RCHnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Los jugadores tendrán que optimizar sus planes de vuelo y recolectar néctar para su colmena
-- ¡El desafío de planear tu vuelo y almacenar el néctar hará que te zumbe el cerebro!
-- Pero ten cuidado con las otras abejas, porque competirás contra ellas por varios objetivos comunes y secretos
 - De 2 a 4 Jugadores, partir de 8 años de edad
 - ¡Prepárate para volar cual abeja!
+- Pero ten cuidado con las otras abejas, porque competirás contra ellas por varios objetivos comunes y secretos
+- ¡El desafío de planear tu vuelo y almacenar el néctar hará que te zumbe el cerebro!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

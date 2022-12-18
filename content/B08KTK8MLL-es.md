@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Matagot - Sonar Family - Juego de Mesa'
-date: 2022-12-13 18:37:11
+date: 2022-12-18 01:25:48
 image: 'https://m.media-amazon.com/images/I/51bd-9bc34L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recomendado a Partir de 8 Años de Edad
-- Juego de Mesa en Español
-- Juego de 2 a 4 Jugadores
 - Incluye dos modos de juego: por turnos y en tiempo real.
 - Con una duración de 30 minutos por partida
+- Juego de 2 a 4 Jugadores
+- Juego de Mesa en Español
 
 [🛒 Aquí!!!]({{< param buyurl >}})

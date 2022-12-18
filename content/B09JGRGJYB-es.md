@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lookout Games Caverna: Caverna vs Caverna - Juego de Mesa en Español  LKGCABB01ES '
-date: 2022-12-13 18:49:07
+date: 2022-12-18 01:34:45
 image: 'https://m.media-amazon.com/images/I/51ERc5ozEFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Edición definitiva: Expansión incluida
-- Incluye modo solitario
 - 1 o 2 jugadores
+- Incluye modo solitario
 - A partir de 12 años de edad
 - Esta edición ahora también incluye un amplio apéndice que explica todas las fichas y sus acciones en detalle
 

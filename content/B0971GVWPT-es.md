@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Synapses Games Match 5 - Juego de Mesa en Español'
-date: 2022-12-13 18:44:27
+date: 2022-12-18 01:33:54
 image: 'https://m.media-amazon.com/images/I/51IK6rvt1vS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Busca vínculos, crea conexiones!
-- A partir de 10 años de edad.
-- Inventa respuestas que conecten los símbolos de los dados.
-- ¡Más de 3000 combinaciones posibles!
 - De 2 a 8 jugadores.
+- ¡Busca vínculos, crea conexiones!
+- Inventa respuestas que conecten los símbolos de los dados.
+- A partir de 10 años de edad.
+- ¡Más de 3000 combinaciones posibles!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

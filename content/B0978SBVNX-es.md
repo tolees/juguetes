@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horrible Games- Similo Espeluzante - Juego de Mesa en Español  Color  Horrible Guild HGSI0006 '
-date: 2022-12-15 13:18:17
+date: 2022-12-18 01:33:37
 image: 'https://m.media-amazon.com/images/I/41dKmGkkoHS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Horrible Games'
 buyurl: 'https://www.amazon.es/dp/B0978SBVNX/?tag=tolees-21'
 descuento: '15.12'
-average: '8.446'
+average: '8.45166666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Número de jugadores: 2+
-- Juego cooperativo donde todos los jugadores trabajan juntos para descubrir al Personaje secreto mediante una serie de pistas
 - Si lo descartas, ¡todos perdéis!
-- A partir de 2 jugadores
+- Juego cooperativo donde todos los jugadores trabajan juntos para descubrir al Personaje secreto mediante una serie de pistas
 - A partir de 8 años de edad
+- A partir de 2 jugadores
 - Tienes 5 rondas para encontrarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

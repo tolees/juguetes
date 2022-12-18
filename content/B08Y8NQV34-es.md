@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horrible Games - Similo Animales Juego de Cartas en español  Asmodee HGSI0004 '
-date: 2022-12-13 18:45:19
+date: 2022-12-18 01:31:38
 image: 'https://m.media-amazon.com/images/I/5193qYVqrTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jugar a similo es muy fácil: se despliegan 12 cartas en un total de 3 filas con 4 cartas cada una. La ilustración de cada carta representa a un personaje distinto. Todos serán candidatos... ¡pero solo uno será el escogido
+- ¡consigue pistas, busca las similitudes y descubre al personaje secreto
+- Similo es un juego cooperativo donde todos los jugadores trabajan juntos para descubrir al personaje secreto mediante una serie de pistas
 - A partir de 7 años de edad
 - 2 o más jugadores
-- Similo es un juego cooperativo donde todos los jugadores trabajan juntos para descubrir al personaje secreto mediante una serie de pistas
-- ¡consigue pistas, busca las similitudes y descubre al personaje secreto
+- Jugar a similo es muy fácil: se despliegan 12 cartas en un total de 3 filas con 4 cartas cada una. La ilustración de cada carta representa a un personaje distinto. Todos serán candidatos... ¡pero solo uno será el escogido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

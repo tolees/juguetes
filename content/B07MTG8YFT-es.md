@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee- Captain s.o.n.a.r. - español  Color  SON01ML '
-date: 2022-12-13 18:33:45
+date: 2022-12-18 01:19:56
 image: 'https://m.media-amazon.com/images/I/51SAMH4DpgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B07MTG8YFT/?tag=tolees-21'
 descuento: '26.46'
-average: '28.0233333333333'
+average: '28.0717857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Marca del producto: Asmodee
 - De 2 a 8 jugadores
-- Fácil de aprender y jugar
 - Desarrolla la creatividad y la imaginación
+- Fácil de aprender y jugar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

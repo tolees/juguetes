@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'asmodee editions iberica s.l.u. Scorpion Masqué Stay Cool - es fácil Solo Tienes Que Hacerlo Todo a la Vez  Juego de Mesa en Español  SMSC01ES '
-date: 2022-12-13 18:40:29
+date: 2022-12-18 01:28:35
 image: 'https://m.media-amazon.com/images/I/51csIQ0iWDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 50 cartas esmeralda (1000 preguntas), 50 cartas rojas (500 preguntas), 7 dados de letra, 1 reloj de arena y 1 carta de Tiempo
-- Recomendado a Partir de 12 Años de Edad
-- Con una duración de 25 Minutos por partida
-- Juego de Mesa en Español
 - Juego de 3 a 7 Jugadores
+- Recomendado a Partir de 12 Años de Edad
+- 50 cartas esmeralda (1000 preguntas), 50 cartas rojas (500 preguntas), 7 dados de letra, 1 reloj de arena y 1 carta de Tiempo
+- Juego de Mesa en Español
+- Con una duración de 25 Minutos por partida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

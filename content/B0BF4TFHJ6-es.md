@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - Eggert Spiele - ERA Edad Media  Ríos y Carreteras  Expansión en Español'
-date: 2022-12-13 18:54:43
+date: 2022-12-18 01:43:15
 image: 'https://m.media-amazon.com/images/I/51hUONRufkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dentro de esta caja encontrarás un conjunto de escenarios que te ayudarán a familiarizarte con los emocionantes elementos
 - De 1 a 4 jugadores; a partir de 10 años
-- Construirás carreteras para expandir tu feudo y mejorar el comercio con tus vecinos
 - Sabrás aprovechar el potencial de los ríos para impulsar la oferta y la demanda de tu próspera ciudad
 - Ríos y Carreteras es la expansión para el aclamado juego en el que tienes que tirar dados y construir tu ciudad
+- Dentro de esta caja encontrarás un conjunto de escenarios que te ayudarán a familiarizarte con los emocionantes elementos
+- Construirás carreteras para expandir tu feudo y mejorar el comercio con tus vecinos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

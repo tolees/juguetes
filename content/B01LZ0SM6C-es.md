@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Repos Production - Time s Up! Family 1 - Juego de Cartas en Español'
-date: 2022-12-13 18:29:18
+date: 2022-12-18 01:19:24
 image: 'https://m.media-amazon.com/images/I/51n0L0wZcHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se juega en tres rondas, con 2 o más equipos
-- El objetivo es adivinar objetos, animales, acciones, oficios
-- El producto representa un juego de tablero
-- Contiene 220 cartas, 1 libreta de puntuación, 1 reloj de arena, bolsa de transporte y reglas
-- El equipo con más puntos al final de la partida gana
+- The goal is to guess objects, animals, actions, trades
+- Contains 220 cards, 1 punctuation book, 1 hourglass, carry bag and rulers
+- Played in three rounds, with 2 or more teams
+- The product represents a board game
+- Team with the highest points at the end of the game wins
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbox Now - Days of Wonder Aventureros al Tren! San Francisco - Juego de Mesa en Español'
-date: 2022-12-13 18:55:43
+date: 2022-12-18 01:42:48
 image: 'https://m.media-amazon.com/images/I/61aynX5ao6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,7 +31,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Las mecánicas sencillas y elegantes de esta versión independiente de ¿Aventureros al Tren! son perfectas tanto para jugadores noveles como para los más expertos.
 - ¡No hay duda de que San Francisco es la ciudad dorada!
 - En este dinámico juego de la serie ¡Aventureros al Tren!, los jugadores compiten entre sí para visitar los lugares más icónicos de la ciudad y hacerse con souvenirs por el camino.
-- ¡Bienvenidos a San Francisco!
 - Puedes sentir el peso de los souvenirs en la mochila mientras te asomas desde el tranvía. La luz del sol brilla a través de la niebla que oculta las vistas a Alcatraz y al Puente Golden Gate.
+- ¡Bienvenidos a San Francisco!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

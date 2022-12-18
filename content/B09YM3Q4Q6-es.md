@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Synapses Games - ¡Sigue la línea! - Juego de Mesa en Español'
-date: 2022-12-13 18:52:11
+date: 2022-12-18 01:39:44
 image: 'https://m.media-amazon.com/images/I/51MiUUJE2wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ¡Dibuja, haz mímica, busca y adivina!
 - ¡Trabajad juntos para unir los iconos y ser el primer equipo en adivinar la Palabra misteriosa!
-- Un juego de socialización muy divertido que se juega por equipos.
-- De 4 a 8 jugadores
 - A partir de 10 años.
+- De 4 a 8 jugadores
+- Un juego de socialización muy divertido que se juega por equipos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

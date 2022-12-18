@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Scrabble de 2 a 4 Jugadores  MEGABLEU Editions 855029   Importado '
-date: 2022-12-13 18:27:51
+date: 2022-12-18 01:16:33
 image: 'https://m.media-amazon.com/images/I/51cQZFf1UdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- <b>Funciona sin pilas.</b>
 - <b>Descripción del producto:</b> la versión gigante del más famoso de los juegos de letras para jugar en familia o entre amigos.<br />Esta versión de calidad contiene letras y caballetes de madera, así como un tablero de juego gigante, en formato superior (+ 33%), para una mayor comodidad de uso.
-- <b>Edad mínima</b>: 10 años.
 - <b>Medidas</b>: 36,5 x 5 x 26,8 cm.
+- <b>Edad mínima</b>: 10 años.
+- <b>Funciona sin pilas.</b>
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

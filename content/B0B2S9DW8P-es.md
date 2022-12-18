@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HeidelBar Games - Blaze - Juego de Cartas en Español'
-date: 2022-12-13 18:53:24
+date: 2022-12-18 01:41:13
 image: 'https://m.media-amazon.com/images/I/51X0k98gilL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego de 2 a 6 jugadores, a partir de 8 años de edad.
-- Bueno, camarada, que así sea. Si quieres capturar al Ave de fuego para conseguir sus plumas mágicas, no te detendré
 - Cada número que introduce el jugador objetivo te permite jugar nuevos valores de cartas. Si no es capaz de seguir respondiendo, coge todas las cartas y se salta su siguiente turno, pero esto no quiere decir aún que haya perdido.
+- Bueno, camarada, que así sea. Si quieres capturar al Ave de fuego para conseguir sus plumas mágicas, no te detendré
 - Una vez que se agota el mazo, todos los jugadores intentan deshacerse de sus cartas lo antes posible para ganar valiosas plumas como recompensa. Así que ten cuidado: aquel que hace un minuto era tu «ayudante» podría pronto pasar a la ofensiva.
 - Juega cartas del mismo valor para desafiar al jugador de tu izquierda. Debe responder con el mismo palo y el mismo valor o uno mayor. Su otro vecino puede apoyar tu desafío con cartas iguales en cualquier momento.
+- Juego de 2 a 6 jugadores, a partir de 8 años de edad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

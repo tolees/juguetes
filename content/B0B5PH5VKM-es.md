@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rebel San Francisco - Juego de Mesa en Español  RESF01ES'
-date: 2022-12-13 18:55:19
+date: 2022-12-18 01:42:57
 image: 'https://m.media-amazon.com/images/I/51l1D08R4GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La primera mitad del siglo XX es para San Francisco una época de intenso desarrollo y nuevas oportunidades
-- Esboza una hermosa ciudad en este juego ideado por el famoso diseñador de juegos de mesa Reiner Knizia
-- También es una oportunidad para que tú, como urbanista, participes en el concurso para elegir el plan de reconstrucción más impresionante de la ciudad
-- De 2 a 4 jugadores, a partir de 12 años de edad
 - Siéntate, abre tu cuaderno de bocetos, ¡y crea ese proyecto que te hará destacar!
+- Esboza una hermosa ciudad en este juego ideado por el famoso diseñador de juegos de mesa Reiner Knizia
+- La primera mitad del siglo XX es para San Francisco una época de intenso desarrollo y nuevas oportunidades
+- De 2 a 4 jugadores, a partir de 12 años de edad
+- También es una oportunidad para que tú, como urbanista, participes en el concurso para elegir el plan de reconstrucción más impresionante de la ciudad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

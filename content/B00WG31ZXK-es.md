@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cocktail Games- Juego de Cartas Mim Too  Color  Asmodee MIM01ES '
-date: 2022-12-13 18:29:46
+date: 2022-12-18 01:13:26
 image: 'https://m.media-amazon.com/images/I/51wQRdIqRBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocktail Games'
 buyurl: 'https://www.amazon.es/dp/B00WG31ZXK/?tag=tolees-21'
 descuento: '20.09'
-average: '11.685'
+average: '11.25'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece tiempo de diversión y entretenimiento
-- Material de calidad
-- Juego de cartas
 - Adecuado para fiestas
+- Material de calidad
+- Ofrece tiempo de diversión y entretenimiento
+- Juego de cartas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

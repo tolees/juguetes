@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horrible Games - Asmodee - Railroad Ink: Edición rojo abrasador - Español'
-date: 2022-12-13 18:35:39
+date: 2022-12-18 01:22:43
 image: 'https://m.media-amazon.com/images/I/61iBean+v4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ofrece tiempo de diversión y entretenimiento
+- Material de calidad
 - Producto en castellano
 - Juego de mesa
-- Material de calidad
-- Ofrece tiempo de diversión y entretenimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

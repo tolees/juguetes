@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Repos Production - Asmodee - Concept Kids - Español  CKASP01 '
-date: 2022-12-13 18:34:53
+date: 2022-12-18 01:20:45
 image: 'https://m.media-amazon.com/images/I/41l5R1xrc3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Repos Production'
 buyurl: 'https://www.amazon.es/dp/B07MTNQ5QG/?tag=tolees-21'
 descuento: '20.05'
-average: '20.7614285714286'
+average: '20.66375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Número de jugadores: 4-12
-- Un juego de comunicación para niños.
 - A partir de 4 años de Edad
+- Un juego de comunicación para niños.
 - Una manera divertida de descubrir el mundo animal.
 - Fácil de entender.
 

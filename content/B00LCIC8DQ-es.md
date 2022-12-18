@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Viernes. Juego de Cartas  Color  Talla Unica  1 '
-date: 2022-12-13 17:10:36
+date: 2022-12-18 01:18:03
 image: 'https://m.media-amazon.com/images/I/51qejkdc9vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B00LCIC8DQ/?tag=tolees-21'
 descuento: '15.04'
-average: '19.1795'
+average: '19.0733333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- en este juego, robinson está representado por un mazo de cartas con diferentes comportamientos.
+- robinson ha naufragado en tu isla y tendrás que ayudarle a luchar contra multitud de peligros. al principio, robinson no es muy hábil, pero con cada enfrentamiento que supera mejora sus habilidades.
 - para 1 jugador a partir de 10 años de edad
 - tendrás que conseguir las mejores cartas para que robinson pueda vencer cuando finalmente se enfrente a los temibles piratas.
-- robinson ha naufragado en tu isla y tendrás que ayudarle a luchar contra multitud de peligros. al principio, robinson no es muy hábil, pero con cada enfrentamiento que supera mejora sus habilidades.
-- en este juego, robinson está representado por un mazo de cartas con diferentes comportamientos.
 - viernes es una aventura en solitario: sólo tú puedes ganar la partida.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

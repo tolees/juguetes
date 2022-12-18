@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zygomatic - Asmodee JSKIO2ES En El Corazón de La Selva'
-date: 2022-12-13 18:33:39
+date: 2022-12-18 01:22:10
 image: 'https://m.media-amazon.com/images/I/5135QIj2dCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Zygomatic'
 buyurl: 'https://www.amazon.es/dp/B07JNKRDZR/?tag=tolees-21'
 descuento: '15.05'
-average: '17.985'
+average: '18.2166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡3 niveles de dificultad!
 - ¡usa tu memoria y tus reflejos para ser el primero en coger el tótem!
 - A partir de 4 años de edad
-- ¡3 niveles de dificultad!
 - En el corazón de la selva, el león se ha quedado dormido
 - ¡Rápido! ¡Es tu oportunidad de salvar a los animales!
 

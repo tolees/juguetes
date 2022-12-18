@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Longalive Games Cómo adopté un ñu - Juego de Mesa en Español  LDGNU01ES '
-date: 2022-12-13 18:47:38
+date: 2022-12-18 01:33:09
 image: 'https://m.media-amazon.com/images/I/41zUscGIrFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Todos los dados, desde el más claro hasta el más oscuro, te ayudarán a construir una historia, desarrollarla y concluirla con éxito pero ¡cuidado con el dado negro! Los otros jugadores pueden interrumpirte.
-- Escoge un tema y ¡tira los dados!
-- De 2 a 8 jugadores.
 - ¡Es una auténtica locura para los adultos y una gran herramienta de imaginación para los niños!
 - A partir de 8 años de edad.
+- Escoge un tema y ¡tira los dados!
+- De 2 a 8 jugadores.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

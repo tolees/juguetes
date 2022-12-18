@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens  Inc. A Game of Cat and Mouth - Juego de Mesa en Español  EKCM01ES'
-date: 2022-12-13 18:52:42
+date: 2022-12-18 01:38:14
 image: 'https://m.media-amazon.com/images/I/513WYODcfSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se juega rápidamente, reúne todas las bolas de tu lado y lánzalas.
-- Se utiliza una pata de gato magnética para disparar bolas.
-- Para empezar a jugar, cuenta 3, 2, 1 y ¡a jugar!
-- Puedes lanzar las bolas amarillas o blancas al otro lado. Lánzalas lo más rápido que puedas
 - Juego para dos jugadores.
+- Para empezar a jugar, cuenta 3, 2, 1 y ¡a jugar!
+- Se utiliza una pata de gato magnética para disparar bolas.
+- Se juega rápidamente, reúne todas las bolas de tu lado y lánzalas.
+- Puedes lanzar las bolas amarillas o blancas al otro lado. Lánzalas lo más rápido que puedas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
