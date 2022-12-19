@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - WRC 9. World Rally Championship 9: The Official Game - Versión Española  Nintendo Switch '
-date: 2022-12-14 18:02:00
+date: 2022-12-19 07:25:34
 image: 'https://m.media-amazon.com/images/I/51iYoDlHRYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08GMRZTNJ-es Nacon - WRC 9. World Rally Championship 9: The Official...'
 sku: 'B08GMRZTNJ-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nacon','nintendo','🇪🇸', ]
-actualPrice: 27.34 EUR
+actualPrice: 27.18 EUR
 currency: EUR
-price: 27.34
+price: 27.18
 comparePrice: 59.99 EUR
 prodname: 'Nacon - WRC 9. World Rally Championship 9: The Official Game - Versión Española  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B08GMRZTNJ/?tag=tolees-21'
-descuento: '54.43'
-average: '30.7092592592593'
+descuento: '54.69'
+average: '30.4713793103449'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
