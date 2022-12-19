@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡La Colección más Completa de Juegos de KONAMI de las tortugas ninja llega a Switch, PlayStation, y Xbox!
 - Nuevas funciones de calidad de vida: Juega onlinecon ciertos juegos y cooperativo local con todos los juegos; Guarda o rebobina en cualquier momento; Asignación de botones ;Arte y bocetos de desarrollo únicos; Contenido multimedia histórico de TMNT; Once versiones regionales japonesas;
 - Teenage Mutant Ninja Turtles: The Cowabunga Collection incluye los siguientes juegos clásicos: Ninja Turtles (Arcade); Ninja Turtles: Turtles in Time (Arcade); Ninja Turtles (NES); Ninja Turtles II: The Arcade Game (NES); Ninja Turtles III: The Manhattan Project (NES); Ninja Turtles: Tournament Fighters (NES); Ninja Turtles IV: Turtles in Time (Super Nintendo); Ninja Turtles: Tournament Fighters (Super Nintendo);Ninja Turtles: The Hyperstone Heist (Sega Genesis); Ninja Turtles: Tournament Fighters (Sega Genesis); Ninja Turtles: Fall of The Foot Clan (Game Boy); Ninja Turtles II: Back From The Sewers (Game Boy); Ninja Turtles III: Radical Rescue (Game Boy)
-- ¡La Colección más Completa de Juegos de KONAMI de las tortugas ninja llega a Switch, PlayStation, y Xbox!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
