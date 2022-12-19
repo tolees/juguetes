@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Estudio de Videojuegos'
-date: 2022-12-11 20:14:22
+date: 2022-12-19 13:56:27
 image: 'https://m.media-amazon.com/images/I/5138Ut3cWmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09B33KFMT/?tag=tolees-21'
 descuento: '33.34'
-average: '24.0487499999999'
+average: '23.9257575757575'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada lección enseña a hacer un pequeño videojuego independiente, cada uno de un género distinto, que el jugador podrá probar en cualquier momento para comprobar y disfrutar de su progreso.
 - Empareja a los nodon para que aúnen fuerzas y conviertan tu juego en realidad. Con su ayuda, cualquiera puede pasar de una página en blanco a un prototipo de videojuego en nada de tiempo.
 - Aprende a crear tus propios videojuegos, guiado por siete lecciones interactivas ideadas por las mentes de Nintendo.
+- Cada lección enseña a hacer un pequeño videojuego independiente, cada uno de un género distinto, que el jugador podrá probar en cualquier momento para comprobar y disfrutar de su progreso.
 - El juego introduce rápidamente a unos seres muy peculiares llamados nodon, cuya colaboración será esencial para crear un juego desde cero. Hay decenas de nodon en Estudio de videojuegos, cada uno tiene su propia personalidad y desempeña un papel específico dentro de tus creaciones.
 - Con el modo "programación libre" el jugador podrá sacar provecho de las habilidades aprendidas en las lección. Además, podrás intercambiar y descargar juegos con familiares y amigos de manera local o en línea.
 
