@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye mini figuras LEGO de guerreros Star-Lord, Groot, Rocket, Mantis, Thor y Chitauri, además de fantásticas armas y accesorios
-- Contiene la icónica nave espacial LEGO Guardianes de la Galaxia con cabina abatible y espacio para todas las mini figuras LEGO Marvel del set
 - Juguete de construcción de la icónica nave espacial LEGO Marvel Guardianes de la Galaxia con cabina abatible y espacio para todas las mini figuras del set
-- Entre sus divertidas características se incluye una tienda de armas, un ordenador y un lugar para que los superhéroes de Marvel puedan comer café y donuts
-- Este gran set LEGO de 1901 piezas mide 36 centímetros de largo y 59 centímetros de ancho, es un gran regalo de Guardianes de la Galaxia para los fans de Marvel Avengers
 - Es estupendo tanto por dentro como por fuera, con un soporte giratorio resistente que permite colocar la nave espacial de juguete en una posición dinámica
+- Entre sus divertidas características se incluye una tienda de armas, un ordenador y un lugar para que los superhéroes de Marvel puedan comer café y donuts
+- Contiene la icónica nave espacial LEGO Guardianes de la Galaxia con cabina abatible y espacio para todas las mini figuras LEGO Marvel del set
+- Este gran set LEGO de 1901 piezas mide 36 centímetros de largo y 59 centímetros de ancho, es un gran regalo de Guardianes de la Galaxia para los fans de Marvel Avengers
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
