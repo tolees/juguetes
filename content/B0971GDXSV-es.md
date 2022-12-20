@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games Descent: Leyendas de Las tinieblas - Juego de Mesa en Español'
-date: 2022-12-19 08:33:32
+date: 2022-12-20 11:06:23
 image: 'https://m.media-amazon.com/images/I/51+Lz1IkfRS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fantasy Flight Games'
 buyurl: 'https://www.amazon.es/dp/B0971GDXSV/?tag=tolees-21'
 descuento: '33.44'
-average: '151.5615'
+average: '149.890952380952'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Comienza tu leyenda!
-- A partir de 14 años de edad.
-- De 1 a 4 Jugadores
-- Está todo listo para el próximo enfrentamiento entre Terrinoth y las fuerzas de la oscuridad.
 - El enemigo más antiguo del reino ha regresado.
+- De 1 a 4 Jugadores
+- A partir de 14 años de edad.
+- Está todo listo para el próximo enfrentamiento entre Terrinoth y las fuerzas de la oscuridad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

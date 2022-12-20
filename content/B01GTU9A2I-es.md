@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbox Now - 7 Wonders: Duel - Juego de Cartas en Español'
-date: 2022-12-18 01:15:26
+date: 2022-12-20 10:05:20
 image: 'https://m.media-amazon.com/images/I/51u8t4uMjbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Unbox Now'
 buyurl: 'https://www.amazon.es/dp/B01GTU9A2I/?tag=tolees-21'
 descuento: '20.19'
-average: '22.3214285714286'
+average: '22.2997222222223'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Existen 3 formas de ganar en 7 Wonders Duel: supremacía militar, supremacía científica y victoria civil.
-- Si al final de la tercera Era nadie ha conseguido ganar, los jugadores sumarán sus puntos de victoria y aquel que tenga más será el ganador.
-- 7 Wonders Duel es un juego completo en el universo de 7 Wonders, diseñado específicamente para 2 jugadores.
-- A partir de 10 años de edad. 30 minutos de duración
 - En 7 Wonders Duel cada jugador es el líder de una civilización que construirá Estructuras y erigirá Maravillas. Las Estructuras y las Maravillas construidas por cada jugador componen su «ciudad».
+- 7 Wonders Duel es un juego completo en el universo de 7 Wonders, diseñado específicamente para 2 jugadores.
+- Si al final de la tercera Era nadie ha conseguido ganar, los jugadores sumarán sus puntos de victoria y aquel que tenga más será el ganador.
+- A partir de 10 años de edad. 30 minutos de duración
+- Existen 3 formas de ganar en 7 Wonders Duel: supremacía militar, supremacía científica y victoria civil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
