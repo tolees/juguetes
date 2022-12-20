@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gamepad profesional completamente modular
+- Mini-sticks de siguiente generación (NXG): vida útil más larga y mayor precisión
 - Compatible con Xbox Series X; s, Xbox One y PC
 - Ecosistema ilimitado de módulos (se venden por separado) para la máxima versatilidad y una comodidad de juego en constante mejora
-- Mini-sticks de siguiente generación (NXG): vida útil más larga y mayor precisión
 - Bloqueo físico de los gatillos; reasignación directa de botones traseros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

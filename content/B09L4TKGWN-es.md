@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un mazo de Protección pregenerado y listo para jugar desde el primer momento
 - Se necesita una caja básica de Marvel Champions
+- Con esta expansión, que incorpora a La Visión como nuevo Héroe jugable
+- Con un mazo de Protección pregenerado y listo para jugar desde el primer momento
 - Vision es un Héroe muy adaptable que puede aportar una importante ventaja a cualquier equipo
 - Con una gran durabilidad y un amplio abanico de capacidades para castigar a los Villanos
-- Con esta expansión, que incorpora a La Visión como nuevo Héroe jugable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

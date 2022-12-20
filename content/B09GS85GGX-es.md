@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La Gran Manzana duerme mientras Green Goblin trama formas de sembrar el caos.
-- ¡el Spider-Verso se ha abierto de par en par y Spider-Man, Ghost-Spider y Miles Morales unen sus fuerzas para enfrentarse cara a cara al terror verde!
-- De 1 a 4 Jugadores. A partir de 10 años de edad.
-- ¡Mientras sus secuaces raptan y saquean sin freno por toda la ciudad, Green Goblin acapara recursos para perfeccionar su fórmula secreta y aumentar sus poderes!
 - Se necesita la caja básica de Marvel United
+- De 1 a 4 Jugadores. A partir de 10 años de edad.
+- ¡el Spider-Verso se ha abierto de par en par y Spider-Man, Ghost-Spider y Miles Morales unen sus fuerzas para enfrentarse cara a cara al terror verde!
+- La Gran Manzana duerme mientras Green Goblin trama formas de sembrar el caos.
+- ¡Mientras sus secuaces raptan y saquean sin freno por toda la ciudad, Green Goblin acapara recursos para perfeccionar su fórmula secreta y aumentar sus poderes!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

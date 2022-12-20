@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🔊 SONIDO OPTIMIZADO: los cascos Fuyin 2.0 Switch Edition cuentan con un driver de 40mm para emitir un sonido en estéreo perfectamente equilibrado.
-- 🎮 CONTROL MÁXIMO: además de subir y bajar el volumen desde tu centro de mando ubicado en el cable, también cuentas con un botón de mute para el micrófono.
-- 👨🏽‍💻 COMPATIBILIDAD TOTAL: los cascos gaming Fuyin 2.0 Switch edition están diseñados especialmente para tu Nintendo Switch y PS5, pero son compatibles con todas las consolas y dispositivos que tengan entrada minijack de 3.5mm.
 - 🎧 DISEÑO FUNCIONAL: headphones con diadema ajustable y micrófono retráctil, estos auriculares 100% ergonómicos son ideales para largas partidas de videojuegos.
 - 👾 COMODIDAD: nuestro headset para gamers tiene almohadillas en textil símil piel en las orejeras y en la diadema para un nivel superior de confort.
+- 🎮 CONTROL MÁXIMO: además de subir y bajar el volumen desde tu centro de mando ubicado en el cable, también cuentas con un botón de mute para el micrófono.
+- 🔊 SONIDO OPTIMIZADO: los cascos Fuyin 2.0 Switch Edition cuentan con un driver de 40mm para emitir un sonido en estéreo perfectamente equilibrado.
+- 👨🏽‍💻 COMPATIBILIDAD TOTAL: los cascos gaming Fuyin 2.0 Switch edition están diseñados especialmente para tu Nintendo Switch y PS5, pero son compatibles con todas las consolas y dispositivos que tengan entrada minijack de 3.5mm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
