@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbox Now - Pandemic: en el Laboratorio - Juego de Mesa en Español'
-date: 2022-12-18 01:26:57
+date: 2022-12-20 11:40:24
 image: 'https://m.media-amazon.com/images/I/51sTQm7w0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Unbox Now'
 buyurl: 'https://www.amazon.es/dp/B08BP2DJ5T/?tag=tolees-21'
 descuento: '26.23'
-average: '35.0942857142857'
+average: '34.85625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amplía los retos de ¡Al límite! con las nuevas cartas de Epidemia «Cepa virulenta»
 - Incluye: el escenario «Mutación: pánico a escala global».
-- Juega en solitario o en uno de los equipos enfrentados (para cuatro a seis jugadores).
+- Amplía los retos de ¡Al límite! con las nuevas cartas de Epidemia «Cepa virulenta»
 - Toma muestras y desarrolla curas en el reto «Laboratorio».
 - Encerrados en salas blancas, los científicos van a contrarreloj para secuenciar enfermedades y probar curas
+- Juega en solitario o en uno de los equipos enfrentados (para cuatro a seis jugadores).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
