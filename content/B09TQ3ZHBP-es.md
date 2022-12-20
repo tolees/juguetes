@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡A LA AVENTURA! – Aprieta la cola del dinosaurio y abrirá sus fauces para agarrar a los malvados, y si presionas debajo, ¡sus ojos se iluminarán y rugirá como nunca! ¡A por ellos!
-- ¡LLEGAN LOS DINOSAURIOS A KABOOM CITY! – El Superdino H-Rex es el aliado de los héroes. Sus articulaciones le permiten moverse a toda velocidad para atrapar a los villanos.
 - GRAN JUGABILIDAD – Boca, piernas y brazos articulados. Dinosaurio de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños.
-- SOLO EN AMAZON – Este producto está disponible sólo en AMAZON y Contiene 1 Kazoom Kid JUNGLASSIC y 1 SuperThing MUNCHY héroe exclusivos.
+- ¡LLEGAN LOS DINOSAURIOS A KABOOM CITY! – El Superdino H-Rex es el aliado de los héroes. Sus articulaciones le permiten moverse a toda velocidad para atrapar a los villanos.
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
+- SOLO EN AMAZON – Este producto está disponible sólo en AMAZON y Contiene 1 Kazoom Kid JUNGLASSIC y 1 SuperThing MUNCHY héroe exclusivos.
+- ¡A LA AVENTURA! – Aprieta la cola del dinosaurio y abrirá sus fauces para agarrar a los malvados, y si presionas debajo, ¡sus ojos se iluminarán y rugirá como nunca! ¡A por ellos!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

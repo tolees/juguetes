@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nilox  E-Bike J3  Bicicleta eléctrica con pedaleo asistido  70 km de autonomía  hasta 25 km/h  batería de litio de 36 V 12 8 Ah  ruedas de 20"  7 velocidades  frenos de disco'
-date: 2022-12-19 16:17:32
+date: 2022-12-20 19:43:39
 image: 'https://m.media-amazon.com/images/I/41NZP+IlznL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nilox'
 buyurl: 'https://www.amazon.es/dp/B09STZW56L/?tag=tolees-21'
 descuento: '43.37'
-average: '707.775'
+average: '702.02'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MOTOR SIN CEPILLO DE ALTA VELOCIDAD: Nilox J3 Plus es capaz de alcanzar hasta 25 km/h gracias a su motor sin cepillo de alta velocidad de 250 W, sensor de par integrado instalado en el buje trasero
 - MOTOR DE 5 VELOCIDADES: Nada podrá detenerte gracias al motor de 5 velocidades, activado por la pantalla LCD del manillar; con batería recargable de 36 V 12,8 Ah con una autonomía de hasta 70 km
-- SÓLIDO Y ESTABLE: Con ruedas FAT de 20", caja de cambios SHIMANO de 7 velocidades y frenos de disco para usar en cualquier carretera con grande estabilidad, no temerá ningún bache u obstáculo
+- MOTOR SIN CEPILLO DE ALTA VELOCIDAD: Nilox J3 Plus es capaz de alcanzar hasta 25 km/h gracias a su motor sin cepillo de alta velocidad de 250 W, sensor de par integrado instalado en el buje trasero
 - CON NILOX TOMATELA CON CALMA LLEGANDO ANTES QUE NADIE: Movimiento, tecnología y opciones sostenibles para un estilo inteligente y actual
+- SÓLIDO Y ESTABLE: Con ruedas FAT de 20", caja de cambios SHIMANO de 7 velocidades y frenos de disco para usar en cualquier carretera con grande estabilidad, no temerá ningún bache u obstáculo
 - ASPECTO AGRESIVO: El cuadro de aluminio con coloración verde camuflaje y las luces LED completan el aspecto agresivo; j3 Plus, la eBike que no pasará desapercibida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
