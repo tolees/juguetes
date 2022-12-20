@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El resto de las cartas de la baraja sirven para cambiar de lugar, mitigar o evitar a los Exploding Minions.
-- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Minion.
-- Juega a la nueva versión Minion de tu juego de cartas explosivas preferido, con nuevos tipos de cartas y mágicos perritos-banana.
 - ¡Los Minions han invadido el universo Exploding Kittens!
+- El resto de las cartas de la baraja sirven para cambiar de lugar, mitigar o evitar a los Exploding Minions.
+- Juega a la nueva versión Minion de tu juego de cartas explosivas preferido, con nuevos tipos de cartas y mágicos perritos-banana.
 - Cuando esto sucede, esa persona muere y queda eliminada de la partida, a no ser que tenga una carta de Desactivación.
+- Los jugadores van robando cartas hasta que a alguien le sale un Exploding Minion.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens Throw Throw Burrito - Juego de Cartas en Español  EKITTB01ES'
-date: 2022-12-19 08:32:41
+date: 2022-12-20 14:11:01
 image: 'https://m.media-amazon.com/images/I/51--a8AbyVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 2 a 10 Jugadores
-- Donde los jugadores se enfrentan cara a cara mientras roban cartas, ganan puntos y se tiran Burritos unos a otros
 - A partir de 7 años
-- Este es un juego diferente a cualquier otro que hayas jugado antes
+- Donde los jugadores se enfrentan cara a cara mientras roban cartas, ganan puntos y se tiran Burritos unos a otros
 - Una combinación de juego de cartas y balón prisionero
+- De 2 a 10 Jugadores
+- Este es un juego diferente a cualquier otro que hayas jugado antes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

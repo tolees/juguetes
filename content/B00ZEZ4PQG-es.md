@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con un touchpad real, como el de un Notebook. Diseño del teclado QWERTY. Control multimedia de Windows. Además de un control perfecto de otras características multimedia de tu ordenador.
-- Es el primer mando en incluir el diseño Touchpad 90º Flip-Design, para usar el touchpad tanto en vertical como en horizontal.
-- Manejable, portable, elegante y moderno. Un gran accesorio para tu ordenador portátil y de sobremesa, para PS3 o para Wii videoconsolas
 - Dispositivo inalámbrico 2.4 Ghz con receptor integrado. (Para Samsung TV, nuestro producto no funciona con la mayoría de ellos, pero si su TV es compatible con teclado, también es compatible con nuestro producto.)
+- Manejable, portable, elegante y moderno. Un gran accesorio para tu ordenador portátil y de sobremesa, para PS3 o para Wii videoconsolas
 - Requerimientos del Sistema: Windows 2000, Windows XP, Windows Vista, Windows CE, Windows 7, Linux.¡OJO! Si tiene algún problema mientras usándolo, primero recárgalo completamente después probarlo otra vez. Si sigue teniendo problema, contáctanos mediante el mensaje de comrpador porfa.
+- Es el primer mando en incluir el diseño Touchpad 90º Flip-Design, para usar el touchpad tanto en vertical como en horizontal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
