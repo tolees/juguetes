@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mezcla fantástica de plataformas y RPG de acción
+- Cuatro juegos clásicos de la influyente serie de plataformas de SEGA
 - Incluye Wonder Boy, Wonder Boy in Monster Land, Wonder Boy in Monster World y Monster World IV
 - Un port excelente para las consolas modernas, ¡con características extendidas como filtro, shader, opción para rebobinar y galería de arte!
-- Cuatro juegos clásicos de la influyente serie de plataformas de SEGA
+- Una mezcla fantástica de plataformas y RPG de acción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
