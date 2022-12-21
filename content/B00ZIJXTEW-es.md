@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicadores de PS3 y botón de inicio
-- Recargable en puerto USB (Cable incluido)
-- Interruptor de entrada X y entrada directa, para máxima compatibilidad en el entorno de videojuegos
-- Cobertura inalámbrica de 10 metros
 - 13 botones, 2 palancas de control y panel digital
+- Cobertura inalámbrica de 10 metros
 - Cubierta de goma para un perfecto agarre
+- Interruptor de entrada X y entrada directa, para máxima compatibilidad en el entorno de videojuegos
+- Recargable en puerto USB (Cable incluido)
+- Indicadores de PS3 y botón de inicio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
