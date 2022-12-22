@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horrible Games - Asmodee - Railroad Ink: Edición azul profundo - Español'
-date: 2022-12-18 01:21:11
+date: 2022-12-22 08:33:30
 image: 'https://m.media-amazon.com/images/I/51nFujtYf2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Horrible Games'
 buyurl: 'https://www.amazon.es/dp/B07NLP4SY6/?tag=tolees-21'
 descuento: '24.08'
-average: '13.2866666666667'
+average: '13.096'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de calidad
-- Producto en castellano
-- Ofrece tiempo de diversión y entretenimiento
 - Juego de mesa
+- Material de calidad
+- Ofrece tiempo de diversión y entretenimiento
+- Producto en castellano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
