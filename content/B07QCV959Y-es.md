@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbox Now - Azul Vitrales de Sintra - Juego de Mesa en Español'
-date: 2022-12-19 08:31:55
+date: 2022-12-22 12:11:40
 image: 'https://m.media-amazon.com/images/I/51IbMbrpXzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Unbox Now'
 buyurl: 'https://www.amazon.es/dp/B07QCV959Y/?tag=tolees-21'
 descuento: '25.56'
-average: '34.0328571428572'
+average: '33.965'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manuel I de Portugal quiere encargar a los más grandes artesanos de vidrieras del mundo que adornen las ventanas del Palacio Real de Sintra.
 - De 2 a 4 jugadores. A partir de 8 años de edad.
+- Manuel I de Portugal quiere encargar a los más grandes artesanos de vidrieras del mundo que adornen las ventanas del Palacio Real de Sintra.
 - ¿Serás el mejor en la creación de los vitrales más hermosos de todo Portugal?
-- Como artesano del vidrio es una ocasión única en la vida para demostrar tus exquisitas habilidades al servicio del rey y del país.
 - ¡Bienvenido de nuevo al mundo de Azul!
+- Como artesano del vidrio es una ocasión única en la vida para demostrar tus exquisitas habilidades al servicio del rey y del país.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
