@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RT-AX86S - Router gaming AX5700  Wi-Fi 6 802.11ax  doble banda  modo dedicado para dispositivos móviles y PS5  soporte para redes en malla  puerto gaming  QoS adaptable'
-date: 2022-12-21 15:38:28
+date: 2022-12-23 10:53:16
 image: 'https://m.media-amazon.com/images/I/31StoGrDZRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.es/dp/B099X7R9QH/?tag=tolees-21'
 descuento: '40.09'
-average: '183.116842105263'
+average: '181.956'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modo para juegos de móvil: minimiza el retardo y la latencia de los juegos móviles a través de la aplicación ASUS Router
-- Compatible con ASUS AiMesh: crea una red de malla para todo el hogar utilizando routers compatibles con AiMesh
-- Wi-Fi 6 de nueva generación: disfruta de hasta 5700 MBps de velocidad y canales de 160 MHz con Wi-Fi 6
 - Red doméstica con funciones de seguridad profesional: ASUS AiProtection Pro gratuito de por vida con tecnología Trend Micro, WPA3 y controles parentales para proteger tu hogar
 - Tipo de conectividad: Wifi
+- Compatible con ASUS AiMesh: crea una red de malla para todo el hogar utilizando routers compatibles con AiMesh
+- Wi-Fi 6 de nueva generación: disfruta de hasta 5700 MBps de velocidad y canales de 160 MHz con Wi-Fi 6
+- Modo para juegos de móvil: minimiza el retardo y la latencia de los juegos móviles a través de la aplicación ASUS Router
 
 [🛒 Comprar!!!]({{< param buyurl >}})
