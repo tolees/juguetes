@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Repos Production - Time s Up! Family 1 - Juego de Cartas en Español'
-date: 2022-12-18 01:19:24
+date: 2022-12-23 13:10:36
 image: 'https://m.media-amazon.com/images/I/51n0L0wZcHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Repos Production'
 buyurl: 'https://www.amazon.es/dp/B01LZ0SM6C/?tag=tolees-21'
 descuento: '15.05'
-average: '16.4114285714286'
+average: '16.58875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- The goal is to guess objects, animals, actions, trades
-- Contains 220 cards, 1 punctuation book, 1 hourglass, carry bag and rulers
-- Played in three rounds, with 2 or more teams
-- The product represents a board game
-- Team with the highest points at the end of the game wins
+- El objetivo es adivinar objetos, animales, acciones, oficios
+- El equipo con más puntos al final de la partida gana
+- Se juega en tres rondas, con 2 o más equipos
+- Contiene 220 cartas, 1 libreta de puntuación, 1 reloj de arena, bolsa de transporte y reglas
+- El producto representa un juego de tablero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

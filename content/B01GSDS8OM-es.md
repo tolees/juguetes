@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment Bang-El Duelo  juego de cartas EEDVBU01  color  EDGBA30 '
-date: 2022-12-19 08:32:12
+date: 2022-12-23 13:40:29
 image: 'https://m.media-amazon.com/images/I/51+6c8AFcML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Los representantes de la ley y los forajidos por fin se enfrentan, y el tiroteo que está a punto de desencadenarse estará lleno de sorpresas
 - Cada bando cuenta con dos pistoleros en cada momento: uno en la vanguardia y otro en la retaguardia; si los posicionas con cuidado y haces uso de sus habilidades sabiamente, serás el vencedor del duelo y tus enemigos morderán el polvo
 - Edad mínima recomendada: 8 años
 - Bang el duelo es un juego para 2 jugadores basado en el sistema de juego bang
 - Número de jugadores: 2
-- Los representantes de la ley y los forajidos por fin se enfrentan, y el tiroteo que está a punto de desencadenarse estará lleno de sorpresas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
