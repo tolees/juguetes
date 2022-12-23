@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 545 Yula Mando Inalámbrico para PlayStation 3 y PC  Mando PS3 con Batería Recargable  13 Botones  2 Joysticks Analógicos  Gamepad para Ordenador  Portátil  Juegos  Consola'
-date: 2022-12-21 17:30:22
+date: 2022-12-23 19:24:03
 image: 'https://m.media-amazon.com/images/I/41MfKvpLWAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B00ZIJXTEW/?tag=tolees-21'
 descuento: '74.61'
-average: '25.068157894737'
+average: '24.7507692307694'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 13 botones, 2 palancas de control y panel digital
 - Cobertura inalámbrica de 10 metros
-- Cubierta de goma para un perfecto agarre
-- Interruptor de entrada X y entrada directa, para máxima compatibilidad en el entorno de videojuegos
 - Recargable en puerto USB (Cable incluido)
 - Indicadores de PS3 y botón de inicio
+- Cubierta de goma para un perfecto agarre
+- Interruptor de entrada X y entrada directa, para máxima compatibilidad en el entorno de videojuegos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
