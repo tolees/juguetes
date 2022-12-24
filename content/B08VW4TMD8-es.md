@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment El Sheriff de Nottingham 2ª ed. - Juego de Mesa en Español  EECMSN03 '
-date: 2022-12-13 11:41:43
+date: 2022-12-24 08:40:46
 image: 'https://m.media-amazon.com/images/I/61jwghqEWiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B08VW4TMD8/?tag=tolees-21'
 descuento: '20.03'
-average: '33.3266666666667'
+average: '32.788'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Esta 2ª edición incluye reglas para un sexto jugador, los ayudantes del sheriff y el mercado negro
-- Cada ronda, un nuevo jugador será el sheriff, en busca de contrabando.
 - Si el sheriff registra las mercancías de los mercaderes honestos será sancionado
-- mientras que, si sorprende a algún mercader pasando contrabando a la ciudad, será ese mercader quien le pague una multa.
 - En El sheriff de Nottingham, los jugadores son astutos mercaderes que sobornan y engañan a la autoridad para poder cruzar las murallas de la ciudad.
+- Cada ronda, un nuevo jugador será el sheriff, en busca de contrabando.
+- mientras que, si sorprende a algún mercader pasando contrabando a la ciudad, será ese mercader quien le pague una multa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
