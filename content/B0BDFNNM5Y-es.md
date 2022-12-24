@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si no hay micrófono a mano no hay problema; la aplicación oficial Lets Sing convierte tu smartphone en un micrófono
 - Karaoke en consolas de próxima generación; una lista de reproducción brutal con 31 canciones: 30 clásicos populares de los años 70 y una nueva canción del nuevo álbum Voyage
 - Modos cooperativos para hasta ocho jugadores; viste a tus avatares con trajes icónicos de ABBA
-- Canta en solitario o hasta cuatro jugadores simultáneamente
 - Siete emocionantes modos de juego: Legend, Classic, Mix Tape 2.0, Jukebox, Feat., World Contest y Lets Party
+- Si no hay micrófono a mano no hay problema; la aplicación oficial Lets Sing convierte tu smartphone en un micrófono
+- Canta en solitario o hasta cuatro jugadores simultáneamente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

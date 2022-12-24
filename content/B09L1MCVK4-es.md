@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Eres Aquello Con Lo Que Juegas: Elige entre cientos de armas, hechizos y habilidades. El sistema de personajes te permitirá jugar de la forma que quieras y definirte a través de tus acciones
-- Contenido Incluido: La Anniversary Edition incluye el juego base, contenido nuevo y ya existente del Club de creación, y los tres complementos originales: Dawnguard, Hearthfire y Dragonborn
-- La Fantasía Épica Renace: Skyrim reinventa y revoluciona la fantasía épica de mundo abierto, y dota de vida a un completo mundo virtual listo para ser explorado como se desee
 - Vive Otra Vida En Otro Mundo: Juega con cualquier tipo de personaje que puedas imaginar y haz lo que quieras: el legendario libre albedrío, la narrativa y las aventuras de The Elder Scrolls se han materializado como nunca antes
 - Lucha Con Dragones: Lucha contra antiguos dragones como jamás habías imaginado. Como Sangre de Dragón, aprende sus secretos y domina su poder para utilizarlos
+- La Fantasía Épica Renace: Skyrim reinventa y revoluciona la fantasía épica de mundo abierto, y dota de vida a un completo mundo virtual listo para ser explorado como se desee
+- Contenido Incluido: La Anniversary Edition incluye el juego base, contenido nuevo y ya existente del Club de creación, y los tres complementos originales: Dawnguard, Hearthfire y Dragonborn
 
 [🛒 Comprar!!!]({{< param buyurl >}})

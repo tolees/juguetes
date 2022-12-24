@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un sistema de juego que definirá el género
-- Un nuevo mundo de fantasía
 - Multijugador
+- Un nuevo mundo de fantasía
 - Explora el mundo de las tierras intermedias
 
 [🛒 Visítala!!!]({{< param buyurl >}})
