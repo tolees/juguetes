@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con los puzzles en 3d de revell, podrás hacer maquetas en tres dimensiones de construcciones conocidas en todo el mundo, imponentes skylines o legendarios vehículos
 - Manualidades divertidas para jóvenes y mayores
-- Las piezas de espuma, diseñadas con máxima precisión, fácil itan el montaje, ya que no necesitarás pegamento ni herramientas
+- Con los puzzles en 3d de revell, podrás hacer maquetas en tres dimensiones de construcciones conocidas en todo el mundo, imponentes skylines o legendarios vehículos
 - Dependiendo del tamaño y de la complejidad del modelo, podrás divertirte construyendo unos minutos o unas horas
+- Las piezas de espuma, diseñadas con máxima precisión, fácil itan el montaje, ya que no necesitarás pegamento ni herramientas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
