@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lucha contra nuevos enemigos de hielo y fuego
 - Sumérgete en los mitos nórdicos
-- Lucha en una nueva arena de combate
 - Empuña los poderes de un dios
+- Lucha contra nuevos enemigos de hielo y fuego
+- Lucha en una nueva arena de combate
 - Vive la saga personal de odín
 
 [🛒 Comprar!!!]({{< param buyurl >}})

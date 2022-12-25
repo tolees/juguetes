@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rebel Crónicas de Avel - Juego de Mesa en español  de 1 a 4 Jugadores a Partir de 8 años'
-date: 2022-12-18 01:35:06
+date: 2022-12-25 09:41:34
 image: 'https://m.media-amazon.com/images/I/511veu-VATL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Solo los verdaderos héroes y heroínas lograrán impedir que destruyan el tesoro más valioso de Avel, la Joya Curativa
-- Bienvenidos a Avel, una tierra repleta de criaturas y lugares increíbles y rodeada por decenas de lunas mágicas
-- Kurodar, la Luna Negra, se ha alzado en el firmamento, y el antiguo poder que emana está despertando a las fuerzas del mal
 - De 1 a 4 jugadores a partir de 8 años
+- Kurodar, la Luna Negra, se ha alzado en el firmamento, y el antiguo poder que emana está despertando a las fuerzas del mal
+- Bienvenidos a Avel, una tierra repleta de criaturas y lugares increíbles y rodeada por decenas de lunas mágicas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

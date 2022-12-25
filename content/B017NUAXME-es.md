@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡El sentido del ritmo, la capacidad de observación y tu astucia serán tus únicas armas para no ser la Bola que lastra la cadena!
 - A partir de aquí, comenzará una cadena de signos que tendrás que seguir con atención: ¡cuando te toque deberás repetir tu signo y hacer el de otro participante sin equivocarte!
-- Ritmo y Bola es un juego donde tendrás que palmear tus piernas al ritmo de “We Will Rock You”.
 - ¡Ritmo y Bola es un juego de sociedad delirante al que jugar hasta la extenuación!
+- ¡El sentido del ritmo, la capacidad de observación y tu astucia serán tus únicas armas para no ser la Bola que lastra la cadena!
 - De 4 a 12 jugadores a partir de 8 años
+- Ritmo y Bola es un juego donde tendrás que palmear tus piernas al ritmo de “We Will Rock You”.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
