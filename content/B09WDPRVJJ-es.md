@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este es un juego diferente a cualquier otro que hayas jugado antes
-- A partir de 7 años
 - Donde los jugadores se enfrentan cara a cara mientras roban cartas, ganan puntos y se tiran Burritos unos a otros
-- De 2 a 10 Jugadores
 - Una combinación de juego de cartas y balón prisionero
+- A partir de 7 años
+- Este es un juego diferente a cualquier otro que hayas jugado antes
+- De 2 a 10 Jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

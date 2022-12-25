@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Intenta memorizar las imágenes de tu carta en 10 segundos. a continuación, tendrás que responder a una pregunta sobre la carta que has visto.
 - A partir de 8 Años de Edad
-- Para 1 o mas Jugadores
 - Número de jugadores: 1+
 - Te ayudará a mejorar tus habilidades de observación y memoria, así como a aumentar tu conocimiento sobre nuestro mundo.
+- Para 1 o mas Jugadores
 - ¿Qué puedes ver en 10 segundos?
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
