@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Utilisez vos talents de déduction pour connecter les indices dans votre carte mentale.​
-- Retrouvez le détective légendaire dans une affaire de meurtre inédite.
-- Interrogez tous les suspects et réussissez à leur soutirer des informations précieuses à leur insu.
 - Résolvez une affaire criminelle complexe où tout le monde a quelque chose à cacher.
 - Explorez une maison luxueuse pleine de mystères. Il y a bien plus à découvrir que le simple meurtrier…
+- Retrouvez le détective légendaire dans une affaire de meurtre inédite.
+- Interrogez tous les suspects et réussissez à leur soutirer des informations précieuses à leur insu.
+- Utilisez vos talents de déduction pour connecter les indices dans votre carte mentale.​
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
