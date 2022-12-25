@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Solo los verdaderos héroes y heroínas lograrán impedir que destruyan el tesoro más valioso de Avel, la Joya Curativa
 - De 1 a 4 jugadores a partir de 8 años
 - Kurodar, la Luna Negra, se ha alzado en el firmamento, y el antiguo poder que emana está despertando a las fuerzas del mal
 - Bienvenidos a Avel, una tierra repleta de criaturas y lugares increíbles y rodeada por decenas de lunas mágicas
+- Solo los verdaderos héroes y heroínas lograrán impedir que destruyan el tesoro más valioso de Avel, la Joya Curativa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
