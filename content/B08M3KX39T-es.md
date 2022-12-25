@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Just Games Park Jurassic World Juego de Mesa Oficial  Color  01859 '
-date: 2022-12-19 07:43:50
+date: 2022-12-25 16:50:39
 image: 'https://m.media-amazon.com/images/I/41J1UO0jCeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Just Games'
 buyurl: 'https://www.amazon.es/dp/B08M3KX39T/?tag=tolees-21'
 descuento: '37.55'
-average: '30.828'
+average: '30.2936363636364'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de jugadores: de 2 a 6 jugadores
-- ¿Estás preparado para estar a cargo de un parque repleto de feroces e increíbles dinosaurios?
-- ¡Reúnete con tus amigos y forma el mejor grupo para crear el más grande y espectacular parque de dinosaurios del mundo!
 - Edad Recomendada: +12 años.
+- Número de jugadores: de 2 a 6 jugadores
+- ¡Reúnete con tus amigos y forma el mejor grupo para crear el más grande y espectacular parque de dinosaurios del mundo!
+- ¿Estás preparado para estar a cargo de un parque repleto de feroces e increíbles dinosaurios?
 - Cada jugador deberá asumir un rol y planear las excavaciones de fósiles, trabajar en el laboratorio de ADN, construir jaulas para dinosaurios, y administrar las finanzas del parque.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
