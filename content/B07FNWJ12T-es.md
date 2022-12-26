@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La figura para construir de Unikitty en su versión de Kitty Disco es una novedad en enero de 2019
+- El juguete para construir Fiestabús Pop-Up cuenta con cabina abatible para la figura de Zebe, techo y laterales abatibles para facilitar el juego, 2 altavoces desplegables, un ladrillo LEGO con luz para iluminar la pista de baile giratoria, una bola de discoteca retráctil con elementos translúcidos de colores, 2 refrescos y un micrófono
+- Edad recomendada por el fabricante: 9+
 - Número de piezas: 1024
 - Fiestabús Pop-Up
-- Edad recomendada por el fabricante: 9+
-- El juguete para construir Fiestabús Pop-Up cuenta con cabina abatible para la figura de Zebe, techo y laterales abatibles para facilitar el juego, 2 altavoces desplegables, un ladrillo LEGO con luz para iluminar la pista de baile giratoria, una bola de discoteca retráctil con elementos translúcidos de colores, 2 refrescos y un micrófono
-- La figura para construir de Unikitty en su versión de Kitty Disco es una novedad en enero de 2019
 
 [🛒 Visítala!!!]({{< param buyurl >}})

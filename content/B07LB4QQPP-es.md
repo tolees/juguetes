@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para gente competitiva y crítica, así como para los más sueltos
 - Edad recomendada: 8
 - De 1 a 6 jugadores
+- Adecuado para gente competitiva y crítica, así como para los más sueltos
 - Duración: 20 minutos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

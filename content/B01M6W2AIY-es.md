@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caja de madera ideal para albergar prequeños regalos
-- Una vez abierto descubre la declaración grabada con un "Te Quiero"
-- Material: madera sólica oscura
-- Medidas: 8,5 x 3 x 1,5 centímetros (interior) - 10,5 x 6,5 x 4 centímetros (exterior)
 - Caja regalo mágica con mecanismo de cierre secreto
+- Una vez abierto descubre la declaración grabada con un "Te Quiero"
+- Medidas: 8,5 x 3 x 1,5 centímetros (interior) - 10,5 x 6,5 x 4 centímetros (exterior)
+- Caja de madera ideal para albergar prequeños regalos
+- Material: madera sólica oscura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
