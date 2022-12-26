@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zygomatic - Dobble - Juego de Cartas en Español y Portugués'
-date: 2022-12-21 15:34:40
+date: 2022-12-26 13:40:26
 image: 'https://m.media-amazon.com/images/I/51+Aeq4mwOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Zygomatic'
 buyurl: 'https://www.amazon.es/dp/B008EK6XEK/?tag=tolees-21'
 descuento: '19.01'
-average: '14.7695238095239'
+average: '14.7599473684211'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 a 8 jugadores
-- De 2 a 8 jugadores
-- Encuentra los símbolos iguales
-- 57 símbolos
-- Un juego de velocidad, observación y reflejos
 - Juego de fiesta
+- Encuentra los símbolos iguales
 - 5 minijuegos
+- De 2 a 8 jugadores
+- Un juego de velocidad, observación y reflejos
 - 10 minutos de duración
+- 57 símbolos
 - Sin plástico, sin envoltorio
+- 2 a 8 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

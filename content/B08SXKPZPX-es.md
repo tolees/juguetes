@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bethesda - Deathloop Playstation 5 - Edición Amazon'
-date: 2022-12-25 12:56:19
+date: 2022-12-26 13:25:33
 image: 'https://m.media-amazon.com/images/I/51GKI5ZxQUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bethesda'
 buyurl: 'https://www.amazon.es/dp/B08SXKPZPX/?tag=tolees-21'
 descuento: '70.01'
-average: '58.1850000000001'
+average: '57.2046341463416'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
