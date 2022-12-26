@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Style: Byleth
-- Country of origin: Germany
-- Package weight: 52.0 g
 - Package dimensions (L x W x H): 105.0 x 170.0 x 11.0 mm
+- Package weight: 52.0 g
+- Country of origin: Germany
 
 [🛒 Visítala!!!]({{< param buyurl >}})

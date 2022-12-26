@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Rainbow Six Extraction Limited Edition PS4'
-date: 2022-12-25 12:22:27
+date: 2022-12-26 15:41:18
 image: 'https://m.media-amazon.com/images/I/5140jVdoF5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B096XWCCRG/?tag=tolees-21'
 descuento: '31.31'
-average: '49.5117391304347'
+average: '48.1737499999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Arriésgalo todo en zonas de contención impredecibles
-- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
 - Lucha contra una amenaza alienígena letal y en constante evolució
+- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
+- Arriésgalo todo en zonas de contención impredecibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
