@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Mando Inalámbrico Xbox + Adaptador inalámbrico para Windows 10'
-date: 2022-12-19 20:26:59
+date: 2022-12-27 16:35:27
 image: 'https://m.media-amazon.com/images/I/31LrgQROvbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Accesorios para Xbox One','Accesorios para Xbox Series X y S','Hardware
 actualPrice: 57.84 EUR
 currency: EUR
 price: 57.84
-comparePrice: 69.97 EUR
+comparePrice: 69.99 EUR
 prodname: 'Microsoft Mando Inalámbrico Xbox + Adaptador inalámbrico para Windows 10'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Xbox'
 buyurl: 'https://www.amazon.es/dp/B08JW5DR79/?tag=tolees-21'
-descuento: '17.34'
-average: '67.9840969162997'
+descuento: '17.36'
+average: '67.939605263158'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

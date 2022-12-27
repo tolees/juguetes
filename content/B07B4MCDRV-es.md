@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment - Edge Entertaiment - Juego de cartas Gloom  EEAGGL01 '
-date: 2022-12-22 14:14:32
+date: 2022-12-27 15:40:23
 image: 'https://m.media-amazon.com/images/I/51UQ789Nv5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07B4MCDRV/?tag=tolees-21'
 descuento: '24.05'
-average: '21.046'
+average: '20.6966666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las cartas de plástico transparente revelan u ocultan los efectos de las cartas que se encuentran bajo ellas
-- Juega cartas con terribles contratiempos sobre tus personajes para reducir su puntuación de Autoestima, a la vez que animas a tus rivales con eventos felices que les den puntos positivos
-- Edad mínima recomendada: 14 años
 - Contenido: 1 libro de reglas y 110 cartas
+- Juega cartas con terribles contratiempos sobre tus personajes para reducir su puntuación de Autoestima, a la vez que animas a tus rivales con eventos felices que les den puntos positivos
+- Las cartas de plástico transparente revelan u ocultan los efectos de las cartas que se encuentran bajo ellas
+- Edad mínima recomendada: 14 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
