@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juega cartas y sangre en varias ubicaciones para hacerte con el control de aliados poderosos, que te harán ganar influencia y también el acceso a sus habilidades especiales
-- De 3 a 5 jugadores
+- Tu objetivo es ganar más influencia que nadie ¡y lograr convertirte así en el nuevo príncipe de chicago
 - A partir de 14 años de edad
 - Un juego de cartas asimétrico de estrategia, engaño y deducción que te permitirá meterte en la piel de un vampiro conspirador de uno de los clanes disponibles: brujah, gangrel, malkavian, nosferatu, toreador, tremere o ventrue
-- Tu objetivo es ganar más influencia que nadie ¡y lograr convertirte así en el nuevo príncipe de chicago
+- De 3 a 5 jugadores
+- Juega cartas y sangre en varias ubicaciones para hacerte con el control de aliados poderosos, que te harán ganar influencia y también el acceso a sus habilidades especiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

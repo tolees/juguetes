@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PDP Wired mando Electric White for Xbox Series X|S  Gamepad  Wired Video Game mando  Gaming mando  Xbox One  Officially Licensed - Xbox Series X'
-date: 2022-12-23 16:23:19
+date: 2022-12-28 18:10:54
 image: 'https://m.media-amazon.com/images/I/31ZYv-44bGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PDP'
 buyurl: 'https://www.amazon.es/dp/B0B3VQ2B3G/?tag=tolees-21'
 descuento: '20.01'
-average: '28.6566666666667'
+average: '28.49'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Botón "Compartir" dedicado
-- Mucho espacio para jugar con cable desmontable de 2,5 metros
 - Compatible con la aplicación gratuita PDP Control Hub
-- Controles de volumen en la cruceta
 - Con licencia oficial de Xbox Compatible con Xbox Series X|S, Xbox One y PC con Windows
+- Controles de volumen en la cruceta
+- Mucho espacio para jugar con cable desmontable de 2,5 metros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Marvel’s Spider-Man  PS4 '
-date: 2022-12-27 16:08:55
+date: 2022-12-28 17:15:51
 image: 'https://m.media-amazon.com/images/I/51y3UUkIquL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01H25FDTI-es Playstation - Marvel’s Spider-Man PS4'
 sku: 'B01H25FDTI-es'
 tags: [ 'Juegos para PC','Juegos y Accesorios para PC','Videojuegos','playstation','ps4','🇪🇸', ]
-actualPrice: 16.52 EUR
+actualPrice: 16.0 EUR
 currency: EUR
-price: 16.52
-comparePrice: 26.91 EUR
+price: 16.0
+comparePrice: 28.4 EUR
 prodname: 'Playstation - Marvel’s Spider-Man  PS4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B01H25FDTI/?tag=tolees-21'
-descuento: '38.61'
-average: '20.8077108433735'
+descuento: '43.66'
+average: '20.7504761904762'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
