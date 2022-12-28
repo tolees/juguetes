@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 - Dos juegos remasterizados, ahora en un solo disco.
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
-- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
