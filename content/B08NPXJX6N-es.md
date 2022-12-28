@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbox Now - Splendor Marvel - Juego de mesa en Español'
-date: 2022-12-21 16:36:07
+date: 2022-12-28 11:10:34
 image: 'https://m.media-amazon.com/images/I/51OVxy6Q1sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Unbox Now'
 buyurl: 'https://www.amazon.es/dp/B08NPXJX6N/?tag=tolees-21'
 descuento: '24.03'
-average: '33.0772727272727'
+average: '32.8525'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Las Gemas del Infinito están diseminadas por todo el Multiverso. Usa su esencia para reclutar a héroes y villanos y obtén puntos de Infinito.
 - A partir de 10 años de edad
+- Reúne a un equipo de superhéroes e intenta evitar que Thanos ponga fin a nuestro mundo.
 - De 2 a 4 Jugadores
 - Reúne a los Vengadores, adquiere lugares y, cuando estés listo, reclama el Guantelete del Infinito!
-- Reúne a un equipo de superhéroes e intenta evitar que Thanos ponga fin a nuestro mundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

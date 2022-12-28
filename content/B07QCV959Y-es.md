@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¿Serás el mejor en la creación de los vitrales más hermosos de todo Portugal?
-- De 2 a 4 jugadores. A partir de 8 años de edad.
-- Como artesano del vidrio es una ocasión única en la vida para demostrar tus exquisitas habilidades al servicio del rey y del país.
-- Manuel I de Portugal quiere encargar a los más grandes artesanos de vidrieras del mundo que adornen las ventanas del Palacio Real de Sintra.
 - ¡Bienvenido de nuevo al mundo de Azul!
+- De 2 a 4 jugadores. A partir de 8 años de edad.
+- Manuel I de Portugal quiere encargar a los más grandes artesanos de vidrieras del mundo que adornen las ventanas del Palacio Real de Sintra.
+- Como artesano del vidrio es una ocasión única en la vida para demostrar tus exquisitas habilidades al servicio del rey y del país.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

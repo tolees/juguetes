@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbox Now - Azul Pabellón de Verano - Juego de mesa en Español'
-date: 2022-12-19 07:00:06
+date: 2022-12-28 10:40:27
 image: 'https://m.media-amazon.com/images/I/61js47DDrBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Unbox Now'
 buyurl: 'https://www.amazon.es/dp/B085FJZQLN/?tag=tolees-21'
 descuento: '26.09'
-average: '33.98'
+average: '33.834'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solo los mejores artesanos enfrentarán el desafío
 - En el pabellón de verano, los jugadores tienen la tarea de construir los pisos de la obra maestra sin construir el rey
 - Para 2 a 4 jugadores
+- Solo los mejores artesanos enfrentarán el desafío
 - Adecuado para niños a partir de 8 años
 - Utilizando la misma mecánica de selección de Blue Series, los jugadores deben seleccionar cuidadosamente los materiales más bonitos y evitar el desperdicio de consumo
 
