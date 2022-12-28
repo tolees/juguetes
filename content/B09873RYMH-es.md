@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unicornio Papeleria Regalo para Niña 7 8 9 10 11 12 Años  TOYESS Set di Juguetes Unicornios para Niñas  Includere Estuche Escolar y Cuadernos y Adhesivas y Boligrafos Gel Ecc 32pz '
-date: 2022-12-27 20:00:36
+date: 2022-12-28 20:41:05
 image: 'https://m.media-amazon.com/images/I/51jz7RR5YnS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOYESS'
 buyurl: 'https://www.amazon.es/dp/B09873RYMH/?tag=tolees-21'
 descuento: '24.02'
-average: '12.4233333333333'
+average: '12.3975'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
