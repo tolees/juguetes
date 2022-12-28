@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf Elite 2.0 Echo Cs-10  Hasbro E9533F02 '
-date: 2022-12-26 08:25:10
+date: 2022-12-28 16:00:22
 image: 'https://m.media-amazon.com/images/I/412BWTySr5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nerf'
 buyurl: 'https://www.amazon.es/dp/B08B5KHYS7/?tag=tolees-21'
 descuento: '53.71'
-average: '33.976'
+average: '32.4783333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disparo en ráfaga; mueve el deslizador de carga explosiva hacia delante y hacia atrás, y presiona el gatillo para lanzar 1 dardo; aprieta el gatillo prolongadamente y sigue moviendo el deslizador para descargar 10 dardos en ráfaga
+- Lanzador preparado para actualizaciones; personaliza el lanzador en todas los combates o misiones sacando partido a la culata y a la extensión del cañón desmontables, y a los 4 raíles tácticos
 - Incluye 20 dardos Nerf; con 24 dardos oficiales de Nerf para cargar el clip de 10 dardos al completo y con otros 14 para recargas
 - Lanza dardos a 27 metros; arroja dardos con este lanzador a una increíble distancia de hasta 27 m
-- Lanzador preparado para actualizaciones; personaliza el lanzador en todas los combates o misiones sacando partido a la culata y a la extensión del cañón desmontables, y a los 4 raíles tácticos
+- Disparo en ráfaga; mueve el deslizador de carga explosiva hacia delante y hacia atrás, y presiona el gatillo para lanzar 1 dardo; aprieta el gatillo prolongadamente y sigue moviendo el deslizador para descargar 10 dardos en ráfaga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Horrible Games - Vampiro: La Mascarada Vendetta Juego de Cartas en español  Asmodee HGVV01ES '
-date: 2022-12-27 15:10:30
+date: 2022-12-28 17:05:42
 image: 'https://m.media-amazon.com/images/I/510Gr6SWgTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Horrible Games'
 buyurl: 'https://www.amazon.es/dp/B08Y8MRQFM/?tag=tolees-21'
 descuento: '35.65'
-average: '19.5796428571429'
+average: '19.57'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un juego de cartas asimétrico de estrategia, engaño y deducción que te permitirá meterte en la piel de un vampiro conspirador de uno de los clanes disponibles: brujah, gangrel, malkavian, nosferatu, toreador, tremere o ventrue
-- Tu objetivo es ganar más influencia que nadie ¡y lograr convertirte así en el nuevo príncipe de chicago
-- A partir de 14 años de edad
 - Juega cartas y sangre en varias ubicaciones para hacerte con el control de aliados poderosos, que te harán ganar influencia y también el acceso a sus habilidades especiales
 - De 3 a 5 jugadores
+- A partir de 14 años de edad
+- Un juego de cartas asimétrico de estrategia, engaño y deducción que te permitirá meterte en la piel de un vampiro conspirador de uno de los clanes disponibles: brujah, gangrel, malkavian, nosferatu, toreador, tremere o ventrue
+- Tu objetivo es ganar más influencia que nadie ¡y lograr convertirte así en el nuevo príncipe de chicago
 
 [🛒 Aquí!!!]({{< param buyurl >}})
