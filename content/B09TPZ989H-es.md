@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERTHINGS RIVALS OF KABOOM - SUPERTHINGS Superbot Enigma – Robot articulado héroe con Accesorios de Combate  1 Kazoom Kid y 1 SuperThing exclusivos'
-date: 2022-12-24 11:06:11
+date: 2022-12-29 17:16:36
 image: 'https://m.media-amazon.com/images/I/515Pj+Zz+QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09TPZ989H-es SUPERTHINGS RIVALS OF KABOOM - SUPERTHINGS Superbot Enigma...'
 sku: 'B09TPZ989H-es'
 tags: [ 'Juguetes','Juguetes y juegos','Muñecos y figuras','Muñecos y figuras de acción','superthings','superthings rivals of kaboom','🇪🇸', ]
-actualPrice: 14.99 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 14.99
+price: 13.99
 comparePrice: 17.9 EUR
 prodname: 'SUPERTHINGS RIVALS OF KABOOM - SUPERTHINGS Superbot Enigma – Robot articulado héroe con Accesorios de Combate  1 Kazoom Kid y 1 SuperThing exclusivos'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SUPERTHINGS RIVALS OF KABOOM'
 buyurl: 'https://www.amazon.es/dp/B09TPZ989H/?tag=tolees-21'
-descuento: '16.26'
-average: '14.49'
+descuento: '21.84'
+average: '14.3233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
