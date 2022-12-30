@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Gran Turismo 7 - Edición 25 Aniversario [PS5]'
-date: 2022-12-29 08:04:36
+date: 2022-12-30 11:32:11
 image: 'https://m.media-amazon.com/images/I/41+PS8e3n9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09GSQBRHR/?tag=tolees-21'
 descuento: '50.01'
-average: '77.721875'
+average: '76.0905882352941'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye estuche y steelbook, juego físico en disco para PS5 y versión digital para PS4
-- Alimenta tu pasión por los coches con elementos inspirados en el pasado, el presente y el futuro de Gran Turismo
-- Desde los vehículos y circuitos más clásicos hasta la reincorporación del legendario modo Simulación GT, disfruta de las mejores funcionalidades de las anteriores entregas de la serie
-- Contenido ingame: Toyota GR Yaris, 30 avatares de PSN, banda sonora digital, 1.000.000 Gran Turismo Credits
-- Si te apasiona la velocidad, practica y compite en los Campeonatos FIA y en el modo Sport, requiere subscripción a PS Plus para el modo multijugador
 - Recuerda que no todo es correr en Gran Turismo 7, perfecciona y crea en el nuevo modo de diseño y personalización o mejora tus habilidades y estrategias de carrera en la escuela de conducción
+- Desde los vehículos y circuitos más clásicos hasta la reincorporación del legendario modo Simulación GT, disfruta de las mejores funcionalidades de las anteriores entregas de la serie
+- Alimenta tu pasión por los coches con elementos inspirados en el pasado, el presente y el futuro de Gran Turismo
+- Si te apasiona la velocidad, practica y compite en los Campeonatos FIA y en el modo Sport, requiere subscripción a PS Plus para el modo multijugador
+- Incluye estuche y steelbook, juego físico en disco para PS5 y versión digital para PS4
+- Contenido ingame: Toyota GR Yaris, 30 avatares de PSN, banda sonora digital, 1.000.000 Gran Turismo Credits
 
 [🛒 Comprar!!!]({{< param buyurl >}})

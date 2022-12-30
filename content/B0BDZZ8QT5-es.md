@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Usa la Fuerza, dirige tu ejército o infíltrate furtivamente en los escondrijos de tus enemigos. Cada villano utiliza habilidades y estrategias únicas para hacerse con la victoria.
-- ¡Lleva a cabo tu Objetivo antes que los demás villanos para derrotarles y ganar la partida!
-- Controla tu Sector: explóralo para ganar Créditos, reclutar Aliados, desplegar Vehículos o poner obstáculos en el camino de tus oponentes.
 - Escoge tu villano entre: Darth Vader, General Grievious, Asajj Ventress, Moff Gideon y Kylo Ren.
 - Las mecánicas del juego son la selección de acciones y la gestión de las cartas de la mano y el mazo de cartas, que debes pasar rápido para poder efectuar las acciones clave y trazar tu camino a la victoria.
+- Controla tu Sector: explóralo para ganar Créditos, reclutar Aliados, desplegar Vehículos o poner obstáculos en el camino de tus oponentes.
+- Usa la Fuerza, dirige tu ejército o infíltrate furtivamente en los escondrijos de tus enemigos. Cada villano utiliza habilidades y estrategias únicas para hacerse con la victoria.
+- ¡Lleva a cabo tu Objetivo antes que los demás villanos para derrotarles y ganar la partida!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
