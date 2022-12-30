@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jumbo - Tetris Speed - Juego de cartas de agilidad visual para niños a partir de 6 años'
-date: 2022-12-21 13:41:55
+date: 2022-12-30 09:42:25
 image: 'https://m.media-amazon.com/images/I/41HM++plTFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Juego de cartas ideal para pasar una tarde con amigos y familias con niños
 - Contenido: 49 cartas Tetrimino con el reverso de color blanco, 35 cartas Tetrimino con el reverso de color morado y instrucciones
-- Número de jugadores: de 2 a 8
 - Habilidades que desarrolla: juego de agilidad y rapidez visual
 - Cada carta muestra la siguiente figura tetrimino que hay que jugar. Hay que ser el primero en colocarla ya que todos los jugadores juegan las cartas al mismo tiempo. Ganará el jugador que primero se quede sin cartas
-- Juego de cartas ideal para pasar una tarde con amigos y familias con niños
+- Número de jugadores: de 2 a 8
 
 [🛒 Visítala!!!]({{< param buyurl >}})
