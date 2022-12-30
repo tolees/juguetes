@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76912 Speed Champions Fast & Furious 1970 Dodge Charger R/T  Maqueta de Coche para Construir con Mini Figura Dominic Toretto  Regalo de Película'
-date: 2022-12-28 20:18:05
+date: 2022-12-29 20:42:20
 image: 'https://m.media-amazon.com/images/I/51LkRn-+1wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuenta con la mini figura LEGO de Dominic Toretto y una llave inglesa de juguete para que los peques puedan organizar carreras a todo velocidad y crear sus propias historias inspiradas en Fast & Furious
-- Inspirado en la acción de las películas, este set incluye un coche de juguete para construir de color negro con toma de aire en el capó, ruedas de diseño y espacio en cabina para una mini figura
-- Con instrucciones de construcción digitales interactivas: acerca, gira y observa este modelo desde todos sus ángulos con la app gratuita Instrucciones de Montaje LEGO para smartphones y tablets
-- Este kit LEGO Speed Champions es un gran regalo de cumpleaños, Navidad o porque sí para niños a partir de 8 años, amantes de los coches y fans de las películas de Vin Diesel
-- Incluye una maqueta de coche para construir del famoso deportivo Dodge Charger R/T de 1970, el auténtico y poderoso muscle car de la saga Fast & Furious
-- Fácil de construir, este coche LEGO permite a los peques jugar a las carreras y sorprender a sus amigos: ideal para decorar la habitación de los niños o combinarlo con otros vehículos de la gama LEGO Speed Champions
+- Easy to build, this set allows kids to set up cool toy races, decorate a room or combine with other vehicles in the LEGO Speed Champions range
+- Features a LEGO replica of the famous 1970 Dodge Charger R/T sports car, the powerful muscle car from the Fast & Furious movie franchise
+- Includes a toy Dominic Toretto LEGO minifigure for kids to stage high-speed races and a toy wrench to create Fast & Furious-inspired adventures
+- Kids can zoom in, rotate and view this model from every angle with the LEGO Building Instructions app, available for smartphones and tablets
+- This model car building kit is a great birthday or Christmas gift for kids aged 8+, car lovers and fans of Fast & Furious movie series
+- This collectible Fast & Furious model car features an engine protruding from the hood, designer wheels and space in the cockpit for a minifigure
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
