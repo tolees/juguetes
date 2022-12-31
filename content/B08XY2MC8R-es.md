@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EMOCIONANTE JUEGO DE LAS PROPIEDADES INMOBILIARIAS. ¡Es un básico para las noches familiares de juegos! Los jugadores compran, venden, sueñan y preparan su camino hacia las riquezas con el juego Monopoly
-- LOS JUGADORES COMPRAN, VENDEN E INTERCAMBIAN PARA GANAR. ¡Hay un magnate nuevo en la ciudad! Compra todos los barrios, vende propiedades, cobra alquileres y construye un imperio en el juego Monopoly para adultos y niños a partir de 8 años
-- ¿CUÁL ES TU FICHA? Incluye algunas fichas clásicas y otras diferentes, como el patito, el Tiranosaurio Rex y el pingüino. Elige tu favorita para las noches familiares de juego, una actividad para educar en casa o para pasarlo bien dentro de casa
 - CONSTRUYE CASAS Y HOTELES. ¿Te encanta ese sentimiento cuando un adversario cae en una propiedad tuya? En este clásico juego de mesa familiar, cuanto más construyan los jugadores, más dinero de alquileres recaudarán. ¡Clinc, caja!
+- LOS JUGADORES COMPRAN, VENDEN E INTERCAMBIAN PARA GANAR. ¡Hay un magnate nuevo en la ciudad! Compra todos los barrios, vende propiedades, cobra alquileres y construye un imperio en el juego Monopoly para adultos y niños a partir de 8 años
+- EMOCIONANTE JUEGO DE LAS PROPIEDADES INMOBILIARIAS. ¡Es un básico para las noches familiares de juegos! Los jugadores compran, venden, sueñan y preparan su camino hacia las riquezas con el juego Monopoly
+- ¿CUÁL ES TU FICHA? Incluye algunas fichas clásicas y otras diferentes, como el patito, el Tiranosaurio Rex y el pingüino. Elige tu favorita para las noches familiares de juego, una actividad para educar en casa o para pasarlo bien dentro de casa
 - TARJETAS QUE CAMBIAN EL JUEGO. ¡Las tarjetas de Suerte y Caja de comunidad pueden cambiar la suerte de un jugador! ¿Quién recaudará dinero y quién será enviado directamente a la cárcel?
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De 2 a 6 jugadores.
+- Monopoly ASTERIX: un juego de mesa en el que el objetivo es ser el último jugador que no quiebre. Versión en español
+- Contenido: 1 tablero de juego, 6 fichas coleccionables, 28 cartas de título, 16 cartas de caldero comunitario, 16 cartas de poción mágica, 1 paquete de billetes del Monopoly, 32 casas (rebautizadas como cabañas), 12 hoteles (rebautizados como posadas), 2 dados y reglas del juego.
 - 6 fichas coleccionables que representan a personajes emblemáticos del cómic: ¡Astérix, Obélix, Panorámix, Dogmatix, Abraracurcix y Falbala!
 - En esta edición especial del Monopoly de Astérix, encuentra a todos los personajes emblemáticos del cómic. Construye cabañas y posadas, roba cartas de Poción Mágica y Caldero Comunitario, para alcanzar rápidamente tu objetivo: ser el último en no quebrar.
-- Contenido: 1 tablero de juego, 6 fichas coleccionables, 28 cartas de título, 16 cartas de caldero comunitario, 16 cartas de poción mágica, 1 paquete de billetes del Monopoly, 32 casas (rebautizadas como cabañas), 12 hoteles (rebautizados como posadas), 2 dados y reglas del juego.
-- Monopoly ASTERIX: un juego de mesa en el que el objetivo es ser el último jugador que no quiebre. Versión en español
-- De 2 a 6 jugadores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

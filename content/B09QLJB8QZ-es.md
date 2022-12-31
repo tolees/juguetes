@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tres interruptores activan el tiburón de manera aleatoria, nunca sabes cuándo atacará.
-- Un enorme tiburón acecha bajo el garaje de Hot Wheels City para atacar y devorar a los vehículos incautos. ¡Atrápalo y libera a tus amigos para salvarlos!
-- Explora las posibilidades de juego de la base y conecta el conjunto a otras pistas de Hot Wheels para vivir todavía más aventuras. (Los conjuntos y piezas de pista adicionales se venden por separado).
 - Lleva el ascensor manual hasta la parte superior del garaje y lanza un coche por la rampa para tentar al hambriento tiburón.
+- Un enorme tiburón acecha bajo el garaje de Hot Wheels City para atacar y devorar a los vehículos incautos. ¡Atrápalo y libera a tus amigos para salvarlos!
 - Se incluye un vehículo de Hot Wheels para jugar nada más abrir la caja. Es un gran regalo para niños a partir de 4 años.
+- Tres interruptores activan el tiburón de manera aleatoria, nunca sabes cuándo atacará.
+- Explora las posibilidades de juego de la base y conecta el conjunto a otras pistas de Hot Wheels para vivir todavía más aventuras. (Los conjuntos y piezas de pista adicionales se venden por separado).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
