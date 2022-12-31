@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 📍 688 JUEGOS DE GENESIS: Incluye una gran selección de 688 títulos originales categorizados por género: Deportes, Acción, Aventura, Puzzle, además podrá aumentar el catálogo de juegos desde la MicroSD
 - 📍 MEGADRIVE DE TAMAÑO STICK: Juege en su televisor a una Snes conectable direectamente a la toma HDMI de su TV, incluye 2 mandos inalámbricos para el juego sin cables
+- 📍 FORMATO 4:3 SOPORTADO: Para que los juegos se muestren tal como lo hacian en su infancia tiene la opción de cambio de formato a 4:3, respetando el formato por el que fue creado originalmente el juego
 - 📍 INSTALE SUS JUEGOS: Podrá añadir sus juegos personalizados directamente conectando la tarjeta MicroSD incluida a su ordenador y añadir nuevos juegos
 - 📍 INCLUYE 2 GAMEPAD INALÁMBRICOS: Olvide los molestos cables, jugará a la Megadrive de tamaño mini totalmente sin cables con sus gamepad originales
-- 📍 688 JUEGOS DE GENESIS: Incluye una gran selección de 688 títulos originales categorizados por género: Deportes, Acción, Aventura, Puzzle, además podrá aumentar el catálogo de juegos desde la MicroSD
-- 📍 FORMATO 4:3 SOPORTADO: Para que los juegos se muestren tal como lo hacian en su infancia tiene la opción de cambio de formato a 4:3, respetando el formato por el que fue creado originalmente el juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
