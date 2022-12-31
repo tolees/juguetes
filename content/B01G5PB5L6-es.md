@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juguete en español
-- Incluye un manual ilustrado que guiará al niño a través de todas las etapas del montaje, que son completamente seguras
-- Diseñado, pensado y fabricado en Italia
-- Gracias a los más de 250 componentes incluidos en el kit, es posible crear más de 50 construcciones incrementando el nivel de dificultad
 - A partir de 8 años
 - Es posible crear un helicóptero, una grúa eléctrica y un coche con motor eléctrico entre otros
+- Diseñado, pensado y fabricado en Italia
+- Incluye un manual ilustrado que guiará al niño a través de todas las etapas del montaje, que son completamente seguras
+- Gracias a los más de 250 componentes incluidos en el kit, es posible crear más de 50 construcciones incrementando el nivel de dificultad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

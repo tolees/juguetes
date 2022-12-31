@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye mini figuras de Harry Potter, Hermione Granger y Ron Weasley y dos cromos de magos aleatorios para coleccionar (de un total de 16)
 - Incluye el famoso baño de Myrtle La Llorona para construir y practicar hechizos de pociones de Harry Potter, con un montón de accesorios auténticos
 - ¡Los más pequeños giran las cabezas de las mini figuras LEGO de Harry, Hermione y Ron para revelar un rostro alternativo, añaden un peinado diferente y la transformación está hecha!
+- Este juguete forma parte de una colección de sets modulares que pueden ser construidos, combinados y reorganizados para que los más pequeños creen su propio Castillo de Hogwarts LEGO
 - Este juguete de Harry Potter para niños y niñas 7 años incluye una Mini Figura dorada exclusiva de Harry Potter para celebrar los 20 años de magia de Harry
 - Los más pequeños transforman a sus personajes favoritos de Harry Potter en Vincent Crabbe y Gregory Goyle, aúnque la magia a veces puede fallar y Hermione se convierte en un gato
-- Incluye mini figuras de Harry Potter, Hermione Granger y Ron Weasley y dos cromos de magos aleatorios para coleccionar (de un total de 16)
-- Este juguete forma parte de una colección de sets modulares que pueden ser construidos, combinados y reorganizados para que los más pequeños creen su propio Castillo de Hogwarts LEGO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
