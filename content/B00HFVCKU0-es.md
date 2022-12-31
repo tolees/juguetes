@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: videojuego de acción y aventura
+- Los ambientes están completamente hechos de piezas de Lego
 - Plataforma del juego: PlayStation Vita
 - El juego pone a los jugadores en control de varios personajes de la película
-- Los ambientes están completamente hechos de piezas de Lego
+- Tipo de producto: videojuego de acción y aventura
 - Los jugadores siguen las instrucciones para construir objetos con piezas específicas como conjuntos LEGO de la vida real
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

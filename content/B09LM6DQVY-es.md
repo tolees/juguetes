@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zygomatic Cortex Challenge - Juego de Mesa en español y portugués  COR01ML '
-date: 2022-12-25 09:37:05
+date: 2022-12-31 14:54:08
 image: 'https://m.media-amazon.com/images/I/511d7gcuKVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compite con los demás jugadores en 8 tipos de retos que estimularán tus habilidades cognitivas: pruebas táctiles, observación, análisis, laberintos, coordinación.
-- Cortex pone a juego tu agilidad visual, tu coordinación, tu memoria, capacidad de razonamiento. ¡incluso la sensibilidad de tu tacto!
-- De 2 a 6 jugadores
-- A partir de 8 años de edad
 - ¡Desafía a tu cerebro con un divertido juego que pondrá a prueba tu razonamiento, memoria y rapidez!
+- Cortex pone a juego tu agilidad visual, tu coordinación, tu memoria, capacidad de razonamiento. ¡incluso la sensibilidad de tu tacto!
+- A partir de 8 años de edad
+- De 2 a 6 jugadores
+- Compite con los demás jugadores en 8 tipos de retos que estimularán tus habilidades cognitivas: pruebas táctiles, observación, análisis, laberintos, coordinación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
