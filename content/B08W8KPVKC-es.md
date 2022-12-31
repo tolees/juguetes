@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76186 Marvel Vengadores Dragon Flyer de Black Panther  Juguete de Construcción de Avión del Avengers con Superhéroes'
-date: 2022-12-29 01:14:55
+date: 2022-12-31 01:53:07
 image: 'https://m.media-amazon.com/images/I/51pNeT1OlBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08W8KPVKC/?tag=tolees-21'
 descuento: '20.01'
-average: '17.040129032258'
+average: '17.0267515923566'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
