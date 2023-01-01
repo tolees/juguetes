@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este LEGO Star Wars cuenta con una divertida maqueta de nave estelar para construir con cabina, espacio de pasajeros, compartimento de carga, cañón automático y 4 mini figuras LEGO
 - Compatible con otros sets LEGO Star Wars, este juguete de construcción permite a los peques recrear icónicas aventuras del Libro de Boba Fett o inventar sus propias historias
-- Entre las 4 mini figuras LEGO Star Wars están el Mandaloriano y Peli Motto con sus accesorios de pistola bláster y llave inglesa, además de Gogru y un Droide BD
-- Revive y crea emocionantes historias de Star Wars: El Libro de Boba Fett en Tatooine con este juguete de construcción fielmente detallado del Caza Estelar N-1 de The Mandalorian
-- Disponible en la app Instrucciones de Montaje LEGO, las divertidas e intuitivas herramientas de zoom y rotación ayudan a los niños a visualizar el modelo mientras lo construyen
 - La bonita figura de Baby Yoda es estupenda para ayudarte a tripular y construir la detallada nave estelar de juguete, ¡despega de Tatooine y pon rumbo a tu próxima misión!
+- Entre las 4 mini figuras LEGO Star Wars están el Mandaloriano y Peli Motto con sus accesorios de pistola bláster y llave inglesa, además de Gogru y un Droide BD
+- Disponible en la app Instrucciones de Montaje LEGO, las divertidas e intuitivas herramientas de zoom y rotación ayudan a los niños a visualizar el modelo mientras lo construyen
+- Este LEGO Star Wars cuenta con una divertida maqueta de nave estelar para construir con cabina, espacio de pasajeros, compartimento de carga, cañón automático y 4 mini figuras LEGO
+- Revive y crea emocionantes historias de Star Wars: El Libro de Boba Fett en Tatooine con este juguete de construcción fielmente detallado del Caza Estelar N-1 de The Mandalorian
 - Este juguete LEGO Star Wars es un genial regalo para niños de 9 años en adelante fans de Star Wars: El Libro de Boba Fett
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

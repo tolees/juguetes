@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Añade otro nivel de playa al juego de construcción de LEGO Super Mario con este Set de Expansión: Gran Erincho, un juguete para niños de 7+ años
-- Los sets de expansión de LEGO Super Mario son una gran idea de regalo para niños que ya tienen un Pack Inicial de Super Mario (71360/71387), necesario para jugar
-- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
-- Los juguetes coleccionables de LEGO Super Mario dan vida a los emblemáticos personajes de Super Mario y ofrecen infinitos desafíos creativos al poder reconstruirlos sin parar
 - Incluye un trampolín desde el que saltar y sumergirse y una montaña rusa para hacer caer el Bloque Superestrella de la palmera y derribar al Gran Erincho
+- La app LEGO Super Mario contiene ideas e instrucciones de construcción; para ver una lista completa de los dispositivos Android e iOS compatibles, visita LEGO.com/devicecheck
+- Los sets de expansión de LEGO Super Mario son una gran idea de regalo para niños que ya tienen un Pack Inicial de Super Mario (71360/71387), necesario para jugar
+- Los juguetes coleccionables de LEGO Super Mario dan vida a los emblemáticos personajes de Super Mario y ofrecen infinitos desafíos creativos al poder reconstruirlos sin parar
 - Los peques podrán crear un nivel donde la palmera temblará, irán a lomos de un delfín y podrán saltar desde un trampolín con un Cheep Cheeps para conseguir monedas digitales
 - Incluye 5 figuras de LEGO Super Mario: Yoshi Amarillo, un Gran Erincho, 2 Cheep Cheeps y un delfín para las figuras LEGO Mario o Luigi (no incluidas)
 

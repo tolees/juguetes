@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este juego de construcción incluye un montón de piezas transparentes de varios tamaños y formas, además de una gran selección de piezas con ojos y ruedas para mayor diversión creativa
 - Construir y jugar con los 8 juguetes incluidos es solo el comienzo, ya que con los ladrillos LEGO extra de ojos y ruedas los peques podrán crear todo aquello que se les pase por la mente
 - Los peques a partir de 4 años podrán desarrollar sus habilidades creativas y físicas mientras construyen y juegan con este set de iniciación; aprender nunca había sido tan divertido
 - Viene con instrucciones de construcción impresas e Instructions PLUS, parte de la app gratuita LEGO Builder, con herramientas de visualización, acercamiento y giro
+- Este juego de construcción incluye un montón de piezas transparentes de varios tamaños y formas, además de una gran selección de piezas con ojos y ruedas para mayor diversión creativa
 - Con este set de 500 ladrillos LEGO se puede crear un pájaro de juguete, un león, una tortuga, un robot, un unicornio, un pájaro rosa, un mago con su mesa de pociones o un pez en un entorno de coral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

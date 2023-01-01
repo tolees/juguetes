@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este juego de construcción para niños de 5 años en adelante es ejemplar como primer LEGO e incluye 7 inspiradoras ideas para construir mini figuras móviles con las que poner en marcha la diversión
-- Con 500 creativos ladrillos LEGO en diferentes colores, este juego de construcción permite a los niños construir sus propios juguetes completamente funcionales
 - Cada modelo viene con instrucciones de construcción paso a paso, por lo que incluso los constructores primerizos pueden experimentar la diversión de construir sus propios juguetes LEGO
-- Los niños podrán construir inverosímils mini figuras: desde una bailarina que hace piruetas, hasta un helicóptero de juguete LEGO con aspas giratorias o una manzana con un gusano emergente
+- Este juego de construcción para niños de 5 años en adelante es ejemplar como primer LEGO e incluye 7 inspiradoras ideas para construir mini figuras móviles con las que poner en marcha la diversión
 - Este juego de construcción de LEGO Classic Funciones y Ladrillos es un complemento ejemplar cualquier set LEGO y unna gran idea de regalo para niños y niñas creativos
+- Los niños podrán construir inverosímils mini figuras: desde una bailarina que hace piruetas, hasta un helicóptero de juguete LEGO con aspas giratorias o una manzana con un gusano emergente
+- Con 500 creativos ladrillos LEGO en diferentes colores, este juego de construcción permite a los niños construir sus propios juguetes completamente funcionales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

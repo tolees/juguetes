@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Portal en Ruinas es un increíble regalo de cumpleaños o en cualquier día para niños y niñas de 8 años en adelante amantes de los juegos de aventuras y Minecraft
-- Incluye la popular mini figura LEGO Minecraft de Steve, además de figuras familiares: una ovejita de juguete, un hoglin bebé y un esqueleto wither con el que luchar
-- Steve necesita un nuevo conjunto de armadura del Nether, ¡los peques tendrán que extraer oro para el horno y crear un nuevo casco, armadura y espada de juguete para su personaje favorito!
-- Los sets LEGO Minecraft dan a los fans de Minecraft una nueva forma de jugar su juego favorito, con personajes, escenas y funciones que cobran vida con una imaginativa mezcla de elementos y ladrillos LEGO
-- Este de juguete de construcción de Minecraft para niños y niñas de 8 años o más cuenta con un portal para construir con una peligrosa pasarela interdimensional que se activa con la mano
-- El portal ancestral, uno de los aspectos más emocionantes de Minecraft, lleva a los jugadores a nuevas aventuras imaginarias sin fin
 - Los niños extraen una roca de obsidiana para reparar un portal en ruinas y lo atraviesan hacia el rojo y ardiente Nether, donde esperan un malvado esqueleto wither y un hoglin
+- Este de juguete de construcción de Minecraft para niños y niñas de 8 años o más cuenta con un portal para construir con una peligrosa pasarela interdimensional que se activa con la mano
+- El Portal en Ruinas es un increíble regalo de cumpleaños o en cualquier día para niños y niñas de 8 años en adelante amantes de los juegos de aventuras y Minecraft
+- Los sets LEGO Minecraft dan a los fans de Minecraft una nueva forma de jugar su juego favorito, con personajes, escenas y funciones que cobran vida con una imaginativa mezcla de elementos y ladrillos LEGO
+- Steve necesita un nuevo conjunto de armadura del Nether, ¡los peques tendrán que extraer oro para el horno y crear un nuevo casco, armadura y espada de juguete para su personaje favorito!
+- Incluye la popular mini figura LEGO Minecraft de Steve, además de figuras familiares: una ovejita de juguete, un hoglin bebé y un esqueleto wither con el que luchar
+- El portal ancestral, uno de los aspectos más emocionantes de Minecraft, lleva a los jugadores a nuevas aventuras imaginarias sin fin
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

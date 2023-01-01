@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- En los laterales del helicóptero hay compartimentos para poder guardar todos los accesorios incluidos: pistola, chaleco antibalas, esposas y muchos más
 - El helicóptero mide 37 x 30 x 17cm y la figura mide 8cm
 - Tiene luz de verdad para poder guiarse en las misiones nocturnas e hélices giratorias en la parte superior del helicóptero
-- En los laterales del helicóptero hay compartimentos para poder guardar todos los accesorios incluidos: pistola, chaleco antibalas, esposas y muchos más
-- Helicóptero completo con muchos accesorios y una figura de pinypon action; el piloto policía
 - Las figuras y los escenarios de pinypon action; además de ser muy divertidas; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendadas a partir de 4 años
+- Helicóptero completo con muchos accesorios y una figura de pinypon action; el piloto policía
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
