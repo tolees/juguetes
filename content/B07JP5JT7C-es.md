@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - Just One - Juego de Mesa en Español'
-date: 2022-12-19 08:32:25
+date: 2023-01-01 13:39:47
 image: 'https://m.media-amazon.com/images/I/51RpXI0UgkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Asmodee'
 buyurl: 'https://www.amazon.es/dp/B07JP5JT7C/?tag=tolees-21'
 descuento: '20.05'
-average: '16.5347368421051'
+average: '16.5615384615383'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vuestra misión es averiguar cuantas más palabras secretas mejor
-- ¡Colaborad todos juntos para descubrir el máximo de palabras misteriosas posible!
-- ¡porque las pistas idénticas quedarán anuladas!
 - Buscad la mejor pista para ayudar todo lo posible a vuestro compañero y sed originales
 - Just One es un juego cooperativo de adivinanzas para entre 4 y 7 jugadores.
+- ¡porque las pistas idénticas quedarán anuladas!
+- Vuestra misión es averiguar cuantas más palabras secretas mejor
+- ¡Colaborad todos juntos para descubrir el máximo de palabras misteriosas posible!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
