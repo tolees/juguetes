@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STAR WARS: Squadrons  PlayStation 4   PlayStation VR Compatible'
-date: 2022-12-21 18:20:29
+date: 2023-01-01 21:10:15
 image: 'https://m.media-amazon.com/images/I/51ZTD2Y6NAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08B9BM1J4/?tag=tolees-21'
 descuento: '69.77'
-average: '25.3321333333334'
+average: '25.1618421052632'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
