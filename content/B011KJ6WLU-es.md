@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Retevis RT388 Walkie Talkie Niño  8 Canales Linterna VOX  Juguetes de 3 a 12 Años  Regalos para Niño en Vacaciones  Juegos Familiares  Recorridos en Bicicleta  Excursión 1 Par  Azul Oscuro '
-date: 2023-01-01 02:20:20
+date: 2023-01-02 02:33:48
 image: 'https://m.media-amazon.com/images/I/51+KDq4EZsS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VOX y toma de auriculares de 2,5 mm; la función VOX permite hablar directamente con los vecinos sin necesidad de pulsar el botón PTT; también se pueden conectar los auriculares al walkie talkie (no incluidos)
-- La linterna LED integrada ilumina el camino durante las actividades nocturnas; útil en caso de emergencia inesperada o de corte de luz
-- DCS/CTCSS mejora la seguridad; 8 canales y 99 códigos privados minimizan la posibilidad de compartir el mismo canal con otros
-- Función de comunicación uno a uno o uno a varios; los walkie talkies se ajustan al mismo canal y subcanal; los walkie talkies pueden hablar entre sí
-- Utiliza 4 pilas AAA cualificadas (no incluidas); no mezcles las pilas viejas con las nuevas; si no vas a utilizarlas durante mucho tiempo; apaga el dispositivo y retira las pilas
-- Volumen ajustable para una calidad de sonido clara; reducción automática del ruido para reducir el ruido de fondo; puedes obtener un sonido claro incluso cuando estés en lugares con mucha gente
-- Cuerpo compacto y resistente; ideal para los niños (sólo 79 g); el walkie talkie puede soportar una caída de 1,2 m
+- Compact and sturdy body; comfortable and suitable for children (only 79 grams); our walkie-talkie can withstand a drop resistance of 1.2m
+- Integrated LED flashlight; the integrated flashlight illuminates your way during evening activities; unexpected emergencies or power outages
+- Belt clip on the back; children can attach the walkie talkies to their clothing or anywhere they want
+- Please use 4 qualified AAA batteries (not included) and do not mix old and new batteries; if you do not use them for a long time please turn off the device and remove the batteries
+- RT388 walkie talkie kids is an ideal gift for kids; suitable for camping; adventure; school gift
+- VOX and 2.5mm headphone jack; the VOX function enables children to speak directly to their neighbors without pressing the PTT button; you can also connect headphones to the device (not supplied)
+- The key lock works for children to stay on the same channel while playing; it can prevent children from changing the channel
+- Adjustable volume and clear sound quality; the auto squelch function can reduce background noise; you can get clear tones even though you stay in a crowded place
+- One to one or one to many communication function; If the frequency and the sub-audio frequency of the walkie talkies are the same, the walkie talkies can talk to each other
+- Improve security through DCS/CTCSS; have 8 channels and 99 private codes; minimizing the possibility of sharing the same channel with others
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

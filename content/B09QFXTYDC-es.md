@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75337 Juguete de construcción'
-date: 2023-01-01 01:53:15
+date: 2023-01-02 02:16:53
 image: 'https://m.media-amazon.com/images/I/516-CMnP4CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B09QFXTYDC/?tag=tolees-21'
 descuento: '19.96'
-average: '122.16'
+average: '120.704166666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 años
 - LEGO SA
+- 2 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
