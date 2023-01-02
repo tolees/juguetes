@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con los movimientos y bolas de fuego al estilo shoto
-- Capítulo final de la disputa de Mishima
 - Se transmite al espacio 3D
 - Una lista sólida de más de 30 personajes
+- Capítulo final de la disputa de Mishima
+- Con los movimientos y bolas de fuego al estilo shoto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
