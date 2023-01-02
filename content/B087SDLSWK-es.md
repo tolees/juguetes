@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El juego de mesa está recomendado para niños a partir de 10 años, la duración media de una partida es de 75 minutos y es un juego perfecto para los que quieren un reto comprometido y estratégico
-- Un juego de estrategia para 2-4 jugadores que deben intentar hacer prosperar sus distritos urbanos mediante la construcción de jardines, villas y otros edificios diversos
-- Descubre la línea completa de juegos de mesa Alea: Las Vegas, los Castillos de Borgoña, Puerto Rico y muchas otras aventuras te esperan.
 - Los jugadores son influyentes patricios de la antigua Roma. En cada turno, los jugadores obtienen losetas que pueden colocar en su propio distrito. Al final de cada fase de recogida y colocación de losetas se calculan los puntos. Gana quien tenga más puntos al final de la partida.
+- El juego de mesa está recomendado para niños a partir de 10 años, la duración media de una partida es de 75 minutos y es un juego perfecto para los que quieren un reto comprometido y estratégico
+- Descubre la línea completa de juegos de mesa Alea: Las Vegas, los Castillos de Borgoña, Puerto Rico y muchas otras aventuras te esperan.
+- Un juego de estrategia para 2-4 jugadores que deben intentar hacer prosperar sus distritos urbanos mediante la construcción de jardines, villas y otros edificios diversos
 - Este juego estratégico tiene una gran rejugabilidad gracias a la variabilidad de las decisiones que puedes tomar durante la partida que hacen que el juego sea aún más intrigante y atractivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
