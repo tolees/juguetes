@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este es un producto solo para Francia, Italia, Alemania, España y el Reino Unido
 - Elección de jugador cedido embajador de FUT; escoge entre Davies, Son y Vinicius Jr. para 3 partidos de FUT
-- Incluye contenido de paz y amor; equipación de FUT en el juego y artículos estéticos de estadio en el juego para tu club de FIFA23 Ultimate Team
 - Talento local en el modo carrera; joven promesa local con potencial de clase mundial
 - Artículo de jugador del equipo de la semana 1; artículo intransferible de jugador para tu FIFA Ultimate Team
+- Este es un producto solo para Francia, Italia, Alemania, España y el Reino Unido
+- Incluye contenido de paz y amor; equipación de FUT en el juego y artículos estéticos de estadio en el juego para tu club de FIFA23 Ultimate Team
 - Artículo cedido de Kylian Mbappé; durante 5 partidos de FUT
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
