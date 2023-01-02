@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 1 unidad
 - Tales of Berseria PS Hits PS4 USK: 12
+- Contenido: 1 unidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
