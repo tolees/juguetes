@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La figura interactiva LEGO Peach requiere 2 pilas AAA (no incluidas) y se puede conectar a través de Bluetooth con LEGO Luigi o LEGO Mario (figuras adicionales no incluidas) para jugar en grupo
-- La app complementaria LEGO Super Mario incluye instrucciones de construcción y divertidas formas de jugar
-- Con este juguete de la Princesa Peach los peques ganarán monedas digitales al ayudar a LEGO Peach a jugar en el columpio y por interactuar con Toad Amarillo, el bloque flotante también ofrece recompensas
-- Este juguete de construcción también incluye un Lava Bubble, un poste de meta, un columpio y desafíos, combínalo con otros pack iniciales y sets de expansión de LEGO Super Mario para una diversión ilimitada
 - Pueden dar a LEGO Peach la fruta roja del recorrido para ver sus reacciones de felicidad y ganar monedas extra, o simplemente pueden regalársela a su figura LEGO Super Mario favorita
 - La figura interactiva LEGO Peach tiene sensor de color, además de una pantalla LCD para mostrar reacciones al movimiento y un altavoz que reproduce sonidos y música de los videojuegos de Mario
+- La figura interactiva LEGO Peach requiere 2 pilas AAA (no incluidas) y se puede conectar a través de Bluetooth con LEGO Luigi o LEGO Mario (figuras adicionales no incluidas) para jugar en grupo
 - Este pack inicial de LEGO Super Mario cuenta con una figura interactiva de la Princesa Peach, las figuras de un Toad Amarillo y Lemmy, y un escenario de juego interactivo para construir un recorrido
+- Con este juguete de la Princesa Peach los peques ganarán monedas digitales al ayudar a LEGO Peach a jugar en el columpio y por interactuar con Toad Amarillo, el bloque flotante también ofrece recompensas
+- La app complementaria LEGO Super Mario incluye instrucciones de construcción y divertidas formas de jugar
+- Este juguete de construcción también incluye un Lava Bubble, un poste de meta, un columpio y desafíos, combínalo con otros pack iniciales y sets de expansión de LEGO Super Mario para una diversión ilimitada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

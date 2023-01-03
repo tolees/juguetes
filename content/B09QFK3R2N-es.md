@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para un juego interactivo con Bowser se necesita uno de los Pack Iniciales LEGO Super Mario con figuras: LEGO Mario (71360), LEGO Luigi (71387) o LEGO Peach (71403) de venta por separado
+- El Poderoso Bowser, personaje de Super Mario mide 32 cm de alto, 41 cm de ancho y 28 cm de profundo, e incluye instrucciones paso a paso para que los más nuevos en las construcciones avanzadas de LEGO puedan construir con confianza
+- Novedad en octubre de 2022, la icónica figura del villano de Super Mario también tiene ojos giratorios, un lanzador de bolas de fuego en su boca y piezas LEGO inéditas para recrear fielmente las púas de Bowser
 - Incluye una plataforma de batalla con 2 torres que la figura coleccionable de Bowser puede derribar y un bloque POW oculto con una etiqueta de acción con el que otras figuras interactivas LEGO Super Mario (no incluidas) pueden interactuar
+- Para un juego interactivo con Bowser se necesita uno de los Pack Iniciales LEGO Super Mario con figuras: LEGO Mario (71360), LEGO Luigi (71387) o LEGO Peach (71403) de venta por separado
+- Este set LEGO para adultos forma parte de una serie de juguetes de construcción y coleccionables LEGO Super Mario, se puede exhibir con orgullo como decoración para casa y es una gran idea de regalo de Navidad o cumpleaños
 - Los fans de Super Mario podrán construir una impresionante LEGO figura 3D del Poderoso Bowser llena de detalles para descubrir, ¡una increíble edición de coleccionista para jugar y exhibir!
 - Esta maqueta para construir del Rey de los Koopas tiene brazos, manos, piernas y cola articuladas para crear diferentes poses, además de una cabeza giratoria que abre la boca al presionar un botón debajo del caparazón
-- Novedad en octubre de 2022, la icónica figura del villano de Super Mario también tiene ojos giratorios, un lanzador de bolas de fuego en su boca y piezas LEGO inéditas para recrear fielmente las púas de Bowser
-- Este set LEGO para adultos forma parte de una serie de juguetes de construcción y coleccionables LEGO Super Mario, se puede exhibir con orgullo como decoración para casa y es una gran idea de regalo de Navidad o cumpleaños
-- El Poderoso Bowser, personaje de Super Mario mide 32 cm de alto, 41 cm de ancho y 28 cm de profundo, e incluye instrucciones paso a paso para que los más nuevos en las construcciones avanzadas de LEGO puedan construir con confianza
 
 [🛒 Visítala!!!]({{< param buyurl >}})

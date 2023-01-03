@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 años
 - LEGO SA
+- 2 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

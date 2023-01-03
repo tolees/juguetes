@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sobrevive a la colmena: Enfréntate a más de 20 tipos de enemigos, incluyendo 11 Xenomorfos diferentes desde los Facehuggers hasta los Praetorians, cada uno diseñado con su inteligencia propia para emboscar, burlar y destripar a los marines vulnerables; utiliza la cobertura y estrategia de equipo para sobrevivir a la amenaza extraterrestre, ya que invaden desde todos los ángulos, se cuelan por las puertas y los conductos de ventilación, atraviesan las paredes y los techos, y atacan desde la oscuridad con una ferocidad asombrosa
 - Personaliza a tu equipo de asalto: Elige entre cinco clases únicas - Artillero, Demoledor, Técnico, Doc y Recon - cada una con sus propias habilidades es y ventajas; utiliza un extenso arsenal de más de 30 armas y más de 70 mods en tu esfuerzo por erradicar la amenaza alienígena; un innovador tablero modifica y mejora tus habilidades, mientras que un sistema único de cartas de desafío altera el enfoque de cada campaña y ofrece una nueva experiencia en cada partida
+- Sobrevive a la colmena: Enfréntate a más de 20 tipos de enemigos, incluyendo 11 Xenomorfos diferentes desde los Facehuggers hasta los Praetorians, cada uno diseñado con su inteligencia propia para emboscar, burlar y destripar a los marines vulnerables; utiliza la cobertura y estrategia de equipo para sobrevivir a la amenaza extraterrestre, ya que invaden desde todos los ángulos, se cuelan por las puertas y los conductos de ventilación, atraviesan las paredes y los techos, y atacan desde la oscuridad con una ferocidad asombrosa
 - La cacería definitiva: Juega un papel fundamental en los eventos épicos que ocurren 23 años después de la trilogía de Alien como un como un marine colonial destinado a bordo del USS Endeavor, luchando contra las terroríficas amenazas xenomorfas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
