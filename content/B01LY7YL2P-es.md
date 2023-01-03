@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Assassin s Creed: The Ezio Collection - PlayStation 4'
-date: 2023-01-01 11:30:46
+date: 2023-01-03 17:37:23
 image: 'https://m.media-amazon.com/images/I/51KtxqfT7YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01LY7YL2P-es Ubisoft Spain - Assassin s Creed: The Ezio Collection -...'
 sku: 'B01LY7YL2P-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','playstation','ubisoft spain','🇪🇸', ]
-actualPrice: 23.8 EUR
+actualPrice: 4.99 EUR
 currency: EUR
-price: 23.8
+price: 4.99
 comparePrice: 28.99 EUR
 prodname: 'Ubisoft Spain - Assassin s Creed: The Ezio Collection - PlayStation 4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B01LY7YL2P/?tag=tolees-21'
-descuento: '17.90'
-average: '17.3543749999999'
+descuento: '82.79'
+average: '16.6270588235293'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
