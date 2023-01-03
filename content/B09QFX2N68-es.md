@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los fans de la película podrán pasar horas explorando Pandora a lomos de un Direhorse o con Toruk Makto, jugar con los arcos, flechas y lanzas o comunicarse con los Na’vi a través del sagrado Árbol de las Almas
-- Con detallados escenarios de Pandora para exponer, este juguete de construcción es un gran regalo de cumpleaños, Navidad o en una ocasión especial para los fans de James Camaron y las películas de Avatar
-- El set incluye un Árbol de las Almas para construir y 3 modelos ambientales con accesorios que brillan en la oscuridad para que los niños experimenten épicas aventuras llenas de acción
-- Los niños y los fans de Avatar podrán recrear su escena favorita de la película, diseñar otras nuevas o crear una pieza de decoración para la habitación: ¡observa cómo Toruk extiende sus flexibles alas sobre el Árbol de las Almas!
 - Diseñado para fomentar la construcción en compañía; contiene 3 folletos de instrucciones distintos que permiten a amigos y familiares construir diferentes partes del set al mismo tiempo
-- Este divertido set de construcción LEGO Avatar cuenta con 3 escenarios diferentes de Pandora, 4 mini figuras de los Avatar personajes, armas, animales de juguete y el sagrado Árbol de las Almas
+- El set incluye un Árbol de las Almas para construir y 3 modelos ambientales con accesorios que brillan en la oscuridad para que los niños experimenten épicas aventuras llenas de acción
+- Los fans de la película podrán pasar horas explorando Pandora a lomos de un Direhorse o con Toruk Makto, jugar con los arcos, flechas y lanzas o comunicarse con los Na’vi a través del sagrado Árbol de las Almas
 - Incluye 4 mini figuras LEGO Na’vi de Jake Sully, Neytiri, Moat y TsuTey, además de las figuras de animales de un Direhorse de 6 patas y un impresionante Toruk articulado con boca que se abre y alas de plástico flexibles
+- Los niños y los fans de Avatar podrán recrear su escena favorita de la película, diseñar otras nuevas o crear una pieza de decoración para la habitación: ¡observa cómo Toruk extiende sus flexibles alas sobre el Árbol de las Almas!
+- Este divertido set de construcción LEGO Avatar cuenta con 3 escenarios diferentes de Pandora, 4 mini figuras de los Avatar personajes, armas, animales de juguete y el sagrado Árbol de las Almas
+- Con detallados escenarios de Pandora para exponer, este juguete de construcción es un gran regalo de cumpleaños, Navidad o en una ocasión especial para los fans de James Camaron y las películas de Avatar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
