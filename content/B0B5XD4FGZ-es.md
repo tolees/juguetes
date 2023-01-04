@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Equipate para la aventura; tienes libertad a la hora de equipar a tu personaje, no solo a la hora de elegir las armas que has creado, sino también que tipo de equipo vas a llevar
-- Evolucuina tu juegos; podrás recodificar tu estructura genética para cambiar tu aspecto y forma de jugar
 - Una vision del combate en 3a persona; el sistema de combate con artes marciales te permite da libertad de movimiento y agilidad mientras mezclas los disparos, el cuerpo a cuerpo y los poderes de tus mutaciones
+- Evolucuina tu juegos; podrás recodificar tu estructura genética para cambiar tu aspecto y forma de jugar
+- Equipate para la aventura; tienes libertad a la hora de equipar a tu personaje, no solo a la hora de elegir las armas que has creado, sino también que tipo de equipo vas a llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

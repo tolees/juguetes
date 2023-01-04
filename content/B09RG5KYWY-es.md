@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos electrónicos de la marca BigBuy Tech
-- Referencia del producto: S55136192
 - Auriculares Bluetooth 99445
+- Productos electrónicos de la marca BigBuy Tech
 - Medidas: 11 x 9 x 4 centímetros
 - Color: Multicolor
+- Referencia del producto: S55136192
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
