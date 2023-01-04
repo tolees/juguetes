@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Luck es un conejo, el persona principal de la película Luck, y su misión fundamental es descontaminar el mundo de la mala suerte.
 - Peluche en forma de conejo de 24 cm
+- Producto distribuido oficialmente en España por BIZAK.
+- Producto distribuido oficialmente en España por BIZAK.
 - Suave y blandito al que se le podrán sacar las orejas de la capucha
-- Producto distribuido oficialmente en España por BIZAK.
-- Producto distribuido oficialmente en España por BIZAK.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
