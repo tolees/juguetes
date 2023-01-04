@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reconstruye El increíble camión de bomberos de Marshall y transfórmalo en un centro de rescate con un garaje para un pequeño vehículo de rescate y un helipuerto para el helicóptero de Skye
 - Este juguete de construcción, ideal para niños a partir de 3 años, ofrece una introducción temprana a la construcción y la creación de historias a través de experiencias de aprendizaje atractivas
-- El juego de construcción viene con 33 bloques junior, que incluyen piezas especiales de diseño resistente y 3 bases con ruedas
-- Incluye 2 figuras articuladas de Marshall y Skye con trajes de bombero
 - Los bloques pueden combinarse con todos los conjuntos de construcción de La Patrulla Canina y son compatibles con otras marcas
+- Incluye 2 figuras articuladas de Marshall y Skye con trajes de bombero
+- Reconstruye El increíble camión de bomberos de Marshall y transfórmalo en un centro de rescate con un garaje para un pequeño vehículo de rescate y un helipuerto para el helicóptero de Skye
+- El juego de construcción viene con 33 bloques junior, que incluyen piezas especiales de diseño resistente y 3 bases con ruedas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

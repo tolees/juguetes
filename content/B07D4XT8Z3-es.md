@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Explora a placer la isla para descubrir secretos con tu propia mascota canina, o bien con amigos en el modo multijugador local. Isla Kawawii te depara nuevos regalos y retos a diario. Complétalos para subir de nivel, o bien ayuda a otros a subir de nivel en los ejercicios de Orientación en grupo
-- Distintos modos de juego: pásale un Joy-Con a un amigo para poder disfrutar de los distintos modos multijugador. Los modos de pantalla partida o la comunicación inalámbrica local permiten la participación de hasta cuatro jugadores
-- Podrás fotografiar tu personaje, amigos o mascota. Los amantes de la naturaleza podrán rellenar incluso un Álbum de animales con fotos de las más de 40 especies que constituyen la fauna autóctona de Isla Kawawii. ¿Puedes encontrarlas todas?
 - Antes de llegar a Isla Kawawii, crearás un personaje desde cero o importarás un personaje Mii para emplear como tu avatar. Al explorar la isla, desbloquearás nuevas indumentarias con las que podrás dar tu propio estilo a los personajes. En los terrenos de la isla obtendrás acceso a tu propio hogar, donde podrás ajustar el tipo, tamaño, color y posición de los muebles
-- Explora Isla Kawawii y descubre sus espléndidas vistas y sonidos. Hay cuatro complejos que visitar, cada uno con sus actividades exclusivas: complejo marino, nevado, de montana o urbano
 - Go Vacation te ofrece más de 50 actividades, tanto cooperativas como competitivas: practica submarinismo, equitación o pesca marina, y descubre deportes extremos como paracaidismo o surf
+- Podrás fotografiar tu personaje, amigos o mascota. Los amantes de la naturaleza podrán rellenar incluso un Álbum de animales con fotos de las más de 40 especies que constituyen la fauna autóctona de Isla Kawawii. ¿Puedes encontrarlas todas?
+- Explora Isla Kawawii y descubre sus espléndidas vistas y sonidos. Hay cuatro complejos que visitar, cada uno con sus actividades exclusivas: complejo marino, nevado, de montana o urbano
+- Distintos modos de juego: pásale un Joy-Con a un amigo para poder disfrutar de los distintos modos multijugador. Los modos de pantalla partida o la comunicación inalámbrica local permiten la participación de hasta cuatro jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
