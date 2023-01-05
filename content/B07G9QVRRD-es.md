@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funbox Media - Super Street: The Game - Nintendo Switch [Importación inglesa]'
-date: 2022-12-29 14:06:23
+date: 2023-01-05 08:11:31
 image: 'https://m.media-amazon.com/images/I/41k7McmQ8dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 5 bonus Super cars.
-- 5 free-roaming environments: suburbs, Forest, downtown, desert, Harbor.
-- play together either online (8p) or through split-screen (2p).
 - 8 base models To build Super cars with.
+- play together either online (8p) or through split-screen (2p).
+- 5 bonus Super cars.
 - over 500 authentic, licensed car parts to build your car with.
+- 5 free-roaming environments: suburbs, Forest, downtown, desert, Harbor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
