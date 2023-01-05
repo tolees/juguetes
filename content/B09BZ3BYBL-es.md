@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🪫 CARGA MIENTRAS JUEGAS: ahora con el cargador para mando de PS4 de Remotto no tienes porque dejar de lado tu videojuego favorito porque se ha acabado la batería de tu mando y debes cargarlo. Y es que esta batería portátil sin cables te da la oportunidad de cargar el mando sin necesidad de dejar de jugar.
 - 🎮 CARGADOR DE MANDO PS4: este cargador está diseñado especialmente para el mando de la PS4. Se trata de una batería portátil fácil de transportar y con una autonomía de más de 12 horas por lo que podrás disfrutar de tu videojuego más tiempo y sin interrupciones. Además, puedes cargar tu mando al mismo tiempo que juegas. Es ligero y ergonómico y tiene una duración de más de 800 ciclos.
 - 📡 INALÁMBRICO: olvídate de los cargadores tradicionales con cables que atan tu experiencia con los videojuegos a los enchufes. El cargador para mando de PS4 de Remotto es completamente inalámbrico y por ello podrás llevarlo a cualquier parte contigo y podrás jugar en cualquier momento y lugar.
+- 🪫 CARGA MIENTRAS JUEGAS: ahora con el cargador para mando de PS4 de Remotto no tienes porque dejar de lado tu videojuego favorito porque se ha acabado la batería de tu mando y debes cargarlo. Y es que esta batería portátil sin cables te da la oportunidad de cargar el mando sin necesidad de dejar de jugar.
 - 💯 FÁCIL DE TRANSPORTAR: gracias a no tener ningún cable puedes llevarte esta batería a cualquier parte, ya sea de viaje como para usarla en cualquier parte de tu hogar. Además, ocupa muy poco espacio por lo que podrás guardarla fácilmente en cualquier sitio.
 - 🔋 MÁS DE 12 HORAS DE AUTONOMÍA: esta batería portátil de larga duración te ofrece más de 12 horas de autonomía con solo una carga por lo que no tendrás que parar tus sesiones de juego para cargar continuamente tu mando de la PS4. Por otro lado, su tiempo de carga es de solamente 90 minutos y tiene 4 indicadores de batería para que sepas cuándo debes cargarla (25%, 50%, 75% y 100%).
 

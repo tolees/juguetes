@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nivel de dificultad 5
+- Este rompecabezas consta de 4 piezas que se combinan para formar un cuadrado. ¿Podrás separarlo?
 - Además, estas piezas tienen un secreto: cada vez que se cambia su arreglo al recrear la forma original, la solución cambia
 - Separa las 4 partes y colócalas de nuevo juntas
-- Este rompecabezas consta de 4 piezas que se combinan para formar un cuadrado. ¿Podrás separarlo?
+- Nivel de dificultad 5
 - Horas de diversión
 
 [🛒 Aquí!!!]({{< param buyurl >}})

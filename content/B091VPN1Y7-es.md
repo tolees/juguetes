@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cada carta muestra la siguiente figura tetrimino que hay que jugar. Hay que ser el primero en colocarla ya que todos los jugadores juegan las cartas al mismo tiempo. Ganará el jugador que primero se quede sin cartas
 - Número de jugadores: de 2 a 8
 - Contenido: 49 cartas Tetrimino con el reverso de color blanco, 35 cartas Tetrimino con el reverso de color morado y instrucciones
 - Juego de cartas ideal para pasar una tarde con amigos y familias con niños
 - Habilidades que desarrolla: juego de agilidad y rapidez visual
-- Cada carta muestra la siguiente figura tetrimino que hay que jugar. Hay que ser el primero en colocarla ya que todos los jugadores juegan las cartas al mismo tiempo. Ganará el jugador que primero se quede sin cartas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

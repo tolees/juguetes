@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✽【Transmisión Rápida y Estable】Duplicador HDMI Diseño elegante con ligereza, dimensiones reducidas ocupa poco espacio en casa. Fácil de usar con un simple botón, ninguna alimentación externa requerida, la luz LED indica el puerto está activo.(👉Cable HDMI no incluido)
-- ✽【Amplia Compatibilidad】Conmutador HDMI soporta la mayoría de los dispositivos con una interfaz HDMI estándar. Entrada: ordenador, XBox 360, XBox One, PS4, Ps4 Pro, DVD Blu-Ray, Chromecast, tecla TV, etc. Salida: pantalla, monitor, TV HD Ready o Full HD, Apple TV, proyectores, etc. Soporta HDCP.
-- ✽【Alta Calidad Switch HDMI】 El doble hdmi ofrece una transmisión de datos estable y sin pérdida de datos de alta ancho de banda, 3,4 Gbps para audio y vídeo. La entrada y la salida soportan hasta 5 metros de cable HDMI AWG26.
 - ✽【HDMI Switch Bidireccional】 El nuevo splitter hdmi bidireccional le permite conectar dos fuentes HDMI a una pantalla HDMI o conectar una fuente HDMI para pasar de una pantalla a otra (👉dos pantallas no pueden ser visualizadas al mismo tiempo).
+- ✽【Amplia Compatibilidad】Conmutador HDMI soporta la mayoría de los dispositivos con una interfaz HDMI estándar. Entrada: ordenador, XBox 360, XBox One, PS4, Ps4 Pro, DVD Blu-Ray, Chromecast, tecla TV, etc. Salida: pantalla, monitor, TV HD Ready o Full HD, Apple TV, proyectores, etc. Soporta HDCP.
 - ✽【HDMI Switch 4K】HDMI splitter soporta 4K@30Hz (3840 * 2160), 1080p@60Hz, vídeo 3D, resolución ARC y CEC, 1080P@30Hz, 1080i, 720P, 576P, 480P, 576i, 480i. (👉Ajustar la resolución en 4K @ 30Hz y utilizar un cable HDMI 2.0 cuando se conecta un dispositivo HDMI 2.0 como PS4 Pro.)
+- ✽【Alta Calidad Switch HDMI】 El doble hdmi ofrece una transmisión de datos estable y sin pérdida de datos de alta ancho de banda, 3,4 Gbps para audio y vídeo. La entrada y la salida soportan hasta 5 metros de cable HDMI AWG26.
+- ✽【Transmisión Rápida y Estable】Duplicador HDMI Diseño elegante con ligereza, dimensiones reducidas ocupa poco espacio en casa. Fácil de usar con un simple botón, ninguna alimentación externa requerida, la luz LED indica el puerto está activo.(👉Cable HDMI no incluido)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
