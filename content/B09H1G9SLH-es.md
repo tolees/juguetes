@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PIEZA DE FIGURA PARA ARMAR (KORG): Cada figura Marvel Legends Thor incluye al menos una pieza de figura para armar. Reúne todas las figuras para crear una figura adicional (las figuras adicionales se venden por separado. Sujeto a disponibilidad)
-- ACCESORIOS Y ARTICULACIÓN PREMIUM: Esta figura de Thor de 15 cm de la línea Marvel Legends Series presenta múltiples puntos de articulación y accesorios inspirados en las película, incluyendo su hacha, Stormbreaker .
 - DISEÑO DE PELÍCULA: Esta figura de Thor a escala de 15 centímetros cuenta con detalles y diseño inspirados en su aparición en Thor: Love and Thunder de Marvel Studios
-- EL UNIVERSO MARVEL A ESCALA DE 15 CENTÍMETROS: Colecciona otras figuras de acción de la línea Marvel Legends Series inspiradas en el Universo Cinematográfico de Marvel, como Mighty Thor, Ravager Thor y la Reina Valquiria. (Las figuras adicionales se venden por separado. Sujeto a disponibilidad)
 - FIGURA COLECCIONABLE DE 15 CM. Thor regresa a Marvel Legends con esta figura de 15 cm, inspirada en la película Thor: Love and Thunder de Marvel Studios
+- ACCESORIOS Y ARTICULACIÓN PREMIUM: Esta figura de Thor de 15 cm de la línea Marvel Legends Series presenta múltiples puntos de articulación y accesorios inspirados en las película, incluyendo su hacha, Stormbreaker .
+- EL UNIVERSO MARVEL A ESCALA DE 15 CENTÍMETROS: Colecciona otras figuras de acción de la línea Marvel Legends Series inspiradas en el Universo Cinematográfico de Marvel, como Mighty Thor, Ravager Thor y la Reina Valquiria. (Las figuras adicionales se venden por separado. Sujeto a disponibilidad)
+- PIEZA DE FIGURA PARA ARMAR (KORG): Cada figura Marvel Legends Thor incluye al menos una pieza de figura para armar. Reúne todas las figuras para crear una figura adicional (las figuras adicionales se venden por separado. Sujeto a disponibilidad)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
