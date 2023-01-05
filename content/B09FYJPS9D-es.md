@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Treasures of the Aegean Collector S Edition - Nintendo Switch'
-date: 2022-12-29 23:11:25
+date: 2023-01-05 17:33:20
 image: 'https://m.media-amazon.com/images/I/611x9xKOrzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09FYJPS9D-es Meridiem Games - Treasures of the Aegean Collector S...'
 sku: 'B09FYJPS9D-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','meridiem games','nintendo','🇪🇸', ]
-actualPrice: 33.49 EUR
+actualPrice: 27.55 EUR
 currency: EUR
-price: 33.49
+price: 27.55
 comparePrice: 49.99 EUR
 prodname: 'Meridiem Games - Treasures of the Aegean Collector S Edition - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09FYJPS9D/?tag=tolees-21'
-descuento: '33.01'
-average: '39.5623076923077'
+descuento: '44.89'
+average: '38.7042857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

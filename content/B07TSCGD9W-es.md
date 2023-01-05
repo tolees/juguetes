@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Katrielle y la conspiración de los millonarios - Edición Deluxe incluirá más de 40 nuevos puzles, además de nuevos contenidos y mejoras
 - En esta entrega de la serie de misterios y puzles, el famoso Profesor Hershel Layton ha desaparecido y su hija Katrielle pasa a ocupar el papel protagonista
 - En su aventura, contará con la ayuda de un colorido reparto de personajes nuevos en la serie
+- Katrielle y la conspiración de los millonarios - Edición Deluxe incluirá más de 40 nuevos puzles, además de nuevos contenidos y mejoras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
