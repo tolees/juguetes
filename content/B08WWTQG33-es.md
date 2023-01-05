@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con este castillo de juguete de La Bella y La Bestia crea un edificio de 2 pisos con una pista de baile giratoria, un armario giratorio, una biblioteca y un comedor
-- Disponible con la app Instructions PLUS: incluso los constructores más jóvenes pueden hacer zoom y ver las maquetas a medida que construyen
 - Amplíe el área de juegos montando a caballo o conduciendo un carro o organice una fiesta encantada en la cocina del castillo
+- Disponible con la app Instructions PLUS: incluso los constructores más jóvenes pueden hacer zoom y ver las maquetas a medida que construyen
 - 10 personajes para jugar: 3 mini muñecas (2 versiones de Bella y una cabeza de Bestia para el príncipe), el caballo Philippe y otras 6 figuras
+- Con este castillo de juguete de La Bella y La Bestia crea un edificio de 2 pisos con una pista de baile giratoria, un armario giratorio, una biblioteca y un comedor
 - El castillo de juguete para construir LEGO Disney está repleto de accesorios, que incluyen un retrato rasgado del príncipe y una rosa encantada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

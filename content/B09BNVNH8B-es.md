@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este juego de construcción cuenta con un avión de combate para construir con espacio para 3 mini figuras LEGO, hélices giratorias y bodega de carga abatible
+- Con los accesorios de reparación los peques podrán arreglar el avión después del ataque, incluye un extintor para construir, linterna y una llave inglesa
 - Es hora de subirse a este fascinante avión de juguete y escapar de la emboscada del gran dinosaurio Quetzalcoatlus de la película Jurassic World: Dominion
 - La gama de juguetes de dinosaurios LEGO Jurassic World cuenta con increíbles y originales regalos de Reyes y de Navidad para niños de 7 años en adelante amantes de los vehículos y los animales
-- Con los accesorios de reparación los peques podrán arreglar el avión después del ataque, incluye un extintor para construir, linterna y una llave inglesa
-- Los motores del avión están diseñados para desprenderse en caso de ataque del dinosaurio volador de juguete, si el Quetzalcoatlus te ataca ¡aterriza y vuelve a colocar los motores!
 - Cuenta con 3 mini figuras de la películas: Owen Grady, Claire Dearing y Kayla Watts, además del gran dinosaurio LEGO volador con alas articuladas y pico móvil
+- Este juego de construcción cuenta con un avión de combate para construir con espacio para 3 mini figuras LEGO, hélices giratorias y bodega de carga abatible
+- Los motores del avión están diseñados para desprenderse en caso de ataque del dinosaurio volador de juguete, si el Quetzalcoatlus te ataca ¡aterriza y vuelve a colocar los motores!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
