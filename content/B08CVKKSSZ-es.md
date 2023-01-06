@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aspecto único: El panel trasero transparente tiene una fuerte resistencia al rayado y al envejecimiento térmico, el diseño de alas plateadas hace que el interruptor se vea más moderno y avanzado.
-- You Lo Que Obtienes: 1x funda protectora de Nintendo Switch, 1x Vidrio templado, 6x Tapa protectora. Nota: Certificación de patente de apariencia europea, la imitación está prohibida.
-- Proteccion Completa: Fabricado con TPU flexible absorbente de golpes y material de PC antirayaduras, protege su dispositivo de golpes, caídas, rasguños, polvo, y huellas dactilares de todos los días.
-- Partido Perfecto: Diseñada para Nintendo Switch y encaja perfectamente en el muelle sin quitar la funda.
 - Diseno Ergonomico: El caso ergonómico puede darle una experiencia cómoda y fácil agarrar.
+- Proteccion Completa: Fabricado con TPU flexible absorbente de golpes y material de PC antirayaduras, protege su dispositivo de golpes, caídas, rasguños, polvo, y huellas dactilares de todos los días.
+- You Lo Que Obtienes: 1x funda protectora de Nintendo Switch, 1x Vidrio templado, 6x Tapa protectora. Nota: Certificación de patente de apariencia europea, la imitación está prohibida.
+- Partido Perfecto: Diseñada para Nintendo Switch y encaja perfectamente en el muelle sin quitar la funda.
+- Aspecto único: El panel trasero transparente tiene una fuerte resistencia al rayado y al envejecimiento térmico, el diseño de alas plateadas hace que el interruptor se vea más moderno y avanzado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

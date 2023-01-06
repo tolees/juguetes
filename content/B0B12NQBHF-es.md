@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Gotham Knights Standard Edition PS5'
-date: 2022-12-29 09:01:48
+date: 2023-01-06 09:33:57
 image: 'https://m.media-amazon.com/images/I/51CbzM0+u9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros'
 buyurl: 'https://www.amazon.es/dp/B0B12NQBHF/?tag=tolees-21'
 descuento: '46.78'
-average: '53.9938461538461'
+average: '52.9864285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Videojuego para PS5
 - El paquete incluye una bonificación de precompra
+- Videojuego para PS5
 
 [🛒 Visítala!!!]({{< param buyurl >}})
