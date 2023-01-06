@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Catan  Juego de Mesa  Juego de Mesa Familiar  Juego de Mesa para jugar con Amigos  BGCATAN '
-date: 2023-01-05 07:19:47
+date: 2023-01-06 08:20:28
 image: 'https://m.media-amazon.com/images/I/51MLygHD0qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B006CZ0LGA/?tag=tolees-21'
 descuento: '35.67'
-average: '36.867439759036'
+average: '36.8436636636635'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado para 3 o 4 jugadores
 - Premio Spiel des Jahres 1995
-- Duración aproximada de la partida 75 min
+- Recomendado para 3 o 4 jugadores
 - Edad recomendada +10 años
+- Duración aproximada de la partida 75 min
 - Un juego que implica atención e estrategia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
