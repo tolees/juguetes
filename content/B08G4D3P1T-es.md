@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Todos los componentes LEGO City cumplen estrictas normas del sector para garantizar que sean compatibles entre sí, y se conecten y separen sin dificultad una y otra vez.
-- Los niños pueden apilar las llamas para crear grandes fuegos, disparar el cañón de agua del helicóptero y apagar incendios desde la parte superior de la torre
-- Incluye un helicóptero juguete, una moto, una estación energética y fuegos de LEGO para crear aventuras de bomberos en el parque industrial
-- Viene con una sencilla guía de construcción impresa y la experiencia Instructions PLUS: una guía de construcción interactiva para pequeños constructores, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes.
-- Incluye una guía de construcción para niños a partir de 5 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
 - Todas las piezas LEGO pasan por exigentes pruebas para asegurarnos de que cada set de construcción satisfaga rigurosos estándares mundiales de seguridad.
-- Los accesorios LEGO incluyen una camilla (almacenada en la bodega de carga del helicóptero), un casco de bombero, una llave inglesa y un casco de seguridad
-- Los sets de bomberos LEGO City fomentan el juego de interpretación imaginativo con sus detallados edificios, fantásticos vehículos, divertidos personajes y escenarios que representan la vida real de una manera entretenida e imaginativa.
 - Incluye 3 mini figuras: un trabajador de la planta, un piloto de helicóptero de bomberos y Clemmons, el héroe de la serie de TV de LEGO City Adventures
+- Incluye una guía de construcción para niños a partir de 5 años e Instructions Plus, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes
+- Viene con una sencilla guía de construcción impresa y la experiencia Instructions PLUS: una guía de construcción interactiva para pequeños constructores, parte de la app gratuita Instrucciones de Montaje LEGO para dispositivos inteligentes.
+- Los accesorios LEGO incluyen una camilla (almacenada en la bodega de carga del helicóptero), un casco de bombero, una llave inglesa y un casco de seguridad
+- Incluye un helicóptero juguete, una moto, una estación energética y fuegos de LEGO para crear aventuras de bomberos en el parque industrial
+- Los sets de bomberos LEGO City fomentan el juego de interpretación imaginativo con sus detallados edificios, fantásticos vehículos, divertidos personajes y escenarios que representan la vida real de una manera entretenida e imaginativa.
+- Los niños pueden apilar las llamas para crear grandes fuegos, disparar el cañón de agua del helicóptero y apagar incendios desde la parte superior de la torre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
