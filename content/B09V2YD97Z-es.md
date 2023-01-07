@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Focus Home Interactive - Evil West  PS5'
-date: 2023-01-06 09:34:25
+date: 2023-01-07 12:01:30
 image: 'https://m.media-amazon.com/images/I/51IcocOL+ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B09V2YD97Z/?tag=tolees-21'
 descuento: '43.52'
-average: '38.86875'
+average: '38.3144444444444'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Explora y pelea a traves de una campaña impulsada por su historia para salvar América
-- Mejora tu arsenal con habilidades, armas que podrás mejorar y herramientas
 - Mitos y leyendas se vuelven a contar dentro del extraño y estilizado universo del salvaje oeste
+- Mejora tu arsenal con habilidades, armas que podrás mejorar y herramientas
 - Pelea solo o con un amigo en combates sangrientos con estilo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
