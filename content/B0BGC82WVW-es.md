@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xbox Wireless Controller - Lunar Shift Special Edition'
-date: 2022-12-28 06:09:23
+date: 2023-01-07 16:39:37
 image: 'https://m.media-amazon.com/images/I/310Omf-NUnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xbox'
 buyurl: 'https://www.amazon.es/dp/B0BGC82WVW/?tag=tolees-21'
 descuento: '16.72'
-average: '57.47'
+average: '56.53'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
