@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - HARVESTELLA está ambientado en un mundo vibrante y colorido donde los cuatro cristales gigantes llamados "Seaslight" crean un cambio estable entre las cuatro estaciones
-- La aventura comienza cuando empiezan a aparecer anomalías en el Seaslight, creando el "Quietus", una estación de muerte que tiene lugar entre las cuatro estaciones naturales
 - Además, se aventurarán en el mundo exterior, que cambia de forma vibrante en función de la estación, para visitar diferentes pueblos, interactuar con sus habitantes, ir de pesca y mucho más
+- La aventura comienza cuando empiezan a aparecer anomalías en el Seaslight, creando el "Quietus", una estación de muerte que tiene lugar entre las cuatro estaciones naturales
 - En este juego de rol de simulación de vida, los jugadores cultivarán y cuidarán sus cosechas, utilizarán ingredientes para cocinar y fabricar objetos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
