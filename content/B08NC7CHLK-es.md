@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3-5 Jugadores
-- Basado en el programa de TV
-- Juego de imaginación
-- Ilustres Ignorantes
 - Licencia Oficial
+- Ilustres Ignorantes
+- Basado en el programa de TV
+- 3-5 Jugadores
+- Juego de imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
