@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Horipad negro  Nintendo Switch '
-date: 2022-12-23 18:06:36
+date: 2023-01-07 08:40:58
 image: 'https://m.media-amazon.com/images/I/41zDuqoDvKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01NAUATSM-es HORI - Horipad negro Nintendo Switch'
 sku: 'B01NAUATSM-es'
 tags: [ 'Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','hori','nintendo','🇪🇸', ]
-actualPrice: 19.99 EUR
+actualPrice: 16.99 EUR
 currency: EUR
-price: 19.99
+price: 16.99
 comparePrice: 29.99 EUR
 prodname: 'HORI - Horipad negro  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
 brand: 'hori'
 buyurl: 'https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21'
-descuento: '33.34'
-average: '16.9323529411765'
+descuento: '43.35'
+average: '16.934'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
 - Licencia oficial de Nintendo
 - Diseño ergonómico y cuerpo extragrande para un agarre seguro
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
 - Sin lag: conexión con cable de 3 m
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
