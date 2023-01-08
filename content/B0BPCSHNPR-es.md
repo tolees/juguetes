@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Crisis Core – Final Fantasy VII – Reunion'
-date: 2023-01-06 23:25:46
+date: 2023-01-08 13:52:07
 image: 'https://m.media-amazon.com/images/I/41rKNpKOt0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Descubre la historia de Zack, ambientada 7 años antes de FFVII
 - Banda sonora remasterizada
-- Interfaz renovada y un sistema de combate actualizado
-- Versión remasterizada de Crisis Core
 - Gráficos totalmente transformados a alta definición
+- Versión remasterizada de Crisis Core
+- Interfaz renovada y un sistema de combate actualizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
