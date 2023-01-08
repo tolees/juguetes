@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de jugadores: de 3 a 5 personas
-- El juego consta de 4 aventuras con distintos niveles de dificultad: Prision break, Virus, Cuenta atrás nuclear y El Templo Azteca
-- Juego que simula un Escape Room de verdad; El objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
-- Contenido: 4 aventuras , 16 llaves, decodificador de pistas y cronodecodificador
 - El producto necesita pilas, no vienen incluidas; El tipo de pilas que necesita son: 3xAA
+- Contenido: 4 aventuras , 16 llaves, decodificador de pistas y cronodecodificador
+- El juego consta de 4 aventuras con distintos niveles de dificultad: Prision break, Virus, Cuenta atrás nuclear y El Templo Azteca
+- Número de jugadores: de 3 a 5 personas
+- Juego que simula un Escape Room de verdad; El objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
