@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Descubre la historia de Zack, ambientada 7 años antes de FFVII
-- Banda sonora remasterizada
+- Interfaz renovada y un sistema de combate actualizado
 - Gráficos totalmente transformados a alta definición
 - Versión remasterizada de Crisis Core
-- Interfaz renovada y un sistema de combate actualizado
+- Banda sonora remasterizada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

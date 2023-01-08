@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Immortals Fenyx Rising PS5'
-date: 2022-12-27 20:27:19
+date: 2023-01-08 15:40:50
 image: 'https://m.media-amazon.com/images/I/511PC2-M58L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B08HZGX937/?tag=tolees-21'
 descuento: '17.34'
-average: '23.6077777777779'
+average: '23.0834210526317'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
