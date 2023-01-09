@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 2 - 6 jugadores
+- En esta noble edición especial del famoso juego de mesa casi no se sale del asombro: embalaje, figuras de juego y armas de madera – y todo en un elegante aspecto retro que apenas se puede escapar.
 - 6 figuras de madera
 - A partir de 8 años
-- En esta noble edición especial del famoso juego de mesa casi no se sale del asombro: embalaje, figuras de juego y armas de madera – y todo en un elegante aspecto retro que apenas se puede escapar.
-- 2 - 6 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
