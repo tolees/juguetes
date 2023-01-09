@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Peppa Pig Toy Figure PLAYSET'
-date: 2023-01-06 03:10:51
+date: 2023-01-09 15:29:27
 image: 'https://m.media-amazon.com/images/I/41sScbQ81qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WN4VNCB-es Peppa Pig Toy Figure PLAYSET'
 sku: 'B08WN4VNCB-es'
 tags: [ 'Conjuntos de figuras de juguete','Juguetes','Juguetes y juegos','Muñecos y figuras','peppa','peppa pig','pig','🇪🇸', ]
-actualPrice: 21.93 EUR
+actualPrice: 20.33 EUR
 currency: EUR
-price: 21.93
+price: 20.33
 comparePrice: 51.99 EUR
 prodname: 'Peppa Pig Toy Figure PLAYSET'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Peppa Pig'
 buyurl: 'https://www.amazon.es/dp/B08WN4VNCB/?tag=tolees-21'
-descuento: '57.82'
-average: '21.93'
+descuento: '60.90'
+average: '21.53'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
