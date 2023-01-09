@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con la tecnología IMT la estación de bomberos cobra vida, se activa la sirena con luces y sonidos
-- Mickey y sus amigos bajan por la vara y rápidamente suben al camión de bomberos
 - Funciona con 2 baterías LR6 AA
-- Los bomberos al rescate
 - Edad recomendada a partir de 3 años
+- Mickey y sus amigos bajan por la vara y rápidamente suben al camión de bomberos
+- Los bomberos al rescate
+- Con la tecnología IMT la estación de bomberos cobra vida, se activa la sirena con luces y sonidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
