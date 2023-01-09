@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Muñeca Princesa Ariel
+- Mueve la cola
 - Cambia de color
 - Ayuda a desarrollar la imaginación
-- Mueve la cola
+- Muñeca Princesa Ariel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
