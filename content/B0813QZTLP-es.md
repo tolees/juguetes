@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El set de vehículos de construcción incluye una grúa de juguete, un buldócer grande, un minibuldócer, un camión volquete, una excavadora y herramientas de cavar para los peques
+- Incluye 5 mini figuras DUPLO: una pintora y conductora de la grúa de juguete, 2 obreros y un vendedor de perritos calientes, además de la figura de un gato de juguete
 - Los peques podrán entregar suministros, construir una torre y limpiar escombros con la excavadora y el camión de juguete, ¡hay hasta un puesto de perritos calientes!
 - Incluye montones de accesorios, como ladrillos con luz y sonido para dar vida a la obra, y el motor de fricción Push & Go del buldócer de juguete
 - Los 15 accesorios de juguete distintos inspiran a los pequeños constructores de entre 2 y 5 años a jugar en diferentes escenarios y desarrollar importantes habilidades
-- Incluye 5 mini figuras DUPLO: una pintora y conductora de la grúa de juguete, 2 obreros y un vendedor de perritos calientes, además de la figura de un gato de juguete
+- El set de vehículos de construcción incluye una grúa de juguete, un buldócer grande, un minibuldócer, un camión volquete, una excavadora y herramientas de cavar para los peques
 
 [🛒 Aquí!!!]({{< param buyurl >}})

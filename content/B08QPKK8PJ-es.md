@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Product 2: Tipo de producto: juego de mesa, es necesario tener Catán - Juego Básico para jugar
+- Product 1: Un juego que implica atención e estrategia
 - Product 1: Recomendado para 3 o 4 jugadores
+- Product 2: Duración aproximada de la partida: 75 min
+- Product 2: Edad recomendada: 10 años y más
+- Product 1: Premio Spiel des Jahres 1995
 - Product 2: Un mapa más grande para dar cabida a dos jugadores más
 - Product 1: Duración aproximada de la partida 75 min
-- Product 1: Premio Spiel des Jahres 1995
-- Product 1: Un juego que implica atención e estrategia
-- Product 2: Edad recomendada: 10 años y más
-- Product 2: Tipo de producto: juego de mesa, es necesario tener Catán - Juego Básico para jugar
-- Product 2: Duración aproximada de la partida: 75 min
 
 [🛒 Aquí!!!]({{< param buyurl >}})
