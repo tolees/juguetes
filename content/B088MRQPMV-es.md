@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Muy completo centro penitenciario con una torre de 3 plantas que incluyen: almacén/oficina, sala de reconocimiento de presos y centro de vigilancia
-- El juguete incluye el escenario de la cárcel, el grabador de sonidos; 2 figuras de Pinypon Action, policía y preso y muchos pequeños accesorios
-- Este juguete es ideal para niños entre 4-8 años; para el desarrollo de su imaginación y la motricidad fina y también favoreciendo el aprendizaje de vocabulario
-- Incluye también un divertido altavoz que graba y reproduce de sonidos
 - La celda del preso tiene literas y baño y en el patio central hay accesorios de gimnasio como en las cárceles de verdad
+- Incluye también un divertido altavoz que graba y reproduce de sonidos
+- Este juguete es ideal para niños entre 4-8 años; para el desarrollo de su imaginación y la motricidad fina y también favoreciendo el aprendizaje de vocabulario
+- El juguete incluye el escenario de la cárcel, el grabador de sonidos; 2 figuras de Pinypon Action, policía y preso y muchos pequeños accesorios
+- Muy completo centro penitenciario con una torre de 3 plantas que incluyen: almacén/oficina, sala de reconocimiento de presos y centro de vigilancia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
