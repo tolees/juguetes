@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Imagina a lo grande! Esta gigantesca figura cuenta con un acabado marmolado y tiene unos colores, una forma y una textura auténticos que harán que los fans reconozcan fácilmente a este dinosaurio de Jurassic World: Dominion y quieran incluirlo en sus aventuras.
-- Los niños sacarán su instinto más salvaje con esta figura de Giganotosaurio de más de 90 cm capaz de engullir minifiguras enteras. Las minifiguras se venden por separado y están sujetas a disponibilidad.
+- Es el regalo perfecto para niños a partir de 4 años, especialmente para fans de Jurassic World, los dinosaurios y los juegos de acción a lo grande.
 - Abre su barriga para liberar a las presas que se ha comido este dinosaurio carnívoro y vuelve a empezar de nuevo.
 - Jurassic World: Dominion llega a casa cargado de emoción y aventuras con este Giganotosaurio Supercolosal que tiene un papel protagonista en la película. ¡Arrasa a la hora de jugar con el apetito insaciable de esta figura de dinosaurio extragrande!
-- Es el regalo perfecto para niños a partir de 4 años, especialmente para fans de Jurassic World, los dinosaurios y los juegos de acción a lo grande.
+- ¡Imagina a lo grande! Esta gigantesca figura cuenta con un acabado marmolado y tiene unos colores, una forma y una textura auténticos que harán que los fans reconozcan fácilmente a este dinosaurio de Jurassic World: Dominion y quieran incluirlo en sus aventuras.
+- Los niños sacarán su instinto más salvaje con esta figura de Giganotosaurio de más de 90 cm capaz de engullir minifiguras enteras. Las minifiguras se venden por separado y están sujetas a disponibilidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

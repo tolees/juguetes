@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Immortals Fenyx Rising PS4'
-date: 2023-01-07 13:15:50
+date: 2023-01-10 11:31:13
 image: 'https://m.media-amazon.com/images/I/51nlUxhzk+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07SYM7XRF/?tag=tolees-21'
 descuento: '15.71'
-average: '31.6177083333331'
+average: '31.2253061224487'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Controla el poder de los dioses
-- Esplora un estilizado mundo abierto
-- Enfrentate a bestias mitologicas
 - Supera pruebas heroicas
+- Esplora un estilizado mundo abierto
+- Controla el poder de los dioses
+- Enfrentate a bestias mitologicas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

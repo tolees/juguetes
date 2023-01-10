@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- includes 4 counters, 22 Property title cards, 16 Bounty Hunter cards, 16 Pursuit ship cards, 44 armour token cards, 2 dice and money pack.
 - Star wars Boba Fett
 - Monopoly Board Game
-- includes 4 counters, 22 Property title cards, 16 Bounty Hunter cards, 16 Pursuit ship cards, 44 armour token cards, 2 dice and money pack.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
