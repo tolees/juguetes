@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas de las cartas: 63x100 mm.
-- Juega al Snap, a las Familias, al juego de Parejas o al juego de Acción con tus personajes favoritos de Harry Potter. Modelo en español. Incluye además instrucciones en múltiples idiomas.
-- A partir de 5 años.
-- De 2 a 4 jugadores
 - 4 Juegos en 1
+- Juega al Snap, a las Familias, al juego de Parejas o al juego de Acción con tus personajes favoritos de Harry Potter. Modelo en español. Incluye además instrucciones en múltiples idiomas.
+- De 2 a 4 jugadores
+- A partir de 5 años.
+- Medidas de las cartas: 63x100 mm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

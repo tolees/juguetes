@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a partir de 8 años
-- Tiempo de juego: 20-50 minutos
 - El paquete contiene 120 cartas, 2 hojas de reglas
+- Recomendado a partir de 8 años
 - Juego de cartas para 2 a 5 jugadores
+- Tiempo de juego: 20-50 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
