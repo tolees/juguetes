@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - De 2 a 4 jugadores.
-- En este innovador juego de colocación de trabajadores, elige tus acciones con cuidado para aprovechar los limitados recursos y el tiempo de los que dispones.
-- A partir de 14 años de edad.
-- Algo ha salido mal durante un acto de sabotaje anónimo y la nave se ha estrellado en la superficie de un planeta helado e inexplorado.
-- Número de jugadores: 2-4
 - Las tensiones han ido en aumento en vuestra nave colonia.
+- Algo ha salido mal durante un acto de sabotaje anónimo y la nave se ha estrellado en la superficie de un planeta helado e inexplorado.
+- A partir de 14 años de edad.
+- En este innovador juego de colocación de trabajadores, elige tus acciones con cuidado para aprovechar los limitados recursos y el tiempo de los que dispones.
+- Número de jugadores: 2-4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
