@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Versión española
+- Incluye un mando como en la serie de televisión con 6 colores diferentes
 - Pocoyó habla y tiene música y sonido
 - figura de Pocoyó de 25 centímetros que cambia de color mágicamente
 - Juguete bilingüe
-- Incluye un mando como en la serie de televisión con 6 colores diferentes
 - Aprende con Pocoyó los colores y los estados de ánimo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
