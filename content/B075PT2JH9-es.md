@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 4 mini figuras LEGO clásicas de la tripulación: Han Solo, Chewbacca, princesa Leia y C-3PO, además de 3 tripulantes del Episodio VII/VIII: Han Solo Mayor, Rey y Finn
 - Podrás construir un droide BB-8, 2 Porgs y un Mynock mientras admiras los intrincados destalles del casco, el plato sensor, los cañones láser cuádruples y el oculto cañón bláster
+- Incluye 4 mini figuras LEGO clásicas de la tripulación: Han Solo, Chewbacca, princesa Leia y C-3PO, además de 3 tripulantes del Episodio VII/VIII: Han Solo Mayor, Rey y Finn
+- Aterriza la nave estelar ultrarrápida de Han Solo en tu casa con este increíble set de construcción del Millennium Falcon, ¡un modelo repleto de detalles y divertidas funciones!
+- Este coleccionable de Star Wars de LEGO para adultos cuenta con capota desmontable y espacio en cabina para 4 mini figuras, ¡descubre el compartimento oculto del suelo!
 - Esta detallada maqueta para construir cuenta con una placa informativa y puede convertirse en la decoración de Star Wars para casa perfecta, ¡te sentirás orgulloso de exhibirla!
 - Con 7.541 piezas los fans de LEGO Star Wars podrán cambiar las características de los personajes y alternar entre la versión clásica y Episodio VII/VIII del Halcón Milenario
-- Aterriza la nave estelar ultrarrápida de Han Solo en tu casa con este increíble set de construcción del Millennium Falcon, ¡un modelo repleto de detalles y divertidas funciones!
 - Explora toda la gama de kits de construcción de LEGO Star Wars para descubrir una variedad de regalos de Star Wars que encantarán a fans de todas las edades
-- Este coleccionable de Star Wars de LEGO para adultos cuenta con capota desmontable y espacio en cabina para 4 mini figuras, ¡descubre el compartimento oculto del suelo!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

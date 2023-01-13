@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un juego de construcción lleno de accesorios: pizarra, cofre del tesoro, armario de almacenamiento, copa, libro de hechizos, 2 escritos, 2 sillas y variados suministros mágicos
 - Los niños abren la tapa del set LEGO para entrar en la clase de Transfiguración de la profesora McGonagall. ¡Ron necesita ayuda, su mascota rata se ha convertido en una copa!
 - Incluye 3 mini figuras LEGO Harry Potter: Hermione Granger, Ron Weasley y la profesora McGonagall, además de Scabbers, la rata mascota de Ron, y una rana para practicar magia
+- Un juego de construcción lleno de accesorios: pizarra, cofre del tesoro, armario de almacenamiento, copa, libro de hechizos, 2 escritos, 2 sillas y variados suministros mágicos
 - Este set LEGO es el regalo de Harry Potter perfecto para cumpleaños o en cualquier ocasión para niños de 8 años en adelante fans de Harry Potter y la escuela de magia Hogwarts
 - Juguete coleccionable junto con otros sets Momento Hogwarts, divertidos libros que se entrelazan en un innovador espacio de 360 grados para recrear diferentes aulas de magia de Hogwarts
 - Este libro portátil de juguete de viaje para niños de 8 años o más tiene el tamaño perfecto, los peques pueden cerrarlo y llevarlo a todas partes, ¡la magia nunca termina!

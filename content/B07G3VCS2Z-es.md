@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta moto LEGO destacará expuesta en casa o en la oficina por su emblemático carácter
-- Mide más de 20 cm de altura, 18 cm de ancho y 33 cm de longitud
-- Viene con una genuina combinación de colores en rojo oscuro y negro
-- Elementos decorados incluidos: 2 baldosas 2 x 4 de color rojo oscuro con el emblema del depósito de la Harley-Davidson Fat Boy impreso
 - Cuenta con ruedas Lakester, depósito de combustible y velocímetro integrado, motor Milwaukee-Eight y doble tubo de escape, un manillar, un pedal y palancas de freno, una pata de apoyo y un soporte
+- Mide más de 20 cm de altura, 18 cm de ancho y 33 cm de longitud
 - Gira la rueda trasera y mira cómo cobran vida los pistones del motor Milwaukee-Eight
+- Viene con una genuina combinación de colores en rojo oscuro y negro
 - Elementos especiales incluidos: llanta trasera con neumático superancho
+- Elementos decorados incluidos: 2 baldosas 2 x 4 de color rojo oscuro con el emblema del depósito de la Harley-Davidson Fat Boy impreso
+- Esta moto LEGO destacará expuesta en casa o en la oficina por su emblemático carácter
 
 [🛒 Visítala!!!]({{< param buyurl >}})
