@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Es un regalo de cumpleaños o de Navidad estupendo para los jóvenes fans de LEGO o de la ciencia que estén buscando una experiencia de construcción más desafiante
+- Viene con instrucciones ilustradas paso a paso para que los peques puedan construirlo con confianza
+- El esqueleto de T. rex está articulado y trae una base para exponerlo al estilo de un museo; hará las delicias de los pequeños paleontólogos a partir de 7 años
 - Este juguete para niños de T.rex incluye las minifiguras de Darius y Owen Grady, además de una figura de una cría de Triceratops
 - Este juguete repleto de diversión que muestra una exposición del Tyrannosaurus rex fosilizado para niños incluye una maqueta construible de un T. rex
-- El esqueleto de T. rex está articulado y trae una base para exponerlo al estilo de un museo; hará las delicias de los pequeños paleontólogos a partir de 7 años
-- Viene con instrucciones ilustradas paso a paso para que los peques puedan construirlo con confianza
 - Dispone además de una pizarra construible y muchos accesorios de LEGO como un puntero, un huevo de dinosaurio, dientes fosilizados y una hoja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
