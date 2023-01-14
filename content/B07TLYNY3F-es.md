@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rodamiento de cartucho y anillos en DU
-- Una plataforma fina y ligera con forma cóncava
 - El eje es de acero cromado
+- Una plataforma fina y ligera con forma cóncava
 - 21 pines de tracción hexagonal por pedal (8 por lado)
+- Rodamiento de cartucho y anillos en DU
 
 [🛒 Aquí!!!]({{< param buyurl >}})
