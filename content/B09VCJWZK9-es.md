@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens Edición 2 Jugadores - Juego de Cartas en Español'
-date: 2023-01-13 16:36:23
+date: 2023-01-15 19:05:28
 image: 'https://m.media-amazon.com/images/I/41EwhJkRTfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Exploding Kittens'
 buyurl: 'https://www.amazon.es/dp/B09VCJWZK9/?tag=tolees-21'
 descuento: '15.02'
-average: '8.62571428571428'
+average: '8.60874999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un juego de cartas para los amantes de los gatos y de las explosiones, ahora para dos jugadores
 - Para 2 jugadores; apartir de 7 años de edad
+- A NO SER que pueda desactivar al gato con cosas como un puntero láser o frotándole la barriga
 - Usa cartas de acción para pasar tu turno, para mirar en secreto una carta antes de robarla o para forzar a tu oponente a robar en vez de robar tú
 - Los jugadores roban cartas hasta que alguien robe al EXPLODING KITTEN momento en el que EXPLOTA y PIERDE LA PARTIDA
-- A NO SER que pueda desactivar al gato con cosas como un puntero láser o frotándole la barriga
+- Un juego de cartas para los amantes de los gatos y de las explosiones, ahora para dos jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Código Secreto  Juego de Mesa  Juego de Cartas  Juego para jugar con Amigos  Party  BGCOSE '
-date: 2023-01-14 13:50:29
+date: 2023-01-15 21:05:31
 image: 'https://m.media-amazon.com/images/I/41UsSowjE9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B019M2EA3Y/?tag=tolees-21'
 descuento: '15.00'
-average: '19.3548181818183'
+average: '19.35185520362'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Duración: 15 minutos
+- Para mayores de 8 años
 - De 2 a 8 jugadores
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
-- Para mayores de 8 años
-- Duración: 15 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
