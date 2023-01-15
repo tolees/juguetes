@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment - Bang! - Juego de Cartas en Español'
-date: 2023-01-14 13:20:22
+date: 2023-01-15 17:05:41
 image: 'https://m.media-amazon.com/images/I/41rHvpvVvaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Edge Entertainment'
 buyurl: 'https://www.amazon.es/dp/B00YUZ7BI0/?tag=tolees-21'
 descuento: '15.01'
-average: '18.8898067632852'
+average: '18.8888461538463'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De 4 a 7 Jugadores
-- En el Salvaje Oeste, los Forajidos dan caza al Sheriff, el Sheriff da caza a los Forajidos, y el Renegado urde su plan en secreto, listo para unirse a cualquiera de los bandos. Dentro de poco, ¡las balas comenzarán a zumbar!
-- De 20 a 30 minutos de duración
-- Aclamado por más de medio millón de pistoleros de todo el mundo
 - Gran clásico de los juegos de cartas
+- De 20 a 30 minutos de duración
+- En el Salvaje Oeste, los Forajidos dan caza al Sheriff, el Sheriff da caza a los Forajidos, y el Renegado urde su plan en secreto, listo para unirse a cualquiera de los bandos. Dentro de poco, ¡las balas comenzarán a zumbar!
+- Aclamado por más de medio millón de pistoleros de todo el mundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

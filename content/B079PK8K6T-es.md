@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: puzle de 125 piezas
-- Se puede jugar individualmente o en grupo
-- Cada país es una pieza diferente de esta manera se puede jugar con las piezas por separado para aprender el perfil de país
-- Habilidades que desarrolla: los niños aprenden a localizar los diferentes países que forman Europa y desarrolla la capacidad de concentración, mejora la coordinación ojo-mano y la motricidad fina
 - En el mapa encontramos los nombres de los países y de sus capitales, dibujos de los elementos culturales como monumentos o personajes típicos de cada uno de ellos y también los nombres de los mares y oceanos que rodean el contintente
+- Habilidades que desarrolla: los niños aprenden a localizar los diferentes países que forman Europa y desarrolla la capacidad de concentración, mejora la coordinación ojo-mano y la motricidad fina
+- Se puede jugar individualmente o en grupo
+- Contenido: puzle de 125 piezas
+- Cada país es una pieza diferente de esta manera se puede jugar con las piezas por separado para aprender el perfil de país
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
