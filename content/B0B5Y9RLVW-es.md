@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Combínalo con Throw Throw Burrito
 - Una combinación de juego de cartas y balón prisionero donde los jugadores se enfrentan cara a cara mientras roban cartas, ganan puntos y se tiran Aguacates unos a otros
 - Un Juego de Cartas de Balón Prisionero de Los Creadores de y Exploding Kittens
-- Este es un juego totalmente diferente a cualquier otro que hayas jugado antes
-- Combínalo con Throw Throw Burrito
 - De 2 a 6 jugadores; a partir de 7 años
+- Este es un juego totalmente diferente a cualquier otro que hayas jugado antes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
