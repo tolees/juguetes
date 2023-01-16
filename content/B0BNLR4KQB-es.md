@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muchas decisiones interesantes en un juego de partidas acotadas, giros inesperados y puntuaciones apretadas
 - Aprovecha las mejores formas de puntuar en cada momento a través del draft de cartas
+- Muchas decisiones interesantes en un juego de partidas acotadas, giros inesperados y puntuaciones apretadas
 - Uno de los mejores juegos de Reiner Knizia de los últimos años corte familiar plus
 
 [🛒 Comprar!!!]({{< param buyurl >}})
