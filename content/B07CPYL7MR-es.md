@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Exit: La estación polar  Ed. Español  BGEXIT6 '
-date: 2023-01-09 14:39:29
+date: 2023-01-16 09:38:26
 image: 'https://m.media-amazon.com/images/I/51Gd+NZu8bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devir'
 buyurl: 'https://www.amazon.es/dp/B07CPYL7MR/?tag=tolees-21'
 descuento: '33.67'
-average: '10.5286956521739'
+average: '10.6844'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de los 12 años
-- Duración: 45-90 minutos
 - Dificultad: medio
-- Idioma principal: español
+- Duración: 45-90 minutos
+- A partir de los 12 años
 - De 1 a 4 jugadores
+- Idioma principal: español
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07CPYL7MR{{</world>}}
