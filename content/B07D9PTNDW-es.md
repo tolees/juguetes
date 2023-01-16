@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Game Boy - Classic Collection Unisex Posavasos Standard Corcho'
-date: 2023-01-15 13:31:06
+date: 2023-01-16 16:29:57
 image: 'https://m.media-amazon.com/images/I/51dqpT62piL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07D9PTNDW/?tag=tolees-21'
 descuento: '19.13'
-average: '7.08714285714286'
+average: '7.11'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: tamaño estándar
 - Fan merch, Game Boy, Nintendo, Retro Gaming, Videojuegos
 - ¡Un auténtico destacado para tu casa!
-- Posavasos con las siguientes características:
 - Posavasos || Merch para fans y divertido || Patrón: monocromo
+- Medidas: tamaño estándar
+- Posavasos con las siguientes características:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B07D9PTNDW{{</world>}}
