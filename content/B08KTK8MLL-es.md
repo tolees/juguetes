@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego de Mesa en Español
-- Recomendado a Partir de 8 Años de Edad
 - Con una duración de 30 minutos por partida
-- Incluye dos modos de juego: por turnos y en tiempo real.
+- Juego de Mesa en Español
 - Juego de 2 a 4 Jugadores
+- Incluye dos modos de juego: por turnos y en tiempo real.
+- Recomendado a Partir de 8 Años de Edad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KTK8MLL{{</world>}}
