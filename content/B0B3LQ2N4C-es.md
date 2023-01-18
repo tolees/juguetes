@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Este juego incluye compras opcionales de moneda virtual que se puede usar para adquirir artículos virtuales, entre los que se incluye una selección aleatoria de artículos virtuales para el juego.
 - En VOLTA FOOTBALL y Clubes Pro, lleva más personalidad a la cancha con nuevos niveles de personalización y una jugabilidad en las calles y en los estadios mejorada. Juegues como juegues, disfruta del Juego de Todos con más de 19,000 jugadores, más de 700 equipos, más de 100 estadios y más de 30 ligas, incluidas la UEFA Champions League, la Premier League, las nuevas Barclays FA WSL y D1 Arkema de Francia, con un realismo inigualable. Todo en FIFA 23.
 - Disfruta de una nueva forma de jugar y crea la plantilla de tus sueños con Momentos de FUT y un sistema de química renovado en FIFA Ultimate Team o haz realidad tus sueños futbolísticos en el modo Carrera mientras defines tu personalidad como futbolista o te conviertes en una de las figuras más importantes de la dirección técnica.
-- Este juego incluye compras opcionales de moneda virtual que se puede usar para adquirir artículos virtuales, entre los que se incluye una selección aleatoria de artículos virtuales para el juego.
 - EA SPORTS FIFA 23 incorpora al Juego de Todos la FIFA World Cup masculina y femenina, que estarán disponibles durante la temporada como actualizaciones posteriores al lanzamiento, equipos de clubes femeniles por primera vez, el Cross-Play, con el que podrás enfrentarte a tus amistades independientemente de la plataforma que usen*, y nuevas formas de jugar tus modos favoritos en Xbox One.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
