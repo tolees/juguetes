@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diafragma de imanes de neodimio de 40 mm
 - Controles de audio y micrófono integrados
+- Diafragma de imanes de neodimio de 40 mm
+- Micrófono extraíble y flexible
 - Licencia oficial de Nintendo
 - Diadema acolchada y regulable W-FIT, ideal para largas sesiones de juego
-- Micrófono extraíble y flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KYG4M4N{{</world>}}

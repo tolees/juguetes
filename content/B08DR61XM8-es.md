@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tablero personalizado
 - Peones personalizados
-- Caja ilustrada
 - Licencia oficial
 - 2 a 4 jugadores
+- Caja ilustrada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DR61XM8{{</world>}}
