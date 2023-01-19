@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impedancia: 32 ohms
-- Retroiluminación LED
-- Longitud del cable: 2.4 m
 - Sensibilidad: 58 dB
+- Impedancia: 32 ohms
+- Longitud del cable: 2.4 m
+- Retroiluminación LED
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08435KDGK{{</world>}}
