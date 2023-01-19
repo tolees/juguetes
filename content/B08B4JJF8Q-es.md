@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego compatible con PlayStation 5
-- Incluye juego completo
 - Combate en vehículos y velocidad
 - Desarrollador: Lucid Games
+- Incluye juego completo
+- Juego compatible con PlayStation 5
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08B4JJF8Q{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- "La figura Battle Cat viene con una función de ataque con resorte inspirada en los movimientos de ataque de los personajes para dar vida a la serie. ¡Activarla es muy fácil! "
-- "Una montura hace que la historia sea aún más interesante, especialmente cuando se usa con figuras de acción de 14 cm de He-Man and The Masters of the Universe (se venden por separado). "
 - "Los niños y los aficionados las querrán todas para exhibirlas y disfrutar recreando batallas épicas. Estas figuras son un gran regalo para los aficionados de MOTU a partir de 4 años (se venden por separado y están sujetas a disponibilidad). "
+- "Una montura hace que la historia sea aún más interesante, especialmente cuando se usa con figuras de acción de 14 cm de He-Man and The Masters of the Universe (se venden por separado). "
+- "La figura Battle Cat viene con una función de ataque con resorte inspirada en los movimientos de ataque de los personajes para dar vida a la serie. ¡Activarla es muy fácil! "
 - "Las figuras de acción de He-Man and The Masters of the Universe, perfectas para jugar y exhibir, rinden homenaje a la serie de animación de Netflix. "
 - "El intrépido tigre mide 14 cm de alto y casi 31 cm de largo y tiene un estilo ostentoso, características de gran tamaño, como garras gigantes, y está articulado para que pueda adoptar poses de batalla. "
 
