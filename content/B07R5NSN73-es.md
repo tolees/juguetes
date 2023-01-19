@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DANS LA VILLE DU FUTUR Découvrez la démesure du monde ouvert de Night City, qui établit de nouvelles normes en termes de visuels, de complexité et de profondeur.
-- Bonus édition D1 : - La bande originale du jeu - Un petit artbook contenant une sélection dart du jeu - Le livre original Cyberpunk 2020 - Des arrière-plans pour ordinateur et mobile.Le jeu sera également jouable sur PlayStation 5 une fois la console disponible. Une mise à jour de Cyberpunk 2077 sera offerte à une date ultérieure, afin de profiter pleinement des consoles de nouvelle génération, pour tous les possesseurs de la version PlayStation 4 du jeu.
+- EN QUÊTE DE LA VIE ÉTERNELLE Acceptez le boulot le plus dangereux de votre vie et partez à la recherche dun prototype dimplant qui serait la clé de la vie éternelle.
 - MERCENAIRE ET HORS-LA-LOI Devenez un cyberpunk, sorte de mercenaire urbain doté daméliorations cybernétiques, et forgez votre légende dans les rues de Night City.
 - Le jeu est fourni avec les objets physiques suivants : - Un boîtier contenant les disques du jeu - Un Compendium de lunivers et du lore du jeu - Des cartes postales de Night City - Une carte de Night City - Des autocollants
-- EN QUÊTE DE LA VIE ÉTERNELLE Acceptez le boulot le plus dangereux de votre vie et partez à la recherche dun prototype dimplant qui serait la clé de la vie éternelle.
+- DANS LA VILLE DU FUTUR Découvrez la démesure du monde ouvert de Night City, qui établit de nouvelles normes en termes de visuels, de complexité et de profondeur.
+- Bonus édition D1 : - La bande originale du jeu - Un petit artbook contenant une sélection dart du jeu - Le livre original Cyberpunk 2020 - Des arrière-plans pour ordinateur et mobile.Le jeu sera également jouable sur PlayStation 5 une fois la console disponible. Une mise à jour de Cyberpunk 2077 sera offerte à une date ultérieure, afin de profiter pleinement des consoles de nouvelle génération, pour tous les possesseurs de la version PlayStation 4 du jeu.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07R5NSN73{{</world>}}
