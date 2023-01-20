@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alimentación mediante cable USB tipo C
 - Compatible con PlayStation 5
 - Indicador LED de estado de carga
-- Alimentación mediante cable USB tipo C
 - Diseño elegante y estable a juego con el mando
 - Carga dos mandos DualSense a la vez
 
