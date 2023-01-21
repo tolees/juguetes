@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO STAR WARS - LEGO 75192 Star Wars Millennium Falcon  Maqueta para Construir'
-date: 2023-01-20 03:45:53
+date: 2023-01-21 04:00:24
 image: 'https://m.media-amazon.com/images/I/51R2MaM2aZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.es/dp/B075PT2JH9/?tag=tolees-21'
 descuento: '36.61'
-average: '840.635860869563'
+average: '840.584062499998'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aterriza la nave estelar ultrarrápida de Han Solo en tu casa con este increíble set de construcción del Millennium Falcon, ¡un modelo repleto de detalles y divertidas funciones!
-- Podrás construir un droide BB-8, 2 Porgs y un Mynock mientras admiras los intrincados destalles del casco, el plato sensor, los cañones láser cuádruples y el oculto cañón bláster
-- Este coleccionable de Star Wars de LEGO para adultos cuenta con capota desmontable y espacio en cabina para 4 mini figuras, ¡descubre el compartimento oculto del suelo!
-- Con 7.541 piezas los fans de LEGO Star Wars podrán cambiar las características de los personajes y alternar entre la versión clásica y Episodio VII/VIII del Halcón Milenario
 - Esta detallada maqueta para construir cuenta con una placa informativa y puede convertirse en la decoración de Star Wars para casa perfecta, ¡te sentirás orgulloso de exhibirla!
+- Aterriza la nave estelar ultrarrápida de Han Solo en tu casa con este increíble set de construcción del Millennium Falcon, ¡un modelo repleto de detalles y divertidas funciones!
 - Explora toda la gama de kits de construcción de LEGO Star Wars para descubrir una variedad de regalos de Star Wars que encantarán a fans de todas las edades
+- Podrás construir un droide BB-8, 2 Porgs y un Mynock mientras admiras los intrincados destalles del casco, el plato sensor, los cañones láser cuádruples y el oculto cañón bláster
+- Con 7.541 piezas los fans de LEGO Star Wars podrán cambiar las características de los personajes y alternar entre la versión clásica y Episodio VII/VIII del Halcón Milenario
 - Incluye 4 mini figuras LEGO clásicas de la tripulación: Han Solo, Chewbacca, princesa Leia y C-3PO, además de 3 tripulantes del Episodio VII/VIII: Han Solo Mayor, Rey y Finn
+- Este coleccionable de Star Wars de LEGO para adultos cuenta con capota desmontable y espacio en cabina para 4 mini figuras, ¡descubre el compartimento oculto del suelo!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075PT2JH9{{</world>}}
