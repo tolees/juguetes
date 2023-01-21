@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41671 LEGO Friends Cubo de Nadadora de Andrea'
-date: 2023-01-16 23:30:04
+date: 2023-01-21 01:57:34
 image: 'https://m.media-amazon.com/images/I/51axdZb5WtS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WX8VT45-es LEGO 41671 LEGO Friends Cubo de Nadadora de Andrea'
 sku: 'B08WX8VT45-es'
 tags: [ 'Juegos de construcción para niños','Juguetes','Juguetes y juegos','Sets de construcción','lego','🇪🇸', ]
-actualPrice: 6.56 EUR
+actualPrice: 7.28 EUR
 currency: EUR
-price: 6.56
+price: 7.28
 comparePrice: 9.99 EUR
 prodname: 'LEGO 41671 LEGO Friends Cubo de Nadadora de Andrea'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B08WX8VT45/?tag=tolees-21'
-descuento: '34.33'
-average: '6.70666666666667'
+descuento: '27.13'
+average: '6.78857142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
