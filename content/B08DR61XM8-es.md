@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Super Mario Bros: Monopoly'
-date: 2023-01-21 13:40:48
+date: 2023-01-22 15:21:24
 image: 'https://m.media-amazon.com/images/I/51IEV+khjEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hasbro'
 buyurl: 'https://www.amazon.es/dp/B08DR61XM8/?tag=tolees-21'
 descuento: '28.36'
-average: '31.2546428571429'
+average: '31.2872413793104'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Licencia oficial
 - Tablero personalizado
-- 2 a 4 jugadores
 - Caja ilustrada
+- 2 a 4 jugadores
+- Licencia oficial
 - Peones personalizados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
