@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disfruta de combates que aúnan acción y estrategia. Controla directamente a los personajes y arrasa con hordas de enemigos al puro estilo de la serie Warriors, mientras das órdenes a tus aliados.
-- La acción tiene lugar en Fódlan, una tierra dominada por tres potencias. Fire Emblem Warriors: Three Hopes utiliza el mundo y los personajes de Fire Emblem: Three Houses para narrar una historia completamente nueva.
 - Piensa de manera táctica para decidir a dónde desplazarte, según el estado del campo de batalla. Entre los combates, podrás interactuar con personajes cautivadores de Fire Emblem: Three Houses.
+- La acción tiene lugar en Fódlan, una tierra dominada por tres potencias. Fire Emblem Warriors: Three Hopes utiliza el mundo y los personajes de Fire Emblem: Three Houses para narrar una historia completamente nueva.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09S4VMP5K{{</world>}}
