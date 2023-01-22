@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El juego consta de 4 aventuras con distintos niveles de dificultad: Casino, Agente Secreto, Estación espacial y El dentista
+- Contenido: 4 aventuras + 1 introductoria (15mins), 16 llaves, decodificador de pistas, cronodecodificador
 - Juego que simula un Escape Room de verdad; El objetivo es conseguir resolver las 4 aventuras en menos de 1 hora cada una resolviendo enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas
+- El juego consta de 4 aventuras con distintos niveles de dificultad: Casino, Agente Secreto, Estación espacial y El dentista
 - El producto necesita pilas, no vienen incluidas; El tipo de pilas que necesita son: 3xAA
 - Número de jugadores: de 3 a 5 personas
-- Contenido: 4 aventuras + 1 introductoria (15mins), 16 llaves, decodificador de pistas, cronodecodificador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07D3M9HMM{{</world>}}
