@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Synapses Games SYCOA01ML Coatl - Juego de Mesa'
-date: 2023-01-22 12:41:03
+date: 2023-01-23 18:33:42
 image: 'https://m.media-amazon.com/images/I/61uRHQ8G+sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Synapses Games'
 buyurl: 'https://www.amazon.es/dp/B08L877XZC/?tag=tolees-21'
 descuento: '37.11'
-average: '27.5286206896552'
+average: '27.4493333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Si quieres que recaiga en ti semejante honor deberás esculpir la escultura más intrincada y elegante de un coatl, la popular serpiente emplumada.
+- A partir de 10 años de Edad
 - Se aproxima el nombramiento de un nuevo sumo sacerdote azteca.
 - De 1 a 4 Jugadores
-- A partir de 10 años de Edad
 - Juego de mesa en Español
 
 [🛒 Visítala!!!]({{< param buyurl >}})
