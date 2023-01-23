@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño colorido y decorado con pretzels
-- Edad recomendada: 3+
-- Longitud del vehículo: 6 cm
 - Vehículo de metal Hello Kitty con ruedas de sistema de giro libre
 - Con figura extraíble de Hello Kitty
+- Longitud del vehículo: 6 cm
+- Edad recomendada: 3+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZPLM6Q6{{</world>}}
