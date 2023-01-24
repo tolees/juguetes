@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA Mega Drive Classics - Nintendo Switch - Nintendo Switch [Importación inglesa]'
-date: 2023-01-20 17:02:25
+date: 2023-01-24 13:02:38
 image: 'https://m.media-amazon.com/images/I/51buRYaCU4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fonctionnalité multijoueur en ligne pour les titres qui prennent en charge 2+ joueurs
-- Prise en charge de lécran tactile pour la navigation dans les menus
-- Plus de 50 favoris rétro dans un grand paquet
+- Supports TV, Tabletop, and Handheld Modes Touch screen support for menu navigation Online multiplayer - 2 players, Single-screen local multiplayer Leaderboards Additional graphics filters
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07L953VTQ{{</world>}}
