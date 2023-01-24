@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Conexión universal para tubos de 25 mm (1 «) y 32 mm (1¼») y G1 (33,3 mm aprox.) rosca macho
-- Enrollar el cable
-- Codo de 90° rosca macho G1½ (47,8 mm aprox.) x rosca macho G1½ (47,8 mm aprox.)
 - Flotar
+- Codo de 90° rosca macho G1½ (47,8 mm aprox.) x rosca macho G1½ (47,8 mm aprox.)
 - Asa de transporte
+- Enrollar el cable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00B18KAFK{{</world>}}
