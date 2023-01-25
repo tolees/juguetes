@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jumbo - Vamps  Juego de mesa Familiar de cartas a partir de 6 años'
-date: 2023-01-24 11:40:38
+date: 2023-01-25 19:06:11
 image: 'https://m.media-amazon.com/images/I/51r1c52TbsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jumbo'
 buyurl: 'https://www.amazon.es/dp/B08WLVBPYC/?tag=tolees-21'
 descuento: '17.88'
-average: '8.67000000000001'
+average: '8.62466666666668'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contenido: 90 cartas y instrucciones de juego
 - Juego de cartas familiar que consiste en intentar eliminar a todos los vampiros que se pueda, usando las cartas de las que se dispone
-- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
-- Juego de estrategia de cartas adecuado para pasar una tarde con amigos y familias con niños
 - Número de jugadores: de 2 a 4
+- Contenido: 90 cartas y instrucciones de juego
+- Juego de estrategia de cartas adecuado para pasar una tarde con amigos y familias con niños
+- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLVBPYC{{</world>}}
