@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Figura de acción de Spider-Man Piloto Flex
 - Producto adecuado para niños a partir de 4 años
 - Figuras flexibles de 15 cm
-- Figura de acción de Spider-Man Piloto Flex
 - Marvel Bend and Flex
 
 [🛒 Visítala!!!]({{< param buyurl >}})
