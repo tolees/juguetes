@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SE VENDE POR UNIDAD
 - Artículo nuevo y licenciado
 - Producto oficial - Envoltorio original
-- SE VENDE POR UNIDAD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KCTQ36E{{</world>}}
