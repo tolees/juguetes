@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spider-Man - Spiderman Bend and Flex Vehiculo  Hasbro F02365L0 '
-date: 2023-01-25 09:37:32
+date: 2023-01-26 17:01:01
 image: 'https://m.media-amazon.com/images/I/41ijBofX3VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Spider-Man'
 buyurl: 'https://www.amazon.es/dp/B08F2PCMJN/?tag=tolees-21'
 descuento: '58.54'
-average: '14.3615'
+average: '14.2104761904762'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Figuras flexibles de 15 cm
 - Producto adecuado para niños a partir de 4 años
+- Figuras flexibles de 15 cm
 - Figura de acción de Spider-Man Piloto Flex
 - Marvel Bend and Flex
 
