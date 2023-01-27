@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Descubre diversas regiones en busca de reliquias y recursos
 - Αtiende tu granja para cultivar tus propias provisiones y emprende misiones
+- ¡Descubre diversas regiones en busca de reliquias y recursos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B094Z1PVTR{{</world>}}
