@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Posición y rotación de la placa de cambio y anclajes ajustables en 360°
-- Mecanismo interno 100% metálico
 - Para PC: funciona con todos los volantes de carreras del mercado; Para PS3 y PS4: funciona con los volantes de carreras T500RS, Ferrari F1 Wheel Integral T500, T300RS, T300 Ferrari GTE, T150 y T-GT; Para Xbox One: funciona con el TX Racing Wheel, TMX y el TS-XW
 - Precisión que no se reduce con el tiempo (sensor magnético sin contactos). Sin tact switch ni potenciómetro (para lograr una vida útil ilimitada del producto)
+- Mecanismo interno 100% metálico
+- Sensación realista de cambio de marchas
 - Compatible con los pomos universales reales
 - Palanca de cambio de 13 cm de alto con pomo
-- Sensación realista de cambio de marchas
+- Posición y rotación de la placa de cambio y anclajes ajustables en 360°
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B005L0Z2BQ{{</world>}}
