@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 22 Standard Edition PS4'
-date: 2023-01-22 17:32:03
+date: 2023-01-28 06:31:38
 image: 'https://m.media-amazon.com/images/I/41Mq-1xQJ+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B098PT2W5Z/?tag=tolees-21'
 descuento: '39.72'
-average: '48.8757142857144'
+average: '48.3562000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aprendizaje automático: El algoritmo de aprendizaje automático de vanguardia obtiene información de más de 8,7 millones de fotogramas de la captura avanzada de partidos y genera animaciones en tiempo real
 - El algoritmo ML - Flow genera nuevas animaciones en tiempo gracias a los más de 8,7 millones de fotogramas obtenidos mediante la captura avanzada de partidos 11 contra 11. De este modo, los jugadores pueden ajustar mejor la distancia que cubren con cada zancada y su velocidad cuando se acercan al balón para controlarlo o disparar con precisión
-- Juego de PlayStation4 compatible con PlayStation5. Este producto no cuenta con características y contenido de PS5.
+- Todos los datos obtenidos de los toques, las entradas, los sprints y los duelos suponen la mayor actualización de animaciones de la historia de FIFA. Se han añadido más de 4000 animaciones
 - Las animaciones de dos toques son más largas y facilitan el control de los balones aéreos, proporcionan más agilidad a la hora de interceptar tiros rasos y aumentan la fuerza cuando hay que protegerse de los rivales
+- Juego de PlayStation4 compatible con PlayStation5. Este producto no cuenta con características y contenido de PS5.
 - Los jugadores ahora pueden tomar hasta seis veces más decisiones por segundo, por lo que son más conscientes de lo que hay a su alrededor, se mueven con más inteligencia para desarrollar las jugadas y reaccionan más rápido cuando el balón se queda en tierra de nadie
 - Captura avanzada de partidos 11 contra 11: Por primera vez, los trajes Xsens nos han permitido capturar los movimientos de 22 futbolistas profesionales jugando a alta intensidad
-- Todos los datos obtenidos de los toques, las entradas, los sprints y los duelos suponen la mayor actualización de animaciones de la historia de FIFA. Se han añadido más de 4000 animaciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B098PT2W5Z{{</world>}}
