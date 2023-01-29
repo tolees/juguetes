@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbox Now - Unlock! Mythic Adventures - Juego de Mesa en Español'
-date: 2023-01-25 16:11:26
+date: 2023-01-29 10:10:49
 image: 'https://m.media-amazon.com/images/I/519mK4IcKiS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Unbox Now'
 buyurl: 'https://www.amazon.es/dp/B093WNP9BJ/?tag=tolees-21'
 descuento: '27.79'
-average: '25.9705882352942'
+average: '25.6684210526317'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De 1 a 6 jugadores
+- Los Escape Room son salas de las que tienes que escapar en menos de 60 minutos. Unlock! Te permite vivir esta experiencia en tu casa, alrededor de una mesa.
 - A partir de 10 años de edad
 - Un juego de cartas cooperativo inspirado en un Escape Room.
 - ¡Tres Aventuras Espeluznantes!
-- Los Escape Room son salas de las que tienes que escapar en menos de 60 minutos. Unlock! Te permite vivir esta experiencia en tu casa, alrededor de una mesa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B093WNP9BJ{{</world>}}
