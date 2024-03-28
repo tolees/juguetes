@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Fisher-Price Gimnasio casita de campo 2 en 1 Alfombra de actividades  manta se convierte en cabaña  juguete con luces y sonidos  regalo para bebé recién nacido  Mattel HJK45 '
+date: 2024-02-17 20:03:49
+image: 'https://m.media-amazon.com/images/I/41xQKypFnyL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09NPB46FY-es Fisher-Price Gimnasio casita de campo 2 en 1 Alfombra de...'
+sku: 'B09NPB46FY-es'
+tags: [ 'Actividad y entretenimiento','Alfombras de juego y gimnasios','Bebé','fisher-price','mattel','🇪🇸', ]
+actualPrice: 37.49 EUR
+currency: EUR
+price: 37.49
+comparePrice: 79.99 EUR
+prodname: 'Fisher-Price Gimnasio casita de campo 2 en 1 Alfombra de actividades  manta se convierte en cabaña  juguete con luces y sonidos  regalo para bebé recién nacido  Mattel HJK45 '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Fisher-Price'
+buyurl: 'https://www.amazon.es/dp/B09NPB46FY/?tag=tolees-21'
+descuento: '53.13'
+average: '41.063'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Ayuda a desarrollar las habilidades sensoriales y las habilidades de motricidad fina y gruesa de los bebés desde que nacen y a medida que crecen
+- La alfombra de juego se puede lavar en la lavadora y ofrece mucho espacio para jugar tanto a recién nacidos como a los niños que van creciendo
+- El gimnasio de actividades para bebés se transforma para ofrecer 3 modos de juego a medida que tu bebé crece: alfombra de juego para tumbarlo, jugar bocabajo y gatear a través de un túnel en forma de cabaña
+- Regadera electrónica de juguete que rocía agua con 2 posiciones, corta y larga, y que tiene hasta 20 minutos de música, sonidos y luces multicolores
+- 5 juguetes de actividades que pueden colocarse de varias posiciones y que incluyen un espejo de autorreconocimiento, un sonajero de ranita, un mordedor en forma de caracol sin BPA, un gnomo de jardín para arrugar y una adorable regadera que rocía agua para jugar a darle golpecitos
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B09NPB46FY{{</world>}}
