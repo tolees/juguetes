@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Funko Pop! Rocks: NKOTB - Jonathan Knight - New Kids On The Block - Figura de Vinilo Coleccionable - Idea de Regalo- Mercancia Oficial - Juguetes para Niños y Adultos - Music Fans'
+date: 2024-10-24 19:31:17
+image: 'https://m.media-amazon.com/images/I/51Ri0A7BOTL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09DL7ZBLK-es Funko Pop! Rocks: NKOTB - Jonathan Knight - New Kids On...'
+sku: 'B09DL7ZBLK-es'
+tags: [ 'juguetes','🇪🇸', ]
+actualPrice: 10.36 EUR
+currency: EUR
+price: 10.36
+comparePrice: 16.0 EUR
+prodname: 'Funko Pop! Rocks: NKOTB - Jonathan Knight - New Kids On The Block - Figura de Vinilo Coleccionable - Idea de Regalo- Mercancia Oficial - Juguetes para Niños y Adultos - Music Fans'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B09DL7ZBLK/?tag=tolees-21'
+descuento: '35.25'
+average: '9.876'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- AMPLÍA TU COLECCIÓN - Añade esta pieza de exhibición de vinilo Jonathan Knight única a tu creciente surtido de figuras Funko Pop! y busca otros artículos coleccionables raros y exclusivos para tener un conjunto completo
+- TAMAÑO IDEAL PARA COLECCIONAR - Con una altura aproximada de 9,5 cm, esta mini figurita de vinilo complementa otros artículos de colección y encaja perfectamente en tu vitrina o en tu escritorio.
+- REGALO PERFECTO PARA LOS FANS DE NEW KIDS ON THE BLOCK - Ideal para fiestas, cumpleaños u ocasiones especiales y como regalo esta exclusiva figurita es un complemento imprescindible en cualquier colección de merchandising de New Kids on the Block
+- MARCA LÍDER EN CULTURA POP - Confía en la experiencia de Funko, el principal creador de artículos de cultura pop que incluye figuras de vinilo, juguetes de acción, peluches, ropa, juegos de mesa y mucho más.
+- MATERIAL DE VINILO DE PRIMERA CALIDAD - Fabricado en vinilo duradero de alta calidad, este coleccionable está hecho para durar y soportar el desgaste diario, garantizando un disfrute duradero tanto para los fans como para los coleccionistas.
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B09DL7ZBLK{{</world>}}
