@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Edad: 12+
-- Minutos: 45-90
 - Nivel avanzado
 - Jugadores: 1-4
+- Minutos: 45-90
+- Edad: 12+
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WRBKWJ8{{</world>}}

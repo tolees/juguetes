@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuando a un jugador le queda una sola carta en la mano, ¡tiene que gritar UNO!
-- Juega la carta especial FLIP y tendrás que darle la vuelta a todas las cartas, incluidas las de la pila para robar, para descubrir una baraja de números y colores completamente nuevos en el lado contrario.
 - UNO FLIP! es el juego de cartas clásico que ya conoces con un giro nuevo y emocionante.
+- Cuando a un jugador le queda una sola carta en la mano, ¡tiene que gritar UNO!
 - Una baraja con cartas a doble cara y una carta especial FLIP que le da un giro competitivo a la versión clásica.
+- Juega la carta especial FLIP y tendrás que darle la vuelta a todas las cartas, incluidas las de la pila para robar, para descubrir una baraja de números y colores completamente nuevos en el lado contrario.
 - Incluye 112 cartas y las reglas de juego. Es perfecto para familias y jugadores a partir de 7 años.
 - UNO FLIP! también incluye cartas especiales nuevas, como la que te hace robar cinco cartas o la que te hace saltarte el turno de todos.
 
