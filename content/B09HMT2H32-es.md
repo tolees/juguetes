@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de 8 años.
-- Los jugadores pueden lanzar los datos para mover sus piezas y comprar, vender y negociar las propiedades al estilo Monopoly.
+- De 2 a 6 jugadores.
 - Conviértete en el shinobi más poderoso de esta edición especial de Monopoly: Naruto! Reúne a ninjas, coge las cartas de entrenamiento y misión, y desarrolla tus técnicas de ninja para evitar la bancarrota.
 - Monopoly Naruto: el objetivo de este juego de mesa es ser el último jugador en declararse en bancarrota.
-- De 2 a 6 jugadores.
+- Los jugadores pueden lanzar los datos para mover sus piezas y comprar, vender y negociar las propiedades al estilo Monopoly.
+- A partir de 8 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HMT2H32{{</world>}}

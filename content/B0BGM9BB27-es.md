@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enfréntate a tu gremio rival en una carrera por la victoria.
-- Para 2 jugadores | A partir de 10 años | Partidas de 30
-- Descubre nuevas formas de jugar y oportunidades estratégicas derivadas de Splendor, el juego original superventas.
 - Compra cartas que conceden asombrosas capacidades, aprovéchate de los favores reales y pugna por hacerte con algunas de las escasas perlas.
+- Para 2 jugadores | A partir de 10 años | Partidas de 30
 - Toma fichas de Gema y de Perla del tablero común y, a continuación, compra cartas y acumula bonificaciones, favores reales y Prestigio.
+- Enfréntate a tu gremio rival en una carrera por la victoria.
+- Descubre nuevas formas de jugar y oportunidades estratégicas derivadas de Splendor, el juego original superventas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGM9BB27{{</world>}}
