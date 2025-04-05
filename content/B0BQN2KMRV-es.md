@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONSIGUE UNO DE LOS SÚPER LÍDERES DORADOS – Pack con 10 SuperThings, contiene una figura dorada
 - AUMENTA TU COLECCIÓN RÁPIDAMENTE – Amplía o empieza tu colección con este pack de 10 SuperThings y asegúrate una figura dorada
+- CONSIGUE UNO DE LOS SÚPER LÍDERES DORADOS – Pack con 10 SuperThings, contiene una figura dorada
 - DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que han cobrado vida. Ahora tienen nuevos compañeros que son los Kazoom Kids, niños transformados también en héroes y villanos por el poder del Kazoom y viven todos en Kaboom City. Puedes descubrir o seguir las aventuras de estas figuras de acción en el canal de YouTube de Magicbox (disponible en español y en otros idiomas)
 - ESCOGE LA COMBINACIÓN QUE PREFIERAS – Opción de escoger el pack de 10 específico que se desee. Este pack incluye 10 SuperThings (1 líder dorado sorpresa, los 3 SuperThings con efecto neón Parkmore, Terry Book, Pop y los 6 SuperThings Sugamal, Fro Bros, Battle Tub, Blinky, Sk8 Toi, Bathdiver)
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego original de capturar la bandera desde 1958.
-- Contenido: 40 fichas azules y 40 fichas rojas, tablero, biombo, 2 bandejas pequeñas para clasificar las piezas, instrucciones y 2 sobres con misiones de entrenamiento.
 - En esta nueva versión se necesitará más estrategia que nunca y gracias a las cartas de batalla podremos darle un giro al juego a través de poderes especiales y trampas inesperadas
+- El juego original de capturar la bandera desde 1958.
 - 2 jugadores | +8 años | Juego de mesa de estrategia
+- Contenido: 40 fichas azules y 40 fichas rojas, tablero, biombo, 2 bandejas pequeñas para clasificar las piezas, instrucciones y 2 sobres con misiones de entrenamiento.
 - Juego de mesa clásico de ataque y defensa cuyo objetivo consiste en apoderarse y conquistar la bandera enemiga con un ejército de 40 piezas de diferentes rangos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

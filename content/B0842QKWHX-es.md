@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desarrolla la creatividad y la imaginación
 - Juego cooperativo y cautivador que interpreta de forma lúdica la mitología nórdica
-- Juego con 6 escenarios
 - Marca del producto: Ludonaute
+- Desarrolla la creatividad y la imaginación
+- Juego con 6 escenarios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0842QKWHX{{</world>}}

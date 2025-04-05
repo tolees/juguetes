@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Juego de cartas
 - Producto nuevo
 - Producto de alta calidad
-- Juego de cartas
 - Asmodée es un nombre de marca reconocido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

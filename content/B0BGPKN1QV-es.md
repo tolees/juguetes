@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mejoras encantadas
 - Estrategia fascinante
+- Mejoras encantadas
 - Aumentos encantadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

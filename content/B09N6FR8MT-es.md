@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Black Panther: equipado con tecnología a base de vibranio, protege el reino de wakanda
-- Parte del universo cinematográfico de Marvel que incluye Avengers: Guerra del Infinito y Avengers: Endgame
-- Gafas móviles: con un control fácil de usar, los niños pueden elegir llevar esta máscara con las gafas levantadas o cerradas
 - Máscara de poder: los niños a partir de 5 años pueden pulsar un botón para activar los efectos de luz electrónica fija y pulsante de la máscara de poder de Black Panther
+- Gafas móviles: con un control fácil de usar, los niños pueden elegir llevar esta máscara con las gafas levantadas o cerradas
+- Parte del universo cinematográfico de Marvel que incluye Avengers: Guerra del Infinito y Avengers: Endgame
+- Black Panther: equipado con tecnología a base de vibranio, protege el reino de wakanda
 - Colección Legacy de Marvel Studios: conmemora el impacto de Black Panther con figuras de acción y artículos de rol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

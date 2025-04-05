@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se envía en bolsa de plástico sellada de fábrica
 - Contiene 29 piezas + 1 minifigura
+- Se envía en bolsa de plástico sellada de fábrica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXMHXLL7{{</world>}}

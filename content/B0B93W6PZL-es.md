@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño realista: mueve el joystick, pulsa las flechas de navegación y desliza o gira las palancas de control
 - Juego de aprendizaje musical: más de 65 canciones, sonidos y frases que enseñan a contar del 1 al 10, formas y colores. Utiliza el botón del mundo para seleccionar un idioma: castellano, inglés, italiano o portugués
 - Podrá controlar la diversión con más de 10 botones que pulsar para activar luces multicolores, música y sonidos
-- Diseño realista: mueve el joystick, pulsa las flechas de navegación y desliza o gira las palancas de control
 - Esta consola de juegos portátil tiene luces, música y los amigos de Laugh & Learn de tu bebé para que pueda jugar a imitar muy pronto
 - Ayuda a desarrollar la motricidad fina, a la vez que enseña la relación causa-efecto a bebés y niños y niñas de 9 meses a 3 años
 

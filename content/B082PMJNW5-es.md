@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tamaño: 18 cm, 35 cm
-- Tipo: Juguete de felpa
 - Material: felpa
 - Relleno: PP
 - juguete de peluche de buena calidad
+- Tipo: Juguete de felpa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B082PMJNW5{{</world>}}

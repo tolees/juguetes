@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 34 x 9,7 x 31 cm
-- No apto para niños menores de 3 años; Utilizar bajo la supervisión de un adulto
-- Contiene: 1 cortador de goma, 1 perforadora, 18 barras de goma, hilos, cierres y brillantes
 - A partir de 8+
+- Contiene: 1 cortador de goma, 1 perforadora, 18 barras de goma, hilos, cierres y brillantes
+- No apto para niños menores de 3 años; Utilizar bajo la supervisión de un adulto
+- Dimensiones: 34 x 9,7 x 31 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0747DS8HZ{{</world>}}

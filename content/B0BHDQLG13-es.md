@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acompaña a Frodo Bolsón y a sus compañeros en su legendaria misión de destruir el Anillo Único y derrotar a Sauron.
 - Incluye más de 60 cartas de Héroe y de Jugador que se pueden usar para construir o mejorar los mazos de Jugador de cualquier escenario o campaña
-- Un Anillo para gobernarlos a todos Un Anillo para encontrarlos Un Anillo para atraerlos a todos Y atarlos en las tinieblas
 - La expansión de saga El Señor de los Anillos: La Comunidad del Anillo contiene seis escenarios que recrean las aventuras de La Comunidad del Anillo
+- Acompaña a Frodo Bolsón y a sus compañeros en su legendaria misión de destruir el Anillo Único y derrotar a Sauron.
+- Un Anillo para gobernarlos a todos Un Anillo para encontrarlos Un Anillo para atraerlos a todos Y atarlos en las tinieblas
 - Este viaje está plagado de peligrosos enemigos como los Uruk-hai, el Guardián del Agua, el Balrog y los temibles Nazgûl.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

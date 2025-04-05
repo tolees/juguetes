@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Uso de madera certificada; Maderas utilizadas de plantaciones controladas protegiendo y conservando nuestros bosques
 - Habilidades que desarrolla: la habilidad manual ojo-mano, la precisión y el equilibrio
 - Contenido: 1 conejito balaza de madera, 6 hortalizas de madera, 1 dado de madera de colores y instrucciones
 - Divertido juego de equilibrios; Dos modos de juego: cooperativo, todos intentan colocar las piezas sin que caigan y competitivo donde juegan individualmente
 - Número de jugadores: de 1 a 4
-- Uso de madera certificada; Maderas utilizadas de plantaciones controladas protegiendo y conservando nuestros bosques
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PGK7ZMX{{</world>}}

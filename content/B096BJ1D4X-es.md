@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TAMBOR GIRATORIO DE 6 DARDOS: Lanza 6 dardos seguidos con el tambor giratorio de 6 dardos. Carga los dardos por el frente del tambor y lánzate a emocionantes batallas Nerf
 - EMPAQUE RECICLABLE: Enviado en empaque simple y reciclable, fácil de abrir
-- 6 DARDOS NERF ELITE: Viene con 6 dardos Nerf Elite oficiales de espuma, magníficos para jugar en exteriores e interiores. Los dardos Nerf oficiales son probados y aprobados para el rendimiento y la calidad
 - MODO RÁFAGA: Prepara el lanzador y aprieta el gatillo para lanzar 1 dardo a la vez, o lanza los 6 dardos en ráfaga manteniendo apretado el gatillo y moviendo el deslizador atrás y adelante
+- TAMBOR GIRATORIO DE 6 DARDOS: Lanza 6 dardos seguidos con el tambor giratorio de 6 dardos. Carga los dardos por el frente del tambor y lánzate a emocionantes batallas Nerf
+- 6 DARDOS NERF ELITE: Viene con 6 dardos Nerf Elite oficiales de espuma, magníficos para jugar en exteriores e interiores. Los dardos Nerf oficiales son probados y aprobados para el rendimiento y la calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096BJ1D4X{{</world>}}

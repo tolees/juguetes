@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MECÁNICAS: Conexiones, Movimiento punto a punto
-- Juego económico, fácil de aprender y con partidas cortas de 2 a 5 jugadores
 - Uno de los óptimos flip & write del mercado con un diseño retro atractivo
+- Juego económico, fácil de aprender y con partidas cortas de 2 a 5 jugadores
 - Óptima versión completamente diferente de Get On Board New York; london con óptimas mecánicas y óptimos mapas
+- MECÁNICAS: Conexiones, Movimiento punto a punto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP878SMC{{</world>}}

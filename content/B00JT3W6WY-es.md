@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene PTFE
 - Grasa para bicicleta
 - Resistente a altas temperaturas
+- Contiene PTFE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JT3W6WY{{</world>}}

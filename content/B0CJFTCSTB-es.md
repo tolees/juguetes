@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DE 2 A 4 JUGADORES, A PARTIR DE 10 AÑOS. Un juego de mesa divertido y misterioso en el que podréis participar de 2 a 4 jugadores, a partir de 10 años de edad. Cada partida tendrá una duración aproximada de entre 25 minutos. Ni muy larga ni muy corta, para que juguéis las veces que queráis sin aburriros.
-- 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
-- 7 NUEVAS FACCIONES CON EFECTOS SORPRENDENTES. En esta edición de aniversario, encontrarás 7 nuevas facciones con efectos sorprendentes ilustradas por el fantástico artista original de Claim, The Mico. Experimenta nuevas estrategias y desafía a tus oponentes con estas facciones.
 - JUEGO INDEPENDIENTE Y COMBINABLE. Esta edición de aniversario de Claim es un juego independiente que se puede jugar solo o combinado con las facciones de Claim y Claim 2 de otros sets. Amplía tus opciones de juego y disfruta de infinitas combinaciones con este versátil juego de cartas.
 - EDICIÓN LIMITADA CON ILUSTRACIONES TOTALMENTE NUEVAS. Celebra el quinto aniversario de Claim con una edición limitada que incluye todas las facciones de Claim y Claim 2. Descubre las ilustraciones totalmente nuevas de 5 artistas que han plasmado su visión personal en el juego.
+- 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
+- 7 NUEVAS FACCIONES CON EFECTOS SORPRENDENTES. En esta edición de aniversario, encontrarás 7 nuevas facciones con efectos sorprendentes ilustradas por el fantástico artista original de Claim, The Mico. Experimenta nuevas estrategias y desafía a tus oponentes con estas facciones.
+- DE 2 A 4 JUGADORES, A PARTIR DE 10 AÑOS. Un juego de mesa divertido y misterioso en el que podréis participar de 2 a 4 jugadores, a partir de 10 años de edad. Cada partida tendrá una duración aproximada de entre 25 minutos. Ni muy larga ni muy corta, para que juguéis las veces que queráis sin aburriros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJFTCSTB{{</world>}}

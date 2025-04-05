@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - También incluye 4 figuras de los amigos favoritos de los fans, como la Sra. Potts, la tetera, Chip, la taza de té, Lumière y el Armario con puertas que se abren.
-- Inspirado en el clásico de animación de Disney La bella y la bestia, el conjunto de juego de castillo permite a los más pequeños recrear sus escenas favoritas en un lugar memorable.
+- El conjunto de juego se abre para descubrir una casa de muñecas con varias zonas de juego que los peques reconocerán de la película.
 - La muñeca pequeña de Bella luce su conjunto clásico amarillo con una falda suave que le puedes quitar y tiene puntos de articulación en los brazos, las piernas y el cuello.
 - Las habitaciones incluyen el dormitorio de Bella con una cama plegable, el comedor con mesa giratoria y un baño oculto con bañera de burbujas.
-- El conjunto de juego se abre para descubrir una casa de muñecas con varias zonas de juego que los peques reconocerán de la película.
+- Inspirado en el clásico de animación de Disney La bella y la bestia, el conjunto de juego de castillo permite a los más pequeños recrear sus escenas favoritas en un lugar memorable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BB4BH5T2{{</world>}}

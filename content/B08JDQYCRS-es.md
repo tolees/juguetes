@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conexión por cable USB
-- Disposicion de botones y sticks simetricos (al igual que Playstation 4)
 - Compatibilidad con PS4 y PC con Windows
+- Conexión por cable USB
 - Color negro
+- Disposicion de botones y sticks simetricos (al igual que Playstation 4)
 - Diseño ergonomico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

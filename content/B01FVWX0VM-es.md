@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La versión infantil del juego imprescindible
-- Duración aproximada de la partida: 20 min
 - Juego adecuado para pasar el tiempo libre
-- Juega con tus hijos a partir de 4 años
+- Duración aproximada de la partida: 20 min
 - Tu primer paso al mundo de Carcassonne
+- La versión infantil del juego imprescindible
+- Juega con tus hijos a partir de 4 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FVWX0VM{{</world>}}

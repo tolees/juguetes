@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las mejores fuerzas de Crossbell
 - El destino de la ciudad-estado
+- Las mejores fuerzas de Crossbell
 - Poder del pasado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

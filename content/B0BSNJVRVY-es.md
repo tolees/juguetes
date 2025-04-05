@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Demuestra tus habilidades con tu familia o amigos.
 - Con estuche para guardarlo todo y protegerlo.
 - Perfecto para llevar y jugar en cualquier parte.
-- Demuestra tus habilidades con tu familia o amigos.
 - Conecta los deportes lo antes posible.
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 

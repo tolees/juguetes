@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Una forma diferente de subir de nivel!
-- Disfruta de una experiencia cooperativa única y totalmente nueva jugando con Kuuta y Kazemaru al mismo tiempo.
 - ¡Una acción única en su género!
-- Kisejima, donde se desarrolla el juego, está dividida en tres zonas con una gran variedad de desafíos. El jugador también puede subir de nivel huyendo de los monstruos que le persiguen, como en un juego de pillar, y recogiendo setas que crecen en racimos para comprar palos mejorados.
+- Disfruta de una experiencia cooperativa única y totalmente nueva jugando con Kuuta y Kazemaru al mismo tiempo.
 - El protagonista, Kuuta, ataca al enemigo usando su garrote. Kazemaru succiona el espíritu del enemigo fuera de su cuerpo, y destruyendo ese espíritu, Kuuta puede entonces reclamar la victoria.
+- Kisejima, donde se desarrolla el juego, está dividida en tres zonas con una gran variedad de desafíos. El jugador también puede subir de nivel huyendo de los monstruos que le persiguen, como en un juego de pillar, y recogiendo setas que crecen en racimos para comprar palos mejorados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQN39P86{{</world>}}

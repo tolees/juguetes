@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
-- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
-- Descubre armas y habilidades letales en un sistema de combate renovado
 - Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
+- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
+- Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
+- Descubre armas y habilidades letales en un sistema de combate renovado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TJV8Z7M{{</world>}}

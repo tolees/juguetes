@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La bicicleta queda suspendida por los ganchos, separada del suelo.
 - Tubo de espacio central de lado de 20 mm.
-- Estructura de acero lacado negro de alta calidad.
 - Se monta para acceder fácilmente a las dos partes: la base y el eje.
+- La bicicleta queda suspendida por los ganchos, separada del suelo.
+- Estructura de acero lacado negro de alta calidad.
 - Dispone de dos ganchos ajustables en altura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

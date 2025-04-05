@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los jugadores acumulan cartas de ciertos tipos de vagones, y las usan para construir estaciones, pasar a través de túneles y sobre ferrys, y hacerse con rutas ferroviarias a lo largo y ancho de Europa.
 - Esta caja contiene un juego completo, que no requiere la versión original de ¡Aventureros al Tren!, ganadora del premio internacional Spiel des Jahres.
-- ¡Aventureros al Tren! Europa te invita a una nueva aventura en tren a lo largo y ancho de la Europa de fin de siglo.
-- Aventureros al Tren! Europa es un juego de sencilla elegancia, sus reglas pueden aprenderse en 5 minutos, y gustará tanto a familias como a jugadores experimentados.
 - De 2 a 5 jugadores. A partir de 8 años de edad.
+- Los jugadores acumulan cartas de ciertos tipos de vagones, y las usan para construir estaciones, pasar a través de túneles y sobre ferrys, y hacerse con rutas ferroviarias a lo largo y ancho de Europa.
+- Aventureros al Tren! Europa es un juego de sencilla elegancia, sus reglas pueden aprenderse en 5 minutos, y gustará tanto a familias como a jugadores experimentados.
+- ¡Aventureros al Tren! Europa te invita a una nueva aventura en tren a lo largo y ancho de la Europa de fin de siglo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B004OE9NE2{{</world>}}

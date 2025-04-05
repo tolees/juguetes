@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Explora un mundo abierto, dinámico y hostil y salva un país al borde del abismo
-- En Tom Clancys The Division 2, el destino del mundo libre está en juego
 - Dirige un equipo de agentes de élite en lo que queda de Washington DC tras el paso de una pandemia
 - The Division 2 es una experiencia de juego de rol y de disparos
+- En Tom Clancys The Division 2, el destino del mundo libre está en juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P4Q7D1T{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Number of players: de 2 a 4
-- ¡Llega la primavera! La estación de las batallas y las masacres
-- La temporada perfecta para conquistar esa agradable colina sin ningún valor estratégico
 - Ya sabes, la que tiene una mesa de picnic en la cima
+- La temporada perfecta para conquistar esa agradable colina sin ningún valor estratégico
+- ¡Llega la primavera! La estación de las batallas y las masacres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XMRRS32{{</world>}}

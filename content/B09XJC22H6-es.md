@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - producto 1: El legendario e icónico super deportivo de la década de 1970 es venerado por los fans de los coches de todas partes del mundo gracias a su impresionante diseño y rendimiento
-- producto 1: Construye tu propio Lamborghini Countach, muéstra la réplica a tus amigos y disfruta de increíble carreras de acción contra otros vehículos de la gama LEGO Speed Champions
-- producto 2: Haz zoom y gira el modelo en todos sus ángulos mientras lo construyes con la aplicación gratuita Instrucciones de Construcción LEGO, disponible en teléfonos inteligentes y tablets
-- producto 1: Este coche de carreras de juguete para niños a partir de 8 años viene con una cabina abierta de 2 asientos y muchos detalles auténticos
-- producto 2: ¡Lleno de detalles! Con espacio para una mini figura LEGO de conductor y características auténticas
 - producto 1: Cuenta con una réplica de un Lamborghini Countach blanco con una mini figura LEGO de un piloto de carreras de la marca con casco protector, peluca y llave inglesa
+- producto 2: ¡Lleno de detalles! Con espacio para una mini figura LEGO de conductor y características auténticas
+- producto 1: Construye tu propio Lamborghini Countach, muéstra la réplica a tus amigos y disfruta de increíble carreras de acción contra otros vehículos de la gama LEGO Speed Champions
 - producto 2: Cuenta con una réplica de coche de juguete LEGO del Ferrari 512 M de 1970 y una mini figura LEGO piloto de carreras completa con traje Ferrari, peluca y casco protector
 - producto 2: Explora el impresionante diseño aerodinámico del deportivo de juguete mientras lo recreas pieza por pieza y después exhibe tu obra maestra para admirarla
+- producto 1: Este coche de carreras de juguete para niños a partir de 8 años viene con una cabina abierta de 2 asientos y muchos detalles auténticos
+- producto 2: Haz zoom y gira el modelo en todos sus ángulos mientras lo construyes con la aplicación gratuita Instrucciones de Construcción LEGO, disponible en teléfonos inteligentes y tablets
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XJC22H6{{</world>}}

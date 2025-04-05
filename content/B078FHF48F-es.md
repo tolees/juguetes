@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Productos de alta calidad
-- Ya están aquí los Minix de The Witcher. Colecciona todas tus estrellas favoritas y no dejes pasar esta oportunidad de hacerte con todos.
-- DIY MINIATURE HOUSE
 - 0
+- Productos de alta calidad
+- DIY MINIATURE HOUSE
+- Ya están aquí los Minix de The Witcher. Colecciona todas tus estrellas favoritas y no dejes pasar esta oportunidad de hacerte con todos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078FHF48F{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Scalextric ORIGINAL Team Cupra Electric Vs. Fuel: Disfruta de la experiencia clásica de Scalextric con la última tecnología. Un circuito de carreras de 5,22 metros de pista con curvas, puente y mandos estándar originales.
-- Si el circuito te parece poco incluye a la pista de carreras nuevos accesorios. Encuentra tus sets de ampliación para Scalextric Original.
+- Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
 - Coches ORIGINAL: Amplía tu regalo y combina los diferentes coches de la gama Original en escala 1:32.
 - Mandos estándar cómodos con cable, los clásicos: Perfecto para iniciarse en la competención de carreras slot.
-- Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
 - Dos coches Slot incluidos: La experiencia con dos coches de carreras slot: Cuprqa Electric y Cupra Fuel. Monta el circuito y disfruta desde el primer día.
+- Si el circuito te parece poco incluye a la pista de carreras nuevos accesorios. Encuentra tus sets de ampliación para Scalextric Original.
+- Scalextric ORIGINAL Team Cupra Electric Vs. Fuel: Disfruta de la experiencia clásica de Scalextric con la última tecnología. Un circuito de carreras de 5,22 metros de pista con curvas, puente y mandos estándar originales.
 - Circuito escala 1:32 de carreras de coches: 12 Pista Curva Standard + 12 vallas guardarrail + Pista Conexiones + 2 mandos Standard + 6 rectas + Elevadores de puente + Transformador.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

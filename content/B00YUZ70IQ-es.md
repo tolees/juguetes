@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 3 a 6 Jugadores
-- ¡Reclama el Trono de Hierro y las tierras de Poniente!
-- A partir de 14 Años de edad
 - En Juego de Tronos: El Juego de Tablero, basado en la popular serie de novelas Canción de Hielo y Fuego de George R.R. Martin
+- ¡Reclama el Trono de Hierro y las tierras de Poniente!
 - los jugadores toman el control de las grandes Casas de Poniente y se embarcan en una épica lucha para hacerse con el Trono de Hierro.
+- A partir de 14 Años de edad
+- De 3 a 6 Jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YUZ70IQ{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - El juego de La Casa de los Retos hará que tú y tu familia participéis en el programa de TV sin salir de casa
-- Con decenas de retos y de cien preguntas para responder, podrás demostrar que tú y tu familia formáis el mejor equipo
-- Emocionante juego para toda la familia con 150 preguntas curiosas
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Producto distribuido oficialmente en España por BIZAK.
+- Emocionante juego para toda la familia con 150 preguntas curiosas
 - Acierta las preguntas y gana los retos para acumular puntos, consigue hacerlos bien y obtén cartas de bloqueo para perjudicar a tus oponentes
+- Con decenas de retos y de cien preguntas para responder, podrás demostrar que tú y tu familia formáis el mejor equipo
 - Basado en el exitoso programa de TV
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

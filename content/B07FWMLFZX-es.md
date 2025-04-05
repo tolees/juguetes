@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño de Mando Estelar por fuera, parque de atracciones Star Adventures con atracciones por dentro
-- Pliégalo y conviértelo en un maletín con asa para guardar hasta 20 figuras
-- Incluye una minifigura exclusiva de Buzz Lightyear; el resto de figuras se venden por separado y están sujetas a disponibilidad
-- Exhibe, juega y guarda las figuras con Buzz Lightyear de Toy Story 4 de Disney Pixar
 - Espacios de exhibición para un máximo de 15 minifiguras
+- Incluye una minifigura exclusiva de Buzz Lightyear; el resto de figuras se venden por separado y están sujetas a disponibilidad
+- Pliégalo y conviértelo en un maletín con asa para guardar hasta 20 figuras
+- Exhibe, juega y guarda las figuras con Buzz Lightyear de Toy Story 4 de Disney Pixar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FWMLFZX{{</world>}}

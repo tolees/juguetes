@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lánzalos y descubre las diferentes sorpresas en su interior. Construye tu dinosaurio y mira como brilla en la oscuridad.
 - Producto distribuido oficialmente por Bizak. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- Las diferentes partes del dinosaurio estarán escondidas dentro de los locos compuestos… ya puedes construirlo e iniciar las aventuras.
 - Descubre sus web episodios en la web de CLAN
+- Las diferentes partes del dinosaurio estarán escondidas dentro de los locos compuestos… ya puedes construirlo e iniciar las aventuras.
+- Lánzalos y descubre las diferentes sorpresas en su interior. Construye tu dinosaurio y mira como brilla en la oscuridad.
 - Increíble huevo de gran tamaño que incluye 25 sorpresas en su interior al mismo tiempo que incorpora un tryme que brilla y ruge.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

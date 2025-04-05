@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego para aprender sobre la ciencia
-- Necesita creatividad del niño
 - La embalaje puede variar
+- Juego para aprender sobre la ciencia
 - Caja de forma rectangular
+- Necesita creatividad del niño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TOBXKFI{{</world>}}

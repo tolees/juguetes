@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de tablero infantil basado en los superheroes de Marvel
 - En el juego vienen incluidas 5 figuritas con los mejores personajes de Marvel para que recorras el tablero con ellos.
 - Inspirado en el clásico juego de la Oca, tendrás que jugar con tus pesonajes favoritos de Marvel para llegar a casa y ganar la partida
-- Hecho en la UE
 - Recomendado para 2a 4 jugadores a partir de 6 años
+- Hecho en la UE
+- Juego de tablero infantil basado en los superheroes de Marvel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCKDPTNZ{{</world>}}

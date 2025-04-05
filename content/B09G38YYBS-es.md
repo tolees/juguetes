@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre los WASHIMALS CRAYOLA: Adorables cachorros de pelaje aterciopelado para colorear y decorar según la imaginación para horas de diversión creativa.
-- IDEA DE REGALO: Con los Washimals los niños podrán decorar sus cachorros y personalizarlos con las pegatinas, para darle un toque más imaginativo.
-- COLOREA: Diviértete decorando tus animales y disfraces con los rotuladores con puntas especiales y tintas no tóxicas y ultra-lavables, fáciles de limpiar de manos y prendas.
-- 10 mascotas que se pueden colorear con los rotuladores incluidos. Más divertido gracias a los dos disfraces que se aplican a los cachorros para personalizarlos.
 - Decoración: decora tus animalitos con las pegatinas lavables y la pintura perlada, perfumales con el spray y ponelos más guapos con los trajes para colorear.
+- 10 mascotas que se pueden colorear con los rotuladores incluidos. Más divertido gracias a los dos disfraces que se aplican a los cachorros para personalizarlos.
+- IDEA DE REGALO: Con los Washimals los niños podrán decorar sus cachorros y personalizarlos con las pegatinas, para darle un toque más imaginativo.
+- Descubre los WASHIMALS CRAYOLA: Adorables cachorros de pelaje aterciopelado para colorear y decorar según la imaginación para horas de diversión creativa.
+- COLOREA: Diviértete decorando tus animales y disfraces con los rotuladores con puntas especiales y tintas no tóxicas y ultra-lavables, fáciles de limpiar de manos y prendas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09G38YYBS{{</world>}}

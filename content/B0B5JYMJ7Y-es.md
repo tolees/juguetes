@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste: ajuste regular, cintura baja, pierna recta. Longitud interior de la pernera: L aprox. 24 cm
-- Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a baja temperatura (110 °C), ciclo normal a máx. 30 °C
 - Pantalón corto de tela con cordón en la cintura. Perfecto para ocasiones: verano, vacaciones, playa, uso casual.
-- Pantalón chino corto con bolsillos laterales y bolsillos ribeteados en la espalda
 - Hecho de tela de algodón tejido con porcentaje de elastano
+- Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a baja temperatura (110 °C), ciclo normal a máx. 30 °C
+- Pantalón chino corto con bolsillos laterales y bolsillos ribeteados en la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B5JYMJ7Y{{</world>}}

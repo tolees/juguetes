@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alta calidad
-- 15 cm
 - Hasbro Star Wars: The Mandalorian Black Series Credit Collection Action Figure Ahsoka Tano
 - Edad recomendada por el fabricante: ‎18 meses y más
+- Alta calidad
+- 15 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BPH657BP{{</world>}}

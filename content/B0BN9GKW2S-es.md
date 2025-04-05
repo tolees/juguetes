@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - A través de cartas, un cuaderno y algunos objetos especiales, los jugadores podrán explorar e interactuar con el entorno y todo lo que vayan encontrando en su camino hasta hallar la salida
+- Duración del juego: entre 45 y 90 min
 - El fenómeno internacional de salas de escape ahora en tu casa
 - Pueden participar entre uno y cuatro jugadores, a partir de los 10 años de edad
-- Duración del juego: entre 45 y 90 min
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN9GKW2S{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hay mucho por descubrir. Por ejemplo, puedes disolver las perlas en agua y encontrarás más sorpresas divertidas.
-- Un ascensor que funciona de verdad lleva a las muñecas a las habitaciones y la zona de comedor.
-- ¡Los niños y las niñas pueden llenar la piscina con agua para activar el tobogán, y también presionar la cola del narval para expulsar un chorro de agua por el espiráculo!
 - ¡Todos a bordo del barco Aventuras del narval de Sparkle Cove Adventure! Diviértete viviendo aventuras en el mar con dos muñecas, tres perlas que se disuelven, 13 accesorios, dos pisos, seis áreas de juego y todas las funciones con agua que incluye este juguete.
+- Un ascensor que funciona de verdad lleva a las muñecas a las habitaciones y la zona de comedor.
+- Hay mucho por descubrir. Por ejemplo, puedes disolver las perlas en agua y encontrarás más sorpresas divertidas.
+- ¡Los niños y las niñas pueden llenar la piscina con agua para activar el tobogán, y también presionar la cola del narval para expulsar un chorro de agua por el espiráculo!
 - El narval se abre para revelar el interior de un crucero con un dormitorio y un baño repletos de diversión, una zona de comedor y bufé con aperitivos deliciosos, un campo de golf en el que vivir aventuras, una pista de baile y una piscina con tobogán.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

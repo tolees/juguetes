@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye 2 figuras, caballo y accesorios para su cuidado
-- Edad mínima recomendada: 4 años y más
-- Maletín para cuidado de caballos
 - Adecuada para llevártelo y jugar donde quieras
+- Maletín para cuidado de caballos
+- Edad mínima recomendada: 4 años y más
 - Tiene un diseño multicolor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

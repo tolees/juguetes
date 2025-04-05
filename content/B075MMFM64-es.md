@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Edad mínima de los jugadores: 7 años
 - Duración de la partida: 45 minutos
-- Numero de jugadores: 2 - 6
 - Idiomas del juego: español y portugués
+- Numero de jugadores: 2 - 6
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075MMFM64{{</world>}}

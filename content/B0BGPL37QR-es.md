@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La isla del miedo
 - Una investigación en la sombra
+- La isla del miedo
 - El signo de los catorce
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Métete en la piel del Zorro o de su hermana Inés -18 niveles
-- Mecánicas de juego variadas inspiradas en los mejores juegos de aventuras que combinan acción, combate, sigilo y puzles. ¡Y no muere nadie!
 - Coloridos entornos de dibujos animados
-- 16 habilidades que desbloquear ¡Puedes trazar tu nombre de verdad con la punta de la espada!
+- Mecánicas de juego variadas inspiradas en los mejores juegos de aventuras que combinan acción, combate, sigilo y puzles. ¡Y no muere nadie!
 - El Sargento García, Bernard, Tornado…..Están todos los personajes principales
+- 16 habilidades que desbloquear ¡Puedes trazar tu nombre de verdad con la punta de la espada!
+- Métete en la piel del Zorro o de su hermana Inés -18 niveles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2RSSN4W{{</world>}}

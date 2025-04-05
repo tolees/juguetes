@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego de mesa que simula una experiencia Escape Room de verdad.
-- El objetivo es conseguir resolver cada una de las aventuras en menos de 1 hora a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas...
 - 3 aventuras nuevas: El tren del salvaje Oeste, Ladrones de tumbas y El Gran Robo.
 - Juego Escape Room | de 3 a 5 jugadores | +16 años
+- El objetivo es conseguir resolver cada una de las aventuras en menos de 1 hora a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas...
 - ¡Suerte en la aventura! ¡Adelante, el tiempo vuela…!
+- Juego de mesa que simula una experiencia Escape Room de verdad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7ZZD9Z2{{</world>}}

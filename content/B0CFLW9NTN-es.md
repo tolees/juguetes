@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un juego del gran y mítico diseñador Stephen Feld; Castillos de Borgoña, Trajan, Notre Dame
-- Uno de los grandes triunfadores de la feria de Essen 2022
 - Presencia en mesa espectacular
+- Uno de los grandes triunfadores de la feria de Essen 2022
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFLW9NTN{{</world>}}

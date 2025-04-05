@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un juego de habilidad donde tendrás que ser el más rápido para ganar
-- Se el jugador más rápido en conseguir el mayor número de monedas
 - Haz volar las tarjetas por los aires
 - Número de jugadores: 2+
+- Se el jugador más rápido en conseguir el mayor número de monedas
+- Un juego de habilidad donde tendrás que ser el más rápido para ganar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PBC42VT{{</world>}}

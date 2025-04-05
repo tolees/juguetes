@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A partir de 4 años de edad - 2 jugadores
-- Pero espera ... ¡Te pueden robar la partida! Si tu oponente tiene la Carta de Top Trump que coincide con el personaje de tu cinco en línea, ¡entonces él gana!
-- ¡Coloca 5 cubos en línea con los personajes de Batman y sé el primero en gritar MATCH para ganar la partida!
-- Cada partida dura 20 minutos aproximadamente.
-- Contiene 1 tablero, 25 cubos, 15 cartas de personajes Batman + reglas del juego.
 - Juega con 15 personajes del mundo Batman, el Match de Batman es un juego estratégico para dos personas que te permitirá acercarte a tus personajes preferidos.
+- Cada partida dura 20 minutos aproximadamente.
+- ¡Coloca 5 cubos en línea con los personajes de Batman y sé el primero en gritar MATCH para ganar la partida!
+- Pero espera ... ¡Te pueden robar la partida! Si tu oponente tiene la Carta de Top Trump que coincide con el personaje de tu cinco en línea, ¡entonces él gana!
+- A partir de 4 años de edad - 2 jugadores
+- Contiene 1 tablero, 25 cubos, 15 cartas de personajes Batman + reglas del juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09CDTTL44{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La autocaravana Dream Camper de Barbie incluye una cama en el techo, una televisión y un interior con todo lujo de detalles, como una cocina completa
 - El juguete de construcción cuenta con una piscina con tobogán desmontable, un sofá, una hoguera, una tabla de surf y mucho más
 - Las piezas pueden combinarse con todos los juguetes de construcción de MEGA y Barbie, y son compatibles con las principales marcas
+- La autocaravana Dream Camper de Barbie incluye una cama en el techo, una televisión y un interior con todo lujo de detalles, como una cocina completa
 - 580 bloques que incluyen 4 micromuñecas Barbie construibles, 1 cachorro, ropa y accesorios de comida
 - Ideales para niños y niñas a partir de 6 años, estos juguetes construibles ayudan a desarrollar la creatividad y la capacidad de resolución de problemas
 

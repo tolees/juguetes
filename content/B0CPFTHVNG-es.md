@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edición actualizada, reglas actualizadas y dos expansiones incluidas
 - Spiel des Jahres de 1996, un juego familiar imprescindible en cualquier ludoteca
 - El juego que sentó la base de la mecánica de mayorías en la historia de los juegos
+- Edición actualizada, reglas actualizadas y dos expansiones incluidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPFTHVNG{{</world>}}

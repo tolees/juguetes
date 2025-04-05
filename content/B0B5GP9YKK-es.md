@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mundos de aventura
 - Saber moverse
-- Un clásico modernizado
 - Varios modos
+- Un clásico modernizado
+- Mundos de aventura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5GP9YKK{{</world>}}

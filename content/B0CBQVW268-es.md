@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con 30 puntos de articulación, esta figura coleccionable está lista para hacer movimientos de acción y poner las posturas épicas de Teela al aceptar sus nuevos poderes mágicos como la siguiente hechicera del castillo de Grayskull.
 - Esta figura de acción de lujo de Sorceress Teela de Masterverse está diseñada con una altura de 17,7cm y cuenta con detalles auténticos de Masters del Universo: Revolución.
-- Esta figura de Sorceress Teela es el regalo ideal para coleccionistas y fans a partir de 6 años, que apreciarán el respeto a las tradiciones de MOTU, así como su combinación con elementos de diseño modernos.
 - Esta figura de Teela cuenta con una cabeza extraíble, manos intercambiables y un báculo para mejorar la narración de historias y la exposición. Su capa de tela proporciona un gran dramatismo.
+- Con 30 puntos de articulación, esta figura coleccionable está lista para hacer movimientos de acción y poner las posturas épicas de Teela al aceptar sus nuevos poderes mágicos como la siguiente hechicera del castillo de Grayskull.
+- Esta figura de Sorceress Teela es el regalo ideal para coleccionistas y fans a partir de 6 años, que apreciarán el respeto a las tradiciones de MOTU, así como su combinación con elementos de diseño modernos.
 - La colección Masterverse de Masters of the Universe rinde homenaje al contenido MOTU desde Masters del Universo: Revelación a New Eternia y Masters del Universo: Revolución.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

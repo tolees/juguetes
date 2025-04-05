@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La Day One Edition ofrece el DLC Juego de armas Beholder Scimitar, Arco, Hacha, Martillo
-- Defiende La Helada Tierra – Dark Alliance da vida al mundo de Dungeons & Dragons como nunca antes
-- Elige a Tu Héroe – Juega como uno de los cuatro héroes distintos, cada uno con su propio estilo de juego único y habilidades personalizables
 - Lucha junto a tus amigos - uníos hasta cuatro amigos y luchad juntos en una experiencia cooperativa dinámica con un combate explosivo en tiempo real
+- Elige a Tu Héroe – Juega como uno de los cuatro héroes distintos, cada uno con su propio estilo de juego único y habilidades personalizables
+- Defiende La Helada Tierra – Dark Alliance da vida al mundo de Dungeons & Dragons como nunca antes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZNZQQDJ{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los fans de Star Wars mayores de 6 años pueden luchar contra los rebeldes con este set de figuras LEGO Star Wars Meca Soldado Imperial, que incluye piezas articuladas, un arma y una minifigura
+- La figura Meca del Soldado Imperial construible cuenta con manos, brazos, piernas y pies articulados, una cabina para la minifigura que se puede abrir, un gran cañón de disparo y un clip para el cañón de la minifigura LEGO Soldado Imperial
+- Con un diseño fácil de construir, esta figura de acción meca de LEGO Star Wars proporciona a los niños diversión inmediata y es ideal para jugar y exponer
 - Este set, que forma parte de una serie de mecas coleccionables de LEGO Star Wars, puede combinarse con los sets 75368 Meca de Darth Vader y 75369 Meca de Boba Fett (se venden por separado) para ofrecer más opciones de juego
 - La aplicación LEGO Builder ofrece una nueva forma de construir, con instrucciones de montaje intuitivas y herramientas como el zoom 3D y la rotación, además de la opción de supervisar tu progreso y guardar los sets
-- Los fans de Star Wars mayores de 6 años pueden luchar contra los rebeldes con este set de figuras LEGO Star Wars Meca Soldado Imperial, que incluye piezas articuladas, un arma y una minifigura
-- Con un diseño fácil de construir, esta figura de acción meca de LEGO Star Wars proporciona a los niños diversión inmediata y es ideal para jugar y exponer
-- La figura Meca del Soldado Imperial construible cuenta con manos, brazos, piernas y pies articulados, una cabina para la minifigura que se puede abrir, un gran cañón de disparo y un clip para el cañón de la minifigura LEGO Soldado Imperial
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BV7DCMY5{{</world>}}

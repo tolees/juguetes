@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empezarán a sonar diferentes sonidos y se iluminará; si lo mantienes pulsado tres segundos empezará a sonar música
-- El Mega Robot tiene más de 25 niveles de aventura; tendrás que descubrir todas las partes del robot; desentierra sus armas y colócalas
 - Además, viene incluido un mini robot que manejará al robot desde la cabeza
+- El Mega Robot tiene más de 25 niveles de aventura; tendrás que descubrir todas las partes del robot; desentierra sus armas y colócalas
 - Lanza misiles: abre el contenedor y metele en el corazón el líquido negro para darle poderes
 - Descubre el tesoro y colócalo en el agujero de la izquierda del robot, presiona el botón amarillo otra vez
+- Empezarán a sonar diferentes sonidos y se iluminará; si lo mantienes pulsado tres segundos empezará a sonar música
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4WH2ZK2{{</world>}}

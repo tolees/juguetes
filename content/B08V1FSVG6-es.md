@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El estuche incluye 13 accesorios y algunos disponen de la función intercambiable, con una clavija para que las niñas puedan colocarlos en diferentes sitios del estuche para tener posibilidades de juego ilimitadas.
-- Las niñas podrán realizar actividades muy divertidas: abrir la puerta de la casa del árbol, montarse en la tirolina de mariposa, balancearse en el columpio, darle la vuelta a la comida en la barbacoa y tirarse a la piscina desde el trampolín.
+- El adorable estuche Backyard Butterfly de Polly Pocket cuenta con un diseño de mariposa con purpurina en el centro que se puede agitar y se abre para mostrar una aventura al aire libre con las micromuñecas de Polly y su madre.
 - El estuche también incluye una correa para que las niñas puedan llevarlo a modo de cartera a cualquier parte.
 - Disfruta de aventuras en el jardín con el banco para pícnic, el tobogán, el columpio y las figuras del perro y la mariposa.
-- El adorable estuche Backyard Butterfly de Polly Pocket cuenta con un diseño de mariposa con purpurina en el centro que se puede agitar y se abre para mostrar una aventura al aire libre con las micromuñecas de Polly y su madre.
+- Las niñas podrán realizar actividades muy divertidas: abrir la puerta de la casa del árbol, montarse en la tirolina de mariposa, balancearse en el columpio, darle la vuelta a la comida en la barbacoa y tirarse a la piscina desde el trampolín.
+- El estuche incluye 13 accesorios y algunos disponen de la función intercambiable, con una clavija para que las niñas puedan colocarlos en diferentes sitios del estuche para tener posibilidades de juego ilimitadas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08V1FSVG6{{</world>}}

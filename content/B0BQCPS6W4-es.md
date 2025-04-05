@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FÁCIL Y DIVERTIDO: Un juego emocionante con muchas misiones que garantizan una experiencia de juego siempre nueva; es el regalo perfecto para los amantes de los juegos de estrategia
-- CARACTERÍSTICAS: Número de jugadores 1-5, edad recomendada 10+, duración 45-60 minutos, edición en castellano
 - TRABAJA EN EQUIPO: Coopera con tus compañeros de viaje para resolver misiones, recoger los objetos necesarios y construir otros nuevos para sobrevivir; y cuidado: el Alien puede estar escondido en cualquier lugar
-- ALIEN: Juego de mesa basado en la película homónima de 1979, en este juego de estrategia cooperativa un letal alienígena persigue a la tripulación de la nave Nostromo y quiere cazar a los miembros de la tripulación
 - DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
+- ALIEN: Juego de mesa basado en la película homónima de 1979, en este juego de estrategia cooperativa un letal alienígena persigue a la tripulación de la nave Nostromo y quiere cazar a los miembros de la tripulación
+- CARACTERÍSTICAS: Número de jugadores 1-5, edad recomendada 10+, duración 45-60 minutos, edición en castellano
+- FÁCIL Y DIVERTIDO: Un juego emocionante con muchas misiones que garantizan una experiencia de juego siempre nueva; es el regalo perfecto para los amantes de los juegos de estrategia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQCPS6W4{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Como todas las brujas del juego familiar usan una capa negra, todas se ven iguales. Pronto ningún jugador sabrá qué bruja está moviendo actualmente. ¿Es la bruja de hierbas verdes, la bruja del tiempo azul o la bruja de fuego roja?
-- Ein Gesellschaftssspiel für alle Hexen Fans ab 8 Jahren in höchster Ravensburger Spiele Qualität. También es ideal como regalo de cumpleaños o Navidad
 - Juego de confusión variado para adultos y niños: la danza de brujas es ideal tanto como juego familiar para acogedoras tardes de juegos en casa o como juego de mesa para la divertida noche de juegos con amigos
-- Danza de brujas en la noche de Walpurgis en Blocksberg: adelante, atrás, veces rápido, veces lento. El objetivo es que los jugadores lleguen a casa a las brujas bailarinas antes del amanecer
+- Como todas las brujas del juego familiar usan una capa negra, todas se ven iguales. Pronto ningún jugador sabrá qué bruja está moviendo actualmente. ¿Es la bruja de hierbas verdes, la bruja del tiempo azul o la bruja de fuego roja?
 - Tácticas, suerte y buena memoria ayudan a los jugadores más inteligentes a llevar a sus brujas al lugar de salida correcto. Reglas simples y un montón de diversión para 2-6 jugadores
+- Danza de brujas en la noche de Walpurgis en Blocksberg: adelante, atrás, veces rápido, veces lento. El objetivo es que los jugadores lleguen a casa a las brujas bailarinas antes del amanecer
+- Ein Gesellschaftssspiel für alle Hexen Fans ab 8 Jahren in höchster Ravensburger Spiele Qualität. También es ideal como regalo de cumpleaños o Navidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000MVZXFE{{</world>}}

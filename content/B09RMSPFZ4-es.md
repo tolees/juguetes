@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EDAD: VTech Learning - Diccionario infantil para niños +3 años
 - VERSIÓN: Española
 - BUSCADOR DE PALABRAS: Encuentra palabras clasificadas por categorías (animales, emociones, figuras, edificios, comidas y profesiones).
-- MOMENTO JUEGO: Para encontrar las palabras en el diccionario según la definición que se escucha.
-- ¡DESCUBRE MÁS DE 200 PALABRAS Y SUS DEFINICIONES! Con el diccionario los peques de la casa ampliarán su vocabulario y conocimientos de forma didáctica y controlada sin perder la diversión.
-- BOTÓN MUSICAL: Tres canciones muy divertidas para cantar y bailar.
-- ASPECTOS EDUCATIVOS: Enriquecimiento del vocabulario, Aprendizaje autónomo, Exploración y descubrimiento.
 - ¡CUIDEMOS DEL PLANETA! En VTech recomendamos reducir el impacto medioambiental como parte de un enfoque eco-responsable.
+- ¡DESCUBRE MÁS DE 200 PALABRAS Y SUS DEFINICIONES! Con el diccionario los peques de la casa ampliarán su vocabulario y conocimientos de forma didáctica y controlada sin perder la diversión.
+- EDAD: VTech Learning - Diccionario infantil para niños +3 años
+- ASPECTOS EDUCATIVOS: Enriquecimiento del vocabulario, Aprendizaje autónomo, Exploración y descubrimiento.
+- MOMENTO JUEGO: Para encontrar las palabras en el diccionario según la definición que se escucha.
+- BOTÓN MUSICAL: Tres canciones muy divertidas para cantar y bailar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RMSPFZ4{{</world>}}

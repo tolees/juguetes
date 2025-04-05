@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad recomendada: a partir de 8 años
 - Incluye un espacio para guardar las piezas
+- Edad recomendada: a partir de 8 años
 - Incluye las propiedades clásicas, las cartas de comunidad y cartas de suerte
 - Juego de viaje
 

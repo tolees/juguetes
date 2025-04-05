@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A los fans les encantará este vehículo de batalla expertamente diseñado que homenajea el estilo tradicional de MOTU con nuevos detalles en el diseño. Un regalo perfecto para coleccionistas y para niños a partir de 6 años.
 - Incluye un gancho de grúa y un cable retráctil, además de un soporte de exhibición para que parezca que vuela que se acopla en la parte superior del Castillo de Grayskull (se vende por separado).
+- A los fans les encantará este vehículo de batalla expertamente diseñado que homenajea el estilo tradicional de MOTU con nuevos detalles en el diseño. Un regalo perfecto para coleccionistas y para niños a partir de 6 años.
+- Con este increíble vehículo jinete de los cielos, los fans de MOTU podrán unirse a la batalla y ayudar a He-Man a salvar Eternia del diabólico Skeletor!
 - El vehículo incluye funciones increíbles, como ruedas y alas que giran y una aleta que se mueve en la cola.
 - El vehículo jinete de los cielos es un juguete a gran escala con espacio para figuras de MOTU Orígenes de 14cm (se venden por separado).
-- Con este increíble vehículo jinete de los cielos, los fans de MOTU podrán unirse a la batalla y ayudar a He-Man a salvar Eternia del diabólico Skeletor!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08V3MPZ3J{{</world>}}

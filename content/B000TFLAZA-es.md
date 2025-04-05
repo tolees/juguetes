@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los patrones de los nombres de los colores están impresos en diversos idiomas debajo de cada pata
+- Los colores incluyen rojo, naranja, amarillo, verde, azul, morado, blanco y marrón
 - Apriete cada tentáculo para oír el nombre del color en inglés, español y francés
 - Los parches cosidos de satén enseñan colores
-- Los colores incluyen rojo, naranja, amarillo, verde, azul, morado, blanco y marrón
 - El selector de idiomas cambia entre inglés, español y francés
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

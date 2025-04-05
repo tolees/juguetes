@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las sandalias de lazo, los elegantes pendientes largos y el pelo recogido en una coleta completan el asombro look de Barbie.
 - Barbie Pink Collection es un atrevido homenaje a Barbie y un tributo a su característico e icónico color.
+- Las sandalias de lazo, los elegantes pendientes largos y el pelo recogido en una coleta completan el asombro look de Barbie.
 - Con un look actual lleno de detalles del glamour clásico de Barbie, esta muñeca Barbie Pink Collection es un regalo ideal para coleccionistas. Incluye una peana y un certificado de autenticidad.
 - Las capas de volantes del tul en cascada caen por una cola de escándalo que crea un estilo increíble de 360 grados.
 - Con un cuerpo de Silkstone, la primera muñeca de la serie lleva un asombroso vestido de gala con el hombro descubierto y detalles de lazos.

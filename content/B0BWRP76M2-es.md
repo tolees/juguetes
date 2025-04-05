@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 2 a 5 jugadores
-- Usa las cartas de acción para mover y evitar al Exploding Kitten y levántate entre los muertos con la carta Zombie Kitten para vengarte.
 - Un juego de Exploding Kittens independiente y al mismo tiempo compatible con otras versiones de Exploding Kittens para crear partidas épicas.
-- A partir de 7 años de edad.
 - Desencadena el apocalipsis Zombie
+- De 2 a 5 jugadores
+- A partir de 7 años de edad.
+- Usa las cartas de acción para mover y evitar al Exploding Kitten y levántate entre los muertos con la carta Zombie Kitten para vengarte.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BWRP76M2{{</world>}}

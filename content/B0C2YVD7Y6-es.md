@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Imán de neodimio estabilizador y guía movil con doble trencilla . Es el juguete ideal para fomentar la interactividad entre padres e hijos, a la vez que estos últimos aprenden jugando
-- Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
 - Impresionante BMW M1 - Crevier Racing - Fassler a escala 1/32: Reproduce en un acabado realista el espectacular coche de campeonato
 - Coches Slot para circuitos Scalextric Original: Coches escala 1:32 en atractivos acabados y diseños. Disfruta de la carrera con tu coche favorito.
+- Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
 - Adquiere todos los accesorios que necesites para realizar un perfecto mantenimiento. Adquiere tus guías de trencillas para mantener el coche siempre a punto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

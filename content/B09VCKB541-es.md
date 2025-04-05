@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete personalizado, te permite jugar cualquier mapa de Captain Sonar con nuevas modalidades de juego
 - Expansión del juego Capitán SONAR; apartir de 14 años de edad
-- En la carrera hacia la tierra extraña, la tripulación se adentra en el abismo desconocido, preparada para enfrentarse a la insólita naturaleza de tales profundidades
 - Así podrás renovar tus aventuras cuantas veces quieras
+- El paquete personalizado, te permite jugar cualquier mapa de Captain Sonar con nuevas modalidades de juego
+- En la carrera hacia la tierra extraña, la tripulación se adentra en el abismo desconocido, preparada para enfrentarse a la insólita naturaleza de tales profundidades
 - Con la campaña Operación Dragón, tu equipo explorará nuevos mares con la ayuda de expertos que se unirán a vosotros mientras la aventura se desarrolla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

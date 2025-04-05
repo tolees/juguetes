@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los niños pueden ampliar su colección LEGO Super Mario con este juguete de construcción con el que acompañar a los Pack Iniciales (71360, 71387 o 71403) que se requieren para jugar
-- Los peques pueden desbloquear aún más diversión con la app gratuita LEGO Super Mario que incluye instrucciones de construcción e inspiración creativa, ¡obtén la lista de dispositivos compatibles en LEGO.com/devicecheck!
 - Este set de expansión coleccionable LEGO Super Mario cuenta con un recorrido para construir y 3 figuras de conocidos enemigos: un Gran Spike, un Hermano Boomerang y una planta piraña para vivir desafíos al nivel del cielo
+- Los niños pueden ampliar su colección LEGO Super Mario con este juguete de construcción con el que acompañar a los Pack Iniciales (71360, 71387 o 71403) que se requieren para jugar
 - Los pequeños jugadores ganarán monedas digitales mientras ayudan a las figuras interactivas de LEGO Mario, LEGO Luigi o LEGO Peach (no incluidas) a esquivar el rodillo con pinchos que lanza Gran Spike
+- Los peques pueden desbloquear aún más diversión con la app gratuita LEGO Super Mario que incluye instrucciones de construcción e inspiración creativa, ¡obtén la lista de dispositivos compatibles en LEGO.com/devicecheck!
 - Después, podrán saltar sobre el trampolín de champiñón naranja para llegar al Hermano Boomerang, obtener el poder del bloque superestrella y saltar sobre el balancín para derrotar a la planta piraña
 
 [🛒 Comprar!!!]({{< param buyurl >}})

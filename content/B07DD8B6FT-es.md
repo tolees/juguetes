@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disponible en dos modelos diferentes: rubia y morena
+- Recomendado a partir de 3 años
 - Incluye busto de peluquería y accesorios: peines, brochas para maquillar, pestañaz postizas, pegatinas, purpurina, gomas de pelo, pintalabios…
 - Para aprender con Nancy a ser la mejor peluquera y maquilladora!
-- Recomendado a partir de 3 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DD8B6FT{{</world>}}

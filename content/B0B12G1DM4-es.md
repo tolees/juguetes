@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Luchadores personalizados
-- Eventos comunitarios
+- Varios modos de juego
 - Temas de Lego favoritos para los fans
 - Estratégias únicas
-- Varios modos de juego
+- Luchadores personalizados
+- Eventos comunitarios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B12G1DM4{{</world>}}

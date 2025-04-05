@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta emocionante variante de Patience ofrece entretenimiento para toda la familia
-- De 2 a 6 jugadores. A partir de 7 años
-- La diversión definitiva en una caja de regalo exclusiva
-- El objetivo del juego es el primer jugador poner las cartas de su pila del jugador en orden 1 – 12
 - Contenido: 1 juego de cartas de alta calidad, 1 bolígrafo Skip-Bo y 1 bloc de valoración
+- De 2 a 6 jugadores. A partir de 7 años
+- Esta emocionante variante de Patience ofrece entretenimiento para toda la familia
+- El objetivo del juego es el primer jugador poner las cartas de su pila del jugador en orden 1 – 12
+- La diversión definitiva en una caja de regalo exclusiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000IJ0RFG{{</world>}}

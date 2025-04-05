@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El dado y las figuras de las arañas están hechos de haya procedente de bosques sostenibles con acabado de pintura al agua, no tóxica. Made in Germany
 - Walli y sus amigas llevan todo el día tejiendo telerañas, de esquina en esquina para recoger comida, pero alguna de ella es mejor tejedora que otra y consigue alcanzar los alimentos de forma más eficiente.
-- Por turnos se tiran los dados para decidir la próxima comida que hay que comen. Gana quien conserve algo de hilo al final de la partida después de tejer la telaraña.
 - Un juego de habilidad y destreza de reglass sencillas, con el que trabajar la motricidad fina al tiempo que se amplia el vocabulario.
 - Juego infantil de mesa de 2 a 4 jugadores/as, para tejer con habilidad a partir de 3 años.
+- Por turnos se tiran los dados para decidir la próxima comida que hay que comen. Gana quien conserve algo de hilo al final de la partida después de tejer la telaraña.
+- El dado y las figuras de las arañas están hechos de haya procedente de bosques sostenibles con acabado de pintura al agua, no tóxica. Made in Germany
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09W2NBFFY{{</world>}}

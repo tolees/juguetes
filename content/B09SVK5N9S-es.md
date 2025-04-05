@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este juego no contempla la vergüenza, así que... ¡os la tiene que soplar todo y a contestar!
-- El juego más original para pasar un rato de risas con amigos y descubrir toda la verdad sobre ellos... ¿Os atrevéis?
 - 4 categorías diferentes: "Confiesa", "¿Qué harías si...?", "¿Qué preferirías...?" y "¿Quién de nosotros...?"
 - ¡Preparaos, porque vuestros secretos más profundos están a punto de salir a la luz!
 - Un juego con 200 preguntas y confesiones sin pudores ni tapujos
+- El juego más original para pasar un rato de risas con amigos y descubrir toda la verdad sobre ellos... ¿Os atrevéis?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SVK5N9S{{</world>}}

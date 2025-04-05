@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Das perfekte Geschenk für Rätsel- und Gruselfreunde, die einen unterhaltsame Abend mit Freunden verbringen möchten. Snacks, ein gruseliger Soundtrack und los gehts
 - Spannender Rätselspaß mit einem Hauch Horrorgeschichte für Freunde der Escape Spiele und Exit Spiele. Die Spielschachtel verwandelt sich in ein dreistöckiges 3D Puppenhaus und ihr müsst euch durch alle 5 Räume rätseln
 - Macht euch bereit für das intensivste Escape-Room-Erlebnis, das ihr je hattet - bei euch zuhause, in euren eigenen vier Wänden! Theoretisch auch alleine spielbar, macht es doch erst in Gruppen ab 4 Personen so richtig Spaß!
 - Was geht im Werkzeugschuppen des Nachbarn vor Was sind das für Schatten hinter dem Fenster Escape the Room 3 - das verfluchte Puppenhaus zieht die Spieler in seinen Bann. Wer kann alle Rätsel lösen, um rechtzeitig zu entkommen
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B083MWRS85{{</world>}}

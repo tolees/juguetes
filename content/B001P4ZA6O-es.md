@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración : corto a 15 min
 - Instrucciones de Idiomas : DE
 - Advertencia : ¡Precaución! No apto para niños menores de 36 meses
+- Duración : corto a 15 min
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001P4ZA6O{{</world>}}

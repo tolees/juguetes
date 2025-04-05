@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MARBLE RUSH son juguetes de construcción y circuitos de canicas interactivos con infinitas posibilidades. Diseñados para momentos de juego y desafíos ilimitados, solo o acompañado, con amigos o en familia.
-- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
-- CONTENIDO: este set incluye 143 piezas de construcción y 10 canicas Marble para poder crear 3 configuraciones de circuitos aptos para niveles principiante, intermedio y avanzado, que se encuentran en la guía de construcción incluida. Funciona con 6 pilas AAA suministradas, se incluye una guía de construcción sencilla codificada por colores y pegatinas para ayudar al niño a construir y decorar su circuito.
 - Este juguete infantil es COMPATIBLE con el resto de juegos de construcción de la gama Marble Rush, para construir sus propios circuitos hasta el infinito. Los niños también podrán dejar volar su imaginación creando un circuito único a partir del mismo set o uniendo varios. ¿Necesitas nuevas ideas de construcción? Los desafíos te esperan en el sitio web de MarbleRush.
 - ✅ LA VERSIÓN ESPAÑOLA de esta pista de canicas Marble Rush permite a los niños a partir de 4 años construir un circuito de canicas interactivo de más de 90 cms de altura. Las canicas Marble pasan por el tren de luz y sonido y luego son expulsadas del vagón para unirse al ascensor motorizado y subir a lo alto de la torre. ¡Las canicas empiezan su carrera y no se detienen!
+- CONTENIDO: este set incluye 143 piezas de construcción y 10 canicas Marble para poder crear 3 configuraciones de circuitos aptos para niveles principiante, intermedio y avanzado, que se encuentran en la guía de construcción incluida. Funciona con 6 pilas AAA suministradas, se incluye una guía de construcción sencilla codificada por colores y pegatinas para ayudar al niño a construir y decorar su circuito.
+- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
+- MARBLE RUSH son juguetes de construcción y circuitos de canicas interactivos con infinitas posibilidades. Diseñados para momentos de juego y desafíos ilimitados, solo o acompañado, con amigos o en familia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQYJDXYT{{</world>}}

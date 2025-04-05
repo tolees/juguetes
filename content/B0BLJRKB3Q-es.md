@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Inspirados en los personajes animados de la película de Disney, ¡esta muñeca de Cenicienta y su caballo están listos para pasar una noche de cuento en el baile!
-- El conjunto incluye un cepillo y tres pasadores para peinar las crines y la cola del caballo.
 - El caballo incluye una silla de montar extraíble, y tiene una cola y unas crines muy largas para divertirse peinándolo. Las rodillas de la muñeca de Cenicienta son articuladas para que pueda montar a caballo por todo el reino.
 - También lleva el pelo recogido en un peinado clásico para que puedas cepillarla y darle forma.
+- El conjunto incluye un cepillo y tres pasadores para peinar las crines y la cola del caballo.
 - Cenicienta luce un vestido elegante y suave de su color azul característico y unos zapatos azules intercambiables.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

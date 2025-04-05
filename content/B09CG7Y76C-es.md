@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La RA permite a los niños estudiar al dinosaurio en el laboratorio con un divertido aprendizaje visual y explorar diferentes modos, como el térmico y los rayos X. Lleva el juego al siguiente nivel y trae a los dinosaurios a nuestro mundo a través de la RA: ¡haz que el dinosaurio aparezca en cualquier habitación! ¡CORRE!
-- Jurassic World: Dominion trae nuevas emociones y acción del mundo de los dinosaurios, e incluye esta increíble figura de acción de gran tamaño de dinosaurio con zarpas afiladas y sonidos.
 - Es un gran regalo para fans de los juguetes de dinosaurios, el juego activo con dinosaurios y Jurassic World: Dominion.
+- Jurassic World: Dominion trae nuevas emociones y acción del mundo de los dinosaurios, e incluye esta increíble figura de acción de gran tamaño de dinosaurio con zarpas afiladas y sonidos.
 - ¡Este terrorífico dinosaurio tiene un papel fundamental en la película y también puede ser imprescindible para las historias que cobran vida en casa!
 - ¡Ten mucho cuidado con sus ENORMES zarpas con las que ataca por los lados! ¡Escucha los escalofriantes efectos de sonido y descubre la función de ataque para embestir con MORDISCO incluido!
 - Descarga la aplicación gratuita Jurassic World Facts (Android e iOS) y descubre lo REAL que puede ser jugar con dinosaurios. Encuentra el código de ADN oculto y escanéalo con cualquier dispositivo inteligente para iniciar las opciones de realidad aumentada (RA). Dispositivo inteligente no incluido.

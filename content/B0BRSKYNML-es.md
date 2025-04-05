@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anima a bebés, niñas y niños pequeños, de 9 a 36 meses, a bailar, moverse y saltar al ritmo del juguete
 - Los 3 niveles de aprendizaje Smart Stages enseñan el abecedario, los colores, los números del 1 al 10 y los antónimos; utiliza el botón del globo para seleccionar un idioma: italiano, castellano, portugués o inglés
-- Pulsa los botones de música y aprendizaje para disfrutar de más de 75 canciones, sonidos y frases, luces de varios colores y un sinfín de saltitos
 - Graba y reproduce: Pulsa el botón del micrófono para grabar un mensaje y escucha al DJ reproducirlo con efectos de lo más divertidos
+- Pulsa los botones de música y aprendizaje para disfrutar de más de 75 canciones, sonidos y frases, luces de varios colores y un sinfín de saltitos
+- Anima a bebés, niñas y niños pequeños, de 9 a 36 meses, a bailar, moverse y saltar al ritmo del juguete
 - Juguete de aprendizaje electrónico con música con un muelle en la parte inferior, sobre el que rebota mientras los bebés juegan
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

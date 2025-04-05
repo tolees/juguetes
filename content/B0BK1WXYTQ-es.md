@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los X-MEN VILLAINS toman el control de las leyendas de Marvel: los héroes son tan buenos como sus adversarios y en sus 60 años de historia, los X-Men se han enfrentado a algunos de los enemigos más feroces de los cómics
 - Inspirado en X-MEN: estas figuras de acción de Marvel Random, Marvel Pretty Boy, Marvel Vertigo, Marvel Stryfe, y Marvel Zero Hasbro Marvel Legends están inspiradas en las apariciones de los personajes en los cómics X-Men
 - Diseño y articulación premium: los fans y coleccionistas de Marvel pueden mostrar estas figuras de acción totalmente articuladas de 6 pulgadas con cabeza, brazos y piernas articulables, así como decoración premium, en su colección
 - Accesorios inspirados en cómics: estas figuras de acción X-Men vienen con 15 accesorios, incluyendo manos alternativas, un portal de deformación, lanzadores y accesorios de efecto blaster.
 - Construye un multiverso de coleccionables: busca más figuras de acción del 60 aniversario de Marvel Legends X-Men como los conjuntos de figuras de acción de Marvel inspirados en la cubierta Uncanny X-Men #275 (cada uno se vende por separado). Sujeto a disponibilidad)
+- Los X-MEN VILLAINS toman el control de las leyendas de Marvel: los héroes son tan buenos como sus adversarios y en sus 60 años de historia, los X-Men se han enfrentado a algunos de los enemigos más feroces de los cómics
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BK1WXYTQ{{</world>}}

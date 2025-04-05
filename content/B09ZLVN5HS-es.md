@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si olvidas de quién es el turno, te tocará llevarlo como recordatorio. ¡Espabila o tendrás que ponértelo!
-- Añade un sexto jugador a Exploding Kittens. A partir de 7 años de edad.
 - Puedes elegir con qué cartas jugar y añadirlas al mazo de Exploding Kittens
+- Añade un sexto jugador a Exploding Kittens. A partir de 7 años de edad.
 - El cono de la vergüenza, de tamaño humano, es para que sea llevado por el jugador más despistado de la partida.
 - Imploding Kittens es la primera expansión de Exploding Kittens y añade 20 cartas nuevas.
+- Si olvidas de quién es el turno, te tocará llevarlo como recordatorio. ¡Espabila o tendrás que ponértelo!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZLVN5HS{{</world>}}

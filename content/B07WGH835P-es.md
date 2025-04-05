@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color rojo
-- Conexion por cable USB
-- Compatibilidad con PS4 y PC con Windows
-- Disposicion de botones y sticks simetricos (al igual que Playstation 4)
 - Diseño ergonomico
+- Disposicion de botones y sticks simetricos (al igual que Playstation 4)
+- Compatibilidad con PS4 y PC con Windows
+- Conexion por cable USB
+- Color rojo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WGH835P{{</world>}}

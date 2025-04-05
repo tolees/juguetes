@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El peso máximo recomendado por el fabricante es de 20 kg
 - Vehículo compatible con BAT. 6V/ 2Ah
 - Cuenta con el motor de 6V y tiene batería y cargador incluidos
 - El producto representa un Quad Racy Red con acelerador en el pie y ruedas robustas para mayor estabilidad
 - ‎‎Edad recomendada: 24 meses a 7 años
-- El peso máximo recomendado por el fabricante es de 20 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0714MMYF1{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mejora tus mazos de investigador con las cartas incluidas, que te serán de utilidad en cualquier escenario o campaña de Arkham Horror LCG
-- O bien accede a un linaje místico como Marie Lambeau, la intérprete.
-- Esta expansión presenta 6 investigadores y contiene todas las cartas de Jugador y opciones de personalización que aparecieron originalmente en el ciclo El círculo roto.
-- Resuelve misterios sobrenaturales como Joe Diamond, el investigador privado. Afronta tus problemas a base de dinero como Preston Fairmont, el millonario.
 - Evita terribles rituales como Diana Stanley, la sectaria redimida. Aléjate de los problemas o corre hacia ellos como Rita Young, la atleta.
+- Esta expansión presenta 6 investigadores y contiene todas las cartas de Jugador y opciones de personalización que aparecieron originalmente en el ciclo El círculo roto.
+- Mejora tus mazos de investigador con las cartas incluidas, que te serán de utilidad en cualquier escenario o campaña de Arkham Horror LCG
+- Resuelve misterios sobrenaturales como Joe Diamond, el investigador privado. Afronta tus problemas a base de dinero como Preston Fairmont, el millonario.
+- O bien accede a un linaje místico como Marie Lambeau, la intérprete.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6XWST3B{{</world>}}

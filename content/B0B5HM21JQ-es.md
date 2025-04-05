@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La muñeca Barbie tiene una melena de 15cm de largo que cambia de color. ¡Además, lleva un colorido vestido con estampado de pata de gallo y botas azules!
-- El tocador y el salón con espejo, los estantes, una zona de lavado de pelo y el sillón hacen sentir como en una auténtica peluquería y estimulan la imaginación y el juego de imitación.
-- Pon su cabeza sobre el lavabo y utiliza el “secador” con agua bien fría para que la melena comience a cambiar de color; el agua cae en el cajón extraíble y es muy fácil de limpiar.
 - Con el conjunto de juego del salón Totally Hair de Barbie se pueden crear tantos peinados como quepan en la imaginación. Con una muñeca y más de 15 accesorios, niñas y niños podrán dar rienda suelta a su creatividad y crear sus historias que expresen su estilo personal.
-- También viene con otros accesorios temáticos, entre ellos, un peine, un par de tijeras, un bote de champú, un rociador, un cubo y una plancha para el pelo.
+- Pon su cabeza sobre el lavabo y utiliza el “secador” con agua bien fría para que la melena comience a cambiar de color; el agua cae en el cajón extraíble y es muy fácil de limpiar.
+- El tocador y el salón con espejo, los estantes, una zona de lavado de pelo y el sillón hacen sentir como en una auténtica peluquería y estimulan la imaginación y el juego de imitación.
 - Con dos pinzas, tres coleteros, una diadema y un juego de lazos, niñas y niños podrán crear cualquier peinado que salga de su imaginación.
+- También viene con otros accesorios temáticos, entre ellos, un peine, un par de tijeras, un bote de champú, un rociador, un cubo y una plancha para el pelo.
+- La muñeca Barbie tiene una melena de 15cm de largo que cambia de color. ¡Además, lleva un colorido vestido con estampado de pata de gallo y botas azules!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5HM21JQ{{</world>}}

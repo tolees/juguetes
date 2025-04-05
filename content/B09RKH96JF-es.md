@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marcas de comida rápida: hay más de 65 minis de tus marcas favoritas de comida rápida para coleccionar, incluyendo Subway, Sonic y TGI Fridays.
-- Crea tu propio mundo de mini alimentos: utiliza tus minis para construir tu propio mundo de comida rápida. Colecciónalos todos y marca tu lista de compras de guía de coleccionista mientras avanzas.
 - Colecciona todos los accesorios: hay 8 accesorios geniales para coleccionar, incluyendo una máquina de refrescos, dispensador de ketchup y menús
+- Marcas de comida rápida: hay más de 65 minis de tus marcas favoritas de comida rápida para coleccionar, incluyendo Subway, Sonic y TGI Fridays.
 - Diversión de desembalaje: disfruta de la emoción de desempacar mientras desenvuelves, pelas y revelas 5 sorpresas diferentes. ¿Qué desempaquetarás?
+- Crea tu propio mundo de mini alimentos: utiliza tus minis para construir tu propio mundo de comida rápida. Colecciónalos todos y marca tu lista de compras de guía de coleccionista mientras avanzas.
 - Raros momentos congelados minis: ¿puedes encontrar los nuevos momentos congelados minis? Hay 3 para coleccionar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

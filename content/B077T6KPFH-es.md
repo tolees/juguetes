@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las piezas están repartidas en 7 bolsas de 6.000 unidades
-- Número de piezas: 42.000; Medida aproximada una vez montado: 749 x 157 cm
-- Si tienes paciencia, capacidad de concentración y una pasión enorme por los puzzles y los grandes retos, eres un auténtico puzzlero; Disfruta de nuestra gama de puzzles XXL
-- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde las 1000 piezas se recomiendan a partir de 14 años.
 - Ahora, para dar la vuelta al mundo, tan solo es necesario mucha paciencia, concentración, un poco de espacio y 42.000 piezas; Ya está aquí el puzzle más grande en una sola imagen, un puzzle de récord con 42.000 piezas que, una vez montado, presenta unas dimensiones de 7.49 metros de largo por 1.57 metros de alto; con la vuelta al mundo viajamos alrededor del planeta a través de monumentos, paisajes naturales y lugares emblemáticos de todos los continentes
+- Número de piezas: 42.000; Medida aproximada una vez montado: 749 x 157 cm
+- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde las 1000 piezas se recomiendan a partir de 14 años.
+- Si tienes paciencia, capacidad de concentración y una pasión enorme por los puzzles y los grandes retos, eres un auténtico puzzlero; Disfruta de nuestra gama de puzzles XXL
+- Las piezas están repartidas en 7 bolsas de 6.000 unidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077T6KPFH{{</world>}}

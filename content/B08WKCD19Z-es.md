@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La muñeca Barbie incluye una bandera de explorador que puede sostener y 3 paquetes de comida espacial (no comestible).
-- Las niñas pueden crear un universo y coleccionar otros juguetes Space Discovery de Barbie para disfrutar de más historias y diversión.
 - Este conjunto de otro mundo es un regalo ideal para niñas de 3 a 7 años, especialmente aquellas que adoren el espacio, la ciencia y soñar con las estrellas.
-- La muñeca​Barbie astronauta está preparada para explorar el firmamento y más allá con su brillante equipo de traje, botas, guantes y casco espaciales.
 - Las muñecas y juguetes pace Discovery de Barbie inspiran a las niñas para que su imaginación despegue hacia el espacio.
+- Las niñas pueden crear un universo y coleccionar otros juguetes Space Discovery de Barbie para disfrutar de más historias y diversión.
+- La muñeca Barbie incluye una bandera de explorador que puede sostener y 3 paquetes de comida espacial (no comestible).
+- La muñeca​Barbie astronauta está preparada para explorar el firmamento y más allá con su brillante equipo de traje, botas, guantes y casco espaciales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WKCD19Z{{</world>}}

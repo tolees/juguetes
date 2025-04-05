@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desbloquea y juega con más de 100 personajes
 - Multitud de personajes heroicos
+- Desbloquea y juega con más de 100 personajes
 - Utiliza nuevas armaduras y coches para derrotar a los alienígenas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

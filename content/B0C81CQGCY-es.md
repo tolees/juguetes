@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack ideal para complementar otros playsets y completar la colección de Pinypon by PINY y recrear tus escenas favoritas de la serie
-- El set Fashion Class incluye todos los elementos necesarios para diseñar un outfit único, como una mesa con una máquina de coser, telas de juguete y herramientas de costura
 - Cada uno de ellos viene con una muñeca Pinypon: Lilith o Michelle; las mini figuras son Pop and Swap con otras figuras de Pinypon y tienen caras 2 en 1
-- Recomendado para niños y niñas mayores de 4 años, este set de juego estimula la creatividad y la imaginación mientras los niños aprenden del arte y sobre diseño de moda y crean sus propios estilos
-- El set Art Class incluye un caballete, un lienzo en blanco, un busto, un baúl y varios accesorios de bellas artes
+- El set Fashion Class incluye todos los elementos necesarios para diseñar un outfit único, como una mesa con una máquina de coser, telas de juguete y herramientas de costura
+- Pack ideal para complementar otros playsets y completar la colección de Pinypon by PINY y recrear tus escenas favoritas de la serie
 - Recrea tus clases favoritas de la serie de dibujos animados infantil PINY Institute Of New York con el set de juego de Michelle en clase de diseño de moda o de Lilith en clase de arte
+- El set Art Class incluye un caballete, un lienzo en blanco, un busto, un baúl y varios accesorios de bellas artes
+- Recomendado para niños y niñas mayores de 4 años, este set de juego estimula la creatividad y la imaginación mientras los niños aprenden del arte y sobre diseño de moda y crean sus propios estilos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C81CQGCY{{</world>}}

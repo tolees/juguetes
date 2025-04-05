@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Scalextric Compact Cupra Racing: Disfruta de la última tecnología de Scalextric en un circuito de carreras de 5,6 metros de pista con doble looping.
 - Dos coches Slot incluidos: La experiencia con dos coches de carreras slot con luces: 2 coches de juguete Cupra E-Racer. Monta el circuito y disfruta desde el primer día.
 - Circuito escala 1:43 de carreras ampliable con puente: Una pista ideal para iniciación, con la posibilidad de ampliar a posteriori con los accesorios Compact.
+- Scalextric Compact Cupra Racing: Disfruta de la última tecnología de Scalextric en un circuito de carreras de 5,6 metros de pista con doble looping.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XHM3C1F{{</world>}}

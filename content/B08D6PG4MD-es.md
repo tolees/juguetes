@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tiempo: 30 minutos
 - Mecánicas: lanzamiento de dados, papel y lápiz
 - Jugadores: 1-4
-- Tiempo: 30 minutos
 - Edad: 8
 
 [🛒 Comprar!!!]({{< param buyurl >}})

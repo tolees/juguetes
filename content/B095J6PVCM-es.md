@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Sistema de batalla de tiempo reactivo de ritmo rápido
-- - Mazmorras generadas de forma procedural
 - - Épica banda sonora y ecelente diseño de sonido
-- - Paisajes y ruinas inquietantemente hermosos.
+- - Sistema de batalla de tiempo reactivo de ritmo rápido
 - - Impresionante estilo pixel art
+- - Mazmorras generadas de forma procedural
+- - Paisajes y ruinas inquietantemente hermosos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095J6PVCM{{</world>}}

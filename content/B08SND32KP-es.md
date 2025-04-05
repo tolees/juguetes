@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una historia universal sobre relaciones: descubre una combinación metafórica de juego y narración en una desenfadada y emotiva historia sobre las dificultades de llevarse bien
-- Compatible con PS5
 - Pura perfección cooperativa: ponte en la piel de Cody y May en una loca aventura creada para dos jugadores en cooperativo local y online
+- Compatible con PS5
+- Una historia universal sobre relaciones: descubre una combinación metafórica de juego y narración en una desenfadada y emotiva historia sobre las dificultades de llevarse bien
 - Mecánica alegremente disruptiva: domina habilidades de personajes únicas y conectadas en cada nuevo nivel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

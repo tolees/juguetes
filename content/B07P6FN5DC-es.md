@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda al trabajador con la excavación y la carga de los bloques de construcción
 - Para jugar a diario: Incluye instrucciones para montarlo con ayuda de los padres, calidad y diseño robusto, Limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
+- Ayuda al trabajador con la excavación y la carga de los bloques de construcción
 - Con pala móvil; medidas: 18 x 8 x 10 (LxPxA)
 - Juguete para niños a partir de 18 meses: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 

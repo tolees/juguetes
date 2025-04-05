@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de aprender y sencillo de jugar, pero con decisiones tensas
 - Tres pesadillas distintas para que haya partidas divertidas
+- Fácil de aprender y sencillo de jugar, pero con decisiones tensas
 - Juego de mesa familiar con combinaciones diferentes en cada partida
 - Pueden participar entre uno y cuatro jugadores, a partir de los 10 años de edad
 

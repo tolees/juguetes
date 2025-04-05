@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Licencia oficial de Sony
 - Toma de auriculares y controles de audio integrados
 - Fácil configuración con la aplicación complementaria, compatible con PC
-- Diseñado específicamente para juegos de lucha en 2D
-- Stick analógico de corto recorrido con restrictor octagonal para una mayor rapidez y precisión
+- Licencia oficial de Sony
 - Compatible con PS5/PS4/PC
-- Componentes de alta calidad para mayor precisión y durabilidad, incluyendo botones mecánicos Micro Switch
 - Hasta 4 perfiles distintos
+- Componentes de alta calidad para mayor precisión y durabilidad, incluyendo botones mecánicos Micro Switch
+- Stick analógico de corto recorrido con restrictor octagonal para una mayor rapidez y precisión
+- Diseñado específicamente para juegos de lucha en 2D
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQTTWPQ{{</world>}}

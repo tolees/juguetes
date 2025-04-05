@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
 - Lucha contra una amenaza alienígena letal y en constante evolució
+- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
 - Arriésgalo todo en zonas de contención impredecibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

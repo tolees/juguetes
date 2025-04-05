@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AUTÉNTICO: El potente vehículo Ninja Kick Cycle de doble cilindrada tiene todos los detalles como la moto de la película basada en la exitosa serie animada de televisión de los años 80 y viene con una exclusiva figura de acción de Leonardo con casco desmontable.
-- COLECCIÓNALOS TODOS: Junta todas las figuras de acción, accesorios y los playsets de juego de la película Tortugas Ninja: Caos Mutante; Como las figuras de acción Básicas o Deluxe o estos vehículos Ninja de TMNT: Sidecar Modular o la Moto Ninja Kick Cycle
-- ACCESORIOS: La figura de Leo viene con un armero de accesorios de batalla, listo para la lucha con sus icónicas katanas, una funda para sujetarlas y un lanzador de estrellas ninja.
 - FIGURA ARTICULADA: La figura de Leonardo mide casi 11 centímetros de alto y es totalmente articulada en 12 puntos diferentes, para que puedas colocarla en la posición que quieras, ¡listo para las poses de acción de batalla!
+- AUTÉNTICO: El potente vehículo Ninja Kick Cycle de doble cilindrada tiene todos los detalles como la moto de la película basada en la exitosa serie animada de televisión de los años 80 y viene con una exclusiva figura de acción de Leonardo con casco desmontable.
+- ACCESORIOS: La figura de Leo viene con un armero de accesorios de batalla, listo para la lucha con sus icónicas katanas, una funda para sujetarlas y un lanzador de estrellas ninja.
+- COLECCIÓNALOS TODOS: Junta todas las figuras de acción, accesorios y los playsets de juego de la película Tortugas Ninja: Caos Mutante; Como las figuras de acción Básicas o Deluxe o estos vehículos Ninja de TMNT: Sidecar Modular o la Moto Ninja Kick Cycle
 - FUNCIÓN DE LUCHA: Dale la vuelta al trozo de pizza de decoración de la moto para empezar a jugar; muévela de un lado a otro y observa cómo Leo salta de su asiento y patea de un lado a otro, acabando con los malos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Basado en las dos primeras temporadas de la muy aclamada serie de Netflix
 - Encarna a los protagonistas de la serie e intentan detener a terroríficas fuerzas sobrenaturales.
 - Salva a Will de los horrores del Mundo del Revés.
 - De 2 a 4 Jugadores, 60 Minutos de duración.
 - Stranger Things: Mundo del Revés es un juego cooperativo
-- Basado en las dos primeras temporadas de la muy aclamada serie de Netflix
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGJJMJ3J{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hay dos formas de jugar: con el juego clásico de Scrabble y el vocabulario de Star Wars, o con el modo Galáctico, que te permite mover fichas de naves espaciales por el tablero para recopilar cartas galácticas.
-- El Millennium Falcon nunca te deja en la estacada: en este juego, es una de las fichas de naves espaciales que marcan el progreso del jugador por el tablero en el modo Galáctico. Salta a la velocidad de la luz y echa un vistazo a todas las fichas de naves espaciales.
 - La auténtica temática de Star Wars une fuerzas con el juego de Scrabble. Disfruta de todos los aspectos de la aventura galáctica, desde el tablero de juego hasta las fichas de naves espaciales, las cartas galácticas y el glosario de Star Wars.
+- El Millennium Falcon nunca te deja en la estacada: en este juego, es una de las fichas de naves espaciales que marcan el progreso del jugador por el tablero en el modo Galáctico. Salta a la velocidad de la luz y echa un vistazo a todas las fichas de naves espaciales.
 - Gracias a esta edición especial del juego Scrabble, los fans de Star Wars pueden disfrutar de su saga favorita junto con el juego de palabras cruzadas más popular de la galaxia.
 - ¡Incluso las fichas de letras son especiales! Incluyen caracteres de Aurebesh, el alfabeto de la galaxia de Star Wars.
+- Hay dos formas de jugar: con el juego clásico de Scrabble y el vocabulario de Star Wars, o con el modo Galáctico, que te permite mover fichas de naves espaciales por el tablero para recopilar cartas galácticas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098TD7MFQ{{</world>}}

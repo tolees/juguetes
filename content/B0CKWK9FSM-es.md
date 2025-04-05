@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un eurogame fresco cuya combinación de mecánicas entre deckbuilding, exploración y gestión de motor desemboca en una experiencia satisfactoria
 - El triunfador definitivo de la feria de Essen 2022
 - Sistema de campaña complementario con elementos óptimos
+- Un eurogame fresco cuya combinación de mecánicas entre deckbuilding, exploración y gestión de motor desemboca en una experiencia satisfactoria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKWK9FSM{{</world>}}

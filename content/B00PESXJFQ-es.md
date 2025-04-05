@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El guacamayo macao es conocido por su hermoso plumaje que resplandece en colores intensos
+- A menudo también se puede observar a los guacamayos macao lamiendo el lodo en las orillas de los ríos
 - Sus platos preferidos son, junto con la fruta, las nueces del Brasil, cuya cáscara dura rompe sin problemas con su pico
 - No solo es precioso, sino también muy llamativo
-- A menudo también se puede observar a los guacamayos macao lamiendo el lodo en las orillas de los ríos
 - En su hábitat, la selva tropical, se funde visualmente con las hojas verdes y las frutas de colores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

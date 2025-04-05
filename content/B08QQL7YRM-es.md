@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los bloques se combinan con todos los conjuntos de construcción de Barbie y Mega Construx, y son compatibles con las principales marcas
-- Caravana construible que se transforma en una zona de acampada con 2 camas.
 - El conjunto de construcción incluye 2 micromuñecas Barbie, 3 animales, 123 bloques de construcción con piezas y accesorios especiales, y 1 placa base en forma de corazón para construir
+- Caravana construible que se transforma en una zona de acampada con 2 camas.
+- Los bloques se combinan con todos los conjuntos de construcción de Barbie y Mega Construx, y son compatibles con las principales marcas
 - Ideal a partir de 5 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 - 6 accesorios de moda para personalizar como quieras
 

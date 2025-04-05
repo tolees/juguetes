@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Clementoni
 - Reconstruye el conocido monumento Taj Mahal
+- Marca: Clementoni
 - 1500 piezas para poder crear láminas de colores vibrantes y diseños increíbles
 - Siéntete como el emperador Sha Jahan
 

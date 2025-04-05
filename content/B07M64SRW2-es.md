@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - De 1 a 5 jugadores.
+- Aumenta tus ejércitos, defiende tus ciudades y forja alianzas para repeler las incesantes incursiones.
 - A partir de 8 años de edad.
 - ¿Podrás mantenerte firme ante las hordas invasoras y evitar la caída de Roma?
-- Aumenta tus ejércitos, defiende tus ciudades y forja alianzas para repeler las incesantes incursiones.
 - Ciudadanos, soldados y aliados del Imperio Romano se unen en Pandemic, la caída de Roma.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

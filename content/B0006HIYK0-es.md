@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO EDUCATIVO: Un juego de táctica, lógica y estrategia
-- JUEGO FAMILIAR: Un juego de mesa para toda la familia a partir de 6 años. Número de jugadores: de 2 a 4 jugadores. Tiempo de juego: aprox. 30 min
 - FORMATO NOMAD: Llévalo a todas partes gracias a su formato de viaje
+- JUEGO FAMILIAR: Un juego de mesa para toda la familia a partir de 6 años. Número de jugadores: de 2 a 4 jugadores. Tiempo de juego: aprox. 30 min
+- JUEGO EDUCATIVO: Un juego de táctica, lógica y estrategia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0006HIYK0{{</world>}}

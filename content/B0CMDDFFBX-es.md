@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comienza la aventura
 - Dlc adicional
 - Excelencia Erebonia
+- Comienza la aventura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMDDFFBX{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El diseño se caracteriza por lentes espejadas
 - Producto fabricado por Alpina
 - Montura de calidad
-- El diseño se caracteriza por lentes espejadas
 - Gafas de sol de forma cuadrada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

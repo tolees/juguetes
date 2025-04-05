@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- menaje cocina juguete
 - juego de juguetes de cocina para niños
-- accesorios cocina juguetes
+- menaje cocina juguete
 - cozinha criança brincar
-- juguetes de olla pequeños
-- cocinita infantil
 - utensilios cocina juguete
 - cacharritos cocinitas de juguetes
+- cocinita infantil
+- juguetes de olla pequeños
+- accesorios cocina juguetes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09V6YJBQ8{{</world>}}

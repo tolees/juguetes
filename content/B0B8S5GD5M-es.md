@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Romanos: Habéis sido elegidos para llevar a cabo una misión de imperial importancia.
 - En agradecimiento, y para que no se diga que el césar es ingrato, los mejores de entre vosotros recibiréis más riquezas de las que podáis imaginar.
 - ¡Ave, yo!
-- Yo, el gran Cayo Julio César, os envío a expandir las fronteras de mi imperio. Dicen que todos los caminos llevan a Roma.
 - ¡Hagámoslo realidad!
+- Yo, el gran Cayo Julio César, os envío a expandir las fronteras de mi imperio. Dicen que todos los caminos llevan a Roma.
+- Romanos: Habéis sido elegidos para llevar a cabo una misión de imperial importancia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8S5GD5M{{</world>}}

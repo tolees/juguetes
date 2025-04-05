@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Comienza el juego, ¿estás preparado?
 - Cientos de combinaciones posibles.
-- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Cada partida es diferente.
 - Pulsalo y se el primero en encontrar los marcianos iguales a los dados.
 

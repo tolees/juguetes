@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡A imposibilizar!
 - Elige la libertad en el modo cajón de sastre
+- ¡A imposibilizar!
 - Avanza en una campaña narrativa y crea parques con una arquitectura de ensueño
 - Comparte tu obra maestra y encuentra inspiración
 

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye dos vehículos RacerVerse de Hot Wheels inspirados en los personajes Grogu y el Mandalorian de Star Wars en coches Hot Wheels de metal optimizados para correr por la pista.
-- Los vehículos de Grogu y el Mandalorian de RacerVerse de Hot Wheels, inspirados en Star Wars, competirán en una carrera cara a cara en el conjunto La gran carrera de Grogu de RacerVerse de Hot Wheels.
-- Las piezas de la pista son compatibles con otras pistas de Hot Wheels para jugar y vivir aventuras sin límites.
-- Deja caer a los corredores levantando las barreras en forma de sables de luz y descubre quién es el primero en cruzar la línea de meta tras saltar por encima de los Soldados Imperiales. ¡Una bandera se alzará sobre el carril del ganador!
-- El vehículo del Mandalorian de RacerVerse de Hot Wheels hace su primera aparición en este conjunto.
-- El conjunto permite un almacenamiento sencillo y compacto.
 - El conjunto de pistas La mejor carrera de Grogu de RacerVerse de Hot Wheels es un regalo estupendo para los fans de Star Wars y niños y niñas a partir de 4 años.
+- Deja caer a los corredores levantando las barreras en forma de sables de luz y descubre quién es el primero en cruzar la línea de meta tras saltar por encima de los Soldados Imperiales. ¡Una bandera se alzará sobre el carril del ganador!
+- Las piezas de la pista son compatibles con otras pistas de Hot Wheels para jugar y vivir aventuras sin límites.
+- El conjunto permite un almacenamiento sencillo y compacto.
+- Incluye dos vehículos RacerVerse de Hot Wheels inspirados en los personajes Grogu y el Mandalorian de Star Wars en coches Hot Wheels de metal optimizados para correr por la pista.
+- El vehículo del Mandalorian de RacerVerse de Hot Wheels hace su primera aparición en este conjunto.
+- Los vehículos de Grogu y el Mandalorian de RacerVerse de Hot Wheels, inspirados en Star Wars, competirán en una carrera cara a cara en el conjunto La gran carrera de Grogu de RacerVerse de Hot Wheels.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN158JWP{{</world>}}

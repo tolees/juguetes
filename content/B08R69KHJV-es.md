@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Número de piezas: 12.000; Medida aproximada una vez montado: 214 x 157 cm
-- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde las 1000 piezas se recomiendan a partir de 14 años.
-- Las piezas están repartidas en 2 bolsas de 6.000 piezas cada una
-- Si tienes paciencia, capacidad de concentración y una pasión enorme por los puzzles y los grandes retos, eres un auténtico puzzlero; Disfruta de nuestra gama de puzzles XXL
 - El ilustrador Adrian Chesterman nos vuelve a sorprender con esta completísima imagen de nuestro planeta; Los símbolos más emblemáticos, repartidos en 12.000 piezas; Para verdaderos amantes de los retos
+- Las piezas están repartidas en 2 bolsas de 6.000 piezas cada una
+- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde las 1000 piezas se recomiendan a partir de 14 años.
+- Si tienes paciencia, capacidad de concentración y una pasión enorme por los puzzles y los grandes retos, eres un auténtico puzzlero; Disfruta de nuestra gama de puzzles XXL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R69KHJV{{</world>}}

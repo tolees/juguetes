@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este juguete necesita para su funcionamiento 2 pilas de triple A. Las pilas están incluidas en el pack
-- Tiene tres modalidades de juego, que son: modo canción con la música de la serie; modo juego y sonidos de guitarra
 - Este juguete tiene luces y ahorro energético inteligente, se apaga después de 15 segundos sin ser usado
 - Sing-Along Guitar de Pistas de Blue y Tú es una guitarra de juguete como la de Josh, el personaje de Blue´s Clues
 - Recomendado para niños y niñas pequeños desde 3 años a los que les encante esta divertida serie de Las Pistas de Blue y Tú
+- Tiene tres modalidades de juego, que son: modo canción con la música de la serie; modo juego y sonidos de guitarra
+- Este juguete necesita para su funcionamiento 2 pilas de triple A. Las pilas están incluidas en el pack
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TB851LW{{</world>}}

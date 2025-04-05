@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puzle de 1000 piezas
 - Edad recomendada: a partir de 12 años
 - Puzles prémium de Schmidt, con calidad a la que puedes agarrar
+- Puzle de 1000 piezas
 - Tamaño: 69,3 x 49,3 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

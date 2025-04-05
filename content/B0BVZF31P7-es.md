@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piloto de clase mundial
 - El doble de potencia de fuego
+- Piloto de clase mundial
 - Raiden remezclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

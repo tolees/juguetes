@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una historia contada con canciones
-- Un debut delicioso
 - Un cambio de imagen maravilloso
+- Un debut delicioso
+- Una historia contada con canciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVZ97DKV{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Uno de los jugadores es "Sr. X", mientras que otros jugadores trabajan en equipo para tratar de atraparlo
+- Un juego de estrategia que es diferente cada vez que juegues
 - Altamente detallado-tablero de juego ilustrado en torno al centro de Londres
 - Diversión para jugar juego de detectives para toda la familia para disfrutar, con una mirada a estrenar
-- Un juego de estrategia que es diferente cada vez que juegues
-- Uno de los jugadores es "Sr. X", mientras que otros jugadores trabajan en equipo para tratar de atraparlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00C3SFFEI{{</world>}}

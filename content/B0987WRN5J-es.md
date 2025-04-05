@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las letras también son especiales: contienen letras Aurebesh del alfabeto de la galaxia de Star Wars.
 - Dos modos de juego: Scrabble clásico con vocabulario de Star Wars o en modo galaxia donde las piedras de la nave espacial se pueden mover a través del tablero para recoger cartas de galaxia.
+- Las letras también son especiales: contienen letras Aurebesh del alfabeto de la galaxia de Star Wars.
 - Esta edición especial de Scrabble reaviva la saga de Star Wars para los fanáticos y se convierte en el juego de crucigramas más popular de la galaxia.
-- El halcón milenio es siempre una fuerza: en este juego es una de las fichas de nave espacial que muestran los puntos en el tablero en modo galaxia. Scrabble ahora está en camino a la velocidad de la luz e incluso tiene fichas especiales de nave espacial a bordo:
 - Este juego de Scrabble tiene un auténtico diseño de Star Wars. El juego de mesa con fichas de nave espacial y cartas galaxias y un glosario de Star Wars invita a experimentar aventuras galácticas.
+- El halcón milenio es siempre una fuerza: en este juego es una de las fichas de nave espacial que muestran los puntos en el tablero en modo galaxia. Scrabble ahora está en camino a la velocidad de la luz e incluso tiene fichas especiales de nave espacial a bordo:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0987WRN5J{{</world>}}

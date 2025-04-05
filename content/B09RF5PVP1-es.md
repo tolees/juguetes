@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
+- Puzzles infantiles recomendados a partir de 4 años.
 - Actividad perfecta para desarrollar la motricidad fina, la creatividad y la memoria visual. Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños.
 - Incluye 2 puzzles de madera ecológica con 25🧩 cada uno. ¡Diversión por partida doble!. Medidas aproximadas una vez montado: 26 x 18 cm.
-- Puzzles infantiles recomendados a partir de 4 años.
 - Puzzles de madera, resistente y segura para los niños (no genera astillas); compuestos por grandes piezas, acabado óptimo para que sea sencilla y segura su manipulación por los niños.
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RF5PVP1{{</world>}}

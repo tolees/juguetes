@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MIPS integra: La óptima tecnología creada por especialistas en protección craneoencefálica MIPS optimiza la protección frente a impactos rotacionales
 - Ventilación optimizada: Los canales de ventilación se han optimizado para garantizar el flujo de aire y la comodidad incluso cuando hace mucho calor
 - Sistema de ajuste de 360°: Un sistema de ajuste de 360° permite regular el casco para llevarlo de forma cómoda y segura
+- MIPS integra: La óptima tecnología creada por especialistas en protección craneoencefálica MIPS optimiza la protección frente a impactos rotacionales
 - Visera patentada desmontable: La visera desmontable patentada se desprende en caso de accidente para ofrecer una óptima protección del cuello y reducir las probabilidades de sufrir una lesión
 - Carcasa de una pieza: La carcasa de policarbonato de una pieza aporta al casco una óptima integridad estructural
 

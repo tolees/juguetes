@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recrea el conflicto global entre las dos superpotencias del siglo XVIII, Inglaterra y Francia
 - Un juego de estrategia, en el que los jugadores deberán proteger sus dominios en tiempos de paz y en tiempos de guerra
 - De los autores de Twilight Struggle, Ananda Gupta y Jason Matthews
+- Recrea el conflicto global entre las dos superpotencias del siglo XVIII, Inglaterra y Francia
 - Para dos jugadores a partir de los 14 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

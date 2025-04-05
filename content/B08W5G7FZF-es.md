@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los sets LEGO City Stuntz son una emocionante temática de LEGO City, que traen la alegría de los espectáculos de acrobacias, con algunas sorpresas y caras familiares
-- Edad recomendada por el fabricante: 5+
-- Número de piezas: 170
 - Parque Acrobático
 - Incluye una moto de juguete con rueda de inercia y un montón de objetos y desafíos que el piloto tendrá que superar, ¡como llamas y una araña gigante!
+- Número de piezas: 170
+- Edad recomendada por el fabricante: 5+
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08W5G7FZF{{</world>}}

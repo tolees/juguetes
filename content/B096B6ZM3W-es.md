@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Además incluye Mini Bellie: Mini-Pepa, con un diseño super bonito
 - También encontrarás la cocina que incluye nevera, horno con puerta y accesorios para el almuerzo
 - Mini Bellies Apartment es el apartamento más divertido para todos tus Mini Bellies
-- ¡Dos pisos completos con todo lo que necesitas para pasar horas de diversión! En la planta baja encontrarás el baño con potty con ruedas (y es súper divertido porque se convierte en una tumbona)
 - En el primer piso puedes encontrar 2 camas y una mesa que se convierte en otra cama para sus invitados
+- ¡Dos pisos completos con todo lo que necesitas para pasar horas de diversión! En la planta baja encontrarás el baño con potty con ruedas (y es súper divertido porque se convierte en una tumbona)
+- Además incluye Mini Bellie: Mini-Pepa, con un diseño super bonito
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096B6ZM3W{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Involucra a todos tus amigos y familiares en este desafiante y encantador rompecabezas para todas las edades.
 - A partir de 10 años.
-- Sumérgete en el mundo de Central Perk con este puzle retro y divertido de Friends.
+- Involucra a todos tus amigos y familiares en este desafiante y encantador rompecabezas para todas las edades.
 - Puzzle de 1000 piezas que te mantendrá entretenido durante horas mientras armas la escena de tu serie favorita.
+- Sumérgete en el mundo de Central Perk con este puzle retro y divertido de Friends.
 - Un puzle para entretenerse durante horas divirtiéndote y dando forma a los mejores personajes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

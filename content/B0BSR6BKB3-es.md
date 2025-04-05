@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los zombis surgieron de la nada y acabaron con el mundo tal y como lo conocíamos
-- Ha llegado la hora de...Zombicide: Undead or Alive
 - Pero un puñado de valientes unieron sus fuerzas y tomaron las armas para hacer frente a la horda de infectados
-- Ha llegado la hora de los desafíos, el peligro, la libertad y el compañerismo
+- Ha llegado la hora de...Zombicide: Undead or Alive
 - Estos supervivientes vagan por el mundo en busca de provisiones, venganza y diversión a costa de los zombis; vosotros sois esos supervivientes; el pasado ha quedado atrás
+- Ha llegado la hora de los desafíos, el peligro, la libertad y el compañerismo
+- Los zombis surgieron de la nada y acabaron con el mundo tal y como lo conocíamos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSR6BKB3{{</world>}}

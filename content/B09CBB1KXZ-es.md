@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 306 bloques y piezas que se combinan con todos los conjuntos de construcción de Mega Construx y que son compatibles con otras marcas principales
 - Ideal a partir de 8 años, el gran nivel de detalle de este juguete de construcción ayuda a estimular las habilidades de creatividad y razonamiento
-- Incluye 3 microfiguras de acción con detalles auténticos: She-Ra y Hordak, por primera vez, y el Príncipe Adam, cada una con 12 zonas articuladas, soportes para exhibirlas y accesorios intercambiables
 - Conjunto de construcción Monstroid para coleccionistas inspirado en el emblemático juguete, con 4 patas articuladas, garras con sujeción y acción de torbellino de viento
 - Gira la manivela para mover el cuerpo, la cabeza y los brazos de Monstroid
+- Incluye 3 microfiguras de acción con detalles auténticos: She-Ra y Hordak, por primera vez, y el Príncipe Adam, cada una con 12 zonas articuladas, soportes para exhibirlas y accesorios intercambiables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09CBB1KXZ{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye: 1 figura de Marshall, 1 coche Dino Rescue Deluxe de Marshall, 1 figura de dinosaurio misteriosa
-- FIGURA DE DINOSAURIO MISTERIOSA: los coches Patrulla Canina Dino Rescue vienen con una figura de dinosaurio misteriosa a coleccionar; abre la caja para descubrir el dinosaurio que te acompañará en todas las misiones de rescate
 - MARSHALL PATRULLA CANINA JUGUETES: revive las escenas de los dibujos animados de la Patrulla Canina y colecciona todos los personajes Patrulla Canina y sus coches de juguetes (se venden por separado). El cachorro de la Patrulla Canina Marshall te acompañará vestido con su uniforme Dino Rescue rojo y amarillo; coloca a Marshall al volante de su coche PAW Patrol Dino Rescue ¡Este cachorro está preparado para aventuras prehistóricas
 - JUGUETES PATRULLA CANINA: ¡Recrea las emocionantes aventuras de la exitosa serie animada en casa con los cachorros y los coches Patrulla Canina
+- Incluye: 1 figura de Marshall, 1 coche Dino Rescue Deluxe de Marshall, 1 figura de dinosaurio misteriosa
+- FIGURA DE DINOSAURIO MISTERIOSA: los coches Patrulla Canina Dino Rescue vienen con una figura de dinosaurio misteriosa a coleccionar; abre la caja para descubrir el dinosaurio que te acompañará en todas las misiones de rescate
 - JUGUETES NIÑOS 3 AÑOS +: el coche Deluxe con aceleración, la figura de Marshall Patrulla Canina y el dinosaurio misterioso son adecuados para los niños a partir de los 3 años. Los muñecos Patrulla Canina y sus vehículos son juguetes fáciles de manejar que proporcionarán horas de diversión
 - MOTOR DE ACELERACIÓN Y HERRAMIENTA FUNCIONAL: El coche deluxe con detalles de dinosaurios de Marshall está preparado para rescates prehistóricos gracias a sus enormes ruedas, un motor de aceleración y una herramienta funcional. ¡Mueve el coche Patrulla Canina hacia delante para ponerlo en marcha
 

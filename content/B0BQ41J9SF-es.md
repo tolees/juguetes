@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Distintivo estilo artístico similar a un cuento, este juego cuenta con aspectos de juego nunca antes vistos en la saga Bayonetta.
-- Se controla tanto a Cereza como a su compañero demonio infernal, Cheshire, teniendo un gran componente de exploración, combate y resolución de puzles para ayudar a Cereza a adentrarse aún más en el bosque.
-- Fecha de lanzamiento sujeta a cambios
-- Los jugadores tomarán el control de Cereza, una joven aprendiz de bruja, que inicará un aciago camino adentrándose en un bosque prohibido que le hará ganar el poder para salvar a su madre.
 - Carátula no oficial
+- Los jugadores tomarán el control de Cereza, una joven aprendiz de bruja, que inicará un aciago camino adentrándose en un bosque prohibido que le hará ganar el poder para salvar a su madre.
+- Fecha de lanzamiento sujeta a cambios
+- Se controla tanto a Cereza como a su compañero demonio infernal, Cheshire, teniendo un gran componente de exploración, combate y resolución de puzles para ayudar a Cereza a adentrarse aún más en el bosque.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQ41J9SF{{</world>}}

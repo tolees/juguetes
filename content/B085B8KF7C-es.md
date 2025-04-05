@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PODEROSOS HÉROES Y HECHICEROS aparecen en esta edición especial, incluido el legendario He-Man. También hay otra sorpresa, una regla totalmente nueva del poder de Grayskull.
-- ILUSTRACIONES DE MASTERS OF THE UNIVERSE. Una espectacular transformación ha llegado a esta baraja de UNO: cada carta presenta la imagen de un personaje diferente de Masters of the Universe.
 - REGALO IDEAL PARA niños a partir de 7 años o fans de Masters of the Universe. A las familias les encantará jugar, y los coleccionistas alucinarán con las impresionantes ilustraciones de MOTU.
 - INCLUYE 112 CARTAS. Al igual que el UNO clásico, los jugadores deben emparejar las cartas por color o número, compitiendo por ser los primeros en deshacerse de sus cartas.
 - EL FAVORITO DE LA FAMILIA. Los más pequeños se divertirán jugando por turnos y desarrollando estrategias, sobre todo en las partidas contra su familia. Perfecto para niños y adultos por igual.
+- ILUSTRACIONES DE MASTERS OF THE UNIVERSE. Una espectacular transformación ha llegado a esta baraja de UNO: cada carta presenta la imagen de un personaje diferente de Masters of the Universe.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B085B8KF7C{{</world>}}

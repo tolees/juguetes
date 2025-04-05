@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conoce a Norah
 - Busca el significado
+- Conoce a Norah
 - Explora la belleza
 - Sumérgete en las profundidades
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Emma de 25 cm le gusta sobre todo Nueva York; es una muñeca muy cosmopolita a la que le encantan los deportes y la comida, especialmente probar todos los platos típicos de cada zona
 - La limusina Trottie de 44 cm de largo es el medio de transporte óptimo para celebrar fiestas súper divertidas; es rápida, glamurosa y en su interior la fiesta nunca para
 - Su superpoder es teletransportarse a sí misma, a sus mejores amigas o a lo que quiera a cualquier lugar del mundo; también puede correr súper rápido y subir a los tejados con facilidad gracias a su supersalto
 - Vestida con un traje veraniego, que incluye una camiseta blanca muy al estilo de Nueva York, una gorra púrpura, un pantalón corto púrpura deportivo y unas modernas zapatillas azules
+- Emma de 25 cm le gusta sobre todo Nueva York; es una muñeca muy cosmopolita a la que le encantan los deportes y la comida, especialmente probar todos los platos típicos de cada zona
 - Esta limusina tiene todo lo que las Trotties necesitan para la fiesta; hasta 2 Trotties pueden entrar por las puertas y la alfombra rosa que se desliza desde el suelo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

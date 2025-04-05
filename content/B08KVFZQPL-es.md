@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tutte le arene, le Fatality di livello, le Brutality, le Fatality iconiche e le Friendship
-- Milioni di skin, armi e attrezzature per un livello di personalizzazione senza precedenti
-- Tutte le modalità, incluse Torri del Tempo, Kripta, Tutorial, Online, Torri Klassiche e molto altro
 - Include tutti i kombattenti aggiuntivi precedenti: Terminator, Joker, Spawn e RoboCop
+- Tutte le modalità, incluse Torri del Tempo, Kripta, Tutorial, Online, Torri Klassiche e molto altro
+- Milioni di skin, armi e attrezzature per un livello di personalizzazione senza precedenti
 - Include MK11, Kombat Pack 1, Espansione Aftermath e Kombat Pack 2
+- Tutte le arene, le Fatality di livello, le Brutality, le Fatality iconiche e le Friendship
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KVFZQPL{{</world>}}

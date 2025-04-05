@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Investiga, disimula, acusa y gana
+- Nueva versión para dos jugadores que añade un nuevo toque de intriga
+- Cluedo - hasbro gaming (hasbro 38712546)
 - Muévete de una habitación a otra y descubre quién lo hizo, dónde y con qué arma
 - La carrera para encontrar al culpable ha comenzado
-- Investiga, disimula, acusa y gana
-- Cluedo - hasbro gaming (hasbro 38712546)
-- Nueva versión para dos jugadores que añade un nuevo toque de intriga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CELLR22{{</world>}}

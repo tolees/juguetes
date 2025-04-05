@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego abstracto que se aprende en 5 minutos y se juega en 10
 - Para dos jugadores a partir de los ocho años de edad
 - Buena entrega de la nueva línea Pocket Seasons, pequeños juegos que estarán basados en las 4 estaciones del año
+- Juego abstracto que se aprende en 5 minutos y se juega en 10
 - Devir Pocket: juegos económicos para jugar, en cualquier parte, miles de partidas en tu bolsillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

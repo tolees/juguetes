@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto representa un juego de cartas
-- Se aprende en 2 minutos
 - Se juega en 15 minutos
 - La edad mínima recomendada es de 18 años
+- Se aprende en 2 minutos
+- El producto representa un juego de cartas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DJTRGNR{{</world>}}

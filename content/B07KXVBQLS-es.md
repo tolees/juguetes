@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Edición en castellano
 - Los jugadores se mueven por los colores que representan las diferentes emociones o sentimientos, como calma, rabia, miedo, tristeza y necesitan guardarlos en cada frasco correspondiente
+- Edición en castellano
 - Juego adecuado para pasar el tiempo libre
 - Edad recomendada: de 3 a 6 años
 - Tipo de producto: juego de mesa

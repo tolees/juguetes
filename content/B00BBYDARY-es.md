@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para ganar has de hacer trampas
+- Para ganar has de hacer trampas
 - Ganador del prestigioso “Deutscher Spiele preis Best Children’s Game” 2012
 - Temática: juegos de cartas
-- El juego consiste en quedarse sin cartas, para ello iremos echando una carta con un número inmediatamente superior o inferior a la que hay en la mesa
-- Para ganar has de hacer trampas
-- Duración aproximada de la partida 15-25 min
 - Duración aproximada de la partida 15-25 min
 - Ganador del prestigioso “Deutscher Spiele preis Best Children’s Game” 2012
-- Para ganar has de hacer trampas
+- El juego consiste en quedarse sin cartas, para ello iremos echando una carta con un número inmediatamente superior o inferior a la que hay en la mesa
+- Duración aproximada de la partida 15-25 min
 - Edad mínima recomendada: 84 meses
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

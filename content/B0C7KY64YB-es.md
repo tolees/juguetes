@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BATERÍA DE LARGA DURACIÓN: Disfruta de una autonomía extendida con la batería de litio de 36V, 10,4Ah y 374,4Wh, convenientemente ubicada debajo del portaequipajes, que permite a nuestra bicicleta eléctrica recorrer hasta 90km (56 millas) en modo ECO con una sola carga.
 - FÁCIL MONTAJE: Las bicicletas eléctricas F.lli Schiano se entregan premontadas en un 98%, lo que garantiza un proceso de montaje sin complicaciones y sin necesidad de asistencia profesional. Prepárate para pedalear en cuestión de minutos.
 - CARACTERÍSTICAS ADICIONALES: Disfruta de las luces delanteras y traseras alimentadas por la batería de la bicicleta, pantalla LED, caballete central estable, sillín Selle Royal para una mayor comodidad, un timbre, guardabarros, canasta y una cubierta de cadena.
 - VALOR INIGUALABLE: Experimenta un rendimiento excepcional con las características de primera categoría de esta bicicleta eléctrica, que incluyen una caja de cambios Shimano de 21 velocidades, marco de aluminio, frenos V-brake, horquilla de suspensión y llantas de 28 pulgadas.
+- BATERÍA DE LARGA DURACIÓN: Disfruta de una autonomía extendida con la batería de litio de 36V, 10,4Ah y 374,4Wh, convenientemente ubicada debajo del portaequipajes, que permite a nuestra bicicleta eléctrica recorrer hasta 90km (56 millas) en modo ECO con una sola carga.
 - VIAJES SIN ESFUERZO: Transforma tu viaje diario en un paseo placentero con esta bicicleta eléctrica para adultos, equipada con un potente motor trasero ANANDA de 250W que ofrece un par de torsión de 40Nm y una velocidad máxima asistida por pedaleo de 25 km/h.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

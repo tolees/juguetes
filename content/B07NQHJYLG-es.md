@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tienen el pelo largo y son articuladas y adaptables: ¡puedes mover sus brazos, piernas y cabezas
-- Esta figura de SUGA está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
 - ¡Muestra tu amor por BTS con la colección oficial de los muñecos de moda que representan a los siete artistas
+- Esta figura de SUGA está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
 - También están disponibles (se venden por separado) las figuras de moda inspiradas en los otros seis miembros de BTS: RM, Jin, J-hope, Jimin, V y Jung Kook. ¡Colecciónalos todos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

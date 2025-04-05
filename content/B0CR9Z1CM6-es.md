@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 1: Revive tus escenas favoritas de la película Star Wars: Las Guerras Clon mientras construyes ladrillo a ladrillo todos los detalles de este casco LEGO coleccionable
-- producto 1: Una vez acabado, podrás usar el soporte de exhibición incluido y la placa decorativa para darle el broche final a esta llamativa pieza de decoración para casa o la oficina; un recuerdo que per en el tiempo
 - producto 2: Los niños podrán jugar y simular que viajan a Kamino con Obi-Wan y droide astromecánico de confianza R4-P17, para tener una reunión con Taun We que podría cambiar el curso de las Guerras Clon
-- producto 2: Incluye 2 mini figuras LEGO Star Wars de Obi-Wan Kenobi con una espada láser de juguete, y por primera vez, una de Taun We, además de una figura LEGO del droide astromecánico R4-P17
+- producto 1: Una vez acabado, podrás usar el soporte de exhibición incluido y la placa decorativa para darle el broche final a esta llamativa pieza de decoración para casa o la oficina; un recuerdo que per en el tiempo
 - producto 1: Parte de una colección de cascos LEGO Star Wars para construir y exhibir, incluye tanto instrucciones impresas ilustradas paso a paso en la caja como la experiencia digital de la app LEGO Builder
+- producto 2: Incluye 2 mini figuras LEGO Star Wars de Obi-Wan Kenobi con una espada láser de juguete, y por primera vez, una de Taun We, además de una figura LEGO del droide astromecánico R4-P17
 - producto 1: Esta maqueta de Star Wars para construir para adultos permite a los fans de la Legión 501 recrear el Casco del legendario Comandante Clon Capitán Rex a hasta el último detalle
-- producto 2: El caza estelar de juguete tiene cabina abatible con espacio para una mini figura, 2 cañones, tren de aterrizaje retráctil, clips para sables de Star Wars y un punto de sujeción en el ala para un droide
 - producto 2: Emociona a los pequeños fans de Star Wars: El Ataque de los Clones y revive épicas escenas con este juguete de construcción del icónico Caza Estelar de Obi-Wan Kenobi
+- producto 2: El caza estelar de juguete tiene cabina abatible con espacio para una mini figura, 2 cañones, tren de aterrizaje retráctil, clips para sables de Star Wars y un punto de sujeción en el ala para un droide
+- producto 1: Revive tus escenas favoritas de la película Star Wars: Las Guerras Clon mientras construyes ladrillo a ladrillo todos los detalles de este casco LEGO coleccionable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR9Z1CM6{{</world>}}

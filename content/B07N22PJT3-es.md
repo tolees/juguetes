@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones aproximadas del puzzle una vez montado: 40 x 28 cm
+- Recomendado para niños y niñas a partir de 6 años
 - Diseñado para embellecer los momentos del juego
 - Set de 2 puzzles de 100 piezas, dragon ball
-- Recomendado para niños y niñas a partir de 6 años
+- Dimensiones aproximadas del puzzle una vez montado: 40 x 28 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07N22PJT3{{</world>}}

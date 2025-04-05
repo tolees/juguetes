@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MELODIAS Y FRASES: Más de 60 canciones, melodías, sonidos y frases.
-- ASPECTOS EDUCATIVOS: Juego imaginativo, Desarrollo motor y Desarrollo del lenguaje.
-- EDAD: Playset y coche de juguete para niños +1 año.
-- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
-- PLATAFORMA DE LANZAMIENTO: Lanza el Jet por la pista a toda velocidad.
-- COMPATIBILIDAD: Conéctalo a otros playsets de Tut Tut (de venta por separado).
 - VERSIÓN: Española
+- COMPATIBILIDAD: Conéctalo a otros playsets de Tut Tut (de venta por separado).
+- EDAD: Playset y coche de juguete para niños +1 año.
+- ASPECTOS EDUCATIVOS: Juego imaginativo, Desarrollo motor y Desarrollo del lenguaje.
+- PLATAFORMA DE LANZAMIENTO: Lanza el Jet por la pista a toda velocidad.
 - ¡VUELA Y JUEGA!: Haz la maleta y prepárate para un viaje inolvidable. Desplázate por el aeropuerto recogiendo a los pasajeros, despega en la pista y ¡vuela por el cielo!
+- MELODIAS Y FRASES: Más de 60 canciones, melodías, sonidos y frases.
+- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RMW7XG3{{</world>}}

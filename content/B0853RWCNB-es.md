@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuestro búho Óscar es tan popular entre nuestros clientes que ahora tiene su propia colección. Por supuesto Óscar no quiere estar solo, así que lleva a su novia consigo. Adoramos a la beige Owluna, ¡con sus pies rosas al puro estilo Óscar!
 - El búho Oscar de The Owlsons es simplemente único con sus rayas azules y su pico de peluche naranja. Su cuerpo marrón y beige con peluche de pelo ligeramente más largo lo convierte en un amigo de peluche extra suave. ¡Además, Oscar puede girar la cabeza como un búho real!
+- Nuestro búho Óscar es tan popular entre nuestros clientes que ahora tiene su propia colección. Por supuesto Óscar no quiere estar solo, así que lleva a su novia consigo. Adoramos a la beige Owluna, ¡con sus pies rosas al puro estilo Óscar!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0853RWCNB{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A Nenuco ¡Hora de nadar! Le encanta estar en el agua
+- Para niños y niñas a partir de 3 años de edad
 - Tiene un bonito bañador y con su flotador puedes pasarte horas jugando
 - Perfecto para jugar en la en la piscina e incluso en la bañera.
+- A Nenuco ¡Hora de nadar! Le encanta estar en el agua
 - Tiene un bonito diseño de jirafa y es electrónico: activa el motor y el flotador empezará a moverse solo
-- Para niños y niñas a partir de 3 años de edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09Q5HGL4B{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COLECCIONABLES DE THE BLACK SERIES. Colecciona otros juguetes de personificación premium de Star Wars The Black Series (Se venden por separado. Sujeto a disponibilidad.)
-- LUCES Y EFECTOS DE SONIDO DE VUELO: Los 3 altavoces internos crean una experiencia inmersiva de sonido mientras que luces LED sincronizadas dentro del visor simulan disparos de blásters y explosiones, además de comunicación con Carson Teva
-- ESTACIÓN RANZAR O RAZOR CREST: Usa el interruptor dentro del casco para alternar entre una simulación de Trapper Wolf en su X-wing atacando a la estación de Ranzar Malk o persiguiendo a la nave Razor Crest
-- CASCO ELECTRÓNICO: Con su decorado detallado, diseño inspirado en la serie, acolchado interior, luces y efectos de sonido electrónicos, este casco es una reproducción tamaño real del emblemático casco de Trapper Wolf
 - INSPIRADO EN LA SAGA DE STAR WARS: Tanto en el ataque a la estación espacial de Ranzar Malk o persiguiendo la nave Razor Crest de Din Djarin, Trapper Wolf usaba su emblemático casco mientras patrullaba el Borde Exterior con Carson Teva
+- ESTACIÓN RANZAR O RAZOR CREST: Usa el interruptor dentro del casco para alternar entre una simulación de Trapper Wolf en su X-wing atacando a la estación de Ranzar Malk o persiguiendo a la nave Razor Crest
+- LUCES Y EFECTOS DE SONIDO DE VUELO: Los 3 altavoces internos crean una experiencia inmersiva de sonido mientras que luces LED sincronizadas dentro del visor simulan disparos de blásters y explosiones, además de comunicación con Carson Teva
+- CASCO ELECTRÓNICO: Con su decorado detallado, diseño inspirado en la serie, acolchado interior, luces y efectos de sonido electrónicos, este casco es una reproducción tamaño real del emblemático casco de Trapper Wolf
+- COLECCIONABLES DE THE BLACK SERIES. Colecciona otros juguetes de personificación premium de Star Wars The Black Series (Se venden por separado. Sujeto a disponibilidad.)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H1MSBN8{{</world>}}

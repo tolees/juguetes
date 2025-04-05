@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye también una cama que se desliza y una lámpara colgante que se mueve cuando el autobús gira y da un viraje brusco.
 - Este autobús LEGO de 3 pisos cuenta con un panel lateral abisagrado abatible y un techo desmontable para abrir al máximo las posibilidades de juego.
 - Autobús Noctámbulo
-- Número de piezas: 403
 - Edad recomendada por el fabricante: 8+
+- Incluye también una cama que se desliza y una lámpara colgante que se mueve cuando el autobús gira y da un viraje brusco.
+- Número de piezas: 403
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KX54VHF{{</world>}}

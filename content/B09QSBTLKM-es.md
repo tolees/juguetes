@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De 1 a 4 jugadores, recomendado a partir de 14 años
-- Cada escenario ofrece combates tácticos sin dados contra enemigos totalmente automáticos, en los que el uso de la capacidad correcta en el momento adecuado puede significar la diferencia entre el éxito y el fracaso
 - No necesitas que nadie prepare la campaña ni lleve a los monstruos
 - Gloomhaven: Fauces del León es un juego totalmente cooperativo de combate táctico en un mundo de fantasía único
+- Cada escenario ofrece combates tácticos sin dados contra enemigos totalmente automáticos, en los que el uso de la capacidad correcta en el momento adecuado puede significar la diferencia entre el éxito y el fracaso
 - Los jugadores asumen el papel de un grupo de aguerridos mercenarios que se abrirán paso a sangre y fuego en una campaña repleta de desafíos, sorpresas y elecciones constantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

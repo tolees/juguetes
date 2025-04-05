@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Magnífico regalo
 - La experiencia Carcassonne por el mejor precio
-- En español
 - Introducción a los juegos de mesa modernos
+- Magnífico regalo
+- En español
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075HJBW84{{</world>}}

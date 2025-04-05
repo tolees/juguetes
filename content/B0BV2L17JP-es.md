@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Sus manos y su boca son intercambiables.
 - Con 16 puntos de articulación puedes ponerle en la postura que quieras.
 - Recrea las escenas del juego de Crash Bandicoot con esta fantástica figura y crea tus propias aventuras.
-- Sus manos y su boca son intercambiables.
 - Figura de Crash el personaje del popular juego Crash Bandicoot es súper articulado y mide 15 cm.
-- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BV2L17JP{{</world>}}

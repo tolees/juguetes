@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido no disponible en otros formatos
 - El mejor regalo en cualquier momento del año
+- Contenido no disponible en otros formatos
 - Más Catan por menos precio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

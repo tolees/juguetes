@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Juego de cartas familiar que consiste en intentar eliminar a todos los vampiros que se pueda, usando las cartas de las que se dispone
-- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
-- Juego de estrategia de cartas adecuado para pasar una tarde con amigos y familias con niños
-- Contenido: 90 cartas y instrucciones de juego
 - Número de jugadores: de 2 a 4
+- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
+- Contenido: 90 cartas y instrucciones de juego
+- Juego de estrategia de cartas adecuado para pasar una tarde con amigos y familias con niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLVBPYC{{</world>}}

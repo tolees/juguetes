@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Para 2 jugadores; a partir de 6 años de edad
 - Las cosas abultan tanto que cargar el camión de mudanzas va a ser un rompecabezas
 - Elige bien tus muebles y dale al coco para encajarlos unos encima de otros de la mejor manera posible
 - Nos hemos comprado una casa de campo y ya solo queda transportar todos nuestros muebles hasta allí
-- Para 2 jugadores; a partir de 6 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGSWZ4H2{{</world>}}

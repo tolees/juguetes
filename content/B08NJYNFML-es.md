@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dimensiones del producto: 42.5 x 8 x 36.5 cm
 - Edad recomendada: a partir de 3 años
 - Material: plástico
-- Dimensiones del producto: 42.5 x 8 x 36.5 cm
 - Ayuda a estimular la creatividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

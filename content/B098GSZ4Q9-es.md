@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Un nuevo modo Supervivencia con desafíos semanales.
+- ¡Nuevas armas y enemigos!
 - Incluye el juego junto el nuevo DLC Mr X. Nightmare.
 - 3 nuevos personajes jugables.
-- Un nuevo modo Supervivencia con desafíos semanales.
 - Personalización de personajes: cread vuestro propio estilo de lucha con nuevos movimientos.
-- ¡Nuevas armas y enemigos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098GSZ4Q9{{</world>}}

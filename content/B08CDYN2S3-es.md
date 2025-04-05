@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Genre: Cartas
-- Batteries required: False
+- Minimum age: 96.0
 - Edition: Edición Estándar
 - Material: Plástico
-- Minimum age: 96.0
+- Batteries required: False
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CDYN2S3{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plataforma del juego: Nintendo 3DS
-- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
 - Los jugadores se pondrán en el papel de los héroes de la película
-- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
+- Plataforma del juego: Nintendo 3DS
 - Tipo de producto: videojuego
+- El juego cuenta con mecánicos para construir, luchar y volar a través de la galaxia
+- Utiliza los elementos del medio ambiente para cubrir en las intensas batallas con blasters
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01BHO7OCY{{</world>}}

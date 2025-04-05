@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayuda a desarrollar la imaginación y la creatividad
-- Kit de herramientas de camión de helados para plastilina
 - Es el regalo ideal para los amantes de la plastilina
+- Kit de herramientas de camión de helados para plastilina
+- Ayuda a desarrollar la imaginación y la creatividad
 - Contiene 5 botes de plastilina de colores surtidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

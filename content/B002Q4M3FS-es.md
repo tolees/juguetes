@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseño original y divertido
-- Material muy suave
 - Con grandes ojos preciosos
+- Material muy suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002Q4M3FS{{</world>}}

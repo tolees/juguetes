@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para niños entre 2 y 7 años
-- Medida producto: 153 cm (Largo) x 89 cm (Ancho) x 87 cm (Altura), Peso 13 kg
-- Puedes acceder a él trepando por cualquiera de las paredes del centro de actividades
-- De colores muy luminosos, resistentes a la luz solar y a los cambios de temperatura
-- Resistencia y fácil montaje
 - Entrar, salir, subir, bajar... Es tan divertido lanzarse por un tobogán
+- Resistencia y fácil montaje
+- Puedes acceder a él trepando por cualquiera de las paredes del centro de actividades
+- Medida producto: 153 cm (Largo) x 89 cm (Ancho) x 87 cm (Altura), Peso 13 kg
+- De colores muy luminosos, resistentes a la luz solar y a los cambios de temperatura
+- Para niños entre 2 y 7 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0176IGXJU{{</world>}}

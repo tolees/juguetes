@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada modelo de puzle contiene una carta de Dixit única
-- Marca: Libellud
-- Disfruta de las ilustraciones de camaleones de Dixit
 - Consta de 1000 piezas
+- Marca: Libellud
+- Cada modelo de puzle contiene una carta de Dixit única
+- Disfruta de las ilustraciones de camaleones de Dixit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JBRKVV{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HECHO EN FRANCIA: este producto está hecho en Francia, en nuestra fábrica del Loiret. ZEFAL es una marca reconocida internacionalmente por la calidad de sus productos, fruto de su larga experiencia (desde 1880)
 - CUALQUIER CONTENEDOR: la Z Adventure Cage permite sujetar cualquier tipo de contenedor cilíndrico, desde una simple botella de agua hasta una botella de agua de 1L, gracias a su amplia correa de gancho y bucle de Hypalon. Este portabidón es muy versátil y acepta incluso botellas rígidas de gran diámetro si su cuadro lo permite.
+- HECHO EN FRANCIA: este producto está hecho en Francia, en nuestra fábrica del Loiret. ZEFAL es una marca reconocida internacionalmente por la calidad de sus productos, fruto de su larga experiencia (desde 1880)
+- CARACTERISTICAS: dimensiones 230 x 81 x 94 mm, peso 88g, 3 tornillos incluidos. Soporte de polipropileno reforzado con fibra y correa de Hypalon. Acepta bidones de Ø66 a 92 mm.
 - SE ADAPTA A DIFERENTES CUADROS: gracias a sus 3 tornillos (incluidos), la Z Adventure Cage se adapta a cualquier tipo y tamaño de cuadro con la posibilidad de utilizar sólo 2 tornillos. Su montaje universal en el cuadro o la horquilla, gracias a los 4 orificios de fijación, permite una gran adaptabilidad.
 - PORTABIDON BICICLETA UNIVERSAL: La Z Adventure Cage le permite llevar una gran cantidad de agua en su bicicleta sin la molestia de llevar una mochila de hidratación. Este portabidon de agua es imprescindible para los viajes de larga distancia y el cicloturismo y se adapta a todo tipo de cuadros con todo tipo de recipientes.
-- CARACTERISTICAS: dimensiones 230 x 81 x 94 mm, peso 88g, 3 tornillos incluidos. Soporte de polipropileno reforzado con fibra y correa de Hypalon. Acepta bidones de Ø66 a 92 mm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BL5154XR{{</world>}}

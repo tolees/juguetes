@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - STAR WARS: UNA NUEVA ESPERANZA: Fans y coleccionistas pueden imaginar escenas de la galaxia de Star Wars con esta figura premium de Figrin D’an, inspirada en la película Star Wars: Una nueva esperanza
+- COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 - ACCESORIOS INSPIRADOS EN EL PERSONAJE DE LA PELÍCULA: Esta figura de acción de Star Wars The Black Series incluye 3 accesorios inspirados en la ficción, ideales para sumar a cualquier colección de Star Wars
 - ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium en su colección
 - FIGRIN D’AN: Figrin D’an era el talentoso líder de la banda “The Modal Nodes”. Su extraordinaria habilidad con la trompeta Kloo le ganó el apodo de "Fuego" Figrin.
-- COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H1P1BG3{{</world>}}

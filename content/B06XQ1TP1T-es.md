@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ VERSIÓN ESPAÑOLA
 - Incluye 30 melodías y distintos modos de música rock, jazz y country
-- Posibilidad de personalizar el ordenador añadiendo detalles como edad, nombre o comida favorita
-- Teclado abc y números del 1 al 10
-- 20 actividades educativas para aprender divirtiéndose en aspectos como matemáticas básicas o ciencias
 - Existe versión rosa de este artículo (diverpink pc)
+- 20 actividades educativas para aprender divirtiéndose en aspectos como matemáticas básicas o ciencias
+- Teclado abc y números del 1 al 10
+- Posibilidad de personalizar el ordenador añadiendo detalles como edad, nombre o comida favorita
+- ✅ VERSIÓN ESPAÑOLA
 - Ordenador educativo con pantalla interactiva retroiluminada y divertidas animaciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

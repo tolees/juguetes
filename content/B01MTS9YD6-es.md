@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tamaño de muñeca: 12 cm
 - Edad recomendada: a partir de 3 años
 - Contenido: muñeca Evi, botella, perro y 3 cachorros
-- Tamaño de muñeca: 12 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MTS9YD6{{</world>}}

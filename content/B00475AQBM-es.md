@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Recomendado para jugadores adultos
 - Duración aproximada de la partida más de 60 min
-- Brand: Devir
 - Un refinado juego de engaño y deducción ambientado en el Londres de Jack el DestriPador
+- Brand: Devir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00475AQBM{{</world>}}

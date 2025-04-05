@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Necesitas instalar la aplicación Ubisoft Connect para PC para ejecutar este contenido.
-- Una auténtica ciudad en 3D en el centro del tablero vive y evoluciona a medida que juegas.
 - Puedes cambiar las reglas y adaptarlas a tu estilo de juego.
+- Una auténtica ciudad en 3D en el centro del tablero vive y evoluciona a medida que juegas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9GMHW61{{</world>}}

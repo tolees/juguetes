@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para niños a partir de 4 años
 - El juego de diversión más amado por grandes y pequeños
 - Dimensiones caja: 19 x 19 x 5 cm
 - 72 cartas - 36 parejas
 - El único y original memory
+- Para niños a partir de 4 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00E3CKE84{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Es un juego solitario
 - Edad recomendada: 12
 - Tiempo de juego: 20-40 minutos
-- Es un juego solitario
 - El juego contiene diferentes escenarios de complejidad ascendente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

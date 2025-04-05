@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El juego es idéntico al clásico, pero con reglas especiales diseñadas para grupos grandes, ¡de 6 a 16 jugadores!
-- Con la regla Robo por partida doble, dos jugadores deben robar cartas al mismo tiempo.
 - La regla Partida rápida permite a los jugadores jugar una carta fuera de turno, ¡si son lo suficientemente rápidos!
+- Con la regla Robo por partida doble, dos jugadores deben robar cartas al mismo tiempo.
 - ¡Que no pare la fiesta con el juego de cartas UNO Party!
 - Según la regla ¡Apunten, fuego!, todos los jugadores deben señalar a otros jugadores y, a continuación, ¡cada jugador debe robar tantas cartas como dedos le señalen!
 

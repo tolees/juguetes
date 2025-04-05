@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La Hermandad de Mutantes se tiene a sí misma como superior a la gente corriente
-- Los X-Men defienden el principio de que los humanos y los mutantes
-- De 1 a 5 jugadores
 - A partir de 14 años
+- Los X-Men defienden el principio de que los humanos y los mutantes
 - Recorren el mundo en una desesperada lucha por proteger a los inocentes, eliminar funestas amenazas y enfrentarse a los villanos en una batalla definitiva.
+- De 1 a 5 jugadores
+- La Hermandad de Mutantes se tiene a sí misma como superior a la gente corriente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPYDK6K1{{</world>}}

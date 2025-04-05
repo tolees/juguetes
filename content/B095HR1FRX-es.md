@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Regnum es un juego de cartas de estrategia. Cada partida dura aproximadamente 30 minutos y pueden jugar de 2 a 4 jugadores.
+- En el medievo los reinos con más habitantes y mejores recursos eran los más prósperos. En este juego deberás conseguir que los personajes más valiosos se establezcan alrededor de tu castillo. Consigue recursos y adquiere con ellos personajes, los cuales tienen puntos asociados. Juega con astucia e invierte bien tus recursos.
 - Invierte bien tus recursos y traza tu estrategia. Llena tu castillo de personajes pertenecientes a la corte, al ejército o al poblado. Sé cauteloso con el resto de los castillos, pues todos van a querer arrebatarte los personajes más valiosos. ¿Serás capaz de convertir tu reino en el más próspero y proclamarte victorioso?
 - Educa y el ilustrador Carlos Cenoz se han unido para crear este apasionante juego de cartas de estrategia con un diseño extremadamente cuidado. Las cartas son de gran tamaño para facilitar el juego (12 x 7 cm).
-- En el medievo los reinos con más habitantes y mejores recursos eran los más prósperos. En este juego deberás conseguir que los personajes más valiosos se establezcan alrededor de tu castillo. Consigue recursos y adquiere con ellos personajes, los cuales tienen puntos asociados. Juega con astucia e invierte bien tus recursos.
 - Regnum está recomendado a partir de los 8 años de edad
-- Regnum es un juego de cartas de estrategia. Cada partida dura aproximadamente 30 minutos y pueden jugar de 2 a 4 jugadores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095HR1FRX{{</world>}}

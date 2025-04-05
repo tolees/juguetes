@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Caja sorpresa en cuyo interior podrá haber guerrero romano (legendario o gladadior), vikingo, caballero o caballo de guerra. La tapa de la caja se puede utilizar como soporte para los guerreros.
-- Todas las figuras son electrónicas. Con luces y sonidos. Ojos Led. Hay 8 modelos para coleccionar.
-- Cada caja incluye + 30 piezas para construir tu guerrero de 12 cm. o un caballo de guerra favorito. Pulsa el casco del guerrero y sus ojos Led paradearán con efectos de sonido y movimiento de cejas. Los caballos tambien tienen ojos Led.
 - Construye tu figura sorpresa tu mismo. Todos los guerreros son compatibles con los caballos.
+- Cada caja incluye + 30 piezas para construir tu guerrero de 12 cm. o un caballo de guerra favorito. Pulsa el casco del guerrero y sus ojos Led paradearán con efectos de sonido y movimiento de cejas. Los caballos tambien tienen ojos Led.
 - Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Todas las figuras son electrónicas. Con luces y sonidos. Ojos Led. Hay 8 modelos para coleccionar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BXB9GJ3D{{</world>}}

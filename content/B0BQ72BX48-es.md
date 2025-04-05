@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El número de jugadores es de uno a cinco, a partir de los 12 años de edad
 - Recluta un grupo de amigos y embarca en una aventura, durante meses, comple­tamente distinta
 - Juego de mesa de rol, con multiples escenarios y una capacidad de inmersión tremenda
 - Juego básico de Sword & Sorcery, con el que podrás comenzar tus aventuras de espada y brujería, con miniaturas detalladas
-- El número de jugadores es de uno a cinco, a partir de los 12 años de edad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ72BX48{{</world>}}

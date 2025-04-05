@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Le plus grand sniper de la seconde guerre mondiale arrive sur Switch, noubliez pas : Une balle peut changer le cours de lhistoire !
 - Plongez dans des combats tactiques à la troisième personne, faites vos choix de jeu et enchaînez les tirs de précision pour libérer lItalie du fascisme durant la Seconde Guerre mondiale.
-- Infiltrez vous et tirez en toute liberté. Terminez la campagne selon vos choix, à votre manière
 - Faites cavalier seul ou collaborez grâce au mode multijoueurs local et en ligne
 - Tirez à distance de façon stratégique, observez en détails les effets de vos balles grâce à la célèbre "X-Ray Kill Cam" et ressentez les tirs avec les vibrations HD
+- Infiltrez vous et tirez en toute liberté. Terminez la campagne selon vos choix, à votre manière
+- Le plus grand sniper de la seconde guerre mondiale arrive sur Switch, noubliez pas : Une balle peut changer le cours de lhistoire !
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JLKKD9C{{</world>}}

@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - INCLUYE: 1 Tornado, 2 Dados, 1 Tablero, 2 Vallas y 20 Ovejas
-- ESTRATEGIA Y HABILIDAD: Fomenta la creatividad y la concentración de los niños y mejora sus habilidades motoras finas y pensamiento estratégico
+- NÚMERO DE JUGADORES: a partir de 2 personas
 - OBJETIVO: Gana quien consiga llevar a sus 4 ovejas a su corral al otro lado del tablero
 - JUEGO Y REGALO para niños y niñas a partir de 6 años. También es para toda la familia
-- NÚMERO DE JUGADORES: a partir de 2 personas
 - TORNADO: No será tan fácil conseguir el objetivo ya que las ovejitas pueden ser absorbidas por el viento del tornado
 - DEFIENDE TUS OVEJITAS: Utiliza las vallas para progerte del tornado y llegar a tu corral
+- ESTRATEGIA Y HABILIDAD: Fomenta la creatividad y la concentración de los niños y mejora sus habilidades motoras finas y pensamiento estratégico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XBKNJG2{{</world>}}

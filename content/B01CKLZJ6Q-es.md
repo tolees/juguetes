@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diámetro del poste central:28 mm.
-- Dispone de dos ganchos en el extremo donde se coloca la barra central de la bicicleta.
-- Muy resistente y estable.
-- Es fácil de montar con dos tornillos en el muro.
 - Estructura de acero tubular lacado negro de alta calidad.
+- Muy resistente y estable.
+- Dispone de dos ganchos en el extremo donde se coloca la barra central de la bicicleta.
+- Diámetro del poste central:28 mm.
+- Es fácil de montar con dos tornillos en el muro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CKLZJ6Q{{</world>}}

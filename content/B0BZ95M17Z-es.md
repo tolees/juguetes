@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CREA PERSONAJES, ENFRENTA MONSTRUOS: Elige una raza, clase y arma inicial para crear tu personaje. Después, recoge el botín y enfrenta a los monstruos de D&D mientras intentas dar caza a un malvado mago y su peligroso culto
-- RESUELVE PUZLES FANTÁSTICOS: ¡No jueguen por separado! Trabajen juntos para descifrar puzles, desde acertijos con juegos de palabras hasta adivinanzas visuales con varias cartas. Resuélvelos para desbloquear nuevos objetos, lugares y pistas
-- DINÁMICO JUEGO DE MESA: Los jugadores recorren el tablero con sus figuras explorando Neverwinter. El tablero crece y cambia revelando pistas y lugares misteriosos mientras los jugadores van resolviendo puzles que desbloquean lugares
 - JUEGO COOPERATIVO DE SOLUCIÓN DE MISTERIOS D&D : Los jugadores deberán unir fuerzas para investigar una serie de desapariciones alarmantes. Deberán trabajar juntos para encontrar pistas y resolver el misterio al final de cada acto
+- DINÁMICO JUEGO DE MESA: Los jugadores recorren el tablero con sus figuras explorando Neverwinter. El tablero crece y cambia revelando pistas y lugares misteriosos mientras los jugadores van resolviendo puzles que desbloquean lugares
+- RESUELVE PUZLES FANTÁSTICOS: ¡No jueguen por separado! Trabajen juntos para descifrar puzles, desde acertijos con juegos de palabras hasta adivinanzas visuales con varias cartas. Resuélvelos para desbloquear nuevos objetos, lugares y pistas
+- CREA PERSONAJES, ENFRENTA MONSTRUOS: Elige una raza, clase y arma inicial para crear tu personaje. Después, recoge el botín y enfrenta a los monstruos de D&D mientras intentas dar caza a un malvado mago y su peligroso culto
 - ESCAPA DE LA MAZMORRA, RESUELVE EL MISTERIO: Dungeons & Dragons: Caos en Neverwinter ofrece toda la emoción del popular juego D&D en una épica aventura contada a modo de juego de mesa de 3 partes estilo escape de la habitación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

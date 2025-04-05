@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El set de juego Ninja viene con 5 mini figuras LEGO NINJAGO: el maestro ninja Lloyd y su aprendiz Arin, que luchan contra Rapton, El Comandante de la Guardia del Imperio y El General Claw del Imperio
+- Echa un vistazo a la Moto de Carreras Mecánica Transformer de Sora(71792), Los Núcleos de Energía del Templo del Dragón (71795) y otros sets de la gama LEGO NINJAGO
 - Este set de 764 piezas permite a los fans de los ninjas disfrutar de la diversión de construir antes de luchar contra las fuerzas del mal, y es un gran regalo de Navidad para niños y niñas de 8 años, regalo de Reyes, así como regalo de cumpleaños
 - Los fans de la serie de televisión NINJAGO Dragons Rising podrán recrear las escenas llenas de acción con este set NINJAGO Mechs del Equipo Ninja de Lloyd y Arin
-- Echa un vistazo a la Moto de Carreras Mecánica Transformer de Sora(71792), Los Núcleos de Energía del Templo del Dragón (71795) y otros sets de la gama LEGO NINJAGO
 - Por primera vez, los niños podrán unir los 2 mechs para formar 1 mayor y más armado, se añade el mech de Arin al pecho del mech de Lloyd para afrontar batallas épicas con el malvado trío de Rapton
 - Los pequeños ninjas podrán escenificar intensos entrenamientos y escenas de combate con este set de juguete de construcción nunca visto con las figuras mech móviles de acción NINJAGO del maestro Lloyd y su aprendiz Arin
 

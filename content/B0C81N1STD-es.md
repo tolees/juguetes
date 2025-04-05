@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El conjunto exclusivo consta de un top azul brillante, un pantalón ancho negro con flecos decorado con estrellas plateadas y el logo de Alpha, y botas negras
-- Muñeca de 43 centímetros con certificado de autenticidad que encantará a los fans de la artista; un juguete adecuado para niños y niñas desde 3 años
-- Además, la muñeca cuenta con accesorios como pendientes de aro grandes y collar; y lleva maquillaje de ojos azul
 - Llega a la colección una Nancy muy especial en colaboración con la cantante más trendy del momento: Aitana
-- El outfit de la muñeca está inspirada en “Las Babys” uno de sus temas más conocidos de su álbum “Era Alpha”
 - Nancy Aitana es una muñeca igual que la famosa cantante, con todos los detalles, como su pelo castaño oscuro corto con flequillo y su tatuaje Alpha
+- El outfit de la muñeca está inspirada en “Las Babys” uno de sus temas más conocidos de su álbum “Era Alpha”
+- Además, la muñeca cuenta con accesorios como pendientes de aro grandes y collar; y lleva maquillaje de ojos azul
+- Muñeca de 43 centímetros con certificado de autenticidad que encantará a los fans de la artista; un juguete adecuado para niños y niñas desde 3 años
+- El conjunto exclusivo consta de un top azul brillante, un pantalón ancho negro con flecos decorado con estrellas plateadas y el logo de Alpha, y botas negras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C81N1STD{{</world>}}

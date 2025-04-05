@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - MÓDULOS ELECTRÓNICOS Y MOVIMIENTO CONTINUO: Incorpora dos módulos electrónicos con luces y sonidos que animan el juego.
-- FÁCIL DE CONSTRUIR: Desarrolla el circuito de pistas con una plantilla base y unas instrucciones por colores que haran divertida la ejecución del circuito. Construye y aprende al mismo tiempo.
-- LABERINTO GIGANTE CANICAS: Pista interactiva electrónica, para canicas con el que desarrollarán su imaginación uniendo piezas y creando divertidos circuitos por los que circularán la canicas, desafiando a todo tipo de bajadas, curvas y lanzamientos.
 - DESARROLLO DE LA IMAGINACIÓN: Multitud de circuitos , diferentes niveles de juego, desarrolla las habilidades motoras , creatividad, lógica e imaginación. Con infinitas combinaciones.
-- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
-- SORPRENDE Y DIVIERTE: Numerosos pasajes secretos, interruptores y areas de interacción.
+- LABERINTO GIGANTE CANICAS: Pista interactiva electrónica, para canicas con el que desarrollarán su imaginación uniendo piezas y creando divertidos circuitos por los que circularán la canicas, desafiando a todo tipo de bajadas, curvas y lanzamientos.
 - DIFERENTES NIVELES DE JUEGO: Principiante, intermedio y avanzado
+- FÁCIL DE CONSTRUIR: Desarrolla el circuito de pistas con una plantilla base y unas instrucciones por colores que haran divertida la ejecución del circuito. Construye y aprende al mismo tiempo.
+- SORPRENDE Y DIVIERTE: Numerosos pasajes secretos, interruptores y areas de interacción.
+- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08ZM8T2RG{{</world>}}

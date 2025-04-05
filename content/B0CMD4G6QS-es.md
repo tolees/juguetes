@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un sinfín de aventuras
 - Un viaje con pedigrí
 - Innovación en el combate
+- Un sinfín de aventuras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMD4G6QS{{</world>}}

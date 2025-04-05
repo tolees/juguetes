@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Construye el dormitorio, el armario, la cocina, el comedor, el bar, la piscina y mucho más
 - Conjunto de construcción de la mansión Dreamhouse de Barbie para coleccionistas, tal y como aparece en la película de Barbie
-- 1795 bloques y piezas de juego que incluyen muebles, ropa, comida y accesorios para la piscina
+- Construye el dormitorio, el armario, la cocina, el comedor, el bar, la piscina y mucho más
 - Las piezas pueden combinarse con todos los juguetes de construcción de MEGA y Barbie, y son compatibles con las principales marcas
 - Incluye 4 micromuñecos construibles: 1 Barbie, 1 Ken y 2 maniquíes para la ropa
+- 1795 bloques y piezas de juego que incluyen muebles, ropa, comida y accesorios para la piscina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBSXX3RP{{</world>}}

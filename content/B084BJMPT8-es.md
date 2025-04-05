@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puerto Rico
-- Juguete
 - Ravensburger Spieleverlag
+- Juguete
+- Puerto Rico
 - Alemán y español
 
 [🛒 Aquí!!!]({{< param buyurl >}})

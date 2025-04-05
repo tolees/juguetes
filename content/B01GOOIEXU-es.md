@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de jugadores: 2 - 8
-- Edad recomendada: 8 años y más
 - Duración aproximada de la partida: 15 min
 - Tipo de producto: juego de mesa
+- Número de jugadores: 2 - 8
 - Juego adecuado para pasar el tiempo libre
+- Edad recomendada: 8 años y más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GOOIEXU{{</world>}}

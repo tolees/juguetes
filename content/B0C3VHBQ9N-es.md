@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AYUDA A TUS AMIGAS: comparte tus talentos únicos con ellas y termina tu primer encargo.
+- EXPLORA EL INSTITUTO: descubre las aulas, los dormitorios de los estudiantes, Rainbow Union y mucho más.
 - ELIGE A TUS MEJORES AMIGAS: juega con Ruby, Poppy, Sunny, Jade, Skyler y Violet.
 - RESUELVE LOS ACERTIJOS: encuentra pistas, recoge diamantes arcoíris y desbloquea los atuendos más chulos.
-- EXPLORA EL INSTITUTO: descubre las aulas, los dormitorios de los estudiantes, Rainbow Union y mucho más.
+- AYUDA A TUS AMIGAS: comparte tus talentos únicos con ellas y termina tu primer encargo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3VHBQ9N{{</world>}}

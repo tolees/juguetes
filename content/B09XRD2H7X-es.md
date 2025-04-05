@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 temáticas distintas: Animales, Vehículos y Entorno; contenido: 24 puzzles de 6 piezas cada uno
-- Quién completará el reto de acabar un puzzle antes que nadie
 - Sé el más rápido y localiza rápidamente tus piezas qué presión, sólo te falta la última pieza
 - El primero que acabe su puzzle ganará la ronda y recibirá un punto; el que consiga 5 puntos habrá ganado la partida
 - De 2 a 5 jugadores y a partir de 6 años
+- 3 temáticas distintas: Animales, Vehículos y Entorno; contenido: 24 puzzles de 6 piezas cada uno
+- Quién completará el reto de acabar un puzzle antes que nadie
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XRD2H7X{{</world>}}
