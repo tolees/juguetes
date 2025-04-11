@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Haz de Guía del libro que elijas y lee en secreto las primeras líneas de la página a explorar
-- Cuando termines, el grupo explorador tratará de elegir el mismo Marcapáginas que tú para poder avanzar por el libro y así estar un paso más cerca de la victoria; en vuestra aventura deberéis superar desafíos y misiones sorprendentes a la par que audaces
 - Elige uno de los cuatro Marcapáginas y lee el pasaje en voz alta
-- Explora cualquier libro de tu estantería
 - Recorre junto a tus amistades infinidad de paisajes imaginarios hasta encontrar el tesoro de la Ciudad Perdida
+- Cuando termines, el grupo explorador tratará de elegir el mismo Marcapáginas que tú para poder avanzar por el libro y así estar un paso más cerca de la victoria; en vuestra aventura deberéis superar desafíos y misiones sorprendentes a la par que audaces
+- Explora cualquier libro de tu estantería
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDP1JGS{{</world>}}

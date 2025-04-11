@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pikachu comes with Electric-type attack details on its cheeks
-- Bricks combine with all MEGA building sets and are compatible with other name brands
 - Ideal for ages 7 and up, this construction toy provides build-and-play experiences to help develop creativity and problem-solving skills
+- Bricks combine with all MEGA building sets and are compatible with other name brands
+- Pikachu comes with Electric-type attack details on its cheeks
 - Buildable and poseable Pikachu figure-building set that stands over 4 inches tall
 
 [🛒 Aquí!!!]({{< param buyurl >}})

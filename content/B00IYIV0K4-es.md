@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Eldritch Horror es un juego de aventuras cooperativo para 1–8 jugadores inspirado en el exitoso juego de tablero Arkham Horror.
 - ¡Su tarea es explorar los rincones más remotos del planeta para combatir a las criaturas de pesadilla que acechan en las sombras y encontrar las respuestas a los antiguos misterios de Eldritch Horror!
-- Sólo unos pocos valerosos investigadores entienden lo que está ocurriendo realmente.
 - ¡Se acerca el fin del mundo!
+- El mundo está al borde de la catástrofe. Estamos en 1926 y un ser de increíble poder amenaza con despertar de su largo letargo trayendo muerte y destrucción.
+- Eldritch Horror es un juego de aventuras cooperativo para 1–8 jugadores inspirado en el exitoso juego de tablero Arkham Horror.
+- Sólo unos pocos valerosos investigadores entienden lo que está ocurriendo realmente.
 - Estas tenaces almas de todo tipo y condición emplean sus habilidades y armas para enfrentarse a la amenaza del Primigenio.
 - Extrañas sectas y terribles monstruos siembran el caos en todos los continentes mientras el tejido de la realidad se desgarra, abriendo portales a extraños mundos.
-- El mundo está al borde de la catástrofe. Estamos en 1926 y un ser de increíble poder amenaza con despertar de su largo letargo trayendo muerte y destrucción.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00IYIV0K4{{</world>}}

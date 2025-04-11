@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Figuras articuladas que permiten mover brazos y piernas para cambiar las posturas de los personajes
+- Colecciona todos los personajes
 - Las Limit Breaker son las figuras más grandes y óptimas de Dragon Ball Super
 - Figura de acción Serie Limit Breaker de Goku Ultra Instinto de 30 cm de altura.
-- Colecciona todos los personajes
-- Figuras articuladas que permiten mover brazos y piernas para cambiar las posturas de los personajes
 - Gran nivel de detalle y decoración, además de su Packaging Premium
 
 [🛒 Visítala!!!]({{< param buyurl >}})

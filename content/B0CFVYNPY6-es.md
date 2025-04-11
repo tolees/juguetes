@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El cobertizo del castillo medieval de juguete y 2 botes: el cobertizo cuenta con espacio en el interior para dejar un bote, una veleta y un escondite para Trevor, y cada bote tiene un farol construible y espacio para 2 minifiguras de Harry Potter
-- Juego de aventura: construye el Cobertizo del Castillo de Hogwarts para que los peques podrán recrear la primera vez que Harry Potter y sus amigos llegan al famoso colegio, como en la inolvidable escena de Harry Potter y la piedra filosofal
-- Juguetes inspirados en el universo Mágico: este set es parte de una serie de juguetes modulares (a la venta por separado) que pueden conectarse para crear la escena del Castillo de Hogwarts construida con ladrillos LEGO más detallada hasta la fecha
-- 1 de los 14 cuadros de Hogwarts coleccionables: este juguete de construcción infantil incluye 1 elemento de color dorado que representa un cuadro de Hogwarts (aleatorio, de los 14 posibles) para exponerlo en el cobertizo del castillo
 - 7 personajes LEGO Harry Potter: minifiguras de Harry Potter, Neville Longbottom, Dean Thomas, Hermione Granger y la Profesora McGonagall, así como figuras de la lechuza Hedwig y el sapo Trevor
-- Una novedosa forma de construir: la app LEGO Builder proporciona herramientas a tu peque que le permitirán acercar y girar versiones 3D de sus modelos, guardar sus sets LEGO Harry Potter y seguir sus progresos
+- 1 de los 14 cuadros de Hogwarts coleccionables: este juguete de construcción infantil incluye 1 elemento de color dorado que representa un cuadro de Hogwarts (aleatorio, de los 14 posibles) para exponerlo en el cobertizo del castillo
+- Juguetes inspirados en el universo Mágico: este set es parte de una serie de juguetes modulares (a la venta por separado) que pueden conectarse para crear la escena del Castillo de Hogwarts construida con ladrillos LEGO más detallada hasta la fecha
+- Juego de aventura: construye el Cobertizo del Castillo de Hogwarts para que los peques podrán recrear la primera vez que Harry Potter y sus amigos llegan al famoso colegio, como en la inolvidable escena de Harry Potter y la piedra filosofal
+- El cobertizo del castillo medieval de juguete y 2 botes: el cobertizo cuenta con espacio en el interior para dejar un bote, una veleta y un escondite para Trevor, y cada bote tiene un farol construible y espacio para 2 minifiguras de Harry Potter
 - Idea de regalo para peques: el set, óptimo para jugar a solas o con amigos, es un divertido detalle sorpresa o un gran regalo de cumpleaños para niñas y niños de 8 años o más que empiezan a descubrir las historias de Harry Potter
+- Una novedosa forma de construir: la app LEGO Builder proporciona herramientas a tu peque que le permitirán acercar y girar versiones 3D de sus modelos, guardar sus sets LEGO Harry Potter y seguir sus progresos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVYNPY6{{</world>}}

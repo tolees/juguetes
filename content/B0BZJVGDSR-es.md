@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revive La ultima cena de Jesucristo en Ierusalem, Anno Domini, un Eurogame de peso medio temático creado por Carmen G; jiménez
 - El arte de Enrique Corominas (Juego de Tronos) y LA Draws (Magic The Gathering) te transporta directamente al año 33 DC
+- Revive La ultima cena de Jesucristo en Ierusalem, Anno Domini, un Eurogame de peso medio temático creado por Carmen G; jiménez
 - Una mezcla de mecánicas muy inteligente que incluye deckbuilding, gestión de recursos y worker (apostol) placement
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

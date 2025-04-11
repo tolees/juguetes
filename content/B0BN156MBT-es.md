@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Crushzilla se mueve en función de por dónde ataque Mega-Wrex, lo que ofrece un área de juego de 360 grados y detalles increíbles para explorar.
-- El conjunto incluye 1 Monster Trucks Mega-Wrex de Hot Wheels a escala 1:64 y 2 coches aplastables que niños y niñas pueden poner en las gradas o echar a las fauces de Crushzilla.
-- Es un regalo fantástico para niños y niñas a partir de 4 años a los que les encanten los desafíos con choques y trastazos.
-- En el conjunto de juego Mega-Wrex contra Crushzilla Takedown de Monster Trucks Arena Smashers de Hot Wheels, niños y niñas conducen y lanzan a Mega-Wrex contra Crushzilla, que gira y pivota, con el fin de derribarlo y ganar el desafío.
-- La base del conjunto se mueve y retiembla durante el juego, lo que crea una respuesta sensorial durante los choques y trastazos.
 - Niños y niñas pueden introducir coches aplastables y metálicos en la boca de Crushzilla y, después, apuntar a Mega-Wrex al punto clave adecuado para liberarlos. (Los vehículos adicionales se venden por separado).
+- En el conjunto de juego Mega-Wrex contra Crushzilla Takedown de Monster Trucks Arena Smashers de Hot Wheels, niños y niñas conducen y lanzan a Mega-Wrex contra Crushzilla, que gira y pivota, con el fin de derribarlo y ganar el desafío.
 - Conecta el Mega-Wrex contra Crushzilla Takedown a otros conjuntos Monster Trucks Arena Smashers de Hot Wheels para construir un estadio de Monster Trucks repleto de desafíos y obstáculos. (Los demás conjuntos se venden por separado).
+- La base del conjunto se mueve y retiembla durante el juego, lo que crea una respuesta sensorial durante los choques y trastazos.
+- Es un regalo fantástico para niños y niñas a partir de 4 años a los que les encanten los desafíos con choques y trastazos.
+- El conjunto incluye 1 Monster Trucks Mega-Wrex de Hot Wheels a escala 1:64 y 2 coches aplastables que niños y niñas pueden poner en las gradas o echar a las fauces de Crushzilla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN156MBT{{</world>}}

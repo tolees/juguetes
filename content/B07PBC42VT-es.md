@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se el jugador más rápido en conseguir el mayor número de monedas
-- Haz volar las tarjetas por los aires
 - Un juego de habilidad donde tendrás que ser el más rápido para ganar
 - Número de jugadores: 2+
+- Haz volar las tarjetas por los aires
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PBC42VT{{</world>}}

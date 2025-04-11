@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - NUEVO Party & Co. Shock You: Divertido, estresante, sorprendente, dinámico...
-- Contesta lo más rápido posible, da respuestas relativas y define conceptos… ¡Todo antes de que se agote el tiempo!
-- Juego por equipos | 4-20 jugadores | Party Game
 - Nota: La corriente emitida por el producto no es nociva para el cuerpo humano.
 - . El objetivo es superar las pruebas antes de que se agote el tiempo del Shockahuete y dé un CALAMBRE.
+- Contesta lo más rápido posible, da respuestas relativas y define conceptos… ¡Todo antes de que se agote el tiempo!
+- Juego por equipos | 4-20 jugadores | Party Game
 - Con 3 categorías de pruebas diferentes y un tiempo aleatorio para responder.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

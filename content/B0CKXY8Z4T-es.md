@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Expansión para amantes de Bitoku
-- Incluye componentes de juego que optimizan la rejugabilidad
 - Dispone de stickers para decorar las fichas de jugadores del juego base
+- Incluye componentes de juego que optimizan la rejugabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXY8Z4T{{</world>}}

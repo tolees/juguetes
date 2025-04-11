@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura de producto 7.10 cm
-- Altura de producto 7.10 cm
 - Longitud de producto 25.40 cm
+- Altura de producto 7.10 cm
+- Altura de producto 7.10 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00QCAKH96{{</world>}}

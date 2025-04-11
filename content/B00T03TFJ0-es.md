@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colisiones en tres zonas de choque diferentes
 - Se conecta a otras pistas de Hot Wheels
 - Carreras y colisiones a alta velocidad
 - Propulsa la imaginación
+- Colisiones en tres zonas de choque diferentes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00T03TFJ0{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico. Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
 - Juego de cartas de 2 a 5 jugadores, para mayores de 18 años.
-- Esta versión contiene las mismas mecánicas que la edición original, pero contiene ilustraciones demasiado horribles/increibles como para ser incluidas en una versión apta para niños. Puedes jugar con esta versión de forma independiente o combiarla con otros mazos para admitir a más jugadores.
 - El resto de cartas de la baraja sirven para cambiar de lugar, mitigar o evitar a los Exploding Kittens.
+- Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico. Los jugadores van robando cartas hasta que a alguien le sale un Exploding Kitten.
 - Cuando esto sucede, esa persona muere y queda eliminada de la partida.
+- Esta versión contiene las mismas mecánicas que la edición original, pero contiene ilustraciones demasiado horribles/increibles como para ser incluidas en una versión apta para niños. Puedes jugar con esta versión de forma independiente o combiarla con otros mazos para admitir a más jugadores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1VG7BNB{{</world>}}

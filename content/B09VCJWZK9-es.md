@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los jugadores roban cartas hasta que alguien robe al EXPLODING KITTEN momento en el que EXPLOTA y PIERDE LA PARTIDA
 - Un juego de cartas para los amantes de los gatos y de las explosiones, ahora para dos jugadores
-- A NO SER que pueda desactivar al gato con cosas como un puntero láser o frotándole la barriga
 - Para 2 jugadores; apartir de 7 años de edad
+- A NO SER que pueda desactivar al gato con cosas como un puntero láser o frotándole la barriga
+- Los jugadores roban cartas hasta que alguien robe al EXPLODING KITTEN momento en el que EXPLOTA y PIERDE LA PARTIDA
 - Usa cartas de acción para pasar tu turno, para mirar en secreto una carta antes de robarla o para forzar a tu oponente a robar en vez de robar tú
 
 [🛒 Comprar!!!]({{< param buyurl >}})

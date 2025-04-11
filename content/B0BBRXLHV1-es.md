@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con los peinados y las caras intercambiables los niños podrán cambiar el cabello y la expresión facial de la mini muñeca Paisley, se lo pasarán genial probando diferentes looks y escogiendo el estilo que más les guste
+- Los peques podrán acompañar a la tímida Paisley a cortarse el pelo que tiene miedo del resultado, Afortunadamente su amigo Olly estará allí para ayudarla Los niños tendrán que unirse a los personajes y crear el nuevo look de la mini muñeca Paisley
+- En el interior de la peluquería hay 2 sillas, un secador de pelo, lavabo, caja registradora de juguete y un puesto aparte para los accesorios de peluquería, en el exterior hay una moto, un banco de parque con farolas y letreros
+- Esta creativa peluquería para niños incluye 3 mini muñecas LEGO Friends de Paisley, Olly y Nadia, además de diferentes peinados, plantas, dinero de mentira, una máquina de chicles, un cartel, lámpara de calor y accesorios de peluquería
 - En 2023, el universo de LEGO Friends se expande para incluir toda una novedosa generación de personajes y emocionantes ubicaciones de Heartlake City, descubre geniales regalos de cumpleaños para despertar la curiosidad e imaginación de los niños
 - Esta detallada peluquería de juguete para niñas y niños de 6 años en adelante incluye zonas de lavado y peinado dentro del salón y muchos accesorios para inspirar creativas historias con 3 mini muñecas LEGO Friends
-- Los peques podrán acompañar a la tímida Paisley a cortarse el pelo que tiene miedo del resultado, Afortunadamente su amigo Olly estará allí para ayudarla Los niños tendrán que unirse a los personajes y crear el nuevo look de la mini muñeca Paisley
-- Esta creativa peluquería para niños incluye 3 mini muñecas LEGO Friends de Paisley, Olly y Nadia, además de diferentes peinados, plantas, dinero de mentira, una máquina de chicles, un cartel, lámpara de calor y accesorios de peluquería
-- En el interior de la peluquería hay 2 sillas, un secador de pelo, lavabo, caja registradora de juguete y un puesto aparte para los accesorios de peluquería, en el exterior hay una moto, un banco de parque con farolas y letreros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRXLHV1{{</world>}}

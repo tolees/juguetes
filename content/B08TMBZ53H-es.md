@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cada Villano desvela su plan maestro, con cartas que activan distintos efectos y amenazas que plantean retos en los distintos lugares
 - Cada Villano desvela su plan maestro, con cartas que activan distintos efectos y amenazas que plantean retos en los distintos lugares
 - De 1 a 4 jugadores
-- En Marvel United, adoptas el papel de los icónicos Héroes de Marvel que cooperan para detener el plan maestro de un poderoso Villano controlado por el juego
 - A partir de 14 años de edad
+- En Marvel United, adoptas el papel de los icónicos Héroes de Marvel que cooperan para detener el plan maestro de un poderoso Villano controlado por el juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMBZ53H{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Afronta 30 retos únicos y fascinantes con niveles de dificultad progresiva: las sugerencias en el reverso de cada carta te ayudarán a seguir avanzando
 - No es un simple juego de cartas: GraviTrax The Game permite aprender conceptos relacionados con la gravedad, la cinética y el magnetismo de forma fascinante tanto para mayores como para pequeños
 - Reto tras reto, elemento tras elemento, verás tu pista de canicas coger forma
 - Pon a prueba tus habilidades con el nuevo juego de mesa GraviTrax The Game: ¡solo resolviendo los enigmas podrás construir tu pista!
-- Afronta 30 retos únicos y fascinantes con niveles de dificultad progresiva: las sugerencias en el reverso de cada carta te ayudarán a seguir avanzando
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG9G2Q6H{{</world>}}

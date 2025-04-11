@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ponte la túnica de mago, elige tu varita y entra en una de las famosas casas de Hogwarts. Gana el favor de tus profesores, colecciona pociones y gana cartas de puntos.
-- La Casa con más puntos al final de la partida ¡se hará con la victoria!
 - Versión española. De 4 a 8 jugadores. A partir de 8 años. 30 minutos de juego
-- ¡Desmaius! es un party game familiar ambientado en el universo mágico de Harry Potter.
 - Evita que tus oponentes realicen un hechizo ¡Desmaius! sobre ti.
+- La Casa con más puntos al final de la partida ¡se hará con la victoria!
+- Ponte la túnica de mago, elige tu varita y entra en una de las famosas casas de Hogwarts. Gana el favor de tus profesores, colecciona pociones y gana cartas de puntos.
+- ¡Desmaius! es un party game familiar ambientado en el universo mágico de Harry Potter.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BC9TG5C2{{</world>}}

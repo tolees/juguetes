@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Figura de Lapras mecanizada y construible que presenta todo lujo de detalles y mide 17cm de alto
 - Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
 - Officially licensed by The Pokémon Company International
+- Figura de Lapras mecanizada y construible que presenta todo lujo de detalles y mide 17cm de alto
 - La cabeza de Lapras se mueve de izquierda a derecha al girar la palanca
 - Conjunto de construcción de 527piezas con bloque de movimiento: gira la palanca para activar el movimiento de Lapras
 

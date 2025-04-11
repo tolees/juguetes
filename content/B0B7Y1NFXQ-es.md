@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COLECCIONA SOUVENIRS: Compite con otros jugadores para recolectar los más preciados recuerdos de los icónicos lugares de San Francisco
-- COMPONENTES DE ALTA CALIDAD: Incluye 80 tranvías en colores variados, 21 fichas de turista, 44 cartas de transporte y 24 cartas de billetes de destino
 - MECÁNICAS SENCILLAS: Fácil de aprender para principiantes y con suficiente profundidad para jugadores más experimentados
+- COMPONENTES DE ALTA CALIDAD: Incluye 80 tranvías en colores variados, 21 fichas de turista, 44 cartas de transporte y 24 cartas de billetes de destino
 - JUEGO RÁPIDO Y FAMILIAR: Partidas de 10-15 minutos, óptimas para entretenimiento rápido. Adecuado para 2-4 jugadores y recomendado para mayores de 8 años
 - DESCUBRE SAN FRANCISCO: Viaja a través de la red de transporte público y visita lugares emblemáticos como Alcatraz y el Puente Golden Gate
+- COLECCIONA SOUVENIRS: Compite con otros jugadores para recolectar los más preciados recuerdos de los icónicos lugares de San Francisco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B7Y1NFXQ{{</world>}}

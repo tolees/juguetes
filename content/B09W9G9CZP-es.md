@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una variedad de escenarios desafiantes con condiciones de victoria específicas y una historia única que pondrá a prueba tus habilidades de supervivencia
 - Recoge y refina diferentes recursos, gestiona tu economía construyendo una infraestructura eficiente, desde suministros de comida y agua hasta calles y puestos comerciales
-- Interfaz completamente renovada, adaptada para jugar con mando, que ofrece una experiencia de juego cómoda y moderna
-- Envía expediciones a lugares olvidados y toma decisiones importantes que cambiarán el futuro de tu gente
 - Construye un asentamiento en la hostil superficie de la Tierra, con más de 90 edificios disponibles y cuida de tus hombres, mujeres y niños
+- Una variedad de escenarios desafiantes con condiciones de victoria específicas y una historia única que pondrá a prueba tus habilidades de supervivencia
+- Envía expediciones a lugares olvidados y toma decisiones importantes que cambiarán el futuro de tu gente
+- Interfaz completamente renovada, adaptada para jugar con mando, que ofrece una experiencia de juego cómoda y moderna
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09W9G9CZP{{</world>}}

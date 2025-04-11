@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montaje EZ Kraft para un montaje rápido
-- Diseño clásico con detalles festoneados y colores pastel
 - 4 niveles, 6 habitaciones y balcones dobles
-- Juego de 14 muebles y accesorios de 14 piezas
+- Diseño clásico con detalles festoneados y colores pastel
+- Montaje EZ Kraft para un montaje rápido
 - Ventanas abiertas
+- Juego de 14 muebles y accesorios de 14 piezas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BBCMB6B{{</world>}}

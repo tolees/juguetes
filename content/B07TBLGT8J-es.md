@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 19HORDCP2
 - 0711719706212
+- 19HORDCP2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TBLGT8J{{</world>}}

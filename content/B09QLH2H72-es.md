@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de calidad
 - Juguete infantil
+- Material de calidad
 - Fomenta la imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

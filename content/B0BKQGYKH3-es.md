@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un sistema de IA reconstruido y avanzado
-- Innovaciones revolucionarias para sentar las bases de la próxima generación de juegos.
 - Tecnología de renderizado y fotogrametría mejorada
+- Un sistema de IA reconstruido y avanzado
 - Un nuevo sistema de armería que permite más personalización que nunca
+- Innovaciones revolucionarias para sentar las bases de la próxima generación de juegos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKQGYKH3{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 500 temas variados ¡para desvariar con tus amigos!
+- Para cada tema, cada jugador tiene que inventar una respuesta y decirla; pero la intensidad de la respuesta debe corresponder a su número secreto, del 1 (en verde) al 10 (en rojo)
 - Juego de 4 a 9 jugadores, a partir de 14 años de edad
 - Entonces, si el CAPITEN pone las respuestas en el orden correcto,
 - TOP TEN un juego cooperativo de socialización de lo más entretenido
-- Para cada tema, cada jugador tiene que inventar una respuesta y decirla; pero la intensidad de la respuesta debe corresponder a su número secreto, del 1 (en verde) al 10 (en rojo)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09PLFTVC2{{</world>}}

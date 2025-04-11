@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Usar líquidos para mover un ascensor o un brazo mecânico
 - Conversar energía para crear reacciones en cadena y reventar bumeranes
 - Libro educativo con 36 páginas, totalmente detallado para que puedan hacer todos los experimentos
-- Usar líquidos para mover un ascensor o un brazo mecânico
 - ¡Haz una bomba de papel y dispara una catapulta!
 - ¡Conviértete en un ingeniero fantástico mientras construyes tus propios inventos!
 

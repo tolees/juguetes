@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡Compra y vende jugadores y hazte con la victoria! El juego para todos los apasionados de LALIGA de fútbol. ¡Que ruede el balón!
-- CONTENIDO: 1 tablero de juego – 2 dados – 160 tarjetas de futbolistas – 46 cartas de acción – 12 fichas de jugador – 6 sistemas de juego – Billetes y calendarios de partidos rediseñados con el nuevo sponsor.
 - Con LALIGA El Juego, te conviertes en mánager del mejor equipo. Crea el tuyo propio con los mejores jugadores del mundo.
+- CONTENIDO: 1 tablero de juego – 2 dados – 160 tarjetas de futbolistas – 46 cartas de acción – 12 fichas de jugador – 6 sistemas de juego – Billetes y calendarios de partidos rediseñados con el nuevo sponsor.
 - ⚽ Actualizado con los últimos fichajes de la temporada 2023/2024. Juego recomendado a partir de 10 años.
 - Juega emocionantes partidas con tus rivales (de 2 a 6 jugadores). Recomendado a partir de 10 años y cada partido tiene una duración de 60 aproximadamente.
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dificultad progresiva.
 - Mecánicas variadas.
 - Desafío intelectual.
+- Dificultad progresiva.
 - Historia de intriga.
 - Exploración de puzzles.
 

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LIBROS: Incluye dos libros, Cory Bólidos Escuela de superhéroes y ¡Hora de Jugar!
 - VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
-- ICONOS INTERACTIVOS: 4 iconos intuitivos sobre cada página del libro para seleccionar el nivel de juego, escuchar una pista para explorar la página y detener el ejercicio.
-- VERSIÓN ESPAÑOLA
-- USABILIDAD: Basta con pulsar sobre las ilustraciones de la página para descubrir nuevas palabras, hacer hablar a los personajes, aprender a trazar las letras, los números, las formas, los colores y resolver problemas.
-- ACTIVIDADES: Más de 700 actividades en toda la biblioteca
-- SISTEMA DE APRENDIZAJE INTERACTIVO: A través de libros con los que el niño puede interactuar con su lápiz mágico para resolver problemas y jugar con actividades divertidas. Es un sistema que ayuda a aprender de una forma imaginativa
 - RECONOCIMIENTO TÁCTIL: La plataforma reconoce el lápiz táctil incluido, que permite dar vida a los dibujos, las voces, las canciones educativas, la música...
+- ACTIVIDADES: Más de 700 actividades en toda la biblioteca
+- USABILIDAD: Basta con pulsar sobre las ilustraciones de la página para descubrir nuevas palabras, hacer hablar a los personajes, aprender a trazar las letras, los números, las formas, los colores y resolver problemas.
+- ICONOS INTERACTIVOS: 4 iconos intuitivos sobre cada página del libro para seleccionar el nivel de juego, escuchar una pista para explorar la página y detener el ejercicio.
+- LIBROS: Incluye dos libros, Cory Bólidos Escuela de superhéroes y ¡Hora de Jugar!
+- VERSIÓN ESPAÑOLA
+- SISTEMA DE APRENDIZAJE INTERACTIVO: A través de libros con los que el niño puede interactuar con su lápiz mágico para resolver problemas y jugar con actividades divertidas. Es un sistema que ayuda a aprender de una forma imaginativa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08ZM5HLHQ{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juego accesible a nivel de reglas pero con mucha profundidad estratégica
-- Lanza un mensaje sobre el estado de conservación de ciertas aves en peligro de extinción
 - Apartado gráfico llamativo y componentes de gran calidad
 - Mecanicas: colocación de losetas, colocación de trabajadores
+- Lanza un mensaje sobre el estado de conservación de ciertas aves en peligro de extinción
+- Un juego accesible a nivel de reglas pero con mucha profundidad estratégica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081TDLCFV{{</world>}}

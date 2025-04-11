@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DESCUBRE EL MUNDO GRAVITRAX: crea una cantidad ilimitada de recorridos diferentes combinando las piezas complementarias y los accesorios especiales de los sets Gravitrax; el regalo ideal para niños y adultos, útil para desarrollar la creatividad y mejorar los conocimientos científicos
+- JUEGA CON LA FÍSICA: los niños aprenderán sobre leyes físicas como la gravedad, el magnetismo o la fuerza cinética; Gravitrax desarrolla la creatividad y ayuda a comprender principios científicos básicos
 - ACCESORIO: Trampoline es un accesorio que te permitirá ampliar tu pista con baldosas de altura especial y baldosas elásticas del trampolín; incluye 2 elementos Trampoline y 2 elementos inclinados
 - CALIDAD Y SEGURIDAD: fabricadas en Europa con materiales de alta calidad, las pistas de canicas GraviTrax están hechas para durar y garantizan muchísimas horas de juego
-- DESCUBRE EL MUNDO GRAVITRAX: crea una cantidad ilimitada de recorridos diferentes combinando las piezas complementarias y los accesorios especiales de los sets Gravitrax; el regalo ideal para niños y adultos, útil para desarrollar la creatividad y mejorar los conocimientos científicos
 - JUEGOS INTERACTIVOS: GraviTrax es un juego de construcción STEM con el que podrás liberar tu creatividad construyendo un mundo fantástico de recorridos; ideal como regalo para niños a partir de 8 años y para entusiastas de la construcción de todas las edades
-- JUEGA CON LA FÍSICA: los niños aprenderán sobre leyes físicas como la gravedad, el magnetismo o la fuerza cinética; Gravitrax desarrolla la creatividad y ayuda a comprender principios científicos básicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSXCCJJX{{</world>}}

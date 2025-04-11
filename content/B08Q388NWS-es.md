@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los jugadores deberán colaborar para esclarecer el misterio de La copia compartiendo la información importante y descartando la que consideren irrelevante.
-- Juego de investigación y deducción de 1 a 8 jugadores, a partir de 8 años y partidas de 60 minutos aproximadamente.
-- Juego de mesa deductivo con manual, resolución y cartas exclusivamente en castellano. Cada mazo es una historia única.
 - Cada mazo Sherlock contiene un misterio a resolver, de 1 a 8 jugadores tomarán el papel de investigadores. Juego recomendado por los prestigiosos premios Spiel de Jhares 2019.
+- Juego de mesa deductivo con manual, resolución y cartas exclusivamente en castellano. Cada mazo es una historia única.
+- Juego de investigación y deducción de 1 a 8 jugadores, a partir de 8 años y partidas de 60 minutos aproximadamente.
 - La casa de subastas Sotheby’s se enfrenta a un posible caso de falsificación. ¿Quién es el culpable? ¿Cómo lo ha hecho?
 
 [🛒 Aquí!!!]({{< param buyurl >}})

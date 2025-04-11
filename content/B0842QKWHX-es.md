@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego con 6 escenarios
 - Juego cooperativo y cautivador que interpreta de forma lúdica la mitología nórdica
-- Desarrolla la creatividad y la imaginación
+- Juego con 6 escenarios
 - Marca del producto: Ludonaute
+- Desarrolla la creatividad y la imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0842QKWHX{{</world>}}

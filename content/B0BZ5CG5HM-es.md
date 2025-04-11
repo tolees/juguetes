@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Planet B es el lanzamiento de Essen de la reputada editorial Hans Im Glück (Carcassonne, Stone Age, Russian Railroad)
 - Mecánica que combina gestión de recursos y estrategia con elecciones políticas, votación y pactos vinculantes (o no)
 - Eurogame con temática gamberra, cargada de humor y guiños a distintos elementos de la cultura Pop y el entretenimiento
-- Planet B es el lanzamiento de Essen de la reputada editorial Hans Im Glück (Carcassonne, Stone Age, Russian Railroad)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ5CG5HM{{</world>}}

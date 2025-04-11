@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 6-9 años
+- De 1 a 4 jugadores.
 - Leer palabras, escribir y escribir
 - Publicidad excepcional: desarrollo, técnica de lectura y concentración.
-- De 1 a 4 jugadores.
+- 6-9 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B077Y84ZJK{{</world>}}

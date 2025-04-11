@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- Con 4 formas de juego
-- Haz volar tus dados locos y sé rápido para ganar.
 - Producto distribuido oficialmente en España por BIZAK.
 - Si el dado aterriza en una cara de tu color vas por buen camino para ganar
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Haz volar tus dados locos y sé rápido para ganar.
+- Con 4 formas de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RQLPXR3{{</world>}}

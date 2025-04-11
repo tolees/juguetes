@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Metal Gear, Metal Gear 2: Solid Snake, Metal Gear Solid (incluye VR Missions/Special Missions), Metal Gear Solid 2: Sons of Liberty (versión HD Collection), Metal Gear Solid 3: Snake Eater (versión HD Collection), ¡y mucho más contenido adicional
-- Infíltrate en fortalezas enemigas de todo el mundo, completa misiones con tus capacidades de sigilo y disfruta de la apasionante trama cinematográfica de la serie METAL GEAR
 - Volume 1 incluye los títulos originales y el comienzo de la serie METAL GEAR
+- Infíltrate en fortalezas enemigas de todo el mundo, completa misiones con tus capacidades de sigilo y disfruta de la apasionante trama cinematográfica de la serie METAL GEAR
 - Vuelve el origen de la acción sigilosa, METAL GEAR SOLID: MASTER COLLECTION Vol. 1 aúna el comienzo de la experiencia de juego de METAL GEAR en un solo paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

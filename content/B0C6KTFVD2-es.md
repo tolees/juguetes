@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construye monolitos más rápido que los demás.
-- De 1 a 4 jugadores.
 - Formula profecías y alcanza tus objetivos mientras creas monolitos.
-- Piedras gigantes de forma perfecta, los monolitos han sido estudiados por muchos, buscando descifrar su verdadero significado.
 - 30 minutos por partida
+- Piedras gigantes de forma perfecta, los monolitos han sido estudiados por muchos, buscando descifrar su verdadero significado.
+- De 1 a 4 jugadores.
+- Construye monolitos más rápido que los demás.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C6KTFVD2{{</world>}}

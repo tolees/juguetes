@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- pero ten cuidado de no llenarlo demasiado, de lo contrario la lluvia podría arruinar tus planes.
+- pero ten cuidado de no llenarlo demasiado, de lo contrario la lluvia podría arruinar tus planes.
 - Juega tus cartas y compra más para mover las gotas de agua al charco
-- pero ten cuidado de no llenarlo demasiado, de lo contrario la lluvia podría arruinar tus planes.
-- pero ten cuidado de no llenarlo demasiado, de lo contrario la lluvia podría arruinar tus planes.
 - Una vez llenos, la lluvia volverá a regar los árboles.
 - Las tribus de setas que habitan el bosque deben cooperar entre sí para trasladar las gotas de rocío al charco.
 

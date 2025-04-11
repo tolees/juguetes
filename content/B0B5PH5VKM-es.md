@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Siéntate, abre tu cuaderno de bocetos, ¡y crea ese proyecto que te hará destacar!
+- También es una oportunidad para que tú, como urbanista, participes en el concurso para elegir el plan de reconstrucción más impresionante de la ciudad
 - La primera mitad del siglo XX es para San Francisco una época de intenso desarrollo y nuevas oportunidades
 - De 2 a 4 jugadores, a partir de 12 años de edad
 - Esboza una hermosa ciudad en este juego ideado por el famoso diseñador de juegos de mesa Reiner Knizia
-- Siéntate, abre tu cuaderno de bocetos, ¡y crea ese proyecto que te hará destacar!
-- También es una oportunidad para que tú, como urbanista, participes en el concurso para elegir el plan de reconstrucción más impresionante de la ciudad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5PH5VKM{{</world>}}

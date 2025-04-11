@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡Ya están aquí los circuitos de carreras slot de Superthings!
 - El circuito tiene un recorrido de 3,20 metros y un looping de vértigo.
 - Incluye dos coches y dos figuras de Superthings: Helmut Speed y Wheelzag, un héroe y un villano ¿quién ganará la carrera?
-- ¡Ya están aquí los circuitos de carreras slot de Superthings!
 - El circuito incluye dos figuras, pero puedes competir con tus Superthings favoritos. Los coches están adaptados a cualquier modelo de Superthings ¿qué te parece una carrera entre Dr Volt y Enigma?
 - Montaje rápido y fácil. Funciona con pilas. Recomendado a partir de 3 años.
 

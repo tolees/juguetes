@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El conjunto de pistas Supersalto tóxico de Track Builder de Hot Wheels es un regalo fantástico para niños y niñas a partir de 4 años.
+- Lanza el coche a escala 1:64 incluido por la rampa de salto, a través del hueco, para que caiga en la rampa de aterrizaje. ¡Así superarás el desafío! ¡Aumenta la distancia entre las dos rampas para aumentar la dificultad!
+- Todos los componentes de la pista se pueden utilizar con otras pistas y conjuntos de Hot Wheels para que niños y niñas puedan construir una y otra vez sin límites. (Los demás conjuntos se venden por separado).
 - El coche y las piezas de la pista vienen en una caja chulísima que se puede utilizar como componente de la pista y también para almacenar piezas de Hot Wheels. Así, se pueden guardar todas en una misma caja que se cierra y se puede apilar sobre otras cajas de Track Builder de Hot Wheels.
 - Con el conjunto de pistas Supersalto tóxico de Track Builder de Hot Wheels, niños y niñas podrán construir tantas veces como quieran una pista con rampas y aletas con temática de sustancia tóxica.
-- Todos los componentes de la pista se pueden utilizar con otras pistas y conjuntos de Hot Wheels para que niños y niñas puedan construir una y otra vez sin límites. (Los demás conjuntos se venden por separado).
-- Lanza el coche a escala 1:64 incluido por la rampa de salto, a través del hueco, para que caiga en la rampa de aterrizaje. ¡Así superarás el desafío! ¡Aumenta la distancia entre las dos rampas para aumentar la dificultad!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHFDT5Y7{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Instrucciones para el juego: Se elige quién empieza leyendo una tarjeta y quién debe decidir si lo que oye es verdadero o falso. Después se continúa, pero invirtiendo los papeles
-- Consta de 100 tarjetas, en cada una de las cuales encontramos una afirmación que puede ser verdadera o falsa, y el juego consiste en adivinarlo.
-- Juego de cartas perfecto para jugar con amigos o en familia.
 - Las curiosidades tratan del cuerpo humano, naturaleza, historia... Tienen una temática muy variada y divertida.
+- Instrucciones para el juego: Se elige quién empieza leyendo una tarjeta y quién debe decidir si lo que oye es verdadero o falso. Después se continúa, pero invirtiendo los papeles
+- Juego de cartas perfecto para jugar con amigos o en familia.
+- Consta de 100 tarjetas, en cada una de las cuales encontramos una afirmación que puede ser verdadera o falsa, y el juego consiste en adivinarlo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHDJ8BSG{{</world>}}

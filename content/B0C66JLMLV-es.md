@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto distribuido oficialmente por BIZAK. Servicio de asistencia técnica disponible todo el año (sat@bizak.es)
-- Fomenta el interés en la ciencia, la biología y el océano; mira un ciclo de vida completo en acción
 - Los Sea Monkeys son placton y micro crustáceos.
-- Los Sea-Monkeys son camarones de las salinas (artemias)… Unas increíbles criaturas que viven en los lagos salados y se alimentan de algas.
 - Incluye tanque, purificador de agua, huevos vivos instantáneos, alimentos, acuario, cuchara de alimentación; simplemente añade agua
+- Fomenta el interés en la ciencia, la biología y el océano; mira un ciclo de vida completo en acción
+- Los Sea-Monkeys son camarones de las salinas (artemias)… Unas increíbles criaturas que viven en los lagos salados y se alimentan de algas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C66JLMLV{{</world>}}

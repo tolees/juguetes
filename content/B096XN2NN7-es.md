@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye 8 figuras y 5 accesorios
-- Figuras fabricadas en material PVC de óptima calidad; decora tu habitación con ellas
-- Figuras inspiradas en el juego de plataforma de moda: Among US; es un regalo ideal para los fanáticos del juego
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- Dos de las figuras son sorpresa
 - Producto distribuido oficialmente en España por BIZAK.
+- Dos de las figuras son sorpresa
+- Figuras fabricadas en material PVC de óptima calidad; decora tu habitación con ellas
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Figuras inspiradas en el juego de plataforma de moda: Among US; es un regalo ideal para los fanáticos del juego
 - 16 modelos para coleccionar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

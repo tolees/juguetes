@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de mesa creado por Richard Garfield, autor de Magic The Gathering, Bunny Kingdom y King of Tokyo
+- El número de jugadores es de dos a seis, a partir de los 10 años de edad
 - El juego se desarrolla en 15 turnos
 - Los jugadores se ponen en la piel de vampiros sedientos de sangre, que cazan humanos y actúan en misiones secretas.
-- El número de jugadores es de dos a seis, a partir de los 10 años de edad
+- Juego de mesa creado por Richard Garfield, autor de Magic The Gathering, Bunny Kingdom y King of Tokyo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BFB5W79S{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los jugadores se pondrán en el papel de jefes de un clan mafioso cuyo objetivo final es tomar el control de la ciudad, ganando las elecciones a la alcaldía.
-- Superar los 3 capítulos que se presentarán como tres escenarios diferentes, a la vez que refuerzan las filas de cómplices que tienen a su disposición.
-- La fuerza del clan reside en su mazo de cartas de Cómplice.
 - Fictions es un juego cooperativo de 1 a 4 jugadores
+- Superar los 3 capítulos que se presentarán como tres escenarios diferentes, a la vez que refuerzan las filas de cómplices que tienen a su disposición.
+- Los jugadores se pondrán en el papel de jefes de un clan mafioso cuyo objetivo final es tomar el control de la ciudad, ganando las elecciones a la alcaldía.
+- La fuerza del clan reside en su mazo de cartas de Cómplice.
 - Ambientado en la literatura "pulp" de gangsters.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

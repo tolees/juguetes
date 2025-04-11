@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El destino de la ciudad-estado
 - Poder del pasado
 - Las mejores fuerzas de Crossbell
-- El destino de la ciudad-estado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BG1W4MQ{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Muy conveniente
 - Fácil de usar
-- 80 gramos
 - 17 x 13.4 x 1.6 cm
+- 80 gramos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XYKKF67{{</world>}}

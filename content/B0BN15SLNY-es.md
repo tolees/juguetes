@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Instintos animales! Los niños y las niñas pueden sacar al dinosaurio que llevan dentro con este Indorráptor, que puede engullir hasta 20 figuras en miniatura enteras a través de su mandíbula de gran apertura. (Las figuras en miniatura se venden por separado y están sujetas a disponibilidad).
+- ¡Tamaño colosal! ¡El Indorráptor Supercolosal tiene más de 91cm de longitud y permite a los fans de Jurassic World atacar a lo grande!
 - ¡Diseño feroz! Este personaje malvado de Jurassic World: El reino caído tiene un diseño con garras intimidantes, dientes superpuestos y ojos rojos amenazantes.
 - ¡Un gran regalo! Es un regalo emocionante para niños y niñas a partir de 4 años, especialmente para fans de Jurassic World, los conflictos a lo grande y los juegos de acción.
 - ¡Juega una y otra vez! Abre su barriga para liberar a las presas que se ha comido este dinosaurio carnívoro y vuelve a empezar de nuevo.
-- ¡Tamaño colosal! ¡El Indorráptor Supercolosal tiene más de 91cm de longitud y permite a los fans de Jurassic World atacar a lo grande!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN15SLNY{{</world>}}

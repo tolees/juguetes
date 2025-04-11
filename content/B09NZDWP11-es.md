@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El clásico juego de cartas UNO se ha inspirado en Star Wars The Mandalorian, la serie de Disney+, y será la estrella de cualquier noche de juegos.
 - La carta Este es el camino te permite bloquear cartas especiales: una regla única.
-- Al igual que en el UNO de toda la vida, los jugadores deben hacer coincidir los colores, los números y los símbolos de las cartas de su mano con la que haya en la parte superior de la pila de descarte.
 - Es un gran regalo para niños, adolescentes y adultos con el que podrás organizar divertidas noches de juego en familia de entre 2 y 10 jugadores a partir de 7 años.
 - Incluye una baraja y una caja de almacenaje decoradas con personajes y gráficos de la aclamada serie.
+- Al igual que en el UNO de toda la vida, los jugadores deben hacer coincidir los colores, los números y los símbolos de las cartas de su mano con la que haya en la parte superior de la pila de descarte.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NZDWP11{{</world>}}

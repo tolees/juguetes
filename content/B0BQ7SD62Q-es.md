@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Detalles Impresionantes: Los detalles en la figura, desde el pelo de Goku hasta su expresión, son impresionantes.
+- Match Makers: Parte de la serie Match Makers de Banpresto, esta figura destaca por su calidad y diseño.
 - Pose de Combate: Goku está en una pose de combate, lo que la hace emocionante para los fans de las batallas de Dragon Ball.
 - Altura Destacada: Con su altura destacada, esta figura se robará el protagonismo en tu colección.
-- Match Makers: Parte de la serie Match Makers de Banpresto, esta figura destaca por su calidad y diseño.
-- Detalles Impresionantes: Los detalles en la figura, desde el pelo de Goku hasta su expresión, son impresionantes.
 - Goku de Dragon Ball Z: Esta figura presenta a Goku, el legendario Saiyan, en una pose icónica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

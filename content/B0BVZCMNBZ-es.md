@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Combate al máximo
-- Un mundo de guerreros
 - Aliados en armas
+- Un mundo de guerreros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVZCMNBZ{{</world>}}

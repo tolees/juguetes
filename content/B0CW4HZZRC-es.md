@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un reino purgado en una batalla olvidada
+- Un lugar ensombrecido por el Árbol Áureo
 - La Tierra Sombría
 - Donde se produjo la primera venida de la diosa Márika
-- Un lugar ensombrecido por el Árbol Áureo
+- Un reino purgado en una batalla olvidada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CW4HZZRC{{</world>}}

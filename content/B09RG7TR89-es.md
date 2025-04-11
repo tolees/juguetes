@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Una vez construida, esta moto de juguete tiene el tamaño perfecto para que los niños se la lleven a todas partes, ¡podrán jugar donde quiera que vayan!
 - Incluye la mini figura LEGO City Stuntz del piloto Motero Lobo Solitario con un característico bigote y un casco accesorio
-- Los peques pueden empujar la moto acrobática para activar la rueda de inercia y, después, lanzarla para ejecutar divertidos caballitos y maniobras en el aire
 - Este set LEGO City Stuntz contiene todo lo que los peques necesitan para construir una moto retro con inercia y la mini figura Stuntz del personaje Motero Lobo Solitario
 - Combina este set con otros de la gama LEGO City Stunz para hacer espectáculos de acrobacias increíbles: Moto Acrobática: Escorpión Temerario (60332) o Moto Acrobática: Bañera (60333)
+- Los peques pueden empujar la moto acrobática para activar la rueda de inercia y, después, lanzarla para ejecutar divertidos caballitos y maniobras en el aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RG7TR89{{</world>}}

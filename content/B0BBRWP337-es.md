@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Incluye 3 figuras LEGO Super Mario de un Hermano Fuego y 2 Gotas de Lava, para usarlas y disfrutar del juego interactivo es necesario un Pack inicial LEGO Super Mario (71360, 71387 o 71403)
 - En este juguete de Super Mario para construir los peques juegan a saltar sobre la plataforma y derrotar a las 2 Gotas de Lava que hay en cada extremo, ¡podrán ganar muchas monedas digitales si consiguen permanecer en la ola y no caer a las llamas!
+- Este coleccionable LEGO Super Mario es ideal para jugar en compañía, en una partida de 2 jugadores 1 de ellos puede montar la ola de lava y eliminar a las 2 Gotas mientras que el segundo jugador derrota al Hermano Fuego
 - Este juego interactivo para niños y niñas permite a los fans del popular videojuego expandir y reconstruir sus niveles; echa un vistazo a la app gratuita LEGO Super Mario con instrucciones de construcción e inspiradoras ideas para los peques
 - Los jugadores de 7 años o más podrán ayudar a LEGO Mario, LEGO Luigi o LEGO Peach (figuras interactivas no incluidas) a superar este set de expansión que incluye una increíble plataforma con ola de lava y figuras de malvados personajes de Super Mario
-- Este coleccionable LEGO Super Mario es ideal para jugar en compañía, en una partida de 2 jugadores 1 de ellos puede montar la ola de lava y eliminar a las 2 Gotas mientras que el segundo jugador derrota al Hermano Fuego
-- Incluye 3 figuras LEGO Super Mario de un Hermano Fuego y 2 Gotas de Lava, para usarlas y disfrutar del juego interactivo es necesario un Pack inicial LEGO Super Mario (71360, 71387 o 71403)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBRWP337{{</world>}}

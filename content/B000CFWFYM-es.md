@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar Uno
+- El juego viene en una colorida caja metálica
+- Recomendado para cada edad
 - Este clásico juego de cartas de 2 a 10 jugadores está pensado para que estos se desafíen entre ellos individualmente o por equipos ​
 - Incluye un mazo de 108 cartas más instrucciones y reglas de puntuación.
-- Recomendado para cada edad
-- El juego viene en una colorida caja metálica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000CFWFYM{{</world>}}

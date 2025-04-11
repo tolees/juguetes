@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lo mejor para personas de 160 cm a 175 cm
-- FRENOS: V-brake en aluminio
+- CUADRO: 26" MTB Hardtail en acero
 - La bicicleta viene al 90% ensamblada; por favor, mira la "Guía % de Ensamblaje " a continuación para completar el ensamblaje
 - HORQUILLA: Rígida 26"
-- CUADRO: 26" MTB Hardtail en acero
+- FRENOS: V-brake en aluminio
 - CONTROLES: Revoshift 3x6, 18 velocidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

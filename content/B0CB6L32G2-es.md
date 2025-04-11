@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La figura mide 12,7cm de alto, ideal para el escritorio o la mesita de noche
 - Figura de Dugtrio construible con botón oculto para activar la acción de movimiento
+- La figura mide 12,7cm de alto, ideal para el escritorio o la mesita de noche
 - Pulsa el botón oculto para activar la acción de movimiento de Dugtrio
-- Officially licensed by The Pokémon Company International
 - Ideal para constructores adultos, esta figura de coleccionista se puede combinar con otros conjuntos de construcción de Pokémon en movimiento
+- Officially licensed by The Pokémon Company International
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB6L32G2{{</world>}}

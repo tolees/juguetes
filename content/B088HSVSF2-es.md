@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¿Podrás salvar a la humanidad?
 - ¡Cuatro enfermedades mortales amenazan con infectar el mundo!
-- Necesitarás más que suerte para salvar la situación.
-- A partir de 14 años
 - Los jugadores deben trabajar juntos para prevenir los brotes de las enfermedades mientras encuentran las curas.
+- A partir de 14 años
+- Necesitarás más que suerte para salvar la situación.
+- ¿Podrás salvar a la humanidad?
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B088HSVSF2{{</world>}}

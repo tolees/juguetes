@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuando la caca sale volando, se debe coger cuanto antes. Si la atrapas al vuelo, ¡te llevas dos fichas!
-- ¡Atrapa la caca! es garantía de risas y diversión.
 - Se debe desatascar el retrete tantas veces como diga el dado.
 - Una noche de diversión para 2-4 jugadores a partir de 5 años.
 - ¡Gana el jugador que tiene más fichas!
+- ¡Atrapa la caca! es garantía de risas y diversión.
+- Cuando la caca sale volando, se debe coger cuanto antes. Si la atrapas al vuelo, ¡te llevas dos fichas!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079KDNLQZ{{</world>}}

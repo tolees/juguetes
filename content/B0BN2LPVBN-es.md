@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Viaje Retro en el Mundo de los Videojuegos: Embárcate en una aventura nostálgica a través de icónicos sistemas de videojuegos de diferentes épocas.
 - Jugabilidad Desafiante: Pon a prueba tus habilidades de plataformas con trampas, rompecabezas y adversarios que abarcan la historia de los videojuegos.
 - Sube de Nivel: Desbloquea varios power-ups, vehículos y equipamiento para una experiencia variada y desafiante.
-- Más de 110 Niveles: Conquista más de 110 niveles, cada uno inspirado en una consola de videojuegos diferente.
 - Lanzamiento Exclusivo: Limitado a 2000 copias para NSW / 1000 copias para PS4 en todo el mundo, cada lanzamiento está numerado individualmente.
+- Más de 110 Niveles: Conquista más de 110 niveles, cada uno inspirado en una consola de videojuegos diferente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN2LPVBN{{</world>}}

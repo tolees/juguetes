@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Los jugadores dirigen una expedición científica a Papúa Nueva Guinea, a finales del siglo XIX
 - A partir de 10 años
 - Unos 75 minutos por partida
-- Los jugadores dirigen una expedición científica a Papúa Nueva Guinea, a finales del siglo XIX
 - De 2 a 4 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los juegos están basados en la historia de La LEGO Ninjago Película
 - Los jugadores pueden probar sus habilidades de combate y luchar contra enemigos cada vez más fuertes
-- Este producto sólo contiene contenido digital
 - El juego incluye 8 grandes entornos llenos de acción
+- Este producto sólo contiene contenido digital
+- Los juegos están basados en la historia de La LEGO Ninjago Película
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0764BFJCT{{</world>}}

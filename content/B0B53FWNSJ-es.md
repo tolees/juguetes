@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un juego de la línea para 2 jugadores de Kosmos
-- Partidas rápidas, fácil de aprender pero con profundidad estratégica
 - Componentes de baquelita atractivos que generan una experiencia de juego agradable
 - No necesita pilas
+- Un juego de la línea para 2 jugadores de Kosmos
+- Partidas rápidas, fácil de aprender pero con profundidad estratégica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B53FWNSJ{{</world>}}

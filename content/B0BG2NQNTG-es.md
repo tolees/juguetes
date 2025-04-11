@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 6 cartas de Investigador, 6 cartas pequeñas, 228 cartas de Jugador, 48 listas de mejoras, 1 reglamento
-- Quienes cuentan con conocimientos malditos son los encargados de evitar que esas entidades hagan pedazos nuestra dimensión.
 - A partir de 14 años
+- 6 cartas de Investigador, 6 cartas pequeñas, 228 cartas de Jugador, 48 listas de mejoras, 1 reglamento
 - La expansión de investigadores Las llaves escarlata presenta 6 investigadores nuevos y multitud de nuevas cartas de Jugador y opciones para el juego.
 - Esta expansión se puede emplear para crear o potenciar mazos de investigador para cualquier escenario o campaña de Arkham Horror: El juego de cartas.
+- Quienes cuentan con conocimientos malditos son los encargados de evitar que esas entidades hagan pedazos nuestra dimensión.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG2NQNTG{{</world>}}

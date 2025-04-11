@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Juego de cartas en español
 - Asumirás el papel de un adinerado apostador en un mundo mágico que intenta por todos los medios obtener el título honorífico de El Gran Cuerno ganando Oro y Gloria
+- A partir de 14 años de edad
 - De 2 a 6 Jugadores
 - Unicorn Fever es un juego táctico de apuestas con algunos toques de azar
-- Juego de cartas en español
-- A partir de 14 años de edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08M64NBDJ{{</world>}}

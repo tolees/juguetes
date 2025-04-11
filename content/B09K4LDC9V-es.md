@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 1 a 4 jugadores. Para niños a partir de 6 años y adultos. Advertencia. Puede contener piezas pequeñas. Peligro de asfixia.
-- Tamaño montado: 242 x 130 x 205 mm. Tamaño embalaje: 155 x 270 x 40 mm.
 - CÓMO JUGAR: Agarra la pelota, sitúala en el centro de la palanca metálica, apunta al tablero y lánzala para encestar. Una buena puntería será tu mejor arma para ganar cada ronda.
 - Incluye: pista, canasta, palanca para encestar y pelota con cuerda (para evitar que se pierda).
+- Tamaño montado: 242 x 130 x 205 mm. Tamaño embalaje: 155 x 270 x 40 mm.
+- De 1 a 4 jugadores. Para niños a partir de 6 años y adultos. Advertencia. Puede contener piezas pequeñas. Peligro de asfixia.
 - Juego de baloncesto de escritorio plegable, ideal para llevar a todas partes. Juego de mesa para toda la familia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

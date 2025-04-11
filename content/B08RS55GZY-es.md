@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Llega el juego famoso de la televisión en formato para los más pequeños de la casa, Pasapalabra Peques
 - El juego es de 1 a 4 jugadores, si hay más participantes se pueden formar equipos, así que no hay límite: cuantos más seáis más os divertiréis
 - El juego es para niños a partir de 5. Juego en español.
-- Se trata de un juego divertido y educativo donde los niños deben localizar visualmente una serie de dibujos relacionados entre sí
-- Llega el juego famoso de la televisión en formato para los más pequeños de la casa, Pasapalabra Peques
 - Siguiendo la dinámica del concurso de televisión, los niños jugarán varias pruebas y se enfrentarán con el rosco final; en la mayoría de las pruebas todos los niños jugarán a la vez
+- Se trata de un juego divertido y educativo donde los niños deben localizar visualmente una serie de dibujos relacionados entre sí
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08RS55GZY{{</world>}}

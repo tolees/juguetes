@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Duración aproximada de cada partida: 25 minutos
 - Juego de Cartas Shuffle gama RETRO, modelo "REGRESO AL FUTURO"
-- Revive la mítica saga de "Regreso al Futuro" con este divertido juego de cartas
-- Contiene 110 cartas e instrucciones del juego en español y en 13 idiomas más
 - A partir de 8 años. De 2 a 4 jugadores
+- Duración aproximada de cada partida: 25 minutos
+- Contiene 110 cartas e instrucciones del juego en español y en 13 idiomas más
+- Revive la mítica saga de "Regreso al Futuro" con este divertido juego de cartas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WPVGCYB{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡Más de 3000 combinaciones posibles!
 - Inventa respuestas que conecten los símbolos de los dados.
 - A partir de 10 años de edad.
 - De 2 a 8 jugadores.
 - ¡Busca vínculos, crea conexiones!
-- ¡Más de 3000 combinaciones posibles!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0971GVWPT{{</world>}}

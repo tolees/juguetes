@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Trasto es un perrito muy obediente cuando lleva su correa, pero cuando se la quitas se vuelve muy travieso
 - Apto para niños a partir de 36 meses
-- Funciona con 4 pilas LR06 (AA); pilas incluidas
+- Trasto es un perrito muy obediente cuando lleva su correa, pero cuando se la quitas se vuelve muy travieso
 - Trasto tiene 60 reacciones diferentes
 - Ponle a prueba: anda, saluda, da besitos, se sienta, baila, mueve la colita, se pone de pie, hace el pino y mucho más
+- Funciona con 4 pilas LR06 (AA); pilas incluidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D5HZYDQ{{</world>}}

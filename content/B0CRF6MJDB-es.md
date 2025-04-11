@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARACTERÍSTICAS: número de jugadores 1-5, edad recomendada 10+, duración 45-60 minutos, edición en castellano
-- JUEGO COOPERATIVO: Un regalo ideal para adultos y jóvenes amantes de los juegos cooperativos. Un juego de mesa que te apasionará
-- LOS MONSTRUOS CLÁSICOS: Un juego cooperativo inspirado en los legendarios monstruos de Universal, como Drácula, el Hombre Lobo o el Monstruo de Frankenstein, donde cada uno solo puede ser derrotado al enfrentar y superar los desafíos específicos
-- DERROTA A LOS MONSTRUOS: En esta emocionante carrera contra el terror, cada monstruo solo puede ser vencido cumpliendo con los desafíos requeridos. Protege a los habitantes del pueblo antes de que sea demasiado tarde
 - DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
+- JUEGO COOPERATIVO: Un regalo ideal para adultos y jóvenes amantes de los juegos cooperativos. Un juego de mesa que te apasionará
+- CARACTERÍSTICAS: número de jugadores 1-5, edad recomendada 10+, duración 45-60 minutos, edición en castellano
+- DERROTA A LOS MONSTRUOS: En esta emocionante carrera contra el terror, cada monstruo solo puede ser vencido cumpliendo con los desafíos requeridos. Protege a los habitantes del pueblo antes de que sea demasiado tarde
+- LOS MONSTRUOS CLÁSICOS: Un juego cooperativo inspirado en los legendarios monstruos de Universal, como Drácula, el Hombre Lobo o el Monstruo de Frankenstein, donde cada uno solo puede ser derrotado al enfrentar y superar los desafíos específicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRF6MJDB{{</world>}}

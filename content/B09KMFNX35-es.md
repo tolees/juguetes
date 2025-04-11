@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un juego de construcción de ciudades en la Luna para familias jugadoras
-- Ilustrado por Albert Monteys, uno de los artistas del cómic a nivel internacional, nominado a los Premios Eisner por Universo
 - Ayuda a tu empresa patrocinadora y diseña tu destacado asentamiento, para que tu ciudad selenita consiga la distinción de LUNA Capital
 - Vincula un número de losetas de proyecto a una serie de cartas de planos de construcción para obtener tu ciudad favorita
+- Ilustrado por Albert Monteys, uno de los artistas del cómic a nivel internacional, nominado a los Premios Eisner por Universo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KMFNX35{{</world>}}

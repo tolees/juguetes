@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Steelbook
 - Libro de arte
+- Steelbook
 - Una banda sonora digital
 - Incluye:
 - 3 litografías

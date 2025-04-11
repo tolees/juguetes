@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los Licántropos han vuelto a la aldea, más hambrientos que nunca.
-- ¿Qué bando ganará: la manada de licántropos o la comunidad de aldeanos? ¿Lograréis desenmascarar a los traidores antes de que se agote el tiempo?
-- Todos los jugadores a la vez recogen los dados que coincidan con los caramelos representados en sus cartas.
 - ¿Sois unos maestros del engaño? ¿Nadie os da gato por liebre? ¡Entonces este es vuestro juego! ¿Quién de vosotros será un licántropo traicionero y quién un inocente aldeano? ¡Solo tenéis una oportunidad para descubrirlo!
+- Los Licántropos han vuelto a la aldea, más hambrientos que nunca.
 - ¡Un juego para fiestas de 3-10 jugadores que incluye la app gratuita del narrador!
+- Todos los jugadores a la vez recogen los dados que coincidan con los caramelos representados en sus cartas.
+- ¿Qué bando ganará: la manada de licántropos o la comunidad de aldeanos? ¿Lograréis desenmascarar a los traidores antes de que se agote el tiempo?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SHMZFSB{{</world>}}

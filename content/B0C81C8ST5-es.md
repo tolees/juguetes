@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Viene con la figura exclusiva del rider Sharko
-- Juega a las carreras más bestias con Swap Riders y experimenta la emoción de la velocidad
 - Recomendado para niños y niñas a partir de 4 años entusiastas de las carreras
+- Viene con la figura exclusiva del rider Sharko
 - Este set incluye más de 12 piezas intercambiables que te permitirán tunear tu Quad SHARKO: cambia las piezas delanteras y traseras, los motores, los volantes, el tubo de escape y las llamas de poder
+- Juega a las carreras más bestias con Swap Riders y experimenta la emoción de la velocidad
 - El quad SHARKO presenta un diseño inspirado en un tiburón con una gran boca dentuda en la parte delantera y cola en la parte trasera; en color azul
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

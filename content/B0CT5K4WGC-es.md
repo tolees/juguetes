@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Anillos antifricción integrados para un control suave del mando del pulgar
 - Ergonomía superior para jugar cómodamente durante horas
-- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
 - Mando inalámbrico con tecnología Bluetooth 5.0
 - Dos botones asignables de juego avanzado
-- Incluye cable de alimentación USB-C de 10 pies (3 m)
-- Batería recargable de iones de litio: hasta 30 horas por carga*
+- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
+- Anillos antifricción integrados para un control suave del mando del pulgar
 - Indicador led de aviso de batería baja
 - Diseño intuitivo de los botones de Nintendo
+- Batería recargable de iones de litio: hasta 30 horas por carga*
+- Incluye cable de alimentación USB-C de 10 pies (3 m)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CT5K4WGC{{</world>}}

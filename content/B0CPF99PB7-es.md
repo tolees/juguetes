@@ -32,8 +32,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar Uno
 - La siguiente información se aplica a cada unidad del paquete
 - El juego viene en una colorida caja metálica
-- Incluye un mazo de 108 cartas más instrucciones y reglas de puntuación.
 - Recomendado para cada edad
+- Incluye un mazo de 108 cartas más instrucciones y reglas de puntuación.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPF99PB7{{</world>}}

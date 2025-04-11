@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A partir de 6 años
-- Los fans de Harry Potter podrán crear e inventar historias indefinidas sobre el tema de su saga favorita
 - Crea historias en el universo encantado y maravilloso de Poudlard
 - Contiene 9 dados
+- A partir de 6 años
 - Lanza los dados e inventa historias llenas de rebote, incluyendo los símbolos extraídos
+- Los fans de Harry Potter podrán crear e inventar historias indefinidas sobre el tema de su saga favorita
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CH74XPX{{</world>}}

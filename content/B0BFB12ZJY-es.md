@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Edición especial
-- Videojuego remasterizado de Tales of Symphonia
 - Videojuego para Play Station 4
+- Videojuego remasterizado de Tales of Symphonia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFB12ZJY{{</world>}}

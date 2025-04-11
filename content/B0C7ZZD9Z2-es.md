@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 aventuras nuevas: El tren del salvaje Oeste, Ladrones de tumbas y El Gran Robo.
 - Juego de mesa que simula una experiencia Escape Room de verdad.
-- ¡Suerte en la aventura! ¡Adelante, el tiempo vuela…!
-- Juego Escape Room | de 3 a 5 jugadores | +16 años
 - El objetivo es conseguir resolver cada una de las aventuras en menos de 1 hora a través de la resolución de enigmas, jeroglíficos, adivinanzas, sudokus, crucigramas...
+- Juego Escape Room | de 3 a 5 jugadores | +16 años
+- ¡Suerte en la aventura! ¡Adelante, el tiempo vuela…!
+- 3 aventuras nuevas: El tren del salvaje Oeste, Ladrones de tumbas y El Gran Robo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7ZZD9Z2{{</world>}}

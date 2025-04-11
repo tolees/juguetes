@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene 386 piezas
 - De la colección Dino Rise
+- Contiene 386 piezas
 - Figuras de adultos y accesorios de dinamita
 - Incluye: tren minero con vehículos y trampas
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con tobogán, columpio, balancín y escaleras
+- Motivo de Peppa Pig
 - Compatible con otros bloques de construcción
 - Incluye numerosas piezas de construcción
-- Motivo de Peppa Pig
-- Con tobogán, columpio, balancín y escaleras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M0LWPNC{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para jugar durante horas, abrazar y dormir en la camita, el peluche de Mario es súper suave al tacto. No podrás dejar de acariciarlo
 - El peluche de 30 cm no solo tiene el tamaño perfecto para que se puede llevar a todas partes, sino que también queda genial en cualquier rincón de casa
 - En Simba Toys subimos de nivel con los peluches Nintendo. Tenemos a Mario, Luigi, Yoshi y Toad, los querrás coleccionar todos.
 - El fontanero más famoso de la historia luce su mítico mono azul y rojo, así como el gorro con la M en el centro
+- Ideal para jugar durante horas, abrazar y dormir en la camita, el peluche de Mario es súper suave al tacto. No podrás dejar de acariciarlo
 - Peluche de Super Mario, el popular personaje del famoso videojuego de Nintendo con el mismo nombre. Ideal para peques desde los primeros meses de vida, gamers y nostálgicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

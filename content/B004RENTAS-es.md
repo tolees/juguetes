@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con esta caja de Bosch de calidad, los niños desarrollan sus habilidades motoras y aprenden a usar las herramientas con seguridad
-- Dimensiones: 32 cm 20.5 cm x 15 cm; Apto para niños de mayores de 3 años; Funciona con pilas: 2 pilas R03-AAA no incluidas
 - El Ixolino de juguete, con accesorios intercambiables, efectos de luz y sonido y un taladro giratorio, con rotación hacia derecha e izquierda, es popular
 - El juego incluye un martillo, una sierra, una llave inglesa, dos clavos de juguete, dos listones, cuatro tornillos y tuercas
+- Con esta caja de Bosch de calidad, los niños desarrollan sus habilidades motoras y aprenden a usar las herramientas con seguridad
+- Dimensiones: 32 cm 20.5 cm x 15 cm; Apto para niños de mayores de 3 años; Funciona con pilas: 2 pilas R03-AAA no incluidas
 - Todas las herramientas tienen su espacio en esta caja, con un práctico mango, incluido el destornillador inalámbrico de Bosch para niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

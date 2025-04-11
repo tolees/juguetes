@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto que combina tradición e innovación
-- Juego de construcción magnética
 - Marca: geomag
+- Juego de construcción magnética
 - Modelo: magicube
 
 [🛒 Visítala!!!]({{< param buyurl >}})

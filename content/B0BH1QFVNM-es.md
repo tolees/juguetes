@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El juego contiene reglas para crear héroes y enviarlos a vivir aventuras en una tierra amenazada por la creciente Sombra
 - Adéntrate en el mundo de la Tierra Media con El Anillo Único, el juego de rol de mesa oficial basado en las obras de J.R.R. Tolkien
 - Diseñado específicamente para evocar la atmósfera de El Hobbit y El Señor de los Anillos
-- El juego contiene reglas para crear héroes y enviarlos a vivir aventuras en una tierra amenazada por la creciente Sombra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BH1QFVNM{{</world>}}

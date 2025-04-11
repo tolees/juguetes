@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combate cabeza a cabeza: ambos jugadores pueden rebotar bolas simultáneamente en este juego de estrategia, habilidad y un poco de suerte; hunde la balsa salvavidas del oponente con la bola roja para una victoria automática
-- El juego hunde la flota sobre la marcha viene en una funda portátil plegable para un almacenamiento fácil y cómodo
-- Sea estratégico: cada jugador toma 3 barcos con 2 hoyos cada uno y una balsa salvavidas amarilla; obtienes los 7 disparos para ganar o hundir la balsa amarilla con la bola roja para una victoria instantánea
 - Batalla naval, el clásico juego de lucha naval, pero con una jugabilidad diferente; rebotar o lanzar bolas en el divisor y aterrizar disparos en barcos para hundirse y ganar
-- Este juego de rebote de bolas hace que los jugadores se levanten de sus asientos mientras los lanzan a los barcos de batalla de su oponente
+- El juego hunde la flota sobre la marcha viene en una funda portátil plegable para un almacenamiento fácil y cómodo
 - Versión italiana
+- Combate cabeza a cabeza: ambos jugadores pueden rebotar bolas simultáneamente en este juego de estrategia, habilidad y un poco de suerte; hunde la balsa salvavidas del oponente con la bola roja para una victoria automática
+- Sea estratégico: cada jugador toma 3 barcos con 2 hoyos cada uno y una balsa salvavidas amarilla; obtienes los 7 disparos para ganar o hundir la balsa amarilla con la bola roja para una victoria instantánea
+- Este juego de rebote de bolas hace que los jugadores se levanten de sus asientos mientras los lanzan a los barcos de batalla de su oponente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082WV1CQJ{{</world>}}

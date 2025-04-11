@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuando termines de jugar, pliega la máquina para guardarla con comodidad, limpiarla rápido y transportarla sin problemas. ¡Las piezas encajan en el interior!
-- Juega a ir de compras y a crear estilismos con piezas como maniquís, muebles para exponer prendas y un soporte para muñecas. Cuando termines, date un capricho dulce en la tienda de chucherías, equipada con una mesa y dos sillas con forma de helado. ¡Qué tierna!
-- Abre la máquina expendedora para desvelar el conjunto de juego y explorar los dos pisos y las cuatro habitaciones, entre las que se incluyen una tienda de chucherías, un vestidor con tocador, varios escaparates y unas escaleras.
-- Los niños y las niñas pueden ocupar los seis escaparates con conjuntos a la última: el conjunto incluye 25 prendas de ropa adorables y accesorios entre los que escoger. ¡Ayuda a la muñeca a seleccionar un conjunto pulsando un botón para que la máquina lo dispense! ¡Funciona como una máquina expendedora real!
 - El conjunto de juego Máquina expendedora de ropa de Polly Pocket es de lo más divertido gracias a la máquina expendedora que funciona de verdad, el conjunto de juego de dos pisos, las dos muñecas (7,6cm), el caniche tan adorable y las más de 35 piezas de moda para crear historias.
+- Los niños y las niñas pueden ocupar los seis escaparates con conjuntos a la última: el conjunto incluye 25 prendas de ropa adorables y accesorios entre los que escoger. ¡Ayuda a la muñeca a seleccionar un conjunto pulsando un botón para que la máquina lo dispense! ¡Funciona como una máquina expendedora real!
+- Abre la máquina expendedora para desvelar el conjunto de juego y explorar los dos pisos y las cuatro habitaciones, entre las que se incluyen una tienda de chucherías, un vestidor con tocador, varios escaparates y unas escaleras.
+- Juega a ir de compras y a crear estilismos con piezas como maniquís, muebles para exponer prendas y un soporte para muñecas. Cuando termines, date un capricho dulce en la tienda de chucherías, equipada con una mesa y dos sillas con forma de helado. ¡Qué tierna!
+- Cuando termines de jugar, pliega la máquina para guardarla con comodidad, limpiarla rápido y transportarla sin problemas. ¡Las piezas encajan en el interior!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRSKX1KH{{</world>}}

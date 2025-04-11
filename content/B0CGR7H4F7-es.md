@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Recluta un grupo de amigos y embarca en una aventura durante meses
-- Miniaturas detalladas
 - Juego de mazmorreo cooperativo total
+- Miniaturas detalladas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGR7H4F7{{</world>}}

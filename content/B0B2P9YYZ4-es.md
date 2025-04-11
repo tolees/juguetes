@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entretenimiento para todos: la próxima vez que te reúnas con amigos, trae juegos de mesa Spin Master, juguetes o cartas de juego. Tenemos actividades para noches de juego familiares, cumpleaños, cenas, viajes, regalos festivos y para cuando solo quieras divertirte.
-- Prepárate para una fiesta increíble: es hora de ser pequeño y decorar la casa de muñecas para una fiesta con todos tus amigos. Colecciona dijes para la diadema de tu gatito mientras avanzas. Quien pueda coleccionar la mayoría de los abalorios gana el dije especial en forma de corazón.
 - Basado en el popular programa de Netflix: ¿tu hijo en edad preescolar está obsesionado con la casa de muñecas de Gabby en Netflix? No busques más una actividad divertida, has encontrado este juego de mesa. Tiene el mismo aspecto que la casa de la muñecas del programa e incluye bonitas diademas de orejas de gato y dijes coleccionables.
-- Más de 40 dijes para coleccionar: los abalorios incluyen divertidos diseños como polos, estrellas, flores y, por supuesto, gatitos.
+- Entretenimiento para todos: la próxima vez que te reúnas con amigos, trae juegos de mesa Spin Master, juguetes o cartas de juego. Tenemos actividades para noches de juego familiares, cumpleaños, cenas, viajes, regalos festivos y para cuando solo quieras divertirte.
 - Un encantador juego de amistad: trabajad juntos para ayudar a Gabby y a sus amigos a prepararse para la fiesta de pijamas. El jugador con más dijes al final del juego gana. Este juego es para 2-4 jugadores, a partir de 4 años. Una partida solo dura alrededor de 30 minutos.
 - Incluye 1 tablero de juego de casa de muñecas, 1 tablero de juego en forma de tejado, 1 elevador, 12 tarjetas de habitaciones, 3 hojas de perforación (41 abalorios, 4 fichas), 2 dados, 1 cubilete de dados de plástico Meow Meow, 4 diademas de plástico, 4 soportes de fichas de plástico, instrucciones (idioma español no garantizado).
+- Prepárate para una fiesta increíble: es hora de ser pequeño y decorar la casa de muñecas para una fiesta con todos tus amigos. Colecciona dijes para la diadema de tu gatito mientras avanzas. Quien pueda coleccionar la mayoría de los abalorios gana el dije especial en forma de corazón.
+- Más de 40 dijes para coleccionar: los abalorios incluyen divertidos diseños como polos, estrellas, flores y, por supuesto, gatitos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2P9YYZ4{{</world>}}

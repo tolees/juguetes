@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO INFANTIL DEL AÑO 2017. El juego de habilidad Escuela de pingüinos ha sido galardonado con varios premios. Entre ellos destaca el premio Juego Infantil del Año 2017 (KinderSpiel des Jahres 2017).
 - DE 2 A 4 JUGADORES, A PARTIR DE 6 AÑOS. Un juego de mesa divertido en el que podréis participar de 2 a 4 jugadores, a partir de 6 años de edad.
-- DURACIÓN DE LA PARTIDA 30 MINUTOS. Cada partida tendrá una duración aproximada de 30 minutos. Ni muy larga ni muy corta para que juguéis las veces que queráis sin aburriros.
-- MÁS VALE MAÑA... Escuela de pingüinos es un juego de mesa de «impulso con el dedo» en el que pondrás a prueba tu destreza para conseguir que las figuras salten o giren en las curvas. ¿Te atreves?
+- JUEGO INFANTIL DEL AÑO 2017. El juego de habilidad Escuela de pingüinos ha sido galardonado con varios premios. Entre ellos destaca el premio Juego Infantil del Año 2017 (KinderSpiel des Jahres 2017).
 - UN JUEGO DE HABILIDAD PARA PASÁRSELO BIEN. En este juego de mesa familiar deberás perseguir y atrapar a los revoltosos pingüinos que corretean y patinan por la escuela polar. ¡Un juego de habilidad y sangre «fría»!
+- MÁS VALE MAÑA... Escuela de pingüinos es un juego de mesa de «impulso con el dedo» en el que pondrás a prueba tu destreza para conseguir que las figuras salten o giren en las curvas. ¿Te atreves?
+- DURACIÓN DE LA PARTIDA 30 MINUTOS. Cada partida tendrá una duración aproximada de 30 minutos. Ni muy larga ni muy corta para que juguéis las veces que queráis sin aburriros.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M0Q9O6M{{</world>}}

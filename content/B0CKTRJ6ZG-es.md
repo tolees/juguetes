@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si queréis adentraros en pleno corazón de la jungla para descubrir sus plantas más exóticas, tendréis que ir con mucho cuidado
-- Un juego para toda la familia, a partir de 6 años
-- De 2 a 4 jugadores y 20 minutos de duración
-- Entre la vegetación, se esconden animales que es mejor que evitéis a toda costa
 - Quién recolectará más plantas sin molestar a los animales
+- De 2 a 4 jugadores y 20 minutos de duración
+- Un juego para toda la familia, a partir de 6 años
+- Si queréis adentraros en pleno corazón de la jungla para descubrir sus plantas más exóticas, tendréis que ir con mucho cuidado
+- Entre la vegetación, se esconden animales que es mejor que evitéis a toda costa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKTRJ6ZG{{</world>}}

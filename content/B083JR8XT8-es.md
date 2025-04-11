@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - ¡Packaging premium! La figura viene en una caja de alta calidad que es perfecta para regalar o para exhibir en tu colección.
 - ¡Gran nivel de detalle y decoración! Cada figura está diseñada con precisión para capturar la esencia del personaje.
-- ¡Más de 17 puntos de articulación y 17 cm de altura! Esta figura es perfecta para exhibir en tu colección o para jugar.
 - ¡Accesorios incluidos! La figura viene con accesorios adicionales para que puedas personalizar la figura y crear tus propias escenas de acción.
+- ¡Más de 17 puntos de articulación y 17 cm de altura! Esta figura es perfecta para exhibir en tu colección o para jugar.
 - ¡Lleva a casa a tu héroe favorito! Figura articulada de Muñecos y figuras de acción de alta calidad de Midoriya Izuku de My Hero Academia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

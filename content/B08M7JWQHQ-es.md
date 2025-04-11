@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rendimiento de nueva generación en la Xbox más pequeña de la historia
 - Xbox Velocity Architecture, impulsada por un SSD personalizado, funciona junto con la tecnología moderna de sistema en un chip (SOC) para proporcionar un juego de hasta 120 FPS en consola más pequeña
-- Colecciona, modifica y conduce más de 450 coches
-- Las estaciones dinámicas lo cambian todo en el festival automovilístico
 - Tiempos de carga más rápidos: los juegos se cargan significativamente más rápido con el SSD personalizado en la Xbox Series S
+- Las estaciones dinámicas lo cambian todo en el festival automovilístico
+- Rendimiento de nueva generación en la Xbox más pequeña de la historia
+- Colecciona, modifica y conduce más de 450 coches
 - Ve por cuenta propia o únete a otros equipos para explorar la hermosa e histórica Gran Bretaña en un mundo abierto compartido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

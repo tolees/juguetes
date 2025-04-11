@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Duración aproximada de cada partida: 25 minutos
-- Contiene 60 cartas, dos tableros, fichas e instrucciones del juego en español y en 13 idiomas más
-- Revive la mítica película de "ET" con este divertido juego de cartas
 - A partir de 8 años. De 2 a 4 jugadores
 - Juego de Cartas Shuffle gama RETRO, modelo "ET"
+- Contiene 60 cartas, dos tableros, fichas e instrucciones del juego en español y en 13 idiomas más
+- Duración aproximada de cada partida: 25 minutos
+- Revive la mítica película de "ET" con este divertido juego de cartas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WRGXDZV{{</world>}}

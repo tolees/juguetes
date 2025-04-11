@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Videojuego Code-In-Box para Nintendo Switch
 - Lego Harry Potter Collection CIB. No incluye tarjeta física.
+- Videojuego Code-In-Box para Nintendo Switch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4P68WM9{{</world>}}

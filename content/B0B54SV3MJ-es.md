@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 300 años de arduo trabajo; la trilogía Century llega a su fin con Century: Un Nuevo Mundo; explora el Nuevo Mundo como un comerciante de finales del siglo XVI
-- Combínalos, juégalo como juego independiente o combínalo con Century: La Ruta de las Especias y Century: Maravillas de Oriente para crear 4 variantes
 - Los jugadores familiarizados con la trilogía Century reconocerán de inmediato las dinámicas de comercio presentes en los juegos anteriores
 - Te encuentras en tierras salvajes, donde necesitarás cazar, recolectar, cosechar recursos, explorar y comerciar con los nativos para sobrevivir
 - Pero quedarán impresionados con la mecánica de colocación de trabajadores que llega con esta tercera y última entrega
+- 300 años de arduo trabajo; la trilogía Century llega a su fin con Century: Un Nuevo Mundo; explora el Nuevo Mundo como un comerciante de finales del siglo XVI
+- Combínalos, juégalo como juego independiente o combínalo con Century: La Ruta de las Especias y Century: Maravillas de Oriente para crear 4 variantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B54SV3MJ{{</world>}}

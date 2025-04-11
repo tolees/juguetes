@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Ten cuidado! Muévete con cuidado cerca del Dino sin hacerlo enfadar, puede que te vea y venga a por ti! Dino te vé, Dino te come...
-- Recomendado a partir de los 5 años.
 - ¡Vigila, el Dinosaurio está buscando a los exploradores!
-- Tira el dado, avanza por la valla del cercado y vigila no te vea el Dinosaurio! ¡Tendrás que llegar al final el primero para ganar!
 - Contenido: - Dino motorizado- 4 pinzas explorador - componentes de plástico para el tablero - instrucciones.
+- ¡Ten cuidado! Muévete con cuidado cerca del Dino sin hacerlo enfadar, puede que te vea y venga a por ti! Dino te vé, Dino te come...
+- Tira el dado, avanza por la valla del cercado y vigila no te vea el Dinosaurio! ¡Tendrás que llegar al final el primero para ganar!
+- Recomendado a partir de los 5 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B34KCX9N{{</world>}}

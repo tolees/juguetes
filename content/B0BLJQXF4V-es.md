@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los accesorios de viaje son óptimos para contar historias; esta muñeca con temática playera viene con una bolsa de playa extragrande en forma de corazón, una etiqueta de equipaje en forma de concha marina, un pasaporte, un billete de avión y un llavero con protector solar
 - ¡Barbie va a la playa! Esta muñeca con puntos de articulación está lista para divertirse bajo el sol
 - Luce con confianza su estilo playero con un bañador tropical, una falda vaquera con motivos Extra, una bata larga y unas sandalias rosas de plataforma
 - ¡Todo es cuestión de los detalles EXTRA! La muñeca Barbie viene con 15 accesorios, como una bebida tropical, un sombrero de playa extragrande, pendientes de palmeras y gafas de sol para expresarse a través del estilo y divertirse combinando
+- Los accesorios de viaje son óptimos para contar historias; esta muñeca con temática playera viene con una bolsa de playa extragrande en forma de corazón, una etiqueta de equipaje en forma de concha marina, un pasaporte, un billete de avión y un llavero con protector solar
 - Las muñecas Barbie Extra Fly están listas para ir de vacaciones con conjuntos a la moda y mucho estilo; cada muñeca viene con accesorios de viaje y prendas que son toda una declaración de intenciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tobogán de colores divertidos con superficie de deslizamiento de 150 cm de longitud
-- Construcción estable con escaleras y asas ergonómicas. Desmontable para facilitar el guardado
-- Incorpora una toma de agua para conectar una manguera y producir una cascada de agua
 - Dimensiones: 159 x 68 x 100 (L x P x A)
+- Construcción estable con escaleras y asas ergonómicas. Desmontable para facilitar el guardado
+- Tobogán de colores divertidos con superficie de deslizamiento de 150 cm de longitud
+- Incorpora una toma de agua para conectar una manguera y producir una cascada de agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ERK6SKK{{</world>}}

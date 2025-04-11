@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca NICI
 - Diseno funcional
+- De la marca NICI
 - Alta calidad
 - Cuando crezca quiero ser un elefante
 

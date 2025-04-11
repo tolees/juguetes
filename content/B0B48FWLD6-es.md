@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierra y empuja la cola hacia arriba para volver a la forma humana y transfórmala una y otra vez para repetir el momento sorpresa.
-- Con la transformación 2 en 1, la muñeca es un regalo perfecto para que niños y niñas recreen sus escenas favoritas de “La Sirenita” de Disney o se imaginen sus propias aventuras llenas de emoción.
-- Inspirada en el personaje en pantalla, la muñeca Ariel transformable de “La Sirenita” de Disney luce los conjuntos característicos de la película, ¡dentro y fuera del agua!
-- Pulsa el collar de concha de la muñeca para ver cómo se transforma de una persona con un elegante vestido azul a una sirena con una cola brillante de colores degradados.
 - La muñeca de Ariel luce su larga melena roja característica para reivindicar la belleza del cabello al natural, y permite pasar horas peinándola y cuidándola.
+- Cierra y empuja la cola hacia arriba para volver a la forma humana y transfórmala una y otra vez para repetir el momento sorpresa.
+- Pulsa el collar de concha de la muñeca para ver cómo se transforma de una persona con un elegante vestido azul a una sirena con una cola brillante de colores degradados.
+- Inspirada en el personaje en pantalla, la muñeca Ariel transformable de “La Sirenita” de Disney luce los conjuntos característicos de la película, ¡dentro y fuera del agua!
+- Con la transformación 2 en 1, la muñeca es un regalo perfecto para que niños y niñas recreen sus escenas favoritas de “La Sirenita” de Disney o se imaginen sus propias aventuras llenas de emoción.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B48FWLD6{{</world>}}

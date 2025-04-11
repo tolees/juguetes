@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Con increibles efectos de luces que recrean los ataques especiales de Lucario
+- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Increible detalle y acabado. En una escala 1/10 y sus 33cm son perfectos para decorar la habitacion
 - Recreacion perfecta de uno de los pokemon más poderosos.
 

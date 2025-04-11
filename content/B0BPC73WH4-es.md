@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este resistente set de juego también incluye un soporte con un elemento de núcleo de energía del dragón dorado, que Kai debe obtener, y 2 elementos de obstáculos con llamas
-- Colecciona otros juguetes interactivos de acción NINJAGO: Spinjitzu Drift el Poder del Dragón de Nya (71778) y Spinjitzu Spin el Poder del Dragón de Lloyd (71779)
-- Los fans de los ninjas podrán entrenar a su héroe para que haga mortales hacia atrás con este juguete para lanzar de LEGO NINJAGO Spinjitzu Flip el Poder del Dragón de Kai para niños a partir de 6 años
-- Los niños pueden colocar la mini figura del Poder del Dragón de Kai NINJAGO en el spinner, golpear uno de sus brazos y ver como el héroe hace un mortal hacia atrás
 - El set de juego viene con una minifigura del Poder del Dragón de Kai lista para realizar trucos, y la figura de un Droide del Imperio que se inclina a los lados cuando se la golpea
+- Colecciona otros juguetes interactivos de acción NINJAGO: Spinjitzu Drift el Poder del Dragón de Nya (71778) y Spinjitzu Spin el Poder del Dragón de Lloyd (71779)
+- Los niños pueden colocar la mini figura del Poder del Dragón de Kai NINJAGO en el spinner, golpear uno de sus brazos y ver como el héroe hace un mortal hacia atrás
+- Los fans de los ninjas podrán entrenar a su héroe para que haga mortales hacia atrás con este juguete para lanzar de LEGO NINJAGO Spinjitzu Flip el Poder del Dragón de Kai para niños a partir de 6 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPC73WH4{{</world>}}

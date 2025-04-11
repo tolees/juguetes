@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gracias a sus palabras sencillas y dibujos de colores, deletrear palabras sobre el tablero de juego es más divertido.
-- Al girar el tablero, los jugadores pueden divertirse con el juego avanzado que les permite crear sus propias palabras.
-- Cuando todas las fichas están en el tablero, gana el jugador con más puntos.
-- De 2 a 4 jugadores. A partir de 5 años.
 - ¡Junior Scrabble es un divertido juego de letras para tu pequeñín!
+- Al girar el tablero, los jugadores pueden divertirse con el juego avanzado que les permite crear sus propias palabras.
+- De 2 a 4 jugadores. A partir de 5 años.
+- Cuando todas las fichas están en el tablero, gana el jugador con más puntos.
+- Gracias a sus palabras sencillas y dibujos de colores, deletrear palabras sobre el tablero de juego es más divertido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00E5WMF6Q{{</world>}}

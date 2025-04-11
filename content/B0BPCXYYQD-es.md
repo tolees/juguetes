@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 2 a 6 jugadores
+- Juego de Mesa, Monopoly, Maradona; Futbol; Argentina; tablero;
 - Recorre con esta exclusiva y conmemorativa edición de Monopoly, la trayectoria deportiva de la mayor leyenda del fútbol mundial.
 - Viaja desde los inicios de Diego en los Cebollitas, y descubre todas las casillas que envuelve esta increible edición.
-- Juego de Mesa, Monopoly, Maradona; Futbol; Argentina; tablero;
+- De 2 a 6 jugadores
 - Invierte en casas y hoteles para lograr el éxito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

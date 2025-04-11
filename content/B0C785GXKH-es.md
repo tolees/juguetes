@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bienvenido a la Academia Tatefushi
 - Batallas de ruptura
 - Un paraiso inolvidable
-- Bienvenido a la Academia Tatefushi
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C785GXKH{{</world>}}

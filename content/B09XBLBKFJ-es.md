@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NÚMERO DE JUGADORES: A partir de 2 personas
 - LA MÁQUINA detectará si la respuesta es correcta o no!
-- TIPOS DE PREGUNTAS: Hay 4 categorías de preguntas: creativas, visuales, de idioma y de cálculo. ¿Cuál será tu especialidad?
-- ESTRATEGIA Y HABILIDAD: Fomenta la creatividad y la concentración de los niños y mejora sus habilidades motoras finas y pensamiento estratégico
 - INCLUYE: 76 cartas (+300 preguntas), 1 Dale al coco y 17 Bolas
+- NÚMERO DE JUGADORES: A partir de 2 personas
+- ESTRATEGIA Y HABILIDAD: Fomenta la creatividad y la concentración de los niños y mejora sus habilidades motoras finas y pensamiento estratégico
+- TIPOS DE PREGUNTAS: Hay 4 categorías de preguntas: creativas, visuales, de idioma y de cálculo. ¿Cuál será tu especialidad?
 - OBJETIVO: Gana quien consiga responder todas sus preguntas correctamente y llegue a la cima de la torre!
 - JUEGO Y REGALO para niños y niñas a partir de 8 años. ¡También es para toda la familia!
 

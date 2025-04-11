@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alemán y español
-- Juguete
-- Ravensburger Spieleverlag
 - Puerto Rico
+- Juguete
+- Alemán y español
+- Ravensburger Spieleverlag
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084BJMPT8{{</world>}}

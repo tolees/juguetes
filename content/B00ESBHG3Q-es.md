@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Include nuovi mondi: Toy Story, Rapunzel, Big Hero 6, Monsters & Co e Frozen.
 - Genere del gioco: azione, gioco di ruolo
+- Include nuovi mondi: Toy Story, Rapunzel, Big Hero 6, Monsters & Co e Frozen.
 - Piattaforma: PlayStation 4
 - Edizione del gioco: standard
 

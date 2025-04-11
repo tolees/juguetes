@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JUEGO EDUCATIVO : Este juego permite desarrollar la percepción, la psicomotricidad , la coordinación mano-ojo, la destreza manual fina, la memoria y la atención
 - CONTENIDO : Esta caja contiene un tablero de juego, 2 Spinner, 21 Tarjetas Vengadores, fichas de poder, fichas enemigas, 5 fichas de reemplazo, dados y reglas
+- JUEGO EDUCATIVO : Este juego permite desarrollar la percepción, la psicomotricidad , la coordinación mano-ojo, la destreza manual fina, la memoria y la atención
 - AVENGERS : ¡Un juego que ilustra a tus personajes emblemáticos favoritos! Sentirás que estás entrando en su mundo
 - JUEGO DE SOCIEDAD : Este juego es una buena manera de pasar una noche maravillosa con la familia o amigos. Se juega con 2 o más jugadores. Adecuado para niños a partir de 7 años
 - JUEGO COMPETITIVO : Reúne a tu equipo de Vengadores e intenta derrotar a Thanos, pero ten cuidado o con un chasquido de dedos Thanos se convertirá en el señor del universo

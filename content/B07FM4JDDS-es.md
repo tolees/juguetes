@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escena de la película
-- Producto de licencia oficial
 - Puzzle
-- Medidas 76x46 cm
+- Producto de licencia oficial
 - Incluye 1000 piezas
+- Medidas 76x46 cm
+- Escena de la película
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FM4JDDS{{</world>}}

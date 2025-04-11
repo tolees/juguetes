@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Indicado a partir de 4 años
 - Cuando colocas los ingredientes en la posición correcta en el Caldero, el Mixie Mágico aparece mágicamente y ganas la partida
 - El juego de pociones Magic Mixies es un juego de emoción y expectación
-- Indicado a partir de 4 años
-- El juego de pociones Magic Mixies es un emocionante juego de estilo Pop-Up en el que corres por el tablero para recoger ingredientes mágicos
 - Para 2-4 jugadores mayores de 4 años
+- El juego de pociones Magic Mixies es un emocionante juego de estilo Pop-Up en el que corres por el tablero para recoger ingredientes mágicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNQ18K42{{</world>}}

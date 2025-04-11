@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un regalo perfecto inspirado en la película para los fans del espacio y de Lightyear a partir de 4 años.
-- Los coleccionistas querrán hacerse con todas las demás figuras y vehículos a escala de 12,7 cm para jugar y exponerlos de forma espectacular. Se venden por separado y están sujetos a disponibilidad.
-- La figura de Buzz incluida mide 12,7 cm y encaja en la cabina con su jetpack. El jetpack se desprende para que puedas contar distintas historias y también se adapta a otras figuras de pilotos Buzz XL de 12,7 cm.
-- La palanca situada bajo la nave espacial permite recrear un momento emblemático de la película, mientras que el botón situado sobre el motor dispara proyectiles desde ambas alas.
 - Revive la emoción de la exploración espacial, los conflictos y el trabajo en equipo de la película Lightyear, de Disney y Pixar, con esta realista nave espacial Explosión y batalla de 50,8 cm inspirada en una de las naves espaciales de Buzz Lightyear de la película.
+- Un regalo perfecto inspirado en la película para los fans del espacio y de Lightyear a partir de 4 años.
+- La palanca situada bajo la nave espacial permite recrear un momento emblemático de la película, mientras que el botón situado sobre el motor dispara proyectiles desde ambas alas.
+- La figura de Buzz incluida mide 12,7 cm y encaja en la cabina con su jetpack. El jetpack se desprende para que puedas contar distintas historias y también se adapta a otras figuras de pilotos Buzz XL de 12,7 cm.
+- Los coleccionistas querrán hacerse con todas las demás figuras y vehículos a escala de 12,7 cm para jugar y exponerlos de forma espectacular. Se venden por separado y están sujetos a disponibilidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09JX29KC7{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
-- Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
 - Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
+- Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
+- Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
 - Descubre armas y habilidades letales en un sistema de combate renovado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

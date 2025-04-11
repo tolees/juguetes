@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Built-in padded screen-protector flap includes game storage for ten game cards.Officially licensed by Nintendo with two-year limited warranty – visit PowerA.com/Support
 - Molded interior with felt lining
 - Sturdy handle and durable zipper pull
-- Built-in padded screen-protector flap includes game storage for ten game cards.Officially licensed by Nintendo with two-year limited warranty – visit PowerA.com/Support
 - Dominated by the slashing arc of the Master Sword, this design shows Link at his most formidable.
 - Built-in play stand for Tabletop Mode
 

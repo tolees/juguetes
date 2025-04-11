@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Muchas decisiones interesantes en un juego de partidas acotadas, giros inesperados y puntuaciones apretadas
 - Pueden participar entre dos y cuatro jugadores, a partir de los 10 años de edad
-- Aprovecha las mejores formas de puntuar en cada momento a través del borrador de cartas
 - En este juego, del diseñador Reiner Knizia, los participantes encarnan a un artesano y comerciante del vidrio de la laguna de Venecia
+- Aprovecha las mejores formas de puntuar en cada momento a través del borrador de cartas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNLR4KQB{{</world>}}

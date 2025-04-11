@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo para fans de LEGO: las divertidas minifiguras LEGO coleccionables son una idea de regalo óptima para peques que se hayan ganado un premio
 - Horas de juego con LEGO: estos juguetes pueden añadirse y aumentar una colección, exponerse o usarse para dar vida a infinidad de aventuras de acción imaginarias
-- Minifiguras de fantasía: los fans de LEGO pueden ampliar sus colecciones con 1 de 12 figuras coleccionables posibles en cada caja, como el Velocista, el Niño Tren, la Arpía y el Fan con Disfraz de Triceratops
 - Juguetes para interpretar historias: estas minifiguras LEGO coleccionables permitirán imaginar formidables aventuras a los niños creativos y, después, interpretarlas a solas o con amigos
+- Minifiguras de fantasía: los fans de LEGO pueden ampliar sus colecciones con 1 de 12 figuras coleccionables posibles en cada caja, como el Velocista, el Niño Tren, la Arpía y el Fan con Disfraz de Triceratops
 - Figuras coleccionables: los niños y las niñas de 5 años o más se lo pasarán muy bien interpretando historias con los personajes del pack LEGO Minifigures: 25ª Edición, con 1 detallado juguete de aventura en cada caja sorpresa
 - Accesorios realistas: cada una de las figuras coleccionables viene con 1 accesorio como mínimo; por ejemplo, el Pastor trae una cabra y el Detective de Cine Negro trae un arenque rojo (una pista falsa)
+- Regalo para fans de LEGO: las divertidas minifiguras LEGO coleccionables son una idea de regalo óptima para peques que se hayan ganado un premio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVYBW5N{{</world>}}

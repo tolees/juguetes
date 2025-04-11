@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
-- 24 FIGURITAS: Los Metazells son animales guerreros virtuales que se dividen en los buenos y los malos. ¡Cada bando defiende su mundo!
-- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
-- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
-- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
-- RECREA LAS BATALLAS: Juega con las cartas incluidas y recrea las luchas entre los Woodies y Wrockers. ¡El jugador con más puntos gana!
 - METAVERSO ZELLTIA: Escanea el código QR de los packs y juega en un mundo virtual. ¡Podrás crear tu personaje y escoger tu bando!
+- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
+- RECREA LAS BATALLAS: Juega con las cartas incluidas y recrea las luchas entre los Woodies y Wrockers. ¡El jugador con más puntos gana!
+- 24 FIGURITAS: Los Metazells son animales guerreros virtuales que se dividen en los buenos y los malos. ¡Cada bando defiende su mundo!
+- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
+- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
+- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSLJSFTK{{</world>}}

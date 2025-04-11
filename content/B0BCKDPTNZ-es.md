@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado para 2a 4 jugadores a partir de 6 años
-- Inspirado en el clásico juego de la Oca, tendrás que jugar con tus pesonajes favoritos de Marvel para llegar a casa y ganar la partida
-- Juego de tablero infantil basado en los superheroes de Marvel
-- En el juego vienen incluidas 5 figuritas con los mejores personajes de Marvel para que recorras el tablero con ellos.
 - Hecho en la UE
+- Inspirado en el clásico juego de la Oca, tendrás que jugar con tus pesonajes favoritos de Marvel para llegar a casa y ganar la partida
+- Recomendado para 2a 4 jugadores a partir de 6 años
+- En el juego vienen incluidas 5 figuritas con los mejores personajes de Marvel para que recorras el tablero con ellos.
+- Juego de tablero infantil basado en los superheroes de Marvel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCKDPTNZ{{</world>}}

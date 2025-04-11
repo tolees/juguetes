@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 12 espacios para guardar medallas por página (El álbum y las medallas se venden por separado y están sujetos a disponibilidad)
+- La medalla muestra un personaje Yo-kai
 - Incluye 1 medalla exclusiva Yo-Motion
 - Utiliza las pegatinas incluidas para personalizar tu álbum
-- La medalla muestra un personaje Yo-kai
+- 12 espacios para guardar medallas por página (El álbum y las medallas se venden por separado y están sujetos a disponibilidad)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N64J0BH{{</world>}}

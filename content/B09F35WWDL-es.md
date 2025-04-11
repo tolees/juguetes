@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Construye tu propia granja!
+- ¡Pon a tus granjeros a trabajar!
 - El exitoso juego de agricultura, ¡ahora para toda la familia!
 - De 1 a 4 jugadores. A partir de 8 años.
-- ¡Pon a tus granjeros a trabajar!
+- ¡Construye tu propia granja!
 - Un juego accesible para cualquiera gracias a sus reglas sencillas y su ambientación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

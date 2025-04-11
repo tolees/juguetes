@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entre las mini sorpresas incluidas puedes encontrar un pareo, gafas de sol, bikini, chanclas y más.
 - Mini conjunto de viaje de Real Littles que incluye un cachorro de juguete, una maleta con ruedas y un asa plegable que funcionan de verdad.
+- Entre las mini sorpresas incluidas puedes encontrar un pareo, gafas de sol, bikini, chanclas y más.
 - Diviértete creando varios estilos únicos y fashions a tu mini mascota. También podrás decorar la maleta con las pegatinas y personalizarla dando rienda suelta a tu creatividad
 - La maleta con ruedas incluye 10 mini sorpresas dentro, con todos los accesorios que tu mascota necesita para irse de viaje
 - El mini juego incluye un pequeño transportín para cachorros que funciona de verdad para que lleves a tu perrito contigo a donde quieras

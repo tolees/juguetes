@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Merchandising
+- The Vintage Collection
 - Licencia Oficial
 - Artículo coleccionable
-- The Vintage Collection
-- Merchandising
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NTNNWKR{{</world>}}

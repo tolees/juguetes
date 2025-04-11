@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fantastische Disney-Welten: Die Schöne und das Biest, Peter Pan, Alice im Wunderland, Aladdin, Tarzan, Herkules und viele mehr!
 - KINGDOM HEARTS HD 1.5 ReMIX und KINGDOM HEARTS HD 2.5 ReMIX jetzt auch für die PS4 erhältlich
 - Der perfekte Einstieg für alle, die zum ersten Mal mit der Reihe in Berührung kommen
+- Fantastische Disney-Welten: Die Schöne und das Biest, Peter Pan, Alice im Wunderland, Aladdin, Tarzan, Herkules und viele mehr!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MRU394B{{</world>}}

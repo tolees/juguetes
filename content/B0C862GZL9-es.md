@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ahora con partidas hasta a 8 jugadores ¡cuántos más seáis, más puñaleo
 - Versión definitiva del clásico juego de bazas Skull King, con cartas nuevas que incluyen nuevas habilidades
 - Uno de los juegos más canallas y divertidos de nuestro catálogo, indispensable en cualquier ludoteca
+- Ahora con partidas hasta a 8 jugadores ¡cuántos más seáis, más puñaleo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C862GZL9{{</world>}}

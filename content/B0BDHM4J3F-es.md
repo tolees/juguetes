@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Basadas en personajes del mundo de PJ Masks
 - Para niños a partir de los 3 años
 - Inspirado en la serie animada clásica
+- Basadas en personajes del mundo de PJ Masks
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BDHM4J3F{{</world>}}

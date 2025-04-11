@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ¡Limit Breaker son las figuras más grandes y espectaculares de la línea de Dragon Ball!
-- Figura de la serie Limit Breaker de Goku Battle Damaged
-- 30 cm de altura y 5 puntos de articulación
 - Las Limit Breaker son las figuras más grandes y óptimas de Dragon Ball Super
+- Figura de la serie Limit Breaker de Goku Battle Damaged
 - Ideal para recrear los combates y escenas más épicas
+- 30 cm de altura y 5 puntos de articulación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JQBRLMS{{</world>}}

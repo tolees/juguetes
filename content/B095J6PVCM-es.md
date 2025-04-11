@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- - Épica banda sonora y ecelente diseño de sonido
 - - Sistema de batalla de tiempo reactivo de ritmo rápido
 - - Impresionante estilo pixel art
-- - Épica banda sonora y ecelente diseño de sonido
 - - Paisajes y ruinas inquietantemente hermosos.
 - - Mazmorras generadas de forma procedural
 

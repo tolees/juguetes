@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esta expansión incluye todas las cartas que aparecían originalmente en las expansiones La traición de Saruman y La tierra de la Sombra, ahora en una misma caja.
-- La expansión de saga El Señor de los Anillos: Las Dos Torres contiene seis escenarios
-- Recrean las aventuras de Las Dos Torres, la segunda parte de la epopeya de El Señor de los Anillos de J.R.R. Tolkien.
 - Incluye más de 60 cartas de Héroe y de Jugador que se pueden usar para construir o mejorar los mazos de Jugador de cualquier escenario o campaña de El Señor de los Anillos: El Juego de Cartas.
+- Recrean las aventuras de Las Dos Torres, la segunda parte de la epopeya de El Señor de los Anillos de J.R.R. Tolkien.
 - Únete a Aragorn, Legolas y Gimli en su pugna contra la traición de Saruman mientras Frodo se acerca a la hostil tierra de Mordor en su legendario viaje hasta el Monte del Destino.
+- La expansión de saga El Señor de los Anillos: Las Dos Torres contiene seis escenarios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CK2RQM1F{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El signo de los catorce
-- Una investigación en la sombra
 - La isla del miedo
+- Una investigación en la sombra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGPL37QR{{</world>}}

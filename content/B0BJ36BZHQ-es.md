@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño optimo para coleccionar; con 12 cm de altura, esta mini figura encaja óptimamente en tu vitrina o en tu escritorio
 - Una generación de coleccionables; expande tu colección de Minix
-- Optimo para regalo; el regalo optimo para los más fanáticos de la televisión
+- Tamaño optimo para coleccionar; con 12 cm de altura, esta mini figura encaja óptimamente en tu vitrina o en tu escritorio
 - Embalaje de coleccionista
+- Optimo para regalo; el regalo optimo para los más fanáticos de la televisión
 - Figura de 12 cm detallada basada en la serie Stranger Things
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

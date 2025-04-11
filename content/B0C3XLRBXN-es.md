@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de usar
 - Buen producto para su uso
+- Fácil de usar
 - Productos de excelente calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

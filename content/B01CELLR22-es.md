@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cluedo - hasbro gaming (hasbro 38712546)
+- La carrera para encontrar al culpable ha comenzado
 - Nueva versión para dos jugadores que añade un nuevo toque de intriga
 - Investiga, disimula, acusa y gana
 - Muévete de una habitación a otra y descubre quién lo hizo, dónde y con qué arma
-- Cluedo - hasbro gaming (hasbro 38712546)
-- La carrera para encontrar al culpable ha comenzado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CELLR22{{</world>}}

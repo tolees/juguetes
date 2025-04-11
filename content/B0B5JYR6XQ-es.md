@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INCLUYE D12 PARA CREAR UN SET DE DADOS EXCLUSIVO DE D&D: Porque a todos nos encantan los dados, ¿verdad? Necesitarás este d12 para lanzar e infligir daño si tienes la suerte de tener un arma mágica, o simplemente para quedar bien junto al d20 correspondiente.
-- INSPIRADO EN LOS DIBUJOS ANIMADOS DE D&D DE LOS 80: Cuando un grupo de niños van al parque de atracciones, toman el viaje de sus vidas y terminan en el reino de Dungeons & Dragons
-- EL MEJOR JUEGO DE ROL DEL MUNDO: D&D ha deleitado a nerds, jugadores y actores de doblaje durante casi 50 años. Estas figuras de coleccionista traen un pedazo de la historia de D&D a tu estantería
 - HAZ UNA COMPROBACIÓN DE PERCEPCIÓN PARA ENCONTRAR MÁS FIGURAS CLÁSICAS DE D&D: Cada una se vende por separado. Sujeto a disponibilidad.
+- EL MEJOR JUEGO DE ROL DEL MUNDO: D&D ha deleitado a nerds, jugadores y actores de doblaje durante casi 50 años. Estas figuras de coleccionista traen un pedazo de la historia de D&D a tu estantería
+- INSPIRADO EN LOS DIBUJOS ANIMADOS DE D&D DE LOS 80: Cuando un grupo de niños van al parque de atracciones, toman el viaje de sus vidas y terminan en el reino de Dungeons & Dragons
+- INCLUYE D12 PARA CREAR UN SET DE DADOS EXCLUSIVO DE D&D: Porque a todos nos encantan los dados, ¿verdad? Necesitarás este d12 para lanzar e infligir daño si tienes la suerte de tener un arma mágica, o simplemente para quedar bien junto al d20 correspondiente.
 - FIGURAS DE ACCIÓN A ESCALA DE 6 PULGADAS: cuentan con una decoración y un diseño de primera calidad inspirados en los dibujos animados clásicos, junto con un accesorio inspirado en los personajes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

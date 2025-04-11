@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ilustraciones vistosas y componentes de calidad
 - Fácil de aprender pero con alta profundidad estratégica
 - Euro game de peso medio con mecánicas
-- Ilustraciones vistosas y componentes de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BG9M6HG{{</world>}}

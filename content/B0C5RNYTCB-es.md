@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con efectos de luz y sonido
 - MONTARLO ES MUY DIVERTIDO Construye las criaturas electrónicas de 9cm con las 20 piezas incluidas
 - Une las figuras a su base y listo para unas batallas épicas, Golpes por la izquierda, derecha y por sorpresa
-- Con efectos de luz y sonido
 - Apunta y golpea el corazón de tu enemigo para que pierda la cabeza y destruirlo,
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

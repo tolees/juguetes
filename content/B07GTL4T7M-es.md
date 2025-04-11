@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Fácil de usar
 - Componentes incluidos: 2 cámaras de aire para bicicleta
-- Tipo de deporte: radsport
 - Dimensiones del paquete: 5.4 L x 13.2 H x 8.2 W centímetros
+- Tipo de deporte: radsport
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GTL4T7M{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 1) Si quieres practicar miles de saltos une los 2 extremos de la cuerda con las asas y obtendrás una divertida cuerda de saltar. Sujétala por los extremos y comienza la diversión
-- Salta sola o con tus amigas
 - 3 juguetes para ti, triple diversión
 - 2) coloca el aro alrededor de tu tobillo derecho. Mueve la pierna hacia atrás y salta sobre la cuerda con el pie izquierdo a la vez que continúas el movimiento circular con tu pie derecho. Salta y haz girar la bola
+- Salta sola o con tus amigas
 - 3) une los dos extremos de la cuerda entre sí y juega a la goma. Verás que divertido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - LIBRO MÁGICO : utiliza el libro para resolver los acertijos
-- JUEGO DE MESA muy divertido y entretenido para niños mayores de 5 años
-- ESCAPE ROOM : Escapa de la casa encantada! Juego de miedo y misterio para niños
 - LINTERNA MÁGICA Sigue las instrucciones del mayordomo proyectado por la linterna y vence al monstruo final
 - HASTA 5 MONSTRUOS DISTINTOS a vencer para escapar de la mansión
+- ESCAPE ROOM : Escapa de la casa encantada! Juego de miedo y misterio para niños
+- JUEGO DE MESA muy divertido y entretenido para niños mayores de 5 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08C5LVSS2{{</world>}}

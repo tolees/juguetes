@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¿Serás tú ese Dios?
-- Solo un dios saldrá triunfante en la nueva era del monoteísmo.
 - Lidera a tus devotos en un conflicto épico por la vida eterna.
-- Toma el control de una de las divinidades legendarias de Egipto y altera las reglas de juego con sus poderes únicos.
+- Solo un dios saldrá triunfante en la nueva era del monoteísmo.
 - De 2 a 5 jugadores, a partir de 14 años de edad.
+- ¿Serás tú ese Dios?
+- Toma el control de una de las divinidades legendarias de Egipto y altera las reglas de juego con sus poderes únicos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C25RYQW{{</world>}}

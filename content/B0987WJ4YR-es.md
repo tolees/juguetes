@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 2 figuras de Super Mario
-- Dispara al objetivo de tu personaje para atacar. Usa las dos aletas laterales para disparar el disco de bolas de fuego. Cada golpe hace que tu objetivo se voltee hacia Bowser para derrotarlo al llegar a la Torre. Al mismo tiempo, ¡dispara al objetivo de tu oponente para interrumpirlo! Golpear el objetivo del oponente hace que se voltee hacia el otro lado para mantenerse alejado de la Torre. ¿Quién ganará?
 - Dispara a los objetivos de tu personaje para acercarlos a Bowser y ganar. Juega a la defensiva disparando a los objetivos de tus oponentes para enviarlos de vuelta al inicio.
+- Dispara al objetivo de tu personaje para atacar. Usa las dos aletas laterales para disparar el disco de bolas de fuego. Cada golpe hace que tu objetivo se voltee hacia Bowser para derrotarlo al llegar a la Torre. Al mismo tiempo, ¡dispara al objetivo de tu oponente para interrumpirlo! Golpear el objetivo del oponente hace que se voltee hacia el otro lado para mantenerse alejado de la Torre. ¿Quién ganará?
 - Un montón de mecanismos y movimientos sin baterías.
+- Incluye 2 figuras de Super Mario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0987WJ4YR{{</world>}}

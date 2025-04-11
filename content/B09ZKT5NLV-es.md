@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disney Villainous Despicable Plots es para 2-3 jugadores y se recomienda para mayores de 10 años; las dinámicas de juego se adaptan fácilmente a diferentes tipos de jugadores: expertos, principiantes, familias y apasionados del mundo Disney
-- La calidad de los materiales, las cuidadas ilustraciones de las cartas y los tableros y el atractivo diseño de los peones lo convierten en el regalo óptimo para los apasionados de Disney que deseen revivir las escenas de los clásicos
-- En cada Guía de Villano encontrarás estrategias y consejos para hacerte con la victoria; una vez que hayas averiguado la forma de jugar con un determinado Villano, prueba a jugar con otro; hay tres Villanos diferentes y cada uno logra la victoria de forma distinta
 - Cuarta expansión del juego de mesa Villainous con tres Villanos: Gastón, el Rey del Mal y la Madrastra; con ilustraciones Disney y peones de colección
+- En cada Guía de Villano encontrarás estrategias y consejos para hacerte con la victoria; una vez que hayas averiguado la forma de jugar con un determinado Villano, prueba a jugar con otro; hay tres Villanos diferentes y cada uno logra la victoria de forma distinta
+- La calidad de los materiales, las cuidadas ilustraciones de las cartas y los tableros y el atractivo diseño de los peones lo convierten en el regalo óptimo para los apasionados de Disney que deseen revivir las escenas de los clásicos
+- Disney Villainous Despicable Plots es para 2-3 jugadores y se recomienda para mayores de 10 años; las dinámicas de juego se adaptan fácilmente a diferentes tipos de jugadores: expertos, principiantes, familias y apasionados del mundo Disney
 - Métete en el papel de un Villano Disney; para ganar, tendrás que explorar las habilidades de tu personaje y descubrir cómo alcanzar tu objetivo personal, relacionado con la historia de tu Villano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

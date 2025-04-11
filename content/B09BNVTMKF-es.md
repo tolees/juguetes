@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de piezas: 98
-- La mini figura del Mandaloriano incluida está vestida con su traje de la temporada 2 de Star Wars: The Mandalorian y tiene una pistola bláster y una mochila propulsora
-- Microfighter: The Razor Crest
-- Edad recomendada por el fabricante: 6+
 - Los peques podrán explorar otros planetas con la mochila propulsora del mandaloriano y enfrentarse a sus enemigos con la pistola bláster
+- Número de piezas: 98
+- Edad recomendada por el fabricante: 6+
+- Microfighter: The Razor Crest
+- La mini figura del Mandaloriano incluida está vestida con su traje de la temporada 2 de Star Wars: The Mandalorian y tiene una pistola bláster y una mochila propulsora
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BNVTMKF{{</world>}}

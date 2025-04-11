@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que han cobrado vida ahora tienen nuevos compañeros que son los Kazoom Kids, niños transformados también en héroes y villanos por el poder del Kazoom y viven todos en Kaboom City. Puedes descubrir o seguir las aventuras de estas figuras de acción en el canal de YouTube de Magic Box (disponible en español y en otros idiomas)
+- ● ¡LOS SUPERTHINGS VAN AL RESCATE! – Con el Rescue Truck, los SuperThings y los Kazoom Kids podrán acudir a la llamada de auxilio de cualquier ciudadano de Kaboom City
 - FIGURAS EXCLUSIVAS – Contiene 1 Kazoom Kid y 1 SuperThing exclusivos
 - ¡GRAN JUGABILIDAD! – Más de 8 acciones: captura a los villanos con la pala delantera, vigila la puerta de escape de la cárcel, activa la sirena de emergencia, dispara agua con el cañón para apagar los incendios, desengancha la nave ¡y a volar!, usa la escalera para llegar a los sitios más altos, recarga a tus SuperThings con el regenerador de Kazoom y cuando acabes, sienta a tus SuperThings en el camión para transportarlos a la siguiente misión de rescate
-- ● ¡LOS SUPERTHINGS VAN AL RESCATE! – Con el Rescue Truck, los SuperThings y los Kazoom Kids podrán acudir a la llamada de auxilio de cualquier ciudadano de Kaboom City
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TQ1F9NV{{</world>}}

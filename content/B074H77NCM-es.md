@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- De 1 a 6 jugadores
+- A partir de los 12 años
 - Duración 45-90 minutos
 - Edición en español
-- A partir de los 12 años
 - Dificultad: Avanzado
-- De 1 a 6 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B074H77NCM{{</world>}}

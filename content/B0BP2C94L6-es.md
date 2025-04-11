@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Rejugabilidad: Con cada sesión de juego ofreciendo una mezcla única de desafíos y resultados, "City of the Great Machine" garantiza una rejugabilidad infinita, prometiendo experiencias emocionantes tanto para novatos como para estrategas experimentados por igual.
 - Universo Steampunk Inmersivo: Explora un mundo meticulosamente elaborado donde la estética victoriana choca con la tecnología de vanguardia, sumergiendo a los jugadores en una cautivadora saga steampunk.
-- Conflicto Dinámico: Participa en una lucha dinámica entre la Gran Máquina, una formidable red de inteligencia artificial, y una resistente alianza de Héroes, cada uno luchando por la supremacía en los cielos.
-- Jugabilidad Estratégica: Ejerce la destreza estratégica mientras comandas las fuerzas de la Gran Máquina de Servidores perfeccionados y Guardias mecánicos, o colabora con otros Héroes para incitar la rebelión y frustrar las ambiciones tiránicas de la Gran Máquina.
 - Narrativas Épicas: Embárcate en narrativas épicas mientras navegas a través de la intrincada red de intriga política, agitación social y resistencia heroica, donde cada decisión da forma al destino de la Ciudad y sus habitantes.
+- Jugabilidad Estratégica: Ejerce la destreza estratégica mientras comandas las fuerzas de la Gran Máquina de Servidores perfeccionados y Guardias mecánicos, o colabora con otros Héroes para incitar la rebelión y frustrar las ambiciones tiránicas de la Gran Máquina.
+- Conflicto Dinámico: Participa en una lucha dinámica entre la Gran Máquina, una formidable red de inteligencia artificial, y una resistente alianza de Héroes, cada uno luchando por la supremacía en los cielos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP2C94L6{{</world>}}

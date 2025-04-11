@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de 10 años de edad
 - De 1 a 4 Jugadores
+- La competición para elegir a la persona que decorará el templo con sus obras está a punto de comenzar. ¿Lograrás que tus pinturas sean las mejores?
 - Un templo cuyas paredes se adornarán con pinturas de serpientes emplumadas para ensalzar a las divinidades.
 - En el corazón de la ciudad azteca se está erigiendo un templo en honor a los dioses.
-- La competición para elegir a la persona que decorará el templo con sus obras está a punto de comenzar. ¿Lograrás que tus pinturas sean las mejores?
+- A partir de 10 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B8S6C47R{{</world>}}

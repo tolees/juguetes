@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece horas de entretenimiento
 - Cubo con piezas de formas encajables
 - Un total de 13 piezas
+- Ofrece horas de entretenimiento
 - Contiene 12 bloques para encajar con sus respectivas formas en el cubo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
