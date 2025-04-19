@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Videojuego Code-In-Box para Nintendo Switch
 - LEGO Marvel Super Heroes2 NS-CIB. No incluye tarjeta física.
+- Videojuego Code-In-Box para Nintendo Switch
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4P7R4RN{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Creado para un uso prolongado
 - Diseño creativo
+- Creado para un uso prolongado
 - Producto por tu tiempo libre
 - Calidad óptima para los requisitos del cliente
 

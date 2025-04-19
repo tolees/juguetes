@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 4 fomras de juego
-- Gran juego de reto visual y agilidad mental
-- Encuentra y conecta el vinculo entre dos cartas
 - Producto distribuido oficialmente en España por BIZAK.
+- Encuentra y conecta el vinculo entre dos cartas
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Gran juego de reto visual y agilidad mental
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RQK9RN7{{</world>}}

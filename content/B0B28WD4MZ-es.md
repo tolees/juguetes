@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿Harás saltar a Johnny por los aires? Tira una carta, sigue las instrucciones, gira el pomo y… ¡tira!
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Producto distribuido oficialmente en España por BIZAK.
-- 18 cartas de acción, 1 Johnny, 1 baño portátil, 1 rollo de papel higiénico apestoso.
 - Cuando crees que puedes aguantar, pero ya no puedes más... Johnny Cagoni estará en el baño, conseguirás pasar?
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- ¿Harás saltar a Johnny por los aires? Tira una carta, sigue las instrucciones, gira el pomo y… ¡tira!
+- 18 cartas de acción, 1 Johnny, 1 baño portátil, 1 rollo de papel higiénico apestoso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B28WD4MZ{{</world>}}

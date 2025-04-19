@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- JUEGO DE INVESTIGACIÓN: Es 1869 y no se ha visto al respetado astrónomo de la ciudad desde la inesperada muerte de su mujer. Recientemente, han estado ocurriendo cosas raras en su mansión: ruidos extraños, un desagradable olor y humo que sale del observatorio. ¡Está en vuestras manos resolver el misterio en la Mansión!
 - JUEGO EDUCATIVO: Escape The Room, forma parte de la línea de juegos ThinkFun. Ofrecen horas y horas de pura diversión, son innovadores, creativos, ofreciendo una experiencia educativa que pone en práctica el razonamiento secuencial y la capacidad de deducción lógica a medida que avanzan en la historia y resuelven los enigmas, desbloqueando varias pistas para desvelar el misterio final.
-- RESUELVE EL CASO: Descubre el misterio en la Mansión del Observatorio encontrando pistas y resolviendo rompecabezas. ¿Conseguiréis resolverlo y escapar de la habitación antes de que se agote el tiempo?
 - ESCAPE ROOM JUEGO DE MESA: Vive en tu propia casa la experiencia de un "Escape Room" resolviendo un emocionante y misterioso caso de asesinato.
 - JUEGO DE MESA PARA NIÑOS: Un emocionante juego de mesa "Escape Room" para niños a partir de 10 años, en el que pueden jugar de 3 a 8 jugadores.
-- JUEGO DE INVESTIGACIÓN: Es 1869 y no se ha visto al respetado astrónomo de la ciudad desde la inesperada muerte de su mujer. Recientemente, han estado ocurriendo cosas raras en su mansión: ruidos extraños, un desagradable olor y humo que sale del observatorio. ¡Está en vuestras manos resolver el misterio en la Mansión!
+- RESUELVE EL CASO: Descubre el misterio en la Mansión del Observatorio encontrando pistas y resolviendo rompecabezas. ¿Conseguiréis resolverlo y escapar de la habitación antes de que se agote el tiempo?
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BDQVNYW{{</world>}}

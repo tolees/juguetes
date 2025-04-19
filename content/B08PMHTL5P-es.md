@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solo con Ravensburger el puzzle se fusiona con el juego y ayuda a los niños en el desarrollo de la imaginación y sus habilidades de concentración y creatividad
-- El puzzle también incluye: un folleto con narración del juego, un código QR que enlaza a una página en la que se puede encontrar ayuda adicional, y un sobre cerrado con la solución, que se debe abrir únicamente después de terminar el juego.
-- El juego se compone de 2 fases de diversión: primero los niños se divertirán componiendo el puzzle y después tendrán que descubrir los misterios que esconde a través de enigmas y acertijos
-- ¿Cómo salir de la «escape room»? La imagen de la caja es ligeramente diferente a la del puzzle: encuentra las diferencias, porque en ellas donde se esconden los enigmas que debes resolver.
 - Con la línea Escape Puzzle Kids, ¡los niños podrán probar la experiencia de las famosas «escape room» en formato de puzzle! Descubre este puzzle de 368 piezas, recomendado a partir de 9 años
+- ¿Cómo salir de la «escape room»? La imagen de la caja es ligeramente diferente a la del puzzle: encuentra las diferencias, porque en ellas donde se esconden los enigmas que debes resolver.
+- El puzzle también incluye: un folleto con narración del juego, un código QR que enlaza a una página en la que se puede encontrar ayuda adicional, y un sobre cerrado con la solución, que se debe abrir únicamente después de terminar el juego.
+- Solo con Ravensburger el puzzle se fusiona con el juego y ayuda a los niños en el desarrollo de la imaginación y sus habilidades de concentración y creatividad
+- El juego se compone de 2 fases de diversión: primero los niños se divertirán componiendo el puzzle y después tendrán que descubrir los misterios que esconde a través de enigmas y acertijos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PMHTL5P{{</world>}}

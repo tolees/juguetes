@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Joy-Con izquierdo con cruceta
+- Licencia oficial de Nintendo
 - Ideal para juegos de plataformas y lucha con uso intensivo de la cruceta
 - Acabado negro mate en plástico semitraslúcido y con diseño Zelda
-- Licencia oficial de Nintendo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FSWM4Z2{{</world>}}

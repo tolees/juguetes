@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funciones de luz que se activan con la voz y que revelan el símbolo de Odín
 - Acabado y detalles premium
 - Martillo de juguetes de personificación premium de 50 cm a escala real 1:1
+- Funciones de luz que se activan con la voz y que revelan el símbolo de Odín
 - Correa para la muñeca y empuñadura con diseño auténtico
 - Empuña el poderoso Mjolnir
 

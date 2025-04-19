@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un arte y unos componentes atractivos por un precio ajustado
-- Un juego óptimo para toda la familia, para introducirse en los juegos de mesa, pero con suficiente estrategia como para que cualquier tipo de jugador lo disfrute
 - Ayuda a los animalitos a hacer buen acopio de comida y resistir hasta la primavera
+- Un juego óptimo para toda la familia, para introducirse en los juegos de mesa, pero con suficiente estrategia como para que cualquier tipo de jugador lo disfrute
+- Un arte y unos componentes atractivos por un precio ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ5C981G{{</world>}}

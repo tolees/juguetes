@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 o más jugadores
-- Cartas borrables para jugar sin parar
-- El plan optimo para pasar un rato muy divertido
 - Cuantos más personajes acierte tu equipo, más puntos conseguiréis
+- 2 o más jugadores
 - Saca tu lado más artístico para transformar personajes a contrarreloj
+- El plan optimo para pasar un rato muy divertido
+- Cartas borrables para jugar sin parar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5CKCCG2{{</world>}}

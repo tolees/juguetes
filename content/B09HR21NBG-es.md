@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GRAN JUGABILIDAD – Robot de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños.
 - FIGURA EXCLUSIVA – Contiene 1 Kazoom Kid y 1 SuperThing héroe exclusivos.
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
+- GRAN JUGABILIDAD – Robot de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños.
 - ¡ÚNETE AL EQUIPO DE LOS VILLANOS! – Un robot cargado de energía Kazoom villana será el mayor enemigo de todo aquél que quiera proteger Kaboom City. Con su potente arma, peleará contra los héroes para hacerse con el control de la ciudad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

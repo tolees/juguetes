@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El tiempo de juego estimado de cada partida es de 10-15 minutos
 - Juego de cartas para dos jugadores partir de 5 años.
 - Interpreta a tu princesa Disney favorita y apresúrate en llegar a palacio
 - Este juego incluye de 2 figuras de la reina de las nieves: Jasmine y Bella
-- El tiempo de juego estimado de cada partida es de 10-15 minutos
 - Jasmine y Bella, las Princesas de Disney, echan una carrera de vuelta a casa en este juego de cartas infantil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Includes a variable backboard with tiles that increases the sense of adventure and replayability
 - The delivery of the Clank saga; the dungeon deck building game
 - Self-playable game that can be combined with Clanks other installments
+- Includes a variable backboard with tiles that increases the sense of adventure and replayability
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CMJ2MXBM{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de 7 años
-- 70 trucos para los pequeños magos, para que puedan sorprender a sus familiares y amigos con trucos
 - Juego en castellano
-- Descubre el poder de la magia con el juego de Clementoni
 - Haz desaparecer objetos, adivina cartas, transforma una hoja en billetes; Conviértete en un mago
+- 70 trucos para los pequeños magos, para que puedan sorprender a sus familiares y amigos con trucos
+- A partir de 7 años
+- Descubre el poder de la magia con el juego de Clementoni
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09WW6KBG1{{</world>}}

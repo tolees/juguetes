@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a partir de 10 años
-- Ejecuta tu estrategia para conquistar el mundo
 - Juego para 2 a 5 jugadores
 - Favorece el desarrollo motriz, intelectual, sensitivo
+- Recomendado a partir de 10 años
+- Ejecuta tu estrategia para conquistar el mundo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ALHAIWG{{</world>}}

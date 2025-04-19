@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La nueva línea GraviTrax PRO Starter Set Vertical es una expansión hacia una nueva dimensión, que te permitirá alcanzar alturas vertiginosas.
-- Un nuevo set que contiene todo lo necesario para una construcción vertical, que se puede hacer aún más flexible con otros elementos adicionales. ¡Con este set puedes superar los límites y fijar otros nuevos!
-- Contiene: Manual de instrucciones, plano de construcción, 4 tableros de base, 1 base transparente, 6 canicas, 12 pilares, 2 paneles largos transparentes, 2 paneles medianos transparentes, 1 panel corto transparente, 16 puentes individuales, 4 puentes dobles, 8 rieles Bernoulli de plástico cortos, 3 rieles de plástico largos, 6 rieles de plástico medianos, 9 rieles de plástico cortos, 20 módulos de altura grandes, 9 módulos de altura pequeños, 28 curvas, 4 cruces, 2 desviaciones, 1 3-en-1, 1 remolino, 1 salida, 1 Cañón Magnético, 1 conducto de meta, 4 módulos base (con 2 interceptores, 1 caída libre, 1 salpicadura y 1 meta).
 - ¡Adquiriendo por separado los accesorios y las expansiones del mundo GraviTrax, podrás crear recorridos infinitos y siempre nuevos!
 - GraviTrax es un juego de construcción STEM con el que podrás dar rienda suelta a tu creatividad construyendo un fantástico mundo de pistas para canicas
+- Un nuevo set que contiene todo lo necesario para una construcción vertical, que se puede hacer aún más flexible con otros elementos adicionales. ¡Con este set puedes superar los límites y fijar otros nuevos!
+- La nueva línea GraviTrax PRO Starter Set Vertical es una expansión hacia una nueva dimensión, que te permitirá alcanzar alturas vertiginosas.
+- Contiene: Manual de instrucciones, plano de construcción, 4 tableros de base, 1 base transparente, 6 canicas, 12 pilares, 2 paneles largos transparentes, 2 paneles medianos transparentes, 1 panel corto transparente, 16 puentes individuales, 4 puentes dobles, 8 rieles Bernoulli de plástico cortos, 3 rieles de plástico largos, 6 rieles de plástico medianos, 9 rieles de plástico cortos, 20 módulos de altura grandes, 9 módulos de altura pequeños, 28 curvas, 4 cruces, 2 desviaciones, 1 3-en-1, 1 remolino, 1 salida, 1 Cañón Magnético, 1 conducto de meta, 4 módulos base (con 2 interceptores, 1 caída libre, 1 salpicadura y 1 meta).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084DGQKXD{{</world>}}

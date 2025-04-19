@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Muñeca de personaje hada de la serie WINX con pelo largo y decorable.
 - Personaje de Stella, una de las protagonistas de la serie WINX
+- Muñeca de personaje hada de la serie WINX con pelo largo y decorable.
 - Podrás hacerle mechas gracias a las 2 tizas de diferentes colores que incluye.
 - Lavándoles el pelo se quitan las mechas y podrán volver a decorárselo tantas veces como quieran
 - Miden 24 cm de altura y tienen 7 puntos de articulación.

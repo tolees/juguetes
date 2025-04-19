@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hacer café como los adultos es un juego de niños con esta cafetera
 - Medidas: 20 cm x 16 cm x 20 cm; Apto para niños a partir de tres años; Pilas necesarias 2 x R03-AAA - No incluidas en la entrega
 - Gracias al módulo de sonido, el café hace silbidos y resoplidos en la taza de café que se incluye
 - Basta con llenar de agua, insertar las cápsulas de café, pulsar el botón grande y dejar que el agua fría circule
-- Hacer café como los adultos es un juego de niños con esta cafetera
 - El agua no se calienta en la máquina. Es un juguete seguro para juegos de rol educativos y divertidos en las cocinas para niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

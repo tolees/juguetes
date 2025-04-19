@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- mientras que, si sorprende a algún mercader pasando contrabando a la ciudad, será ese mercader quien le pague una multa.
+- Esta 2ª edición incluye reglas para un sexto jugador, los ayudantes del sheriff y el mercado negro
+- Si el sheriff registra las mercancías de los mercaderes honestos será sancionado
 - Cada ronda, un nuevo jugador será el sheriff, en busca de contrabando.
 - En El sheriff de Nottingham, los jugadores son astutos mercaderes que sobornan y engañan a la autoridad para poder cruzar las murallas de la ciudad.
-- Si el sheriff registra las mercancías de los mercaderes honestos será sancionado
-- Esta 2ª edición incluye reglas para un sexto jugador, los ayudantes del sheriff y el mercado negro
-- mientras que, si sorprende a algún mercader pasando contrabando a la ciudad, será ese mercader quien le pague una multa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VW4TMD8{{</world>}}

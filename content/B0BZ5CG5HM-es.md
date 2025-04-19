@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eurogame con temática gamberra, cargada de humor y guiños a distintos elementos de la cultura Pop y el entretenimiento
 - Mecánica que combina gestión de recursos y estrategia con elecciones políticas, votación y pactos vinculantes (o no)
 - Planet B es el lanzamiento de Essen de la reputada editorial Hans Im Glück (Carcassonne, Stone Age, Russian Railroad)
+- Eurogame con temática gamberra, cargada de humor y guiños a distintos elementos de la cultura Pop y el entretenimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ5CG5HM{{</world>}}

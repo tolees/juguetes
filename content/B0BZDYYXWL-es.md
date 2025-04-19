@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Avanza en una campaña narrativa y crea parques con una arquitectura de ensueño
-- Comparte tu obra maestra y encuentra inspiración
-- ¡A imposibilizar!
 - Elige la libertad en el modo cajón de sastre
+- Comparte tu obra maestra y encuentra inspiración
+- Avanza en una campaña narrativa y crea parques con una arquitectura de ensueño
+- ¡A imposibilizar!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZDYYXWL{{</world>}}

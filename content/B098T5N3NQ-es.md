@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AERÓGRAFO REAL: Incluye un divertido aerógrafo a batería y 4 rotuladores de tiza en varios colores.
 - PERSONALIZA TU PELUCHE: Cada juego viene con un peluche Unicornio que puedes decorar con el estilo que elijas con el aerógrafo a batería y los rotuladores de tiza
 - CREA DISEÑOS DIFERENTES: Lava tus diseños fácilmente con agua y comienza de nuevo. Más de 100 plantillas incluidas para usar o diseñar.
+- AERÓGRAFO REAL: Incluye un divertido aerógrafo a batería y 4 rotuladores de tiza en varios colores.
 - Los aerosoles especiales a base de tiza se limpian fácilmente. Requiere pilas: 2 x AA no incluidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

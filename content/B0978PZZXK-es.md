@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye un sobre de pegamento especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje.
-- Dragon Ball Super y Educa se han unido para crear este fantástico puzzle con Piccolo, y Goku, Trunks, Vegeta y Gotan transformados en super saiyanes en la famosa batalla de los dioses.
 - Beerus, el dios de la destrucción, ha despertado después de años de letargo. Al escuchar que un súper saiyan logró derrotar a Freezer, viaja a la Tierra para retarlo. Goku deberá prepararse para el combate más difícil de su vida.
 - Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde las 500 piezas se recomiendan a partir de 11 años.
+- Dragon Ball Super y Educa se han unido para crear este fantástico puzzle con Piccolo, y Goku, Trunks, Vegeta y Gotan transformados en super saiyanes en la famosa batalla de los dioses.
+- Incluye un sobre de pegamento especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje.
 - 🧩Puzzle de 500 piezas para adultos. Medida aproximada una vez montado: 34 x 48 cm. Material: cartón reciclado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

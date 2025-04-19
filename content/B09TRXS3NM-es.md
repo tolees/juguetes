@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los juguetes coleccionables LEGO Super Mario están diseñados para divertirse en solitario o en compañía de familiares o amigos, y ofrecen infinitas formas de expandir, reconstruir y crear niveles de juego creativo únicos
-- Este juguete de construcción LEGO Super Mario del Zapato de Goomba agrega una diversión sin límites, saltos, pisotones y volteretas a los Packs Iniciales de LEGO Mario, Luigi o Peach (de venta por separado)
 - Al igual que en los videojuegos de Super Mario, los niños pueden colocar la figura de Goomba incluida dentro del zapato construido con ladrillos LEGO y agregarla a los niveles de juego que creen
 - Los peques pueden ayudar a LEGO Mario, LEGO Luigi o LEGO Peach (figuras interactivas no incluidas) a deslizar el zapato para saltar y realizar volteretas con las que ganarán monedas virtuales
 - Los sets de expansión LEGO Super Mario son un gran regalo para niños y niñas que tengan un Pack Inicial LEGO Super Mario (71360, 71387 o 71403), requerido para jugar
+- Este juguete de construcción LEGO Super Mario del Zapato de Goomba agrega una diversión sin límites, saltos, pisotones y volteretas a los Packs Iniciales de LEGO Mario, Luigi o Peach (de venta por separado)
+- Los juguetes coleccionables LEGO Super Mario están diseñados para divertirse en solitario o en compañía de familiares o amigos, y ofrecen infinitas formas de expandir, reconstruir y crear niveles de juego creativo únicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TRXS3NM{{</world>}}

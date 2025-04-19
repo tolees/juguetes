@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Remasterización de aniversario
-- Dos juegos en uno
 - Accesibilidad nueva
+- Dos juegos en uno
+- Remasterización de aniversario
 - Juego icónico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

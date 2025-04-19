@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tu primer paso al mundo de Carcassonne
+- Juega con tus hijos a partir de 4 años
 - Juego adecuado para pasar el tiempo libre
 - Duración aproximada de la partida: 20 min
 - La versión infantil del juego imprescindible
-- Tu primer paso al mundo de Carcassonne
-- Juega con tus hijos a partir de 4 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FVWX0VM{{</world>}}

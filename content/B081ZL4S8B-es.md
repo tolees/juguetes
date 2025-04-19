@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¿Cuál es tu calificación social?
+- Reúne a tus amigos más influyentes para una partida a un juego basado en el episodio de Black Mirror CAÍDA EN PICADO
 - Tu Calificación Social se basa en cuánto disfrutan los demás jugadores de las experiencias que les das utilizando la aplicación gratuita APP DE JUEGO “CAÍDA EN PICADO”
 - Crea una vida "perfecta" ganando cartas de Estilo de Vida mientras evitas que tu Calificación Social pueda causar que todo por lo que has trabajado se derrumbe
+- ¿Cuál es tu calificación social?
 - Tienes a tu disposición más de 1000 experiencias únicas, ¡pon en juego tu reputación para impresionar a tus amigos más influyentes
-- Reúne a tus amigos más influyentes para una partida a un juego basado en el episodio de Black Mirror CAÍDA EN PICADO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B081ZL4S8B{{</world>}}

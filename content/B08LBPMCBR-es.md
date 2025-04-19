@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 130 cartas para tratar de inmunizarte el primero y pasarlo en grande con tu familia y amigos
+- Cuidado con las cartas de incógnito! pueden beneficiarte, pero también perjudicarte
 - Consigue inmunizarte de los 4 virus antes que tus rivales para ganar
 - Usa las cartas de protección para no infectarte
-- Cuidado con las cartas de incógnito! pueden beneficiarte, pero también perjudicarte
-- 130 cartas para tratar de inmunizarte el primero y pasarlo en grande con tu familia y amigos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LBPMCBR{{</world>}}

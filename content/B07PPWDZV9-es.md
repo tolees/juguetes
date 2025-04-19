@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Control remoto scooter RC con Super Mario
-- Con tecnología de 2.4 GHz de función completa
-- Para niños y niñas a partir de 6 años
 - El vehículo viene a una escala de 1:20
+- Para niños y niñas a partir de 6 años
+- Con tecnología de 2.4 GHz de función completa
+- Control remoto scooter RC con Super Mario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PPWDZV9{{</world>}}

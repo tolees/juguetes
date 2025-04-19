@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye un espacio para guardar las piezas
-- Edad recomendada: a partir de 8 años
-- Juego de viaje
 - Incluye las propiedades clásicas, las cartas de comunidad y cartas de suerte
+- Juego de viaje
+- Edad recomendada: a partir de 8 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00STL70OG{{</world>}}

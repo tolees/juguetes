@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta calidad
-- Diseno funcional
 - Brand: Winning Moves
 - Carton
+- Alta calidad
+- Diseno funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084RQR5C3{{</world>}}

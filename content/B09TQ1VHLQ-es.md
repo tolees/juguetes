@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DESAFÍA A LOS HÉROES El Superbot del Professor K está preparado para atacar Kaboom City Dispara con su arma cargada de energía Kazoom y, si la cosa no pinta bien, despliega las alas para que huya a su laboratorio. Podrá ganarle la batalla al Superbot de Enigma? Tú decides
 - DIVERSIÓN ASEGURADA Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español
-- FIGURA EXCLUSIVA Contiene 1 Kazoom Kid y 1 SuperThing villano exclusivos
+- DESAFÍA A LOS HÉROES El Superbot del Professor K está preparado para atacar Kaboom City Dispara con su arma cargada de energía Kazoom y, si la cosa no pinta bien, despliega las alas para que huya a su laboratorio. Podrá ganarle la batalla al Superbot de Enigma? Tú decides
 - GRAN JUGABILIDAD Robot de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños. La aventura está garantizada
+- FIGURA EXCLUSIVA Contiene 1 Kazoom Kid y 1 SuperThing villano exclusivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TQ1VHLQ{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Marca: Clementoni
-- Siéntete como el emperador Sha Jahan
 - Reconstruye el conocido monumento Taj Mahal
 - 1500 piezas para poder crear láminas de colores vibrantes y diseños increíbles
+- Siéntete como el emperador Sha Jahan
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TC5CWR9{{</world>}}

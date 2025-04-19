@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- STAR WARS BL ARCHIVE WOBURN
 - Explore nuestra gama de productos
 - Muy conveniente
+- STAR WARS BL ARCHIVE WOBURN
 - Nos fijamos estándares de calidad extremadamente altos y un gran espíritu de iniciativa en la investigación y el desarrollo de materias primas y proveedores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

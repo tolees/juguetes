@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Motore di combattimento su misura con mosse uniche per ogni personaggio
+- combattere con spade, nunchakus e album apre personale
+- molti nemici diversi ciascuno con le proprie mosse e armi.intense battaglie di boss.Parry eventuali attacchi, proiettili e trappole.I punteggi più alti vengono caricati in modo da poter competere, a livello globale con altri giocatori.aree segrete e misteri da scoprire.modalità cooperativa, con capacità di guarire a vicenda
 - Modalità Arcade per coloro che vogliono saltare direttamente nellazione
 - storia coinvolgente raccontata con pixel-art cut-scene
-- molti nemici diversi ciascuno con le proprie mosse e armi.intense battaglie di boss.Parry eventuali attacchi, proiettili e trappole.I punteggi più alti vengono caricati in modo da poter competere, a livello globale con altri giocatori.aree segrete e misteri da scoprire.modalità cooperativa, con capacità di guarire a vicenda
-- combattere con spade, nunchakus e album apre personale
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MBTYTVN{{</world>}}

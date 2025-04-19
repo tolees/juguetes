@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este set de construcción LEGO Star Wars también incluye una lanzadera Fantasma II, con cabina abatible y compartimento de almacenamiento; los niños pueden conectar las dos maquetas para crear una nave estelar aún más grande
+- La maqueta de la nave Espíritu cuenta con 2 cañones automáticos, una cabina doble para las minifiguras LEGO con la parte delantera desmontable, 2 compuertas que se abren y una torreta desmontable con espacio para una minifigura
 - Con 1394 piezas, este inmersivo set de LEGO es un estupendo regalo de cumpleaños con temática de Star Wars, o un juguete ideal para niños, niñas y para todos los fans de Star Wars: Ahsoka mayores de 10 años. Exclusivo en Amazon.
 - 0
-- La maqueta de la nave Espíritu cuenta con 2 cañones automáticos, una cabina doble para las minifiguras LEGO con la parte delantera desmontable, 2 compuertas que se abren y una torreta desmontable con espacio para una minifigura
 - Los niños y los fans pueden recrear historias épicas de Star Wars: Ahsoka con el set de vehículos LEGO Star Wars Espíritu y Fantasma II, que incluye 2 naves estelares para construir y 5 personajes LEGO Star Wars
 - Incluye 4 minifiguras LEGO Star Wars: la general Hera Syndulla y la teniente Beyta, cada una con una pistola bláster, Jacen Syndulla y el primer oficial Hawkins, además de un droide LEGO Star Wars Chopper (C1-10P)
 - 0
+- Este set de construcción LEGO Star Wars también incluye una lanzadera Fantasma II, con cabina abatible y compartimento de almacenamiento; los niños pueden conectar las dos maquetas para crear una nave estelar aún más grande
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV7FZH9C{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Redescubre el universo de TIME Stories con TIME Stories Revolution, un ciclo nuevo de misiones!
-- En esta aventura y en esta realidad alternativa nada debe malinterpretarse, salvo lo que se dé con amabilidad y respeto
-- Juego completo. Una noche de verano es parte del ciclo TIME Stories Revolution, cuyas misiones pueden jugarse en cualquier orden.
 - Descubre un mundo extraño lleno de criaturas maravillosas, ilusiones y lugares astutamente distorsionados.
+- Juego completo. Una noche de verano es parte del ciclo TIME Stories Revolution, cuyas misiones pueden jugarse en cualquier orden.
 - Las reglas del juego han cambiado pero el compromiso de la Agencia por preservar la humanidad y el continuo espaciotemporal permanece intacto.
+- En esta aventura y en esta realidad alternativa nada debe malinterpretarse, salvo lo que se dé con amabilidad y respeto
+- ¡Redescubre el universo de TIME Stories con TIME Stories Revolution, un ciclo nuevo de misiones!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VVZYP85{{</world>}}

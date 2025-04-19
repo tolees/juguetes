@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Banda Sonora oficial en disco
 - Libro de arte de tapa blanda
+- Banda Sonora oficial en disco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09FYT4SFJ{{</world>}}

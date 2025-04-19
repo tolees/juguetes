@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 21 velocidades indexadas – Deslizador SHIMANO TY21 (AR) – Manijas para gastronomía SHIMANO ST-EF
+- FRENOS DISCOS - Llantas de aluminio perfiles reforzados - Timbre e iluminación con pilas incluidas.
 - Bicicleta de montaña de 27,5 pulgadas con marco de aluminio - Horquilla telescópica con cabeza de aluminio.
 - Rueda libre SHIMANO TZ21 – 7 velocidades – POTENCIA HEADSET AJUSTABLE
-- FRENOS DISCOS - Llantas de aluminio perfiles reforzados - Timbre e iluminación con pilas incluidas.
 - La bicicleta viene al 98% ensamblada; por favor, mira la "Guía % de Ensamblaje " a continuación para completar el ensamblaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

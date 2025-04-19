@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de jugadores: 2, 2-4
-- 7 escenarios diferentes con niveles configurables de dificultad
-- Un juego cooperativo de supervivencia ambientado en la edad de piedra
 - El diseño gráfico de paleo recrea la herencia pictórica de las cavernas con una imagen moderna y actualizada
+- Un juego cooperativo de supervivencia ambientado en la edad de piedra
+- 7 escenarios diferentes con niveles configurables de dificultad
+- Número de jugadores: 2, 2-4
 - Cada turno deberás gestionar diferentes desafíos a través de una pequeña gestión de recursos según las habilidades de los miembros de tu tribu
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

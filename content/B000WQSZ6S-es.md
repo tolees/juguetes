@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Divertido y moderno
 - Juego de viaje
-- Modelo compacto
+- Divertido y moderno
 - Marca: Goliath
+- Modelo compacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000WQSZ6S{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- MEDIDAS TOTALES: 60x30x76 cm (LxANxAL). Medidas de la cama: Ø34x7 cm (DxAL). Medidas de la percha en forma de U: 45x25x12,5 cm (LxANxAL). Se requiere montaje. Apto para gatos de menos de 4,5 kg
+- TELA DE LINO Y FELPA: Cubierta con una tela de felpa suave y cómoda, lo que la convierte en el área de descanso y juego perfecta para tu gatito. La tela de lino hará que tu gato se sienta fresco incluso cuando haga calor
 - TODO EN UNO: Centro de actividades para gatos de tres niveles con postes rascadores, percha en forma de U, escalera con tapete de lino sintético, cama para gatos y dos plumas colgantes a modo de juguete. Un espacio acogedor para que tu amigo peludo juegue, haga ejercicio y se relaje
 - PROTEGE TUS MUEBLES: Con postes recubiertos con cuerda de sisal, este centro de actividades ofrece un lugar ideal para que tus gatos puedan afilar sus garras y satisfacer su instinto de rascado, evitando que dañen alfombras, muebles, cortinas y más
 - RESISTENTE Y SEGURO: Hecho de tablero aglomerado de madera, cuenta con una estructura con una amplia base muy estable. Este rascador ofrece un espacio pet-friendly para que tus gatos tengan un espacio que cubra sus necesidades
-- TELA DE LINO Y FELPA: Cubierta con una tela de felpa suave y cómoda, lo que la convierte en el área de descanso y juego perfecta para tu gatito. La tela de lino hará que tu gato se sienta fresco incluso cuando haga calor
-- MEDIDAS TOTALES: 60x30x76 cm (LxANxAL). Medidas de la cama: Ø34x7 cm (DxAL). Medidas de la percha en forma de U: 45x25x12,5 cm (LxANxAL). Se requiere montaje. Apto para gatos de menos de 4,5 kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NNFSYKW{{</world>}}

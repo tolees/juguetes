@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 50 personajes jugables de todos los arcos JoJo
 - Cómo ha evolucionado el juego con respecto al original All Star Battle
 - Impresionantes gráficos al estilo de Hirohiko Araki
-- 50 personajes jugables de todos los arcos JoJo
 - Una gran variedad de modos de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Muñecos cabezones modelo FUNKO POP ANIMACION SCOOBY DOO SHAGGY 47538
-- Muñecos cabezones- Seguir siempre las recomendaciones de uso del fabricante sobre edad y/o peso
-- FUNKO POP: Los productos de esta marca están fabricados con materiales de la mejor calidad
 - FUNKO POP ANIMACION SCOOBY DOO SHAGGY 47538 de la marca FUNKO POP
+- Muñecos cabezones- Seguir siempre las recomendaciones de uso del fabricante sobre edad y/o peso
+- Muñecos cabezones modelo FUNKO POP ANIMACION SCOOBY DOO SHAGGY 47538
+- FUNKO POP: Los productos de esta marca están fabricados con materiales de la mejor calidad
 - Para un uso adecuado y seguro del producto, leer siempre las advertencias de seguridad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

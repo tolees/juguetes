@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Freno magnético
-- Marcador electrónico con indicaciones de: Tiempo, Velocidad, Distancia, RPM, ODO y Calorías
-- Volante de inercia equivalente a 18 kg.
 - Manillar regulable verticalmente con indicador de posición en el tubo
+- Volante de inercia equivalente a 18 kg.
+- Marcador electrónico con indicaciones de: Tiempo, Velocidad, Distancia, RPM, ODO y Calorías
+- Freno magnético
 - Transmisión por correa (PK5).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

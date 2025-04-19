@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - De 1 a 4 jugadores. A partir de 8 años.
 - ¡Construye tu propia granja!
-- Un juego accesible para cualquiera gracias a sus reglas sencillas y su ambientación.
 - El exitoso juego de agricultura, ¡ahora para toda la familia!
 - ¡Pon a tus granjeros a trabajar!
+- Un juego accesible para cualquiera gracias a sus reglas sencillas y su ambientación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F35WWDL{{</world>}}

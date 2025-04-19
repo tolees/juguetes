@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El puzzle tiene 50 piezas y una vez montado mide aproximadamente 48 x 28 cm
-- Detectives puzzles es la nueva colección de puzzles de Educa destinada a niñas y niños de entre 4 y 6 años
-- Incluye una lámina con los 30 objetos a encontrar en esta divertida imagen de una ciudad
 - Los puzzles son una gran herramienta para el desarrollo de los niños. Mejoran la memoria visual, desarrollan la capacidad de concentración, estimulan la habilidad espacial y matemática y desarrollan la motricidad fina.
 - Los Detectives puzzles son diversión asegurada. Primero, monta el puzzle, luego encuentra los 30 objetos escondidos
+- Detectives puzzles es la nueva colección de puzzles de Educa destinada a niñas y niños de entre 4 y 6 años
+- Incluye una lámina con los 30 objetos a encontrar en esta divertida imagen de una ciudad
+- El puzzle tiene 50 piezas y una vez montado mide aproximadamente 48 x 28 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08SC7DZZZ{{</world>}}

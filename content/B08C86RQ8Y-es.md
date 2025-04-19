@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- - Modelo compatible con la habitación de Marinette, P50660.
 - Se puede peinar el cabello y desvestir.
-- La muñeca de Marinette mide 26 cm y cuenta con numerosas articulaciones, puede manejarse fácilmente para recrear tus momentos preferidos de la serie.
-- Accesorios incluidos: 1 bolso + 1 mini Tikki.
 - Prepárate para defender París con tu muñeca de Marinette, ¡la heroína de Miraculous de identidad secreta! Con su kwami Tikki, siempre está lista para convertirse en Ladybug.
+- - Modelo compatible con la habitación de Marinette, P50660.
+- Accesorios incluidos: 1 bolso + 1 mini Tikki.
+- La muñeca de Marinette mide 26 cm y cuenta con numerosas articulaciones, puede manejarse fácilmente para recrear tus momentos preferidos de la serie.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08C86RQ8Y{{</world>}}

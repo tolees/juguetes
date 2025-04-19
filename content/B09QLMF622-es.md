@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vive un sinfín de aventuras por Radiador Springs con Rayo McQueen, Mate y Guido gracias a este conjunto de juego, un regalo perfecto para niños, niñas y fans de Cars a partir de 4 años.
+- Cambia los neumáticos en la tienda de Luigi con la ayuda de Guido, y pasa por el taller de Ramón para renovar la pintura antes del viaje.
 - Los niños y niñas pueden configurar las pistas de numerosas maneras para personalizar la ciudad.
 - El conjunto de juego Tour por Radiador Springs de Cars On The Road, de Disney Pixar, cuenta con los lugares más emblemáticos de las películas y la serie, con luces y con múltiples formas de crear nuevas aventuras.
-- Cambia los neumáticos en la tienda de Luigi con la ayuda de Guido, y pasa por el taller de Ramón para renovar la pintura antes del viaje.
+- Vive un sinfín de aventuras por Radiador Springs con Rayo McQueen, Mate y Guido gracias a este conjunto de juego, un regalo perfecto para niños, niñas y fans de Cars a partir de 4 años.
 - Rayo McQueen y Mate saldrán disparados cuando golpees el lanzador que hay sobre la cafetería V8 de Flo. Pero espera, primero tienes que pulsar el botón para iniciar la cuenta atrás luminosa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

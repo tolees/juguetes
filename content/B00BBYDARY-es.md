@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego consiste en quedarse sin cartas, para ello iremos echando una carta con un número inmediatamente superior o inferior a la que hay en la mesa
 - Ganador del prestigioso “Deutscher Spiele preis Best Children’s Game” 2012
-- Edad mínima recomendada: 84 meses
-- Ganador del prestigioso “Deutscher Spiele preis Best Children’s Game” 2012
-- Para ganar has de hacer trampas
-- Duración aproximada de la partida 15-25 min
-- Para ganar has de hacer trampas
 - Temática: juegos de cartas
+- Ganador del prestigioso “Deutscher Spiele preis Best Children’s Game” 2012
+- Para ganar has de hacer trampas
 - Duración aproximada de la partida 15-25 min
+- El juego consiste en quedarse sin cartas, para ello iremos echando una carta con un número inmediatamente superior o inferior a la que hay en la mesa
+- Duración aproximada de la partida 15-25 min
+- Edad mínima recomendada: 84 meses
+- Para ganar has de hacer trampas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BBYDARY{{</world>}}

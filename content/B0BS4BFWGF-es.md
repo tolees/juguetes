@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- JUEGO DE MISTERIO 2 EN 1: ¡Es el juego de misterio que crece contigo! El juego Cluedo Junior ofrece el doble de diversión. Cuenta con un tablero de doble cara, 2 juegos de misterio en el colegio y 2 niveles de juego
-- JUEGO CLUEDO PARA LOS MÁS PEQUEÑOS: Introduce a los más pequeños al emblemático juego de mesa de misterio. Esta versión de Cluedo se juega de la manera tradicional y cuenta con los mismos personajes que el clásico Cluedo. Sin embargo, los misterios están ambientados en un colegio.
-- JUGAD EN EQUIPO: En el nivel 1, Lío en el patio de recreo, un personaje ha metido por error un objeto en su mochila. Los jugadores juegan todos juntos para buscar pistas y deducir qué objeto ha desaparecido y quién lo ha cogido
 - PRACTICA LAS HABILIDADES DE DEDUCCIÓN: Para jugar al Nivel 2: El misterio del laboratorio hay que darle la vuelta al tablero. ¡El volcán del laboratorio está en erupción! Los niños y niñas pueden practicar la formulación de conclusiones en una carrera por resolver el quién, el qué y el dónde
+- JUEGO CLUEDO PARA LOS MÁS PEQUEÑOS: Introduce a los más pequeños al emblemático juego de mesa de misterio. Esta versión de Cluedo se juega de la manera tradicional y cuenta con los mismos personajes que el clásico Cluedo. Sin embargo, los misterios están ambientados en un colegio.
+- JUEGO DE MISTERIO 2 EN 1: ¡Es el juego de misterio que crece contigo! El juego Cluedo Junior ofrece el doble de diversión. Cuenta con un tablero de doble cara, 2 juegos de misterio en el colegio y 2 niveles de juego
 - 2 NIVELES DE JUEGO: Cuenta con 2 niveles de juego para elegir el más adecuado para la familia. Un lado del tablero tiene el nivel 1 para mayores de 4 años. El otro lado del tablero tiene el nivel 2, con mayor nivel de dificultad y recomendado para mayores de 5 años
+- JUGAD EN EQUIPO: En el nivel 1, Lío en el patio de recreo, un personaje ha metido por error un objeto en su mochila. Los jugadores juegan todos juntos para buscar pistas y deducir qué objeto ha desaparecido y quién lo ha cogido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS4BFWGF{{</world>}}

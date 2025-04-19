@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de jugadores: de 2 a 6
-- Juego de mesa familiar que consiste en ganar puntos prediciendo el número de manos que se van a ganar en cada ronda; Hay que pensar bien la predicción, ya que, de ser incorrecta, se anotaran puntos de penalización
-- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
 - Contenido: 70 cartas y instrucciones de juego
 - Juego de estrategia de cartas adecuado para pasar una tarde con amigos y familias con niños
+- Juego de mesa familiar que consiste en ganar puntos prediciendo el número de manos que se van a ganar en cada ronda; Hay que pensar bien la predicción, ya que, de ser incorrecta, se anotaran puntos de penalización
+- Número de jugadores: de 2 a 6
+- Habilidades que desarrolla: agilidad mental, pensamiento estratégico y juego en grupo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLVCFLD{{</world>}}

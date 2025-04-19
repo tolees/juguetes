@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Steelbook
-- 3 litografías
 - Incluye:
-- Libro de arte
+- Steelbook
 - Una banda sonora digital
+- 3 litografías
+- Libro de arte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BF5YV1CJ{{</world>}}

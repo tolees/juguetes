@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Niñas y niños disfrutarán de increíbles aventuras en el mar con este set de construcción que cuenta con un barco de juguete con una vela flexible, una línea de meta, una isla y 3 mini muñecas LEGO Friends
-- Incluye instrucciones de construcción impresas e instrucciones digitales interactivas disponibles en la app Instrucciones de Montaje LEGO, en la que los peques pueden rotar, visualizar y ver con detalle el modelo
 - Incluye 3 mini muñecas LEGO Friends de Stephanie, Maxine y Elijah vestidos de navegantes, además de accesorios como un radar, un walkie-talkie, prismáticos, un dron de juguete, un controlador y 3 chalecos salvavidas
 - Este barco de juguete de LEGO Friends es un divertido regalo de Navidad y Reyes Magos para niñas y niños de 7 años en adelante amantes de los juegos de acción, la navegación y el mar
+- Niñas y niños disfrutarán de increíbles aventuras en el mar con este set de construcción que cuenta con un barco de juguete con una vela flexible, una línea de meta, una isla y 3 mini muñecas LEGO Friends
+- Incluye instrucciones de construcción impresas e instrucciones digitales interactivas disponibles en la app Instrucciones de Montaje LEGO, en la que los peques pueden rotar, visualizar y ver con detalle el modelo
 - Los peques podrán construir el velero deportivo Hope e imaginar que lo tripulan bajo la supervisión del experto capitán Maxine, batirán el récord mundial de navegación alrededor del mundo con este juego creativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

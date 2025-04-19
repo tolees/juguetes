@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Robinson ha naufragado en tu isla y tendrás que ayudarle a luchar contra multitud de peligros. al principio, robinson no es muy hábil, pero con cada enfrentamiento que supera mejora sus habilidades.
 - Viernes es una aventura en solitario: sólo tú puedes ganar la partida.
 - Para 1 jugador a partir de 10 años de edad
-- Tendrás que conseguir las mejores cartas para que robinson pueda vencer cuando finalmente se enfrente a los temibles piratas.
 - En este juego, robinson está representado por un mazo de cartas con diferentes comportamientos.
-- Robinson ha naufragado en tu isla y tendrás que ayudarle a luchar contra multitud de peligros. al principio, robinson no es muy hábil, pero con cada enfrentamiento que supera mejora sus habilidades.
+- Tendrás que conseguir las mejores cartas para que robinson pueda vencer cuando finalmente se enfrente a los temibles piratas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00LCIC8DQ{{</world>}}

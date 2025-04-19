@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Eurogame de Devir; ilustrado por Edu Valls (Bitoku, Tiny Turbo Cars..) y con modo soliltario a cargo de David Turczi
+- Pasen y vean el mayor espectáculo del mundo en una caja tan pequeña que no podrá creerlo
 - Alta calidad
 - Juego de estrategia creado por los reputados autores Fabio Lopiano (Merv, Autobahn, Calimala) y Remo Conzadori
-- Pasen y vean el mayor espectáculo del mundo en una caja tan pequeña que no podrá creerlo
-- Eurogame de Devir; ilustrado por Edu Valls (Bitoku, Tiny Turbo Cars..) y con modo soliltario a cargo de David Turczi
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBKYZ52Y{{</world>}}

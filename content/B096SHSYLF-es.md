@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De 2 a 4 jugadores
-- 4 Juegos en 1
-- A partir de 5 años.
 - Juega al Snap, a las Familias, al juego de Parejas o al juego de Acción con tus personajes favoritos de Harry Potter. Modelo en español. Incluye además instrucciones en múltiples idiomas.
 - Medidas de las cartas: 63x100 mm.
+- A partir de 5 años.
+- 4 Juegos en 1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096SHSYLF{{</world>}}

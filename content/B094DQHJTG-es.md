@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es un juego solitario
-- El juego contiene diferentes escenarios de complejidad ascendente
 - Tiempo de juego: 20-40 minutos
 - Edad recomendada: 12
+- El juego contiene diferentes escenarios de complejidad ascendente
+- Es un juego solitario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094DQHJTG{{</world>}}

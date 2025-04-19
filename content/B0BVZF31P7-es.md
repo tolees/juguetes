@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piloto de clase mundial
-- El doble de potencia de fuego
 - Raiden remezclado
+- El doble de potencia de fuego
+- Piloto de clase mundial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVZF31P7{{</world>}}

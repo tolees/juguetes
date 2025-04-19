@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Duración media:30 minutos.
-- Juego de cartas.
-- Número de jugadores:3 – 6.
 - Edad recomendada: a partir de 8 años.
-- Selección simultánea de acciones.
 - Idioma: italiano (idioma español no garantizado).
+- Duración media:30 minutos.
+- Selección simultánea de acciones.
+- Número de jugadores:3 – 6.
 - Votación.
+- Juego de cartas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00PSFMXT8{{</world>}}

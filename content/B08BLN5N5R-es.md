@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto distribuido oficialmente en España por BIZAK.
-- Estudio POP de uñas presenta su versión
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Decora tus uñas de la forma fácil, sencilla y divertida
-- Con el esmalte de uñas, solo tendrás que aplicarlo en tus uñas, carga la purpurina en el tubo agitador, mete tus dedos y agita
-- Ahora con esmalte base
 - Set que te permite personalizar tus uñas de forma rápida, sencilla y divertida
+- Con el esmalte de uñas, solo tendrás que aplicarlo en tus uñas, carga la purpurina en el tubo agitador, mete tus dedos y agita
+- Estudio POP de uñas presenta su versión
+- Ahora con esmalte base
+- Producto distribuido oficialmente en España por BIZAK.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BLN5N5R{{</world>}}

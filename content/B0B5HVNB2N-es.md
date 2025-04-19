@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lanza los coches por los loopings del tirabuzón antes de dar el salto hacia la diana o ajusta la configuración para lanzar los coches directamente a la diana. Experimenta con la fuerza para dominar el desafío.
-- Este conjunto es un gran regalo para niños a partir de 6 años y viene con 1 vehículo Hot Wheels para entrar en acción.
-- Con la pista de acción Corkscrew Twist Kit de Hot Wheels, los coches vuelan a través de los aros. Los niños lanzan sus Hot Wheels con 2 posibles configuraciones para saltar a través de un aro y dar en una diana.
 - Cada pieza de pista es compatible con otras pistas de Hot Wheels para que los niños puedan construir y reconstruir un sistema de pistas diseñado por ellos mismos. (Los circuitos adicionales se venden por separado).
+- Lanza los coches por los loopings del tirabuzón antes de dar el salto hacia la diana o ajusta la configuración para lanzar los coches directamente a la diana. Experimenta con la fuerza para dominar el desafío.
+- Con la pista de acción Corkscrew Twist Kit de Hot Wheels, los coches vuelan a través de los aros. Los niños lanzan sus Hot Wheels con 2 posibles configuraciones para saltar a través de un aro y dar en una diana.
+- Este conjunto es un gran regalo para niños a partir de 6 años y viene con 1 vehículo Hot Wheels para entrar en acción.
 - Pon el lanzador, la diana y las piezas de pista periféricas en los puntos específicos del conjunto de juego para un almacenamiento fácil y cómodo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

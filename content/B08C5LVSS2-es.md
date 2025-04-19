@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LIBRO MÁGICO : utiliza el libro para resolver los acertijos
-- LINTERNA MÁGICA Sigue las instrucciones del mayordomo proyectado por la linterna y vence al monstruo final
 - HASTA 5 MONSTRUOS DISTINTOS a vencer para escapar de la mansión
+- LIBRO MÁGICO : utiliza el libro para resolver los acertijos
 - ESCAPE ROOM : Escapa de la casa encantada! Juego de miedo y misterio para niños
+- LINTERNA MÁGICA Sigue las instrucciones del mayordomo proyectado por la linterna y vence al monstruo final
 - JUEGO DE MESA muy divertido y entretenido para niños mayores de 5 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

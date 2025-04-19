@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AUMENTA TU COLECCIÓN DE MINIATURAS: Esta expansión del juego de mesa viene con 28 miniaturas detalladas y modernizadas: Guerreros Ogros, un Comandante Ogro, un Señor de los Ogros, Héroes Druidas y mucho más
-- BATALLA ENTRE JUGADORES: Compite contra otros jugadores para demostrar tu valía en el Torneo del Fin del Mundo. ¡El equipo que siga en pie será el ganador! Incluye una hoja de fichas de la arena de batalla
-- INCLUYE 10 EMOCIONANTES MISIONES: Esta expansión incluye 10 misiones, 3 de ellas completamente nuevas, ambientadas en una recóndita tierra de monstruos, trampas y hechizos perturbadores. También incluye fichas a todo color y 29 cartas de juego.
 - PACK DE EXPANSIÓN HEROQUEST: ¡Este pack de misión HeroQuest La Horda del Ogro es la esperada versión del original con nuevas características, como 7 misiones clásicas modernizadas, 3 misiones originales y juego estilo torneo! (Requiere el sistema de juego HeroQuest para jugar. Se venden por separado.)
+- INCLUYE 10 EMOCIONANTES MISIONES: Esta expansión incluye 10 misiones, 3 de ellas completamente nuevas, ambientadas en una recóndita tierra de monstruos, trampas y hechizos perturbadores. También incluye fichas a todo color y 29 cartas de juego.
+- BATALLA ENTRE JUGADORES: Compite contra otros jugadores para demostrar tu valía en el Torneo del Fin del Mundo. ¡El equipo que siga en pie será el ganador! Incluye una hoja de fichas de la arena de batalla
 - DETÉN A LA HORDA DEL OGRO: Viaja al corazón de la sociedad secreta de los ogros para evitar que la malvada influencia de Zargon los corrompa. Las cartas y el Libro de Misiones de esta expansión fantástica cuentan con un diseño que te sumergirá en la arriesgada aventura
+- AUMENTA TU COLECCIÓN DE MINIATURAS: Esta expansión del juego de mesa viene con 28 miniaturas detalladas y modernizadas: Guerreros Ogros, un Comandante Ogro, un Señor de los Ogros, Héroes Druidas y mucho más
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWLS6CG9{{</world>}}

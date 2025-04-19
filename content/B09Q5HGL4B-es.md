@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene un bonito bañador y con su flotador puedes pasarte horas jugando
-- Para niños y niñas a partir de 3 años de edad
 - A Nenuco ¡Hora de nadar! Le encanta estar en el agua
+- Para niños y niñas a partir de 3 años de edad
+- Tiene un bonito bañador y con su flotador puedes pasarte horas jugando
 - Perfecto para jugar en la en la piscina e incluso en la bañera.
 - Tiene un bonito diseño de jirafa y es electrónico: activa el motor y el flotador empezará a moverse solo
 

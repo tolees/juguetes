@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El cono de la vergüenza, de tamaño humano, es para que sea llevado por el jugador más despistado de la partida.
-- Puedes elegir con qué cartas jugar y añadirlas al mazo de Exploding Kittens, jugando sólo con tus favoritas.
 - 20 cartas nuevas ilustradas por the oatmeal, una carta para ampliar la baraja de 5 a 6 jugadores y un cono de la vergüenza de tamaño humano como indicador de turno.
+- El cono de la vergüenza, de tamaño humano, es para que sea llevado por el jugador más despistado de la partida.
 - Si olvidas de quién es el turno, te tocará llevarlo como recordatorio. ¡Espabila o tendrás que ponértelo!
+- Puedes elegir con qué cartas jugar y añadirlas al mazo de Exploding Kittens, jugando sólo con tus favoritas.
 - Imploding Kittens es la primera expansión de Exploding Kittens y añade 20 cartas nuevas, la posibilidad de sumar un sexto jugador y un cono de la vergüenza.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

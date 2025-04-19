@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Es compatible con Nintendo Wii U, Nintendo 3DS y Nintendo Switch
 - Tiene diferentes efectos en función del juego
 - Tipo de producto: figura Amiibo
-- Es compatible con Nintendo Wii U, Nintendo 3DS y Nintendo Switch
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075MND5D2{{</world>}}

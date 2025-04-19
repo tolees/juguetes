@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A partir de 3 años
 - Tamaño del paquete: 46 x 162 x 102 cm
-- Evi en lindo pijama
 - Con peluche y accesorios para cepillos de dientes
+- A partir de 3 años
+- Evi en lindo pijama
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XDBWH4D{{</world>}}

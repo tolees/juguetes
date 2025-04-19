@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Música moderna
+- Juega a tu manera
 - Vibraciones de la vieja escuela
 - Un conjunto de nuevos contenidos
-- Juega a tu manera
+- Música moderna
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BC1M89C8{{</world>}}

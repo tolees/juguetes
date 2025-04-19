@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🦄 Bañado con rodio
 - 💎Joyas idóneas como regalo para todo tipo de celebraciones, o para usarlas uno mismogalos originales de nuestro catálogo. Ponemos gran esfuerzo en crear diseños especiales para ti.
-- 👔 Esmaltado
+- 🦄 Bañado con rodio
 - 🥇Material:Acero Inoxidable
+- 👔 Esmaltado
 - 👌 Par de gemelos de camisa con forma de mando de Playstation
 
 [🛒 Comprar!!!]({{< param buyurl >}})

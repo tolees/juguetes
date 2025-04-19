@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diplomacy permite la negociación entre los jugadores, negociaciones que luego no tienen por que cumplirse.
-- De 2 a 7 jugadores. A partir de 12 años.
 - Las unidades militares tienen todas la misma fuerza o poder de ataque, por lo que las ayudas (propias o de otros jugadores) se hacen imprescindibles.
 - El juego se desarrolla en la Europa de principios de siglo XX
+- De 2 a 7 jugadores. A partir de 12 años.
 - Diplomacy es el juego de mesa de estrategia militar por antonomasia.
+- Diplomacy permite la negociación entre los jugadores, negociaciones que luego no tienen por que cumplirse.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RKNJXSX{{</world>}}

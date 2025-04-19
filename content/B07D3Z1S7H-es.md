@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye tarjetas para niños y tarjetas para adultos
 - Trivial pursuit familia - hasbro gaming (hasbro e1921105)
+- Incluye tarjetas para niños y tarjetas para adultos
 - Incluye el desafío showdown que anima aún más el juego
 - Este juego está lleno de risas y conocimiento
 - Incluye 2.400 preguntas de conocimiento general

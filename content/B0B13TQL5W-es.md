@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tres pesadillas distintas para que haya partidas divertidas
 - Pueden participar entre uno y cuatro jugadores, a partir de los 10 años de edad
 - Juego de mesa familiar con combinaciones diferentes en cada partida
+- Tres pesadillas distintas para que haya partidas divertidas
 - Fácil de aprender y sencillo de jugar, pero con decisiones tensas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

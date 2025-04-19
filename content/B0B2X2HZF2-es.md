@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto distribuido oficialmente en España por BIZAK.
-- Tiene 3 cartuchos de 16 metros de cinta a doble cara: ¡6 colores para brillar!
 - ¡Diseña a tu estilo y da forma a tus extensiones! Fácil de quitar y no mancha
 - Luce un pelo glow en pocos pasos, cada estilo es único. ¿Cuál es el tuyo?
+- Tiene 3 cartuchos de 16 metros de cinta a doble cara: ¡6 colores para brillar!
 - Servicio atención al cliente disponible todo el año
 
 [🛒 Visítala!!!]({{< param buyurl >}})

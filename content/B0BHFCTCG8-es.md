@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este muñeco articulado viene en un embalaje coleccionable de la película de Barbie. ¡Echa un vistazo a la colección entera para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
-- Barbie rinde homenaje a la película de Barbie con este muñeco Ken coleccionable. Este muñeco, que derrocha encanto y estilo, encarna al personaje al más puro estilo vaquero con su moderno conjunto blanco y negro.
-- El pañuelo rosa que lleva atado al cuello aporta color a su conjunto que causa sensación, además de hacer un guiño al estilo característico de Barbie.
 - Un sombrero de vaquero blanco, unas botas blancas y un cinturón negro con una hebilla plateada grabada en relieve ponen el broche final al conjunto de este muñeco Ken inspirado en la película.
+- Este muñeco articulado viene en un embalaje coleccionable de la película de Barbie. ¡Echa un vistazo a la colección entera para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
+- El pañuelo rosa que lleva atado al cuello aporta color a su conjunto que causa sensación, además de hacer un guiño al estilo característico de Barbie.
+- Barbie rinde homenaje a la película de Barbie con este muñeco Ken coleccionable. Este muñeco, que derrocha encanto y estilo, encarna al personaje al más puro estilo vaquero con su moderno conjunto blanco y negro.
 - Su camiseta de aire retro tiene un sorprendente parecido con la que lleva el personaje de Ken en la película. Tiene bordados florales y flecos blancos llamativos en las mangas y el canesú.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

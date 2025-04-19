@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AHSOKA TANO: Veterana de la Guerra de los Clones devenida en Jedi errante, Ahsoka Tano forja su propio destino en la galaxia, rectificando injusticias en el camino
-- ACCESORIOS INSPIRADOS EN EL PERSONAJE DE STAR WARS: THE MANDALORIAN: Esta figura de acción de la colección Vintage de Star Wars viene con 2 accesorios inspirados en la serie que hacen de la figura una gran adición a toda colección Star Wars
 - FIGURA CLÁSICA DE STAR WARS: Esta figura Ahsoka Tano inspirada en el personaje de Star Wars: The Mandalorian, es un regalo fantástico para todo coleccionista o fan de Star Wars a partir de 4 años
 - DISEÑO Y ARTICULACIÓN PREMIUM: Con su cabeza, piernas y brazos articulados, la figura de Ahsoka de Star Wars es perfecta para ser exhibida en colecciones de figuras de acción y vehículos
+- ACCESORIOS INSPIRADOS EN EL PERSONAJE DE STAR WARS: THE MANDALORIAN: Esta figura de acción de la colección Vintage de Star Wars viene con 2 accesorios inspirados en la serie que hacen de la figura una gran adición a toda colección Star Wars
+- AHSOKA TANO: Veterana de la Guerra de los Clones devenida en Jedi errante, Ahsoka Tano forja su propio destino en la galaxia, rectificando injusticias en el camino
 - EMBALAJE DE APARIENCIA CLÁSICA: Las figuras y vehículos de Star Wars a escala de 9,5 cm, de la colección Vintage, vienen en embalajes con el diseño clásico de Kenner. (Se venden por separado. Sujeto a disponibilidad)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

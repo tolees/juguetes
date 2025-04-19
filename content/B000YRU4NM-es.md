@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Carcasa de aluminio de una pieza mecanizada por cnc
-- Cuerpo de aluminio de una pieza mecanizado por cnc
-- Con dos reflectores, en cumplimiento de las normas de tráfico
 - Eje de boro y rodamiento de bolas
+- Con dos reflectores, en cumplimiento de las normas de tráfico
+- Cuerpo de aluminio de una pieza mecanizado por cnc
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000YRU4NM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 2 a 4 jugadores; a partir de 8 años
-- En esta isla paradisíaca todos vienen a relajarse y a disfrutar de sus magníficas playas
 - Tratad de ubicarlas cerca del océano, a la sombra de los árboles o debajo de las sombrillas para encontrar los tesoros enterrados en la arena
+- De 2 a 4 jugadores; a partir de 8 años
 - Tendréis que colocar cuidadosamente las toallas de los veraneantes en los mejores sitios de la playa para puntuar
 - Los turistas y los vecinos necesitan que vosotros, los acomodadores de la playa, les ayudéis a encontrar el rincón optimo
+- En esta isla paradisíaca todos vienen a relajarse y a disfrutar de sus magníficas playas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF4WLWXY{{</world>}}

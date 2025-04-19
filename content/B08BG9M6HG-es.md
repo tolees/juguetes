@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Euro game de peso medio con mecánicas
 - Fácil de aprender pero con alta profundidad estratégica
 - Ilustraciones vistosas y componentes de calidad
+- Euro game de peso medio con mecánicas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BG9M6HG{{</world>}}

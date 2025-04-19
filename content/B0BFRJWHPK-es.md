@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada jugador construye su torre de piedra estratégicamente intercambiando alimentos por piedras concretas
-- El anciano mayor de tu aldea te ha encomendado la tarea de construir una torre de piedra
 - De 2 a 4 jugadores
-- A partir de 8 años de edad
 - Trabaja duro parar sobreponerte a la niebla y a tus rivales; y construye tu camino hasta la victoria
+- El anciano mayor de tu aldea te ha encomendado la tarea de construir una torre de piedra
+- A partir de 8 años de edad
+- Cada jugador construye su torre de piedra estratégicamente intercambiando alimentos por piedras concretas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFRJWHPK{{</world>}}

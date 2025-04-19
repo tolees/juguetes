@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NUEVO PILOTO: Esta expansión también incluye los componentes necesarios para jugar con un piloto adicional.
 - EL GRAN PREMIO DE MÉXICO: con sus constantes curvas y chicanes, exigirá lo mejor de cada piloto.
 - DOS NUEVOS CIRCUITOS: Esta expansión contiene dos nuevos circuitos que podrás añadir a tus partidas y campeonatos de Heat
-- ¡ESTO ES UNA EXPANSIÓN! Necesitas una copia básica de Heat para poder jugar.
+- NUEVO PILOTO: Esta expansión también incluye los componentes necesarios para jugar con un piloto adicional.
 - EL GRAN PREMIO DE JAPÓN: transcurre en medio de un chaparrón y hay charcos justo en cada curva, dificultando la frenada.
+- ¡ESTO ES UNA EXPANSIÓN! Necesitas una copia básica de Heat para poder jugar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CVQVJKY2{{</world>}}

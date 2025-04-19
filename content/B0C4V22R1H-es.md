@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puzzles infantiles recomendados a partir de 4 años.
 - Incluye 2 puzzles de cartón reciclado con 48 piezas🧩 cada uno. ¡Diversión por partida doble!. Medidas aproximadas una vez montado: 28 x 20 cm.
 - Kasandra es una ilustradora de cuentos infantiles a nivel internacional. Sus ilustraciones son de estilo fresco y actual, muy cautivador y con una gran dosis de story telling.
-- Puzzles infantiles recomendados a partir de 4 años.
 - Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños. Con las fantásticas ilustraciones de Kasandra. Actividad perfecta para desarrollar la motricidad fina, la creatividad y la memoria visual. Los puzzles estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los niños y adultos. 🌲 Fabricado con tintas vegetales, estas están basadas en materias renovables, de origen orgánico y con casi una nula liberación de COV’s (Compuestos Orgánicos Volátiles).
 - Kasandra es una ilustradora de cuentos infantiles a nivel internacional. Sus ilustraciones son de estilo fresco y actual, muy cautivador y con una gran dosis de story telling.
 

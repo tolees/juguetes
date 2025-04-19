@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Certificados CE, ROHS e ISO 9001:2008
-- Los ladrillos son aproximadamente un 60% más baratos que otros bloques de construcción
-- Sluban juego bloques de construccion M38-B0566 - Banya & LemyS Camper
 - Fabricado con materiales de alta calidad
+- Certificados CE, ROHS e ISO 9001:2008
+- Sluban juego bloques de construccion M38-B0566 - Banya & LemyS Camper
 - Contiene 324 piezas de ladrillos
+- Los ladrillos son aproximadamente un 60% más baratos que otros bloques de construcción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01H7JUM9K{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DIDÁCTICO: Enseña a contar, letras, vocabulario, solución de problemas, música y coordinación ojo-mano
+- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
+- VOCES ORIGINALES: Con la voz original de Peppa Pig
 - ACTIVIDADES INTERACTIVAS: Descubre seis actividades ineractivas para aprender vocabulario, las letras, los números, a cantar, música... ¡y juega con Peppa, George, Mamá Pig, Papá Pig y sus mejores amigos!
 - VERSIÓN ESPAÑOLA
-- BOTONES INTERACTIVOS: Pulsa los botones de números o los botones de personajes para añadir alegres sonidos a la música
 - TIPO DE PRODUCTO: Tablet con pantalla LCD y teclas de letras para aprender el alfabeto, vocabulario, los números, a contar y los instrumentos
-- DIDÁCTICO: Enseña a contar, letras, vocabulario, solución de problemas, música y coordinación ojo-mano
-- VOCES ORIGINALES: Con la voz original de Peppa Pig
-- VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
+- BOTONES INTERACTIVOS: Pulsa los botones de números o los botones de personajes para añadir alegres sonidos a la música
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WRQRK6Z{{</world>}}

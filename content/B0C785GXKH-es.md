@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batallas de ruptura
 - Bienvenido a la Academia Tatefushi
+- Batallas de ruptura
 - Un paraiso inolvidable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

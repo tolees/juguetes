@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo navideño para niños y niñas de 9 años o más: regala este juego de aventuras para construir a un niño, una niña o cualquier fan de Star Wars a partir de 9 años que disfrute con los juguetes de construcción y con los personajes de Star Wars
-- Parte de la colección LEGO Star Wars: Reconstruye la Galaxia: descubre los sets LEGO Star Wars Caza Estelar del Jedi Bob (75388) y Halcón Oscuro (75389), a la venta por separado
-- Juguete de construcción personalizable: quita los pasadores de bloqueo para separar las alas de los modelos construibles fusionados y conviértelos en un caza estelar TIE clásico y un Ala-X con tren de aterrizaje retráctil
-- Set Caza TIE y Ala-X Fusionados: crea las maquetas de los cazas estelares fusionados “Ala-TIE” y “caza X” que aparecen en el especial de Disney+ Reconstruye la Galaxia con este juguete infantil LEGO Star Wars de construcción
-- 4 minifiguras LEGO Star Wars y una figura LEGO de un droide: un piloto rebelde y una piloto de caza TIE (ambos con pistolas bláster), Yesi Scala (con un bastón Gaffi) y Sig Greebling, además de una figura LEGO del droide L3-G0
-- Cazas de juguete “Ala-TIE” y “caza X” para construir inspirados en Star Wars: cada caza estelar de juguete cuenta con cabina abatible para una minifigura LEGO y 2 cañones automáticos; las alas del Ala-X son ajustables
 - Divertidos sets LEGO Star Wars para todas las edades: los juguetes de construcción LEGO Star Wars ofrecen a los peques y los fans adultos la oportunidad de recrear icónicas escenas, inventar nuevas historias o exponer las maquetas construibles
+- Parte de la colección LEGO Star Wars: Reconstruye la Galaxia: descubre los sets LEGO Star Wars Caza Estelar del Jedi Bob (75388) y Halcón Oscuro (75389), a la venta por separado
+- 4 minifiguras LEGO Star Wars y una figura LEGO de un droide: un piloto rebelde y una piloto de caza TIE (ambos con pistolas bláster), Yesi Scala (con un bastón Gaffi) y Sig Greebling, además de una figura LEGO del droide L3-G0
+- Juguete de construcción personalizable: quita los pasadores de bloqueo para separar las alas de los modelos construibles fusionados y conviértelos en un caza estelar TIE clásico y un Ala-X con tren de aterrizaje retráctil
+- Regalo navideño para niños y niñas de 9 años o más: regala este juego de aventuras para construir a un niño, una niña o cualquier fan de Star Wars a partir de 9 años que disfrute con los juguetes de construcción y con los personajes de Star Wars
+- Cazas de juguete “Ala-TIE” y “caza X” para construir inspirados en Star Wars: cada caza estelar de juguete cuenta con cabina abatible para una minifigura LEGO y 2 cañones automáticos; las alas del Ala-X son ajustables
+- Set Caza TIE y Ala-X Fusionados: crea las maquetas de los cazas estelares fusionados “Ala-TIE” y “caza X” que aparecen en el especial de Disney+ Reconstruye la Galaxia con este juguete infantil LEGO Star Wars de construcción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWH2386T{{</world>}}

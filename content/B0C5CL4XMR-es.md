@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto distribuido oficialmente por Bizak. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Increíble huevo de gran tamaño que incluye 25 sorpresas en su interior al mismo tiempo que incorpora un tryme que brilla y ruge.
 - Lánzalos y descubre las diferentes sorpresas en su interior. Construye tu dinosaurio y mira como brilla en la oscuridad.
 - Las diferentes partes del dinosaurio estarán escondidas dentro de los locos compuestos… ya puedes construirlo e iniciar las aventuras.
+- Producto distribuido oficialmente por Bizak. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5CL4XMR{{</world>}}

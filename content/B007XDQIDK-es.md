@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Versión en cartas del juego de Catán
 - Es un juego independiente
+- Versión en cartas del juego de Catán
 - Duración aproximada de la partida 30 min
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modo Niños: diseñado para niños (a partir de 3 años), con un diseño de niveles, reglas y jugabilidad específicos... sin dejar por ello de ser un juego de acción y aventura
 - Un juego único de extinción de incendios en 2D con todos los devastadores contraataques, paredes explosivas y aspersores que podrías esperar
-- Suaves controles y jugabilidad
-- Ofrece un cierto ajuste de la dificultad al permitir a los jugadores ajustar algunas reglas a sus necesidades
 - Utiliza la manguera con cuidado para controlar las llamas y avanzar por las instalaciones
+- Ofrece un cierto ajuste de la dificultad al permitir a los jugadores ajustar algunas reglas a sus necesidades
+- Suaves controles y jugabilidad
+- Modo Niños: diseñado para niños (a partir de 3 años), con un diseño de niveles, reglas y jugabilidad específicos... sin dejar por ello de ser un juego de acción y aventura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPY8WQ4J{{</world>}}

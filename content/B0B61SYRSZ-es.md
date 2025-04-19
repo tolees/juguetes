@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuando el dinosaurio cae derribado, sus ojos cambian de enfadado a unas X.
-- La base de la pista incluye detalles temáticos de las comisarías de policía para inspirar aventuras creativas y se conecta a otros conjuntos para que los más pequeños puedan construir su Hot Wheels City. (Los conjuntos adicionales se venden por separado).
-- Incluye 1 coche de juguete Hot Wheels a escala 1:64, lo que lo convierte en un gran regalo para niños y niñas a partir de 4 años.
-- Corre a través de la boca del enorme T-Rex que está tratando de comerse Hot Wheels City. ¡Tienes el tiempo justo para derribar al dinosaurio y salvar la situación!
 - Los peques colocan el coche incluido Hot Wheels en la comisaría de policía, luego golpean el lanzador para enviarlo a través de un loop principal hasta la zona de derribo.
+- Incluye 1 coche de juguete Hot Wheels a escala 1:64, lo que lo convierte en un gran regalo para niños y niñas a partir de 4 años.
+- La base de la pista incluye detalles temáticos de las comisarías de policía para inspirar aventuras creativas y se conecta a otros conjuntos para que los más pequeños puedan construir su Hot Wheels City. (Los conjuntos adicionales se venden por separado).
+- Corre a través de la boca del enorme T-Rex que está tratando de comerse Hot Wheels City. ¡Tienes el tiempo justo para derribar al dinosaurio y salvar la situación!
+- Cuando el dinosaurio cae derribado, sus ojos cambian de enfadado a unas X.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B61SYRSZ{{</world>}}

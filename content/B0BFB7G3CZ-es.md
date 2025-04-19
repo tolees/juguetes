@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vuelve Dungeon Fighter con una segunda edición optimizada, en su décimo aniversario
+- Supera las diferentes mazmorras de forma cooperativa, mientras tiras los dados de formas distintas y desde diferentes posiciones
 - ¡Afila tus armas, empuña los dados y lánzate a la aventura!
 - Pueden participar entre uno y seis jugadores, a partir de los ocho años de edad
-- Supera las diferentes mazmorras de forma cooperativa, mientras tiras los dados de formas distintas y desde diferentes posiciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BFB7G3CZ{{</world>}}

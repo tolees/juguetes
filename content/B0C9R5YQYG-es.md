@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta expansión incluye todos los escenarios que originalmente aparecían en la expansión Los Puertos Grises y el ciclo Cazador de Sueños unidos ahora en una sola caja, junto con contenido de campaña totalmente nuevo.
 - En la expansión de campaña Cazador de Sueños, de 1 a 4 jugadores navegan por los océanos de la Tierra Media, combaten contra corsarios en alta mar, exploran las ruinas ignotas de Númenor y defienden los Puertos Grises frente a feroces asaltantes.
+- Esta expansión incluye todos los escenarios que originalmente aparecían en la expansión Los Puertos Grises y el ciclo Cazador de Sueños unidos ahora en una sola caja, junto con contenido de campaña totalmente nuevo.
 - A lo largo de nueve escenarios que pueden jugarse por separado o como parte de una campaña, se las verán con piratas, espectros, monstruos marinos y un carismático villano al mando de una flota de poderosos barcos.
-- Sin embargo, se avecina una tormenta en el horizonte y algo perverso aguarda en una isla olvidada de Númenor.
 - Desde hace milenios, los elfos han partido de los Puertos Grises para surcar el océano occidental de la Tierra Media en hermosos navíos blancos, a menudo para no volver jamás.
+- Sin embargo, se avecina una tormenta en el horizonte y algo perverso aguarda en una isla olvidada de Númenor.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9R5YQYG{{</world>}}

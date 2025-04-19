@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Miniaturas, fichas y cartas de Evento específicas
 - Aporta una regla de juego: la Locura de los personajes
 - A partir de 12 años
 - La expansión Sembradores del Vacío incluye todo lo necesario para añadir al juego una nueva raza de Intruso
 - Se necesita una copia de Nemesis para jugar
-- Miniaturas, fichas y cartas de Evento específicas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGSY28ND{{</world>}}

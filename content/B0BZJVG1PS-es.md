@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye 6 módulos nuevos que llevarán tus partidas a otro nivel
 - Aumenta la rejugabilidad del juego original incluyendo nuevas mecánicas y nuevas y emocionantes estrategias
 - La esperada expansión de la versión de cartas para 2 jugadores de Catan
-- Incluye 6 módulos nuevos que llevarán tus partidas a otro nivel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZJVG1PS{{</world>}}

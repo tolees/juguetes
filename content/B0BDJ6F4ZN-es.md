@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONSTRUYE UN MULTIVERSO DE FIGURAS COLECCIONABLES: Colecciona más figuras Marvel Legends de 15 cm inspiradas en la ficción para construir tu propio multiverso Marvel. (Se venden por separado. Sujeto a disponibilidad)
 - 60.º ANIVERSARIO DE VENGADORES: Estas figuras de acción de Marvels Black Knight y Marvels Sersi están inspiradas en las apariencias de los personajes en los cómics de los Vengadores de Marvel y son una gran adición a cualquier colección de figuras Marvel Legends
 - ACCESORIOS DE LOS CÓMICS: Este set de figuras coleccionables Hasbro Marvel Legends viene con 7 accesorios, incluyendo manos alternativas y una espada de fotones
-- MARVELS BLACK KNIGHT Y MARVELS SERSI: Temerosos de que Sersi se vuelva loca por culpa de su propia inmortalidad, los Eternos la unen con su compañero Vengador Dane Whitman, el Black Knight, forjando una unión mental que los convierte en almas gemelas
+- CONSTRUYE UN MULTIVERSO DE FIGURAS COLECCIONABLES: Colecciona más figuras Marvel Legends de 15 cm inspiradas en la ficción para construir tu propio multiverso Marvel. (Se venden por separado. Sujeto a disponibilidad)
 - ARTICULACIÓN Y DISEÑO PREMIUM: Los fans y coleccionistas de Marvel pueden exhibir en su colección estas figuras fácilmente articulables a escala de 15 cm (cabeza, brazos y piernas articulados) con diseño premium
+- MARVELS BLACK KNIGHT Y MARVELS SERSI: Temerosos de que Sersi se vuelva loca por culpa de su propia inmortalidad, los Eternos la unen con su compañero Vengador Dane Whitman, el Black Knight, forjando una unión mental que los convierte en almas gemelas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BDJ6F4ZN{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combates tácticos por turnos
 - Controla territorios, entrena lugareños, comanda varios escuadrones y defiéndete de los enemigos
-- Elige habilidades y pericias; personaliza tus mercenarios al subir de nivel; influye en la historia con tus decisiones
 - Juega con amigos en modo cooperativo en línea
+- Elige habilidades y pericias; personaliza tus mercenarios al subir de nivel; influye en la historia con tus decisiones
+- Combates tácticos por turnos
 - Gran elenco de mercenarios; individualiza armas y equipos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

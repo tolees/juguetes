@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más de 20 accesorios para inventar historias; entre ellos, un cachorro y gatito, mobiliario divertido, piezas para fiestas de té y mucho más.
-- Cuando la imaginación entra en el parque de juegos de Chelsea, las niñas descubren un sinfín de posibilidades de juego con los 3 niveles y la función de transformación que revela áreas de juego secretas.
-- Transforma el parque de juegos para descubrir una habitación secreta para mascotas, un balcón para dos personas y una piscina que se puede girar para revelar una piscina de pelotas.
 - Esta casa de muñecas tiene el tamaño ideal para las muñecas Chelsea de 15,24cm (se venden por separado) y cuenta con una sala de estar y una cocina en el primer piso, una habitación para mascotas y un baño en el segundo, y una habitación en la azotea.
 - La muñeca Chelsea y sus amiguitos pueden tomar el té en la cocina, relajarse en el salón, pasar tiempo juntos en la habitación de las mascotas, tirarse por el tobogán o meterse en la piscina y la piscina de pelotas.
+- Cuando la imaginación entra en el parque de juegos de Chelsea, las niñas descubren un sinfín de posibilidades de juego con los 3 niveles y la función de transformación que revela áreas de juego secretas.
+- Más de 20 accesorios para inventar historias; entre ellos, un cachorro y gatito, mobiliario divertido, piezas para fiestas de té y mucho más.
+- Transforma el parque de juegos para descubrir una habitación secreta para mascotas, un balcón para dos personas y una piscina que se puede girar para revelar una piscina de pelotas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09BW3RYVR{{</world>}}

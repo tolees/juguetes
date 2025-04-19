@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EMBALAJE DE APARIENCIA CLÁSICA: Las figuras y vehículos de Star Wars a escala de 5 cm, de la colección Vintage, vienen en embalajes con el diseño clásico de Kenner. (Se venden por separado. Sujeto a disponibilidad)
-- YODA (DAGOBAH): Yoda fue un legendario maestro Jedi cuya conexión con la Fuerza fue especialmente intensa. Aunque pequeño, fue sabio y poderoso, y entrenó a los Jedi por más de 800 años
-- DISEÑO Y ARTICULACIÓN PREMIUM: Con su cabeza, piernas y brazos articulados, la figura de Yoda (Dagobah) de Star Wars es perfecta para ser exhibida en colecciones de figuras de acción y vehículos
 - FIGURA CLÁSICA DE STAR WARS: Esta figura de Yoda (Dagobah) inspirada en el personaje de Star Wars: El Imperio contraataca, es un regalo fantástico para todo coleccionista o fan de Star Wars a partir de 4 años
 - ACCESORIOS INSPIRADOS EN LA PELÍCULASTAR WARS: EL IMPERIO CONTRAATACA: Esta figura de acción de la colección Vintage de Star Wars viene con 2 accesorios inspirados en la película que hacen de la figura una gran adición a toda colección Star Wars
+- EMBALAJE DE APARIENCIA CLÁSICA: Las figuras y vehículos de Star Wars a escala de 5 cm, de la colección Vintage, vienen en embalajes con el diseño clásico de Kenner. (Se venden por separado. Sujeto a disponibilidad)
+- DISEÑO Y ARTICULACIÓN PREMIUM: Con su cabeza, piernas y brazos articulados, la figura de Yoda (Dagobah) de Star Wars es perfecta para ser exhibida en colecciones de figuras de acción y vehículos
+- YODA (DAGOBAH): Yoda fue un legendario maestro Jedi cuya conexión con la Fuerza fue especialmente intensa. Aunque pequeño, fue sabio y poderoso, y entrenó a los Jedi por más de 800 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09H1LF4PW{{</world>}}

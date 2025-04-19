@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat at bizak.es)
-- La cabina se abre. Presentación tipo Diorama, con todos los detalles y totalmente funcional.
 - Equipo de aterrizaje con varias posiciones
-- Nave espacial de Star Wars de 13 cm con 2 figuras escala perfecta.
 - Incluye figura de Luke Skywalker y figura de R2-D2
+- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat at bizak.es)
+- Nave espacial de Star Wars de 13 cm con 2 figuras escala perfecta.
+- La cabina se abre. Presentación tipo Diorama, con todos los detalles y totalmente funcional.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JWHDJD{{</world>}}

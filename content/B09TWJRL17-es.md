@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Examínalas bien; uno de los jugadores será el líder, y es el solo que sabrá qué personaje es el escogido, el que deben descubrir el resto
-- A partir de 2 jugadores; a partir de 8 años de edad
-- Jugar a Similo es fácil: se despliegan 12 cartas en un total de 3 filas con 4 cartas cada una; la ilustración de cada carta representa a un personaje distinto; todos serán candidatos pero solo uno será el escogido
-- Similo es un juego cooperativo donde todos los jugadores trabajan juntos para descubrir al Personaje secreto mediante una serie de pistas
 - Él podrá jugar el resto de cartas de personajes para tratar de comunicar quién es pero no vale hablar o hacer gestos
+- Similo es un juego cooperativo donde todos los jugadores trabajan juntos para descubrir al Personaje secreto mediante una serie de pistas
+- Jugar a Similo es fácil: se despliegan 12 cartas en un total de 3 filas con 4 cartas cada una; la ilustración de cada carta representa a un personaje distinto; todos serán candidatos pero solo uno será el escogido
+- A partir de 2 jugadores; a partir de 8 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TWJRL17{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3-5 jugadores | +10 años | Juego de mesa familiar
-- Desafíos para Toda la Familia: Resuelve enigmas, jeroglíficos, adivinanzas, sudokus y crucigramas en equipo.
-- Fomenta el Trabajo en Equipo y la Resolución de Problemas: Mejora la comunicación y el pensamiento crítico mientras te diviertes.
 - Experiencia de Escape Room en Casa: Sumérgete en una auténtica aventura de escape room sin salir de tu hogar.
 - Tres Aventuras Temáticas en la Jungla: Enfréntate a desafíos únicos en "Mono Mágico", "Picadura de Serpiente" y "Portal Lunar".
+- Desafíos para Toda la Familia: Resuelve enigmas, jeroglíficos, adivinanzas, sudokus y crucigramas en equipo.
+- 3-5 jugadores | +10 años | Juego de mesa familiar
+- Fomenta el Trabajo en Equipo y la Resolución de Problemas: Mejora la comunicación y el pensamiento crítico mientras te diviertes.
 - Tiempo Límite de 60 Minutos por Aventura: Pon a prueba tu ingenio y rapidez para completar cada misión en menos de una hora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

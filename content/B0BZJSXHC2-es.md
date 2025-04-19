@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De la marca Devir
 - El nivel de dificultad del juego puede cambiarse
+- De la marca Devir
 - Los jugadores tienen la opción de cooperar o competir
 
 [🛒 Visítala!!!]({{< param buyurl >}})

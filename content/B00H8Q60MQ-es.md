@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Número de jugadores: 1 - 6
 - Edad recomendada: 10 años y más
 - Juego adecuado para pasar el tiempo libre
-- Número de jugadores: 1 - 6
-- Duración aproximada de la partida: 90 min
 - Juego que da los instrumentos necesarios para resolverlos y aprender a elaborarlos
+- Duración aproximada de la partida: 90 min
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00H8Q60MQ{{</world>}}

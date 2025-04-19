@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con una rotación de 240°
 - Volante con múltiples posiciones para videojuegos de 23 cm de diámetro
 - Funciona con PS4, Xbox One/S/X, Switch y PC
-- Con una rotación de 240°
 - Pedales analógicos con almohadillas antideslizante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

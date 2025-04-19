@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crea tu propio Cyberpunk
 - Explora la ciudad del futuro
 - La experiencia Cyberpunk 2077 definitiva
 - Construye tu leyenda
+- Crea tu propio Cyberpunk
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNS2PM7N{{</world>}}

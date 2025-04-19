@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles técnicos: casco unisex para adultos, peso 325 g, color amarillo, talla XL = ancho de la cabeza 61-65 cm
 - Sistema de ventilación bien regulado a través de 12 entradas y 5 salidas de aire
 - Seguridad, funcionalidad y diseño: casco de ciclismo urbano ligero y estable con una combinación duradera de EPS y cubierta de PC - Ajuste individual con el sistema Zoom Ace Urban
+- Detalles técnicos: casco unisex para adultos, peso 325 g, color amarillo, talla XL = ancho de la cabeza 61-65 cm
 - Seguro, fiable y estable - es el significado de ABUS. Tanto si se trata de la protección en su propio hogar, como de la seguridad móvil y de otros objetos: ABUS establece los estándares para ello
 - Claramente reconocible al andar en bicicleta: Il casco è dotato di una luce posteriore a LED montata in alto con una portata di 180° - Con reflectores luminosos
 

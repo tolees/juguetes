@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 8 minifiguras LEGO City con bonitos accesorios de ski además de las figuras animales de una lechuza, una ardilla y un muñeco de nieve construible para diversión invierno sin fin
 - Incluye accesorios LEGO: bicicleta, botiquín médico, 2 mochilas, una cámara, 4 skis, 2 snowboards, 4 palos de ski, 2 palos de hockey sobre hielo, 4 patines sobre hielo, 4 botas para la nieve y picos para el hielo
-- Los jóvenes fans de las aventuras y el deporte disfrutarán este set de juego lleno de detalles como premio en un día cualquiera, regalo de Navidad o regalo de cumpleaños para niños y niñas de 7 años o más
 - El edificio modular de 3 niveles alberga una tienda de deportes de invierno, un cafe y un ascensor que funciona para llevar a los esquiadores a la cima de la pista, desde donde realizarán increíbles acrobacias
-- Despues del descenso por la pista, los niños podrán probar la pared de escalada y escenificar deportes de invierno como el patinaje y el hockey obre hielo en la zona al exterior, tomarse un descanso en el agradable cafe o entrar a la tienda
+- Incluye 8 minifiguras LEGO City con bonitos accesorios de ski además de las figuras animales de una lechuza, una ardilla y un muñeco de nieve construible para diversión invierno sin fin
 - El set del Centro de Ski y Escalada de LEGO City es un juguete para niños de 7 años o más lleno de divertidas actividades de invierno para jugar; incluido el ski, el snowboard, la escalada en pared, el patinaje, el hockey sobre hielo y mucho más
+- Despues del descenso por la pista, los niños podrán probar la pared de escalada y escenificar deportes de invierno como el patinaje y el hockey obre hielo en la zona al exterior, tomarse un descanso en el agradable cafe o entrar a la tienda
+- Los jóvenes fans de las aventuras y el deporte disfrutarán este set de juego lleno de detalles como premio en un día cualquiera, regalo de Navidad o regalo de cumpleaños para niños y niñas de 7 años o más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPCCDK6K{{</world>}}

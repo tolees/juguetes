@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Explora nuestra gama de productos
-- Edad recomendada: 8 años
 - Número de jugadores: 1-4
+- Edad recomendada: 8 años
+- Explora nuestra gama de productos
 - Tiempo de juego: 30 minutos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De 2 a 6 jugadores.
 - A partir de 8 años.
-- Los jugadores pueden lanzar los datos para mover sus piezas y comprar, vender y negociar las propiedades al estilo Monopoly.
-- My hero academy Monopoly: el objetivo de este juego de mesa es ser el último jugador en declararse en bancarrota.
 - Conviértete en el mejor estudiante de la U.A.en esta edición especial de Monopoly: My Hero Academia! Estudia para desarrollar todos tus poderes y así evitar la bancarrota.
+- Los jugadores pueden lanzar los datos para mover sus piezas y comprar, vender y negociar las propiedades al estilo Monopoly.
 - El clásico juego de Monopoly con diversión para niños y adultos por igual.
+- De 2 a 6 jugadores.
+- My hero academy Monopoly: el objetivo de este juego de mesa es ser el último jugador en declararse en bancarrota.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DRF8CRY{{</world>}}

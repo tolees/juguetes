@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dificultad modulable después de unas pocas partidas puedes añadir peces con reglas especiales
-- Número de jugadores: 2-6
-- Un juego rápido y muy familiar
 - Un juego que llama la atención al verlo desplegado sobre la mesa
+- Dificultad modulable después de unas pocas partidas puedes añadir peces con reglas especiales
+- Un juego rápido y muy familiar
+- Número de jugadores: 2-6
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CDZ9B76{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Inmersión Lovecraftiana: Sumérgete en un mundo oscuro y cósmico inspirado en Lovecraft. ¿Serás el último en enfrentar la locura?
-- Estilo Retro Impactante: Vive la intensidad del terror retro. Gráficos únicos, referencias literarias y una experiencia de juego que desafía los sentidos.
 - Locura Dinámica: Controla tu cordura mientras ganas poderes. ¿Cuánto sacrificas para enfrentar el mal eterno? Cada elección cambia tu destino.
-- Misterio Cósmico Desvelado: Explora zonas ocultas, resuelve el enigma de este lugar enloquecido. ¿Descubrirás la verdad o serás presa del horror eterno?
 - Único Sobreviviente: Eres el único con cordura. Enfréntate a horrores indescriptibles, explora y descubre los secretos antes de que la cordura te abandone.
+- Misterio Cósmico Desvelado: Explora zonas ocultas, resuelve el enigma de este lugar enloquecido. ¿Descubrirás la verdad o serás presa del horror eterno?
+- Estilo Retro Impactante: Vive la intensidad del terror retro. Gráficos únicos, referencias literarias y una experiencia de juego que desafía los sentidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFYF3GHV{{</world>}}

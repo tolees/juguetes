@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
-- CARACTERÍSTICAS: Número de jugadores 2-4, edad recomendada 12+, duración 50 minutos, edición en castellano
 - CONVIÉRTETE EN UN VILLANO DE MARVEL: Para ganar, debes explorar las habilidades únicas de tu personaje y descubrir cómo alcanzar tu objetivo personal, relacionado con la historia de tu Villano
 - MARVEL VILLAINOUS: En este épico enfrentamiento entre poderes oscuros, elige a uno de los Villanos de Marvel y trata de llevar a cabo su plan malvado; descubre las habilidades únicas de cada personaje y las estrategias para cambiar el final feliz de cada historia
+- CARACTERÍSTICAS: Número de jugadores 2-4, edad recomendada 12+, duración 50 minutos, edición en castellano
 - CREA TU ESTRATEGIA: Cada jugador puede interpretar a uno de los villanos de Disney más famosos y realizar acciones para acercarse a su objetivo final o puede desviar los planes de los adversarios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

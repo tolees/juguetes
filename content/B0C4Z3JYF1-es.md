@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Uníos para desenmarañar la línea temporal!
+- Háblalo con tus compañeros de equipo
 - ¿colocarás tus cartas en la línea temporal o en la pila de descartes?
 - Cooperad para colocar tantas cartas como resulte posible. ¡Necesitaréis comunicación, táctica y coordinación para completar con éxito este desafío!
-- Háblalo con tus compañeros de equipo
 - Averigua qué eventos se muestran en tus cartas y estima cuándo tuvieron lugar.
-- Uníos para desenmarañar la línea temporal!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4Z3JYF1{{</world>}}

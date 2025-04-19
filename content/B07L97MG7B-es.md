@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Quita el escudo y lánzalo como si fuera un disco
-- Conviertete en el capitán américa
 - Revive las batallas de los vengadores
+- Quita el escudo y lánzalo como si fuera un disco
 - Imagina que luchas por hacer justicia, al igual que capitán américa
+- Conviertete en el capitán américa
 - Se sujeta al guante magnético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

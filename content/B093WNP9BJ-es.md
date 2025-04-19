@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un juego de cartas cooperativo inspirado en un Escape Room.
 - A partir de 10 años de edad
+- De 1 a 6 jugadores
+- Un juego de cartas cooperativo inspirado en un Escape Room.
 - ¡Tres Aventuras Espeluznantes!
 - Los Escape Room son salas de las que tienes que escapar en menos de 60 minutos. Unlock! Te permite vivir esta experiencia en tu casa, alrededor de una mesa.
-- De 1 a 6 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B093WNP9BJ{{</world>}}

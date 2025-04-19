@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Juego de tablero de 3 a 6 jugadores, recomendado a partir de 14 años de edad.
 - Sin embargo, esos aliados los compartes con tus vecinos, así que has de tener cuidado, porque hasta tus más íntimos amigos tienen su lealtad dividida.
-- Número de jugadores: 3-6
 - Usarás tu influencia para ganarte nuevos aliados.
-- ¡Súmete en los enrevesados politiqueos de Desembarco del Rey mientras participas en la impredecible lucha por el poder de Juego de tronos: Tierra de nadie!
 - En este trepidante juego de cartas, estás al frente de tu noble casa como uno de los nueve líderes intrigantes que incluye el juego.
+- Número de jugadores: 3-6
+- ¡Súmete en los enrevesados politiqueos de Desembarco del Rey mientras participas en la impredecible lucha por el poder de Juego de tronos: Tierra de nadie!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09Q3FRJZ2{{</world>}}

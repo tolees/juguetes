@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diversión manual con la plastilina clásica play-doh
 - Mantén fresca la plastilina dentro del bote para la próxima vez
 - Consigue más colores para tus creaciones (los otros botes se venden por separado)
-- Diversión manual con la plastilina clásica play-doh
 - Un juego sin fin que solo depende de tu imaginación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puzzle 2000 Piezas
 - Elegante línea de puzzles hecha en italia
+- Puzzle 2000 Piezas
 - Imágenes únicas, calidad de impresión y la precisión del troquelado
 - Siempre sensibles a los problemas ecológicos, los puzzles clementoni están hechos con materiales reciclables
 

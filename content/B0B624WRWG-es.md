@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La flor
 - Vuelve a encontrarte con tus personajes favoritos
 - Fiel a la obra original
+- La flor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B624WRWG{{</world>}}

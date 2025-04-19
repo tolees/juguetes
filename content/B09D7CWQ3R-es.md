@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 5 CAÑONES: El lanzador Nerf Elite 2.0 Ranger PD-5 posee 5 cañones de carga frontal, para que lances 5 dardos seguidos en las batallas Nerf
 - 10 DARDOS NERF ELITE: Viene con 10 dardos Nerf Elite de espuma, para que introduzcas 5 en los cañones y conserves 5 más en el portadardos para recargar rápido y seguir jugando
 - PORTADARDOS INTEGRADO: El lanzador Nerf Elite 2.0 Ranger PD-5 posee un portadardos integrado para 5 dardos, para que tengas dardos adicionales a mano y recargues rápido el lanzador
 - LANZADOR ADAPTABLE: El lanzador Ranger PD-5 cuenta con un riel táctico y un conector de culata para que lo adaptes a cada batalla o misión (la culata se vende por separado, sujeto a disponibilidad)
 - FÁCIL DE UTILIZAR: Introduce los dardos, bombea el deslizador y aprieta el gatillo para lanzar 1 dardo
-- 5 CAÑONES: El lanzador Nerf Elite 2.0 Ranger PD-5 posee 5 cañones de carga frontal, para que lances 5 dardos seguidos en las batallas Nerf
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09D7CWQ3R{{</world>}}

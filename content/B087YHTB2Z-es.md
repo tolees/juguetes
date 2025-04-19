@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recarga para la batalla
 - Dardos de gomaespuma
-- Set de 20 dardos
 - Permiten llegar a más distancia
+- Set de 20 dardos
+- Recarga para la batalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B087YHTB2Z{{</world>}}

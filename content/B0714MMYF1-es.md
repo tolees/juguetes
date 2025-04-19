@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El producto representa un Quad Racy Red con acelerador en el pie y ruedas robustas para mayor estabilidad
-- El peso máximo recomendado por el fabricante es de 20 kg
 - ‎‎Edad recomendada: 24 meses a 7 años
-- Cuenta con el motor de 6V y tiene batería y cargador incluidos
 - Vehículo compatible con BAT. 6V/ 2Ah
+- El peso máximo recomendado por el fabricante es de 20 kg
+- El producto representa un Quad Racy Red con acelerador en el pie y ruedas robustas para mayor estabilidad
+- Cuenta con el motor de 6V y tiene batería y cargador incluidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0714MMYF1{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CÓMO SE JUEGA: En tu turno, revelas una carta de tesoro, luego mueves las pirámides hasta encontrar un tesoro: si es el que se veía en la carta, ¡lo has conseguido! Pero cuidado, porque en vuestro recorrido revelaréis pistas útiles para los demás jugadores.
-- JUEGO DE MESA FAMILIAR: ¡Mueve las pirámides y descubre el tesoro con este divertidísimo juego para toda la familia!
 - JUEGOS PARA NIÑOS: Los jugadores deben tratar de recuperar los tesoros sepultados debajo de las pirámides moviéndolas atentamente.
 - JUEGO DE MEMORIA: Un divertido juego de memoria para toda la familia. Pon a prueba tus habilidades y capacidad de memoria con Faraon, un juego de mesa de Ravensburger.
 - PARA NIÑOS +7 AÑOS: Faraon es un juego de mesa familiar para niños a partir de 7 años. Pueden jugar de 1 a 5 jugadores y la duración aproximada de una partida es de 30 minutos.
+- CÓMO SE JUEGA: En tu turno, revelas una carta de tesoro, luego mueves las pirámides hasta encontrar un tesoro: si es el que se veía en la carta, ¡lo has conseguido! Pero cuidado, porque en vuestro recorrido revelaréis pistas útiles para los demás jugadores.
+- JUEGO DE MESA FAMILIAR: ¡Mueve las pirámides y descubre el tesoro con este divertidísimo juego para toda la familia!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GJN25O0{{</world>}}

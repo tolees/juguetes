@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Digimons incluidos en las tarjetas DIM: Agumon & Gabumon
-- Inserta la tarjeta DIM en la pulsera vital, espera aprox. 45 segundos y embarcarse en una aventura! Cada tarjeta DIM incluye un nuevo digimon, nuevas tareas y un fondo de pantalla
 - Lucha contra otro jugador también: Sube tu Digimon a la tarjeta VS MEMORY DIM vinculándola a tu pulsera Vital. A continuación, conecta la tarjeta a la pulsera vital de tu oponente
 - Descarga la aplicación Vital Lab en tu teléfono Android e iOS para recuperar tus estadísticas y las de tu Digimon. Transfiere tu Digimon de la Pulsera Vital a la aplicación (y viceversa), guárdala y rastrea su árbol de desarrollo. Si quieres ganar más trofeos, comienza misiones exclusivas. Cada tarjeta DIM te da espacios adicionales para almacenar tu Digimon en la aplicación
+- Digimons incluidos en las tarjetas DIM: Agumon & Gabumon
 - La tarjeta DIM (tarjeta de memoria identificada Digimon) para la pulsera Digimon Vital (se vende por separado) es el Digivice definitivo con el que puedes experimentar tus aventuras junto con tu Digimon favorito Tus actividades determinan cómo se desarrolla tu monstruo digital
+- Inserta la tarjeta DIM en la pulsera vital, espera aprox. 45 segundos y embarcarse en una aventura! Cada tarjeta DIM incluye un nuevo digimon, nuevas tareas y un fondo de pantalla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QSHZWK8{{</world>}}

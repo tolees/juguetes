@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CASCO ELECTRÓNICO PREMIUM: Con su decorado altamente detallado, diseño basado en la serie, tamaño ajustable y distorsión electrónica de la voz, este casco tamaño real de Phase II Clone Trooper es una adición emblemática a toda colección Star Wars
-- DISEÑO INSPIRADO EN LA SERIE LA GUERRA DE LOS CLONES: Los fans pueden imaginar escenas de la galaxia de Star Wars con este casco premium para juego de rol basado en la serie animada
 - COLECCIONA OTROS ARTÍCULOS PARA ROLEPLAY DE UNA GALAXIA MUY, MUY LEJANA. Colecciona otros artículos para roleplay de Star Wars The Black Series, inspirados en la ficción (Se venden por separado. Sujeto a disponibilidad.)
 - DISTORSIÓN ELECTRÓNICA DE LA VOZ: Con tan solo presionar un botón, los fans y coleccionistas pueden distorsionar su voz para que suene como la de un soldado clon Fase II
 - SOLDADO CLON FASE II: La presencia de los soldados clon en el conflicto galáctico que los vio aparecer por primera vez fue tan emblemática que la guerra pasó a ser conocida como la Guerra de los Clones
+- DISEÑO INSPIRADO EN LA SERIE LA GUERRA DE LOS CLONES: Los fans pueden imaginar escenas de la galaxia de Star Wars con este casco premium para juego de rol basado en la serie animada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JBP4CLT{{</world>}}

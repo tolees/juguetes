@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sigue las instrucciones de luz y de voz para cazar a los distintos Pokémon y añadirlos a tu colección electrónica de Pokémon.
-- Con tu detector de Pokémon y tu mapa de entrenador, lleva a cabo las distintas misiones.
 - Tendrás que moverte por todos lados, ¡a ver si eres capaz de completar cada misión!
-- Única versión del juego en Español.
+- Con tu detector de Pokémon y tu mapa de entrenador, lleva a cabo las distintas misiones.
+- Sigue las instrucciones de luz y de voz para cazar a los distintos Pokémon y añadirlos a tu colección electrónica de Pokémon.
 - Recomendado a partir de los 6 años.
+- Única versión del juego en Español.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B34KXBC5{{</world>}}

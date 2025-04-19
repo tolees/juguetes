@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En la caja encontrarás 5 sobres con miniexpansiones y un índice de cartas donde poder anotar tus observaciones de campo!
-- A partir de 10 años de edad
 - De 1 a 4 jugadores
-- Solo una persona recibirá el título de observador más hábil
+- A partir de 10 años de edad
+- En la caja encontrarás 5 sobres con miniexpansiones y un índice de cartas donde poder anotar tus observaciones de campo!
 - Con especies diferentes de animales y plantas
+- Solo una persona recibirá el título de observador más hábil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094YDSH44{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tendréis que encontrar la manera de salir. Si perdéis, quedaréis atrapados para siempre.
 - Los pasillos y las habitaciones esconden los secretos de vuestro cautiverio, las claves que posibilitarán la salida
-- Puede jugarse en modo solitario
+- Tendréis que encontrar la manera de salir. Si perdéis, quedaréis atrapados para siempre.
 - Despertáis en vuestras habitaciones de un extraño y tenebroso hotel. Una voz os acompaña.
 - Un juego para amantes de lo lovecraftiano.
+- Puede jugarse en modo solitario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBC2YKQY{{</world>}}

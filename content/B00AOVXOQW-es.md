@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Desarrolla la creatividad y las competencias matemáticas
+- Producto probado y seguro para su bebé
 - Ayuda a explorar las diferencias entre la imaginación y el mundo real
 - Materiales de alta calidad
-- Producto probado y seguro para su bebé
-- Desarrolla la creatividad y las competencias matemáticas
 - Desarrolla la capacidad narrativa y las habilidades sociales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

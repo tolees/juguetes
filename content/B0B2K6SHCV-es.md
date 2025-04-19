@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- Elige tu personaje favorito.
-- Diviértete con sus 13 cm de altura.
-- Con 5 puntos de articulación
 - cada figura trae su accesorio como en el videojuego
+- Con 5 puntos de articulación
+- Elige tu personaje favorito.
+- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Diviértete con sus 13 cm de altura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2K6SHCV{{</world>}}

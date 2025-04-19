@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- REGISTRO DE VIAJES: Las cartas de Suerte permiten a los jugadores registrar sus viajes. Cuanto más viajan, más cambian el rumbo de la partida
 - JUEGO DIVERTIDO PARA TODA LA FAMILIA Y NIÑOS A PARTIR DE 8 AÑOS: Reúne a la familia para jugar esta versión del juego Monopoly, en la que las propiedades son destinos de todo el mundo
 - CREA RECUERDOS CON LAS CARTAS DEL DIARIO DE VIAJE: Cuando un jugador coge una carta del Diario de Viaje, le pone un cuño y se convierte en una parte permanente del juego que puede cambiar la suerte de alguien en futuras partidas
-- CON TABLERO DE BORRADO EN SECO: ¡Pon tu cuño en el tablero de borrado en seco! Los jugadores pueden divertirse utilizando los peones-cuños autoentintados para registrar los diferentes lugares turísticos que han visitado
-- REGISTRO DE VIAJES: Las cartas de Suerte permiten a los jugadores registrar sus viajes. Cuanto más viajan, más cambian el rumbo de la partida
 - VISITA EMOCIONANTES DESTINOS: En el juego de mesa Monopoly Viaja por el mundo, los jugadores imaginan que visitan diferentes destinos mientras realizan sus objetivos de viaje, descubren datos curiosos y completan viajes para ganar
+- CON TABLERO DE BORRADO EN SECO: ¡Pon tu cuño en el tablero de borrado en seco! Los jugadores pueden divertirse utilizando los peones-cuños autoentintados para registrar los diferentes lugares turísticos que han visitado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQ314FY{{</world>}}

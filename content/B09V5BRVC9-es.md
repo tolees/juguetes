@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que han cobrado vida ahora tienen nuevos compañeros que son los Kazoom Kids, niños transformados también en héroes y villanos por el poder del Kazoom y viven todos en Kaboom City. Puedes descubrir o seguir las aventuras de estas figuras de acción en el canal de YouTube de Magic Box (disponible en español y en otros idiomas).
-- SUPERTHINGS EXCLUSIVOS – Consigue los 9 SuperThings exclusivos de la serie 4. Kid Kazoom (ultrararo), Pow Position y Bad Prize (dorados), y los plateados Steely Clack, Coldfrido, Flamespark, Raycer, Tim Rocket y Nailord.
 - LATA GOLD SÚPER ESPECIALES – Figuras exclusivas de la serie 4. Ideal para completar toda tu colección de la serie 4 de SuperThings.
 - CONSIGUE LOS VEHÍCULOS DORADOS BLASTERJETS – Oportunidad única para conseguir los dos Blasterjets dorados (héroe y villano) de la Serie 4 de SuperThings.
 - DESCUBRE LA SERIE 4 DE LOS SUPERTHINGS – En la Serie 4 ¡los SuperThings se enfrentan en equipos dúo! Cada equipo tiene su pareja rival: dos superhéroes vs. dos villanos. ¡Hay más de 80 SuperThings para coleccionar!
+- DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que han cobrado vida ahora tienen nuevos compañeros que son los Kazoom Kids, niños transformados también en héroes y villanos por el poder del Kazoom y viven todos en Kaboom City. Puedes descubrir o seguir las aventuras de estas figuras de acción en el canal de YouTube de Magic Box (disponible en español y en otros idiomas).
+- SUPERTHINGS EXCLUSIVOS – Consigue los 9 SuperThings exclusivos de la serie 4. Kid Kazoom (ultrararo), Pow Position y Bad Prize (dorados), y los plateados Steely Clack, Coldfrido, Flamespark, Raycer, Tim Rocket y Nailord.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09V5BRVC9{{</world>}}

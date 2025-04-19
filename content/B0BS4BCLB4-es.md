@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REUNID PISTAS: ¡Descubrid quién, dónde y con qué para resolver el misterio y ganar! Buscad pistas y reunid evidencias para la solución final. Mientras más pistas consigan los jugadores, más fácil será hacer la acusación correcta
 - ESCAPAD DEL MUSEO, RESOLVED EL MISTERIO: Cluedo Robo en el Museo ofrece la intriga del clásico juego de misterio Cluedo, con una historia nueva de robo y un formato de juego de mesa estilo Escape de la Habitación
-- EL JUEGO SE JUEGA UNA SOLA VEZ: En este juego de escape y solución de misterios, los jugadores unen sus fuerzas y utilizan sus habilidades detectivescas para escapar del museo y resolver el caso del robo. Para 1 a 6 jugadores
 - PARA JUGAR EN FAMILIA Y CON AMIGOS: Los jugadores a partir de 10 años pueden entrar en esta cinemática experiencia de juego que se juega una sola vez. Es un juego de mesa de misterio que enganchará a todos en una historia inolvidable
+- REUNID PISTAS: ¡Descubrid quién, dónde y con qué para resolver el misterio y ganar! Buscad pistas y reunid evidencias para la solución final. Mientras más pistas consigan los jugadores, más fácil será hacer la acusación correcta
 - DINÁMICO JUEGO DE MESA: Los jugadores recorren el tablero con sus figuras explorando las exhibiciones. El tablero crece y cambia revelando pistas y habitaciones, mientras los jugadores van resolviendo puzles que desbloquean el museo
+- EL JUEGO SE JUEGA UNA SOLA VEZ: En este juego de escape y solución de misterios, los jugadores unen sus fuerzas y utilizan sus habilidades detectivescas para escapar del museo y resolver el caso del robo. Para 1 a 6 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS4BCLB4{{</world>}}

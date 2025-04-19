@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ⏱DURACIÓN DE LA PARTIDA 60-90 MINUTOS. Un gran juego de mesa que se disfruta en sesiones de entre 60 y 90 minutos.
-- 🗺 UNA RUTA COMERCIAL DESAFIANTE. Cambian las localizaciones, las reglas de colocación, los guías de la expedición, la oferta y la demanda de recursos... Embárcate en esta asombrosa aventura. ¡Ningún viaje será igual a otro con Almanac!
-- 🐉UN JUEGO DE ESTRATEGIA. Almanac: El camino del dragón es un juego de mesa en el que sacarás al estratega que llevas dentro. ¡Supera al resto de mercaderes que avanzan en caravana por esta sorprendente ruta comercial! ¿Listo para partir?
-- 🀄️DE 2 A 4 JUGADORES, A PARTIR DE 12 AÑOS. Un juego de mesa familiar en el que podréis participar de 2 a 4 jugadores, a partir de 12 años de edad.
 - 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
+- 🐉UN JUEGO DE ESTRATEGIA. Almanac: El camino del dragón es un juego de mesa en el que sacarás al estratega que llevas dentro. ¡Supera al resto de mercaderes que avanzan en caravana por esta sorprendente ruta comercial! ¿Listo para partir?
+- ⏱DURACIÓN DE LA PARTIDA 60-90 MINUTOS. Un gran juego de mesa que se disfruta en sesiones de entre 60 y 90 minutos.
+- 🀄️DE 2 A 4 JUGADORES, A PARTIR DE 12 AÑOS. Un juego de mesa familiar en el que podréis participar de 2 a 4 jugadores, a partir de 12 años de edad.
+- 🗺 UNA RUTA COMERCIAL DESAFIANTE. Cambian las localizaciones, las reglas de colocación, los guías de la expedición, la oferta y la demanda de recursos... Embárcate en esta asombrosa aventura. ¡Ningún viaje será igual a otro con Almanac!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FKKFR1B{{</world>}}

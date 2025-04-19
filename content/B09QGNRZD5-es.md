@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de juego: 75 minutos aproximadamente. De 2-4 jugadores. Edad 11+
-- Licencia Oficial. Totalmente en Castellano
-- Bienvenido un año más al Colegio Hogwarts de Magia y Hechicería! La Copa de las Casas convoca a los estudiantes más brillantes para competir en este juego de colocación de personajes
 - Utiliza el Conocimiento y la Magia adquiridos para aprender Lecciones y completar Desafíos
+- Bienvenido un año más al Colegio Hogwarts de Magia y Hechicería! La Copa de las Casas convoca a los estudiantes más brillantes para competir en este juego de colocación de personajes
 - ¡Gana la mayor cantidad de puntos para que tu Casa sea nombrada Campeona de la Copa de las Casas!
+- Licencia Oficial. Totalmente en Castellano
+- Tiempo de juego: 75 minutos aproximadamente. De 2-4 jugadores. Edad 11+
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QGNRZD5{{</world>}}

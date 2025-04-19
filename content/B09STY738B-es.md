@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - EBIKE NILOX J1 Plus: Moderna mezclada con clásica, la eBike Nilox J1 Plus combina el dinamismo de una bicicleta de pedaleo asistido con el estilo de una bicicleta tradicional
-- CON PEDALEO ASISTIDO: Respetuoso con el medio ambiente y apto para recorridos urbanos, con el pedaleo asistido activado por el mando del manillar, alcanza hasta 25 km/h gracias al motor High Speed sin escobillas de 250W
-- ECOLÓGICO: se recarga con electricidad en 4 horas y permite recorrer hasta 40 km: si no necesitas el motor, por supuesto, ¡puedes pedalear todo lo que quieras
 - MÁXIMA COMODIDAD: Afronta cada viaje con comodidad gracias al chasis plegable, la cesta delantera y el portapaquetes trasero, con ruedas de 20", luces LED y asiento ergonómico
+- ECOLÓGICO: se recarga con electricidad en 4 horas y permite recorrer hasta 40 km: si no necesitas el motor, por supuesto, ¡puedes pedalear todo lo que quieras
+- CON PEDALEO ASISTIDO: Respetuoso con el medio ambiente y apto para recorridos urbanos, con el pedaleo asistido activado por el mando del manillar, alcanza hasta 25 km/h gracias al motor High Speed sin escobillas de 250W
 - CON NILOX TOMATELA CON CALMA LLEGANDO ANTES QUE NADIE: Movimiento, tecnología y opciones sostenibles para un estilo inteligente y actual
 - La bicicleta viene al 90% ensamblada; por favor, mira la "Guía % de Ensamblaje " a continuación para completar el ensamblaje
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En Matchbox Epic Construction Yard, los niños y las niñas pueden explorar una obra de construcción realista repleta de divertidas y emocionantes funciones.
 - Engancha el baño portátil a la grúa para subirlo a la tercera planta. Asegúrate de que no está ocupado antes de levantarlo.
-- Muévete por la estructura de aparcamiento en construcción con vallas móviles y un ascensor impulsado por los peques.
-- Espera en las vallas bajadas mientras los más pequeños usan la grúa para mover la plataforma a su sitio. Una vez que sea seguro, la valla se levanta automáticamente, permitiendo que los coches pasen.
+- En Matchbox Epic Construction Yard, los niños y las niñas pueden explorar una obra de construcción realista repleta de divertidas y emocionantes funciones.
 - Cuidado con la bola de demolición que provoca sorpresas inesperadas en el nivel más bajo.
+- Espera en las vallas bajadas mientras los más pequeños usan la grúa para mover la plataforma a su sitio. Una vez que sea seguro, la valla se levanta automáticamente, permitiendo que los coches pasen.
+- Muévete por la estructura de aparcamiento en construcción con vallas móviles y un ascensor impulsado por los peques.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRSLJ5Z3{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GRAND MOFF TARKIN: Ambicioso e inflexible partidario del poder militar, Wilhuff Tarkin se convirtió en un favorito del emperador Palpatine y ascendió rápidamente en los rangos imperiales
 - COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 - ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium, en su colección
 - ACCESORIO INSPIRADO EN EL PERSONAJE DE LA PELÍCULA: Esta figura de acción Star Wars The Black Series incluye un accesorio inspirado en la película que hace de la figura una adición fantástica a toda colección Star Wars
+- GRAND MOFF TARKIN: Ambicioso e inflexible partidario del poder militar, Wilhuff Tarkin se convirtió en un favorito del emperador Palpatine y ascendió rápidamente en los rangos imperiales
 - LA COLECCIÓN ARCHIVE. Vuelven las figuras emblemáticas de Star Wars The Black Series con las figuras de acción de 15 cm de Black Series Archive, que cuentan con una decoración y un diseño premium
 
 [🛒 Comprar!!!]({{< param buyurl >}})

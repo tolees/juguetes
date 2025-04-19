@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODULABLE INFINIDO y compatible con todos los productos GraviTrax JUNIOR. Con este juego de expansión Trax, los niños pequeños pueden comenzar a jugar y construir circuitos de inmediato. Descubra una amplia gama JUNIOR de starter sets y elementos, todos combinables entre ellos, para impulsar los circuitos.
-- JUEGO EDUCATIVO STEM: GraviTrax JUNIOR promueve el aprendizaje del niño estimulando su reflexión al diseñar circuitos de bolas, así como sus habilidades motoras y sus relaciones de causa y efecto durante el juego. Los elementos decorativos de la jungla también estimulan la creación y la imaginación de los niños.
-- GRAVITRAX JUNIOR POR 3 AÑOS: INICIACIÓN A LA CONSTRUCCIÓN GRAVITRAX gracias a un estuche completo de 35 piezas para beneficiarse de curvas y bloques de construcción adicionales. Con JUNIOR, los niños pequeños se divierten combinando bloques para crear circuitos divertidos y coloridos. Requiere al menos un Starter Set GraviTrax JUNIOR.
 - CONTENIDO 35 PIEZAS: 3 placas, 22 bloques, 2 puentes, 2 líneas rectas, 2 pendientes, 2 curvas grandes y 2 curvas pequeñas. Un regalo perfecto para cumpleaños o Navidad.
+- JUEGO EDUCATIVO STEM: GraviTrax JUNIOR promueve el aprendizaje del niño estimulando su reflexión al diseñar circuitos de bolas, así como sus habilidades motoras y sus relaciones de causa y efecto durante el juego. Los elementos decorativos de la jungla también estimulan la creación y la imaginación de los niños.
+- MODULABLE INFINIDO y compatible con todos los productos GraviTrax JUNIOR. Con este juego de expansión Trax, los niños pequeños pueden comenzar a jugar y construir circuitos de inmediato. Descubra una amplia gama JUNIOR de starter sets y elementos, todos combinables entre ellos, para impulsar los circuitos.
+- GRAVITRAX JUNIOR POR 3 AÑOS: INICIACIÓN A LA CONSTRUCCIÓN GRAVITRAX gracias a un estuche completo de 35 piezas para beneficiarse de curvas y bloques de construcción adicionales. Con JUNIOR, los niños pequeños se divierten combinando bloques para crear circuitos divertidos y coloridos. Requiere al menos un Starter Set GraviTrax JUNIOR.
 - DISEÑADO PARA 3 AÑOS Las piezas están diseñadas para niños pequeños con un contenido fácil de manejar. Los materiales proceden principalmente de recursos renovables, fabricados en Europa y procedentes de MATERIALES BIOSOURCIOS: fibras de madera y plástico orgánico. Las piezas están fabricadas de manera que duren y garantizan horas de juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

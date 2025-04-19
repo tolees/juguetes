@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye pegatinas para personalizar, su veleta se mueve y sus ventanas y puertas se abren de verdad
-- Música y sonidos del Canal de YouTube líder infantil
 - Playset de La Granja de Zenón con música y sonidos
+- Música y sonidos del Canal de YouTube líder infantil
 - Incluye 5 figuras de tus personajes favoritos: Gallo Bartolito, Vaca Lola, Zenón, Caballo Percherón, y Lorito Pepe
+- Incluye pegatinas para personalizar, su veleta se mueve y sus ventanas y puertas se abren de verdad
 - Reproduce nuevas canciones y sonidos de La Granja
 
 [🛒 Comprar!!!]({{< param buyurl >}})

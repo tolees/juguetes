@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Clementoni
 - Panorama del puente de Brooklyn en Nueva York
 - Elegante línea de puzles hecha en Italia
+- Marca: Clementoni
 - Hecho con materiales reciclables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

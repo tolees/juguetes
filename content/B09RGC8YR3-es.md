@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora el mundo de las tierras intermedias
-- Multijugador
 - Un nuevo mundo de fantasía
+- Multijugador
 - Un sistema de juego que definirá el género
+- Explora el mundo de las tierras intermedias
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RGC8YR3{{</world>}}

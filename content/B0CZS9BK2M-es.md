@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estas os presentarán nuevos desafíos y os ayudarán a superar vuestra puntuación en partidas posteriores.
 - Cuantos más puntos obtengáis, más losetas nuevas podréis desbloquear para añadir a vuestro paisaje
-- Juego ganador del Spieldesjahres 2023. Juego del año en Alemania.
+- Estas os presentarán nuevos desafíos y os ayudarán a superar vuestra puntuación en partidas posteriores.
 - Dorfromantik es un juego cooperativo de colocación de losetas en el que colaboraréis para crear un maravilloso paisaje de losetas hexagonales mientras completáis las misiones que os requieren sus habitantes.
+- Juego ganador del Spieldesjahres 2023. Juego del año en Alemania.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZS9BK2M{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño: 69,3 x 49,3 cm
-- Edad recomendada: a partir de 12 años
 - Puzle de 1000 piezas
+- Edad recomendada: a partir de 12 años
 - Puzles prémium de Schmidt, con calidad a la que puedes agarrar
+- Tamaño: 69,3 x 49,3 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQQZBX9{{</world>}}

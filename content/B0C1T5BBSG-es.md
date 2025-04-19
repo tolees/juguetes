@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrolla tu tecnología, protege tu cultura y construye asombrosas maravillas
+- Elige una de las cinco civilizaciones del juego, y conduce a tu pueblo hacia la gloria eterna
 - Dirige tu civilización a través de las eras y conquista nuevas tierras
 - Monumental es un juego de civilizaciones para 1-4 participantes
 - El destino de tu civilización recae sobre tus hombros
-- Elige una de las cinco civilizaciones del juego, y conduce a tu pueblo hacia la gloria eterna
+- Desarrolla tu tecnología, protege tu cultura y construye asombrosas maravillas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1T5BBSG{{</world>}}

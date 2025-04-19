@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Muñeca Angel High; Pintalabios, maquillaje y alas que cambian de color con agua con hielo; viste y peina a tu Angel High con su atuendo de moda y ponle su glamorosa ala de ángel para darle el toque final
 - 10 extensiones de pelo diferentes que cambian de color
 - Extensión de pelo par que puedas combinar tu Angel High
+- Muñeca Angel High; Pintalabios, maquillaje y alas que cambian de color con agua con hielo; viste y peina a tu Angel High con su atuendo de moda y ponle su glamorosa ala de ángel para darle el toque final
 - Utiliza la bola/cápsula como expositor de muñecas
 - Pinza para el pelo con alas para tu propio pelo, para que te puedas combinar con tu muñeca Angel High
 

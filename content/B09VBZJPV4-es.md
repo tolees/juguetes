@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los escape room de la vida real te retan, en sentido literal, a escapar de una sala en un plazo de 60 minutos.
-- Con UNLOCK! podrás vivir esta emocionante experiencia sin tener que salir de casa.
 - 3 Aventuras (180 cartas)
-- de 1 a 6 jugadores. A partir de 10 años de edad.
 - Un juego de cartas cooperativo inspirado en los Escape Room.
+- de 1 a 6 jugadores. A partir de 10 años de edad.
+- Con UNLOCK! podrás vivir esta emocionante experiencia sin tener que salir de casa.
+- Los escape room de la vida real te retan, en sentido literal, a escapar de una sala en un plazo de 60 minutos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VBZJPV4{{</world>}}

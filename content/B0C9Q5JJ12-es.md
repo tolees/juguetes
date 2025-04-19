@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- EQUIPAMIENTO COMPLETO: Incluye alas desplegables para ponerlas en modo combate y bahía para el droide y más
-- TRIPULACIÓN ICÓNICA: Contiene figuras de Poe Dameron y BB-8 de 2,5 cm
-- VEHÍCULO ICÓNICO: destruye la BASE STARKILLER con el T-70 X-WING de POE DAMERON
 - ESCALA AUTÉNTICA: el vehículo de 12cm presenta detalles increíbles y una escala auténtica. PRODUCTO OFICIAL: producto de STAR WARS con licencia oficial.
+- VEHÍCULO ICÓNICO: destruye la BASE STARKILLER con el T-70 X-WING de POE DAMERON
+- TRIPULACIÓN ICÓNICA: Contiene figuras de Poe Dameron y BB-8 de 2,5 cm
+- EQUIPAMIENTO COMPLETO: Incluye alas desplegables para ponerlas en modo combate y bahía para el droide y más
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9Q5JJ12{{</world>}}

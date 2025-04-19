@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hay cientos de productos a los que ponerles precio
 - Participa en el programa de la tele con tu familia y amigos sin moverte de casa
-- ¿Tienes ganas de divertirte? Con el juego de El Precio Justo, lo harás
-- Producto distribuido oficialmente en España por BIZAK.
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Puja, juega a los minijuegos del programa, tira de la ruleta y clasifícate para el Escaparate Final
 - Instrucciones, 300 cartas de objeto, 8 minijuegos, 1 tablero escaparate final, 1 ruleta, 4 pizarras de boli, 4 bolis para pizarra, 1 bloc de ranking de la partida
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Producto distribuido oficialmente en España por BIZAK.
+- ¿Tienes ganas de divertirte? Con el juego de El Precio Justo, lo harás
+- Hay cientos de productos a los que ponerles precio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096XN9YFV{{</world>}}

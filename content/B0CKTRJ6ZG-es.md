@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juego para toda la familia, a partir de 6 años
 - Entre la vegetación, se esconden animales que es mejor que evitéis a toda costa
-- Quién recolectará más plantas sin molestar a los animales
 - Si queréis adentraros en pleno corazón de la jungla para descubrir sus plantas más exóticas, tendréis que ir con mucho cuidado
+- Quién recolectará más plantas sin molestar a los animales
+- Un juego para toda la familia, a partir de 6 años
 - De 2 a 4 jugadores y 20 minutos de duración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

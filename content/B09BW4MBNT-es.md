@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¡Salva la ciudad de Hot Wheels City de Dante, el feroz dragón que come coches y destruye edificios! ¡Los niños lanzan sus Hot Wheels hacia la bestia para derribarla y rescatar la ciudad!
 - A los niños de 3 a 8 años les encantarán los desafíos y la emoción que Hot Wheels City Dragon Drive Firefight inspira. Incluye 1 vehículo Hot Wheels para que la diversión empiece nada más abrir la caja.
-- Mueve la palanca para dar vida a Dante y, a continuación, tira hacia atrás para lanzar el coche por su cuerpo, que es una pista. Lanza el coche por el looping para contraatacar.
 - Este conjunto de juego basado en una estación de bomberos es un escenario épico en el que los niños podrán desarrollar sus habilidades narrativas a través del juego.
 - Conecta este conjunto a otros conjuntos Hot Wheels para crear un mundo único de acción con acrobacias y juego contra némesis.
-- ¡Salva la ciudad de Hot Wheels City de Dante, el feroz dragón que come coches y destruye edificios! ¡Los niños lanzan sus Hot Wheels hacia la bestia para derribarla y rescatar la ciudad!
+- Mueve la palanca para dar vida a Dante y, a continuación, tira hacia atrás para lanzar el coche por su cuerpo, que es una pista. Lanza el coche por el looping para contraatacar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BW4MBNT{{</world>}}

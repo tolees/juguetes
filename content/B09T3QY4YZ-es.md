@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONTROLLER INALÁMBRICO, ERGONÓMICO Y FÁCIL DE USAR: los niños recorrerán las misiones de rescate completando sus actividades, podrán guardar sus mejores puntuaciones y aprenderán junto a sus amigos de la Patrulla Canina.
-- VERSIÓN ESPAÑOLA, juguete para niños +3 años
-- ¡LA PLUG&PLAY EDUCATIVA para los peques! Aprende y diviértete mientras juegas con Patrulla Canina ¡al rescate!
-- PERCEPCIÓN VISUAL, Taller de figuras: Ayuda a Tracker y Rocky a reparar los vehículos con las figuras. VISIÓN ESPACIAL ¡Chase en acción! Salta, corre y conduce el camión de policía para completar la misión.
-- VTECH CUIDA DEL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
-- PLUG & PLAY ¡ENCHUFA Y LISTOS! Conecta al puerto HDMI del televisor y empieza a jugar. Sin instalaciones complicadas ni descargas. Todo en un entorno completamente seguro.
 - DESARROLLADO POR EXPERTOS EN EDUCACIÓN: Contenido educativo desarrollado en España, en colaboración con profesores y especialistas en Desarrollo Infantil.
 - RAZONAMIENTO LÓGICO, Bailando con Rubble: Debe encontrar rápidamente la combinación de pasos de baile de Rubble. ESTRELLAS DE ORO: Logrando la máxima puntuación en cada misión será un miembro honorífico de la Patrulla Canina. DESAFÍO RÁPIDO: En este menú, pondrá a prueba y mejorará sus destrezas en los juegos educativos.
+- VTECH CUIDA DEL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
+- CONTROLLER INALÁMBRICO, ERGONÓMICO Y FÁCIL DE USAR: los niños recorrerán las misiones de rescate completando sus actividades, podrán guardar sus mejores puntuaciones y aprenderán junto a sus amigos de la Patrulla Canina.
+- PERCEPCIÓN VISUAL, Taller de figuras: Ayuda a Tracker y Rocky a reparar los vehículos con las figuras. VISIÓN ESPACIAL ¡Chase en acción! Salta, corre y conduce el camión de policía para completar la misión.
+- ¡LA PLUG&PLAY EDUCATIVA para los peques! Aprende y diviértete mientras juegas con Patrulla Canina ¡al rescate!
+- VERSIÓN ESPAÑOLA, juguete para niños +3 años
+- PLUG & PLAY ¡ENCHUFA Y LISTOS! Conecta al puerto HDMI del televisor y empieza a jugar. Sin instalaciones complicadas ni descargas. Todo en un entorno completamente seguro.
 - 12 MISIONES EDUCATIVAS PARA APRENDER DIVIRTIÉNDOTE: V.Smile TV es la nueva Plug&Play de VTech, donde jugar y aprender es tan sencillo como encender la tele, ¡pero mucho más divertido!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

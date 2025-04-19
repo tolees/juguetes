@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Arkham Horror es un juego cooperativo. Todos los jugadores colaboran entre sí y ganan o pierden la partida como equipo. Cada jugador controla a un intrépido investigador, uno de los pocos individuos excepcionales que están al tanto del peligro que se cierne sobre nuestro mundo.
-- Terribles criaturas procedentes de más allá del tiempo y el espacio amenazan la ciudad de Arkham.
-- Con suerte, a lo largo de este periplo los investigadores reunirán las pistas y recursos necesarios para enfrentarse a los Primigenios y, en última instancia, frustrar sus malvados designios.
 - Los investigadores deben explorar la ciudad para descubrir lugares, personas y criaturas de naturaleza tanto ordinaria como sobrenatural.
 - Los jugadores deben unir fuerzas para evitar su inminente descenso a la locura y destrucción. Si no se toman medidas, estos antiguos y malignos seres despertarán, arrasando no sólo Arkham, sino también el resto de nuestro mundo.
+- Terribles criaturas procedentes de más allá del tiempo y el espacio amenazan la ciudad de Arkham.
+- Arkham Horror es un juego cooperativo. Todos los jugadores colaboran entre sí y ganan o pierden la partida como equipo. Cada jugador controla a un intrépido investigador, uno de los pocos individuos excepcionales que están al tanto del peligro que se cierne sobre nuestro mundo.
+- Con suerte, a lo largo de este periplo los investigadores reunirán las pistas y recursos necesarios para enfrentarse a los Primigenios y, en última instancia, frustrar sus malvados designios.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MXS7DVL{{</world>}}

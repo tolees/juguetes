@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Descubre la versión Access+ de Timeline.
-- Estimulan una amplia variedad de funciones cognitivas y promueven interacciones sociales en un entorno seguro y positivo.
 - La línea de juegos Access+ se ha adaptado expresamente como ayuda en la intervención de trastornos cognitivos.
+- Estimulan una amplia variedad de funciones cognitivas y promueven interacciones sociales en un entorno seguro y positivo.
 - Probados y validados por profesionales de la medicina y el ocio
 - Los juegos Access+ se centran en la accesibilidad y la facilidad de uso.
 

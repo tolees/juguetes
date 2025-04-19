@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puzzles infantiles recomendados a partir de 24 meses.
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
-- Actividad perfecta para desarrollar la motricidad fina, la creatividad y la memoria visual. Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños.
-- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
 - Incluye 5 puzzles progresivos de cartón reciclado con 2/2/3/3/4🧩 cada uno.
+- Actividad perfecta para desarrollar la motricidad fina, la creatividad y la memoria visual. Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños.
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
+- Puzzles infantiles recomendados a partir de 24 meses.
+- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0793GSWXG{{</world>}}

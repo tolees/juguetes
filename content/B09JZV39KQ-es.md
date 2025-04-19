@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Agujas y detalles iluminados: las agujas flexibles se iluminan cuando agarras el mango. Las áreas de acento adicionales también se iluminan en el blaster. Funciona con 6 pilas alcalinas AA de 1,5 V (no incluidas)
 - Modo de visualización y soporte de visualización: el blaster tiene un modo de visualización para que puedas activar todas las funciones de iluminación y colocar el blaster en el soporte incluido para crear una visualización llamativa
-- NERF Réplica de lanzador Halo NEEDLER de LMTD: este lanzador de dardos está inspirado en el icónico blaster de la franquicia de videojuegos Halo e incluye 10 dardos de espuma Nerf Elite y un soporte de exhibición
 - Tambor giratorio de 10 dardos y 10 dardos Nerf Elite: abre el escudo para acceder al tambor para facilitar la carga de los dardos. Tira del gatillo para desatar 10 dardos seguidos. Incluye 10 dardos de espuma oficiales Nerf Elite
 - Tarjeta de juego con contenido en el juego y embalaje premium: incluye una tarjeta con un código para desbloquear contenido en el juego Halo Infinite. * Todo viene en un embalaje premium que es ideal para exhibir
-- Agujas y detalles iluminados: las agujas flexibles se iluminan cuando agarras el mango. Las áreas de acento adicionales también se iluminan en el blaster. Funciona con 6 pilas alcalinas AA de 1,5 V (no incluidas)
+- NERF Réplica de lanzador Halo NEEDLER de LMTD: este lanzador de dardos está inspirado en el icónico blaster de la franquicia de videojuegos Halo e incluye 10 dardos de espuma Nerf Elite y un soporte de exhibición
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JZV39KQ{{</world>}}

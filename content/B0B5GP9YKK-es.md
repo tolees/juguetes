@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mundos de aventura
 - Un clásico modernizado
 - Saber moverse
+- Mundos de aventura
 - Varios modos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

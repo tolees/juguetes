@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Valores: favorece el desarrollo de la habilidad manual, la psicomotricidad, la lógica, la concentración y el aprendizaje de formas y colores
-- Juego: cada pieza tiene una forma geométrica con orificios que los peques deberán encajar en la columna correspondiente
-- Juego de formas geométricas de madera WOOMAX
-- Material: combinan plástico y madera natural con textura suave y bordes redondeados
 - Edad: se reocmienda a partir de los 12 meses
+- Valores: favorece el desarrollo de la habilidad manual, la psicomotricidad, la lógica, la concentración y el aprendizaje de formas y colores
+- Material: combinan plástico y madera natural con textura suave y bordes redondeados
+- Juego de formas geométricas de madera WOOMAX
+- Juego: cada pieza tiene una forma geométrica con orificios que los peques deberán encajar en la columna correspondiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098F3CSHX{{</world>}}

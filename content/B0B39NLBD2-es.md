@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Increíble figura de acción de BRAWL STARS Recrea las escenas de aventuras del juego con estas fantásticas figuras de gran nivel de detalle.
-- Cajas sorpresa con figuras coleccionables de 4 cm
 - Ya están aquí las figuras de los personajes del juego multijugador de combate, Brawl Stars
+- Cajas sorpresa con figuras coleccionables de 4 cm
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat bizak.es)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

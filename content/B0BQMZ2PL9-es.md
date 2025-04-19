@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CONSIGUE UNO DE LOS CAPITANES PLATEADOS! - Pack con 4 SuperThings, contiene una figura plateada asegurada
-- DESCUBRE LOS NUEVOS EXOSKELETONS - Estas armaduras con sus brazos móviles y ataques especiales no tienen rival! Fruto de la tecnología del Professor K, recibieron el poder neón de ColorFlash. y ahora son aún más imparables
 - DIVERSIÓN Y AVENTURAS ÚNICAS - Los SuperThings son objetos cotidianos que han cobrado vida. Ahora tienen nuevos compañeros que son los Kazoom Kids, niños transformados también en héroes y villanos por el poder del Kazoom y viven todos en Kaboom City. Puedes descubrir o seguir las aventuras de estas figuras de acción en el canal de YouTube de Magicbox (disponible en español y en otros idiomas)
 - ESCOGE la COMBINACIÓN QUE PREFIERAS - Opción de escoger el pack de 6 específico que se desee. Este pack incluye 4 SuperThings (el capitán plateado Drummer Bummer, el SuperThing con efecto neón Catknit, el SuperThing Power Pudding, 1 figura SuperThings sorpresa) y 2 Exoskeletons (Water Whirl & Slime Slicer)
+- DESCUBRE LOS NUEVOS EXOSKELETONS - Estas armaduras con sus brazos móviles y ataques especiales no tienen rival! Fruto de la tecnología del Professor K, recibieron el poder neón de ColorFlash. y ahora son aún más imparables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQMZ2PL9{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maletín en el que podrás guardar todos los accesorios
-- Desarrolla la imaginación y la creatividad
 - Incluye dos figuras y accesorios
 - Contiene 7 piezas
+- Maletín en el que podrás guardar todos los accesorios
+- Desarrolla la imaginación y la creatividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01B138IQW{{</world>}}

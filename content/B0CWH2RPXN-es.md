@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regalo LEGO Star Wars para niños y niñas mayores de 6 años: esta nave estelar de juguete construida con ladrillos LEGO es un divertido regalo solo porque sí para niños y niñas de 6 años en adelante y cualquier fan de Star Wars
 - Una ayuda práctica: descubre las intuitivas instrucciones en la app LEGO Builder, donde los constructores y las constructoras podrán ver una versión digital 3D del modelo mientras lo construyen y desarrollan nuevas habilidades
-- Juguetes de construcción creativa para todas las edades: los sets LEGO Star Wars coleccionables ofrecen a niños y fans adultos de Star Wars la oportunidad de crear sus propias aventuras o, simplemente, de exponer las maquetas construibles
-- El primer modelo LEGO construido con ladrillos del Ala-Y del Capitán Rex: este caza estelar LEGO Star Wars en miniatura tiene una cabina con espacio para una minifigura LEGO y 2 cañones que disparan
+- Regalo LEGO Star Wars para niños y niñas mayores de 6 años: esta nave estelar de juguete construida con ladrillos LEGO es un divertido regalo solo porque sí para niños y niñas de 6 años en adelante y cualquier fan de Star Wars
 - Microfighters LEGO Star Wars coleccionables para peques: este juguete de construcción se puede combinar de forma divertida con otros Microfighters LEGO Star Wars (a la venta por separado) para ampliar aún más las posibilidades de juego
+- El primer modelo LEGO construido con ladrillos del Ala-Y del Capitán Rex: este caza estelar LEGO Star Wars en miniatura tiene una cabina con espacio para una minifigura LEGO y 2 cañones que disparan
 - Vehículo LEGO Star Wars de juguete a microescala de construcción rápida: Anima a tu peque a crear sus propias aventuras inspiradas en Star Wars: Las Guerras Clon con la nave estelar de juguete del set Microfighter: Ala-Y del Capitán Rex
 - Minifigura LEGO del Capitán Rex: una divertida idea de regalo de fantasía para niños creativos, este juego construible incluye la minifigura del Capitán Rex, el personaje de Star Wars, con 2 pistolas bláster para cumplir misiones llenas de acción
+- Juguetes de construcción creativa para todas las edades: los sets LEGO Star Wars coleccionables ofrecen a niños y fans adultos de Star Wars la oportunidad de crear sus propias aventuras o, simplemente, de exponer las maquetas construibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RPXN{{</world>}}

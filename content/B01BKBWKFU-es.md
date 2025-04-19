@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El clásico juego de dibujos rápidos desde 1985.
 - Incluye dos rotuladores de tinta borrable, dos tableros para dibujar que se pueden borrar y una categoría de pistas de cultura popular actualizada.
 - No hace falta que seas un artista. De hecho, si se te da mal dibujar, el juego es todavía más divertido.
-- El clásico juego de dibujos rápidos desde 1985.
 - El juego incluye dos niveles de pistas (120 para adultos, 80 infantiles), por lo que es perfecto para jugadores de todas las edades.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

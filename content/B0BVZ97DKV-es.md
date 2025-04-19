@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un debut delicioso
 - Un cambio de imagen maravilloso
+- Un debut delicioso
 - Una historia contada con canciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

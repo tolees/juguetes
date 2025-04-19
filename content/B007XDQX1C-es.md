@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temática: juego cooperativo de mesa
 - Edad mínima recomendada de 10 años
+- Temática: juego cooperativo de mesa
 - La isla prohibida es un juego cooperativo familiar donde entraréis en la piel de 4 aventureros que deben recuperar los tesoros de una isla
 - Premio juego del año 2011
 - Duración aproximada de la partida 30 min

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Mézclalo todo con los nuevos personajes y eventos; y fácil ita los retos con las cuarentenas; bienvenido a pandemic, estado de emergencia
 - Ante una enfermedad resistente al tratamiento, enfermedades que pasan de los animales a los seres humanos y crisis imprevisibles
 - Los jugadores deberán actuar a contrarreloj para salvar a la humanidad
-- Mézclalo todo con los nuevos personajes y eventos; y fácil ita los retos con las cuarentenas; bienvenido a pandemic, estado de emergencia
 - Podrás hacer frente a los retos supervirus, zonas de interior o evento de emergencia
 - Solo se requiere el juego básico pandemic para jugar; compatible con al límite. Y en el laboratorio
 
