@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desarrollo la creatividad y la imaginación
-- Marca del producto: Hasbro Gaming
 - Para las fiestas, las noches de juegos o como una actividad divertida para educar en casa
+- Marca del producto: Hasbro Gaming
 - Las tarjetas de acción les ofrecen a los jugadores opciones para la manera en la que se desarrollan sus aventuras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

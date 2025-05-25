@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este recuerdo de Harry Potter es la edición especial para coleccionistas y contiene 64 fichas con imágenes de 32 de los personajes y lugares más queridos de la saga. Un regalo ideal para todos los niños y niñas, pero también para cualquier apasionado del mágico mundo de Harry Potter.
 - El Memory es uno de los grandes juegos de mesa clásicos de Ravensburger y sigue divirtiendo a generaciones enteras de familias
+- Este recuerdo de Harry Potter es la edición especial para coleccionistas y contiene 64 fichas con imágenes de 32 de los personajes y lugares más queridos de la saga. Un regalo ideal para todos los niños y niñas, pero también para cualquier apasionado del mágico mundo de Harry Potter.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSXLV41B{{</world>}}
