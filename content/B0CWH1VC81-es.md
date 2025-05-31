@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipos esenciales: este set permite conocer con mayor profundidad las misiones Apolo e incluye un equipo de comunicaciones, herramientas para recoger muestras lunares y muchos más accesorios
+- Un regalo para adultos interesados en la NASA y el espacio exterior: la maqueta para adultos LEGO es una gran idea de regalo para animar a hombres y mujeres fans del espacio a aprender más sobre las misiones Apolo
 - Instrucciones de construcción 3D: despega rumbo a una gratificante aventura de construcción con LEGO Builder, una app donde puedes acercar y girar una versión 3D de tu modelo, seguir tus progresos y guardar sets
 - Róver de la NASA para adultos: practica la atención plena con un proyecto diseñado para que disfrutes creando el róver lunar y los equipos, como el juego de baterías, la unidad de comunicaciones y los elementos de calefacción y refrigeración
-- Un regalo para adultos interesados en la NASA y el espacio exterior: la maqueta para adultos LEGO es una gran idea de regalo para animar a hombres y mujeres fans del espacio a aprender más sobre las misiones Apolo
-- Construye una maqueta LEGO Technic realista de un róver lunar: esta maqueta para adultos de un vehículo de exploración lunar para adultos cuenta con infinidad de detalles, como asientos, dirección, suspensión y herramientas científicas
 - Un modelo para fans de la NASA: recuerda la misión Apolo 17 con una maqueta de exposición formada por el vehículo de exploración lunar y 3 detallados equipos acoplables, cada uno con su propia placa informativa, como decoración del hogar y la oficina
+- Equipos esenciales: este set permite conocer con mayor profundidad las misiones Apolo e incluye un equipo de comunicaciones, herramientas para recoger muestras lunares y muchos más accesorios
+- Construye una maqueta LEGO Technic realista de un róver lunar: esta maqueta para adultos de un vehículo de exploración lunar para adultos cuenta con infinidad de detalles, como asientos, dirección, suspensión y herramientas científicas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWH1VC81{{</world>}}
