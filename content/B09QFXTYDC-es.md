@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sorprende a los peques de todas las edades con la increíble gama de regalos de cumpleaños, fiestas infantiles y ocasiones especiales de LEGO Star Wars
-- Encuentra instrucciones ilustradas paso a paso en la caja y consulta la app gratuita Instrucciones de Montaje LEGO para acceder a las herramientas digitales de zoom, rotación y visualización
-- El coleccionable de Star Wars también cuenta con asiento para el artillero clon del 212, 6 cañones bláster, 2 elementos que representan detonadores térmicos y muchas sorpresas más
 - Revive la Batalla de Utapau con este juguete de construcción LEGO Star Wars, incluye un caminante AT-TE con patas articuladas, cañón bláster elevable de 360 grados con 2 cañones y espacio para 7 mini figuras LEGO
-- Los peques podrán revivir las épicas batallas de la película Star Wars: La Venganza de los Sith y cuando terminen, exponer el set en su habitación y sorprender a sus amigos
-- Cuenta con un mango extensible con el que los niños pueden levantar y mover el AT-TE, un vehículo de juguete con cabina desmontable con espacio para una mini figura y 2 cabinas detalladas de los Soldados Clon
 - Incluye 5 mini figuras LEGO del Comandate Cody, un artillero clon 212, 3 soldados clon de la Legión 212, 3 figuras LEGO de droides de combate, armas de juguete y un pequeño droide araña
+- Cuenta con un mango extensible con el que los niños pueden levantar y mover el AT-TE, un vehículo de juguete con cabina desmontable con espacio para una mini figura y 2 cabinas detalladas de los Soldados Clon
+- Sorprende a los peques de todas las edades con la increíble gama de regalos de cumpleaños, fiestas infantiles y ocasiones especiales de LEGO Star Wars
+- El coleccionable de Star Wars también cuenta con asiento para el artillero clon del 212, 6 cañones bláster, 2 elementos que representan detonadores térmicos y muchas sorpresas más
+- Los peques podrán revivir las épicas batallas de la película Star Wars: La Venganza de los Sith y cuando terminen, exponer el set en su habitación y sorprender a sus amigos
+- Encuentra instrucciones ilustradas paso a paso en la caja y consulta la app gratuita Instrucciones de Montaje LEGO para acceder a las herramientas digitales de zoom, rotación y visualización
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QFXTYDC{{</world>}}
