@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta figura de Jimin está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
-- Tienen el pelo largo y son articuladas y adaptables: ¡puedes mover sus brazos, piernas y cabezas
 - ¡Muestra tu amor por BTS con la colección oficial de los muñecos de moda que representan a los siete artistas
 - También están disponibles (se venden por separado) las figuras de moda inspiradas en los otros seis miembros de BTS: RM, Jin, SUGA, J-hope, V y Jung Kook. ¡Colecciónalos todos
+- Esta figura de Jimin está inspirada en el inolvidable traje personalizado que lleva en el vídeo musical "Idol" y está diseñada con todo detalle para reproducir su estilo personal
+- Tienen el pelo largo y son articuladas y adaptables: ¡puedes mover sus brazos, piernas y cabezas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NQLVYBF{{</world>}}

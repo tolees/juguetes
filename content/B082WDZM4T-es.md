@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los jugadores pueden ayudar a LEGO Mario (figura no incluida) a encontrar los bloques 1-2-3 escondidos en el árbol, detrás de la puerta de una de las casas Toad y en el cofre del tesoro, y a saltar sobre ellos en el orden correcto para ganar más monedas digitales.
 - El juego modular, que mide aproximadamente 17 cm de altura, 44 cm de anchura y 41 cm de profundidad en la composición básica, se puede reconstruir y combinar de muchas maneras con el pack inicial y otros sets de expansión.
 - Este juego de juguetes LEGO Super Mario cuenta con casas Toad, un árbol, un cofre del tesoro, plataformas deslizantes y giratorias, 10 ladrillos de acción y figuras de Toad, Toadette, un Goomba y 2 Cheep Cheeps para pasarlo genial jugando durante horas.
-- La app gratuita LEGO Super Mario incluye instrucciones de construcción digitales y útiles herramientas de visualización, así como ideas para poner en práctica otras formas creativas de jugar, ¡y mucho más! Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com
+- Los jugadores pueden ayudar a LEGO Mario (figura no incluida) a encontrar los bloques 1-2-3 escondidos en el árbol, detrás de la puerta de una de las casas Toad y en el cofre del tesoro, y a saltar sobre ellos en el orden correcto para ganar más monedas digitales.
 - Este juguete LEGO de 464 piezas es un divertido regalo de cumpleaños o Navidad para niños a partir de 8 años, que podrán construir sus propios niveles exclusivos y añadirlos al set Pack Inicial: Aventuras con Mario (71360).
+- La app gratuita LEGO Super Mario incluye instrucciones de construcción digitales y útiles herramientas de visualización, así como ideas para poner en práctica otras formas creativas de jugar, ¡y mucho más! Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com
 - Los niños pueden añadir más personajes populares, ladrillos de acción y divertidos desafíos a su set LEGO Super Mario Pack Inicial: Aventuras con Mario con el vistoso y reconstruible Set de Expansión: Caza del tesoro de Toad (71368).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

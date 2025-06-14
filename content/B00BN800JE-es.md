@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Duración 60 minutos
-- 2 jugadores
 - En Tuareg, los jugadores adoptan el papel de jefes de clanes rivales que compiten por conseguir los mejores tratos en el comercio de sal, pimienta o dátiles, y los mejores enclaves para sus caravanas
-- Juego de Andreas Steiger
-- Nominado a mejor juego para expertos en Alemania 2012
 - Duración aproximada de la partida 60 min
+- Juego de Andreas Steiger
+- 2 jugadores
+- Nominado a mejor juego para expertos en Alemania 2012
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BN800JE{{</world>}}

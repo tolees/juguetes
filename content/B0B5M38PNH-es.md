@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los detalles de diseño y personalidad del personaje se mantienen fieles al mundo único y pixelado de Minecraft Legends, algo ideal para coleccionar las figuras.
 - ¡Carga y lanza el mazo para aplastar a sus rivales!
 - Esta figura gigante de Guardián del portal de Minecraft Legends incluye 2 funciones de ataque.
+- Los detalles de diseño y personalidad del personaje se mantienen fieles al mundo único y pixelado de Minecraft Legends, algo ideal para coleccionar las figuras.
 - ¡Levanta y suelta el brazo para atacar!
 - Máxima diversión para los niños a los que les encanta explorar, crear y sobrevivir en el mundo de Minecraft.
 
