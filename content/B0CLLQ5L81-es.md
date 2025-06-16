@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puede que Shikoku sea la más pequeña de las cuatro islas principales de Japón, pero es de las que más actividad tiene
 - Los mercaderes cargan con sus baratijas en busca de beneficios sin igual
-- Los artistas se deleitan con cada paisaje y convierten cada encuentro en una experiencia de aprendizaje
 - Los peregrinos recorren el lugar y rinden pleitesía ante sus templos mientras contemplan los hermosos jardines
+- Los artistas se deleitan con cada paisaje y convierten cada encuentro en una experiencia de aprendizaje
+- Puede que Shikoku sea la más pequeña de las cuatro islas principales de Japón, pero es de las que más actividad tiene
 - Disfruta de esta versión del exitoso juego ahora para dos jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

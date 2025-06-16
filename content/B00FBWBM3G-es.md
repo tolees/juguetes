@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Por turnos, los jugadores van colocando sus 21 piezas en el tablero de juego, que deben estar en contacto con alguna pieza del mismo color, ¡pero solo pueden tocarse las esquinas!
 - El juego finaliza cuando los jugadores no pueden colocar más piezas. Entonces, ¡el jugador a quien le quedan menos piezas por colocar es el ganador!
-- ¡Marca tu territorio y protégelo colocando el mayor número de piezas en el tablero bloqueando estratégicamente a tus rivales!
 - Un juego de estrategia perfecto para toda la familia: ¡se aprende a jugar en menos de un minuto y ofrece divertidos desafíos para todas las edades!
+- Por turnos, los jugadores van colocando sus 21 piezas en el tablero de juego, que deben estar en contacto con alguna pieza del mismo color, ¡pero solo pueden tocarse las esquinas!
+- ¡Marca tu territorio y protégelo colocando el mayor número de piezas en el tablero bloqueando estratégicamente a tus rivales!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00FBWBM3G{{</world>}}

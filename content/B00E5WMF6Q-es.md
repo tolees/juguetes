@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 2 a 4 jugadores.
 - En la opción "Colores y Puntos", los más mayores podrán formar sus propias palabras cruzadas, igual que en el clásico Scrabble, aunque con un sistema de puntuación muy sencillo, adaptado para niños.
+- De 2 a 4 jugadores.
 - En la opción "Palabras y Dibujos", los jugadores de menor edad deberán cubrir con sus fichas las palabras escritas en el tablero, con la ayuda de divertidos dibujos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

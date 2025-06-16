@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un fantástico kit para crear un ecosistema en miniatura con un ambiente mágico, ¡al más puro estilo de Harry Potter!
-- Los más pequeños podrán divertirse utilizando y experimentando con semillas, la turba, arena, tierra... para cultivar un paisaje natural lleno de plantas alrededor de Hogwarts.
-- Un juego que se puede personalizar, conteniendo todos los componentes necesarios para decorar la habitación de los más pequeños.
 - Un juego que permitirá a los más pequeños divertirse mientras aprenden la importancia de cuidar las plantas.
+- Un fantástico kit para crear un ecosistema en miniatura con un ambiente mágico, ¡al más puro estilo de Harry Potter!
 - Contiene yeso de París, moldes y témperas de colores para crear la fantástica cabaña de Hagrid con las calabazas de su huerto.
+- Un juego que se puede personalizar, conteniendo todos los componentes necesarios para decorar la habitación de los más pequeños.
+- Los más pequeños podrán divertirse utilizando y experimentando con semillas, la turba, arena, tierra... para cultivar un paisaje natural lleno de plantas alrededor de Hogwarts.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097S57YDF{{</world>}}

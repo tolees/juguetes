@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deja que tu espiritu de lucha arda
-- El guerrero que siempre has querido ser
 - Una experiencia online definitiva
+- El guerrero que siempre has querido ser
+- Deja que tu espiritu de lucha arda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D14S1CN8{{</world>}}
