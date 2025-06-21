@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar ¡UNO!.
 - El juego viene en una colorida caja metálica para guardarlo mejor.
+- El objetivo es ser el primero en quedarse sin cartas en la mano, pero cuando te quede una sola carta no olvides gritar ¡UNO!.
+- ¡Todo el mundo disfruta con UNO: niños, adolescentes y adultos! ¡UNO es muy fácil y divertido! ¡Empieza a jugar y ya no podrás parar!
 - Se han añadido símbolos especiales a cada carta para ayudar a identificar su color (o colores). De esta forma, ¡los jugadores con CUALQUIER tipo de daltonismo podrán jugar fácilmente!
 - Este clásico juego de cartas de 2 a 10 jugadores está pensado para que estos se desafíen entre ellos individualmente o por equipos.
-- ¡Todo el mundo disfruta con UNO: niños, adolescentes y adultos! ¡UNO es muy fácil y divertido! ¡Empieza a jugar y ya no podrás parar!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000CFWFYM{{</world>}}

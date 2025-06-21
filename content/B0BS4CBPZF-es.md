@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- JUEGO COOPERATIVO DE MISTERIO: En este juego de escape y solución de misterios, los jugadores unen sus fuerzas y utilizan sus habilidades detectivescas para escapar del yate y resolver el caso del Capitán desaparecido. De 1 a 6 jugadores
 - PARA LAS NOCHES DE JUEGO EN FAMILIA Y CON AMIGOS: ¿Te gustan los juegos de detectives? Los jugadores a partir de 10 años pueden sumergirse en la experiencia inmersiva de un juego que se juega solo una vez y dejarse llevar por una historia inolvidable
-- DINÁMICO JUEGO DE MESA: Los jugadores recorren el tablero con sus peones explorando el yate. El tablero crece y cambia revelando pistas y habitaciones mientras los jugadores van resolviendo puzles que desbloquean el yate
 - ESCAPA DEL YATE, RESUELVE EL MISTERIO: Cluedo Sabotaje en Altamar ofrece la intriga del clásico juego de misterio Cluedo, con una historia nueva de misterio y un formato de juego de mesa de escape room
+- JUEGO COOPERATIVO DE MISTERIO: En este juego de escape y solución de misterios, los jugadores unen sus fuerzas y utilizan sus habilidades detectivescas para escapar del yate y resolver el caso del Capitán desaparecido. De 1 a 6 jugadores
+- DINÁMICO JUEGO DE MESA: Los jugadores recorren el tablero con sus peones explorando el yate. El tablero crece y cambia revelando pistas y habitaciones mientras los jugadores van resolviendo puzles que desbloquean el yate
 - REÚNE PISTAS, RESUELVE EL CASO: ¡Descubrid quién, qué y dónde para resolver el misterio y ganar! Buscad pistas y reunid evidencias para la solución final. Mientras más pistas reunáis, más fácil os será resolver hacer la acusación correcta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

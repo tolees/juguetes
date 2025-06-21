@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Embárcate en una peligrosa misión para descubrir el origen del estremecedor evento que ha sumido Hyrule en el caos.
-- Te aguarda un épico viaje en el que recorrerás las tierras y los vastos cielos de Hyrule en The Legend of Zelda: Tears of the Kingdom para Nintendo Switch
-- Sigue tu propio camino a lo largo y ancho de los inmensos paisajes de Hyrule y las extrañas islas que flotan en las alturas.
 - ¡Domina el poder de las nuevas habilidades de Link para diseñar y construir estupendas armas y vehículos!
+- Sigue tu propio camino a lo largo y ancho de los inmensos paisajes de Hyrule y las extrañas islas que flotan en las alturas.
 - The Legend of Zelda: Tears of The Kingdom es la secuela de The Legend of Zelda: Breath of the Wild
+- Te aguarda un épico viaje en el que recorrerás las tierras y los vastos cielos de Hyrule en The Legend of Zelda: Tears of the Kingdom para Nintendo Switch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09S4R3WT1{{</world>}}
