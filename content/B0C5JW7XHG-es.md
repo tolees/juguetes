@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hay 4 opciones de ladrido diferentes, pero esto no es todo ya que también podrás ponerle un nombre y responderá ante él
-- A través de su app podrás ver sus necesidades, si tiene hambre, si quiere pasear, jugar o dormir, no es necesaria para jugar con el
-- Con esta app también podremos alimentarle, enseñarle los trucos, elegir las luces e incluso crear varios Dog-es con distintos perfiles
-- Tiene la capacidad de sentir cuando le tocas, de escuchar tu voz, de mostrar mensajes con su cola y de cambiar las luces de su cuerpo
 - Dog-e es un perrito robot; tiene millones de combinaciones de luces que lo hacen diferente, puedes escoger el color de sus ojos, su cola, sus patas, su collar, la forma de sus ojos y el color de su corazón; Dog-e anda y corre como un perro de verdad; puedes enseñarle diferentes trucos
+- Hay 4 opciones de ladrido diferentes, pero esto no es todo ya que también podrás ponerle un nombre y responderá ante él
+- Tiene la capacidad de sentir cuando le tocas, de escuchar tu voz, de mostrar mensajes con su cola y de cambiar las luces de su cuerpo
+- Con esta app también podremos alimentarle, enseñarle los trucos, elegir las luces e incluso crear varios Dog-es con distintos perfiles
+- A través de su app podrás ver sus necesidades, si tiene hambre, si quiere pasear, jugar o dormir, no es necesaria para jugar con el
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5JW7XHG{{</world>}}

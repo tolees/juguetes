@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El clásico juego de cartas UNO es perfecto para una divertida noche de juegos con una temática inspirada en Jurassic World, Dominion
-- Al igual que en el juego clásico UNO, los jugadores hacen coincidir los los números y los símbolos con la carta que haya en la parte superior del montón de descarte
 - La regla especial pulgadasCorre pulgadas permite a los jugadores bloquear cualquier carta especial con un icono de dinosaurio
 - El juego cuenta con un mazo decorado con gráficos de la película de aventuras de dinosaurios
+- El clásico juego de cartas UNO es perfecto para una divertida noche de juegos con una temática inspirada en Jurassic World, Dominion
+- Al igual que en el juego clásico UNO, los jugadores hacen coincidir los los números y los símbolos con la carta que haya en la parte superior del montón de descarte
 - Es regalo para niños, adolescentes, adultos y noches de juego en familia con 2 a 10 jugadores a partir de 7 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

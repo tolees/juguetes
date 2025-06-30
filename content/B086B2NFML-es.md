@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El juego aprendo en positivo las emociones ofrece a los niños y niñas de entre 4 y 7 años una caja con material manipulativo para aprender a identificar y gestionar las distintas emociones
-- El material de la caja permite descubrir la importancia de las emociones y los sentimientos, desarrollar la capacidad de reconocerlos, comprenderlos y expresarlos, y a través del lenguaje verbal y no verbal, capacitar la resolución de conflictos
-- Habilidades/ características 20+ actividades para aprender jugando a reconocer las emociones y gestionarlas reconocer sentimientos y estados de ánimo expresar emociones con lenguaje verbal y no verbal tomar conciencia de las emociones propias y ajenas gestionar emociones y controlar impulsos generar empatía hacia los demás resolver conflictos de manera constructiva generar optimismo y pensamientos positivos
 - Contenido 20 cartas de emociones 10 cartas de situaciones y preguntas 10 cartas de gestión de emociones 30 fichas circulares con acciones y elementos cotidianos (personas, objetos, comida, etc; ) lámina de cara para crear emociones con 18 fichas de ojos y bocas intercambiables ruleta de emociones dado de actividades comecocos; Póster a doble cara, con ilustración y guía visual del contenido
+- El material de la caja permite descubrir la importancia de las emociones y los sentimientos, desarrollar la capacidad de reconocerlos, comprenderlos y expresarlos, y a través del lenguaje verbal y no verbal, capacitar la resolución de conflictos
+- El juego aprendo en positivo las emociones ofrece a los niños y niñas de entre 4 y 7 años una caja con material manipulativo para aprender a identificar y gestionar las distintas emociones
+- Habilidades/ características 20+ actividades para aprender jugando a reconocer las emociones y gestionarlas reconocer sentimientos y estados de ánimo expresar emociones con lenguaje verbal y no verbal tomar conciencia de las emociones propias y ajenas gestionar emociones y controlar impulsos generar empatía hacia los demás resolver conflictos de manera constructiva generar optimismo y pensamientos positivos
 - Los juegos educativos “Aprendo en positivo” están ideados para ofrecer a los más pequeños la posibilidad de aprender desde el respeto, de manera natural, autónoma y progresiva, sobre diversos ámbitos: matemáticas, letras, tiempo, animales, emociones y yoga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
