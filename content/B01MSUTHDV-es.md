@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maqueta de construcción de modelo de martín pescador: tómate un descanso y disfruta de una relajante experiencia con el set de construcción LEGO Icons Martín Pescador
-- Decoración de escritorio para el hogar o la oficina: añade un toque de naturaleza en cualquier espacio con la maqueta para montar y exponer LEGO Icons Martín Pescador
-- Proyecto de construcción creativa: este set incluye todo lo que necesitas para elaborar una maqueta LEGO del majestuoso martín pescador con un pez de presa, además de un escenario acuático del que emerge
 - Características y funciones: el modelo de martín pescador cuenta con cabeza y garras articuladas, y el escenario acuático con vegetación para construir sirve también como base para su exposición
-- Instrucciones de construcción digitales: la app LEGO Builder contiene una versión digital de las instrucciones de construcción que vienen con este set
-- Un regalo de construcción consciente para amantes de los pájaros: ofrece este set LEGO Icons como regalo de cumpleaños o de aniversario a cualquier observador de aves que disfrute con los pájaros tropicales, la decoración y la construcción con LEGO
+- Decoración de escritorio para el hogar o la oficina: añade un toque de naturaleza en cualquier espacio con la maqueta para montar y exponer LEGO Icons Martín Pescador
 - Proyectos LEGO para adultos: descubre un espacio para la relajación con la motivadora gama de sets de construcción creativa LEGO (a la venta por separado) diseñados específicamente para adultos
+- Proyecto de construcción creativa: este set incluye todo lo que necesitas para elaborar una maqueta LEGO del majestuoso martín pescador con un pez de presa, además de un escenario acuático del que emerge
+- Un regalo de construcción consciente para amantes de los pájaros: ofrece este set LEGO Icons como regalo de cumpleaños o de aniversario a cualquier observador de aves que disfrute con los pájaros tropicales, la decoración y la construcción con LEGO
+- Maqueta de construcción de modelo de martín pescador: tómate un descanso y disfruta de una relajante experiencia con el set de construcción LEGO Icons Martín Pescador
+- Instrucciones de construcción digitales: la app LEGO Builder contiene una versión digital de las instrucciones de construcción que vienen con este set
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSUTHDV{{</world>}}

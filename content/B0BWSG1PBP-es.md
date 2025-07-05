@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DESCODIFICAD EMOCIONANTES ENIGMAS: El infame elenco regresa... ¡y uno de ellos trata de robar los archivos de chantaje de Boddy! Los jugadores colaboran para descubrir quién fue mientras descifran enigmas que desbloquean nuevas pistas
-- UN EMOCIONANTE JUEGO COOPERATIVO DE UN SOLO USO: En este estratégico juego cinemático de un solo uso, los jugadores unen fuerzas y usan habilidades detectivescas para escapar del hotel y resolver el misterio. O puedes jugar solo para divertirte escapando de la habitación por tu propio esfuerzo
+- UN JUEGO DE ESCAPE Y SOLUCIÓN DE MISTERIOS: ¿Qué ocurre tras el asesinato de Boddy? La historia continúa en el juego Cluedo Escape: Misterio en el Hotel Black, trayendo la intriga del clásico Cluedo en un juego de mesa estilo escape de la habitación
 - EXPLORAD UN TABLERO DINÁMICO CON INNOVACIONES EN 3D: ¡Escapad del hotel a través de un tablero que se construye a medida que lo hace el suspense! Mientras los jugadores resuelven puzles, el tablero crece para dejar ver nuevas habitaciones y nuevos detalles
 - REUNID PISTAS: ¡Descubrid QUIÉN, DÓNDE y con QUÉ para ganar! Buscad pistas y reunid evidencias para la solución final. Cuanta más información consigan los jugadores, más fácil será hacer la acusación correcta.
-- UN JUEGO DE ESCAPE Y SOLUCIÓN DE MISTERIOS: ¿Qué ocurre tras el asesinato de Boddy? La historia continúa en el juego Cluedo Escape: Misterio en el Hotel Black, trayendo la intriga del clásico Cluedo en un juego de mesa estilo escape de la habitación
+- UN EMOCIONANTE JUEGO COOPERATIVO DE UN SOLO USO: En este estratégico juego cinemático de un solo uso, los jugadores unen fuerzas y usan habilidades detectivescas para escapar del hotel y resolver el misterio. O puedes jugar solo para divertirte escapando de la habitación por tu propio esfuerzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWSG1PBP{{</world>}}
