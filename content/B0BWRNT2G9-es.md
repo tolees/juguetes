@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡El destino de la galaxia está en tus manos!
-- A partir de 12 años de edad.
-- Con sus sencillas reglas podrás recrear el conflicto entre el Imperio Galáctico y la Alianza Rebelde en una emocionante confrontación directa.
 - ¡Recluta personajes, captura presas para cobrar sus recompensas, utiliza la Fuerza y destruye las bases enemigas!
 - Para 2 jugadores
+- Con sus sencillas reglas podrás recrear el conflicto entre el Imperio Galáctico y la Alianza Rebelde en una emocionante confrontación directa.
+- A partir de 12 años de edad.
+- ¡El destino de la galaxia está en tus manos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWRNT2G9{{</world>}}

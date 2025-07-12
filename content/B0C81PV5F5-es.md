@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juguete interactivo
 - Material de calidad
+- Juguete interactivo
 - Tucker el perro dormilón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Coche de súper espía con 1 figura y muchos accesorios
-- En la parte trasera el maletero tiene un doble fondo para ocultar los accesorios y herramientas de espionaje
 - El coche tiene luces de verdad con 2 posiciones; largas y cortas
 - Las figuras y los escenarios de pinypon action; además de ser muy divertidas; son ideales para el desarrollo de la motricidad fina; imaginación y el aprendizaje de vocabulario; recomendadas a partir de 4 años
+- Coche de súper espía con 1 figura y muchos accesorios
+- En la parte trasera el maletero tiene un doble fondo para ocultar los accesorios y herramientas de espionaje
 - El coche mide 22 x 10 x 8cm y la figura mide 8cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

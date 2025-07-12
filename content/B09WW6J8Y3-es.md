@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un gran taller de construcción para estimular la creatividad y la imaginación; una experiencia de juego que requiere concentración y precisión en todas las fases
+- Un juego pensado e ideado para enseñar a los más pequeños las distintas materias STEM (ciencia, tecnología, ingeniería y matemáticas), a través del juego y la diversión.
 - Los alerones ajustables suben y bajan, la carga se abre y dentro está el Canadarm, el brazo robótico que utilizan los astronautas en el espacio; Una experiencia de juego para acercarse al mundo de la mecánica y la ingeniería
 - Siguiendo las instrucciones de montaje en el manual o en la app, el niño descubre lo que se esconde tras la ilusión óptica: la tensegridad, un principio físico entero por descubrir; La nave espacial se desengancha de la base para jugar
-- Un juego pensado e ideado para enseñar a los más pequeños las distintas materias STEM (ciencia, tecnología, ingeniería y matemáticas), a través del juego y la diversión.
+- Un gran taller de construcción para estimular la creatividad y la imaginación; una experiencia de juego que requiere concentración y precisión en todas las fases
 - Una nave espacial para volar hacia s aventuras como un verdadero astronauta; La nave espacial puede construirse desde cero y, con su tensegridad, ¡parece flotar en el aire
 
 [🛒 Aquí!!!]({{< param buyurl >}})

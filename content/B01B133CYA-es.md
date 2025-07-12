@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye: coche con maletero con apertura
-- Figura de policía
 - De la colección "City Action"
+- Figura de policía
 - Contiene 30 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

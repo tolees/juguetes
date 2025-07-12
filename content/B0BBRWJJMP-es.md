@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Los niños podrán jugar con la casa de muñecas y explorar el jardín con Paisley, en él podrán hacer que toque la guitarra de juguete y saludar a la figura de la conejita Melody, ¡podrán darle de comer una zanahoria y pasar un día estupendo!
 - Entre los accesorios de esta casa de muñecas de LEGO Friends se incluye un cepillo, una guitarra, utensilios de cocina, comida de juguete y mucho más, ¡los niños pequeños no podrán parar de inventar nuevas historias!
-- Este juguete de construcción incluye un ladrillo de principiantes para que los peques puedan jugar nada más abrir la caja e instrucciones interactivas disponibles en la app LEGO Builder, ¡descubre toda una gama de intuitivas herramientas digitales!
-- Incluye 3 mini muñecas de Paisley, una tímida chica a la que le encanta la música, su hermana Ella y Jonathan; todos parte de la nueva generación de personajes de 2023 de LEGO Friends para inspirar nuevas aventuras
 - Esta casa de muñecas de juguete cuenta con un dormitorio y baño en el 2º piso que se desmonta para que los niños puedan explorar la cocina del primer piso, además de una acogedora sala de estar al aire libre con caseta para la figura del conejito
+- Este juguete de construcción incluye un ladrillo de principiantes para que los peques puedan jugar nada más abrir la caja e instrucciones interactivas disponibles en la app LEGO Builder, ¡descubre toda una gama de intuitivas herramientas digitales!
 - Descubre la casa de muñecas de Paisley de LEGO Friends, 2 pisos llenos de emocionantes detalles y funciones donde los niños de 4 años en adelante podrán jugar con las mini muñecas de Paisley, Ella y Jonathan y los accesorios incluidos
+- Incluye 3 mini muñecas de Paisley, una tímida chica a la que le encanta la música, su hermana Ella y Jonathan; todos parte de la nueva generación de personajes de 2023 de LEGO Friends para inspirar nuevas aventuras
 - Esta casa de juguete de LEGO Friends es una gran idea de regalo de cumpleaños o detalle para una ocasión especial para niñas y niños de 4 años en adelante amantes de las muñecas y los juguetes de construcción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

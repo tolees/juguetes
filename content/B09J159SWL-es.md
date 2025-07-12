@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Montaje fácil
 - Disco Duro SSD Samsung 980 PRO 1TB NVME M2 (Disipador)
+- Montaje fácil
 - Con velocidades de lectura de hasta 7.000 MB/s
 - Material resistente y duradero
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este juguete inspirado en el cole es óptimo para fomentar la creatividad de los niños y es un óptimo regalo de cumpleaños para niñas y niños amantes del universo LEGO Friends
 - Incluye las mini muñecas LEGO Friends de Aliya, Olly, Autumn, Ms. Malu Hale, Niko, Bunsen, el hámster de juguete de la clase, y divertidos accesorios como una cámara de vídeo, un ordenador portátil, un microscopio y material de bellas artes
-- Hay mucho por descubrir en la Escuela Internacional de Heartlake City: los niños podrán jugar a hacer manualidades en el aula de arte o jugar al baloncesto en la cancha, y cuando terminen las clases podrán andar en bici o monopatín de juguete
+- Este juguete inspirado en el cole es óptimo para fomentar la creatividad de los niños y es un óptimo regalo de cumpleaños para niñas y niños amantes del universo LEGO Friends
 - El universo de LEGO Friends se amplía, con nuevos personajes inspirados en las aficiones de los niños y ubicaciones de Heartlake City nunca vistas donde experimentar aventuras y juegos imaginativos
 - La escuela de juguete es modular, el edificio consta de secciones modulares que los niños pueden construir y reorganizar como quieran, hay aulas de arte y ciencias, baño, entrada con taquillas y una zona de recreo
+- Hay mucho por descubrir en la Escuela Internacional de Heartlake City: los niños podrán jugar a hacer manualidades en el aula de arte o jugar al baloncesto en la cancha, y cuando terminen las clases podrán andar en bici o monopatín de juguete
 - Los niños podrán interpretar creativas aventuras con el juguete de construcción LEGO Friends Escuela Internacional de Heartlake para niñas y niños de 8 años en adelante que incluye aulas, comedor, zona al aire libre y muchos accesorios para muñecas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

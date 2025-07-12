@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Elige las losetas del mismo color de un Expositor de fábrica o de la oferta general.
+- Alinea todas las losetas en una de tus líneas de patrón.
+- ¡Pon azulejos en el maravilloso Palacio de Évora y consigue puntos!
 - Tras más de 2 millones de copias vendidas, Azul regresa en formato mini. ¡Con esta nueva edición puedes jugar a este clásico donde quieras!
 - ¡Bienvenidos otra vez al Palacio Real de Évora!
-- Alinea todas las losetas en una de tus líneas de patrón.
-- Elige las losetas del mismo color de un Expositor de fábrica o de la oferta general.
-- ¡Pon azulejos en el maravilloso Palacio de Évora y consigue puntos!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2J52RMY{{</world>}}

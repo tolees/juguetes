@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juguete ideal para niños y niñas desde los 3 años de edad
 - Nancy también tiene accesorios súper chulos, como una cinta con flores en el pelo a juego con su look, unos pendientes de aro y unas botas azules
+- Un juguete ideal para niños y niñas desde los 3 años de edad
 - Su Outfit está compuesto por un vestido con volantes en las mangas y dibujos estampados; tiene una falda de tul rosa decorada con calaveras de colores y divertidas medias negras con decoración de esqueleto
-- La muñeca Nancy va vestida con el tradicional traje mejicano, siguiendo la tradición del Día de muertos
 - Además Nancy lleva el pelo liso largo de color castaño y la cara decorada con el maquillaje único de Catrina
 - Nancy, un día de Catrina es una muñeca preciosa inspirada en la popular Catrina Mexicana
+- La muñeca Nancy va vestida con el tradicional traje mejicano, siguiendo la tradición del Día de muertos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C81PKJ1S{{</world>}}

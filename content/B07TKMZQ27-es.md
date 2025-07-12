@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los jugadores deberán pasar las pruebas para ser el primero en conseguir 5 locus y así ser coronado como el nuevo rey loco.
 - Juego familiar y social para todo tipo de públicos.
-- Recomendado a partir de 10 años.
 - Versión española.
+- Los jugadores deberán pasar las pruebas para ser el primero en conseguir 5 locus y así ser coronado como el nuevo rey loco.
 - Contenido: 1 torre de la locura, 6 bases, 231 cartas, 10 cartas de locura final, 50 fichas de puntuación, 1 bloc de dibujo, 1 lápiz, 1 dado gigante, gafas distorsionadoras, 1 reloj de arena e instrucciones.
+- Recomendado a partir de 10 años.
 - Locuras es un divertidísimo juego de mesa que combina diferentes tipos de pruebas con un punto de locura: pruebas de dibujo, auditivas, de empatía con el resto de jugadores, de mímica, acusaciones ridículas, y una gran locura final.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

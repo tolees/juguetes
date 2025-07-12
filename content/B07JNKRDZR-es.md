@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡3 niveles de dificultad!
-- ¡usa tu memoria y tus reflejos para ser el primero en coger el tótem!
 - En el corazón de la selva, el león se ha quedado dormido
+- ¡usa tu memoria y tus reflejos para ser el primero en coger el tótem!
 - ¡Rápido! ¡Es tu oportunidad de salvar a los animales!
+- ¡3 niveles de dificultad!
 - A partir de 4 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

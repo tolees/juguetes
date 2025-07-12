@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bien entrenada y armada, esta horda supone una amenaza para Superhéroes y Héroes Zombis por igual.
+- Aprovechando el caos generalizado, Red Skull intenta tomar el poder valiéndose de una legión de soldados de Hydra zombis.
 - Defiende el Helicarrier de S.H.I.E.L.D. y asalta la base secreta de Hydra si no quieres ser aplastado por el puño implacable de Red Skull.
 - Marvel Zombies: Hydra Resurrection es una expansión para Marvel Zombies tanto para el modo Zombi como para el modo Héroe.
-- Aprovechando el caos generalizado, Red Skull intenta tomar el poder valiéndose de una legión de soldados de Hydra zombis.
 - Esta expansión requiere la caja básica de Marvel Zombies para jugar con el modo zombi, la caja básica de X-Men Resistance para jugar con el modo héroe, y ambas para jugar con el modo de lucha de equipos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

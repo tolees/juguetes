@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendado a partir de los 6 años.
 - Única versión del juego en Español.
-- Tendrás que moverte por todos lados, ¡a ver si eres capaz de completar cada misión!
 - Sigue las instrucciones de luz y de voz para cazar a los distintos Pokémon y añadirlos a tu colección electrónica de Pokémon.
+- Tendrás que moverte por todos lados, ¡a ver si eres capaz de completar cada misión!
+- Recomendado a partir de los 6 años.
 - Con tu detector de Pokémon y tu mapa de entrenador, lleva a cabo las distintas misiones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

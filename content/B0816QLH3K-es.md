@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso: aprox. 280 g
-- 32 orificios de ventilación del túnel de viento
 - Tecnología MIPS integrada
 - Carcasa de policarbonato In-Mold con carcasa interior de EPS
 - Sistema de ajuste Roc Loc 5
+- Peso: aprox. 280 g
+- 32 orificios de ventilación del túnel de viento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0816QLH3K{{</world>}}

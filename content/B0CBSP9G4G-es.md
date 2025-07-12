@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Edad: recomendado a partir de 6 años
 - Jugadores: juego pensado de 2 a 4 jugadores que podrán tomar los roles de Spider-Man, Spider Fantasma, Spider-Girl y Miles Morales
 - Defiende a tus superhéroes favoritos de los villanos con el juego de mesa Defence Game de Spider-Man
+- Edad: recomendado a partir de 6 años
 - Valores: desarrolla la socialización y fomenta el aprendizaje de reglas
 - Incluye: 4 superhéroes con soportes, 7 cartas de villanos, 1 spinner, 1 flecha para el spinner, 4 cartas marcapuntos, 22 fichas Thwip, 4 telarañas pegajosas e instrucciones
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido no disponible en otros formatos
-- Más Catan por menos precio
 - El mejor regalo en cualquier momento del año
+- Más Catan por menos precio
+- Contenido no disponible en otros formatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN3J4CMZ{{</world>}}

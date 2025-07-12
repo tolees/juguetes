@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Uncornio volador y figurita de Pinypon Estrella con decoración secreta
 - El unicornio tiene un mecanismo manual para mover las alas
-- El unicornio mide 10 x 12 x 13 cm y la figura de Pinypon mide unos 7 cm aprox: ambas figuras vienen decoradas con purpurina
 - El pack incluye un total de 32 pequeños accesorios para el Pinypon y para el Unicornio
+- El unicornio mide 10 x 12 x 13 cm y la figura de Pinypon mide unos 7 cm aprox: ambas figuras vienen decoradas con purpurina
 - La decoración secreta sólo se puede ver con La Estrella Mágica de Pinypon cuando ilumina con su luz especial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

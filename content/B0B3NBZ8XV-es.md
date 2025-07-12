@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - REGALOS PARA NIÑOS Y NIÑAS Y PARA TODA la FAMILIA: El juego de mesa Monopoly Lightyear de Disney y Pixar es un gran regalo para los fans de Buzz Lightyear y de Monopoly. Edad recomendada: a partir de 8 años
 - Monopoly LIGHTYEAR: Esta edición del juego de mesa Monopoly cuenta con diseño, personajes y componentes de juego inspirados en la película Lightyear de Disney y Pixar
-- DIVERSIÓN INTERGALÁCTICA: Compra tus lugares favoritos de la película y compite para construir Torres y Bases. Presta atención a las Cartas de Hipervelocidad y de Fusión Cristalina porque pueden llevarte directo a Zurg
 - INCLUYE 6 PEONES DE CARTÓN: Juega como uno de los iconos basados en Lightyear de Disney y Pixar: Sox, Zurg, ERIC, casco de Zap Patrol o mochila-propulsora
+- DIVERSIÓN INTERGALÁCTICA: Compra tus lugares favoritos de la película y compite para construir Torres y Bases. Presta atención a las Cartas de Hipervelocidad y de Fusión Cristalina porque pueden llevarte directo a Zurg
 - JUEGO DE MESA INFANTIL PARA TODA la FAMILIA: Las casillas del tablero son lugares, naves espaciales, insectos y Zyclopses inspirados en Lightyear de Disney y Pixar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

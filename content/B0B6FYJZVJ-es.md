@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Armas de guerra
 - Explora los reinos
+- Armas de guerra
 - Aquellos que desafían al destino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

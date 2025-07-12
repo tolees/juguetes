@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es un regalo perfecto para los fans de UNO a partir de 7 años.
+- No lo olvidéis, el jugador al que solo le quede una carta tiene que gritar ¡UNO!.
 - ¡Todas las cartas son comodines en UNO All Wild!
 - También es más sorprendente gracias a las cartas de acción de la baraja: Cambio de sentido, Pierde el turno y Pierde el turno doble, Roba 2 y Roba 4, Cambio forzoso y Elige quién roba 2.
 - El juego se desarrolla más rápido sin tener que hacer coincidir colores o números como en el clásico UNO.
 - ¡Para jugadores daltónicos! Se han añadido símbolos especiales a cada carta para ayudar a identificar su color (o colores). De esta forma, ¡los jugadores con CUALQUIER tipo de daltonismo podrán jugar fácilmente!
-- No lo olvidéis, el jugador al que solo le quede una carta tiene que gritar ¡UNO!.
+- Es un regalo perfecto para los fans de UNO a partir de 7 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MSB4X2G{{</world>}}

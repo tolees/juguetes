@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VIVE LA AVENTURA: Supera paisajes ásperos y desafiantes, recolecta equipo útil y enfrenta junto a tus compañeros a los monstruos al acecho. Solo con una estrategia sólida y trabajo en equipo podrás ganar el juego
 - DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
 - FÁCIL Y DIVERTIDO: Un emocionante juego para las noches con amigos y en familia; el regalo perfecto para quienes aman los juegos de estrategia y son aficionados de Minecraft
 - MINECRAFT: Juego de mesa del famoso videojuego Minecraft; en esta aventura los jugadores deberán mostrar coraje e inteligencia para escapar del Nether, el subterráneo ardiente de Minecraft
+- VIVE LA AVENTURA: Supera paisajes ásperos y desafiantes, recolecta equipo útil y enfrenta junto a tus compañeros a los monstruos al acecho. Solo con una estrategia sólida y trabajo en equipo podrás ganar el juego
 - CARACTERÍSTICAS: Número de jugadores 1-4, edad recomendada 10+, duración 30-60 minutos, edición en castellano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

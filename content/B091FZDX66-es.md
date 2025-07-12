@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 💙 FALOMIR - Somos una empresa familiar española fundada en 1945, ¡imagina cuántas sonrisas hemos creado! Nos dedicamos a la fabricación y distribución de juegos educativos y divertidos. Nos enfocamos en ofrecer variedad y calidad, creando juegos elocuentes para los más pequeños y mayores de casa, abarcamos todas las edades.
-- 🧠 ¿QUÉ INCLUYE? - Cábula incluye 95 cartas de estrellas, estrellas dobles, maldiciones, monstruos, hechizos, cartas de guía rápida. También incluye un manual de instrucciones de juego.
 - 🎯 ¿CÓMO SE JUEGA? - Se reparten 5 cartas por jugador, más una carta de estrella doble. Después cada jugador tendrá que escoger una carta del mazo. El jugador que consiga las 5 estrellas será el ganador.
-- 🃏 CÁBULA - Cada jugador tomará el papel de una maga, un hechicero, un brujo o una poderosa conjugadora, compitiendo por completar el ritual de estrellas antes de sus oponentes.
 - 👥 IDEAL PARA... - 2 a 6 jugadores mayores de 8 años de edad. Ideal para jugar entre amigos o en familia.
+- 🃏 CÁBULA - Cada jugador tomará el papel de una maga, un hechicero, un brujo o una poderosa conjugadora, compitiendo por completar el ritual de estrellas antes de sus oponentes.
+- 🧠 ¿QUÉ INCLUYE? - Cábula incluye 95 cartas de estrellas, estrellas dobles, maldiciones, monstruos, hechizos, cartas de guía rápida. También incluye un manual de instrucciones de juego.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091FZDX66{{</world>}}

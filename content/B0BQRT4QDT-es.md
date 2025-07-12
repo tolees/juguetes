@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- METAVERSO ZELLTIA: Escanea el código QR de los packs y juega en un mundo virtual. ¡Podrás crear tu personaje y escoger tu bando!
-- VEHÍCULO NARANJA: Con la catapulta podrás disparar una bellota explosiva para parar los planes de tus rivales. ¡Vence a los Wrockers desde el aire!
-- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
-- PERSONAJE HOPPY: Incluye Hoppy, el más valiente de todos los Woodies y el mejor amigo de Howly. ¡Su espada-zanahoria es temida entre los Wrockers!
-- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
 - DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
 - WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
+- VEHÍCULO NARANJA: Con la catapulta podrás disparar una bellota explosiva para parar los planes de tus rivales. ¡Vence a los Wrockers desde el aire!
+- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
+- METAVERSO ZELLTIA: Escanea el código QR de los packs y juega en un mundo virtual. ¡Podrás crear tu personaje y escoger tu bando!
+- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
+- PERSONAJE HOPPY: Incluye Hoppy, el más valiente de todos los Woodies y el mejor amigo de Howly. ¡Su espada-zanahoria es temida entre los Wrockers!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQRT4QDT{{</world>}}

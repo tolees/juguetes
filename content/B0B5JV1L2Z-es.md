@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INSPIRADO EN LA SERIE ANIMADA D&D DE LOS AÑOS 80: Cuando un grupo de jóvenes van al parque de diversiones se montan en una atracción que los transporta al reino de D&D
 - FIGURAS A ESCALA DE 15 CM: Con diseño y decorado premium inspirados en la clásica serie animada, además de accesorios inspirados en el personaje
 - INCLUYE D8 PARA ARMAR UN EXCLUSIVO SET DE DADOS D&D: Porque todos adoramos a los dados, ¿no es cierto? Necesitarás este d8 para determinar el daño que causa tu increíble arco de la 5ta edición (¡igual que Hank!), o simplemente porque se ve genial junto al d20 del mismo set
 - HAZ UNA PRUEBA DE PERCEPCIÓN PARA ENCONTRAR MÁS FIGURAS D&D CLÁSICAS: Se venden por separado. Sujeto a disponibilidad.
 - EL JUEGO DE ROL MÁS IMPORTANTE DEL MUNDO: D&D ha estado divirtiendo a los fans, jugadores y actores de doblaje por casi 50 años. Estas figuras de colección llevan una muestra de la historia de D&D a tu casa
+- INSPIRADO EN LA SERIE ANIMADA D&D DE LOS AÑOS 80: Cuando un grupo de jóvenes van al parque de diversiones se montan en una atracción que los transporta al reino de D&D
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B5JV1L2Z{{</world>}}

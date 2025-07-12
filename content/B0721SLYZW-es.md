@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Edición totalmente italiana.
-- Juego familiar.
-- Para dos a cuatro jugadores a partir de 13 años.
 - Elegante juego de deducción y bluff ambientado en Londres de Jack the Ripper
+- Para dos a cuatro jugadores a partir de 13 años.
+- Juego familiar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0721SLYZW{{</world>}}

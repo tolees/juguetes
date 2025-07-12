@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una comunidad dinámica: Los streamers y youtubers eligen Human: Fall Flat por la diversión que ofrece. ¡Los fans han visto sus vídeos más de 600 millones de veces!
-- Rompecabezas a la perfección: los rompecabezas aumentan lentamente en complejidad, lo que permite una progresión perfecta y una exploración gratificante.
-- ¡Human: Fall Flat Dream Collection incluye los 23 niveles lanzados más un conjunto de 5 hojas de pegatinas exclusivas!
 - Lienzo en blanco: Personaliza a tu humano con atuendos como obrero, cocinero, paracaidista, minero, astronauta, ninja... Elige la cabeza, la parte superior y la inferior del cuerpo, ¡y ponle color!
+- Rompecabezas a la perfección: los rompecabezas aumentan lentamente en complejidad, lo que permite una progresión perfecta y una exploración gratificante.
+- Una comunidad dinámica: Los streamers y youtubers eligen Human: Fall Flat por la diversión que ofrece. ¡Los fans han visto sus vídeos más de 600 millones de veces!
+- ¡Human: Fall Flat Dream Collection incluye los 23 niveles lanzados más un conjunto de 5 hojas de pegatinas exclusivas!
 - Más humanos, más caos: ¿Necesitas ayuda para llevar esa roca a una catapulta o para romper el muro? El multijugador en línea para hasta 8 jugadores transforma la forma de jugar a Human: Fall Flat.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

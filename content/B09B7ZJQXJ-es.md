@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Referencia: S9145334
-- Mascota virtual de la marca Bandai
 - Color: Multicolor
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S9145334
 - Medidas: 2,5 x 14 x 19,5 centímetros
+- Mascota virtual de la marca Bandai
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B7ZJQXJ{{</world>}}

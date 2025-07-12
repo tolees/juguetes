@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La casa de muñecas cuenta con una alfombra voladora giratoria en el balcón. ¡Niños y niñas pueden montar en la alfombra mágica a Jasmine y a su amigo para descubrir nuevos mundos!
+- La muñeca pequeña de Jasmine luce su conjunto clásico morado con una falda suave intercambiable, y tiene puntos de articulación en los brazos, las piernas y el cuello.
 - También incluye 2 figuras de sus amigos Rajah, el tigre, y Abu, el mono, y varias piezas para imaginar historias, como una cama para Rajah y manzanas para Abu.
 - El conjunto de juego se abre para revelar una casa de muñecas con múltiples áreas de juego inspiradas en la película, incluyendo el dormitorio de Jasmine con una cama y un tocador, además de una habitación oculta para que Abu guarde sus manzanas.
 - Inspirado en el clásico de animación de Disney “Aladdín”, este conjunto de juego de castillo permite a los más pequeños recrear sus escenas favoritas en un lugar memorable.
-- La casa de muñecas cuenta con una alfombra voladora giratoria en el balcón. ¡Niños y niñas pueden montar en la alfombra mágica a Jasmine y a su amigo para descubrir nuevos mundos!
-- La muñeca pequeña de Jasmine luce su conjunto clásico morado con una falda suave intercambiable, y tiene puntos de articulación en los brazos, las piernas y el cuello.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRSLR8BD{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuatro bolsillos de acceso rápido
 - Las herramientas y accesorios no están incluidos en el envío
-- Fabricada con un 100 % de materiales reciclados y con certificado bluesign
 - Bolsa de herramientas con cierre
+- Cuatro bolsillos de acceso rápido
+- Fabricada con un 100 % de materiales reciclados y con certificado bluesign
 - Dos bolsillos de malla con cremallera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

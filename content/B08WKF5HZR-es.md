@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No lo olvides, los jugadores deben gritar ¡UNO! cuando se quedan con una sola carta.
-- El juego de UNO viene en una resistente lata que permite guardar las cartas fácilmente y es un regalo fantástico para niños y niñas a partir de 7 años. Incluye una baraja de 112 cartas e instrucciones.
 - ¡El juego de cartas clásico que todo el mundo adora, en una resistente lata reutilizable! Y el contenido es 100% reciclable.
 - Con divertidas partidas de 2 a 10 jugadores, el juego de cartas UNO es la elección perfecta para cualquier noche de juegos para niños, adolescentes o adultos.
 - ¡Para jugadores daltónicos! Se han añadido símbolos especiales a cada carta para ayudar a identificar su color (o colores). De esta forma, ¡los jugadores con CUALQUIER tipo de daltonismo podrán jugar fácilmente!
+- El juego de UNO viene en una resistente lata que permite guardar las cartas fácilmente y es un regalo fantástico para niños y niñas a partir de 7 años. Incluye una baraja de 112 cartas e instrucciones.
 - Los jugadores compiten frenéticamente para agotar sus manos agrupando por colores o números en la pila de descarte.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para llevar a la piscina y jugar con hasta 6 personas
-- Incluye un dado especial que te dará corazones, estrellas y ¡bombas
 - Si te gustó Plenus ¡te encantará Plenus 2
+- Incluye un dado especial que te dará corazones, estrellas y ¡bombas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08D6STFJY{{</world>}}

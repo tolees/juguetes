@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Haz que Charmander adopte distintas posiciones gracias a sus piernas, cola y brazos articulados. ¡Su boca también se abre!
-- Los 750 bloques pueden combinarse con todos los conjuntos de construcción de MEGA Pokémon y son compatibles con las principales marcas
-- Officially licensed by The Pokémon Company International
 - Conjunto de construcción de Charmander a gran escala de 27,94cm
+- Officially licensed by The Pokémon Company International
+- Los 750 bloques pueden combinarse con todos los conjuntos de construcción de MEGA Pokémon y son compatibles con las principales marcas
 - Estos juguetes de construcción, ideales para niños a partir de 10 años, ofrecen experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

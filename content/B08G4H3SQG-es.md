@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Millennium Falcon Microfighter
+- Number of pieces: 101
 - The microfighter has a seat for the included Han Solo LEGO minifigure and 2 stud shooters, for fun, creative play
 - Manufacturer recommended age: 6+
-- Number of pieces: 101
-- Millennium Falcon Microfighter
 - Kids can jump in the cockpit to launch into space, fire the stud shooters at Imperial starships and fend off enemies with Han’s blaster pistol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

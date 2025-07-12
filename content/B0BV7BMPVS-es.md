@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- También incluye una claqueta de director con espacio para todos los personajes Disney incluidos y una cámara multiplano a escala de minifigura con 3 pantallas impresas que muestran cómo se hizo el corto El Viejo Molino de Disney
-- Celebra el centenario de Disney con la Cámara en Homenaje a Walt Disney de LEGO, una pieza coleccionable digna de exposición que incluye una minifigura del mismísimo Walt Disney junto con algunos de sus entrañables personajes
 - Este set conmemorativo de Disney incluye 3 minifiguras LEGO|Disney: Mickey Mouse, Minnie Mouse y Walt Disney, además de las figuras de animales LEGO de Bambi y Dumbo
 - Este set lleno de recuerdos contiene 811 piezas que crean varios objetos distintos, como una cámara de cine de época con un panel trasero abatible que contiene una sorpresa, además de una cinta con fotogramas de 20 películas históricas de Disney
+- Celebra el centenario de Disney con la Cámara en Homenaje a Walt Disney de LEGO, una pieza coleccionable digna de exposición que incluye una minifigura del mismísimo Walt Disney junto con algunos de sus entrañables personajes
 - Este set premium también incluye un folleto con información detallada sobre Disney, la cámara, el propio set y las instrucciones para guiarte en el proceso de construcción
+- También incluye una claqueta de director con espacio para todos los personajes Disney incluidos y una cámara multiplano a escala de minifigura con 3 pantallas impresas que muestran cómo se hizo el corto El Viejo Molino de Disney
 - Este set LEGO Disney para adultos, creado para conmemorar el centenario de Disney, es un regalo de cumpleaños especial para hombres y mujeres, un regalo de aniversario para tu pareja o un regalo de inauguración de casa para los fans de Disney
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Esta aventura requiere de astucia, habilidades especiales y trabajo en equipo para descifrar las pistas y resolver los puzles que os harán llegar al Infierno
 - ¡Hay que salvar los Muelles de Goon!
+- Incluye más de 120 componentes.
 - Ponte en la piel de los Goonies: Mikey, Brand, Bocazas, Data, Andy, Stef, Gordi y Sloth, y comienza ahora la búsqueda para encontrar el tesoro de Willy el Tuerto
 - ¡La determinación es de vital importancia para mantenerte un paso por delante de los Fratellis!
-- Esta aventura requiere de astucia, habilidades especiales y trabajo en equipo para descifrar las pistas y resolver los puzles que os harán llegar al Infierno
-- Incluye más de 120 componentes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTHXVY95{{</world>}}

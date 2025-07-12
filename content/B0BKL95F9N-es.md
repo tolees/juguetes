@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 2 a 6 jugadores
 - A partir de 8 años de edad.
+- De 2 a 6 jugadores
 - Tendrás que ser el primero en completar el puzle de Hogwarts mientras compites en retos como la batalla de hechizos
 - El Patronus Oculto o la carrera por la snitch dorada con la ayuda de todas tus capacidades cerebrales.
 - Cortex Harry Potter mantiene los niveles de diversión a los que nos tienen acostumbrados los juegos de la familia Cortex, pero añadiendo ese punto de magia y fantasía tan característico del universo potteriano.

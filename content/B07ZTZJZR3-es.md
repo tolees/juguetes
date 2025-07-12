@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Juego en 360˚ con lavadero de caballos en la parte delantera
+- Nevera portátil que se cierra con un chasquido
 - Incluye caballo
 - Las puertas de la caballeriza se abren y cierran
-- Nevera portátil que se cierra con un chasquido
 - Henil con sillas y accesorios
 
 [🛒 Aquí!!!]({{< param buyurl >}})

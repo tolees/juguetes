@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De 2 a 8 jugadores
-- Para mayores de 8 años
-- Duración: 15 minutos
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
+- Para mayores de 8 años
+- De 2 a 8 jugadores
+- Duración: 15 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B019M2EA3Y{{</world>}}

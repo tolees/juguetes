@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede jugar tantas veces como se quiera con los dos modos de juego que hay. Se puede jugar sin los ingredientes, o se pueden volver a comprar en el pack de refill. El modo crear hace un efecto de niebla muy divertido que los más peques disfrutarán
+- Es recomendable que los niños más pequeños jueguen bajo la supervisión de un adulto para seguir correctamente las instrucciones del juego. Apto a partir de 5 años
 - El muñeco de peluche Magic Mixie puede ser de color azul o de color rosa, aparece como por arte de magia de la bola de cristal de juguete después de seguir las instrucciones y hacer la magia con la varita
 - Juguete interactivo con sonidos, efectos de niebla y luz; Incluye una bola mágica y una varita mágica para interactuar con el juego, crear hechizos y pociones, y después jugar con tu Mixie, un muñeco interactivo con reacciones y sonidos
-- Es recomendable que los niños más pequeños jueguen bajo la supervisión de un adulto para seguir correctamente las instrucciones del juego. Apto a partir de 5 años
 - Contiene: un libro de instrucciones, una varita mágica, una bola de cristal de juguete y un mueco interactivo
+- Se puede jugar tantas veces como se quiera con los dos modos de juego que hay. Se puede jugar sin los ingredientes, o se pueden volver a comprar en el pack de refill. El modo crear hace un efecto de niebla muy divertido que los más peques disfrutarán
 - El juguete funciona con un cargador y el muñeco con pilas, incluidas en el set de juguete 3 pilas AG13 (LR44) de 1.5 V
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

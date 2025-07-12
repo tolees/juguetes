@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La embalaje puede variar
 - Caja de forma rectangular
 - Necesita creatividad del niño
+- La embalaje puede variar
 - Juego para aprender sobre la ciencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

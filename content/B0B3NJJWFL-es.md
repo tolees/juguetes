@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego completo
 - Esta edición incluye:
+- El juego completo
 - Media Book: Celebración de los 20 años de Syberia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

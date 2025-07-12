@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Minutos: 45-90
 - Edad: 10
-- Brand: Devir
 - Jugadores: 1-4
+- Minutos: 45-90
+- Brand: Devir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WS619NN{{</world>}}

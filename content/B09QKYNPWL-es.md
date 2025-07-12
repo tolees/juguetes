@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 👨‍👨‍👧‍👦 DE 2 A 4 JUGADORES. A PARTIR DE 10 AÑOS. Cutterland es un juego estratégico que te permite pasar un buen momento con tus familiares o amigos. Solo hacen falta de 2 a 4 jugadores de más de 10 años.
-- es_Es
 - 🌟CREA LA TIERRA DE ENSUEÑO MÁS ATRACTIVA Y GANA LA PARTIDA. Compite con tus compañeros en este juego de mesa de estrategia en el que vuestra misión es crear vuestras propias tierras de ensueño. ¡Quien tenga la tierra más atractiva al final de la partida, será el ganador!
 - 💭 UN JUEGO TÁCTICO EN EL QUE TENDRÁS QUE TOMAR DECISIONES. Un juego de estrategia en el que tienes que cortar las cartas en trozos y tomar complejas decisiones tácticas. Además, su arte en 8-Bit rememora los videojuegos clásicos.
 - ⏱DURACIÓN DE LA PARTIDA 40 MINUTOS. Cada partida tendrá una duración aproximada de 40 minutos. ¡Pasa una tarde divertida y diferente jugando a Cutterland!
+- es_Es
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QKYNPWL{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye a todos los invitados anteriores: Terminator, Joker, Spawn y RoboCop
+- Todos los modos, incluidas las Torres del Tiempo, la Kripta, el modo En línea, las torres klásicas, etc.
 - Juega en la piel de cualquiera de los 37 kombatientes del elenco kompleto, incluidos los personajes recientemente añadidos: Mileena, Rain y Rambo
 - Todos los escenarios, los Fatalities de escenario, los Brutalities, los famosos Fatalities y los Friendships
-- Todos los modos, incluidas las Torres del Tiempo, la Kripta, el modo En línea, las torres klásicas, etc.
+- Incluye a todos los invitados anteriores: Terminator, Joker, Spawn y RoboCop
 - Miles de skins, armas y equipo para un nivel de personalización sin precedentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un disparatado juego de conflictos internos ante un tribunal para 3-6 jugadores con un innovador tablero de juego en 3D.
-- Cada jugador gana si el objetivo indicado en su carta de Rol se cumple al final de la partida. Puede haber cualquier cantidad de ganadores y perdedores.
-- Todos los demás jugadores asumen el papel de distintas facetas de la personalidad de Guy que tratan de influir en el juicio.
 - En Voces en mi Cabeza, al comienzo de la partida, cada jugador recibe una carta de Rol que le indica qué debe hacer para ganar.
+- Cada jugador gana si el objetivo indicado en su carta de Rol se cumple al final de la partida. Puede haber cualquier cantidad de ganadores y perdedores.
 - Uno de los jugadores asume el papel de la fiscal que intenta condenar a Guy para enviarlo a la cárcel.
+- Todos los demás jugadores asumen el papel de distintas facetas de la personalidad de Guy que tratan de influir en el juicio.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QMTDTWF{{</world>}}

@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una bicicleta eléctrica de montaña con una batería extraíble de 48V 13Ah (624Wh) totalmente integrada, una bicicleta capaz de llevarte a lugares que nunca habías imaginado; gracias a su sistema de pedaleo asistido, podrás recorrer largas distancias sin esfuerzo
-- CERTIFICADO DE HOMOLOGACION: Todas nuestras bicicletas están homologadas, fabricadas en Europa
-- SUSPENSIÓN DOBLE: Estabilidad, seguridad y comodidad: Probablemente la mayor virtud de las bicicletas de montaña de doble suspensión; tienen una ventaja significativa sobre las bicicletas rígidas en términos de estabilidad, seguridad y, sobre todo, comodidad; se recomienda especialmente para los viajes largos y para cualquier persona con problemas de espalda o de articulaciones, ya que las vibraciones se absorben mucho mejor
-- CAMBIO SHIMANO: Equipada con un cambio trasero Shimano Altus de 24 velocidades (RD-M310), desviador Shimano FD-M310 y mandos de cambio Shimano SL-M315
 - PANTALLA Y ASISTENCIA: La pantalla LCD instalada en el manillar ofrece 5 niveles de asistencia, Eco / Tour / Sport / Turbo / Boost; muestra datos como velocidad actual / velocidad media / velocidad máxima, distancia total y parcial (Trip), tiempo de uso, capacidad de la batería y nivel de asistencia escogido
+- CAMBIO SHIMANO: Equipada con un cambio trasero Shimano Altus de 24 velocidades (RD-M310), desviador Shimano FD-M310 y mandos de cambio Shimano SL-M315
+- CERTIFICADO DE HOMOLOGACION: Todas nuestras bicicletas están homologadas, fabricadas en Europa
+- Una bicicleta eléctrica de montaña con una batería extraíble de 48V 13Ah (624Wh) totalmente integrada, una bicicleta capaz de llevarte a lugares que nunca habías imaginado; gracias a su sistema de pedaleo asistido, podrás recorrer largas distancias sin esfuerzo
 - DISEÑO: Un aspecto agresivo y moderno, especialmente diseñado para que nada pueda detenerte; su cuadro de aluminio 6061 le proporciona rendimiento y comodidad
-- CONFORT Y SEGURIDAD: El asiento ergonómico, la tija telescópica con ajuste rápido, los puños “soft” para un mejor agarre y el manillar sobredimensionado te ofrecen toda la comodidad que necesitas; la horquilla Suntour XCM con bloqueo y 120mm de recorrido evita el bombeo y la pérdida de velocidad en los tramos llanos a la vez que absorbe las diferentes irregularidades que se encuentran en el recorrido; los neumáticos Kenda 27,5x2,35 han sido diseñados para mantener la estabilidad y la precisión en terrenos difíciles
-- MOTOR & BATERÍA: Equipada con un potente y silencioso motor Brushless de 250W en el buje trasero que ofrece un par motor de 55Nm; la batería de litio de 48V 13Ah (624Wh), totalmente integrada en el cuadro y extraíble, ofrece una autonomía de hasta 120km*
+- SUSPENSIÓN DOBLE: Estabilidad, seguridad y comodidad: Probablemente la mayor virtud de las bicicletas de montaña de doble suspensión; tienen una ventaja significativa sobre las bicicletas rígidas en términos de estabilidad, seguridad y, sobre todo, comodidad; se recomienda especialmente para los viajes largos y para cualquier persona con problemas de espalda o de articulaciones, ya que las vibraciones se absorben mucho mejor
 - FRENOS: Para una frenada potente y progresiva está equipada con frenos de disco hidráulicos (disco de 180mm delante y 160mm detrás); permiten controlar mejor la potencia de frenado que se quiere aplicar y bloquear la rueda sólo cuando se quiere
+- MOTOR & BATERÍA: Equipada con un potente y silencioso motor Brushless de 250W en el buje trasero que ofrece un par motor de 55Nm; la batería de litio de 48V 13Ah (624Wh), totalmente integrada en el cuadro y extraíble, ofrece una autonomía de hasta 120km*
+- CONFORT Y SEGURIDAD: El asiento ergonómico, la tija telescópica con ajuste rápido, los puños “soft” para un mejor agarre y el manillar sobredimensionado te ofrecen toda la comodidad que necesitas; la horquilla Suntour XCM con bloqueo y 120mm de recorrido evita el bombeo y la pérdida de velocidad en los tramos llanos a la vez que absorbe las diferentes irregularidades que se encuentran en el recorrido; los neumáticos Kenda 27,5x2,35 han sido diseñados para mantener la estabilidad y la precisión en terrenos difíciles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WTJ9CHT{{</world>}}

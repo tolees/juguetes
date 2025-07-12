@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fans can recreate an iconic vehicle with this LEGO Technic BATCYCLE toy motorbike model building kit, as seen in the 2022 movie: THE BATMAN
+- Kids and fans can capture the spirit of the DC superhero and build the toy motorbike piece by piece then recreate their favourite Batman moments
 - The Batman Bike is packed with realistic features including steering, suspension and a drive chain that connects the H4 engine to the rear wheel
 - This collectible LEGO THE BATMAN - BATCYCLE features a supporting kickstand so kids can display their build with pride on a shelf or desk
-- Kids and fans can capture the spirit of the DC superhero and build the toy motorbike piece by piece then recreate their favourite Batman moments
-- Fans can recreate an iconic vehicle with this LEGO Technic BATCYCLE toy motorbike model building kit, as seen in the 2022 movie: THE BATMAN
 - This motorbike model building kit makes a great Batman gift idea for kids aged 9+ and fans of super heroes, toy vehicles and comic book culture
 
 [🛒 Aquí!!!]({{< param buyurl >}})

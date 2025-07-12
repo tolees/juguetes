@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 2 a 8 jugadores
 - Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
 - Buscad el símbolo idéntico en las dos cartas (misma forma y mismo color, sólo el tamaño puede variar).
-- ¡Y ya está! sencillo, ¿verdad? Pues ahora prepárate, porque Dobble contiene varios mini-juegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez.
 - Dobble un juego con más de 50 símbolos, 55 cartas, con uno, y solamente un símbolo idéntico entre cada carta. ¿Serás capaz de descubrirlo?
+- ¡Y ya está! sencillo, ¿verdad? Pues ahora prepárate, porque Dobble contiene varios mini-juegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez.
+- De 2 a 8 jugadores
 - El primer jugador que encuentre este símbolo, lo nombra y roba dos nuevas cartas que pondrá sobre la mesa. Repetid esta operación hasta que todos los jugadores hayan entendido que siempre hay solamente un símbolo idéntico entre dos cartas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

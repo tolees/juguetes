@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Conviertete en el capitán américa
-- Se sujeta al guante magnético
-- Revive las batallas de los vengadores
 - Imagina que luchas por hacer justicia, al igual que capitán américa
 - Quita el escudo y lánzalo como si fuera un disco
+- Revive las batallas de los vengadores
+- Se sujeta al guante magnético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07L97MG7B{{</world>}}

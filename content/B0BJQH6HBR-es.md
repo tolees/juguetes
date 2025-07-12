@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Uno de los mejores flip & write del mercado con un diseño retro muy atractivo
 - Ganador del Premio al Mejor Juego Estratégico en las UK Games Expo
 - Explora nuestra gama de productos
 - Juego económico, fácil de aprender y con partidas cortas de 2 a 5 jugadores
-- Uno de los mejores flip & write del mercado con un diseño retro muy atractivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJQH6HBR{{</world>}}

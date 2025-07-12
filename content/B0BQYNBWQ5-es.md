@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Saltos, curvas, toboganes y giros en las norias en un divertido e innovador circuito. Para jugar solo o con amigos.
+- Juguete ampliable comprando otros sets de la misma gama.
 - Dos niveles de dificultad.
-- Manual de construcciones de fácil seguimiento.
 - ✅ VERSIÓN ESPAÑOLA. Juguete de construcción y Circuito de canicas interactivo para niños +4 años.
 - Los lanzadores y las norias electrónicas lanzan las canicas de ida y vuelta por el circuito ¡para que el juego no se detenga nunca!
-- Juguete ampliable comprando otros sets de la misma gama.
+- Saltos, curvas, toboganes y giros en las norias en un divertido e innovador circuito. Para jugar solo o con amigos.
+- Manual de construcciones de fácil seguimiento.
 - Marble construcciones. 25 piezas y 5 canicas de colores. Los lanzadores y las norias electrónicas lanzan las canicas de ida y vuelta por el circuito ¡para que el juego no se detenga nunca!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
