@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Los jugadores tienen que gritar “¡DOS!” cuando les queden DOS cartas, ¡pero todos se sentirán ganadores de la noche de juegos con DOS Segunda edición!
 - Todas las cartas con el número “2” son cartas “Comodines DOS” y pueden jugarse con el color que desee el jugador, pero seguirán contando como número “2”.
+- Con el objetivo de deshacerse de sus cartas lo antes posible, los jugadores pueden descartarlas en cualquiera de las DOS pilas de descarte, ¡o incluso en ambas!
 - ¡El juego de cartas DOS Segunda edición incluye cartas y reglas nuevas para divertirse a lo grande en una noche de juegos!
 - Si un jugador juega 2 cartas especiales en el mismo turno, el siguiente jugador deberá hacer lo que indiquen AMBAS cartas.
-- Con el objetivo de deshacerse de sus cartas lo antes posible, los jugadores pueden descartarlas en cualquiera de las DOS pilas de descarte, ¡o incluso en ambas!
 - La carta especial “Echa dos” obliga al siguiente jugador a descartar al menos 2 cartas en su turno y, si no puede, tendrá que robar 2 cartas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

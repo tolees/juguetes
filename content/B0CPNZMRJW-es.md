@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Momentos de diversión
 - Producto adecuado para regalar
+- Momentos de diversión
 - Figura de juguete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

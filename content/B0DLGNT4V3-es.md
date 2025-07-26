@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - "Llega el mañana"
-- Lidera la expedición. Rompe el ciclo
 - Un mundo que te conmoverá por su belleza
+- Lidera la expedición. Rompe el ciclo
 - Combate por turnos reactive
 
 [🛒 Aquí!!!]({{< param buyurl >}})

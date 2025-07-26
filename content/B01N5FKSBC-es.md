@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los juguetes y sets de construcción de LEGO Classic para niños de 5 años en adelante ofrecen a los peques la oportunidad construir de forma creativa mientras juegan y desarrollan habilidades clave para la vida
-- Con este juego creativo los niños podrán seguir las 5 ideas de diseños de mini construcciones incluidas o dar rienda suelta a su imaginación y crear sus propios juguetes con las piezas LEGO
-- ¡18 de las coloridas piezas LEGO LEGO de este versátil juguete de construcción tienen ojos expresivos para que los niños puedan construir divertidos personajes o cualquier cosa que imaginen!
 - Este juguete de construcción de LEGO Classic incluye una caja con 333 ladrillos en vibrantes colores neón y varios tamaños, además de divertidas piezas con ojos para que los niños den vida a sus creaciones
+- ¡18 de las coloridas piezas LEGO LEGO de este versátil juguete de construcción tienen ojos expresivos para que los niños puedan construir divertidos personajes o cualquier cosa que imaginen!
+- Con este juego creativo los niños podrán seguir las 5 ideas de diseños de mini construcciones incluidas o dar rienda suelta a su imaginación y crear sus propios juguetes con las piezas LEGO
 - Incluye instrucciones impresas paso a paso con 5 ideas de modelos fáciles de construir para desarrollar la confianza de los niños: una piña, un subrayador, un coche de juguete, un alien y patines
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

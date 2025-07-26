@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carcasa de policarbonato In-Mold con carcasa interior de EPS
-- 32 orificios de ventilación del túnel de viento
 - Peso: aprox. 280 g
+- 32 orificios de ventilación del túnel de viento
+- Carcasa de policarbonato In-Mold con carcasa interior de EPS
 - Sistema de ajuste Roc Loc 5
 - Tecnología MIPS integrada
 

@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Botones de juego avanzado asignables
-- Toma de audio de 3,5 mm
-- Cable USB extraíble de 3 metros
 - No necesita pilas
-- Es una buena idea tener cuidado con Lakitu rondando por encima y lanzando un suministro interminable de Pinchones.
+- Cable USB extraíble de 3 metros
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Es una buena idea tener cuidado con Lakitu rondando por encima y lanzando un suministro interminable de Pinchones.
+- Toma de audio de 3,5 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVC47GQZ{{</world>}}

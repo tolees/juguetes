@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - En 2023 el universo de LEGO Friends se amplía, con nuevos personajes inspirados en las aficiones de los niños y ubicaciones de Heartlake City inéditas donde experimentar increíbles aventuras y juegos imaginativos
 - Este juguete de animales incluye 3 mini muñecas LEGO Friends de Autumn, Zac y la Dr. Gabriela, y 3 figuras de perritos de Pickle, Dash y Grace; todos parte de la nueva generación de personajes LEGO Friends 2023
+- En el centro de rescate de mascotas, los cachorros Pickle, Dash y Grace de LEGO Friends esperan ser adoptados: los niños deberán mimarlos y jugar a cuidarlos, cepillarlos, curarlos y mantenerlos ocupados en la zona de ejercicio
 - Anima los pequeños amantes de los animales a construir y explorar el divertido Centro de Rescate Canino de LEGO Friends, un increíble edificio modular con zona de aseo, área de ejercicios, 3 mini muñecas y 3 perritos de juguete
 - A los peques les encantará usar los accesorios para muñecas incluidos y crear sus propias historias de rescate con los juguetes para perros, medicamentos, elementos de comida, agua, una lupa, una cama, un cepillo, balanzas y más
-- En el centro de rescate de mascotas, los cachorros Pickle, Dash y Grace de LEGO Friends esperan ser adoptados: los niños deberán mimarlos y jugar a cuidarlos, cepillarlos, curarlos y mantenerlos ocupados en la zona de ejercicio
 - Los niños podrán construir y personalizar su propio Centro de Rescate Canino organizando las diferentes secciones a su gusto, entre las que se incluye: una recepción, sala de tratamiento, baños, jaulas, pista de obstáculos y un tobogán de juguete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

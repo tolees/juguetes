@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maquetas de coche de exposición: después de que los peques hayan pasado horas organizando carreras entre las 2 maquetas LEGO de coches y el juego llegue a su fin, los vehículos pueden exponerse como decoración del dormitorio o estantería
 - Fascinantes regalos: además de proporcionar una divertida experiencia de construcción y juego, este set de coches Mercedes-AMG es una óptima idea de regalo para niños y niñas a partir de 10 años o coleccionistas de maquetas de coches adultos
 - Amplía las aventuras automovilísticas: descubre muchos más coches de juguete LEGO Speed Champions de coches para construir con infinidad de detalles de gran realismo (a la venta por separado)
+- 2 minifiguras LEGO de conductores: cada coche de juguete construible viene con una minifigura de un conductor equipado con indumentaria de Mercedes-AMG para que los jóvenes pilotos puedan interpretar carreras a gran velocidad
 - Coches de juguete para construir, jugar y exponer: los sets de construcción LEGO Speed Champions ofrecen a niños y aficionados al motor la oportunidad de construir réplicas de algunos de los vehículos más emblemáticos
+- Maquetas de coche de exposición: después de que los peques hayan pasado horas organizando carreras entre las 2 maquetas LEGO de coches y el juego llegue a su fin, los vehículos pueden exponerse como decoración del dormitorio o estantería
 - El diseño de los Mercedes-AMG de verdad: cada maqueta coleccionable cuenta con características de diseño a imagen de las versiones reales, como parrillas delanteras, capós, ruedas, detalles interiores y el diseño famoso de Mercedes-AMG
 - 2 coches Mercedes-AMG de juguete para peques: juego de vehículos LEGO Speed Champions Mercedes-AMG G 63 y Mercedes-AMG SL 63 para niños y niñas a partir de 10 años o coleccionistas adultos de maquetas de coches
-- 2 minifiguras LEGO de conductores: cada coche de juguete construible viene con una minifigura de un conductor equipado con indumentaria de Mercedes-AMG para que los jóvenes pilotos puedan interpretar carreras a gran velocidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWH3J5D6{{</world>}}

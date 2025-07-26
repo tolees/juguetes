@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dispone de 3 niveles de aprendizaje con Tecnología Inteligente que se adapta al crecimiento del niño.
-- Solo hay que apretar y mantener presionado el corazón luminoso de Perrito para oír sus canciones.
-- Ayuda al niño a reforzar la motricidad y la capacidad sensorial.
 - Las manos, el pie, la oreja y el corazón luminoso de Perrito responden al tacto del niño (incluye cinco puntos de activación).
+- Ayuda al niño a reforzar la motricidad y la capacidad sensorial.
 - Tiene más de 75 canciones, melodías y frases de aprendizaje.
+- Solo hay que apretar y mantener presionado el corazón luminoso de Perrito para oír sus canciones.
 - Enseña cien palabras sencillas, así como las partes del cuerpo, las formas, los números, el alfabeto y mucho más.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

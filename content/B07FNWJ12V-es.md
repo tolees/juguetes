@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La puerta de entrada con torre mide 10 cm de alto, 25 cm de ancho y 10 cm de profundidad. El andador AT-AT mide 13 cm de alto, 15 cm de largo y 7 cm de ancho
-- Este juguete de construcción incluye 5 minifiguras LEGO Star Wars: 2 soldados de nieve y 3 rebeldes, así como una sonda para montar
 - Falta el resaltado del producto: que se cargará
+- Este juguete de construcción incluye 5 minifiguras LEGO Star Wars: 2 soldados de nieve y 3 rebeldes, así como una sonda para montar
 - Juego de construcción de 504 piezas de Star Wars Hoth Battle para niñas y niños a partir de 8 años para fanáticos y niños grandes de todas las edades
+- La puerta de entrada con torre mide 10 cm de alto, 25 cm de ancho y 10 cm de profundidad. El andador AT-AT mide 13 cm de alto, 15 cm de largo y 7 cm de ancho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FNWJ12V{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego ganador del Kennerspiel des Jahres 2017
-- Resuelve acertijos a través de puzzles interactivos de formas que jamás habrías imaginado
 - El fenómeno internacional de salas de escape room, ahora en tu casa
+- Resuelve acertijos a través de puzzles interactivos de formas que jamás habrías imaginado
+- Juego ganador del Kennerspiel des Jahres 2017
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLYMQCN1{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Como le encanta juguetear con la moda, la muñeca Filia Finch (15,24 cm) lleva un top con estampado de perritos, una falda de quita y pon y unos bonitos zapatos.
-- Ella y su amiguito Tropic comparten un montón de peculiares detalles que demuestran su inseparable amistad.
-- ¡Descubre a las Enchantimals! Estas muñecas dan vida al grupo adorable de amigas acompañadas de sus inseparables mascotas, a las que cuidan y miman, ya que son sus mejores amigas.
 - La muñeca Filia Finch viene con su mascota Tropic y dos pequeñas figuras de aves. Siempre están juntos, y ¡hasta se parecen!
+- Ella y su amiguito Tropic comparten un montón de peculiares detalles que demuestran su inseparable amistad.
+- Como le encanta juguetear con la moda, la muñeca Filia Finch (15,24 cm) lleva un top con estampado de perritos, una falda de quita y pon y unos bonitos zapatos.
+- ¡Descubre a las Enchantimals! Estas muñecas dan vida al grupo adorable de amigas acompañadas de sus inseparables mascotas, a las que cuidan y miman, ya que son sus mejores amigas.
 - Esta familia formada por la pequeña muñeca y sus mejores amigos pájaros es un gran regalo para niños y niñas a partir de 4 años.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

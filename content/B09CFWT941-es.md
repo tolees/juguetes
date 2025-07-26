@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un regalo perfecto inspirado en la película para los fans del espacio y de Lightyear a partir de 4 años.
+- Con 6,3 cm de alto y de 10,2 cm a 17,8 cm de largo, estos juguetes tienen detalles increíbles inspirados en los vehículos de Lightyear, incluido el tren de aterrizaje desplegable. Las figuras a juego miden de 3,2 cm a 4,5 cm de alto y se doblan para sentarse en sus cabinas.
 - Revive la emoción de la exploración espacial, los conflictos y el trabajo en equipo de Lightyear de Disney Pixar con estos vehículos y figuras con detalles auténticos que representan elementos clave de la historia del origen de Buzz Lightyear.
 - Los fans querrán coleccionar toda la flota de vehículos y pilotos de la serie Hipervelocidad de Lightyear para montar una exhibición espectacular. Cada combinación de vehículo y figura se vende por separado y está sujeta a disponibilidad.
-- Con 6,3 cm de alto y de 10,2 cm a 17,8 cm de largo, estos juguetes tienen detalles increíbles inspirados en los vehículos de Lightyear, incluido el tren de aterrizaje desplegable. Las figuras a juego miden de 3,2 cm a 4,5 cm de alto y se doblan para sentarse en sus cabinas.
 - Encuentra naves espaciales de las misiones de Buzz Lightyear, así como vehículos de los enemigos de los guardianes espaciales. Cada vehículo viene con su figura correspondiente para pilotar y recrear escenas o inventar nuevas historias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

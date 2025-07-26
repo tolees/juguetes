@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un vehículo de Star Wars fielmente detallado: usa los ladrillos LEGO para reproducir las icónicas características de la Tantive IV tal y como aparece en Star Wars: Una Nueva Esperanza, incluidos sus 11 motores y turbo láseres
-- Maqueta coleccionable de la Tantive IV para construir y exponer: recrea la emoción de la escena inicial de Star Wars: Una Nueva Esperanza con esta versión a escala media para construir con ladrillos LEGO de la famosa nave estelar
 - Maqueta de exposición: la base construible lleva incorporada una placa identificativa y un ladrillo conmemorativo del 25 aniversario de LEGO Star Wars, y está diseñada para exponer la Tantive IV en tu casa u oficina
-- Desde una galaxia muy, muy lejana hasta tu hogar: los sets LEGO Star Wars coleccionables para adultos se han diseñado para ti, un exigente amante de los pasatiempos que disfruta con proyectos de construcción manuales llenos de creatividad
 - Regalo para coleccionistas de recuerdos y fans de Star Wars: este set de construcción LEGO para adultos, compuesto por 654 piezas, es un óptimo autorregalo o un regalo de cumpleaños especial para un entusiasta de Star Wars
-- Parte de la Colección de Naves Estelares LEGO Star Wars: este set pertenece a una serie coleccionable de maquetas de construcción de escala media inspirados en emblemáticas naves estelares del universo Star Wars
+- Un vehículo de Star Wars fielmente detallado: usa los ladrillos LEGO para reproducir las icónicas características de la Tantive IV tal y como aparece en Star Wars: Una Nueva Esperanza, incluidos sus 11 motores y turbo láseres
 - Nave estelar LEGO Star Wars de construcción asistida por app: con la app LEGO Builder, puedes consultar instrucciones 3D para crear los modelos, seguir tus progresos, guardar todos tus sets en un mismo lugar e incluso construir en compañía
+- Desde una galaxia muy, muy lejana hasta tu hogar: los sets LEGO Star Wars coleccionables para adultos se han diseñado para ti, un exigente amante de los pasatiempos que disfruta con proyectos de construcción manuales llenos de creatividad
+- Parte de la Colección de Naves Estelares LEGO Star Wars: este set pertenece a una serie coleccionable de maquetas de construcción de escala media inspirados en emblemáticas naves estelares del universo Star Wars
+- Maqueta coleccionable de la Tantive IV para construir y exponer: recrea la emoción de la escena inicial de Star Wars: Una Nueva Esperanza con esta versión a escala media para construir con ladrillos LEGO de la famosa nave estelar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFW1NPZK{{</world>}}

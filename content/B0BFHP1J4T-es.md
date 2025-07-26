@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De 2 a 5 jugadores. A partir de 10 años.
-- Aquel que consiga que su compañía obtenga más ingresos se hará con la victoria.
-- Traza las rutas más eficientes y desarrolla la tecnología que te permita fabricar modelos más autónomos y fiables.
-- Ponte en la piel de un magnate de la industria de la aviación
 - Dirige una de las compañías que compiten por las concesiones para establecer y operar el primer servicio de correo aéreo de la historia.
+- Traza las rutas más eficientes y desarrolla la tecnología que te permita fabricar modelos más autónomos y fiables.
+- Aquel que consiga que su compañía obtenga más ingresos se hará con la victoria.
+- Ponte en la piel de un magnate de la industria de la aviación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BFHP1J4T{{</world>}}

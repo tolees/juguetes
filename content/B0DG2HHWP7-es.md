@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuevas mejoras de calidad de vida: guardado automático, opción de evitar encuentros con enemigos, gráficos optimizados y mucho más
 - Textos del juego completamente en castellano por primera vez
+- Nuevas mejoras de calidad de vida: guardado automático, opción de evitar encuentros con enemigos, gráficos optimizados y mucho más
 - Combates trepidantes que te permitirán alternar entre distintos estilos gracias al sistema de movimiento lineal y cambio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

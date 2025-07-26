@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CARACTERÍSTICAS : Contiene cuatro fantasmas y un castillo de madera, un tablero y dos dados. Material/es utilizado/s : Cartón y madera (schima y tilo). Franja de edad recomendada : de 4 años a 10 años.
-- EL PODER DEL JUEGO: A través de unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en la aventura más hermosa de todas: ¡crecer! Unos bonitos juguetes estudiados hasta el más mínimo detalle para aprender sin ni siquiera darse cuenta, explorar el mundo, soñar y compartir... ¡Eso es jugar bien!
 - AZAR Y ESTRATEGIA: ¡Escalofríos garantizados con este juego sobre el tema de los fantasmas apto a partir de 4 años! El ganador es el primero que lleve el peón de su fantasma (de madera) hasta el castillo: para llegar a su destino, ¡se avanza tirando los dados y sobre todo prestando atención a las trampas! De 2 a 4 jugadores.
 - SENCILLO Y RÁPIDO: Diseñado especialmente para los más pequeños a partir de 4 años, este juego tiene unas reglas muy sencillas y las partidas son rápidas (unos 30 minutos) para mantener la atención de los niños y estimularlos hasta el final. De 2 a 4 jugadores.
 - UN DIVERTIDO DISEÑO: Un tablero negro y naranja, que recuerda a Halloween, y unos fantasmas de madera más graciosos que aterradores hacen de este juego una gran ocasión para divertirse con amigos o familiares.
+- CARACTERÍSTICAS : Contiene cuatro fantasmas y un castillo de madera, un tablero y dos dados. Material/es utilizado/s : Cartón y madera (schima y tilo). Franja de edad recomendada : de 4 años a 10 años.
+- EL PODER DEL JUEGO: A través de unas colecciones atrevidas e innovadoras, Janod acompaña a los niños en la aventura más hermosa de todas: ¡crecer! Unos bonitos juguetes estudiados hasta el más mínimo detalle para aprender sin ni siquiera darse cuenta, explorar el mundo, soñar y compartir... ¡Eso es jugar bien!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09VTD7CTC{{</world>}}

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
-- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
-- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
-- PERSONAJE SAM BRAN: Incluye Sam Bran, el sabio inventor del bosque que construye armas y artilugios para sus amigos.
-- VEHÍCULO NARANJA: Con el Scooter Drone podrás transformar la versión terrestre en un vehículo volador abriendo sus ruedas. ¡Vence a los Wrockers desde el aire!
 - CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
+- VEHÍCULO NARANJA: Con el Scooter Drone podrás transformar la versión terrestre en un vehículo volador abriendo sus ruedas. ¡Vence a los Wrockers desde el aire!
+- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
+- PERSONAJE SAM BRAN: Incluye Sam Bran, el sabio inventor del bosque que construye armas y artilugios para sus amigos.
+- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
 - METAVERSO ZELLTIA: Escanea el código QR de los packs y juega en un mundo virtual. ¡Podrás crear tu personaje y escoger tu bando!
+- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQRT2D8L{{</world>}}

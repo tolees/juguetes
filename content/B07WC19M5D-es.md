@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Armadura Robótica de Iron Man
 - Número de piezas: 148
-- La imaginación de los jóvenes superhéroes echará a volar cuando abran la cabina de la armadura robótica, sienten la minifigura de Iron Man, coloquen los brazos y las piernas del robot en una postura de acción y disparen el cañón.
 - A los niños les apasionará el diseño de la Armadura Robótica de Iron Man (novedad en enero de 2020): una versión de Iron Man más grande con un peto que muestra su importantísimo núcleo de energía. Cuenta con cabina abatible para que la minifigura.
+- La imaginación de los jóvenes superhéroes echará a volar cuando abran la cabina de la armadura robótica, sienten la minifigura de Iron Man, coloquen los brazos y las piernas del robot en una postura de acción y disparen el cañón.
+- Armadura Robótica de Iron Man
 - Edad recomendada por el fabricante: 6+
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

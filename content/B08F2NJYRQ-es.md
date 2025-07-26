@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - JUEGA AL DENTISTA Y CREA SONRISAS. Abre y di “¡aah!”. Los niños pueden hacer que el paciente saque la lengua Play-Doh, y luego usar el molde de diente para crear una hilera completa de dientes Play-Doh de una sola vez
-- PERFORA Y RELLENA LOS DIENTES PLAY-DOH. Usa el torno de juguete manual para cavar las caries, luego exprime los rellenos Play-Doh de la jeringa extrusora para arreglarlas de inmediato
 - OCHO BOTES EN TOTAL CON COLOR PARA CARIES. ¡No se puede jugar al dentista Play-Doh sin tener los colores adecuados! Los botes de 56 gramos incluyen colores plateados y metálicos y especiales para caries, además de blanco, rojo y verde
+- PERFORA Y RELLENA LOS DIENTES PLAY-DOH. Usa el torno de juguete manual para cavar las caries, luego exprime los rellenos Play-Doh de la jeringa extrusora para arreglarlas de inmediato
 - AÑADE FRENOS Y RELLENOS PLAY-DOH DE COLOR METÁLICO. Los colores plateado y dorado de la plastilina Play-Doh son perfectos para hacer frenos con el rodillo y rellenos de caries con la jeringa extrusora
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye figura de Darth Vader
-- Apertura, cabina detallada y mecanismo de expulsión de la figura.
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat at bizak.es)
-- Nave espacial de Star Wars de 13 cm con 1 figura escala perfecta.
+- Apertura, cabina detallada y mecanismo de expulsión de la figura.
 - La cabina se abre. Presentación tipo Diorama, con todos los detalles y totalmente funcional.
+- Nave espacial de Star Wars de 13 cm con 1 figura escala perfecta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3KLJ2DN{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Referencia: S7916624
-- Medidas: 15,24 x 43,18 x 30 centímetros
+- Color: multicolor
 - Deporte de la marca Intex
 - ¡Si buscas calidad al mejor precio no sigas buscando!
-- Color: multicolor
+- Medidas: 15,24 x 43,18 x 30 centímetros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CSHJQC6{{</world>}}

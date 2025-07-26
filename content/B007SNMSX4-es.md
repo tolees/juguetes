@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Visión espacial y tridimensional
-- Juego de construcción con diversidad de formas
 - Ayuda a desarrollar la lógica de los niños
+- Juego de construcción con diversidad de formas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B007SNMSX4{{</world>}}

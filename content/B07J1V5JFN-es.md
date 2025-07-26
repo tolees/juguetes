@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad recomendada: 10
 - De 1 a 2 jugadores
+- Edad recomendada: 10
 - Duración: 30 minutos
 - Adecuado para gente competitiva y crítica, así como para los más sueltos
 

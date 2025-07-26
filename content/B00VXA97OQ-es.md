@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hay 4 modelos disponibles.
 - Envío de modelo aleatorio, no es posible elegir modelo.
-- Juego puzzle de madera.
-- Situado en una caja de madera, contiene 20 partes.
+- Hay 4 modelos disponibles.
 - Viste a tu oso.
+- Situado en una caja de madera, contiene 20 partes.
+- Juego puzzle de madera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00VXA97OQ{{</world>}}

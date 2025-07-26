@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En este Starter-Set, el módulo de acción Switch abre recorridos sobre la pista de canicas; se activa mediante el Controller (mando a distancia); intervén activamente en el recorrido de la canica: planifica los tiempos y las conexiones
 - Para niños a partir de 8 años
-- Innovación, lógica y diversión en un set de juego
 - Diviértete programando con módulos intercomunicados
+- En este Starter-Set, el módulo de acción Switch abre recorridos sobre la pista de canicas; se activa mediante el Controller (mando a distancia); intervén activamente en el recorrido de la canica: planifica los tiempos y las conexiones
 - Llega la magia de GraviTrax Power que amplía el universo GraviTrax: se pueden crear pistas infinitas controlando el recorrido de la canica a través del envío y la recepción de señales a los elementos electrónicos de la pista
+- Innovación, lógica y diversión en un set de juego
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B299H5JD{{</world>}}

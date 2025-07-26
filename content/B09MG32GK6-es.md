@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto de alta calidad
 - Marca: Hasbro Marvel
 - MARVEL LEGENDS 3.75 RETRO 32
-- Color: Multi
-- Producto de alta calidad
 - MARVEL LEGENDS 3.75 RETRO 32
+- Color: Multi
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MG32GK6{{</world>}}

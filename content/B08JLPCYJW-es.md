@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Barbie
 - Barbie Color Reveal Peinados Lazos, muñeca sorpresa de juguete con accesorios para el pelo y mascota
 - 3 años y más
-- Barbie
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JLPCYJW{{</world>}}

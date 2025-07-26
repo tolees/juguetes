@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clasificación PEGI: 16
 - Plataforma: PlayStation 4
-- Género: acción/aventura
-- Edición de los juegos: básica
 - Rango ESRB: T (adolescente)
+- Edición de los juegos: básica
+- Género: acción/aventura
+- Clasificación PEGI: 16
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JH99TG6{{</world>}}

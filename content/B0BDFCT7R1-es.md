@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Personaliza tu juego con los botones traseros con doble programación.
-- Utiliza el conector de 3,5 mm para disfrutar del audio en todos los juegos y el chat USB en los que sean compatibles
 - Diseño exclusivo que brilla en la oscuridad tras la exposición a la luz
-- Ajusta fácilmente el volumen del juego con el panel D del controlador.
 - Licencia oficial de Nintendo
+- Utiliza el conector de 3,5 mm para disfrutar del audio en todos los juegos y el chat USB en los que sean compatibles
+- Ajusta fácilmente el volumen del juego con el panel D del controlador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDFCT7R1{{</world>}}

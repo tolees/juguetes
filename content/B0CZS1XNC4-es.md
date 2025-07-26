@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sostenible y local: juego de mesa para adultos y niños, fabricado en Alemania y respetuoso con el medio ambiente. Además, apoyamos proyectos caritativos con el 1% de nuestras ganancias.
 - El objetivo del juego: responde correctamente las preguntas en 6 formatos de preguntas innovadores para no caer en el agujero negro. Cada respuesta incorrecta te costará puntos y te acercará al agujero negro. Quien cae primero pierde el juego de mesa.
+- La gravedad es EL juego de mesa en el que no se trata de ganar... ¡sino NO perder! Pon a prueba tus conocimientos y desafía a tus amigos y familiares con más de 1200 preguntas en 5 categorías de conocimientos.
 - Sé estratégico: ¡algunos campos te permiten revertir el curso del juego y empujar a tus oponentes al agujero negro! Como mezcla perfecta de juego de fiesta y juego de conocimiento, Gravity es el juego de mesa ideal para tus noches con amigos o familiares
 - Experimenta pura diversión con Gravity: a través de categorías y preguntas variadas aprenderás hechos extravagantes y el juego promete horas de entretenimiento para toda la familia
-- La gravedad es EL juego de mesa en el que no se trata de ganar... ¡sino NO perder! Pon a prueba tus conocimientos y desafía a tus amigos y familiares con más de 1200 preguntas en 5 categorías de conocimientos.
+- Sostenible y local: juego de mesa para adultos y niños, fabricado en Alemania y respetuoso con el medio ambiente. Además, apoyamos proyectos caritativos con el 1% de nuestras ganancias.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZS1XNC4{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Stick analógico de corto recorrido con restrictor octagonal para una mayor rapidez y precisión
 - Componentes de alta calidad para mayor precisión y durabilidad, incluyendo botones mecánicos Micro Switch
 - Hasta 4 perfiles distintos
+- Stick analógico de corto recorrido con restrictor octagonal para una mayor rapidez y precisión
 - Diseñado específicamente para juegos de lucha en 2D
 - Compatible con PS5/PS4/PC
+- Licencia oficial de Sony
 - Fácil configuración con la aplicación complementaria, compatible con PC
 - Toma de auriculares y controles de audio integrados
-- Licencia oficial de Sony
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQTTWPQ{{</world>}}

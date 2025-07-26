@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1000 piezas
 - Número de jugadores: a partir de 1 jugador
+- 1000 piezas
 - Edad recomendada: a partir de 12 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

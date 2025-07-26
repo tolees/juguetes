@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los bloques presentan todas las letras de la A a la Z.
-- Tren musical fácil de construir para aprender el abecedario.
-- Un juguete perfecto para manos pequeñas.
-- Conjunto de juego de 50 piezas que incluye tres bases con ruedas, bloques de construcción y formas especiales de tren.
 - Los juegos manuales estimulan el desarrollo desde la primera infancia.
+- Los bloques presentan todas las letras de la A a la Z.
 - Aprieta la chimenea para activar sonidos reales de tren y música.
+- Un juguete perfecto para manos pequeñas.
+- Tren musical fácil de construir para aprender el abecedario.
+- Conjunto de juego de 50 piezas que incluye tres bases con ruedas, bloques de construcción y formas especiales de tren.
 - ¡También se puede combinar con otros juguetes de construcción Mega Bloks de preescolar!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

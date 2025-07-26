@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El ajuste del casco se puede regular con el forro interior y las almohadillas de las mejillas. Si has pedido un casco demasiado grande o pequeño para ti, ponte en contacto con nosotros a través de Amazon.
-- ✅ [SEGURIDAD] La carcasa está construida en ABS, y el diseño preformado de la carcasa proporciona una guía segura de la correa.
-- ✅ [MATERIAL] Forro interior acolchado extraíble, absorbente del sudor y lavable.
-- ✅ [CARACTERÍSTICAS] Gráficos duraderos y multicolores y acabado mate.
 - Las viseras de repuesto están disponibles por separado.
+- ✅ [MATERIAL] Forro interior acolchado extraíble, absorbente del sudor y lavable.
+- ✅ [SEGURIDAD] La carcasa está construida en ABS, y el diseño preformado de la carcasa proporciona una guía segura de la correa.
+- El ajuste del casco se puede regular con el forro interior y las almohadillas de las mejillas. Si has pedido un casco demasiado grande o pequeño para ti, ponte en contacto con nosotros a través de Amazon.
+- ✅ [CARACTERÍSTICAS] Gráficos duraderos y multicolores y acabado mate.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089SX7K1H{{</world>}}

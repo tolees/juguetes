@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Licencia oficial de Nintendo
+- La precisión y comodidad del Pro Controller, en modo portátil
 - Botones traseros programables
 - Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
-- Licencia oficial de Nintendo
-- Versión compacta del Split Pad Pro, ideal también para manos pequeñas
 - Compatible con la base de Nintendo Switch: carga la consola sin necesidad de retirarlo
-- La precisión y comodidad del Pro Controller, en modo portátil
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Versión compacta del Split Pad Pro, ideal también para manos pequeñas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5LX9RQV{{</world>}}

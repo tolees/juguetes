@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un sinfín de aventuras
-- Un viaje con pedigrí
 - Innovación en el combate
+- Un viaje con pedigrí
+- Un sinfín de aventuras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CMD3YS3N{{</world>}}

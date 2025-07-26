@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con este set LEGO Minecraft, los niños pueden construir una casa con forma de calabaza, cuidar un huerto de calabazas, enfrentarse a una bruja con pociones, navegar en un barco de juguete y combinar ingredientes para "hacer" pastel de calabaza
-- El set incluye a uno de los personajes más populares de Minecraft, Steve, equipado con una azada y un arco, además de una bruja con pociones y una rana con sus huevos
 - Los fans de Minecraft pueden construir la casa con forma de calabaza de Steve y el huerto que la rodea, y descubrir objetos geniales como una mesa de manualidades, un horno, un barco de juguete y un cofre del tesoro que contiene un huevo y azúcar
+- El set incluye a uno de los personajes más populares de Minecraft, Steve, equipado con una azada y un arco, además de una bruja con pociones y una rana con sus huevos
+- Con este set LEGO Minecraft, los niños pueden construir una casa con forma de calabaza, cuidar un huerto de calabazas, enfrentarse a una bruja con pociones, navegar en un barco de juguete y combinar ingredientes para "hacer" pastel de calabaza
 - El set LEGO Minecraft La Granja-Calabaza incluye una casa Minecraft de juguete para construir en el famoso bioma del pantano del juego, con figuras de personajes clásicos de Minecraft y fantásticos accesorios
 - Regala a los amantes de a partir de 8 años de Minecraft y de la construcción, este versátil set de juego de Minecraft que permite a niños y niñas vivir aventuras llenas de acción en el mundo real
 

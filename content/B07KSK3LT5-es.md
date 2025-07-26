@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene: 82 cartas
 - Tiempo: 20-25 minutos
-- Edad: +7
 - Jugadores: 3-5
+- Edad: +7
+- Contiene: 82 cartas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KSK3LT5{{</world>}}

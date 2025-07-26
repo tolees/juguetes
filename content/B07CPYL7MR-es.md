@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dificultad: medio
-- De 1 a 4 jugadores
 - Duración: 45-90 minutos
 - A partir de los 12 años
+- De 1 a 4 jugadores
+- Dificultad: medio
 - Idioma principal: español
 
 [🛒 Visítala!!!]({{< param buyurl >}})

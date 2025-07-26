@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A partir de 14 años de edad
-- Como Living Card Game, habrá disponibles cartas y misiones adicionales en expansiones futuras, lo que permite a los jugadores personalizar los contenidos de esta caja o crear sus propios mazos originales.
 - En El Señor de los Anillos: el Juego de Cartas, los jugadores reúnen un grupo de aventureros que intentan completar peligrosas misiones en la Tierra Media.
-- Desde los alegres campos de la Comarca a los siniestros caminos del Bosque Negro y hasta en los poderosos reinos de Gondor y Rohan, los memorables héroes de esta famosa ambientación se unen para resistir la amenaza de Sauron, el Señor Oscuro.
 - El Señor de los Anillos, el Juego de Cartas es un juego cooperativo para de 1 a 4 jugadores en el que éstos colaboran para competir contra los escenarios controlados por el juego.
+- Como Living Card Game, habrá disponibles cartas y misiones adicionales en expansiones futuras, lo que permite a los jugadores personalizar los contenidos de esta caja o crear sus propios mazos originales.
+- A partir de 14 años de edad
+- Desde los alegres campos de la Comarca a los siniestros caminos del Bosque Negro y hasta en los poderosos reinos de Gondor y Rohan, los memorables héroes de esta famosa ambientación se unen para resistir la amenaza de Sauron, el Señor Oscuro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09L4X6K3G{{</world>}}

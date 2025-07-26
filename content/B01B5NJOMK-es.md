@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La línea de puzles pensada para los amantes del arte
-- Marca: Clementoni
 - Para pasar un momento con amigos o familia
+- Marca: Clementoni
 - Desarrolla habilidades de observación, lógica y destreza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a explorar las diferencias entre la imaginación y el mundo real
 - Desarrolla la capacidad narrativa y las habilidades sociales
 - Materiales de alta calidad
 - Producto probado y seguro para su bebé
+- Ayuda a explorar las diferencias entre la imaginación y el mundo real
 - Desarrolla la creatividad y las competencias matemáticas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

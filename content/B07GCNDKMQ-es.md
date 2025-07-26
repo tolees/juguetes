@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para niñas a partir de 3 años
 - Incluye trampilla secreta, cofre de tesoros, remos y vela pirata
 - Conjunto que contiene barco pirata con una figura pirata Pinypon
+- Para niñas a partir de 3 años
 - Ayuda a desarrollar la imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

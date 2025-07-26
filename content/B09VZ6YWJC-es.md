@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REGALO IDEAL: Si buscas un regalo para tu novio, cumpleaños, Navidad u otra festividad, con nuestros juegos de mesa no fallarás. ¿Conoces a alguien que le gustan los escape room? Regala este juego de ingenio o complétalo en alguna ocasión especial.
-- CONSEJOS Y SOLUCIONES EN LÍNEA: ¿No avanzas en la investigación? No te preocupes, puedes obtener consejos online en nuestra web. Además, una vez resuelto el caso, podrás comprobar tu teoría y obtener la solución, si fallas, no pasa nada, podrás continuar hasta resolverlo.
 - CONVIERTETE EN DETECTIVE: Ponte en la piel de un investigador para resolver el crimen de Los Álamos. ¿Serás tan bueno como los detectives de la televisión? Para resolver este caso de asesinato tendrás que encontrar la respuesta a estas dos preguntas, ¿Qué oculta la mejor amiga de Nerea? y ¿Quién mató a Nerea? Comprueba todos los documentos, crea líneas temporales y confirma las coartadas para resolver el Escape Room.
 - PERFECTO PARA UNO SOLO, PAREJAS, GRUPOS O FIESTAS: El Crimen de Los Álamos es un juego de mesa perfeto si buscas un reto individual para desarrollar tu ingenio. También, si deseas hacerlo en grupo, es un juego perfecto para jugar en pareja o en una noche con tus amigos, reuniones familiares o fiestas. La duración aproximada es entre 1:30 y 2:30 horas.
+- REGALO IDEAL: Si buscas un regalo para tu novio, cumpleaños, Navidad u otra festividad, con nuestros juegos de mesa no fallarás. ¿Conoces a alguien que le gustan los escape room? Regala este juego de ingenio o complétalo en alguna ocasión especial.
+- CONSEJOS Y SOLUCIONES EN LÍNEA: ¿No avanzas en la investigación? No te preocupes, puedes obtener consejos online en nuestra web. Además, una vez resuelto el caso, podrás comprobar tu teoría y obtener la solución, si fallas, no pasa nada, podrás continuar hasta resolverlo.
 - MÁS DE 40 DOCUMENTOS Y FOTOS DE INVESTIGACIÓN: El juego de mesa contiene artículos de periódico, fotografías de la escena del crimen, informe de pruebas, registros telefónicos, informe forense, mapa de la escena del crimen y de la ciudad, documentos legales, interrogatorios de sospechosos, declaraciones de testigos, fotografías de personajes, conversaciones privadas y mucho más.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
