@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PERSONAJE COORTIS: Incluye Coortis, nadie sabe cómo llena el depósito de su cañón lanzador de chorros pegajosos.
-- VEHÍCULO MORADO: Con el avión podrás desplegar dos brazos de ambos lados del vehículo para robar troncos de las construcciones de tus rivales. ¡Vence a los Woodies!
-- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
-- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
-- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
-- METAVERSO ZELLTIA: Escanea el código QR de los packs y juega en un mundo virtual. ¡Podrás crear tu personaje y escoger tu bando!
 - 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
+- METAVERSO ZELLTIA: Escanea el código QR de los packs y juega en un mundo virtual. ¡Podrás crear tu personaje y escoger tu bando!
+- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
+- VEHÍCULO MORADO: Con el avión podrás desplegar dos brazos de ambos lados del vehículo para robar troncos de las construcciones de tus rivales. ¡Vence a los Woodies!
+- PERSONAJE COORTIS: Incluye Coortis, nadie sabe cómo llena el depósito de su cañón lanzador de chorros pegajosos.
+- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
+- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQRS1QLB{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pillado con los pantalones bajados: Los niños se turnan para colocar las herramientas en el cinturón del fontanero. Cada herramienta que se coloque bajará sus pantalones un poco más
 - ¡Gástale una broma al fontanero! Fontanero en apuros es un juego para niños a partir de 4 años con reglas sencillas y sorpresas divertidas para todos
 - ¿Quién ganará? El único jugador al que no se le caigan los pantalones al fontanero, y no moje a sus amigos, ganará el juego Fontanero en apuros
 - ¡Todos se mojarán! El suspense va creciendo mientras los niños esperan a ver quién hará caer los pantalones al fontanero para que salpique agua alrededor del fregadero
+- Pillado con los pantalones bajados: Los niños se turnan para colocar las herramientas en el cinturón del fontanero. Cada herramienta que se coloque bajará sus pantalones un poco más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SKHK5J1{{</world>}}

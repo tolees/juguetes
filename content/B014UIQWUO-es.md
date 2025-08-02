@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Edad mínima recomendada de tres años
 - Se puede combinar con otros cubos o con un conjunto temático especial
+- Edad mínima recomendada de tres años
 - Juego de narración que estimula la imaginación, creatividad y la conexión entre generaciones
 - Juego universal, libre de lenguaje y abierto a la interpretación
 

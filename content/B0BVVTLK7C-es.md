@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 1000km, juego de cartas es el juego capaz de unir a toda la familia y en esta versión ¡se vuelve más ecológico que nunca!
-- Juega con tus cartas de kilómetros y corre la carrera con tu vehículo eléctrico hasta llegar a la meta de los 1000 kilómetros.
-- Juego recomendado a partir de 6 años para jugar en familia, en esta versión pueden jugar hasta 6 jugadores.
 - Puedes obstaculizar a los demás jugadores con las cartas de ataque, defenderte con las cartas de defensa o las de protección para dar el "golpe maestro".
+- Juego recomendado a partir de 6 años para jugar en familia, en esta versión pueden jugar hasta 6 jugadores.
+- Juega con tus cartas de kilómetros y corre la carrera con tu vehículo eléctrico hasta llegar a la meta de los 1000 kilómetros.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVVTLK7C{{</world>}}

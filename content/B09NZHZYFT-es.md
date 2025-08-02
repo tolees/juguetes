@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Los bloques pueden combinarse con todos los conjuntos de construcción de MEGA y de Barbie y son compatibles con otras marcas principales
 - Construye el barco, los aros para que salten los delfines y la cabaña de la playa
 - Estos conjuntos de construcción, ideales para niños a partir de 4 años, ofrecen experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 - Hay más de 10 sorpresas: qué descubrirás?
-- Los bloques pueden combinarse con todos los conjuntos de construcción de MEGA y de Barbie y son compatibles con otras marcas principales
 - El conjunto de construcción viene con 2 micromuñecas Barbie Color Reveal, 2 delfines, 114 bloques y piezas especiales que incluyen accesorios temáticos, 1 caja en forma de corazón y 2 bases en forma de corazón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

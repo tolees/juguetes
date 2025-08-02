@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Otros componentes se venden por separado.
-- Producto util y practico
 - Guarde hasta 3 perfiles personalizados en el controlador y cambie entre ellos en cualquier momento.
+- Producto util y practico
 - El controlador contiene todos los componentes que necesita para un juego óptimo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

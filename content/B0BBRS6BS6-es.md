@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con instrucciones de construcción digitales interactivas disponibles en la app LEGO Builder, con herramientas de rotación, zoom y visualización en 3D que permiten aprender y divertirse construyendo
-- Dale a los niños de 6 años en adelante la oportunidad de vivir increíbles aventuras junto a 3 divertidos personajes de LEGO Friends en este restaurante de juguete con asientos al aire libre, un juego de arcade y gramola
-- Una gran idea de regalo de cumpleaños o en cualquier ocasión para niñas y niños pequeños amantes de los juguetes de comida y los juegos de rol: podrán imaginarse que son cocineros, clientes o simplemente inventar sus propias historias
 - Este restaurante de juguete de LEGO Friends incluye una zona de autoservicio y muchos divertidos accesorios como una nevera, 2 bebidas, dinero de mentira, rebanadas de pan para bocadillos y un cubo de basura
+- Dale a los niños de 6 años en adelante la oportunidad de vivir increíbles aventuras junto a 3 divertidos personajes de LEGO Friends en este restaurante de juguete con asientos al aire libre, un juego de arcade y gramola
+- Con instrucciones de construcción digitales interactivas disponibles en la app LEGO Builder, con herramientas de rotación, zoom y visualización en 3D que permiten aprender y divertirse construyendo
+- Una gran idea de regalo de cumpleaños o en cualquier ocasión para niñas y niños pequeños amantes de los juguetes de comida y los juegos de rol: podrán imaginarse que son cocineros, clientes o simplemente inventar sus propias historias
 - Los peques podrán elegir una canción en la máquina de discos que se mueve al girar una perilla o jugar un videojuego con Aliya mientras esperan a Liann en su patinete, ¡una vez que haya llegado podrán preparar el famoso sándwich gigante de Charlie!
 - Para vivir nuevas aventuras, este set inspirado en Heartlake City incluye 3 mini muñecas pertenecientes a la generación de 2023 de personajes LEGO Friends: la trabajadora Aliya, Liann con un patinete de juguete, Charli y la figura de gatito
 

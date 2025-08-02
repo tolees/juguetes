@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cientos de combinaciones posibles.
 - Cada partida es diferente.
-- Comienza el juego, ¿estás preparado?
 - Pulsalo y se el primero en encontrar los marcianos iguales a los dados.
+- Comienza el juego, ¿estás preparado?
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Cientos de combinaciones posibles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSNL4RHX{{</world>}}

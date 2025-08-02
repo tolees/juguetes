@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Una aventura gráfica en tu mesa de juego
-- Este producto es un juego de investigación y aventuras
 - Pueden participar entre uno y cuatro jugadores, a partir de los 12 años de edad
+- Este producto es un juego de investigación y aventuras
 - Viajando a una isla volcánica, cooperarás con tus compañeros y desvelarás los secretos ocultos, buscarás pistas y solucionarás el misterio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

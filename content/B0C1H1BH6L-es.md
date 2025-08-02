@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dentro encontrarás todo lo publicado en la primera oleada de packs de Héroe de Marvel Champions, incluidas las cartas adicionales que incrementarán tus opciones a la hora de diseñar tus propios mazos.
-- Se necesita necesita una caja básica de MARVEL CHAMPIONS para jugar.
 - ¡Ningún equipo de héroes estará completo sin él!
-- ¡Seis héroes en una caja única!
+- Se necesita necesita una caja básica de MARVEL CHAMPIONS para jugar.
 - Utiliza su poder en tus aventuras de Marvel Champions: El juego de cartas con este recopilatorio de Héroes reunidos.
+- ¡Seis héroes en una caja única!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1H1BH6L{{</world>}}

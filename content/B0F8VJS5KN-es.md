@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego estratégico experto en el que tendremos que buscar vida extraterrestre en el espacio y comunicarnos con ella
 - Una presencia en mesa increíble y diversas razas alienígenas que van a aportar mucha rejugabilidad a tus partidas
+- Juego estratégico experto en el que tendremos que buscar vida extraterrestre en el espacio y comunicarnos con ella
 - El Eurogame del año, consiguiendo el record de ventas en Essen-Spiel 2024 y una posición increíble en la BGG en solo cuestión de meses
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

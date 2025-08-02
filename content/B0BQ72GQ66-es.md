@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego familiar cooperativo con una configuración de casa en la mesa y con distintos módulos que forman habitaciones de tu casa
 - Creado por Paul Peterson, reputado autor de juegos como Smash Up o Guillotine; descubrirás todos los posibles desenlaces
-- El número de jugadores es de dos a cinco, a partir de los ocho años de edad
+- Juego familiar cooperativo con una configuración de casa en la mesa y con distintos módulos que forman habitaciones de tu casa
 - Cuenta con cinco escenarios distintos, en los que viviremos descabelladas aventuras
+- El número de jugadores es de dos a cinco, a partir de los ocho años de edad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ72GQ66{{</world>}}

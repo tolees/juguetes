@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Armas de guerra
-- Aquellos que desafían al destino
 - Explora los reinos
+- Aquellos que desafían al destino
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6FYJZVJ{{</world>}}

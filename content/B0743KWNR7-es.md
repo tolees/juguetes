@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 2 a 6 jugadores
-- Duración 40 minutos
 - A partir de 7 años
+- Duración 40 minutos
 - Edición en castellano y portugués
+- De 2 a 6 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0743KWNR7{{</world>}}

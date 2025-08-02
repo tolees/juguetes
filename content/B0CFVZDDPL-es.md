@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Estimula la creatividad de tu peque: los sets de juego LEGO Super Mario, diseñados para jugar solo o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - Un personaje del universo del videojuego Super Mario para construir: la figura LEGO Super Mario de Bowser tiene una etiqueta de acción, lista para el juego interactivo
-- Juguete coleccionable infantil para divertirse en familia: coloca a Bowser en el asiento del conductor y tira de la palanca amarilla hacia un lado para mover el adorno del capó y hacia el otro para activar otros trucos
 - El Coche Monstruoso de Bowser en versión de juguete infantil: prepárate para pasarlo a lo bestia conduciendo, compitiendo e interpretando aventuras con este set de expansión LEGO Super Mario
+- App LEGO Super Mario: descarga la app, donde encontrarás las instrucciones para construir el coche de juguete de Bowser, ideas inspiradoras y más contenidos
+- Juguete coleccionable infantil para divertirse en familia: coloca a Bowser en el asiento del conductor y tira de la palanca amarilla hacia un lado para mover el adorno del capó y hacia el otro para activar otros trucos
 - Idea de regalo para niños y niñas de 8 años o más: este set de 458 piezas es un divertido regalo para gamers; se necesita un set LEGO Super Mario (71439, 71440 o 71441) para jugar de manera interactiva
 - Juego interactivo: ayuda a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) a conducir el coche y, además de escuchar efectos de sonido, como un claxon, un motor en marcha y el chirrido de neumáticos, podrás ganar monedas digitales
-- App LEGO Super Mario: descarga la app, donde encontrarás las instrucciones para construir el coche de juguete de Bowser, ideas inspiradoras y más contenidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVZDDPL{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayudan a los niños en edad preescolar a representar sus episodios favoritos
 - Basadas en personajes del mundo de Peppa Pig
+- Ayudan a los niños en edad preescolar a representar sus episodios favoritos
 - Inspirados en la serie animada clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

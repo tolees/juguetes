@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Marvel´s Eternals
 - Licencia Oficial
 - Monopoly
-- +8 años
 - 2-6 Jugadores
+- +8 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0963VR6QH{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡El regalo perfecto para cualquier fiesta!
 - Cada vehículo se presenta a escala 1:64 con detalles realistas y acabados auténticos.
-- ¡Un gran regalo para niños y coleccionistas!
+- ¡El regalo perfecto para cualquier fiesta!
 - Packs de 5 vehículos Matchbox clásicos de diversas temáticas (se venden por separado).
+- ¡Un gran regalo para niños y coleccionistas!
 - ¡Colecciónalos todos! (Se venden por separado).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

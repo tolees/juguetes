@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ARSENAL EXPLOSIVO: ¡Ataca agresivamente con armas como el spread shot (disparo disperso), láser y homing missiles (misiles teledirigidos), ahora con mejoras acumulables!
 - ACCIÓN COOPERATIVA DE 4 JUGADORES: ¡Únete con amigos para un combate cooperativo local! Hasta dos jugadores pueden unirse en el Modo Historia y hasta cuatro jugadores pueden unir fuerzas en el Modo Arcade.
-- El juego es un cupón Code in a Box, no incluye un cartucho/ disco.
-- JUGABILIDAD CLÁSICA DE CORRER Y DISPARAR: ¡Corre, salta y dispara en ocho niveles llenos de acción! ¡Infíltrate en la jungla, asciende por la cascada, avanza a gran velocidad a través de una base enemiga en un hovercycle y mucho más!
 - RECARGADO. REIMAGINADO. RENACIDO. ¡LA SERIE ORIGINAL DE CORRER Y DISPARAR ESTÁ DE VUELTA!
+- ARSENAL EXPLOSIVO: ¡Ataca agresivamente con armas como el spread shot (disparo disperso), láser y homing missiles (misiles teledirigidos), ahora con mejoras acumulables!
+- JUGABILIDAD CLÁSICA DE CORRER Y DISPARAR: ¡Corre, salta y dispara en ocho niveles llenos de acción! ¡Infíltrate en la jungla, asciende por la cascada, avanza a gran velocidad a través de una base enemiga en un hovercycle y mucho más!
+- El juego es un cupón Code in a Box, no incluye un cartucho/ disco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP3TRXTG{{</world>}}

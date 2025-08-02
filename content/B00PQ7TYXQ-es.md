@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de jugadores: 3 - 12
-- Edición en italiano
-- Dixit, el juego de creatividad y fantasía en un formato de hasta 12 jugadores, con tarjetas ilustradas y que permite la experiencia de juego también en equipos
-- Número de jugadores: 3-12
 - Edad recomendada: a partir de 8 años
 - Duración media: 30 minutos
+- Número de jugadores: 3 - 12
+- Dixit, el juego de creatividad y fantasía en un formato de hasta 12 jugadores, con tarjetas ilustradas y que permite la experiencia de juego también en equipos
+- Número de jugadores: 3-12
+- Edición en italiano
 - Idioma: edición multilingüe con italiano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

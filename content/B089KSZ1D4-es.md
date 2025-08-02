@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - En este juego cooperativo único, los jugadores trabajan codo con codo para crear un magnífico espectáculo pirotécnico.
-- Nadie consigue ver con tanto humo qué es lo que está manipulando… así que tendrás que dar a tus compañeros información de vital importancia
-- Llega, de la mano del laureado Antoine Bauza Hanabi: ¡un sorprendente, increíble e innovador reto!
-- Sin embargo todos ellos tendrán que sujetar sus cartas al revés, ya que ¡la pólvora, las mechas y los cohetes se han mezclado!
 - De 2 a 5 jugadores. A partir de 8 años de edad.
+- Sin embargo todos ellos tendrán que sujetar sus cartas al revés, ya que ¡la pólvora, las mechas y los cohetes se han mezclado!
+- Llega, de la mano del laureado Antoine Bauza Hanabi: ¡un sorprendente, increíble e innovador reto!
+- Nadie consigue ver con tanto humo qué es lo que está manipulando… así que tendrás que dar a tus compañeros información de vital importancia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089KSZ1D4{{</world>}}

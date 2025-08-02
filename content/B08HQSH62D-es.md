@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recomendado a Partir de 18 Años de Edad
+- Juego de 3 a 13 Jugadores
 - Contiene: 500 cartas y un reglamento
 - Con una duración de 30-90 Minutos por partida
 - Juego de Mesa en Español
-- Juego de 3 a 13 Jugadores
+- Recomendado a Partir de 18 Años de Edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HQSH62D{{</world>}}

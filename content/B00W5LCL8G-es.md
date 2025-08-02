@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de jugadores: 2 - 5
+- Reglamento y piezas de juego
 - Edad recomendada: 7 años y más. Duración aproximada de la partida: 35 min
+- Reglamento y piezas de juego
+- Número de jugadores: 2 - 5
 - Juego de mesa
-- Reglamento y piezas de juego
-- Reglamento y piezas de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00W5LCL8G{{</world>}}

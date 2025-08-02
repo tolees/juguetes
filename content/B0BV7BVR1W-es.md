@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Caza Estelar N-1 de Star Wars cuenta con una cabina abierta para el Mandaloriano, espacio para Grogu detrás de la cabina y 2 cañones para juegos de acción
-- Incluye 2 populares personajes de Star Wars: una minifigura LEGO del Mandaloriano con un casco, una pistola bláster y una mochila propulsora, y una figura LEGO de Grogu (cariñosamente conocido como " baby Yoda")
 - Este set de juguete LEGO Star Wars para construir se combina con otros sets LEGO Star Wars Microfighter (se venden por separado) para ofrecer aún más posibilidades de juego
 - Los niños a partir de 6 años pueden construir una maqueta LEGO a microescala del Caza Estelar N-1 de The Mandalorian visto por primera vez en Star Wars: El libro de Boba Fett, junto con 2 emblemáticos personajes y accesorios auténticos
+- Incluye 2 populares personajes de Star Wars: una minifigura LEGO del Mandaloriano con un casco, una pistola bláster y una mochila propulsora, y una figura LEGO de Grogu (cariñosamente conocido como " baby Yoda")
 - Con los sets LEGO Star Wars los niños y adultos recrean escenas de La Guerra de las Galaxias, inventan sus propias historias y exponen las maquetas; este set es un magnífico regalo temático de Star Wars para niños y niñas a partir de 6 años
+- El Caza Estelar N-1 de Star Wars cuenta con una cabina abierta para el Mandaloriano, espacio para Grogu detrás de la cabina y 2 cañones para juegos de acción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BV7BVR1W{{</world>}}

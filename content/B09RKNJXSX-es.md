@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El juego se desarrolla en la Europa de principios de siglo XX
-- Diplomacy es el juego de mesa de estrategia militar por antonomasia.
 - Las unidades militares tienen todas la misma fuerza o poder de ataque, por lo que las ayudas (propias o de otros jugadores) se hacen imprescindibles.
+- Diplomacy es el juego de mesa de estrategia militar por antonomasia.
+- El juego se desarrolla en la Europa de principios de siglo XX
 - De 2 a 7 jugadores. A partir de 12 años.
 - Diplomacy permite la negociación entre los jugadores, negociaciones que luego no tienen por que cumplirse.
 

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto de calidad óptima
+- Puede ser un regalo bonito
 - Exit Puzzle: El Faro Solitario
 - Diseñado para embellecer los momentos del juego
-- Puede ser un regalo bonito
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JQZ3WTJ{{</world>}}

@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un juego que implica atención e estrategia
+- Duración aproximada de la partida 75 min
+- Duración aproximada de la partida 75 min
 - Premio Spiel des Jahres 1995
 - Un juego que implica atención e estrategia
-- Duración aproximada de la partida 75 min
 - Premio Spiel des Jahres 1995
-- Duración aproximada de la partida 75 min
 - Recomendado para 3 o 4 jugadores Edad recomendada +10 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

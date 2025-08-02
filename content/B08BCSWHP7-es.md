@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 18 a 40 años. De 2 a 12 Jugadores. 30 minutos de juego
-- Sumérgete en los recuerdos de los años 80-90 y el efecto 2000 y recupera al niño que llevas dentro.
-- Preguntas, pruebas y desafíos hilarantes.
 - El juego de mesa para los niños que nacieron antes del 2000
-- Un divertido juego para compartir con tus amigos y revivir vuestra infancia. Preguntas, pruebas y desafíos 100% MILLENIALS.
+- De 18 a 40 años. De 2 a 12 Jugadores. 30 minutos de juego
 - Incluye pequeños juguetes que marcaron una época
+- Preguntas, pruebas y desafíos hilarantes.
+- Sumérgete en los recuerdos de los años 80-90 y el efecto 2000 y recupera al niño que llevas dentro.
+- Un divertido juego para compartir con tus amigos y revivir vuestra infancia. Preguntas, pruebas y desafíos 100% MILLENIALS.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BCSWHP7{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viene con 12 dardos de espuma Nerf Elite oficiales; tiene almacenamiento incorporado para 12 dardos para tenerlos al alcance al hacer recargas
 - La parte delantera del cañón se abre para facilitar la carga de dardos: presiona el cuerno delantero para abrir el cañón, coloca los 3 dardos en el interior, cierra el cañón, prepara y dispara (no requiere pilas)
+- Viene con 12 dardos de espuma Nerf Elite oficiales; tiene almacenamiento incorporado para 12 dardos para tenerlos al alcance al hacer recargas
 - Precipítate a la acción de triple dardo con el lanzador que tiene detalles de dinosaurio que reproduce la apariencia de un dinosaurio Triceratops
 - Baja el percutor para preparar el lanzador, luego aprieta el gatillo para lanzar 1 dardo
 

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La figura del dragón de hielo tiene 6 patas y cuenta con afiladas garras de hielo, cola larga, cuernos y alas con cuchillas doradas; cuando los niños estén listos podrán transformarlo en el increíble guerrero dragontino de 2 patas con una hoja de oro
-- Este set 2en1 de LEGO NINJAGO incluye un dragón de juguete de hielo articulado para construir que se transforma en una figura de acción de un guerrero dragontino bípedo, ¡los peques podrán elegir una de las criaturas y defender la ciudad de NINJAGO!
-- Al completar la misión, los niños son recompensados con 2 banderas de insignia coleccionables que pueden exhibir con orgullo en la parte posterior de la figura del dragón o en la figura de acción del guerrero dragontino
-- Este juguete de construcción de 973 piezas es un gran regalo de cumpleaños o en alguna ocasión especial para los pequeños amantes de los héroes de LEGO NINJAGO, ¡será una divertida experiencia de construcción que no olvidarán!
 - Una gran idea de regalo de Navidad, regalo de Reyes, regalo de Papá Noel o regalo de amigo invisible para niños y niñas de 10 años en adelante
-- El set también incluye un pequeño templo para construir con ladrillos LEGO donde el malvado trío de guerreros se reúne planeando su próximo ataque, ¡armate de valor con Zane y su dragón de juguete para derrotarlos!
+- Este juguete de construcción de 973 piezas es un gran regalo de cumpleaños o en alguna ocasión especial para los pequeños amantes de los héroes de LEGO NINJAGO, ¡será una divertida experiencia de construcción que no olvidarán!
+- Al completar la misión, los niños son recompensados con 2 banderas de insignia coleccionables que pueden exhibir con orgullo en la parte posterior de la figura del dragón o en la figura de acción del guerrero dragontino
+- La figura del dragón de hielo tiene 6 patas y cuenta con afiladas garras de hielo, cola larga, cuernos y alas con cuchillas doradas; cuando los niños estén listos podrán transformarlo en el increíble guerrero dragontino de 2 patas con una hoja de oro
 - Incluye 5 mini figuras LEGO NINJAGO de Zane y Pixal con espadas de juguete, que lucharán contra el Caballero Huesos, el Guerrero Huesos y el Rey Huesos, cada uno con sus propios accesorios de armas
+- Este set 2en1 de LEGO NINJAGO incluye un dragón de juguete de hielo articulado para construir que se transforma en una figura de acción de un guerrero dragontino bípedo, ¡los peques podrán elegir una de las criaturas y defender la ciudad de NINJAGO!
+- El set también incluye un pequeño templo para construir con ladrillos LEGO donde el malvado trío de guerreros se reúne planeando su próximo ataque, ¡armate de valor con Zane y su dragón de juguete para derrotarlos!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRYGN1H{{</world>}}

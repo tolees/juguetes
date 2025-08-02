@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Juguete articulable
 - Altura de Producto 21.5 cm
 - A partir de 3 ans
-- Juguete articulable
 - Juguete Educativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

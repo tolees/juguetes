@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Materiales de alta calidad
 - Diseñado para embellecer los momentos del juego
 - Tapa decorada
-- Materiales de alta calidad
 - 36 accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

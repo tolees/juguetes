@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La divertida Cocina Comunitaria de Heartlake City de LEGO Friends tiene un terraza en el techo, zona al aire libre y una cocina de juguete con muchos accesorios para jóvenes chefs
 - Expande la diversión del universo LEGO Friends de tu peque y combina este set con el Centro Comunitario de Heartlake City (41748) para crear un modelo aún más grande
 - Los niños se lo pasarán en grande jugando a las cocinitas y haciendo recetas en la detallada cocina con despensa, nevera, fregadero, ollas y utensilios
-- Este juguete de construcción creativa es un gran regalo de cumpleaños o en cualquier ocasión para niñas y niños de más de 8 años que aman la cocina, las cocinitas de juguete y los juegos imaginativos
 - Este juguete de comida incluye las mini muñecas de Leo, su hermana Alba y una Abuelita, además de Matilde como cliente y el gatito Churro
+- Este juguete de construcción creativa es un gran regalo de cumpleaños o en cualquier ocasión para niñas y niños de más de 8 años que aman la cocina, las cocinitas de juguete y los juegos imaginativos
+- La divertida Cocina Comunitaria de Heartlake City de LEGO Friends tiene un terraza en el techo, zona al aire libre y una cocina de juguete con muchos accesorios para jóvenes chefs
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPC9W86T{{</world>}}
