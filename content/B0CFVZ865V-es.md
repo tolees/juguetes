@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 7 personajes LEGO Harry Potter: minifiguras de Harry Potter, Hermione Granger, Ron Weasley, Draco Malfoy y Rubeus Hagrid, así como figuras LEGO del dragón Norberto y de Fang, el perro de Hagrid
-- Idea de regalo para peques: este set es un divertido detalle o regalo de cumpleaños para niñas y niños a partir de 8 años a los que les encante el universo Mágico de Harry Potter
-- Una ayuda práctica: descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los constructores y las constructoras podrán acercar y girar versiones 3D de sus modelos, seguir sus progresos y guardar sets LEGO
 - 2 de los 14 cuadros de Hogwarts coleccionables: este juguete de construcción de Harry Potter contiene 2 elementos de color dorado que representan cuadros de Hogwarts (aleatorios, de los 14 posibles) para exponerlos en la cabaña de Hagrid
-- Juguete de fantasía LEGO Harry Potter para el juego de aventuras: recrea la visita inesperada de Harry Potter y sus amigos a la cabaña de Rubeus Hagrid, un emblemático lugar del universo Mágico
+- 7 personajes LEGO Harry Potter: minifiguras de Harry Potter, Hermione Granger, Ron Weasley, Draco Malfoy y Rubeus Hagrid, así como figuras LEGO del dragón Norberto y de Fang, el perro de Hagrid
+- Una ayuda práctica: descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los constructores y las constructoras podrán acercar y girar versiones 3D de sus modelos, seguir sus progresos y guardar sets LEGO
 - Una cabaña y una caseta para construir: la cabaña cuenta con techo desmontable y se abre para jugar con facilidad; el detallado interior incluye el sillón de Hagrid, un paragüero y un huevo de dragón
+- Juguete de fantasía LEGO Harry Potter para el juego de aventuras: recrea la visita inesperada de Harry Potter y sus amigos a la cabaña de Rubeus Hagrid, un emblemático lugar del universo Mágico
 - Juguetes construibles inspirados en el universo Mágico: los sets LEGO Harry Potter permiten a los jóvenes magos, brujas y Muggles interpretar sus escenas favoritas, inventar sus propias aventuras o, simplemente, exponer las maquetas
+- Idea de regalo para peques: este set es un divertido detalle o regalo de cumpleaños para niñas y niños a partir de 8 años a los que les encante el universo Mágico de Harry Potter
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ865V{{</world>}}

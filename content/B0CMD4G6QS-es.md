@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Innovación en el combate
 - Un viaje con pedigrí
+- Innovación en el combate
 - Un sinfín de aventuras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

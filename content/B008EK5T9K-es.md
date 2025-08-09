@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Duración aproximada de la partida: 75 min
-- Edad recomendada: 10 años y más
 - Tipo de producto: juego de mesa, es necesario tener Catán - Juego Básico para jugar
-- Un mapa más grande para dar cabida a dos jugadores más
+- Edad recomendada: 10 años y más
 - Número de jugadores: 3 - 6
+- Un mapa más grande para dar cabida a dos jugadores más
+- Duración aproximada de la partida: 75 min
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008EK5T9K{{</world>}}

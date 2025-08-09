@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DESCUBRE LOS JUEGOS THINKFUN: Adéntrate en el mundo de Think Fun, estos juegos ofrecen horas de pura diversión, son innovadores, creativos y capaces de activar la mente de los adultos y de los más pequeños
-- GRAVITY MAZE: A través de las torres los niños tendrán que crear diferentes estructuras para preparar el paso y conducir la canica hasta la torre roja de llegada; gracias a este juego es posible desarrollar la capacidad de planificación y el razonamiento espacial
-- FÁCIL Y DIVERTIDO: El regalo perfecto para los amantes de los juegos de lógica; emocionante y envolvente, es perfecto para animar una noche con amigos y en familia
-- CARACTERÍSTICAS: Número de jugadores 1+, edad recomendada 8+, edición en castellano
 - PRUEBA TU LOGICA: Este juego permite a los niños explorar las fuerzas de la gravedad a través de 60 tarjetas de desafío con niveles de dificultad crecientes
+- GRAVITY MAZE: A través de las torres los niños tendrán que crear diferentes estructuras para preparar el paso y conducir la canica hasta la torre roja de llegada; gracias a este juego es posible desarrollar la capacidad de planificación y el razonamiento espacial
+- CARACTERÍSTICAS: Número de jugadores 1+, edad recomendada 8+, edición en castellano
+- FÁCIL Y DIVERTIDO: El regalo perfecto para los amantes de los juegos de lógica; emocionante y envolvente, es perfecto para animar una noche con amigos y en familia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KHLW7TX{{</world>}}

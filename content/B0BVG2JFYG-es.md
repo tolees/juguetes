@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores; buscad el símbolo idéntico en las dos cartas
 - Pues ahora prepárate, porque Dobble contiene varios mini-juegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez
-- De 2 a 8 jugadores; a partir de 6 años de edad
 - El primer jugador que encuentre este símbolo, lo nombra y roba dos nuevas cartas que pondrá sobre la mesa; repetid esta operación hasta que todos los jugadores hayan entendido que siempre hay solamente un símbolo idéntico entre dos cartas y ya está
 - Los personajes más emblemáticos del Universo de DC se unen a la familia de Dobble
+- De 2 a 8 jugadores; a partir de 6 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVG2JFYG{{</world>}}

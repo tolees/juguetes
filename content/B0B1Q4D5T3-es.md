@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acaba con los enemigos con la legendaria Espada Maestra en este diseño inspirado en Link
 - No necesita pilas
 - Cable USB extraíble de 3 metros
 - Toma de audio de 3,5 mm
+- Acaba con los enemigos con la legendaria Espada Maestra en este diseño inspirado en Link
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
 - Botones de juego avanzado asignables
 

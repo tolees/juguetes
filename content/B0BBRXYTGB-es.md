@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El camión de bomberos de juguete tiene un cabrestante que funciona, los peques podrán usar su extintor y el del dron de bomberos para lanzar diferentes elementos de agua y espuma y simular que extinguen incendios
-- El set incluye diferentes escenas de incendios en bosques y ciudad, 3 minifiguras LEGO de bomberos, una figura de un conejito de juguete, una radio, un hacha, una sierra circular, una llave inglesa y una taza
-- Este set de vehículos de emergencia de LEGO City incluye un fantástico camión de bomberos de juguete con centro de control desmontable y 2 drones para los niños de 6 años en adelante amantes de los juegos de acción
-- Llenos de edificios, grandes vehículos y divertidos personajes, los juguetes de LEGO City son increíbles regalos para niños amantes de los camiones, las aventuras y los héroes de la vida real
 - Para fomentar el juego imaginativo el camión de bomberos de LEGO tiene un cabrestante que se mueve, los peques podrán usar su extintor y el del dron de bomberos para lanzar diferentes elementos de agua y espuma y simular que extinguen incendios
+- Llenos de edificios, grandes vehículos y divertidos personajes, los juguetes de LEGO City son increíbles regalos para niños amantes de los camiones, las aventuras y los héroes de la vida real
+- El set incluye diferentes escenas de incendios en bosques y ciudad, 3 minifiguras LEGO de bomberos, una figura de un conejito de juguete, una radio, un hacha, una sierra circular, una llave inglesa y una taza
+- El camión de bomberos de juguete tiene un cabrestante que funciona, los peques podrán usar su extintor y el del dron de bomberos para lanzar diferentes elementos de agua y espuma y simular que extinguen incendios
+- Este set de vehículos de emergencia de LEGO City incluye un fantástico camión de bomberos de juguete con centro de control desmontable y 2 drones para los niños de 6 años en adelante amantes de los juegos de acción
 - Si la misión se complica y necesitan un empujón extra, los peques podrán usar el dron de juguete terrestre con su brazo robótico y transportar con seguridad los accesorios a un lugar seguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

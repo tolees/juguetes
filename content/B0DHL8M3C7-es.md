@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Incluye más de 70 € en DLCs
 - SteelBook con arte exclusivo del artista legendario Gary Pullin.
-- The Texas Chain Saw Massacre 50th Anniversary SteelBook Edition incluye lo siguiente:
 - 8 tarjetas coleccionables exclusivas.
+- The Texas Chain Saw Massacre 50th Anniversary SteelBook Edition incluye lo siguiente:
 - Juego base The Texas Chain Saw Massacre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

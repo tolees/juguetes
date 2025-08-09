@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Accesible para todos
-- Una experiencia única
 - Personajes variados con una historia interesante
 - Excelentes gráficos
+- Una experiencia única
 - Obtendras mucha diversión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

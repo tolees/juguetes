@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego adecuado para pasar el tiempo libre
 - Número de jugadores: 1 - 20
-- Juego de percepción visual para toda la familia
 - Edad recomendada: 6 años y más
 - Duración aproximada de la partida: 20 min
+- Juego de percepción visual para toda la familia
+- Juego adecuado para pasar el tiempo libre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B015CSQ82S{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Peluche de Pokémon 20 cm
-- Personaje: Pichu
 - Peluche muy suave.
+- Personaje: Pichu
 - Colecciona todos los peluches Pokémon de Bandai.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Existe versión rosa de este artículo
-- La correa se puede poner también en la cámara para llevarla colgada
 - Válida para Kidizoom DUO, Kidizoom DUO DX y Kidizoom Touch
 - Versión española
+- La correa se puede poner también en la cámara para llevarla colgada
 - Bolsa de transporte para la cámara Kidizoom
 - Funda fácil de limpiar y fabricada con materiales resistentes que mantienen la Kidizoom protegida de golpes
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalles fieles a las películas: con la armadura Iron Spider-Man de alta tecnología creada por Tony Stark, la figura del superhéroe tiene 4 brazos más, totalmente articulados también
-- Juego de aventuras interpretativas: esta figura totalmente articulada de Iron Spider-Man posee uniones móviles en hombros, brazos, caderas y piernas que inspirarán multitud de imaginativas y emocionantes historias
 - Figura articulada de Iron Spider-Man para construir: la detallada Figura para Construir: Iron Spider-Man LEGO Marvel está lista para que los niños y niñas de 8 años o más lleven a la acción a su superhéroe favorito
+- Juego de aventuras interpretativas: esta figura totalmente articulada de Iron Spider-Man posee uniones móviles en hombros, brazos, caderas y piernas que inspirarán multitud de imaginativas y emocionantes historias
 - Regalo para tu joven superhéroe o superheroína: los fans podrán mostrar a todo el mundo su pasión por Spider-Man con este juguete LEGO Marvel Spider-Man realista y versátil para construir, jugar y exponer
 - Regalo para amantes de las películas de Marvel: regala este superhéroe a un fan de la acción y las aventuras del universo Spider-Man
 

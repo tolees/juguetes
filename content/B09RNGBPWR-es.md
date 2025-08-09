@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INCLUYE: 1 habitación, 1 figura, 3 muebles, 2 cajas sorpresa, 3 accesorios, 1 guía de instrucciones
 - RECREA ESCENAS DE LA SERIE: Este conjunto es perfecto para jugar de manera divertida y emocionante. Úsalo con las otras habitaciones exclusivas (se venden por separado) o ponlo en la Casa de Muñecas Gabby (se vende por separado) para crear tus propias escenas de la serie de TV
+- INCLUYE: 1 habitación, 1 figura, 3 muebles, 2 cajas sorpresa, 3 accesorios, 1 guía de instrucciones
 - CAJA Y ACCESORIO SORPRESA: Descubre una bandeja de pastelitos, una tarta y un gorro de chef que Muffin puede ponerse para jugar infinitamente en la Cocina de La Casa de Muñecas de Gabby
-- ¡DESBLOQUEA TU PREMIO ESPECIAL: La Cocina de Muffin de La Casa de Muñecas para niñas de Gabby incluye un código QR dentro en las 2 cajas sorpresa que podrás escanear y desbloquear un premio exclusivo en la aplicación gratuita "Gabby’s Dollhouse" (disponible en iOS y Android)
 - TARTA GIRATORIA: Coloca a Muffin sobre la tarta y presiona el botón para hacerla girar y tener una fiesta de chispas. Este conjunto también dispone de horno y refrigerador que se abre y cierra, ¡perfecto para guardar dulces
+- ¡DESBLOQUEA TU PREMIO ESPECIAL: La Cocina de Muffin de La Casa de Muñecas para niñas de Gabby incluye un código QR dentro en las 2 cajas sorpresa que podrás escanear y desbloquear un premio exclusivo en la aplicación gratuita "Gabby’s Dollhouse" (disponible en iOS y Android)
 - LA CASA DE MUÑECAS DE GABBY: ¡Construye tu propio mundo de casa de muñecas junto con Gabby y sus gatos Cocina platos sin fin con Muffin en la cocina de La Casa de Muñecas de Gabby
 
 [🛒 Comprar!!!]({{< param buyurl >}})

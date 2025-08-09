@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apoya y estimula la motricidad global, como aprender a caminar y el control de equilibrio
-- Accesorios compatibles con todos los productos Brio
 - Desarrolla la capacidad narrativa y las habilidades sociales
 - Materiales de alta calidad
+- Accesorios compatibles con todos los productos Brio
+- Apoya y estimula la motricidad global, como aprender a caminar y el control de equilibrio
 - Producto probado y seguro para su bebé
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas del puzzle: 97,5 x 66,8 cm. Hecho en Italia.
-- Animales, paisajes, ciudades, diseños vintage… ¡tú eliges qué quieres crear!
-- 2000 piezas de la mejor calidad para poder crear láminas de colores vibrantes y diseños increíbles
 - Visita la sección de asistencia de Clementoni para hacer uso del servicio «piezas perdidas».
+- Animales, paisajes, ciudades, diseños vintage… ¡tú eliges qué quieres crear!
+- Medidas del puzzle: 97,5 x 66,8 cm. Hecho en Italia.
+- 2000 piezas de la mejor calidad para poder crear láminas de colores vibrantes y diseños increíbles
 - Siempre sensibles a los problemas ecológicos, los puzzles Clementoni están hechos con materiales reciclables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
-- Incluye 2 puzzles de cartón reciclado con 48🧩 cada uno. ¡Diversión por partida doble!. Medidas aproximadas de cada uno montado: 28 x 20 cm.
 - Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
 - Puzzles infantiles recomendados a partir de 4 años.
+- Incluye 2 puzzles de cartón reciclado con 48🧩 cada uno. ¡Diversión por partida doble!. Medidas aproximadas de cada uno montado: 28 x 20 cm.
 - Actividad perfecta para desarrollar la motricidad fina, la creatividad y la memoria visual. Los puzzle estimulan la fijación de la atención así como el desarrollo de la psicomotricidad, la curiosidad e imaginación de los más pequeños.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

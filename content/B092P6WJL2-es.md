@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- official Resident Evil license
 - Lightweight and shock resistant
 - the controller is held firmly in place by the Super adaptative memory foam interior Material to avoid shocks during transport
 - Rubber zipper pull embossed with the Resident Evil remake Logo
+- official Resident Evil license
 - Compatible with Dual sense, dualshock, mandos Xbox, etc..Super adaptive memory foam
 
 [🛒 Visítala!!!]({{< param buyurl >}})

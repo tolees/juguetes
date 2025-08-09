@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Más de 6000 preguntas pensadas para un público junior y otras 6000 preguntas para el resto de la familia.
-- El juego oficial del concurso de televisión, con las pruebas de la última edición del concurso.
 - Incluye un libro azul y uno naranja de preguntas y respuestas, 1 ruleta, 50 fichas circulares, el rosco azul, el rosco naranja, 2 cronómetros y 1 lápiz.
+- El juego oficial del concurso de televisión, con las pruebas de la última edición del concurso.
 - Producto distribuido oficialmente en España por BIZAK.
+- Más de 6000 preguntas pensadas para un público junior y otras 6000 preguntas para el resto de la familia.
 - El primer juego en el que pueden jugar adultos y niños en la misma partida, cada uno con preguntas adaptadas a su nivel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

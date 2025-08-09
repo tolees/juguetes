@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Incluye: 1 pistola, 2 peonzas, 2 sets de pegatinas y la arena
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Carga las peonzas y gestiona la potencia en función el número de recargas, entonces aprieta el gatillo en el momento adecuado
 - Usa la ventaja de dos disparos y dispara directamente en la arena
 - Producto distribuido oficialmente en España por BIZAK.

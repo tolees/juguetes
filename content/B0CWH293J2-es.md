@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Meca de Luke Skywalker de construcción rápida: inicia a tu peque en el universo LEGO Star Wars con el Meca Ala-X de Luke Skywalker de juguete, un modelo fácil de construir para jugar y exponer como decoración del dormitorio o estantería
-- Traje robótico Ala-X LEGO para construir: el meca tiene manos, brazos, piernas y pies articulados, cabina abatible para una minifigura LEGO y mochila propulsora ajustable con forma de Ala-X, además de una gran espada láser y un bláster que dispara
-- Minifigura LEGO de Luke Skywalker: la minifigura LEGO de este emblemático personaje de Star Wars viene con una espada láser y una pistola bláster listas para la acción en emocionantes juegos de fantasía
-- Juguetes de construcción creativa para todas las edades: los sets LEGO Star Wars coleccionables ofrecen a niños y fans adultos de Star Wars la oportunidad de crear sus propias historias o, simplemente, de exponer las maquetas construibles
-- Modelo LEGO Star Wars coleccionable: Este meca lego Star Wars de juguete de construcción pertenece a una colección de mecas LEGO Star Wars (a la venta por separado)
 - Regalo LEGO Star Wars para niños y niñas mayores de 6 años: el meca LEGO de juguete para construir es un divertido regalo para niños y niñas de 6 años o más y cualquier joven fan de Star Wars creativo
+- Juguetes de construcción creativa para todas las edades: los sets LEGO Star Wars coleccionables ofrecen a niños y fans adultos de Star Wars la oportunidad de crear sus propias historias o, simplemente, de exponer las maquetas construibles
+- Meca de Luke Skywalker de construcción rápida: inicia a tu peque en el universo LEGO Star Wars con el Meca Ala-X de Luke Skywalker de juguete, un modelo fácil de construir para jugar y exponer como decoración del dormitorio o estantería
+- Minifigura LEGO de Luke Skywalker: la minifigura LEGO de este emblemático personaje de Star Wars viene con una espada láser y una pistola bláster listas para la acción en emocionantes juegos de fantasía
+- Traje robótico Ala-X LEGO para construir: el meca tiene manos, brazos, piernas y pies articulados, cabina abatible para una minifigura LEGO y mochila propulsora ajustable con forma de Ala-X, además de una gran espada láser y un bláster que dispara
+- Modelo LEGO Star Wars coleccionable: Este meca lego Star Wars de juguete de construcción pertenece a una colección de mecas LEGO Star Wars (a la venta por separado)
 - Instrucciones intuitivas: la app LEGO Builder cuenta con herramientas que permiten a tu peque acercar y girar una versión digital 3D de su modelo mientras lo construye
 
 [🛒 Visítala!!!]({{< param buyurl >}})

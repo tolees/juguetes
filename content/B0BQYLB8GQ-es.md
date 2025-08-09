@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ASPECTOS EDUCATIVOS: Desarrollo del lenguaje, Habilidades matemáticas, Exploración y descubrimiento y Resolución de problemas.
-- ✅ VERSIÓN ESPAÑOLA. Ordenador infantil educativo para niños +3 años.
 - LÓGICA: Fortalece la memoria y la resolución de problemas a través de juegos de emparejar formas, patrones lógicos y emparejar sombras. JUEGOS: Descubre a Spidey y sus amigos y juega a divertidos juegos como Afinar la puntería y Taller de spider-bots.
-- ¡ES LA HORA DE SPIDEY! Salva la ciudad con el superequipo de Spidey mientras exploras letras, palabras, números y aprendes a contar. Con divertidas animaciones, efectos de sonido y un teclado realista, los peques aprenderán sus primeras habilidades informáticas a través del juego independiente.
-- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
+- ✅ VERSIÓN ESPAÑOLA. Ordenador infantil educativo para niños +3 años.
 - EXPLORA Y APRENDE: Practica lenguaje escribiendo letras, palabras y emparejando con Spidey y sus amigos. MATEMÁTICAS: Disfruta el desafío de aprender los números, números mayores o menores y operaciones sencillas.
+- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
+- ASPECTOS EDUCATIVOS: Desarrollo del lenguaje, Habilidades matemáticas, Exploración y descubrimiento y Resolución de problemas.
+- ¡ES LA HORA DE SPIDEY! Salva la ciudad con el superequipo de Spidey mientras exploras letras, palabras, números y aprendes a contar. Con divertidas animaciones, efectos de sonido y un teclado realista, los peques aprenderán sus primeras habilidades informáticas a través del juego independiente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQYLB8GQ{{</world>}}

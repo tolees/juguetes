@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
 - ¡COMIENZA O AMPLÍA TU COLECCIÓN Switch&Go Dinos con el 4 en 1 Mega T-Rex S.O.S. de VTech! ¡Tres vehículos de emergencia: Coche de policía Helicóptero de rescate y Camión de bomberos para formar un MEGA T-REX! ¡Animaciones, luces, sonidos reales y superrugidos! ¡Vive una aventura inolvidable!
 - JUEGO INTERACTIVO: el juguete identifica si se encuentra en modo animal o vehículo para responder en consonancia. ENSEÑA DATOS CURIOSOS sobre este tipo de dinosaurios, así como información de interés.
-- TRANSFORMACIÓN FÁCIL Y RÁPIDA. Tres botones para interactuar: Voces, acción y efectos especiales. Más de 60 sonidos y frases.
 - ✅ VERSIÓN ESPAÑOLA. Dinosaurios y figuras de acción, juguete transformable para niños +3 años.
-- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
+- TRANSFORMACIÓN FÁCIL Y RÁPIDA. Tres botones para interactuar: Voces, acción y efectos especiales. Más de 60 sonidos y frases.
 - CREA TU UNIVERSO Switch&Go Dinos: Cada dinosaurio tiene una voz, personalidad y profesión diferentes. ¡Colecciónalos todos! (de venta por separado)
 - SENSOR DE MOVIMIENTOS para activar pisadas, rugidos o derrapes según la ocasión.
 

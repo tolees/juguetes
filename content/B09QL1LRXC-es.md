@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Gran set del robo adecuado de Pinypon Action, el asalto al furgón blindado, lleno de dinero. El ladrón paraliza el furgón blindado colocando una trampa en la calle. El ladrón consigue abrir la caja fuerte y se da a la fuga en su moto llevándose los lingotes de oro y fajos de dinero. Con un montón de accesorios de acción: dinamita; llamas; armas; caja fuerte, dinero y lingotes de oro. Incluye el furgón, la moto y 2 figuras: conductor del furgón blindado y el ladrón
 - Juguete para niños y niñas a partir de 4 años
-- Incluye muchos accesorios de acción y robo: dinamita; llamas; armas; caja fuerte, dinero y lingotes de oro
 - El ladrón consigue abrir la caja fuerte y se da a la fuga en su moto con el botín
+- Incluye muchos accesorios de acción y robo: dinamita; llamas; armas; caja fuerte, dinero y lingotes de oro
 - El ladrón paraliza el furgón blindado colocando una trampa en la calle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

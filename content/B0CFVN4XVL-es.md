@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sube y baja la hoja: igual que un buldócer de verdad, este modelo está equipado con una hoja que los niños pueden subir y bajar con la rueda situada en la parte más alta de la excavadora de juguete
 - Una divertida idea de regalo: este set es idóneo como regalo para niños y niñas de 7 años o más amantes de los vehículos y los juguetes de construcción
 - Orugas móviles: después de pasarlo muy bien construyendo el buldócer de juguete, los peques pueden empujar el modelo para mover las orugas, haciéndolo avanzar hacia sus propias aventuras en obras de construcción y juego imaginativo
-- Sube y baja la hoja: igual que un buldócer de verdad, este modelo está equipado con una hoja que los niños pueden subir y bajar con la rueda situada en la parte más alta de la excavadora de juguete
 - Un juguete de construcción: el set LEGO Technic Buldócer Pesado para niños y niñas de 7 años en adelante cuenta con detalles de gran realismo que encantarán a los jóvenes fans de los vehículos
 - Iniciación a la ingeniería: los sets de maquetas para construir LEGO Technic reproducen con realismo movimientos y mecanismos que introducen a los jóvenes constructores LEGO en el universo de la ingeniería
 

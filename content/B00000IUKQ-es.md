@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a explorar las diferencias entre la imaginación y el mundo real
-- Producto probado y seguro para su bebé
 - Desarrolla la capacidad narrativa y las habilidades sociales
+- Producto probado y seguro para su bebé
+- Ayuda a explorar las diferencias entre la imaginación y el mundo real
 - Accesorios compatibles con todos los productos Brio
 - Materiales de alta calidad
 

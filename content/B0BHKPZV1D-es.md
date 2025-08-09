@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Revive la historia o cámbiala para siempre, liderando los ejércitos de romanos o cartagineses
-- Para dos jugadores a partir de los 12 años de edad
-- Buena introducción al mundo de los juegos de guerra
 - Los jugadores recrean épicas batallas de la antigüedad
+- Buena introducción al mundo de los juegos de guerra
+- Para dos jugadores a partir de los 12 años de edad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHKPZV1D{{</world>}}

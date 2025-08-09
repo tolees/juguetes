@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un regalo muy divertido y original para niños y niñas de 5 años o más en su cumpleaños o en alguna ocasión especial
+- Para vivir espectáculos de acrobacias aún más divertidos, combina este set con otros de la gama LEGO City Stuntz como Moto Acrobática: Bañera (60333) o Moto Acrobática: Carretera (60331)
+- Este juguete de construcción LEGO City Stuntz contiene una moto acrobática de inercia por fricción y el personaje de la piloto Luchadora Escorpión
 - Un set que incluye todo lo necesario para construir la moto de juguete, así como la mini figura LEGO de Luchadora Escorpión con un casco con coletas y la figura de un escorpión
 - Para ayudar a los niños a descubrir la alegría de la construcción, este set incluye una guía de montaje ilustrada y fácil de seguir
-- Este juguete de construcción LEGO City Stuntz contiene una moto acrobática de inercia por fricción y el personaje de la piloto Luchadora Escorpión
-- Para vivir espectáculos de acrobacias aún más divertidos, combina este set con otros de la gama LEGO City Stuntz como Moto Acrobática: Bañera (60333) o Moto Acrobática: Carretera (60331)
+- Un regalo muy divertido y original para niños y niñas de 5 años o más en su cumpleaños o en alguna ocasión especial
 - Los peques empujarán la moto acrobática para activar la rueda de inercia y, después, la soltarán para ejecutar divertidos caballitos y maniobras en el aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})

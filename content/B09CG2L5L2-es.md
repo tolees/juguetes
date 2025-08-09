@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Es el regalo ideal para los fans del Caped Crusader y los coleccionistas adultos que valoran los detalles, la historia y la precisión de cada vehículo inspirado en Batman.
-- El embalaje se ha diseñado para que el conjunto sea más fácil de coleccionar.
 - El conjunto de primera calidad de Batman de Hot Wheels incluye las 5 versiones metálicas del Batmobile, que vienen en un embalaje especial para coleccionistas adultos y fans de la franquicia Batman.
 - Cada vehículo está fabricado a escala 1:64 y ha sido seleccionado a mano entre toda la línea de vehículos metálicos de primera calidad de Batman.
+- El embalaje se ha diseñado para que el conjunto sea más fácil de coleccionar.
 - Los vehículos son réplicas detalladas de aquellos que aparecen en la franquicia de Batman y que les encantan a los coleccionistas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

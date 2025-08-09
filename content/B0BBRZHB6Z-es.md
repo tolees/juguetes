@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La cabina de este meca robótico se puede abrir y la mini figura LEGO de Rocket se coloca dentro, para más el set incluye una mini pistola bláster que Rocket puede usar cuando no este dentro de la armadura
+- Esta figura de acción de Rocket cuenta con brazos, piernas y dedos articulados, además de con una pistola bláster de juguete de 6 proyectiles para ayudar al icónico mapache a volverse invencible en las batallas
+- Echa un vistazo y combina este set con otras figuras de acción coleccionables de LEGO Marvel inspiradas en los Vengadores y la Infinity Saga, Armadura Robótica de Thanos (76242) y Armadura Robótica de Hulk (76241)
 - Los pequeños fans de los superhéroes de Marvel y los Guardianes de la Galaxia podrán unirse a la acción de las películas con este meca de juguete para construir, descubre el set LEGO Marvel Armadura Robótica de Rocket
 - Este juguete de los Guardianes de la Galaxia para construir se puede poner en mil posturas diferentes y se ve increíble en las habitaciones de los niños como parte de la decoración, amplía su colección LEGO Marvel
-- La cabina de este meca robótico se puede abrir y la mini figura LEGO de Rocket se coloca dentro, para más el set incluye una mini pistola bláster que Rocket puede usar cuando no este dentro de la armadura
-- Echa un vistazo y combina este set con otras figuras de acción coleccionables de LEGO Marvel inspiradas en los Vengadores y la Infinity Saga, Armadura Robótica de Thanos (76242) y Armadura Robótica de Hulk (76241)
-- Esta figura de acción de Rocket cuenta con brazos, piernas y dedos articulados, además de con una pistola bláster de juguete de 6 proyectiles para ayudar al icónico mapache a volverse invencible en las batallas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRZHB6Z{{</world>}}

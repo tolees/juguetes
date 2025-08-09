@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se desarrolla en tres sesiones de juego que duran entre 75 y 90 minutos
-- Este producto es un juego de investigación y aventuras
 - Una aventura gráfica en tu mesa de juego
+- Este producto es un juego de investigación y aventuras
 - Pueden participar entre 1 y 4 jugadores, a partir de 12 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

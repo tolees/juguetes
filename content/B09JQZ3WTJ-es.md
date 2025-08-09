@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puede ser un regalo bonito
 - Producto de calidad óptima
+- Puede ser un regalo bonito
 - Diseñado para embellecer los momentos del juego
 - Exit Puzzle: El Faro Solitario
 

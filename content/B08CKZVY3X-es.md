@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nominado al Kennerspiel des Jahres 2020 (Juego Experto del Año)
 - Mecánicas: Gestión de la mano; juego de bazas; cooperativo
-- Sistema de juego tradicional, basado en los juegos clásicos de bazas
-- Cada partida es un reto superior a la anterior
 - Cooperativo puro, sin efecto líder
+- Nominado al Kennerspiel des Jahres 2020 (Juego Experto del Año)
+- Cada partida es un reto superior a la anterior
+- Sistema de juego tradicional, basado en los juegos clásicos de bazas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CKZVY3X{{</world>}}
