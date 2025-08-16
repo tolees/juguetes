@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Busca el código QR en el interior para disfrutar de una experiencia extendida del juego de La Voz (con más contenido de preguntas y respuestas)
-- Dos niveles de juego: versión Kids y versión familiar para divertirse con familia y amigos
 - 2 - 12 jugadores
-- Demuestra todo lo que sabes sobre música y que no hay un mayor fan de La Voz; el juego oficial del programa donde la diversión está asegurada
+- Dos niveles de juego: versión Kids y versión familiar para divertirse con familia y amigos
 - Enfréntate a 5 tipos de pruebas: La Voz, El pulsador, El micrófono, Batallas y Audiciones a ciegas; avanza con cada acierto para llegar al final del tablero y… ¡ganar!
+- Demuestra todo lo que sabes sobre música y que no hay un mayor fan de La Voz; el juego oficial del programa donde la diversión está asegurada
+- Busca el código QR en el interior para disfrutar de una experiencia extendida del juego de La Voz (con más contenido de preguntas y respuestas)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5CR22HV{{</world>}}

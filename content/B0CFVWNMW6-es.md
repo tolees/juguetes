@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego creativo ilimitado: tu peque disfrutará de aún más diversión y aventuras al agregar este set a otros de la gama LEGO City (a la venta por separado)
-- Sobre los sets LEGO City: LEGO City es un lugar donde los niños pueden dejar fluir su ilimitada imaginación; sus estructuras, vehículos y ciudadanos son una apasionante motivación que los impulsa a construir, crear, explorar y jugar
+- Vehículo de policía de juguete para fomentar el juego de simulación: abre el camión de juguete y revela un laboratorio de criminología de 2 niveles con estaciones de trabajo, mapa, pantallas de CCTV, microscopio, máquina de café y celda
 - Un regalo LEGO para niños y niñas a partir de 7 años: sorprende a tu héroe cotidiano regalándole este juguete de policía para fans de los sets de construcción LEGO y el juego imaginativo con motivo de su cumpleaños o una fiesta especial
 - Incluye un póster de “Se busca”: con el permiso de un adulto, tu peque podrá escanear el código QR de las instrucciones de construcción o la caja para ver una divertida aventura en vídeo de LEGO City Policía
-- Vehículo de policía de juguete para fomentar el juego de simulación: abre el camión de juguete y revela un laboratorio de criminología de 2 niveles con estaciones de trabajo, mapa, pantallas de CCTV, microscopio, máquina de café y celda
-- Camión de criminología de juguete: sígueles la pista a los ladrones fugados con el set LEGO City Laboratorio de Criminología Móvil de la Policía para pequeños expertos forenses a partir de 7 años
+- Sobre los sets LEGO City: LEGO City es un lugar donde los niños pueden dejar fluir su ilimitada imaginación; sus estructuras, vehículos y ciudadanos son una apasionante motivación que los impulsa a construir, crear, explorar y jugar
 - Divertido juguete de construcción y juego de roles para niños: incluye todo lo que tu peque necesita para crear un laboratorio de criminología móvil con moto quad de juguete, escena forense y minifiguras de 2 policías, 1 científico y 2 ladrones
+- Juego creativo ilimitado: tu peque disfrutará de aún más diversión y aventuras al agregar este set a otros de la gama LEGO City (a la venta por separado)
+- Camión de criminología de juguete: sígueles la pista a los ladrones fugados con el set LEGO City Laboratorio de Criminología Móvil de la Policía para pequeños expertos forenses a partir de 7 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVWNMW6{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ruedas neumáticas Tubeless Dual Grip de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y frenos de disco; display en el manillar con información de la batería, Km recorridos, odómetro, selector de marcha y configuración del patinete
-- Certificado de circulación canjeable vía online y amplia red de talleres smartGyro repartidos por toda España; dimensiones: 123x42x26 cm 23Kg; powered by Woxter
-- Luces led: Foco frontal de alto brillo, leds en la base, intermitentes seleccionables desde el manillar y luz de freno trasera; suspensión delantera y trasera con doble amortiguador que proporcionan una óptima absorción de baches e irregularidades en el terreno
 - Patinete eléctrico ligero para adultos con motor Brushless de 800W 48V de potencia máxima, potencia nominal 500W, capaz de subir por cuestas con un alto grado de inclinación; con certificado VMP que garantiza una movilidad segura bajo el cumplimiento de la legislación vigente
 - ¡Nota! NUNCA debes permitir que LA BATERÍA SE AGOTA POR COMPLETO (Lo) lo ideal es que no bajen del 10%).En temporadas de inactividad,Se recomienda cargar la batería UNA UNA VEZ AL MES.
+- Luces led: Foco frontal de alto brillo, leds en la base, intermitentes seleccionables desde el manillar y luz de freno trasera; suspensión delantera y trasera con doble amortiguador que proporcionan una óptima absorción de baches e irregularidades en el terreno
+- Ruedas neumáticas Tubeless Dual Grip de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y frenos de disco; display en el manillar con información de la batería, Km recorridos, odómetro, selector de marcha y configuración del patinete
+- Certificado de circulación canjeable vía online y amplia red de talleres smartGyro repartidos por toda España; dimensiones: 123x42x26 cm 23Kg; powered by Woxter
 - Batería de litio con capacidad de 13.000 mAh, consigue una autonomía de 50 Km; 4 modos de conducción seleccionables desde su display (Walk, Eco, Confort y Sport)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

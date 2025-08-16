@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Saca un bloque, ponlo arriba y no dejes que se caiga la torre
 - Puede ser un divertido regalo
+- Saca un bloque, ponlo arriba y no dejes que se caiga la torre
 - Componentes del empaque y el juego diseñados para exhibir en casa
 - El fondo de zinc sirve también de soporte para exhibir la torre Jenga
 

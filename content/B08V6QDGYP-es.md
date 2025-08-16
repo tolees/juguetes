@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El conjunto incluye un vehículo Batmóvil transformable, una figura de Batman y 2 proyectiles de disco
+- Para los justicieros de 3 a 8 años
 - Coloca la figura en el asiento del conductor y presiona el gatillo para ver iluminarse su pecho; lleva la figura a la Batcueva Bat-Tech de Imaginext para más acción de luces; el conjunto de juego se vende por separado y está sujeto a disponibilidad
 - Batman puede proteger las calles y los cielos de Gotham City con el conjunto de figura y vehículo Batmóvil transformable
-- Para los justicieros de 3 a 8 años
 - Pulsa el gatillo para que el vehículo cambie a modo vuelo y lanza proyectiles desde el lanzador oculto
-- El conjunto incluye un vehículo Batmóvil transformable, una figura de Batman y 2 proyectiles de disco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08V6QDGYP{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hazles cosquillas para que salgan de su escondite y te ayuden a atrapar a nuevos Gummiz
 - Son grandes amantes de la comida; y sabías que puedes domesticarlos
-- A los Gummiz les encantan las frutas y pasan todo su tiempo cultivándolas
 - Atrae a los Gummiz salvajes con deliciosas frutas y añádelos a tu Gummibox
+- A los Gummiz les encantan las frutas y pasan todo su tiempo cultivándolas
+- Hazles cosquillas para que salgan de su escondite y te ayuden a atrapar a nuevos Gummiz
 - Bienvenidos a la tierra de los Gummiz donde viven estas dulces criaturas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

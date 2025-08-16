@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Otro óptimo juego de Richard Garfield (Magic the Gathering, Bunny Kingdom, King of Tokyo, Treasure Hunters)
 - Mecánicas: Gestión de mano; habilidad una vez por juego; poderes variables
-- Partidas óptimas y furiosas
 - El juego revelación de la feria de Essen 2021
+- Partidas óptimas y furiosas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT7W5GQT{{</world>}}

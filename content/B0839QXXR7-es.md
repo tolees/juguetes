@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye 2 figuras: el tiburón y el pirata pinypon action
-- El bote tiene remos; un cañón que dispara y un compartimento secreto
 - Fomenta la imaginación y la creatividad de los niños y niñas a partir de 4 años
 - Bote de los piratas pinypon action para vivir miles de aventuras con los piratas más temidos del océano
+- El bote tiene remos; un cañón que dispara y un compartimento secreto
 - El bote mide 15 x 6 x 8cm y la figura mide 8cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})

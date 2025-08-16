@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Set de un barco con 1 figura del capitán
 - Lleva un cilindro giratorio con imágenes para jugar y aprender
-- Juguete para niños a partir de 1 año para estimular su desarrollo y juego
-- El barco flota para la bañera
+- Set de un barco con 1 figura del capitán
 - La figura mide 9 cm, compuesta de 2 partes intercambiables y su cara tiene 3 expresiones diferentes
+- El barco flota para la bañera
+- Juguete para niños a partir de 1 año para estimular su desarrollo y juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08RS8GSDZ{{</world>}}

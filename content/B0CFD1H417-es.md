@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - MECÁNICAS: Equipos, Gestión de mano
-- Cada jugador dispone de un mazo de cartas óptimo
 - El juego reproduce fielmente la narrativa de la obra de Tolkien
+- Cada jugador dispone de un mazo de cartas óptimo
 - Para 4 jugadores, jugable a 2 y 3
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Henil con sillas y accesorios
-- Juego en 360˚ con lavadero de caballos en la parte delantera
 - Incluye caballo
-- Las puertas de la caballeriza se abren y cierran
+- Henil con sillas y accesorios
 - Nevera portátil que se cierra con un chasquido
+- Juego en 360˚ con lavadero de caballos en la parte delantera
+- Las puertas de la caballeriza se abren y cierran
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZTZJZR3{{</world>}}

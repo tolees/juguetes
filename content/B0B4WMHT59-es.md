@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Se conecta vía Bluetooth; en la tarjeta vienen incluidas 50 actividades diferentes; este proyector funciona con pilas y tiene el tamaño óptimo para que puedas dibujar donde quieras
-- El Smart Sketcher GO! es el primer dispositivo portátil que te enseña a dibujar paso a paso allá donde estés; te permite dibujar y colorear de la manera más divertida posible, a través de doce sencillos pasos que se irán mostrando en la pantalla
-- Tanto la pantalla como el papel para dibujar, están divididos en cuadrículas para hacer el proceso fácil y sencillo
-- Así, poco a poco irá completando el dibujo; aprende a dibujar con las imágenes prediseñadas de la tarjeta, o bien dibuja cualquier fotografía de tu propio smartphone o tablet; descárgate la App y disfruta de sus posibilidades
 - Al seleccionar un dibujo, aparecerá en la pantalla el primer paso y cuando el niño o niña lo complete podrá pasar al siguiente
+- El Smart Sketcher GO! es el primer dispositivo portátil que te enseña a dibujar paso a paso allá donde estés; te permite dibujar y colorear de la manera más divertida posible, a través de doce sencillos pasos que se irán mostrando en la pantalla
+- Así, poco a poco irá completando el dibujo; aprende a dibujar con las imágenes prediseñadas de la tarjeta, o bien dibuja cualquier fotografía de tu propio smartphone o tablet; descárgate la App y disfruta de sus posibilidades
+- Tanto la pantalla como el papel para dibujar, están divididos en cuadrículas para hacer el proceso fácil y sencillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4WMHT59{{</world>}}

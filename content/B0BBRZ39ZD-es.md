@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye las mini muñecas LEGO Friends de Leo, amante de la comida, su amigo experto en vídeos Olly que le ayudará a grabar recetas y la figura de Churro, el gato de Leo, los peques podrán girar una manija y mover un pez de juguete para jugar con él
-- Este juguete de viaje para niños y niñas mayores de 6 años incluye muchos accesorios para muñecas que les ayudan a crear emocionantes historias, como un libro de recetas, un bol para mezclar, cuchara, botellas, cámara y un genial aro de luz
-- En el año 2023, una nueva generación de LEGO Friends aparece, enriquecida con nuevos personajes, actividades creativas y lugares inspirados en las aficiones e intereses de los niños, descubre a los nuevos amigos y sus mágicos y divertidos sets
 - Los niños podrán hacer realidad su sueño de ser creadores de contenido en la habitación de juguete de Leo de LEGO Friends, equipada con un estudio y equipo de vídeo, una zona de repostería para hornear pasteles, 2 mini muñecas y un gatito
-- La casa de juguete de Leo está ubicada en Harmony Beach, por lo que cuenta con divertidos accesorios con temática de playa, como una tabla de surf, además de literas y un balcón para salir y jugar al fútbol cuando las sesiones de vídeo terminen
+- En el año 2023, una nueva generación de LEGO Friends aparece, enriquecida con nuevos personajes, actividades creativas y lugares inspirados en las aficiones e intereses de los niños, descubre a los nuevos amigos y sus mágicos y divertidos sets
 - Parte de una gama de habitaciones de los amigos de Heartlake City, los niños podrán combinar este juguete coleccionable con otros cuartos de la gama LEGO Friends como la Habitación de Aliya (41740) o la Habitación de Nova (41755)
+- Este juguete de viaje para niños y niñas mayores de 6 años incluye muchos accesorios para muñecas que les ayudan a crear emocionantes historias, como un libro de recetas, un bol para mezclar, cuchara, botellas, cámara y un genial aro de luz
+- La casa de juguete de Leo está ubicada en Harmony Beach, por lo que cuenta con divertidos accesorios con temática de playa, como una tabla de surf, además de literas y un balcón para salir y jugar al fútbol cuando las sesiones de vídeo terminen
+- Incluye las mini muñecas LEGO Friends de Leo, amante de la comida, su amigo experto en vídeos Olly que le ayudará a grabar recetas y la figura de Churro, el gato de Leo, los peques podrán girar una manija y mover un pez de juguete para jugar con él
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ39ZD{{</world>}}

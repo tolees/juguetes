@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juguete LEGO Harry Potter del Castillo de Hogwarts coleccionable: la maqueta construida con ladrillos LEGO de mayor tamaño y detalles del Gran Comedor, una mágica idea de regalo para jóvenes magos, brujas y Muggles de 10 años o más
-- Un juguete para practicar el juego simbólico y de rol: construye el Gran Comedor, el patio y una mazmorra con una entrada secreta en la pared rocosa, y 3 espacios (baño, corredor y sala común de Hufflepuff) que se extraen para jugar cómodamente
-- 11 minifiguras LEGO: Harry Potter, Ron Weasley, Hermione Granger, Albus Dumbledore, el Profesor Quirrell, Leanne, Daphne Greengrass, Terry Boot, la Profesora Vector, el Fraile Gordo y un trol de montaña para interpretar historias
-- Instrucciones intuitivas: la app LEGO Builder guiará a tu peque a través de una intuitiva aventura de construcción con herramientas que le permitirán acercar y girar versiones 3D de sus modelos, guardar sets y seguir sus progresos
 - Colección LEGO Harry Potter: el Gran Comedor es la maqueta principal de una serie de sets modulares (a la venta por separado) que se conectan para crear la escena del Castillo de Hogwarts construida con ladrillos LEGO más detallada hasta la fecha
 - 5 de los 14 cuadros de Hogwarts coleccionables: este juguete de construcción de Harry Potter incluye 5 cuadros de Hogwarts (aleatorios, de los 14 posibles) para exponerlos en el corredor de la mazmorra y en la sala común de Hufflepuff
 - Idea de regalo inspirada en el universo de Harry Potter para peques: este mágico juguete de construcción es un divertido regalo para niños, niñas y fans de las historias de Harry Potter a partir de 10 años
+- 11 minifiguras LEGO: Harry Potter, Ron Weasley, Hermione Granger, Albus Dumbledore, el Profesor Quirrell, Leanne, Daphne Greengrass, Terry Boot, la Profesora Vector, el Fraile Gordo y un trol de montaña para interpretar historias
+- Juguete LEGO Harry Potter del Castillo de Hogwarts coleccionable: la maqueta construida con ladrillos LEGO de mayor tamaño y detalles del Gran Comedor, una mágica idea de regalo para jóvenes magos, brujas y Muggles de 10 años o más
+- Instrucciones intuitivas: la app LEGO Builder guiará a tu peque a través de una intuitiva aventura de construcción con herramientas que le permitirán acercar y girar versiones 3D de sus modelos, guardar sets y seguir sus progresos
+- Un juguete para practicar el juego simbólico y de rol: construye el Gran Comedor, el patio y una mazmorra con una entrada secreta en la pared rocosa, y 3 espacios (baño, corredor y sala común de Hufflepuff) que se extraen para jugar cómodamente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWGPB8ZD{{</world>}}

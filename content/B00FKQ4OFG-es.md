@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Supera 45 misiones cargadas de acción
 - Combate a los enemigos utilizando habilidades y superpoderes como volar, trepar muros y la invisibilidad
+- Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
 - Utiliza rápidos movimientos de combate y activa supermovimientos como la palmada de trueno de Hulk y la armadura de Iron Man
 - Completa los desafíos y gana recompensas
-- Obtén la ayuda de los superpoderes de compañeros de equipo invitados o contrólalos por completo en el modo de juego libre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00FKQ4OFG{{</world>}}

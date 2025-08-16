@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Autonomía: 45 km
-- Velocidad máxima: 25 km/h
 - Chasis de aluminio
+- Velocidad máxima: 25 km/h
 - Batería recargable de Litio de 36 V 8 Ah, 250 W, con tiempo de carga completa de 4 horas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

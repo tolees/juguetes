@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con 30 personajes y docenas de ubicaciones icónicas, ¡te espera tu destino! El set Premier de Star Wars Rivals incluye todo lo que necesitas para jugar.
 - Reúna tus fuerzas y superan a los enemigos mientras duele para el control estratégico.
-- ¡El conjunto de rivales Premier presenta 4 ubicaciones y personajes exclusivos, incluidos Luke Skywalker, Darth Vader y más!
 - ¡Viene con morir de prisma personalizado solo encontrado en este principal conjunto! Combine con paquetes de refuerzo de personajes para nuevos personajes, ubicaciones y habilidades. ¡30 personajes totales disponibles, incluidos los personajes de Hologram con un poder especial único! ¡Elija oscuro o luz y decida el destino de la galaxia!
+- ¡El conjunto de rivales Premier presenta 4 ubicaciones y personajes exclusivos, incluidos Luke Skywalker, Darth Vader y más!
 - Con 4 personajes exclusivos y 12 ubicaciones únicas, ¡su viaje comienza aquí! ¡El juego acelerado y atractivo te lleva a la acción de inmediato!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

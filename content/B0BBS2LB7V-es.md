@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los niños podrán ayudar a la mini figura LEGO del agente policial a subirse en la moto de juguete y perseguir al ladrón que va en el deportivo y que ha robado dinero, ¡deberán esposarlo y llevarlo a la carcel más cercana!
-- Incluye una guía de construcción digital dentro de la app gratuita LEGO Builder para smartphones y tablets, donde los niños pueden usar la herramientas interactivas y hacer zoom, rotar o ver el juguete desde todos los ángulos mientras lo construyen
 - La gama de sets y juegos creativos de LEGO City son fantásticos regalos de cumpleaños o para ocasiones especiales; ideales para niños y niñas pequeños amantes de las motos y los coches de juguete
 - Este juguete de policía de LEGO City para niños de 5 años en adelante cuenta con una moto de persecución, un coche de juguete rojo y 2 mini figuras LEGO de un agente y un ladrón para interpretar divertidas persecuciones
 - Este divertido set de construcción incluye accesorios que fomentan el juego imaginativo como dinero de mentira y esposas de juguete para inspirar alucinantes aventuras policiales
+- Los niños podrán ayudar a la mini figura LEGO del agente policial a subirse en la moto de juguete y perseguir al ladrón que va en el deportivo y que ha robado dinero, ¡deberán esposarlo y llevarlo a la carcel más cercana!
+- Incluye una guía de construcción digital dentro de la app gratuita LEGO Builder para smartphones y tablets, donde los niños pueden usar la herramientas interactivas y hacer zoom, rotar o ver el juguete desde todos los ángulos mientras lo construyen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBS2LB7V{{</world>}}

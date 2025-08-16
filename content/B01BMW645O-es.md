@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - ¡Comienza una colección de coches hoy!
 - Los coleccionistas y entusiastas del automovilismo desearán hacerse con estos increíbles vehículos a escala 1:64.
 - ¡Premia a tu hijo o al niño que llevas dentro con coches de Hot Wheels!
-- Este pack de 20 vehículos de Hot Wheels viene cargado de diversión.
 - La caja de ventana abierta permite ver todos los vehículos antes de adquirirlos en la tienda.
+- Este pack de 20 vehículos de Hot Wheels viene cargado de diversión.
 - A los niños les encantará lanzarlos por sus pistas de carreras o jugar haciéndolos rodar por el suelo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

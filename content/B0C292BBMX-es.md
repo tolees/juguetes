@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- - Modo Historia: ¡Disfruta del modo Historia que ha sido mejorado! ¡Visita nuevos planetas con los “Ellons”, los nuevos amigos de los Bomberman, y enfréntate a una amenaza para el universo!
+- - Castillo: Batalla asimétrica entre el bando del castillo, que protege el cofre del tesoro, y el bando atacante, cuyo objetivo es hacerse con el botín.
 - - Modo Batalla: Disfruta de 4 modos de batalla, incluido el nuevo "Castillo".
 - - Editor de niveles: Puedes compartir on-line escenarios personalizados con bloques y trucos. ¡Crea, juega, comparte y explora varios escenarios con este editor!
-- - Castillo: Batalla asimétrica entre el bando del castillo, que protege el cofre del tesoro, y el bando atacante, cuyo objetivo es hacerse con el botín.
-- - Modo Historia: ¡Disfruta del modo Historia que ha sido mejorado! ¡Visita nuevos planetas con los “Ellons”, los nuevos amigos de los Bomberman, y enfréntate a una amenaza para el universo!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C292BBMX{{</world>}}

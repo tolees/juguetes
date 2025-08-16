@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La gran figura de juguete para construir de Star Wars tiene manos, brazos, piernas y pies articulados, una cabina que se abre para la minifigura, manos de agarre que sujetan una gran espada láser roja y un soporte para una espada láser pequeña
-- La figura de Star Wars tiene el tamaño perfecto para jugar en cualquier lugar, y queda perfecta expuesta tras las aventuras de juego
 - Incluye una minifigura LEGO de Darth Vader con una espada láser más pequeña para jugar con ella; los niños colocan la minifigura en la cabina con el Señor Oscuro de los Sith y enganchan su espada láser a la parte trasera para empezar las batallas
 - Este meca LEGO Star Wars puede combinarse con los sets coleccionables LEGO Star Wars 75369 Meca Boba Fett y 75370 Meca Soldado de Asalto (se venden por separado) para disfrutar de más posibilidades de juego
+- La gran figura de juguete para construir de Star Wars tiene manos, brazos, piernas y pies articulados, una cabina que se abre para la minifigura, manos de agarre que sujetan una gran espada láser roja y un soporte para una espada láser pequeña
 - El juguete de construcción LEGO Star Wars Meca de Darth Vader para niños a partir de 6 años incluye una figura de acción para construir del icónico personaje de Star Wars con la que los fans podrán representar la acción de una galaxia muy, muy lejana
+- La figura de Star Wars tiene el tamaño perfecto para jugar en cualquier lugar, y queda perfecta expuesta tras las aventuras de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BV7CF8PT{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RÉPLICA AUTÉNTICA: el monster truck radiocontrol Toro Loco a escala 1:24 te pone en el centro de la acción de Monster Jam; con neumáticos oficiales BKT, gráficos detallados y un chasis elegante, te sentirás como si estuvieras conduciendo un monster truck de verdad con este coche radiocontrol 4x4
 - INCLUYE: 1 Monster Jam Toro Loco RC
 - REGALOS NIÑOS 4 AÑOS +: el camión teledirigido Monster Jam es una gran idea para un regalo en cualquier época del año: Navidad, Reyes, un cumpleaños... Con este auténtico camión Monster Jam radiocontrol, ¡diversión y horas de juego aseguradas
-- RADIOCONTROL MULTIFUNCIÓN: con un mando radiocontrol de doble palanca y una frecuencia de 2,4 GHz, puedes conducir hasta 6 coches Monster Jam para niños a la vez; incluso puedes lanzarte en las aventuras más extremas con tu coche radiocontrol Toro Loco de Monster Jam y recorrer hasta 76 metros de distancia
 - MONSTER TRUCK TELEDIRIGIDO OFICIAL TORO LOCO: este coche teledirigido a escala 1:24 está construido para vivir la acción de Monster Jam; con tu Monster Jam Toro Loco, realiza impresionantes acrobacias y reproduce choques locos como en el famoso programa
+- RADIOCONTROL MULTIFUNCIÓN: con un mando radiocontrol de doble palanca y una frecuencia de 2,4 GHz, puedes conducir hasta 6 coches Monster Jam para niños a la vez; incluso puedes lanzarte en las aventuras más extremas con tu coche radiocontrol Toro Loco de Monster Jam y recorrer hasta 76 metros de distancia
+- RÉPLICA AUTÉNTICA: el monster truck radiocontrol Toro Loco a escala 1:24 te pone en el centro de la acción de Monster Jam; con neumáticos oficiales BKT, gráficos detallados y un chasis elegante, te sentirás como si estuvieras conduciendo un monster truck de verdad con este coche radiocontrol 4x4
 - FUNCIONA CON PILAS: los coches teledirigidos para niños Monster Jam requieren 3 pilas LR03 para el vehículo y 2 pilas LR03 para el mando (no incluidas)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

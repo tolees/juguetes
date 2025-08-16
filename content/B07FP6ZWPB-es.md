@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye 4 minifiguras: Iron Man, Capitán Marvel, Nebulosa y un Outrider de 4 brazos, además de figuras grandes de Hulk y Thanos y una microfigura de Ant-Man
+- El helicóptero cuenta con una cabina de minifigura de apertura, 2 giros, inclinables rotores ting y a Tirador rápido de 6 pernos
 - . El edificio de oficinas cuenta con elementos del logotipo de los Vengadores A, tirador de resorte en el techo, tiradores de doble clavo, además de un radar giratorio e inclinable
 - Los elementos accesorios incluyen Capitán Marvel 10 Power Bursts y un montón de accesorios de oficina para juegos imaginativos
-- El helicóptero cuenta con una cabina de minifigura de apertura, 2 giros, inclinables rotores ting y a Tirador rápido de 6 pernos
-- Incluye 4 minifiguras: Iron Man, Capitán Marvel, Nebulosa y un Outrider de 4 brazos, además de figuras grandes de Hulk y Thanos y una microfigura de Ant-Man
 - Cuenta con el compuesto de los Vengadores con un edificio de oficinas de 2 niveles, helipuerto, garaje, además de un helicóptero y todoterreno para un juego creativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

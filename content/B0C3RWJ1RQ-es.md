@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Emocionantes batallas contra jefes
 - Personaliza el meca a tu estilo de juego
+- Emocionantes batallas contra jefes
 - Batallas dinámicas y omnidireccionales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

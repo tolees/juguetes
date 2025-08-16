@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carátula especial reversible
 - Caja Steelbook
+- Carátula especial reversible
 - 2 Figuritas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

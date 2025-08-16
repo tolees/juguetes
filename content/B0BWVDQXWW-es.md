@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Juego de carreras estilo Micro-Machines en el que todos juegan a la vez
 - Un juego trepidante y desenfrenado, ilustrado por Edu Valls
 - Programa acciones moviendo las fichas de tu mando-puzzle para derrapar, saltar e incluso disparar a tus contrincantes
-- Juego de carreras estilo Micro-Machines en el que todos juegan a la vez
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWVDQXWW{{</world>}}

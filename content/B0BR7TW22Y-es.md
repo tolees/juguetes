@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con un outfit moderno y actual vestido con aberturas, top y falda unidos por una hebilla, y sandalias a juego, que encantará a los más peques
-- Nancy es el optimo regalo para los pequeños que adoran las muñecas y las tendencias, para desarrollar su creatividad e imaginación
 - Muñeca de 43 cm con el pelo moreno peinado en muchas trenzas para hacerle todo tipo de peinados
+- Nancy es el optimo regalo para los pequeños que adoran las muñecas y las tendencias, para desarrollar su creatividad e imaginación
 - Incluye accesorios para el pelo como bolas de colores decorativas, un peine y más para hacer diferentes posibilidades de peinados
 - Juguete recomendado para niñas y niños a partir de 3 años
 

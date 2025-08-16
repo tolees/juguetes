@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Juguete “4 en 1” para peques: Los niños y las niñas a partir de 9 años podrán recrear la acción de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones con el Meca Ultra Combo de Zane
 - Modelos ninja desmontables: El Meca Ultra Combo de Zane puede separarse en 4 modelos más pequeños (un avión jet de juguete, un coche de juguete, una figura de acción y un dragón de juguete)
 - Idea de regalo de cumpleaños para niños y niñas de 9 años o más: Este juguete de construcción 4 en 1 es un óptimo regalo para peques que disfrutan jugando e imaginando historias con sus héroes ninja
-- Juguete “4 en 1” para peques: Los niños y las niñas a partir de 9 años podrán recrear la acción de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones con el Meca Ultra Combo de Zane
 - 6 minifiguras LEGO NINJAGO: Este juego de acción incluye a los ninja Sora y Cole, y a su aliada Pixal, que se enfrentarán al infame trío formado por Nokt, un guerrero Dragónido y un explorador Dragónido
 - Figura articulada LEGO NINJAGO: El enorme Meca Combo cuenta con piernas, pies, brazos, muñecas, dedos y cabeza articulados, así como con alas de dragón, una cabina, 2 cañones y un elemento que representa una gran espada de juguete
 

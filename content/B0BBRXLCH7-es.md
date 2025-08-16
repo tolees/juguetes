@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El set incluye un ladrillo para principiantes con el que los jóvenes constructores tendrán una ayuda inicial y podrán empezar a jugar nada más abrir la caja, también incluye una fantástica y sencilla guía ilustrada de construcción
+- Este juguete creativo incluye 2 mini figuras de policías y 2 de ladrones, además de muchos accesorios para experimentar juegos imaginativos y de rol como una joya, una radio, una llave de la cárcel, 2 tazas y un megáfono
+- La cárcel de la comisaría cuenta con una función de fuga, los niños podrán enganchar la moto de juguete a la puerta para activarla, el coche LEGO de la policía deberá después perseguir a los ladrones que andan sueltos
 - A los niños de 4 años en adelante les esperan grandes aventuras repletas de acción con este increíble set de LEGO City que incluye una comisaría de policía, un coche de juguete, una moto, 4 mini figuras y la figura de un perro policía
 - Este set de construcción de LEGO City Police es regalo de cumpleaños o para cualquier ocasión para niños pequeños amantes de los coches de la policía, las motos de juguete y los juegos de acción
-- La cárcel de la comisaría cuenta con una función de fuga, los niños podrán enganchar la moto de juguete a la puerta para activarla, el coche LEGO de la policía deberá después perseguir a los ladrones que andan sueltos
-- Este juguete creativo incluye 2 mini figuras de policías y 2 de ladrones, además de muchos accesorios para experimentar juegos imaginativos y de rol como una joya, una radio, una llave de la cárcel, 2 tazas y un megáfono
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBRXLCH7{{</world>}}

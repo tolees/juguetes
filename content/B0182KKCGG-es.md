@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: videojuego de acción y aventura
-- Cada pareja de personajes tiene su propio ataque de equipo
-- El juego cuenta con más de cien personajes jugables
 - Plataforma del juego: Xbox One
 - Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
+- Cada pareja de personajes tiene su propio ataque de equipo
+- El juego cuenta con más de cien personajes jugables
+- Tipo de producto: videojuego de acción y aventura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0182KKCGG{{</world>}}
