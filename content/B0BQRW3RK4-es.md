@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - VEHÍCULO AZUL: Con la catapulta podrás disparar una bellota explosiva para parar los planes de tus rivales. ¡Vence a los Wrockers desde el aire!
-- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
-- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
 - PERSONAJE ROBBIN: Incluye Robbin, quien roba Zells a los ricos para dárselo a los pobres. ¡Su bolsa está llena de Zells robados!
-- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
-- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
 - METAVERSO ZELLTIA: Escanea el código QR de los packs y juega en un mundo virtual. ¡Podrás crear tu personaje y escoger tu bando!
+- DESCUBRE LA SERIE: Sigue las increíbles aventuras de los Metazells en el canal de Youtube Kitoons Heroes. ¡También en nuestra web Kitoons!
+- WEB METAZELLS: Para más información, visita la página oficial de Metazells donde encontrarás la guía oficial. ¡Un universo por descubrir!
+- CONSTRUYE TU MUNDO: En el Mega Pack 7, encontrarás los troncos con las pasarelas y lianas para construir tu bosque. ¡Hazlo tan grande como quieras!
+- 82 A COLECCIONAR: Completa tu colección o intercambia las figuras con tus amigos. ¡Colecciona todos los personajes!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQRW3RK4{{</world>}}

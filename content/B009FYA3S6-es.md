@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fiel ambientación sobre La Tierra Media de Tolkien
-- Duración aproximada de la partida 180 min
 - Edad mínima recomendada: 120 meses
-- Juego de Marco Maggi y Francesco Nepitello
+- Duración aproximada de la partida 180 min
 - Nueva edición del juego ha sido rediseñada e incluye sustanciales mejoras. Las cartas son mayores, el reglamento ha sido corregido y reeditado, el tablero ha sido rediseñado por completo
 - Temática: Papás Frikis
+- Juego de Marco Maggi y Francesco Nepitello
+- Fiel ambientación sobre La Tierra Media de Tolkien
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B009FYA3S6{{</world>}}

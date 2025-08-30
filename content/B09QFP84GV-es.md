@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los peques activan la moto acrobática y la sueltan en dirección a las barras suspendidas del circuito, ¡cada vez que derriben alguna se llevarán un premio: un escorpión, un pastel o un trofeo!
-- Los peques que disfrutan de las competiciones amarán este set LEGO City Stuntz que cuenta con una moto de juguete y elementos que brillan en la oscuridad para vivir épicos desafíos
 - Combina este set con otros de la gama LEGO City Stuntz para crear torneos y competiciones únicos: Desafío Acrobático: Espadas (60340) y Desafío Acrobático: Ataque del Tiburón (60342)
-- Este juguete de construcción cuenta con una moto acrobática con rueda de inercia, casco intercambiable con visera y accesorios de pelo, y un área de acrobacias con estrellas que brilla en la oscuridad
-- Incluye las mini figuras de los personajes de la serie LEGO City: Aventuras en la Ciudad Poppy Starr Galáctica y Harl Hubbs, además de divertidos accesorios como un destornillador y un micrófono
 - Este juego de acción LEGO City Stuntz es un regalo cumpleaños genial para niños y niñas de 5 años en adelante amantes de la serie de televisión y las aventuras
 - Incluye instrucciones de construcción paso a paso impresas, ¡así los niños van directos a la acción!
+- Los peques que disfrutan de las competiciones amarán este set LEGO City Stuntz que cuenta con una moto de juguete y elementos que brillan en la oscuridad para vivir épicos desafíos
+- Incluye las mini figuras de los personajes de la serie LEGO City: Aventuras en la Ciudad Poppy Starr Galáctica y Harl Hubbs, además de divertidos accesorios como un destornillador y un micrófono
+- Este juguete de construcción cuenta con una moto acrobática con rueda de inercia, casco intercambiable con visera y accesorios de pelo, y un área de acrobacias con estrellas que brilla en la oscuridad
+- Los peques activan la moto acrobática y la sueltan en dirección a las barras suspendidas del circuito, ¡cada vez que derriben alguna se llevarán un premio: un escorpión, un pastel o un trofeo!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QFP84GV{{</world>}}

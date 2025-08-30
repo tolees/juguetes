@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DINOLANZAMIENTO DE DARDOS. Lánzate a la diversión al cargar 1 dardo por el frente del lanzador, tira la palanca hacia atrás para preparar el lanzador y aprieta el gatillo para lanzar el dardo (no necesita pilas)
 - 5 DARDOS NERF Y PORTA-DARDOS INCORPORADO. Viene con 5 dardos de espuma Nerf Elite oficiales. El lanzador tiene almacenamiento incorporado para 4 dardos para tenerlos al alcance al hacer recargas
 - LANZADOR NERF DINOSQUAD STEGO-SMASH. Mantén tu posición como defensor lanzadardos con este lanzador que tiene increíbles detalles de dinosaurio que reproducen la apariencia de un dinosaurio Estegosaurio
+- DINOLANZAMIENTO DE DARDOS. Lánzate a la diversión al cargar 1 dardo por el frente del lanzador, tira la palanca hacia atrás para preparar el lanzador y aprieta el gatillo para lanzar el dardo (no necesita pilas)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08F2PY4SB{{</world>}}

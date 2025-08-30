@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuentas de colores.
-- Tienen el tamaño ideal para las manitas de los más pequeños.
 - Ayuda a desarrollar los sentidos y la motricidad gruesa del niño.
 - Sonidos de sonajero.
+- Tienen el tamaño ideal para las manitas de los más pequeños.
 - Pompones suaves.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

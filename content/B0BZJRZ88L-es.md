@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un óptimo juego completamente autojugable, con óptimos desafíos que optimizan la experiencia de La Tripulación y aumentan la rejugabilidad
-- El óptimo título autojugable de La Tripulación, ganador del Kennerspiel des Jahres; juego Estratégico del Año, en 2020
 - Sumérgete en la Misión Mar Profundo en este juego cooperativo de bazas en el que debéis superar todas las misiones sin hablar con el resto de jugadores
+- El óptimo título autojugable de La Tripulación, ganador del Kennerspiel des Jahres; juego Estratégico del Año, en 2020
+- Un óptimo juego completamente autojugable, con óptimos desafíos que optimizan la experiencia de La Tripulación y aumentan la rejugabilidad
 - MECÁNICAS: Bazas, Cooperativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

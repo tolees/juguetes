@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estimulan tu imaginación
 - Figura d semental árabe
+- Estimulan tu imaginación
 - Producto de calidad
 - Juguete coleccionable
 

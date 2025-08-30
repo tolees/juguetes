@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre todas las construcciones nanobloque disponibles: animales, objetos, monumentos, manga...
-- El kit contiene aproximadamente 180 bloques de construcción para ensamblar la figura en miniatura (incluidos algunos bloques de construcción adicionales), así como instrucciones detalladas de montaje paso a paso. Tamaño del modelo montado: 40 x 75 x 36 mm
-- Una colaboración oficial de Naruto Shippuden y Nanoblock: Construye tu figura en miniatura de Itachi Uchiwa a partir de bloques de construcción!
-- Un pasatiempo meticuloso y divertido, recomendado a partir de los 12 años.
 - Nanoblock s son microjuegos con bloques de construcción para crear miniaturas 3D de diferentes modelos.
+- Descubre todas las construcciones nanobloque disponibles: animales, objetos, monumentos, manga...
+- Un pasatiempo meticuloso y divertido, recomendado a partir de los 12 años.
+- Una colaboración oficial de Naruto Shippuden y Nanoblock: Construye tu figura en miniatura de Itachi Uchiwa a partir de bloques de construcción!
+- El kit contiene aproximadamente 180 bloques de construcción para ensamblar la figura en miniatura (incluidos algunos bloques de construcción adicionales), así como instrucciones detalladas de montaje paso a paso. Tamaño del modelo montado: 40 x 75 x 36 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4PNYFFV{{</world>}}

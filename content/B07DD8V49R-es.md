@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye dos figuritas (el policia y el ladrón) además de unos complementos de superhéroe para transformarlas; con muchos pequeños accesorios incluidos para crear incontables combinaciones
-- El escenario tiene 3 plantas: la comisaría con calabozo, el laboratorio y la guarida de superhéroe; con un montón de trampas para atrapar a los malos y proteger la pócima secreta
-- Con paneles que simulan fuego o lava para poder tumbarlos y apagar los fuegos
 - Divertido playset de pinypon action para jugar a un sinfín de aventuras de policías, ladrones y superhéroes; tiene alarma con luz y sonido
+- El escenario tiene 3 plantas: la comisaría con calabozo, el laboratorio y la guarida de superhéroe; con un montón de trampas para atrapar a los malos y proteger la pócima secreta
+- Incluye dos figuritas (el policia y el ladrón) además de unos complementos de superhéroe para transformarlas; con muchos pequeños accesorios incluidos para crear incontables combinaciones
 - En la guarida de superhéroe: si presionas un botón la figura saldrá disparada por la cúpula
+- Con paneles que simulan fuego o lava para poder tumbarlos y apagar los fuegos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DD8V49R{{</world>}}

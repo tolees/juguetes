@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Botones de juego avanzado asignables
 - Soporte de juego integrado para el modo de sobremesa
 - Carcasa exterior sólida con asa de goma y cremalleras dobles resistentes
-- Celebra el aniversario de la criatura rosa más querida de todos con un asombroso diseño de Kirby
-- Botones de juego avanzado asignables
 - Toma de audio de 3,5 mm
 - Protege tu dispositivo Nintendo Switch con el poder entrañable de Kirby
+- Celebra el aniversario de la criatura rosa más querida de todos con un asombroso diseño de Kirby
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8YMMDG1{{</world>}}

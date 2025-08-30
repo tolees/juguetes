@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mymy City es la ciudad donde tu peque lo decide todo; podrá escoger su familia, decorar su casa y vivir mil aventuras haciendo crecer su ciudad
-- El set incluye distintos accesorios como mesa con platos, copas, vasos; un trípode, micrófono, una mesita con la tarta nupcial y de accesorios
 - Mymy Wedding set incluye todo lo necesario para organizar la boda de tus sueños en tu ciudad
-- Recomendado para niños a partir de 4 años; ayuda a desarrollar su sociabilidad, imaginación y habilidades manuales
 - Puedes personalizar las bodas a tu gusto: elige quienes se casan y ponlos en el photocall; incluye dos decoraciones para poder escoger entre 4 photocalls; divertido con huecos para las caras
+- El set incluye distintos accesorios como mesa con platos, copas, vasos; un trípode, micrófono, una mesita con la tarta nupcial y de accesorios
+- Recomendado para niños a partir de 4 años; ayuda a desarrollar su sociabilidad, imaginación y habilidades manuales
+- Mymy City es la ciudad donde tu peque lo decide todo; podrá escoger su familia, decorar su casa y vivir mil aventuras haciendo crecer su ciudad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08RRRQGPY{{</world>}}

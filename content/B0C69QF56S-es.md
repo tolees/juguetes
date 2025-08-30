@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Además incluye 6 mascarillas faciales diferentes para Nancy que tu peque se divertirá creando en el bol mezclando los polvos con agua; se pueden guardar en varios botes para poder reutilizarlas en cualquier momento
-- Las uñas de Nancy tienen un sensor térmico que cambian de color al pasarlas por agua fría; y una paleta de maquillaje
-- Juguete recomendado para niños y niñas a partir de 3 años a los que les gusten los peinados y la belleza
-- Incluye una muñeca de 42 centímetros castaña y de ojos verdes vestida con una toalla de cuerpo y de pelo para hacerse su tratamiento en el spa
 - Este set de Nancy incluye una camilla para tratamientos estéticos, plegable y con dos posiciones distintas
+- Juguete recomendado para niños y niñas a partir de 3 años a los que les gusten los peinados y la belleza
+- Las uñas de Nancy tienen un sensor térmico que cambian de color al pasarlas por agua fría; y una paleta de maquillaje
+- Además incluye 6 mascarillas faciales diferentes para Nancy que tu peque se divertirá creando en el bol mezclando los polvos con agua; se pueden guardar en varios botes para poder reutilizarlas en cualquier momento
+- Incluye una muñeca de 42 centímetros castaña y de ojos verdes vestida con una toalla de cuerpo y de pelo para hacerse su tratamiento en el spa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C69QF56S{{</world>}}

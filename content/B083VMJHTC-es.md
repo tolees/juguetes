@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Feroz dinosaurio con voz que se transforma en un intrépido todoterreno
-- Pulsando el botón de acción, Barro cobrará vida como un dinosaurio de verdad, moviendo sus fauces y activando efectos de luz
-- Enseña datos curiosos sobre este tipo de dinosaurios, así como información de interés sobre el mundo de la competición
-- Versión española
 - Incorpora un sensor de movimiento para activar pisadas, rugidos o derrapes según la situación
-- El juguete identifica si se encuentra en modo animal o vehículo para responder en consonancia, su transformación es fácil y rápida
+- Feroz dinosaurio con voz que se transforma en un intrépido todoterreno
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Versión española
+- Pulsando el botón de acción, Barro cobrará vida como un dinosaurio de verdad, moviendo sus fauces y activando efectos de luz
 - Incluye tres botones que activan distintas voces, acción y efectos especiales y una pantalla LCD que muestra animaciones en función de si se encuentra en modo dino o en modo coche
+- Enseña datos curiosos sobre este tipo de dinosaurios, así como información de interés sobre el mundo de la competición
+- El juguete identifica si se encuentra en modo animal o vehículo para responder en consonancia, su transformación es fácil y rápida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083VMJHTC{{</world>}}

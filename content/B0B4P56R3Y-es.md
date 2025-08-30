@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Videojuego Code-In-Box para Nintendo Switch
 - LEGO City Undercover NS CIB. No incluye tarjeta física.
+- Videojuego Code-In-Box para Nintendo Switch
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4P56R3Y{{</world>}}

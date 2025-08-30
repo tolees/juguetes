@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un viaje con pedigrí
 - Un sinfín de aventuras
+- Un viaje con pedigrí
 - Innovación en el combate
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VERSIÓN: Española
-- ASPECTOS EDUCATIVOS: Matemáticas básicas, solución de problemas, formas y lógica.
 - ¡EL LABERINTO!: Pulsa los botones para ayudar a Mickey a salir del laberinto.
-- VTECH CUIDA DEL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
-- PUERTAS MISTERIOSAS: ¡Resuelve el enigma! Encuentra la puerta con la ventana que tenga la forma correcta. ¡DE AVENTURAS! Súbete a la montaña rusa y soluciona las sumas y restas de la pantalla.
-- ARRIBA Y ABAJO: ¿Quién hace estiramientos de forma diferente al resto? ¡Encuéntralo! OCHO DISEÑOS DISTINTOS: Cambia la pantalla de la hora con tus personajes favoritos.
 - CRONÓMETRO: ¡Cuenta el tiempo con tus amigos! ALARMA: Pon una alarma y elige entre tres tonos diferentes.
+- ARRIBA Y ABAJO: ¿Quién hace estiramientos de forma diferente al resto? ¡Encuéntralo! OCHO DISEÑOS DISTINTOS: Cambia la pantalla de la hora con tus personajes favoritos.
+- VTECH CUIDA DEL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
+- ASPECTOS EDUCATIVOS: Matemáticas básicas, solución de problemas, formas y lógica.
+- VERSIÓN: Española
+- PUERTAS MISTERIOSAS: ¡Resuelve el enigma! Encuentra la puerta con la ventana que tenga la forma correcta. ¡DE AVENTURAS! Súbete a la montaña rusa y soluciona las sumas y restas de la pantalla.
 - ¡ES HORA DE IRTE DE AVENTURAS CON MICKEY!: Diseñado para que lo lleves cómodamente en tu muñeca, podrás usar las funciones del reloj, cambiar su imagen de fondo ¡y jugar con Mickey, Minnie y sus amigos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

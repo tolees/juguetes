@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye espacio para más tablas y zapatillas de skate, que se pueden añadir a la colección. (Las tablas y los accesorios adicionales se venden por separado y están sujetos a disponibilidad).
 - Este increíble camión con llamativos elementos decorativos cuenta con un taco en el techo que se puede usar para hacer trucos increíbles y como asa para transportar el camión.
-- Niños y niñas pueden extraer la barandilla de deslizamiento, instalar la rampa vertical o usar la mesa de pícnic para hacer más trucos de skate. Todos los accesorios incluidos caben perfectamente dentro del camión o encima de este para guardarlos fácilmente.
 - Saborea el skate más épico con el camión de tacos de Hot Wheels Skate.
+- Niños y niñas pueden extraer la barandilla de deslizamiento, instalar la rampa vertical o usar la mesa de pícnic para hacer más trucos de skate. Todos los accesorios incluidos caben perfectamente dentro del camión o encima de este para guardarlos fácilmente.
 - Incluye una exclusiva fingerboard totalmente montada, diseñada en colaboración con la leyenda del skate Tony Hawk, y zapatillas de skate de quita y pon que se pueden guardar en el camión.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

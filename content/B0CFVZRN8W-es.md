@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amplía las aventuras automovilísticas: descubre más coches LEGO Speed Champions para construir con detalles de gran realismo (sets a la venta por separado)
-- Modelos de coches emblemáticos para jugar y exponer: los juguetes LEGO Speed Champions permiten a los peques y los fans del motor construir fieles versiones de algunos de los vehículos más icónicos del universo
-- 1 minifigura: el coche de construcción viene con techo desmontable y una minifigura de una piloto con casco, peluca y llave inglesa para colocarla al volante y vivir la acción; lleva puesto una sudadera con capucha con “Mustang Dark Horse” impreso
 - Un regalo óptimo: además de proporcionar una divertida experiencia de construcción y juego, el coche de construcción de este kit es un gran regalo para niños y niñas a partir de 9 años o coleccionistas de maquetas de coches adultos
+- 1 minifigura: el coche de construcción viene con techo desmontable y una minifigura de una piloto con casco, peluca y llave inglesa para colocarla al volante y vivir la acción; lleva puesto una sudadera con capucha con “Mustang Dark Horse” impreso
+- Modelos de coches emblemáticos para jugar y exponer: los juguetes LEGO Speed Champions permiten a los peques y los fans del motor construir fieles versiones de algunos de los vehículos más icónicos del universo
 - Características de diseño originales de Ford: el coche Deportivo Ford Mustang Dark Horse de juguete está equipado con alerón trasero, rejilla, faros, tubos de escape, logotipos de Ford y detalles en el interior
+- Amplía las aventuras automovilísticas: descubre más coches LEGO Speed Champions para construir con detalles de gran realismo (sets a la venta por separado)
 - Maqueta de exposición LEGO: después de conducir su coche Ford de juguete por el circuito o las calles de la ciudad, los niños pueden exponerlo con orgullo como decoración en un estante o en la mesita de noche
 - Vehículo Ford de juguete: descubre el Deportivo Ford Mustang Dark Horse LEGO Speed Champions, una maqueta de coche para niños y niñas a partir de 9 años y coleccionistas de maquetas de coches adultos
 

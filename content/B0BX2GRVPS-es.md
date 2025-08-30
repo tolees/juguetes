@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3.5mm audio jack
 - On guard against the fiercest attacks, Link is ready to take on the most fearsome of Hyrule’s enemies.
 - Sturdy handle and durable zipper pull
 - Dominated by the slashing arc of the Master Sword, this design shows Link at his most formidable.
+- 3.5mm audio jack
 - Mappable Advanced Gaming Buttons
 - Molded interior with felt lining
 

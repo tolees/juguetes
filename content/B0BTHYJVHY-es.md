@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO MONOPOLY PARA LOS MÁS PEQUEÑOS: El clásico e icónico juego de mesa Monopoly ahora para niños y niñas de edad preescolar. Es un juego rapido y fácil para los más pequeños ya que cuenta con propiedades con nombres cotidianos y 6 adorables peones
-- 2 NIVELES DE JUEGO: Elige entre 2 niveles de juego: Juega el Nivel 1 para niños y niñas de 4-5 años, o da vuelta al tablero y juega el Nivel 2 para niños y niñas a partir de 6 años. Cada nivel incluye su propio set de cartas y dinero Monopoly
-- CONTAR Y ASOCIAR: En el Nivel 1, los más pequeños se divertirán contando casillas y asociando imágenes mientras avanzan por el tablero comprando propiedades. El jugador que tenga más propiedades es el ganador
 - LECTURA Y MATEMÁTICAS BÁSICAS: El Nivel 2 motivará a los niños y las niñas a practicar la lectura y las matemáticas básicas acorde a su edad. Podrán divertirse contando y juntando dinero Monopoly. ¡El jugador con más dinero gana!
 - JUEGO MONOPOLY PARA LOS MÁS PEQUEÑOS: El clásico e icónico juego de mesa Monopoly ahora para niños y niñas de edad preescolar. Es un juego rapido y fácil para los más pequeños ya que cuenta con propiedades con nombres cotidianos y 6 adorables peones
+- 2 NIVELES DE JUEGO: Elige entre 2 niveles de juego: Juega el Nivel 1 para niños y niñas de 4-5 años, o da vuelta al tablero y juega el Nivel 2 para niños y niñas a partir de 6 años. Cada nivel incluye su propio set de cartas y dinero Monopoly
+- JUEGO MONOPOLY PARA LOS MÁS PEQUEÑOS: El clásico e icónico juego de mesa Monopoly ahora para niños y niñas de edad preescolar. Es un juego rapido y fácil para los más pequeños ya que cuenta con propiedades con nombres cotidianos y 6 adorables peones
+- CONTAR Y ASOCIAR: En el Nivel 1, los más pequeños se divertirán contando casillas y asociando imágenes mientras avanzan por el tablero comprando propiedades. El jugador que tenga más propiedades es el ganador
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTHYJVHY{{</world>}}

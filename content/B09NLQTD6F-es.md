@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - CONÉCTALO Y JUEGA: Este completo conjunto de juego de Harry Potter es el escenario definitivo para vivir tus aventuras del Wizarding World. Coloca las tiendas como quieras y recrea escenas en el Callejón Diagon.
 - 3 CONJUNTOS DE JUEGO EN 1: con 2 figuras, 21 accesorios, luces y sonidos, juega dentro de Sortilegios Weasley, el Emporio de la Lechuza o la Heladería de Florian Fortescue en el Callejón Diagon.
 - 2 FIGURAS Y 21 ACCESORIOS: Dale profundidad a tu juego de simulación con los muñecos articulados de 7,6 cm de Hermione Granger y Fred Weasley, además de los 21 accesorios para muñecos, que incluyen muebles, búhos, Micropuffs que se pegan a los muñecos y mucho más.
-- Estilo más adecuado para: female
 - Incluye: 3 conjuntos de juego, 2 figuras, 3 criaturas, 18 accesorios
+- Estilo más adecuado para: female
 - LUCES Y SONIDOS: Descubre luces y sonidos reales. Pulsa el botón de la parte inferior de la escalera de la tienda de artículos de broma para disfrutar de sonidos mágicos y hacer que la poción de amor se ilumine de verdad. Requiere 3 pilas AAA, no incluidas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

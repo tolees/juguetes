@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Un regalo LEGO de Navidad para niños y niñas de 7 años en adelante: sorprende a tu héroe cotidiano regalándole este juguete de policía para fans de los juguetes de construcción LEGO y el juego imaginativo por Reyes Magos o Papá Noel
 - Juguete de policías e isla prisión para niños a partir de 7 años: la Isla Prisión de la Policía LEGO City está repleta de divertidas características y funciones para disfrutar de un sinfín de horas de juego imaginativo
-- Isla prisión LEGO rebosante de divertidas características: la cárcel de juguete incluye una celda con túnel de huida que conduce a una mina abandonada, además de un patio con trampilla secreta para escapar que lleva a una cloaca en desuso
-- Incluye un póster de “Se busca”: Con el permiso de un adulto, tu peque podrá escanear el código QR de las instrucciones de construcción o la caja para ver una divertida aventura en vídeo de LEGO City Policía
 - ¿Qué contiene este juguete de construcción LEGO City? Una isla prisión para construir con acantilado, cárcel, barco de la Policía, lancha, helicóptero de juguete y minifiguras de 3 agentes y 4 presos, además de figuras de perro policía y tiburón
+- Incluye un póster de “Se busca”: Con el permiso de un adulto, tu peque podrá escanear el código QR de las instrucciones de construcción o la caja para ver una divertida aventura en vídeo de LEGO City Policía
+- Isla prisión LEGO rebosante de divertidas características: la cárcel de juguete incluye una celda con túnel de huida que conduce a una mina abandonada, además de un patio con trampilla secreta para escapar que lleva a una cloaca en desuso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CFVZT2HB{{</world>}}

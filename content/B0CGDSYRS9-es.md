@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un luchador para una otra generación
 - Arcade Quest
-- Juego de otra rivalidad
+- Un luchador para una otra generación
 - Este juego trae un modo de juego específico
+- Juego de otra rivalidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGDSYRS9{{</world>}}

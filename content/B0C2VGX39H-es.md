@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- JUEGA EN EQUIPOS SECRETOS: En este juego de mesa de misterio, los jugadores encarnan a personajes de Cluedo y asumen roles secretos en equipos contrarios: Amigos contra la Conspiración
-- APLICACIÓN GRATUITA: Escanea el código QR que encontrarás en el paquete para visitar la aplicación web gratuita Clue Conspiracy (no es necesaria para jugar)
-- JUEGO DE MESA DE ESTRATEGIA COMO REGALO NAVIDEÑO: Obsequia con este juego de mesa clásico a quién aún no lo tenga como regalo de Navidad para jugar con amigos y familia
 - LA VERSIÓN PARA ADULTOS DEL JUEGO DE MESA CLUEDO: Miente a tus amigos y sal de rositas. El juego Clue Conspiracy es un juego de estrategia de rol secreto de sospechas cambiantes
 - EN QUIÉN PUEDES CONFIAR: En este juego de lógica y estrategia, los jugadores conspiran, reúnen pistas, comparten información (o no) y se delatan unos a otros para detener al bando contrario.
 - FORMAS DE GANAR: La Conspiración gana asesinando en un lugar específico o activando trampas; los Amigos ganan desarmando trampas, o si fallan, resolviendo el QUIÉN, DÓNDE y QUÉ del complot.
+- JUEGO DE MESA DE ESTRATEGIA COMO REGALO NAVIDEÑO: Obsequia con este juego de mesa clásico a quién aún no lo tenga como regalo de Navidad para jugar con amigos y familia
+- APLICACIÓN GRATUITA: Escanea el código QR que encontrarás en el paquete para visitar la aplicación web gratuita Clue Conspiracy (no es necesaria para jugar)
 - UNA ISLA, UNA NUEVA VÍCTIMA: Estás invitado al tropical Resort Víbora Negra, donde un huésped (¡quizá incluso tú!) está intentando asesinar a su director, el Sr. Coral
+- JUEGA EN EQUIPOS SECRETOS: En este juego de mesa de misterio, los jugadores encarnan a personajes de Cluedo y asumen roles secretos en equipos contrarios: Amigos contra la Conspiración
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2VGX39H{{</world>}}

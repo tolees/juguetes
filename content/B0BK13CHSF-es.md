@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Primer Eurogame estratégico con tema histórico-musical
 - Pueden participar entre uno y cuatro jugadores, a partir de los 14 años de edad
+- Primer Eurogame estratégico con tema histórico-musical
 - Arte y producción exuberante e inmersiva, recreando los hechos históricos en los que se desarrolla Lacrimosa
 - Apuesta de juego de producción propia de Devir para la Feria Spiel Essen 2022
 

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡Abre el remolque de Mack y descubre a Guido, con varias zonas de juego para que los coches se lancen a la carrera!
 - Con tanta actividad, elementos que brillan en la oscuridad y un sinfín de diversión e historias, el conjunto de Mack Supercamión es un regalo ideal para niños, niñas y fans de “Cars” a partir de 3 años.
+- ¡“Llena” el depósito con el surtidor de gasolina móvil y “limpia” el polvo de las carreras con la esponja giratoria de lavado de coches!
+- ¡Vuelve a plegarlo, carga uno de tus coches de personajes favoritos y empuja para volver a la carretera y conducir hasta la siguiente carrera!
+- ¡Súbete a la plataforma y pulsa a Guido hacia abajo para cambiar los neumáticos!
 - ¡Utiliza el lanzador con muelle para mandar a los coches de nuevo a la acción (los coches se venden por separado)!
 - El conjunto de juego de Mack Supercamión Glow Racers de Disney Pixar Cars crea emocionantes aventuras de carreras 2 en 1: ¡este camión de juguete es tanto un transportador como un centro de puesta a punto y cuenta con elementos que brillan en la oscuridad!
-- ¡Súbete a la plataforma y pulsa a Guido hacia abajo para cambiar los neumáticos!
-- ¡“Llena” el depósito con el surtidor de gasolina móvil y “limpia” el polvo de las carreras con la esponja giratoria de lavado de coches!
-- ¡Abre el remolque de Mack y descubre a Guido, con varias zonas de juego para que los coches se lancen a la carrera!
-- ¡Vuelve a plegarlo, carga uno de tus coches de personajes favoritos y empuja para volver a la carretera y conducir hasta la siguiente carrera!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDXZKFMX{{</world>}}

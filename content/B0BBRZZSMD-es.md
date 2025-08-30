@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este juego creativo de LEGO Creator con 3 maravillosas posibilidades de construcción es una muy buena idea como regalo de Reyes o regalo de cumpleaños para niñas y niños de 7 años en adelante que les gusten los unicornios
-- Con 3 animales de juguete en 1 solo juego, este set LEGO Creator incluye un mágico unicornio que puede transformarse en un caballito de mar o en un pavo real que transportarán a los niños de 7 años o más a una tierra mítica
-- El unicornio de juguete tiene un cuerno dorado, cola y melena en bonitos colores azules y patas y pezuñas articuladas; puede posarse sobre sus 4 patas o de pie sobre sus 2 traseras en una plataforma de arcoíris
+- Con una altura aproximada de 13 cm el Unicornio Mágico de juguete de LEGO tiene el tamaño ideal para que los peques jueguen en casa o lo metan en la mochila y lo lleven a todas partes
 - Estas figuras de animales hechas con piezas LEGO se ven geniales expuestas en la habitación de los niños: el unicornio sobre el arcoíris, el caballito sobre un fondo marino y el pavo real sobre sus 2 patas
 - Este unicornio se puede transformar después en 2 animales de juguete más: un caballito de mar con cola, aletas y cabeza móviles o en un pavo real con cola y ojos móviles
-- Con una altura aproximada de 13 cm el Unicornio Mágico de juguete de LEGO tiene el tamaño ideal para que los peques jueguen en casa o lo metan en la mochila y lo lleven a todas partes
+- El unicornio de juguete tiene un cuerno dorado, cola y melena en bonitos colores azules y patas y pezuñas articuladas; puede posarse sobre sus 4 patas o de pie sobre sus 2 traseras en una plataforma de arcoíris
+- Con 3 animales de juguete en 1 solo juego, este set LEGO Creator incluye un mágico unicornio que puede transformarse en un caballito de mar o en un pavo real que transportarán a los niños de 7 años o más a una tierra mítica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRZZSMD{{</world>}}

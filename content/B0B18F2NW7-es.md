@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Juego de cartas de ‘forzar tu suerte’ y de conseguir patrones
-- De 1 a 5 jugadores, incluye modo solitario
+- Pueden participar entre uno y cinco jugadores, a partir de los 12 años de edad
+- Incluye modo solitario
 - Modernización del juego Black Jack, apto para toda la familia
 - Juego de cartas de ‘forzar tu suerte’ y de conseguir patrones
 - Modernización del juego Black Jack, apto para toda la familia
-- Incluye modo solitario
-- Pueden participar entre uno y cinco jugadores, a partir de los 12 años de edad
+- De 1 a 5 jugadores, incluye modo solitario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B18F2NW7{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DIFERENTES COMBINACIONES: Une la Comisaría de policía junto a otros playsets de la gama Tut Tut Bólidos y crea ¡un escenario increíble! 6 Sensores mágicos: Los Tut Tut Bólidos responden con diferentes frases, canciones y sonidos cuando pasan por los sensores mágicos (de venta por separado).
+- ¡LA POLICÍA A TU SERVICIO! ¡Al rescate! Si oyes sirenas y ves luces, es la policía ¡listos para ayudar! Sube el coche de policía por el ascensor hacia la rampa de salida y prepara el helicóptero... ¡vamos de camino!
+- MÁS DE 50 frases, canciones, sonidos y melodías. ASPECTOS EDUCATIVOS: Desarrollo motor, Exploración y descubrimiento, Desarrollo del lenguaje y Juego imaginativo.
 - ✅ VERSIÓN ESPAÑOLA. Circuito interactivo, Playsets y coches de juguete para niños +1 año.
 - CARACTERÍSTICAS: Varios escenarios y elementos para manipular que recrean una comisaría de policía: celda, helipuerto, rampa de salida, aparcamiento, ascensor con giro que para en dos pisos y lanzador.
-- MÁS DE 50 frases, canciones, sonidos y melodías. ASPECTOS EDUCATIVOS: Desarrollo motor, Exploración y descubrimiento, Desarrollo del lenguaje y Juego imaginativo.
-- ¡LA POLICÍA A TU SERVICIO! ¡Al rescate! Si oyes sirenas y ves luces, es la policía ¡listos para ayudar! Sube el coche de policía por el ascensor hacia la rampa de salida y prepara el helicóptero... ¡vamos de camino!
+- DIFERENTES COMBINACIONES: Une la Comisaría de policía junto a otros playsets de la gama Tut Tut Bólidos y crea ¡un escenario increíble! 6 Sensores mágicos: Los Tut Tut Bólidos responden con diferentes frases, canciones y sonidos cuando pasan por los sensores mágicos (de venta por separado).
 - ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

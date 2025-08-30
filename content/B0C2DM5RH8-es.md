@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Si nunca habéis jugado a dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores; buscad el símbolo idéntico en las dos cartas (misma forma y mismo color, sólo el tamaño puede variar)
-- Los personajes más emblemáticos de los Cómics de Astérix y Obélix se unen a la familia de Dobble.
-- De 2 a 8 jugadores; a partir de 7 años de edad.
 - Pues ahora prepárate, porque dobble contiene varios mini-juegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez.
 - El primer jugador que encuentre este símbolo, lo nombra y roba dos nuevas cartas que pondrá sobre la mesa; repetid esta operación hasta que todos los jugadores hayan entendido que siempre hay solamente un símbolo idéntico entre dos cartas y ya está
+- Si nunca habéis jugado a dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores; buscad el símbolo idéntico en las dos cartas (misma forma y mismo color, sólo el tamaño puede variar)
+- De 2 a 8 jugadores; a partir de 7 años de edad.
+- Los personajes más emblemáticos de los Cómics de Astérix y Obélix se unen a la familia de Dobble.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2DM5RH8{{</world>}}

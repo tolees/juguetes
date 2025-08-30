@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este juguete de exploración espacial cuenta con todo lo necesario para crear un vehículo róver espacial, una escena de un géiser, 2 minifiguras de astronautas y figuras de acción de un robot y alienígenas
-- Descubre más sets LEGO del espacio: tu peque disfrutará de aún más diversión y aventuras cuando agregue este set a otros de la gama LEGO City Space (a la venta por separado)
-- Un divertido regalo para amantes del espacio: ofrece este set como regalo de cumpleaños o por cualquier ocasión a un niño o niña entusiasta del cosmos a partir de 6 años
 - Vehículo espacial futurista que fomenta el juego imaginativo: el róver espacial tiene una cabina minuciosamente detallada con espacio para 2 astronautas, 6 ruedas con neumáticos y suspensión delantera para transitar por planetas extraterrestres
-- Juego ilimitado: los sets espaciales LEGO City incorporan vehículos de juguete realistas, detalladas estructuras e interesantes personajes que funden la fantasía y la realidad para fomentar el juego imaginativo ilimitado
+- Descubre más sets LEGO del espacio: tu peque disfrutará de aún más diversión y aventuras cuando agregue este set a otros de la gama LEGO City Space (a la venta por separado)
 - Guía de construcción digital: embarca a tu entusiasta del espacio en una divertida aventura de construcción espacial con la app LEGO Builder, donde puede ver los modelos en 3D desde todos los ángulos a medida que construye
+- Juego ilimitado: los sets espaciales LEGO City incorporan vehículos de juguete realistas, detalladas estructuras e interesantes personajes que funden la fantasía y la realidad para fomentar el juego imaginativo ilimitado
+- Este juguete de exploración espacial cuenta con todo lo necesario para crear un vehículo róver espacial, una escena de un géiser, 2 minifiguras de astronautas y figuras de acción de un robot y alienígenas
+- Un divertido regalo para amantes del espacio: ofrece este set como regalo de cumpleaños o por cualquier ocasión a un niño o niña entusiasta del cosmos a partir de 6 años
 - Róver espacial de juguete: la creatividad de los peques a partir de 6 años despegará hacia novedosos horizontes con este set LEGO City Róver Explorador Espacial y Vida Extraterrestre para construir y jugar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

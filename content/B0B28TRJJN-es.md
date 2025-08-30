@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto distribuido oficialmente en España por BIZAK.
 - 1 cuaderno de enigmas, 24 cartas de pistas, 60 cartas de testigos, 12 cartas del Sabio, 12 cartas del Espía, 4 listas de sospechosos, 1 cuaderno de fichas de investigación, 4 discos de dragón, 1 revelador del culpable, etc.
 - Cuando creas saber quién es el culpable y el lugar donde se esconde, dirígete hacia allí y acúsale sin miedo.
-- Producto distribuido oficialmente en España por BIZAK.
 - Hay 50 misterios que resolver y 12 posibles culpables, tendrás que visitar a varios habitantes de Pekín para que te den una pista sobre el culpable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
