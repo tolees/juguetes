@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jugadores: 3-5
 - Contiene: 82 cartas
 - Tiempo: 20-25 minutos
-- Jugadores: 3-5
 - Edad: +7
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Personajes variados con una historia interesante
 - Excelentes gráficos
-- Obtendras mucha diversión
 - Una experiencia única
+- Obtendras mucha diversión
+- Personajes variados con una historia interesante
 - Accesible para todos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

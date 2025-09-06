@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Te enfrentarás a los jugadores con una serie de situaciones únicas que los obligarán a tomar decisiones morales complicadas; ¿Arriesgarás tu pellejo para mantener seguros a los miembros de tu tripulación? ¿Qué pesará, vuestras vidas o la seguridad de la misión?
 - Gen7 es un juego narrativo con múltiples posibilidades; las elecciones de los jugadores alterarán el curso de la historia; gen7 es un juego de encrucijada que sigue la estelar del premiado muerto de invierno
+- Te enfrentarás a los jugadores con una serie de situaciones únicas que los obligarán a tomar decisiones morales complicadas; ¿Arriesgarás tu pellejo para mantener seguros a los miembros de tu tripulación? ¿Qué pesará, vuestras vidas o la seguridad de la misión?
 - Resuelve el misterio y construye una historia emocionante con tus amigos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

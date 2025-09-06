@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Toma de audio de 3,5 mm
+- Botones de juego avanzado asignables
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Toma de audio de 3,5 mm
 - No necesita pilas
 - Elimina a los enemigos con este diseño que muestra una de las mejores versiones potenciadas de Mario
-- Botones de juego avanzado asignables
 - Cable USB extraíble de 3 metros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

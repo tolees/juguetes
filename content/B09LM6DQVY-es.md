@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De 2 a 6 jugadores
-- ¡Desafía a tu cerebro con un divertido juego que pondrá a prueba tu razonamiento, memoria y rapidez!
-- Compite con los demás jugadores en 8 tipos de retos que estimularán tus habilidades cognitivas: pruebas táctiles, observación, análisis, laberintos, coordinación.
-- A partir de 8 años de edad
 - Cortex pone a juego tu agilidad visual, tu coordinación, tu memoria, capacidad de razonamiento. ¡incluso la sensibilidad de tu tacto!
+- A partir de 8 años de edad
+- Compite con los demás jugadores en 8 tipos de retos que estimularán tus habilidades cognitivas: pruebas táctiles, observación, análisis, laberintos, coordinación.
+- ¡Desafía a tu cerebro con un divertido juego que pondrá a prueba tu razonamiento, memoria y rapidez!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LM6DQVY{{</world>}}

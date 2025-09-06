@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - MODO PARA JUEGO EN SOLITARIO O PARA DOS JUGADORES: Ponte a prueba y juega tú solo o reta a un amigo para comprobar quién tiene mejor memoria.
 - CÓMO JUGAR: Pon tu cerebro a prueba tratando de recordar la secuencia y sigue las luces intentando no equivocarte rompiendo el patrón. ¿Te parece fácil? ¡No tan deprisa! Acepta el reto y comprueba por qué BrainBolt es un juego de ingenio tan adictivo que querrás seguir jugando hasta que consigas ganar.
-- PREPARADO PARA VIAJAR: El diseño portátil de BrainBolt es perfecto para llevarlo contigo y jugar donde quieras
 - A JUGAR: BrainBolt es el juego de memoria con luces que te dejará el cerebro derretido, desarrollado por los expertos en juegos de Learning Resources.
+- PREPARADO PARA VIAJAR: El diseño portátil de BrainBolt es perfecto para llevarlo contigo y jugar donde quieras
 - ACTIVIDADES DIDÁCTICAS PARA APRENDER EN CASA: Es una actividad perfecta para que los niños estén concentrados, entretenidos y sigan aprendiendo aun cuando no estén en el aula.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

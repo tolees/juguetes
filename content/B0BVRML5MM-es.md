@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRACTICA EN CASA LO QUE APRENDES EN LA ESCUELA: Con la serie "Yo Aprendo" de Jumbo, los niños practican algunas habilidades de forma divertida. Los juegos se han desarrollado en colaboración con profesionales y se han convertido en parte del mundo de la enseñanza y la experiencia del niño.
-- APRENDE JUGANDO: Este juego de aprendizaje se adapta al ritmo de desarrollo de cada niño, de manera que se puede escoger entre los distintos modos de juego que se proponen conforme a las capacidades o el interés de los participantes.
 - JUEGO EDUCATIVO: Yo Aprendo Frutas y Verduras es un juego educativo para aprender a reconocer frutas y verduras y fomentar la curiosidad por ellas.
-- DESARROLLO ESPECIAL PARA NIÑOS: Sistema autocorrectivo por color: el color del fondo ayuda a los niños a emparejar correctamente las piezas de los puzles y aprender las frutas y las verduras.
 - Edad: 3+ / Tiempo medio: 15 minutos / Número de jugadores: 1-2
+- APRENDE JUGANDO: Este juego de aprendizaje se adapta al ritmo de desarrollo de cada niño, de manera que se puede escoger entre los distintos modos de juego que se proponen conforme a las capacidades o el interés de los participantes.
+- PRACTICA EN CASA LO QUE APRENDES EN LA ESCUELA: Con la serie "Yo Aprendo" de Jumbo, los niños practican algunas habilidades de forma divertida. Los juegos se han desarrollado en colaboración con profesionales y se han convertido en parte del mundo de la enseñanza y la experiencia del niño.
+- DESARROLLO ESPECIAL PARA NIÑOS: Sistema autocorrectivo por color: el color del fondo ayuda a los niños a emparejar correctamente las piezas de los puzles y aprender las frutas y las verduras.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVRML5MM{{</world>}}

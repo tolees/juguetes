@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto distribuido oficialmente en España por BIZAK.
+- SI HACES MATCH con los conectores significa QUE CONOCES BIEN A LA OTRA PERSONA Consigue ser el primer equipo en llegar a la casilla de meta, demostrando que conoces a tus oponentes mejor de lo que ellos te conocen a tí
 - De tal palo es un divertido juego familiar donde los equipos estarán formados por PADRES E HIJOS
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Para cada pregunta hay 4 respuestas posibles; hay mucho por conocer sobre los jugadores
-- Producto distribuido oficialmente en España por BIZAK.
-- SI HACES MATCH con los conectores significa QUE CONOCES BIEN A LA OTRA PERSONA Consigue ser el primer equipo en llegar a la casilla de meta, demostrando que conoces a tus oponentes mejor de lo que ellos te conocen a tí
 - Cuanto más los conozcas, más rápido alcanzarás la meta, pero cuidado Si caes en la casilla trampa tendrás que retroceder en el tablero
 - A cada equipo se le hará varias preguntas de contenido súper divertido sobre gustos y comportamientos de niños y padres
 

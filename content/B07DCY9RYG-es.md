@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El juego de trenes de aventuras para bebés incluye la plataforma con rieles y un armario, un tren con vagones y una figura de bebé de oso
 - Las dimensiones son 20 x 6 x 13 cm (w x h x d)
+- El juego de trenes de aventuras para bebés incluye la plataforma con rieles y un armario, un tren con vagones y una figura de bebé de oso
 - Es apto para mayores de 3 años
 - Las figuras están pintadas a mano y los vestidos están hechos a mano
 - Conjunto de figuras de animales con brazos y piernas móviles, edificios y casas detallados, muebles y accesorios

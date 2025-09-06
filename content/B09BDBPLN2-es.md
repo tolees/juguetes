@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los niños pueden crear aventuras de Jurassic World con esta figura de Tiranosaurio Rex que cuenta con una increíble capacidad de destrozar
+- Mueve la cola de lado a lado para ver cómo destroza con la cabeza. Mueve la cola hacia arriba y hacia abajo para cambiar la posición del dinosaurio
 - Para niños de preescolar de 3 a 8 años
 - Desliza el botón para cambiar su expresión de tranquilo a enfadado
 - Presiona el interruptor de la cola para que empiece a devorar
-- Mueve la cola de lado a lado para ver cómo destroza con la cabeza. Mueve la cola hacia arriba y hacia abajo para cambiar la posición del dinosaurio
+- Los niños pueden crear aventuras de Jurassic World con esta figura de Tiranosaurio Rex que cuenta con una increíble capacidad de destrozar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BDBPLN2{{</world>}}

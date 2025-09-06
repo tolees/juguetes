@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- OPCIÓN DE JUEGO AVANZADO: El juego de mesa de estrategia Hundir la Flota viene con una función de Ataque Múltiple, que permite que los jugadores avanzados lancen ataques múltiples
-- CAZA, HUNDE, GANA: En este juego de estrategia tienes la misión de buscar y destruir: anuncia tu ataque y dispara. Hunde todos los barcos de tu adversario para ganar.
 - INCLUYE 2 ESTUCHES DE BATALLA PORTÁTILES: El juego de mesa es fácil de llevar. Todas las naves y clavijas se guardan en los estuches
 - JUEGO DE MESA CLÁSICO Hundir la Flota: Este clásico juego de combate naval es un divertido juego para niños y niñas a partir de 7 años
+- OPCIÓN DE JUEGO AVANZADO: El juego de mesa de estrategia Hundir la Flota viene con una función de Ataque Múltiple, que permite que los jugadores avanzados lancen ataques múltiples
+- CAZA, HUNDE, GANA: En este juego de estrategia tienes la misión de buscar y destruir: anuncia tu ataque y dispara. Hunde todos los barcos de tu adversario para ganar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QGW1M3S{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡El conjunto de juego Partilandia de unicornios, de Polly Pocket, está lleno de diversión festiva! Todo el mundo está invitado a la celebración del 35 aniversario de Polly, con 2 muñequitas y 25 accesorios, entre los que se incluyen varias mascotas.
-- Intenta no aguar la fiesta, ya que los paquetes de arcoíris que contienen los accesorios sorpresa se pueden volver a colocar en el unicornio para que nunca se acabe la diversión.
-- Las muñecas pueden turnarse en el columpio, que se mueve hacia adelante y hacia atrás de verdad, o montarse en el carrusel con temática de unicornios. También puedes darte un chapuzón junto a la cascada, que se abre y hace las veces de espacio de almacenaje.
 - Abre el adorable exterior de la piñata con forma de unicornio y anima la fiesta con accesorios como globos, gorros de fiesta, una piñata pequeña que se balancea y una tarta para compartir entre amigos.
+- Las muñecas pueden turnarse en el columpio, que se mueve hacia adelante y hacia atrás de verdad, o montarse en el carrusel con temática de unicornios. También puedes darte un chapuzón junto a la cascada, que se abre y hace las veces de espacio de almacenaje.
+- Intenta no aguar la fiesta, ya que los paquetes de arcoíris que contienen los accesorios sorpresa se pueden volver a colocar en el unicornio para que nunca se acabe la diversión.
 - Decora el globo aerostático con accesorios de “gemas” festivas y abre la puerta para descubrir una zona adicional de juego y almacenaje.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

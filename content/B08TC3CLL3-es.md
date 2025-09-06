@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Para pasar un momento con amigos o familia
 - Marca: Clementoni
 - Desarrolla habilidades de observación, lógica y destreza
-- Para pasar un momento con amigos o familia
 - 1500 piezas para poder crear láminas de colores vibrantes y diseños increíbles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

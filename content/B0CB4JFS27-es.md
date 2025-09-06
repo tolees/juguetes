@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ¡Jujutsu Kaisen debuta en consolas!
-- ¡Peleas y acción en 3D!
 - ¿Qué estilo va contigo?
+- ¡Peleas y acción en 3D!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4JFS27{{</world>}}

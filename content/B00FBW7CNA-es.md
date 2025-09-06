@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tienen el tamaño ideal para las manitas de los más pequeños.
 - Pompones suaves.
 - Sonidos de sonajero.
 - Ayuda a desarrollar los sentidos y la motricidad gruesa del niño.
+- Tienen el tamaño ideal para las manitas de los más pequeños.
 - Cuentas de colores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

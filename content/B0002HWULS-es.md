@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GraviTrax es un juego de construcción STEM con el que podrás dar rienda suelta a tu creatividad construyendo un fantástico mundo de pistas para canicas
 - Coloca la expansión en los puntos más estratégicos de tu pista y cambia el destino del recorrido añadiendo movimiento y velocidad
-- ¡Prueba la nueva expansión para enriquecer tu pista de canicas: supera tus límites y fija otros nuevos!
-- Contiene: Manual de instrucciones, 1 Splitter. Compatible con el Starter-Set GraviTrax. Realizado en Europa con materiales de alta calidad.
 - El Splitter divide el recorrido de la canica, la rotación de este accesorio le permitirá a la canica continuar su recorrido al mismo nivel o descender a un nivel inferior
+- ¡Prueba la nueva expansión para enriquecer tu pista de canicas: supera tus límites y fija otros nuevos!
+- GraviTrax es un juego de construcción STEM con el que podrás dar rienda suelta a tu creatividad construyendo un fantástico mundo de pistas para canicas
+- Contiene: Manual de instrucciones, 1 Splitter. Compatible con el Starter-Set GraviTrax. Realizado en Europa con materiales de alta calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0002HWULS{{</world>}}

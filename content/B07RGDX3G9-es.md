@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las bomba sumergible eléctrica se pueden conectar a mangueras de diferentes diámetros (13/15/19/25/32 mm). El cable de alimentación es de 10 metros de largo. Muy cómodo de usar.
 - El interruptor de flotador continuo puede iniciarse o detenerse automáticamente dependiendo del nivel de agua.
-- La bomba de sumergible tiene una potencia de 750 W, un caudal máximo de 14,000 L / H, una profundidad máxima de 7m, máxima altura de extracción 7.5m
 - Cuando el motor se sobrecalienta, el modo de autoprotección se activa y la alimentación se apaga automáticamente.
+- La bomba de sumergible tiene una potencia de 750 W, un caudal máximo de 14,000 L / H, una profundidad máxima de 7m, máxima altura de extracción 7.5m
 - La bomba de aguas sucias puede recoger objetos extraños con un diámetro de hasta 25 mm.
+- Las bomba sumergible eléctrica se pueden conectar a mangueras de diferentes diámetros (13/15/19/25/32 mm). El cable de alimentación es de 10 metros de largo. Muy cómodo de usar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07RGDX3G9{{</world>}}

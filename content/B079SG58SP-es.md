@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este cole está equipado con la mesa de la profe, 2 pupitres, pizarra, esqueleto de un cuerpo Pinypon y pequeños accesorios para dar clases de ciencias, música y arte
-- Divertido cole de Pinypon con una clase, un laboratorio de ciencias y una zona de recreo con fuente de agua
 - Edad recomendada: a partir de 4 años
+- Divertido cole de Pinypon con una clase, un laboratorio de ciencias y una zona de recreo con fuente de agua
+- Este cole está equipado con la mesa de la profe, 2 pupitres, pizarra, esqueleto de un cuerpo Pinypon y pequeños accesorios para dar clases de ciencias, música y arte
 - En lado exterior del cole tiene una cancha de baloncesto y un columpio
 - Incluye 3 figuritas Pinypon: la profesora (mide 7 cm) y sus 2 alumnos (miden 4,3 cm)
 

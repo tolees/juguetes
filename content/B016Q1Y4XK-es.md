@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Incluye un lanzapedorretas y una baraja de cartas pedorras.
+- Por turnos, los jugadores juegan las cartas pedorras y aprietan el lanzapedorretas tantas veces como la carta indique.
+- Las cartas especiales, como Pierde el turno y Cambio de sentido, le dan más emoción al juego.
 - ¡Consigue ser el último jugador en tirarse una pedorreta y gana la partida!
 - Si el lanzapedorretas se tira un pedo cuando lo estás apretando... ¡estás eliminado!
-- Por turnos, los jugadores juegan las cartas pedorras y aprietan el lanzapedorretas tantas veces como la carta indique.
-- Incluye un lanzapedorretas y una baraja de cartas pedorras.
-- Las cartas especiales, como Pierde el turno y Cambio de sentido, le dan más emoción al juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B016Q1Y4XK{{</world>}}

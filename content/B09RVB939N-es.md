@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CAJA Y ACCESORIO SORPRESA: La Casa del Arbol de Hadigata de La Casa de Muñecas de Gabby incluye una caja sorpresa, igual que en el programa. Abre la caja para revelar un accesorio misterioso y vivir más aventuras junto a tu nueva mejor amiga y su gatitos en la casa muñecas Gabby
-- LUCES Y HABITACIÓN SECRETA: Inspirado en la Casa del Arbol de Hadigata de la serie, este conjunto de juego cuenta con luces (pilas incluidas) y una rueda que puedes girar para activar las luces y revelar una habitación secreta de Gabby Casa de Muñecas
-- FIGURAS, ACCESORIOS Y MUEBLES: Crea fiestas del té con Hadigata, una figura especial de Gabby Girl y accesorios con temática de hadas, como una silla giratoria rosa, un conjunto de té y un topiario con forma de gatos, entre otros. La Casa del Arbol de Hadigata cuenta con una tirolina que se puede enganchar en la parte exterior de la Casa de Muñecas de Gabby (se vende por separado) para ir de un lado a otro
-- INCLUYE: 1 conjunto de juego de Casa del Arbol de Hadigata de La Casa de Muñecas Gabby, 2 figuras, 3 muebles, 1 caja sorpresa, 5 accesorios, 3 pilas LR44, 1 guía de instrucciones
-- DESBLOQUEA UN PREMIO ESPECIAL: La Casa del Arbol de Hadigata de Gabbys Casa de Muñecas incluye un código QR dentro de la caja sorpresa. Escanea el código para desbloquear un premio exclusivo en la aplicación gratuita "Gabbys Dollhouse" (disponible en iOS y Android)
 - LA CASA DE MUÑECAS DE GABBY: ¡Construye tu propio mundo de casa de muñecas junto con Gabby y sus gatos Llévate a casa a tus personajes favoritos de Gabby’s Dollhouse con la Casa del Arbol de Hadigata y recrea las escenas de la famosa serie de TV de la Casa de Muñecas Gabby
+- DESBLOQUEA UN PREMIO ESPECIAL: La Casa del Arbol de Hadigata de Gabbys Casa de Muñecas incluye un código QR dentro de la caja sorpresa. Escanea el código para desbloquear un premio exclusivo en la aplicación gratuita "Gabbys Dollhouse" (disponible en iOS y Android)
+- INCLUYE: 1 conjunto de juego de Casa del Arbol de Hadigata de La Casa de Muñecas Gabby, 2 figuras, 3 muebles, 1 caja sorpresa, 5 accesorios, 3 pilas LR44, 1 guía de instrucciones
+- CAJA Y ACCESORIO SORPRESA: La Casa del Arbol de Hadigata de La Casa de Muñecas de Gabby incluye una caja sorpresa, igual que en el programa. Abre la caja para revelar un accesorio misterioso y vivir más aventuras junto a tu nueva mejor amiga y su gatitos en la casa muñecas Gabby
+- FIGURAS, ACCESORIOS Y MUEBLES: Crea fiestas del té con Hadigata, una figura especial de Gabby Girl y accesorios con temática de hadas, como una silla giratoria rosa, un conjunto de té y un topiario con forma de gatos, entre otros. La Casa del Arbol de Hadigata cuenta con una tirolina que se puede enganchar en la parte exterior de la Casa de Muñecas de Gabby (se vende por separado) para ir de un lado a otro
+- LUCES Y HABITACIÓN SECRETA: Inspirado en la Casa del Arbol de Hadigata de la serie, este conjunto de juego cuenta con luces (pilas incluidas) y una rueda que puedes girar para activar las luces y revelar una habitación secreta de Gabby Casa de Muñecas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RVB939N{{</world>}}

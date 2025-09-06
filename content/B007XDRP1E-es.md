@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de estrategia
 - Duración aproximada de la partida 180 min
-- Juego de Ananda Gupta y Jason Matthews
+- Juego de estrategia
 - Juego de Ananda Gupta y Jason Matthews
 - Dos jugadores
-- Juego de estrategia
 - Duración 180 min
 - Para mayores de 14 años
+- Juego de estrategia
+- Juego de Ananda Gupta y Jason Matthews
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B007XDRP1E{{</world>}}

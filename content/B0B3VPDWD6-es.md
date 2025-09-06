@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Comunícate con tu equipo gracias al conector de audio de 3.5 mm y ajusta el volumen sobre la marcha con los controles de sonido de la cruceta
 - Comparte fácilmente tus imágenes y vídeos capturados con el botón al efecto
 - Usa la aplicación gratuita PDP Control Hub para reasignar botones, reconfigurar gatillos, ajustar las zonas muertas, etc
-- Comunícate con tu equipo gracias al conector de audio de 3.5 mm y ajusta el volumen sobre la marcha con los controles de sonido de la cruceta
 - Con licencia oficial de Xbox
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

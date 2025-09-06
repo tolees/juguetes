@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene: Manual de instrucciones (D, F, I, EN, NL, E), 1 módulo de acción Tiptube, 6 rieles de plástico (1 largo, 2 medianos y 3 cortos)
 - Descubre las expansiones, los accesorios y los Starter-Sets para aumentar la diversión. Recomendado para niños y niñas a partir de 8 años
+- Contiene: Manual de instrucciones (D, F, I, EN, NL, E), 1 módulo de acción Tiptube, 6 rieles de plástico (1 largo, 2 medianos y 3 cortos)
 - GraviTrax es un juego educativo, ya que permite a los niños aprender conceptos relacionados con la gravedad, la cinética y el magnetismo mientras se divierten construyendo sus propias pistas y circuitos
 - Con el Tiptube acumulas primero tus canicas para luego liberarlas todas juntas a la pista; el GraviTrax Tiptube solo se puede utilizar junto con el GraviTrax Starter-Set
 - Juega con la pista de canicas del futuro y personaliza tu circuito con el accesorio GraviTrax Tiptube para hacer tu pista aún más rápida y diveretida

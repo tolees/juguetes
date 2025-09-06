@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un universo de juguetes ninja para niños y niñas: los sets LEGO NINJAGO contienen mecas, vehículos de juguete y templos, y transportan a los peques a un universo de fantasía lleno de aventuras con sus héroes ninja
-- Aventuras ninja aún más fascinante: descubre los demás juguetes de acción NINJAGO (sets a la venta por separado) y organiza carreras entre ellos
-- Regalo para fiestas infantiles: el juguete ninja ofrece una experiencia de construcción y juego creativa, y es muy divertido como regalo de cumpleaños o premio inesperado para niños y niñas de 6 años en adelante
 - Un dragón de juguete: los niños y las niñas de 6 años o más podrán interpretar las trepidantes batallas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones con el dragón para construir del set Ataque Rising Dragon de Kai
-- Emocionante juguete de fantasía: los peques pueden colocar a Kai Rising Dragon en el lomo de la figura de acción del dragón y darle un golpe a la cola dorada para lanzarlos a ambos hacia delante
+- Un universo de juguetes ninja para niños y niñas: los sets LEGO NINJAGO contienen mecas, vehículos de juguete y templos, y transportan a los peques a un universo de fantasía lleno de aventuras con sus héroes ninja
 - 2 personajes LEGO NINJAGO: el juego ninja incluye una minifigura de Kai armado con una catana de juguete y otra del malvado guardián Máscara de Lobo con una ballesta
+- Emocionante juguete de fantasía: los peques pueden colocar a Kai Rising Dragon en el lomo de la figura de acción del dragón y darle un golpe a la cola dorada para lanzarlos a ambos hacia delante
 - Elemento de poder dragón: este juguete LEGO contiene un elemento de poder dragón azul que el dragón de juguete sostiene en la boca
+- Regalo para fiestas infantiles: el juguete ninja ofrece una experiencia de construcción y juego creativa, y es muy divertido como regalo de cumpleaños o premio inesperado para niños y niñas de 6 años en adelante
+- Aventuras ninja aún más fascinante: descubre los demás juguetes de acción NINJAGO (sets a la venta por separado) y organiza carreras entre ellos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFW25F69{{</world>}}
