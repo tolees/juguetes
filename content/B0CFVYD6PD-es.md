@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aventuras trepidantes: los niños y las niñas de 6 años o más podrán recrear las batallas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones con el dragón planeador del juguete Ataque Rising Dragon de Nya
+- Juguete de acción ninja: los peques pueden colocar a Nya Rising Dragon en el lomo del dragón azul de juguete y darle un golpe a la cola dorada para lanzar a ambos hacia delante
+- Regalo ninja: este set LEGO NINJAGO proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo para niños y niñas de 6 años en adelante que merezcan un premio inesperado
 - 2 minifiguras LEGO NINJAGO: este juego ninja incluye una minifigura de Nya armada con una mini catana y otra de un guerrero con garras Máscara de Lobo que los niños pueden enfrentar en emocionantes batallas
+- Elemento de poder dragón: el juguete de fantasía dragón azul tiene un elemento de poder dragón naranja en la boca
 - Un universo de juguetes ninja para niños y niñas: los sets LEGO NINJAGO contienen mecas, vehículos y templos, y transportan a los peques a un universo de fantasía lleno de aventuras con sus héroes ninja
 - Aventuras ninja aún más trepidantes: descubre los demás juguetes LEGO NINJAGO (sets a la venta por separado), revive las historias con juguetes ninja y organiza carreras entre dragones
-- Juguete de acción ninja: los peques pueden colocar a Nya Rising Dragon en el lomo del dragón azul de juguete y darle un golpe a la cola dorada para lanzar a ambos hacia delante
-- Aventuras trepidantes: los niños y las niñas de 6 años o más podrán recrear las batallas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones con el dragón planeador del juguete Ataque Rising Dragon de Nya
-- Elemento de poder dragón: el juguete de fantasía dragón azul tiene un elemento de poder dragón naranja en la boca
-- Regalo ninja: este set LEGO NINJAGO proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo para niños y niñas de 6 años en adelante que merezcan un premio inesperado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVYD6PD{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de los 10 años
-- Idioma principal: español
-- Duración: 15 minutos
 - De 2 a 8 jugadores
+- Duración: 15 minutos
+- A partir de los 10 años
 - Número de modelo: BGCOSEIM
+- Idioma principal: español
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N80CFXE{{</world>}}

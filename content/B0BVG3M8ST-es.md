@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La historia del continente flotante
 - Una combinación de RPG y juego de cartas
+- La historia del continente flotante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVG3M8ST{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nancy lleva el pelo largo con mechas en tonos azules con un semirrecogido en moño alto
-- Incluye accesorios que brillan en la oscuridad para crear peinados inspirados en el horóscopo
 - Es la muñeca óptima para desarrollar la creatividad y el juego imaginativo de las pequeñas mientras crean peinados óptimos
+- Incluye accesorios que brillan en la oscuridad para crear peinados inspirados en el horóscopo
 - Nancy mide 42cm de altura, lo que la convierte en una compañera óptima para jugar y peinar
 - Nancy lleva un vestido rosa corto estampado inspirado en los signos del zodiaco que brillan en la oscuridad
 

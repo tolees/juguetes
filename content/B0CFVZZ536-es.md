@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un universo de juguetes ninja: los sets LEGO NINJAGO contienen mecas, vehículos y templos, y transportan a los niños a un universo de fantasía lleno de aventuras con sus héroes ninja
+- 5 minifiguras LEGO NINJAGO: tu peque puede representar batallas en las que los guerreros ninja Lloyd, Sora y Nya, armados con mini catanas, medirán sus fuerzas con Lord Ras, que tiene un martillo, y Cinder, que lleva una espada
 - Juguetes infantiles de héroes: los niños y las niñas de 8 años o más podrán interpretar trepidantes escenas con el set LEGO Dragón Maestro Egalt de juguete
 - Valiosos tesoros ninja: este juguete basado en el juego de roles incluye un árbol para construir y, en su interior, un martillo mágico y el Gong de la Destrucción que se disputan estos personajes de la serie NINJAGO
-- 5 minifiguras LEGO NINJAGO: tu peque puede representar batallas en las que los guerreros ninja Lloyd, Sora y Nya, armados con mini catanas, medirán sus fuerzas con Lord Ras, que tiene un martillo, y Cinder, que lleva una espada
-- Una práctica ayuda: descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde constructores y constructoras podrán acercar y girar modelos en 3D, controlar su avance y guardar sets a medida que desarrollan más habilidades
 - Regalo divertido: este set de juego de batalla proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo de cumpleaños para niños y niñas de 8 años o más que disfrutan interpretando historias de acción
 - Dragón de juguete articulado: recrea las escenas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones con una figura de Dragón Maestro que cuenta con cabeza, cola, patas y alas de plástico flexible articuladas
+- Una práctica ayuda: descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde constructores y constructoras podrán acercar y girar modelos en 3D, controlar su avance y guardar sets a medida que desarrollan más habilidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVZZ536{{</world>}}

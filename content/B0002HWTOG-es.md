@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CALIDAD Y SEGURIDAD: Fabricadas en Europa con materiales de alta calidad, las pistas de canicas GraviTrax están hechas para durar y garantizan muchísimas horas de juego
-- JUEGO DE MESA: GraviTrax "The Game Course" combina la famosa pista de canicas del futuro con un juego de lógica; resolviendo los enigmas de las cartas-desafío tomará forma una fantástica pista de canicas compatible con todas las pistas GraviTrax
 - JUEGA CON LA FÍSICA: Los niños aprenderán sobre leyes físicas como la gravedad, el magnetismo o la fuerza cinética; Gravitrax desarrolla la creatividad y ayuda a comprender principios científicos básicos
 - DESCUBRE EL MUNDO GRAVITRAX: Crea una cantidad ilimitada de recorridos diferentes combinando las piezas complementarias y los accesorios especiales de los sets Gravitrax; el regalo ideal para niños y adultos, útil para desarrollar la creatividad y mejorar los conocimientos científicos
+- CALIDAD Y SEGURIDAD: Fabricadas en Europa con materiales de alta calidad, las pistas de canicas GraviTrax están hechas para durar y garantizan muchísimas horas de juego
+- JUEGO DE MESA: GraviTrax "The Game Course" combina la famosa pista de canicas del futuro con un juego de lógica; resolviendo los enigmas de las cartas-desafío tomará forma una fantástica pista de canicas compatible con todas las pistas GraviTrax
 - JUEGOS INTERACTIVOS: GraviTrax es un juego de construcción STEM con el que podrás liberar tu creatividad construyendo un mundo fantástico de recorridos; ideal como regalo para niños a partir de 8 años y para entusiastas de la construcción de todas las edades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

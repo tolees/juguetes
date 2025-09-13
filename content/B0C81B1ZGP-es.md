@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es muy optimista, toca la guitarra y con su poder mágico de Catrina puede hacer que llueva.
-- Incluye un pasaporte con código QR para descargar minijuegos en la app, además de pegatinas.
-- Camila es una Trottie de 25 cm a quien le encanta Mexico.
-- Tiene ojos emoji mecánicos con 3 expresiones diferentes.
 - Viste un traje tradicional de Catrina muy llamativo, además de un antifaz de calavera mágico y una diadema de flores multicolor.
+- Incluye un pasaporte con código QR para descargar minijuegos en la app, además de pegatinas.
+- Tiene ojos emoji mecánicos con 3 expresiones diferentes.
+- Camila es una Trottie de 25 cm a quien le encanta Mexico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C81B1ZGP{{</world>}}

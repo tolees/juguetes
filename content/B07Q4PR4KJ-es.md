@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de gran cálidad
 - Un diseño imponente con un acabado brillante
+- Producto de gran cálidad
 - ¡Horas de diversión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

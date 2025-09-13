@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edad: 3+ / Tiempo medio: 10 minutos / Número de jugadores: 2-4
-- Juego de mesa educativo: Happy Chickens de Goula es ideal para niños de 3 años: retirando los palos del gallinero, tendrán que intentar conseguir tantos pollitos como puedan.
-- Happy Chickens de Goula es uno de los primeros juegos educativos de tu hijo, para introducirse en los conceptos básicos de juego en grupo y resolución de problemas.
-- Con piezas de madera de alta calidad, el juego Goula asegura durabilidad y seguridad. Este juego de mesa es ideal para manos pequeñas, siendo uno de los mejores juegos para la psicomotricidad fina.
 - Happy Chickens de Goula incluye: 12 palos de madera, 5 pollitos de madera, 1 gallinero de cartón y 18 fichas redondas que aportan más diversión al juego de mesa.
+- Happy Chickens de Goula es uno de los primeros juegos educativos de tu hijo, para introducirse en los conceptos básicos de juego en grupo y resolución de problemas.
+- Juego de mesa educativo: Happy Chickens de Goula es ideal para niños de 3 años: retirando los palos del gallinero, tendrán que intentar conseguir tantos pollitos como puedan.
+- Con piezas de madera de alta calidad, el juego Goula asegura durabilidad y seguridad. Este juego de mesa es ideal para manos pequeñas, siendo uno de los mejores juegos para la psicomotricidad fina.
+- Edad: 3+ / Tiempo medio: 10 minutos / Número de jugadores: 2-4
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B084QJL8T5{{</world>}}

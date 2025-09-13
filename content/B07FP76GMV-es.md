@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco
-- Número de piezas: 235
 - Este juguete de construcción incluye también 2 cañones y 4 misiles
 - Action Battle: Ataque al Generador de Hoth
+- Número de piezas: 235
+- El juguete para construir cuenta con un cañón con un trípode y un generador de energía para construir, ambos sobre una base con un blanco
 - Edad recomendada por el fabricante: 7+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

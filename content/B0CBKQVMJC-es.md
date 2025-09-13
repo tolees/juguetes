@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - LANZADOR DE UN SOLO LANZAMIENTO CON PALANCA DE RECARGA: ¡Estarás preparado para lanzar en 3 pasos fáciles! Introduce 1 dardo en el cañón, tira de la palanca de recarga y luego aprieta el gatillo para lanzar el dardo
-- EXCELENTE REGALO PARA LOS FANS DE MARVEL Y DE NERF: Los lanzadores Nerf son regalos perfectos para niños y niñas a partir de 8 años para que se diviertan jugando juegos activos, y el lanzador Nerf Marvel Captain America es ideal para expandir las colecciones de Marvel y del Capitán América
 - LANZADOR NERF MARVEL CAPTAIN AMERICA: Lánzate a heroicas aventuras con este llamativo lanzador que cuenta con diseño inspirado en el Capitán América en ambos lados
 - INCLUYE 10 DARDOS NERF: Este lanzador estilo Capitán América viene con 10 dardos Nerf Elite para que tengas suficientes dardos para cargar el lanzador por completo y también para recargarlo
+- EXCELENTE REGALO PARA LOS FANS DE MARVEL Y DE NERF: Los lanzadores Nerf son regalos perfectos para niños y niñas a partir de 8 años para que se diviertan jugando juegos activos, y el lanzador Nerf Marvel Captain America es ideal para expandir las colecciones de Marvel y del Capitán América
 - FUNDA Y PORTADARDOS: Mantén el dardo a la mano con la funda con clip, la cual cuenta con un portadardos de 4 dardos para que recargues con rapidez en la batalla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

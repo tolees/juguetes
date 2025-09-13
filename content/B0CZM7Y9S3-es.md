@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De pie a aproximadamente 9.8 pulgadas de alto, Gintoki se ve en su popular postura
 - Asegúrate de coleccionar esto y mejorar tu exhibición con otras figuras de Ichibansho
 - Las figuras Masterlise son la principal línea de estatuas de Ichibansho con un tamaño más grande en comparación con otras figuras y detalles de calidad; esta línea es realmente una obra maestra para que los fans la coleccionen
+- De pie a aproximadamente 9.8 pulgadas de alto, Gintoki se ve en su popular postura
 - La caja del producto tendrá una etiqueta de advertencia Bandai Namco, que es prueba de que estás comprando un producto oficial de Bandai Spirits
 - Bandai Spirits Ichibansho se enorgullece de anunciar su nuevo lanzamiento Gintoki Sakata Gintama 2
 

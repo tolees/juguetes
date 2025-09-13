@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El contacto del niño con el aire libre y la naturaleza le permite experimentar con los cinco sentidos, promoviendo una relación saludable con el mundo exterior y favoreciendo su desarrollo físico y emocional.
-- La barra de seguridad ofrece protección adicional para los más pequeños, asegurando que estén bien sujetos mientras se balancean. A medida que crecen, se puede quitar para mayor libertad de movimiento.
 - Diseñado para los más pequeños, el columpio incluye una barra de seguridad y un respaldo alto extraíbles, proporcionando un entorno seguro y cómodo para niños desde los 18 meses hasta los 3 años.
+- La barra de seguridad ofrece protección adicional para los más pequeños, asegurando que estén bien sujetos mientras se balancean. A medida que crecen, se puede quitar para mayor libertad de movimiento.
+- El contacto del niño con el aire libre y la naturaleza le permite experimentar con los cinco sentidos, promoviendo una relación saludable con el mundo exterior y favoreciendo su desarrollo físico y emocional.
 - El respaldo alto proporciona soporte adicional para los niños más pequeños, asegurando una postura cómoda y segura. Se puede retirar cuando el niño adquiere mayor estabilidad y confianza.
 - Este columpio es ideal para uso al aire libre, ya sea en el jardín, el patio o el parque. Fabricado con materiales duraderos y resistentes, está diseñado para soportar las condiciones del clima y ofrecer horas de diversión y aprendizaje.
 

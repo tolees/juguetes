@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cada huevo es especial y trae mascotas exclusivas.
 - Diferentes modelos para coleccionar.
 - Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Ilusiónate con cada huevo y completa la colección.
-- Cada huevo es especial y trae mascotas exclusivas.
 - Código canjeable en Roblox.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

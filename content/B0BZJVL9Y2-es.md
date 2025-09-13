@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un juego de interacción directa a 2 jugadores con opciones de jugarse también a 3 y a 4
 - Un título familiar de colocación de losetas al más puro estilo Carcassonne o Cacao pero con mayor interacción
 - Terra Mare cuenta con 3 niveles de profundidad que te permiten modificar la dificultad de tus partidas
-- Un juego de interacción directa a 2 jugadores con opciones de jugarse también a 3 y a 4
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZJVL9Y2{{</world>}}

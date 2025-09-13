@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Control de volumen (dos posiciones). Desconexión automática para ahorrar pilas.
-- Un volante luminoso para pequeños conductores. Diferentes elementos para manipular: llave de contacto, claxón, intermitentes.
 - Botones luminosos que parpadean al ritmo de la música y los sonidos. 3 canciones y 10 melodías.
+- Un volante luminoso para pequeños conductores. Diferentes elementos para manipular: llave de contacto, claxón, intermitentes.
 - Diferentes texturas en el volante para desarrollar el sentido del tacto.
+- Control de volumen (dos posiciones). Desconexión automática para ahorrar pilas.
 - Se puede sujetar al carrito o la silla mediante dos tiras de velcro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

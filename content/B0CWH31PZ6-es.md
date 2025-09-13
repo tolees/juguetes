@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un regalo para amantes de los coches: además de proporcionar una divertida experiencia de construcción y juego, este set es una gran idea de regalo LEGO para niños y niñas a partir de 10 años o coleccionistas adultos de maquetas de coches
 - Maqueta de coche de exposición: después de que los niños y los fans del vehículo se hayan divertido interpretando historias con el Lamborghini de juguete, pueden exponerlo como decoración del dormitorio o estantería
-- Amplía las aventuras automovilísticas: descubre muchos más juegos LEGO Speed Champions de coches con infinidad de detalles de gran realismo (a la venta por separado)
 - 1 minifigura LEGO: el juego incluye una minifigura de una piloto con un mono de competición de Gran Turismo y un casco; los peques pueden colocarla en el habitáculo para imaginar que compiten en carreras
 - Lamborghini de juguete para peques: Superdeportivo Lamborghini Lambo V12 Vision GT LEGO Speed Champions, un coche de juguete para niños y niñas a partir de 10 años, fans de los videojuegos y amantes de la marca de supercoches
-- Fieles detalles de diseño del Lamborghini: el coche de juguete LEGO cuenta con habitáculo, alerón trasero dividido, detalles hexagonales en las llantas de las ruedas, tubo de escape doble, logotipos de Gran Turismo y luces traseras en forma de Y
+- Un regalo para amantes de los coches: además de proporcionar una divertida experiencia de construcción y juego, este set es una gran idea de regalo LEGO para niños y niñas a partir de 10 años o coleccionistas adultos de maquetas de coches
 - maquetas de coches emblemáticos para jugar y exponer: los kits de construcción LEGO Speed Champions de coches ofrecen a peques y fans del motor la oportunidad de construir fascinantes réplicas de algunos de los vehículos más famosos
+- Amplía las aventuras automovilísticas: descubre muchos más juegos LEGO Speed Champions de coches con infinidad de detalles de gran realismo (a la venta por separado)
+- Fieles detalles de diseño del Lamborghini: el coche de juguete LEGO cuenta con habitáculo, alerón trasero dividido, detalles hexagonales en las llantas de las ruedas, tubo de escape doble, logotipos de Gran Turismo y luces traseras en forma de Y
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWH31PZ6{{</world>}}

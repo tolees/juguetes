@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tiempos de carga más rápidos
 - Jugabilidad fluida a 60 fps
 - Diversos detalles adicional del universo Dragon Ball
-- Tiempos de carga más rápidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHLH9BSC{{</world>}}

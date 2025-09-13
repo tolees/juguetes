@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elegante línea de puzles hecha en Italia
 - Marca: Clementoni
 - Imágenes únicas, calidad de impresión y la precisión del troquelado
+- Elegante línea de puzles hecha en Italia
 - Muestra uno de los canales de Ámsterdam de noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Número de jugadores: 1 - 20
+- Duración aproximada de la partida: 20 min
 - Juego de percepción visual para toda la familia
 - Edad recomendada: 6 años y más
-- Duración aproximada de la partida: 20 min
-- Número de jugadores: 1 - 20
 - Juego adecuado para pasar el tiempo libre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Uníos para desenmarañar la línea temporal! Cooperad para colocar tantas cartas como resulte posible.
 - Averigua qué eventos se muestran en tus cartas y estima cuándo tuvieron lugar. Háblalo con tus compañeros de equipo: ¿colocarás tus cartas en la línea temporal o en la pila de descartes?
-- ¡Necesitaréis comunicación, táctica y coordinación para completar con éxito este desafío!
-- En tu turno, juega al menos una carta y revela su fecha.
 - Este juego puede jugarse de forma independiente o como expansión del juego base Timeline Twist.
+- En tu turno, juega al menos una carta y revela su fecha.
+- ¡Uníos para desenmarañar la línea temporal! Cooperad para colocar tantas cartas como resulte posible.
+- ¡Necesitaréis comunicación, táctica y coordinación para completar con éxito este desafío!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6XVYXPL{{</world>}}

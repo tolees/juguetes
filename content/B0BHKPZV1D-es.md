@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revive la historia o cámbiala para siempre, liderando los ejércitos de romanos o cartagineses
 - Los jugadores recrean épicas batallas de la antigüedad
+- Revive la historia o cámbiala para siempre, liderando los ejércitos de romanos o cartagineses
 - Buena introducción al mundo de los juegos de guerra
 - Para dos jugadores a partir de los 12 años de edad
 

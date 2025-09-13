@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Star Wars la colección RetroLas figuras de la colección Retro de Star Wars cuentan con diseño y detalles de las figuras originales de los años 70
 - Las figuras a escala de 9.5 cm de la colección Retro de Star Wars vienen en embalajes Kenner clásicos con apariencia de uso prolongado (se venden por separado; sujeto a disponibilidad)
+- Esta figura de Star Wars la colección Retro incluye 2 accesorios inspirados en la serie que hacen de la figura una incorporación fantástica a toda colección Star Wars
 - Fans y coleccionistas pueden imaginar escenas de la galaxia de Star Wars con esta figura premium Boba Fett (Morak), basada en la serie Star Wars: The Mandalorian
 - Tanto los fans como los coleccionistas de Star Wars pueden exhibir esta figura con cinco puntos de articulación en su colección de vehículos y figuras
-- Esta figura de Star Wars la colección Retro incluye 2 accesorios inspirados en la serie que hacen de la figura una incorporación fantástica a toda colección Star Wars
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GYQYZP9{{</world>}}

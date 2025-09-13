@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una torre de entrada y un ascensor real
-- Para estimular el juego imaginativo de roles en niños
-- También hay un balcón mirador
 - El juego viene con un edificio de tiendas departamentales de dos pisos
+- También hay un balcón mirador
+- Para estimular el juego imaginativo de roles en niños
+- Una torre de entrada y un ascensor real
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0797YPK9M{{</world>}}

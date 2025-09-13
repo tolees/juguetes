@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tienda de varitas Ollivanders: la tienda de juguete cuenta con 2 paredes desplegables, estantes construibles para cajas de varitas (con una caja extraíble que contiene la de Harry Potter), una escalera de mano, 2 expositores y 26 varitas de juguete
+- Crea tu propio Callejón Diagon construido con ladrillos LEGO: las 2 tiendas de juguete pueden conectarse entre sí y con las demás tiendas de los sets LEGO Harry Potter ambientados en el Callejón Diagon, a la venta por separado
+- 2 tiendas del Callejón Diagon: este juguete de construcción, una divertida idea de regalo para fans de Harry Potter, combina fieles maquetas LEGO de las tiendas Ollivanders y Túnicas de Madame Malkin para llenar de magia los momentos de juego
 - 6 minifiguras de juguete LEGO Harry Potter coleccionables: Harry Potter, Garrick Ollivander, Madame Malkin, Padma Patil, un estudiante de magia y una bruja con un carretón de flores para crear historias mediante el juego de rol
+- Tienda de Madame Malkin, Túnicas para Todas las Ocasiones: incluye un área dedicada a la confección de las prendas, 2 maniquíes construibles y, además, graciosos accesorios, como diversos sombreros y túnicas
 - Una ayuda práctica: descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los constructores y las constructoras podrán acercar y girar versiones 3D de sus maquetas, seguir sus progresos y guardar sets LEGO
 - Divertido regalo para fans de Harry Potter: idóneo como regalo de cumpleaños, este juguete de construcción repleto de fantasía es un óptimo regalo para niñas, niños y fans de Harry Potter a partir de 8 años
-- 2 tiendas del Callejón Diagon: este juguete de construcción, una divertida idea de regalo para fans de Harry Potter, combina fieles maquetas LEGO de las tiendas Ollivanders y Túnicas de Madame Malkin para llenar de magia los momentos de juego
-- Tienda de varitas Ollivanders: la tienda de juguete cuenta con 2 paredes desplegables, estantes construibles para cajas de varitas (con una caja extraíble que contiene la de Harry Potter), una escalera de mano, 2 expositores y 26 varitas de juguete
-- Tienda de Madame Malkin, Túnicas para Todas las Ocasiones: incluye un área dedicada a la confección de las prendas, 2 maniquíes construibles y, además, graciosos accesorios, como diversos sombreros y túnicas
-- Crea tu propio Callejón Diagon construido con ladrillos LEGO: las 2 tiendas de juguete pueden conectarse entre sí y con las demás tiendas de los sets LEGO Harry Potter ambientados en el Callejón Diagon, a la venta por separado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWH2RJ3J{{</world>}}

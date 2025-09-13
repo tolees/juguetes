@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - El juguete contiene un muñeco bebé Nenuco de 35 centímetros con cuerpo blandito y un compañero de juegos ideal su cachorrito Petuco
 - Son muñecos articulados con los que los más peques podrán jugar a crear historias
 - Nenuco y su perrito Petuco son 2 bebés a los que tienes que cuidar, dándoles de comer y cambiándoles el pañal cuando hacen pipí
-- Cada uno tiene sus propios accesorios: Nenuco viste una bonita camiseta y su pañal, y tiene su propio chupete y biberón; Petuco también y además lleva una bonita bandana en el cuello
 - Este pack está indicado para niños y niñas a los que les gusten las muñecas a partir de 3 años de edad; indicado para fomentar el role play y los juegos de imitación
+- Cada uno tiene sus propios accesorios: Nenuco viste una bonita camiseta y su pañal, y tiene su propio chupete y biberón; Petuco también y además lleva una bonita bandana en el cuello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1QXNLXB{{</world>}}

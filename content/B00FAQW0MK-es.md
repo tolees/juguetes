@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Golpea la palanca para liberar los coches capturados.
-- Viene con un coche Color Shifters.
 - Se puede conectar a otras pistas Hot Wheels para ampliar las opciones de juego.
-- Presenta dos zonas de cambio de color: un tanque de agua y una piscina.
 - Baja a toda velocidad por la rampa desde lo alto de la torre, pero intenta esquivar el tiburón devorador.
+- Viene con un coche Color Shifters.
+- Presenta dos zonas de cambio de color: un tanque de agua y una piscina.
+- Golpea la palanca para liberar los coches capturados.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FAQW0MK{{</world>}}

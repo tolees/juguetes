@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 464 bloques y piezas que se combinan con todos los conjuntos de construcción de Pokémon de MEGA y que son compatibles con otras marcas principales
-- El conjunto se puede combinar con otros conjuntos de Constructor de aventuras vendidos por separado para crear un mundo Pokémon mayor
-- Figuras de Cubone, Charmander y Omanyte y un entorno de ruinas antiguas que podrás construir y conectar con otros entornos
 - Officially licensed by The PokémonInternational
+- 464 bloques y piezas que se combinan con todos los conjuntos de construcción de Pokémon de MEGA y que son compatibles con otras marcas principales
+- Figuras de Cubone, Charmander y Omanyte y un entorno de ruinas antiguas que podrás construir y conectar con otros entornos
+- El conjunto se puede combinar con otros conjuntos de Constructor de aventuras vendidos por separado para crear un mundo Pokémon mayor
 - Este juguete de construcción, ideal para niños a partir de 7 años, ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

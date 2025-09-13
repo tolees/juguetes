@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - El set de construcción LEGO Marvel Quinjet de los Vengadores incluye un avión de juguete para construir lleno de auténticos detalles y personajes icónicos de las películas Infinity Saga
 - Esta nave espacial coleccionable de Marvel cuenta con una cabina abatible, zona para pasajeros y una sección trasera, además de un tren de aterrizaje retráctil y alas ajustables para recrear épicas batallas
-- Esta divertida maqueta de Marvel para construir del avión de juguete de los Vengadores viene con un soporte para exponerla y 2 láminas de pegatinas para que los niños decoren al Quinjet con insignias de los Vengadores o de S.H.I.E.L.D.
-- Utilizando la divertida e intuitiva aplicación LEGO Builder para smartphones o tablets los pequeños superhéroes pueden tener un extra de diversión gracias a las herramientas de construcción digitales interactivas
 - Los peques abren la sección superior del avión de juguete y colocan a Viuda Negra, Thor, Iron Man y Capitán América en sus asientos mientras Loki se cuela por una entrada trasera, ¡después tendrán que ajustar la posición para despegar!
 - Este juguete de Marvel para construir es un gran regalo de cumpleaños o para cualquier ocasión para los fans, los niños y niñas a partie de 9 años amantes de los cómics, los Vengadores, las películas de la Infinity Saga y de los aviones de juguete
+- Esta divertida maqueta de Marvel para construir del avión de juguete de los Vengadores viene con un soporte para exponerla y 2 láminas de pegatinas para que los niños decoren al Quinjet con insignias de los Vengadores o de S.H.I.E.L.D.
+- Utilizando la divertida e intuitiva aplicación LEGO Builder para smartphones o tablets los pequeños superhéroes pueden tener un extra de diversión gracias a las herramientas de construcción digitales interactivas
 - Este juguete de construcción para niños pequeños incluye las 5 mini figuras LEGO Marvel de los superhéroes Viuda Negra, Thor con su martillo, Iron Man, Capitán América con su famoso escudo y Loki con su cetro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
