@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El capitán Bu no habla mucho
 - Ganador al premio "Mejor Juego Infantil" en 2023
+- Si queréis encontrarlo, tendréis que colaborar con el espíritu que habita en este lugar:
 - En una vieja mansión abandonada se oculta un fabuloso tesoro
 - ¡pero toca la pandereta que se las pela!
-- Si queréis encontrarlo, tendréis que colaborar con el espíritu que habita en este lugar:
-- El capitán Bu no habla mucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BLCXNBW3{{</world>}}

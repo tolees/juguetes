@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Hagámoslo realidad!
+- En agradecimiento, y para que no se diga que el césar es ingrato, los mejores de entre vosotros recibiréis más riquezas de las que podáis imaginar.
 - Romanos: Habéis sido elegidos para llevar a cabo una misión de imperial importancia.
 - Yo, el gran Cayo Julio César, os envío a expandir las fronteras de mi imperio. Dicen que todos los caminos llevan a Roma.
-- En agradecimiento, y para que no se diga que el césar es ingrato, los mejores de entre vosotros recibiréis más riquezas de las que podáis imaginar.
 - ¡Ave, yo!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

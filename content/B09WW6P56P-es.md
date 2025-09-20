@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La pirámide del faraón esconde misterios y secretos ancestrales que sólo un verdadero detective puede descubrir resolviendo los acertijos; Un juego con cartas y misterios que resolver para poder salir de la pirámide del faraón
 - Un entretenimiento y un viaje en la historia para disfrutar enigma tras enigma, desarrollando la lógica, el pensamiento matemático, la capacidad de observación y el lenguaje
-- A partir de 8 años, juego en castellano
 - Un juego para adultos y niños, para divertirse juntos y estimular el ingenio
+- A partir de 8 años, juego en castellano
 - Las cartas esconden pistas útiles para continuar la aventura y salir de la pirámide; El juego incluye una baraja de cartas con enigmas, un tablero de juego y objetos útiles para encontrar las pistas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 2 microfiguras de acción, Tri-Klops y Mekaneck, con detalles auténticos, 12 puntos de articulación, extensores de cuello para Mekaneck, y accesorios intercambiables de espada y maza
-- Conjunto para construir el icónico y heroico vehículo de batalla Battle Ram, con ruedas, un ariete, un lanzamisiles y una cabina de figuras
 - Bloques que se combinan con otros juguetes de construcción de Mega Construx y son compatibles con las principales marcas
+- Conjunto para construir el icónico y heroico vehículo de batalla Battle Ram, con ruedas, un ariete, un lanzamisiles y una cabina de figuras
+- Incluye 2 microfiguras de acción, Tri-Klops y Mekaneck, con detalles auténticos, 12 puntos de articulación, extensores de cuello para Mekaneck, y accesorios intercambiables de espada y maza
 - El Battle Ram se puede separar en 2 vehículos más: el Sky Sledge y un lanzador móvil
 - Ideal a partir de 8 años, este juguete de construcción estimula las habilidades de creatividad y razonamiento
 

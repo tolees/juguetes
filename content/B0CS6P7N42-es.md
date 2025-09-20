@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Demonios e inadaptados del creador de Dragon Ball y Dr. Slump
 - Vehículos que van más allá de tu imaginación.
+- Demonios e inadaptados del creador de Dragon Ball y Dr. Slump
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CS6P7N42{{</world>}}

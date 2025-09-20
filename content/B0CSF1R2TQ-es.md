@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- INCLUYE 3 ACCESORIOS: Equipa a Glaciar con la montura extraíble y la brida como en la serie, y usa el cepillo para mantener suave y reluciente la cola de color azul, blanco y rosa ¡mantén a tu unicornio siempre listo para la próxima aventura
 - PACK MUÑECA ARTICULADA LAYLA Y UNICORNIO GLACIAR: ¡Construye tu propio mundo de Academia Unicornio junto a Layla y su inseparable unicornio Glaciar Disfruta recreando las emocionantes escenas de la popular serie de tv y sumérgete en aventuras llenas de fantasía y diversión
 - MUÑECA LAYLA DE 11,5 CM Y UNICORNIO DE 13 CM: Con la ropa auténtica que lleva en la serie y 7 puntos de articulación, Layla cobra vida como nunca antes. Monta a Layla sobre Glaciar y cabalga hacia emocionantes aventuras. ¡El regalo perfecto para las pequeñas amantes de los unicornios para niñas
 - INCLUYE: 1 muñeca articulada Layla, 1 unicornio Glaciar, 1 montura extraíble, 1 brida extraíble, 1 cepillo para Glaciar
-- INCLUYE 3 ACCESORIOS: Equipa a Glaciar con la montura extraíble y la brida como en la serie, y usa el cepillo para mantener suave y reluciente la cola de color azul, blanco y rosa ¡mantén a tu unicornio siempre listo para la próxima aventura
 - REGALOS NIÑA 4 AÑOS +: Los juguetes de Unicorn Academy son una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 4 años disfrutarán creando aventuras mágicas con los personajes de Academia Unicornio
 - JUGUETES NIÑA 4 AÑOS +: El pack muñeca Layla + unicornio Glaciar está diseñado para niños y niñas a partir de 4 años. Fácil de manejar, e igualitos a tus personajes de Unicorn Academy este pack de figuras garantiza horas de diversión
 

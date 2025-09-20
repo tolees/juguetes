@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los Pokémon Mega Construx llevarán la acción a tu casa! Los Entrenadores Pokémon pueden reunir a sus personajes favoritos y empezar a entrenar los distintos ataques a medida que entran en combate con sus Pokémon! Para niños de 6 años en adelante
-- 12Y+
 - MEGA Construx Pokemon Coleccionistas Gyarados Figura cinemática de bloques de construcción, juguete +10 años (Mattel HGC24)
+- 12Y+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09CLPJHB1{{</world>}}

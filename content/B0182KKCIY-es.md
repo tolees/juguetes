@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: videojuego de acción y aventura
-- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
-- El juego cuenta con más de cien personajes jugables
-- Cada pareja de personajes tiene su propio ataque de equipo
 - Plataforma del juego: PlayStation 4
+- El juego cuenta con más de cien personajes jugables
+- Los jugadores a menudo tienen que resolver puzzles repartidos por el entorno del juego
+- Tipo de producto: videojuego de acción y aventura
+- Cada pareja de personajes tiene su propio ataque de equipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0182KKCIY{{</world>}}

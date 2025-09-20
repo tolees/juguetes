@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DETALLES Y ARTICULACIÓN PREMIUM: Los fans pueden exhibir en su colección esta figura completamente articulable (cabeza, brazos y piernas articulables) con diseño premium
-- ARMA UN ARTEFACTO ADICIONAL: Busca algunas figuras selectas Adventure Series para reunir todas las piezas necesarias y armar el Templo de la calavera
 - ACCESORIOS INSPIRADOS EN LA PELÍCULA: Esta figura coleccionable de Indiana Jones (Dial del destino) viene con una mochila removible, un bolso, un látigo enrollado y una linterna
+- DETALLES Y ARTICULACIÓN PREMIUM: Los fans pueden exhibir en su colección esta figura completamente articulable (cabeza, brazos y piernas articulables) con diseño premium
 - DISEÑO INSPIRADO EN LA FICCIÓN: Imagina emocionantes aventuras con este juguete premium de Indiana Jones (Dial del destino) inspirado en la película Indiana Jones y el dial del destino
+- ARMA UN ARTEFACTO ADICIONAL: Busca algunas figuras selectas Adventure Series para reunir todas las piezas necesarias y armar el Templo de la calavera
 - PERSONAJES ICÓNICOS: La línea de figuras de 15 cm Adventure Series incluye a icónicos personajes de las aventuras de Indiana Jones (Se venden por separado. Sujeto a disponibilidad.)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

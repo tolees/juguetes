@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- App LEGO Super Mario: descarga la app, donde encontrarás las instrucciones de construcción, inspiradores consejos y más contenidos
 - Set de Expansión: Dorrie y el Buque Naufragado: los niños podrán sumergirse en la búsqueda de un tesoro al universo de LEGO Super Mario con este Buque Naufragado de juguete de construcción
-- Juguete coleccionable de LEGO Super Mario para peques: consigue recompensas aleatorias del bloque interrogación y descubre cómo reacciona una figura interactiva cuando la mastica un Cheep Chomp
-- Regalo para gamers a partir de 7 años: este divertido set de 500 piezas es un regalo óptimo para niños y niñas; se necesita un pack inicial LEGO Super Mario (71360, 71387 o 71403) para jugar de manera interactiva
 - 4 figuras construidas con ladrillos de personajes Super Mario: los peques bucearán sobre Dorrie con LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para derrotar a un Cheep Cheep, un Cheep Chomp y un Blooper
 - Juego para divertirse en familia con aventuras interactivas: explora el Buque Naufragado con una figura interactiva, encuentra el bloque llave en la concha de la almeja girando la plataforma y abre el cofre del tesoro para conseguir la gema
+- Regalo para gamers a partir de 7 años: este divertido set de 500 piezas es un regalo óptimo para niños y niñas; se necesita un pack inicial LEGO Super Mario (71360, 71387 o 71403) para jugar de manera interactiva
+- Juguete coleccionable de LEGO Super Mario para peques: consigue recompensas aleatorias del bloque interrogación y descubre cómo reacciona una figura interactiva cuando la mastica un Cheep Chomp
 - Alimenta la creatividad de tu peque: los juguetes LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
+- App LEGO Super Mario: descarga la app, donde encontrarás las instrucciones de construcción, inspiradores consejos y más contenidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVXN4V5{{</world>}}

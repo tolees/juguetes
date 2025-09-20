@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LIFE Espacios para compartir que les ayudan a descubrirse y descubrir a los demás
-- PRO Maneras diferentes e innovadoras de ir sobre ruedas, pensadas para los que ya no son tan pequeños, que les proporcionan una diversión intensa y les animan a seguir explorando sus emociones
-- Concebidos para fomentar sus habilidades y valores sociales
-- Estimulan valores como la convivencia, la tolerancia y la relación constructiva con los que les rodean
-- DRIVE Soluciones divertidas con variedad de detalles pensados para que exploren en el exterior y se mantengan activos
-- MOVE Creemos en la importancia del ‘descubrir’ desde sus primeros pasos
 - Creados para enseñarles a ser más autónomos y desarrollar su psicomotricidad fina
-- Pensados para activar su creatividad y desarrollo psicomotriz
+- DRIVE Soluciones divertidas con variedad de detalles pensados para que exploren en el exterior y se mantengan activos
+- PRO Maneras diferentes e innovadoras de ir sobre ruedas, pensadas para los que ya no son tan pequeños, que les proporcionan una diversión intensa y les animan a seguir explorando sus emociones
 - Por eso, ponemos a su disposición vehículos con y sin pedales que les acompañarán en sus primeras exploraciones y fomentarán su curiosidad por conocer el mundo que les rodea
+- MOVE Creemos en la importancia del ‘descubrir’ desde sus primeros pasos
+- Estimulan valores como la convivencia, la tolerancia y la relación constructiva con los que les rodean
+- Pensados para activar su creatividad y desarrollo psicomotriz
+- Concebidos para fomentar sus habilidades y valores sociales
+- LIFE Espacios para compartir que les ayudan a descubrirse y descubrir a los demás
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00HCG7ARG{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inspirado en el querido personaje animado de La sirenita de Disney, este muñeco del Príncipe Eric está listo para explorar el mundo con Ariel.
-- Este muñeco de moda articulado luce su conjunto característico, con una camisa suave y pantalones y botas moldeados.
-- Es un regalo perfecto para que niños y niñas recreen sus momentos favoritos de las películas o imaginen sus propias aventuras.
 - Los fans pueden coleccionar los conjuntos de juego y las muñecas de Ariel para vivir una gran aventura. Se venden por separado y están sujetos a disponibilidad.
+- Este muñeco de moda articulado luce su conjunto característico, con una camisa suave y pantalones y botas moldeados.
+- Inspirado en el querido personaje animado de La sirenita de Disney, este muñeco del Príncipe Eric está listo para explorar el mundo con Ariel.
+- Es un regalo perfecto para que niños y niñas recreen sus momentos favoritos de las películas o imaginen sus propias aventuras.
 - El muñeco del príncipe Eric está articulado y tiene el pelo moldeado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

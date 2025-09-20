@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La bolsa DOTS Extra incluye 118 coloridas piezas azules, amarillas, rosas y moradas, entre ellas piezas transparentes, y 6 amuletos en forma de corazón y relámpago
-- Edad recomendada por el fabricante, 6
 - DOTS Extra, Edición 6
+- Edad recomendada por el fabricante, 6
 - Los peques podrán desarrollar sus habilidades creativas utilizando los DOTS adicionales para personalizar pulseras infantiles, adornos para mochila, objetos de decoración y otros sets LEGO (a la venta por separado)
 - Número de piezas, 118
+- La bolsa DOTS Extra incluye 118 coloridas piezas azules, amarillas, rosas y moradas, entre ellas piezas transparentes, y 6 amuletos en forma de corazón y relámpago
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BNVWWPS{{</world>}}

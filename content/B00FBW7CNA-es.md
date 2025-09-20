@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pompones suaves.
-- Cuentas de colores.
 - Sonidos de sonajero.
+- Cuentas de colores.
 - Ayuda a desarrollar los sentidos y la motricidad gruesa del niño.
+- Pompones suaves.
 - Tienen el tamaño ideal para las manitas de los más pequeños.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
