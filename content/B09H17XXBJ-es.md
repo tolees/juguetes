@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- STAR WARS: OBI-WAN KENOBI: Los fans y coleccionistas de Star Wars: Obi-Wan Kenobi pueden imaginar escenas de la galaxia de Star Wars con el juguete premium Fifth Brother (Inquisitor), inspirado en la serie Star Wars: Obi-Wan Kenobi
-- ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium en su colección
 - ACCESORIO INSPIRADO EN EL PERSONAJE: Esta figura de acción Star Wars The Black Series incluye 1 accesorio inspirado en el personaje que hace de la figura una adición extraordinaria a toda colección de Star Wars
 - COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
 - QUINTO HERMANO (INQUISIDOR): Obi-Wan Kenobi tiene lugar varios años tras los dramáticos sucesos de Star Wars: La venganza de los Sith, en donde Kenobi enfrentó la corrupción de su amigo y aprendiz Jedi Anakin Skywalker, quien se convertiría en el Lord Sith Darth Vader.
+- STAR WARS: OBI-WAN KENOBI: Los fans y coleccionistas de Star Wars: Obi-Wan Kenobi pueden imaginar escenas de la galaxia de Star Wars con el juguete premium Fifth Brother (Inquisitor), inspirado en la serie Star Wars: Obi-Wan Kenobi
+- ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium en su colección
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09H17XXBJ{{</world>}}

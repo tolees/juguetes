@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Elige tus acciones del día y de la noche. Llena tus bodegas de víveres, pólvora y tesoros.
+- Ataca a tus rivales y navega alrededor de la isla de Jamaica hasta convertirte en el pirata más rico. ¡Y todo eso antes de que acabe la carrera!
 - Un juego muy sencillo para toda la familia. ¡Solo una buena estrategia y, sobre todo, un buen abordaje serán las mejores armas para ganar la partida!
 - ¡Piratas, izad las velas! ¡Preparad los cañones y estad prestos a conmemorar el aniversario de la isla de Jamaica!
-- Elige tus acciones del día y de la noche. Llena tus bodegas de víveres, pólvora y tesoros.
 - De 2 a 6 Jugadores a partir de 8 años
-- Ataca a tus rivales y navega alrededor de la isla de Jamaica hasta convertirte en el pirata más rico. ¡Y todo eso antes de que acabe la carrera!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NDLH34T{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Selección de cartas, colección de cartas
-- Un pequeño juego en formato lata con miles de combinaciones
-- Se explica en un minuto, se juega en 10 y no podrás jugar solamente una partida
 - Lo comprarás para tí y querrás que tus amigos también lo tengan
+- Se explica en un minuto, se juega en 10 y no podrás jugar solamente una partida
+- Un pequeño juego en formato lata con miles de combinaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BS32J2S{{</world>}}

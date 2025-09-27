@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Creado por Marco Teubner, autor especializado en juegos de mesa infantiles
 - Un cooperativo para jugadores/as de a partir de 6 años con partidas de 10 minutos
 - Con un despliegue destacado en mesa; inimitable en su especie
-- Creado por Marco Teubner, autor especializado en juegos de mesa infantiles
 - Calidad muy alta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

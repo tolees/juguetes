@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Amplía las aventuras ninja: explora más juguetes LEGO NINJAGO (sets a la venta por separado) con dragones de juguete, mecas y vehículos
-- Juego de rol interactivo: este juego ninja de acción en la arena incluye 2 plataformas móviles en las que los niños colocan a la minifigura LEGO de un ninja y un villano para enfrentarlos en emocionantes duelos
-- Regalos inspirados en el universo NINJAGO: además de ofrecer una divertida experiencia de construcción y juego, este set LEGO NINJAGO es una gran idea de regalo de cumpleaños para niños y niñas de 7 años o más que disfrutan jugando a ser ninja
-- Tambor rodante y escaleras que se derrumban: cuando los peques tiran de una palanca, las escaleras de la arena se derrumban y provocan que la minifigura LEGO situada en ellas se deslice hasta abajo; cuando empujan el tambor, rueda hasta la arena
 - Una ayuda práctica: descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los constructores podrán acercar y girar sus modelos en 3D, seguir sus progresos y guardar sets a medida que desarrollan nuevas habilidades
-- 6 minifiguras LEGO NINJAGO: este juego ninja infantil incluye a los personajes de NINJAGO ninja Kai y Sora (equipados con sus armaduras para torneos), que luchan contra Cinder, un guerrero Máscara de Lobo, Jay Malvado y Tox
+- Tambor rodante y escaleras que se derrumban: cuando los peques tiran de una palanca, las escaleras de la arena se derrumban y provocan que la minifigura LEGO situada en ellas se deslice hasta abajo; cuando empujan el tambor, rueda hasta la arena
 - Juego de lucha NINJAGO para peques: los niños y las niñas a partir de 7 años pueden recrear las trepidantes escenas de acción de la temporada 2 de la serie para televisión NINJAGO: El renacer de los dragones con el set Arena de Batalla del Torneo
+- Regalos inspirados en el universo NINJAGO: además de ofrecer una divertida experiencia de construcción y juego, este set LEGO NINJAGO es una gran idea de regalo de cumpleaños para niños y niñas de 7 años o más que disfrutan jugando a ser ninja
+- Juego de rol interactivo: este juego ninja de acción en la arena incluye 2 plataformas móviles en las que los niños colocan a la minifigura LEGO de un ninja y un villano para enfrentarlos en emocionantes duelos
+- 6 minifiguras LEGO NINJAGO: este juego ninja infantil incluye a los personajes de NINJAGO ninja Kai y Sora (equipados con sus armaduras para torneos), que luchan contra Cinder, un guerrero Máscara de Lobo, Jay Malvado y Tox
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWH2NGQV{{</world>}}

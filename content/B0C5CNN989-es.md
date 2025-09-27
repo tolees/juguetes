@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 - 4 jugadores
-- Gira la ruleta y juega el reto que ésta marque; si caes en FREE, aplica tu estrategia ya que elegirás tú el tipo de reto a jugar
 - Solo hay una oportunidad para resolver cada reto; si durante tu turno, tus oponentes fallan… ¡automáticamente ganas tú el reto!
 - 4 Tipos de retos que combinan la rapidez, la intuición, la agilidad mental y manual: Brain Challenge, Geo Challenge, Guess Challenge y Fast Challenge
+- 2 - 4 jugadores
+- Gira la ruleta y juega el reto que ésta marque; si caes en FREE, aplica tu estrategia ya que elegirás tú el tipo de reto a jugar
 - Juega a contrarreloj contra tus oponentes y consigue superar los cuatro tipos de retos para ganar. La ruleta marcará qué tipo de reto se juega en cada turno; optimo para cualquier edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

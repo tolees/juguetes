@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hoher Wiederspielwert dank verzweigten Etappen
 - Moderne HD-Grafik und ein großartiger atmosphärischer Soundtrack
 - 4 Spielmodi und neue, exklusive Szenarien
+- Hoher Wiederspielwert dank verzweigten Etappen
 - Lokales Co-op für bis zu 4 Spieler
 - Die vielseitige Burst-Kanone bringt strategische Tiefe in die Reihe.Trete an gegen mehr als 40 riesige Schlachtschiffe
 

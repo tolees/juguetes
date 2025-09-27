@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Objeto de bonificación: Escaneando el código QR de las instrucciones de construcción, los peques canjean la bonificación que incluye el set y consiguen un traje de Banano aventurero isleño para sus partidas del videojuego LEGO Fortnite
-- Figura de Klombo: Los peques pueden construir la figura articulada del dinosaurio antes de descubrir sus patas móviles, la boca que se abre y su cola giratoria
-- Regalo para niños y niñas de 10 años o más: Este kit de maquetas es un óptimo regalo para gamers, así como un estupendo obsequio para fans de LEGO Fortnite de todas las edades
-- 2 minifiguras LEGO: Cuenta con minifiguras de Banano aventurero isleño y Oro, que pueden colocarse en el lomo de Klombo para fomentar el juego de roles imaginativo
 - App LEGO Builder: Las instrucciones de este set están disponibles en la app LEGO Builder, que permite a los constructores acercar y girar versiones digitales de los modelos, además de consultar su progreso
+- 2 minifiguras LEGO: Cuenta con minifiguras de Banano aventurero isleño y Oro, que pueden colocarse en el lomo de Klombo para fomentar el juego de roles imaginativo
 - Juguete LEGO Fortnite: Anima a tu peque a construir una emblemática figura del dinosaurio del videojuego con el juguete de construcción LEGO Fortnite Klombo, diseñado para niños y niñas a partir de 10 años
+- Objeto de bonificación: Escaneando el código QR de las instrucciones de construcción, los peques canjean la bonificación que incluye el set y consiguen un traje de Banano aventurero isleño para sus partidas del videojuego LEGO Fortnite
+- Regalo para niños y niñas de 10 años o más: Este kit de maquetas es un óptimo regalo para gamers, así como un estupendo obsequio para fans de LEGO Fortnite de todas las edades
+- Figura de Klombo: Los peques pueden construir la figura articulada del dinosaurio antes de descubrir sus patas móviles, la boca que se abre y su cola giratoria
 - Descubre los sets LEGO Fortnite: Desbloquea nuevos niveles de creatividad con nuestra colección de sets de construcción LEGO Fortnite (a la venta por separado) y traslada la aventura del videojuego a la realidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

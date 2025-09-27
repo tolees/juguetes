@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye 4 minifiguras de acción articuladas y todo lujo de detalles, además de accesorios de combate intercambiables
-- Este conjunto de construcción de Halo, ideal para niños y niñas a partir de 13 años, estimula las habilidades creativas
 - Inspirado en Halo 3, este conjunto de construcción Tiroteo en la esclusa de Halo es el más aclamado por los fans
 - Este conjunto modular se puede montar de 4 formas distintas. Además, incluye un toro y una grúa con una manivela que funciona de verdad
 - 634 bloques y piezas que se combinan con todos los conjuntos de construcción de MEGA y que son compatibles con las principales marcas
+- Este conjunto de construcción de Halo, ideal para niños y niñas a partir de 13 años, estimula las habilidades creativas
+- Incluye 4 minifiguras de acción articuladas y todo lujo de detalles, además de accesorios de combate intercambiables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBSQQNF9{{</world>}}

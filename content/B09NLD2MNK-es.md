@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En la gran tienda de campaña de tela caben 4 muñecas y cuenta con un toldo y una tira de luces chulísima.
-- Cuenta historias de acampada a la luz de la luna con palitos para asar nubes, un farol, un juego de cartas, una linterna, un aperitivo, 2 botellas de agua y 2 cojines coloridos.
-- Acampa con una hoguera, 2 sillas plegables, una manta y un telescopio.
-- Dales la bienvenida a 2 animalitos que quieren ser tus amigos: presiona la cola del conejito para ver cómo mueve las orejas y la de la ardilla para ver cómo se come una bellota.
 - Este conjunto Barbie It Takes Two inspira a vivir aventuras al aire libre con las muñecas Barbie Malibu y Barbie Brooklyn Roberts y, además, incluye todo lo que estas mejores amigas necesitan para crear el mejor campamento.
 - Estas mejores amigas visten unos adorables conjuntos de acampada. La muñeca Barbie Malibu lleva una sudadera con capucha y unos pantalones cortos estilo tie-dye y la muñeca Barbie Brooklyn lleva una camiseta de tirantes a rayas y unos pantalones con estampado de estrellas.
+- Acampa con una hoguera, 2 sillas plegables, una manta y un telescopio.
+- En la gran tienda de campaña de tela caben 4 muñecas y cuenta con un toldo y una tira de luces chulísima.
+- Dales la bienvenida a 2 animalitos que quieren ser tus amigos: presiona la cola del conejito para ver cómo mueve las orejas y la de la ardilla para ver cómo se come una bellota.
+- Cuenta historias de acampada a la luz de la luna con palitos para asar nubes, un farol, un juego de cartas, una linterna, un aperitivo, 2 botellas de agua y 2 cojines coloridos.
 - Con 2 muñecas Barbie y varios accesorios de acampada chulísimos, este conjunto Barbie It Takes Two inspira infinitas aventuras al aire libre para niñas a partir de 3 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

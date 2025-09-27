@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño tipo vincha
 - Auriculares de sonido
+- Diseño tipo vincha
 - Sonido nítido y limpio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

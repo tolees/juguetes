@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Precauciones:nunca cargue la batería e inserte correctamente la batería con su positivo(+) y negativo(-).
-- Batería AA de zinc carbono súper resistente y seca y hace que sus dispositivos funcionen durante más tiempo.
 - Tiempo de almacenamiento: la duración de almacenamiento de las baterías es de 3 años a 20℃±2℃ y RH60±15%.
 - Aplicaciones: juguetes, mandos a distancia, cámara de vigilancia, timbre, lámparas de jardín, mandos a distancia, mandos de juego, coches a distancia, linterna, maquinilla de afeitar, guirnalda eléctrica, etc.
+- Precauciones:nunca cargue la batería e inserte correctamente la batería con su positivo(+) y negativo(-).
+- Batería AA de zinc carbono súper resistente y seca y hace que sus dispositivos funcionen durante más tiempo.
 - Material de la batería: zinc carbono, voltaje: 1,5 voltios. Tamaño: 14,5 x 50 mm. Diseño antifugas para proteger su equipo de daños.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

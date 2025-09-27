@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK.
 - El techo del gran salón se ilumina con los colores de las 4 casas; las escaleras se mueven; pasa por el baño de Myrtle la Llorona para encontrar una sorpresa secreta o descubre como la chimenea se enciende mágicamente
-- Con más de 10 activaciones de luces y sonidos, 60 cm de altura y 12 accesorios, explora los secretos ocultos de Hogwards
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- Amplia la diversión incorporando los playsets aula de pociones, aula de encantamientos y cuidado de criaturas y la colección de la mini muñecas
-- Incluye: 1 figura exclusiva de Hermione de 7cm, 1 escenario y 12 accesorios
+- Producto distribuido oficialmente en España por BIZAK.
 - Bienvenido al mágico mundo del Castillo de Hogwards de Wizarding World; revive la emoción de sus salones mientras creas aventuras llenas de hechizos con la figura de Hermione exclusiva
+- Incluye: 1 figura exclusiva de Hermione de 7cm, 1 escenario y 12 accesorios
+- Amplia la diversión incorporando los playsets aula de pociones, aula de encantamientos y cuidado de criaturas y la colección de la mini muñecas
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Con más de 10 activaciones de luces y sonidos, 60 cm de altura y 12 accesorios, explora los secretos ocultos de Hogwards
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096M8YZBP{{</world>}}

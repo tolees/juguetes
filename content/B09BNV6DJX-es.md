@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A los peques les encantará este set repleto de posibilidades imaginativas, con escenas basadas en 2 películas muy conocidas de Disney, Mulán y Aladdin
 - Con la app gratuita Instrucciones de Montaje LEGO, los pequeños constructores podrán acercar, girar y visualizar una versión digital de su maqueta mientras la construyen
+- A los peques les encantará este set repleto de posibilidades imaginativas, con escenas basadas en 2 películas muy conocidas de Disney, Mulán y Aladdin
 - Incluye las princesas Disney Jasmine y Mulán en formato de mini muñeca, además de las figuras de animales LEGO de Khan el caballo y Rajah el tigre
 - Incluye un palacio de juguete de gran detalle con 2 plantas y un pequeño altar, además de un montón de accesorios para disfrutar jugando cada día
 - Súbete a la alfombra mágica y viaja al altar de Mulán para ver cómo florece el ciruelo antes de regresar a palacio

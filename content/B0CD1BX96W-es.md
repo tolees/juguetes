@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El paquete incluye: Una pistola de agua X-Shot Fast-Fill Hydro Cannon Una correa de hombro para la pistola de agua
-- Correa de soporte: ¡Esta enorme pistola de agua viene con una correa de soporte al hombro para usarla fácilmente!
 - Llenado rápido: El llenado rápido te permite rellenar en un segundo. Sumerge, llena y cierra con nuestra tecnología de sellado rápido.
+- Correa de soporte: ¡Esta enorme pistola de agua viene con una correa de soporte al hombro para usarla fácilmente!
 - Capacidad de agua: El X-Shot Fast-Fill Hydro Cannon puede contener 1600 ml de agua.
 - Acción de lanzamiento: Lanza agua a hasta diez metros de distancia, dejando a tus oponentes empapados desde lejos.
 

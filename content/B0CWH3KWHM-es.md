@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Construcción digital interactiva: Con la app LEGO Builder, los peques pueden acercar, girar y visualizar una versión digital de este modelo mientras lo construyen
 - Divertida idea de regalo inspirada en el universo Star Wars: este juguete de construcción coleccionable es un óptimo regalo para niños y niñas de 6 años o más o para cualquier joven fan de Star Wars: The Mandalorian que tenga una mente creativa
 - 4 minifiguras LEGO Star Wars coleccionables: una integrante de los Búhos Nocturnos Mandalorianos y un guerrero Mandaloriano, con blásteres, y 2 comandos imperiales, con pistolas bláster, además de 4 elementos que representan mochilas propulsoras
-- Acción aérea con mochilas propulsoras: coloca una minifigura LEGO Star Wars en el elemento transparente y usa el mango para hacerla “volar” por los aires
-- Juguete de construcción infantil Star Wars: el set incluye una formación rocosa construible con una cueva, un cañón que dispara y una caja de almacenamiento que contiene un detonador térmico de juguete para vivir creativas aventuras Star Wars
-- Pack de combate LEGO Star Wars: The Mandalorian: revive la emboscada en Mandalore que tiene lugar en la temporada 3 de la serie de Disney+ y crea nuevas aventuras con este juguete de construcción LEGO Star Wars
 - Para construir y conectar: la formación rocosa de este set coleccionable LEGO Star Wars: The Mandalorian coleccionable puede conectarse a la base Mandaloriana del set Batalla entre Paz Vizsla y Moff Gideon (75386), a la venta por separado
+- Juguete de construcción infantil Star Wars: el set incluye una formación rocosa construible con una cueva, un cañón que dispara y una caja de almacenamiento que contiene un detonador térmico de juguete para vivir creativas aventuras Star Wars
+- Acción aérea con mochilas propulsoras: coloca una minifigura LEGO Star Wars en el elemento transparente y usa el mango para hacerla “volar” por los aires
+- Pack de combate LEGO Star Wars: The Mandalorian: revive la emboscada en Mandalore que tiene lugar en la temporada 3 de la serie de Disney+ y crea nuevas aventuras con este juguete de construcción LEGO Star Wars
+- Construcción digital interactiva: Con la app LEGO Builder, los peques pueden acercar, girar y visualizar una versión digital de este modelo mientras lo construyen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWH3KWHM{{</world>}}

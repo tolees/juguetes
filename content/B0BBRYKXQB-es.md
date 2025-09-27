@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los niños podrán recoger manzanas del árbol y ayudar a Leo a preparar deliciosos pasteles en la cocina, después podrán unirse a Aliya y cepillar al caballo de juguete, ¡por último podrán finalizar el día con una rica bebida junto a la hoguera!
-- Incluye múltiples accesorios para muñecas cómo un cuaderno, prismáticos, comida de juguete, utensilios de cocina, tazas, calabazas, manzanas y comida para Daisy
-- Esta casa de juguete cuenta con cocina, salón, comedor, baño, el cuarto de Autumn, un balcón con telescopio, una zona para sentarse al aire libre y un pequeño establo de caballos de juguete
-- Esta casa de muñecas de LEGO Friends de colores brillantes se ve idónea expuesta en la habitación de los peques como parte de la decoración infantil; será una gran idea de regalo de verano o detalle para niñas y niños creativos de 7 años o más
-- Incluye una casa de muñecas de ensueño de 2 pisos para niñas y niños de 7 años inspirada en la naturaleza, con diferentes habitaciones llenas de detalles y accesorios para jugar y explorar con las 4 mini muñecas LEGO Friends incluidas
-- El universo LEGO Friends se expande en 2023 con nuevos y divertidos personajes en ubicaciones nunca vistas, descubre otros sets como el Supermercado Orgánico (41729) o el Centro de Rescate Canino (41727)
 - Incluye 4 mini muñecas de la nueva generación LEGO Friends de 2023: Autumn, amante de la naturaleza, Leo, a quien le encanta cocinar, Aliya y la mamá Mia, además de la perrita de juguete Daisy y un potro
+- Los niños podrán recoger manzanas del árbol y ayudar a Leo a preparar deliciosos pasteles en la cocina, después podrán unirse a Aliya y cepillar al caballo de juguete, ¡por último podrán finalizar el día con una rica bebida junto a la hoguera!
+- Esta casa de muñecas de LEGO Friends de colores brillantes se ve idónea expuesta en la habitación de los peques como parte de la decoración infantil; será una gran idea de regalo de verano o detalle para niñas y niños creativos de 7 años o más
+- El universo LEGO Friends se expande en 2023 con nuevos y divertidos personajes en ubicaciones nunca vistas, descubre otros sets como el Supermercado Orgánico (41729) o el Centro de Rescate Canino (41727)
+- Esta casa de juguete cuenta con cocina, salón, comedor, baño, el cuarto de Autumn, un balcón con telescopio, una zona para sentarse al aire libre y un pequeño establo de caballos de juguete
+- Incluye múltiples accesorios para muñecas cómo un cuaderno, prismáticos, comida de juguete, utensilios de cocina, tazas, calabazas, manzanas y comida para Daisy
+- Incluye una casa de muñecas de ensueño de 2 pisos para niñas y niños de 7 años inspirada en la naturaleza, con diferentes habitaciones llenas de detalles y accesorios para jugar y explorar con las 4 mini muñecas LEGO Friends incluidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRYKXQB{{</world>}}

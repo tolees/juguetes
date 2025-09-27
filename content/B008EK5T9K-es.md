@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número de jugadores: 3 - 6
-- Tipo de producto: juego de mesa, es necesario tener Catán - Juego Básico para jugar
 - Duración aproximada de la partida: 75 min
 - Un mapa más grande para dar cabida a dos jugadores más
+- Número de jugadores: 3 - 6
+- Tipo de producto: juego de mesa, es necesario tener Catán - Juego Básico para jugar
 - Edad recomendada: 10 años y más
 
 [🛒 Comprar!!!]({{< param buyurl >}})

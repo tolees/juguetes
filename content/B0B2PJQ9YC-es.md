@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muñecos no incluidos
 - Fabricado en Francia
+- Adecuado a partir de 2 años
+- Muñecos no incluidos
 - Incluye: 2 cucharas y 2 platos.
 - Trona gemelar con la que el niño puede alimentar a 2 muñecos al mismo tiempo
-- Adecuado a partir de 2 años
 - 2en1: asiento para la trona y balancín
 
 [🛒 Comprar!!!]({{< param buyurl >}})

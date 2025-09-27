@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nave estelar de juguete construible basada en Star Wars: Skeleton Crew: a los niños les encantará jugar a ser los héroes de sus propias misiones a bordo de The Onyx Cinder con esta detallada nave estelar de juguete para construir con ladrillos
-- Regalo para fans de Star Wars a partir de 10 años: este juguete de construcción LEGO coleccionable es un gran regalo para niños y niñas de 10 años o más entusiastas de Star Wars: Skeleton Crew o para un coleccionista de recuerdos de Star Wars
-- Características de gran realismo: una cabina, un compartimento con asientos para 4 minifiguras LEGO, motores giratorios para despegar/aterrizar o volar, 2 cañones que disparan y 2 torretas giratorias, cada una con 2 cañones que disparan
 - Divertidos sets LEGO Star Wars para todas las edades: los juguetes de construcción LEGO Star Wars permiten a los niños y los fans adultos recrear icónicas escenas, imaginar historias creativas o, simplemente, exponer los modelos construibles
-- 5 minifiguras de personajes LEGO Star Wars: una minifigura LEGO de Jod con un bláster de estilo retro, además de minifiguras LEGO de Wim, KB, Fern y Neel, cada una con un accesorio construible que representa una linterna
 - Juego creativo sin límites: la nave estelar The Onyx Cinder cuenta también con un compartimento de carga que se abre y que contiene una garra prensil, un walkie-talkie, fruta y un telescopio pirata, así como espacio para el bláster y las linternas
+- Nave estelar de juguete construible basada en Star Wars: Skeleton Crew: a los niños les encantará jugar a ser los héroes de sus propias misiones a bordo de The Onyx Cinder con esta detallada nave estelar de juguete para construir con ladrillos
+- 5 minifiguras de personajes LEGO Star Wars: una minifigura LEGO de Jod con un bláster de estilo retro, además de minifiguras LEGO de Wim, KB, Fern y Neel, cada una con un accesorio construible que representa una linterna
+- Características de gran realismo: una cabina, un compartimento con asientos para 4 minifiguras LEGO, motores giratorios para despegar/aterrizar o volar, 2 cañones que disparan y 2 torretas giratorias, cada una con 2 cañones que disparan
+- Regalo para fans de Star Wars a partir de 10 años: este juguete de construcción LEGO coleccionable es un gran regalo para niños y niñas de 10 años o más entusiastas de Star Wars: Skeleton Crew o para un coleccionista de recuerdos de Star Wars
 - Construcción digital interactiva: con la app LEGO Builder, los peques pueden acercar, girar y visualizar una versión digital de este modelo mientras lo construyen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

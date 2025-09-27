@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Take aim with the determination of Hyrules lionhearted hero.
-- Mappable Advanced Gaming Buttons
 - 3.5mm audio jack
 - No batteries required.Officially licensed by Nintendo with two-year limited warranty – visit PowerA.com/Support
+- Mappable Advanced Gaming Buttons
+- Take aim with the determination of Hyrules lionhearted hero.
 - Detachable 10ft (3m) USB Cable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

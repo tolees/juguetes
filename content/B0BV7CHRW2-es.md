@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sumérgete en esta gran aventura con las 4 mini figuras LEGO incluidas de los personajes: Indiana Jones con su famoso sombrero y su látigo, Satipo, Belloq y un guerrero Hovito
+- Contiene 1545 piezas.
 - Las diferentes funciones de esta divertida manualidad para adultos también permiten que Indiana Jones se cuelgue de una enredadera de la cueva y ver a Indy siendo perseguido por una enorme roca
 - Rinde homenaje a Indiana Jones con el set de construcción LEGO el Templo del Ídolo Dorado, una maqueta para construir para adultos de la emocionante escena inicial de la película En Busca del Arca Perdida
 - Este set LEGO para adultos está lleno de detalles y cuenta con una base con cuatro perillas con las que activar diferentes funciones; los fans podrán bajar e iluminar al ídolo o derrumbar el muro
-- Contiene 1545 piezas.
 - Una gran idea de regalo para adultos amantes de las películas de Indiana Jones y las construcciones LEGO avanzadas; un recuerdo que durará toda la vida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

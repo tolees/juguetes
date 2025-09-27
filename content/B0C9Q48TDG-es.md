@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ESCALA AUTÉNTICA: el vehículo de 12cm presenta detalles increíbles y una escala auténtica. PRODUCTO OFICIAL: producto de STAR WARS con licencia oficial.
-- EQUIPAMIENTO COMPLETO: incluye anillo de hiperimpulsor extraíble, bahia de droidey más
-- VEHÍCULO ICÓNICO: Dirige la Armada de la REPÚBLICA con el JEDI STARFIGHTER DE ANAKIN SKYWALKER
 - TRIPULACIÓN ICÓNICA: Contiene figuras de Anakin Skywalker y R2-D2 de 2,5cm
+- EQUIPAMIENTO COMPLETO: incluye anillo de hiperimpulsor extraíble, bahia de droidey más
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- VEHÍCULO ICÓNICO: Dirige la Armada de la REPÚBLICA con el JEDI STARFIGHTER DE ANAKIN SKYWALKER
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9Q48TDG{{</world>}}

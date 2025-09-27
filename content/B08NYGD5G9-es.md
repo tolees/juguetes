@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se ajusta a la mayoría de móviles: 79 mm de ancho máximo
 - Sujeción y protección del móvil con detalles de goma
+- Se ajusta a la mayoría de móviles: 79 mm de ancho máximo
 - Soporte de juego para móvil para mandos inalámbricos con Bluetooth de Xbox
 - Fabricado con materiales de calidad para ser compatible con juegos de móvil y para retransmitir el juego de Xbox
 - Puntos de articulación actualizados para ajustes sencillos con una sola mano

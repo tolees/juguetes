@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego que combina humor e intuición, donde los casos más estúpidos de muertes tendrán que ser votados. ¿Mito o realidad?
 - El plan optimo para pasar un rato muy divertido
 - ¡Juego para morirse de risa! Ideal para familia y amigos
 - 2 - 4 jugadores; +12 años
+- Juego que combina humor e intuición, donde los casos más estúpidos de muertes tendrán que ser votados. ¿Mito o realidad?
 - Cuanto más aciertes, más rápido llegarás a la casilla final; si fallas, la ficha del verdugo se acercará a ti, y si te pilla..¡estás muerto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

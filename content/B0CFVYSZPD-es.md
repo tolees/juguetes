@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una ciudad ilimitada: LEGO City es un lugar donde los niños pueden dejar fluir su ilimitada imaginación; sus estructuras, vehículos de juguete y ciudadanos son una apasionante motivación que los impulsa a construir, crear, explorar y jugar
-- Juego creativo ilimitado: tu peque disfrutará de aún más diversión y aventuras al agregar este avión de juguete a otros de la gama LEGO City (a la venta por separado)
-- Este juego de rescate tiene todo lo que tu peque necesita para construir un avión de bomberos de juguete y una escena de fuego descontrolado con minifiguras de un piloto, un operador de extintor y un bombero con mochila propulsora
-- Avión de bomberos de juguete con guía de construcción digital: descubre LEGO Builder, una app que permite a los peques explorar y guardar sets virtuales, acercar y girar versiones en 3D de los modelos y seguir construyendo desde donde lo dejaron
 - Un regalo para aficionados a los aviones de juguete: ofrece este juego infantil como regalo de cumpleaños o por cualquier ocasión a niños y niñas a partir de 6 años
+- Avión de bomberos de juguete con guía de construcción digital: descubre LEGO Builder, una app que permite a los peques explorar y guardar sets virtuales, acercar y girar versiones en 3D de los modelos y seguir construyendo desde donde lo dejaron
+- Juego creativo ilimitado: tu peque disfrutará de aún más diversión y aventuras al agregar este avión de juguete a otros de la gama LEGO City (a la venta por separado)
 - Avión de rescate de bomberos de juguete: el Avión de Rescate de Bomberos LEGO City viene con un montón de funciones realistas para que los niños y las niñas a partir de 6 años jueguen a interpretar ser bomberos
+- Este juego de rescate tiene todo lo que tu peque necesita para construir un avión de bomberos de juguete y una escena de fuego descontrolado con minifiguras de un piloto, un operador de extintor y un bombero con mochila propulsora
+- Una ciudad ilimitada: LEGO City es un lugar donde los niños pueden dejar fluir su ilimitada imaginación; sus estructuras, vehículos de juguete y ciudadanos son una apasionante motivación que los impulsa a construir, crear, explorar y jugar
 - Características que fomentan el juego de roles y simulación: tu peque podrá accionar la caída del agua y los lanzadores de agua del avión de juguete, y representar historias futuristas con la minifigura del bombero con mochila propulsora
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
