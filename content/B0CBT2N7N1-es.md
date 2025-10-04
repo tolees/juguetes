@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡Las cartas especiales más despiadadas, como Todos pierden el turno y los comodines Roba seis y Roba 10, obligan a jugar sin compasión!
+- ¡El juego UNO Show em No Mercy incluye 56 cartas adicionales, reglas nuevas y cartas especiales de lo más despiadadas que hacen de esta versión la edición más brutal hasta la fecha!
 - La regla Apilar penalizaciones permite a los jugadores pasar la penalización (Roba dos/cuatro/seis/diez) al siguiente jugador hasta que quien no pueda echar nada tenga que llevarse todas las cartas de penalización.
 - Es el regalo perfecto para animar las tardes de juegos en familia o con amigos, o para divertirse en viajes y fiestas.
-- La regla Sin remordimiento establece que si algún jugador tiene 25 o más cartas en la mano, ¡se queda fuera de la partida!
 - Viene en una lata de viaje coleccionable y portátil.
 - Cada vez que se juega una carta de los números “7” o “0”, los jugadores deben intercambiar su mano con otro jugador.
-- ¡El juego UNO Show em No Mercy incluye 56 cartas adicionales, reglas nuevas y cartas especiales de lo más despiadadas que hacen de esta versión la edición más brutal hasta la fecha!
-- ¡Las cartas especiales más despiadadas, como Todos pierden el turno y los comodines Roba seis y Roba 10, obligan a jugar sin compasión!
+- La regla Sin remordimiento establece que si algún jugador tiene 25 o más cartas en la mano, ¡se queda fuera de la partida!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBT2N7N1{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego que te permite vivir una gran aventura con un libro y un lápiz
 - Un sistema de juego nunca visto antes que combina elementos de videojuego de rol, dungeon crawler y librojuego dando lugar a un formato que denominamos juegolibro
 - 242 páginas a todo color y entre 12 y 15 horas de juego en cada aventura, con la posibilidad de volver a jugarlo y vivir experiencias completamente distintas
+- El juego que te permite vivir una gran aventura con un libro y un lápiz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CMXX98SH{{</world>}}

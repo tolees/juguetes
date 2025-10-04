@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La Casa Reconfortante familiar puede convertirse en una casa de 3 plantas en la ribera con oficina en el ático, galería de arte y cafetería o en una casa de vacaciones junto al lago con una divertida lancha de juguete
+- El set incluye 3 minifiguras LEGO de una familia: 2 adultos y 1 niño, cada una de ellas con pelo y ropa intercambiables para que los niños puedan crear diferentes personajes acordes imaginativas historias
 - Cada casa de juguete personalizable admite 2 posiciones distintas: la casa familiar y la casa del largo se abren a la mitad y la casa en la ribera tiene una parte superior que se quita para ponerla en la zona de atrás
+- Deja volar la imaginación de los niños y combina este set con otros de la gama LEGO Creator 3 en 1 como la Moto Clásica (31135), el Loro Exótico (31136) o la Furgoneta Playera (31138)
 - Este juego creativo de LEGO Creator 3 en 1 incluye 3 maquetas de casas de juguete diferentes para construir: una casa familiar, una casa de 3 plantas en la ribera y una casa de vacaciones en un lago
 - La casa familiar de juguete cuenta con 4 espacios: cocina, sala de estar y 2 dormitorios, además de una terraza con jardín llena de accesorios para que los niños puedan crear sus propias historias
-- El set incluye 3 minifiguras LEGO de una familia: 2 adultos y 1 niño, cada una de ellas con pelo y ropa intercambiables para que los niños puedan crear diferentes personajes acordes imaginativas historias
+- La Casa Reconfortante familiar puede convertirse en una casa de 3 plantas en la ribera con oficina en el ático, galería de arte y cafetería o en una casa de vacaciones junto al lago con una divertida lancha de juguete
 - El set cuenta con divertidos accesorios de casa de muñecas que pueden agregarse a los diferentes modelos como muebles de terraza, un buzón, un perrito, hoguera y 2 botes
-- Deja volar la imaginación de los niños y combina este set con otros de la gama LEGO Creator 3 en 1 como la Moto Clásica (31135), el Loro Exótico (31136) o la Furgoneta Playera (31138)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRWHP5F{{</world>}}

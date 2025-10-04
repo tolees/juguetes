@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puede ser un divertido regalo
 - El fondo de zinc sirve también de soporte para exhibir la torre Jenga
 - Componentes del empaque y el juego diseñados para exhibir en casa
-- Puede ser un divertido regalo
 - Saca un bloque, ponlo arriba y no dejes que se caiga la torre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

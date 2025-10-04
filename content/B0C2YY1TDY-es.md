@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Scalextric Compact Jump & Loop: Disfruta de la última tecnología de Scalextric en un circuito de carreras de 6,6 metros de pista con saltos y loopings.
 - Dos coches Slot con luces incluidos: La experiencia con dos coches de carreras slot con luces: Un Cupra E-Racer y SCX Porsche 911 GT3. Monta el circuito y disfruta desde el primer día.
-- Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
 - Mandos inalámbricos wireless con turbo: Adaptados a la mano del niño, ahora con mayor comodidad, sin cables. Incluye transformador.
+- Scalextric Compact Jump & Loop: Disfruta de la última tecnología de Scalextric en un circuito de carreras de 6,6 metros de pista con saltos y loopings.
+- Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
 - Circuito escala 1:43 de carreras ampliable con puente: Una pista ideal para iniciación, con la posibilidad de ampliar a posteriori con los accesorios Compact.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

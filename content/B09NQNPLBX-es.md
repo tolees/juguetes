@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Edad recomendada: más de 4 años
-- Valija compacta de Polly Pocket
 - Estilo de la valija: osito expendedor
+- Valija compacta de Polly Pocket
 - Incluye: 26 sorpresas, muñecas y accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})

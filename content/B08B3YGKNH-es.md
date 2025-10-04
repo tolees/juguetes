@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 - 4 jugadores; +12 años
 - El plan optimo para pasar un rato muy divertido
+- 2 - 4 jugadores; +12 años
 - Cuanto más aciertes, más rápido llegarás a la casilla final; si fallas, la ficha del verdugo se acercará a ti, y si te pilla..¡estás muerto
 - Juego que combina humor e intuición, donde los casos más estúpidos de muertes tendrán que ser votados. ¿Mito o realidad?
 - ¡Juego para morirse de risa! Ideal para familia y amigos

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - SSD de alto rendimiento creado para proporcionar una experiencia de juego del más alto nivel.
 - Dispositivo especialmente diseñado para videojugadores según los estándares de calidad y fiabilidad de WD_BLACK.
-- Elegantemente diseñado para conjuntar con tu consola
 - Velocidades aceleradas de hasta 900 MB/s** que te ayudan a evitar las largas pantallas de carga
 - Capacidad ampliada de hasta 2 TB* para almacenar hasta 50 juegos***
+- Elegantemente diseñado para conjuntar con tu consola
 - Compatible con las consolas Xbox Series X|S y PlayStation 5 (consulta la compatibilidad más abajo).
 
 [🛒 Visítala!!!]({{< param buyurl >}})

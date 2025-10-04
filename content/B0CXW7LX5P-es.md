@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CRICHERS - Embárcate en una aventura única en un mundo transformado por un evento ancestral. Los Crichers, seres llenos de diversión y locura, son tus aliados secretos en este juego de cartas.
-- PÁRTIDAS SIMPLES Y RÁPIDAS - CRICHERS es rápido, diferente y emocionante. Disfruta de partidas de 10-15 minutos llenas de sorpresas y estrategias únicas en cada mano.
 - IDEAL PARA REGALO - Con este juego de cartas, regalarás horas y horas de entretenimiento. Una elección práctica y divertida para sorprender a tus seres queridos.
-- JUEGO DE VIAJE - Perfecto para llevar la diversión contigo a todas partes y vivir momentos inolvidables llenos de risas. ¡Vive la emoción de los juegos de cartas en cualquier destino con CRICHERS.
+- PÁRTIDAS SIMPLES Y RÁPIDAS - CRICHERS es rápido, diferente y emocionante. Disfruta de partidas de 10-15 minutos llenas de sorpresas y estrategias únicas en cada mano.
+- CRICHERS - Embárcate en una aventura única en un mundo transformado por un evento ancestral. Los Crichers, seres llenos de diversión y locura, son tus aliados secretos en este juego de cartas.
 - PARA JUGAR CON AMIGOS O FAMILIA - Crichers es un Juego de mesa ideal para disfrutar con amigos o familiares. Se astuto, forma alianzas y elabora tácticas para superar al jugador más aventajado.
+- JUEGO DE VIAJE - Perfecto para llevar la diversión contigo a todas partes y vivir momentos inolvidables llenos de risas. ¡Vive la emoción de los juegos de cartas en cualquier destino con CRICHERS.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXW7LX5P{{</world>}}

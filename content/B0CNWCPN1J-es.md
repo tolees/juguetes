@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - pegatina técnica
-- paquetes de refuerzo
 - tarjeta promocional de aluminio
+- paquetes de refuerzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNWCPN1J{{</world>}}

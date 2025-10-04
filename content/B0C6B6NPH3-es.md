@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- CARGA COMPLETA: incluye luces electrónicas, sonidos auténticos, patas articuladas y más
 - VEHÍCULO ICÓNICO: lidera el asalto a la BASE ECHO con el AT-AT . Producto de STAR WARS con licencia ofical de Jazwares
 - ESCALA AUTÉNTICA: el vehículo de 25 cm presenta detalles increíbles y una escala auténtica
+- CARGA COMPLETA: incluye luces electrónicas, sonidos auténticos, patas articuladas y más
 - EQUIPO ICÓNICO: Contiene cinco microfiguras de 2,5 centimetros y una moto de nieve Speeder
 
 [🛒 Aquí!!!]({{< param buyurl >}})

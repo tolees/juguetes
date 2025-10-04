@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un regalo fantástico para los fans de MOTU a partir de 4 años.
-- Las enormes garras tienen una acción de ataque espectacular. Las espectaculares alas de dragón, con la decoración especial de Pavor cósmico, se extienden hasta los 40,6cm de envergadura.
-- La cola de dragón equilibra la parte trasera, mientras que los cuernos puntiagudos completan el aspecto aterrador.
-- Esta enorme figura de acción de Skeletor Pavor cósmico, inspirada en la temporada 3 de la serie de Netflix, He-Man and the Masters of the Universe, está preparada para la batalla o para una aterradora exposición.
 - Con 15 puntos de articulación, incluida la mandíbula y las alas extensibles, está listo para recrear los movimientos y poses característicos del villano definitivo y atemorizar las almas en los conflictos.
+- La cola de dragón equilibra la parte trasera, mientras que los cuernos puntiagudos completan el aspecto aterrador.
+- Las enormes garras tienen una acción de ataque espectacular. Las espectaculares alas de dragón, con la decoración especial de Pavor cósmico, se extienden hasta los 40,6cm de envergadura.
 - Esta figura especial de Skeletor, de grandes dimensiones, con sus 24,1cm de alto y 21,6cm de ancho, destacará sobre los demás personajes de He-Man, de 17,8cm. El resto de figuras se venden por separado y están sujetas a disponibilidad.
+- Esta enorme figura de acción de Skeletor Pavor cósmico, inspirada en la temporada 3 de la serie de Netflix, He-Man and the Masters of the Universe, está preparada para la batalla o para una aterradora exposición.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B5M28MTK{{</world>}}

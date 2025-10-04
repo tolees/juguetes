@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revive auténticas batallas Pokémon
 - Enfréntate a tus amigos con tu Pokémon favorito, elige los discos de ataque y aprieta el botón.
-- La Pokeball girará y revelará tu ataque sorpresa.
+- Revive auténticas batallas Pokémon
 - Fantástico playset con 2 MegaPokeballs, 2 figuras y 6 discos de ataquel
+- La Pokeball girará y revelará tu ataque sorpresa.
 - Producto distribuido oficialmente en España por BIZAK.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

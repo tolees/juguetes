@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los jugadores recrean épicas batallas de la antigüedad
-- Revive la historia o cámbiala para siempre, liderando los ejércitos de romanos o cartagineses
 - Buena introducción al mundo de los juegos de guerra
 - Para dos jugadores a partir de los 12 años de edad
+- Revive la historia o cámbiala para siempre, liderando los ejércitos de romanos o cartagineses
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHKPZV1D{{</world>}}

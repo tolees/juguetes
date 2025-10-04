@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características de diseño originales de Audi: Esta réplica del coche de carreras Audi S1 e-tron Quattro cuenta con alerón trasero alto, profundo difusor trasero, divisor delantero y detalles interiores, como un freno de mano
+- Maquetas de coches emblemáticos para jugar y exponer como decoración: los sets de vehículos LEGO Speed Champions permiten a los peques y los aficionados al automovilismo construir fieles versiones de algunos de los vehículos más icónicos del universo
+- Maqueta de exposición LEGO de un Audi: después de pilotar el Audi de juguete, los peques pueden exponerlo con orgullo como decoración en una estantería, en el escritorio o en la mesita de noche
 - 1 minifigura LEGO: el coche LEGO viene con techo desmontable y una minifigura de un piloto con casco, peluca y llave inglesa para colocarla al volante y vivir la acción
 - Un regalo óptimo: además de proporcionar una divertida experiencia de construcción y juego, el coche de construcción de este kit es un gran regalo para niños y niñas a partir de 9 años o coleccionistas de maquetas de coches adultos
-- Maquetas de coches emblemáticos para jugar y exponer como decoración: los sets de vehículos LEGO Speed Champions permiten a los peques y los aficionados al automovilismo construir fieles versiones de algunos de los vehículos más icónicos del universo
+- Características de diseño originales de Audi: Esta réplica del coche de carreras Audi S1 e-tron Quattro cuenta con alerón trasero alto, profundo difusor trasero, divisor delantero y detalles interiores, como un freno de mano
 - Vehículo Audi de juguete para niños y niñas a partir de 9 años: descubre el Coche de Carreras Audi S1 e-tron Quattro LEGO Speed Champions, una maqueta de coche para construir, exponer, jugar y coleccionar
 - Amplía las aventuras automovilísticas: descubre más coches de juguete LEGO Speed Champions (sets a la venta por separado)
-- Maqueta de exposición LEGO de un Audi: después de pilotar el Audi de juguete, los peques pueden exponerlo con orgullo como decoración en una estantería, en el escritorio o en la mesita de noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVZ1LCY{{</world>}}

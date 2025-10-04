@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una experiencia única
-- Excelentes gráficos
-- Accesible para todos
 - Personajes variados con una historia interesante
+- Excelentes gráficos
 - Obtendras mucha diversión
+- Accesible para todos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09KVV7NXF{{</world>}}

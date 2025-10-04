@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SENSOR DE SONIDO: automáticamente detecta si el bebé está llorando y reactiva las luces nocturnas y la música para ayudar al bebé a dormirse de nuevo
-- MÚSICA RELAJANTE: 30 minutos de música relajante con control de volumen y muchos géneros musicales diferentes: clásicos, pop, modernos, new age y sonidos de la naturaleza
 - PROYECTOR DE LUZ DE NOCHE: lámpara proyector de cielo estrellado para bebés con cambio automático de color. 3 efectos de luz diferentes: proyección nocturna, proyección suave y luz nocturna
 - IDEAL PARA CUNAS: el proyector está equipado con un sistema de fijación práctico y seguro, ideal para cunas y cunas de viaje. También se puede colocar en la mesilla de noche o en la cómoda
+- SENSOR DE SONIDO: automáticamente detecta si el bebé está llorando y reactiva las luces nocturnas y la música para ayudar al bebé a dormirse de nuevo
+- MÚSICA RELAJANTE: 30 minutos de música relajante con control de volumen y muchos géneros musicales diferentes: clásicos, pop, modernos, new age y sonidos de la naturaleza
 - ATMÓSFERA MÁGICA: crea una atmósfera mágica a la hora de dormir en el dormitorio de tu bebé gracias a las canciones, el proyector de luz de colores y las estrellas del techo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

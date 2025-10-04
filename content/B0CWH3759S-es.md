@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personajes LEGO Minecraft: los peques doman a un lobo de juguete salvaje, luchan contra esqueletos Minecraft y usan diversos equipos para la fabricación de objetos con un héroe explorador del bosque
 - Juego de aventuras LEGO Minecraft: los niños de 8 años o más fans del videojuego Minecraft podrán disfrutar explorando una fortificación y un bosque con el juguete La Fortaleza-Lobo
-- Instrucciones de construcción 3D: los peques pueden descargar la app LEGO Builder y sumergirse en la experiencia de construcción con herramientas digitales para acercar y girar versiones 3D de los modelos, guardar sets y seguir sus progresos
 - Lobo Minecraft de juguete: la entrada a la base del domador de lobos tiene encima una gran cabeza de lobo construible; los niños pueden cambiarle rápidamente la expresión de amable a enfadada
+- Personajes LEGO Minecraft: los peques doman a un lobo de juguete salvaje, luchan contra esqueletos Minecraft y usan diversos equipos para la fabricación de objetos con un héroe explorador del bosque
+- Instrucciones de construcción 3D: los peques pueden descargar la app LEGO Builder y sumergirse en la experiencia de construcción con herramientas digitales para acercar y girar versiones 3D de los modelos, guardar sets y seguir sus progresos
 - Castillo de juguete: El juguete incluye una mesa de trabajo, un alto horno, un yunque y una mesa de herrería, así como una figura LEGO Minecraft de un domador de lobos, 2 esqueletos y 2 lobos
 - Regalo gamer del videojuego Minecraft: este juego de aventuras es un gran regalo para niños y niñas de 8 años en adelante que disfruten construyendo sus edificios y personajes favoritos del videojuego
 - Minecraft en el universo real: los juguetes de construcción LEGO Minecraft les proponen una manera distinta de disfrutar del videojuego; sus criaturas, personajes, escenas y funciones cobran vida mediante la creatividad de los ladrillos LEGO

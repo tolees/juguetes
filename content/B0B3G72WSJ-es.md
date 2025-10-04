@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un cooperativo para jugadores/as de a partir de 6 años con partidas de 10 minutos
-- Calidad muy alta
 - Con un despliegue destacado en mesa; inimitable en su especie
+- Calidad muy alta
+- Un cooperativo para jugadores/as de a partir de 6 años con partidas de 10 minutos
 - Creado por Marco Teubner, autor especializado en juegos de mesa infantiles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

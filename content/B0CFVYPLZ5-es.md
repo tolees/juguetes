@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Figura de acción: el juguete ninja Meca Elemental del Fuego de Kai, diseñado para niños y niñas de 7 años o más, tiene piernas, brazos y torso desmontables que puedes intercambiar con los de otros 2 mecas de LEGO (a la venta por separado)
+- 4 minifiguras NINJAGO: para que los niños puedan recrear las batallas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones, el set incluye a Kai, Zane y Jordana, cada uno con una espada, y a un guerrero Máscara de Lobo
 - Un universo de juguetes ninja: los sets LEGO NINJAGO contienen dragones, vehículos y templos, y transportan a los niños a un universo de fantasía lleno de aventuras con sus héroes ninja
 - Más mecas LEGO: los peques pueden intercambiar y combinar las partes del meca de Kai con las del Meca Elemental de la Tierra de Cole (71806) y el Meca Elemental Tecno de Sora (71807), a la venta por separado, para crear su juguete personalizado
-- Figura articulada: el meca de Kai cuenta con brazos y piernas articulados que puedes inclinar y girar para colocarlo en posturas de batalla, así como con una gran espada dorada para interpretar batallas contra una figura de un meca del clan Lobo
 - Construye tu propio traje robótico: los peques disfrutarán durante horas usando su creatividad para combinar las partes de estos juguetes ninja (sets a la venta por separado) para crear su propia figura de acción meca
-- 4 minifiguras NINJAGO: para que los niños puedan recrear las batallas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones, el set incluye a Kai, Zane y Jordana, cada uno con una espada, y a un guerrero Máscara de Lobo
 - Regalo divertido: este set de juego de batalla proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo de cumpleaños para niños y niñas de 7 años o más que disfrutan interpretando historias de acción
+- Figura articulada: el meca de Kai cuenta con brazos y piernas articulados que puedes inclinar y girar para colocarlo en posturas de batalla, así como con una gran espada dorada para interpretar batallas contra una figura de un meca del clan Lobo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVYPLZ5{{</world>}}

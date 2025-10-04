@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 4 SuperThings y 1 figura de Kazoom exclusivos
+- Partidas de 15 minutos
 - Juego apto para toda la familia, niños a partir de 5 años, entre 2 y 4 jugadores
 - La batalla por el Kazoom ha comenzado, Lucha contra los villanos, captúralos y rescata la preciada fuente de energía de sus malvadas manos
-- Partidas de 15 minutos
 - Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City, Descubre todas sus aventuras en el canal de YouTube de Magic Box en español
+- Contiene 4 SuperThings y 1 figura de Kazoom exclusivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B2XJB33F{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ARTICULACIÓN Y DETALLES PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir esta figura altamente articulada (cabeza, brazos y piernas articuladas) con diseño premium, en su colección
-- MOVIE-BASED CHARACTER-INSPIRED ACCESSORY: This Star Wars The Black Series action figure comes with 1 entertainment-inspired accessory that makes a great addition to any Star Wars collection (Each sold separately. Subject to availability.)
 - EMPEROR PALPATINE: Darth Sidious restored the Sith and destroyed the Jedi Order. He manipulated the political system until he was Supreme Chancellor and eventually Emperor, ruling the galaxy with fear
-- THE ARCHIVE COLLECTION: Epic figures from the Star Wars The Black Series return with the Black Series Archive 6-inch-scale action figures, featuring premium deco and design
+- MOVIE-BASED CHARACTER-INSPIRED ACCESSORY: This Star Wars The Black Series action figure comes with 1 entertainment-inspired accessory that makes a great addition to any Star Wars collection (Each sold separately. Subject to availability.)
 - COLECCIONA OTRAS FIGURAS DE UNA GALAXIA MUY, MUY LEJANA: Colecciona figuras de Star Wars The Black Series inspiradas en el entretenimiento, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
+- THE ARCHIVE COLLECTION: Epic figures from the Star Wars The Black Series return with the Black Series Archive 6-inch-scale action figures, featuring premium deco and design
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09H1M5PC6{{</world>}}

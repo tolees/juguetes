@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Kit para descubrir los secretos de la aerodinámica con más de 200 componentes y 10 modelos para armar
+- Número de jugadores: 1 o más
 - Desarrolla la imaginación y creatividad
 - Pensado, desarrollado y fabricado en Italia
-- Número de jugadores: 1 o más
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06W9KC8HZ{{</world>}}

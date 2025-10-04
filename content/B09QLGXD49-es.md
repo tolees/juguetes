@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Baja por el volcán para activar la tirolina del investigador.
-- La peligrosa fauna y los terrenos rocosos crean más obstáculos que bloquean la ruta de salida.
-- Un ascensor activado por los niños lleva los coches a la cima del volcán, donde encontrarán una serie de obstáculos mientras conducen hacia un lugar seguro. Incluye un vehículo Matchbox. Los coches adicionales se venden por separado.
 - La huida del volcán Action Drivers de Matchbox requiere que los pequeños héroes rescaten a un equipo de investigadores atrapados cerca de un volcán activo.
+- La peligrosa fauna y los terrenos rocosos crean más obstáculos que bloquean la ruta de salida.
+- Baja por el volcán para activar la tirolina del investigador.
+- Un ascensor activado por los niños lleva los coches a la cima del volcán, donde encontrarán una serie de obstáculos mientras conducen hacia un lugar seguro. Incluye un vehículo Matchbox. Los coches adicionales se venden por separado.
 - Presiona una palanca para activar las luces y sonidos de la erupción volcánica que culmina en una explosión de piedra de lava.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hawaiki es un eurogame introductorio donde gana quien tiene la mejor reputación
-- Deberás aumentar tu reputación eligiendo el mejor lugar para construir en cada isla
 - Tendrás que conseguir la mayor parte de recursos del mercado para construir cabañas sobre islas y hacer ofrendas a la Diosa del Mar
+- Deberás aumentar tu reputación eligiendo el mejor lugar para construir en cada isla
 - Podrás comerciar con otros jugadores para llegar más lejos y así ganar la partida
+- Hawaiki es un eurogame introductorio donde gana quien tiene la mejor reputación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3M5LY5D{{</world>}}

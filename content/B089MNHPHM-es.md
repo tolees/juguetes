@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - + 100 desafíos
-- Y al mismo tiempo tendrás que hacer frente a los retos más locos
 - Edad recomendada a partir de 8 años, no necesita pilas para jugar
+- Y al mismo tiempo tendrás que hacer frente a los retos más locos
 - El Doctor 4 Eyes es un juego familiar muy divertido en el que podrás probar diferentes efectos de la visión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

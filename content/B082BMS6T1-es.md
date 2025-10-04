@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Duración aproximada de la partida: 45 - 90 minutos
 - Tipo de producto: juego de mesa
 - Número de jugadores: 1 - 4
-- Juego adecuado para pasar el tiempo libre
 - Edad recomendada: 10 años y más
+- Juego adecuado para pasar el tiempo libre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082BMS6T1{{</world>}}

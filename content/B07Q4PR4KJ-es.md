@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Horas de diversión
 - Un diseño imponente con un acabado brillante
+- ¡Horas de diversión
 - Producto de gran cálidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

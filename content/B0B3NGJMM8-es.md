@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- UN JUEGO DE MESA FAMILIAR: avanza tu coche con tus cartas de kilómetros, coloca una ficha de ataque delante de tus oponentes para retrasarlos y defiéndete con la carta de defensa
 - ADECUADO PARA LOS MÁS PEQUEÑOS: las ilustraciones del juego de mesa y el peón, permiten visualizar el progreso de los coches
+- UN JUEGO DE MESA FAMILIAR: avanza tu coche con tus cartas de kilómetros, coloca una ficha de ataque delante de tus oponentes para retrasarlos y defiéndete con la carta de defensa
 - TODOS LOS MOVIMIENTOS ESTÁN PERMITIDOS: llega a los 1000 km llevando tu coche a la última casilla del tablero antes que los demás
-- REGLAS FÁCILES: en un abrir y cerrar de ojos, puedes configurar el juego y empezar a jugar con tus amigos y con tu familia
 - GANA LA CARRERA: compite con tus oponentes y sé el primero en llegar a los 1000 KM
+- REGLAS FÁCILES: en un abrir y cerrar de ojos, puedes configurar el juego y empezar a jugar con tus amigos y con tu familia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3NGJMM8{{</world>}}
