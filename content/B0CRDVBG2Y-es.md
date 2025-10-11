@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puzzle 3D
-- Juego de mesa tipo puzzle
 - Juguete educativo
+- Juego de mesa tipo puzzle
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRDVBG2Y{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La carta Roba dos Flex obliga a los demás jugadores a robar una carta. Con la carta Roba cuatro Flex, el jugador puede elegir qué persona tendrá que robar 4 cartas.
 - El juego se basa en el juego clásico, pero incluye algunos cambios especiales, como las cartas Flex que permiten a los jugadores cambiar el color de una carta.
-- La carta de poder permite a los jugadores tener más flexibilidad a la hora de cambiar el color de una carta si esta tiene un tic verde; si tiene una X de color rojo, tendrán que esperar.
-- El comodín Todos roban Flex obliga al resto de jugadores a robar 2 cartas y la carta Pierde el turno Flex salta a TODOS los jugadores.
 - ¡El juego de cartas UNO ahora es más flexible con UNO Flex!
+- La carta de poder permite a los jugadores tener más flexibilidad a la hora de cambiar el color de una carta si esta tiene un tic verde; si tiene una X de color rojo, tendrán que esperar.
 - UNO Flex está diseñado para que jueguen de 2 a 8 personas a partir de 7 años y tiene muchos camios y sorpresas, por lo que se trata de un juego divertido para reunir a familiares y amigos y pasar la noche jugando.
+- La carta Roba dos Flex obliga a los demás jugadores a robar una carta. Con la carta Roba cuatro Flex, el jugador puede elegir qué persona tendrá que robar 4 cartas.
+- El comodín Todos roban Flex obliga al resto de jugadores a robar 2 cartas y la carta Pierde el turno Flex salta a TODOS los jugadores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B5YHN3P8{{</world>}}

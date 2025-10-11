@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - La cabina se abre. Presentación tipo Diorama, con todos los detalles y totalmente funcional.
 - Incluye figura de Obi Wan Kenobi y figura de R4-P17
+- Con Anillo de super impulso extraible
 - Nave espacial de Star Wars de 13 cm con 2 figuras escala perfecta.
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- Con Anillo de super impulso extraible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3JYWKZ2{{</world>}}

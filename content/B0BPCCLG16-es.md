@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los fans de la serie de televisión NINJAGO Dragons Rising se unirán a Jay y Lloyd para vencer al General del Imperio Claw en este juguete de construcción para niños a partir de 6 años
 - Este set de construcción viene con todo lo necesario para que los niños imaginativos a partir de 6 años jueguen a las batallas del bien contra el mal de la ciudad de NINJAGO
-- El set de juego NINJAGO incluye un juguete de la criatura mítica de la bestia Photac que pude mover la cabeza, la cola y las piernas, y tiene una silla de montar para una minifigura
 - Este juguete de monstruo ninja de juguete se puede llevar a todas partes, y es un gran regalo para niños a partir de 6 años y fans de la serie de televisión NINJAGO Dragons Rising
+- Los fans de la serie de televisión NINJAGO Dragons Rising se unirán a Jay y Lloyd para vencer al General del Imperio Claw en este juguete de construcción para niños a partir de 6 años
+- El set de juego NINJAGO incluye un juguete de la criatura mítica de la bestia Photac que pude mover la cabeza, la cola y las piernas, y tiene una silla de montar para una minifigura
 - Este set viene con las mini figuras de Lloyd y Jay de LEGO NINJAGO, que están armados con 2 katanas cada uno, y una minifigura del General Claw del Imperio con una gran espada
 - La aplicación LEGO Builder guía a los niños en una aventura divertida e intuitiva de construcción, pueden guardar sets, seguir su progreso, ampliar y rotar los modelos en 3D mientras construyen
 

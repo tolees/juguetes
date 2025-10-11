@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - En Boom, participan dos equipos enfrentándose ante las Bombas
-- Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
 - Producto distribuido oficialmente en España por BIZAK.
 - El juego oficial del concurso de televisión "Boom"
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño flexible
 - Accesorios
 - Material de alta calidad
-- Diseño flexible
 - Durabilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

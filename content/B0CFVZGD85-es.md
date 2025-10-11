@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo para gamers a partir de 7 años: este pequeño set LEGO es un regalo óptimo para niños y niñas; se necesita un pack inicial LEGO Super Mario (71360, 71387 o 71403) para jugar de manera interactiva
-- Divertidos juegos de roles: pasa el rato con la familia Pingüi en la cueva, ayúdalos a deslizarse por el tobogán de hielo en el trineo o convierte el tobogán en una pista de patinaje
-- Estimula la creatividad de tu peque: los set de juguetes coleccionables LEGO Super Mario, diseñados para jugar solo o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales
 - 3 personajes LEGO Super Mario: figuras para construir con ladrillos LEGO de un Pingüi, un Pingüinito y un Goomba con un gorrito de invierno, además de 2 figuras de peces
 - App LEGO Super Mario: descarga la app, donde encontrarás las instrucciones de construcción, ideas creativas y más contenidos
 - Juguete de construcción LEGO Super Mario para niños y niñas con una figura de un Goomba: juega en una cueva de hielo, monta en trineo y patina en buena compañía con el Set de Expansión: Aventura en la Nieve de la Familia Pingüi
+- Estimula la creatividad de tu peque: los set de juguetes coleccionables LEGO Super Mario, diseñados para jugar solo o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales
+- Regalo para gamers a partir de 7 años: este pequeño set LEGO es un regalo óptimo para niños y niñas; se necesita un pack inicial LEGO Super Mario (71360, 71387 o 71403) para jugar de manera interactiva
 - Juego digital interactivo: ayuda a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) a reunir al Pingüinito con su papá, a deslizarse por el “hielo”, a derrotar al Goomba y mucho más
+- Divertidos juegos de roles: pasa el rato con la familia Pingüi en la cueva, ayúdalos a deslizarse por el tobogán de hielo en el trineo o convierte el tobogán en una pista de patinaje
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVZGD85{{</world>}}

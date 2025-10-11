@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado por Ted Raicer, uno de los autores de wargames más reputados, también autor de De Barbarrosa a Berlín
 - Una edición de Senderos de Gloria que incorpora todas estas optimas: tablero en doble cara con una versión más realista, cartas opcionales y reglamento optimizado
+- Diseñado por Ted Raicer, uno de los autores de wargames más reputados, también autor de De Barbarrosa a Berlín
 - El juego definitivo sobre la Primera Guerra Mundial, actualmente en el Top 3 de Wargames de la BGG
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

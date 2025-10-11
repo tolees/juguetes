@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: 4 superhéroes con soportes, 7 cartas de villanos, 1 spinner, 1 flecha para el spinner, 4 cartas marcapuntos, 22 fichas Thwip, 4 telarañas pegajosas e instrucciones
-- Valores: desarrolla la socialización y fomenta el aprendizaje de reglas
-- Edad: recomendado a partir de 6 años
 - Defiende a tus superhéroes favoritos de los villanos con el juego de mesa Defence Game de Spider-Man
 - Jugadores: juego pensado de 2 a 4 jugadores que podrán tomar los roles de Spider-Man, Spider Fantasma, Spider-Girl y Miles Morales
+- Valores: desarrolla la socialización y fomenta el aprendizaje de reglas
+- Incluye: 4 superhéroes con soportes, 7 cartas de villanos, 1 spinner, 1 flecha para el spinner, 4 cartas marcapuntos, 22 fichas Thwip, 4 telarañas pegajosas e instrucciones
+- Edad: recomendado a partir de 6 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBSP9G4G{{</world>}}

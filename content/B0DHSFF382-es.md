@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Idea de regalo LEGO Harry Potter para niñas y niños mayores de 8 años: Este juego de fantasía es un divertido regalo de cumpleaños para niños y niñas imaginativos o para cualquiera que esté empezando a descubrir el universo Harry Potter
 - 3 minifiguras LEGO Harry Potter para añadir a la colección: Minifiguras de los personajes Ron Weasley, Hermione Granger y el Profesor Flitwick para aumentar la diversión con el juego de rol
-- Juguete de magia al más puro estilo Harry Potter: Recrea una hechizante escena de Harry Potter y La Piedra Filosofal con el juguete de construcción LEGO Harry Potter Castillo de Hogwarts: Clase de Encantamientos
+- Idea de regalo LEGO Harry Potter para niñas y niños mayores de 8 años: Este juego de fantasía es un divertido regalo de cumpleaños para niños y niñas imaginativos o para cualquiera que esté empezando a descubrir el universo Harry Potter
 - Aula de juguete de la saga Harry Potter: El aula se despliega para jugar con comodidad y cuenta con una función de encantamiento Wingardium Leviosa para hacer levitar una pluma, además de con pupitres desmontables y una pizarra con instrucciones
+- Juguete de magia al más puro estilo Harry Potter: Recrea una hechizante escena de Harry Potter y La Piedra Filosofal con el juguete de construcción LEGO Harry Potter Castillo de Hogwarts: Clase de Encantamientos
 - 1 de los 14 cuadros de Hogwarts para añadir a la colección de Harry Potter: El juguete LEGO Harry Potter inspirado en el Club de Duelo incluye 1 cuadro de Hogwarts (aleatorio, de los 14 que forman la colección) para exponerlo en el aula
 
 [🛒 Visítala!!!]({{< param buyurl >}})

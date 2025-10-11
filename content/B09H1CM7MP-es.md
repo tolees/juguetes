@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BOBA FETT (TATOOINE): Conocido como uno de los cazarrecompensas más temibles y competentes de la galaxia, Boba Fett aparentemente llegó a su fin en el pozo de Sarlacc en Tatooine. Sobreviviente por naturaleza, Fett logró escapar para continuar en la lucha
-- EMBALAJE ESPECIAL Y FIGURAS DE LUJO: Esta figura Star Wars de la colección Vintage a escala de 9,5 cm de Boba Fett (Tatooine) viene en embalaje con diseño especial y con el logotipo original de Kenner
 - FIGURA CLÁSICA DE STAR WARS: Esta figura de acción está inspirada en el personaje de la serie Star Wars: The Book of Boba Fett, y es el regalo perfecto para cualquier fan o coleccionista de Star Wars a partir de 4 años
+- EMBALAJE ESPECIAL Y FIGURAS DE LUJO: Esta figura Star Wars de la colección Vintage a escala de 9,5 cm de Boba Fett (Tatooine) viene en embalaje con diseño especial y con el logotipo original de Kenner
 - ACCESORIOS INSPIRADOS EN EL PERSONAJE DE LA PELÍCULA: Esta figura de acción de la colección Vintage de Star Wars vienen con 9 accesorios inspirados en la serie, incluyendo mochila-propulsora removible y efectos de combate, que hacen de la figura una gran adición a toda colección Star Wars
+- BOBA FETT (TATOOINE): Conocido como uno de los cazarrecompensas más temibles y competentes de la galaxia, Boba Fett aparentemente llegó a su fin en el pozo de Sarlacc en Tatooine. Sobreviviente por naturaleza, Fett logró escapar para continuar en la lucha
 - DISEÑO DE LUJO Y ARTICULACIÓN PREMIUM: Figuras altamente articuladas para que las coloques en poses. Diseño y decorado de lujo con más detalles que las figuras estándar de la colección Vintage. Ideales para exhibirlas en toda colección de Star Wars
 
 [🛒 Visítala!!!]({{< param buyurl >}})

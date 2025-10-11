@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - A partir de 8 años de edad.
-- Pero cuidado: ¡la avaricia rompe la bolsa! Y lo mejor de todo es que las rondas duran solo unos minutos.
-- Un juego divertido en el que afrontas grandes decisiones
-- Para conseguir la mayor cantidad de puntos al final de cada ronda.
 - De 2 a 5 jugadores.
+- Un juego divertido en el que afrontas grandes decisiones
+- Pero cuidado: ¡la avaricia rompe la bolsa! Y lo mejor de todo es que las rondas duran solo unos minutos.
+- Para conseguir la mayor cantidad de puntos al final de cada ronda.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HC1PH6B{{</world>}}

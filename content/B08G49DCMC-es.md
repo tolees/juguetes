@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
-- Edad recomendada por el fabricante: 7+
-- Party Llama BeatBox
-- Número de piezas: 82
 - Los niños podrán dirigir, producir y protagonizar sus propios vídeos musicales en un abrir y cerrar de ojos con la app gratuita de realidad aumentada LEGO VIDIYO Creador de Vídeos Musicales
+- Party Llama BeatBox
+- Edad recomendada por el fabricante: 7+
+- Número de piezas: 82
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08G49DCMC{{</world>}}

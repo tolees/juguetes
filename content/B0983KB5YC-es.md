@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juego de mesa de Stranger Things para toda la familia, fabricado en Italia.
 - Cada jugador representa a un personaje de la serie, y cada uno tendrá sus propios poderes y méritos; pero todos comparten la misma misión: resolver el misterio detrás del personaje de Eleven y liberar a Hawkins del villano de Up-Side Down.
-- Un juego de cartas cooperativo de cartas de Stranger Things, para jugar a este juego de mesa toda la familia.
-- Cada carta representa distintas áreas, tramas, objetos y enemigos.
+- Un juego de mesa de Stranger Things para toda la familia, fabricado en Italia.
 - Cada jugador, y todos en equipo, serán desafiados para conseguir derrotar el villano de Ud-Side Down.
+- Cada carta representa distintas áreas, tramas, objetos y enemigos.
+- Un juego de cartas cooperativo de cartas de Stranger Things, para jugar a este juego de mesa toda la familia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0983KB5YC{{</world>}}

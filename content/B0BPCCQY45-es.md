@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- También hay una pequeña caja registradora, una mesa y accesorios para tarjetas de menú, además de una bonita figura del conejito de juguete Melody escondida debajo de un arbusto
-- Este juguete de comida incluye a las adorables mini muñecas LEGO Friends de Luna y Paisley; los niños aprenden a construir mientras juegan y conocen a los personajes y sus diferentes personalidades
 - El Puesto de Tortitas de LEGO Friends para niñas y niños de 6 años en adelante incluye una pequeña cafetería, 2 mini muñecas, una figura de conejito y montones de accesorios para la diversión creativa
+- También hay una pequeña caja registradora, una mesa y accesorios para tarjetas de menú, además de una bonita figura del conejito de juguete Melody escondida debajo de un arbusto
 - Los niños podrán jugar a hacer tortitas con la batidora de alimentos que gira, la olla y los diferentes ingredientes, luego podrán servir a los clientes en la zona de asientos al aire libre
+- Este juguete de comida incluye a las adorables mini muñecas LEGO Friends de Luna y Paisley; los niños aprenden a construir mientras juegan y conocen a los personajes y sus diferentes personalidades
 - Alimenta la imaginación de los peques con este juguete creativo para niños y niñas de 6 años en adelante; será un gran regalo como detalle de cumpleaños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

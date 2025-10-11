@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este juguete de construcción para niños de 5 años o más también incluye 6 mini figuras LEGO NINJAGO para entrenar de Kai, Nya, el maestro Wu, aprendices femeninos y masculinos, y un Cazador Huesos, cada uno equipado con accesorios de armas
-- Este set de construcción de LEGO NINJAGO cuenta con una caja de almacenamiento de juguetes y un montón de piezas para que los peques construyan un dojo ninja, un centro de entrenamiento, vehículos y todo aquello que imaginen
-- Y no sólo eso, los niños también podrán construir un coche de juguete, una moto ninja o un arsenal repleto de accesorios y armas con los que podrán jugar a escapar y atacar, al más puro estilo LEGO NINJAGO
 - El set de 350 piezas tiene elementos para construir una carrera de obstáculos con 3 estaciones interactivas, hay 2 sacos de boxeo giratorios, una figura de un maniquí de entrenamiento armado y troncos escalonados
 - Este set de LEGO NINJAGO permite a los peques inventar su propias historias con geniales vehículos de juguetes y personajes, será un fabuloso regalo de cumpleaños o en cualquier ocasión para niños y niñas amantes de los juegos creativos
 - Para más descubre la app LEGO Builder, con herramientas digitales con las que acercar y rotar modelos en 3D, realizar un seguimiento del progreso y guardar sets a medida que desarrollan nuevas habilidades
+- Este set de construcción de LEGO NINJAGO cuenta con una caja de almacenamiento de juguetes y un montón de piezas para que los peques construyan un dojo ninja, un centro de entrenamiento, vehículos y todo aquello que imaginen
+- Este juguete de construcción para niños de 5 años o más también incluye 6 mini figuras LEGO NINJAGO para entrenar de Kai, Nya, el maestro Wu, aprendices femeninos y masculinos, y un Cazador Huesos, cada uno equipado con accesorios de armas
+- Y no sólo eso, los niños también podrán construir un coche de juguete, una moto ninja o un arsenal repleto de accesorios y armas con los que podrán jugar a escapar y atacar, al más puro estilo LEGO NINJAGO
 - La Caja Ninja de Ladrillos Creativos incluye sugerencias de construcción y divertidos diseños para que los peques se inspiren y construyan sus propios edificios y vehículos, después podrán usar la caja para almacenarlos y recoger rápidamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

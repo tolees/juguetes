@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Duración 15 minutos
 - Un juego de dados y confusión
-- Premio Kinderspiel des Jahres 2004 (Kritikerpreis)
-- A partir de 4 años
+- Duración aproximada de la partida 10-15 min
 - Idiomas: español, catalán y portugués
 - Premio Kinderspiel des Jahres 2004 (Kritikerpreis)
+- Premio Kinderspiel des Jahres 2004 (Kritikerpreis)
 - De 2 a 4 jugadores
-- Duración 15 minutos
-- Duración aproximada de la partida 10-15 min
+- A partir de 4 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DW6K9K0{{</world>}}
