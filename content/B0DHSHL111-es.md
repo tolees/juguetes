@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 animales medievales de juguete en 1 caja: El set LEGO Creator 3 en 1 Dragón Medieval para niños y niñas a partir de 9 años les permite construir y reconstruir 3 animales de juguete de fantasía diferentes con los mismos ladrillos
-- Animales medievales para jugar y exponer: El ave fénix viene con una base para construir y el dragón de juguete o la serpiente pueden exponerse como decoración del dormitorio en un estante o en la mesita de noche después de jugar
 - Dragón de juguete como regalo para niños y niñas de 9 años o más: Este juguete LEGO Creator 3 en 1, idóneo como regalo, proporciona a los fans de los animales míticos una envolvente experiencia de construcción y juego
+- Animales medievales para jugar y exponer: El ave fénix viene con una base para construir y el dragón de juguete o la serpiente pueden exponerse como decoración del dormitorio en un estante o en la mesita de noche después de jugar
 - Figuras articuladas de criaturas míticas: Los 3 detallados animales de juguete medievales cuentan con partes del cuerpo articuladas para que los peques los coloquen en diferentes posiciones mientras practican el juego imaginativo
 - Infinitas opciones de juego: Los peques podrán interpretar historias medievales con una figura de un dragón, una serpiente marina de juguete o un ave fénix de juguete (los modelos de estas 3 criaturas míticas no se pueden construir simultáneamente)
 

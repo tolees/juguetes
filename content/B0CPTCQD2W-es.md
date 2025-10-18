@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Como siempre, los jugadores tienen que gritar “¡UNO!” cuando les quede una sola carta.
-- Todas las reglas obligan a los jugadores a “hacer” algo, como “imitar a una vaca”, “levantarse” o “tocarse la nariz”, y el último jugador que lo haga debe robar una carta.
 - ¡Puede haber hasta cinco reglas activas a la vez!
-- Es un regalo estupendo para darle un toque especial a las noches en familia, las noches de juegos y las fiestas.
-- La carta “Cambiar el juego” es la única forma de cambiar una regla activa.
+- Como siempre, los jugadores tienen que gritar “¡UNO!” cuando les quede una sola carta.
 - ¡El juego de cartas UNO Reglas personalizadas permite a los jugadores inventarse sus propias reglas mientras juegan!
+- Todas las reglas obligan a los jugadores a “hacer” algo, como “imitar a una vaca”, “levantarse” o “tocarse la nariz”, y el último jugador que lo haga debe robar una carta.
+- La carta “Cambiar el juego” es la única forma de cambiar una regla activa.
+- Es un regalo estupendo para darle un toque especial a las noches en familia, las noches de juegos y las fiestas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPTCQD2W{{</world>}}

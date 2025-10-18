@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su diseño fino y moderno ocupa menos espacio
 - Los indicadores LED se mueven durante la carga y permanecen fijos para indicar que esta ha terminado
 - Carga rápida con el adaptador de CA incluido
+- Su diseño fino y moderno ocupa menos espacio
 - Los mandos se deslizan en su sitio con una sola mano: soltar y cargar
 - Hasta 20 horas jugando con una sola carga
 

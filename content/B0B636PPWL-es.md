@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sello de cierre personalizado Back the Future
 - Bicycle y Universal Pictures han colaborado para presentar una baraja inspirada en la querida película de 1985, ¡Regreso al futuro! Esta baraja combina la identidad visual de esta icónica película con elementos tradicionales de naipes para crear una baraja única y coleccionable que encantará a los fanáticos de las cartas y las películas.
+- Sello de cierre personalizado Back the Future
 - Esta baraja ofrece una experiencia verdaderamente premium, que vale la pena agregar a cualquier colección.
 - Estuche de diseño intrincado con láminas plateadas y azul cobalto y detalles en relieve.
 - Las figuras están diseñadas a medida y muestran personajes de la película.

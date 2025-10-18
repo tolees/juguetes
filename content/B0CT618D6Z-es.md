@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTE JUEGO DE TABOO NO ES PARA NIÑOS: Este juego Taboo Sin Censura, para mayores de 17 años, pone lo "prohibido" en las palabras prohibidas para un juego divertido solo para adultos que revelará mucho sobre tus amigos. Tal vez demasiado.
-- COMO EL TABOO CLÁSICO, PERO CON CONTENIDO PICANTE: Haz que tu equipo adivine la palabra. Di lo que quieras (¡bip!) Solo asegúrate de no decir ninguna de las palabras Taboo, o el otro equipo te pillará
 - EL JUEGO TABOO PARA ADULTOS: Cultura pop. NSFW. Risas incontrolables. Paquete pequeño. Juego de fiesta. La respuesta es... ¡el juego Taboo Sin Censura! Es el juego de lo que no se puede decir... bueno, es tan indescriptible que ni siquiera podemos decirlo
+- ESTE JUEGO DE TABOO NO ES PARA NIÑOS: Este juego Taboo Sin Censura, para mayores de 17 años, pone lo "prohibido" en las palabras prohibidas para un juego divertido solo para adultos que revelará mucho sobre tus amigos. Tal vez demasiado.
 - MEJORA EL JUEGO CON HERRAMIENTAS ONLINE GRATUITAS: Escanea el código QR incluido para jugar con el timbre, el temporizador y la pizarra de puntuaciones virtuales, o usa el pito y el reloj de arena incluidos. Es un excelente juego de viaje
+- COMO EL TABOO CLÁSICO, PERO CON CONTENIDO PICANTE: Haz que tu equipo adivine la palabra. Di lo que quieras (¡bip!) Solo asegúrate de no decir ninguna de las palabras Taboo, o el otro equipo te pillará
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CT618D6Z{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte de la colección LEGO Star Wars: Reconstruye la Galaxia: descubre los sets Caza TIE y Ala-X Fusionados (75393) y Caza Estelar del Jedi Bob (75388), a la venta por separado
-- Juguetes de construcción coleccionables para todas las edades: los sets LEGO Star Wars permiten a los niños y los fans adultos de Star Wars recrear escenas clásicas, inventar sus propias aventuras o, simplemente, exponer las maquetas de construcción
-- 6 minifiguras LEGO Star Wars: Darth Jar Jar, C-3PO Cazarrecompensas, Darth Dev, Darth Rey, Luke Playero y el Jedi Vader, además de espadas láser de juguete, un cartón de leche azul y más accesorios
 - Divertido regalo para niños y niñas de 10 años o más: un juego LEGO con una nave estelar para construir idónea como regalo de cumpleaños para niños, niñas y cualquier fan de Star Wars de 10 años en adelante
+- Juguetes de construcción coleccionables para todas las edades: los sets LEGO Star Wars permiten a los niños y los fans adultos de Star Wars recrear escenas clásicas, inventar sus propias aventuras o, simplemente, exponer las maquetas de construcción
 - Juguete infantil LEGO Star Wars con nave estelar: construye el Halcón Oscuro, una versión oscura del Halcón Milenario tal y como aparece en el especial de Disney+ Reconstruye la Galaxia para poner el universo patas arriba
-- El Halcón Oscuro construido con ladrillos LEGO: está equipado con cabina desmontable para 2 minifiguras LEGO, 2 cañones automáticos, 2 cañones giratorios, un puesto de artillería para 2 minifiguras LEGO y una antena parabólica
+- 6 minifiguras LEGO Star Wars: Darth Jar Jar, C-3PO Cazarrecompensas, Darth Dev, Darth Rey, Luke Playero y el Jedi Vader, además de espadas láser de juguete, un cartón de leche azul y más accesorios
+- Parte de la colección LEGO Star Wars: Reconstruye la Galaxia: descubre los sets Caza TIE y Ala-X Fusionados (75393) y Caza Estelar del Jedi Bob (75388), a la venta por separado
 - Fácil acceso a la nave estelar: levanta uno de los paneles superiores para jugar en el detallado interior, que incluye un trono desmontable para Darth Jar Jar, centro de mando, hiperpropulsor, literas, una zona de entretenimiento y celda de reclusión
+- El Halcón Oscuro construido con ladrillos LEGO: está equipado con cabina desmontable para 2 minifiguras LEGO, 2 cañones automáticos, 2 cañones giratorios, un puesto de artillería para 2 minifiguras LEGO y una antena parabólica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FX31{{</world>}}

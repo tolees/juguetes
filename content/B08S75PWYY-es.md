@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño Puzzle: 3 Puzzle 18x18 cm
 - Tres Puzzles de 49 piezas para entrar en el mundo de Raya
 - Para niños a partir de 5 años
+- Tamaño Puzzle: 3 Puzzle 18x18 cm
 - Tamaño caja: 28x19x4 cm
 - Los puzzle de Ravensburger desarrollan habilidades de concentración y creatividad, son un pasatiempo óptimo para relajarse solo o en compañía y una idea genial para un regalo especial
 

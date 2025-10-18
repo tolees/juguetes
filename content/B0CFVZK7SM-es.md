@@ -30,11 +30,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sets LEGO Star Wars para adultos: desde una galaxia muy, muy lejana hasta tu hogar, los sets de construcción LEGO Star Wars para adultos se han diseñado para personas como tú que disfrutan con actividades creativas y relajantes
 - Detallada maqueta LEGO Star Wars en formato de diorama para construir y exponer: captura un momento de la carrera de vainas de Mos Espa en Star Wars: La Amenaza Fantasma con este kit de maqueta de construcción para adultos
-- Instrucciones de construcción 3D: con la app LEGO Builder, puedes acercar y girar una versión 3D digital de este modelo a medida que lo construyes, así como seguir tus progresos y mucho más
 - Construye tu colección: este set pertenece a una serie de maquetas LEGO Star Wars en formato de diorama para construir y coleccionar (a la venta por separado) que representan inolvidables momentos de la saga Star Wars
-- Vainas de carreras Star Wars construidas con ladrillos: este exclusivo diorama contiene modelos LEGO fielmente detallados de la vaina de carreras de Anakin Skywalker y la de su rival, Sebulba
+- Instrucciones de construcción 3D: con la app LEGO Builder, puedes acercar y girar una versión 3D digital de este modelo a medida que lo construyes, así como seguir tus progresos y mucho más
 - Creado como pieza de exposición: el set reproduce el tramo del Cañón del Arco del circuito de carreras de vainas de Mos Espa en Tatooine; también incluye un ladrillo por el 25 aniversario de LEGO Star Wars y una placa con una cita de Qui-Gon Jinn
 - Regalo para adultos inspirado en Star Wars: date el gusto de tener esta maqueta de primera calidad o regálaselo a otro fan de Star Wars o a un coleccionista de dioramas LEGO Star Wars
+- Vainas de carreras Star Wars construidas con ladrillos: este exclusivo diorama contiene modelos LEGO fielmente detallados de la vaina de carreras de Anakin Skywalker y la de su rival, Sebulba
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CFVZK7SM{{</world>}}

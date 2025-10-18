@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayuda digital para construir tu nave estelar LEGO Star Wars: con la app LEGO Builder, puedes consultar instrucciones 3D para crear los modelos, seguir tus progresos, guardar todos tus sets en un mismo lugar e incluso construir en compañía
-- Modelo coleccionable del Halcón Milenario para construir y exponer: disfruta recordando escenas clásicas mientras construyes con ladrillos LEGO una recreación a escala media de la nave estelar más famosa del universo Star Wars
-- Desde una galaxia muy, muy lejana hasta tu hogar: los sets LEGO Star Wars coleccionables para adultos se diseñan para personas como tú que disfrutan relajándose con proyectos de construcción absorbentes y creativos que favorecen la concentración
 - Regalo para coleccionistas de recuerdos y fans de Star Wars: esta nave estelar de construcción LEGO para adultos, con 921 piezas, es un óptimo autorregalo o un regalo de cumpleaños idóneo para todo apasionado de Star Wars
 - Parte de la Colección de Naves Estelares LEGO Star Wars: esta maqueta de construcción pertenece a una serie coleccionable de modelos de escala media inspirados en emblemáticas naves estelares de la saga Star Wars
 - Un vehículo de Star Wars con fieles detalles: recrea al estilo LEGO las icónicas características del Halcón Milenario que aparece en Star Wars: Una Nueva Esperanza, como la cabina, la antena parabólica y los cañones
+- Desde una galaxia muy, muy lejana hasta tu hogar: los sets LEGO Star Wars coleccionables para adultos se diseñan para personas como tú que disfrutan relajándose con proyectos de construcción absorbentes y creativos que favorecen la concentración
+- Ayuda digital para construir tu nave estelar LEGO Star Wars: con la app LEGO Builder, puedes consultar instrucciones 3D para crear los modelos, seguir tus progresos, guardar todos tus sets en un mismo lugar e incluso construir en compañía
+- Modelo coleccionable del Halcón Milenario para construir y exponer: disfruta recordando escenas clásicas mientras construyes con ladrillos LEGO una recreación a escala media de la nave estelar más famosa del universo Star Wars
 - Diseñado como pieza de exposición y decoración del hogar: la base construible incorpora una placa identificativa y un ladrillo conmemorativo del 25 aniversario de LEGO Star Wars, y permite colocar el Halcón Milenario en ángulo para aportar dinamismo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

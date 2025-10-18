@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Es compatible con el resto de la colección por lo que podrás llevar al rest de la familia.
-- Junto a Bandit, recoge a Bingo y a Bluey del cole para dejar a sus amigos boquiabiertos con el coche tan molón.
-- Recrea las aventuras de la serie con este súper vehículo de Bluey. La familia Heeler más molona.
 - Incluye una figura de Bluey, 2 batidos de zumo y una bandeja para que no se les caiga en el coche
 - ¡Nuevo vehículo de Bluey y su familia! El descapotable más guay.
+- Recrea las aventuras de la serie con este súper vehículo de Bluey. La familia Heeler más molona.
+- Junto a Bandit, recoge a Bingo y a Bluey del cole para dejar a sus amigos boquiabiertos con el coche tan molón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CT3HNGPV{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- Great Party Game - Players aged 6 and up will have a lot of fun keeping their hands and feet on the carpet. It is a fun and active game that is perfect for parties and family gatherings
 - Team game: the instructions of the Twister game contain the rules for playing teams and Tips for a twister - Tournament.
+- Great Party Game - Players aged 6 and up will have a lot of fun keeping their hands and feet on the carpet. It is a fun and active game that is perfect for parties and family gatherings
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - The Twister Game Challenges Kids:The twister game challenges players to put hands and feet on the carpet in different positions without falling
 
 [🛒 Aquí!!!]({{< param buyurl >}})

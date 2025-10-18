@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
 - ASPECTOS EDUCATIVOS: Atención y memoria, Juegos de rol y Exploración y descubrimiento.
+- ¡CUIDEMOS DEL PLANETA! En VTech trabajamos para reducir nuestro impacto medioambiental, como parte de un enfoque eco-responsable.
 - ✅ VERSIÓN ESPAÑOLA. Libro educativo de Bluey, Juguete para niños +3 años.
 - ¡7 JUEGOS INTERACTIVOS DE BLUEY! Jugando con Bluey y Bingo, ¡Música!, ¡Sígueme!, Juegos de Bluey, Escucha a Bluey, Botones de familia y Botones de luces.
 - Pasa las páginas del libro para divertirte con los juegos inventados por Bluey y Bingo SIMULANDO ACCIONES DE LA VIDA REAL. Juega con ellas en las 4 actividades del libro, toca sus botones ¡y descubre muchas sorpresas en cada página!

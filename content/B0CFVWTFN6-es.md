@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coche con 1 minifigura LEGO: el coche McLaren para construir incluye una minifigura LEGO de un piloto con casco, peluca y llave inglesa que los niños pueden colocar al volante para simular veloces carreras de F1 en el circuito
-- Modelos de coches emblemáticos para jugar y exponer: los juguetes de construcción LEGO Speed Champions permiten a los peques y los fans del motor construir fieles versiones de algunos de los vehículos más icónicos del mundo
+- Maqueta de exposición LEGO: después de competir con su coche F1 de juguete en circuitos imaginarios, los peques pueden exponerlo como decoración con orgullo en un estante o en la mesita de noche
 - Vehículo McLaren de juguete: descubre el set LEGO Speed Champions Coche de Carreras de Fórmula 1 McLaren 2023, diseñado para niños y niñas a partir de 9 años, fans de la F1 y amantes de la emblemática marca
+- Modelos de coches emblemáticos para jugar y exponer: los juguetes de construcción LEGO Speed Champions permiten a los peques y los fans del motor construir fieles versiones de algunos de los vehículos más icónicos del mundo
 - Genuinos detalles de McLaren: la maqueta Coche de Carreras de Fórmula 1 McLaren 2023 cuenta con los colores distintivos negro y papaya, los logotipos de los patrocinadores del equipo, ruedas con el nombre de Pirelli y el halo de seguridad papaya
 - Amplía las aventuras automovilísticas: hay más coches LEGO Speed Champions con detalles de gran realismo, descúbrelos (sets a la venta por separado)
+- Coche con 1 minifigura LEGO: el coche McLaren para construir incluye una minifigura LEGO de un piloto con casco, peluca y llave inglesa que los niños pueden colocar al volante para simular veloces carreras de F1 en el circuito
 - Un regalo óptimo de F1: además de proporcionar una divertida experiencia de construcción y juego, el coche de carreras es un gran regalo para niños y niñas a partir de 9 años o coleccionistas de maquetas de coches adultos
-- Maqueta de exposición LEGO: después de competir con su coche F1 de juguete en circuitos imaginarios, los peques pueden exponerlo como decoración con orgullo en un estante o en la mesita de noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTFN6{{</world>}}

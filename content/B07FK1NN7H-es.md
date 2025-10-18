@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Lanza y empapa en un instante con el lanzador de agua Super Soaker Piranha
 - Capacidad para 177 mililitros de agua
-- Edad recomendada: 6 años en adelante
 - Llena el tanque y aprieta el gatillo para empapar a tus oponentes
+- Edad recomendada: 6 años en adelante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FK1NN7H{{</world>}}

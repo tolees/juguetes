@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El famoso personaje de Harry Potter es el protagonista de este juego de efecto sorprendente, para divertirse construyendo e inventando posibles soluciones y escenarios de juego.
-- Al fijar las cadenas a la estructura para sujetar a Buckbeak, el niño experimenta cómo la tensión actúa para crear una integridad estructural, de tal modo que el hipogrifo parece flotar en el aire.
-- Al montar los diferentes componentes, el niño puede ver de forma concreta qué escenarios pueden cobrar vida a partir de sus construcciones, dando forma a las ideas con sus propias manos.
 - El mundo de fantasía de Harry Potter cobra vida con una maqueta que construir para descubrir el nuevo principio constructivo que arrasa en la red: la tensegridad.
+- Al fijar las cadenas a la estructura para sujetar a Buckbeak, el niño experimenta cómo la tensión actúa para crear una integridad estructural, de tal modo que el hipogrifo parece flotar en el aire.
 - ¡Un Hipogrifo encadenado que quiere alzar el vuelo crea una ilusión óptica que construir! El hipogrifo parece flotar en el aire por efecto de la tensegridad.
+- Al montar los diferentes componentes, el niño puede ver de forma concreta qué escenarios pueden cobrar vida a partir de sus construcciones, dando forma a las ideas con sus propias manos.
+- El famoso personaje de Harry Potter es el protagonista de este juego de efecto sorprendente, para divertirse construyendo e inventando posibles soluciones y escenarios de juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B31YZ99R{{</world>}}

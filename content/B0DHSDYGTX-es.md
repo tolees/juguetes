@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo para niños y niñas de 6 años o más: Este pequeño juguete ninja LEGO para jugar y construir es una óptima idea de regalo para niños y niñas a partir de 6 años con pasión por la serie LEGO NINJAGO y los juegos ninjas
 - 3 minifiguras LEGO NINJAGO: Este juguete de construcción LEGO viene con Zane en una armadura inédita, con Wyldfyre con catana de juguete y con el Maestro del Enjambre Drix para que los fans de los ninja puedan interpretar emocionantes batallas
-- Juguete LEGO NINJAGO basado en el juego de roles: Con la Armadura Robótica de Combate de Zane, los niños y las niñas a partir de 6 años pueden recrear las escenas de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones
 - Armas de juguete: Cada personaje del universo NINJAGO en formato de minifigura tiene un elemento que representa un arma para maximizar las posibilidades de juego (Zane tiene 2 shurikens, Wyldfyre tiene una catana de cristal y Drix tiene 2 hoces)
 - Juego ninja con meca LEGO: La Armadura Robótica de Combate de Zane cuenta con brazos, piernas y manos articulados, parte superior del cuerpo que gira 360 grados, pecho que se abre para colocar una minifigura dentro y 2 grandes espadas
+- Regalo para niños y niñas de 6 años o más: Este pequeño juguete ninja LEGO para jugar y construir es una óptima idea de regalo para niños y niñas a partir de 6 años con pasión por la serie LEGO NINJAGO y los juegos ninjas
+- Juguete LEGO NINJAGO basado en el juego de roles: Con la Armadura Robótica de Combate de Zane, los niños y las niñas a partir de 6 años pueden recrear las escenas de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSDYGTX{{</world>}}

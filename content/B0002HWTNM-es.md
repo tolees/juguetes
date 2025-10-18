@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - GraviTrax es la pista de canicas del futuro de Ravensburger para niños y niñas a partir de 8 años. Es el punto de partida ideal para un emocionante universo de pistas, ¡todas diferentes e impresionantes
 - ¡Treinta retos emocionantes guiados por las cartas de reto!
-- ¡Los 27 componentes, entre ellos, el accesorio Hammer, 4 módulos de altura, 7 curvas, 1 cruce, 1 canica y muchos más pueden utilizarse en todas las pistas de GraviTrax!
-- GraviTrax es un juego de construcción STEM con el que podrás dar rienda suelta a tu creatividad construyendo un fantástico mundo de pistas. La posibilidad de construir pistas de diferentes niveles de dificultad hace que GraviTrax sea divertido y las piezas adicionales, como las expansiones y los accesorios, aumentan la diversión
 - GraviTrax es un juego innovador y educativo que permite a niños y adultos aprender sobre la gravedad, la cinética y el magnetismo mientras se divierten construyendo sus propias pistas y recorridos
+- GraviTrax es un juego de construcción STEM con el que podrás dar rienda suelta a tu creatividad construyendo un fantástico mundo de pistas. La posibilidad de construir pistas de diferentes niveles de dificultad hace que GraviTrax sea divertido y las piezas adicionales, como las expansiones y los accesorios, aumentan la diversión
+- ¡Los 27 componentes, entre ellos, el accesorio Hammer, 4 módulos de altura, 7 curvas, 1 cruce, 1 canica y muchos más pueden utilizarse en todas las pistas de GraviTrax!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0002HWTNM{{</world>}}

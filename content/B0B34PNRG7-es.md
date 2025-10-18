@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK.
-- Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
-- En Boom, participan dos equipos enfrentándose ante las Bombas
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - El juego oficial del concurso de televisión "Boom"
+- Producto distribuido oficialmente en España por BIZAK.
+- En Boom, participan dos equipos enfrentándose ante las Bombas
+- Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B34PNRG7{{</world>}}

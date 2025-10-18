@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Explore nuestra gama de productos
 - STAR WARS BL ARCHIVE WOBURN
+- Explore nuestra gama de productos
 - Muy conveniente
 - Nos fijamos estándares de calidad extremadamente altos y un gran espíritu de iniciativa en la investigación y el desarrollo de materias primas y proveedores.
 

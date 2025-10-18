@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una experiencia única
-- Obtendras mucha diversión
 - Accesible para todos
+- Obtendras mucha diversión
+- Una experiencia única
 - Excelentes gráficos
 - Personajes variados con una historia interesante
 

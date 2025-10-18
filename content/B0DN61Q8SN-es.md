@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Preparados, listos… ¡a dibujar! Un jugador mira la pista en la Pic-Tato y empieza a dibujar.
 - ¡Tanto niños y niñas como adultos y familias lo pasarán en grande con este juego rápido Pictionary Pic-Tato!
 - En este juego repleto de diversión, el jugador que primero adivine la pista consigue la tarjeta, que puede valer 1 o 2 puntos. ¡El jugador que más puntos tenga al final del juego gana!
-- Cuando un jugador adivina la pista, hay que descartarla y pulsar el botón de la Pic-Tato para que indique en qué sentido hay que pasarla. ¡Sigue dibujando y adivinando hasta que se acabe el tiempo!
 - El Pictionary Pic-Tato es un juego similar al de la patata caliente en el que los jugadores dibujan, adivinan y pasan de turno rápidamente mientras suena la música. ¡Si te pillan con la Pic-Tato, perderás todos tus puntos!
+- Cuando un jugador adivina la pista, hay que descartarla y pulsar el botón de la Pic-Tato para que indique en qué sentido hay que pasarla. ¡Sigue dibujando y adivinando hasta que se acabe el tiempo!
 - ¡Guarda el juego con facilidad! Todos los componentes del juego caben en la Pic-Tato, por lo que es ideal para viajar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

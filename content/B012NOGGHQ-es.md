@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye folleto coleccionable que contiene información sobre el diseño, arquitectura e historia de los edificios. Los modelos LEGO Architecture son compatibles con todos los juegos LEGO para la construcción creativa y son grandes regalos de cumpleaños para él o ella, regalos de aniversario para un marido o esposa, o regalo especial para ti mismo
 - Este maravilloso kit de construcción de modelos se centra en la increíble diversidad arquitectónica de una de las ciudades más dinámicas del mundo
-- El kit de modelo para adultos para construir cuenta con los edificios Flatiron, Chrysler, Empire State y One World Trade Center y mide 26 cm de alto, 25 cm de ancho y 4 cm de profundidad
+- Incluye folleto coleccionable que contiene información sobre el diseño, arquitectura e historia de los edificios. Los modelos LEGO Architecture son compatibles con todos los juegos LEGO para la construcción creativa y son grandes regalos de cumpleaños para él o ella, regalos de aniversario para un marido o esposa, o regalo especial para ti mismo
 - Construye un modelo detallado del horizonte de la ciudad de Nueva York, incluyendo u estatua de la libertad en miniatura, además de u base de azulejos de 4 x 32 pulgadas y una placa de identificación decorativa con este juego LEGO para adultos
 - Captura la esencia arquitectónica de la ciudad de Nueva York con este magnífico juego que reúne edificios icónicos en un entorno inspirador de horizonte
+- El kit de modelo para adultos para construir cuenta con los edificios Flatiron, Chrysler, Empire State y One World Trade Center y mide 26 cm de alto, 25 cm de ancho y 4 cm de profundidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B012NOGGHQ{{</world>}}
