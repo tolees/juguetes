@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Rango ESRB: M (maduro)
-- Género: acción/aventura
-- Edición del juego: básica
 - Plataforma: PlayStation 4
+- Edición del juego: básica
 - Clasificación PEGI: 18
+- Género: acción/aventura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FF8XJWT{{</world>}}

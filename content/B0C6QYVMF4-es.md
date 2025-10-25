@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dimensiones del artí (largo x ancho x alto): 14,4 x 17,4 x 1 cm
-- Lego DC Comics Super Heroes 30653 Batman
 - Año del modelo: 2023
-- Material: plástico
 - Peso del artí: ‎30 g
+- Material: plástico
+- Lego DC Comics Super Heroes 30653 Batman
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C6QYVMF4{{</world>}}

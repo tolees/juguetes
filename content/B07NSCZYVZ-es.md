@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido: 27 láminas borrables, 1 lámina con todo el abecedario, rotulador con borrador e instrucciones
-- Habilidades que desarrolla: juego para aprender a escribir las letras del abecedario; Se puede utilizar tantas veces como quiera el niño; Guía de gestos para que el niño aprenda a escribir cada letra
 - Este juego ofrece un completo acercamiento al tema de la escritura con 6 actividades distintas para poder familiarizarse con las letras del abecedario
+- Habilidades que desarrolla: juego para aprender a escribir las letras del abecedario; Se puede utilizar tantas veces como quiera el niño; Guía de gestos para que el niño aprenda a escribir cada letra
 - El abecedario es una excelente herramienta para aprender a leer y escribir; A los 3 años, los niños/ñas descubren la forma de las letras, aprenden a reconocerlas gradualmente y a nombrarlas
+- Contenido: 27 láminas borrables, 1 lámina con todo el abecedario, rotulador con borrador e instrucciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NSCZYVZ{{</world>}}

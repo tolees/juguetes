@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego independiente del idioma con manual de instrucciones en castellano, inglés, francés y alemán.
-- Consigue esquivar cualquier muestra comprometedora y encuentra la mayor cantidad de recursos.
-- Juego de programación de movimientos conjunto de 2 a 4 jugadores, a partir de 10 años, partidas de 20 minutos aproximadamente.
 - GDM - Curiosity - Juego de mesa - Medium strategy game - De 2 a 4 jugadores - A partir de 10 años. 20 min.
+- Juego de programación de movimientos conjunto de 2 a 4 jugadores, a partir de 10 años, partidas de 20 minutos aproximadamente.
+- Consigue esquivar cualquier muestra comprometedora y encuentra la mayor cantidad de recursos.
+- Juego independiente del idioma con manual de instrucciones en castellano, inglés, francés y alemán.
 - Creado por Eloi Pujadas y Eugeni Castaño. Ilustrado por Alba Aragón, Editado por GDM Games. Serie juego familiar plus.
 - Hackea el curiosity y programa sus movimientos por el planeta rojo, tratando de encontrar valiosos minerales y esquivar pruebas en contra de tu organización.
 

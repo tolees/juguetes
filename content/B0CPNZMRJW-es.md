@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto adecuado para regalar
-- Figura de juguete
 - Momentos de diversión
+- Figura de juguete
+- Producto adecuado para regalar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPNZMRJW{{</world>}}

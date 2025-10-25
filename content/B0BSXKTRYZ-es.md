@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DESCUBRE EL MUNDO GRAVITRAX: crea una cantidad ilimitada de recorridos diferentes combinando las piezas complementarias y los accesorios especiales de los sets Gravitrax; el regalo ideal para niños y adultos, útil para desarrollar la creatividad y mejorar los conocimientos científicos
-- SET DE INICIO: GraviTrax Starter Kit te permite hacer partir de forma automática las canicas y la diversión está garantizada
-- JUEGOS INTERACTIVOS: GraviTrax es un juego de construcción STEM con el que podrás liberar tu creatividad construyendo un mundo fantástico de recorridos; ideal como regalo para niños a partir de 8 años y para entusiastas de la construcción de todas las edades
 - CALIDAD Y SEGURIDAD: fabricadas en Europa con materiales de alta calidad, las pistas de canicas GraviTrax están hechas para durar y garantizan muchísimas horas de juego
+- SET DE INICIO: GraviTrax Starter Kit te permite hacer partir de forma automática las canicas y la diversión está garantizada
 - JUEGA CON LA FÍSICA: los niños aprenderán sobre leyes físicas como la gravedad, el magnetismo o la fuerza cinética; Gravitrax desarrolla la creatividad y ayuda a comprender principios científicos básicos
+- JUEGOS INTERACTIVOS: GraviTrax es un juego de construcción STEM con el que podrás liberar tu creatividad construyendo un mundo fantástico de recorridos; ideal como regalo para niños a partir de 8 años y para entusiastas de la construcción de todas las edades
+- DESCUBRE EL MUNDO GRAVITRAX: crea una cantidad ilimitada de recorridos diferentes combinando las piezas complementarias y los accesorios especiales de los sets Gravitrax; el regalo ideal para niños y adultos, útil para desarrollar la creatividad y mejorar los conocimientos científicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSXKTRYZ{{</world>}}

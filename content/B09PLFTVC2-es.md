@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego de 4 a 9 jugadores, a partir de 14 años de edad
-- Entonces, si el CAPITEN pone las respuestas en el orden correcto,
-- 500 temas variados ¡para desvariar con tus amigos!
 - TOP TEN un juego cooperativo de socialización de lo más entretenido
+- Entonces, si el CAPITEN pone las respuestas en el orden correcto,
+- Juego de 4 a 9 jugadores, a partir de 14 años de edad
+- 500 temas variados ¡para desvariar con tus amigos!
 - Para cada tema, cada jugador tiene que inventar una respuesta y decirla; pero la intensidad de la respuesta debe corresponder a su número secreto, del 1 (en verde) al 10 (en rojo)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

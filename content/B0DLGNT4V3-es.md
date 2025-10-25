@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Combate por turnos reactive
-- Un mundo que te conmoverá por su belleza
-- "Llega el mañana"
 - Lidera la expedición. Rompe el ciclo
+- "Llega el mañana"
+- Un mundo que te conmoverá por su belleza
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLGNT4V3{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con una escalera doble y dos figuras de bomberos
-- Bomba de agua con depósito que se puede rellenar y una manguera
 - Incluye pequeños accesorios como llamas; extintores y un megáfono
+- Bomba de agua con depósito que se puede rellenar y una manguera
 - Juguete para niños y niñas a partir de 4 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

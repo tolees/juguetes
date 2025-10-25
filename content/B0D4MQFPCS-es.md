@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde las 500 piezas se recomiendan a partir de 11 años.
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
-- Puzzle lenticular de 500 piezas con efecto 3D. Dimensiones aproximadas del puzzle montado: 61 x 46 cm.
 - Compuesto por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
+- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Nuestros puzzles adultos desde las 500 piezas se recomiendan a partir de 11 años.
 - 🧠 Estimula tu mente y creatividad: Los puzles de Educa son una actividad perfecta para desarrollar la motricidad fina, la memoria visual y la psicomotricidad, además de estimular la curiosidad y la imaginación de niños y adultos.
+- Puzzle lenticular de 500 piezas con efecto 3D. Dimensiones aproximadas del puzzle montado: 61 x 46 cm.
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4MQFPCS{{</world>}}

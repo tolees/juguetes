@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto que combina tradición e innovación
+- Producto con licencia oficial
 - Modelo de la colección ichibansho, hecho por bandai
 - Fabricada en pvc, mide unos 18 cm
-- Producto con licencia oficial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0854QFDM7{{</world>}}

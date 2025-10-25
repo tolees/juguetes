@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Figura coleccionable
-- Es el regalo óptimo para los fans de Stars Wars
 - Contiene figura y accesorios
+- Figura coleccionable
 - Figura inspirada en el personaje Serie Star Wars
+- Es el regalo óptimo para los fans de Stars Wars
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09H1FDMHY{{</world>}}

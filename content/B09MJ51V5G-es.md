@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de cartas para dos jugadores partir de 5 años.
 - Este juego incluye de 2 figuras de los personajes clásicos de Disney Minnie y Pluto
-- Juega al pilla - pilla con Minnie y Pluto con este divertido juego de cartas infantil
+- Juego de cartas para dos jugadores partir de 5 años.
 - El tiempo de juego estimado de cada partida es de 10-15 minutos
+- Juega al pilla - pilla con Minnie y Pluto con este divertido juego de cartas infantil
 - Sé el primero a tu oponente para ganar. ¡Ten cuidado de no meterse en n charco o ser arrastrado en dirección contraria por el viento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

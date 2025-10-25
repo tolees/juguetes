@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Escanea y empieza a coleccionar! Escanea el código que verás en la aleta del dinosaurio en la aplicación gratuita Jurassic World Play con un dispositivo inteligente compatible (no incluido) para desbloquear actividades de realidad aumentada y crear una colección digital de dinosaurios.
-- ¡Un gran regalo! Este Mosasaurio es un gran regalo para cualquier amante de los dinosaurios a partir de 4 años, especialmente para los fans de Jurassic World.
-- ¡Vive la emoción de Jurassic World! ¡Llévate a casa la emoción y la acción de “Jurassic World: El Renacer” con este emblemático Mosasaurio Mordedor con increíbles movimientos, aletas y cola articuladas, y 65,27 cm de largo!
-- ¡Ataque total! Los niños y niñas pueden sostener fácilmente la cola y apretar el botón, o abrir manualmente la mandíbula en busca de presas. La mandíbula se abre por completo, lista para “morder” y tragar la minifigura de Dilofosaurio.
-- Embestidas todoterreno: ¡Persecución colosal! En este juego de aplicación actualizado, podrás pilotar varios vehículos por tierra, mar y aire, y jugar a un emocionante juego de disparos para extraer el ADN de los dinosaurios.
 - ¡Escupe la figura! Sostén la cola, aprieta el botón de nuevo y el Mosasaurio “escupirá” al Dilofosaurio.
+- Embestidas todoterreno: ¡Persecución colosal! En este juego de aplicación actualizado, podrás pilotar varios vehículos por tierra, mar y aire, y jugar a un emocionante juego de disparos para extraer el ADN de los dinosaurios.
+- ¡Un gran regalo! Este Mosasaurio es un gran regalo para cualquier amante de los dinosaurios a partir de 4 años, especialmente para los fans de Jurassic World.
+- ¡Ataque total! Los niños y niñas pueden sostener fácilmente la cola y apretar el botón, o abrir manualmente la mandíbula en busca de presas. La mandíbula se abre por completo, lista para “morder” y tragar la minifigura de Dilofosaurio.
+- ¡Vive la emoción de Jurassic World! ¡Llévate a casa la emoción y la acción de “Jurassic World: El Renacer” con este emblemático Mosasaurio Mordedor con increíbles movimientos, aletas y cola articuladas, y 65,27 cm de largo!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DL6JBSWQ{{</world>}}

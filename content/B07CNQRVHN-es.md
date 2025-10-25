@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Edad: a partir de 12 años
 - Dificultad: avanzado
 - Entre 45 y 90 minutos de partida
 - De 1 a 4 jugadores
-- Edad: a partir de 12 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CNQRVHN{{</world>}}

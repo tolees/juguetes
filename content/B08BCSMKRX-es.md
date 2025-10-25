@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Responde las preguntas del Maestro sobre anatomía y biología para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
 - Un mini juego de mesa con más de 300 preguntas sobre el cuerpo humano, basado en la famosa serie Érase una vez; la Vida
-- Más de 300 preguntas de 3 niveles diferentes
 - Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
+- Más de 300 preguntas de 3 niveles diferentes
+- Responde las preguntas del Maestro sobre anatomía y biología para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
 - De 2 a 4 jugadores. +6 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

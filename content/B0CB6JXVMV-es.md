@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Salva la pizzería de Hot Wheels City de una cobra enorme que se ha apoderado de ella!
-- Conéctala con otros conjuntos de Hot Wheels y Matchbox para jugar un sinfín de aventuras.
 - La pista de cola conduce a la boca de la cobra, a un contenedor de basura o bien golpea a la cobra con un trozo de pizza en la cara.
-- Incluye 1 coche de juguete Hot Wheels a escala 1:64. ¡Un gran regalo para cualquier ocasión!
-- El conjunto aparece en la serie de Netflix Lets Race. ¡Los más pequeños pueden recrear sus escenas favoritas o crear otras nuevas surgidas de su propia imaginación!
+- ¡Salva la pizzería de Hot Wheels City de una cobra enorme que se ha apoderado de ella!
 - Cuando los niños y niñas liberan la cola de la cobra, esta lanza los coches por uno de los 3 caminos elegidos al azar y llenos de suspense y aventuras.
+- El conjunto aparece en la serie de Netflix Lets Race. ¡Los más pequeños pueden recrear sus escenas favoritas o crear otras nuevas surgidas de su propia imaginación!
+- Incluye 1 coche de juguete Hot Wheels a escala 1:64. ¡Un gran regalo para cualquier ocasión!
+- Conéctala con otros conjuntos de Hot Wheels y Matchbox para jugar un sinfín de aventuras.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB6JXVMV{{</world>}}

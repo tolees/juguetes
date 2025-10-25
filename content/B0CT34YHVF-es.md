@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Además, puede meterse el dedo en la boca como los bebés de verdad
 - El muñeco blandito con funciones más pequeño de nenuco, una experiencia sensorial adaptada a los más pequeños
 - Blanco con pijama rosa
 - Si aprietas sus manitas o sus pies hace sonidos: ríe, llora y dice mama/papa
-- Además, puede meterse el dedo en la boca como los bebés de verdad
 - Recomendado a partir de 10 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 125 OBSTÁCULOS DESAFIANTES La epopeya de Perplexus con un nuevo diseño (nuevo embalaje) ¿Quién logra superar los 125 obstáculos? La pelota debe moverse por la ruta numerada, pasando por obstáculos difíciles, como las serpentinas, la rampa de salto y la escalera doble, sin caerse de la pista. Apto para niños de 10 años o más
-- 3D MAZE Perplexus Epic es el original y desafiante laberinto 3D: simplemente es redondo, la pelota debe guiarse hasta la línea de meta con movimientos exigentes sin que se caiga de la pista, lo cual es el desafío de habilidad más importante
 - FÁCIL DE APRENDER, DIFÍCIL DE DOMINAR El camino hasta la línea de meta es de 360 grados y solo se puede superar inclinando, girando e inclinándose. Se garantiza que Perplexus Epic no dejará ir a nadie. Una vez dominada la canción, empieza a rodar con Perplexus Rebel y Perplexus Beast (cada uno se vende por separado)
 - Contenidos 1 Perplexus Epic, 1 guía del juego
+- 125 OBSTÁCULOS DESAFIANTES La epopeya de Perplexus con un nuevo diseño (nuevo embalaje) ¿Quién logra superar los 125 obstáculos? La pelota debe moverse por la ruta numerada, pasando por obstáculos difíciles, como las serpentinas, la rampa de salto y la escalera doble, sin caerse de la pista. Apto para niños de 10 años o más
 - Perplexus Epic es un emocionante desafío de laberinto en 3D y un gran regalo para que niños y adultos de 10 años o más giren, inclinen y ganen
+- 3D MAZE Perplexus Epic es el original y desafiante laberinto 3D: simplemente es redondo, la pelota debe guiarse hasta la línea de meta con movimientos exigentes sin que se caiga de la pista, lo cual es el desafío de habilidad más importante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MGRNKBT{{</world>}}

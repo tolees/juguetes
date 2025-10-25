@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego educativo con el que los niños se familiarizarán con las tablas de multiplicar; Cada lámina representa una tabla de multiplicar diferente, desde la tabla del 1 a la del 12
 - Habilidades que desarrolla: aprender las tablas de multiplicar a través del juego y iniciarse en el respeto a las normas
+- Juego educativo con el que los niños se familiarizarán con las tablas de multiplicar; Cada lámina representa una tabla de multiplicar diferente, desde la tabla del 1 a la del 12
 - Contenido: 6 láminas a doble cara con las 12 tablas de multiplicar y 59 fichas reversibles
 - Sistema autocorrectivo en el que cada una de las multiplicaciones se asocia a un dibujo, por lo tanto el niño puede saber si lo ha hecho correctamente
 

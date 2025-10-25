@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO LABERINTOS 3D: Perplexus Beast es una bola laberinto 3D complejo y original dentro de una esfera. Guía la bola con maniobras llenas de tensión y consigue llegar a la línea de meta sin salirte del camino. Pon a prueba tus habilidades y rétate a completarlo
 - FÁCIL DE JUGAR, DIFÍCIL DE DOMINAR: gira, voltea y mueve en 360° el rompecabezas para llegar a la línea de meta. No podrás dejar de jugar con el Perplexus Beast. Una vez que hayas dominado el camino, no te detengas y que sigan los retos con Perplexus Rebel y Perplexus Epic (se venden por separado)
+- JUEGO LABERINTOS 3D: Perplexus Beast es una bola laberinto 3D complejo y original dentro de una esfera. Guía la bola con maniobras llenas de tensión y consigue llegar a la línea de meta sin salirte del camino. Pon a prueba tus habilidades y rétate a completarlo
 - LABERINTO Y ROMPECABEZAS: este rompecabezas Perplexus original y juego de habilidad es perfecto para trabajar tu paciencia y tu concentración. ¡Descubre el Perplexus Beast, el juego de mesa para los niños 8 años +
 - INCLUYE: 1 Perplexus Beast, 1 guía de instrucciones
 - REGALOS NIÑOS 8 AÑOS +: El bola laberinto 3D Perplexus Beast es un emocionante y desafiante juego de laberintos 3D y un regalo perfecto para niños y adultos en cualquier ocasión (cumpleaños, Navidad, Reyes...). Gíralo. Voltéalo. ¡Supéralo

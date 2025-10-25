@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Favorece la concentración y las habilidades manuales
 - Puzzles progresivos, 4 puzzles de: 3, 6, 9 y 12 piezas de distintos personajes
+- Favorece la concentración y las habilidades manuales
 - Hecho en Italia
 - Crea distintos personajes y formas variadas de forma fácil y progresiva
 

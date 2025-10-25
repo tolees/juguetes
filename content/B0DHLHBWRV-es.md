@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego basado en la exitosa serie de Netflix progratonizada por Jenna Ortega y dirigida por Tim Burton.
-- Juego de 2 a 4 jugadores, a partir de 10 años de edad y partidas de 20 minutos de duración.
 - Una amenaza se cierne sobre la Academia Nunca Más y se ha desatado el caos. ¡Los alumnos deben cooperar para defenderse!
 - Meteos en la piel de vuestros personajes favoritos para intentar frustrar una monstruosa amenaza que ha estado sembrando el terror en las cercanías de la Academia Nunca Más.
+- Juego basado en la exitosa serie de Netflix progratonizada por Jenna Ortega y dirigida por Tim Burton.
 - En este emocionante juego tendréis que colaborar para poner freno a los ataques del Hyde y proteger al resto de los estudiantes.
+- Juego de 2 a 4 jugadores, a partir de 10 años de edad y partidas de 20 minutos de duración.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHLHBWRV{{</world>}}

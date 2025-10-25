@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 1 minifigura LEGO: El set incluye un coche de Fórmula 1 y también una minifigura de un piloto con traje de competición del equipo KICK Sauber F1 Team y casco para colocarla en el habitáculo e imaginar que disputan trepidantes carreras
 - Maqueta de coche monoplaza de F1: Después de disfrutar interpretando historias en el circuito con el coche de F1 de juguete, los niños pueden exponerlo en un estante o en la mesita de noche como decoración de sus dormitorios
+- Coche de juguete KICK Sauber F1 Team: Set LEGO Speed Champions Coche de Carreras KICK Sauber F1 Team C44 de juguete para niños y niñas a partir de 10 años, diseñado para construir, exponer y competir
 - Más acción con los coches de Fórmula 1 de juguete: Descubre más juguetes de construcción LEGO de coches de F1 (a la venta por separado) para construir, exponer y competir con toda la familia
 - Coche de F1 KICK Sauber F1 Team: La maqueta del coche de F1 reproduce detalles de diseño de la versión de 2024, como alerón trasero, pegatinas de los patrocinadores y neumáticos traseros más anchos con la inscripción “Pirelli”
-- Coche de juguete KICK Sauber F1 Team: Set LEGO Speed Champions Coche de Carreras KICK Sauber F1 Team C44 de juguete para niños y niñas a partir de 10 años, diseñado para construir, exponer y competir
 - Regalo de Fórmula 1 para niños y niñas de 10 años o más: Este coche de la escudería KICK Sauber F1 Team es un gran regalo LEGO para niños y niñas mayores de 10 años y coleccionistas adultos de maquetas de coches y apasionados de la Fórmula 1
-- 1 minifigura LEGO: El set incluye un coche de Fórmula 1 y también una minifigura de un piloto con traje de competición del equipo KICK Sauber F1 Team y casco para colocarla en el habitáculo e imaginar que disputan trepidantes carreras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSBYSRB{{</world>}}

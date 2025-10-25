@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contiene 1000 piezas
+- Edad recomendada: a partir de 12 años
 - Las habilidades cognitivas, la memoria y la concentración se activan durante el juego
 - La caja tiene las dimensiones: 37.3 x 27.2 x 5.7 cm
-- Edad recomendada: a partir de 12 años
-- Contiene 1000 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MUCR8UC{{</world>}}

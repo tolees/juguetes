@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego de mesa HeroQuest de Avalon Hill es un juego de fantasía y rol en el que los jugadores deben cooperar en la lucha contra Zargon y sus monstruos, completar misiones y saquear mazmorras.
-- Este juego de mesa incluye detalladas figuras en miniatura sobre bases de 25 mm y mobiliario para una experiencia de juego premium e inmersiva mientras exploras las mazmorras.
-- En las más de 90 cartas ilustradas detalladamente encontrarás tesoros, artefactos antiguos y hechizos poderosos para fortalecerte en tu emblemática misión. ¡Pero también hay cartas de monstruos!
-- El malvado hechicero Zargon cada vez es más fuerte. El reino necesita héroes en la lucha contra el mal y sólo seran capaces de derrotarlo: el bárbaro, el enano, la elfa y el mago.
 - Todas las cartas y el libro de misiones de HeroQuest cuentan con increíbles ilustraciones que llevan la imaginación de los jugadores a un mundo de fantasía lleno de monstruos, trampas y mazmorras.
+- El malvado hechicero Zargon cada vez es más fuerte. El reino necesita héroes en la lucha contra el mal y sólo seran capaces de derrotarlo: el bárbaro, el enano, la elfa y el mago.
+- Este juego de mesa incluye detalladas figuras en miniatura sobre bases de 25 mm y mobiliario para una experiencia de juego premium e inmersiva mientras exploras las mazmorras.
+- El juego de mesa HeroQuest de Avalon Hill es un juego de fantasía y rol en el que los jugadores deben cooperar en la lucha contra Zargon y sus monstruos, completar misiones y saquear mazmorras.
+- En las más de 90 cartas ilustradas detalladamente encontrarás tesoros, artefactos antiguos y hechizos poderosos para fortalecerte en tu emblemática misión. ¡Pero también hay cartas de monstruos!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LTCVD5L{{</world>}}

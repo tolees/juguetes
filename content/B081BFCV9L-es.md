@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brand: Aquabeads
 - Alta calidad
 - Set de regalo Epoch Elegant Town Manor
 - Diseno funcional
+- Brand: Aquabeads
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B081BFCV9L{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Contenido: 104 cartas 5 paneles de campo 1 carta de jugador inicial reglamento
 - A partir de 12 años, de 3 a 5 jugadores, 45 minutos de duración
 - Eso es fácil pues no porque sólo podemos ir plantando las judías por orden y por tipos y esto no siempre se consigue si quieres triunfar en el mercado de las judías tendrás que ser un astuto agricultor y negociar con tus contrincantes para obtener una buena cosecha un juego de cartas táctico y de negociación, no apto para tiernos guisantes
-- Contenido: 104 cartas 5 paneles de campo 1 carta de jugador inicial reglamento
 - Hay quien dice que las judías son sólo simples vegetales pero; sabías una cosa se equivocan con las judías del juego de mesa bohnanza se pueden ganar muchas monedas de oro siempre y cuando se cosechen las judías adecuadas por lo que me diréis
 
 [🛒 Visítala!!!]({{< param buyurl >}})

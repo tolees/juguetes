@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El fenómeno internacional de salas de escape ahora en tu casa
 - El juego ganador del Kennerspiel des Jahres 2017
 - Un reto intelectual para mentes enjambre o para enigmistas solitarios
+- El fenómeno internacional de salas de escape ahora en tu casa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWYWQZN3{{</world>}}

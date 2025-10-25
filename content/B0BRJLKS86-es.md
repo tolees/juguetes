@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La versión grande "animada" de Bunchu tiene cuello, cola, brazos y piernas completamente articulados; es fácil para los niños y niñas posarlo y recrear escenas geniales.
-- Con instrucciones de construcción guiadas por la historia, los niños pueden ponerle a Bunchu unos patines y guantes o unas alas de abeja y un aguijón para atrapar al malvado Gnomo Nocturno de las Pesadillas.
 - Los juguetes creativos de animales están diseñados para niños y niñas a partir de 7 años, para pasar horas de diversión imaginativa jugando solos o con amigos.
 - Incluye la minifigura de Izzie con armadura, espada y reloj de arena accesorios, además de las figuras de juguete del malvado Gnomo y del pequeño animalito de peluche Bunchu.
-- Con los juguetes de LEGO DREAMZzz, los niños se sumergirán en la acción; echa un vistazo a la gama completa de sets de juguete de los sueños basados en el programa de televisión DREAMZzz y amplía la diversión.
 - El set DREAMZzz Izzie y el Conejo Bunchu cuenta con una figura de conejo articulada que puede construirse de 2 maneras diferentes, además de las minifiguras de los personajes de la serie de televisión.
+- Con los juguetes de LEGO DREAMZzz, los niños se sumergirán en la acción; echa un vistazo a la gama completa de sets de juguete de los sueños basados en el programa de televisión DREAMZzz y amplía la diversión.
+- Con instrucciones de construcción guiadas por la historia, los niños pueden ponerle a Bunchu unos patines y guantes o unas alas de abeja y un aguijón para atrapar al malvado Gnomo Nocturno de las Pesadillas.
 - Los niños y niñas pueden ayudar a Izzie a crear una versión grande de su peluche favorito para rescatar al animal de peluche secuestrado por un malvado Gnomo de las pesadillas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

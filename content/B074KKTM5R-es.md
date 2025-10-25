@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edición en español y portugués
-- Duración 45 minutos
 - A partir de los 7 años
+- Duración 45 minutos
+- Edición en español y portugués
 - De 2 a 6 jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
