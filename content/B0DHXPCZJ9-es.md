@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- UN JUEGO DE CARTAS RÁPIDO Y LLENO DE CERDITOS: Piggy Piggy es un juego de mesa familiar en el que deberás robar cerditos, jugar cartas de comida y llegar a 8 puntos antes que nadie para ganar la partida.
 - FÁCIL DE APRENDER Y PARA TODA LA FAMILIA: Ideal para niños a partir de 7 años, adolescentes y adultos, se explica en minutos y es perfecto para partidas rápidas de 2 a 6 jugadores.
 - SA LAS CABRAS PARA LIARLA EN LA MESA: Las cartas de Cabra permiten sabotear jugadas, eliminar cartas de otros jugadores e incluso robar sus cerditos, añadiendo un toque de caos divertido.
-- UN JUEGO DE CARTAS RÁPIDO Y LLENO DE CERDITOS: Piggy Piggy es un juego de mesa familiar en el que deberás robar cerditos, jugar cartas de comida y llegar a 8 puntos antes que nadie para ganar la partida.
 - ESTRATEGIA SENCILLA PERO CON ENGAÑO: Usa tus cartas para reclamar cerditos y gana puntos, pero vigila a tus rivales porque también intentarán quedarse con todo en el momento justo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

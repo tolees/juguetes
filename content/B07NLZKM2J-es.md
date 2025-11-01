@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cada figura es completamente articulada
 - Figuras construibles de Eevee, Vaporeon, Jolteon, Flaeron, Espeon, Umbreon, Leafeon, Glaceon, Sylveon
+- Cada figura es completamente articulada
 - Construye sin límites tu mundo de Pokémon
 - Instrucciones y espacios sencillos, ordenados y con colores específicos
 - Se puede combinar con otros juguetes de construcción de Pokémon de Mega Construx

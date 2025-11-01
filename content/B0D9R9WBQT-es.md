@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El juego de cartas UNO en envase de hojalata coleccionable ofrece un juego clásico, ¡emparejar colores o números en una carrera para deshacerse de las cartas!
-- Las cartas del paquete adicional inverso ofrecen a los jugadores varias formas de cambiar la dirección del juego.
-- Las cartas de Pila de Cartas Complementarias pueden hacer que los jugadores se llamen por su nombre mientras añaden más (y más) cartas a su pila de cartas.
 - Incluye 2 paquetes adicionales, cada uno con 16 cartas para personalizar la baraja.
-- Cuando te quedes con una sola carta, no olvides gritar «¡UNO!». Lleva la cuenta y el primer jugador o equipo que llegue a 500 ¡gana!
 - Diseñado para 2 a 10 jugadores a partir de 7 años, la lata coleccionable y el juego de cartas son un gran regalo para amigos y familiares.
+- Cuando te quedes con una sola carta, no olvides gritar «¡UNO!». Lleva la cuenta y el primer jugador o equipo que llegue a 500 ¡gana!
+- Las cartas del paquete adicional inverso ofrecen a los jugadores varias formas de cambiar la dirección del juego.
+- El juego de cartas UNO en envase de hojalata coleccionable ofrece un juego clásico, ¡emparejar colores o números en una carrera para deshacerse de las cartas!
+- Las cartas de Pila de Cartas Complementarias pueden hacer que los jugadores se llamen por su nombre mientras añaden más (y más) cartas a su pila de cartas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9R9WBQT{{</world>}}

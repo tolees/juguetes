@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El primer juego en el que pueden jugar adultos y niños en la misma partida, cada uno con preguntas adaptadas a su nivel
+- Más de 6000 preguntas pensadas para un público junior y otras 6000 preguntas para el resto de la familia.
 - Producto distribuido oficialmente en España por BIZAK.
 - El juego oficial del concurso de televisión, con las pruebas de la última edición del concurso.
-- Más de 6000 preguntas pensadas para un público junior y otras 6000 preguntas para el resto de la familia.
+- El primer juego en el que pueden jugar adultos y niños en la misma partida, cada uno con preguntas adaptadas a su nivel
 - Incluye un libro azul y uno naranja de preguntas y respuestas, 1 ruleta, 50 fichas circulares, el rosco azul, el rosco naranja, 2 cronómetros y 1 lápiz.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

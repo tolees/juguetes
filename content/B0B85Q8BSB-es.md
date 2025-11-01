@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Las figuras de Hurdle y la gatita pueden subirse a la mesa de exploración para hacerse una revisión completa.
-- En la Clínica Bienestar, la muñeca Dr. Carlin Cat tiene la cura para todo el mundo.
 - El maletín médico contiene un montón de artilugios de doctora, como una jeringuilla y un frasco.
-- Este conjunto de Enchantimals da vida a un favorito de los fans del grupo de adorables chicas acompañadas de sus inseparables mascotas, a las que cuidan y miman, ya que son sus mejores amigas.
-- La muñeca Dr. Carlin Cat viene con un estetoscopio, una falda y unos zapatos de quita y pon. La figura de Hurdle también tiene un estetoscopio.
 - Las mejores amigas pueden acurrucarse en la cesta mientras esperan a que la doctora las llame.
+- La muñeca Dr. Carlin Cat viene con un estetoscopio, una falda y unos zapatos de quita y pon. La figura de Hurdle también tiene un estetoscopio.
+- Este conjunto de Enchantimals da vida a un favorito de los fans del grupo de adorables chicas acompañadas de sus inseparables mascotas, a las que cuidan y miman, ya que son sus mejores amigas.
+- En la Clínica Bienestar, la muñeca Dr. Carlin Cat tiene la cura para todo el mundo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B85Q8BSB{{</world>}}

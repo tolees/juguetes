@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ⚔️ PARTIDAS CON MUCHA REJUGABILIDAD - Campaña dividida en capítulos de unos 15–60 minutos que permiten mejorar personajes, desbloquear nuevos poderes y descubrir finales múltiples.
-- ✌️ COOPERATIVO O EN SOLITARIO, ACCESIBLE Y DINÁMICO - Diseñado para 1-2 jugadores, con dificultad adaptable (fácil, normal, experto), ideal para todo tipo de jugadores.
-- 👌 RECOMENDACIÓN FAMILIAR - Recomendado por su capacidad para reunir a padres con hijos a partir de 8 años a apasionantes sesiones de juego compartido.
 - 📘 AVENTURA ESTILO METROIDVANIA EN FORMATO LIBRO-JUEGO - Explora niveles conectados como en videojuegos de desplazamiento lateral, con más de 60 mapas y una narrativa inmersiva protagonizada por los gemelos Marta y Lucas.
+- ✌️ COOPERATIVO O EN SOLITARIO, ACCESIBLE Y DINÁMICO - Diseñado para 1-2 jugadores, con dificultad adaptable (fácil, normal, experto), ideal para todo tipo de jugadores.
 - 🎨 COMPONENTES NARRATIVOS Y VISUALMENTE ATRACTIVOS - Dos libretos encuadernados que crean mapas continuos, con ilustraciones evocadoras y un tutorial integrado para facilitar el aprendizaje.
+- 👌 RECOMENDACIÓN FAMILIAR - Recomendado por su capacidad para reunir a padres con hijos a partir de 8 años a apasionantes sesiones de juego compartido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2BMQ6T8{{</world>}}

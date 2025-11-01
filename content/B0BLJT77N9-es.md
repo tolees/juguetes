@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En el reino submarino de Ariel hay una piscina con un botón que hace que el agua salpique. También incluye un columpio en forma de concha y una fuente donde puedes encajar las figuras de Ariel y Flounder para pasarlo en grande dando vueltas.
-- Inspirado en el clásico de animación de Disney “La Sirenita”, este conjunto de juego de castillo permite a los pequeños recrear escenas de la película en los dos reinos de Ariel, ¡el terrestre y el submarino!
-- Se puede conectar o apilar con otros juguetes apilables de Storytime Stackers.
-- El conjunto de juego mide 31,1cm de altura e incluye 6 zonas de juego que los pequeños identificarán con la película, además del adorable amigo de Ariel, Flounder.
-- La muñeca pequeña de Ariel se puede transformar gracias a sus dos conjuntos. En su forma humana, lleva un vestido rosa para estar en el castillo, y en su forma de sirena, el conjunto cambia de violeta a azul al sumergirlo en el agua.
-- Los fans pueden coleccionar todos los conjuntos apilables de Disney Princesas para pasarlo en grande. Cada conjunto se vende por separado y está sujeto a disponibilidad.
 - El reino terrestre incluye una pista de baile giratoria para las celebraciones en el castillo, y también el dormitorio de Ariel y un comedor con múltiples piezas de juego de comida.
+- Se puede conectar o apilar con otros juguetes apilables de Storytime Stackers.
+- En el reino submarino de Ariel hay una piscina con un botón que hace que el agua salpique. También incluye un columpio en forma de concha y una fuente donde puedes encajar las figuras de Ariel y Flounder para pasarlo en grande dando vueltas.
+- El conjunto de juego mide 31,1cm de altura e incluye 6 zonas de juego que los pequeños identificarán con la película, además del adorable amigo de Ariel, Flounder.
+- Los fans pueden coleccionar todos los conjuntos apilables de Disney Princesas para pasarlo en grande. Cada conjunto se vende por separado y está sujeto a disponibilidad.
+- Inspirado en el clásico de animación de Disney “La Sirenita”, este conjunto de juego de castillo permite a los pequeños recrear escenas de la película en los dos reinos de Ariel, ¡el terrestre y el submarino!
+- La muñeca pequeña de Ariel se puede transformar gracias a sus dos conjuntos. En su forma humana, lleva un vestido rosa para estar en el castillo, y en su forma de sirena, el conjunto cambia de violeta a azul al sumergirlo en el agua.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLJT77N9{{</world>}}

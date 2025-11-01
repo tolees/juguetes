@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Producto distribuido oficialmente en España por Bizak
 - En el pack doble y un digi-clip por pajarillo para poder llevarlos donde quieras
-- Miden 8.5 cm; cantan de verdad, con más de 50 melodías diferentes
 - Son muy divertidos, ya que mueven la cabecita y el pico, y se sincronizan en las canciones
+- Miden 8.5 cm; cantan de verdad, con más de 50 melodías diferentes
 - Si juntas a varios pajarillos interactivos, cantan en coro
 - Vuelven los Digibirds, pájaros electrónicos con una imagen renovada y con alta tecnología
 - En el pack de dos, se encuentran otras dos especies para coleccionar, un pavo real y un pájaro pescador

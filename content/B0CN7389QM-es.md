@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pelaje suave en la cabeza, se puede peinar; cola ajustable para que pueda sentarse; purpurina en sus patas
 - Mágico Unicornio al que le encanta charlar y animar a sus amigos; fuera de tu dedo, el es un unicornio burbujeante y hablador; en tu dedo, el es tu amigo mágico y solidario
 - Responde a tu toque cuando le acaricias la cabeza y le tocas la boca
+- Pelaje suave en la cabeza, se puede peinar; cola ajustable para que pueda sentarse; purpurina en sus patas
 - Más de 70 sonidos y reacciones con personalidad; el corazón brilla cuando está en tu dedo, el realmente sabe que eres tú
 
 [🛒 Comprar!!!]({{< param buyurl >}})

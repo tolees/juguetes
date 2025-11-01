@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego preescolar de velocidad visual: se colocan las piezas sobre la mesa y se lanzan los 3 dados por turnos; Hay que encontrar la combinación: animal + vestido + color que aparece en el dado
-- El juego tiene distintos niveles de dificultad ya que cuantos más dados añades ésta incrementa; Existe la posibilidad de jugar únicamente con dos dados
-- Habilidades que desarrolla: agilidad visual y memoria
 - Número de jugadores: de 2 a 4
+- El juego tiene distintos niveles de dificultad ya que cuantos más dados añades ésta incrementa; Existe la posibilidad de jugar únicamente con dos dados
+- Juego preescolar de velocidad visual: se colocan las piezas sobre la mesa y se lanzan los 3 dados por turnos; Hay que encontrar la combinación: animal + vestido + color que aparece en el dado
 - Contenido: 27 fichas redondas, 3 dados de madera y instrucciones de juego
+- Habilidades que desarrolla: agilidad visual y memoria
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PC79BYN{{</world>}}

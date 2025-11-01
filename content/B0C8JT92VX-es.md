@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Certificado de circulación canjeable vía online y amplia red de talleres smartGyro repartidos por toda España; dimensiones: 114x60x131 cm 30Kg; powered by Woxter
+- Con tecnología Core Inside: Innovación patentada por Smartgyro que incorpora una optimización avanzada del hardware, diseñada para maximizar el rendimiento, la eficiencia y la durabilidad de nuestros producto
+- Batería de litio con capacidad de 15.000 mAh, consigue una autonomía de 60 Km. 4 modos de conducción seleccionables desde su display (Walk, Eco, Confort y Sport)
 - Ruedas neumáticas Tubeless Dual Grip de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y frenos de disco; display con carga USB en el manillar con información de la batería, Km recorridos, odómetro, selector de marcha y configuración del patinete
 - Patinete eléctrico ligero para adultos con 2 motores Brushless de 700W 48V de potencia máxima (cada motor), potencia nominal 500W (cada motor), capaz de subir por cuestas con un alto grado de inclinación. Con certificado VMP que garantiza una movilidad segura bajo el cumplimiento de la legislación vigente
-- Batería de litio con capacidad de 15.000 mAh, consigue una autonomía de 60 Km. 4 modos de conducción seleccionables desde su display (Walk, Eco, Confort y Sport)
-- Con tecnología Core Inside: Innovación patentada por Smartgyro que incorpora una optimización avanzada del hardware, diseñada para maximizar el rendimiento, la eficiencia y la durabilidad de nuestros producto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8JT92VX{{</world>}}

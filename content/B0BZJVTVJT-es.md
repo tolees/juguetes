@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La mecánica de colocación de trabajadores es fresca y sorprendente
-- Su diseño e ilustración está inspirado en las películas de ciencia ficción clásicas
 - Eurogame introductorio de misiones en el espacio
+- Su diseño e ilustración está inspirado en las películas de ciencia ficción clásicas
+- La mecánica de colocación de trabajadores es fresca y sorprendente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZJVTVJT{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SÉ EL MÁS RÁPIDO: derrapa y acelera por 10 circuitos llenos de acción.
 - MULTIJUGADOR LOCAL: enfréntate a tus amigos en el Modo Versus.
+- SÉ EL MÁS RÁPIDO: derrapa y acelera por 10 circuitos llenos de acción.
 - ELIGE BANDO: detén a Nemesis Prime como un Autobot o un Decepticon.
 - SUBE DE NIVEL: mejora y personaliza a 11 icónicos Transformers.
 - LUCHA HASTA EL FINAL: compite en una frenética fusión entre carreras y combate.

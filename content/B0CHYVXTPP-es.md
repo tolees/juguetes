@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - A los Gummiz les encantan las frutas y pasan todo su tiempo cultivándolas
-- Bienvenidos a la tierra de los Gummiz donde viven estas dulces criaturas
 - Atrae a los Gummiz salvajes con deliciosas frutas y añádelos a tu Gummibox
 - Son grandes amantes de la comida; y sabías que puedes domesticarlos
+- Bienvenidos a la tierra de los Gummiz donde viven estas dulces criaturas
 - Hazles cosquillas para que salgan de su escondite y te ayuden a atrapar a nuevos Gummiz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

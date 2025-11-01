@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este set permite recrear las escenas de la serie PINY con una figura de Michelle incluida; Representa el Instituto de Nueva York con detalle, donde los fans pueden revivir sus momentos favoritos
-- La planta superior simula el despacho de la directora y taquillas para guardar accesorios de los personajes, agregando variedad y un toque personal a cada juego
 - El playset puede cerrarse como un maletín, lo que facilita su transporte y almacenamiento, Los niños pueden llevarlo a cualquier parte y guardarlo fácilmente
+- Este set permite recrear las escenas de la serie PINY con una figura de Michelle incluida; Representa el Instituto de Nueva York con detalle, donde los fans pueden revivir sus momentos favoritos
 - La planta baja tiene una pizarra, mesa del profesor y pupitres, óptimo para imaginar clases; La zona de descanso trae una máquina de vending que realmente funciona, aportando realismo al juego
+- La planta superior simula el despacho de la directora y taquillas para guardar accesorios de los personajes, agregando variedad y un toque personal a cada juego
 - Con accesorios como la máquina de vending, pupitres y taquillas, este set está diseñado para sumergir a los niños en el universo PINY, fomentando la creatividad y la imaginación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

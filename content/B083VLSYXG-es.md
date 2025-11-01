@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incorpora el tut tut bólido Alan Fórmula 1, varias pistas y accesorios para jugar por separado o conectar con el resto de set y pistas de la colección
 - Inlcuye 2 sensores mágicos que activan frases, canciones y melodías al detectar los coches de la colección tut tut
-- Incluye el vehículo Alan fórmula 1 con voz, luces y sonidos
 - Autopista 3 en 1 de la colección tut tut bólidos 3 en 1 doble pista para lanzar los vehículos, superpista para un descenso vertiginoso y trampolín para hacer acrobacias
-- Compatible con el resto de los coches y sets de la colección, que se venden por separado
-- Versión española
 - Los tramos de pista permiten realizan diferentes configuraciones
+- Incluye el vehículo Alan fórmula 1 con voz, luces y sonidos
+- Versión española
+- Incorpora el tut tut bólido Alan Fórmula 1, varias pistas y accesorios para jugar por separado o conectar con el resto de set y pistas de la colección
+- Compatible con el resto de los coches y sets de la colección, que se venden por separado
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

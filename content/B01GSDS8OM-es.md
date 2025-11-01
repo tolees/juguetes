@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de jugadores: 2
-- Cada bando cuenta con dos pistoleros en cada momento: uno en la vanguardia y otro en la retaguardia; si los posicionas con cuidado y haces uso de sus habilidades sabiamente, serás el vencedor del duelo y tus enemigos morderán el polvo
-- Los representantes de la ley y los forajidos por fin se enfrentan, y el tiroteo que está a punto de desencadenarse estará lleno de sorpresas
-- Edad mínima recomendada: 8 años
 - Bang el duelo es un juego para 2 jugadores basado en el sistema de juego bang
+- Los representantes de la ley y los forajidos por fin se enfrentan, y el tiroteo que está a punto de desencadenarse estará lleno de sorpresas
+- Cada bando cuenta con dos pistoleros en cada momento: uno en la vanguardia y otro en la retaguardia; si los posicionas con cuidado y haces uso de sus habilidades sabiamente, serás el vencedor del duelo y tus enemigos morderán el polvo
+- Edad mínima recomendada: 8 años
+- Número de jugadores: 2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01GSDS8OM{{</world>}}

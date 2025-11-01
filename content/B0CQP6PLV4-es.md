@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El lanzador de cartas (por favor, no apuntes el lanzador de cartas hacia la cara o los ojos) cambia automáticamente la baraja del lado seguro al lado salvaje (o viceversa).
 - Las cartas de doble cara pasan del lado seguro al lado salvaje al tirar una carta Flip.
+- Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas es un regalo estupendo para los fans de UNO Flip y UNO Extreme.
 - Los jugadores pulsan el botón del lanzador de cartas cuando tienen que robar.
 - En el lado salvaje salen disparadas más cartas del lanzador de cartas que en el lado seguro.
-- El lanzador de cartas (por favor, no apuntes el lanzador de cartas hacia la cara o los ojos) cambia automáticamente la baraja del lado seguro al lado salvaje (o viceversa).
-- Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas es un regalo estupendo para los fans de UNO Flip y UNO Extreme.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQP6PLV4{{</world>}}

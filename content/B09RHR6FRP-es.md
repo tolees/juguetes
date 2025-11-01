@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Número de piezas: 47
+- Las figuras interactivas de LEGO Mario, LEGO Luigi o LEGO Peach (no incluidas y de venta por separado) reaccionan a los personajes de varias maneras, creando nuevos desafíos para el juego
 - Uno de los packs iniciales de LEGO Mario (71360), LEGO Luigi (71387) o LEGO Peach (71403) es necesario para jugar correctamente con la figura aleatoria del paquete
 - Packs de Personagens – Série 5
-- Las figuras interactivas de LEGO Mario, LEGO Luigi o LEGO Peach (no incluidas y de venta por separado) reaccionan a los personajes de varias maneras, creando nuevos desafíos para el juego
 - Edad recomendada por el fabricante: 6+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- pegatina técnica
 - tarjeta promocional de aluminio
+- pegatina técnica
 - paquetes de refuerzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡NO DEJES CAER NADA!
-- ¿TU TRABAJO?: Entregar a toda prisa los pequeños muebles usando solo tus dedos meñiques.
-- Tú y tus amigos sois gigantes que trabajáis para empresas de mudanzas rivales.
 - Luchad por cada trabajo para hacerlo mejor que los otros.
+- ¡NO DEJES CAER NADA!
+- Tú y tus amigos sois gigantes que trabajáis para empresas de mudanzas rivales.
+- ¿TU TRABAJO?: Entregar a toda prisa los pequeños muebles usando solo tus dedos meñiques.
 - La carta de trabajo te dice qué es lo que debes hacer.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

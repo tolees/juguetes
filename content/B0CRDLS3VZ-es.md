@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego de mesa tipo puzzle
 - Juguete educativo
 - Puzzle 3D
+- Juego de mesa tipo puzzle
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRDLS3VZ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dispara hasta 12 dardos sin recargar
-- Cuando un tambor se vacía, cambia al otro
-- El lanzador Zombie Strike FlipFury dispara hasta 12 dardos sin recargar
 - Incluye 12 dardos Zombie Strike
+- El lanzador Zombie Strike FlipFury dispara hasta 12 dardos sin recargar
 - Dos tambores rotatorios de dardos con capacidad para seis dardos cada uno
+- Cuando un tambor se vacía, cambia al otro
+- Dispara hasta 12 dardos sin recargar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00P0K8FZW{{</world>}}

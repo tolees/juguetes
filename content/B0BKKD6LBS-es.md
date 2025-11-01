@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 7 figuras: Tiana, Rapunzel, Vaiana, Mulán, Ariel, Aurora y Jasmine
 - Fomenta la creatividad y la imaginación de niñas y niños pequeños y en edad preescolar, de 18 meses a 5 años.
-- Celebra los 100 años repletos de magia de Disney con este conjunto de figuras de Little People con 7 personajes de Disney Princesas
 - El tamaño de las figuras es perfecto para que las manos más pequeñas puedan agarrarlos y moverlos, lo que ayuda a fortalecer la motricidad.
 - Intégralas en cualquier conjunto de Little People para que los más pequeños disfruten de una dosis extra de diversión durante el juego de imitación. (Los conjuntos de juego se venden por separado y están sujetos a disponibilidad).
+- Celebra los 100 años repletos de magia de Disney con este conjunto de figuras de Little People con 7 personajes de Disney Princesas
+- Incluye 7 figuras: Tiana, Rapunzel, Vaiana, Mulán, Ariel, Aurora y Jasmine
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKKD6LBS{{</world>}}

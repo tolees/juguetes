@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este juguete incluye la experiencia digital de la app LEGO Builder con herramientas interactivas que ayudan a los niños a construir, siendo una gran idea de regalo de cumpleaños o fiestas infantiles para niños y niñas de 7 años o más
-- El coche de juguete tiene asientos con espacio para las 3 mini muñecas, maletero para llevar el equipaje y un pequeño remolque para enganchar a la casa móvil cuando sea el momento de viajar a la siguiente ubicación
-- Descubre a los niños de 7 años en adelante un mundo de diversión con el set de camping Casita con Ruedas de LEGO Friends, una casa de muñecas que se abre y se acopla a un coche de juguete, con accesorios y una hoguera
-- Dentro de la pequeña casa de muñecas hay una cocina con nevera, horno y cajones, un baño, camas para cada mini muñeca, una casa para pájaros, buzón, paneles solares, plantas y más
 - Los niños crearán sus propias historias de acampada en el bosque de LEGO Friends con las 3 mini muñecas de Leo, Liann y Paisley y sus mascotas, ¡podrán explorar el interior de la casa, tocar la guitarra en el exterior o cocinar junto a la hoguera!
-- Con un extra de divertidos accesorios para muñecas como una lámpara, un cuchillo, elementos de comida, una señal, hojas, heno, agua y golosinas para las figuras de animales de juguete de un conejito, un gatito, una ardilla y un gecko
+- Dentro de la pequeña casa de muñecas hay una cocina con nevera, horno y cajones, un baño, camas para cada mini muñeca, una casa para pájaros, buzón, paneles solares, plantas y más
 - En enero de 2023, el universo LEGO Friends se amplía para introducir una nueva generación de personajes inspirados en las pasiones de los niños y emocionantes lugares, descubre otros increíbles sets como la Casa de Autumn (41730)
+- Este juguete incluye la experiencia digital de la app LEGO Builder con herramientas interactivas que ayudan a los niños a construir, siendo una gran idea de regalo de cumpleaños o fiestas infantiles para niños y niñas de 7 años o más
+- Descubre a los niños de 7 años en adelante un mundo de diversión con el set de camping Casita con Ruedas de LEGO Friends, una casa de muñecas que se abre y se acopla a un coche de juguete, con accesorios y una hoguera
+- El coche de juguete tiene asientos con espacio para las 3 mini muñecas, maletero para llevar el equipaje y un pequeño remolque para enganchar a la casa móvil cuando sea el momento de viajar a la siguiente ubicación
+- Con un extra de divertidos accesorios para muñecas como una lámpara, un cuchillo, elementos de comida, una señal, hojas, heno, agua y golosinas para las figuras de animales de juguete de un conejito, un gatito, una ardilla y un gecko
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBRYJ4LR{{</world>}}

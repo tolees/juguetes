@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una práctica ayuda: Descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde constructores y constructoras podrán acercar y girar modelos en 3D, seguir sus progresos y guardar sets a medida que desarrollan nuevas habilidades
-- 3 minifiguras: Este juego ninja incluye a Arin armado con un gancho de escalada y una catana, a Sora con una catana y a un guerrero Máscara de Lobo con una espada
 - Modelo articulado de un dragón: Tu peque se lo pasará genial colocando las alas, la cola y las patas de este dragón de juguete en diferentes posturas y, después, sentará a una de las minifiguras NINJAGO en la montura para surcar los cielos
+- Una práctica ayuda: Descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde constructores y constructoras podrán acercar y girar modelos en 3D, seguir sus progresos y guardar sets a medida que desarrollan nuevas habilidades
 - Regalo inspirado en los ninja: Además de proporcionar una divertida experiencia de construcción y juego, este juguete ninja es un regalo inesperado ideal para niños y niñas que disfrutan jugando a ser sus héroes ninja
 - Un emocionante juguete infantil con un dragón: Los niños y las niñas de 6 años o más podrán interpretar las escenas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones con el juego Joven Dragón Riyu
+- 3 minifiguras: Este juego ninja incluye a Arin armado con un gancho de escalada y una catana, a Sora con una catana y a un guerrero Máscara de Lobo con una espada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVYQ5CF{{</world>}}

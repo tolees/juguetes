@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colores brillantes: rosa, lila, verde y blanco
+- En bolsa ecológica sin PVC, con asa
 - Ideal a partir de un año
+- Colores brillantes: rosa, lila, verde y blanco
+- Colores brillantes: rosa, lila, verde y blanco
 - ¡Compatible con otros productos Mega Bloks de la línea First Builders!
-- Ideal a partir de un año
-- 60 bloques de construcción maxi
-- En bolsa ecológica sin PVC, con asa
-- Colores brillantes: rosa, lila, verde y blanco
-- En bolsa ecológica sin PVC, con asa
 - Compatible con otros productos Mega Bloks de la línea First Builders
+- Ideal a partir de un año
+- En bolsa ecológica sin PVC, con asa
+- 60 bloques de construcción maxi
 - 60 bloques de construcción maxi
 
 [🛒 Visítala!!!]({{< param buyurl >}})

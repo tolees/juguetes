@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Más de 65 miniaturas detalladas: este juego de mesa semicooperativo incluye figuras en miniatura muy detalladas en bases de 25 mm y modelos de muebles detallados para una experiencia de juego inmersiva.
 - Héroes míticos: el reino necesita campeones para desafiar a las fuerzas malvadas del hechicero Dread Zargon. Cuatro héroes: Bárbaro, Enano, Elfa y Mago, han respondido a la llamada.
 - Impresionante obra de arte: las cartas y folletos de HeroQuest cuentan con increíbles obras de arte que ayudan a llevar la imaginación de los jugadores a un mundo fantástico lleno de monstruos ocultos, trampas mortales y mucho más.
 - Juego ilimitado: este juego de mesa HeroQuest de 2 a 5 jugadores está recomendado a partir de 14 años. El juego cuenta con 14 misiones y los jugadores también podrán crear sus propias historias y construir misiones.
-- Más de 65 miniaturas detalladas: este juego de mesa semicooperativo incluye figuras en miniatura muy detalladas en bases de 25 mm y modelos de muebles detallados para una experiencia de juego inmersiva.
 - Juego de aventura inmersivo: el juego de mesa HeroQuest de Avalon Hill es un rastreador de mazmorras de fantasía en el que los jugadores deben trabajar juntos para luchar contra monstruos aterradores y completar misiones épicas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

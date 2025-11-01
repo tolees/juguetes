@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto 2: Figura de Naruto Uzamaki de Anime Heroes
-- producto 1: Anime Heroes - Naruto Kakashi
 - producto 2: Con accesorios intercambiales para recrear más poses y ataques de la serie
+- producto 1: Anime Heroes - Naruto Kakashi
+- producto 2: Figura de Naruto Uzamaki de Anime Heroes
 - producto 2: ¡Derrota a tus enemigos!
 - producto 2: Figura de 17 cm de altura y más de 20 puntos de articulación
 

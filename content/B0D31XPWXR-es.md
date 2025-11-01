@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sois miembros supervivientes de los Cuchillas, una organización legendaria que en el pasado velaba por los intereses del Imperio de Tamriel
-- Juega a lo largo de seis capítulos en dos campañas que abarcan 25 años de la historia de Tamriel y pueden repetirse infinidad de veces
 - Skyrim: El juego de aventuras ofrece una experiencia de juego ilimitada que te permite recrear la historia de Tamriel, combatir enemigos, buscar tesoros y frustrar una conspiración que se cierne sobre la provincia de Skyrim
+- Juega a lo largo de seis capítulos en dos campañas que abarcan 25 años de la historia de Tamriel y pueden repetirse infinidad de veces
 - Asume el papel de un valeroso héroe y embárcate en aventuras cooperativas o en solitario, con misiones encadenadas y misterios por desvelar que te garantizan centenares de horas de juego
+- Sois miembros supervivientes de los Cuchillas, una organización legendaria que en el pasado velaba por los intereses del Imperio de Tamriel
 - Abandonados por vuestros antiguos aliados, debéis unir fuerzas para derrotar a vuestros adversarios, emprender intrigantes misiones y afrontar la incipiente amenaza que pretende destruir todo aquello que jurasteis proteger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

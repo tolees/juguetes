@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maqueta de templo ninja: El detallado templo ninja cuenta con una casa de té, una zona de entrenamiento en el manejo de armas, un jardincito y el escenario de un torneo con 2 placas giratorias para interpretar combates
-- 4 minifiguras NINJAGO para el juego de rol ninja: Los guerreros lego NINJAGO Zane, Nya, Kai y Lloyd, así como un dragón de juguete (Riyu bebé) para dar vida a la acción
 - Juguete ninja infantil de construcción: Los niños y las niñas de 4 años o más podrán descubrir lo divertido que es construir e interpretar historias ninja con el juguete de construcción Templo Ninja del Spinjitzu
-- Regalo de cumpleaños para niños y niñas de 4 años o más: Este juguete NINJAGO es un gran regalo para peques a partir de 4 años, les proporciona una divertida experiencia de construcción y juego, desarrollando su imaginación y habilidades narrativas
 - Accesorios y armas ninja: Este set de juguetes de interpretación incluye armas ninja (2 espadas y 3 bastones), un martillo, un pájaro de juguete, una rana, una tetera, una galleta, una taza, un trofeo y una carta
+- Maqueta de templo ninja: El detallado templo ninja cuenta con una casa de té, una zona de entrenamiento en el manejo de armas, un jardincito y el escenario de un torneo con 2 placas giratorias para interpretar combates
+- Regalo de cumpleaños para niños y niñas de 4 años o más: Este juguete NINJAGO es un gran regalo para peques a partir de 4 años, les proporciona una divertida experiencia de construcción y juego, desarrollando su imaginación y habilidades narrativas
+- 4 minifiguras NINJAGO para el juego de rol ninja: Los guerreros lego NINJAGO Zane, Nya, Kai y Lloyd, así como un dragón de juguete (Riyu bebé) para dar vida a la acción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHSDC4QB{{</world>}}
