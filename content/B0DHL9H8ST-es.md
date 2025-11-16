@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Incluye un STEELBOOK con arte exclusivo
 - Escabúllete, lucha y desata impresionantes plagas de ratas
+- Sumérgete en impresionantes efectos visuales combinados con una cautivadora banda sonora
 - Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
 - Más de 100 premios y nominaciones
-- Sumérgete en impresionantes efectos visuales combinados con una cautivadora banda sonora
-- Incluye un STEELBOOK con arte exclusivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHL9H8ST{{</world>}}

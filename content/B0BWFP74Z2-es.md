@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diversión sin límites con el juego de mesa de Sonic The Hedgehog Conseguirás ir a una velocidad supersónica y atrapar el diamante antes que el resto de jugadores
-- Incluye: 1 tablero de juego, fichas, 1 anillo interdimensional, 1 spinner e instrucciones
-- Cómo jugar: gira por turnos el spinner y reúne 5 fichas mientras avanzas en el recorrido; cuando tengas las 5 fichas, atraviesa el anillo y desbloquea el siguiente nivel para conseguir el diamante y salvar la Tierra
 - Edad: recomendado a partir de 6 años 2-4 jugadores
+- Cómo jugar: gira por turnos el spinner y reúne 5 fichas mientras avanzas en el recorrido; cuando tengas las 5 fichas, atraviesa el anillo y desbloquea el siguiente nivel para conseguir el diamante y salvar la Tierra
 - Valores: favorece la socialización y la toma de decisiones y desarrolla la concentración y la imaginación
+- Incluye: 1 tablero de juego, fichas, 1 anillo interdimensional, 1 spinner e instrucciones
+- Diversión sin límites con el juego de mesa de Sonic The Hedgehog Conseguirás ir a una velocidad supersónica y atrapar el diamante antes que el resto de jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BWFP74Z2{{</world>}}

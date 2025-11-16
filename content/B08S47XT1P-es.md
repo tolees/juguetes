@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricada con tejidos suaves.
+- A partir de 3 años
 - ¡El dibujo de la camiseta y el lazo de Minnie Mouse se iluminan!
 - ¡Aprieta la mano de Minnie Mouse y canta con ella "Minnie’s Bow-Toons Are Waiting for You"!
-- A partir de 3 años
+- Fabricada con tejidos suaves.
 - Necesita 2 pilas AA (incluidas).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DEMUÉSTRALO EN LA BATALLA CON BEYBLADE X: Disfruta la emoción de la competencia con este dinámico top de batalla. Arma tus tops, carga tus lanzadores y... 3, 2, 1... Let it rip! (Requiere Beystadium, se vende por separado)
+- BEYSTADIUM PORTÁTIL: ¡El Beystadium portátil está diseñado para que lo lleves a todas partes! Se convierte en arena de combate y se cierra en pocos pasos para que lo lleves allí donde vayas y estés listo para la batalla
 - LLEVA EL COMBATE CONTIGO: ¡Con el poder de la portabilidad! El Beystadium portátil te permite llevar la arena de combate y tus batallas Beyblade a todas partes
 - CHOQUES CON ÉPICAS EXPLOSIONES: Las increíbles velocidades que los tops Beyblade X experimentan al entrar en contacto con el riel del Beystadium permiten explosiones impresionantes y choques colosales (La frecuencia de explosión varía)
-- BEYSTADIUM PORTÁTIL: ¡El Beystadium portátil está diseñado para que lo lleves a todas partes! Se convierte en arena de combate y se cierra en pocos pasos para que lo lleves allí donde vayas y estés listo para la batalla
 - CON RIEL DE ACELERACIÓN: Este Beystadium Beyblade X presenta el nuevo sistema Acelerador-X. Cuando los engranajes del piñón entran en contacto con el riel del estadio, los tops experimentan una aceleración extrema que los propulsa a increíbles velocidades (solo compatible con Beyblade X)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

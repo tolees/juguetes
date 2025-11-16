@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llega antes que tus oponentes para ganar.
+- Avanza por el circuito cada vez que digas una palabra correcta.
 - Las letras válidas irán cambiando a medida que acertéis palabras. ¡Si tu equipo encuentra más palabras que el equipo rival, ganaréis puntos!
 - Tu equipo tendrá que gritar palabras que empiecen por letras concretas y encajen en cierta categoría
-- Avanza por el circuito cada vez que digas una palabra correcta.
+- Llega antes que tus oponentes para ganar.
 - Tu equipo debe gritar palabras de esa categoría que empiecen por la letra del circuito.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

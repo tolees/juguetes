@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compuesto por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
-- 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar motricidad fina memoria visual y psicomotricidad además de Estimular curiosidad y imaginación de niños y adultos.
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
-- 🧩 Puzzle lenticular de 300 piezas con efecto 3D. Dimensiones aproximadas del puzzle montado: 61 x 46 cm.
 - Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967 Educa es sinónimo de calidad y experiencia. Puzzle infantil recomendado a partir de 6 años.
+- 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar motricidad fina memoria visual y psicomotricidad además de Estimular curiosidad y imaginación de niños y adultos.
+- Compuesto por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
+- 🧩 Puzzle lenticular de 300 piezas con efecto 3D. Dimensiones aproximadas del puzzle montado: 61 x 46 cm.
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVT3BD69{{</world>}}

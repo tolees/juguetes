@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en felpa muy suave
-- 20 cm de alto
-- Peluche Yoshi Super Mario
 - Licencia oficial
+- Fabricado en felpa muy suave
+- Peluche Yoshi Super Mario
+- 20 cm de alto
 - Adecuado desde los primeros meses de edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

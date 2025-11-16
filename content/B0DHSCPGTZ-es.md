@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 mini muñecos y 2 figuras de animales: Incluye 4 personajes y figuras de un perro y un mapache, además de girasoles, verduras, tentempiés, un teclado, un banco de trabajo con herramientas de juguete y más accesorios
-- Serie en Internet: Inspira más ideas de juego con el resto de los sets de la gama (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo (disponible en Internet), donde los peques podrán conocer a los personajes de Heartlake City
 - Kit de construcción de una casa del árbol de juguete para peques: El set Quedada en la Casa del Árbol de la Amistad para niñas y niños a partir de 8 años viene con elementos personalizables y montones de accesorios para fomentar el juego de roles
 - Un set repleto de historias de amistad: Los niños podrán interpretar diferentes historias en la casa del árbol de este juego de naturaleza, que cuenta con espacios donde los personajes juegan, cocinan y duermen, y también con un huerto de verduras
+- 4 mini muñecos y 2 figuras de animales: Incluye 4 personajes y figuras de un perro y un mapache, además de girasoles, verduras, tentempiés, un teclado, un banco de trabajo con herramientas de juguete y más accesorios
+- Serie en Internet: Inspira más ideas de juego con el resto de los sets de la gama (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo (disponible en Internet), donde los peques podrán conocer a los personajes de Heartlake City
 - Una casa del árbol idónea como regalo para niñas de 8 años o más: Este set es un óptimo regalo para niñas y niños a partir de 8 años con pasión por los animales, la naturaleza y el juego de roles de historias basadas en la amistad
 - Escalera, tobogán y ascensor canino: Contiene divertidas características, como una escalera retráctil, un tobogán y un ascensor que usa el perro de juguete Pickle para acceder a los diversos niveles de la casa del árbol
 

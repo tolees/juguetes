@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resiste y sobrevive
 - Revive el aclamado juego que lo cambió todo para la consola PlayStation5
+- Resiste y sobrevive
 - Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
 - Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
 

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - El helicóptero es mono plaza y giran las hélices
 - Puede aterrizar en cualquier sitio incluyendo enel tejado de la Comisaría
-- Juguete para niños a partir de 4 años
 - El Mini Helicóptero de Policía de Pinypon Action patrulla y protege la cuidad desde el aire sin parar y puede aterrizar en cualquier sitio incluyendo en el tejado de la Comisaría. El helicóptero es mono plaza y giran las hélices. Incluye una figura de piloto policía y pequeños accesorios de acción
 - Set incluye el helicóptero, una figura de piloto policía y pequeños accesorios de acción
+- Juguete para niños a partir de 4 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QKXVS8R{{</world>}}

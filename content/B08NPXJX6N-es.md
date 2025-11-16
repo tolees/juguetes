@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De 2 a 4 Jugadores
 - A partir de 10 años de edad
+- Reúne a un equipo de superhéroes e intenta evitar que Thanos ponga fin a nuestro mundo.
 - Las Gemas del Infinito están diseminadas por todo el Multiverso. Usa su esencia para reclutar a héroes y villanos y obtén puntos de Infinito.
 - Reúne a los Vengadores, adquiere lugares y, cuando estés listo, reclama el Guantelete del Infinito!
-- De 2 a 4 Jugadores
-- Reúne a un equipo de superhéroes e intenta evitar que Thanos ponga fin a nuestro mundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08NPXJX6N{{</world>}}

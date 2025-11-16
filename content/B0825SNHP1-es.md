@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La adorable figura está inspirada en la serie de Disney+ El Mandaloriano. Con su piel verde, sus grandes orejas y sus enormes ojos, parece un bebé Yoda y lo llaman El Niño.
 - Este peluche de El Niño de 28 cm cautivará los corazones de los fans de Star Wars de todo el mundo.
 - El personaje lleva la misma túnica que en la serie.
-- La adorable figura está inspirada en la serie de Disney+ El Mandaloriano. Con su piel verde, sus grandes orejas y sus enormes ojos, parece un bebé Yoda y lo llaman El Niño.
 - A los fans de Star Wars les encantará ponerse en la piel del cazarrecompensas mandaloriano y cuidar de El Niño.
 - El peluche tiene un cuerpo blando y una base robusta rellena de semillas, ideal para abrazarlo o para coleccionarlo y exhibirlo
 

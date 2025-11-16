@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para conseguir la mayor cantidad de puntos al final de cada ronda.
-- Un juego divertido en el que afrontas grandes decisiones
 - Pero cuidado: ¡la avaricia rompe la bolsa! Y lo mejor de todo es que las rondas duran solo unos minutos.
+- Un juego divertido en el que afrontas grandes decisiones
 - A partir de 8 años de edad.
+- Para conseguir la mayor cantidad de puntos al final de cada ronda.
 - De 2 a 5 jugadores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

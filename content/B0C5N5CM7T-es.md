@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pero algunos superhéroes siguen combatiendo a los no muertos. Sus viejos camaradas deberán ser eliminados antes de que puedan devorar al planeta entero.
-- Marvel Zombies: Heroes Resistance es un juego cooperativo en el que entre 1 y 4 jugadores controlan a los últimos superhéroes supervivientes que se enfrentan a héroes zombificados y a hordas de zombis manejadas por el propio juego.
-- Cuando los héroes más poderosos del mundo sucumbieron a la invasión zombi, casi todos pensaron que era el fin.
 - ¡Para ganar debes completar los objetivos de la misión, derrotar a los enemigos y rescatar a transeúntes!
 - ¡Eliminar zombis te proporcionará la experiencia necesaria para convertirte en un superhéroe aún más poderoso, pero cuanto más fuerte seas, más zombis aparecerán para darte caza y devorarte! ¡Solo trabajando en equipo y forzando sus poderes hasta el límite podrán los superhéroes tener esperanzas de poner fin al apocalipsis zombi!
+- Marvel Zombies: Heroes Resistance es un juego cooperativo en el que entre 1 y 4 jugadores controlan a los últimos superhéroes supervivientes que se enfrentan a héroes zombificados y a hordas de zombis manejadas por el propio juego.
+- Cuando los héroes más poderosos del mundo sucumbieron a la invasión zombi, casi todos pensaron que era el fin.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5N5CM7T{{</world>}}

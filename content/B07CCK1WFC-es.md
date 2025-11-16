@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye un vehículo de la colección, Capicúa la grúa
-- Compatible y ampliable con el resto de los sets y vehículos de la colección tut tut, que se venden por separado
-- Botones luminosos que enseñan nuevo vocabulario y reproducen canciones y melodías
-- Versión española
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 - Incorpora 9 tramos con sensor mágico, que se activan cuando detectan los vehículos de la colección, activando distintas interacciones, frases y sonidos
+- Incluye un vehículo de la colección, Capicúa la grúa
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Versión española
 - Garaje interactivo de la colección tut tut bólidos con voz y luces
+- Compatible y ampliable con el resto de los sets y vehículos de la colección tut tut, que se venden por separado
 - El garaje incluye un túnel de lavado, llave inglesa, engranajes, ascensor para subir los vehículos, helipuerto y diferentes elementos para manipular
+- Botones luminosos que enseñan nuevo vocabulario y reproducen canciones y melodías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CCK1WFC{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Charizard agitará las alas, rugirá y detectará los movimientos que le hagamos.
 - Producto distribuido oficialmente en España por Bizak. Servicio de atención al cliente todo el año (sat@bizak.es)
-- ¡Preparate para volar, rugir y mucho más con este fantástico set! Incluye 1 figura de Charizard, 1 figura Pikachu 5 cm. y un lanzador catapulta de Pikachu para poder lanzarlo y combatir contra Charizard.
 - Cuando esté listo para el ataque se le iluminará la cola, se preparará para el ataque y lanzará proyectiles de fuego por la boca.
+- Charizard agitará las alas, rugirá y detectará los movimientos que le hagamos.
+- ¡Preparate para volar, rugir y mucho más con este fantástico set! Incluye 1 figura de Charizard, 1 figura Pikachu 5 cm. y un lanzador catapulta de Pikachu para poder lanzarlo y combatir contra Charizard.
 - Charizard es un figura totalmente interactiva con más de 30 luces, sonidos y reacciones de movimientos únicas en su forma de volar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

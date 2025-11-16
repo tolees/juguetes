@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este juego trae un modo de juego específico
-- Arcade Quest
 - Juego de otra rivalidad
 - Un luchador para una otra generación
+- Arcade Quest
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGDSYRS9{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La casa familiar de Bluey es el juguete para jugar con las figuritas de Bluey, su familia y sus amigos
 - Una casita de juguete de óptimo tamaño y muchas características chulas; este set es completo, con muchos accesorios y lleno de detalles como puertas abatibles
 - Combina este juguete con otros playsets compatibles de Bluey disponibles, como el Mini Playset Playground, el Mini Playset Playroom o el Family Cruiser
 - Esta casa de Bluey tiene hasta 4 habitaciones diferentes y una tapa que cierra y abre la casa convirtiéndose en un óptimo patio exterior
+- La casa familiar de Bluey es el juguete para jugar con las figuritas de Bluey, su familia y sus amigos
 - Repleto de muchas piezas de muebles para mover de un sitio a otro y jugar; además el set incluye un muñeco articulado de Bluey
 
 [🛒 Aquí!!!]({{< param buyurl >}})

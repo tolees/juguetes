@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número de piezas: 231
+- Set de Expansión: Torre bamboleante del Hermano Sumo Jefe
 - Incluye figuras de juguete de LEGO Super Mario de 2 emblemáticos enemigos: el Hermano Sumo Jefe, con brazos que se golpean el pecho, y una figura de Crowber
 - Incorpora una torre construible que se vendrá abajo si una figura LEGO Mario y/o LEGO Luigi (no incluidas) pisa la palanca de la base
-- Set de Expansión: Torre bamboleante del Hermano Sumo Jefe
+- Número de piezas: 231
 - Edad recomendada por el fabricante: 6+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

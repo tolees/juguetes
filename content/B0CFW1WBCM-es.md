@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un universo de juguetes ninja para niños y niñas: los sets LEGO NINJAGO contienen mecas, vehículos y templos, y transportan a los peques a un universo de fantasía lleno de aventuras con sus héroes ninja
+- Regalo ninja: este set LEGO NINJAGO proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo para niños y niñas de 6 años en adelante que merezcan un premio inesperado
 - Dragón de juguete cargado de acción: los niños y las niñas de 6 años o más podrán recrear las batallas de la temporada 2 de la serie de televisión NINJAGO: El Renacer de los Dragones con el dragón planeador del set Ataque Rising Dragon de Arin
+- Elemento de poder dragón verde: el juguete de fantasía del dragón amarillo tiene un elemento de poder dragón verde vibrante en la boca
 - Juguete de acción ninja: los peques pueden colocar a la minifigura de Arin Rising Dragon en el lomo del dragón amarillo de juguete y darle un golpe a la cola dorada para lanzar a ambos volando por los aires
 - Aventuras ninja aún más trepidantes: descubre otros juguetes con más personajes LEGO NINJAGO (sets a la venta por separado) y organiza carreras entre los dragones de juguete
-- Regalo ninja: este set LEGO NINJAGO proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo para niños y niñas de 6 años en adelante que merezcan un premio inesperado
-- Elemento de poder dragón verde: el juguete de fantasía del dragón amarillo tiene un elemento de poder dragón verde vibrante en la boca
+- Un universo de juguetes ninja para niños y niñas: los sets LEGO NINJAGO contienen mecas, vehículos y templos, y transportan a los peques a un universo de fantasía lleno de aventuras con sus héroes ninja
 - 2 minifiguras LEGO NINJAGO: este juego ninja incluye una minifigura de Arin con una catana de juguete y otra de un guerrero Máscara de Lobo con su propia espada de juguete para que los peques puedan interpretar emocionantes batallas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

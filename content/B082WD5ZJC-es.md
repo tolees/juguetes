@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye 4 mini figuras de superhéroes de los Eternos: Ikaris, Sersi y las exclusivas mini figuras de Ajak y Kingo, una figura de Desviante y una figura de Celestial articulada
 - La gran figura del Celestial tiene un pecho que se ilumina gracias al ladrillo con efectos de luz y brazos que pueden agarrar: puede sostener la mini figura de un Eterno en la mano
-- A la Sombra de Arishem
 - Edad recomendada por el fabricante: 7+
+- A la Sombra de Arishem
 - Número de piezas: 493
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

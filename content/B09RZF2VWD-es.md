@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Farol de camping resistente, con 6 opciones de colores de luz (blanco, rojo, amarillo, verde, azul y morado) y efectos de sonido a juego con cada color
-- Los sonidos incluyen pájaros, bosque con búho, hoguera que chisporrotea, olas marinas, la corriente de un arroyo y lluvia con truenos en la distancia. Los sonidos se reproducen en bucle durante un máximo de 30 minutos (o se puede apretar para jugar sin sonido)
+- Incluye el farol, 3 tarjetas de doble cara para crear el ambiente adecuado (las tarjetas se guardan en la parte inferior del farol) y medallón coleccionable
 - Regalo fantástico para que los niños de 3 a 6 años jueguen de forma práctica y sin pantallas; requiere 3 pilas AA, no incluidas
 - Lets Explore anima a los niños a conectar con el mundo natural mediante el juego imaginativo y a descubrir el deleite de las aventuras al aire libre, lo que despierta la curiosidad y la seguridad
-- Incluye el farol, 3 tarjetas de doble cara para crear el ambiente adecuado (las tarjetas se guardan en la parte inferior del farol) y medallón coleccionable
+- Los sonidos incluyen pájaros, bosque con búho, hoguera que chisporrotea, olas marinas, la corriente de un arroyo y lluvia con truenos en la distancia. Los sonidos se reproducen en bucle durante un máximo de 30 minutos (o se puede apretar para jugar sin sonido)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RZF2VWD{{</world>}}

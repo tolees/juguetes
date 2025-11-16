@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bananagrams es fruto del trabajo hecho con cariño y nace de la pasión por el ingenio, los juegos de palabras y las ganas de hacer tonterías
 - Si quieres puedes proponer jugar tres o cinco partidas seguidas; la Gran Banana será aquella persona que haya ganado más partidas
-- Contenido: 114 fichas, un reglamento
 - Esperamos que disfrutes jugando tanto como la familia Bananagrams disfrutó creándolo
+- Bananagrams es fruto del trabajo hecho con cariño y nace de la pasión por el ingenio, los juegos de palabras y las ganas de hacer tonterías
 - Bananagrams es un juego divertido que a menudo las partidas terminan sin que hayas podido poner todas tus letras
+- Contenido: 114 fichas, un reglamento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09P8M6SJG{{</world>}}

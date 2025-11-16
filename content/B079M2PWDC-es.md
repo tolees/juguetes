@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estas figuritas son el complemente ideal para otros juguetes de Pinypon como el Palacio de Princesas o la Casa de Los Cuentos
-- Juguete recomendado para niños y niñas a partir de 4 años
-- Cada figura mide unos 7 cm aprox y está decorada con purpurina
 - Pack de 3 mágicas Princesas Pinypon con pequeños accesorios
+- Juguete recomendado para niños y niñas a partir de 4 años
+- Estas figuritas son el complemente ideal para otros juguetes de Pinypon como el Palacio de Princesas o la Casa de Los Cuentos
+- Cada figura mide unos 7 cm aprox y está decorada con purpurina
 - Las figuritas Pinypon estimulan la diverisón y creatividad porque puedes intercambiarles todo: la ropa, el pelo, y los accesorios hasta crear tu propio Pinypon: Mix is Max
 
 [🛒 Visítala!!!]({{< param buyurl >}})

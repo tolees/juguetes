@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene 98 piezas
-- De la colección Novelmore
 - Figura de adulto conductor
 - Incluye: carruaje con movimientos y caballos
+- De la colección Novelmore
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSL4DSL{{</world>}}
