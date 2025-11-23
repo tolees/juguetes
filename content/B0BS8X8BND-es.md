@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pela y revela: retira el corazón de tu Rainbocorn para revelar lo que les encanta
-- BOO-BOOCORN: Conoce a los adorables mini-me Boo-Boocorns, los amigos más pequeños de Rainboville
-- 10 sorpresas en el interior: hay 10 sorpresas para desempacar, incluyendo el compuesto de arena pegajosa para gatitos
 - Colecciónalos todos: hay 6 gatitos para adoptar y amar como parte de esta colección
 - Brilla en la oscuridad: estos gatitos tienen un brillo mágico en los ojos oscuros
+- 10 sorpresas en el interior: hay 10 sorpresas para desempacar, incluyendo el compuesto de arena pegajosa para gatitos
+- BOO-BOOCORN: Conoce a los adorables mini-me Boo-Boocorns, los amigos más pequeños de Rainboville
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS8X8BND{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ponte el guante Force Link (Disponible en el set para principiantes. Se vende por separado) ¡para activar sonidos y frases de la figura y efectos de sonido del vehículo!
 - El Ski Speeder de la Resistencia lanza proyectiles para crear aún más acción en la galaxia Star Wars
 - Ski Speeder de la Resistencia y figura del Capitán Poe Dameron de 9.5 cm activados con tecnología Force Link de Star Wars
+- Ponte el guante Force Link (Disponible en el set para principiantes. Se vende por separado) ¡para activar sonidos y frases de la figura y efectos de sonido del vehículo!
 - El ala derecha del Ski Speeder de la Resistencia se desmonta y simula un impresionante efecto de batalla cuando se desprende
 - Recrea aventuras y escenas del universo Star Wars
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Muévete de una habitación a otra y descubre quién lo hizo, dónde y con qué arma
+- La carrera para encontrar al culpable ha comenzado
 - Un asesinato, seis sospechosos, innumerables combinaciones, pero una sola respuesta
 - Investiga, disimula, acusa y gana
 - Nueva versión para dos jugadores que añade un nuevo toque de intriga
-- Muévete de una habitación a otra y descubre quién lo hizo, dónde y con qué arma
-- La carrera para encontrar al culpable ha comenzado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08483XCXQ{{</world>}}

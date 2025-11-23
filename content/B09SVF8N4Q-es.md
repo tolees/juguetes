@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Desde siempre atento a los problemas del medio ambiente, Clementoni opta por un amplio uso de materiales reciclados y evita los componentes contaminantes. Made in Italy.
 - Las imágenes más evocadoras, la mayor variedad de números de piezas y la calidad de Clementoni para una línea que supone una referencia para todos los entusiastas de los puzles.
 - Puzzle de 6000 piezas para adultos
 - Visita la sección de asistencia de Clementoni para hacer uso del servicio «piezas perdidas».
-- Desde siempre atento a los problemas del medio ambiente, Clementoni opta por un amplio uso de materiales reciclados y evita los componentes contaminantes. Made in Italy.
 - Dimensiones del puzle armado: 168,6 x 118,4 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Construir todo tipo de elementos, edificaciones u objetos, permite dar forma a los escenarios más particulares que hayamos podido imaginar.
-- El mundo de Minecraft está muy vivo y hay espacio para la exploración y la supervivencia.
-- El embalaje puede variar
-- La jugabilidad es online y offline, beneficiándose de la útil función de pantalla partida.
 - Minecraft es un juego de simulación y creación con gráficos pixelados.
 - El juego Minecraft se encuentra en constante actualización y progresión.
+- El embalaje puede variar
+- El mundo de Minecraft está muy vivo y hay espacio para la exploración y la supervivencia.
+- La jugabilidad es online y offline, beneficiándose de la útil función de pantalla partida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D1L22SD{{</world>}}

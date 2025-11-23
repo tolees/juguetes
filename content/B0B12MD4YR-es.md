@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Para horas de diversión
-- Juegos de habilidad
 - Juego de mesa
+- Juegos de habilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B12MD4YR{{</world>}}

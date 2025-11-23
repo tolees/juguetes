@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Utiliza nuevas armaduras y coches para derrotar a los alienígenas
 - Desbloquea y juega con más de 100 personajes
 - Multitud de personajes heroicos
-- Utiliza nuevas armaduras y coches para derrotar a los alienígenas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07M5SZPRX{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- ¡Los Smighties son pequeñas criaturas con gran poder! Diviértete con todos los Smighties y salva Smightiland de las garras de Sneevil y Biggs.
-- 8 personajes de 4cm, ¡colecciónalos todos!
-- Compatibles con el Castillo Mágico
-- Producto distribuido oficialmente en España por BIZAK.
 - ¡Consigue los 8 principales con el Pack Deluxe y recrea sus aventuras!
+- ¡Los Smighties son pequeñas criaturas con gran poder! Diviértete con todos los Smighties y salva Smightiland de las garras de Sneevil y Biggs.
+- Compatibles con el Castillo Mágico
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Producto distribuido oficialmente en España por BIZAK.
+- 8 personajes de 4cm, ¡colecciónalos todos!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2X2C6F6{{</world>}}

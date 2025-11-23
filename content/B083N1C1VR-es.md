@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Juego lógico de deducción à la Sudoku
 - Estilo Sudoku
 - Minecraft - Armaduras y armas
-- Juego lógico de deducción à la Sudoku
 - Elementos de juego magnéticos, por lo tanto son perfectos para llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

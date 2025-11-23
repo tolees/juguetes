@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los bloques pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
-- ¡Construye una cueva en la selva, una montaña con una cascada, una entrada a unas ruinas en la jungla, un lago con una pequeña playa y un bosque!
 - Este juguete de construcción, ideal para niños a partir de 9 años, ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 - Incluye a Butterfree, Squirtle, Kabuto y Rowlet
+- ¡Construye una cueva en la selva, una montaña con una cascada, una entrada a unas ruinas en la jungla, un lago con una pequeña playa y un bosque!
 - El conjunto de construcción cuenta con 1347 bloques y piezas para construir un enorme entorno con 4 secciones. Entre las múltiples opciones de juego disponibles, podrás abrir y cerrar una cueva, en la que se oculta la Great Ball
 
 [🛒 Aquí!!!]({{< param buyurl >}})

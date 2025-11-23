@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desarrolla la imaginación y creatividad
-- Pensado, desarrollado y fabricado en Italia
 - Número de jugadores: 1 o más
+- Pensado, desarrollado y fabricado en Italia
 - Kit para descubrir los secretos de la aerodinámica con más de 200 componentes y 10 modelos para armar
+- Desarrolla la imaginación y creatividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06W9KC8HZ{{</world>}}

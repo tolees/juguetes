@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cada muñeca incluye 2 accesorios para personalizarlas: un bolso y un móvil, además de su dareway que funciona con pull-back, ¡dale un impulso y se moverá hacia adelante!
-- 2 modelos de muñeca para coleccionar con 2 de los personajes protagonistas de la serie: Julia y Michelle
-- Michelle luce un pelo rosa y un outfit azul que combina con su Segway azul para moverse por el campus
-- Julia tiene el pelo rubio y un conjunto escolar a la moda con detalles rosas que hacen juego con su Segway rosa
 - Figuras con accesorio Dareway de la serie de dibujos animados infantil PINY Institute Of New York, con las que podrán recrear sus escenas favoritas
+- Julia tiene el pelo rubio y un conjunto escolar a la moda con detalles rosas que hacen juego con su Segway rosa
+- Michelle luce un pelo rosa y un outfit azul que combina con su Segway azul para moverse por el campus
+- 2 modelos de muñeca para coleccionar con 2 de los personajes protagonistas de la serie: Julia y Michelle
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C81D97PS{{</world>}}

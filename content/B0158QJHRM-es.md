@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De 3 a 7 jugadores
 - A partir de 8 años de Edad
 - Entre las flores, la del cerezo; entre los hombres, el samurái.–Proverbio japonés
 - Emplea de forma innovadora las mecánicas originales del juego del Salvaje Oeste más vendido del mundo
 - Samurai Sword es un juego independiente de la línea BANG! Game System
+- De 3 a 7 jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0158QJHRM{{</world>}}

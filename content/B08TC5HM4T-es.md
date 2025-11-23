@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Representa una colección de los personajes de Disney Pixar
 - Rompecabezas panorámico de 1000 piezas
+- Representa una colección de los personajes de Disney Pixar
 - Dimensiones: 98 x 33 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

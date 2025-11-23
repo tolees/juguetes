@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ganador del Premio al Mejor Juego Estratégico en las UK Games Expo
-- Juego económico, fácil de aprender y con partidas cortas de 2 a 5 jugadores
 - Uno de los mejores flip & write del mercado con un diseño retro muy atractivo
+- Juego económico, fácil de aprender y con partidas cortas de 2 a 5 jugadores
+- Ganador del Premio al Mejor Juego Estratégico en las UK Games Expo
 - Explora nuestra gama de productos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

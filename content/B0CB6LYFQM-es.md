@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es ideal para constructores y coleccionistas adultos.
-- Diferentes formas de exponerlo: el conjunto incluye una base plana y una muesca en la parte posterior para colgarlo en la pared.
-- Mide 15,24cm de alto y se construye con piezas en forma de píxel para conseguir un estilo de inspiración retro.
 - Officially licensed by The Pokémon Company International
+- Es ideal para constructores y coleccionistas adultos.
+- Mide 15,24cm de alto y se construye con piezas en forma de píxel para conseguir un estilo de inspiración retro.
+- Diferentes formas de exponerlo: el conjunto incluye una base plana y una muesca en la parte posterior para colgarlo en la pared.
 - Figura construible de Squirtle con el arte en forma de píxeles oficial de Pokémon.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

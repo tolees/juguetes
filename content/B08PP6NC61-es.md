@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 40 nuevos módulos de sistema y ruta hiperespacial añaden nuevos planetas y obstáculos al mapa
 - Esta enorme expansión viene cargada de nuevo contenido que puedes incorporar a tus partidas de Twilight Imperium.
+- Se necesita la caja básica de Twilight Imperium para jugar.
 - dos nuevos colores para los componentes de jugador incluidos en la expansión La Profecía de los Reyes permiten jugar a Twilight Imperium hasta un máximo de 8 jugadores.
 - La galaxia se hace mucho más grande con 7 nuevas facciones que entran en el juego, cada una con sus propios puntos fuertes y débiles
-- Se necesita la caja básica de Twilight Imperium para jugar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PP6NC61{{</world>}}

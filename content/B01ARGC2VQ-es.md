@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - ¡Es el clásico juego de cartas, pero ahora inspirado en Super Mario Bros!
 - Gana puntos el primer jugador en quedarse sin cartas en la mano.
-- Incluye una carta Superestrella de Mario y dos cartas personalizables.
-- ¡El primer jugador o equipo en llegar a 500 puntos es el ganador del juego!
 - Los jugadores se turnan para jugar una carta que coincida en color, número o símbolo con la última carta de la pila de descarte.
+- ¡El primer jugador o equipo en llegar a 500 puntos es el ganador del juego!
+- Incluye una carta Superestrella de Mario y dos cartas personalizables.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01ARGC2VQ{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 1500 piezas para poder crear láminas de colores vibrantes y diseños increíbles
-- Desarrolla habilidades de observación, lógica y destreza
 - Marca: Clementoni
+- Desarrolla habilidades de observación, lógica y destreza
 - Para pasar un momento con amigos o familia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

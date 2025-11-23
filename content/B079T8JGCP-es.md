@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de transportar: las cartas y las fichas se pueden guardar en el cajón de almacenaje
 - Contenido: Tablero 5x5 con almacenamiento, Transbordador y 5 ayudantes robot, 40 cartas de reto de nivel principiante a experto con soluciones, Instrucciones
 - Desarrolla la capacidad de estrategia y de resolución de problemas
+- Fácil de transportar: las cartas y las fichas se pueden guardar en el cajón de almacenaje
 - Creado por los autores japoneses del juego Rush Hour
 
 [🛒 Aquí!!!]({{< param buyurl >}})

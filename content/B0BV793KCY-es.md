@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este creativo set de juego permite a los fans escapar a un mundo de juguetes LEGO DREAMZzz con personajes geniales y un juego imaginativo; es un gran regalo de cumpleaños o detalle de Navidad para niños y niñas.
-- El set de construcción incluye las minifiguras LEGO DREAMZzz de Zoey con un arco y flechas, Nova y el Rey de las Pesadillas, además de una figura de Susan.
 - Este set de juguete LEGO DREAMZzz Caballo Volador Pegaso cuenta con 2 opciones de construcción para niños y niñas de 8 años o más, para que puedan recrear escenas de la serie de televisión.
 - Los niños pueden construir una figura de pájaro para que acompañe a Zoey o darle alas para que pueda perseguir a las pesadillas; también incluye el trono del Rey de las Pesadillas.
-- Las instrucciones de construcción, dirigidas por la historia, permiten a los niños dejar volar su imaginación al decidir el camino de Zoey; las instrucciones también están disponibles en la aplicación LEGO Builder.
+- Este creativo set de juego permite a los fans escapar a un mundo de juguetes LEGO DREAMZzz con personajes geniales y un juego imaginativo; es un gran regalo de cumpleaños o detalle de Navidad para niños y niñas.
 - El juguete de Pegaso tiene la cabeza, patas, cascos y cola completamente articulados; el elemento del trono y el pájaro de Zoey pueden conectarse a la espalda de la criatura fantástica.
+- Las instrucciones de construcción, dirigidas por la historia, permiten a los niños dejar volar su imaginación al decidir el camino de Zoey; las instrucciones también están disponibles en la aplicación LEGO Builder.
+- El set de construcción incluye las minifiguras LEGO DREAMZzz de Zoey con un arco y flechas, Nova y el Rey de las Pesadillas, además de una figura de Susan.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BV793KCY{{</world>}}

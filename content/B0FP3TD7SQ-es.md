@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CÓMO JUGAR: ¿Qué te gusta más: la pizza hawaiana, los selfies, la gente en general, los abrazos largos o el drama? Clasifica las cartas de artículos de la vida cotidiana según una escala que va del amor al asco. Juntos, los demás jugadores intentan adivinar tu orden de clasificación
-- FANTÁSTICO JUEGO DE FIESTA PARA GRUPOS: ¿Buscas un juego para animar tu próxima fiesta? Muy divertido para 2 o más jugadores (y aún mejor con grupos grandes), el juego Priorities es uno de los mejores juegos de fiesta para las noches de juegos, para romper el hielo y para las vacaciones
 - TÚ Y TUS AMIGOS COMPETÍS CONTRA EL JUEGO: En este juego cooperativo, los jugadores juegan en grupo para ganar una carta por cada rango de clasificación que adivinen... o el juego gana. Así que no hay ninguna competencia estresante, solo ridículos debates y muchas risas
-- EL HILARANTE JUEGO DE FIESTA DE LA SINCERIDAD EXTREMA Y DE LAS ELECCIONES ABSURDAS: ¿Qué tan bien conoces a tus amigos? Descúbrelo con el juego Priorities que te hará dudar sobre sus prioridades... y las tuyas
+- FANTÁSTICO JUEGO DE FIESTA PARA GRUPOS: ¿Buscas un juego para animar tu próxima fiesta? Muy divertido para 2 o más jugadores (y aún mejor con grupos grandes), el juego Priorities es uno de los mejores juegos de fiesta para las noches de juegos, para romper el hielo y para las vacaciones
 - FÁCIL DE APRENDER, RÁPIDO DE JUGAR: Solo se requieren 2 minutos para aprender a jugar el juego y 30 para jugarlo. Ni instrucciones largas ni detalles complicados; empieza a jugar y a divertirte de inmediato
+- EL HILARANTE JUEGO DE FIESTA DE LA SINCERIDAD EXTREMA Y DE LAS ELECCIONES ABSURDAS: ¿Qué tan bien conoces a tus amigos? Descúbrelo con el juego Priorities que te hará dudar sobre sus prioridades... y las tuyas
+- CÓMO JUGAR: ¿Qué te gusta más: la pizza hawaiana, los selfies, la gente en general, los abrazos largos o el drama? Clasifica las cartas de artículos de la vida cotidiana según una escala que va del amor al asco. Juntos, los demás jugadores intentan adivinar tu orden de clasificación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FP3TD7SQ{{</world>}}

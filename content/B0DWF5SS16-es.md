@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 6 minifiguras LEGO NINJAGO: Kai, Wyldfyre, Cole, Nokt, un explorador Dragónido Espectral y, por primera vez, Frak, además de un avión planeador de juguete y un modelo de una criatura
 - Un universo de juguetes LEGO NINJAGO: Con la extensa colección de juguetes ninja, los peques se transportan a un universo de fantasía y juego imaginativo habitado por sus héroes ninja
 - Vehículo ninja transformable: Con el Vehículo de Combate Ninja, los niños y las niñas a partir de 8 años podrán interpretar trepidantes aventuras aéreas y terrestres inspiradas en la temporada 3 de NINJAGO: El Renacer de los Dragones
-- Motos ninja de juguete desmontables: El gran vehículo NINJAGO se puede separar en 3 vehículos más pequeños (la moto ninja de Kai, la moto ninja de Wyldfyre y el avión a reacción de Frak, con 2 cañones que disparan)
 - Armas ninja: Kai, Wyldfyre y Frak cuentan con 2 catanas doradas de juguete, Cole tiene una espada reveladora translúcida y un farol, y Nokt y el explorador Dragónido Espectral empuñan una espada de juguete cada uno
-- Una divertida forma de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción; podrán acercar y girar versiones en 3D de sus modelos a medida que construyen, consultar su progreso y guardar sets
 - Regalo para niños y niñas de 8 años o más: Este juguete proporciona una divertida experiencia de construcción y juego, y es una gran idea de regalo de cumpleaños para jóvenes entusiastas del juego imaginativo y los sets de juguetes de aventuras
-- 6 minifiguras LEGO NINJAGO: Kai, Wyldfyre, Cole, Nokt, un explorador Dragónido Espectral y, por primera vez, Frak, además de un avión planeador de juguete y un modelo de una criatura
+- Una divertida forma de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción; podrán acercar y girar versiones en 3D de sus modelos a medida que construyen, consultar su progreso y guardar sets
+- Motos ninja de juguete desmontables: El gran vehículo NINJAGO se puede separar en 3 vehículos más pequeños (la moto ninja de Kai, la moto ninja de Wyldfyre y el avión a reacción de Frak, con 2 cañones que disparan)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWF5SS16{{</world>}}

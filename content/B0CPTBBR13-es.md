@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A los jugadores del juego UNO les encantarán los gráficos inspirados en los personajes de Lilo y Stitch de Disney.
-- Cuando te quede una sola carta, no grites Aloha, sino ¡UNO!
+- Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas coleccionable es un regalo estupendo para los fans de Lilo y Stitch de Disney.
 - La regla especial Ohana hará que los jugadores con más de 4 cartas descarten 4 de ellas y que los jugadores con menos de 4 cartas roben un máximo de 4.
 - La jugabilidad es la misma que la del clásico juego de cartas en el que los jugadores emparejan colores y números para deshacerse de todas sus cartas.
-- Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas coleccionable es un regalo estupendo para los fans de Lilo y Stitch de Disney.
+- Cuando te quede una sola carta, no grites Aloha, sino ¡UNO!
+- A los jugadores del juego UNO les encantarán los gráficos inspirados en los personajes de Lilo y Stitch de Disney.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPTBBR13{{</world>}}
