@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
 - 👨‍👩‍👧‍👦 ¡DIVERSIÓN EN FAMILIA! Juego de mesa para padres e hijos. Ríe, imagina y conecta con tu familia mientras disfrutáis sin pantallas.
 - 🎁 ¡REGALO IDEAL! El mejor plan familiar. Perfecto para cumpleaños, Navidad o para animar comidas y tardes con niños y padres.
-- 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
 - 🏆 ¡480 CARTAS DE RETOS Y RISAS! Responde en 8 segundos a cartas con preguntas, mímica y desafíos para fomentar la imaginación y crear recuerdos inolvidables juntos.
 - 💡 ¡FÁCIL Y RÁPIDO! A partir de 8 años y desde 2 jugadores. Partidas cortas y dinámicas para disfrutar en familia o con amigos.
 

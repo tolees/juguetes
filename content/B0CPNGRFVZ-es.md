@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- No lo olvidéis, el jugador al que solo le quede una carta (o su compañero) tiene que gritar UNO
 - UNO Teams sigue siendo el juego clásico que los jugadores conocen y adoran, pero ahora en equipos de dos
+- Si uno de los compañeros se queda sin cartas, cogerá la mitad de las cartas de la mano de su compañero y seguirá jugando
 - Juega una carta con el símbolo de “pasar” y los jugadores podrán pasar una carta de su elección a su compañero
 - Cartas especiales como el comodín “Juego en equipo” y el comodín “Roba cuatro en equipo” ayudarán a los equipos a ganar unidos
-- Si uno de los compañeros se queda sin cartas, cogerá la mitad de las cartas de la mano de su compañero y seguirá jugando
-- No lo olvidéis, el jugador al que solo le quede una carta (o su compañero) tiene que gritar UNO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPNGRFVZ{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - LOS AMIGOS MÁS GENIALES: Conoce a Barbie y a sus mejores amigos; "Brooklyn" Roberts, Renee, un apasionado del deporte; Daisy, una talentosa DJ; Teresa, amante de la ciencia; Nikki, una aspirante a diseñadora de moda, ¡y el único Ken! Además, conoce a su familia, incluyendo a sus hermanas amantes de la diversión: ¡Skipper, Stacie y Chelsea! ¡Incluso sus padres, el Sr. y la Sra. Roberts, se unen a la aventura!
 - PEINADOS: ¡Prepárate para un cambio de imagen! En la DreamHouse hay una peluquería y puedes diseñar montones de peinados diferentes.
-- VAMOS A MUDARNOS: ¿Te interesan las renovaciones de diseño de interiores? Ayúdame a diseñar cada habitación con hermosos papeles pintados y decoraciones deslumbrantes. ¡Haz tú propia DreamHouse!
 - VÍSTETE: ¿Tienes algún consejo de moda? Vístete con hermosos vestidos de princesa o relájate en cómodos pijamas, ¡hay un atuendo para todos! ¡Prepárate para un cambio de imagen con Teresa y descubre todos los accesorios geniales que puedes agregar a tu nuevo look!
+- VAMOS A MUDARNOS: ¿Te interesan las renovaciones de diseño de interiores? Ayúdame a diseñar cada habitación con hermosos papeles pintados y decoraciones deslumbrantes. ¡Haz tú propia DreamHouse!
 - COCINA, HORNEADO Y JARDINERÍA: ¿Por qué no te unes a mí en mi increíble cocina? ¡Hay tantas recetas deliciosas para cocinar! O pasa tiempo en tu jardín y cultiva tus frutas y verduras favoritas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lleva el vehículo con cambio de color de Rayo McQueen incluido al túnel de lavado y desliza la carretilla elevadora para moverlo.
-- Rocíalo con agua caliente para cambiar su aspecto; sumérgelo en el tanque de agua helada para cambiarlo de nuevo. ¡Repítelo una y otra vez!
 - Pasa por los rodillos de espuma y reposta en el surtidor antes de volver a salir a la carretera.
 - Transforma el tiempo de juego con el conjunto de túnel de lavado submarino Color Change de Disney Pixar Cars, que incluye una transformación de color que los niños y niñas pueden contemplar en tiempo real.
+- Rocíalo con agua caliente para cambiar su aspecto; sumérgelo en el tanque de agua helada para cambiarlo de nuevo. ¡Repítelo una y otra vez!
 - Inspirado en la serie Cars On The Road de Disney+, este conjunto de juego con cambio de colores es un regalo perfecto para niños, niñas y fans de Cars a partir de los 3 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

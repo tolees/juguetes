@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para creaciones de pistas de bolas
-- Adecuado para regalar
 - Bloques de juguete para construir
+- Adecuado para regalar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSZ63YV3{{</world>}}

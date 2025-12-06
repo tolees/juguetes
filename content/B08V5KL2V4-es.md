@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema autocorrectivo en el que cada una de las multiplicaciones se asocia a un dibujo, por lo tanto el niño puede saber si lo ha hecho correctamente
+- Habilidades que desarrolla: aprender las tablas de multiplicar a través del juego y iniciarse en el respeto a las normas
 - Contenido: 6 láminas a doble cara con las 12 tablas de multiplicar y 59 fichas reversibles
 - Juego educativo con el que los niños se familiarizarán con las tablas de multiplicar; Cada lámina representa una tabla de multiplicar diferente, desde la tabla del 1 a la del 12
-- Habilidades que desarrolla: aprender las tablas de multiplicar a través del juego y iniciarse en el respeto a las normas
+- Sistema autocorrectivo en el que cada una de las multiplicaciones se asocia a un dibujo, por lo tanto el niño puede saber si lo ha hecho correctamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08V5KL2V4{{</world>}}

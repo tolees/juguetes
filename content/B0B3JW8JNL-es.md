@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funciones sonoras basada en sensores de movimiento. Impulsores luminosos.
 - Incluye figura de Obi Wan Kenobi, Princesa Leia, Han Solo y Chewbacca
-- La cabina se adapta a las 4 figuras. Apertura de la mitad trasera con detalles completos de las habitaciones de la tripulación y el área del motor. Plato de radar giratorio y cañones manejables y pivotantes.
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Funciones sonoras basada en sensores de movimiento. Impulsores luminosos.
+- La cabina se adapta a las 4 figuras. Apertura de la mitad trasera con detalles completos de las habitaciones de la tripulación y el área del motor. Plato de radar giratorio y cañones manejables y pivotantes.
 - Nave espacial icónica de Star Wars de 30 cm con 4 figuras escala perfecta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

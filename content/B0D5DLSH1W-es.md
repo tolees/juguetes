@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Recarga a través de USB; Requisitos de la batería: Aqua Blaze: 1 batería recargable Li-PO (incluida) + Transmisor: 2 pilas "AAA" (no incluidas)
+- Helicóptero de 3 canales equipado con control de 2,4 GHz.
 - Control preciso de la velocidad y excelente estabilidad de vuelo
 - Transmisor con trimmer izquierdo y derecho
-- Helicóptero de 3 canales equipado con control de 2,4 GHz.
 - Helicóptero 3 en 1 que puede conducir en tierra, surfear en el agua y volar en el aire.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

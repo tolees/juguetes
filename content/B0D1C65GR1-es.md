@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Edición Coleccionista PS5
+- Sin texto - Sin HUD Sólo inmersión
 - Narración silenciosa
 - Puzzles de resolución mental
-- Sin texto - Sin HUD Sólo inmersión
 - La naturaleza como mecánica de juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

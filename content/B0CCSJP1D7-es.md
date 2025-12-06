@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EDAD: Perfecto para niños de 8+ años.
-- CONTENIDO: 72 x Cartas de Futbolista 30 x Cartas de Acción 1 x Carta de Dado 15 x Cartas de Campo 2 x Cartas de Balón 6 x Cartas de Arma Secreta 12 x Cartas de Presdiente 12 x Cartas de Piqué 2x Cartas de Marcador 1 x Caja marcador de goles
-- JUEGO DE CARTAS: Selecciona tu equipo favorito y se el primero en marcar 5 goles. ¡Sumérgete en la emocionante experiencia de la Kings League con el juego oficial de cartas!
-- NÚMERO DE JUGADORES: 2-8 jugadores
-- ¿CÓMO JUGAR? Enfréntate en el trepidante y divertido partido de fútbol de la Kings League. ¿Goles que valen por 2? ¿Super paradones? ¿Un campo que cambia de tamaño? Activa a tu Presidente para potenciar tus ataques, prepara las jugadas con tu equipo. Utiliza el pulsador, estate atento al dado y, sobre todo… ¡ten cuidado con las Cartas de Piqué!
 - Compite como si fuese la Eurocopa con este Juego de Cartas, elige tu selección favorita y lucha para ser el campeón
+- EDAD: Perfecto para niños de 8+ años.
+- JUEGO DE CARTAS: Selecciona tu equipo favorito y se el primero en marcar 5 goles. ¡Sumérgete en la emocionante experiencia de la Kings League con el juego oficial de cartas!
+- CONTENIDO: 72 x Cartas de Futbolista 30 x Cartas de Acción 1 x Carta de Dado 15 x Cartas de Campo 2 x Cartas de Balón 6 x Cartas de Arma Secreta 12 x Cartas de Presdiente 12 x Cartas de Piqué 2x Cartas de Marcador 1 x Caja marcador de goles
+- ¿CÓMO JUGAR? Enfréntate en el trepidante y divertido partido de fútbol de la Kings League. ¿Goles que valen por 2? ¿Super paradones? ¿Un campo que cambia de tamaño? Activa a tu Presidente para potenciar tus ataques, prepara las jugadas con tu equipo. Utiliza el pulsador, estate atento al dado y, sobre todo… ¡ten cuidado con las Cartas de Piqué!
+- NÚMERO DE JUGADORES: 2-8 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCSJP1D7{{</world>}}

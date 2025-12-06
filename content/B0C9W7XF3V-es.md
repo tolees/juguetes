@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los más pequeños pueden disfrutar de horas y horas de juegos de imitación con temática de viajes gracias a este conjunto de juego en forma de aeropuerto de Little People
-- Conjunto de juego de aeropuerto, incluye 1 avión de juguete, 2 figuras y 1 pieza de juego de equipaje para que la narración de historias sea de lo más realista
-- Funciones de juego manuales: Gira el rodillo para escoger un destino, dale la vuelta a la cinta transportadora de equipaje, pasa la máquina de rayos X y haz descender a las figuras por la rampa plegable
-- Monta a las dos figuras en el avión; tanto las figuras como el vehículo y la pieza de juego tienen un tamaño adecuado para que las manitas pequeñas puedan agarrarlos y moverlos
 - Ayuda a los niños y niñas de entre 1 y 5 años a fortalecer la motricidad fina, les enseña la relación de causa y efecto y fomenta el juego de narración de historias
+- Conjunto de juego de aeropuerto, incluye 1 avión de juguete, 2 figuras y 1 pieza de juego de equipaje para que la narración de historias sea de lo más realista
+- Monta a las dos figuras en el avión; tanto las figuras como el vehículo y la pieza de juego tienen un tamaño adecuado para que las manitas pequeñas puedan agarrarlos y moverlos
+- Funciones de juego manuales: Gira el rodillo para escoger un destino, dale la vuelta a la cinta transportadora de equipaje, pasa la máquina de rayos X y haz descender a las figuras por la rampa plegable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9W7XF3V{{</world>}}

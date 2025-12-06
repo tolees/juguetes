@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- JUGUETE REGALO: Recomendado para niños y niñas a partir de 3 años
+- CÁPSULA CON FORMA DE CUPCAKE: Vienen escondidos dentro de una monísima cápsula llena de confeti
 - EMPIEZA A DECORAR: Pega el confeti de colores en la pompa y juega con los accesorios incluidos
 - BENEFICIOS: Desarrolla la imaginación y creatividad creando historias con todos los accesorios Bubiloons
-- CÁPSULA CON FORMA DE CUPCAKE: Vienen escondidos dentro de una monísima cápsula llena de confeti
-- 13 A COLECCIONAR: En total hay 13 monísimos personajes con 1 especial a descubrir
-- JUGUETE REGALO: Recomendado para niños y niñas a partir de 3 años
 - MODELO SOPRESA: Cada cápsula contiene una muñeca aleatoria
+- 13 A COLECCIONAR: En total hay 13 monísimos personajes con 1 especial a descubrir
 - SOPLAN POMPAS: Pon el soplador en la boca del muñeco y aprieta su cabecita para crear la burbuja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

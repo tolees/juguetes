@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGA COMO UNO DE LOS ÍCONOS DEL MUNDO DE SUPER MARIO: Incluye 6 peones Monopoly que representan personajes y objetos especiales de la película The Super Mario Bros.: la sartén de Toad, un superchampiñón, la corona de Peach y muchos más...
-- INSPIRADO EN LA PELÍCULA THE SUPER MARIO BROS.: En el juego Monopoly Super Mario Bros., los jugadores podrán imaginar que combaten contra Bowser para salvar el Reino Champiñón, mientras exploran el mundo de la película
-- CUIDADO CON BOWSER: El peón de Bowser se mueve por el tablero de manera independiente. Cuidado: Bowser puede robar propiedades, robar monedas y enviar a los jugadores a la cárcel
-- LAS TUBERÍAS DE TELETRANSPORTE ACELERAN LA PARTIDA: Los jugadores que caigan en la casilla de Tubería de Teletransporte pueden moverse a cualquier casilla que esté entre esa casilla y la siguiente Tubería de Teletransporte
-- REGALO DE SUPER MARIO PARA NIÑOS Y NIÑAS: Los juguetes de Super Mario son el regalo perfecto para los fans de Super Mario y de Monopoly. Edad recomendada: A partir de 8 años
 - CONSIGUE LUGARES DEL MUNDO DE SUPER MARIO: Los jugadores compran, venden, intercambian y planean para ganarlo todo en este juego de mesa, que incluye lugares de la película The Super Mario Bros. Gana la mayor cantidad de monedas para ganar
+- REGALO DE SUPER MARIO PARA NIÑOS Y NIÑAS: Los juguetes de Super Mario son el regalo perfecto para los fans de Super Mario y de Monopoly. Edad recomendada: A partir de 8 años
+- JUEGA COMO UNO DE LOS ÍCONOS DEL MUNDO DE SUPER MARIO: Incluye 6 peones Monopoly que representan personajes y objetos especiales de la película The Super Mario Bros.: la sartén de Toad, un superchampiñón, la corona de Peach y muchos más...
+- CUIDADO CON BOWSER: El peón de Bowser se mueve por el tablero de manera independiente. Cuidado: Bowser puede robar propiedades, robar monedas y enviar a los jugadores a la cárcel
+- INSPIRADO EN LA PELÍCULA THE SUPER MARIO BROS.: En el juego Monopoly Super Mario Bros., los jugadores podrán imaginar que combaten contra Bowser para salvar el Reino Champiñón, mientras exploran el mundo de la película
+- LAS TUBERÍAS DE TELETRANSPORTE ACELERAN LA PARTIDA: Los jugadores que caigan en la casilla de Tubería de Teletransporte pueden moverse a cualquier casilla que esté entre esa casilla y la siguiente Tubería de Teletransporte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWSCD46P{{</world>}}

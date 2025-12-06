@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas coleccionable es un regalo estupendo para los fans de Barbie.
-- A los jugadores de UNO les encantarán los gráficos que muestran juguetes y juegos que Mattel ha creado a lo largo de los años.
 - Paquete especial de color rojo rubí para celebrar el 80. aniversario de Mattel.
 - ¡Los gráficos incluyen Hot Wheels, Barbie, Rock em Sock em Robots, Scrabble, Magic 8 Ball y mucho más!
 - La jugabilidad es la misma que la del clásico juego de cartas en el que los jugadores emparejan colores y números para deshacerse de todas sus cartas.
+- A los jugadores de UNO les encantarán los gráficos que muestran juguetes y juegos que Mattel ha creado a lo largo de los años.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DC16JL91{{</world>}}

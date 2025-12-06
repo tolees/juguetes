@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Immortality expande Dune: Imperium en nuevas direcciones. Haz oscuros tratos con los Tleilaxu para recolectar especímenes genéticos.
-- ¿Contratarás espías Danzarines Rostro de habilidad inigualable? ¿Investigarás la regeneración de tejidos y órganos dañados? ¿O te atreverás a utilizar a personas devueltas a la vida como gholas?
 - Mientras las Grandes Casas libran una guerra, la Bene Tleilax avanza en su propia estrategia comerciando con innovaciones genéticas.
 - Libera el potencial de la investigación científica. Usa injertos para potenciar a tus agentes.
 - Immortality es la segunda expansión del galardonado juego de mesa de colocación de trabajadores y construcción de mazos Dune: Imperium: Immortality
+- ¿Contratarás espías Danzarines Rostro de habilidad inigualable? ¿Investigarás la regeneración de tejidos y órganos dañados? ¿O te atreverás a utilizar a personas devueltas a la vida como gholas?
+- Immortality expande Dune: Imperium en nuevas direcciones. Haz oscuros tratos con los Tleilaxu para recolectar especímenes genéticos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPDNSN5{{</world>}}

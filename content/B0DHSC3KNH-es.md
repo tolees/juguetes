@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 mini muñecas, un micro muñeco y una figura de un gato de juguete: Los peques podrán dar vida a montones de historias diferentes con los personajes y los divertidos accesorios incluidos en el set
-- Serie en Internet: Inspira más ideas de juego con el resto de los sets de la gama (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo (disponible en Internet), donde los peques podrán conocer a los personajes de Heartlake City
 - Historias en una tienda de caramelos: Este juguete de construcción, diseñado para reforzar las habilidades sociales de los niños, les permite interpretar interacciones vendedora-clientes o imaginar historias de hermanos con Leo y la pequeña Alba
 - Dulce diversión en la tienda: Contiene accesorios típicos de una tienda de chucherías, como una selección de chuches al peso, una piruleta gigante, una máquina de chicles y un área donde se elaboran las golosinas, con ingredientes, tijeras y una olla
-- Set infantil lleno de imaginación para recrear situaciones cotidianas: Set de juego de rol Tienda de Golosinas de Heartlake City para niñas y niños a partir de 6 años, con 2 mini muñecas, un micro muñeco, una figura de un gato y accesorios
 - Idea de regalo de cumpleaños: Este set es un divertido regalo de cumpleaños o solo porque sí para niñas y niños de 6 años en adelante que disfrutan con el juego creativo y las visitas a la tienda de golosinas
+- 2 mini muñecas, un micro muñeco y una figura de un gato de juguete: Los peques podrán dar vida a montones de historias diferentes con los personajes y los divertidos accesorios incluidos en el set
+- Serie en Internet: Inspira más ideas de juego con el resto de los sets de la gama (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo (disponible en Internet), donde los peques podrán conocer a los personajes de Heartlake City
+- Set infantil lleno de imaginación para recrear situaciones cotidianas: Set de juego de rol Tienda de Golosinas de Heartlake City para niñas y niños a partir de 6 años, con 2 mini muñecas, un micro muñeco, una figura de un gato y accesorios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHSC3KNH{{</world>}}

@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
-- VERSIÓN: Española
-- LEONES, NÚMEROS Y PALABRAS, ¡QUÉ EMOCIÓN!: Divertidas animaciones y sonidos acompañarán a las letras y números para que los peques se diviertan aprendiendo con las 12 actividades educativas que refuerzan el lenguaje, matemáticas y las habilidades musicales, ¡y mucho más!
 - ACTIVIDADES EDUCATIVAS: Desarrolla las habilidades lingüísticas y habilidades matemáticas básicas.
-- JUEGOS: Mi cámara, Amigo parlante, Mi piano.
+- LEONES, NÚMEROS Y PALABRAS, ¡QUÉ EMOCIÓN!: Divertidas animaciones y sonidos acompañarán a las letras y números para que los peques se diviertan aprendiendo con las 12 actividades educativas que refuerzan el lenguaje, matemáticas y las habilidades musicales, ¡y mucho más!
 - EDAD: Tablet interactiva con piano, juguete para niños +2 años.
-- ASPECTOS EDUCATIVOS: Habilidades matemáticas básicas, Creatividad musical, Desarrollo del lenguaje, Juego imaginativo.
+- VERSIÓN: Española
+- JUEGOS: Mi cámara, Amigo parlante, Mi piano.
+- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
 - EXPLORA LOS DÍAS DE LA SEMANA: ¿Cuáles son las divertidas actividades diarias que puedes hacer?.
+- ASPECTOS EDUCATIVOS: Habilidades matemáticas básicas, Creatividad musical, Desarrollo del lenguaje, Juego imaginativo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RMBFD71{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TAMAÑO COLECCIONABLE - Con aproximadamente 5,5 pulgadas (14 cm) de ancho y 5,5 pulgadas (14 cm) de alto, esta mini figurita de vinilo complementa otras mercancías coleccionables y encaja perfectamente en su vitrina o en su escritorio.
-- AMPLÍA TU COLECCIÓN - Añade esta pieza de exhibición de vinilo nan única a tu creciente surtido de muñecos Funko Pop! y busca otros artículos coleccionables raros y exclusivos para tener un conjunto completo
 - MARCA LÍDER EN CULTURA POP - Confía en la experiencia de Funko, el principal creador de artículos de cultura pop que incluye figuras de vinilo, juguetes de acción, peluches, ropa, juegos de mesa y mucho más.
 - MATERIAL DE VINILO DE PRIMERA CALIDAD - Fabricado en vinilo duradero de alta calidad, este muñeco coleccionable está hecho para durar y soportar el desgaste diario, garantizando un disfrute duradero tanto para los fans como para los coleccionistas.
+- AMPLÍA TU COLECCIÓN - Añade esta pieza de exhibición de vinilo nan única a tu creciente surtido de muñecos Funko Pop! y busca otros artículos coleccionables raros y exclusivos para tener un conjunto completo
+- TAMAÑO COLECCIONABLE - Con aproximadamente 5,5 pulgadas (14 cm) de ancho y 5,5 pulgadas (14 cm) de alto, esta mini figurita de vinilo complementa otras mercancías coleccionables y encaja perfectamente en su vitrina o en su escritorio.
 - REGALO PERFECTO PARA LOS FANS DE HOUSE OF THE DRAGON - Ideal para fiestas, cumpleaños u ocasiones especiales y como regalo esta exclusiva figurita es un complemento imprescindible en cualquier colección de merchandising de House of the Dragon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

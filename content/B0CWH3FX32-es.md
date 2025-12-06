@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 4 mini muñecos y una figura de un perro: los 4 mini muñecos LEGO Friends que vienen en el set son los huéspedes Zac, Olly y Aliya, cada uno con su propia maleta, y la propietaria del hostal, Renée, además de su perro
-- Un hostal para construir y exponer: regala a tu peque o a tu adolescente de 12 años o más el Hostal del Castillo de juguete, un gratificante proyecto de construcción que le permitirá dar forma a todos los elaborados detalles de la maqueta del hotel
-- Más historias de amistad: explora otros sets de construcción LEGO (a la venta por separado) del universo LEGO Friends, donde los peques podrán descubrir personajes diversos y representar aventuras basadas en la vida real
-- Un “château” de 3 plantas con numerosos detalles: el edificio incluye una zona de recepción, una sala de desayunos, una habitación doble, la “suite” principal, un salón, una terraza, un baño y un ático
 - Montones de accesorios: el set contiene infinidad de accesorios, como maletas, objetos de desayuno, comederos para perros, toallas, jabón, un patito de goma, un teléfono, una cámara, un paraguas, un globo terráqueo, un cofre del tesoro y mucho más
+- Un hostal para construir y exponer: regala a tu peque o a tu adolescente de 12 años o más el Hostal del Castillo de juguete, un gratificante proyecto de construcción que le permitirá dar forma a todos los elaborados detalles de la maqueta del hotel
 - Regalo para niñas, niños y adolescentes de 12 años o más: este juego inspirado en un castillo reconvertido en hostal es un óptimo regalo para jóvenes apasionados de los proyectos de construcción que disfrutarían creando su propio “château” LEGO
+- Un “château” de 3 plantas con numerosos detalles: el edificio incluye una zona de recepción, una sala de desayunos, una habitación doble, la “suite” principal, un salón, una terraza, un baño y un ático
+- Más historias de amistad: explora otros sets de construcción LEGO (a la venta por separado) del universo LEGO Friends, donde los peques podrán descubrir personajes diversos y representar aventuras basadas en la vida real
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CWH3FX32{{</world>}}

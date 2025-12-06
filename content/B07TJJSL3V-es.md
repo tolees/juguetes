@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - REGISTRO DE ACTIVIDAD: Cuenta con una memoria Virtual que registra la actividad de tu entrenamiento y te muestra, a través de la pantalla LCD principal, la distancia acumulada, la distancia recorrida, la velocidad y la frecuencia cardiaca.
 - MÁXIMO CONFORT Y PERSONALIZACIÓN: Adapta tu Trainer X-Bike a las necesidades de ejercicio que requieras. Mantente en forma con Gridinlux.
-- SISTEMA DE PEDALEO MAGNÉTICO: Cuenta con un Sistema MAGNETIC-TECH de pedaleo. No utiliza correa. De ésta manera, podrás utilizar durante más tiempo y de manera más eficiente esta bicicleta.
 - DOBLE MANILLAR CON PULSÓMETRO: En su manillar principal incorpora sensores de pulso para ambas manos. Además, cuenta con un manillar secundario que podrás utilizar para practicar ejercicio de manera más cómoda, apoyándote en el respaldo acolchado incorporado en el sillín.
 - PLEGABLE DE FÁCIL MANEJO Y GUARDADO: Podrás guardar fácilmente esta bicicleta y sacarla sólo cuando la vayas a utilizar. Ocupa muy poco espacio y pesa muy poco para que puedas transportarla sin problemas.
+- SISTEMA DE PEDALEO MAGNÉTICO: Cuenta con un Sistema MAGNETIC-TECH de pedaleo. No utiliza correa. De ésta manera, podrás utilizar durante más tiempo y de manera más eficiente esta bicicleta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TJJSL3V{{</world>}}

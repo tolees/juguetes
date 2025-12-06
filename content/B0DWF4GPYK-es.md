@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Nave de Star Wars: El caza estelar cuenta con cabina que se abre, alas ajustables a las posiciones de vuelo y aterrizaje, y 2 cañones que disparan para jugar a imaginar batallas
+- Caza estelar LEGO Star Wars: Las Guerras Clon: Únete a Obi-Wan Kenobi en trepidantes misiones con el detallado Caza Estelar V-19 Torrent de juguete
 - Basado en Las Guerras Clon: Despliega las 3 alas hacia abajo y usa el ala central, situada en la parte inferior del caza estelar, como mango para hacerlo “volar”
-- 3 minifiguras LEGO Star Wars: Asajj Ventress con 2 espadas láser rojas de empuñadura curva, el General Obi-Wan Kenobi con una espada láser azul y un piloto clon con una pistola bláster
 - Regalo LEGO Star Wars: El caza estelar de juguete es un gran regalo para niños, niñas y cualquier fan a partir de 9 años de Star Wars: Las Guerras Clon
 - Explora la gama: Los sets LEGO Star Wars (a la venta por separado) ofrecen a peques y fans adultos de Star Wars la oportunidad de revivir escenas clásicas, crear nuevas historias o, simplemente, exponer los modelos construibles
 - Una forma divertida de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción en la que podrán acercar y girar una versión digital 3D de sus modelos mientras los construyen y mucho más
-- Caza estelar LEGO Star Wars: Las Guerras Clon: Únete a Obi-Wan Kenobi en trepidantes misiones con el detallado Caza Estelar V-19 Torrent de juguete
-- Nave de Star Wars: El caza estelar cuenta con cabina que se abre, alas ajustables a las posiciones de vuelo y aterrizaje, y 2 cañones que disparan para jugar a imaginar batallas
+- 3 minifiguras LEGO Star Wars: Asajj Ventress con 2 espadas láser rojas de empuñadura curva, el General Obi-Wan Kenobi con una espada láser azul y un piloto clon con una pistola bláster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWF4GPYK{{</world>}}

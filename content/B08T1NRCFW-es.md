@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TARJETA DE HECHIZO DE WINGARDIUM LEVIOSA: practica los movimientos de la varita que están descritos en la tarjeta para aprender el hechizo Wingardium Leviosa. Cada varita Harry Potter Deluxe tiene una tarjeta diferente con un hechizo icónico como Wingardium Leviosa, Incendio y otros
-- HARRY POTTER JUGUETES: explora el mundo mágico de las películas de Harry Potter con esta auténtica varita de 30 cm. La varita de Hermione Granger os trasladará a ti y a tus hijos a las fantásticas aventuras del famoso héroe de la saga
-- REGALOS NIÑOS 6 AÑOS: esta varita Mágica Deluxe de Hermione Granger es una gran idea de regalo para cualquier momento y evento del año (cumpleaños, Navidad, Reyes...). Lleva a tus hijos al fabuloso mundo de las películas de Harry Potter y deja que vuele su imaginación (juguetes para niños de 6 años +)
-- INCLUYE: 1 varita, 1 tarjeta de hechizos
 - VARITA HERMIONE AUTÉNTICA : esta varita Hermione Granger de Harry Potter es una réplica auténtica de 30 cm con una base que facilita su sujeción. Es la varita mágica perfecta para tus aventuras en el "Wizarding World of Harry Potter"
+- HARRY POTTER JUGUETES: explora el mundo mágico de las películas de Harry Potter con esta auténtica varita de 30 cm. La varita de Hermione Granger os trasladará a ti y a tus hijos a las fantásticas aventuras del famoso héroe de la saga
+- TARJETA DE HECHIZO DE WINGARDIUM LEVIOSA: practica los movimientos de la varita que están descritos en la tarjeta para aprender el hechizo Wingardium Leviosa. Cada varita Harry Potter Deluxe tiene una tarjeta diferente con un hechizo icónico como Wingardium Leviosa, Incendio y otros
+- INCLUYE: 1 varita, 1 tarjeta de hechizos
 - HARRY POTTER MERCHANDISING OFICIAL: la varita "Spellbinding Wand" de Hermione es imprescindible para tu colección. Colecciona una varita Harry Potter y juega a lanzar hechizos.También están disponibles las varitas de Harry, Ron Weasley, Dumbledore y Luna Lovegood para crear aventuras llenas de magia (se venden por separado)
+- REGALOS NIÑOS 6 AÑOS: esta varita Mágica Deluxe de Hermione Granger es una gran idea de regalo para cualquier momento y evento del año (cumpleaños, Navidad, Reyes...). Lleva a tus hijos al fabuloso mundo de las películas de Harry Potter y deja que vuele su imaginación (juguetes para niños de 6 años +)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T1NRCFW{{</world>}}

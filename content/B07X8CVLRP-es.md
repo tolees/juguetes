@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
-- ⚡ ¡REGLAS SENCILLAS! Un jugador pregunta, el otro responde en 8 segundos. Si acierta, gana el punto. ¡No hay tiempo para pensar!
-- 🍑 ¡SINVERGÜENZA TOTAL! 400 preguntas y 80 cartas especiales para descubrir el lado más loco y atrevido de tus amigos.
-- 🥳 ¡FIESTAS ÉPICAS! De 2 a 10 jugadores, +16 años y partidas de 15 a 60 min. Regalo original para cumpleaños, despedidas y reuniones.
 - 🤪 ¡8 SEGUNDOS DE LOCURA! Juego de mesa divertido y sin filtros. Responde rápido a preguntas absurdas y locas. ¡Risas garantizadas!
+- ⚡ ¡REGLAS SENCILLAS! Un jugador pregunta, el otro responde en 8 segundos. Si acierta, gana el punto. ¡No hay tiempo para pensar!
+- 🥳 ¡FIESTAS ÉPICAS! De 2 a 10 jugadores, +16 años y partidas de 15 a 60 min. Regalo original para cumpleaños, despedidas y reuniones.
+- 🌱 ¡RESPONSABLE Y SOLIDARIO! Fabricado en Europa con papel sostenible. Donamos el 1% de beneficios a causas benéficas.
+- 🍑 ¡SINVERGÜENZA TOTAL! 400 preguntas y 80 cartas especiales para descubrir el lado más loco y atrevido de tus amigos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07X8CVLRP{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Así como los folletos de Receta para desbloquear más de una docena de modos de juego nuevos.
 - Recetas del desastre tiene todo lo que los principiantes necesitan para jugar su primera partida de Exploding Kittens
-- De 2 a 5 jugadores
-- Para jugadores más experimentados, tiene las mejores cartas de nuestras expansiones
 - A partir de 7 años
+- Así como los folletos de Receta para desbloquear más de una docena de modos de juego nuevos.
+- Para jugadores más experimentados, tiene las mejores cartas de nuestras expansiones
+- De 2 a 5 jugadores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG37N6X2{{</world>}}

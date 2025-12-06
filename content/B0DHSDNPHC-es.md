@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo del universo Nintendo para niños y niñas de 7 años o más: Pilota y derrapa en una maqueta para construir con ladrillos de la Moto Yoshi con este juguete de aventuras LEGO Super Mario: Mario Kart
 - Moto Yoshi de juguete: Coloca a Yoshi Azul Claro en la Moto Yoshi y zigzaguea entre 4 conos de tráfico, lanza caparazones desde la moto y esquiva el plátano para disfrutar de un divertido juego de acción
+- Regalo del universo Nintendo para niños y niñas de 7 años o más: Pilota y derrapa en una maqueta para construir con ladrillos de la Moto Yoshi con este juguete de aventuras LEGO Super Mario: Mario Kart
 - Estimula la imaginación de tu peque: Los sets LEGO Super Mario, diseñados como juego independiente y social, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - Juego interactivo: Monta a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) en la Moto Yoshi de juguete para desencadenar efectos de sonido/visuales de Mario Kart y consigue objetos digitales de la caja de objetos
 - Figura de Yoshi Azul Claro de juguete: Por primera vez en un set LEGO Super Mario, encontrarás una figura del personaje Yoshi Azul Claro y también un elemento que representa un plátano, decorado con una cara

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Reserva Avatar: Frontiers of Pandora para conseguir el pack Entre dos mundos, que incluye un conjunto estético de personaje y un aspecto de arma!*
 - Aprende a controlar tu fuerza y agilidad sobrenaturales, personaliza tu personaje, fabrica equipo nuevo y mejora las habilidades y las armas para adaptarlas a tu estilo de juego.
 - Juega la campaña de historia completa en solitario o junto a un amigo en el cooperativo en línea para dos jugadores.
 - Crea un vínculo con tu banshee para obtener ventaja en el combate aéreo y recorrer la extensa Frontera Occidental.
-- Reserva Avatar: Frontiers of Pandora para conseguir el pack Entre dos mundos, que incluye un conjunto estético de personaje y un aspecto de arma!*
 - Enfréntate a los peligros de Pandora aprovechando la certera precisión de las armas tradicionales navi, como el arco y el propulsor de lanzas, o recordando tu entrenamiento con los humanos para usar armas más destructivas como el rifle de asalto o la escopeta.
 - Mejora tu experiencia de juego con la Gold Edition y consigue acceso al Season Pass, que incluye dos packs de historia y mucho más!
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COLECCIÓNAMOS A TODOS: ¡Hay 6 gatitos para adoptar y amar como parte de esta colección!
-- PELAR Y REVELAR: ¡Pele el corazón de su Rainbocorn para revelar lo que aman!
-- BOO-BOOCORN: ¡Conoce a los adorables mini-yo Boo-Boocorns, los amigos más pequeños de Rainboville!
-- 10 SORPRESAS EN EL INTERIOR: ¡Hay 10 sorpresas para desempaquetar, incluido el compuesto pegajoso de arena para gatos!
 - BRILLA EN LA OSCURIDAD: ¡Estos Kittycorns tienen un brillo mágico en los ojos oscuros!
+- 10 SORPRESAS EN EL INTERIOR: ¡Hay 10 sorpresas para desempaquetar, incluido el compuesto pegajoso de arena para gatos!
+- BOO-BOOCORN: ¡Conoce a los adorables mini-yo Boo-Boocorns, los amigos más pequeños de Rainboville!
+- PELAR Y REVELAR: ¡Pele el corazón de su Rainbocorn para revelar lo que aman!
+- COLECCIÓNAMOS A TODOS: ¡Hay 6 gatitos para adoptar y amar como parte de esta colección!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS8JXLQ6{{</world>}}
