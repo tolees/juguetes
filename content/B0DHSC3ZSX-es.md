@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 2 minifiguras LEGO NINJAGO: Lloyd, armado con una catana dorada de juguete, y un infame guerrero explorador Dragónido, con un hacha de juguete, para que los niños se diviertan imaginando emocionantes aventuras ninja
 - Dragón NINJAGO articulado: La maqueta de construcción Dragón Verde del Bosque de Lloyd cuenta con cola, cuello, patas, manos y grandes alas móviles, así como con una montura para colocarle una minifigura en el lomo
 - Modelo de un dragón bebé de juguete: Este kit de construcción contiene también un modelo de un dragón bebé dorado que los fans de los ninja pueden cuidar, aumentando las posibilidades de juego
-- Regalo ninja: Además de proporcionar una divertida experiencia de construcción y juego, este dinámico juguete es una óptima idea de regalo para niños y niñas de 6 años en adelante que disfrutan interpretando historias ninja cargadas de acción
 - Un dragón de juguete NINJAGO: Los niños y las niñas a partir de 6 años podrán recrear las escenas aéreas de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones con el Dragón Verde del Bosque de Lloyd
-- 2 minifiguras LEGO NINJAGO: Lloyd, armado con una catana dorada de juguete, y un infame guerrero explorador Dragónido, con un hacha de juguete, para que los niños se diviertan imaginando emocionantes aventuras ninja
+- Regalo ninja: Además de proporcionar una divertida experiencia de construcción y juego, este dinámico juguete es una óptima idea de regalo para niños y niñas de 6 años en adelante que disfrutan interpretando historias ninja cargadas de acción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHSC3ZSX{{</world>}}

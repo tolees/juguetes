@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mecánicas: construcción de mapas; reconocimiento de patrones; solitario
-- Descubre el exigente Mazescape; atrévete a superar este desafío especialmente diseñado para mentes expertas
 - Un reto en solitario para los amantes de los puzzles y los laberintos
+- Descubre el exigente Mazescape; atrévete a superar este desafío especialmente diseñado para mentes expertas
+- Mecánicas: construcción de mapas; reconocimiento de patrones; solitario
 - Aprende a jugar en un minuto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

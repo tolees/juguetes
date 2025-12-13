@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De 2 a 8 jugadores
-- Idioma principal: español
 - A partir de los 10 años
+- Idioma principal: español
 - Duración: 15 minutos
 - Número de modelo: BGCOSEIM
 

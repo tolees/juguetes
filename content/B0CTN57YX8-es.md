@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Incluye una tela que la puedes transformar en mega lazo de pelo, mini falda, pañuelo etc
 - Crea tu figura óptima, tu obra de arte; juguete idóneo para niños a partir de los 4 años
-- Y para darle brillo a la figura, incluye un boli de purpurina morada y pegatinas de diamantitos
 - Figura Pinypon de 17cm que podrás personalizar completamente a tu gusto, hacerla óptima
+- Y para darle brillo a la figura, incluye un boli de purpurina morada y pegatinas de diamantitos
 - Viene con las pegatinas de ojos y boca, extensiones, trenzas y accesorios para personalizar su cara y pelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

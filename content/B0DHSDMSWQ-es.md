@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Regalo de Star Wars para niños, niñas y fans de 10 años o más: Regala este juguete de construcción LEGO de 1048 piezas a peques a partir de 10 años o a coleccionistas y fans de Star Wars: The Mandalorian
 - Minifigura LEGO de Grogu Baby Yoda: El modelo principal del juguete Star Wars viene con una placa de datos sobre Grogu en una base con espacio para la minifigura LEGO de Grogu incluida, de tamaño estándar y colocada en una aerocunita construible
 - Figura LEGO Star Wars con accesorios: Este juguete Star Wars de fantasía incluye una rana de Sorgan para construir con ladrillos LEGO, el pomo de una palanca de cambios y una galleta que Grogu Baby Yoda puede sostener en las manos
 - Figura articulada de Grogu: La figura para construir de Grogu Baby Yoda basada en la serie The Mandalorian tiene brazos que se mueven girando unos discos, cuenta con cabeza y orejas articuladas, y se puede exponer dentro o fuera de la aerocuna
-- Regalo de Star Wars para niños, niñas y fans de 10 años o más: Regala este juguete de construcción LEGO de 1048 piezas a peques a partir de 10 años o a coleccionistas y fans de Star Wars: The Mandalorian
 - Grogu Baby Yoda de juguete LEGO Star Wars con aerocuna: Crea una simpática pieza de exposición inspirada en Star Wars: The Mandalorian con Grogu como protagonista, idónea como deocración para una habitación juvenil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

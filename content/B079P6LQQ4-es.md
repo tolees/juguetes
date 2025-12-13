@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego educativo para aprender cómo se forman las palabras juntando las sílabas y, a la vez, cómo se separan
-- Los tableros son de dificultad progresiva, a medida que aumenta el número de sílabas
-- Se puede jugar individualmente o en grupo
 - El juego tiene un sistema autocorrectivo en el que si el color del semicírculo de la ficha coincide con el del tablero, es que está bien colocada
+- Se puede jugar individualmente o en grupo
 - Habilidades que desarrolla: Aprender cómo una palabra puede dividirse no sólo en letras, sino también en sílabas; Aprender la grafía y la partición correcta en sílabas de cada palabra propuesta por el juego; Iniciarse en el respeto a las reglas y desarrolla la sociabilidad
+- Juego educativo para aprender cómo se forman las palabras juntando las sílabas y, a la vez, cómo se separan
 - Contenido: 19 encajables con 2, 3 o 4 sílabas
+- Los tableros son de dificultad progresiva, a medida que aumenta el número de sílabas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079P6LQQ4{{</world>}}

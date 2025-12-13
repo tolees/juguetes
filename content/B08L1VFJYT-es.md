@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tira los dados y suma, resta, multiplica y divide para abrirte camino hasta el centro del tablero de juego, robando cartas prime y «golpeando» a tus oponentes a medida que avanzas para mandarles de vuelta a la casilla de salida
 - Contenido: 1 tablero, 1 tabla de multiplicaciones, instrucciones, 24 cartas prime + 4 cartas prime en blanco, 8 peones, 2 dados
 - Para 10 años o más
 - Lleva tus dos peones al 101; si lo has conseguido – has ganado
-- Tira los dados y suma, resta, multiplica y divide para abrirte camino hasta el centro del tablero de juego, robando cartas prime y «golpeando» a tus oponentes a medida que avanzas para mandarles de vuelta a la casilla de salida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L1VFJYT{{</world>}}

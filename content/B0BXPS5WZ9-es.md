@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Réplica del bus del Fútbol Club Barcelona
+- Apertura de puertas laterales y retrofricción
 - Packaging del club
 - Óptimo para regalo; el regalo óptimo para los fanáticos del fútbol
-- Apertura de puertas laterales y retrofricción
+- Réplica del bus del Fútbol Club Barcelona
 - Producto con licencia oficial del club
 
 [🛒 Comprar!!!]({{< param buyurl >}})

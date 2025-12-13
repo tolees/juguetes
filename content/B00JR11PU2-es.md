@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ahora, tus Tortugas Mutantes Ninja rellenas de Slime para estirar y estrujar a tu gusto. ¡Wow, vuelven a su estado original
-- ¡Las tortugas más famosas del mundo Leonardo, Donatello, Rafael y Miguel Ángel ya están de vuelta!
 - Su piel flexible y maleable hace que sean un juguete antiestrés muy satisfactorio al tacto. ¡Colecciónalas!
+- ¡Las tortugas más famosas del mundo Leonardo, Donatello, Rafael y Miguel Ángel ya están de vuelta!
+- Ahora, tus Tortugas Mutantes Ninja rellenas de Slime para estirar y estrujar a tu gusto. ¡Wow, vuelven a su estado original
 - ¡Las Tortugas Mutantes Ninja y el Slime de Canal Toys han unido sus poderes!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

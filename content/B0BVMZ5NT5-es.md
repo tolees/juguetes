@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons EL SEÑOR DE LOS Anillos: RIVENDEL - Regalo por el Día del Padre - Maqueta para Construir de la Tierra Media - Gran Set con 15 Minifiguras Inc. Frodo Bilbo Gandalf y Legolas 10316'
-date: 2025-12-11 20:49:22
+date: 2025-12-13 16:14:53
 image: 'https://m.media-amazon.com/images/I/51n6-pjQ1qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ '12+ años','8+years','Arborist Merchandising Root','Exclusives','Juegos
 actualPrice: 399.9 EUR
 currency: EUR
 price: 399.9
-comparePrice: 499.99 EUR
+comparePrice: 499.98 EUR
 prodname: 'LEGO Icons EL SEÑOR DE LOS Anillos: RIVENDEL - Regalo por el Día del Padre - Maqueta para Construir de la Tierra Media - Gran Set con 15 Minifiguras Inc. Frodo Bilbo Gandalf y Legolas 10316'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0BVMZ5NT5/?tag=tolees-21'
 descuento: '20.02'
-average: '467.354533333332'
+average: '465.602467532466'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Únete a la Comunidad del Anillo al llegar a Rivendell para participar en el Consejo de Elrond con esta maqueta para construir para adultos de 6617 piezas del Señor de los Anillos de LEGO Icons 2023
-- Esta maqueta LEGO presenta la casa de Elrond bellamente detallada, decorada con hojas de otoño que crean la sensación de estar dentro de los bosques de Rivendell
-- Un set de venta exclusiva en Amazon: un regalo ideal para adultos y amantes de las construcciones LEGO de nivel avanzado que busquen un nuevo desafío ambientado en The Lord of the Rings
 - Con detalles mágicos y referencias a la trilogía cinematográfica de El señor de los Anillos: una forja élfica, los fragmentos de Narsil, además de cuadros y estatuas de la historia de la Tierra Media
-- Este set de edición limitada incluye mini figuras LEGO de personajes legendarios como Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond y Gandalf el Blanco
-- Recrea momentos icónicos de las películas con la glorieta élfica, y el momento en que la Comunidad comienza su viaje sobre el puente construido con ladrillos y el río
 - Construye el Concilio con la piedra en la que se coloca un anillo y explora los interiores familiares, como el dormitorio de Frodo y el estudio desordenado de Elrond
+- Un set de venta exclusiva en Amazon: un regalo ideal para adultos y amantes de las construcciones LEGO de nivel avanzado que busquen un nuevo desafío ambientado en The Lord of the Rings
+- Recrea momentos icónicos de las películas con la glorieta élfica, y el momento en que la Comunidad comienza su viaje sobre el puente construido con ladrillos y el río
+- Únete a la Comunidad del Anillo al llegar a Rivendell para participar en el Consejo de Elrond con esta maqueta para construir para adultos de 6617 piezas del Señor de los Anillos de LEGO Icons 2023
+- Este set de edición limitada incluye mini figuras LEGO de personajes legendarios como Frodo, Sam, Bilbo Baggins, Boromir, Gimli, Aragorn, Legolas, Elrond y Gandalf el Blanco
+- Esta maqueta LEGO presenta la casa de Elrond bellamente detallada, decorada con hojas de otoño que crean la sensación de estar dentro de los bosques de Rivendell
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVMZ5NT5{{</world>}}

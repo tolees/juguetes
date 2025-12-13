@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Luces y reflectores incluidos
-- Peso: 17 kilogramos
-- Telaio in alluminio-Horquilla de acero
 - Caja de cambios Shimano TY21 / 6 velocidades
+- Luces y reflectores incluidos
+- Telaio in alluminio-Horquilla de acero
 - Longitud del marco 460 mm
+- Peso: 17 kilogramos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B086VVHM2W{{</world>}}

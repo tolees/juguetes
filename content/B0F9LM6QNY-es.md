@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los catalizadores incluidos aportan un giro inesperado en cada lucha, potenciando habilidades y multiplicando la estrategia
 - Incluye 2 personajes exclusivos con sus proyectiles para recrear batallas dinámicas llenas de acción y precisión
-- Enfréntate a otro jugador en duelos estratégicos con este pack de combate doble que eleva la intensidad del universo Doteki
 - Para mayores de 8 años; ideal para desarrollar coordinación, planificación táctica y reflejos en un entorno de juego competitivo
+- Los catalizadores incluidos aportan un giro inesperado en cada lucha, potenciando habilidades y multiplicando la estrategia
+- Enfréntate a otro jugador en duelos estratégicos con este pack de combate doble que eleva la intensidad del universo Doteki
 - Usa las llaves de vida de 3, 6 y 8 puntos para personalizar tus partidas y crear combates más intensos y equilibrados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

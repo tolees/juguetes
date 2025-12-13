@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una emocionante aventura en los nuevos juegos de rol Pokémon Espada
 - Los Pokémon que aparecen cambian en función del sector donde os encontréis y el tiempo que haga
 - Descubrirás Pokémon Legendarios conocidos como Zacian y Zamazenta
+- Una emocionante aventura en los nuevos juegos de rol Pokémon Espada
 - Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
 - Fenómeno Dinamax hace que los Pokémon adquieran un tamaño gigantesco y una fuerza increíble
 

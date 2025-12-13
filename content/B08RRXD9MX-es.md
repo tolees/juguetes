@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juguete para niños y niñas a partir de 4 años
-- Incluye pequeños accesorios como llamas; extintores y un megáfono
 - Bomba de agua con depósito que se puede rellenar y una manguera
+- Incluye pequeños accesorios como llamas; extintores y un megáfono
+- Juguete para niños y niñas a partir de 4 años
 - Con una escalera doble y dos figuras de bomberos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

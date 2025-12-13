@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo para viajeros: este regalo permite a las familias con niños y niñas a partir de 14 años realizar manualidades y crear momentos inolvidables cuando deseen disfrutar de actividades creativas juntos
 - Mapa de viajes para divertirse en grupo: inspira actividades de construcción en familia o planea tu próxima aventura con el kit de construcción Momentos de Viaje, que incluye un mapamundi de decoración y una maqueta de avión
-- Mapamundi de juguete: este juguete de construcción en familia incluye 1231 piezas y 5 conjuntos de instrucciones para construir un mapamundi de 4 secciones, una maqueta de avión, 4 micro vehículos, portafotos y otros accesorios
 - Decoración para el hogar o la oficina: coloca esta maqueta del mapamundi con portafotos tanto en la pared como en alguna estantería o escritorio del salón o la oficina para exponer recuerdos y viajes en familia
+- Regalo para viajeros: este regalo permite a las familias con niños y niñas a partir de 14 años realizar manualidades y crear momentos inolvidables cuando deseen disfrutar de actividades creativas juntos
 - Instrucciones de construcción 3D: construye como nunca con la app LEGO Builder, que os permite a tus niños y a ti construir juntos, guardar sets, controlar el progreso y ampliar y girar vuestros modelos en 3D
 - Kit de construcción de mapamundi: una vez construidos el mapa y el jet, las familias pueden usar las cubiertas decorativas y de ubicación, los micro vehículos y los portafotos para personalizar el set cuando quieran y exponerlo como decoración
 - Actividades en familia: el mapa viajero del set se puede modificar en cualquier momento para incluir un viaje reciente, planear nuevas y emocionantes posibilidades o inspirar nuevos viajes de aventura
+- Mapamundi de juguete: este juguete de construcción en familia incluye 1231 piezas y 5 conjuntos de instrucciones para construir un mapamundi de 4 secciones, una maqueta de avión, 4 micro vehículos, portafotos y otros accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWH24VXZ{{</world>}}

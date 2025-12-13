@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juguete de Construcción con tiendas del Callejón Diagon: Recrea mágicas escenas de la saga Harry Potter con los modelos construidos con ladrillos LEGO de la tienda Artículos de Calidad para Quidditch y la heladería Florean Fortescue
-- Tienda Artículos de Calidad para Quidditch: La tienda de juguete cuenta con una función de escoba flotante (Nimbus 2000) y con toda clase de equipo para Quidditch (uniforme de la casa Slytherin, Quaffle, Bludger, Snitch dorada y trofeos)
-- Construye con familiares y amigos: La app LEGO Builder ofrece la función Construye en Compañía, una experiencia divertida y colaborativa para divertirse en familia o con amigos construyendo con LEGO
 - Un mágico regalo del universo Harry Potter: Este juguete de construcción es un emocionante regalo de cumpleaños para niños, niñas y fans del Mundo Mágico a partir de 8 años
 - Crea tu propio Callejón Diagon construido con ladrillos LEGO: Los 2 establecimientos de este set pueden conectarse entre sí y con las demás tiendas de los juguetes LEGO Harry Potter ambientados en el Callejón Diagon, a la venta por separado
-- 6 minifiguras LEGO Harry Potter: Este juguete de fantasía y aventuras de Harry Potter incluye a Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang y una tendera
 - Heladería Florean Fortescue: La heladería de juguete se abre para jugar cómodamente en el interior y tiene una zona de servicio y una zona para sentarse en el piso superior, además de terraza y un puesto de helados en el exterior
+- Tienda Artículos de Calidad para Quidditch: La tienda de juguete cuenta con una función de escoba flotante (Nimbus 2000) y con toda clase de equipo para Quidditch (uniforme de la casa Slytherin, Quaffle, Bludger, Snitch dorada y trofeos)
+- Juguete de Construcción con tiendas del Callejón Diagon: Recrea mágicas escenas de la saga Harry Potter con los modelos construidos con ladrillos LEGO de la tienda Artículos de Calidad para Quidditch y la heladería Florean Fortescue
+- 6 minifiguras LEGO Harry Potter: Este juguete de fantasía y aventuras de Harry Potter incluye a Florean Fortescue, Katie Bell, Alicia Spinnet, Ron Weasley, Cho Chang y una tendera
+- Construye con familiares y amigos: La app LEGO Builder ofrece la función Construye en Compañía, una experiencia divertida y colaborativa para divertirse en familia o con amigos construyendo con LEGO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWF4JR58{{</world>}}

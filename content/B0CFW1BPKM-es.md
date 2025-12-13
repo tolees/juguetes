@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juguete para pequeños amantes del juego de roles: coloca las minifiguras del agente de policía y la ladrona en sus vehículos y libera todo un universo de juego creativo y narración de historias
-- Incluye un póster de “Se busca”: con el permiso de un adulto, tu peque podrá escanear el código QR de las instrucciones de construcción o la caja para ver una divertida aventura en vídeo de LEGO City Policía
-- ¿Qué contiene este set de construcción? Todo lo que tu peque necesita para construir un interceptador policial y un potente coche deportivo de fuga, más las minifiguras de un agente de policía y una ladrona para jugar a interpretar historias
-- Juego creativo ilimitado: tu peque disfrutará de aún más diversión y aventuras cuando use este juguete de construcción de policías con otros de la gama LEGO City (a la venta por separado)
 - Coche de policía de juguete para disfrutar de acción quemando rueda: vive la emoción de las persecuciones policiales con el set LEGO City Coche de Policía y Potente Deportivo para peques a partir de 6 años
 - Sobre los sets LEGO City: LEGO City es un lugar donde los niños pueden dejar fluir su ilimitada imaginación; sus estructuras, vehículos de juguete y ciudadanos son una apasionante motivación que los impulsa a construir, crear, explorar y jugar
+- Un juguete para pequeños amantes del juego de roles: coloca las minifiguras del agente de policía y la ladrona en sus vehículos y libera todo un universo de juego creativo y narración de historias
+- Juego creativo ilimitado: tu peque disfrutará de aún más diversión y aventuras cuando use este juguete de construcción de policías con otros de la gama LEGO City (a la venta por separado)
+- ¿Qué contiene este set de construcción? Todo lo que tu peque necesita para construir un interceptador policial y un potente coche deportivo de fuga, más las minifiguras de un agente de policía y una ladrona para jugar a interpretar historias
+- Incluye un póster de “Se busca”: con el permiso de un adulto, tu peque podrá escanear el código QR de las instrucciones de construcción o la caja para ver una divertida aventura en vídeo de LEGO City Policía
 - Un regalo LEGO para fans de los juguetes de policía: ofrece este set de coche LEGO City Policía como regalo de cumpleaños o porque sí a niños y niñas a partir de 6 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

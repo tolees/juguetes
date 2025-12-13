@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- Trae la misma caja que en el videojuego
-- Con 5 puntos de articulación
 - Tiene dos caras, con y sin dienetes.
 - Disfruta a lo grande con sus 30 cm.
+- Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Con 5 puntos de articulación
+- Trae la misma caja que en el videojuego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2K8CT9Z{{</world>}}

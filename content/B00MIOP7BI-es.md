@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - EMBALAJE RECICLABLE: Enviado en embalaje abrefácil, simple y reciclable​​​​​​​
 - MÁS DE 3 KILOS DE PLASTILINA PLAY-DOH: Este pack Play-Doh incluye 36 botes de 84 gramos de plastilina en colores surtidos para cubrir todas tus necesidades creativas y ¡hasta para compartir con tus amiguitos!
-- MOLDEA TU IMAGINACIÓN. La plastilina Play-Doh no tóxica, blanda y colorida despierta la imaginación de los niños y las niñas a partir de 2 años a los que les encantan las manualidades
 - MEGAPACK REPLETO DE DIVERSIÓN: Moldea, aplasta, mezcla y crea lo que quieras. Es idóneo para una gran variedad de usos, como actividades en clase, en reuniones con amigos, manualidades, para regalar en las fiestas de los más pequeños o en cumpleaños, o para renovar tus botes de Play-Doh
+- MOLDEA TU IMAGINACIÓN. La plastilina Play-Doh no tóxica, blanda y colorida despierta la imaginación de los niños y las niñas a partir de 2 años a los que les encantan las manualidades
 - CALIDAD DISTINTIVA PLAY-DOH: La plastilina Play-Doh, producto favorito desde 1956, se hace principalmente con trigo, agua y sal. Se somete a exhaustivas pruebas para que siempre sea de gran calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

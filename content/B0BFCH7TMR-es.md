@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un juego cooperativo y de partidas rápidas en el que tenemos que asociar conceptos para ganar
 - MECÁNICAS: Cooperativo; Tiempo real
 - Muchas horas de diversión y distintos modos de dificultad en caja pequeña, óptimo para llevar a cualquier parte
+- Un juego cooperativo y de partidas rápidas en el que tenemos que asociar conceptos para ganar
 - Funciona tanto para jugar en pareja como en grupos de hasta 6 jugadores, también con niños a partir de 7 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
