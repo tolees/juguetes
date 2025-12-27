@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Regalo gamer: Este set es un regalo basado en Nintendo para niños y niñas a partir de 9 años; para jugar de forma interactiva, se necesita el 71439, 71440, 71441 o 72043 (a la venta por separado)
+- App LEGO Super Mario: Descarga la app, donde encontrarás las instrucciones de construcción, ideas creativas y más contenidos; consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
 - Castillo de juguete: Levanta a Bowser Castillo de la base y disponte a explorar el interior, incluida la celda del Príncipe Florian, y levanta el castillo entero o solo la parte superior para “volar”
 - Juguete LEGO Super Mario para jugar y exponer: Recrea las batallas de Super Mario Bros Wonder con Bowser Castillo “volador” y lanzador de bolas de fuego e intenta liberar al Príncipe Florian
-- App LEGO Super Mario: Descarga la app, donde encontrarás las instrucciones de construcción, ideas creativas y más contenidos; consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
+- Juego interactivo: Agrega a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para provocar reacciones digitales e interpretar el enfrentamiento contra el jefe final de Super Mario Bros Wonder
 - Para fomentar el juego imaginativo: Los sets LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - 5 figuras LEGO Super Mario: Este juguete interactivo incluye una gran figura de Bowser Castillo para construir, así como un Yoshi Rosa, una Pirocorchea Piraña, el Príncipe Florian y Bowsy Maravilla
-- Juego interactivo: Agrega a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para provocar reacciones digitales e interpretar el enfrentamiento contra el jefe final de Super Mario Bros Wonder
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWDWRND4{{</world>}}

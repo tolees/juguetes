@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DONKEY KONG: Esta edición especial de Donkey Kong del universo Nintendo incluye componentes exclusivos y una mecánica de juego única.
 - DIVERSIÓN FAMILIAR GARANTIZADA: Perfecto para toda la familia, este juego es ideal para niños y adultos. Edad recomendada: 7 años en adelante.
 - PON A PRUEBA TUS REFLEJOS: Busca los símbolos iguales y sé el más rápido en coger el plátano. Pero ten cuidado, ¡si lo coges en el momento equivocado podrías perder tu turno!
 - DIVERSIÓN A RITMO TREPIDANTE: Jungle Speed es un emocionante juego de destreza en el que los reflejos rápidos y una vista aguda son fundamentales para alzarse con la victoria.
 - TOP VENTAS: ¡ahora con nuevo modo de juego nunca visto!
+- DONKEY KONG: Esta edición especial de Donkey Kong del universo Nintendo incluye componentes exclusivos y una mecánica de juego única.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FN8ZM3K4{{</world>}}

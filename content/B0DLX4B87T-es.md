@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡Estás invitado a una fiesta dulce dentro del estuche de la Casa de helado de Polly Pocket! Con dos micromuñecas y más de 25 accesorios, incluidas las mascotas, las posibilidades de juego son infinitas.
+- ¡El conjunto de juego con temática de oso es alto y tiene forma de cono de helado con dos bolas, fideos de azúcar y una cereza encima!
 - ¡Cada día es increíblemente divertido con Polly Pocket en el conjunto de juego Casa de helado!
+- Sube en el ascensor hasta la cereza de la parte superior y descubre una dulce sorpresa… ¡confeti para empezar la fiesta!
 - Los niños y niñas pueden utilizar las gafas del oso como asa para divertirse en cualquier momento y lugar. ¡Abre la cereza de la parte superior para que empiece la fiesta y mira cómo sale el confeti!
 - Las muñecas y las mascotas querrán jugar todo el día dentro de la casa, que tiene cuatro pisos, un ascensor que sube y baja, y muebles decorativos.
-- ¡El conjunto de juego con temática de oso es alto y tiene forma de cono de helado con dos bolas, fideos de azúcar y una cereza encima!
-- ¡Estás invitado a una fiesta dulce dentro del estuche de la Casa de helado de Polly Pocket! Con dos micromuñecas y más de 25 accesorios, incluidas las mascotas, las posibilidades de juego son infinitas.
-- Sube en el ascensor hasta la cereza de la parte superior y descubre una dulce sorpresa… ¡confeti para empezar la fiesta!
 - ¡Prepara la celebración más dulce con accesorios como globos, regalos y helados, por supuesto! Algunos accesorios se pueden colgar por todo el conjunto de juego.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

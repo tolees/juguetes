@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye 4 expansiones (Costas extrañas, mareas terribles, niebla aterradora y noches interminables).
-- Conviértete en el último farero y enfrenta la oscuridad que amenaza con consumirlo todo.
-- Con solo 18 cartas, deberás gestionar recursos, mantener la luz encendida y proteger el faro de las fuerzas que acechan en la noche.
 - Resiste hasta el amanecer y salva la última luz de esperanza.
+- Con solo 18 cartas, deberás gestionar recursos, mantener la luz encendida y proteger el faro de las fuerzas que acechan en la noche.
+- Conviértete en el último farero y enfrenta la oscuridad que amenaza con consumirlo todo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FV3C38X4{{</world>}}

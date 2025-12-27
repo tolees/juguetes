@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye un coche metálico a escala 1:64 con una figura de Mario inspirada en la película para empezar a jugar nada más abrir la caja.
-- Este conjunto de pista es un regalo perfecto para niñas y niños a los que les encanten los desafíos de acrobacias y la acción a toda velocidad, especialmente para los fans de Super Mario Bros.
+- Los coches deben pasar por un looping roto, saltar sobre una cascada y recorrer algunas curvas cerradas para terminar el circuito y poder volver a empezar.
 - Siente la emoción de la película fuera de la pantalla con el conjunto de juego Carrera en la selva de “Super Mario Bros.: la película” y el coche incluido de Hot Wheels.
 - ¡Niños y niñas solo tienen que golpear el lanzador para que empiece la acción y mandar el coche a toda velocidad hacia la primera acrobacia!
-- Los coches deben pasar por un looping roto, saltar sobre una cascada y recorrer algunas curvas cerradas para terminar el circuito y poder volver a empezar.
+- Este conjunto de pista es un regalo perfecto para niñas y niños a los que les encanten los desafíos de acrobacias y la acción a toda velocidad, especialmente para los fans de Super Mario Bros.
+- Incluye un coche metálico a escala 1:64 con una figura de Mario inspirada en la película para empezar a jugar nada más abrir la caja.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B5HSJ2PR{{</world>}}

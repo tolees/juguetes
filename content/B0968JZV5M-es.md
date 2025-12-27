@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye 10 bloques de construcción distintos con los que los pequeños podrán aprender. Fomenta las habilidades cognitivas y motoras finas
+- Un juguete con temática de policía, con diseño de un divertido coche de policía y un volante
 - Motofeber Blocks Police es un correpasillos con asa de empuje y de conducción independiente
 - Con ruedas anchas para la seguridad de los pequeños a partir de 2 años de edad
-- Un juguete con temática de policía, con diseño de un divertido coche de policía y un volante
 - El asiento se convierte en un lugar de almacenaje para guardar todas las piezas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

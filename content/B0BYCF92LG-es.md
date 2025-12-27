@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Momentos de diversión
-- Bloques de juguete para construir
 - Star Wars Spider Tank
+- Bloques de juguete para construir
+- Momentos de diversión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYCF92LG{{</world>}}

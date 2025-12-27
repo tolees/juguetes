@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El poderoso vehículo de Star Wars incluido tiene patas ajustables, un cañón que se puede levantar y un disparador con resorte, además de un asiento con espacio para colocar a una de las minifiguras LEGO de los Soldados Clon
 - Este juguete de Star Wars para construir tiene el tamaño ideal para que los peques lo lleven en la mochila y es una gran idea de regalo de cumpleaños o en una ocasión especial para niños amantes de Star Wars: The Bad Batch y las Guerras Clon
-- El set incluye una guía en imágenes fácil de seguir y la app LEGO Builder con herramientas digitales interactivas que ofrecen a los niños la posibilidad de ver el modelo desde todos sus ángulos mientras lo construyen
 - Los pequeños fans de Star Wars de 6 años en adelante disfrutarán a lo grande construyendo su propia unidad de combate de los Soldados Clon de la 501, con 4 minifiguras LEGO, armas de juguete y un cañón antivehículos AV-7
+- El set incluye una guía en imágenes fácil de seguir y la app LEGO Builder con herramientas digitales interactivas que ofrecen a los niños la posibilidad de ver el modelo desde todos sus ángulos mientras lo construyen
+- El poderoso vehículo de Star Wars incluido tiene patas ajustables, un cañón que se puede levantar y un disparador con resorte, además de un asiento con espacio para colocar a una de las minifiguras LEGO de los Soldados Clon
 - Recrea las escenas llenas de acción de las Guerras Clon con las 4 minifiguras LEGO de soldados y los divertidos accesorios: 1 oficial con pistola bláster, 1 especialista en clones con rifle bláster y 2 minifiguras de soldados pesados con blásteres
 
 [🛒 Aquí!!!]({{< param buyurl >}})

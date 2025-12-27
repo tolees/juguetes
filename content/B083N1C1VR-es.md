@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estilo Sudoku
-- Minecraft - Armaduras y armas
 - Elementos de juego magnéticos, por lo tanto son perfectos para llevar
+- Minecraft - Armaduras y armas
 - Juego lógico de deducción à la Sudoku
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

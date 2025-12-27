@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tarjetas gruesas, piezas de autocorrección, cartón resistente
-- Capacidades lógicas, atención y concentración, formas y colores, manualidades finas y coordinación ojo-mano, decodificación de imágenes
 - Uso fácil y conveniente
+- Capacidades lógicas, atención y concentración, formas y colores, manualidades finas y coordinación ojo-mano, decodificación de imágenes
+- Tarjetas gruesas, piezas de autocorrección, cartón resistente
 - Asocia cada cachorro con su madre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

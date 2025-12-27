@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de jugadores: 2 - 4
 - Edad recomendada: a partir de 8 años
+- Número de jugadores: 2 - 4
 - Duración aproximada del juego: 30 - 45 minutos
 - La caja tiene las dimensiones: 29.5 x 29.5 x 7.3 cm
 

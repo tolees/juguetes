@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Extendiendo la obra aún más hay una isla separada en forma de corazón donde un mapa oculta la ubicación del cofre del tesoro submarino.
 - Incluye 3 figuras de mini muñecas: Olivia, Andrea y Mia, además de un robot y figuras de narval, permitiendo que el papel juegue al héroe con este juguete de barco de rescate
+- Extendiendo la obra aún más hay una isla separada en forma de corazón donde un mapa oculta la ubicación del cofre del tesoro submarino.
 - Incluye un mapa del tesoro textil reactivo al agua, elementos de coral y criatura marina, cámara subacuática, instrumentos médicos y muchos, muchos más.
 - El crucero de rescate viene con grúa giratoria y un camilla para transportar animales enfermos, posición de observación y una zona de cabina
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - KIT COMPLETO DE CREACION DIY: vierte las perlas y las decoraciones, agregue agua y tinte; personaliza tu lámpara con las pegatinas o stickers
-- CREA UNA NUEVA ATMOSFERA EN TU HABITACION: puedes divertirte cambiando las placas decorativas según tu estado de ánimo; elige entre 3 estilos VSCO modernos
 - LUDICO Y DIVERTIDO: una actividad creativa, divertida y artística; gira la base, es mágica cuando se enciende; los colores cambian y las decoraciones cobran vida en el agua
+- CREA UNA NUEVA ATMOSFERA EN TU HABITACION: puedes divertirte cambiando las placas decorativas según tu estado de ánimo; elige entre 3 estilos VSCO modernos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09CKYXNS8{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sala de maternidad y ascensor que funciona: construye las distintas áreas del hospital de juguete de este set, como la sala de reconocimiento, la sala de maternidad, la sala de rayos X, el ascensor y la sala de descanso de los empleados
-- Hospital de juguete: el set LEGO Friends Hospital de Heartlake City ofrece largas horas de juego creativo a las niñas y los niños de 7 años o más que se lo pasan muy bien imaginando que son doctoras y doctores y jugando a atender a los pacientes
-- Instrucciones intuitivas: la app LEGO Builder guiará a tu peque a través de una intuitiva aventura de construcción con herramientas que le permitirán acercar y girar versiones en 3D de sus modelos, guardar sets y seguir sus progresos
-- Crea historias de amistad: amplía la diversión con otros juguetes de la gama LEGO Friends (a la venta por separado), un universo en el que los peques pueden hacer amigos y conocer trepidantes lugares
 - Personajes de LEGO Friends: incluye 5 mini muñecas, entre ellos Autumn con una cara adicional para mostrar sus emociones cuando le colocan el brazo protésico, además de 2 figuras de bebés, un robot de juguete y una figura de un perro
-- Un juguete para divertirse jugando a interpretar: este juguete de construcción LEGO Friends es una creativa idea de regalo para niñas y niños a partir de 7 años a los que les guste el juego de roles de médicos
+- Instrucciones intuitivas: la app LEGO Builder guiará a tu peque a través de una intuitiva aventura de construcción con herramientas que le permitirán acercar y girar versiones en 3D de sus modelos, guardar sets y seguir sus progresos
 - Montones de accesorios: contiene un helicóptero de juguete, un escáner de rayos X, una silla de ruedas, una venda, escayolas, una jeringuilla, cunas, biberones, globos, bombones y flores como fuente de inspiración de diferentes historias de amistad
+- Hospital de juguete: el set LEGO Friends Hospital de Heartlake City ofrece largas horas de juego creativo a las niñas y los niños de 7 años o más que se lo pasan muy bien imaginando que son doctoras y doctores y jugando a atender a los pacientes
+- Un juguete para divertirse jugando a interpretar: este juguete de construcción LEGO Friends es una creativa idea de regalo para niñas y niños a partir de 7 años a los que les guste el juego de roles de médicos
+- Sala de maternidad y ascensor que funciona: construye las distintas áreas del hospital de juguete de este set, como la sala de reconocimiento, la sala de maternidad, la sala de rayos X, el ascensor y la sala de descanso de los empleados
+- Crea historias de amistad: amplía la diversión con otros juguetes de la gama LEGO Friends (a la venta por separado), un universo en el que los peques pueden hacer amigos y conocer trepidantes lugares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVYXRYP{{</world>}}

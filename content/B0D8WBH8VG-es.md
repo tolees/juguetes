@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elige el personaje y únete a la lucha
 - Derrota a jefes de alta dificultad en incursiones
+- Elige el personaje y únete a la lucha
 - El tiempo y el espacio, desplazados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

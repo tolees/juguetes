@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de producto: ABIS_BOOK
-- Marca: Devir
 - Devir, Blade Runner, Juego de rol, Juego de rol con amigos, Cyber Future, Edad +14 (BRBASICO)
+- Marca: Devir
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D48ZXHH2{{</world>}}

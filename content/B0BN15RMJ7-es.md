@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conjunto de Pokémon con 4 figuras construibles y articuladas, y 1 Poké Ball con sujeción en la parte superior para exponerlo
-- Officially licensed by The Pokémon Company International ​
-- Las figuras están completamente articuladas, por lo que pueden adoptar diferentes poses para exponerlas
-- Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
 - Incluye a Pikachu y a los tres primeros compañeros Pokémon de la región de Paldea: Sprigatito, Fuecoco y Quaxly​
+- Las piezas pueden combinarse con todos los conjuntos de construcción de Pokémon de MEGA y son compatibles con las principales marcas
+- Conjunto de Pokémon con 4 figuras construibles y articuladas, y 1 Poké Ball con sujeción en la parte superior para exponerlo
+- Las figuras están completamente articuladas, por lo que pueden adoptar diferentes poses para exponerlas
+- Officially licensed by The Pokémon Company International ​
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN15RMJ7{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- INCLUYE LA MINI-EXPANSIÓN PATRONES: Mejora tu estrategia con la mini-expansión Patrones, que incluye patrones legendarios de cada clan que ofrecen habilidades únicas y nuevas formas de ganar.
 - PARA LOS AMANTES DE LOS JUEGOS DE ESTRATEGIA: Perfecto para 2-4 jugadores que buscan un juego de estrategia competitivo que combine suerte, habilidad y planificación estratégica para una partida entretenida en todo momento.
+- INVOCAR EL FAVOR DIVINO: ¿No estás contento con tu tirada de dados? Invoca el favor divino de los dioses para manipular los resultados y conseguir la ventaja que necesitas para triunfar.
 - CONSTRUYE UN PODEROSO IMPERIO COMERCIAL: Establece y expande tu dominio a lo largo del Río de Oro, construyendo puestos estratégicos para controlar la riqueza de Rokugan.
 - JUEGO DINÁMICO CON DADOS: En cada turno, tira los dados para llevar a cabo una de estas tres acciones: expandir tu imperio, navegar en busca de valiosos cargamentos o cumplir lucrativos contratos.
-- INVOCAR EL FAVOR DIVINO: ¿No estás contento con tu tirada de dados? Invoca el favor divino de los dioses para manipular los resultados y conseguir la ventaja que necesitas para triunfar.
-- INCLUYE LA MINI-EXPANSIÓN PATRONES: Mejora tu estrategia con la mini-expansión Patrones, que incluye patrones legendarios de cada clan que ofrecen habilidades únicas y nuevas formas de ganar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB8NTNZD{{</world>}}

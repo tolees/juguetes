@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fortalece tus mazos con poderosas cartas de objetos avanzados.
+- Juega la campaña de 5 capítulos y forja nuevas leyendas.
 - La caja incluye 4 fichas de compañeros animales: unicornios para el juego Crónicas de Avel.
+- Fortalece tus mazos con poderosas cartas de objetos avanzados.
 - Usa el poder de las hadas y del polvo mágico.
 - Defiende la entrada subterránea del castillo de las hordas de monstruos.
-- Juega la campaña de 5 capítulos y forja nuevas leyendas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQYPF7CJ{{</world>}}

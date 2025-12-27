@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CARACTERÍSTICAS: número de jugadores 2-4, edad recomendada 7+, duración 20-30 minutos, edición en castellano
-- JUEGO DE MESA NARUTO: En esta versión Manga, en el Laberinto Ninja cada jugador tiene la tarea de encontrar a todos los personajes de Naruto escondidos en un laberinto encantado increíble moviéndose a lo largo de los caminos mágicos del juego; excelente para regalar, especialmente para los fanáticos del Manga y de Naruto
 - DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
-- LABERINTO: Uno de los juegos clásicos más queridos en el mundo; cada jugador gira en el laberinto en busca de su objetivo secreto, la dificultad para encontrar el camino correcto aumenta con los movimientos realizados por los oponentes
+- JUEGO DE MESA NARUTO: En esta versión Manga, en el Laberinto Ninja cada jugador tiene la tarea de encontrar a todos los personajes de Naruto escondidos en un laberinto encantado increíble moviéndose a lo largo de los caminos mágicos del juego; excelente para regalar, especialmente para los fanáticos del Manga y de Naruto
 - JUEGO DE ESTRATEGIA: El laberinto se transforma en cada turno y los caminos entre los diferentes puntos se alteran cada vez; gana quien primero logre descubrir todos los tesoros y encantamientos regresando al punto de partida
+- CARACTERÍSTICAS: número de jugadores 2-4, edad recomendada 7+, duración 20-30 minutos, edición en castellano
+- LABERINTO: Uno de los juegos clásicos más queridos en el mundo; cada jugador gira en el laberinto en busca de su objetivo secreto, la dificultad para encontrar el camino correcto aumenta con los movimientos realizados por los oponentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSXLRQ79{{</world>}}

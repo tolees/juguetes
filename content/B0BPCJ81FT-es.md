@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 2 a 8 jugadores
-- En Dobble solamente hay 1 símbolo idéntico entre cada 2 cartas. ¡A buscar!
 - Juega a uno de los 5 emocionantes desafíos que incluye.
 - A partir de 4 años de edad. Duración media de 15 minutos por partida
 - Gracias a su caja metálica, te lo podrás llevar donde quieras.
+- De 2 a 8 jugadores
+- En Dobble solamente hay 1 símbolo idéntico entre cada 2 cartas. ¡A buscar!
 - Esta edición especial de Dobble incluye las princesas Disney y algunos personajes más.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

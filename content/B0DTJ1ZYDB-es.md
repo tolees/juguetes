@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - JUGUETES NIÑOS 3 AÑOS +: La Casa de Muñecas de Gabby de la película está diseñada para niños y niñas a partir de 3 años. Fácil de manejar y muy diverida, garantiza horas de diversión y desarrollo creativo.
-- SORPRESAS Y JUEGO DIGITAL: Abre las cajas sorpresa como hace Gabby para descubrir accesorios ocultos. Escanea el código QR incluido y desbloquea recompensas exclusivas en la app de Gabby’s Dollhouse. ¡Un universo de magia te espera!
-- LA CASA DE MUÑECAS DE GABBY: ¡Construye tu propio mundo de casa de muñecas junto con Gabby y sus gatos! Juega, crea y aprende con Gabby y sus amigos en un mundo donde cada día está lleno de sorpresas.
-- REGALOS PARA NIÑAS 3 AÑOS +: La Casa de la película de Gabby y La Casa de Muñecas es una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 3 años disfrutarán jugando con sus personajes favoritos.
 - FIGURA DE GABBY + MUEBLES Y ACCESORIOS: El set incluye una figura exclusiva de Gabby con su diadema de orejas de gato, igual que en la película, junto a muebles adorables y divertidos accesorios para decorar cada habitación y dar vida a tus historias.
+- REGALOS PARA NIÑAS 3 AÑOS +: La Casa de la película de Gabby y La Casa de Muñecas es una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 3 años disfrutarán jugando con sus personajes favoritos.
+- SORPRESAS Y JUEGO DIGITAL: Abre las cajas sorpresa como hace Gabby para descubrir accesorios ocultos. Escanea el código QR incluido y desbloquea recompensas exclusivas en la app de Gabby’s Dollhouse. ¡Un universo de magia te espera!
 - CASA DE MUÑECAS DE LA PELÍCULA: Revive la magia de Gabby’s Dollhouse: The Movie con esta casa de más de 60 cm, repleta de detalles encantadores como ojos lenticulares que se mueven, 6 habitaciones temáticas y una sala de fiestas secreta en el último piso.
+- LA CASA DE MUÑECAS DE GABBY: ¡Construye tu propio mundo de casa de muñecas junto con Gabby y sus gatos! Juega, crea y aprende con Gabby y sus amigos en un mundo donde cada día está lleno de sorpresas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJ1ZYDB{{</world>}}

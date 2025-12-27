@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El personaje de Mike mide 26 centímetros y viene con detalles auténticos como la ropa o características que se ven en la serie
-- Un peluche de calidad y duradero, fabricado con relleno de fibra reciclada
-- Este peluche de Mike es un producto oficial de Stranger Things, la serie de cienciaficción de Netflix; con etiqueta de licencia oficial
-- Hecho de un material suave y blandito para una agradable sensación a la hora de abrazarlo
 - Para fans de cualquier edad y para los niños de edad mínima 12 meses
+- El personaje de Mike mide 26 centímetros y viene con detalles auténticos como la ropa o características que se ven en la serie
+- Este peluche de Mike es un producto oficial de Stranger Things, la serie de cienciaficción de Netflix; con etiqueta de licencia oficial
+- Un peluche de calidad y duradero, fabricado con relleno de fibra reciclada
+- Hecho de un material suave y blandito para una agradable sensación a la hora de abrazarlo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09V5PG1HX{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DOS MAPAS DESAFIANTES: Explora los coloridos paisajes de India y la topografía montañosa de Suiza en un solo paquete de expansión
 - REQUIERE JUEGO BASE PARA JUGAR: Necesitas una versión base de ¡Aventureros al Tren! o ¡Aventureros al Tren! Europa para disfrutar de esta expansión
+- OPTIMIZADO PARA POCOS JUGADORES: Ambos mapas están diseñados para ofrecer una experiencia competitiva y estratégica para 2-4 jugadores
 - PREMIOS DE GRAN TOUR EN INDIA: Gana puntos adicionales por completar recorridos con dos caminos diferentes entre las ciudades en tus Billetes de Destino
 - MAPA DE SUIZA REDISEÑADO: Disfruta del aclamado mapa de Suiza, Adecuado para 2 o 3 jugadores, que enfatiza la estrategia en torno a los billetes de destino
-- OPTIMIZADO PARA POCOS JUGADORES: Ambos mapas están diseñados para ofrecer una experiencia competitiva y estratégica para 2-4 jugadores
+- DOS MAPAS DESAFIANTES: Explora los coloridos paisajes de India y la topografía montañosa de Suiza en un solo paquete de expansión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005OQ2ZY4{{</world>}}

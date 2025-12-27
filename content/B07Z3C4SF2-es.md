@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño evocativo de la temática
 - Desarrolla la creatividad y la imaginación
 - Gracias a su forma compacta, jugable en cualquier sitio
+- Diseño evocativo de la temática
 - Mecánicas sólidas y profundas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

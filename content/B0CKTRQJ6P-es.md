@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El último jugador que quede en pie al final de este duelo sobrenatural ganará la partida
-- A lo largo de la partida acumularás Recursos, aprenderás nuevos Conjuros, invocarás un Compañero y desbloquearás tu forma Sombría en tu pugna por convertirte en el amo de las sombras
 - De 2 a 4 jugadores
+- A lo largo de la partida acumularás Recursos, aprenderás nuevos Conjuros, invocarás un Compañero y desbloquearás tu forma Sombría en tu pugna por convertirte en el amo de las sombras
 - 30 a 60 minutos y a partir de 12 años
+- El último jugador que quede en pie al final de este duelo sobrenatural ganará la partida
 - Adéntrate en un mundo oscuro y fantástico para enfrentarte a tus enemigos en este juego de tablero estratégico creado por los autores de Unstable Unicorns y Here to Slay
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

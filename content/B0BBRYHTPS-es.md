@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los niños de 6 años en adelante podrán empezar construyendo con las piezas LEGO la genial lanzadera espacial de juguete con escotilla que se abre para revelar un su interior un satélite extraíble y extensible
-- Echa un vistazo a otros fabulosos sets LEGO Creator 3 en 1 y combina esta Lanzadera Espacial de juguete con la Moto Clásica (31135), el Loro Exótico (31136) o los Perros Adorables (31137)
-- Con la app LEGO Builder el proceso de construcción será más divertido; una aventura digital llena de herramientas para hacer zoom, rotar y visualizar el modelo en una tablet o smartphone mientras lo construyen
-- Después podrán convertir la lanzadera en una nave espacial de juguete con la que podrán volar en órbita, o en una figura LEGO articulada de un astronauta con jetpack y una bandera para alzar en un soporte
-- Con este juguete del espacio de LEGO Creator 3 en 1, los niños obtienen 3 maquetas de construcción diferentes en un sólo set, siendo un gran regalo de cumpleaños para niños y niñas amantes de los juegos creativos
 - Este juguete de construcción LEGO Creator 3 en 1 incluye una lanzadera espacial que puede transformarse en una divertida figura de astronauta con piernas y brazos articulados o en una increíble nave del espacio
+- Echa un vistazo a otros fabulosos sets LEGO Creator 3 en 1 y combina esta Lanzadera Espacial de juguete con la Moto Clásica (31135), el Loro Exótico (31136) o los Perros Adorables (31137)
+- Después podrán convertir la lanzadera en una nave espacial de juguete con la que podrán volar en órbita, o en una figura LEGO articulada de un astronauta con jetpack y una bandera para alzar en un soporte
+- Con la app LEGO Builder el proceso de construcción será más divertido; una aventura digital llena de herramientas para hacer zoom, rotar y visualizar el modelo en una tablet o smartphone mientras lo construyen
+- Con este juguete del espacio de LEGO Creator 3 en 1, los niños obtienen 3 maquetas de construcción diferentes en un sólo set, siendo un gran regalo de cumpleaños para niños y niñas amantes de los juegos creativos
+- Los niños de 6 años en adelante podrán empezar construyendo con las piezas LEGO la genial lanzadera espacial de juguete con escotilla que se abre para revelar un su interior un satélite extraíble y extensible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRYHTPS{{</world>}}

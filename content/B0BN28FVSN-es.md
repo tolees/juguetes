@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Viajando a una isla volcánica, cooperarás con tus compañeros y desvelarás los secretos ocultos, buscarás pistas y solucionarás el misterio
 - Este producto es un juego de investigación y aventuras
-- Una aventura gráfica en tu mesa de juego
 - Pueden participar entre uno y cuatro jugadores, a partir de los 12 años de edad
+- Una aventura gráfica en tu mesa de juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN28FVSN{{</world>}}

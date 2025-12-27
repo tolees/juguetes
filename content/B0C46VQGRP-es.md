@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La aplicación Ciencia y juego - Build complementa la experiencia de juego proporcionando ayuda para el montaje gracias a las animaciones interactivas en 3D
+- El kit incluye todos los componentes para montar el coche y sus mecanismos internos: dirección de cremallera y transmisión diferencial
 - El modelo está impulsado por un motor eléctrico alimentado por una batería de litio recargable
 - Un kit de construcción con el que divertirse construyendo un modelo de FIAT 500 eléctrico
-- El kit incluye todos los componentes para montar el coche y sus mecanismos internos: dirección de cremallera y transmisión diferencial
+- La aplicación Ciencia y juego - Build complementa la experiencia de juego proporcionando ayuda para el montaje gracias a las animaciones interactivas en 3D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C46VQGRP{{</world>}}

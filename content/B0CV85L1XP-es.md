@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Pero cuidado! Cuántas menos tortitas tengas, más complicado será que emparejes sus toppings.
-- LA ANARQUÍA MOLA
-- Y por cierto, ¡todo el mundo tratará de hacer esto a la vez y a toda leche!
-- Tienes un montón de cartas de tortitas adornados con todo tipo de toppings. Empareja tus toppings con los de otro participante para que se lleve tus tortitas.
 - La primera persona en deshacerse de sus tortitas gana la partida.
+- Tienes un montón de cartas de tortitas adornados con todo tipo de toppings. Empareja tus toppings con los de otro participante para que se lleve tus tortitas.
+- Y por cierto, ¡todo el mundo tratará de hacer esto a la vez y a toda leche!
+- LA ANARQUÍA MOLA
+- ¡Pero cuidado! Cuántas menos tortitas tengas, más complicado será que emparejes sus toppings.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CV85L1XP{{</world>}}

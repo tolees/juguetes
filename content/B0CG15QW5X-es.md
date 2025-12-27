@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Componentes incluidos: Tarjetas
 - Marca: theory11
 - Descripción del rango de edad: Adulto
+- Componentes incluidos: Tarjetas
 - Material: cartulina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

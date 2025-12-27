@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El adorable exterior con forma de planeta cuenta con un planeta más pequeño que se desliza y se abre para descubrir una aventura interestelar.
-- Llévate el estuche a cualquier lugar para divertirte vayas donde vayas.
 - ¡Prepárate para divertirte imaginando historias con un paseo en cohete, un dibujo giratorio y una estación espacial!
+- Llévate el estuche a cualquier lugar para divertirte vayas donde vayas.
+- El adorable exterior con forma de planeta cuenta con un planeta más pequeño que se desliza y se abre para descubrir una aventura interestelar.
 - Explora otras galaxias en este Estuche Planeta Polly en el espacio exterior que incluye una muñequita y 10 accesorios, incluida una mascota.
 - Ideal para niños y niñas a partir de 4 años, especialmente para los amantes del espacio, las estrellas y los planetas.
 

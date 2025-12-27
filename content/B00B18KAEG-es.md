@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recogida del cable
-- Junta de anillo deslizante de alta calidad
-- Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
 - Detector del nivel del agua con altura regulable sin escalonamientos
 - Conexión universal para mangueras de 25 mm y 32 mm, así como rosca exterior G 1 (aprox. 33.3 mm)
+- Recogida del cable
+- Junta de anillo deslizante de alta calidad
 - Asa de transporte
 - Carcasa de la bomba de acero fino
+- Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00B18KAEG{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 set, 2 aventuras: Construye el modelo principal (un mando de videojuegos de juguete) y, después, transfórmalo en un jet volador o en un helicóptero de juguete, ambos equipados con 2 cañones que disparan y cabina abatible
-- Más diversión: Este set de vehículos cuenta con avión y helicóptero de juguete con propulsores modulares que pueden conectarse a otros sets (a la venta por separado) de la gama LEGO DREAMZzz de 2025
 - Juguete gamer inspirado en el mundo de los videojuegos: Desbloquea nuevas aventuras con el set de construcción infantil LEGO DREAMZzz Mando Jet de Cooper, que ofrece a los niños y las niñas la oportunidad de crear un juguete transformable
+- Más diversión: Este set de vehículos cuenta con avión y helicóptero de juguete con propulsores modulares que pueden conectarse a otros sets (a la venta por separado) de la gama LEGO DREAMZzz de 2025
 - Regalo de fantasía: El juego es un regalo idóneo para niños y niñas de 7 años o más fans de la serie para televisión LEGO DREAMZzz, así como para jóvenes jugadores y amantes de los vehículos
+- 1 set, 2 aventuras: Construye el modelo principal (un mando de videojuegos de juguete) y, después, transfórmalo en un jet volador o en un helicóptero de juguete, ambos equipados con 2 cañones que disparan y cabina abatible
 - Minifigura LEGO: La historia cobra vida con la minifigura LEGO DREAMZzz del héroe Cooper, que viene con un elemento que representa un arma y puede sentarse en la cabina
 - Araña de juguete: El set incluye también una figura de la malvada araña con cibercerebro, que trae unos cables acoplables al modelo del mando de juguete
 - Forma parte de la acción: Este set incluye instrucciones de construcción con historia que animan a los peques a sumergirse en las aventuras del Mundo Sueños

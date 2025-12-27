@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Da rienda suelta a la imaginación de los peques: los sets de juguetes LEGO Super Mario, diseñados para jugar solos o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante otros sets de expansión
-- 2 personajes Super Mario construidos con ladrillos: las figuras del Toad Amarillo y el Caco Gazapo pueden sujetar accesorios en la mano; además el Caco Gazapo tiene una bolsa construible
-- Juguete coleccionable con divertidos detalles para construir: la tienda cuenta con un dispensador de helado, horno construibles, sus estantes están repletos de comida y juguetes, y trae un carrito de la compra para el juego creativo
-- Juego digital interactivo: salta sobre la etiqueta de acción con los personajes del videojuego LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para comer los alimentos y pisa la bolsa del Caco Gazapo para ganar varios artículos digitales
-- Una ayuda práctica: descarga la app LEGO Super Mario, donde encontrarás las instrucciones de construcción, inspiradores consejos y más contenidos
 - Regalo para niños, niñas y gamers a partir de 7 años: regala este set LEGO de 230 piezas a un joven fan de Super Mario; para jugar de manera interactiva, se necesita un pack inicial LEGO Super Mario (71360, 71387 o 71403)
+- Juguete coleccionable con divertidos detalles para construir: la tienda cuenta con un dispensador de helado, horno construibles, sus estantes están repletos de comida y juguetes, y trae un carrito de la compra para el juego creativo
 - Juego basado en el Toad Amarillo con una figura de un Caco Gazapo: juega a ir de compras a la tienda del Toad Amarillo con este set de expansión LEGO Super Mario que incluye una tienda para construir y montones de divertidos accesorios
+- Da rienda suelta a la imaginación de los peques: los sets de juguetes LEGO Super Mario, diseñados para jugar solos o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante otros sets de expansión
+- Una ayuda práctica: descarga la app LEGO Super Mario, donde encontrarás las instrucciones de construcción, inspiradores consejos y más contenidos
+- Juego digital interactivo: salta sobre la etiqueta de acción con los personajes del videojuego LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para comer los alimentos y pisa la bolsa del Caco Gazapo para ganar varios artículos digitales
+- 2 personajes Super Mario construidos con ladrillos: las figuras del Toad Amarillo y el Caco Gazapo pueden sujetar accesorios en la mano; además el Caco Gazapo tiene una bolsa construible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVYJRZX{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El objetivo es adivinar objetos, animales, acciones, oficios
 - El equipo con más puntos al final de la partida gana
-- Contiene 220 cartas, 1 libreta de puntuación, 1 reloj de arena, bolsa de transporte y reglas
 - Se juega en tres rondas, con 2 o más equipos
+- El objetivo es adivinar objetos, animales, acciones, oficios
+- Contiene 220 cartas, 1 libreta de puntuación, 1 reloj de arena, bolsa de transporte y reglas
 - El producto representa un juego de tablero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
