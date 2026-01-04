@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los zombis han invadido tu colegio. Reúne a tus amigos para este juego cooperativo y busca la mejor estrategia para repeler a estas terribles criaturas
 - Cuanto más juegues, más se transforma el juego; completa misiones especiales y marca tu progreso con pegatinas; abre sobres misteriosos que dan variedad al juego
 - Dales poderes a tus héroes! muta a los zombis
 - A partir de 7 años de Edad
 - De s a 4 Jugadores
+- Los zombis han invadido tu colegio. Reúne a tus amigos para este juego cooperativo y busca la mejor estrategia para repeler a estas terribles criaturas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082L6JZKZ{{</world>}}

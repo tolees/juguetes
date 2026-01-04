@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rockstar Games - Red Dead Redemption 2 Xbox One'
-date: 2026-01-01 06:33:41
+date: 2026-01-03 21:34:49
 image: 'https://m.media-amazon.com/images/I/51OL4g5gKPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rockstar Games'
 buyurl: 'https://www.amazon.es/dp/B01M6YIR2E/?tag=tolees-21'
 descuento: '15.21'
-average: '19.5287719298244'
+average: '19.4413559322032'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
 - Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
+- Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
 - Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 
 [🛒 Visítala!!!]({{< param buyurl >}})

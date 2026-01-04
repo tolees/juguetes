@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Daybreak es un juego en el que construirás las más alucinantes tecnologías y moldearás sociedades para que puedan resistir a un planeta que se sobrecalienta
+- Un juego cooperativo de los creadores de Pandemic sobre el cambio climático
 - El contenido de esta caja está fabricado con componentes sostenibles y sin plástico, con cientos de ilustraciones originales que retratan un planeta detallado en el que todo el mundo podrá no solo sobrevivir, sino prosperar
 - Y como Daybreak es 100 % cooperativo, ganáis o perdéis en equipo
-- Un juego cooperativo de los creadores de Pandemic sobre el cambio climático
 - Durante la partida jugarás cartas en pilas, prepararás poderosas combinaciones y elaborarás estrategias junto con tu grupo de juego para lograr descarbonizar la sociedad
+- Daybreak es un juego en el que construirás las más alucinantes tecnologías y moldearás sociedades para que puedan resistir a un planeta que se sobrecalienta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DY87VS97{{</world>}}

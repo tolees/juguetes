@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Juguete de construcción de dinosaurios: Cuenta con un cráneo de Triceratops con base, placa informativa, lugar de excavación con minifósiles y herramientas, minifigura LEGO de un aprendiz de paleontólogo y una pieza de “ámbar”
-- Cráneo articulado de Triceratops de juguete: Este cráneo de dinosaurio para niños puede colocarse con la mandíbula abierta o cerrada, sobre la base o junto a la minifigura, el lugar de excavación, los minifósiles y las herramientas
 - Fomenta una afición: Los sets LEGO Jurassic World están diseñados para promover el interés de los niños por los dinosaurios y los juguetes relacionados con ellos, reforzar su creatividad y desarrollar sus habilidades narrativas
-- Regalo de dinosaurios LEGO: Este kit de dinosaurios de juguete para construir y exponer es un obsequio idóneo para niños y niñas de 9 años o más fans de Jurassic World, los dinosaurios, los fósiles o la paleontología por su cumpleaños
+- Cráneo articulado de Triceratops de juguete: Este cráneo de dinosaurio para niños puede colocarse con la mandíbula abierta o cerrada, sobre la base o junto a la minifigura, el lugar de excavación, los minifósiles y las herramientas
 - Una nueva forma de construir: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción. Podrán guardar sets, seguir sus progresos, y acercar y girar versiones 3D de sus modelos mientras los construyen
+- Regalo de dinosaurios LEGO: Este kit de dinosaurios de juguete para construir y exponer es un obsequio idóneo para niños y niñas de 9 años o más fans de Jurassic World, los dinosaurios, los fósiles o la paleontología por su cumpleaños
 - Maqueta de dinosaurio de juguete: Fomenta la pasión por los dinosaurios en peques a partir de 9 años con el set Fósiles de Dinosaurio: Cráneo de Triceratops, que ofrece a los fans un desafío de construcción y una bonita pieza para exponer
 
 [🛒 Aquí!!!]({{< param buyurl >}})

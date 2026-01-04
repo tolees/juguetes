@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 4 ACCESORIOS PARA LAS FIGURAS DE ACCIÓN: Incluye una capa y una mochila propulsora que se quitan y se ponen para el Mandalorian y 2 proyectiles verdes
-- LANZA LOS PROYECTILES: Introduce los proyectiles incluidos en los 2 puertos en la parte frontal del caza estelar N-1 y presiona los botones para lanzar los proyectiles
-- FIGURAS DE ACCIÓN DE STAR WARS: Este set de Star Wars viene con una figura de Mandalorian de Star Wars de 10 cm de alto y una figura de Grogu de 3 cm de alto, ambas con múltiples puntos de articulación
 - LLEVA LA ACCIÓN A CASA: Imagina aventuras con el Mandaloriano, Grogu y el caza estelar N-1, un caza estelar único y personalizado que se caracteriza por su singular combinación de velocidad, precisión y estilo
+- 4 ACCESORIOS PARA LAS FIGURAS DE ACCIÓN: Incluye una capa y una mochila propulsora que se quitan y se ponen para el Mandalorian y 2 proyectiles verdes
+- FIGURAS DE ACCIÓN DE STAR WARS: Este set de Star Wars viene con una figura de Mandalorian de Star Wars de 10 cm de alto y una figura de Grogu de 3 cm de alto, ambas con múltiples puntos de articulación
+- LANZA LOS PROYECTILES: Introduce los proyectiles incluidos en los 2 puertos en la parte frontal del caza estelar N-1 y presiona los botones para lanzar los proyectiles
 - NAVE DE STAR WARS DE 43 CM DE LARGO: Esta nave estelar N-1 del Mandaloriano mide 43 cm de largo y 22,5 cm de ancho, y viene cargada de detalles como una cabina y cúpula que se abren y se cierran para permitir colocar las figuras adentro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

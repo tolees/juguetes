@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIALES DE ALTA CALIDAD: Dados personalizados, una bandeja para dados y cartas de formato original ilustradas por el autor de cómics Sylvain Repos, todo preparado para una experiencia de juego ideal.
 - ELEMENTO COMPETITIVO: Este party game es también un duelo estratégico que exige un equilibrio entre bloquear a tus oponentes y anotar puntos.
-- ESTRATEGIA Y AZAR COMBINADOS: Pikit es un emocionante juego de cartas donde la estrategia, el azar y la interacción entre jugadores se fusionan. Tira los dados para invocar Kaijūs o Mechas, y decide si usar tus cartas por sus efectos o conservarlas para sumar puntos. La partida termina cuando se agota el mazo, ganará quien tenga la máxima puntuación.
-- ALTA INTERACCIÓN ENTRE JUGADORES: Es la esencia misma de Pikit, un juego lleno de sorpresas y giros inesperados. ¡Estarás activo y atento en cada segundo del juego, tanto en tu turno como durante el de los demás!
 - FÁCIL DE APRENDER Y PORTÁTIL: Accesible para principiantes y jugadores ocasionales, así como para aficionados a los juegos, asegurando diversión inmediata en un formato compacto ideal para viajes.
+- ESTRATEGIA Y AZAR COMBINADOS: Pikit es un emocionante juego de cartas donde la estrategia, el azar y la interacción entre jugadores se fusionan. Tira los dados para invocar Kaijūs o Mechas, y decide si usar tus cartas por sus efectos o conservarlas para sumar puntos. La partida termina cuando se agota el mazo, ganará quien tenga la máxima puntuación.
+- MATERIALES DE ALTA CALIDAD: Dados personalizados, una bandeja para dados y cartas de formato original ilustradas por el autor de cómics Sylvain Repos, todo preparado para una experiencia de juego ideal.
+- ALTA INTERACCIÓN ENTRE JUGADORES: Es la esencia misma de Pikit, un juego lleno de sorpresas y giros inesperados. ¡Estarás activo y atento en cada segundo del juego, tanto en tu turno como durante el de los demás!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D236PT5Y{{</world>}}

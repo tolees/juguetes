@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un castillo que esconde pistas y misteriosos enigmas que sólo un buen detective puede revelar, para una aventura divertida que emocionará a grandes y pequeños; Un juego con cartas y misterios que resolver para poder salir del castillo
-- A partir de 8 años, juego en castellano
 - Cada carta esconde una pista para continuar la aventura e intentar salir del castillo; El juego incluye una baraja de cartas con enigmas, un tablero y otros objetos útiles para encontrar las pistas
 - Un juego para adultos y niños para jugar juntos y estimular el intelecto divirtiéndose
+- A partir de 8 años, juego en castellano
 - Un entretenimiento y una aventura para disfrutar enigma tras enigma, desarrollando la lógica, el pensamiento matemático, la capacidad de observación y el lenguaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})

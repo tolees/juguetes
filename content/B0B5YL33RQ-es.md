@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para fiestas y grupos grandes, ¡el juego UNO Party es un gran regalo para los anfitriones de fiestas de todo el mundo!
-- ¡Que no pare la fiesta con el juego de cartas UNO Party!
-- La carta Dirección del juego indica el sentido de la partida.
-- La regla Partida rápida permite a los jugadores jugar una carta fuera de turno, ¡si son lo suficientemente rápidos!
-- Con la regla Robo por partida doble, dos jugadores deben robar cartas al mismo tiempo.
 - Según la regla ¡Apunten, fuego!, todos los jugadores deben señalar a otros jugadores y, a continuación, ¡cada jugador debe robar tantas cartas como dedos le señalen!
+- La carta Dirección del juego indica el sentido de la partida.
 - El juego es idéntico al clásico, pero con reglas especiales diseñadas para grupos grandes, ¡de 6 a 16 jugadores!
+- La regla Partida rápida permite a los jugadores jugar una carta fuera de turno, ¡si son lo suficientemente rápidos!
+- Perfecto para fiestas y grupos grandes, ¡el juego UNO Party es un gran regalo para los anfitriones de fiestas de todo el mundo!
+- Con la regla Robo por partida doble, dos jugadores deben robar cartas al mismo tiempo.
+- ¡Que no pare la fiesta con el juego de cartas UNO Party!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B5YL33RQ{{</world>}}

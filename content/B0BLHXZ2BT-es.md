@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es la ocasión óptimo para desempolvar y actualizar un montón de artículos clásicos
-- Y los mazos Artifex y Bubulcus al completo, sencillamente, un pedacito de felicidad rural
-- El mítico juego de Uwe Rosenberg cumple 15 años
-- De 1 a 4 jugadores; a partir de 12 años
 - La caja de esta edición aniversario incluye organizadores de cartas, bandejas para todos los componentes
+- Y los mazos Artifex y Bubulcus al completo, sencillamente, un pedacito de felicidad rural
+- De 1 a 4 jugadores; a partir de 12 años
+- Es la ocasión óptimo para desempolvar y actualizar un montón de artículos clásicos
+- El mítico juego de Uwe Rosenberg cumple 15 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLHXZ2BT{{</world>}}

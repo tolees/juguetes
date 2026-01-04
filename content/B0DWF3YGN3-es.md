@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Juguete para construir inspirado en Mario Kart: Crea un divertido circuito para disputar carreras interactivas con LEGO Mario al volante de su Kart estándar en este juguete LEGO Nintendo
+- Desata la creatividad de tu peque: Los juguetes LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - Regalo gamer: Regala a tu peque largas horas de divertidas carreras y juego simbólico con este juguete de construcción LEGO Super Mario para niños y niñas de 7 años o más
 - Más posibilidades de juego: Explora la gama completa de sets LEGO Super Mario: Mario Kart (a la venta por separado) y descubre otros personajes y karts construibles contra los que competir
-- Coche de juguete: Un Kart estándar, con capacidad de derrape y función de lanzamiento de caparazones, una caja de objetos, 3 barreras de protección conectables, 2 conos de tráfico, y zona de salida y podio
-- Desata la creatividad de tu peque: Los juguetes LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - 3 figuras LEGO Super Mario: Una figura interactiva de LEGO Mario, figuras de un Bob-omb y un Roca Picuda, y también un elemento que representa un plátano decorado con una cara
-- Juguete para construir inspirado en Mario Kart: Crea un divertido circuito para disputar carreras interactivas con LEGO Mario al volante de su Kart estándar en este juguete LEGO Nintendo
+- Coche de juguete: Un Kart estándar, con capacidad de derrape y función de lanzamiento de caparazones, una caja de objetos, 3 barreras de protección conectables, 2 conos de tráfico, y zona de salida y podio
 - Juego interactivo: Corre con LEGO Mario en el Kart estándar, gana recompensas digitales, derrota al Bob-omb y el Roca Picuda y mira cómo reacciona LEGO Mario a las placas LEGO verde y roja
 
 [🛒 Aquí!!!]({{< param buyurl >}})

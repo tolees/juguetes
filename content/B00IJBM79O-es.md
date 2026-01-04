@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piezas de madera de gran tamaño, perfectamente cortadas y acabado brillante.
 - Piezas más grandes que facilitan la manipulación y el montaje
-- Nueva madera ecológica, más resistente y más segura para los niños/as. No genera astillas
-- Imágenes más atractivas y colores brillantes gracias al acabado plastificado
-- A partir de 3 años
-- Compuesto por grandes piezas
-- Las piezas son de madera
 - Juego de domino de madera con imágenes de personajes Disney.
+- Nueva madera ecológica, más resistente y más segura para los niños/as. No genera astillas
+- Compuesto por grandes piezas
+- A partir de 3 años
+- Las piezas son de madera
 - Piezas más grandes que facilitan la manipulación y el montaje
+- Imágenes más atractivas y colores brillantes gracias al acabado plastificado
+- Piezas de madera de gran tamaño, perfectamente cortadas y acabado brillante.
 - Contiene 28 piezas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

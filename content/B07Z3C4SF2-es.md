@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño evocativo de la temática
-- Gracias a su forma compacta, jugable en cualquier sitio
 - Mecánicas sólidas y profundas
+- Gracias a su forma compacta, jugable en cualquier sitio
 - Desarrolla la creatividad y la imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 niveles de dificultad.
-- Número de jugadores: 2 a 4
-- Juego educativo donde aprenderán la historia basado en la famosa serie Érase una vez... El Hombre.
 - Un mini juego de mesa con 300 preguntas sobre la historia de la humanidad.
 - Recomendado a partir de 6 años.
+- Número de jugadores: 2 a 4
+- Juego educativo donde aprenderán la historia basado en la famosa serie Érase una vez... El Hombre.
+- 3 niveles de dificultad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BCSF81T{{</world>}}

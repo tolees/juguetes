@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los detalles adicionales del juego de pista en la base amplían las posibilidades de juego e inspiran el juego independiente.
 - El conjunto cuenta con una manguera de carga para vehículos eléctricos de juguete que se puede insertar en 4 estaciones, donde activa fantásticas funciones, como lanzadores, un elevador de coches y un cambio de señal.
-- Hay estacionamiento (y almacenamiento) para un máximo de 10 coches de Hot Wheels a escala 1:64 directamente en el conjunto. Incluye un coche de Hot Wheels. Los vehículos adicionales se venden por separado.
 - Entra en la Super estación de gasolinera de Hot Wheels City para jugar de forma dinámica con vehículos de Hot Wheels.
+- Hay estacionamiento (y almacenamiento) para un máximo de 10 coches de Hot Wheels a escala 1:64 directamente en el conjunto. Incluye un coche de Hot Wheels. Los vehículos adicionales se venden por separado.
 - Conecta la gasolinera a otros conjuntos y pistas de Hot Wheels para construir un mundo único de aventuras mediante el juego de empujar vehículos.
+- Los detalles adicionales del juego de pista en la base amplían las posibilidades de juego e inspiran el juego independiente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB6KMP7C{{</world>}}

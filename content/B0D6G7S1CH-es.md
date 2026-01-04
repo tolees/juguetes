@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PERFECTO PARA CUALQUIER REUNIÓN: "Vamos a Pegarnos con Espadas de Mentira" es el juego ideal para animar eventos al aire libre, noches familiares de juegos o cualquier ocasión. No es solo un juego; es un evento que reúne a las personas para momentos memorables.
 - FÁCIL DE APRENDER A JUGAR: Los jugadores compiten para conseguir sets de 3 cartas iguales a través de duelos. El juego ofrece una mezcla única de estrategia y diversión física, con espadas de espuma que dan vida a las batallas. Adecuado para grupos de diferentes edades, asegurando que todos participen en la acción.
 - CONTENIDO Y COMPATIBILIDAD: El juego incluye 2 espadas de espuma suave, 72 cartas y un manual de instrucciones para un inicio fácil. Diseñado por los creadores de Exploding Kittens, es apto tanto para niños como para adultos, convirtiéndolo en una elección perfecta a cualquier colección de juegos.
-- UNA NUEVA FORMA DE BATALLA: "Vamos a Pegarnos con Espadas de Mentira" trae la emoción de las peleas de espadas a un hilarante juego de cartas. Perfecto para los amantes de los caballeros, piratas o para quienes buscan una buena risa. Fácil de aprender, rápido de jugar y divertido de ver.
-- PERFECTO PARA CUALQUIER REUNIÓN: "Vamos a Pegarnos con Espadas de Mentira" es el juego ideal para animar eventos al aire libre, noches familiares de juegos o cualquier ocasión. No es solo un juego; es un evento que reúne a las personas para momentos memorables.
 - TODOS PUEDEN SER MAESTROS DE LA ESPADA: No necesitas ser alto, fuerte o tener habilidades especiales para la esgrima. Este juego nivela el campo de juego con cartas especiales que ofrecen ventajas a los jugadores más jóvenes o pequeños. Se trata de diversión, no de destreza.
+- UNA NUEVA FORMA DE BATALLA: "Vamos a Pegarnos con Espadas de Mentira" trae la emoción de las peleas de espadas a un hilarante juego de cartas. Perfecto para los amantes de los caballeros, piratas o para quienes buscan una buena risa. Fácil de aprender, rápido de jugar y divertido de ver.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6G7S1CH{{</world>}}

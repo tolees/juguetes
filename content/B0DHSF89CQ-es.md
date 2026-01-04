@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Figuras articuladas de animales: El panda de juguete mueve la boca, la cabeza, el cuello y las garras, la figura de la orca mueve el cuerpo y la aleta, y el pingüino de juguete mueve la cabeza, las aletas y los pies
-- Animales LEGO para añadir a la colección: Los niños podrán imaginar historias con un panda de juguete y su cachorro, una figura de una orca y su cría, y un pingüino de juguete y su polluelo
 - Regalo de animales LEGO para niñas y niños de 8 años o más: Además de proporcionar una divertida experiencia de construcción y juego, este juguete 3 en 1 es óptimo como regalo de cumpleaños o con motivo de una fiesta especial
+- Animales LEGO para añadir a la colección: Los niños podrán imaginar historias con un panda de juguete y su cachorro, una figura de una orca y su cría, y un pingüino de juguete y su polluelo
+- Figuras articuladas de animales: El panda de juguete mueve la boca, la cabeza, el cuello y las garras, la figura de la orca mueve el cuerpo y la aleta, y el pingüino de juguete mueve la cabeza, las aletas y los pies
 - Animales de juguete para exponer: Al terminar de jugar, las figuras LEGO de animales se pueden colocar de adorno en un estante o en la mesita de noche; la familia de orcas se puede exponer en las 2 bases transparentes incluidas
 - 3 parejas de animales de juguete en 1 caja: El set LEGO Creator 3 en 1 Fauna Salvaje: Familia de Pandas para niñas y niños a partir de 8 años les permite construir y reconstruir 3 familias de animales diferentes con los mismos ladrillos
 

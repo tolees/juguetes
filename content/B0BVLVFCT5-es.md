@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- REGALOS PARA NIÑOS: La camara de Gabby y La Casa de Muñecas es una gran idea para un regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). ¡Las niñas y niños a partir de 3 años disfrutarán horas de diversión
+- REGALO ESPECIAL: Tras sacar la cámara de juguete de la caja, escanea el código QR que aparece en el embalaje para acceder a la app gratuita Gabby’s Dollhouse (disponible en iOS y Android) y descubrir otra sorpresa
 - CREA TU UNIVERSO DE LA CASA DE MUÑECAS: Desde habitaciones tematicas y muebles para casas de muñecas hasta figuras de juguete y conjuntos de juego, crea un universo de Gabby y la casa de muñecas con el que las niñas y niños podrán desarrollar su imaginación a través del juego de simulación
 - COLECCIONALOS TODOS: Desde habitaciones temáticas y muebles para casas de muñecas hasta figuras de juguete y conjuntos de juego, crea un universo de la casa de muñecas Gabby con el que desarrollar su imaginación a través del juego de simulacion. ¡Colecciona a todo los personajes Los juguetes de Gabby y la casa de muñecas son ideales para niños y niñas que disfrutan las muñecas y accesorios
-- REGALOS PARA NIÑOS: La camara de Gabby y La Casa de Muñecas es una gran idea para un regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). ¡Las niñas y niños a partir de 3 años disfrutarán horas de diversión
 - INCLUYE: 1 cámara de gatito de La Casa de Muñecas de Gabby y 3 fotos de recuerdo
-- REGALO ESPECIAL: Tras sacar la cámara de juguete de la caja, escanea el código QR que aparece en el embalaje para acceder a la app gratuita Gabby’s Dollhouse (disponible en iOS y Android) y descubrir otra sorpresa
 - LA CASA DE MUÑECAS DE GABBY : Sonríe y disfruta con esta cámara para niñas y niños de La casa de muñecas Gabby. Coloca las tres fotos de plastico en el panel de imagen trasero y haz click. Verás cómo sale una foto de la boca de Kitty. La camara de gatito Kitty, con sus botones de colores alegres que podrás pulsar y girar, es igual que la de la serie y un gran juguete de simulación con el que los niños podrán divertirse fingiendo que hacen fotos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

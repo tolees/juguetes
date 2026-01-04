@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada superhéroe de Marvel tiene habilidades, equipo y aliados únicos que pueden utilizarse a lo largo del juego para ayudarles a ganar, El juego viene con 4 mazos de cartas, uno para cada personaje
 - Los jugadores comienzan con 10 puntos de vida en su contador, Si juegan una carta que cause daño a otro jugador, éste perderá puntos de vida, Si sus puntos bajan a cero, han perdido
 - Es un rápido juego de cartas lleno de diversión y súper poderes Juega como Iron Man, la Capitana Marvel, la Bruja Escarlata o Black Panther en esta batalla de campeones
-- Prepárate para un battle royale de campeones en este divertido juego de cartas para 2 a 4 jugadores, Los jugadores utilizan las cartas para infligir daño a los oponentes mientras intentan evitar el daño dirigido a ellos
 - Este divertido juego de cartas para mayores de 8 años se puede jugar en menos de 10 minutos, Una gran elección para una noche de juegos en familia, Lucha una y otra vez como diferentes personajes con diferentes habilidades
+- Cada superhéroe de Marvel tiene habilidades, equipo y aliados únicos que pueden utilizarse a lo largo del juego para ayudarles a ganar, El juego viene con 4 mazos de cartas, uno para cada personaje
+- Prepárate para un battle royale de campeones en este divertido juego de cartas para 2 a 4 jugadores, Los jugadores utilizan las cartas para infligir daño a los oponentes mientras intentan evitar el daño dirigido a ellos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QCWSRJ9{{</world>}}

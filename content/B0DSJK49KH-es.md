@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ACTIVA LA ACELERACIÓN X CON BEYBLADE X: ¡Este veloz juego de tops de batalla desafía a los aspirantes a Beymasters a alcanzar un nuevo nivel de juego! Arma lo tops, carga tus lanzadores y... 3, 2, 1 Let it rip! (Requiere Beystadium Beyblade X, se vende por separado)
 - PREPÁRATE PARA LA ACCIÓN EXPLOSIVA CON EL SISTEMA DE ACELERACIÓN X: Cuando los engranajes del piñón entran en contacto con el riel de Aceleración X, los tops se propulsan alcanzando grandes velocidades que permiten explosiones impresionantes y choques colosales (Solo compatible con el Sistema Beyblade X)
-- CHEWBACCA VS. STORMTROOPER: Estos 2 personajes de Star Wars se enfrentan en tu Beystadium Beyblade X en esta colaboración multiversal entre Star Wars y los tops de Beyblade X
 - 3 PIEZAS FÁCILES DE ENSAMBLAR: La hoja, el trinquete y el piñón intercambiables de los tops Beyblade se montan y desmontan en un rápido giro y dos clics para que estés listo para lanzarte a la batalla
 - CONTROLA EL PODER: Incluye 2 tops Beyblade X con diseño Takara Tomy hechos con auténticas piezas de metal fundido: Chewbacca 4-80LF de rotación derecha y tipo ataque, y Stormtrooper 5-70B de rotación derecha y tipo resistencia, además de 2 lanzadores
+- CHEWBACCA VS. STORMTROOPER: Estos 2 personajes de Star Wars se enfrentan en tu Beystadium Beyblade X en esta colaboración multiversal entre Star Wars y los tops de Beyblade X
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSJK49KH{{</world>}}

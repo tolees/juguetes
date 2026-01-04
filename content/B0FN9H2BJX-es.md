@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un adictivo juego de risas, caos y colegueo.
-- Juega cartas para ayudar o sabotear a otros jugadores
-- Coloca las cartas sobre la mesa y luego tenéis que ejecutarlas por turnos.
 - ¡Si te equivocas, te eliminarán!
+- Juega cartas para ayudar o sabotear a otros jugadores
 - ¡El último jugador en pie gana!
+- Un adictivo juego de risas, caos y colegueo.
+- Coloca las cartas sobre la mesa y luego tenéis que ejecutarlas por turnos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FN9H2BJX{{</world>}}

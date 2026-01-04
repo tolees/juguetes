@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para cantar “Popular” junto a Glinda, pulsa el botón y escucharás un fragmento de 15 segundos de la canción. A continuación, púlsalo de nuevo, y cantará un fragmento diferente, también de 15 segundos.
+- La muñeca de Glinda lleva un vestido suave intercambiable de color rosa degradado con las mangas abullonadas y tiene el pelo largo y rubio del personaje. Para divertirte creando aspectos inspirados en Glinda, utiliza las pinzas de pelo.
 - Las muñecas de “Wicked” representan la magia de la sororidad y la amistad, y son un regalo inspirador para que niños y niñas hagan realidad sus mayores sueños.
 - Inspirada en “Wicked”, de Universal Pictures, esta muñeca cantarina de Glinda consigue que los momentos musicales de la película cobren vida.
 - Los fans pueden coleccionar sus personajes favoritos para recrear las escenas de la película e imaginar sus propias historias y aventuras. Se venden por separado y están sujetas a disponibilidad.
-- Para cantar “Popular” junto a Glinda, pulsa el botón y escucharás un fragmento de 15 segundos de la canción. A continuación, púlsalo de nuevo, y cantará un fragmento diferente, también de 15 segundos.
-- La muñeca de Glinda lleva un vestido suave intercambiable de color rosa degradado con las mangas abullonadas y tiene el pelo largo y rubio del personaje. Para divertirte creando aspectos inspirados en Glinda, utiliza las pinzas de pelo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN2P98M1{{</world>}}

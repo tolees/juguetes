@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye 1 figura de Colt y un accesorio.
 - Producto distribuido en España por BIZAK.
-- Increíble figura de acción de BRAWL STARS Recrea las escenas de aventuras del juego con esta fantástica figura de gran nivel de detalle.
 - Es articulada y mide 11 cm de altura
 - Ya están aquí las figuras de los personajes del juego multijugador de combate, Brawl Stars
+- Increíble figura de acción de BRAWL STARS Recrea las escenas de aventuras del juego con esta fantástica figura de gran nivel de detalle.
+- Incluye 1 figura de Colt y un accesorio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B2XYVY8M{{</world>}}

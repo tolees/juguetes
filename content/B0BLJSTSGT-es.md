@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Viaja atrás en el tiempo gracias a este estuche de Friends y Polly Pocket con la forma de la icónica taza de café de Central Perk
 - Este conjunto es perfecto para coleccionistas y viene en un embalaje para exhibir con materiales de primera calidad y detalles elaborados que rinden homenaje a los fans de Friends
 - Los fans pueden interactuar con los 6 protagonistas, 9 accesorios y 3 ubicaciones icónicas de la serie Friends
-- Recrea una actuación en la cafetería Central Perk con Phoebe, relájate en los sillones reclinables del apartamento de Joey y Chandler o prepara la cena en el apartamento de Monica
 - Es un regalo fantástico para niños y niñas a partir de 14 años, especialmente para los fans de Friends
+- Viaja atrás en el tiempo gracias a este estuche de Friends y Polly Pocket con la forma de la icónica taza de café de Central Perk
+- Recrea una actuación en la cafetería Central Perk con Phoebe, relájate en los sillones reclinables del apartamento de Joey y Chandler o prepara la cena en el apartamento de Monica
 - Para más diversión, los accesorios se pueden colocar en diferentes zonas del estuche, como en la cafetería Central Perk y en los apartamentos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

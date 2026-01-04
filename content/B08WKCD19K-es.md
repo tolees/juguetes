@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La barriguita del Koala se mueve hacia arriba y hacia abajo en un movimiento rítmico, como si respirase de verdad, para ayudar a calmar y reconfortar al bebé
 - Peluche extramullido lavable a máquina (debe retirarse antes la unidad electrónica) con orejas satinadas y detalles bordados
 - Elige entre 15, 30 o 45 minutos de relajación, más 3 opciones de color de luz, música o sonidos calmantes, y control de volumen
+- La barriguita del Koala se mueve hacia arriba y hacia abajo en un movimiento rítmico, como si respirase de verdad, para ayudar a calmar y reconfortar al bebé
 - Peluche musical personalizable con música, luces y movimientos relajantes
 - Para bebés a partir del nacimiento
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1h 30min
 - Licencia Oficial
 - 2-6 Jugadores
-- A partir de 8 años
+- 1h 30min
 - Monopoly
+- A partir de 8 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B096G5LSXG{{</world>}}

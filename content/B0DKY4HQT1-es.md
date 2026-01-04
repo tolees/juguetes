@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🌍 Una nueva era en Catan: Vive la transición energética en la isla, donde deberás decidir entre combustibles fósiles o energías renovables para prosperar.
+- 🎲 Diversión estratégica: Mecánicas renovadas con discos de evento, gestión de recursos y huella ecológica que añaden emoción y desafío.
 - 🎨 Diseño premium: Creado por Klaus y Benjamin Teuber con ilustraciones de Ian O’Toole, aportando calidad visual y jugable al universo Catan.
 - 👨‍👩‍👧‍👦 Ideal para grupos: Partidas dinámicas de 90 min, para 3 a 4 jugadores a partir de 12 años.
 - ⚡ Autonomía total: ¡Juego autojugable! No necesitas el Catan básico para disfrutar de esta versión.
-- 🎲 Diversión estratégica: Mecánicas renovadas con discos de evento, gestión de recursos y huella ecológica que añaden emoción y desafío.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKY4HQT1{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 3 a 5 jugadores
-- Duración 20 min
 - Idioma español
 - Para mayores de 8 años
+- Duración 20 min
+- De 3 a 5 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B4FGQXB{{</world>}}

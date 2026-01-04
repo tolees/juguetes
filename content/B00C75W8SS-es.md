@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - GAMES FOR CHILDREN: These board games for children 8 years old have 4 different levels with 120 challenges to complete
-- KIDS PUZZLES: Iq Link is a puzzle recommended for children from 8 years old.
-- SMART GAMES: SmartGames games are logic games that stimulate the players cognitive abilities. The most important concept of this type of games for child development is learning by playing.
 - EDUCATIONAL GAMES: With these games children 8 years old can develop skills such as spatial vision, concentration, problem solving and logic
 - TRAVEL GAMES: With iq link children can enjoy this board game anywhere thanks to its compact size and the board designed to store all the material.
+- KIDS PUZZLES: Iq Link is a puzzle recommended for children from 8 years old.
+- SMART GAMES: SmartGames games are logic games that stimulate the players cognitive abilities. The most important concept of this type of games for child development is learning by playing.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00C75W8SS{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto distribuido oficialmente en España por BIZAK.
-- Cada jugador elige la espada de un color, cuatro colores de espadas distintos
-- Un juego clásico para toda la familia
 - Introduce las espadas de tu color en cualquiera de los agujeros del barril del pirata
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Cada jugador elige la espada de un color, cuatro colores de espadas distintos
+- Producto distribuido oficialmente en España por BIZAK.
+- Un juego clásico para toda la familia
 - Si el agujero no es el correcto, el pirata salta y tú habrás perdido la partida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

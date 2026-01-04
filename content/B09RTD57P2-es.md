@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado en Italia
 - 2 en 1: forma el puzzle y colorea la parte de atrás
-- De cartón resistente acoplado
 - Tamaño de los 4 rompecabezas: 35 x 25 cm
+- De cartón resistente acoplado
+- Fabricado en Italia
 - 192 unidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

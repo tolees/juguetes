@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene 12 bloques para encajar con sus respectivas formas en el cubo
 - Cubo con piezas de formas encajables
-- Ofrece horas de entretenimiento
 - Un total de 13 piezas
+- Contiene 12 bloques para encajar con sus respectivas formas en el cubo
+- Ofrece horas de entretenimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0002ML4YM{{</world>}}

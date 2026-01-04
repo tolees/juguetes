@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JARDINERÍA - En el juego Garden Rush, los jugadores compiten para cultivar verduras en su jardín y llenar su cesta antes que su vecino.
-- MEJOR HUERTO: Coloca hábilmente fichas de verdura en tu huerto para crear combinaciones específicas y cosecha tus verduras ganando puntos según la combinación realizada.
 - DUELO TÁCTICO - ¡Garden Rush es un juego táctico para 2 gnomos con manos de jardinero! ¡A sus herramientas, el huerto no espera!
-- COLOCACIÓN DE LOSETAS: Cada hortaliza debe plantarse según una disposición muy específica para optimizar la cosecha, ¡pero está lejos de ser tranquilo!
 - JUEGO ESTRATÉGICO: para ganar la partida, demuestra tu táctica, utiliza las herramientas de tu huerto y envía topos a destrozar el de tu oponente.
+- COLOCACIÓN DE LOSETAS: Cada hortaliza debe plantarse según una disposición muy específica para optimizar la cosecha, ¡pero está lejos de ser tranquilo!
+- MEJOR HUERTO: Coloca hábilmente fichas de verdura en tu huerto para crear combinaciones específicas y cosecha tus verduras ganando puntos según la combinación realizada.
+- JARDINERÍA - En el juego Garden Rush, los jugadores compiten para cultivar verduras en su jardín y llenar su cesta antes que su vecino.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3PBKFTX{{</world>}}

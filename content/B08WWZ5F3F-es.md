@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INCLUYE UN AMIGO PTERODÁCTILO. Usa la figura del pterodáctilo como molde de medio huevo para crear un nido de huevos de dinosaurio Play-Doh, una divertida manualidad para niños y niñas por igual
+- ACTIVACIÓN DE LAS MANDÍBULAS. ¡Rex el dino glotón está listo para masticar! Coloca un poco de plastilina Play-Doh en la boca del Tiranosaurio Rex para hacerlo mascar y escuchar los efectos de sonido
 - BARRIGA TRANSPARENTE Y POPÓ DE DINOSAURIO. Es divertidísimo ver los trozos de plastilina Play-Doh caer en la barriga de la figura de dinosaurio y salir por atrás (¡con ruidos incluidos!)
 - MASTICA, MASTICA... TRAGA... ERUUUUCTA. Este juguete de T-Rex para niños a partir de 3 años hacer divertidos sonidos de dinosaurio mientras los pequeños fans de los dinosaurios imaginan sus propias aventuras prehistóricas
-- ACTIVACIÓN DE LAS MANDÍBULAS. ¡Rex el dino glotón está listo para masticar! Coloca un poco de plastilina Play-Doh en la boca del Tiranosaurio Rex para hacerlo mascar y escuchar los efectos de sonido
+- INCLUYE UN AMIGO PTERODÁCTILO. Usa la figura del pterodáctilo como molde de medio huevo para crear un nido de huevos de dinosaurio Play-Doh, una divertida manualidad para niños y niñas por igual
 - INCLUYE 3 HUEVOS DE PLAY-DOH. Cada recipiente para huevo de plástico de este set contiene 70 gramos de plastilina Play-Doh con colores que incluyen rojo, azul cielo y amarillo-anaranjado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

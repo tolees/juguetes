@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - MAZOS LISTOS PARA JUGAR: dos mazos preconstruidos, listos para jugar. Uno protagonziado por El Mandaloriano, el otro por Moff Gideon.
-- ADÉNTRATE EN LA GALAXIA: Explora el universo de Star Wars: Unlimited con la caja de inicio para dos jugadores de Sombras de la Galaxia
+- KIT DE INICIO COMPLETO: Incluye tokens, tapetes de papel, y dos cajas para mazos - un kit perfecto para nuevos jugadores.
 - CARTAS EXCLUSIVAS: Descubre 10 cartas exclusivas para este set, no disponibles en los sobres de ampliación de Sombras de la Galaxia.
 - DOMINA LA FUERZA: Aprende el juego y embárcate en épicos duelos con personajes icónicos de Star Wars.
-- KIT DE INICIO COMPLETO: Incluye tokens, tapetes de papel, y dos cajas para mazos - un kit perfecto para nuevos jugadores.
+- ADÉNTRATE EN LA GALAXIA: Explora el universo de Star Wars: Unlimited con la caja de inicio para dos jugadores de Sombras de la Galaxia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5BDLCJ7{{</world>}}

@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - DESBLOQUEA JUEGOS, CANCIONES Y MÁS: Descubre más de 20 juegos y actividades al jugar con este extraño y maravilloso juguete electrónico. ¡Algunos juegos también son para varios jugadores!
-- SUBE EL VOLUMEN (O BÁJALO O APÁGALO): A veces hay que calmar un poco al juguete parlante Furby. Este también tiene una opción de apagado rápido (requiere 4 pilas AA, no incluidas)
+- COMPATIBLE CON OTROS AMIGOS FURBY (SE VENDEN POR SEPARADO): ¡DJ Furby puede interactuar con Furby 2023, Furblets y otros juguetes DJ Furby para gozar de todo un universo de diversión Furby! (Los demás juguetes Furby se venden por separado)
+- TOCA PARA ACTIVAR LAS LUCES MULTICOLORES DE LA BARRIGUITA: Pulsa o desliza el dedo sobre las 4 luces cambiantes de colores en la barriguita para juego sensorial con distintos efectos luminosos e interacciones
 - CERO INTERNET, CERO APLICACIONES, CERO PROBLEMAS: Este juguete es perfecto para tiempo con noo-lah sin pantalla. No necesita conexión a internet ni ningún otro dispositivo (¡aunque Furby puede reaccionar a la música que toques!)
 - CREA MÁS DE 1000 COMBINACIONES DE JUEGO CON 5 MODOS: Crea música personalizada, mezcla y oye canciones de Furby (son tan animadas), juega juegos, relájate con movimientos y respiración y mucho más. Habla en inglés y en Furbish
+- SUBE EL VOLUMEN (O BÁJALO O APÁGALO): A veces hay que calmar un poco al juguete parlante Furby. Este también tiene una opción de apagado rápido (requiere 4 pilas AA, no incluidas)
 - AMIGO SUPERSUAVE PARA NIÑOS A PARTIR DE 6 AÑOS: Desde música alegre y cómicos juegos hasta ritmos y luces relajantes, los pequeños eligen su estilo con este juguete Furby extralargo y su suave cuerpo de peluche
-- TOCA PARA ACTIVAR LAS LUCES MULTICOLORES DE LA BARRIGUITA: Pulsa o desliza el dedo sobre las 4 luces cambiantes de colores en la barriguita para juego sensorial con distintos efectos luminosos e interacciones
-- COMPATIBLE CON OTROS AMIGOS FURBY (SE VENDEN POR SEPARADO): ¡DJ Furby puede interactuar con Furby 2023, Furblets y otros juguetes DJ Furby para gozar de todo un universo de diversión Furby! (Los demás juguetes Furby se venden por separado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4W9G8KX{{</world>}}

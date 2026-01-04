@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Decora la casita con el set de pegatinas incluido
 - En la casita podrás poner hasta 3 pajaritos para llevarlos donde quieras
 - Fantástica casita Digibirds con 2 nuevos pajaritos exclusivos incluidos
+- Decora la casita con el set de pegatinas incluido
 - Cantan hasta 50 melodías diferentes e incluso, si juntas más de uno, cantan en coro moviendo el pico y la cabeza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

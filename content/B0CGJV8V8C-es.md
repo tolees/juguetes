@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este juego de cartas cooperativo trae la emoción de los escape rooms a tu casa.
-- Es necesario el uso de la app de Unlock! para poder jugar.
-- La línea Unlock! Miniaventuras ofrece aventuras más cortas que las de las cajas de tres escenarios de Unlock!
 - De 30 a 45 minutos de duración.
+- Es necesario el uso de la app de Unlock! para poder jugar.
 - De 1 a 6 Jugadores.
+- Este juego de cartas cooperativo trae la emoción de los escape rooms a tu casa.
+- La línea Unlock! Miniaventuras ofrece aventuras más cortas que las de las cajas de tres escenarios de Unlock!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGJV8V8C{{</world>}}

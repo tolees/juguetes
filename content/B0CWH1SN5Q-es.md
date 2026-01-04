@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo para niños y niñas mayores de 9 años: este juguete de construcción para añadir a la colección de juguetes LEGO Star Wars es un divertido regalo para niños, niñas y fans de Star Wars de 9 años o más y coleccionistas de recuerdos de Star Wars
-- Vehículo LEGO Star Wars de juguete para construir: el esquife del desierto lleva elementos translúcidos para simular que flota, una tabla que Luke Skywalker “pasea” y la baranda dañada por donde casi se cae Han Solo
-- Juguete de construcción LEGO Star Wars: El Retorno del Jedi: recrea una trepidante escena de la saga clásica de Star Wars con maquetas del esquife del desierto, la fosa del Sarlacc y minifiguras LEGO de emblemáticos personajes
-- Sets LEGO Star Wars para todas las edades: los juguetes de construcción LEGO Star Wars ofrecen a los niños y los fans adultos la oportunidad de revivir inolvidables escenas, crear nuevas historias de aventuras o, simplemente, exponer las maquetas
-- Fosa del Sarlacc: cuenta con palancas para mover los tentáculos del Sarlacc; además, la boca del Sarlacc se abre y tiene espacio para colocar una minifigura LEGO Star Wars dentro
 - 6 minifiguras LEGO Star Wars: Luke Skywalker, Han Solo, Chewbacca, Lando Calrissian y Boba Fett (todos con accesorios), así como una minifigura de Nien Nunb conmemorativa del 25 aniversario de LEGO Star Wars
 - Instrucciones intuitivas: con la app LEGO Builder, los peques pueden acercar, girar y visualizar una versión digital de los modelos a medida que los construyen
+- Fosa del Sarlacc: cuenta con palancas para mover los tentáculos del Sarlacc; además, la boca del Sarlacc se abre y tiene espacio para colocar una minifigura LEGO Star Wars dentro
+- Sets LEGO Star Wars para todas las edades: los juguetes de construcción LEGO Star Wars ofrecen a los niños y los fans adultos la oportunidad de revivir inolvidables escenas, crear nuevas historias de aventuras o, simplemente, exponer las maquetas
+- Vehículo LEGO Star Wars de juguete para construir: el esquife del desierto lleva elementos translúcidos para simular que flota, una tabla que Luke Skywalker “pasea” y la baranda dañada por donde casi se cae Han Solo
+- Regalo para niños y niñas mayores de 9 años: este juguete de construcción para añadir a la colección de juguetes LEGO Star Wars es un divertido regalo para niños, niñas y fans de Star Wars de 9 años o más y coleccionistas de recuerdos de Star Wars
+- Juguete de construcción LEGO Star Wars: El Retorno del Jedi: recrea una trepidante escena de la saga clásica de Star Wars con maquetas del esquife del desierto, la fosa del Sarlacc y minifiguras LEGO de emblemáticos personajes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWH1SN5Q{{</world>}}
