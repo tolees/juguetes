@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 1. Elige un Peluche que cubra por completo la Pesadilla que hay en el centro de la mesa.
+- Juego de 15 minutos, de 2 a 4 jugadores a partir de 4 años de edad
 - Contiene: 1 reglamento, 1 bolsa-almohada, 4 tableros confortables, 8 piezas de Peluche, 30 cartas de Pesadilla (¡no dan miedo!) y 54 piezas de Sueño para contar bonitos cuentos.
 - 2. Si la Pesadilla queda tapada del todo por el Peluche, ganas fichas de Sueño con las que llenar tu tablero.
 - ¡Las pesadillas no son nada divertidas! ¡Pero tienes tu Peluche para transformar tus malos sueños en bonitos cuentos!
-- Juego de 15 minutos, de 2 a 4 jugadores a partir de 4 años de edad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CDZN9GS{{</world>}}

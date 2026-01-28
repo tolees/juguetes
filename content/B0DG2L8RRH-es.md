@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mapas de sombras de alta resolución
 - 60 fps
-- Incluye todos los DLCs anteriores
 - Mejora de efectos posteriores
+- Mapas de sombras de alta resolución
+- Incluye todos los DLCs anteriores
 - Resolución nativa 4K; retroalimentación háptica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gracias a los múltiples puntos de conexión de la base, los niños y niñas pueden conectar el conjunto a otros y construir un mundo de aventuras Hot Wheels. (Los conjuntos adicionales se venden por separado).
 - Los niños y niñas lanzan su coche Hot Wheels hacia la boca del caimán y luego a través de su cola ajustable, que puede convertirse en un looping o en una espiral.
-- Incluye 1 coche Hot Wheels a escala 1:64, lo que lo convierte en un gran regalo para niños y niñas a partir de 4 años.
 - Si consiguen escapar sin un rasguño, el rótulo de la pizzería girará cuando el coche salga.
+- Incluye 1 coche Hot Wheels a escala 1:64, lo que lo convierte en un gran regalo para niños y niñas a partir de 4 años.
+- Gracias a los múltiples puntos de conexión de la base, los niños y niñas pueden conectar el conjunto a otros y construir un mundo de aventuras Hot Wheels. (Los conjuntos adicionales se venden por separado).
 - Derrota al feroz caimán que ha invadido la pizzería con geniales acrobacias y emocionantes maniobras en el conjunto de juego Gator Loop Attack de Hot Wheels.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

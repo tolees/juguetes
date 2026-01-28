@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Descripción del producto: arena, un puñado de dados y, sobre todo, el deseo de ganar más Aquí está la Huelga cóctel explosivo nos ofrece. Enciendan sus dados de destreza con los ya presentes en la arena. Obtenga por lo menos dos caras idénticas y ganar los dados correspondientes. Repita tantas veces como quieras! Detener o Usted decide! Pero cuidado: la cara no idénticos y sus dados permanecen en la arena, una cruz y que son eliminados! Gana todos los dados y el siguiente jugador tendrá que probar el gran lanzamiento! ¿Quién se las arregla para mantenerse en la pelea para ser dedicado a "Gran ganador de la arena"
+- Edad mínima: 7 años
 - Contenido del kit: 31 dados, 1 campo, 1 bloque de espuma
 - Dimensiones del embalaje: 39,5 x 28,6 x 29 cm
-- Edad mínima: 7 años
-- Descripción del producto: arena, un puñado de dados y, sobre todo, el deseo de ganar más Aquí está la Huelga cóctel explosivo nos ofrece. Enciendan sus dados de destreza con los ya presentes en la arena. Obtenga por lo menos dos caras idénticas y ganar los dados correspondientes. Repita tantas veces como quieras! Detener o Usted decide! Pero cuidado: la cara no idénticos y sus dados permanecen en la arena, una cruz y que son eliminados! Gana todos los dados y el siguiente jugador tendrá que probar el gran lanzamiento! ¿Quién se las arregla para mantenerse en la pelea para ser dedicado a "Gran ganador de la arena"
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007CWAYHI{{</world>}}

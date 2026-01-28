@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El objetivo del juego es ser el jugador con más puntos al final de la partida. El juego termina después de la ronda en la que al menos un jugador haya completado una línea horizontal de 5 fichas consecutivas en su muro.
-- Ganarás puntos en función de la posición de las distintas fichas, también en relación con cualquier patrón específico, y se te penalizará por las fichas adelantadas.
-- Número de jugadores: 2-4 | Edad recomendada: 8+ | Duración media: 30-45 min. | Edición en castellano
 - Cuando Manuel I el afortunado, rey de portugal, visitó el palacio de la alhambra, quedó cautivado por la imponente belleza de la decoración
+- Ganarás puntos en función de la posición de las distintas fichas, también en relación con cualquier patrón específico, y se te penalizará por las fichas adelantadas.
+- El objetivo del juego es ser el jugador con más puntos al final de la partida. El juego termina después de la ronda en la que al menos un jugador haya completado una línea horizontal de 5 fichas consecutivas en su muro.
+- Número de jugadores: 2-4 | Edad recomendada: 8+ | Duración media: 30-45 min. | Edición en castellano
 - Durante la partida tendrás que seleccionar estratégicamente las distintas fichas para construir un bonito mosaico en tu tablero personal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

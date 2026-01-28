@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Inspirado en tus elementos favoritos de la exitosa serie de televisión, tanto los Fieles como los Traidores deben realizar misiones para ganar oro para el fondo de premios.
 - Ya has visto la serie, ¡ahora experimenta por ti mismo el Juego de Mesa Oficial "The Traitors"!
-- ¿Se repartirán el fondo? ¿O intentarán quedárselo para ellos? ¡Atrápalos antes de que te atrapen! 4-6 jugadores, mayores de 12 años.
 - El Traidor jugará para ganarse el derecho a asesinar por la noche, y todos los Fieles deberán intentar desterrar en la Mesa Redonda.
 - Los dos jugadores con más oro competirán por el fondo de premios.
-- Inspirado en tus elementos favoritos de la exitosa serie de televisión, tanto los Fieles como los Traidores deben realizar misiones para ganar oro para el fondo de premios.
+- ¿Se repartirán el fondo? ¿O intentarán quedárselo para ellos? ¡Atrápalos antes de que te atrapen! 4-6 jugadores, mayores de 12 años.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD83ZSJQ{{</world>}}

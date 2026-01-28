@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acción intensa y tácticas complejas
-- Una nueva perspectiva del fútbol
 - Incluye juego base y extras digitales
+- Una nueva perspectiva del fútbol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FQVNMLCR{{</world>}}

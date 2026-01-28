@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El equipo se pliega para un almacenamiento fácil y cómodo.
-- Un recorrido hace que el coche describa una figura en 8, mientras que el otro lo envía a través de una pista exterior en forma de U que tiene 2 saltos acrobáticos en el medio de la pista.
-- Elige entre 2 caminos diferentes, cada uno con sus propias características únicas, para competir y hacer acrobacias en la pista de acción de salto vertical en 8 de Hot Wheels.
 - Ajusta el desviador antes de cargar el lanzador de propulsión y enviar el coche Hot Wheels incluido hacia arriba por una pista de más de 60cm de altura.
+- Elige entre 2 caminos diferentes, cada uno con sus propias características únicas, para competir y hacer acrobacias en la pista de acción de salto vertical en 8 de Hot Wheels.
+- Un recorrido hace que el coche describa una figura en 8, mientras que el otro lo envía a través de una pista exterior en forma de U que tiene 2 saltos acrobáticos en el medio de la pista.
+- El equipo se pliega para un almacenamiento fácil y cómodo.
 - Los puntos de conexión de la pista permiten a los niños conectarla a otras pistas para carreras y acrobacias prolongadas.
 - Con 1 coche Hot Wheels incluido, es un gran regalo para niños a partir de 5 años.
 

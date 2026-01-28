@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dune: La Guerra de Arrakis es un juego de estrategia temático centrado en la Guerra del Desierto de la aclamada novela de Frank Herbert, Dune.
 - La taimada Casa de los Harkonnen, respaldada por la Casa que ostenta el trono imperial, los Corrino, se enfrenta a la Casa de los Atreides y sus aliados Fremen por el control de Arrakis y su recurso más preciado: la especia melange.
-- Mientras tanto, el joven líder Atreides convertido en mesías, Paul Muad’Dib, debe guiar a los rebeldes Fremen y pugnar con sus visiones prescientes para labrarse un camino que le permita liberar Arrakis
-- Para alcanzar sus condiciones de victoria específicas, cada facción emplea distintas estrategias con el apoyo de sus Líderes y cartas de Planificación únicos. La Guerra de Arrakis empieza… ahora.
 - En este juego asimétrico, la Casa de los Harkonnen debe mantener su dominio sobre Arrakis con sus tropas y asegurarse de que la especia sigue manando, o perderá el apoyo de las grandes potencias del Imperio.
+- Dune: La Guerra de Arrakis es un juego de estrategia temático centrado en la Guerra del Desierto de la aclamada novela de Frank Herbert, Dune.
+- Para alcanzar sus condiciones de victoria específicas, cada facción emplea distintas estrategias con el apoyo de sus Líderes y cartas de Planificación únicos. La Guerra de Arrakis empieza… ahora.
+- Mientras tanto, el joven líder Atreides convertido en mesías, Paul Muad’Dib, debe guiar a los rebeldes Fremen y pugnar con sus visiones prescientes para labrarse un camino que le permita liberar Arrakis
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB8N5WJJ{{</world>}}

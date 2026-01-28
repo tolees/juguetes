@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consigue más puntos de prestigio que los demás
-- Usa un ingenioso sistema basado en el movimiento de siembra de los juegos clásicos del mancala
 - De 1 a 4 jugadores
-- En Amritsar, los jugadores representarán a las distintas personalidades de la época que ayudaron al marajá del imperio Sij en la reconstrucción del Templo Dorado.
+- Usa un ingenioso sistema basado en el movimiento de siembra de los juegos clásicos del mancala
 - Usa los diferentes trabajadores y tu propio elefante para llevar a cabo las tareas necesarias que les permitan realizar donaciones al templo
+- Consigue más puntos de prestigio que los demás
+- En Amritsar, los jugadores representarán a las distintas personalidades de la época que ayudaron al marajá del imperio Sij en la reconstrucción del Templo Dorado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CF9VLG31{{</world>}}

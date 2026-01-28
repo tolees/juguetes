@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elegante línea de puzles hecha en Italia
 - Imagen de unos caballos trotando
-- Marca: Clementoni
 - Siempre sensibles a los problemas ecológicos, están hechos con materiales reciclables
+- Marca: Clementoni
+- Elegante línea de puzles hecha en Italia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004HZYEHE{{</world>}}

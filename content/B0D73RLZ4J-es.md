@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- VERSIÓN JUEGO DE GRUPO RÁPIDO DE TRIVIAL PURSUIT: ¡El juego de grupo Drop Trivia es como jugar a un programa de juegos en casa! Con sonidos y voces, es un juego de cuestionario electrónico de los creadores del juego Trivial Pursuit
 - Colocar las respuestas en el orden correcto: Los jugadores tienen todas las respuestas. Simplemente colóquelos en el orden correcto. Insertamos los peones en el módulo del juego tratando de ordenar las películas por su fecha de lanzamiento, los animales por su velocidad, etc. Es necesario colocar las respuestas en los lugares correctos para anotar puntos.
 - 120 TARJETAS HILARANTES Y SORPRENTAS: Este juego para adolescentes y adultos está disponible para todos con sus categorías de preguntas que incitan a la conversación, ya sea sobre la comida moderna o los actores mejor pagados
-- VERSIÓN JUEGO DE GRUPO RÁPIDO DE TRIVIAL PURSUIT: ¡El juego de grupo Drop Trivia es como jugar a un programa de juegos en casa! Con sonidos y voces, es un juego de cuestionario electrónico de los creadores del juego Trivial Pursuit
 - CONSIGNAS DE VOZ Y EFECTOS DE SONIDO: Los jugadores intentan su mejor respuesta y el módulo de juego hace el resto. El módulo de juego con instrucciones de voz y sonidos guía a los jugadores como un presentador de juegos y cuenta las puntuaciones.
 - JUEGA EN 15 MINUTOS: Este juego rápido es fácil de aprender, por lo que los nuevos jugadores pueden jugar inmediatamente. Es un juego ideal para las noches de juego con amigos, para conocer o simplemente cuando quieres jugar
 

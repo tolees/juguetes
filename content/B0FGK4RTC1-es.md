@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO COOPERATIVO CON COMUNICACIÓN LIMITADA: este juego os sumerge en la resolución de misteriosos enigmas. Vuestra misión: colocar estratégicamente vuestras cartas alrededor de un dial... ¡sin intercambiar una sola palabra!
-- VIAJE TEMPORAL TÁCTICO Y POÉTICO: debeis resolver acertijos colocando 12 cartas boca abajo. Para ello, utilizad relojes y cartas de «hora» para avanzar a través de diversas pruebas.
-- MECÁNICA INTUITIVA: el juego incluye 24 cartas numeradas con fondo blanco (día) y fondo negro (noche). Los jugadores se reparten estas cartas y las colocan respetando unas reglas específicas.
-- NIVELES EVOLUTIVOS: con 40 relojes con reglas evolutivas y dificultad creciente, cada partida de Take Time es un nuevo reto en el que la estrategia y la anticipación serán vuestros mejores aliados.
 - DEDUCCIÓN: del editor de Dixit, Mysterium y Harmonies, Take Time promete un auténtico desafío colectivo, en la misma línea que The Mind o Tranquillité, que pondrá a prueba vuestra capacidad de deducción.
+- MECÁNICA INTUITIVA: el juego incluye 24 cartas numeradas con fondo blanco (día) y fondo negro (noche). Los jugadores se reparten estas cartas y las colocan respetando unas reglas específicas.
+- VIAJE TEMPORAL TÁCTICO Y POÉTICO: debeis resolver acertijos colocando 12 cartas boca abajo. Para ello, utilizad relojes y cartas de «hora» para avanzar a través de diversas pruebas.
+- JUEGO COOPERATIVO CON COMUNICACIÓN LIMITADA: este juego os sumerge en la resolución de misteriosos enigmas. Vuestra misión: colocar estratégicamente vuestras cartas alrededor de un dial... ¡sin intercambiar una sola palabra!
+- NIVELES EVOLUTIVOS: con 40 relojes con reglas evolutivas y dificultad creciente, cada partida de Take Time es un nuevo reto en el que la estrategia y la anticipación serán vuestros mejores aliados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGK4RTC1{{</world>}}

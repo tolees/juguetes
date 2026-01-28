@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este Playset incluye 2 figuras de 8 cm (JJ & Jellybean), además de multiple accesorios;
 - Inspira y alimenta la imaginación de tu pequeño con el juego de la casa Pop de CoComelon
 - Divertido Playset transportable; Tira de la manilla para abrir la casa y que empiece la diversión; Gira la cama y descubre una estantería de juguetes;
-- La casa Pop de CoComelon, es tán divertida que abres la casa y descubre toda la diversión que hay en su interior
-- Este Playset incluye 2 figuras de 8 cm (JJ & Jellybean), además de multiple accesorios;
 - La casa Pop de CoComelon tiene muchas sopresas, da la vuelta a la cama y descubre una estantería de juguetes
+- La casa Pop de CoComelon, es tán divertida que abres la casa y descubre toda la diversión que hay en su interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LD311FD{{</world>}}

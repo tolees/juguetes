@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo divertido: este juguete ninja proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo de cumpleaños para niños y niñas de 7 años o más que disfrutan interpretando historias cargadas de acción
-- Figura articulada: el meca de grueso blindaje cuenta con una cabina para la minifigura de Cole y un gran martillo, así como con brazos y piernas articulados que los peques pueden inclinar y girar para colocarlo en posturas de combate
-- Construye tu propio traje robótico: los fans de los juguetes ninja disfrutarán durante horas usando su creatividad para combinar las partes de estas figuras de acción de juguete (con otros sets a la venta por separado) para crear su propio meca
-- Más mecas LEGO personalizables: los peques pueden intercambiar y combinar las partes del meca de Cole con Meca Elemental Tecno de Sora (71807) y Meca Elemental del Fuego de Kai (71808), a la venta por separado, para crear su juguete personalizado
-- Un universo de juguetes ninja: los sets LEGO NINJAGO contienen dragones, vehículos y templos, y transportan a los niños a un universo de fantasía lleno de aventuras con sus héroes ninja
-- 2 minifiguras NINJAGO: el set incluye a Cole con una mini catana y a un guerrero Máscara de Lobo con una espada de juguete para que los niños recreen las batallas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones
 - Figura de acción: el juguete de aventuras Meca Elemental de la Tierra de Cole, diseñado para niños y niñas de 7 años o más, tiene piernas, brazos y torso desmontables que puedes intercambiar con los de otros 2 mecas de LEGO (a la venta por separado)
+- Más mecas LEGO personalizables: los peques pueden intercambiar y combinar las partes del meca de Cole con Meca Elemental Tecno de Sora (71807) y Meca Elemental del Fuego de Kai (71808), a la venta por separado, para crear su juguete personalizado
+- 2 minifiguras NINJAGO: el set incluye a Cole con una mini catana y a un guerrero Máscara de Lobo con una espada de juguete para que los niños recreen las batallas de la temporada 2 de la serie para televisión NINJAGO: El Renacer de los Dragones
+- Un universo de juguetes ninja: los sets LEGO NINJAGO contienen dragones, vehículos y templos, y transportan a los niños a un universo de fantasía lleno de aventuras con sus héroes ninja
+- Construye tu propio traje robótico: los fans de los juguetes ninja disfrutarán durante horas usando su creatividad para combinar las partes de estas figuras de acción de juguete (con otros sets a la venta por separado) para crear su propio meca
+- Figura articulada: el meca de grueso blindaje cuenta con una cabina para la minifigura de Cole y un gran martillo, así como con brazos y piernas articulados que los peques pueden inclinar y girar para colocarlo en posturas de combate
+- Regalo divertido: este juguete ninja proporciona una divertida experiencia de construcción y juego; además, es una óptima idea de regalo de cumpleaños para niños y niñas de 7 años o más que disfrutan interpretando historias cargadas de acción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVZWT5F{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Visualmente espectacular gracias a la ilustración de J. Giner y los componentes de lujo que incluye el juego
 - Creado por Jackie Fox, bajista de The Runaways, la primera banda de Rock compuesta exclusivamente por mujeres de la historia
 - Ponte en la piel de una joven promesa del Rock en los años 70 y consigue la gloria y la fama antes que tus rivales
+- Visualmente espectacular gracias a la ilustración de J. Giner y los componentes de lujo que incluye el juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DGQMQV9F{{</world>}}

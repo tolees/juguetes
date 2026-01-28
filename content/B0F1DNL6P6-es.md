@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO ESTRATEGICO: Basado en conceptos científicos reales, los jugadores gestionarán recursos y cambiarán la gravedad y el tiempo para obtener poderosas habilidades y desbloquear nuevas estrategias de juego.
+- JUEGAR EN FAMILIA: Perfecto para 2-4 jugadores, este juego de mesa de estrategia ofrece una experiencia de juego de 60-90 minutos, ideal para juegos en familia o para los fans de la ciencia ficción.
 - CONSTRUYE EL UNIVERSO: ¡Conviértete en un arquitecto interestelar y compite para crear el cosmos, manipulando las leyes del universo para construir estrellas, generar vida y ganar puntos de victoria!
+- JUEGO ESTRATEGICO: Basado en conceptos científicos reales, los jugadores gestionarán recursos y cambiarán la gravedad y el tiempo para obtener poderosas habilidades y desbloquear nuevas estrategias de juego.
 - COMPONENTES IMPRESIONANTES: Incluye 78 estrellas de plástico de dos tonos, 50 fichas de vida, 32 cartas de poder únicas, canicas de energía y más, diseñados para una experiencia inmersiva.
 - JUEGO PROFUNDO: La consola central hace que la configuración sea muy sencilla, mientras que la gestión de recursos y la profundidad estratégica del juego mantendrán a los jugadores enganchados durante horas.
-- JUEGAR EN FAMILIA: Perfecto para 2-4 jugadores, este juego de mesa de estrategia ofrece una experiencia de juego de 60-90 minutos, ideal para juegos en familia o para los fans de la ciencia ficción.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1DNL6P6{{</world>}}

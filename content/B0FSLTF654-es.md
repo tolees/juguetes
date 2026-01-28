@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juega tus cartas con inteligencia, aprovechándote de las debilidades de las cartas de tu oponente, recogiendo artefactos valiosos o haciéndote con lugares de importancia estratégica. ¡Gana la partida!
 - Únete a la facción de los Héroes o de los Villanos y pugna por el control de la ciudad
 - Estalla una épica batalla entre buenos y malos. ¿Quiénes se impondrán, Doctor Extraño y Hulk o Ultrón y Loki?
 - ¡Mazos asimétricos! - ¡Gran rejugabilidad! - ¡Ilustraciones de los cómics originales!
+- Juega tus cartas con inteligencia, aprovechándote de las debilidades de las cartas de tu oponente, recogiendo artefactos valiosos o haciéndote con lugares de importancia estratégica. ¡Gana la partida!
 - Contiene: 120 cartas, 1 tablero de juego, 32 chas de cartón, 14 marcadores de madera, 1 libro de reglas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🧠 Estimula tu mente y creatividad: Los puzles de Educa son una actividad perfecta para desarrollar la motricidad fina, la memoria visual y la psicomotricidad, además de estimular la curiosidad y la imaginación de niños y adultos.
-- Estos 2 puzzles están compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños. Número de piezas por puzzle: 48. Tamaño aproximado del puzzle montado: 28 x 20 cm. Disney
 - Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Recomendado a partir de 4 años.
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
 - Puzzles inspirados en Vaiana 2.
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles). Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia.
+- Estos 2 puzzles están compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños. Número de piezas por puzzle: 48. Tamaño aproximado del puzzle montado: 28 x 20 cm. Disney
+- 🧠 Estimula tu mente y creatividad: Los puzles de Educa son una actividad perfecta para desarrollar la motricidad fina, la memoria visual y la psicomotricidad, además de estimular la curiosidad y la imaginación de niños y adultos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4MQ6HV4{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye imágenes de los monumentos más importantes
-- ¡Con 150 preguntas!
 - Este fantástico juego 2 en 1 es un puzzle de dos caras con el mapa físico y político de España
+- ¡Con 150 preguntas!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01EI7JDEY{{</world>}}

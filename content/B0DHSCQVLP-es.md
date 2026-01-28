@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Idea de regalo del universo Harry Potter para niñas y niños mayores de 8 años: Este juguete de construcción es un divertido detalle solo porque sí para niños, niñas y cualquiera que esté empezando a descubrir el universo LEGO Harry Potter
-- 1 de los 14 cuadros de Hogwarts para añadir a la colección de Harry Potter: El juguete LEGO Harry Potter inspirado en el Club de Duelo incluye 1 cuadro de Hogwarts (aleatorio, de los 14 que forman la colección) para exponerlo sobre la chimenea
 - 4 minifiguras LEGO Harry Potter: Minifiguras de Harry Potter y Draco Malfoy (cada una con una varita y elementos que representan hechizos mágicos), además de minifiguras de Gilderoy Lockhart y Severus Snape para el juego de rol
 - Juego de aventuras mágicas: Este juguete de construcción cuenta con una plataforma decorada con función de derribo de una minifigura (empuja los escalones para derribar a la minifigura del extremo opuesto) y una chimenea
+- 1 de los 14 cuadros de Hogwarts para añadir a la colección de Harry Potter: El juguete LEGO Harry Potter inspirado en el Club de Duelo incluye 1 cuadro de Hogwarts (aleatorio, de los 14 que forman la colección) para exponerlo sobre la chimenea
+- Idea de regalo del universo Harry Potter para niñas y niños mayores de 8 años: Este juguete de construcción es un divertido detalle solo porque sí para niños, niñas y cualquiera que esté empezando a descubrir el universo LEGO Harry Potter
 - Juguete de Harry Potter: Revive la clásica escena de Harry Potter y la Cámara Secreta en la que Harry aprende a usar la magia en combate y podrás representar la escena en ladrillos con LEGO Castillo de Hogwarts: Club de Duelo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

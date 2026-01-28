@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La figura de Bulbasaur es construible y articulada y mide más de 10 cm de altura
+- Ideal a partir de 6 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 - Incluye un imperdible de regalo de Honor Ball
 - Bulbasaur incluye detalles de efectos de batalla tipo planta
-- Ideal a partir de 6 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
-- La figura de Bulbasaur es construible y articulada y mide más de 10 cm de altura
 - 175 bloques y piezas que se combinan con otros conjuntos de construcción de Mega Construx y son compatibles con las principales marcas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

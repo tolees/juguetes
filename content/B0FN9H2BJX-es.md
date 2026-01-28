@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡Si te equivocas, te eliminarán!
+- Un adictivo juego de risas, caos y colegueo.
+- ¡El último jugador en pie gana!
 - Coloca las cartas sobre la mesa y luego tenéis que ejecutarlas por turnos.
 - Juega cartas para ayudar o sabotear a otros jugadores
-- ¡Si te equivocas, te eliminarán!
-- ¡El último jugador en pie gana!
-- Un adictivo juego de risas, caos y colegueo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FN9H2BJX{{</world>}}

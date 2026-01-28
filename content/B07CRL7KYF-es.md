@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Características psicopedagógicas: inteligencia, habilidad manual, sociabilidad
-- Coge la galleta sin asustar a la abuela, el que coja el mayor número de galletas gana el juego
 - Fácil de jugar
+- Coge la galleta sin asustar a la abuela, el que coja el mayor número de galletas gana el juego
+- Características psicopedagógicas: inteligencia, habilidad manual, sociabilidad
 - Edad recomendada: 5 +
 
 [🛒 Visítala!!!]({{< param buyurl >}})

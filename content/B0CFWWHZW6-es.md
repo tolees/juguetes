@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- The White Castle es un juego esperado del año y será presentada en Essen 2023 en un lanzamiento internacional masivo jamás visto
 - Partiendo de la mecánica de colocación de dados, ofrece una experiencia completamente otra y emocionante
 - Los autores hot del momento, Isra y Shei, nos ofrecen, tres años después, el siguiente paso tras The Red Cathedral
+- The White Castle es un juego esperado del año y será presentada en Essen 2023 en un lanzamiento internacional masivo jamás visto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFWWHZW6{{</world>}}

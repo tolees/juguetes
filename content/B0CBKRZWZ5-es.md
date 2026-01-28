@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INSPIRADO EN AVENGERS: ENDGAME: Este juguete de superhéroe para juego de rol cuenta con luces y sonidos para que los más pequeños puedan imaginar las aventuras de acción de los Vengadores y sus enemigos. Al presionar el botón central, activarás una Gema del Infinito o efectos de sonido
-- BUSCA OTROS JUGUETES PARA JUEGO DE ROL: Busca otros juguetes Marvel para juego de rol para decorar los trajes de cualquier superhéroe y disfrazarte o para tus juegos creativos
 - GUANTE DEL INFINITO CON LUCES Y SONIDOS: Imagina que controlas el universo con el Guante electrónico del Infinito, el cual presenta luces y efectos de sonido electrónicos inspirados en la película Avengers: Endgame
+- BUSCA OTROS JUGUETES PARA JUEGO DE ROL: Busca otros juguetes Marvel para juego de rol para decorar los trajes de cualquier superhéroe y disfrazarte o para tus juegos creativos
 - COLECCIONA UN UNIVERSO MARVEL: Busca otros juguetes y figuras de acción de Marvel para imaginar superaventuras cargadas de acción o para añadirlos a tu épica colección de juguetes Marvel
 - TALLA ÚNICA: Este juguete de los Vengadores está diseñado para ajustarse a las manos de la mayoría de los niños y niñas a partir de 5 años y que puedan imaginar que tienen el poder de las Gemas del Infinito para dominar el universo como Thanos o que usan el poder de estas en favor de las fuerzas del bien
 
