@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En la sombría y decrépita ciudad portuaria de Innsmouth, un complicado plan empieza a ponerse en marcha. Una agente del gobierno ha desaparecido. Se han producido avistamientos de extrañas criaturas cerca del arrecife que hay en la costa. Los cuerpos celestiales se alinean.
-- En la expansión de campaña La conspiración de Innsmouth, de uno a cuatro investigadores buscan sus recuerdos perdidos y la verdad sobre la ciudad de Innsmouth plagada de rumores.
-- Esta expansión incluye todo el contenido de los escenarios que se incluyeron originalmente en el ciclo La conspiración de Innsmouth, ahora reunido en una sola caja.
-- Se necesita una caja básica de Arkham Horror: El juego de cartas para jugar.
 - Los destellos del pasado ofrecen a los investigadores atisbos de acontecimientos pasados y podrían influir en el futuro... pero ¿querrán conocer la verdad?
+- Esta expansión incluye todo el contenido de los escenarios que se incluyeron originalmente en el ciclo La conspiración de Innsmouth, ahora reunido en una sola caja.
+- En la expansión de campaña La conspiración de Innsmouth, de uno a cuatro investigadores buscan sus recuerdos perdidos y la verdad sobre la ciudad de Innsmouth plagada de rumores.
+- En la sombría y decrépita ciudad portuaria de Innsmouth, un complicado plan empieza a ponerse en marcha. Una agente del gobierno ha desaparecido. Se han producido avistamientos de extrañas criaturas cerca del arrecife que hay en la costa. Los cuerpos celestiales se alinean.
+- Se necesita una caja básica de Arkham Horror: El juego de cartas para jugar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJMQYDPV{{</world>}}

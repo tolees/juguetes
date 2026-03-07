@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ⏱ Partidas rápidas y repetibles: Solo 10-15 minutos por partida, lo que lo hace ideal tanto para niños como para jugar varias veces en una sesión.
-- 🌙 Sé un Guardián de los Sueños: Ayuda a Bruno a dormir tranquilo formando caminos oníricos de cartas de colores y evitando que se despierte.
+- 👨‍👩‍👧 Ideal para toda la familia: Juego ligero y fácil de aprender para 2 a 6 jugadores a partir de 8 años — perfecto para momento “mesa” o sobremesa.
 - ✈️ Formato pocket de Devir: Juego compacto y asequible que puedes llevar de viaje o usar para iniciarse en los juegos de mesa ligeros de temática infantil.
 - 🎨 Arte evocador y temático: Diseñado por Santiago Zanón e ilustrado por David Esbrí, con estilo infantil y ambientación de sueños en cuatro colores diferentes.
-- 👨‍👩‍👧 Ideal para toda la familia: Juego ligero y fácil de aprender para 2 a 6 jugadores a partir de 8 años — perfecto para momento “mesa” o sobremesa.
+- 🌙 Sé un Guardián de los Sueños: Ayuda a Bruno a dormir tranquilo formando caminos oníricos de cartas de colores y evitando que se despierte.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FZWS4N4F{{</world>}}

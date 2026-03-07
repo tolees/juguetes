@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Personaliza tu hogar y tus personajes
-- Ha nacido una heroína
-- Reúne a tu equipo
 - Una aventura de LEGO sin igual
+- Reúne a tu equipo
+- Ha nacido una heroína
+- Personaliza tu hogar y tus personajes
 - ¡Aquí es donde entras tú!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

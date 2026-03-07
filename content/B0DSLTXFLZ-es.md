@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Acumulad tantos rubíes como podáis. Bandidos enmascarados, influencia, magia… todo vale con tal de conseguir que vuestros oponentes pierdan rubíes y podáis aseguraros de que seréis vosotros quienes os hagáis con la corona al final de esta épica batalla real.
 - Revelad cartas una a una. Si se revela 1 de vuestros mercenarios, aplicad sus efectos de inmediato. Pero, mucho cuidado,¡los eventos pueden echar a perder todos vuestros planes!
+- Recluta mercenarios. Introducidlos en las fundas de cartas de vuestra familia y barajadlos junto con los mercenarios de vuestros oponentes en un mazo común.
 - ¿Quién llevará la primera corona? La pugna por el reino va a ser muy dura, ¿estáis preparados para hacer lo que sea necesario por llegar al trono?
 - Un juego con mecánicas muy originales en el que las artimañas, la traición y la elección del momento perfecto son la clave.
-- Recluta mercenarios. Introducidlos en las fundas de cartas de vuestra familia y barajadlos junto con los mercenarios de vuestros oponentes en un mazo común.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSLTXFLZ{{</world>}}

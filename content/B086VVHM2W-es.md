@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud del marco 460 mm
-- Caja de cambios Shimano TY21 / 6 velocidades
 - Telaio in alluminio-Horquilla de acero
 - Luces y reflectores incluidos
+- Longitud del marco 460 mm
+- Caja de cambios Shimano TY21 / 6 velocidades
 - Peso: 17 kilogramos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

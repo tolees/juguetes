@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Stranger Things se vuelve diminuto! Los fans pueden jugar con los muñecos de 6 personajes, 10 accesorios y varias localizaciones emblemáticas de la serie de televisión.
-- Este conjunto es perfecto para coleccionistas y viene en un embalaje para exhibir con materiales de primera calidad y detalles elaborados que rinden homenaje a los fans de Stranger Things.
-- En Hawkins, los coleccionistas pueden recordar escenas favoritas de los fans, como la sala de estar de Byers y la escena montando en bicicleta por el bosque, o el Castillo Byers y el tanque de privación sensorial.
 - Con la forma de un walkie talkie, el exterior del estuche se abre a un mundo con dos lados: lugares memorables de Hawkins y el oscuro y espeluznante El otro lado.
+- Este conjunto es perfecto para coleccionistas y viene en un embalaje para exhibir con materiales de primera calidad y detalles elaborados que rinden homenaje a los fans de Stranger Things.
 - Ayuda a Eleven a esconderse en el Castillo Byers, pero asegúrate de estar atento a lo que pueda estar acechando en el bosque...
+- ¡Stranger Things se vuelve diminuto! Los fans pueden jugar con los muñecos de 6 personajes, 10 accesorios y varias localizaciones emblemáticas de la serie de televisión.
+- En Hawkins, los coleccionistas pueden recordar escenas favoritas de los fans, como la sala de estar de Byers y la escena montando en bicicleta por el bosque, o el Castillo Byers y el tanque de privación sensorial.
 - Es un regalo ideal para los fans de Polly y especialmente para los fans de Stranger Things.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

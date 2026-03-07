@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- JUEGO DE INGENIO: El laberinto se transforma en cada turno y las vías de conexión entre los diferentes puntos se alteran una y otra vez; gana quien primero logre descubrir todos los tesoros y hechizos y regrese al punto de partida.
-- CARACTERÍSTICAS: Número de jugadores 2-4, edad recomendada 4+, duración 30 minutos, edición en castellano
+- DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
 - POKÉMON: En esta versión en la oscuridad, cada jugador tiene la tarea de capturar a todos los Pokémon escondidos en un increíble laberinto encantado, moviéndose a lo largo de los caminos mágicos del juego; duplica la diversión con los 2 modos de juego "Día" o "Noche"
 - LABERINTO: Uno de los juegos clásicos más queridos en el mundo; cada competidor gira en el laberinto buscando su objetivo secreto, la dificultad de encontrar el camino correcto aumenta con los movimientos realizados por los adversarios que logran trastocar todos los planes preparados.
-- DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
+- JUEGO DE INGENIO: El laberinto se transforma en cada turno y las vías de conexión entre los diferentes puntos se alteran una y otra vez; gana quien primero logre descubrir todos los tesoros y hechizos y regrese al punto de partida.
+- CARACTERÍSTICAS: Número de jugadores 2-4, edad recomendada 4+, duración 30 minutos, edición en castellano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ12JTS7{{</world>}}

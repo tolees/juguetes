@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con variante de juego en solitario también se puede jugar solo
 - Opcional con aplicación gratuita de explicación KOSMOS. Se puede jugar con y sin aplicación
-- Juego familiar accesible, que también exige a los conocedores a través de variantes
 - Galardonado como "Juego del año" 2022
+- Juego familiar accesible, que también exige a los conocedores a través de variantes
 - Para 1-4 jugadores a partir de 10 años
-- Reglas simples y proceso de juego pegadizo
 - Juego de mesa variado para toda la familia
+- Reglas simples y proceso de juego pegadizo
+- Con variante de juego en solitario también se puede jugar solo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QQR6JXS{{</world>}}

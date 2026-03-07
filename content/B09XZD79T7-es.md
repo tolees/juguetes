@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de alta calidad
 - Diseño flexible
+- Material de alta calidad
 - Accesorios
 - Durabilidad
 

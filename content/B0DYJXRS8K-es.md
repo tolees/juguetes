@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Juego infantil de mesa de acumulación y recorrido con temática de unicornio para niños y niñas a partir de 4 años.
 - GRAN TABLERO DE JUEGO: Rosalie llega al País de las Nubes y el Unicornio Destello y sus amigos deciden prepararle una fiesta sorpresa. Con la ayuda de los dados y de la ruleta, todos jugadores/as juntos deben reunir los cristales de nubes y encontrar a todos los invitados/as antes de que llegue Rosalie.
 - REGLAS SENCILLAS: El objetivo de este juego es ser el primero/a en lograr juntar a 8 amigos/as y recolectar el mayor número de cristales, mientras se recorre el País de las Nubes.
 - MATERIAL DE CALIDAD: Las 5 adorables figuras de unicornios están hechas de madera con acabado de pintura al agua, no tóxica. Además, incluye 10 cristales de nubes extragrandes.
-- Juego infantil de mesa de acumulación y recorrido con temática de unicornio para niños y niñas a partir de 4 años.
 - RENOVADO: El clásico juego de HABA de la serie del Unicornio Destello, ahora con una nueva imagen renovada, más moderna.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

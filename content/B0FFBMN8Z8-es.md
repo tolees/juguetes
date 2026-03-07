@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Embarcad en una aventura tan inmersiva como perturbadora
 - Afrontad juntos vuestros miedos de la infancia
+- Embarcad en una aventura tan inmersiva como perturbadora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFBMN8Z8{{</world>}}

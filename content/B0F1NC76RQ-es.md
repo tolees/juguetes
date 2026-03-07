@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de aprender, rápido de jugar y con mucha interacción
-- Un juego de bazas pero, con dados; inspirado en el super-éxito Skull King
 - Arte y componentes de alta calidad; da gusto jugarlo
+- Un juego de bazas pero, con dados; inspirado en el super-éxito Skull King
+- Fácil de aprender, rápido de jugar y con mucha interacción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1NC76RQ{{</world>}}

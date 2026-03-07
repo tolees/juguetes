@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El skip it con cuentavueltas podrás contar hasta 1. 000 saltos
+- Fomenta la vida saludable y el ejercicio
+- Juego de aire libre que desarrolla la competitividad
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Producto distribuido oficialmente en España por BIZAK.
 - Pon tu pierna dentro del aro y salta para que SKIP IT cuente
 - Compite con tus amigas
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- Juego de aire libre que desarrolla la competitividad
-- Fomenta la vida saludable y el ejercicio
-- Producto distribuido oficialmente en España por BIZAK.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00WN98II2{{</world>}}

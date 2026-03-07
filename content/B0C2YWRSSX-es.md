@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - De la marca Scalextric
-- Velocidad en pista
 - Juguete para niñas y niños
+- Velocidad en pista
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2YWRSSX{{</world>}}

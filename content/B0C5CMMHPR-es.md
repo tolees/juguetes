@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Traspasa las tres habitaciones y … ¡habrás salido de la casa misteriosa! Se puede jugar muchas veces ya que hay más de 80 enigmas por resolver
-- 1 - 6 jugadores; +8 años
-- Juego escape room en tablero tridimensional; localiza, reuelve y desbloquea la casa misteriosa
-- Recoge pistas para llegar a la palabra clave; descifra la palabra clave en cada habitación para poder salir
 - Trabaja en equipo en familia o con amigos para pasarte el escape room, es rejugable, ¡cada partida es distinta!
+- Traspasa las tres habitaciones y … ¡habrás salido de la casa misteriosa! Se puede jugar muchas veces ya que hay más de 80 enigmas por resolver
+- Recoge pistas para llegar a la palabra clave; descifra la palabra clave en cada habitación para poder salir
+- Juego escape room en tablero tridimensional; localiza, reuelve y desbloquea la casa misteriosa
+- 1 - 6 jugadores; +8 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5CMMHPR{{</world>}}

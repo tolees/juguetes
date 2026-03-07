@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El jugador que tira los dados decide dónde colocar los castores.
 - Coloca castores en las fichas de construcción de otros jugadores para llenarlas y obligarles a construir la torre.
+- En este juego de mesa para niños y familia, se utilizan adorables castores con casco para construir cada nivel.
 - Ideal para una noche de juegos en familia o para llevártelo de viaje.
 - Si otro jugador hace caer la torre en tu turno, ¡GANAS!
-- El jugador que tira los dados decide dónde colocar los castores.
-- En este juego de mesa para niños y familia, se utilizan adorables castores con casco para construir cada nivel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPKKD65H{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Asumid el papel de los señores de la guerra durante el periodo Sengoku de guerras civiles en Japón.
+- Para dominar la partida, necesitaréis una buena combinación de sabiduría y suerte.
 - Aspirad a la supremacía disputando la conquista de los once castillos del territorio.
 - Tres dados determinan dónde desplegáis vuestros Soldados y las cartas de Táctica os permiten haceros con el control del curso de la guerra.
 - ¡Cada batalla es una chispa que podría prender fuego a la nación entera! Vigilad las cadenas de refuerzos o usadlas en vuestro beneficio para convertir una derrota en victoria.
-- Para dominar la partida, necesitaréis una buena combinación de sabiduría y suerte.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FD3T68C4{{</world>}}

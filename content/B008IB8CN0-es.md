@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bandeja de madera y 92 piezas magnéticas, Material, MDF para la bandeja y madera contrachapada para los imanes, Con cordón de algodón para colgar el rompecabezas en la pared
-- Mapa del mundo que podrás colgar en la pared, Una forma divertida y educativa de descubrir el planeta y aprender sobre geografía, Dimensiones, 70 x 43 cm, Ideal a partir de los 7 años, Rompecabezas en español
 - Cada imán representa un país o una región del mundo, con su nombre, su capital y una ilustración que caracteriza esta parte del globo, El gran tablero magnético representa el mundo con sus continentes, mares y océanos
+- Bandeja de madera y 92 piezas magnéticas, Material, MDF para la bandeja y madera contrachapada para los imanes, Con cordón de algodón para colgar el rompecabezas en la pared
 - Los colores elegidos y el cuidadoso diseño de los juguetes de madera de Janod les permiten encajar en la vida cotidiana en completa armonía, Todos los juguetes de Janod son diseñados en Francia, en el Jura
 - Muy práctico, cada pieza del rompecabezas es un imán que se magnetiza a sí mismo en el tablero para que no se pierda, Fácil de guardar, el puzzle también puede ser exhibido verticalmente, las piezas permanecen adheridas a su soporte
+- Mapa del mundo que podrás colgar en la pared, Una forma divertida y educativa de descubrir el planeta y aprender sobre geografía, Dimensiones, 70 x 43 cm, Ideal a partir de los 7 años, Rompecabezas en español
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B008IB8CN0{{</world>}}

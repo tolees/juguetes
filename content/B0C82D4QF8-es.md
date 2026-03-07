@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Personajes entrañables: Descubre 10 minifiguras diferentes inspiradas en Luke Skywalker, Darth Vader, R2-D2, Ahsoka, Wicket, la Princesa Leia, un soldado de asalto, Grogu y C-3PO en un surtido de imaginativas motos jets, cazas estelares y deslizadores terrestres.
-- Así es como nos movemos: Esta colección incluye 10 personajes en exclusivos todoterrenos, las motos jets y cazas estelares X-Wing con temática STAR WARS que ruedan de verdad.
-- Aventuras galácticas: Llena el depósito y prepárate para partir, ya que te espera una sorpresa fuera de esta galaxia con los STAR WARS Doorables Galactic Cruisers.
-- Más Doorables, más diversión: Colecciona los distintos vehículos galácticos para compartirlos, intercambiarlos y exhibirlos.
-- Incluye: 1 figura STAR WARS Doorables y 1 vehículo todoterreno.
-- Festeja con los Doorables: Las figuras STAR WARS Doorables Galactic Cruisers son fantásticas sorpresas de cumpleaños (o para cualquier ocasión) para niños a partir de 5 años.
 - Diseño característico de los Doorables: Cada figura coleccionable mide aproximadamente 3,8 cm de alto y presenta el característico estilo y ojos brillantes de los Doorables.
+- Aventuras galácticas: Llena el depósito y prepárate para partir, ya que te espera una sorpresa fuera de esta galaxia con los STAR WARS Doorables Galactic Cruisers.
+- Festeja con los Doorables: Las figuras STAR WARS Doorables Galactic Cruisers son fantásticas sorpresas de cumpleaños (o para cualquier ocasión) para niños a partir de 5 años.
+- Más Doorables, más diversión: Colecciona los distintos vehículos galácticos para compartirlos, intercambiarlos y exhibirlos.
+- Personajes entrañables: Descubre 10 minifiguras diferentes inspiradas en Luke Skywalker, Darth Vader, R2-D2, Ahsoka, Wicket, la Princesa Leia, un soldado de asalto, Grogu y C-3PO en un surtido de imaginativas motos jets, cazas estelares y deslizadores terrestres.
+- Incluye: 1 figura STAR WARS Doorables y 1 vehículo todoterreno.
+- Así es como nos movemos: Esta colección incluye 10 personajes en exclusivos todoterrenos, las motos jets y cazas estelares X-Wing con temática STAR WARS que ruedan de verdad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C82D4QF8{{</world>}}

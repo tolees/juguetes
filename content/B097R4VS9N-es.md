@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 3 a 6 jugadores | + 8 años | Partidas de hasta 45 min. | Juego de mesa en español
+- PARA TODA LA FAMILIA: MasterChef es un juego de mesa familiar con 2 niveles de dificultad en todos sus retos, para que adultos y niños puedan jugar.
 - SUPERA LAS PRUEBAS: Recorre el tablero y supera las pruebas para completar tu menú: retos en el supermercado, sorpresas en exteriores… ¡Cómo en el programa de TVE!
 - Habilidades que desarrolla: estimula la sociabilidad y diversión
-- 3 a 6 jugadores | + 8 años | Partidas de hasta 45 min. | Juego de mesa en español
 - PRESENTA TU MENÚ A LOS JUECES: ¡Ha llegado la gran final! Los jueces están esperando para ver quién termina primero su Menú y dar su valoración. ¿Serás tu el que se lleve el título de MasterChef?
-- FAMOSO PROGRAMA DE TVE: Juego de mesa familiar para jugar en familia al famoso concurso de TVE "MasterChef"
-- PARA TODA LA FAMILIA: MasterChef es un juego de mesa familiar con 2 niveles de dificultad en todos sus retos, para que adultos y niños puedan jugar.
 - Contenido: 1 tablero de juego, 8 tarjetas de menú + 60 fichas de Reto, 9 tarjetas de Jueces (doble cara), 15 tarjetas Sorpresa de Exteriores, 15 tarjetas Caja Misteriosa, 6 peones-delantal + 6 peanas, 1 Pin de Inmunidad, 1 Delantal Dorado, 1 reloj de arena y 1 dado Reto de Técnicas Culinarias: 75 tarjetas (150 preguntas) Reto de Elaboración: 25 tarjetas (300 palabras) + 1 tablero + Plastilina + Cuchillo; Piezas reto de Supermercado: 1 tablero + 14 fichas-Cesta + 32 fichas de Alimentos; Piezas reto de Emplatado: 6 fichas-Campana + 6 puzzles de 5 piezas y reglas de juego
+- FAMOSO PROGRAMA DE TVE: Juego de mesa familiar para jugar en familia al famoso concurso de TVE "MasterChef"
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097R4VS9N{{</world>}}

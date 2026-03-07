@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPERCLUB – El Juego de Mesa para mánagers de fútbol'
-date: 2026-03-05 14:17:04
+date: 2026-03-07 09:33:23
 image: 'https://m.media-amazon.com/images/I/51Dibnr-oGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

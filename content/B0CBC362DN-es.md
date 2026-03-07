@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pon a prueba tu rapidez y completa las mejores recetas para conseguir el título de Gran Maestre del Wok. Wok’up!
-- De 2 a 6 jugadores.
 - Partidas rápidas de 15 minutos.
-- Gana quien consiga primero 5 cartas de receta.
 - ¡El campeonato de Kung Food abre sus puertas a la flor y nata de los cocineros ninja!
+- Gana quien consiga primero 5 cartas de receta.
+- De 2 a 6 jugadores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBC362DN{{</world>}}

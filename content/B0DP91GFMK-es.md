@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El Parque de los Sueños incluye castillo con noria, barco vikingo, trenecito, 1 figura de bebé.
 - Edad recomendada: +3 años.
-- Figuras y mobiliario se venden por separado.
 - ¡Bienvenidos al Parque de los sueños! Un nuevo castillo con atracciones en Sylvanian Land. ¿A qué atracción te gustaría subir? En la noria caben hasta 3 bebés. Después podemos seguir con la diversión en el Barco Vikingo o subir en el tren mágico que te lleva hasta los cielos. ¿Has visto eso? En lo alto hay un castillo con un reloj. Habrá que permanecer atentos para no perdernos el desfile de carrozas. ¡Es hora de jugar, en Sylvanian Land!
+- Figuras y mobiliario se venden por separado.
 - Podrás usar la trasera del Parque de los sueños para poner todos los bebés de tu Aldea Sylvanian.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

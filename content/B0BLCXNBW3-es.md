@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El capitán Bu no habla mucho
-- ¡pero toca la pandereta que se las pela!
-- En una vieja mansión abandonada se oculta un fabuloso tesoro
-- Si queréis encontrarlo, tendréis que colaborar con el espíritu que habita en este lugar:
 - Ganador al premio "Mejor Juego Infantil" en 2023
+- Si queréis encontrarlo, tendréis que colaborar con el espíritu que habita en este lugar:
+- En una vieja mansión abandonada se oculta un fabuloso tesoro
+- ¡pero toca la pandereta que se las pela!
+- El capitán Bu no habla mucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BLCXNBW3{{</world>}}

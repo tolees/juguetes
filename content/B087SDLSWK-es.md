@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CARACTERÍSTICAS: número de jugadores 2-4, edad recomendada 10+, duración 45-75 minutos, edición en castellano
 - CARPE DIEM: Sumérgete en la Roma del siglo I d.C. y conviértete en un influyente patricio. Construye suntuosas villas y residencias para impulsar el desarrollo de los distritos de la ciudad. Aprovecha el momento y crea un futuro próspero para la ciudad
-- CONSTRUYE EDIFICIOS PRESTIGIOSOS: En cada turno, mueve tu peón y explora los barrios para decidir dónde colocar fichas de paisaje, fuentes, villas y mercados. Compra e intercambia bienes en el Foro y busca obtener todo el prestigio necesario para ganar
+- CARACTERÍSTICAS: número de jugadores 2-4, edad recomendada 10+, duración 45-75 minutos, edición en castellano
 - DESCUBRE LA LÍNEA ALEA: Descubre el mundo de los juegos de mesa Alea de Ravensburger: los Castillos de la Toscana, Las Vegas, Puerto Rico y muchas otras aventuras te esperan
+- CONSTRUYE EDIFICIOS PRESTIGIOSOS: En cada turno, mueve tu peón y explora los barrios para decidir dónde colocar fichas de paisaje, fuentes, villas y mercados. Compra e intercambia bienes en el Foro y busca obtener todo el prestigio necesario para ganar
 - CONSTRUYE EDIFICIOS PRESTIGIOSOS: Mueve tu peón en cada turno y explora los barrios eligiendo si colocar fichas de paisaje, fuentes, villas, mercados; compra e intercambia bienes en el Foro y trata de ganar todo el prestigio necesario para ganar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

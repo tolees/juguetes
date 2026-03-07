@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Doble diversión: Mike cuenta con dos modos de juego; puede repetir lo que dices y cantar contigo la canción Chocolate con almendras
 - Contenido: escanea el código QR que encontrarás en la etiqueta del peluche para acceder a material adicional
+- Doble diversión: Mike cuenta con dos modos de juego; puede repetir lo que dices y cantar contigo la canción Chocolate con almendras
 - Valores: favorece la estimulación sensorial y desarrolla el lenguaje y la imaginación de los niños
 - El peluche interactivo Mike, inspirado en el universo de Mikecrack, se convertirá en tu compañero favorito de aventuras; puedes abrazarlo y llevarlo a todas partes gracias a su tamaño de 29 cm y divertirte con sus 2 modos de juego
 - Fácil de usar: tan solo tienes que pulsar su mano izquierda o derecha para activar un modo u otro; cuando ya no quieras que cante más, vuelve a pulsar el botón y Mike se callará

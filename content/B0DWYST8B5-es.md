@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La casita viene con numerosos pequeños accesorios que enriquecen el juego, como detalles de joyas, peines y otros elementos para decorar y jugar sin límites
-- Es un modelo que ayuda a recrear cuentos submarinos, esta casita permite a los niños desarrollar su creatividad mientras exploran el mundo de las sirenas y crean nuevas historias mágicas
-- Incluye una figura de Pinypon con una cola de sirena desmontable cubierta de purpurina. Personaliza a tu sirenita para cada aventura submarina
 - La casita de fantasía de la sirenita Pinypon está diseñada con detalles encantadores, incluyendo un asiento en forma de concha y un tocador con espejo, todo ello permite recrear la vida bajo el mar
+- Es un modelo que ayuda a recrear cuentos submarinos, esta casita permite a los niños desarrollar su creatividad mientras exploran el mundo de las sirenas y crean nuevas historias mágicas
+- La casita viene con numerosos pequeños accesorios que enriquecen el juego, como detalles de joyas, peines y otros elementos para decorar y jugar sin límites
+- Incluye una figura de Pinypon con una cola de sirena desmontable cubierta de purpurina. Personaliza a tu sirenita para cada aventura submarina
 - Con su tamaño práctico y su estética encantadora, esta casita es perfecta para llevar la diversión submarina a cualquier lugar o integrarla con otras colecciones de Pinypon
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

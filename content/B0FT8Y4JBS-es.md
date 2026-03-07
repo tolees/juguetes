@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Armas, Armaduras y Poderes Especiales: Más de 50 cartas de equipo y consumibles te permiten personalizar tu estrategia. Mejora tu defensa con armaduras o lanza ataques en cadena para eliminar coronas enemigas.
 - Mecánica Ágil con Dados y Ataques Visuales: Tira los dados, avanza por el tablero y dispara con pistolas de agua, tirachinas o flechas con ventosa. Cada turno combina movimiento, acción y defensa en un combate dinámico.
 - Poder Supremo en el Castillo Central: Quien llega al castillo obtiene el poder de atacar sin límites. Pero si caes derrotado allí, pierdes la partida. Solo el último en pie será coronado como el nuevo rey del barrio.
-- Componentes Premium y Diversión en Grupo: Incluye tablero reversible, coronas de madera, dados, cartas ilustradas y fichas de personaje. Ideal para partidas rápidas de 30 minutos con amigos o familia, a partir de 8 años.
-- Armas, Armaduras y Poderes Especiales: Más de 50 cartas de equipo y consumibles te permiten personalizar tu estrategia. Mejora tu defensa con armaduras o lanza ataques en cadena para eliminar coronas enemigas.
 - Juego de Estrategia y Eliminación con Temática Urbana De 2 a 6 jugadores: Conviértete en el rey del parque en un juego de mesa competitivo donde cada jugada cuenta. Muévete entre columpios, areneros y toboganes mientras recoges objetos y eliminas rivales.
+- Componentes Premium y Diversión en Grupo: Incluye tablero reversible, coronas de madera, dados, cartas ilustradas y fichas de personaje. Ideal para partidas rápidas de 30 minutos con amigos o familia, a partir de 8 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FT8Y4JBS{{</world>}}

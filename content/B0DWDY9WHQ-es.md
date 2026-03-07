@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo LEGO: Este set LEGO 3 en 1 es un gran regalo para niños y niñas de 9 años o más que disfruten imaginando historias de miedo en una casa o a bordo de un tren o un barco de juguete
-- Una forma divertida de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura creativa; podrán guardar sets, consultar su progreso, y acercar y girar versiones 3D de sus modelos mientras los construyen
-- Tres terroríficos juguetes para construir: una casa encantada, un tren encantado y un barco encantado de juguete (los modelos no se pueden construir simultáneamente)
-- 5 minifiguras LEGO: Este set LEGO incluye 5 personajes que dan mucho miedo (hombre lobo, fantasma con una capa que brilla en la oscuridad, monstruo de Frankenstein, vampiresa y esqueleto, cada uno con un accesorio)
-- Sets LEGO 3 en 1: Cada set 3 en 1 (a la venta por separado) ofrece a los niños la oportunidad de construir 3 modelos diferentes inspirados en algunas de sus mayores pasiones, como los animales, los vehículos y las casas
-- Maqueta de casa encantada: Cuenta con 2 plantas con verja de entrada que se abre, cementerio, árbol terrorífico, órgano, fantasma oculto que se aparece al girar una rueda y parte posterior que se abre
 - 3 escalofriantes construcciones en 1 caja: El juguete de construcción LEGO Creator 3 en 1 Mansión Encantada les permite construir y reconstruir 3 terroríficos modelos diferentes con los mismos ladrillos
+- Sets LEGO 3 en 1: Cada set 3 en 1 (a la venta por separado) ofrece a los niños la oportunidad de construir 3 modelos diferentes inspirados en algunas de sus mayores pasiones, como los animales, los vehículos y las casas
+- 5 minifiguras LEGO: Este set LEGO incluye 5 personajes que dan mucho miedo (hombre lobo, fantasma con una capa que brilla en la oscuridad, monstruo de Frankenstein, vampiresa y esqueleto, cada uno con un accesorio)
+- Maqueta de casa encantada: Cuenta con 2 plantas con verja de entrada que se abre, cementerio, árbol terrorífico, órgano, fantasma oculto que se aparece al girar una rueda y parte posterior que se abre
+- Una forma divertida de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura creativa; podrán guardar sets, consultar su progreso, y acercar y girar versiones 3D de sus modelos mientras los construyen
+- Regalo LEGO: Este set LEGO 3 en 1 es un gran regalo para niños y niñas de 9 años o más que disfruten imaginando historias de miedo en una casa o a bordo de un tren o un barco de juguete
+- Tres terroríficos juguetes para construir: una casa encantada, un tren encantado y un barco encantado de juguete (los modelos no se pueden construir simultáneamente)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWDY9WHQ{{</world>}}

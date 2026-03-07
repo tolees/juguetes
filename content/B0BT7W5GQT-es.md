@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El juego revelación de la feria de Essen 2021
-- Otro óptimo juego de Richard Garfield (Magic the Gathering, Bunny Kingdom, King of Tokyo, Treasure Hunters)
 - Partidas óptimas y furiosas
+- Otro óptimo juego de Richard Garfield (Magic the Gathering, Bunny Kingdom, King of Tokyo, Treasure Hunters)
 - Mecánicas: Gestión de mano; habilidad una vez por juego; poderes variables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

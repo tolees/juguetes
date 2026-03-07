@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El regalo para el día de la primera comunión de los niños y niñas
 - Muñeca Nancy Colección de 42 cm con vestido de estilo moderno de Comunión; fabricada con el molde de la muñeca Nancy de los años 70
-- Preciosa muñeca de Colección rubia o morena, para un día especial como es la Primera Comunión
+- El regalo para el día de la primera comunión de los niños y niñas
 - Incluye un certificado de autenticidad; una pieza de coleccionista; el regalo optimo para este día tan especial que encantará a las niñas y niños pequeños
 - La muñeca va con un vestido blanco estilo de lino con un lazo de tono lila a juego con la corona de flores, igual que una niña en el día de su Primera Comunión; incluye colgante de una crucecita
+- Preciosa muñeca de Colección rubia o morena, para un día especial como es la Primera Comunión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR7WLDRL{{</world>}}

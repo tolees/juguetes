@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El set incluye un Botón Corazón, una Tarjeta de Promesa y un Libro de cuentos de inicio rápido. Los niños tienen que atar el botón del corazón a Thready, hacen la promesa del osito y piden un deseo, una vez que esto esté hecho, deben dormir con su nuevo amigo para que reviva al día siguiente.
 - Tras pedir el deseo, los niños pueden apretar la mano de Thready y susurrar "¡Despierta Thready!" al despertar, haciendo que el osito cobre vida mágicamente. Con Thready a su lado, los niños pueden soñar y vivir innumerables aventuras juntos.
-- Los niños pueden seguir un proceso encantador para hacer realidad su deseo.Deberán sacar el Botón Corazón del paquete hasta abrazar a Thready y pedir un deseo, cada paso está diseñado para ser mágico y memorable.
+- El set incluye un Botón Corazón, una Tarjeta de Promesa y un Libro de cuentos de inicio rápido. Los niños tienen que atar el botón del corazón a Thready, hacen la promesa del osito y piden un deseo, una vez que esto esté hecho, deben dormir con su nuevo amigo para que reviva al día siguiente.
 - Thready Bear permite a los niños experimentar la magia de desear que su mejor amigo cobre vida. A través de sus ojos de botón expresivos, Thready parece escuchar y reaccionar, creando un vínculo de amistad único y especial.
+- Los niños pueden seguir un proceso encantador para hacer realidad su deseo.Deberán sacar el Botón Corazón del paquete hasta abrazar a Thready y pedir un deseo, cada paso está diseñado para ser mágico y memorable.
 - Los niños pueden escribir su nombre en la etiqueta de Thready, haciendo que el osito sea verdaderamente suyo. Este toque personal fortalece el vínculo y hace que Thready sea un amigo aún más especial.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

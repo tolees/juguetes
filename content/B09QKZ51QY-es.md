@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Arriba está la celda del preso, el teléfono para la llamada al abogado y el helipuerto
-- Juguete para niños y niñas a partir de 4 años
+- Nueva comisaría de Pinypon Action de dos plantas. En la planta baja está la oficina convertible en almacén de armas y el control de seguridad con detector de metales. Arriba está la celda del preso con una cama y un lavabo y el teléfono para la llamada al abogado. La celda tiene una ventana que se puede quitar, con una cuerda colgando en el otro lado para darse a la fuga. También hay un helipuerto arriba. Incluye una moto que se puede aparcar detrás de la escalera y la figura de un policía. Con muchos pequeños accesorios
 - En la planta baja está la oficina convertible en almacén de armas y el control de seguridad con detector de metales
 - La seguridad en esta comisaría no es infalible, es posible quitar la ventana de la celda y darse a la fuga
-- Nueva comisaría de Pinypon Action de dos plantas. En la planta baja está la oficina convertible en almacén de armas y el control de seguridad con detector de metales. Arriba está la celda del preso con una cama y un lavabo y el teléfono para la llamada al abogado. La celda tiene una ventana que se puede quitar, con una cuerda colgando en el otro lado para darse a la fuga. También hay un helipuerto arriba. Incluye una moto que se puede aparcar detrás de la escalera y la figura de un policía. Con muchos pequeños accesorios
+- Arriba está la celda del preso, el teléfono para la llamada al abogado y el helipuerto
+- Juguete para niños y niñas a partir de 4 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QKZ51QY{{</world>}}

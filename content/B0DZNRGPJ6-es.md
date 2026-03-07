@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. Sistema de Alarma Doble y 2 Modos de Visualización: El zumbador y el parpadeo LED notifican cuando se acerca al par objetivo, evitando el sobreajuste y mejorando la seguridad durante el mantenimiento.
 - 2. Dirección del Par y Conversión Multi-Unidad: El Adaptador de Par Digital mide el par con precisión de ±2% en ambas direcciones, de reloj y antihorario. Soporta 5 unidades: Newton metros (Nm), pies-libra (ft-lb), pulgadas-libra (in-lb), kilogramos-centímetro (kg-cm) y kilogramos-metro (kg-m) para cumplir con diversas normas industriales.
 - 4. Preestablecimiento y Almacenamiento de Datos: P1-P9 permite preestablecer 9 valores de par para cumplir con diferentes requisitos de par. Se pueden almacenar hasta 500 valores de par, lo que facilita la visualización de datos para mejorar la eficiencia del trabajo con el Adaptador de Par Digital.
 - 5. Instrucciones de Operación: - Presione brevemente el botón C para encender, presione largamente para apagar. - El botón P/T alterna entre los modos Pico y Seguimiento. - El botón U cambia las unidades. - Use los botones ▲/▼ para seleccionar las preestablecidas P1-P9, presione el botón M para confirmar y establecer el valor de par, luego presione M nuevamente para guardar. - Durante la operación, presione el botón M para almacenar datos de inmediato (capacidad de 500 grupos).
 - 1. Accesorios del Adaptador: El kit incluye 1 × Adaptador de Par Digital de 1/2", 1 × Adaptador de 3/8", 1 × Adaptador de 1/4" y 1 × Destornillador. Conéctelo a una llave inglesa estándar para convertirla instantáneamente en una Llave Dinamométrica Digital.
+- 3. Sistema de Alarma Doble y 2 Modos de Visualización: El zumbador y el parpadeo LED notifican cuando se acerca al par objetivo, evitando el sobreajuste y mejorando la seguridad durante el mantenimiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZNRGPJ6{{</world>}}

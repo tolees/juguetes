@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tunea tu vehículo: Incluye piezas adicionales, tapacubos de metal y pegatinas para transformar tu vehículo.
-- Detalles auténticos de Chevy: Cuenta con puertas que se abren, suspensión ajustable y una tabla de surf en la parte trasera para ofrecer la máxima autenticidad.
 - Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
 - Construye el clásico americano: Camioneta Custom ’62 Chevy a escala 1:16 para construir por completo lleno de detalles realistas.
+- Detalles auténticos de Chevy: Cuenta con puertas que se abren, suspensión ajustable y una tabla de surf en la parte trasera para ofrecer la máxima autenticidad.
+- Tunea tu vehículo: Incluye piezas adicionales, tapacubos de metal y pegatinas para transformar tu vehículo.
 - Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción Mattel Brick Shopy otras marcas. ​
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

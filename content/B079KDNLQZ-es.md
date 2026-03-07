@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡Atrapa la caca! es garantía de risas y diversión.
+- ¡Gana el jugador que tiene más fichas!
 - Se debe desatascar el retrete tantas veces como diga el dado.
 - Una noche de diversión para 2-4 jugadores a partir de 5 años.
-- ¡Gana el jugador que tiene más fichas!
 - Cuando la caca sale volando, se debe coger cuanto antes. Si la atrapas al vuelo, ¡te llevas dos fichas!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

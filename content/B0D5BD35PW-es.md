@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que se convierten en héroes y villanos, y viven en Kaboom City. Encuentra el rival de cada uno ¡y vive tu súper aventura! Puedes descubrir o seguir las aventuras de estas figuras en la nueva serie de TV en Clan y en el canal de YouTube de Magicbox en español
-- ACCEDE AL ESCONDTE DE MR. KING – Tira del brazo mecánico para entrar en su guarida ¡y prepárate para hacerte con Kaboom City!
 - ¡ÚNETE A LOS VILLANOS! – La mente detrás de los planes de los villanos es Mr King, acompañado de su fiel mascota Ron Ron
 - FIGURAS EXCLUSIVAS – Contiene 1 Mr. King exclusivo
+- ACCEDE AL ESCONDTE DE MR. KING – Tira del brazo mecánico para entrar en su guarida ¡y prepárate para hacerte con Kaboom City!
+- DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que se convierten en héroes y villanos, y viven en Kaboom City. Encuentra el rival de cada uno ¡y vive tu súper aventura! Puedes descubrir o seguir las aventuras de estas figuras en la nueva serie de TV en Clan y en el canal de YouTube de Magicbox en español
 - ¡DESCUBRE LA GUARIDA DE MR. KING! – Descubre junto a la serie de TV “Kazoom Power” el nuevo escondite de Mr. King
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

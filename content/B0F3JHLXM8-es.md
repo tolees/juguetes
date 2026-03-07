@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Explora una de las ciudades más inmersivas en el mundo de los videojuegos
-- Conoce a personajes inolvidables
 - Explora todos los extremos de Night City
+- Conoce a personajes inolvidables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F3JHLXM8{{</world>}}

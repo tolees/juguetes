@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este nuevo juego, es una extensión en la que encontrarás 36 nuevos retos diferentes para completar en familia o con amigos
 - Acierta las preguntas y gana los retos para acumular puntos, consigue hacerlos bien y obtén cartas de bloqueo para perjudicar a tus oponentes
 - Emocionante juego para toda la familia con muchas preguntas curiosas, perfecto para niños y niñas a partir de 4 años
 - El juego de La Casa de los Retos hará que tú y tu familia participéis en el programa de TV sin salir de casa, ya que está basado en el mismo programa de Boing
+- Este nuevo juego, es una extensión en la que encontrarás 36 nuevos retos diferentes para completar en familia o con amigos
 - El juego original cuenta con decenas de retos y de cien preguntas para responder, podrás demostrar que tú y tu familia formáis el mejor equipo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RÁPIDO JUEGO DE COLOCACIÓN DE FICHAS: En este juego competitivo de colocación de fichas, intenta acumular el mayor número de créditos interestelares al colocar Fichas de Oportunidades Fotográficas y fichas de Dispositivos de Imágenes de manera estratégica. Pero ten cuidado con los Peligros y los Agujeros Negros
-- SABOTEA CON LOS PELIGROS: ¡Permanece alerta! Los oponentes podrán jugar Fichas de Peligro, tales como el Gusano Abominable y los Cosmocazadores Furtivos, para sabotear las fotos y restar créditos de la puntuación del otro jugador
-- CREADO POR EL GALARDONADO DISEÑADOR REINER KNIZIA: Desarrollándose en una fantástica galaxia de Imponentes Calamares y Sabuesos Galácticos, el juego de mesa Cosmolancer es una versión espacial del aclamado juego Kingdoms de Reiner Knizia
 - REIMAGINANDO UN JUEGO DE ESTRATEGIA FAVORITO: ¡El juego Cosmolancer es una versión galáctica del juego Kingdoms del legendario diseñador Reiner Knizia! Juega como un Cosmolancer (fotógrafo espacial) y compite para ser el mejor
 - PEONES DE MADERA Y ARTE ORIGINAL: Incluye componentes premium, peones de madera y arte original por Hugo Cuellar y Charlie Layton
+- CREADO POR EL GALARDONADO DISEÑADOR REINER KNIZIA: Desarrollándose en una fantástica galaxia de Imponentes Calamares y Sabuesos Galácticos, el juego de mesa Cosmolancer es una versión espacial del aclamado juego Kingdoms de Reiner Knizia
+- RÁPIDO JUEGO DE COLOCACIÓN DE FICHAS: En este juego competitivo de colocación de fichas, intenta acumular el mayor número de créditos interestelares al colocar Fichas de Oportunidades Fotográficas y fichas de Dispositivos de Imágenes de manera estratégica. Pero ten cuidado con los Peligros y los Agujeros Negros
+- SABOTEA CON LOS PELIGROS: ¡Permanece alerta! Los oponentes podrán jugar Fichas de Peligro, tales como el Gusano Abominable y los Cosmocazadores Furtivos, para sabotear las fotos y restar créditos de la puntuación del otro jugador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DN2RTJW4{{</world>}}

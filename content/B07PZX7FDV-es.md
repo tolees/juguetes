@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego en formato de viaje
-- Para niños a partir de 6 años
-- Para ganar en este emocionante juego, necesitarás una buena dosis de suerte con los dados y un poco de estrategia
 - La partida está llena de imprevistos: hay barricadas que te bloquean continuamente el recorrido y oponentes que pueden ponerte en apuros mandándote de vuelta a la casilla de salida
 - De 2 a 4 jugadores
+- Para niños a partir de 6 años
+- Juego en formato de viaje
+- Para ganar en este emocionante juego, necesitarás una buena dosis de suerte con los dados y un poco de estrategia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PZX7FDV{{</world>}}

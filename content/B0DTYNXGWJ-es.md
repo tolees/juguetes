@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MUNDO DEL REY MONO - ¡Únete al Rey Mono en sus aventuras! Coloca tus monos, recoge los melocotones de la inmortalidad, atesora Jade y forja tu leyenda.
 - COLOCA O RECOGE MONOS - En cada turno, pon un mono en una ubicación del tablero o recoge los monos de una ubicación para acumular puntos, y usa las cartas de Armas de Dragón para sorprender a tus oponentes.
 - DISEÑO TRADICIONAL - Revive el famoso cuento chino del Rey Mono en un juego de colocación para 2 jugadores. Un diseño que recuerda al teatro de sombras tradicional chino para una inmersión única.
-- MUNDO DEL REY MONO - ¡Únete al Rey Mono en sus aventuras! Coloca tus monos, recoge los melocotones de la inmortalidad, atesora Jade y forja tu leyenda.
 - VARIANTES DEL JUEGO - Después de algunas partidas, podrás probar las variantes del Rey Mono, que añaden desafíos estratégicos y mayor profundidad para poner a prueba tus habilidades y enriquecer tus partidas.
 - DUELO EMOCIONANTE - Un juego de duelos inmersivo con reglas simples que ofrecen una batalla rápida, intensa y emocionante de ingenio. ¡Descubre el mundo del teatro de sombras y la famosa leyenda del Rey Mono!
 

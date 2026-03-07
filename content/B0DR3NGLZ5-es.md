@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
-- Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
+- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con los conjuntos de Mattel Brick Shop.
 - Detalles auténticos: Cuenta con cuatro puertas que se abren y tubos de escape dobles para garantizar la máxima autenticidad.
 - Construye el icónico vehículo familiar: Audi Avant RS2 del 94 a escala 1:32 para construir por completo y lleno de detalles realistas.
-- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con los conjuntos de Mattel Brick Shop.
+- Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
+- Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR3NGLZ5{{</world>}}

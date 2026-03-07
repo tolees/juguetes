@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Patinete eléctrico ligero con motor Brushless de 350W 36V (potencia nominal), capaz de subir por cuestas con un alto grado de inclinación; con certificado VMP que ofrece una movilidad segura bajo el cumplimiento de la legislación vigente
 - Certificado de circulación canjeable vía online y amplia red de talleres smartGyro repartidos por toda España; medidas 112x108x58cm, Peso 17 Kg / Powered by Woxter
-- Ruedas neumáticas de 10", resistentes y estables preparadas para circular por todo tipo de terrenos; display en el manillar; intermitentes, foco frontal con 4 leds de luminosidad y luz de freno trasera
 - Triple frenada: Freno delantero eléctrico, freno trasero de disco y frenada regenerativa; con el novedoso sistema de frenado “Regenera” que actúa presionando la maneta de freno eléctrico independiente, la energía de frenado es convertida en electricidad y se almacena en la batería del patinete para su posterior uso
 - Batería de litio con capacidad de 8.000 mAh, consigue una autonomía de aprox 30 Km. 3 modos de conducción seleccionables desde su display (Eco, Confort y Sport)
+- Patinete eléctrico ligero con motor Brushless de 350W 36V (potencia nominal), capaz de subir por cuestas con un alto grado de inclinación; con certificado VMP que ofrece una movilidad segura bajo el cumplimiento de la legislación vigente
+- Ruedas neumáticas de 10", resistentes y estables preparadas para circular por todo tipo de terrenos; display en el manillar; intermitentes, foco frontal con 4 leds de luminosidad y luz de freno trasera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GZJ57QL{{</world>}}

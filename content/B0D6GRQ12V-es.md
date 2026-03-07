@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un juego de fiesta familiar en el que cada jugador intenta con sus cartas desactivar los gatitos exploding o, mejor aún, no tirar de ninguno
-- A partir de 7 años, 10 minutos, para 2 a 4 jugadores, de Exploding Kittens, juego en alemán
-- Los jugadores dibujan cartas en fila hasta que se dibuja una gatita explosiva. El jugador correspondiente explota inmediatamente, muere y se divorcia – a menos que tenga una carta para desactivar
-- Exploding Kittens es el juego de gatos más explosivo, o juego de cartas de todos los tiempos. Una versión táctica de la ruleta rusa – sólo con gatitos en lugar de cartuchos
 - El juego de cartas más vendido del mundo de bolsillo
+- A partir de 7 años, 10 minutos, para 2 a 4 jugadores, de Exploding Kittens, juego en alemán
+- Exploding Kittens es el juego de gatos más explosivo, o juego de cartas de todos los tiempos. Una versión táctica de la ruleta rusa – sólo con gatitos en lugar de cartuchos
+- Los jugadores dibujan cartas en fila hasta que se dibuja una gatita explosiva. El jugador correspondiente explota inmediatamente, muere y se divorcia – a menos que tenga una carta para desactivar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6GRQ12V{{</world>}}

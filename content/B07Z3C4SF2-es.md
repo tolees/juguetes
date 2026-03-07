@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Diseño evocativo de la temática
 - Mecánicas sólidas y profundas
-- Desarrolla la creatividad y la imaginación
 - Gracias a su forma compacta, jugable en cualquier sitio
+- Desarrolla la creatividad y la imaginación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Z3C4SF2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
 - Indicador LED de jugador
+- 2 motores de vibración
 - Tipo de conectividad: por cable
 - Conector para auriculares de 3.5 mm
-- 2 motores de vibración
-- Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
 - Panel táctil totalmente funcional
 
 [🛒 Comprar!!!]({{< param buyurl >}})

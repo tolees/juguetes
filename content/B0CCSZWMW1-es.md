@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Haz un viaje por el carril de los recuerdos con este estuche de Harry Potter x Polly Pocket con forma de Hogwarts con estrellas brillantes.
 - Cuando llegues, utiliza el Sombrero Seleccionador para averiguar a qué casa pertenece cada uno. Celebra el comienzo de un nuevo año escolar con el profesor Dumbledore y la profesora McGonagall con un festín en el comedor.
 - Viaja a Hogwarts con Harry Potter, Ron y Hermione desde la estación de Kings Cross. Llega por la noche y navega hacia el castillo de Hogwarts.
-- Este conjunto es perfecto para coleccionistas y viene en un embalaje para exhibir con materiales de primera calidad y detalles elaborados que rinden homenaje a los fans de Harry Potter.
 - Es un regalo ideal para los fans de Polly y especialmente para los fans de Harry Potter.
-- Haz un viaje por el carril de los recuerdos con este estuche de Harry Potter x Polly Pocket con forma de Hogwarts con estrellas brillantes.
+- Este conjunto es perfecto para coleccionistas y viene en un embalaje para exhibir con materiales de primera calidad y detalles elaborados que rinden homenaje a los fans de Harry Potter.
 - Los fans pueden jugar con los 5 personajes principales, 11 accesorios y 4 lugares emblemáticos de Harry Potter de la primera película, Harry Potter y la piedra filosofal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

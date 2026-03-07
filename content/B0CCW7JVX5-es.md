@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MUÑECA CON FUNCIÓN DE MOVIMIENTO: Presiona los brazos de Gatirena para que se balanceen hacia arriba y hacia abajo. Los juguetes de Gabbys Dollhouse cuentan con un diseño y un estilo auténticos para que sean iguales que los que aparecen en la serie
-- CONSTRUYE EL UNIVERSO DE LA CASA DE MUÑECAS: Desde habitaciones temáticas y muebles para casas de muñecas hasta figuras de juguete y conjuntos de juego, crea un universo de casas de muñecas con el que los niños podrán desarrollar su imaginación a través del juego de simulación
 - MUEBLE PARA LA CASA DE MUÑECAS: Incluye una mesa de laboratorio que mide 7,5 cm de largo, con una activación especial. Presiona hacia abajo la estrella de la parte delantera para que los tubos de ensayo aparezcan y desaparezcan de la mesa
-- Incluye: 1 figura, 1 estante con tubos de ensayo, 1 mueble, 1 caja sorpresa, 2 accesorios
+- MUÑECA CON FUNCIÓN DE MOVIMIENTO: Presiona los brazos de Gatirena para que se balanceen hacia arriba y hacia abajo. Los juguetes de Gabbys Dollhouse cuentan con un diseño y un estilo auténticos para que sean iguales que los que aparecen en la serie
 - ACCESORIOS PARA LA CASA DE MUÑECAS Y JUGUETES SORPRESA: El conjunto incluye el estante con tubos de ensayo de Gatirena y un maletín en forma de gato. Abre la caja sorpresa, tal como hace Gabby en la serie, para descubrir unas gafas de laboratorio para Gatirena
 - COLECCIÓNALOS TODOS: Los juguetes preescolares de Gabbys Dollhouse son regalos idóneos para niños y niñas a los que les encanta jugar con muñecas y accesorios, juguetes con sorpresa, animales de peluche, rompecabezas y juegos de mesa
+- Incluye: 1 figura, 1 estante con tubos de ensayo, 1 mueble, 1 caja sorpresa, 2 accesorios
+- CONSTRUYE EL UNIVERSO DE LA CASA DE MUÑECAS: Desde habitaciones temáticas y muebles para casas de muñecas hasta figuras de juguete y conjuntos de juego, crea un universo de casas de muñecas con el que los niños podrán desarrollar su imaginación a través del juego de simulación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCW7JVX5{{</world>}}

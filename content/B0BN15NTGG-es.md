@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Para subir al siguiente nivel hay que utilizar el ascensor de coches, desde donde niños y niñas pueden lanzar los 2 coches Hot Wheels incluidos para enfrentarlos en una carrera uno contra uno.
 - Haz carreras y acrobacias y lucha contra el dragón en la pista de varios niveles del Megagaraje Ultimate Garage de Hot Wheels City.
-- El Megagaraje Ultimate Garage de Hot Wheels City incluye 2 vehículos Hot Wheels, por lo que es un gran regalo para niños y niñas a partir de 5 años.
-- Un dragón hambriento de coches te espera en el cuarto nivel, donde podrás lanzar tus Hot Wheels para derrotar al monstruo o para que los devore. Los coches devorados salen despedidos, mientras que el dragón derrotado cae al suelo del garaje.
-- Utiliza las más de 50 plazas de aparcamiento incluidas para guardar tus coches Hot Wheels de manera fácil y cómoda.
-- El primer nivel cuenta con detalles de juego muy divertidos, como mangueras móviles, un túnel de lavado con un rodillo de espuma, y desviadores y conectores para unirlo a otros conjuntos de juego y ampliar tu ciudad Hot Wheels City. (Los demás conjuntos se venden por separado).
 - En el tercer nivel, atrévete a realizar una acrobacia de looping uno contra uno y ajusta los desviadores para cambiar el destino final de ambos coches.
+- Un dragón hambriento de coches te espera en el cuarto nivel, donde podrás lanzar tus Hot Wheels para derrotar al monstruo o para que los devore. Los coches devorados salen despedidos, mientras que el dragón derrotado cae al suelo del garaje.
+- El Megagaraje Ultimate Garage de Hot Wheels City incluye 2 vehículos Hot Wheels, por lo que es un gran regalo para niños y niñas a partir de 5 años.
+- El primer nivel cuenta con detalles de juego muy divertidos, como mangueras móviles, un túnel de lavado con un rodillo de espuma, y desviadores y conectores para unirlo a otros conjuntos de juego y ampliar tu ciudad Hot Wheels City. (Los demás conjuntos se venden por separado).
+- Utiliza las más de 50 plazas de aparcamiento incluidas para guardar tus coches Hot Wheels de manera fácil y cómoda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN15NTGG{{</world>}}

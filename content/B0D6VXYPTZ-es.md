@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un creativo y original laboratorio que permite montar simpatiquísimos subrayadores
 - El juego es muy sencillo: sumerge el filtro en la tinta, introdúcelo en una base, monta la punta y cierra todo con el tapón
-- Este nuevo juego Idea permite crear y personalizar los propios subrayadores con una gran variedad de accesorios y colores
 - Un kit práctico y completo compuesto por filtros, puntas, tintas, personajes y todas las herramientas para crear los subrayadores
 - Un concepto que va más allá de la simple actividad de personalizar un subrayador y permite crear dando rienda suelta a la imaginación
+- Un creativo y original laboratorio que permite montar simpatiquísimos subrayadores
+- Este nuevo juego Idea permite crear y personalizar los propios subrayadores con una gran variedad de accesorios y colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6VXYPTZ{{</world>}}

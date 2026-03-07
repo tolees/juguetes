@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
-- Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
-- Construye el icónico muscle car: Custom ’68 Camaro a escala 1:32 para construir por completo lleno de detalles realistas.
 - Detalles auténticos del Camaro: Incluye puertas que se abren, aleta trasera reproducida con gran precisión y tubos de escape metálicos para la máxima autenticidad.
+- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
+- Construye el icónico muscle car: Custom ’68 Camaro a escala 1:32 para construir por completo lleno de detalles realistas.
+- Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
 - Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

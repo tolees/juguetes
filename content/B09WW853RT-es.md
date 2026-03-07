@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El laboratorio del científico esconde pistas, secretos, fórmulas matemáticas y acertijos que hay que resolver para poder escapar; Un juego con cartas y misterios que resolver para desbloquear la puerta del laboratorio
 - A partir de 8 años, juego en castellano
-- El juego incluye una baraja de cartas con enigmas y otros objetos útiles para encontrar las pistas
 - La moda de los escape room, que entusiasma a grandes y pequeños, se transforma en un juego divertido para hacer con los amigos y la familia
+- El juego incluye una baraja de cartas con enigmas y otros objetos útiles para encontrar las pistas
+- El laboratorio del científico esconde pistas, secretos, fórmulas matemáticas y acertijos que hay que resolver para poder escapar; Un juego con cartas y misterios que resolver para desbloquear la puerta del laboratorio
 - Una aventura con acertijos y un viaje para disfrutar recuperando todas las pistas y resolviendo los enigmas para entrenar tu mente y tu pensamiento lateral; Cada carta esconde una pista para continuar la aventura e intentar salir del laboratorio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

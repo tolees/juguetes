@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Namco
 - 3700577001604
+- Namco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003R7JPUY{{</world>}}

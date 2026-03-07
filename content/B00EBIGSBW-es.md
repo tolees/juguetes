@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HORMIGONERA DE JUGUETE CON FUNCIONES: Los peques pueden bajar la canaleta de cemento, girar una rueda para activar el tambor mezclador, verter cemento e inclinar la cabina para acceder al motor
-- JUGUETES DE CONSTRUCCIÓN PARA NIÑOS: A los fans de los camiones grandes les encantará el vehículo de obra de juguete LEGO City Hormigonera para niños y niñas a partir de 7 años
-- MÁS SETS LEGO CITY POR DESCUBRIR: Los niños pueden ampliar las posibilidades de juego combinando este modelo con otros sets de construcción LEGO City (a la venta por separado) para vivir aún más aventuras
 - REGALOS PARA PEQUEÑOS CONSTRUCTORES: La hormigonera de juguete es un gran regalo para niños y niñas de 7 años en adelante que disfruten jugando con vehículos de construcción
 - VEHÍCULO DE CONSTRUCCIÓN DE JUGUETE: El camión hormigonera de juguete cuenta con tambor giratorio y 8 ruedas de goma, además de 3 minifiguras LEGO de profesionales de la construcción
+- HORMIGONERA DE JUGUETE CON FUNCIONES: Los peques pueden bajar la canaleta de cemento, girar una rueda para activar el tambor mezclador, verter cemento e inclinar la cabina para acceder al motor
+- MÁS SETS LEGO CITY POR DESCUBRIR: Los niños pueden ampliar las posibilidades de juego combinando este modelo con otros sets de construcción LEGO City (a la venta por separado) para vivir aún más aventuras
+- JUGUETES DE CONSTRUCCIÓN PARA NIÑOS: A los fans de los camiones grandes les encantará el vehículo de obra de juguete LEGO City Hormigonera para niños y niñas a partir de 7 años
 - ACCESORIOS PARA MINIFIGURAS LEGO: Este camión hormigonera de juguete cuenta con diversos accesorios como una carretilla, una señal vial, 2 barreras, una tablilla con sujetapapeles, pala y escoba
 - UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guía a los peques con herramientas de acercamiento y giro en 3D, les ofrece funciones para guardar sets y les permite consultar su progreso para mejorar la experiencia de construcción
 

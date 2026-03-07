@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mini Super Cute Regi y su Scooter con sidecar para poder pasear a su perrito Snowball también incluido en el pack.
-- Además de accesorios como casco, rodilleras, coderas de patinaje,botellita en el manillar
-- El pack incluye mascara y capas extraíbles para Regi & Snowball
 - Regi lleva un outfit súper genial con un toque deportivo. Mide 12 cm de altura
 - ¡Las ruedas de la scooter se convierten en aletas!
+- El pack incluye mascara y capas extraíbles para Regi & Snowball
+- Mini Super Cute Regi y su Scooter con sidecar para poder pasear a su perrito Snowball también incluido en el pack.
+- Además de accesorios como casco, rodilleras, coderas de patinaje,botellita en el manillar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BW3JK8YG{{</world>}}

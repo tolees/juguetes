@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseñada con Ultra Articulación con hasta 22 piezas móviles para una gama completa de poses y juego
-- Batman aparece con su aspecto de la película The Flash.
 - Colecciona todas las figuras del DC Multiverse de McFarlane Toys.
-- Figura a escala de 7» increíblemente detallada basada en la película The Flash.
+- Batman aparece con su aspecto de la película The Flash.
 - Batman incluye dos manos alternativas, capa de tela y base; También incluye tarjeta de arte coleccionable con arte del personaje en el anverso y biografía del personaje en el reverso
+- Figura a escala de 7» increíblemente detallada basada en la película The Flash.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D63JHS52{{</world>}}

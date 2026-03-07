@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fácil de aprender y rápido de jugar
 - Nuevo título de la reputada serie de juegos para 2 jugadores de Kosmos, en la que ya se encuentran juegos como Tuareg, Lost Cities o Aqualin
 - Una combinación optima de estrategia y suerte en la que tendremos que reconstruir la ciudad sumergida antes que nuestro rival
-- Fácil de aprender y rápido de jugar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D9NQ62ZW{{</world>}}
