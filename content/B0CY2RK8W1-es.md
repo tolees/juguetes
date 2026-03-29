@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEAL PARA TODOS LOS PÚBLICOS: "Star Wars: Bounty Hunters" es perfecto para jugar en familia o con amigos expertos en juegos de mesa, gracias a su equilibrio entre táctica y accesibilidad, junto con una alta rejugabilidad.
-- ARTE EXCLUSIVO: Disfruta de ilustraciones únicas creadas por Derek Hoffman, convirtiendo este juego en una pieza imprescindible para coleccionistas de mercancía de Star Wars y aficionados al entretenimiento.
-- MECÁNICAS DE JUEGO DINÁMICAS: Con una jugabilidad simultánea, este emocionante juego de draft ofrece una experiencia táctica accesible para jugadores de todas las edades. ¡Prepárate para una aventura de 20 minutos llena de estrategia y acción!
 - JUEGO INMERSIVO DE STAR WARS: En "Star Wars: Bounty Hunters", conviértete en un cazarrecompensas de élite. Captura objetivos, compra droides y asóciate con aliados para ganar puntos de prestigio y dominar la galaxia.
+- MECÁNICAS DE JUEGO DINÁMICAS: Con una jugabilidad simultánea, este emocionante juego de draft ofrece una experiencia táctica accesible para jugadores de todas las edades. ¡Prepárate para una aventura de 20 minutos llena de estrategia y acción!
+- ARTE EXCLUSIVO: Disfruta de ilustraciones únicas creadas por Derek Hoffman, convirtiendo este juego en una pieza imprescindible para coleccionistas de mercancía de Star Wars y aficionados al entretenimiento.
+- IDEAL PARA TODOS LOS PÚBLICOS: "Star Wars: Bounty Hunters" es perfecto para jugar en familia o con amigos expertos en juegos de mesa, gracias a su equilibrio entre táctica y accesibilidad, junto con una alta rejugabilidad.
 - DIVERSAS ESTRATEGIAS PARA PUNTUAR: Aprovecha múltiples maneras de obtener puntos, ya sea capturando objetivos, adquiriendo cajas en el Mercado Jawa o completando contratos. Cada decisión cuenta en tu camino hacia la victoria.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

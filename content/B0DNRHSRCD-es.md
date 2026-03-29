@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de cartas de artes marciales en tiempo real; locura y frenesí
 - Devir Pocket: juegos para jugar en cualquier parte, miles de partidas en tu bolsillo
+- Juego de cartas de artes marciales en tiempo real; locura y frenesí
 - Uno de los juegos de cartas que mejor se venden en Brasil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

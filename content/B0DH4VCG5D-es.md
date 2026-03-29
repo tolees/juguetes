@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene instrucciones y reloj de arena.
-- Juego de cartas para jugar con los amigos y/o la familia. El juego contiene 100 tarjetas y en cada una de ellas encontramos un personaje famoso distinto. El reto consiste en adivinar de qué personaje se trata dentro del tiempo establecido.
 - Con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de manera responsable.
+- Juego de cartas para jugar con los amigos y/o la familia. El juego contiene 100 tarjetas y en cada una de ellas encontramos un personaje famoso distinto. El reto consiste en adivinar de qué personaje se trata dentro del tiempo establecido.
 - A partir de 2 jugadores.
+- Contiene instrucciones y reloj de arena.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DH4VCG5D{{</world>}}

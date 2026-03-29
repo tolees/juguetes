@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre a las criaturas del bosque que se aventuran a salir del refugio de los árboles.
 - Se necesita el juego básico Forest Shuffle
 - Forest Shuffle: Un Juego de Cartas Estratégico para Crear el Bosque Perfecto - Diseñado para 2-5 jugadores, este juego de Kosch combina estrategia y naturaleza, siendo perfecto para jugadores a partir de 10 años.
-- La linde entre el bosque y la pradera sirve de hogar para muchas especies y alberga tanta diversidad como el propio bosque.
 - Aprende y Explora la Naturaleza Jugando - Descubre la flora y fauna mientras construyes un hábitat sostenible. Un juego educativo que promueve el conocimiento y el respeto por el medio ambiente.
+- La linde entre el bosque y la pradera sirve de hogar para muchas especies y alberga tanta diversidad como el propio bosque.
+- Descubre a las criaturas del bosque que se aventuran a salir del refugio de los árboles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJMR7SXX{{</world>}}

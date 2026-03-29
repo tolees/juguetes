@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - JUGADORES: De 1 a 4 jugadores, a partir de 12 años de edad
-- CÓMO GANAR: Al final de la partida, el jugador más próspero será el ganador. Curiosamente, los animales que no te hayas comido contribuirán a tu fortuna.
-- LA TRAMA: Estamos en Europa Central, en el año 1670 d. C. Por fin ha desaparecido la plaga que llevaba siglos asolando la región, y el mundo civilizado vuelve a ponerse en marcha.
-- OBJETIVO: Hay que labrar y sembrar los campos para recolectar los cultivos. La dieta básica se compone de gachas, pan y hortalizas, pero tras años de hambruna la carne empieza a ser cada vez más frecuente
 - EDICIÓN REVISADA: ¡La edición revisada de un juego de estrategia de fama mundial!
+- LA TRAMA: Estamos en Europa Central, en el año 1670 d. C. Por fin ha desaparecido la plaga que llevaba siglos asolando la región, y el mundo civilizado vuelve a ponerse en marcha.
+- CÓMO GANAR: Al final de la partida, el jugador más próspero será el ganador. Curiosamente, los animales que no te hayas comido contribuirán a tu fortuna.
+- OBJETIVO: Hay que labrar y sembrar los campos para recolectar los cultivos. La dieta básica se compone de gachas, pan y hortalizas, pero tras años de hambruna la carne empieza a ser cada vez más frecuente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097QHRVKL{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ESPECIFICACIONES: Dimensiones del producto montado: 19,3 pulgadas (49 cm) de largo x 11,8 pulgadas (30 cm) de ancho x 18,5 pulgadas (47 cm)de alto. Capacidad máxima de peso 35 libras (15,8 kg). Para niños de 1 a 4 años.
 - OSITO DE PELUCHE INCLUIDO: Este adorable osito de peluche se convertirá en el mejor compañero de aventuras de tu hijo.
-- ANDADOR PARA BEBÉS: Las cuatro ruedas y la base estable permiten que los que empiezan a caminar adquieran confianza y equilibrio.
+- ESPECIFICACIONES: Dimensiones del producto montado: 19,3 pulgadas (49 cm) de largo x 11,8 pulgadas (30 cm) de ancho x 18,5 pulgadas (47 cm)de alto. Capacidad máxima de peso 35 libras (15,8 kg). Para niños de 1 a 4 años.
 - 2 VAGONES EN 1: El asa de mi primer vagón 2 en 1 con osito de peluche se puede bloquear para el uso como vagón andador o soltarse para el uso como vagón de tracción.
+- ANDADOR PARA BEBÉS: Las cuatro ruedas y la base estable permiten que los que empiezan a caminar adquieran confianza y equilibrio.
 - ALMACENAMIENTO DE JUGUETES: Mi primer vagón 2 en 1 con osito de peluche también sirve como caja de juguetes. Tu hijo pequeño puede guardar sus juguetes favoritos para juegos imaginativos en el interior o llevarlos consigo en sus paseos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

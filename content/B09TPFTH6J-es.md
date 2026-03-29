@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con este set entregar las mercancías será facilísimo incluso en la montaña: ¡sal desde las profundas grutas de la montaña e intenta llegar hasta la cima!
 - Incluye un tren y un helicóptero de bomberos, una moto y una estación de policía, una ambulancia con luces y sonidos, un garaje de hospital y 3 personajes de los servicios de emergencia para facilitar el juego de roles, así como vías de tren y accesorios de carretera. Compatible con todos los productos de la gama BRIO.
+- Cada estructura montañosa ofrece características personalizables y puede modificarse de diferentes formas para un juego abierto y flexible.
+- Con este set entregar las mercancías será facilísimo incluso en la montaña: ¡sal desde las profundas grutas de la montaña e intenta llegar hasta la cima!
 - Este circuito interactivo ayuda al niño a comprender los principios básicos de causa-efecto, favoreciendo el desarrollo de sus habilidades motrices finas.
 - Transporta las mercancías con la ayuda de los personajes BRIO y de todos sus vehículos, entre ellos un helicóptero, un tren y un camión.
-- Cada estructura montañosa ofrece características personalizables y puede modificarse de diferentes formas para un juego abierto y flexible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TPFTH6J{{</world>}}

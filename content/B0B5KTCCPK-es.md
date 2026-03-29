@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGOS INFANTILES: Este juego de cartas es perfecto para llevar de viaje, contiene 64 cartas y reglas de juego. También es uno de los regalos para niños perfecto dado que es un juego entretenido y fácil de explicar.
-- JUEGO CARTAS: Taco es un juego de mesa en el que tendrás que memorizar la secuencia de palabras en ese orden. Esta es la nueva versión cumpleaños.
-- 3 A 8 JUGADORES: Es un juego mesa en el que tendrán que haber de 3 a 8 jugadores, es perfecto para jugar con tus amigos o en una fiesta de cumpleaños con este juego cartas niños.
 - 10 MIN: Este es uno de los juegos de mesa en el que las partidas duran 10 min. Estos juegos mesa, además de ser juegos educativos son juegos para niños dinámicos y divertidos.
+- JUEGO CARTAS: Taco es un juego de mesa en el que tendrás que memorizar la secuencia de palabras en ese orden. Esta es la nueva versión cumpleaños.
+- JUEGOS INFANTILES: Este juego de cartas es perfecto para llevar de viaje, contiene 64 cartas y reglas de juego. También es uno de los regalos para niños perfecto dado que es un juego entretenido y fácil de explicar.
+- 3 A 8 JUGADORES: Es un juego mesa en el que tendrán que haber de 3 a 8 jugadores, es perfecto para jugar con tus amigos o en una fiesta de cumpleaños con este juego cartas niños.
 - JUEGOS DE MESA NIÑOS 8 AÑOS: Este es un juego de cartas para niños de 8 años o más, en el que podrás jugar con tus amigos y pasar un rato agradable. Es un juego dinámico para toda la familia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Adéntrate en Mini BarbieLand con este pack de 5 muñecas Barbie de 3,81cm y disfruta imaginando a lo grande y soñando en miniatura!
-- Gracias a este conjunto, los fans podrán disfrutar de una colección instantánea de muñecas, que les permitirá construir su propio mundo en miniatura y crear un sinfín de posibilidades.
-- La base encaja en distintas zonas de los conjuntos Mini BarbieLand para que puedas jugar con las muñecas y exponerlas con facilidad (los conjuntos se venden por separado).
-- Dóblalas por la cintura para sentarlas o ponlas de pie sobre la base en forma de corazón.
 - Sumerge el cepillo del esmalte de uñas en agua y pinta el pelo de la muñeca para ver un sorprendente cambio de color.
+- Dóblalas por la cintura para sentarlas o ponlas de pie sobre la base en forma de corazón.
+- ¡Adéntrate en Mini BarbieLand con este pack de 5 muñecas Barbie de 3,81cm y disfruta imaginando a lo grande y soñando en miniatura!
+- La base encaja en distintas zonas de los conjuntos Mini BarbieLand para que puedas jugar con las muñecas y exponerlas con facilidad (los conjuntos se venden por separado).
+- Gracias a este conjunto, los fans podrán disfrutar de una colección instantánea de muñecas, que les permitirá construir su propio mundo en miniatura y crear un sinfín de posibilidades.
 - Cada muñeca viene escondida dentro de un esmalte de uñas: ¡gira cada uno de los 5 para descubrir cuál será tu Fashionista en miniatura!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

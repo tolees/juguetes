@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Busca artículos para crear y mejorar tus armas. El sistema de actualización de armas de este juego se basa directamente en la mecánica original del videojuego.
-- Comienza tu viaje en una zona de cuarentena abandonada. Tu objetivo es viajar de forma segura al refugio seguro de Jackson. Teje tu propia historia única de supervivencia y compañerismo mientras exploras el tablero.
-- Escape the Dark es un juego de supervivencia cooperativo en el que tomas las decisiones. En el juego de mesa "The Last of Us", viaja a través de lugares y escenarios icónicos de juego.
-- Mientras exploras este mapa de mundo abierto, descubrirás tarjetas de personajes inmersivas, cada una presentando al grupo un nuevo desafío. Desde brutales agentes Fedra y cazadores despiadados, hasta los temidos infectados
 - En The Last of Us: Escape the Dark, juega como Joel, Ellie, Bill y otros personajes importantes del videojuego y la exitosa serie de HBO "The Last of Us".
+- Comienza tu viaje en una zona de cuarentena abandonada. Tu objetivo es viajar de forma segura al refugio seguro de Jackson. Teje tu propia historia única de supervivencia y compañerismo mientras exploras el tablero.
+- Mientras exploras este mapa de mundo abierto, descubrirás tarjetas de personajes inmersivas, cada una presentando al grupo un nuevo desafío. Desde brutales agentes Fedra y cazadores despiadados, hasta los temidos infectados
+- Escape the Dark es un juego de supervivencia cooperativo en el que tomas las decisiones. En el juego de mesa "The Last of Us", viaja a través de lugares y escenarios icónicos de juego.
+- Busca artículos para crear y mejorar tus armas. El sistema de actualización de armas de este juego se basa directamente en la mecánica original del videojuego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHWHG14R{{</world>}}

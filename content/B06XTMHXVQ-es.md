@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO DE COLORES: el panel electrónico dice a los niños el color al que tienen que saltar y reconoce si han llegado a la casilla correcta emitiendo luces y sonidos para animarle
-- JUEGO DE LA RAYUELA: cuando el niño lanza la moneda y llega a la casilla correspondiente, el panel emite divertidas luces y sonidos
 - PANEL ELECTRÓNICO: el panel con luces de colores, sonidos y melodías funciona junto con los sensores de contacto de esta alfombra infantil para niñas y niños
 - 2 MODOS DE JUEGO: cuando los niños saltan o tocan la alfombra con sus manos, se activa una respuesta en el panel, con diferentes modos de juego y niveles de dificultad
 - ALFOMBRA INFANTIL CON MÚSICA: Jump & Fit de Chicco es la alfombra musical que reinventa el clásico juego de la rayuela en una versión electrónica e interactiva para divertirse en interiores
+- JUEGO DE COLORES: el panel electrónico dice a los niños el color al que tienen que saltar y reconoce si han llegado a la casilla correcta emitiendo luces y sonidos para animarle
+- JUEGO DE LA RAYUELA: cuando el niño lanza la moneda y llega a la casilla correspondiente, el panel emite divertidas luces y sonidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XTMHXVQ{{</world>}}

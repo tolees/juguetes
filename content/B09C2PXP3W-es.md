@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1000 Piece Puzzle
-- Includes a full color reference sheet
 - Made with 100% recyclable materials and printed with vegetable or soy based ink
-- Premium puzzle pieces that snap together
 - Completed puzzle measures 19.25” by 26.63” (48.9cm by 67.6cm)
+- Includes a full color reference sheet
+- 1000 Piece Puzzle
+- Premium puzzle pieces that snap together
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09C2PXP3W{{</world>}}

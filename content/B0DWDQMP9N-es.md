@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Juguete de construcción repleto de amistad: Cultiva la imaginación de tu peque con el set LEGO Friends Café Botánico y Floristería, que incluye una escena compuesta por una tienda de flores y una cafetería, y también un tranvía de juguete
+- Montones de accesorios para jugar: El set cuenta con una máquina de café, frigorífico, horno, grifo, mesa, pasteles de juguete, taburetes, ramos de flores, plantas, macetas, tijeras, regadera y más detalles
+- Juego de rol para interpretar historias cotidianas: Los peques podrán explorar la cafetería con terraza, la floristería con sus plantas LEGO, la cocina de juguete completamente equipada y el tranvía que conecta estos lugares
 - Más diversión en Internet: Inventa nuevas aventuras con otros sets de LEGO Friends (se venden por separado) y descubre la serie LEGO Friends: Siguiente capítulo (disponible en Internet), donde tu peque conocerá a los personajes de Heartlake City
 - Un regalo para niñas de 9 años: Óptimo como regalo para niñas de 9 años apasionadas por las construcciones detalladas, la decoración y los juegos de comida y tiendas
 - Historias de amistad y creatividad: Los sets LEGO Friends permiten a los peques imaginar y crear sus propias historias, explorando momentos de amistad y diversión sin límites
-- Juego de rol para interpretar historias cotidianas: Los peques podrán explorar la cafetería con terraza, la floristería con sus plantas LEGO, la cocina de juguete completamente equipada y el tranvía que conecta estos lugares
-- Montones de accesorios para jugar: El set cuenta con una máquina de café, frigorífico, horno, grifo, mesa, pasteles de juguete, taburetes, ramos de flores, plantas, macetas, tijeras, regadera y más detalles
 - 4 personajes de LEGO Friends: El juego viene con mini muñecos de Aliya, Esma, Olly y Nova, una figura del gato Nugget y montones de elementos de comida, plantas y flores de juguete para el juego de rol
 
 [🛒 Comprar!!!]({{< param buyurl >}})

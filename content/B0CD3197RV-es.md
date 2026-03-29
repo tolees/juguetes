@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuando te quede una sola carta en la mano, tendrás que gritar “¡UNO!”.
-- La tarjeta especial “Columpio de telaraña” permite a los jugadores elegir a quién se quieren saltar y a veces saltar a varios jugadores a la vez.
 - Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas coleccionable es un regalo estupendo para los fans de la serie de cómics de Marvel.
+- La tarjeta especial “Columpio de telaraña” permite a los jugadores elegir a quién se quieren saltar y a veces saltar a varios jugadores a la vez.
+- Cuando te quede una sola carta en la mano, tendrás que gritar “¡UNO!”.
 - La jugabilidad es la misma que la del clásico juego de cartas en el que los jugadores emparejan colores y números para deshacerse de todas sus cartas.
 - A los jugadores del juego UNO les encantarán las ilustraciones inspiradas en personajes de la serie de cómics de Marvel The Amazing Spider-Man.
 

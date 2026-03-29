@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construcción digital interactiva: Con la app LEGO Builder, los peques pueden acercar, girar y visualizar una versión digital de los modelos mientras los construyen
-- Pack de Combate LEGO Star Wars: Los peques construirán su propio pelotón de soldados clon del 327 Cuerpo Estelar para interpretar batallas inspiradas en Star Wars: La Venganza de los Sith
-- 4 minifiguras LEGO Star Wars: 4 soldados clon del 327 Cuerpo Estelar con una pistola bláster de juguete, 2 blásteres y un fusil bláster, además de 3 figuras LEGO de superdroides de combate
-- Colección LEGO Star Wars: Descubre otros Packs de Combate LEGO Star Wars (a la venta por separado) con minifiguras LEGO, modelos y accesorios para llevar la acción y el juego aún más lejos
 - Batallas al estilo Star Wars: El set incluye un caminante AT-RT con cabina para una minifigura LEGO, cañón y unos prismáticos, así como una figura articulada de un droide araña y una torreta con cañón
-- Explora la gama completa: Los sets LEGO Star Wars (a la venta por separado) ofrecen a los niños y los fans adultos de Star Wars la oportunidad de revivir inolvidables escenas, crear historias o, simplemente, exponer los kits de maquetas
 - Regalo de Star Wars para niños de 7 años: Este juguete de construcción LEGO Star Wars es un divertido regalo para niños, niñas y cualquier joven fan del universo Star Wars y apasionado de LEGO
+- Pack de Combate LEGO Star Wars: Los peques construirán su propio pelotón de soldados clon del 327 Cuerpo Estelar para interpretar batallas inspiradas en Star Wars: La Venganza de los Sith
+- Colección LEGO Star Wars: Descubre otros Packs de Combate LEGO Star Wars (a la venta por separado) con minifiguras LEGO, modelos y accesorios para llevar la acción y el juego aún más lejos
+- 4 minifiguras LEGO Star Wars: 4 soldados clon del 327 Cuerpo Estelar con una pistola bláster de juguete, 2 blásteres y un fusil bláster, además de 3 figuras LEGO de superdroides de combate
+- Explora la gama completa: Los sets LEGO Star Wars (a la venta por separado) ofrecen a los niños y los fans adultos de Star Wars la oportunidad de revivir inolvidables escenas, crear historias o, simplemente, exponer los kits de maquetas
+- Construcción digital interactiva: Con la app LEGO Builder, los peques pueden acercar, girar y visualizar una versión digital de los modelos mientras los construyen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDWK591{{</world>}}

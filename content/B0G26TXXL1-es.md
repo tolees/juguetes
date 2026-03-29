@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de cartas de 2 a 5 jugadores, 15 a 30 minutos por partida, a paritr de 10 años de edad.
-- Sumérgete en este juego de cartas tan divertido como estratégico. Usa las probabilidades a tu favor para ser el mejor PISTOLERO del Lucky Saloon.
-- Dos balas...dos destinos ¡Una Ruleta Rusa versión Saloon!
 - Aquí, se ríe, se bluffea y ¡se DISPARA! No hay mejor lugar para saldar cuentas. Ven a probar tu suerte contra los mejores tiradores del oeste... ¿Serás el último en pie?
+- Dos balas...dos destinos ¡Una Ruleta Rusa versión Saloon!
+- Juego de cartas de 2 a 5 jugadores, 15 a 30 minutos por partida, a paritr de 10 años de edad.
 - Situado en lo más profundo del Lejano Oeste, este bar es el paraíso de los bandidos y el refugio de los cowboys.
+- Sumérgete en este juego de cartas tan divertido como estratégico. Usa las probabilidades a tu favor para ser el mejor PISTOLERO del Lucky Saloon.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G26TXXL1{{</world>}}

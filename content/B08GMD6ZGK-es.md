@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO MÍTICO: El juego de mesa con más de un millón de ejemplares vendidos vuelve en una edición totalmente nueva para disfrutar aún más. Ponte al frente de una de las siete grandes ciudades del mundo antiguo y deja tu huella en la historia de las civilizaciones.
 - REJUGABILIDAD ILIMITADA: Gracias a sus numerosas cartas, cada partida de 7 Wonders es única. Explora diferentes estrategias, adáptate a las acciones de tus adversarios y vive momentos intensos de competición y cooperación.
+- JUEGO BÁSICO: Hay expansiones disponibles para una experiencia más completa. Las partidas duran aproximadamente 30 minutos.
+- JUEGO MÍTICO: El juego de mesa con más de un millón de ejemplares vendidos vuelve en una edición totalmente nueva para disfrutar aún más. Ponte al frente de una de las siete grandes ciudades del mundo antiguo y deja tu huella en la historia de las civilizaciones.
 - APTO PARA ADOLESCENTES Y ADULTOS: Es un juego de mesa apto para niños a partir de 10 años. De 3 a 7 jugadores, podrás disputar partidas trepidantes en familia o con amigos con este mítico juego de estrategia.
 - EXPERIENCIA DE JUEGO INMERSIVA: Este juego de estrategia te propone desarrollar tu ciudad multiplicando los descubrimientos científicos, las conquistas militares, los acuerdos comerciales y los edificios prestigiosos para llevar a tu civilización a la gloria.
-- JUEGO BÁSICO: Hay expansiones disponibles para una experiencia más completa. Las partidas duran aproximadamente 30 minutos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GMD6ZGK{{</world>}}

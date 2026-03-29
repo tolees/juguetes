@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un divertido regalo para niños y niñas de 6 años o más: Sorprende a un apasionado del automovilismo con esta maqueta de coche LEGO de F1 McLaren, óptimo como regalo o detalle solo porque sí para niños y niñas a partir de 6 años fans de la Fórmula 1
 - Coche de F1 lleno de detalles: Este mini coche de Fórmula 1 de juguete tiene un diseño superaerodinámico con neumáticos lisos y viene con una minifigura LEGO de un piloto de McLaren para competir en épicas carreras
-- Coche de carreras de juguete LEGO para mayores de 6 años: Los peques se sumergirán en las emociones de las carreras de velocidad de Fórmula 1 con el juguete de construcción LEGO City Piloto de F1 con Coche McLaren
 - ¿Qué contiene la caja? Incluye todo lo que los niños necesitan para construir un coche de carreras de F1 McLaren de juguete con una minifigura LEGO de un piloto para el juego de rol
+- Un divertido regalo para niños y niñas de 6 años o más: Sorprende a un apasionado del automovilismo con esta maqueta de coche LEGO de F1 McLaren, óptimo como regalo o detalle solo porque sí para niños y niñas a partir de 6 años fans de la Fórmula 1
+- Coche de carreras de juguete LEGO para mayores de 6 años: Los peques se sumergirán en las emociones de las carreras de velocidad de Fórmula 1 con el juguete de construcción LEGO City Piloto de F1 con Coche McLaren
 - Más acción de la F1 a gran velocidad: Descubre los demás coches de juguete construibles LEGO basados en la Fórmula 1 (a la venta por separado) para construir, exponer y competir con toda la familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

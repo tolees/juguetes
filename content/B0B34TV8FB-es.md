@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sistema autocorrectivo: la ficha con la forma correcta encaja en el hueco de la forma y color exacto
-- Contenido: 1 maletín, 15 láminas, 55 fichas de diferentes formas, colores y tamaños
 - Juego de observación y autocorrectivo que permitirá a los niños desarrollar la habilidad manual
 - Contiene 15 láminas con diferentes dibujos y 55 fichas de diferentes formas, colores y tamaños
 - Juego educativo para que los niños aprendan a reconocer formas y colores
+- Contenido: 1 maletín, 15 láminas, 55 fichas de diferentes formas, colores y tamaños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B34TV8FB{{</world>}}

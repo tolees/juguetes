@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Ayuda a niños y niñas de entre 18 meses y 5 años a fortalecer la motricidad fina, y fomenta el uso de la imaginación para contar historias
 - Gira el salón de baile y contempla cómo las figuras “bailan” toda la noche
+- Carroza con caballo de tiro y conjunto de juego 2 en 1 de Little People, con Cenicienta de Disney Princesas y su príncipe
 - Empuja la carroza para jugar con el vehículo o ábrelo y descubre un conjunto de juego de Disney Princesas que fomenta los juegos de imitación
 - Sienta a la mesa las figuras de Cenicienta de Disney Princesas y su príncipe, e imagina cómo disfrutan de un té
-- Carroza con caballo de tiro y conjunto de juego 2 en 1 de Little People, con Cenicienta de Disney Princesas y su príncipe
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NPCV69D{{</world>}}

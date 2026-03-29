@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en españa
 - Set de 4 paletas de plástico de 18cm
+- Fabricado en españa
 - Plástico felxible de alta calidad
 - Apto para arena y nieve
 

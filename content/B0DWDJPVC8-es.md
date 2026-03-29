@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- STAP: Este set LEGO Star Wars incluye, además, un STAP construible para Solitus para añadir más realismo al juego de acción
-- Explora la gama completa: Los sets LEGO Star Wars coleccionables ofrecen a peques y fans adultos de Star Wars la oportunidad de recrear escenas clásicas, imaginar nuevas aventuras o, simplemente, exponer los modelos para construir
-- Regalo del universo Star Wars: Este juego LEGO Star Wars es un sensacional regalo para niños y niñas de 7 años en adelante para cualquier fan de Star Wars: Reconstruye la Galaxia
-- Moto Speeder de juguete: Calienta motores con el Speeder de Nieve Force Burner que aparece en la temporada 2 de la serie de Disney+ LEGO Star Wars: Reconstruye la Galaxia
 - 3 minifiguras LEGO Star Wars: Sig Greebling y Darth Dev, ambos con una espada láser y Solitus, que tiene una espada láser doble con cadena
+- Explora la gama completa: Los sets LEGO Star Wars coleccionables ofrecen a peques y fans adultos de Star Wars la oportunidad de recrear escenas clásicas, imaginar nuevas aventuras o, simplemente, exponer los modelos para construir
 - Instrucciones intuitivas: Con la app LEGO Builder, los niños pueden acercar, girar y visualizar una versión digital de este modelo mientras lo construyen, consultar sus progresos y guardar sets
+- Moto Speeder de juguete: Calienta motores con el Speeder de Nieve Force Burner que aparece en la temporada 2 de la serie de Disney+ LEGO Star Wars: Reconstruye la Galaxia
+- Regalo del universo Star Wars: Este juego LEGO Star Wars es un sensacional regalo para niños y niñas de 7 años en adelante para cualquier fan de Star Wars: Reconstruye la Galaxia
+- STAP: Este set LEGO Star Wars incluye, además, un STAP construible para Solitus para añadir más realismo al juego de acción
 - 2 vehículos LEGO Star Wars en 1: El Speeder de Nieve Force Burner cuenta con pegatinas de llamas y doble cabina que se abre con una moto speeder desmontable oculta de juguete, así como con un cañón trasero que dispara
 
 [🛒 Aquí!!!]({{< param buyurl >}})

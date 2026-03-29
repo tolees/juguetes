@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puedes jugar con los "Balancing Game de Super Mario" con cualquiera de las figuras de los juegos LINK SYSTEM de EPOCH Games (se venden por separado).
-- Super Mario Balancing Game Plus Underwater Stage es un divertido juego de equilibrio y habilidad. Sigue las instrucciones de la ruleta y coloca las figuras de Mario sobre el escenario. Puedes hacer el escenario más grande combinándolo con los otros Balancing Game Plus de la colección.
 - Pueden jugar 1 o más personas al mismo tiempo.
-- Incluye 4 figuras de Super Mario
+- Super Mario Balancing Game Plus Underwater Stage es un divertido juego de equilibrio y habilidad. Sigue las instrucciones de la ruleta y coloca las figuras de Mario sobre el escenario. Puedes hacer el escenario más grande combinándolo con los otros Balancing Game Plus de la colección.
 - Edad recomendada: +4 años
+- Incluye 4 figuras de Super Mario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0987VQ3JB{{</world>}}

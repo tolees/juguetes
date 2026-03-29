@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡CHARLA CON TUS AMIGUITOS! Juega a hablar con Gabby y sus amigos gracias a la activación por voz.
 - ✅ VERSIÓN ESPAÑOLA: Teléfono educativo y móvil de juguete para niños +3 años.
 - ¡4 PATÁSTICAS ACTIVIDADES! : Baila con la música, decora una rica tarta, salta con Pandy Patitas, y crea una poción mágica con Gabby y sus amigos.
 - PERSONALIZA TU TELÉFONO eligiendo tonos de llamada, poner o quitar música de fondo y cambiando el contraste de la pantalla.
 - BUZÓN MIAU MIAU: Escucha mensajes de Gabby sobre sus amigos mientras aparecen en la pantalla.
-- ¡CHARLA CON TUS AMIGUITOS! Juega a hablar con Gabby y sus amigos gracias a la activación por voz.
 - ASPECTOS EDUCATIVOS: Solución de problemas, Matemáticas básicas, Atención cognitiva y Juego imaginativo.
 - JUEGA Y APRENDE CON GABBY Y PANDY: Ellas te ayudarán a aprender los números, a contar, las formas y mucho más con sus divertidas actividades.
 

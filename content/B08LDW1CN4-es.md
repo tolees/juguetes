@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - JUEGO COOPERAATIVO: El espíritu envía visiones mediante cartas ilustradas a los videntes, que deberán interpretarlas para descartar sospechosos y lugares.
-- JUEGA COMO EL ESPÍRITU O COMO VIDENTE. Prueba ambos roles, totalmente diferentes dentro del mismo juego
-- ¡ABRE TU MENTE Y DESCUBRE LA VERDAD!
 - VERSIÓN RÁPIDA: Mysterium Park es una versión más rápida y simplificada de Mysterium. Aunque ambos juegos tienen puntos en común, Mysterium Park no es una expansión de Mysterium.
 - UNA ÚNICA OPORTUNIDAD: Para averiguar lo que realmente le ocurrió al director. Tan solo disponen de seis noches antes de que el circo abandone el pueblo.
+- ¡ABRE TU MENTE Y DESCUBRE LA VERDAD!
+- JUEGA COMO EL ESPÍRITU O COMO VIDENTE. Prueba ambos roles, totalmente diferentes dentro del mismo juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08LDW1CN4{{</world>}}

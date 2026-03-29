@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Creativos accesorios de juguete: Incluye un libro de observación de aves, una cámara, un girasol, un mapa del tesoro, una linterna, comida para pájaros, unos prismáticos, un tarro de luciérnagas y más accesorios
 - Serie en Internet: Inspira más ideas de juego con el resto de los sets de la gama (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo (disponible en Internet), donde los peques podrán conocer a los personajes de Heartlake City
-- Set Habitación de Autumn: Este set de construcción basado en el juego de roles, un juguete para niños y niñas a partir de 6 años, viene con 2 mini muñecas, una figura de un hurón, una figura de un pájaro y accesorios para jugar con creatividad
-- Un regalo para niñas de 6 años en adelante y jóvenes apasionados de los animales y la naturaleza: Este divertido juguete de construcción encantará a las niñas y los niños que disfrutan con el juego creativo y las historias de amistad
-- Con los personajes de LEGO Friends Autumn y Leo: El set cuenta con 2 mini muñecas, y animales de juguete como el hurón Bandit y una figura de un pájaro para fomentar el juego creativo
 - Juguete para interpretar historias: El juego LEGO Friends Habitación de Autumn ayuda a los peques a adquirir habilidades sociales mediante la interpretación de diferentes aventuras con el juego de rol
+- Creativos accesorios de juguete: Incluye un libro de observación de aves, una cámara, un girasol, un mapa del tesoro, una linterna, comida para pájaros, unos prismáticos, un tarro de luciérnagas y más accesorios
+- Set Habitación de Autumn: Este set de construcción basado en el juego de roles, un juguete para niños y niñas a partir de 6 años, viene con 2 mini muñecas, una figura de un hurón, una figura de un pájaro y accesorios para jugar con creatividad
+- Con los personajes de LEGO Friends Autumn y Leo: El set cuenta con 2 mini muñecas, y animales de juguete como el hurón Bandit y una figura de un pájaro para fomentar el juego creativo
+- Un regalo para niñas de 6 años en adelante y jóvenes apasionados de los animales y la naturaleza: Este divertido juguete de construcción encantará a las niñas y los niños que disfrutan con el juego creativo y las historias de amistad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHSDNDY8{{</world>}}

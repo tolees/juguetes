@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MEDIDAS TOTALES: 66,5x34x46,5 cm (LxANxAL). Peso máximo soportado: 25 kg. Edad recomendada: 1,5-3 años
-- LA SEGURIDAD ES LO PRIMERO: Las ruedas ensanchadas y completamente cerradas evitan que los niños pequeños puedan pillarse los pies. El ángulo de giro limitado de 135° evita que se caigan de costado
-- ASIENTO AJUSTABLE: Para adaptarse a niños de diferentes alturas, el asiento se puede ajustar entre 30 y 36,5 cm. Instalarlo es pan comido, no necesitarás herramientas especiales ¡Solo necesitarás unos minutos de tu tiempo!
 - LIGERA Y PORTÁTIL: Esta bici sin pedales es ligera (3,5 kg) y fácil de llevar. Ideal para tener en el maletero del coche y que tu hijo tenga acceso a ella cuando lo desee
 - COMODIDAD DE CONDUCCIÓN: Máxima comodidad de conducción para los más pequeños gracias al centro de gravedad baja y al asiento ancho que les permite deslizarse sobre ambas piernas. También les ayuda a desarrollar la fuerza muscular, el equilibrio y la coordinación de manos y ojos
+- MEDIDAS TOTALES: 66,5x34x46,5 cm (LxANxAL). Peso máximo soportado: 25 kg. Edad recomendada: 1,5-3 años
+- ASIENTO AJUSTABLE: Para adaptarse a niños de diferentes alturas, el asiento se puede ajustar entre 30 y 36,5 cm. Instalarlo es pan comido, no necesitarás herramientas especiales ¡Solo necesitarás unos minutos de tu tiempo!
+- LA SEGURIDAD ES LO PRIMERO: Las ruedas ensanchadas y completamente cerradas evitan que los niños pequeños puedan pillarse los pies. El ángulo de giro limitado de 135° evita que se caigan de costado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXNHPB91{{</world>}}

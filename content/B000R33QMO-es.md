@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vehículos clásicos y geniales a escala 1:64 con un estilo auténtico y detalles llamativos.
 - ¡Cada pack de tres es perfecto para comenzar una colección de coches o una ampliación genial para coleccionistas experimentados!
+- Vehículos clásicos y geniales a escala 1:64 con un estilo auténtico y detalles llamativos.
 - Cada pack incluye tres vehículos Hot Wheels.
 - ¡Un gran regalo para niños y coleccionistas!
 

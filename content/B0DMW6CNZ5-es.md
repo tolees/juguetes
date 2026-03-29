@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles auténticos del MC20: Incluye puertas de ala de mariposa que se abren y un motor a la vista para la máxima autenticidad.
-- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
-- Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
 - Construye el superdeportivo italiano: Maserati MC20 a escala 1:32 para construir por completo y lleno de detalles realistas.
+- Detalles auténticos del MC20: Incluye puertas de ala de mariposa que se abren y un motor a la vista para la máxima autenticidad.
+- Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
 - Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
+- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMW6CNZ5{{</world>}}

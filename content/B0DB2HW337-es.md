@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 🎨 Alta calidad y diseño colorido – Incluye más de 100 losetas, 100 piezas de construcción y componentes ilustrados por Jorge Tabanera para una experiencia inmersiva.
 - 🏙️ Construye tu propia ciudad – Diseña barrios únicos con viviendas, oficinas, parques y zonas de ocio en este juego de mesa de urbanismo.
-- 🎲 Diversión estratégica para todos – Mecánicas de colocación de trabajadores y construcción de patrones, ideal para jugadores casuales y expertos.
-- Creado por Phil Walker-Harding, autor de grandes éxitos como Sushi Go, Dungeon Raiders o Cacao
 - 👨‍👩‍👧‍👦 Perfecto para jugar en familia o con amigos – De 2 a 4 jugadores, recomendado a partir de 10 años, con partidas dinámicas de unos 40 minutos.
+- Creado por Phil Walker-Harding, autor de grandes éxitos como Sushi Go, Dungeon Raiders o Cacao
+- 🎲 Diversión estratégica para todos – Mecánicas de colocación de trabajadores y construcción de patrones, ideal para jugadores casuales y expertos.
 - 🌍 Viaja por ciudades icónicas – Disfruta partidas ambientadas en Nueva York, Barcelona, Venecia, Sídney, Río de Janeiro y más.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

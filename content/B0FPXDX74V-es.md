@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DIVERSIÓN INTERACTIVA POTENCIADA: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar su progreso y consultarlo, podrán acercar y girar sus sets usando las instrucciones 3D
-- MODELOS LEGO HARRY POTTER COLECCIONABLES: Este juguete de aventuras pertenece a una serie de sets modulares (a la venta por separado) que, juntos, crean la escena del Castillo de Hogwarts construida con ladrillos más detallada hasta ahora
 - 4 MINIFIGURAS LEGO HARRY POTTER: Recrea la ceremonia del Sombrero Seleccionador con la profesora McGonagall, Harry Potter, Hermione Granger y Draco Malfoy, cada uno con una varita como accesorio
 - RULETA DE SELECCIÓN: Incluye una ruleta para girar y un sombrero seleccionador que se puede colocar a cada estudiante para descubrir si se unirá a la casa Slytherin, Ravenclaw, Hufflepuff o Gryffindor
-- REGALO DE HARRY POTTER: Este juguete de construcción LEGO Harry Potter es un regalo de cumpleaños mágico para niñas y niños de 7 años o más y fans de Harry Potter
 - MÁS DETALLES DIVERTIDOS: Crea historias con el Patronus gato de la colección del 25.º aniversario de LEGO Harry Potter (en sets a la venta por separado), una mesa repleta de comida y un contador de puntos de las casas
+- MODELOS LEGO HARRY POTTER COLECCIONABLES: Este juguete de aventuras pertenece a una serie de sets modulares (a la venta por separado) que, juntos, crean la escena del Castillo de Hogwarts construida con ladrillos más detallada hasta ahora
+- DIVERSIÓN INTERACTIVA POTENCIADA: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que, además de guardar su progreso y consultarlo, podrán acercar y girar sus sets usando las instrucciones 3D
+- REGALO DE HARRY POTTER: Este juguete de construcción LEGO Harry Potter es un regalo de cumpleaños mágico para niñas y niños de 7 años o más y fans de Harry Potter
 - CASTILLO DE HOGWARTS DE JUGUETE: Recrea la escena de Harry Potter y la piedra filosofal con el set LEGO Harry Potter Castillo de Hogwarts: Ceremonia del Sombrero Seleccionador para niños y niñas de 7 años o más
 
 [🛒 Comprar!!!]({{< param buyurl >}})

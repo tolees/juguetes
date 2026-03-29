@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño evocativo de la temática
+- Gracias a su forma compacta, jugable en cualquier sitio
 - Desarrolla la creatividad y la imaginación
 - Mecánicas sólidas y profundas
-- Gracias a su forma compacta, jugable en cualquier sitio
-- Diseño evocativo de la temática
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Z3C4SF2{{</world>}}

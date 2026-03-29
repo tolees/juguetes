@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DUELO ESTRATÉGICO ÉPICO: Elige tu bando en la batalla definitiva por la Tierra Media, jugando como la Comunidad para destruir el Anillo Único o como Sauron para conquistar la Tierra Media.
-- SUMÉRGETE EN EL UNIVERSO DE TOLKIEN Y EL SEÑOR DE LOS ANILLOS: Revive las épicas aventuras de la Tierra Media en este juego con mecánicas inmersivas fieles a la historia.
 - TRES CONDICIONES ÚNICAS DE VICTORIA: Completa la Búsqueda del Anillo, reúne las Alianzas de los Pueblos, o conquista la Tierra Media para lograr el triunfo.
-- UN BESTSELLER CON MÁS DE 2 MILLONES DE COPIAS VENDIDAS: Esta reimaginación de 7 Wonders Duel fue creada por Antoine Bauza y Bruno Cathala, los renombrados creadores del juego original.
+- SUMÉRGETE EN EL UNIVERSO DE TOLKIEN Y EL SEÑOR DE LOS ANILLOS: Revive las épicas aventuras de la Tierra Media en este juego con mecánicas inmersivas fieles a la historia.
 - ILUSTRACIONES IMPRESIONANTES DE VINCENT DUTRAIT: Incluye 69 cartas, 44 fichas, 18 marcadores y un tablero de juego bellamente ilustrado por Vincent Dutrait.
+- DUELO ESTRATÉGICO ÉPICO: Elige tu bando en la batalla definitiva por la Tierra Media, jugando como la Comunidad para destruir el Anillo Único o como Sauron para conquistar la Tierra Media.
+- UN BESTSELLER CON MÁS DE 2 MILLONES DE COPIAS VENDIDAS: Esta reimaginación de 7 Wonders Duel fue creada por Antoine Bauza y Bruno Cathala, los renombrados creadores del juego original.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DG62RTWS{{</world>}}

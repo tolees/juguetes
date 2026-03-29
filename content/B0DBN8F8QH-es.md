@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cápsula interactiva: Sumérgete en una mágica experiencia submarina con una cápsula agitable con efecto de globo de nieve.
-- Luces y sonidos: Los ritmos tropicales, las luces deslumbrantes y las melodías playeras harán que te pongas a bailar con tu sirena Furmaid en un abrir y cerrar de ojos.
-- Más de 10 sorpresas: Las sirenas Furmaid vienen con accesorios, para asegurar que tengan un aspecto perfecto en el reino submarino.
 - Peluche con temática de sirena: ¡Las sirenas más cucas y mullidas que jamás hayas visto!
+- Más de 10 sorpresas: Las sirenas Furmaid vienen con accesorios, para asegurar que tengan un aspecto perfecto en el reino submarino.
+- Luces y sonidos: Los ritmos tropicales, las luces deslumbrantes y las melodías playeras harán que te pongas a bailar con tu sirena Furmaid en un abrir y cerrar de ojos.
 - Colecciónalas todas: ¿Qué sirena Furmaid descubrirás? Hay 3 en la colección: ¡Purrl, Dazzi y Starlet!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

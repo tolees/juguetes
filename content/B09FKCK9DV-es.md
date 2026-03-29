@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FOMENTA LA IMAGINACION Y LA NARRACION: Dixit lleva tus historias más allá con ilustraciones sorprendentes que inspirarán narraciones únicas y creativas.
 - AMPLIACIÓN: Utiliza las cartas de Dixit Anniversary por separado o mézclalas con las del juego base para una experiencia aún más variada y emocionante.
-- EXPANSION DIXIT: Añade 84 nuevas cartas bellamente ilustradas que enriquecerán tus partidas de Dixit. Ideal para amantes del arte y la creatividad.
-- REGALO PERFECTO: Ideal para reuniones familiares, fiestas con amigos y como regalo para entusiastas de los juegos de mesa que buscan nuevas aventuras. De 3 a 8 jugadores. A partir de 6 años.
 - FACIL DE COMBINAR: Compatible con todas las versiones de Dixit, permitiendo una integración sin problemas y expandiendo las posibilidades de juego para todos los jugadores. Se necesita una caja básica de Dixit.
+- EXPANSION DIXIT: Añade 84 nuevas cartas bellamente ilustradas que enriquecerán tus partidas de Dixit. Ideal para amantes del arte y la creatividad.
+- FOMENTA LA IMAGINACION Y LA NARRACION: Dixit lleva tus historias más allá con ilustraciones sorprendentes que inspirarán narraciones únicas y creativas.
+- REGALO PERFECTO: Ideal para reuniones familiares, fiestas con amigos y como regalo para entusiastas de los juegos de mesa que buscan nuevas aventuras. De 3 a 8 jugadores. A partir de 6 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09FKCK9DV{{</world>}}

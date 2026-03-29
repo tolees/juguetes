@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carro de muñecas convertible en silla de paseo
+- Cochecito para muñecas con manillar reversible
 - Carrito de muñecas con ruedas delanteras móviles
 - Carrito para muñecas con manillar regulable (58 – 71 cm)
-- Cochecito para muñecas con manillar reversible
+- Carro de muñecas convertible en silla de paseo
 - Cochecito de muñeca moderno para muñecos de hasta 46 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

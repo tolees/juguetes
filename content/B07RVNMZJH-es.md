@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ruedas neumáticas Tubeless de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y frenos de disco. Display en el manillar con información de la batería, Km recorridos, odómetro, selector de modo y configuración del patinete
+- Patinete eléctrico certificado por la DGT con placa identificativa. Cumple con los requisitos de la nueva normativa de circulación. Certificado VMP: A1059
+- Potente iluminación Led: Foco frontal de alto brillo, leds en la base, intermitentes seleccionables desde el manillar y luz de freno trasera. Doble suspensión delantera y trasera con doble amortiguador que proporcionan una óptima absorción de baches e irregularidades en el terreno
 - Dimensiones: 119x45x23cm 22Kg. Incluye 1 mes de seguro gratuito canjeable vía online. Powered by Woxter
 - Batería de litio con una capacidad de 12.500 mAh, consigue una autonomía de aprox 45 Km / 3 modos de conducción seleccionables desde su display (Eco, Confort y Sport)
-- Ruedas neumáticas Tubeless de 10" resistentes y estables preparadas para circular por todo tipo de terrenos y frenos de disco. Display en el manillar con información de la batería, Km recorridos, odómetro, selector de modo y configuración del patinete
-- Potente iluminación Led: Foco frontal de alto brillo, leds en la base, intermitentes seleccionables desde el manillar y luz de freno trasera. Doble suspensión delantera y trasera con doble amortiguador que proporcionan una óptima absorción de baches e irregularidades en el terreno
 - Patinete eléctrico para adultos con potencia nominal de 500W 48V (800w pot. máxima), capaz de subir por cuestas con un alto grado de inclinación
-- Patinete eléctrico certificado por la DGT con placa identificativa. Cumple con los requisitos de la nueva normativa de circulación. Certificado VMP: A1059
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RVNMZJH{{</world>}}

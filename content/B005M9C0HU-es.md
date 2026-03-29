@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho de Fibra-tek: material técnico que garantiza un sillín duro, fuerte y durable y que pesa muy poco
-- Color negro; talla S3; shock absorber; uso en ciclismo de carretera y montaña; con hueco
 - Medidas: 131 mm x 275 mm (ancho x largo ); rail TI 316 (con un 25% mas de resistencia y durabilidad que un rail tradicional y con un 15 % menos de peso), tubo Ø7 mm
+- Color negro; talla S3; shock absorber; uso en ciclismo de carretera y montaña; con hueco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B005M9C0HU{{</world>}}

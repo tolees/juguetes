@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MODO SOLO O MULTIJUGADOR: Utiliza el módulo Leyendas para añadir pilotos artificiales en tus partidas en solitario, o adversarios adicionales en las partidas multijugador.
+- JUEGO DE ESTRATEGIA: Al elegir las mejoras adecuadas para tu coche, podrás adaptarte a las curvas de la pista y mantener el motor lo suficientemente frío para mantener una buena velocidad máxima. Pero al final, ¡tus habilidades como piloto serán la clave del triunfo!
 - JUEGO DE MESA: Basado en una gestión de cartas sencilla e intuitiva, el juego de mesa Heat te pone en el asiento del piloto de las carreras de coches de los años 60.
 - EXPERIENCIA DE JUEGO INMERSIVA: Sumérgete en una historia inmersiva de carreras. Vive el ascenso de un intrépido piloto a través de una campaña cautivadora, llena de giros y rivalidades.
-- JUEGO DE ESTRATEGIA: Al elegir las mejoras adecuadas para tu coche, podrás adaptarte a las curvas de la pista y mantener el motor lo suficientemente frío para mantener una buena velocidad máxima. Pero al final, ¡tus habilidades como piloto serán la clave del triunfo!
 - JUEGO DE CARRERAS. Vive la emoción de una sola carrera o pasa al modo campeonato para jugar una temporada entera en una noche y personaliza tu coche antes de cada carrera para aspirar al primer puesto del podio.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

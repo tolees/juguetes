@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Niños y niñas pueden coleccionar más muñecas y conjuntos de juego de Barbie inspirados en la serie para recrear aventuras con toda la pandilla (se venden por separado y están sujetos a disponibilidad).
 - Vestida con un traje inspirado en el arcoíris y preparada con sus auriculares, su tablet y su osito de peluche, la muñeca Chelsea disfrutará de un vuelo estupendo: ¡decora su maleta con la hoja de pegatinas para documentar sus viajes!
 - Coloca a su cachorrito en el transportín, prepara su mochila (que se abre y se cierra de verdad) ¡y prepárate para despegar!
-- ¡Viaja con tu imaginación por todo el mundo con la muñeca Chelsea!
 - La muñeca viajera Chelsea está lista para recorrer nuevos lugares acompañada por su cachorrito y seis accesorios de viaje adicionales con los que imaginar historias.
+- ¡Viaja con tu imaginación por todo el mundo con la muñeca Chelsea!
+- Niños y niñas pueden coleccionar más muñecas y conjuntos de juego de Barbie inspirados en la serie para recrear aventuras con toda la pandilla (se venden por separado y están sujetos a disponibilidad).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5HR9XRK{{</world>}}

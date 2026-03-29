@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5 CATEGORÍAS EDUCATIVAS diferentes para jugar y aprender letras, vocabulario, números y mucho más: Descubre y aprende, Letras y palabras, Matemáticas, Las figuras y ¡Hora de la música!
-- 🔒SEGURIDAD & EDUCACIÓN: VTech se caracteriza por fabricar los juguetes más seguros y resistentes del mercado, incluyendo materiales y acabados de alta calidad que permiten a los niños jugar de una manera segura.
 - ✅ VERSIÓN ESPAÑOLA: ¡Aprende jugando con el precioso ordenador educativo de la Casa de Muñecas de Gabby!
-- PANTALLA LCD con iluminación trasera que puede modificarse con el botón contraste de luz, y dos zonas luminosas en las orejas de la parte superior del ordenador.
 - TECLADO ABC + RATÓN: Completo teclado con letras y números, opciones de configuración, botón Ayuda y Control de luz. Incluye el precioso ratón direccional de Pandy Patitas para moverse en las cuatro direcciones y pulsa el botón confirmación en las actividades.
+- 5 CATEGORÍAS EDUCATIVAS diferentes para jugar y aprender letras, vocabulario, números y mucho más: Descubre y aprende, Letras y palabras, Matemáticas, Las figuras y ¡Hora de la música!
+- PANTALLA LCD con iluminación trasera que puede modificarse con el botón contraste de luz, y dos zonas luminosas en las orejas de la parte superior del ordenador.
+- 🔒SEGURIDAD & EDUCACIÓN: VTech se caracteriza por fabricar los juguetes más seguros y resistentes del mercado, incluyendo materiales y acabados de alta calidad que permiten a los niños jugar de una manera segura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GFW5GFL6{{</world>}}

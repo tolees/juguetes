@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DESAFÍA A TUS AMIGOS (¿2-6 JUGADORES): Y a tu cerebro con un divertido juego que pondrá a prueba tu rapidez mental, pensamiento lógico, memoria y reflejos.
 - EDICIÓN DISNEY: Esta edición viene cargada de ilustraciones de tus películas favoritas de Disney
+- DESAFÍA A TUS AMIGOS (¿2-6 JUGADORES): Y a tu cerebro con un divertido juego que pondrá a prueba tu rapidez mental, pensamiento lógico, memoria y reflejos.
 - PARA 6 AÑOS: La edad mínima recomendada es de 6 años
 - AGILIDAD VISUAL Y COORDINACIÓN: Cortex Disney pone a juego tu agilidad visual, tu coordinación, tu memoria, capacidad de razonamiento. ¡incluso la sensibilidad de tu tacto!
 - ¿ESTÁS PREPRADAO PARA EL RETO? Estimula la agilidad visual y la coordinación

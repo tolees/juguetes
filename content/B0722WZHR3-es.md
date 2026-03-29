@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - y después la tapan en el turno siguiente con otra carta, formando así su mazo de descartes.
 - Edad mínima recomendada: 6 años
+- El objetivo del juego es conseguir deshacerte lo más rápido posible de todas tus cartas. Para ello, los jugadores revelan una carta de su reserva y la colocan delante de ellos, por turnos
 - Cuando 2 jugadores han descubierto una carta con símbolos idénticos (el color no importa), tendrá lugar un duelo. El primero de los dos que consiga atrapar el Tótem ganará el duelo.
 - Dimensiones del producto: 13 x 6 x 14 cm
-- El objetivo del juego es conseguir deshacerte lo más rápido posible de todas tus cartas. Para ello, los jugadores revelan una carta de su reserva y la colocan delante de ellos, por turnos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0722WZHR3{{</world>}}

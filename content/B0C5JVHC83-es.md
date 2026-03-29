@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuida del pingüino y será tu mejor amigo para siempre
 - Con +20 emociones, el corazón del pingüino cambia de color; sigue acariciando su barriga o su hombro y verás cómo su corazcón late más rápido con canciones y bailes
+- Cuida del pingüino y será tu mejor amigo para siempre
 - LIMPÍAME. Rescata al pingüino limpiando su suciedad, Usa una toalla mágica para limpiar al pingüino y desbloquear sus funciones interactivas de luz y sonido
 - ALIMÉNTAME; cuando tenga hambre, su corazón se volverá amarillo, alimenta al pingüino con la galleta de pescado incluida. No lo alimentes demasiado o se tirará un pedo,
 - VÍSTEME; cuando el pingüino se congele y se sienta triste, ponle el gorro de lana, la bufanda y el chaleco

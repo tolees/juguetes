@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
-- ⏱ RÁPIDO Y FÁCIL DE JUGAR. Con una duración de solo 15 minutos por partida, Fiesta de los Muertos es ideal para partidas rápidas y divertidas. Además, gracias a las reglas sencillas, jugadores de 10 años en adelante podrán disfrutar plenamente de esta experiencia única y emocionante.
 - 💭 JUEGO COOPERATIVO DE ADIVINANZAS. Fiesta de los Muertos es un emocionante juego de mesa en el que los jugadores trabajan juntos para adivinar los personajes difuntos presentes en la partida. ¡Demuestra tu capacidad para recordar a los muertos y gana la partida junto a tus amigos!
+- ⏱ RÁPIDO Y FÁCIL DE JUGAR. Con una duración de solo 15 minutos por partida, Fiesta de los Muertos es ideal para partidas rápidas y divertidas. Además, gracias a las reglas sencillas, jugadores de 10 años en adelante podrán disfrutar plenamente de esta experiencia única y emocionante.
+- 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
 - 🌺💀 ¡CELEBRA LA FIESTA DE LOS MUERTOS! Sumérgete en el espíritu de la Fiesta de los Muertos con este juego ambientado en el 2 de Noviembre, el día sagrado en el que los muertos vuelven a la vida. ¡Celebra esta festividad tradicional mientras ejercitas tu memoria y disfrutas de una divertida velada con tus seres queridos!
 - 🧠 DESARROLLA LA MEMORIA Y LA COOPERACIÓN. Además de ser un juego entretenido, Fiesta de los Muertos tiene beneficios educativos y formativos. Mejora habilidades como la memoria y la cooperación, ya que los jugadores deben unirse para recordar a los difuntos y evitar que vaguen eternamente en el olvido.
 

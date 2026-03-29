@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tamaño del puzzle terminado: 70 x 50 cm, 1000 piezas, tamaño de la caja: 33,5 x 23,1 x 3,7 cm
-- Ecológico: producto fabricado mediante el uso extensivo de materiales reciclados o derivados de bosques sostenibles
 - Todos los puzzles Ravensburger tienen un acabado especial antirreflectante y una robustez a prueba de errores
+- Ecológico: producto fabricado mediante el uso extensivo de materiales reciclados o derivados de bosques sostenibles
 - La tecnología softclick garantiza un encaje siempre optimo y gratificante
 - Desde puzzles para niños hasta el más grande del mundo, Ravensburger tiene un puzzle para todos; cada diseño está pensado al detalle, cada pieza hecha con materiales de calidad y artesanía para garantizar una experiencia incomparable
 

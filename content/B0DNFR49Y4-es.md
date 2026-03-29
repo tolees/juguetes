@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MÁS DE 40 RESPUESTAS: Este juguete Star Wars cuenta con más de 40 respuestas afirmativas, negativas y neutras que incluyen frases clásicas y nuevas de Yoda (Habla solo en inglés)
-- FORCE N TELLING YODA: ¿Quieres saber lo que te depara el futuro? ¡El Maestro Yoda tiene las respuestas! Bueno, tiene unas 40 respuestas diferentes para tus preguntas de sí o no
-- PRESIONA RÁPIDAMENTE PARA DESBLOQUEAR MÁS DIVERSIÓN: Presiona la cabeza de Yoda rápidamente varias veces seguidas para desbloquear respuestas cargadas de frustración y humor
-- PRESIONA SU CABEZA PARA ""PREDECIR"" EL FUTURO: Presiona la cabeza de Yoda para despertarlo, hazle una pregunta sobre el futuro, presiona su cabeza nuevamente y escucha lo que te depara el destino
 - OJOS EXPRESIVOS QUE SE ILUMINAN: Además de ""predecir"" el futuro, los ojos de este Yoda se iluminan cuando presionas su cabeza
+- PRESIONA SU CABEZA PARA ""PREDECIR"" EL FUTURO: Presiona la cabeza de Yoda para despertarlo, hazle una pregunta sobre el futuro, presiona su cabeza nuevamente y escucha lo que te depara el destino
+- PRESIONA RÁPIDAMENTE PARA DESBLOQUEAR MÁS DIVERSIÓN: Presiona la cabeza de Yoda rápidamente varias veces seguidas para desbloquear respuestas cargadas de frustración y humor
+- FORCE N TELLING YODA: ¿Quieres saber lo que te depara el futuro? ¡El Maestro Yoda tiene las respuestas! Bueno, tiene unas 40 respuestas diferentes para tus preguntas de sí o no
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNFR49Y4{{</world>}}

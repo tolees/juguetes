@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DE 2 A 8 JUGADORES A PARTIR DE 10 AÑOS. Con preguntas que abarcan todo tipo de temas. Y con expansiones opcionales para expandir tu Smart 10. ( Se venden por separado)
+- ¡ARRIESGA, DESTAPA Y GANA! Tan importante será saber elegir vuestra opción como saber contestarla correctamente.
+- MAS QUE TRIVIA, PURA DIVERSIÓN. El juego de preguntas y respuestas donde todos participan en cada pregunta.
 - MÁS DE 1 MILLÓN DE COPIAS VENDIDAS. Traducido a 18 idiomas. Finalista Mejor Juego 2024, por la Asociación Española de Fabricantes de Juguetes.
 - PORTÁTIL. Tarjetas, preguntas, marcadores y puntación todo en uno. No necesitarás nada más para empezar a jugar donde sea.
-- ¡ARRIESGA, DESTAPA Y GANA! Tan importante será saber elegir vuestra opción como saber contestarla correctamente.
-- DE 2 A 8 JUGADORES A PARTIR DE 10 AÑOS. Con preguntas que abarcan todo tipo de temas. Y con expansiones opcionales para expandir tu Smart 10. ( Se venden por separado)
-- MAS QUE TRIVIA, PURA DIVERSIÓN. El juego de preguntas y respuestas donde todos participan en cada pregunta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QL1DBWK{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 😂[JUEGO 2 TEAMS]: Relaciónate con todo el grupo y contágiate de la diversión. Adivina con tu equipo el mayor número de palabras en 5 rondas: Descripción, Palabra, Mímica, Dibujo y Sonido.
+- 🔝[JUEGO DINÁMICO Y PARA TODOS]. De 30 a 45 minutos por juego. Olvídate de juegos interminables y déjate llevar por la magia de Exín. De 4 a 20 jugadores por juego. Diviértete con familiares o amigos sin importar cuantos seáis. Recomendado para +16 años.
 - 🕺[JUEGO 3 SPEED]: Deja volar tu imaginación y muestra tu personalidad entre risas. Responde el máximo número de cartas con tu equipo en menos de 1 minuto. ¡Actúa, canta, baila, improvisa y responde cartas divertidas con tu equipo!
 - 🌍 COMPROMISO SOCIAL: Utilizamos cartón y papel reciclable. Fabricamos en España. Damos fabricación a entidades con personas que tienen discapacidad.
-- ✨[3 EN 1 - EXIN FIESTA]: ¡Disfruta de 3 juegos dinámicos y divertidos para convertir una quedada de amigos en una fiesta memorable! Un juego pensado para reír, ser uno mismo y reconectar con las personas dejando a un lado las pantallas.
-- 😂[JUEGO 2 TEAMS]: Relaciónate con todo el grupo y contágiate de la diversión. Adivina con tu equipo el mayor número de palabras en 5 rondas: Descripción, Palabra, Mímica, Dibujo y Sonido.
 - 🕵️‍♂️[JUEGO 1 ASESINO]: Observa y descubre cómo se comportan tus amigos cuando tienen algo que ocultar. Los jugadores inocentes deben descubrir quién o quienes son los asesinos encubiertos en el juego.
-- 🔝[JUEGO DINÁMICO Y PARA TODOS]. De 30 a 45 minutos por juego. Olvídate de juegos interminables y déjate llevar por la magia de Exín. De 4 a 20 jugadores por juego. Diviértete con familiares o amigos sin importar cuantos seáis. Recomendado para +16 años.
+- ✨[3 EN 1 - EXIN FIESTA]: ¡Disfruta de 3 juegos dinámicos y divertidos para convertir una quedada de amigos en una fiesta memorable! Un juego pensado para reír, ser uno mismo y reconectar con las personas dejando a un lado las pantallas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FMRDVXV{{</world>}}

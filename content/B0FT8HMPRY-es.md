@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las posibilidades son ilimitadas.; intenta en cada batalla que el último Bot superviviente sea uno de los tuyos
 - ¡El último que quede en pie será el ganador! Decide tu estrategia y obsérvala ejecutarse ante tus ojos
-- Elige Bots con sinergias, recicla las unidades obsoletas, sube de nivel para construir máquinas cada vez más poderosas o prueba suerte con un plan agresivo pero arriesgado basado en un ejército de autómatas sencillos
+- Las posibilidades son ilimitadas.; intenta en cada batalla que el último Bot superviviente sea uno de los tuyos
 - Hazte con los cristales y absorbe su poder. ¡LA BATALLA FINAL LO DECIDIRÁ TODO!
 - Reúne a tu grupo de robots de combate (Bots) y llévalos a la arena
+- Elige Bots con sinergias, recicla las unidades obsoletas, sube de nivel para construir máquinas cada vez más poderosas o prueba suerte con un plan agresivo pero arriesgado basado en un ejército de autómatas sencillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FT8HMPRY{{</world>}}

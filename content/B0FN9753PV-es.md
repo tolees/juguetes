@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CATAN : Esta versión especial de Dobble te transporta a Catan: expande tu territorio, toma puertos y construye carreteras...
 - DIVERSIÓN FAMILIAR GARANTIZADA: Perfecto para toda la familia, este juego es ideal para niños y adultos. Edad recomendada: 6 años en adelante.
+- FÁCIL DE APRENDER: Dobble Catan desafía tus habilidades de observación y rapidez. ¡Encuentra el símbolo común entre dos cartas y gana!
 - JUEGO RÁPIDO Y FÁCIL: Con partidas de solo 15 minutos, Dobble Catan es perfecto para sesiones rápidas y emocionantes de juego.
 - JUEGO DE VELOCIDAD Y OBSERVACIÓN: Para jugar una carta, sé el priméro en encontrar y nombrar el símbolo que se repite entre tu carta y la que esté en juego
-- FÁCIL DE APRENDER: Dobble Catan desafía tus habilidades de observación y rapidez. ¡Encuentra el símbolo común entre dos cartas y gana!
-- CATAN : Esta versión especial de Dobble te transporta a Catan: expande tu territorio, toma puertos y construye carreteras...
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FN9753PV{{</world>}}

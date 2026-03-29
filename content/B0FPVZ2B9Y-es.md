@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REPRESENTA HISTORIAS EN LA PASTELERÍA: Coloca pasteles de juguete en el escaparate y el expositor giratorio, sirve a los clientes en la zona de mesas y prepara batidos y zumos en la barra
-- REGALO DE UNICORNIO PARA NIÑAS Y NIÑOS DE 6+ AÑOS: Este divertido set de construcción con temática de fantasía es un regalo idóneo para niños en su cumpleaños u otras ocasiones especiales
 - CAFETERÍA UNICORNIO ARCOÍRIS DE JUGUETE: Los peques jugarán a ser propietarios de una cafetería con el detallado set LEGO Friends Cafetería Sueños de Unicornio para niñas y niños de 6 años en adelante
 - COMIDA DE JUGUETE Y ACCESORIOS: Anima el juego con dónuts, gofres, galletas, cupcakes y pasteles de juguete, una caja registradora y un peluche de unicornio LEGO
-- SERIE ONLINE: Descubre más ideas de juego creativo con otros sets (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo, disponible en Internet, donde tu peque podrá conocer mejor a los personajes de Heartlake City
 - 3 MINI MUÑECAS LEGO FRIENDS: Las mini muñecas de Paisley, Aliya e Iza animan a los peques a usar su imaginación para crear divertidas historias en la cafetería de juguete con decoración de unicornios
+- SERIE ONLINE: Descubre más ideas de juego creativo con otros sets (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo, disponible en Internet, donde tu peque podrá conocer mejor a los personajes de Heartlake City
+- REPRESENTA HISTORIAS EN LA PASTELERÍA: Coloca pasteles de juguete en el escaparate y el expositor giratorio, sirve a los clientes en la zona de mesas y prepara batidos y zumos en la barra
 - INSTRUCCIONES DIGITALES: La app LEGO Builder guía a los niños en una aventura intuitiva en la que pueden guardar sets, seguir su progreso y ampliar y girar los modelos utilizando instrucciones en 3D
+- REGALO DE UNICORNIO PARA NIÑAS Y NIÑOS DE 6+ AÑOS: Este divertido set de construcción con temática de fantasía es un regalo idóneo para niños en su cumpleaños u otras ocasiones especiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FPVZ2B9Y{{</world>}}

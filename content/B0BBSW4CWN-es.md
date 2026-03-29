@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La jugabilidad es la misma que la del clásico juego de cartas en el que los jugadores emparejan colores y números para deshacerse de todas sus cartas.
 - Con la regla especial “Todo por el color”, los jugadores tendrán que descartar y robar cartas.
+- Cuando te quede una sola carta en la mano, tendrás que gritar “¡UNO!”.
 - Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas coleccionable es un regalo estupendo para los fans de Barbie.
 - El juego UNO que los jugadores conocen y adoran incorpora ilustraciones inspiradas en los personajes de la película de Barbie.
-- Cuando te quede una sola carta en la mano, tendrás que gritar “¡UNO!”.
-- La jugabilidad es la misma que la del clásico juego de cartas en el que los jugadores emparejan colores y números para deshacerse de todas sus cartas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBSW4CWN{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A partir de 4 años; de 2 a 4 jugadores
 - Se puede jugar una variante de juego que permite acelerar la partida con las Monedas de Velocidad
+- A partir de 4 años; de 2 a 4 jugadores
 - Contenido: tablero de juego, 16 figuritas 3D, 1 dado, 12 monedas de velocidad y bases de plástico
 - Incluye 16 figuras en 3D
 

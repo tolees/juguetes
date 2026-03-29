@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - TARDA MUCHO MENOS TIEMPO EN JUGAR: ¡Juega el juego de mesa familiar Monopoly en tan solo 40 minutos con esta expansión fácil de jugar! Es perfecto para divertirse y reírse con la familiar y amigos en cualquier ocasión
-- UNA NUEVA MANERA DE JUGAR EL CLÁSICO JUEGO MONOPOLY: ¡Dale un toque dinámico al juego Monopoly y juega en menos tiempo con esta Expansión Todo a la venta! ESTO ES UNA EXPANSIÓN, NO UN JUEGO COMPLETO. (REQUIERE DEL JUEGO MONOPOLY CLÁSICO PARA JUGAR. Se vende por separado)
-- TODO ESTÁ A LA VENTA: Conecta esta expansión al juego Monopoly y disfruta del clásico juego que todos conocen, ¡pero con un nuevo giro! Los jugadores pueden comprar todas las casillas, habilidades y formas de ganar
 - COMPRA TODAS LAS CASILLAS (¡INCLUSO LA CÁRCEL!): ¡Compra el Parking gratuito, la SALIDA, la banca, la cárcel y mucho más! Incluye 8 Títulos de Propiedad adicionales para añadir al clásico juego Monopoly
 - COMPRA HABILIDADES ESPECIALES DE LA BÓVEDA DE VENTAS: La Bóveda de ventas muestra una variedad giratoria de tarjetas que cambian el juego. Los jugadores tiran el dado de compra para intentar comprar una carta. Algunas cartas de Venta otorgan la habilidad de sacar ventaja
+- UNA NUEVA MANERA DE JUGAR EL CLÁSICO JUEGO MONOPOLY: ¡Dale un toque dinámico al juego Monopoly y juega en menos tiempo con esta Expansión Todo a la venta! ESTO ES UNA EXPANSIÓN, NO UN JUEGO COMPLETO. (REQUIERE DEL JUEGO MONOPOLY CLÁSICO PARA JUGAR. Se vende por separado)
+- TODO ESTÁ A LA VENTA: Conecta esta expansión al juego Monopoly y disfruta del clásico juego que todos conocen, ¡pero con un nuevo giro! Los jugadores pueden comprar todas las casillas, habilidades y formas de ganar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPJ8VXTH{{</world>}}

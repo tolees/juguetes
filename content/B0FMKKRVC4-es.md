@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Al general Han Solo, a la general Leia Organa y a Chewbacca para derrotar al Imperio y restablecer la paz y la libertad en toda la galaxia!
-- ¡Recluta a Luke Skywalker como comandante rebelde o famoso caballero jedi
-- La Rebelión se sustenta en las hazañas de sus legendarios héroes, que sirven de inspiración en la lucha contra el Imperio.
 - Esta expansión contiene 5 miniaturas de plástico esculpidas con todo lujo de detalles, suficientes para desplegar 3 unidades Comandantes y 2 unidades Agentes.
 - 5 miniaturas de plástico, 25 cartas, 2 láminas de fichas, 1 hoja de información
+- Al general Han Solo, a la general Leia Organa y a Chewbacca para derrotar al Imperio y restablecer la paz y la libertad en toda la galaxia!
+- La Rebelión se sustenta en las hazañas de sus legendarios héroes, que sirven de inspiración en la lucha contra el Imperio.
+- ¡Recluta a Luke Skywalker como comandante rebelde o famoso caballero jedi
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FMKKRVC4{{</world>}}

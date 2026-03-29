@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de calidad
-- Exit el tesoro
 - De la marca: Devir
 - Devir iberia, 227123
+- Producto de calidad
+- Exit el tesoro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HZXPHBG{{</world>}}

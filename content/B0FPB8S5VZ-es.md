@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÁS BONITO QUE NUNCA: Este famoso dúo nunca ha tenido mejor aspecto ni se ha movido mejor gracias a los gráficos y animaciones revisados, así como a las mejoras de rendimiento y resolución.
 - NUEVOS DESAFÍOS MEJORADOS: ¡Esta nueva versión incluye mejoras en los desafíos existentes y muchos totalmente nuevos por descubrir y emprender!
+- MÁS BONITO QUE NUNCA: Este famoso dúo nunca ha tenido mejor aspecto ni se ha movido mejor gracias a los gráficos y animaciones revisados, así como a las mejoras de rendimiento y resolución.
 - UNA NUEVA MONEDA COLECCIONABLE: Los necios esbirros de Capital B han dejado caer por todos lados las monedas que tanto les ha costado conseguir. Consigue las monedas oficiales de las torres Hivory y gástalas en Vendi, ¡la máquina expendedora viviente más querida de toda la industria de los videojuegos!
 - VIAJA POR TODO EL MUNDO: ¡Ahora podrás perderte en el juego, pero no en el mundo! El nuevo mapa del mundo y el rastreador de desafíos te ayudarán a saber dónde estás y qué tienes que hacer. ¡Viva!
 - La edición física incluirá regalos físicos exclusivos: ¡mapa y pegatinas reutilizables!

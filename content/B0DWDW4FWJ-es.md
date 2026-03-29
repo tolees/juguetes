@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Decoración de la estantería: Después de que los peques hayan pasado horas disputando carreras entre los 2 mini coches LEGO, pueden exponer los vehículos en un estante o un escritorio
-- 2 minifiguras LEGO de conductores: Los coches de juguete Lamborghini vienen con 2 minifiguras de un conductor equipado con un distintivo conjunto de traje y casco para que los niños disfruten compitiendo en emocionantes carreras
-- Una forma divertida de construir: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción; podrán acercar y girar versiones 3D de sus modelos a medida que los construyen, consultar su progreso y guardar sets
-- 2 maquetas de Lamborghini: LEGO Speed Champions Lamborghini Revuelto y Huracán STO para niños y niñas a partir de 10 años o coleccionistas adultos de maquetas de coches
-- Coches de juguete: Cada maqueta de Lamborghini reproduce con fidelidad detalles como las tomas de aire, los alerones o los futuristas faros y luces traseras con forma de Y
 - Coches de juguete idóneos como regalo: Este set LEGO de Lamborghinis es una gran idea de regalo para niños a partir de 10 años o coleccionistas adultos de maquetas de coches
+- Una forma divertida de construir: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción; podrán acercar y girar versiones 3D de sus modelos a medida que los construyen, consultar su progreso y guardar sets
+- 2 minifiguras LEGO de conductores: Los coches de juguete Lamborghini vienen con 2 minifiguras de un conductor equipado con un distintivo conjunto de traje y casco para que los niños disfruten compitiendo en emocionantes carreras
+- 2 maquetas de Lamborghini: LEGO Speed Champions Lamborghini Revuelto y Huracán STO para niños y niñas a partir de 10 años o coleccionistas adultos de maquetas de coches
+- Decoración de la estantería: Después de que los peques hayan pasado horas disputando carreras entre los 2 mini coches LEGO, pueden exponer los vehículos en un estante o un escritorio
+- Coches de juguete: Cada maqueta de Lamborghini reproduce con fidelidad detalles como las tomas de aire, los alerones o los futuristas faros y luces traseras con forma de Y
 - Coches de juguete para construir, jugar y exponer: Los sets de construcción de coches LEGO Speed Champions ofrecen a los niños y los aficionados al motor la oportunidad de construir réplicas de algunos de los vehículos más emblemáticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

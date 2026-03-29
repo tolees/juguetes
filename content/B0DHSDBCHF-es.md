@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juguete de colección de Star Wars: Las minifiguras LEGO del piloto clon Odd Ball, el piloto clon Jag y el piloto clon tienen cada una pistolas bláster para incorporar más acción de fantasía al juego de rol
-- Regalo de cumpleaños del universo Star Wars para mayores de 9 años: Puedes regalarle este juguete LEGO con una nave estelar construible a niños y niñas de 9 añoso más o a cualquier fan de Star Wars: La Venganza de los Sith
-- Una forma divertida de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción en la que podrán acercar y girar una versión digital 3D de sus modelos a medida que los construyen y mucho más
 - 4 personajes LEGO Star Wars: Minifiguras LEGO Star Wars de un piloto clon Odd Ball, un piloto clon Jag y un piloto clon, cada uno con pistolas bláster, además de una figura LEGO de un droide R4-P44
+- Una forma divertida de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción en la que podrán acercar y girar una versión digital 3D de sus modelos a medida que los construyen y mucho más
+- Juguete de colección de Star Wars: Las minifiguras LEGO del piloto clon Odd Ball, el piloto clon Jag y el piloto clon tienen cada una pistolas bláster para incorporar más acción de fantasía al juego de rol
 - Caza estelar LEGO para construir: Está equipado con 3 cabinas abatibles, espacio para R4-P44, 6 alas (4 de ellas ajustables que cambian de la posición de crucero a la de ataque moviendo una palanca) y 2 cañones automáticos
+- Regalo de cumpleaños del universo Star Wars para mayores de 9 años: Puedes regalarle este juguete LEGO con una nave estelar construible a niños y niñas de 9 añoso más o a cualquier fan de Star Wars: La Venganza de los Sith
 - Juguete de construcción de un caza estelar de Star Wars para niños de 9 años o más: Interpreta las épicas historias de Star Wars: La Venganza de los Sith con este detallado modelo LEGO construible de un caza estelar ARC-170
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

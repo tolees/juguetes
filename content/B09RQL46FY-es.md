@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- En el pack doble y un digi-clip por pajarillo para poder llevarlos donde quieras
+- Producto distribuido oficialmente en España por Bizak
+- En el pack de dos, se encuentran otras dos especies para coleccionar, un pavo real y un pájaro pescador
 - Si juntas a varios pajarillos interactivos, cantan en coro
+- Vuelven los Digibirds, pájaros electrónicos con una imagen renovada y con alta tecnología
 - Miden 8.5 cm; cantan de verdad, con más de 50 melodías diferentes
 - Son muy divertidos, ya que mueven la cabecita y el pico, y se sincronizan en las canciones
-- Vuelven los Digibirds, pájaros electrónicos con una imagen renovada y con alta tecnología
-- En el pack de dos, se encuentran otras dos especies para coleccionar, un pavo real y un pájaro pescador
-- Producto distribuido oficialmente en España por Bizak
-- En el pack doble y un digi-clip por pajarillo para poder llevarlos donde quieras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RQL46FY{{</world>}}

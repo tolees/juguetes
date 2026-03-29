@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LeBron y su fundación han ayudado a los niños de los barrios más desfavorecidos mediante los recursos y asistencia que necesitan para salir adelante, por ejemplo, construyendo colegios y centros comunitarios u ofreciendo alojamiento a familias sin hogar, entre otras iniciativas.
-- Representa con orgullo a su organización sin ánimo de lucro, la LeBron James Family Foundation, con una camiseta que dice "WE ARE FAMILY", el logotipo en su gorra y el parche de su chaqueta.
-- La colección Kenbassadors de Barbie Signature rinde homenaje a los influyentes Ken que están contribuyendo a cambiar el mundo para hacer de él un lugar mejor.
 - LJB es un icono cultural y de la moda, por lo que su muñeco Ken refleja su característico estilo urbano con un toque refinado.
+- LeBron y su fundación han ayudado a los niños de los barrios más desfavorecidos mediante los recursos y asistencia que necesitan para salir adelante, por ejemplo, construyendo colegios y centros comunitarios u ofreciendo alojamiento a familias sin hogar, entre otras iniciativas.
 - Gafas de sol, riñonera, pulsera y unos auriculares en la mano para completar su conjunto.
-- El estilo de LeBron es moderno, con su chaqueta bomber que lleva su icónico "23" escrito, pantalones a cuadros a medida y unas zapatillas de lo más llamativas.
 - El muñeco Kenbassadors de Barbie rinde homenaje a LeBron James, leyenda del baloncesto, autor, activista y filántropo que está forjando un legado basado en la solidaridad, tanto dentro como fuera de la cancha.
+- La colección Kenbassadors de Barbie Signature rinde homenaje a los influyentes Ken que están contribuyendo a cambiar el mundo para hacer de él un lugar mejor.
+- El estilo de LeBron es moderno, con su chaqueta bomber que lleva su icónico "23" escrito, pantalones a cuadros a medida y unas zapatillas de lo más llamativas.
+- Representa con orgullo a su organización sin ánimo de lucro, la LeBron James Family Foundation, con una camiseta que dice "WE ARE FAMILY", el logotipo en su gorra y el parche de su chaqueta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMJSXWGM{{</world>}}

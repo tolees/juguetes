@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 módulos
 - Duración del juego: 60 minutos
-- Edad recomendada: a partir de 8 años
 - Número de jugadores: 2 – 4
 - 2. la ampliación a cacao
+- Edad recomendada: a partir de 8 años
+- 4 módulos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B074P5ZMPL{{</world>}}

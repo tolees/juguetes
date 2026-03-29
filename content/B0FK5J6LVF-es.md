@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Luchad por cada trabajo para hacerlo mejor que los otros.
-- La carta de trabajo te dice qué es lo que debes hacer.
 - ¡NO DEJES CAER NADA!
-- Tú y tus amigos sois gigantes que trabajáis para empresas de mudanzas rivales.
 - ¿TU TRABAJO?: Entregar a toda prisa los pequeños muebles usando solo tus dedos meñiques.
+- La carta de trabajo te dice qué es lo que debes hacer.
+- Luchad por cada trabajo para hacerlo mejor que los otros.
+- Tú y tus amigos sois gigantes que trabajáis para empresas de mudanzas rivales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FK5J6LVF{{</world>}}

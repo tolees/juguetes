@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El último jugador con Créditos Imperiales cuando todos los demás jugadores estén en bancarrota gana.
 - En este Monopoly los jugadores reclutan a todos los villanos infames que puedan. Cuantos más contratos tengan, más créditos imperiales podrán conseguir.
-- A partir de 8 años. De 2-6 Jugadores. Duración: 60 min
-- Activa la habilidad especial de un personaje adquiriendo el anillo del Rayo de la Fuerza, conspira contra tus oponentes con las cartas del Lado Oscuro y salta al hiperespacio en el tablero aterrizando en un espacio de la Nave.
 - El clásico juego del Monopoly recibe un toque de Star Wars inspirado en el poder del lado oscuro en las películas de Star Wars
+- Activa la habilidad especial de un personaje adquiriendo el anillo del Rayo de la Fuerza, conspira contra tus oponentes con las cartas del Lado Oscuro y salta al hiperespacio en el tablero aterrizando en un espacio de la Nave.
+- El último jugador con Créditos Imperiales cuando todos los demás jugadores estén en bancarrota gana.
+- A partir de 8 años. De 2-6 Jugadores. Duración: 60 min
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BK9N4SPW{{</world>}}

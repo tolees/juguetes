@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con el Libro de aventuras, te adentrarás en nuevas experiencias con las que crear una pradera totalmente distinta.
-- Pradera: Libro de aventuras es una expansión de Pradera que te lleva a un viaje fascinante en el que visitarás desde bellos campos floridos hasta una cueva mágica.
 - Incluye: Libro de aventuras, 6 cajas, 4 indicadores de jugador, 74 cartas, 1 dado, 172 fichas, 4 tableros de arroyo, 4 discos de molino magnéticos, 1 dial de rosa de los vientos magnético.
-- Las seis excursiones, que se juegan en los tableros interactivos del libro, te ofrecen nuevas formas de observar el mundo natural.
+- Con el Libro de aventuras, te adentrarás en nuevas experiencias con las que crear una pradera totalmente distinta.
 - La expansión incluye un libro con 6 excursiones diferentes.
+- Las seis excursiones, que se juegan en los tableros interactivos del libro, te ofrecen nuevas formas de observar el mundo natural.
+- Pradera: Libro de aventuras es una expansión de Pradera que te lleva a un viaje fascinante en el que visitarás desde bellos campos floridos hasta una cueva mágica.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG8HVHS{{</world>}}

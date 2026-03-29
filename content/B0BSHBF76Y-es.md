@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Un playset muy cómodo para dejar todo recogido, la casa tiene un asa para llevarla a todos lados siempre con ellos donde quieran y jugar en todas partes
-- Este set de juego incluye una casita de juguete pequeña y completa, optima para los más peques a partir de 4 años de edad
-- Hay dos modelos diferentes: la casita de las flores o la casita del arcoíris, con colores, decoraciones y figuras distintas
 - Es plegable, se puede abrir para jugar o cerrar y guardar todo dentro: accesorios, decoración (vallas) y figura
 - La figura Pinypon tiene el formato de la marca Pop&Swap, se pueden intercambiar las partes del cuerpo con el resto de figuras de Pinypon y hacer infinitas combinaciones; además, es 2 en 1: la expresión facial de la muñeca se cambia cuando la giras y tiene 2 diferentes; con decoraciones flúor que encantarán a los peques
+- Este set de juego incluye una casita de juguete pequeña y completa, optima para los más peques a partir de 4 años de edad
+- Hay dos modelos diferentes: la casita de las flores o la casita del arcoíris, con colores, decoraciones y figuras distintas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSHBF76Y{{</world>}}

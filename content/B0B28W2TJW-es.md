@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Producto distribuido oficialmente en España por BIZAK.
 - Un juego divertido y educativo donde los niños deben localizar visualmente una serie de dibujos relacionados entre sí. Han de superar varias pruebas hasta llegar al rosco final.
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
-- El juego se divide en dos fases: las pruebas y el rosco.
 - El juego es perfecto para 1-4 jugadores, en la mayoría de las pruebas todos los niños jugarán a la vez. ¡Cuantos más seáis más os divertiréis!
+- El juego se divide en dos fases: las pruebas y el rosco.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B28W2TJW{{</world>}}

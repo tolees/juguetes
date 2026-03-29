@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 aventuras que nos llevan al Neolítico, combinables con todos los módulos publicados hasta la fecha
 - La primera expansión grande de Paleo, el juego de mesa cooperativo ganador del Kennerspiel des Jahres 2021; juego del Año Experto
 - Gestiona tu granja y tus cultivos mientras te enfrentas a los peligros de la vida neandertal a través de óptimas e interesantes mecánicas
+- 6 aventuras que nos llevan al Neolítico, combinables con todos los módulos publicados hasta la fecha
 - MECÁNICAS: Colección, Construcción de mazos, Cooperativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

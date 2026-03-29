@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una vez seleccionada una aventura, la meta del juego es muy sencilla: completar los objetivos de la aventura, sobrevivir y matar a tantos zombis como sea posible; los muertos vivientes son lentos y predecibles, pero su número es muy superior
 - Zombicide: White Death es un juego cooperativo para 1-6 jugadores que se enfrentan a hordas de zombis manejadas por el propio juego
+- Una vez seleccionada una aventura, la meta del juego es muy sencilla: completar los objetivos de la aventura, sobrevivir y matar a tantos zombis como sea posible; los muertos vivientes son lentos y predecibles, pero su número es muy superior
+- Y cuidado con las abominaciones y los nigromantes; los Supervivientes matan zombis con cualquier cosa de la que puedan echar mano
 - Sólo mediante la cooperación podrán alcanzar la victoria; luchar contra los zombis es divertido, y los Supervivientes tendrán mucho que hacer mientras exploran la asediada Invernigrado: rescatar a otros Supervivientes, defender zonas estratégicas, neutralizar amenazas terribles y mucho más
 - Cada jugador controla entre uno y seis Supervivientes en una ciudad de fantasía asediada por los zombis
-- Y cuidado con las abominaciones y los nigromantes; los Supervivientes matan zombis con cualquier cosa de la que puedan echar mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBH154N1{{</world>}}

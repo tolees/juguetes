@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reglas sencillas que recuerdan a los clásicos juegos de cartas en solitario con una temática immersiva y universal
 - Creado por Bruno Cathala i Ludovic Maublanc hace 10 años, nos encontramos con una reedición maravillosa, con un formato y unos acabados deslumbrantes
+- Reglas sencillas que recuerdan a los clásicos juegos de cartas en solitario con una temática immersiva y universal
 - SOS Titanic es un juego que se puede jugar tanto en solitario como en cooperativo altamente adictivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

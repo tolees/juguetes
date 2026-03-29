@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los tres neumáticos esféricos azules proporcionan una experiencia de conducción única y se puede utilizar por todas las superficies.
-- Fantástico vehículo readio control de revolucionario diseño con el que con el que podrás realizar increibles acrobacias.
 - Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Fantástico vehículo readio control de revolucionario diseño con el que con el que podrás realizar increibles acrobacias.
 - Tecnología de 2,4GHZ con la que podrás realizar competir con hasta 10 vehículos diferentes.
 - Puedes conducirlo por los dos lados, se gira fácilmente con solo apretar el mando
 

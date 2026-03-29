@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su cumpleaños es el 26 de mayo; hazel se queda dormida en todas partes, ¡incluso jugando!
-- El set incluye 2 figuras y accesorios
-- Edad recomendada: +3 años
 - Hazel y Honey son los gemelos de la Familia Erizo
+- Edad recomendada: +3 años
+- El set incluye 2 figuras y accesorios
 - Honey, sin embargo, es muy curioso, se pasa el día abriendo todo lo que encuentra: cajones, botes, bolsas… ¡Una vez abrió la pimentera y no paró de estornudar en un buen rato!
+- Su cumpleaños es el 26 de mayo; hazel se queda dormida en todas partes, ¡incluso jugando!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083KLM3SS{{</world>}}

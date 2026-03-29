@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Sueña a lo grande con las muñecas Barbie Profesiones!
-- Esta muñeca puede cantar las canciones más populares con su pie de micrófono y un micrófono extraíble.
 - Descubre todas las muñecas y juguetes Barbie Profesiones, porque cuando una niña juega con Barbie, ¡imagina todo lo que puede ser de mayor! (Se venden por separado y están sujetos a disponibilidad).
-- Barbie Cantante es el regalo perfecto para pequeñas aficionadas a la música.
 - Barbie Cantante está lista para salir al escenario con un conjunto que la hará brillar, formado por un top reluciente, una falda iridiscente, unos zapatos morados a la última moda y el pelo largo de color rosa.
+- Barbie Cantante es el regalo perfecto para pequeñas aficionadas a la música.
+- Esta muñeca puede cantar las canciones más populares con su pie de micrófono y un micrófono extraíble.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQN3ZG56{{</world>}}

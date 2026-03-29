@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SUPERTHINGS EXCLUSIVOS – Consigue a los 9 SuperThings exclusivos de la serie 2. Professor K (ultrararo), Candy Strike y Pumpking (dorados), y los plateados Headstrong, Rocketball, Beatcrush, Super Riff, Lord Twister y Turbo Twist.
 - DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
 - LATA GOLD SÚPER ESPECIALES – Figuras exclusivas de la serie 2. Ideal para completar toda tu colección de la serie 2 de SuperThings.
 - CONSIGUE LAS GUARIDAS DORADAS – Oportunidad única para conseguir las dos guaridas doradas (héroe y villano) de la Serie 2 de SuperThings.
+- SUPERTHINGS EXCLUSIVOS – Consigue a los 9 SuperThings exclusivos de la serie 2. Professor K (ultrararo), Candy Strike y Pumpking (dorados), y los plateados Headstrong, Rocketball, Beatcrush, Super Riff, Lord Twister y Turbo Twist.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098P3HDX8{{</world>}}

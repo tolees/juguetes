@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 MINIFIGURAS LEGO: Este set incluye a Cole con un martillo, a Zane Forma Dragón con una espada de juguete y a un Monstruo Ácido con un bastón para interpretar batallas entre el bien y el mal
-- MÁS AVENTURAS NINJA: Descubre otros juguetes de construcción LEGO NINJAGO para niños (sets a la venta por separado) con detallados dragones, mecas, templos y vehículos
-- REGALO PARA NIÑOS Y NIÑAS DE 7 AÑOS EN ADELANTE: Este set NINJAGO es un ninja idóneo para los peques apasionados por los juguetes de acción y fans de las aventuras de la serie LEGO NINJAGO
-- FIGURA ARTICULADA: El meca tiene cabeza, brazos, armadura para hombros, dedos, piernas y tobillos articulados, una cabina en el pecho para colocar a Cole y una mochila para guardar sus armas ninja
-- 3 ARMAS NINJA: El meca viene con 3 armas (una espada de juguete, un bastón y un lanzador automático con 2 dardos) que se pueden intercambiar con las del set Dragón Ninja Riyu (71855), a la venta por separado
-- MECA-DRAGÓN DE JUGUETE: Con el kit de construcción Meca de Misión de Cole y Zane Dragón los peques a partir de 7 años recrearán la temporada 4 de la serie para televisión NINJAGO: El renacer de los dragones
 - UN UNIVERSO DE SETS LEGO NINJAGO: Esta amplia colección permite a los niños escapar a un universo de fantasía inmersiva para jugar con imaginación junto a sus héroes ninjas
+- FIGURA ARTICULADA: El meca tiene cabeza, brazos, armadura para hombros, dedos, piernas y tobillos articulados, una cabina en el pecho para colocar a Cole y una mochila para guardar sus armas ninja
+- MECA-DRAGÓN DE JUGUETE: Con el kit de construcción Meca de Misión de Cole y Zane Dragón los peques a partir de 7 años recrearán la temporada 4 de la serie para televisión NINJAGO: El renacer de los dragones
+- MÁS AVENTURAS NINJA: Descubre otros juguetes de construcción LEGO NINJAGO para niños (sets a la venta por separado) con detallados dragones, mecas, templos y vehículos
+- 3 MINIFIGURAS LEGO: Este set incluye a Cole con un martillo, a Zane Forma Dragón con una espada de juguete y a un Monstruo Ácido con un bastón para interpretar batallas entre el bien y el mal
+- 3 ARMAS NINJA: El meca viene con 3 armas (una espada de juguete, un bastón y un lanzador automático con 2 dardos) que se pueden intercambiar con las del set Dragón Ninja Riyu (71855), a la venta por separado
+- REGALO PARA NIÑOS Y NIÑAS DE 7 AÑOS EN ADELANTE: Este set NINJAGO es un ninja idóneo para los peques apasionados por los juguetes de acción y fans de las aventuras de la serie LEGO NINJAGO
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FPXG2DNH{{</world>}}

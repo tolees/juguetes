@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pajitas imaginativas en papel biodegradable.
 - Embalaje: 80 piezas. Producto biodegradable, FSC certificado.
 - Hecho con tinta de agua. Ideal para dar más color a sus fiestas, para personalizar su dulce mesa y eventos de todo tipo.
+- Pajitas imaginativas en papel biodegradable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0829MBZWK{{</world>}}

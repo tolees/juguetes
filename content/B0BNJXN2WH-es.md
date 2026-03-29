@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Who Are Funko: Funko es una marca líder de estilo de vida de la cultura pop. Proporcionamos conexión a la cultura pop con una línea de productos que incluye figuras de vinilo, juguetes de acción, felpa, ropa, juegos de mesa y accesorios
-- Con el significado de persecución: un chase pop es una variante rara de una figura común de funko pop, por la cual su diseño difiere ligeramente a la figura original en la que se basa. Cuando compra una cifra con una variante de persecución, tiene la oportunidad de recibir una variante de Chase 1 en 6
+- Qué talla es un pop!: Pops estándar! tienen aproximadamente 4 pulgadas de alto: aunque los tamaños varían dependiendo del personaje. ¡Super Pop! ¡Son 6 pulgadas de altura, Jumbo Pops! ¡Son 10 pulgadas de altura y mega pop! son una friolera de 18 pulgadas
 - TAMAÑO IDEAL PARA COLECCIONAR - Con una altura aproximada de 9,5 cm, esta mini figurita de vinilo complementa otros artículos de colección y encaja perfectamente en tu vitrina o en tu escritorio.
 - Mira la tienda de la marca Funko y colócalas todas!
-- Qué talla es un pop!: Pops estándar! tienen aproximadamente 4 pulgadas de alto: aunque los tamaños varían dependiendo del personaje. ¡Super Pop! ¡Son 6 pulgadas de altura, Jumbo Pops! ¡Son 10 pulgadas de altura y mega pop! son una friolera de 18 pulgadas
+- Con el significado de persecución: un chase pop es una variante rara de una figura común de funko pop, por la cual su diseño difiere ligeramente a la figura original en la que se basa. Cuando compra una cifra con una variante de persecución, tiene la oportunidad de recibir una variante de Chase 1 en 6
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNJXN2WH{{</world>}}

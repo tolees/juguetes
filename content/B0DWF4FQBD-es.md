@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo gamer: Este juguete de construcción es un gran regalo para niños y niñas fans a partir de 6 años; para jugar de forma interactiva, se necesita uno de estos sets: 71439, 71440, 71441 o 72043 (a la venta por separado)
-- Divertidas funciones: Ayuda al Capitán Toad a derrumbar el puente y hacer que un enemigo caiga en el río de lava, buscad “diamantes”, guardadlos en el cofre del tesoro y relajaos en la tienda de campaña
-- App LEGO Super Mario: Descarga la app, donde encontrarás las instrucciones de construcción, ideas creativas y más contenidos. Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
-- Estimula la imaginación de tu peque: Los sets LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - 3 figuras LEGO Super Mario: Este set LEGO Nintendo incluye al Capitán Toad, un nabo y una figura de un Goomba, además de una mochila y un pico, una cacerola y diamantes de juguete
-- Juego interactivo: Salta en la etiqueta de acción de la tienda de campaña (y sobre el Goomba y el nabo) con LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para provocar reacciones digitales
 - Juguete LEGO Super Mario: Usa los ladrillos para construir una tienda de campaña y una hoguera, busca un tesoro, haz que el puente se derrumbe, derrota enemigos con el set De acampada con el Capitán Toad
+- Divertidas funciones: Ayuda al Capitán Toad a derrumbar el puente y hacer que un enemigo caiga en el río de lava, buscad “diamantes”, guardadlos en el cofre del tesoro y relajaos en la tienda de campaña
+- Regalo gamer: Este juguete de construcción es un gran regalo para niños y niñas fans a partir de 6 años; para jugar de forma interactiva, se necesita uno de estos sets: 71439, 71440, 71441 o 72043 (a la venta por separado)
+- Estimula la imaginación de tu peque: Los sets LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
+- Juego interactivo: Salta en la etiqueta de acción de la tienda de campaña (y sobre el Goomba y el nabo) con LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para provocar reacciones digitales
+- App LEGO Super Mario: Descarga la app, donde encontrarás las instrucciones de construcción, ideas creativas y más contenidos. Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWF4FQBD{{</world>}}

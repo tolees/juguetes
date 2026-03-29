@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Almacenamiento: 512 GB PCIE G4 SSD
-- GPU: Gráfica AMD Radeon (AMD RDNA 3, 12 CUs, hasta 2.7 GHz, hasta 8.6 Teraflops)
-- Sistema operativo: Windows 11 Home
-- Procesador: AMD Ryzen Z2 A
-- Pantalla: 7.0", FHD (1920 x 1080) 16:9 y Tasa de refresco 120Hz
 - RAM: 16 GB
+- Almacenamiento: 512 GB PCIE G4 SSD
+- Procesador: AMD Ryzen Z2 A
+- Sistema operativo: Windows 11 Home
+- Pantalla: 7.0", FHD (1920 x 1080) 16:9 y Tasa de refresco 120Hz
+- GPU: Gráfica AMD Radeon (AMD RDNA 3, 12 CUs, hasta 2.7 GHz, hasta 8.6 Teraflops)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FL7PSY9S{{</world>}}

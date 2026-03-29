@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - SUMÉRGETE DE LLENO: Disfruta de cada paso de la compleja construcción con la app LEGO Builder, donde puedes ver una versión digital 3D de la maqueta a medida que la construyes, así como consultar tu progreso y guardar sets
-- RECREA ESCENAS CLÁSICAS: Desde el salto de Luke y Leia para ponerse a salvo hasta el duelo de espadas láser entre Darth Vader y Obi-Wan Kenobi, revive cada momento dentro de la Estrella de la Muerte
-- 36 MINIFIGURAS LEGO STAR WARS: Luke Skywalker (como Jedi y como soldado de asalto), Han Solo (2 versiones), la Princesa Leia, Chewbacca y Darth Vader, además de 2 figuras LEGO de droides
 - SETS LEGO STAR WARS COLECCIONABLES PARA ADULTOS: Desde una galaxia muy, muy lejana llegan hasta tu salón los sets LEGO Star Wars para adultos, diseñados para personas a las que les encante relajarse con actividades creativas y conscientes
 - DECORACIÓN PARA EL HOGAR O LA OFICINA: La maqueta interactiva cuenta con conducto y compactador de basura, ascensor (funciona), sala del trono del Emperador Palpatine, lanzadera imperial, control del rayo tractor y superláser
+- 36 MINIFIGURAS LEGO STAR WARS: Luke Skywalker (como Jedi y como soldado de asalto), Han Solo (2 versiones), la Princesa Leia, Chewbacca y Darth Vader, además de 2 figuras LEGO de droides
+- RECREA ESCENAS CLÁSICAS: Desde el salto de Luke y Leia para ponerse a salvo hasta el duelo de espadas láser entre Darth Vader y Obi-Wan Kenobi, revive cada momento dentro de la Estrella de la Muerte
 - KIT DE MAQUETAS: Construye el set LEGO Star Wars de mayor tamaño (en el momento del lanzamiento), una versión Ultimate Collector Series de la Estrella de la Muerte de Star Wars: Una Nueva Esperanza
 - REGALO LEGO STAR WARS PARA HOMBRES, MUJERES Y FANS: Date un capricho o regala esta fascinante maqueta para adultos a otro fan de Star Wars o coleccionista de sets LEGO Star Wars UCS
 

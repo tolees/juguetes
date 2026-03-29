@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tamaño compacto y versátil: óptima para escritorProducto oficial con licencia: Artículo original de Bandai, garantizando autenticidad y calidad en cada detalle.ios, estanterías, mesillas de noche o rincones temáticos
+- Tamaño compacto y versátil: óptima para escritorios, estanterías, mesillas de noche o rincones temáticos
 - Diseño exclusivo y atmosférico: Representa la icónica escena de Miércoles en su ventana, con un estilo gótico único inspirado en la serie de Netflix Wednesday
 - Alta calidad y detalles realistas: Fabricada con materiales resistentes y acabados fieles al personaje, óptimo para fans y coleccionistas
 - Iluminación ambiental LED: La ventana se ilumina con una suave luz que aporta un toque misterioso y decorativo a cualquier habitación
-- Tamaño compacto y versátil: óptima para escritorios, estanterías, mesillas de noche o rincones temáticos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBQKMDZG{{</world>}}

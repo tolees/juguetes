@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PERFECTO PARA NOCHES EN FAMILIA: Diseñado para 2-4 jugadores y recomendado para mayores de 10 años. Splendor es un juego ideal para reuniones familiares o noches de juego, con una duración aproximada de 40 minutos.
-- COMPONENTES Y ARTE IMPRESIONANTES: Incluye 40 fichas personalizadas de alta calidad, 90 cartas de desarrollo y hermosas ilustraciones de Paul Vérité, mejorando tanto la estética como la experiencia de juego.
 - DISEÑO NUEVO Y MEJORADO: Disfruta del diseño completamente renovado de Splendor, compatible con expansiones anteriores. Incluye un manual de reglas simplificado y un almacenamiento de caja más intuitivo para una mejor experiencia de juego.
-- DESARROLLA ESTRATEGIAS GANADORAS: Recolecta gemas y adquiere cartas para construir tu prestigio. Cada movimiento abre nuevas posibilidades para expandir tu imperio en este competitivo juego de comercio.
 - JUEGO RÁPIDO Y ESTRATÉGICO: Splendor es un juego estratégico y rápido que mantiene la emoción en cada turno con acciones únicas y rápidas, adecuado tanto para jugadores ocasionales como para los más estrategas.
+- COMPONENTES Y ARTE IMPRESIONANTES: Incluye 40 fichas personalizadas de alta calidad, 90 cartas de desarrollo y hermosas ilustraciones de Paul Vérité, mejorando tanto la estética como la experiencia de juego.
+- PERFECTO PARA NOCHES EN FAMILIA: Diseñado para 2-4 jugadores y recomendado para mayores de 10 años. Splendor es un juego ideal para reuniones familiares o noches de juego, con una duración aproximada de 40 minutos.
+- DESARROLLA ESTRATEGIAS GANADORAS: Recolecta gemas y adquiere cartas para construir tu prestigio. Cada movimiento abre nuevas posibilidades para expandir tu imperio en este competitivo juego de comercio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8V1G1RC{{</world>}}

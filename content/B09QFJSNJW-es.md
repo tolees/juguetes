@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 6 MINIFIGURAS LEGO: 4 pasajeros, un camarero y un maquinista, además de un ordenador, un teléfono, una bici de juguete y un casco, silla de ruedas, maleta, mochila, un cruasán y un perrito caliente
-- FUNCIONES INTERACTIVAS: Este tren de juguete y sus luces delanteras regulables se pueden controlar con el control remoto incluido o a través de un dispositivo inteligente con la app LEGO Powered Up
-- TREN DE JUGUETE CON CONTROL REMOTO: Este divertido set LEGO City cuenta con un moderno tren de juguete teledirigido, con faros delanteros regulables que funcionan y tecnología LEGO Powered Up
-- JUEGO DE ROL: Los niños pueden jugar a esperar en el andén al tren aerodinámico moderno, subir al coche cafetería y tomar algo o acudir al coche de pasajeros donde hay espacio para equipaje y una bicicleta
 - Este tren de LEGO viene con instrucciones paso a paso fáciles de seguir para cada modelo, para que los peques puedan construir este juguete teledirigido con confianza
 - ACCESORIOS DIVERTIDOS: El tren cuenta con un coche cafetería, un coche de pasajeros y una plataforma de estación con un banco, un árbol y un letrero, además de 24 vías LEGO; 16 curvas y 8 rectas
+- TREN DE JUGUETE CON CONTROL REMOTO: Este divertido set LEGO City cuenta con un moderno tren de juguete teledirigido, con faros delanteros regulables que funcionan y tecnología LEGO Powered Up
+- FUNCIONES INTERACTIVAS: Este tren de juguete y sus luces delanteras regulables se pueden controlar con el control remoto incluido o a través de un dispositivo inteligente con la app LEGO Powered Up
+- 6 MINIFIGURAS LEGO: 4 pasajeros, un camarero y un maquinista, además de un ordenador, un teléfono, una bici de juguete y un casco, silla de ruedas, maleta, mochila, un cruasán y un perrito caliente
+- JUEGO DE ROL: Los niños pueden jugar a esperar en el andén al tren aerodinámico moderno, subir al coche cafetería y tomar algo o acudir al coche de pasajeros donde hay espacio para equipaje y una bicicleta
 - Este set LEGO City es un regalo estrella de Reyes Magos, Navidad o en cualquier ocasión para fans de los vehículos modernos y para niños de 7 años en adelante amantes de los trenes de juguete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¿Serás capaz de descubrirlo? Busca el símbolo idéntico en dos cartas, dilo en voz alta y coge o deja una carta
-- ¡gracias a sus cartas resistentes al agua y su cómoda bolsa de transporte!
 - Ahora con un nuevo diseño que te permitirá alargar las horas de diversión en la playa o en la piscina
+- ¡gracias a sus cartas resistentes al agua y su cómoda bolsa de transporte!
 - Dobble es un juego con más de 50 símbolos y solamente un símbolo idéntico entre cada carta.
+- ¿Serás capaz de descubrirlo? Busca el símbolo idéntico en dos cartas, dilo en voz alta y coge o deja una carta
 - De 2 a 8 jugadores. A partir de 7 años de edad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

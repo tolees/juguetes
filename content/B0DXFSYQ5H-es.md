@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- s un juego que consiste en crear cómics de 3 escenas, empezando por una pregunta, seguida de una respuesta y, finalmente, un tratamiento psicológico.
-- Un juego de cartas en el que tienes que crear cómics muy (des)agradables.
 - Estos pensamientos son imágenes horribles que aparecen en tu mente inesperadamente. En vez de guardarse estas imágenes para sí mismo, decidió transformarlas en un juego de cartas.
+- Un juego de cartas en el que tienes que crear cómics muy (des)agradables.
 - Ganáis 1 punto si vuestro tratamiento es el elegido como la mejor opción para terminar el cómic.
+- s un juego que consiste en crear cómics de 3 escenas, empezando por una pregunta, seguida de una respuesta y, finalmente, un tratamiento psicológico.
 - Este juego ha sido creado por un dibujante de cómics que pasó años en terapia, donde solía sufrir de pensamientos intrusivos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una divertida forma de construir: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción; podrán acercar y girar versiones en 3D de sus modelos a medida que construyen, consultar su progreso y guardar sets
-- 6 minifiguras LEGO: El juego incluye a Zane, Cole, Wyldfyre, Nya, Rogue y Zarkt con armas y una espada reveladora translúcida que ayudará a hacer visible un mapa secreto en la mesa del capitán
+- Maqueta de barco con base de exposición: Tras interpretar historias mediante el juego de rol, los fans de NINJAGO podrán exponer este detallado barco de juguete en un estante o la mesita de noche como decoración del dormitorio juvenil
+- Un universo de juguetes LEGO NINJAGO: Con la extensa colección de juguetes ninja, los peques se transportan a un universo de fantasía y juego imaginativo habitado por sus héroes ninja
 - Regalo para fans de NINJAGO: Este set proporciona una divertida experiencia de construcción y juego, y es una gran idea de regalo para chicos y chicas de 14 años en adelante que hayan crecido viendo su serie favorita LEGO NINJAGO
 - Barco de juguete interactivo: Los adolescentes girarán un mecanismo para mover las velas, quitarán los techos y suelos para acceder al interior del barco de juguete y a un bar de sushi, y plegarán la mesa del camarote para revelar un secreto
-- Un universo de juguetes LEGO NINJAGO: Con la extensa colección de juguetes ninja, los peques se transportan a un universo de fantasía y juego imaginativo habitado por sus héroes ninja
+- 6 minifiguras LEGO: El juego incluye a Zane, Cole, Wyldfyre, Nya, Rogue y Zarkt con armas y una espada reveladora translúcida que ayudará a hacer visible un mapa secreto en la mesa del capitán
 - Juguete NINJAGO para exponer y contar historias: Los fans de los ninja a partir de 14 años podrán recrear la acción de la temporada 3 de la serie para televisión NINJAGO: El Renacer de los Dragones con el juguete Bounty del Templo
-- Maqueta de barco con base de exposición: Tras interpretar historias mediante el juego de rol, los fans de NINJAGO podrán exponer este detallado barco de juguete en un estante o la mesita de noche como decoración del dormitorio juvenil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDDP6HN{{</world>}}

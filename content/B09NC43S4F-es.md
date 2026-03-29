@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Principio de juego refinado
-- El clásico popular ahora con un nuevo atuendo en AMIGO
-- 2-5 jugadores
-- Del equipo de autores exitosos Wolfang Kramer & Michael Kiesling
 - A partir de 10 años
+- El clásico popular ahora con un nuevo atuendo en AMIGO
+- Principio de juego refinado
+- Del equipo de autores exitosos Wolfang Kramer & Michael Kiesling
+- 2-5 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NC43S4F{{</world>}}

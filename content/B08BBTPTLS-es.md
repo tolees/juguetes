@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Más de 500 preguntas. De 2 a 6 jugadores.. +6 años
-- Contiene: 1 tablero de juego, 1 dado, 96 cartas, 6 fichas de Glóbulo Rojo, 60 fichas de "Sistema", 10 fichas de "Virus", 10 fichas de "Anticuerpo"
-- ¡Un gran viaje por el cuerpo humano en compañía de los personajes de la serie Erase una vez… La Vida!
 - Tira el dado y responde las preguntas correspondientes al espacio donde has caído. Si aciertas gana una ficha del Sistema correspondiente a este tema.
+- ¡Un gran viaje por el cuerpo humano en compañía de los personajes de la serie Erase una vez… La Vida!
+- Contiene: 1 tablero de juego, 1 dado, 96 cartas, 6 fichas de Glóbulo Rojo, 60 fichas de "Sistema", 10 fichas de "Virus", 10 fichas de "Anticuerpo"
 - 5 zonas en el tablero de juego= 5 temas: sangre y circulación, el sistema nervioso y los sentidos, respiración, digestión y órganos, huesos y músculos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

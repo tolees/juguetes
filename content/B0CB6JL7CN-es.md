@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 319 bloques y piezas que se combinan con todos los conjuntos de construcción de MEGA y que son compatibles con otras marcas principales
 - Este conjunto para coleccionistas, ideal para mayores de 13 años, está diseñado para constructores adultos que deseen hacer frente a una experiencia de construcción gratificante
-- Tiene un interior fiel al original, ruedas que giran de verdad, un capó que se abre, decoración de coche de carreras y un alerón trasero supergrande
 - Conjunto de construcción de Cadillac ATS-V R para coleccionistas, modelo a escala 1:24 con un coche metálico a juego
+- 319 bloques y piezas que se combinan con todos los conjuntos de construcción de MEGA y que son compatibles con otras marcas principales
+- Tiene un interior fiel al original, ruedas que giran de verdad, un capó que se abre, decoración de coche de carreras y un alerón trasero supergrande
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB6JL7CN{{</world>}}

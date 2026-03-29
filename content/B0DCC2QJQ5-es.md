@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HERRAMIENTAS DE CONSTRUCCIÓN QUE FUNCIONAN: Acopla el taladro percutor o la sierra ingletadora a los cachorros y empújalos hacia abajo para accionar la señal de barrera y la mesa de corte para vivir emocionantes aventuras de construcción
-- INCLUYE: 1 figura de Rubble, 1 figura de Wheeler, 2 herramientas de construcción, 2 accesorios de construcción
-- ¡EQUIPO RUBBLE AL RESCATE: Tanto la figura de Rubble como la del cachorro Wheeler van con su auténtico uniforme de construcción de Rubble & Crew, con detalles tan realistas que parece que los personajes hayan salido de la pantalla
 - JUGUETES PATRULLA CANINA RUBBLE & CREW: ¡Recrea las emocionantes aventuras de la serie Equipo Rubble, tu cachorro favorito, y vive la diversión en casa
+- INCLUYE: 1 figura de Rubble, 1 figura de Wheeler, 2 herramientas de construcción, 2 accesorios de construcción
+- HERRAMIENTAS DE CONSTRUCCIÓN QUE FUNCIONAN: Acopla el taladro percutor o la sierra ingletadora a los cachorros y empújalos hacia abajo para accionar la señal de barrera y la mesa de corte para vivir emocionantes aventuras de construcción
+- ¡EQUIPO RUBBLE AL RESCATE: Tanto la figura de Rubble como la del cachorro Wheeler van con su auténtico uniforme de construcción de Rubble & Crew, con detalles tan realistas que parece que los personajes hayan salido de la pantalla
 - JUGUETES NIÑOS 3 AÑOS +: El pack de construcción de Rubble & Crew es perfecto para los niños a partir de 3 años. Los juguetes Patrulla Canina son tan fáciles de manejar que proporcionarán horas de diversión
 - FIGURAS DE RUBBLE Y WHEELER CON MOTORES PARA UTILIZAR LAS HERRAMIENTAS: El conjunto incluye figuras de juguete de Rubble y Wheeler de más de 5 cm de altura que llevan mochilas con motor para las herramientas integradas que se activan al empujar a los cachorros hacia abajo
 

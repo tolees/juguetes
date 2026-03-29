@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los niños y las niñas a partir de 3 años deslumbrarán a todo el mundo con el Unicornio Galopa y brilla de Barbie.
-- Los niños y las niñas pueden activar 20 combinaciones diferentes de luz y sonido que ofrecen muchas posibilidades distintas de jugar.
-- Presiona uno, dos o tres botones en el unicornio para activar un espectáculo resplandeciente de luces y sonidos a tu gusto.
-- Acaricia la cabeza del unicornio para montar una deslumbrante exhibición de luces, sonidos y música.
-- ¡El Unicornio Galopa y brilla de Barbie deslumbra a todo el mundo con luces, sonidos y música!
 - Los colores de los botones coinciden con las luces rosas, amarillas y azules para que los peques puedan personalizar las combinaciones de colores y hacer su propio espectáculo de luces con este unicornio tan especial.
+- Presiona uno, dos o tres botones en el unicornio para activar un espectáculo resplandeciente de luces y sonidos a tu gusto.
+- ¡El Unicornio Galopa y brilla de Barbie deslumbra a todo el mundo con luces, sonidos y música!
+- Los niños y las niñas pueden activar 20 combinaciones diferentes de luz y sonido que ofrecen muchas posibilidades distintas de jugar.
+- Acaricia la cabeza del unicornio para montar una deslumbrante exhibición de luces, sonidos y música.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMWGCXR3{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fácil de construir
 - Material resistente y duradero
 - Producto apto tanto para jóvenes como adultos
-- Fácil de construir
 - Adecuado para decorar la sala
 
 [🛒 Visítala!!!]({{< param buyurl >}})

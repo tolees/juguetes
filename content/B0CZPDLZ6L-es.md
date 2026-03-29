@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¿Podréis derrocar al antediluviano déspota y restablecer la paz en el mundo, o no seréis dignos de sobrevivir a la Era de Apocalipsis?
+- Esta caja de expansión contiene 271 cartas para Marvel Champions: El juego de cartas que os transportarán a un siniestro futuro gobernado por el malvado Apocalipsis.
 - Para jugar se necesita una caja básica de MARVEL CHAMPIONS.
 - Esta caja contiene mazos completos para dos nuevos héroes: Magik y Bishop
 - ¡La era de Apocalipsis presenta cinco escenarios nuevos conectados entre sí que enfrentan a la Patrulla-X contra su peor y más mortífero enemigo en una batalla a través del tiempo!
-- Esta caja de expansión contiene 271 cartas para Marvel Champions: El juego de cartas que os transportarán a un siniestro futuro gobernado por el malvado Apocalipsis.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPDLZ6L{{</world>}}

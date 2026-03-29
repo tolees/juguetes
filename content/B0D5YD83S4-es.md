@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VUELVE ENIGMA COMO PERSONAJE ULTRARARO – Enigma regresa como el ultrararo más buscado, ¡pero esta vez tiene efecto cristal y “glitter”!
 - + 80 NUEVOS PERSONAJES PARA COLECCIONAR – ¡Los SuperThings vuelven con más energía que nunca! Con la nueva serie de TV en Clan “Kazoom Power” llegan 80+ figuras para coleccionar, incluidos 5 personajes clásicos con un nuevo diseño
 - CADA SUPERTHING TIENE SU RIVAL – Cada figura coleccionable tiene su rival. Cada SuperThing tiene un superpoder que lo hace único y súper original. ¡Busca las parejas rivales!
 - DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que se convierten en héroes y villanos, y viven en Kaboom City. Encuentra el rival de cada uno ¡y vive tu súper aventura! Puedes descubrir o seguir las aventuras de estas figuras en la nueva serie de TV en Clan y en el canal de YouTube de Magicbox en español
+- VUELVE ENIGMA COMO PERSONAJE ULTRARARO – Enigma regresa como el ultrararo más buscado, ¡pero esta vez tiene efecto cristal y “glitter”!
 - ENCUENTRA LAS FIGURAS EXCLUSIVAS – Descubre también los nuevos capitanes plateados y los SuperLideres dorados, y enfrenta a héroes y villanos en esta nueva batalla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
