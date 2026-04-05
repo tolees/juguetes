@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ️♀️ BIENVENIDO A CRIME CITY: Un mapa gigante de la ciudad, una lupa y mapas para guiarlo en sus investigaciones. En este juego cooperativo, juega como detectives y resuelve investigaciones juntas. No es el trabajo lo que falta, el crimen merodea por todos los rincones de la calle.
-- 1 a 4 jugadores。 10 años o más 16 encuestas para resolver (10 a 30 minutos por encuesta aproximadamente)
-- 👉 SU OBJETIVO: Cada encuesta toma la forma de una serie de mapas, cada una con un acertijo que resolver, para avanzar en la investigación y descubrir todos los elementos: ¿cuál es el arma? ¿El autor? ¿El móvil? Tendrá que responder todas sus preguntas explorando un mapa gigante de la ciudad.
 - NUEVO ÁREO, NUEVAS ENCUESTAS: Full House es la segunda entrega de la serie MicroMacro. Ven a descubrir una nueva parte de la ciudad, con sus 16 investigaciones inéditas para realizar. Este juego es independiente del primer tomo: ¡no es necesario poseer o haber jugado los episodios anteriores para lanzarte en estos nuevos negocios!
 - 🏆EL CÉSAR Y EL OSCAR DEL JUEGO DE SOCIEDAD: el primer título de la colección Micro-Macro ha ganado los dos premios más prestigiosos de los juegos de mesa, el As de oro que premia al mejor juego en Francia y el Spiel des Jahres su equivalente en Alemania. Este último es la mejor distinción a nivel mundial.
+- 1 a 4 jugadores。 10 años o más 16 encuestas para resolver (10 a 30 minutos por encuesta aproximadamente)
+- ️♀️ BIENVENIDO A CRIME CITY: Un mapa gigante de la ciudad, una lupa y mapas para guiarlo en sus investigaciones. En este juego cooperativo, juega como detectives y resuelve investigaciones juntas. No es el trabajo lo que falta, el crimen merodea por todos los rincones de la calle.
+- 👉 SU OBJETIVO: Cada encuesta toma la forma de una serie de mapas, cada una con un acertijo que resolver, para avanzar en la investigación y descubrir todos los elementos: ¿cuál es el arma? ¿El autor? ¿El móvil? Tendrá que responder todas sus preguntas explorando un mapa gigante de la ciudad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B42MCXQ{{</world>}}

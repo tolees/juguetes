@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Encajando las distintas piezas, los niños descubrirán cada una de las letras del abecedario, tanto en mayúsculas como en minúsculas
-- Divertido juego de asociación para iniciarse en el conocimiento de las letras
-- Encajando las distintas piezas, los niños descubrirán cada una de las letras del abecedario, tanto en mayúsculas como en minúsculas.
-- Para que los niños aprendan de una forma divertida el alfabeto.
-- Para que los niños aprendan de una forma divertida
-- Divertido juego de asociación para iniciarse en el conocimiento de las letras.
-- Contiene: 81 piezas.
 - Recomendado a partir de 4 años
+- Para que los niños aprendan de una forma divertida el alfabeto.
+- Encajando las distintas piezas, los niños descubrirán cada una de las letras del abecedario, tanto en mayúsculas como en minúsculas
+- Encajando las distintas piezas, los niños descubrirán cada una de las letras del abecedario, tanto en mayúsculas como en minúsculas.
+- Para que los niños aprendan de una forma divertida
+- Contiene: 81 piezas.
+- Divertido juego de asociación para iniciarse en el conocimiento de las letras
+- Divertido juego de asociación para iniciarse en el conocimiento de las letras.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BHAHCG2{{</world>}}

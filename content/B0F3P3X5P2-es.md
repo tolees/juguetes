@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sandisk Micro SD Express Card for Nintendo Switch 2'
-date: 2026-04-01 22:25:32
+date: 2026-04-04 06:00:41
 image: 'https://m.media-amazon.com/images/I/41IXa5r7TFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F3P3X5P2/?tag=tolees-21'
 descuento: '16.61'
-average: '50.55125'
+average: '50.4888888888889'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

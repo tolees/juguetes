@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refina tu ataque y fortalece tu defensa. ¡Mira, planifica y evalúa tus opciones en cada movimiento!
+- Abalone Go es la versión de viaje del juego de estrategia abstracto y competitivo Abalone
 - Un divertido juego de mesa altamente competitivo de estrategia y planificación
 - El objetivo es empujar seis canicas opuestas en los canales a lo largo del borde del tablón
+- Refina tu ataque y fortalece tu defensa. ¡Mira, planifica y evalúa tus opciones en cada movimiento!
 - Dos jugadores se enfrentan en un tablón hexagonal con dos banderas de canicas blancas y negras
-- Abalone Go es la versión de viaje del juego de estrategia abstracto y competitivo Abalone
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXDR7B7G{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo para niños de 6 años o más: Este juguete de aventuras proporciona una divertida experiencia de construcción y juego, y es idóneo como regalo para niños y niñas a partir de 6 años fans de la serie El renacer de los dragones
-- Juguete NINJAGO: Los niños y las niñas a partir de 6 años podrán interpretar las escenas de carreras y de combate de la temporada 3 de la serie para televisión NINJAGO: El Renacer de los Dragones con el juego Carrera Relámpago en Moto de Kai
 - Armas ninja: Kai está armado con una espada reveladora translúcida y 2 catanas doradas de juguete, y el explorador Dragónido Espectral lleva una espada
-- 2 motos ninja de juguete con ruedas móviles: Este emocionante set de combate incluye la moto de carreras de Kai, adornada con 2 dagas, y la endiablada moto del explorador Dragónido Espectral
-- Un universo de juguetes LEGO NINJAGO: Con la extensa colección de juguetes ninja, los peques se transportan a un universo de fantasía y juego imaginativo habitado por sus héroes ninja
 - 2 minifiguras LEGO NINJAGO: Para interpretar aventuras pilotando las motos de juguete, el set cuenta con el guerrero ninja Kai y con el infame explorador Dragónido Espectral
+- 2 motos ninja de juguete con ruedas móviles: Este emocionante set de combate incluye la moto de carreras de Kai, adornada con 2 dagas, y la endiablada moto del explorador Dragónido Espectral
+- Juguete NINJAGO: Los niños y las niñas a partir de 6 años podrán interpretar las escenas de carreras y de combate de la temporada 3 de la serie para televisión NINJAGO: El Renacer de los Dragones con el juego Carrera Relámpago en Moto de Kai
+- Regalo para niños de 6 años o más: Este juguete de aventuras proporciona una divertida experiencia de construcción y juego, y es idóneo como regalo para niños y niñas a partir de 6 años fans de la serie El renacer de los dragones
+- Un universo de juguetes LEGO NINJAGO: Con la extensa colección de juguetes ninja, los peques se transportan a un universo de fantasía y juego imaginativo habitado por sus héroes ninja
 - Amplía las aventuras ninja: Explora más juguetes LEGO NINJAGO (sets a la venta por separado) con dragones, mecas y vehículos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

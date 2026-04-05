@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO EN COMPETICIÓN: Los jugadores son eliminados cuando no pueden desactivar un gato explosivo. El último jugador que queda es declarado ganador del juego.
 - JUEGO PARA VARIOS: Este juego permite reunir a varias personas, de 2 a 5 jugadores. Podrás pasar buenas veladas en familia o con amigos. Apto para niños a partir de 7 años.
 - JUEGO INMERSIVO: El juego gira en torno a un mazo de cartas, que incluye «gatos explosivos» ocultos en su interior. Si un jugador roba una carta de gato explosivo, queda eliminado del juego a menos que tenga una carta de desactivador para salvarse.
+- JUEGO EN COMPETICIÓN: Los jugadores son eliminados cuando no pueden desactivar un gato explosivo. El último jugador que queda es declarado ganador del juego.
 - JUEGO DE CARTAS: Exploding Kittens, el juego básico es un juego de cartas estratégico y humorístico diseñado para 2 a 5 jugadores. El objetivo es evitar a los gatos explosivos mientras se intenta sabotear a los oponentes.
 - JUEGO DE ESTRATEGIA: Los jugadores pueden usar varias cartas de acción para desactivar gatos, saltar torres, robar cartas a sus oponentes, lo que añade una dimensión estratégica e impredecible al juego.
 

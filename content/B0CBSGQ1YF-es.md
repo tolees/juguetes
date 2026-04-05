@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EL JUEGO IDEAL PARA FIESTAS Y REUNIONES: Ya sea en familia o con amigos, Cluedo Grab & Go asegura partidas dinámicas y llenas de emoción, convirtiéndose en uno de los juegos familiares imprescindibles para compartir momentos únicos de diversión en cualquier estación.
-- DIVERSIÓN QUE CABE EN UNA MOCHILA: Diseñado para 3 a 6 jugadores a partir de 8 años, este juego de mesa portátil es perfecto para viajes, escapadas familiares o tardes con amigos, transformando cualquier espacio en un auténtico escenario detectivesco.
 - UN TABLERO CLÁSICO PARA NIÑOS Y NIÑAS EN MINIATURA: Con habitaciones, armas y personajes reconocibles, esta edición mantiene la esencia del conocido juego de mesa mientras ofrece la comodidad de un diseño fácil de montar, guardar y llevar siempre contigo.
+- DIVERSIÓN QUE CABE EN UNA MOCHILA: Diseñado para 3 a 6 jugadores a partir de 8 años, este juego de mesa portátil es perfecto para viajes, escapadas familiares o tardes con amigos, transformando cualquier espacio en un auténtico escenario detectivesco.
 - INCLUYE TODO LO NECESARIO EN VERSIÓN COMPACTA: Incluye tablero plegable, 6 peones de colores, 2 dados, cartas de personajes, armas y habitaciones, además de libretas de detective, garantizando partidas completas de misterio en un práctico formato de viaje.
+- EL JUEGO IDEAL PARA FIESTAS Y REUNIONES: Ya sea en familia o con amigos, Cluedo Grab & Go asegura partidas dinámicas y llenas de emoción, convirtiéndose en uno de los juegos familiares imprescindibles para compartir momentos únicos de diversión en cualquier estación.
 - VIVE EL MISTERIO EN FORMATO PORTÁTIL: Esta edición Cluedo Grab & Go convierte el clásico juego de mesa en una experiencia compacta llena de intriga y estrategia, ideal para quienes aman los juegos de detectives y buscan diversión en cualquier lugar del mundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

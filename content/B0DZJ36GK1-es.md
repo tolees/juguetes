@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Necesitas una copia básica de HEAT para poder jugar
-- Participa en la temporada de 1965 con tu nuevo Alerón delantero y sé el primer piloto en cruzar la línea de meta
+- Heat Visión de Túnel traslada la competición a dos nuevos circuitos de carreras; el Gran Premio de España está plagado de túneles traicioneros cuya oscuridad te obligará a confiar más en tus instintos que en tu pericia al volante
 - El trazado del Circuito de los Países Bajos permite acelerar a tope antes de entrar en un entramado de curvas peligrosas
 - Esta expansión también incluye los componentes necesarios para jugar con un piloto adicional
-- Heat Visión de Túnel traslada la competición a dos nuevos circuitos de carreras; el Gran Premio de España está plagado de túneles traicioneros cuya oscuridad te obligará a confiar más en tus instintos que en tu pericia al volante
+- Necesitas una copia básica de HEAT para poder jugar
+- Participa en la temporada de 1965 con tu nuevo Alerón delantero y sé el primer piloto en cruzar la línea de meta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZJ36GK1{{</world>}}

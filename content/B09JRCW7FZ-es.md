@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Juego para toda la familia, en pareja o solo: para 1 – 4 jugadores a partir de 7 años
+- Con aplicación opcional de explicación gratuita KOSMOS. Se puede jugar con y sin aplicación
+- 2 niveles de dificultad para un fácil inicio y diversión duradera
 - El clásico en práctico diseño pequeño ideal para llevar, regalar o para viajes
 - Promueve el pensamiento lógico lúdico
 - Reglas muy simples: se construye rápidamente. Comienza rápidamente
-- 2 niveles de dificultad para un fácil inicio y diversión duradera
-- Con aplicación opcional de explicación gratuita KOSMOS. Se puede jugar con y sin aplicación
-- Juego para toda la familia, en pareja o solo: para 1 – 4 jugadores a partir de 7 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09JRCW7FZ{{</world>}}

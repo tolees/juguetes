@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TABLLÓN DELANTERO-RETRO Y MÁS DE 100 COMPONENTES: explora un tablero de doble cara que cambia a medida que te adentras en el mundo, acompañado de 67 perfiles de color, 102 cartas de juego bellamente ilustradas y mucho más
 - UNA AVENTURA FANTASY INMERSIVA: en este juego independiente, asumes el papel de Zargon, el Maestro del juego, o uno de los míticos héroes que se alian para luchar contra los monstruos y completar hazañas para derrotar a las malvadas fuerzas de Zargon
-- TODO LO QUE NECESITAS PARA COMENZAR A JUGAR: diseñado para aficionados y nuevos jugadores, el Sistema de juego HeroQuest La primera luz incluye 10 hazañas únicas, más de 100 piezas y un reglamento para principiantes para entrar inmediatamente en el vivo del juego
-- COMPANION APP GRATUITA: la aplicación puede ser el Maestro del juego virtual, Zargon, permitiendo a los jugadores ser héroes o jugar en solitario. Escanea el código en la caja para descargarlo (solo Companion App, necesitas tener el Sistema de Juego Base HeroQuest).
-- DETALLADAS MINIATURAS DE 4 HÉROES Y DRAGONES: este juego de estrategia semicooperativo presenta por primera vez la miniatura de un dragón altamente detallada! También contiene 4 miniaturas de los héroes míticos, rediseñadas para esta edición
-- COMPATIBLE CON LAS EXPANSIONES DE HEROQUEST: épica adición a una colección HeroQuest, el juego de mesa estratégico para adultos y adolescentes es compatible con todos los paquetes de expansión HeroQuest y con las 10 empresas originales de HeroQuest 2021
+- TABLLÓN DELANTERO-RETRO Y MÁS DE 100 COMPONENTES: explora un tablero de doble cara que cambia a medida que te adentras en el mundo, acompañado de 67 perfiles de color, 102 cartas de juego bellamente ilustradas y mucho más
 - 10 EMOCIONANTES EMPRESAS: el juego presenta 10 nuevas empresas, escritas por el diseñador original del juego, Stephen Baker. También puedes inventar historias y negocios completamente personalizados para que nunca dejes de jugar
+- COMPANION APP GRATUITA: la aplicación puede ser el Maestro del juego virtual, Zargon, permitiendo a los jugadores ser héroes o jugar en solitario. Escanea el código en la caja para descargarlo (solo Companion App, necesitas tener el Sistema de Juego Base HeroQuest).
+- COMPATIBLE CON LAS EXPANSIONES DE HEROQUEST: épica adición a una colección HeroQuest, el juego de mesa estratégico para adultos y adolescentes es compatible con todos los paquetes de expansión HeroQuest y con las 10 empresas originales de HeroQuest 2021
+- TODO LO QUE NECESITAS PARA COMENZAR A JUGAR: diseñado para aficionados y nuevos jugadores, el Sistema de juego HeroQuest La primera luz incluye 10 hazañas únicas, más de 100 piezas y un reglamento para principiantes para entrar inmediatamente en el vivo del juego
+- DETALLADAS MINIATURAS DE 4 HÉROES Y DRAGONES: este juego de estrategia semicooperativo presenta por primera vez la miniatura de un dragón altamente detallada! También contiene 4 miniaturas de los héroes míticos, rediseñadas para esta edición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJC3YBH1{{</world>}}

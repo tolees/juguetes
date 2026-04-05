@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- NUEVAS MECÁNICAS DE JUEGO: Contiene 110 cartas de Vagón, 54 cartas de Festival y componentes exclusivos para Corea del Sur como 15 cartas de Tren Expreso y 1 tapete de Provincias, proporcionando más profundidad a las partidas y rejugabilidad.
+- EXPLORA DOS CULTURAS: Viaja por la Península Ibérica y Corea del Sur con mapas exclusivos. Incluye reglas y billetes de destino para una experiencia de juego diferente y emocionante.
 - REQUIERE JUEGO BASE: Necesita una caja básica de ¡Aventureros al Tren! o ¡Aventureros al Tren! Europa para poder jugar. Esta expansión no es un juego independiente.
 - ESTRATEGIA Y DIVERSIÓN: Amplía tu red ferroviaria y supera a tus oponentes. Utiliza las cartas de Festival y Tren Expreso para ganar ventajas y asegurar las rutas más valiosas.
 - IDEAL PARA FAMILIAS Y AMIGOS: Perfecto para 2-5 jugadores y recomendado para mayores de 8 años. Cada partida dura aproximadamente 30 minutos, ideal para tardes de juegos en casa.
-- EXPLORA DOS CULTURAS: Viaja por la Península Ibérica y Corea del Sur con mapas exclusivos. Incluye reglas y billetes de destino para una experiencia de juego diferente y emocionante.
-- NUEVAS MECÁNICAS DE JUEGO: Contiene 110 cartas de Vagón, 54 cartas de Festival y componentes exclusivos para Corea del Sur como 15 cartas de Tren Expreso y 1 tapete de Provincias, proporcionando más profundidad a las partidas y rejugabilidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2LNSPXR{{</world>}}

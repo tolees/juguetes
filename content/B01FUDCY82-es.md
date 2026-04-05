@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Versión española
-- Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
 - El juego oficial del concurso de televisión "Boom"
-- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
+- Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
 - Sólo el ganador podrá enfrentarse al reto de la fase final: La Bomba Oro
+- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
+- Versión española
 - En Boom, participan dos equipos enfrentándose ante las Bombas Negras y la Bomba Plata
 
 [🛒 Visítala!!!]({{< param buyurl >}})

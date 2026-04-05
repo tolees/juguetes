@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de 6 años
-- Juego cooperativo en el que toda la familia juega unida para ganar
 - Idiomas: español, catalán y portugués
-- De 2 a 5 jugadores
-- Los jugadores utilizan la memoria para alcanzar el objetivo principal
 - Dificultad regulable de las partidas
+- Juego cooperativo en el que toda la familia juega unida para ganar
+- De 2 a 5 jugadores
+- A partir de 6 años
+- Los jugadores utilizan la memoria para alcanzar el objetivo principal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071HSFCPW{{</world>}}

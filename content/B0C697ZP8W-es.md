@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El peluche del Maestro Yoda en la versión de la serie animada "Aventuras de los Jóvenes Jedi" perfecta para los nuevos y antiguos aficionados a la saga de Star Wars
 - Nubs va vestido con su clásica túnica de Jedi
+- El peluche del Maestro Yoda en la versión de la serie animada "Aventuras de los Jóvenes Jedi" perfecta para los nuevos y antiguos aficionados a la saga de Star Wars
 - Apto para todas las edades
 - En Simba Toys subimos de nivel con los peluches Disney. Con el Maestro Yoda y Nubs de la serie jóvenes Jedi los querrás coleccionar todos
 - El tamaño del peluche es perfecto para poder jugar con él o usarlo como decoración

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sencillo, rápido y divertido: ¡Dobble es el juego definitivo de observación y velocidad!
 - 55 cartas, con uno, y solamente un símbolo idéntico entre cada carta. ¿Serás capaz de descubrirlo?
 - Encuentra antes que nadie el único símbolo idéntico entre 2 cartas para ganar una carta o librarte de ella.
-- Dobble contiene varios minijuegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez.
 - Encuentra los personajes y objetos más emblemáticos del famoso videojuego Super Mario en 55 cartas ilustradas.
+- Dobble contiene varios minijuegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez.
+- Sencillo, rápido y divertido: ¡Dobble es el juego definitivo de observación y velocidad!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1GNZSHJ{{</world>}}

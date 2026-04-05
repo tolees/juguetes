@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【±3% Precisión】 Cada llave dinamométrica bicicleta se envía precalibrada y probada para garantizar su precisión según los requisitos de ISO 6789, GB/T15729 y ASME B107.14M. Nota: En configuraciones de torque bajas por debajo de 5 Nm, el sonido de clic puede ser sutil, mientras que en configuraciones entre 5 y 25 Nm, el clic será más pronunciado.
-- 【Amplia aplicación】Esta llave dinamométrica de 1-25 NM se puede utilizar en muchas aplicaciones. Es adecuada para reparar varias partes de una bicicleta, incluidos pernos, tuercas, componentes roscados, manubrios, cuadros, frenos y descarriladores.
 - 【Microajustes de 0,1 Nm】Esta llave dinamométrica, con un rango de 1 a 25 Nm y microajustes en incrementos de 0,1 Nm, ofrece lecturas rápidas y precisas. Con un peso de tan solo 390 g, combina ligereza con gran resistencia, lo que la hace ideal para tareas de precisión en electrónica, bicicletas y maquinaria ligera que requieren niveles de par más bajos.
 - 【Fácil de usar】Para configurar el valor de torsión, tire hacia abajo y sostenga la perilla de bloqueo, luego ajuste al valor deseado. Suelte la perilla para bloquear el ajuste de torsión. Cuando no esté en uso, configure la llave de torsión al valor mínimo para mantener la llave dinamométrica de la bicicleta.
+- 【Amplia aplicación】Esta llave dinamométrica de 1-25 NM se puede utilizar en muchas aplicaciones. Es adecuada para reparar varias partes de una bicicleta, incluidos pernos, tuercas, componentes roscados, manubrios, cuadros, frenos y descarriladores.
 - 【Duradero】La cabeza de la llave dinamométrica 1/4 está hecha de aleación de cromo-molibdeno, el cuerpo y el mango están hechos de aluminio de aviación 6061 que ofrece una excelente resistencia a la fatiga, lo que permite un uso más preciso y consistente en comparación con los materiales tradicionales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

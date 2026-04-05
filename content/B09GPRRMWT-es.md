@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un emocionante juego de estrategia en el que duendes, elfos, hadas, gnomos y humanos son los protagonistas de cada jugada.
-- El reino del Rey de los Dados es próspero y ha crecido, pero necesita conquistar más tierras porque cada vez hay menos espacio. Con la ayuda de los dados debemos hacernos con las mejores espacios al tiempo que recolectamos piedras preciosas
-- Los dados, las llamas de dragón y los marcadores están hechos de madera de haya sostenible con pintura al agua, no tóxica. Made in Germany
 - Se juega por turnos que constan de 3 fases: lanzar el dado, comprobar el resultar y emplear carta de habitantes o coger y guardar una carta. La partida termina cuando se han ocupado todas las casillas del tablero excepto dos.
 - Adaptación de El Rey de los Dados de HABA, a juego juvenil de mesa, de táctica, para 2 a 4 jugadores/as, a partir de 8 años
+- Un emocionante juego de estrategia en el que duendes, elfos, hadas, gnomos y humanos son los protagonistas de cada jugada.
+- Los dados, las llamas de dragón y los marcadores están hechos de madera de haya sostenible con pintura al agua, no tóxica. Made in Germany
+- El reino del Rey de los Dados es próspero y ha crecido, pero necesita conquistar más tierras porque cada vez hay menos espacio. Con la ayuda de los dados debemos hacernos con las mejores espacios al tiempo que recolectamos piedras preciosas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GPRRMWT{{</world>}}

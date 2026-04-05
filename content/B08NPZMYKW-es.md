@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un retraso imprevisto: estás encerrado en las celdas de un destructor imperial y debes encontrar una salida y evadir el imperio
-- Tres aventuras de 60 minutos en la galaxia de star wars
-- Misión secreta en jedha: un criminal ha robado un valioso artefacto y se ha estrellado en el planeta desértico jedah; tráelo de vuelta y; sin desintegraciones, por favor
 - Huida de hoth: las fuerzas del imperio están atacando la base rebelde de hoth; huye a través de las heladas estepas y escapa de este planeta condenado
+- Misión secreta en jedha: un criminal ha robado un valioso artefacto y se ha estrellado en el planeta desértico jedah; tráelo de vuelta y; sin desintegraciones, por favor
+- Tres aventuras de 60 minutos en la galaxia de star wars
+- Un retraso imprevisto: estás encerrado en las celdas de un destructor imperial y debes encontrar una salida y evadir el imperio
 - De 1 a 6 jugadores a partir de 10 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

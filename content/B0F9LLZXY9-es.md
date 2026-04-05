@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Mucho cuidado o saltará por los aires!
 - Podéis jugar también en pareja y por grupos
-- Intenta hacerle cosquillitas en los pies sin que se dé cuenta, de lo contrario serás eliminado de la partida. ¿Estáis listos?
-- El abuelo está tranquilo leyendo en su sofá… ¿quién perturba su paz?
 - Las risas están aseguradas con este juego de acción con el que literalmente, saltarán por los aires.
+- ¡Mucho cuidado o saltará por los aires!
+- El abuelo está tranquilo leyendo en su sofá… ¿quién perturba su paz?
+- Intenta hacerle cosquillitas en los pies sin que se dé cuenta, de lo contrario serás eliminado de la partida. ¿Estáis listos?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9LLZXY9{{</world>}}

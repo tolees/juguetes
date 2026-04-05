@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye cartas especiales de tiburón, que si aparecen debéis ser los más rápidos en aplastar el tiburón de espuma del centro.
-- Si te equivocas regalas una de tus cartas ganadas a quien tenga menos cartas. Gana quien consigue más cartas al final de la partida.
 - Todos los juegos FlexiQ potencia tu adaptabilidad y flexibilidad al incorporant un elemento que hace cambiar la dinámica básica del juego
-- Se reparten todas las cartas de forma equitativa entre los jugadores quienes irán destapándolas por turnos, sobre la mesa. En cuanto aparezca una combinación correcta debéis ser los más rápidos en tocar el animal adecuado.
+- Si te equivocas regalas una de tus cartas ganadas a quien tenga menos cartas. Gana quien consigue más cartas al final de la partida.
 - Juego infantil de mesa de observación y reacción para 2-6 jugadores/a, a partir de 6 años.
+- Incluye cartas especiales de tiburón, que si aparecen debéis ser los más rápidos en aplastar el tiburón de espuma del centro.
+- Se reparten todas las cartas de forma equitativa entre los jugadores quienes irán destapándolas por turnos, sobre la mesa. En cuanto aparezca una combinación correcta debéis ser los más rápidos en tocar el animal adecuado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FRG121K3{{</world>}}

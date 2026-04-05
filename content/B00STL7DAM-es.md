@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Marca los disparos con las clavijas rojas y blancas
 - Lleva a tu flota hacia la victoria mientras viajas con este juego compacto de hundir la flota de viaje
-- Cada unidad de juego se abre para bloquear la vista de tu adversario
 - Hundir la flota versión viaje
 - Incluye dos portaaviones, dos destructores, dos cruceros, dos submarinos y dos acorazados
+- Cada unidad de juego se abre para bloquear la vista de tu adversario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00STL7DAM{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Joy-Con (set de dos) Rosa
 - Par de mandos Joy-Con, derecho e izquierdo, con dos correas de los mandos Joy-Con (grises)
+- Joy-Con (set de dos) Rosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CT3WCTCH{{</world>}}

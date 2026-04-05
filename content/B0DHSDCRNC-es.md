@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3 en 1 Lindo Conejito - Conejo de Pascua de Juguete Transformable en Figura de Foca y Llama - Juego con Animales - Regalo para Niñas y Niños de 8+ Años 31162'
-date: 2026-04-01 22:35:30
+date: 2026-04-05 05:12:37
 image: 'https://m.media-amazon.com/images/I/51kVh7xyVBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSDCRNC/?tag=tolees-21'
 descuento: '30.02'
-average: '14.99'
+average: '14.39'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Investigación entre secretos y mentiras: Analizad declaraciones de los miembros de la familia, coartadas que no encajan, mensajes ocultos y documentos privados. Llamad por teléfono e investigad online para descubrir quién miente.​
-- Sin app e inmersivo: Material físico de alta calidad combinado con pistas digitales. No se destruye nada, el caso puede rejugarse con otros grupos.​
-- Ideal para noches de misterio en casa: 1,5-2,5 horas de juego, 1-6 jugadores (+14 años). Perfecto para parejas detectives, amigos fans del true crime o familias con adolescentes.​
 - Fiesta familiar que acaba en tragedia: Una celebración aparentemente perfecta en la familia Regio termina con una muerte inesperada. Todo apunta a que el asesino está dentro de la propia familia.​
 - En español, un regalo perfecto: Para amantes de los crímenes familiares, las series de investigación y los juegos tipo escape room. Ideal para cumpleaños, cenas con amigos, Navidad o noches temáticas. ¡Cómpralo YA!
+- Ideal para noches de misterio en casa: 1,5-2,5 horas de juego, 1-6 jugadores (+14 años). Perfecto para parejas detectives, amigos fans del true crime o familias con adolescentes.​
+- Sin app e inmersivo: Material físico de alta calidad combinado con pistas digitales. No se destruye nada, el caso puede rejugarse con otros grupos.​
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK248ZCZ{{</world>}}

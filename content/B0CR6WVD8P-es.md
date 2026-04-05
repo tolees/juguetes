@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Coloca la llave metálica de Darth Vader en la plataforma de activación para revelar el cañón y pulsa el botón para lanzar proyectiles
-- Gira la llave con forma de personaje en la plataforma de activación para apuntar con el cañón y defenderte de los ataques de los rebeldes
 - Incluye un cañón de juguete, una llave metálica con forma de Darth Vader y tres proyectiles
+- Gira la llave con forma de personaje en la plataforma de activación para apuntar con el cañón y defenderte de los ataques de los rebeldes
 - Ayuda a desarrollar la creatividad en el juego y anima a contar historias a niños y niñas a partir de 3 años
 - Los niños y las niñas pueden imaginarse historias de STAR WARS llenas de acción con esta llave metálica con la forma de Darth Vader y el cañón de juguete de la Estrella de la Muerte, que lanza proyectiles
 

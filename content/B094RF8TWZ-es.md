@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Edad: juguete recomendado a partir de 4 años
-- Incluye: 1 mesita luminosa, 1 carpeta, pegatinas, estampados, plantillas, patrones, 1 bolsita de purpurina plateada, brillantes adhesivos plateados, cinta rosa, 4 rotuladores de colores, 1 muñeca Barbie y manual creativo de instrucciones
+- Diseña una colección de ropa completa con el taller de moda de Barbie
 - Valores: desarrolla la motricidad fina, la coordinación ojo-mano, estimula la la creatividad y la expresión artística y promueve la autoconfianza y la autoestima
 - Cómo jugar: elige las plantillas y los patrones de ropa, calca las prendas en la mesita luminosa, recórtalas y decóralas con los accesorios incluidos
-- Diseña una colección de ropa completa con el taller de moda de Barbie
+- Incluye: 1 mesita luminosa, 1 carpeta, pegatinas, estampados, plantillas, patrones, 1 bolsita de purpurina plateada, brillantes adhesivos plateados, cinta rosa, 4 rotuladores de colores, 1 muñeca Barbie y manual creativo de instrucciones
+- Edad: juguete recomendado a partir de 4 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094RF8TWZ{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca Lisciani
-- Tarjetas gruesas, piezas de autocorrección, cartón muy resistente
 - Forma los 6.puzzles de animales del bosque
+- De la marca Lisciani
 - Manualidades finas y coordinación ojo-mano, creatividad y fantasía, curiosidad y capacidad de observación, descodificación de imágenes
+- Tarjetas gruesas, piezas de autocorrección, cartón muy resistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0843QVRCY{{</world>}}

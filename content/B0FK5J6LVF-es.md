@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Luchad por cada trabajo para hacerlo mejor que los otros.
 - La carta de trabajo te dice qué es lo que debes hacer.
 - Tú y tus amigos sois gigantes que trabajáis para empresas de mudanzas rivales.
+- Luchad por cada trabajo para hacerlo mejor que los otros.
 - ¿TU TRABAJO?: Entregar a toda prisa los pequeños muebles usando solo tus dedos meñiques.
 - ¡NO DEJES CAER NADA!
 

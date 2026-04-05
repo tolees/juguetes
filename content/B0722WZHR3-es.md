@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuando 2 jugadores han descubierto una carta con símbolos idénticos (el color no importa), tendrá lugar un duelo. El primero de los dos que consiga atrapar el Tótem ganará el duelo.
-- Dimensiones del producto: 13 x 6 x 14 cm
 - Edad mínima recomendada: 6 años
+- Dimensiones del producto: 13 x 6 x 14 cm
 - y después la tapan en el turno siguiente con otra carta, formando así su mazo de descartes.
+- Cuando 2 jugadores han descubierto una carta con símbolos idénticos (el color no importa), tendrá lugar un duelo. El primero de los dos que consiga atrapar el Tótem ganará el duelo.
 - El objetivo del juego es conseguir deshacerte lo más rápido posible de todas tus cartas. Para ello, los jugadores revelan una carta de su reserva y la colocan delante de ellos, por turnos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

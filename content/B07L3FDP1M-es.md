@@ -29,15 +29,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Auriculares, cable USB y correa incluidos
-- Existe versión azul de este artículo
 - Cámara infantil 10 en 1 con pantalla táctil y Zoom x4
-- 10 funciones incluidas: Doble objetivo, vídeo, reproductor de música, juegos, retoque de fotos, grabadora de voz, crea animaciones, foto panorámica, calculadora y detector de caras
 - Incorpora auriculares para escuchar música al mismo tiempo que juega, fotografía o reproduce vídeos
 - Multilingüe: español, inglés, francés, alemán y holandés
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Versión española
+- 10 funciones incluidas: Doble objetivo, vídeo, reproductor de música, juegos, retoque de fotos, grabadora de voz, crea animaciones, foto panorámica, calculadora y detector de caras
 - Posibilidad de ampliar la memoria con tarjeta microSD (no incluida)
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 - Micrófono integrado para grabar la voz y deformarla con diferentes y divertidos efectos
+- Versión española
+- Existe versión azul de este artículo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07L3FDP1M{{</world>}}

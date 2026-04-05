@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuatro investigadores se unen al juego, junto con los Artefactos, Hechizos y Apoyos que los ayudarán en su lucha por salvar el mundo
 - Se necesita una copia del juego base de Eldritch Horror
+- Una oleada de locura recorre el planeta
 - Carcosa ha llegado a la Tierra
 - Esta expansión incluye a Hastur, un terrible Primigenio, además de Encuentros, cartas de Mitos y cartas de Preludio
-- Una oleada de locura recorre el planeta
-- Cuatro investigadores se unen al juego, junto con los Artefactos, Hechizos y Apoyos que los ayudarán en su lucha por salvar el mundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MXJF0IE{{</world>}}

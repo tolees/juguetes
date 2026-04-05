@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Adéntrate en Mini BarbieLand con estos conjuntos de vehículos de Barbie y disfruta imaginando a lo grande y soñando en miniatura!
-- Con un accesorio independiente de una señal de tráfico de Barbie Way y un buzón, podrás disfrutar imaginando un sinfín de historias mientras recorres Mini BarbieLand en tu coche.
-- Utiliza agua fría para cambiar el color del vehículo y agua templada para devolverlo a su color original. ¡Podrás repetir este proceso tantas veces como quieras!
-- La muñeca Barbie también cuenta con una base en forma de corazón que encaja en los conjuntos Mini BarbieLand para jugar con ella y exponerla (los conjuntos se venden por separado).
 - Este conjunto incluye una recreación a pequeña escala del icónico descapotable de Barbie con una muñeca de 3,81cm, una señal de tráfico y un sorprendente cambio de color.
-- Los fans pueden coleccionar todas las muñecas, los vehículos y los conjuntos Mini BarbieLand para viajar por sus propios mundos en miniatura e imaginar grandes historias (se venden por separado y están sujetos a disponibilidad).
+- Utiliza agua fría para cambiar el color del vehículo y agua templada para devolverlo a su color original. ¡Podrás repetir este proceso tantas veces como quieras!
+- Con un accesorio independiente de una señal de tráfico de Barbie Way y un buzón, podrás disfrutar imaginando un sinfín de historias mientras recorres Mini BarbieLand en tu coche.
 - Dobla la muñeca para sentarla en el asiento del conductor y empuja el vehículo para hacer girar sus ruedas y salir de viaje. ¡El coche tiene espacio para dos muñecas!
+- La muñeca Barbie también cuenta con una base en forma de corazón que encaja en los conjuntos Mini BarbieLand para jugar con ella y exponerla (los conjuntos se venden por separado).
+- Los fans pueden coleccionar todas las muñecas, los vehículos y los conjuntos Mini BarbieLand para viajar por sus propios mundos en miniatura e imaginar grandes historias (se venden por separado y están sujetos a disponibilidad).
+- ¡Adéntrate en Mini BarbieLand con estos conjuntos de vehículos de Barbie y disfruta imaginando a lo grande y soñando en miniatura!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPH5H7NZ{{</world>}}

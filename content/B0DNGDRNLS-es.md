@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FIGURA FLEXIBLE DE MIGUEL ÁNGEL: La figura flexible y personalizable de la Tortuga Ninja Miguel Ángel mide 10,16 cm y cuenta con brazos y piernas ondulantes para el juego sensorial
-- RELLENA, CORTA Y LANZAR: Añade plastilina Play-Doh en el interior del set de juego Teenage Mutant Ninja Turtles, gira la palanca para cortarla en forma de pizza Play-Doh y, a continuación, presiona el botón en la parte trasera para lanzarla.
-- HORNO LANZAPIZZAS DE PLAY-DOH: Lánzate a una aventura de pizzas Play-Doh con la figura flexible de Miguel Ángel y un épico lanzador de pizzas.
 - CREA ACCESORIOS NINJA PARA MIGUEL ÁNGEL: Su caparazón tiene un molde para crear cinturones ninja y su herramienta nunchaku es un molde para crear blandas estrellas ninja de Play-Doh. También puede sostener la herramienta nunchaku en la mano
 - 4 BOTES DE PLAY-DOH INCLUYENDO DISEÑO DE PIZZA: Incluye un bote de 56 gramos de plastilina Play-Doh con un genial diseño y colores de pizzas. También incluye botes de 28 gramos de plastilina naranja, verde y amarilla (contiene trigo)
+- RELLENA, CORTA Y LANZAR: Añade plastilina Play-Doh en el interior del set de juego Teenage Mutant Ninja Turtles, gira la palanca para cortarla en forma de pizza Play-Doh y, a continuación, presiona el botón en la parte trasera para lanzarla.
+- HORNO LANZAPIZZAS DE PLAY-DOH: Lánzate a una aventura de pizzas Play-Doh con la figura flexible de Miguel Ángel y un épico lanzador de pizzas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNGDRNLS{{</world>}}

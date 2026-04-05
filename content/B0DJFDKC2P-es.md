@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Una aventura de LEGO sin igual
 - Reúne a tu equipo
 - ¡Aquí es donde entras tú!
-- Ha nacido una heroína
 - Personaliza tu hogar y tus personajes
+- Ha nacido una heroína
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJFDKC2P{{</world>}}

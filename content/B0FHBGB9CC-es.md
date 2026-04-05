@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samurai Academy: Paws of Fury - PS5'
-date: 2026-03-24 18:26:30
+date: 2026-04-04 13:40:23
 image: 'https://m.media-amazon.com/images/I/518rOTjRE4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FHBGB9CC/?tag=tolees-21'
 descuento: '36.68'
-average: '19.1566666666667'
+average: '19.1150000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Destapa el malvado complot
 - Protege los humildes asentamientos
 - Conviértete en un verdadero samurái
-- Destapa el malvado complot
 - Diabluras de samuráis para todos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

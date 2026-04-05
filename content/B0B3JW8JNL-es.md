@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- Incluye figura de Obi Wan Kenobi, Princesa Leia, Han Solo y Chewbacca
-- Nave espacial icónica de Star Wars de 30 cm con 4 figuras escala perfecta.
 - La cabina se adapta a las 4 figuras. Apertura de la mitad trasera con detalles completos de las habitaciones de la tripulación y el área del motor. Plato de radar giratorio y cañones manejables y pivotantes.
+- Incluye figura de Obi Wan Kenobi, Princesa Leia, Han Solo y Chewbacca
 - Funciones sonoras basada en sensores de movimiento. Impulsores luminosos.
+- Nave espacial icónica de Star Wars de 30 cm con 4 figuras escala perfecta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JW8JNL{{</world>}}

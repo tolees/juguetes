@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Videojuego PlayStation 5 Bandai Namco The Witcher 3: Wild Hunt Complete Edition'
-date: 2026-04-02 08:16:14
+date: 2026-04-05 03:35:32
 image: 'https://m.media-amazon.com/images/I/511QrYj7FfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'bandai','playstation','🇪🇸', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 32.9 EUR
+comparePrice: 27.88 EUR
 prodname: 'Videojuego PlayStation 5 Bandai Namco The Witcher 3: Wild Hunt Complete Edition'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BQJQZQ54/?tag=tolees-21'
-descuento: '39.24'
-average: '23.6311764705883'
+descuento: '28.30'
+average: '23.4288888888889'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

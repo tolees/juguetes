@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Experience one-of-a-kind combat with dynamic, fast-paced RPG battles where the battlefield becomes your weapon, and anything goes.
-- Live it up in Japan and explore all that Hawaii has to offer in an adventure so big it spans the Pacific.
 - Unforgettable moments await at every step of the journey with a unique mix of quests and activities to enjoy at your leisure.
 - Adapt your party’s skills to the situation with outlandish jobs and customizations to strategically subdue enemies with over-the-top moves.
+- Live it up in Japan and explore all that Hawaii has to offer in an adventure so big it spans the Pacific.
+- Experience one-of-a-kind combat with dynamic, fast-paced RPG battles where the battlefield becomes your weapon, and anything goes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJGQH7Y7{{</world>}}

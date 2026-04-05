@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Baila al ritmo de las contagiosas notas de Yuzu Koshiro en el reproductor de música del juego
-- Desarrollado por Ancient, conocidos por haber trabajado en franquicias de 16-bit muy queridas como «Streets of Rage 2» y «Beyond Oasis»
 - Una experiencia de juego completamente renovada y auténtica de los juegos retro de disparos 2D diseñada en un hardware de 16-bit
-- Utiliza varias subarmas para desplegar una multitud de estrategias y tácticas diferentes・Juega la historia principal o échale un vistazo al Modo Desafío para poner a prueba tus habilidades de combate
 - Destruye las naves enemigas y hazte con sus recursos para potenciar las capacidades de tu nave
+- Utiliza varias subarmas para desplegar una multitud de estrategias y tácticas diferentes・Juega la historia principal o échale un vistazo al Modo Desafío para poner a prueba tus habilidades de combate
+- Desarrollado por Ancient, conocidos por haber trabajado en franquicias de 16-bit muy queridas como «Streets of Rage 2» y «Beyond Oasis»
+- Baila al ritmo de las contagiosas notas de Yuzu Koshiro en el reproductor de música del juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FPD9RQYQ{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de Andreas Steiger
-- Duración 60 minutos
-- Duración aproximada de la partida 60 min
 - Nominado a mejor juego para expertos en Alemania 2012
-- 2 jugadores
+- Duración 60 minutos
+- Juego de Andreas Steiger
+- Duración aproximada de la partida 60 min
 - En Tuareg, los jugadores adoptan el papel de jefes de clanes rivales que compiten por conseguir los mejores tratos en el comercio de sal, pimienta o dátiles, y los mejores enclaves para sus caravanas
+- 2 jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BN800JE{{</world>}}

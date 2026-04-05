@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los formidables ejércitos del Imperio están liderados por oficiales despiadados.
-- Contiene: 2 miniaturas de plástico, 14 cartas, 1 lámina de fichas, 1 hoja de información
-- Juego para 2 jugadores de 1 a 2 horas por partida
-- Además de piezas opcionales para montar sus miniaturas con diversos aspectos.
 - Esta unidad está compuesta por un Comandante Imperial, un Agente Imperial y suficientes cartas para usarlos en el juego como parte de un ejército del Imperio Galáctico
+- Contiene: 2 miniaturas de plástico, 14 cartas, 1 lámina de fichas, 1 hoja de información
+- Además de piezas opcionales para montar sus miniaturas con diversos aspectos.
+- Los formidables ejércitos del Imperio están liderados por oficiales despiadados.
+- Juego para 2 jugadores de 1 a 2 horas por partida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FN487J7S{{</world>}}

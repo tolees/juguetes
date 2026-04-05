@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Micro SD Express Card for Nintendo Switch 2'
-date: 2026-03-23 22:19:22
+date: 2026-04-04 18:21:38
 image: 'https://m.media-amazon.com/images/I/41m-oAZ+HAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F3P4FB73/?tag=tolees-21'
 descuento: '16.61'
-average: '50.798'
+average: '50.6633333333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

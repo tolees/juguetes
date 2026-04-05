@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Slime no tóxico, no necesita pegamento; medidas: L28 x P6,5 x H24 cm
+- Modo de empleo: vierte el polvo de slime en la coctelera, añade agua y agítalo durante 30 segundos; agrega las decoraciones y el personaje sorpresa; déjalo reposar 2 minutos y listo
 - Estuche completo para hacer 3 cosmic Slime y 3 arcoíris Slime
 - Contenido: 6 cocteleras 6 bolsas de polvo de Slime 6 sacos con decoraciones 6 personajes y 1 hoja de instrucciones
-- Modo de empleo: vierte el polvo de slime en la coctelera, añade agua y agítalo durante 30 segundos; agrega las decoraciones y el personaje sorpresa; déjalo reposar 2 minutos y listo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P164VHG{{</world>}}

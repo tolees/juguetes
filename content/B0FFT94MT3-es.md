@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - O disfrute del modo batalla entre tripulaciones. Cada jugador juega una de las 12 tripulaciones y participa en la conquista de las numerosas islas del mundo de One Piece.
-- ¿Será el más rápido para controlar territorios, encontrar el máximo de tesoros en las islas, realizar sus misiones y derrotar a todos sus enemigos?
 - Vuelva a vivir en este modo cooperativo todas las aventuras de la banda del sombrero de Paja, pero tenga cuidado con los piratas y los marineros que intentarán todo para saquear su barco y capturarle. Derribe a Crocodile en Arabasta, destruya el CP9, enfréntese a la tripulación de Big Mon o Kaido...
 - Conquiste las 27 islas y vuelva a vivir los mejores momentos de ONE PIECE con 2 modos de juego
 - Tenga cuidado con las otras tripulaciones, Marines, a los Siete grandes piratas, a las Supernovas y a los 4 emperadores que podrían a cualquier momento poner fin a sus sueños de piratería!
+- ¿Será el más rápido para controlar territorios, encontrar el máximo de tesoros en las islas, realizar sus misiones y derrotar a todos sus enemigos?
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFT94MT3{{</world>}}

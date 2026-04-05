@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BUSCA OTROS JUGUETES DE UNA GALAXIA MUY, MUY LEJANA: Busca otros juguetes para juego de rol Star Wars Lightsaber Squad para armar tu propio equipo Star Wars (Se venden por separado. Sujeto a disponibilidad)
 - EL MANDALORIANO: Aguerrido y taciturno, el Mandaloriano es un formidable cazarrecompensas en una galaxia cada vez más peligrosa
-- PERSONAJES STAR WARS EMBLEMÁTICOS: Los sables de luz Star Wars Lightsaber Squad cuentan con divertidas empuñaduras inspiradas en personajes favoritos de los fans (Se venden por separado. Sujeto a disponibilidad)
 - SABLE DE LUZ INSPIRADO EN EL MANDALORIANO: Este sable de luz Star Wars Lightsaber Squad The Mandalorian fue diseñado para verse igual al personaje cazarrecompensas de la serie de Disney+
+- PERSONAJES STAR WARS EMBLEMÁTICOS: Los sables de luz Star Wars Lightsaber Squad cuentan con divertidas empuñaduras inspiradas en personajes favoritos de los fans (Se venden por separado. Sujeto a disponibilidad)
 - DA UN GOLPE DE MUÑECA PARA EXTENDER: Con tan solo un golpe de muñeca, los niños de 4 años en adelante pueden extender el sable de luz naranja del Mandaloriano de Star Wars Lightsaber Squad para lanzarse a fantásticas batallas imaginarias
+- BUSCA OTROS JUGUETES DE UNA GALAXIA MUY, MUY LEJANA: Busca otros juguetes para juego de rol Star Wars Lightsaber Squad para armar tu propio equipo Star Wars (Se venden por separado. Sujeto a disponibilidad)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T6KWZ75{{</world>}}

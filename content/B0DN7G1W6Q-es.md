@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MÁS DE 50 COMBINACIONES ÚNICAS: ¡Cambia los colores de la hoja y de la empuñadura con diferentes combinaciones de cristales! El cristal superior ilumina la hoja y el cristal inferior ilumina la empuñadura
+- INCLUYE 10 CRISTALES KYBER: Inspirado en el cristal kyber encontrado en el corazón de cada sable de luz, este set incluye 10 cristales diferentes para que tengas muchas opciones de personalización. Mira cómo los cristales brillan cuando los fijas a la empuñadura
+- CREA TU PROPIO SABLE DE LUZ: Este sable de luz Star Wars electrónico de juguete está compuesto por 10 cristales y 5 piezas: una hoja extensible, efecto de la Fuerza, tapa, cobertura y núcleo) que permiten a los niños y las niñas armar sus propios sables de luz luminosos
 - SABLE DE LUZ CON CRISTAL DE PODER: Este sable de luz Star Wars oficial incluye 7 colores de hoja diferentes, efectos de sonido y, por primera vez, cristales que se pueden se pueden intercambiar en la empuñadura
 - EFECTOS DE SONIDO Y DETALLES ÉPICOS: Este sable de luz para niños y niñas cuenta con un núcleo brillante y un efecto de la Fuerza para la hoja. Además, los efectos de sonido cambian dependiendo de la combinación de cristales
-- INCLUYE 10 CRISTALES KYBER: Inspirado en el cristal kyber encontrado en el corazón de cada sable de luz, este set incluye 10 cristales diferentes para que tengas muchas opciones de personalización. Mira cómo los cristales brillan cuando los fijas a la empuñadura
-- MÁS DE 50 COMBINACIONES ÚNICAS: ¡Cambia los colores de la hoja y de la empuñadura con diferentes combinaciones de cristales! El cristal superior ilumina la hoja y el cristal inferior ilumina la empuñadura
-- CREA TU PROPIO SABLE DE LUZ: Este sable de luz Star Wars electrónico de juguete está compuesto por 10 cristales y 5 piezas: una hoja extensible, efecto de la Fuerza, tapa, cobertura y núcleo) que permiten a los niños y las niñas armar sus propios sables de luz luminosos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN7G1W6Q{{</world>}}

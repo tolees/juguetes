@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - COMPONENTES REIMAGINADOS: Esta edición incluye un tablero hexagonal de doble cara, una bandeja de plástico rediseñada, cajas de ejército y nuevas miniaturas con esculturas más detalladas y fieles.
-- CELEBRA MÁS DE 20 AÑOS DE MEMOIR ’44: Descubre el relanzamiento de 2025 del juego de estrategia clásico de la Segunda Guerra Mundial, con batallas icónicas como Omaha Beach, Pegasus Bridge, Operación Cobra y las Ardenas.
 - MÁS DE 20 ESCENARIOS HISTÓRICOS: Participa en diversos y detallados escenarios que recrean famosos campos de batalla de la Segunda Guerra Mundial con terrenos, posicionamientos de tropas y objetivos precisos.
-- CARTAS DE COMANDO Y TÁCTICA DINÁMICAS: Despliega tu infantería, paracaidistas, tanques, artillería y luchadores de la resistencia utilizando cartas de Comando y Táctica para aprovechar las fortalezas únicas de cada unidad.
+- CELEBRA MÁS DE 20 AÑOS DE MEMOIR ’44: Descubre el relanzamiento de 2025 del juego de estrategia clásico de la Segunda Guerra Mundial, con batallas icónicas como Omaha Beach, Pegasus Bridge, Operación Cobra y las Ardenas.
 - PERFECTO PARA FANÁTICOS DE LA ESTRATEGIA HISTÓRICA: Diseñado para 2 jugadores, este juego combina mecánicas fáciles de aprender con estrategia profunda, ideal para aficionados a la historia, entusiastas de la estrategia, y noches de juegos en familia.
+- CARTAS DE COMANDO Y TÁCTICA DINÁMICAS: Despliega tu infantería, paracaidistas, tanques, artillería y luchadores de la resistencia utilizando cartas de Comando y Táctica para aprovechar las fortalezas únicas de cada unidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FN8RC44D{{</world>}}

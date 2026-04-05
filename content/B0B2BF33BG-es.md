@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta muñeca de moda articulada de Elsa lleva su conjunto de viaje, formado por una capa y una falda delicadas y unas botas intercambiables.
 - Es un regalo perfecto para que niños y niñas recreen sus momentos favoritos de Frozen 2 de Disney, o para que se imaginen sus propias aventuras llenas de emoción.
 - El pelo rubio de Elsa se puede cepillar y lo lleva recogido en una elegante trenza a un lado, ¡igual que en la película!
+- Esta muñeca de moda articulada de Elsa lleva su conjunto de viaje, formado por una capa y una falda delicadas y unas botas intercambiables.
 - Los fans pueden coleccionar todas las muñecas de moda de Frozen de Disney para imaginarse sus propias aventuras en Arendelle y otros lugares lejanos. Se venden por separado y están sujetas a disponibilidad.
 - Esta muñeca de Elsa está inspirada en la reina animada más querida de Frozen 2 de Disney.
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juega a tu manera: como un bólido al igual que Correcaminos, Lola Bunny o Silvestre; usando tu fuerza bruta como Elmer Gruñón, Porky o Tas, o siendo el más astuto con el Coyote, el Pato Lucaso Bugs Bunny.
 - Juega contra tu familia y amigos: en el modo cooperativo local de 4 jugadores.
 - Compite en 4 deportes emblemáticos: baloncesto arcade 2 contra 2, tenis arcade 1 contra 1 o 2 contra 2, golf de 4 jugadores y fútbol arcade 3 contra 3.
-- Disfruta de la experiencia Looney Universe: sumérgete en sus niveles más icónicos, como Galactic Outpost Delta, Porky’s Barn, Foghorn’s Farm, Road Runner’s Canyon, Whispering Woods, Martian Command Center, Granny’s House, ¡y muchos más!
 - Métete en la piel de 9 emblemáticos personajes de Looney Tunes, como Bugs Bunny, Lola Bunny, el Pato Lucas, Porky, Elmer Gruñón, Silvestre, Tas, el Coyote y Correcaminos
+- Disfruta de la experiencia Looney Universe: sumérgete en sus niveles más icónicos, como Galactic Outpost Delta, Porky’s Barn, Foghorn’s Farm, Road Runner’s Canyon, Whispering Woods, Martian Command Center, Granny’s House, ¡y muchos más!
+- Juega a tu manera: como un bólido al igual que Correcaminos, Lola Bunny o Silvestre; usando tu fuerza bruta como Elmer Gruñón, Porky o Tas, o siendo el más astuto con el Coyote, el Pato Lucaso Bugs Bunny.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7HYCYMD{{</world>}}

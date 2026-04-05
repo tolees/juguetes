@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juego estratégico
+- ¡Los desafíos de lógica, memoria y observación tienen algo mágico, pero no son magos! Sumérgete en el universo de Hogwarts con este Cortex Challenge de contenido exclusivo, que se puede mezclar con otros juegos de la gama.
 - boardgame
 - ¡Encuentra Cortex Challenge en la escuela de magos!
-- ¡Los desafíos de lógica, memoria y observación tienen algo mágico, pero no son magos! Sumérgete en el universo de Hogwarts con este Cortex Challenge de contenido exclusivo, que se puede mezclar con otros juegos de la gama.
 - ¡Cortex Challenge desafía todas las formas de inteligencia! Diviértete con la memoria, el sentido de la observación, la coordinación y la lógica. ¡Los desafíos táctiles esperan a las jugadoras y jugadores que hayan brillado!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

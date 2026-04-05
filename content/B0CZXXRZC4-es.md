@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- JUEGO FAMILIAR INMERSIVO: Una experiencia inmersiva en la que puedes construir los hoteles más hermosos en 3D en tu tablero.
-- 50.º ANIVERSARIO: Para su 50.º aniversario, Hotel vuelve a su estilo original de los 80 con un toque renovado. Vuelven algunos de los hoteles históricos: Fujiyama, Waikiki, Boomerang Bay. Y otros nuevos por descubrir: Mont-Blanc, Mirasol, Sahara...
 - UN JUEGO ESTRATÉGICO INTELIGENTE: Construye los hoteles más lujosos, diseña tácticas para arruinar a tus oponentes y conviértete en el jugador más rico del tablero. Tendrás que pensar en varias estrategias para intentar arruinar a tus oponentes y ganar una fortuna.
 - IDEAL PARA REGALAR: Las partidas duran unos 40 minutos. Este juego de mesa es apto para niños a partir de 8 años. De 2 a 4 jugadores, podrás disfrutar de frenéticas partidas con familiares y amigos.
 - CONTENIDO DEL JUEGO: 1 tablero de juego, 30 edificios, 8 instalaciones de ocio, 30 entradas, 8 títulos de propiedad, 100 billetes de banco, 4 coches, 2 dados, 1 manual de instrucciones.
+- JUEGO FAMILIAR INMERSIVO: Una experiencia inmersiva en la que puedes construir los hoteles más hermosos en 3D en tu tablero.
+- 50.º ANIVERSARIO: Para su 50.º aniversario, Hotel vuelve a su estilo original de los 80 con un toque renovado. Vuelven algunos de los hoteles históricos: Fujiyama, Waikiki, Boomerang Bay. Y otros nuevos por descubrir: Mont-Blanc, Mirasol, Sahara...
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZXXRZC4{{</world>}}

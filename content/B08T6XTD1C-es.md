@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 30 cm
 - Peluche de Luigi, Super Mario 30cm
 - Adecuado para niños a partir de los primeros meses de vida
+- 30 cm
 - Diseñado para embellecer los momentos del juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

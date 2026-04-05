@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ACCESORIOS INSPIRADOS EN LA PELÍCULA: Estas figuras cuentan con 10 accesorios que sirven para colocar las figuras en poses, incluyendo casco removible de Han Solo y blásters para todos los personajes
 - EN HOMENAJE A TATOOINE: ¡Crea un homenaje a Tatooine en tus estantes con estos personajes favoritos de los fans y colecciona otras figuras de la colección Retro!
-- STAR WARS: UNA NUEVA ESPERANZA: Este set de figuras a escala de 9,5 cm está inspirado en la clásica primera película de la trilogía original, y es un gran regalo para coleccionistas y fans de Star Wars a partir de 4 años
-- EMPAQUES ESTILO KENNER: Cada figura de este surtido vintage cuenta con clásicos logotipos Kenner y viene en empaque con apariencia desgastada
 - ARTICULACIÓN Y DETALLES ESTILO KENNER: Estas figuras Star Wars cuentan con cinco puntos de articulación y son ideales para ser exhibidas en colecciones de figuras de acción y vehículos
+- STAR WARS: UNA NUEVA ESPERANZA: Este set de figuras a escala de 9,5 cm está inspirado en la clásica primera película de la trilogía original, y es un gran regalo para coleccionistas y fans de Star Wars a partir de 4 años
+- ACCESORIOS INSPIRADOS EN LA PELÍCULA: Estas figuras cuentan con 10 accesorios que sirven para colocar las figuras en poses, incluyendo casco removible de Han Solo y blásters para todos los personajes
+- EMPAQUES ESTILO KENNER: Cada figura de este surtido vintage cuenta con clásicos logotipos Kenner y viene en empaque con apariencia desgastada
 - 6 PERSONAJES EMBLEMÁTICOS: ¡Incluye figuras del clásico dúo del Dr. Evazan y Walrus Man, además de Han Solo (traje de soldado de asalto imperial), Luke Skywalker (Yavin), soldado de la flota rebelde y sandtrooper!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

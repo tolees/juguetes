@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CARACTERÍSTICAS DEL JUEGO DE MESA: Edad recomendada 8 años en adelante, partidas de unos 45 minutos. Una edición en castellano renovada con componentes actualizados y el encanto del clásico original.
-- REGALO ORIGINAL PARA TODA LA FAMILIA: Scotland Yard Refresh 40º es un regalo niño 8 años ideal y también un regalo original para adultos amantes de los juegos de mesa adultos, los misterios y las noches de diversión en grupo.
-- JUEGO DE MESA PARA 2 O MÁS JUGADORES: Diseñado para 2 a 6 participantes, es perfecto como juegos de mesa para 2 o para grupos más grandes que disfrutan de desafíos estratégicos y cooperación.
-- JUEGO DE MESA COOPERATIVO Y DE INVESTIGACIÓN: Un jugador se convierte en Míster X y los demás forman el equipo de detectives. Usa tu intuición y coordinación para atrapar al fugitivo por las calles de Londres.
 - SCOTLAND YARD REFRESH 40º – JUEGO DE MESA DE ESTRATEGIA: Disfruta del clásico juego mesa de deducción y táctica en su edición especial de aniversario. Ideal como juegos de mesa adultos y juegos de mesa niños 8 años.
+- JUEGO DE MESA COOPERATIVO Y DE INVESTIGACIÓN: Un jugador se convierte en Míster X y los demás forman el equipo de detectives. Usa tu intuición y coordinación para atrapar al fugitivo por las calles de Londres.
+- CARACTERÍSTICAS DEL JUEGO DE MESA: Edad recomendada 8 años en adelante, partidas de unos 45 minutos. Una edición en castellano renovada con componentes actualizados y el encanto del clásico original.
+- JUEGO DE MESA PARA 2 O MÁS JUGADORES: Diseñado para 2 a 6 participantes, es perfecto como juegos de mesa para 2 o para grupos más grandes que disfrutan de desafíos estratégicos y cooperación.
+- REGALO ORIGINAL PARA TODA LA FAMILIA: Scotland Yard Refresh 40º es un regalo niño 8 años ideal y también un regalo original para adultos amantes de los juegos de mesa adultos, los misterios y las noches de diversión en grupo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1BZKXTQ{{</world>}}

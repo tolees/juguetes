@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La casa tiene 3 plantas: una cafetería en la planta baja con un patio exterior, una sala de estar y cocina, un dormitorio y una terraza con piscina. El exterior de la casa es adorable y tiene un balcón, escaleras de emergencia en caso de incendio y una puerta que se abre, así como otra para que puedan pasar los perritos como Pommy.
-- Mide 71,12cm de alto, cuenta con 6 zonas de juego e incluye más de 15 piezas, por lo que la diversión está asegurada.
 - ¡Casi puedes tocar el cielo en esta casa de City Tails de Enchantimals!
+- Mide 71,12cm de alto, cuenta con 6 zonas de juego e incluye más de 15 piezas, por lo que la diversión está asegurada.
 - Con accesorios como una cama, un sofá, un frigorífico, bebidas, postres y mucho más, las niñas tienen todo lo que necesitan para vivir cómodamente en la ciudad junto a sus amigos de Enchantimals.
 - También incluye la muñeca Palmer Pomeranian (15,24cm) y su cachorro, Pommy, con el que comparte habitación.
 - Regalo ideal para niñas a partir de 4 años, fomenta el juego imaginativo.
+- La casa tiene 3 plantas: una cafetería en la planta baja con un patio exterior, una sala de estar y cocina, un dormitorio y una terraza con piscina. El exterior de la casa es adorable y tiene un balcón, escaleras de emergencia en caso de incendio y una puerta que se abre, así como otra para que puedan pasar los perritos como Pommy.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PB63F9G{{</world>}}

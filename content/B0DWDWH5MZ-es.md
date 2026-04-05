@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sets de la colección LEGO Star Wars: Los sets LEGO Star Wars (a la venta por separado) ofrecen a peques y fans adultos la oportunidad de recrear escenas clásicas, inventar nuevas historias o, simplemente, exponer los modelos para construir
-- Instrucciones intuitivas: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción con herramientas que les permitirán acercar y girar una versión digital 3D de su modelo mientras lo construyen
-- Juguete de construcción para fans de Star Wars: Andor: Coloca la figura articulada en poses icónicas y reajusta la cabeza y los brazos de K-2SO cada vez que quieras cambiar el aspecto de tu decorativa creación
-- Decoración del dormitorio: Fija la figura LEGO del droide a la base de exposición para crear una pieza de decoración; además contiene una placa informativa sobre K-2SO y espacio para la figura LEGO de K-2SO en tamaño normal incluida
-- Maqueta LEGO Star Wars: Anima a tu peque a mostrar su pasión por Star Wars con la figura articulada LEGO Droide de Seguridad K-2SO, basada en el droide de la temporada 2 de Star Wars: Andor
 - Regalo LEGO Star Wars para niños, niñas y fans: Regala este kit de maquetas a un niño o niña fan de Star Wars o apasionado de LEGO a partir de 10 años, como regalo de cumpleaños o por cualquier ocasión
+- Juguete de construcción para fans de Star Wars: Andor: Coloca la figura articulada en poses icónicas y reajusta la cabeza y los brazos de K-2SO cada vez que quieras cambiar el aspecto de tu decorativa creación
+- Maqueta LEGO Star Wars: Anima a tu peque a mostrar su pasión por Star Wars con la figura articulada LEGO Droide de Seguridad K-2SO, basada en el droide de la temporada 2 de Star Wars: Andor
+- Instrucciones intuitivas: La app LEGO Builder guiará a los niños a través de una intuitiva aventura de construcción con herramientas que les permitirán acercar y girar una versión digital 3D de su modelo mientras lo construyen
+- Sets de la colección LEGO Star Wars: Los sets LEGO Star Wars (a la venta por separado) ofrecen a peques y fans adultos la oportunidad de recrear escenas clásicas, inventar nuevas historias o, simplemente, exponer los modelos para construir
+- Decoración del dormitorio: Fija la figura LEGO del droide a la base de exposición para crear una pieza de decoración; además contiene una placa informativa sobre K-2SO y espacio para la figura LEGO de K-2SO en tamaño normal incluida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDWH5MZ{{</world>}}

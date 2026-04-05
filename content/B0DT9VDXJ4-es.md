@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fingerlings Axolot interactivo, Ajolote rosa que nada de verdad, con más de 50 sonidos y reacciones, sabe cuando está en tu mano y adivina tu estado de ánimo
+- NADA DE VERDAD; Coloca tu Fingerlings Axolot en el agua y mira cómo nada y mueve sus patitas y su cola, además se ilumina
 - Llega Fingerlings Axolot, tu ajolote interactivo; Será tu mejor amigo, con más de 50 sonidos y reacciones mágicas
 - Cómo estás hoy; Adivina tu estado de ánimo; Sabe cuando está en tu mano e interactúa contigo cuando le tocas la cabeza
-- NADA DE VERDAD; Coloca tu Fingerlings Axolot en el agua y mira cómo nada y mueve sus patitas y su cola, además se ilumina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT9VDXJ4{{</world>}}

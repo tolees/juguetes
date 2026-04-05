@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Coloca las cartas sobre la mesa y luego tenéis que ejecutarlas por turnos.
-- ¡El último jugador en pie gana!
 - ¡Si te equivocas, te eliminarán!
+- ¡El último jugador en pie gana!
 - Un adictivo juego de risas, caos y colegueo.
 - Juega cartas para ayudar o sabotear a otros jugadores
 

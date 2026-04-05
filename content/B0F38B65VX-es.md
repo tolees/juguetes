@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Analiza el suelo y elige la variedad de uva que mejor se adecua a las características de tu terreno
+- Sigue los procesos de elaboración de vino y mejora las características de tu vino
 - Tendrás la posibilidad de cultivar distintos tipos de viñas
+- Crea tu red de ventas y adapta tu producto a las necesidades del consumidor
+- Protege tus viñas con tratamientos específicos dependiendo de la enfermedad que contraigan
+- Comprueba el nivel de madurez de tus uvas y decide cuando cosecharlas
+- Analiza el suelo y elige la variedad de uva que mejor se adecua a las características de tu terreno
+- Organiza el trabajo en el viñedo, desde la poda hasta la injerta de astilla
 - El enfoque de realismo y simulación será apto tanto para los principiantes como los expertos en enología
 - Selecciona las levaduras vínicas y las bacterias que se usan en el proceso de fermentación
-- Comprueba el nivel de madurez de tus uvas y decide cuando cosecharlas
-- Protege tus viñas con tratamientos específicos dependiendo de la enfermedad que contraigan
-- Organiza el trabajo en el viñedo, desde la poda hasta la injerta de astilla
-- Sigue los procesos de elaboración de vino y mejora las características de tu vino
 - Personaliza tus botellas eligiendo su forma, color y otras propiedades estéticas
-- Crea tu red de ventas y adapta tu producto a las necesidades del consumidor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F38B65VX{{</world>}}

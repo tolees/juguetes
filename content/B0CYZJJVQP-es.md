@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Kits de modelo de juego rico y divertido】Mutiple pistas construidas en el modelo incluyendo Escaleras de elevación,Espiral de aceleración transparente,Auto-desvío,etc.
-- 【ROKR Carrera de canicas eléctrica】Equipado con un motor eléctrico de 70 rpm,¡este ROKR Model Kits te trae una nueva experiencia de juego!
 - 【Instrucciones en Español incluidas,Sin pegamento o herramientas adicionales durante el montaje.】Hecho de maderas contrachapadas duraderas, las piezas de madera se cortan con precisión con láser y encajan bien entre sí. Ilustrado folleto de instrucciones paso a paso haría que sea mucho más fácil de montar.
+- 【ROKR Carrera de canicas eléctrica】Equipado con un motor eléctrico de 70 rpm,¡este ROKR Model Kits te trae una nueva experiencia de juego!
 - 【Reemplazo de piezas&Servicio sin preocupaciones】 Si tiene algún problema durante el proceso de montaje, póngase en contacto con nosotros en el sitio web, le proporcionaremos toda la ayuda que podamos en menos de 24 horas para usted.
 - 【Perfecta opción de regalo con DIY diversión para divertir a la familia en todas las edades】Worthy tiempo en dedicar a montar este kit para usted o su amor por no sólo ahorrar dinero de los modelos prefabricados, sino también añadir un poco de diversión a su trabajo y la vida, ya que es su pasión y paciencia dedicada a la obra de arte de su propia.
 

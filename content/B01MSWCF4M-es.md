@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Especificaciones técnicas: Voltaje Nominal: 12V // Amperios Hora: 1,3Ah // Longitud: 97 mm // Amplitud: 45 mm // Amplitud: 45 mm // Altura: 52 mm
 - DSK cuenta con más de 25 años en el mercado de las baterías. Nuestra historia y experiencia nos permite ofrecer un amplio abanico de baterías para todas las soluciones que el cliente demande consiguiendo gran satisfacción por parte del cliente. Información importante: No almacenar las baterías una encima de la otra // Almacenar las baterías verticalmente, si se almacenan dos o más baterías en la misma ubicación dejar 5 centimetros horizontales entre ellas para permitir la refrigeración de las baterías // Para mejorar su rendimiento y duración se recomienda recargar las baterías cuando estas se agoten
 - La Batería ha pasado los controles más exhaustivos en fábrica para garantizar un gran desempeño. Batería recargable con una vida útil larga.
-- Batería de la marca DSK de alta calidad en sus componentes garantiza su uso adecuado en sistemas de seguridad, juguetes eléctricos, aparatos de movilidad eléctrica.
 - Batería de Plomo AGM Recargable de Alta Descarga de 12V y 1,3Ah ideal para UPS-SAI, Sistemas de seguridad y comunicación, luces de emergencia, Sillas para minusválidos, Carritos de Golf, Vehículos Eléctricos, Patinetes y Monopatines eléctricos, Alarmas para casa, Juguetes eléctricos para niños, Elevadores … La Batería viene sellada y el usuario final no la puede manipular.
+- Especificaciones técnicas: Voltaje Nominal: 12V // Amperios Hora: 1,3Ah // Longitud: 97 mm // Amplitud: 45 mm // Amplitud: 45 mm // Altura: 52 mm
+- Batería de la marca DSK de alta calidad en sus componentes garantiza su uso adecuado en sistemas de seguridad, juguetes eléctricos, aparatos de movilidad eléctrica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MSWCF4M{{</world>}}

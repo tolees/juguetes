@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo LEGO Star Wars para niños, niñas y fans adolescentes de 12 años o más: Regala este maqueta de construcción a un peque o a algún coleccionista o fan de Star Wars a partir de 12 años
 - Divertida decoración de escritorio y dormitorio: El soporte de exposición incorpora una placa informativa y cuenta con espacio para la figura LEGO Star Wars incluida del droide de combate con su speeder STAP
 - Figura articulada para construir: El droide de combate puede colocarse en diferentes posturas y empuña un bláster para construir que también se fija a la espalda
+- Regalo LEGO Star Wars para niños, niñas y fans adolescentes de 12 años o más: Regala este maqueta de construcción a un peque o a algún coleccionista o fan de Star Wars a partir de 12 años
 - Maqueta de construcción Star Wars de LEGO: Coloca la figura LEGO Star Wars del droide de combate montado en su speeder STAP sobre el soporte o dale un nuevo toque a tu creación situándolo de pie al lado del STAP y el soporte
 - Instrucciones de construcción 3D: La app LEGO Builder guiará a tu peque a través de una intuitiva aventura de construcción con herramientas que le permitirán acercar y girar una versión digital 3D de su modelo mientras lo construye
-- Maqueta Star Wars de Droide de Combate con STAP para construir y exponer: Los jóvenes constructores podrán mostrar con orgullo su pasión por Star Wars con esta figura articulada LEGO de un droide de combate con un speeder STAP
 - La colección LEGO Star Wars: Los sets LEGO Star Wars (a la venta por separado) ofrecen a los niños y los fans adultos la oportunidad de recrear escenas emblemáticas, inventar nuevas historias o exponer las maquetas construibles
+- Maqueta Star Wars de Droide de Combate con STAP para construir y exponer: Los jóvenes constructores podrán mostrar con orgullo su pasión por Star Wars con esta figura articulada LEGO de un droide de combate con un speeder STAP
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DWDQ58Y4{{</world>}}

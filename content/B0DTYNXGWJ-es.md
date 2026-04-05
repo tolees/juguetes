@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO TRADICIONAL - Revive el famoso cuento chino del Rey Mono en un juego de colocación para 2 jugadores. Un diseño que recuerda al teatro de sombras tradicional chino para una inmersión única.
-- COLOCA O RECOGE MONOS - En cada turno, pon un mono en una ubicación del tablero o recoge los monos de una ubicación para acumular puntos, y usa las cartas de Armas de Dragón para sorprender a tus oponentes.
-- DUELO EMOCIONANTE - Un juego de duelos inmersivo con reglas simples que ofrecen una batalla rápida, intensa y emocionante de ingenio. ¡Descubre el mundo del teatro de sombras y la famosa leyenda del Rey Mono!
-- VARIANTES DEL JUEGO - Después de algunas partidas, podrás probar las variantes del Rey Mono, que añaden desafíos estratégicos y mayor profundidad para poner a prueba tus habilidades y enriquecer tus partidas.
 - MUNDO DEL REY MONO - ¡Únete al Rey Mono en sus aventuras! Coloca tus monos, recoge los melocotones de la inmortalidad, atesora Jade y forja tu leyenda.
+- DISEÑO TRADICIONAL - Revive el famoso cuento chino del Rey Mono en un juego de colocación para 2 jugadores. Un diseño que recuerda al teatro de sombras tradicional chino para una inmersión única.
+- DUELO EMOCIONANTE - Un juego de duelos inmersivo con reglas simples que ofrecen una batalla rápida, intensa y emocionante de ingenio. ¡Descubre el mundo del teatro de sombras y la famosa leyenda del Rey Mono!
+- COLOCA O RECOGE MONOS - En cada turno, pon un mono en una ubicación del tablero o recoge los monos de una ubicación para acumular puntos, y usa las cartas de Armas de Dragón para sorprender a tus oponentes.
+- VARIANTES DEL JUEGO - Después de algunas partidas, podrás probar las variantes del Rey Mono, que añaden desafíos estratégicos y mayor profundidad para poner a prueba tus habilidades y enriquecer tus partidas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYNXGWJ{{</world>}}

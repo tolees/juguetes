@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A continuación, abre el tubo con forma de pintalabios para descubrir el colorido slime de gelatina. ¡Aplasta el slime para descubrir un adorable gatito en su interior!
-- Con 10 sorpresas para “desenvolver”, la serie Glam Party de Barbie Party Unboxed convierte la experiencia de desempaquetar en una fiesta, con una pila de 4 regalos que ocultan una muñeca, una mascota y todo lo que necesitan para arreglarse.
-- Retira la toalla para el pelo y la mascarilla facial de la muñeca Barbie para descubrir a la muñeca Red Sparkle, que cuenta con articulaciones y una larga melena rubia ondulada.
 - Sigue abriendo los “regalos” misteriosos para descubrir más sorpresas escondidas en un estuche. ¡Perfora cada sección con la brocha de maquillaje incluida para descubrir complementos de moda para la muñeca Barbie!
 - Para empezar la experiencia, abre la caja con el primer “regalo”: ¡una muñeca Barbie a la moda con una toalla de baño, una toalla para el pelo y una mascarilla facial! Qué muñeca te tocará?
+- Retira la toalla para el pelo y la mascarilla facial de la muñeca Barbie para descubrir a la muñeca Red Sparkle, que cuenta con articulaciones y una larga melena rubia ondulada.
+- A continuación, abre el tubo con forma de pintalabios para descubrir el colorido slime de gelatina. ¡Aplasta el slime para descubrir un adorable gatito en su interior!
+- Con 10 sorpresas para “desenvolver”, la serie Glam Party de Barbie Party Unboxed convierte la experiencia de desempaquetar en una fiesta, con una pila de 4 regalos que ocultan una muñeca, una mascota y todo lo que necesitan para arreglarse.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DL6GWJXH{{</world>}}

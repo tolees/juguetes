@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Partidas de 10 minutos, explicación rápida y tensión hasta el final
-- Descártate de todas las cartas antes que el resto de jugadores y gana la partida
 - Arte muy atractivo, un juego muy mono
+- Descártate de todas las cartas antes que el resto de jugadores y gana la partida
+- Partidas de 10 minutos, explicación rápida y tensión hasta el final
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1DJ5DP8{{</world>}}

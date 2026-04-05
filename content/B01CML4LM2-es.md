@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Ixolino es la réplica fiel apta para niños del destornillador eléctrico con diseño de Bosch
-- Medidas: 12.5 cm x 4 cm x 9 cm; Apto para niños a partir de tres años; Pilas necesarias: 2 x R03-AAA - No incluidas en la entrega
 - El taladro/broca giran a derecha e izquierda con sonidos y efectos de luz realistas
+- Medidas: 12.5 cm x 4 cm x 9 cm; Apto para niños a partir de tres años; Pilas necesarias: 2 x R03-AAA - No incluidas en la entrega
 - Los pequeños aficionados y aficionadas al bricolaje imitan a los mayores en el juego de rol con el Ixolino y ejercitan su imaginación y sus habilidades motoras de forma divertida
+- El Ixolino es la réplica fiel apta para niños del destornillador eléctrico con diseño de Bosch
 - Los accesorios son intercambiables y con compatibles con todos los sets de atornillado Bosch de Theo Klein
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El más famoso de los juegos de observación con todos los personajes de la Patrulla Canina
+- El dominó es un juego para enseñar al niño a combinar imágenes entre sí.
+- El primer jugador pone uno de sus dominos. El siguiente jugador ve sus dominós, si tiene una de las dos imágenes que corresponde a la carta del primer jugador, la coloca a continuación. El objetivo del juego es deshacerse de todos sus dominos.
 - El niño desarrolla sus facultades de observación, asociación y memoria.
 - Contenido del envío: 28 dominios Este producto está compuesto de materiales procedentes de bosques bien gestionados con certificación FSC, materiales reciclados y materiales de otras fuentes controladas.
-- El primer jugador pone uno de sus dominos. El siguiente jugador ve sus dominós, si tiene una de las dos imágenes que corresponde a la carta del primer jugador, la coloca a continuación. El objetivo del juego es deshacerse de todos sus dominos.
-- El dominó es un juego para enseñar al niño a combinar imágenes entre sí.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XY91S8Q{{</world>}}

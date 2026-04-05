@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- EXPANDE EL JUEGO CON CADA PARTIDA: Descubre nuevas reglas, componentes y tipos de misión adicionales a medida que avanzas en el juego, ¡incluidas algunas misiones que incluyen una mecánica de traidor oculto para añadir intriga!
 - ESTRATEGIAS ÚNICAS: Asume diferentes roles y retos con cada personaje, ya que vienen con su propio mazo de cartas que ofrecen habilidades y tácticas únicas que dominar.
 - MISIONES ÉPICAS: Embárcate en emocionantes aventuras inspiradas en la Temporada 1 de The Mandalorian, en las que cooperarás, lucharás contra enemigos y resolverás dilemas para completar el objetivo de cada misión.
-- EXPANDE EL JUEGO CON CADA PARTIDA: Descubre nuevas reglas, componentes y tipos de misión adicionales a medida que avanzas en el juego, ¡incluidas algunas misiones que incluyen una mecánica de traidor oculto para añadir intriga!
-- EXPERIENCIA INMERSIVA DE STAR WARS: Sumérgete en el cautivador mundo de Star Wars como nunca antes, mientras tú y tus amigos trabajáis juntos para superar obstáculos, luchar contra enemigos y convertiros en héroes de la galaxia.
 - CONVIÉRTETE EN EL MANDALORIANO: ¡Ponte en la piel del legendario cazarrecompensas y sus aliados en este emocionante juego de mesa cooperativo, protagonizado por El Mandaloriano y 7 icónicos personajes de la exitosa serie!
+- EXPERIENCIA INMERSIVA DE STAR WARS: Sumérgete en el cautivador mundo de Star Wars como nunca antes, mientras tú y tus amigos trabajáis juntos para superar obstáculos, luchar contra enemigos y convertiros en héroes de la galaxia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB8L42NY{{</world>}}

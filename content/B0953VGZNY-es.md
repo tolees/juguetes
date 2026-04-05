@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mic es un muñeco que siempre tiene ganas de jugar y descubrirlo todo. Sus amigos son Mosca, Cargol y sobretodo, Cincsegons. Mic y sus amigos se reúnen cada día para cantar canciones, explicar cuentos, jugar a las adivinanzasviven en un lugar con colinas, árboles, flores y mariposas. Todo está a punto para jugar, solo falta hacer MAC, MEC, MIC TOCA’T EL MELIC.
-- Con piezas grandes adaptadas a las manitas de tu peque. Fabricadas en cartón de gran calidad.
+- Puzzles de dificultad progresiva. De 6 a 16 piezas.
 - Recomendado para niñas y niños a partir de 36 meses de edad
 - Set de 4 puzzles progresivos del personaje más adorable de la televisión catalana: MIC
-- Puzzles de dificultad progresiva. De 6 a 16 piezas.
+- Mic es un muñeco que siempre tiene ganas de jugar y descubrirlo todo. Sus amigos son Mosca, Cargol y sobretodo, Cincsegons. Mic y sus amigos se reúnen cada día para cantar canciones, explicar cuentos, jugar a las adivinanzasviven en un lugar con colinas, árboles, flores y mariposas. Todo está a punto para jugar, solo falta hacer MAC, MEC, MIC TOCA’T EL MELIC.
+- Con piezas grandes adaptadas a las manitas de tu peque. Fabricadas en cartón de gran calidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0953VGZNY{{</world>}}

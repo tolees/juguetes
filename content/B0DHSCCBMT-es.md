@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jet con dron de juguete para peques: Los niños y las niñas a partir de 8 años pueden representar la acción aérea de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones con el set Super Jet de la Tormenta de Ras y Arin
-- Avión ninja de juguete combinado: El jet incluye un dron de juguete desmontable con cabeza de dragón que está equipado con 2 cabinas, una de las cuales se puede separar para convertirla en cápsula de escape voladora con afiladas alas
-- Detalles ninja: La aeronave del set Super Jet de la Tormenta de Ras y Arin cuenta con 2 cañones automáticos, alas ajustables, Espadas de la Tormenta giratorias, y cuchillas y motores que se pueden quitar para usarlos como armas ninja
 - 3 minifiguras LEGO NINJAGO y armas ninja: Este juego contiene a Arin (con una catana de cristal), Ras (con un martillo dorado) y un guerrero Dragónido, así como un mini maqueta de una criatura dragón de juguete
+- Detalles ninja: La aeronave del set Super Jet de la Tormenta de Ras y Arin cuenta con 2 cañones automáticos, alas ajustables, Espadas de la Tormenta giratorias, y cuchillas y motores que se pueden quitar para usarlos como armas ninja
 - Regalo para niños y niñas de 8 años o más: Este juego de acción es una gran idea de regalo de cumpleaños para jóvenes entusiastas de los juguetes de construcción LEGO y los sets juguetes ninja
+- Avión ninja de juguete combinado: El jet incluye un dron de juguete desmontable con cabeza de dragón que está equipado con 2 cabinas, una de las cuales se puede separar para convertirla en cápsula de escape voladora con afiladas alas
+- Jet con dron de juguete para peques: Los niños y las niñas a partir de 8 años pueden representar la acción aérea de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones con el set Super Jet de la Tormenta de Ras y Arin
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSCCBMT{{</world>}}

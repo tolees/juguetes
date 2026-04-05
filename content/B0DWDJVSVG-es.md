@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Minifigura LEGO de Plo Koon: Este juguete de construcción incluye a Plo Koon con una espada láser azul Star Wars que se puede fijar a la parte inferior del Microfighter
-- Sets de la colección LEGO Star Wars: Los sets LEGO Star Wars (a la venta por separado) ofrecen a peques y fans adultos de Star Wars la oportunidad de revivir escenas clásicas, crear nuevas aventuras o, simplemente, exponer los modelos construibles
 - Maqueta de caza estelar LEGO Star Wars a microescala: Ofrece a tu peque una toma de contacto con las aventuras de Star Wars: Las Guerras Clon a través de esta versión LEGO Star Wars Microfighters del caza estelar Jedi de Plo Koon
 - Explora la gama: Este set forma parte de una divertida colección de maquetas LEGO Star Wars Microfighters de construcción rápida (a la venta por separado), que pueden combinarse para dar vida a aún más apasionantes aventuras constructoras
 - Horas de juego de rol: El set incluye también un elemento que representa la cabeza de R7-D4 para colocarlo en el fuselaje, delante de la cabina del caza estelar; así, el fiel droide de Star Wars podrá acompañar a Plo Koon en sus misiones
-- El primer modelo LEGO Star Wars Microfighters de un caza estelar Jedi: Este caza estelar Jedi en miniatura, decorado con los colores de Plo Koon, está equipado con cabina para una minifigura LEGO y 2 cañones que disparan
 - Regalo del universo Star Wars para niños, niñas y fans a partir de 6 años: Este juguete de construcción de una nave estelar LEGO Star Wars es un emocionante regalo sorpresa para peques creativos
+- Minifigura LEGO de Plo Koon: Este juguete de construcción incluye a Plo Koon con una espada láser azul Star Wars que se puede fijar a la parte inferior del Microfighter
+- Sets de la colección LEGO Star Wars: Los sets LEGO Star Wars (a la venta por separado) ofrecen a peques y fans adultos de Star Wars la oportunidad de revivir escenas clásicas, crear nuevas aventuras o, simplemente, exponer los modelos construibles
+- El primer modelo LEGO Star Wars Microfighters de un caza estelar Jedi: Este caza estelar Jedi en miniatura, decorado con los colores de Plo Koon, está equipado con cabina para una minifigura LEGO y 2 cañones que disparan
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDJVSVG{{</world>}}

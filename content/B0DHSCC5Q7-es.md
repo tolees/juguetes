@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regalo NINJAGO para niños y niñas de 6 años o más: Este pequeño set LEGO es un óptimo regalo para fans de los ninja con pasión por el juego de acción y los juguetes ninja
-- 2 peonzas spinners de juguete cargadas de acción: Los peques colocan los spinners de Spinjitzu del Dragón de Arin y Ras en los lanzadores, y luego los disparan para enfrentarlos en emocionantes duelos giratorios
 - Templo derrumbable: Arin y Ras pueden mejorar sus peonzas con elementos dorados especiales que ganarán por impactar contra el templo donde se celebran las luchas y derrumbarlo
 - 2 minfiguras LEGO NINJAGO con armas ninja: Este juguete de construcción infantil trae al ninja Arin, armado con una espada, y al malvado Ras, también con una espada de juguete
+- 2 peonzas spinners de juguete cargadas de acción: Los peques colocan los spinners de Spinjitzu del Dragón de Arin y Ras en los lanzadores, y luego los disparan para enfrentarlos en emocionantes duelos giratorios
+- Regalo NINJAGO para niños y niñas de 6 años o más: Este pequeño set LEGO es un óptimo regalo para fans de los ninja con pasión por el juego de acción y los juguetes ninja
 - Trepidante juego LEGO NINJAGO para peques: Los niños y las niñas a partir de 6 años podrán interpretar las escenas de la temporada 3 de la serie para televisión NINJAGO: El renacer de los dragones con el Pack de Combate: Spinjitzu del Dragón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

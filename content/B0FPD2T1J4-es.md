@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🃏 Juego de cartas estratégico para 2 jugadores – Duelo por Cardia ofrece partidas rápidas (15 min) llenas de táctica y emoción para mayores de 9 años.
+- 🏆 Consigue 5 sellos y gana el control de Cardia – Enfrenta a las cuatro facciones en una lucha por el poder con decisiones inteligentes y giros inesperados.
 - 👨‍🎨 Diseñado por Mathieu Rivero y Faouzi Boughida – Un juego compacto, dinámico y visualmente atractivo, ideal para amantes de los juegos de mesa modernos.
 - ⚔️ Batallas tácticas con habilidades únicas – Cada jugador usa su mazo de 16 cartas con personajes con iniciativa y poderes especiales que pueden cambiar el rumbo del duelo.
+- 🃏 Juego de cartas estratégico para 2 jugadores – Duelo por Cardia ofrece partidas rápidas (15 min) llenas de táctica y emoción para mayores de 9 años.
 - 🔄 Alta rejugabilidad con cartas adicionales – Incluye 32 cartas extra de personaje y 8 localizaciones que aportan variedad y desafío en cada partida.
-- 🏆 Consigue 5 sellos y gana el control de Cardia – Enfrenta a las cuatro facciones en una lucha por el poder con decisiones inteligentes y giros inesperados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FPD2T1J4{{</world>}}

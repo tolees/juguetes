@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El juego viene con un tablero, cartas de búsqueda, juego, pensar y sorpresa, 12 fichas, un temporizador, dado, 4 figuras y un manual de instrucciones, proporcionando todo lo necesario para una experiencia completa y divertida.
-- Diviértete con la Caza del Tesoro junto a Bluey, su familia y amigos. Elige un personaje y embarca en una búsqueda emocionante, jugando, pensando juntos y disfrutando de sorpresas en el camino.
-- Los jugadores deben trabajar en equipo para encontrar 12 fichas de juguete. La colaboración es clave para avanzar en el juego y descubrir los tesoros ocultos, fomentando el trabajo en equipo y la amistad.
 - Diseñado para niños a partir de 4 años, el juego es accesible y fácil de entender. Las reglas sencillas y la mecánica interactiva aseguran que incluso los más pequeños puedan participar y disfrutar de la aventura de la Caza del Tesoro.
+- El juego viene con un tablero, cartas de búsqueda, juego, pensar y sorpresa, 12 fichas, un temporizador, dado, 4 figuras y un manual de instrucciones, proporcionando todo lo necesario para una experiencia completa y divertida.
+- Los jugadores deben trabajar en equipo para encontrar 12 fichas de juguete. La colaboración es clave para avanzar en el juego y descubrir los tesoros ocultos, fomentando el trabajo en equipo y la amistad.
+- Diviértete con la Caza del Tesoro junto a Bluey, su familia y amigos. Elige un personaje y embarca en una búsqueda emocionante, jugando, pensando juntos y disfrutando de sorpresas en el camino.
 - Con una duración máxima de 15 minutos por partida, este juego es perfecto para mantener a los niños entretenidos sin ser demasiado largo. Ideal para 2-4 jugadores, es una excelente opción para reuniones familiares y tardes de juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

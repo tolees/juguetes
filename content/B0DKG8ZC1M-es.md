@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ARTICULACIÓN PARA POSAR Y JUGAR: Con 9 puntos de articulación, esta figura Marvel permite colocar a Iron Man en distintas posturas de vuelo o ataque. Ideal para juegos dinámicos o para exhibir junto a otros Avengers, fomentando la creatividad y la imaginación de los peques durante horas.
-- DISEÑO CLÁSICO DE PELÍCULA: Incluye una armadura roja y dorada de Iron Man fiel a las películas y cómics. Cada detalle, desde el reactor ARC hasta las líneas del traje, refleja el estilo heroico de Tony Stark mientras combate con un nuevo y oscuro poder alienígena.
 - ACCESORIO VENOMIZADO EXCLUSIVO: Incluye un lanzador inspirado en Venom, que añade realismo y potencia a las batallas. Este accesorio se acopla fácilmente a la figura, permitiendo imaginar ataques especiales donde Iron Man salva el universo Marvel de Venom.
-- TODOS CONTRA VENOM: Forma parte de la línea Epic World of Action de Hasbro, compatible con otras figuras de 10 cm como Black Panther, Thor y Capitán América. Los fans pueden ampliar su colección y recrear enfrentamientos simbióticos llenos de acción y heroísmo entre sus personajes favoritos.
+- ARTICULACIÓN PARA POSAR Y JUGAR: Con 9 puntos de articulación, esta figura Marvel permite colocar a Iron Man en distintas posturas de vuelo o ataque. Ideal para juegos dinámicos o para exhibir junto a otros Avengers, fomentando la creatividad y la imaginación de los peques durante horas.
 - FIGURA DE ACCIÓN ANTI-VENOM: Esta figura de 10 cm muestra al legendario Tony Stark fusionando su tecnología con el poder simbionte. Los niños y niñas podrán recrear batallas épicas contra Venom u otros villanos, viviendo aventuras llenas de acción y valentía.
+- TODOS CONTRA VENOM: Forma parte de la línea Epic World of Action de Hasbro, compatible con otras figuras de 10 cm como Black Panther, Thor y Capitán América. Los fans pueden ampliar su colección y recrear enfrentamientos simbióticos llenos de acción y heroísmo entre sus personajes favoritos.
+- DISEÑO CLÁSICO DE PELÍCULA: Incluye una armadura roja y dorada de Iron Man fiel a las películas y cómics. Cada detalle, desde el reactor ARC hasta las líneas del traje, refleja el estilo heroico de Tony Stark mientras combate con un nuevo y oscuro poder alienígena.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKG8ZC1M{{</world>}}

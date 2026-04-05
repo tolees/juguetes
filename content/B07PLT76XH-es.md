@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gracias al manual ilustrado, el niño podrá seguir paso a paso las instrucciones para construir 10 modelos diferentes, mientras descubre las bases de la mecánica y la ingeniería.
 - Este laboratorio tecnológico te acerca al mundo de la mecánica y la ingeniería mientras construyes tu poderoso monster truck.
+- Gracias al manual ilustrado, el niño podrá seguir paso a paso las instrucciones para construir 10 modelos diferentes, mientras descubre las bases de la mecánica y la ingeniería.
 - Este kit contiene más de 200 componentes para montar, incluidos un diferencial, una dirección con mecanismo de cremallera y un articulación cardán.
 - Juguete en español.
 

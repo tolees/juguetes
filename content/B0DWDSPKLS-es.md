@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección LEGO Harry Potter: Este set de aventuras de fantasía pertenece a una amplia colección de juguetes de construcción LEGO Harry Potter (a la venta por separado) para jugar y exponer
-- Un emblemático lugar: La casa de juguete tiene una terraza interior y se abre para acceder con facilidad a la cocina comedor (con una mesa desmontable), el salón, el dormitorio de Dudley y el dormitorio de Harry
-- Una encantadora casa de juguete: Revive la visita de tía Marge a la casa de su hermano Vernon Dursley en el número 4 de Privet Drive con este juguete de construcción de la colección LEGO Harry Potter
 - 5 minifiguras LEGO Harry Potter: Marge Dursley, Vernon Dursley, Petunia Dursley, Dudley Dursley y Harry Potter, además de una figura de tía Marge hinchada y una figura del perro Ripper
-- Fieles detalles: Una puerta secreta en la parte trasera de la casa que da a la alacena bajo las escaleras, barrotes que se quitan en la ventana del dormitorio de Harry, la farola, la señal que indica “Privet Drive” y más
+- Colección LEGO Harry Potter: Este set de aventuras de fantasía pertenece a una amplia colección de juguetes de construcción LEGO Harry Potter (a la venta por separado) para jugar y exponer
 - Regalo mágico para fans de Harry Potter: Este juguete de construcción LEGO Harry Potter es un gran regalo de cumpleaños para niños, niñas y cualquier mago, bruja o Muggle a partir de 8 años
+- Fieles detalles: Una puerta secreta en la parte trasera de la casa que da a la alacena bajo las escaleras, barrotes que se quitan en la ventana del dormitorio de Harry, la farola, la señal que indica “Privet Drive” y más
+- Una encantadora casa de juguete: Revive la visita de tía Marge a la casa de su hermano Vernon Dursley en el número 4 de Privet Drive con este juguete de construcción de la colección LEGO Harry Potter
 - Instrucciones de construcción 3D: Descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los constructores podrán acercar y girar modelos en 3D, consultar su progreso y guardar sets conforme adquieran nuevas habilidades
+- Un emblemático lugar: La casa de juguete tiene una terraza interior y se abre para acceder con facilidad a la cocina comedor (con una mesa desmontable), el salón, el dormitorio de Dudley y el dormitorio de Harry
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDSPKLS{{</world>}}

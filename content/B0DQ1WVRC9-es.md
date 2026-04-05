@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - REGALO ORIGINAL PARA NIÑOS Y ADULTOS: Mycelia After The Storm es un regalo niño 9 años ideal, pero también un regalo original para adultos que disfrutan de los juegos de cartas y de mesa llenos de estrategia, fantasía y magia.
 - IDEAL PARA PARTIDAS EN PAREJA O EN GRUPO: Diseñado para adaptarse a diferentes situaciones, funciona igual de bien como juegos de mesa para 2 que en partidas familiares o con amigos, ofreciendo siempre una experiencia fresca y entretenida.
+- FÁCIL DE APRENDER Y MUY DIVERTIDO: Con reglas simples y partidas dinámicas, este juego mesa es perfecto como juego de mesa 9 años o como juego de mesa adulto, garantizando diversión tanto para niños como para mayores.
 - MYCELIA AFTER THE STORM: EXPANDE TU AVENTURA: Disfruta de horas de entretenimiento en familia con este juego de mesa de cartas diseñado para niños de 9 años en adelante y adultos, ideal para quienes buscan juegos de mesa originales y envolventes.
 - NUEVO CONTENIDO PARA EL UNIVERSO MYCELIA: Incluye nuevas cartas de setas, gotas de rocío de un nuevo color y un innovador tipo de cartas de objetos únicos que amplían las posibilidades estratégicas y la rejugabilidad del juego principal.
-- FÁCIL DE APRENDER Y MUY DIVERTIDO: Con reglas simples y partidas dinámicas, este juego mesa es perfecto como juego de mesa 9 años o como juego de mesa adulto, garantizando diversión tanto para niños como para mayores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQ1WVRC9{{</world>}}

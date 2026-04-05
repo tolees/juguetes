@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Juguete educativo
 - Juego de mesa tipo puzzle
 - Puzzle 3D
-- Juguete educativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRDX4K51{{</world>}}

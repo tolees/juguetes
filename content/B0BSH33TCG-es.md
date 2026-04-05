@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Defiende la Estrella de la Muerte con un TIE Fighter. Producto de Star Wars con licencia oficial de Jazwares
 - Contiene un accesorio de microfigura de TIE Pilot articulado de 1 pulgada
+- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - El vehículo de 8 centimetros presenta detalles increíbles y proporciones a escala autentica con el resto de naves de la colección
 - Incluye cabina abatible y escotilla trasera, alas removibles y más
 

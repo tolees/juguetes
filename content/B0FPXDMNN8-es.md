@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 8 MINIFIGURAS LEGO NINJAGO: El set incluye los personajes de Zane, Sora, Arin, Lloyd Forma Dragón, Cole Forma Dragón, Monstruo Ácido, Monstruo de Tierra y líder lealista
-- DRAGÓN DE JUGUETE: Recrea trepidantes escenas de acción de la temporada 4 de la serie para televisión NINJAGO: El renacer de los dragones con el set de construcción LEGO NINJAGO Dragón de la Vida
-- UN UNIVERSO DE SETS LEGO NINJAGO: Esta amplia colección permite a los niños escapar a un universo de fantasía inmersiva para jugar con imaginación junto a sus héroes ninjas
-- FIGURA ARTICULADA DE DRAGÓN: El dragón verde de juguete puede desplegar sus alas, tiene mandíbula, cabeza, cuello, piernas, tobillos, garras y cola articulados, así como una montura para una minifigura
-- REGALO PARA NIÑOS Y NIÑAS DE 8 AÑOS O MÁS: Este set con dragón de juguete es un regalo idóneo para fans de los ninjas y la serie LEGO NINJAGO con el que podrán revivir sus escenas favoritas
-- MECA DE JUGUETE: También incluye un minimodelo de un meca villano con brazos de pinza y articulaciones móviles, así como una cabina para alojar la minifigura del Monstruo de Tierra
 - UNA FORMA DIVERTIDA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción que les permite acercar y girar sus modelos en 3D a medida que los construyen, consultar su progreso y guardar sets
+- MECA DE JUGUETE: También incluye un minimodelo de un meca villano con brazos de pinza y articulaciones móviles, así como una cabina para alojar la minifigura del Monstruo de Tierra
+- 8 MINIFIGURAS LEGO NINJAGO: El set incluye los personajes de Zane, Sora, Arin, Lloyd Forma Dragón, Cole Forma Dragón, Monstruo Ácido, Monstruo de Tierra y líder lealista
+- FIGURA ARTICULADA DE DRAGÓN: El dragón verde de juguete puede desplegar sus alas, tiene mandíbula, cabeza, cuello, piernas, tobillos, garras y cola articulados, así como una montura para una minifigura
+- UN UNIVERSO DE SETS LEGO NINJAGO: Esta amplia colección permite a los niños escapar a un universo de fantasía inmersiva para jugar con imaginación junto a sus héroes ninjas
+- REGALO PARA NIÑOS Y NIÑAS DE 8 AÑOS O MÁS: Este set con dragón de juguete es un regalo idóneo para fans de los ninjas y la serie LEGO NINJAGO con el que podrán revivir sus escenas favoritas
+- DRAGÓN DE JUGUETE: Recrea trepidantes escenas de acción de la temporada 4 de la serie para televisión NINJAGO: El renacer de los dragones con el set de construcción LEGO NINJAGO Dragón de la Vida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FPXDMNN8{{</world>}}

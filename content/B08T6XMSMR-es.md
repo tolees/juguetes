@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peluches Mario 25 cm, Luigi 25 cm, Yoshi 27 cm y sapo 20 cm
 - El artículo está ordenado y no es posible seleccionar el modelo
+- Peluches Mario 25 cm, Luigi 25 cm, Yoshi 27 cm y sapo 20 cm
 - Nota: este producto lo suministra el fabricante en una amplia gama de modelos y/o colores. No podemos ofrecerte ninguno de estos modelos o colores específicos, por lo que recibirás uno al azar (sujeto a disponibilidad)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

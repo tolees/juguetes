@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los divertidos sets LEGO para principiantes son la forma perfecta de que los adultos compartan la diversión de construir y jugar con los más pequeños, además, ayudan a los niños a desarrollar habilidades fundamentales
 - Lleva la legendaria acción de los Vengadores a las manos de los jóvenes superhéroes con este set de juguete LEGO Marvel Hulkbuster de Iron Man contra Thanos para niños a partir de 4 años, con una figura de acción de Iron Man y el avión de Thanos
+- Los divertidos sets LEGO para principiantes son la forma perfecta de que los adultos compartan la diversión de construir y jugar con los más pequeños, además, ayudan a los niños a desarrollar habilidades fundamentales
 - Dentro de la caja de juguetes de construcción LEGO Marvel, cada bolsa de ladrillos contiene una maqueta y un personaje que los niños pueden montar para jugar de inmediato, además de una historia ilustrada que sirve de guía para construir y jugar
 - El meca Hulkbuster de los Vengadores de Marvel es totalmente articulable e incluye un asiento para la minifigura de Iron Man; la aeronave tiene un lanzadiscos acoplado y un asiento para la minifigura de Thanos
 - El set de iniciación LEGO 4+ para constructores principiantes incluye a Iron Man con una figura de acción Hulkbuster y a Thanos con un avión de juguete para construir, y 2 ladrillos para principiantes para que la construcción comience de inmediato

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Como mago, deberás juntar grupos de jóvenes dragones para cuidarlos y criarlos
 - Un otro juego diseñado e ilustrado por Michael Menzel, autor de Las Leyendas de Andor y Robin Hood
 - Un juego de cartas familiar que combina las mecánicas de "Forzar la suerte" y "Colección de sets de cartas"
+- Como mago, deberás juntar grupos de jóvenes dragones para cuidarlos y criarlos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3MHPLSY{{</world>}}

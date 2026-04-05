@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con las muñecas Barbie Mermaid Power, las niñas a partir de 3 años pueden crear sus momentos favoritos o imaginar sus propias historias.
-- ¡El adorable caballito de mar inspira fantásticas historias de amistad!
-- La muñecaBarbie cuenta con un look de sirena mágico, pelo azul superlargo y una cola de color degradado preciosa con toques de lujo y escamas esculpidas.
 - Con aletas intercambiables, 2 tiaras con joyas incrustadas, 2 collares y un cepillo para el pelo, las niñas pueden cambiar el look de la muñeca Barbie para cualquier aventura.
+- ¡El adorable caballito de mar inspira fantásticas historias de amistad!
+- Con las muñecas Barbie Mermaid Power, las niñas a partir de 3 años pueden crear sus momentos favoritos o imaginar sus propias historias.
+- La muñecaBarbie cuenta con un look de sirena mágico, pelo azul superlargo y una cola de color degradado preciosa con toques de lujo y escamas esculpidas.
 - Lánzate a la aventura y crea historias con la muñeca Barbie Malibu Roberts inspirada en Barbie Mermaid Power.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

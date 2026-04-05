@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Figura de Suzy Sheep
 - Set de figuras de juguetes
+- Figura de Suzy Sheep
 - Con licencia de "Peppa Pig"
 
 [🛒 Aquí!!!]({{< param buyurl >}})

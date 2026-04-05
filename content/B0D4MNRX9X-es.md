@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967, Educa es sinónimo de calidad y experiencia. Puzzles 3D recomendados para niños y niñas a partir de 14 años.
 - 🧩 ¡EL RETO PUZZLERO CON FORMA DE CUBO! Puzzle de La Noche Estrellada de Van Gogh, La Gioconda de Da Vinci, La Joven de la Perla de Johannes Vermeer, El Beso de Klimt, Girasoles de Van Gogh y Queribunes de Rafael Sanzio.
 - Contenido: 6 puzzles de 36 piezas, 216 piezas en total.
-- Piezas pequeñas, de tamaño similar a las de puzzle adulto.
 - Crea un extraordinario puzzle cube 3D de con piezas plásticas de alta calidad.
+- Piezas pequeñas, de tamaño similar a las de puzzle adulto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4MNRX9X{{</world>}}

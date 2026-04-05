@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 👨‍👩‍👧‍👦 Perfecto para jugar en familia o con amigos – De 2 a 4 jugadores, recomendado a partir de 10 años, con partidas dinámicas de unos 40 minutos.
-- 🏙️ Construye tu propia ciudad – Diseña barrios únicos con viviendas, oficinas, parques y zonas de ocio en este juego de mesa de urbanismo.
-- 🌍 Viaja por ciudades icónicas – Disfruta partidas ambientadas en Nueva York, Barcelona, Venecia, Sídney, Río de Janeiro y más.
-- 🎨 Alta calidad y diseño colorido – Incluye más de 100 losetas, 100 piezas de construcción y componentes ilustrados por Jorge Tabanera para una experiencia inmersiva.
 - Creado por Phil Walker-Harding, autor de grandes éxitos como Sushi Go, Dungeon Raiders o Cacao
 - 🎲 Diversión estratégica para todos – Mecánicas de colocación de trabajadores y construcción de patrones, ideal para jugadores casuales y expertos.
+- 🌍 Viaja por ciudades icónicas – Disfruta partidas ambientadas en Nueva York, Barcelona, Venecia, Sídney, Río de Janeiro y más.
+- 🏙️ Construye tu propia ciudad – Diseña barrios únicos con viviendas, oficinas, parques y zonas de ocio en este juego de mesa de urbanismo.
+- 🎨 Alta calidad y diseño colorido – Incluye más de 100 losetas, 100 piezas de construcción y componentes ilustrados por Jorge Tabanera para una experiencia inmersiva.
+- 👨‍👩‍👧‍👦 Perfecto para jugar en familia o con amigos – De 2 a 4 jugadores, recomendado a partir de 10 años, con partidas dinámicas de unos 40 minutos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB2HW337{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - De 1 a 5 Jugadores a partir de 14 años de edad.
+- La expansión El Santuario del Crepúsculo presenta las conjuras de la Logia del Crepúsculo de Plata mediante dos nuevos escenarios.
+- En el primero, los investigadores han de sacar a relucir el siniestro plan que se oculta tras una cabalgata anual organizada por la ilustre orden.
 - En el segundo, los investigadores deben hallar el modo de escapar de la Logia y guiar a otros prisioneros hasta un lugar seguro.
 - Esta expansión introduce también investigadores, Hechizos y Objetos para completar estos casos, así como una nueva amenaza incorpórea: el Alma en pena.
-- En el primero, los investigadores han de sacar a relucir el siniestro plan que se oculta tras una cabalgata anual organizada por la ilustre orden.
-- La expansión El Santuario del Crepúsculo presenta las conjuras de la Logia del Crepúsculo de Plata mediante dos nuevos escenarios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07J1TTG54{{</world>}}

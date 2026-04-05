@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nueva versión del clásico indiscutible Intrigas de Palacio, del celebrado autor Michael Rieneck
 - Devir Pocket: juegos para jugar en cualquier parte, miles de partidas en tu bolsillo
+- Nueva versión del clásico indiscutible Intrigas de Palacio, del celebrado autor Michael Rieneck
 - Filler por excelencia, con reglas cortas, partidas rápidas, interacción y faroleo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

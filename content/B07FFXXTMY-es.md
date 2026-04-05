@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sienta a la muñeca Barbie en la silla de montar para dar un paseo; Sus rodillas se doblan para que pueda apoyar los pies en los estribos
-- La muñeca Barbie y su caballo están preparados para comenzar una nueva aventura... a caballo
+- El caballo marrón claro tiene crin y cola blancas y suaves, además de una brida rosa extraíble y una silla de montar marrón
+- Colecciona otras muñecas Barbie y sus juguetes para despertar la imaginación y descubrir nuevas posibilidades, porque cuando una niña juega con Barbie, puede ser lo que quiera (se venden por separado y están sujetas a disponibilidad)
 - La muñeca lleva un modelito de equitación informal compuesto de pantalones rosas y blusa vaquera de lunares blancos con volantes, botas altas de montar marrones y un casco rosa
 - Estos dos mejores amigos son el regalo para niñas a partir de 3 años
-- Colecciona otras muñecas Barbie y sus juguetes para despertar la imaginación y descubrir nuevas posibilidades, porque cuando una niña juega con Barbie, puede ser lo que quiera (se venden por separado y están sujetas a disponibilidad)
-- El caballo marrón claro tiene crin y cola blancas y suaves, además de una brida rosa extraíble y una silla de montar marrón
+- Sienta a la muñeca Barbie en la silla de montar para dar un paseo; Sus rodillas se doblan para que pueda apoyar los pies en los estribos
+- La muñeca Barbie y su caballo están preparados para comenzar una nueva aventura... a caballo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FFXXTMY{{</world>}}

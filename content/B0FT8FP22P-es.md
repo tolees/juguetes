@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Personaliza a los miembros de tu pelotón y mejora sus capacidades mediante la experiencia y completando sus misiones de lealtad opcionales
-- La trama varía según tus acciones: las decisiones que tomes influirán en misiones posteriores
+- Asume el papel de Shepard y forma equipo con los demás personajes de la trilogía de Mass Effect: Liara, Tali, Wrex y Garrus.
 - La campaña incluida plantea rutas alternativas que garantizan una experiencia de juego distinta en cada recorrido
 - MASS EFFECT - Prioridad Hagalaz es un juego cooperativo para 1–4 jugadores con un fuerte componente narrativo
-- Asume el papel de Shepard y forma equipo con los demás personajes de la trilogía de Mass Effect: Liara, Tali, Wrex y Garrus.
+- La trama varía según tus acciones: las decisiones que tomes influirán en misiones posteriores
+- Personaliza a los miembros de tu pelotón y mejora sus capacidades mediante la experiencia y completando sus misiones de lealtad opcionales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FT8FP22P{{</world>}}

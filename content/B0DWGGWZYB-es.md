@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Spotlight es un juego cooperativo en el que todo el mundo colabora para descubrir tantos personajes ocultos como sea posible
-- Jugad 5 rondas, ayudaos mutuamente y aseguraos de que nadie llega a casa demasiado tarde
 - Es hora de salir a la calle con tu gente y ver quién sigue por ahí; desenfunda tu fiel linterna y sal a buscar a todos los estrafalarios personajes que se esconden de ti
 - Spotlight ha sido diseñado como un juego cooperativo, pero haciendo un par de cambios en las reglas podrás jugarlo en modo competitivo; elige el modo de juego para Spotlight que mejor se adapte a tu grupo
+- Spotlight es un juego cooperativo en el que todo el mundo colabora para descubrir tantos personajes ocultos como sea posible
+- Jugad 5 rondas, ayudaos mutuamente y aseguraos de que nadie llega a casa demasiado tarde
 - Forma un equipo, encuentra a todos los que puedas y corre de vuelta a casa antes de que el reloj marque la hora de acostarse
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

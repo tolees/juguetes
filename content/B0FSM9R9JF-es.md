@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DESCUBRE 7 WONDERS: todo el emblemático universo del juego de mesa para expertos más premiado del mundo (As Dor 2011 Juego del Año Premio del Jurado, Kennerspiel des Jahres Juego para expertos del año en 2011…).
 - UN JUEGO DE ESTRATEGIA ROLL & WRITE: 7 Wonders es fácil de aprender, pero sus dilemas tácticos harán las delicias de los amantes de los juegos de estrategia.
+- DESARROLLA TU CIUDAD GRACIAS A LOS DADOS: haz prosperar tu ciudad antigua. Construye edificios y tu Maravilla, refuerza tu ejército... todo comienza con la elección correcta de los dados.
 - HASTA 7 JUGADORES: gracias a las acciones simultáneas, podéis jugar de 2 a 7 sin tiempos muertos.
 - ACCESIBLE Y REJUGABLE: ideal para familias con niños a partir de 10 años o para aficionados, para partidas cortas y dinámicas. Gracias a sus 7 tableros diferentes, podéis volver a jugar sin cansaros nunca.
-- DESARROLLA TU CIUDAD GRACIAS A LOS DADOS: haz prosperar tu ciudad antigua. Construye edificios y tu Maravilla, refuerza tu ejército... todo comienza con la elección correcta de los dados.
-- DESCUBRE 7 WONDERS: todo el emblemático universo del juego de mesa para expertos más premiado del mundo (As Dor 2011 Juego del Año Premio del Jurado, Kennerspiel des Jahres Juego para expertos del año en 2011…).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FSM9R9JF{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja Registradora Juguetes - El juguete de caja registradora para niños incluye botella de agua, ketchup, botella de leche, maíz, pimiento verde, pollo, galleta de fresa, cesta de la compra, tarjeta de crédito, billete, monedas y mucho más, 39 piezas en total.
-- Regalo para Niños Niñas - Tamaño: 27*15*11cm. Hecho de plástico de alta calidad con bordes lisos. Adecuado para niños mayores de 3 años. Esta caja registradora permitirá a su hijo estimular su imaginación y ejercitar sus habilidades prácticas. Un gran regalo para niños y niñas.
 - Supermercado Juegos de Rol - Los niños pueden simular ser un cajero o un cliente. Pueden comprar y escanear alimentos, calcular precios, pagar con tarjeta de crédito, hablar por el micrófono, poner los alimentos en la cesta e ir a la caja. Los niños pueden completar un viaje de compras real con sus padres o amigos.
+- Regalo para Niños Niñas - Tamaño: 27*15*11cm. Hecho de plástico de alta calidad con bordes lisos. Adecuado para niños mayores de 3 años. Esta caja registradora permitirá a su hijo estimular su imaginación y ejercitar sus habilidades prácticas. Un gran regalo para niños y niñas.
+- Caja Registradora Juguetes - El juguete de caja registradora para niños incluye botella de agua, ketchup, botella de leche, maíz, pimiento verde, pollo, galleta de fresa, cesta de la compra, tarjeta de crédito, billete, monedas y mucho más, 39 piezas en total.
 - Herramienta de aprendizaje - La caja registradora ayuda a los niños a aprender las habilidades básicas de vida y estudio en un supermercado de simulación.
 - Micrófono y Escáner Realistas - Micrófonos y escáneres capaces de simular experiencias de compras reales.
 
