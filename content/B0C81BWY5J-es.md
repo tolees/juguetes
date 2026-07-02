@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo ideal de cumpleaños y Navidad para niñas pequeñas a partir de 3 años a las que les guste viajar, conocer nuevos países e imaginar historias llenas de magia y aventuras.
 - Incluye a mini Trottie Chiara, una exclusiva muñeca articulada de 10 cm con 3 ojos emoji a quien le encanta Italia. Su poder mágico es seguir cualquier rastro y encontrar cualquier pista gracias a sus capacidades detectivescas. Es muy estilosa y viene con un outfit exclusivo intercambiable con el resto de mini Trotties: un sombrero, una camiseta, faldita y botas. Le encanta ir a la moda, leer novelas de misterio y pilotar su avión.
 - Playset del avión de Trottie Chiara con capacidad para 3 mini Trotties. Es un bonito avión rosa totalmente equipado, como un avión de verdad: asientos con cinturones de seguridad, pantallas de televisión y mesas plegables. En la parte superior, hay un espacio portaequipajes y un mapa Trotties para elegir tu próximo destino. ¡Embárcate en fantásticas aventuras mágicas!
-- Existe una zona de catering donde podrás preparar y servir en bandejitas distintas comidas internacionales: fish and chips, pizza, tacos, perritos calientes, brochetas… ¡Podrás sorprender a tus viajeras Trotties con increíbles recetas de otros países!
+- Regalo ideal de cumpleaños y Navidad para niñas pequeñas a partir de 3 años a las que les guste viajar, conocer nuevos países e imaginar historias llenas de magia y aventuras.
 - ¡Recrea tus momentos favoritos de la serie e imagina que viajas por distintos países con el avión de Chiara! Descubrirás nuevos lugares junto a las Trotties y podrás cumplir fantásticas misiones.
+- Existe una zona de catering donde podrás preparar y servir en bandejitas distintas comidas internacionales: fish and chips, pizza, tacos, perritos calientes, brochetas… ¡Podrás sorprender a tus viajeras Trotties con increíbles recetas de otros países!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C81BWY5J{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Atención a los efectos luminosos! ¡Los LED indican si se necesita agua o si la temperatura es demasiado alta! ¡Y puedes encenderlos de noche para observar en todo momento cómo crecen tus plantas!
 - Edad recomendada: a patir de 8 años. Concebido y diseñado en Italia
-- Podrás experimentar 3 formas diferentes de cultivar las plantas y aprenderás un montón de curiosidades sobre el mundo de la botánica
 - No es solo un invernadero... ¡sino toda una experiencia de juego para experimentar con la botánica del futuro! ¡Con un diseño estudiado específicamente para entrenar tus habilidades de jardinería!
+- ¡Atención a los efectos luminosos! ¡Los LED indican si se necesita agua o si la temperatura es demasiado alta! ¡Y puedes encenderlos de noche para observar en todo momento cómo crecen tus plantas!
 - Gracias a los sensores que contiene el módulo y a la pantalla LCD, ¡podrás controlar en todo momento la temperatura, la humedad y la iluminación del interior de tu invernadero!
+- Podrás experimentar 3 formas diferentes de cultivar las plantas y aprenderás un montón de curiosidades sobre el mundo de la botánica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6ZBV7JV{{</world>}}

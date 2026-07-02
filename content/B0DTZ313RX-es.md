@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Recibe ayuda de los isleños.
-- Mejora tu tren de acuerdo con tus necesidades.
 - Dos trenes entran, uno sale.
+- Mejora tu tren de acuerdo con tus necesidades.
 - Charles es un tren en busca de sangre y vísceras. Tu misión es destruirlo.
 - Recorre una zona enorme sobre tu amigo mecánico.
 

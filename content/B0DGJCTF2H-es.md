@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ponte en la piel de una de las grandes potencias mundiales antes de la Primera Guerra Mundial, establece alianzas y traiciónalas justo en el momento indicado
 - Tras más de 50 años en el mercado, Diplomacy vuelve con una edición renovada dispuesto a demostrar por qué es el rey de los juegos de negociación sin azar
 - Un juego de larga duración para hasta siete jugadores en el que la diplomacia lo será todo
+- Ponte en la piel de una de las grandes potencias mundiales antes de la Primera Guerra Mundial, establece alianzas y traiciónalas justo en el momento indicado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DGJCTF2H{{</world>}}

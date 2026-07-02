@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye: 1 figura de Stitch en una cápsula sorpresa reutilizable, similar a una caja de hamburguesa.
-- A comer, terrícola: A Stitch le gusta el mismo tipo de comida que a los niños, así que, cuando busques en la galaxia un capricho de otro mundo, hazte con una minifigura coleccionable de Stitch de Disney que viene unacunaápsula similar a una caja de hamburguesa.
-- Inspira el juego imaginativo: Creadas para manos pequeñas y grandes imaginaciones, estas figuras de 5 cm son fáciles de agarrar, jugar y mostrar para los más pequeños.
 - Regalos de inspiración cósmica: Las cajas de minifiguras coleccionables de Stitch de Disney son divertidísimos regalos navideños o para incluirlas en cestas de regalo, para decorar pasteles y como recuerdos para repartir en las fiestas para niños y fans de Disney a partir de 3 años.
-- Una figura muy especial: Algunos tendrán la suerte de encontrar la rara figura de Ángel con fresa.
+- A comer, terrícola: A Stitch le gusta el mismo tipo de comida que a los niños, así que, cuando busques en la galaxia un capricho de otro mundo, hazte con una minifigura coleccionable de Stitch de Disney que viene unacunaápsula similar a una caja de hamburguesa.
 - Un misterio en una caja de hamburguesa: Abre la cápsula similar a una caja de hamburguesa de comida rápida para descubrir 1 de las 12 posibles figuras inspiradas en las historias de Lilo y Stitch de Disney: Stitch comiendo un muslo de pollo, un pastel, espaguetis, sushi, queso a la plancha, un té de burbujas, un taco, salsa picante, un aguacate, patatas fritas o una paleta helada.
+- Una figura muy especial: Algunos tendrán la suerte de encontrar la rara figura de Ángel con fresa.
+- Incluye: 1 figura de Stitch en una cápsula sorpresa reutilizable, similar a una caja de hamburguesa.
+- Inspira el juego imaginativo: Creadas para manos pequeñas y grandes imaginaciones, estas figuras de 5 cm son fáciles de agarrar, jugar y mostrar para los más pequeños.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKWD3RXQ{{</world>}}

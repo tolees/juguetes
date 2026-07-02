@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿Quién será el mejor entrenador?
-- 2 Modos de juego: Individual o Multijugador. Requiere de 3 pilas AA (no incluidas)
 - 1000 preguntas para convertirte en un verdadero experto Pokémon. 3 Niveles de juego: Principiante, Avanzado y Experto.
+- 2 Modos de juego: Individual o Multijugador. Requiere de 3 pilas AA (no incluidas)
 - El profesor Pokémon se encarga de todo, desde explicar las reglas, hacer las preguntas, hasta anotar el marcador.
 - El profesor dirá algunos datos del universo Pokémon y tendrás que adivinar si son ✔ verdaderos o falsos.
+- ¿Quién será el mejor entrenador?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B34HRM9H{{</world>}}

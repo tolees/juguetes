@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🪓 Estrategia y aventura en el mundo de los enanos: Lidera tu clan para reconquistar Karrak-sür-Kazar, la montaña sagrada perdida hace siglos.
 - 👑 Del autor de éxitos como Bitoku y Sabika: Germán P. Millán te trae una nueva experiencia inmersiva con ilustraciones de Enrique Fernández.
+- 🕯️ Toma decisiones críticas por tu clan: Gestiona enanos y recursos, planifica tus turnos y demuestra que tu clan merece el reconocimiento del rey.
 - 🧱 Reconstruye la gloria ancestral: Excava, combate criaturas oscuras y restaura los salones de tus antepasados para ganar puntos de gloria.
 - 🎲 Juego de mesa completo de 1 a 4 jugadores: Ideal para sesiones estratégicas de 100 minutos, a partir de 14 años.
-- 🕯️ Toma decisiones críticas por tu clan: Gestiona enanos y recursos, planifica tus turnos y demuestra que tu clan merece el reconocimiento del rey.
+- 🪓 Estrategia y aventura en el mundo de los enanos: Lidera tu clan para reconquistar Karrak-sür-Kazar, la montaña sagrada perdida hace siglos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FX4QCXNK{{</world>}}

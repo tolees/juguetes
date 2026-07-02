@@ -32,10 +32,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Brio 300 está fabricado con un mínimo del 48 % de plástico reciclado posconsumo para un futuro mejor (2)
 - Hecha para reuniones: Brio Webcam 300 es compatible con la mayoría de las plataformas de videoconferencia y está certificada para Zoom, Microsoft Teams y Google Meet
 - Este producto cumple los estándares de compatibilidad de Google. Google no acepta ninguna responsabilidad relativa al funcionamiento de este producto ni al cumplimiento de normas de seguridad por parte del mismo.
-- Gira para obtener privacidad instantánea: Gira el obturador de privacidad de la cámara web para bloquear el objetivo de la cámara cuando no necesites estar en pantalla
-- Corrección automática de luz: La tecnología RightLight 2 compensa automáticamente las malas condiciones de iluminación del vídeo para que se te vea con claridad
 - Suena como tú: El micrófono mono con reducción de ruido suprime el sonido de fondo para que todos los participantes en la llamada puedan escucharte fácilmente
 - Logi Tune: Disfruta de la aplicación gratuita (1) (2) para personalizar tus experiencias de vídeo, como ajustar el color y la calidad de la imagen
+- Corrección automática de luz: La tecnología RightLight 2 compensa automáticamente las malas condiciones de iluminación del vídeo para que se te vea con claridad
+- Gira para obtener privacidad instantánea: Gira el obturador de privacidad de la cámara web para bloquear el objetivo de la cámara cuando no necesites estar en pantalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07W7KWV2Y{{</world>}}

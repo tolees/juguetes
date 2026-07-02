@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
+- HOMBRE LOBO: Cada jugador recibe una carta de rol para jugar en secreto; al final de la partida, todos los jugadores votan quién podría ser un Licántropo, el jugador que recibe la mayor cantidad de votos es eliminado y su equipo pierde
 - JUEGA CON ESTRATEGIA: Divertido y desafiante, este juego de estrategia para fiestas incluye una aplicación gratuita del Narrador que te guiará para una ambientación aún más intensa. Perfecto para noches con amigos o en familia
 - CARACTERÍSTICAS: Número de jugadores 3-10, edad recomendada 9+, duración 10 minutos, edición en castellano
 - LUNA LLENA: Después de una larga noche de luna llena, el pueblo se despierta con un amanecer amenazante; ¿quién ganará entre la manada de hombres lobo y la comunidad del pueblo? ¿Podrán los traidores ser descubiertos antes de que se acabe el tiempo?
-- DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
-- HOMBRE LOBO: Cada jugador recibe una carta de rol para jugar en secreto; al final de la partida, todos los jugadores votan quién podría ser un Licántropo, el jugador que recibe la mayor cantidad de votos es eliminado y su equipo pierde
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SHMZFSB{{</world>}}

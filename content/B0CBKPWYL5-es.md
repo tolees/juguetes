@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De la marca "Nerf"
 - De la serie Lion Fury
 - Recarga para pistola de juguete
-- De la marca "Nerf"
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBKPWYL5{{</world>}}

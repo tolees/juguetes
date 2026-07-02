@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca Devir
 - Se trata de un juego competitivo
+- De la marca Devir
 - El ganador debe dar con la mejor comida para su asno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

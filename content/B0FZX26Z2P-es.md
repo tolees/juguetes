@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🚀 Ambientación inmersiva: Conviértete en un tripulante de la nave Beagle o lucha contra el misterioso parásito que controla mentes — emoción y tensión desde la primera carta.
-- 🎒 Formato portátil y accesible: Parte de la colección pocket de Devir, diseño compacto, fácil de llevar y perfecto para jugar en cualquier momento o lugar.
-- 🤫 Roles ocultos para 5-12 jugadores: Ideal para grupos grandes, permite partidas divertidas y dinámicas en las que nadie sabe quién es aliado… o enemigo.
-- 👨‍👩‍👧‍👦 Para toda la familia a partir de 8 años: Partidas de unos 30 minutos que combinan estrategia ligera y diversión sin complicaciones, ideal tanto para jugadores habituales como para nuevos.
 - 🧠 Decisiones, votaciones y engaños: Usa cartas con poderes especiales, altera las votaciones y desvela las identidades antes de que sea demasiado tarde.
+- 🎒 Formato portátil y accesible: Parte de la colección pocket de Devir, diseño compacto, fácil de llevar y perfecto para jugar en cualquier momento o lugar.
+- 👨‍👩‍👧‍👦 Para toda la familia a partir de 8 años: Partidas de unos 30 minutos que combinan estrategia ligera y diversión sin complicaciones, ideal tanto para jugadores habituales como para nuevos.
+- 🤫 Roles ocultos para 5-12 jugadores: Ideal para grupos grandes, permite partidas divertidas y dinámicas en las que nadie sabe quién es aliado… o enemigo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FZX26Z2P{{</world>}}

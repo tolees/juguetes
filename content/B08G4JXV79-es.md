@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
-- Bandmates
 - Número de piezas: 11
+- Verifica la compatibilidad de tu dispositivo descargando la aplicación gratuita y graba tu primer vídeo musical con un Bandmate digital gratis antes de comprarlo. Busca LEGO VIDIYO en App Store o Google Play
 - Cada caja de sorpresa contiene una mini figura de Bandmates Edición 1, dos BeatBits elegidos al azar, un BeatBit especial y un accesorio addicional para una diversión infinita.
+- Bandmates
 - Edad recomendada por el fabricante: 7+
 
 [🛒 Comprar!!!]({{< param buyurl >}})

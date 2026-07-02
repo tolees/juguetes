@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ÉPICO UNBOXING VOLADOR: Ayuda al dinosaurio más pequeño a escapar sacudiendo y pinchando al gran dinosaurio dormido. Una experiencia unboxing inolvidable
 - GUIADO CON LA MANO: Una vez que el dino se abra, simplemente mantén tu mano debajo de los pies del pequeño dinosaurio para controlarlo y guiarlo tan alto como puedas
+- ÉPICO UNBOXING VOLADOR: Ayuda al dinosaurio más pequeño a escapar sacudiendo y pinchando al gran dinosaurio dormido. Una experiencia unboxing inolvidable
 - LA IMAGINACIÓN VUELA: Lleva el tiempo de juego al siguiente nivel. Eleva el tiempo de juego con un GrossMos Flying Dino, que aporta un sinfín de aventuras y fomenta la narración creativa a través del juego
 - DESCÚBRELO UNA Y OTRA VEZ: Sigue divirtiéndote y observa cómo escapa el dinosaurio una y otra vez
 

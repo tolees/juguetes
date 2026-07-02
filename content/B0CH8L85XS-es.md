@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Papel texturizado de alta calidad
-- Con licencia oficial de naipes
 - Mejor calidad de impresión
+- Con licencia oficial de naipes
+- Papel texturizado de alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH8L85XS{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡El último que quede en pie será el ganador! Decide tu estrategia y obsérvala ejecutarse ante tus ojos
 - Las posibilidades son ilimitadas.; intenta en cada batalla que el último Bot superviviente sea uno de los tuyos
 - Reúne a tu grupo de robots de combate (Bots) y llévalos a la arena
 - Elige Bots con sinergias, recicla las unidades obsoletas, sube de nivel para construir máquinas cada vez más poderosas o prueba suerte con un plan agresivo pero arriesgado basado en un ejército de autómatas sencillos
+- ¡El último que quede en pie será el ganador! Decide tu estrategia y obsérvala ejecutarse ante tus ojos
 - Hazte con los cristales y absorbe su poder. ¡LA BATALLA FINAL LO DECIDIRÁ TODO!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Contiene: 1 pistola Nerf Elite 2-0 V SD-1 y 3 dardos oficiales Nerf Elite
-- Nuevo diseño, mayor tamaño y más puntos de fijación y rieles para fijar accesorios
 - se trata de un modelo surtido, se manda una unidad según disponibilidad
+- Nuevo diseño, mayor tamaño y más puntos de fijación y rieles para fijar accesorios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QGNCCXW{{</world>}}

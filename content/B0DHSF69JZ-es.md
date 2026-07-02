@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - MULTITUD DE ACCESORIOS: Este juguete de Peppa Pig incluye una cámara de juguete, 2 tazas, 2 sacos de dormir, una hoguera, un mapa, una tienda de campaña construible, un árbol y flores
 - REGALO INFANTIL PARA NIÑAS Y NIÑOS DE 2 AÑOS: Este juguete LEGO DUPLO educativo es un divertido regalo para cualquier niño al que le encanten los juguetes de la naturaleza y los juegos de Peppa Pig
-- JUGUETE EDUCATIVO PARA NIÑAS Y NIÑOS DE 2 AÑOS: Los peques ayudarán a Peppa Pig y Papá Pig a montar la tienda de campaña e inventarán creativas historias con los personajes a bordo de la canoa de juguete
 - JUEGO DE PEPPA PIG: El juguete de construcción LEGO DUPLO Peppa Pig Excursión Campestre transporta a los peques al bosque para disfrutar viviendo aventuras con Peppa Pig y Papá Pig
+- JUGUETE EDUCATIVO PARA NIÑAS Y NIÑOS DE 2 AÑOS: Los peques ayudarán a Peppa Pig y Papá Pig a montar la tienda de campaña e inventarán creativas historias con los personajes a bordo de la canoa de juguete
 - UN JUGUETE MONTESSORI: El juguete enseña a los niños a cuidar de la naturaleza y el medioambiente, y también ayuda a los niños a explorar sus emociones durante su primera excursión al aire libre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AUTÉNTICO: El ciclo de batalla de Rockstedy es auténtico y está decorado tal y como aparece en la película Mutant Mayhem, tiene todos los detalles como el sidecar de la película basada en la exitosa serie animada de televisión de los años 80.
 - RECARGABLE Y DIVERTIDO: Las lanzaderas laterales de la motocicleta se recargan con misiles que se pueden disparar. Rockstedy podrá hacer ruido con su moto y generar el caos mientras va sentado en ella con su rifle de batalla.
-- COLECCIÓNALOS TODOS: Junta todas las figuras de acción, accesorios y los playsets de juego de la película Tortugas Ninja: Caos Mutante; Como las figuras de acción Básicas o Deluxe o estos vehículos Ninja de TMNT: Sidecar Modular, la Moto Ninja Kick Cycle o Moto Rockstedy.
 - ACCESORIOS: Viene con el poderoso rifle de Rockstedy que se puede guardar en el Ciclo de Batalla, ¡y unos misiles que se pueden cargar en las lanzaderas laterales de la moto para añadir acción de batalla!
+- COLECCIÓNALOS TODOS: Junta todas las figuras de acción, accesorios y los playsets de juego de la película Tortugas Ninja: Caos Mutante; Como las figuras de acción Básicas o Deluxe o estos vehículos Ninja de TMNT: Sidecar Modular, la Moto Ninja Kick Cycle o Moto Rockstedy.
+- AUTÉNTICO: El ciclo de batalla de Rockstedy es auténtico y está decorado tal y como aparece en la película Mutant Mayhem, tiene todos los detalles como el sidecar de la película basada en la exitosa serie animada de televisión de los años 80.
 - FIGURA EXCLUSIVA ARTICULADA: ¡Incluye una exclusiva figura de acción básica de Rockstedy que mide casi 11 centímetros de alto y es totalmente articulada en 12 puntos diferentes, para que puedas colocarla en la posición que quieras, ¡listo para las poses de acción de batalla!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

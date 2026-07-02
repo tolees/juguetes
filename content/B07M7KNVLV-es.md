@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Include Dark Souls Remastered, Dark Souls II: Scholar of The First Sin, Dark Souls III: The Fire Fades
 - Tutti i contenuti aggiuntivi dei 3 giochi e le loro colonne sonore originali
+- Include Dark Souls Remastered, Dark Souls II: Scholar of The First Sin, Dark Souls III: The Fire Fades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07M7KNVLV{{</world>}}

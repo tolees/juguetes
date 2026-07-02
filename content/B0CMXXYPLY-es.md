@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Planea combos a través de los monumentos más emblemáticos de la historia de la humanidad, como las pirámides de México o la esfinje de Giza
-- Crea tu civilización en poco más de una hora
 - Juego de draft de cartas y engine building con toda la calidad gráfica a la que nos tiene acostumbrados Iello
+- Crea tu civilización en poco más de una hora
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMXXYPLY{{</world>}}

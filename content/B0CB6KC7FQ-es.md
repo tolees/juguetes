@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye 1 muñeca pequeña, 1 conjunto de juego y 9 accesorios.
 - Los niños y las niñas (a partir de 3 años) pueden ayudar a Chelsea a trabajar en el puesto, ¡igual que en la película de dibujos animados “Barbie and Stacie to the Rescue”!
 - Esta muñeca Chelsea es la vendedora de chuches más adorable con su visera y su vestido de color rosa.
-- ¡Pásate a por un dulce por el conjunto de juego Puesto de piruletas de Chelsea!
 - Este conjunto de juego de 10 piezas cuenta con un expositor de piruletas giratorio, deliciosas piruletas, un bonito osito de peluche y globos de fiesta que encajan en las manos de la muñeca.
+- ¡Pásate a por un dulce por el conjunto de juego Puesto de piruletas de Chelsea!
+- Incluye 1 muñeca pequeña, 1 conjunto de juego y 9 accesorios.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB6KC7FQ{{</world>}}

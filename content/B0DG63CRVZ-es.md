@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La expansión de investigadores La conspiración de Innsmouth se puede emplear para crear o potenciar mazos de investigador para cualquier escenario o campaña de Arkham Horror: El juego de cartas.
-- Se necesita una caja básica de Arkham Horror: El juego de cartas para jugar
 - Observa desde las sombras como Trish Scarborough, la espía; realiza trucos arcanos como Dexter Drake, el mago; y navega por mar abierto como Silas Marsh, el marinero.
-- Esta expansión de investigadores contiene cinco investigadores y todas las cartas de Jugador y opciones de personalización que aparecieron originalmente en el ciclo La conspiración de Innsmouth.
+- La expansión de investigadores La conspiración de Innsmouth se puede emplear para crear o potenciar mazos de investigador para cualquier escenario o campaña de Arkham Horror: El juego de cartas.
 - Concede bendiciones como la hermana Mary, la monja; aprende y practica diversos campos de estudio como Amanda Sharpe, la estudiante.
+- Se necesita una caja básica de Arkham Horror: El juego de cartas para jugar
+- Esta expansión de investigadores contiene cinco investigadores y todas las cartas de Jugador y opciones de personalización que aparecieron originalmente en el ciclo La conspiración de Innsmouth.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DG63CRVZ{{</world>}}

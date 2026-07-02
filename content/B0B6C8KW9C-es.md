@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- - ADÉNTRATE EN EL MUNDO DE LOS DETECTIVES. Conviértete en un verdadero detective y utiliza tu ojo perspicaz y tu deducción ingeniosa para encontrar pruebas, descubrir motivos y encarcelar a los culpables.
-- - 16 CASOS NUEVOS. Descubre un nuevo mapa de la ciudad y desafía tu habilidad detective resolviendo los 16 nuevos casos incluidos en este juego. Full House es un juego independiente, por lo que no necesitas el juego original para disfrutar de esta emocionante experiencia.
 - - EXPERIENCIA COOPERATIVA. Sumérgete en el mundo de los detectives y trabaja en equipo para resolver intrincados casos criminales. La colaboración y la comunicación serán clave para desentrañar los misterios de Crime City.
+- - ADÉNTRATE EN EL MUNDO DE LOS DETECTIVES. Conviértete en un verdadero detective y utiliza tu ojo perspicaz y tu deducción ingeniosa para encontrar pruebas, descubrir motivos y encarcelar a los culpables.
 - - ¡MEJOR JUEGO DEL AÑO 2021! Disfruta de la emoción y la diversión de Micro Macro: Crime City, el aclamado juego de cartas que ha sido reconocido como el mejor juego del año.
+- - 16 CASOS NUEVOS. Descubre un nuevo mapa de la ciudad y desafía tu habilidad detective resolviendo los 16 nuevos casos incluidos en este juego. Full House es un juego independiente, por lo que no necesitas el juego original para disfrutar de esta emocionante experiencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6C8KW9C{{</world>}}

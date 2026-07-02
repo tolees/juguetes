@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La icónica nave espacial de Star Wars de 30 cm con 4 figuras a escala perfecta.
-- Producto distribuido en España por BIZAK. Servicio al cliente disponible durante todo el año (sat@bizak.es)
 - Funciones de sonido basadas en sensores de movimiento. Impulsores luminosos.
-- La cabina se adapta a las 4 figuras. Media apertura trasera con detalles completos de las salas de tripulación y el área del motor. Placa de radar giratoria y pistolas manejables y pivotantes.
 - Incluye figura de Obi Wan Kenobi, la princesa Leia, Han Solo y Chewbacca
+- La cabina se adapta a las 4 figuras. Media apertura trasera con detalles completos de las salas de tripulación y el área del motor. Placa de radar giratoria y pistolas manejables y pivotantes.
+- Producto distribuido en España por BIZAK. Servicio al cliente disponible durante todo el año (sat@bizak.es)
+- La icónica nave espacial de Star Wars de 30 cm con 4 figuras a escala perfecta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JW8JNL{{</world>}}

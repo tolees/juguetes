@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Figura de juguete
-- Elemento de disfraz
 - Con licencia de "Peppa Pig"
+- Elemento de disfraz
+- Figura de juguete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJVQP8HV{{</world>}}

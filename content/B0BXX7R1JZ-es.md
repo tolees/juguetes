@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una aventura desafiante y un viaje para disfrutar descubriendo todas las pistas y resolviendo los enigmas entrenando la mente y el pensamiento lateral
-- 3 aventuras en 1, desde el antiguo Egipto hasta la Edad Media pasando por la antigua Grecia; en los distintos escenarios, vivirás distintas aventuras que tendrás que ir resolviendo
-- Un juego actual que envolverá a grandes y pequeños en un torbellino de diversión; podrás jugar con tu familia y amigos para una completa diversión
-- Muchos enigmas que resolver con ingenio y lógica, y pistas que encontrar para poder completar la aventura, gracias a tu ingenio y estrategia
 - Para todos los aficionados al Escape room, acertijos y adivinanzas, hay una aventura por vivir retrocediendo en el tiempo
+- Un juego actual que envolverá a grandes y pequeños en un torbellino de diversión; podrás jugar con tu familia y amigos para una completa diversión
+- 3 aventuras en 1, desde el antiguo Egipto hasta la Edad Media pasando por la antigua Grecia; en los distintos escenarios, vivirás distintas aventuras que tendrás que ir resolviendo
+- Muchos enigmas que resolver con ingenio y lógica, y pistas que encontrar para poder completar la aventura, gracias a tu ingenio y estrategia
+- Una aventura desafiante y un viaje para disfrutar descubriendo todas las pistas y resolviendo los enigmas entrenando la mente y el pensamiento lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXX7R1JZ{{</world>}}

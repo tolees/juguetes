@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎁 REGALO DIVERTIDO – Perfecto para cumpleaños, Reyes y aficionados a la música de cualquier estilo.
 - 🇪🇸 EDICIÓN EN ESPAÑOL – Contenido y referencias musicales pensados para el público hispanohablante.
-- ⏱️ REGLAS SENCILLAS – Se aprende en minutos y se juega en partidas dinámicas y divertidas.
 - 👥 DE 2 A 8 JUGADORES – Ideal para fiestas, cenas en familia o noches con amigos.
+- ⏱️ REGLAS SENCILLAS – Se aprende en minutos y se juega en partidas dinámicas y divertidas.
+- 🎁 REGALO DIVERTIDO – Perfecto para cumpleaños, Reyes y aficionados a la música de cualquier estilo.
 - 🎵 PARTY GAME MUSICAL – Retos, adivinanzas y trivia para descubrir quién tiene mejor memoria musical.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

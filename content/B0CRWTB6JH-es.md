@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COLA QUE CAMBIA DE COLOR: Crea tu propia cola de sirena para tu peque. Solo tienes que mezclar los 2 colores de gel, verterlos en el molde de cola y dejar que se endurezca durante 30 minutos para que se transforme en una colorida cola de sirena
-- COLECCIONA: ¡8 estilos para coleccionar! Recibe una peque L.O.L. Surprise de un surtido aleatorio
 - PARA TU COLECCIÓN DE SIRENAS: Completa un mundo de juegos con las hermanas bebé sirena y descubre 4 muñecas de moda con preciosas colas que cambian de color con Mermaid Tweens
 - SORPRESA EN EL AGUA: Una vez que tus peques se hayan puesto sus nuevas e impresionantes colas, sumérgelas en agua fría para revelar un precioso cambio de color
+- COLECCIONA: ¡8 estilos para coleccionar! Recibe una peque L.O.L. Surprise de un surtido aleatorio
+- COLA QUE CAMBIA DE COLOR: Crea tu propia cola de sirena para tu peque. Solo tienes que mezclar los 2 colores de gel, verterlos en el molde de cola y dejar que se endurezca durante 30 minutos para que se transforme en una colorida cola de sirena
 - PECERA: ¡Salpica en tu bola pecera L.O.L. con tu colorida cola que cambia de color! La bola sirve como pecera y también como bañera de jacuzzi para tu sirena
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAMPAÑA ÉPICA DE 5 CAPÍTULOS: Vive una historia evolutiva a través de un libro de capítulos donde forjarás nuevas leyendas mientras defiendes la entrada subterránea del castillo de hordas de monstruos
-- CONTINÚA LA SAGA DE AVEL: Defiende el reino frente a la nueva amenaza de los dioses de las tres lunas oscuras en este emocionante juego de mesa ambientado tras los eventos de las Crónicas de Avel
 - MINIEXPANSIÓN EXCLUSIVA: La caja contiene 4 fichas de compañeros animales (unicornios) totalmente compatibles para ser utilizados como miniexpansión en el juego base Crónicas de Avel
-- CONTENIDO MASIVO Y PREMIUM: El set incluye 182 cartas, un tapete de juego, 4 tableros de jugador, 4 figuras de héroe detalladas, una figura de carro y multitud de fichas de resistencia y habilidades
 - MEJORA TU ESTRATEGIA: Fortalece tus mazos con poderosas cartas de objetos avanzados y utiliza el polvo mágico y el poder de las hadas para superar los desafíos tácticos más complicados
+- CONTINÚA LA SAGA DE AVEL: Defiende el reino frente a la nueva amenaza de los dioses de las tres lunas oscuras en este emocionante juego de mesa ambientado tras los eventos de las Crónicas de Avel
+- CAMPAÑA ÉPICA DE 5 CAPÍTULOS: Vive una historia evolutiva a través de un libro de capítulos donde forjarás nuevas leyendas mientras defiendes la entrada subterránea del castillo de hordas de monstruos
+- CONTENIDO MASIVO Y PREMIUM: El set incluye 182 cartas, un tapete de juego, 4 tableros de jugador, 4 figuras de héroe detalladas, una figura de carro y multitud de fichas de resistencia y habilidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQYPF7CJ{{</world>}}

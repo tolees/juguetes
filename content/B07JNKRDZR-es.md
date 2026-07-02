@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - En el corazón de la selva, el león se ha quedado dormido
-- ¡Rápido! ¡Es tu oportunidad de salvar a los animales!
-- A partir de 4 años de edad
 - ¡3 niveles de dificultad!
 - ¡usa tu memoria y tus reflejos para ser el primero en coger el tótem!
+- ¡Rápido! ¡Es tu oportunidad de salvar a los animales!
+- A partir de 4 años de edad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JNKRDZR{{</world>}}

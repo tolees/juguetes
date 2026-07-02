@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🃏 ¡VERSIÓN MEJORADA! El juego de las apuestas, "la podrida", "la pocha", "Jorge", etc., con cartas de Misión que hacen cada partida única.
-- ⚡ ¡REGLAS SIMPLES, PARTIDAS RÁPIDAS! De 2 a 8 jugadores y +8 años. Ideal para fiestas con amigos, familia y vacaciones.
 - 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
-- 🎁 ¡REGALO PERFECTO! Un juego de cartas divertido y portátil. Regalo para hombres y mujeres, niños y adultos.
+- 🃏 ¡VERSIÓN MEJORADA! El juego de las apuestas, "la podrida", "la pocha", "Jorge", etc., con cartas de Misión que hacen cada partida única.
 - 🎯 ¡ESTRATEGIA Y DIVERSIÓN! Apuesta las bazas que ganarás y cumple tu objetivo. Mezcla perfecta de estrategia, faroles y emoción en cada partida.
+- ⚡ ¡REGLAS SIMPLES, PARTIDAS RÁPIDAS! De 2 a 8 jugadores y +8 años. Ideal para fiestas con amigos, familia y vacaciones.
+- 🎁 ¡REGALO PERFECTO! Un juego de cartas divertido y portátil. Regalo para hombres y mujeres, niños y adultos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FBMDZY83{{</world>}}

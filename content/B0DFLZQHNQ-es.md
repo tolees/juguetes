@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre datos curiosos y sorprendentes en este apasionante juego en el que no ganará quien más sabe sino quien se imagine mejor las respuestas.
 - En cada ronda se revela un reto, y cada participante tiene que jugar las cartas que cree que se acercan más para conseguir ese objetivo.
-- Cada contrincante tiene cuatro cartas: cada una de ellas con una pregunta por un lado y su respuesta numérica por el otro, que no se debe desvelar hasta el final.
 - Cuando se revelan, se lee la pregunta y la respuesta de cada carta, y nos quedamos con aquellas que nos hayan ayudado a completar el desafío.
 - Gana quien más cartas tenga en su poder después de ocho rondas.
+- Cada contrincante tiene cuatro cartas: cada una de ellas con una pregunta por un lado y su respuesta numérica por el otro, que no se debe desvelar hasta el final.
+- Descubre datos curiosos y sorprendentes en este apasionante juego en el que no ganará quien más sabe sino quien se imagine mejor las respuestas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFLZQHNQ{{</world>}}

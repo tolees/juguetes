@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - JUEGOS DE MESA ESTRATÉGICOS Y COOPERATIVOS: Los jugadores cultivan productos y los intercambian por objetos raros custodiados por los habitantes del pueblo. Una expansión perfecta como juegos de mesa para 2 o más jugadores.
-- MINECRAFT FARMER’S MARKET – EXPANSIÓN DE JUEGO DE MESA ADULTO Y JUVENIL: Expande la experiencia de Minecraft Builders & Biomes con nuevos caminos a través del campo de vegetales. Ideal como juegos de mesa adultos y juegos de mesa niños 10 años.
-- CARACTERÍSTICAS DEL JUEGO DE MESA: Diseñado para 2 a 4 jugadores, recomendado a partir de 10 años y con partidas de 30 a 60 minutos. Una edición en castellano que enriquece el universo de Minecraft Builders & Biomes.
-- REGALO ORIGINAL PARA FANS DE MINECRAFT: Minecraft Farmer’s Market es un regalo niño 10 años perfecto y también un regalo original para adultos que disfrutan de juegos mesa estratégicos y del universo Minecraft.
 - JUEGO DE MESA CON NUEVAS OPCIONES: Además de explorar, recoger bloques y enfrentarse a monstruos, ahora se pueden adquirir objetos con propiedades especiales en el mercado. Un juego mesa ideal para fans de Minecraft.
+- MINECRAFT FARMER’S MARKET – EXPANSIÓN DE JUEGO DE MESA ADULTO Y JUVENIL: Expande la experiencia de Minecraft Builders & Biomes con nuevos caminos a través del campo de vegetales. Ideal como juegos de mesa adultos y juegos de mesa niños 10 años.
+- REGALO ORIGINAL PARA FANS DE MINECRAFT: Minecraft Farmer’s Market es un regalo niño 10 años perfecto y también un regalo original para adultos que disfrutan de juegos mesa estratégicos y del universo Minecraft.
+- CARACTERÍSTICAS DEL JUEGO DE MESA: Diseñado para 2 a 4 jugadores, recomendado a partir de 10 años y con partidas de 30 a 60 minutos. Una edición en castellano que enriquece el universo de Minecraft Builders & Biomes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084DHDQX8{{</world>}}

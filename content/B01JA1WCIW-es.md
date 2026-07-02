@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con bandeja para las judías.
-- El juego de mesa de bolsillo.
 - El popular juego de culto con normas simplificadas.
+- El juego de mesa de bolsillo.
+- Con bandeja para las judías.
 - Por el autor Uwe Rosenberg.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

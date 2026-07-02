@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para grupos de 2 a 6 jugadores, con una duración media de 30 minutos, dinámica y rejugable.
-- Identifica canciones (en inglés) o artistas de los años 80 y crea tu propia mixtape con desafíos que cambian el desarrollo de cada partida. Incluye 150 cartas en total: 130 cartas de juego + 20 cartas QR para activar las pistas musicales.
-- Vive la nostalgia ochentera con el juego de cartas Stranger Things Hawkins Hitmaker, inspirado en la música y el ambiente de los años 80.
-- Escanea una tarjeta del juego de cartas y la música se reproducirá automáticamente en Spotify.
 - Para mayores de 14 años, ideal para niñas/os, adolescentes y adultos que adoran la música ochentera y la diversión estratégica.
+- Vive la nostalgia ochentera con el juego de cartas Stranger Things Hawkins Hitmaker, inspirado en la música y el ambiente de los años 80.
+- Ideal para grupos de 2 a 6 jugadores, con una duración media de 30 minutos, dinámica y rejugable.
+- Escanea una tarjeta del juego de cartas y la música se reproducirá automáticamente en Spotify.
+- Identifica canciones (en inglés) o artistas de los años 80 y crea tu propia mixtape con desafíos que cambian el desarrollo de cada partida. Incluye 150 cartas en total: 130 cartas de juego + 20 cartas QR para activar las pistas musicales.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FZC85QZK{{</world>}}

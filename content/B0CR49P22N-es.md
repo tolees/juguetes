@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aaliyah demostró un talento inigualable como cantante y actriz emergente. Su voz suave sonando sobre ritmos futuristas introdujo un estilo de R&B nuevo y revolucionario.
-- Lleva un top corto negro y unos pantalones a juego con detalles de cordones y tachuelas, mientras que los tonos llamativos, el chaleco con cremallera y las mangas cortadas añaden carácter a su atuendo de estilo motero.
-- Barbie rinde homenaje a la única e incomparable Princesa del R&B, Aaliyah, con una muñeca coleccionable que representa su estilo moderno e innovador de los 90.
-- La muñeca Barbie de Aaliyah lleva un conjunto de cuero sintético inspirado en el videoclip del éxito de la cantante One in a Million, el tema principal del segundo disco de la artista, con el que obtuvo un doble Platino.
 - Su legado sigue vivo a día de hoy en la música, la moda y la cultura. La muñeca Barbie de Aaliyah rinde homenaje a esta influyente estrella, por lo que es un regalo ideal tanto para fans como para coleccionistas.
+- Barbie rinde homenaje a la única e incomparable Princesa del R&B, Aaliyah, con una muñeca coleccionable que representa su estilo moderno e innovador de los 90.
+- Lleva un top corto negro y unos pantalones a juego con detalles de cordones y tachuelas, mientras que los tonos llamativos, el chaleco con cremallera y las mangas cortadas añaden carácter a su atuendo de estilo motero.
+- La muñeca Barbie de Aaliyah lleva un conjunto de cuero sintético inspirado en el videoclip del éxito de la cantante One in a Million, el tema principal del segundo disco de la artista, con el que obtuvo un doble Platino.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CR49P22N{{</world>}}

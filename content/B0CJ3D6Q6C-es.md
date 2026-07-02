@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: blanco
 - Incluye micrófono
+- Color: blanco
 - Auriculares de sonido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

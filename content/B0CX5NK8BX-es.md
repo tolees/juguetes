@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - EDAD: Rummikub Dice es un juego para toda la familia. Es adecuado para niños a partir de 7 años y pueden jugar de 2 a 4 jugadores simultáneamente.
-- JUEGO DIVERTIDO: Con infinitas posibilidades para crear palabras diferentes, este juego ofrece muchas horas de juego variado para grandes y pequeños.
 - JUEGO CLÁSICO: Rummikub ahora también con palabras. Crea las palabras más largas en este juego de mesa, acumula la mayor cantidad de puntos y gana.
-- JUEGO ESTRATÉGICO: Las palabras largas no sólo dan más puntos, sino que despejar el tablero duplica los puntos de esa ronda. ¡Es una forma estupenda de ganar puntos en este juego familiar!
+- JUEGO DIVERTIDO: Con infinitas posibilidades para crear palabras diferentes, este juego ofrece muchas horas de juego variado para grandes y pequeños.
 - JUEGO ENRIQUECIDO: Aunque el Rummikub tradicional y el Rummikub Mot comparten muchas similitudes en cuanto a jugabilidad, la creación de palabras añade un giro refrescante al conocido juego. ¡Ideal para tener en tu colección junto al Rummikub tradicional!
+- JUEGO ESTRATÉGICO: Las palabras largas no sólo dan más puntos, sino que despejar el tablero duplica los puntos de esa ronda. ¡Es una forma estupenda de ganar puntos en este juego familiar!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CX5NK8BX{{</world>}}

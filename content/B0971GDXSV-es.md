@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Está todo listo para el próximo enfrentamiento entre Terrinoth y las fuerzas de la oscuridad.
-- A partir de 14 años de edad.
-- De 1 a 4 Jugadores
 - El enemigo más antiguo del reino ha regresado.
 - ¡Comienza tu leyenda!
+- De 1 a 4 Jugadores
+- A partir de 14 años de edad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0971GDXSV{{</world>}}

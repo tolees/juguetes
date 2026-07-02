@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tunea tu vehículo: Incluye piezas adicionales, accesorios, 2 juegos de tapacubos de metal y pegatinas para transformar tu vehículo.
 - Construye el Gullwing: Mercedes-Benz 300 SL a escala 1:12 para construir por completo con detalles realistas y piezas metálicas.
 - Detalles auténticos del Mercedes-Benz 300 SL: Incluye puertas tipo ala de gaviota que se abren, rueda de repuesto, escudo metálico de Mercedes y detalles de tapicería para la máxima autenticidad.
-- Tunea tu vehículo: Incluye piezas adicionales, accesorios, 2 juegos de tapacubos de metal y pegatinas para transformar tu vehículo.
-- Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción Mattel Brick Shopy otras marcas. ​
 - Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
+- Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción Mattel Brick Shopy otras marcas. ​
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D14ZKC2P{{</world>}}

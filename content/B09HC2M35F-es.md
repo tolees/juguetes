@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- GESTIÓN DE RECURSOS: Tu maravilla del mundo se construye sección por sección, de abajo hacia arriba. Paga los costes de construcción de cada sección y, tan pronto como un jugador haya construido por completo su maravilla del mundo, la partida habrá terminado.
+- JUEGO DE MESA: 7 Wonders Architects ha sido diseñado para ofrecer una experiencia de juego lo más fluida y envolvente posible. Ante tus ojos, las maravillas se alzarán y entrarán en la historia.
 - PARA JUGAR EN FAMILIA O ENTRE AMIGOS: Este juego permite reunir a mucha gente. ¡Juega con entre 2 y 7 amigos para disfrutar de veladas inolvidables! No podrás prescindir de él.
 - JUEGO DE CONSTRUCCIÓN: Ponte en la piel de un arquitecto y sé el primero en completar una obra maestra. Tu objetivo es tan sencillo como grandioso: construir una maravilla tan importante e imponente que marque la historia de la humanidad.
-- JUEGO DE MESA: 7 Wonders Architects ha sido diseñado para ofrecer una experiencia de juego lo más fluida y envolvente posible. Ante tus ojos, las maravillas se alzarán y entrarán en la historia.
 - JUGABILIDAD DINÁMICA: La mecánica del juego atraerá tanto a principiantes como a jugadores experimentados.
-- GESTIÓN DE RECURSOS: Tu maravilla del mundo se construye sección por sección, de abajo hacia arriba. Paga los costes de construcción de cada sección y, tan pronto como un jugador haya construido por completo su maravilla del mundo, la partida habrá terminado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HC2M35F{{</world>}}

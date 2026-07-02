@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este juego, rápido pero fácil de aprender, es divertido para toda la familia. ¡Pueden jugar hasta 10 personas! Sácalo en una noche de juegos o llévalo como un juego entretenido para viajar.
-- Cada carta cuenta, y hay algunas cartas especiales para cambiar el transcurso del juego, como CAMBIO DE SENTIDO, ROBA 2 y MENOS 10. No olvides disminuir el total con una carta de menos.
-- El juego de cartas ONO 99 es un emocionante juego con una pila para descartar que requiere que los jugadores vayan sumando al total y lo anuncien con cada descarte, mientras se mantienen por debajo del número 99.
 - ¡Una manera divertida de fomentar las habilidades matemáticas a cualquier edad! El total nunca se encuentra por debajo de cero, por lo es fácil sumar y restar. Si un jugador pierde tres veces, queda expulsado, y el último jugador que queda, gana.
+- Cada carta cuenta, y hay algunas cartas especiales para cambiar el transcurso del juego, como CAMBIO DE SENTIDO, ROBA 2 y MENOS 10. No olvides disminuir el total con una carta de menos.
+- Este juego, rápido pero fácil de aprender, es divertido para toda la familia. ¡Pueden jugar hasta 10 personas! Sácalo en una noche de juegos o llévalo como un juego entretenido para viajar.
 - Ten cuidado con la carta ONO 99; si un jugador recibe o saca una carta ONO 99, debe conservarla y no podrá colocarla.
+- El juego de cartas ONO 99 es un emocionante juego con una pila para descartar que requiere que los jugadores vayan sumando al total y lo anuncien con cada descarte, mientras se mantienen por debajo del número 99.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09C932KCR{{</world>}}

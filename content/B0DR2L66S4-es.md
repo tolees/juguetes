@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El cierre de la libreta se realiza mediante un pequeño león de peluche que cuenta con un imán, lo que le aporta un toque de originalidad al producto que encantará a los más pequeños.
 - Cuenta con 192 páginas pautadas de papel de 100gsm, con certificado FSC, que garantiza que proviene de bosques gestionados de forma responsable.
 - Libreta de tamaño A5 con encuadernación cosida que permite una apertura de 180º.
+- El cierre de la libreta se realiza mediante un pequeño león de peluche que cuenta con un imán, lo que le aporta un toque de originalidad al producto que encantará a los más pequeños.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR2L66S4{{</world>}}

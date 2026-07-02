@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Al final de la partida, gana el jugador con la mayor fortuna; la fortuna es la suma total del dinero y el valor de los barcos y edificios del jugador
-- Gestiona tus turnos tomando recursos o llevando a cabo acciones de edificios
-- Le Havre es un juego para 1-5 jugadores, que se presenta en versión reducida y versión completa para proporcionar el nivel de desafío adecuado para cualquier grupo de juego
 - Le Havre es un juego sobre la gestión de un puerto, la compra de barcos y la construcción de edificios
+- Le Havre es un juego para 1-5 jugadores, que se presenta en versión reducida y versión completa para proporcionar el nivel de desafío adecuado para cualquier grupo de juego
 - Creado por el aclamado diseñador Uwe Rosenberg
+- Gestiona tus turnos tomando recursos o llevando a cabo acciones de edificios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBM7TX3H{{</world>}}

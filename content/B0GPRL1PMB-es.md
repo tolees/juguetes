@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puzzles infantiles recomendados a partir de 3 4 5 años.
-- Incluye 4 puzzles progresivos de cartón reciclado con 6/9/12/16🧩. Medidas aproximadas una vez montado: 16 x 16 cm.
 - 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar la motricidad fina, la memoria visual y la psicomotricidad, además de estimular la curiosidad y la imaginación de niños y adultos.
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
 - Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
+- Incluye 4 puzzles progresivos de cartón reciclado con 6/9/12/16🧩. Medidas aproximadas una vez montado: 16 x 16 cm.
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
+- Puzzles infantiles recomendados a partir de 3 4 5 años.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GPRL1PMB{{</world>}}

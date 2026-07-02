@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Samurai Sword es un juego independiente de la línea BANG! Game System
-- Entre las flores, la del cerezo; entre los hombres, el samurái.–Proverbio japonés
 - A partir de 8 años de Edad
-- Emplea de forma innovadora las mecánicas originales del juego del Salvaje Oeste más vendido del mundo
 - De 3 a 7 jugadores
+- Emplea de forma innovadora las mecánicas originales del juego del Salvaje Oeste más vendido del mundo
+- Entre las flores, la del cerezo; entre los hombres, el samurái.–Proverbio japonés
+- Samurai Sword es un juego independiente de la línea BANG! Game System
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0158QJHRM{{</world>}}

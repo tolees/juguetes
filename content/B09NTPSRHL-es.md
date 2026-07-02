@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 203768
-- Licencia oficial
-- Star Wars
 - 0
+- Licencia oficial
+- 203768
+- Star Wars
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NTPSRHL{{</world>}}

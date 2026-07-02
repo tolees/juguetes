@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Formato ideal y liviano: dimensiones compactas (29,7 × 29,7 × 5,3 cm) y peso ligero (833 g), perfecto para jugar en casa, llevar de viaje o regalar
+- Edad recomendada amplia y segura: para jugadores de 8 a 99 años; no requiere baterías y cumple la normativa europea 2009/48/CE. Atención: contiene piezas pequeñas (no apto para menores de 36 meses)
+- Diseño italiano de calidad: concebido, proyectado y desarrollado en Italia por Clementoni, siguiendo altos estándares de fabricación
 - Estimula el ingenio y pensamiento lógico: incluye un tablero, cartas enigma, fichas y objetos útiles para resolver pistas y avanzar en las historias
 - Tres aventuras en una caja: comparte 3 escenarios únicos (desierto, jungla y abismos marinos) que transportan a los jugadores a distintas ambientaciones naturales
-- Diseño italiano de calidad: concebido, proyectado y desarrollado en Italia por Clementoni, siguiendo altos estándares de fabricación
-- Edad recomendada amplia y segura: para jugadores de 8 a 99 años; no requiere baterías y cumple la normativa europea 2009/48/CE. Atención: contiene piezas pequeñas (no apto para menores de 36 meses)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FM3TQ2MF{{</world>}}

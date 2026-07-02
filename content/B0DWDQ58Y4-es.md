@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars 75428 Droide de Combate con STAP - Figura Articulada de Juguete - Decoración del Dormitorio - Regalo para Niños y Niñas de 12+ Años y Adolescentes Fans de La Amenaza Fantasma'
-date: 2026-05-12 09:30:24
+date: 2026-07-01 10:43:57
 image: 'https://m.media-amazon.com/images/I/51UtRY+IAaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DWDQ58Y4-es LEGO Star Wars 75428 Droide de Combate con STAP - Figura...'
 sku: 'B0DWDQ58Y4-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 108.3 EUR
+actualPrice: 98.79 EUR
 currency: EUR
-price: 108.3
+price: 98.79
 comparePrice: 129.99 EUR
 prodname: 'LEGO Star Wars 75428 Droide de Combate con STAP - Figura Articulada de Juguete - Decoración del Dormitorio - Regalo para Niños y Niñas de 12+ Años y Adolescentes Fans de La Amenaza Fantasma'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDQ58Y4/?tag=tolees-21'
-descuento: '16.69'
-average: '113.6925'
+descuento: '24.00'
+average: '110.712'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Maqueta Star Wars de Droide de Combate con STAP para construir y exponer: Los jóvenes constructores podrán mostrar con orgullo su pasión por Star Wars con esta figura articulada LEGO de un droide de combate con un speeder STAP
 - Maqueta de construcción Star Wars de LEGO: Coloca la figura LEGO Star Wars del droide de combate montado en su speeder STAP sobre el soporte o dale un nuevo toque a tu creación situándolo de pie al lado del STAP y el soporte
-- Figura articulada para construir: El droide de combate puede colocarse en diferentes posturas y empuña un bláster para construir que también se fija a la espalda
-- La colección LEGO Star Wars: Los sets LEGO Star Wars (a la venta por separado) ofrecen a los niños y los fans adultos la oportunidad de recrear escenas emblemáticas, inventar nuevas historias o exponer las maquetas construibles
 - Instrucciones de construcción 3D: La app LEGO Builder guiará a tu peque a través de una intuitiva aventura de construcción con herramientas que le permitirán acercar y girar una versión digital 3D de su modelo mientras lo construye
+- Figura articulada para construir: El droide de combate puede colocarse en diferentes posturas y empuña un bláster para construir que también se fija a la espalda
 - Divertida decoración de escritorio y dormitorio: El soporte de exposición incorpora una placa informativa y cuenta con espacio para la figura LEGO Star Wars incluida del droide de combate con su speeder STAP
+- La colección LEGO Star Wars: Los sets LEGO Star Wars (a la venta por separado) ofrecen a los niños y los fans adultos la oportunidad de recrear escenas emblemáticas, inventar nuevas historias o exponer las maquetas construibles
 - Regalo LEGO Star Wars para niños, niñas y fans adolescentes de 12 años o más: Regala este maqueta de construcción a un peque o a algún coleccionista o fan de Star Wars a partir de 12 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

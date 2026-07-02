@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - JUEGO RÁPIDO Y TÁCTICO: Splendor Kids es un juego estratégico y rápido que mantiene la emoción en cada turno con acciones únicas y rápidas, adecuado tanto para jugadores ocasionales como para los más estrategas.
 - SPLENDOR KIDS: Como soberana del Reino de Splendor, os encomiendo una importante misión: ¡repartir alimentos entre la gente del Reino! Una vez hayáis completado esta tarea, os estaré esperando en el palacio para otorgaros la Medalla de Splendor.
-- DESARROLLA HABILIDADES ESTRATÉGICAS: Recolecta gemas y adquiere cartas para construir tu prestigio. Cada movimiento abre nuevas posibilidades para expandir tu imperio en este competitivo juego de comercio.
 - COMPONENTES Y ARTE IMPRESIONANTES: Incluye 40 fichas personalizadas de alta calidad, 90 cartas de desarrollo y hermosas ilustraciones de Paul Vérité, mejorando tanto la estética como la experiencia de juego.
 - PERFECTO PARA NOCHES EN FAMILIA: Diseñado para 2-4 jugadores y recomendado para mayores de 6 años. Splendor Kids es un juego ideal para reuniones familiares o noches de juego competitivas, con una duración aproximada de 20 minutos.
+- DESARROLLA HABILIDADES ESTRATÉGICAS: Recolecta gemas y adquiere cartas para construir tu prestigio. Cada movimiento abre nuevas posibilidades para expandir tu imperio en este competitivo juego de comercio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FSLX41GG{{</world>}}

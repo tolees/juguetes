@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALIMÉNTAME; cuando tenga hambre, su corazón se volverá amarillo, alimenta al pingüino con la galleta de pescado incluida. No lo alimentes demasiado o se tirará un pedo,
-- VÍSTEME; cuando el pingüino se congele y se sienta triste, ponle el gorro de lana, la bufanda y el chaleco
 - LIMPÍAME. Rescata al pingüino limpiando su suciedad, Usa una toalla mágica para limpiar al pingüino y desbloquear sus funciones interactivas de luz y sonido
-- Cuida del pingüino y será tu mejor amigo para siempre
 - Con +20 emociones, el corazón del pingüino cambia de color; sigue acariciando su barriga o su hombro y verás cómo su corazcón late más rápido con canciones y bailes
+- Cuida del pingüino y será tu mejor amigo para siempre
+- VÍSTEME; cuando el pingüino se congele y se sienta triste, ponle el gorro de lana, la bufanda y el chaleco
+- ALIMÉNTAME; cuando tenga hambre, su corazón se volverá amarillo, alimenta al pingüino con la galleta de pescado incluida. No lo alimentes demasiado o se tirará un pedo,
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5JVHC83{{</world>}}

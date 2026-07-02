@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gráficos actualizados en todas las escenas de vídeo
-- Cambia entre los modos clásico y remasterizado
 - Acción basada en turnos
 - Modos de velocidad de combate
+- Cambia entre los modos clásico y remasterizado
 - Entorno visual remasterizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

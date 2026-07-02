@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESTRATEGIA INSPIRADA EN EL PALACIO DE LA ALHAMBRA: Conviértete en un artista del mosaico decorando el Palacio Real de Évora con las hermosas losetas que cautivaron al Rey Manuel I tras su visita a la Alhambra.
 - OBJETIVO Y CONDICIÓN DE VICTORIA: El juego termina cuando un jugador completa una línea horizontal de cinco fichas consecutivas; planifica tus movimientos para ser el jugador con más puntos al final.
-- SISTEMA DE PUNTUACIÓN DINÁMICO: Gana puntos por la posición de tus fichas y la creación de patrones específicos, pero ten cuidado: las piezas no utilizadas te penalizarán al final de la ronda.
 - IDEAL PARA FAMILIAS Y ADULTOS: Un juego de mesa visualmente impresionante diseñado para 2-4 jugadores a partir de 8 años, con partidas ágiles de 30 a 45 minutos en edición íntegra en castellano.
+- ESTRATEGIA INSPIRADA EN EL PALACIO DE LA ALHAMBRA: Conviértete en un artista del mosaico decorando el Palacio Real de Évora con las hermosas losetas que cautivaron al Rey Manuel I tras su visita a la Alhambra.
+- SISTEMA DE PUNTUACIÓN DINÁMICO: Gana puntos por la posición de tus fichas y la creación de patrones específicos, pero ten cuidado: las piezas no utilizadas te penalizarán al final de la ronda.
 - COLOCACIÓN TÁCTICA DE LOSETAS: Selecciona estratégicamente las fichas para construir un mosaico único en tu tablero personal, optimizando cada turno para superar a tus oponentes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

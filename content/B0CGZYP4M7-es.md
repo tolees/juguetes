@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 👨‍👨‍👧‍👦 DE 2 A 8 JUGADORES A PARTIR DE 14 AÑOS. Un juego de preguntas muy divertido en el que podréis participar de 2 a 8 jugadores, a partir de 14 años de edad.
+- 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
+- ⏱DURACIÓN DE LA PARTIDA 20 MINUTOS. Cada partida tendrá una duración aproximada de 20 minutos. Ni muy larga ni muy corta para que juguéis las veces que queráis sin aburriros.
 - ✅COMPATIBLE CON CUALQUIER JUEGO BASE SMART 10. Utiliza estas emocionantes preguntas sobre aventuras y viajes con la caja Smart incluida en cualquier juego base de Smart 10, sin necesidad de comprar un nuevo conjunto completo.
 - 🗾¡EXPANDE LA DIVERSIÓN CON NUEVAS PREGUNTAS SOBRE VIAJES! Disfruta de 100 nuevas preguntas y 1000 respuestas adicionales relacionadas con viajes, que incluyen temas como países, ciudades, vuelos, visitas, naturaleza, idiomas y divisas. Amplía la diversidad de temas en tus partidas de Smart 10.
-- 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
-- 👨‍👨‍👧‍👦 DE 2 A 8 JUGADORES A PARTIR DE 14 AÑOS. Un juego de preguntas muy divertido en el que podréis participar de 2 a 8 jugadores, a partir de 14 años de edad.
-- ⏱DURACIÓN DE LA PARTIDA 20 MINUTOS. Cada partida tendrá una duración aproximada de 20 minutos. Ni muy larga ni muy corta para que juguéis las veces que queráis sin aburriros.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGZYP4M7{{</world>}}

@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Incluye cable de alimentación USB-C de 10 pies (3 m)
 - Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
-- Ergonomía superior para jugar cómodamente durante horas
 - Diseño intuitivo de los botones de Nintendo
-- Indicador led de aviso de batería baja
 - Dos botones asignables de juego avanzado
-- Anillos antifricción integrados para un control suave del mando del pulgar
 - Batería recargable de iones de litio: hasta 30 horas por carga*
 - Mando inalámbrico con tecnología Bluetooth 5.0
-- Incluye cable de alimentación USB-C de 10 pies (3 m)
+- Ergonomía superior para jugar cómodamente durante horas
+- Anillos antifricción integrados para un control suave del mando del pulgar
+- Indicador led de aviso de batería baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D79G8K7K{{</world>}}

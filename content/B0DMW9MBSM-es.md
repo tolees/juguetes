@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El disco giratorio enseña los números del 1 al 9, y al girarlo, se escuchan divertidos sonidos de teléfono.
 - Celebra el 80 aniversario de Mattel con este clásico teléfono de Fisher-Price con el icónico color rojo de la empresa juguetera
 - Crece al ritmo de tu bebé, ya que se puede utilizar para jugar sentado o tirar de él mientras se camina
 - Los ojos del teléfono se mueven hacia arriba y hacia abajo cuando los más pequeños caminan y tiran de él, lo que los anima a seguir moviéndose
+- El disco giratorio enseña los números del 1 al 9, y al girarlo, se escuchan divertidos sonidos de teléfono.
 - Este juguete ayuda a desarrollar las habilidades motoras gruesas y las sensoriales, además de fomentar el juego de imitación imaginativo desde una edad temprana para niños a partir de 1 año
 
 [🛒 Comprar!!!]({{< param buyurl >}})

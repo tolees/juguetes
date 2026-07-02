@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OBJETIVO DEL JUEGO: Un jugador narrador elige una carta de su mano y enuncia un tema relacionado con la ilustración. Los demás jugadores eligen una carta de su mano que les evoque ese tema. Se barajan y se revelan todas las imágenes: los jugadores deben encontrar la carta del narrador.
-- CAPACIDAD DE JUGADORES AUMENTADA: Dixit Odyssey permite hasta 12 jugadores con un sistema de votación doble, perfecto para grupos grandes y noches de juegos.
-- COMPATIBILIDAD Y ALMACENAMIENTO: Totalmente compatible con todas las expansiones de Dixit. Incluye un nuevo inserto de cartón resistente que puede almacenar 2 expansiones adicionales para una integración perfecta.
 - REGLAS SIMPLIFICADAS PARA UN INICIO RÁPIDO: Las reglas reescritas facilitan la incorporación de nuevos jugadores, permitiéndoles participar en el imaginativo viaje de Dixit, convirtiéndolo en una elección ideal para reuniones familiares.
+- COMPATIBILIDAD Y ALMACENAMIENTO: Totalmente compatible con todas las expansiones de Dixit. Incluye un nuevo inserto de cartón resistente que puede almacenar 2 expansiones adicionales para una integración perfecta.
+- CAPACIDAD DE JUGADORES AUMENTADA: Dixit Odyssey permite hasta 12 jugadores con un sistema de votación doble, perfecto para grupos grandes y noches de juegos.
+- OBJETIVO DEL JUEGO: Un jugador narrador elige una carta de su mano y enuncia un tema relacionado con la ilustración. Los demás jugadores eligen una carta de su mano que les evoque ese tema. Se barajan y se revelan todas las imágenes: los jugadores deben encontrar la carta del narrador.
 - UN JUEGO DE MESA ENCANTADOR: ¡Una imagen vale más que mil palabras! Dixit es un juego de mesa encantador que te invita a dejarte llevar por tu imaginación. Descubre 84 ilustraciones oníricas en cartas grandes e interpreta estas enigmáticas imágenes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

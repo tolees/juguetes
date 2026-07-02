@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un juego de Sebastian Pauchon que ha recibido varios premios y se ha convertido en todo un clásico
-- Una edición actualizada con hermosas ilustraciones de Vincent Dutrait y las mismas dinámicas que lo hacen tan grande
 - Jaipur es un juego táctico simple y rápido
-- Un juego fácil de aprender que ofrece mucha profundidad y estrategia
 - El juego de la colección de 2 jugadores de Space Cowboys
+- Un juego fácil de aprender que ofrece mucha profundidad y estrategia
+- Una edición actualizada con hermosas ilustraciones de Vincent Dutrait y las mismas dinámicas que lo hacen tan grande
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ZDHR24C{{</world>}}

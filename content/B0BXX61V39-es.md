@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un personaje icónico de la línea Baby Clementoni y muy querido por los niños.
-- Un tierno unicornio remolcable para poderlo llevar a todas partes.
 - Gracias a los botones interactivos, las ruedas y la cuerda, el unicornio favorece el desarrollo sensorial y motor.
 - Made in Italy.
+- Un personaje icónico de la línea Baby Clementoni y muy querido por los niños.
+- Un tierno unicornio remolcable para poderlo llevar a todas partes.
 - A través de los botones del sillín, el simpático poni cobra vida, come, se ríe y entretiene a los más pequeños con efectos sonoros.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

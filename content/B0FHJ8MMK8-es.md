@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
-- Detalles auténticos del LMS: Cuenta con detalles inspirados en las carreras de velocidad, un volante auténtico y puertas que se abren.
 - Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
 - Construye el emblemático coche de carreras: Audi R8 LMS de 2015 a escala 1:16 para construir por completo y lleno de detalles realistas.
 - Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con los conjuntos de Mattel Brick Shop.
+- Detalles auténticos del LMS: Cuenta con detalles inspirados en las carreras de velocidad, un volante auténtico y puertas que se abren.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FHJ8MMK8{{</world>}}

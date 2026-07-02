@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las preguntas ofrecen 10 posibles respuestas y todos los jugadores tendrán la oportunidad de contestar en cada una de las preguntas.
-- Recuerda que si no aseguras tus marcadores a tiempo, podrás terminar perdiéndolos todos.
-- Si tu respuesta es correcta, recibirás un marcador. Pero, ¿debes contestar o pasar?
 - Smart10 es un juego de preguntas donde los jugadores no deberán esperar demasiado su turno
+- Si tu respuesta es correcta, recibirás un marcador. Pero, ¿debes contestar o pasar?
+- Recuerda que si no aseguras tus marcadores a tiempo, podrás terminar perdiéndolos todos.
+- Las preguntas ofrecen 10 posibles respuestas y todos los jugadores tendrán la oportunidad de contestar en cada una de las preguntas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G153VZH5{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esponjosas y suaves colas largas: Estos nuevos Kittycorns tienen una cola esponjosa superlarga para cepillarla y jugar.
-- Compuesto Kittycorn: Encuentra el compuesto elástico y divertido de caquita de gatitos dentro de tu huevo.
 - Despega y enseña el corazón: Una sorpresa te espera debajo de la pegatina para despegar y mostrar el corazón de tu Kittycorns.
+- Compuesto Kittycorn: Encuentra el compuesto elástico y divertido de caquita de gatitos dentro de tu huevo.
+- Esponjosas y suaves colas largas: Estos nuevos Kittycorns tienen una cola esponjosa superlarga para cepillarla y jugar.
 - ¡Colecciónalos todos! ¡Hay 7 Kittycorns de cola larga que coleccionar! Tan bonito que querrás más de uno para tu colección de Rainbocorns.
 - Más de 10 sorpresas por descubrir: Con más de 10 sorpresas para gatitos en su interior, ¡la diversión nunca se acaba!
 

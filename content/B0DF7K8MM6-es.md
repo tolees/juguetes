@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Abre la caja para descubrir una palabra secreta y un número de pistas
+- Encuentra la palabra correcta, en el momento correcto
 - Consigue que los demás jugadores adivinen la palabra, pero con el numero exacto de pistas indicadas; ni más ni menos
 - Ten cuidado con lo que dices en este juego hechizante
+- Abre la caja para descubrir una palabra secreta y un número de pistas
 - Si un adversario adivina tu palabra secreta demasiado pronto, se quedará con tus puntos
-- Encuentra la palabra correcta, en el momento correcto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DF7K8MM6{{</world>}}

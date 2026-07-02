@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Banderas, capitales y ubicación - Explora el mundo mostrando países en el mapa, reconociendo banderas y nombrando capitales con más de 1500 datos sobre países. Entrena la memoria y el cerebro mientras te diviertes.
 - Para niños, adolescentes y adultos - Uno de los mejores juegos de mesa educativos para niños de 9+ años. Perfecto para juegos de mesa adulto también. Creemos en juegos para niños que sean divertidos para todos.
 - Juego de mesa familiar - Viaja por todo el mundo, completa los retos y gana. Divertido y educativo juego - Cuanto más juegas, más sabes. Ideal para aprender de manera interactiva y divertida. Una idea inteligente de regalo para adolescentes.
-- Ideal para 2 a 5 jugadores - Es una experiencia interactiva que promueve el aprendizaje de geografía de manera divertida y dinámica. Un juguete de juego educativo galardonado sobre el mundo. Descubrir el mundo nunca ha sido tan divertido.
 - Juego de geografía actualizado - Incluye los cartas de 194 países del mundo. Los datos de los países se actualizan regularmente. Las cartas del mundo también se pueden usar como tarjetas didácticas o de memoria.
+- Ideal para 2 a 5 jugadores - Es una experiencia interactiva que promueve el aprendizaje de geografía de manera divertida y dinámica. Un juguete de juego educativo galardonado sobre el mundo. Descubrir el mundo nunca ha sido tan divertido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DCW7W8N4{{</world>}}

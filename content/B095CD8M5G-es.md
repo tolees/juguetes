@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si te gustaría reunir en un mismo equipo de fútbol a Memphis, Modrić y Suárez este es tu juego de mesa Borrás te trae la ultima edición del juego de mesa de la Liga 21-22
-- Recomendado para niños, niñas y aquellos amantes del fútbol y de los juegos de mesa, a partir de los 10 años de edad
-- Rival sin entrenador? Como las jornadas son partidos de dos equipos, si por ejemplo son 3 entrenadores, necesitarán un 4º entrenador para poder hacer la ida y la vuelta con los otros equipos, por tanto, es en este momento que se coge un sistema de juego aleatorio que simulará un 4º entrenador. Hemos creado un apartado de FAQs sobre el apartado de Rival sin entrenador
 - Con el juego de la Liga, te conviertes en mánager del mejor equipo fútbol del mundo. Entrena, fortalece tus habilidades de estratega y dirige el equipo de tus sueños con los mejores jugadores
+- Rival sin entrenador? Como las jornadas son partidos de dos equipos, si por ejemplo son 3 entrenadores, necesitarán un 4º entrenador para poder hacer la ida y la vuelta con los otros equipos, por tanto, es en este momento que se coge un sistema de juego aleatorio que simulará un 4º entrenador. Hemos creado un apartado de FAQs sobre el apartado de Rival sin entrenador
+- Recomendado para niños, niñas y aquellos amantes del fútbol y de los juegos de mesa, a partir de los 10 años de edad
+- Si te gustaría reunir en un mismo equipo de fútbol a Memphis, Modrić y Suárez este es tu juego de mesa Borrás te trae la ultima edición del juego de mesa de la Liga 21-22
 - 1 tablero de juego 2 dados 160 cartas de futbolistas 46 cartas de acción 12 fichas de jugador 6 sistemas de juego Calendario de partidos Billetes
 - Compra y vende jugadores, crearás tu propio equipo con los mejores jugadores del mundo. El juego de mesa para todos los apasionados del fútbol
 

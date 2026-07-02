@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un buen título para iniciarse en el mundo de los wargames tácticos
 - La entrega autojugable de la saga Combat Commander que incluye todos los escenarios adicionales de Papúa-Nueva Guinea
+- Un buen título para iniciarse en el mundo de los wargames tácticos
 - Contiene Mapas y escenarios extras que no se incluyen en la edición del juego original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

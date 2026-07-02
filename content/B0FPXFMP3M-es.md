@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- MAQUETA DE STAR WARS: Crea una divertida pieza de exposición con el juguete de construcción LEGO Star Wars Grogu (Aprendiz de Mandaloriano), tal como aparece en Star Wars: The Mandalorian and Grogu
 - INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, una app que te permite acercar y girar tu modelo siguiendo instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
+- DECORACIÓN PARA LA HABITACIÓN INFANTIL: Expón la figura articulada de Grogu de juguete, la placa de información y la figura de tamaño estándar como decoración en la estantería del dormitorio de tu peque
 - EXPLORA LA GAMA: Descubre más sets LEGO Star Wars coleccionables inspirados en Star Wars: The Mandalorian and Grogu (a la venta por separado) para revivir emocionantes escenas o crear nuevas historias
+- FIGURA ARTICULADA: Usa la palanca para girar la cabeza de Grogu, recoloca sus brazos de diferentes formas y ajusta las orejas, boca, manos y dedos para crear una amplia variedad de posturas características
 - DETALLES GENUINOS: Reproduce el aspecto de la armadura de Beskar de Grogu, construye su bolsa con un elemento que representa un macaron azul en su interior y ponle otro en la mano
 - REGALO DEL UNIVERSO STAR WARS PARA PEQUES: Este kit de construcción es el superregalo para niños, niñas y cualquier fan de Star Wars: The Mandalorian and Grogu a partir de 10 años
-- DECORACIÓN PARA LA HABITACIÓN INFANTIL: Expón la figura articulada de Grogu de juguete, la placa de información y la figura de tamaño estándar como decoración en la estantería del dormitorio de tu peque
-- MAQUETA DE STAR WARS: Crea una divertida pieza de exposición con el juguete de construcción LEGO Star Wars Grogu (Aprendiz de Mandaloriano), tal como aparece en Star Wars: The Mandalorian and Grogu
-- FIGURA ARTICULADA: Usa la palanca para girar la cabeza de Grogu, recoloca sus brazos de diferentes formas y ajusta las orejas, boca, manos y dedos para crear una amplia variedad de posturas características
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FPXFMP3M{{</world>}}

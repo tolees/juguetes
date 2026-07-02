@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Battle pack: 2 figuras y varias manos disponibles para recrear todas las escenas de la serie.
 - Personajes: Golden Freezer vs Super Saiyan Blue Goku.
+- Figuras Dragon Ball 17 cm.
 - Figuras coleccionistas de la serie Dragon Ball Super.
 - Colecciona todas las figuras Dragon Stars de Bandai. Recrea las batallas míticas de la serie y las películas gracias al estadio Tenkaichi Budokai (referencia 36790, se vende por separado).
-- Figuras Dragon Ball 17 cm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS17FJDJ{{</world>}}

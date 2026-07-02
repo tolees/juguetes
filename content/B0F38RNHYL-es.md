@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INTERACTÚA CON OTROS NANO-MALS: Coloca 2 o más personajes Nano-mals juntos y mira cómo reaccionan con luces y sonidos y cómo conversan en su propio lenguaje inventado (nanish) (Se venden por separado. Sujeto a disponibilidad)
-- MASCOTAS ELECTRÓNICAS PORTÁTILES (PILAS INCLUIDAS): ¡Los Nano-mals son adorables mascotas pequeñitas que necesitan tu amor para estas saludables! Son mascotas electrónicas, amigos digitales y juguetes interactivos de tipo fidget todo en uno (6,9 cm de alto)
-- INTERACTÚA CON ELLA PARA LLENAR SU MEDIDOR DE AMOR: Pawtricia la gatita azul tiene un medidor electrónico de amor. ¡Interactúa con ella y averigua qué necesita para llenar su corazón! Cuanto más juegues, más interacciones desbloquearás
-- ACARÍCIALA, HAZ QUE BAILE, ALIMÉNTALA Y HAZ QUE SE MUEVA: Toca sus orejas para acariciarla, sube y baja sus brazos para que baile, e imagina que la alimentas presionando su boca. Gírala, atrápala y sacúdela para más reacciones (mantén apretada su nariz durante 2 segundos para el modo silencioso)
 - MÁS DE 70 RESPUESTAS: Esta gatita electrónica infantil incluye más de 70 sonidos, luces y reacciones. Mira cómo su medidor de amor se llena y cambia de color según tu manera de jugar. Llena su medidor de amor para escuchar una canción de celebración y un show de luces
+- INTERACTÚA CON ELLA PARA LLENAR SU MEDIDOR DE AMOR: Pawtricia la gatita azul tiene un medidor electrónico de amor. ¡Interactúa con ella y averigua qué necesita para llenar su corazón! Cuanto más juegues, más interacciones desbloquearás
+- INTERACTÚA CON OTROS NANO-MALS: Coloca 2 o más personajes Nano-mals juntos y mira cómo reaccionan con luces y sonidos y cómo conversan en su propio lenguaje inventado (nanish) (Se venden por separado. Sujeto a disponibilidad)
+- ACARÍCIALA, HAZ QUE BAILE, ALIMÉNTALA Y HAZ QUE SE MUEVA: Toca sus orejas para acariciarla, sube y baja sus brazos para que baile, e imagina que la alimentas presionando su boca. Gírala, atrápala y sacúdela para más reacciones (mantén apretada su nariz durante 2 segundos para el modo silencioso)
+- MASCOTAS ELECTRÓNICAS PORTÁTILES (PILAS INCLUIDAS): ¡Los Nano-mals son adorables mascotas pequeñitas que necesitan tu amor para estas saludables! Son mascotas electrónicas, amigos digitales y juguetes interactivos de tipo fidget todo en uno (6,9 cm de alto)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F38RNHYL{{</world>}}

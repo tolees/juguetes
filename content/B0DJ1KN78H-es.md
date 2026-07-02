@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CADA GATETE COLECCIONABLE INCLUYE CARTAS ÚNICAS PARA FASTIDIAR A TUS OPONENTES
-- Ganas la partida cuando seas capaz de tirar tu Catchable y hacer las acciones de 5 cartas de Acción antes de atraparlo sin que caiga al suelo.
-- Cuando sea tu turno, tira tu Catchable al aire y haz las acciones de TODAS las cartas de Acción que tengas frente a ti antes de atraparlo, todo en un mismo lanzamiento.
-- Juega partidas de hasta 4 participantes o combina este juego con otros Catchables para jugar con tantas personas como quieras.
 - Este juego es muy fácil, lo único que tienes que hacer es tirar tu Catchable al aire y volverlo a atrapar. PERO vas a tener un buen puñado de cartas frente a ti que convertirá esa sencilla tarea en algo muy (muy) difícil.
+- CADA GATETE COLECCIONABLE INCLUYE CARTAS ÚNICAS PARA FASTIDIAR A TUS OPONENTES
+- Juega partidas de hasta 4 participantes o combina este juego con otros Catchables para jugar con tantas personas como quieras.
+- Cuando sea tu turno, tira tu Catchable al aire y haz las acciones de TODAS las cartas de Acción que tengas frente a ti antes de atraparlo, todo en un mismo lanzamiento.
+- Ganas la partida cuando seas capaz de tirar tu Catchable y hacer las acciones de 5 cartas de Acción antes de atraparlo sin que caiga al suelo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ1KN78H{{</world>}}

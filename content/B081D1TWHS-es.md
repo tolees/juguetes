@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestros peluches son duraderos y, por lo tanto, sostenibles. Aunque están hechos al 100% de fibras sintéticas, son respetuosos con el medio ambiente: en lugar de desecharlos, es preferible pasarlos a la próxima generación. Todos los peluches Schaffer son lavables a máquina a 30 °C.
-- De esta manera, ofrecemos una alta calidad en nuestros peluches y condiciones de trabajo justas para nuestros empleados.
 - Fabricados con amistad: todos los peluches de la Colección Schaffer son producidos con gran cuidado en nuestras propias instalaciones de producción certificadas en Indonesia.
+- De esta manera, ofrecemos una alta calidad en nuestros peluches y condiciones de trabajo justas para nuestros empleados.
+- Nuestros peluches son duraderos y, por lo tanto, sostenibles. Aunque están hechos al 100% de fibras sintéticas, son respetuosos con el medio ambiente: en lugar de desecharlos, es preferible pasarlos a la próxima generación. Todos los peluches Schaffer son lavables a máquina a 30 °C.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081D1TWHS{{</world>}}

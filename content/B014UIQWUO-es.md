@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Se puede combinar con otros cubos o con un conjunto temático especial
-- Juego universal, libre de lenguaje y abierto a la interpretación
-- Juego de narración que estimula la imaginación, creatividad y la conexión entre generaciones
 - Edad mínima recomendada de tres años
+- Juego de narración que estimula la imaginación, creatividad y la conexión entre generaciones
+- Juego universal, libre de lenguaje y abierto a la interpretación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B014UIQWUO{{</world>}}

@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - JUGUETE MANDALORIANO PARA NIÑOS Y NIÑAS DE 6 AÑOS O MÁS: Reproduce las épicas historias de Star Wars: Las Guerras Clon con este Pack de Combate: Asedio de Mandalore LEGO Star Wars
 - DISEÑADO PARA EL JUEGO DE ACCIÓN: Coloca a los soldados clon tras la barricada, guarda la munición en su contenedor, apunta y activa el lanzador montado en ella
 - DIVERSIÓN INTERACTIVA MEJORADA: La app LEGO Builder ayuda a tu peque a construir él solo con instrucciones digitales que le permiten consultar su progreso, acercar y girar los sets siguiendo instrucciones 3D y guardarlos en un mismo lugar
-- REGALO STAR WARS PARA NIÑOS Y NIÑAS A PARTIR DE 6 AÑOS: Este juguete de construcción es una gran idea de regalo de cumpleaños para niños, niñas y fans de Star Wars: Las Guerras Clon a partir de 6 años
-- MOTO SPEEDER DE JUGUETE: Coloca a un supercomando mandaloriano en el asiento del conductor del vehículo LEGO Star Wars y al otro en la parte trasera con el bláster que dispara
 - CONSTRUYE BATALLAS MÁS GRANDES: Busca otros sets de Pack de Combate LEGO Star Wars coleccionables (a la venta por separado) para ampliar los ejércitos de tu peque e interpretar aún más aventuras de fantasía
+- MOTO SPEEDER DE JUGUETE: Coloca a un supercomando mandaloriano en el asiento del conductor del vehículo LEGO Star Wars y al otro en la parte trasera con el bláster que dispara
+- REGALO STAR WARS PARA NIÑOS Y NIÑAS A PARTIR DE 6 AÑOS: Este juguete de construcción es una gran idea de regalo de cumpleaños para niños, niñas y fans de Star Wars: Las Guerras Clon a partir de 6 años
 - 4 MINIFIGURAS LEGO STAR WARS: Equipa a los 2 supercomandos Mandalorianos con 2 mochilas propulsoras y 3 pistolas bláster, y a los 2 soldados clon del 332 con un bláster y un fusil bláster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

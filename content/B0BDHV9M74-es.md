@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ARTICULACIÓN Y DISEÑO PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir en su colección esta figura de 15 cm fácilmente articulable (cabeza, brazos y piernas) con diseño premium
-- ACCESORIO INSPIRADO EN LA SERIE: Esta figura coleccionable Star Wars The Black Series incluye un bláster
 - SOLDADO CLON FASE II: La armadura y equipo de los clones mejoró continuamente durante el transcurso de la Guerra de los Clones; ya para las últimas batallas de este conflicto, casi todos los clones usaban la armadura superior Fase II
-- STAR WARS: GUERRA DE LOS CLONES: Esta figura de soldado clon Fase II está inspirada en la serie animada Star Wars: The Clone Wars y es un gran regalo para coleccionistas y fans de Star Wars a partir de 4 años
+- ACCESORIO INSPIRADO EN LA SERIE: Esta figura coleccionable Star Wars The Black Series incluye un bláster
+- ARTICULACIÓN Y DISEÑO PREMIUM: Los fans y coleccionistas de Star Wars pueden exhibir en su colección esta figura de 15 cm fácilmente articulable (cabeza, brazos y piernas) con diseño premium
 - TODA UNA GALAXIA DE FIGURAS: Colecciona las figuras de Star Wars The Black Series inspiradas en la ficción, y crea tu propia galaxia de Star Wars (se venden por separado; sujeto a disponibilidad)
+- STAR WARS: GUERRA DE LOS CLONES: Esta figura de soldado clon Fase II está inspirada en la serie animada Star Wars: The Clone Wars y es un gran regalo para coleccionistas y fans de Star Wars a partir de 4 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BDHV9M74{{</world>}}

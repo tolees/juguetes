@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La pista es fácil de montar y se pliega para guardarla cómodamente. Utiliza el asa para transportarla con facilidad.
 - Es un gran regalo para los fans de Hot Wheels a los que les encante correr y chocar sus coches de juguete.
 - Corre a través de 5 increíbles zonas de choque en el conjunto de pista Carrera de choques épicos de Hot Wheels Action.
 - El propulsor motorizado mantiene los coches en movimiento continuo por las curvas y los loopings, hasta que se produce un choque superguay.
-- La pista es fácil de montar y se pliega para guardarla cómodamente. Utiliza el asa para transportarla con facilidad.
 - Incluye un coche de juguete Hot Wheels. Añade más coches para aumentar la emoción de los choques. (Los vehículos adicionales se venden por separado).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: 19 x 10 x 5 cm
-- Incluye caja de madera con tapa para guardar las piezas
-- Dominó de madera con 28 piezas
 - Dibujos de animales de colores
+- Dominó de madera con 28 piezas
+- Incluye caja de madera con tapa para guardar las piezas
+- Medidas: 19 x 10 x 5 cm
 - Juguete que ayuda al desarrollo matemático y al dominio de las emociones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

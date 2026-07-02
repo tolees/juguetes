@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Equilibrio
-- Habilidad
-- 🎯 ¿CÓMO SE JUEGA? - El jugador más joven empezará situando una silla sobre la superficie de juego. A partir de ahí hay 2 modos de juego: Por rondas, se hacen 5 ronda y cuando se caigan las sillas se acaba la ronda; Por eliminación, el jugador que se quede sin sillas gana, cuando un jugador tire una o más sillas se las quedará.
-- 👥 IDEAL PARA... - Jugadores mayores de 5 años. Para 2 o más jugadores.
-- 💙 FALOMIR - Somos una empresa familiar española fundada en 1945, ¡imagina cuántas sonrisas hemos creado! Nos dedicamos a la fabricación y distribución de juegos educativos y divertidos. Nos enfocamos en ofrecer variedad y calidad, creando juegos elocuentes para los más pequeños y mayores de casa, abarcamos todas las edades.
-- Juego de mesa
 - 🪑 SILLAS - En este divertido juego cada jugador deberá tratar de colocar por turnos las sillas, una encima de otra, sin que se caigan.
 - 🧠 ¿QUÉ INCLUYE? - El juego incluye 8 sillas rojas, 8 sillas blancas y 8 sillas negras
+- 👥 IDEAL PARA... - Jugadores mayores de 5 años. Para 2 o más jugadores.
+- Habilidad
+- Juego de mesa
+- 🎯 ¿CÓMO SE JUEGA? - El jugador más joven empezará situando una silla sobre la superficie de juego. A partir de ahí hay 2 modos de juego: Por rondas, se hacen 5 ronda y cuando se caigan las sillas se acaba la ronda; Por eliminación, el jugador que se quede sin sillas gana, cuando un jugador tire una o más sillas se las quedará.
+- 💙 FALOMIR - Somos una empresa familiar española fundada en 1945, ¡imagina cuántas sonrisas hemos creado! Nos dedicamos a la fabricación y distribución de juegos educativos y divertidos. Nos enfocamos en ofrecer variedad y calidad, creando juegos elocuentes para los más pequeños y mayores de casa, abarcamos todas las edades.
+- Equilibrio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B005OQB3QU{{</world>}}

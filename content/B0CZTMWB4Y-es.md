@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 💙 Juego de cartas de palabras tipo STOP, con más interacción y cartas especiales.
+- 🎯 Reglas que se explican en 1 minuto: en cada turno hay una categoría común. Por turnos, cada jugador juega una carta con letra y dice una palabra que encaje con la categoría. Gana quien se quede sin cartas.
 - 🏆 30 min de juego I +10 años I 2-8 Jugadores o muchos más si se juega en equipo I Un formato pequeño para llevar a todas partes - Perfecto como regalo original para Navidad, cumpleaños o reuniones con amigos.
 - 👨‍👩‍👧 Ideal para toda la familia – de 2 a 8 jugadores, desde los 10 años.
-- 🎯 Reglas que se explican en 1 minuto: en cada turno hay una categoría común. Por turnos, cada jugador juega una carta con letra y dice una palabra que encaje con la categoría. Gana quien se quede sin cartas.
 - 🔥 Cartas de Acción que cambian la partida – bloquea, cambia la categoría o sorprende en el último momento.
+- 💙 Juego de cartas de palabras tipo STOP, con más interacción y cartas especiales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZTMWB4Y{{</world>}}

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conexión universal para mangueras de 25 mm y 32 mm, así como rosca exterior G 1 (aprox. 33.3 mm)
-- Carcasa de la bomba de acero fino
-- Asa de transporte
-- Junta de anillo deslizante de alta calidad
 - Recogida del cable
-- Detector del nivel del agua con altura regulable sin escalonamientos
 - Ángulo de 90 ° rosca exterior G 1½ (aprox. 47,8 mm) x rosca G 1½ (aprox. 47,8 mm)
+- Junta de anillo deslizante de alta calidad
+- Carcasa de la bomba de acero fino
+- Detector del nivel del agua con altura regulable sin escalonamientos
+- Asa de transporte
+- Conexión universal para mangueras de 25 mm y 32 mm, así como rosca exterior G 1 (aprox. 33.3 mm)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00B18KAEG{{</world>}}

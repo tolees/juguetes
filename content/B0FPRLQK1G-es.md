@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Si eres lo suficientemente astuto, ¡podrás evitar quedar en último lugar!
+- La tina puede ser un lugar peligroso para un juguete... ¡en especial si hay un tiburón de hule persiguiéndote a ti y a tus amigos!
 - ¡Mejor empieza a nadar antes de que seas el primero en salir mordido! Tus extremidades de plástico dependen de ello.
 - ¡Tiburón! Es un juego de tienta la suerte y blufeo sobre ser la última adorable figura de plástico en ser desmembrada.
-- La tina puede ser un lugar peligroso para un juguete... ¡en especial si hay un tiburón de hule persiguiéndote a ti y a tus amigos!
 - Un juego de 2 a 7 jugadores, a partir de 8 años edad y de 10 a 20 minutos por partida.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

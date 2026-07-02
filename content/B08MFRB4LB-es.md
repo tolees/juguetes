@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ESPECIFICACIONES: las dimensiones del producto ensamblado son 87 cm de largo x 40 cm de ancho x 60 cm de alto. Recomendado para niños de 18 meses a 5 años. Peso máximo: 22,6 kilos.
 - NEUMÁTICOS DE GOMA: las llantas neumáticas de caucho de 12 pulgadas (30,4 cm) ofrecen una conducción suave en cualquier terreno. El color blanco también se suma a este diseño clásico.
 - CINTA DE AGARRE EN EL CUADRO: los ciclistas pueden colocar los pies en la cinta de agarre del cuadro mientras se deslizan. El cuadro es ligero y duradero, lo que garantiza años de diversión.
 - GRAN BICICLETA PARA PRINCIPIANTES: Air Ride Balance es una bicicleta sin pedales para principiantes que permite a los niños pequeños concentrarse en el equilibrio. A medida que aprenden a caminar, deslizarse y correr, esta bicicleta de equilibrio les ayudará a desarrollar la coordinación. ¡El timbre que suena también añade diversión!
+- ESPECIFICACIONES: las dimensiones del producto ensamblado son 87 cm de largo x 40 cm de ancho x 60 cm de alto. Recomendado para niños de 18 meses a 5 años. Peso máximo: 22,6 kilos.
 - SILLÍN AJUSTABLE: el asiento ajustable sin herramientas crece con tu niño desde los 18 meses hasta los 5 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

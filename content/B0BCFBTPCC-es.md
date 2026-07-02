@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Memory es uno de los grandes juegos de mesa clásicos de Ravensburger y sigue divirtiendo a generaciones enteras de familias
 - El Memory Unicorns contiene 64 fichas con imágenes de 32 preciosos unicornios y es un regalo estupendo para todos los niños y niñas
+- El Memory es uno de los grandes juegos de mesa clásicos de Ravensburger y sigue divirtiendo a generaciones enteras de familias
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCFBTPCC{{</world>}}

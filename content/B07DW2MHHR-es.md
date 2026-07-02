@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- JUEGO DIVERTIDO: Ponte en la piel de una ardilla y ayuda a recuperar sus avellanas
 - JUEGO DE REFLEXIÓN: Mueve a las ardillas y ayúdalas a mantener sus provisiones protegidas.
-- CONTENIDO: Un tablero de juego portátil con tapa - perfecto para viajar, cuatro ardillas, cinco avellanas, un folleto con 60 desafíos y soluciones.
 - JUEGO EDUCATIVO: Este juego estimula las siguientes habilidades cognitivas: concentración, inteligencia espacial, lógica, planificación y resolución de problemas.
+- CONTENIDO: Un tablero de juego portátil con tapa - perfecto para viajar, cuatro ardillas, cinco avellanas, un folleto con 60 desafíos y soluciones.
+- JUEGO DIVERTIDO: Ponte en la piel de una ardilla y ayuda a recuperar sus avellanas
 - NIVELES DE JUEGO: "Cache-avellanas" es un juego de lógica que ofrece 60 desafíos para resolver, de fácil a experto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

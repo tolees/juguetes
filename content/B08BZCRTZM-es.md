@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Número de jugadores: el juego es adecuado para 2 a 5 jugadores
 - Como más larga sea la palabra más puntos obtendrás; Asegúrate de completar la palabra antes de que acabe el juego, sino, no será válida
 - Juego de estrategia y dados adecuado para pasar una tarde con amigos y familias con niños
-- Bresk es un buen juego para aquellos que les gusten los juegos de palabras; Tira el dado de números y comprueba cuantas letras a tu elección puedes introducir en tu hoja para poder formar palabras; Además de ti, cada jugador también tiene que colocar tu misma letra así que tu decides qué letras son necesarias
 - Contenido: plantillas de juego 2 dados 1 lápiz
-- Número de jugadores: el juego es adecuado para 2 a 5 jugadores
+- Bresk es un buen juego para aquellos que les gusten los juegos de palabras; Tira el dado de números y comprueba cuantas letras a tu elección puedes introducir en tu hoja para poder formar palabras; Además de ti, cada jugador también tiene que colocar tu misma letra así que tu decides qué letras son necesarias
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BZCRTZM{{</world>}}

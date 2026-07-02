@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El divertido Patricio luce su clásico bañador verde y morado
-- Peluche comprometido con el medio ambiente, relleno con materiales 100% reciclados
 - Peluche de Patricio, el popular personaje de la serie de TV, en 35 cm; optimo para peques desde los primeros meses de vida
+- Peluche comprometido con el medio ambiente, relleno con materiales 100% reciclados
 - El tamaño del peluche, los materiales y el tacto es optimo para que los mas pequeños jueguen con él
 - Peluches de Patricio de Simba Toys: colección de peluches con licencia 100% oficial, aptos para niños de todas las edades
 

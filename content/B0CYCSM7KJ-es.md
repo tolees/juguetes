@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Eurogame para todos aquellos que buscan un pick up and deliver complejo, original y con mucha interacción.
 - El último juego de la Kemushi Saga (hasta ahora) presentándonos el lado más post-apocalíptico de este universo.
 - Un despliegue impresionante en una caja contenida. Se pueden hacer grandes juegos en espacios honestos y por precios razonables.
-- Eurogame para todos aquellos que buscan un pick up and deliver complejo, original y con mucha interacción.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CYCSM7KJ{{</world>}}

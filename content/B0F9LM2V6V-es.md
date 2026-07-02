@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Piensa rápido, encuentra una palabra que encaje con el tema y la letra... ¡y pulsa el primero!
-- Incluye: 1 máquina con 6 botones, 50 cartas, manual de instrucciones.
 - El juego que pondrá a prueba tu agilidad mental
+- Incluye: 1 máquina con 6 botones, 50 cartas, manual de instrucciones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9LM2V6V{{</world>}}

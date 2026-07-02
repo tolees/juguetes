@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
-- TRIPULACIÓN ICÓNICA: contiene microfiguras de Anakin Skywalker y R2-D2 de 2,5cm
-- ESCALA AUTÉNTICA: el vehículo de 8cm con detalles increíbles y a escala. Producto de Star Wars con licencia oficial.
 - CARGA COMPLETA: Incluye todos los detalles, cabina abatible, tren de aterrizaje retráctil y más
+- Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - VEHÍCULO ICÓNICO: Rescata al Canciller con el INTERCEPTOR JEDI DE ANAKIN SKYWALKER
+- ESCALA AUTÉNTICA: el vehículo de 8cm con detalles increíbles y a escala. Producto de Star Wars con licencia oficial.
+- TRIPULACIÓN ICÓNICA: contiene microfiguras de Anakin Skywalker y R2-D2 de 2,5cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9Q3X16V{{</world>}}

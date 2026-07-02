@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 125 OBSTÁCULOS DESAFIANTES: ¿Podrás superar los 125 obstáculos del laberinto Perplexus Epic? Mueve la bola por el camino numerado a través de complicados obstáculos, como el hombre que ríe, la cornisa o la superespiral, sin caerte. Un verdadero rompecabezas dentro un laberinto bola 3D
-- FÁCIL DE JUGAR, DIFÍCIL DE DOMINAR: Gira, voltea y mueve en 360° el rompecabezas para llegar a la línea de meta. No podrás dejar de jugar con el Perplexus Epic. Una vez que hayas dominado el camino, no te detengas y que sigan los retos con Perplexus Rebel y Perplexus Beast (se venden por separado)
 - LABERINTO Y ROMPECABEZAS: Este rompecabezas Perplexus original y juego de habilidad es perfecto para trabajar tu paciencia y tu concentración. ¡Descubre el Perplexus Epic, el juego de mesa para los niños 8 años +
+- FÁCIL DE JUGAR, DIFÍCIL DE DOMINAR: Gira, voltea y mueve en 360° el rompecabezas para llegar a la línea de meta. No podrás dejar de jugar con el Perplexus Epic. Una vez que hayas dominado el camino, no te detengas y que sigan los retos con Perplexus Rebel y Perplexus Beast (se venden por separado)
 - REGALOS NIÑOS 8 AÑOS +: La bola laberinto 3D Perplexus Epic es un emocionante y desafiante juego de laberintos 3D y un regalo perfecto para niños y adultos en cualquier ocasión (cumpleaños, Navidad, Reyes...). Gíralo. Voltéalo. ¡Supéralo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

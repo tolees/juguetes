@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TRES AVENTURAS ÉPICAS: Incluye tres escenarios únicos de 60 minutos: escapa de un Destructor Imperial, sobrevive al ataque en la base helada de Hoth y recupera un artefacto valioso en el desierto de Jedha.
-- VIVE UNA EXPERIENCIA DE ESCAPE ROOM GALÁCTICA: Pon a prueba tu ingenio y el de tu equipo con tres misiones críticas ambientadas en el universo de Star Wars, donde cada segundo cuenta para alcanzar la victoria.
 - DIVERSIÓN PARA TODAS LAS EDADES: Con reglas accesibles y una temática inmersiva, es el regalo perfecto para fans de la saga a partir de 10 años que busquen una experiencia de juego dinámica y emocionante.
-- TRABAJO EN EQUIPO Y ESTRATEGIA: Diseñado para 1 a 6 jugadores, este juego cooperativo fomenta la comunicación y la resolución lógica de acertijos, siendo ideal tanto para sesiones en familia como para grupos de amigos.
+- TRES AVENTURAS ÉPICAS: Incluye tres escenarios únicos de 60 minutos: escapa de un Destructor Imperial, sobrevive al ataque en la base helada de Hoth y recupera un artefacto valioso en el desierto de Jedha.
 - JUEGO TOTALMENTE EN ESPAÑOL: Disfruta de una narrativa fluida y acertijos perfectamente adaptados en esta edición íntegramente en castellano, garantizando que no se pierda ningún detalle de la misión.
+- VIVE UNA EXPERIENCIA DE ESCAPE ROOM GALÁCTICA: Pon a prueba tu ingenio y el de tu equipo con tres misiones críticas ambientadas en el universo de Star Wars, donde cada segundo cuenta para alcanzar la victoria.
+- TRABAJO EN EQUIPO Y ESTRATEGIA: Diseñado para 1 a 6 jugadores, este juego cooperativo fomenta la comunicación y la resolución lógica de acertijos, siendo ideal tanto para sesiones en familia como para grupos de amigos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NPZMYKW{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 👨‍👨‍👧‍👦 DE 2 A 8 JUGADORES A PARTIR DE 14 AÑOS. Un juego de preguntas muy divertido en el que podréis participar de 2 a 8 jugadores, a partir de 14 años de edad.
 - 🃏¡EXPANDE LA DIVERSIÓN CON NUEVAS PREGUNTAS DE ENTRETENIMIENTO! Disfruta de 100 nuevas preguntas y 1000 respuestas adicionales sobre cine, televisión, artes escénicas, espectáculos y videojuegos en tu juego Smart 10. Reemplaza las tarjetas de preguntas en el Smartbox con dos paquetes de expansión temáticos o mézclalas con las originales ¡y a jugar!
+- ⏱DURACIÓN DE LA PARTIDA 20 MINUTOS. Cada partida tendrá una duración aproximada de 20 minutos. Ni muy larga ni muy corta para que juguéis las veces que queráis sin aburriros.
 - ✅COMPATIBLE CON CUALQUIER JUEGO BASE SMART 10. Utiliza estas emocionantes preguntas de entretenimiento con la caja Smart incluida en cualquier juego base de Smart 10, sin necesidad de comprar un nuevo conjunto completo.
 - 🔝SD GAMES, REFERENTES DEL SECTOR. Desde 2015, en SD Games nos esmeramos en la creación de un catálogo de juegos de mesa modernos, que atraigan también al jugador habitual. Formamos parte de SD Distribuciones, referente en el mercado especializado de artículos de ocio, con más de 25 años de trayectoria en el sector.
-- ⏱DURACIÓN DE LA PARTIDA 20 MINUTOS. Cada partida tendrá una duración aproximada de 20 minutos. Ni muy larga ni muy corta para que juguéis las veces que queráis sin aburriros.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGZY9DMY{{</world>}}

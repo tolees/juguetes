@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alguien ha entrado en la cocina y ha robado un trozo de tarta antes de que empezara la cena
-- ¿Quién lo haría? ¡Da tu hipótesis eliminando a los sospechosos gracias a las pistas que has escrito en tu cuaderno de detective! Cluedo Junior, ¡un juego adorado por los niños! Tus hijos aprenderán a ser grandes detectives con Cluedo Junior
 - ¿Quién puede resolver el enigma del trozo de tarta que falta? Investiga para averiguarlo en esta versión de Cluedo para jóvenes
+- ¿Quién lo haría? ¡Da tu hipótesis eliminando a los sospechosos gracias a las pistas que has escrito en tu cuaderno de detective! Cluedo Junior, ¡un juego adorado por los niños! Tus hijos aprenderán a ser grandes detectives con Cluedo Junior
+- Alguien ha entrado en la cocina y ha robado un trozo de tarta antes de que empezara la cena
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRT4VZ3F{{</world>}}

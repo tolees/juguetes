@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NUEVAS MECÁNICAS ESTRATÉGICAS: Basado en el éxito mundial Splendor, esta versión introduce el uso de perlas escasas y cartas con capacidades especiales que añaden una nueva profundidad táctica a cada partida.
 - TABLERO COMÚN DINÁMICO: Gestiona con inteligencia la toma de fichas de gema y perla de un tablero compartido, planificando tus movimientos para bloquear a tu oponente mientras acumulas tus recursos.
-- PARTIDAS RÁPIDAS E INTENSAS: Con una duración de solo 30 minutos y reglas optimizadas para mayores de 10 años, es el juego de estrategia ideal para disfrutar de duelos rápidos y altamente competitivos.
+- NUEVAS MECÁNICAS ESTRATÉGICAS: Basado en el éxito mundial Splendor, esta versión introduce el uso de perlas escasas y cartas con capacidades especiales que añaden una nueva profundidad táctica a cada partida.
 - ENFRÉNTATE A TU GREMIO RIVAL: Una experiencia competitiva diseñada exclusivamente para 2 jugadores, donde competirás en una carrera estratégica por el control de los recursos y la victoria final.
 - CONSIGUE FAVORES REALES Y PRESTIGIO: Compra cartas para obtener bonificaciones permanentes y aprovecha los favores de la realeza para acelerar tu ascenso y demostrar tu maestría como joyero.
+- PARTIDAS RÁPIDAS E INTENSAS: Con una duración de solo 30 minutos y reglas optimizadas para mayores de 10 años, es el juego de estrategia ideal para disfrutar de duelos rápidos y altamente competitivos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGM9BB27{{</world>}}

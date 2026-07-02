@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ⚡ ¡REGLAS SENCILLAS! Un jugador pregunta, el otro responde en 8 segundos. Si acierta, gana el punto. ¡No hay tiempo para pensar!
 - 🤪 ¡8 SEGUNDOS DE LOCURA! Juego de mesa divertido y sin filtros. Responde rápido a preguntas absurdas y locas. ¡Risas garantizadas!
 - 🥳 ¡FIESTAS ÉPICAS! De 2 a 20 jugadores, +16 años y partidas de 15 a 60 min. Regalo original para cumpleaños y fiestas.
 - 🍑 ¡SINVERGÜENZA TOTAL! 400 preguntas y 80 cartas especiales para descubrir el lado más loco y atrevido de tus amigos.
 - 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
+- ⚡ ¡REGLAS SENCILLAS! Un jugador pregunta, el otro responde en 8 segundos. Si acierta, gana el punto. ¡No hay tiempo para pensar!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07X8CVLRP{{</world>}}

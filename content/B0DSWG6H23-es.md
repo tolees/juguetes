@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - ¡Funko Pop! con las siguientes características:
 - Fan merch, Marvel, Película
-- ¡Un auténtico destacado para tu casa!
 - Tu artículo favorito de EMP!
+- ¡Un auténtico destacado para tu casa!
 - Merch para fans y divertido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

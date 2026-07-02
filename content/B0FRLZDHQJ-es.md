@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El objetivo de este juego es lograr reunir una armada de 3 barcos piratas con las mismas características. Para ello debemos recorrer los mares y capturar barcos destapando los barriles correctos del centro.
 - Permite dos niveles de dificultad, añadiendo barriles especiales con efectos adicionales que permiten los nuevos elementos marinos que entran en juego.
+- Juego infantil de mesa de memoria y estrategia para 2-5 jugadores/a, a partir de 6 años.
 - Todos los juegos FlexiQ potencia tu adaptabilidad y flexibilidad al incorporant un elemento que hace cambiar la dinámica básica del juego
 - Amplio material de juego de gran calidad y realismo con barriles en 3D, botella de ron en miniatura y fichas de barcos de cartón duro que permiten que cada partida sea distinta.
-- Juego infantil de mesa de memoria y estrategia para 2-5 jugadores/a, a partir de 6 años.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FRLZDHQJ{{</world>}}

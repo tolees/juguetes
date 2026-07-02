@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En el centro está un temporizador de tictac en forma de bomba, de la que cada jugador intenta deshacerse.
-- El explosivo partido – ¿Quién encuentra rápidamente una palabra adecuada para la tarjeta de letras, y en quién termina el tictac con un fuerte "boum"?
 - El juego de palabras explosivo: pensadores rápidos y acrobatas de palabras obtienen la victoria en este juego de búsqueda de palabras lleno de acción.
 - Desde el juego de Los Rodríguez, galardonado en muchos países, se han vendido más de 8 millones de piezas.
+- En el centro está un temporizador de tictac en forma de bomba, de la que cada jugador intenta deshacerse.
+- El explosivo partido – ¿Quién encuentra rápidamente una palabra adecuada para la tarjeta de letras, y en quién termina el tictac con un fuerte "boum"?
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0000TZ6JG{{</world>}}

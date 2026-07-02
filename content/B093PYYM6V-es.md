@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Señor de los Anillos es un juego cooperativo en el que se traslada la emoción y la aventura que Tolkien plasmó en sus libros a un tablero de juego.
 - Número jugadores: 2-5
+- El Señor de los Anillos es un juego cooperativo en el que se traslada la emoción y la aventura que Tolkien plasmó en sus libros a un tablero de juego.
 - Género: aventuras
 - Edad mínima recomendada: 12+
 

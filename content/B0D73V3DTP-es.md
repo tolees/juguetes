@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 👑 Sólo un jugador puede ganar: ¿Serás el último que quede en pie sosteniendo la bandera? Domina la batalla y consigue la victoria.
-- 🗺️ Mapa del tesoro: Explora la isla para descubrir botines que te ayudarán a ganar tus batallas, pero ten cuidado con las bombas ocultas y las feroces tormentas
-- ⚔️ Un clásico de estrategia con un giro aventurero: Basado en el clásico Stratego, pero con un emocionante tema de isla y nuevas reglas que lo hacen único y emocionante.
 - 🏝️ Explora la isla perdida: Prepárate para encontrar la bandera escondida en esta isla traidora antes de que se hunda en el mar.
+- 🗺️ Mapa del tesoro: Explora la isla para descubrir botines que te ayudarán a ganar tus batallas, pero ten cuidado con las bombas ocultas y las feroces tormentas
+- 👑 Sólo un jugador puede ganar: ¿Serás el último que quede en pie sosteniendo la bandera? Domina la batalla y consigue la victoria.
+- ⚔️ Un clásico de estrategia con un giro aventurero: Basado en el clásico Stratego, pero con un emocionante tema de isla y nuevas reglas que lo hacen único y emocionante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D73V3DTP{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fomenta el juego imaginativo y la narración de historias
 - ¡19piezas! Incluye 1 olla, 2 sartenes, 2 tapas, 2 utensilios de cocina, 1 guante para el horno y 11 piezas de comida para que los niños simulen que cocina y sirven
+- Fomenta el juego imaginativo y la narración de historias
 - Está hecho con madera de bosques sostenibles con certificación del Forest Stewardship Council y viene en un embalaje sin plástico
 - Juego creativo inspirado en Montessori para niños y niñas de preescolar a partir de 3 años
 - Conjunto de juego de cocina de madera para que los niños y las niñas de preescolar simulen que cocinan y sirven

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con divertidos experimentos
+- Completo libro de instrucciones
 - Con 75 experimentos
 - Número de jugadores: 1 o más
-- Completo libro de instrucciones
+- Con divertidos experimentos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00T9BOERG{{</world>}}

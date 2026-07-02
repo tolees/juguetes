@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Piedra Filosofal: Edición para Coleccionistas - Maqueta para Adultos de Escena de Película - Decoración del Hogar - Figura de Lechuza Hedwig y 3 Minigfiguras - Regalo para Fans 76466'
-date: 2026-06-30 08:27:45
+date: 2026-07-01 16:03:57
 image: 'https://m.media-amazon.com/images/I/51ynT5nd3TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXHC19W/?tag=tolees-21'
 descuento: '21.88'
-average: '129.850714285714'
+average: '129.526666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ESCENAS ICÓNICAS Y MÁS: Recrea escenas a microescala de Harry Potter y la piedra filosofal, un cromo de la rana de chocolate con Albus Dumbledore, la Piedra Filosofal, 2 galeones y más
 - SETS LEGO PARA ADULTOS: Este modelo en kit LEGO Harry Potter pertenece a una colección de sets de construcción de primera calidad para adultos que disfrutan con las actividades manuales, creativas y conscientes
-- FUNCIONES DIVERTIDAS: Gira las 3 ruedas para volar el lateral del baúl de Harry Potter y revelar una escena a microescala del ataque de un troll en el baño, gira la cabeza de Hedwig o mueve a la reina en el tablero de ajedrez mágico
 - FIGURA ANIMAL Y 3 PERSONAJES: Construye una figura de la lechuza nival Hedwig como pieza central de este set y añade las minifiguras LEGO de Harry Potter, Hermione Granger y Ron Weasley
 - INSTRUCCIONES DE CONSTRUCCIÓN 3D: Prepárate para construir como nunca con LEGO Builder, una app que te permite acercar y girar tu modelo con las instrucciones de construcción 3D, guardar tus sets y consultar tu progreso
-- ESCENAS ICÓNICAS Y MÁS: Recrea escenas a microescala de Harry Potter y la piedra filosofal, un cromo de la rana de chocolate con Albus Dumbledore, la Piedra Filosofal, 2 galeones y más
-- REGALO PARA HOMBRES Y MUJERES: Date un capricho o regala esta maqueta para adultos LEGO Harry Potter, creada para celebrar el 25.º aniversario, a hombres y mujeres fans de Harry Potter
 - COLECCIÓN LEGO HARRY POTTER: Celebra el 25.º aniversario de la primera película de Harry Potter con la maqueta para adultos LEGO Harry Potter Piedra Filosofal: Edición para Coleccionistas
+- FUNCIONES DIVERTIDAS: Gira las 3 ruedas para volar el lateral del baúl de Harry Potter y revelar una escena a microescala del ataque de un troll en el baño, gira la cabeza de Hedwig o mueve a la reina en el tablero de ajedrez mágico
+- REGALO PARA HOMBRES Y MUJERES: Date un capricho o regala esta maqueta para adultos LEGO Harry Potter, creada para celebrar el 25.º aniversario, a hombres y mujeres fans de Harry Potter
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FPXHC19W{{</world>}}

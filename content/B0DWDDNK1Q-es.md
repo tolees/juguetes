@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- " Un regalo para aficionados a las maquetas de aviones: Entrega este set infantil como regalo de cumpleaños a un niño o una niña a partir de 6 años al que le guste construir aviones de juguete "
 - Una ciudad sin límites: LEGO City es un lugar donde los niños pueden dejar fluir su imaginación sin límite. Sus vehículos de juguete, estructuras y ciudadanos son una extraordinaria motivación que los impulsa a construir, crear, explorar y jugar
-- Amplía el juego: Los peques podrán dar rienda suelta a más diversión y aventuras combinando este set de juguetes con otros de la gama LEGO City (a la venta por separado)
-- Set con ambulancia aérea de juguete: El set LEGO City Ambulancia Aérea de Emergencia reserva a los peques a partir de 6 años infinidad de emocionantes misiones aéreas de rescate
 - Accesorios para el juego de rol y minifiguras LEGO: Este juego viene con una camilla, un botiquín, una jeringa, una botella de agua y más accesorios de primeros auxilios de juguete
+- Set con ambulancia aérea de juguete: El set LEGO City Ambulancia Aérea de Emergencia reserva a los peques a partir de 6 años infinidad de emocionantes misiones aéreas de rescate
+- " Un regalo para aficionados a las maquetas de aviones: Entrega este set infantil como regalo de cumpleaños a un niño o una niña a partir de 6 años al que le guste construir aviones de juguete "
 - Una detallada maqueta de avión: Los niños pueden bajar la escalera de embarque y abrir el fuselaje para acceder a las diferentes áreas, como la cabina y un laboratorio médico desplegable con pantallas y un ordenador
+- Amplía el juego: Los peques podrán dar rienda suelta a más diversión y aventuras combinando este set de juguetes con otros de la gama LEGO City (a la venta por separado)
 - ¿Qué contiene la caja? Incluye todo lo necesario para construir una ambulancia aérea, una moto de nieve de juguete y un aeropuerto con manga de viento, además de minifiguras LEGO de un piloto, una doctora, un paramédico y un esquiador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

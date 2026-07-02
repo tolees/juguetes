@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ADÉNRATE EN EL PALACIO DE JABBA: Vive la emoción de la guarida del vil gánster Jabba el Hutt en este rápido juego de cartas que combina riesgo y deducción en el corazón de Tatooine.
-- PARTIDAS RÁPIDAS Y DINÁMICAS: Con una duración de solo 20 minutos, es el juego ideal para cualquier reunión. Su mecánica sencilla y profunda lo hace perfecto para familias y grupos de 2 a 6 jugadores.
 - EXPERIENCIA EN ESPAÑOL: Edición íntegramente en castellano que incluye cartas de alta calidad y componentes temáticos. Recomendado a partir de 10 años para todos los fans de Star Wars y de los juegos de mesa.
+- PARTIDAS RÁPIDAS Y DINÁMICAS: Con una duración de solo 20 minutos, es el juego ideal para cualquier reunión. Su mecánica sencilla y profunda lo hace perfecto para familias y grupos de 2 a 6 jugadores.
 - HÉROES Y VILLANOS ICÓNICOS: Utiliza las habilidades únicas de los héroes de la Alianza Rebelde o únete a los moradores del palacio para derrotar a tus adversarios y ejecutar tu plan con éxito.
 - DEDUCCIÓN Y ESTRATEGIA: Basado en la mecánica del exitoso Love Letter, utiliza tu ingenio para sobrevivir a los planes de tus enemigos y ser el último jugador en pie o cumplir tus objetivos secretos.
 

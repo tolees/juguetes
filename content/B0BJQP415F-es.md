@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - [OTRAS FUNCIONES] - Directorio telefónico para 60 nombres y números, función de manos libres, 13 horas de tiempo de conversación / 200 horas de tiempo de espera, identificación de llamantes 1 (o identificación de llamada 1) / función de llamada en espera (20 registros), 10 rellamadas al último número, alarma, función de silencio, bloqueo de teclas, ajuste del volumen del timbre y de las melodías.
-- [ Contestador (grabadora) digital] - Con la ayuda (el uso) del contestador, se pueden grabar las llamadas en caso de ausencia. La duración máxima de grabación es de 15 minutos. El número de llamadas perdidas se muestra en la pantalla.
 - [Modo ECO] - El combinado (auricular) ajusta automáticamente la potencia de la frecuencia de radio según la distancia entre el combinado (auricular) y la base. La tecnología ECO DECT respetuosa con el medio ambiente permite reducir el consumo de energía.
-- [Bloqueo selectivo de llamadas] - Evite las llamadas acosadoras e indeseadas. La función de bloqueo de llamadas de VTech le permite bloquear llamadas molestas y aquellas provenientes de números desconocidos. Puede añadir hasta 60 números bloqueados a la lista negra.
 - [Pantalla retroiluminada] - Pantalla grande y fácil de leer gracias a la retroiluminación. Toda la pantalla LCD está iluminada, lo que le permite recibir y realizar llamadas incluso en la oscuridad de la noche.
+- [ Contestador (grabadora) digital] - Con la ayuda (el uso) del contestador, se pueden grabar las llamadas en caso de ausencia. La duración máxima de grabación es de 15 minutos. El número de llamadas perdidas se muestra en la pantalla.
+- [Bloqueo selectivo de llamadas] - Evite las llamadas acosadoras e indeseadas. La función de bloqueo de llamadas de VTech le permite bloquear llamadas molestas y aquellas provenientes de números desconocidos. Puede añadir hasta 60 números bloqueados a la lista negra.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJQP415F{{</world>}}

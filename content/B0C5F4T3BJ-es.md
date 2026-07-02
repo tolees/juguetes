@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad óptima
 - Con juegos fáciles a la vez que interesantes
 - Producto óptimo para regalar
+- Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5F4T3BJ{{</world>}}

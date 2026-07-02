@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Geomag es un juego educativo de la categoría STEM que favorece el aprendizaje. Los juegos de construcciones de Geomag fomentan la coordinación ojo-mano, la sensibilidad y la capacidad de atención
 - El juego magnético contiene 44 bolas metálicas no magnéticas, 44 barras magnéticas amarillas, rojas, fucsias y naranjas, 2 paneles base cuadrados amarillos y paneles base pentagonales naranjas. Los elementos son compatibles con todas las colecciones Classic y Panels de Geomag
+- Los productos de Geomag se fabrican en Suiza con materiales de alta calidad siguiendo estrictas normas de seguridad europeas e internacionales (Certificaciones ASTM y EN-71 de seguridad de juguetes)
 - No hay límites para tu imaginación con los geoimanes: los juguetes magnéticos son perfectos para los niños, además los elementos son compatibles con las colecciones Classic y Panels de Geomag
 - Llévalo a cualquier parte: la Green Line de Geomag incluye una caja fabricada con plástico 100% reciclado que te permite llevar tu juego magnéticoGeomag y mantener todas las piezas ordenadas
-- Los productos de Geomag se fabrican en Suiza con materiales de alta calidad siguiendo estrictas normas de seguridad europeas e internacionales (Certificaciones ASTM y EN-71 de seguridad de juguetes)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0862J5CBP{{</world>}}

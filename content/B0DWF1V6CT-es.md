@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 7 minifiguras LEGO | Marvel: Iron Patriot MK2; Rocket, con un gran cañón que dispara; Thor, con el Destructor de Tormentas; y 4 Chitauri, 2 de ellos con cañones dorados que disparan
+- Accesorios para aventuras de acción: Cuenta también con 2 aeromotos y un pequeño modelo para la minifigura de Thor donde se puede guardar la munición adicional
+- Sets LEGO | Marvel construibles: La extensa gama de sets LEGO | Marvel para construir y jugar ofrece a los niños un universo de aventuras interactivas de superhéroes en constante cambio
+- Instrucciones de construcción 3D: Los peques pueden descargar la app LEGO Builder y sumergirse en la experiencia de construcción con herramientas digitales para acercar y girar versiones 3D de los modelos, guardar sets y consultar su progreso
 - Regalo de Marvel: Regala este juguete de superhéroes a un niño, una niña o un fan de la película de Marvel Studios Vengadores: Endgame a partir de 8 años
 - Juguete de superhéroes: El set Thor de Vengadores: Endgame vs. Chitauri es un juguete LEGO | Marvel Vengadores idóneo para niños y niñas a partir de 8 años con pasión por las armas de juguete y los héroes de acción
-- Sets LEGO | Marvel construibles: La extensa gama de sets LEGO | Marvel para construir y jugar ofrece a los niños un universo de aventuras interactivas de superhéroes en constante cambio
-- Accesorios para aventuras de acción: Cuenta también con 2 aeromotos y un pequeño modelo para la minifigura de Thor donde se puede guardar la munición adicional
-- Instrucciones de construcción 3D: Los peques pueden descargar la app LEGO Builder y sumergirse en la experiencia de construcción con herramientas digitales para acercar y girar versiones 3D de los modelos, guardar sets y consultar su progreso
 - Figuras de superhéroes Marvel: Incluye la armadura Iron Patriot con 4 cañones que disparan, y un temible gorila Chitauri, 2 grandes figuras LEGO construibles articuladas para aportar dinamismo al juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

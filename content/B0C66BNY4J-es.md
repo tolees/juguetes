@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POR AIRE Y POR TIERRA – Sobrevuela la ciudad abriendo las alas del robot, ¡siempre alerta para atrapar a cualquier malhechor!
-- GRAN JUGABILIDAD – Robot de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños. ¡La aventura está garantizada!
-- FIGURAS EXCLUSIVAS – Contiene 1 Kazoom Kid y 1 SuperThing héroe exclusivos
 - ¡PROTEGE KABOOM CITY! – Defiende la ciudad con este nuevo aliado cargado de energía Kazoom. Y si toca entrar en combate, ¡dispara su accesorio y derrota a los malos!
 - ¡VUELVE KAZOOM POWER! – ¡Vuelve el Robot de Kazoom Power, esta vez con mucho más poder gracias a su armadura dorada!
 - DIVERSIÓN Y AVENTURAS ÚNICAS – Los SuperThings son objetos cotidianos que han cobrado vida ahora tienen nuevos compañeros que son los Kazoom Kids, niños transformados también en héroes y villanos por el poder del Kazoom y viven todos en Kaboom City. Puedes descubrir o seguir las aventuras de estas figuras de acción en el canal de YouTube de Magic Box (disponible en español y en otros idiomas)
+- FIGURAS EXCLUSIVAS – Contiene 1 Kazoom Kid y 1 SuperThing héroe exclusivos
+- POR AIRE Y POR TIERRA – Sobrevuela la ciudad abriendo las alas del robot, ¡siempre alerta para atrapar a cualquier malhechor!
+- GRAN JUGABILIDAD – Robot de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños. ¡La aventura está garantizada!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C66BNY4J{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Niños y niñas pueden coleccionar más muñecas y conjuntos de juego de Barbie inspirados en la serie para recrear aventuras con toda la pandilla (se venden por separado y están sujetos a disponibilidad).
-- La muñeca Barbie está lista para despegar con su bonito conjunto de viaje (una falda con un estampado inspirado en el cielo) y varios accesorios temáticos, como una almohada para el cuello con forma de gatito, un cepillo de dientes, unos auriculares, una cámara y mucho más.
 - Decora su maleta con la hoja de pegatinas y, después, prepara la mochila y el equipaje. ¡Se abren y se cierran para guardar tus imprescindibles para viajar!
 - ¡Viaja con tu imaginación por todo el mundo con la muñeca Barbie “Malibú”!
+- Niños y niñas pueden coleccionar más muñecas y conjuntos de juego de Barbie inspirados en la serie para recrear aventuras con toda la pandilla (se venden por separado y están sujetos a disponibilidad).
 - La muñeca​Barbie está lista para su próxima gran aventura con su perrito y los más de 10 accesorios de viaje que inspirarán todo tipo de historias.
+- La muñeca Barbie está lista para despegar con su bonito conjunto de viaje (una falda con un estampado inspirado en el cielo) y varios accesorios temáticos, como una almohada para el cuello con forma de gatito, un cepillo de dientes, unos auriculares, una cámara y mucho más.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5HPKZKM{{</world>}}

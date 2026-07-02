@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Powered by either 3 AAA batteries (not included) or by a USB-C cable (not included)
 - Officially licensed title
 - Full color 2.5" screen
 - Includes 200 bonus games
 - Built-in speaker with volume control
-- Powered by either 3 AAA batteries (not included) or by a USB-C cable (not included)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT3YL9GR{{</world>}}

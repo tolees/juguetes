@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Online Ranking
 - Original Arcade Bubble Bobble inklusive.Coop für bis zu 4 Spieler
-- Mehr als 200 Levels
 - Weiterentwickeltes Bubble Bobble Gameplay / Skill System
+- Mehr als 200 Levels
+- Online Ranking
 - Unbesiegbarer neuer Gegner Baron von Blubba
 
 [🛒 Comprar!!!]({{< param buyurl >}})

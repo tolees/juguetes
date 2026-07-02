@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este juego ha sido creado por un dibujante de cómics que pasó años en terapia, donde solía sufrir de pensamientos intrusivos.
-- Estos pensamientos son imágenes horribles que aparecen en tu mente inesperadamente. En vez de guardarse estas imágenes para sí mismo, decidió transformarlas en un juego de cartas.
 - Un juego de cartas en el que tienes que crear cómics muy (des)agradables.
 - s un juego que consiste en crear cómics de 3 escenas, empezando por una pregunta, seguida de una respuesta y, finalmente, un tratamiento psicológico.
 - Ganáis 1 punto si vuestro tratamiento es el elegido como la mejor opción para terminar el cómic.
+- Este juego ha sido creado por un dibujante de cómics que pasó años en terapia, donde solía sufrir de pensamientos intrusivos.
+- Estos pensamientos son imágenes horribles que aparecen en tu mente inesperadamente. En vez de guardarse estas imágenes para sí mismo, decidió transformarlas en un juego de cartas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXFSYQ5H{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El objetivo de SETUP es formar grupos de fichas en el tablero de juego.
-- Un grupo debe estar formado por un mínimo de dos fichas.
-- Para que el grupo sea válido, estas tienen que ser o del mismo valor numérico o formar una secuencia de números consecutivos pertenecientes al mismo palo.
-- Cuantas más fichas incluyas en los grupos que crees, más puntos ganarás y más casillas podrás avanzar con tu peón hacia la línea de meta.La persona que primero llegue a la meta ¡gana la partida!.
 - Las fichas que coloques en el tablero pueden ser un grupo por sí solas o formar un grupo al juntarlas con otras fichas que ya estén sobre el tablero.
+- Para que el grupo sea válido, estas tienen que ser o del mismo valor numérico o formar una secuencia de números consecutivos pertenecientes al mismo palo.
+- Un grupo debe estar formado por un mínimo de dos fichas.
+- Cuantas más fichas incluyas en los grupos que crees, más puntos ganarás y más casillas podrás avanzar con tu peón hacia la línea de meta.La persona que primero llegue a la meta ¡gana la partida!.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZWQWJJ7{{</world>}}

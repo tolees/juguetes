@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Producto distribuido en España por BIZAK, Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - Un juego divertido y familiar, para poner a prueba a toda la familia: 15 retos y 60 preguntas para responder, podrás demostrar que tú y tu familia formáis un equipo
 - El juego Oficial de la Casa de los Retos Splash hará que tú y tu familia participéis en el programa más loco de la TV desde casa, el jardín, el parque o la piscina
-- Basado en el exitoso programa de TV; descubre los nuevos retos y elementos del juego y descifra las respuestas de las cartas codificadas con la carta decodificadora; combinable con el otro juego de La Casa de los Retos
 - Acierta las preguntas y gana los retos para acumular puntos, consigue hacerlos bien y obtén cartas de bloqueo para perjudicar a tus oponentes
+- Basado en el exitoso programa de TV; descubre los nuevos retos y elementos del juego y descifra las respuestas de las cartas codificadas con la carta decodificadora; combinable con el otro juego de La Casa de los Retos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V822TNF{{</world>}}
