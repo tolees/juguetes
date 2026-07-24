@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Funko Pop! Animation: Tom and Jerry - Jerry Sleeping on Moon - Figura de Vinilo Coleccionable - Idea de Regalo - Mercancía Oficial - Juguetes para niños y Adultos - Figura Modelo para coleccionistas'
+date: 2026-05-27 08:16:16
+image: 'https://m.media-amazon.com/images/I/41O0VViYKtL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DP7C3XJ3-es Funko Pop! Animation: Tom and Jerry - Jerry Sleeping on...'
+sku: 'B0DP7C3XJ3-es'
+tags: [ 'juguetes','🇪🇸', ]
+actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
+comparePrice: 16.0 EUR
+prodname: 'Funko Pop! Animation: Tom and Jerry - Jerry Sleeping on Moon - Figura de Vinilo Coleccionable - Idea de Regalo - Mercancía Oficial - Juguetes para niños y Adultos - Figura Modelo para coleccionistas'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DP7C3XJ3/?tag=tolees-21'
+descuento: '38.12'
+average: '9.9'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- AMPLÍA TU COLECCIÓN - Añade esta pieza de exhibición de vinilo única de Jerry a tu creciente surtido de figuras Funko Pop! y busca otros artículos coleccionables raros y exclusivos para tener un conjunto completo
+- MATERIAL DE VINILO DE PRIMERA CALIDAD - Fabricado en vinilo duradero y de alta calidad, este coleccionable está hecho para durar y soportar el desgaste diario, garantizando un disfrute duradero tanto para los fans como para los coleccionistas.
+- MARCA LÍDER DE CULTURA POP - Confía en la experiencia de Funko, el principal creador de productos de cultura pop que incluye figuras de vinilo, juguetes de acción, peluches, ropa, juegos de mesa y mucho más.
+- REGALO PERFECTO PARA FANS DE TOM AND JERRY - Ideal para fiestas, cumpleaños u ocasiones especiales y como regalo esta figura es un complemento indispensable para cualquier Tom and Jerry colección de merchandising
+- TAMAÑO COLECCIONABLE IDEAL - Con una altura aproximada de 3,75 pulgadas (9,5 cm), esta minifigura de vinilo complementa otros artículos de colección y encaja perfectamente en tu vitrina o en tu escritorio.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0DP7C3XJ3{{</world>}}

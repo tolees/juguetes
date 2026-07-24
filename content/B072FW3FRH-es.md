@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Mattel Games La Gallina Josefina juego de mesa infantil +4 años versión español FRL14'
+date: 2026-04-26 17:18:33
+image: 'https://m.media-amazon.com/images/I/51pUrleoYAL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B072FW3FRH-es Mattel Games La Gallina Josefina juego de mesa infantil +4...'
+sku: 'B072FW3FRH-es'
+tags: [ 'de','juego','mattel','mesa','🇪🇸', ]
+actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
+comparePrice: 26.99 EUR
+prodname: 'Mattel Games La Gallina Josefina juego de mesa infantil +4 años versión español FRL14'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B072FW3FRH/?tag=tolees-21'
+descuento: '25.90'
+average: '19.2274999999999'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- 2015 NPD Partnership Limited trading as Ooba. Todos los derechos reservados. The SQUAWK name is a Trademark of NDP Partnership Ltd.
+- ¡Aprieta la gallina para activar divertidos cacareos! Si el gallinero se abre, la gallina pondrá un huevo que tendrás que romper.
+- Cómo ha caído la ficha que había dentro del huevo, con el lado del pollito hacia arriba o con el lado del huevo hacia arriba? Si cae con el lado del pollito hacia arriba, ¡consigues una ficha con un pollito!
+- Al final del juego, ¡el jugador con más fichas de pollitos es el ganador!
+- Juego de granja, juego con gallina, juego de pollitos, huevos, gallina josefina, gallinero, casa de la gallina, juego ruidoso, juego divertido, juego cacareos, juego con cacareos, juego para niños, juego para niños pequeños, juego gracioso
+- Un juego cargado de risas y cacareos para niños a partir de cuatro años.
+- ¡A los niños les encantará este desenfadado juego protagonizado por una gallina chillona!
+- 2016 Mattel. Todos los derechos reservados.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B072FW3FRH{{</world>}}
