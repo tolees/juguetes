@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con licencia de "Peppa Pig"
 - Figura de juguete
 - Autobús de fiesta
-- Con licencia de "Peppa Pig"
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP42ZP99{{</world>}}

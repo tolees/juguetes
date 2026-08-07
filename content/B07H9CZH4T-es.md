@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Asiento ultra cómodo de PU para muy fácil limpieza.
 - Con los juguetes de la bandeja, tu bebe siempre estará entretenido mientras come con lo que podrás darle de comer mientras se divierte.
 - Star Ibaby pretty es la trona perfecta para tu peque con doble bandeja extraíble y regulable.
 - El arnés le permite una sujeción optima y un extra de seguridad.
-- Asiento ultra cómodo de PU para muy fácil limpieza.
 - Doble bandeja ajustable con sobre bandeja para que sea muy fácil de limpiar totalmente extraíble.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

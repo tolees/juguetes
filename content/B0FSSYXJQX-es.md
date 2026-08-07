@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- KLIFF Y LA COMPAÑÍA LIBRE MELENA GRIS «Esta es nuestra misión». Únete a Kliff y a la Compañía Libre Melena Gris en el arduo viaje que emprenderán para salvar Pywel y cumplir con su misión. En esta peligrosa travesía, se encontrarán con compañeros por los que vale la pena arriesgar la vida, pero también se enfrentarán a numerosos enemigos que se interpondrán en su camino. Descubre la verdad sobre la catástrofe que se cierne sobre Pywel y devuélvele la paz al continente.
 - UN JUEGO DE ACCIÓN-AVENTURA EN MUNDO ABIERTO Una guerra por un poder nunca visto azota el continente de Pywel. Desde las inhóspitas tierras azotadas por ventiscas de Kweiden, pasando por las verdes planicies de Akapen hasta las áridas montañas rocosas del Desierto Carmesí, la belleza de este continente contrasta con la sombra de una guerra por un poder sin precedentes que acecha en la oscuridad.
-- Incluye 2 DLC in-game: - DLC de reserva- Escudo Khaled. - DLC exclusivo para PS5: Conjunto de placas Grotevant.
 - UN MUNDO REPLETO DE AVENTURAS Explora los fascinantes paisajes del continente donde te esperan seres místicos, tesoros ocultos y emocionantes aventuras.
+- Incluye 2 DLC in-game: - DLC de reserva- Escudo Khaled. - DLC exclusivo para PS5: Conjunto de placas Grotevant.
+- KLIFF Y LA COMPAÑÍA LIBRE MELENA GRIS «Esta es nuestra misión». Únete a Kliff y a la Compañía Libre Melena Gris en el arduo viaje que emprenderán para salvar Pywel y cumplir con su misión. En esta peligrosa travesía, se encontrarán con compañeros por los que vale la pena arriesgar la vida, pero también se enfrentarán a numerosos enemigos que se interpondrán en su camino. Descubre la verdad sobre la catástrofe que se cierne sobre Pywel y devuélvele la paz al continente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FSSYXJQX{{</world>}}

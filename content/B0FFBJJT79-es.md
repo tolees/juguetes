@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota: Hot Wheels es una marca registrada de Mattel. 2025 Mattel.
-- Color: blanco con detalles azul-verde y llantas negras
 - Escala 1:64: modelo Die-Cast detallado con parte frontal maciza
-- De la colección Hot Wheels: Lets Race (serie Netflix)
+- Combi de inspiración todoterreno con llamativos gráficos de rally
+- Nota: Hot Wheels es una marca registrada de Mattel. 2025 Mattel.
 - Perfecto para coleccionistas de modernos Hot Wheels Offroaders
 - Nota: Todas las marcas, logotipos y términos mencionados son marcas registradas. Los derechos recaen en el propietario respectivo.
-- Combi de inspiración todoterreno con llamativos gráficos de rally
+- Color: blanco con detalles azul-verde y llantas negras
+- De la colección Hot Wheels: Lets Race (serie Netflix)
 - Parte de la serie Hot Wheels HW Wagons 2025, número 184/250 (2/5 dentro de la subserie)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

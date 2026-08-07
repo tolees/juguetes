@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nancy es una muñeca totalmente articulada, lo que permite una mayor interacción y juego imaginativo; Podrás posicionarla en diferentes posiciones mientras monta a caballo y creas escenas realistas
-- El caballo viene con un cepillo-esponja que cambia el color de la crin y hacerle mechas de colores; Podrás peinar tanto al caballo como a Nancy y crear estilos únicos y divertidos
-- La muñeca tiene el pelo moreno y largo peinado en una trenza; podrás hacerle los peinados que tu quieras
 - Nancy y su caballo son el dúo perfecto para disfrutar de un día estiloso paseando por el campo
+- Nancy es una muñeca totalmente articulada, lo que permite una mayor interacción y juego imaginativo; Podrás posicionarla en diferentes posiciones mientras monta a caballo y creas escenas realistas
+- La muñeca tiene el pelo moreno y largo peinado en una trenza; podrás hacerle los peinados que tu quieras
 - Nancy lleva un look ecuestre completo compuesto por una gorra rosa, una camiseta blanca con dibujo, vaqueros azules, botas rosas y calentadores
+- El caballo viene con un cepillo-esponja que cambia el color de la crin y hacerle mechas de colores; Podrás peinar tanto al caballo como a Nancy y crear estilos únicos y divertidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C81KGX6K{{</world>}}

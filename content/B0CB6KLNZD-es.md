@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Disfruta de la velocidad con la muñeca Stacie y su kart!
-- Niños y niñas (a partir de 3 años) pueden descubrir más juguetes para recrear sus momentos favoritos de la película de dibujos animados “Barbie and Stacie to the Rescue”
-- La cesta se encaja en la parte trasera del vehículo para que el perrito pueda disfrutar también del recorrido.
 - Niños y niñas pueden personalizar el kart y los cascos con la hoja de pegatinas.
+- ¡Disfruta de la velocidad con la muñeca Stacie y su kart!
+- La cesta se encaja en la parte trasera del vehículo para que el perrito pueda disfrutar también del recorrido.
+- Niños y niñas (a partir de 3 años) pueden descubrir más juguetes para recrear sus momentos favoritos de la película de dibujos animados “Barbie and Stacie to the Rescue”
 - La muñeca Stacie siempre está dispuesta a vivir aventuras, y está lista para salir a toda velocidad con su traje de carreras y un casco rosa a juego. ¡También hay uno para el perrito!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

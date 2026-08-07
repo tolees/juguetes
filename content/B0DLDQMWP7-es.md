@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Acude al rescate con Rojo camión de bomberos y Guido de la serie Rescate a toda máquina en Radiador Springs de Disney Pixar Cars!
-- ¡Este camión de bomberos de juguete de gran tamaño refleja el espíritu y la personalidad de Rojo e incluye una figura no extraíble de Guido para que le ayude durante el rescate!
 - Guarda todos los accesorios en un compartimento especial de Rojo para que no se pierda nada.
 - Coloca las dos dianas incluidas y envía a Rojo y a Guido al lugar de los hechos.
 - Tira de Guido hacia atrás para revelar el lanzador de agua y cargar los proyectiles de agua. Apunta a las llamas y aprieta la palanca para lanzar los proyectiles y derribar las llamas.
+- ¡Acude al rescate con Rojo camión de bomberos y Guido de la serie Rescate a toda máquina en Radiador Springs de Disney Pixar Cars!
+- ¡Este camión de bomberos de juguete de gran tamaño refleja el espíritu y la personalidad de Rojo e incluye una figura no extraíble de Guido para que le ayude durante el rescate!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLDQMWP7{{</world>}}

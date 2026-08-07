@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tres están inspirados en los de Dobble, y otros dos están específicamente diseñados para esta versión infantil.
 - Como su hermano mayor, Dobble Kids contiene 5 mini juegos que utilizan ese principio.
-- Con el fin de simplificar el juego y su duración hay menos símbolos en cada carta que en el Dobble original... ¡Ideal para partidas entre edades muy diferentes!
 - Dobble Kids contiene 30 cartas, 30 animales y un animal idéntico entre cada dos carta del juego.
+- Con el fin de simplificar el juego y su duración hay menos símbolos en cada carta que en el Dobble original... ¡Ideal para partidas entre edades muy diferentes!
+- Tres están inspirados en los de Dobble, y otros dos están específicamente diseñados para esta versión infantil.
 - Para ganar, encuéntralo antes que tus amigos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

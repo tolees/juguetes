@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Producto de calidad
 - Número jugadores: 2
-- Número de cartas: 180
 - Edad mínima recomendada: 10+
+- Número de cartas: 180
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GK1N2P3{{</world>}}

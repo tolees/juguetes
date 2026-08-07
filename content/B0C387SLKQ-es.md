@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego de cartas de civilizaciones, asimétrico, con mucha profundidad
 - Imperium Classics e Imperium Legends incluyen 8 facciones diferentes en cada caja completamente jugables entre sí
+- Juego de cartas de civilizaciones, asimétrico, con mucha profundidad
 - Con elevada interacción en multijugador y un celebrado modo solitario, siendo considerado uno de los mejores juegos de cartas para un solo jugador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

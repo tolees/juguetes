@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para decorar la sala
 - Fácil de construir
+- Adecuado para decorar la sala
 - Material resistente y duradero
 - Producto apto tanto para jóvenes como adultos
 

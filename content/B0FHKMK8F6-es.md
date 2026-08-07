@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Rugidos y diversión! El dinosaurio Rex tiene un diseño fiel a la película y ocho articulaciones móviles, ¡listo para recrear escenas de la película o imaginar otras nuevas!
 - ¡El T. rex más amigable! Recrea la magia de las películas de Toy Story de Disney Pixar con esta figura de acción de Rex, el adorable dinosaurio verde.
-- ¡Listas para posar! Con ocho puntos de articulación, Rex está listo para adoptar feroces poses de T. Rex, aunque es más amistoso que feroz.
 - ¡A partir de 3 años! Esta figura de Rex el dinosaurio es apta para fans de Toy Story a partir de 3 años.
+- ¡Rugidos y diversión! El dinosaurio Rex tiene un diseño fiel a la película y ocho articulaciones móviles, ¡listo para recrear escenas de la película o imaginar otras nuevas!
 - ¡Un tamaño ideal! Rex mide 18,4 cm de alto y 27,9 cm de largo, y está diseñado a escala de 18 cm, un tamaño ideal para jugar con él. A escala significa que su tamaño es fiel al que tienen el resto de figuras en la gran pantalla, lo que permite jugar con ellas o exponerlas de forma realista.
+- ¡Listas para posar! Con ocho puntos de articulación, Rex está listo para adoptar feroces poses de T. Rex, aunque es más amistoso que feroz.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHKMK8F6{{</world>}}

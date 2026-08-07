@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juguete creativo para jóvenes exploradores: El set Aventura en el Barco de Viaje para niñas, niños y jóvenes grumetes a partir de 8 años viene con 4 mini muñecos, 2 delfines y accesorios para fomentar el juego imaginativo
 - Más diversión en Internet: Inventa nuevas aventuras con otros sets de LEGO Friends (se venden por separado) y descubre la serie LEGO Friends: Siguiente capítulo (disponible en Internet), donde tu peque conocerá a los personajes de Heartlake City
 - Accesorios para aventuras acuáticas: Este juego LEGO de viajes cuenta con accesorios para interpretar historias, como 2 motos de agua, una tabla de surf, aletas, chalecos salvavidas, comida y bebida, un flotador y más
+- 4 mini muñecos y 2 figuras de animales de juguete: El set incluye mini muñecos de Paisley, Zac, Celine y Sky, además de figuras de un delfín hembra y un delfín bebé
+- Un juguete creativo para jóvenes exploradores: El set Aventura en el Barco de Viaje para niñas, niños y jóvenes grumetes a partir de 8 años viene con 4 mini muñecos, 2 delfines y accesorios para fomentar el juego imaginativo
 - Una ayuda práctica: Descubre las intuitivas instrucciones disponibles en la app LEGO Builder, donde los constructores podrán acercar y girar sus modelos en 3D, controlar su progreso y guardar sets a medida que adquieran nuevas habilidades
 - Barco de juguete con muchos detalles: La embarcación cuenta con características realistas, como una vela móvil, cocina, comedor, área de relajación y dormitorios, para divertirse creando historias a bordo y avistando delfines
 - Un regalo para fans de los juegos basados en los viajes: Este barco de juguete es una divertida idea de regalo para niñas y niños de 8 años o más a los que les encanta jugar a recrear situaciones cotidianas e inventar historias de amistad
-- 4 mini muñecos y 2 figuras de animales de juguete: El set incluye mini muñecos de Paisley, Zac, Celine y Sky, además de figuras de un delfín hembra y un delfín bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDQWL46{{</world>}}

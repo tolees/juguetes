@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye guia para poder realizar todas las creaciones
 - No incluye alimentos
 - Incluye moldes y accesorios para convertirte en un auténtico chef
 - Haz divertidos huevos, flores, trenzas,piruletas de chocolate
 - Crea tu propia casita de chocolate
+- Incluye guia para poder realizar todas las creaciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FSP0VDM{{</world>}}

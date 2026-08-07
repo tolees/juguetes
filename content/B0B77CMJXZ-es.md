@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ☀️ ¡PARA TODA LA FAMILIA! De 4 a 8 jugadores, +10 años, partidas de 30 min. Perfecto para jugar en playa, piscina y terraza.
-- 🤫 ¡SUSPENSE Y RISAS! Cada jugador dice una palabra... pero cuidado con los impostores. Misterio, intriga y faroles garantizados.
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
-- 🏆 ¡PREMIO DEL JUEGO 2022! Ganador en la categoría “Juego de faroles”. Un regalo original y divertido para hombres y mujeres.
 - 🕵️‍♂️ ¡DESCUBRE AL IMPOSTOR! Juego de mesa de deducción, palabras secretas y engaños. Usa tu intuición para desenmascarar al infiltrado.
+- 🤫 ¡SUSPENSE Y RISAS! Cada jugador dice una palabra... pero cuidado con los impostores. Misterio, intriga y faroles garantizados.
+- ☀️ ¡PARA TODA LA FAMILIA! De 4 a 8 jugadores, +10 años, partidas de 30 min. Perfecto para jugar en playa, piscina y terraza.
+- 🏆 ¡PREMIO DEL JUEGO 2022! Ganador en la categoría “Juego de faroles”. Un regalo original y divertido para hombres y mujeres.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B77CMJXZ{{</world>}}

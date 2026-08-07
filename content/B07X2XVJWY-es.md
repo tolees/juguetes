@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 40mm speakers for powerful bass and a clear sound
 - Cable length: ca. 220cm
-- Adjustable microphone
 - Inline remote control with access to Mic Mute and Volume level
 - Ear cups with comfortable cushions
+- Adjustable microphone
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07X2XVJWY{{</world>}}

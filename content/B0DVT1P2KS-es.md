@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967 Educa es sinónimo de calidad y experiencia. Puzzles infantiles recomendados a partir de 4 años.
-- Compuestos por grandes piezas perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
 - 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
+- Compuestos por grandes piezas perfectamente acabadas para que sea sencilla y segura su manipulación por los niños.
 - 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar motricidad fina memoria visual y psicomotricidad además de Estimular curiosidad y imaginación de niños y adultos.
 - Incluye 2 puzzles de cartón reciclado con 20 piezas🧩 cada uno. ¡Diversión por partida doble!. medidas aproximadas una vez montado: 28 x 20 cm.
 

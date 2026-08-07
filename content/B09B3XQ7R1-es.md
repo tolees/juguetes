@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De 2 a 4 Jugadores
-- Los dioses caminan entre las tribus buscando la devoción que les da forma
-- Serán muchas, pero cuál de ellas perdurará era tras era y sobrevivirá a las demás
 - Corren tiempos de sangre, de rituales y de guerra
 - A partir de 14 años de edad
+- Los dioses caminan entre las tribus buscando la devoción que les da forma
+- De 2 a 4 Jugadores
+- Serán muchas, pero cuál de ellas perdurará era tras era y sobrevivirá a las demás
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09B3XQ7R1{{</world>}}

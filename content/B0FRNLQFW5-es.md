@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1. JUEGA Avanza hacia la portería o bloquea a tus oponentes con jugadas estratégicas
-- 1. ROBA Toma una carta del mazo y prepárate para la acción
 - Vive la emoción del fútbol con el primer juego de mesa inspirado en la estrella mundial Kylian Mbappé, ¡una experiencia única para disfrutar en familia o con amigos!
 - 1. ¡MARCA! Cuando estés frente a la portería, ¡haz el tiro perfecto y deja tu huella en el marcador!
+- 1. ROBA Toma una carta del mazo y prepárate para la acción
 - Avanza por el campo, detén a tus rivales, marca goles y siente cómo se dispara la adrenalina... ¡como en un auténtico partido!
+- 1. JUEGA Avanza hacia la portería o bloquea a tus oponentes con jugadas estratégicas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FRNLQFW5{{</world>}}

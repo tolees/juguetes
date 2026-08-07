@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuarta estatua de la colección oficial de Silent Hill, ideal para coleccionistas y fans
-- Mide 23,5 cm y está fabricada con materiales de alta calidad para una exposición duradera
-- Réplica detallada y pintada a mano con James portando su arma de madera del juego
 - Base oxidada inspirada en los escenarios oscuros de Silent Hill
 - Estatua oficial de James Sunderland de Silent Hill 2, diseñada en colaboración con Konami y fabricada por Numskull Designs
+- Réplica detallada y pintada a mano con James portando su arma de madera del juego
+- Mide 23,5 cm y está fabricada con materiales de alta calidad para una exposición duradera
+- Cuarta estatua de la colección oficial de Silent Hill, ideal para coleccionistas y fans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGQ2P93L{{</world>}}

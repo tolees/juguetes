@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DESARROLLO DE HABILIDADES: Los peques trabajan sus habilidades sociales y su empatía ayudando a Nova y Leo a cuidar de las 4 figuras de animales (2 perros, un gato y una cobaya de juguete) y a jugar con ellas
-- REGALO INFANTIL: Este kit de construcción es un óptimo regalo para niñas y niños a partir de 6 años a los que les encanten los animales de juguete y el juego imaginativo
 - UNA AYUDA PRÁCTICA: Sigue las instrucciones digitales que encontrarás en LEGO Builder, una app que permite a constructores y constructoras acercar y girar sus modelos, consultar su progreso y guardar sets a medida que adquieren nuevas habilidades
 - JUEGO DE ROL CON ANIMALES: Los amigos y sus animales inspirarán imaginativas historias llenas de diversión mientras se deslizan por el tobogán a la piscina y chapotean en la fuente giratoria
 - ACCESORIOS: Los elementos incluidos fomentan el juego de rol, incuyen comida para mascotas, helado, protector solar, un teléfono, una pelota, un sombrero impermeable, gafas de sol y más
+- REGALO INFANTIL: Este kit de construcción es un óptimo regalo para niñas y niños a partir de 6 años a los que les encanten los animales de juguete y el juego imaginativo
 - PARQUE ACUÁTICO PARA MASCOTAS: Date un chapuzón de creatividad con el kit de construcción LEGO Friends Día Divertido en el Parque Acuático para niñas y niños amantes de los animales a partir de 6 años
+- DESARROLLO DE HABILIDADES: Los peques trabajan sus habilidades sociales y su empatía ayudando a Nova y Leo a cuidar de las 4 figuras de animales (2 perros, un gato y una cobaya de juguete) y a jugar con ellas
 - HAZ MÁS AMIGOS: Descubre más ideas creativas de juego con otros sets (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo, disponible en Internet, donde tu peque podrá conocer mejor a los personajes de Heartlake City
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 20 cm de alto
-- Peluche Super Mario
-- Adecuado desde los primeros meses de edad
 - Fabricado en felpa muy suave
+- Adecuado desde los primeros meses de edad
+- Peluche Super Mario
 - Licencia oficial
+- 20 cm de alto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099ZKTNTV{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estimula el razonamiento lógico y ayuda las habilidades motoras en un escenario reconocible
-- Grúa móvil y giratoria en 360 grados
-- Siéntate en esta grúa y controla todas las operaciones de elevación y carga
 - Gancho magnético y cabrestante manual
 - Maniobra los contenedores de madera con precisión
+- Siéntate en esta grúa y controla todas las operaciones de elevación y carga
+- Grúa móvil y giratoria en 360 grados
+- Estimula el razonamiento lógico y ayuda las habilidades motoras en un escenario reconocible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DGMX59W{{</world>}}

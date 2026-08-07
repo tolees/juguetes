@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte de producto limitado de 5 años para Lexar NQ790
 - La NAND 3D de alta calidad ofrece confiabilidad y resistencia
-- Mejor rendimiento para una mejor experiencia de usuario gracias a la interfaz PCIe 4.0, el protocolo NVMe y las tecnologías de caché HMB y SLC
 - Con una buena administración de energía, puede controlar de manera inteligente el consumo de energía según la carga
 - Compatible con PlayStation 5
+- Mejor rendimiento para una mejor experiencia de usuario gracias a la interfaz PCIe 4.0, el protocolo NVMe y las tecnologías de caché HMB y SLC
+- Soporte de producto limitado de 5 años para Lexar NQ790
 - Alto rendimiento: con velocidades de lectura/escritura secuenciales de hasta 7000/6000 MB/s
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

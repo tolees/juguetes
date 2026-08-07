@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más detalles: sistema de ajuste Zoom Spin regulable en altura para un ajuste preciso del casco y con un recorte para las coletas; cierre magnético de la barbilla; almohadillas lavables; visera disponible por separado
-- Mando a distancia inalámbrico: activa la luz indicadora con el mando a distancia para el manillar; una señal acústica y un LED te avisan cuando parpadea
 - Visibilidad de 360 grados: las luces delanteras, traseras e intermitentes te hacen visible incluso con mal tiempo y en la oscuridad; las luces delanteras y traseras tienen 5 modos de luz (Continua, Encendido, Flujo, Pulsación e Intermitente)
-- También apto para S-pedelecs: con su profunda protección de sienes y nuca, el casco cumple la norma NTA 8776 con estrictos criterios de prueba específicos para la conducción en motos con motor eléctrico y velocidades superiores
+- Mando a distancia inalámbrico: activa la luz indicadora con el mando a distancia para el manillar; una señal acústica y un LED te avisan cuando parpadea
 - El objetivo: el HYP-E se inspira en el compromiso de las personas que recorren sus rutas en bicicleta los 365 días del año; en invierno puedes cerrar las grandes aberturas de ventilación que te mantienen fresco en verano con el VentCover
+- También apto para S-pedelecs: con su profunda protección de sienes y nuca, el casco cumple la norma NTA 8776 con estrictos criterios de prueba específicos para la conducción en motos con motor eléctrico y velocidades superiores
+- Más detalles: sistema de ajuste Zoom Spin regulable en altura para un ajuste preciso del casco y con un recorte para las coletas; cierre magnético de la barbilla; almohadillas lavables; visera disponible por separado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBW49SRK{{</world>}}

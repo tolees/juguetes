@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con accesorios y complementos
-- Colecciona todas las figuras McFarlane Toys DC Multiverse
 - Diseñado con articulación con hasta 22 partes móviles para una gama completa de poses y juegos
+- Colecciona todas las figuras McFarlane Toys DC Multiverse
 - Incluye tarjeta de arte coleccionable con obras de arte en la parte delantera y biografía de personajes en la parte posterior
+- Con accesorios y complementos
 - DC figura de acción retro Batman 66 Robin de 15 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

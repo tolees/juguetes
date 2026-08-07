@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
+- CARACTERÍSTICAS: Número de jugadores 2-6, edad recomendada 4+, edición en idioma castellano
 - MEMORY CLÁSICO: Desde hace más de 50 años el memory de Ravensburger es el juego de memoria original ideal para toda la familia; ayuda a desarrollar las habilidades de observación y concentración y permite a los más pequeños jugar y desafiar a los adultos
 - FÁCIL Y DIVERTIDO: Un juego de mesa con reglas simples y divertidas, adecuado para los niños más pequeños; excelente para regalar, especialmente para los aficionados al mundo Disney.
 - JUEGO DE MESA: Disfruta de horas de diversión en familia con este emocionante juego de mesa de cartas diseñado para niños de 4 años en adelante y adultos
-- CARACTERÍSTICAS: Número de jugadores 2-6, edad recomendada 4+, edición en idioma castellano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP5CY458{{</world>}}

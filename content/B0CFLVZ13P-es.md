@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Combate junto Aragorn, Gandalf y otros héroes las huestes de las sombras
-- Es un juego accesible de la temática tolkieniana
 - Juego de iniciación de cartas, basado en El Señor de los Anillos
+- Es un juego accesible de la temática tolkieniana
+- Combate junto Aragorn, Gandalf y otros héroes las huestes de las sombras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFLVZ13P{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Obtén cartas y forma parejas.
-- Dos cartas forman una pareja si podemos nombrar cada una con una palabra que empiece por la misma letra.
 - Juego a partir de 8 años
 - De 2 a 6 jugadores.
 - Partidas de 15 minutos
+- Obtén cartas y forma parejas.
+- Dos cartas forman una pareja si podemos nombrar cada una con una palabra que empiece por la misma letra.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBBYVBTD{{</world>}}

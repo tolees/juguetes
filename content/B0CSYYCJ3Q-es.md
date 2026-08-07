@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los tres niveles de aprendizaje Smart Stages enseñan los colores, las formas, los números, los antónimos y a contar. Utiliza el botón del globo para seleccionar un idioma: castellano, inglés, italiano o portugués
-- Las actividades que mantendrán a los más pequeños entretenidos incluyen un cuaderno ilustrado, un mando de la televisión de mentira que se ilumina y un asiento que se puede subir para revelar grandes sorpresas
-- Cuando los más pequeños se sientan en el asiento interactivo o se levantan de él, suenan música y frases
 - Ayuda a fortalecer la motricidad fina y la gruesa, y les enseña la relación causa y efecto a los bebés y niños y niñas a partir de 1 año (peso máximo: 25 kg)
+- Cuando los más pequeños se sientan en el asiento interactivo o se levantan de él, suenan música y frases
+- Las actividades que mantendrán a los más pequeños entretenidos incluyen un cuaderno ilustrado, un mando de la televisión de mentira que se ilumina y un asiento que se puede subir para revelar grandes sorpresas
 - Silla electrónica de juguete de aprendizaje para niños y niñas con luces divertidas, actividades manuales y más de 120 canciones, sonidos y frases
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De 1 a 4 jugadores a partir de 6 años
 - Los gatos quieren encontrar un sitio calentito y agradable para descansar y poder dejar las calles.
-- Desenreda este laberinto urbano colocando o girando canalones para formar un recorrido libre de obstáculos
 - así los gatos podrán encontrar un techo acogedor.
+- De 1 a 4 jugadores a partir de 6 años
+- Desenreda este laberinto urbano colocando o girando canalones para formar un recorrido libre de obstáculos
 - Pero es difícil encontrar el camino a través de los interminables canalones, tan parecidos entre sí.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

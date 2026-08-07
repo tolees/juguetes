@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fomenta creatividad e imaginación
 - Con figuras y accesorios
+- Fomenta creatividad e imaginación
 - Juguete educativo que fomenta el juego simbólico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La caja tiene las dimensiones: 9.5 x 12.2 x 2.5 cm
+- Número de jugadores: 3 - 10
 - Edad recomendada: a partir de 8 años
 - Duración aproximada del juego: 15 minutos
-- Número de jugadores: 3 - 10
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01HRY982C{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construye camas coloridas y cultiva verduras crujientes. Ya sea tomate, pimiento o lechuga – asegúrese de una cosecha productiva y cumpla lo más posible las exigencias de la clientela animal
 - Aquellos que quieran cosechar la mayoría de los puntos deben tener a la vista las camas del oponente. Elige tus cartas sabiamente. Quien deja a su oponente lo más inapropiada posible cartas puede frustrar sus planes adecuadamente!
 - De la casa GAME FACTORY – Juegos para familia y amigos.
-- AB INS BEET es un juego táctico de coleccionar y poner en la minilata con decisiones complicadas y rompecabezas inteligentes
+- Construye camas coloridas y cultiva verduras crujientes. Ya sea tomate, pimiento o lechuga – asegúrese de una cosecha productiva y cumpla lo más posible las exigencias de la clientela animal
 - Número de jugadores: 2-5. Duración del juego: aprox. 15 minutos. Edad recomendada: a partir de 8 años.
+- AB INS BEET es un juego táctico de coleccionar y poner en la minilata con decisiones complicadas y rompecabezas inteligentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZ6S7Y61{{</world>}}

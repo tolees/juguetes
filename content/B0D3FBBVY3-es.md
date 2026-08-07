@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - REGALO ORIGINAL PARA FANS DE DISNEY: Disney Villainous Sugar & Spite es un regalo niños 10 años perfecto y también un regalo original para adultos. Un imprescindible para quienes ya disfrutan de la saga Disney Villainous y quieren ampliar su colección.
-- ENFRENTAMIENTO ÉPICO ENTRE VILLANOS: Elige a uno de los icónicos Villanos Disney y pon en marcha su plan malvado. Cada personaje tiene habilidades únicas y estrategias diferentes para cambiar el destino de su historia.
-- DISNEY VILLAINOUS: SUGAR & SPITE – EXPANSIÓN: Descubre una nueva dimensión del mal con esta expansión diseñada especialmente para enfrentamientos de 2 jugadores. Perfecta para quienes buscan un juego de mesa adulto con la magia de Disney.
 - CONVIÉRTETE EN EL VILLANO MÁS TEMIBLE: Explora las características exclusivas de tu personaje y encuentra la mejor manera de cumplir tu objetivo personal. Solo el jugador más astuto logrará imponerse en este juego cartas de Disney.
+- DISNEY VILLAINOUS: SUGAR & SPITE – EXPANSIÓN: Descubre una nueva dimensión del mal con esta expansión diseñada especialmente para enfrentamientos de 2 jugadores. Perfecta para quienes buscan un juego de mesa adulto con la magia de Disney.
 - CARACTERÍSTICAS DEL JUEGO: Diseñado para 2 jugadores, recomendado a partir de 10 años y en edición castellano. Una expansión que combina sencillez y estrategia, ideal para fans de los juegos de mesa adultos y juveniles.
+- ENFRENTAMIENTO ÉPICO ENTRE VILLANOS: Elige a uno de los icónicos Villanos Disney y pon en marcha su plan malvado. Cada personaje tiene habilidades únicas y estrategias diferentes para cambiar el destino de su historia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3FBBVY3{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Edad recomendada: +3 años.
 - La Familia Nutria Marina se completa con el set Familia Nutria Marina (05803). Figuras y mobiliario se venden por separado.
-- ¡Al agua patos! Así pasan el día Marina y Manon, las hermanas de la Familia Nutria. Raro es verlas fuera del agua. Con su flotador con forma de barco, gafas de buceo y red para rescatar todos los tesoros que encuentran en su camino.
 - Marina siempre lleva el bañador bajo su falda, para poder lanzarse al agua en cualquier momento. Tiene una colección de objetos que encuentra en sus inmersiones. Manon, la bebé, simplemente ama nadar en el mar con su hermana Marina. Le encantaría nada tan lejos como lo hace ella, por eso practica mucho.
+- ¡Al agua patos! Así pasan el día Marina y Manon, las hermanas de la Familia Nutria. Raro es verlas fuera del agua. Con su flotador con forma de barco, gafas de buceo y red para rescatar todos los tesoros que encuentran en su camino.
 - El set incluye dos (2) figuras: una (1) niña y un (1) bebé. Accesorios de baño: gafas de buceo; gafas de buceo con tubo; cubo de playa; red de playa; concha; cangrejo; caracola; pez; flotador con forma de barco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

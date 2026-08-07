@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego creativo inspirado en Montessori para niños y niñas de preescolar a partir de 3 años
-- Todas las piezas están hechas con madera de bosques sostenibles con certificación del Forest Stewardship Council y viene en un embalaje sin plástico
 - Fomenta el juego imaginativo y la narración de historias
 - Incluye una bandeja para servir, una tetera con tapa, 2 tazas de té, 2 platillos, 2 cucharas, 2 magdalenas y 1 plato
 - Conjunto de juego de té formado por 12 piezas de madera para disfrutar del juego de imitación una y otra vez
+- Juego creativo inspirado en Montessori para niños y niñas de preescolar a partir de 3 años
+- Todas las piezas están hechas con madera de bosques sostenibles con certificación del Forest Stewardship Council y viene en un embalaje sin plástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMFRHZDQ{{</world>}}

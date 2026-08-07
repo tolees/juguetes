@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El máximo riesgo y emoción en tu circuito Scalextric Compacto con la ampliación Curva Peraltada. Contiene 16 piezas para montar tu nueva curva de infarto. Fácil montaje para crear un nuevo trazado. Diseño para embellecer la jugabilidad y estética del la pista de carreras.
 - Es el juguete ideal para fomentar la interactividad entre padres e hijos, a la vez que estos últimos aprenden jugandoAdquiere todos los accesorios que necesites para realizar un perfecto mantenimiento.
-- Ayuda a desarrollar las habilidades psico-motrices, reflejos y capacidad de concentración de los niños
 - Set de Ampliación para los circuitos SCALEXTRIC COMPACT 1/43 para tener un mayor recorrido y disfrutar de tus carreras
+- El máximo riesgo y emoción en tu circuito Scalextric Compacto con la ampliación Curva Peraltada. Contiene 16 piezas para montar tu nueva curva de infarto. Fácil montaje para crear un nuevo trazado. Diseño para embellecer la jugabilidad y estética del la pista de carreras.
+- Ayuda a desarrollar las habilidades psico-motrices, reflejos y capacidad de concentración de los niños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNH7HHQ6{{</world>}}

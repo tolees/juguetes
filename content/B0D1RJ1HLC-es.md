@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ANTIGRIPE: La grasa de carbono evita la soldadura en frío del carbono con otros materiales.
-- FABRICADO EN FRANCIA: este producto está fabricado en Francia, en nuestra fábrica de la región de Loiret. ZEFAL es una marca con reputación internacional por la calidad de sus productos basada en su larga experiencia (desde 1880).
 - PRESERVACIÓN DE SUS COMPONENTES: La presencia de microesferas garantiza una sujeción equivalente con menos esfuerzo de torsión, lo que ayuda a preservar sus componentes. La pasta evita el agrietamiento y, por tanto, reduce el ruido. También es muy resistente al agua, al barro, al lavado, etc.
-- A BASE DE PLANTAS: esta grasa de montaje está formulada con grasas vegetales y sin microesferas. Una buena opción para tu bicicleta de carbono, y para el medio ambiente.
+- FABRICADO EN FRANCIA: este producto está fabricado en Francia, en nuestra fábrica de la región de Loiret. ZEFAL es una marca con reputación internacional por la calidad de sus productos basada en su larga experiencia (desde 1880).
 - GRASA PARA MONTAJE BICICLETAS DE CARBONO: Carbon Paste es una grasa de montaje dedicada a los componentes de carbono. Esta pasta permite montar componentes de carbono (tija, manillar, potencia, etc.) con total tranquilidad.
+- A BASE DE PLANTAS: esta grasa de montaje está formulada con grasas vegetales y sin microesferas. Una buena opción para tu bicicleta de carbono, y para el medio ambiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1RJ1HLC{{</world>}}

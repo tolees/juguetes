@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El manual y la aplicación gratuita con instrucciones (también en 3D) guiarán a los niños paso a paso por las distintas etapas de montaje.
 - Un kit con más de 200 componentes para construir el nuevo todoterreno eléctrico Jeep Recon.
 - Edad recomendada: a partir de 8 años.
-- El manual y la aplicación gratuita con instrucciones (también en 3D) guiarán a los niños paso a paso por las distintas etapas de montaje.
 - Fiel al diseño original, con 5 puertas y sistema de dirección de cremallera.
 - Diseñado y fabricado en Italia.
 

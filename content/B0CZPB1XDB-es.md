@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Reclutarán miembros, reclamarán territorio, lucharán entre sí e intentarán enfrentarse a las corporaciones en varios escenarios narrativos controlados por cartas.
 - Al final de la partida, el jugador con más reputación ganará la partida.
 - En Cyberpunk 2077: Gangs of Night City - The Board Game, los jugadores asumen el papel de líderes de una de las numerosas bandas de la ciudad.
-- Tecnología por todas partes. Hackers. Este es el mundo de Night City, donde hay una lucha constante entre las bandas y las corporaciones por el control.
-- Reclutarán miembros, reclamarán territorio, lucharán entre sí e intentarán enfrentarse a las corporaciones en varios escenarios narrativos controlados por cartas.
 - Una ciudad que se extiende hasta el infinito. Edificios que llegan hasta el cielo. Una niebla opresiva que lo cubre todo. Megacorporaciones. Pandilleros.
+- Tecnología por todas partes. Hackers. Este es el mundo de Night City, donde hay una lucha constante entre las bandas y las corporaciones por el control.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZPB1XDB{{</world>}}

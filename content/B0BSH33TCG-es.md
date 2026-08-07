@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene un accesorio de microfigura de TIE Pilot articulado de 1 pulgada
-- Defiende la Estrella de la Muerte con un TIE Fighter. Producto de Star Wars con licencia oficial de Jazwares
 - Incluye cabina abatible y escotilla trasera, alas removibles y más
+- Defiende la Estrella de la Muerte con un TIE Fighter. Producto de Star Wars con licencia oficial de Jazwares
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
 - El vehículo de 8 centimetros presenta detalles increíbles y proporciones a escala autentica con el resto de naves de la colección
+- Contiene un accesorio de microfigura de TIE Pilot articulado de 1 pulgada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSH33TCG{{</world>}}

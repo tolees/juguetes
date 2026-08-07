@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De 2 a 7 jugadores, a partir de 8 años de edad y partidas rápidas de 20 minutos.
+- Contiene: 26 cartas de Robo, 84 cartas de Pato, 1 bloc de hojas de puntuación y reglas de juego.
 - Roba, mueve, puntúa y ¡Prepárate para graznar!
 - En Duck & Cover, ¡tu objetivo es tener la puntuación total más baja al final de las 3 rondas! (Los puntos se representan por el número de salpicaduras).
-- De 2 a 7 jugadores, a partir de 8 años de edad y partidas rápidas de 20 minutos.
 - ¡No! ¡Tus patitos de goma están salpicando agua por toda la bañera! ¡Encuentra la forma de evitar que terminen empapados!
-- Contiene: 26 cartas de Robo, 84 cartas de Pato, 1 bloc de hojas de puntuación y reglas de juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F29XMC25{{</world>}}

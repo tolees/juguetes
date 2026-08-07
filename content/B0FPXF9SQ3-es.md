@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Vini Jr.: Fenómenos del Fútbol - Juguete de Construcción con Minifigura de Futbolista - Decoración de la Habitación - Regalo de Fútbol para Niños y Niñas de 10+ Años - 43027'
-date: 2026-08-05 16:57:07
+date: 2026-08-06 20:50:54
 image: 'https://m.media-amazon.com/images/I/51Rs0-ifQGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXF9SQ3-es LEGO Editions Vini Jr.: Fenómenos del Fútbol - Juguete de...'
 sku: 'B0FPXF9SQ3-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 18.99 EUR
+actualPrice: 19.99 EUR
 currency: EUR
-price: 18.99
+price: 19.99
 comparePrice: 29.99 EUR
 prodname: 'LEGO Editions Vini Jr.: Fenómenos del Fútbol - Juguete de Construcción con Minifigura de Futbolista - Decoración de la Habitación - Regalo de Fútbol para Niños y Niñas de 10+ Años - 43027'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXF9SQ3/?tag=tolees-21'
-descuento: '36.68'
-average: '24.1916666666667'
+descuento: '33.34'
+average: '23.5914285714286'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DECORACIÓN PARA LA HABITACIÓN DE LOS NIÑOS: Este kit de maquetas coleccionable es un accesorio idóneo para la estantería del dormitorio de los peques, que le dará un toque deportivo
 - REGALO DE FÚTBOL PARA NIÑOS: Este kit de construcción es un gran regalo de cumpleaños para niños, niñas y fans de Vinicius Jr. a partir de 10 años y adultos entusiastas del deporte
-- JUGUETES DE FÚTBOL: Rinde homenaje a toda una estrella del fútbol brasileño con el set LEGO Editions Vini Jr.: Fenómenos del Fútbol, una maqueta 3D para niños, niñas y amantes del deporte a partir de 10 años
 - COLECCIÓN LEGO EDITIONS: Sigue expresando tu admiración por más astros del fútbol legendarios con otros sets (a la venta por separado)
+- JUGUETES DE FÚTBOL: Rinde homenaje a toda una estrella del fútbol brasileño con el set LEGO Editions Vini Jr.: Fenómenos del Fútbol, una maqueta 3D para niños, niñas y amantes del deporte a partir de 10 años
+- DECORACIÓN PARA LA HABITACIÓN DE LOS NIÑOS: Este kit de maquetas coleccionable es un accesorio idóneo para la estantería del dormitorio de los peques, que le dará un toque deportivo
 - MERCHANDISING DEPORTIVO: La base tiene la forma de la inicial de Vini, lleva los colores de la selección brasileña, su número de camiseta, una placa coleccionable con su autógrafo y estadísticas como jugador
 - MINIFIGURA LEGO DEL JUGADOR DE FÚTBOL: Una minifigura de Vinicius da vida al set dedicado al futbolista, que aparece representado en su característica pose de remate a gol
 - UNA AYUDA PRÁCTICA: Los pequeños ídolos del fútbol pueden acceder a instrucciones digitales en la app LEGO Builder, que les permite girar una versión 3D de su modelo y consultar su progreso

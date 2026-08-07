@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección apilable
-- Colección apilable
 - Divertido y moderno brick
+- Colección multicolor
+- Divertido y moderno brick
+- Colección apilable
 - Fácil de limpiar
 - Colección multicolor
 - Diseño divertido y moderno
-- Colección multicolor
-- Divertido y moderno brick
+- Colección apilable
 - Material resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

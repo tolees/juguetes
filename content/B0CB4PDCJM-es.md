@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Chocolate con leche Nestlé Extrafino con relleno cremoso y trocitos de galleta Dinosaurus
-- Nuestro chocolate de siempre y el único con un gran vaso de leche fresca recogida a diario en los valles de Cantabria
-- Peluche coleccionable de 15 cm entre un osito, un reno y un pingüino
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
+- Peluche coleccionable de 15 cm entre un osito, un reno y un pingüino
+- Nuestro chocolate de siempre y el único con un gran vaso de leche fresca recogida a diario en los valles de Cantabria
 - Barritas de galleta y chocolate con leche
 
 [🛒 Comprar!!!]({{< param buyurl >}})

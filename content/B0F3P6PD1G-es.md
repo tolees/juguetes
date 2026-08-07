@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APRENDER ES NUESTRO JUEGO: Learning Resources crea desde hace 40 años juguetes educativos de calidad que hacen que aprender sea divertido y accesible.
+- PERSONAJES OFICIALES DE LA SERIE TV: Numberblocks Tres y Cuatro cobran vida para fomentar el juego simbólico y la imaginación.
 - FOMENTA EL JUEGO CREATIVO EN NIÑOS PEQUEÑOS: Ideal para contar historias, abrazar y acompañar durante la siesta.
 - REGALO EDUCATIVO: Incluye 2 muñecos oficiales. Recomendado para niños de 1 a 3 años en casa o en el aula.
-- PERSONAJES OFICIALES DE LA SERIE TV: Numberblocks Tres y Cuatro cobran vida para fomentar el juego simbólico y la imaginación.
+- APRENDER ES NUESTRO JUEGO: Learning Resources crea desde hace 40 años juguetes educativos de calidad que hacen que aprender sea divertido y accesible.
 - TAMAÑO PERFECTO PARA MANOS PEQUEÑAS: Numberblocks Tres mide 30 cm y Cuatro 20 cm, fáciles de sujetar y transportar.
 - PELUCHE SUAVE Y SEGURO PARA BEBÉS: Fabricados con materiales táctiles y bordados, sin piezas pequeñas ni partes sueltas.
 

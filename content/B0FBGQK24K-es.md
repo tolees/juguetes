@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🚁 BUSCA PISTAS Y SIGUE EL RASTRO. La policía deberá mover sus helicópteros, inspeccionar edificios y reconstruir el recorrido del fugitivo a partir de las pistas que vaya encontrando
-- 🕵️ UN JUEGO DE DEDUCCIÓN Y PERSECUCIÓN. De 2 a 4 jugadores, uno asumirá el papel del ladrón y el resto formarán el equipo policial. Una partida asimétrica llena de tensión, estrategia y decisiones constantes
-- 🚔 ¡UN ATRACO ESTÁ EN MARCHA! Un ladrón intenta escapar ocultándose entre los edificios de la ciudad mientras la policía coordina una intensa persecución aérea para detenerlo antes de que sea demasiado tarde
 - ⏱️ PARTIDAS RÁPIDAS Y LLENAS DE TENSIÓN. Con reglas sencillas, partidas de aproximadamente 20 minutos y una duración máxima de 11 rondas, cada decisión puede marcar la diferencia entre la captura y la fuga
+- 🕵️ UN JUEGO DE DEDUCCIÓN Y PERSECUCIÓN. De 2 a 4 jugadores, uno asumirá el papel del ladrón y el resto formarán el equipo policial. Una partida asimétrica llena de tensión, estrategia y decisiones constantes
 - 🏆 UN ÉXITO INTERNACIONAL. City Chase ha conquistado a miles de jugadores y se ha convertido en uno de los juegos más vendidos en Japón gracias a su combinación de deducción, estrategia y emoción para toda la familia
+- 🚔 ¡UN ATRACO ESTÁ EN MARCHA! Un ladrón intenta escapar ocultándose entre los edificios de la ciudad mientras la policía coordina una intensa persecución aérea para detenerlo antes de que sea demasiado tarde
+- 🚁 BUSCA PISTAS Y SIGUE EL RASTRO. La policía deberá mover sus helicópteros, inspeccionar edificios y reconstruir el recorrido del fugitivo a partir de las pistas que vaya encontrando
 - 🏃 ESCÓNDETE Y CONSIGUE ESCAPAR. El ladrón se mueve en secreto entre los edificios, dejando rastros a su paso mientras intenta evitar ser descubierto hasta el final de la partida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

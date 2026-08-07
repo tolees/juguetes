@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DRAGÓN DE JUGUETE: Los fans adolescentes podrán construir y exponer una épica escena con el juguete LEGO NINJAGO Batalla del Ultradragón para chicos y chicas a partir de 12 años
-- EMBLEMÁTICOS PERSONAJES: Revive trepidantes escenas de la serie con 4 minifiguras LEGO NINJAGO de Jin, Mira, Nate y un general Oni para el juego de rol
-- IDEA DE REGALO PARA ADOLESCENTES: Impresiona a un fan de NINJAGO con este fascinante regalo de cumpleaños o por alguna ocasión especial para niños y niñas a partir de 12 años
-- UNA FORMA DIVERTIDA DE CONSTRUIR: La app LEGO Builder guiará a los adolescentes a través de una intuitiva aventura creativa que les permite acercar y girar sus modelos en 3D a medida que los construyen, consultar su progreso y guardar sets
-- FIGURAS ARTICULADAS: El dragón de juguete cuenta con cola, alas, cabeza, mandíbulas, patas delanteras y garras móviles, mientras que la serpiente tiene cuello y mandíbula articulados
-- ESCENIFICA INTENSOS COMBATES: Recrea la batalla final de la nueva línea argumental de NINJAGO Legends, Ocaso, entre la figura del dragón de 4 cabezas y la infame serpiente Gran Devorador según surge de la tierra
 - SETS LEGO NINJAGO: Esta amplia colección ofrece a los fans de los ninja la oportunidad de sumergirse en un envolvente mundo de juego imaginativo protagonizado por sus héroes
+- DRAGÓN DE JUGUETE: Los fans adolescentes podrán construir y exponer una épica escena con el juguete LEGO NINJAGO Batalla del Ultradragón para chicos y chicas a partir de 12 años
+- UNA FORMA DIVERTIDA DE CONSTRUIR: La app LEGO Builder guiará a los adolescentes a través de una intuitiva aventura creativa que les permite acercar y girar sus modelos en 3D a medida que los construyen, consultar su progreso y guardar sets
+- EMBLEMÁTICOS PERSONAJES: Revive trepidantes escenas de la serie con 4 minifiguras LEGO NINJAGO de Jin, Mira, Nate y un general Oni para el juego de rol
+- FIGURAS ARTICULADAS: El dragón de juguete cuenta con cola, alas, cabeza, mandíbulas, patas delanteras y garras móviles, mientras que la serpiente tiene cuello y mandíbula articulados
+- IDEA DE REGALO PARA ADOLESCENTES: Impresiona a un fan de NINJAGO con este fascinante regalo de cumpleaños o por alguna ocasión especial para niños y niñas a partir de 12 años
+- ESCENIFICA INTENSOS COMBATES: Recrea la batalla final de la nueva línea argumental de NINJAGO Legends, Ocaso, entre la figura del dragón de 4 cabezas y la infame serpiente Gran Devorador según surge de la tierra
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXDFRHC{{</world>}}

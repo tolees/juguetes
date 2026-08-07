@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Creado por el autor de Alhambra, Dirk Henn
-- Coloca las losetas sabiamente para hacer la mejor red de metro de París
 - Juego familiar clásico de partidas rápidas para hasta 6 jugadores
+- Coloca las losetas sabiamente para hacer la mejor red de metro de París
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLBQ8PPT{{</world>}}

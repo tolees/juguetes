@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con una gran variedad de looks, los niños y niñas pueden coleccionarlas todas para coreografiar a su manera el tiempo de juego
-- Cada muñeca de moda lleva un corpiño decorado con flores y un tutú transparente de quita y pon en un color a juego
-- Cumple tu sueño de ser el centro de atención con las muñecas Barbie Bailarina
-- Un moño clásico es el peinado optimo para ensayar o actuar
 - Los brazos en pose de ballet y las zapatillas con puntera añaden diversión a esta bonita bailarina
+- Cumple tu sueño de ser el centro de atención con las muñecas Barbie Bailarina
+- Cada muñeca de moda lleva un corpiño decorado con flores y un tutú transparente de quita y pon en un color a juego
+- Con una gran variedad de looks, los niños y niñas pueden coleccionarlas todas para coreografiar a su manera el tiempo de juego
+- Un moño clásico es el peinado optimo para ensayar o actuar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB6KL4LB{{</world>}}

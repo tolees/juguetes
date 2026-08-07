@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 3 Sé el primero en colocar todas tus fichas Chromino para ganar la partida.
 - ES UN DOMINÓ CON COLORES
-- ¡Chromino hace que jugar al dominó sea mucho más colorista! Un sencillo juego de estrategia y observación para toda la familia.
-- 1 Para empezar, coloca una ficha Chromino Camaléon.
 - 2 Las siguientes fichas Chromino que se coloquen tienen que estar en contacto con al menos 2 cuadrados del mismo color.
+- 1 Para empezar, coloca una ficha Chromino Camaléon.
+- ¡Chromino hace que jugar al dominó sea mucho más colorista! Un sencillo juego de estrategia y observación para toda la familia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5S6WVQB{{</world>}}

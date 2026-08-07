@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Al final del juego, ¡el jugador con más fichas de pollitos es el ganador!
 - Cómo ha caído la ficha que había dentro del huevo, con el lado del pollito hacia arriba o con el lado del huevo hacia arriba? Si cae con el lado del pollito hacia arriba, ¡consigues una ficha con un pollito!
+- Juego de granja, juego con gallina, juego de pollitos, huevos, gallina josefina, gallinero, casa de la gallina, juego ruidoso, juego divertido, juego cacareos, juego con cacareos, juego para niños, juego para niños pequeños, juego gracioso
+- 2015 NPD Partnership Limited trading as Ooba. Todos los derechos reservados. The SQUAWK name is a Trademark of NDP Partnership Ltd.
 - ¡A los niños les encantará este desenfadado juego protagonizado por una gallina chillona!
 - 2016 Mattel. Todos los derechos reservados.
-- 2015 NPD Partnership Limited trading as Ooba. Todos los derechos reservados. The SQUAWK name is a Trademark of NDP Partnership Ltd.
-- Juego de granja, juego con gallina, juego de pollitos, huevos, gallina josefina, gallinero, casa de la gallina, juego ruidoso, juego divertido, juego cacareos, juego con cacareos, juego para niños, juego para niños pequeños, juego gracioso
+- Al final del juego, ¡el jugador con más fichas de pollitos es el ganador!
 - ¡Aprieta la gallina para activar divertidos cacareos! Si el gallinero se abre, la gallina pondrá un huevo que tendrás que romper.
 - Un juego cargado de risas y cacareos para niños a partir de cuatro años.
 

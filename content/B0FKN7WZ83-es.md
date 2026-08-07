@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cableguys Fortnite Fishsticks Soporte Mando y Movil - Figuras Soporte para movil y Mando Compatible con Xbox PlayStation y la mayoría de mandos estándar Accesorios Escritorio para Setup Gaming'
-date: 2026-07-27 15:05:30
+date: 2026-08-07 11:34:26
 image: 'https://m.media-amazon.com/images/I/31mu4HvozGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FKN7WZ83-es Cableguys Fortnite Fishsticks Soporte Mando y Movil -...'
 sku: 'B0FKN7WZ83-es'
 tags: [ 'playstation','xbox','🇪🇸', ]
-actualPrice: 24.93 EUR
+actualPrice: 17.95 EUR
 currency: EUR
-price: 24.93
+price: 17.95
 comparePrice: 29.99 EUR
 prodname: 'Cableguys Fortnite Fishsticks Soporte Mando y Movil - Figuras Soporte para movil y Mando Compatible con Xbox PlayStation y la mayoría de mandos estándar Accesorios Escritorio para Setup Gaming'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FKN7WZ83/?tag=tolees-21'
-descuento: '16.87'
-average: '24.93'
+descuento: '40.15'
+average: '21.44'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fans de Fortnite: Los accesorios escritorio definitivos para los amantes de Fortnite. Esta figura coleccionable da vida al Fishsticks mientras mantiene tus dispositivos organizados, a la vista y listos para la próxima batalla
-- Soporte Mando: Un accesorio gamer con gran capacidad de sujeción. Compatible con Xbox, PlayStation y la mayoría de mandos estándar, incluidos los de próxima generación: PS5 DualSense, Xbox Series X/S y Xbox One
 - Porta Movil: Accesorios gaming para sujetar tu teléfono con estilo. Compatibles con dispositivos populares como iPhone, Samsung y Google Pixel, incluso con la mayoría de fundas. Un imprescindible para cualquier setup gaming o espacio de escritorio
-- Dimensiones: Con una altura de aproximadamente 8,5 pulgadas, estos accesorios gamer se integran perfectamente en cualquier setup, escritorio o dormitorio. La base y los brazos estables mantienen tus dispositivos seguros y listos para usar
 - Merch oficial de Epic Games: Con licencia oficial de Epic Games, este soporte movil coleccionable forma parte de la popular gama de accesorios gamer Cable Guys. Ideal como regalo Fortnite o como pieza de exhibición para auténticos seguidores
+- Fans de Fortnite: Los accesorios escritorio definitivos para los amantes de Fortnite. Esta figura coleccionable da vida al Fishsticks mientras mantiene tus dispositivos organizados, a la vista y listos para la próxima batalla
+- Dimensiones: Con una altura de aproximadamente 8,5 pulgadas, estos accesorios gamer se integran perfectamente en cualquier setup, escritorio o dormitorio. La base y los brazos estables mantienen tus dispositivos seguros y listos para usar
+- Soporte Mando: Un accesorio gamer con gran capacidad de sujeción. Compatible con Xbox, PlayStation y la mayoría de mandos estándar, incluidos los de próxima generación: PS5 DualSense, Xbox Series X/S y Xbox One
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FKN7WZ83{{</world>}}

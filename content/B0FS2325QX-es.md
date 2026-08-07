@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Su capa ondea mientras vuela por el universo!
-- Desde el planeta Krypton, Kara Zor-El viste su icónico traje con la “S” destacando al frente.
 - Inspirada en la película de 2026, la muñeca Barbie Supergirl intergaláctica incluye el icónico traje de superheroína de Kara Zor-El.
-- La muñeca fashion lleva el traje rojo y azul, con cinturón dorado en la cintura y botas altas hasta la rodilla que completan el look.
+- Desde el planeta Krypton, Kara Zor-El viste su icónico traje con la “S” destacando al frente.
+- ¡Su capa ondea mientras vuela por el universo!
 - En una misión para proteger a todos, esta muñeca de colección es ideal para fans de los superhéroes a partir de 6 años, lista para exhibir o jugar.
+- La muñeca fashion lleva el traje rojo y azul, con cinturón dorado en la cintura y botas altas hasta la rodilla que completan el look.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FS2325QX{{</world>}}

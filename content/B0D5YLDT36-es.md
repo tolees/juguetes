@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un juego que estimula la memoria y la capacidad de asociación de los niños.
 - Con 48 fichas para memorizar y emparejar para recrear parejas con las mismas imágenes.
-- ¡El juego de memoria se vuelve aún más divertido con el Juego de los Colores!
 - Made in Italy.
+- ¡El juego de memoria se vuelve aún más divertido con el Juego de los Colores!
 - Un juego clásico que cautiva a grandes y pequeños.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

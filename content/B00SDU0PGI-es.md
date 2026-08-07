@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de grandes aventuras por tierra, mar y aire con el fantástico set “3 en 1” Vehículos de Aventura, de LEGO Creator
 - Cuenta incluso con un kit de herramientas y un extintor
+- Disfruta de grandes aventuras por tierra, mar y aire con el fantástico set “3 en 1” Vehículos de Aventura, de LEGO Creator
 - Diviértete construyendo el resistente todoterreno de colores verde, blanco y negro, equipado con un fantástico mecanismo de gancho que funciona de verdad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

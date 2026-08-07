@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🎉 ¡ENTRETENIMIENTO PARA TODOS! De 2 a 7 jugadores, +10 años y partidas de 15-30 minutos. Reglas sencillas explicadas en 1 minuto.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - ⚡ ¡VELOCIDAD Y EMOCIÓN! El juego de letras más rápido y divertido. Responde antes que los demás a temas disparatados y gana la partida.
 - 😂 ¡RISAS ASEGURADAS! Cientos de temas graciosos y originales: “Un sinónimo de influencer”, “Lo mejor de España”, o “Algo que diría tu abuela.
 - ☀️ ¡EL JUEGO DEL VERANO! Perfecto para jugar en playa, piscina y terraza. Ideal para planes en familia, escapadas, sobremesas y tardes al sol con amigos.
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
+- 🎉 ¡ENTRETENIMIENTO PARA TODOS! De 2 a 7 jugadores, +10 años y partidas de 15-30 minutos. Reglas sencillas explicadas en 1 minuto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJ54TF8K{{</world>}}

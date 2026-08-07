@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La gran división es un juego para 2-7 jugadores en el que tendrás que conseguir la colección de riquezas más prestigiosa, intercambiando cartas con el resto de los jugadores en rondas de draft simultáneas
-- Observa y analiza cuáles son las colecciones de tus oponentes para saber qué riquezas necesitan y así poder crear la oferta perfecta para empujarles a elegir lo que tú quieres que elijan
-- Empiezas cada ronda dividiendo tus cartas en dos grupos
 - Mientras que tu oponente decide cuál de tus grupos de cartas se quiere quedar, tú también recibes la Cartera del jugador de tu derecha, así que elige bien
 - Después, le pasas tu Cartera al jugador de tu izquierda; eso sí, ten cuidado: solo uno de los dos grupos de cartas que has creado volverá a tus manos
+- Empiezas cada ronda dividiendo tus cartas en dos grupos
+- La gran división es un juego para 2-7 jugadores en el que tendrás que conseguir la colección de riquezas más prestigiosa, intercambiando cartas con el resto de los jugadores en rondas de draft simultáneas
+- Observa y analiza cuáles son las colecciones de tus oponentes para saber qué riquezas necesitan y así poder crear la oferta perfecta para empujarles a elegir lo que tú quieres que elijan
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8JB36XQ{{</world>}}

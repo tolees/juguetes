@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Construye a Piccolo con bloques en miniatura
 - Figura compacta y detallada para regalar o coleccionar
 - Instrucciones claras para facilitar el montaje
+- Construye a Piccolo con bloques en miniatura
 - Inspirado en el personaje de Dragon Ball Z
 - Óptimo para fans del anime y del modelismo japonés
 

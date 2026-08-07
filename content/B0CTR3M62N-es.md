@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los videos explicativos están disponibles en línea, en 14 idiomas diferentes.
-- ¡Descubre Gabby y todos sus amigos en este juego de familias inédito! ¡4 juegos disponibles en una sola caja!
-- A partir de 4 años, de 2 a 10 jugadores: ideal para jugar en familia o con amigos
 - Descubre 4 reglas de juego diferentes para solo 1 juego de cartas: juego de 7 familias, juego de pares, juego de acción y batallas
+- Los videos explicativos están disponibles en línea, en 14 idiomas diferentes.
+- A partir de 4 años, de 2 a 10 jugadores: ideal para jugar en familia o con amigos
+- ¡Descubre Gabby y todos sus amigos en este juego de familias inédito! ¡4 juegos disponibles en una sola caja!
 - Contiene 33 cartas y reglas de los juegos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

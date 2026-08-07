@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Consiste en un simpático autobús contenedor con el que aprender a reconocer las formas y colores
-- Juguete infantil fabricado de plástico
 - Incluye 9 formas de colores para clasificar y encajar en sus agujeros correspondientes
-- Color: Surtido
+- Consiste en un simpático autobús contenedor con el que aprender a reconocer las formas y colores
 - Material: Plástico
+- Juguete infantil fabricado de plástico
+- Color: Surtido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004HZYECO{{</world>}}

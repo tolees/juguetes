@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 3 Intensidades De Luz Diferentes
 - Muy suave, ideal para abrazar y acompañar al bebe
 - Se puede lavar a maquina
 - Peluche proyector multicolor
 - 30 Minutos De Luces Y Melodías
+- 3 Intensidades De Luz Diferentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0749LDBQJ{{</world>}}

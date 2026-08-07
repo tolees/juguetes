@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- luz y sonido
 - 40 accesorios
+- luz y sonido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C858NQBJ{{</world>}}

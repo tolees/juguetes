@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El conjunto también incluye cinco figuras de amigos, uno para cada princesa: Flounder (Ariel), Ray (Tiana), Chip (Bella), Rajah (Jasmine) y Pascal (Rapunzel).
 - Incluye muñecas pequeñas articuladas (8,9cm) de Ariel, Tiana, Bella, Jasmine y Rapunzel. Cada muñeca lleva una falda o pantalones extraíbles con un estampado de amistad único.
-- Es un regalo perfecto para que niños y niñas recreen sus momentos favoritos de las películas de Disney o imaginen sus propias historias llenas de magia.
-- Los fans pueden coleccionar todas las muñecas pequeñas de Disney Princesas y sus conjuntos para disfrutar de más aventuras. Se venden por separado y están sujetas a disponibilidad.
 - Con cinco muñecas pequeñas Disney Princesas y cinco figuras de amigos, este adorable conjunto de personajes es ideal para crear historias inspiradas en las películas de Disney.
+- Los fans pueden coleccionar todas las muñecas pequeñas de Disney Princesas y sus conjuntos para disfrutar de más aventuras. Se venden por separado y están sujetas a disponibilidad.
+- Es un regalo perfecto para que niños y niñas recreen sus momentos favoritos de las películas de Disney o imaginen sus propias historias llenas de magia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7PTSD1X{{</world>}}

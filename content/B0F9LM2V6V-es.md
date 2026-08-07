@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El juego que pondrá a prueba tu agilidad mental
 - Incluye: 1 máquina con 6 botones, 50 cartas, manual de instrucciones.
+- El juego que pondrá a prueba tu agilidad mental
 - Piensa rápido, encuentra una palabra que encaje con el tema y la letra... ¡y pulsa el primero!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

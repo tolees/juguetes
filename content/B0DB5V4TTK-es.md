@@ -31,10 +31,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - ¡Adéntrate en Mini BarbieLand con estas muñecas Barbie Pop Reveal y disfruta imaginando a lo grande y soñando en miniatura!
 - Abre el envase y quita el compuesto sensorial para revelar una muñeca Barbie de 3,81cm. Qué muñeca te tocará?
 - Dóblalas por la cintura para sentarlas o ponlas de pie sobre la base en forma de corazón.
-- Cada muñeca del pack tiene un aspecto único, al igual que las muñecas de tamaño normal.
 - Los fans pueden coleccionarlas todas para crear sus propios mundos en miniatura e imaginar un sinfín de historias (se venden por separado y están sujetas a disponibilidad).
-- La base encaja en distintas zonas de los conjuntos Mini BarbieLand para que puedas jugar con las muñecas y exponerlas con facilidad (los conjuntos se venden por separado).
+- Cada muñeca del pack tiene un aspecto único, al igual que las muñecas de tamaño normal.
 - Para divertirte a lo grande abriendo el embalaje, esta adorable serie de minimuñecas ofrece una experiencia sensorial. Desenrosca la tapa y utiliza la pajita para divertirte descubriendo su textura viscosa.
+- La base encaja en distintas zonas de los conjuntos Mini BarbieLand para que puedas jugar con las muñecas y exponerlas con facilidad (los conjuntos se venden por separado).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DB5V4TTK{{</world>}}

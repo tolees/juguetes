@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disfruta de los temas compuestos por Masdito «Ittou» Bachtiar.
-- ¡Regresa a los 90! ¡Viaja a la Indonesia de esa década mágica!
 - Habla con el resto de habitantes del pueblo y descubre sus historias.
-- A Space for the Unbound Edición Estándar incluye: Juego, Manual “A Space for the Unbound Tales” y Tarjeta de descarga BSO Digital.
+- ¡Regresa a los 90! ¡Viaja a la Indonesia de esa década mágica!
 - IDIOMAS*: Español, Inglés, Francés, Alemán, Portugués, Ruso, Turco, Japonés, Chino, Coreano
+- A Space for the Unbound Edición Estándar incluye: Juego, Manual “A Space for the Unbound Tales” y Tarjeta de descarga BSO Digital.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS3F3HFV{{</world>}}

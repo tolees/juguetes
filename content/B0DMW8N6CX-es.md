@@ -32,8 +32,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - El palacio de hielo de Elsa de Frozen mide casi 90cm y tiene cinco divertidas zonas de juego, entre las que se incluyen un dormitorio, una zona de comedor y un balcón para soñar con miles de aventuras.
 - El conjunto también incluye veintiún muebles y accesorios, como una mesa y sillas, una manta suave, conos de helado y tazas de chocolate caliente.
 - Este conjunto de juego de palacio, inspirado en el palacio de hielo de Elsa en Disney Frozen, es el hogar de momentos mágicos para el poder del hielo y de aventuras inolvidables.
-- Los icónicos copos de nieve alrededor del castillo guían a los niños y a las niñas a descubrir cuatro características mágicas, como crear una figura de Olaf de nieve, tal y como lo hizo Elsa en la inolvidable escena de la película.
 - Hay tres características mágicas más: una lámpara de araña giratoria con forma de copo de nieve, un tocador móvil y una cama oculta.
+- Los icónicos copos de nieve alrededor del castillo guían a los niños y a las niñas a descubrir cuatro características mágicas, como crear una figura de Olaf de nieve, tal y como lo hizo Elsa en la inolvidable escena de la película.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMW8N6CX{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Coche Ferrari SF-24 F1 Maquetas para Construir para Adultos - Vehículo de Carreras Rojo para Coleccionar - Regalo para Hombres y Mujeres Padres o Pareja Aficionados a la Fórmula 1 42207'
-date: 2026-08-06 08:17:19
+date: 2026-08-07 08:34:55
 image: 'https://m.media-amazon.com/images/I/51PCplsAF9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSCYDL2/?tag=tolees-21'
 descuento: '30.44'
-average: '185.668235294118'
+average: '184.241666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
