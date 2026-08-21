@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pulsa la plataforma de activación para dar increíbles mordiscos de tiburón y capturar a los prisioneros en el casco del barco
-- Fomenta el uso de la imaginación al jugar y la representación de historias en niños y niñas de preescolar de 3 a 8 años
+- Gira otra plataforma de activación hacia la izquierda para encontrar el lugar donde está escondido el tesoro; Gírala hacia la derecha para disparar con los cañones
 - Los más pequeños pueden crear emocionantes aventuras de espadachines con este conjunto de juego de barco pirata con temática de tiburones
 - El conjunto de juego incluye 2 figuras de piratas con espadas extraíbles, 2 bolas de cañón, además de piezas de juego y proyectiles adicionales
-- Gira otra plataforma de activación hacia la izquierda para encontrar el lugar donde está escondido el tesoro; Gírala hacia la derecha para disparar con los cañones
+- Fomenta el uso de la imaginación al jugar y la representación de historias en niños y niñas de preescolar de 3 a 8 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VBK3M2W{{</world>}}

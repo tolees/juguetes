@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡EXPLORA lugares, MANIPULA máquinas con la aplicación, RESUELVE puzles y TERMINA LA AVENTURA antes de que se agote el tiempo!
-- Contiene 30 Cartas, de 1 a 6 Jugadores. Entre 30 y 45 minutos por partida.
-- Este juego de cartas cooperativo trae la emoción de los escape rooms a tu casa.
-- La línea Unlock! Miniaventuras ofrece aventuras más cortas que las de las cajas de tres escenarios de Unlock!
 - La canción de la espuma mararina. Un romance entre dos animales que son diametralmente opuestos en el que la poesía y los misterios se entrelazan.
+- La línea Unlock! Miniaventuras ofrece aventuras más cortas que las de las cajas de tres escenarios de Unlock!
+- Contiene 30 Cartas, de 1 a 6 Jugadores. Entre 30 y 45 minutos por partida.
+- ¡EXPLORA lugares, MANIPULA máquinas con la aplicación, RESUELVE puzles y TERMINA LA AVENTURA antes de que se agote el tiempo!
+- Este juego de cartas cooperativo trae la emoción de los escape rooms a tu casa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDR959MY{{</world>}}

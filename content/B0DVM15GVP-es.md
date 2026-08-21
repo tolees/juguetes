@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CREA BELLAS GOLOSINAS DE JUGUETE: Crea un pastelillo Play-Doh con el molde tipo libro, luego decora y personaliza con divertidas formas como corazones, flores y más
 - FIGURA DE MINNIE MOUSE CON SELLO: La figura de Minnie Mouse de 6,8 cm tiene un sello en su base que moldea una cereza Play-Doh
 - CREATIVIDAD TODO EN UNO Y ALMACENAMIENTO: Ideal como juguete de viaje para jugar en todas partes, este set de juego de Disney inspira el juego imaginativo con la plastilina Play-Doh
+- CREA BELLAS GOLOSINAS DE JUGUETE: Crea un pastelillo Play-Doh con el molde tipo libro, luego decora y personaliza con divertidas formas como corazones, flores y más
 - ACCESORIOS CON TEMA DE PASTELERÍA PLAY-DOH: Juega a la pastelería con la espátula, moldea corazones con el rodillo con textura y más
 - 3 BOTES PLAY-DOH PARA LAS MANOS PEQUEÑAS: Los botes de 56 gramos de plastilina color rosa, verde azulado y morado vienen con lengüetas en las tapas para que los niños pequeños las abran con facilidad (contienen trigo)
 

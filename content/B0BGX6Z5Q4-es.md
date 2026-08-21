@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño clásico del personaje
 - Marie con collar y lazo emblemáticos
-- Detalles bordados
 - Producto inspirado en Los Aristogatos
 - Expresión característica del personaje
+- Diseño clásico del personaje
+- Detalles bordados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGX6Z5Q4{{</world>}}

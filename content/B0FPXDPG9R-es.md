@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REGALO DE STAR WARS PARA NIÑOS A PARTIR DE 6 AÑOS: Este pequeño juguete de construcción es un regalo idóneo para niños, niñas y cualquier fan de LEGO Star Wars a partir de 6 años
-- MINIFIGURAS LEGO STAR WARS: Interpreta emocionantes aventuras con la figura de Grogu y la minifigura del Mandaloriano, equipada con una pistola bláster que se convierte en un fusil bláster
-- HORAS DE JUEGO: Esta moto speeder de juguete está diseñada para construirse de forma rápida y sencilla, para que los fans de Star Wars puedan empezar a jugar enseguida
-- SETS COLECCIONABLES: Los sets LEGO Star Wars (a la venta por separado) permiten a los niños y los fans adultos reproducir escenas clásicas, crear nuevas historias o, simplemente, exponer los modelos construidos con ladrillos
 - MOTO SPEEDER: Engancha el fusil bláster del Mandaloriano a la parte trasera de la moto speeder y coloca la minifigura en el asiento, con Grogu a su lado en la bolsa lateral
-- INSTRUCCIONES DE CONSTRUCCIÓN DIGITALES: La app LEGO Builder guiará a tu peque en una aventura de construcción que le permite acercar y girar los sets usando las instrucciones 3D, así como guardar y consultar su progreso
+- HORAS DE JUEGO: Esta moto speeder de juguete está diseñada para construirse de forma rápida y sencilla, para que los fans de Star Wars puedan empezar a jugar enseguida
+- MINIFIGURAS LEGO STAR WARS: Interpreta emocionantes aventuras con la figura de Grogu y la minifigura del Mandaloriano, equipada con una pistola bláster que se convierte en un fusil bláster
+- SETS COLECCIONABLES: Los sets LEGO Star Wars (a la venta por separado) permiten a los niños y los fans adultos reproducir escenas clásicas, crear nuevas historias o, simplemente, exponer los modelos construidos con ladrillos
+- REGALO DE STAR WARS PARA NIÑOS A PARTIR DE 6 AÑOS: Este pequeño juguete de construcción es un regalo idóneo para niños, niñas y cualquier fan de LEGO Star Wars a partir de 6 años
 - MOTO SPEEDER DE JUGUETE: Despierta la imaginación de tu peque al recrear las aventuras de la temporada 1 de Star Wars: The Mandalorian en Tatooine con LEGO Star Wars Moto Speeder del Mandaloriano y Grogu
+- INSTRUCCIONES DE CONSTRUCCIÓN DIGITALES: La app LEGO Builder guiará a tu peque en una aventura de construcción que le permite acercar y girar los sets usando las instrucciones 3D, así como guardar y consultar su progreso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FPXDPG9R{{</world>}}

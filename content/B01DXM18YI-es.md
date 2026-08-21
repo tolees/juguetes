@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - La isla de baño de Cotoons es un divertido juguete para que los bebés disfruten jugando en la hora del baño.
 - Este juego de baño está tematizado con temática marina, incluyendo una ballena regadera, un pez, estrella de mar, concha y cangrejo que lanzan agua al apretarlos, y que además se pueden anclar a la pared de la bañera con la ventosa que incorporan.
-- La isla de baño de Cotoons ha sido diseñada para niños y niñas a partir de 12 meses de edad, ayudando a desarrollar su motricidad fina y su percepción sensorial. Mide 24 x 21 x 15 cm.
 - Este juguete también incluye una figura de Wabap.
 - Este juguete de Smoby es muy colorido, la base flotante es de color azul, y sus accesorios son de color naranja, amarillo, verde, azul y rosa.
+- La isla de baño de Cotoons ha sido diseñada para niños y niñas a partir de 12 meses de edad, ayudando a desarrollar su motricidad fina y su percepción sensorial. Mide 24 x 21 x 15 cm.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01DXM18YI{{</world>}}

@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - SET DE TÉ GIRATORIO Y CABALLETE CON DIFERENTES DIBUJOS: ¡Has girar el set del té para fiestas imaginarias del té y mueve el pincel del caballete para ver 2 dibujos diferentes!
 - SET DE JUEGO EL CUARTO DE PEPPA CON 8 PIEZAS: ¡Peppa tiene su propia habitación! Los pequeños podrán imaginar que juegan con Peppa en su propia habitación con este set Peppa Pig de 8 piezas
 - DECORADO DE FONDO QUE CABE DENTRO DE LA GRAN CASA FAMILIAR DE PEPPA: Usa el decorado de fondo donde quieras (se sostiene por sí solo) o personaliza la habitación de Peppa en el set Gran casa familiar de Peppa (se vende por separado; sujeto a disponibilidad)
-- FIGURA DE PEPPA DE 7,5 CM: Este juguete incluye una figura de Peppa de 7,5 cm. ¡Imagina jugar con más figuras basadas en tus personajes favoritos de Peppa Pig (se venden por separado; sujeto a disponibilidad)!
 - LITERA Y ALFOMBRA CON ARCOÍRIS Y 1 PELUCHE: Los más pequeños podrán organizar los muebles de la casa de muñecas como quieran. La litera tiene cortinas inferiores para crean un rincón acogedor
+- FIGURA DE PEPPA DE 7,5 CM: Este juguete incluye una figura de Peppa de 7,5 cm. ¡Imagina jugar con más figuras basadas en tus personajes favoritos de Peppa Pig (se venden por separado; sujeto a disponibilidad)!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH7JKF2P{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Recomendado a partir de 6 años.
-- ¡Monta tu balón y juega con él!
 - Diámetro del balón una vez montado: 14 cm.
 - Contenido: 32 piezas de plástico, hoja de adhesivos, instrucciones.
 - Podrás montar el balón de múltiples maneras: por el lado cóncavo de las piezas, por el lado convexo, mosaico de imágenes, torre, diábolo, pulsera, ... ¡y mucho más!
+- ¡Monta tu balón y juega con él!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2F3RG2X{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Matcha incluye un nuevo tablero adicional, La Casa del Té, que añade 3 turnos a The White Castle, incorporando dados nuevos, nuevas acciones y diferentes estrategias
 - Expansión de The White Castle, el segundo juego de la serie de grandes monumentos tras The Red Cathedral, diseñados por Llama Dice
+- Matcha incluye un nuevo tablero adicional, La Casa del Té, que añade 3 turnos a The White Castle, incorporando dados nuevos, nuevas acciones y diferentes estrategias
 - The White Castle en menos de un año se ha convertido en todo un imprescindible en el mundo lúdico, llegando al Top 200 de la BGG
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

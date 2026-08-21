@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Yor Forger - madre de la familia falsa - en su atuendo casual
-- La caja del producto viene con una señal de advertencia Bandai Namco que es prueba de que estás comprando un producto oficial de Bandai Spirits
 - El paquete incluye: cuerpo principal, cuatro partes de expresión opcionales, cabeza opcional, cinco pares de manos opcionales, falda opcional para posición sentada, postura de la mano con opción Anya (L/R), botella de vino, copa de vino, 2 contenidos de vino
-- Altura: aprox. 15 cm
 - Numerosos accesorios incluyen piezas que puedes poner en una postura sentada
+- Yor Forger - madre de la familia falsa - en su atuendo casual
+- Altura: aprox. 15 cm
+- La caja del producto viene con una señal de advertencia Bandai Namco que es prueba de que estás comprando un producto oficial de Bandai Spirits
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6LNBKNJ{{</world>}}

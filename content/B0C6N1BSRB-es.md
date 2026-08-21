@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gracias a los diferentes materiales que tiene, estimula distintos aspectos sensoriales, ayudando al niño a aprender a manipular objetos de la vida cotidiana.
-- Un juego inspirado en el método pedagógico Montessori, con muchos mecanismos y actividades estudiadas para ayudar al niño a entrenar la manualidad y ejercitar la capacidad de concentración.
 - Un proyecto concebido en Italia e ideal para estimular los sentidos de los más pequeños.
+- Un juego inspirado en el método pedagógico Montessori, con muchos mecanismos y actividades estudiadas para ayudar al niño a entrenar la manualidad y ejercitar la capacidad de concentración.
 - Un panel (Busy Board) de la filosofía Montessori, actualizado con el inconfundible y empático diseño Baby Clementoni.
+- Gracias a los diferentes materiales que tiene, estimula distintos aspectos sensoriales, ayudando al niño a aprender a manipular objetos de la vida cotidiana.
 - Un simpático osito con elementos de materiales diferentes y una gran variedad de actividades para explorar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

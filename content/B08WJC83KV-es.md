@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - El entrañable Libro de cuentos regresa junto con nuevos episodios, nuevas miniaturas y más fábulas, moralejas y temas de conversación para toda la familia
 - La niña de la anterior historia tiene ahora un hermanito con su propio peluche: Perezosa la unicornia
+- A partir de 8 años de edad
 - De 2 a 4 jugadores
 - Oh, hermanito es una expansión del aclamado libro-juego de aventuras Fábulas de Peluche
-- A partir de 8 años de edad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WJC83KV{{</world>}}

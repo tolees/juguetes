@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Encuentra los personajes y objetos más emblemáticos del famoso videojuego Super Mario en 55 cartas ilustradas.
-- Encuentra antes que nadie el único símbolo idéntico entre 2 cartas para ganar una carta o librarte de ella.
-- Dobble contiene varios minijuegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez.
 - 55 cartas, con uno, y solamente un símbolo idéntico entre cada carta. ¿Serás capaz de descubrirlo?
+- Encuentra antes que nadie el único símbolo idéntico entre 2 cartas para ganar una carta o librarte de ella.
 - Sencillo, rápido y divertido: ¡Dobble es el juego definitivo de observación y velocidad!
+- Dobble contiene varios minijuegos, cada cual más divertido e hilarante, aunque el objetivo siempre es el mismo: ser el más rápido, ya que todos los jugadores juegan a la vez.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1GNZSHJ{{</world>}}

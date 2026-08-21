@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REDDEADPS4
-- 2 ans
 - ROCKSTAR
+- 2 ans
+- REDDEADPS4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M7RRZ8D{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecta tanto para jugar con ella como para exponerla, la muñeca coleccionable Teela está preparada para defenderse del mal con su mono, sus botas, su espada dorada y su armadura.
-- ¡La diosa guerrera está lista para defender Eternia y demostrar una vez más que es la fiel compañera de He-Man en la próxima película de MOTU!
 - Con diseños inspirados en el actor Nicholas Galitzine y la actriz Camilla Mendes, los fans de Masters of the Universe pueden coleccionar tanto el muñeco Ken He-Man como la muñeca Barbie Teela de Barbie Signature para completar la colección.
 - ¡No digas adiós, di “buen viaje”! La muñeca Barbie Teela de Barbie Signature está lista para volver a la batalla con un diseño y un embalaje de primera calidad.
 - La muñeca Barbie Teela de Barbie Signature viene en un embalaje de exposición y es un regalo fabuloso que se seguirá apreciando por muchos años que pasen.
+- Perfecta tanto para jugar con ella como para exponerla, la muñeca coleccionable Teela está preparada para defenderse del mal con su mono, sus botas, su espada dorada y su armadura.
+- ¡La diosa guerrera está lista para defender Eternia y demostrar una vez más que es la fiel compañera de He-Man en la próxima película de MOTU!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FK1NMK57{{</world>}}

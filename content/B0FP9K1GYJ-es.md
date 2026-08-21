@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🧩 Mucho más que un juego de mesa: Fragmentos es una excusa perfecta para hablar, reír, debatir y sorprenderte con las historias imposibles que nacen en cada ronda. Una experiencia social única que rompe el hielo, desata carcajadas y crea recuerdos memorables.
-- ⚡ Elige tu nivel de locura: desde partidas rápidas y sencillas para principiantes, hasta retos complejos con reglas adicionales para narradores expertos. Incluye un modo secreto ultra-experto que solo descubrirán los más atrevidos.
-- 👥 Diversión asegurada para grupos grandes o pequeños: perfecto para adultos, jóvenes y familias que quieran romper la rutina con un juego distinto. Ya sea en reuniones frikis, tardes de amigos o noches de risas, Fragmentos convierte cualquier mesa en un escenario narrativo.
-- 🎭 El juego favorito de los creativos: ideal para quienes aman los juegos de rol, los relatos fantásticos o simplemente dejar volar la imaginación. Fragmentos mezcla humor, misterio y drama en una experiencia que engancha tanto a jugadores novatos como a veteranos.
 - 🎴 Un juego narrativo como nunca antes: Fragmentos no se juega, se vive. Cada carta representa un Lugar, una Entidad, un Fenómeno o un Sentimiento, y tu misión es combinarlos para dar vida a relatos sorprendentes, inquietantes o absurdos. No existen reglas rígidas: la historia la construyen los jugadores en tiempo real.
+- 👥 Diversión asegurada para grupos grandes o pequeños: perfecto para adultos, jóvenes y familias que quieran romper la rutina con un juego distinto. Ya sea en reuniones frikis, tardes de amigos o noches de risas, Fragmentos convierte cualquier mesa en un escenario narrativo.
 - 🌌 Rejugabilidad infinita gracias al caos creativo: con más de cien cartas únicas y miles de combinaciones posibles, jamás repetirás una partida. Cada sesión se convierte en un universo distinto, donde el destino de tu relato dependerá de tu ingenio y tu capacidad de improvisar.
+- 🧩 Mucho más que un juego de mesa: Fragmentos es una excusa perfecta para hablar, reír, debatir y sorprenderte con las historias imposibles que nacen en cada ronda. Una experiencia social única que rompe el hielo, desata carcajadas y crea recuerdos memorables.
+- 🎭 El juego favorito de los creativos: ideal para quienes aman los juegos de rol, los relatos fantásticos o simplemente dejar volar la imaginación. Fragmentos mezcla humor, misterio y drama en una experiencia que engancha tanto a jugadores novatos como a veteranos.
+- ⚡ Elige tu nivel de locura: desde partidas rápidas y sencillas para principiantes, hasta retos complejos con reglas adicionales para narradores expertos. Incluye un modo secreto ultra-experto que solo descubrirán los más atrevidos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FP9K1GYJ{{</world>}}

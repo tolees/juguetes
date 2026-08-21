@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Phase 10 Flip presenta diez fases de colores que requieren que los jugadores hagan escaleras con cartas del MISMO COLOR.
-- Al jugar una carta con un símbolo FLIP, hay que darles la vuelta a todas las cartas de la partida, lo que revelará un conjunto completamente diferente de cartas en el lado opuesto.
-- Phase 10 Flip es el clásico juego de cartas tipo Rummy que conoces, con un giro inesperado que cambiará todo por completo.
-- El “lado de los colores” de la baraja cuenta con cartas de colores estándar de Phase 10, mientras que en el “lado de los comodines” ¡TODAS SON COMODINES!
-- Y cada fase de Phase 10 Flip se ha diseñado especialmente para agilizar el juego aún más, al hacer que sea más fácil para los jugadores quedarse sin cartas.
-- Una baraja de doble cara y cartas con un poder especial FLIP introducen nuevas estrategias.
 - Al girar estratégicamente la baraja al lado de los comodines, el juego se agiliza para ser quien complete las diez fases primero.
+- Phase 10 Flip presenta diez fases de colores que requieren que los jugadores hagan escaleras con cartas del MISMO COLOR.
+- Phase 10 Flip es el clásico juego de cartas tipo Rummy que conoces, con un giro inesperado que cambiará todo por completo.
+- Una baraja de doble cara y cartas con un poder especial FLIP introducen nuevas estrategias.
+- El “lado de los colores” de la baraja cuenta con cartas de colores estándar de Phase 10, mientras que en el “lado de los comodines” ¡TODAS SON COMODINES!
+- Al jugar una carta con un símbolo FLIP, hay que darles la vuelta a todas las cartas de la partida, lo que revelará un conjunto completamente diferente de cartas en el lado opuesto.
+- Y cada fase de Phase 10 Flip se ha diseñado especialmente para agilizar el juego aún más, al hacer que sea más fácil para los jugadores quedarse sin cartas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPKJKXP1{{</world>}}

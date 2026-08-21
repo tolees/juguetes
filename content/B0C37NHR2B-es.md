@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - DESCUBRE LAS COLECCIONES: Entra en el mundo mágico de los juegos de mesa, estratégicos y de cartas de Ravensburger; toda nuestra experiencia en juegos de mesa para ofrecer a niños, jóvenes y adultos una noche de pura diversión
 - CARACTERÍSTICAS: Número de jugadores 3-10, edad recomendada 9+, duración 10 minutos, edición en castellano
+- HOMBRE LOBO: Cada jugador recibe una carta de rol para jugar en secreto; al final de la partida, todos los jugadores votan quién podría ser un Licántropo, el jugador que recibe la mayor cantidad de votos es eliminado y su equipo pierde
 - JUEGA CON ESTRATEGIA: Divertido y desafiante, este juego de estrategia para fiestas incluye una aplicación gratuita del Narrador que te guiará para una ambientación aún más intensa. Perfecto para noches con amigos o en familia
 - PRIMERA LUZ: Segundo capítulo del increíble éxito Hombre Lobo Luna Llena con nuevas cartas, nuevos roles y nuevos desafíos; se puede jugar en combinación con Hombre Lobo Luna Llena.
-- HOMBRE LOBO: Cada jugador recibe una carta de rol para jugar en secreto; al final de la partida, todos los jugadores votan quién podría ser un Licántropo, el jugador que recibe la mayor cantidad de votos es eliminado y su equipo pierde
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C37NHR2B{{</world>}}

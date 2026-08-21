@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 2: Tipo de producto: juego de mesa
-- producto 1: De 1 a 6 jugadores
-- producto 1: A partir de los 12 años
-- producto 1: Edición en español
 - producto 2: Duración aproximada de la partida: 45 - 90 minutos
-- producto 2: Edad recomendada: 10 años y más
+- producto 2: Tipo de producto: juego de mesa
 - producto 2: Número de jugadores: 1 - 4
 - producto 1: Duración 45-90 minutos
+- producto 1: Edición en español
+- producto 1: De 1 a 6 jugadores
+- producto 2: Edad recomendada: 10 años y más
+- producto 1: A partir de los 12 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09CZDRK42{{</world>}}

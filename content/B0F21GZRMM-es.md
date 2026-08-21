@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EMBALAJE RETRO: Embalaje coleccionable inspirado en el embalaje retro G1 original
-- FIGURAS ARTICULADAS PARA EL JUEGO Y LA EXHIBICIÓN: Las figuras Transformers cuentan con cabezas, brazos y piernas articulables para que las coloques en diferentes poses de acción
 - DISEÑO ORIGINAL G1 DE LA FIGURA: Esta figura vintage G1 de Autobot Gears está inspirada en la versión G1 original
-- CONVERSIÓN CLÁSICA: La figura de 12,5 cm de Autobot Gears cuenta con una conversión clásica de robot en camión en 12 pasos.
 - ACCESORIO VINTAGE: La figura de acción Transformers para niños y niñas viene con un rifle láser que se conecta a la figura
+- CONVERSIÓN CLÁSICA: La figura de 12,5 cm de Autobot Gears cuenta con una conversión clásica de robot en camión en 12 pasos.
+- FIGURAS ARTICULADAS PARA EL JUEGO Y LA EXHIBICIÓN: Las figuras Transformers cuentan con cabezas, brazos y piernas articulables para que las coloques en diferentes poses de acción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F21GZRMM{{</world>}}

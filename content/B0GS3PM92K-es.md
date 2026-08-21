@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💣 Modo Pisar el Trueno: Ideal para jugar en círculo. Pasa el tablero, presiona una letra y cruza los dedos... si suena la bomba, ¡pisaste el trueno y estás fuera!
-- 🔤 Versión electrónica del clásico FIGUI: Incluye una rueda giratoria con letras, cronómetro digital visible y temas automáticos por voz.
-- ⏱️ Juega con presión real: ¡Solo tienes 10 segundos para responder! Si fallas o te quedas sin palabras, quedas eliminado de esa ronda
 - 🎧 Modo Respuesta Rápida: Al iniciar escucharás: "220 temas seleccionados al azar... 3, 2, 1... ¡comienza!" Los jugadores deben decir una palabra que coincida con el tema y la letra indicada antes de que acabe el tiempo.
 - 📦 Contenido completo y seguro: Incluye tablero electrónico, tarjetas de categorías, botones interactivos. Funciona con 2 baterías AA. Diversión garantizada para toda la familia.
+- 💣 Modo Pisar el Trueno: Ideal para jugar en círculo. Pasa el tablero, presiona una letra y cruza los dedos... si suena la bomba, ¡pisaste el trueno y estás fuera!
+- ⏱️ Juega con presión real: ¡Solo tienes 10 segundos para responder! Si fallas o te quedas sin palabras, quedas eliminado de esa ronda
+- 🔤 Versión electrónica del clásico FIGUI: Incluye una rueda giratoria con letras, cronómetro digital visible y temas automáticos por voz.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GS3PM92K{{</world>}}

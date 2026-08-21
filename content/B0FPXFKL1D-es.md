@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DECORACIÓN DEL DORMITORIO: Explora la Sección Prohibida de la biblioteca y los lavabos, con conducto secreto hasta la Cámara Secreta; luego extrae la Cámara y la sala común de Slytherin para jugar
-- MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder ofrece una experiencia guiada y de colaboración con amigos y familiares en la que cada uno crea una parte del set usando su propio dispositivo y todos se divierten juntos en el proceso
-- CASTILLO DE JUGUETE: Da vida a los misterios de la Cámara Secreta con el detallado modelo LEGO Harry Potter Castillo de Hogwarts: Ala Este (76473) de juguete para niños y niñas de 10 años en adelante
-- COLECCIONA Y CONECTA: Este kit de maquetas pertenece a una serie de sets modulares (a la venta por separado) que, combinados, crean la escena del Castillo de Hogwarts construida con ladrillos más detallada que existe hasta ahora
-- 13 MINIFIGURAS: Juegos de rol con las minifiguras de Harry Potter, Hermione Granger, Ron Weasley, Argus Filch y el Barón Sanguinario, así como con figuras de la gata Sra. Norris, un Patronus cierva, el basilisco, Fawkes y más
 - DETALLES DIVERTIDOS: Enrosca al basilisco en la Cámara, listo para luchar contra Harry Potter, y busca el diario de Tom Riddle, la Espada de Gryffindor y 4 cuadros de Hogwarts (de los 14 que forman la colección)
+- DECORACIÓN DEL DORMITORIO: Explora la Sección Prohibida de la biblioteca y los lavabos, con conducto secreto hasta la Cámara Secreta; luego extrae la Cámara y la sala común de Slytherin para jugar
+- COLECCIONA Y CONECTA: Este kit de maquetas pertenece a una serie de sets modulares (a la venta por separado) que, combinados, crean la escena del Castillo de Hogwarts construida con ladrillos más detallada que existe hasta ahora
 - REGALO HARRY POTTER: Este set con castillo de juguete es un gran regalo de cumpleaños o por alguna ocasión especial para niños, niñas y fans a partir de 10 años
+- 13 MINIFIGURAS: Juegos de rol con las minifiguras de Harry Potter, Hermione Granger, Ron Weasley, Argus Filch y el Barón Sanguinario, así como con figuras de la gata Sra. Norris, un Patronus cierva, el basilisco, Fawkes y más
+- CASTILLO DE JUGUETE: Da vida a los misterios de la Cámara Secreta con el detallado modelo LEGO Harry Potter Castillo de Hogwarts: Ala Este (76473) de juguete para niños y niñas de 10 años en adelante
+- MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder ofrece una experiencia guiada y de colaboración con amigos y familiares en la que cada uno crea una parte del set usando su propio dispositivo y todos se divierten juntos en el proceso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXFKL1D{{</world>}}

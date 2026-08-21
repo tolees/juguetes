@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para regalar
 - Para líquidos fríos o calientes
+- Adecuado para regalar
 - Taza para beber
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

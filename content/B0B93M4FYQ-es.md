@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre o redescubre Party & Co en su versión familiar!~
-- Un juego para grandes y pequeños con cartas para adultos y niños para que todos puedan jugar.
+- Como equipo, enfrentar desafíos más divertidos entre sí para ganar el juego.
+- Un juego divertido y fácil de entender desde 8 años.
 - Dos opciones de partes con la bandeja reversible. Uno de 25 minutos y uno de 50 minutos.
 - Dibujos, mismos, cuestionarios o incluso los cubos de acción, muchos desafíos para tener éxito. ¡Pero ten cuidado con los obstáculos que van a tus desafíos!
-- Un juego divertido y fácil de entender desde 8 años.
-- Como equipo, enfrentar desafíos más divertidos entre sí para ganar el juego.
+- Un juego para grandes y pequeños con cartas para adultos y niños para que todos puedan jugar.
+- Descubre o redescubre Party & Co en su versión familiar!~
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B93M4FYQ{{</world>}}

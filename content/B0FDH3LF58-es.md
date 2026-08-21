@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ¡La mecánica de juego combina el clásico juego de cartas con la acción y la emoción de las carreras de Formula 1!
+- Los símbolos gráficos especiales de las cartas ayudan a identificar el color de esta, ¡así podrán jugar sin problema las personas con cualquier tipo de daltonismo!
 - Este divertido juego de cartas UNO, diseñado para que jueguen de 2 a 5 personas a partir de 7 años, es un regalo estupendo con temática automovilística para los fans de la Formula 1.
 - El conjunto incluye 112 cartas UNO, 4 packs de propulsores de juego (con 10 cartas especiales Elite por pack) y 2 cartas promocionales.
-- Los símbolos gráficos especiales de las cartas ayudan a identificar el color de esta, ¡así podrán jugar sin problema las personas con cualquier tipo de daltonismo!
-- ¡Llega a la noche de juegos derrapando con el juego de cartas UNO Elite Formula 1 Edición principal 2025, donde las cartas especiales Elite añaden emoción al juego UNO clásico!
 - Cada jugador UNO creará su propia “alineación” con las 8 cartas especiales Elite que se le repartirán: las cartas especiales Elite incluyen pilotos, coches, cascos, circuitos, directores de equipo y pilotos de reserva de Formula 1.
-- ¡La mecánica de juego combina el clásico juego de cartas con la acción y la emoción de las carreras de Formula 1!
+- ¡Llega a la noche de juegos derrapando con el juego de cartas UNO Elite Formula 1 Edición principal 2025, donde las cartas especiales Elite añaden emoción al juego UNO clásico!
 - Los jugadores simplemente tendrán que jugar una carta del mismo color en la que aparezca un icono Elite para desbloquear el poder de la carta especial Elite.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

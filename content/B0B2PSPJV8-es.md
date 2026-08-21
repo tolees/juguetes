@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Canjea tu código en Roblox
-- Recra el juego y deja volar tu imaginación, sobrevivirás?
 - Producto distribuido oficialmente en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)
+- Canjea tu código en Roblox
 - Consigue nuevas armas con los códigos para Roblox
+- Recra el juego y deja volar tu imaginación, sobrevivirás?
 - Diferentes personajes, coleccionalos!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

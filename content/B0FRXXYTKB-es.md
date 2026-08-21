@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - QUIÉN GANA? Al final cada jugador cuenta las cartas que ha ido acumulando y quién tenga menos cartas es el ganador.
-- CARTAS DE ACCIÓN Hay 6 cartas de acciones distintas, como ponerse la capibara en la cabeza, ser el primero en robar la capibara shiquishy o poner la mano en el centro.
-- POR TURNOS: El primer jugador revela una carta de su mazo boca arriba en el medio diciendo “CA”, el segundo hace lo mismo pero diciendo “PI”, el tercero “BA” y el cuarto “RA”
 - ESTATE AL LORO! Todos los jugadores tendrán que hacer la acción que esta última carta “RA” revele para evitar llevarse las cartas del montón.
+- POR TURNOS: El primer jugador revela una carta de su mazo boca arriba en el medio diciendo “CA”, el segundo hace lo mismo pero diciendo “PI”, el tercero “BA” y el cuarto “RA”
 - ¡Un divertido juego en el que la capibara es la protagonista! Estate pendiente de las cartas y sé rápido en realizar la opción que indique para no llevarte las cartas.
+- CARTAS DE ACCIÓN Hay 6 cartas de acciones distintas, como ponerse la capibara en la cabeza, ser el primero en robar la capibara shiquishy o poner la mano en el centro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FRXXYTKB{{</world>}}

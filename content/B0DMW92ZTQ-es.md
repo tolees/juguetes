@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Detalles auténticos del NSX: Cuenta con puertas que se abren, faros elevables, dirección funcional y matrículas intercambiables para garantizar la máxima autenticidad.
 - Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
 - Construye el coche de alta gama japonés: ’90Acura NSX a escala 1:16 para construir por completo y lleno de detalles realistas.
 - Tunea tu vehículo: Incluye piezas adicionales, tapacubos de metal y pegatinas para transformar tu vehículo. Puedes crear el Acura NSX o el Honda NSX.
-- Detalles auténticos del NSX: Cuenta con puertas que se abren, faros elevables, dirección funcional y matrículas intercambiables para garantizar la máxima autenticidad.
 - Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con los conjuntos de Mattel Brick Shop.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

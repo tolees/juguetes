@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para estimular el juego imaginativo de roles en niños
 - Una torre de entrada y un ascensor real
 - El juego viene con un edificio de tiendas departamentales de dos pisos
+- Para estimular el juego imaginativo de roles en niños
 - También hay un balcón mirador
 
 [🛒 Comprar!!!]({{< param buyurl >}})

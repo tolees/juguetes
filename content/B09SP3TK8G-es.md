@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONTENIDO DEL JUEGO: Tablero, volcán lanzador, 4 personajes con base, 2 dados numéricos, 1 dado de símbolos y guía.
 - IDEAL PARA CASA O AULA: Perfecto para jugar en familia o como recurso didáctico en clase.
-- DINÁMICA DIVERTIDA CON DADOS: Incluye dados con números y símbolos matemáticos para crear retos en cada turno.
-- APRENDE SUMAS Y RESTAS JUGANDO: Juego educativo que ayuda a niños de 6 años a practicar operaciones básicas mientras se divierten.
-- AVENTURA EN LA ISLA DE LAS MATEMÁTICAS: Los jugadores avanzan resolviendo sumas y restas para escapar del volcán.
+- CONTENIDO DEL JUEGO: Tablero, volcán lanzador, 4 personajes con base, 2 dados numéricos, 1 dado de símbolos y guía.
 - APRENDER ES NUESTRO JUEGO: Learning Resources crea desde hace 40 años juguetes educativos de calidad que hacen que aprender sea divertido y accesible.
+- APRENDE SUMAS Y RESTAS JUGANDO: Juego educativo que ayuda a niños de 6 años a practicar operaciones básicas mientras se divierten.
+- DINÁMICA DIVERTIDA CON DADOS: Incluye dados con números y símbolos matemáticos para crear retos en cada turno.
+- AVENTURA EN LA ISLA DE LAS MATEMÁTICAS: Los jugadores avanzan resolviendo sumas y restas para escapar del volcán.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09SP3TK8G{{</world>}}

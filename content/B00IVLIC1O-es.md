@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye 18 conectores de pista y un surtido de pistas de 23 y 30 cm.
-- Para más diversión, ¡se pueden conectar a otras pistas Hot Wheels! (Se venden por separado).
 - Una genial combinación de pistas Hot Wheels con un coche para divertirse a lo grande.
+- Para más diversión, ¡se pueden conectar a otras pistas Hot Wheels! (Se venden por separado).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IVLIC1O{{</world>}}

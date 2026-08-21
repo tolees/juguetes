@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atuendo de Guardabosques Tormenta Carja y arco Carja poderoso
-- Pack de comerciante Carja
-- Pack de viaje Banuk
 - Nora Keeper Paquete de
 - Juego completo de Horizon Zero Dawn Remastered
 - Juego completo de Horizon Zero Dawn Remastered
+- Pack de comerciante Carja
 - Atuendo de Pionero Banuk y arco de sacrificio Banuk
+- Atuendo de Guardabosques Tormenta Carja y arco Carja poderoso
+- Pack de viaje Banuk
 - Libro de ilustraciones digital
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

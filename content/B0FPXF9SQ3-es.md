@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- UNA AYUDA PRÁCTICA: Los pequeños ídolos del fútbol pueden acceder a instrucciones digitales en la app LEGO Builder, que les permite girar una versión 3D de su modelo y consultar su progreso
 - MERCHANDISING DEPORTIVO: La base tiene la forma de la inicial de Vini, lleva los colores de la selección brasileña, su número de camiseta, una placa coleccionable con su autógrafo y estadísticas como jugador
 - DECORACIÓN PARA LA HABITACIÓN DE LOS NIÑOS: Este kit de maquetas coleccionable es un accesorio idóneo para la estantería del dormitorio de los peques, que le dará un toque deportivo
-- COLECCIÓN LEGO EDITIONS: Sigue expresando tu admiración por más astros del fútbol legendarios con otros sets (a la venta por separado)
-- REGALO DE FÚTBOL PARA NIÑOS: Este kit de construcción es un gran regalo de cumpleaños para niños, niñas y fans de Vinicius Jr. a partir de 10 años y adultos entusiastas del deporte
+- UNA AYUDA PRÁCTICA: Los pequeños ídolos del fútbol pueden acceder a instrucciones digitales en la app LEGO Builder, que les permite girar una versión 3D de su modelo y consultar su progreso
 - JUGUETES DE FÚTBOL: Rinde homenaje a toda una estrella del fútbol brasileño con el set LEGO Editions Vini Jr.: Fenómenos del Fútbol, una maqueta 3D para niños, niñas y amantes del deporte a partir de 10 años
 - MINIFIGURA LEGO DEL JUGADOR DE FÚTBOL: Una minifigura de Vinicius da vida al set dedicado al futbolista, que aparece representado en su característica pose de remate a gol
+- REGALO DE FÚTBOL PARA NIÑOS: Este kit de construcción es un gran regalo de cumpleaños para niños, niñas y fans de Vinicius Jr. a partir de 10 años y adultos entusiastas del deporte
+- COLECCIÓN LEGO EDITIONS: Sigue expresando tu admiración por más astros del fútbol legendarios con otros sets (a la venta por separado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FPXF9SQ3{{</world>}}

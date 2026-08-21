@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Esta expansión amplía el universo de Pequeñas Grandes Galaxias con nuevas mecánicas y componentes
 - Un eurogame espacial de peso medio muy completo para su tamaño
 - Los jugadores disponen de nuevas posibilidades de conseguir puntos de victoria, contratando a nuevos pilotos con habilidades y reuniendo conjuntos de insignias de exploración
-- Esta expansión amplía el universo de Pequeñas Grandes Galaxias con nuevas mecánicas y componentes
 - Estas preparados para guiar vuestra nave hacia lo desconocido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

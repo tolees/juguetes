@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAJA SORPRESA Y APP INTERACTIVA: Al igual que en la serie, abre la caja sorpresa para encontrar un accesorio secreto y escanea el código QR incluido para desbloquear una experiencia exclusiva en la aplicación Gabby’s Dollhouse.
-- LA CASA DE MUÑECAS DE GABBY: ¡Construye tu propio mundo de casa de muñecas junto con Gabby y sus gatos! Juega recreando las escenas de la película con la Montaña Dulce.
-- JUGUETES NIÑOS 3 AÑOS +: El Pack Montaña Dulse de la película está diseñado para niños y niñas a partir de 3 años. Fácil de manejar y muy divertida, garantiza horas de diversión y desarrollo creativo.
-- AVENTURAS Y SORPRESAS: Usa los polos encajables para escalar, activa los botones Paw Bump Magic para descubrir a Bobby galleta y el escondite de Don Fidel, cruza el puente colgante y diviértete con el dónut tambaleante.
-- SET MONTAÑA DULCE DE GABBY: con este set de 12 piezas inspirado en la Montaña dulce. Con más de 30 cm de ancho y 25 cm de alto, incluye a Gabby con su traje de nieve y a Don Fidel para recrear escenas inolvidables.
 - REGALOS PARA NIÑAS 3 AÑOS +: El Pack Montaña Dulce de la película de Gabby y La Casa de Muñecas es una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 3 años disfrutarán jugando con sus personajes favoritos.
+- AVENTURAS Y SORPRESAS: Usa los polos encajables para escalar, activa los botones Paw Bump Magic para descubrir a Bobby galleta y el escondite de Don Fidel, cruza el puente colgante y diviértete con el dónut tambaleante.
+- CAJA SORPRESA Y APP INTERACTIVA: Al igual que en la serie, abre la caja sorpresa para encontrar un accesorio secreto y escanea el código QR incluido para desbloquear una experiencia exclusiva en la aplicación Gabby’s Dollhouse.
+- JUGUETES NIÑOS 3 AÑOS +: El Pack Montaña Dulse de la película está diseñado para niños y niñas a partir de 3 años. Fácil de manejar y muy divertida, garantiza horas de diversión y desarrollo creativo.
+- LA CASA DE MUÑECAS DE GABBY: ¡Construye tu propio mundo de casa de muñecas junto con Gabby y sus gatos! Juega recreando las escenas de la película con la Montaña Dulce.
+- SET MONTAÑA DULCE DE GABBY: con este set de 12 piezas inspirado en la Montaña dulce. Con más de 30 cm de ancho y 25 cm de alto, incluye a Gabby con su traje de nieve y a Don Fidel para recrear escenas inolvidables.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT8TBW48{{</world>}}

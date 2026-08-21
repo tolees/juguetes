@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acción basada en turnos
 - Entorno visual remasterizado
 - Modos de velocidad de combate
+- Acción basada en turnos
 - Gráficos actualizados en todas las escenas de vídeo
 - Cambia entre los modos clásico y remasterizado
 

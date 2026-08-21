@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REVIVA UNA BATALLA ICÓNICA: Revive el épico enfrentamiento entre el ejército imperial de Darth Vader y las fuerzas rebeldes de Leia Organa que defienden la Base Eco.
-- REGLAMENTO DETALLADO Y TABLERO DE JUEGO: Incluye instrucciones paso a paso y un útil tablero de juego para ayudar a los nuevos jugadores a sumergirse directamente en la acción.
 - FÁCIL DE APRENDER, DIVERSIÓN SIN LÍMITES: Perfecto tanto para principiantes como para fans de Star Wars, ofrece una experiencia de juego de cartas rápida, estratégica y envolvente.
 - INTRODUCCIÓN AUTÓNOMA: Primera Batalla Hoth ofrece una experiencia lista para jugar y apta para principiantes, diseñada para introducir a los jugadores en Star Wars: Unlimited con facilidad.
 - DOS BARAJAS PRECONSTRUIDAS: Elige entre comandar a los invasores imperiales o a los defensores rebeldes, cada baraja diseñada para un juego rápido y emocionante.
+- REVIVA UNA BATALLA ICÓNICA: Revive el épico enfrentamiento entre el ejército imperial de Darth Vader y las fuerzas rebeldes de Leia Organa que defienden la Base Eco.
+- REGLAMENTO DETALLADO Y TABLERO DE JUEGO: Incluye instrucciones paso a paso y un útil tablero de juego para ayudar a los nuevos jugadores a sumergirse directamente en la acción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FN8MDZLV{{</world>}}

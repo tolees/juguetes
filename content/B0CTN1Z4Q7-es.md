@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los niños pueden aprender gradualmente los conceptos básicos típicos de la edad preescolar como las formas, los colores, la orientación espacial, los números y las cantidades
 - El bolígrafo suena y se ilumina con cada respuesta correcta, así los niños pueden jugar solos y comprobar sus progresos sin la ayuda de un adulto
-- Un juego con tarjetas y un recorrido didáctico completo y eficaz para divertirse en compañía de Spidey
-- Más de 200 cuestionarios para resolver con un simpático bolígrafo electrónico
 - Todas las actividades favorecen el desarrollo de la atención, la observación y la lógica
+- Más de 200 cuestionarios para resolver con un simpático bolígrafo electrónico
+- Los niños pueden aprender gradualmente los conceptos básicos típicos de la edad preescolar como las formas, los colores, la orientación espacial, los números y las cantidades
+- Un juego con tarjetas y un recorrido didáctico completo y eficaz para divertirse en compañía de Spidey
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTN1Z4Q7{{</world>}}

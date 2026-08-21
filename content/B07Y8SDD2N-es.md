@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Auriculares con licencia official (PS4, PS5)
 - Control deslizante de volumen incorporado
-- Micrófono con cancelación de sonido, que se silencia con un simple giro
 - Auriculares ligeros con cascos que giran 90°
+- Micrófono con cancelación de sonido, que se silencia con un simple giro
+- Auriculares con licencia official (PS4, PS5)
 - Controles deslizantes de acero ajustables y duraderos
 - Tipo de conectividad: Alámbrico
 

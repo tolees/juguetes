@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El popular juego de culto con normas simplificadas.
-- Por el autor Uwe Rosenberg.
 - El juego de mesa de bolsillo.
+- Por el autor Uwe Rosenberg.
+- El popular juego de culto con normas simplificadas.
 - Con bandeja para las judías.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

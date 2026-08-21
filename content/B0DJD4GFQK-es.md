@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto oficial Bandai, óptimo para niños y coleccionistas de Dragon Ball
 - Más de 17 puntos de articulación para posar y recrear escenas de la serie
 - Figura de acción articulada de 17 cm basada en Dragon Ball Daima, la nueva serie de televisión de 2024
+- Producto oficial Bandai, óptimo para niños y coleccionistas de Dragon Ball
 - Accesorios intercambiables incluidos para mayor diversión y autenticidad
 - Diseño inspirado en la versión infantil de Goku, con detalles fieles al anime
 

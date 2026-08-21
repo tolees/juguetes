@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tamaño del puzzle: 69,3 x 49,3 cm
 - Puzzle de 1000 piezas
 - Gran variedad de formas gracias a las piezas moldeadas individualmente, perfecta cohesión gracias a un cartón especialmente diseñado, ajuste perfecto gracias a las cuchillas de troquelado especialmente finas, barniz mate especial para puzzels sin espejo, estructura de lino.
-- Tamaño del puzzle: 69,3 x 49,3 cm
 - SCHMIDT JUEGA Puzzles Premium – con calidad que puedes agarrar
 - Edad recomendada: a partir de 12 años
 

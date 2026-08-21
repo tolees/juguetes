@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- REGLAS SENCILLAS, PARTIDAS RÁPIDAS: Con un sistema de juego fácil de aprender pero con gran profundidad estratégica, disfruta de enfrentamientos directos de 30 minutos. Ideal para sesiones rápidas y competitivas.
 - LUCHA POR EL DESTINO DE LA GALAXIA: Toma el mando de la Alianza Rebelde o el Imperio Galáctico en este emocionante duelo estratégico de cartas, donde cada decisión determinará el futuro del universo Star Wars.
+- EXPERIENCIA PARA 2 JUGADORES: Específicamente diseñado para ofrecer una experiencia equilibrada y emocionante para dos participantes a partir de 12 años, siendo el punto de entrada perfecto a los juegos de deckbuilding.
 - ESTRATEGIA DIRECTA Y ADICTIVA: Tu objetivo principal es localizar y destruir las bases de tu oponente mientras defiendes las tuyas. Planifica tus ataques y gestiona tus recursos con astucia para alcanzar la victoria final.
 - MECÁNICAS DE JUEGO DINÁMICAS: Recluta a tus personajes favoritos de la saga para fortalecer tu mazo. Utiliza el poder de la Fuerza para obtener ventajas tácticas y captura presas para cobrar valiosas recompensas.
-- REGLAS SENCILLAS, PARTIDAS RÁPIDAS: Con un sistema de juego fácil de aprender pero con gran profundidad estratégica, disfruta de enfrentamientos directos de 30 minutos. Ideal para sesiones rápidas y competitivas.
-- EXPERIENCIA PARA 2 JUGADORES: Específicamente diseñado para ofrecer una experiencia equilibrada y emocionante para dos participantes a partir de 12 años, siendo el punto de entrada perfecto a los juegos de deckbuilding.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWRNT2G9{{</world>}}

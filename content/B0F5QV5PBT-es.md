@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🧮 JUEGOS QUE ENSEÑAN: Seis actividades con los Gabby-gatos —contar Gatomonedas, adivinar números con Muffin, seguir ritmos con Bebé Box— fortalecerán cálculo mental, memoria auditiva y sentido del ritmo sin darse cuenta.
 - 🔒 PRIVACIDAD ASEGURADA: El diario solo se abre con su código personal; el compartimento secreto y el marco para fotos reforzarán autonomía y orden mientras protege sus recuerdos más valiosos.
-- 🛡️ DISEÑO VTECH: Carcasa resistente, control de volumen y apagado automático cuidan oídos y pilas; asa integrada y formato compacto hacen que su compañero viaje a cualquier parte.
 - 🎙️ GRABARÁ Y MODIFICARÁ SU VOZ: “Secretos gatunos” graba hasta 10 notas de 40 s y el miau-filtro de Siregata añade efectos divertidos; potencia creatividad, expresión oral y confianza al hablar.
+- 🧮 JUEGOS QUE ENSEÑAN: Seis actividades con los Gabby-gatos —contar Gatomonedas, adivinar números con Muffin, seguir ritmos con Bebé Box— fortalecerán cálculo mental, memoria auditiva y sentido del ritmo sin darse cuenta.
+- 🛡️ DISEÑO VTECH: Carcasa resistente, control de volumen y apagado automático cuidan oídos y pilas; asa integrada y formato compacto hacen que su compañero viaje a cualquier parte.
 - 🎧 MÚSICA Y BAILE: DJ Capucha anima con 10 canciones; tu hijo bailará, marcará compases y descargará energía mientras asocia el aprendizaje con momentos alegres.
 - ✅ VERSIÓN EN ESPAÑOL: Diario secreto “Gatástico” para niños +4 años; contraseña de 4 dígitos, cuaderno de 60 páginas y rotulador incluidos: un lugar privado donde tu peque guardará pensamientos y tesoros con total seguridad.
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de aprender y con gran profundidad estratégica Las reglas son accesibles para nuevos jugadores, pero el sistema de comercio, gestión de mano y optimización de recursos ofrece múltiples caminos hacia la victoria. Ideal para quienes disfrutan juegos de cartas estratégicos y rejugables.
-- Juego de estrategia y comercio con clanes animales Res Publica es un juego de mesa estratégico basado en intercambio de cartas, negociación y construcción de civilizaciones. Reúne clanes animales como zorros, gatos, cuervos, tejones y perros para fundar asentamientos y desarrollar ciudades prósperas.
-- Ilustraciones inmersivas y arte fantasy animal Las cartas ilustradas con animales antropomórficos crean una experiencia visual envolvente. El arte de Jorge Tabanera Redondo aporta personalidad y ambientación de fantasía medieval ideal para amantes de los juegos de mesa temáticos
-- Juego de mesa para grupos y noches de juegos Diseñado para 3 a 5 jugadores, Res Publica ofrece partidas dinámicas de aproximadamente 30 minutos. Perfecto para reuniones familiares, grupos de amigos, sesiones de juegos modernos y aficionados a la estrategia ligera.
 - Construye ciudades y desarrolla tu civilización Combina cartas de civilización como arquitectura, ingeniería, ciencia, escritura y pintura para desbloquear ciudades, bibliotecas y altares. Cada decisión afecta tu progreso cultural y tecnológico durante la partida.
+- Ilustraciones inmersivas y arte fantasy animal Las cartas ilustradas con animales antropomórficos crean una experiencia visual envolvente. El arte de Jorge Tabanera Redondo aporta personalidad y ambientación de fantasía medieval ideal para amantes de los juegos de mesa temáticos
+- Juego de estrategia y comercio con clanes animales Res Publica es un juego de mesa estratégico basado en intercambio de cartas, negociación y construcción de civilizaciones. Reúne clanes animales como zorros, gatos, cuervos, tejones y perros para fundar asentamientos y desarrollar ciudades prósperas.
+- Juego de mesa para grupos y noches de juegos Diseñado para 3 a 5 jugadores, Res Publica ofrece partidas dinámicas de aproximadamente 30 minutos. Perfecto para reuniones familiares, grupos de amigos, sesiones de juegos modernos y aficionados a la estrategia ligera.
+- Fácil de aprender y con gran profundidad estratégica Las reglas son accesibles para nuevos jugadores, pero el sistema de comercio, gestión de mano y optimización de recursos ofrece múltiples caminos hacia la victoria. Ideal para quienes disfrutan juegos de cartas estratégicos y rejugables.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F5X2TGT2{{</world>}}

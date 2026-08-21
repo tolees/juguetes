@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MÓDULOS ELECTRÓNICOS Y MOVIMIENTO CONTINUO: Incorpora dos módulos electrónicos con luces y sonidos que animan el juego.
-- DESARROLLO DE LA IMAGINACIÓN: Multitud de circuitos , diferentes niveles de juego, desarrolla las habilidades motoras , creatividad, lógica e imaginación. Con infinitas combinaciones.
-- CONTENIDO AMPLIADO: Incluye 126 piezas, 2 módulos electrónicos y 10 canicas Marble
-- FÁCIL DE CONSTRUIR: Desarrolla el circuito de pistas con una plantilla base y unas instrucciones por colores que haran divertida la ejecución del circuito. Construye y aprende al mismo tiempo.
-- COMPATIBILIDAD: Compatible con el resto de playsets de la gama Marble Rush
 - LABERINTO GIGANTE CANICAS: Pista interactiva electrónica, para canicas con el que desarrollarán su imaginación uniendo piezas y creando divertidos circuitos por los que circularán la canicas, desafiando a todo tipo de bajadas, curvas y lanzamientos.
+- FÁCIL DE CONSTRUIR: Desarrolla el circuito de pistas con una plantilla base y unas instrucciones por colores que haran divertida la ejecución del circuito. Construye y aprende al mismo tiempo.
+- MÓDULOS ELECTRÓNICOS Y MOVIMIENTO CONTINUO: Incorpora dos módulos electrónicos con luces y sonidos que animan el juego.
 - SORPRENDE Y DIVIERTE: Numerosos pasajes secretos, interruptores y areas de interacción.
 - VTECH CUIDA EL PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclable
+- DESARROLLO DE LA IMAGINACIÓN: Multitud de circuitos , diferentes niveles de juego, desarrolla las habilidades motoras , creatividad, lógica e imaginación. Con infinitas combinaciones.
+- COMPATIBILIDAD: Compatible con el resto de playsets de la gama Marble Rush
+- CONTENIDO AMPLIADO: Incluye 126 piezas, 2 módulos electrónicos y 10 canicas Marble
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08ZM8TC4M{{</world>}}

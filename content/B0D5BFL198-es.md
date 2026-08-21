@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- FIGURAS EXCLUSIVAS – Contiene 1 Enigma exclusivo
 - DISPARA LOS PROYECTILES – Dispara a cualquiera que se acerque o utiliza la trampa en el suelo si consiguen acceder al interior
 - ¡DEFIENDE EL KAZOOM! – Protege el Kazoom de las malvadas manos de los villanos gracias a la astucia del héroe. Abre la torre y activa el sistema de alarma (¡tiene luces y sonidos!)
-- FIGURAS EXCLUSIVAS – Contiene 1 Enigma exclusivo
-- RESUELVE EL ACERTIJO – Debes resolver el acertijo para llegar a la aeronave y escapar con el Kazoom. ¡El destino de Kaboom City está en tus manos!
 - GRAN JUGABILIDAD – Torre de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños. ¡Tiene luces y sonidos!
+- RESUELVE EL ACERTIJO – Debes resolver el acertijo para llegar a la aeronave y escapar con el Kazoom. ¡El destino de Kaboom City está en tus manos!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5BFL198{{</world>}}

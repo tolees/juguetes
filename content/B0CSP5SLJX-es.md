@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
-- Puzzle infantil recomendado a partir de 8 años.
 - 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar la motricidad fina, la memoria visual y la psicomotricidad, además de estimular la curiosidad y la imaginación de niños y adultos.
-- Incluye un sobre de pegamento especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje.
+- Puzzle infantil recomendado a partir de 8 años.
+- 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
 - Número de piezas: 250🧩. Medida aproximada una vez montado: 100 x 70 cm.
+- Incluye un sobre de pegamento especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSP5SLJX{{</world>}}

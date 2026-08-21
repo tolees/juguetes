@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- JUEGO DE CARTAS: Exploding Kittens es un juego de cartas estratégico y humorístico diseñado para 2 a 5 jugadores. El objetivo es evitar a los gatos explosivos mientras se intenta sabotear a los oponentes.
 - 2-5 jugadores | A partir de 7 años | 15 minutos de duración por partida | Autores: Matthew Inman, Elan Lee y Shane Small | Juego en español
-- JUEGO PARA VARIOS: Este juego permite reunir a varias personas, de 2 a 5 jugadores. Podrás pasar buenas veladas en familia o con amigos. Apto para niños a partir de 7 años.
 - EXTENSIÓN: Este juego es una extensión y requiere uno de los juegos básicos Exploding Kittens para poder jugar.
+- JUEGO DE CARTAS: Exploding Kittens es un juego de cartas estratégico y humorístico diseñado para 2 a 5 jugadores. El objetivo es evitar a los gatos explosivos mientras se intenta sabotear a los oponentes.
 - IMPLODING KITTENS: Imploding Kittens es la primera expansión de Exploding Kittens y añade 20 cartas nuevas, la posibilidad de sumar un sexto jugador y un cono de la vergüenza.
+- JUEGO PARA VARIOS: Este juego permite reunir a varias personas, de 2 a 5 jugadores. Podrás pasar buenas veladas en familia o con amigos. Apto para niños a partir de 7 años.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT7TRQX2{{</world>}}

@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Sumará un punto por cada una de esas características, de modo que cada tarjeta podría suponer un máximo de 4 puntos (y un mínimo de 0). Al acabarse las cartas, quien lleve más puntos, gana.
 - Juego de cartas basado en el clásico "Veo, veo". Consiste en colocar todas las cartas boca abajo sobre la mesa y, por turnos, ir cogiendo cada jugador una de las cartas, viéndola solo él, y deberá encontrar un objeto a su alrededor que tenga la mayor cantidad de entre las 4 características que aparecen en la carta.
 - Contiene 100 tarjetas.
-- Con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de manera responsable.
 - A partir de 2 jugadores.
+- Con certificación FSC, que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de manera responsable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DH4VSJ96{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ahora con Time’s Up! Kids las cartas vienen sin texto, solo con imágenes.
-- En la primera, los jugadores pueden describir las cartas para conseguir que sus compañeros las adivinen
 - pero en la segunda ronda solo se permiten gestos, no se pueden hacer ningún sonido.
-- De 4 a 12 jugadores a partir de 4 años
+- En la primera, los jugadores pueden describir las cartas para conseguir que sus compañeros las adivinen
 - El juego dura dos rondas con todos los jugadores usando el mismo conjunto de cartas en ambas rondas.
 - Time’s Up! Kids forma parte de la gran familia de juegos Time’s Up!
+- De 4 a 12 jugadores a partir de 4 años
+- Ahora con Time’s Up! Kids las cartas vienen sin texto, solo con imágenes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LY0PTJ7{{</world>}}

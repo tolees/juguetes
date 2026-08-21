@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fomenta la imaginación, la motricidad y las primeras habilidades cotidianas a través de experiencias de pago y compra lúdicas
+- Cuenta con funciones como ranura para tarjeta de crédito, pago sin contacto y efectos de luz y sonido realistas
+- Dimensiones: 20 cm x 12 cm x 5 cm | Apto para niños a partir de 3 años | Pilas necesarias: 6x R03-AAA (Micro) - No incluidas
 - El smartphone tiene 12 botones iluminados, flash y un interruptor de encendido/apagado perfecto para juegos de rol
 - El terminal PoS con teléfono móvil infantil hace que comprar sea una experiencia divertida
-- Dimensiones: 20 cm x 12 cm x 5 cm | Apto para niños a partir de 3 años | Pilas necesarias: 6x R03-AAA (Micro) - No incluidas
-- Cuenta con funciones como ranura para tarjeta de crédito, pago sin contacto y efectos de luz y sonido realistas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F93NVPR5{{</world>}}

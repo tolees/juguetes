@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - REGALOS NIÑOS 8 AÑOS O MÁS: Este es un perfecto regalo niño 8 años o más dado que además de ser un juego divertido, es valido para niños y adultos.
-- JUEGOS MESA: En este juego de cartas tendréis que tener una conexión con los demás jugadores para elegir a la misma súper criatura
 - 3 A 8 JUGADORES: Quién por qué es un juego de mesa desde 3 a 8 jugadores, lo cual lo convierte en uno de los juegos de mesa niños 8 años perfectos para jugar con tus amigos o en familia.
+- JUEGOS MESA: En este juego de cartas tendréis que tener una conexión con los demás jugadores para elegir a la misma súper criatura
 - JUEGOS NIÑOS 8 AÑOS O MÁS: Este es un juego de mesa 8 años o más en el que los niños y los adultos se lo pasaran en grande, dado que es un juego que vale tanto para mayores como para pequeños.
 - 20 MINUTOS: Es uno de los juegos educativos en los que las partidas tienen una duración de 20 minutos aproximadamente. Es un juego de mesa dinámico además de ser uno de los juegos educativos.
 

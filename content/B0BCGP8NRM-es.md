@@ -29,13 +29,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - producto 1: Género: misterio
-- producto 1: Número jugadores: 1-4
+- producto 2: Tipo de producto: juego de mesa
+- producto 1: Producto de calidad
 - producto 1: A partir de 12 años
+- producto 1: Número jugadores: 1-4
+- producto 2: Edad recomendada: 10 años y más
 - producto 2: Número de jugadores: 1 - 4
 - producto 2: Duración aproximada de la partida: 45 - 90 minutos
-- producto 1: Producto de calidad
-- producto 2: Tipo de producto: juego de mesa
-- producto 2: Edad recomendada: 10 años y más
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BCGP8NRM{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La estatua está esculpida para capturar un momento dramático, con detalles finos y partes translúcidas acentuadas.
-- Ahora el monstruoso antagonista Janenba se une a la serie FiguartsZERO.
-- «Dragon Ball Z Fusion Reborn» fue creada en 1995 para conmemorar el 15 aniversario de la serie.
-- Solo el producto con etiqueta oficial Bandai Namco ha sido probado a fondo por razones de seguridad y cumple con todas las normas de seguridad de productos de consumo.
 - Contenido del juego: cuerpo principal (con soporte) y espada.
+- Solo el producto con etiqueta oficial Bandai Namco ha sido probado a fondo por razones de seguridad y cumple con todas las normas de seguridad de productos de consumo.
+- «Dragon Ball Z Fusion Reborn» fue creada en 1995 para conmemorar el 15 aniversario de la serie.
+- Ahora el monstruoso antagonista Janenba se une a la serie FiguartsZERO.
+- La estatua está esculpida para capturar un momento dramático, con detalles finos y partes translúcidas acentuadas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8M6LY1T{{</world>}}

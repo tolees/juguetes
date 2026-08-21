@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - UNICORNIO QUE REACCIONA CON LUCES Y SONIDOS CUANDO LO TOCAS: Al igual que Sophia, las niñas pueden vincularse con Estrella. Estrella reacciona cuando la tocas con luces mágicas y sonidos de unicornio (canciones en inglés, e instrumentales). Funciona con 2 pilas AA
-- REGALOS NIÑA 4 AÑOS +: Los juguetes de Unicorn Academy son una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 4 años disfrutarán creando aventuras mágicas con los personajes de Academia Unicornio
 - INCLUYE: 1 unicornio interactivo Estrella Wildstar, 1 montura extraíble, 1 brida extraíble, 1 guía de inicio rápido, 1 guía de instrucciones
 - DESCUBRE MÁS JUEGOS: Una vez completado el vínculo, descubre otra canción, ilumina la luz defensiva, haz que el cuerno brille con la luz guía y mucho más. Coloca a Sophia sobre Estrella (la muñeca se vende por separado) y cabalga hacia la aventura
 - JUGUETES NIÑA 4 AÑOS +: La figura interactiva del unicornio Estrella está diseñada para niños y niñas a partir de 4 años. Fácil de manejar, e idéntico a tu personaje favorito de Unicorn Academy, este unicornio garantiza horas de diversión
 - VINCÚLATE CON ESTRELLA: Acaríciale la cara, aprieta el cuerno, tira de las riendas… Sus marcas brillarán con los colores del arcoíris cuando confíe en ti. Presiona la cara de Estrella para completar el vínculo y escucharás la canción de la serie
+- REGALOS NIÑA 4 AÑOS +: Los juguetes de Unicorn Academy son una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 4 años disfrutarán creando aventuras mágicas con los personajes de Academia Unicornio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWLLBN1P{{</world>}}

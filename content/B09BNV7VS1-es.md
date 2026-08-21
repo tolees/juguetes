@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este LEGO para adultos ofrece una creativa, relajante y gratificante experiencia a medida que construyes
-- Este set de manualidades para adultos cuenta con 9 plantas decorativas artificiales cada una con su propia maceta hecha con ladrillos LEGO
 - Cada una de ellas tiene diferentes formas, texturas y colores, haciendo que estas plantas artificiales capten la esencia de las suculentas reales, ¡sin necesidad de regarlas!
-- Hay 3 sets de piezas de construcción distintos para las 9 plantas suculentas diferentes, así podrás disfrutar de este proyecto en familia o con amigos
 - Este set forma parte de la Colección LEGO Botanical, una gama de sets de construcción diseñados específicamente para adultos e inspirados en plantas y flores naturales
 - Customiza el diseño de este set de construcción a tu gusto, combina las 9 plantas, o usa cada una de ellas por separado, ¡son una excelente decoración para la casa o la oficina!
+- Este set de manualidades para adultos cuenta con 9 plantas decorativas artificiales cada una con su propia maceta hecha con ladrillos LEGO
+- Hay 3 sets de piezas de construcción distintos para las 9 plantas suculentas diferentes, así podrás disfrutar de este proyecto en familia o con amigos
+- Este LEGO para adultos ofrece una creativa, relajante y gratificante experiencia a medida que construyes
 - Esta maqueta de plantas LEGO son un regalo muy original para mujeres y hombres, seres queridos o para esa persona especial, como regalo de aniversario o cumpleaños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

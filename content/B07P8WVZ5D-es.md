@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juega la carta especial FLIP para darles la vuelta a todas las cartas, incluidas las de la pila para robar, y descubrir una baraja de números y colores completamente nuevos al otro lado.
-- UNO FLIP! también incluye cartas nuevas especiales, como Roba cinco o Todos pierden el turno.
-- Este divertido juego familiar de cartas es perfecto para adultos, adolescentes y niños y niñas a partir de 7 años.
 - UNO FLIP! es el juego de cartas clásico que ya conoces con un giro nuevo y emocionante.
 - La lata de UNO FLIP! incluye 112 tarjetas e instrucciones en una lata resistente, ideal para su almacenamiento y transporte.
+- UNO FLIP! también incluye cartas nuevas especiales, como Roba cinco o Todos pierden el turno.
+- Este divertido juego familiar de cartas es perfecto para adultos, adolescentes y niños y niñas a partir de 7 años.
 - Una baraja con cartas a doble cara y una carta especial FLIP que le da un giro competitivo a la versión clásica.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

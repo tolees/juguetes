@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juego divertido que garantiza horas de diversión.
+- Juego de 2 a 4 jugadores
+- Reproducción del clásico juego de los años 80
 - Juego de mesa "La ruta del tesoro"
 - Compra y vende posesiones a lo largo del Mediterráneo
-- Reproducción del clásico juego de los años 80
-- Juego de 2 a 4 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DD76WDL{{</world>}}

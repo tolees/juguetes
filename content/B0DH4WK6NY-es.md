@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libreta con encuadernación cosida con apertura de 180º. En su portada encontramos un colorido arcoíris y, en el lateral, un pequeño mono de peluche que se agarra a la libreta con los imanes que incorpora en su interior.
 - Características: Material del peluche: 100% poliéster. Encuadernación cosida con apertura de 180º. Con 192 páginas pautadas de 100gsm. Certificación FSC.
 - Cuenta con 192 páginas pautadas de 100gsm. Con certificación FSC, que garantiza que ha sido fabricada con papel proveniente de bosques gestionados de manera responsable.
+- Libreta con encuadernación cosida con apertura de 180º. En su portada encontramos un colorido arcoíris y, en el lateral, un pequeño mono de peluche que se agarra a la libreta con los imanes que incorpora en su interior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DH4WK6NY{{</world>}}

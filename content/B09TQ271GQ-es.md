@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
-- ¡LLEGAN LOS DINOSAURIOS A KABOOM CITY! – El Superdino V-Rex es el aliado de los villanos. Sus articulaciones le permiten moverse a toda velocidad para huir de los héroes.
-- ¡A LA AVENTURA! – Aprieta la cola del dinosaurio y abrirá sus fauces, y si presionas debajo, ¡sus ojos se iluminarán y rugirá como nunca! ¿Podrá ganar a los héroes? ¡Tú decides!
 - FIGURA EXCLUSIVA – Contiene 1 Kazoom Kid y 1 SuperThing villano exclusivos.
+- DIVERSIÓN ASEGURADA – Los SuperThings son objetos cotidianos que han cobrado vida y se han transformado en superhéroes y villanos, y viven todos en Kaboom City. Descubre todas sus aventuras en el canal de YouTube de Magic Box en español.
+- ¡A LA AVENTURA! – Aprieta la cola del dinosaurio y abrirá sus fauces, y si presionas debajo, ¡sus ojos se iluminarán y rugirá como nunca! ¿Podrá ganar a los héroes? ¡Tú decides!
+- ¡LLEGAN LOS DINOSAURIOS A KABOOM CITY! – El Superdino V-Rex es el aliado de los villanos. Sus articulaciones le permiten moverse a toda velocidad para huir de los héroes.
 - GRAN JUGABILIDAD – Dinosaurio de gran jugabilidad con múltiples acciones para desarrollar la imaginación de los más pequeños.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

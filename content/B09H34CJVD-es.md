@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 jugadores --- Duración del juego: 30 min
-- Después del Sr. Jack, Ludovic Maublanc y Bruno Cathala nos complace la continuación de las aventuras de Jack Destripador, exiliado a la Gran Manzana en Mr Jack en Nueva York.
-- A partir de 10 años
-- Mr Jack en Nueva York es un juego completo, y no es necesario conocer o poseer títulos anteriores para jugarlos. Sin embargo, se recomienda a los jugadores que descubran el universo del juego que comiencen con la versión básica Mr Jack, siendo esta suite más compleja y estratégica. Con Mr Jack en Nueva York, descubre un tablero de juego modular, ocho nuevos personajes con poderes increíbles e intenta escapar en barco
 - Sospechoso de ser el terrible criminal, Francis J. Tumblety, un médico charlatán, es detenido por la policía de Londres y luego puesto en libertad bajo fianza. Luego huyó a Nueva York, donde las autoridades locales ven su llegada con un ojo muy malo.Algunos testimonios informan de su presencia en Manhattan, y se cometen crímenes con un procedimiento similar a los de Londres.La policía luego apela a los ciudadanos más prominentes de la ciudad para ayudarlo en su investigación. ¿Es Francis J.Tumblety realmente Jack? De lo contrario, ¿en qué otra apariencia se esconde? Esas son las apuestas del Sr. Jack en Nueva York.
+- 2 jugadores --- Duración del juego: 30 min
+- Mr Jack en Nueva York es un juego completo, y no es necesario conocer o poseer títulos anteriores para jugarlos. Sin embargo, se recomienda a los jugadores que descubran el universo del juego que comiencen con la versión básica Mr Jack, siendo esta suite más compleja y estratégica. Con Mr Jack en Nueva York, descubre un tablero de juego modular, ocho nuevos personajes con poderes increíbles e intenta escapar en barco
+- A partir de 10 años
+- Después del Sr. Jack, Ludovic Maublanc y Bruno Cathala nos complace la continuación de las aventuras de Jack Destripador, exiliado a la Gran Manzana en Mr Jack en Nueva York.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09H34CJVD{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hasta 5 jugadores podrán disfrutar de este eurogame de dificultad media de colocación de trabajadores y construcción de motor
 - Conviértete en el mayor gobernador del espacio conocido viajando, conquistando y comerciando
 - Primer eurogame espacial diseñado por Danielle Tascini (Los Viajes de Marco Polo, Tzolkin) e ilustrado por Edu Valls (Bitoku, 3 Ring Circus)
+- Hasta 5 jugadores podrán disfrutar de este eurogame de dificultad media de colocación de trabajadores y construcción de motor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F695VV2N{{</world>}}

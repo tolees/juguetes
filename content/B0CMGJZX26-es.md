@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Haz la maleta y prepárate para el despegue: este Conjunto de juego de Kitty Airways de Polly Pockets viene con dos muñequitas y 19 accesorios, incluida una gatita.
-- Los niños y las niñas pueden representar situaciones, como guardar el equipaje en los compartimentos superiores, elegir un asiento en el avión y pedir una bebida del carrito de aperitivos.
-- Puedes plegar el avión y llevártelo contigo a donde quieras. Ideal para niños y niñas a partir de cuatro años, especialmente para aquellos a los que les encanta viajar.
-- Las muñecas pueden utilizar el baño antes de dirigirse a la cabina principal para una actuación.
-- Canta algunas melodías geniales en el escenario, monta un conjunto de guitarras o reproduce canciones desde la cabina de DJ. A la gatita le encanta ver todo desde su columpio.
-- Las muñecas pueden pilotar el avión de gatito desde la cabina o abrir la nave de varios niveles para jugar como pasajeras.
 - Cuando el avión aterrice, dirígete a la zona de recogida de equipaje giratoria para recoger el equipaje.
+- Canta algunas melodías geniales en el escenario, monta un conjunto de guitarras o reproduce canciones desde la cabina de DJ. A la gatita le encanta ver todo desde su columpio.
+- Puedes plegar el avión y llevártelo contigo a donde quieras. Ideal para niños y niñas a partir de cuatro años, especialmente para aquellos a los que les encanta viajar.
+- Las muñecas pueden pilotar el avión de gatito desde la cabina o abrir la nave de varios niveles para jugar como pasajeras.
+- Los niños y las niñas pueden representar situaciones, como guardar el equipaje en los compartimentos superiores, elegir un asiento en el avión y pedir una bebida del carrito de aperitivos.
+- Haz la maleta y prepárate para el despegue: este Conjunto de juego de Kitty Airways de Polly Pockets viene con dos muñequitas y 19 accesorios, incluida una gatita.
+- Las muñecas pueden utilizar el baño antes de dirigirse a la cabina principal para una actuación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMGJZX26{{</world>}}

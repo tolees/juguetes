@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Circuito escala 1:43 de carreras ampliable con puente: Una pista ideal para iniciación, con la posibilidad de ampliar a posteriori con los accesorios Compact.
 - Scalextric Compact Kids Race: Disfruta de la última tecnología de Scalextric en un circuito de carreras de 2,3 metros de pista en forma de ocho.
 - Permite iniciarte en el mundo de la velocidad y la competición. ¡Adelanta a tu compañero y sé el primero en pasar por la meta!
-- Circuito escala 1:43 de carreras ampliable con puente: Una pista ideal para iniciación, con la posibilidad de ampliar a posteriori con los accesorios Compact.
-- Mandos estándar cómodos con cable. Perfecto para iniciarse en la competención de carreras slot.
 - Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
+- Mandos estándar cómodos con cable. Perfecto para iniciarse en la competención de carreras slot.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2YZYT3C{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
 - 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales, éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
 - 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar la motricidad fina, la memoria visual y la psicomotricidad, además de estimular la curiosidad y la imaginación de niños y adultos.
 - Puzzles infantiles recomendados a partir de 3 4 5 años.
+- Compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños
 - Estos 2 puzzles están compuestos por grandes piezas, perfectamente acabadas para que sea sencilla y segura su manipulación por los niños. Número de piezas por puzzle: 48. Tamaño aproximado del puzzle montado: 28 x 20 cm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

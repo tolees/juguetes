@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El barco flota para la bañera
-- Lleva un cilindro giratorio con imágenes para jugar y aprender
-- Juguete para niños a partir de 1 año para estimular su desarrollo y juego
 - La figura mide 9 cm, compuesta de 2 partes intercambiables y su cara tiene 3 expresiones diferentes
+- Juguete para niños a partir de 1 año para estimular su desarrollo y juego
+- Lleva un cilindro giratorio con imágenes para jugar y aprender
 - Set de un barco con 1 figura del capitán
 
 [🛒 Aquí!!!]({{< param buyurl >}})

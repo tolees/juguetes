@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lavable a mano
+- Peluche suave y acogedor
 - Peluche de alta calidad de 32 cm
 - Peluche de la popular serie de televisión y película Jurassic World
-- Peluche suave y acogedor
-- Lavable a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9YDVFXN{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 VEHÍCULOS EXTRA: Localiza la cápsula de escape INT-4 del Señor de la Guerra del Remanente Imperial en la zona de carga, despliega las alas para volar y abre la compuerta trasera para coger la moto speeder
-- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva aventura creativa en la que podrán acercar y girar sus sets siguiendo instrucciones 3D, consultar su progreso y más
 - KIT DE MAQUETAS DE AT-AT: Recrea el AT-AT del Remanente Imperial con INT-4 DE Star Wars: The Mandalorian and Grogu con este juguete de construcción para niños y niñas a partir de 10 años
-- EXPLORA LA GALAXIA: Descubre más sets coleccionables (a la venta por separado) inspirados en Star Wars: The Mandalorian and Grogu para revivir épicas escenas o crear historias originales
+- 2 VEHÍCULOS EXTRA: Localiza la cápsula de escape INT-4 del Señor de la Guerra del Remanente Imperial en la zona de carga, despliega las alas para volar y abre la compuerta trasera para coger la moto speeder
+- DIVERTIDOS DETALLES: Coloca la cabeza y las patas del caminante AT-AT, activa los 2 cañones automáticos y abre la cabina, los paneles laterales y las 2 escotillas superiores para jugar en el interior
 - REGALO DE STAR WARS PARA PEQUES: Este kit de construcción es un óptimo regalo de cumpleaños para niños y niñas a partir de 9 años y para cualquier fan de The Mandalorian and Grogu
 - MINIFIGURAS Y FIGURAS LEGO STAR WARS: El Mandaloriano, el Señor de la Guerra del Remanente Imperial, un piloto de AT-AT, un soldado de las nieves, 2 soldados de las nieves del Remanente Imperial y una figura de Grogu
-- DIVERTIDOS DETALLES: Coloca la cabeza y las patas del caminante AT-AT, activa los 2 cañones automáticos y abre la cabina, los paneles laterales y las 2 escotillas superiores para jugar en el interior
+- UNA DIVERTIDA FORMA DE CONSTRUIR: La app LEGO Builder guiará a los peques a través de una intuitiva aventura creativa en la que podrán acercar y girar sus sets siguiendo instrucciones 3D, consultar su progreso y más
+- EXPLORA LA GALAXIA: Descubre más sets coleccionables (a la venta por separado) inspirados en Star Wars: The Mandalorian and Grogu para revivir épicas escenas o crear historias originales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GGSJ6BVJ{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Divertido juego de mesa con 3 tipos de juego: Mimo Clásico, Mimo Reto y Mimo Crono
 - Tiene 4 categorías para imitar: objeto, animal, profesión o acción
 - Contiene: tablero de juego con la ruleta, base Mimo Locura, 200 tarjetas con personajes y objetos a imitar e instrucciones
-- Divertido juego de mesa con 3 tipos de juego: Mimo Clásico, Mimo Reto y Mimo Crono
 - Recomendado a partir de 6 años y de 2 a 6 jugadores
 - El juego de mímica más alocado
 

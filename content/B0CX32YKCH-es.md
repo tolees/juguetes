@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un eurogame estratégico en caja pequeña, con un precio reducido, pero con mucho contenido
-- Conviértete en el mejor extractor de energía geotérmica en Salton Sea, un lugar único en el planeta
 - Su mecánica de cartas de doble uso, dinero o acciones, le da un giro de tuerca especialmente original
 - MECÁNICAS: Colocación de trabajadores, Contratos, Gestión de mano
+- Conviértete en el mejor extractor de energía geotérmica en Salton Sea, un lugar único en el planeta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX32YKCH{{</world>}}

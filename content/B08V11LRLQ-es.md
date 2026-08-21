@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las piezas para divertirse jugando incluyen: silla de montar, brida, comedero, manta, cepillo, cepillo de aseo, 2 premios de zanahoria y 2 premios de manzana.
-- ¡Los niños pueden aprender a alimentar, asear y cuidar los caballos con el conjunto de juego del granero!
 - El conjunto de juego incluye un granero grande con 4 zonas de juego: establo, casa club, zona de alimentación y aseo, columpio de neumático y caballo Spirit (aprox. 20,32cm).
+- Las piezas para divertirse jugando incluyen: silla de montar, brida, comedero, manta, cepillo, cepillo de aseo, 2 premios de zanahoria y 2 premios de manzana.
 - Las niñas pueden recrear la experiencia de juego de cuidar los caballos con divertidos detalles como un columpio-neumático que también funciona como ascensor con la que una muñeca (se vende por separado) puede llegar a la casa club, una verja que se abre, ganchos para colgar objetos, montar la silla y la brida en Spirit ¡y mucho más!
+- ¡Los niños pueden aprender a alimentar, asear y cuidar los caballos con el conjunto de juego del granero!
 - ¡Forma parte de la amistad, el coraje y la aventura con la película animada Spirit Untamed de DreamWorks!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

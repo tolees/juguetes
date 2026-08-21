@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Asmodee Jungle Speed Donkey Kong: Juego de destreza trepidante para niños y Adultos a Partir de 8 años de 2 a 10 Jugadores duración de la Partida: 15 Minutos español'
-date: 2026-06-25 05:38:51
+title: 'Asmodee Jungle Speed Donkey Kong: Juego de destreza trepidante'
+date: 2026-08-21 10:06:55
 image: 'https://m.media-amazon.com/images/I/51aoUtN9Q9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FN8ZM3K4-es Asmodee Jungle Speed Donkey Kong: Juego de destreza...'
 sku: 'B0FN8ZM3K4-es'
 tags: [ 'asmodee','🇪🇸', ]
-actualPrice: 18.49 EUR
+actualPrice: 18.29 EUR
 currency: EUR
-price: 18.49
+price: 18.29
 comparePrice: 25.99 EUR
-prodname: 'Asmodee Jungle Speed Donkey Kong: Juego de destreza trepidante para niños y Adultos a Partir de 8 años de 2 a 10 Jugadores duración de la Partida: 15 Minutos español'
+prodname: 'Asmodee Jungle Speed Donkey Kong: Juego de destreza trepidante'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FN8ZM3K4/?tag=tolees-21'
-descuento: '28.86'
-average: '20.301111111111'
+descuento: '29.63'
+average: '20.0999999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DIVERSIÓN A RITMO TREPIDANTE: Jungle Speed es un emocionante juego de destreza en el que los reflejos rápidos y una vista aguda son fundamentales para alzarse con la victoria.
 - DIVERSIÓN FAMILIAR GARANTIZADA: Perfecto para toda la familia, este juego es ideal para niños y adultos. Edad recomendada: 7 años en adelante.
 - PON A PRUEBA TUS REFLEJOS: Busca los símbolos iguales y sé el más rápido en coger el plátano. Pero ten cuidado, ¡si lo coges en el momento equivocado podrías perder tu turno!
 - TOP VENTAS: ¡ahora con nuevo modo de juego nunca visto!
 - DONKEY KONG: Esta edición especial de Donkey Kong del universo Nintendo incluye componentes exclusivos y una mecánica de juego única.
-- DIVERSIÓN A RITMO TREPIDANTE: Jungle Speed es un emocionante juego de destreza en el que los reflejos rápidos y una vista aguda son fundamentales para alzarse con la victoria.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FN8ZM3K4{{</world>}}

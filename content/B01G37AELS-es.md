@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - USO: Bañera para lavar o refrescar al gato durante la época de calor
-- Mantenimiento: tejido plástico fácil de limpiar
 - Juguetes: dos juguetes incluidos; el fondo interior iridiscente aumenta la intensidad de los reflejos del agua y atrae aún más la curiosidad del gato
-- Dimensiones: 30 x 10 cm
+- Mantenimiento: tejido plástico fácil de limpiar
 - Plegable: piscina plegable para gatos, fácil de transportar y almacenar
+- Dimensiones: 30 x 10 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01G37AELS{{</world>}}
