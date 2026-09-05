@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'LEGO City Tren de Pasajeros de Alta Velocidad - Tren de Juguete Teledirigido - Luces 2 Vagones 24 Tramos de Vía y 6 Minifiguras - Regalo de Cumpleaños para Niños y Niñas de 7+ Años 60337'
+date: 2026-09-01 11:45:55
+image: 'https://m.media-amazon.com/images/I/51N-hjrDYWL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09QFJSNJW-es LEGO City Tren de Pasajeros de Alta Velocidad - Tren de...'
+sku: 'B09QFJSNJW-es'
+tags: [ 'lego','🇪🇸', ]
+actualPrice: 119.95 EUR
+currency: EUR
+price: 119.95
+comparePrice: 159.99 EUR
+prodname: 'LEGO City Tren de Pasajeros de Alta Velocidad - Tren de Juguete Teledirigido - Luces 2 Vagones 24 Tramos de Vía y 6 Minifiguras - Regalo de Cumpleaños para Niños y Niñas de 7+ Años 60337'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B09QFJSNJW/?tag=tolees-21'
+descuento: '25.03'
+average: '134.707331670819'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- JUEGO DE ROL: Los niños pueden jugar a esperar en el andén al tren aerodinámico moderno, subir al coche cafetería y tomar algo o acudir al coche de pasajeros donde hay espacio para equipaje y una bicicleta
+- FUNCIONES INTERACTIVAS: Este tren de juguete y sus luces delanteras regulables se pueden controlar con el control remoto incluido o a través de un dispositivo inteligente con la app LEGO Powered Up
+- Este set LEGO City es un regalo estrella de Reyes Magos, Navidad o en cualquier ocasión para fans de los vehículos modernos y para niños de 7 años en adelante amantes de los trenes de juguete
+- 6 MINIFIGURAS LEGO: 4 pasajeros, un camarero y un maquinista, además de un ordenador, un teléfono, una bici de juguete y un casco, silla de ruedas, maleta, mochila, un cruasán y un perrito caliente
+- Este tren de LEGO viene con instrucciones paso a paso fáciles de seguir para cada modelo, para que los peques puedan construir este juguete teledirigido con confianza
+- ACCESORIOS DIVERTIDOS: El tren cuenta con un coche cafetería, un coche de pasajeros y una plataforma de estación con un banco, un árbol y un letrero, además de 24 vías LEGO; 16 curvas y 8 rectas
+- TREN DE JUGUETE CON CONTROL REMOTO: Este divertido set LEGO City cuenta con un moderno tren de juguete teledirigido, con faros delanteros regulables que funcionan y tecnología LEGO Powered Up
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09QFJSNJW{{</world>}}

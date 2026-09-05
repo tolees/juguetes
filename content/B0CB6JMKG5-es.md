@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Barbie Muñecas Sirenas Juguetes de Sirena con Pelo de fantasía Diadema corpiño de Conchas y Cola de Colores - para niños y niñas + 3 años HRR13'
+date: 2026-08-06 19:22:01
+image: 'https://m.media-amazon.com/images/I/31waBngNFCL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CB6JMKG5-es Barbie Muñecas Sirenas Juguetes de Sirena con Pelo de...'
+sku: 'B0CB6JMKG5-es'
+tags: [ 'barbie','juguetes','🇪🇸', ]
+actualPrice: 11.86 EUR
+currency: EUR
+price: 11.86
+comparePrice: 14.99 EUR
+prodname: 'Barbie Muñecas Sirenas Juguetes de Sirena con Pelo de fantasía Diadema corpiño de Conchas y Cola de Colores - para niños y niñas + 3 años HRR13'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CB6JMKG5/?tag=tolees-21'
+descuento: '20.88'
+average: '9.43'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Las muñecas de fantasía de Barbie, desde princesas y sirenas hasta unicornios y mucho más, son un regalo fantástico para niños y niñas.
+- Los niños y las niñas pueden descubrir todas las muñecas con estilo de unicornio de la colección para que les inspiren a crear historias sobre la amistad y a imaginar mundos fantásticos.
+- Los accesorios de fantasía, como la cola y la diadema de unicornio de quita y pon, inspiran un sinfín de aventuras y diversión.
+- ¡Descubre un mundo de fantasía y aventuras con esta colección de ensueño de muñecas Barbie unicornio, inspiradas en Barbie: A Touch of Magic!
+- Cada muñeca Barbie tiene el pelo de color de fantasía y lleva un corpiño en tonos degradados, una falda estampada y botas brillantes hasta la rodilla.
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CB6JMKG5{{</world>}}
