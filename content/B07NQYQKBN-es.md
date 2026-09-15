@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 75 piezas
-- Madera de haya certificada FSC 100%
-- Bloques de madera multicolor, 25 mm
 - Fabricado en Alemania
+- Bloques de madera multicolor, 25 mm
+- Madera de haya certificada FSC 100%
 - Para niños a partir de 1 año
+- 75 piezas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NQYQKBN{{</world>}}

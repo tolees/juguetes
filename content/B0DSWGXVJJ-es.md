@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Un auténtico destacado para tu casa!
-- Tu artículo favorito de EMP!
 - Merch para fans y divertido
+- Tu artículo favorito de EMP!
 - Fan merch, Marvel, Película
 - ¡Funko Pop! con las siguientes características:
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto distribuido oficialmente en España por Bizak; servición de atención al cliente disponible todo el año
-- Capsulas sorpresas con un vehículo retrofricción en su interior, cual te tocara - será Mario y su vehículo plateado
-- Pequeños vehículos con sus respectivos personajes de Mario Kart; realizados con óptimo nivel de detalle; se desplazan a toda velocidad
 - La siguiente información se aplica a cada unidad del paquete
+- Pequeños vehículos con sus respectivos personajes de Mario Kart; realizados con óptimo nivel de detalle; se desplazan a toda velocidad
+- Capsulas sorpresas con un vehículo retrofricción en su interior, cual te tocara - será Mario y su vehículo plateado
 - Vehículos Mario Kart con un mecanismo de retrofricción
+- Producto distribuido oficialmente en España por Bizak; servición de atención al cliente disponible todo el año
 - Hay 10 modelos diferentes para coleccionar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

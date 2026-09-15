@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DIVERSIÓN ESTRATÉGICA PARA TODOS: Esta edición mantiene la esencia dinámica de la exitosa saga Cortex, siendo el juego de mesa ideal para disfrutar en familia o con amigos a partir de los 8 años.
-- OCHO DESAFÍOS MENTALES VARIADOS: Pon a prueba tus capacidades cognitivas con una amplia gama de minijuegos que incluyen razonamiento, memoria, observación y rapidez en cada carta.
-- PARTIDAS RÁPIDAS Y FORMATO RENOVADO: Con un diseño actualizado y sesiones de juego de apenas 15 minutos, es el entretenimiento perfecto para cualquier reunión social o para llevar de viaje gracias a su tamaño compacto.
 - JUEGO SOCIAL MULTILENGUAJE: Diseñado para grupos de 2 a 6 jugadores, esta edición bilingüe en español y portugués garantiza risas, competitividad sana y una gran rejugabilidad en cada ronda.
+- PARTIDAS RÁPIDAS Y FORMATO RENOVADO: Con un diseño actualizado y sesiones de juego de apenas 15 minutos, es el entretenimiento perfecto para cualquier reunión social o para llevar de viaje gracias a su tamaño compacto.
+- OCHO DESAFÍOS MENTALES VARIADOS: Pon a prueba tus capacidades cognitivas con una amplia gama de minijuegos que incluyen razonamiento, memoria, observación y rapidez en cada carta.
+- DIVERSIÓN ESTRATÉGICA PARA TODOS: Esta edición mantiene la esencia dinámica de la exitosa saga Cortex, siendo el juego de mesa ideal para disfrutar en familia o con amigos a partir de los 8 años.
 - ESTIMULACIÓN CEREBRAL Y AGILIDAD: Super Cortex propone retos apasionantes que exigen el máximo de tu ingenio mientras compites por ser el más rápido de la mesa en resolver cada enigma visual.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

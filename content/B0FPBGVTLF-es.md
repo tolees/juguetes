@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluye: parche de reparación para posibles poros o arañazos debido al uso
 - Edad recomendada: a partir de 14 años
-- Dimensiones y capacidad: 198x117x30 cm, soporta hasta 100 kg y 1 persona
 - Diseño sepia: estructura hinchable con forma realista, color rosado y detalles en relieve
 - Segura y cómoda: incluye 2 asas de sujeción para mayor estabilidad en el agua
+- Dimensiones y capacidad: 198x117x30 cm, soporta hasta 100 kg y 1 persona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPBGVTLF{{</world>}}

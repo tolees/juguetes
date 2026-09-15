@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🙋‍♂️ REPÚBLICA BANANERA GAMES diseñamos en España juegos de mesa para que lo petes en tus fiestas y reuniones
 - 😍 JUEGO DE MESA PARTY FÁCIL 20-40 min +16 años uno de los más divertidos juegos de beber
+- 🙋‍♂️ REPÚBLICA BANANERA GAMES diseñamos en España juegos de mesa para que lo petes en tus fiestas y reuniones
 - ✅ 200 PREGUNTAS calientes y de amigos abren caso policial si no te ries, seras un meme
-- 🎁 REGALO ORIGINAL para hombre o mujer ya sea pareja o amigo/a
 - 😂 RISAS Y DIVERSIÓN el mejor de los juegos de mesa adulto para reírte con tus amigos, listos para una batalla de mente y genios
+- 🎁 REGALO ORIGINAL para hombre o mujer ya sea pareja o amigo/a
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN3VNJQ1{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El comodín Robo por partida doble hace que dos personas tengan que robar a la vez.
-- La regla Partida rápida permite a los jugadores jugar una carta fuera de turno, ¡si son lo suficientemente rápidos!
+- Con la carta ¡Apunten, fuego!, todos los jugadores deben señalarse unos a otros y, a continuación, ¡cada jugador debe robar tantas cartas como dedos le señalen!
 - Perfecto para fiestas y grupos grandes, ¡el juego UNO Party es un divertido regalo para los organizadores de fiestas de todo el mundo!
+- ¡Que no pare la fiesta con el juego de cartas UNO Party!
+- La regla Partida rápida permite a los jugadores jugar una carta fuera de turno, ¡si son lo suficientemente rápidos!
+- El comodín Robo por partida doble hace que dos personas tengan que robar a la vez.
 - Con el comodín Pila salvaje, los jugadores tendrán que hacer coincidir el color de las cartas hasta que uno de los dos no pueda echar más, entonces ¡se quedará con todas!
 - UNO Party es idéntico al clásico, pero con reglas especiales diseñadas para grupos grandes, ¡de 6 a 14 jugadores!
-- ¡Que no pare la fiesta con el juego de cartas UNO Party!
-- Con la carta ¡Apunten, fuego!, todos los jugadores deben señalarse unos a otros y, a continuación, ¡cada jugador debe robar tantas cartas como dedos le señalen!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWPJLKBQ{{</world>}}

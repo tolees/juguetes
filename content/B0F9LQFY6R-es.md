@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Secado rápido! Espera pacientemente a que tu creación este lista para usar
 - La falsa crema batida llega para quedarse de la mano de Decoden, un increíble artístico con el que podrán decorar todo tipo de creaciones, además de combinar sus increíbles accesorios.
+- ¡Secado rápido! Espera pacientemente a que tu creación este lista para usar
 - ¡Temática de pelo! Decora una diadema, horquillas, todo listo para un look súper chic.
 - ¡Sigue esta tendencia japonesa y decora a tu gusto todo lo que quieras!
 

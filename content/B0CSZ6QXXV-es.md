@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gana el mayor prestigio de los encargos realizados para ganar la partida y ser conocido como el maestro indiscutible de tu oficio.
 - Teje y vende lujosas alfombras en la bulliciosa ciudad comercial persa de Tabriz. Realiza encargos para los plebeyos y, en poco tiempo, los mercaderes y la realeza también se fijarán en ti.
-- Tabriz es un juego de cuidadosa planificación y acción rápida en un bullicioso bazar persa diseñado por el galardonado Randy Flynn.
 - ¿Quieres convertirte en el maestro tejedor de Tabriz?
+- Tabriz es un juego de cuidadosa planificación y acción rápida en un bullicioso bazar persa diseñado por el galardonado Randy Flynn.
+- Gana el mayor prestigio de los encargos realizados para ganar la partida y ser conocido como el maestro indiscutible de tu oficio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSZ6QXXV{{</world>}}

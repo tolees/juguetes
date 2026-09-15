@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El mapache más molón del mundo, qué te parece
 - De la marca NICI
+- El mapache más molón del mundo, qué te parece
 - Diseño moderno y funcional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Banda sonora digital
-- Libro de arte
 - 3 Litografías
+- Banda sonora digital
 - Steelbook
+- Libro de arte
 - Incluye:
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego necesitan 3 pilas AAA, que están incluídas.
-- "Giro y Desafío" es un emocionante juego familiar guiado por un Game Master virtual, al estilo de un presentador de televisión. Este guía introduce y explica las seis categorías del juego, añadiendo emoción y entretenimiento a cada turno.
 - El Game Master explica y dirige todas las reglas. Sin embargo, si ya conoces el juego, puedes saltarte algunas instrucciones pulsando el botón verde, lo que permite un flujo de juego más rápido y adaptado a jugadores experimentados.
-- Al girar la ruleta, los jugadores completan desafíos en una de las seis categorías. Los puntos se ganan según la dificultad del desafío. Algunos desafíos especiales pueden otorgar más puntos o incluso afectar a los puntos de los oponentes, añadiendo estrategia al juego.
+- "Giro y Desafío" es un emocionante juego familiar guiado por un Game Master virtual, al estilo de un presentador de televisión. Este guía introduce y explica las seis categorías del juego, añadiendo emoción y entretenimiento a cada turno.
+- El juego necesitan 3 pilas AAA, que están incluídas.
 - El juego se desarrolla en 5 rondas, donde cada jugador recibe un desafío por ronda. Después de la tercera ronda, el Game Master anuncia las puntuaciones. Al final de las 5 rondas, se declara un ganador, o se realiza una ronda de desempate si es necesario, solo entre los jugadores empatados.
+- Al girar la ruleta, los jugadores completan desafíos en una de las seis categorías. Los puntos se ganan según la dificultad del desafío. Algunos desafíos especiales pueden otorgar más puntos o incluso afectar a los puntos de los oponentes, añadiendo estrategia al juego.
 - El juego incluye diversas categorías como Preguntas de Sonido para afinar el oído, Acción con desafíos de mímica y ejercicio, Verdadero o Falso para ponerte a prueba, Amigos y Familia para ver cuánto conoces a los demás, Acertijos para descubrir misterios y Sorpresas que pueden ser buenas o malas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

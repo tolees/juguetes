@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Las reglas son las habituales: para completar tus pociones, coge los ingredientes del dispensador que se encuentra en el laboratorio de pociones
+- Ya estamos en esa época del año que todos teméis
 - Vuestro último curso en la academia de hechicería horribilo rum para brujas y brujos ingeniosos llega a su fin, así que se acercan los exámenes finales
 - Producto en castellano
-- Ya estamos en esa época del año que todos teméis
 - Cuando se hayan concedido suficientes fichas de maestría, el examen terminará
-- Las reglas son las habituales: para completar tus pociones, coge los ingredientes del dispensador que se encuentra en el laboratorio de pociones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E1FHHNW{{</world>}}

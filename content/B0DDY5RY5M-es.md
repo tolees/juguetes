@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cable USB-A a USB-C de 1 metro para conectar a la consola.
+- Compatible con todos los controladores Xbox: Xbox One y Xbox Series.
 - 2 ranuras para cargar ambas baterías al mismo tiempo.
 - 2 baterías de 1400 mAh (2 x 24 horas de tiempo de juego).
-- Compatible con todos los controladores Xbox: Xbox One y Xbox Series.
 - Indicador LED de carga.
+- Cable USB-A a USB-C de 1 metro para conectar a la consola.
 - Juega mientras carga la segunda batería.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

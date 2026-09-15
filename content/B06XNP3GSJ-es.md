@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso: ciclismo, camping, escalada, etc.
-- Material: acero galvanizado
 - Tamaño: 90 x 44 x 25 mm. Peso: 205 g aprox
+- Uso: ciclismo, camping, escalada, etc.
 - Multifunción 16 en 1: ①Llave Allen: 2 / 2,5 / 3 / 4 / 5 / 6 mm ②Llave de vaso: 8 / 9 / 10 mm ③ Destornillador plano ④Destornillador de cruz ⑤Llave sólida: 8/10/15/mm ⑥Socket Extension Rod
+- Material: acero galvanizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XNP3GSJ{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El juego de mímica más alocado
 - Recomendado a partir de 6 años y de 2 a 6 jugadores
-- Contiene: tablero de juego con la ruleta, base Mimo Locura, 200 tarjetas con personajes y objetos a imitar e instrucciones
 - Tiene 4 categorías para imitar: objeto, animal, profesión o acción
 - Divertido juego de mesa con 3 tipos de juego: Mimo Clásico, Mimo Reto y Mimo Crono
+- El juego de mímica más alocado
+- Contiene: tablero de juego con la ruleta, base Mimo Locura, 200 tarjetas con personajes y objetos a imitar e instrucciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01J5NIYN2{{</world>}}

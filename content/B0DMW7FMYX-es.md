@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construye el coche de carreras del futuro: Cadillac Project GTP Hypercar a escala 1:32 para construir por completo lleno de detalles realistas. ​
+- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
 - Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
 - Detalles auténticos del Hypercar: Cuenta con puertas que se abren y una pieza Aerofin recreada fielmente para ofrecer la máxima autenticidad.
-- Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
+- Construye el coche de carreras del futuro: Cadillac Project GTP Hypercar a escala 1:32 para construir por completo lleno de detalles realistas. ​
 - Tunea tu vehículo: Incluye una hoja de pegatinas para personalizarlo y 2 juegos de tapacubos para transformar tu vehículo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

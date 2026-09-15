@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌿 Creado e ilustrado con rigor científico, Wingspan se ha convertido en un superventas a nivel mundial. Conexión con la naturaleza: Sumérgete en un mundo de aves y ecosistemas mientras te diviertes y aprendes.
-- 🧠 Educativo y fascinante: Desarrolla pensamiento estratégico y conocimiento sobre ornitología y ciencias naturales.
-- 🎯 Estrategia divertida para todos: Cartas y mecánicas fáciles de entender, perfectas para familias y jugadores competitivos.
 - 🐦 Explora la naturaleza desde casa: Aprende sobre más de 170 especies de aves mientras disfrutas de un juego estratégico y educativo.
+- 🌿 Creado e ilustrado con rigor científico, Wingspan se ha convertido en un superventas a nivel mundial. Conexión con la naturaleza: Sumérgete en un mundo de aves y ecosistemas mientras te diviertes y aprendes.
+- 🎯 Estrategia divertida para todos: Cartas y mecánicas fáciles de entender, perfectas para familias y jugadores competitivos.
+- 🧠 Educativo y fascinante: Desarrolla pensamiento estratégico y conocimiento sobre ornitología y ciencias naturales.
 - Ganador del prestigioso Kennerspiel des Jahres en 2019 ⏱ Partidas rápidas y entretenidas: Disfruta de sesiones de juego de aproximadamente 1 hora, ideales para tardes en familia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

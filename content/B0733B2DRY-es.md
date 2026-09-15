@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Torre aplilable de más de 61 cm
 - Con letras del abecedario
-- 6 cubos de colores y letras + 4 bolas
 - Las bolas bajan rodando por la torre
 - Encajable y aplilable
+- Torre aplilable de más de 61 cm
+- 6 cubos de colores y letras + 4 bolas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0733B2DRY{{</world>}}

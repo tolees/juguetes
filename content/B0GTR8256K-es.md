@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Más de 20 niveles al más puro estilo "noir" llenos de ratones, ratas y musarañas
-- Arsenal completo con más de una docena de armas y equipamientos con el toque de los dibujos animados
 - Diseños en blanco y negro hechos a mano al estilo "rubber hose", inspirados en los dibujos animados de la década de 1930
+- Más de 20 niveles al más puro estilo "noir" llenos de ratones, ratas y musarañas
 - Una fascinante campaña de un jugador que desentraña una compleja trama de crímenes y corrupción
 - Combate trepidante de disparos en primera persona donde el movimiento constante es la clave
+- Arsenal completo con más de una docena de armas y equipamientos con el toque de los dibujos animados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GTR8256K{{</world>}}

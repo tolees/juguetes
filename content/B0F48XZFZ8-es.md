@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Voces completas para cada personaje
 - Al menos 3 finales por cada candidato romántico
 - ¡Montones de juegos de palabras!
+- Voces completas para cada personaje
 - 100 personajes con los que puedes tener citas
 - Narrativas ramificadas
 

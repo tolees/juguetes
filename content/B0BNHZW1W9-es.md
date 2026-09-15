@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseñado con articulación con hasta 22 partes móviles para una gama completa de poses y juegos
-- Incluye tarjeta de arte coleccionable con obras de arte en la parte delantera y biografía de personajes en la parte posterior
 - Figura de la película The Flash detallada basada en el multiverso DC
-- Colecciona todas las figuras McFarlane Toys DC The Flash
 - Con accesorios y complementos
+- Colecciona todas las figuras McFarlane Toys DC The Flash
+- Incluye tarjeta de arte coleccionable con obras de arte en la parte delantera y biografía de personajes en la parte posterior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNHZW1W9{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- HACER GANAR A TU EQUIPO: Los aldeanos ganan el juego si atrapan a todos los hombres lobo. Los hombres lobo ganan el juego si no queda ningún aldeano vivo. Pensad juntos y fingid lo mejor que podáis.
 - PARTIDAS INTENSAS: Este juego para fiestas te permite vivir partidas intensas y dinámicas. Accesible a partir de los 10 años, las reglas son fáciles de entender, pero la profundidad estratégica y los constantes giros de guion garantizan una experiencia de juego emocionante para todos.
 - DETALLES: 8-18 jugadores, a partir de 10 años, hasta 30 minutos por partida, juego en español.
 - EXPERIENCIA INMERSIVA: Descubre el auténtico juego de los Hombres Lobos, el gran clásico, el de Castronegro. Enfréntate en partidas épicas en las que los hombres lobo conspiran y los aldeanos intentan desenmascararlos.
-- HACER GANAR A TU EQUIPO: Los aldeanos ganan el juego si atrapan a todos los hombres lobo. Los hombres lobo ganan el juego si no queda ningún aldeano vivo. Pensad juntos y fingid lo mejor que podáis.
 - PARTY GAME: Con la posibilidad de jugar en grupos de entre 8 y 18 jugadores, este juego ofrece una experiencia lúdica inmersiva para grandes reuniones, fiestas, veladas entre amigos o en familia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

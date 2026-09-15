@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Licencia oficial de Nintendo
-- Ocho zonas de iluminación RGB con cuatro modos preestablecidos
 - Batería de 2100 mAh recargable integrada con hasta 40 horas de autonomía con una sola carga
 - Personaliza tu juego con los botones traseros con doble programación
+- Ocho zonas de iluminación RGB con cuatro modos preestablecidos
 - Conexión inalámbrica de 9 metros para que juegues cómodamente en el sofá
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

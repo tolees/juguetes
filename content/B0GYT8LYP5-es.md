@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🤣 ¡DIVERTIDO Y FÁCIL! Situaciones absurdas, respuestas graciosas y risas desde el primer momento. Reglas en 1 minuto y partidas rápidas y sencillas.
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
-- 😺 ¡CONEXIÓN MENTAL! Piensa como los demás jugadores y encontrad la misma palabra a partir de combinaciones de cartas inesperadas.
 - ☀️ ¡PARA FAMILIA Y AMIGOS! De 3 a 8 jugadores, a partir de 10 años. El juego del verano perfecto para llevar a la playa, la piscina o la terraza.
+- 🤣 ¡DIVERTIDO Y FÁCIL! Situaciones absurdas, respuestas graciosas y risas desde el primer momento. Reglas en 1 minuto y partidas rápidas y sencillas.
+- 😺 ¡CONEXIÓN MENTAL! Piensa como los demás jugadores y encontrad la misma palabra a partir de combinaciones de cartas inesperadas.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - ⚡ ¡+450 PALABRAS DIFERENTES! Miles de combinaciones posibles que hacen cada partida única, sorprendente y emocionante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

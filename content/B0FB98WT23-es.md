@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak Rummikub Original 4 Jugadores Juego De Mesa+6 Años Juegos De Mesa Adultos Y Niños Juego Estratégico De Fichas Juego De Números De Estrategia para De 2 a 4 Jugadores 64550400'
-date: 2026-09-12 13:38:14
+date: 2026-09-14 07:05:51
 image: 'https://m.media-amazon.com/images/I/51-wP5SCNOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - HISTORIAS SIN LÍMITES – Con las figuras de schleich, los niños descubren mundos de juego detallados y duraderos. La alta calidad y los materiales resistentes garantizan años de diversión.
 - VALOR EDUCATIVO - Descubre animales como el lobo, el oso, el león, el tigre, la jirafa y el panda: estas figuras despiertan la imaginación y enriquecen el juego en casa y en la guardería.
-- CUIDADO POR EL DETALLE - Esta figura de schleich WILD LIFE está modelada con gran realismo y nivel de detalle, convirtiéndose en el complemento perfecto para cualquier colección de figuras de animales.
 - WILD LIFE – Descubre con tu peque el fascinante mundo de los animales salvajes: en la jungla, la sabana, el bosque o el océano. Junto al guardabosques Tom y Ted, el suricato, viviréis emocionantes aventuras.
+- CUIDADO POR EL DETALLE - Esta figura de schleich WILD LIFE está modelada con gran realismo y nivel de detalle, convirtiéndose en el complemento perfecto para cualquier colección de figuras de animales.
 - EL REGALO PERFECTO - Descubre el zoo y conoce animales fascinantes como el lobo, el oso, el león, el tigre, la jirafa y el panda. ¡Cada figura promete emocionantes aventuras para los pequeños exploradores!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - ¡Juega en pareja para disfrutar de una mayor diversión y conexión!
 - Los jugadores tendrán que crear pilas de cartas ordenadas numéricamente sobre el tablero en un juego interactivo en el que todos participan.
 - Gana el primer jugador en usar todas las cartas de su montón principal.
-- Se han añadido símbolos especiales a cada carta para ayudar a identificar su color (o colores). De esta forma, ¡los jugadores con CUALQUIER tipo de daltonismo podrán jugar fácilmente!
 - La versión deluxe de Skip Bo, el juego de secuencias definitivo que combina habilidad, estrategia y diversión, viene en una caja especial.
+- Se han añadido símbolos especiales a cada carta para ayudar a identificar su color (o colores). De esta forma, ¡los jugadores con CUALQUIER tipo de daltonismo podrán jugar fácilmente!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000IJ0RFG{{</world>}}

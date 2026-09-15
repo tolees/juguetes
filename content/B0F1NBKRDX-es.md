@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎲 Partidas rápidas y llenas de tensión: Lanza los 5 dados hasta tres veces y coloca tus peones estratégicamente en los posavasos de ingredientes para maximizar tus puntos.
-- 🏆 Múltiples formas de ganar: Alcanza 20 puntos, coloca tu último peón… ¡o prepara un espectacular Piña Coladice para la victoria instantánea!
-- 🍹 Vive la experiencia de ser bartender: Piña Coladice es un dinámico juego de dados donde preparar combinados, elegir ingredientes y crear cócteles te hará ganar puntos… ¡o la victoria directa!
-- 👨‍👩‍👧‍👦 Ideal para familias y grupos: De 2 a 4 jugadores, recomendado desde 8 años, con sesiones de 15 minutos perfectas para jugar varias rondas.
 - 🌈 Alta rejugabilidad: Los posavasos son variables y a doble cara, creando partidas diferentes cada vez; incluye también un modo avanzado para añadir más interacción.
+- 🍹 Vive la experiencia de ser bartender: Piña Coladice es un dinámico juego de dados donde preparar combinados, elegir ingredientes y crear cócteles te hará ganar puntos… ¡o la victoria directa!
+- 🏆 Múltiples formas de ganar: Alcanza 20 puntos, coloca tu último peón… ¡o prepara un espectacular Piña Coladice para la victoria instantánea!
+- 🎲 Partidas rápidas y llenas de tensión: Lanza los 5 dados hasta tres veces y coloca tus peones estratégicamente en los posavasos de ingredientes para maximizar tus puntos.
+- 👨‍👩‍👧‍👦 Ideal para familias y grupos: De 2 a 4 jugadores, recomendado desde 8 años, con sesiones de 15 minutos perfectas para jugar varias rondas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1NBKRDX{{</world>}}

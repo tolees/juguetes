@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 🙋‍♂️ REPÚBLICA BANANERA GAMES diseñamos en España juegos de mesa para que lo petes en tus fiestas
+- ✅ 240 PREGUNTAS calientes, cultura general, amigos y sabiduría popular. vision imposible no reir
 - 🎁 REGALO ORIGINAL para pareja, para amigos, para familia y amigo invisible
 - 🍹 JUEGO DE MESA PARTY FÁCIL 20-40 min +16 años
-- 🙋‍♂️ REPÚBLICA BANANERA GAMES diseñamos en España juegos de mesa para que lo petes en tus fiestas
 - 😂 RISAS Y DIVERSIÓN el mejor de los juegos de mesa adulto para reírte con tus amigos y familiares, listos para una batalla de mente y genios
-- ✅ 240 PREGUNTAS calientes, cultura general, amigos y sabiduría popular. vision imposible no reir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B454NHGJ{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALL IN: gana jugando con astucia y adivinando quién ganará la ronda, combinando la intuición con la estrategia en una versión única de los juegos de cartas clásicos.
 - DE DOS A CINCO JUGADORES: All In! es un emocionante juego entre dos y cinco jugadores. Es apto para jugadores a partir de 10 años y cada partida dura unos 30 minutos.
 - ESTÉTICA ATRACTIVA: con sus abundantes ilustraciones, este juego para la familia tiene una presencia en la mesa que atrae a los jugadores al instante.
 - JUEGO DE CARTAS DE ESTRATEGIA: las sencillas clasificaciones inspiradas en el póquer hacen que sea fácil de aprender, mientras que el timing, el faroleo y la construcción de manos ofrecen profundidad para los jugadores experimentados
+- ALL IN: gana jugando con astucia y adivinando quién ganará la ronda, combinando la intuición con la estrategia en una versión única de los juegos de cartas clásicos.
 - RONDAS REJUGABLES: cada decisión cuenta en tres rondas trepidantes, con apuestas cambiantes y resultados sorprendentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

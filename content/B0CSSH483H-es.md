@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sebastián reproduce música, se ilumina y se desmonta para divertirse también fuera de casa
-- Únete a la Sirenita Ariel y sus amigos Sebastián y Flounder
-- Más de 10 juguetes y actividades para que el bebé no pare de jugar
-- Luces que se activan al saltar y más de 20 melodías para recompensar al bebé
 - Pulsa la concha central para ver a Sebastián tocar el tambor al ritmo de la música
 - Asiento acolchado con rotación de 360 grados
+- Únete a la Sirenita Ariel y sus amigos Sebastián y Flounder
+- Sebastián reproduce música, se ilumina y se desmonta para divertirse también fuera de casa
+- Luces que se activan al saltar y más de 20 melodías para recompensar al bebé
 - 4 ajustes de altura; para bebés de 6 a 12 meses o hasta 12 kilos
+- Más de 10 juguetes y actividades para que el bebé no pare de jugar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSSH483H{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ⚡ ¡+700 TEMAS ORIGINALES! Preguntas absurdas, graciosas y cotidianas que pondrán a prueba tu conexión con amigos y familia.
-- ☀️ ¡EL JUEGO DEL VERANO! Perfecto para jugar en playa, piscina y terraza. Ideal para planes en familia, escapadas, sobremesas y tardes al sol con amigos.
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - 👨‍👩‍👧‍👦 ¡PARA TODA LA FAMILIA! De 3 a 9 jugadores, +12 años y partidas rápidas de 20 min. Un regalo original para hombres y mujeres.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - 🐑 ¡CONEXIÓN MENTAL! Piensa como tus compañeros y responde igual para ganar puntos. Cuanto más coincidáis, ¡más puntos os lleváis!
+- ☀️ ¡EL JUEGO DEL VERANO! Perfecto para jugar en playa, piscina y terraza. Ideal para planes en familia, escapadas, sobremesas y tardes al sol con amigos.
+- ⚡ ¡+700 TEMAS ORIGINALES! Preguntas absurdas, graciosas y cotidianas que pondrán a prueba tu conexión con amigos y familia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FR9ZPVJQ{{</world>}}

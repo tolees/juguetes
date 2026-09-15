@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- A partir de 3 años
 - ¡Ahora la habitación de los niños se convierte en una peluquería! Porque con el set de peluquería Smoby My Beauty, los niños están perfectamente equipados para crear estupendos peinados.
 - 2 pilas LR03/AAA micro (no incluidas)
-- Smoby My Beauty - Kit de peluquería con secador de pelo con luz y sonido
 - 2 cabezales, planchas de pelo, cepillo, peine, pinzas y coletero
+- A partir de 3 años
+- Smoby My Beauty - Kit de peluquería con secador de pelo con luz y sonido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09C22ZQBY{{</world>}}

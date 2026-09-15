@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sigue la colección “Pequeños Grandes” con esta novedad, la saga de grandes juegos en cajas pequeñas a precio reducido
 - Juego de deducción y resolución de crímenes
+- Sigue la colección “Pequeños Grandes” con esta novedad, la saga de grandes juegos en cajas pequeñas a precio reducido
 - Diferentes modos de juego, cooperativo, competitivo y solo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

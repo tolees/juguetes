@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El flamante ganador de lAs dOr 2024, un juego destinado a hacer historia
-- Sus partidas de 15 minutos, su rango de jugadores de 3 a 6 y sus breves reglas lo convierten en un juego optimo para cualquier situación
 - Colorido arte Mexicano en una caja de pequeño formato, lleva tu Trio a todas partes
+- Sus partidas de 15 minutos, su rango de jugadores de 3 a 6 y sus breves reglas lo convierten en un juego optimo para cualquier situación
+- El flamante ganador de lAs dOr 2024, un juego destinado a hacer historia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7MJYTQW{{</world>}}

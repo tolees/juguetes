@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contenido: Tablero de juego, 6 peones, dispensador de cartas, 112 cartas e instrucciones.
+- Juego de mesa ambientado en el mundo Mario Kart
+- Usa las cartas de ataque y de defensa contra tus rivales.
 - Elige a tu personaje favorito de Mario Kart: Mario, Luiggi, Peach entre otros y juega las cartas kilómetro para correr por la pista.
 - ¡Sé el primero en llegar a la meta de los 1000km!
-- Contenido: Tablero de juego, 6 peones, dispensador de cartas, 112 cartas e instrucciones.
-- Usa las cartas de ataque y de defensa contra tus rivales.
-- Juego de mesa ambientado en el mundo Mario Kart
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0009K3JKO{{</world>}}

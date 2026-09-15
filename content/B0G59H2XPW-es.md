@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - El primer jugador que alcance 20 puntos de victoria ganará la partida..., ¡al igual que el último que quede en pie!
 - MONSTRUOS LEGENDARIOS Controla a monstruos emblemáticos como Gigazaur, Cyber Kitty, Alienoid y muchos más, ¡cada uno con habilidades únicas y ataques especiales!
-- CARTAS DE PODER Recoge energía durante la partida para adquirir cartas de poder, modificar tus estrategias y aumentar tus posibilidades de victoria. Cada partida será única gracias al complejo sistema de cartas
 - MODO INDIVIDUAL/MULTIJUGADOR LOCAL Compite contra la inteligencia artificial en partidas personalizadas que se adaptan a todos los niveles de dificultad o desafía a hasta 5 amigos en intensas batallas
+- CARTAS DE PODER Recoge energía durante la partida para adquirir cartas de poder, modificar tus estrategias y aumentar tus posibilidades de victoria. Cada partida será única gracias al complejo sistema de cartas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G59H2XPW{{</world>}}

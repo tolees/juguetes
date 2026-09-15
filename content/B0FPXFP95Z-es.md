@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MÁS JUGUETES LEGO NINJAGO: Descubre otros sets (a la venta por separado) con detallados dragones de combate, mecas, templos y vehículos inspirados en la popular serie para televisión
-- REGALO PARA FANS: Este kit de construcción de un meca dragón de juguete es un divertido regalo de cumpleaños para niños y niñas a partir de 6 años a los que les encanten los ninjas
-- ARMAS NINJA: Cada personaje está equipado con su propia arma para librar épicas batallas; Lloyd cuenta con una espada dorada, Jay lleva un par de garras y el lealista empuña 2 catanas negras
 - SET CON FIGURA DE ACCIÓN: Interpreta escenas de la temporada 4 de la serie NINJAGO: El renacer de los dragones con el Pack de Combate: Meca Dragón de Lloyd de juguete para niños y niñas de 6 años en adelante
 - FIGURA DE MECA ARTICULADA: Los peques disfrutarán con la figura del meca dragón de Lloyd, que tiene brazos, manos, piernas, pies, alas y cola móviles, y cabina con espacio para una minifigura
+- MÁS JUGUETES LEGO NINJAGO: Descubre otros sets (a la venta por separado) con detallados dragones de combate, mecas, templos y vehículos inspirados en la popular serie para televisión
+- ARMAS NINJA: Cada personaje está equipado con su propia arma para librar épicas batallas; Lloyd cuenta con una espada dorada, Jay lleva un par de garras y el lealista empuña 2 catanas negras
 - 3 MINIFIGURAS NINJAGO: Recrea combates mediante el juego de rol entre las fuerzas del bien y el mal, representadas por los personajes Lloyd y Jay y por un infame lealista
+- REGALO PARA FANS: Este kit de construcción de un meca dragón de juguete es un divertido regalo de cumpleaños para niños y niñas a partir de 6 años a los que les encanten los ninjas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXFP95Z{{</world>}}

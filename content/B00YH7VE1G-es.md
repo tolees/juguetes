@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 360103-PB
 - Smoby
+- 360103-PB
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00YH7VE1G{{</world>}}

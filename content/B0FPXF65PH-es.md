@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MINIFIGURA DE BRIAN O’CONNER: Coloca una minifigura del popular personaje, vestida con su camiseta y vaqueros característicos, al volante de su deportivo naranja
-- UN EMBLEMÁTICO COCHE DE FAST & FURIOUS: Construye el kit de maquetas LEGO Speed Champions Toyota Supra MK4 de A Todo Gas para niños y niñas a partir de 10 años, y con el que recrear escenas de la película
 - VEHÍCULOS EMBLEMÁTICOS PARA JUGAR Y EXPONER: Con los kits LEGO Speed Champions, los niños y los fans pueden construir réplicas de una amplia gama de famosos vehículos
 - DECORACIÓN PARA EL DORMITORIO: Después de la divertida experiencia de construcción, los fans pueden exponer su maqueta de coche Toyota Supra MK4 en una la estantería, el escritorio o la mesita de noche
-- REGALO PARA FANS DE A TODO GAS: Idóneo como recuerdo de la saga franquicia, es también una divertida idea de regalo para niños, niñas y amantes de los coches a partir de 10 años
-- FIELES DETALLES: Este objeto de coleccionista de Fast & Furious lleva la decoración gráfica “Nuclear Gladiator” de Troy Lee en el lateral y cuenta con alerón trasero y 4 llantas de efecto cromado
 - MODO CONSTRUYE EN COMPAÑÍA: La app LEGO Builder ofrece una experiencia guiada y de colaboración con amigos y familiares en la que cada uno construye una parte del set usando su propio dispositivo y todos se divierten juntos en el proceso
+- MINIFIGURA DE BRIAN O’CONNER: Coloca una minifigura del popular personaje, vestida con su camiseta y vaqueros característicos, al volante de su deportivo naranja
+- FIELES DETALLES: Este objeto de coleccionista de Fast & Furious lleva la decoración gráfica “Nuclear Gladiator” de Troy Lee en el lateral y cuenta con alerón trasero y 4 llantas de efecto cromado
+- REGALO PARA FANS DE A TODO GAS: Idóneo como recuerdo de la saga franquicia, es también una divertida idea de regalo para niños, niñas y amantes de los coches a partir de 10 años
+- UN EMBLEMÁTICO COCHE DE FAST & FURIOUS: Construye el kit de maquetas LEGO Speed Champions Toyota Supra MK4 de A Todo Gas para niños y niñas a partir de 10 años, y con el que recrear escenas de la película
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXF65PH{{</world>}}

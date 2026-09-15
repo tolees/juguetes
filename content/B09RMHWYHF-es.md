@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿DINO O COCHE?: Deja volar tu imaginación con las historias de los primeros dinosaurios preescolares transformables del mercado.
-- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
-- ASPECTOS EDUCATIVOS: Desarrollo motor, Desarrollo del lenguaje, Juego imaginativo.
-- DERRAPE, EL GORILLA RALLY: ¡Es aún más impresionante! Sus brazos son articulados y puede golpear su pecho con sonidos realistas.
 - EDAD: Figuras de acción, juguete para niños +3 años.
 - BOTÓN INTERACTIVO: Un botón para interactuar que activa voces y efectos especiales.
+- DERRAPE, EL GORILLA RALLY: ¡Es aún más impresionante! Sus brazos son articulados y puede golpear su pecho con sonidos realistas.
+- VTECH SE PREOCUPA POR NUESTRO PLANETA: El embalaje de este juguete está compuesto en un 90% de cartón reciclado, el cual es 100% reciclable.
+- ASPECTOS EDUCATIVOS: Desarrollo motor, Desarrollo del lenguaje, Juego imaginativo.
+- ¿DINO O COCHE?: Deja volar tu imaginación con las historias de los primeros dinosaurios preescolares transformables del mercado.
 - VERSIÓN: Española
 - MELODIAS Y FRASES: Más de 30 sonidos y frases.
 

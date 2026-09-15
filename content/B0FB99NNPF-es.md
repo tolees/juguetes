@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este cubo versátil ofrece desafíos y diversión, estimulando la creatividad y el ingenio mientras exploras un mundo de posibilidades tridimensionales
-- Descubre Nexcube Cobra y crea infinitas formas, desde líneas rectas hasta serpientes y avestruces
 - Transforma el juego en arte, desata tu creatividad y sumérgete en un viaje de formas y figuras únicas con Nexcube Cobra
+- Descubre Nexcube Cobra y crea infinitas formas, desde líneas rectas hasta serpientes y avestruces
+- Este cubo versátil ofrece desafíos y diversión, estimulando la creatividad y el ingenio mientras exploras un mundo de posibilidades tridimensionales
 - Gira y desliza para desatar tu imaginación y ejercitar mente y dedos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

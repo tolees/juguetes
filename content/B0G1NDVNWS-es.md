@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🔥 Vive el universo Mistborn/Cosmere: conviertete en el protagonista de la saga de Brandon Sanderson mientras quemas metales, activas poderes y superas misiones épicas.
 - 🤝 Modo cooperativo o competitivo: juega junto a otros contra el imponente Lord Legislador o enfréntate tú solo contra los demás jugadores en una carrera de mazos y misiones.
+- 🔥 Vive el universo Mistborn/Cosmere: conviertete en el protagonista de la saga de Brandon Sanderson mientras quemas metales, activas poderes y superas misiones épicas.
 - 🃏 Deck-building accesible e inmersivo: empieza con una baraja básica y evoluciona comprando cartas potentes, quemando metales, activando efectos tácticos y dominando el tablero.
 - 🎯 Versatilidad para todos los jugadores: diseñado para 1-4 jugadores, y perfecto para los fans de los juegos de cartas, construcción de mazo o del universo Sanderson.
 - 🔄 Rejugabilidad garantizada: diferentes modos, misiones y estrategias hacen que cada partida sea única y mantenga el factor sorpresa y diversión.

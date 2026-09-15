@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
+- Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
+- Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
 - Busca el símbolo que aparece en las dos cartas (la misma forma, mismo color, sólo el tamaño puede ser diferente)
-- Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
-- Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
-- Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
 - Si nunca habéis jugado a Dobble, coge dos cartas al azar y ponlas boca arriba sobre la mesa a la vista de todos los jugadores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

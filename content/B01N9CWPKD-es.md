@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto: Juego de estrategia
 - Dimensiones del producto: 4,7 x 15,5 x 19,5 cm
 - Contiene 60 cartas transparentes
+- Tipo de producto: Juego de estrategia
 - Número de jugadores: 3-8
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - 🎯 ¡ESTRATEGIA Y DIVERSIÓN! Apuesta las bazas que ganarás y cumple tu objetivo. Mezcla perfecta de estrategia, faroles y emoción en cada partida.
-- ☀️ ¡EL JUEGO DEL VERANO! Perfecto para jugar en playa, piscina y terraza. Ideal para planes en familia, escapadas, sobremesas y tardes al sol con amigos.
 - 🃏 ¡VERSIÓN MEJORADA! El juego de las apuestas, "la podrida", "la pocha", "Jorge", etc., con cartas de Misión que hacen cada partida única.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - ⚡ ¡REGLAS SIMPLES, PARTIDAS RÁPIDAS! De 2 a 8 jugadores y +8 años. Ideal para fiestas con amigos, familia y vacaciones.
+- ☀️ ¡EL JUEGO DEL VERANO! Perfecto para jugar en playa, piscina y terraza. Ideal para planes en familia, escapadas, sobremesas y tardes al sol con amigos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FBMDZY83{{</world>}}

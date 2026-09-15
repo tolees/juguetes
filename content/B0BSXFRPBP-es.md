@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pegatinas emoji-eyes y pasaporte con QR para la App
-- Toboganes a ambos lados de la torre y +10 accesorios incluidos
 - Mona Lisa con efecto lenticular 3D
+- Toboganes a ambos lados de la torre y +10 accesorios incluidos
 - Torre Eiffel que se convierte en playset: café parisino, museo del Louvre y decoración de parque de atracciones
 - Mini Sophie 10cm muñeca articulada con Ropa original y accesorios como en la serie
 

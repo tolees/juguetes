@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gracias a sus dos velocidades, podrás poner a prueba tu agilidad e intentar aplastar a este curioso insecto que nos rodea en las comidas al aire libre.
 - Incluye dos dados con juego de pegatinas, una lata, una avispa, un matamoscas y una base giratoria.
 - Lanza los dados y descubre cuantos intentos y de qué forma debes jugar.
 - ¡Ayúdate del matamoscas y sé más rápido!
+- Gracias a sus dos velocidades, podrás poner a prueba tu agilidad e intentar aplastar a este curioso insecto que nos rodea en las comidas al aire libre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F9LJ2PF7{{</world>}}

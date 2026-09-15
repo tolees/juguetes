@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Esta versión viene en una lata para almacenamiento de lo más cómoda que permite llevarse la diversión de viaje en coche, de vacaciones o a cualquier parte.
+- Los símbolos gráficos especiales presentes en cada carta ayudan a identificar el color o colores de esta, ¡así podrán jugar sin problema las personas con cualquier tipo de daltonismo!
 - En el UNO del mentiroso, mentir no es hacer trampas, ¡es parte del juego!
+- Si se descubre al mentiroso, debe robar una carta. En cambio, si se le acusa por error, debe robarla el jugador que se ha equivocado.
 - El jugador juega una “Carta del mentiroso” boca abajo y, a continuación, dice en voz alta de cuál se trata.
 - Los jugadores tienen que mentir para ganar. Eso sí, cuando solo les quede una carta, tienen que gritar “UNO”.
-- Si se descubre al mentiroso, debe robar una carta. En cambio, si se le acusa por error, debe robarla el jugador que se ha equivocado.
-- Los símbolos gráficos especiales presentes en cada carta ayudan a identificar el color o colores de esta, ¡así podrán jugar sin problema las personas con cualquier tipo de daltonismo!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F979GZ8B{{</world>}}

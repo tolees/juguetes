@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye dos figuras y varios accesorios
 - Contiene 39 piezas
+- Incluye dos figuras y varios accesorios
 - Con operativa ballesta
 - Desarrolla la imaginación y la creatividad
 

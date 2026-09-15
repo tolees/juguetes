@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Entorno construible con plataforma de exhibición
-- Rueda de fuego con giro manual y detalles de efectos de batalla
-- Los bloques se combinan con otros conjuntos de construcción de Mega Construx y son compatibles con las principales marcas
-- Ideal a partir de 6 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 - Figura construible de Ponyta con patas articuladas, cabeza y cola
+- Entorno construible con plataforma de exhibición
+- Los bloques se combinan con otros conjuntos de construcción de Mega Construx y son compatibles con las principales marcas
+- Rueda de fuego con giro manual y detalles de efectos de batalla
+- Ideal a partir de 6 años, este juguete de construcción ofrece experiencias de montaje y juego para desarrollar la creatividad y la capacidad de resolución de problemas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XB3J7DZ{{</world>}}

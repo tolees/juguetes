@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a desarrollar las habilidades psico-motrices, reflejos y capacidad de concentración de los niños
-- Es el juguete ideal para fomentar la interactividad entre padres e hijos, a la vez que estos últimos aprenden jugando
 - Impresionante Ford Puma WRC - Kenya Mud Effect a escala 1/32: Reproduce en un acabado hiper realista para una experiencia completa en cada carrera.
+- Es el juguete ideal para fomentar la interactividad entre padres e hijos, a la vez que estos últimos aprenden jugando
+- Ayuda a desarrollar las habilidades psico-motrices, reflejos y capacidad de concentración de los niños
 - Coches Slot para circuitos Scalextric Original: Coches escala 1:32 en atractivos acabados y diseños. Disfruta de la carrera con tu coche favorito.
 - Con luces, guía con suspensión, Imán regulable y chasis detallado
 

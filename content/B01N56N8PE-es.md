@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JUEGO COOPERATIVO DE TERROR Y MISTERIO: Adéntrate en las oscuras estancias de las mansiones embrujadas de Arkham en una experiencia de tablero totalmente cooperativa inspirada en los mitos de Cthulhu.
-- SEGUNDA EDICIÓN EN CASTELLANO: Disfruta de esta versión mejorada y completa totalmente en español, con componentes de alta calidad y miniaturas detalladas que dan vida a tus investigaciones.
-- EXPERIENCIA GUIADA POR APP: El juego requiere una aplicación gratuita (disponible para Windows, Android e iOS) que gestiona la narrativa, los monstruos y los eventos, permitiendo una inmersión total y fluida.
-- IDEAL PARA SOLITARIO O GRUPOS: Diseñado para ser disfrutado por 1 a 5 jugadores a partir de 14 años, ofreciendo una experiencia narrativa épica con una duración de entre 2 y 3 horas por partida.
 - EXPLORACIÓN E INVESTIGACIÓN PROFUNDA: Recorre escenarios siniestros para desvelar secretos extraños, resuelve ingeniosos rompecabezas y sobrevive a los peligros surgidos de otros mundos.
+- EXPERIENCIA GUIADA POR APP: El juego requiere una aplicación gratuita (disponible para Windows, Android e iOS) que gestiona la narrativa, los monstruos y los eventos, permitiendo una inmersión total y fluida.
+- JUEGO COOPERATIVO DE TERROR Y MISTERIO: Adéntrate en las oscuras estancias de las mansiones embrujadas de Arkham en una experiencia de tablero totalmente cooperativa inspirada en los mitos de Cthulhu.
+- IDEAL PARA SOLITARIO O GRUPOS: Diseñado para ser disfrutado por 1 a 5 jugadores a partir de 14 años, ofreciendo una experiencia narrativa épica con una duración de entre 2 y 3 horas por partida.
+- SEGUNDA EDICIÓN EN CASTELLANO: Disfruta de esta versión mejorada y completa totalmente en español, con componentes de alta calidad y miniaturas detalladas que dan vida a tus investigaciones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N56N8PE{{</world>}}

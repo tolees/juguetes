@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto óptimo para regalar
 - Con juegos fáciles a la vez que interesantes
+- Producto óptimo para regalar
 - Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

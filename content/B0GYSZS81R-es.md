@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CLONE WARS MULTIPLAYER SHOWDOWN: Sumérgete en épicas batallas todos contra todos con 3-4 jugadores en el formato Twin Suns, con personajes emblemáticos de la era Clone Wars
-- CONTENIDO EXCLUSIVO Y LEGENDARIO: Cada mazo incluye 35 cartas totalmente nuevas, líderes exclusivos, unidades, eventos, mejoras, una base personalizada y 2 cartas de rareza legendaria
 - MAZOS DE 80 CARTAS LISTOS PARA JUGAR: Cada mazo Twin Suns contiene 80 cartas, diseñadas específicamente para formatos multijugador y Eternal, lo que hace que la configuración sea rápida y accesible
-- CUATRO MAZOS PRECONSTRUIDOS COMPLETOS: Incluye cuatro mazos Twin Suns distintos de 80 cartas con Anakin Skywalker y Padmé Amidala, el Conde Dooku y Asajj Ventress, Ahsoka Tano y Rex, y Maul y Savage Opress, cada uno de ellos diseñado para jugar inmediatamente en modo multijugador
 - EXPERIENCIA MULTIJUGADOR ACCESIBLE: Una forma fácil de iniciarse en la acción multijugador de Star Wars: Unlimited, adecuado para nuevos jugadores, fans que regresan y entusiastas de Clone Wars
+- CONTENIDO EXCLUSIVO Y LEGENDARIO: Cada mazo incluye 35 cartas totalmente nuevas, líderes exclusivos, unidades, eventos, mejoras, una base personalizada y 2 cartas de rareza legendaria
+- CUATRO MAZOS PRECONSTRUIDOS COMPLETOS: Incluye cuatro mazos Twin Suns distintos de 80 cartas con Anakin Skywalker y Padmé Amidala, el Conde Dooku y Asajj Ventress, Ahsoka Tano y Rex, y Maul y Savage Opress, cada uno de ellos diseñado para jugar inmediatamente en modo multijugador
+- CLONE WARS MULTIPLAYER SHOWDOWN: Sumérgete en épicas batallas todos contra todos con 3-4 jugadores en el formato Twin Suns, con personajes emblemáticos de la era Clone Wars
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYSZS81R{{</world>}}

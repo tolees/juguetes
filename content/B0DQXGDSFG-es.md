@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Coche de metal exclusivo y matrícula distintiva de metal: Incluye un coche de metal a escala 1:64 y una matrícula distintiva, disponible primero con sets de construcción de Mattel Brick Shop
 - Tunea tu vehículo: Incluye piezas adicionales, tapacubos de metal y pegatinas para transformar tu vehículo.
-- Construye el legendario coche de carreras: Corvette Grand Sport a escala 1:16 para construir por completo con detalles realistas.
 - Compatible con otras marcas: Las piezas se combinan con todos los conjuntos de construcción de Mattel Brick Shop y otras marcas.
+- Construye el legendario coche de carreras: Corvette Grand Sport a escala 1:16 para construir por completo con detalles realistas.
 - Detalles auténticos del Grand Sport: Incluye guardabarros auténticos, tubos de escape metálicos y capó que se abre y se cierra para ofrecer la máxima autenticidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

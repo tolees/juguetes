@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un juego de fácil aprendizaje, ideal para jugar en familia o con amigos
 - Juega tus cartas con astucia para intentar decidir qué acciones hacer
 - Ideal para grandes grupos. De 3 a 10 jugadores, a partir de 10 años, partidas de 8 minutos aproximadamente
+- Un juego de fácil aprendizaje, ideal para jugar en familia o con amigos
 - Independiente del idioma: con manual de instrucciones en castellano, inglés, francés y alemán
 - La reina ha muerto y empieza la lucha por la sucesión. Apuñala a los candidatos, intercambia sus posiciones, traiciona a tus compañeros y consigue que tu candidato llegue vivo hasta el final
 

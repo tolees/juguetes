@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Cargadora Retroexcavadora Amarilla – Vehículo de Obra de Juguete y 2 Minifiguras – Camión con Cucharón Delantero y Retroexcavador – Regalo de Cumpleaños para Niños de 7+ Años – 60480'
-date: 2026-09-04 07:13:56
+date: 2026-09-13 12:02:40
 image: 'https://m.media-amazon.com/images/I/51Wb-7VTLVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXHZZFF/?tag=tolees-21'
 descuento: '25.14'
-average: '24.4225'
+average: '24.2033333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OBRAS EN LA VÍA: Potencia la imaginación con el kit de construcción LEGO City Cargadora Retroexcavadora Amarilla para niños y niñas a partir de 7 años a los que les encanten las construcciones
-- FUNCIONES REALISTAS: Eleva la pluma, inclina el cucharón, instala las patas estabilizadoras y maneja el ágil brazo retroexcavador; luego abre el compartimento del motor y sienta a una minifigura en la cabina
-- IDEA DE REGALO PARA PEQUES: Es un óptimo regalo de cumpleaños para niños y niñas a partir de 7 años que disfruten con los juegos de acción, los juguetes de construcción y los grandes vehículos de obra
-- VEHÍCULO DE OBRA DE JUGUETE: Una cargadora retroexcavadora de juguete, un aseo portátil, 3 rocas, escombros, una gema y 2 minifiguras LEGO para recrear los duros trabajos de obra
-- CONSTRUCCIÓN INTERACTIVA: La app LEGO Builder guía a los niños a través de una intuitiva aventura creativa en la que podrán acercar y girar sus modelos en 3D y guardar su progreso mientras construyen
-- MÁS SETS LEGO CITY POR DESCUBRIR: Para pasarlo aún mejor, los peques pueden combinar esta cargadora retroexcavadora de juguete con otros sets (a la venta por separado) de la gama
-- ACCESORIOS PARA EL JUEGO INTERACTIVO: Los niños pueden partir una roca con la retroexcavadora del vehículo para descubrir una gema y también crear historias con la señal de obra, un pico y una pala
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXHZZFF{{</world>}}
