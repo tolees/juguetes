@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- The set includes 5 pens with matching characters, colourful inks, glittering decorations, stickers to personalize the desk, and everything you need to let your imagination run wild
+- Made in Italy
+- A practical desk and a rich set of tools allow you to personalize your pens with a variety of accessories and friendly Hello Kitty characters
 - Suitable for ages 6 and up
 - The new Hello Kitty & Friends Pen Creator Studio creative kit! A toy designed for creating colourful pens in perfect Hello Kitty style
-- The set includes 5 pens with matching characters, colourful inks, glittering decorations, stickers to personalize the desk, and everything you need to let your imagination run wild
-- A practical desk and a rich set of tools allow you to personalize your pens with a variety of accessories and friendly Hello Kitty characters
-- Made in Italy
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FH2GNY3B{{</world>}}

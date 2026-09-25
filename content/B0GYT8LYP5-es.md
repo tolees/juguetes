@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☀️ ¡PARA FAMILIA Y AMIGOS! De 3 a 8 jugadores, a partir de 10 años. El juego del verano perfecto para llevar a la playa, la piscina o la terraza.
-- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - ⚡ ¡+450 PALABRAS DIFERENTES! Miles de combinaciones posibles que hacen cada partida única, sorprendente y emocionante.
-- 😺 ¡CONEXIÓN MENTAL! Piensa como los demás jugadores y encontrad la misma palabra a partir de combinaciones de cartas inesperadas.
+- 🌱 ¡ECOFRIENDLY! Juego de mesa y cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible.
 - 🤣 ¡DIVERTIDO Y FÁCIL! Situaciones absurdas, respuestas graciosas y risas desde el primer momento. Reglas en 1 minuto y partidas rápidas y sencillas.
+- ☀️ ¡PARA FAMILIA Y AMIGOS! De 3 a 8 jugadores, a partir de 10 años. El juego del verano perfecto para llevar a la playa, la piscina o la terraza.
+- 😺 ¡CONEXIÓN MENTAL! Piensa como los demás jugadores y encontrad la misma palabra a partir de combinaciones de cartas inesperadas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GYT8LYP5{{</world>}}

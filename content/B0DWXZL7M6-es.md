@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FEEL EVERY DETAIL OF THE 2025 SEASON
 - RIDE, CREATE, INSPIRE: MAKE YOUR MARK ON MotoGP
-- PRO OR ARCADE EXPERIENCE
 - NEW DISCIPLINES TO MASTER YOUR CRAFT
+- FEEL EVERY DETAIL OF THE 2025 SEASON
+- PRO OR ARCADE EXPERIENCE
 - A DEEPER CAREER TO FORGE YOUR LEGACY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

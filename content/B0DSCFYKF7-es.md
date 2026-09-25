@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - ESTRATEGIA, COLOR Y DIVERSIÓN SIN LÍMITES Con las icónicas piezas semitranslúcidas del videojuego original, disfruta de partidas llenas de acción y desafíos mentales para toda la familia. Ideal para 2-4 jugadores desde los 8 años
 - JUEGOS MESA 8 AÑOS: El juego de mesa Tetris es el regalo perfecto e ideal para cualquier ocasión (cumpleaños, Navidad, Reyes...). Juegos educativos 8 años ¡Lleva la emoción a casa con los juegos de Spin Master Games
-- INCLUYE: 4 cuadrículas Tetris, 4 cartas de jugador, 1 tablero de juego, 28 cartas Tetris, 152 tetriminos, instrucciones.
-- JUEGOS NIÑOS 8 AÑOS +: El juego mesa Tetris es perfecto para los niños y niñas a partir de 8 años. Los juegos de mesa Spin Master Games son tan fáciles de manejar que proporcionarán horas de diversión a toda la familia
 - GIRO COMPETITIVO: BLOQUEA A TUS RIVALES Coloca tus piezas con estrategia y completa las casillas especiales para obtener el poder de lanzar piezas a tus oponentes, bloquear su cuadrícula y frenar su camino hacia la victoria
 - ¡TETRIS COBRA VIDA EN LA MESA Reúne a familia y amigos y compite por completar el mayor número de líneas. Quien logre más puntos se coronará como el auténtico maestro del Tetris
+- INCLUYE: 4 cuadrículas Tetris, 4 cartas de jugador, 1 tablero de juego, 28 cartas Tetris, 152 tetriminos, instrucciones.
+- JUEGOS NIÑOS 8 AÑOS +: El juego mesa Tetris es perfecto para los niños y niñas a partir de 8 años. Los juegos de mesa Spin Master Games son tan fáciles de manejar que proporcionarán horas de diversión a toda la familia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSCFYKF7{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TRABAJO EN EQUIPO: Un reto diseñado para 2 a 6 jugadores donde la comunicación y la observación conjunta son las únicas herramientas para escapar con éxito en menos de 60 minutos
-- APLICACIÓN DIGITAL GRATUITA: Utiliza la app oficial de Unlock! para gestionar el tiempo, recibir pistas vitales, introducir códigos y sumergirte en la partida con música y sonidos ambientales
 - TRES AVENTURAS COMPLETAS: Incluye tres escenarios con temáticas únicas: infíltrate en un laboratorio en "La Fórmula", frustra planes malvados en "Squeek & Sausage" o sobrevive a trampas en "La Isla del Doctor Goorse"
-- EXPERIENCIA ESCAPE ROOM EN CASA: Vive toda la emoción, tensión y desafíos de una sala de escape real directamente en tu mesa de juego con este aclamado sistema de cartas cooperativo
 - MECÁNICA DE INVESTIGACIÓN: Explora detalladamente los escenarios ilustrados, combina objetos estratégicamente y utiliza la lógica para resolver ingeniosos puzles antes de que el tiempo se agote
+- APLICACIÓN DIGITAL GRATUITA: Utiliza la app oficial de Unlock! para gestionar el tiempo, recibir pistas vitales, introducir códigos y sumergirte en la partida con música y sonidos ambientales
+- EXPERIENCIA ESCAPE ROOM EN CASA: Vive toda la emoción, tensión y desafíos de una sala de escape real directamente en tu mesa de juego con este aclamado sistema de cartas cooperativo
+- TRABAJO EN EQUIPO: Un reto diseñado para 2 a 6 jugadores donde la comunicación y la observación conjunta son las únicas herramientas para escapar con éxito en menos de 60 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B072L48NGC{{</world>}}

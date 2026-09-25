@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Juego para dos jugadores.
 - Puedes lanzar las bolas amarillas o blancas al otro lado. Lánzalas lo más rápido que puedas
+- Para empezar a jugar, cuenta 3, 2, 1 y ¡a jugar!
+- Juego para dos jugadores.
 - Se utiliza una pata de gato magnética para disparar bolas.
 - Se juega rápidamente, reúne todas las bolas de tu lado y lánzalas.
-- Para empezar a jugar, cuenta 3, 2, 1 y ¡a jugar!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XF7LSVR{{</world>}}

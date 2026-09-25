@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- JUEGO COOPERATIVO DE CARTAS ÚNICO: En Hanabi los jugadores deben trabajar en equipo para montar un gran espectáculo de fuegos artificiales, pero con un giro innovador: sujetas tus cartas al revés y solo tus compañeros pueden verlas.
-- PARTIDAS DINÁMICAS PARA TODA LA FAMILIA: Diseñado para grupos de 2 a 5 jugadores a partir de los 8 años, ofrece sesiones de juego rápidas de unos 25 minutos que garantizan complicidad y entretenimiento inteligente en cualquier reunión.
 - DISEÑO PREMIADO DE ANTOINE BAUZA: Creado por el prestigioso autor Antoine Bauza, este título ofrece una experiencia de juego sorprendente y diferente a los juegos de mesa convencionales, fomentando la máxima colaboración entre los participantes.
-- COMUNICACIÓN ESTRATÉGICA Y MEMORIA: Al no poder ver tu propia mano, dependes totalmente de la información limitada que te den los demás; gestionar bien las pistas y recordar los detalles es clave para saber qué carta jugar o descartar.
+- JUEGO COOPERATIVO DE CARTAS ÚNICO: En Hanabi los jugadores deben trabajar en equipo para montar un gran espectáculo de fuegos artificiales, pero con un giro innovador: sujetas tus cartas al revés y solo tus compañeros pueden verlas.
 - RETO DE LÓGICA Y DEDUCCIÓN: Cada turno es un rompecabezas donde deberás usar la lógica para interpretar las pistas de tu equipo y colocar correctamente la pólvora, las mechas y los cohetes en el orden adecuado para el éxito pirotécnico.
+- COMUNICACIÓN ESTRATÉGICA Y MEMORIA: Al no poder ver tu propia mano, dependes totalmente de la información limitada que te den los demás; gestionar bien las pistas y recordar los detalles es clave para saber qué carta jugar o descartar.
+- PARTIDAS DINÁMICAS PARA TODA LA FAMILIA: Diseñado para grupos de 2 a 5 jugadores a partir de los 8 años, ofrece sesiones de juego rápidas de unos 25 minutos que garantizan complicidad y entretenimiento inteligente en cualquier reunión.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089KSZ1D4{{</world>}}

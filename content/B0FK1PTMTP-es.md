@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Llévate a casa a la madre de la música, Miley Cyrus, con Barbie Signature, ¡que sin duda será un recuerdo muy especial tanto para los fans de la artista número uno en las listas de éxitos como para los coleccionistas de muñecas!
 - Diseñada a su imagen y semejanza, la muñeca Barbie de Miley Cyrus pasa del escenario a tu estantería, con un accesorio de micrófono y articulaciones móviles.
-- Barbie rinde homenaje al referente de estilo Miley Cyrus con una muñeca que honra su sonido transformador y celebra la huella cultural que ha dejado como música, actriz y defensora de la libre expresión.
-- Inspirada en su look del videoclip de “Golden Burning Sun”, Miley luce un elegante conjunto de dos piezas de piel sintética de Alaia, con chaqueta con capucha y zapatos de tacón negros.
 - Con discos revolucionarios como “Party in the USA” y éxitos actuales como “Flowers” y “End of the World”, su sonido, que desafía los géneros, es verdaderamente único.
+- Inspirada en su look del videoclip de “Golden Burning Sun”, Miley luce un elegante conjunto de dos piezas de piel sintética de Alaia, con chaqueta con capucha y zapatos de tacón negros.
+- Barbie rinde homenaje al referente de estilo Miley Cyrus con una muñeca que honra su sonido transformador y celebra la huella cultural que ha dejado como música, actriz y defensora de la libre expresión.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FK1PTMTP{{</world>}}

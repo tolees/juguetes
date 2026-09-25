@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡El clásico descapotable de Barbie, ahora en un tamaño reducido para las niñas más pequeñas!
-- Coche deportivo para empujar y figuras con el tamaño perfecto para que las más pequeñas puedan agarrarlas y moverlas, lo que ayuda a fortalecer la motricidad fina
 - Incluye 2 figuras de Little People con los colores de Barbie
+- Coche deportivo para empujar y figuras con el tamaño perfecto para que las más pequeñas puedan agarrarlas y moverlas, lo que ayuda a fortalecer la motricidad fina
 - Para niñas pequeñas y de preescolar de entre 18 meses y 5 años.
+- ¡El clásico descapotable de Barbie, ahora en un tamaño reducido para las niñas más pequeñas!
 - Presiona el asiento del conductor para escuchar música y sonidos divertidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

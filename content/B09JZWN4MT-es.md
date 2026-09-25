@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BASES TEMÁTICAS PARA MEZCLAR Y COMBINAR: Todas las figuras se conectan a su base, pero puedes intercambiar personajes y accesorios para crear escenas nuevas y ampliar la diversión en el universo de Gabby y la Casa de Muñecas
 - MINIFIGURA SORPRESA EN CÁPSULA: Cada cápsula con forma de casa de muñecas contiene 1 figura y 1 base temática. Hay 12 personajes para descubrir, incluidas versiones exclusivas, brillantes y translúcidas de tus personajes favoritos de Gabby’s Dollhouse
+- BASES TEMÁTICAS PARA MEZCLAR Y COMBINAR: Todas las figuras se conectan a su base, pero puedes intercambiar personajes y accesorios para crear escenas nuevas y ampliar la diversión en el universo de Gabby y la Casa de Muñecas
+- REGALOS PARA NIÑAS 3 AÑOS +: La figura sorpresa de Gaby y La Casa de Muñecas es una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 3 años disfrutarán horas de diversión
 - CÁPSULA REUTILIZABLE PARA JUGAR O GUARDAR: El recipiente se abre como la casa de Gabby e invita a recrear aventuras en miniatura. También sirve para guardar la figura y su base cuando termine el juego
 - JUGUETES NIÑOS 3 AÑOS +: La figura sorpresa de la casa muñecas gabby está diseñada para niñas y niños partir de 3 años. Fácil de manejar, e igual que personajes favoritos de la serie de TV, estos juguetes garantizan horas de diversión y desarrollo creativo
-- REGALOS PARA NIÑAS 3 AÑOS +: La figura sorpresa de Gaby y La Casa de Muñecas es una gran idea de regalo en cualquier época del año (cumpleaños, Navidad, Reyes...). Las niñas y niños a partir de 3 años disfrutarán horas de diversión
 - INCLUYE: 1 figura, 1 base accesorio, 1 cápsula de casa de muñecas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

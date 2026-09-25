@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Examina los informes, busca en los archivos, averigua el historial de la víctima.
-- Cartografía detallada de órganos y casos
 - Casos analizados por especialistas
+- Cartografía detallada de órganos y casos
 - Una combinación de simulador y juego de terror
 
 [🛒 Comprar!!!]({{< param buyurl >}})

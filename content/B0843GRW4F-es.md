@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diviértete con los puzles de Bing y sus amigos
-- Tamaño del rompecabezas: 70 x 50 cm
 - De cartón resistente acoplado
+- Tamaño del rompecabezas: 70 x 50 cm
 - Fabricado en Italia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

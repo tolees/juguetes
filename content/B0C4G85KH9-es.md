@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nubs va vestido con su clásica túnica de Jedi con cinturón
 - El tamaño del peluche (24cm) es perfecto para poder jugar con él o usarlo como decoración
 - El peluche del personaje Nubs de la serie de animación Disney "Aventuras de los Jóvenes Jedi", perfecto para los nuevos y antiguos aficionados a la saga de Star Wars
-- Peluches Disney de Simba Toys: Colección de peluches 100% oficial
+- Nubs va vestido con su clásica túnica de Jedi con cinturón
 - Apto para todas las edades
+- Peluches Disney de Simba Toys: Colección de peluches 100% oficial
 - En Simba Toys subimos de nivel con los peluches Disney. Con el Nubs de la serie "Aventuras de Jóvenes Jedi" los querrás coleccionar todos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

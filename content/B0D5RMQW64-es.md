@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Momentos inolvidables: Crea recuerdos inolvidables con los juegos de mesa Party & Co. Ideales para cualquier ocasión, asegurando risas y diversión con cada partida.
-- Con la versión Party&Co Disney los más pequeños de la casa demostrarán quién es el que sabe más sobre el mágico mundo Disney a través de diferentes pruebas: mímica, el dibujo, la imaginación y la memoria.
 - Por equipos: Party & Co. Disney se juega por equipos. El objetivo del juego es muy sencillo: superar las pruebas para conseguir los 4 personajes disney de sus películas favoritas.
+- Con la versión Party&Co Disney los más pequeños de la casa demostrarán quién es el que sabe más sobre el mágico mundo Disney a través de diferentes pruebas: mímica, el dibujo, la imaginación y la memoria.
+- Momentos inolvidables: Crea recuerdos inolvidables con los juegos de mesa Party & Co. Ideales para cualquier ocasión, asegurando risas y diversión con cada partida.
 - Multiprueba: Este juego de mesa ofrece divertidos desafíos, siendo un excelente juego de mesa para tardes con amigos. Recomendado para niños +4 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

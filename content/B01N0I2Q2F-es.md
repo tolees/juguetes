@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🎲 Un juego independiente – Incluye tablero y peones para contar puntos fácilmente, sin papel ni lápiz.
-- 👨‍👩‍👧‍👦 Diversión para todos – Juega con amigos o familia; partidas rápidas, dinámicas y aptas para hasta 8 jugadores.
 - 🍣 Festín japonés en tu mesa – Disfruta de un juego de cartas lleno de sushi, tempura, gyozas, nigiris, onigiris y más de 20 ingredientes nuevos.
+- 👨‍👩‍👧‍👦 Diversión para todos – Juega con amigos o familia; partidas rápidas, dinámicas y aptas para hasta 8 jugadores.
 - ⚡ Rejugabilidad infinita – Elige el menú antes de cada partida para ajustar la dificultad y crear diferentes estrategias.
 - 🎉 Ideal para reuniones y regalos – Perfecto para amantes de los juegos de mesa y de la gastronomía japonesa, con ilustraciones coloridas y un diseño atractivo.
 

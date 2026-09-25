@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Potencia la coordinación, la destreza y la puntería
+- La estrucutura es de madera resistente y mide 61x18,5x30 cm
 - Tiene 18 jugadores, 9 por equipo incluyendo a los 2 porteros
 - Se recomienda a partir de los 3 años de edad
 - En el tablero se incluye 1 marcador manual sobre cada portería y 2 pelotas
-- La estrucutura es de madera resistente y mide 61x18,5x30 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01J5IWKVE{{</world>}}

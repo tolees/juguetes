@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars Speeder de Nieve Force Burner - Juguete de Construcción con 3 Minifiguras con Espadas Láser y Moto de Juguete - Regalo para Niños de 7+ Años y Fans de Reconstruye la Galaxia 75414'
-date: 2026-08-22 13:34:31
+title: 'LEGO Star Wars Speeder de Nieve Force Burner 75414'
+date: 2026-09-22 12:33:24
 image: 'https://m.media-amazon.com/images/I/51IzVlJ9D-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDJPVC8-es LEGO Star Wars Speeder de Nieve Force Burner - Juguete de...'
+slug: 'B0DWDJPVC8-es LEGO Star Wars Speeder de Nieve Force Burner 75414'
 sku: 'B0DWDJPVC8-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 29.91 EUR
+actualPrice: 37.49 EUR
 currency: EUR
-price: 29.91
+price: 37.49
 comparePrice: 49.99 EUR
-prodname: 'LEGO Star Wars Speeder de Nieve Force Burner - Juguete de Construcción con 3 Minifiguras con Espadas Láser y Moto de Juguete - Regalo para Niños de 7+ Años y Fans de Reconstruye la Galaxia 75414'
+prodname: 'LEGO Star Wars Speeder de Nieve Force Burner 75414'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDJPVC8/?tag=tolees-21'
-descuento: '40.17'
-average: '35.3593333333333'
+descuento: '25.01'
+average: '35.61'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- STAP: Este set LEGO Star Wars incluye, además, un STAP construible para Solitus para añadir más realismo al juego de acción
-- 2 vehículos LEGO Star Wars en 1: El Speeder de Nieve Force Burner cuenta con pegatinas de llamas y doble cabina que se abre con una moto speeder desmontable oculta de juguete, así como con un cañón trasero que dispara
-- Explora la gama completa: Los sets LEGO Star Wars coleccionables ofrecen a peques y fans adultos de Star Wars la oportunidad de recrear escenas clásicas, imaginar nuevas aventuras o, simplemente, exponer los modelos para construir
-- Moto Speeder de juguete: Calienta motores con el Speeder de Nieve Force Burner que aparece en la temporada 2 de la serie de Disney+ LEGO Star Wars: Reconstruye la Galaxia
-- 3 minifiguras LEGO Star Wars: Sig Greebling y Darth Dev, ambos con una espada láser y Solitus, que tiene una espada láser doble con cadena
-- Instrucciones intuitivas: Con la app LEGO Builder, los niños pueden acercar, girar y visualizar una versión digital de este modelo mientras lo construyen, consultar sus progresos y guardar sets
-- Regalo del universo Star Wars: Este juego LEGO Star Wars es un sensacional regalo para niños y niñas de 7 años en adelante para cualquier fan de Star Wars: Reconstruye la Galaxia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWDJPVC8{{</world>}}

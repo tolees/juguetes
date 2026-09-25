@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resiste hasta el amanecer y salva la última luz de esperanza.
 - Conviértete en el último farero y enfrenta la oscuridad que amenaza con consumirlo todo.
 - Con solo 18 cartas, deberás gestionar recursos, mantener la luz encendida y proteger el faro de las fuerzas que acechan en la noche.
+- Resiste hasta el amanecer y salva la última luz de esperanza.
 - Incluye 4 expansiones (Costas extrañas, mareas terribles, niebla aterradora y noches interminables).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

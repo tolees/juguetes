@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - . Tienen más de 70 sonidos y reacciones para divertiros juntos y convertirse en tu mejor amigo.
 - Desenreda su larguíiiiiisima cola y descubre todas las sorpresas que esconde en su interior.
-- Encontrarán un mini-bestie, un cepillo para peinar su larga cola y una hoja de pegatinas para customizarlo a tu gusto.
 - ¡Colecciónalos! También hay un unicornio
+- Encontrarán un mini-bestie, un cepillo para peinar su larga cola y una hoja de pegatinas para customizarlo a tu gusto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9LHQ3PX{{</world>}}

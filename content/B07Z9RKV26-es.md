@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De la marca NICI
 - Diseño moderno y funcional
 - El mapache más molón del mundo, qué te parece
-- De la marca NICI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z9RKV26{{</world>}}

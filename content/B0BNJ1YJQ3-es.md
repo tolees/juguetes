@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Figura de la película The Flash detallada basada en el multiverso DC
 - Con accesorios y complementos
-- Incluye tarjeta de arte coleccionable con obras de arte en la parte delantera y biografía de personajes en la parte posterior
 - Colecciona todas las figuras McFarlane Toys DC The Flash
+- Figura de la película The Flash detallada basada en el multiverso DC
+- Incluye tarjeta de arte coleccionable con obras de arte en la parte delantera y biografía de personajes en la parte posterior
 - Diseñado con articulación con hasta 22 partes móviles para una gama completa de poses y juegos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

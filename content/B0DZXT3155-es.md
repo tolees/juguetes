@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🏛️ Vive el Imperio Romano desde el Senado: Ponte en la piel de un senador romano y expande tu influencia política, militar y económica por las provincias del imperio.
-- 🃏 Gestión de cartas y combos inteligentes: Combina cartas de militares, intriga, arquitectura y comercio para maximizar tus puntos de victoria.
-- ⚡ Partidas rápidas y muy rejugables: Juegos de unos 45 minutos, ideales para sesiones dinámicas con amigos o familia.
-- ♟️ Fácil de aprender, difícil de dominar: Fácil de aprender, pero con decisiones tácticas constantes que pondrán a prueba tu capacidad estratégica en cada turno.
 - 🎨 Diseño y ambientación de gran calidad: Ilustraciones de Bea Tormo y mecánicas elegantes que refuerzan la temática histórica y estratégica.
+- ⚡ Partidas rápidas y muy rejugables: Juegos de unos 45 minutos, ideales para sesiones dinámicas con amigos o familia.
+- 🃏 Gestión de cartas y combos inteligentes: Combina cartas de militares, intriga, arquitectura y comercio para maximizar tus puntos de victoria.
+- 🏛️ Vive el Imperio Romano desde el Senado: Ponte en la piel de un senador romano y expande tu influencia política, militar y económica por las provincias del imperio.
+- ♟️ Fácil de aprender, difícil de dominar: Fácil de aprender, pero con decisiones tácticas constantes que pondrán a prueba tu capacidad estratégica en cada turno.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZXT3155{{</world>}}

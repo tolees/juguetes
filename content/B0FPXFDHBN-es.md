@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO DE ROL EN LA NATURALEZA: Ayuda a los personajes a observar la flora y la fauna, asar nubes de azúcar y explorar el entorno natural, que incluye animales de juguete y fuentes termales
-- 4 MINI MUÑECOS LEGO FRIENDS: Los jóvenes constructores se lo pasarán genial interpretando historias con los personajes de Autumn, Aliya, Leo y Zac, así como animales de juguete incluidas una perrita y una ardilla
-- IDEA DE REGALO PARA PEQUES CREATIVOS: Este set es un divertido regalo de cumpleaños para niñas y niños a partir de 9 años que adoren la naturaleza y los juegos con animales y muñecas de juguete
-- HAZ MÁS AMIGOS: Descubre más ideas creativas con otros sets (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo, disponible en Internet, donde tu peque podrá conocer mejor a los personajes de Heartlake City
-- UNA AYUDA PRÁCTICA: Sigue las instrucciones digitales que encontrarás en LEGO Builder, una app que permite a constructores y constructoras acercar y girar sus modelos, consultar su progreso y guardar sets a medida que adquieren nuevas habilidades
-- SET CON CABAÑA DE JUGUETE: las niñas y niños a partir de 9 años vivirán una aventura en el bosque con el set LEGO Friends Acogedora Cabaña Otoñal en el Bosque (42705), un modelo al estilo de las casas de muñecas de juguete
 - ACCESORIOS DE ACAMPADA: Imagina horas de emocionantes aventuras con un tándem, prismáticos, perritos calientes, sándwiches, una cámara, leños, chocolate caliente y más
+- JUEGO DE ROL EN LA NATURALEZA: Ayuda a los personajes a observar la flora y la fauna, asar nubes de azúcar y explorar el entorno natural, que incluye animales de juguete y fuentes termales
+- SET CON CABAÑA DE JUGUETE: las niñas y niños a partir de 9 años vivirán una aventura en el bosque con el set LEGO Friends Acogedora Cabaña Otoñal en el Bosque (42705), un modelo al estilo de las casas de muñecas de juguete
+- HAZ MÁS AMIGOS: Descubre más ideas creativas con otros sets (a la venta por separado) y la serie LEGO Friends: El siguiente capítulo, disponible en Internet, donde tu peque podrá conocer mejor a los personajes de Heartlake City
+- 4 MINI MUÑECOS LEGO FRIENDS: Los jóvenes constructores se lo pasarán genial interpretando historias con los personajes de Autumn, Aliya, Leo y Zac, así como animales de juguete incluidas una perrita y una ardilla
+- UNA AYUDA PRÁCTICA: Sigue las instrucciones digitales que encontrarás en LEGO Builder, una app que permite a constructores y constructoras acercar y girar sus modelos, consultar su progreso y guardar sets a medida que adquieren nuevas habilidades
+- IDEA DE REGALO PARA PEQUES CREATIVOS: Este set es un divertido regalo de cumpleaños para niñas y niños a partir de 9 años que adoren la naturaleza y los juegos con animales y muñecas de juguete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXFDHBN{{</world>}}

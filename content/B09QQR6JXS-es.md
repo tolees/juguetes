@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reglas simples y proceso de juego pegadizo
-- Opcional con aplicación gratuita de explicación KOSMOS. Se puede jugar con y sin aplicación
 - Juego de mesa variado para toda la familia
-- Juego familiar accesible, que también exige a los conocedores a través de variantes
-- Versión Alemana
-- Con variante de juego en solitario también se puede jugar solo
 - Para 1-4 jugadores a partir de 10 años
+- Versión Alemana
+- Opcional con aplicación gratuita de explicación KOSMOS. Se puede jugar con y sin aplicación
+- Juego familiar accesible, que también exige a los conocedores a través de variantes
+- Reglas simples y proceso de juego pegadizo
+- Con variante de juego en solitario también se puede jugar solo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QQR6JXS{{</world>}}

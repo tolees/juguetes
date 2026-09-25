@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiempo de juego: Aproximamiento 20 minutos
-- Divertido para cualquier ocasión
 - Triple estrategia, triple diversión
 - Para hasta 4 jugadores
 - A partir de 6 años
+- Divertido para cualquier ocasión
+- Tiempo de juego: Aproximamiento 20 minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0000TZ6GO{{</world>}}

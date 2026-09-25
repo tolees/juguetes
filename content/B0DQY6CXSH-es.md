@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El exterior del estuche es de color verde con detalles dorados y viene en un embalaje de gran calidad, por lo que es ideal tanto para jugar con él como para exponerlo.
+- Descubre elementos en movimiento y explora lugares emblemáticos del estuche como el dormitorio de Glinda y Elphaba en la Universidad de Shiz, o la sala del trono del Mago en la Ciudad Esmeralda.
 - Pero eso no es todo: ¡abre cada una de las tres puertas del estuche para descubrir más momentos de la película!
-- Ideal tanto para los fans de Polly Pocket como para los de Wicked. Los colores y la decoración pueden variar. Sujeto a disponibilidad.​
 - ¡Gracias a Oz! ¡El universo de Wicked se vuelve diminuto con Polly Pocket en este estuche de coleccionista!
 - Desafía la gravedad con los tres muñecos en miniatura, Glinda, Elphaba y el Mago, además de dos accesorios: la burbuja de Glinda y el sombrero de Elphaba.
-- Descubre elementos en movimiento y explora lugares emblemáticos del estuche como el dormitorio de Glinda y Elphaba en la Universidad de Shiz, o la sala del trono del Mago en la Ciudad Esmeralda.
+- Ideal tanto para los fans de Polly Pocket como para los de Wicked. Los colores y la decoración pueden variar. Sujeto a disponibilidad.​
+- El exterior del estuche es de color verde con detalles dorados y viene en un embalaje de gran calidad, por lo que es ideal tanto para jugar con él como para exponerlo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQY6CXSH{{</world>}}

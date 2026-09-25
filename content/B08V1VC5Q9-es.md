@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 50 cm
-- Alta calidad
-- Adecuado para niños a partir de los primeros meses de vida
 - Brand: Simba
+- 50 cm
+- Adecuado para niños a partir de los primeros meses de vida
+- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08V1VC5Q9{{</world>}}

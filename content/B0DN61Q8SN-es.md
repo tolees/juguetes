@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games Pictionary Pic-Tato juego para edad 8+ 3-8 jugadores'
-date: 2026-09-20 10:39:05
+date: 2026-09-25 06:28:15
 image: 'https://m.media-amazon.com/images/I/51rK3sRig+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DN61Q8SN/?tag=tolees-21'
 descuento: '32.01'
-average: '17.8825'
+average: '17.585'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

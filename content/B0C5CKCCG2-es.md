@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 2 o más jugadores
-- Saca tu lado más artístico para transformar personajes a contrarreloj
 - Cartas borrables para jugar sin parar
 - Cuantos más personajes acierte tu equipo, más puntos conseguiréis
+- Saca tu lado más artístico para transformar personajes a contrarreloj
 - El plan optimo para pasar un rato muy divertido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

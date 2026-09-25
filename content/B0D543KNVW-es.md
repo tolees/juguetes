@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Juego de bazas
-- Inspirado en el gato de Schrödinger
 - Regalo optimo para amantes de los juegos de mesa, los gatos y la ciencia
+- Inspirado en el gato de Schrödinger
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D543KNVW{{</world>}}

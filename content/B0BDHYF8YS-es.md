@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sensación envolvente
-- Controles de audio de fácil acceso
 - Auriculares de sonido con micrófono
+- Sensación envolvente
 - Cómodos y ligeros
+- Controles de audio de fácil acceso
 - Color negro
 - Compatibilidad: PlayStation
 

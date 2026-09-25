@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todos juegan juntos
 - 28 comandos llevar restricciones
 - Las normas básicas de The Game mantienen
+- Todos juegan juntos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LZE1PPL{{</world>}}

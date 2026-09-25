@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tu artículo favorito de EMP!
 - ¡Funko Pop! con las siguientes características:
-- Merch para fans y divertido
+- Tu artículo favorito de EMP!
 - Animación, Fan merch, Gatos, Película, Series TV
+- Merch para fans y divertido
 - ¡Un auténtico destacado para tu casa!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

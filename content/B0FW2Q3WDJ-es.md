@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Juego de estrategia portátil: Hive Pocket es la versión de viaje del clásico Hive, con una práctica bolsa de tela para llevarlo a cualquier parte.
 - Ideal para 2 jugadores: partidas rápidas, tensas y muy estratégicas, perfectas para parejas, amigos o retar a un rival en cualquier momento.
-- Incluye expansiones exclusivas: esta edición incorpora el mosquito y la mariquita, que añaden nuevas tácticas y posibilidades al juego.
 - Clásico del género abstracto: creado por John Yianni, Hive es comparado con el ajedrez moderno por su sencillez de reglas y profundidad estratégica.
+- Incluye expansiones exclusivas: esta edición incorpora el mosquito y la mariquita, que añaden nuevas tácticas y posibilidades al juego.
 - Diversión para todas las edades: diseñado para mayores de 8 años, es un título imprescindible en cualquier ludoteca familiar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

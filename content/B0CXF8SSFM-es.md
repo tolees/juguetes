@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee Power Hungry Pets de Exploding Kittens Juego de Estrategia'
-date: 2026-09-10 17:04:30
+date: 2026-09-23 16:37:33
 image: 'https://m.media-amazon.com/images/I/51bbwNJlFAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CXF8SSFM-es Asmodee Power Hungry Pets de Exploding Kittens Juego de...'
 sku: 'B0CXF8SSFM-es'
 tags: [ 'asmodee','🇪🇸', ]
-actualPrice: 11.84 EUR
+actualPrice: 11.24 EUR
 currency: EUR
-price: 11.84
+price: 11.24
 comparePrice: 14.99 EUR
 prodname: 'Asmodee Power Hungry Pets de Exploding Kittens Juego de Estrategia'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CXF8SSFM/?tag=tolees-21'
-descuento: '21.01'
-average: '12.305'
+descuento: '25.02'
+average: '11.95'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

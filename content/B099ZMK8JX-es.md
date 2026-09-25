@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado en felpa muy suave
 - Adecuado desde los primeros meses de edad
-- Peluche Toad Super Mario
 - Licencia oficial
+- Peluche Toad Super Mario
+- Fabricado en felpa muy suave
 - 20 cm de alto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

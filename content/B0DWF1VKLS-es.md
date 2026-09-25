@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO ǀ Marvel Capitán América vs. Thanos - Juguete de Superhéroes Vengadores con Avión a Reacción Nave Espacial y 2 Minifiguras con Accesorios Inc. Escudo - Regalo para Niños de 4+ Años 76319'
-date: 2026-09-13 10:03:17
+title: 'LEGO Marvel Capitán América vs. Thanos 76319'
+date: 2026-09-21 18:09:04
 image: 'https://m.media-amazon.com/images/I/51chqqzkfgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWF1VKLS-es LEGO ǀ Marvel Capitán América vs. Thanos - Juguete de...'
+slug: 'B0DWF1VKLS-es LEGO Marvel Capitán América vs. Thanos 76319'
 sku: 'B0DWF1VKLS-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 25.99 EUR
+actualPrice: 26.24 EUR
 currency: EUR
-price: 25.99
+price: 26.24
 comparePrice: 34.99 EUR
-prodname: 'LEGO ǀ Marvel Capitán América vs. Thanos - Juguete de Superhéroes Vengadores con Avión a Reacción Nave Espacial y 2 Minifiguras con Accesorios Inc. Escudo - Regalo para Niños de 4+ Años 76319'
+prodname: 'LEGO Marvel Capitán América vs. Thanos 76319'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWF1VKLS/?tag=tolees-21'
-descuento: '25.72'
-average: '24.0199999999999'
+descuento: '25.01'
+average: '24.1587499999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

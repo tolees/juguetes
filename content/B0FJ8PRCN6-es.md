@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Dos equipos van a participar en el Campeonato Cochinilla Porterilla! Cada equipo recibe un montón de cartas que deberá jugar de 1 en 1.
-- Cuando eso ocurra, deberán enfrentarse para ver quién se las lleva…
 - ¡UN JUEGO DE CARTAS QUE HARÁ QUE TODO EL MUNDO SE LEVANTE Y SE RÍA MIENTRAS LANZA, HACE RODAR Y ANOTA GOLES CON SUS COCHINILLAS!
 - ¡Junto con un buen montón de cartas más! Las cartas valen puntos, ¡quien tenga más puntos al final de la partida ganará el campeonato!
+- Cuando eso ocurra, deberán enfrentarse para ver quién se las lleva…
 - El equipo que juegue la carta más alta se quedará con las dos, pero la verdadera diversión comienza cuando los equipos jueguen la misma carta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

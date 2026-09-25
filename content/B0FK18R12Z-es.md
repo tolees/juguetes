@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - A los jugadores del juego UNO les encantarán las preciosas imágenes inspiradas en el universo de Toy Story 5.
-- La regla especial “Carga completa” obliga a los jugadores a robar cartas en función del número de cartas con el icono de batería que tengan en la mano.
-- Gracias a su práctica lata de almacenamiento, es perfecto para llevarlo contigo a cualquier parte: de vacaciones, a una escapada en coche o a un viaje.
-- La jugabilidad es la misma que la del clásico juego de cartas en el que los jugadores emparejan colores y números para deshacerse de todas sus cartas.
-- Cuando te quede una sola carta en la mano, no te olvides de gritar “¡UNO!”.
 - Diseñado para que jueguen de 2 a 10 personas a partir de 7 años, este juego de cartas coleccionables es un regalo divertido y lleno de aventuras para los fans de Toy Story.
+- Cuando te quede una sola carta en la mano, no te olvides de gritar “¡UNO!”.
+- La regla especial “Carga completa” obliga a los jugadores a robar cartas en función del número de cartas con el icono de batería que tengan en la mano.
+- La jugabilidad es la misma que la del clásico juego de cartas en el que los jugadores emparejan colores y números para deshacerse de todas sus cartas.
+- Gracias a su práctica lata de almacenamiento, es perfecto para llevarlo contigo a cualquier parte: de vacaciones, a una escapada en coche o a un viaje.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FK18R12Z{{</world>}}

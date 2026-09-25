@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ghosts of the Blades - Encuentro de fantasmas de 10 piezas (incluye 10 miniaturas translúcidas)
-- From the Ashes - Encuentro de dragón de 10 piezas
-- Amplía tus campañas con nuevas historias y mecánicas adicionales. Una colección de expansiones modulares opcionales para Skyrim: The Adventure Game & Dawnguard.
-- Nota: Requiere una copia del juego de aventura para jugar. No es un producto independiente.
 - 5 mini historias de campaña, encuentros adicionales de mazmorras y un montón de nuevos conjuntos de equipo y armadura
+- Amplía tus campañas con nuevas historias y mecánicas adicionales. Una colección de expansiones modulares opcionales para Skyrim: The Adventure Game & Dawnguard.
+- From the Ashes - Encuentro de dragón de 10 piezas
+- Nota: Requiere una copia del juego de aventura para jugar. No es un producto independiente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHTLFZZF{{</world>}}

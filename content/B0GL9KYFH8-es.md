@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🎭 MECÁNICAS ÚNICAS QUE NO ENCONTRARÁS EN OTROS JUEGOS Ojos de Gallina, Cacareo, Montón de Paja, Gallina Alfa… Cada carta introduce una situación nueva. Un cacareo a destiempo o una mirada sospechosa puede cambiar el resultado de la partida.
 - 🎯 SE APRENDE EN 2 MINUTOS, ENGANCHA DURANTE HORAS Sin reglas complicadas ni explicaciones eternas. Ideal para 3-6 jugadores desde 8 años, funciona igual de bien en familia, con amigos o con personas que nunca juegan a juegos de mesa.
-- 🎁 EL REGALO ORIGINAL QUE SIEMPRE ACIERTA Perfecto para cumpleaños, Navidad, amigo invisible o cualquier reunión. 110 cartas, partidas de 20-30 minutos, nadie queda eliminado y cada partida es completamente diferente.
 - ♻️ PARTIDAS ENCADENABLES Y SIEMPRE DIFERENTES Nadie se queda fuera, el caos es siempre distinto y el juego nunca se hace repetitivo. Diseñado en España para transformar cualquier reunión en un recuerdo divertido.
+- 🎭 MECÁNICAS ÚNICAS QUE NO ENCONTRARÁS EN OTROS JUEGOS Ojos de Gallina, Cacareo, Montón de Paja, Gallina Alfa… Cada carta introduce una situación nueva. Un cacareo a destiempo o una mirada sospechosa puede cambiar el resultado de la partida.
+- 🎁 EL REGALO ORIGINAL QUE SIEMPRE ACIERTA Perfecto para cumpleaños, Navidad, amigo invisible o cualquier reunión. 110 cartas, partidas de 20-30 minutos, nadie queda eliminado y cada partida es completamente diferente.
 - 🐔 EL ÚNICO JUEGO DONDE TIENES QUE COMPORTARTE COMO UNA GALLINA Grita "¡Maíz!", cacarea a tiempo o aléjate de los huevos podridos sin que nadie te pille. Kakaroo mezcla bluff, reacciones rápidas y momentos absurdos que generan risas inmediatas desde la primera carta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

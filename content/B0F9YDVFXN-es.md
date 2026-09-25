@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peluche de la popular serie de televisión y película Jurassic World
 - Peluche de alta calidad de 32 cm
 - Peluche suave y acogedor
+- Peluche de la popular serie de televisión y película Jurassic World
 - Lavable a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

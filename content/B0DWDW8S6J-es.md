@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Sonic The Hedgehog Knuckles vs. Dr. Eggman Egg Crusher Mech Toy - Building Set Incl. 2 Minifigures Rings & Chaos Emeralds - Video Gaming Gift for 8+ Year Old Boys & Girls - 77005'
-date: 2026-08-07 12:46:23
+title: 'LEGO Sonic The Hedgehog: Knuckles vs. Meca Egg Crusher del Dr. Eggman 77005'
+date: 2026-09-21 18:08:25
 image: 'https://m.media-amazon.com/images/I/51xNA5yUOfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DWDW8S6J-es LEGO Sonic The Hedgehog Knuckles vs. Dr. Eggman Egg...'
+slug: 'B0DWDW8S6J-es LEGO Sonic The Hedgehog: Knuckles vs. Meca Egg Crusher del...'
 sku: 'B0DWDW8S6J-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 23.95 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 23.95
+price: 29.99
 comparePrice: 39.99 EUR
-prodname: 'LEGO Sonic The Hedgehog Knuckles vs. Dr. Eggman Egg Crusher Mech Toy - Building Set Incl. 2 Minifigures Rings & Chaos Emeralds - Video Gaming Gift for 8+ Year Old Boys & Girls - 77005'
+prodname: 'LEGO Sonic The Hedgehog: Knuckles vs. Meca Egg Crusher del Dr. Eggman 77005'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDW8S6J/?tag=tolees-21'
-descuento: '40.11'
-average: '26.7300000000001'
+descuento: '25.01'
+average: '27.0922222222223'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aventuras con un meca LEGO: Este juguete Sonic de combate contiene también una catapulta que lanza rocas al presionar una palanca para interpretar emocionantes aventuras con Knuckles y el Dr. Eggman
-- Juguete inspirado en Sonic: Sorprende a tu fan a partir de 8 años regalándole el set Knuckles vs. Meca Egg Crusher del Dr. Eggman, con múltiples opciones de juego y 2 emblemáticos personajes
-- Regalos para gamers de 8 a 12 años: Esta divertida idea de regalo del universo Sonic con Knuckles, el Dr. Eggman y un meca encantará a los niños y las niñas que disfruten del juego interactivo
-- Una divertida forma de construir: La app LEGO Builder guiará a los peques a través de una intuitiva aventura de construcción en la que podrán acercar y girar versiones en 3D de sus modelos mientras construyen, consultar su progreso y guardar sets
-- Juguete interactivo: Incluye una figura articulada de un meca con lanzador rotatorio de 6 proyectiles, garra gigante que gira y extremidades móviles
-- Juguetes LEGO creativos: Todos los sets LEGO Sonic the Hedgehog introducen a los niños en un mundo de divertida acción trepidante y juego imaginativo con los diferentes personajes y las numerosas posibilidades narrativas de cada uno de ellos
-- Robot de juguete del Dr. Eggman: Este juguete para niños les permite interpretar historias con un meca construible articulado, una aerotabla y una catapulta de juguete con 2 rocas, así como con los personajes de Knuckles y el Dr. Eggman
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDW8S6J{{</world>}}

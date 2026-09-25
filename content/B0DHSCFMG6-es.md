@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Ninjago Moto-Meca de la Tormenta de Kai Juguete de Construcción Juego Ninja con Moto y 3 Minifiguras Figura Articulada con Catana Regalo para Niños y Niñas de 7 Años o Más 71830'
-date: 2026-09-17 17:04:08
+title: 'LEGO Ninjago Moto-Meca de la Tormenta de Kai 71830'
+date: 2026-09-23 20:34:24
 image: 'https://m.media-amazon.com/images/I/51fINNUNn3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSCFMG6-es LEGO Ninjago Moto-Meca de la Tormenta de Kai Juguete de...'
+slug: 'B0DHSCFMG6-es LEGO Ninjago Moto-Meca de la Tormenta de Kai 71830'
 sku: 'B0DHSCFMG6-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 39.49 EUR
+actualPrice: 37.49 EUR
 currency: EUR
-price: 39.49
+price: 37.49
 comparePrice: 49.99 EUR
-prodname: 'LEGO Ninjago Moto-Meca de la Tormenta de Kai Juguete de Construcción Juego Ninja con Moto y 3 Minifiguras Figura Articulada con Catana Regalo para Niños y Niñas de 7 Años o Más 71830'
+prodname: 'LEGO Ninjago Moto-Meca de la Tormenta de Kai 71830'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSCFMG6/?tag=tolees-21'
-descuento: '21.00'
-average: '35.6642105263157'
+descuento: '25.01'
+average: '35.9817391304347'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

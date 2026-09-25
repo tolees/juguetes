@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'LEGO Ninjago Coche de Carreras con Motor de Carga Manual de Lloyd de Juguete Juego Ninja con 2 Minifiguras Armas y Catanas Regalo para Niños y Niñas de 7 Años o Más 71828'
-date: 2026-08-31 20:35:14
-image: 'https://m.media-amazon.com/images/I/51SpEGFN5nL._SL500_._SL400_.jpg'
+date: 2026-09-21 12:32:39
+image: 'https://m.media-amazon.com/images/I/51l0u4PhoML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0DHSFRG9D-es LEGO Ninjago Coche de Carreras con Motor de Carga Manual...'
 sku: 'B0DHSFRG9D-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 18.7 EUR
+actualPrice: 18.74 EUR
 currency: EUR
-price: 18.7
+price: 18.74
 comparePrice: 24.99 EUR
 prodname: 'LEGO Ninjago Coche de Carreras con Motor de Carga Manual de Lloyd de Juguete Juego Ninja con 2 Minifiguras Armas y Catanas Regalo para Niños y Niñas de 7 Años o Más 71828'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSFRG9D/?tag=tolees-21'
-descuento: '25.17'
-average: '20.3479166666667'
+descuento: '25.01'
+average: '20.2242307692308'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Infinidad de características: Este aerodinámico coche de carreras de juguete cuenta con 4 ruedas y habitáculo, está decorado con Espadas del Rayo verdes y viene con 2 elementos que representan rayos para crear un pequeño circuito de obstáculos
-- 2 minifiguras LEGO NINJAGO: El juguete de construcción ninja incluye a Lloyd (en una armadura inédita y con 2 elementos que representan catanas doradas) y a un guerrero Dragónido (con una espada de juguete)
-- Coche de carreras de juguete: Los niños y las niñas a partir de 7 años podrán interpretar la trepidante acción de la temporada 3 de la serie NINJAGO: El renacer de los dragones con el Coche de Carreras con Motor de Carga Manual de Lloyd
-- Regalo inspirado en los ninja: Además de proporcionar una envolvente experiencia de construcción y juego, este juego ninja de acción es una óptima idea de regalo para niños y niñas a partir de 7 años con pasión por los vehículos ninja
-- Un coche de carreras de juguete con motor de carga manual NINJAGO: Los peques tiran hacia atrás del Coche de Carreras con Motor de Carga Manual de Lloyd, lo sueltan… y sale lanzado hacia delante a gran velocidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHSFRG9D{{</world>}}

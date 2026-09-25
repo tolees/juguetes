@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75375 Halcón Milenario -Maqueta para Adultos de Nave Estelar Coleccionable con Base y Placa - Decoración de Escritorio - Regalo para Hombres Mujeres y Fans de Una Nueva Esperanza'
-date: 2026-09-07 07:40:17
+title: 'LEGO Star Wars Halcón Milenario 75375'
+date: 2026-09-23 12:34:59
 image: 'https://m.media-amazon.com/images/I/51LcIF9Gx4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CFW29DZX-es LEGO Star Wars 75375 Halcón Milenario -Maqueta para...'
+slug: 'B0CFW29DZX-es LEGO Star Wars Halcón Milenario 75375'
 sku: 'B0CFW29DZX-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 67.14 EUR
+actualPrice: 67.95 EUR
 currency: EUR
-price: 67.14
+price: 67.95
 comparePrice: 84.99 EUR
-prodname: 'LEGO Star Wars 75375 Halcón Milenario -Maqueta para Adultos de Nave Estelar Coleccionable con Base y Placa - Decoración de Escritorio - Regalo para Hombres Mujeres y Fans de Una Nueva Esperanza'
+prodname: 'LEGO Star Wars Halcón Milenario 75375'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CFW29DZX/?tag=tolees-21'
-descuento: '21.00'
-average: '68.6125301204821'
+descuento: '20.05'
+average: '68.5969411764707'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo para coleccionistas de recuerdos y fans de Star Wars: esta nave estelar de construcción LEGO para adultos, con 921 piezas, es un óptimo autorregalo o un regalo de cumpleaños idóneo para todo apasionado de Star Wars
-- Parte de la Colección de Naves Estelares LEGO Star Wars: esta maqueta de construcción pertenece a una serie coleccionable de modelos de escala media inspirados en emblemáticas naves estelares de la saga Star Wars
-- Modelo coleccionable del Halcón Milenario para construir y exponer: disfruta recordando escenas clásicas mientras construyes con ladrillos LEGO una recreación a escala media de la nave estelar más famosa del universo Star Wars
-- Ayuda digital para construir tu nave estelar LEGO Star Wars: con la app LEGO Builder, puedes consultar instrucciones 3D para crear los modelos, seguir tus progresos, guardar todos tus sets en un mismo lugar e incluso construir en compañía
-- Desde una galaxia muy, muy lejana hasta tu hogar: los sets LEGO Star Wars coleccionables para adultos se diseñan para personas como tú que disfrutan relajándose con proyectos de construcción absorbentes y creativos que favorecen la concentración
-- Diseñado como pieza de exposición y decoración del hogar: la base construible incorpora una placa identificativa y un ladrillo conmemorativo del 25 aniversario de LEGO Star Wars, y permite colocar el Halcón Milenario en ángulo para aportar dinamismo
-- Un vehículo de Star Wars con fieles detalles: recrea al estilo LEGO las icónicas características del Halcón Milenario que aparece en Star Wars: Una Nueva Esperanza, como la cabina, la antena parabólica y los cañones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFW29DZX{{</world>}}

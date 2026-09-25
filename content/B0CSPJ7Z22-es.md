@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LA CASA DE MUÑECAS DE GABBY - ATICO DE FIESTAS DE GABBY S DOLLHOUSE FIGURAS DE JUGUETE MUEBLES Y ACCESORIOS LA CASA DE MUÑECAS - 6069755 - Regalo Niña 3 años + - Juguetes Niñas 3 años +'
-date: 2026-09-17 15:14:41
+date: 2026-09-25 11:52:08
 image: 'https://m.media-amazon.com/images/I/41vpYM8RP-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CSPJ7Z22/?tag=tolees-21'
 descuento: '36.73'
-average: '24.6776923076925'
+average: '24.722142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

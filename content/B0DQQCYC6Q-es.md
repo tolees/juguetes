@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Ahora, el destino de la tripulación está en tus manos...!
-- ¿Serás capaz de identificar a los miembros de tu equipo, ser astuto y usar los objetos a bordo del barco de forma estratégica para ganar?
 - Silver Pawn award y Best toy 2023. Autores: Jean Xia Chou. Arte: Laura Bazzoni
+- ¿Serás capaz de identificar a los miembros de tu equipo, ser astuto y usar los objetos a bordo del barco de forma estratégica para ganar?
+- Juego de roles ocultos y deducción de 3 a 8 jugadores, a partir de 10 años y partidas de 30 minutos aproximadamente
 - A lo largo del juego, asegúrate de discutir, cuestionar y compartir información (verdadera o falsa) con los demás para coordinar tus esfuerzos o traicionarlos en el momento adecuado...
+- ¡Ahora, el destino de la tripulación está en tus manos...!
 - Traidores a bordo es un juego de roles ocultos que combina estrategia, engaños e interacciones sociales
 - En Traidores a bordo, asumes el papel de un pirata que intentará llenar el cofre de la tripulación o de un amotinado que hará todo lo posible para sabotear el botín
-- Juego de roles ocultos y deducción de 3 a 8 jugadores, a partir de 10 años y partidas de 30 minutos aproximadamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQQCYC6Q{{</world>}}

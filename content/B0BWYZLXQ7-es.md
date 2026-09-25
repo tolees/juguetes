@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este modelo reproduce de forma colorida y divertida uno de los dinosaurios más conocidos: el Triceratops.
 - El Dinosaurio es fácil de montar gracias a las herramientas incluidas en el juego.
+- Este modelo reproduce de forma colorida y divertida uno de los dinosaurios más conocidos: el Triceratops.
 - El diseño de cada construcción es personal, Made in Italy y personalizado.
 - Los nuevos Dinosaurios están diseñados para desarrollar la destreza manual y el razonamiento lógico, acercando a los niños en edad preescolar a las materias STEM.
 - El juego tiene mecanismos especiales que permiten realizar movimientos únicos para cada modelo.

@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Eurogame ambicioso altamente estratégico con una temática evocadora.
+- En Bitoku los jugadores tomarán el papel de espíritus que habitan un bosque ancestral guardado por el gran espíritu
 - Eurogame ambicioso, altamente estratégico, con una temática evocadora
 - Combinación de mecánicas de colocación de trabajadados, construcción de mazo, gestión de recursos y colección de sets
 - Modo en solitario creado por David Turzci, famoso autor de los juegos en solitario
 - Modo en solitario creado por David Turzci, el autor más relevante de los juegos en solitario
-- En Bitoku los jugadores tomarán el papel de espíritus que habitan un bosque ancestral guardado por el gran espíritu
 - Pueden participar entre uno y cuatro jugadores, a partir de los 14 años de edad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

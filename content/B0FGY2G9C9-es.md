@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¡Dos juegos en uno! Disfruta del Scrabble clásico que ya conoces y que tanto te gusta…
-- …o dale la vuelta al tablero de doble cara y prueba Scrabble Together, especialmente diseñado para un juego cooperativo más rápido e informal, y con un sencillo sistema de puntuación.
-- Las tarjetas de objetivos incluyen 20 tarjetas de objetivos para principiantes, 30 tarjetas de objetivos estándar y 6 tarjetas de ayuda. ¡Completa 20 objetivos para ganar!
 - Completa el desafío y quédate con la tarjeta para ganar un punto. El sistema de puntuación es muy sencillo.
 - Roba una carta y descubre desafíos de diferentes dificultades, como “Juega una palabra de cinco letras” o “Juega en una casilla que haga esquina”.
+- Las tarjetas de objetivos incluyen 20 tarjetas de objetivos para principiantes, 30 tarjetas de objetivos estándar y 6 tarjetas de ayuda. ¡Completa 20 objetivos para ganar!
 - En Scrabble Together, trabaja en equipo para completar un surtido de 50tarjetas de objetivos para aprender los conceptos básicos del Scrabble.
+- …o dale la vuelta al tablero de doble cara y prueba Scrabble Together, especialmente diseñado para un juego cooperativo más rápido e informal, y con un sencillo sistema de puntuación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGY2G9C9{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pop-open figuras transform from BakuBalls to Bakugan
 - Recreate the excitement of the show using the BakuCores (included) Character Cards and Ability Cards
 - Colecciona todos tus personajes favoritos del espectáculo
+- Pop-open figuras transform from BakuBalls to Bakugan
 - Detalles auténticos que proporcionan cada character to life
 
 [🛒 Visítala!!!]({{< param buyurl >}})

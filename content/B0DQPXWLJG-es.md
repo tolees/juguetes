@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 13 funciones
 - Multiherramienta compacta y versátil fabricada en acero.
-- Peso: sólo 175 gramos
 - Fácil de usar
+- Peso: sólo 175 gramos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQPXWLJG{{</world>}}

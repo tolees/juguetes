@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Figura de hipo y Astrid con traje nupcial
 - Desarrolla la imaginación y la creatividad
+- Figura de hipo y Astrid con traje nupcial
 - Contiene 17 piezas
 - Juego individual o en grupo
 

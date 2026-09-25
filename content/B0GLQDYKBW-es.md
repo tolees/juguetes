@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CÓMO JUGAR – Gira una Tarjeta de Desafío y luego tu Tarjeta de Equipo para ver tu lado. Compite para encontrar nuevos compañeros y completa la tarea antes que el otro equipo. ¡Los equipos cambian cada ronda y el primer jugador con 5 fichas gana!
-- DÓNDE JUGAR – Disfruta el juego en cualquier lugar con espacio: mesa de la cocina, parque, área común o o el salón para noches de juegos familiares.
-- DE LOS CREADORES DE EXPLODING KITTENS – Juegos diseñados para hacer tus reuniones más entretenidas. Perfecto como regalo familiar, juego de fiesta, rompehielos o para añadir diversión y caos al tiempo libre.
-- CONTENIDO DEL JUEGO – Incluye 20 tarjetas de equipo, 100 tarjetas de desafío, 80 fichas y folleto de instrucciones para empezar a jugar al instante
 - PARA 4‑20 JUGADORES – Perfecto para grupos grandes llenos de energía o enfrentamientos más pequeños, Lealtad Cero trae caos y diversión sin parar a cualquier noche de juego de fiesta.
+- DÓNDE JUGAR – Disfruta el juego en cualquier lugar con espacio: mesa de la cocina, parque, área común o o el salón para noches de juegos familiares.
+- CONTENIDO DEL JUEGO – Incluye 20 tarjetas de equipo, 100 tarjetas de desafío, 80 fichas y folleto de instrucciones para empezar a jugar al instante
+- CÓMO JUGAR – Gira una Tarjeta de Desafío y luego tu Tarjeta de Equipo para ver tu lado. Compite para encontrar nuevos compañeros y completa la tarea antes que el otro equipo. ¡Los equipos cambian cada ronda y el primer jugador con 5 fichas gana!
+- DE LOS CREADORES DE EXPLODING KITTENS – Juegos diseñados para hacer tus reuniones más entretenidas. Perfecto como regalo familiar, juego de fiesta, rompehielos o para añadir diversión y caos al tiempo libre.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GLQDYKBW{{</world>}}

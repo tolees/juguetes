@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967 Educa es sinónimo de calidad y experiencia.
+- Nuestros puzzles adultos de 500 piezas se recomiendan a partir de 11 años.
 - 🌱 Producto respetuoso con el medio ambiente gracias a su producción con tintas vegetales éstas se basan en materiales renovables y orgánicos con una liberación casi nula de CoV (compuestos orgánicos volátiles).
 - 🧩 Puzzle de 1500 piezas para adultos. Medida: 85 x 60 cm.
-- Nuestros puzzles adultos de 500 piezas se recomiendan a partir de 11 años.
+- Materiales de alta calidad y óptimo encaje. Creando puzles desde 1967 Educa es sinónimo de calidad y experiencia.
 - 🧠 Estimula tu mente y creatividad: Los puzzles de Educa son una actividad perfecta para desarrollar motricidad fina memoria visual y psicomotricidad además de Estimular curiosidad y imaginación de niños y adultos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
