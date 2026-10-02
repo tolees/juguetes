@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crea tus nuevos look con este completo set estudio mechas y rizador 3 en 1
+- Servicio atención al cliente disponible todo el año (sat@bizak.es).
 - Incluye dos colores diferentes
 - Aplica el color sobre un mechón de tu pelo y estarás lista para lucir mechas de color
-- Servicio atención al cliente disponible todo el año (sat@bizak.es).
+- Crea tus nuevos look con este completo set estudio mechas y rizador 3 en 1
 - Producto distribuido oficialmente en España por BIZAK.
 - Además puedes rizar y ondular tu pelo
 

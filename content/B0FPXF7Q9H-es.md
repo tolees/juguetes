@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Experiencia de Pizza a Domicilio con Vehículos 60496'
-date: 2026-09-28 05:49:29
+date: 2026-09-30 03:50:15
 image: 'https://m.media-amazon.com/images/I/51fzDsjGYQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXF7Q9H/?tag=tolees-21'
 descuento: '20.00'
-average: '38.085'
+average: '38.2966666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

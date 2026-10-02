@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Xbox
 - Diablo III Eternal Collection Xbox One Importación italiana
+- Xbox
 - SOFTWARE DE VIDEOJUEGOS FÍSICOS
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Cargadora con Ruedas Volvo L120 Electric 42209'
-date: 2026-09-26 09:02:35
+date: 2026-09-29 21:37:56
 image: 'https://m.media-amazon.com/images/I/51OSLr0NPPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DRCWG11G/?tag=tolees-21'
 descuento: '25.00'
-average: '75.282962962963'
+average: '75.2627586206897'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juguete tipo lanzador
 - De la colección Nerf
+- Juguete tipo lanzador
 - Momentos de diversión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

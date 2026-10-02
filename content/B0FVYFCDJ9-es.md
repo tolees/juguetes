@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 🧱 Campaña cooperativa legacy: vive una historia que evoluciona a lo largo de 6 capítulos donde cada decisión cambia las reglas y el tablero. Cada uno viene con un vídeo introductorio.
 - 👨‍👩‍👧‍👦 Perfecto para grupos y familias: partidas de 45–60 minutos, para 2 a 4 jugadores desde 10 años, ideal para noches de juego cooperativo.
 - 🔥 Desafíos llenos de tensión: evita los espíritus de fuego, escala el ziggurat y coordina tus movimientos para sobrevivir junto a tu equipo.
-- 🧱 Campaña cooperativa legacy: vive una historia que evoluciona a lo largo de 6 capítulos donde cada decisión cambia las reglas y el tablero. Cada uno viene con un vídeo introductorio.
 - 🧩 Diseño inmersivo y tablero 3D: disfruta de una producción espectacular con ilustraciones de Cory Godbey y mecánicas de Matt Leacock y Rob Daviau.
 - 🎁 Descubre nuevos secretos: abre sobres con componentes ocultos, pega condecoraciones y transforma tu copia en una experiencia única.
 

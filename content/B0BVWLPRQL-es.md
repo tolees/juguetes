@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Conjunto de vehículos pequeños
 - Con licencia de "Peppa Pig"
 - Set de figuras de juguetes
-- Conjunto de vehículos pequeños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVWLPRQL{{</world>}}

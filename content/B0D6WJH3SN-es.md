@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dentro también encontrarás 1 tablero para dos jugadores, 1 libro de reglas y 1 carta con código para JCC Pokémon Live.
-- Puedes escoger entre 3 barajas completas (60 cartas cada una). Cada baraja incluye un Pokémon muy potente y especial: Armarouge ex, Pikachu ex o Darkrai ex.
-- Llegan al campo de combate unas cartas de promoción completamente nuevas: 4 Mareep, 3 Flaaffy, 2 Ampharos, 4 Pawniard, 3 Bisharp, 2 Kingambit, 1 Miraidon y 6 de Dominguera.
 - La Academia de Combate de JCC Pokémon contiene todo lo que dos Entrenadores necesitan para empezar a jugar, con manuales para ayudarte con las barajas para que te resulte sencillísimo lanzarte a tu primera partida.
+- Dentro también encontrarás 1 tablero para dos jugadores, 1 libro de reglas y 1 carta con código para JCC Pokémon Live.
 - Este es un producto en español.
+- Llegan al campo de combate unas cartas de promoción completamente nuevas: 4 Mareep, 3 Flaaffy, 2 Ampharos, 4 Pawniard, 3 Bisharp, 2 Kingambit, 1 Miraidon y 6 de Dominguera.
+- Puedes escoger entre 3 barajas completas (60 cartas cada una). Cada baraja incluye un Pokémon muy potente y especial: Armarouge ex, Pikachu ex o Darkrai ex.
 - Contiene 1 hoja de instrucciones para ayudarte a preparar la partida, 2 manuales para guiarte en el dominio de las barajas, 3 cajas para cartas para mantenerlas bien organizadas, 1 set de contadores de daño y 1 moneda de gran tamaño de Armarouge, Pikachu y Darkrai.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

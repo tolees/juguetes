@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puzzle XXL con 48 piezas de cartón
-- Incluye un barco pirata 3D para jugar y encontrar el tesoro
 - Puzzle XXL Piratas para niños a partir de 4 años
+- Incluye un barco pirata 3D para jugar y encontrar el tesoro
+- Puzzle XXL con 48 piezas de cartón
 - Rompecabezas reversible: escena ambientada en los piratas y por detrás, escena del mapa del tesoro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

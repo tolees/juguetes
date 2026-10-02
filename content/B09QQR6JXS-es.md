@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego familiar accesible, que también exige a los conocedores a través de variantes
-- Versión Alemana
 - Juego de mesa variado para toda la familia
-- Reglas simples y proceso de juego pegadizo
-- Para 1-4 jugadores a partir de 10 años
 - Con variante de juego en solitario también se puede jugar solo
+- Juego familiar accesible, que también exige a los conocedores a través de variantes
 - Opcional con aplicación gratuita de explicación KOSMOS. Se puede jugar con y sin aplicación
+- Reglas simples y proceso de juego pegadizo
+- Versión Alemana
+- Para 1-4 jugadores a partir de 10 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QQR6JXS{{</world>}}

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseñado para entre 2 y 4 jugadores a partir de 5 años, este juego es un regalo perfecto para fans de Jurassic World El Renacer.
 - Las hojas de los palitos permiten a los jugadores daltónicos identificar el color que coincide con el dado.
+- El juego Monos locos que los niños adoran con figuras de espinosaurios inspiradas en Jurassic World El Renacer.
 - Tira el dado para saber el color de los palitos que debes sacar.
 - Cuando todos los espinosaurios hayan caído de la torre oceánica, el jugador con menos espinosaurios será el ganador.
-- El juego Monos locos que los niños adoran con figuras de espinosaurios inspiradas en Jurassic World El Renacer.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMW9Y8QQ{{</world>}}

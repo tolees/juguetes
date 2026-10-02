@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coches Slot para circuitos Scalextric Original: Coches escala 1:32 en atractivos acabados y diseños. Disfruta de la carrera con tu coche favorito.
-- Impresionante Aston Martin Formula 1 - Alonso 25 a escala 1:32 recreado con un acabado realista.
 - La marca garantiza el respeto de los mas altos estándares durante el proceso de produccion, con el fin de asegurar una excelente experiencia al cliente.
+- Coches Slot para circuitos Scalextric Original: Coches escala 1:32 en atractivos acabados y diseños. Disfruta de la carrera con tu coche favorito.
 - Un regalo perfecto para cumpleaños, navidades, aniversarios o cualquier ocasión especial, para niños y adultos. Disfruta de la experiencia scalextric con tus hijos y descrúbeles su apasionante mundo.
+- Impresionante Aston Martin Formula 1 - Alonso 25 a escala 1:32 recreado con un acabado realista.
 - Es el juguete ideal para fomentar la interactividad entre padres e hijos, a la vez que estos últimos aprenden jugando.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

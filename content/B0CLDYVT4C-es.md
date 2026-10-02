@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- JUEGO DE ESTRATEGIA Y AVENTURA: Sumérgete en la construcción de imperios ferroviarios en la América del siglo XIX con un enfoque narrativo único en cada partida
 - CAMPAÑA LEGACY DINÁMICA: Vive una experiencia evolutiva con 12 partidas emocionantes donde cada decisión afecta el desarrollo futuro del juego, haciendo que cada juego sea único
-- DESARROLLO DE HABILIDADES Y ESTRATEGIAS: Mejora tus habilidades estratégicas mientras compites contra otros jugadores para conectar ciudades y rutas a través de América
 - COMPONENTES DE ALTA CALIDAD: Incluye 280 vagones de tren, 13 tableros fronterizos, cartas y cajas que desbloquean reglas y contenidos adicionales para enriquecer el juego
+- DESARROLLO DE HABILIDADES Y ESTRATEGIAS: Mejora tus habilidades estratégicas mientras compites contra otros jugadores para conectar ciudades y rutas a través de América
+- JUEGO DE ESTRATEGIA Y AVENTURA: Sumérgete en la construcción de imperios ferroviarios en la América del siglo XIX con un enfoque narrativo único en cada partida
 - CREADO POR DISEÑADORES LEGENDARIOS: Diseñado por un equipo de renombre, incluyendo a Rob Daviau y Alan R. Moon, garantizando una experiencia de juego profunda y cautivadora
 
 [🛒 Comprar!!!]({{< param buyurl >}})

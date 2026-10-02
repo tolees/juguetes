@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ideas Peanuts: La Caseta de Snoopy 21368'
-date: 2026-09-27 20:20:06
+date: 2026-10-01 05:59:09
 image: 'https://m.media-amazon.com/images/I/41xO9mRekBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDDTDB/?tag=tolees-21'
 descuento: '20.00'
-average: '68.5328571428572'
+average: '67.965'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

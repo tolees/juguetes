@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 28 comandos llevar restricciones
 - Todos juegan juntos
 - Las normas básicas de The Game mantienen
+- 28 comandos llevar restricciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LZE1PPL{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Duck ON Call 70913 Camión Ambulancia con estación Luz y Sonido Juguete para niños a Partir de 3 años'
-date: 2026-09-22 08:38:52
+date: 2026-10-01 01:31:34
 image: 'https://m.media-amazon.com/images/I/512F+v3ugIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09JSK7B69/?tag=tolees-21'
 descuento: '28.80'
-average: '52.1402564102564'
+average: '52.3748780487805'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

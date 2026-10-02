@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escucha la insólita información que cuenta el presentador y adivina si es Verdadero o Falso
-- Consigue el mayor número de puntos posible en las 3 rondas que tiene el juego de mesa
-- Contiene: base electrónica con 1.000 informaciones locas e instrucciones
 - Juego de mesa familiar, lleno de anécdotas extraordinarias con las que los niños y adultos se divertirán
+- Escucha la insólita información que cuenta el presentador y adivina si es Verdadero o Falso
+- Contiene: base electrónica con 1.000 informaciones locas e instrucciones
+- Consigue el mayor número de puntos posible en las 3 rondas que tiene el juego de mesa
 - ¡Prepárate para ser el más rápido en contestar! Recomendado para niños a partir de 8 años aunque puede jugar toda la familia junto con amigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

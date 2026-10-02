@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para 2-4 jugadores
-- Edad recomendada: a partir de 6 años
 - Duración de 30 minutos
-- Desarrolla la creatividad
 - Instrucciones en alemán
+- Edad recomendada: a partir de 6 años
+- Adecuado para 2-4 jugadores
+- Desarrolla la creatividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HVAK43A{{</world>}}

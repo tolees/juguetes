@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SOBREVIVE AL APOCALIPSIS DINOSAURIO: Conviértete en un adorable dinosaurio y haz todo lo posible por esquivar meteoritos, pozos de lava y otros desastres catastróficos en este divertido juego de supervivencia.
+- DIVERSIÓN ASEGURADA A PARTIR DE 8 AÑOS: Con reglas fáciles de entender y partidas dinámicas de entre 30 y 60 minutos, ofrece una experiencia de juego equilibrada y temática para niños y adultos por igual.
 - EVITA DESASTRES DE TODO TIPO: Prepárate para enfrentar desde ataques de ardillas dientes de sable hasta dramas personales como que tu pareja corte contigo; en este juego, cualquier contratiempo puede ser fatal.
 - ESTRATEGIA Y RESILIENCIA: Utiliza tus cartas sabiamente para superar las amenazas y ser el último dinosaurio en pie; solo aquel capaz de sobrevivir a todas las desgracias se alzará con la victoria final.
-- DIVERSIÓN ASEGURADA A PARTIR DE 8 AÑOS: Con reglas fáciles de entender y partidas dinámicas de entre 30 y 60 minutos, ofrece una experiencia de juego equilibrada y temática para niños y adultos por igual.
 - IDEAL PARA GRUPOS PEQUEÑOS Y FAMILIAS: Diseñado para partidas de 2 a 4 jugadores, es el juego de cartas perfecto para disfrutar de una tarde llena de risas y competitividad sana con amigos o familiares.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

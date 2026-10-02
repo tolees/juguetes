@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ergonómico. Juega largas sesiones cómodamente
-- Botones de juego avanzados: supera a los rivales con dos botones asignables que puedes programar sobre la marcha, en mitad del juego, sin necesidad de configurar el sistema
+- Indicador LED para el número de jugador, asignación de botones y advertencia de batería baja
+- No es compatible con Vibración HD, cámara IR, controles de movimiento ni NFC de Amiibo
 - Libertad inalámbrica. Juega sin cables en Nintendo Switch: modelo OLED, Nintendo Switch y Nintendo Switch Lite
 - Funciona con pilas AA. Juega hasta 30 horas con pilas AA alcalinas nuevas* o utiliza tus propias pilas AA recargables
-- No es compatible con Vibración HD, cámara IR, controles de movimiento ni NFC de Amiibo
+- Diseño ergonómico. Juega largas sesiones cómodamente
 - Controles intuitivos. Palancas analógicas de precisión, D-pad de tamaño real, botones ABXY y laterales (L/R/ZL/ZR)
+- Botones de juego avanzados: supera a los rivales con dos botones asignables que puedes programar sobre la marcha, en mitad del juego, sin necesidad de configurar el sistema
 - Con licencia oficial. Para Nintendo Switch, modelo OLED, Nintendo Switch y Nintendo Switch Lite Garantía limitada de 2 años
-- Indicador LED para el número de jugador, asignación de botones y advertencia de batería baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8RLN2Z2{{</world>}}

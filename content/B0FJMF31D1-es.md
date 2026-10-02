@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - RUBBLE LISTO PARA EL RESCATE: Incluye una excavadora de rescate de +15 cm, una figura de Rubble vestido con su emblemático uniforme y una tortuguita. Los más pequeños pueden colocarlo al volante y ponerse en marcha para ayudar en cada misión
-- JUGUETES NIÑOS 3 AÑOS +: El Pack Excavadora de Rescate Search & Rescue de Rubble es perfecto para niños a partir de 3 años. Los juguetes Patrulla Canina son tan fáciles de manejar que proporcionarán horas de diversión
-- INCLUYE: 1 vehículo de rescate, 1 figura de Rubble, 1 figura tortuga
 - JUGUETES PATRULLA CANINA SEARCH & RESCUE: ¡Los cachorros salen al rescate en cuanto alguien necesita ayuda Con sus vehículos y coches para niños Patrulla Canina, recorren Bahía Aventura para llegar a tiempo, superar obstáculos y resolver cada misión
+- JUGUETES NIÑOS 3 AÑOS +: El Pack Excavadora de Rescate Search & Rescue de Rubble es perfecto para niños a partir de 3 años. Los juguetes Patrulla Canina son tan fáciles de manejar que proporcionarán horas de diversión
 - VEHÍCULO CON FUNCIÓN DE PROPULSIÓN: Solo hay que echar la excavadora hacia atrás y soltarla para que salga disparada. Las ruedas giran de verdad, aportando velocidad y acción a cada aventura Search & Rescue
+- INCLUYE: 1 vehículo de rescate, 1 figura de Rubble, 1 figura tortuga
 - MISIÓN DE SALVAMENTO CON FIGURA EXTRA: Conduce a Rubble con su potente excavadora a salvar a la tortuga, súbela a la pala delantera y llévala a un lugar seguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

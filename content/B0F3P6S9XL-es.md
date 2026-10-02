@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuevo título de la serie Devir Pocket, juegos de cartas económicos para cualquier situación
 - Un juego que puede recordar a clásicos como el UNO pero con un nuevo punto de estrategia sorprendente
 - En Match! tendrás que ser el más hábil descartando cartas de tu mano que coincidan en palo o color para ganar el máximo de puntos
+- Nuevo título de la serie Devir Pocket, juegos de cartas económicos para cualquier situación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F3P6S9XL{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® - new'
-date: 2026-09-20 20:27:02
+date: 2026-09-29 21:37:27
 image: 'https://m.media-amazon.com/images/I/51rJma0UWQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CFVWTSSB/?tag=tolees-21'
 descuento: '28.96'
-average: '54.6537931034482'
+average: '54.5645161290322'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

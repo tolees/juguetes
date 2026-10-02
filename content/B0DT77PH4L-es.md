@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dragon Ball Super es la novedosa serie de animación que cuenta las historias y aventuras de Goku y sus amigos por demostrar quién es el más poderoso del universo
-- Articulaciones móviles para recrear escenas de batalla del anime
 - Diseño oficial de Bandai con colores vibrantes y fieles al personaje
-- Figura de Goku con Daño de Batalla de 30 cm, parte de la serie Limit Breaker
 - Parte de la línea Dragon Stars, optima para coleccionistas y fanáticos de Dragon Ball
+- Articulaciones móviles para recrear escenas de batalla del anime
+- Dragon Ball Super es la novedosa serie de animación que cuenta las historias y aventuras de Goku y sus amigos por demostrar quién es el más poderoso del universo
+- Figura de Goku con Daño de Batalla de 30 cm, parte de la serie Limit Breaker
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT77PH4L{{</world>}}

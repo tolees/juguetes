@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Diplomacy Juego de Mesa Juego de Tablero Estrategia Juego de Diplomacia BGDIPSP'
-date: 2026-09-06 10:04:35
+date: 2026-10-01 10:21:55
 image: 'https://m.media-amazon.com/images/I/51LP6DQLxDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGJCTF2H/?tag=tolees-21'
 descuento: '26.69'
-average: '29.8062499999999'
+average: '30.1599999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un juego de larga duración para hasta siete jugadores en el que la diplomacia lo será todo
-- Tras más de 50 años en el mercado, Diplomacy vuelve con una edición renovada dispuesto a demostrar por qué es el rey de los juegos de negociación sin azar
-- Ponte en la piel de una de las grandes potencias mundiales antes de la Primera Guerra Mundial, establece alianzas y traiciónalas justo en el momento indicado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DGJCTF2H{{</world>}}

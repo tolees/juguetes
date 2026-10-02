@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie Muñeca Pop Reveal con accesorios Serie Treat'
-date: 2026-09-27 20:43:43
+date: 2026-09-29 23:38:25
 image: 'https://m.media-amazon.com/images/I/41YgyOHTPmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DL6JLQBQ/?tag=tolees-21'
 descuento: '44.42'
-average: '15.1942857142857'
+average: '15.17'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Dragón Patriarca de la Concentración 71836'
-date: 2026-09-28 21:06:51
+date: 2026-10-01 00:12:18
 image: 'https://m.media-amazon.com/images/I/51ibttsdPhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSCB8TD/?tag=tolees-21'
 descuento: '28.00'
-average: '69.6103999999999'
+average: '69.7866666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

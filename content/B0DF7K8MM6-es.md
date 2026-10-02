@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Si un adversario adivina tu palabra secreta demasiado pronto, se quedará con tus puntos
-- Encuentra la palabra correcta, en el momento correcto
 - Consigue que los demás jugadores adivinen la palabra, pero con el numero exacto de pistas indicadas; ni más ni menos
+- Encuentra la palabra correcta, en el momento correcto
 - Abre la caja para descubrir una palabra secreta y un número de pistas
+- Si un adversario adivina tu palabra secreta demasiado pronto, se quedará con tus puntos
 - Ten cuidado con lo que dices en este juego hechizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

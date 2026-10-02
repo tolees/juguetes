@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de deducción y resolución de crímenes
 - Diferentes modos de juego, cooperativo, competitivo y solo
+- Juego de deducción y resolución de crímenes
 - Sigue la colección “Pequeños Grandes” con esta novedad, la saga de grandes juegos en cajas pequeñas a precio reducido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

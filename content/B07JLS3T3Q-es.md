@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Con operativa ballesta
 - Desarrolla la imaginación y la creatividad
-- Incluye dos figuras y varios accesorios
 - Contiene 39 piezas
+- Incluye dos figuras y varios accesorios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JLS3T3Q{{</world>}}

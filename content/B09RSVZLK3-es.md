@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 150 unidades
+- Tamaño del rompecabezas: 70 x 50 cm
 - Fabricado en Italia
 - De cartón resistente acoplado
 - 2 en 1: forma el puzzle y colorea la parte de atrás
-- Tamaño del rompecabezas: 70 x 50 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RSVZLK3{{</world>}}

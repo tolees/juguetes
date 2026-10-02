@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de mesa que requiere pensamiento táctico y estratégico
-- Número de jugadores: 2 - 4
-- Edad recomendada: a partir de 6 años
 - FFP significa embalaje libre de frustración, menos embalaje, tamaño de caja más pequeño, el contenido permanece sin cambios
+- Edad recomendada: a partir de 6 años
 - Duración del juego: 30 a 45 minutos
+- Número de jugadores: 2 - 4
 - Juego del año 2011
+- Juego de mesa que requiere pensamiento táctico y estratégico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OYSBGDE{{</world>}}

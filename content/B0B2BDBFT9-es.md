@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Disney Princess Muñeca Mulan Look Clásico'
-date: 2026-09-29 04:43:07
+date: 2026-10-01 09:36:33
 image: 'https://m.media-amazon.com/images/I/51-asi-tCML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B2BDBFT9/?tag=tolees-21'
 descuento: '30.89'
-average: '12.4566666666667'
+average: '12.3120689655172'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

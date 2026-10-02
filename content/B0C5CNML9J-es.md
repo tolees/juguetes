@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 jugadores
-- Emocionante juego basado en que el oponente haga "¡BOOM!" antes que tú
 - Haz explotar la barriga de tu contrincante y habrás ganado
 - Cada carta tiene una acción asociada, cuanto más pulses la hamburguesa más se inflará la "barriga"
+- Emocionante juego basado en que el oponente haga "¡BOOM!" antes que tú
 - Juego divertido y seguro, no hace ruido; no necesita pilas; no mancha
+- 2 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5CNML9J{{</world>}}

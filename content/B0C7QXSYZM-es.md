@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Anime Heroes es la línea de tus figuras articuladas favoritas basadas en tus series de anime y manga preferidos
-- Derrota a tus enemigos
-- Con accesorios intercambiales para recrear más poses y ataques de la serie
-- Figura de 17 cm de altura y más de 20 puntos de articulación
 - Presentada en un packaging deluxe y todo detalle
+- Derrota a tus enemigos
+- Figura de 17 cm de altura y más de 20 puntos de articulación
+- Anime Heroes es la línea de tus figuras articuladas favoritas basadas en tus series de anime y manga preferidos
+- Con accesorios intercambiales para recrear más poses y ataques de la serie
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7QXSYZM{{</world>}}

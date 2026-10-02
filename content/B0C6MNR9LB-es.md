@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algunas de las gemas son exclusivas
 - Querrán coleccionarlas todas,
 - Blister con 12 gemas diferentes para coleccionar
 - Hay una gema rara sorpresa escondida
+- Algunas de las gemas son exclusivas
 - Además de las gemas, podremos encontrar muchas sorpresas, como pulseras y anillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

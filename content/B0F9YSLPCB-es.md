@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Alcance de hasta 8 metros para que las batallas sean dinámicas y llenas de movimiento
 - Fácil de usar y perfecto para niños y niñas a partir de 7 años; fomenta la actividad física y el juego en equipo
-- Cada jugador dispone de 5 vidas; apunta y dispara con el botón lateral y recarga cuando lo necesites
 - Set de 2 máscaras láser para una batalla interactiva cargada de acción, emoción y estrategia
+- Cada jugador dispone de 5 vidas; apunta y dispara con el botón lateral y recarga cuando lo necesites
 - Un regalo ideal para compartir y disfrutar entre amigos, hermanos o en familia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

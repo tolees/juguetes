@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devir - Twilight Struggle: la Guerra Fría 1945-1989 Juego de Mesa estratégico ambientado en la la Guerra Fría História Wargame BGTWIST'
-date: 2026-09-28 19:36:34
+date: 2026-09-30 00:33:10
 image: 'https://m.media-amazon.com/images/I/51RKYP61GzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B007XDRP1E/?tag=tolees-21'
 descuento: '30.69'
-average: '41.4495238095239'
+average: '41.1600000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

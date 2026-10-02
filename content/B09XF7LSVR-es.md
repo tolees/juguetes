@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se utiliza una pata de gato magnética para disparar bolas.
-- Puedes lanzar las bolas amarillas o blancas al otro lado. Lánzalas lo más rápido que puedas
+- Juego para dos jugadores.
 - Se juega rápidamente, reúne todas las bolas de tu lado y lánzalas.
 - Para empezar a jugar, cuenta 3, 2, 1 y ¡a jugar!
-- Juego para dos jugadores.
+- Puedes lanzar las bolas amarillas o blancas al otro lado. Lánzalas lo más rápido que puedas
+- Se utiliza una pata de gato magnética para disparar bolas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XF7LSVR{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño práctico para llevar siempre contigo
-- Libreta A5 con peluche elfo con diseño único y lleno de personalidad
-- Materiales de calidad y toque Mr. Wonderful
 - Diseñado para alegrarte el día.
+- Tamaño práctico para llevar siempre contigo
+- Materiales de calidad y toque Mr. Wonderful
+- Libreta A5 con peluche elfo con diseño único y lleno de personalidad
 - Ideal como regalo o autorregalo irresistible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

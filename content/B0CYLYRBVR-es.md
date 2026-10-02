@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MECÁNICAS: Apuestas, Tiempo real2, Tirar dados
 - De 2 a 9 jugadores que se juega en tiempo real
-- El óptimo party game frenético
 - Uno de los juegos favoritos de Tom Vassel
+- El óptimo party game frenético
+- MECÁNICAS: Apuestas, Tiempo real2, Tirar dados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYLYRBVR{{</world>}}

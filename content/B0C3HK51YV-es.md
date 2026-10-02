@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El soporte integrado sostiene el dispositivo para que juegues cómodamente sobre la marcha
 - Diseño exclusivo que brilla en la oscuridad tras la exposición a la luz
-- Bolsillos grandes y pequeños para guardar accesorios
 - Licencia oficial de Nintendo
+- El soporte integrado sostiene el dispositivo para que juegues cómodamente sobre la marcha
+- Bolsillos grandes y pequeños para guardar accesorios
 - Compatible con Nintendo Switch, Nintendo Switch Lite y Nintendo Switch (Modelo OLED)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
