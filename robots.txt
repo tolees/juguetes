@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://juguetes.tole.es/sitemap.xml
