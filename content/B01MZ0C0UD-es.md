@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Classic Dinosaurios Creativos Caja de Ladrillos de Colores para Construir Huevo de Dinosaurio Tiranosaurio Rex Triceratops y Volcán de Juguete Regalo para Niños y Niñas de 5 Años o Más 11041'
-date: 2026-09-21 08:40:50
+title: 'LEGO Classic Dinosaurios Creativos 11041 | Juguetes para niños de 5+ años caja de ladrillos de colores para crear figuras de T.rex regalo de cumpleaños 450 piezas'
+date: 2026-10-15 17:19:17
 image: 'https://m.media-amazon.com/images/I/512Fz5V7JXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01MZ0C0UD-es LEGO Classic Dinosaurios Creativos Caja de Ladrillos de...'
+slug: 'B01MZ0C0UD-es LEGO Classic Dinosaurios Creativos 11041 | Juguetes para...'
 sku: 'B01MZ0C0UD-es'
-tags: [ 'lego','🇪🇸', ]
-actualPrice: 26.24 EUR
+tags: [ 'juguetes','lego','🇪🇸', ]
+actualPrice: 26.2 EUR
 currency: EUR
-price: 26.24
+price: 26.2
 comparePrice: 34.99 EUR
-prodname: 'LEGO Classic Dinosaurios Creativos Caja de Ladrillos de Colores para Construir Huevo de Dinosaurio Tiranosaurio Rex Triceratops y Volcán de Juguete Regalo para Niños y Niñas de 5 Años o Más 11041'
+prodname: 'LEGO Classic Dinosaurios Creativos 11041 | Juguetes para niños de 5+ años caja de ladrillos de colores para crear figuras de T.rex regalo de cumpleaños 450 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ0C0UD/?tag=tolees-21'
-descuento: '25.01'
-average: '27.8155555555556'
+descuento: '25.12'
+average: '27.5218181818182'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

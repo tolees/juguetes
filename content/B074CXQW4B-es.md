@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De 1 a 4 jugadores
 - Duración 45-90 minutos
+- De 1 a 4 jugadores
 - A partir de los 12 años
 - Edición en español
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Spidey and His Amazing Friends Pack de Amigos y Enemigos de Spidey 5 Figuras de Acción de Superhéroes y Villanos de 10 cm Juguete de Superhéroes Niños y Niñas de 3 Años o Más'
-date: 2026-10-08 23:43:36
+date: 2026-10-15 11:00:32
 image: 'https://m.media-amazon.com/images/I/51CtncoLsbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CP481DTZ/?tag=tolees-21'
 descuento: '32.21'
-average: '17.0975'
+average: '17.4566666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

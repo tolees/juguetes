@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rompecabezas de 6 piezas de madera con temática de construcción
 - Piezas de rompecabezas gruesas, fáciles de agarrar.
 - Hay 2 formas de jugar: Colocar las piezas en el tablero o ponerlas de pie para juego de imaginación.
+- Rompecabezas de 6 piezas de madera con temática de construcción
 - imágenes debajo de las piezas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

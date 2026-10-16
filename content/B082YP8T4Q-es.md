@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 1 2 3 Aqua 70267 Parque Acuático A Partir de 2 años'
-date: 2026-09-28 10:41:41
+date: 2026-10-15 00:13:40
 image: 'https://m.media-amazon.com/images/I/51oEgnv6JXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B082YP8T4Q/?tag=tolees-21'
 descuento: '33.83'
-average: '46.6006976744185'
+average: '46.529111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

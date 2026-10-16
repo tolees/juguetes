@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juguetes y juegos
-- Simula ser un mando de consola
 - Diversión asegurada
+- Simula ser un mando de consola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CDC6QMQM{{</world>}}

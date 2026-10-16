@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aeriflo Bicicleta Elíptica para Casa Zancada 42 cm Volante 8 kg 150 kg'
-date: 2026-10-09 15:32:58
+date: 2026-10-16 02:12:37
 image: 'https://m.media-amazon.com/images/I/41aJzVT0DpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GYS7WVB5/?tag=tolees-21'
 descuento: '31.11'
-average: '323.323333333333'
+average: '319.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

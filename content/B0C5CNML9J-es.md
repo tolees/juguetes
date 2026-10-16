@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Juego divertido y seguro, no hace ruido; no necesita pilas; no mancha
-- Cada carta tiene una acción asociada, cuanto más pulses la hamburguesa más se inflará la "barriga"
 - 2 jugadores
+- Cada carta tiene una acción asociada, cuanto más pulses la hamburguesa más se inflará la "barriga"
 - Haz explotar la barriga de tu contrincante y habrás ganado
 - Emocionante juego basado en que el oponente haga "¡BOOM!" antes que tú
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gran juego de la familia
-- Un juego de cartas tipo Rummy con un toque desafiante y emocionante
-- De los creadores de UNO
 - 2-6 Jugadores
+- Un juego de cartas tipo Rummy con un toque desafiante y emocionante
+- Gran juego de la familia
+- De los creadores de UNO
 - Edad 8 +
 
 [🛒 Visítala!!!]({{< param buyurl >}})

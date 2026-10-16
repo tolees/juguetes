@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Duplo Mi Ciudad Coches de Carreras y Pilotos del Equipo de F1 - Juguete para Motricidad Fina para Niños y Niñas de 2+ Años - 10 Coches de Juguete con Semáforo y Trofeo - Idea de Regalo 10445'
-date: 2026-07-17 18:46:39
+title: 'LEGO Duplo Coches de Carreras y Pilotos del Equipo de F1 10445 | Juguetes para niñas y niños de 2+ años motricidad fina 10 coches semáforo y trofeo regalo de cumpleaños 70 piezas'
+date: 2026-10-15 17:21:18
 image: 'https://m.media-amazon.com/images/I/51sRezmZWUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSC9G69-es LEGO Duplo Mi Ciudad Coches de Carreras y Pilotos del...'
+slug: 'B0DHSC9G69-es LEGO Duplo Coches de Carreras y Pilotos del Equipo de F1...'
 sku: 'B0DHSC9G69-es'
-tags: [ 'lego','🇪🇸', ]
+tags: [ 'juguetes','lego','🇪🇸', ]
 actualPrice: 33.7 EUR
 currency: EUR
 price: 33.7
 comparePrice: 44.99 EUR
-prodname: 'LEGO Duplo Mi Ciudad Coches de Carreras y Pilotos del Equipo de F1 - Juguete para Motricidad Fina para Niños y Niñas de 2+ Años - 10 Coches de Juguete con Semáforo y Trofeo - Idea de Regalo 10445'
+prodname: 'LEGO Duplo Coches de Carreras y Pilotos del Equipo de F1 10445 | Juguetes para niñas y niños de 2+ años motricidad fina 10 coches semáforo y trofeo regalo de cumpleaños 70 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSC9G69/?tag=tolees-21'
 descuento: '25.09'
-average: '33.1433333333333'
+average: '33.2825'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REGALOS PARA NIÑOS Y NIÑAS A PARTIR DE 2 AÑOS: Celebra el comienzo de la temporada de F1 con un juguete Montessori sometido a exhaustivas pruebas para garantizar una experiencia de juego segura
-- MÁS ACCIÓN DE LA F1 A GRAN VELOCIDAD: Descubre los demás juguetes de construcción LEGO basados en la Formula 1 (a la venta por separado) para construir, exponer y competir con toda la familia
-- JUEGO EN FAMILIA: Comparte tu pasión por la F1 con tu peque con este juguete educativo infantil que incluye 10 coches de carreras, 3 ladrillos de pilotos, una grúa, un semáforo de juguete y un podio
-- JUGUETE DIDÁCTICO CON COCHES DE CARRERAS: Transporta a tu peque al mundo de la Formula 1 con el juego en familia de circuito de competición Coches de Carreras y Pilotos del Equipo de F1
-- JUGUETES DIDÁCTICOS PARA APRENDER Y DESARROLLAR HABILIDADES: Todos los juguetes LEGO DUPLO se han diseñado para desarrollar habilidades como la percepción espacial, su coordinación mano-ojo y su motricidad fina
-- COCHES DE CARRERAS DE JUGUETE REALISTAS: Estos coches personalizables están decorados con los logotipos de las escuderías de Formula 1 de verdad y tienen sus colores para que los peques puedan recrear situaciones de competición de F1
-- JUGUETE PARA LA MOTRICIDAD FINA: Los peques recrearán las emociones de una parada en boxes acoplando los coches de fórmula 1 de juguete al gancho para elevarlos e inspeccionarlos rápidamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHSC9G69{{</world>}}

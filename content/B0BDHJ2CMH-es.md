@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Flexible y articulable
 - Con accesorios
+- Flexible y articulable
 - Figura coleccionable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

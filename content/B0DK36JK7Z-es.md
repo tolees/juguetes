@@ -32,8 +32,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - NAVIDADES DIVERTIDAS AL ESTILO LEGO: Amplía la diversión festiva con otros sets de construcción (a la venta por separado) de la colección de modelos LEGO navideños
 - DECORACIÓN NAVIDEÑA: Una vez terminado el set, los niños se divertirán interpretando historias en el Polo Norte antes de exponerlo con orgullo como adorno LEGO de Navidad
 - KIT DE MAQUETAS: El camión de juguete se abre para poder ver los regalos que transporta en su interior y cuenta con un árbol de Navidad LEGO en miniatura para poner en el techo del vehículo
-- CAMIÓN DE JUGUETE: Los peques disfrutarán de una experiencia rebosante de espíritu navideño con el juguete de construcción LEGO Camión de Reparto de Papá Noel para niños y niñas a partir de 8 años
 - MINIFIGURA LEGO: Este set LEGO navideño cobrará vida con la minifigura de un elfo de Navidad que puedes colocar en el asiento del conductor del camión de juguete de Papá Noel
+- CAMIÓN DE JUGUETE: Los peques disfrutarán de una experiencia rebosante de espíritu navideño con el juguete de construcción LEGO Camión de Reparto de Papá Noel para niños y niñas a partir de 8 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK36JK7Z{{</world>}}

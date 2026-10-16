@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pequeño artí coleccionable, no necesariamente adecuado como regalo para niños
-- Contiene 214 piezas
 - LEGO Disney Brickheadz
+- Contiene 214 piezas
 - Goofy y Pluto paquete doble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

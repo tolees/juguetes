@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Aston Martin Valkyrie 42208'
-date: 2026-10-10 21:18:24
+date: 2026-10-15 00:21:20
 image: 'https://m.media-amazon.com/images/I/51jYlhOQzfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDJWS3D/?tag=tolees-21'
 descuento: '25.00'
-average: '50.0655555555555'
+average: '49.5579999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

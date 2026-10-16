@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muñeco articulado
-- El juguete ayuda a los más pequeños a inventar todo tipo de historias
 - Este juguete está inspirado en el personaje Greef serie Star Wars
+- El juguete ayuda a los más pequeños a inventar todo tipo de historias
 - Figura coleccionable
+- Muñeco articulado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KJJHG9R{{</world>}}

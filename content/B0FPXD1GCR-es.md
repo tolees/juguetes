@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Pokémon Eevee 72151'
-date: 2026-10-13 21:33:47
+title: 'LEGO Pokémon Eevee 72151 | Set para adultos maqueta 3D de puzle anime figura articulada con extremidades móviles regalo gamer 587 piezas'
+date: 2026-10-16 03:37:53
 image: 'https://m.media-amazon.com/images/I/4196F5dXrdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXD1GCR-es LEGO Pokémon Eevee 72151'
+slug: 'B0FPXD1GCR-es LEGO Pokémon Eevee 72151 | Set para adultos maqueta 3D de...'
 sku: 'B0FPXD1GCR-es'
 tags: [ 'lego','🇪🇸', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0
 comparePrice: 59.99 EUR
-prodname: 'LEGO Pokémon Eevee 72151'
+prodname: 'LEGO Pokémon Eevee 72151 | Set para adultos maqueta 3D de puzle anime figura articulada con extremidades móviles regalo gamer 587 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXD1GCR/?tag=tolees-21'
 descuento: '83.33'
-average: '39.4508000000001'
+average: '37.2692592592593'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CORAZÓN MÁGICO: Pélalo para descubrir su corazón mágico.
 - BEBÉ MISTERIOSO: ¿Qué pequeño Rainbocorn va a salir del cascarón?
 - ABRÁZALO PARA ROMPER EL CASCARÓN: Abre tu huevo mágico con un abrazo enorme para conocer a tu nuevo peluche y descubrir más de 30 sorpresas mágicas.
+- CORAZÓN MÁGICO: Pélalo para descubrir su corazón mágico.
 - MÁS DE 35 SORPRESAS: ¡Abre el huevo y descubre más de 30 sorpresas mágicas!
 - COLECCIÓNALAS TODAS: Encuentra las 7 y embárcate en una aventura con tu nueva amiga Mamacorn.
 

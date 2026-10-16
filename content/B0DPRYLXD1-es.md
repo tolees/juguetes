@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Nerf Loadout Shadowspeed Recon Lanzador Personalizable 14 Dardos de Espuma N1 Accesorios Adaptables Cañón Giratorio Modo Ráfafa Competición Diversión con Amigos Regalo para niños'
-date: 2026-10-08 04:27:48
+date: 2026-10-15 11:08:47
 image: 'https://m.media-amazon.com/images/I/41qj6M2GgXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPRYLXD1/?tag=tolees-21'
 descuento: '35.22'
-average: '12.2590322580647'
+average: '12.3009090909093'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

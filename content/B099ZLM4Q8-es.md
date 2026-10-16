@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Adecuado desde los primeros meses de edad
+- Peluche Luigi Super Mario
 - Fabricado en felpa muy suave
 - 20 cm de alto
-- Peluche Luigi Super Mario
 - Licencia oficial
-- Adecuado desde los primeros meses de edad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099ZLM4Q8{{</world>}}

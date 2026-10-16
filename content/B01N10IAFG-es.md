@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Icons Bici de Carretera 11380'
-date: 2026-10-13 08:15:51
+title: 'LEGO Icons Bici de Carretera 11380 | Set para adultos decoración de escritorio neumáticos de goma soporte para rueda trasera regalo de cumpleaños 1015 piezas'
+date: 2026-10-15 12:29:44
 image: 'https://m.media-amazon.com/images/I/51CrjLSi8TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01N10IAFG-es LEGO Icons Bici de Carretera 11380'
+slug: 'B01N10IAFG-es LEGO Icons Bici de Carretera 11380 | Set para adultos...'
 sku: 'B01N10IAFG-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 89.99 EUR
+actualPrice: 86.99 EUR
 currency: EUR
-price: 89.99
+price: 86.99
 comparePrice: 119.99 EUR
-prodname: 'LEGO Icons Bici de Carretera 11380'
+prodname: 'LEGO Icons Bici de Carretera 11380 | Set para adultos decoración de escritorio neumáticos de goma soporte para rueda trasera regalo de cumpleaños 1015 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N10IAFG/?tag=tolees-21'
-descuento: '25.00'
-average: '94.0414285714286'
+descuento: '27.50'
+average: '93.1600000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

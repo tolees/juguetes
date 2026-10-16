@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago Bounty Terrestre 71869'
-date: 2026-09-28 10:45:13
+date: 2026-10-15 01:40:17
 image: 'https://m.media-amazon.com/images/I/51-F6YMcerL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDTTPC/?tag=tolees-21'
 descuento: '25.39'
-average: '100.66'
+average: '100.252222222222'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

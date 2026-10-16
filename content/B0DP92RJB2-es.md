@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su cumpleaños es el 25 de septiembre.
-- Edad recomendada: +3 años.
 - Nils y Lida son los gemelos de la Familia Ciervo. Como su mamá, Nils adora las manualidades y es un apasionado de la mermelada de fresa. Lida es más de fruta escarchada y cocinar.
 - La Familia Ciervo se completa con las referencias Familia Ciervo (05799) y Bebés Ciervo en el columpio (05801).
+- Su cumpleaños es el 25 de septiembre.
+- Edad recomendada: +3 años.
 - Figuras y mobiliario se venden por separado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

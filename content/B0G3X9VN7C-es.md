@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Mattel Brick Shop Hot Wheels Aston Martin Vantage GT3'
-date: 2026-10-14 01:29:21
+title: 'Mattel Brick Shop Hot Wheels Aston Martin Vantage GT3 | 793 piezas detalles realistas calcas personalizadas coche metálico a escala 1:64 idea de regalo JLF51'
+date: 2026-10-15 12:13:54
 image: 'https://m.media-amazon.com/images/I/51kYAlvKrsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0G3X9VN7C-es Mattel Brick Shop Hot Wheels Aston Martin Vantage GT3'
+slug: 'B0G3X9VN7C-es Mattel Brick Shop Hot Wheels Aston Martin Vantage GT3 |...'
 sku: 'B0G3X9VN7C-es'
 tags: [ 'mattel','🇪🇸', ]
 actualPrice: 35.54 EUR
 currency: EUR
 price: 35.54
 comparePrice: 49.99 EUR
-prodname: 'Mattel Brick Shop Hot Wheels Aston Martin Vantage GT3'
+prodname: 'Mattel Brick Shop Hot Wheels Aston Martin Vantage GT3 | 793 piezas detalles realistas calcas personalizadas coche metálico a escala 1:64 idea de regalo JLF51'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ludilo - Taco Gato Cabra Queso Pizza | Juegos De Mesa | Juegos De Mesa Niños 8 Años O Más | Juego De Cartas con 60 Cartas | Regalo Niño 8 Años O Más De 3 A 8 Jugadores'
-date: 2026-10-14 03:06:57
+date: 2026-10-15 11:48:12
 image: 'https://m.media-amazon.com/images/I/41drBKLoRLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B085DTTYP7/?tag=tolees-21'
 descuento: '21.01'
-average: '11.9906666666667'
+average: '11.98125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

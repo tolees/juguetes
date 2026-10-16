@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Todo el árbol se balancea de un lado a otro cuando intentas sacar los palitos y evitar que los animales se caigan.
 - Los palitos son rectos, ondulados o flexibles para dar al juego un desafío extra.
 - El número de imágenes de hojas del dado coincide con el mismo número de hojas de los palitos para no usar colores y facilitar la identificación a los jugadores daltónicos.
+- Todo el árbol se balancea de un lado a otro cuando intentas sacar los palitos y evitar que los animales se caigan.
 - Edición especial del 25. aniversario del clásico juego Monos locos.
 - Las figuras de animales incluyen monos dorados, lémures y perezosos.
 

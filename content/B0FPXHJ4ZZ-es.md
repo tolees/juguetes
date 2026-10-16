@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Aventura de la Primera Noche 21593'
-date: 2026-10-07 03:07:12
+date: 2026-10-15 01:40:02
 image: 'https://m.media-amazon.com/images/I/51YVapvk3GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXHJ4ZZ/?tag=tolees-21'
 descuento: '25.01'
-average: '23.09'
+average: '22.89'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

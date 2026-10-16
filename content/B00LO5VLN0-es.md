@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego en español, a partir de 3 años
-- Desarrolla la capacidad de concentración
 - Un kit de juegos para aprender formas, colores, números, y desarrollar la memoria y el pensamiento lógico
-- Estimula el pensamiento lógico
-- Desarrolla la memoria
-- Aprende los colores, las formas, los números de una forma divertida
-- A través de las distintas fichas, podrán aprender y practicar con distintos conceptos
+- Desarrolla la capacidad de concentración
 - 8 juegos diferentes, con distintos materiales didácticos
+- Desarrolla la memoria
+- Juego en español, a partir de 3 años
+- Aprende los colores, las formas, los números de una forma divertida
+- Estimula el pensamiento lógico
+- A través de las distintas fichas, podrán aprender y practicar con distintos conceptos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LO5VLN0{{</world>}}

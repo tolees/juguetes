@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuevo tipo de ficha: estos espíritus traen más que una nueva mecánica. Estos espíritus utilizan fichas Incarna para dejar su marca en todos los ámbitos.
-- Defiende la tierra: los colonizadores están tratando de tomar y arruinar la isla dondequiera que exploren. Como espíritu de la isla, puedes defender tu hogar de las fuerzas invasoras.
 - Dos escenarios más: aún más juego con una demanda aún mayor de sus jugadores con dos escenarios más. ¿Serás capaz de superarlos en un juego?
+- Defiende la tierra: los colonizadores están tratando de tomar y arruinar la isla dondequiera que exploren. Como espíritu de la isla, puedes defender tu hogar de las fuerzas invasoras.
 - Emocionante adversario: se ha añadido un nuevo adversario para traer aún más desafío. Nature Incarnate añade la colonia minera de los Habsburgo.
+- Nuevo tipo de ficha: estos espíritus traen más que una nueva mecánica. Estos espíritus utilizan fichas Incarna para dejar su marca en todos los ámbitos.
 - Más espíritus: se han añadido ocho espíritus nuevos y emocionantes para traer aún más variedad y vitalidad a tu juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

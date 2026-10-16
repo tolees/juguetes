@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye 500 preguntas divertidas para toda la famila y también puedes crear tus propias preguntas. El jugador con más vida gana el juego
-- Recomendado para adultos y niños a partir de 8 años. De 2 a 8 jugadores
-- La máquina de la verdad es un juego de mesa familiar súper divertido y entretenido tanto para niños como adultos
 - ¡Pon a prueba tus familiares o tus amigos y detecta sus secretos con este detector de mentiras
 - Versión española
-- Los juguetes de Play Fun siguen estrictos controles en su producción para garantizar el disfrute y la seguridad de los niños; Son juegos de fácil uso y funcionamiento
 - El jugador coloca sus dedos en el medidor de la máquina y se pone el casco. Hazle la pregunta y biiiiipppp. Las bombillas de color te dirán si está diciendo la verdad o no
+- Recomendado para adultos y niños a partir de 8 años. De 2 a 8 jugadores
+- La máquina de la verdad es un juego de mesa familiar súper divertido y entretenido tanto para niños como adultos
+- Los juguetes de Play Fun siguen estrictos controles en su producción para garantizar el disfrute y la seguridad de los niños; Son juegos de fácil uso y funcionamiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CTWQ7NC{{</world>}}

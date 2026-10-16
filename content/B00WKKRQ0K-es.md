@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juguete que ayuda al desarrollo matemático y al dominio de las emociones
-- Medidas: 19 x 10 x 5 cm
 - Dibujos de animales de colores
+- Medidas: 19 x 10 x 5 cm
 - Incluye caja de madera con tapa para guardar las piezas
 - Dominó de madera con 28 piezas
+- Juguete que ayuda al desarrollo matemático y al dominio de las emociones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WKKRQ0K{{</world>}}

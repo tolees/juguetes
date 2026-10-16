@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSTRUYE Y CREA CON RUBBLE & CREW: Únete a Rubble y su excavadora de juguete en emocionantes aventuras de construcción. Juegos para niños con los que dejar volar su imaginación y construir sus propias historias
-- FIGURA RUBBLE Y EXCAVADORA CON LUCES Y SONIDOS: Coloca a Rubble Patrulla Canina en el asiento del tractor y presiónalo hacia abajo para activar las luces intermitentes y los efectos de sonido. ¡Sumérgete en la diversión de la serie con tu personaje favorito
 - REGALOS NIÑOS 3 AÑOS +: Paw Patrol juguetes Rubble & Crew son el regalo perfecto e ideal para cualquier ocasión (cumpleaños, Navidad, Reyes...). Coches para niños, juguetes niños 4 años + ¡Lleva la emoción de la serie de televisión a casa con los juguetes de Rubble & Crew
 - JUGUETES PATRULLA CANINA RUBBLE & CREW: ¡Recrea las emocionantes aventuras de la serie Equipo Rubble ¡Acompaña a tu héroe favorito y a su inseparable excavadora y vive la diversión en cualquier lugar
+- CONSTRUYE Y CREA CON RUBBLE & CREW: Únete a Rubble y su excavadora de juguete en emocionantes aventuras de construcción. Juegos para niños con los que dejar volar su imaginación y construir sus propias historias
 - JUGUETES NIÑOS 3 AÑOS +: la Patrulla Canina figura de Rubble & Crew y su excavadora son perfectos para los niños a partir de 3 años. Los juguetes Patrulla Canina son tan fáciles de manejar que proporcionarán horas de diversión
+- FIGURA RUBBLE Y EXCAVADORA CON LUCES Y SONIDOS: Coloca a Rubble Patrulla Canina en el asiento del tractor y presiónalo hacia abajo para activar las luces intermitentes y los efectos de sonido. ¡Sumérgete en la diversión de la serie con tu personaje favorito
 - INCLUYE: 1 excavadora de juguete con luces y sonidos, 1 figura Rubble & Crew
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

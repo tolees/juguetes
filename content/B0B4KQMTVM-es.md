@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MAQUILLAJE 6 AÑOS: Un juego creativo, moderno y original para decorar las uñas al más puro estilo Crazy Girl.
-- El kit contiene esmaltes de uñas Crazy Chic, pegatinas para uñas y purpurina de colores para una decoración con mucho glamour.
 - JUEGO UÑAS NIÑA: ¡Un kit nuevo e innovador con un diseño moderno y ergonómico para las súper nail artist del futuro!
 - Un concepto de moda que estimula la creatividad y la destreza manual de las niñas.
+- El kit contiene esmaltes de uñas Crazy Chic, pegatinas para uñas y purpurina de colores para una decoración con mucho glamour.
 - La máquina dispara purpurina y el secador de esmalte de uñas garantizan unos looks realmente modernos y de tendencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hogwarts: Plantas de Herbología 76474'
-date: 2026-10-10 12:38:26
+date: 2026-10-15 01:55:34
 image: 'https://m.media-amazon.com/images/I/51Blp+GJI7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXFR4XB/?tag=tolees-21'
 descuento: '25.00'
-average: '78.7471428571428'
+average: '78.2774999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

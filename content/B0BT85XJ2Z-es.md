@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto con licencia oficial de Sony PlayStation
 - Montaje fijo de los pedales en posiciones planas o inclinadas
-- Asiento hecho con telas altamente transpirables para maximizar la comodidad
+- Producto con licencia oficial de Sony PlayStation
 - Soporte de palanca de cambios incluido
+- Asiento hecho con telas altamente transpirables para maximizar la comodidad
 - Montaje fijo del volante y la caja de velocidades con tornillos incluidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

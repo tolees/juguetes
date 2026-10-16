@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Coche de Carreras Ferrari SF-24 F1 de Juguete - Maqueta de Vehículo Rojo de Fórmula 1 y Minifigura de Piloto para Coleccionar - Regalo para Niños y Niñas de 10+ Años 77242'
-date: 2026-09-11 19:48:21
+title: 'LEGO Speed Champions Coche de Carreras Ferrari SF-24 F1 77242 | Juguetes para niños de 10+ años maqueta de vehículo rojo de Fórmula 1 con minifigura regalo de cumpleaños 275 piezas'
+date: 2026-10-15 17:20:47
 image: 'https://m.media-amazon.com/images/I/51CDBilTucL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSBBV6R-es LEGO Speed Champions Coche de Carreras Ferrari SF-24 F1 de...'
+slug: 'B0DHSBBV6R-es LEGO Speed Champions Coche de Carreras Ferrari SF-24 F1...'
 sku: 'B0DHSBBV6R-es'
-tags: [ 'lego','🇪🇸', ]
-actualPrice: 17.99 EUR
+tags: [ 'juguetes','lego','🇪🇸', ]
+actualPrice: 20.2 EUR
 currency: EUR
-price: 17.99
+price: 20.2
 comparePrice: 26.99 EUR
-prodname: 'LEGO Speed Champions Coche de Carreras Ferrari SF-24 F1 de Juguete - Maqueta de Vehículo Rojo de Fórmula 1 y Minifigura de Piloto para Coleccionar - Regalo para Niños y Niñas de 10+ Años 77242'
+prodname: 'LEGO Speed Champions Coche de Carreras Ferrari SF-24 F1 77242 | Juguetes para niños de 10+ años maqueta de vehículo rojo de Fórmula 1 con minifigura regalo de cumpleaños 275 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSBBV6R/?tag=tolees-21'
-descuento: '33.35'
-average: '21.024347826087'
+descuento: '25.16'
+average: '20.99'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

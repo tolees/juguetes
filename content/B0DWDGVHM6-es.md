@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario Game Boy 72046'
-date: 2026-10-11 01:50:00
+date: 2026-10-15 00:12:22
 image: 'https://m.media-amazon.com/images/I/41VMo1s7cBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDGVHM6/?tag=tolees-21'
 descuento: '25.00'
-average: '49.2023913043479'
+average: '49.1127659574469'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Quitanieves 60490'
-date: 2026-10-11 02:35:38
+date: 2026-10-15 00:31:33
 image: 'https://m.media-amazon.com/images/I/51VlfmAFpzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDXD3F/?tag=tolees-21'
 descuento: '25.01'
-average: '19.4323076923077'
+average: '19.3828571428572'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

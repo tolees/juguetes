@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juguete para niños
-- Edad recomendada: a partir de 1 mes
 - Con música
+- Edad recomendada: a partir de 1 mes
 - Incluye pilas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un juguete divertido para niños a partir de 5 años.
 - Se estira, se contonea, camina y se sacude.
+- 7 cm de diámetro.
 - Incluye un Slinky clásico de metal.
 - Solo hay una marca Slinky original.
-- Un juguete divertido para niños a partir de 5 años.
-- 7 cm de diámetro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00000IZKX{{</world>}}

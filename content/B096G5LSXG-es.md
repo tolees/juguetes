@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A partir de 8 años
 - 2-6 Jugadores
 - Monopoly
+- A partir de 8 años
 - 1h 30min
 - Licencia Oficial
 

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Coche de Carreras Williams Racing FW46 F1 77249'
-date: 2026-10-07 12:39:09
+title: 'LEGO Speed Champions Coche de Carreras Williams Racing FW46 F1 77249 | Juguetes para niños de 10+ años vehículo de Fórmula 1 y minifigura de piloto coleccionable regalo de cumpleaños 263 piezas'
+date: 2026-10-15 17:22:08
 image: 'https://m.media-amazon.com/images/I/51XyDmGwCXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0DHSD9VPK-es LEGO Speed Champions Coche de Carreras Williams Racing...'
 sku: 'B0DHSD9VPK-es'
-tags: [ 'lego','🇪🇸', ]
-actualPrice: 20.24 EUR
+tags: [ 'juguetes','lego','🇪🇸', ]
+actualPrice: 20.2 EUR
 currency: EUR
-price: 20.24
+price: 20.2
 comparePrice: 26.99 EUR
-prodname: 'LEGO Speed Champions Coche de Carreras Williams Racing FW46 F1 77249'
+prodname: 'LEGO Speed Champions Coche de Carreras Williams Racing FW46 F1 77249 | Juguetes para niños de 10+ años vehículo de Fórmula 1 y minifigura de piloto coleccionable regalo de cumpleaños 263 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSD9VPK/?tag=tolees-21'
-descuento: '25.01'
-average: '20.6542105263157'
+descuento: '25.16'
+average: '20.6314999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
