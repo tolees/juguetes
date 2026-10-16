@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Devir - Imperium: Legendarios Juego de Mesa Juego de Cartas Mulitjugador y Individual Edad +14 BGIMPLSP'
+date: 2026-05-27 17:11:45
+image: 'https://m.media-amazon.com/images/I/514jUJbRTqL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0C387SLKQ-es Devir - Imperium: Legendarios Juego de Mesa Juego de...'
+sku: 'B0C387SLKQ-es'
+tags: [ 'cartas','de','devir','juego','mesa','🇪🇸', ]
+actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
+comparePrice: 35.0 EUR
+prodname: 'Devir - Imperium: Legendarios Juego de Mesa Juego de Cartas Mulitjugador y Individual Edad +14 BGIMPLSP'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0C387SLKQ/?tag=tolees-21'
+descuento: '37.17'
+average: '28.678'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Imperium Classics e Imperium Legends incluyen 8 facciones diferentes en cada caja completamente jugables entre sí
+- Juego de cartas de civilizaciones, asimétrico, con mucha profundidad
+- Con elevada interacción en multijugador y un celebrado modo solitario, siendo considerado uno de los mejores juegos de cartas para un solo jugador
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0C387SLKQ{{</world>}}
