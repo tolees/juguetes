@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'LEGO Technic Coche de Carreras BMW M4 GT3 EVO 42226'
+date: 2026-10-12 06:06:45
+image: 'https://m.media-amazon.com/images/I/51a++cWZf+L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FPXFKGQR-es LEGO Technic Coche de Carreras BMW M4 GT3 EVO 42226'
+sku: 'B0FPXFKGQR-es'
+tags: [ 'lego','🇪🇸', ]
+actualPrice: 48.74 EUR
+currency: EUR
+price: 48.74
+comparePrice: 64.99 EUR
+prodname: 'LEGO Technic Coche de Carreras BMW M4 GT3 EVO 42226'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FPXFKGQR/?tag=tolees-21'
+descuento: '25.00'
+average: '51.7095000000001'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0FPXFKGQR{{</world>}}
