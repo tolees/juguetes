@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casco Bicicleta Adulto con Luz Casco Ciclismo Ligero Unisex 57-62cm'
-date: 2026-10-20 07:23:26
+date: 2026-10-30 09:49:28
 image: 'https://m.media-amazon.com/images/I/41J1I2Q5ECL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GCMMDV5W/?tag=tolees-21'
 descuento: '28.84'
-average: '20.635'
+average: '20.6333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Si queréis escapar, tendréis que desactivar a tiempo el Contador de Arena, un peligroso artefacto formado por engranajes y arena; lo conseguiréis
 - Un torbellino de arenas movedizas gigante os ha arrastrado hasta un templo olvidado en las profundidades del desierto
 - 21 trampas con distintos niveles de dificultad para desafiar a vuestro equipo
 - Un desafío cooperativo en tiempo real
-- Si queréis escapar, tendréis que desactivar a tiempo el Contador de Arena, un peligroso artefacto formado por engranajes y arena; lo conseguiréis
 - Eso sí, id con cuidado, ya que solo un optimo trabajo en equipo os permitirá desactivar este antiguo artilugio; actuar muy rápido puede ser tan peligroso como actuar demasiado lento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

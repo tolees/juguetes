@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vive tres historias increíbles, resuelve puzles, combina objetos y completa las aventuras mientras encuentras tantas estrellas como puedas
-- 3 historias repletas de puzles, 2 aventuras en cada historia
 - Escape rooms caseros para jóvenes detectives; adaptado de Unlock!, todo un superventas
+- Vive tres historias increíbles, resuelve puzles, combina objetos y completa las aventuras mientras encuentras tantas estrellas como puedas
 - Si es la primera vez que juegas, descubre las reglas a través del tutorial
+- 3 historias repletas de puzles, 2 aventuras en cada historia
 - Unlock! Kids es una versión del juego Unlock! diseñada para niños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

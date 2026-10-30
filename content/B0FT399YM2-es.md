@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Pule tus habilidades hasta la perfección en el nuevo modo de práctica!
 - ¡Regresa el clásico matamarcianos en alta definición!
+- ¡Pule tus habilidades hasta la perfección en el nuevo modo de práctica!
 - ¡Nueva música de Chris Hülsbeck, Masahiko Ishida y el equipo de sonido de USP!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

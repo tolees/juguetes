@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un juego familiar con una puesta en mesa espectacular
 - MECÁNICAS: Colección, Solitario, Mayorías
-- Reglas muy sencillas para partidas de 1 a 4 jugadores
 - Construye la montaña de hielo y llévate la victoria sumando los puntos de los bloques de hielo y de las cartas de final de partida
+- Un juego familiar con una puesta en mesa espectacular
+- Reglas muy sencillas para partidas de 1 a 4 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK9KH84T{{</world>}}

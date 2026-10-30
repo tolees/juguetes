@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini Coche RC FPV 1:64 con Cámara Pantalla LCD y Vídeo en Tiempo Real Cámara Magnética Ajustable 45° Control por App 2 Velocidades 2 4 GHz Carreras en Interior Juguetes de Regalo para niños y niñas'
-date: 2026-10-24 11:25:22
+date: 2026-10-30 09:18:21
 image: 'https://m.media-amazon.com/images/I/41bigqrrtrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

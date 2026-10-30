@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Crucero de Ataque Clase Venator 75441 | Set para adultos maqueta de nave de la República decoración de estantería regalo para hombres y mujeres 643 piezas'
-date: 2026-10-25 16:11:16
+date: 2026-10-30 13:06:41
 image: 'https://m.media-amazon.com/images/I/417ty4xylNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXBMXFN/?tag=tolees-21'
 descuento: '25.00'
-average: '59.2066666666666'
+average: '59.2422727272727'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

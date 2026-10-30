@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - THE ACADEMY: Craft players and build legendary stadiums. If you can imagine it, you can make it!
-- PRO TEAM: Assemble your ultimate team. Customise. Strategise. Dominate.
 - CAREER MODE: Rise from rookie to rugby league legend. Your career, your choices, your legacy.
 - GET READY FOR GREATNESS! Rugby League. It’s Back. And It’s Better Than Ever.
+- PRO TEAM: Assemble your ultimate team. Customise. Strategise. Dominate.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FD4YVL28{{</world>}}

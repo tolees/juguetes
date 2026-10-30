@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto distribuido en España por BIZAK.
 - Es articulada y mide 11 cm de altura
 - Ya están aquí las figuras de los personajes del juego multijugador de combate, Brawl Stars
-- Producto distribuido en España por BIZAK.
 - Incluye 1 figura de Colt y un accesorio.
 - Increíble figura de acción de BRAWL STARS Recrea las escenas de aventuras del juego con esta fantástica figura de gran nivel de detalle.
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuerpo exterior con bolsillo frontal
 - Trasera acolchada transpirable para mayor comodidad
+- Cuerpo exterior con bolsillo frontal
 - Mochila preescolar ligera con un compartimento con cremallera
 - Dimensiones: 10 x 22 x 27 cm
 

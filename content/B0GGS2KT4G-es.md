@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO | Marvel Nueva Torre Vengadores de Avengers: Doomsday – Set de Superhéroes de Juguete con 6 Minifiguras inc. Doctor Doom y Bucky Barnes – Regalo para Niños y Fans Adolescentes de 12+ Años – 76352'
-date: 2026-10-28 07:41:28
+date: 2026-10-29 20:31:01
 image: 'https://m.media-amazon.com/images/I/51eXhx+hCzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

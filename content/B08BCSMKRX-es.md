@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Educa - Érase una Vez La Vida Juego de Mesa Familiar Educativo con más de 300 Preguntas y respuestas sobre anatomía y biología A Partir de 6 años 18855'
-date: 2026-04-30 05:55:43
+title: 'Educa - Érase una vez… La Vida | Juegos de Mesa Niños 6 Años | Juego de mesa 6 años sobre el cuerpo humano de 2 a 4 jugadores con más de 300 preguntas y 3 niveles.'
+date: 2026-10-30 11:41:56
 image: 'https://m.media-amazon.com/images/I/51bUtGkgEUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08BCSMKRX-es Educa - Érase una Vez La Vida Juego de Mesa Familiar...'
+slug: 'B08BCSMKRX-es Educa - Érase una vez… La Vida | Juegos de Mesa Niños 6...'
 sku: 'B08BCSMKRX-es'
 tags: [ 'de','juego','mesa','🇪🇸', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
-prodname: 'Educa - Érase una Vez La Vida Juego de Mesa Familiar Educativo con más de 300 Preguntas y respuestas sobre anatomía y biología A Partir de 6 años 18855'
+prodname: 'Educa - Érase una vez… La Vida | Juegos de Mesa Niños 6 Años | Juego de mesa 6 años sobre el cuerpo humano de 2 a 4 jugadores con más de 300 preguntas y 3 niveles.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BCSMKRX/?tag=tolees-21'
 descuento: '33.36'
-average: '9.95454545454552'
+average: '9.9560869565218'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Responde las preguntas del Maestro sobre anatomía y biología para poder avanzar en el tablero de juego; el primero que termine el recorrido gana la partida
-- Un mini juego de mesa con más de 300 preguntas sobre el cuerpo humano, basado en la famosa serie Érase una vez; la Vida
-- De 2 a 4 jugadores. +6 años
-- Más de 300 preguntas de 3 niveles diferentes
-- Contiene: 1 tablero de juego, 96 cartas, 4 peones, 4 fichas "verdadero o falso"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BCSMKRX{{</world>}}

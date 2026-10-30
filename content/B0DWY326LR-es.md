@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conviértete en héroe
-- Alzaos juntos
 - Enfréntate a la noche
+- Alzaos juntos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWY326LR{{</world>}}

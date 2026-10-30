@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Busto de Iron Spider-Man 76326 | Set para adultos figura de superhéroe con cabeza giratoria y brazos móviles minifigura regalo de cumpleaños 379 piezas'
-date: 2026-10-28 15:26:25
+date: 2026-10-30 05:20:32
 image: 'https://m.media-amazon.com/images/I/41705T3YJWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDLM9XS/?tag=tolees-21'
 descuento: '20.00'
-average: '48.77'
+average: '48.692'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

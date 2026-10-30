@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO One Piece Barco de la Marina de GARP 75646 | Juguetes para niños de 9+ años maqueta de barco 8 minifiguras incl. Zoro Usopp & Nami regalo de cumpleaños 1705 piezas'
-date: 2026-10-28 16:02:13
+date: 2026-10-30 14:34:25
 image: 'https://m.media-amazon.com/images/I/51WGOf4UVjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GGSFQR8L/?tag=tolees-21'
 descuento: '20.00'
-average: '140.14'
+average: '138.756666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

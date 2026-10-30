@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casco de Bicicleta para Hombre y Mujer Moplasz Casco de Ciclismo con luz para Adultos Unisex Casco de Bicicleta Transpirable Casco de Ciclismo de montaña Ajustable de 57-62cm Verde'
-date: 2026-10-25 11:54:57
+date: 2026-10-30 13:40:37
 image: 'https://m.media-amazon.com/images/I/41WvljFYmlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GCM355Z4/?tag=tolees-21'
 descuento: '37.62'
-average: '20.8524999999999'
+average: '20.7979999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

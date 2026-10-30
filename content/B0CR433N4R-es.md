@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Otro juego, nueva rivalidad
 - Un luchador para una nueva generación
+- Otro juego, nueva rivalidad
 - Emocionante modo de juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 4 botes de plastilina para crear todo lo que puedas imaginar
-- ¡Mezcla y combina tus colores favoritos!
-- Incluye botes de plastilina de colores primarios: rojo, amarillo, azul y verde
 - Moldea y da forma a tus creaciones
+- Incluye botes de plastilina de colores primarios: rojo, amarillo, azul y verde
+- ¡Mezcla y combina tus colores favoritos!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZWD3XK{{</world>}}

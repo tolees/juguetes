@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con licencia oficial de Nintendo
 - Carcasa exterior sólida con asa de goma y cremalleras resistentes
 - La solapa protectora de pantalla acolchada integrada incluye almacenamiento de juegos para 5 tarjetas de juego
-- Con licencia oficial de Nintendo
 - Moldeado interior con forro de felpa y rejilla de almacenamiento con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

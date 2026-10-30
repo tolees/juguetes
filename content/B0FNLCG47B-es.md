@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koeutoze Destornillador de carraca 24 en 1 - Juego de destornilladores magnéticos de precisión con 24 puntas mango de aluminio extraíble herramientas compactas para reparación de bicicleta bricolaje'
-date: 2026-10-28 19:47:47
+date: 2026-10-30 18:42:40
 image: 'https://m.media-amazon.com/images/I/41YuYbnYOrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FNLCG47B/?tag=tolees-21'
 descuento: '35.41'
-average: '19.5518181818181'
+average: '19.3568571428571'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para líquidos fríos o calientes
 - Taza para beber
 - Adecuado para regalar
+- Para líquidos fríos o calientes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BPBMJCE{{</world>}}

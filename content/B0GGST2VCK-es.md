@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Arcanine 72160 | Set para adultos decoración de estantería del cuarto gaming con cola patas y cabeza articuladas regalo gamer 1190 piezas'
-date: 2026-10-27 19:50:58
+date: 2026-10-29 21:07:58
 image: 'https://m.media-amazon.com/images/I/41h4eJUgXlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GGST2VCK/?tag=tolees-21'
 descuento: '20.00'
-average: '96.32'
+average: '93.9871428571428'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

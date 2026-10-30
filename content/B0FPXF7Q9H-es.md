@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO City Experiencia de Pizza a Domicilio con Vehículos 60496 | Juguetes para niños de 6+ años maquetas de coche moto y dron máquina recreativa regalo de cumpleaños 494 piezas'
-date: 2026-10-17 10:37:40
-image: 'https://m.media-amazon.com/images/I/51fzDsjGYQL._SL500_._SL400_.jpg'
+date: 2026-10-30 09:18:35
+image: 'https://m.media-amazon.com/images/I/51gyhBASSZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXF7Q9H/?tag=tolees-21'
 descuento: '25.01'
-average: '38.3033333333333'
+average: '38.2407692307692'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

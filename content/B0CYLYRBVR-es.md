@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De 2 a 9 jugadores que se juega en tiempo real
 - Uno de los juegos favoritos de Tom Vassel
 - MECÁNICAS: Apuestas, Tiempo real2, Tirar dados
-- De 2 a 9 jugadores que se juega en tiempo real
 - El óptimo party game frenético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

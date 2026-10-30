@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Artículos de Calidad para Quidditch y Heladería 76452 | Juguetes para niños de 8+ años tiendas del Callejón Diagon Nimbus 2000 y Snitch Dorada regalo de cumpleaños 795 piezas'
-date: 2026-10-29 08:04:34
+date: 2026-10-30 09:33:30
 image: 'https://m.media-amazon.com/images/I/513RdamX6fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWF4JR58/?tag=tolees-21'
 descuento: '27.00'
-average: '66.9881818181819'
+average: '67.4883333333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

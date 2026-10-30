@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Actividades manuales para jugar sentado y botones luminosos que activan canciones y frases
-- Para bebés a partir de 6 meses
 - Asa fácil de sujetar y base robusta con cuatro ruedas que ayudan al bebé a dar sus primeros pasos
 - Gimnasio infantil musical con dos modos de juego que se adaptan al crecimiento del bebé: Juega sentado o dando sus primeros pasos
+- Para bebés a partir de 6 meses
+- Actividades manuales para jugar sentado y botones luminosos que activan canciones y frases
 - Las frases, la música y los sonidos divertidos familiarizan a los peques con las letras, los números y más
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplica el color sobre un mechón de tu pelo y estarás lista para lucir mechas de color
-- Incluye dos colores diferentes
-- Producto distribuido oficialmente en España por BIZAK.
-- Además puedes rizar y ondular tu pelo
 - Crea tus nuevos look con este completo set estudio mechas y rizador 3 en 1
+- Incluye dos colores diferentes
+- Aplica el color sobre un mechón de tu pelo y estarás lista para lucir mechas de color
+- Además puedes rizar y ondular tu pelo
+- Producto distribuido oficialmente en España por BIZAK.
 - Servicio atención al cliente disponible todo el año (sat@bizak.es).
 
 [🛒 Aquí!!!]({{< param buyurl >}})

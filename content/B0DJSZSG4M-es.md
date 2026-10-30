@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher-Price Libro Musical Mono Morado Español Castellano | Canciones y sonidos luces asa para llevar bebés y niños desde 6 meses JFN09'
-date: 2026-10-22 12:10:32
+date: 2026-10-30 16:33:33
 image: 'https://m.media-amazon.com/images/I/41aReQyfurL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJSZSG4M/?tag=tolees-21'
 descuento: '30.02'
-average: '10.7757142857144'
+average: '10.7400000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

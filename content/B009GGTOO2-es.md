@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo : plastilina
 - Color : rubí
 - Peso : + de 150 g
+- Tipo : plastilina
 - Marca : jovi
 
 [🛒 Visítala!!!]({{< param buyurl >}})

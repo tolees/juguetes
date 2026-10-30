@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- PARTIDAS RÁPIDAS Y ADICTIVAS: Gracias a su mecánica sencilla y partidas de apenas 10 minutos de duración, es perfecto para llevar a cualquier parte y jugar.
+- EMPAQUETADO 100% ECOLÓGICO: Nueva edición comprometida con el medio ambiente, con un diseño totalmente libre de plásticos y etiqueta FSC que garantiza un origen sostenible.
 - OBJETIVO DEL JUEGO: Conviértete en el jefe de la tribu Abulú siendo el primer jugador en deshacerte de todas tus cartas en este trepidante desafío de rapidez.
 - EMOCIONANTES DUELOS POR EL TÓTEM: Mantente alerta para identificar símbolos idénticos entre los jugadores y sé el más rápido en atrapar el tótem central para ganar el duelo.
-- PARTIDAS RÁPIDAS Y ADICTIVAS: Gracias a su mecánica sencilla y partidas de apenas 10 minutos de duración, es perfecto para llevar a cualquier parte y jugar.
 - DIVERSIÓN PARA GRANDES GRUPOS: Con capacidad para entre 2 y 10 jugadores, es el juego de mesa ideal para animar fiestas, reuniones de amigos y tardes de juegos en familia. A partir de 7 años.
-- EMPAQUETADO 100% ECOLÓGICO: Nueva edición comprometida con el medio ambiente, con un diseño totalmente libre de plásticos y etiqueta FSC que garantiza un origen sostenible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08DRRS4VN{{</world>}}

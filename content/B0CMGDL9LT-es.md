@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tira de las borlas para ver al caballo bailar.
-- Presiona la gema del sillín para escuchar canciones inspiradas en la serie.
 - Cuando alimentes al caballo, acaricia su cabeza y verás cómo cierra los ojos y relincha.
-- Los accesorios adicionales incluyen un trofeo y comida para inventar miles de historias.
 - Inspirado en la serie “Barbie Mysteries: The Great Horse Chase”, este caballo de juguete interactivo tiene más de 20 sonidos y ofrece muchas maneras de jugar.
-- Los niños y las niñas (a partir de 3 años) dejarán volar su imaginación con el caballo de exhibición de Barbie.
+- Tira de las borlas para ver al caballo bailar.
 - Asea y peina al caballo con el peine y las preciosas pinzas, extensiones y gemas para el pelo.
+- Los niños y las niñas (a partir de 3 años) dejarán volar su imaginación con el caballo de exhibición de Barbie.
+- Los accesorios adicionales incluyen un trofeo y comida para inventar miles de historias.
+- Presiona la gema del sillín para escuchar canciones inspiradas en la serie.
 - Ayuda al caballo a hacer una reverencia ante los gritos de ánimo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

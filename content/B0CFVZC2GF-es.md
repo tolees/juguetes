@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars R2-D2 75379 | Juguetes para niños de 10+ años figura articulada de droide minifigura de Darth Vader regalo de cumpleaños 1050 piezas'
-date: 2026-10-27 13:43:20
+date: 2026-10-30 09:47:04
 image: 'https://m.media-amazon.com/images/I/51i5rro1xlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CFVZC2GF/?tag=tolees-21'
 descuento: '26.40'
-average: '76.6462037037037'
+average: '76.5906363636364'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

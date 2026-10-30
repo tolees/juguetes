@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Jurassic World Ataque del Dinosaurio Marino Mosasaurus 77983 | Juguetes para niños de 7+ años barco de juguete figura de dinosaurio helicóptero regalo de cumpleaños 703 piezas'
-date: 2026-10-28 13:03:57
+date: 2026-10-30 13:03:27
 image: 'https://m.media-amazon.com/images/I/51glz8qhcpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
