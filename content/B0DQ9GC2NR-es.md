@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee La Comunidad del Anillo: El Juego de Bazas | Juego de Cartas Cooperativo de El Señor de los Anillos 10+ Años 1-4 Jugadores 20 Minutos Español'
-date: 2026-11-04 19:25:18
+date: 2026-11-06 09:05:07
 image: 'https://m.media-amazon.com/images/I/41biTgQ6iML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQ9GC2NR/?tag=tolees-21'
 descuento: '20.01'
-average: '21.485'
+average: '20.986666666666665'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

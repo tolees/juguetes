@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Coche de Carreras BWT Alpine F1 Team A524 77248'
-date: 2026-10-10 21:17:43
-image: 'https://m.media-amazon.com/images/I/51Ew3Rv2R6L._SL500_._SL400_.jpg'
+title: 'LEGO Speed Champions Coche de Carreras BWT Alpine F1 Team A524 77248 | Juguetes para niños de 10+ años maqueta de vehículo y 1 minifigura de piloto de Fórmula 1 regalo de cumpleaños 258 piezas'
+date: 2026-11-06 09:51:11
+image: 'https://m.media-amazon.com/images/I/51dlrTW9iTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0DHSF1PW6-es LEGO Speed Champions Coche de Carreras BWT Alpine F1 Team...'
 sku: 'B0DHSF1PW6-es'
-tags: [ 'lego','🇪🇸', ]
-actualPrice: 20.24 EUR
+tags: [ 'juguetes','lego','🇪🇸', ]
+actualPrice: 17.99 EUR
 currency: EUR
-price: 20.24
+price: 17.99
 comparePrice: 26.99 EUR
-prodname: 'LEGO Speed Champions Coche de Carreras BWT Alpine F1 Team A524 77248'
+prodname: 'LEGO Speed Champions Coche de Carreras BWT Alpine F1 Team A524 77248 | Juguetes para niños de 10+ años maqueta de vehículo y 1 minifigura de piloto de Fórmula 1 regalo de cumpleaños 258 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSF1PW6/?tag=tolees-21'
-descuento: '25.01'
-average: '18.8208695652175'
+descuento: '33.35'
+average: '18.033076923077047'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

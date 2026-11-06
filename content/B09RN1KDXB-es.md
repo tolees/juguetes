@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado a partir de 3 años
 - Incluye un conector con 2 posiciones para tener diferentes chorros de salida de agua
-- Acciona el gatillo para limpiar el jardín o las ventanas
 - Réplica perfecta del carro de alta presión K4 de Kärcher.
+- Acciona el gatillo para limpiar el jardín o las ventanas
+- Adecuado a partir de 3 años
 - Funciona como la auténtica: directamente conectada a la manguera de jardín
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

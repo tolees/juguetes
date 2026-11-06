@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SONIC WINGS REUNION - PS5'
-date: 2026-10-14 22:56:09
+date: 2026-11-06 10:25:25
 image: 'https://m.media-amazon.com/images/I/51XwTSyv8EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9Z3ZMGF/?tag=tolees-21'
 descuento: '35.11'
-average: '25.7311111111112'
+average: '25.770909090909164'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

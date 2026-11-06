@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel KPOP Demon Hunters HUNTR/X Zoey “Golden” muñeca Cantante | Con traje exclusivo extraíble 5 articulaciones móviles inspirada en la película JRN42'
-date: 2026-11-04 06:20:40
+date: 2026-11-05 11:55:10
 image: 'https://m.media-amazon.com/images/I/41XMgtKNkWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GCBV6M3Y/?tag=tolees-21'
 descuento: '17.50'
-average: '34.8566666666667'
+average: '34.390000000000022'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

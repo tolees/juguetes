@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ¡Incluye la nueva expansión ENTRENADORES!
 - Challengers es un adictivo juego de gestión de mazos que permite jugar hasta 4 duelos simultáneos en una modalidad única de torneo. ¡Enfréntate a un nuevo adversario cada ronda en un intenso duelo!
-- Combina ambas cajas para jugar un macrotorneo de hasta 16 jugadores
 - Un juego completo, pero totalmente compatible con el Challengers! original
 - ¡Se incluyen 4 tapetes de juego nuevos de gran calidad!
+- Combina ambas cajas para jugar un macrotorneo de hasta 16 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPQ7RG1L{{</world>}}

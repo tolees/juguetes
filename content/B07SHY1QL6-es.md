@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El artículo viene en un embalaje que permite ver lo que hay dentro. Para que sea una sorpresa, selecciona la opción enviar en un paquete de Amazon al completar la compra.
 - Viene con tres juguetes portátiles, como un mordedor en forma de zanahoria con texturas, un espejo para que el bebé se reconozca y un sonajero en forma de sandía.
-- Presenta cuatro opciones de juego que se adaptan al crecimiento del niño.
 - Cojín de peluche para bebés a partir del nacimiento.
+- Presenta cuatro opciones de juego que se adaptan al crecimiento del niño.
 - Ofrece trece descubrimientos sensoriales para incentivar los sentidos de la vista, el oído y el tacto del bebé.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

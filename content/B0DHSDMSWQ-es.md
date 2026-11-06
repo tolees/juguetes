@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu con Aerocuna 75403 | Juguetes para niños de 10+ años aerocuna figura articulada de juguete y minifigura regalo de cumpleaños 1048 piezas'
-date: 2026-10-28 17:54:40
+date: 2026-11-05 19:26:26
 image: 'https://m.media-amazon.com/images/I/51WxOQg1brL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSDMSWQ/?tag=tolees-21'
 descuento: '25.00'
-average: '78.8161904761904'
+average: '78.642272727272655'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

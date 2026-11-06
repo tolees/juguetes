@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los fans y los niños y niñas a partir de 6 años podrán coleccionar este y otros conjuntos para recrear momentos mágicos una y otra vez.
-- Disfruta estudiando en Hogwarts con una varita, frascos de pociones, una receta, un caldero, un soporte e ingredientes para hacer hechizos.
-- ¡Este juego incluye 13 accesorios que despiertan la imaginación, incluyendo bombas efervescentes aromáticas y confeti soluble!
 - La muñeca lleva su uniforme de Hogwarts característico, con el escudo y los colores de Gryffindor, y cuenta con cinco puntos de articulación para aumentar aún más la magia durante el juego.
 - El conjunto incluye una cabeza y una cola de gato para recrear la emblemática escena en la que Hermione bebe una poción multijugos.
+- ¡Este juego incluye 13 accesorios que despiertan la imaginación, incluyendo bombas efervescentes aromáticas y confeti soluble!
+- Disfruta estudiando en Hogwarts con una varita, frascos de pociones, una receta, un caldero, un soporte e ingredientes para hacer hechizos.
+- Los fans y los niños y niñas a partir de 6 años podrán coleccionar este y otros conjuntos para recrear momentos mágicos una y otra vez.
 - Revive un momento icónico de las películas de Harry Potter o imagina nuevas historias llenas de magia con el conjunto de juego Poción multijugos y la muñeca de Hermione Granger.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

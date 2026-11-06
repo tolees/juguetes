@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye tres muñecos pequeños articulados y un animal: Rapunzel, Flynn Rider, la villana Madre Gothel y el caballo Maximus, todos diseñados a escala de 8,9cm.
-- Maximus incluye una brida y una silla de montar, perfectas para pasear por el reino con esta muñeca de Rapunzel.
 - Este conjunto de Rapunzel, inspirado en la película de animación “Enredados” de Disney, incluye cuatro personajes para que los más pequeños cuenten la historia de principio a fin.
+- Maximus incluye una brida y una silla de montar, perfectas para pasear por el reino con esta muñeca de Rapunzel.
+- Incluye tres muñecos pequeños articulados y un animal: Rapunzel, Flynn Rider, la villana Madre Gothel y el caballo Maximus, todos diseñados a escala de 8,9cm.
 - Los fans pueden coleccionar todos los conjuntos de personajes de Disney Princesas para pasárselo bomba contando historias. Se venden por separado y están sujetas a disponibilidad.
 - A los niños y las niñas les encantará recrear sus momentos favoritos de la película o imaginarse sus propias aventuras mágicas con estos personajes principales.
 

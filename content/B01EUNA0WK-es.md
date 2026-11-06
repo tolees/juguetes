@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El asiento gira 360º para alcanzar todos los juguetes
 - Presenta números y colores en inglés, español y francés
+- El asiento gira 360º para alcanzar todos los juguetes
+- 4 posiciones de altura que se ajustan fácilmente.
 - Tortuga marina electrónica removible.
 - Se envía en un embalaje totalmente cerrado
-- 4 posiciones de altura que se ajustan fácilmente.
 - Sumérgete a descubrir actividades marinas en todas las direcciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

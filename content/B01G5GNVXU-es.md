@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca: Clementoni
 - Panorama del reconocido centro medieval francés
 - Elegante línea de puzles hecha en Italia
-- Marca: Clementoni
 - Hecho con materiales reciclables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

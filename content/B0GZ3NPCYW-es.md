@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak Las Guerreras KPOP Prueba o Verdad Juego de Mesa Inspirado en el Fenómeno K-Pop Demon Hunters Retos Preguntas y Pruebas para Fiestas con Amigas +8 Años 64013153'
-date: 2026-11-04 08:28:10
+date: 2026-11-05 11:03:11
 image: 'https://m.media-amazon.com/images/I/41uVpL9L3OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

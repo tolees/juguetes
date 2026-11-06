@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mejora de efectos posteriores
-- Incluye todos los DLCs anteriores
 - 60 fps
+- Incluye todos los DLCs anteriores
 - Mapas de sombras de alta resolución
+- Mejora de efectos posteriores
 - Resolución nativa 4K; retroalimentación háptica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

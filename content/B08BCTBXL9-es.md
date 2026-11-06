@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¿Podréis vencer en este juego cooperativo gracias a vuestro espíritu de equipo?
-- Trabajad en equipo, seguid las instrucciones cuidadosamente y no cometáis errores si queréis abrir la caja fuerte y robar el oro y los 50 millones.
 - Versión española
-- ¡Pero solo tendréis éxito si sois capaces de dar el golpe en menos de 5 minutos.
+- Trabajad en equipo, seguid las instrucciones cuidadosamente y no cometáis errores si queréis abrir la caja fuerte y robar el oro y los 50 millones.
 - El jefe de la banda os ha facilitado la ubicación de una caja fuerte con 50 millones de euros y, por si fuera poco, ¡llena de lingotes de oro!.
-- ¡Un equipo, una misión y un botín a repartir!
 - Habéis sido recluidos para realizar el robo del siglo.
+- ¡Un equipo, una misión y un botín a repartir!
+- ¡Pero solo tendréis éxito si sois capaces de dar el golpe en menos de 5 minutos.
 - Requiere 3 pilas AA 1,5V LR6 (no incluidas)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

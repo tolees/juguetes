@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Historia de intriga.
-- Desafío intelectual.
-- Exploración de puzzles.
 - Mecánicas variadas.
 - Dificultad progresiva.
+- Exploración de puzzles.
+- Desafío intelectual.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR8F1YM2{{</world>}}

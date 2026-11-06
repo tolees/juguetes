@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Distintos niveles de dificultad que aumentan la rejugabilidad
 - Juego cooperativo exclusivo de dos jugadores de bazas, tremendamente original
 - Con un arte evocador y personal del célebre ilustrador Weberson Santiago
+- Distintos niveles de dificultad que aumentan la rejugabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8P1B28X{{</world>}}

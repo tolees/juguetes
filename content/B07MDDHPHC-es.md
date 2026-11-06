@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 17 cm de alto
 - 17 puntos de articulación
 - Figura con alto nivel de detalle
-- Incluye una pieza para formar a broly en versión super saiyan; colecciónalas todas
 - Manos intercambiables
+- Incluye una pieza para formar a broly en versión super saiyan; colecciónalas todas
+- 17 cm de alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MDDHPHC{{</world>}}

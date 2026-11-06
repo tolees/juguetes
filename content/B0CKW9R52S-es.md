@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye modo avanzado para aumentar de dificultad tus partidas
-- Juego familiar y cooperativo que se explica en 2 minutos y se juega en 10
 - Juega a contrarreloj frenético tendrás que vigilar que ninguno de los relojes de arena (cometas) se terminen
+- Juego familiar y cooperativo que se explica en 2 minutos y se juega en 10
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKW9R52S{{</world>}}

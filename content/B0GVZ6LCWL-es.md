@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bicicleta eléctrica plegable para adultos cuadro de aluminio ligero motor sin escobillas batería extraíble bicicleta eléctrica con neumáticos gruesos de 20"X4.0" frenos hidráulicos de aceite ped'
-date: 2026-10-30 18:05:15
+date: 2026-11-05 19:09:00
 image: 'https://m.media-amazon.com/images/I/51-Tjxi0ZRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GVZ6LCWL/?tag=tolees-21'
 descuento: '61.18'
-average: '624.0'
+average: '532.33333333333337'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

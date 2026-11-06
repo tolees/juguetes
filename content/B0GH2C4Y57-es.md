@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Starship Troopers: Ultimate Bug War - Nintendo Switch 2'
-date: 2026-11-04 10:34:44
+date: 2026-11-05 14:02:34
 image: 'https://m.media-amazon.com/images/I/51GfvtObUtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GH2C4Y57/?tag=tolees-21'
 descuento: '18.48'
-average: '32.4333333333333'
+average: '32.474999999999973'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

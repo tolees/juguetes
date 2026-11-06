@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Número máximo de jugadores: 5
 - High Score es un ingenioso juego de dados con desafíos únicos
+- Número máximo de jugadores: 5
 - Edad mínima recomendada: 8
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

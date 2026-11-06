@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Edades: 15 años y más
 - Importación de Japón
-- Talla: Talla única
+- Edades: 15 años y más
 - Marca: BANDAI SPIRITS
+- Talla: Talla única
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B5TQXB8R{{</world>}}

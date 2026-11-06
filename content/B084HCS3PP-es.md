@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Set de 2 Puzzles Infantiles con 48 Piezas de cartón | Rey León Disney. A Partir de 4 5 6 años 18629'
-date: 2026-10-30 18:27:29
+date: 2026-11-06 05:03:22
 image: 'https://m.media-amazon.com/images/I/51e6Bbf5ZLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B084HCS3PP/?tag=tolees-21'
 descuento: '40.95'
-average: '6.35428571428572'
+average: '6.3844444444444495'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

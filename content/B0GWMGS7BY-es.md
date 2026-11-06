@@ -32,9 +32,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - ELIGE TU ESTILO DE COMBATE Selecciona tu arma ideal, ya sea empuñando una espada de una mano y un hacha en la otra, o el poder de las espadas de dos manos. Equípate con poderosos ataques especiales, crea unas cuantas granadas con ingredientes recopilados y lánzate a la batalla.
 - DESARROLLA TU PERSONAJE Utiliza una gran cantidad de puntos de habilidad para expandir las capacidades de tu héroe, ofreciendo una multitud de opciones de desarrollo de personaje.
 - EXPLORA LA ANTIGUA GRECIA Recorre ubicaciones meticulosamente diseñadas inspiradas en la antigua Grecia. Sube por pasos de montaña, adéntrate en las mazmorras más profundas y lucha por sobrevivir en fisuras de otro mundo.
-- Esta vez la leyenda de Aquiles está en tus manos, descubre la historia inédita del héroe griego en ACHILLES: LEGENDS UNTOLD y sobrevive a interminables oleadas de enemigos en ACHILLES: SURVIVOR
 - ACHILLE DOUBLE PACK TROY EDITION incluye una funda especial, una lámina y el libro de arte
 - LUCHA Y APRENDE Sumérgete en un mundo donde dominar el combate, desde tácticas defensivas como el bloqueo y la evasión hasta una amplia variedad de ataques, es la clave del éxito. Si caes en batalla, levántate de nuevo, mejora las habilidades de tu héroe, prueba una táctica diferente y aventúrate una vez más.
+- Esta vez la leyenda de Aquiles está en tus manos, descubre la historia inédita del héroe griego en ACHILLES: LEGENDS UNTOLD y sobrevive a interminables oleadas de enemigos en ACHILLES: SURVIVOR
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GWMGS7BY{{</world>}}

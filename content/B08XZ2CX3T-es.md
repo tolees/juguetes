@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diviértete creando las escenas de Masha y el Oso
-- Fabricado en Italia
-- Puzzle de 70 x 50 cm
 - Manualidad fina y coordinación ojo-mano, creatividad y fantasía, curiosidad y capacidad de observación, decodificación de imágenes
+- Fabricado en Italia
+- Diviértete creando las escenas de Masha y el Oso
+- Puzzle de 70 x 50 cm
 - Puzzle de 24 piezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

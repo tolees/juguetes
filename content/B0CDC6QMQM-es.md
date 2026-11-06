@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diversión asegurada
 - Juguetes y juegos
+- Diversión asegurada
 - Simula ser un mando de consola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

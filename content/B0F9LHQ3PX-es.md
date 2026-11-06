@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desenreda su larguíiiiiisima cola y descubre todas las sorpresas que esconde en su interior.
 - . Tienen más de 70 sonidos y reacciones para divertiros juntos y convertirse en tu mejor amigo.
 - ¡Colecciónalos! También hay un unicornio
+- Desenreda su larguíiiiiisima cola y descubre todas las sorpresas que esconde en su interior.
 - Encontrarán un mini-bestie, un cepillo para peinar su larga cola y una hoja de pegatinas para customizarlo a tu gusto.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

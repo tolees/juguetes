@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Érase una Vez La Vida Juego de Mesa Familiar Educativo con más de 500 Preguntas y respuestas sobre el Cuerpo Humano y 5 Temas A Partir de 6 años 18510'
-date: 2026-11-01 17:42:54
+date: 2026-11-06 09:20:15
 image: 'https://m.media-amazon.com/images/I/51JMQXjpG3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08BBTPTLS-es Educa - Érase una Vez La Vida Juego de Mesa Familiar...'
 sku: 'B08BBTPTLS-es'
 tags: [ 'de','juego','mesa','🇪🇸', ]
-actualPrice: 12.99 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 12.99
+price: 11.99
 comparePrice: 21.99 EUR
 prodname: 'Educa - Érase una Vez La Vida Juego de Mesa Familiar Educativo con más de 500 Preguntas y respuestas sobre el Cuerpo Humano y 5 Temas A Partir de 6 años 18510'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BBTPTLS/?tag=tolees-21'
-descuento: '40.93'
-average: '16.4706249999999'
+descuento: '45.48'
+average: '15.972777777777686'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

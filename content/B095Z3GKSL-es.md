@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 modos de juego: un modo para familias (18 edificios especiales únicos) y un modo para expertos con más interacciones y nuevas estrategias
 - boardgame
-- Juego estratégico
 - Construye tu pequeña ciudad, mapa tras tarjeta, gestionando tus ingresos, para traer a los lugareños y hacerlos felices.
+- 2 modos de juego: un modo para familias (18 edificios especiales únicos) y un modo para expertos con más interacciones y nuevas estrategias
+- Juego estratégico
 - Pon tus cartas supervisando las elecciones de otras jugadoras y jugadores, ¡mira tu ciudad crecer y generar cada vez más alegría para sus habitantes!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

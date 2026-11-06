@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las normas básicas de The Game mantienen
 - 28 comandos llevar restricciones
+- Las normas básicas de The Game mantienen
 - Todos juegan juntos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

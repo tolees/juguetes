@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca Lisciani
 - Manualidades finas y coordinación ojo-mano, creatividad y fantasía, curiosidad y capacidad de observación, descodificación de imágenes
+- De la marca Lisciani
 - Tarjetas gruesas, piezas de autocorrección, cartón muy resistente
 - Forma los 6.puzzles de animales del bosque
 

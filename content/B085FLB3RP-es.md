@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Family Fun 70440 Kids Club A Partir de 4 años'
-date: 2026-10-28 19:57:04
+date: 2026-11-06 06:50:00
 image: 'https://m.media-amazon.com/images/I/51hBknPSvpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B085FLB3RP/?tag=tolees-21'
 descuento: '33.18'
-average: '13.8194736842106'
+average: '13.454761904761972'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

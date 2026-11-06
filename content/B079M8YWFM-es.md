@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El jugador que pise menos cacas, gana
-- Moldea la plastilina incluida para crear montones de caca
 - Pásalo en grande evitando pisar cacas con los ojos vendados
 - Juega con tus amigos o juega a evitar pisar las cacas tú solo
+- Moldea la plastilina incluida para crear montones de caca
+- El jugador que pise menos cacas, gana
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079M8YWFM{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Coche de Carreras F1 ACADEMY LEGO 77258 | Juguetes para niños de 10+ años maqueta de coche y minifigura de mujer piloto de Fórmula 1 regalo de cumpleaños 201 piezas'
-date: 2026-10-27 15:10:27
+date: 2026-11-05 08:04:16
 image: 'https://m.media-amazon.com/images/I/51T+Ymp5pnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDCDNB/?tag=tolees-21'
 descuento: '25.01'
-average: '22.3885714285715'
+average: '22.213750000000061'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

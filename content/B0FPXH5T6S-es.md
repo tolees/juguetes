@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Setas del Bosque 11505 | Set para adultos setas y flores artificiales decoración de salón y dormitorio regalo de cumpleaños 806 piezas'
-date: 2026-11-04 08:32:05
+date: 2026-11-06 09:51:59
 image: 'https://m.media-amazon.com/images/I/51CELD8djyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXH5T6S/?tag=tolees-21'
 descuento: '25.00'
-average: '61.0900000000001'
+average: '61.005384615384713'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

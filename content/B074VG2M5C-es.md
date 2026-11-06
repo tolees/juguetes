@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gran realismo
+- Estimulan la imaginación
 - Producto de calidad
 - Figuras pintadas a mano
-- Estimulan la imaginación
-- Gran realismo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B074VG2M5C{{</world>}}

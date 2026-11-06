@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3 en 1 Camión Plataforma con Helicóptero 31146 | Juguete para niños de 7+ años avión de hélices convertible en bólido o coche SUV regalo de cumpleaños 270 piezas'
-date: 2026-11-04 19:11:34
+date: 2026-11-06 09:50:55
 image: 'https://m.media-amazon.com/images/I/51do0ljf62L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CFVYPKGB/?tag=tolees-21'
 descuento: '25.21'
-average: '16.537333333333148'
+average: '16.469787234042375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

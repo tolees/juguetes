@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Lata sobre Lata | Puzzle Adultos de 500 Piezas | Incluye Pegamento Fix Puzzle | A Partir de 11 años 18447'
-date: 2026-11-01 15:04:06
+date: 2026-11-05 17:11:55
 image: 'https://m.media-amazon.com/images/I/61MfN9b0SML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPPG657/?tag=tolees-21'
 descuento: '40.95'
-average: '6.705'
+average: '6.6742857142857144'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

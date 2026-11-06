@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'maysida Alfombra de baile recargable para 2 niños juguetes regalos para niñas y niños de 4 5 6 7 8 años alfombras de baile para niños para 1/2 jugadores 3 modos de juego alfombra musical'
-date: 2026-10-31 20:10:08
+date: 2026-11-05 13:01:20
 image: 'https://m.media-amazon.com/images/I/51oYxTT3JwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H21LPPVZ/?tag=tolees-21'
 descuento: '16.67'
-average: '50.92'
+average: '50.6875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

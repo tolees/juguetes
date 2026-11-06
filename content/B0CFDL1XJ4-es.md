@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Genre: Estrategia
 - Batteries required: False
+- Genre: Estrategia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFDL1XJ4{{</world>}}
