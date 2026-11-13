@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Puzzle de 1000 Piezas para Adultos | El Cairo Egipto. Incluye Pegamento Fix Puzzle. A Partir de 14 años 19611'
-date: 2026-11-03 22:08:13
+date: 2026-11-13 01:06:33
 image: 'https://m.media-amazon.com/images/I/51aScjB8-YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

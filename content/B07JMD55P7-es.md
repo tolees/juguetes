@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
-- Contiene 17 piezas
 - Figura de hipo y Astrid con traje nupcial
+- Contiene 17 piezas
+- Desarrolla la imaginación y la creatividad
 - Juego individual o en grupo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

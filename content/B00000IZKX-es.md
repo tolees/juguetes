@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye un Slinky clásico de metal.
 - Se estira, se contonea, camina y se sacude.
-- 7 cm de diámetro.
 - Solo hay una marca Slinky original.
+- Incluye un Slinky clásico de metal.
+- 7 cm de diámetro.
 - Un juguete divertido para niños a partir de 5 años.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

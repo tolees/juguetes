@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - GARANTÍA DE DIVERSIÓN Y DESARROLLO: el tapete educativo COZYPLAY permite pasarlo bien y aprender jugando. Los juguetes que se incluyen en el kit (espejo, 2 peluches, juguete susurrante y mordedor) apoyan el desarrollo psicomotor del niño
 - SE ADAPTA A LAS NECESIDADES: los 2 arcos blandos permiten disponer los juguetes como queráis. Con un poco de creatividad, podréis hasta montar una tienda de campaña. Así, el peque tendrá un lugar idóneo para jugar y desarrollarse
-- ESTÉTICO: el tapete ha sido diseñado por una artista polaca. Su bonito aspecto adornará cualquier interior
 - ACOGEDOR: el tapete de peluche COZYPLAY se confecciona con una tela suave y agradable al tacto, por lo que es totalmente seguro para los recién nacidos
+- ESTÉTICO: el tapete ha sido diseñado por una artista polaca. Su bonito aspecto adornará cualquier interior
 - PRÁCTICO: COZYPLAY facilita mantener la higiene, ya que se puede lavar a máquina. Además, es muy sencillo de plegar, lo que facilita guardarlo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

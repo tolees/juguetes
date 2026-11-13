@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🔄 Gran rejugabilidad gracias a sus mapas únicos y decisiones tácticas en cada turno
 - 🏆 Ganador del Spiel des Jahres 2001, uno de los juegos de mesa más influyentes del mundo
-- 👥 Ideal para 2 a 5 jugadores, perfecto para familias, parejas y grupos de amigos
+- 🔄 Gran rejugabilidad gracias a sus mapas únicos y decisiones tácticas en cada turno
 - 🧩 Juego de estrategia con colocación de losetas fácil de aprender y difícil de dominar
+- 👥 Ideal para 2 a 5 jugadores, perfecto para familias, parejas y grupos de amigos
 - 🏰 Construye ciudades, caminos y monasterios en un tablero diferente en cada partida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Ramo de Flores Fantasía en Rosa 10342'
-date: 2026-11-12 06:28:09
+date: 2026-11-13 08:18:54
 image: 'https://m.media-amazon.com/images/I/41O4WXEqF8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSDBVKV/?tag=tolees-21'
 descuento: '20.17'
-average: '45.544117647059025'
+average: '45.674444444444632'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

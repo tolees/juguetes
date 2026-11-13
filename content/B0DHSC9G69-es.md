@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Duplo Coches de Carreras y Pilotos del Equipo de F1 10445 | Juguetes para niñas y niños de 2+ años motricidad fina 10 coches semáforo y trofeo regalo de cumpleaños 70 piezas'
-date: 2026-11-12 13:47:36
+date: 2026-11-13 14:16:57
 image: 'https://m.media-amazon.com/images/I/51glDADfO8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSC9G69/?tag=tolees-21'
 descuento: '40.01'
-average: '32.502857142857089'
+average: '31.813749999999956'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

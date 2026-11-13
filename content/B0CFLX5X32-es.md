@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Primera de muchas expansiones que Devir publicará
-- Nuevas criaturas y cartas para mejorar tus partidas de Mindbug
 - Es necesario tener el juego base para jugar a esta expansión
+- Nuevas criaturas y cartas para mejorar tus partidas de Mindbug
+- Primera de muchas expansiones que Devir publicará
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CFLX5X32{{</world>}}

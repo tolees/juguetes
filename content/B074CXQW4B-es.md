@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - De 1 a 4 jugadores
 - A partir de los 12 años
-- Edición en español
 - Duración 45-90 minutos
+- Edición en español
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074CXQW4B{{</world>}}

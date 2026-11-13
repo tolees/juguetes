@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - MAZINGER Z PUZLE FIGURA 15 CM METAL MODEL KIT 3D MAZINGER Z
+- MAZINGER Z PUZLE FIGURA 15 CM METAL MODEL KIT 3D MAZINGER Z
 - Mazinger 3D para los más manitas
 - Puzzle kit 3D en metal de Mazinger Z
-- MAZINGER Z PUZLE FIGURA 15 CM METAL MODEL KIT 3D MAZINGER Z
 - Para los fans de Mazinger Z
 
 [🛒 Visítala!!!]({{< param buyurl >}})

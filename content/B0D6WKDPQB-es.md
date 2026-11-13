@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Figuras oficiales de Stumble Guys X Barbie
 - Tamaño de 5cm. ¡Es ideal para jugar y coleccionar!
 - Regalo perfecto para fans de Barbie y los Gamers.
+- Figuras oficiales de Stumble Guys X Barbie
 - Incluye 6 figuras de Stumble Guys X Barbie, 2 figuras de sorpresa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Magicube desarrolla la creatividad y habilidades motoras
-- Sets compatibles entre sí
 - El set contiene 6 cubos magnéticos
+- Sets compatibles entre sí
 - Los cubos se unen entre sí por cualquier lado
 - Sistema de construcción magnético
 

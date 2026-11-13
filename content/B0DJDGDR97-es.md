@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Busca a tus personajes favoritos, incluyendo Leo, Raph, Mikey y Donnie en este clásico juego familiar
-- ¡Quién! Ahora te trae esta edición especial de Teenage Mutant Ninja Turtles: Mutant Mayhem.
 - Este juego de cartas de movimiento rápido es un compañero de viaje perfecto
+- ¡Quién! Ahora te trae esta edición especial de Teenage Mutant Ninja Turtles: Mutant Mayhem.
 - Combina las formas o números para ser el primero en deshacerte de todas tus cartas
+- Busca a tus personajes favoritos, incluyendo Leo, Raph, Mikey y Donnie en este clásico juego familiar
 - Utiliza tus habilidades estratégicas y utiliza tus cartas especiales para cambiar la dirección del juego, saltar a un jugador o perder un turno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

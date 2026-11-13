@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El juego viene con un edificio de tiendas departamentales de dos pisos
 - También hay un balcón mirador
+- El juego viene con un edificio de tiendas departamentales de dos pisos
 - Una torre de entrada y un ascensor real
 - Para estimular el juego imaginativo de roles en niños
 

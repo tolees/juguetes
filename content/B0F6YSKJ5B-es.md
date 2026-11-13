@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🎨 Arte espectacular y componentes premium con ilustraciones de Antoine Carrion y cartas de gran formato que crean una experiencia inmersiva en la temática vikinga
-- 🏆 Incluye modo experto y alta rejugabilidad gracias a variantes avanzadas con artefactos y diferentes configuraciones de barco, perfecto para jugadores casuales y expertos
-- 🧠 Mecánicas accesibles y profundas que combinan gestión de mano, set collection y carreras por puntos, ofreciendo partidas ágiles pero con gran profundidad estratégica
 - 🛶 Juego de mesa rápido y rejugable para 2 a 4 jugadores con partidas dinámicas de aproximadamente 30 minutos, ideal para familias, amigos y aficionados a los juegos de estrategia modernos
+- 🧠 Mecánicas accesibles y profundas que combinan gestión de mano, set collection y carreras por puntos, ofreciendo partidas ágiles pero con gran profundidad estratégica
+- 🏆 Incluye modo experto y alta rejugabilidad gracias a variantes avanzadas con artefactos y diferentes configuraciones de barco, perfecto para jugadores casuales y expertos
 - ⚔️ Conquista el mundo vikingo reclutando guerreros, explorando territorios y construyendo rutas comerciales en un emocionante juego de estrategia con ambientación nórdica lleno de decisiones tácticas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esta edición especial de Dobble incluye las princesas Disney y algunos personajes más.
-- Gracias a su caja metálica, te lo podrás llevar donde quieras.
+- De 2 a 8 jugadores
 - En Dobble solamente hay 1 símbolo idéntico entre cada 2 cartas. ¡A buscar!
+- Gracias a su caja metálica, te lo podrás llevar donde quieras.
 - A partir de 4 años de edad. Duración media de 15 minutos por partida
 - Juega a uno de los 5 emocionantes desafíos que incluye.
-- De 2 a 8 jugadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPCJ81FT{{</world>}}

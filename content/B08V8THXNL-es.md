@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Basada en el rendimiento con velocidades ssd de hasta 2000.mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
-- Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
 - Capacidad de almacenamiento de memoria: 2000.0
 - Ssd de alto rendimiento con interfaz USB superspeed (20.gb/s) para tu PC o consola
+- Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
 - Dispositivos compatibles: Ordenador de sobremesa
 - Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
 - Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd black

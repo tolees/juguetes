@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Juego de estrategia de Schmidt Spiele
+- Juego de conocedores del año 2018
+- Edad recomendada: a partir de 10 años
 - Duración del juego: 45 minutos
 - Número de jugadores: 2-4 jugadores
-- Juego de estrategia de Schmidt Spiele
-- Edad recomendada: a partir de 10 años
 - Cada uno de los hasta cuatro charlatanes que juegan cocina su propia sopera aquí
-- Juego de conocedores del año 2018
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079MN98TW{{</world>}}

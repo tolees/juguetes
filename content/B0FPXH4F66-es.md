@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Jet vs. Coche 60489 | Juguetes para niños de 6+ años maqueta de avión supercoche de carreras y minifiguras regalo de cumpleaños 259 piezas'
-date: 2026-11-09 17:52:11
+date: 2026-11-13 08:54:32
 image: 'https://m.media-amazon.com/images/I/41YjPWXiGuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXH4F66/?tag=tolees-21'
 descuento: '22.01'
-average: '22.465714285714299'
+average: '22.527333333333345'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

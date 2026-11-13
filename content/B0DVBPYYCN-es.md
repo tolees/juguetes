@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los jugadores colaboran entre sí para encontrar 12 fichas de Juguete. ¡Hazte con las 12 fichas de Juguete para ganar!
 - En el juego de la Búsqueda del tesoro de Bluey, el objetivo es encontrar, jugar y coleccionar.
 - Incluye 4 minifiguras exclusivas: Bluey, Bingo, Bandit y Chilli.
+- Los jugadores colaboran entre sí para encontrar 12 fichas de Juguete. ¡Hazte con las 12 fichas de Juguete para ganar!
 - ¡Juega con Bluey y su familia a la Búsqueda del tesoro!
 - "2-4 Jugadores A partir de 3 años"
 

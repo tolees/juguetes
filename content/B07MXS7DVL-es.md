@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games | Arkham Horror 3ª Edición | Juego de Mesa Cooperativo | Investigación y Terror para Adultos y Jóvenes| A Partir de 14 Años | De 1 a 6 Jugadores | 2-3 Horas por Partida | Español'
-date: 2026-10-26 11:00:24
+date: 2026-11-13 06:29:34
 image: 'https://m.media-amazon.com/images/I/51upcC9GR4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07MXS7DVL-es Fantasy Flight Games | Arkham Horror 3ª Edición | Juego de...'
 sku: 'B07MXS7DVL-es'
 tags: [ 'de','juego','mesa','🇪🇸', ]
-actualPrice: 54.39 EUR
+actualPrice: 40.0 EUR
 currency: EUR
-price: 54.39
+price: 40.0
 comparePrice: 79.99 EUR
 prodname: 'Fantasy Flight Games | Arkham Horror 3ª Edición | Juego de Mesa Cooperativo | Investigación y Terror para Adultos y Jóvenes| A Partir de 14 Años | De 1 a 6 Jugadores | 2-3 Horas por Partida | Español'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MXS7DVL/?tag=tolees-21'
-descuento: '32.00'
-average: '55.2514285714284'
+descuento: '49.99'
+average: '55.791325301204587'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con tutorial y temporizador en la aplicación gratuita de explicación KOSMOS. Se puede jugar con y sin aplicación
-- Ideal como regalo de cumpleaños o para una noche de juego
-- Multijugable: cada ronda una nueva experiencia de juego
-- Inicio adecuado para niños en el mundo EXIT a partir de 5 años
 - Mecanismos y elementos conocidos de los juegos EXIT implementados para niños
-- Fácil de explicar
+- Multijugable: cada ronda una nueva experiencia de juego
 - De la exitosa serie "EXIT – El juego". Un juego de sala de escape para el hogar
 - Monstruos geniales para diversión monstruosa y rompecabezas
+- Ideal como regalo de cumpleaños o para una noche de juego
+- Inicio adecuado para niños en el mundo EXIT a partir de 5 años
+- Con tutorial y temporizador en la aplicación gratuita de explicación KOSMOS. Se puede jugar con y sin aplicación
+- Fácil de explicar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLYF7RX4{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Packaging de coleccionista
 - Figura de 12 cm detallada basada en tus jugadores favoritos
-- Tamaño optimo para coleccionar; con 12 cm de altura, esta mini figura encaja en tu vitrina o en tu escritorio
 - Una generación de coleccionables: expande tu colección de Minix
+- Tamaño optimo para coleccionar; con 12 cm de altura, esta mini figura encaja en tu vitrina o en tu escritorio
 - Ideal para regalo; el regalo adecuado para los más fanáticos del cine y TV
 
 [🛒 Comprar!!!]({{< param buyurl >}})

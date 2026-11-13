@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Expresión característica del personaje
 - Marie con collar y lazo emblemáticos
 - Detalles bordados
+- Expresión característica del personaje
 - Producto inspirado en Los Aristogatos
 - Diseño clásico del personaje
 

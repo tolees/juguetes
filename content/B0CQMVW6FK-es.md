@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ¡10piezas! 1 árbol de equilibrio y 9 bloques
 - Juego creativo inspirado en Montessori para niños y niñas de preescolar a partir de 3 años
-- Está hecho con madera de bosques sostenibles con certificación del Forest Stewardship Council y viene en un embalaje sin plástico
 - Juguete de árbol de equilibrio de madera con actividades de apilamiento prácticas
+- Está hecho con madera de bosques sostenibles con certificación del Forest Stewardship Council y viene en un embalaje sin plástico
 - Ayuda a fomentar el desarrollo de la motricidad fina y la coordinación mano-ojo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

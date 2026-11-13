@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO City Furgoneta de Transporte Penitenciario de Policía de Juguete - Maqueta de Camión con Moto 3 Minifiguras y Puerta de Celda Extraíble - Regalo de Cumpleaños para Niños de 6+ Años 60479'
-date: 2026-08-31 13:24:34
-image: 'https://m.media-amazon.com/images/I/51XPWctpjWL._SL500_._SL400_.jpg'
+title: 'LEGO City Furgoneta de Transporte Penitenciario de Policía 60479 | Juguetes para niños de 6+ años maqueta de camión con moto 3 minifiguras y celda regalo de cumpleaños 198 piezas'
+date: 2026-11-13 11:28:53
+image: 'https://m.media-amazon.com/images/I/51vDrsDhs3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0FPXDHCX5-es LEGO City Furgoneta de Transporte Penitenciario de Policía...'
 sku: 'B0FPXDHCX5-es'
-tags: [ 'lego','🇪🇸', ]
-actualPrice: 14.95 EUR
+tags: [ 'juguetes','lego','🇪🇸', ]
+actualPrice: 16.99 EUR
 currency: EUR
-price: 14.95
+price: 16.99
 comparePrice: 19.99 EUR
-prodname: 'LEGO City Furgoneta de Transporte Penitenciario de Policía de Juguete - Maqueta de Camión con Moto 3 Minifiguras y Puerta de Celda Extraíble - Regalo de Cumpleaños para Niños de 6+ Años 60479'
+prodname: 'LEGO City Furgoneta de Transporte Penitenciario de Policía 60479 | Juguetes para niños de 6+ años maqueta de camión con moto 3 minifiguras y celda regalo de cumpleaños 198 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXDHCX5/?tag=tolees-21'
-descuento: '25.21'
-average: '14.9633333333333'
+descuento: '15.01'
+average: '14.735999999999979'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MINIFIGURAS LEGO: Los niños pueden colocar la minifigura del policía en la furgoneta de juguete, encerrar a un ladrón en la celda y ayudarlo a escapar con la moto conducida por otro ladrón que arranca la puerta de la celda
-- TU CIUDAD, SIN LÍMITES: LEGO City es un lugar donde los niños pueden liberar su ilimitada imaginación. Sus vehículos de juguete, estructuras y personajes inspiran a los peques y los animan a construir, crear, explorar y jugar
-- REGALO DE VEHÍCULO POLICIAL: El juguete de construcción es un gran regalo de cumpleaños para niños y niñas a partir de 6 años con pasión por los juguetes de policías y los juegos creativos
-- FURGONETA DE JUGUETE PARA CONSTRUIR: Este kit de construcción incluye todo lo que los peques necesitan para construir una moto de huida y un camión de policía de juguete con celda en el interior
-- MÁS SETS LEGO CITY POR DESCUBRIR: Los peques darán rienda suelta a más diversión y aventuras en cuanto combinen este set con otros juegos de policías y vehículos de emergencia de juguete (a la venta por separado) de la gama LEGO City
-- FUGA DE LA CÁRCEL: La furgoneta de juguete incluye techo desmontable para observar la cabina detallada y celda para 2 ladrones; la moto incorpora cadena y gancho para abrir la celda, idóneo para el juego de rol
-- JUEGO POLICIAL PARA PEQUES: Sorprende a tu joven fan de la acción con LEGO City Furgoneta de Transporte Penitenciario de Policía de juguete para niños y niñas de 6 años en adelante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXDHCX5{{</world>}}

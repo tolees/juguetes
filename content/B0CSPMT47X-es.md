@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 21 misiones aeroportuarias con diferentes niveles de dificultad.
-- Reglas simples, mucha emoción
-- Para exactamente dos personas a partir de 10 años
-- Juego del Año 2024 en Alemania, versión en alemán
 - Tema original: Aterrizaje de un jet jumbo
 - Juego cooperativo para exactamente dos personas.
+- Reglas simples, mucha emoción
+- Juego del Año 2024 en Alemania, versión en alemán
+- Para exactamente dos personas a partir de 10 años
+- 21 misiones aeroportuarias con diferentes niveles de dificultad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSPMT47X{{</world>}}

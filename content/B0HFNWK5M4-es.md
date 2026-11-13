@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pero… ¿Usted QUIÉN ES?! – Juego de Mesa de Fiestas Divertido y rápido – Juego de Cartas para Familia y Amigos – para conocerse Mejor – De 2 a 8 Jugadores – Idea de Regalo'
-date: 2026-11-08 09:04:12
+date: 2026-11-13 19:08:31
 image: 'https://m.media-amazon.com/images/I/41HPfkvzkhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HFNWK5M4/?tag=tolees-21'
 descuento: '29.59'
-average: '15.300000000000018'
+average: '14.733333333333348'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
