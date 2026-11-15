@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Casco de Jango Fett 75408 | Set para adultos casco con soporte placa de identificación y telémetro ajustable regalo para hombres y mujeres 616 piezas'
-date: 2026-11-12 15:11:25
+date: 2026-11-13 21:49:38
 image: 'https://m.media-amazon.com/images/I/41P3TODtBGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSBVRFM/?tag=tolees-21'
 descuento: '40.01'
-average: '58.740000000000052'
+average: '57.762727272727318'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

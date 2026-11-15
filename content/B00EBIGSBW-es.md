@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Hormigonera 60478 | Juguetes para niños de 7+ años vehículo de construcción con mezcladora giratoria y vertido regalo de cumpleaños 371 piezas'
-date: 2026-11-12 22:42:33
+date: 2026-11-14 10:35:46
 image: 'https://m.media-amazon.com/images/I/51C47TEif1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EBIGSBW/?tag=tolees-21'
 descuento: '20.01'
-average: '30.380000000000084'
+average: '30.503846153846229'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

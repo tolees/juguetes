@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 46 piezas
 - Incluye: trineo de nieve
 - Figura de disfraz de hombre de las nieves
+- Contiene 46 piezas
 - Con licencia de Scooby Doo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

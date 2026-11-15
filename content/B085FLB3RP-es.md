@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Family Fun 70440 Kids Club A Partir de 4 años'
-date: 2026-11-06 06:50:00
+date: 2026-11-14 12:42:38
 image: 'https://m.media-amazon.com/images/I/51hBknPSvpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'playmobil','🇪🇸', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
-comparePrice: 14.95 EUR
+comparePrice: 15.98 EUR
 prodname: 'PLAYMOBIL Family Fun 70440 Kids Club A Partir de 4 años'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B085FLB3RP/?tag=tolees-21'
-descuento: '33.18'
-average: '13.454761904761972'
+descuento: '37.48'
+average: '13.153478260869626'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

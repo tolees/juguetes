@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Botanicals Cactus en Flor 11509 | Juguetes para niñas de 9+ años planta con maceta artificial con 2 cactus y flores regalo de cumpleaños 482 piezas'
-date: 2026-10-15 12:13:31
-image: 'https://m.media-amazon.com/images/I/51onRJZqYgL._SL500_._SL400_.jpg'
+title: 'LEGO Botanicals Cactus en Flor 11509 | Juguetes para niños de 9+ años planta con maceta artificial con 2 cactus y flores regalo de cumpleaños 482 piezas'
+date: 2026-11-14 10:03:08
+image: 'https://m.media-amazon.com/images/I/410AXffRV1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXF7TZV-es LEGO Botanicals Cactus en Flor 11509 | Juguetes para niñas...'
+slug: 'B0FPXF7TZV-es LEGO Botanicals Cactus en Flor 11509 | Juguetes para niños...'
 sku: 'B0FPXF7TZV-es'
 tags: [ 'juguetes','lego','🇪🇸', ]
-actualPrice: 22.49 EUR
+actualPrice: 24.99 EUR
 currency: EUR
-price: 22.49
+price: 24.99
 comparePrice: 29.99 EUR
-prodname: 'LEGO Botanicals Cactus en Flor 11509 | Juguetes para niñas de 9+ años planta con maceta artificial con 2 cactus y flores regalo de cumpleaños 482 piezas'
+prodname: 'LEGO Botanicals Cactus en Flor 11509 | Juguetes para niños de 9+ años planta con maceta artificial con 2 cactus y flores regalo de cumpleaños 482 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXF7TZV/?tag=tolees-21'
-descuento: '25.01'
-average: '22.4147058823529'
+descuento: '16.67'
+average: '22.557777777777741'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

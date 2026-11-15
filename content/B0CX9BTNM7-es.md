@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini coche RC "Caravana"'
-date: 2026-11-12 20:04:17
+date: 2026-11-13 22:21:16
 image: 'https://m.media-amazon.com/images/I/4142Xhd9CsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CX9BTNM7/?tag=tolees-21'
 descuento: '38.93'
-average: '15.559999999999999'
+average: '14.4'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

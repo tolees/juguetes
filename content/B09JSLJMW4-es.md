@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Duck ON Call 70917 Acción Rescate de Bomberos Rescata al Gato Juguetes para niños a Partir de 3 años'
-date: 2026-11-07 06:02:44
+date: 2026-11-14 13:49:15
 image: 'https://m.media-amazon.com/images/I/41tzDBVUqEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09JSLJMW4/?tag=tolees-21'
 descuento: '35.55'
-average: '10.844799999999868'
+average: '10.852592592592471'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

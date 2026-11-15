@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Educa - Dragon Ball Super. Puzzle de 300 Piezas de Goku. A Partir de 8 años 19188'
-date: 2026-10-31 00:15:24
+title: 'Educa - Puzzle Dragon Ball Super | Puzzle 300 Piezas | 8 Años'
+date: 2026-11-15 10:54:34
 image: 'https://m.media-amazon.com/images/I/611Iu3nsTwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0978S5QNS-es Educa - Dragon Ball Super. Puzzle de 300 Piezas de Goku. A...'
+slug: 'B0978S5QNS-es Educa - Puzzle Dragon Ball Super | Puzzle 300 Piezas | 8 Años'
 sku: 'B0978S5QNS-es'
 tags: [ 'puzzle','🇪🇸', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99
 comparePrice: 11.99 EUR
-prodname: 'Educa - Dragon Ball Super. Puzzle de 300 Piezas de Goku. A Partir de 8 años 19188'
+prodname: 'Educa - Puzzle Dragon Ball Super | Puzzle 300 Piezas | 8 Años'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0978S5QNS/?tag=tolees-21'
 descuento: '41.70'
-average: '7.01'
+average: '7.0042857142857145'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

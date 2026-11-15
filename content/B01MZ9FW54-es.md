@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Icons Mansión de la Alcaldesa 11383 | Set para adultos maqueta 3D de casa de estilo gótico y 3 minifiguras que brillan regalo de cumpleaños 1420 piezas'
-date: 2026-11-10 13:35:01
+date: 2026-11-14 20:02:10
 image: 'https://m.media-amazon.com/images/I/41ewrConQrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MZ9FW54/?tag=tolees-21'
 descuento: '20.04'
-average: '99.9725'
+average: '96.968571428571423'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

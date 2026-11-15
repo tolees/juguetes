@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO One Piece Barco Pirata Going Merry 75639 | Juguetes para niños de 10+ años maqueta de barco 5 minifiguras incl. Luffy regalo de cumpleaños 1376 piezas'
-date: 2026-11-12 22:36:44
+date: 2026-11-14 10:35:21
 image: 'https://m.media-amazon.com/images/I/51+a92xgCDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWDQYB87/?tag=tolees-21'
 descuento: '20.00'
-average: '103.75238095238078'
+average: '103.76318181818165'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

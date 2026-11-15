@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Incluye numerosos accesorios, como una camita o un completo equipo médico
-- Cambia de color según la temperatura
 - Evi love ha cogido la varicela; cuídala para que recupere la salud
+- Cambia de color según la temperatura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XH96PJT{{</world>}}

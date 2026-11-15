@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Valores: desarrollo de la imaginación, la creatividad, la habilidad manual y el reuferzo de la autoestima
 - Maquíllate como mamá con el set de maquillaje Hello Kitty
-- Incluye: 10 sombras de ojos, 10 brillos de labios, 1 pincel de esponja, 1 pincel de labios, 2 esmaltes de uñas, 1 esponja separador de uñas y 3 barras de labios
 - Edad: a partir de 5 años
+- Valores: desarrollo de la imaginación, la creatividad, la habilidad manual y el reuferzo de la autoestima
+- Incluye: 10 sombras de ojos, 10 brillos de labios, 1 pincel de esponja, 1 pincel de labios, 2 esmaltes de uñas, 1 esponja separador de uñas y 3 barras de labios
 - Estudio profesional de maquillaje Hello Kitty con luces y espejo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

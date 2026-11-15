@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - JUEGO DE BALONCESTO DIVERTIDO Y FÁCIL DE JUGAR: Dispara, machaca y bloquea a cualquier edad o nivel
 - CAOS DE MASCOTAS: Sumérgete en las travesuras con la mascota de tu equipo favorito
-- PRACTICA TUS MOVIMIENTOS: Entrena, compite o diviértete — elige tus modos de juego
 - CREA TU ALINEACIÓN PERFECTA: Crea y personaliza tu equipo
+- PRACTICA TUS MOVIMIENTOS: Entrena, compite o diviértete — elige tus modos de juego
 - COOPERATIVA EN LA CANCHA: Juega con amigos y familia para diversión de 4 jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

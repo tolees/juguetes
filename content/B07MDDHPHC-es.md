@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Manos intercambiables
+- Incluye una pieza para formar a broly en versión super saiyan; colecciónalas todas
 - Figura con alto nivel de detalle
 - 17 cm de alto
-- Incluye una pieza para formar a broly en versión super saiyan; colecciónalas todas
-- Manos intercambiables
 - 17 puntos de articulación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

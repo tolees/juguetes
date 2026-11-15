@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Winnie The Pooh 43300 | Set para adultos figura articulada con tarro de miel minifigura de oso y figura de Ígor regalo de cumpleaños 1399 piezas'
-date: 2026-11-13 12:06:19
+date: 2026-11-14 14:02:46
 image: 'https://m.media-amazon.com/images/I/41YJ89Ja7RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPVXCY7B/?tag=tolees-21'
 descuento: '33.40'
-average: '120.04724137931031'
+average: '118.74741935483867'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

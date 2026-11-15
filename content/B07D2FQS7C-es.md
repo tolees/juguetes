@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Siete nuevos e intrépidos investigadores se unen a una misión en la que se verán forjados por el fuego del destino o consumidos por él
 - La expansión las máscaras de nyarlathotep envía a los investigadores contra el caos reptante en una batalla por el alma de la humanidad
 - Este producto es una expansión y requiere eldritch horror para jugar
+- Siete nuevos e intrépidos investigadores se unen a una misión en la que se verán forjados por el fuego del destino o consumidos por él
 - Las máscaras de nyarlathotep presenta historias personales específicas de cada investigador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

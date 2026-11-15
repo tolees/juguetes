@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Devir - Carcassonne Colocación de Losetas Medieval SdJ 2001 Versión Española'
-date: 2026-08-24 18:21:49
-image: 'https://m.media-amazon.com/images/I/515cgNg-tiL._SL500_._SL400_.jpg'
+date: 2026-11-15 07:49:14
+image: 'https://m.media-amazon.com/images/I/41koD5lnXtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00W5LCL8G-es Devir - Carcassonne Colocación de Losetas Medieval SdJ...'
 sku: 'B00W5LCL8G-es'
 tags: [ 'devir','🇪🇸', ]
-actualPrice: 23.99 EUR
+actualPrice: 19.5 EUR
 currency: EUR
-price: 23.99
-comparePrice: 29.98 EUR
+price: 19.5
+comparePrice: 30.0 EUR
 prodname: 'Devir - Carcassonne Colocación de Losetas Medieval SdJ 2001 Versión Española'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W5LCL8G/?tag=tolees-21'
-descuento: '19.98'
-average: '24.0475982532748'
+descuento: '35.00'
+average: '24.008225108224803'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🏆 Ganador del Spiel des Jahres 2001, uno de los juegos de mesa más influyentes del mundo
-- 🔄 Gran rejugabilidad gracias a sus mapas únicos y decisiones tácticas en cada turno
-- 🧩 Juego de estrategia con colocación de losetas fácil de aprender y difícil de dominar
-- 👥 Ideal para 2 a 5 jugadores, perfecto para familias, parejas y grupos de amigos
-- 🏰 Construye ciudades, caminos y monasterios en un tablero diferente en cada partida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00W5LCL8G{{</world>}}

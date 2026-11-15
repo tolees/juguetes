@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Coche de Carreras Visa Cash App RB VCARB 01 F1 77246 | Set para adultos maqueta de coche F1 minifigura de piloto de Fórmula 1 regalo para hombres y mujeres 248 piezas'
-date: 2026-10-31 05:50:28
+date: 2026-11-13 21:52:45
 image: 'https://m.media-amazon.com/images/I/41-7vp5GTJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DHS9JVGJ-es LEGO Speed Champions Coche de Carreras Visa Cash App RB...'
 sku: 'B0DHS9JVGJ-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 22.39 EUR
+actualPrice: 21.59 EUR
 currency: EUR
-price: 22.39
+price: 21.59
 comparePrice: 26.99 EUR
 prodname: 'LEGO Speed Champions Coche de Carreras Visa Cash App RB VCARB 01 F1 77246 | Set para adultos maqueta de coche F1 minifigura de piloto de Fórmula 1 regalo para hombres y mujeres 248 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHS9JVGJ/?tag=tolees-21'
-descuento: '17.04'
-average: '21.4114285714285'
+descuento: '20.01'
+average: '21.419545454545389'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

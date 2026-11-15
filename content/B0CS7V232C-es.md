@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Junior 71683 Camión de Bombero con Escalera Extensible y Bombero Hecho de plásticos a Base de Plantas Juguetes para niños y niñas a Partir de 1 año'
-date: 2026-11-07 10:29:09
+date: 2026-11-15 07:09:11
 image: 'https://m.media-amazon.com/images/I/41ppNnxEfFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CS7V232C/?tag=tolees-21'
 descuento: '30.02'
-average: '14.01'
+average: '13.655'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

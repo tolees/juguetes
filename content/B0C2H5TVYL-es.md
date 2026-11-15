@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Excursión en Bicicleta de montaña'
-date: 2026-11-07 12:42:47
+date: 2026-11-14 14:55:21
 image: 'https://m.media-amazon.com/images/I/51cYfY07tEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C2H5TVYL/?tag=tolees-21'
 descuento: '28.26'
-average: '17.982727272727271'
+average: '17.977692307692305'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

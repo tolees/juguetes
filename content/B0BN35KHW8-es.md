@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 30 cm de altura
-- ¡Limit Breaker son las figuras más grandes y espectaculares de la línea de Dragon Ball!
 - 30 cm de altura y 5 puntos de articulación
-- Figura limit breaker series goku super saiyan
-- Gran nivel de detalle y decoración
 - Ideal para recrear los combates y escenas más épicas
+- Figura limit breaker series goku super saiyan
+- 30 cm de altura
+- Gran nivel de detalle y decoración
 - Figura de la serie Limit Breaker de Kid Buu
+- ¡Limit Breaker son las figuras más grandes y espectaculares de la línea de Dragon Ball!
 - Packaging premium
 
 [🛒 Aquí!!!]({{< param buyurl >}})

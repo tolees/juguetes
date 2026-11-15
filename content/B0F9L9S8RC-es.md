@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Olvídate de la lógica y déjate llevar por tu instinto!
 - ¡Contenido adicional!
+- ¡Olvídate de la lógica y déjate llevar por tu instinto!
 - Mejoras de calidad de vida.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Buldócer Amarillo 60466 | Juguetes para niños de 8+ años vehículo de obra de juguete 3 minifiguras walkie-talkie regalo de cumpleaños 682 piezas'
-date: 2026-11-12 15:03:08
+date: 2026-11-13 21:50:33
 image: 'https://m.media-amazon.com/images/I/51TMlhrsR+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWF1T6CZ/?tag=tolees-21'
 descuento: '40.01'
-average: '44.358181818181905'
+average: '43.660833333333407'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

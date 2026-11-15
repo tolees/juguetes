@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Bonsái 10281 | Set para adultos flores y plantas artificiales decoración del hogar y oficina regalo para mujeres y hombres 878 piezas'
-date: 2026-11-09 10:34:02
+date: 2026-11-14 11:47:46
 image: 'https://m.media-amazon.com/images/I/41lHN24YhwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G4PCG8F-es LEGO Botanicals Bonsái 10281 | Set para adultos flores y...'
 sku: 'B08G4PCG8F-es'
 tags: [ 'lego','🇪🇸', ]
-actualPrice: 38.99 EUR
+actualPrice: 42.49 EUR
 currency: EUR
-price: 38.99
+price: 42.49
 comparePrice: 49.99 EUR
 prodname: 'LEGO Botanicals Bonsái 10281 | Set para adultos flores y plantas artificiales decoración del hogar y oficina regalo para mujeres y hombres 878 piezas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08G4PCG8F/?tag=tolees-21'
-descuento: '22.00'
-average: '55.612267441860105'
+descuento: '15.00'
+average: '55.461436781608839'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

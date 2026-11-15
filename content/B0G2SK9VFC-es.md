@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Gráficos pixelados en 2D encantadoramente mejorados!
 - ¡Banda sonora reorganizada y música completamente nueva!
+- ¡Gráficos pixelados en 2D encantadoramente mejorados!
 - ¡Una versión optimizada del clásico de 2009!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

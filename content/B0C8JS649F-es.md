@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'smartGyro K5 PRO - Patinete eléctrico de 48V 1000W 15.000 mAh Suspensiones Delanteras y Traseras Display Multifunción Ruedas de 10 Neumáticas Black 1000w 15Ah'
-date: 2026-11-13 17:11:52
+date: 2026-11-14 23:16:26
 image: 'https://m.media-amazon.com/images/I/41n6x20ANrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C8JS649F/?tag=tolees-21'
 descuento: '32.44'
-average: '601.61272727272683'
+average: '592.09846153846115'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

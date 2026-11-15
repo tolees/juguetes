@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL myLife 71451 Fiesta de Disfraces disfrazándose de ángel Vaquero Princesa y más con Muchos Accesorios Juguetes para niños a Partir de 4 años'
-date: 2026-11-10 19:03:10
+date: 2026-11-14 08:14:22
 image: 'https://m.media-amazon.com/images/I/416m0PReg7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CK2HKW1C/?tag=tolees-21'
 descuento: '46.59'
-average: '11.543448275862069'
+average: '11.440645161290323'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

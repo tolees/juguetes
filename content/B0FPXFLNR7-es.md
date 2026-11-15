@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Plantas Bailarinas 11506 | Juguetes para niños de 9+ años set con 2 flores artificiales y macetas color pastel regalo de cumpleaños 253 piezas'
-date: 2026-11-12 22:37:28
+date: 2026-11-14 12:03:26
 image: 'https://m.media-amazon.com/images/I/51lL7ImWRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPXFLNR7/?tag=tolees-21'
 descuento: '15.01'
-average: '17.602'
+average: '17.546363636363637'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

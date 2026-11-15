@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metal Gear Solid Master Collection Vol. 1 - PS5'
-date: 2026-10-08 07:54:32
+date: 2026-11-14 16:04:24
 image: 'https://m.media-amazon.com/images/I/51Z3+hugHoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C9BN871X/?tag=tolees-21'
 descuento: '17.60'
-average: '38.9136666666668'
+average: '38.721290322580771'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

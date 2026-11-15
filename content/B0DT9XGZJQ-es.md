@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Hay 7 diferentes para coleccionar, 2 ultrararos y 1 brilla en la oscuridad. Puedes llevarlos en su cajita y llevarlos colgados.
 - Muéstrales tu amor y ambos cambian de color.
-- Una mascota del tamaño de tu meñique que podrás llevar contigo gracias a su pulsera de la amistad.
 - Además, dentro de la cola se esconde un mini-bestie.
+- Una mascota del tamaño de tu meñique que podrás llevar contigo gracias a su pulsera de la amistad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT9XGZJQ{{</world>}}

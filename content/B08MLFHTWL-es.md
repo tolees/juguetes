@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de calidad
 - Sencillo de usar
+- Material de calidad
 - Ofrece un resultado óptimo y adecuado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

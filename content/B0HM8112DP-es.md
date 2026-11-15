@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pokemon ZA NS2 + Mega Dimension - Nintendo Switch 2'
-date: 2026-11-13 17:04:09
+date: 2026-11-15 13:32:31
 image: 'https://m.media-amazon.com/images/I/515OZ4Ta+8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HM8112DP/?tag=tolees-21'
 descuento: '20.00'
-average: '85.808333333333323'
+average: '84.977142857142852'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

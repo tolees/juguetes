@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VEHÍCULO ICÓNICO: Rescata al Canciller con el INTERCEPTOR JEDI DE ANAKIN SKYWALKER
 - TRIPULACIÓN ICÓNICA: contiene microfiguras de Anakin Skywalker y R2-D2 de 2,5cm
+- VEHÍCULO ICÓNICO: Rescata al Canciller con el INTERCEPTOR JEDI DE ANAKIN SKYWALKER
 - ESCALA AUTÉNTICA: el vehículo de 8cm con detalles increíbles y a escala. Producto de Star Wars con licencia oficial.
 - CARGA COMPLETA: Incluye todos los detalles, cabina abatible, tren de aterrizaje retráctil y más
 - Producto distribuido en España por BIZAK. Servicio atención al cliente disponible todo el año (sat@bizak.es)

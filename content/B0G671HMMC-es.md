@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Space Esa Cohete de investigación a Marte| Cohete Modular con Plataforma de Lanzamiento y 2 astronautas | Juguete para niños a Partir de 4 años | 72011'
-date: 2026-11-13 13:42:28
+date: 2026-11-14 15:25:12
 image: 'https://m.media-amazon.com/images/I/41KpWAebvqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G671HMMC/?tag=tolees-21'
 descuento: '33.34'
-average: '43.324999999999974'
+average: '42.95444444444442'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

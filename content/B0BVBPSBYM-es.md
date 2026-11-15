@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa - Spidey | Superpack 4 en 1 con puzzles dominó y memory | +3 años | Rompecabezas de 25 y 50 piezas parejas y fichas | Juegos con Spider-Man y amigos | Regalo para cumpleaños o Reyes 19682'
-date: 2026-11-13 14:27:43
+date: 2026-11-14 19:06:52
 image: 'https://m.media-amazon.com/images/I/519SJOcD-FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BVBPSBYM/?tag=tolees-21'
 descuento: '42.82'
-average: '9.96'
+average: '9.5680000000000014'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

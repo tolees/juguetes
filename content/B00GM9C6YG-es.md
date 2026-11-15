@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Huevos - Familia Playera Accesorios de muñecos y Figuras 4941'
-date: 2026-11-11 13:05:02
+date: 2026-11-13 21:37:14
 image: 'https://m.media-amazon.com/images/I/41ZqY706LnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'muñecos','playmobil','🇪🇸', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69
-comparePrice: 12.69 EUR
+comparePrice: 12.9 EUR
 prodname: 'PLAYMOBIL Huevos - Familia Playera Accesorios de muñecos y Figuras 4941'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GM9C6YG/?tag=tolees-21'
-descuento: '39.40'
-average: '8.026'
+descuento: '40.39'
+average: '7.97'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

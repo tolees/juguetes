@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel KPop Demon Hunters HUNTR/X Rumi “Golden” Muñeca Cantante | Con conjunto distintivo removible 5 articulaciones inspirada en la película JRN40'
-date: 2026-11-12 13:41:00
+date: 2026-11-14 21:05:22
 image: 'https://m.media-amazon.com/images/I/41vMzsedOAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

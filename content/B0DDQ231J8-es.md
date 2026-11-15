@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Romancing SaGa - Minstrel Song- Remastered International - NINTENDO SWITCH'
-date: 2026-02-25 14:29:21
-image: 'https://m.media-amazon.com/images/I/51f4dlKXs-L._SL500_._SL400_.jpg'
+date: 2026-11-14 09:05:36
+image: 'https://m.media-amazon.com/images/I/411Ov8KRi+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0DDQ231J8-es Romancing SaGa - Minstrel Song- Remastered International -...'
 sku: 'B0DDQ231J8-es'
 tags: [ 'nintendo','🇪🇸', ]
-actualPrice: 29.99 EUR
+actualPrice: 34.19 EUR
 currency: EUR
-price: 29.99
+price: 34.19
 comparePrice: 44.99 EUR
 prodname: 'Romancing SaGa - Minstrel Song- Remastered International - NINTENDO SWITCH'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DDQ231J8/?tag=tolees-21'
-descuento: '33.34'
-average: '29.99'
+descuento: '24.01'
+average: '32.089999999999996'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Romancing SaGa - Minstrel Song- Remastered International - NINTENDO SWITCH
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDQ231J8{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Horizon Aloy y Varl vs. Cangrejo y Dientes Serrados 77037 | Juguetes para niños de 9+ años robots y monstruos del videojuego minifiguras con armas regalo gamer 768 piezas'
-date: 2026-11-13 09:37:42
+date: 2026-11-14 10:35:33
 image: 'https://m.media-amazon.com/images/I/51k+m0ftq7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHSDB91W/?tag=tolees-21'
 descuento: '22.23'
-average: '30.351764705882232'
+average: '30.839999999999893'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

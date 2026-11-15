@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiempo de juego de 45 minutos
-- Fabricado en España
 - 2 - 4 jugadores
 - A partir de 10 años
+- Fabricado en España
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071FKFWCT{{</world>}}
